@@ -26,7 +26,6 @@ import {
 import type { ServerGroupedSection } from "akasha/page/ui/component/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 interface PageBoardProps {
   groups: readonly ServerGroupedSection[]

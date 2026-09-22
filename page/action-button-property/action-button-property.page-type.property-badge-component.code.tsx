@@ -15,7 +15,6 @@ import {
 } from "akasha/page/ui/modules/action-verb-registry/action-verb-registry.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { type MouseEvent, useEffect } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export function Drawing({ property, pageData, pageId, pageTypeSlug }: PropertyBadgeProps) {
   const config = parseConfig(actionButtonConfigSchema, property.config, { verbId: "" })

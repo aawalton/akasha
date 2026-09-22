@@ -1,14 +1,6 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/system/modules/surface-elevation/surface-elevation.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/system/modules/text-colors/text-colors.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/action-button-property/action-button-property.page-type.property-badge-component.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/page.page-type.page-card-component.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/page.page-type.page-row-component.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/create-view-popover/create-view-popover.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/page-board/page-board.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/page-card-cover/page-card-cover.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/page-table-header/page-table-header.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/character-management-panel-card/character-management-panel-card.module.code.tsx"}

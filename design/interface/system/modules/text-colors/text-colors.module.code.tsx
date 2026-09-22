@@ -3,7 +3,6 @@
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { TokenSwatch } from "akasha/design/interface/system/modules/token-swatch/token-swatch.module.code.tsx"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export function TextColorsPanel() {
   return (

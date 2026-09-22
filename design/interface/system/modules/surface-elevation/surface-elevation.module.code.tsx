@@ -3,7 +3,6 @@
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { TokenSwatch } from "akasha/design/interface/system/modules/token-swatch/token-swatch.module.code.tsx"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export function SurfaceElevationPanel() {
   return (

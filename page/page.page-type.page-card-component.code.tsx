@@ -22,7 +22,6 @@ import { useOverflowFade } from "akasha/page/ui/component/modules/use-overflow-f
 import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { CheckCircle2, Circle } from "lucide-react"
 import { useMemo } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function Drawing({
