@@ -5,7 +5,6 @@ import {
 } from "akasha/alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.reading.code.ts"
 import { tasksIn } from "akasha/alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.reading.code.ts"
 import { keepReading } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
-import { statedAt } from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
@@ -13,6 +12,7 @@ import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.t
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import { temperTasksIn } from "akasha/temper/player/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.reading.code.ts"
 
 const READOUT = "readout"
 
@@ -38,8 +38,6 @@ export function temperTasksPage(root: string): string {
   return pageOf(root, "inboxes-temper-tasks")
 }
 
-const TEMPER_TASKS_KEY = "inbox-temper-tasks"
-
 const NOTHING_TO_TAKE =
   "no inbox could be read, so there is no reading to take. A tile showing no signal is right " +
   "where a tile showing an inbox nobody counted would be a lie."
@@ -51,10 +49,6 @@ const SOME_STAND_STALE =
 export type Taken = {
   readonly kept: Readonly<Record<string, number>>
   readonly unread: readonly string[]
-}
-
-function temperTasksIn(values: Readonly<Record<string, unknown>>): number | null {
-  return statedAt(values[TEMPER_TASKS_KEY])
 }
 
 async function trackedDay(day: string): Promise<Readonly<Record<string, unknown>> | null> {
@@ -112,7 +106,7 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
     keep(
       temperTasksAt,
       temperTasksIn(values),
-      `the tracking day for ${esoDay} states no \`${TEMPER_TASKS_KEY}\``
+      `the tracking day for ${esoDay} states no game task count`
     )
   }
 

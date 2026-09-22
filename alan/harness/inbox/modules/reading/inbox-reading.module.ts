@@ -66,10 +66,6 @@ export const inboxReading = {
       statement: "`valuesOfType` answers a page type the index does not have with no rows.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The temper task key is spelled here rather than imported from `temper-progress`.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "The temper task count is read with the same reader the temper module uses.",
     },
