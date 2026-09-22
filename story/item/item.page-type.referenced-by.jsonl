@@ -1,8 +1,13 @@
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-burning-anger.item.ts"}
+{"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-clouded-lens.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-hooded-lantern.item.ts"}
+{"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-reclaimed-den-metal.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-river-stone.item.ts"}
+{"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-snapped-cold-iron-blade.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-stalker-eye-lens.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-stalker-hide-cloak.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-stalker-hide.item.ts"}
+{"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-winding-drum-core.item.ts"}
+{"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-woven-light-mantle.item.ts"}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"target-page-type","path":"story/mechanic/metric/item/properties/metric-of-item.relation-property.ts","id":"01a0ca49-715d-7b33-94ee-db0c9c321b9c"}
