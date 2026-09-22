@@ -6,5 +6,6 @@ export const quillOfTheSeveredContract = {
   slug: "quill-of-the-severed-contract",
   title: "Quill of the Severed Contract",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

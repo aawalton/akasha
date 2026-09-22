@@ -6,5 +6,6 @@ export const perfectCounterattack = {
   slug: "perfect-counterattack",
   title: "Perfect Counterattack",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

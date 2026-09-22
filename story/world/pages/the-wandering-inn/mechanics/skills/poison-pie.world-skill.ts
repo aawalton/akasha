@@ -6,5 +6,6 @@ export const poisonPie = {
   slug: "poison-pie",
   title: "Poison Pie",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

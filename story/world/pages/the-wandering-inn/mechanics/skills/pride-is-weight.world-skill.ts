@@ -6,5 +6,6 @@ export const prideIsWeight = {
   slug: "pride-is-weight",
   title: "Pride is Weight",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   references: "jsonl",
 } as const satisfies WorldSkill

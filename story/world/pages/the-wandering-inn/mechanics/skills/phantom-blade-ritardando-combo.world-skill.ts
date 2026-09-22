@@ -6,5 +6,6 @@ export const phantomBladeRitardandoCombo = {
   slug: "phantom-blade-ritardando-combo",
   title: "Phantom Blade: Ritardando Combo",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

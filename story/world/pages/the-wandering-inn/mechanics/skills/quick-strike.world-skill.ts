@@ -6,5 +6,6 @@ export const quickStrike = {
   slug: "quick-strike",
   title: "Quick Strike",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

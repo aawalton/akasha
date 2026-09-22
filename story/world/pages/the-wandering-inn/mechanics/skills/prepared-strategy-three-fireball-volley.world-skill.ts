@@ -6,5 +6,6 @@ export const preparedStrategyThreeFireballVolley = {
   slug: "prepared-strategy-three-fireball-volley",
   title: "Prepared Strategy Three: Fireball Volley",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

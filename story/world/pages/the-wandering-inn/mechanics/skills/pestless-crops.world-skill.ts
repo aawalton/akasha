@@ -6,5 +6,6 @@ export const pestlessCrops = {
   slug: "pestless-crops",
   title: "Pestless Crops",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

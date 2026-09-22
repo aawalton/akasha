@@ -6,5 +6,6 @@ export const provokeTarget = {
   slug: "provoke-target",
   title: "Provoke Target",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

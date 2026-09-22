@@ -6,5 +6,6 @@ export const prideOfTheArenaYourGreatestBlowWorthless = {
   slug: "pride-of-the-arena-your-greatest-blow-worthless",
   title: "Pride of the Arena: Your Greatest Blow, Worthless",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

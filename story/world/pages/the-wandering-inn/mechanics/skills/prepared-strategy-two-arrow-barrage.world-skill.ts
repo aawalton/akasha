@@ -6,5 +6,6 @@ export const preparedStrategyTwoArrowBarrage = {
   slug: "prepared-strategy-two-arrow-barrage",
   title: "Prepared Strategy Two: Arrow Barrage",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

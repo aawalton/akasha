@@ -6,5 +6,6 @@ export const protectIdentityDoorguests = {
   slug: "protect-identity-doorguests",
   title: "Protect Identity: Doorguests",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

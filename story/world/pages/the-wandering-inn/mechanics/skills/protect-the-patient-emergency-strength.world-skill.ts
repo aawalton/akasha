@@ -6,5 +6,6 @@ export const protectThePatientEmergencyStrength = {
   slug: "protect-the-patient-emergency-strength",
   title: "Protect the Patient: Emergency Strength",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

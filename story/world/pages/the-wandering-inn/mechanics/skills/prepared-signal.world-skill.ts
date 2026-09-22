@@ -6,6 +6,7 @@ export const preparedSignal = {
   slug: "prepared-signal",
   title: "Prepared Signal",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesToSlugs: ["plotter-s-network"],
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const perfectTemperatureControl = {
   slug: "perfect-temperature-control",
   title: "Perfect Temperature Control",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

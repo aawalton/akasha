@@ -6,5 +6,6 @@ export const potions148Efficiency = {
   slug: "potions-148-efficiency",
   title: "Potions: 148% Efficiency",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

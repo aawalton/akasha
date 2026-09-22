@@ -6,5 +6,6 @@ export const piercingShots = {
   slug: "piercing-shots",
   title: "Piercing Shots",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   references: "jsonl",
 } as const satisfies WorldSkill

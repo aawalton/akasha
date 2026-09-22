@@ -6,5 +6,6 @@ export const preferredFoeCriminal = {
   slug: "preferred-foe-criminal",
   title: "Preferred Foe: Criminal",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

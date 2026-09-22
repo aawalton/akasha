@@ -6,5 +6,6 @@ export const preserveMemory = {
   slug: "preserve-memory",
   title: "Preserve Memory",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

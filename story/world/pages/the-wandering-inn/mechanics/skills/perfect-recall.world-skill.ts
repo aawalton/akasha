@@ -6,5 +6,6 @@ export const perfectRecall = {
   slug: "perfect-recall",
   title: "Perfect Recall",
   world: "world/the-wandering-inn",
+  appearanceCount: 14,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const pragmatistSExtrapolation = {
   slug: "pragmatist-s-extrapolation",
   title: "Pragmatist’s Extrapolation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

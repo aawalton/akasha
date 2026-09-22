@@ -6,5 +6,6 @@ export const prepareBattlefieldAnywhereYouComeForUs = {
   slug: "prepare-battlefield-anywhere-you-come-for-us",
   title: "Prepare Battlefield: Anywhere You Come for Us",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

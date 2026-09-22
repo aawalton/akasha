@@ -6,5 +6,6 @@ export const prayersOfHealing = {
   slug: "prayers-of-healing",
   title: "Prayers of Healing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

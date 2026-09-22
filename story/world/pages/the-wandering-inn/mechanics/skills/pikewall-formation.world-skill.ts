@@ -6,5 +6,6 @@ export const pikewallFormation = {
   slug: "pikewall-formation",
   title: "Pikewall Formation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

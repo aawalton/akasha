@@ -6,5 +6,6 @@ export const quicktimeReactions = {
   slug: "quicktime-reactions",
   title: "Quicktime Reactions",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

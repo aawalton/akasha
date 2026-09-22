@@ -6,5 +6,6 @@ export const quickSlash = {
   slug: "quick-slash",
   title: "Quick Slash",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   references: "jsonl",
 } as const satisfies WorldSkill

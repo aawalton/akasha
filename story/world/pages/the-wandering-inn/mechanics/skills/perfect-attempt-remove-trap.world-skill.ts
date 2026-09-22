@@ -6,5 +6,6 @@ export const perfectAttemptRemoveTrap = {
   slug: "perfect-attempt-remove-trap",
   title: "Perfect Attempt: Remove Trap",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

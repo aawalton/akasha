@@ -6,5 +6,6 @@ export const proofOfCrime = {
   slug: "proof-of-crime",
   title: "Proof of Crime",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

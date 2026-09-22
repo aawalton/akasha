@@ -6,5 +6,6 @@ export const phoenixflameDraw = {
   slug: "phoenixflame-draw",
   title: "Phoenixflame Draw",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const radianceOfTheDawn = {
   slug: "radiance-of-the-dawn",
   title: "Radiance of the Dawn",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

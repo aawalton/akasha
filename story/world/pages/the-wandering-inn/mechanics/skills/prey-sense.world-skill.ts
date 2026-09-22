@@ -6,5 +6,6 @@ export const preySense = {
   slug: "prey-sense",
   title: "Prey Sense",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

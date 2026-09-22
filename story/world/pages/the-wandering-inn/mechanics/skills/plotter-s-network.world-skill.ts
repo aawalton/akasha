@@ -6,6 +6,7 @@ export const plotterSNetwork = {
   slug: "plotter-s-network",
   title: "Plotter’s Network",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesFromSlugs: ["prepared-signal"],
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const plaguesOfEgyptSwarmsOfPestilence = {
   slug: "plagues-of-egypt-swarms-of-pestilence",
   title: "Plagues of Egypt: Swarms of Pestilence",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

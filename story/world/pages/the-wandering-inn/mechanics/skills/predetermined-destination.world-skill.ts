@@ -6,5 +6,6 @@ export const predeterminedDestination = {
   slug: "predetermined-destination",
   title: "Predetermined Destination",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

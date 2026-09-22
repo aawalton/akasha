@@ -6,5 +6,6 @@ export const primalFear = {
   slug: "primal-fear",
   title: "Primal Fear",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

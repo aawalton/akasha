@@ -6,5 +6,6 @@ export const petBestQualityRefined = {
   slug: "pet-best-quality-refined",
   title: "Pet: Best Quality, Refined",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

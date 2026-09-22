@@ -6,5 +6,6 @@ export const performanceSupplies5Gold = {
   slug: "performance-supplies-5-gold",
   title: "Performance Supplies: 5 Gold",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

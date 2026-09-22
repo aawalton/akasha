@@ -6,5 +6,6 @@ export const pumpingForInformation = {
   slug: "pumping-for-information",
   title: "Pumping for Information",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

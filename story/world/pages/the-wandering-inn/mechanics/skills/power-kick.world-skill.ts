@@ -6,5 +6,6 @@ export const powerKick = {
   slug: "power-kick",
   title: "Power Kick",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

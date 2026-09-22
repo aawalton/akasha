@@ -6,5 +6,6 @@ export const quickenedMixture = {
   slug: "quickened-mixture",
   title: "Quickened Mixture",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

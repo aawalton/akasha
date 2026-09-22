@@ -6,5 +6,6 @@ export const quickDrawBorerAcidVial = {
   slug: "quick-draw-borer-acid-vial",
   title: "Quick Draw: Borer Acid Vial",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

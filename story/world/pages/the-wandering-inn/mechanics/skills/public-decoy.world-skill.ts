@@ -6,5 +6,6 @@ export const publicDecoy = {
   slug: "public-decoy",
   title: "Public Decoy",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const preferredEnemyRogues = {
   slug: "preferred-enemy-rogues",
   title: "Preferred Enemy: Rogues",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const planEmergencyDodge = {
   slug: "plan-emergency-dodge",
   title: "Plan: Emergency Dodge",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const potsContainFaith = {
   slug: "pots-contain-faith",
   title: "Pots: Contain Faith",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

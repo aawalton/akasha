@@ -6,5 +6,6 @@ export const purityCheck = {
   slug: "purity-check",
   title: "Purity Check",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
