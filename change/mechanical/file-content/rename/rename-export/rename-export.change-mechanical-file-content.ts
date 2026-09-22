@@ -7,7 +7,7 @@ export const renameExport = {
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "a name a body exports spelled anew across the paths a caller hands in",
+  definition: "a name a body exports spelled anew across the paths a caller names",
   code: "ts",
   test: "ts",
   changeKind: "change-kind/change-mechanical",

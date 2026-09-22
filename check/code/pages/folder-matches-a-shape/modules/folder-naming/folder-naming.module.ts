@@ -4,7 +4,7 @@ export const folderNaming = {
   id: "01a08862-ae61-7aba-8958-91c3c7732e22",
   type: "page-type/module",
   slug: "folder-naming",
-  definition: "the name a folder is asked for, and the page that name is asked against",
+  definition: "the name a folder is asked for, and the page judging that name",
   code: "ts",
   test: "ts",
   decisions: [

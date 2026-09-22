@@ -4,7 +4,7 @@ export const auditVerdict = {
   id: "01a091e9-689c-7000-a6ba-611889107d33",
   type: "page-type/module",
   slug: "audit-verdict",
-  definition: "what a check's last audit found, and the commits that finding answers for",
+  definition: "what a check's last audit found, and that finding's commits",
   code: "ts",
   test: "ts",
   decisions: [

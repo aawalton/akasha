@@ -4,7 +4,7 @@ export const auditAstUnused = {
   id: "01a0675b-16da-7bfd-8434-ddca9c15459f",
   type: "page-type/domain",
   slug: "audit-ast-unused",
-  definition: "the entry globs reachability is worked out from",
+  definition: "the entry globs working out reachability",
   parts: ["ast-unused-config/every-workspace", "page-type/ast-unused-config"],
   decisions: [
     {

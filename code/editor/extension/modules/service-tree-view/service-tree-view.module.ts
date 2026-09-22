@@ -4,7 +4,7 @@ export const serviceTreeView = {
   id: "01a09c1e-87d4-7555-af5b-31f08996ea13",
   type: "page-type/module",
   slug: "service-tree-view",
-  definition: "the rows the editor asks for of the service tree and the color each row is drawn in",
+  definition: "the service tree rows the editor wants and each row's color",
   code: "ts",
   decisions: [
     {

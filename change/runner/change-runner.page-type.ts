@@ -4,7 +4,7 @@ export const changeRunner = {
   id: "01a077c2-3a15-7c14-8900-ecb0624ff450",
   type: "page-type/page-type",
   slug: "change-runner",
-  definition: "a module running a change named by the address that change is filed under",
+  definition: "a module running a change named by that change's filed address",
   parts: [
     "change-runner/agent-change-running",
     "change-runner/mechanical-change-running",
