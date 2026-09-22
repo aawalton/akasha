@@ -110,6 +110,7 @@
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/name.common-language-term.ts","id":"01a0c933-cff5-7569-80c5-d7484baa2dfb"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/program.common-language-term.ts","id":"01a0c982-c1e5-79dd-86e4-d00b46197d8b"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/run.common-language-term.ts","id":"01a0c937-9efa-79dc-ab59-21f33ba7362a"}
+{"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/word.common-language-term.ts","id":"01a0ca64-b42c-7a4e-ba85-56fcc52a25f4"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/foreign-name-term/pages/kubectl.foreign-name-term.ts","id":"01a0c601-fd2d-778f-b163-16487fa964e0"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/term.page-type.ts","id":"01a081e9-9784-7d46-ac3d-c0dd6d88cb38"}
 {"propertySlug":"part-of-speech","path":"file/file.domain.ts","id":"01a049e9-651c-7004-a164-c9c8df818b18"}
