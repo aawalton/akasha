@@ -1,11 +1,11 @@
-interface TemperVotansMiniMapZoom {
+interface TemperWorldMiniMapZoom {
   zoomIn: number
   zoomOut: number
 }
 
-interface TemperVotansMiniMapGlobal {
+interface TemperWorldMiniMapGlobal {
   name: string
-  account: TemperVotansMiniMapZoom
+  account: TemperWorldMiniMapZoom
   ToggleShowMap: () => void
   ToggleShowHUD: () => void
   ToggleShowCombat: () => void
@@ -15,7 +15,7 @@ interface TemperVotansMiniMapGlobal {
   ToggleFixedOffset: () => void
 }
 
-declare var TemperVotansMiniMap: TemperVotansMiniMapGlobal
+declare var TemperWorldMiniMap: TemperWorldMiniMapGlobal
 
 declare var TemperVotansMiniMap_SavedVariables: unknown
 

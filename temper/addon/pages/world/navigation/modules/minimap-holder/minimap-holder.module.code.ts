@@ -137,7 +137,7 @@ export interface VotansMiniMap {
 }
 
 export const holder: VotansMiniMap = asVotansMiniMap({
-  name: "TemperVotansMiniMap",
+  name: "TemperWorldMiniMap",
   zoneAlertMode: ZONE_ALERT_MODE,
   compassMode: COMPASS_MODE,
   fontFaces: FONT_FACES,

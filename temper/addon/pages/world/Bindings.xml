@@ -2,30 +2,30 @@
 	<Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
 		<Category name="SI_KEYBINDINGS_CATEGORY_TemperVotansMiniMap">
 			<Action name="VOTANS_TOGGLE_MAP_SHOW">
-				<Down>TemperVotansMiniMap:ToggleShowMap()</Down>
+				<Down>TemperWorldMiniMap:ToggleShowMap()</Down>
 			</Action>
 			<Action name="VOTANS_TOGGLE_MAP_SHOW_HUD">
-				<Down>TemperVotansMiniMap:ToggleShowHUD()</Down>
+				<Down>TemperWorldMiniMap:ToggleShowHUD()</Down>
 			</Action>
 			<Action name="VOTANS_TOGGLE_MAP_SHOW_COMBAT">
-				<Down>TemperVotansMiniMap:ToggleShowCombat()</Down>
+				<Down>TemperWorldMiniMap:ToggleShowCombat()</Down>
 			</Action>
 			<Action name="VOTANS_TOGGLE_MAP_ZOOM_OUT">
-				<Down>TemperVotansMiniMap:ToogleZoom(true, TemperVotansMiniMap.account.zoomOut)</Down>
-				<Up>TemperVotansMiniMap:ToogleZoom(false)</Up>
+				<Down>TemperWorldMiniMap:ToogleZoom(true, TemperWorldMiniMap.account.zoomOut)</Down>
+				<Up>TemperWorldMiniMap:ToogleZoom(false)</Up>
 			</Action>
 			<Action name="VOTANS_TOGGLE_MAP_ZOOM_IN">
-				<Down>TemperVotansMiniMap:ToogleZoom(true, TemperVotansMiniMap.account.zoomIn)</Down>
-				<Up>TemperVotansMiniMap:ToogleZoom(false)</Up>
+				<Down>TemperWorldMiniMap:ToogleZoom(true, TemperWorldMiniMap.account.zoomIn)</Down>
+				<Up>TemperWorldMiniMap:ToogleZoom(false)</Up>
 			</Action>
 			<Action name="VOTANS_TOGGLE_MAP_ZOOM_PLUS">
-				<Down>TemperVotansMiniMap:StepZoom(true)</Down>
+				<Down>TemperWorldMiniMap:StepZoom(true)</Down>
 			</Action>
 			<Action name="VOTANS_TOGGLE_MAP_ZOOM_MINUS">
-				<Down>TemperVotansMiniMap:StepZoom(false)</Down>
+				<Down>TemperWorldMiniMap:StepZoom(false)</Down>
 			</Action>
 			<Action name="VOTANS_TOGGLE_MAP_OFFSET_FIX">
-				<Down>TemperVotansMiniMap:ToggleFixedOffset()</Down>
+				<Down>TemperWorldMiniMap:ToggleFixedOffset()</Down>
 			</Action>
 		</Category>
 		<Category name="Temper Leads">
@@ -45,21 +45,21 @@
 	<Layer name="SI_KEYBINDINGS_LAYER_SIEGE" allowFallthrough="false">
 		<Category name="SI_KEYBINDINGS_CATEGORY_TemperVotansMiniMap">
 			<Action name="VOTANS_TOGGLE_MAP_SHOW_SIEGE_HUD">
-				<Down>TemperVotansMiniMap:ToggleShowSiege()</Down>
+				<Down>TemperWorldMiniMap:ToggleShowSiege()</Down>
 			</Action>
 			<Action name="VOTANS_TOGGLE_MAP_ZOOM_OUT_SIEGE" hideAction="true" inheritsBindFrom="VOTANS_TOGGLE_MAP_ZOOM_OUT">
-				<Down>TemperVotansMiniMap:ToogleZoom(true, TemperVotansMiniMap.account.zoomOut)</Down>
-				<Up>TemperVotansMiniMap:ToogleZoom(false)</Up>
+				<Down>TemperWorldMiniMap:ToogleZoom(true, TemperWorldMiniMap.account.zoomOut)</Down>
+				<Up>TemperWorldMiniMap:ToogleZoom(false)</Up>
 			</Action>
 			<Action name="VOTANS_TOGGLE_MAP_ZOOM_IN_SIEGE" hideAction="true" inheritsBindFrom="VOTANS_TOGGLE_MAP_ZOOM_IN">
-				<Down>TemperVotansMiniMap:ToogleZoom(true, TemperVotansMiniMap.account.zoomIn)</Down>
-				<Up>TemperVotansMiniMap:ToogleZoom(false)</Up>
+				<Down>TemperWorldMiniMap:ToogleZoom(true, TemperWorldMiniMap.account.zoomIn)</Down>
+				<Up>TemperWorldMiniMap:ToogleZoom(false)</Up>
 			</Action>
 			<Action name="VOTANS_TOGGLE_MAP_ZOOM_PLUS_SIEGE" hideAction="true" inheritsBindFrom="VOTANS_TOGGLE_MAP_ZOOM_PLUS">
-				<Down>TemperVotansMiniMap:StepZoom(true)</Down>
+				<Down>TemperWorldMiniMap:StepZoom(true)</Down>
 			</Action>
 			<Action name="VOTANS_TOGGLE_MAP_ZOOM_MINUS_SIEGE" hideAction="true" inheritsBindFrom="VOTANS_TOGGLE_MAP_ZOOM_MINUS">
-				<Down>TemperVotansMiniMap:StepZoom(false)</Down>
+				<Down>TemperWorldMiniMap:StepZoom(false)</Down>
 			</Action>
 		</Category>
 	</Layer>

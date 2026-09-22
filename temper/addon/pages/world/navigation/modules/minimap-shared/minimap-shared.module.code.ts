@@ -62,7 +62,7 @@ function pinTaskOnError(this: void, err: unknown): undefined {
   if (pinHit != null && nilHit != null) {
     return
   }
-  df("TemperVotansMiniMap pin task error: %s", msg)
+  df("TemperWorldMiniMap pin task error: %s", msg)
 }
 
 export function createAsyncTask(this: void, name: string): AnyAsyncTask {
