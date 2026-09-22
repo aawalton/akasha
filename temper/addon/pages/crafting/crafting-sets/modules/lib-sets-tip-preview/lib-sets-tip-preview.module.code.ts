@@ -182,7 +182,6 @@ function previewSetTooltipBySlashCommand(this: void, args: string | undefined): 
 
 function createSetTooltipPreviewSlashCommand(this: void): undefined {
   if (lib.libSlashCommander === undefined && !slashCommandsCreated) {
-    SLASH_COMMANDS["/libsetspreview"] = previewSetTooltipBySlashCommand
     SLASH_COMMANDS["/setpreview"] = previewSetTooltipBySlashCommand
     SLASH_COMMANDS["/setsp"] = previewSetTooltipBySlashCommand
     SLASH_COMMANDS["/lsp"] = previewSetTooltipBySlashCommand

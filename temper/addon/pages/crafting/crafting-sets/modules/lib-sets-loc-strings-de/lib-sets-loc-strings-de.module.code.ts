@@ -50,7 +50,7 @@ export const DE = {
     "Benutze den SlashCommand /lsp <setName oder setID> um eine Vorschau von einem Gegenstand dieses Sets zu erhalten.\n\nWenn du LibSlashCommander aktiv hast wird dir bei der Eingabe des Set Namens/der ID bereits eine Liste der passenden Sets zur Auswahl angezeigt.\nIst ein Set in der Liste per TAB Taste/Maus ausgewählt (Name steht im Chat Feld) kann mit der 'Leerzeichen' Taste der Setname in anderen Sprachen angezeigt werden. Klick auf den SetNamen in der anderen Sprache oder presse die Enter Taste, um den SetNamen in deiner aktiven Sprache und der ausgewählten anderen Sprache in der Chat Eingabebox anzuzeigen, so dass du diese markieren und kopieren kannst.",
   setSearchTT: "Set Suche",
   previewTT_SetSearch_TT:
-    "Benutze den SlashCommand /lss <setName oder ID> um die Set Such Oberfläche zu zeigen/zu verstecken. Alternativ kann auch der SlashCommand /libsetssearch verwendet werden.",
+    "Benutze den SlashCommand /lss <setName oder ID> um die Set Such Oberfläche zu zeigen/zu verstecken. Alternativ kann auch der SlashCommand /lss verwendet werden.",
   previewTTToChatToo: "Vorschau ItemLink in den Chat",
   previewTTToChatToo_TT:
     "Wenn diese Option aktiviert ist wird der ItemLink des Vorschau Set Gegenstandes auch in deine Chat Eingabebox gesendet, damit du diesen jemanden schicken/ihn mit der Maus und STRG+C in deine Zwischenablage kopieren kannst.",

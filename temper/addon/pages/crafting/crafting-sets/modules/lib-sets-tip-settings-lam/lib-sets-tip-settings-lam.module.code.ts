@@ -68,14 +68,10 @@ function loadLAMSettingsMenu(this: void): boolean | undefined {
     type: "panel",
     name: lib.name,
     displayName: lib.name,
-    author: "Baertram",
     version: tostring(lib.version),
     registerForRefresh: true,
     registerForDefaults: true,
-    slashCommand: "/libsetss",
-    website: "https://www.esoui.com/downloads/info2241-LibSets.html",
-    feedback: "https://www.esoui.com/portal.php?id=136&a=bugreport",
-    donation: "https://www.esoui.com/portal.php?id=136&a=faq&faqid=131",
+    slashCommand: "/setsettings",
   }
   const lamPanelName = lib.name + "_LAM"
 
@@ -277,7 +273,7 @@ function loadLAMSettingsMenu(this: void): boolean | undefined {
         lib.IsLibSetsTooltipEnabled()
       },
       default: defaultSettings["useCustomTooltipPattern"],
-      reference: "LibSets_LAM_EditBox_CustomTooltipPattern",
+      reference: "TemperCraftingSets_LAM_EditBox_CustomTooltipPattern",
     },
     {
       type: "checkbox",

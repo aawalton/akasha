@@ -70,7 +70,7 @@ export const EN = {
     "Use the SlashCommand /lsp <setName or setId> to get a preview tooltip of a set item.\n\nIf you got LibSlashCommander enabled the set names will show a list of possible entries as you type the name/id already.\nWas a set selected (name is written to the chat entry editbox) via the TAB key/mouse you can show the translated set names in other languages via the 'space' key. Pressing the return key on that setName in another language (or clicking it) will show the current client language setName and the other chosen language setName in the chat edit box so you can mark and copy it.",
   setSearchTT: "Set Search",
   previewTT_SetSearch_TT:
-    "Use the SlashCommand /lss <setname or setId> to show/hide the set search UI. Alternatively you can use the slash command /libsetssearch too.",
+    "Use the SlashCommand /lss <setname or setId> to show/hide the set search UI. Alternatively you can use the slash command /lss too.",
   previewTTToChatToo: "Preview itemLink to chat",
   previewTTToChatToo_TT:
     "With this setting enabled the preview itemlink of the set item will be send to your chat edit box too, so you can post it/mark it with your mouse an copy it to your clipboard using CTRL+C.",

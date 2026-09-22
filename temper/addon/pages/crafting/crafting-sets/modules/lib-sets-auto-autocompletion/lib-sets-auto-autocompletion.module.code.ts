@@ -221,7 +221,7 @@ function buildLSCSetSearchAutoComplete(this: void): undefined {
   const clientDescription =
     libPrefix + localizedStr(localization[clientLang]?.["slashCommandDescriptionClient"])
   commandsLsp["all"] = lscLib.Register(
-    ["/libsetspreview", "/setpreview", "/setsp", "/lsp"],
+    ["/setpreview", "/setsp", "/lsp"],
     undefined,
     clientDescription
   )
@@ -233,12 +233,7 @@ function buildLSCSetSearchAutoComplete(this: void): undefined {
       const transForLang = localization[langStr]
       if (transForLang !== undefined && transForLang["slashCommandDescription"] !== undefined) {
         commandsLsp[langStr] = lscLib.Register(
-          [
-            "/libsetspreview" + langStr,
-            "/setpreview" + langStr,
-            "/setsp" + langStr,
-            "/lsp" + langStr,
-          ],
+          ["/setpreview" + langStr, "/setsp" + langStr, "/lsp" + langStr],
           undefined,
           libPrefix + localizedStr(transForLang["slashCommandDescription"])
         )

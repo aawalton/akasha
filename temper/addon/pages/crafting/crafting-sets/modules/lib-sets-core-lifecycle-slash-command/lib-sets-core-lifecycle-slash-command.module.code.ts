@@ -159,20 +159,20 @@ function slashCommandDlcsAndChapter(this: void): undefined {
 
 function slashHelp(this: void): undefined {
   d(">>> [" + lib.name + "] |c0000FFSlash command help -|r BEGIN >>>")
-  d("|-> '/libsets help'              Write this information to the chat")
-  d("|-> '/libsets chapters'          Write the list of chapters to the chat")
-  d("|-> '/libsets dlcs'              Write the list of dlcs to the chat")
-  d("|-> '/libsets dlcsandchapters'   Write the list of dlcs and chapters to the chat")
+  d("|-> '/sets help'              Write this information to the chat")
+  d("|-> '/sets chapters'          Write the list of chapters to the chat")
+  d("|-> '/sets dlcs'              Write the list of dlcs to the chat")
+  d("|-> '/sets dlcsandchapters'   Write the list of dlcs and chapters to the chat")
   if (!IsConsole && !IsInGamepadPreferredMode()) {
     d(
-      "|-> '/lss' or 'libsets search' <optional search term>        Show the search UI. If <optional search term> was provided the search UI will search this set name directly."
+      "|-> '/lss' or '/sets search' <optional search term>        Show the search UI. If <optional search term> was provided the search UI will search this set name directly."
     )
   }
   d(
     "|-> '/lsp' <optional search term>'        Start a set search in the chat editbox and show found sets directly (only if LibSlashCommander is activated!). You can search by name or setId. Selecting a found set will show a preview of a set's item, and (if enabled in the set settings menu) provide the itemlink in the chat editbox too."
   )
   d(
-    "|-> '/libsets debug' <optional debug option>       Write debugging information to the chat. If <optional debug option> was provided, this function will be called (if valid)."
+    "|-> '/sets debug' <optional debug option>       Write debugging information to the chat. If <optional debug option> was provided, this function will be called (if valid)."
   )
   d("<<< [" + lib.name + "] |c0000FFSlash command help -|r END <<<")
 }
@@ -182,7 +182,7 @@ function slashDebugHelp(this: void): undefined {
   d("|--------------------------------------------------------")
   d("| DEBUGING ")
   d(
-    "|-> '/libSets debug' <optional debug option>       Write debugging information to the chat. If <optional debug option> was provided, this function will be called (if valid)."
+    "|-> '/sets debug' <optional debug option>       Write debugging information to the chat. If <optional debug option> was provided, this function will be called (if valid)."
   )
   d("|-> Valid functions are:")
   d("|--------------------------------------------------------")
@@ -268,9 +268,6 @@ function commandHandler(this: void, args: string): undefined {
 function createSetSearchSlashCommands(this: void, doAdd: boolean): undefined {
   if (doAdd) {
     if (!IsConsole && !IsInGamepadPreferredMode()) {
-      if (SLASH_COMMANDS["/libsetssearch"] === undefined) {
-        SLASH_COMMANDS["/libsetssearch"] = slashSearchHelper
-      }
       if (SLASH_COMMANDS["/lss"] === undefined) {
         SLASH_COMMANDS["/lss"] = slashSearchHelper
       }
@@ -278,7 +275,6 @@ function createSetSearchSlashCommands(this: void, doAdd: boolean): undefined {
   } else {
     if (IsConsole || IsInGamepadPreferredMode()) {
       const slashCommandsClearable = asLibCmdFns(SLASH_COMMANDS)
-      slashCommandsClearable["/libsetssearch"] = undefined
       slashCommandsClearable["/lss"] = undefined
     }
   }
@@ -286,7 +282,6 @@ function createSetSearchSlashCommands(this: void, doAdd: boolean): undefined {
 libInternal["_createSetSearchSlashCommands"] = createSetSearchSlashCommands
 
 function createSlashCommands(this: void): undefined {
-  SLASH_COMMANDS["/libsets"] = commandHandler
   if (SLASH_COMMANDS["/sets"] === undefined) {
     SLASH_COMMANDS["/sets"] = commandHandler
   }
@@ -294,11 +289,8 @@ function createSlashCommands(this: void): undefined {
     SLASH_COMMANDS["/ls"] = commandHandler
   }
 
-  SLASH_COMMANDS["/libsetsdlcsandchapters"] = slashCommandDlcsAndChapter
   SLASH_COMMANDS["/dlcsandchapters"] = slashCommandDlcsAndChapter
-  SLASH_COMMANDS["/libsetsdlcs"] = slashCommandDlcs
   SLASH_COMMANDS["/dlcs"] = slashCommandDlcs
-  SLASH_COMMANDS["/libsetschapters"] = slashCommandChapters
   SLASH_COMMANDS["/chapters"] = slashCommandChapters
 
   createSetSearchSlashCommands(true)
