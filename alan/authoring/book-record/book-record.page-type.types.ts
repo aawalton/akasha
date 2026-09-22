@@ -9,7 +9,7 @@ import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 export type BookRecord = Page & {
   title: Title
   definition: Definition
-  bookSlug: RecordBookSlug
+  book: RecordBookSlug
   brief?: RecordBrief
   keptBy?: KeptBy
   writing: Writing

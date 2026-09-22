@@ -6,7 +6,7 @@ export const learnEverythingCaptureLog = {
   slug: "learn-everything-capture-log",
   title: "Learn Everything — Capture Log",
   definition: "what was scored into Learn Everything from outside an interview",
-  bookSlug: "learn-everything",
+  book: "learn-everything",
   keptBy: "ali-recorder",
   writing: "md",
 } as const satisfies BookRecord

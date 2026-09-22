@@ -4,7 +4,7 @@ export const recordBookSlug = {
   id: "01a0657d-b91d-7100-a6a6-4e66e1a75ab3",
   type: "page-type/text-property",
   slug: "record-book-slug",
-  propertySlug: "book-slug",
+  propertySlug: "book",
   definition: "the book a record is kept about",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",

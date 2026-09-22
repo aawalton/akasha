@@ -6,7 +6,7 @@ export const learnEverythingRotation = {
   slug: "learn-everything-rotation",
   title: "Learn Everything — Rotation Queue",
   definition: "where each thread of Learn Everything left off",
-  bookSlug: "learn-everything",
+  book: "learn-everything",
   keptBy: "ali-archivist",
   writing: "md",
 } as const satisfies BookRecord
