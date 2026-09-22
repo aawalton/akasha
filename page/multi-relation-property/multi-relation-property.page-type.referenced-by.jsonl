@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"domain/properties/parts.multi-relation-property.ts"}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"graph/predicate/properties/edges.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"page/one-of-property/properties/members.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"page/type/properties/extends-type.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"persona/properties/cover-images.multi-relation-property.ts"}

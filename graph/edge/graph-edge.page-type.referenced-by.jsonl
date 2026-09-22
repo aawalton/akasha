@@ -1,4 +1,4 @@
 {"propertySlug":"import","fileName":"graph-edge.page-type.types.ts","path":"graph/edge/pages/import-edge.graph-edge.ts"}
 {"propertySlug":"import","fileName":"graph-edge.page-type.types.ts","path":"graph/edge/pages/relation.graph-edge.ts"}
 {"propertySlug":"parts","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
-{"propertySlug":"target-page-type","path":"graph/predicate/properties/edges.relation-property.ts","id":"01a0a5df-1d6b-733c-84ad-4eb69c3a6f98"}
+{"propertySlug":"target-page-type","path":"graph/predicate/properties/edges.multi-relation-property.ts","id":"01a0a5df-1d6b-733c-84ad-4eb69c3a6f98"}

@@ -101,7 +101,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/standard-agent-english/property/properties/start-symbol.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/standard-agent-english/term/banned-term/properties/prose-frame.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/edge/properties/attributes.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/predicate/properties/edges.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/predicate/properties/edges.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/predicate/properties/followed-attribute.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/alert/properties/alert-persona.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/auth/sign-in/properties/sign-in-contributor.relation-property.types.ts"}
