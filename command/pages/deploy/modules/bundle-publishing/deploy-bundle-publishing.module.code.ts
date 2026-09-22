@@ -5,6 +5,7 @@ import { changeMechanical } from "akasha/change/mechanical/change-mechanical.pag
 import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import {
   buildctlAt,
   contextArgv,
@@ -176,6 +177,17 @@ async function publishedFrom(
   }
   up.push(`${tagFile}, landed naming that image`)
   report.push(`landed ${tagFile} after the push, so what the tag names is already in the registry`)
+  const pushed = pushBranch(root)
+  report.push(pushed.line)
+  if (pushed.failed) {
+    return {
+      lines: report,
+      refusals: [
+        `${tagFile} is landed and origin does not carry the commit that landed it, and a pod reads its code from origin, so the pod would be pinned at a commit it cannot fetch — ${pushed.reason ?? pushed.line}`,
+      ],
+    }
+  }
+  up.push(`the commit landing ${tagFile}, pushed to origin`)
   return { lines: report, refusals: [] }
 }
 

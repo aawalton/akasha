@@ -49,6 +49,15 @@ export const deployBundlePublishing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That commit is pushed to origin, because a pod reads its code from origin.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A push that fails here refuses rather than pinning a pod at a commit origin lacks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A tag already naming this image lands nothing.",
     },
     {
