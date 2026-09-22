@@ -31,6 +31,14 @@ export const pageCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What the environment states about the origin is answered on its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller may name the origin a write goes to in place of the one read here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A browser reaches the service under its own origin.",
     },
     {

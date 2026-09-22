@@ -83,11 +83,17 @@ function browserOrigin(): string | null {
   return typeof said === "string" && said !== "" ? said : null
 }
 
-export function originOf(named: readonly string[] = ORIGIN_NAMES): string {
+export function originSaid(named: readonly string[] = ORIGIN_NAMES): string | null {
   for (const one of named) {
     const said = saidIn(one)
     if (said !== null) return said.replace(/\/+$/, "")
   }
+  return null
+}
+
+export function originOf(named: readonly string[] = ORIGIN_NAMES): string {
+  const said = originSaid(named)
+  if (said !== null) return said
   const here = browserOrigin()
   return here === null ? OVER_THE_TAILNET : `${here}${IN_A_BROWSER}`
 }
@@ -135,12 +141,13 @@ async function sentTo(
   body: unknown,
   ceiling: number,
   fetcher: Fetcher,
-  naps: Sleeper
+  naps: Sleeper,
+  origin: string = originOf()
 ): Promise<Sent> {
   let why = "nothing came back"
   for (let taken = 1; taken <= ATTEMPTS; taken += 1) {
     try {
-      const answered = await fetcher(`${originOf()}${at}`, {
+      const answered = await fetcher(`${origin}${at}`, {
         method: "POST",
         headers: { "content-type": "application/json", accept: "application/json" },
         body: JSON.stringify(body),
@@ -157,7 +164,7 @@ async function sentTo(
     }
     if (taken < ATTEMPTS) await naps(backoffFor(taken))
   }
-  return { refused: `${why} — ${ATTEMPTS} attempts reached ${originOf()}${at}` }
+  return { refused: `${why} — ${ATTEMPTS} attempts reached ${origin}${at}` }
 }
 
 export function objectIn(said: unknown): Readonly<Record<string, unknown>> | null {
@@ -314,9 +321,10 @@ export async function placingFor(
 export async function writingFor(
   asked: Writing,
   fetcher: Fetcher = fetchThrough,
-  naps: Sleeper = sleep
+  naps: Sleeper = sleep,
+  origin?: string
 ): Promise<Wrote> {
-  const held = await sentTo(WRITE_AT, asked, WRITE_CEILING_MS, fetcher, naps)
+  const held = await sentTo(WRITE_AT, asked, WRITE_CEILING_MS, fetcher, naps, origin)
   if ("refused" in held) return held
   const said = objectIn(held.said)
   if (said === null) {
