@@ -14,4 +14,4 @@
 {"propertySlug":"import","fileName":"tower-level.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/pages/the-tower-the-host-trueform-02.tower-level.ts"}
 {"propertySlug":"import","fileName":"tower-level.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/pages/the-tower-the-welcomer-01.tower-level.ts"}
 {"propertySlug":"import","fileName":"tower-level.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/pages/the-tower-the-welcomers-pair-01.tower-level.ts"}
-{"propertySlug":"parts","path":"story/mechanic/metric/character-attribute/character-attribute.page-type.ts","id":"01a0c9f6-f0c6-7de0-acb3-6f5f9252d4e2"}
+{"propertySlug":"parts","path":"story/mechanic/metric/character/character-attribute/character-attribute.page-type.ts","id":"01a0c9f6-f0c6-7de0-acb3-6f5f9252d4e2"}

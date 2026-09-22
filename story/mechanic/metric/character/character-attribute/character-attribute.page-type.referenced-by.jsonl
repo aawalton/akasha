@@ -2,4 +2,4 @@
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/tower-level.page-type.ts","id":"01a0ca39-5f14-7739-9c6a-7e0e48d7e818"}
 {"propertySlug":"import","fileName":"character-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-attribute.page-type.types.ts"}
 {"propertySlug":"import","fileName":"character-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/tower-level.page-type.types.ts"}
-{"propertySlug":"parts","path":"story/mechanic/metric/metric.page-type.ts","id":"01a0ca08-5607-7cf7-8091-650c47a04416"}
+{"propertySlug":"parts","path":"story/mechanic/metric/character/metric-character.page-type.ts","id":"01a0ca49-6168-7496-8941-ce63271b7a53"}

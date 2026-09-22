@@ -6,7 +6,7 @@ export const characterAttribute = {
   slug: "character-attribute",
   definition: "a number for a persistent property of a character",
   pluralSlug: "attributes",
-  extends: ["page-type/metric"],
+  extends: ["page-type/metric-character"],
   parts: ["page-type/tower-attribute", "page-type/tower-level"],
 
   types: "ts",

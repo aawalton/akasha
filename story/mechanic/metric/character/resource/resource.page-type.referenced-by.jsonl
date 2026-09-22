@@ -6,4 +6,4 @@
 {"propertySlug":"import","fileName":"resource.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-health/tower-health.page-type.types.ts"}
 {"propertySlug":"import","fileName":"resource.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-mana/tower-mana.page-type.types.ts"}
 {"propertySlug":"import","fileName":"resource.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-stamina/tower-stamina.page-type.types.ts"}
-{"propertySlug":"parts","path":"story/mechanic/metric/metric.page-type.ts","id":"01a0ca08-5607-7cf7-8091-650c47a04416"}
+{"propertySlug":"parts","path":"story/mechanic/metric/character/metric-character.page-type.ts","id":"01a0ca49-6168-7496-8941-ce63271b7a53"}

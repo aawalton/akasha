@@ -6,7 +6,7 @@ export const resource = {
   slug: "resource",
   definition: "something a character spends down and gets back",
   pluralSlug: "resources",
-  extends: ["page-type/metric"],
+  extends: ["page-type/metric-character"],
   parts: [
     "page-type/tower-health",
     "page-type/tower-mana",

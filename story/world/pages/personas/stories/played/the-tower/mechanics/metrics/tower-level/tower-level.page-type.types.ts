@@ -1,3 +1,3 @@
-import type { CharacterAttribute } from "akasha/story/mechanic/metric/character-attribute/character-attribute.page-type.types.ts"
+import type { CharacterAttribute } from "akasha/story/mechanic/metric/character/character-attribute/character-attribute.page-type.types.ts"
 
 export type TowerLevel = CharacterAttribute & {}

@@ -4,7 +4,7 @@ export const metric = {
   id: "01a0ca08-5607-7cf7-8091-650c47a04416",
   type: "page-type/page-type",
   slug: "metric",
-  definition: "a number kept for a character",
+  definition: "a number kept for something in a story",
   pluralSlug: "metrics",
   extends: ["page-type/mechanic"],
   parts: [
@@ -12,12 +12,10 @@ export const metric = {
     "number-property/metric-max-value",
     "number-property/metric-min-value",
     "number-property/metric-value",
-    "relation-property/metric-of-character",
-    "page-type/character-attribute",
-    "page-type/resource",
+    "page-type/metric-character",
+    "page-type/metric-item",
   ],
   properties: [
-    { pageProperty: "relation-property/metric-of-character", required: true, many: false },
     { pageProperty: "number-property/metric-value", required: true, many: false },
     { pageProperty: "number-property/metric-min-value", required: false, many: false },
     { pageProperty: "number-property/metric-max-value", required: false, many: false },

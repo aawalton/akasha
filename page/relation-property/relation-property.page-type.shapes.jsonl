@@ -89,6 +89,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"merged-into","propertySlug":"merged-into","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"messaged-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"character","unique":null,"uniquePropertySlug":null,"slug":"metric-of-character","propertySlug":"character","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"item","unique":null,"uniquePropertySlug":null,"slug":"metric-of-item","propertySlug":"item","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-buff-minor","unique":null,"uniquePropertySlug":null,"slug":"minor-buff","propertySlug":"minor-buff","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"mobile-wallpaper","propertySlug":"mobile-wallpaper","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"model-family","unique":null,"uniquePropertySlug":null,"slug":"model-family","propertySlug":"model-family","fileName":null,"folderName":null}
