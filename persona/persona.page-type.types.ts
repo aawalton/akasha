@@ -17,7 +17,7 @@ import type { PointsToday } from "akasha/persona/properties/points-today.number-
 import type { PointsTotal } from "akasha/persona/properties/points-total.number-property.types.ts"
 import type { Portrait } from "akasha/persona/properties/portrait.file-property.types.ts"
 import type { Purpose } from "akasha/persona/properties/purpose.text-property.types.ts"
-import type { ValueSlug } from "akasha/persona/properties/value-slug.text-property.types.ts"
+import type { Value } from "akasha/persona/properties/value.relation-property.types.ts"
 import type { VoiceInstruction } from "akasha/persona/properties/voice-instruction.text-property.types.ts"
 import type { VoiceReference } from "akasha/persona/properties/voice-reference.relation-property.types.ts"
 import type { VoiceReferenceSha256 } from "akasha/persona/properties/voice-reference-sha256.text-property.types.ts"
@@ -28,7 +28,7 @@ export type Persona = Domain & {
   portrait?: Portrait
   appearance?: Appearance
   role?: Role
-  value?: ValueSlug
+  value?: Value
   origin?: Origin
   email?: EmailAddress
   phone?: Phone

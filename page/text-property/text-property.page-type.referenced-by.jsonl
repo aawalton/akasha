@@ -398,7 +398,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/properties/history.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/properties/last-messaged-at.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/properties/purpose.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/properties/value-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/properties/voice-instruction.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/properties/voice-reference-sha256.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/properties/metric.text-property.ts"}

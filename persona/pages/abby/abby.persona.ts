@@ -11,7 +11,7 @@ export const abby = {
   portrait: "md",
   appearance: "md",
   role: "role/interviewer",
-  value: "faith",
+  value: "value/faith",
   origin: "origin-kind/human",
   email: "abby@alanwalton.com",
   championedDomain: "alan-book/all-about-alan",

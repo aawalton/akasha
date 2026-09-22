@@ -29,7 +29,7 @@ export const amy = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  value: "health",
+  value: "value/health",
   origin: "origin-kind/human",
   email: "amy@alanwalton.com",
   championedDomain: "domain/alan-harness",

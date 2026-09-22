@@ -17,7 +17,7 @@ export const ryn = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  value: "wealth",
+  value: "value/wealth",
   origin: "origin-kind/canon",
   email: "ryn@alanwalton.com",
   championedDomain: "page-type/domain",

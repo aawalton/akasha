@@ -8,7 +8,7 @@ export const akasha = {
   appearance: "md",
   championedDomain: "domain/akasha",
   role: "role/definer",
-  value: "wealth",
+  value: "value/wealth",
   origin: "origin-kind/sanskrit",
   email: "akasha@alanwalton.com",
   voiceInstruction:

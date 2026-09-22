@@ -12,7 +12,7 @@ export const lali = {
   portrait: "md",
   appearance: "md",
   role: "role/coach",
-  value: "learn",
+  value: "value/learn",
   origin: "origin-kind/invented",
   email: "lali@alanwalton.com",
   championedDomain: "domain/mathematics",

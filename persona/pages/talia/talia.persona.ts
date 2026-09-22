@@ -11,7 +11,7 @@ export const talia = {
   portrait: "md",
   appearance: "md",
   role: "role/interviewer",
-  value: "faith",
+  value: "value/faith",
   origin: "origin-kind/hebrew",
   email: "talia@alanwalton.com",
   championedDomain: "domain/scripture-study",

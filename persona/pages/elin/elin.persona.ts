@@ -12,7 +12,7 @@ export const elin = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  value: "fun",
+  value: "value/fun",
   origin: "origin-kind/welsh",
   email: "elin@alanwalton.com",
   championedDomain: "page-type/collection",

@@ -11,7 +11,7 @@ export const rhia = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  value: "learn",
+  value: "value/learn",
   origin: "origin-kind/welsh",
   email: "rhia@alanwalton.com",
   championedDomain: "domain/world-lore",

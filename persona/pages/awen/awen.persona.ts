@@ -11,7 +11,7 @@ export const awen = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  value: "wealth",
+  value: "value/wealth",
   origin: "origin-kind/invented",
   email: "awen@alanwalton.com",
   championedDomain: "domain/story",

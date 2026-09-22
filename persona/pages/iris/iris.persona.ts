@@ -11,7 +11,7 @@ export const iris = {
   portrait: "md",
   appearance: "md",
   role: "role/game-master",
-  value: "fun",
+  value: "value/fun",
   origin: "origin-kind/greek",
   email: "iris@alanwalton.com",
   voiceInstruction:

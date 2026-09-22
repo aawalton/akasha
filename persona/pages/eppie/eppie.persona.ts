@@ -12,7 +12,7 @@ export const eppie = {
   portrait: "md",
   appearance: "md",
   role: "role/companion",
-  value: "learn",
+  value: "value/learn",
   origin: "origin-kind/canon",
   email: "eppie@alanwalton.com",
   championedDomain: "domain/music",

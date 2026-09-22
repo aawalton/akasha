@@ -11,7 +11,7 @@ export const sophia = {
   portrait: "md",
   appearance: "md",
   role: "role/persona-craft",
-  value: "love",
+  value: "value/love",
   origin: "origin-kind/invented",
   email: "sophia@alanwalton.com",
   championedDomain: "page-type/persona",

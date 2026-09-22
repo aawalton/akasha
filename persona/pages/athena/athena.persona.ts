@@ -11,7 +11,7 @@ export const athena = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  value: "wealth",
+  value: "value/wealth",
   origin: "origin-kind/greek",
   email: "athena@alanwalton.com",
   championedDomain: "page-type/agent",

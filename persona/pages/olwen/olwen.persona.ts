@@ -12,7 +12,7 @@ export const olwen = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  value: "wealth",
+  value: "value/wealth",
   origin: "origin-kind/welsh",
   email: "olwen@alanwalton.com",
   championedDomain: "domain/design-interface-system",

@@ -11,7 +11,7 @@ export const echo = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  value: "fun",
+  value: "value/fun",
   origin: "origin-kind/greek",
   email: "echo@alanwalton.com",
   championedDomain: "domain/narrative-production",

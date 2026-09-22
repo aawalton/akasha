@@ -11,7 +11,7 @@ export const natalie = {
   portrait: "md",
   appearance: "md",
   role: "role/coach",
-  value: "health",
+  value: "value/health",
   origin: "origin-kind/canon",
   email: "natalie@alanwalton.com",
   championedDomain: "page-type/food-entry",
