@@ -8,4 +8,5 @@ export const theTowerAlan = {
   value: 104,
   minValue: 0,
   maxValue: 120,
+  history: "jsonl",
 } as const satisfies TowerMana
