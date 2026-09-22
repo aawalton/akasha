@@ -131,6 +131,7 @@ export const interviewer = {
       warrant:
         "Alan would wait longer for a better question, and a question asked early spends his turn for less.",
       aids: [
+        "The reading is yours: never send a subagent to do it.",
         "A page's `referenced-by` names its children, the topics related to it, and its open questions.",
         "The index is read rather than re-derived, and guessing a slug from a file name is not searching.",
         "Read the branch from the hub down rather than sampling pages out of it.",
