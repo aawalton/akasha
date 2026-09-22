@@ -6,5 +6,6 @@ export const mindReader = {
   slug: "mind-reader",
   title: "Mind Reader",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

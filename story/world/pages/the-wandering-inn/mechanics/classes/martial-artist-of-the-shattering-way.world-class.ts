@@ -6,5 +6,6 @@ export const martialArtistOfTheShatteringWay = {
   slug: "martial-artist-of-the-shattering-way",
   title: "Martial Artist of the Shattering Way",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

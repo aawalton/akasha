@@ -6,6 +6,7 @@ export const mintLordOfTheNewEra = {
   slug: "mint-lord-of-the-new-era",
   title: "Mint-Lord of the New Era",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesFromSlugs: ["financier-of-fortunes"],
   references: "jsonl",
 } as const satisfies WorldClass

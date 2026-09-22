@@ -6,6 +6,7 @@ export const magicalInnkeeper = {
   slug: "magical-innkeeper",
   title: "Magical Innkeeper",
   world: "world/the-wandering-inn",
+  appearanceCount: 56,
   evolvesFromSlugs: ["innkeeper"],
   evolvesToSlugs: ["the-wandering-innkeeper"],
   references: "jsonl",

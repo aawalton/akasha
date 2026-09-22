@@ -6,5 +6,6 @@ export const manaConduit = {
   slug: "mana-conduit",
   title: "Mana Conduit",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

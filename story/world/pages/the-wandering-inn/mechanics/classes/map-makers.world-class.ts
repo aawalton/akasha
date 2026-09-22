@@ -6,5 +6,6 @@ export const mapMakers = {
   slug: "map-makers",
   title: "Map Makers",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass
