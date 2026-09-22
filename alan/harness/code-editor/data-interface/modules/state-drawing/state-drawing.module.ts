@@ -23,7 +23,7 @@ export const stateDrawing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The picture already filed is read from the working tree, because no commit holds it.",
+        "The picture already filed is read from the files on disk, because no commit holds it.",
     },
     {
       decisionKind: "decision-kind/departure",

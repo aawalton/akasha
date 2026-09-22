@@ -19,7 +19,7 @@ export const gapRowFiling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The filed rows are read from the working tree, because no commit holds them.",
+      statement: "The filed rows are read from the files on disk, because no commit holds them.",
     },
     {
       decisionKind: "decision-kind/departure",
