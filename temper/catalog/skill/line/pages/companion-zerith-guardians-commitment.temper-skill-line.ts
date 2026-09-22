@@ -9,5 +9,5 @@ export const companionZerithGuardiansCommitment = {
   displayOrder: 105,
   esoSkillLineId: 262,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

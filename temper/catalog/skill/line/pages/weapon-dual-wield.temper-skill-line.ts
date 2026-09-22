@@ -9,5 +9,5 @@ export const weaponDualWield = {
   displayOrder: 24,
   esoSkillLineId: 31,
   maxRank: 50,
-  subcategoryId: "weapon",
+  category: "temper-skill-line-category/weapon",
 } as const satisfies TemperSkillLine

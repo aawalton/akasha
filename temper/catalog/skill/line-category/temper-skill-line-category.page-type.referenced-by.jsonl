@@ -9,3 +9,4 @@
 {"propertySlug":"import","fileName":"temper-skill-line-category.page-type.types.ts","path":"temper/catalog/skill/line-category/pages/weapon.temper-skill-line-category.ts"}
 {"propertySlug":"import","fileName":"temper-skill-line-category.page-type.types.ts","path":"temper/catalog/skill/line-category/pages/world.temper-skill-line-category.ts"}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
+{"propertySlug":"target-page-type","path":"temper/catalog/skill/line/properties/skill-line-category.relation-property.ts","id":"01a0cb10-f698-706a-a7c8-2193c2080c04"}

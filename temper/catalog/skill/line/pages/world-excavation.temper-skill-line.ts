@@ -9,5 +9,5 @@ export const worldExcavation = {
   displayOrder: 31,
   esoSkillLineId: 157,
   maxRank: 10,
-  subcategoryId: "world",
+  category: "temper-skill-line-category/world",
 } as const satisfies TemperSkillLine

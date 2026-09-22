@@ -9,5 +9,5 @@ export const companionAzandarScholarOfApocrypha = {
   displayOrder: 95,
   esoSkillLineId: 246,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

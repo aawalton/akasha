@@ -9,5 +9,5 @@ export const worldVampire = {
   displayOrder: 35,
   esoSkillLineId: 51,
   maxRank: 10,
-  subcategoryId: "world",
+  category: "temper-skill-line-category/world",
 } as const satisfies TemperSkillLine

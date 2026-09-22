@@ -9,5 +9,5 @@ export const vengeanceGuildFightersGuild = {
   displayOrder: 136,
   esoSkillLineId: 330,
   maxRank: 0,
-  subcategoryId: "alliance-war",
+  category: "temper-skill-line-category/alliance-war",
 } as const satisfies TemperSkillLine

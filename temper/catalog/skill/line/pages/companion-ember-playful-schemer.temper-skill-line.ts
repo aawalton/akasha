@@ -9,5 +9,5 @@ export const companionEmberPlayfulSchemer = {
   displayOrder: 85,
   esoSkillLineId: 198,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

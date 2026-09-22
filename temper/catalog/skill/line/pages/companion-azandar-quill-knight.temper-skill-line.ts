@@ -9,5 +9,5 @@ export const companionAzandarQuillKnight = {
   displayOrder: 96,
   esoSkillLineId: 247,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

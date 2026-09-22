@@ -9,5 +9,5 @@ export const vengeanceDragonknightEarthenHeart = {
   displayOrder: 109,
   esoSkillLineId: 299,
   maxRank: 0,
-  subcategoryId: "alliance-war",
+  category: "temper-skill-line-category/alliance-war",
 } as const satisfies TemperSkillLine

@@ -9,6 +9,6 @@ export const necromancerGraveLord = {
   displayOrder: 16,
   esoSkillLineId: 131,
   maxRank: 50,
-  subcategoryId: "character-class",
+  category: "temper-skill-line-category/character-class",
   class: "temper-class/necromancer",
 } as const satisfies TemperSkillLine

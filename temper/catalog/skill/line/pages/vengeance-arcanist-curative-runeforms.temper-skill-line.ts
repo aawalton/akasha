@@ -9,5 +9,5 @@ export const vengeanceArcanistCurativeRuneforms = {
   displayOrder: 125,
   esoSkillLineId: 315,
   maxRank: 0,
-  subcategoryId: "alliance-war",
+  category: "temper-skill-line-category/alliance-war",
 } as const satisfies TemperSkillLine

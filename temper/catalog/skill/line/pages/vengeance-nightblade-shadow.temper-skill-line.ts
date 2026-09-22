@@ -9,5 +9,5 @@ export const vengeanceNightbladeShadow = {
   displayOrder: 111,
   esoSkillLineId: 301,
   maxRank: 0,
-  subcategoryId: "alliance-war",
+  category: "temper-skill-line-category/alliance-war",
 } as const satisfies TemperSkillLine

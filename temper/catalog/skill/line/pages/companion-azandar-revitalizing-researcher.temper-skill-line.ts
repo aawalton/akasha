@@ -9,5 +9,5 @@ export const companionAzandarRevitalizingResearcher = {
   displayOrder: 97,
   esoSkillLineId: 248,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

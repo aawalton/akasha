@@ -9,5 +9,5 @@ export const companionBastianDraconicArmor = {
   displayOrder: 76,
   esoSkillLineId: 175,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

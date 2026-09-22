@@ -9,5 +9,5 @@ export const vengeanceTemplarRestoringLight = {
   displayOrder: 115,
   esoSkillLineId: 305,
   maxRank: 0,
-  subcategoryId: "alliance-war",
+  category: "temper-skill-line-category/alliance-war",
 } as const satisfies TemperSkillLine

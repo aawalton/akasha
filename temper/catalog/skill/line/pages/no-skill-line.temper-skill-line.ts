@@ -9,5 +9,5 @@ export const noSkillLine = {
   displayOrder: 0,
   esoSkillLineId: 0,
   maxRank: 0,
-  subcategoryId: "none",
+  category: "temper-skill-line-category/none",
 } as const satisfies TemperSkillLine

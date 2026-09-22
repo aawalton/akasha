@@ -9,5 +9,5 @@ export const companionSharpBeastsOfTheHunt = {
   displayOrder: 91,
   esoSkillLineId: 241,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

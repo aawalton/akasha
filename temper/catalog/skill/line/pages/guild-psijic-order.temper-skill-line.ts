@@ -9,5 +9,5 @@ export const guildPsijicOrder = {
   displayOrder: 40,
   esoSkillLineId: 130,
   maxRank: 10,
-  subcategoryId: "guild",
+  category: "temper-skill-line-category/guild",
 } as const satisfies TemperSkillLine

@@ -9,5 +9,5 @@ export const vengeanceWardenGreenBalance = {
   displayOrder: 120,
   esoSkillLineId: 310,
   maxRank: 0,
-  subcategoryId: "alliance-war",
+  category: "temper-skill-line-category/alliance-war",
 } as const satisfies TemperSkillLine

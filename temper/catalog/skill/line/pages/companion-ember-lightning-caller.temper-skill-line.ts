@@ -9,5 +9,5 @@ export const companionEmberLightningCaller = {
   displayOrder: 83,
   esoSkillLineId: 196,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

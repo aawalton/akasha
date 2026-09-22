@@ -9,6 +9,6 @@ export const dragonknightEarthenHeart = {
   displayOrder: 9,
   esoSkillLineId: 37,
   maxRank: 50,
-  subcategoryId: "character-class",
+  category: "temper-skill-line-category/character-class",
   class: "temper-class/dragonknight",
 } as const satisfies TemperSkillLine

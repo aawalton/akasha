@@ -9,5 +9,5 @@ export const worldScrying = {
   displayOrder: 33,
   esoSkillLineId: 155,
   maxRank: 10,
-  subcategoryId: "world",
+  category: "temper-skill-line-category/world",
 } as const satisfies TemperSkillLine

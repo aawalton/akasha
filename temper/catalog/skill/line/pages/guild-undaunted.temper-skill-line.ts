@@ -9,5 +9,5 @@ export const guildUndaunted = {
   displayOrder: 42,
   esoSkillLineId: 55,
   maxRank: 10,
-  subcategoryId: "guild",
+  category: "temper-skill-line-category/guild",
 } as const satisfies TemperSkillLine

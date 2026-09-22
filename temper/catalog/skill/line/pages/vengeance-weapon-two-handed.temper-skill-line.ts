@@ -9,5 +9,5 @@ export const vengeanceWeaponTwoHanded = {
   displayOrder: 128,
   esoSkillLineId: 319,
   maxRank: 0,
-  subcategoryId: "alliance-war",
+  category: "temper-skill-line-category/alliance-war",
 } as const satisfies TemperSkillLine

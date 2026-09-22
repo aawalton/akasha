@@ -9,6 +9,6 @@ export const arcanistHeraldOfTheTome = {
   displayOrder: 19,
   esoSkillLineId: 218,
   maxRank: 50,
-  subcategoryId: "character-class",
+  category: "temper-skill-line-category/character-class",
   class: "temper-class/arcanist",
 } as const satisfies TemperSkillLine

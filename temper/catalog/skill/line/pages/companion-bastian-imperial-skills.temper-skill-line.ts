@@ -9,5 +9,5 @@ export const companionBastianImperialSkills = {
   displayOrder: 78,
   esoSkillLineId: 192,
   maxRank: 1,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

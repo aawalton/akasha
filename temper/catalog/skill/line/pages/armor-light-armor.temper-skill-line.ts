@@ -9,5 +9,5 @@ export const armorLightArmor = {
   displayOrder: 28,
   esoSkillLineId: 24,
   maxRank: 50,
-  subcategoryId: "armor",
+  category: "temper-skill-line-category/armor",
 } as const satisfies TemperSkillLine

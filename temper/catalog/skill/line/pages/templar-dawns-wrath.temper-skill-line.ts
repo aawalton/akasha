@@ -9,6 +9,6 @@ export const templarDawnsWrath = {
   displayOrder: 5,
   esoSkillLineId: 27,
   maxRank: 50,
-  subcategoryId: "character-class",
+  category: "temper-skill-line-category/character-class",
   class: "temper-class/templar",
 } as const satisfies TemperSkillLine

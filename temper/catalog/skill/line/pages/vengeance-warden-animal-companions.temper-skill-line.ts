@@ -9,5 +9,5 @@ export const vengeanceWardenAnimalCompanions = {
   displayOrder: 119,
   esoSkillLineId: 309,
   maxRank: 0,
-  subcategoryId: "alliance-war",
+  category: "temper-skill-line-category/alliance-war",
 } as const satisfies TemperSkillLine

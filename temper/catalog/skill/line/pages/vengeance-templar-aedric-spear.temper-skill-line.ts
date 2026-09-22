@@ -9,5 +9,5 @@ export const vengeanceTemplarAedricSpear = {
   displayOrder: 113,
   esoSkillLineId: 303,
   maxRank: 0,
-  subcategoryId: "alliance-war",
+  category: "temper-skill-line-category/alliance-war",
 } as const satisfies TemperSkillLine

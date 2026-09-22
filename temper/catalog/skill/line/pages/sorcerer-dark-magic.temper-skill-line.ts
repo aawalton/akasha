@@ -9,6 +9,6 @@ export const sorcererDarkMagic = {
   displayOrder: 13,
   esoSkillLineId: 41,
   maxRank: 50,
-  subcategoryId: "character-class",
+  category: "temper-skill-line-category/character-class",
   class: "temper-class/sorcerer",
 } as const satisfies TemperSkillLine

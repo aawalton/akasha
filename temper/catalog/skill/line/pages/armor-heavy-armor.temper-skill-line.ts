@@ -9,5 +9,5 @@ export const armorHeavyArmor = {
   displayOrder: 30,
   esoSkillLineId: 26,
   maxRank: 50,
-  subcategoryId: "armor",
+  category: "temper-skill-line-category/armor",
 } as const satisfies TemperSkillLine

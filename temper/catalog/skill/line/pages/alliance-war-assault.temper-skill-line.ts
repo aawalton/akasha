@@ -9,5 +9,5 @@ export const allianceWarAssault = {
   displayOrder: 43,
   esoSkillLineId: 48,
   maxRank: 10,
-  subcategoryId: "alliance-war",
+  category: "temper-skill-line-category/alliance-war",
 } as const satisfies TemperSkillLine

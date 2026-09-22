@@ -9,6 +9,6 @@ export const arcanistCurativeRuneforms = {
   displayOrder: 21,
   esoSkillLineId: 220,
   maxRank: 50,
-  subcategoryId: "character-class",
+  category: "temper-skill-line-category/character-class",
   class: "temper-class/arcanist",
 } as const satisfies TemperSkillLine

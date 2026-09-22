@@ -9,5 +9,5 @@ export const weaponDestructionStaff = {
   displayOrder: 26,
   esoSkillLineId: 33,
   maxRank: 50,
-  subcategoryId: "weapon",
+  category: "temper-skill-line-category/weapon",
 } as const satisfies TemperSkillLine

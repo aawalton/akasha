@@ -9,5 +9,5 @@ export const companionIsobelBrilliantShield = {
   displayOrder: 88,
   esoSkillLineId: 201,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

@@ -9,5 +9,5 @@ export const companionSharedRestorationStaff = {
   displayOrder: 68,
   esoSkillLineId: 185,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

@@ -9,5 +9,5 @@ export const companionSharedUndaunted = {
   displayOrder: 74,
   esoSkillLineId: 191,
   maxRank: 10,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

@@ -9,5 +9,5 @@ export const companionTanlorinEmpathicFighter = {
   displayOrder: 101,
   esoSkillLineId: 266,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

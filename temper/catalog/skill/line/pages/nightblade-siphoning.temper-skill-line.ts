@@ -9,6 +9,6 @@ export const nightbladeSiphoning = {
   displayOrder: 12,
   esoSkillLineId: 40,
   maxRank: 50,
-  subcategoryId: "character-class",
+  category: "temper-skill-line-category/character-class",
   class: "temper-class/nightblade",
 } as const satisfies TemperSkillLine

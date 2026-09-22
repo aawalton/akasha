@@ -9,5 +9,5 @@ export const vengeanceSorcererDaedricSummoning = {
   displayOrder: 116,
   esoSkillLineId: 306,
   maxRank: 0,
-  subcategoryId: "alliance-war",
+  category: "temper-skill-line-category/alliance-war",
 } as const satisfies TemperSkillLine

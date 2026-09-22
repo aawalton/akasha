@@ -9,5 +9,5 @@ export const worldLegerdemain = {
   displayOrder: 32,
   esoSkillLineId: 111,
   maxRank: 20,
-  subcategoryId: "world",
+  category: "temper-skill-line-category/world",
 } as const satisfies TemperSkillLine

@@ -9,5 +9,5 @@ export const racialNordSkills = {
   displayOrder: 55,
   esoSkillLineId: 65,
   maxRank: 50,
-  subcategoryId: "racial",
+  category: "temper-skill-line-category/racial",
 } as const satisfies TemperSkillLine

@@ -9,5 +9,5 @@ export const companionSharpWintersBite = {
   displayOrder: 92,
   esoSkillLineId: 242,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

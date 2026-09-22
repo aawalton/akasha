@@ -9,6 +9,6 @@ export const wardenAnimalCompanions = {
   displayOrder: 1,
   esoSkillLineId: 127,
   maxRank: 50,
-  subcategoryId: "character-class",
+  category: "temper-skill-line-category/character-class",
   class: "temper-class/warden",
 } as const satisfies TemperSkillLine

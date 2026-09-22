@@ -9,5 +9,5 @@ export const companionMirriLivingShade = {
   displayOrder: 80,
   esoSkillLineId: 178,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

@@ -1,7 +1,5 @@
 {"propertySlug":"import","fileName":"subcategory-id.text-property.types.ts","path":"temper/catalog/gear/temper-set/temper-set.page-type.types.ts"}
-{"propertySlug":"import","fileName":"subcategory-id.text-property.types.ts","path":"temper/catalog/skill/line/temper-skill-line.page-type.types.ts"}
 {"propertySlug":"import","fileName":"subcategory-id.text-property.types.ts","path":"temper/catalog/thing/temper-catalog-thing.page-type.types.ts"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-set/temper-set.page-type.ts","id":"01a05fd1-d441-7c97-bedf-3316d7b4361a"}
-{"propertySlug":"page-property","path":"temper/catalog/skill/line/temper-skill-line.page-type.ts","id":"01a05fca-cb8b-7189-8133-38b9f311342c"}
 {"propertySlug":"page-property","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}
 {"propertySlug":"parts","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}

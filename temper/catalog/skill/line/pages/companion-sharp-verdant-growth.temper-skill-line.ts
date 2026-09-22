@@ -9,5 +9,5 @@ export const companionSharpVerdantGrowth = {
   displayOrder: 93,
   esoSkillLineId: 243,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

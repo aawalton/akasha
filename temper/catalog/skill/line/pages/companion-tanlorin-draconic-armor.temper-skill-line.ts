@@ -9,5 +9,5 @@ export const companionTanlorinDraconicArmor = {
   displayOrder: 100,
   esoSkillLineId: 265,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

@@ -9,5 +9,5 @@ export const companionZerithRemedyOfAtonement = {
   displayOrder: 104,
   esoSkillLineId: 261,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

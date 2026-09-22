@@ -9,5 +9,5 @@ export const craftJewelryCrafting = {
   displayOrder: 60,
   esoSkillLineId: 141,
   maxRank: 50,
-  subcategoryId: "craft",
+  category: "temper-skill-line-category/craft",
 } as const satisfies TemperSkillLine

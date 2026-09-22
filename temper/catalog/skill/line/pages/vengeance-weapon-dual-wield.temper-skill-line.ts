@@ -9,5 +9,5 @@ export const vengeanceWeaponDualWield = {
   displayOrder: 130,
   esoSkillLineId: 321,
   maxRank: 0,
-  subcategoryId: "alliance-war",
+  category: "temper-skill-line-category/alliance-war",
 } as const satisfies TemperSkillLine

@@ -9,5 +9,5 @@ export const companionSharedHeavyArmor = {
   displayOrder: 71,
   esoSkillLineId: 188,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

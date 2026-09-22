@@ -9,5 +9,5 @@ export const companionIsobelHealingGrace = {
   displayOrder: 89,
   esoSkillLineId: 202,
   maxRank: 20,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

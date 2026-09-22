@@ -9,6 +9,6 @@ export const sorcererDaedricSummoning = {
   displayOrder: 14,
   esoSkillLineId: 42,
   maxRank: 50,
-  subcategoryId: "character-class",
+  category: "temper-skill-line-category/character-class",
   class: "temper-class/sorcerer",
 } as const satisfies TemperSkillLine

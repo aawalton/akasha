@@ -9,5 +9,5 @@ export const weaponOneHandAndShield = {
   displayOrder: 23,
   esoSkillLineId: 29,
   maxRank: 50,
-  subcategoryId: "weapon",
+  category: "temper-skill-line-category/weapon",
 } as const satisfies TemperSkillLine

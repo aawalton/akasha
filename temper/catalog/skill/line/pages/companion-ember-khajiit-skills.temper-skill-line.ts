@@ -9,5 +9,5 @@ export const companionEmberKhajiitSkills = {
   displayOrder: 86,
   esoSkillLineId: 199,
   maxRank: 1,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine

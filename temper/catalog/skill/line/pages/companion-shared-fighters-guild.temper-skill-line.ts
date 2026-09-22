@@ -9,5 +9,5 @@ export const companionSharedFightersGuild = {
   displayOrder: 72,
   esoSkillLineId: 189,
   maxRank: 10,
-  subcategoryId: "companion",
+  category: "temper-skill-line-category/companion",
 } as const satisfies TemperSkillLine
