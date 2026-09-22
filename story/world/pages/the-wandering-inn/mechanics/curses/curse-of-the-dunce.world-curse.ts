@@ -6,5 +6,6 @@ export const curseOfTheDunce = {
   slug: "curse-of-the-dunce",
   title: "Curse of the Dunce",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldCurse

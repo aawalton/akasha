@@ -6,5 +6,6 @@ export const bloodOfEnemiesBoil = {
   slug: "blood-of-enemies-boil",
   title: "Blood of Enemies, Boil",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldCurse
