@@ -1,6 +1,4 @@
-{"propertySlug":"argument","path":"command/pages/seat/transcript-follow/seat-transcript-follow.command.ts","id":"01a0c96f-7bbd-783d-b659-9c9f6d4e6e12"}
 {"propertySlug":"argument","path":"command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.ts","id":"01a0603c-c1d8-70b7-a1e7-d602bcd411b0"}
-{"propertySlug":"import","fileName":"after.argument.ts","path":"command/pages/seat/transcript-follow/seat-transcript-follow.command.code.ts"}
 {"propertySlug":"import","fileName":"after.argument.ts","path":"command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.code.ts"}
 {"propertySlug":"import","fileName":"after.argument.ts","path":"command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.test.ts"}
 {"propertySlug":"not-with","path":"command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.ts","id":"01a0603c-c1d8-70b7-a1e7-d602bcd411b0"}

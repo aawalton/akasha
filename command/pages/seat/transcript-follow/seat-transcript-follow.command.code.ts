@@ -3,7 +3,7 @@ import { dirname } from "node:path"
 import { akashaSeatIdForName } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaSeatRecordOf } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 import type { TakenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
-import { after } from "akasha/command/argument/pages/after.argument.ts"
+import { afterExchange } from "akasha/command/argument/pages/after-exchange.argument.ts"
 import { seat } from "akasha/command/argument/pages/seat.argument.ts"
 import { waitSeconds } from "akasha/command/argument/pages/wait-seconds.argument.ts"
 import {
@@ -42,7 +42,7 @@ const SWEEP_MS = 1000
 
 const A_SECOND = 1000
 
-const PAGES = [seat, after, waitSeconds]
+const PAGES = [seat, afterExchange, waitSeconds]
 
 export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
@@ -273,7 +273,7 @@ async function answered(taken: Taken): Promise<Answer> {
   }
   const found = await followed(
     () => pathFor(name),
-    taken.after ?? null,
+    taken.afterExchange ?? null,
     taken.waitSeconds * A_SECOND
   )
   return told([saidOf(found)])

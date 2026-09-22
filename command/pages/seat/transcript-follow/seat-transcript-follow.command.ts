@@ -120,7 +120,7 @@ export const seatTranscriptFollow = {
   name: "transcript-follow",
   arguments: [
     { argument: "argument/seat", required: true },
-    { argument: "argument/after" },
+    { argument: "argument/after-exchange" },
     { argument: "argument/wait-seconds" },
   ],
 } as const satisfies Command
