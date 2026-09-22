@@ -6,5 +6,6 @@ export const cageOfImperviousForce = {
   slug: "cage-of-impervious-force",
   title: "Cage of Impervious Force",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

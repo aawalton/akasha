@@ -6,5 +6,6 @@ export const boundSpellTheDragonflyNet = {
   slug: "bound-spell-the-dragonfly-net",
   title: "Bound Spell: The Dragonfly Net",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

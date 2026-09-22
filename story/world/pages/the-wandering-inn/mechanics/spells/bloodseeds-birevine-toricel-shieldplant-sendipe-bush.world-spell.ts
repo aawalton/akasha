@@ -6,5 +6,6 @@ export const bloodseedsBirevineToricelShieldplantSendipeBush = {
   slug: "bloodseeds-birevine-toricel-shieldplant-sendipe-bush",
   title: "Bloodseeds (Birevine, Toricel Shieldplant, Sendipe Bush)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

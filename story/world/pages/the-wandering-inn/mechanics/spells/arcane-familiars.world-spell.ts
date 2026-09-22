@@ -6,5 +6,6 @@ export const arcaneFamiliars = {
   slug: "arcane-familiars",
   title: "Arcane Familiars",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSpell

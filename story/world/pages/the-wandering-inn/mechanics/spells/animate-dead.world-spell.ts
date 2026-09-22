@@ -6,5 +6,6 @@ export const animateDead = {
   slug: "animate-dead",
   title: "Animate Dead",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSpell

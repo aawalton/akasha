@@ -6,5 +6,6 @@ export const autocastLightArrows = {
   slug: "autocast-light-arrows",
   title: "Autocast: Light Arrows",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

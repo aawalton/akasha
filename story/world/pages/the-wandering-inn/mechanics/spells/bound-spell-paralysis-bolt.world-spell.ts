@@ -6,5 +6,6 @@ export const boundSpellParalysisBolt = {
   slug: "bound-spell-paralysis-bolt",
   title: "Bound Spell – Paralysis Bolt",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

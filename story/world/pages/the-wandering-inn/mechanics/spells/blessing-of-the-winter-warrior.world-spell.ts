@@ -6,5 +6,6 @@ export const blessingOfTheWinterWarrior = {
   slug: "blessing-of-the-winter-warrior",
   title: "Blessing of the Winter Warrior",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

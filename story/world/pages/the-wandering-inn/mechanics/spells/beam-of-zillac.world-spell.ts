@@ -6,5 +6,6 @@ export const beamOfZillac = {
   slug: "beam-of-zillac",
   title: "Beam of Zillac",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

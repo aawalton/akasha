@@ -6,5 +6,6 @@ export const automaticSpellcasting = {
   slug: "automatic-spellcasting",
   title: "Automatic Spellcasting",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

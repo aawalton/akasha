@@ -6,5 +6,6 @@ export const berserkWave = {
   slug: "berserk-wave",
   title: "Berserk Wave",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

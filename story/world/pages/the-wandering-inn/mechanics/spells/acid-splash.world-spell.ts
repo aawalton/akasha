@@ -6,5 +6,6 @@ export const acidSplash = {
   slug: "acid-splash",
   title: "Acid Splash",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

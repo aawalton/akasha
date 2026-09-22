@@ -6,5 +6,6 @@ export const bindSpellOrbOfAir = {
   slug: "bind-spell-orb-of-air",
   title: "Bind Spell: Orb of Air",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

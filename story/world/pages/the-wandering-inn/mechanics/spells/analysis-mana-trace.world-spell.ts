@@ -6,5 +6,6 @@ export const analysisManaTrace = {
   slug: "analysis-mana-trace",
   title: "Analysis: Mana Trace",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

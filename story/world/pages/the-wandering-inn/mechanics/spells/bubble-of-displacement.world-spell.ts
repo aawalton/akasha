@@ -6,5 +6,6 @@ export const bubbleOfDisplacement = {
   slug: "bubble-of-displacement",
   title: "Bubble of Displacement",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

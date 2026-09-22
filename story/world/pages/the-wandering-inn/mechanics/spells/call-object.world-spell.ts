@@ -6,5 +6,6 @@ export const callObject = {
   slug: "call-object",
   title: "Call Object",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const bindSpellGreaterDispel = {
   slug: "bind-spell-greater-dispel",
   title: "Bind Spell: Greater Dispel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

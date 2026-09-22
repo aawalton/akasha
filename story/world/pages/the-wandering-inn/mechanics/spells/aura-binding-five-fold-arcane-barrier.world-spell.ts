@@ -6,5 +6,6 @@ export const auraBindingFiveFoldArcaneBarrier = {
   slug: "aura-binding-five-fold-arcane-barrier",
   title: "Aura Binding: Five-fold Arcane Barrier",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

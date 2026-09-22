@@ -6,5 +6,6 @@ export const absorbRecollections = {
   slug: "absorb-recollections",
   title: "Absorb Recollections",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

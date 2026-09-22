@@ -6,5 +6,6 @@ export const arrowOfWinterGlaciusPillar = {
   slug: "arrow-of-winter-glacius-pillar",
   title: "Arrow of Winter: Glacius Pillar",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSpell

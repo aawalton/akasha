@@ -6,5 +6,6 @@ export const abacaxemSAnalRetentiveFrictionLightBridge = {
   slug: "abacaxem-s-anal-retentive-friction-light-bridge",
   title: "Abacaxem’s Anal Retentive Friction Light Bridge",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

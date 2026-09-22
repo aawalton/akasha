@@ -6,5 +6,6 @@ export const bindingCordsIron = {
   slug: "binding-cords-iron",
   title: "Binding Cords – Iron",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

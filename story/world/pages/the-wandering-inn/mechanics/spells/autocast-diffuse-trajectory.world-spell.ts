@@ -6,5 +6,6 @@ export const autocastDiffuseTrajectory = {
   slug: "autocast-diffuse-trajectory",
   title: "Autocast: Diffuse Trajectory",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

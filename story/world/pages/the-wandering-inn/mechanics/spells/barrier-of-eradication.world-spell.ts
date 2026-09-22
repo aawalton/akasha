@@ -6,5 +6,6 @@ export const barrierOfEradication = {
   slug: "barrier-of-eradication",
   title: "Barrier of Eradication",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

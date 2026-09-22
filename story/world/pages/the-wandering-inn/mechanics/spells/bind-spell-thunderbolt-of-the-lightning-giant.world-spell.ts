@@ -6,5 +6,6 @@ export const bindSpellThunderboltOfTheLightningGiant = {
   slug: "bind-spell-thunderbolt-of-the-lightning-giant",
   title: "Bind Spell: Thunderbolt of the Lightning Giant",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

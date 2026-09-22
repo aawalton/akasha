@@ -6,5 +6,6 @@ export const barrierOfScintillation = {
   slug: "barrier-of-scintillation",
   title: "Barrier of Scintillation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

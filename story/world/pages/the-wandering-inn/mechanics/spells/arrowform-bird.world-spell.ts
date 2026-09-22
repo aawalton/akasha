@@ -6,5 +6,6 @@ export const arrowformBird = {
   slug: "arrowform-bird",
   title: "Arrowform: Bird",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

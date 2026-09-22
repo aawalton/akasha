@@ -6,5 +6,6 @@ export const bitormSLanternOfRelumination = {
   slug: "bitorm-s-lantern-of-relumination",
   title: "Bitorm’s Lantern of Relumination",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell
