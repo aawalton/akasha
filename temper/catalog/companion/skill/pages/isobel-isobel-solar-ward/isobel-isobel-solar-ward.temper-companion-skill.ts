@@ -12,7 +12,7 @@ export const isobelIsobelSolarWard = {
   companionId: "isobel",
   abilityId: 163442,
   skillLineId: "companion-isobel-brilliant-shield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

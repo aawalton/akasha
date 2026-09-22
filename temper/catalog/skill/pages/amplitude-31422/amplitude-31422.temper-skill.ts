@@ -17,6 +17,6 @@ export const amplitude31422 = {
   morphIndex: 0,
   rank: 22,
   skillLineId: "sorcerer-storm-calling",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "sorcerer-storm-calling",
 } as const satisfies TemperSkill

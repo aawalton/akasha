@@ -17,6 +17,6 @@ export const runePrison = {
   morphIndex: 0,
   rank: 20,
   skillLineId: "sorcerer-dark-magic",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "sorcerer-dark-magic",
 } as const satisfies TemperSkill

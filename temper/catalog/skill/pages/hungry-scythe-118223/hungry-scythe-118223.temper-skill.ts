@@ -17,6 +17,6 @@ export const hungryScythe118223 = {
   morphIndex: 2,
   rank: 1,
   skillLineId: "necromancer-bone-tyrant",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "necromancer-bone-tyrant",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const fragmentedShield32673 = {
   morphIndex: 2,
   rank: 20,
   skillLineId: "dragonknight-earthen-heart",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "dragonknight-earthen-heart",
 } as const satisfies TemperSkill

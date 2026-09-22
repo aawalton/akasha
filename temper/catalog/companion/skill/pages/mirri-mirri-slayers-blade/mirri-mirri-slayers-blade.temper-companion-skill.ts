@@ -12,7 +12,7 @@ export const mirriMirriSlayersBlade = {
   companionId: "mirri",
   abilityId: 153855,
   skillLineId: "companion-mirri-deadly-assassin",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

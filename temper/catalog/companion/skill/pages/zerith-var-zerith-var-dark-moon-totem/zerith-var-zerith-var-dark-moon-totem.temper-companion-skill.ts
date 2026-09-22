@@ -12,7 +12,7 @@ export const zerithVarZerithVarDarkMoonTotem = {
   companionId: "zerith-var",
   abilityId: 213166,
   skillLineId: "companion-zerith-var-guardians-commitment",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank", "support"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

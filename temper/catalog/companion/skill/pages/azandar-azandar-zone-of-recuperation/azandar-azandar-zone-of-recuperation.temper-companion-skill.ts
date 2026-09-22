@@ -12,7 +12,7 @@ export const azandarAzandarZoneOfRecuperation = {
   companionId: "azandar",
   abilityId: 193126,
   skillLineId: "companion-azandar-revitalizing-researcher",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   tags: ["ground-effect"],
   skillEffects: "jsonl",

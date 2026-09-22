@@ -12,7 +12,7 @@ export const allSharedMendingIncantation = {
   companionId: "all",
   abilityId: 153467,
   skillLineId: "weapon-restoration-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank", "support"],
   tags: ["cone-aoe"],
   skillEffects: "jsonl",

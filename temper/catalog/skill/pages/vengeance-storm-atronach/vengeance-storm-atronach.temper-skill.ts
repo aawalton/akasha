@@ -17,6 +17,6 @@ export const vengeanceStormAtronach = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-sorcerer-daedric-summoning",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-sorcerer-daedric-summoning",
 } as const satisfies TemperSkill

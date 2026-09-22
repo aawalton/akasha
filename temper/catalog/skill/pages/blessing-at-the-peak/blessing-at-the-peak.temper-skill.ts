@@ -17,6 +17,6 @@ export const blessingAtThePeak = {
   morphIndex: 0,
   rank: 22,
   skillLineId: "dragonknight-earthen-heart",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "dragonknight-earthen-heart",
 } as const satisfies TemperSkill

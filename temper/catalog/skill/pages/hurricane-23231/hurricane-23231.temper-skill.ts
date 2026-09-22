@@ -17,6 +17,6 @@ export const hurricane23231 = {
   morphIndex: 1,
   rank: 4,
   skillLineId: "sorcerer-storm-calling",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "sorcerer-storm-calling",
 } as const satisfies TemperSkill

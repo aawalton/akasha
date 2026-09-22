@@ -17,6 +17,6 @@ export const degeneration40457 = {
   morphIndex: 1,
   rank: 4,
   skillLineId: "guild-mages-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-mages-guild",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const harnessMagicka = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "armor-light-armor",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "armor-light-armor",
 } as const satisfies TemperSkill

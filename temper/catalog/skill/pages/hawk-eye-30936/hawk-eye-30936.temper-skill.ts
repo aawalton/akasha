@@ -17,6 +17,6 @@ export const hawkEye30936 = {
   morphIndex: 0,
   rank: 30,
   skillLineId: "weapon-bow",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-bow",
 } as const satisfies TemperSkill

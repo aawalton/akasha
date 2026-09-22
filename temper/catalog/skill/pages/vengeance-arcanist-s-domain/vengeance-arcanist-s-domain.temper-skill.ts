@@ -17,6 +17,6 @@ export const vengeanceArcanistSDomain = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-arcanist-curative-runeforms",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-arcanist-curative-runeforms",
 } as const satisfies TemperSkill

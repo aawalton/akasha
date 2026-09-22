@@ -17,7 +17,7 @@ export const scribedWieldSoulMagicDamage = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "world-soul-magic",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "magic-damage",
   grimoireId: "wield-soul",

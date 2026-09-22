@@ -17,7 +17,7 @@ export const veilOfShadows = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "guild-thieves-guild",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "guild-thieves-guild",
   status: "unsupported",
   effects: "jsonl",

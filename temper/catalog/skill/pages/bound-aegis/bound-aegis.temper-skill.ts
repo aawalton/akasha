@@ -17,7 +17,7 @@ export const boundAegis = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "sorcerer-daedric-summoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "sorcerer-daedric-summoning",
   effects: "jsonl",
 } as const satisfies TemperSkill

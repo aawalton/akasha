@@ -12,7 +12,7 @@ export const allSharedMysticFortress = {
   companionId: "all",
   abilityId: 153685,
   skillLineId: "weapon-restoration-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

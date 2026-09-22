@@ -17,6 +17,6 @@ export const fungalGrowth = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "warden-green-balance",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "warden-green-balance",
 } as const satisfies TemperSkill

@@ -17,7 +17,7 @@ export const swordAndBoard = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "weapon-one-hand-and-shield",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-one-hand-and-shield",
   status: "supported",
   effects: "jsonl",

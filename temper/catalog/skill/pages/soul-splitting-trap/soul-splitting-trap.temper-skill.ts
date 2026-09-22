@@ -17,6 +17,6 @@ export const soulSplittingTrap = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "world-soul-magic",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "world-soul-magic",
 } as const satisfies TemperSkill

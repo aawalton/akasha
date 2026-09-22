@@ -12,7 +12,7 @@ export const tanlorinTanlorinBlazingGrasp = {
   companionId: "tanlorin",
   abilityId: 153839,
   skillLineId: "companion-tanlorin-draconic-armor",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

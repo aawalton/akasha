@@ -17,6 +17,6 @@ export const immovable39197 = {
   morphIndex: 2,
   rank: 22,
   skillLineId: "armor-heavy-armor",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "armor-heavy-armor",
 } as const satisfies TemperSkill

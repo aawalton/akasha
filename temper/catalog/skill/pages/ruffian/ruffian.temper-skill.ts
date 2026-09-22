@@ -17,7 +17,7 @@ export const ruffian = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "weapon-dual-wield",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-dual-wield",
   status: "unsupported",
   effects: "jsonl",

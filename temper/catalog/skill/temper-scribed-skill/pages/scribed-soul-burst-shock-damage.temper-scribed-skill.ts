@@ -17,7 +17,7 @@ export const scribedSoulBurstShockDamage = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "world-soul-magic",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "shock-damage",
   grimoireId: "soul-burst",

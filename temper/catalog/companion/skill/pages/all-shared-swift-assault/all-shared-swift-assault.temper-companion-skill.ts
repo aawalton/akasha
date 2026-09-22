@@ -12,7 +12,7 @@ export const allSharedSwiftAssault = {
   companionId: "all",
   abilityId: 152629,
   skillLineId: "weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

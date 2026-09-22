@@ -17,6 +17,6 @@ export const summonUnstableClannfear23319 = {
   morphIndex: 1,
   rank: 1,
   skillLineId: "sorcerer-daedric-summoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "sorcerer-daedric-summoning",
 } as const satisfies TemperSkill

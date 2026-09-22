@@ -17,6 +17,6 @@ export const apocryphalGate = {
   morphIndex: 0,
   rank: 42,
   skillLineId: "arcanist-curative-runeforms",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-curative-runeforms",
 } as const satisfies TemperSkill

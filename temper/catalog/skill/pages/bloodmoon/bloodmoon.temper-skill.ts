@@ -17,6 +17,6 @@ export const bloodmoon = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "world-werewolf",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-werewolf",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const turnEvil40181 = {
   morphIndex: 1,
   rank: 4,
   skillLineId: "guild-fighters-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-fighters-guild",
 } as const satisfies TemperSkill

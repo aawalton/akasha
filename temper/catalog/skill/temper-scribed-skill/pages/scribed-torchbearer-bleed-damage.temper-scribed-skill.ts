@@ -17,7 +17,7 @@ export const scribedTorchbearerBleedDamage = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "guild-fighters-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "bleed-damage",
   grimoireId: "torchbearer",

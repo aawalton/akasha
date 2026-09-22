@@ -12,7 +12,7 @@ export const azandarAzandarTriptychPhysic = {
   companionId: "azandar",
   abilityId: 192574,
   skillLineId: "companion-azandar-revitalizing-researcher",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

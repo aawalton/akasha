@@ -17,6 +17,6 @@ export const sapEssence36891 = {
   morphIndex: 2,
   rank: 42,
   skillLineId: "nightblade-siphoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill

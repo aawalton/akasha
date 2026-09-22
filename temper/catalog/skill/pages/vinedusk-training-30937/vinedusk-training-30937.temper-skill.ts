@@ -17,6 +17,6 @@ export const vineduskTraining30937 = {
   morphIndex: 0,
   rank: 5,
   skillLineId: "weapon-bow",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-bow",
 } as const satisfies TemperSkill

@@ -12,7 +12,7 @@ export const bastianBastianDrakesBlood = {
   companionId: "bastian",
   abilityId: 155268,
   skillLineId: "companion-bastian-draconic-armor",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   tags: ["max-health-heal-25pct"],
   skillEffects: "jsonl",

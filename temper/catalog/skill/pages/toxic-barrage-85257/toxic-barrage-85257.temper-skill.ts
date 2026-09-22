@@ -17,6 +17,6 @@ export const toxicBarrage85257 = {
   morphIndex: 1,
   rank: 50,
   skillLineId: "weapon-bow",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "weapon-bow",
 } as const satisfies TemperSkill

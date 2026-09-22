@@ -12,7 +12,7 @@ export const sharpAsNightSharpPerennialBloom = {
   companionId: "sharp-as-night",
   abilityId: 186602,
   skillLineId: "companion-sharp-as-night-verdant-growth",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

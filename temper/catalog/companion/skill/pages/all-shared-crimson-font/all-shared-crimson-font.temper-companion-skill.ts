@@ -12,7 +12,7 @@ export const allSharedCrimsonFont = {
   companionId: "all",
   abilityId: 155515,
   skillLineId: "guild-undaunted",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   tags: ["synergy"],
   skillEffects: "jsonl",

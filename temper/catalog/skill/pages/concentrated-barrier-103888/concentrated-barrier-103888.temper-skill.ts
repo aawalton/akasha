@@ -17,6 +17,6 @@ export const concentratedBarrier103888 = {
   morphIndex: 0,
   rank: 6,
   skillLineId: "guild-psijic-order",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "guild-psijic-order",
 } as const satisfies TemperSkill

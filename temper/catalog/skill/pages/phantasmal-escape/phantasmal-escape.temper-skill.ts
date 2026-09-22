@@ -17,6 +17,6 @@ export const phantasmalEscape = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "nightblade-shadow",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-shadow",
 } as const satisfies TemperSkill

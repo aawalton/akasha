@@ -17,6 +17,6 @@ export const vengeanceMoltenWeapons = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-dragonknight-earthen-heart",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-dragonknight-earthen-heart",
 } as const satisfies TemperSkill

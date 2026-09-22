@@ -17,7 +17,7 @@ export const scribedSmashDamageShield = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "weapon-two-handed",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "damage-shield",
   grimoireId: "smash",

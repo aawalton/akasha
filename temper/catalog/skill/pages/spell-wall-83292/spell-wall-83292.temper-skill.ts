@@ -17,6 +17,6 @@ export const spellWall83292 = {
   morphIndex: 1,
   rank: 50,
   skillLineId: "weapon-one-hand-and-shield",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "weapon-one-hand-and-shield",
 } as const satisfies TemperSkill

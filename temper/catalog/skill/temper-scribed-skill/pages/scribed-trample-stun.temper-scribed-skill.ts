@@ -16,7 +16,7 @@ export const scribedTrampleStun = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "alliance-war-assault",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "stun",
   grimoireId: "trample",

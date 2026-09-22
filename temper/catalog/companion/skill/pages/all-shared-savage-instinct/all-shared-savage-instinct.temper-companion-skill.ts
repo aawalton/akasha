@@ -12,7 +12,7 @@ export const allSharedSavageInstinct = {
   companionId: "all",
   abilityId: 157240,
   skillLineId: "guild-undaunted",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps", "tank"],
   tags: ["synergy"],
   skillEffects: "jsonl",

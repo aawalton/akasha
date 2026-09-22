@@ -17,6 +17,6 @@ export const riteOfPassage = {
   morphIndex: 0,
   rank: 12,
   skillLineId: "templar-restoring-light",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "templar-restoring-light",
 } as const satisfies TemperSkill

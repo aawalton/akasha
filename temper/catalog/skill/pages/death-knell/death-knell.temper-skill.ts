@@ -16,7 +16,7 @@ export const deathKnell = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "necromancer-grave-lord",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "necromancer-grave-lord",
   status: "unsupported",
   effects: "jsonl",

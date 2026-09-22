@@ -17,6 +17,6 @@ export const sturdyHorn = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "alliance-war-assault",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

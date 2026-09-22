@@ -17,7 +17,7 @@ export const martialTraining = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "racial-redguard-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-redguard-skills",
   status: "partially-supported",
   effects: "jsonl",

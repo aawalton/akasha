@@ -17,7 +17,7 @@ export const vineduskTraining = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "weapon-bow",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-bow",
   status: "unsupported",
   effects: "jsonl",

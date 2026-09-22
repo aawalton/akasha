@@ -17,6 +17,6 @@ export const resonatingGlyphic193558 = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "arcanist-curative-runeforms",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "arcanist-curative-runeforms",
 } as const satisfies TemperSkill

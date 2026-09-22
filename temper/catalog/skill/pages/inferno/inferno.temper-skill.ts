@@ -17,6 +17,6 @@ export const inferno = {
   morphIndex: 0,
   rank: 42,
   skillLineId: "dragonknight-ardent-flame",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "dragonknight-ardent-flame",
 } as const satisfies TemperSkill

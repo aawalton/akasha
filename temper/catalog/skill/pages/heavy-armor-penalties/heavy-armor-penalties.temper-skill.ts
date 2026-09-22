@@ -17,7 +17,7 @@ export const heavyArmorPenalties = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "armor-heavy-armor",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "armor-heavy-armor",
   status: "partially-supported",
   effects: "jsonl",

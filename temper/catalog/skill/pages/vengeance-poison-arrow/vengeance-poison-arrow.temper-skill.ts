@@ -17,6 +17,6 @@ export const vengeancePoisonArrow = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-weapon-bow",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-weapon-bow",
 } as const satisfies TemperSkill

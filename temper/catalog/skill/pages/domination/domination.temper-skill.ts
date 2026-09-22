@@ -17,7 +17,7 @@ export const domination = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "alliance-war-emperor",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "alliance-war-emperor",
   status: "unsupported",
   effects: "jsonl",

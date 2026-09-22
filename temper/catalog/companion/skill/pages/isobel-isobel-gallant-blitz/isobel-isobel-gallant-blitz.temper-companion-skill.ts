@@ -12,6 +12,6 @@ export const isobelIsobelGallantBlitz = {
   companionId: "isobel",
   abilityId: 163590,
   skillLineId: "companion-isobel-brilliant-shield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

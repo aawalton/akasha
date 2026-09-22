@@ -17,6 +17,6 @@ export const restoringFocus22237 = {
   morphIndex: 2,
   rank: 42,
   skillLineId: "templar-restoring-light",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "templar-restoring-light",
 } as const satisfies TemperSkill

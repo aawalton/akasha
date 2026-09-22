@@ -17,6 +17,6 @@ export const hunterSEye = {
   morphIndex: 0,
   rank: 5,
   skillLineId: "racial-wood-elf-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-wood-elf-skills",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const gibberingShelter = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "arcanist-soldier-of-apocrypha",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "arcanist-soldier-of-apocrypha",
 } as const satisfies TemperSkill

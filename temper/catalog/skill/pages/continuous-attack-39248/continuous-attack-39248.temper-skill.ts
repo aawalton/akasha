@@ -17,6 +17,6 @@ export const continuousAttack39248 = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "alliance-war-assault",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

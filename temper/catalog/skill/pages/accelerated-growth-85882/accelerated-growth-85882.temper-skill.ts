@@ -17,6 +17,6 @@ export const acceleratedGrowth85882 = {
   morphIndex: 0,
   rank: 8,
   skillLineId: "warden-green-balance",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "warden-green-balance",
 } as const satisfies TemperSkill

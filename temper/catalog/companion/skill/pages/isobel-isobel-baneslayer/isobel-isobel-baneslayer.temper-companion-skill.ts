@@ -12,7 +12,7 @@ export const isobelIsobelBaneslayer = {
   companionId: "isobel",
   abilityId: 163763,
   skillLineId: "companion-isobel",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

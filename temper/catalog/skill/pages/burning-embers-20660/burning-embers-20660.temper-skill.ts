@@ -17,6 +17,6 @@ export const burningEmbers20660 = {
   morphIndex: 2,
   rank: 4,
   skillLineId: "dragonknight-ardent-flame",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "dragonknight-ardent-flame",
 } as const satisfies TemperSkill

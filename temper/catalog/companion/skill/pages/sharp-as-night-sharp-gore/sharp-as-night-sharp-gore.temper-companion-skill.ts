@@ -12,7 +12,7 @@ export const sharpAsNightSharpGore = {
   companionId: "sharp-as-night",
   abilityId: 186488,
   skillLineId: "companion-sharp-as-night",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

@@ -17,7 +17,7 @@ export const necroticPotency = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "necromancer-bone-tyrant",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "necromancer-bone-tyrant",
   effects: "jsonl",
 } as const satisfies TemperSkill

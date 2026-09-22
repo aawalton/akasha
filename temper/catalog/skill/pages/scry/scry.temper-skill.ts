@@ -17,6 +17,6 @@ export const scry = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "world-scrying",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-scrying",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const revivingBarrier = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "alliance-war-support",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "alliance-war-support",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const vengeanceAbyssalImpact = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-arcanist-herald-of-the-tome",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-arcanist-herald-of-the-tome",
 } as const satisfies TemperSkill

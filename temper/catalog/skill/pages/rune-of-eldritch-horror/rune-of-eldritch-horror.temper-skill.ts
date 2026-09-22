@@ -17,6 +17,6 @@ export const runeOfEldritchHorror = {
   morphIndex: 0,
   rank: 42,
   skillLineId: "arcanist-soldier-of-apocrypha",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-soldier-of-apocrypha",
 } as const satisfies TemperSkill

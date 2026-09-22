@@ -17,6 +17,6 @@ export const vengeanceFlurry = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-weapon-dual-wield",
 } as const satisfies TemperSkill

@@ -11,7 +11,7 @@ export const isobelIsobelEnchanted = {
   companionId: "isobel",
   abilityId: 169474,
   skillLineId: "companion-isobel",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   validRoles: ["tank"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

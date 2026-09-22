@@ -17,6 +17,6 @@ export const purge = {
   morphIndex: 0,
   rank: 4,
   skillLineId: "alliance-war-support",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "alliance-war-support",
 } as const satisfies TemperSkill

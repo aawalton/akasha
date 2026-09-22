@@ -12,7 +12,7 @@ export const allSharedStarfall = {
   companionId: "all",
   abilityId: 155403,
   skillLineId: "guild-mages",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

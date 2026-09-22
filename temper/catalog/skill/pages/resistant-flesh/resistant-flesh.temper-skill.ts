@@ -17,6 +17,6 @@ export const resistantFlesh = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "necromancer-living-death",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "necromancer-living-death",
 } as const satisfies TemperSkill

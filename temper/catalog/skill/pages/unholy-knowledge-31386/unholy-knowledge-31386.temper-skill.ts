@@ -17,6 +17,6 @@ export const unholyKnowledge31386 = {
   morphIndex: 0,
   rank: 8,
   skillLineId: "sorcerer-dark-magic",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "sorcerer-dark-magic",
 } as const satisfies TemperSkill

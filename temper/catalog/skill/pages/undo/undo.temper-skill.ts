@@ -17,6 +17,6 @@ export const undo = {
   morphIndex: 0,
   rank: 10,
   skillLineId: "guild-psijic-order",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "guild-psijic-order",
 } as const satisfies TemperSkill

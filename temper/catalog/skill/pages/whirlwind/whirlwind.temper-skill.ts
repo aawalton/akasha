@@ -17,6 +17,6 @@ export const whirlwind = {
   morphIndex: 0,
   rank: 14,
   skillLineId: "weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-dual-wield",
 } as const satisfies TemperSkill

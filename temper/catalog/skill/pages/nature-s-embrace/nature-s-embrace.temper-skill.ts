@@ -17,6 +17,6 @@ export const natureSEmbrace = {
   morphIndex: 2,
   rank: 42,
   skillLineId: "warden-green-balance",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "warden-green-balance",
 } as const satisfies TemperSkill

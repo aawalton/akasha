@@ -17,6 +17,6 @@ export const magickaDetonation = {
   morphIndex: 0,
   rank: 7,
   skillLineId: "alliance-war-assault",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const powerOfTheLight21763 = {
   morphIndex: 2,
   rank: 20,
   skillLineId: "templar-dawns-wrath",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "templar-dawns-wrath",
 } as const satisfies TemperSkill

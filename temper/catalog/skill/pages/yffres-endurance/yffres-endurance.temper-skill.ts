@@ -16,7 +16,7 @@ export const yffresEndurance = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "racial-wood-elf-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-wood-elf-skills",
   status: "supported",
   effects: "jsonl",

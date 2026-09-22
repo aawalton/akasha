@@ -12,7 +12,7 @@ export const allSharedVanish = {
   companionId: "all",
   abilityId: 156596,
   skillLineId: "armor-medium",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

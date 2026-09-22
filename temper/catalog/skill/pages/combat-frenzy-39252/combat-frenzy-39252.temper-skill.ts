@@ -16,6 +16,6 @@ export const combatFrenzy39252 = {
   morphIndex: 0,
   rank: 8,
   skillLineId: "alliance-war-assault",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

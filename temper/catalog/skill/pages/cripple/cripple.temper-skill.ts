@@ -17,6 +17,6 @@ export const cripple = {
   morphIndex: 0,
   rank: 20,
   skillLineId: "nightblade-siphoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill

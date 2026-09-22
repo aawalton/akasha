@@ -17,6 +17,6 @@ export const graveLordSSacrifice = {
   morphIndex: 2,
   rank: 4,
   skillLineId: "necromancer-grave-lord",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "necromancer-grave-lord",
 } as const satisfies TemperSkill

@@ -16,7 +16,7 @@ export const lunarBlessings = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "racial-khajiit-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-khajiit-skills",
   status: "supported",
   effects: "jsonl",

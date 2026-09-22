@@ -17,6 +17,6 @@ export const unstoppable = {
   morphIndex: 0,
   rank: 22,
   skillLineId: "armor-heavy-armor",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "armor-heavy-armor",
 } as const satisfies TemperSkill

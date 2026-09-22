@@ -17,7 +17,7 @@ export const scribedMendersBondMagicDamage = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "weapon-restoration-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "magic-damage",
   grimoireId: "menders-bond",

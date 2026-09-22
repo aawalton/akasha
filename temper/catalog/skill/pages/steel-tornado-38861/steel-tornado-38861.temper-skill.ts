@@ -17,6 +17,6 @@ export const steelTornado38861 = {
   morphIndex: 2,
   rank: 14,
   skillLineId: "weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-dual-wield",
 } as const satisfies TemperSkill

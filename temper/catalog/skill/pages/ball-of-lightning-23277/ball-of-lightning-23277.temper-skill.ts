@@ -17,6 +17,6 @@ export const ballOfLightning23277 = {
   morphIndex: 2,
   rank: 42,
   skillLineId: "sorcerer-storm-calling",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "sorcerer-storm-calling",
 } as const satisfies TemperSkill

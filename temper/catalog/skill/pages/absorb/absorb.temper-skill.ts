@@ -17,7 +17,7 @@ export const absorb = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "weapon-restoration-staff",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-restoration-staff",
   status: "unsupported",
   effects: "jsonl",

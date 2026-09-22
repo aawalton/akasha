@@ -17,6 +17,6 @@ export const vengeanceConjuredWard = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-sorcerer-daedric-summoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-sorcerer-daedric-summoning",
 } as const satisfies TemperSkill

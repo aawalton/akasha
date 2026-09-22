@@ -17,6 +17,6 @@ export const rapidStrikes38857 = {
   morphIndex: 1,
   rank: 2,
   skillLineId: "weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-dual-wield",
 } as const satisfies TemperSkill

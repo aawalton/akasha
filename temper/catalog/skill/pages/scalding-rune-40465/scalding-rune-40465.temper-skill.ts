@@ -17,6 +17,6 @@ export const scaldingRune40465 = {
   morphIndex: 2,
   rank: 6,
   skillLineId: "guild-mages-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-mages-guild",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const undeath33093 = {
   morphIndex: 0,
   rank: 6,
   skillLineId: "world-vampire",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-vampire",
 } as const satisfies TemperSkill

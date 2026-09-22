@@ -17,6 +17,6 @@ export const razorCaltrops40242 = {
   morphIndex: 2,
   rank: 6,
   skillLineId: "alliance-war-assault",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

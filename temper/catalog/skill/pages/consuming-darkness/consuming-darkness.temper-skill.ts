@@ -17,6 +17,6 @@ export const consumingDarkness = {
   morphIndex: 0,
   rank: 12,
   skillLineId: "nightblade-shadow",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "nightblade-shadow",
 } as const satisfies TemperSkill

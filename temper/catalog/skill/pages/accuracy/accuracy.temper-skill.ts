@@ -16,7 +16,7 @@ export const accuracy = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "weapon-bow",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-bow",
   status: "supported",
   effects: "jsonl",

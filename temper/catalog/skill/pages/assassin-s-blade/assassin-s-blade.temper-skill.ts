@@ -17,6 +17,6 @@ export const assassinSBlade = {
   morphIndex: 0,
   rank: 20,
   skillLineId: "nightblade-assassination",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-assassination",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const advancedSpecies86068 = {
   morphIndex: 0,
   rank: 39,
   skillLineId: "warden-animal-companions",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "warden-animal-companions",
 } as const satisfies TemperSkill

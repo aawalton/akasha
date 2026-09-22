@@ -16,7 +16,7 @@ export const improvedHiding = {
   morphIndex: 0,
   rank: 4,
   skillLineId: "world-legerdemain",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-legerdemain",
   status: "supported",
   effects: "jsonl",

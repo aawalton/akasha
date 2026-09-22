@@ -17,6 +17,6 @@ export const cruxweaverArmor185908 = {
   morphIndex: 1,
   rank: 20,
   skillLineId: "arcanist-soldier-of-apocrypha",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-soldier-of-apocrypha",
 } as const satisfies TemperSkill

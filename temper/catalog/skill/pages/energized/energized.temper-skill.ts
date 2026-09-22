@@ -16,7 +16,7 @@ export const energized = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "sorcerer-storm-calling",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "sorcerer-storm-calling",
   status: "supported",
   effects: "jsonl",

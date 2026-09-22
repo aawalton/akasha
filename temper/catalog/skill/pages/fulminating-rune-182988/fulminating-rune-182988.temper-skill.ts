@@ -17,6 +17,6 @@ export const fulminatingRune182988 = {
   morphIndex: 2,
   rank: 42,
   skillLineId: "arcanist-herald-of-the-tome",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-herald-of-the-tome",
 } as const satisfies TemperSkill

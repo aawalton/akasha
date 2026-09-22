@@ -16,6 +16,6 @@ export const banishTheWicked35800 = {
   morphIndex: 0,
   rank: 5,
   skillLineId: "guild-fighters-guild",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "guild-fighters-guild",
 } as const satisfies TemperSkill

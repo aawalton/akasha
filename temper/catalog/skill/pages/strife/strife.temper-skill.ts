@@ -17,6 +17,6 @@ export const strife = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "nightblade-siphoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill

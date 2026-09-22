@@ -17,6 +17,6 @@ export const igneousWeapons31874 = {
   morphIndex: 1,
   rank: 4,
   skillLineId: "dragonknight-earthen-heart",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "dragonknight-earthen-heart",
 } as const satisfies TemperSkill

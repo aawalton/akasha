@@ -17,6 +17,6 @@ export const polarWind86152 = {
   morphIndex: 1,
   rank: 20,
   skillLineId: "warden-winters-embrace",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "warden-winters-embrace",
 } as const satisfies TemperSkill

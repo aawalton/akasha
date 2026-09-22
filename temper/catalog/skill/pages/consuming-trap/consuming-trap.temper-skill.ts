@@ -17,6 +17,6 @@ export const consumingTrap = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "world-soul-magic",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "world-soul-magic",
 } as const satisfies TemperSkill

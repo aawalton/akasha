@@ -17,6 +17,6 @@ export const vengeanceMeteor = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-guild-mages-guild",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-guild-mages-guild",
 } as const satisfies TemperSkill

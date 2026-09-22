@@ -17,6 +17,6 @@ export const cinderStorm = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "dragonknight-earthen-heart",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "dragonknight-earthen-heart",
 } as const satisfies TemperSkill

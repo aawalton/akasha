@@ -17,6 +17,6 @@ export const endlessHail38689 = {
   morphIndex: 1,
   rank: 4,
   skillLineId: "weapon-bow",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-bow",
 } as const satisfies TemperSkill

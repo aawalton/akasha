@@ -12,7 +12,7 @@ export const emberEmberHurricaneVisage = {
   companionId: "ember",
   abilityId: 165860,
   skillLineId: "companion-ember-mischievous-caster",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps", "tank"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

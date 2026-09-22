@@ -11,6 +11,6 @@ export const sharpAsNightSharpSurvivalist = {
   companionId: "sharp-as-night",
   abilityId: 193973,
   skillLineId: "companion-sharp-as-night",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

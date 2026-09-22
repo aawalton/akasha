@@ -17,6 +17,6 @@ export const elude39192 = {
   morphIndex: 2,
   rank: 22,
   skillLineId: "armor-medium-armor",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "armor-medium-armor",
 } as const satisfies TemperSkill

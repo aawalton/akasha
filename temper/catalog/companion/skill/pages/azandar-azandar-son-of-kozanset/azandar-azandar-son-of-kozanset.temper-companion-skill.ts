@@ -11,6 +11,6 @@ export const azandarAzandarSonOfKozanset = {
   companionId: "azandar",
   abilityId: 193971,
   skillLineId: "companion-azandar",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

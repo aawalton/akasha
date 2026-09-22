@@ -17,7 +17,7 @@ export const felineAmbush = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "racial-khajiit-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-khajiit-skills",
   status: "partially-supported",
   effects: "jsonl",

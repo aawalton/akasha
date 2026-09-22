@@ -17,6 +17,6 @@ export const resolvingVigor61507 = {
   morphIndex: 2,
   rank: 2,
   skillLineId: "alliance-war-assault",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

@@ -17,7 +17,7 @@ export const ashlander = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "racial-dark-elf-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-dark-elf-skills",
   status: "unsupported",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const howlOfAgony58798 = {
   morphIndex: 2,
   rank: 6,
   skillLineId: "world-werewolf",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "world-werewolf",
 } as const satisfies TemperSkill

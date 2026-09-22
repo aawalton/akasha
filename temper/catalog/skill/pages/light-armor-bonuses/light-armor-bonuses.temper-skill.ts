@@ -17,7 +17,7 @@ export const lightArmorBonuses = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "armor-light-armor",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "armor-light-armor",
   status: "partially-supported",
   effects: "jsonl",

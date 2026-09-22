@@ -12,7 +12,7 @@ export const emberEmberThunderousStrike = {
   companionId: "ember",
   abilityId: 164291,
   skillLineId: "companion-ember-lightning-caller",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

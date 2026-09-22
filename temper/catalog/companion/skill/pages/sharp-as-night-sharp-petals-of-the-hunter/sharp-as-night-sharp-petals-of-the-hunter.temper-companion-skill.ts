@@ -12,7 +12,7 @@ export const sharpAsNightSharpPetalsOfTheHunter = {
   companionId: "sharp-as-night",
   abilityId: 186601,
   skillLineId: "companion-sharp-as-night-verdant-growth",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

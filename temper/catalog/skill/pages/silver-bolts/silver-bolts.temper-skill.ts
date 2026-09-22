@@ -17,6 +17,6 @@ export const silverBolts = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "guild-fighters-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-fighters-guild",
 } as const satisfies TemperSkill

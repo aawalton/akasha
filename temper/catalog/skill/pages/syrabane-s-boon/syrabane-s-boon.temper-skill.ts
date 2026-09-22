@@ -16,6 +16,6 @@ export const syrabaneSBoon = {
   morphIndex: 0,
   rank: 10,
   skillLineId: "racial-high-elf-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-high-elf-skills",
 } as const satisfies TemperSkill

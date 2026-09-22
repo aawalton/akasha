@@ -17,6 +17,6 @@ export const remembrance22229 = {
   morphIndex: 1,
   rank: 12,
   skillLineId: "templar-restoring-light",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "templar-restoring-light",
 } as const satisfies TemperSkill

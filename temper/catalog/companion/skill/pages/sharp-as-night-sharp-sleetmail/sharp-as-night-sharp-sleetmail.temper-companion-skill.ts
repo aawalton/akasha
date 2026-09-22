@@ -12,7 +12,7 @@ export const sharpAsNightSharpSleetmail = {
   companionId: "sharp-as-night",
   abilityId: 186603,
   skillLineId: "companion-sharp-as-night-winters-bite",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank", "support"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

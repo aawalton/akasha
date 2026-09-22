@@ -17,6 +17,6 @@ export const mirage = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "nightblade-shadow",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-shadow",
 } as const satisfies TemperSkill

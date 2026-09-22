@@ -12,7 +12,7 @@ export const zerithVarZerithVarPerigeanArmor = {
   companionId: "zerith-var",
   abilityId: 213165,
   skillLineId: "companion-zerith-var-guardians-commitment",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

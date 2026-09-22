@@ -17,7 +17,7 @@ export const scribedSmashTaunt = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "weapon-two-handed",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "taunt",
   grimoireId: "smash",

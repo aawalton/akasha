@@ -17,6 +17,6 @@ export const echoingVigor61505 = {
   morphIndex: 1,
   rank: 2,
   skillLineId: "alliance-war-assault",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

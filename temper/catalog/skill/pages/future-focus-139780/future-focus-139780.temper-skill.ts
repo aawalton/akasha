@@ -16,6 +16,6 @@ export const futureFocus139780 = {
   morphIndex: 0,
   rank: 4,
   skillLineId: "world-scrying",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-scrying",
 } as const satisfies TemperSkill

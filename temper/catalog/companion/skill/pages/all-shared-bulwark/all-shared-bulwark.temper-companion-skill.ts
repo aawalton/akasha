@@ -12,7 +12,7 @@ export const allSharedBulwark = {
   companionId: "all",
   abilityId: 156599,
   skillLineId: "armor-heavy",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   skillEffects: "jsonl",
   castConditions: "jsonl",
 } as const satisfies TemperCompanionSkill

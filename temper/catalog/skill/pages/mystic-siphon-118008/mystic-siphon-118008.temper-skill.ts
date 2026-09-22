@@ -17,6 +17,6 @@ export const mysticSiphon118008 = {
   morphIndex: 2,
   rank: 42,
   skillLineId: "necromancer-grave-lord",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "necromancer-grave-lord",
 } as const satisfies TemperSkill

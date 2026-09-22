@@ -17,6 +17,6 @@ export const leechingStrikes36908 = {
   morphIndex: 1,
   rank: 30,
   skillLineId: "nightblade-siphoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill

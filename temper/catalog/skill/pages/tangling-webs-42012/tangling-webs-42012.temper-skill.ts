@@ -17,6 +17,6 @@ export const tanglingWebs42012 = {
   morphIndex: 2,
   rank: 2,
   skillLineId: "guild-undaunted",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-undaunted",
 } as const satisfies TemperSkill

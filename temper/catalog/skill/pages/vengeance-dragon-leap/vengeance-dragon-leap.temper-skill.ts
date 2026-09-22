@@ -17,6 +17,6 @@ export const vengeanceDragonLeap = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-dragonknight-draconic-power",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-dragonknight-draconic-power",
 } as const satisfies TemperSkill

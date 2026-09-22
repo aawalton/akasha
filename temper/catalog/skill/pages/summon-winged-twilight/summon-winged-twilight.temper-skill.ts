@@ -17,6 +17,6 @@ export const summonWingedTwilight = {
   morphIndex: 0,
   rank: 20,
   skillLineId: "sorcerer-daedric-summoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "sorcerer-daedric-summoning",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const landslide = {
   morphIndex: 0,
   rank: 14,
   skillLineId: "dragonknight-earthen-heart",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "dragonknight-earthen-heart",
 } as const satisfies TemperSkill

@@ -17,7 +17,7 @@ export const seeTheUnseen = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "guild-psijic-order",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "guild-psijic-order",
   status: "unsupported",
   effects: "jsonl",

@@ -11,6 +11,6 @@ export const zerithVarZerithVarThirdMoonsChosen = {
   companionId: "zerith-var",
   abilityId: 214162,
   skillLineId: "companion-zerith-var",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

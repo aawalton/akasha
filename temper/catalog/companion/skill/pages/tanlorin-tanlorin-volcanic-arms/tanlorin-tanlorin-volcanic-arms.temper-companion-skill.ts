@@ -12,7 +12,7 @@ export const tanlorinTanlorinVolcanicArms = {
   companionId: "tanlorin",
   abilityId: 214703,
   skillLineId: "companion-tanlorin-radiating-heart",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps", "support"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

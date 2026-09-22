@@ -12,7 +12,7 @@ export const isobelIsobelHolyGround = {
   companionId: "isobel",
   abilityId: 163660,
   skillLineId: "companion-isobel-healing-grace",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

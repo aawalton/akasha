@@ -17,6 +17,6 @@ export const rebate31398 = {
   morphIndex: 0,
   rank: 8,
   skillLineId: "sorcerer-daedric-summoning",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "sorcerer-daedric-summoning",
 } as const satisfies TemperSkill

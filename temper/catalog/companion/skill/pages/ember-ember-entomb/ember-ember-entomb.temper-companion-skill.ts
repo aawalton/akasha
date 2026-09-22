@@ -12,7 +12,7 @@ export const emberEmberEntomb = {
   companionId: "ember",
   abilityId: 165871,
   skillLineId: "companion-ember-mischievous-caster",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

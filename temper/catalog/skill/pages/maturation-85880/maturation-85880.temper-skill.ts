@@ -17,6 +17,6 @@ export const maturation85880 = {
   morphIndex: 0,
   rank: 39,
   skillLineId: "warden-green-balance",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "warden-green-balance",
 } as const satisfies TemperSkill

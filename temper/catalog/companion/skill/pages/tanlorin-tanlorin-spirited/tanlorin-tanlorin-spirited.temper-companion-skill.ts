@@ -11,6 +11,6 @@ export const tanlorinTanlorinSpirited = {
   companionId: "tanlorin",
   abilityId: 214685,
   skillLineId: "companion-tanlorin",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

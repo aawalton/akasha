@@ -16,7 +16,7 @@ export const persuasiveWill = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "guild-mages-guild",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "guild-mages-guild",
   status: "unsupported",
   effects: "jsonl",

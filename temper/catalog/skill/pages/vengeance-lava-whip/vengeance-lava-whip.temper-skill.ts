@@ -16,6 +16,6 @@ export const vengeanceLavaWhip = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-dragonknight-ardent-flame",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-dragonknight-ardent-flame",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const silverShards = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "guild-fighters-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-fighters-guild",
 } as const satisfies TemperSkill

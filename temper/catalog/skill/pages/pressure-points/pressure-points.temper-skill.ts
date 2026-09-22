@@ -17,7 +17,7 @@ export const pressurePoints = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "nightblade-assassination",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "nightblade-assassination",
   status: "supported",
   effects: "jsonl",

@@ -17,6 +17,6 @@ export const summonVolatileFamiliar23316 = {
   morphIndex: 2,
   rank: 1,
   skillLineId: "sorcerer-daedric-summoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "sorcerer-daedric-summoning",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const mysticOrb42028 = {
   morphIndex: 1,
   rank: 5,
   skillLineId: "guild-undaunted",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-undaunted",
 } as const satisfies TemperSkill

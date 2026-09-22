@@ -17,6 +17,6 @@ export const impulse = {
   morphIndex: 0,
   rank: 38,
   skillLineId: "weapon-destruction-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-destruction-staff",
 } as const satisfies TemperSkill

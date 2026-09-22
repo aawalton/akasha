@@ -17,7 +17,7 @@ export const nearDeathExperience = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "necromancer-living-death",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "necromancer-living-death",
   status: "unsupported",
   effects: "jsonl",

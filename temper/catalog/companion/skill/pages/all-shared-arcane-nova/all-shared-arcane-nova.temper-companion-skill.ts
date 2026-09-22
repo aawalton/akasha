@@ -12,7 +12,7 @@ export const allSharedArcaneNova = {
   companionId: "all",
   abilityId: 157230,
   skillLineId: "weapon-destruction-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   tags: ["elemental-variant"],
   skillEffects: "jsonl",

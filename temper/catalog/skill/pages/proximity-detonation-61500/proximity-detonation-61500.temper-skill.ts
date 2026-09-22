@@ -17,6 +17,6 @@ export const proximityDetonation61500 = {
   morphIndex: 2,
   rank: 7,
   skillLineId: "alliance-war-assault",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

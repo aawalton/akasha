@@ -16,6 +16,6 @@ export const efficientPurge = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "alliance-war-support",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "alliance-war-support",
 } as const satisfies TemperSkill

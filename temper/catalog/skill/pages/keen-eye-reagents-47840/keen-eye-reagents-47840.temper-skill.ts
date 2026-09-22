@@ -17,6 +17,6 @@ export const keenEyeReagents47840 = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "craft-alchemy",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "craft-alchemy",
 } as const satisfies TemperSkill

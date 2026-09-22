@@ -17,6 +17,6 @@ export const disintegratingDragonfire = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "dragonknight-draconic-power",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "dragonknight-draconic-power",
 } as const satisfies TemperSkill

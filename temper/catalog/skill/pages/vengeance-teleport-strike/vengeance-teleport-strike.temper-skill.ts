@@ -17,6 +17,6 @@ export const vengeanceTeleportStrike = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-nightblade-assassination",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-nightblade-assassination",
 } as const satisfies TemperSkill

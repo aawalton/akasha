@@ -17,6 +17,6 @@ export const focusedAim38687 = {
   morphIndex: 2,
   rank: 2,
   skillLineId: "weapon-bow",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-bow",
 } as const satisfies TemperSkill

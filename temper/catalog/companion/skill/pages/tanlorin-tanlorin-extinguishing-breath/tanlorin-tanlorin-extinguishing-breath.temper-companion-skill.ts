@@ -12,7 +12,7 @@ export const tanlorinTanlorinExtinguishingBreath = {
   companionId: "tanlorin",
   abilityId: 215042,
   skillLineId: "companion-tanlorin-draconic-armor",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps", "tank"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

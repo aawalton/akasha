@@ -17,6 +17,6 @@ export const bullNetch86058 = {
   morphIndex: 2,
   rank: 30,
   skillLineId: "warden-animal-companions",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "warden-animal-companions",
 } as const satisfies TemperSkill

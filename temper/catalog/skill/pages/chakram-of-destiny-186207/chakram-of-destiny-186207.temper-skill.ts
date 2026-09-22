@@ -17,6 +17,6 @@ export const chakramOfDestiny186207 = {
   morphIndex: 1,
   rank: 20,
   skillLineId: "arcanist-curative-runeforms",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-curative-runeforms",
 } as const satisfies TemperSkill

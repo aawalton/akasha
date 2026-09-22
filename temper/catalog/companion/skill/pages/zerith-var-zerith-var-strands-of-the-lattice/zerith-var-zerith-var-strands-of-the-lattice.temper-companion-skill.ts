@@ -12,7 +12,7 @@ export const zerithVarZerithVarStrandsOfTheLattice = {
   companionId: "zerith-var",
   abilityId: 216057,
   skillLineId: "companion-zerith-var-warriors-banishment",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

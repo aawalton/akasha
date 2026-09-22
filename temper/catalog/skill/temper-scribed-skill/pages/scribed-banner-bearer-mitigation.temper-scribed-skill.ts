@@ -16,7 +16,7 @@ export const scribedBannerBearerMitigation = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "alliance-war-support",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "mitigation",
   grimoireId: "banner-bearer",

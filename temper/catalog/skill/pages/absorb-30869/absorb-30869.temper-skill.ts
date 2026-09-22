@@ -17,6 +17,6 @@ export const absorb30869 = {
   morphIndex: 0,
   rank: 28,
   skillLineId: "weapon-restoration-staff",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-restoration-staff",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const corrosiveArmor17878 = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "dragonknight-earthen-heart",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "dragonknight-earthen-heart",
 } as const satisfies TemperSkill

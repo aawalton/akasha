@@ -17,6 +17,6 @@ export const mistForm = {
   morphIndex: 0,
   rank: 9,
   skillLineId: "world-vampire",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "world-vampire",
 } as const satisfies TemperSkill

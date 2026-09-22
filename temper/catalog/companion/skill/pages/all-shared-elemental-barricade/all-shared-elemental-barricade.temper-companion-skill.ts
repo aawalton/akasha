@@ -12,7 +12,7 @@ export const allSharedElementalBarricade = {
   companionId: "all",
   abilityId: 157140,
   skillLineId: "weapon-destruction-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   tags: ["ground-aoe"],
   skillEffects: "jsonl",

@@ -12,7 +12,7 @@ export const emberEmberQuickFix = {
   companionId: "ember",
   abilityId: 166018,
   skillLineId: "companion-ember-playful-schemer",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

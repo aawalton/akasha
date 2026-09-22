@@ -17,7 +17,7 @@ export const defensiveStance = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "weapon-one-hand-and-shield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-one-hand-and-shield",
   effects: "jsonl",
 } as const satisfies TemperSkill

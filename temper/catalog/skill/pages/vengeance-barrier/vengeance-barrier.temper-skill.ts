@@ -17,6 +17,6 @@ export const vengeanceBarrier = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-alliance-war-support",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-alliance-war-support",
 } as const satisfies TemperSkill

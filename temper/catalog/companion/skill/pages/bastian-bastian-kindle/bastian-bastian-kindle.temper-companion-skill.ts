@@ -12,7 +12,7 @@ export const bastianBastianKindle = {
   companionId: "bastian",
   abilityId: 154925,
   skillLineId: "companion-bastian-radiating-heart",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

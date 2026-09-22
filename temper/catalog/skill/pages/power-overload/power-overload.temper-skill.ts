@@ -17,6 +17,6 @@ export const powerOverload = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "sorcerer-storm-calling",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "sorcerer-storm-calling",
 } as const satisfies TemperSkill

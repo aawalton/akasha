@@ -17,7 +17,7 @@ export const illuminate = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "templar-dawns-wrath",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "templar-dawns-wrath",
   status: "unsupported",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const luminousShards26858 = {
   morphIndex: 1,
   rank: 30,
   skillLineId: "templar-aedric-spear",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "templar-aedric-spear",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const fireKeeper = {
   morphIndex: 1,
   rank: 30,
   skillLineId: "dragonknight-ardent-flame",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "dragonknight-ardent-flame",
 } as const satisfies TemperSkill

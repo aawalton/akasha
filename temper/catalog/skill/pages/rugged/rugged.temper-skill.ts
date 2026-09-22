@@ -16,7 +16,7 @@ export const rugged = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "racial-nord-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-nord-skills",
   status: "supported",
   effects: "jsonl",

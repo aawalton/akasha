@@ -17,6 +17,6 @@ export const crescentSweep22139 = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "templar-aedric-spear",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "templar-aedric-spear",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const bloodOfTheElderDragon = {
   morphIndex: 2,
   rank: 20,
   skillLineId: "dragonknight-draconic-power",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "dragonknight-draconic-power",
 } as const satisfies TemperSkill

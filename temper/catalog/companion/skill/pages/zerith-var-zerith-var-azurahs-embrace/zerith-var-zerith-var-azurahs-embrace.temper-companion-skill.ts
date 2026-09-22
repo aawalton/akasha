@@ -12,7 +12,7 @@ export const zerithVarZerithVarAzurahsEmbrace = {
   companionId: "zerith-var",
   abilityId: 213162,
   skillLineId: "companion-zerith-var-remedy-of-atonement",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

@@ -17,6 +17,6 @@ export const ruinousScythe118226 = {
   morphIndex: 1,
   rank: 1,
   skillLineId: "necromancer-bone-tyrant",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "necromancer-bone-tyrant",
 } as const satisfies TemperSkill

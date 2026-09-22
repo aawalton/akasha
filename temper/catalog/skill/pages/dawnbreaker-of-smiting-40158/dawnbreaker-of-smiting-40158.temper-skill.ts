@@ -17,6 +17,6 @@ export const dawnbreakerOfSmiting40158 = {
   morphIndex: 2,
   rank: 10,
   skillLineId: "guild-fighters-guild",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "guild-fighters-guild",
 } as const satisfies TemperSkill

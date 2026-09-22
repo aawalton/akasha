@@ -17,6 +17,6 @@ export const heavyShovel139906 = {
   morphIndex: 0,
   rank: 4,
   skillLineId: "world-excavation",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-excavation",
 } as const satisfies TemperSkill

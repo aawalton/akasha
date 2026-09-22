@@ -17,6 +17,6 @@ export const everlastingSweep = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "templar-aedric-spear",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "templar-aedric-spear",
 } as const satisfies TemperSkill

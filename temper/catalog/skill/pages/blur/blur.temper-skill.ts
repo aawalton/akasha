@@ -17,6 +17,6 @@ export const blur = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "nightblade-shadow",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-shadow",
 } as const satisfies TemperSkill

@@ -17,7 +17,7 @@ export const spellWarding = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "armor-light-armor",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "armor-light-armor",
   status: "supported",
   effects: "jsonl",

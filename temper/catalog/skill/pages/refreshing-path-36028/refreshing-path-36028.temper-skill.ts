@@ -17,6 +17,6 @@ export const refreshingPath36028 = {
   morphIndex: 2,
   rank: 20,
   skillLineId: "nightblade-shadow",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-shadow",
 } as const satisfies TemperSkill

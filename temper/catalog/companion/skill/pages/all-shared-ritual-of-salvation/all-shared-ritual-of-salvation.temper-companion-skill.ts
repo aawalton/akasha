@@ -12,7 +12,7 @@ export const allSharedRitualOfSalvation = {
   companionId: "all",
   abilityId: 154926,
   skillLineId: "guild-fighters",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank", "support"],
   tags: ["ground-effect"],
   skillEffects: "jsonl",

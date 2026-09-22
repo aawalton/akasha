@@ -16,6 +16,6 @@ export const vengeanceArcticWind = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-warden-winters-embrace",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-warden-winters-embrace",
 } as const satisfies TemperSkill

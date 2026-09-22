@@ -16,7 +16,7 @@ export const restorationMaster = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "weapon-restoration-staff",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-restoration-staff",
   status: "supported",
   effects: "jsonl",

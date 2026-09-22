@@ -12,7 +12,7 @@ export const allSharedSpinningSteel = {
   companionId: "all",
   abilityId: 152693,
   skillLineId: "weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   tags: ["execute-3x-below-25pct"],
   skillEffects: "jsonl",

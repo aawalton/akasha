@@ -16,7 +16,7 @@ export const scribedElementalExplosionFlameDamage = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "weapon-destruction-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "flame-damage",
   grimoireId: "elemental-explosion",

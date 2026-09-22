@@ -17,6 +17,6 @@ export const leechingVines85850 = {
   morphIndex: 1,
   rank: 20,
   skillLineId: "warden-green-balance",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "warden-green-balance",
 } as const satisfies TemperSkill

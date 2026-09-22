@@ -12,7 +12,7 @@ export const mirriMirriLifeSiphon = {
   companionId: "mirri",
   abilityId: 157207,
   skillLineId: "companion-mirri-soul-thief",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps", "healer", "tank"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

@@ -17,6 +17,6 @@ export const topplingCharge15540 = {
   morphIndex: 2,
   rank: 20,
   skillLineId: "templar-aedric-spear",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "templar-aedric-spear",
 } as const satisfies TemperSkill

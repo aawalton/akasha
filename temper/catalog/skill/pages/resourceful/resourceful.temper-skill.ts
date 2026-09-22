@@ -17,7 +17,7 @@ export const resourceful = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "racial-argonian-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-argonian-skills",
   status: "partially-supported",
   effects: "jsonl",

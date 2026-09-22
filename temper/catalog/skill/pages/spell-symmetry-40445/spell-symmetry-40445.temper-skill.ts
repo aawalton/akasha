@@ -17,6 +17,6 @@ export const spellSymmetry40445 = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "guild-mages-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-mages-guild",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const glacialPresence86191 = {
   morphIndex: 0,
   rank: 8,
   skillLineId: "warden-winters-embrace",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "warden-winters-embrace",
 } as const satisfies TemperSkill

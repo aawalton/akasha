@@ -17,6 +17,6 @@ export const bolsteringDarkness = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "nightblade-shadow",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "nightblade-shadow",
 } as const satisfies TemperSkill

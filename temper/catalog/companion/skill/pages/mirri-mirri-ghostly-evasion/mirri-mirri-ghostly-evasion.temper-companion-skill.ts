@@ -12,7 +12,7 @@ export const mirriMirriGhostlyEvasion = {
   companionId: "mirri",
   abilityId: 157197,
   skillLineId: "companion-mirri-living-shade",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

@@ -17,6 +17,6 @@ export const venomSkull117624 = {
   morphIndex: 1,
   rank: 1,
   skillLineId: "necromancer-grave-lord",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "necromancer-grave-lord",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const shrewdOffering34721 = {
   morphIndex: 1,
   rank: 4,
   skillLineId: "nightblade-siphoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill

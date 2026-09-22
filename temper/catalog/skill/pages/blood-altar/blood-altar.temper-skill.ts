@@ -17,6 +17,6 @@ export const bloodAltar = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "guild-undaunted",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-undaunted",
 } as const satisfies TemperSkill

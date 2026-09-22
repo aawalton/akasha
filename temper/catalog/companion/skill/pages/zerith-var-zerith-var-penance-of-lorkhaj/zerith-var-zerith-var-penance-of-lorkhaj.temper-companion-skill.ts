@@ -12,7 +12,7 @@ export const zerithVarZerithVarPenanceOfLorkhaj = {
   companionId: "zerith-var",
   abilityId: 213160,
   skillLineId: "companion-zerith-var-remedy-of-atonement",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

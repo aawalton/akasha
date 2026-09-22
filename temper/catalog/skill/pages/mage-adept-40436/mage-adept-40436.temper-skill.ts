@@ -17,6 +17,6 @@ export const mageAdept40436 = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "guild-mages-guild",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "guild-mages-guild",
 } as const satisfies TemperSkill

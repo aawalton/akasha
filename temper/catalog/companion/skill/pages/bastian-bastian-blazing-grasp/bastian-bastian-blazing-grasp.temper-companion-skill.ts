@@ -12,7 +12,7 @@ export const bastianBastianBlazingGrasp = {
   companionId: "bastian",
   abilityId: 153839,
   skillLineId: "companion-bastian-draconic-armor",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

@@ -16,6 +16,6 @@ export const medicinalUse = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "craft-alchemy",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "craft-alchemy",
 } as const satisfies TemperSkill

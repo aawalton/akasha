@@ -12,7 +12,7 @@ export const isobelIsobelSunBrand = {
   companionId: "isobel",
   abilityId: 163452,
   skillLineId: "companion-isobel-blazing-might",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

@@ -17,7 +17,7 @@ export const scribedTravelingKnifeMagicDamage = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "magic-damage",
   grimoireId: "traveling-knife",

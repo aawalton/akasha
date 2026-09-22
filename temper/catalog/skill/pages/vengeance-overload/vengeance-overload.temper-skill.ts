@@ -17,6 +17,6 @@ export const vengeanceOverload = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-sorcerer-storm-calling",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-sorcerer-storm-calling",
 } as const satisfies TemperSkill

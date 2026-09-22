@@ -17,6 +17,6 @@ export const savageStrength32638 = {
   morphIndex: 0,
   rank: 6,
   skillLineId: "world-werewolf",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-werewolf",
 } as const satisfies TemperSkill

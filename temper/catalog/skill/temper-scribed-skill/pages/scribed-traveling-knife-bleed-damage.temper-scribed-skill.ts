@@ -17,7 +17,7 @@ export const scribedTravelingKnifeBleedDamage = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "bleed-damage",
   grimoireId: "traveling-knife",

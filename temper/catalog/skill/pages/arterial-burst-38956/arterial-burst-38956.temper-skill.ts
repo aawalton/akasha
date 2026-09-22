@@ -17,6 +17,6 @@ export const arterialBurst38956 = {
   morphIndex: 2,
   rank: 1,
   skillLineId: "world-vampire",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "world-vampire",
 } as const satisfies TemperSkill

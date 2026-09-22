@@ -17,6 +17,6 @@ export const vengeanceCriticalCharge = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-weapon-two-handed",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-weapon-two-handed",
 } as const satisfies TemperSkill

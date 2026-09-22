@@ -17,6 +17,6 @@ export const bladeCloak = {
   morphIndex: 0,
   rank: 20,
   skillLineId: "weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-dual-wield",
 } as const satisfies TemperSkill

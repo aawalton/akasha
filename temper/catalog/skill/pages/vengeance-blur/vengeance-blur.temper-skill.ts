@@ -17,6 +17,6 @@ export const vengeanceBlur = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-nightblade-shadow",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-nightblade-shadow",
 } as const satisfies TemperSkill

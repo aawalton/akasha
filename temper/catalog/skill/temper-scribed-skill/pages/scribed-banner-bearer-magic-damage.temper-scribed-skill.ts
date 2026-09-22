@@ -16,7 +16,7 @@ export const scribedBannerBearerMagicDamage = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "alliance-war-support",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "magic-damage",
   grimoireId: "banner-bearer",

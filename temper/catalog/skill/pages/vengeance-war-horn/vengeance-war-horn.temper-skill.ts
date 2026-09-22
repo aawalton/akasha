@@ -17,6 +17,6 @@ export const vengeanceWarHorn = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-alliance-war-assault",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-alliance-war-assault",
 } as const satisfies TemperSkill

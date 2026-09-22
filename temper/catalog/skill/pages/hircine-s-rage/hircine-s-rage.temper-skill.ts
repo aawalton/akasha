@@ -17,6 +17,6 @@ export const hircineSRage = {
   morphIndex: 1,
   rank: 4,
   skillLineId: "world-werewolf",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "world-werewolf",
 } as const satisfies TemperSkill

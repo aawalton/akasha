@@ -16,6 +16,6 @@ export const lapidaryResearch103640 = {
   morphIndex: 0,
   rank: 8,
   skillLineId: "craft-jewelry-crafting",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "craft-jewelry-crafting",
 } as const satisfies TemperSkill

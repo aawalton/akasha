@@ -17,6 +17,6 @@ export const entropy = {
   morphIndex: 0,
   rank: 4,
   skillLineId: "guild-mages-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-mages-guild",
 } as const satisfies TemperSkill

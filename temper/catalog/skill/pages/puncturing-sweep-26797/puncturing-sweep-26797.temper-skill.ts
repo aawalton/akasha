@@ -17,6 +17,6 @@ export const puncturingSweep26797 = {
   morphIndex: 2,
   rank: 1,
   skillLineId: "templar-aedric-spear",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "templar-aedric-spear",
 } as const satisfies TemperSkill

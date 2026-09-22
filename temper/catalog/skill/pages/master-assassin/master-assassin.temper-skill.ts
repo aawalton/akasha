@@ -17,7 +17,7 @@ export const masterAssassin = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "nightblade-assassination",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "nightblade-assassination",
   effects: "jsonl",
 } as const satisfies TemperSkill

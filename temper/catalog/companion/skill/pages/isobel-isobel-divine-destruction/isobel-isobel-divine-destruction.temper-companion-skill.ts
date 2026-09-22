@@ -12,7 +12,7 @@ export const isobelIsobelDivineDestruction = {
   companionId: "isobel",
   abilityId: 163564,
   skillLineId: "companion-isobel-blazing-might",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

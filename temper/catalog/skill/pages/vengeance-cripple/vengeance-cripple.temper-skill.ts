@@ -17,6 +17,6 @@ export const vengeanceCripple = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-nightblade-siphoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-nightblade-siphoning",
 } as const satisfies TemperSkill

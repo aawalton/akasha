@@ -17,6 +17,6 @@ export const panacea = {
   morphIndex: 0,
   rank: 50,
   skillLineId: "weapon-restoration-staff",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "weapon-restoration-staff",
 } as const satisfies TemperSkill

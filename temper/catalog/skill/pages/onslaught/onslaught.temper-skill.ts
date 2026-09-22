@@ -17,6 +17,6 @@ export const onslaught = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "weapon-two-handed",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "weapon-two-handed",
 } as const satisfies TemperSkill

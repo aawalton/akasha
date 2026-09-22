@@ -17,6 +17,6 @@ export const greaterStormAtronach23492 = {
   morphIndex: 1,
   rank: 12,
   skillLineId: "sorcerer-daedric-summoning",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "sorcerer-daedric-summoning",
 } as const satisfies TemperSkill

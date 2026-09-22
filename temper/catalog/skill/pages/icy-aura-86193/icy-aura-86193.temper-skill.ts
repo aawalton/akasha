@@ -17,6 +17,6 @@ export const icyAura86193 = {
   morphIndex: 0,
   rank: 22,
   skillLineId: "warden-winters-embrace",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "warden-winters-embrace",
 } as const satisfies TemperSkill

@@ -12,7 +12,7 @@ export const bastianBastianFieryFlail = {
   companionId: "bastian",
   abilityId: 153687,
   skillLineId: "companion-bastian-ardent-warrior",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

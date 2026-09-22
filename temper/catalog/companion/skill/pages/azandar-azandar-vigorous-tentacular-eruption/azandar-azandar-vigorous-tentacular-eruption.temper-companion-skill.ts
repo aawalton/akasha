@@ -12,7 +12,7 @@ export const azandarAzandarVigorousTentacularEruption = {
   companionId: "azandar",
   abilityId: 195103,
   skillLineId: "companion-azandar",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   validRoles: ["dps", "support"],
   tags: ["knockup"],
   skillEffects: "jsonl",

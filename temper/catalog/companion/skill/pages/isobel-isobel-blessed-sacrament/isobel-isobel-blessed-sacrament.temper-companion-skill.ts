@@ -12,7 +12,7 @@ export const isobelIsobelBlessedSacrament = {
   companionId: "isobel",
   abilityId: 163614,
   skillLineId: "companion-isobel-healing-grace",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

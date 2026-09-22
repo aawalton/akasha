@@ -17,6 +17,6 @@ export const bitterHarvest = {
   morphIndex: 0,
   rank: 20,
   skillLineId: "necromancer-bone-tyrant",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "necromancer-bone-tyrant",
 } as const satisfies TemperSkill

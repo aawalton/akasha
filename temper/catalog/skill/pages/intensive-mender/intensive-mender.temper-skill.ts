@@ -17,6 +17,6 @@ export const intensiveMender = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "necromancer-living-death",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "necromancer-living-death",
 } as const satisfies TemperSkill

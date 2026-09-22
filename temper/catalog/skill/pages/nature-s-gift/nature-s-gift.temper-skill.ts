@@ -17,6 +17,6 @@ export const natureSGift = {
   morphIndex: 0,
   rank: 14,
   skillLineId: "warden-green-balance",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "warden-green-balance",
 } as const satisfies TemperSkill

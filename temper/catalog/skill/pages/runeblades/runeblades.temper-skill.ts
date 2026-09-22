@@ -17,6 +17,6 @@ export const runeblades = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "arcanist-herald-of-the-tome",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-herald-of-the-tome",
 } as const satisfies TemperSkill

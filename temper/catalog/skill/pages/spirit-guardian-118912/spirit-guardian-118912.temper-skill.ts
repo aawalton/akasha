@@ -17,6 +17,6 @@ export const spiritGuardian118912 = {
   morphIndex: 1,
   rank: 30,
   skillLineId: "necromancer-living-death",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "necromancer-living-death",
 } as const satisfies TemperSkill

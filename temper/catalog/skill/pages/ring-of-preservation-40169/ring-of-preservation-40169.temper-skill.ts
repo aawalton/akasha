@@ -17,6 +17,6 @@ export const ringOfPreservation40169 = {
   morphIndex: 2,
   rank: 4,
   skillLineId: "guild-fighters-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-fighters-guild",
 } as const satisfies TemperSkill

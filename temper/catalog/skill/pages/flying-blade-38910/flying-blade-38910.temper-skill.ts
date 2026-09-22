@@ -17,6 +17,6 @@ export const flyingBlade38910 = {
   morphIndex: 2,
   rank: 38,
   skillLineId: "weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-dual-wield",
 } as const satisfies TemperSkill

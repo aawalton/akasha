@@ -17,6 +17,6 @@ export const flawlessDawnbreaker = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "guild-fighters-guild",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "guild-fighters-guild",
 } as const satisfies TemperSkill

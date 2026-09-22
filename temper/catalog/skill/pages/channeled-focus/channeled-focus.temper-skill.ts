@@ -17,6 +17,6 @@ export const channeledFocus = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "templar-restoring-light",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "templar-restoring-light",
 } as const satisfies TemperSkill

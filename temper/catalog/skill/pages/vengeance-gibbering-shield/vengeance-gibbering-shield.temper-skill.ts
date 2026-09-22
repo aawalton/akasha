@@ -17,6 +17,6 @@ export const vengeanceGibberingShield = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-arcanist-soldier-of-apocrypha",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-arcanist-soldier-of-apocrypha",
 } as const satisfies TemperSkill

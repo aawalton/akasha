@@ -17,6 +17,6 @@ export const retreatingManeuver40211 = {
   morphIndex: 1,
   rank: 5,
   skillLineId: "alliance-war-assault",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const lifeMender36585 = {
   morphIndex: 0,
   rank: 5,
   skillLineId: "racial-argonian-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-argonian-skills",
 } as const satisfies TemperSkill

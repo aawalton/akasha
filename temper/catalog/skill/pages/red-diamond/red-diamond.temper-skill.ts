@@ -16,7 +16,7 @@ export const redDiamond = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "racial-imperial-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-imperial-skills",
   status: "supported",
   effects: "jsonl",

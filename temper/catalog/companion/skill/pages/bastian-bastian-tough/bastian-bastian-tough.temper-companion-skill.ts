@@ -11,7 +11,7 @@ export const bastianBastianTough = {
   companionId: "bastian",
   abilityId: 157245,
   skillLineId: "companion-bastian",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   validRoles: ["dps", "tank"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

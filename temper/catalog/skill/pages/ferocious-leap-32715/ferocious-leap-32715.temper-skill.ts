@@ -17,6 +17,6 @@ export const ferociousLeap32715 = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "dragonknight-draconic-power",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "dragonknight-draconic-power",
 } as const satisfies TemperSkill

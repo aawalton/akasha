@@ -17,6 +17,6 @@ export const vibrantShroud28311 = {
   morphIndex: 2,
   rank: 4,
   skillLineId: "sorcerer-dark-magic",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "sorcerer-dark-magic",
 } as const satisfies TemperSkill

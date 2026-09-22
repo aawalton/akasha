@@ -12,6 +12,6 @@ export const allSharedHaste = {
   companionId: "all",
   abilityId: 156340,
   skillLineId: "armor-light",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

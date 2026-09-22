@@ -12,7 +12,7 @@ export const allSharedBitingTrap = {
   companionId: "all",
   abilityId: 157747,
   skillLineId: "guild-fighters",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   tags: ["trap", "arm-time-1.5s", "trap-duration-6.5s", "target-self"],
   skillEffects: "jsonl",

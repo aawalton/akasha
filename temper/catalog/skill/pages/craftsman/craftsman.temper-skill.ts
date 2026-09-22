@@ -17,7 +17,7 @@ export const craftsman = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "racial-orc-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-orc-skills",
   status: "unsupported",
 } as const satisfies TemperSkill

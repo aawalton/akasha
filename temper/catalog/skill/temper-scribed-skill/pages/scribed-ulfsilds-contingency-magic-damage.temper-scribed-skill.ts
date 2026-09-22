@@ -17,7 +17,7 @@ export const scribedUlfsildsContingencyMagicDamage = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "guild-mages-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "magic-damage",
   grimoireId: "ulfsilds-contingency",

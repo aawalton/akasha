@@ -17,7 +17,7 @@ export const bloodRitual = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "world-vampire",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-vampire",
   status: "unsupported",
   effects: "jsonl",

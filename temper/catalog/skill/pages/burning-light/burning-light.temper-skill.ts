@@ -17,7 +17,7 @@ export const burningLight = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "templar-aedric-spear",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "templar-aedric-spear",
   status: "unsupported",
 } as const satisfies TemperSkill

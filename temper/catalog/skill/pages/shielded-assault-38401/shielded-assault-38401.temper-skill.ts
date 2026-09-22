@@ -17,6 +17,6 @@ export const shieldedAssault38401 = {
   morphIndex: 1,
   rank: 20,
   skillLineId: "weapon-one-hand-and-shield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-one-hand-and-shield",
 } as const satisfies TemperSkill

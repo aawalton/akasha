@@ -17,7 +17,7 @@ export const scribedTorchbearerFlameDamage = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "guild-fighters-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "flame-damage",
   grimoireId: "torchbearer",

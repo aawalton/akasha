@@ -17,6 +17,6 @@ export const bloodRage32637 = {
   morphIndex: 0,
   rank: 4,
   skillLineId: "world-werewolf",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-werewolf",
 } as const satisfies TemperSkill

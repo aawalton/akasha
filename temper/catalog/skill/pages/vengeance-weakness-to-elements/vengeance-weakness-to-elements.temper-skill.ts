@@ -17,6 +17,6 @@ export const vengeanceWeaknessToElements = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-weapon-destruction-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-weapon-destruction-staff",
 } as const satisfies TemperSkill

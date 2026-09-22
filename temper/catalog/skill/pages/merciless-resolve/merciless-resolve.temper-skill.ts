@@ -17,7 +17,7 @@ export const mercilessResolve = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "nightblade-assassination",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-assassination",
   effects: "jsonl",
 } as const satisfies TemperSkill

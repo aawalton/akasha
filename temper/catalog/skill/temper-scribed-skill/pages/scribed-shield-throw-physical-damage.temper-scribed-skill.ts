@@ -16,7 +16,7 @@ export const scribedShieldThrowPhysicalDamage = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "weapon-one-hand-and-shield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "physical-damage",
   grimoireId: "shield-throw",

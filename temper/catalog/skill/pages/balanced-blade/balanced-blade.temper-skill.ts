@@ -16,7 +16,7 @@ export const balancedBlade = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "weapon-two-handed",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-two-handed",
   status: "unsupported",
   effects: "jsonl",

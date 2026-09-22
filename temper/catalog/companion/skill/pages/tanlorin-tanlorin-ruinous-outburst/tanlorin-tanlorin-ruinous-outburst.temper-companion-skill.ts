@@ -12,7 +12,7 @@ export const tanlorinTanlorinRuinousOutburst = {
   companionId: "tanlorin",
   abilityId: 215215,
   skillLineId: "companion-tanlorin",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

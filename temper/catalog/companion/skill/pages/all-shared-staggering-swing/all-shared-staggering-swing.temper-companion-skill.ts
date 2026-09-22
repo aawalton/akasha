@@ -12,7 +12,7 @@ export const allSharedStaggeringSwing = {
   companionId: "all",
   abilityId: 152433,
   skillLineId: "weapon-two-handed",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   tags: ["knockback-4m"],
   skillEffects: "jsonl",

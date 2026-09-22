@@ -17,6 +17,6 @@ export const soulShred = {
   morphIndex: 0,
   rank: 12,
   skillLineId: "nightblade-siphoning",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill

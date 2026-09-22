@@ -17,6 +17,6 @@ export const vengeanceFireRune = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-guild-mages-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-guild-mages-guild",
 } as const satisfies TemperSkill

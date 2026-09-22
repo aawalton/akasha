@@ -12,7 +12,7 @@ export const azandarAzandarShieldsOfErudition = {
   companionId: "azandar",
   abilityId: 192937,
   skillLineId: "companion-azandar-revitalizing-researcher",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

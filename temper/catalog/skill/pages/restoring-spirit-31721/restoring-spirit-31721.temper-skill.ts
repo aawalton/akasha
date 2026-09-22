@@ -17,6 +17,6 @@ export const restoringSpirit31721 = {
   morphIndex: 0,
   rank: 39,
   skillLineId: "templar-dawns-wrath",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "templar-dawns-wrath",
 } as const satisfies TemperSkill

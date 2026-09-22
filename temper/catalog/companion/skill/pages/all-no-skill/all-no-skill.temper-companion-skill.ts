@@ -10,5 +10,5 @@ export const allNoSkill = {
   companionId: "all",
   abilityId: 0,
   skillLineId: "weapon-two-handed",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
 } as const satisfies TemperCompanionSkill

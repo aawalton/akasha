@@ -17,6 +17,6 @@ export const audaciousRunemend186191 = {
   morphIndex: 2,
   rank: 1,
   skillLineId: "arcanist-curative-runeforms",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-curative-runeforms",
 } as const satisfies TemperSkill

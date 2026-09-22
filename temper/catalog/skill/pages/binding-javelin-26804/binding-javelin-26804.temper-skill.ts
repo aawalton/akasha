@@ -17,6 +17,6 @@ export const bindingJavelin26804 = {
   morphIndex: 2,
   rank: 4,
   skillLineId: "templar-aedric-spear",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "templar-aedric-spear",
 } as const satisfies TemperSkill

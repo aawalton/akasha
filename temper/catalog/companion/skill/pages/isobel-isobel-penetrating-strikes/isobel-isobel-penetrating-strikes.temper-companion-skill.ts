@@ -12,7 +12,7 @@ export const isobelIsobelPenetratingStrikes = {
   companionId: "isobel",
   abilityId: 163458,
   skillLineId: "companion-isobel-blazing-might",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps", "support"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

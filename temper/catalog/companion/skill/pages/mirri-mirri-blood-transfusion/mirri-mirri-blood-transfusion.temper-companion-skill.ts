@@ -12,7 +12,7 @@ export const mirriMirriBloodTransfusion = {
   companionId: "mirri",
   abilityId: 157287,
   skillLineId: "companion-mirri-soul-thief",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

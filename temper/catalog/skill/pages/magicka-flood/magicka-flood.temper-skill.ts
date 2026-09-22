@@ -16,7 +16,7 @@ export const magickaFlood = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "nightblade-siphoning",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "nightblade-siphoning",
   status: "unsupported",
   effects: "jsonl",

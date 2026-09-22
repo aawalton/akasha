@@ -17,6 +17,6 @@ export const brutalPounce39105 = {
   morphIndex: 1,
   rank: 2,
   skillLineId: "world-werewolf",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "world-werewolf",
 } as const satisfies TemperSkill

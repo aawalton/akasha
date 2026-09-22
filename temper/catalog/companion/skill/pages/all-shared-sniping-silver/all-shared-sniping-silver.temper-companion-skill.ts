@@ -12,7 +12,7 @@ export const allSharedSnipingSilver = {
   companionId: "all",
   abilityId: 153686,
   skillLineId: "guild-fighters",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   tags: ["double-damage-vs-monsters"],
   skillEffects: "jsonl",

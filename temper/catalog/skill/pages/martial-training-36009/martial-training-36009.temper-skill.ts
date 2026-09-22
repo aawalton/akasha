@@ -17,6 +17,6 @@ export const martialTraining36009 = {
   morphIndex: 0,
   rank: 5,
   skillLineId: "racial-redguard-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-redguard-skills",
 } as const satisfies TemperSkill

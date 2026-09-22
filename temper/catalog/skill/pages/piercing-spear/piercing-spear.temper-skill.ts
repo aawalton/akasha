@@ -17,7 +17,7 @@ export const piercingSpear = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "templar-aedric-spear",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "templar-aedric-spear",
   status: "unsupported",
   effects: "jsonl",

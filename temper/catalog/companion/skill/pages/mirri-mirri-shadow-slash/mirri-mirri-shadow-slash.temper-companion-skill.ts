@@ -12,7 +12,7 @@ export const mirriMirriShadowSlash = {
   companionId: "mirri",
   abilityId: 156182,
   skillLineId: "companion-mirri-deadly-assassin",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

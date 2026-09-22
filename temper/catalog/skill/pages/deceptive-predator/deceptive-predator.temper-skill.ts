@@ -17,7 +17,7 @@ export const deceptivePredator = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "warden-animal-companions",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "warden-animal-companions",
   effects: "jsonl",
 } as const satisfies TemperSkill

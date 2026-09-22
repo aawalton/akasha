@@ -17,6 +17,6 @@ export const argonianResistance36583 = {
   morphIndex: 0,
   rank: 10,
   skillLineId: "racial-argonian-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-argonian-skills",
 } as const satisfies TemperSkill

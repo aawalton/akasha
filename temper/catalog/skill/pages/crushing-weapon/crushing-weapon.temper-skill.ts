@@ -17,6 +17,6 @@ export const crushingWeapon = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "guild-psijic-order",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-psijic-order",
 } as const satisfies TemperSkill

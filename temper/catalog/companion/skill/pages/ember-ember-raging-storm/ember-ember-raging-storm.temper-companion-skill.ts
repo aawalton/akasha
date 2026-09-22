@@ -12,7 +12,7 @@ export const emberEmberRagingStorm = {
   companionId: "ember",
   abilityId: 164191,
   skillLineId: "companion-ember",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

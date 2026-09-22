@@ -16,6 +16,6 @@ export const excavatorSReserves = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "world-excavation",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-excavation",
 } as const satisfies TemperSkill

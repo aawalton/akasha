@@ -17,7 +17,7 @@ export const expertSummoner = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "sorcerer-daedric-summoning",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "sorcerer-daedric-summoning",
   status: "partially-supported",
   effects: "jsonl",

@@ -17,6 +17,6 @@ export const raceAgainstTime103710 = {
   morphIndex: 2,
   rank: 5,
   skillLineId: "guild-psijic-order",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-psijic-order",
 } as const satisfies TemperSkill

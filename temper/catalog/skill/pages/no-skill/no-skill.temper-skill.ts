@@ -15,6 +15,6 @@ export const noSkill = {
   morphIndex: 0,
   rank: 0,
   skillLineId: "world-soul-magic",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "none",
 } as const satisfies TemperSkill

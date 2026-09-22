@@ -17,6 +17,6 @@ export const mendWounds = {
   morphIndex: 0,
   rank: 6,
   skillLineId: "guild-psijic-order",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-psijic-order",
 } as const satisfies TemperSkill

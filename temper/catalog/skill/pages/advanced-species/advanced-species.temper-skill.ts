@@ -17,7 +17,7 @@ export const advancedSpecies = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "warden-animal-companions",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "warden-animal-companions",
   status: "supported",
   effects: "jsonl",

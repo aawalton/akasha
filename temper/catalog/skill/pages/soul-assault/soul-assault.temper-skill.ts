@@ -17,6 +17,6 @@ export const soulAssault = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "world-soul-magic",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "world-soul-magic",
 } as const satisfies TemperSkill

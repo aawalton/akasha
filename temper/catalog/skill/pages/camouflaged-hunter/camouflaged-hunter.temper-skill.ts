@@ -17,7 +17,7 @@ export const camouflagedHunter = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "guild-fighters-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-fighters-guild",
   effects: "jsonl",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const vampireSBane = {
   morphIndex: 1,
   rank: 1,
   skillLineId: "templar-dawns-wrath",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "templar-dawns-wrath",
 } as const satisfies TemperSkill

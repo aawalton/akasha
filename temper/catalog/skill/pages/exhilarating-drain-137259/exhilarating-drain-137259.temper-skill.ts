@@ -17,6 +17,6 @@ export const exhilaratingDrain137259 = {
   morphIndex: 2,
   rank: 4,
   skillLineId: "world-vampire",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "world-vampire",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const enchantedGrowth = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "warden-green-balance",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "warden-green-balance",
 } as const satisfies TemperSkill

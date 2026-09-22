@@ -12,6 +12,6 @@ export const allSharedFlexibility = {
   companionId: "all",
   abilityId: 157729,
   skillLineId: "armor-medium",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

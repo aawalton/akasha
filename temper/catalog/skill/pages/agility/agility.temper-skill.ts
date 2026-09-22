@@ -17,7 +17,7 @@ export const agility = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "armor-medium-armor",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "armor-medium-armor",
   status: "supported",
   effects: "jsonl",

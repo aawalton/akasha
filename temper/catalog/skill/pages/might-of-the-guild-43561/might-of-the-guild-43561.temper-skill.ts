@@ -17,6 +17,6 @@ export const mightOfTheGuild43561 = {
   morphIndex: 0,
   rank: 9,
   skillLineId: "guild-mages-guild",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "guild-mages-guild",
 } as const satisfies TemperSkill

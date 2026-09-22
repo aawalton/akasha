@@ -17,6 +17,6 @@ export const swarmingScion = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "world-vampire",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "world-vampire",
 } as const satisfies TemperSkill

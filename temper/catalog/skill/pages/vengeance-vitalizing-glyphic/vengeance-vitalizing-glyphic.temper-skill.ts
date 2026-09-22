@@ -17,6 +17,6 @@ export const vengeanceVitalizingGlyphic = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-arcanist-curative-runeforms",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-arcanist-curative-runeforms",
 } as const satisfies TemperSkill

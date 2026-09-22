@@ -16,7 +16,7 @@ export const brawny = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "racial-orc-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-orc-skills",
   status: "supported",
   effects: "jsonl",

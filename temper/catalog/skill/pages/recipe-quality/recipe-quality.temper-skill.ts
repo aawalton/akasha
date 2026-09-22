@@ -16,6 +16,6 @@ export const recipeQuality = {
   morphIndex: 0,
   rank: 4,
   skillLineId: "craft-provisioning",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "craft-provisioning",
 } as const satisfies TemperSkill

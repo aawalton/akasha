@@ -17,6 +17,6 @@ export const spellAttunement36266 = {
   morphIndex: 0,
   rank: 10,
   skillLineId: "racial-breton-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-breton-skills",
 } as const satisfies TemperSkill

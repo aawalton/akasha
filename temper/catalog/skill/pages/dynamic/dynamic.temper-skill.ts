@@ -16,7 +16,7 @@ export const dynamic = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "racial-dark-elf-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-dark-elf-skills",
   status: "supported",
   effects: "jsonl",

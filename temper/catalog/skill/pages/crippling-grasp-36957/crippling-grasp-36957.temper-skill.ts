@@ -17,6 +17,6 @@ export const cripplingGrasp36957 = {
   morphIndex: 2,
   rank: 20,
   skillLineId: "nightblade-siphoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill

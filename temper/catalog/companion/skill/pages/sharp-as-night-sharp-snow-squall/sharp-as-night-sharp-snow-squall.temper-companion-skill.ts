@@ -12,7 +12,7 @@ export const sharpAsNightSharpSnowSquall = {
   companionId: "sharp-as-night",
   abilityId: 186605,
   skillLineId: "companion-sharp-as-night-winters-bite",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",
   castConditions: "jsonl",

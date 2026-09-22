@@ -17,6 +17,6 @@ export const moltenWhip20805 = {
   morphIndex: 1,
   rank: 1,
   skillLineId: "dragonknight-ardent-flame",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "dragonknight-ardent-flame",
 } as const satisfies TemperSkill

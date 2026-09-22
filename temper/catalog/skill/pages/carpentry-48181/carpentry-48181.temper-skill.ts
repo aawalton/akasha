@@ -16,6 +16,6 @@ export const carpentry48181 = {
   morphIndex: 0,
   rank: 8,
   skillLineId: "craft-woodworking",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "craft-woodworking",
 } as const satisfies TemperSkill

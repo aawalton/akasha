@@ -12,7 +12,7 @@ export const sharpAsNightSharpColdSnap = {
   companionId: "sharp-as-night",
   abilityId: 186604,
   skillLineId: "companion-sharp-as-night-winters-bite",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

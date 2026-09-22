@@ -12,7 +12,7 @@ export const mirriMirriImpeccableShot = {
   companionId: "mirri",
   abilityId: 157259,
   skillLineId: "companion-mirri",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   validRoles: ["dps", "support"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

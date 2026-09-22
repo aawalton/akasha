@@ -17,6 +17,6 @@ export const buddingSeeds85840 = {
   morphIndex: 1,
   rank: 4,
   skillLineId: "warden-green-balance",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "warden-green-balance",
 } as const satisfies TemperSkill

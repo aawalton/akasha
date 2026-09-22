@@ -17,6 +17,6 @@ export const chainsOfFlame = {
   morphIndex: 0,
   rank: 42,
   skillLineId: "dragonknight-draconic-power",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "dragonknight-draconic-power",
 } as const satisfies TemperSkill

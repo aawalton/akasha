@@ -17,6 +17,6 @@ export const thriveInChaos85179 = {
   morphIndex: 2,
   rank: 50,
   skillLineId: "weapon-dual-wield",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "weapon-dual-wield",
 } as const satisfies TemperSkill

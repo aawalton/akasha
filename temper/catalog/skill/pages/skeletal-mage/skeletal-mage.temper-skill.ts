@@ -17,6 +17,6 @@ export const skeletalMage = {
   morphIndex: 0,
   rank: 30,
   skillLineId: "necromancer-grave-lord",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "necromancer-grave-lord",
 } as const satisfies TemperSkill

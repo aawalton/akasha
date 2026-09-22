@@ -17,7 +17,7 @@ export const cutpurse = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "racial-khajiit-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-khajiit-skills",
   status: "unsupported",
 } as const satisfies TemperSkill

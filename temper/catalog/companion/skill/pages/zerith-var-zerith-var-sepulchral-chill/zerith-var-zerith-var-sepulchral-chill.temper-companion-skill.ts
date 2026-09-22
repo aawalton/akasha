@@ -12,7 +12,7 @@ export const zerithVarZerithVarSepulchralChill = {
   companionId: "zerith-var",
   abilityId: 213158,
   skillLineId: "companion-zerith-var-warriors-banishment",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps", "support"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

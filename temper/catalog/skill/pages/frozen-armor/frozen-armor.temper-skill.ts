@@ -17,7 +17,7 @@ export const frozenArmor = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "warden-winters-embrace",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "warden-winters-embrace",
   status: "supported",
   effects: "jsonl",

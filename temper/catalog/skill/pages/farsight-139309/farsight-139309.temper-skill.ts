@@ -17,6 +17,6 @@ export const farsight139309 = {
   morphIndex: 0,
   rank: 6,
   skillLineId: "world-scrying",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-scrying",
 } as const satisfies TemperSkill

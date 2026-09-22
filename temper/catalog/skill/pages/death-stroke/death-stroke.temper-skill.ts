@@ -17,6 +17,6 @@ export const deathStroke = {
   morphIndex: 0,
   rank: 12,
   skillLineId: "nightblade-assassination",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "nightblade-assassination",
 } as const satisfies TemperSkill

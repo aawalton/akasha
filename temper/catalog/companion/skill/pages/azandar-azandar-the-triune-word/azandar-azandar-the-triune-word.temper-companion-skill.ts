@@ -12,7 +12,7 @@ export const azandarAzandarTheTriuneWord = {
   companionId: "azandar",
   abilityId: 191273,
   skillLineId: "companion-azandar-scholar-of-apocrypha",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

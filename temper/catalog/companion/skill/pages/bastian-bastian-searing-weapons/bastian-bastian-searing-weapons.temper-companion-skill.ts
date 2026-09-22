@@ -12,7 +12,7 @@ export const bastianBastianSearingWeapons = {
   companionId: "bastian",
   abilityId: 155355,
   skillLineId: "companion-bastian-radiating-heart",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps", "support"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

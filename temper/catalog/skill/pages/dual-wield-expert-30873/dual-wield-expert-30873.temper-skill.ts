@@ -16,6 +16,6 @@ export const dualWieldExpert30873 = {
   morphIndex: 0,
   rank: 10,
   skillLineId: "weapon-dual-wield",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-dual-wield",
 } as const satisfies TemperSkill

@@ -17,7 +17,7 @@ export const lingeringFlare = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "alliance-war-support",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "alliance-war-support",
   effects: "jsonl",
 } as const satisfies TemperSkill

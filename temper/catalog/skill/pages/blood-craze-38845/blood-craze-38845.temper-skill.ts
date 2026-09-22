@@ -17,6 +17,6 @@ export const bloodCraze38845 = {
   morphIndex: 2,
   rank: 4,
   skillLineId: "weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-dual-wield",
 } as const satisfies TemperSkill

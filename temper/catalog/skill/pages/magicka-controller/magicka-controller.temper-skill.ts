@@ -17,7 +17,7 @@ export const magickaController = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "guild-mages-guild",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "guild-mages-guild",
   status: "supported",
   effects: "jsonl",

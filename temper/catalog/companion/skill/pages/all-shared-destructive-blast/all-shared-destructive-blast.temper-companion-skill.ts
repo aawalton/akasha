@@ -12,7 +12,7 @@ export const allSharedDestructiveBlast = {
   companionId: "all",
   abilityId: 157131,
   skillLineId: "weapon-destruction-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps", "tank"],
   tags: ["elemental-variant"],
   skillEffects: "jsonl",

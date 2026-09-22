@@ -17,6 +17,6 @@ export const magelight = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "guild-mages-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-mages-guild",
 } as const satisfies TemperSkill

@@ -16,7 +16,7 @@ export const scribedShieldThrowKnockback = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "weapon-one-hand-and-shield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "knockback",
   grimoireId: "shield-throw",

@@ -17,6 +17,6 @@ export const forwardMomentum38794 = {
   morphIndex: 1,
   rank: 38,
   skillLineId: "weapon-two-handed",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-two-handed",
 } as const satisfies TemperSkill

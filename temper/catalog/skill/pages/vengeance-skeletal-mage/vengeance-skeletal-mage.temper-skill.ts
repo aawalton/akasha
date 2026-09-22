@@ -17,6 +17,6 @@ export const vengeanceSkeletalMage = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-necromancer-grave-lord",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-necromancer-grave-lord",
 } as const satisfies TemperSkill

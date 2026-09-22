@@ -16,7 +16,7 @@ export const soulLock = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "world-soul-magic",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-soul-magic",
   status: "unsupported",
   effects: "jsonl",

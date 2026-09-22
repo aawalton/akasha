@@ -17,6 +17,6 @@ export const vengeanceOfEldritchHorror = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-arcanist-soldier-of-apocrypha",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-arcanist-soldier-of-apocrypha",
 } as const satisfies TemperSkill

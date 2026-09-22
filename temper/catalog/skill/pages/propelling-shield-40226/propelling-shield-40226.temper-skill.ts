@@ -17,6 +17,6 @@ export const propellingShield40226 = {
   morphIndex: 2,
   rank: 2,
   skillLineId: "alliance-war-support",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "alliance-war-support",
 } as const satisfies TemperSkill

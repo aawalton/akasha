@@ -17,6 +17,6 @@ export const vengeanceSilverBolts = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-guild-fighters-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-guild-fighters-guild",
 } as const satisfies TemperSkill

@@ -12,7 +12,7 @@ export const zerithVarZerithVarBladeOfTheCrossing = {
   companionId: "zerith-var",
   abilityId: 213169,
   skillLineId: "companion-zerith-var",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   validRoles: ["dps"],
   alternateAbilityIds: [213678],
   skillEffects: "jsonl",

@@ -17,6 +17,6 @@ export const siphoningStrikes = {
   morphIndex: 0,
   rank: 30,
   skillLineId: "nightblade-siphoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill

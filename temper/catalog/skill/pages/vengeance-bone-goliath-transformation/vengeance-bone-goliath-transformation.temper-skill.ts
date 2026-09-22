@@ -17,6 +17,6 @@ export const vengeanceBoneGoliathTransformation = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-necromancer-bone-tyrant",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-necromancer-bone-tyrant",
 } as const satisfies TemperSkill

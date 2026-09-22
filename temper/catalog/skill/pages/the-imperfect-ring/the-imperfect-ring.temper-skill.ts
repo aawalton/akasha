@@ -17,6 +17,6 @@ export const theImperfectRing = {
   morphIndex: 0,
   rank: 42,
   skillLineId: "arcanist-herald-of-the-tome",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-herald-of-the-tome",
 } as const satisfies TemperSkill

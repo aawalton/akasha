@@ -17,6 +17,6 @@ export const rend = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "weapon-dual-wield",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "weapon-dual-wield",
 } as const satisfies TemperSkill

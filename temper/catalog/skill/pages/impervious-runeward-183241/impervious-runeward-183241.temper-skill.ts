@@ -17,6 +17,6 @@ export const imperviousRuneward183241 = {
   morphIndex: 2,
   rank: 4,
   skillLineId: "arcanist-soldier-of-apocrypha",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-soldier-of-apocrypha",
 } as const satisfies TemperSkill

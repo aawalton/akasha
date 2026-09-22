@@ -11,7 +11,7 @@ export const mirriMirriDynamic = {
   companionId: "mirri",
   abilityId: 157250,
   skillLineId: "companion-mirri",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   validRoles: ["dps", "healer"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

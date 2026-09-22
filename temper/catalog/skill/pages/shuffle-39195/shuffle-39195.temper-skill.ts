@@ -17,6 +17,6 @@ export const shuffle39195 = {
   morphIndex: 1,
   rank: 22,
   skillLineId: "armor-medium-armor",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "armor-medium-armor",
 } as const satisfies TemperSkill

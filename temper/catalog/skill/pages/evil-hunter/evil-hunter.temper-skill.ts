@@ -17,7 +17,7 @@ export const evilHunter = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "guild-fighters-guild",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-fighters-guild",
   effects: "jsonl",
 } as const satisfies TemperSkill

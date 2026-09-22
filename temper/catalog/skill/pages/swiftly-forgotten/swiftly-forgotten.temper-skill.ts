@@ -17,7 +17,7 @@ export const swiftlyForgotten = {
   morphIndex: 0,
   rank: 4,
   skillLineId: "guild-thieves-guild",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "guild-thieves-guild",
   status: "unsupported",
   effects: "jsonl",

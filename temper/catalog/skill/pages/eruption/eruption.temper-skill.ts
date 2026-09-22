@@ -17,6 +17,6 @@ export const eruption = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "dragonknight-earthen-heart",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "dragonknight-earthen-heart",
 } as const satisfies TemperSkill

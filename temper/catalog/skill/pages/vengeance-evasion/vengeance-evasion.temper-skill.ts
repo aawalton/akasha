@@ -17,6 +17,6 @@ export const vengeanceEvasion = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-armor",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-armor",
 } as const satisfies TemperSkill

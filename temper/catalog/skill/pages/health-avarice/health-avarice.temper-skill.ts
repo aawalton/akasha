@@ -17,7 +17,7 @@ export const healthAvarice = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "necromancer-bone-tyrant",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "necromancer-bone-tyrant",
   status: "supported",
   effects: "jsonl",

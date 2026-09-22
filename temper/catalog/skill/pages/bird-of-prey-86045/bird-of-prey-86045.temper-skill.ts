@@ -17,6 +17,6 @@ export const birdOfPrey86045 = {
   morphIndex: 2,
   rank: 42,
   skillLineId: "warden-animal-companions",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "warden-animal-companions",
 } as const satisfies TemperSkill

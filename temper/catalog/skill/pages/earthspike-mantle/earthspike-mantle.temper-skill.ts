@@ -17,6 +17,6 @@ export const earthspikeMantle = {
   morphIndex: 0,
   rank: 42,
   skillLineId: "dragonknight-earthen-heart",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "dragonknight-earthen-heart",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const vengeanceDragonknightStandard = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-dragonknight-ardent-flame",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-dragonknight-ardent-flame",
 } as const satisfies TemperSkill

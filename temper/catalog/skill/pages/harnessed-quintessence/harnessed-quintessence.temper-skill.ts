@@ -17,7 +17,7 @@ export const harnessedQuintessence = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "arcanist-herald-of-the-tome",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "arcanist-herald-of-the-tome",
   status: "partially-supported",
   effects: "jsonl",

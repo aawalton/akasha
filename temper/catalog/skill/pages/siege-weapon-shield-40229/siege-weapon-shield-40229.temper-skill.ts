@@ -17,6 +17,6 @@ export const siegeWeaponShield40229 = {
   morphIndex: 1,
   rank: 2,
   skillLineId: "alliance-war-support",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "alliance-war-support",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const dampenMagic = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "armor-light-armor",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "armor-light-armor",
 } as const satisfies TemperSkill

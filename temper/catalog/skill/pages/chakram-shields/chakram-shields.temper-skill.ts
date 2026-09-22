@@ -17,6 +17,6 @@ export const chakramShields = {
   morphIndex: 0,
   rank: 20,
   skillLineId: "arcanist-curative-runeforms",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-curative-runeforms",
 } as const satisfies TemperSkill

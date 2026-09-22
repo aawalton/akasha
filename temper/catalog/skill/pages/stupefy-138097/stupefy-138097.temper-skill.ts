@@ -17,6 +17,6 @@ export const stupefy138097 = {
   morphIndex: 2,
   rank: 6,
   skillLineId: "world-vampire",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "world-vampire",
 } as const satisfies TemperSkill

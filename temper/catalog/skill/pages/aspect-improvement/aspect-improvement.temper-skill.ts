@@ -16,6 +16,6 @@ export const aspectImprovement = {
   morphIndex: 0,
   rank: 4,
   skillLineId: "craft-enchanting",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "craft-enchanting",
 } as const satisfies TemperSkill

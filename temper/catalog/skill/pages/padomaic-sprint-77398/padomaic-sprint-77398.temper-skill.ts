@@ -17,6 +17,6 @@ export const padomaicSprint77398 = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "guild-dark-brotherhood",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "guild-dark-brotherhood",
 } as const satisfies TemperSkill

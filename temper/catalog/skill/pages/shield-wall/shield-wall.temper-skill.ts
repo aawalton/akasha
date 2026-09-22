@@ -17,6 +17,6 @@ export const shieldWall = {
   morphIndex: 0,
   rank: 50,
   skillLineId: "weapon-one-hand-and-shield",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "weapon-one-hand-and-shield",
 } as const satisfies TemperSkill

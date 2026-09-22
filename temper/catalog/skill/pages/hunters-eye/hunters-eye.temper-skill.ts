@@ -17,7 +17,7 @@ export const huntersEye = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "racial-wood-elf-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-wood-elf-skills",
   status: "partially-supported",
   effects: "jsonl",

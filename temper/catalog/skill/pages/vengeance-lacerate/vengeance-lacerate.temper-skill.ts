@@ -17,6 +17,6 @@ export const vengeanceLacerate = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-weapon-dual-wield",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-weapon-dual-wield",
 } as const satisfies TemperSkill

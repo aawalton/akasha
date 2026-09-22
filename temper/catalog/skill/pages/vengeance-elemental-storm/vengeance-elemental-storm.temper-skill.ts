@@ -17,6 +17,6 @@ export const vengeanceElementalStorm = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-weapon-destruction-staff",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-weapon-destruction-staff",
 } as const satisfies TemperSkill

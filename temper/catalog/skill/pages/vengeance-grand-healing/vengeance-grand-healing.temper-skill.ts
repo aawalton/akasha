@@ -17,6 +17,6 @@ export const vengeanceGrandHealing = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-weapon-restoration-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-weapon-restoration-staff",
 } as const satisfies TemperSkill

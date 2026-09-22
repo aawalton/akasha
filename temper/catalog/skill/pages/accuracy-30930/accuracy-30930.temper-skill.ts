@@ -16,6 +16,6 @@ export const accuracy30930 = {
   morphIndex: 0,
   rank: 10,
   skillLineId: "weapon-bow",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-bow",
 } as const satisfies TemperSkill

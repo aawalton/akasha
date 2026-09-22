@@ -17,6 +17,6 @@ export const destructiveTouch = {
   morphIndex: 0,
   rank: 14,
   skillLineId: "weapon-destruction-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-destruction-staff",
 } as const satisfies TemperSkill

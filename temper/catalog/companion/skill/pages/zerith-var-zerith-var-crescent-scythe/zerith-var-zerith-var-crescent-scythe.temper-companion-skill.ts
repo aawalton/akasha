@@ -12,7 +12,7 @@ export const zerithVarZerithVarCrescentScythe = {
   companionId: "zerith-var",
   abilityId: 213164,
   skillLineId: "companion-zerith-var-guardians-commitment",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps", "tank"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

@@ -17,6 +17,6 @@ export const vengeanceChainsOfFlame = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-dragonknight-draconic-power",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-dragonknight-draconic-power",
 } as const satisfies TemperSkill

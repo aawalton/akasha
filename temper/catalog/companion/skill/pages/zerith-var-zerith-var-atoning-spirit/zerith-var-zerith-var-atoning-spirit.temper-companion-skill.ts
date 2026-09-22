@@ -12,7 +12,7 @@ export const zerithVarZerithVarAtoningSpirit = {
   companionId: "zerith-var",
   abilityId: 222209,
   skillLineId: "companion-zerith-var-remedy-of-atonement",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

@@ -17,6 +17,6 @@ export const cuttingDive85999 = {
   morphIndex: 1,
   rank: 1,
   skillLineId: "warden-animal-companions",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "warden-animal-companions",
 } as const satisfies TemperSkill

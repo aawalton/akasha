@@ -17,7 +17,7 @@ export const triFocus = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "weapon-destruction-staff",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-destruction-staff",
   status: "unsupported",
   effects: "jsonl",

@@ -17,6 +17,6 @@ export const burnishedScales = {
   morphIndex: 0,
   rank: 8,
   skillLineId: "dragonknight-draconic-power",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "dragonknight-draconic-power",
 } as const satisfies TemperSkill

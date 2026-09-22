@@ -17,6 +17,6 @@ export const vengeanceDive = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-warden-animal-companions",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-warden-animal-companions",
 } as const satisfies TemperSkill

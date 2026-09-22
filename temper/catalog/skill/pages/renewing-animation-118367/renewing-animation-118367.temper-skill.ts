@@ -17,6 +17,6 @@ export const renewingAnimation118367 = {
   morphIndex: 1,
   rank: 12,
   skillLineId: "necromancer-living-death",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "necromancer-living-death",
 } as const satisfies TemperSkill

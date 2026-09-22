@@ -17,7 +17,7 @@ export const emeraldMoss = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "warden-green-balance",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "warden-green-balance",
   status: "supported",
   effects: "jsonl",

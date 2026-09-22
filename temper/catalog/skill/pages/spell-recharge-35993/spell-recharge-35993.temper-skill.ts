@@ -17,6 +17,6 @@ export const spellRecharge35993 = {
   morphIndex: 0,
   rank: 5,
   skillLineId: "racial-high-elf-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-high-elf-skills",
 } as const satisfies TemperSkill

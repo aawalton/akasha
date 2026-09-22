@@ -17,6 +17,6 @@ export const northernStorm86113 = {
   morphIndex: 1,
   rank: 12,
   skillLineId: "warden-winters-embrace",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "warden-winters-embrace",
 } as const satisfies TemperSkill

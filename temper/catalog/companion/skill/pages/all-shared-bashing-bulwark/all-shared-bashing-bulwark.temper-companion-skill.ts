@@ -11,7 +11,7 @@ export const allSharedBashingBulwark = {
   companionId: "all",
   abilityId: 155326,
   skillLineId: "weapon-one-hand-shield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   skillEffects: "jsonl",
   castConditions: "jsonl",
 } as const satisfies TemperCompanionSkill

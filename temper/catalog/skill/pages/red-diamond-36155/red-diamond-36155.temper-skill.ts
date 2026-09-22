@@ -16,6 +16,6 @@ export const redDiamond36155 = {
   morphIndex: 0,
   rank: 25,
   skillLineId: "racial-imperial-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-imperial-skills",
 } as const satisfies TemperSkill

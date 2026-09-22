@@ -12,7 +12,7 @@ export const allSharedOnGuard = {
   companionId: "all",
   abilityId: 155328,
   skillLineId: "weapon-one-hand-shield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   tags: ["max-health-shield-25pct"],
   skillEffects: "jsonl",

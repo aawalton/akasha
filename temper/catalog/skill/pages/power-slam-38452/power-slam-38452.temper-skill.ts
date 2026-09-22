@@ -17,6 +17,6 @@ export const powerSlam38452 = {
   morphIndex: 2,
   rank: 38,
   skillLineId: "weapon-one-hand-and-shield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-one-hand-and-shield",
 } as const satisfies TemperSkill

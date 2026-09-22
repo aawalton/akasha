@@ -12,7 +12,7 @@ export const allSharedSunder = {
   companionId: "all",
   abilityId: 152512,
   skillLineId: "weapon-two-handed",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

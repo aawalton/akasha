@@ -17,6 +17,6 @@ export const arrowSpray = {
   morphIndex: 0,
   rank: 20,
   skillLineId: "weapon-bow",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-bow",
 } as const satisfies TemperSkill

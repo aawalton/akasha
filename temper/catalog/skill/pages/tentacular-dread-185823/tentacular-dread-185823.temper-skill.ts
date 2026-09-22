@@ -17,6 +17,6 @@ export const tentacularDread185823 = {
   morphIndex: 2,
   rank: 20,
   skillLineId: "arcanist-herald-of-the-tome",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-herald-of-the-tome",
 } as const satisfies TemperSkill

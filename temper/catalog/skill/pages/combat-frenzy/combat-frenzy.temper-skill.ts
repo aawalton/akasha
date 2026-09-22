@@ -16,7 +16,7 @@ export const combatFrenzy = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "alliance-war-assault",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "alliance-war-assault",
   status: "unsupported",
   effects: "jsonl",

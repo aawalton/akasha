@@ -17,6 +17,6 @@ export const reconstructiveDomain186234 = {
   morphIndex: 2,
   rank: 30,
   skillLineId: "arcanist-curative-runeforms",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-curative-runeforms",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const solventProficiency = {
   morphIndex: 0,
   rank: 8,
   skillLineId: "craft-alchemy",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "craft-alchemy",
 } as const satisfies TemperSkill

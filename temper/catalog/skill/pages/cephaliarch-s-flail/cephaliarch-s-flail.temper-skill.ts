@@ -17,6 +17,6 @@ export const cephaliarchSFlail = {
   morphIndex: 1,
   rank: 20,
   skillLineId: "arcanist-herald-of-the-tome",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-herald-of-the-tome",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const boundArmor = {
   morphIndex: 0,
   rank: 42,
   skillLineId: "sorcerer-daedric-summoning",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "sorcerer-daedric-summoning",
 } as const satisfies TemperSkill

@@ -16,7 +16,7 @@ export const scribedElementalExplosionDispel = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "weapon-destruction-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "dispel",
   grimoireId: "elemental-explosion",

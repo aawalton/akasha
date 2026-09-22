@@ -12,7 +12,7 @@ export const allSharedRazorCape = {
   companionId: "all",
   abilityId: 152696,
   skillLineId: "weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps", "tank"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

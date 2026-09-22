@@ -17,6 +17,6 @@ export const crystalShard = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "sorcerer-dark-magic",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "sorcerer-dark-magic",
 } as const satisfies TemperSkill

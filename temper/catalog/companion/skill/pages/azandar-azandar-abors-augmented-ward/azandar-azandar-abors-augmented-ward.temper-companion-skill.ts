@@ -12,7 +12,7 @@ export const azandarAzandarAborsAugmentedWard = {
   companionId: "azandar",
   abilityId: 191939,
   skillLineId: "companion-azandar-quill-knight",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps", "tank"],
   tags: ["max-health-shield-25pct", "retaliation-damage"],
   skillEffects: "jsonl",

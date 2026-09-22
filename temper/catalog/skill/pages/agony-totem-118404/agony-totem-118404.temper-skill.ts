@@ -17,6 +17,6 @@ export const agonyTotem118404 = {
   morphIndex: 2,
   rank: 30,
   skillLineId: "necromancer-bone-tyrant",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "necromancer-bone-tyrant",
 } as const satisfies TemperSkill

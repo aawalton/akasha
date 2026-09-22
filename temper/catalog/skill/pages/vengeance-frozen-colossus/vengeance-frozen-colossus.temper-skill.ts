@@ -17,6 +17,6 @@ export const vengeanceFrozenColossus = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-necromancer-grave-lord",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-necromancer-grave-lord",
 } as const satisfies TemperSkill

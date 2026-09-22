@@ -17,7 +17,7 @@ export const scribedMendersBondRestoreResources = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "weapon-restoration-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "restore-resources",
   grimoireId: "menders-bond",

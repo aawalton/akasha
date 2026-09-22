@@ -17,6 +17,6 @@ export const theTideKingsGaze = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "arcanist-herald-of-the-tome",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "arcanist-herald-of-the-tome",
 } as const satisfies TemperSkill

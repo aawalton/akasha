@@ -17,6 +17,6 @@ export const radiantGlory63044 = {
   morphIndex: 1,
   rank: 42,
   skillLineId: "templar-dawns-wrath",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "templar-dawns-wrath",
 } as const satisfies TemperSkill

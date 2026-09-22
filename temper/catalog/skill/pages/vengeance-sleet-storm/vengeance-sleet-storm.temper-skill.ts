@@ -17,6 +17,6 @@ export const vengeanceSleetStorm = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-warden-winters-embrace",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-warden-winters-embrace",
 } as const satisfies TemperSkill

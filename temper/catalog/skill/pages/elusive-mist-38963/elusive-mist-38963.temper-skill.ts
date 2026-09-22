@@ -17,6 +17,6 @@ export const elusiveMist38963 = {
   morphIndex: 1,
   rank: 9,
   skillLineId: "world-vampire",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "world-vampire",
 } as const satisfies TemperSkill

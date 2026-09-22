@@ -17,7 +17,7 @@ export const scribedTravelingKnifeMultiTarget = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "multi-target",
   grimoireId: "traveling-knife",

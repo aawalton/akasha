@@ -17,6 +17,6 @@ export const evasion = {
   morphIndex: 0,
   rank: 22,
   skillLineId: "armor-medium-armor",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "armor-medium-armor",
 } as const satisfies TemperSkill

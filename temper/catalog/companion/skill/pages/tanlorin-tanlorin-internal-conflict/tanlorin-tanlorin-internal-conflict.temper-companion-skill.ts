@@ -12,7 +12,7 @@ export const tanlorinTanlorinInternalConflict = {
   companionId: "tanlorin",
   abilityId: 214865,
   skillLineId: "companion-tanlorin-empathic-fighter",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

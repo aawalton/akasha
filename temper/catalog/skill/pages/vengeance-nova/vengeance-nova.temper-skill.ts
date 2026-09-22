@@ -17,6 +17,6 @@ export const vengeanceNova = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-templar-dawns-wrath",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-templar-dawns-wrath",
 } as const satisfies TemperSkill

@@ -17,7 +17,7 @@ export const maturation = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "warden-green-balance",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "warden-green-balance",
   status: "unsupported",
   effects: "jsonl",

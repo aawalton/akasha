@@ -17,7 +17,7 @@ export const undeath = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "world-vampire",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-vampire",
   status: "unsupported",
   effects: "jsonl",

@@ -17,6 +17,6 @@ export const criticalRush38778 = {
   morphIndex: 2,
   rank: 4,
   skillLineId: "weapon-two-handed",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-two-handed",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const elementalRing39143 = {
   morphIndex: 1,
   rank: 38,
   skillLineId: "weapon-destruction-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-destruction-staff",
 } as const satisfies TemperSkill

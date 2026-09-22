@@ -17,7 +17,7 @@ export const scribedShieldThrowMultiTarget = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "weapon-one-hand-and-shield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "multi-target",
   grimoireId: "shield-throw",

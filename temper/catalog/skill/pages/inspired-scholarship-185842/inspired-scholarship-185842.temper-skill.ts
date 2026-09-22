@@ -17,6 +17,6 @@ export const inspiredScholarship185842 = {
   morphIndex: 1,
   rank: 30,
   skillLineId: "arcanist-herald-of-the-tome",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "arcanist-herald-of-the-tome",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const quickSiphon = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "weapon-restoration-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-restoration-staff",
 } as const satisfies TemperSkill

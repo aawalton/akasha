@@ -12,7 +12,7 @@ export const allSharedSkeletalAegis = {
   companionId: "all",
   abilityId: 155693,
   skillLineId: "guild-undaunted",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   tags: ["synergy"],
   skillEffects: "jsonl",

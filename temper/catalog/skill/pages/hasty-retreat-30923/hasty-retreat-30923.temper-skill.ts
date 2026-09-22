@@ -17,6 +17,6 @@ export const hastyRetreat30923 = {
   morphIndex: 0,
   rank: 41,
   skillLineId: "weapon-bow",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "weapon-bow",
 } as const satisfies TemperSkill

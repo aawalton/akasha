@@ -17,6 +17,6 @@ export const forceShock = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "weapon-destruction-staff",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "weapon-destruction-staff",
 } as const satisfies TemperSkill

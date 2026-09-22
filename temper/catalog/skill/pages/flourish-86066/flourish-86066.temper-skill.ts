@@ -16,6 +16,6 @@ export const flourish86066 = {
   morphIndex: 0,
   rank: 22,
   skillLineId: "warden-animal-companions",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "warden-animal-companions",
 } as const satisfies TemperSkill

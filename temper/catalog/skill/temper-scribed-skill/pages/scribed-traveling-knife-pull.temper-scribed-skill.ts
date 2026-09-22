@@ -17,7 +17,7 @@ export const scribedTravelingKnifePull = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "weapon-dual-wield",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "pull",
   grimoireId: "traveling-knife",

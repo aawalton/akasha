@@ -17,6 +17,6 @@ export const berserkerStrike = {
   morphIndex: 0,
   rank: 50,
   skillLineId: "weapon-two-handed",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "weapon-two-handed",
 } as const satisfies TemperSkill

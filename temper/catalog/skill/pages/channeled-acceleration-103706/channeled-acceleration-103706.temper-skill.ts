@@ -17,6 +17,6 @@ export const channeledAcceleration103706 = {
   morphIndex: 1,
   rank: 5,
   skillLineId: "guild-psijic-order",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "guild-psijic-order",
 } as const satisfies TemperSkill

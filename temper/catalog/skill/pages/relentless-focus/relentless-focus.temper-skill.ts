@@ -17,7 +17,7 @@ export const relentlessFocus = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "nightblade-assassination",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-assassination",
   effects: "jsonl",
 } as const satisfies TemperSkill

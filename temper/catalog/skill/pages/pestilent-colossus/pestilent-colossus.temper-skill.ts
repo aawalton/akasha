@@ -17,6 +17,6 @@ export const pestilentColossus = {
   morphIndex: 1,
   rank: 8,
   skillLineId: "necromancer-grave-lord",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "necromancer-grave-lord",
 } as const satisfies TemperSkill

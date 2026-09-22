@@ -16,6 +16,6 @@ export const yFfreSEndurance = {
   morphIndex: 0,
   rank: 10,
   skillLineId: "racial-wood-elf-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-wood-elf-skills",
 } as const satisfies TemperSkill

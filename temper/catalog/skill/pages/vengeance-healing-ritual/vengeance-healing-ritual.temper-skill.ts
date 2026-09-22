@@ -17,6 +17,6 @@ export const vengeanceHealingRitual = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-templar-restoring-light",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "vengeance-templar-restoring-light",
 } as const satisfies TemperSkill

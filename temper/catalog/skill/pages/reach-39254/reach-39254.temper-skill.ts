@@ -17,6 +17,6 @@ export const reach39254 = {
   morphIndex: 0,
   rank: 5,
   skillLineId: "alliance-war-assault",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

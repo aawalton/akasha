@@ -17,7 +17,7 @@ export const spectralAssassin = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "guild-dark-brotherhood",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "guild-dark-brotherhood",
   status: "unsupported",
   effects: "jsonl",

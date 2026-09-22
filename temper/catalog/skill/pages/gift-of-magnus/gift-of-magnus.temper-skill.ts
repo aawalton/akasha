@@ -16,7 +16,7 @@ export const giftOfMagnus = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "racial-breton-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-breton-skills",
   status: "supported",
   effects: "jsonl",

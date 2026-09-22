@@ -17,6 +17,6 @@ export const lotusFan25493 = {
   morphIndex: 1,
   rank: 4,
   skillLineId: "nightblade-assassination",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "nightblade-assassination",
 } as const satisfies TemperSkill

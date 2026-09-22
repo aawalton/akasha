@@ -16,7 +16,7 @@ export const combatMedic = {
   morphIndex: 0,
   rank: 2,
   skillLineId: "alliance-war-support",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "alliance-war-support",
   status: "unsupported",
   effects: "jsonl",

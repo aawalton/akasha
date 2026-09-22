@@ -17,6 +17,6 @@ export const surge = {
   morphIndex: 0,
   rank: 30,
   skillLineId: "sorcerer-storm-calling",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "sorcerer-storm-calling",
 } as const satisfies TemperSkill

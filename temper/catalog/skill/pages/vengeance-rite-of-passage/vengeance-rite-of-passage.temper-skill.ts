@@ -17,6 +17,6 @@ export const vengeanceRiteOfPassage = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "vengeance-templar-restoring-light",
-  skillType: "ultimate",
+  skillType: "temper-skill-type/ultimate",
   subcategoryId: "vengeance-templar-restoring-light",
 } as const satisfies TemperSkill

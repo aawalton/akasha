@@ -17,7 +17,7 @@ export const resolve = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "armor-heavy-armor",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "armor-heavy-armor",
   status: "supported",
   effects: "jsonl",

@@ -17,7 +17,7 @@ export const diplomat = {
   morphIndex: 0,
   rank: 1,
   skillLineId: "racial-imperial-skills",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "racial-imperial-skills",
   status: "supported",
   effects: "jsonl",

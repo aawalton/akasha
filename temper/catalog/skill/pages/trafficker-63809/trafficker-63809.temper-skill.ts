@@ -17,6 +17,6 @@ export const trafficker63809 = {
   morphIndex: 0,
   rank: 3,
   skillLineId: "world-legerdemain",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-legerdemain",
 } as const satisfies TemperSkill

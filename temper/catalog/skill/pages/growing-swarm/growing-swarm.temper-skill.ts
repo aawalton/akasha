@@ -17,6 +17,6 @@ export const growingSwarm = {
   morphIndex: 2,
   rank: 12,
   skillLineId: "warden-animal-companions",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "warden-animal-companions",
 } as const satisfies TemperSkill

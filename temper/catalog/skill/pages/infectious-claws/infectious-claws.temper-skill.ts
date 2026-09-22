@@ -17,6 +17,6 @@ export const infectiousClaws = {
   morphIndex: 0,
   rank: 9,
   skillLineId: "world-werewolf",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   subcategoryId: "world-werewolf",
 } as const satisfies TemperSkill

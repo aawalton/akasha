@@ -12,7 +12,7 @@ export const emberEmberShockingBurst = {
   companionId: "ember",
   abilityId: 166085,
   skillLineId: "companion-ember-lightning-caller",
-  skillType: "active",
+  skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

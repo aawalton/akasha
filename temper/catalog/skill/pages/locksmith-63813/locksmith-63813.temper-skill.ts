@@ -16,6 +16,6 @@ export const locksmith63813 = {
   morphIndex: 0,
   rank: 5,
   skillLineId: "world-legerdemain",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "world-legerdemain",
 } as const satisfies TemperSkill

@@ -17,6 +17,6 @@ export const transfer36587 = {
   morphIndex: 0,
   rank: 39,
   skillLineId: "nightblade-siphoning",
-  skillType: "passive",
+  skillType: "temper-skill-type/passive",
   subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill
