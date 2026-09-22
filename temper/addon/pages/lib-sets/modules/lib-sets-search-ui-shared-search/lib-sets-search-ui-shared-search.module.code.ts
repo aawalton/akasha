@@ -1,4 +1,4 @@
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 const CM = CALLBACK_MANAGER
 const EM = EVENT_MANAGER

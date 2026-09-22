@@ -4,6 +4,7 @@ import {
   asString,
   asStrRecord,
 } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 import {
   asSearchHistoryStringMap,
   asSearchHistoryUnknownMap,
@@ -11,8 +12,6 @@ import {
   asSetInfoMap,
   asStringOptArray,
 } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
-
-const lib = LibSets
 
 const EM = EVENT_MANAGER
 

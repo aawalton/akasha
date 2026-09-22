@@ -1,10 +1,9 @@
-const lib = LibSets
-
 import {
   asNumber,
   asNumberOpt,
   asString,
 } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 import {
   asControlWidthFunc,
   asNumberOrStringOpt,

@@ -39,7 +39,7 @@ import "akasha/temper/eso/type/eso-lib-sets-strings-2/eso-lib-sets-strings-2.typ
 import "akasha/temper/eso/type/eso-lib-sets-ui/eso-lib-sets-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-mail/eso-mail.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 interface RowControl {
   itemLink?: string

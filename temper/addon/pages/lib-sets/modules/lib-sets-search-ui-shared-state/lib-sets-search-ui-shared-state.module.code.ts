@@ -10,7 +10,7 @@ import "akasha/temper/addon/pages/lib-sets/lib-sets-search-ui-shapes/lib-sets-se
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 export const MAJOR = lib.name
 

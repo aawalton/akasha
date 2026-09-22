@@ -7,13 +7,12 @@ import {
   asStrRecordOpt,
   asTyped,
 } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 import {
   asLibSetsSearchRowData,
   asLibSetsSearchRowDataOpt,
   asSearchUIControl,
 } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
-
-const lib = LibSets
 
 import { getSearchUIListClass } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-search-ui-list-class/lib-sets-search-ui-list-class.module.code.ts"
 import { searchUI } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
