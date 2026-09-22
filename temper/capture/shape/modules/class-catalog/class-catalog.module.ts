@@ -4,6 +4,6 @@ export const classCatalog = {
   id: "01a0604d-239c-76fa-af72-b602cc5f5b68",
   type: "page-type/module",
   slug: "class-catalog",
-  definition: "what the game states about one player class and which skill lines that class opens",
+  definition: "what the game states about a player class and which skill lines that class opens",
   code: "ts",
 } as const satisfies Module

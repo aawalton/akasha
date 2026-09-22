@@ -4,7 +4,7 @@ export const captureWriter = {
   id: "01a060b5-5ba9-7490-bcc8-208680a38a27",
   type: "page-type/module",
   slug: "capture-writer",
-  definition: "one descriptor turned into an add-on that saves what it captured",
+  definition: "a descriptor turned into an add-on that saves what it captured",
   code: "ts",
   decisions: [
     {

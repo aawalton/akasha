@@ -5,7 +5,7 @@ export const clearTarget = {
   type: "page-type/module",
   slug: "clear-target",
   definition:
-    "reading what was asked to be cleared into all, one domain, an unknown name, or nothing",
+    "reading what was asked to be cleared into all, a domain, an unknown name, or nothing",
   code: "ts",
   test: "ts",
   decisions: [

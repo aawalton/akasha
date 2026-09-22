@@ -5,7 +5,7 @@ export const reagentNames = {
   type: "page-type/text-property",
   slug: "reagent-names",
   propertySlug: "names",
-  definition: "the reagents one recipe is brewed from",
+  definition: "the reagents a recipe is brewed from",
   maxLength: 100,
   nameFormat: null,
   decisions: [

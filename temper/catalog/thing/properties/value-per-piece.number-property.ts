@@ -5,7 +5,7 @@ export const valuePerPiece = {
   type: "page-type/number-property",
   slug: "value-per-piece",
   propertySlug: "value-per-piece",
-  definition: "what one piece of armor adds to the metric an effect moves",
+  definition: "what a piece of armor adds to the metric an effect moves",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

@@ -4,7 +4,7 @@ export const temperCompanionArmorSlot = {
   id: "01a05fcd-aece-70c8-8784-e3afaec07950",
   type: "page-type/page-type",
   slug: "temper-companion-armor-slot",
-  definition: "a place a companion wears one piece of armor",
+  definition: "a place a companion wears a piece of armor",
   extends: ["page-type/temper-companion-thing"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },

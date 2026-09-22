@@ -5,7 +5,7 @@ export const hitCount = {
   type: "page-type/number-property",
   slug: "hit-count",
   propertySlug: "hit-count",
-  definition: "how many hits one cast lands",
+  definition: "how many hits a cast lands",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

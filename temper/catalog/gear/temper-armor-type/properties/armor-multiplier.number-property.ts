@@ -5,7 +5,7 @@ export const armorMultiplier = {
   type: "page-type/number-property",
   slug: "armor-multiplier",
   propertySlug: "armor-multiplier",
-  definition: "the share of a weight's armor one piece of this kind carries",
+  definition: "the share of a weight's armor a piece of this kind carries",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

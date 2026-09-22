@@ -4,7 +4,7 @@ export const temperEsoTraitMap = {
   id: "01a05fd1-d431-71e8-91f5-9767d9744dc3",
   type: "page-type/page-type",
   slug: "temper-eso-trait-map",
-  definition: "the number the game has for one trait on one kind of piece",
+  definition: "the number the game has for a trait on a kind of piece",
   extends: ["page-type/temper-catalog-thing"],
   parts: ["number-property/eso-trait-num", "text-property/trait-family", "text-property/trait-id"],
   properties: [
