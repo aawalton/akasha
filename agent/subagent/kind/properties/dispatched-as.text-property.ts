@@ -18,6 +18,10 @@ export const dispatchedAs = {
       statement: "A kind states this name and a subagent run as that kind repeats this name.",
     },
     {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A kind's tool spelling is capitalised and that kind's page name is not.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement: "This property is a relation to an agent kind.",
     },

@@ -9,6 +9,10 @@ export const reagentNames = {
   maxLength: 100,
   nameFormat: null,
   decisions: [
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "Every reagent named here is written as a title rather than as its page's name.",
+    },
     { decisionKind: "decision-kind/gap", statement: "This property is a relation to a reagent." },
     {
       decisionKind: "decision-kind/departure",

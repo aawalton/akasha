@@ -9,6 +9,10 @@ export const guildName = {
   maxLength: 200,
   nameFormat: null,
   decisions: [
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "No sale is written as a page, so this property holds no value.",
+    },
     { decisionKind: "decision-kind/gap", statement: "This property is a relation to a guild." },
   ],
   types: "ts",

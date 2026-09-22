@@ -9,6 +9,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/properties/start-mode.text-property.ts","id":"01a05395-58a5-760f-a464-178f4d4ebb97"}
 {"propertySlug":"decision-kind","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.ts","id":"01a05ecf-9a12-7710-b385-fd3a09307d1d"}
+{"propertySlug":"decision-kind","path":"agent/subagent/kind/properties/dispatched-as.text-property.ts","id":"01a05978-f2e3-737b-8b65-7a65013f5626"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.ts","id":"01a095ed-9005-70e5-8d03-654f10141de7"}
 {"propertySlug":"decision-kind","path":"alan/car-research/car-trim/properties/car-year-slug.text-property.ts","id":"01a0c543-8c25-7484-9da3-144fd1373381"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/create-course/create-course.module.ts","id":"01a06579-f3d9-7005-80a2-939e9bfae257"}
@@ -27,6 +28,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/service-workstations/fall-notifier/surplus-fall-notifier.service-workstation.ts","id":"01a06829-0194-7754-b17a-14e66866bd98"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/modules/reader-access/reader-access.module.ts","id":"01a0c503-1fee-74f8-8460-00ac5c1b90d6"}
 {"propertySlug":"decision-kind","path":"alan/music/listening/heard-music/properties/tracks/properties/heard-source.text-property.ts","id":"01a06240-340f-700e-a486-9e430bc408b2"}
+{"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/meals.text-property.ts","id":"01a05fd8-c30f-7952-9ba0-4a131ba3347a"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/strength/log/properties/set-volume.computed-property.ts","id":"01a077cb-d5b9-767f-8668-3cf04e5756fc"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/capacitor-cors/capacitor-cors.module.ts","id":"01a063c9-03ff-733a-9c12-48399577ca75"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.ts","id":"01a0655d-dab8-7c58-8569-1c6e3295591b"}
@@ -78,13 +80,16 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-holder-types/housing-holder-types.module.ts","id":"01a06113-b7ce-7f67-beb7-a7a3ee79e25d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-notification/modules/notification-providers/notification-providers.module.ts","id":"01a0605a-0515-7efc-a180-1aaa98828cd6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-notification/notification-declarations/notification-declarations.type-declaration.ts","id":"01a0620a-a166-7152-bc6c-c9ce7bb3739c"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion-crafted/properties/reagent-names.text-property.ts","id":"01a05fd1-d43d-7249-ac3e-8dcf8869e271"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts","id":"01a0b761-76a7-78cd-82a0-bfa7fa48f3b4"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.ts","id":"01a0c9dd-cc82-7f73-b0c4-69cb07323425"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-control-model/ui-control-model.lua-module.ts","id":"01a0c97a-416c-7609-a8c1-5767be94f369"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.ts","id":"01a060c5-3c22-7fe6-8e12-c63f5595790d"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/properties/data.file-property.ts","id":"01a0b725-59a6-7789-9477-41dbe92b0231"}
+{"propertySlug":"decision-kind","path":"temper/player/holdings/temper-sale/properties/guild-name.text-property.ts","id":"01a0685d-89aa-7d2f-948c-fbca509592a2"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/char-eligibility.text-property.ts","id":"01a07283-f298-7cad-8c9f-82f3ca167ff1"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule/properties/condition-value.text-property.ts","id":"01a05fd0-3aa5-7e12-bb0a-a40ab13f2405"}
+{"propertySlug":"decision-kind","path":"temper/thing/properties/category-id.text-property.ts","id":"01a05fba-ce38-7da7-8f2a-a30aa8bbacae"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-pricing-tables/watcher-pricing-tables.module.ts","id":"01a06381-35cf-7f9a-8a86-81d472cd7c24"}
 {"propertySlug":"parts","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}
