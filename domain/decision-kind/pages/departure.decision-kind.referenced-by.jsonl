@@ -2417,6 +2417,7 @@
 {"propertySlug":"decision-kind","path":"design/interface/system/token-values/token-values.stylesheet.ts","id":"01a05c95-564a-74a9-b2c1-09d527a8f63e"}
 {"propertySlug":"decision-kind","path":"design/interface/token/design-interface-token.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}
 {"propertySlug":"decision-kind","path":"design/interface/token/modules/color-shape/color-shape.module.ts","id":"01a05c97-5300-76a3-aa25-55af6fe31b6d"}
+{"propertySlug":"decision-kind","path":"design/interface/token/modules/surface-color/surface-color.module.ts","id":"01a0ca09-254b-75d8-aca5-c4acfedbb872"}
 {"propertySlug":"decision-kind","path":"design/interface/token/modules/text-color/text-color.module.ts","id":"01a05c97-5302-71a3-b9f8-f3bbd1c59f22"}
 {"propertySlug":"decision-kind","path":"design/language/design-language.domain.ts","id":"01a06600-0000-7000-8000-000000000003"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.ts","id":"01a06c82-21b5-74b7-9f92-ab9f244c6e82"}

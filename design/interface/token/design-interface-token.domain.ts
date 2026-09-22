@@ -5,7 +5,12 @@ export const designInterfaceToken = {
   type: "page-type/domain",
   slug: "design-interface-token",
   definition: "the colors an interface is drawn in, each held as an sRGB tuple",
-  parts: ["module/semantic-color", "module/color-shape", "module/text-color"],
+  parts: [
+    "module/semantic-color",
+    "module/color-shape",
+    "module/text-color",
+    "module/surface-color",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
