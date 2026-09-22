@@ -28,16 +28,21 @@ export const trackNaming = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The track played last is the first Spotify names among the tracks played recently.",
+        "The track played last is the first among the tracks played recently not carrying the id playing.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "That first track is the one before what is playing, and the last heard where nothing plays.",
+        "Where nothing plays, the first among the tracks played recently is the last heard.",
     },
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches Spotify.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Spotify names the track playing first among the tracks played recently on some plays only.",
     },
   ],
 } as const satisfies Module
