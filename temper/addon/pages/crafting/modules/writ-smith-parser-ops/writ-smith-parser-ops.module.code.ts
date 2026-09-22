@@ -1,3 +1,4 @@
+import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 import { PUBLIC as CHARACTER_KNOWLEDGE } from "akasha/temper/addon/pages/crafting/modules/knowledge-state/knowledge-state.module.code.ts"
 import { newKnow } from "akasha/temper/addon/pages/crafting/modules/writ-know/writ-know.module.code.ts"
 import {
@@ -33,29 +34,22 @@ import {
 import { toWritFields } from "akasha/temper/addon/pages/crafting/modules/writ-writ-fields/writ-writ-fields.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets-api/lib-sets-api.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-writ-smithing/eso-writ-smithing.type-declaration.d.ts"
 
 type MatRowMimic = MatRow & { can_mimic?: boolean }
 
 let client_lang: string | undefined
 
-type LibSetsAccessor = (this: void) => TemperWritLibSetsApi | undefined
-
-function isLibSetsAccessor(this: void, value: unknown): value is LibSetsAccessor {
-  return value !== undefined
+type SetInfo = {
+  setNames?: Record<string, string | undefined>
+  traitsNeeded?: number
 }
 
-function libSetsHasGetSetName(
-  this: void,
-  lib: LibSetsApi
-): lib is LibSetsApi & TemperWritLibSetsApi {
-  return "GetSetName" in lib
+function asSetInfo(this: void, value: { [key: string]: unknown }): SetInfo {
+  return value as SetInfo
 }
 
 export function getSetBonus(this: void, _parser: SmithingParser, setId: number): SetBonus {
@@ -63,29 +57,21 @@ export function getSetBonus(this: void, _parser: SmithingParser, setId: number):
   if (client_lang === undefined) {
     client_lang = GetCVar("language.2")
   }
-  const libAccessorRaw = TemperWrit.LibSets
-  const lib = isLibSetsAccessor(libAccessorRaw) ? libAccessorRaw() : undefined
-  if (lib !== undefined && lib.GetSetInfo !== undefined) {
-    const si = lib.GetSetInfo(setId)
-    if (si !== undefined) {
-      if (si.setNames !== undefined) {
-        r.name = si.setNames[client_lang] ?? si.setNames["en"]
-      }
-      r.trait_ct = si.traitsNeeded
-    } else {
-      r.name = "Unknown Set " + tostring(setId)
-      r.trait_ct = 0
-      logWarn(
-        "LibSets lacks data for set_id:" +
-          tostring(setId) +
-          ", using hardcoded: " +
-          tostring(r.name)
-      )
+  const si = lib.GetSetInfo(setId)
+  if (si !== undefined) {
+    const info = asSetInfo(si)
+    if (info.setNames !== undefined) {
+      r.name = info.setNames[client_lang] ?? info.setNames["en"]
     }
+    r.trait_ct = info.traitsNeeded
+  } else {
+    r.name = "Unknown Set " + tostring(setId)
+    r.trait_ct = 0
+    logWarn("no set data for set_id:" + tostring(setId) + ", using hardcoded: " + tostring(r.name))
   }
   const langRaw = TemperWrit.savedVariables?.lang
   const lang = typeof langRaw === "string" ? langRaw : undefined
-  const forced = libSetsHasGetSetName(LibSets) ? LibSets.GetSetName(setId, lang) : undefined
+  const forced = lib.GetSetName(setId, lang)
   r.name = typeof forced === "string" ? forced : r.name
 
   if (r.set_id == null) {

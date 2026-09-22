@@ -62,9 +62,6 @@ interface TemperWritGlobal {
   I18NMatDyn?: typeof import("akasha/temper/addon/pages/crafting/modules/writ-i18n/writ-i18n.module.code.ts").i18nMatDyn
   I18NSetDyn?: typeof import("akasha/temper/addon/pages/crafting/modules/writ-i18n/writ-i18n.module.code.ts").i18nSetDyn
   lang_list?: string[]
-  LibSets?: (
-    this: void
-  ) => { GetSetName: (this: void, set_id: number) => string | undefined } | undefined
 
   LINK?: typeof import("akasha/temper/addon/pages/crafting/modules/writ-link-data-table/writ-link-data-table.module.code.ts").LINK
   FindLink?: typeof import("akasha/temper/addon/pages/crafting/modules/writ-link-data/writ-link-data.module.code.ts").findLink

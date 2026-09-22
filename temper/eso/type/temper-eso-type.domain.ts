@@ -99,7 +99,6 @@ export const temperEsoType = {
     "type-declaration/eso-writ",
     "type-declaration/eso-writ-right-click",
     "type-declaration/eso-writ-slash",
-    "type-declaration/eso-writ-smithing",
     "type-declaration/eso-writ-tooltip",
     "type-declaration/lua-language-extensions",
     "type-declaration/lua-length",

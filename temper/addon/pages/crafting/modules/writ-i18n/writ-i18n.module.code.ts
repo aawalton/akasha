@@ -1,3 +1,4 @@
+import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 import { CLIENT_SI } from "akasha/temper/addon/pages/crafting/modules/writ-i18n-client-si/writ-i18n-client-si.module.code.ts"
 import { FOODDRINK } from "akasha/temper/addon/pages/crafting/modules/writ-i18n-fooddrink/writ-i18n-fooddrink.module.code.ts"
 import { GEAR } from "akasha/temper/addon/pages/crafting/modules/writ-i18n-gear/writ-i18n-gear.module.code.ts"
@@ -61,15 +62,8 @@ export function i18nMatDyn(this: void, itemId: string | number): string {
 }
 
 export function i18nSetDyn(this: void, setId: string | number): string | undefined {
-  const accessor = TemperWrit.LibSets
-  if (accessor === undefined) {
-    return undefined
-  }
-  const lib = accessor()
-  if (lib === undefined) {
-    return undefined
-  }
-  return lib.GetSetName(tonumber(setId) ?? 0)
+  const name = lib.GetSetName(tonumber(setId) ?? 0)
+  return typeof name === "string" ? name : undefined
 }
 
 const I18N_EN: Record<string, Record<string | number, string>> = {
