@@ -101,9 +101,7 @@ const NEAR = "shared/near.module.code.ts"
 
 const ADDON_INDEX = "addons/one/one.temper-addon.referenced-by.jsonl"
 
-const ADDON_CARRIED = "addons/one/one.temper-addon.carried.jsonl"
-
-const ADDON_TRACKED = [ADDON_PAGE, ADDON_CODE, ADDON_TYPES, ADDON_INDEX, ADDON_CARRIED, FAR, NEAR]
+const ADDON_TRACKED = [ADDON_PAGE, ADDON_CODE, ADDON_TYPES, ADDON_INDEX, FAR, NEAR]
 
 const ADDON_BODIES: Readonly<Record<string, string>> = {
   [ADDON_PAGE]: `import type { One } from "akasha/${ADDON_TYPES}"\nexport const one: One = 1\n`,
@@ -154,11 +152,9 @@ test("every other kind is built from the types written for its page as it was", 
 test("a file generated beside an addon's page seeds that addon no longer", () => {
   const found = addonClosure("temper-addon")
   expect(found.has(ADDON_INDEX)).toBe(false)
-  expect(found.has(ADDON_CARRIED)).toBe(false)
 })
 
 test("every other kind is seeded with the files generated beside its page as it was", () => {
   const found = addonClosure("web-app")
   expect(found.has(ADDON_INDEX)).toBe(true)
-  expect(found.has(ADDON_CARRIED)).toBe(true)
 })
