@@ -6,5 +6,6 @@
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts"}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/noun.part-of-speech.ts"}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/preposition.part-of-speech.ts"}
+{"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/verb.part-of-speech.ts"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/standard-agent-english.domain.ts","id":"01a07c58-7d63-7618-8189-1ea8ae48a1cb"}
 {"propertySlug":"target-page-type","path":"domain/standard-agent-english/part-of-speech/properties/part-of-speech.relation-property.ts","id":"01a0c565-aacc-7c06-a074-4e8a7bb4f241"}

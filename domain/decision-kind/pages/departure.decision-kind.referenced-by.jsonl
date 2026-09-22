@@ -2487,6 +2487,7 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/conjunction.part-of-speech.ts","id":"01a0c60f-289f-7bbf-be7b-ae0e872a03e0"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts","id":"01a0c582-f267-748c-986a-58d52a3bbf3b"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/preposition.part-of-speech.ts","id":"01a0c58e-f68d-7a49-b538-7624b5cec8d5"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/verb.part-of-speech.ts","id":"01a0c677-ca51-7407-b1ca-e2a16319c088"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/phrase-kind/pages/noun-group.phrase-kind.ts","id":"01a0c57e-fcdb-7371-b035-b4d46532dfce"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/phrase-kind/pages/noun-run.phrase-kind.ts","id":"01a0c61f-fd05-7af5-b494-15e0c3ced279"}

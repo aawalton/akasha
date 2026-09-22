@@ -12,6 +12,7 @@ export const partOfSpeech = {
     "part-of-speech/preposition",
     "part-of-speech/adjective",
     "part-of-speech/conjunction",
+    "part-of-speech/verb",
   ],
   extends: ["page-type/domain"],
   decisions: [
