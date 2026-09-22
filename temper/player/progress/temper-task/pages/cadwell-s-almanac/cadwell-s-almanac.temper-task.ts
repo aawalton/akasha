@@ -8,7 +8,7 @@ export const cadwellSAlmanac = {
   displayOrder: 13,
   esoCharacterId: "8796093041077613",
   completionCard: "temper-completion-category/characters-cadwells-almanac",
-  dueDate: "2026-09-22",
+  dueDate: "2026-09-23",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
