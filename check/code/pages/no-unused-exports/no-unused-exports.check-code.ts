@@ -204,11 +204,6 @@ export const noUnusedExports = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The name made from a sentence shape's slug is reached by the check reading its predicate.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The `bodyIn` a group's code exports is reached by the group writing its file.",
     },
     {

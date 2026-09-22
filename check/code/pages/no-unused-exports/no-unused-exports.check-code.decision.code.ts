@@ -90,8 +90,6 @@ const SHAPE = "folder-shape"
 
 const HOLDS = "HOLDS"
 
-const SENTENCE = "sentence-shape"
-
 const CODE = "code"
 
 const WRITES = "bodyIn"
@@ -270,7 +268,6 @@ function reachedBeside(said: Parted): ReadonlySet<string> | null {
   if (besideCode(said, RULE)) return new Set([MARK])
   if (besideCode(said, SHAPE)) return new Set([HOLDS])
   if (besideCode(said, CHECK)) return new Set([exportedAs(said.slug)])
-  if (besideCode(said, SENTENCE)) return new Set([exportedAs(said.slug)])
   return null
 }
 
