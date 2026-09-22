@@ -175,7 +175,8 @@ export const indexSurface = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A worktree is a root of its own, so a worktree is answered an index of its own.",
+      statement:
+        "A tree pinned under the git directory is a root of its own, so that tree is answered its own index.",
     },
     {
       decisionKind: "decision-kind/departure",
