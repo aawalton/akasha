@@ -44,7 +44,6 @@ import {
   ScrollRestoration,
   useRouteLoaderData,
 } from "react-router"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
 const HOME_PATH = "/home"
