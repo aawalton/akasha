@@ -1,9 +1,9 @@
 import type { Carried } from "akasha/check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { namesIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { partedIn as nameParted } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import {
   slugsIn,
   textAt,
@@ -88,7 +88,7 @@ export function partedIn(value: Value | null): ReadonlySet<string> {
   return found
 }
 
-export function everyType(shadow: Shadow, carried: readonly Carried[]): readonly PageType[] {
+export function everyType(paged: Paged, carried: readonly Carried[]): readonly PageType[] {
   const found: PageType[] = []
   const held = new Set<string>()
   for (const one of carried) {
@@ -97,8 +97,8 @@ export function everyType(shadow: Shadow, carried: readonly Carried[]): readonly
     held.add(slug)
     found.push({ slug, path: one.path, value: one.value })
   }
-  for (const at of shadow.index.everyOfType(PAGE_TYPE)) {
-    const value = shadow.pageOf(at.path)
+  for (const at of paged.index.everyOfType(PAGE_TYPE)) {
+    const value = paged.pageOf(at.path)
     const slug = value === null ? null : textAt(value, SLUG)
     if (slug === null || held.has(slug)) continue
     held.add(slug)
