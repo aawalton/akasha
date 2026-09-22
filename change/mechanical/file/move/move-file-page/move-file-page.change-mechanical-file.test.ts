@@ -6,6 +6,8 @@ import {
   landingFor,
   runChange,
 } from "akasha/change/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"
+import { changeMechanicalFolder } from "akasha/change/mechanical/folder/change-mechanical-folder.page-type.ts"
+import { moveFolder } from "akasha/change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
@@ -107,6 +109,70 @@ test("each file is carried by the change for the kind of file that file is", asy
   const address = `${changeMechanical.slug}/${moveFileCode.slug}`
 
   expect(reached.filter((one) => one === address)).toHaveLength(2)
+})
+
+const MODULE = "module"
+
+const ROUTES_AT = ".react-router"
+
+const FOLDER_PAGE = "akasha/seven/foldered.module.ts"
+
+const FOLDER_INTO = "akasha/carried/foldered.module.ts"
+
+const FOLDER_HELD = `akasha/seven/${ROUTES_AT}/types/routes.ts`
+
+const FOLDER_LANDED = `akasha/carried/${ROUTES_AT}/types/routes.ts`
+
+function folderingPage(routes: boolean): Readonly<Record<string, string>> {
+  return {
+    [FOLDER_PAGE]: pageOf({
+      id: idOf("e"),
+      pageTypeSlug: MODULE,
+      slug: "foldered",
+      definition: "a page claiming a folder of its own",
+      code: "ts",
+      routes,
+    }),
+  }
+}
+
+function folderingWorld(root: string, reached: string[] = []): World {
+  const world = worldIn(root, reached)
+  return {
+    ...world,
+    index: {
+      ...world.index,
+      folderPropertiesAt: () => new Map([[MODULE, new Map([["routes", ROUTES_AT]])]]),
+    },
+  }
+}
+
+test("a folder the page claims is carried to the folder the page lands in", async () => {
+  const root = indexedRepo({ ...folderingPage(true), [FOLDER_HELD]: "export const routes = 1\n" })
+  const said = await runChange(folderingWorld(root), { from: FOLDER_PAGE, to: FOLDER_INTO })
+
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([
+    [FOLDER_PAGE, FOLDER_INTO],
+    [FOLDER_HELD, FOLDER_LANDED],
+  ])
+})
+
+test("that carry is left to the change moving a folder", async () => {
+  const reached: string[] = []
+  const root = indexedRepo({ ...folderingPage(true), [FOLDER_HELD]: "export const routes = 1\n" })
+  await runChange(folderingWorld(root, reached), { from: FOLDER_PAGE, to: FOLDER_INTO })
+  const address = `${changeMechanicalFolder.slug}/${moveFolder.slug}`
+
+  expect(reached.filter((one) => one === address)).toHaveLength(1)
+})
+
+test("a folder the world holds no file under is left out of that answer", async () => {
+  const root = indexedRepo(folderingPage(true))
+  const said = await runChange(folderingWorld(root), { from: FOLDER_PAGE, to: FOLDER_INTO })
+
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([[FOLDER_PAGE, FOLDER_INTO]])
 })
 
 test("a file the page claims and no body sits at is passed over", async () => {
