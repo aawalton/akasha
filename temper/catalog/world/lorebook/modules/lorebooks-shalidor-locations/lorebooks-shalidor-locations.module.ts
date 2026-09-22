@@ -9,7 +9,7 @@ export const lorebooksShalidorLocations = {
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The runs are gathered in the order the whole table names.",
+      statement: "The sets are gathered in the order the whole table names.",
     },
   ],
 } as const satisfies Module
