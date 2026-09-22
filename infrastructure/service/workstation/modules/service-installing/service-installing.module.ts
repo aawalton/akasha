@@ -122,5 +122,9 @@ export const serviceInstalling = {
       decisionKind: "decision-kind/departure",
       statement: "A shared unit accounts for itself, so nothing removes it or calls it stranded.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A unit whose service restarts itself is named to be restarted by nothing.",
+    },
   ],
 } as const satisfies Module

@@ -58,6 +58,7 @@ export const serviceWorkstation = {
     "text-property/wants",
     "module/service-telling",
     "module/service-bundling",
+    "boolean-property/restarts-itself",
   ],
   properties: [
     { pageProperty: "boolean-property/enabled", required: true, many: false },
@@ -93,6 +94,7 @@ export const serviceWorkstation = {
     },
     { pageProperty: "module-property-group/running", required: false, many: false },
     { pageProperty: "boolean-property/told", required: false, many: false },
+    { pageProperty: "boolean-property/restarts-itself", required: false, many: false },
   ],
   decisions: [
     {

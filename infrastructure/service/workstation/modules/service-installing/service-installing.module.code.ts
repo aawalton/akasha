@@ -135,7 +135,7 @@ export function planFor(
     if (one.service.enabled) enable.push(named)
     else stop.push(named)
     if (one.service.enabled && !isScheduled(one) && restarting.has(one.service.slug)) {
-      restart.push(serviceUnitName(one))
+      if (one.service.restartsItself !== true) restart.push(serviceUnitName(one))
     }
   }
   const ours = new Set(write.keys())

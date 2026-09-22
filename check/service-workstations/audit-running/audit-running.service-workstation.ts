@@ -10,6 +10,7 @@ export const auditRunning = {
   needsSecrets: false,
   port: 8788,
   binds: ["127.0.0.1"],
+  restartsItself: true,
   systemd: {
     restartDelaySeconds: 1,
     startLimitIntervalSeconds: 0,
@@ -92,6 +93,14 @@ export const auditRunning = {
     {
       decisionKind: "decision-kind/absence",
       statement: "No caller of the audit service is asked for a credential.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy leaves this service running rather than ending the round underway.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This service leaves for code that moved as the round it is in ends.",
     },
   ],
 } as const satisfies ServiceWorkstation

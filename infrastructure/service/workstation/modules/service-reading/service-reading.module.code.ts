@@ -127,6 +127,7 @@ export function serviceIn(
   const port = value.port
   const worksWithinSeconds = value.worksWithinSeconds
   const told = value.told
+  const restartsItself = value.restartsItself
   return {
     id,
     type: namedAs(PAGE_TYPE, SERVICE_PAGE_TYPE, null),
@@ -139,6 +140,7 @@ export function serviceIn(
     ...(typeof port === "number" ? { port } : {}),
     ...(typeof worksWithinSeconds === "number" ? { worksWithinSeconds } : {}),
     ...(typeof told === "boolean" ? { told } : {}),
+    ...(typeof restartsItself === "boolean" ? { restartsItself } : {}),
   }
 }
 

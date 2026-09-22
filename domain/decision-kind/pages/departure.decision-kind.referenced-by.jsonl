@@ -2886,6 +2886,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/properties/needs-secrets.boolean-property.ts","id":"01a05a3f-b42c-7a21-9e12-f4819b25195b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/properties/part-of.text-property.ts","id":"01a06738-9f12-752f-bea5-7ff5466aeba0"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/properties/port.number-property.ts","id":"01a05a3f-b42c-7733-9676-76de6ffa5b35"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/workstation/properties/restarts-itself.boolean-property.ts","id":"01a0ca3d-01c0-739a-8d70-ecc6dfd5642f"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/properties/running.module-property-group.ts","id":"01a0917c-bda7-752a-b5cf-3d8419423042"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/properties/schedule.text-property.ts","id":"01a05a3f-b42e-78d1-a00b-e982e5830c5c"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/properties/start-limit-interval-seconds.number-property.ts","id":"01a06738-9f12-7438-a51b-8c1408e6e9b7"}
