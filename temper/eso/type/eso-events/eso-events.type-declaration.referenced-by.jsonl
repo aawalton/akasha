@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-init/leads-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-cache/histoire-cache.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-startup/histoire-startup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-cache/sales-history-cache.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-startup/sales-history-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/catalog-entry/catalog-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-entry/characters-entry.module.code.ts"}

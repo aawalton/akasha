@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const histoireLegacyEventId = {
-  id: "01a06197-4c96-7eab-9a7b-40266320a46d",
-  type: "page-type/module",
-  slug: "histoire-legacy-event-id",
-  definition: "an event id turned into the 64 bit id the older library used",
-  code: "ts",
-} as const satisfies Module

@@ -1,0 +1,9 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const salesHistoryCompatibility = {
+  id: "01a06197-4c92-7d6d-bba3-586ef7ec2705",
+  type: "page-type/module",
+  slug: "sales-history-compatibility",
+  definition: "every part of the older library's names loaded in order",
+  code: "ts",
+} as const satisfies Module

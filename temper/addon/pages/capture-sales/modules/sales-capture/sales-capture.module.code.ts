@@ -3,7 +3,7 @@ import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 
-import { lib as history } from "akasha/temper/addon/pages/capture-sales/modules/histoire-state/histoire-state.module.code.ts"
+import { lib as history } from "akasha/temper/addon/pages/capture-sales/modules/sales-history-state/sales-history-state.module.code.ts"
 import type { SalesPayload } from "akasha/temper/capture/sale/modules/sales-payload/sales-payload.module.code.ts"
 
 interface GuildHistoryTraderEventInfo {

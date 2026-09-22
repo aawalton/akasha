@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-adapter-gap-rows/histoire-adapter-gap-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-window-shared/histoire-status-window-shared.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-adapter-gap-rows/sales-history-adapter-gap-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-window-rows/sales-history-status-window-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-window-shared/sales-history-status-window-shared.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-list-build/lib-sets-search-ui-list-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-list-class/shifter-list-class.module.code.ts"}

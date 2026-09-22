@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-adapter-gap-rows/histoire-adapter-gap-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-cache-status-bar/histoire-cache-status-bar.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-window-row-helpers/histoire-status-window-row-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-window/histoire-status-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-adapter-gap-rows/sales-history-adapter-gap-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-cache-status-bar/sales-history-cache-status-bar.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-window-row-helpers/sales-history-status-window-row-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-window/sales-history-status-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}

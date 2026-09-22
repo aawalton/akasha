@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-cache-status-bar/histoire-cache-status-bar.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-dialogs/histoire-dialogs.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-server-request-manager/histoire-server-request-manager.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-window-row-helpers/histoire-status-window-row-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-window/histoire-status-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-cache-status-bar/sales-history-cache-status-bar.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-dialogs/sales-history-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-server-request-manager/sales-history-server-request-manager.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-tooltip/sales-history-status-tooltip.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-window-row-helpers/sales-history-status-window-row-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-window/sales-history-status-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/slash-commander-descriptions/slash-commander-descriptions.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-comboboxes/housing-comboboxes.module.code.ts"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-startup/histoire-startup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-state/histoire-state.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-startup/sales-history-startup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-state/sales-history-state.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-tooltip/sales-history-status-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-daily-writs/characters-daily-writs.module.code.ts"}

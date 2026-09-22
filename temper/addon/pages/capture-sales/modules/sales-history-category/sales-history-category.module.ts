@@ -1,0 +1,9 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const salesHistoryCategory = {
+  id: "01a06197-4c8d-738e-85a4-1417a14b3031",
+  type: "page-type/module",
+  slug: "sales-history-category",
+  definition: "every part a category cache is built from loaded in order",
+  code: "ts",
+} as const satisfies Module

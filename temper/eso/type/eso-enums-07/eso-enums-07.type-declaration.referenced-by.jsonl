@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-category-requests/histoire-category-requests.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-legacy-event-format/histoire-legacy-event-format.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-capture/sales-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-category-requests/sales-history-category-requests.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-legacy-event-format/sales-history-legacy-event-format.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-bag-size/characters-bag-size.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-events-build/characters-events-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-constants/combat-lib-constants.module.code.ts"}
