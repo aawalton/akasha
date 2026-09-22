@@ -6,11 +6,11 @@ export const temperScribedSkill = {
   slug: "temper-scribed-skill",
   definition: "a skill written out of a grimoire and its scripts",
   extends: ["page-type/temper-skill"],
-  parts: ["relation-property/focus-script-id", "text-property/grimoire-id"],
+  parts: ["relation-property/focus-script-id", "relation-property/grimoire-id"],
   properties: [
     { pageProperty: "text-property/icon", required: true, many: false },
     { pageProperty: "relation-property/focus-script-id", required: true, many: false },
-    { pageProperty: "text-property/grimoire-id", required: true, many: false },
+    { pageProperty: "relation-property/grimoire-id", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",

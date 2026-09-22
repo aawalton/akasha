@@ -564,7 +564,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/properties/base-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/properties/skill-status.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/ability-icon.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/temper-scribed-skill/properties/grimoire-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/temper-scribing-source/properties/script-type.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/temper-script/properties/slot-type.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/thing/properties/achievement-name.text-property.ts"}

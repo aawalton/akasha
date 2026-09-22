@@ -11,3 +11,4 @@
 {"propertySlug":"import","fileName":"temper-grimoire.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/pages/vault/vault.temper-grimoire.ts"}
 {"propertySlug":"import","fileName":"temper-grimoire.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/pages/wield-soul/wield-soul.temper-grimoire.ts"}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
+{"propertySlug":"target-page-type","path":"temper/catalog/skill/temper-scribed-skill/properties/grimoire-id.relation-property.ts","id":"01a05fca-cb83-73a3-afc2-bf571210f393"}
