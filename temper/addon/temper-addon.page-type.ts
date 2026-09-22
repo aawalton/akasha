@@ -6,7 +6,7 @@ export const temperAddon = {
   slug: "temper-addon",
   definition: "a thing the game loads out of its AddOns folder",
   parts: [
-    "file-property/addon-git-ignore",
+    "file-property/git-ignore",
     "file-property/addon-manifest",
     "file-property/bindings",
     "file-property/sibling-manifest",
@@ -48,7 +48,7 @@ export const temperAddon = {
       many: true,
       maxCount: null,
     },
-    { pageProperty: "file-property/addon-git-ignore", required: false, many: false },
+    { pageProperty: "file-property/git-ignore", required: false, many: false },
     { pageProperty: "file-property/sibling-manifest", required: false, many: false },
     {
       pageProperty: "named-folder-property/addon-icons-folder",

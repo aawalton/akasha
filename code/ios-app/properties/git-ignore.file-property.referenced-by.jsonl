@@ -1,5 +1,8 @@
 {"propertySlug":"import","fileName":"git-ignore.file-property.types.ts","path":"code/ios-app/ios-app.page-type.types.ts"}
 {"propertySlug":"import","fileName":"git-ignore.file-property.types.ts","path":"code/rust-crate/rust-crate.page-type.types.ts"}
+{"propertySlug":"import","fileName":"git-ignore.file-property.types.ts","path":"temper/addon/temper-addon.page-type.types.ts"}
 {"propertySlug":"page-property","path":"code/ios-app/ios-app.page-type.ts","id":"01a05821-5723-7e65-88e2-045d3e49cb23"}
 {"propertySlug":"page-property","path":"code/rust-crate/rust-crate.page-type.ts","id":"01a0602d-6ad2-7a2e-8686-1b1cf565107a"}
+{"propertySlug":"page-property","path":"temper/addon/temper-addon.page-type.ts","id":"01a06036-9b77-710a-8ddc-ee7c58591896"}
 {"propertySlug":"parts","path":"code/ios-app/ios-app.page-type.ts","id":"01a05821-5723-7e65-88e2-045d3e49cb23"}
+{"propertySlug":"parts","path":"temper/addon/temper-addon.page-type.ts","id":"01a06036-9b77-710a-8ddc-ee7c58591896"}

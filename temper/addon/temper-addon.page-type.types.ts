@@ -1,9 +1,9 @@
+import type { GitIgnore } from "akasha/code/ios-app/properties/git-ignore.file-property.types.ts"
 import type { Service } from "akasha/infrastructure/service/service.page-type.types.ts"
 import type { AddonArtFolder } from "akasha/temper/addon/properties/addon-art-folder.named-folder-property.types.ts"
 import type { AddonBinFolder } from "akasha/temper/addon/properties/addon-bin-folder.named-folder-property.types.ts"
 import type { AddonDdsFile } from "akasha/temper/addon/properties/addon-dds-file.named-extension-property.types.ts"
 import type { AddonDdsFolder } from "akasha/temper/addon/properties/addon-dds-folder.named-folder-property.types.ts"
-import type { AddonGitIgnore } from "akasha/temper/addon/properties/addon-git-ignore.file-property.types.ts"
 import type { AddonIconsFolder } from "akasha/temper/addon/properties/addon-icons-folder.named-folder-property.types.ts"
 import type { AddonImageFolder } from "akasha/temper/addon/properties/addon-image-folder.named-folder-property.types.ts"
 import type { AddonLibrary } from "akasha/temper/addon/properties/addon-library.boolean-property.types.ts"
@@ -20,7 +20,7 @@ export type TemperAddon = Service & {
   bindings?: Bindings
   interfaces?: EsoInterfaces
   luaModules?: LuaModules
-  gitIgnore?: AddonGitIgnore
+  gitIgnore?: GitIgnore
   siblingManifest?: SiblingManifest
   addonIconsFolder?: AddonIconsFolder
   addonDdsFolder?: AddonDdsFolder

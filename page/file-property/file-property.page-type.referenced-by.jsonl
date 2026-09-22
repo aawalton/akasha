@@ -129,7 +129,6 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/story-premise.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/stories/played/elements/properties/turn-states.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/stories/played/properties/prose.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/addon/properties/addon-git-ignore.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/addon/properties/addon-manifest.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/addon/properties/bindings.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/addon/properties/sibling-manifest.file-property.ts"}
