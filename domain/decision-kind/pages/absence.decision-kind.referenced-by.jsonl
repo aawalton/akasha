@@ -241,6 +241,7 @@
 {"propertySlug":"decision-kind","path":"alan/book/pages/learn-everything/topic/learn-everything-topic.page-type.ts","id":"01a0659f-93da-7011-b26e-605cb6f32b8f"}
 {"propertySlug":"decision-kind","path":"alan/car-research/car-make/car-make.page-type.ts","id":"01a0659e-e27a-7b1f-bb44-5601b4fc9699"}
 {"propertySlug":"decision-kind","path":"alan/car-research/car/car.page-type.ts","id":"01a065a0-0000-7000-8000-000000000401"}
+{"propertySlug":"decision-kind","path":"alan/chess/progress/properties/motif-id.text-property.ts","id":"01a06582-bd62-7e31-83b4-f252d4b9e91c"}
 {"propertySlug":"decision-kind","path":"alan/chess/puzzle-set/properties/puzzles.page-property-entry.ts","id":"01a06582-bd62-7cb1-8ecf-f95e81141aa9"}
 {"propertySlug":"decision-kind","path":"alan/collection/external/modules/external-identity-reading/external-identity-reading.module.ts","id":"01a09bf4-84e9-7269-b76b-4b3efbc8d34a"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/great-courses.domain.ts","id":"01a06579-f3d9-7008-be12-f37f13da607b"}

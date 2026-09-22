@@ -8,5 +8,11 @@ export const motifId = {
   definition: "a motif's Lichess theme",
   maxLength: 100,
   nameFormat: null,
+  decisions: [
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A Lichess theme is no page.",
+    },
+  ],
   types: "ts",
 } as const satisfies TextProperty
