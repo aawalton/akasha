@@ -4,7 +4,7 @@ export const seatStartGuard = {
   id: "01a09c46-7450-76f1-bb55-13db5f6c98fd",
   type: "page-type/domain",
   slug: "seat-start-guard",
-  definition: "whether a seat may take the name it states",
+  definition: "what a seat start refuses",
   parts: [
     "module/agent-name-bind",
     "module/seat-name-bind",
