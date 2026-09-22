@@ -14,11 +14,11 @@ import { appending } from "akasha/page/service/modules/page-appending/page-appen
 import {
   answeringWithin,
   asking,
-  shaping,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { foldedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { placing } from "akasha/page/service/modules/page-placing/page-placing.module.code.ts"
 import { reading } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
+import { shaping } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
 import type {
   Asked,
   Kept,

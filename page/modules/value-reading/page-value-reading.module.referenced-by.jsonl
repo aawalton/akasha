@@ -326,6 +326,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.test.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/where-testing/where-testing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.code.ts"}

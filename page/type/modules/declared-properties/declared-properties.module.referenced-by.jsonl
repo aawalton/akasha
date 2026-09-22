@@ -66,6 +66,7 @@
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.code.ts"}
+{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/type/modules/type-schema/type-schema.module.code.ts"}

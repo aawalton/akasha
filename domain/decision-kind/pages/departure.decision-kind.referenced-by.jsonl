@@ -3105,6 +3105,7 @@
 {"propertySlug":"decision-kind","path":"page/service/modules/page-putting/page-putting.module.ts","id":"01a0c943-9a75-7159-95f4-e5966596feda"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-reading/page-reading.module.ts","id":"01a05b1e-1347-77b8-9b46-d0b4f449e698"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-serving/page-serving.module.ts","id":"01a05a0c-e821-77b9-8798-ffe359e087ba"}
+{"propertySlug":"decision-kind","path":"page/service/modules/page-shaping/page-shaping.module.ts","id":"01a0c9a9-c5ec-7648-8037-793824183f8e"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-writing/page-writing.module.ts","id":"01a05abd-fe05-794d-8493-811846971bf6"}
 {"propertySlug":"decision-kind","path":"page/service/modules/pages-foldered/pages-foldered.module.ts","id":"01a0a5a9-545f-783d-8733-5a27ccc6ba98"}
 {"propertySlug":"decision-kind","path":"page/service/modules/where-testing/where-testing.module.ts","id":"01a05bdd-d54c-7989-aac7-52cb42d778c4"}

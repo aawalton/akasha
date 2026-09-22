@@ -6,13 +6,13 @@ import type {
   Query,
   Row,
   Asked as Rows,
-  Shaped,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import type {
   Read,
   Asked as Sought,
 } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
+import type { Shaped } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
 import type {
   Kept,
   Put,

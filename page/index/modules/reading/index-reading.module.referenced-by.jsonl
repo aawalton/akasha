@@ -297,6 +297,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/service/modules/page-reading/page-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/type/modules/descent/page-type-descent.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/type/modules/descent/page-type-descent.module.test.ts"}

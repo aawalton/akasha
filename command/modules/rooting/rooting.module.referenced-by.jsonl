@@ -165,6 +165,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/service/modules/page-listening/page-listening.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"temper/addon/build/resolve/modules/addon-roster/addon-roster.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.test-fixtures.ts","path":"command/modules/rooting/rooting.module.test.ts"}

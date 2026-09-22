@@ -3,12 +3,8 @@ import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-w
 import {
   askedFor,
   asking,
-  ownerFor,
-  shaping,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
-  climbedInRepo,
-  climbedInTypes,
   kinds,
   levels,
   modelTests,
@@ -20,27 +16,6 @@ import {
 } from "akasha/page/service/modules/page-asking/page-asking.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
-
-test("a page type naming one above it reads the owner that climb carries", () => {
-  expect(ownerFor(climbedInRepo, "temper-catalog-thing")).toBe("account-page")
-  expect(ownerFor(climbedInRepo, "decision-kind")).toBeNull()
-})
-
-test("the owner is read from the second page type above where the first states none", () => {
-  expect(ownerFor(climbedInTypes, "stated")).toBe("account-page")
-})
-
-test("the owner is taken from the nearer of the page types above", () => {
-  expect(ownerFor(climbedInTypes, "nearer")).toBe("apart-owner")
-})
-
-test("where two page types above are equally near, the owner is the last one named", () => {
-  expect(ownerFor(climbedInTypes, "tied")).toBe("second-owner")
-})
-
-test("a page type above that nothing holds stops no other climb", () => {
-  expect(ownerFor(climbedInTypes, "missing")).toBe("there-owner")
-})
 
 test("every page of a type is answered", () => {
   const rows = rowsOf(asking(root, { pageTypeSlug: "decision-kind" }))
@@ -319,13 +294,6 @@ test("what a query asks for is every key it names, each under where it named it"
     ["slug", "keys"],
     ["definition", "keys"],
   ])
-})
-
-test("a declaration is titled by its own property slug rather than by the definition", () => {
-  const shaped = shaping(root, "decision-kind")
-  const declarations = "shape" in shaped ? (shaped.shape?.declarations ?? []) : []
-  const found = declarations.find((one) => one.key === "decision-group")
-  expect(found?.title).toBe("Decision Group")
 })
 
 test("a question naming no calculated key takes what the unlimited question takes", () => {
