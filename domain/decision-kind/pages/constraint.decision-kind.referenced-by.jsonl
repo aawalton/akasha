@@ -663,11 +663,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-tooltip/scrollable-menu-util-tooltip.module.ts","id":"01a06275-c44a-7df7-b767-4561076aeb19"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-visible/scrollable-menu-util-visible.module.ts","id":"01a06275-c44a-7e89-9fe5-5c2fe3ca230b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/temper-lib-scrollable-menu.temper-addon.ts","id":"01a06275-c44a-71b2-a8e1-108e1c1dfd4b"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/quests-auto-quest/quests-auto-quest.module.ts","id":"01a0635f-391c-7561-9ad8-9f05904aa99c"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/quests-chatter-name-tables/quests-chatter-name-tables.module.ts","id":"01a0635f-391c-79f3-87e1-6c303b4a5402"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/quests-classify/quests-classify.module.ts","id":"01a0635f-391c-79c4-8464-429301bdaa3c"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/quests-saved-variables/quests-saved-variables.module.ts","id":"01a0635f-391c-721c-be7d-e4fb741328a6"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/quests/temper-addon-quests.temper-addon.ts","id":"01a0635f-391c-765a-af94-26f3ecd9702f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/trading/modules/trading-prune/trading-prune.module.ts","id":"01a06160-2a5b-7de7-92b4-c3276f6bde81"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/modules/destinations-champions-data-00/destinations-champions-data-00.module.ts","id":"01a06269-29b1-7b29-b8ee-a46bec573c41"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/modules/destinations-champions-data-01/destinations-champions-data-01.module.ts","id":"01a06269-29b2-77c6-8646-fad9d5832e09"}
@@ -797,6 +792,10 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/modules/map-pins-unknown-poi-04/map-pins-unknown-poi-04.module.ts","id":"01a06269-2b07-7350-94f2-869b00dfcf30"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/modules/map-pins-unknown-poi-05/map-pins-unknown-poi-05.module.ts","id":"01a06269-2b08-7090-94dc-573ef206ca16"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/modules/map-pins-unknown-poi-06/map-pins-unknown-poi-06.module.ts","id":"01a06269-2b0a-724e-9c85-f4d096833121"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/modules/quests-auto-quest/quests-auto-quest.module.ts","id":"01a0635f-391c-7561-9ad8-9f05904aa99c"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/modules/quests-chatter-name-tables/quests-chatter-name-tables.module.ts","id":"01a0635f-391c-79f3-87e1-6c303b4a5402"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/modules/quests-classify/quests-classify.module.ts","id":"01a0635f-391c-79c4-8464-429301bdaa3c"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/modules/quests-saved-variables/quests-saved-variables.module.ts","id":"01a0635f-391c-721c-be7d-e4fb741328a6"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/log/modules/library-logger/library-logger.module.ts","id":"01a090e5-9062-788e-8317-a0e2f1dee9b7"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/narrow/modules/is-callback/is-callback.module.ts","id":"01a08e19-c569-71cc-8644-64f32991852e"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/narrow/modules/lua-string-contains/lua-string-contains.module.ts","id":"01a08e17-f876-773e-b52a-6d8f314fa4fa"}
