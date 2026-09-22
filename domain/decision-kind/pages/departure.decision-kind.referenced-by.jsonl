@@ -2477,6 +2477,7 @@
 {"propertySlug":"decision-kind","path":"domain/sentence-shape/partitive-quantifier/partitive-quantifier.sentence-shape.ts","id":"01a05dbf-e1d9-7c3c-bbef-a99bc4bf3d63"}
 {"propertySlug":"decision-kind","path":"domain/sentence-shape/sentence-shape.page-type.ts","id":"01a05da1-60fc-76ca-8503-b43deb6d5f53"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/construction.page-type.ts","id":"01a0c57b-2a6d-776f-861f-adfa84782205"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts","id":"01a0c67a-50ad-7181-9d2e-827c9c7d8f18"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/properties/written-from.one-of-property.ts","id":"01a0c57a-e7ac-7d09-ad25-98343aab07cf"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.ts","id":"01a0c5a0-dcdf-78bc-b3a9-d53923805df8"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.ts","id":"01a08220-6498-71cb-af30-b73f6642f5fe"}

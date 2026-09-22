@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/noun-group-with-a-determiner.construction.ts"}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/noun-group-with-an-adjective.construction.ts"}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/noun-run-alone.construction.ts"}
+{"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts"}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-preposition-phrase.construction.ts"}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/noun-with-a-noun-run.construction.ts"}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/preposition-with-a-noun-phrase.construction.ts"}

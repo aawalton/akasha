@@ -24,6 +24,7 @@ export const construction = {
     "construction/domain-definition-with-a-conjunction",
     "construction/noun-with-a-noun-run",
     "construction/noun-run-alone",
+    "construction/noun-run-with-a-clause",
   ],
   extends: ["page-type/domain"],
   properties: [

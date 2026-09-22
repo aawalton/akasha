@@ -3,7 +3,9 @@
 {"propertySlug":"parts","path":"domain/standard-agent-english/phrase-kind/phrase-kind.page-type.ts","id":"01a0c576-2e1a-7996-8a94-9a7d80b20c55"}
 {"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-group-with-an-adjective.construction.ts","id":"01a0c5f9-391e-719d-9f02-bb4b63c6b37a"}
 {"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-run-alone.construction.ts","id":"01a0c620-6a9c-787c-8e9b-8cbfd5e20a22"}
+{"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts","id":"01a0c67a-50ad-7181-9d2e-827c9c7d8f18"}
 {"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-preposition-phrase.construction.ts","id":"01a0c593-5e0a-7a00-be0b-096d9a7ee6bb"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-group-alone.construction.ts","id":"01a0c57f-2d90-7475-a1a4-587ac08f0ec0"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-group-with-a-determiner.construction.ts","id":"01a0c58c-287b-70be-abf3-05d84f4c124b"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-group-with-an-adjective.construction.ts","id":"01a0c5f9-391e-719d-9f02-bb4b63c6b37a"}
+{"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts","id":"01a0c67a-50ad-7181-9d2e-827c9c7d8f18"}
