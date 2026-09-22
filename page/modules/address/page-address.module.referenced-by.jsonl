@@ -99,6 +99,8 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/panel/modules/panel-loading/panel-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/turn/modules/turn-state/turn-state.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/turn/modules/turn-state/turn-state.module.test.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/item/modules/character-items-beside/character-items-beside.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/item/modules/character-items-beside/character-items-beside.module.test.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.code.ts"}

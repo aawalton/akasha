@@ -12,6 +12,7 @@ export const item = {
     "relation-property/item-slot",
     "relation-property/item-story",
     "page-type/item-slot",
+    "module/character-items-beside",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
