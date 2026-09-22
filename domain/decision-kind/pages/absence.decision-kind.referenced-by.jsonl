@@ -1416,7 +1416,6 @@
 {"propertySlug":"decision-kind","path":"file/disk/modules/whole-writing/whole-writing.module.ts","id":"01a09429-a77b-7673-8ae4-d384444c7b7a"}
 {"propertySlug":"decision-kind","path":"file/modules/git-place/git-place.module.ts","id":"01a05361-09df-7452-a3cc-9443498c1d89"}
 {"propertySlug":"decision-kind","path":"file/modules/lock-holder/lock-holder.module.ts","id":"01a05231-61c5-7336-8fa7-302f778209a9"}
-{"propertySlug":"decision-kind","path":"git/modules/commit-checkout/commit-checkout.module.ts","id":"01a0c9a0-60b4-71ba-858f-0defe52ed5f0"}
 {"propertySlug":"decision-kind","path":"git/modules/commit-reading/commit-reading.module.ts","id":"01a0523f-0e48-7c39-8708-125994cc3e59"}
 {"propertySlug":"decision-kind","path":"git/modules/committing/committing.module.ts","id":"01a0501a-b83f-7707-afd1-d497b00b4868"}
 {"propertySlug":"decision-kind","path":"git/modules/dir/git-dir.module.ts","id":"01a091c8-bebb-7cc6-ac6a-ed37511fe84b"}

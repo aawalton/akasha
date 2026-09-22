@@ -32,7 +32,6 @@
 {"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"command/pages/measure/repo/modules/repo-measuring/repo-measuring.module.test.ts"}
 {"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"command/pages/measure/round/measure-round.command.test.ts"}
 {"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"command/pages/measure/test/measure-test.command.test.ts"}
-{"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"git/modules/commit-checkout/commit-checkout.module.test.ts"}
 {"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"page/index/modules/generated-properties/generated-properties.module.test.ts"}
 {"propertySlug":"import","fileName":"putting.test-fixture.code.ts","path":"page/index/modules/surface/index-surface.module.test.ts"}

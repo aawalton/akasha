@@ -8,7 +8,6 @@ export const git = {
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "git" }],
   parts: [
     "domain/oid",
-    "module/commit-checkout",
     "module/commit-reading",
     "module/committing",
     "module/git-answering",

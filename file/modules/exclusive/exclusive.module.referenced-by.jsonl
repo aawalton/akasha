@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"exclusive.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"exclusive.module.code.ts","path":"check/modules/cost/check-cost.module.code.ts"}
 {"propertySlug":"import","fileName":"exclusive.module.code.ts","path":"command/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.code.ts"}
-{"propertySlug":"import","fileName":"exclusive.module.code.ts","path":"git/modules/commit-checkout/commit-checkout.module.code.ts"}
 {"propertySlug":"import","fileName":"exclusive.module.code.ts","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"}
 {"propertySlug":"import","fileName":"exclusive.module.code.ts","path":"page/modules/record-sweeping/record-sweeping.module.code.ts"}
 {"propertySlug":"parts","path":"file/file.domain.ts","id":"01a049e9-651c-7004-a164-c9c8df818b18"}
