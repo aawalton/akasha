@@ -5,7 +5,7 @@ export const relationshipTopicPeople = {
   type: "page-type/relation-property",
   slug: "relationship-topic-people",
   propertySlug: "relationship-topic-people",
-  definition: "the people this topic is held with",
+  definition: "this topic's people",
   targetPageType: "page-type/person",
   types: "ts",
 } as const satisfies RelationProperty

@@ -5,7 +5,7 @@ export const gbwwPlanYear = {
   type: "page-type/number-property",
   slug: "gbww-plan-year",
   propertySlug: "plan-year",
-  definition: "which of the plan's ten years a reading falls in",
+  definition: "which of the plan's ten years holds a reading",
   max: 10,
   types: "ts",
 } as const satisfies NumberProperty

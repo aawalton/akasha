@@ -4,8 +4,7 @@ export const inboxKeys = {
   id: "01a069b6-bb6b-72d1-9b42-d54723ee2e36",
   type: "page-type/module",
   slug: "inbox-keys",
-  definition:
-    "the inboxes counted, and the day-page key each count and each clearing is written under",
+  definition: "the inboxes counted, and the day-page key for each count and each clearing",
   code: "ts",
   decisions: [
     {

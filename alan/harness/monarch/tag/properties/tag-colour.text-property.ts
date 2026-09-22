@@ -5,7 +5,7 @@ export const tagColour = {
   type: "page-type/text-property",
   slug: "tag-colour",
   propertySlug: "tag-colour",
-  definition: "the colour Monarch draws a tag in",
+  definition: "a tag's colour in Monarch",
   maxLength: 7,
   nameFormat: null,
   decisions: [

@@ -5,7 +5,7 @@ export const equipment = {
   type: "page-type/relation-property",
   slug: "equipment",
   propertySlug: "equipment",
-  definition: "the kit the movement is loaded with",
+  definition: "the kit loading the movement",
   targetPageType: "page-type/strength-exercise-implement",
   types: "ts",
 } as const satisfies RelationProperty

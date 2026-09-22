@@ -4,7 +4,7 @@ export const fitnessEquipment = {
   id: "01a06834-ca86-76cb-a54a-6f86a5225afc",
   type: "page-type/page-type",
   slug: "fitness-equipment",
-  definition: "a piece of kit Alan can load a movement with",
+  definition: "a piece of kit loading a movement for Alan",
   extends: ["page-type/page"],
   parts: [
     "boolean-property/fitness-equipment-available",

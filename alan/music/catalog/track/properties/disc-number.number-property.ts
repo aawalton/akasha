@@ -5,7 +5,7 @@ export const discNumber = {
   type: "page-type/number-property",
   slug: "disc-number",
   propertySlug: "disc-number",
-  definition: "which disc of a release a track sits on",
+  definition: "a track's disc within a release",
   max: null,
   decisions: [
     {

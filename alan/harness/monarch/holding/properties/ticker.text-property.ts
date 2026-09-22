@@ -5,7 +5,7 @@ export const ticker = {
   type: "page-type/text-property",
   slug: "ticker",
   propertySlug: "ticker",
-  definition: "the short name a security trades under",
+  definition: "a security's short trading name",
   maxLength: 12,
   nameFormat: null,
   types: "ts",

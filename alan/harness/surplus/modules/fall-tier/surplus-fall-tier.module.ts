@@ -4,8 +4,7 @@ export const surplusFallTier = {
   id: "01a0697e-ded3-7adb-9d6e-f852cfc9ffd7",
   type: "page-type/module",
   slug: "surplus-fall-tier",
-  definition:
-    "the order a tier's colors run in, and whether today has gone below the color it opened at",
+  definition: "a tier's color order, and whether today has gone below its opening color",
   code: "ts",
   decisions: [
     {

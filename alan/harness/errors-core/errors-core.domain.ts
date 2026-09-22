@@ -4,7 +4,7 @@ export const errorsCore = {
   id: "01a05c48-deeb-7013-b082-9b135a70f3cc",
   type: "page-type/domain",
   slug: "errors-core",
-  definition: "a caught error reduced to what can be reported, compared and exited on",
+  definition: "a caught error reduced to what a report, a comparison and an exit need",
 
   parts: [
     "module/error-fingerprint",

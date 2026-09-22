@@ -4,7 +4,7 @@ export const simRunTree = {
   id: "01a05cee-e560-74ed-a1cf-c9f340983fda",
   type: "page-type/module",
   slug: "sim-run-tree",
-  definition: "the repo-root paths a mobile sim run is built from",
+  definition: "the repo-root paths building a mobile sim run",
   code: "ts",
   test: "ts",
   decisions: [
