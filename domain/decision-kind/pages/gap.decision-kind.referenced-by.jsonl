@@ -407,7 +407,6 @@
 {"propertySlug":"decision-kind","path":"story/world/properties/character-slug.text-property.ts","id":"01a063ce-6216-7006-8542-b3d67f43dc56"}
 {"propertySlug":"decision-kind","path":"story/world/properties/mechanic-slug.text-property.ts","id":"01a063ce-6216-7007-b529-a31661f9223d"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/elements/story-element-played.page-type.ts","id":"01a06828-cb9a-765c-a42b-ad24c065bb9b"}
-{"propertySlug":"decision-kind","path":"story/world/stories/played/turns/story-turn-played.page-type.ts","id":"01a064bc-8477-7bac-98ec-152da07077ce"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/chapters/properties/chronology-anchors.page-property-entry.ts","id":"01a0685e-ef8a-71e6-87f4-7f7e2c65e093"}
 {"propertySlug":"decision-kind","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/eso-sandbox-manifest/eso-sandbox-manifest.module.ts","id":"01a06365-e827-7000-b4e8-c281707e413b"}

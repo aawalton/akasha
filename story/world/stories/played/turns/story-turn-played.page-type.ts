@@ -23,7 +23,7 @@ export const storyTurnPlayed = {
       statement: "A turn's slug opens with the story the turn is part of.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A turn's text is kept here alone rather than also in a game's rows.",
     },
   ],
