@@ -64,6 +64,7 @@ export function setupMenu(this: void, charId: string): undefined {
   const lam = TemperAddonMenu
   const sv = requireSVar()
   const options = requireOptions()
+  const panelId = "TemperPlayerSkillPointFinder"
   const addonName = GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_TITLE)
 
   const charSettings = (): Settings => {
@@ -396,5 +397,5 @@ export function setupMenu(this: void, charId: string): undefined {
     },
   ]
 
-  registerPanel(lam, addonName, panelData, optionsTable)
+  registerPanel(lam, panelId, panelData, optionsTable)
 }
