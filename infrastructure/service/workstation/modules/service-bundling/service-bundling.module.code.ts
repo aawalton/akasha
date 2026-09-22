@@ -47,7 +47,14 @@ const APART = "\0"
 
 const NAMED_AT_MOST = 12
 
-export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set(["service-watching"])
+export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set([
+  "inbox-tracking-poll",
+  "monarch-poll",
+  "monarch-reading-service",
+  "send-due-reminders",
+  "service-watching",
+  "sweep-stray-processes",
+])
 
 const LEFT_FOR_RUNTIME: Readonly<Record<string, string>> = {
   "chromium-bidi":

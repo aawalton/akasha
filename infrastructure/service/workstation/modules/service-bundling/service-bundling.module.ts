@@ -140,10 +140,7 @@ export const serviceBundling = {
       decisionKind: "decision-kind/departure",
       statement: "A service named here starts from its bundle rather than from the pinned tree.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "`service-watching` is the one service named here.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
