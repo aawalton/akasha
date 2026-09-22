@@ -10,6 +10,7 @@ export const resource = {
     "number-property/resource-max-value",
     "number-property/resource-min-value",
     "number-property/resource-value",
+    "page-type/health",
   ],
   properties: [
     { pageProperty: "number-property/resource-value", required: true, many: false },
