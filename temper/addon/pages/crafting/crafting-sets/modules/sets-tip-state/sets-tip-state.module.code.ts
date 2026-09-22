@@ -43,7 +43,7 @@ export interface TooltipState {
 
   scratch: DropMechanicScratch
 
-  libSetsSearchUIShared: { [key: string]: unknown } | undefined
+  setsSearchUIShared: { [key: string]: unknown } | undefined
   allSetNamesCached: { [setId: number]: { [lang: string]: string } } | undefined
 }
 
@@ -90,6 +90,6 @@ export const STATE: TooltipState = {
     dropMechanicTabTheSame: undefined,
   },
 
-  libSetsSearchUIShared: undefined,
+  setsSearchUIShared: undefined,
   allSetNamesCached: undefined,
 }

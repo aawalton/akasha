@@ -39,7 +39,7 @@ function settingsView(this: void): StrRecordOpt {
 
 const globalTable = asGlobalTable(globalThis)
 
-function libSetsSearchUISharedControlTooltip(
+function setsSearchUISharedControlTooltip(
   this: void,
   control: SearchUIControl | undefined,
   myAnchorPointIn?: number,
@@ -72,7 +72,7 @@ function libSetsSearchUISharedControlTooltip(
   SetTooltipText(TT_Text, tooltipText)
 }
 
-function libSetsSearchUISharedSortHeaderTooltip(
+function setsSearchUISharedSortHeaderTooltip(
   this: void,
   sortHeaderColumn: SearchUIControl | undefined
 ): undefined {
@@ -87,7 +87,7 @@ function libSetsSearchUISharedSortHeaderTooltip(
   }
 }
 
-function libSetsSearchUISharedDropdownOnMouseUp(
+function setsSearchUISharedDropdownOnMouseUp(
   this: void,
   dropdownControl: SearchUIControl,
   mouseButton: number,
@@ -110,7 +110,7 @@ function libSetsSearchUISharedDropdownOnMouseUp(
   }
 }
 
-function libSetsSearchUISharedRowOnMouseUp(
+function setsSearchUISharedRowOnMouseUp(
   this: void,
   rowControl: SearchUIControl,
   mouseButton: number,
@@ -133,7 +133,7 @@ function libSetsSearchUISharedRowOnMouseUp(
   }
 }
 
-function libSetsSearchUISharedRowOnMouseEnter(this: void, rowControl: SearchUIControl): undefined {
+function setsSearchUISharedRowOnMouseEnter(this: void, rowControl: SearchUIControl): undefined {
   if (settingsView()?.showSetSearchDropLocationTooltip !== true) {
     ZO_Tooltips_HideTextTooltip()
   }
@@ -150,7 +150,7 @@ function libSetsSearchUISharedRowOnMouseEnter(this: void, rowControl: SearchUICo
   }
 }
 
-function libSetsSearchUISharedRowOnMouseExit(this: void, rowControl: SearchUIControl): undefined {
+function setsSearchUISharedRowOnMouseExit(this: void, rowControl: SearchUIControl): undefined {
   ZO_Tooltips_HideTextTooltip()
   if (IsInGamepadPreferredMode()) {
     const gamepad = getGamepadSearchUI()
@@ -165,7 +165,7 @@ function libSetsSearchUISharedRowOnMouseExit(this: void, rowControl: SearchUICon
   }
 }
 
-export function libSetsSearchUISharedBringWindowToTop(this: void): undefined {
+export function setsSearchUISharedBringWindowToTop(this: void): undefined {
   if (IsInGamepadPreferredMode()) {
   } else {
     const keyboard = getKeyboardSearchUI()
@@ -175,7 +175,7 @@ export function libSetsSearchUISharedBringWindowToTop(this: void): undefined {
   }
 }
 
-export function libSetsSearchUISharedToggleUI(this: void, slashOptions?: unknown): undefined {
+export function setsSearchUISharedToggleUI(this: void, slashOptions?: unknown): undefined {
   if (IsInGamepadPreferredMode()) {
     const gamepad = getGamepadSearchUI()
     if (gamepad !== undefined) {
@@ -189,7 +189,7 @@ export function libSetsSearchUISharedToggleUI(this: void, slashOptions?: unknown
   }
 }
 
-export function libSetsSearchUISharedIsShown(this: void): boolean | undefined {
+export function setsSearchUISharedIsShown(this: void): boolean | undefined {
   if (IsInGamepadPreferredMode()) {
     const gamepad = getGamepadSearchUI()
     if (gamepad !== undefined) {
@@ -204,7 +204,7 @@ export function libSetsSearchUISharedIsShown(this: void): boolean | undefined {
   return undefined
 }
 
-export function libSetsSearchUISharedUpdateSearch(this: void, slashOptions?: unknown): undefined {
+export function setsSearchUISharedUpdateSearch(this: void, slashOptions?: unknown): undefined {
   if (IsInGamepadPreferredMode()) {
     const gamepad = getGamepadSearchUI()
     if (gamepad !== undefined) {
@@ -218,12 +218,12 @@ export function libSetsSearchUISharedUpdateSearch(this: void, slashOptions?: unk
   }
 }
 
-globalTable.LibSets_SearchUI_Shared_ControlTooltip = libSetsSearchUISharedControlTooltip
-globalTable.LibSets_SearchUI_Shared_SortHeaderTooltip = libSetsSearchUISharedSortHeaderTooltip
-globalTable.LibSets_SearchUI_Shared_Dropdown_OnMouseUp = libSetsSearchUISharedDropdownOnMouseUp
-globalTable.LibSets_SearchUI_Shared_Row_OnMouseUp = libSetsSearchUISharedRowOnMouseUp
-globalTable.LibSets_SearchUI_Shared_Row_OnMouseEnter = libSetsSearchUISharedRowOnMouseEnter
-globalTable.LibSets_SearchUI_Shared_Row_OnMouseExit = libSetsSearchUISharedRowOnMouseExit
+globalTable.LibSets_SearchUI_Shared_ControlTooltip = setsSearchUISharedControlTooltip
+globalTable.LibSets_SearchUI_Shared_SortHeaderTooltip = setsSearchUISharedSortHeaderTooltip
+globalTable.LibSets_SearchUI_Shared_Dropdown_OnMouseUp = setsSearchUISharedDropdownOnMouseUp
+globalTable.LibSets_SearchUI_Shared_Row_OnMouseUp = setsSearchUISharedRowOnMouseUp
+globalTable.LibSets_SearchUI_Shared_Row_OnMouseEnter = setsSearchUISharedRowOnMouseEnter
+globalTable.LibSets_SearchUI_Shared_Row_OnMouseExit = setsSearchUISharedRowOnMouseExit
 
 asSharedClassGlobalThis(globalThis).LibSets_SearchUI_Shared =
   brandSharedSearchUIClassGlobal(sharedClass)

@@ -9,7 +9,7 @@ import {
   getKeyboardSearchUIClass,
   getKeyboardSearchUIClassForOverride,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-keyboard-class/sets-search-ui-keyboard-class.module.code.ts"
-import { libSetsSearchUIKeyboardTopLevelOnResize } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-keyboard-search-handlers/sets-search-ui-keyboard-search-handlers.module.code.ts"
+import { setsSearchUIKeyboardTopLevelOnResize } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-keyboard-search-handlers/sets-search-ui-keyboard-search-handlers.module.code.ts"
 import { getSharedSuper } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
 import {
   searchUI,
@@ -174,7 +174,7 @@ keyboardOverride.ShowUI = function (
   }
 
   sharedSuper.ShowUI(this)
-  libSetsSearchUIKeyboardTopLevelOnResize(this.control, false, true)
+  setsSearchUIKeyboardTopLevelOnResize(this.control, false, true)
 
   this.UpdateSearchParamsFromSlashcommand(slashOptions)
 }
