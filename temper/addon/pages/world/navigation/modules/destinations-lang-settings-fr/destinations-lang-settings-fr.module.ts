@@ -9,7 +9,7 @@ export const destinationsLangSettingsFr = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The table is the runs joined in order.",
+      statement: "The table is the sets joined in order.",
     },
   ],
 } as const satisfies Module
