@@ -4,9 +4,9 @@ import type {
   Judging,
   Standing,
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const SHAPE = "folder-shape"
 
@@ -51,10 +51,14 @@ export function judgedBy(shape: Shape, standing: Standing): readonly string[] {
   return [`it is named \`${named}\` rather than ${saidAs(shape.holds)}`]
 }
 
-export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
+export type Loading = Paged & {
+  readonly codeAt: (path: string) => string | null
+}
+
+export function shapesIn(root: string, loading: Loading): readonly Shape[] {
   const found: Shape[] = []
-  for (const one of shadow.index.everyOfType(SHAPE)) {
-    const value = shadow.pageOf(one.path)
+  for (const one of loading.index.everyOfType(SHAPE)) {
+    const value = loading.pageOf(one.path)
     if (value === null) {
       throw new Error(
         `${one.path} is a folder shape, and its page reads as nothing, so whether it judges folders cannot be read`
@@ -76,7 +80,7 @@ export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
         `${one.path} is a folder shape, and no code file can sit beside a name like it`
       )
     }
-    const codePath = shadow.codeAt(beside)
+    const codePath = loading.codeAt(beside)
     if (codePath === null) {
       throw new Error(
         `${one.path} is a folder shape, and this change leaves ${beside} holding a body no path on disk holds, so it cannot be loaded to judge by`

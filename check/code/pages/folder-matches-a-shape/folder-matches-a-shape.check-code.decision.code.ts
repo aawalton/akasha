@@ -19,6 +19,7 @@ import {
 import { pluralsIn } from "akasha/check/code/pages/folder-matches-a-shape/modules/plural-gathering/plural-gathering.module.code.ts"
 import {
   judgedBy,
+  type Loading,
   namesHeldBy,
   shapesIn,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts"
@@ -50,7 +51,6 @@ import {
   heldIn,
   partedIn,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { textsAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { openingWith } from "akasha/page/naming/modules/folder-named/folder-named.module.code.ts"
 
@@ -303,13 +303,13 @@ export function addressingOver(index: Paged): (at: string) => readonly string[] 
 const anything = (): boolean => true
 
 function namingParts(
-  shadow: Shadow,
+  index: Answering,
   grouped: Grouped,
   parts: (page: Held) => readonly string[]
 ): (page: Held) => readonly string[] {
-  const carrying = (named: string): Carried => shadow.index.carryingOf(named)
+  const carrying = (named: string): Carried => index.carryingOf(named)
   const namedIn = wantedOver(grouped, (one) =>
-    heldNamed(one, extensionsFor(shadow.index), anything, carrying)
+    heldNamed(one, extensionsFor(index), anything, carrying)
   )
   return (page) => {
     const found = parts(page)
@@ -345,9 +345,13 @@ function claimingOver(
   return claiming
 }
 
+export type Seeing = Loading & {
+  readonly listed: (folder: string) => readonly string[]
+}
+
 export type Reading = {
   readonly root: string
-  readonly shadow: Shadow
+  readonly seeing: Seeing
   readonly grouped: Grouped
 }
 
@@ -358,14 +362,14 @@ export type Judging = {
 }
 
 export function judgingOver(given: Reading): Judging {
-  const index = given.shadow.index
+  const index = given.seeing.index
   const grouped = given.grouped
-  const shapes = shapesIn(given.root, given.shadow)
+  const shapes = shapesIn(given.root, given.seeing)
   const pageTypes = index.pageTypesIn()
   const stated = index.fileKeysAt()
   const fileProperties = new Set<string>(stated.keys())
   const filing = namesFiling(stated)
-  const paging = pagingBy((folder) => given.shadow.listed(folder))
+  const paging = pagingBy((folder) => given.seeing.listed(folder))
   let known: Known | null = null
   const admits = new Map<string, ReadonlySet<string>>()
   const extending = (pageTypeSlug: string, wanted: string): boolean => {
@@ -384,7 +388,7 @@ export function judgingOver(given: Reading): Judging {
   const heldNames = new Set<string>([...namesHeldBy(shapes), ...plurals.keys()])
   const namedFor = namingOver(holds, heldNames)
   const parts = namingParts(
-    given.shadow,
+    index,
     grouped,
     partsOver(
       index,

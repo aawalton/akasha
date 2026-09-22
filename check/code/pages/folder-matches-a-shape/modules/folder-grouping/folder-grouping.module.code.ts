@@ -23,11 +23,13 @@ export type Grouped = {
 
 const nothingGenerated = (): boolean => false
 
-export function groupedOver(
-  change: Change,
-  generated: (path: string) => boolean = nothingGenerated
+function groupingOn(
+  root: string,
+  base: string | null,
+  paths: readonly string[],
+  there: (path: string) => boolean,
+  generated: (path: string) => boolean
 ): Grouped {
-  const base = change.base ?? null
   const added = new Map<string, Set<string>>()
   const gone = new Map<string, Set<string>>()
   const opened = new Map<string, Set<string>>()
@@ -36,8 +38,8 @@ export function groupedOver(
     if (kept === undefined) held.set(at, new Set<string>([one]))
     else kept.add(one)
   }
-  for (const one of change.changed) {
-    if (change.after(one) === null) {
+  for (const one of paths) {
+    if (!there(one)) {
       into(gone, folderOf(one), one)
       continue
     }
@@ -51,7 +53,7 @@ export function groupedOver(
     at: (folder) => {
       const found = files.get(folder)
       if (found !== undefined) return found
-      const held = new Set<string>(filesIn(change.root, folder, base))
+      const held = new Set<string>(filesIn(root, folder, base))
       for (const one of added.get(folder) ?? []) held.add(one)
       for (const one of gone.get(folder) ?? []) held.delete(one)
       const made = [...held].sort().filter((one) => !generated(one))
@@ -61,7 +63,7 @@ export function groupedOver(
     foldersIn: (folder) => {
       const found = folders.get(folder)
       if (found !== undefined) return found
-      const held = new Set<string>(foldersIn(change.root, folder, base))
+      const held = new Set<string>(foldersIn(root, folder, base))
       for (const one of opened.get(folder) ?? []) held.add(one)
       const made = [...held].sort().filter((one) => !holdsNothing(grouped, one))
       folders.set(folder, made)
@@ -69,6 +71,28 @@ export function groupedOver(
     },
   }
   return grouped
+}
+
+export function groupedOver(
+  change: Change,
+  generated: (path: string) => boolean = nothingGenerated
+): Grouped {
+  return groupingOn(
+    change.root,
+    change.base ?? null,
+    change.changed,
+    (path) => change.after(path) !== null,
+    generated
+  )
+}
+
+export function groupedIn(
+  root: string,
+  paths: readonly string[],
+  there: (path: string) => boolean,
+  generated: (path: string) => boolean = nothingGenerated
+): Grouped {
+  return groupingOn(root, null, paths, there, generated)
 }
 
 export function holdsNothing(grouped: Grouped, folder: string): boolean {
