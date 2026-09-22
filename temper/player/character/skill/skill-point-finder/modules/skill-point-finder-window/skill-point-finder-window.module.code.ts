@@ -30,115 +30,118 @@ export function toggleWindow(this: void): undefined {
   if (STATE.active) {
     updateDataLines()
   }
-  SCENE_MANAGER.ToggleTopLevel(USPF_GUI)
+  SCENE_MANAGER.ToggleTopLevel(TemperCharactersSkillPointFinder_GUI)
 }
 
 export function setupValues(this: void): undefined {
   refreshData()
 
-  USPF_GUI.ClearAnchors()
-  USPF_GUI.SetAnchor(CENTER, GuiRoot, CENTER, 0, 0)
-  USPF_GUI.SetHeight(
-    USPF_GUI_Header.GetHeight() + requireGui().PDGBE.length * 18 + USPF_GUI_Footer.GetHeight() + 304
+  TemperCharactersSkillPointFinder_GUI.ClearAnchors()
+  TemperCharactersSkillPointFinder_GUI.SetAnchor(CENTER, GuiRoot, CENTER, 0, 0)
+  TemperCharactersSkillPointFinder_GUI.SetHeight(
+    TemperCharactersSkillPointFinder_GUI_Header.GetHeight() +
+      requireGui().PDGBE.length * 18 +
+      TemperCharactersSkillPointFinder_GUI_Footer.GetHeight() +
+      304
   )
 
   const titleFont = requireOptions().Font.Fonts[STATE.settings.title.font] ?? ""
   const smallFont = `${titleFont}|14`
 
-  USPF_GUI_Header_Title.SetFont(`${titleFont}|30`)
-  USPF_GUI_Body_GSP.SetFont(`${titleFont}|16`)
-  USPF_GUI_Body_GSP_T.SetFont(smallFont)
+  TemperCharactersSkillPointFinder_GUI_Header_Title.SetFont(`${titleFont}|30`)
+  TemperCharactersSkillPointFinder_GUI_Body_GSP.SetFont(`${titleFont}|16`)
+  TemperCharactersSkillPointFinder_GUI_Body_GSP_T.SetFont(smallFont)
 
-  USPF_GUI_Body_SQS.SetFont(`${titleFont}|16`)
-  USPF_GUI_Body_SQS_Z_T.SetFont(smallFont)
-  USPF_GUI_Body_SQS_SL_T.SetFont(smallFont)
-  USPF_GUI_Body_SQS_SS_T.SetFont(smallFont)
+  TemperCharactersSkillPointFinder_GUI_Body_SQS.SetFont(`${titleFont}|16`)
+  TemperCharactersSkillPointFinder_GUI_Body_SQS_Z_T.SetFont(smallFont)
+  TemperCharactersSkillPointFinder_GUI_Body_SQS_SL_T.SetFont(smallFont)
+  TemperCharactersSkillPointFinder_GUI_Body_SQS_SS_T.SetFont(smallFont)
 
-  USPF_GUI_Body_GDQ.SetFont(`${titleFont}|16`)
-  USPF_GUI_Body_GDQ_T.SetFont(smallFont)
+  TemperCharactersSkillPointFinder_GUI_Body_GDQ.SetFont(`${titleFont}|16`)
+  TemperCharactersSkillPointFinder_GUI_Body_GDQ_T.SetFont(smallFont)
 
-  USPF_GUI_Body_PDGBE.SetFont(`${titleFont}|16`)
-  USPF_GUI_Body_PDGBE_T.SetFont(smallFont)
+  TemperCharactersSkillPointFinder_GUI_Body_PDGBE.SetFont(`${titleFont}|16`)
+  TemperCharactersSkillPointFinder_GUI_Body_PDGBE_T.SetFont(smallFont)
 
-  USPF_GUI_Footer_CharacterTotal.SetFont(`${titleFont}|24`)
+  TemperCharactersSkillPointFinder_GUI_Footer_CharacterTotal.SetFont(`${titleFont}|24`)
 
   ZO_ScrollList_AddDataType<ListLine, UspfRowControl>(
-    USPF_GUI_Body_SQS_ListHolder,
+    TemperCharactersSkillPointFinder_GUI_Body_SQS_ListHolder,
     LIST_DATA_TYPE,
-    "USPF_SQSSTemplate",
+    "TemperCharactersSkillPointFinder_SQSSTemplate",
     18,
     (control, data) => {
       setupSqsItem(control, data)
     }
   )
   ZO_ScrollList_AddDataType<ListLine>(
-    USPF_GUI_Body_SQS_ListHolder,
+    TemperCharactersSkillPointFinder_GUI_Body_SQS_ListHolder,
     LIST_SEPARATOR_TYPE,
-    "USPF_ListSeparator",
+    "TemperCharactersSkillPointFinder_ListSeparator",
     2,
     () => {}
   )
   ZO_ScrollList_AddDataType<ListLine, UspfRowControl>(
-    USPF_GUI_Body_GDQ_ListHolder,
+    TemperCharactersSkillPointFinder_GUI_Body_GDQ_ListHolder,
     LIST_DATA_TYPE,
-    "USPF_GDQTemplate",
+    "TemperCharactersSkillPointFinder_GDQTemplate",
     18,
     (control, data) => {
       setupGdqItem(control, data, STATE.settings.GDQ.font)
     }
   )
   ZO_ScrollList_AddDataType<ListLine>(
-    USPF_GUI_Body_GDQ_ListHolder,
+    TemperCharactersSkillPointFinder_GUI_Body_GDQ_ListHolder,
     LIST_SEPARATOR_TYPE,
-    "USPF_ListSeparator",
+    "TemperCharactersSkillPointFinder_ListSeparator",
     2,
     () => {}
   )
   ZO_ScrollList_AddDataType<ListLine, UspfRowControl>(
-    USPF_GUI_Body_GDQ2_ListHolder,
+    TemperCharactersSkillPointFinder_GUI_Body_GDQ2_ListHolder,
     LIST_DATA_TYPE,
-    "USPF_GDQTemplate",
+    "TemperCharactersSkillPointFinder_GDQTemplate",
     18,
     (control, data) => {
       setupGdqItem(control, data, STATE.settings.GDQ.font)
     }
   )
   ZO_ScrollList_AddDataType<ListLine>(
-    USPF_GUI_Body_GDQ2_ListHolder,
+    TemperCharactersSkillPointFinder_GUI_Body_GDQ2_ListHolder,
     LIST_SEPARATOR_TYPE,
-    "USPF_ListSeparator",
+    "TemperCharactersSkillPointFinder_ListSeparator",
     2,
     () => {}
   )
   ZO_ScrollList_AddDataType<ListLine, UspfRowControl>(
-    USPF_GUI_Body_PDGBE_ListHolder,
+    TemperCharactersSkillPointFinder_GUI_Body_PDGBE_ListHolder,
     LIST_DATA_TYPE,
-    "USPF_PDGBETemplate",
+    "TemperCharactersSkillPointFinder_PDGBETemplate",
     18,
     (control, data) => {
       setupGdqItem(control, data, STATE.settings.PDB.font)
     }
   )
   ZO_ScrollList_AddDataType<ListLine>(
-    USPF_GUI_Body_PDGBE_ListHolder,
+    TemperCharactersSkillPointFinder_GUI_Body_PDGBE_ListHolder,
     LIST_SEPARATOR_TYPE,
-    "USPF_ListSeparator",
+    "TemperCharactersSkillPointFinder_ListSeparator",
     2,
     () => {}
   )
   ZO_ScrollList_AddDataType<ListLine, UspfRowControl>(
-    USPF_GUI_Body_GSP_ListHolder,
+    TemperCharactersSkillPointFinder_GUI_Body_GSP_ListHolder,
     LIST_DATA_TYPE,
-    "USPF_GeneralTemplate",
+    "TemperCharactersSkillPointFinder_GeneralTemplate",
     18,
     (control, data) => {
       setupGeneralItem(control, data)
     }
   )
   ZO_ScrollList_AddDataType<ListLine>(
-    USPF_GUI_Body_GSP_ListHolder,
+    TemperCharactersSkillPointFinder_GUI_Body_GSP_ListHolder,
     LIST_SEPARATOR_TYPE,
-    "USPF_ListSeparator",
+    "TemperCharactersSkillPointFinder_ListSeparator",
     2,
     () => {}
   )

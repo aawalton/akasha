@@ -31,7 +31,7 @@ function onItemSelect(this: void, _comboBox: ComboBox, choiceText: string): unde
 }
 
 function createCharList(this: void): undefined {
-  const container = USPF_GUI_Header_CharList
+  const container = TemperCharactersSkillPointFinder_GUI_Header_CharList
   container.comboBox = container.comboBox ?? ZO_ComboBox_ObjectFromContainer(container)
   const comboBox = container.comboBox
 
@@ -119,7 +119,7 @@ export function initSetup(this: void): undefined {
 export function resetSelectedCharacter(this: void): undefined {
   const currentCharId = GetCurrentCharacterId()
   if (STATE.selectedChar !== currentCharId) {
-    const container = USPF_GUI_Header_CharList
+    const container = TemperCharactersSkillPointFinder_GUI_Header_CharList
     container.comboBox = container.comboBox ?? ZO_ComboBox_ObjectFromContainer(container)
     const comboBox = container.comboBox
 

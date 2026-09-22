@@ -195,25 +195,27 @@ export function updateDataLines(this: void): undefined {
     })
   }
 
-  USPF_GUI_Body_SQS_Z_T.data = { tooltipText: getTooltipZoneTotal() }
+  TemperCharactersSkillPointFinder_GUI_Body_SQS_Z_T.data = { tooltipText: getTooltipZoneTotal() }
 
-  updateListData(USPF_GUI_Body_GSP_ListHolder, dataLinesGSP)
-  updateListData(USPF_GUI_Body_SQS_ListHolder, dataLinesSQS)
-  updateListData(USPF_GUI_Body_GDQ_ListHolder, dataLinesGDQ)
-  updateListData(USPF_GUI_Body_GDQ2_ListHolder, dataLinesGDQ2)
-  updateListData(USPF_GUI_Body_PDGBE_ListHolder, dataLinesPDGBE)
+  updateListData(TemperCharactersSkillPointFinder_GUI_Body_GSP_ListHolder, dataLinesGSP)
+  updateListData(TemperCharactersSkillPointFinder_GUI_Body_SQS_ListHolder, dataLinesSQS)
+  updateListData(TemperCharactersSkillPointFinder_GUI_Body_GDQ_ListHolder, dataLinesGDQ)
+  updateListData(TemperCharactersSkillPointFinder_GUI_Body_GDQ2_ListHolder, dataLinesGDQ2)
+  updateListData(TemperCharactersSkillPointFinder_GUI_Body_PDGBE_ListHolder, dataLinesPDGBE)
 
-  USPF_GUI_Body_GSP_T.SetText(gui.GSP_T)
-  USPF_GUI_Body_SQS_SL_T.SetText(gui.SQS_SL_T)
-  USPF_GUI_Body_SQS_SL_T.data = { tooltipText: getTooltipZoneTotal() }
-  USPF_GUI_Body_SQS_SS_T.SetText(gui.SQS_SS_T)
-  USPF_GUI_Body_SQS_SS_T.data = { tooltipText: getTooltipZoneTotal() }
-  USPF_GUI_Body_GDQ_T.SetText(gui.GDQ_T)
-  USPF_GUI_Body_GDQ_T.data = { tooltipText: getTooltipGDTotal() }
-  USPF_GUI_Body_PDGBE_T.SetText(gui.PDGBE_T)
-  USPF_GUI_Body_PDGBE_T.data = { tooltipText: getTooltipPDTotal() }
-  USPF_GUI_Footer_CharacterTotal.SetText(gui.CharacterTot)
-  USPF_GUI_Footer_CharacterTotal.data = { tooltipText: getTooltipCharacterTotal() }
+  TemperCharactersSkillPointFinder_GUI_Body_GSP_T.SetText(gui.GSP_T)
+  TemperCharactersSkillPointFinder_GUI_Body_SQS_SL_T.SetText(gui.SQS_SL_T)
+  TemperCharactersSkillPointFinder_GUI_Body_SQS_SL_T.data = { tooltipText: getTooltipZoneTotal() }
+  TemperCharactersSkillPointFinder_GUI_Body_SQS_SS_T.SetText(gui.SQS_SS_T)
+  TemperCharactersSkillPointFinder_GUI_Body_SQS_SS_T.data = { tooltipText: getTooltipZoneTotal() }
+  TemperCharactersSkillPointFinder_GUI_Body_GDQ_T.SetText(gui.GDQ_T)
+  TemperCharactersSkillPointFinder_GUI_Body_GDQ_T.data = { tooltipText: getTooltipGDTotal() }
+  TemperCharactersSkillPointFinder_GUI_Body_PDGBE_T.SetText(gui.PDGBE_T)
+  TemperCharactersSkillPointFinder_GUI_Body_PDGBE_T.data = { tooltipText: getTooltipPDTotal() }
+  TemperCharactersSkillPointFinder_GUI_Footer_CharacterTotal.SetText(gui.CharacterTot)
+  TemperCharactersSkillPointFinder_GUI_Footer_CharacterTotal.data = {
+    tooltipText: getTooltipCharacterTotal(),
+  }
 }
 
 function rowFont(this: void, fontName: string): string {

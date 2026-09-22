@@ -1,6 +1,6 @@
 <GuiXml>
 	<Controls>
-		<Control name="USPF_TooltipTarget" virtual="true" mouseEnabled="true">
+		<Control name="TemperCharactersSkillPointFinder_TooltipTarget" virtual="true" mouseEnabled="true">
 			<OnMouseEnter>
 				ZO_Options_OnMouseEnter(self)
 			</OnMouseEnter>
@@ -9,7 +9,7 @@
 			</OnMouseExit>
 		</Control>
 
-		<Control name="USPF_GeneralTemplate" virtual="true" inherits="USPF_TooltipTarget">
+		<Control name="TemperCharactersSkillPointFinder_GeneralTemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 			<Dimensions x="400" y="18" />
 
 			<Controls>
@@ -31,7 +31,7 @@
 		</Control>
 
 
-		<Control name="USPF_SQSSTemplate" virtual="true" inherits="USPF_TooltipTarget">
+		<Control name="TemperCharactersSkillPointFinder_SQSSTemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 			<Dimensions x="300" y="18" />
 			<Controls>
 				<Texture name="$(parent)Bg" textureFile="EsoUI/Art/Miscellaneous/listItem_backdrop.dds" alpha="0.2">
@@ -59,7 +59,7 @@
 		</Control>
 
 
-		<Control name="USPF_GDQTemplate" virtual="true" inherits="USPF_TooltipTarget">
+		<Control name="TemperCharactersSkillPointFinder_GDQTemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 			<Dimensions x="350" y="18" />
 			<Controls>
 				<Texture name="$(parent)Bg" textureFile="EsoUI/Art/Miscellaneous/listItem_backdrop.dds" alpha="0.2">
@@ -87,7 +87,7 @@
 		</Control>
 
 
-		<Control name="USPF_PDGBETemplate" virtual="true" inherits="USPF_TooltipTarget">
+		<Control name="TemperCharactersSkillPointFinder_PDGBETemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 			<Dimensions x="400" y="18" />
 			<Controls>
 				<Texture name="$(parent)Bg" textureFile="EsoUI/Art/Miscellaneous/listItem_backdrop.dds" alpha="0.2">
@@ -113,7 +113,7 @@
 			</Controls>
 		</Control>
 
-		<Control name="USPF_ListSeparator" virtual="true">
+		<Control name="TemperCharactersSkillPointFinder_ListSeparator" virtual="true">
 			<Controls>
 				<Line name="$(parent)_Line" color="FFCCCCCC" thickness="2" pixelRoundingEnabled="true">
 					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="3" offsetY="0" />
@@ -122,7 +122,7 @@
 			</Controls>
 		</Control>
 
-		<TopLevelControl name="USPF_GUI" mouseEnabled="true" movable="true" hidden="true" allowBringToTop="true" tier="HIGH">
+		<TopLevelControl name="TemperCharactersSkillPointFinder_GUI" mouseEnabled="true" movable="true" hidden="true" allowBringToTop="true" tier="HIGH">
 			<Dimensions x="1390" y="750" />
 			<Anchor point="CENTER" relativeTo="GuiRoot" relativePoint="CENTER" offsetX="0" offsetY="0" />
 
@@ -146,7 +146,7 @@
 							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
 							<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
 						</Label>
-						<Control name="$(parent)_CharList" inherits="ZO_ComboBox USPF_TooltipTarget" tier="HIGH">
+						<Control name="$(parent)_CharList" inherits="ZO_ComboBox TemperCharactersSkillPointFinder_TooltipTarget" tier="HIGH">
 							<Dimensions x="250" y="25" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="6" offsetY="6" />
 						</Control>
@@ -185,15 +185,15 @@
 							<Anchor point="TOPRIGHT" relativeTo="$(parent)_SQS" relativePoint="BOTTOMRIGHT" offsetX="16" offsetY="0" />
 						</Control>
 
-						<Label name="$(parent)_SQS_Z_T" font="$(ANTIQUE_FONT)|14" text="USPF_GUI_TOTAL" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="USPF_TooltipTarget">
+						<Label name="$(parent)_SQS_Z_T" font="$(ANTIQUE_FONT)|14" text="USPF_GUI_TOTAL" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 							<Dimensions x="150" y="18" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)_SQS_ListHolder" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
 						</Label>
-						<Label name="$(parent)_SQS_SL_T" font="$(ANTIQUE_FONT)|14" text="" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="USPF_TooltipTarget">
+						<Label name="$(parent)_SQS_SL_T" font="$(ANTIQUE_FONT)|14" text="" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 							<Dimensions x="75" y="18" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)_SQS_Z_T" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
 						</Label>
-						<Label name="$(parent)_SQS_SS_T" font="$(ANTIQUE_FONT)|14" text="" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="USPF_TooltipTarget">
+						<Label name="$(parent)_SQS_SS_T" font="$(ANTIQUE_FONT)|14" text="" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 							<Dimensions x="75" y="18" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)_SQS_SL_T" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
 						</Label>
@@ -215,7 +215,7 @@
 							<Dimensions x="350" />
 							<Anchor point="TOPRIGHT" relativeTo="$(parent)_GDQ" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="0" />
 						</Control>
-						<Label name="$(parent)_GDQ_T" font="$(ANTIQUE_FONT)|14" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="USPF_TooltipTarget">
+						<Label name="$(parent)_GDQ_T" font="$(ANTIQUE_FONT)|14" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 							<Dimensions y="18" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)_GDQ_ListHolder" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
 							<Anchor point="TOPRIGHT" relativeTo="$(parent)_GDQ2_ListHolder" relativePoint="BOTTOMRIGHT" offsetX="-16" offsetY="0" />
@@ -236,7 +236,7 @@
 							<Anchor point="TOPRIGHT" relativeTo="$(parent)_PDGBE" relativePoint="BOTTOMRIGHT" offsetX="16" offsetY="0" />
 						</Control>
 
-						<Label name="$(parent)_PDGBE_T" font="$(ANTIQUE_FONT)|14" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="USPF_TooltipTarget">
+						<Label name="$(parent)_PDGBE_T" font="$(ANTIQUE_FONT)|14" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 							<Dimensions x="400" y="18" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)_PDGBE_ListHolder" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
 						</Label>
@@ -253,7 +253,7 @@
 					<Anchor point="TOPRIGHT" relativeTo="$(parent)_Body" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="12" />
 
 					<Controls>
-						<Label name="$(parent)_CharacterTotal" font="$(ANTIQUE_FONT)|24" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="USPF_TooltipTarget">
+						<Label name="$(parent)_CharacterTotal" font="$(ANTIQUE_FONT)|24" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 							<Dimensions y="48" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
 							<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />

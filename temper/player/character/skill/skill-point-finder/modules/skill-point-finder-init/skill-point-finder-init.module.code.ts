@@ -80,7 +80,7 @@ export function initializeSkillPointFinder(): undefined {
   setupMenu(charId)
   setupValues()
 
-  SCENE_MANAGER.RegisterTopLevel(USPF_GUI, false)
+  SCENE_MANAGER.RegisterTopLevel(TemperCharactersSkillPointFinder_GUI, false)
 
   EVENT_MANAGER.RegisterForEvent(ADDON_NAME, EVENT_SKILL_POINTS_CHANGED, skillPointsUpdate)
   EVENT_MANAGER.RegisterForEvent(ADDON_NAME, EVENT_QUEST_REMOVED, questRemoved)
