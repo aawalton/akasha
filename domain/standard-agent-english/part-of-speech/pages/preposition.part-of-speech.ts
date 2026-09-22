@@ -13,7 +13,7 @@ export const preposition = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "`to` is no preposition here, because that word marks an infinitive as well.",
+      statement: "`to` marking an infinitive does another job, named on no page yet.",
     },
     {
       decisionKind: "decision-kind/departure",
