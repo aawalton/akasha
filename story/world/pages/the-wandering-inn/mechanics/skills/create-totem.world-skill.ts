@@ -6,5 +6,6 @@ export const createTotem = {
   slug: "create-totem",
   title: "Create Totem",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

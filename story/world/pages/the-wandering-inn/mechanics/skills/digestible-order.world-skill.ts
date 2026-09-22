@@ -6,5 +6,6 @@ export const digestibleOrder = {
   slug: "digestible-order",
   title: "Digestible Order",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const dataDiscrepancy = {
   slug: "data-discrepancy",
   title: "Data Discrepancy",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

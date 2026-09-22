@@ -6,5 +6,6 @@ export const detectFlawExtendedRange = {
   slug: "detect-flaw-extended-range",
   title: "Detect Flaw: Extended Range",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

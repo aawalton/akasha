@@ -6,5 +6,6 @@ export const deeperContainer = {
   slug: "deeper-container",
   title: "Deeper Container",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

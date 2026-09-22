@@ -6,5 +6,6 @@ export const delayedCut = {
   slug: "delayed-cut",
   title: "Delayed Cut",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

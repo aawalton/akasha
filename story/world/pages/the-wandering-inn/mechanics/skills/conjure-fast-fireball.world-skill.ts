@@ -6,5 +6,6 @@ export const conjureFastFireball = {
   slug: "conjure-fast-fireball",
   title: "Conjure Fast Fireball",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

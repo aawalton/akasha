@@ -6,5 +6,6 @@ export const controlInsects = {
   slug: "control-insects",
   title: "Control Insects",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

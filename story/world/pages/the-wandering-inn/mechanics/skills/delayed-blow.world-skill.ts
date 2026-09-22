@@ -6,5 +6,6 @@ export const delayedBlow = {
   slug: "delayed-blow",
   title: "Delayed Blow",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

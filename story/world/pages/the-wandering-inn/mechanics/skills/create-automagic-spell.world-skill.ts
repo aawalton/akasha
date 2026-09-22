@@ -6,5 +6,6 @@ export const createAutomagicSpell = {
   slug: "create-automagic-spell",
   title: "Create Automagic Spell",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

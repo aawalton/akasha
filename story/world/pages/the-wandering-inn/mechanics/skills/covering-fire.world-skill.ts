@@ -6,6 +6,7 @@ export const coveringFire = {
   slug: "covering-fire",
   title: "Covering Fire",
   world: "world/the-wandering-inn",
+  appearanceCount: 11,
   aliases: ["COVERING FIRE"],
   evolvesToSlugs: ["covering-fire-piercing-arrows"],
   references: "jsonl",

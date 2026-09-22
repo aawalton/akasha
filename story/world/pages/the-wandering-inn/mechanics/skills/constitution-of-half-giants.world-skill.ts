@@ -6,5 +6,6 @@ export const constitutionOfHalfGiants = {
   slug: "constitution-of-half-giants",
   title: "Constitution of Half-Giants",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

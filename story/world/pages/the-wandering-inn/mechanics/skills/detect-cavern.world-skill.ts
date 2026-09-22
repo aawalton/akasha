@@ -6,5 +6,6 @@ export const detectCavern = {
   slug: "detect-cavern",
   title: "Detect Cavern",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

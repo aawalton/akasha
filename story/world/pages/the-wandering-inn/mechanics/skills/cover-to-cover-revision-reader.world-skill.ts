@@ -6,5 +6,6 @@ export const coverToCoverRevisionReader = {
   slug: "cover-to-cover-revision-reader",
   title: "Cover to Cover, Revision Reader",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

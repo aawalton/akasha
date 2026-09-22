@@ -6,5 +6,6 @@ export const crescentCut = {
   slug: "crescent-cut",
   title: "Crescent Cut",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const crewMyShipIsCrewedByGhosts = {
   slug: "crew-my-ship-is-crewed-by-ghosts",
   title: "Crew: My Ship is Crewed by Ghosts",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

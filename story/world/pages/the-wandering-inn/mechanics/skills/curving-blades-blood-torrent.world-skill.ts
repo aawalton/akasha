@@ -6,5 +6,6 @@ export const curvingBladesBloodTorrent = {
   slug: "curving-blades-blood-torrent",
   title: "Curving Blades, Blood Torrent",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const deepenedMagicalCrystals = {
   slug: "deepened-magical-crystals",
   title: "Deepened Magical Crystals",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

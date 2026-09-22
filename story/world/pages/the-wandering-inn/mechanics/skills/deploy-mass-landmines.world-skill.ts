@@ -6,5 +6,6 @@ export const deployMassLandmines = {
   slug: "deploy-mass-landmines",
   title: "Deploy Mass Landmines",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

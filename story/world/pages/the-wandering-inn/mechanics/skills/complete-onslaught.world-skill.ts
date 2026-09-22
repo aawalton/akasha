@@ -6,5 +6,6 @@ export const completeOnslaught = {
   slug: "complete-onslaught",
   title: "Complete Onslaught",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

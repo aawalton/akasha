@@ -6,5 +6,6 @@ export const couchPotatoExercise = {
   slug: "couch-potato-exercise",
   title: "Couch Potato Exercise",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

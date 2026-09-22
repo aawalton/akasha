@@ -6,5 +6,6 @@ export const concealPresence = {
   slug: "conceal-presence",
   title: "Conceal Presence",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

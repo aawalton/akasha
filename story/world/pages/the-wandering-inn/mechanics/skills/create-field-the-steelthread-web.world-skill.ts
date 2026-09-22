@@ -6,5 +6,6 @@ export const createFieldTheSteelthreadWeb = {
   slug: "create-field-the-steelthread-web",
   title: "Create Field: The Steelthread Web",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

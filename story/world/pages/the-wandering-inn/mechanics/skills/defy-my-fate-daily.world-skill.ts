@@ -6,5 +6,6 @@ export const defyMyFateDaily = {
   slug: "defy-my-fate-daily",
   title: "Defy My Fate (Daily)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

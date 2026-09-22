@@ -6,5 +6,6 @@ export const cutTheTailSaveTheBody = {
   slug: "cut-the-tail-save-the-body",
   title: "Cut the Tail, Save the Body",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,6 +6,7 @@ export const dangersense = {
   slug: "dangersense",
   title: "Dangersense",
   world: "world/the-wandering-inn",
+  appearanceCount: 203,
   aliases: ["dangersenses"],
   references: "jsonl",
 } as const satisfies WorldSkill

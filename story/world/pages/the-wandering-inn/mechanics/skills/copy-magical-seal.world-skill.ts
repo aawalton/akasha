@@ -6,5 +6,6 @@ export const copyMagicalSeal = {
   slug: "copy-magical-seal",
   title: "Copy Magical Seal",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

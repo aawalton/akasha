@@ -6,5 +6,6 @@ export const copyTool = {
   slug: "copy-tool",
   title: "Copy Tool",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

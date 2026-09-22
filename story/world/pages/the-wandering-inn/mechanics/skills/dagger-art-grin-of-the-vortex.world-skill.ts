@@ -6,5 +6,6 @@ export const daggerArtGrinOfTheVortex = {
   slug: "dagger-art-grin-of-the-vortex",
   title: "Dagger Art: Grin of the Vortex",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

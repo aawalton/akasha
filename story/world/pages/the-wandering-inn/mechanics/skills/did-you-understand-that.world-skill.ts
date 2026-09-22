@@ -6,5 +6,6 @@ export const didYouUnderstandThat = {
   slug: "did-you-understand-that",
   title: "Did You Understand That?",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const designateCharitableWork = {
   slug: "designate-charitable-work",
   title: "Designate Charitable Work",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

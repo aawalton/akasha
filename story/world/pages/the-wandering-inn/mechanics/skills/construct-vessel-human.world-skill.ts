@@ -6,5 +6,6 @@ export const constructVesselHuman = {
   slug: "construct-vessel-human",
   title: "Construct Vessel: Human",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const deferDamageSkateboard = {
   slug: "defer-damage-skateboard",
   title: "Defer Damage: Skateboard",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const defySolecismDaily = {
   slug: "defy-solecism-daily",
   title: "Defy Solecism (Daily)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

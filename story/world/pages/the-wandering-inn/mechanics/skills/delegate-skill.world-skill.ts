@@ -6,5 +6,6 @@ export const delegateSkill = {
   slug: "delegate-skill",
   title: "Delegate Skill",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const deployTrapBearTrap = {
   slug: "deploy-trap-bear-trap",
   title: "Deploy Trap: Bear Trap",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

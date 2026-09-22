@@ -6,5 +6,6 @@ export const consumptionIncreaseNutrition = {
   slug: "consumption-increase-nutrition",
   title: "Consumption: Increase Nutrition",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const confidentialSources = {
   slug: "confidential-sources",
   title: "Confidential Sources",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const createBoundTurret = {
   slug: "create-bound-turret",
   title: "Create Bound Turret",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

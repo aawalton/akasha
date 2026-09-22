@@ -6,5 +6,6 @@ export const detectDisloyalty = {
   slug: "detect-disloyalty",
   title: "Detect Disloyalty",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

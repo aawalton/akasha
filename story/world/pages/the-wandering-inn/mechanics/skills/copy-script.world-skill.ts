@@ -6,5 +6,6 @@ export const copyScript = {
   slug: "copy-script",
   title: "Copy Script",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

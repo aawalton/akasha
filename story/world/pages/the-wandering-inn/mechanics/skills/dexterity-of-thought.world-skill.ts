@@ -6,5 +6,6 @@ export const dexterityOfThought = {
   slug: "dexterity-of-thought",
   title: "Dexterity of Thought",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

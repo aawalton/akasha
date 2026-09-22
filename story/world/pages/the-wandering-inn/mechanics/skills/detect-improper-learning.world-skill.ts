@@ -6,5 +6,6 @@ export const detectImproperLearning = {
   slug: "detect-improper-learning",
   title: "Detect Improper Learning",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

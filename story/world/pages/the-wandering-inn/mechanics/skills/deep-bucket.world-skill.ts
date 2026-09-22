@@ -6,5 +6,6 @@ export const deepBucket = {
   slug: "deep-bucket",
   title: "Deep Bucket",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

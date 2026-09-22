@@ -6,5 +6,6 @@ export const counterBackstep = {
   slug: "counter-backstep",
   title: "Counter Backstep",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

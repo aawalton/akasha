@@ -6,5 +6,6 @@ export const copySkill = {
   slug: "copy-skill",
   title: "Copy Skill",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill
