@@ -25,6 +25,10 @@
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/slash-commander-surface/slash-commander-surface.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-tooltip/writ-tooltip.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/zone-dungeon-status/zone-dungeon-status.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/zone-geo-parent/zone-geo-parent.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/zone-internal-helpers/zone-internal-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/zone-queries/zone-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-gui/next-boss-gui.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-dialogs/fco-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-overall/fco-overall.module.code.ts"}
@@ -68,10 +72,6 @@
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-scan-data/lib-sets-debug-debug-scan-data.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-drop-filters/lib-sets-kbf-drop-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-zone/modules/zone-dungeon-status/zone-dungeon-status.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-zone/modules/zone-geo-parent/zone-geo-parent.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-zone/modules/zone-internal-helpers/zone-internal-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-zone/modules/zone-queries/zone-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-compass-achievement-pins/destinations-compass-achievement-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-compass-collectible-fish-pins/destinations-compass-collectible-fish-pins.module.code.ts"}

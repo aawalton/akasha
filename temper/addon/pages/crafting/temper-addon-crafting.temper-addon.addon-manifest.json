@@ -11,7 +11,11 @@
     "TemperCrafting_Character",
     "TemperPotionMaker_SavedVariables",
     "WritWorthyVars",
-    "TemperMasterWritInventoryMarker_SavedVariables"
+    "TemperMasterWritInventoryMarker_SavedVariables",
+    "LibZone_SV_Data",
+    "LibZone_Localized_SV_Data",
+    "LibZone_GeoDebug_SV_Data",
+    "LibZone_Debug_SV_Data"
   ],
   "dependsOn": [
     "LibCharacterKnowledge>=300040",

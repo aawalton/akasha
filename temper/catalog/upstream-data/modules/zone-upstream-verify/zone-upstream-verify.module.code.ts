@@ -1,7 +1,7 @@
 import { join } from "node:path"
-import { GEO_DATA_REFERENCE_TABLE } from "akasha/temper/addon/pages/lib-zone/modules/zone-geo-data/zone-geo-data.module.code.ts"
-import { PRELOADED_ZONE_NAMES } from "akasha/temper/addon/pages/lib-zone/modules/zone-names-data/zone-names-data.module.code.ts"
-import { PUBLIC_DUNGEON_MAP_IDS } from "akasha/temper/addon/pages/lib-zone/modules/zone-public-dungeon-map-ids/zone-public-dungeon-map-ids.module.code.ts"
+import { GEO_DATA_REFERENCE_TABLE } from "akasha/temper/addon/pages/crafting/modules/zone-geo-data/zone-geo-data.module.code.ts"
+import { PRELOADED_ZONE_NAMES } from "akasha/temper/addon/pages/crafting/modules/zone-names-data/zone-names-data.module.code.ts"
+import { PUBLIC_DUNGEON_MAP_IDS } from "akasha/temper/addon/pages/crafting/modules/zone-public-dungeon-map-ids/zone-public-dungeon-map-ids.module.code.ts"
 import { LUA_DUMP } from "akasha/temper/catalog/upstream-data/modules/leaf-dump/leaf-dump.module.code.ts"
 import {
   gathered,

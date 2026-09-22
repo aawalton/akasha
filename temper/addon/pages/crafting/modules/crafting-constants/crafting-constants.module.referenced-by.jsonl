@@ -11,4 +11,5 @@
 {"propertySlug":"import","fileName":"crafting-constants.module.code.ts","path":"temper/addon/pages/crafting/modules/crafting-events/crafting-events.module.code.ts"}
 {"propertySlug":"import","fileName":"crafting-constants.module.code.ts","path":"temper/addon/pages/crafting/modules/crafting-state/crafting-state.module.code.ts"}
 {"propertySlug":"import","fileName":"crafting-constants.module.code.ts","path":"temper/addon/pages/crafting/modules/rune-panel/rune-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"crafting-constants.module.code.ts","path":"temper/addon/pages/crafting/modules/zone-events/zone-events.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/pages/crafting/temper-addon-crafting.temper-addon.ts","id":"01a061c7-e8c6-7757-820f-c90f8d327b2e"}

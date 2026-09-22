@@ -4,4 +4,5 @@
 {"propertySlug":"import","fileName":"slash-commander-surface.module.code.ts","path":"temper/addon/pages/crafting/modules/slash-commander-init/slash-commander-init.module.code.ts"}
 {"propertySlug":"import","fileName":"slash-commander-surface.module.code.ts","path":"temper/addon/pages/crafting/modules/slash-commander-providers/slash-commander-providers.module.code.ts"}
 {"propertySlug":"import","fileName":"slash-commander-surface.module.code.ts","path":"temper/addon/pages/crafting/modules/writ-slash-command/writ-slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"slash-commander-surface.module.code.ts","path":"temper/addon/pages/crafting/modules/zone-casts/zone-casts.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/pages/crafting/temper-addon-crafting.temper-addon.ts","id":"01a061c7-e8c6-7757-820f-c90f8d327b2e"}

@@ -1760,6 +1760,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/price-casts/price-casts.module.ts","id":"01a0615d-c219-7729-a4bf-b8c0493920a7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/slash-commander-casts/slash-commander-casts.module.ts","id":"01a06066-8403-7a32-b1b3-df88bb610cb2"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/zone-casts/zone-casts.module.ts","id":"01a061e7-92f2-790e-b9b3-5b0d9a77cf73"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/errors/modules/errors-addon-build-ids/errors-addon-build-ids.module.ts","id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/errors/temper-addon-errors.temper-addon.ts","id":"01a060d8-091b-75bc-9d03-8347c2e81d2f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/events/modules/next-boss-ui-strings/next-boss-ui-strings.module.ts","id":"01a06157-8357-7537-a6bd-307d783c5836"}
@@ -1841,7 +1842,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-gen-no-set-id-sets/lib-sets-gen-no-set-id-sets.module.ts","id":"01a061d7-7bcd-7e34-9bc0-f2daafdd16c4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-gen-zone-ids-of-newer-api-version/lib-sets-gen-zone-ids-of-newer-api-version.module.ts","id":"01a061fc-cee8-7893-86a9-c6e36f1902df"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-treasure/modules/treasure-casts/treasure-casts.module.ts","id":"01a061d5-d0b3-779c-a12e-41bcbf143e5d"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-zone/modules/zone-casts/zone-casts.module.ts","id":"01a061e7-92f2-790e-b9b3-5b0d9a77cf73"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/navigation/destinations-preview-controls/destinations-preview-controls.type-declaration.ts","id":"01a06269-2b13-7b9c-8e10-1f913f1e6553"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/navigation/minimap-string-ids/minimap-string-ids.type-declaration.ts","id":"01a06269-2b15-7ed4-828d-87a96fe2a139"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/navigation/modules/minimap-view-types/minimap-view-types.module.ts","id":"01a06269-2b11-7ab4-91ef-f78f20b801bc"}

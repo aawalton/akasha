@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-utilities/craft-utilities.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-required-skill/writ-required-skill.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-smithing/writ-smithing.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/zone-dungeon-status/zone-dungeon-status.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-map-pins/quiet-map-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-init-chardata/knowledge-init-chardata.module.code.ts"}
@@ -27,7 +28,6 @@
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-settypes/lib-sets-const-settypes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-saved-variables/lib-sets-core-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-scan-data/lib-sets-debug-debug-scan-data.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/lib-zone/modules/zone-dungeon-status/zone-dungeon-status.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-compass-achievement-pins/destinations-compass-achievement-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-compass-collectible-fish-pins/destinations-compass-collectible-fish-pins.module.code.ts"}

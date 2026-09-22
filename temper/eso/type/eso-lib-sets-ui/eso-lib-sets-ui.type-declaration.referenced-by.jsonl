@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/zone-geo-debug/zone-geo-debug.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-template/scrollable-menu-combobox-base-template.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-options/scrollable-menu-combobox-options.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-all-classdata/lib-sets-const-all-classdata.module.code.ts"}
@@ -10,7 +11,6 @@
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-list-build/lib-sets-search-ui-list-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-preview/lib-sets-tip-preview.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-zone/modules/zone-geo-debug/zone-geo-debug.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-tweaks-refresh-pins/minimap-tweaks-refresh-pins.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}
