@@ -28,6 +28,11 @@ export const dallaResourceManagement = {
         "An audit is a check over the whole tree rather than over what changed, and states a processor ceiling of its own: fifteen seconds usually, twenty for no-relative-specifier, twenty-five for check-reaches-a-path-through-the-index, and a hundred and twenty for no-unused-exports and for index-is-level-with-the-pages. Nothing states a memory ceiling, and the peak is taken the way a check's is.",
     },
     {
+      statement: "Every guard a tool call runs has a processor and a memory ceiling of its own.",
+      workingMemory:
+        "A guard is an agent hook, and hook-dispatch spawns each one and records a cost row against that hook's page. No hook states either ceiling and nothing judges the run. The seconds recorded are the dispatcher's child seconds and so the guard's, while the peak is the dispatcher's own mark rather than the guard's. A guard runs on every tool call of every seat. clear-reads sweeps the read record at every session start, opening 35,216 files in 31,591 folders to read one moment from each.",
+    },
+    {
       statement:
         "`email-address-is-well-formed` runs under a processor ceiling matched to its cost.",
     },
@@ -91,11 +96,6 @@ export const dallaResourceManagement = {
         "`check-reaches-a-path-through-the-index` runs under a processor ceiling matched to its cost.",
     },
     { statement: "`typecheck` runs under a processor ceiling matched to its cost." },
-    {
-      statement: "Every guard a tool call runs has a processor and a memory ceiling of its own.",
-      workingMemory:
-        "A guard is an agent hook, and hook-dispatch spawns each one and records a cost row against that hook's page. No hook states either ceiling and nothing judges the run. The seconds recorded are the dispatcher's child seconds and so the guard's, while the peak is the dispatcher's own mark rather than the guard's. A guard runs on every tool call of every seat. clear-reads sweeps the read record at every session start, opening 35,216 files in 31,591 folders to read one moment from each.",
-    },
     {
       statement: "Every deploy an agent runs has a processor and a memory ceiling of its own.",
       workingMemory:
