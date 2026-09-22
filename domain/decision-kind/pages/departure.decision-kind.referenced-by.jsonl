@@ -2460,7 +2460,6 @@
 {"propertySlug":"decision-kind","path":"domain/plain-language/modules/parse-cache/parse-cache.module.ts","id":"01a071f0-796a-7957-a5e6-d600ac1d3f8a"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/modules/shape-predicate/shape-predicate.module.ts","id":"01a06d15-c08a-7cb9-a166-2c8d5553765b"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/modules/shape-reading/shape-reading.module.ts","id":"01a05dba-d49f-70b7-a3a3-7eb1c069e14d"}
-{"propertySlug":"decision-kind","path":"domain/plain-language/modules/spelt-scanning/spelt-scanning.module.ts","id":"01a073e3-354d-7124-8a2c-e116b5340d81"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/modules/word-tokenizing/word-tokenizing.module.ts","id":"01a06cd8-d032-72f6-9824-e37f2a2d3ed0"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/parser-model/parser-model.page-type.ts","id":"01a06d3b-743e-7d49-b8e6-3703a4b4fbfb"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/parser-model/properties/model-manifest.file-property.ts","id":"01a06d3b-743f-7cf0-8f82-5c0f41cfeaf0"}

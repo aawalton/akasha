@@ -1693,7 +1693,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/parse-cache/parse-cache.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/shape-predicate/shape-predicate.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/shape-reading/shape-reading.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/spelt-scanning/spelt-scanning.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/word-tokenizing/word-tokenizing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/sentence-shape/sentence-shape.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.ts"}

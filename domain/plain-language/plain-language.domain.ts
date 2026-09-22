@@ -11,7 +11,6 @@ export const plainLanguage = {
     "module/parse-cache",
     "module/shape-predicate",
     "module/shape-reading",
-    "module/spelt-scanning",
     "module/word-tokenizing",
     "page-type/parser-model",
   ],
