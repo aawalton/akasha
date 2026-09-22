@@ -6,5 +6,6 @@ export const malleableMetal = {
   slug: "malleable-metal",
   title: "Malleable Metal",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

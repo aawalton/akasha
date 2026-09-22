@@ -6,5 +6,6 @@ export const medicineRemoveFlawSingle = {
   slug: "medicine-remove-flaw-single",
   title: "Medicine: Remove Flaw (Single)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

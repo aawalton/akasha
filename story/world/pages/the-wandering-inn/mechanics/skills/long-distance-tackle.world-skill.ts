@@ -6,5 +6,6 @@ export const longDistanceTackle = {
   slug: "long-distance-tackle",
   title: "Long-Distance Tackle",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

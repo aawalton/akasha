@@ -6,5 +6,6 @@ export const markup130Value = {
   slug: "markup-130-value",
   title: "Markup: 130% Value",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const lineEnderSShot = {
   slug: "line-ender-s-shot",
   title: "Line-Ender’s Shot",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

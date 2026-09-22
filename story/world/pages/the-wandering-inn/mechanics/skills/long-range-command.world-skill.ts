@@ -6,5 +6,6 @@ export const longRangeCommand = {
   slug: "long-range-command",
   title: "Long-Range Command",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

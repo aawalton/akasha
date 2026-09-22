@@ -6,5 +6,6 @@ export const lockDocument = {
   slug: "lock-document",
   title: "Lock Document",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,6 +6,7 @@ export const markedForHell = {
   slug: "marked-for-hell",
   title: "Marked For Hell",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   aliases: ["Marked for Hell"],
   references: "jsonl",
 } as const satisfies WorldSkill

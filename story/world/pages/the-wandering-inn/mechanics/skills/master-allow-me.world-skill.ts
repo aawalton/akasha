@@ -6,5 +6,6 @@ export const masterAllowMe = {
   slug: "master-allow-me",
   title: "Master, Allow Me",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

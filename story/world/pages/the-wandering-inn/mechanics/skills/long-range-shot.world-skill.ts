@@ -6,6 +6,7 @@ export const longRangeShot = {
   slug: "long-range-shot",
   title: "Long Range Shot",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   aliases: ["Long-Range Shot"],
   references: "jsonl",
 } as const satisfies WorldSkill

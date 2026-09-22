@@ -6,5 +6,6 @@ export const longRangedMarkTarget = {
   slug: "long-ranged-mark-target",
   title: "Long-Ranged Mark Target",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

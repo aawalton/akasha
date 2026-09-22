@@ -6,6 +6,7 @@ export const mannaFromTheHeavens = {
   slug: "manna-from-the-heavens",
   title: "Manna From the Heavens",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   aliases: ["Manna from the Heavens"],
   references: "jsonl",
 } as const satisfies WorldSkill

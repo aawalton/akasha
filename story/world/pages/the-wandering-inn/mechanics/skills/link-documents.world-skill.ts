@@ -6,5 +6,6 @@ export const linkDocuments = {
   slug: "link-documents",
   title: "Link Documents",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

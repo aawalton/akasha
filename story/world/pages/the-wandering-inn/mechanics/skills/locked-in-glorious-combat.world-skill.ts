@@ -6,5 +6,6 @@ export const lockedInGloriousCombat = {
   slug: "locked-in-glorious-combat",
   title: "Locked in Glorious Combat",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const markTargets = {
   slug: "mark-targets",
   title: "Mark Targets",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

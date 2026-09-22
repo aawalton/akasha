@@ -6,5 +6,6 @@ export const mentalCanvas = {
   slug: "mental-canvas",
   title: "Mental Canvas",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

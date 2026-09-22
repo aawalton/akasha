@@ -6,5 +6,6 @@ export const miracleBreathOfGiants = {
   slug: "miracle-breath-of-giants",
   title: "Miracle: Breath of Giants",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

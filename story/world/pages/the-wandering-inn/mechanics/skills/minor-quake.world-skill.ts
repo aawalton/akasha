@@ -6,5 +6,6 @@ export const minorQuake = {
   slug: "minor-quake",
   title: "Minor Quake",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

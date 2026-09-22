@@ -6,5 +6,6 @@ export const linkedSkillMassedStrikes = {
   slug: "linked-skill-massed-strikes",
   title: "Linked Skill: Massed Strikes",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

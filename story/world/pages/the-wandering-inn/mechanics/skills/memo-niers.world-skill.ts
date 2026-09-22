@@ -6,5 +6,6 @@ export const memoNiers = {
   slug: "memo-niers",
   title: "Memo: Niers",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

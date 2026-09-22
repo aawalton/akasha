@@ -6,5 +6,6 @@ export const manaPool = {
   slug: "mana-pool",
   title: "Mana Pool",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

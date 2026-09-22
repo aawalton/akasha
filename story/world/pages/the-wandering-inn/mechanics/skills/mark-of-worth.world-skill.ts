@@ -6,5 +6,6 @@ export const markOfWorth = {
   slug: "mark-of-worth",
   title: "Mark of Worth",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

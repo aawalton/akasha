@@ -6,6 +6,7 @@ export const minotaurPunch = {
   slug: "minotaur-punch",
   title: "Minotaur Punch",
   world: "world/the-wandering-inn",
+  appearanceCount: 43,
   evolvesFromSlugs: ["power-strike"],
   references: "jsonl",
 } as const satisfies WorldSkill

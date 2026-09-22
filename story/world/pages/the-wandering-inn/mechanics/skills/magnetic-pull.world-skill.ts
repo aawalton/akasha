@@ -6,5 +6,6 @@ export const magneticPull = {
   slug: "magnetic-pull",
   title: "Magnetic Pull",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

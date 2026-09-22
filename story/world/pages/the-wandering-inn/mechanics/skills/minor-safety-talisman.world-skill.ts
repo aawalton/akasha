@@ -6,5 +6,6 @@ export const minorSafetyTalisman = {
   slug: "minor-safety-talisman",
   title: "Minor Safety Talisman",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

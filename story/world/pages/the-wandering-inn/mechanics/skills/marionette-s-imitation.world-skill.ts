@@ -6,5 +6,6 @@ export const marionetteSImitation = {
   slug: "marionette-s-imitation",
   title: "Marionette’s Imitation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

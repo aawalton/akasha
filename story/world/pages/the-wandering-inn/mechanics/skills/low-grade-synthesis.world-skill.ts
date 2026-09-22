@@ -6,5 +6,6 @@ export const lowGradeSynthesis = {
   slug: "low-grade-synthesis",
   title: "Low-Grade Synthesis",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

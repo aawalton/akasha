@@ -6,5 +6,6 @@ export const marchOfAnnihilation = {
   slug: "march-of-annihilation",
   title: "March of Annihilation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

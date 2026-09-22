@@ -6,5 +6,6 @@ export const manorEimlandOfHouseVeltras = {
   slug: "manor-eimland-of-house-veltras",
   title: "Manor Eimland of House Veltras",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

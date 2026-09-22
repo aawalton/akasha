@@ -6,5 +6,6 @@ export const longBackstep = {
   slug: "long-backstep",
   title: "Long Backstep",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   references: "jsonl",
 } as const satisfies WorldSkill

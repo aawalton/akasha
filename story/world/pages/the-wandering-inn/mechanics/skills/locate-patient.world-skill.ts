@@ -6,5 +6,6 @@ export const locatePatient = {
   slug: "locate-patient",
   title: "Locate Patient",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

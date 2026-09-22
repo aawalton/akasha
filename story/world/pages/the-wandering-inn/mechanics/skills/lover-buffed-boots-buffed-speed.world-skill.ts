@@ -6,5 +6,6 @@ export const loverBuffedBootsBuffedSpeed = {
   slug: "lover-buffed-boots-buffed-speed",
   title: "Lover: Buffed Boots, Buffed Speed",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

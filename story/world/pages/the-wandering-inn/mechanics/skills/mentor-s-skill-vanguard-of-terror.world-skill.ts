@@ -6,5 +6,6 @@ export const mentorSSkillVanguardOfTerror = {
   slug: "mentor-s-skill-vanguard-of-terror",
   title: "Mentor’s Skill – Vanguard of Terror",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

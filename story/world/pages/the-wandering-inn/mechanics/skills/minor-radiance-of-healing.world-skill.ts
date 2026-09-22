@@ -6,5 +6,6 @@ export const minorRadianceOfHealing = {
   slug: "minor-radiance-of-healing",
   title: "Minor Radiance of Healing",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const mightOfCivilizationFullSalvo = {
   slug: "might-of-civilization-full-salvo",
   title: "Might of Civilization: Full Salvo",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

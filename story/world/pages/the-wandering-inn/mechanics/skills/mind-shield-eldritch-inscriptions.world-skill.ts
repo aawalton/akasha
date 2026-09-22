@@ -6,5 +6,6 @@ export const mindShieldEldritchInscriptions = {
   slug: "mind-shield-eldritch-inscriptions",
   title: "Mind Shield: Eldritch Inscriptions",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

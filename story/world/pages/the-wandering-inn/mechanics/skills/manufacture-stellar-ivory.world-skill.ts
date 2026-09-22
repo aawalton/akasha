@@ -6,5 +6,6 @@ export const manufactureStellarIvory = {
   slug: "manufacture-stellar-ivory",
   title: "Manufacture Stellar Ivory",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

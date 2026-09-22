@@ -6,5 +6,6 @@ export const martialArtsProficiencyStyleOfTheRovingWall = {
   slug: "martial-arts-proficiency-style-of-the-roving-wall",
   title: "Martial Arts Proficiency: Style of the Roving Wall",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
