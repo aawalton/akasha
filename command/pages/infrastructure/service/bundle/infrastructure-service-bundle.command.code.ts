@@ -13,7 +13,10 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { infrastructureServiceBundle as page } from "akasha/command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.ts"
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
-import { bundledFor } from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
+import {
+  bundledFor,
+  movedFrom,
+} from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
 import { homeAt } from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
 
 const NO_HOME = "no home directory is stated, so the bundle has nowhere to be written"
@@ -37,7 +40,9 @@ export async function infrastructureServiceBundle(
 
   return await answering(async () => {
     const commit = headOf(given.root)
-    const made = await bundledFor(given.root, slug, home, commit)
+    const moved = movedFrom(given.root, commit)
+    if ("refused" in moved) return refused(moved.refused, DATA)
+    const made = await bundledFor(given.root, slug, home, commit, moved.moved)
     if ("unnamed" in made) return refused(made.unnamed, INPUT)
     if ("refused" in made) return refused(made.refused, DATA)
     return told([

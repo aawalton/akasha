@@ -96,6 +96,19 @@ export const serviceBundling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What the checkout moved from that commit is handed in rather than asked here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer is one answer for every service, so the caller asks it once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each build narrows that answer to its own closure, so a refusal names its own files.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A refusal names up to twelve of those files and counts the rest.",
     },
     {

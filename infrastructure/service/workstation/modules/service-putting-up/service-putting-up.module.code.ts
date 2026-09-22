@@ -15,7 +15,9 @@ import {
 import {
   bundledFor,
   LAUNCHED_FROM_BUNDLE,
+  movedFrom,
   saidOfUnbuilt,
+  saidOfUnmoved,
 } from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
 import {
   homeAt,
@@ -62,8 +64,11 @@ export type Bundled =
 export async function bundlesBuilt(root: string, home: string, commit: string): Promise<Bundled> {
   const bundles = new Map<string, string>()
   const said: string[] = []
+  if (LAUNCHED_FROM_BUNDLE.size === 0) return { bundles, said }
+  const moved = movedFrom(root, commit)
+  if ("refused" in moved) return { refused: saidOfUnmoved(commit, moved.refused) }
   for (const slug of LAUNCHED_FROM_BUNDLE) {
-    const made = await bundledFor(root, slug, home, commit)
+    const made = await bundledFor(root, slug, home, commit, moved.moved)
     if (!("built" in made)) {
       return { refused: saidOfUnbuilt(slug, "unnamed" in made ? made.unnamed : made.refused) }
     }

@@ -67,8 +67,6 @@ export type Built = {
 
 export type Moved = { readonly moved: ReadonlySet<string> } | { readonly refused: string }
 
-export type Drifted = { readonly drifted: readonly string[] } | { readonly refused: string }
-
 export type Swept = {
   readonly kept: readonly string[]
   readonly removed: readonly string[]
@@ -130,6 +128,13 @@ export function saidOfDrift(slug: string, commit: string, drifted: readonly stri
   return (
     `\`${slug}\` would be filed under ${commit}, and the checkout holds other bytes than that ` +
     `commit's for ${drifted.length} file(s) the bundler read: ${named.join(", ")}${more}`
+  )
+}
+
+export function saidOfUnmoved(commit: string, why: string): string {
+  return (
+    `no bundle is to be built, because how the checkout differs from ${commit} is not known — ` +
+    why
   )
 }
 
@@ -219,10 +224,11 @@ export function movedFrom(root: string, commit: string): Moved {
   return { moved }
 }
 
-export function driftedIn(root: string, commit: string, closure: ReadonlySet<string>): Drifted {
-  const moved = movedFrom(root, commit)
-  if ("refused" in moved) return moved
-  return { drifted: [...closure].filter((one) => moved.moved.has(one)).sort() }
+export function driftedIn(
+  moved: ReadonlySet<string>,
+  closure: ReadonlySet<string>
+): readonly string[] {
+  return [...closure].filter((one) => moved.has(one)).sort()
 }
 
 function bundlesIn(at: string): readonly string[] {
@@ -302,7 +308,8 @@ export async function bundledFor(
   root: string,
   slug: string,
   home: string,
-  commit: string
+  commit: string,
+  moved: ReadonlySet<string>
 ): Promise<Made> {
   const reached = runningIn(root, slug)
   if (!("running" in reached)) return reached
@@ -316,10 +323,8 @@ export async function bundledFor(
     return { refused: saidOfUnread(slug, reached.running) }
   }
   const closure = closureIn(root, made.read)
-  const drifted = driftedIn(root, commit, closure)
-  if ("refused" in drifted)
-    return { refused: `\`${slug}\` would not be filed — ${drifted.refused}` }
-  if (drifted.drifted.length > 0) return { refused: saidOfDrift(slug, commit, drifted.drifted) }
+  const drifted = driftedIn(moved, closure)
+  if (drifted.length > 0) return { refused: saidOfDrift(slug, commit, drifted) }
   const at = bundleAt(home, slug, commit)
   await Bun.write(at, made.text)
   const swept = sweptOf(home, slug, bundleName(commit))

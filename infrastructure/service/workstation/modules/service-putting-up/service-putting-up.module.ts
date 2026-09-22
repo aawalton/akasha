@@ -28,6 +28,18 @@ export const servicePuttingUp = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "One git question says how the checkout moved from that commit, for every bundle.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That question is asked only where some service starts from a bundle.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A git that will not answer it refuses the call before any bundle is built.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "That is the commit the tree is pinned at, so one call puts up one commit.",
     },
     {
