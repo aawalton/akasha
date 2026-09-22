@@ -11,10 +11,10 @@ export const antiquityLeadsMotifs = {
   esoCharacterId: "8796093022338107",
   scope: "character",
   priority: "p2",
-  dueDate: "2026-09-22",
+  dueDate: "2026-09-29",
   displayOrder: 0,
   completionCard: "temper-completion-category/account-antiquity-leads-motifs",
-  lastCompletedAt: "2026-09-15T12:06:42.000Z",
+  lastCompletedAt: "2026-09-22T13:06:49.000Z",
   rruleRule: "FREQ=WEEKLY;BYDAY=TU",
   rruleAnchorFromCompletion: false,
 } as const satisfies TemperTask
