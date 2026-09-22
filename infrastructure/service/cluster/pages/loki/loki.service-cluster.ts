@@ -12,7 +12,6 @@ export const loki = {
   replicas: 1,
   containerPort: 3100,
   manifest: ["manifest/loki"],
-  secrets: ["secret/loki-s3-creds-access-key", "secret/loki-s3-creds-secret-key"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

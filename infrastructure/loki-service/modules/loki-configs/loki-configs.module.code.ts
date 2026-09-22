@@ -1,8 +1,3 @@
-import {
-  S3_BUCKET,
-  S3_ENDPOINT,
-} from "akasha/infrastructure/loki-service/modules/loki-constants/loki-constants.module.code.ts"
-
 export const LOKI_CONFIG = `auth_enabled: false
 
 server:
@@ -17,20 +12,15 @@ common:
   replication_factor: 1
   path_prefix: /loki
   storage:
-    s3:
-      endpoint: ${S3_ENDPOINT}
-      bucketnames: ${S3_BUCKET}
-      access_key_id: \${LOKI_S3_ACCESS_KEY}
-      secret_access_key: \${LOKI_S3_SECRET_KEY}
-      s3forcepathstyle: true
-      insecure: true
-      region: us-east-1
+    filesystem:
+      chunks_directory: /loki/chunks
+      rules_directory: /loki/rules
 
 schema_config:
   configs:
     - from: "2024-01-01"
       store: tsdb
-      object_store: s3
+      object_store: filesystem
       schema: v13
       index:
         prefix: index_
@@ -53,7 +43,7 @@ compactor:
   compaction_interval: 10m
   retention_enabled: true
   retention_delete_delay: 2h
-  delete_request_store: s3
+  delete_request_store: filesystem
 `
 
 export const PROMTAIL_CONFIG = `server:

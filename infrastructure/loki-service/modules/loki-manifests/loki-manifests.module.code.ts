@@ -1,21 +1,25 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { configChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.code.ts"
-import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
-import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
+import {
+  capabilitySelector,
+  HOSTNAME_KEY,
+} from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { LOKI_CONFIG } from "akasha/infrastructure/loki-service/modules/loki-configs/loki-configs.module.code.ts"
 import {
+  DATA_CAPACITY,
+  DATA_HOST_PATH,
+  DATA_NODE,
   LOKI_LABELS,
   LOKI_SELECTOR_LABELS,
   NAMESPACE,
   NAMESPACE_LABELS,
-  S3_SECRET_NAME,
 } from "akasha/infrastructure/loki-service/modules/loki-constants/loki-constants.module.code.ts"
 
 const CONFIG_DATA = {
   "loki.yaml": LOKI_CONFIG,
 } as const
 
-const S3_SECRET_KEYS = ["access_key", "secret_key"]
+const DATA_CLAIM = "loki-data"
 
 export function namespaceYaml(): string {
   return synthOne(NAMESPACE, "namespace", {
@@ -41,6 +45,48 @@ export function configmapYaml(): string {
   })
 }
 
+export function dataPvYaml(): string {
+  return synthOne(NAMESPACE, "data-pv", {
+    apiVersion: "v1",
+    kind: "PersistentVolume",
+    metadata: { name: DATA_CLAIM, labels: LOKI_LABELS },
+    spec: {
+      capacity: { storage: DATA_CAPACITY },
+      volumeMode: "Filesystem",
+      accessModes: ["ReadWriteOnce"],
+      persistentVolumeReclaimPolicy: "Retain",
+      storageClassName: "",
+      hostPath: { path: DATA_HOST_PATH, type: "DirectoryOrCreate" },
+      claimRef: { namespace: NAMESPACE, name: DATA_CLAIM },
+      nodeAffinity: {
+        required: {
+          nodeSelectorTerms: [
+            { matchExpressions: [{ key: HOSTNAME_KEY, operator: "In", values: [DATA_NODE] }] },
+          ],
+        },
+      },
+    },
+  })
+}
+
+export function dataPvcYaml(): string {
+  return synthOne(NAMESPACE, "data-pvc", {
+    apiVersion: "v1",
+    kind: "PersistentVolumeClaim",
+    metadata: {
+      name: DATA_CLAIM,
+      namespace: NAMESPACE,
+      labels: LOKI_LABELS,
+    },
+    spec: {
+      accessModes: ["ReadWriteOnce"],
+      storageClassName: "",
+      volumeName: DATA_CLAIM,
+      resources: { requests: { storage: DATA_CAPACITY } },
+    },
+  })
+}
+
 export function deploymentYaml(): string {
   return synthOne(NAMESPACE, "deployment", {
     apiVersion: "apps/v1",
@@ -58,7 +104,6 @@ export function deploymentYaml(): string {
         metadata: {
           annotations: {
             "checksum/config": configChecksum(CONFIG_DATA),
-            "checksum/s3-creds": secretChecksum(NAMESPACE, S3_SECRET_NAME, S3_SECRET_KEYS),
           },
           labels: LOKI_LABELS,
         },
@@ -85,16 +130,6 @@ export function deploymentYaml(): string {
               name: "loki",
               image: "grafana/loki:3.1.0",
               args: ["-config.file=/etc/loki/loki.yaml", "-config.expand-env=true", "-target=all"],
-              env: [
-                {
-                  name: "LOKI_S3_ACCESS_KEY",
-                  valueFrom: { secretKeyRef: { name: S3_SECRET_NAME, key: "access_key" } },
-                },
-                {
-                  name: "LOKI_S3_SECRET_KEY",
-                  valueFrom: { secretKeyRef: { name: S3_SECRET_NAME, key: "secret_key" } },
-                },
-              ],
               ports: [{ name: "http", containerPort: 3100 }],
               resources: {
                 requests: { cpu: "15m", memory: "2Gi" },
@@ -127,7 +162,7 @@ export function deploymentYaml(): string {
           ],
           volumes: [
             { name: "config", configMap: { name: "loki-config" } },
-            { name: "data", emptyDir: { sizeLimit: "4Gi" } },
+            { name: "data", persistentVolumeClaim: { claimName: DATA_CLAIM } },
             { name: "tmp", emptyDir: { sizeLimit: "256Mi" } },
           ],
         },

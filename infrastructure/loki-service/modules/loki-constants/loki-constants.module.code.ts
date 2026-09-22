@@ -1,8 +1,8 @@
 export const NAMESPACE = "loki"
 
-export const S3_ENDPOINT = "s3-gateway.seaweedfs.svc.cluster.local:8333"
-export const S3_BUCKET = "loki-chunks"
-export const S3_SECRET_NAME = "loki-s3-creds"
+export const DATA_NODE = "node-02"
+export const DATA_HOST_PATH = "/var/lib/loki-data"
+export const DATA_CAPACITY = "10Gi"
 
 export const NAMESPACE_LABELS = {
   "app.kubernetes.io/name": "loki",
