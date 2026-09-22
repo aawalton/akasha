@@ -226,10 +226,6 @@ export const checkCode = {
       statement: "A check's decision is handed the shadow wherever that decision lists.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No audit reads a change, an overlay or a shadow.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "An audit reads a body only from the commit that audit judges.",
     },
