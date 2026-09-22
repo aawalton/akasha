@@ -8,6 +8,7 @@ export const history = {
   definition: "the number a mechanic had at each turn that number changed",
   extensions: ["jsonl"],
   appendOnly: true,
+  runsFileLength: false,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -28,6 +29,10 @@ export const history = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The page says what is true now, and this file says what was true before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A history is held to no length, growing a line at a time as play goes.",
     },
   ],
   types: "ts",
