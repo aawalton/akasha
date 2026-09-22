@@ -5,6 +5,7 @@ export const claudeCodeRemoteControl = {
   type: "page-type/domain",
   slug: "claude-code-remote-control",
   definition: "a seat driven from away",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "Claude Code Remote Control" }],
   parts: [
     "module/claude-code-remote-control-degraded-decide",
     "module/claude-code-remote-control-degraded-state",
