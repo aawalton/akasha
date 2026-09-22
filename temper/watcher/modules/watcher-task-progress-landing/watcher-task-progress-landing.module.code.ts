@@ -28,6 +28,7 @@ import {
 import { taskBodyWith } from "akasha/temper/watcher/modules/watcher-task-landing/watcher-task-landing.module.code.ts"
 import {
   bodyOfRows,
+  pathKeyFor,
   refreshedFor,
   rotatesOverCharacters,
   type TaskFacts,
@@ -201,11 +202,16 @@ async function indexFor(ready: ProgressReady, userId: string) {
   )
 }
 
+export function unworkedWhy(slug: string, pathKey: string): string {
+  return `Task ${slug}: no progress was worked out for \`${pathKey}\`, so its lines were left as they are`
+}
+
 export function putsFor(
   tasks: readonly TaskFacts[],
   index: unknown,
   paths: ReadonlyMap<string, string>,
-  bodies: readonly { readonly path: string; readonly content: string | null }[]
+  bodies: readonly { readonly path: string; readonly content: string | null }[],
+  noting: ((said: string) => void) | null = null
 ): readonly Put[] {
   const puts: Put[] = []
   for (const task of tasks) {
@@ -214,7 +220,11 @@ export function putsFor(
     const rowsPath = besidePathOf(page, PROGRESS_PROPERTY, PROGRESS_ENDING)
     if (rowsPath === null) continue
     const done = refreshedFor(task, index, contentIn(bodies, rowsPath) ?? "")
-    if (done === null) continue
+    if (done === null) {
+      const key = pathKeyFor(task)
+      if (noting !== null && key !== null) noting(unworkedWhy(task.slug, key))
+      continue
+    }
     const rows = bodyOfRows(done.rows)
     if (rows !== contentIn(bodies, rowsPath)) puts.push({ path: rowsPath, content: rows })
     const held = contentIn(bodies, page)
@@ -259,7 +269,7 @@ export async function refreshTaskProgress(
       ? { ok: true as const, at: found.at, bodies: [] }
       : await ready.files(beside)
   if (!rows.ok) throw new Error(`the task progress went unread — ${rows.why}`)
-  const puts = putsFor(tasks, index, paths, [...found.bodies, ...rows.bodies])
+  const puts = putsFor(tasks, index, paths, [...found.bodies, ...rows.bodies], ready.report)
   if (puts.length === 0) return 0
   const message = `temper: progress for ${puts.length} file(s) across the roster`
   const landed = await ready.write(puts, PAGE_LANDING_WRITER, message)

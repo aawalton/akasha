@@ -13,6 +13,7 @@ import {
   refreshTaskProgress,
   rosterFrom,
   unreadCompletionWhy,
+  unworkedWhy,
 } from "akasha/temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"
 
 const PAGE_PATH =
@@ -275,6 +276,43 @@ test("a task the index does not name writes nothing", () => {
 
 test("a task the pages placed no file for is passed over", () => {
   expect(putsFor([TASK], INDEX, new Map(), [])).toEqual([])
+})
+
+test("a task naming a card no progress is worked out for is named to the caller", () => {
+  const said: string[] = []
+  const puts = putsFor(
+    [{ slug: "crafting-writs", completionCardId: "a-card-with-no-checker" }],
+    INDEX,
+    PATHS,
+    [
+      { path: PAGE_PATH, content: PAGE },
+      { path: ROWS_PATH, content: null },
+    ],
+    (one) => {
+      said.push(one)
+    }
+  )
+
+  expect(puts).toEqual([])
+  expect(said).toEqual([unworkedWhy("crafting-writs", "a-card-with-no-checker")])
+})
+
+test("a task naming no card at all is passed over without a word", () => {
+  const said: string[] = []
+  putsFor(
+    [{ slug: "crafting-writs" }],
+    INDEX,
+    PATHS,
+    [
+      { path: PAGE_PATH, content: PAGE },
+      { path: ROWS_PATH, content: null },
+    ],
+    (one) => {
+      said.push(one)
+    }
+  )
+
+  expect(said).toEqual([])
 })
 
 test("the lines keep the id a character's line already carried", () => {

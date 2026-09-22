@@ -50,6 +50,14 @@ export const watcherTaskProgressLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A task naming a card no progress is worked out for is named to the caller.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A task naming no card at all is passed over without a word.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A task states the character it falls to as a relation, as its progress lands.",
     },
     {
