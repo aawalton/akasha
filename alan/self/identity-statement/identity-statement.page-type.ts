@@ -10,7 +10,7 @@ export const identityStatement = {
     "number-property/identity-statement-level",
     "relation-property/identity-statement-value",
     "relation-property/parent-statement",
-    "relation-property/replaced-by-statements",
+    "multi-relation-property/replaced-by-statements",
     "multi-relation-property/replaces-statements",
     "multi-relation-property/sub-statements",
     "select-property/about",
@@ -27,7 +27,7 @@ export const identityStatement = {
     { pageProperty: "relation-property/parent-statement", required: false, many: false },
     { pageProperty: "select-property/identity-statement-rank", required: true, many: false },
     {
-      pageProperty: "relation-property/replaced-by-statements",
+      pageProperty: "multi-relation-property/replaced-by-statements",
       required: false,
       many: true,
       maxCount: null,

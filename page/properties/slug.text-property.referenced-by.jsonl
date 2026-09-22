@@ -59,7 +59,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/relating/relationship/properties/relationship-topics.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/self/identity-statement/properties/identity-statement-value.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/self/identity-statement/properties/parent-statement.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/self/identity-statement/properties/replaced-by-statements.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/self/identity-statement/properties/replaced-by-statements.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/self/identity-statement/properties/replaces-statements.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/self/identity-statement/properties/sub-statements.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/self/life-theme/properties/life-theme-parent.relation-property.types.ts"}

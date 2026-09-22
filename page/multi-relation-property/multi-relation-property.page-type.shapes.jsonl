@@ -18,6 +18,7 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"ios-program","unique":null,"uniquePropertySlug":null,"slug":"programs","propertySlug":"programs","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"person","unique":null,"uniquePropertySlug":null,"slug":"relationship-topic-people","propertySlug":"relationship-topic-people","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"relationship-topic","unique":null,"uniquePropertySlug":null,"slug":"relationship-topics","propertySlug":"relationship-topics","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"identity-statement","unique":null,"uniquePropertySlug":null,"slug":"replaced-by-statements","propertySlug":"replaced-by-statements","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"identity-statement","unique":null,"uniquePropertySlug":null,"slug":"replaces-statements","propertySlug":"replaces-statements","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"rust-module","unique":null,"uniquePropertySlug":null,"slug":"rust-modules","propertySlug":"modules","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"secret","unique":null,"uniquePropertySlug":null,"slug":"secrets","propertySlug":"secrets","fileName":null,"folderName":null}

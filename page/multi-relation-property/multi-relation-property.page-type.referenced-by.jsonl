@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"alan/harness/readout/properties/groups.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"alan/relating/relationship-topic/properties/relationship-topic-people.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-topics.multi-relation-property.ts"}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"alan/self/identity-statement/properties/replaced-by-statements.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"alan/self/identity-statement/properties/replaces-statements.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"alan/self/identity-statement/properties/sub-statements.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"check/model/properties/model-tests.multi-relation-property.ts"}
