@@ -95,7 +95,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/fcois/fcois.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/furniture-catalogue/furniture-catalogue.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-group-broadcast/lib-group-broadcast.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-lua-52/lib-lua-52.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-multi-account-sets/lib-multi-account-sets.type-declaration.ts"}
@@ -109,6 +108,7 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-async-global/temper-async-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-catalog-global/temper-catalog-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-chat-message-global/temper-chat-message-global.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-codes-common-code/temper-codes-common-code.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-custom-menu-global/temper-custom-menu-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-debug-logger-global/temper-debug-logger-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-global/temper-global.type-declaration.ts"}

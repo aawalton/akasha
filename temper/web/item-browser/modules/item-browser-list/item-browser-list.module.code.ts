@@ -38,7 +38,7 @@ import type {
 } from "akasha/temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-codes-common-code/temper-codes-common-code.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -204,7 +204,7 @@ ItemBrowserList.FilterScrollList = function (this: ItemBrowserListInstance): und
 
   let zoneId = 0
   if (filterId === 12) {
-    zoneId = LibCodesCommonCode.GetZoneId()
+    zoneId = TemperCodesCommonCode.GetZoneId()
     if (data.zoneClassification[zoneId] === undefined) {
       zoneId = GetParentZoneId(zoneId)
       if (data.zoneClassification[zoneId] === undefined) {
@@ -309,15 +309,20 @@ ItemBrowserList.SetupItemRow = function (
 
     collectedCell.nonRecolorable = true
     if (color !== undefined) {
-      const [r, g, b, a] = LibCodesCommonCode.Int32ToRGBA(color)
+      const [r, g, b, a] = TemperCodesCommonCode.Int32ToRGBA(color)
       collectedCell.SetColor(r, g, b, a)
     } else {
-      const [r, g, b, a] = LibCodesCommonCode.HSLToRGB(((ratio ?? 0) * 0.6 + 0.15) / 3, 1, 0.5, 0.8)
+      const [r, g, b, a] = TemperCodesCommonCode.HSLToRGB(
+        ((ratio ?? 0) * 0.6 + 0.15) / 3,
+        1,
+        0.5,
+        0.8
+      )
       collectedCell.SetColor(r, g, b, a)
     }
 
     collectedCountCell.nonRecolorable = true
-    const [cr, cg, cb, ca] = LibCodesCommonCode.Int32ToRGBA(0xffffff66)
+    const [cr, cg, cb, ca] = TemperCodesCommonCode.Int32ToRGBA(0xffffff66)
     collectedCountCell.SetColor(cr, cg, cb, ca)
     collectedCountCell.SetText(string.format("%d/%d", data.setFound, data.setSize))
   } else {

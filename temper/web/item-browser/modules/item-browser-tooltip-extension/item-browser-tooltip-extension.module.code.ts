@@ -16,7 +16,7 @@ import {
 } from "akasha/temper/web/item-browser/modules/item-browser-state/item-browser-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-codes-common-code/temper-codes-common-code.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
@@ -179,7 +179,7 @@ export function addTooltipExtension(
 
   if (server !== undefined) {
     flags = BitAnd(flags, MASK_HIDE_ACCOUNTS)
-    if (server !== LibCodesCommonCode.GetServerName()) {
+    if (server !== TemperCodesCommonCode.GetServerName()) {
       flags = BitOr(flags, FLAG_OTHER_SERVER)
     }
   }

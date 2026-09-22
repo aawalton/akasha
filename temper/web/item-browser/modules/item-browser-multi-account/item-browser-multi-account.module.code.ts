@@ -3,7 +3,7 @@ import {
   ADDON_NAME,
   PLEDGE_FILTER_ID,
 } from "akasha/temper/web/item-browser/modules/item-browser-constants/item-browser-constants.module.code.ts"
-import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-codes-common-code/temper-codes-common-code.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-multi-account-sets/lib-multi-account-sets.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-undaunted-pledges/lib-undaunted-pledges.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
@@ -52,7 +52,7 @@ export function setSelectedAccount(this: void, value: string | undefined): undef
 
 export function initializeMultiAccount(this: void): undefined {
   if (LMAS !== undefined) {
-    selectedServer = LibCodesCommonCode.GetServerName()
+    selectedServer = TemperCodesCommonCode.GetServerName()
   }
   return undefined
 }

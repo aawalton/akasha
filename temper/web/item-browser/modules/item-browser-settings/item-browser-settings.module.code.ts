@@ -10,14 +10,14 @@ import { refreshCollections } from "akasha/temper/web/item-browser/modules/item-
 import { hookExternalTooltips } from "akasha/temper/web/item-browser/modules/item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-codes-common-code/temper-codes-common-code.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-multi-account-sets/lib-multi-account-sets.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-item-browser-strings/eso-item-browser-strings.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export function registerSettingsPanel(this: void): undefined {
-  const lam = LibCodesCommonCode.GetLibAddonMenu()
+  const lam = TemperCodesCommonCode.GetLibAddonMenu()
   if (lam === undefined) {
     return
   }
@@ -27,7 +27,7 @@ export function registerSettingsPanel(this: void): undefined {
   const panelData: LamPanelData = {
     type: "panel",
     name: GetString(SI_ITEMBROWSER_TITLE),
-    version: LibCodesCommonCode.FormatVersion(LibCodesCommonCode.GetAddOnVersion(ADDON_NAME)),
+    version: TemperCodesCommonCode.FormatVersion(TemperCodesCommonCode.GetAddOnVersion(ADDON_NAME)),
     registerForRefresh: true,
   }
 

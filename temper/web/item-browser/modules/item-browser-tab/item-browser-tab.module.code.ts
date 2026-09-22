@@ -25,7 +25,7 @@ import {
 import type { ContextMenuFactory } from "akasha/temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-codes-common-code/temper-codes-common-code.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -137,7 +137,7 @@ function lazyInitializeBrowser(this: void): undefined {
 
   registerCollectionCallbacks(refreshCollections)
 
-  LibCodesCommonCode.MonitorZoneChanges(ADDON_NAME, () => {
+  TemperCodesCommonCode.MonitorZoneChanges(ADDON_NAME, () => {
     if (getDirtiness() === 0) {
       setDirtiness(1)
     }

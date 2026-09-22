@@ -24,7 +24,7 @@ import "akasha/temper/eso/type/eso-link-handler/eso-link-handler.type-declaratio
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 
-const NAME = "LibCodesCommonCode"
+const NAME = "TemperCodesCommonCode"
 const VERSION = 36
 
 const SERVER_NAME_MAP: Record<string, string> = {

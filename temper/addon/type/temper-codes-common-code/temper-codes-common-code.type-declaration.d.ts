@@ -1,4 +1,4 @@
-interface LibCodesCommonCodeApi {
+interface TemperCodesCommonCodeApi {
   RegisterString: (this: void, name: string, value: string) => void
   GetZoneName: (this: void, zoneId: number) => string
   MonitorZoneChanges: (this: void, name: string, callback: (this: void) => void) => void
@@ -25,4 +25,4 @@ interface LibCodesCommonCodeApi {
   GetServerName: (this: void) => string
 }
 
-declare const LibCodesCommonCode: LibCodesCommonCodeApi
+declare const TemperCodesCommonCode: TemperCodesCommonCodeApi

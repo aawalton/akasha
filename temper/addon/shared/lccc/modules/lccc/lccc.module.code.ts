@@ -1,7 +1,4 @@
-import {
-  asGlobalTable,
-  asNumber,
-} from "akasha/temper/addon/shared/lccc/modules/lccc-casts/lccc-casts.module.code.ts"
+import { asGlobalTable } from "akasha/temper/addon/shared/lccc/modules/lccc-casts/lccc-casts.module.code.ts"
 import {
   chunk,
   decode,
@@ -55,13 +52,8 @@ import {
 } from "akasha/temper/addon/shared/lccc/modules/lccc-util-tables/lccc-util-tables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
-const NAME = "LibCodesCommonCode"
+const NAME = "TemperCodesCommonCode"
 const VERSION = 36
-
-type Versioned = { version?: unknown } | undefined
-function asVersioned(value: unknown): Versioned {
-  return value as Versioned
-}
 
 export const LCCC = {
   version: VERSION,
@@ -114,15 +106,4 @@ export const LCCC = {
   SetupOnDemandDataTable: setupOnDemandDataTable,
 }
 
-{
-  const existing = asVersioned(asGlobalTable(_G)[NAME])
-  if (
-    !(
-      type(existing) === "table" &&
-      type(existing?.version) === "number" &&
-      asNumber(existing?.version) >= VERSION
-    )
-  ) {
-    asGlobalTable(_G)[NAME] = LCCC
-  }
-}
+asGlobalTable(_G)[NAME] = LCCC

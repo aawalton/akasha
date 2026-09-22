@@ -173,7 +173,7 @@ export const STRING_ID_RECORDING_PRELUDE = [
   "else",
   "  lccc = {RegisterString = record}",
   "end",
-  "LibCodesCommonCode = lccc",
+  "TemperCodesCommonCode = lccc",
 ].join("\n")
 
 function buildUnregisteredStringIdsQuery(consumedIds: readonly string[]): string {
@@ -189,7 +189,7 @@ function buildUnregisteredStringIdsQuery(consumedIds: readonly string[]): string
 }
 
 const STRING_ID_GUIDANCE =
-  "(register via ZO_CreateStringId or LibCodesCommonCode.RegisterString at bundle module" +
+  "(register via ZO_CreateStringId or TemperCodesCommonCode.RegisterString at bundle module" +
   " top level, not EVENT_ADD_ON_LOADED)"
 
 interface StringIdAssertionInput {
