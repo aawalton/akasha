@@ -35,7 +35,7 @@ export const devServerEnvWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The pages are read from the worktree the app runs in.",
+      statement: "The pages are read from the tree the app runs in.",
     },
     {
       decisionKind: "decision-kind/departure",

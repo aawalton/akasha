@@ -88,7 +88,7 @@ export async function starting(
   if (!existsSync(envLocalPath)) {
     const written = writeEnvLocalFromPages({
       root: read.root,
-      worktreePath: treePath,
+      treePath,
       appName: read.app,
     })
     report.push(`auto-bootstrapped ${written.path} (${written.varCount} vars)`)

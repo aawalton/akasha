@@ -42,7 +42,7 @@ async function bootstrapped(done: string[], read: Read): Promise<Answer> {
   }
   const written = writeEnvLocalFromPages({
     root: read.root,
-    worktreePath: treePath,
+    treePath,
     appName: read.app,
   })
   done.push(wroteEnvSaid(written.path, written.varCount))
