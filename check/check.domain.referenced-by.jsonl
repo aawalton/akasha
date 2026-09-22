@@ -4,7 +4,6 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-check-that-could-not-run-is-counted-as-a-refusal-in-its-own-cost-log.finding.ts","id":"01a0961f-a1e6-7843-ba3c-d594d46c1668"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-collision-a-landing-creates-is-refused-at-audit-rather-than-at-change.finding.ts","id":"01a0c655-0414-70e9-a4ec-51c366d3b740"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/most-of-what-tests-pass-refuses-is-a-race-rather-than-a-broken-test.finding.ts","id":"01a0c510-b2f0-7b09-97dc-3b97a632d1f4"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/nothing-but-the-agent-surfaces-a-check-bypass-that-agent-took.finding.ts","id":"01a06488-e217-7263-b6ed-65bd3e959673"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/one-refusal-covers-every-red-test-file-and-only-its-body-names-them.finding.ts","id":"01a09688-2688-78d8-ac80-2771d5331212"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-churn-filter-rests-on-a-path-naming-one-of-many-broken-files.finding.ts","id":"01a0a1c9-0304-79d8-aa2c-e6995e0c1bfa"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-folder-shape-check-looks-only-where-two-pages-sit.finding.ts","id":"01a0c602-9497-743b-ac1b-289459a8080e"}
