@@ -6,5 +6,6 @@ export const uniformOfSteel = {
   slug: "uniform-of-steel",
   title: "Uniform of Steel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

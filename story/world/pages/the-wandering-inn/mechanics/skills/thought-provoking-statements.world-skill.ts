@@ -6,5 +6,6 @@ export const thoughtProvokingStatements = {
   slug: "thought-provoking-statements",
   title: "Thought-Provoking Statements",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

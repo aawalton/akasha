@@ -6,5 +6,6 @@ export const trickSpace = {
   slug: "trick-space",
   title: "Trick Space",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

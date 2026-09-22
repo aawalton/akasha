@@ -6,5 +6,6 @@ export const unnoticedByOneInvisibleToAll = {
   slug: "unnoticed-by-one-invisible-to-all",
   title: "Unnoticed by One, Invisible to All",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

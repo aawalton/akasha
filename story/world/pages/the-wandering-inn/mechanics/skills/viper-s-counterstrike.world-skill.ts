@@ -6,5 +6,6 @@ export const viperSCounterstrike = {
   slug: "viper-s-counterstrike",
   title: "Viper’s Counterstrike",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

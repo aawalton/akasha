@@ -6,5 +6,6 @@ export const transcribeKnowledge = {
   slug: "transcribe-knowledge",
   title: "Transcribe Knowledge",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

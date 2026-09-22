@@ -6,5 +6,6 @@ export const vineSnare = {
   slug: "vine-snare",
   title: "Vine Snare",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

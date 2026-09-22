@@ -6,5 +6,6 @@ export const vesselStormriderSBlessing = {
   slug: "vessel-stormrider-s-blessing",
   title: "Vessel: Stormrider’s Blessing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

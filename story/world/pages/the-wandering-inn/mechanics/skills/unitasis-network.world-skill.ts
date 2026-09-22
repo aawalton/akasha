@@ -6,6 +6,7 @@ export const unitasisNetwork = {
   slug: "unitasis-network",
   title: "Unitasis Network",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesToSlugs: ["unitasis-shared-skill-flawless-shot"],
   references: "jsonl",
 } as const satisfies WorldSkill

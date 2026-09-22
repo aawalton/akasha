@@ -6,5 +6,6 @@ export const vagueDirectiveAnts = {
   slug: "vague-directive-ants",
   title: "Vague Directive (Ants)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const tribeWardingOfSafety = {
   slug: "tribe-warding-of-safety",
   title: "Tribe: Warding of Safety",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

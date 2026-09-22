@@ -6,5 +6,6 @@ export const threefoldShot = {
   slug: "threefold-shot",
   title: "Threefold Shot",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

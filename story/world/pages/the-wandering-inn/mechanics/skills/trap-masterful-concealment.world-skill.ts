@@ -6,5 +6,6 @@ export const trapMasterfulConcealment = {
   slug: "trap-masterful-concealment",
   title: "Trap: Masterful Concealment",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const twofoldRest = {
   slug: "twofold-rest",
   title: "Twofold Rest",
   world: "world/the-wandering-inn",
+  appearanceCount: 19,
   references: "jsonl",
 } as const satisfies WorldSkill

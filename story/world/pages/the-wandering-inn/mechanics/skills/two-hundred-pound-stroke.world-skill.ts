@@ -6,5 +6,6 @@ export const twoHundredPoundStroke = {
   slug: "two-hundred-pound-stroke",
   title: "Two Hundred Pound Stroke",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

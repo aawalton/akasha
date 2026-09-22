@@ -6,5 +6,6 @@ export const undeadBonerattlerCharge = {
   slug: "undead-bonerattler-charge",
   title: "Undead: Bonerattler Charge",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

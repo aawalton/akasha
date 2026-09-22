@@ -6,5 +6,6 @@ export const thousandFootSprint = {
   slug: "thousand-foot-sprint",
   title: "Thousand Foot Sprint",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

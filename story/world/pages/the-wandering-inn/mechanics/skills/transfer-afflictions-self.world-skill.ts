@@ -6,6 +6,7 @@ export const transferAfflictionsSelf = {
   slug: "transfer-afflictions-self",
   title: "Transfer Afflictions (Self)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   aliases: ["Transfer Afflictions: Self"],
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const thumbclawMinorNourishment = {
   slug: "thumbclaw-minor-nourishment",
   title: "Thumbclaw: Minor Nourishment",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

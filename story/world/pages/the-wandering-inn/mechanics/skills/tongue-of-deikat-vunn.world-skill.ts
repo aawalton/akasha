@@ -6,5 +6,6 @@ export const tongueOfDeikatVunn = {
   slug: "tongue-of-deikat-vunn",
   title: "Tongue of Deikat Vunn",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

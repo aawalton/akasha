@@ -6,5 +6,6 @@ export const tribeShovelsOfArcheology = {
   slug: "tribe-shovels-of-archeology",
   title: "Tribe: Shovels of Archeology",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

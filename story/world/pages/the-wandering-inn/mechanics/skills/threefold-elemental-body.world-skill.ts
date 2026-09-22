@@ -6,5 +6,6 @@ export const threefoldElementalBody = {
   slug: "threefold-elemental-body",
   title: "Threefold Elemental Body",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

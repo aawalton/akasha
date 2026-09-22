@@ -6,5 +6,6 @@ export const treefellChop = {
   slug: "treefell-chop",
   title: "Treefell Chop",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

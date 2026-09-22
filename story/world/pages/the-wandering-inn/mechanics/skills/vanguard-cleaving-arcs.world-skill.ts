@@ -6,5 +6,6 @@ export const vanguardCleavingArcs = {
   slug: "vanguard-cleaving-arcs",
   title: "Vanguard: Cleaving Arcs",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

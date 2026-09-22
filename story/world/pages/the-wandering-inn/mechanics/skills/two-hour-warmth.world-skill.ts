@@ -6,5 +6,6 @@ export const twoHourWarmth = {
   slug: "two-hour-warmth",
   title: "Two Hour Warmth",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

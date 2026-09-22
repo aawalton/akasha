@@ -6,5 +6,6 @@ export const tribeFastTravellers = {
   slug: "tribe-fast-travellers",
   title: "Tribe: Fast Travellers",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

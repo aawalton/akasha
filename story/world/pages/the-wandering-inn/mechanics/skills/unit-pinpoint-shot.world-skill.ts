@@ -6,5 +6,6 @@ export const unitPinpointShot = {
   slug: "unit-pinpoint-shot",
   title: "Unit: Pinpoint Shot",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

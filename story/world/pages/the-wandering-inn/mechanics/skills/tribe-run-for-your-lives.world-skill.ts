@@ -6,5 +6,6 @@ export const tribeRunForYourLives = {
   slug: "tribe-run-for-your-lives",
   title: "Tribe: Run For Your Lives",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

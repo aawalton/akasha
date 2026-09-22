@@ -6,5 +6,6 @@ export const unitStoneSkin = {
   slug: "unit-stone-skin",
   title: "Unit: Stone Skin",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

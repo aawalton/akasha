@@ -6,5 +6,6 @@ export const unitBowsOfSand = {
   slug: "unit-bows-of-sand",
   title: "Unit: Bows of Sand",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

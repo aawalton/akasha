@@ -6,5 +6,6 @@ export const translationAnimalspeech = {
   slug: "translation-animalspeech",
   title: "Translation: Animalspeech",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const tremorsense = {
   slug: "tremorsense",
   title: "Tremorsense",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   references: "jsonl",
 } as const satisfies WorldSkill

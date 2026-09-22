@@ -6,5 +6,6 @@ export const unitToughSkin = {
   slug: "unit-tough-skin",
   title: "Unit: Tough Skin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

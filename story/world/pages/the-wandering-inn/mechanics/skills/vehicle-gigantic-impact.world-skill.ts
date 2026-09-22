@@ -6,5 +6,6 @@ export const vehicleGiganticImpact = {
   slug: "vehicle-gigantic-impact",
   title: "Vehicle: Gigantic Impact",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

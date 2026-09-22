@@ -6,5 +6,6 @@ export const treasuryOfHouseMarquin = {
   slug: "treasury-of-house-marquin",
   title: "Treasury of House Marquin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

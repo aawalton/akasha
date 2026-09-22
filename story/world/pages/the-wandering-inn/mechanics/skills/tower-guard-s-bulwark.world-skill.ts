@@ -6,5 +6,6 @@ export const towerGuardSBulwark = {
   slug: "tower-guard-s-bulwark",
   title: "Tower Guard’s Bulwark",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

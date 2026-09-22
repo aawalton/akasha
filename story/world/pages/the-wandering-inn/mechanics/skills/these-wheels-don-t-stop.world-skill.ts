@@ -6,5 +6,6 @@ export const theseWheelsDonTStop = {
   slug: "these-wheels-don-t-stop",
   title: "These Wheels Don’t Stop",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

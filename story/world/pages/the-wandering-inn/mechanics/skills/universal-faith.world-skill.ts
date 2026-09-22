@@ -6,5 +6,6 @@ export const universalFaith = {
   slug: "universal-faith",
   title: "Universal Faith",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

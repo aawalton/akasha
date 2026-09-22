@@ -6,5 +6,6 @@ export const unitChampionsOfTheBrassDragon = {
   slug: "unit-champions-of-the-brass-dragon",
   title: "Unit: Champions of the Brass Dragon",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

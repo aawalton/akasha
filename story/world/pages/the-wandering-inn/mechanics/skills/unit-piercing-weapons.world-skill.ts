@@ -6,5 +6,6 @@ export const unitPiercingWeapons = {
   slug: "unit-piercing-weapons",
   title: "Unit: Piercing Weapons",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

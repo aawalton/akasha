@@ -6,5 +6,6 @@ export const tradeSpikeSulfur = {
   slug: "trade-spike-sulfur",
   title: "Trade Spike: Sulfur",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

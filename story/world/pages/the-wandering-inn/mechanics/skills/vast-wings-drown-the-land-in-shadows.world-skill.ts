@@ -6,5 +6,6 @@ export const vastWingsDrownTheLandInShadows = {
   slug: "vast-wings-drown-the-land-in-shadows",
   title: "Vast Wings Drown the Land in Shadows",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

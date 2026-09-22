@@ -6,5 +6,6 @@ export const unstoppableCommand = {
   slug: "unstoppable-command",
   title: "Unstoppable Command",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

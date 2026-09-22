@@ -6,5 +6,6 @@ export const thisLineWonTBreak = {
   slug: "this-line-won-t-break",
   title: "This Line Won’t Break",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

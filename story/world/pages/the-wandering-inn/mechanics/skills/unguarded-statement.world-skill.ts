@@ -6,5 +6,6 @@ export const unguardedStatement = {
   slug: "unguarded-statement",
   title: "Unguarded Statement",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

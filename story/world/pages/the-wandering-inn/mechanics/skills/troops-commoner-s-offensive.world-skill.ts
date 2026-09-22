@@ -6,5 +6,6 @@ export const troopsCommonerSOffensive = {
   slug: "troops-commoner-s-offensive",
   title: "Troops: Commoner’s Offensive",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

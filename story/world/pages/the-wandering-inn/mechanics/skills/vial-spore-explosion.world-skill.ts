@@ -6,5 +6,6 @@ export const vialSporeExplosion = {
   slug: "vial-spore-explosion",
   title: "Vial: Spore Explosion",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

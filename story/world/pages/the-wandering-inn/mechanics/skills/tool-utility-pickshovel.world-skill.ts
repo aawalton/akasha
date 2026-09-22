@@ -6,5 +6,6 @@ export const toolUtilityPickshovel = {
   slug: "tool-utility-pickshovel",
   title: "Tool Utility: Pickshovel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

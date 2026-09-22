@@ -6,5 +6,6 @@ export const unstoppableAdvance = {
   slug: "unstoppable-advance",
   title: "Unstoppable Advance",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

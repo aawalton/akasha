@@ -6,5 +6,6 @@ export const trapsFriendlyDesignator = {
   slug: "traps-friendly-designator",
   title: "Traps: Friendly Designator",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

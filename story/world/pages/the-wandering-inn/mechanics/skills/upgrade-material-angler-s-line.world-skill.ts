@@ -6,5 +6,6 @@ export const upgradeMaterialAnglerSLine = {
   slug: "upgrade-material-angler-s-line",
   title: "Upgrade Material: Angler’s Line",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const unsnappableThread = {
   slug: "unsnappable-thread",
   title: "Unsnappable Thread",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

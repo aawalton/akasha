@@ -6,5 +6,6 @@ export const tremorStomp = {
   slug: "tremor-stomp",
   title: "Tremor Stomp",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

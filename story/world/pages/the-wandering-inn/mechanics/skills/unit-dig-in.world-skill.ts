@@ -6,5 +6,6 @@ export const unitDigIn = {
   slug: "unit-dig-in",
   title: "Unit: Dig In",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

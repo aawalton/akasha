@@ -6,5 +6,6 @@ export const tribeRapidReload = {
   slug: "tribe-rapid-reload",
   title: "Tribe: Rapid Reload",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
