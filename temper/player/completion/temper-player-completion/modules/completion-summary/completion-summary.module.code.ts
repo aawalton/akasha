@@ -33,7 +33,6 @@ import {
   buildMorphRankMap,
   getSkillLineMorphContribution,
 } from "akasha/temper/player/skill-morph/modules/skill-line-morph-totals/skill-line-morph-totals.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 interface CharacterTotals {
   name: string

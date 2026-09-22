@@ -40,7 +40,6 @@ import {
   type SignedInReader,
   signedInUserId,
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const COMPLETION_TO_DO = "import this completion"
 
