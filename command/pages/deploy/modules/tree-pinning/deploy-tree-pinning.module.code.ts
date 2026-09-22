@@ -19,11 +19,11 @@ export function stampIn(at: string): string {
   return join(at, PINNED_AT)
 }
 
-export function saidOfNoTree(kind: string, why: string): string {
+function saidOfNoTree(kind: string, why: string): string {
   return `\`${kind}\` is built from a tree pinned at the commit, and ${why}`
 }
 
-export function stampOver(at: string): string | null {
+function stampOver(at: string): string | null {
   let held = at
   let up = dirname(held)
   while (!existsSync(stampIn(held))) {
