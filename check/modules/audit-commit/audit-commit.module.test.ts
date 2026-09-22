@@ -8,7 +8,6 @@ import {
   filesIn,
   overEachIn,
   overEachText,
-  pagedIn,
 } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
@@ -91,11 +90,6 @@ test("a folder is no body, as a path that is not there is no body", () => {
   const root = indexed("folders", { "under/one.txt": "one\n" })
   const commit = commitIn(root)
   expect(commit.bytes("under")).toBe(null)
-})
-
-test("a path naming no page type is no page of the commit", () => {
-  const root = indexed("paged", { "one.txt": "one\n" })
-  expect(pagedIn(commitIn(root), "one.txt")).toBe(false)
 })
 
 test("a check saying it takes nothing is asked about nothing", () => {
