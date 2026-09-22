@@ -4,7 +4,7 @@ export const luaBuildCommand = {
   id: "01a06038-2cc1-7c3a-8b5e-0c9e254e7632",
   type: "page-type/module",
   slug: "lua-build-command",
-  definition: "the command line that runs the TypeScript to Lua transpiler over one project",
+  definition: "the command line that runs the TypeScript to Lua transpiler over a project",
   code: "ts",
   decisions: [
     {

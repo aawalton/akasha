@@ -4,7 +4,7 @@ export const catalogApiTest = {
   id: "01a063ba-94e5-7e5c-ad37-4144ed456b26",
   type: "page-type/module",
   slug: "catalog-api-test",
-  definition: "the one call per catalog that says whether the game answers it at all",
+  definition: "the call per catalog that says whether the game answers it at all",
   code: "ts",
   decisions: [
     {
