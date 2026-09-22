@@ -2543,7 +2543,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/beat-schema/beat-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/chapter-words/chapter-words.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/choice-action/choice-action.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/entity-schema/entity-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/game-schema/game-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/prose-segments/prose-segments.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/quest-schema/quest-schema.module.ts"}
