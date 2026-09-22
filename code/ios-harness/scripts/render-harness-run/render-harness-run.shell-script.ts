@@ -16,5 +16,17 @@ export const renderHarnessRun = {
       decisionKind: "decision-kind/departure",
       statement: "The mac leg compiles the Swift sent to the mac leg rather than reading akasha.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every temp directory a leg makes is taken away when that leg ends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A removal is registered where the directory it takes away is made.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A removal that refuses leaves the removals after it to run.",
+    },
   ],
 } as const satisfies ShellScript

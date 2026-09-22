@@ -133,6 +133,9 @@ else
   }
   WIDGET_DIR="$(mktemp -d)"
   STAGED_WIDGET_DIR="$WIDGET_DIR"
+  # Registered where the directory is made, so a leg refusing before the trap
+  # below is set takes its own staging away rather than leaving it in temp.
+  trap 'rm -rf "$STAGED_WIDGET_DIR" || true' EXIT
   for component in "${COMPONENT_SWIFT[@]}"; do
     [ -f "$component" ] || {
       echo "ERROR: $component is named by --app $APP and is not there." >&2
@@ -167,7 +170,7 @@ if [ "$(uname)" != "Darwin" ] && [ "$ON_MAC" = "0" ]; then
   REMOTE="$(ssh "$MAC_HOST" 'mktemp -d')"
   [ -n "$REMOTE" ] || { echo "ERROR: could not make a scratch directory on $MAC_HOST." >&2; exit 1; }
   # shellcheck disable=SC2064
-  trap "rm -rf '$STAGED_WIDGET_DIR'; ssh '$MAC_HOST' 'rm -rf \"$REMOTE\"' >/dev/null 2>&1 || true" EXIT
+  trap "rm -rf '$STAGED_WIDGET_DIR' || true; ssh '$MAC_HOST' 'rm -rf \"$REMOTE\"' >/dev/null 2>&1 || true" EXIT
 
   rsync -a "$WIDGET_DIR/" "$MAC_HOST:$REMOTE/ios-widget/"
   rsync -a "$HERE/" "$MAC_HOST:$REMOTE/scripts/render-harness/"
@@ -203,7 +206,7 @@ if [ -z "$DEVICE" ]; then
 fi
 
 BUILD_DIR="$(mktemp -d)"
-trap 'rm -rf "$BUILD_DIR" "${STAGED_WIDGET_DIR:-}"' EXIT
+trap 'rm -rf "$BUILD_DIR" "${STAGED_WIDGET_DIR:-}" || true' EXIT
 
 SOURCES=()
 collect_sources() {
