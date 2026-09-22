@@ -6,5 +6,6 @@ export const royalMagician = {
   slug: "royal-magician",
   title: "Royal Magician",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldClass

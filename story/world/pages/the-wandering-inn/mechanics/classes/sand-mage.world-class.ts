@@ -6,6 +6,7 @@ export const sandMage = {
   slug: "sand-mage",
   title: "Sand Mage",
   world: "world/the-wandering-inn",
+  appearanceCount: 21,
   aliases: ["sand-mages"],
   evolvesToSlugs: ["bloodglass-mage"],
   references: "jsonl",

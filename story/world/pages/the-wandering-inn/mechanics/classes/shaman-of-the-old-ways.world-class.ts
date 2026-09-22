@@ -6,6 +6,7 @@ export const shamanOfTheOldWays = {
   slug: "shaman-of-the-old-ways",
   title: "Shaman of the Old Ways",
   world: "world/the-wandering-inn",
+  appearanceCount: 16,
   evolvesFromSlugs: ["magic-paint-shaman"],
   evolvesToSlugs: ["mirmilin-es-hivule-sekururu"],
   references: "jsonl",

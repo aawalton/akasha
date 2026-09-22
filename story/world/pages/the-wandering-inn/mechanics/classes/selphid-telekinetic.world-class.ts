@@ -6,5 +6,6 @@ export const selphidTelekinetic = {
   slug: "selphid-telekinetic",
   title: "Selphid Telekinetic",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass
