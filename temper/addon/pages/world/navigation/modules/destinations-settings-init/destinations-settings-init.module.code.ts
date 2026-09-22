@@ -2,7 +2,6 @@ import { getSettingsString } from "akasha/temper/addon/pages/world/navigation/mo
 import {
   ADDON_AUTHOR,
   ADDON_VERSION,
-  ADDON_WEBSITE,
 } from "akasha/temper/addon/pages/world/navigation/modules/destinations-names/destinations-names.module.code.ts"
 import { buildAchievementGlobalSubmenu } from "akasha/temper/addon/pages/world/navigation/modules/destinations-settings-achievement-global/destinations-settings-achievement-global.module.code.ts"
 import { buildAchievementsSubmenu } from "akasha/temper/addon/pages/world/navigation/modules/destinations-settings-achievements/destinations-settings-achievements.module.code.ts"
@@ -33,7 +32,6 @@ export function initSettings(): undefined {
     slashCommand: "/dset",
     registerForRefresh: true,
     registerForDefaults: true,
-    website: ADDON_WEBSITE,
   }
   const optionsTable: LamControlData[] = []
   for (const option of buildGeneralOptions()) {
