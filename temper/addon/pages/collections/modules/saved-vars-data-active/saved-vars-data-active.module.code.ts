@@ -5,11 +5,11 @@ import {
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-casts/saved-vars-casts.module.code.ts"
 import { validateScope } from "akasha/temper/addon/pages/collections/modules/saved-vars-data-helpers/saved-vars-data-helpers.module.code.ts"
 import { DATA_STATE } from "akasha/temper/addon/pages/collections/modules/saved-vars-data-state/saved-vars-data-state.module.code.ts"
-import { LSV } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
+import { SAVED_VARS } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
   DataInstance,
-  LsvTable,
   SavedVarsManagerInstance,
+  SavedVarsTable,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
@@ -19,11 +19,11 @@ export function getActiveSavedVars(
   this: void,
   self: DataInstance | undefined,
   key?: unknown
-): LsvTable | undefined {
+): SavedVarsTable | undefined {
   if (self === undefined) {
     return undefined
   }
-  LSV.protected.Debug("LSV_Data:GetActiveSavedVars(<<1>>)", DATA_STATE.debugMode, key)
+  SAVED_VARS.protected.Debug("SavedVarsData:GetActiveSavedVars(<<1>>)", DATA_STATE.debugMode, key)
 
   const ds = asDataSource(rawget(self, "__dataSource"))
 
@@ -54,7 +54,7 @@ export function getAccountSavedVarsActive(
   if (self === undefined) {
     return undefined
   }
-  LSV.protected.Debug("LSV_Data:GetAccountSavedVarsActive()", DATA_STATE.debugMode)
+  SAVED_VARS.protected.Debug("SavedVarsData:GetAccountSavedVarsActive()", DATA_STATE.debugMode)
 
   const ds = asDataSource(rawget(self, "__dataSource"))
   if (ds.active !== undefined) {
@@ -70,7 +70,7 @@ export function loadAllSavedVars(
   if (self === undefined) {
     return undefined
   }
-  LSV.protected.Debug("LSV_Data:LoadAllSavedVars()", DATA_STATE.debugMode)
+  SAVED_VARS.protected.Debug("SavedVarsData:LoadAllSavedVars()", DATA_STATE.debugMode)
 
   const ds = self.__dataSource
   if (ds.character !== undefined) {
@@ -102,7 +102,11 @@ export function getSavedVarsManagers(
   self: DataInstance,
   scope?: unknown
 ): SavedVarsManagerInstance[] {
-  LSV.protected.Debug("LSV_Data:GetSavedVarsManagers(<<1>>)", DATA_STATE.debugMode, scope)
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:GetSavedVarsManagers(<<1>>)",
+    DATA_STATE.debugMode,
+    scope
+  )
   const wildcard = scope === undefined || scope === false || scope === "*"
   validateScope(scope)
   const ds = self.__dataSource
@@ -113,7 +117,7 @@ export function getSavedVarsManagers(
   if ((wildcard || scope === "account") && ds.account !== undefined) {
     savedVarManagers.push(ds.account)
   }
-  LSV.protected.Debug(
+  SAVED_VARS.protected.Debug(
     "<<1>> saved var managers found",
     DATA_STATE.debugMode,
     savedVarManagers.length

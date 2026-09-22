@@ -1,8 +1,8 @@
 import {
   asIndexable,
-  asLsvTable,
   asProtected,
   asSavedVarsLibTable,
+  asSavedVarsTable,
   asStringArray,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-casts/saved-vars-casts.module.code.ts"
 import {
@@ -12,16 +12,16 @@ import {
   SAVED_VARS_VERSION,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-constants/saved-vars-constants.module.code.ts"
 import { LIB_STATE } from "akasha/temper/addon/pages/collections/modules/saved-vars-lib-state/saved-vars-lib-state.module.code.ts"
-import { LSV } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
+import { SAVED_VARS } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
   AccountAndProfile,
   DataInstance,
-  LsvTable,
   ProtectedTable,
   RegisteredSavedVarsInfo,
   SavedVarsInfo,
   SavedVarsLibTable,
   SavedVarsManagerInstance,
+  SavedVarsTable,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
@@ -34,15 +34,15 @@ const WORLDS: { live: string[]; pts: string[] } = {
 
 const CLASS_VERSIONS: Record<string, number> = {}
 
-function getRawDataTable(this: void, _self: SavedVarsLibTable, savedVars: unknown): LsvTable {
-  const meta = getmetatable(asLsvTable(savedVars))
+function getRawDataTable(this: void, _self: SavedVarsLibTable, savedVars: unknown): SavedVarsTable {
+  const meta = getmetatable(asSavedVarsTable(savedVars))
   if (meta !== undefined) {
     const index = asIndexable(meta).__index
     if (index !== undefined && index !== false) {
-      return asLsvTable(index)
+      return asSavedVarsTable(index)
     }
   }
-  return asLsvTable(savedVars)
+  return asSavedVarsTable(savedVars)
 }
 
 function clearSavedVars(this: void, self: SavedVarsLibTable, savedVars: unknown): undefined {
@@ -88,12 +88,12 @@ function getAccountsAndProfiles(
     error("Can only apply saved variables to a table")
   }
   const accountsAndProfiles: AccountAndProfile[] = []
-  for (const [key1, value1] of pairs(asLsvTable(savedVariableTable))) {
+  for (const [key1, value1] of pairs(asSavedVarsTable(savedVariableTable))) {
     if (type(value1) === "table") {
       if (string.sub(key1, 1, 1) === "@") {
         accountsAndProfiles.push({ account: key1 })
       } else {
-        for (const [key2, value2] of pairs(asLsvTable(value1))) {
+        for (const [key2, value2] of pairs(asSavedVarsTable(value1))) {
           if (type(value2) === "table" && string.sub(key1, 1, 1) === "@") {
             accountsAndProfiles.push({ account: key2, profile: key1 })
           }
@@ -112,7 +112,7 @@ function getInfo(
   if (savedVars === undefined) {
     return undefined
   }
-  return LIB_STATE.savedVarRegistry.get(asLsvTable(savedVars))
+  return LIB_STATE.savedVarRegistry.get(asSavedVarsTable(savedVars))
 }
 
 function getWorldNames(this: void, _self: SavedVarsLibTable, environment?: string): string[] {
@@ -138,13 +138,13 @@ function migrate(
   toSavedVarsInfo1?: SavedVarsInfo,
   ...rest: SavedVarsInfo[]
 ): SavedVarsManagerInstance[] | undefined {
-  const [toParams, from] = LSV.protected.Migrate(
+  const [toParams, from] = SAVED_VARS.protected.Migrate(
     defaultKeyType,
     fromSavedVarsInfo,
     toSavedVarsInfo1,
     ...rest
   )
-  LSV.protected.UnsetPath(asLsvTable(from.table), from.rawSavedVarsTablePath ?? [])
+  SAVED_VARS.protected.UnsetPath(asSavedVarsTable(from.table), from.rawSavedVarsTablePath ?? [])
   return toParams
 }
 
@@ -197,13 +197,13 @@ function migrateToMegaserverProfiles(
   copyToAllServers: boolean | undefined,
   toSavedVarsInfo: SavedVarsInfo | undefined
 ): Record<string, SavedVarsManagerInstance> | undefined {
-  const [toParams, from] = LSV.protected.MigrateToMegaserverProfiles(
+  const [toParams, from] = SAVED_VARS.protected.MigrateToMegaserverProfiles(
     defaultKeyType,
     fromSavedVarsInfo,
     copyToAllServers,
     toSavedVarsInfo
   )
-  LSV.protected.UnsetPath(asLsvTable(from.table), from.rawSavedVarsTablePath ?? [])
+  SAVED_VARS.protected.UnsetPath(asSavedVarsTable(from.table), from.rawSavedVarsTablePath ?? [])
   return toParams
 }
 
@@ -211,13 +211,13 @@ function newAccountWide(
   this: void,
   _self: SavedVarsLibTable,
   savedVariableTable: string,
-  version?: number | string | LsvTable,
-  namespace?: string | LsvTable,
-  defaults?: LsvTable,
+  version?: number | string | SavedVarsTable,
+  namespace?: string | SavedVarsTable,
+  defaults?: SavedVarsTable,
   profile?: string,
   displayName?: string
 ): DataInstance {
-  return LSV.data.NewAccountWide(
+  return SAVED_VARS.data.NewAccountWide(
     savedVariableTable,
     version,
     namespace,
@@ -231,16 +231,16 @@ function newCharacterSettings(
   this: void,
   _self: SavedVarsLibTable,
   savedVariableTable: string,
-  version?: number | string | LsvTable,
-  namespace?: string | LsvTable,
-  defaults?: LsvTable,
+  version?: number | string | SavedVarsTable,
+  namespace?: string | SavedVarsTable,
+  defaults?: SavedVarsTable,
   profile?: string,
   displayName?: string,
   characterName?: string,
   characterId?: number | string,
   characterKeyType?: number
 ): DataInstance {
-  return LSV.data.NewCharacterSettings(
+  return SAVED_VARS.data.NewCharacterSettings(
     savedVariableTable,
     version,
     namespace,
@@ -254,7 +254,7 @@ function newCharacterSettings(
 }
 
 function setDebugMode(this: void, _self: SavedVarsLibTable, enable: boolean): undefined {
-  LSV.protected.SetDebugMode(enable)
+  SAVED_VARS.protected.SetDebugMode(enable)
 }
 
 function newClass(
@@ -262,15 +262,15 @@ function newClass(
   _self: SavedVarsLibTable,
   name: string,
   version: number
-): LuaMultiReturn<[LsvTable | undefined, ProtectedTable | undefined]> {
+): LuaMultiReturn<[SavedVarsTable | undefined, ProtectedTable | undefined]> {
   const existing = CLASS_VERSIONS[name]
   if (existing === undefined || existing < version) {
     CLASS_VERSIONS[name] = version
-    const created: LsvTable = {}
+    const created: SavedVarsTable = {}
     if (name === "Protected") {
       return $multi(created, asProtected(created))
     }
-    return $multi(created, LSV.protected)
+    return $multi(created, SAVED_VARS.protected)
   }
   return $multi(undefined, undefined)
 }
@@ -278,9 +278,9 @@ function newClass(
 export function newAccountWideSavedVars(
   this: void,
   savedVariableTable: string,
-  defaults: LsvTable
+  defaults: SavedVarsTable
 ): DataInstance {
-  return LSV.lib.NewAccountWide(savedVariableTable, defaults)
+  return SAVED_VARS.lib.NewAccountWide(savedVariableTable, defaults)
 }
 
 export function installLibCore(this: void): undefined {
@@ -305,6 +305,6 @@ export function installLibCore(this: void): undefined {
   members.NewClass = newClass
   members.SetDebugMode = setDebugMode
 
-  LSV.lib = libTable
+  SAVED_VARS.lib = libTable
   return undefined
 }

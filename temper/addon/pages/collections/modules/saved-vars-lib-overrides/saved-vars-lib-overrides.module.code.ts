@@ -11,10 +11,10 @@ import {
   SAVED_VARS_NAME,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-constants/saved-vars-constants.module.code.ts"
 import { LIB_STATE } from "akasha/temper/addon/pages/collections/modules/saved-vars-lib-state/saved-vars-lib-state.module.code.ts"
-import { LSV } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
+import { SAVED_VARS } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
-  LsvTable,
   RegisteredSavedVarsInfo,
+  SavedVarsTable,
   SavedVarsWritable,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -43,11 +43,11 @@ function codeFormat(this: void, format: string, ...args: unknown[]): string {
 
 function registerSavedVars(
   this: void,
-  savedVars: LsvTable,
+  savedVars: SavedVarsTable,
   savedVariableTableName: string,
   version: number,
   namespace: string | undefined,
-  defaults: LsvTable,
+  defaults: SavedVarsTable,
   profile?: string,
   displayName?: string,
   characterName?: string,
@@ -55,7 +55,7 @@ function registerSavedVars(
   characterKeyType?: number
 ): undefined {
   const [rawSavedVarsTable, parent, key, savedVariableTable, path] =
-    LSV.protected.GetSavedVarsTable(
+    SAVED_VARS.protected.GetSavedVarsTable(
       savedVariableTableName,
       namespace,
       profile,
@@ -92,7 +92,7 @@ function registerSavedVars(
     rawSavedVarsTableKey: key,
   }
 
-  if (LSV.protected.debugMode) {
+  if (SAVED_VARS.protected.debugMode) {
     let format: string
     if (key === SAVED_VARS_ACCOUNT_KEY) {
       format = "ZO_SavedVars:New(<<1>>,<<2>>,<<3>>,<<4>>,<<5>>,<<6>>,<<7>>,<<8>>,<<9>>)"
@@ -111,7 +111,7 @@ function registerSavedVars(
       characterId,
       characterKeyType
     )
-    LSV.protected.Debug(message)
+    SAVED_VARS.protected.Debug(message)
   }
 
   LIB_STATE.savedVarRegistry.set(savedVars, info)
@@ -131,13 +131,13 @@ export function installLibOverrides(this: void): undefined {
     savedVariableTable: string,
     version: number,
     namespace: string | undefined,
-    defaults: LsvTable,
+    defaults: SavedVarsTable,
     profile?: string,
     displayName?: string,
     characterName?: string,
     characterId?: number | string,
     characterKeyType?: number
-  ): LsvTable {
+  ): SavedVarsTable {
     const savedVars = origSavedVarsNew(
       asZoSavedVars(this),
       savedVariableTable,
@@ -170,9 +170,9 @@ export function installLibOverrides(this: void): undefined {
     savedVariableTable: string,
     version: number,
     namespace: string | undefined,
-    defaults: LsvTable,
+    defaults: SavedVarsTable,
     profile?: string
-  ): LsvTable {
+  ): SavedVarsTable {
     return this.New(
       savedVariableTable,
       version,
@@ -191,9 +191,9 @@ export function installLibOverrides(this: void): undefined {
     savedVariableTable: string,
     version: number,
     namespace: string | undefined,
-    defaults: LsvTable,
+    defaults: SavedVarsTable,
     profile?: string
-  ): LsvTable {
+  ): SavedVarsTable {
     return this.New(
       savedVariableTable,
       version,
@@ -212,10 +212,10 @@ export function installLibOverrides(this: void): undefined {
     savedVariableTable: string,
     version: number,
     namespace: string | undefined,
-    defaults: LsvTable,
+    defaults: SavedVarsTable,
     profile?: string,
     displayName?: string
-  ): LsvTable {
+  ): SavedVarsTable {
     const savedVars = origSavedVarsNewAccountWide(
       asZoSavedVars(this),
       savedVariableTable,

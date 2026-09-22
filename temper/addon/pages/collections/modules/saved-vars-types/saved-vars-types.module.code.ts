@@ -3,22 +3,22 @@ import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declara
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
-export type LsvTable = Record<string, unknown>
+export type SavedVarsTable = Record<string, unknown>
 
 export interface SavedVarsInfo {
   name?: string
   keyType?: number
   version?: number
-  defaults?: LsvTable
-  trimDefaults?: LsvTable
+  defaults?: SavedVarsTable
+  trimDefaults?: SavedVarsTable
   namespace?: string
   profile?: string
   displayName?: string
   characterName?: string
   characterId?: number | string
-  table?: LsvTable
-  rawSavedVarsTable?: LsvTable
-  rawSavedVarsTableParent?: LsvTable
+  table?: SavedVarsTable
+  rawSavedVarsTable?: SavedVarsTable
+  rawSavedVarsTableParent?: SavedVarsTable
   rawSavedVarsTableKey?: unknown
   rawSavedVarsTablePath?: unknown[]
 }
@@ -43,27 +43,29 @@ export interface SavedVarsManagerInstance {
   name?: string
   keyType: number
   version?: number
-  defaults: LsvTable
-  trimDefaults: LsvTable
+  defaults: SavedVarsTable
+  trimDefaults: SavedVarsTable
   namespace?: string
   profile?: string
   displayName?: string
-  table?: LsvTable
+  table?: SavedVarsTable
   characterName?: string
   characterId?: number | string
-  rawSavedVarsTable?: LsvTable
-  rawSavedVarsTableParent?: LsvTable
+  rawSavedVarsTable?: SavedVarsTable
+  rawSavedVarsTableParent?: SavedVarsTable
   rawSavedVarsTableKey?: unknown
   rawSavedVarsTablePath?: unknown[]
   pendingVersion?: number
   isDefaultsTrimmingEnabled?: boolean
-  savedVars: LsvTable
+  savedVars: SavedVarsTable
   EnableDefaultsTrimming: (this: SavedVarsManagerInstance) => void
   IsProfileWorldName: (this: SavedVarsManagerInstance) => boolean
   FireMigrateStartCallbacks: (this: SavedVarsManagerInstance) => void
   LoadRawTableData: (
     this: SavedVarsManagerInstance
-  ) => LuaMultiReturn<[LsvTable | undefined, LsvTable | undefined, unknown, unknown[] | undefined]>
+  ) => LuaMultiReturn<
+    [SavedVarsTable | undefined, SavedVarsTable | undefined, unknown, unknown[] | undefined]
+  >
   RegisterLazyLoadCallback: (
     this: SavedVarsManagerInstance,
     callback: (this: void, ...args: never[]) => void,
@@ -85,14 +87,14 @@ export interface SavedVarsManagerInstance {
   ) => SavedVarsManagerInstance
   RenameSettings: (
     this: SavedVarsManagerInstance,
-    version: number | LsvTable,
-    renameMap?: LsvTable,
+    version: number | SavedVarsTable,
+    renameMap?: SavedVarsTable,
     callback?: (this: void, value: unknown) => unknown
   ) => SavedVarsManagerInstance
   RenameSettingsAndInvert: (
     this: SavedVarsManagerInstance,
     version: number,
-    renameMap: LsvTable
+    renameMap: SavedVarsTable
   ) => SavedVarsManagerInstance
   UnregisterLazyLoadCallback: (
     this: SavedVarsManagerInstance,
@@ -106,7 +108,7 @@ export interface SavedVarsManagerInstance {
   Version: (
     this: SavedVarsManagerInstance,
     version: number,
-    onVersionUpdate: (this: void, rawDataTable: LsvTable) => void
+    onVersionUpdate: (this: void, rawDataTable: SavedVarsTable) => void
   ) => SavedVarsManagerInstance
 }
 
@@ -120,38 +122,38 @@ export interface DataSource {
   account?: SavedVarsManagerInstance
   character?: SavedVarsManagerInstance
   active?: SavedVarsManagerInstance
-  pinnedAccountKeys?: LsvTable
+  pinnedAccountKeys?: SavedVarsTable
   iterator?: NextFn
 }
 
 export interface DataInstance {
   __dataSource: DataSource
   AddCharacterSettingsToggle: (this: DataInstance, savedVariableTable: string) => DataInstance
-  GetLibAddonMenuAccountCheckbox: (this: DataInstance) => LsvTable
+  GetLibAddonMenuAccountCheckbox: (this: DataInstance) => SavedVarsTable
   Version: (
     this: DataInstance,
     version: number,
-    onVersionUpdate: (this: void, rawDataTable: LsvTable) => void
+    onVersionUpdate: (this: void, rawDataTable: SavedVarsTable) => void
   ) => DataInstance
   [key: string]: unknown
 }
 
-export interface LsvDataClass {
+export interface SavedVarsDataClass {
   NewAccountWide: (
-    this: LsvDataClass,
+    this: SavedVarsDataClass,
     savedVariableTable: string,
-    version?: number | string | LsvTable,
-    namespace?: string | LsvTable,
-    defaults?: LsvTable,
+    version?: number | string | SavedVarsTable,
+    namespace?: string | SavedVarsTable,
+    defaults?: SavedVarsTable,
     profile?: string,
     displayName?: string
   ) => DataInstance
   NewCharacterSettings: (
-    this: LsvDataClass,
+    this: SavedVarsDataClass,
     savedVariableTable: string,
-    version?: number | string | LsvTable,
-    namespace?: string | LsvTable,
-    defaults?: LsvTable,
+    version?: number | string | SavedVarsTable,
+    namespace?: string | SavedVarsTable,
+    defaults?: SavedVarsTable,
     profile?: string,
     displayName?: string,
     characterName?: string,
@@ -182,13 +184,13 @@ export interface SavedVarsLibTable {
     destination: unknown,
     doNotOverwrite?: boolean
   ) => void
-  GetRawDataTable: (this: SavedVarsLibTable, savedVars: unknown) => LsvTable
+  GetRawDataTable: (this: SavedVarsLibTable, savedVars: unknown) => SavedVarsTable
   GetWorldNames: (this: SavedVarsLibTable, environment?: string) => string[]
   NewClass: (
     this: SavedVarsLibTable,
     name: string,
     version: number
-  ) => LuaMultiReturn<[LsvTable | undefined, ProtectedTable | undefined]>
+  ) => LuaMultiReturn<[SavedVarsTable | undefined, ProtectedTable | undefined]>
   [key: string]: unknown
 }
 
@@ -196,43 +198,45 @@ export interface ProtectedTable {
   debugMode: boolean
   CreatePath: (
     this: void,
-    t: LsvTable,
+    t: SavedVarsTable,
     path: readonly unknown[]
-  ) => LuaMultiReturn<[LsvTable | undefined, LsvTable | undefined, unknown]>
+  ) => LuaMultiReturn<[SavedVarsTable | undefined, SavedVarsTable | undefined, unknown]>
   Debug: (this: void, message: string, force?: boolean, ...args: unknown[]) => void
   SetDebugMode: (this: void, enable: boolean) => void
   GetSavedVarsPath: (
     this: void,
-    savedVariableTableName: string | LsvTable,
+    savedVariableTableName: string | SavedVarsTable,
     namespace: string | undefined,
     profile: string | undefined,
     displayName?: string,
     characterName?: string,
     characterId?: number | string,
     characterKeyType?: number
-  ) => LuaMultiReturn<[LsvTable, string, string | undefined, unknown, string | undefined]>
+  ) => LuaMultiReturn<[SavedVarsTable, string, string | undefined, unknown, string | undefined]>
   GetSavedVarsTable: (
     this: void,
-    savedVariableTableName: string | LsvTable,
+    savedVariableTableName: string | SavedVarsTable,
     namespace: string | undefined,
     profile: string | undefined,
     displayName?: string,
     characterName?: string,
     characterId?: number | string,
     characterKeyType?: number
-  ) => LuaMultiReturn<[LsvTable | undefined, LsvTable | undefined, unknown, LsvTable, unknown[]]>
+  ) => LuaMultiReturn<
+    [SavedVarsTable | undefined, SavedVarsTable | undefined, unknown, SavedVarsTable, unknown[]]
+  >
   Invert: (this: void, value: unknown) => boolean
   SearchPath: (
     this: void,
-    t: LsvTable,
+    t: SavedVarsTable,
     path: readonly unknown[]
-  ) => LuaMultiReturn<[unknown, LsvTable | undefined, unknown]>
+  ) => LuaMultiReturn<[unknown, SavedVarsTable | undefined, unknown]>
   MaybeSetPath: (
     this: void,
-    t: LsvTable,
+    t: SavedVarsTable,
     value: unknown,
     path: readonly unknown[]
-  ) => LsvTable | undefined
+  ) => SavedVarsTable | undefined
   Migrate: (
     this: void,
     defaultKeyType: number | SavedVarsInfo | undefined,
@@ -249,14 +253,17 @@ export interface ProtectedTable {
   ) => LuaMultiReturn<
     [Record<string, SavedVarsManagerInstance> | undefined, SavedVarsManagerInstance]
   >
-  UnsetPath: (this: void, t: LsvTable, path: readonly unknown[]) => void
-  ValidateSavedVarsTable: (this: void, savedVariableTable: string | LsvTable) => LsvTable
+  UnsetPath: (this: void, t: SavedVarsTable, path: readonly unknown[]) => void
+  ValidateSavedVarsTable: (
+    this: void,
+    savedVariableTable: string | SavedVarsTable
+  ) => SavedVarsTable
 }
 
-export interface LsvRegistry {
+export interface SavedVarsRegistry {
   lib: SavedVarsLibTable
   manager: SavedVarsManagerClass
-  data: LsvDataClass
+  data: SavedVarsDataClass
   protected: ProtectedTable
 }
 
@@ -266,13 +273,13 @@ export type SavedVarsNewFn = (
   savedVariableTable: string,
   version: number,
   namespace: string | undefined,
-  defaults: LsvTable,
+  defaults: SavedVarsTable,
   profile?: string,
   displayName?: string,
   characterName?: string,
   characterId?: number | string,
   characterKeyType?: number
-) => LsvTable
+) => SavedVarsTable
 
 export type SavedVarsAccountWideFn = (
   this: void,
@@ -280,10 +287,10 @@ export type SavedVarsAccountWideFn = (
   savedVariableTable: string,
   version: number,
   namespace: string | undefined,
-  defaults: LsvTable,
+  defaults: SavedVarsTable,
   profile?: string,
   displayName?: string
-) => LsvTable
+) => SavedVarsTable
 
 export interface SavedVarsWritable {
   New: (
@@ -291,38 +298,38 @@ export interface SavedVarsWritable {
     savedVariableTable: string,
     version: number,
     namespace: string | undefined,
-    defaults: LsvTable,
+    defaults: SavedVarsTable,
     profile?: string,
     displayName?: string,
     characterName?: string,
     characterId?: number | string,
     characterKeyType?: number
-  ) => LsvTable
+  ) => SavedVarsTable
   NewCharacterNameSettings: (
     this: SavedVarsWritable,
     savedVariableTable: string,
     version: number,
     namespace: string | undefined,
-    defaults: LsvTable,
+    defaults: SavedVarsTable,
     profile?: string
-  ) => LsvTable
+  ) => SavedVarsTable
   NewCharacterIdSettings: (
     this: SavedVarsWritable,
     savedVariableTable: string,
     version: number,
     namespace: string | undefined,
-    defaults: LsvTable,
+    defaults: SavedVarsTable,
     profile?: string
-  ) => LsvTable
+  ) => SavedVarsTable
   NewAccountWide: (
     this: SavedVarsWritable,
     savedVariableTable: string,
     version: number,
     namespace: string | undefined,
-    defaults: LsvTable,
+    defaults: SavedVarsTable,
     profile?: string,
     displayName?: string
-  ) => LsvTable
+  ) => SavedVarsTable
 }
 
 export interface CallbackManagerExt {

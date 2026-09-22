@@ -37,7 +37,7 @@ import {
   version,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-data-settings/saved-vars-data-settings.module.code.ts"
 import { DATA_STATE } from "akasha/temper/addon/pages/collections/modules/saved-vars-data-state/saved-vars-data-state.module.code.ts"
-import { LSV } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
+import { SAVED_VARS } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
   DataInstance,
   NextFn,
@@ -50,7 +50,7 @@ const CLASSNAME = "Data"
 const CLASSVERSION = 1.8
 
 function dataIndex(this: void, data: DataInstance | undefined, key: string): unknown {
-  LSV.protected.Debug("LSV_Data.__index(<<1>>, <<2>>)", DATA_STATE.debugMode, data, key)
+  SAVED_VARS.protected.Debug("SavedVarsData.__index(<<1>>, <<2>>)", DATA_STATE.debugMode, data, key)
 
   if (data === undefined) {
     return undefined
@@ -82,8 +82,8 @@ function dataNewIndex(
   key: string,
   value: unknown
 ): undefined {
-  LSV.protected.Debug(
-    "LSV_Data.__newindex(<<1>>, <<2>>, <<3>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData.__newindex(<<1>>, <<2>>, <<3>>)",
     DATA_STATE.debugMode,
     data,
     key,
@@ -104,7 +104,7 @@ function dataIpairs(
   this: void,
   data: DataInstance | undefined
 ): LuaIterable<LuaMultiReturn<[number, unknown]>> | undefined {
-  LSV.protected.Debug("LSV_Data.__ipairs(<<1>>, <<2>>)", DATA_STATE.debugMode, data)
+  SAVED_VARS.protected.Debug("SavedVarsData.__ipairs(<<1>>, <<2>>)", DATA_STATE.debugMode, data)
 
   if (data === undefined) {
     return undefined
@@ -112,7 +112,7 @@ function dataIpairs(
 
   const savedVars = getActiveSavedVars(data)
   if (savedVars !== undefined) {
-    const rawDataTable = LSV.lib.GetRawDataTable(savedVars)
+    const rawDataTable = SAVED_VARS.lib.GetRawDataTable(savedVars)
     return ipairs(asUnknownArray(rawDataTable))
   }
   return undefined
@@ -122,14 +122,14 @@ function dataPairs(
   this: void,
   data: DataInstance
 ): LuaMultiReturn<[NextFn, DataInstance, undefined]> {
-  LSV.protected.Debug("LSV_Data.__pairs(<<1>>)", DATA_STATE.debugMode, data)
+  SAVED_VARS.protected.Debug("SavedVarsData.__pairs(<<1>>)", DATA_STATE.debugMode, data)
 
   const [iterator, iterData] = getIterator(data)
   return $multi(iterator, asDataInstance(iterData), undefined)
 }
 
 export function installData(this: void): undefined {
-  const [created] = LSV.lib.NewClass(CLASSNAME, CLASSVERSION)
+  const [created] = SAVED_VARS.lib.NewClass(CLASSNAME, CLASSVERSION)
   if (created === undefined) {
     return undefined
   }
@@ -165,7 +165,7 @@ export function installData(this: void): undefined {
     members.__pairs = dataPairs
   }
 
-  LSV.data = cls
+  SAVED_VARS.data = cls
 
   DATA_STATE.emptyObject = asDataInstance(setmetatable(asDataInstance({ __dataSource: {} }), cls))
 

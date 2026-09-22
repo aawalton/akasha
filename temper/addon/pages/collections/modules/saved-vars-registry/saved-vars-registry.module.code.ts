@@ -1,3 +1,3 @@
-import { asLsvRegistry } from "akasha/temper/addon/pages/collections/modules/saved-vars-casts/saved-vars-casts.module.code.ts"
+import { asSavedVarsRegistry } from "akasha/temper/addon/pages/collections/modules/saved-vars-casts/saved-vars-casts.module.code.ts"
 
-export const LSV = asLsvRegistry({})
+export const SAVED_VARS = asSavedVarsRegistry({})

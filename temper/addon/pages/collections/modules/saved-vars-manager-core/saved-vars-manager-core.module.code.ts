@@ -1,8 +1,8 @@
 import {
   asCallbackManagerExt,
   asIndexable,
-  asLsvTable,
   asManagerInstance,
+  asSavedVarsTable,
   asSavedVarsWritable,
   asString,
   asTable,
@@ -13,12 +13,12 @@ import {
   SAVED_VARS_NAME,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-constants/saved-vars-constants.module.code.ts"
 import { MANAGER_STATE } from "akasha/temper/addon/pages/collections/modules/saved-vars-manager-state/saved-vars-manager-state.module.code.ts"
-import { LSV } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
+import { SAVED_VARS } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
-  LsvTable,
   SavedVarsInfo,
   SavedVarsManagerClass,
   SavedVarsManagerInstance,
+  SavedVarsTable,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
@@ -40,9 +40,9 @@ export function enableDefaultsTrimming(this: void, self: SavedVarsManagerInstanc
 }
 
 export function isProfileWorldName(this: void, self: SavedVarsManagerInstance): boolean {
-  const result = ZO_IsElementInNumericallyIndexedTable(LSV.lib.GetWorldNames(), self.profile)
-  LSV.protected.Debug(
-    `LSV_SavedVarsManager:IsProfileWorldName() == ${tostring(result)} (self.profile==${tostring(self.profile)})`,
+  const result = ZO_IsElementInNumericallyIndexedTable(SAVED_VARS.lib.GetWorldNames(), self.profile)
+  SAVED_VARS.protected.Debug(
+    `SavedVarsManager:IsProfileWorldName() == ${tostring(result)} (self.profile==${tostring(self.profile)})`,
     DEBUG_MODE
   )
   return result
@@ -50,7 +50,10 @@ export function isProfileWorldName(this: void, self: SavedVarsManagerInstance): 
 
 export function fireMigrateStartCallbacks(this: void, self: SavedVarsManagerInstance): undefined {
   const scope = `${MIGRATE_START_CALLBACK_NAME}${self.id}`
-  LSV.protected.Debug(`LSV_SavedVarsManager:FireMigrateStartCallbacks() scope=${scope}`, DEBUG_MODE)
+  SAVED_VARS.protected.Debug(
+    `SavedVarsManager:FireMigrateStartCallbacks() scope=${scope}`,
+    DEBUG_MODE
+  )
   const params = MANAGER_STATE.extraMigrateParams[self.id]
   const [rawSavedVarsTable] = loadRawTableData(self)
   cm.FireCallbacks(scope, rawSavedVarsTable, ...(params ?? []))
@@ -60,8 +63,10 @@ export function fireMigrateStartCallbacks(this: void, self: SavedVarsManagerInst
 export function loadRawTableData(
   this: void,
   self: SavedVarsManagerInstance
-): LuaMultiReturn<[LsvTable | undefined, LsvTable | undefined, unknown, unknown[] | undefined]> {
-  LSV.protected.Debug("LSV_SavedVarsManager:LoadRawTableData()", DEBUG_MODE)
+): LuaMultiReturn<
+  [SavedVarsTable | undefined, SavedVarsTable | undefined, unknown, unknown[] | undefined]
+> {
+  SAVED_VARS.protected.Debug("SavedVarsManager:LoadRawTableData()", DEBUG_MODE)
 
   if (
     self.rawSavedVarsTable !== undefined &&
@@ -82,7 +87,7 @@ export function loadRawTableData(
   }
 
   if (self.keyType === SAVED_VARS_ACCOUNT_KEY) {
-    const [t, parent, key, , path] = LSV.protected.GetSavedVarsTable(
+    const [t, parent, key, , path] = SAVED_VARS.protected.GetSavedVarsTable(
       asString(self.name),
       self.namespace,
       self.profile,
@@ -93,7 +98,7 @@ export function loadRawTableData(
     self.rawSavedVarsTableKey = key
     self.rawSavedVarsTablePath = path
   } else {
-    const [t, parent, key, , path] = LSV.protected.GetSavedVarsTable(
+    const [t, parent, key, , path] = SAVED_VARS.protected.GetSavedVarsTable(
       asString(self.name),
       self.namespace,
       self.profile,
@@ -121,21 +126,21 @@ export function setDebugMode(
   _self: SavedVarsManagerInstance,
   enable: boolean
 ): undefined {
-  LSV.protected.SetDebugMode(enable)
+  SAVED_VARS.protected.SetDebugMode(enable)
 }
 
 export function validate(
   this: void,
   self: SavedVarsManagerInstance
 ): LuaMultiReturn<[boolean, SavedVarsManagerInstance]> {
-  LSV.protected.Debug("LSV_SavedVarsManager:Validate()", DEBUG_MODE)
+  SAVED_VARS.protected.Debug("SavedVarsManager:Validate()", DEBUG_MODE)
 
   if (rawget(self, "table") !== undefined) {
     return $multi(true, self)
   }
 
   const [tableValid, savedVarsTable] = pcall(
-    LSV.protected.ValidateSavedVarsTable,
+    SAVED_VARS.protected.ValidateSavedVarsTable,
     asString(rawget(self, "name"))
   )
 
@@ -143,18 +148,18 @@ export function validate(
     error("Invalid saved vars table specified in field 'name'.")
   }
 
-  LSV.protected.Debug(
-    `Setting 'table' field of LSV_SavedVarsManager ${tostring(self)} to ${tostring(savedVarsTable)}`,
+  SAVED_VARS.protected.Debug(
+    `Setting 'table' field of SavedVarsManager ${tostring(self)} to ${tostring(savedVarsTable)}`,
     DEBUG_MODE
   )
-  rawset(self, "table", asLsvTable(savedVarsTable))
+  rawset(self, "table", asSavedVarsTable(savedVarsTable))
 
   return $multi(true, self)
 }
 
 export function managerIndex(this: void, manager: SavedVarsManagerInstance, key: unknown): unknown {
   if (key !== "savedVars") {
-    return asIndexable(LSV.manager)[asString(key)]
+    return asIndexable(SAVED_VARS.manager)[asString(key)]
   }
 
   if (rawget(manager, "table") === undefined) {
@@ -171,9 +176,9 @@ export function managerIndex(this: void, manager: SavedVarsManagerInstance, key:
     MANAGER_STATE.versionUpdateQueue[manager.id] = undefined
   }
 
-  let savedVars: LsvTable
+  let savedVars: SavedVarsTable
   if (rawget(manager, "keyType") === SAVED_VARS_ACCOUNT_KEY) {
-    LSV.protected.Debug("Lazy loading new account wide saved vars.", DEBUG_MODE)
+    SAVED_VARS.protected.Debug("Lazy loading new account wide saved vars.", DEBUG_MODE)
     savedVars = sv.NewAccountWide(
       asString(rawget(manager, "name")),
       rawget(manager, "version") ?? 1,
@@ -183,7 +188,7 @@ export function managerIndex(this: void, manager: SavedVarsManagerInstance, key:
       rawget(manager, "displayName")
     )
   } else {
-    LSV.protected.Debug("Lazy loading new character-specific saved vars.", DEBUG_MODE)
+    SAVED_VARS.protected.Debug("Lazy loading new character-specific saved vars.", DEBUG_MODE)
     savedVars = sv.New(
       asString(rawget(manager, "name")),
       rawget(manager, "version") ?? 1,
@@ -231,8 +236,8 @@ export function newManager(
 
   setmetatable(manager, self)
 
-  LSV.protected.Debug(
-    `LSV_SavedVarsManager:New() returning ${tostring(manager)} with [table] field = ${tostring(manager.table)}`,
+  SAVED_VARS.protected.Debug(
+    `SavedVarsManager:New() returning ${tostring(manager)} with [table] field = ${tostring(manager.table)}`,
     DEBUG_MODE
   )
   MANAGER_STATE.registry[MANAGER_STATE.nextId] = manager
@@ -244,19 +249,24 @@ export function newManager(
 
 function fillDefaults(
   this: void,
-  tbl: LsvTable | undefined,
-  defaults: LsvTable | undefined
+  tbl: SavedVarsTable | undefined,
+  defaults: SavedVarsTable | undefined
 ): undefined {
   if (tbl === undefined || type(tbl) !== "table" || defaults === undefined) {
     return
   }
-  LSV.protected.Debug("LSV_SavedVarsManager.fillDefaults(<<1>>, <<2>>)", DEBUG_MODE, tbl, defaults)
+  SAVED_VARS.protected.Debug(
+    "SavedVarsManager.fillDefaults(<<1>>, <<2>>)",
+    DEBUG_MODE,
+    tbl,
+    defaults
+  )
   for (const [key, defaultValue] of pairs(defaults)) {
     if (type(defaultValue) === "table") {
       if (tbl[key] === undefined) {
         tbl[key] = {}
       }
-      fillDefaults(asLsvTable(tbl[key]), asLsvTable(defaultValue))
+      fillDefaults(asSavedVarsTable(tbl[key]), asSavedVarsTable(defaultValue))
     } else if (tbl[key] === undefined) {
       tbl[key] = defaultValue
     }
@@ -265,14 +275,14 @@ function fillDefaults(
 
 function fireLazyLoadCallbacks(this: void, self: SavedVarsManagerInstance): undefined {
   const scope = `${LAZY_LOAD_CALLBACK_NAME}${self.id}`
-  LSV.protected.Debug(`LSV_SavedVarsManager:fireLazyLoadCallbacks() scope=${scope}`, DEBUG_MODE)
+  SAVED_VARS.protected.Debug(`SavedVarsManager:fireLazyLoadCallbacks() scope=${scope}`, DEBUG_MODE)
   const params = MANAGER_STATE.extraLazyLoadParams[self.id]
   cm.FireCallbacks(scope, ...(params ?? []))
   unregisterAllLazyLoadCallbacks(self)
 }
 
 export function onLogout(this: void): undefined {
-  LSV.protected.Debug("LSV_SavedVarsManager.onLogout()", DEBUG_MODE)
+  SAVED_VARS.protected.Debug("SavedVarsManager.onLogout()", DEBUG_MODE)
   for (const [, savedVarsManager] of pairs(MANAGER_STATE.versionUpdateQueue)) {
     const [rawDataTable] = loadRawTableData(savedVarsManager)
     const pendingVersion = rawget(savedVarsManager, "pendingVersion")
@@ -299,7 +309,10 @@ export function onLogout(this: void): undefined {
         if (nextKey === undefined) {
           rawDataTable["version"] = undefined
           rawDataTable["$LastCharacterName"] = undefined
-          LSV.protected.UnsetPath(asLsvTable(savedVarsManager.table), rawSavedVarsTablePath ?? [])
+          SAVED_VARS.protected.UnsetPath(
+            asSavedVarsTable(savedVarsManager.table),
+            rawSavedVarsTablePath ?? []
+          )
         }
       }
     }
@@ -307,7 +320,7 @@ export function onLogout(this: void): undefined {
 }
 
 export function onLogoutCanceled(this: void): undefined {
-  LSV.protected.Debug("LSV_SavedVarsManager.onLogoutCanceled()", DEBUG_MODE)
+  SAVED_VARS.protected.Debug("SavedVarsManager.onLogoutCanceled()", DEBUG_MODE)
   for (const [, savedVarsManager] of pairs(MANAGER_STATE.registry)) {
     if (savedVarsManager.isDefaultsTrimmingEnabled) {
       const [rawDataTable] = loadRawTableData(savedVarsManager)
@@ -321,8 +334,8 @@ export function onLogoutCanceled(this: void): undefined {
 
 function trimDefaults(
   this: void,
-  tbl: LsvTable | undefined,
-  defaults: LsvTable | undefined
+  tbl: SavedVarsTable | undefined,
+  defaults: SavedVarsTable | undefined
 ): undefined {
   if (tbl === undefined || type(tbl) !== "table" || defaults === undefined) {
     return
@@ -330,7 +343,7 @@ function trimDefaults(
   for (const [key, defaultValue] of pairs(defaults)) {
     if (type(defaultValue) === "table") {
       if (type(tbl[key]) === "table") {
-        trimDefaults(asLsvTable(tbl[key]), asLsvTable(defaultValue))
+        trimDefaults(asSavedVarsTable(tbl[key]), asSavedVarsTable(defaultValue))
         const child = tbl[key]
         if (child !== undefined) {
           const [firstKey] = next(asTable(child))
@@ -347,8 +360,8 @@ function trimDefaults(
 
 function unregisterAllLazyLoadCallbacks(this: void, self: SavedVarsManagerInstance): undefined {
   const scope = `${LAZY_LOAD_CALLBACK_NAME}${self.id}`
-  LSV.protected.Debug(
-    `LSV_SavedVarsManager:unregisterAllLazyLoadCallbacks() scope=${scope}`,
+  SAVED_VARS.protected.Debug(
+    `SavedVarsManager:unregisterAllLazyLoadCallbacks() scope=${scope}`,
     DEBUG_MODE
   )
   cm.UnregisterAllCallbacks(scope)
@@ -357,8 +370,8 @@ function unregisterAllLazyLoadCallbacks(this: void, self: SavedVarsManagerInstan
 
 function unregisterAllMigrateStartCallbacks(this: void, self: SavedVarsManagerInstance): undefined {
   const scope = `${MIGRATE_START_CALLBACK_NAME}${self.id}`
-  LSV.protected.Debug(
-    `LSV_SavedVarsManager:unregisterAllMigrateStartCallbacks() scope=${scope}`,
+  SAVED_VARS.protected.Debug(
+    `SavedVarsManager:unregisterAllMigrateStartCallbacks() scope=${scope}`,
     DEBUG_MODE
   )
   cm.UnregisterAllCallbacks(scope)

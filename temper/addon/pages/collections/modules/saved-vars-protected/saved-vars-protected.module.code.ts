@@ -1,11 +1,11 @@
 import {
   asIndexable,
-  asLsvTable,
   asManagerClass,
   asManagerInstance,
   asNumber,
   asProtected,
   asSavedVarsInfo,
+  asSavedVarsTable,
   asString,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-casts/saved-vars-casts.module.code.ts"
 import {
@@ -15,11 +15,11 @@ import {
   SAVED_VARS_NAME,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-constants/saved-vars-constants.module.code.ts"
 import { migrateToMegaserverProfiles } from "akasha/temper/addon/pages/collections/modules/saved-vars-protected-migrate/saved-vars-protected-migrate.module.code.ts"
-import { LSV } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
+import { SAVED_VARS } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
-  LsvTable,
   SavedVarsInfo,
   SavedVarsManagerInstance,
+  SavedVarsTable,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
@@ -51,13 +51,13 @@ function setDebugMode(this: void, enable: boolean): undefined {
 
 function createPath(
   this: void,
-  t: LsvTable,
+  t: SavedVarsTable,
   path: readonly unknown[]
-): LuaMultiReturn<[LsvTable | undefined, LsvTable | undefined, unknown]> {
+): LuaMultiReturn<[SavedVarsTable | undefined, SavedVarsTable | undefined, unknown]> {
   logDebug(`createPath for table ${tostring(t)} ${table.concat(stringifyPath(path), " > ")}`)
 
-  let current: LsvTable | undefined = t
-  let container: LsvTable | undefined
+  let current: SavedVarsTable | undefined = t
+  let container: SavedVarsTable | undefined
   let containerKey: unknown
   for (const key of path) {
     if (key !== undefined) {
@@ -78,7 +78,7 @@ function createPath(
       }
       container = current
       containerKey = key
-      current = asLsvTable(indexable[keyStr])
+      current = asSavedVarsTable(indexable[keyStr])
     }
   }
 
@@ -87,14 +87,14 @@ function createPath(
 
 function getSavedVarsPath(
   this: void,
-  savedVariableTableName: string | LsvTable,
+  savedVariableTableName: string | SavedVarsTable,
   namespace: string | undefined,
   profile: string | undefined,
   displayName?: string,
   characterName?: string,
   characterId?: number | string,
   characterKeyType?: number
-): LuaMultiReturn<[LsvTable, string, string | undefined, unknown, string | undefined]> {
+): LuaMultiReturn<[SavedVarsTable, string, string | undefined, unknown, string | undefined]> {
   const savedVariableTable = validateSavedVarsTable(savedVariableTableName)
 
   const profileResolved = profile ?? "Default"
@@ -121,14 +121,16 @@ function getSavedVarsPath(
 
 function getSavedVarsTable(
   this: void,
-  savedVariableTableName: string | LsvTable,
+  savedVariableTableName: string | SavedVarsTable,
   namespace: string | undefined,
   profile: string | undefined,
   displayName?: string,
   characterName?: string,
   characterId?: number | string,
   characterKeyType?: number
-): LuaMultiReturn<[LsvTable | undefined, LsvTable | undefined, unknown, LsvTable, unknown[]]> {
+): LuaMultiReturn<
+  [SavedVarsTable | undefined, SavedVarsTable | undefined, unknown, SavedVarsTable, unknown[]]
+> {
   const [savedVariableTable, path1, path2, path3, path4] = getSavedVarsPath(
     savedVariableTableName,
     namespace,
@@ -145,7 +147,7 @@ function getSavedVarsTable(
     path3,
     path4,
   ])
-  return $multi(asLsvTable(rawSavedVarsTable), parent, key, savedVariableTable, [
+  return $multi(asSavedVarsTable(rawSavedVarsTable), parent, key, savedVariableTable, [
     path1,
     path2,
     path3,
@@ -159,16 +161,16 @@ function invert(this: void, value: unknown): boolean {
 
 function searchPath(
   this: void,
-  t: LsvTable,
+  t: SavedVarsTable,
   path: readonly unknown[]
-): LuaMultiReturn<[unknown, LsvTable | undefined, unknown]> {
+): LuaMultiReturn<[unknown, SavedVarsTable | undefined, unknown]> {
   let current: unknown = t
-  let parent: LsvTable | undefined
+  let parent: SavedVarsTable | undefined
   let lastKey: unknown
   for (const key of path) {
     if (key !== undefined) {
       lastKey = key
-      parent = asLsvTable(current)
+      parent = asSavedVarsTable(current)
       if (current === undefined) {
         return $multi(undefined, undefined, undefined)
       }
@@ -180,10 +182,10 @@ function searchPath(
 
 function maybeSetPath(
   this: void,
-  t: LsvTable,
+  t: SavedVarsTable,
   value: unknown,
   path: readonly unknown[]
-): LsvTable | undefined {
+): SavedVarsTable | undefined {
   logDebug(`maybeSetPath ${table.concat(stringifyPath(path), " > ")} to ${tostring(value)}`)
   const [, parent, lastKey] = searchPath(t, path)
   if (parent !== undefined) {
@@ -243,9 +245,9 @@ function migrate(
   }
 
   const from =
-    asManagerClass(getmetatable(fromInfo)) === LSV.manager
+    asManagerClass(getmetatable(fromInfo)) === SAVED_VARS.manager
       ? asManagerInstance(fromInfo)
-      : LSV.manager.New(fromInfo)
+      : SAVED_VARS.manager.New(fromInfo)
   from.LoadRawTableData()
 
   if (from.rawSavedVarsTable === undefined) {
@@ -268,9 +270,9 @@ function migrate(
       logDebug(`To saved vars ${tostring(i)} keyType is blank. Setting to default key type.`)
     }
     const to =
-      asManagerClass(getmetatable(toSavedVarsInfo)) === LSV.manager
+      asManagerClass(getmetatable(toSavedVarsInfo)) === SAVED_VARS.manager
         ? asManagerInstance(toSavedVarsInfo)
-        : LSV.manager.New(toSavedVarsInfo)
+        : SAVED_VARS.manager.New(toSavedVarsInfo)
     to.Validate()
     logDebug(`To saved vars ${tostring(i)} validated successfully.`)
     toParams.push(to)
@@ -306,7 +308,7 @@ function migrate(
 
       if (to.rawSavedVarsTable === undefined) {
         const [, rawSavedVarsTableParent, rawSavedVarsTableKey] = createPath(
-          asLsvTable(to.table),
+          asSavedVarsTable(to.table),
           to.rawSavedVarsTablePath ?? []
         )
         to.rawSavedVarsTableParent = rawSavedVarsTableParent
@@ -327,7 +329,7 @@ function migrate(
         const destination = asIndexable(to.rawSavedVarsTableParent)[
           asString(to.rawSavedVarsTableKey)
         ]
-        LSV.lib.DeepSavedVarsCopy(from.rawSavedVarsTable, destination)
+        SAVED_VARS.lib.DeepSavedVarsCopy(from.rawSavedVarsTable, destination)
         asIndexable(destination)["version"] = asIndexable(from.rawSavedVarsTable)["version"]
       }
     }
@@ -336,7 +338,7 @@ function migrate(
   return $multi(toParams, from)
 }
 
-function unsetPath(this: void, t: LsvTable, path: readonly unknown[]): undefined {
+function unsetPath(this: void, t: SavedVarsTable, path: readonly unknown[]): undefined {
   const params: unknown[] = [...path]
   while (params.length > 0) {
     const parent = maybeSetPath(t, undefined, params)
@@ -350,7 +352,10 @@ function unsetPath(this: void, t: LsvTable, path: readonly unknown[]): undefined
   }
 }
 
-function validateSavedVarsTable(this: void, savedVariableTable: string | LsvTable): LsvTable {
+function validateSavedVarsTable(
+  this: void,
+  savedVariableTable: string | SavedVarsTable
+): SavedVarsTable {
   logDebug(`validateSavedVarsTable(${tostring(savedVariableTable)})`)
   let resolved = savedVariableTable
   if (type(resolved) !== "table") {
@@ -359,18 +364,18 @@ function validateSavedVarsTable(this: void, savedVariableTable: string | LsvTabl
       logDebug("No global of that name exists. Creating.")
       asIndexable(_G)[name] = {}
     }
-    resolved = asLsvTable(asIndexable(_G)[name])
+    resolved = asSavedVarsTable(asIndexable(_G)[name])
   }
 
   if (type(resolved) !== "table") {
     error("Can only apply saved variables to a table", 3)
   }
   logDebug(`validateSavedVarsTable returning ${tostring(resolved)}`)
-  return asLsvTable(resolved)
+  return asSavedVarsTable(resolved)
 }
 
 export function installProtected(this: void): undefined {
-  const [created] = LSV.lib.NewClass("Protected", 1.2)
+  const [created] = SAVED_VARS.lib.NewClass("Protected", 1.2)
   if (created === undefined) {
     return undefined
   }
@@ -390,6 +395,6 @@ export function installProtected(this: void): undefined {
   members.UnsetPath = unsetPath
   members.ValidateSavedVarsTable = validateSavedVarsTable
 
-  LSV.protected = members
+  SAVED_VARS.protected = members
   return undefined
 }

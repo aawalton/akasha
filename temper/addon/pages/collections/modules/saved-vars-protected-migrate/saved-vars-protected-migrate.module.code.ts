@@ -9,7 +9,7 @@ import {
   SAVED_VARS_CHARACTER_ID_KEY,
   SAVED_VARS_CHARACTER_NAME_KEY,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-constants/saved-vars-constants.module.code.ts"
-import { LSV } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
+import { SAVED_VARS } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
   SavedVarsInfo,
   SavedVarsManagerInstance,
@@ -56,7 +56,7 @@ export function migrateToMegaserverProfiles(
 
   const isAccountWide = toInfo.keyType === SAVED_VARS_ACCOUNT_KEY
 
-  LSV.protected.Debug(
+  SAVED_VARS.protected.Debug(
     `migrateToMegaserverProfiles performing migration to ${
       isAccountWide
         ? "account-wide"
@@ -68,7 +68,7 @@ export function migrateToMegaserverProfiles(
 
   let profiles: string[]
   if (isAccountWide && (copyToAllServers === undefined || copyToAllServers)) {
-    profiles = LSV.lib.GetWorldNames()
+    profiles = SAVED_VARS.lib.GetWorldNames()
   } else {
     profiles = [GetWorldName()]
   }
@@ -78,11 +78,11 @@ export function migrateToMegaserverProfiles(
     profiles.unshift(toInfo.profile)
   }
 
-  LSV.protected.Debug(`#profiles: ${tostring(profiles.length)}`)
+  SAVED_VARS.protected.Debug(`#profiles: ${tostring(profiles.length)}`)
 
   const toSavedVarsInfoList: SavedVarsInfo[] = []
   for (const profile of profiles) {
-    LSV.protected.Debug(`profile: ${tostring(profile)}`)
+    SAVED_VARS.protected.Debug(`profile: ${tostring(profile)}`)
     const toProfileSavedVarsInfo = asSavedVarsInfo({})
     ZO_ShallowTableCopy(toInfo, toProfileSavedVarsInfo)
     setmetatable(toProfileSavedVarsInfo, getmetatable(toInfo))
@@ -90,9 +90,9 @@ export function migrateToMegaserverProfiles(
     toSavedVarsInfoList.push(toProfileSavedVarsInfo)
   }
 
-  LSV.protected.Debug(`#toSavedVarsInfoList: ${tostring(toSavedVarsInfoList.length)}`)
+  SAVED_VARS.protected.Debug(`#toSavedVarsInfoList: ${tostring(toSavedVarsInfoList.length)}`)
 
-  const [toSavedVarsManagers, from] = LSV.protected.Migrate(
+  const [toSavedVarsManagers, from] = SAVED_VARS.protected.Migrate(
     keyTypeDefault,
     fromSavedVarsInfo,
     toSavedVarsInfoList[0],
@@ -100,7 +100,7 @@ export function migrateToMegaserverProfiles(
   )
 
   if (toSavedVarsManagers === undefined) {
-    LSV.protected.Debug("toSavedVarsManagers is nil. Exiting MegaServer profiles migration.")
+    SAVED_VARS.protected.Debug("toSavedVarsManagers is nil. Exiting MegaServer profiles migration.")
     return $multi(undefined, from)
   }
   const toSavedVarsManagersByProfile: Record<string, SavedVarsManagerInstance> = {}
@@ -109,7 +109,7 @@ export function migrateToMegaserverProfiles(
     const profile = asString(asSavedVarsInfo(toSavedVarsInfoList[i - 1]).profile)
     toSavedVarsManagersByProfile[profile] = to
 
-    LSV.protected.Debug(
+    SAVED_VARS.protected.Debug(
       `Saved vars manager detected for ${tostring(to.name)} (${tostring(
         to.name === undefined ? undefined : asIndexable(_G)[to.name]
       )}) profile ${tostring(profile)}: path ${

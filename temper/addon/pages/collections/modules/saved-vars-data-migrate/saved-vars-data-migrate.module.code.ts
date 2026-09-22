@@ -1,6 +1,6 @@
 import {
-  asLsvTable,
   asManagerInstance,
+  asSavedVarsTable,
   asString,
   asUnknownArray,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-casts/saved-vars-casts.module.code.ts"
@@ -10,7 +10,7 @@ import {
   SAVED_VARS_CHARACTER_NAME_KEY,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-constants/saved-vars-constants.module.code.ts"
 import { DATA_STATE } from "akasha/temper/addon/pages/collections/modules/saved-vars-data-state/saved-vars-data-state.module.code.ts"
-import { LSV } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
+import { SAVED_VARS } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
   DataInstance,
   SavedVarsInfo,
@@ -28,8 +28,8 @@ export function migrateFrom(
     fromSavedVarsInfo.keyType = SAVED_VARS_CHARACTER_NAME_KEY
   }
 
-  LSV.protected.Debug(
-    "LSV_Data:MigrateFrom(<<1>> (<<2>>), <<3>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:MigrateFrom(<<1>> (<<2>>), <<3>>)",
     DATA_STATE.debugMode,
     fromSavedVarsInfo,
     asUnknownArray(fromSavedVarsInfo).length,
@@ -41,12 +41,12 @@ export function migrateFrom(
   const ds = self.__dataSource
 
   if (ds.account !== undefined) {
-    LSV.protected.Debug("ds.account block entered")
+    SAVED_VARS.protected.Debug("ds.account block entered")
     if (copyAll === undefined) {
       copyAll = ds.account.IsProfileWorldName()
     }
     const profile = ds.account.profile
-    const [to, fromResult] = LSV.protected.MigrateToMegaserverProfiles(
+    const [to, fromResult] = SAVED_VARS.protected.MigrateToMegaserverProfiles(
       undefined,
       fromSavedVarsInfo,
       copyAll,
@@ -54,13 +54,13 @@ export function migrateFrom(
     )
     from = fromResult
     if (to !== undefined) {
-      LSV.protected.Debug(
+      SAVED_VARS.protected.Debug(
         `Saving account saved var manager for profile ${tostring(profile)} as ${tostring(to[asString(profile)])}`,
         DATA_STATE.debugMode
       )
       ds.account = to[asString(profile)]
     } else {
-      LSV.protected.Debug("toSavedVars was nil", DATA_STATE.debugMode)
+      SAVED_VARS.protected.Debug("toSavedVars was nil", DATA_STATE.debugMode)
     }
   }
 
@@ -68,9 +68,9 @@ export function migrateFrom(
     ds.character !== undefined &&
     (fromSavedVarsInfo.keyType !== SAVED_VARS_ACCOUNT_KEY || !ds.defaultToAccount)
   ) {
-    LSV.protected.Debug("ds.character block entered")
+    SAVED_VARS.protected.Debug("ds.character block entered")
     const profile = ds.character.profile
-    const [to, fromResult] = LSV.protected.MigrateToMegaserverProfiles(
+    const [to, fromResult] = SAVED_VARS.protected.MigrateToMegaserverProfiles(
       undefined,
       fromSavedVarsInfo,
       undefined,
@@ -78,24 +78,24 @@ export function migrateFrom(
     )
     from = fromResult
     if (to !== undefined) {
-      LSV.protected.Debug(
+      SAVED_VARS.protected.Debug(
         `Saving character saved var manager as ${tostring(to[asString(profile)])}`,
         DATA_STATE.debugMode
       )
       ds.character = to[asString(profile)]
     } else {
-      LSV.protected.Debug("toSavedVars was nil", DATA_STATE.debugMode)
+      SAVED_VARS.protected.Debug("toSavedVars was nil", DATA_STATE.debugMode)
     }
   }
 
-  LSV.protected.Debug("Unsetting from raw saved vars path", DATA_STATE.debugMode)
+  SAVED_VARS.protected.Debug("Unsetting from raw saved vars path", DATA_STATE.debugMode)
 
-  LSV.protected.UnsetPath(
-    asLsvTable(asManagerInstance(from).table),
+  SAVED_VARS.protected.UnsetPath(
+    asSavedVarsTable(asManagerInstance(from).table),
     asManagerInstance(from).rawSavedVarsTablePath ?? []
   )
 
-  LSV.protected.Debug("Migration complete.", DATA_STATE.debugMode)
+  SAVED_VARS.protected.Debug("Migration complete.", DATA_STATE.debugMode)
 
   return self
 }
@@ -106,8 +106,8 @@ export function migrateFromAccountWide(
   fromSavedVarsInfo: SavedVarsInfo,
   copyToAllServers?: boolean
 ): DataInstance {
-  LSV.protected.Debug(
-    "LSV_Data:MigrateFromAccountWide(<<1>> (<<2>>), <<3>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:MigrateFromAccountWide(<<1>> (<<2>>), <<3>>)",
     DATA_STATE.debugMode,
     fromSavedVarsInfo,
     asUnknownArray(fromSavedVarsInfo).length,
@@ -123,8 +123,8 @@ export function migrateFromCharacterId(
   fromSavedVarsInfo: SavedVarsInfo,
   copyToAllServers?: boolean
 ): DataInstance {
-  LSV.protected.Debug(
-    "LSV_Data:MigrateFromCharacterId(<<1>> (<<2>>), <<3>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:MigrateFromCharacterId(<<1>> (<<2>>), <<3>>)",
     DATA_STATE.debugMode,
     fromSavedVarsInfo,
     asUnknownArray(fromSavedVarsInfo).length,
@@ -140,8 +140,8 @@ export function migrateFromCharacterName(
   fromSavedVarsInfo: SavedVarsInfo,
   copyToAllServers?: boolean
 ): DataInstance {
-  LSV.protected.Debug(
-    "LSV_Data:MigrateFromCharacterName(<<1>> (<<2>>), <<3>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:MigrateFromCharacterName(<<1>> (<<2>>), <<3>>)",
     DATA_STATE.debugMode,
     fromSavedVarsInfo,
     asUnknownArray(fromSavedVarsInfo).length,

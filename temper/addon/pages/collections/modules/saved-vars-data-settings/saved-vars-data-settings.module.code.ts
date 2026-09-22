@@ -1,8 +1,8 @@
 import {
   asIndexable,
-  asLsvTable,
   asManagerInstance,
   asRenameCallback,
+  asSavedVarsTable,
   asSettingsList,
   asVersionUpdateFn,
   type RenameCallbackFn,
@@ -26,10 +26,10 @@ import {
   DO_NOT_OVERWRITE,
   rawipairs,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-data-state/saved-vars-data-state.module.code.ts"
-import { LSV } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
+import { SAVED_VARS } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
   DataInstance,
-  LsvTable,
+  SavedVarsTable,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
@@ -46,8 +46,8 @@ export function setAccountSavedVarsActive(
   if (self === undefined) {
     return undefined
   }
-  LSV.protected.Debug(
-    "LSV_Data:SetAccountSavedVarsActive(<<1>>, <<2>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:SetAccountSavedVarsActive(<<1>>, <<2>>)",
     DATA_STATE.debugMode,
     accountActive,
     initializeCharacterWithAccount
@@ -78,22 +78,22 @@ export function setAccountSavedVarsActive(
 
   if (initWithAccount && ds.account.savedVars !== undefined) {
     const [accountRaw] = ds.account.LoadRawTableData()
-    let accountVars: LsvTable | undefined = accountRaw
+    let accountVars: SavedVarsTable | undefined = accountRaw
     if (ds.pinnedAccountKeys !== undefined) {
-      accountVars = tableDiffKeys(asLsvTable(accountVars), ds.pinnedAccountKeys)
+      accountVars = tableDiffKeys(asSavedVarsTable(accountVars), ds.pinnedAccountKeys)
     }
 
-    LSV.protected.Debug(
+    SAVED_VARS.protected.Debug(
       "Copying the following settings from account-wide scope to character settings:",
       DATA_STATE.debugMode
     )
-    for (const [key, value] of pairs(asLsvTable(accountVars))) {
-      LSV.protected.Debug("<<1>>: <<2>>", DATA_STATE.debugMode, key, tostring(value))
+    for (const [key, value] of pairs(asSavedVarsTable(accountVars))) {
+      SAVED_VARS.protected.Debug("<<1>>: <<2>>", DATA_STATE.debugMode, key, tostring(value))
     }
 
-    LSV.lib.DeepSavedVarsCopy(accountVars, characterRawDataTable, DO_NOT_OVERWRITE)
+    SAVED_VARS.lib.DeepSavedVarsCopy(accountVars, characterRawDataTable, DO_NOT_OVERWRITE)
   } else {
-    LSV.lib.DeepSavedVarsCopy(ds.character.defaults, characterRawDataTable, DO_NOT_OVERWRITE)
+    SAVED_VARS.lib.DeepSavedVarsCopy(ds.character.defaults, characterRawDataTable, DO_NOT_OVERWRITE)
   }
 
   return self
@@ -103,12 +103,12 @@ export function getLibAddonMenuAccountCheckbox(
   this: void,
   self: DataInstance | undefined,
   initializeCharacterWithAccount?: boolean
-): LsvTable | undefined {
+): SavedVarsTable | undefined {
   if (self === undefined) {
     return undefined
   }
-  LSV.protected.Debug(
-    "LSV_Data:GetLibAddonMenuAccountCheckbox(<<1>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:GetLibAddonMenuAccountCheckbox(<<1>>)",
     DATA_STATE.debugMode,
     initializeCharacterWithAccount
   )
@@ -153,8 +153,8 @@ export function version(
     onUpdate = asVersionUpdateFn(scopeArg)
     scopeArg = undefined
   }
-  LSV.protected.Debug(
-    "LSV_Data:Version(<<1>>, <<2>>, <<3>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:Version(<<1>>, <<2>>, <<3>>)",
     DATA_STATE.debugMode,
     versionNum,
     scopeArg,
@@ -194,8 +194,8 @@ export function removeSettings(
     settings = params
   }
 
-  LSV.protected.Debug(
-    "LSV_Data:RemoveSettings(<<1>>, <<2>>, <<3>> (<<4>>))",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:RemoveSettings(<<1>>, <<2>>, <<3>> (<<4>>))",
     DATA_STATE.debugMode,
     versionNum,
     scopeArg,
@@ -216,7 +216,7 @@ export function renameSettings(
   self: DataInstance,
   versionNum: number,
   scope?: unknown,
-  renameMap?: LsvTable,
+  renameMap?: SavedVarsTable,
   callback?: RenameCallbackFn
 ): DataInstance {
   let scopeArg: unknown = scope
@@ -224,11 +224,11 @@ export function renameSettings(
   let cb = callback
   if (scopeArg !== undefined && type(scopeArg) !== "number") {
     cb = asRenameCallback(map)
-    map = asLsvTable(scopeArg)
+    map = asSavedVarsTable(scopeArg)
     scopeArg = undefined
   }
-  LSV.protected.Debug(
-    "LSV_Data:RenameSettings(<<1>>, <<2>>, <<3>>, <<4>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:RenameSettings(<<1>>, <<2>>, <<3>>, <<4>>)",
     DATA_STATE.debugMode,
     versionNum,
     scopeArg,
@@ -249,14 +249,14 @@ export function renameSettingsAndInvert(
   self: DataInstance,
   versionNum: number,
   scope?: unknown,
-  renameMap?: LsvTable
+  renameMap?: SavedVarsTable
 ): DataInstance {
-  LSV.protected.Debug(
-    "LSV_Data:RenameSettingsAndInvert(<<1>>, <<2>>, <<3>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:RenameSettingsAndInvert(<<1>>, <<2>>, <<3>>)",
     DATA_STATE.debugMode,
     versionNum,
     scope,
     tostring(renameMap)
   )
-  return renameSettings(self, versionNum, scope, renameMap, LSV.protected.Invert)
+  return renameSettings(self, versionNum, scope, renameMap, SAVED_VARS.protected.Invert)
 }

@@ -2,17 +2,17 @@ import type {
   CallbackManagerExt,
   DataInstance,
   DataSource,
-  LsvDataClass,
-  LsvRegistry,
-  LsvTable,
   NextFn,
   ProtectedTable,
   SavedVarsAccountWideFn,
+  SavedVarsDataClass,
   SavedVarsInfo,
   SavedVarsLibTable,
   SavedVarsManagerClass,
   SavedVarsManagerInstance,
   SavedVarsNewFn,
+  SavedVarsRegistry,
+  SavedVarsTable,
   SavedVarsWritable,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
@@ -24,8 +24,8 @@ export type Indexable = Record<string, unknown>
 type Protected = ProtectedTable
 type ManagerClass = SavedVarsManagerClass
 type ManagerInstance = SavedVarsManagerInstance
-type DataClass = LsvDataClass
-type Table = LsvTable
+type DataClass = SavedVarsDataClass
+type Table = SavedVarsTable
 type ZoSavedVars = ZO_SavedVars
 type UnknownArray = unknown[]
 type ConcatList = (string | number)[]
@@ -36,12 +36,12 @@ export function asIndexable(value: unknown): Indexable {
   return value as Indexable
 }
 
-export function asLsvTable(value: unknown): LsvTable {
-  return value as LsvTable
+export function asSavedVarsTable(value: unknown): SavedVarsTable {
+  return value as SavedVarsTable
 }
 
-export function asLsvRegistry(value: unknown): LsvRegistry {
-  return value as LsvRegistry
+export function asSavedVarsRegistry(value: unknown): SavedVarsRegistry {
+  return value as SavedVarsRegistry
 }
 
 export function asSavedVarsLibTable(value: unknown): SavedVarsLibTable {
@@ -124,7 +124,7 @@ export function asZoSavedVars(value: unknown): ZoSavedVars {
   return value as ZoSavedVars
 }
 
-export type VersionUpdateFn = (this: void, rawDataTable: LsvTable) => void
+export type VersionUpdateFn = (this: void, rawDataTable: SavedVarsTable) => void
 export function asVersionUpdateFn(value: unknown): VersionUpdateFn {
   return value as VersionUpdateFn
 }

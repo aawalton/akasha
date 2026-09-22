@@ -3,7 +3,7 @@ import {
   SAVED_VARS_SCOPE_MAX,
   SAVED_VARS_SCOPE_MIN,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-constants/saved-vars-constants.module.code.ts"
-import type { LsvTable } from "akasha/temper/addon/pages/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"
+import type { SavedVarsTable } from "akasha/temper/addon/pages/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -85,8 +85,12 @@ export function shiftOptionalParams(
   )
 }
 
-export function tableDiffKeys(this: void, table1: LsvTable, table2: LsvTable): LsvTable {
-  const diff: LsvTable = {}
+export function tableDiffKeys(
+  this: void,
+  table1: SavedVarsTable,
+  table2: SavedVarsTable
+): SavedVarsTable {
+  const diff: SavedVarsTable = {}
   for (const [key1, value1] of pairs(table1)) {
     if (table2[key1] === undefined) {
       diff[key1] = value1
@@ -95,7 +99,11 @@ export function tableDiffKeys(this: void, table1: LsvTable, table2: LsvTable): L
   return diff
 }
 
-export function tableMerge(this: void, table1: LsvTable, table2: LsvTable): LsvTable {
+export function tableMerge(
+  this: void,
+  table1: SavedVarsTable,
+  table2: SavedVarsTable
+): SavedVarsTable {
   const merged = ZO_ShallowTableCopy(table1)
   for (const [key2, value2] of pairs(table2)) {
     if (table1[key2] === undefined) {
@@ -105,8 +113,12 @@ export function tableMerge(this: void, table1: LsvTable, table2: LsvTable): LsvT
   return merged
 }
 
-export function tableFilterKeys(this: void, tbl: LsvTable, keyTable: LsvTable): LsvTable {
-  const filtered: LsvTable = {}
+export function tableFilterKeys(
+  this: void,
+  tbl: SavedVarsTable,
+  keyTable: SavedVarsTable
+): SavedVarsTable {
+  const filtered: SavedVarsTable = {}
   for (const [key, value] of pairs(tbl)) {
     if (keyTable[key] !== undefined) {
       filtered[key] = value

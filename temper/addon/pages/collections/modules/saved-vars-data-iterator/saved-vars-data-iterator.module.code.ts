@@ -2,8 +2,8 @@ import {
   asDataInstance,
   asDataSource,
   asIndexable,
-  asLsvTable,
   asManagerInstance,
+  asSavedVarsTable,
   asTable,
   asUnknownArray,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-casts/saved-vars-casts.module.code.ts"
@@ -16,11 +16,11 @@ import {
   DATA_STATE,
   rawnext,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-data-state/saved-vars-data-state.module.code.ts"
-import { LSV } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
+import { SAVED_VARS } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
   DataInstance,
-  LsvTable,
   NextFn,
+  SavedVarsTable,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
@@ -29,7 +29,7 @@ export function getIterator(
   this: void,
   self: DataInstance | undefined
 ): LuaMultiReturn<[NextFn, DataInstance | undefined]> {
-  LSV.protected.Debug("LSV_Data:GetIterator()", DATA_STATE.debugMode)
+  SAVED_VARS.protected.Debug("SavedVarsData:GetIterator()", DATA_STATE.debugMode)
   if (self === undefined) {
     return $multi(rawnext, DATA_STATE.emptyObject)
   }
@@ -42,8 +42,8 @@ export function getIterator(
     return $multi(ds.iterator, self)
   }
 
-  const subTables: LsvTable[] = []
-  let pinnedKeys: LsvTable | undefined = ds.pinnedAccountKeys
+  const subTables: SavedVarsTable[] = []
+  let pinnedKeys: SavedVarsTable | undefined = ds.pinnedAccountKeys
   let pinnedIsEmpty = false
   if (pinnedKeys !== undefined) {
     const [firstPinned] = rawnext(pinnedKeys)
@@ -53,7 +53,7 @@ export function getIterator(
     pinnedKeys = undefined
   }
   if (pinnedKeys !== undefined) {
-    let accountRawDataTable: LsvTable | undefined
+    let accountRawDataTable: SavedVarsTable | undefined
     if (ds.account !== undefined) {
       const [raw] = ds.account.LoadRawTableData()
       accountRawDataTable = raw
@@ -65,16 +65,16 @@ export function getIterator(
   }
 
   const savedVars = getActiveSavedVars(self)
-  let rawDataTable: LsvTable | undefined
+  let rawDataTable: SavedVarsTable | undefined
   if (savedVars !== undefined) {
-    rawDataTable = LSV.lib.GetRawDataTable(savedVars)
+    rawDataTable = SAVED_VARS.lib.GetRawDataTable(savedVars)
   }
   if (rawDataTable !== undefined) {
     subTables.push(rawDataTable)
   }
 
-  subTables.push(asLsvTable({ __dataSource: ds }))
-  LSV.protected.Debug(
+  subTables.push(asSavedVarsTable({ __dataSource: ds }))
+  SAVED_VARS.protected.Debug(
     "subTables: <<1>>, #subTables: <<2>>",
     DATA_STATE.debugMode,
     tostring(subTables),
@@ -82,7 +82,7 @@ export function getIterator(
   )
 
   let subTableIndex = 1
-  let subTable: LsvTable | undefined = subTables[0]
+  let subTable: SavedVarsTable | undefined = subTables[0]
   const iterator: NextFn = (_t, key) => {
     let k = key
     if (k === undefined) {
@@ -91,7 +91,7 @@ export function getIterator(
     }
     let value: unknown
     do {
-      LSV.protected.Debug(
+      SAVED_VARS.protected.Debug(
         "subtableIndex: <<1>>, subTable: <<2>>, key: <<3>>",
         DATA_STATE.debugMode,
         subTableIndex,
@@ -107,7 +107,7 @@ export function getIterator(
         subTable = nextSub
       }
     } while (k === undefined && subTable !== undefined)
-    LSV.protected.Debug("key: <<1>>, value: <<2>>", DATA_STATE.debugMode, k, value)
+    SAVED_VARS.protected.Debug("key: <<1>>, value: <<2>>", DATA_STATE.debugMode, k, value)
     if (subTable === undefined) {
       ds.iterator = undefined
     }
@@ -121,9 +121,9 @@ export function getLength(this: void, self: DataInstance | undefined): number {
   if (self === undefined) {
     return 0
   }
-  LSV.protected.Debug("LSV_Data:GetLength()", DATA_STATE.debugMode)
+  SAVED_VARS.protected.Debug("SavedVarsData:GetLength()", DATA_STATE.debugMode)
 
-  const accountActive = getAccountSavedVarsActive(asDataInstance(LSV.data))
+  const accountActive = getAccountSavedVarsActive(asDataInstance(SAVED_VARS.data))
   const selfFields = asIndexable(self)
   if (accountActive === true) {
     if (selfFields["account"] === undefined) {
@@ -139,7 +139,7 @@ export function getLength(this: void, self: DataInstance | undefined): number {
   }
 
   const pinned = asIndexable(selfFields["pinnedAccountKeys"])
-  const rawChar = asIndexable(asLsvTable(rawCharacter))
+  const rawChar = asIndexable(asSavedVarsTable(rawCharacter))
   let i = 1
   while (pinned[i] !== undefined || rawChar[i] !== undefined) {
     i = i + 1

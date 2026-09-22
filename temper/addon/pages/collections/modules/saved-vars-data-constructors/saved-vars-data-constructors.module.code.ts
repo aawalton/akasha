@@ -2,9 +2,9 @@ import {
   asDataInstance,
   asDataSource,
   asIndexable,
-  asLsvTable,
   asManagerInstance,
   asSavedVarsInfo,
+  asSavedVarsTable,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-casts/saved-vars-casts.module.code.ts"
 import {
   SAVED_VARS_ACCOUNT_KEY,
@@ -17,11 +17,11 @@ import {
   tableMerge,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-data-helpers/saved-vars-data-helpers.module.code.ts"
 import { DATA_STATE } from "akasha/temper/addon/pages/collections/modules/saved-vars-data-state/saved-vars-data-state.module.code.ts"
-import { LSV } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
+import { SAVED_VARS } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
   DataInstance,
-  LsvDataClass,
-  LsvTable,
+  SavedVarsDataClass,
+  SavedVarsTable,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
@@ -29,7 +29,7 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function newAccountWide(
   this: void,
-  self: LsvDataClass,
+  self: SavedVarsDataClass,
   savedVariableTable: string,
   version?: unknown,
   namespace?: unknown,
@@ -46,8 +46,8 @@ export function newAccountWide(
     displayName
   )
 
-  LSV.protected.Debug(
-    "LSV_Data:NewAccountWide(<<1>>, <<2>>, <<3>>, <<4>>, <<5>>, <<6>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:NewAccountWide(<<1>>, <<2>>, <<3>>, <<4>>, <<5>>, <<6>>)",
     DATA_STATE.debugMode,
     savedVariableTable,
     v,
@@ -67,7 +67,7 @@ export function newAccountWide(
 
 export function newCharacterSettings(
   this: void,
-  self: LsvDataClass,
+  self: SavedVarsDataClass,
   savedVariableTable: string,
   version?: unknown,
   namespace?: unknown,
@@ -90,8 +90,8 @@ export function newCharacterSettings(
     characterKeyType
   )
 
-  LSV.protected.Debug(
-    "LSV_Data:NewCharacterSettings(<<1>>, <<2>>, <<3>>, <<4>>, <<5>>, <<6>>, <<7>>, <<8>>, <<9>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:NewCharacterSettings(<<1>>, <<2>>, <<3>>, <<4>>, <<5>>, <<6>>, <<7>>, <<8>>, <<9>>)",
     DATA_STATE.debugMode,
     savedVariableTable,
     v,
@@ -138,8 +138,8 @@ export function addAccountWideToggle(
     return undefined
   }
 
-  LSV.protected.Debug(
-    "LSV_Data:AddAccountWideToggle(<<1>>, <<2>>, <<3>>, <<4>>, <<5>>, <<6>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:AddAccountWideToggle(<<1>>, <<2>>, <<3>>, <<4>>, <<5>>, <<6>>)",
     DATA_STATE.debugMode,
     savedVariableTableName,
     version,
@@ -168,15 +168,15 @@ export function addAccountWideToggle(
     nameVal = asManagerInstance(ds.character).name
   }
 
-  const characterDefaults = asLsvTable(
+  const characterDefaults = asSavedVarsTable(
     ZO_ShallowTableCopy(asManagerInstance(ds.character).defaults)
   )
   characterDefaults[SAVED_VARS_NAME] = undefined
   if (defaultsVal === undefined) {
     defaultsVal = characterDefaults
   } else {
-    ds.pinnedAccountKeys = tableDiffKeys(asLsvTable(defaultsVal), characterDefaults)
-    defaultsVal = tableMerge(asLsvTable(defaultsVal), characterDefaults)
+    ds.pinnedAccountKeys = tableDiffKeys(asSavedVarsTable(defaultsVal), characterDefaults)
+    defaultsVal = tableMerge(asSavedVarsTable(defaultsVal), characterDefaults)
   }
 
   if (profileVal === undefined) {
@@ -222,8 +222,8 @@ export function addCharacterSettingsToggle(
     characterKeyType
   )
 
-  LSV.protected.Debug(
-    "LSV_Data:AddCharacterSettingsToggle(<<1>>, <<2>>, <<3>>, <<4>>, <<5>>, <<6>>, <<7>>, <<8>>, <<9>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:AddCharacterSettingsToggle(<<1>>, <<2>>, <<3>>, <<4>>, <<5>>, <<6>>, <<7>>, <<8>>, <<9>>)",
     DATA_STATE.debugMode,
     savedVariableTableName,
     v,
@@ -247,17 +247,17 @@ export function addCharacterSettingsToggle(
     nameVal = asManagerInstance(ds.account).name
   }
 
-  let trimDefaults: LsvTable | undefined
+  let trimDefaults: SavedVarsTable | undefined
   if (defaultsVal === undefined) {
     defaultsVal = {}
-    trimDefaults = asLsvTable(ZO_ShallowTableCopy(asManagerInstance(ds.account).defaults))
+    trimDefaults = asSavedVarsTable(ZO_ShallowTableCopy(asManagerInstance(ds.account).defaults))
   } else {
     ds.pinnedAccountKeys = tableDiffKeys(
       asManagerInstance(ds.account).defaults,
-      asLsvTable(defaultsVal)
+      asSavedVarsTable(defaultsVal)
     )
     const defaultsNotOnAccount = tableDiffKeys(
-      asLsvTable(defaultsVal),
+      asSavedVarsTable(defaultsVal),
       asManagerInstance(ds.account).defaults
     )
     const [firstNotOnAccount] = next(defaultsNotOnAccount)
@@ -305,7 +305,7 @@ function initAccountWide(
   profile: unknown,
   displayName: unknown
 ): undefined {
-  self.__dataSource.account = LSV.manager.New(
+  self.__dataSource.account = SAVED_VARS.manager.New(
     asSavedVarsInfo({
       keyType: SAVED_VARS_ACCOUNT_KEY,
       name: savedVariableTable,
@@ -332,7 +332,7 @@ function initCharacterSettings(
   characterId: unknown,
   characterKeyType: unknown
 ): undefined {
-  self.__dataSource.character = LSV.manager.New(
+  self.__dataSource.character = SAVED_VARS.manager.New(
     asSavedVarsInfo({
       keyType: characterKeyType ?? SAVED_VARS_CHARACTER_ID_KEY,
       name: savedVariableTable,
@@ -352,7 +352,7 @@ function initToggle(this: void, self: DataInstance): undefined {
   const ds = self.__dataSource
 
   if (ds.character === undefined) {
-    LSV.protected.Debug(
+    SAVED_VARS.protected.Debug(
       "Trying to initialized toggle failed. No character-specific saved vars manager found.",
       DATA_STATE.debugMode
     )
@@ -360,7 +360,7 @@ function initToggle(this: void, self: DataInstance): undefined {
   }
 
   if (ds.account === undefined) {
-    LSV.protected.Debug(
+    SAVED_VARS.protected.Debug(
       "Trying to initialized toggle failed. No account-wide saved vars manager found.",
       DATA_STATE.debugMode
     )
@@ -393,7 +393,7 @@ function initToggle(this: void, self: DataInstance): undefined {
       accDefaults !== undefined &&
       firstAccDefault !== undefined
     ) {
-      ds.character.defaults = asLsvTable(ZO_ShallowTableCopy(accDefaults))
+      ds.character.defaults = asSavedVarsTable(ZO_ShallowTableCopy(accDefaults))
     }
   }
 

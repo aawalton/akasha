@@ -2,9 +2,9 @@ import {
   asCallbackManagerExt,
   asConcatList,
   asIndexable,
-  asLsvTable,
   asManagerClass,
   asNumber,
+  asSavedVarsTable,
   asString,
   asTable,
   asUnknownArray,
@@ -23,10 +23,10 @@ import {
   validate,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-manager-core/saved-vars-manager-core.module.code.ts"
 import { MANAGER_STATE } from "akasha/temper/addon/pages/collections/modules/saved-vars-manager-state/saved-vars-manager-state.module.code.ts"
-import { LSV } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
+import { SAVED_VARS } from "akasha/temper/addon/pages/collections/modules/saved-vars-registry/saved-vars-registry.module.code.ts"
 import type {
-  LsvTable,
   SavedVarsManagerInstance,
+  SavedVarsTable,
 } from "akasha/temper/addon/pages/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
@@ -54,7 +54,10 @@ function registerLazyLoadCallback(
   ...rest: unknown[]
 ): string {
   const scope = `${LAZY_LOAD_CALLBACK_NAME}${self.id}`
-  LSV.protected.Debug(`LSV_SavedVarsManager:RegisterLazyLoadCallback() scope=${scope}`, DEBUG_MODE)
+  SAVED_VARS.protected.Debug(
+    `SavedVarsManager:RegisterLazyLoadCallback() scope=${scope}`,
+    DEBUG_MODE
+  )
   if (rest.length > 0) {
     MANAGER_STATE.extraLazyLoadParams[self.id] = [...rest]
   }
@@ -70,8 +73,8 @@ function registerMigrateStartCallback(
   ...rest: unknown[]
 ): undefined {
   const scope = `${MIGRATE_START_CALLBACK_NAME}${self.id}`
-  LSV.protected.Debug(
-    `LSV_SavedVarsManager:RegisterMigrateStartCallback() scope=${scope}`,
+  SAVED_VARS.protected.Debug(
+    `SavedVarsManager:RegisterMigrateStartCallback() scope=${scope}`,
     DEBUG_MODE
   )
   if (rest.length > 0) {
@@ -98,8 +101,8 @@ function removeSettings(
   } else {
     settings = asUnknownArray(settingsToRemove)
   }
-  LSV.protected.Debug(
-    "LSV_Data:RemoveSettings(<<1>>, <<2>> (<<3>>))",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsData:RemoveSettings(<<1>>, <<2>> (<<3>>))",
     DEBUG_MODE,
     versionNum,
     tostring(settings),
@@ -112,28 +115,31 @@ function removeSettings(
 
   const [rawDataTable] = loadRawTableData(self)
   if (rawDataTable === undefined) {
-    LSV.protected.Debug(`Saved vars don't exist. Skipping ${pathConcat(self)}`, DEBUG_MODE)
+    SAVED_VARS.protected.Debug(`Saved vars don't exist. Skipping ${pathConcat(self)}`, DEBUG_MODE)
     return self
   }
   const rdtVersion = rawDataTable["version"]
   if (rdtVersion !== undefined && rdtVersion !== false && asNumber(rdtVersion) >= versionNum) {
-    LSV.protected.Debug(`Version check passed. Skipping ${pathConcat(self)}`, DEBUG_MODE)
+    SAVED_VARS.protected.Debug(`Version check passed. Skipping ${pathConcat(self)}`, DEBUG_MODE)
     return self
   }
 
-  LSV.protected.Debug(
+  SAVED_VARS.protected.Debug(
     `Raw data table at ${pathConcat(self)} has ${NonContiguousCount(rawDataTable)} items.`,
     DEBUG_MODE
   )
   for (const settingToRemove of settings) {
-    LSV.protected.Debug(`Setting rawDataTable['${tostring(settingToRemove)}'] = nil`, DEBUG_MODE)
+    SAVED_VARS.protected.Debug(
+      `Setting rawDataTable['${tostring(settingToRemove)}'] = nil`,
+      DEBUG_MODE
+    )
     rawDataTable[asString(settingToRemove)] = undefined
   }
-  LSV.protected.Debug(
+  SAVED_VARS.protected.Debug(
     `Raw data table at ${pathConcat(self)} has ${NonContiguousCount(rawDataTable)} items.`,
     DEBUG_MODE
   )
-  LSV.protected.Debug(`${tostring(settings.length)} settings removed.`, DEBUG_MODE)
+  SAVED_VARS.protected.Debug(`${tostring(settings.length)} settings removed.`, DEBUG_MODE)
 
   if (self.pendingVersion === undefined || self.pendingVersion < versionNum) {
     self.pendingVersion = versionNum
@@ -146,20 +152,20 @@ function removeSettings(
 function renameSettings(
   this: void,
   self: SavedVarsManagerInstance,
-  version: number | LsvTable,
-  renameMap?: LsvTable,
+  version: number | SavedVarsTable,
+  renameMap?: SavedVarsTable,
   callback?: (this: void, value: unknown) => unknown
 ): SavedVarsManagerInstance {
   let versionNum: number | undefined
   let map = renameMap
   if (type(version) === "table") {
-    map = asLsvTable(version)
+    map = asSavedVarsTable(version)
     versionNum = undefined
   } else {
     versionNum = asNumber(version)
   }
-  LSV.protected.Debug(
-    "LSV_SavedVarsManager:RenameSettings(<<1>>, <<2>>, <<3>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsManager:RenameSettings(<<1>>, <<2>>, <<3>>)",
     DEBUG_MODE,
     versionNum,
     map,
@@ -172,7 +178,7 @@ function renameSettings(
 
   const [rawDataTable] = loadRawTableData(self)
   if (rawDataTable === undefined) {
-    LSV.protected.Debug(`Saved vars don't exist. Skipping ${pathConcat(self)}`, DEBUG_MODE)
+    SAVED_VARS.protected.Debug(`Saved vars don't exist. Skipping ${pathConcat(self)}`, DEBUG_MODE)
     return self
   }
   const rdtVersion = rawDataTable["version"]
@@ -182,7 +188,7 @@ function renameSettings(
     rdtVersion !== false &&
     asNumber(rdtVersion) >= versionNum
   ) {
-    LSV.protected.Debug(`Version check passed. Skipping ${pathConcat(self)}`, DEBUG_MODE)
+    SAVED_VARS.protected.Debug(`Version check passed. Skipping ${pathConcat(self)}`, DEBUG_MODE)
     return self
   }
 
@@ -198,7 +204,7 @@ function renameSettings(
       count = count + 1
     }
   }
-  LSV.protected.Debug(`${tostring(count)} settings renamed.`, DEBUG_MODE)
+  SAVED_VARS.protected.Debug(`${tostring(count)} settings renamed.`, DEBUG_MODE)
 
   if (self.pendingVersion === undefined || self.pendingVersion < asNumber(versionNum)) {
     self.pendingVersion = versionNum
@@ -212,15 +218,15 @@ function renameSettingsAndInvert(
   this: void,
   self: SavedVarsManagerInstance,
   version: number,
-  renameMap: LsvTable
+  renameMap: SavedVarsTable
 ): SavedVarsManagerInstance {
-  LSV.protected.Debug(
-    "LSV_SavedVarsManager:RenameSettingsAndInvert(<<1>>, <<2>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsManager:RenameSettingsAndInvert(<<1>>, <<2>>)",
     DEBUG_MODE,
     version,
     renameMap
   )
-  return renameSettings(self, version, renameMap, LSV.protected.Invert)
+  return renameSettings(self, version, renameMap, SAVED_VARS.protected.Invert)
 }
 
 function unregisterLazyLoadCallback(
@@ -229,8 +235,8 @@ function unregisterLazyLoadCallback(
   callback: (this: void, ...args: never[]) => void
 ): undefined {
   const scope = `${LAZY_LOAD_CALLBACK_NAME}${self.id}`
-  LSV.protected.Debug(
-    `LSV_SavedVarsManager:UnregisterLazyLoadCallback() scope=${scope}`,
+  SAVED_VARS.protected.Debug(
+    `SavedVarsManager:UnregisterLazyLoadCallback() scope=${scope}`,
     DEBUG_MODE
   )
   cm.UnregisterCallback(scope, callback)
@@ -243,8 +249,8 @@ function unregisterMigrateStartCallback(
   callback: (this: void, ...args: never[]) => void
 ): undefined {
   const scope = `${MIGRATE_START_CALLBACK_NAME}${self.id}`
-  LSV.protected.Debug(
-    `LSV_SavedVarsManager:UnregisterMigrateStartCallback() scope=${scope}`,
+  SAVED_VARS.protected.Debug(
+    `SavedVarsManager:UnregisterMigrateStartCallback() scope=${scope}`,
     DEBUG_MODE
   )
   cm.UnregisterCallback(scope, callback)
@@ -255,10 +261,10 @@ function version(
   this: void,
   self: SavedVarsManagerInstance,
   versionNum: number,
-  onVersionUpdate: (this: void, rawDataTable: LsvTable) => void
+  onVersionUpdate: (this: void, rawDataTable: SavedVarsTable) => void
 ): SavedVarsManagerInstance {
-  LSV.protected.Debug(
-    "LSV_SavedVarsManager:Version(<<1>>, <<2>>)",
+  SAVED_VARS.protected.Debug(
+    "SavedVarsManager:Version(<<1>>, <<2>>)",
     DEBUG_MODE,
     versionNum,
     onVersionUpdate
@@ -270,12 +276,12 @@ function version(
 
   const [rawDataTable] = loadRawTableData(self)
   if (rawDataTable === undefined) {
-    LSV.protected.Debug(`Saved vars don't exist. Skipping ${pathConcat(self)}`, DEBUG_MODE)
+    SAVED_VARS.protected.Debug(`Saved vars don't exist. Skipping ${pathConcat(self)}`, DEBUG_MODE)
     return self
   }
   const rdtVersion = rawDataTable["version"]
   if (rdtVersion !== undefined && rdtVersion !== false && asNumber(rdtVersion) >= versionNum) {
-    LSV.protected.Debug("Version check failed. Skipping.", DEBUG_MODE)
+    SAVED_VARS.protected.Debug("Version check failed. Skipping.", DEBUG_MODE)
     return self
   }
 
@@ -290,7 +296,7 @@ function version(
 }
 
 export function installSavedVarsManager(this: void): undefined {
-  const [created] = LSV.lib.NewClass(CLASSNAME, CLASSVERSION)
+  const [created] = SAVED_VARS.lib.NewClass(CLASSNAME, CLASSVERSION)
   if (created === undefined) {
     return undefined
   }
@@ -314,7 +320,7 @@ export function installSavedVarsManager(this: void): undefined {
   members.New = newManager
   members.__index = managerIndex
 
-  LSV.manager = cls
+  SAVED_VARS.manager = cls
 
   ZO_PreHook("Logout", onLogout)
   ZO_PreHook("Quit", onLogout)
