@@ -117,7 +117,6 @@
 {"propertySlug":"name-format","path":"temper/catalog/skill/temper-scribed-skill/properties/focus-script-id.text-property.ts","id":"01a05fca-cb82-7061-bc09-5c8739182b83"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/temper-scribed-skill/properties/grimoire-id.text-property.ts","id":"01a05fca-cb83-73a3-afc2-bf571210f393"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/temper-scribing-source/properties/script-type.text-property.ts","id":"01a05fca-cb86-7ada-8ab9-4822a45c4ebf"}
-{"propertySlug":"name-format","path":"temper/catalog/skill/temper-scribing-source/properties/zone-slugs.text-property.ts","id":"01a05fca-cb88-7387-b51b-731bff669c39"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/temper-script/properties/slot-type.text-property.ts","id":"01a05fca-cb87-767f-90a1-977b2c340bc6"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/armor-weight.text-property.ts","id":"01a05fe0-8428-703e-953c-0bf31d04039f"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/effect-type.text-property.ts","id":"01a05fb0-3cec-7336-a2af-ef2657a47e86"}

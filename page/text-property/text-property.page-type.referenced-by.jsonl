@@ -575,7 +575,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/temper-scribed-skill/properties/focus-script-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/temper-scribed-skill/properties/grimoire-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/temper-scribing-source/properties/script-type.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/temper-scribing-source/properties/zone-slugs.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/skill/temper-script/properties/slot-type.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/thing/properties/achievement-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/thing/properties/armor-weight.text-property.ts"}

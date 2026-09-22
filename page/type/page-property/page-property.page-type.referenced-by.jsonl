@@ -187,7 +187,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/valid-pieces.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/thing/properties/valid-slots.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/skill/temper-grimoire/properties/focus-scripts.text-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/skill/temper-scribing-source/properties/zone-slugs.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/skill/temper-scribing-source/properties/zone-slugs.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/thing/properties/effect-weapon-types.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/companion-build/properties/base-roles.select-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-account-character/properties/character-roles.multi-relation-property.types.ts"}
