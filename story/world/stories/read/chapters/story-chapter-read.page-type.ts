@@ -6,7 +6,7 @@ export const storyChapterRead = {
   slug: "story-chapter-read",
   definition: "a chapter of a story somebody else wrote",
   pluralSlug: "chapters",
-  extends: ["page-type/collection-external"],
+  extends: ["page-type/chapter", "page-type/collection-external"],
   runsTabooCheck: false,
   detailConfig: {
     frame: {
@@ -44,7 +44,6 @@ export const storyChapterRead = {
     "number-property/anchor-beat",
     "number-property/anchor-volume",
     "page-property-entry/chronology-anchors",
-    "relation-property/read-chapter-story",
     "select-property/anchor-direction",
     "select-property/anchor-kind",
     "select-property/anchor-standing",
@@ -55,24 +54,11 @@ export const storyChapterRead = {
     "text-property/anchor-reference",
   ],
   properties: [
-    { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "relation-property/read-chapter-story", required: true, many: false },
-    { pageProperty: "number-property/own-length", required: true, many: false },
-    { pageProperty: "file-property/prose", required: true, many: false },
     { pageProperty: "instant-property/removed-at", required: false, many: false },
     { pageProperty: "instant-property/marked-read-at", required: false, many: false },
     { pageProperty: "page-property-entry/chronology-anchors", required: false, many: false },
   ],
   decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A chapter has the words of the chapter's author rather than akasha's own.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A chapter is part of the one story the chapter was read in.",
-    },
-
     {
       decisionKind: "decision-kind/departure",
       statement: "The source a chapter came from is the source its story names.",
