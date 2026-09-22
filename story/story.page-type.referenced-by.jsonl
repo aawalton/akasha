@@ -7,3 +7,4 @@
 {"propertySlug":"import","fileName":"story.page-type.types.ts","path":"story/world/stories/written/story-written.page-type.types.ts"}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/awen-engine-improvements.initiative.ts","id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
+{"propertySlug":"target-page-type","path":"story/chapter/properties/chapter-story.relation-property.ts","id":"01a0c990-40b9-7554-9f99-58add65cd7d4"}

@@ -387,6 +387,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"product/kofi/contributor/contributor.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"product/kofi/feature-request/feature-request.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/chapter/chapter.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/engine/doctrine/doctrine.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/game/attribute/game-attribute.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/game/design-entry/game-design-entry.page-type.ts"}
