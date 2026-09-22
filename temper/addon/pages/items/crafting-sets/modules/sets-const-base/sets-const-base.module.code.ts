@@ -25,7 +25,6 @@ lib.name = MAJOR
 const libPrefix = "[" + MAJOR + "]"
 lib.prefix = libPrefix
 lib.version = MINOR
-lib.author = "Baertram"
 lib.svName = "LibSets_SV_Data"
 lib.svDebugName = "LibSets_SV_DEBUG_Data"
 lib.svVersion = 0.38

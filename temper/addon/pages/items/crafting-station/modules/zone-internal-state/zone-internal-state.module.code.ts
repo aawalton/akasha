@@ -8,7 +8,7 @@ export const INTERNAL_STATE: {
   poiNameDebugTable: PoiNameDebugTable | undefined
   poiDataTable: unknown
 } = {
-  isZoneDataAuthor: GetDisplayName() === "@Baertram",
+  isZoneDataAuthor: false,
   mapNamesWereBuild: false,
   poiNameDebugTable: undefined,
   poiDataTable: undefined,

@@ -3,8 +3,6 @@ export const LIB_NAME = "TemperItemsCraftingZones"
 export const LIBRARY_INFO = {
   name: "TemperItemsCraftingZones",
   version: 8.98,
-  author: "Baertram",
-  url: "https://www.esoui.com/downloads/info2171-LibZone.html",
   svDataName: "LibZone_SV_Data",
   svLocalizedDataName: "LibZone_Localized_SV_Data",
   svGeoDebugDataName: "LibZone_GeoDebug_SV_Data",
