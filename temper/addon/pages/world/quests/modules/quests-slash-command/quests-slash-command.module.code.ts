@@ -1,4 +1,4 @@
-import "akasha/temper/addon/type/temper-hud-global/temper-hud-global.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-global/temper-global.type-declaration.d.ts"
 
 import { ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
 import {

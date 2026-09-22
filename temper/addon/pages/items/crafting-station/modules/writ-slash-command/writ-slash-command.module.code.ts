@@ -9,7 +9,7 @@ import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaratio
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-writ-slash/eso-writ-slash.type-declaration.d.ts"
-import "akasha/temper/addon/type/temper-hud-global/temper-hud-global.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-global/temper-global.type-declaration.d.ts"
 
 export function forget(this: void): undefined {
   const sc = TemperWrit.savedChariables

@@ -60,7 +60,7 @@ import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.m
 import { startPerfTrace } from "akasha/temper/modules/perf-trace/perf-trace.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/addon/type/temper-hud-global/temper-hud-global.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-global/temper-global.type-declaration.d.ts"
 
 function initialize(): undefined {
   const perfStart = startPerfTrace()

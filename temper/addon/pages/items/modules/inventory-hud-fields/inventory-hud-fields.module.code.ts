@@ -1,4 +1,4 @@
-import "akasha/temper/addon/type/temper-hud-global/temper-hud-global.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-global/temper-global.type-declaration.d.ts"
 
 import {
   GREEN,

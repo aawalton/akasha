@@ -1,4 +1,4 @@
-import "akasha/temper/addon/type/temper-hud-global/temper-hud-global.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-global/temper-global.type-declaration.d.ts"
 
 import { GLOBAL_PACK_NAME } from "akasha/temper/addon/pages/temper-core/temper-selector/modules/selector-constants/selector-constants.module.code.ts"
 import {
