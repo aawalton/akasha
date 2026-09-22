@@ -19,6 +19,7 @@ const MODEL_SLUGS: readonly string[] = [
   "ui-control-model",
   "ui-event-model",
   "ui-text-model",
+  "ui-scene-model",
 ]
 
 const NAMED = /^[A-Za-z_][A-Za-z0-9_]*$/

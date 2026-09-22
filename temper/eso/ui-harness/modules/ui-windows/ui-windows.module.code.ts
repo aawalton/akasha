@@ -52,7 +52,7 @@ const WINDOWS: readonly UiWindow[] = [
       ref.setSavedVarsInstance(__ui_account_wide(TemperInventory_SavedVariables))
       local browser = __bundle_require("${ITEMS_BROWSER}")
       browser.initializeInventoryBrowser()
-      browser.toggleInventoryBrowser()
+      __ui_scene("inventory", SCENE_SHOWN)
     `,
   },
 ]

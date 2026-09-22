@@ -1975,6 +1975,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-windows/ui-windows.module.ts","id":"01a0ca65-c4cb-73a7-ad02-0bed65be11c3"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-event-model/ui-event-model.lua-module.ts","id":"01a0c98b-f0fa-7635-957c-f4b8fc656fe0"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-scene-model/ui-scene-model.lua-module.ts","id":"01a0ca7b-5ce2-75de-85ef-5e0f626588b7"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-text-model/ui-text-model.lua-module.ts","id":"01a0c9f5-7be6-7247-880c-a8fde9d42eb2"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.ts","id":"01a060d9-498b-7d49-9f36-43409f335af9"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.ts","id":"01a0612e-28d6-7df8-bb5c-419ce436eb8f"}
