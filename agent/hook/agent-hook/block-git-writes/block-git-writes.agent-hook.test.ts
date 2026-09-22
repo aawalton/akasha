@@ -1,6 +1,7 @@
 import { afterAll, beforeAll, expect, test } from "bun:test"
 import { join } from "node:path"
 import {
+  judgedFor,
   refusalFor,
   refusalIn,
   SCOPE,
@@ -23,6 +24,19 @@ const HELP = "that refusal names every change an apply runs."
 beforeAll(statingAkasha)
 
 afterAll(restoringAkasha)
+
+test("the judgement this hook exports refuses what its rule refuses", () => {
+  const said = judgedFor({ tool_input: { command: "git commit -m one" } })
+
+  expect(parseRefusal(said.out).reason).toContain("block-git-writes refused this call.")
+})
+
+test("the judgement this hook exports leaves a call its rule lets through alone", () => {
+  const said = judgedFor({ tool_input: { command: "git status" } })
+
+  expect(said.out).toBe("")
+  expect(said.err).toBe("")
+})
 
 test("a commit naming no paths is refused, and this is the call that took the gate down", () => {
   expect(refusalIn('git commit -m "one"')).not.toBeNull()
