@@ -11,7 +11,6 @@ export const provisioning = {
     "shell-script/akasha-launcher",
     "shell-script/ci-cost-snapshot",
     "shell-script/find-session",
-    "shell-script/link-making",
     "shell-script/repo-roots",
     "shell-script/rg",
     "shell-script/wallpaper-black",
