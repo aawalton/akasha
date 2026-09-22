@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"page/ui/component/modules/markdown-property-badge/markdown-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"page/ui/component/modules/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"page/ui/component/modules/page-card-properties/page-card-properties.module.code.tsx"}
+{"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"page/ui/component/modules/page-detail-properties/page-detail-properties.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"page/ui/component/modules/page-title-properties/page-title-properties.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"page/ui/component/modules/progress-property-badge/progress-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"page/ui/component/modules/property-badge-drawings/property-badge-drawings.module.code.ts"}

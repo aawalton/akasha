@@ -6,4 +6,11 @@ export const pageDetailContent = {
   slug: "page-detail-content",
   definition: "the body of one page, drawn by the component its page type names",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An app that is not editing writes nothing when a page is read, not even the view.",
+    },
+  ],
 } as const satisfies Module

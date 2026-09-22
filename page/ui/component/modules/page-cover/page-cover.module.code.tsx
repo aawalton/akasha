@@ -16,7 +16,7 @@ import { useState } from "react"
 
 interface PageCoverProps {
   coverUrl: string | null
-  onChange: (url: string | null) => void
+  onChange?: (url: string | null) => void
 }
 
 function CoverUrlForm({ initial, onSubmit }: { initial: string; onSubmit: (url: string) => void }) {
@@ -52,6 +52,7 @@ export function PageCover({ coverUrl, onChange }: PageCoverProps) {
   const surface = useSurface()
 
   if (coverUrl == null) {
+    if (onChange === undefined) return null
     return (
       <Popover>
         <PopoverTrigger asChild>
@@ -84,34 +85,36 @@ export function PageCover({ coverUrl, onChange }: PageCoverProps) {
           </div>
         }
       />
-      <div
-        className={cn(
-          "absolute top-2 right-2 flex gap-1.5 opacity-0 transition-opacity group-hover:opacity-100",
-          replaceOpen && "opacity-100"
-        )}
-      >
-        <Popover open={replaceOpen} onOpenChange={setReplaceOpen}>
-          <PopoverTrigger asChild>
-            <Button variant="secondary" size="sm">
-              <Pencil />
-              Replace
-            </Button>
-          </PopoverTrigger>
-          <PopoverContent align="end" className="w-80">
-            <CoverUrlForm
-              initial={coverUrl}
-              onSubmit={(url) => {
-                onChange(url)
-                setReplaceOpen(false)
-              }}
-            />
-          </PopoverContent>
-        </Popover>
-        <Button variant="destructive" size="sm" onClick={() => onChange(null)}>
-          <Trash2 />
-          Remove
-        </Button>
-      </div>
+      {onChange === undefined ? null : (
+        <div
+          className={cn(
+            "absolute top-2 right-2 flex gap-1.5 opacity-0 transition-opacity group-hover:opacity-100",
+            replaceOpen && "opacity-100"
+          )}
+        >
+          <Popover open={replaceOpen} onOpenChange={setReplaceOpen}>
+            <PopoverTrigger asChild>
+              <Button variant="secondary" size="sm">
+                <Pencil />
+                Replace
+              </Button>
+            </PopoverTrigger>
+            <PopoverContent align="end" className="w-80">
+              <CoverUrlForm
+                initial={coverUrl}
+                onSubmit={(url) => {
+                  onChange(url)
+                  setReplaceOpen(false)
+                }}
+              />
+            </PopoverContent>
+          </Popover>
+          <Button variant="destructive" size="sm" onClick={() => onChange(null)}>
+            <Trash2 />
+            Remove
+          </Button>
+        </div>
+      )}
     </div>
   )
 }

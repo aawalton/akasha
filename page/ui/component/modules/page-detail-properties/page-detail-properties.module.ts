@@ -19,5 +19,9 @@ export const pageDetailProperties = {
       decisionKind: "decision-kind/absence",
       statement: "No row here is dragged into an order of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row nobody may edit is left out where its value is empty.",
+    },
   ],
 } as const satisfies Module

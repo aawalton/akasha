@@ -4,6 +4,7 @@ import type { SentenceMark } from "akasha/alan/harness/voice-core/modules/mark-s
 import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { pageTypeChain } from "akasha/page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
+import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { PAGE_TYPE_SLUG } from "akasha/page/ui/component/modules/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"
 import { drawingAlong } from "akasha/page/ui/component/modules/page-drawings/page-drawings.module.code.ts"
 import type { ReaderNeighborLink } from "akasha/page/ui/component/modules/reader-chrome/reader-chrome.module.code.tsx"
@@ -36,11 +37,12 @@ const FALLS_BACK_TO = "page"
 export function PageDetailContent(props: PageDrawingProps) {
   const { pageTypeSlug, id } = props
   const { page, isLoading: pageIsLoading } = usePage({ pageTypeSlug, id })
+  const editing = useAppEditing()
   useRecordPageView({
     pageTypeSlug,
     id,
     lastViewedAt: page?.properties?.lastViewedAt,
-    enabled: page != null,
+    enabled: editing && page != null,
   })
   const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
   const known = pageTypes.some((pt) => pt.properties?.slug === pageTypeSlug)

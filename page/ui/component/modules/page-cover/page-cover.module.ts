@@ -6,4 +6,14 @@ export const pageCover = {
   slug: "page-cover",
   definition: "a page's cover image and the popover setting the url it loads from",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cover nobody may change is the image alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No cover and no way to set one is nothing at all.",
+    },
+  ],
 } as const satisfies Module

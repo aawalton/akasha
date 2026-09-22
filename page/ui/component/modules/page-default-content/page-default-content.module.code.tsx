@@ -13,8 +13,10 @@ import {
   EmptyTitle,
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import { IconPicker } from "akasha/design/interface/pattern/modules/icon-picker/icon-picker.module.code.tsx"
+import { Icon } from "akasha/design/interface/pattern/modules/lucide-icon/lucide-icon.module.code.tsx"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { BlockEditor } from "akasha/page/ui/block-editor/modules/block-editor/block-editor.module.code.tsx"
+import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { MultiRelationPropertyBadge } from "akasha/page/ui/component/modules/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"
 import { PageCover } from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
 import { PageDetailHeaderMenu } from "akasha/page/ui/component/modules/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
@@ -65,6 +67,7 @@ export function PageDefaultContent({
     pageTypeSlugById,
     allDefinitions,
   } = usePageDefaultContent({ pageTypeSlug, id })
+  const editing = useAppEditing()
 
   return (
     <PageLayout loading={isLoading} skeleton={simplePageSkeleton({ titleWidth: 160 })}>
@@ -78,18 +81,28 @@ export function PageDefaultContent({
         >
           <PageLayout.Content className="max-w-[710px]!">
             <div className="flex flex-col gap-4">
-              <PageCover coverUrl={coverUrl} onChange={handleCoverChange} />
+              <PageCover coverUrl={coverUrl} onChange={editing ? handleCoverChange : undefined} />
               <div className="flex items-center gap-2">
-                <IconPicker value={displayIconName} onChange={handleIconChange} />
-                <InlineEditableText
-                  value={String(data.title ?? "")}
-                  displayValue={expandDateMentions(String(data.title ?? ""))}
-                  onChange={handleTitleChange}
-                  placeholder="Untitled Page"
-                  validate={(v) => (v.trim().length === 0 ? "Title is required" : null)}
-                  className={PAGE_TITLE_CLASSES}
-                />
-                {targetSlug != null && (
+                {editing ? (
+                  <IconPicker value={displayIconName} onChange={handleIconChange} />
+                ) : (
+                  <Icon name={displayIconName} className="h-5 w-5" />
+                )}
+                {editing ? (
+                  <InlineEditableText
+                    value={String(data.title ?? "")}
+                    displayValue={expandDateMentions(String(data.title ?? ""))}
+                    onChange={handleTitleChange}
+                    placeholder="Untitled Page"
+                    validate={(v) => (v.trim().length === 0 ? "Title is required" : null)}
+                    className={PAGE_TITLE_CLASSES}
+                  />
+                ) : (
+                  <h1 className={PAGE_TITLE_CLASSES}>
+                    {expandDateMentions(String(data.title ?? ""))}
+                  </h1>
+                )}
+                {editing && targetSlug != null && (
                   <div className="ml-auto">
                     <PageDetailHeaderMenu
                       pageTypeSlug={toPageTypeSlug(targetSlug)}
@@ -106,12 +119,14 @@ export function PageDefaultContent({
                   data={data}
                   pageId={id}
                   pageTypeSlug={targetSlug ?? undefined}
-                  onPropertyChange={handlePropertyChange}
+                  editable={editing}
+                  onPropertyChange={editing ? handlePropertyChange : undefined}
                   onPageNavigate={handlePageNavigate}
                 />
               </ToggleSection>
 
-              {targetSlug != null &&
+              {editing &&
+                targetSlug != null &&
                 richDocumentDefs.map((def) => {
                   const body = data[def.id]
                   const blocks = isRecord(body) && Array.isArray(body.blocks) ? body.blocks : []
@@ -132,44 +147,54 @@ export function PageDefaultContent({
                   )
                 })}
 
-              {multiRelationDefs.map((def) => (
-                <ToggleSection key={def.id} label={def.title} hasContent={hasValue(data[def.id])}>
-                  <BadgeLayoutProvider truncate="fluid" popoverAlign="start" display={def.display}>
-                    <MultiRelationPropertyBadge
-                      property={def}
-                      value={data[def.id] ?? null}
-                      context="detail"
-                      editable
-                      onPropertyChange={handlePropertyChange}
-                      onPageNavigate={handlePageNavigate}
-                    />
-                  </BadgeLayoutProvider>
-                </ToggleSection>
-              ))}
-
-              {markdownDefs.map((def) => {
-                const val = data[def.id]
-                const str = val != null && typeof val !== "object" ? String(val) : null
-                return (
-                  <ToggleSection
-                    key={def.id}
-                    label={def.title}
-                    hasContent={str != null && str.length > 0}
-                  >
-                    {str != null ? (
-                      <MarkdownRenderer content={str} />
-                    ) : (
-                      <span className="text-sm text-tertiary">Empty</span>
-                    )}
+              {multiRelationDefs
+                .filter((def) => editing || hasValue(data[def.id]))
+                .map((def) => (
+                  <ToggleSection key={def.id} label={def.title} hasContent={hasValue(data[def.id])}>
+                    <BadgeLayoutProvider
+                      truncate="fluid"
+                      popoverAlign="start"
+                      display={def.display}
+                    >
+                      <MultiRelationPropertyBadge
+                        property={def}
+                        value={data[def.id] ?? null}
+                        context="detail"
+                        editable={editing}
+                        onPropertyChange={editing ? handlePropertyChange : undefined}
+                        onPageNavigate={handlePageNavigate}
+                      />
+                    </BadgeLayoutProvider>
                   </ToggleSection>
-                )
-              })}
+                ))}
 
-              {jsonDefs.map((def) => (
-                <ToggleSection key={def.id} label={def.title} hasContent={hasValue(data[def.id])}>
-                  <JsonSectionRenderer value={data[def.id]} />
-                </ToggleSection>
-              ))}
+              {markdownDefs
+                .filter((def) => editing || hasValue(data[def.id]))
+                .map((def) => {
+                  const val = data[def.id]
+                  const str = val != null && typeof val !== "object" ? String(val) : null
+                  return (
+                    <ToggleSection
+                      key={def.id}
+                      label={def.title}
+                      hasContent={str != null && str.length > 0}
+                    >
+                      {str != null ? (
+                        <MarkdownRenderer content={str} />
+                      ) : (
+                        <span className="text-sm text-tertiary">Empty</span>
+                      )}
+                    </ToggleSection>
+                  )
+                })}
+
+              {jsonDefs
+                .filter((def) => editing || hasValue(data[def.id]))
+                .map((def) => (
+                  <ToggleSection key={def.id} label={def.title} hasContent={hasValue(data[def.id])}>
+                    <JsonSectionRenderer value={data[def.id]} />
+                  </ToggleSection>
+                ))}
 
               <PageDetailReferrers
                 pageId={id}
