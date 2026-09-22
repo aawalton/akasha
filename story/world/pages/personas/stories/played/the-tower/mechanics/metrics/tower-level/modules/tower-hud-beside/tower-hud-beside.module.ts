@@ -34,6 +34,19 @@ export const towerHudBeside = {
       statement: "A game naming no player of its own is answered no count.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A read still outstanding is answered apart from a read answering no count.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The level filed beside the character is drawn over the level a panel kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A panel holding no level of its own draws nothing while the read is still outstanding.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },

@@ -50,12 +50,17 @@ async function readCounts(game: string): Promise<TowerCounts> {
   return { level, attributePoints }
 }
 
-export function useTowerCounts(game: string | undefined): TowerCounts {
+export function levelShown(filed: TowerCounts | null, kept: number | undefined): number | null {
+  if (filed === null) return kept ?? null
+  return filed.level ?? kept ?? null
+}
+
+export function useTowerCounts(game: string | undefined): TowerCounts | null {
   const asked = game ?? ""
-  const [counts, setCounts] = useState<TowerCounts>(NOTHING_FILED)
+  const [counts, setCounts] = useState<TowerCounts | null>(asked === "" ? NOTHING_FILED : null)
 
   useEffect(() => {
-    setCounts(NOTHING_FILED)
+    setCounts(asked === "" ? NOTHING_FILED : null)
     if (asked === "") return
     let alive = true
     void (async () => {

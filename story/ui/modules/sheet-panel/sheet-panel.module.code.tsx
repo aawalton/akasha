@@ -31,6 +31,10 @@ import {
   scoresShown,
   useTowerAttributes,
 } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.code.ts"
+import {
+  levelShown,
+  useTowerCounts,
+} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/modules/tower-hud-beside/tower-hud-beside.module.code.ts"
 
 function Section({ title, children }: { title: string; children: React.ReactNode }) {
   return (
@@ -272,9 +276,10 @@ function ItemsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefine
   )
 }
 
-function SheetHeader({ sheet }: { sheet: ClientSheet }) {
+function SheetHeader({ sheet, game }: { sheet: ClientSheet; game: string | undefined }) {
+  const level = levelShown(useTowerCounts(game), sheet.level)
   const name = sheet.name ?? sheet.kind
-  if (name == null && sheet.level == null) return null
+  if (name == null && level == null) return null
   return (
     <div className="flex items-baseline justify-between font-mono">
       <div className="flex min-w-0 flex-col">
@@ -285,8 +290,8 @@ function SheetHeader({ sheet }: { sheet: ClientSheet }) {
           <span className="break-words text-[11px] text-tertiary">{sheet.kind}</span>
         ) : null}
       </div>
-      {sheet.level != null ? (
-        <span className="flex-none font-semibold text-secondary text-sm">Lv {sheet.level}</span>
+      {level != null ? (
+        <span className="flex-none font-semibold text-secondary text-sm">Lv {level}</span>
       ) : null}
     </div>
   )
@@ -305,7 +310,7 @@ export function SheetPanel({ sheet, game }: { sheet: ClientSheet | null; game?: 
   }
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
-      <SheetHeader sheet={sheet} />
+      <SheetHeader sheet={sheet} game={game} />
       <Tabs defaultValue="stats" className="gap-3">
         <TabsList>
           <TabsTrigger value="stats">Stats</TabsTrigger>

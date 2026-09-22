@@ -11,7 +11,10 @@ import {
   computePoolBars,
   type PoolBar,
 } from "akasha/story/ui/modules/pool-bars/pool-bars.module.code.ts"
-import { useTowerCounts } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/modules/tower-hud-beside/tower-hud-beside.module.code.ts"
+import {
+  levelShown,
+  useTowerCounts,
+} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/modules/tower-hud-beside/tower-hud-beside.module.code.ts"
 
 const FILL_CLASS: Record<PoolBarColor, string> = {
   red: "bg-red",
@@ -82,8 +85,8 @@ function PoolRow({
 function HudHeader({ hud, game }: { hud: ClientHud; game: string | undefined }) {
   const filed = useTowerCounts(game)
   const delta = hud.delta ?? {}
-  const level = filed.level ?? hud.level
-  const attrPoints = filed.attributePoints ?? hud.pools?.["attrPoints"]
+  const level = levelShown(filed, hud.level)
+  const attrPoints = filed?.attributePoints ?? hud.pools?.["attrPoints"]
   return (
     <>
       {level != null ? (
