@@ -16,7 +16,7 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.ts","id":"01a0598f-18de-7467-a5af-de60b85fefd7"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/git-calls/git-calls.module.ts","id":"01a04e16-d380-7000-aca5-c084a6730236"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/shell-calls/shell-calls.module.ts","id":"01a04eab-4522-7000-9e89-8627b48fbcc5"}
-{"propertySlug":"decision-kind","path":"agent/message/message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
+{"propertySlug":"decision-kind","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
 {"propertySlug":"decision-kind","path":"agent/message/notice/modules/compose-notices/compose-notices.module.ts","id":"01a06938-eca5-74c0-8f2c-68975c8da6f1"}
 {"propertySlug":"decision-kind","path":"agent/message/notice/notice.page-type.ts","id":"019ffe7f-d49d-7000-ba76-13378b883aa0"}
 {"propertySlug":"decision-kind","path":"agent/message/properties/message-from.text-property.ts","id":"01a06818-107b-7001-9459-e63f4dbdd555"}

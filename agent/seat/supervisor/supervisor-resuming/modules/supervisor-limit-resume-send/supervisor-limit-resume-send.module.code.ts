@@ -1,5 +1,5 @@
-import { unclaimedTo } from "akasha/agent/message/modules/file/message-file.module.code.ts"
-import { writeMessage } from "akasha/agent/message/modules/sending/message-sending.module.code.ts"
+import { unclaimedTo } from "akasha/agent/message/modules/file/agent-message-file.module.code.ts"
+import { writeMessage } from "akasha/agent/message/modules/sending/agent-message-sending.module.code.ts"
 import { composedNameOf } from "akasha/agent/seat/name/modules/seat-rename/seat-rename.module.code.ts"
 
 const SENDER = "supervisor"

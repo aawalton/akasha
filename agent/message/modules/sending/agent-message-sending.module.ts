@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const messageSending = {
+export const agentMessageSending = {
   id: "01a0c9b0-1b46-73d4-af37-b0116218a5cf",
   type: "page-type/module",
-  slug: "message-sending",
+  slug: "agent-message-sending",
   definition: "a message composed as a page and sent to the pages service",
   code: "ts",
   test: "ts",

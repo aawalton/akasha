@@ -1,9 +1,9 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/hook/modules/links/hook-links.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/hook/modules/links/hook-links.module.test.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/message/modules/file-watch/message-file-watch.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/message/modules/file/message-file.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/message/modules/sending/message-sending.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/message/modules/file-watch/agent-message-file-watch.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/message/modules/file/agent-message-file.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/message/notice/modules/compose-notices/compose-notices.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/message/recipient-resolving/modules/person-handlers/person-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-deps/recipient-resolver-deps.module.code.ts"}

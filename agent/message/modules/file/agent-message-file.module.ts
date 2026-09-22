@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const messageFile = {
+export const agentMessageFile = {
   id: "01a06a00-69c9-7000-9e16-a5778d6ad576",
   type: "page-type/module",
-  slug: "message-file",
+  slug: "agent-message-file",
   definition: "a message read off disk, claimed while it is answered, and taken once it is read",
   code: "ts",
   decisions: [

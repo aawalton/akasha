@@ -1,4 +1,4 @@
-import { messageNamed } from "akasha/agent/message/modules/naming/message-naming.module.code.ts"
+import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-naming.module.code.ts"
 import { akashaSeatIdForName } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { CEILING } from "akasha/check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.code.ts"
 import { pagesOriginHere } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
@@ -15,7 +15,7 @@ import {
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import type { Wrote } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 
-export const MESSAGE = "message"
+export const MESSAGE = "agent-message"
 
 const PAGE_TYPE = "page-type"
 

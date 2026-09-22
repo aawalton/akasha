@@ -1,5 +1,5 @@
 import { existsSync } from "node:fs"
-import { messageNamed } from "akasha/agent/message/modules/naming/message-naming.module.code.ts"
+import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-naming.module.code.ts"
 import {
   MESSAGE,
   messagesDirRelPath,
@@ -8,7 +8,7 @@ import {
   type Sending,
   type Warrant,
   WRITER,
-} from "akasha/agent/message/modules/sending/message-sending.module.code.ts"
+} from "akasha/agent/message/modules/sending/agent-message-sending.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {

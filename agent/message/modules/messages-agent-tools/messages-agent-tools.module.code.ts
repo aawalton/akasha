@@ -2,8 +2,8 @@ import {
   claimMessage,
   releaseClaim,
   takeMessage,
-} from "akasha/agent/message/modules/file/message-file.module.code.ts"
-import { watchMessagesTo } from "akasha/agent/message/modules/file-watch/message-file-watch.module.code.ts"
+} from "akasha/agent/message/modules/file/agent-message-file.module.code.ts"
+import { watchMessagesTo } from "akasha/agent/message/modules/file-watch/agent-message-file-watch.module.code.ts"
 import { startDeliveryWitness } from "akasha/agent/message/modules/messages-delivery-witness/messages-delivery-witness.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"

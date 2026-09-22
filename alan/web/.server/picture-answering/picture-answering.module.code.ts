@@ -1,4 +1,4 @@
-import { messageNamed } from "akasha/agent/message/modules/naming/message-naming.module.code.ts"
+import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-naming.module.code.ts"
 import {
   type SignedIn,
   signedInAs,

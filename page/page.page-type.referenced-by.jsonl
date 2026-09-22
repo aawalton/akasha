@@ -1,6 +1,6 @@
 {"propertySlug":"championed-domain","path":"persona/pages/astra/astra.persona.ts","id":"019f1412-b223-74d5-93f3-d09bf6d6107f"}
 {"propertySlug":"extends-type","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
-{"propertySlug":"extends-type","path":"agent/message/message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
+{"propertySlug":"extends-type","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
 {"propertySlug":"extends-type","path":"agent/message/notice/notice.page-type.ts","id":"019ffe7f-d49d-7000-ba76-13378b883aa0"}
 {"propertySlug":"extends-type","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}
 {"propertySlug":"extends-type","path":"agent/seat/conditions/seat-conditions.page-type.ts","id":"01a06837-f101-7420-89ad-7e146f4cbaf5"}
@@ -149,7 +149,7 @@
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/modules/value/page-value.module.test.ts"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/agent.page-type.types.ts"}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/message/message.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/message/agent-message.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/message/notice/notice.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/model/account/model-account.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/seat/conditions/seat-conditions.page-type.types.ts"}

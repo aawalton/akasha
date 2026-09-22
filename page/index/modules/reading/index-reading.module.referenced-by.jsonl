@@ -3,7 +3,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/hook/modules/links/hook-links.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/message/modules/file/message-file.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/message/modules/file/agent-message-file.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/message/notice/modules/compose-notices/compose-notices.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.test.ts"}

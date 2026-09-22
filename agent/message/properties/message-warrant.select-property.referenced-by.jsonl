@@ -1,4 +1,4 @@
 {"propertySlug":"import","fileName":"message-warrant.select-property.ts","path":"agent/message/properties/message-warrant.select-property.types.ts"}
-{"propertySlug":"import","fileName":"message-warrant.select-property.types.ts","path":"agent/message/message.page-type.types.ts"}
-{"propertySlug":"page-property","path":"agent/message/message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
-{"propertySlug":"parts","path":"agent/message/message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
+{"propertySlug":"import","fileName":"message-warrant.select-property.types.ts","path":"agent/message/agent-message.page-type.types.ts"}
+{"propertySlug":"page-property","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
+{"propertySlug":"parts","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}

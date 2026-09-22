@@ -2,11 +2,11 @@ import { mkdirSync, watch } from "node:fs"
 import {
   type Message,
   unclaimedTo,
-} from "akasha/agent/message/modules/file/message-file.module.code.ts"
+} from "akasha/agent/message/modules/file/agent-message-file.module.code.ts"
 import {
   messageDirRelPath,
   recipientRefused,
-} from "akasha/agent/message/modules/sending/message-sending.module.code.ts"
+} from "akasha/agent/message/modules/sending/agent-message-sending.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 

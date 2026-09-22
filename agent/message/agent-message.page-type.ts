@@ -1,9 +1,9 @@
 import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
-export const message = {
+export const agentMessage = {
   id: "01a06818-107b-7005-8e69-8cefb68f3cdf",
   type: "page-type/page-type",
-  slug: "message",
+  slug: "agent-message",
   definition: "text an agent is sent",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "agent message" },
@@ -16,10 +16,10 @@ export const message = {
     "instant-property/message-claimed-at",
     "module/agent-record",
     "module/channel-delivery",
-    "module/message-file",
-    "module/message-file-watch",
-    "module/message-naming",
-    "module/message-sending",
+    "module/agent-message-file",
+    "module/agent-message-file-watch",
+    "module/agent-message-naming",
+    "module/agent-message-sending",
     "module/messages-agent-id",
     "module/messages-agent-tools",
     "module/messages-console-stdout-guard",

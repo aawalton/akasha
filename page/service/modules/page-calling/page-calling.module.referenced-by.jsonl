@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"agent/message/modules/sending/message-sending.module.code.ts"}
-{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"agent/message/modules/sending/message-sending.module.test.ts"}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.code.ts"}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.test.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"agent/seat/log-day/modules/log-day-sweeping/log-day-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"}

@@ -3,7 +3,7 @@ import {
   recipientRefused,
   type Sending,
   writeMessage,
-} from "akasha/agent/message/modules/sending/message-sending.module.code.ts"
+} from "akasha/agent/message/modules/sending/agent-message-sending.module.code.ts"
 import { akashaSeatsThatExist } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
@@ -43,7 +43,7 @@ test("a message is sent to the pages service wherever the sender runs", async ()
   expect(said.kind).toBe("written")
   expect(held.sent.length).toBe(1)
   const page = held.sent[0]?.pages?.[0]
-  expect(page?.pageTypeSlug).toBe("message")
+  expect(page?.pageTypeSlug).toBe("agent-message")
   expect(page?.values.from).toBe(FROM)
   expect(page?.values.body).toBe("a check turned.\n")
   expect(String(page?.values.to)).toContain(TO)

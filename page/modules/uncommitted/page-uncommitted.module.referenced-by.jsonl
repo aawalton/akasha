@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"agent/message/modules/file/message-file.module.code.ts"}
+{"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"agent/message/modules/file/agent-message-file.module.code.ts"}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.code.ts"}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"agent/model/account/modules/identity/model-account-identity.module.code.ts"}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"agent/model/account/modules/marking/model-account-marking.module.code.ts"}

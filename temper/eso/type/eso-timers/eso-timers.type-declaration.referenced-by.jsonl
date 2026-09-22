@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/file-watch/message-file-watch.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/file-watch/agent-message-file-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/messages-delivery-witness/messages-delivery-witness.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/messages-mcp/messages-mcp.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"}

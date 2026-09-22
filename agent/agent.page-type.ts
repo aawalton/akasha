@@ -14,7 +14,7 @@ export const agent = {
   parts: [
     "domain/claude-code",
     "domain/hook",
-    "page-type/message",
+    "page-type/agent-message",
     "domain/model",
     "file-property/audit-refusals",
     "file-property/edits",

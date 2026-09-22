@@ -5,7 +5,7 @@ import type { MessageTo } from "akasha/agent/message/properties/message-to.relat
 import type { MessageWarrant } from "akasha/agent/message/properties/message-warrant.select-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
 
-export type Message = Page & {
+export type AgentMessage = Page & {
   to: MessageTo
   from: MessageFrom
   warrant: MessageWarrant
