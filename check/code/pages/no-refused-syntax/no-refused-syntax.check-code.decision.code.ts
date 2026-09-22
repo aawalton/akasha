@@ -9,6 +9,7 @@ import type {
   Readers,
   Typing,
 } from "akasha/check/code/pages/no-refused-syntax/syntax-rule/syntax-rule.page-type.ts"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   overEveryIn,
   textNamed,
@@ -67,20 +68,25 @@ function reachedSince(before: ReadonlySet<string>): undefined {
   return undefined
 }
 
-function reachesTheChange(root: string, change: Change | null): boolean {
-  if (change === null) return false
-  return change.changed.some((one) => REACHED.has(join(root, one)))
+export type Carrying = {
+  readonly paths: readonly string[]
+  readonly read: (path: string) => string | null
 }
 
-function carriesAny(beside: readonly string[], change: Change | null): boolean {
-  if (change === null) return false
-  const named = new Set(change.changed)
+function reachesTheChange(root: string, carrying: Carrying | null): boolean {
+  if (carrying === null) return false
+  return carrying.paths.some((one) => REACHED.has(join(root, one)))
+}
+
+function carriesAny(beside: readonly string[], carrying: Carrying | null): boolean {
+  if (carrying === null) return false
+  const named = new Set(carrying.paths)
   return beside.some((one) => named.has(one))
 }
 
-function besideEvery(shadow: Shadow): readonly string[] {
+function besideEvery(paged: Paged): readonly string[] {
   const found: string[] = []
-  for (const one of shadow.index.everyOfType(RULE)) {
+  for (const one of paged.index.everyOfType(RULE)) {
     const at = besideAt(one.path, CODE, TS)
     if (at !== null) found.push(at)
   }
@@ -89,11 +95,11 @@ function besideEvery(shadow: Shadow): readonly string[] {
 
 function treeModules(
   root: string,
-  shadow: Shadow,
-  change: Change | null
+  paged: Paged,
+  carrying: Carrying | null
 ): ReadonlyMap<string, Record<string, unknown>> {
-  const beside = besideEvery(shadow)
-  if (beside.length === 0 || carriesAny(beside, change)) return NOTHING
+  const beside = besideEvery(paged)
+  if (beside.length === 0 || carriesAny(beside, carrying)) return NOTHING
   const before = new Set(Object.keys(loadFrom.cache))
   const found = new Map<string, Record<string, unknown>>()
   for (const at of beside) {
@@ -103,30 +109,30 @@ function treeModules(
   }
   reachedSince(before)
   if (found.size < beside.length) return NOTHING
-  return reachesTheChange(root, change) ? NOTHING : found
+  return reachesTheChange(root, carrying) ? NOTHING : found
 }
 
-function carriedIn(change: Change | null, path: string): string | null {
-  if (change === null) return null
-  return textOf(change.after(path))
+function carriedIn(carrying: Carrying | null, path: string): string | null {
+  if (carrying === null) return null
+  return carrying.read(path)
 }
 
-function carryingIn(change: Change | null, specifier: string): string | null {
-  if (change === null || !specifier.startsWith(PACKAGE)) return null
-  return carriedIn(change, specifier.slice(PACKAGE.length))
+function carryingIn(carrying: Carrying | null, specifier: string): string | null {
+  if (carrying === null || !specifier.startsWith(PACKAGE)) return null
+  return carriedIn(carrying, specifier.slice(PACKAGE.length))
 }
 
 function requiringIn(
   root: string,
   full: string,
-  change: Change | null,
+  carrying: Carrying | null,
   seen: Map<string, Record<string, unknown>>
 ): (specifier: string) => unknown {
   const plain = createRequire(full)
   const load = (specifier: string): unknown => {
-    const carried = carryingIn(change, specifier)
+    const carried = carryingIn(carrying, specifier)
     if (carried === null) return plain(specifier)
-    return compiledFrom(root, specifier.slice(PACKAGE.length), carried, change, seen)
+    return compiledFrom(root, specifier.slice(PACKAGE.length), carried, carrying, seen)
   }
   return Object.assign(load, plain)
 }
@@ -135,7 +141,7 @@ function compiledFrom(
   root: string,
   at: string,
   text: string,
-  change: Change | null = null,
+  carrying: Carrying | null = null,
   seen: Map<string, Record<string, unknown>> = new Map()
 ): Record<string, unknown> {
   const full = join(root, at)
@@ -167,19 +173,20 @@ function compiledFrom(
     "__dirname",
     built
   ) as Running
-  run(requiringIn(root, full, change, seen), holder, holder.exports, full, dirname(full))
+  run(requiringIn(root, full, carrying, seen), holder, holder.exports, full, dirname(full))
   return holder.exports
 }
 
 export function rulesIn(
   root: string,
-  shadow: Shadow,
-  change: Change | null = null
+  paged: Paged,
+  carrying: Carrying | null = null,
+  codeAt: (path: string) => string | null = (path) => path
 ): readonly Rule[] {
   const found: Rule[] = []
   const seen = new Map<string, Record<string, unknown>>()
-  const fromTree = treeModules(root, shadow, change)
-  for (const one of shadow.index.everyOfType(RULE)) {
+  const fromTree = treeModules(root, paged, carrying)
+  for (const one of paged.index.everyOfType(RULE)) {
     const said = partedIn(one.path)
     if (said === null) {
       throw new Error(`${one.path} is a syntax rule, and its name says no slug`)
@@ -194,14 +201,14 @@ export function rulesIn(
     const held = fromTree.get(beside)
     let mod: Record<string, unknown>
     if (held === undefined) {
-      const carried = carriedIn(change, beside)
+      const carried = carriedIn(carrying, beside)
       if (carried === null) {
         throw new Error(
           `${one.path} is a syntax rule, and this change leaves ${beside} holding no body, so it cannot be loaded to judge by`
         )
       }
       try {
-        mod = compiledFrom(root, shadow.codeAt(beside) ?? beside, carried, change, seen)
+        mod = compiledFrom(root, codeAt(beside) ?? beside, carried, carrying, seen)
       } catch (thrown) {
         throw new Error(
           `${one.path} is a syntax rule, and the body this change leaves at ${beside} could not be loaded — ${saidBy(thrown)}`
@@ -231,11 +238,11 @@ export function rulesIn(
   return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
-function declaredBy(shadow: Shadow, moduleSlug: string): ReadonlySet<string> {
+function declaredBy(paged: Paged, moduleSlug: string): ReadonlySet<string> {
   const named = new Set<string>()
-  const listed = shadow.index.listedAt(MODULE, moduleSlug)[0]
+  const listed = paged.index.listedAt(MODULE, moduleSlug)[0]
   if (listed === undefined) return named
-  const declared = shadow.pageOf(listed.path)?.[DECLARES]
+  const declared = paged.pageOf(listed.path)?.[DECLARES]
   if (!Array.isArray(declared)) return named
   for (const one of declared) {
     if (typeof one === "string") named.add(one)
@@ -243,13 +250,13 @@ function declaredBy(shadow: Shadow, moduleSlug: string): ReadonlySet<string> {
   return named
 }
 
-export function readersOf(shadow: Shadow): Readers {
+export function readersOf(paged: Paged): Readers {
   const held = new Map<string, ReadonlySet<string>>()
   return {
     get: (moduleSlug) => {
       const found = held.get(moduleSlug)
       if (found !== undefined) return found
-      const named = declaredBy(shadow, moduleSlug)
+      const named = declaredBy(paged, moduleSlug)
       held.set(moduleSlug, named)
       return named
     },
@@ -266,22 +273,22 @@ export type Levels = {
   readonly typedAt: Typing
 }
 
-function levelAt(shadow: Shadow, slug: string): Level | null {
+function levelAt(paged: Paged, slug: string): Level | null {
   for (const kind of KINDS) {
-    const listed = shadow.index.listedAt(kind, slug)[0]
+    const listed = paged.index.listedAt(kind, slug)[0]
     if (listed === undefined) continue
-    const said = shadow.pageOf(listed.path)?.[NAMES_ITSELF]
+    const said = paged.pageOf(listed.path)?.[NAMES_ITSELF]
     if (typeof said === "string") return { name: said, kind }
   }
   return null
 }
 
-export function levelsOf(shadow: Shadow): Levels {
+export function levelsOf(paged: Paged): Levels {
   const held = new Map<string, Level | null>()
   const at = (slug: string): Level | null => {
     const found = held.get(slug)
     if (found !== undefined) return found
-    const said = levelAt(shadow, slug)
+    const said = levelAt(paged, slug)
     held.set(slug, said)
     return said
   }
@@ -326,11 +333,23 @@ export function refusalsIn(
   return said
 }
 
+export function judgingOver(
+  root: string,
+  paged: Paged,
+  carrying: Carrying | null = null,
+  codeAt: (path: string) => string | null = (path) => path
+): (path: string, text: string) => readonly string[] {
+  const rules = rulesIn(root, paged, carrying, codeAt)
+  const readers = readersOf(paged)
+  const levels = levelsOf(paged)
+  return (path, text) => refusalsIn(rules, path, text, readers, levels)
+}
+
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  const rules = rulesIn(change.root, shadow, change)
-  const readers = readersOf(shadow)
-  const levels = levelsOf(shadow)
-  return overEveryIn(change, textNamed, (path, text) =>
-    refusalsIn(rules, path, text, readers, levels)
-  )
+  const carrying: Carrying = {
+    paths: change.changed,
+    read: (path) => textOf(change.after(path)),
+  }
+  const judge = judgingOver(change.root, shadow, carrying, shadow.codeAt)
+  return overEveryIn(change, textNamed, judge)
 }

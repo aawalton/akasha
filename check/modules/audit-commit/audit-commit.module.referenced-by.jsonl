@@ -39,6 +39,8 @@
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-re-export/no-re-export.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-refused-syntax/no-refused-syntax.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-refused-syntax/no-refused-syntax.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-relative-specifier/no-relative-specifier.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.code.ts"}

@@ -10,7 +10,7 @@ import {
 import {
   BEFORE,
   CARRIED,
-  changing,
+  carrying,
   levelsFiled,
   modulesFiled,
   NO_READERS,
@@ -158,7 +158,7 @@ test("a root holding no syntax rule is refused, never answered clean", () => {
 test("a rule this change introduces is judged by the body the change carries", () => {
   const root = scratch.rootFor("akasha-syntax-rule-")
   ruleFiled(root)
-  const rules = rulesIn(root, nowhereOnDisk(root), changing(root, null, CARRIED))
+  const rules = rulesIn(root, nowhereOnDisk(root), carrying(root, null, CARRIED))
   expect(rules).toHaveLength(1)
   expect(rules[0]?.slug).toBe(PROBE_SLUG)
   expect(refusalsIn(rules, PROBE_AT, TEXT, NO_READERS)).toEqual([
@@ -169,7 +169,7 @@ test("a rule this change introduces is judged by the body the change carries", (
 test("a change rewriting a rule's code is judged by the body the change carries", () => {
   const root = scratch.rootFor("akasha-syntax-rule-")
   ruleFiled(root)
-  const rules = rulesIn(root, nowhereOnDisk(root), changing(root, BEFORE, CARRIED))
+  const rules = rulesIn(root, nowhereOnDisk(root), carrying(root, BEFORE, CARRIED))
   expect(rules).toHaveLength(1)
   expect(refusalsIn(rules, PROBE_AT, TEXT, NO_READERS)).toEqual([
     "line 1: the body the change carries — `probe`",
@@ -216,7 +216,7 @@ test("a rule whose code no change answers a body for is refused", () => {
 test("a rule the tree no longer holds is judged by the body the change answers for", () => {
   const root = scratch.rootFor("akasha-syntax-rule-")
   ruleFiled(root)
-  const rules = rulesIn(root, shadowAt(root), changing(root, CARRIED, CARRIED))
+  const rules = rulesIn(root, shadowAt(root), carrying(root, CARRIED, CARRIED))
   expect(rules).toHaveLength(1)
   expect(refusalsIn(rules, PROBE_AT, TEXT, NO_READERS)).toEqual([
     "line 1: the body the change carries — `probe`",
@@ -225,7 +225,7 @@ test("a rule the tree no longer holds is judged by the body the change answers f
 
 test("a rule the tree holds another body at is judged by the body the change answers for", () => {
   const root = ruled("akasha-syntax-rule-")
-  const rules = rulesIn(root, shadowAt(root), changing(root, CARRIED, CARRIED))
+  const rules = rulesIn(root, shadowAt(root), carrying(root, CARRIED, CARRIED))
   expect(refusalsIn(rules, PROBE_AT, TEXT, NO_READERS)).toEqual([
     "line 1: the body the change carries — `probe`",
   ])
@@ -233,7 +233,7 @@ test("a rule the tree holds another body at is judged by the body the change ans
 
 test("a rule whose code does not parse refuses the run rather than being run as recovered", () => {
   const root = ruled("akasha-syntax-rule-")
-  expect(() => rulesIn(root, shadowAt(root), changing(root, CARRIED, UNPARSED))).toThrow(
+  expect(() => rulesIn(root, shadowAt(root), carrying(root, CARRIED, UNPARSED))).toThrow(
     /does not parse/
   )
 })

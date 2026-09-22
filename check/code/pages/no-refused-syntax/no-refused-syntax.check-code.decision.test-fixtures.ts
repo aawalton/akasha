@@ -1,10 +1,14 @@
-import type { Rule } from "akasha/check/code/pages/no-refused-syntax/no-refused-syntax.check-code.decision.code.ts"
+import type {
+  Carrying,
+  Rule,
+} from "akasha/check/code/pages/no-refused-syntax/no-refused-syntax.check-code.decision.code.ts"
 import type {
   Given,
   Kind,
   Readers,
   Typing,
 } from "akasha/check/code/pages/no-refused-syntax/syntax-rule/syntax-rule.page-type.ts"
+import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Naming } from "akasha/command/modules/walking/command-walking.module.code.ts"
@@ -78,6 +82,11 @@ export function changing(root: string, before: string | null, after: string | nu
     before: (path) => (path === PROBE_CODE_AT ? bytesOf(before) : null),
     after: (path) => (path === PROBE_CODE_AT ? bytesOf(after) : null),
   }
+}
+
+export function carrying(root: string, before: string | null, after: string | null): Carrying {
+  const held = changing(root, before, after)
+  return { paths: held.changed, read: (path) => textOf(held.after(path)) }
 }
 
 export function ruleFiled(root: string): undefined {
