@@ -5,7 +5,7 @@ export const deployRefusal = {
   type: "page-type/text-property",
   slug: "deploy-refusal",
   propertySlug: "deploy-refusal",
-  definition: "what the last deploy that refused refused for",
+  definition: "why the last deploy refused",
   maxLength: 4000,
   nameFormat: null,
   decisions: [

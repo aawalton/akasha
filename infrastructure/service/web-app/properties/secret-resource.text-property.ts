@@ -5,7 +5,7 @@ export const secretResource = {
   type: "page-type/text-property",
   slug: "secret-resource",
   propertySlug: "secret-resource",
-  definition: "the cluster resource a web app's secret values are placed in",
+  definition: "the cluster resource holding a web app's secret values",
   maxLength: 253,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

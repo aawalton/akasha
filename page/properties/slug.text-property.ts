@@ -5,7 +5,7 @@ export const slug = {
   type: "page-type/text-property",
   slug: "slug",
   propertySlug: "slug",
-  definition: "the name a page is reached by",
+  definition: "a page's name",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   unique: "unique-kind/page-type",

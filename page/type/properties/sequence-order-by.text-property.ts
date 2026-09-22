@@ -5,7 +5,7 @@ export const sequenceOrderBy = {
   type: "page-type/text-property",
   slug: "sequence-order-by",
   propertySlug: "order-by",
-  definition: "the key a run of pages is sorted by",
+  definition: "the sort key of a run of pages",
   maxLength: 64,
   nameFormat: "name-format/lower-camel-case",
   decisions: [

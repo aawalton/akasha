@@ -4,7 +4,7 @@ export const swapDecision = {
   id: "01a06815-9efd-7006-bea5-94b31dc409e6",
   type: "page-type/module",
   slug: "swap-decision",
-  definition: "which resident services stop and which starts when one is asked for",
+  definition: "which resident services stop and which starts once a caller asks for one",
   code: "ts",
   decisions: [
     {

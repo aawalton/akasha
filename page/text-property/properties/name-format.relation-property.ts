@@ -5,7 +5,7 @@ export const nameFormat = {
   type: "page-type/relation-property",
   slug: "name-format",
   propertySlug: "name-format",
-  definition: "the format a text value is written in",
+  definition: "a text value's format",
   nullable: true,
   targetPageType: "page-type/name-format",
   decisions: [

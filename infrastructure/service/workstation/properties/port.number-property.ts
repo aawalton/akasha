@@ -5,7 +5,7 @@ export const port = {
   type: "page-type/number-property",
   slug: "port",
   propertySlug: "port",
-  definition: "the port a service listens on",
+  definition: "a service's port",
   max: 65535,
   decisions: [
     {
