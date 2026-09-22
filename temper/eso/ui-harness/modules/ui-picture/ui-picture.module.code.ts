@@ -82,6 +82,8 @@ const ALIGN_WAYS: Readonly<Record<number, string>> = {
 
 const CLEAR: UiColor = [0, 0, 0, 0]
 
+const UNTINTED: UiColor = [1, 1, 1, 1]
+
 const INK: UiColor = [...TEXT_PRIMARY, 1]
 
 const TINT: UiColor = [...TEXT_PRIMARY, TEXTURE_TINT]
@@ -152,8 +154,11 @@ function boxHtml(one: UiControl, options: UiPictureOptions): string {
   const told = one.name === undefined ? "" : ` title="${escaped(one.name)}"`
   if (one.controlType === CT_BACKDROP) {
     const middle = asCss(one.centerColor ?? CLEAR)
-    const edge = asCss(one.edgeColor ?? CLEAR)
-    return `<div class="c"${told} style="${place}${fade}background:${middle};box-shadow:inset 0 0 0 1px ${edge};"></div>`
+    const edge =
+      one.edgeTexture === undefined
+        ? ""
+        : `box-shadow:inset 0 0 0 1px ${asCss(one.edgeColor ?? UNTINTED)};`
+    return `<div class="c"${told} style="${place}${fade}background:${middle};${edge}"></div>`
   }
   if (one.controlType === CT_LABEL || one.controlType === CT_BUTTON) {
     const face = fontOf(one.font)

@@ -16,6 +16,7 @@ type Part = {
   readonly color?: readonly number[]
   readonly centerColor?: readonly number[]
   readonly edgeColor?: readonly number[]
+  readonly edgeTexture?: string
   readonly alpha?: number
   readonly children?: readonly UiControl[]
 }
@@ -36,6 +37,7 @@ function control(part: Part): UiControl {
     color: part.color,
     centerColor: part.centerColor,
     edgeColor: part.edgeColor,
+    edgeTexture: part.edgeTexture,
     anchors: [],
     handlers: [],
     children: part.children ?? [],
@@ -85,6 +87,48 @@ describe("pictureHtml", () => {
       })
     )
     expect(html).toContain("background:rgba(0, 0, 0, 0.85)")
+  })
+
+  test("draws no edge where the backdrop was given no edge texture", () => {
+    const html = pictureHtml(
+      control({
+        name: "FrameBG",
+        controlType: 8,
+        width: 10,
+        height: 10,
+        centerColor: [0, 0, 0, 1],
+        edgeColor: [1, 1, 1, 0.1],
+      })
+    )
+    expect(html).not.toContain("box-shadow")
+  })
+
+  test("edges a backdrop given an edge texture, tinted by its edge color", () => {
+    const html = pictureHtml(
+      control({
+        name: "FrameBG",
+        controlType: 8,
+        width: 10,
+        height: 10,
+        centerColor: [0, 0, 0, 1],
+        edgeColor: [1, 1, 1, 0.1],
+        edgeTexture: "EsoUI/Art/Tooltips/UI-Border.dds",
+      })
+    )
+    expect(html).toContain("box-shadow:inset 0 0 0 1px rgba(255, 255, 255, 0.1)")
+  })
+
+  test("draws an edge texture with no edge color untinted", () => {
+    const html = pictureHtml(
+      control({
+        name: "FrameBG",
+        controlType: 8,
+        width: 10,
+        height: 10,
+        edgeTexture: "EsoUI/Art/Tooltips/UI-Border.dds",
+      })
+    )
+    expect(html).toContain("box-shadow:inset 0 0 0 1px rgba(255, 255, 255, 1)")
   })
 
   test("reads a font's size and weight off the name given", () => {

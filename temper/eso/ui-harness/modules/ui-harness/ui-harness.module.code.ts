@@ -97,6 +97,7 @@ export type UiControl = {
   readonly color?: UiColor
   readonly centerColor?: UiColor
   readonly edgeColor?: UiColor
+  readonly edgeTexture?: string
   readonly insets?: UiColor
   readonly anchors: readonly UiAnchor[]
   readonly handlers: readonly string[]
@@ -122,6 +123,7 @@ const controlShape: z.ZodType<UiControl> = z.lazy(() =>
     color: colorShape.optional(),
     centerColor: colorShape.optional(),
     edgeColor: colorShape.optional(),
+    edgeTexture: z.string().optional(),
     insets: colorShape.optional(),
     anchors: z.preprocess(asList, z.array(anchorShape)),
     handlers: z.preprocess(asList, z.array(z.string())),

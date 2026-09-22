@@ -292,7 +292,7 @@ function Control:SetColor(r, g, b, a) self.uiColor = asColor(r, g, b, a) end
 function Control:SetTexture(texture) self.uiTexture = asText(texture) end
 function Control:SetAddressMode(mode) self.uiAddressMode = mode end
 function Control:SetCenterTexture(texture) self.uiCenterTexture = texture end
-function Control:SetEdgeTexture(texture) self.uiEdgeTexture = texture end
+function Control:SetEdgeTexture(texture) self.uiEdgeTexture = asText(texture) end
 function Control:SetCenterColor(r, g, b, a) self.uiCenterColor = asColor(r, g, b, a) end
 function Control:SetEdgeColor(r, g, b, a) self.uiEdgeColor = asColor(r, g, b, a) end
 function Control:SetInsets(left, top, right, bottom)
@@ -401,6 +401,7 @@ local function snapshotOf(control)
     color = control.uiColor,
     centerColor = control.uiCenterColor,
     edgeColor = control.uiEdgeColor,
+    edgeTexture = control.uiEdgeTexture,
     insets = control.uiInsets,
     anchors = anchors,
     handlers = handlers,
