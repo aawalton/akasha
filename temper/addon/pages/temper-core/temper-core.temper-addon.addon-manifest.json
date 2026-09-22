@@ -17,7 +17,7 @@
     "TemperFCOChangeStuff_SavedVariables",
     "TemperChatMessageSettings",
     "TemperChatMessageHistory",
-    "AsyncSavedVars",
+    "TemperAsyncSavedVars",
     "TemperScrollableMenu_SavedVars",
     "TemperDebugLoggerSettings",
     "TemperDebugLoggerLog"

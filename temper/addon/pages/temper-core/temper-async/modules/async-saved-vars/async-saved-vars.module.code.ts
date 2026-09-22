@@ -7,8 +7,8 @@ import "akasha/temper/addon/pages/temper-core/temper-async/async-saved-vars-decl
 export function initSavedVar(this: void): undefined {
   const glob = globalThis as GlobalTable
 
-  const sv = glob.AsyncSavedVars ?? {}
-  glob.AsyncSavedVars = sv
+  const sv = glob.TemperAsyncSavedVars ?? {}
+  glob.TemperAsyncSavedVars = sv
 
   const threshold = sv.ASYNC_STALL_THRESHOLD ?? ASYNC_DEFAULT_STALL_THRESHOLD
   sv.ASYNC_STALL_THRESHOLD = threshold

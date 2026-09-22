@@ -18,7 +18,7 @@ export function asTaskInstance(value: unknown): TaskInstance {
 
 export interface GlobalTable {
   TemperAsync?: unknown
-  AsyncSavedVars?: AsyncSavedVarsTable
+  TemperAsyncSavedVars?: AsyncSavedVarsTable
   [key: string]: unknown
 }
 

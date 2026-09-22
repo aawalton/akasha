@@ -100,7 +100,7 @@ lib.Slash = function (this: void, ...args: unknown[]): undefined {
   }
   command = zo_strlower(command)
 
-  const sv = (globalThis as GlobalTable).AsyncSavedVars
+  const sv = (globalThis as GlobalTable).TemperAsyncSavedVars
 
   function d(this: void, text: string): undefined {
     CHAT_ROUTER.AddSystemMessage(text)
