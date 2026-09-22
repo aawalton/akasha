@@ -64,7 +64,7 @@ local numeric_constants = {
 
 local function make_env()
   return _setmetatable({}, {
-    __index = function(_, key)
+    __index = function(t, key)
       if banned[key] then return nil end
       if string_apis[key] then return str_fn end
       if numeric_fn_apis[key] then return num_fn end
@@ -73,7 +73,9 @@ local function make_env()
       if key == "_G" then return _G end
       local real = _rawget(_G, key)
       if real ~= nil then return real end
-      return make_stub()
+      local made = make_stub()
+      _rawset(t, key, made)
+      return made
     end,
     __newindex = function(t, k, v) _rawset(t, k, v) end,
   })

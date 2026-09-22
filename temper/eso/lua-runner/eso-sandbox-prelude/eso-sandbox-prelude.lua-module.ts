@@ -29,6 +29,10 @@ export const esoSandboxPrelude = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A name answered with a stub is answered with that same stub every time after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name the caller bans answers with nothing.",
     },
     {
