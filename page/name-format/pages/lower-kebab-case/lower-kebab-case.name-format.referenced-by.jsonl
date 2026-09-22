@@ -51,6 +51,10 @@
 {"propertySlug":"name-format","path":"story/game/entity/properties/bond-direction.text-property.ts","id":"01a0c63c-0c45-76a0-a7a8-a762e244942f"}
 {"propertySlug":"name-format","path":"story/game/entity/properties/entity-kind.text-property.ts","id":"01a0c632-9753-7529-a95f-ebc4de76b7df"}
 {"propertySlug":"name-format","path":"story/game/entity/properties/equipment-slot.text-property.ts","id":"01a0c63a-0f6e-740e-8eb1-719fb7926587"}
+{"propertySlug":"name-format","path":"story/game/lore-entry/properties/lore-kind.text-property.ts","id":"01a0c949-bb04-7bc5-bf94-735c03299640"}
+{"propertySlug":"name-format","path":"story/game/lore-entry/properties/lore-subject.text-property.ts","id":"01a0c949-d283-74c2-86bb-6ca1d8350a74"}
+{"propertySlug":"name-format","path":"story/game/lore-entry/properties/quote-speaker.text-property.ts","id":"01a0c94a-647f-7d21-bdd1-dfda11d8dfcf"}
+{"propertySlug":"name-format","path":"story/game/lore-entry/properties/thread-status.text-property.ts","id":"01a0c94a-3bb2-7f00-a585-c85c769d62cb"}
 {"propertySlug":"name-format","path":"story/game/properties/game-engine.text-property.ts","id":"01a0673c-8e0e-7000-9766-2ad03b196843"}
 {"propertySlug":"name-format","path":"story/game/properties/genre.text-property.ts","id":"01a0673c-8e0e-7005-9075-7892b4954917"}
 {"propertySlug":"name-format","path":"story/game/quest/properties/quest-status.text-property.ts","id":"01a0c6ac-515c-7566-9f2a-b14bd92f3a34"}

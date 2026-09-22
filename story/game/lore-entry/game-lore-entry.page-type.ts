@@ -11,6 +11,16 @@ export const gameLoreEntry = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/holding-game", required: true, many: false },
+    { pageProperty: "text-property/lore-kind", required: true, many: false },
+    { pageProperty: "text-property/lore-subject", required: true, many: false },
+    { pageProperty: "text-property/lore-said", required: true, many: false },
+    { pageProperty: "number-property/source-turn", required: true, many: false },
+    { pageProperty: "text-property/cited-quote", required: false, many: false },
+    { pageProperty: "text-property/lore-attribute", required: false, many: false },
+    { pageProperty: "text-property/thread-status", required: false, many: false },
+    { pageProperty: "number-property/beat-ordinal", required: false, many: false },
+    { pageProperty: "text-property/quote-speaker", required: false, many: false },
+    { pageProperty: "relation-property/superseded-lore", required: false, many: false },
   ],
   decisions: [
     {
@@ -40,4 +50,16 @@ export const gameLoreEntry = {
   ],
   types: "ts",
   schema: "jsonl",
+  parts: [
+    "text-property/lore-kind",
+    "text-property/lore-subject",
+    "text-property/lore-said",
+    "number-property/source-turn",
+    "text-property/cited-quote",
+    "text-property/lore-attribute",
+    "text-property/thread-status",
+    "number-property/beat-ordinal",
+    "text-property/quote-speaker",
+    "relation-property/superseded-lore",
+  ],
 } as const satisfies PageType

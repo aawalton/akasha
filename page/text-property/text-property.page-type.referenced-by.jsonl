@@ -418,6 +418,13 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/location/properties/location-theme.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/location/properties/thing-status.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/location/properties/thing-use.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/lore-entry/properties/cited-quote.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/lore-entry/properties/lore-attribute.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/lore-entry/properties/lore-kind.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/lore-entry/properties/lore-said.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/lore-entry/properties/lore-subject.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/lore-entry/properties/quote-speaker.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/lore-entry/properties/thread-status.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/card-vocabulary.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/coordinator-agent.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/game-engine.text-property.ts"}

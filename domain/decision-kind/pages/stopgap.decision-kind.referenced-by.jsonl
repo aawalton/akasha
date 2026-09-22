@@ -68,6 +68,7 @@
 {"propertySlug":"decision-kind","path":"persona/properties/last-messaged-at.text-property.ts","id":"01a05398-caad-7428-b9a6-ec3a8f09470c"}
 {"propertySlug":"decision-kind","path":"persona/properties/mobile-wallpaper.relation-property.ts","id":"01a0c61d-f8be-7dee-97dc-2a9bb1313d4f"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/reveal-gate.number-property.ts","id":"01a0c63d-bf33-7fc8-a461-91fda80ddb15"}
+{"propertySlug":"decision-kind","path":"story/game/lore-entry/properties/lore-subject.text-property.ts","id":"01a0c949-d283-74c2-86bb-6ca1d8350a74"}
 {"propertySlug":"decision-kind","path":"story/game/properties/mechanic-runs.file-property.ts","id":"01a0c4b7-02d8-76e0-a14b-978b3d05eb61"}
 {"propertySlug":"decision-kind","path":"story/game/properties/rulebook.file-property.ts","id":"01a0673c-8e0e-7012-9530-56ad5cd13631"}
 {"propertySlug":"decision-kind","path":"story/world/properties/character-slug.text-property.ts","id":"01a063ce-6216-7006-8542-b3d67f43dc56"}

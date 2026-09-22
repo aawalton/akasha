@@ -169,6 +169,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"identity-statement","unique":null,"uniquePropertySlug":null,"slug":"sub-statements","propertySlug":"sub-statements","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"subagent-kind","unique":null,"uniquePropertySlug":null,"slug":"subagent-kind","propertySlug":"subagent-kind","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-design-entry","unique":null,"uniquePropertySlug":null,"slug":"superseded-entry","propertySlug":"supersedes","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-lore-entry","unique":null,"uniquePropertySlug":null,"slug":"superseded-lore","propertySlug":"supersedes","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"shell-script","unique":null,"uniquePropertySlug":null,"slug":"sync-script","propertySlug":"sync-script","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"target-page-type","propertySlug":"target-page-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"to-do-value","propertySlug":"to-do-value","fileName":null,"folderName":null}
