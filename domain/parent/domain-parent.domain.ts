@@ -4,7 +4,7 @@ export const domainParent = {
   id: "01a0675b-16df-7224-bb73-2d7ff8395955",
   type: "page-type/domain",
   slug: "domain-parent",
-  definition: "the one domain a domain sits inside",
+  definition: "the domain a domain sits inside",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

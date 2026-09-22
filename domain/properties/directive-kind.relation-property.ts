@@ -5,7 +5,7 @@ export const directiveKind = {
   type: "page-type/relation-property",
   slug: "directive-kind",
   propertySlug: "directive-kind",
-  definition: "which sort of directive one entry is",
+  definition: "which sort of directive an entry is",
   targetPageType: "page-type/directive-kind",
   types: "ts",
 } as const satisfies RelationProperty

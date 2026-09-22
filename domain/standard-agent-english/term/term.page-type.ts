@@ -4,7 +4,7 @@ export const term = {
   id: "01a081e9-9784-7d46-ac3d-c0dd6d88cb38",
   type: "page-type/page-type",
   slug: "term",
-  definition: "one word or phrase, and what that word means here",
+  definition: "a word or phrase, and what that word means here",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "term" },
     { partOfSpeech: "part-of-speech/noun", spelling: "terms" },

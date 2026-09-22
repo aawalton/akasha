@@ -4,7 +4,7 @@ export const filePropertyFile = {
   id: "01a04f58-a7ef-7001-9186-8aa35b0da656",
   type: "page-type/context-warrant",
   slug: "file-property-file",
-  definition: "what a seat must read for a file that is one property's own",
+  definition: "what a seat must read for a file that is a property's own",
   code: "ts",
   test: "ts",
   runsOnRead: true,

@@ -4,7 +4,7 @@ export const phraseKind = {
   id: "01a0c576-2e1a-7996-8a94-9a7d80b20c55",
   type: "page-type/page-type",
   slug: "phrase-kind",
-  definition: "which sort one phrase is",
+  definition: "which sort a phrase is",
   parts: [
     "phrase-kind/noun-phrase",
     "phrase-kind/noun-group",

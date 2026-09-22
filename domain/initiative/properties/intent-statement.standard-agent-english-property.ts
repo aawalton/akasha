@@ -5,7 +5,7 @@ export const intentStatement = {
   type: "page-type/standard-agent-english-property",
   slug: "intent-statement",
   propertySlug: "statement",
-  definition: "one sentence saying what an initiative is to make so",
+  definition: "a sentence saying what an initiative is to make so",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

@@ -4,7 +4,7 @@ export const standardAgentEnglishNonTermKind = {
   id: "01a07c77-69a8-78a5-a3b4-fbf909b02c2e",
   type: "page-type/page-type",
   slug: "standard-agent-english-non-term-kind",
-  definition: "which sort one non-term is",
+  definition: "which sort a non-term is",
   extends: ["page-type/page"],
   properties: [
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },

@@ -4,7 +4,7 @@ export const gitCapping = {
   id: "01a06893-5354-7000-a08b-3fa0ccdb05c0",
   type: "page-type/module",
   slug: "git-capping",
-  definition: "running one git command under a time cap and reading back what it said",
+  definition: "running a git command under a time cap and reading back what it said",
   code: "ts",
   decisions: [
     {

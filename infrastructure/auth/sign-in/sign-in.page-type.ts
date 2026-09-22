@@ -4,7 +4,7 @@ export const signIn = {
   id: "01a0baea-de7e-759b-9308-31ab255cc263",
   type: "page-type/page-type",
   slug: "sign-in",
-  definition: "the account at a provider that one contributor signs in with",
+  definition: "the account at a provider that a contributor signs in with",
   extends: ["page-type/page"],
   parts: [
     "text-property/sign-in-provider",
