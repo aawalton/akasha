@@ -1,9 +1,0 @@
-import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
-
-export const libSetsTableKeys = {
-  id: "01a061b8-4f5f-721f-a43a-26ccbe0422b9",
-  type: "page-type/type-declaration",
-  slug: "lib-sets-table-keys",
-  definition: "the string keys lib-sets files its own tables under",
-  d: "ts",
-} as const satisfies TypeDeclaration

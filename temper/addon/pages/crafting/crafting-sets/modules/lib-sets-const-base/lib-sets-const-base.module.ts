@@ -9,7 +9,7 @@ export const libSetsConstBase = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The library table is imported here and published as a global here.",
+      statement: "The library table is imported here and given the values every module reads.",
     },
     {
       decisionKind: "decision-kind/departure",

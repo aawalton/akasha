@@ -1,5 +1,3 @@
-declare const IsLibSetsAlreadyLoaded: (this: void, outputMsg?: boolean) => boolean
-
 declare const LibSets_SearchUI_Shared: {
   setId: number | undefined
   GetAllFavoritesCategories: (this: void, setId: number | undefined) => string[]

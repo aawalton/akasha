@@ -19,7 +19,6 @@ import {
   libSetsSearchUISharedUpdateSearch,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-xml-handlers/lib-sets-search-ui-shared-xml-handlers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lib-sets-dlc/eso-lib-sets-dlc.type-declaration.d.ts"
@@ -104,7 +103,7 @@ function slashCommandDlcs(this: void): undefined {
       }
     }
   }
-  d(libPrefix + "DLCs in order of appearance [<LibSetsDLCId>] <name>  (<LibSetsDLCtype>)")
+  d(libPrefix + "DLCs in order of appearance [<dlcId>] <name>  (<dlcType>)")
   for (const [, chapterData] of ipairs(asPresent(dlcsInOrderLookupTable))) {
     const dlcId = chapterData.dlcId
     outputDLCorChapterRow(
@@ -129,7 +128,7 @@ function slashCommandChapters(this: void): undefined {
       }
     }
   }
-  d(libPrefix + "Chapters in order of appearance [<LibSetsDLCId>] <name>  (DLC_TYPE_CHAPTER)")
+  d(libPrefix + "Chapters in order of appearance [<dlcId>] <name>  (DLC_TYPE_CHAPTER)")
   for (const [, chapterData] of ipairs(asPresent(chaptersInOrderLookupTable))) {
     const dlcId = chapterData.dlcId
     outputDLCorChapterRow(
@@ -144,9 +143,7 @@ function slashCommandDlcsAndChapter(this: void): undefined {
   if (lib.DLCAndCHAPTERData === undefined) {
     return
   }
-  d(
-    libPrefix + "DLCs & chapters in order of appearance [<LibSetsDLCId>] <name>  (<LibSetsDLCtype>)"
-  )
+  d(libPrefix + "DLCs & chapters in order of appearance [<dlcId>] <name>  (<dlcType>)")
   for (const [, dlcId] of ipairs(lib.DLCAndCHAPTERDataOrdered)) {
     const dlcName = lib.DLCAndCHAPTERData[dlcId]
     outputDLCorChapterRow(

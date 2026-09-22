@@ -1,9 +1,0 @@
-import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
-
-export const libSetsDropMechanicIds = {
-  id: "01a061b8-4f5b-713d-85f9-2566e8bbd67a",
-  type: "page-type/type-declaration",
-  slug: "lib-sets-drop-mechanic-ids",
-  definition: "the numbers lib-sets gives each way a set drops",
-  d: "ts",
-} as const satisfies TypeDeclaration

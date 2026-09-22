@@ -1,41 +1,13 @@
 import { boolPair } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-bool-pair/lib-sets-bool-pair.module.code.ts"
-import { asGlobalTable } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const MAJOR = "LibSets"
 const MINOR = 0.92
-
-const G = asGlobalTable(globalThis)
-
-function isLibSetsAlreadyLoaded(this: void, outputMsg?: boolean): boolean {
-  const doOutput = outputMsg ?? false
-  if (LibSets !== undefined && LibSets.fullyLoaded === true) {
-    const loadedVersion = LibSets.version
-    if (loadedVersion < MINOR) {
-      return false
-    }
-    if (doOutput === true) {
-      d(
-        "[" +
-          MAJOR +
-          "]Library was already loaded before, with version " +
-          tostring(loadedVersion) +
-          "!"
-      )
-    }
-    return true
-  }
-  return false
-}
-G["IsLibSetsAlreadyLoaded"] = isLibSetsAlreadyLoaded
-
-LibSets = lib
 
 const IsConsole = ZO_IsConsoleOrGameCoreUI()
 lib.IsConsole = IsConsole

@@ -1,9 +1,0 @@
-import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
-
-export const libSetsMiscIds = {
-  id: "01a061b8-4f5b-7a41-8226-5712e9fec69f",
-  type: "page-type/type-declaration",
-  slug: "lib-sets-misc-ids",
-  definition: "the proc, zone and item-id markers lib-sets publishes beside its set numbers",
-  d: "ts",
-} as const satisfies TypeDeclaration
