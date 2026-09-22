@@ -22,6 +22,7 @@ export const rustCrate = {
     },
     { pageProperty: "code-file-property/cargo-build-script", required: false, many: false },
     { pageProperty: "file-property/crate-icon", required: false, many: false },
+    { pageProperty: "file-property/git-ignore", required: false, many: false },
   ],
   decisions: [
     {
