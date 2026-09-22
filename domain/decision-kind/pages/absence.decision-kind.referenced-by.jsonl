@@ -2025,6 +2025,7 @@
 {"propertySlug":"decision-kind","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts","id":"01a090b3-cd34-73db-8728-72f922749cda"}
 {"propertySlug":"decision-kind","path":"temper/modules/descriptor/descriptor.module.ts","id":"01a06053-3638-7cb5-b297-d04869965330"}
 {"propertySlug":"decision-kind","path":"temper/modules/movable-window/movable-window.module.ts","id":"01a060c4-17d0-7920-84d6-6391a39d187e"}
+{"propertySlug":"decision-kind","path":"temper/modules/surface-backdrop/surface-backdrop.module.ts","id":"01a0ca1b-9819-771f-8b2f-507f18be812b"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/import-redirect/import-redirect.module.ts","id":"01a09097-3491-7938-9cab-3a376e69de9f"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/temper-build-support.domain.ts","id":"01a0609f-53f7-7460-afb2-168bb75adada"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/sets-rows-first/sets-rows-first.module.ts","id":"01a08e66-0b80-7e5b-a02a-6ceb5642caab"}

@@ -3,4 +3,5 @@
 {"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"design/interface/token/modules/semantic-color/semantic-color.module.code.ts"}
 {"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"design/interface/token/modules/surface-color/surface-color.module.code.ts"}
 {"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"design/interface/token/modules/text-color/text-color.module.code.ts"}
+{"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"temper/modules/surface-backdrop/surface-backdrop.module.code.ts"}
 {"propertySlug":"parts","path":"design/interface/token/design-interface-token.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}

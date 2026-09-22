@@ -5462,6 +5462,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/movable-window/movable-window.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/surface-backdrop/surface-backdrop.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.ts"}

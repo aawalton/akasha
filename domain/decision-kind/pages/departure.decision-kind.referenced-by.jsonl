@@ -5184,6 +5184,7 @@
 {"propertySlug":"decision-kind","path":"temper/modules/descriptor/descriptor.module.ts","id":"01a06053-3638-7cb5-b297-d04869965330"}
 {"propertySlug":"decision-kind","path":"temper/modules/movable-window/movable-window.module.ts","id":"01a060c4-17d0-7920-84d6-6391a39d187e"}
 {"propertySlug":"decision-kind","path":"temper/modules/perf-trace/perf-trace.module.ts","id":"01a060a9-5d58-7bc3-a680-2ccdb8dd5bf3"}
+{"propertySlug":"decision-kind","path":"temper/modules/surface-backdrop/surface-backdrop.module.ts","id":"01a0ca1b-9819-771f-8b2f-507f18be812b"}
 {"propertySlug":"decision-kind","path":"temper/modules/unpack-color/unpack-color.module.ts","id":"01a090aa-4938-7f89-a924-2a3c86c77dd2"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.ts","id":"01a060b3-77c9-7461-8481-e41383ba9583"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.ts","id":"01a060b3-77ca-7b4f-a569-3dce9d9f75ad"}
