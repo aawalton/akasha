@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"supervisor-proxy-liveness-rule.module.code.ts","path":"agent/seat/oauth-proxy/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-proxy-liveness-rule.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-proxy-liveness-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-proxy-liveness-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-boot/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-proxy-liveness-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.code.ts"}
-{"propertySlug":"parts","path":"agent/seat/oauth-proxy/oauth-proxy.domain.ts","id":"01a08866-3c3f-734b-a28f-34e79b39e012"}
+{"propertySlug":"parts","path":"agent/seat/model-gateway/seat-model-gateway.domain.ts","id":"01a08866-3c3f-734b-a28f-34e79b39e012"}

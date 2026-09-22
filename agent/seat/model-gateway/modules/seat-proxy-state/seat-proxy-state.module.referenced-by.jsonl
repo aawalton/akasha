@@ -1,0 +1,8 @@
+{"propertySlug":"import","fileName":"seat-proxy-state.module.code.ts","path":"agent/model/gateway/modules/proxy-entry/proxy-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-proxy-state.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-proxy-state.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-ownership/supervisor-proxy-ownership.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-proxy-state.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-proxy-state.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-proxy-state.module.code.ts","path":"command/pages/model/gateway/modules/live-gateway-seat/live-gateway-seat.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-proxy-state.module.code.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.code.ts"}
+{"propertySlug":"parts","path":"agent/seat/model-gateway/seat-model-gateway.domain.ts","id":"01a08866-3c3f-734b-a28f-34e79b39e012"}

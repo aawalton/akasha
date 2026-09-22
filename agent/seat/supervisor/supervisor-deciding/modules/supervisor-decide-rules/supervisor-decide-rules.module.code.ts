@@ -1,8 +1,8 @@
 import {
   decideProxyAdoption,
   type ProxyAdoptionInput,
-} from "akasha/agent/seat/oauth-proxy/modules/supervisor-proxy-adoption-decide/supervisor-proxy-adoption-decide.module.code.ts"
-import { decideProxyLiveness } from "akasha/agent/seat/oauth-proxy/modules/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
+} from "akasha/agent/seat/model-gateway/modules/supervisor-proxy-adoption-decide/supervisor-proxy-adoption-decide.module.code.ts"
+import { decideProxyLiveness } from "akasha/agent/seat/model-gateway/modules/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
 import {
   computeReExecJitterMs,
   resolveMaxReExecJitterMs,

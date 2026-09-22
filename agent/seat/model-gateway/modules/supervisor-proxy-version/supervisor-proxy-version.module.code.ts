@@ -2,12 +2,12 @@ import { computeModelGatewayTreeVersion } from "akasha/agent/model/gateway/modul
 import {
   type OAuthProxyState,
   readProxyState,
-} from "akasha/agent/seat/oauth-proxy/modules/seat-proxy-state/seat-proxy-state.module.code.ts"
+} from "akasha/agent/seat/model-gateway/modules/seat-proxy-state/seat-proxy-state.module.code.ts"
 import {
   respawnOAuthProxy,
   type SpawnOAuthProxyArgs,
   type SupervisorOAuthProxyHandle,
-} from "akasha/agent/seat/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
+} from "akasha/agent/seat/model-gateway/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { setOAuthProxyHandle } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"

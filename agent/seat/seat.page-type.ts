@@ -18,7 +18,7 @@ export const seat = {
     "boolean-property/live-subagent",
     "boolean-property/on-call",
     "boolean-property/send-in-flight",
-    "domain/oauth-proxy",
+    "domain/seat-model-gateway",
     "domain/pty",
     "domain/seat-capability",
 

@@ -2,16 +2,16 @@ import { computeModelGatewayTreeVersion } from "akasha/agent/model/gateway/modul
 import {
   type OAuthProxyState,
   readProxyState,
-} from "akasha/agent/seat/oauth-proxy/modules/seat-proxy-state/seat-proxy-state.module.code.ts"
+} from "akasha/agent/seat/model-gateway/modules/seat-proxy-state/seat-proxy-state.module.code.ts"
 import type {
   ProxyLivenessRuleSource,
   ProxyLivenessState,
-} from "akasha/agent/seat/oauth-proxy/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
+} from "akasha/agent/seat/model-gateway/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
 import {
   fetchHealthzOk,
   respawnOAuthProxy,
   type SupervisorOAuthProxyHandle,
-} from "akasha/agent/seat/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
+} from "akasha/agent/seat/model-gateway/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { setOAuthProxyHandle } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 import { guardTick } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"

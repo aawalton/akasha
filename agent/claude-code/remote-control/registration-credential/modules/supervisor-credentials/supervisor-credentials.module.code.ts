@@ -17,11 +17,11 @@ import {
   DOORS as EFFECT_DOORS,
   markedOn,
 } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import type { ProxyAdoptionRuleSource } from "akasha/agent/seat/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
+import type { ProxyAdoptionRuleSource } from "akasha/agent/seat/model-gateway/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import {
   type SupervisorOAuthProxyHandle,
   spawnOrAdoptOAuthProxy,
-} from "akasha/agent/seat/oauth-proxy/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
+} from "akasha/agent/seat/model-gateway/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 import { writePacingSnapshot } from "akasha/agent/seat/supervisor/supervisor-account/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 import {
   configDirForAccount,

@@ -4,7 +4,7 @@ export const aRunningServiceWritesPagesItsPageTypeRefuses = {
   id: "01a088a1-7c9c-75ee-92ca-9c997db906ae",
   type: "page-type/finding",
   slug: "a-running-service-writes-pages-its-page-type-refuses",
-  domain: "domain/oauth-proxy",
+  domain: "domain/seat-model-gateway",
   claim:
     "A service that keeps running across a rename goes on writing the old keys, and every page it writes after that breaks the tree for every seat until someone mends it by hand.\n",
   evidence:

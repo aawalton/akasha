@@ -1,7 +1,7 @@
 import { buildCredentialSubsystem } from "akasha/agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"
 import { computeModelGatewayTreeVersion } from "akasha/agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import { toolRestrictions } from "akasha/agent/modules/tool-access/tool-access.module.code.ts"
-import { installProxyVersionSubsystem } from "akasha/agent/seat/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
+import { installProxyVersionSubsystem } from "akasha/agent/seat/model-gateway/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import {
   parseSupervisorHandoffEnv,
   resolveProxyOwnerAgentId,

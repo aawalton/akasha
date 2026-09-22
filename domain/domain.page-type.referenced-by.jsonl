@@ -149,8 +149,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/capability/seat-capability.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/declaration/seat-declaration.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/fleet/seat-fleet.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/model-gateway/seat-model-gateway.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/name/seat-name.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/oauth-proxy/oauth-proxy.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/observation/seat-observation.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/observation/seat-turn/seat-pending/seat-pending.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/observation/seat-turn/seat-turn.domain.ts"}

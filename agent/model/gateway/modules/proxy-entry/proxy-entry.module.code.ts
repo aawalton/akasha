@@ -12,7 +12,7 @@ import { transportLogFlushed } from "akasha/agent/model/gateway/modules/transpor
 import {
   clearProxyState,
   writeProxyStateQuietly,
-} from "akasha/agent/seat/oauth-proxy/modules/seat-proxy-state/seat-proxy-state.module.code.ts"
+} from "akasha/agent/seat/model-gateway/modules/seat-proxy-state/seat-proxy-state.module.code.ts"
 import { supervisorSocketPath } from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 import {
   fileSink,

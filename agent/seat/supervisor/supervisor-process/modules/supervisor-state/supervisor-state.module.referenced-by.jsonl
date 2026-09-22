@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/oauth-proxy/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/self-healing/modules/supervisor-reexec/supervisor-reexec.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor/supervisor-boot/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"}

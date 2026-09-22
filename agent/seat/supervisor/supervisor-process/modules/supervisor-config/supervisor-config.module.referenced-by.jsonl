@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-deps/recipient-resolver-deps.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-revive/recipient-resolver-revive.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/oauth-proxy/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/self-healing/modules/supervisor-reexec/supervisor-reexec.module.code.ts"}

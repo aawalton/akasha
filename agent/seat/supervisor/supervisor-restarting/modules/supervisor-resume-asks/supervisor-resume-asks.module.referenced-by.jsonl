@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/oauth-proxy/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/self-healing/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"}
