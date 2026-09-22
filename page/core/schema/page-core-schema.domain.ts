@@ -8,7 +8,6 @@ export const pageCoreSchema = {
   parts: [
     "module/action-button-config",
     "module/badge-display",
-    "module/coherence-rules",
     "module/color-rule-variant",
     "module/content-tier",
     "module/cross-type-predicates",

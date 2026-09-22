@@ -2060,7 +2060,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/url/url.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/schema/modules/action-button-config/action-button-config.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/schema/modules/badge-display/badge-display.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/schema/modules/coherence-rules/coherence-rules.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/schema/modules/color-rule-variant/color-rule-variant.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/schema/modules/content-tier/content-tier.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/schema/modules/cross-type-predicates/cross-type-predicates.module.ts"}
