@@ -84,5 +84,14 @@ export const topicWords = {
       decisionKind: "decision-kind/absence",
       statement: "Importing this file counts nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Wisdom words are counted by the page type of the file rather than by where the file sits.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here names the folder the topic pages sit in.",
+    },
   ],
 } as const satisfies Module

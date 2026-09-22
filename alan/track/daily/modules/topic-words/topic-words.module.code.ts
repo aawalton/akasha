@@ -17,7 +17,7 @@ import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-a
 
 export const WORDS_COUNTED_FROM = "2026-09-06"
 
-const WISDOM_PATHSPEC = ":(glob)all-about-alan/topics/pages/**/*.all-about-alan-topic.ts"
+const WISDOM_PATHSPEC = ":(glob)**/*.all-about-alan-topic.ts"
 
 const INTELLIGENCE_PATHSPEC = ":(glob)alan/book/pages/learn-everything/topic/pages/**/*.md"
 
