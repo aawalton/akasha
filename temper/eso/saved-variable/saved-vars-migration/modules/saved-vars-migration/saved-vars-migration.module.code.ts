@@ -116,3 +116,9 @@ export type ConsolidationMigration =
       readonly renames: readonly (readonly [RegExp, string])[]
     }
   | { readonly mode: "append"; readonly runFor: string; readonly spec: AppendSpec }
+  | {
+      readonly mode: "rename-in-place"
+      readonly runFor: string
+      readonly fileBase: string
+      readonly renames: readonly (readonly [RegExp, string])[]
+    }

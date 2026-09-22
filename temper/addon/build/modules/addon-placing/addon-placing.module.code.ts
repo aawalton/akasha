@@ -30,6 +30,7 @@ import {
   appendAddonSavedVars,
   type ConsolidationMigration,
   migrateAddonSavedVars,
+  renameAddonSavedVarsInPlace,
 } from "akasha/temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.code.ts"
 
 const DIST = "dist"
@@ -258,6 +259,17 @@ function migratedIn(canonicalName: string, sourceDir: string, vars: string): rea
       if (outcome.kind === "renamed") {
         lines.push(
           `migrated saved variables: ${outcome.from}.lua to ${outcome.to}.lua (${String(outcome.renamedCount)} global(s) renamed)`
+        )
+      }
+      continue
+    }
+    if (migration.mode === "rename-in-place") {
+      const inPlace = renameAddonSavedVarsInPlace(migration.fileBase, migration.renames, {
+        savedVarsDir: vars,
+      })
+      if (inPlace.kind === "renamed-in-place") {
+        lines.push(
+          `renamed saved variables in ${inPlace.fileBase}.lua (${String(inPlace.renamedCount)} global(s) renamed)`
         )
       }
       continue
