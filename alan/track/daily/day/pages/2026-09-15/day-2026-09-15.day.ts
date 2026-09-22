@@ -8,7 +8,7 @@ export const day20260915 = {
   date: "2026-09-15",
   version: "3.0",
   activeCalories: 298.0139999999998,
-  wisdomWords: 0,
+  wisdomWords: 692,
   intelligenceTopics: 0,
   inboxTasks: 0,
   inboxTasksClearedToday: true,
