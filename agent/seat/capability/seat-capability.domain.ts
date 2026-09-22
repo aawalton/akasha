@@ -4,7 +4,7 @@ export const seatCapability = {
   id: "01a0658d-c92f-7b82-8a05-aaac4557d9a3",
   type: "page-type/domain",
   slug: "seat-capability",
-  definition: "what a seat is able to do",
+  definition: "what a seat can do",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
