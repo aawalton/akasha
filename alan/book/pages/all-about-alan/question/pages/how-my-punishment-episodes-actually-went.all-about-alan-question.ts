@@ -5,5 +5,5 @@ export const howMyPunishmentEpisodesActuallyWent = {
   type: "page-type/all-about-alan-question",
   slug: "how-my-punishment-episodes-actually-went",
   topic: "all-about-alan-topic/why-i-have-to-be-perfect",
-  ask: "How did my first A-, the art class and the squash farm actually go, past the one compressed line each of those cases gets here?",
+  ask: "How did the art class and the squash farm actually go, past the one compressed line each of those cases gets here?",
 } as const satisfies AllAboutAlanQuestion
