@@ -5,7 +5,7 @@ export const temperAddonItems = {
   type: "page-type/temper-addon",
   slug: "temper-addon-items",
   definition:
-    "the add-on for every character's items: what they are, where they go, and what they sell for",
+    "the add-on for every character's items: what they are, where they go, and their price",
 
   addonManifest: "json",
   addonImageFolder: true,

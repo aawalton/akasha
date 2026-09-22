@@ -4,7 +4,7 @@ export const keybinderInit = {
   id: "01a06381-67c1-7c76-96e7-07ef878b098c",
   type: "page-type/module",
   slug: "keybinder-init",
-  definition: "the controls the add-on puts in the key-bind window and the events it waits on",
+  definition: "the controls the add-on puts in the key-bind window and the events it watches",
   code: "ts",
   decisions: [
     {

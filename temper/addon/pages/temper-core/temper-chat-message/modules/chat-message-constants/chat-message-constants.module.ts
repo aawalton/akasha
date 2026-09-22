@@ -4,7 +4,7 @@ export const chatMessageConstants = {
   id: "01a06060-0d15-7df5-abbc-1aabd8bc7f85",
   type: "page-type/module",
   slug: "chat-message-constants",
-  definition: "the fixed values a chat message is built from",
+  definition: "the fixed values building a chat message",
   code: "ts",
   decisions: [
     {

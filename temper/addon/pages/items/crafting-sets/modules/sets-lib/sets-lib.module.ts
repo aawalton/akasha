@@ -4,7 +4,7 @@ export const setsLib = {
   id: "01a0c67e-6762-70ba-8fef-fc508116a25d",
   type: "page-type/module",
   slug: "sets-lib",
-  definition: "the table this library hangs every value and function it answers with on",
+  definition: "the table holding every value and function this library answers",
   code: "ts",
   decisions: [
     {

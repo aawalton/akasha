@@ -4,6 +4,6 @@ export const writAlchemyData = {
   id: "01a061c7-e893-796b-b2b2-2dbf4acdc6c4",
   type: "page-type/module",
   slug: "writ-alchemy-data",
-  definition: "the reagents and effects an alchemy writ can ask for",
+  definition: "the reagents and effects an alchemy writ may name",
   code: "ts",
 } as const satisfies Module

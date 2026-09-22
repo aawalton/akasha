@@ -4,7 +4,7 @@ export const scrollableMenuUtilArrowColor = {
   id: "01a0c50c-bd87-7ae7-8703-f8f255e02fe4",
   type: "page-type/module",
   slug: "scrollable-menu-util-arrow-color",
-  definition: "the color the arrow on a submenu entry is drawn in",
+  definition: "the color of the arrow on a submenu entry",
   code: "ts",
   decisions: [
     {

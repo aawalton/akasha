@@ -4,6 +4,6 @@ export const journalTooltipExtension = {
   id: "01a0617d-5454-7c1c-8400-f6e1401fc317",
   type: "page-type/module",
   slug: "journal-tooltip-extension",
-  definition: "the tooltip section a tracker writes its own lines into",
+  definition: "the tooltip section taking a tracker's own lines",
   code: "ts",
 } as const satisfies Module
