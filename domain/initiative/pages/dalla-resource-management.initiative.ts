@@ -15,7 +15,7 @@ export const dallaResourceManagement = {
     {
       statement: "An audit reads the one commit it opened at, from its first file to its last.",
       workingMemory:
-        "The commit `commitOf` reads at the start is only the label written onto the verdict. `everythingIn` lists with `git ls-files --cached --others`, the index plus untracked working-tree files, and `onDisk` reads bodies with readFileSync, so an audit judges what the working tree holds when each file is opened. A landing part way through a round moves what a later check sees. Ripgrep cannot read a commit; `git grep <rev>` and `git ls-tree -r <rev>` can.",
+        "An audit reads a read-only checkout at that commit, kept between rounds and brought forward by writing only what changed. The two `ls-files` passes each audit runs cost 0.87s, 56s over 64 audits; `ls-tree -r` answers 368,138 paths in 0.20s. The 164,434 files an audit lists are 858 MB: 2.86s through one `cat-file --batch`, 1.42s off a warm tree, and a batch reader is per-process while a checkout is shared. A full fill is 8.82s; 75 commits of drift is 342 files and 0.97s. Archive never unlinks.\n",
     },
     {
       statement: "Every audit collects the files that audit judges rather than listing the tree.",
