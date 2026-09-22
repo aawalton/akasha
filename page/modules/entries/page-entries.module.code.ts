@@ -23,10 +23,17 @@ export type Entried = {
 
 export type Rows = { readonly entries: readonly Value[] } | { readonly refused: string }
 
-export function entriedAmong<T extends Entried>(declared: Iterable<T>): readonly T[] {
+export type Entrying = (pageTypeSlug: string) => boolean
+
+const entryShaped: Entrying = (pageTypeSlug) => pageTypeSlug === ENTRY_PROPERTY
+
+export function entriedAmong<T extends Entried>(
+  declared: Iterable<T>,
+  entried: Entrying = entryShaped
+): readonly T[] {
   const found: T[] = []
   for (const one of declared) {
-    if (one.pageTypeSlug === ENTRY_PROPERTY) found.push(one)
+    if (entried(one.pageTypeSlug)) found.push(one)
   }
   return found
 }
@@ -130,11 +137,12 @@ export function entriedValue(
   page: string,
   value: Value,
   declared: Iterable<Entried>,
-  wanted: ReadonlySet<string> | null = null
+  wanted: ReadonlySet<string> | null = null,
+  entried: Entrying = entryShaped
 ): Value {
   const held: Record<string, unknown> = {}
   let turned = false
-  for (const one of entriedAmong(declared)) {
+  for (const one of entriedAmong(declared, entried)) {
     if (wanted !== null && !wanted.has(one.key)) continue
     const said = value[one.key]
     if (typeof said !== "string") continue

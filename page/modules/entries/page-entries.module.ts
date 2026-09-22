@@ -22,6 +22,16 @@ export const pageEntries = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A caller naming which page types keep their values that way is answered by that naming.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page type extending `page-property-entry` is known here only where a caller names it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A file's name is the page's name followed by the property's slug and the extension stated.",
     },
     {

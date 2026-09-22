@@ -32,6 +32,8 @@ const PROMPT: Entried = {
   uncommitted: false,
 }
 
+const UNDER: Entried = { ...CASES, pageTypeSlug: "cased-progress" }
+
 function rooted(name: string, bodies: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor(name)
   for (const [at, body] of Object.entries(bodies)) {
@@ -78,6 +80,31 @@ test("a path that is no page file is refused", () => {
 
 test("only a declaration whose property is an entry shape is picked out", () => {
   expect(entriedAmong([PROMPT, CASES])).toEqual([CASES])
+})
+
+test("a caller naming which page types keep values beside the page is answered by that naming", () => {
+  expect(entriedAmong([PROMPT, CASES, UNDER], (slug) => slug !== "text-property")).toEqual([
+    CASES,
+    UNDER,
+  ])
+})
+
+test("a page type a caller names as an entry shape is read beside the page", () => {
+  const root = rooted("akasha-entries-under-", {
+    [PAGE]: "",
+    "akasha/one/held.model-test.cases.jsonl": '{"answer":"YES"}\n',
+  })
+
+  expect(
+    entriedValue(
+      root,
+      PAGE,
+      { cases: "jsonl" },
+      [UNDER],
+      null,
+      (slug) => slug === UNDER.pageTypeSlug
+    )
+  ).toEqual({ cases: [{ answer: "YES" }] })
 })
 
 test("the values read beside the page are written over the extension the page states", () => {
