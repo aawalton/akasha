@@ -66,7 +66,7 @@
         "useLiteralKeys": "off",
         "useOptionalChain": "error",
         "useRegexLiterals": "error",
-        "useArrowFunction": "error",
+        "useArrowFunction": { "level": "error", "fix": "none" },
         "useSimpleNumberKeys": "error",
         "noStaticOnlyClass": "error",
         "useNumericLiterals": "error",
