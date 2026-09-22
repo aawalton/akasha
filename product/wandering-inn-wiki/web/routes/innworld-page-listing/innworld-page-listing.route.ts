@@ -4,7 +4,7 @@ export const innworldPageListing = {
   id: "01a0c5fc-31a5-75df-9ea9-6a8ef459b23f",
   type: "page-type/route",
   slug: "innworld-page-listing",
-  definition: "the pages of one page type, drawn as a list",
+  definition: "the pages of a page type, drawn as a list",
   code: "tsx",
   urlPath: ":pageTypeSlug",
   decisions: [

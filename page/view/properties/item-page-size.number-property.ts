@@ -5,7 +5,7 @@ export const itemPageSize = {
   type: "page-type/number-property",
   slug: "item-page-size",
   propertySlug: "item-page-size",
-  definition: "how many pages a view draws at once inside one group",
+  definition: "how many pages a view draws at once inside a group",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

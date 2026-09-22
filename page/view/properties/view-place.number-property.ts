@@ -5,7 +5,7 @@ export const viewPlace = {
   type: "page-type/number-property",
   slug: "view-place",
   propertySlug: "view-place",
-  definition: "where a view sits among the views under one nav item",
+  definition: "where a view sits among the views under a nav item",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

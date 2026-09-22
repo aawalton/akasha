@@ -5,7 +5,7 @@ export const personAccessTarget = {
   type: "page-type/text-property",
   slug: "person-access-target",
   propertySlug: "target",
-  definition: "the one thing of that kind the access reaches, or `all`",
+  definition: "the thing of that kind the access reaches, or `all`",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

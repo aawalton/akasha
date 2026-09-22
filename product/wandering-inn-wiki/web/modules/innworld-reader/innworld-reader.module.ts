@@ -4,7 +4,7 @@ export const innworldReader = {
   id: "01a0c5fb-f556-72d8-af41-7464e370af1a",
   type: "page-type/module",
   slug: "innworld-reader",
-  definition: "the one reader every request to innworld.wiki is answered for",
+  definition: "the reader every request to innworld.wiki is answered for",
   code: "ts",
   decisions: [
     {

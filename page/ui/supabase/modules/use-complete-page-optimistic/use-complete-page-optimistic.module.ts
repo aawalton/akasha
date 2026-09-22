@@ -5,7 +5,7 @@ export const useCompletePageOptimistic = {
   type: "page-type/module",
   slug: "use-complete-page-optimistic",
   definition:
-    "Marks one task done in the local store, then sends every key that marking touches as one patch.",
+    "Marks a task done in the local store, then sends every key that marking touches as one patch.",
   code: "tsx",
   decisions: [
     {

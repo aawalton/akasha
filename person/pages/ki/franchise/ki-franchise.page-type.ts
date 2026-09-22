@@ -4,7 +4,7 @@ export const kiFranchise = {
   id: "01a06825-d0ec-72c3-a6e7-40399fe1a4d4",
   type: "page-type/page-type",
   slug: "ki-franchise",
-  definition: "the shows and movies Ki watches that share one world",
+  definition: "the shows and movies Ki watches that share a world",
   extends: ["page-type/ki-collection-template"],
   decisions: [
     {

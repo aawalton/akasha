@@ -4,7 +4,7 @@ export const closenessLevel = {
   id: "01a0540e-5111-7164-acb3-f776b18d8b45",
   type: "page-type/page-type",
   slug: "closeness-level",
-  definition: "one rung of how close a persona is drawn, from public to unveiled",
+  definition: "a rung of how close a persona is drawn, from public to unveiled",
   extends: ["page-type/domain"],
   parts: [
     "closeness-level/level-1",

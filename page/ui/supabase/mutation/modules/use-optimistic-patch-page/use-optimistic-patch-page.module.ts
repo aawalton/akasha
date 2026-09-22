@@ -5,6 +5,6 @@ export const useOptimisticPatchPage = {
   type: "page-type/module",
   slug: "use-optimistic-patch-page",
   definition:
-    "Overlays a predicted patch on one page in the local store, then runs the caller's patch.",
+    "Overlays a predicted patch on a page in the local store, then runs the caller's patch.",
   code: "ts",
 } as const satisfies Module
