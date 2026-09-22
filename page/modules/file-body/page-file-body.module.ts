@@ -32,7 +32,7 @@ export const pageFileBody = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A file the page names that is not there is refused rather than read as holding nothing.",
+        "A file the page names that is not there is refused rather than taken as holding nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

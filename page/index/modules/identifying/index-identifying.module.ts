@@ -20,7 +20,7 @@ export const indexIdentifying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An identifier's value is read as text or as a number.",
+      statement: "An identifier's value is taken as text or as a number.",
     },
     {
       decisionKind: "decision-kind/departure",

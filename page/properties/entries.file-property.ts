@@ -23,7 +23,7 @@ export const entries = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Memory is read as the high-water mark the run moved.",
+      statement: "Memory is taken as the high-water mark the run moved.",
     },
     {
       decisionKind: "decision-kind/departure",

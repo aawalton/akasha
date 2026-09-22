@@ -38,15 +38,15 @@ export const whereTesting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value with nothing reads as bare.",
+      statement: "A value with nothing is taken as bare.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A list with nothing reads as bare.",
+      statement: "A list with nothing is taken as bare.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An ordering test answers false over a value that reads as bare.",
+      statement: "An ordering test answers false over a value taken as bare.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -114,7 +114,7 @@ export const pageReading = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "A body that is not text reads as the replacement character.",
+      statement: "A body that is not text is taken as the replacement character.",
     },
   ],
 } as const satisfies Module

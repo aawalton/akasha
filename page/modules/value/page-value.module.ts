@@ -37,7 +37,7 @@ export const pageValue = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A key is read as the type that key is asked for or as nothing.",
+      statement: "A key is taken as the type that key is asked for or as nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -18,20 +18,20 @@ export const rruleWording = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An interval of two reads as `other` rather than as the number two.",
+      statement: "An interval of two is worded as `other` rather than as the number two.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A monthly interval of three reads as `Quarterly`.",
+      statement: "A monthly interval of three is worded as `Quarterly`.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A weekly rule naming one day reads as that day's whole name.",
+      statement: "A weekly rule naming one day is worded as that day's whole name.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A weekly rule naming several days reads as those days shortened to three letters.",
+        "A weekly rule naming several days is worded as those days shortened to three letters.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -58,7 +58,8 @@ export const rruleWording = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A monthly rule counting one day back from the end reads as the month's last day.",
+      statement:
+        "A monthly rule counting one day back from the end is worded as the month's last day.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -99,7 +100,7 @@ export const rruleWording = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rule holding a part this wording does not cover reads as the text it was.",
+      statement: "A rule holding a part this wording does not cover is worded as the text it was.",
     },
     {
       decisionKind: "decision-kind/departure",

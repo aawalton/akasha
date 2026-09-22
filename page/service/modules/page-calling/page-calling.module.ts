@@ -59,7 +59,7 @@ export const pageCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body that will not read as JSON is refused rather than answered as nothing.",
+      statement: "A body that will not parse as JSON is refused rather than answered as nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -71,7 +71,7 @@ export const pageCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body that will not read as JSON is not tried again.",
+      statement: "A body that will not parse as JSON is not tried again.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -87,7 +87,7 @@ export const pageCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file answered badly is read as JSON to find the reason.",
+      statement: "A file answered badly is parsed as JSON to find the reason.",
     },
     {
       decisionKind: "decision-kind/departure",

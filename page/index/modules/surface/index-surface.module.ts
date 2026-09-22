@@ -147,7 +147,7 @@ export const indexSurface = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An index not there yet is read as an index that is there and has nothing.",
+      statement: "An index not there yet is taken as an index that is there and has nothing.",
     },
     {
       decisionKind: "decision-kind/absence",
