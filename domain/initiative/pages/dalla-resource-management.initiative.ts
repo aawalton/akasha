@@ -20,7 +20,7 @@ export const dallaResourceManagement = {
     {
       statement: "Every audit an agent runs has a memory ceiling of its own.",
       workingMemory:
-        "An audit is a check over the whole tree rather than over what changed, and states a processor ceiling of its own: fifteen seconds usually, twenty for no-relative-specifier, twenty-five for check-reaches-a-path-through-the-index, and a hundred and twenty for no-unused-exports and for index-is-level-with-the-pages. Nothing states a memory ceiling, and the peak is taken the way a check's is.",
+        "None of the 64 audits carries maxMemoryMb, so nothing states one. Measured peaks in the pod run 129 MiB to 2,286: index-is-level-with-the-pages 2,286, typecheck 1,496, no-unused-modules 1,325, folder-matches-a-shape 1,288, most under 400. The floor is the whole-tree read, which costs 327 MiB on its own. Processor ceilings are stated, fifteen seconds usually and up to a hundred and twenty.\n",
     },
     {
       statement: "Every guard a tool call runs has a processor and a memory ceiling of its own.",
