@@ -35,8 +35,9 @@ test("a scope is named for the service it puts up", () => {
   expect(scopeFor("temper-web")).toBe(`${SCOPE_LEAD}temper-web${SCOPE_END}`)
 })
 
-test("a deploy is run from the tree, under a scope of its own", () => {
-  const argv = deployArgv(process.cwd(), "/tree", "temper-web")
+test("a deploy is run from the checkout, under a scope of its own", () => {
+  const root = process.cwd()
+  const argv = deployArgv(root, "temper-web")
   expect(argv).not.toHaveProperty("refused")
   const words = argv as readonly string[]
   expect(words).toContain("--scope")
@@ -45,7 +46,8 @@ test("a deploy is run from the tree, under a scope of its own", () => {
   expect(words).toContain("--measured")
   expect(words).toContain(`--property=RuntimeMaxSec=${RUNTIME_MAX_SECONDS}`)
   expect(words).toContain("temper-web")
-  expect(words.some((one) => one.startsWith("/tree/"))).toBe(true)
+  expect(words.some((one) => one.startsWith(`${root}/`))).toBe(true)
+  expect(words.some((one) => one.includes("/trees/"))).toBe(false)
 })
 
 test("a tick putting nothing up says how many were weighed, up to date, waiting and running", () => {

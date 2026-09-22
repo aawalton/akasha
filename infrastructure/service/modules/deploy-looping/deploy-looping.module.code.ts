@@ -19,10 +19,6 @@ import {
   WEB_APP,
   WORKSTATION_SERVICE,
 } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
-import {
-  saidOfNoTree,
-  treeIn,
-} from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import {
   type Candidate,
@@ -81,7 +77,7 @@ export function scopeFor(slug: string): string {
   return `${SCOPE_LEAD}${slug}${SCOPE_END}`
 }
 
-export function deployArgv(root: string, tree: string, slug: string): readonly string[] | Refused {
+export function deployArgv(root: string, slug: string): readonly string[] | Refused {
   const run = runOf(root, CLI)
   if ("refused" in run) return run
   return [
@@ -92,7 +88,7 @@ export function deployArgv(root: string, tree: string, slug: string): readonly s
     RUNTIME_MAX,
     "--",
     run.runner,
-    join(tree, run.path),
+    join(root, run.path),
     DEPLOY,
     MEASURED,
     slug,
@@ -175,13 +171,6 @@ export async function ticked(
   run: Running = systemdRun,
   probe: Running = systemctl
 ): Promise<Ticked> {
-  const tree = treeIn(root, WORKSTATION_SERVICE)
-  if (tree === null) {
-    return {
-      said: [],
-      wrong: [saidOfNoTree(WORKSTATION_SERVICE, `git names no folder under ${root}`)],
-    }
-  }
   const deploying = heldNow(root)
   const commit = headOf(root)
   const every = await candidatesIn(root, kind, deploying)
@@ -193,7 +182,7 @@ export async function ticked(
       wrong: [],
     }
   }
-  const argv = deployArgv(root, tree, past.chosen.slug)
+  const argv = deployArgv(root, past.chosen.slug)
   if ("refused" in argv) return { said: past.said, wrong: [argv.refused] }
   const started = asked(run, argv)
   if (started.code === DATA) {

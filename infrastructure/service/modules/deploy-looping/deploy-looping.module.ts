@@ -53,7 +53,11 @@ export const deployLooping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The deploy runs the code of the tree the workstation kind pinned.",
+      statement: "The deploy runs the checkout's own code rather than a tree's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy reads every command it runs from the checkout, so a tree pinned none.",
     },
     {
       decisionKind: "decision-kind/departure",
