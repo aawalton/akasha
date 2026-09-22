@@ -9,7 +9,7 @@ export const catalogEntry = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The order the nineteen collectors are imported in is the collection order.",
+      statement: "The order the collectors are imported in is the collection order.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -833,6 +833,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.ts","id":"01a0616b-b903-7191-873a-e4fde46698f7"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-map/character-capture-skill-map.module.ts","id":"01a0616b-8ea3-7699-aef6-4c54ee5ce7ec"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
+{"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/engine-globals-catalog-capture/engine-globals-catalog-capture.module.ts","id":"01a0ca9b-cea9-76cd-ae0e-b097df1969dc"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-host/modules/poi-catalog-schema/poi-catalog-schema.module.ts","id":"01a06084-d419-7e65-9fe0-2100e873d96e"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/temper-capture-shape.domain.ts","id":"01a0604d-23a0-70d4-9f11-7c21f7a7d1bc"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}

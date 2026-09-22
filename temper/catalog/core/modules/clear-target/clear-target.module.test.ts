@@ -53,6 +53,5 @@ describe("decideClearTarget", () => {
       return decision.kind === "one" && decision.domainKey === key
     })
     expect(resolved.length).toBe(KEYS.length)
-    expect(KEYS.length).toBe(19)
   })
 })

@@ -6,6 +6,7 @@ import type { CollectiblesCatalogData } from "akasha/temper/capture/shape/module
 import type { CompanionEquipmentCatalogData } from "akasha/temper/capture/shape/modules/companion-equipment-catalog/companion-equipment-catalog.module.code.ts"
 import type { CompanionSkillCatalogLine } from "akasha/temper/capture/shape/modules/companion-skill-catalog/companion-skill-catalog.module.code.ts"
 import type { CurrencyCatalogEntry } from "akasha/temper/capture/shape/modules/currency-catalog/currency-catalog.module.code.ts"
+import type { EngineGlobalsCatalogData } from "akasha/temper/capture/shape/modules/engine-globals-catalog/engine-globals-catalog.module.code.ts"
 import type { FurnitureCatalogData } from "akasha/temper/capture/shape/modules/furniture-catalog/furniture-catalog.module.code.ts"
 import type { InventoryConstantsCatalogData } from "akasha/temper/capture/shape/modules/inventory-constants-catalog/inventory-constants-catalog.module.code.ts"
 import type { ItemSetCatalogEntry } from "akasha/temper/capture/shape/modules/item-set-catalog/item-set-catalog.module.code.ts"
@@ -39,6 +40,7 @@ export interface CatalogPayload {
   classCatalog?: Record<number, ClassCatalogEntry>
   companionSkillCatalog?: Record<number, CompanionSkillCatalogLine>
   skillCatalog?: Record<number, SkillCatalogLine>
+  engineGlobalsCatalog?: EngineGlobalsCatalogData
   completed: boolean
   collectionSkips?: Record<string, string>
   apiVersion?: string

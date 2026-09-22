@@ -17,6 +17,7 @@ export const temperGameCatalogCaptureAddon = {
     "module/companion-skill-catalog-capture",
     "module/currency-catalog-capture",
     "module/display-category-constants",
+    "module/engine-globals-catalog-capture",
     "module/enum-value-labels",
     "module/equip-type-constants",
     "module/furniture-catalog-capture",
