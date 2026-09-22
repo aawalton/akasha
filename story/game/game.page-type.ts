@@ -31,7 +31,7 @@ export const game = {
     "page-type/game-mechanic",
     "multi-relation-property/game-mechanics",
     "page-type/game-attribute",
-    "relation-property/game-attributes",
+    "multi-relation-property/game-attributes",
     "text-property/card-vocabulary",
     "relation-property/game-default-dice",
     "page-type/game-panel",
@@ -78,7 +78,7 @@ export const game = {
       maxCount: null,
     },
     {
-      pageProperty: "relation-property/game-attributes",
+      pageProperty: "multi-relation-property/game-attributes",
       required: false,
       many: true,
       maxCount: null,

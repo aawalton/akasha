@@ -7,7 +7,7 @@ import type { ControlledEntityKind } from "akasha/story/game/properties/controll
 import type { CoordinatorAgent } from "akasha/story/game/properties/coordinator-agent.text-property.types.ts"
 import type { CurrentSession } from "akasha/story/game/properties/current-session.number-property.types.ts"
 import type { DisplayConfig } from "akasha/story/game/properties/display-config.file-property.types.ts"
-import type { GameAttributes } from "akasha/story/game/properties/game-attributes.relation-property.types.ts"
+import type { GameAttributes } from "akasha/story/game/properties/game-attributes.multi-relation-property.types.ts"
 import type { GameDefaultDice } from "akasha/story/game/properties/game-default-dice.relation-property.types.ts"
 import type { GameEngine } from "akasha/story/game/properties/game-engine.text-property.types.ts"
 import type { GameMechanics } from "akasha/story/game/properties/game-mechanics.multi-relation-property.types.ts"
