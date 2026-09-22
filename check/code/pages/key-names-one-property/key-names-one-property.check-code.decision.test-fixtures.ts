@@ -72,7 +72,7 @@ export function typing(
     root,
     pathFor(PAGE_TYPE, slug),
     bytesOf(
-      `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: "page-type", ` +
+      `export const held = { id: ${JSON.stringify(id)}, type: "page-type/page-type", ` +
         `slug: ${JSON.stringify(slug)}, extends: ${said}, ` +
         `properties: ${JSON.stringify(declared)} }\n`
     )
