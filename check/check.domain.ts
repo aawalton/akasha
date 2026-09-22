@@ -41,6 +41,7 @@ export const check = {
     "service-workstation/audit-running",
     "test-fixture/check-scratch",
     "test-fixture/check-staging",
+    "module/audit-commit",
   ],
   decisions: [
     {

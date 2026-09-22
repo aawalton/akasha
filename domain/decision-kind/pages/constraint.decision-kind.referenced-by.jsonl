@@ -224,6 +224,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/typecheck/typecheck.check-code.ts","id":"01a04bcb-dff4-761a-856e-407fb6934b44"}
 {"propertySlug":"decision-kind","path":"check/code/pages/view-names-a-declared-key/view-names-a-declared-key.check-code.ts","id":"01a0c570-c14d-7bbc-9008-feed418845bb"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-calling/audit-calling.module.ts","id":"01a0a6a7-6988-7cac-b722-46cd6c843671"}
+{"propertySlug":"decision-kind","path":"check/modules/audit-commit/audit-commit.module.ts","id":"01a0caa3-aade-780a-814b-9d7422a6dfe0"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-serving/audit-serving.module.ts","id":"01a091e9-689c-7001-a9f4-f25090091be1"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-verdict/audit-verdict.module.ts","id":"01a091e9-689c-7000-a6ba-611889107d33"}
 {"propertySlug":"decision-kind","path":"check/modules/change-walking/change-walking.module.ts","id":"01a0583c-9b26-78cf-972c-3801c6b1ad94"}

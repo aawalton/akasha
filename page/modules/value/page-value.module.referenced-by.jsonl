@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"check/modules/audit-commit/audit-commit.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"check/modules/change-walking/change-walking.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"check/modules/model-running/model-running.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"check/modules/refusal-text/refusal-text.module.code.ts"}

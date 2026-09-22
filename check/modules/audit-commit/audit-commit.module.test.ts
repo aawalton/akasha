@@ -1,0 +1,55 @@
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
+import { commitIn, filesIn } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+
+const SCRATCH = mkdtempSync("/var/tmp/audit-commit-")
+
+afterAll(() => rmSync(SCRATCH, { recursive: true, force: true }))
+
+function indexed(name: string, bodies: Readonly<Record<string, string>>): string {
+  const root = join(SCRATCH, name)
+  mkdirSync(root, { recursive: true })
+  const started = ran(["git", "-C", root, "init", "-q"])
+  if (started.code !== 0) throw new Error(`no repository at ${root} — ${started.err.trim()}`)
+  for (const [at, body] of Object.entries(bodies)) {
+    const whole = join(root, at)
+    mkdirSync(dirname(whole), { recursive: true })
+    writeFileSync(whole, body)
+  }
+  const added = ran(["git", "-C", root, "add", "-A"])
+  if (added.code !== 0) throw new Error(`nothing was tracked at ${root} — ${added.err.trim()}`)
+  return root
+}
+
+test("the files a commit holds are the files its index names", () => {
+  const root = indexed("named", { "one.txt": "one\n", "under/two.txt": "two\n" })
+  expect(filesIn(root)).toEqual(["one.txt", "under/two.txt"])
+})
+
+test("a file the index does not name is not a file the commit holds", () => {
+  const root = indexed("untracked", { "one.txt": "one\n" })
+  writeFileSync(join(root, "two.txt"), "two\n")
+  expect(filesIn(root)).toEqual(["one.txt"])
+})
+
+test("a body is read at the path the index names", () => {
+  const root = indexed("bodies", { "one.txt": "one\n" })
+  expect(commitIn(root).read("one.txt")).toBe("one\n")
+  expect(commitIn(root).read("nowhere.txt")).toBe(null)
+})
+
+test("a commit says where it is and what it holds", () => {
+  const root = indexed("says", { "one.txt": "one\n" })
+  const commit = commitIn(root)
+  expect(commit.root).toBe(root)
+  expect(commit.paths).toEqual(["one.txt"])
+})
+
+test("a path holding no page is read as no page, and read once", () => {
+  const root = indexed("pages", { "one.txt": "one\n" })
+  const commit = commitIn(root)
+  expect(commit.pageOf("one.txt")).toBe(null)
+  expect(commit.pageOf("one.txt")).toBe(null)
+})
