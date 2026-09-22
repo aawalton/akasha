@@ -18,6 +18,6 @@ export const scribedTrampleKnockback = {
   skillLineId: "alliance-war-assault",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "knockback",
+  focusScriptId: "temper-focus-script/knockback",
   grimoireId: "trample",
 } as const satisfies TemperScribedSkill

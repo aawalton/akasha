@@ -19,6 +19,6 @@ export const scribedTravelingKnifeBleedDamage = {
   skillLineId: "weapon-dual-wield",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "bleed-damage",
+  focusScriptId: "temper-focus-script/bleed-damage",
   grimoireId: "traveling-knife",
 } as const satisfies TemperScribedSkill

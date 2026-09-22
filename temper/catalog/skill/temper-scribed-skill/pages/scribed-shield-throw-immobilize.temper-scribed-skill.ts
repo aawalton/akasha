@@ -18,6 +18,6 @@ export const scribedShieldThrowImmobilize = {
   skillLineId: "weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "immobilize",
+  focusScriptId: "temper-focus-script/immobilize",
   grimoireId: "shield-throw",
 } as const satisfies TemperScribedSkill

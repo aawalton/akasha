@@ -19,6 +19,6 @@ export const scribedTorchbearerGenerateUltimate = {
   skillLineId: "guild-fighters-guild",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "generate-ultimate",
+  focusScriptId: "temper-focus-script/generate-ultimate",
   grimoireId: "torchbearer",
 } as const satisfies TemperScribedSkill

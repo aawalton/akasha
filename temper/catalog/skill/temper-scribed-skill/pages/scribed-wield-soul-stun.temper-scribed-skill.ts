@@ -19,6 +19,6 @@ export const scribedWieldSoulStun = {
   skillLineId: "world-soul-magic",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "stun",
+  focusScriptId: "temper-focus-script/stun",
   grimoireId: "wield-soul",
 } as const satisfies TemperScribedSkill

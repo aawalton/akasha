@@ -19,6 +19,6 @@ export const scribedSmashTaunt = {
   skillLineId: "weapon-two-handed",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "taunt",
+  focusScriptId: "temper-focus-script/taunt",
   grimoireId: "smash",
 } as const satisfies TemperScribedSkill

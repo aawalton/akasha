@@ -18,6 +18,6 @@ export const scribedBannerBearerRestoreResources = {
   skillLineId: "alliance-war-support",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "restore-resources",
+  focusScriptId: "temper-focus-script/restore-resources",
   grimoireId: "banner-bearer",
 } as const satisfies TemperScribedSkill

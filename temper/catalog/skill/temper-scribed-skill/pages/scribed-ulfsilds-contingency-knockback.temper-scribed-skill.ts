@@ -19,6 +19,6 @@ export const scribedUlfsildsContingencyKnockback = {
   skillLineId: "guild-mages-guild",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "knockback",
+  focusScriptId: "temper-focus-script/knockback",
   grimoireId: "ulfsilds-contingency",
 } as const satisfies TemperScribedSkill

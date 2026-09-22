@@ -19,6 +19,6 @@ export const scribedSoulBurstImmobilize = {
   skillLineId: "world-soul-magic",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "immobilize",
+  focusScriptId: "temper-focus-script/immobilize",
   grimoireId: "soul-burst",
 } as const satisfies TemperScribedSkill

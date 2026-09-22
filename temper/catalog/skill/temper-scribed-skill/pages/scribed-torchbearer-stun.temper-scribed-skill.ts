@@ -19,6 +19,6 @@ export const scribedTorchbearerStun = {
   skillLineId: "guild-fighters-guild",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "stun",
+  focusScriptId: "temper-focus-script/stun",
   grimoireId: "torchbearer",
 } as const satisfies TemperScribedSkill

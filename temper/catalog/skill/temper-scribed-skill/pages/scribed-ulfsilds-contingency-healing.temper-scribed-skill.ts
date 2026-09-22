@@ -19,6 +19,6 @@ export const scribedUlfsildsContingencyHealing = {
   skillLineId: "guild-mages-guild",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "healing",
+  focusScriptId: "temper-focus-script/healing",
   grimoireId: "ulfsilds-contingency",
 } as const satisfies TemperScribedSkill

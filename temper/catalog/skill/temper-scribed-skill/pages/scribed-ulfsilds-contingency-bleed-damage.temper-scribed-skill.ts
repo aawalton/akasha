@@ -19,6 +19,6 @@ export const scribedUlfsildsContingencyBleedDamage = {
   skillLineId: "guild-mages-guild",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "bleed-damage",
+  focusScriptId: "temper-focus-script/bleed-damage",
   grimoireId: "ulfsilds-contingency",
 } as const satisfies TemperScribedSkill

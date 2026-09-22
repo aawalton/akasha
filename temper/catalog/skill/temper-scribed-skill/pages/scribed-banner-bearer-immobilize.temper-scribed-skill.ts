@@ -19,6 +19,6 @@ export const scribedBannerBearerImmobilize = {
   skillLineId: "alliance-war-support",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "immobilize",
+  focusScriptId: "temper-focus-script/immobilize",
   grimoireId: "banner-bearer",
 } as const satisfies TemperScribedSkill

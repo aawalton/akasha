@@ -18,6 +18,6 @@ export const scribedBannerBearerFlameDamage = {
   skillLineId: "alliance-war-support",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "flame-damage",
+  focusScriptId: "temper-focus-script/flame-damage",
   grimoireId: "banner-bearer",
 } as const satisfies TemperScribedSkill

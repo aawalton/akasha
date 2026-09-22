@@ -19,6 +19,6 @@ export const scribedTorchbearerKnockback = {
   skillLineId: "guild-fighters-guild",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "knockback",
+  focusScriptId: "temper-focus-script/knockback",
   grimoireId: "torchbearer",
 } as const satisfies TemperScribedSkill

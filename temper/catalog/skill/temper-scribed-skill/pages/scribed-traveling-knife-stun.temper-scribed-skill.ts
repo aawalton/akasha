@@ -19,6 +19,6 @@ export const scribedTravelingKnifeStun = {
   skillLineId: "weapon-dual-wield",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "stun",
+  focusScriptId: "temper-focus-script/stun",
   grimoireId: "traveling-knife",
 } as const satisfies TemperScribedSkill

@@ -19,6 +19,6 @@ export const scribedVaultDiseaseDamage = {
   skillLineId: "weapon-bow",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "disease-damage",
+  focusScriptId: "temper-focus-script/disease-damage",
   grimoireId: "vault",
 } as const satisfies TemperScribedSkill

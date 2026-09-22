@@ -19,6 +19,6 @@ export const scribedMendersBondImmobilize = {
   skillLineId: "weapon-restoration-staff",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "immobilize",
+  focusScriptId: "temper-focus-script/immobilize",
   grimoireId: "menders-bond",
 } as const satisfies TemperScribedSkill

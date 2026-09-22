@@ -18,6 +18,6 @@ export const scribedElementalExplosionFrostDamage = {
   skillLineId: "weapon-destruction-staff",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "frost-damage",
+  focusScriptId: "temper-focus-script/frost-damage",
   grimoireId: "elemental-explosion",
 } as const satisfies TemperScribedSkill

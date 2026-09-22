@@ -19,6 +19,6 @@ export const scribedShieldThrowMultiTarget = {
   skillLineId: "weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "multi-target",
+  focusScriptId: "temper-focus-script/multi-target",
   grimoireId: "shield-throw",
 } as const satisfies TemperScribedSkill

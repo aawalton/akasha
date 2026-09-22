@@ -19,6 +19,6 @@ export const scribedVaultHealing = {
   skillLineId: "weapon-bow",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "healing",
+  focusScriptId: "temper-focus-script/healing",
   grimoireId: "vault",
 } as const satisfies TemperScribedSkill

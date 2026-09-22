@@ -19,6 +19,6 @@ export const scribedVaultTaunt = {
   skillLineId: "weapon-bow",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "taunt",
+  focusScriptId: "temper-focus-script/taunt",
   grimoireId: "vault",
 } as const satisfies TemperScribedSkill

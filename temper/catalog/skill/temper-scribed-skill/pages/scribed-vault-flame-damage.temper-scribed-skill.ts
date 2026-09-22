@@ -19,6 +19,6 @@ export const scribedVaultFlameDamage = {
   skillLineId: "weapon-bow",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "flame-damage",
+  focusScriptId: "temper-focus-script/flame-damage",
   grimoireId: "vault",
 } as const satisfies TemperScribedSkill

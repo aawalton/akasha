@@ -18,6 +18,6 @@ export const scribedTramplePhysicalDamage = {
   skillLineId: "alliance-war-assault",
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
-  focusScriptId: "physical-damage",
+  focusScriptId: "temper-focus-script/physical-damage",
   grimoireId: "trample",
 } as const satisfies TemperScribedSkill
