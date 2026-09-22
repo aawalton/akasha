@@ -5,7 +5,7 @@ export const gameAttributes = {
   type: "page-type/relation-property",
   slug: "game-attributes",
   propertySlug: "attributes",
-  definition: "the attributes a character in a game has a number for",
+  definition: "the attributes giving a character in a game a number",
   targetPageType: "page-type/game-attribute",
   decisions: [
     {

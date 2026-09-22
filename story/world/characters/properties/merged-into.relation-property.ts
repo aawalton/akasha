@@ -5,7 +5,7 @@ export const mergedInto = {
   type: "page-type/relation-property",
   slug: "merged-into",
   propertySlug: "merged-into",
-  definition: "the character another character was drawn together with",
+  definition: "the character another character joins",
   targetPageType: "page-type/world-character",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const questReward = {
   type: "page-type/text-property",
   slug: "quest-reward",
   propertySlug: "reward",
-  definition: "what doing a quest earns, in the words the game promised it in",
+  definition: "what doing a quest earns, in the words of the game's promise",
   maxLength: 200,
   nameFormat: null,
   decisions: [

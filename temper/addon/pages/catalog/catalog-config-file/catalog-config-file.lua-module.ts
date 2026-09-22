@@ -4,7 +4,7 @@ export const catalogConfigFile = {
   id: "01a063ba-94e5-7985-98c9-01225f7eeb33",
   type: "page-type/lua-module",
   slug: "catalog-config-file",
-  definition: "the name the catalog add-on's side file is read back into",
+  definition: "the name for reading the catalog add-on's side file back",
   lua: "lua",
   loadedAs: "TemperCatalogConfig.lua",
   decisions: [

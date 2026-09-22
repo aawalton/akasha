@@ -5,7 +5,7 @@ export const readChapterStory = {
   type: "page-type/relation-property",
   slug: "read-chapter-story",
   propertySlug: "story",
-  definition: "the story a chapter was read in",
+  definition: "a read chapter's story",
   targetPageType: "page-type/story-read",
   types: "ts",
 } as const satisfies RelationProperty

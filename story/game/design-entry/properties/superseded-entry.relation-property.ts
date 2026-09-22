@@ -5,7 +5,7 @@ export const supersededEntry = {
   type: "page-type/relation-property",
   slug: "superseded-entry",
   propertySlug: "supersedes",
-  definition: "the earlier entry a design entry takes the place of",
+  definition: "the earlier entry a design entry replaces",
   targetPageType: "page-type/game-design-entry",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const scaledBy = {
   type: "page-type/relation-property",
   slug: "scaled-by",
   propertySlug: "scaling",
-  definition: "the attribute a thing's numbers grow with",
+  definition: "the attribute growing a thing's numbers",
   targetPageType: "page-type/game-attribute",
   types: "ts",
 } as const satisfies RelationProperty

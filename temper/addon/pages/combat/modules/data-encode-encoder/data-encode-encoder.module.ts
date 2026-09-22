@@ -4,7 +4,7 @@ export const dataEncodeEncoder = {
   id: "01a06061-969e-7a22-9872-bfd327e2b7c1",
   type: "page-type/module",
   slug: "data-encode-encoder",
-  definition: "a Lua value written out as lines of the alphabet with control characters between",
+  definition: "a Lua value written out as lines of the alphabet parted by control characters",
   code: "ts",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const seriesName = {
   type: "page-type/text-property",
   slug: "series-name",
   propertySlug: "series-name",
-  definition: "the series a story is one of",
+  definition: "a story's series",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

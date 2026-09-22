@@ -4,7 +4,7 @@ export const setsDebugDebugIndex = {
   id: "01a0623c-2df8-74ef-9c3b-b2e335ab7b97",
   type: "page-type/module",
   slug: "sets-debug-debug-index",
-  definition: "the order the debug modules are loaded in",
+  definition: "the load order of the debug modules",
   code: "ts",
   decisions: [
     {
