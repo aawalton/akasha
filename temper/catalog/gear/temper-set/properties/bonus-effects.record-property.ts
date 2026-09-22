@@ -5,7 +5,7 @@ export const bonusEffects = {
   type: "page-type/record-property",
   slug: "bonus-effects",
   propertySlug: "effects",
-  definition: "what one set bonus does, a metric or a buff to an entry",
+  definition: "what a set bonus does, a metric or a buff to an entry",
   properties: [
     { pageProperty: "text-property/metric-id", required: false, many: false },
     { pageProperty: "text-property/effect-type", required: false, many: false },

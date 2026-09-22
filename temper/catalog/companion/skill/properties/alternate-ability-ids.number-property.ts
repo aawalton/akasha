@@ -5,7 +5,7 @@ export const alternateAbilityIds = {
   type: "page-type/number-property",
   slug: "alternate-ability-ids",
   propertySlug: "alternate-ability-ids",
-  definition: "another number the game names one ability by",
+  definition: "another number the game names an ability by",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

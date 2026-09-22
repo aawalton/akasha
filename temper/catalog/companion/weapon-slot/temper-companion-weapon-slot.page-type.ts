@@ -4,7 +4,7 @@ export const temperCompanionWeaponSlot = {
   id: "01a05fcd-41a9-7114-8636-28bd59dc4a76",
   type: "page-type/page-type",
   slug: "temper-companion-weapon-slot",
-  definition: "a hand a companion has one weapon in",
+  definition: "a hand a companion has a weapon in",
   extends: ["page-type/temper-companion-thing"],
   properties: [{ pageProperty: "text-property/key", required: true, many: false }],
   types: "ts",
