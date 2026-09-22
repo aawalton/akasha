@@ -8,8 +8,6 @@ import "akasha/temper/addon/pages/items/crafting-station/modules/writ-public-api
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function initializeTemperWrit(): undefined {
-  ZO_CreateStringId("SI_KEYBINDINGS_CATEGORY_TEMPER_WRIT", "TemperWrit")
-
   initSavedVariables()
 
   registerSlashCommands()
