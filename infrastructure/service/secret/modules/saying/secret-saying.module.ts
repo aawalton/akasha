@@ -4,7 +4,7 @@ export const secretSaying = {
   id: "01a07667-e09b-7f6e-bc84-5a76ea3566f4",
   type: "page-type/module",
   slug: "secret-saying",
-  definition: "the values one resource's pages hold, said as yaml or handed over key by key",
+  definition: "the values a resource's pages hold, said as yaml or handed over key by key",
   code: "ts",
   test: "ts",
   decisions: [

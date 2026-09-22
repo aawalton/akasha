@@ -5,7 +5,7 @@ export const kindsGathering = {
   type: "page-type/module",
   slug: "kinds-gathering",
   definition:
-    "the rows of one page type and of every page type under it, each worked against its own type",
+    "the rows of a page type and of every page type under it, each worked against its own type",
   code: "ts",
   test: "ts",
   decisions: [

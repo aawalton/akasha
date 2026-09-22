@@ -4,7 +4,7 @@ export const pageFileBody = {
   id: "01a07323-6246-7319-bab0-db087f92380d",
   type: "page-type/module",
   slug: "page-file-body",
-  definition: "the body a page keeps in a file beside the page under one file property",
+  definition: "the body a page keeps in a file beside the page under a file property",
   code: "ts",
   test: "ts",
   decisions: [

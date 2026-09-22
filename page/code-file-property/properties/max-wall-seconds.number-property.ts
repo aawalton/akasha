@@ -5,7 +5,7 @@ export const maxWallSeconds = {
   type: "page-type/number-property",
   slug: "max-wall-seconds",
   propertySlug: "max-wall-seconds",
-  definition: "the most time one run of the file may take, in seconds",
+  definition: "the most time a run of the file may take, in seconds",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

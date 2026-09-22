@@ -4,7 +4,7 @@ export const audio = {
   id: "019f189b-018c-74b8-920b-845fe171aee7",
   type: "page-type/page-type",
   slug: "audio",
-  definition: "one sound the system has",
+  definition: "a sound the system has",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "audio" }],
   extends: ["page-type/page"],
   parts: [

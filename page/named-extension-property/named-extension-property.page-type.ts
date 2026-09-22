@@ -4,7 +4,7 @@ export const namedExtensionProperty = {
   id: "01a09135-c42e-7d48-a589-1fe7b7baca81",
   type: "page-type/page-type",
   slug: "named-extension-property",
-  definition: "a page property held in the files beside a page closing with one extension",
+  definition: "a page property held in the files beside a page closing with an extension",
   parts: ["text-property/extension-name"],
   extends: ["page-type/true-property"],
   properties: [

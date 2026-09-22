@@ -5,7 +5,7 @@ export const listRepeats = {
   type: "page-type/boolean-property",
   slug: "list-repeats",
   propertySlug: "repeats",
-  definition: "whether one value is written more than once in this property's list",
+  definition: "whether a value is written more than once in this property's list",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

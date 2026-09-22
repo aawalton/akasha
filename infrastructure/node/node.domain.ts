@@ -4,7 +4,7 @@ export const node = {
   id: "01a0675b-16f6-70fc-b7f0-5a700f512e86",
   type: "page-type/domain",
   slug: "node",
-  definition: "one machine in a cluster",
+  definition: "a machine in a cluster",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "node" },
     { partOfSpeech: "part-of-speech/noun", spelling: "nodes" },

@@ -5,7 +5,7 @@ export const indexPageProperty = {
   type: "page-type/index",
   slug: "index-page-property",
   definition:
-    "an index from an identifier unique among the pages sharing one property's value to the page with it",
+    "an index from an identifier unique among the pages sharing a property's value to the page with it",
   name: "page-property",
   code: "ts",
   test: "ts",

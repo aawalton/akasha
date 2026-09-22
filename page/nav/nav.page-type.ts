@@ -4,7 +4,7 @@ export const nav = {
   id: "01a0680e-5e00-7007-a253-4c7d9b1a5108",
   type: "page-type/page-type",
   slug: "nav",
-  definition: "one item in an app's navigation, and the views beneath it",
+  definition: "an item in an app's navigation, and the views beneath it",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "nav" },
     { partOfSpeech: "part-of-speech/noun", spelling: "navs" },
