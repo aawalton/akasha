@@ -12,6 +12,11 @@ export const akashaFindingsToZero = {
       workingMemory:
         "193 are left. The first run is done: 344 read, 67 dropped. The second run is with Alan, in panel order down `kept-order.tsv` in the scratchpad, and has taken 70. Next is `mortal-sparing-never-reaches-a-referenced-by-file-so-audit-rounds-refuse-them`, entry 105 of 275. A drop needs no answer; only a proposal to do work is put to Alan. Other seats delete findings as this runs, so check each slug is still there. Verify by running, not reading.\n",
     },
+    {
+      statement: "No module nothing reaches is left.",
+      workingMemory:
+        "21 are left, and every one is reviewed with Alan rather than removed on the check's word. `no-unused-modules` names them, run against the full checkout: its audit phase is blind on a depth-1 clone where the 24-hour grace spares everything. Groups: monarch 7, core 6, design components 4, harness 3, `synth-running` 1. Three false positives cleared at 333cc32f640. A module may be run by hand with `bun <path>`, which no route sees.",
+    },
   ],
   constraints: [
     "A finding is taken up one at a time, in the order the Findings panel draws, and read fully before the next is read.",
