@@ -4,7 +4,7 @@ export const temperKeybinder = {
   id: "01a0c714-5feb-711a-9cd3-b64a8d77564d",
   type: "page-type/domain",
   slug: "temper-keybinder",
-  definition: "one set of key bindings kept across every character on the account",
+  definition: "a set of key bindings kept across every character on the account",
   parts: [
     "module/addon-keybinds-bootstrap",
     "module/addon-keybinds-casts",

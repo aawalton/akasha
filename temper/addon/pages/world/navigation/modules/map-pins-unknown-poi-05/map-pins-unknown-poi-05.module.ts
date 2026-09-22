@@ -4,7 +4,7 @@ export const mapPinsUnknownPoi05 = {
   id: "01a06269-2b08-7090-94dc-573ef206ca16",
   type: "page-type/module",
   slug: "map-pins-unknown-poi-05",
-  definition: "one run of the points of interest by zone the map can show as unknown",
+  definition: "a run of the points of interest by zone the map can show as unknown",
   code: "ts",
   decisions: [
     {

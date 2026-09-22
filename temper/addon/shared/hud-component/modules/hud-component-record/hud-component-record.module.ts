@@ -4,7 +4,7 @@ export const hudComponentRecord = {
   id: "01a060a4-fa39-7073-a59e-f1228678be33",
   type: "page-type/module",
   slug: "hud-component-record",
-  definition: "what is known about one part of the game's HUD",
+  definition: "what is known about a part of the game's HUD",
   code: "ts",
   decisions: [
     {

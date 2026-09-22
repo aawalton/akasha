@@ -4,7 +4,7 @@ export const mapPinsChests08 = {
   id: "01a06269-2a8d-7379-8dff-1b1bdfc2bf20",
   type: "page-type/module",
   slug: "map-pins-chests-08",
-  definition: "one run of the treasure chest places by zone",
+  definition: "a run of the treasure chest places by zone",
   code: "ts",
   decisions: [
     {

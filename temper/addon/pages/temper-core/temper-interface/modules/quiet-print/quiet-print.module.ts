@@ -4,6 +4,6 @@ export const quietPrint = {
   id: "01a060f1-6939-7e66-bda8-537dbe53d04e",
   type: "page-type/module",
   slug: "quiet-print",
-  definition: "printing one line to chat before chat is ready",
+  definition: "printing a line to chat before chat is ready",
   code: "ts",
 } as const satisfies Module
