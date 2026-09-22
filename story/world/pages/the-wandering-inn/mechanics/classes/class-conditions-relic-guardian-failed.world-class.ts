@@ -6,5 +6,6 @@ export const classConditionsRelicGuardianFailed = {
   slug: "class-conditions-relic-guardian-failed",
   title: "Class Conditions: Relic Guardian failed.",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

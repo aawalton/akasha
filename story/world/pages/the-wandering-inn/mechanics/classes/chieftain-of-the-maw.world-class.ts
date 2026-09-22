@@ -6,6 +6,7 @@ export const chieftainOfTheMaw = {
   slug: "chieftain-of-the-maw",
   title: "Chieftain of the Maw",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   evolvesFromSlugs: ["goblin-chieftain"],
   references: "jsonl",
 } as const satisfies WorldClass

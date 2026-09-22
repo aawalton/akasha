@@ -6,6 +6,7 @@ export const boxheadBarmaid = {
   slug: "boxhead-barmaid",
   title: "Boxhead Barmaid",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesFromSlugs: ["barmaid"],
   evolvesToSlugs: ["mysterious-barmaid-of-havens"],
   references: "jsonl",

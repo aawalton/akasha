@@ -6,5 +6,6 @@ export const classPrivate = {
   slug: "class-private",
   title: "Private",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

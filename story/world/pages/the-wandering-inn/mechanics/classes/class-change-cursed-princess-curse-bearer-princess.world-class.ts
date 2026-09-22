@@ -6,5 +6,6 @@ export const classChangeCursedPrincessCurseBearerPrincess = {
   slug: "class-change-cursed-princess-curse-bearer-princess",
   title: "Class Change: Cursed Princess → Curse Bearer Princess!",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

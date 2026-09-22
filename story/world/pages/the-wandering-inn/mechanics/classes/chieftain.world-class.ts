@@ -6,6 +6,7 @@ export const chieftain = {
   slug: "chieftain",
   title: "Chieftain",
   world: "world/the-wandering-inn",
+  appearanceCount: 95,
   aliases: ["chieftains"],
   evolvesFromSlugs: ["leader"],
   references: "jsonl",

@@ -6,6 +6,7 @@ export const champion = {
   slug: "champion",
   title: "Champion",
   world: "world/the-wandering-inn",
+  appearanceCount: 49,
   aliases: ["champions"],
   evolvesFromSlugs: ["warrior"],
   references: "jsonl",
