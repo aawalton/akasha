@@ -192,7 +192,7 @@ export function roleIn(listed: readonly Valued[], agent: string): string | null 
   return namedIn(listed, agent, ROLE)
 }
 
-export function judgedFor(
+export function keptFor(
   directives: readonly Directive[],
   role: string | null
 ): readonly Directive[] {
@@ -231,7 +231,7 @@ function judging(root: string, agent: string, asked: string, turn: string): Answ
     return LET_THROUGH
   }
   const stated = directivesIn(valuedAt(root, PERSON, person).value[DIRECTIVES])
-  const directives = judgedFor(stated, roleIn(seats, agent))
+  const directives = keptFor(stated, roleIn(seats, agent))
   if (directives.length === 0) {
     noting(root, agent, GATES.rule)
     return LET_THROUGH

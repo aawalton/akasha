@@ -3,7 +3,7 @@ import {
   GATES,
   holding,
   JUDGES,
-  judgedFor,
+  keptFor,
   lineFor,
   personIn,
   positiveFor,
@@ -130,7 +130,7 @@ test("a seat naming no role answers nothing", () => {
 })
 
 test("an interviewer is judged by every rule but the one against stopping", () => {
-  expect(judgedFor(HELD, interviewer.slug).map((one) => one.name)).toEqual([
+  expect(keptFor(HELD, interviewer.slug).map((one) => one.name)).toEqual([
     "Neither Clock Nor Meter",
     "One At A Time",
     "No Commentary",
@@ -138,13 +138,13 @@ test("an interviewer is judged by every rule but the one against stopping", () =
 })
 
 test("a seat in any other role is judged by the rule against stopping as before", () => {
-  expect(judgedFor(HELD, worker.slug)).toEqual(HELD)
-  expect(judgedFor(HELD, null)).toEqual(HELD)
+  expect(keptFor(HELD, worker.slug)).toEqual(HELD)
+  expect(keptFor(HELD, null)).toEqual(HELD)
 })
 
 test("no judge puts the rule against stopping under an interviewer", () => {
   const put = JUDGES.flatMap((judge) =>
-    judge({ ...TURN, directives: judgedFor(HELD, interviewer.slug) })
+    judge({ ...TURN, directives: keptFor(HELD, interviewer.slug) })
   )
   expect(put.map((one) => one.about)).toEqual([
     "Neither Clock Nor Meter",
@@ -157,9 +157,9 @@ test("no judge puts the rule against stopping under an interviewer", () => {
 test("the rule Alan states against stopping is the one an interviewer drops", () => {
   const stated = directivesIn(alan.directives)
   expect(stated.map((one) => one.name)).toContain("Don't Stop!")
-  expect(judgedFor(stated, interviewer.slug).map((one) => one.name)).not.toContain("Don't Stop!")
-  expect(judgedFor(stated, worker.slug).map((one) => one.name)).toContain("Don't Stop!")
-  expect(judgedFor(stated, interviewer.slug)).toHaveLength(stated.length - 1)
+  expect(keptFor(stated, interviewer.slug).map((one) => one.name)).not.toContain("Don't Stop!")
+  expect(keptFor(stated, worker.slug).map((one) => one.name)).toContain("Don't Stop!")
+  expect(keptFor(stated, interviewer.slug)).toHaveLength(stated.length - 1)
 })
 
 test("each judge puts what was asked and what was written beside its rule", () => {
