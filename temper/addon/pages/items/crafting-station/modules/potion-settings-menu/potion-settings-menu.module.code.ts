@@ -64,6 +64,7 @@ function initSettingsMenu(this: void): undefined {
     return
   }
 
+  const panelId = "TemperItemsPotionMaker"
   const addonNAME = "Potion Maker"
   const addonVERSION = "v" + PotMaker.version
   const panelData: LAM2PanelData = {
@@ -335,7 +336,7 @@ function initSettingsMenu(this: void): undefined {
     },
   ]
 
-  registerPanel(lam2, addonNAME, panelData, optionsTable)
+  registerPanel(lam2, panelId, panelData, optionsTable)
 }
 
 PotMaker.initSettingsMenu = initSettingsMenu
