@@ -26,7 +26,6 @@ export const change = {
     "module/export-keyword",
     "module/export-renaming",
     "module/file-carrying",
-    "module/gated-landing",
     "module/gated-write",
     "module/import-lines",
     "module/import-repointing",
