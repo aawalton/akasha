@@ -4,7 +4,7 @@ export const tabooTerm = {
   id: "01a0592c-2737-7057-aa66-a46141334052",
   type: "page-type/page-type",
   slug: "taboo-term",
-  definition: "a word this system never writes in the senses it bars",
+  definition: "a word akasha never writes in the senses it bars",
   parts: [
     "record-property/taboo-senses",
     "text-property/kept-senses",

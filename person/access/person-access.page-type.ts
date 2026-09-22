@@ -4,7 +4,7 @@ export const personAccess = {
   id: "01a0541e-d4d1-7bc6-9050-6d8cc130723f",
   type: "page-type/page-type",
   slug: "person-access",
-  definition: "what a person may reach in the system",
+  definition: "what a person may reach in akasha",
   extends: ["page-type/page"],
   parts: [
     "relation-property/person-access-kind",

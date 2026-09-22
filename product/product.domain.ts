@@ -4,7 +4,7 @@ export const product = {
   id: "01a0826b-97bb-7e70-8730-ba2745b92e2b",
   type: "page-type/domain",
   slug: "product",
-  definition: "what Alan makes for people outside this system",
+  definition: "what Alan makes for people outside akasha",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "product" },
     { partOfSpeech: "part-of-speech/noun", spelling: "products" },

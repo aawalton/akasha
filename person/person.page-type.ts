@@ -4,7 +4,7 @@ export const person = {
   id: "01a053e0-6cf7-7062-90af-db1def200572",
   type: "page-type/page-type",
   slug: "person",
-  definition: "a human this system reaches",
+  definition: "a human akasha reaches",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "person" }],
   extends: ["page-type/domain"],
   parts: [

@@ -4,7 +4,7 @@ export const resourceUtilization = {
   id: "01a0675b-16f9-7b95-9d7f-cd041a034eab",
   type: "page-type/domain",
   slug: "resource-utilization",
-  definition: "how much of each resource the system runs on is in use rather than idle",
+  definition: "how much of each resource akasha runs on is in use rather than idle",
   parts: ["domain/alan-attention"],
   decisions: [
     {

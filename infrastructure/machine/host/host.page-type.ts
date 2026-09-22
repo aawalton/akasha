@@ -4,7 +4,7 @@ export const host = {
   id: "01a06590-e94f-7d6f-a415-867286e194a2",
   type: "page-type/page-type",
   slug: "host",
-  definition: "a place the system runs programs",
+  definition: "a place akasha runs programs",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "host" },
     { partOfSpeech: "part-of-speech/noun", spelling: "hosts" },

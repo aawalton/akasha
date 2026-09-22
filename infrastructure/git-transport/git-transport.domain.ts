@@ -4,7 +4,7 @@ export const gitTransport = {
   id: "01a06816-2f11-7be3-9bd7-706fac3996ff",
   type: "page-type/domain",
   slug: "git-transport",
-  definition: "the repositories this system keeps, served over the network",
+  definition: "the repositories akasha keeps, served over the network",
   parts: [
     "manifest/git-transport-janitor",
     "manifest/git-transport-manifests",

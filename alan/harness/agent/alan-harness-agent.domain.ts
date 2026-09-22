@@ -4,7 +4,7 @@ export const alanHarnessAgent = {
   id: "01a0658a-e55d-7426-897d-78820e337523",
   type: "page-type/domain",
   slug: "alan-harness-agent",
-  definition: "how Alan meets the system through his agents",
+  definition: "how Alan meets akasha through his agents",
   parts: ["domain/alan-harness-agent-annoyance"],
   decisions: [
     {
