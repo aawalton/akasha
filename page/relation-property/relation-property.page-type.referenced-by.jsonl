@@ -149,8 +149,11 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/played/properties/world.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/addon/properties/bundle-entry.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/special-effect.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-armor-trait/properties/armor-trait.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-slot/properties/jewelry-type.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-trait/properties/jewelry-trait.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-poison-effect/properties/opposite.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-trait/properties/weapon-trait.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/class-id.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/script-id.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/thing/properties/skill-type.relation-property.ts"}

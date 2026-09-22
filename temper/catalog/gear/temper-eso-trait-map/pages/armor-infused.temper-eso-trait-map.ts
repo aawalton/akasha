@@ -7,7 +7,7 @@ export const armorInfused = {
   title: "Armor Infused",
   key: "armor:infused",
   traitFamily: "armor",
-  traitId: "infused",
+  traitId: "temper-armor-trait/infused",
   esoTraitNum: 16,
   displayOrder: 6,
 } as const satisfies TemperEsoTraitMap

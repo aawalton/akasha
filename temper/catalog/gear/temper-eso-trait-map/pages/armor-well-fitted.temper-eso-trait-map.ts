@@ -7,7 +7,7 @@ export const armorWellFitted = {
   title: "Armor Well-Fitted",
   key: "armor:well-fitted",
   traitFamily: "armor",
-  traitId: "well-fitted",
+  traitId: "temper-armor-trait/well-fitted",
   esoTraitNum: 14,
   displayOrder: 4,
 } as const satisfies TemperEsoTraitMap

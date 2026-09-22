@@ -7,7 +7,7 @@ export const armorInvigorating = {
   title: "Armor Invigorating",
   key: "armor:invigorating",
   traitFamily: "armor",
-  traitId: "invigorating",
+  traitId: "temper-armor-trait/invigorating",
   esoTraitNum: 17,
   displayOrder: 7,
 } as const satisfies TemperEsoTraitMap

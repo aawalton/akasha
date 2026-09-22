@@ -7,7 +7,7 @@ export const weaponDefending = {
   title: "Weapon Defending",
   key: "weapon:defending",
   traitFamily: "weapon",
-  traitId: "defending",
+  traitId: "temper-weapon-trait/defending",
   esoTraitNum: 5,
   displayOrder: 5,
 } as const satisfies TemperEsoTraitMap

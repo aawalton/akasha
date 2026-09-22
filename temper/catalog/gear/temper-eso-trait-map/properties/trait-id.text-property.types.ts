@@ -1,1 +1,0 @@
-export type TraitId = string

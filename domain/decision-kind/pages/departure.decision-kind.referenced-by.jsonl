@@ -4618,6 +4618,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.ts","id":"01a060f0-3eae-7300-a19e-36158f3ca349"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/item-set/modules/item-set-categories/item-set-categories.module.ts","id":"01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-id.one-of-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-motif-style/properties/drop-sources.multi-relation-property.ts","id":"01a05fd1-d439-7027-bdca-1804e14d6caf"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion-crafted/properties/reagent-names.text-property.ts","id":"01a05fd1-d43d-7249-ac3e-8dcf8869e271"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion-crafted/properties/recipes.record-property.ts","id":"01a05fd1-d43d-7c95-8ac4-1739e09c409e"}

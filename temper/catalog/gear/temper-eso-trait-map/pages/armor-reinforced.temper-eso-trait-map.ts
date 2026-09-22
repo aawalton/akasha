@@ -7,7 +7,7 @@ export const armorReinforced = {
   title: "Armor Reinforced",
   key: "armor:reinforced",
   traitFamily: "armor",
-  traitId: "reinforced",
+  traitId: "temper-armor-trait/reinforced",
   esoTraitNum: 13,
   displayOrder: 3,
 } as const satisfies TemperEsoTraitMap

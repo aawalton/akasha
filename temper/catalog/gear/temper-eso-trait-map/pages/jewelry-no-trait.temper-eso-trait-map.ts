@@ -7,7 +7,7 @@ export const jewelryNoTrait = {
   title: "Jewelry No Trait",
   key: "jewelry:no-trait",
   traitFamily: "jewelry",
-  traitId: "no-trait",
+  traitId: "temper-jewelry-trait/no-trait",
   esoTraitNum: 0,
   displayOrder: 0,
 } as const satisfies TemperEsoTraitMap

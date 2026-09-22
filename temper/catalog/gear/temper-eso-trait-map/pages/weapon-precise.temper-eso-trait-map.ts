@@ -7,7 +7,7 @@ export const weaponPrecise = {
   title: "Weapon Precise",
   key: "weapon:precise",
   traitFamily: "weapon",
-  traitId: "precise",
+  traitId: "temper-weapon-trait/precise",
   esoTraitNum: 3,
   displayOrder: 3,
 } as const satisfies TemperEsoTraitMap

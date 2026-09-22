@@ -7,7 +7,7 @@ export const weaponTraining = {
   title: "Weapon Training",
   key: "weapon:training",
   traitFamily: "weapon",
-  traitId: "training",
+  traitId: "temper-weapon-trait/training",
   esoTraitNum: 6,
   displayOrder: 6,
 } as const satisfies TemperEsoTraitMap

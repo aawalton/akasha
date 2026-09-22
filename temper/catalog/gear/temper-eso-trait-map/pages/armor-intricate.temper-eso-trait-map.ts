@@ -7,7 +7,7 @@ export const armorIntricate = {
   title: "Armor Intricate",
   key: "armor:intricate",
   traitFamily: "armor",
-  traitId: "intricate",
+  traitId: "temper-armor-trait/intricate",
   esoTraitNum: 20,
   displayOrder: 10,
 } as const satisfies TemperEsoTraitMap

@@ -6,6 +6,7 @@ export const temperJewelryTrait = {
   slug: "temper-jewelry-trait",
   definition: "a property worked into a piece of jewelry",
   extends: ["page-type/temper-catalog-thing"],
+  parts: ["relation-property/jewelry-trait"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },

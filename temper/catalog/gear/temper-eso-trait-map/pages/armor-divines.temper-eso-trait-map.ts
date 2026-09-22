@@ -7,7 +7,7 @@ export const armorDivines = {
   title: "Armor Divines",
   key: "armor:divines",
   traitFamily: "armor",
-  traitId: "divines",
+  traitId: "temper-armor-trait/divines",
   esoTraitNum: 18,
   displayOrder: 8,
 } as const satisfies TemperEsoTraitMap

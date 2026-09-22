@@ -7,7 +7,7 @@ export const jewelrySwift = {
   title: "Jewelry Swift",
   key: "jewelry:swift",
   traitFamily: "jewelry",
-  traitId: "swift",
+  traitId: "temper-jewelry-trait/swift",
   esoTraitNum: 28,
   displayOrder: 6,
 } as const satisfies TemperEsoTraitMap

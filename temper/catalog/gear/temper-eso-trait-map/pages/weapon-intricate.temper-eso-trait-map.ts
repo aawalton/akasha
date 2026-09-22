@@ -7,7 +7,7 @@ export const weaponIntricate = {
   title: "Weapon Intricate",
   key: "weapon:intricate",
   traitFamily: "weapon",
-  traitId: "intricate",
+  traitId: "temper-weapon-trait/intricate",
   esoTraitNum: 9,
   displayOrder: 9,
 } as const satisfies TemperEsoTraitMap

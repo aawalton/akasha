@@ -7,7 +7,7 @@ export const armorSturdy = {
   title: "Armor Sturdy",
   key: "armor:sturdy",
   traitFamily: "armor",
-  traitId: "sturdy",
+  traitId: "temper-armor-trait/sturdy",
   esoTraitNum: 11,
   displayOrder: 1,
 } as const satisfies TemperEsoTraitMap

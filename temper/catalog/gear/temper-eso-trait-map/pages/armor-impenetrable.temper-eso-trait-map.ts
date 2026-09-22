@@ -7,7 +7,7 @@ export const armorImpenetrable = {
   title: "Armor Impenetrable",
   key: "armor:impenetrable",
   traitFamily: "armor",
-  traitId: "impenetrable",
+  traitId: "temper-armor-trait/impenetrable",
   esoTraitNum: 12,
   displayOrder: 2,
 } as const satisfies TemperEsoTraitMap

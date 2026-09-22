@@ -7,7 +7,7 @@ export const weaponDecisive = {
   title: "Weapon Decisive",
   key: "weapon:decisive",
   traitFamily: "weapon",
-  traitId: "decisive",
+  traitId: "temper-weapon-trait/decisive",
   esoTraitNum: 8,
   displayOrder: 8,
 } as const satisfies TemperEsoTraitMap

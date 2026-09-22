@@ -11,3 +11,4 @@
 {"propertySlug":"import","fileName":"temper-armor-trait.page-type.types.ts","path":"temper/catalog/gear/temper-armor-trait/pages/training/training.temper-armor-trait.ts"}
 {"propertySlug":"import","fileName":"temper-armor-trait.page-type.types.ts","path":"temper/catalog/gear/temper-armor-trait/pages/well-fitted/well-fitted.temper-armor-trait.ts"}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}
+{"propertySlug":"target-page-type","path":"temper/catalog/gear/temper-armor-trait/properties/armor-trait.relation-property.ts","id":"01a0c9d0-1bf2-747d-8615-37816fa32e5b"}
