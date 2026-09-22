@@ -16,6 +16,7 @@ export const partOfSpeech = {
     "part-of-speech/free-relative-pronoun",
     "part-of-speech/possessive-clitic",
     "part-of-speech/past-participle",
+    "part-of-speech/be-verb",
   ],
   extends: ["page-type/domain"],
   decisions: [

@@ -9,7 +9,7 @@ export const freeRelativePronounWithAClause = {
   writtenFrom: [
     "part-of-speech/free-relative-pronoun",
     "phrase-kind/noun-phrase",
-    "part-of-speech/verb",
+    "phrase-kind/verb-phrase",
   ],
   admits: ["what a file has", "who a message reaches", "what every rule set runs"],
   refuses: ["the what a file has", "page what a file has"],

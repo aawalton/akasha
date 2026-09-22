@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"part-of-speech.page-type.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.code.ts"}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts"}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/adjective.part-of-speech.ts"}
+{"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/be-verb.part-of-speech.ts"}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/conjunction.part-of-speech.ts"}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts"}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/free-relative-pronoun.part-of-speech.ts"}

@@ -30,6 +30,8 @@ export const construction = {
     "construction/possessive-noun-run-with-a-determiner",
     "construction/noun-run-with-a-past-participle",
     "construction/noun-run-with-a-past-participle-and-a-preposition-phrase",
+    "construction/verb-alone",
+    "construction/be-verb-with-a-past-participle",
   ],
   extends: ["page-type/domain"],
   properties: [

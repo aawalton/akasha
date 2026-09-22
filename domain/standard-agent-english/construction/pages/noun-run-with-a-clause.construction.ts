@@ -10,7 +10,7 @@ export const nounRunWithAClause = {
     "phrase-kind/noun-run",
     "part-of-speech/determiner",
     "phrase-kind/noun-group",
-    "part-of-speech/verb",
+    "phrase-kind/verb-phrase",
   ],
   admits: ["the code a machine runs", "the text an agent reads", "a dish a restaurant serves"],
   refuses: ["the code machine runs", "the code a machine"],

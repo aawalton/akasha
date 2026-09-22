@@ -11,6 +11,7 @@ export const phraseKind = {
     "phrase-kind/preposition-phrase",
     "phrase-kind/domain-definition",
     "phrase-kind/noun-run",
+    "phrase-kind/verb-phrase",
   ],
   extends: ["page-type/domain"],
   decisions: [

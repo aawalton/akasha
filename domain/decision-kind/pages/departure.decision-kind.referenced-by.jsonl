@@ -2474,6 +2474,7 @@
 {"propertySlug":"decision-kind","path":"domain/properties/parts.multi-relation-property.ts","id":"01a0877e-e1fa-73c7-909f-f872c144f719"}
 {"propertySlug":"decision-kind","path":"domain/purpose/domain-purpose.domain.ts","id":"01a06815-ceaf-7ec0-aa99-46a5438ce629"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/construction.page-type.ts","id":"01a0c57b-2a6d-776f-861f-adfa84782205"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/be-verb-with-a-past-participle.construction.ts","id":"01a0c9a2-f76d-71dc-bf94-7139fa224b3b"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/free-relative-pronoun-with-a-clause.construction.ts","id":"01a0c68f-6d81-7ca8-948f-a44ea461c351"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts","id":"01a0c67a-50ad-7181-9d2e-827c9c7d8f18"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-past-participle-and-a-preposition-phrase.construction.ts","id":"01a0c96f-bee9-7f1f-8d2c-d4d536dcb41c"}
@@ -2487,6 +2488,7 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.ts","id":"01a08248-90ee-7792-9275-0a291dfa50af"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.ts","id":"01a08245-78cc-7f77-96bc-39695e9c2410"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/adjective.part-of-speech.ts","id":"01a0c5f9-2164-7ac3-93fa-caec20932926"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/be-verb.part-of-speech.ts","id":"01a0c9a2-9f69-7a7f-8640-d64519676c3f"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/conjunction.part-of-speech.ts","id":"01a0c60f-289f-7bbf-be7b-ae0e872a03e0"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts","id":"01a0c582-f267-748c-986a-58d52a3bbf3b"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/free-relative-pronoun.part-of-speech.ts","id":"01a0c68c-8245-7617-b010-6cf185341ce2"}
@@ -2498,6 +2500,7 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/phrase-kind/pages/noun-group.phrase-kind.ts","id":"01a0c57e-fcdb-7371-b035-b4d46532dfce"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/phrase-kind/pages/noun-run.phrase-kind.ts","id":"01a0c61f-fd05-7af5-b494-15e0c3ced279"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/phrase-kind/pages/preposition-phrase.phrase-kind.ts","id":"01a0c591-7122-76ec-abd4-2e48a1601678"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/phrase-kind/pages/verb-phrase.phrase-kind.ts","id":"01a0c9a2-b28c-7a58-8b45-8cf905e5149c"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/phrase-kind/phrase-kind.page-type.ts","id":"01a0c576-2e1a-7996-8a94-9a7d80b20c55"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/property/properties/start-symbol.relation-property.ts","id":"01a0c595-f8ed-761d-b0c8-7fd9abecd9ba"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/property/standard-agent-english-property.page-type.ts","id":"01a07c99-fb58-79b6-a204-a2bf1f056902"}
