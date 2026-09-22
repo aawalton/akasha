@@ -67,8 +67,10 @@ local function claim(name, control)
 end
 
 local function resolved(name, parent)
-  if name == nil or parent == nil then return name end
-  return (string.gsub(name, "%$%(parent%)", parent.uiName or ""))
+  if type(name) ~= "string" or parent == nil then return name end
+  local held = parent.uiName
+  if type(held) ~= "string" then held = "" end
+  return (string.gsub(name, "%$%(parent%)", held))
 end
 
 local function birth(named, parent, controlType, virtual)
