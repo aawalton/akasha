@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"subagent-page.module.code.ts","path":"agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"}
 {"propertySlug":"import","fileName":"subagent-page.module.code.ts","path":"agent/seat/reviving/modules/seat-resume-guard/seat-resume-guard.module.code.ts"}
 {"propertySlug":"import","fileName":"subagent-page.module.code.ts","path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-page.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/spawn/supervisor-child-spawn.module.code.ts"}
 {"propertySlug":"import","fileName":"subagent-page.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"subagent-page.module.test-fixtures.ts","path":"agent/subagent/modules/page-history/subagent-page-history.module.test.ts"}
 {"propertySlug":"import","fileName":"subagent-page.module.test-fixtures.ts","path":"agent/subagent/modules/page/subagent-page.module.test.ts"}

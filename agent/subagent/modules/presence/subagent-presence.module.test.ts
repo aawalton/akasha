@@ -20,12 +20,10 @@ import {
   heldForEdits,
   leftWhereItIs,
   logPathOf,
-  notWorking,
   seatNamedIn,
   stampedAt,
   startedIn,
   took,
-  tookUnder,
   WRITING,
   wrote,
 } from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
@@ -65,17 +63,12 @@ import {
   SEAT_ID,
   stampOpening,
   threwAfter,
-  UNREAD,
   underSeat,
   WENT,
   WORKING,
   whyIn,
 } from "akasha/agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"
-import {
-  CARRIED_AT,
-  LEFT_BY,
-  refusalsSaid,
-} from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
+import { refusalsSaid } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { removeFilePage } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
 import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
@@ -265,20 +258,6 @@ test("a page is held for its edits whether or not the index files its seat", asy
   })
 })
 
-test("a sweep takes a page with edits waiting, moving them onto the seat", async () => {
-  await underSeat(async (root) => {
-    const at = await pageWritten(root)
-    writing(root, editsAt(at) ?? "", ROW)
-    listedFiled(root, "subagent", slugOf("akasha", OWN), [{ path: at, id: AGENT }])
-    expect(await tookUnder(root, "akasha", "is gone", [], LANDS, RETURNED)).toEqual(WENT)
-    expect(existsSync(join(root, at))).toBe(false)
-    const row = JSON.parse(keptBySeat(root).edits) as Record<string, unknown>
-    expect(row[LEFT_BY]).toBe(slugOf("akasha", OWN))
-    expect(typeof row[CARRIED_AT]).toBe("string")
-    expect(JSON.stringify({ kind: row.kind, path: row.path })).toBe(ROW.trim())
-  })
-})
-
 test("a stop the run began after leaves the page where it is", async () => {
   await underSeat(async (root) => {
     const at = await pageWritten(root)
@@ -307,12 +286,6 @@ test("a page a reading names as working is left where it is", async () => {
     expect(await took(root, "akasha", OWN, [], LANDS, null, WORKING)).toEqual(WENT)
     expect(existsSync(join(root, at))).toBe(true)
   })
-})
-
-test("a sweep leaves what a reading names as working and takes what it could not read", async () => {
-  expect(await notWorking(".", ["one", "two"], WORKING)).toEqual([])
-  expect(await notWorking(".", ["one", "two"], UNREAD)).toEqual(["one", "two"])
-  expect(await notWorking(".", ["one", "two"], RETURNED)).toEqual(["one", "two"])
 })
 
 test("a page in history is taken up with its id and kind, and comes back with that id", async () => {

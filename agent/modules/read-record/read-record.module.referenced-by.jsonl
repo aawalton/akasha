@@ -19,7 +19,7 @@
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.code.ts"}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/liveness/subagent-liveness.module.code.ts"}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"}
-{"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
+{"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts"}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts"}

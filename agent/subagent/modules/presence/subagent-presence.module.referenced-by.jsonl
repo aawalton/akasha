@@ -1,13 +1,14 @@
 {"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"}
 {"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"agent/subagent/modules/page-akasha/subagent-page-akasha.module.code.ts"}
 {"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"agent/subagent/modules/pages-sweeping/subagent-pages-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts"}
 {"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
 {"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}
 {"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}
 {"propertySlug":"import","fileName":"subagent-presence.module.test-fixtures.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"subagent-presence.module.test-fixtures.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.test.ts"}
 {"propertySlug":"import","fileName":"subagent-presence.module.test-fixtures.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts"}
 {"propertySlug":"parts","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}

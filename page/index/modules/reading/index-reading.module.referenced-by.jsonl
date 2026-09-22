@@ -44,6 +44,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/book/pages/learn-everything/modules/topic-tree/topic-tree.module.code.ts"}

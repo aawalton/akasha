@@ -292,6 +292,7 @@
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"agent/subagent/modules/page/subagent-page.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts"}

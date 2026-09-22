@@ -70,6 +70,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/subagent/modules/page-akasha/subagent-page-akasha.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/subagent/modules/pages-sweeping/subagent-pages-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts"}

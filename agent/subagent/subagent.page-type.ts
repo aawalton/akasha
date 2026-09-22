@@ -32,6 +32,8 @@ export const subagent = {
     "page-type/subagent-kind",
     "relation-property/subagent-kind",
     "text-property/agent-id",
+    "module/subagent-pages-taking",
+    "module/subagent-pages-sweeping",
   ],
   properties: [
     { pageProperty: "relation-property/principal-seat-name", required: true, many: false },

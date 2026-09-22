@@ -1,8 +1,5 @@
 import { pathsUnder } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
-import {
-  sweeping,
-  tookUnder,
-} from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
+import { tookUnder } from "akasha/agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"
 import type { Outcome } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
 import {
   AKASHA,
@@ -17,15 +14,6 @@ export function akashaSubagentPathsOf(
 ): readonly string[] {
   const root = rootFor(roots, AKASHA)
   return pathsUnder(root, seatName).map((one) => `${root}/${one}`)
-}
-
-export function sweepingAkashaSubagentPagesOf(
-  seatName: string,
-  seatId: string,
-  why: string,
-  roots: Roots = resolveRoots()
-): undefined {
-  sweeping(rootFor(roots, AKASHA), seatName, seatId, why)
 }
 
 export async function removeAkashaSubagentPagesOf(

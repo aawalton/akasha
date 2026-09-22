@@ -1,6 +1,5 @@
 import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { akashaHolderPidOf } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
@@ -21,9 +20,12 @@ import { subagentPageInHistory } from "akasha/agent/subagent/modules/page-histor
 import {
   agentIdOf,
   pathIn,
-  pathsUnder,
   slugOf,
 } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
+import {
+  seatPageIn,
+  tookUnder,
+} from "akasha/agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"
 import {
   droppedOutlived,
   gaveBack,
@@ -37,7 +39,6 @@ import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mecha
 import { removeFilePage } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
 import { editsWaiting } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
-  type Asking,
   type Landing,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -45,10 +46,7 @@ import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
-import {
-  listedAt,
-  listedById,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { listedById } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { nameFaultIn } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
@@ -182,10 +180,6 @@ export async function wrote(
   return put
 }
 
-export function seatPageIn(root: string, seatName: string): string | null {
-  return listedAt(root, SEAT, seatName)[0]?.path ?? null
-}
-
 export function startedIn(root: string, page: string, startedAt: number | null): undefined {
   if (startedAt === null || !existsSync(join(root, page))) return
   mergeUncommitted(root, page, { [STARTED]: startedAt })
@@ -250,41 +244,6 @@ export async function took(
   const said = stopped ? "was stopped from the agents panel" : "is done"
   const why = `${slug} ${said}, so its page goes; what it was is in this repository's history`
   return wentBy(await landing(root, [{ at: TAKE_PAGE, given: { at } }], why, { done }), done)
-}
-
-export async function notWorking(
-  root: string,
-  under: readonly string[],
-  reading: Reading = readOf
-): Promise<readonly string[]> {
-  const left: string[] = []
-  for (const at of under) if ((await reading(root, at)).liveness !== "working") left.push(at)
-  return left
-}
-
-export async function tookUnder(
-  root: string,
-  seatName: string,
-  why: string,
-  done: string[] = [],
-  landing: Landing = runMechanicalChange,
-  reading: Reading = readOf
-): Promise<Went> {
-  const paths = await notWorking(root, pathsUnder(root, seatName), reading)
-  if (paths.length === 0) return WENT
-  const seat = seatPageIn(root, seatName)
-  if (seat !== null) for (const at of paths) movedOnto(root, seat, at)
-  const gone = wentBy(
-    await landing(
-      root,
-      paths.map((at): Asking => ({ at: TAKE_PAGE, given: { at } })),
-      `${seatName} ${why}, so the ${String(paths.length)} subagent page(s) under it go`,
-      { done }
-    ),
-    done
-  )
-  if (!("why" in gone)) dropReadings(root, paths)
-  return gone
 }
 
 export function asking(

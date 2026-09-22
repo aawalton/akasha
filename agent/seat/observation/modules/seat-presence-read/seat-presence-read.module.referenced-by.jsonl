@@ -28,5 +28,6 @@
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/usage/modules/typing-minutes/typing-minutes.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/subagent/modules/pages-sweeping/subagent-pages-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"command/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/observation/seat-observation.domain.ts","id":"01a0658d-c92f-76f2-abb0-efb387b6515b"}

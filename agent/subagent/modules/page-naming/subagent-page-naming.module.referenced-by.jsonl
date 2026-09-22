@@ -5,6 +5,8 @@
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.test.ts"}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test.ts"}
+{"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"}
+{"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.test.ts"}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts"}

@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.test.ts"}
+{"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"}
+{"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.test.ts"}
 {"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts"}

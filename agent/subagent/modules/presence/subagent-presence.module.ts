@@ -289,19 +289,11 @@ export const subagentPresence = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "The page a seat sits at is read from the index rather than composed from a name.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A page that goes takes the files beside that page with it.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A take-down leaves the readings of the page it took where they are.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A sweep drops the readings of the pages the sweep took.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -348,30 +340,7 @@ export const subagentPresence = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "What each page under a seat has beside it moves onto the seat before that page goes.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A seat the index has no page for sweeps its pages without moving anything.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A sweep leaves a page whose subagent the transcript names as running.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A sweep takes a page it could read nothing for, where a take-down leaves that page.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A sweep is where a page no take-down would take is reclaimed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A sweep reaches only the pages the module naming a page says are under that seat.",
+      statement: "The pages under a seat are swept by the module sweeping them.",
     },
     {
       decisionKind: "decision-kind/constraint",

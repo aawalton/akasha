@@ -421,6 +421,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/page/subagent-page.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/pageless/subagent-pageless.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/pages-sweeping/subagent-pages-sweeping.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/presence/subagent-presence.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/.server/geoapify-search/geoapify-search.module.ts"}

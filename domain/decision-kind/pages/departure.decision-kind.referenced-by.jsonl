@@ -438,6 +438,8 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.ts","id":"01a095ed-9005-70e5-8d03-654f10141de7"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page/subagent-page.module.ts","id":"01a06983-278f-74cd-aa22-89b32f80e5e4"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/pageless/subagent-pageless.module.ts","id":"01a0951d-933c-768f-a4e9-51a54ceda87a"}
+{"propertySlug":"decision-kind","path":"agent/subagent/modules/pages-sweeping/subagent-pages-sweeping.module.ts","id":"01a0c9f3-a507-7c30-b53a-684fdfea1f49"}
+{"propertySlug":"decision-kind","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.ts","id":"01a0c9f2-dbe9-776d-947e-d3b4926ce4b5"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/presence/subagent-presence.module.ts","id":"01a0598f-18dd-77f7-94be-779f0df14af9"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/recovering/subagent-recovering.module.ts","id":"01a08d67-3a64-7f77-bb80-0d2661de12d7"}
 {"propertySlug":"decision-kind","path":"agent/subagent/properties/agent-id.text-property.ts","id":"01a062c8-99b7-7bd3-91ac-676da441cf14"}

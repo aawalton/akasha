@@ -25,9 +25,9 @@ import {
   pagelessAmong,
   pagelessSaid,
 } from "akasha/agent/subagent/modules/pageless/subagent-pageless.module.code.ts"
+import { seatPageIn } from "akasha/agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"
 import {
   leftWhereItIs,
-  seatPageIn,
   stoppedBeside,
 } from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
 import {
