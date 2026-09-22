@@ -17,7 +17,7 @@ export const awenEngineImprovements = {
     {
       statement: "The Tower's attribute scores live only on the new attribute pages.",
       workingMemory:
-        "The sheet panel reads the eight attribute pages, the level page and the attribute-point page through `askComposed`, keyed off the game's `player`, falling back to the entity page where a query answers no rows. `the-tower-alan.game-entity.ts` still carries all eight as `attributes`, and eight game-mechanic code files still read them by `game-attribute` slug — hp-max, focus-max, stam-max, initiative, phys-atk, phys-def, ment-atk, ment-def — as does `turn-state.module.code.ts`.",
+        "Only `turn-state.module.code.ts:135` reads an entity's `attributes`, and `sheet-panel.module.code.tsx:98` already discards it for the 128 new pages. The eight game-mechanic files take a sheet on the command line and read no page, so they block nothing. Deleting `attributes` from the sixteen entity pages needs no code change. What is left is a first-paint flicker while the query resolves, and whether the game master reads the entity page by eye.",
     },
   ],
   constraints: [
