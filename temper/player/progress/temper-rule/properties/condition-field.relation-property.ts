@@ -5,7 +5,7 @@ export const conditionField = {
   type: "page-type/relation-property",
   slug: "condition-field",
   propertySlug: "condition-field",
-  definition: "the test one condition of a rule names",
+  definition: "the test a condition of a rule names",
   targetPageType: "page-type/temper-condition-field",
   types: "ts",
 } as const satisfies RelationProperty

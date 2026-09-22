@@ -4,7 +4,7 @@ export const watcherDispatchHandling = {
   id: "01a063c7-b064-74a3-9ffc-0be1edaadd02",
   type: "page-type/module",
   slug: "watcher-dispatch-handling",
-  definition: "one change to a watched file turned into one dispatch of that file's content",
+  definition: "a change to a watched file turned into a dispatch of that file's content",
   code: "ts",
   test: "ts",
   decisions: [

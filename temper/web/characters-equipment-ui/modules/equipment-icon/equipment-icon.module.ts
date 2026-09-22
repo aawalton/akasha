@@ -4,7 +4,7 @@ export const equipmentIcon = {
   id: "01a06333-1bba-7ed5-888a-b5a3ca70eacf",
   type: "page-type/module",
   slug: "equipment-icon",
-  definition: "the picture that represents one piece of equipment",
+  definition: "the picture that represents a piece of equipment",
   code: "tsx",
   decisions: [
     {

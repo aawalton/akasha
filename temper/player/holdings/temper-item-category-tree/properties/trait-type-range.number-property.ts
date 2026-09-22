@@ -5,7 +5,7 @@ export const traitTypeRange = {
   type: "page-type/number-property",
   slug: "trait-type-range",
   propertySlug: "trait-type-range",
-  definition: "one end of a run of trait numbers",
+  definition: "an end of a run of trait numbers",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

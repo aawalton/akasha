@@ -4,7 +4,7 @@ export const temperItemAction = {
   id: "01a071e1-92d5-7458-b0c0-499ac75aeb8b",
   type: "page-type/page-type",
   slug: "temper-item-action",
-  definition: "one thing an item rule does to an item the rule matches",
+  definition: "a thing an item rule does to an item the rule matches",
   extends: ["page-type/temper-progress-thing"],
   properties: [{ pageProperty: "text-property/description", required: true, many: false }],
   decisions: [

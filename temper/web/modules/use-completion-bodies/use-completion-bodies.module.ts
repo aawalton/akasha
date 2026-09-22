@@ -4,7 +4,7 @@ export const useCompletionBodies = {
   id: "01a076b9-598a-7c82-b905-b629a56a823f",
   type: "page-type/module",
   slug: "use-completion-bodies",
-  definition: "the completion bodies one view asks for, keyed by the page each body is beside",
+  definition: "the completion bodies a view asks for, keyed by the page each body is beside",
   code: "ts",
   decisions: [
     {
