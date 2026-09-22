@@ -20,7 +20,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const ROW_LEVEL: SurfaceLevel = 2
 
-export function asWidth(this: void, value: unknown): number {
+function asWidth(this: void, value: unknown): number {
   return value as number
 }
 

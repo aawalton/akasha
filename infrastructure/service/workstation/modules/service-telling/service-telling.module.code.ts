@@ -105,7 +105,7 @@ export async function telling(given: {
   })
 }
 
-export async function runServiceTelling(named: string | undefined): Promise<void> {
+async function runServiceTelling(named: string | undefined): Promise<void> {
   if (named === undefined || named.trim() === "") {
     process.stderr.write(`${SAID} ${NOTHING_NAMED}\n`)
     process.exitCode = 1

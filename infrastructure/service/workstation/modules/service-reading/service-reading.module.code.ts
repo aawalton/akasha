@@ -33,7 +33,7 @@ import {
 import { originSaid } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { pageService } from "akasha/page/service/page-service.service-workstation.ts"
 
-export const SERVICE_PAGE_TYPE = "service-workstation"
+const SERVICE_PAGE_TYPE = "service-workstation"
 
 const PAGE_TYPE = "page-type"
 

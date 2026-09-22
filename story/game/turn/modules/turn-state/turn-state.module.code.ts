@@ -33,20 +33,20 @@ export type Numbers = Record<string, number>
 
 export type Named = Record<string, unknown>
 
-export function saidIn(held: unknown): string | undefined {
+function saidIn(held: unknown): string | undefined {
   const said = textIn(held)?.trim()
   return said === undefined || said === "" ? undefined : said
 }
 
-export function countIn(held: unknown): number | undefined {
+function countIn(held: unknown): number | undefined {
   return asNumber(held) ?? undefined
 }
 
-export function listIn(held: unknown): readonly Named[] {
+function listIn(held: unknown): readonly Named[] {
   return Array.isArray(held) ? held.filter(isRecord) : []
 }
 
-export function keyedIn(held: unknown, key: string, ending = ""): Numbers {
+function keyedIn(held: unknown, key: string, ending = ""): Numbers {
   const found: Numbers = {}
   for (const one of listIn(held)) {
     const name = saidIn(one[NAME])
@@ -69,7 +69,7 @@ export function attributesIn(held: unknown): Numbers {
   return found
 }
 
-export function rungsIn(held: unknown): ReadonlyMap<string, string> {
+function rungsIn(held: unknown): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   for (const one of listIn(held)) {
     const name = saidIn(one[NAME])
@@ -79,7 +79,7 @@ export function rungsIn(held: unknown): ReadonlyMap<string, string> {
   return found
 }
 
-export function skillsIn(held: unknown, rungs: ReadonlyMap<string, string>): Named[] {
+function skillsIn(held: unknown, rungs: ReadonlyMap<string, string>): Named[] {
   return listIn(held).map((one) => {
     const name = saidIn(one[NAME])
     return {
@@ -91,7 +91,7 @@ export function skillsIn(held: unknown, rungs: ReadonlyMap<string, string>): Nam
   })
 }
 
-export function affinitiesIn(held: unknown): Named[] {
+function affinitiesIn(held: unknown): Named[] {
   return listIn(held).map((one) => ({
     name: saidIn(one[NAME]),
     value: countIn(one["counter"]),
@@ -99,11 +99,11 @@ export function affinitiesIn(held: unknown): Named[] {
   }))
 }
 
-export function notedIn(held: unknown): Named[] {
+function notedIn(held: unknown): Named[] {
   return listIn(held).map((one) => ({ name: saidIn(one[NAME]), note: saidIn(one["note"]) }))
 }
 
-export function equippedIn(held: unknown): Named {
+function equippedIn(held: unknown): Named {
   const found: Named = {}
   for (const one of listIn(held)) {
     const slot = saidIn(one["slot"])
@@ -112,11 +112,11 @@ export function equippedIn(held: unknown): Named {
   return found
 }
 
-export function carriedIn(held: unknown): Named[] {
+function carriedIn(held: unknown): Named[] {
   return notedIn(listIn(held).filter((one) => saidIn(one["slot"]) === undefined))
 }
 
-export function namesIn(held: unknown): string[] {
+function namesIn(held: unknown): string[] {
   return listIn(held)
     .map((one) => saidIn(one[NAME]))
     .filter((one) => one !== undefined)
@@ -198,7 +198,7 @@ export function hudOf(player: Page | null, turn: Page): Hud {
   }
 }
 
-export function questsIn(pages: readonly Page[]): Quest[] {
+function questsIn(pages: readonly Page[]): Quest[] {
   const found: Quest[] = []
   for (const page of pages) {
     const id = saidIn(page.slug)

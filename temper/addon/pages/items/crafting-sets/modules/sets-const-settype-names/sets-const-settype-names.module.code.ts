@@ -17,23 +17,23 @@ import {
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-const-settype-ids/sets-const-settype-ids.module.code.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-export const LANG_DE = "de"
+const LANG_DE = "de"
 
-export const LANG_EN = "en"
+const LANG_EN = "en"
 
-export const LANG_ES = "es"
+const LANG_ES = "es"
 
-export const LANG_FR = "fr"
+const LANG_FR = "fr"
 
-export const LANG_RU = "ru"
+const LANG_RU = "ru"
 
-export const LANG_ZH = "zh"
+const LANG_ZH = "zh"
 
-export const LANG_JP = "jp"
+const LANG_JP = "jp"
 
-export const LANG_PL = "pl"
+const LANG_PL = "pl"
 
-export const zocstrfor = ZO_CachedStrFormat
+const zocstrfor = ZO_CachedStrFormat
 
 export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } } = {
   [SETS_SETTYPE_ARENA]: {

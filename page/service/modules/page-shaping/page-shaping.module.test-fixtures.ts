@@ -56,7 +56,7 @@ const HELD: readonly Named[] = [
   typed("e", "missing-there", [], "there-owner"),
 ]
 
-export const root = rootOf(import.meta.dir)
+const root = rootOf(import.meta.dir)
 
 export const climbedInRepo: Climbing = climbing(root)
 
@@ -64,7 +64,7 @@ export const climbedInTypes: Climbing = climbing(
   graphedRepo(Object.fromEntries(HELD.map(([at, value]) => [`${TREE}/${at}`, bodyOf(value)])))
 )
 
-export function declaredIn(pageTypeSlug: string): readonly Declared[] {
+function declaredIn(pageTypeSlug: string): readonly Declared[] {
   const shaped = shaping(root, pageTypeSlug)
   return "shape" in shaped ? (shaped.shape?.declarations ?? []) : []
 }

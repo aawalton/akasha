@@ -69,7 +69,7 @@ export function runsIn(root: string, said: string): readonly string[] {
     .toSorted()
 }
 
-export function workingsAt(root: string, slug: string): string | null {
+function workingsAt(root: string, slug: string): string | null {
   const listed = listedAt(root, gameMechanicRun.slug, slug)[0]
   if (listed === undefined) return null
   return besideAt(listed.path, WORKINGS, JSON_HELD)

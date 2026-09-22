@@ -20,11 +20,11 @@ export interface TimerEntry {
   time: number
 }
 
-export let TIMER: TimerEntry[] = []
+let TIMER: TimerEntry[] = []
 
-export let LAST_QUEUE_TIME = 0
+let LAST_QUEUE_TIME = 0
 
-export let CSLOOT: ObjectPool<InspirationContainer> | undefined
+let CSLOOT: ObjectPool<InspirationContainer> | undefined
 
 export function scrollText(): undefined {
   function drawControl(pool: ObjectPool<InspirationContainer>): InspirationContainer {
@@ -46,7 +46,7 @@ export function scrollText(): undefined {
   CSLOOT = ZO_ObjectPool.New(drawControl, clearControl)
 }
 
-export function slide(
+function slide(
   c: Control,
   x1: number,
   y1: number,
@@ -70,7 +70,7 @@ export function slide(
   a.PlayFromStart()
 }
 
-export function isPerfectPixelEnabled(): boolean {
+function isPerfectPixelEnabled(): boolean {
   const addonManager = GetAddOnManager()
   const numAddOns = addonManager.GetNumAddOns()
   for (let i = 1; i <= numAddOns; i++) {

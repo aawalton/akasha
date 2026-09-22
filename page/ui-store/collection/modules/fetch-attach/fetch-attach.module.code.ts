@@ -29,7 +29,7 @@ export interface FetchPlan {
   readonly deletes: readonly string[]
 }
 
-export function filePagesPath(pageTypeSlug: string, carry: readonly string[] = []): string {
+function filePagesPath(pageTypeSlug: string, carry: readonly string[] = []): string {
   const at = `/api/pages/${encodeURIComponent(pageTypeSlug)}`
   if (carry.length === 0) return at
   return `${at}?carry=${encodeURIComponent(carry.join(","))}`

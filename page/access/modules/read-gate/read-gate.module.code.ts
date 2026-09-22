@@ -31,7 +31,7 @@ const NOT_NARROWED: Narrowing = { narrowed: "no" }
 
 const DISAGREE: Narrowing = { narrowed: "disagree" }
 
-export function narrowedTo(narrows: readonly Narrow[] | null): Narrowing {
+function narrowedTo(narrows: readonly Narrow[] | null): Narrowing {
   if (narrows === null) return NOT_NARROWED
   const keys = new Set(narrows.map((one) => one.key))
   if (keys.size !== 1) return DISAGREE
@@ -61,7 +61,7 @@ export function gateInScope(): ReadGate | null {
   return finder === null ? null : finder()
 }
 
-export async function reachFor(pageTypeSlug: string): Promise<Reach | null> {
+async function reachFor(pageTypeSlug: string): Promise<Reach | null> {
   const gate = gateInScope()
   if (gate === null) return null
   const reach = await gate(pageTypeSlug)

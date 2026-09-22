@@ -7,7 +7,7 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const LIB_VERSION = 100
 
-export const TABLE_FUNCTIONS: Lib = {
+const TABLE_FUNCTIONS: Lib = {
   version: LIB_VERSION,
 
   TableContains(this: Lib, origTable: unknown, searchValue: unknown, keySearch?: boolean): boolean {

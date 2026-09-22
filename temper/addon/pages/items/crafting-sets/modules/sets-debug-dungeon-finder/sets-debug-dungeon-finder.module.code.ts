@@ -11,15 +11,15 @@ import { SETS_TABLEKEY_DUNGEONFINDER_DATA } from "akasha/temper/addon/pages/item
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lib-sets-ui/eso-lib-sets-ui.type-declaration.d.ts"
 
-export let preventEndlessCallDungeonFinderData = false
+let preventEndlessCallDungeonFinderData = false
 
-export let retTableDungeons: string[] | undefined
+let retTableDungeons: string[] | undefined
 
-export const getDungeonFinderDataFromChildNodes = lib.GetDungeonFinderDataFromChildNodes
+const getDungeonFinderDataFromChildNodes = lib.GetDungeonFinderDataFromChildNodes
 
-export const openDungeonFinder = lib.OpenDungeonFinder
+const openDungeonFinder = lib.OpenDungeonFinder
 
-export function freshDungeonTable(this: void): string[] | undefined {
+function freshDungeonTable(this: void): string[] | undefined {
   return undefined
 }
 

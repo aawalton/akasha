@@ -97,15 +97,15 @@ export type Made =
   | { readonly unnamed: string }
   | { readonly refused: string }
 
-export function noService(slug: string): string {
+function noService(slug: string): string {
   return `no workstation service is slugged \`${slug}\``
 }
 
-export function bundlesAt(home: string, slug: string): string {
+function bundlesAt(home: string, slug: string): string {
   return join(home, STATE, slug)
 }
 
-export function bundleName(commit: string): string {
+function bundleName(commit: string): string {
   return `${commit}.${JS}`
 }
 
@@ -129,14 +129,14 @@ export function saidOfUnbuilt(slug: string, why: string): string {
   return `\`${slug}\` starts from its bundle, and this deploy built none — ${why}`
 }
 
-export function saidOfUnread(slug: string, running: string): string {
+function saidOfUnread(slug: string, running: string): string {
   return (
     `\`${slug}\` bundled without the bundler naming \`${running}\` among the files it read, ` +
     "so which commit's bytes the bundle holds is not known"
   )
 }
 
-export function saidOfDrift(slug: string, commit: string, drifted: readonly string[]): string {
+function saidOfDrift(slug: string, commit: string, drifted: readonly string[]): string {
   const named = drifted.slice(0, NAMED_AT_MOST)
   const rest = drifted.length - named.length
   const more = rest === 0 ? "" : `, and ${rest} more`
@@ -153,7 +153,7 @@ export function saidOfUnmoved(commit: string, why: string): string {
   )
 }
 
-export function stubAt(slug: string): string {
+function stubAt(slug: string): string {
   return join(STUBS, `${slug}.entry.${TS}`)
 }
 
@@ -161,7 +161,7 @@ export function stubFor(running: string, runs: string = RUNS, takes: string = ""
   return `import { ${runs} } from ${JSON.stringify(running)}\n\nawait ${runs}(${takes})\n`
 }
 
-export function runningIn(root: string, slug: string): Reached {
+function runningIn(root: string, slug: string): Reached {
   const found = listedAt(root, SERVICE_PAGE_TYPE, slug)[0]
   if (found === undefined) return { unnamed: noService(slug) }
   const beside = besideAt(found.path, RUNNING, TS)
@@ -216,7 +216,7 @@ async function textOf(stub: string): Promise<Text> {
   }
 }
 
-export function closureIn(root: string, read: readonly string[]): ReadonlySet<string> {
+function closureIn(root: string, read: readonly string[]): ReadonlySet<string> {
   const under = root.endsWith("/") ? root : `${root}/`
   const took = new Set<string>()
   for (const one of read) {
@@ -239,10 +239,7 @@ export function movedFrom(root: string, commit: string): Moved {
   return { moved }
 }
 
-export function driftedIn(
-  moved: ReadonlySet<string>,
-  closure: ReadonlySet<string>
-): readonly string[] {
+function driftedIn(moved: ReadonlySet<string>, closure: ReadonlySet<string>): readonly string[] {
   return [...closure].filter((one) => moved.has(one)).sort()
 }
 
@@ -266,7 +263,7 @@ function startedFrom(home: string, slug: string): readonly string[] {
   }
 }
 
-export function launchedIn(home: string, slug: string, names: readonly string[]): string | null {
+function launchedIn(home: string, slug: string, names: readonly string[]): string | null {
   const lines = startedFrom(home, slug)
   for (const one of names) {
     if (lines.some((line) => line.includes(join(STATE, slug, one)))) return one
@@ -303,7 +300,7 @@ function newestIn(at: string, names: readonly string[]): string | null {
   return newest
 }
 
-export function keptIn(home: string, slug: string, fresh: string): ReadonlySet<string> {
+function keptIn(home: string, slug: string, fresh: string): ReadonlySet<string> {
   const at = bundlesAt(home, slug)
   const names = bundlesIn(at)
   const others = names.filter((one) => one !== fresh)
@@ -311,7 +308,7 @@ export function keptIn(home: string, slug: string, fresh: string): ReadonlySet<s
   return new Set(rollback === null ? [fresh] : [fresh, rollback])
 }
 
-export function sweptOf(home: string, slug: string, fresh: string): Swept {
+function sweptOf(home: string, slug: string, fresh: string): Swept {
   const at = bundlesAt(home, slug)
   const keeps = keptIn(home, slug, fresh)
   const kept: string[] = []
@@ -327,7 +324,7 @@ export function sweptOf(home: string, slug: string, fresh: string): Swept {
   return { kept, removed }
 }
 
-export async function bundledFrom(
+async function bundledFrom(
   root: string,
   slug: string,
   running: string,

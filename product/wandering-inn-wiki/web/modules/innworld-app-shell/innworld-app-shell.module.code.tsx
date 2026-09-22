@@ -155,7 +155,7 @@ function itemOf(one: Shelved): AppNavItem {
   }
 }
 
-export function navItemsOf(shownTypes: readonly ShownType[]): readonly AppNavItem[] {
+function navItemsOf(shownTypes: readonly ShownType[]): readonly AppNavItem[] {
   const items: AppNavItem[] = [HOME]
   for (const shelf of shelvesOf(shownTypes)) {
     if (shelf.heading === null) {

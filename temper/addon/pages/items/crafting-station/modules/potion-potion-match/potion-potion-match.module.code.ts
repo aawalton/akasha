@@ -15,23 +15,23 @@ export type FavoriteFilter = (this: void, potion: Potion) => unknown
 
 export type ConditionData = Record<string, QuestConditionRow>
 
-export function asFavoriteFilter(value: unknown): FavoriteFilter {
+function asFavoriteFilter(value: unknown): FavoriteFilter {
   return value as FavoriteFilter
 }
 
-export function asTraitEffect(value: unknown): TraitEffect {
+function asTraitEffect(value: unknown): TraitEffect {
   return value as TraitEffect
 }
 
-export function asConditionData(value: unknown): ConditionData {
+function asConditionData(value: unknown): ConditionData {
   return value as ConditionData
 }
 
-export function parseLinkNumber(this: void, raw: string | undefined): number | undefined {
+function parseLinkNumber(this: void, raw: string | undefined): number | undefined {
   return tonumber(raw)
 }
 
-export function parseLinkPart(this: void, raw: string | undefined): string {
+function parseLinkPart(this: void, raw: string | undefined): string {
   return raw ?? ""
 }
 
@@ -116,7 +116,7 @@ export interface QuestConditionRow {
   conditionIndex: number
 }
 
-export const MUST_HAVES: Record<string, boolean> = {}
+const MUST_HAVES: Record<string, boolean> = {}
 
 export function conformsToSearch(
   this: void,
@@ -191,7 +191,7 @@ export function conformsToSearch(
   return self.solvent === undefined
 }
 
-export const FAV_INGREDIENTS: (number | undefined)[] = [0, 0, 0]
+const FAV_INGREDIENTS: (number | undefined)[] = [0, 0, 0]
 
 export function createFavoriteIdentifier(this: void, self: Potion): undefined {
   if (typeof self.itemId === "string" && self.itemId !== "") {

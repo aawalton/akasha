@@ -32,7 +32,7 @@ export const FILE_AT = "/file"
 
 export const APPEND_AT = "/append"
 
-export const PLACE_AT = "/place"
+const PLACE_AT = "/place"
 
 export const ORIGIN_ENV = "PAGES_SERVICE_ORIGIN"
 
@@ -295,7 +295,7 @@ export type Placed = { readonly placed: string } | { readonly refused: string }
 
 const CHUNK = 0x8000
 
-export function base64Of(bytes: Uint8Array): string {
+function base64Of(bytes: Uint8Array): string {
   let held = ""
   for (let at = 0; at < bytes.length; at += CHUNK) {
     held += String.fromCharCode(...bytes.subarray(at, at + CHUNK))

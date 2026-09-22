@@ -85,7 +85,7 @@ export type Bundled =
   | { readonly bundles: ReadonlyMap<string, string>; readonly said: readonly string[] }
   | Refused
 
-export async function bundlesBuilt(
+async function bundlesBuilt(
   root: string,
   home: string,
   commit: string,

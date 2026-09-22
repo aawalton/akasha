@@ -1,6 +1,6 @@
 import type { Landed } from "akasha/product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"
 
-export const WENT_NOWHERE = "the post went nowhere, so nothing moved"
+const WENT_NOWHERE = "the post went nowhere, so nothing moved"
 
 async function refusalIn(answer: Response): Promise<string> {
   try {

@@ -41,7 +41,7 @@ function landingIn(root: string): Landing {
   }
 }
 
-export function endingsOf(root: string, carried: Carried): readonly string[] {
+function endingsOf(root: string, carried: Carried): readonly string[] {
   const listed = listedAt(root, carried.pageTypeSlug, carried.pagePropertySlug)
   const first = listed.length === 1 ? listed[0] : undefined
   if (first === undefined) return []

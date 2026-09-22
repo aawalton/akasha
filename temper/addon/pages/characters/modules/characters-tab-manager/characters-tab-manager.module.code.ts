@@ -91,7 +91,7 @@ function updateTabPositions(): undefined {
   }
 }
 
-export function selectSubTab(parentTabId: string, subTabId: string): undefined {
+function selectSubTab(parentTabId: string, subTabId: string): undefined {
   selectedSubTabId = subTabId
 
   getSavedVariables().navigation.selectedSubTab = subTabId
@@ -119,7 +119,7 @@ export function refreshActivePanel(): undefined {
   }
 }
 
-export function selectTopTab(tabId: string, subTabId?: string): undefined {
+function selectTopTab(tabId: string, subTabId?: string): undefined {
   selectedTabId = tabId
 
   getSavedVariables().navigation.selectedTab = tabId
