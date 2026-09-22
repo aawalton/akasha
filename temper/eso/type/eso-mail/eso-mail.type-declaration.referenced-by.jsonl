@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"eso-mail.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-tip-item-link/sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-mail.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-mail.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-mail-data/fco-mail-data.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-mail.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-mail-mass-delete/fco-mail-mass-delete.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-mail.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-mail.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-mail-data/fco-mail-data.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-mail.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-mail-mass-delete/fco-mail-mass-delete.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-mail.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-mail.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-mail-keybind-patch/inventory-mail-keybind-patch.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

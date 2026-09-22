@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/crafting/modules/crafting-entry/crafting-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/hud/modules/hud-addon-entry/hud-addon-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/interface/modules/interface-entry/interface-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/world/modules/world-entry/world-entry.module.code.ts"}

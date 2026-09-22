@@ -7,15 +7,19 @@ export const temperAddonHud = {
   definition: "the add-on Temper ships into the game",
 
   addonManifest: "json",
+  addonBinFolder: true,
   bindings: "xml",
   bundleEntry: "module/hud-addon-entry",
   parts: [
     "domain/temper-errors",
     "domain/temper-events",
     "domain/temper-housing",
+    "domain/temper-interface",
     "domain/temper-keybinder",
     "domain/temper-selector",
+    "eso-interface/fcocs-virtuals",
     "eso-interface/next-boss-layout",
+    "eso-interface/shifter-box-template",
     "module/hud-addon-bar",
     "module/hud-addon-builtins",
     "module/hud-addon-command-registry",
@@ -35,7 +39,11 @@ export const temperAddonHud = {
     "module/hud-addon-types",
     "module/hud-addon-visibility-version",
   ],
-  interfaces: ["eso-interface/next-boss-layout"],
+  interfaces: [
+    "eso-interface/shifter-box-template",
+    "eso-interface/next-boss-layout",
+    "eso-interface/fcocs-virtuals",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

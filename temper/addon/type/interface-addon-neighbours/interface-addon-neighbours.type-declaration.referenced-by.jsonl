@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-entry/fco-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-inventory-scrollbar/fco-inventory-scrollbar.module.code.ts"}
-{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-mail-events/fco-mail-events.module.code.ts"}
-{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-mail-settings-menu/fco-mail-settings-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-mainmenu/fco-mainmenu.module.code.ts"}
-{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-map/fco-map.module.code.ts"}
-{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-panel-main/fco-panel-main.module.code.ts"}
+{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-entry/fco-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-inventory-scrollbar/fco-inventory-scrollbar.module.code.ts"}
+{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-mail-events/fco-mail-events.module.code.ts"}
+{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-mail-settings-menu/fco-mail-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-mainmenu/fco-mainmenu.module.code.ts"}
+{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-map/fco-map.module.code.ts"}
+{"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-panel-main/fco-panel-main.module.code.ts"}
 {"propertySlug":"import","fileName":"interface-addon-neighbours.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-shared/minimap-shared.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/type/temper-addon-type.domain.ts","id":"01a06090-f5ac-7f47-be1b-dc303670f2ad"}

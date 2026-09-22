@@ -3,8 +3,8 @@
 {"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-constants/writ-mark-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-inventory-tweaks/writ-mark-inventory-tweaks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-inventory/fco-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-inventory/fco-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-filter-bar-init/inventory-filter-bar-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-lock-overlay/inventory-lock-overlay.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-panel-options/addon-menu-panel-options.module.code.ts"}

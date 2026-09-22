@@ -8,9 +8,9 @@
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-init/knowledge-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-public-scribing/knowledge-public-scribing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-scribing/knowledge-scribing.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-collectibles/fco-collectibles.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-collectibles/fco-collectibles.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-constants/leads-constants.module.code.ts"}

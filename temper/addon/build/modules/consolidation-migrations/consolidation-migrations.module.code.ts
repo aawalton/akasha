@@ -235,20 +235,38 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
-    runFor: "TemperInterface",
+    runFor: "TemperHud",
     spec: {
       absorbedFileBase: "TemperNoThankYou",
       absorbedGlobal: "TemperNoThankYou_SavedVariables",
-      targetFileBase: "TemperInterface",
+      targetFileBase: "TemperHud",
     },
   },
   {
     mode: "append",
-    runFor: "TemperInterface",
+    runFor: "TemperHud",
     spec: {
       absorbedFileBase: "TemperFCOChangeStuff",
       absorbedGlobal: "TemperFCOChangeStuff_SavedVariables",
-      targetFileBase: "TemperInterface",
+      targetFileBase: "TemperHud",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperHud",
+    spec: {
+      absorbedFileBase: "TemperInterface",
+      absorbedGlobal: "TemperNoThankYou_SavedVariables",
+      targetFileBase: "TemperHud",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperHud",
+    spec: {
+      absorbedFileBase: "TemperInterface",
+      absorbedGlobal: "TemperFCOChangeStuff_SavedVariables",
+      targetFileBase: "TemperHud",
     },
   },
   {

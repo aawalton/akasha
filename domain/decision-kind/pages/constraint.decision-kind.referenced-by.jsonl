@@ -546,11 +546,11 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-housing/modules/housing-library-data-eu-6/housing-library-data-eu-6.module.ts","id":"01a06113-b7d0-70ae-9e5b-3ac403935f5c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-housing/modules/housing-library-data-eu/housing-library-data-eu.module.ts","id":"01a06113-b7ce-77ca-bda6-f521aa196130"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-housing/modules/housing-library-data-na/housing-library-data-na.module.ts","id":"01a06113-b7d1-7e85-b730-9398c3972952"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-interface/modules/assistant-collectibles/assistant-collectibles.module.ts","id":"01a060e7-1beb-7c7c-8f92-e0f5d84c2110"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-interface/modules/fco-global/fco-global.module.ts","id":"01a06115-1ac8-7d12-a18b-e1aa7e8aafeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-keybinder/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-keybinder/temper-keybinder.domain.ts","id":"01a0c714-5feb-711a-9cd3-b64a8d77564d"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/assistant-collectibles/assistant-collectibles.module.ts","id":"01a060e7-1beb-7c7c-8f92-e0f5d84c2110"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/fco-global/fco-global.module.ts","id":"01a06115-1ac8-7d12-a18b-e1aa7e8aafeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.ts","id":"01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.ts","id":"01a06258-b530-7ef5-9ff0-40428a6c5232"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.ts","id":"01a0cc42-6b1f-7a05-9d38-4e7b21c6f9a0"}

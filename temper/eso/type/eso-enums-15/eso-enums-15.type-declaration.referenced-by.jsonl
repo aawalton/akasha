@@ -3,8 +3,8 @@
 {"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-interaction-handlers/companion-qol-interaction-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-interaction-state/companion-qol-interaction-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-mail-mass-delete/fco-mail-mass-delete.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-world/quiet-world.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-mail-mass-delete/fco-mail-mass-delete.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-world/quiet-world.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-junk-queue/inventory-junk-queue.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-mail-handler/inventory-mail-handler.module.code.ts"}
