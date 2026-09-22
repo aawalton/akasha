@@ -14,5 +14,6 @@
 {"propertySlug":"import","fileName":"readout-scale.page-type.types.ts","path":"alan/harness/readout/scale/pages/safety-level.readout-scale.ts"}
 {"propertySlug":"import","fileName":"readout-scale.page-type.types.ts","path":"alan/harness/readout/scale/pages/sleep-hours.readout-scale.ts"}
 {"propertySlug":"import","fileName":"readout-scale.page-type.types.ts","path":"alan/harness/readout/scale/pages/surplus-hours.readout-scale.ts"}
+{"propertySlug":"import","fileName":"readout-scale.page-type.types.ts","path":"alan/harness/readout/scale/pages/wisdom-points.readout-scale.ts"}
 {"propertySlug":"parts","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
 {"propertySlug":"target-page-type","path":"alan/harness/readout/properties/scale.relation-property.ts","id":"01a05446-e764-754e-a88e-2efffba18820"}

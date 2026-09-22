@@ -24,6 +24,7 @@ export const readoutScale = {
     "readout-scale/safety-level",
     "readout-scale/sleep-hours",
     "readout-scale/surplus-hours",
+    "readout-scale/wisdom-points",
   ],
   extends: ["page-type/domain"],
   properties: [
