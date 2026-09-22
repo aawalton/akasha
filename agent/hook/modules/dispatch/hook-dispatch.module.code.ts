@@ -176,7 +176,7 @@ async function judgedBy(judging: Judging, payload: Record<string, unknown>): Pro
 async function answeredAt(at: string, payload: Record<string, unknown>): Promise<Ran> {
   const judging = await judgingAt(at)
   if (judging === null) return await ranAt(at, JSON.stringify(payload))
-  return await judgedBy(judging, payload)
+  return await judgedBy(judging, structuredClone(payload))
 }
 
 function costKept(root: string, page: string, cost: Cost): undefined {

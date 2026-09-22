@@ -123,5 +123,10 @@ export const hookDispatch = {
       statement:
         "A judgement that threw refuses the call that hook judged rather than ending the dispatch.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A judgement is handed a copy of the payload rather than the payload the next hook is handed.",
+    },
   ],
 } as const satisfies Module
