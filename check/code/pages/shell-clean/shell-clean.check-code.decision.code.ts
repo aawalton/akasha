@@ -52,9 +52,15 @@ export function shellNamed(path: string): boolean {
   return path.endsWith(SH)
 }
 
+export function carriedOver(
+  paths: readonly string[],
+  holds: (path: string) => boolean
+): readonly string[] {
+  return [...new Set(paths.filter((one) => shellNamed(one) && holds(one)))].sort()
+}
+
 export function carriedIn(change: Change): readonly string[] {
-  const held = change.changed.filter((one) => shellNamed(one) && change.after(one) !== null)
-  return [...new Set(held)].sort()
+  return carriedOver(change.changed, (one) => change.after(one) !== null)
 }
 
 function holdingShellIn(index: Answering): readonly string[] {
@@ -69,8 +75,7 @@ function holdingShellIn(index: Answering): readonly string[] {
   return found
 }
 
-function filedIn(shadow: Shadow): readonly string[] | null {
-  const index = shadow.index
+function filedIn(index: Answering, root: string): readonly string[] | null {
   const filedBy = index.filePropertiesAt()
   const answered: string[] = []
   const found = new Set<string>()
@@ -81,7 +86,7 @@ function filedIn(shadow: Shadow): readonly string[] | null {
     for (const one of carried.carrying) {
       const value = index.valuesByPath(one.pageTypeSlug).get(one.path)
       if (value === undefined) continue
-      for (const at of pathsOf(value, one.path, shadow.root, filedBy)) {
+      for (const at of pathsOf(value, one.path, root, filedBy)) {
         if (shellNamed(at)) found.add(at)
       }
     }
@@ -89,9 +94,18 @@ function filedIn(shadow: Shadow): readonly string[] | null {
   return answered.length === 0 ? null : [...found]
 }
 
+export function besideOver(
+  index: Answering,
+  root: string,
+  listed: () => readonly string[],
+  carried: readonly string[]
+): readonly string[] {
+  const every = filedIn(index, root) ?? listed().filter(shellNamed)
+  return [...new Set([...every, ...carried])].sort()
+}
+
 export function besideIn(change: Change, shadow: Shadow): readonly string[] {
-  const every = filedIn(shadow) ?? shadow.listed().filter(shellNamed)
-  return [...new Set([...every, ...carriedIn(change)])].sort()
+  return besideOver(shadow.index, shadow.root, () => shadow.listed(), carriedIn(change))
 }
 
 function foundOf(held: unknown): Found | null {
@@ -169,14 +183,23 @@ export function judgedOf(looked: Looked, first: string, root: string): readonly 
   return [{ path: first, reason: `${why}. ${UNLOOKED}`, threw: true }]
 }
 
-export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  const carried = carriedIn(change)
+export function refusalsAcross(
+  carried: readonly string[],
+  beside: readonly string[],
+  bytes: (path: string) => Uint8Array | null
+): readonly Judged[] {
   const first = carried[0]
   if (first === undefined) return []
-  const mirror = mirroredOf(besideIn(change, shadow), change.after)
+  const mirror = mirroredOf(beside, bytes)
   try {
     return judgedOf(lookedOver(mirror.root, carried, Bun.which(TOOL)), first, mirror.root)
   } finally {
     mirror.sweep()
   }
+}
+
+export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
+  const carried = carriedIn(change)
+  if (carried.length === 0) return []
+  return refusalsAcross(carried, besideIn(change, shadow), change.after)
 }
