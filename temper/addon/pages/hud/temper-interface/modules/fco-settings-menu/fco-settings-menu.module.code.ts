@@ -45,7 +45,7 @@ import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/hud/temper-interface/fco-controls/fco-controls.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
@@ -69,13 +69,13 @@ const PREVENT_ENDLESS_LOOP_HOLDER: PreventEndlessLoopHolder = { current: false }
 
 let IS_FIRST_OPEN = true
 
-function isLibAddonMenu2(this: void, value: unknown): value is LibAddonMenu2 {
+function isLibAddonMenu2(this: void, value: unknown): value is TemperAddonMenu {
   return type(value) === "table"
 }
 
 export function buildAddonMenu(this: void): undefined {
   const settings = STATE.settingsVars.settings
-  const lam = STATE.LAM
+  const lam = STATE.addonMenu
   if (settings === undefined || !isLibAddonMenu2(lam)) {
     return
   }
@@ -211,7 +211,7 @@ export function buildAddonMenu(this: void): undefined {
     }
     refreshExcludedMountIdsShifterBox(FCOCHANGESTUFF_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT)
   }
-  CALLBACK_MANAGER.RegisterCallback("LAM-PanelOpened", lamPanelOpenedCallbackFunc)
+  CALLBACK_MANAGER.RegisterCallback("TemperAddonMenu-PanelOpened", lamPanelOpenedCallbackFunc)
 
   fcoSettingsPanel = registerPanel(lam, addonName + "_LAM", panelData, optionsTable)
 }

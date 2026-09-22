@@ -29,7 +29,6 @@ export const temperAddon = {
     "temper-addon/temper-addon-items",
     "temper-addon/temper-addon-world",
     "boolean-property/addon-library",
-    "temper-addon/temper-lib-addon-menu",
     "temper-addon/temper-lib-map-pins",
     "domain/temper-addon-shared",
   ],

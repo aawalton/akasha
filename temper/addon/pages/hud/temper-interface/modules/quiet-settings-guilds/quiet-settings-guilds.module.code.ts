@@ -5,7 +5,7 @@ import { header } from "akasha/temper/addon/pages/hud/temper-interface/modules/q
 import { STRINGS } from "akasha/temper/addon/pages/hud/temper-interface/modules/quiet-strings/quiet-strings.module.code.ts"
 import { noGuildLeave } from "akasha/temper/addon/pages/hud/temper-interface/modules/quiet-world/quiet-world.module.code.ts"
 import { dropdown } from "akasha/temper/addon/shared/settings-panel/modules/dropdown/dropdown.module.code.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra/eso-interface-extra.type-declaration.d.ts"

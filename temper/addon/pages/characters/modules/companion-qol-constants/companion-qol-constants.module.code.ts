@@ -1,4 +1,4 @@
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -23,7 +23,7 @@ const ADDON_VARS: AddonVars = {
 }
 COMPANION_QOL.addonVars = ADDON_VARS
 
-COMPANION_QOL.LAM = LibAddonMenu2
+COMPANION_QOL.LAM = TemperAddonMenu
 
 const COMPANION_INFO: CompanionInfo = {}
 for (let i = 1; i <= 30; i += 1) {

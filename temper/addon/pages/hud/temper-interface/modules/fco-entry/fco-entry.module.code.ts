@@ -60,8 +60,8 @@ import { tooltipChanges } from "akasha/temper/addon/pages/hud/temper-interface/m
 import { uiChanges } from "akasha/temper/addon/pages/hud/temper-interface/modules/fco-ui/fco-ui.module.code.ts"
 import { shifterBox as SHIFTER_BOX } from "akasha/temper/addon/pages/hud/temper-interface/modules/shifter-public-api/shifter-public-api.module.code.ts"
 import "akasha/temper/addon/type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
-import "akasha/temper/addon/pages/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
+import "akasha/temper/addon/pages/hud/temper-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
@@ -207,7 +207,7 @@ export function initFcoChangeStuff(this: void): undefined {
   noEnlightenedSound()
 
   STATE.LSB = SHIFTER_BOX
-  STATE.LAM = LibAddonMenu2
+  STATE.addonMenu = TemperAddonMenu
   buildAddonMenu()
 
   specialHooks()

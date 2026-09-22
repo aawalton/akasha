@@ -15,8 +15,8 @@ export function whenPanelControlsCreated(
   const created = (made: unknown): undefined => {
     if (made === panel) {
       run()
-      callbacks.UnregisterCallback("LAM-PanelControlsCreated", created)
+      callbacks.UnregisterCallback("TemperAddonMenu-PanelControlsCreated", created)
     }
   }
-  callbacks.RegisterCallback("LAM-PanelControlsCreated", created)
+  callbacks.RegisterCallback("TemperAddonMenu-PanelControlsCreated", created)
 }

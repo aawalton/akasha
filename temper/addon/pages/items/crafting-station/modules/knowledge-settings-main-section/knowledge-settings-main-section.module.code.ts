@@ -7,7 +7,7 @@ import "akasha/temper/addon/pages/items/crafting-station/knowledge-string-ids/kn
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 
 interface LamApi {
   OpenToPanel: (this: LamApi, panel: unknown) => void
@@ -194,7 +194,7 @@ INTERNAL.SettingsBuildMainSection = function (this: void): unknown[] {
 
 PUBLIC.OpenSettingsPanel = function (this: void): undefined {
   if (INTERNAL.settingsPanel !== undefined) {
-    asLamApi(LibAddonMenu2).OpenToPanel(INTERNAL.settingsPanel)
+    asLamApi(TemperAddonMenu).OpenToPanel(INTERNAL.settingsPanel)
   }
 }
 

@@ -5,7 +5,7 @@ import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declara
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/pages/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
+import "akasha/temper/addon/pages/hud/temper-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
@@ -215,7 +215,7 @@ export function openLAMAddonSettings(this: void): undefined {
   if (SM.IsShowing(GAME_MENU_SCENE)) {
     SM.ShowBaseScene()
   } else {
-    const lam = STATE.LAM
+    const lam = STATE.addonMenu
     if (isLibAddonMenuHandle(lam) && lam.OpenToPanel !== undefined) {
       lam.OpenToPanel(lam.currentAddonPanel)
     }

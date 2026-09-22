@@ -11,12 +11,12 @@ import { buildAppearanceSettings } from "akasha/temper/addon/pages/world/navigat
 import { buildLocationSettings } from "akasha/temper/addon/pages/world/navigation/modules/minimap-settings-location/minimap-settings-location.module.code.ts"
 import { header } from "akasha/temper/addon/shared/settings-panel/modules/header/header.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/world/navigation/minimap-string-ids/minimap-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-const LAM = LibAddonMenu2
+const LAM = TemperAddonMenu
 
 holder.InitSettings = function (this: VotansMiniMap): undefined {
   const panelData: LamPanelData = {

@@ -17,7 +17,6 @@
     "FCOCompanion_Settings_PerToon"
   ],
   "dependsOn": [
-    "LibAddonMenu-2.0>=43",
     "TemperHud"
   ],
   "optionalDependsOn": [],

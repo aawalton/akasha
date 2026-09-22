@@ -40,7 +40,7 @@ export interface FcocsState {
   runGroupListCounter: number
   blacklistKeyWords: string[]
   LSB: unknown
-  LAM: unknown
+  addonMenu: unknown
   mainMenu: unknown
   originalUnitCPEffectiveFunc: unknown
   originalUnitCPFunc: unknown
@@ -91,7 +91,7 @@ export const STATE: FcocsState = {
   runGroupListCounter: 0,
   blacklistKeyWords: [],
   LSB: undefined,
-  LAM: undefined,
+  addonMenu: undefined,
   mainMenu: undefined,
   originalUnitCPEffectiveFunc: undefined,
   originalUnitCPFunc: undefined,

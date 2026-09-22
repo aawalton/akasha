@@ -1,8 +1,8 @@
+{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-adapter-gap-rows/sales-history-adapter-gap-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache-status-bar/sales-history-cache-status-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window-row-helpers/sales-history-status-window-row-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window/sales-history-status-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

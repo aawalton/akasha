@@ -1,3 +1,7 @@
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-widget-dropdown-scroll/addon-menu-widget-dropdown-scroll.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-widget-dropdown-tooltips/addon-menu-widget-dropdown-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/custom-menu-lib/custom-menu-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/addon-keybinds-load/addon-keybinds-load.module.code.ts"}
@@ -21,10 +25,6 @@
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-ui/sets-search-ui-shared-ui.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-xml-api/sets-search-ui-xml-api.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-selection-widget/sales-history-status-selection-widget.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown-scroll/addon-menu-widget-dropdown-scroll.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown-tooltips/addon-menu-widget-dropdown-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-casts/journal-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-main-menu/journal-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-shape/journal-shape.module.code.ts"}

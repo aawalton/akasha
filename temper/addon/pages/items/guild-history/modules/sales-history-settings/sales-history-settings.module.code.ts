@@ -2,7 +2,7 @@ import { asGlobalTable } from "akasha/temper/addon/pages/items/guild-history/mod
 import { internal } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-state/sales-history-state.module.code.ts"
 import type { HistoryInternal } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-types/sales-history-types.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/guild-history/sales-history-controls/sales-history-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
@@ -62,7 +62,7 @@ internal.InitializeSaveData = function (this: HistoryInternal): undefined {
 }
 
 internal.InitializeSettingsMenu = function (this: HistoryInternal): undefined {
-  const lam = LibAddonMenu2
+  const lam = TemperAddonMenu
   const adapter = asSettingsAdapterRef(this.historyAdapter)
 
   const panelData: LamPanelData = {

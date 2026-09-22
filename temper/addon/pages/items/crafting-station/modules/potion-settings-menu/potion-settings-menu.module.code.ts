@@ -7,7 +7,7 @@ import { PotMaker } from "akasha/temper/addon/pages/items/crafting-station/modul
 import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/temper/addon/type/crafting-addon-neighbours/crafting-addon-neighbours.type-declaration.d.ts"
 import "akasha/temper/addon/type/fcois/fcois.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
@@ -59,7 +59,7 @@ function asLAM2Surface(value: unknown): LAM2Surface {
 }
 
 function initSettingsMenu(this: void): undefined {
-  const lam2 = LibAddonMenu2 === undefined ? undefined : asLAM2Surface(LibAddonMenu2)
+  const lam2 = TemperAddonMenu === undefined ? undefined : asLAM2Surface(TemperAddonMenu)
   if (lam2 === undefined) {
     return
   }

@@ -8,7 +8,7 @@ import "akasha/temper/addon/pages/hud/temper-custom-menu/menu-decl/menu-decl.typ
 import "akasha/temper/eso/type/eso-deconstruction/eso-deconstruction.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 
 const Controls = Internal.controls
 
@@ -80,11 +80,11 @@ Public.InvokeSettings = (): undefined => {
   if (Internal.settingsVisible) {
     const activeTab = Internal.activeTab
     if (
-      LibAddonMenu2 !== undefined &&
+      TemperAddonMenu !== undefined &&
       activeTab !== undefined &&
       activeTab.settingsPanel !== undefined
     ) {
-      LibAddonMenu2.OpenToPanel(activeTab.settingsPanel)
+      TemperAddonMenu.OpenToPanel(activeTab.settingsPanel)
     }
   }
 }

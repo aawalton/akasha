@@ -19,7 +19,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 
 const Controls = Internal.controls
 
@@ -99,7 +99,9 @@ const SETTINGS_BUTTON: {
 Internal.RefreshSettingsButton = (): undefined => {
   const activeTab = Internal.activeTab
   const settingsAvailable =
-    LibAddonMenu2 !== undefined && activeTab !== undefined && activeTab.settingsPanel !== undefined
+    TemperAddonMenu !== undefined &&
+    activeTab !== undefined &&
+    activeTab.settingsPanel !== undefined
   if (settingsAvailable && !Internal.settingsVisible) {
     Internal.settingsVisible = true
     SETTINGS_BUTTON.callback = Public.InvokeSettings

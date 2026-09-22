@@ -1,4 +1,4 @@
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
@@ -13,7 +13,7 @@ import "akasha/temper/addon/pages/characters/companions-declarations/companions-
 
 COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
   const settings = COMPANION_QOL.settingsVars.settings
-  if (settings === undefined || LibAddonMenu2 === undefined) {
+  if (settings === undefined || TemperAddonMenu === undefined) {
     return false
   }
   const defaults = COMPANION_QOL.settingsVars.defaults
@@ -306,7 +306,7 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
   ]
 
   COMPANION_QOL.settingsPanel = registerPanel(
-    LibAddonMenu2,
+    TemperAddonMenu,
     `${addonName}_LAM`,
     panelData,
     optionsTable

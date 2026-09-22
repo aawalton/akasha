@@ -5,7 +5,7 @@ import {
 import { strOrKey as wwStr } from "akasha/temper/addon/pages/items/crafting-station/modules/writ-i18n/writ-i18n.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-writ-tooltip/eso-writ-tooltip.type-declaration.d.ts"
 
 function savedVars(): TemperWritSavedVariables {
@@ -144,5 +144,5 @@ export function createSettingsWindow(this: void): undefined {
     optionsData[optionsData.length] = o
   }
 
-  registerPanel(LibAddonMenu2, lamAddonId, panelData, optionsData)
+  registerPanel(TemperAddonMenu, lamAddonId, panelData, optionsData)
 }

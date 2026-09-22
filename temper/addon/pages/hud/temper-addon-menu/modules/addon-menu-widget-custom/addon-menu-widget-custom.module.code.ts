@@ -1,0 +1,60 @@
+import { asLamFactory } from "akasha/temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-casts/addon-menu-casts.module.code.ts"
+import { WIDGET_VERSION } from "akasha/temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-constants/addon-menu-constants.module.code.ts"
+import {
+  registerWidget,
+  TEMPER_ADDON_MENU_CREATE_CONTROL,
+} from "akasha/temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-state/addon-menu-state.module.code.ts"
+import type {
+  CustomData,
+  LamControl,
+} from "akasha/temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"
+import {
+  createBaseControl,
+  getDefaultValue,
+  registerForRefreshIfNeeded,
+} from "akasha/temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+
+const MIN_HEIGHT = 26
+
+function createCustom(
+  this: void,
+  parent: LamControl,
+  customData: CustomData,
+  controlName?: string
+): LamControl {
+  const control = createBaseControl(parent, customData, controlName)
+  const width = control.GetWidth()
+  control.SetResizeToFitDescendents(true)
+
+  const minHeight =
+    customData.minHeight !== undefined ? getDefaultValue(customData.minHeight) : MIN_HEIGHT
+  const maxHeight =
+    customData.maxHeight !== undefined ? getDefaultValue(customData.maxHeight) : minHeight * 4
+
+  if (control.isHalfWidth) {
+    control.SetDimensionConstraints(width / 2, minHeight, width / 2, maxHeight)
+    control.SetResizeToFitConstrains(ANCHOR_CONSTRAINS_Y)
+  } else {
+    control.SetDimensionConstraints(width, minHeight, width, maxHeight)
+    control.SetResizeToFitConstrains(ANCHOR_CONSTRAINS_Y)
+  }
+
+  control.UpdateValue = (): undefined => {
+    const refreshFunc = customData.refreshFunc
+    if (refreshFunc !== undefined) {
+      refreshFunc(control)
+    }
+  }
+
+  registerForRefreshIfNeeded(control)
+
+  if (customData.createFunc !== undefined) {
+    customData.createFunc(control)
+  }
+  return control
+}
+
+if (registerWidget("custom", WIDGET_VERSION.custom)) {
+  TEMPER_ADDON_MENU_CREATE_CONTROL.custom = asLamFactory(createCustom)
+}

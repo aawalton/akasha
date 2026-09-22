@@ -1,10 +1,10 @@
+{"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-widget-checkbox/addon-menu-widget-checkbox.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-drop-name-names-en/sets-drop-name-names-en.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-drop-name-names-fr/sets-drop-name-names-fr.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-loc-on-off-labels/sets-loc-on-off-labels.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-loc-rest-strings-pl/sets-loc-rest-strings-pl.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-loc-strings-en/sets-loc-strings-en.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-rowmenu/sets-search-ui-shared-rowmenu.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-checkbox/addon-menu-widget-checkbox.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-toggles/minimap-toggles.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-item-link/item-browser-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-list/item-browser-list.module.code.ts"}

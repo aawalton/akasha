@@ -46,7 +46,7 @@ import { portToFriend } from "akasha/temper/addon/pages/hud/temper-housing/modul
 import type { SavedVars } from "akasha/temper/addon/pages/hud/temper-housing/modules/housing-types/housing-types.module.code.ts"
 import { registerUiStrings } from "akasha/temper/addon/pages/hud/temper-housing/modules/housing-ui-strings/housing-ui-strings.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 
 registerUiStrings()
 
@@ -107,8 +107,8 @@ function ptfSlashCommand(this: void, param: string): undefined {
       d(portToFriend.constants.INVALID_FAVORITE_ID ?? "")
     }
   } else if (cmd === "menu") {
-    if (LibAddonMenu2 !== undefined) {
-      LibAddonMenu2.OpenToPanel(portToFriend.menu.lam.panel)
+    if (TemperAddonMenu !== undefined) {
+      TemperAddonMenu.OpenToPanel(portToFriend.menu.lam.panel)
     }
   } else {
     portToFriend.ShowHelp()

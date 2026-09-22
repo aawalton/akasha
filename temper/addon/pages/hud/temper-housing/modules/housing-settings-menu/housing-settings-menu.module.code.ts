@@ -1,4 +1,4 @@
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import {
   getPtfSavedVars,
   portToFriend,
@@ -25,7 +25,7 @@ function asString(this: void, value: string | undefined): string {
 function initialize(this: void, menuName: string, vars: SavedVars): undefined {
   portToFriendMenu.lam.optionsData = portToFriendMenu.CreateMenuFromVars(vars)
   portToFriendMenu.lam.panel = registerPanel(
-    LibAddonMenu2,
+    TemperAddonMenu,
     menuName,
     asLamPanelData(portToFriendMenu.lam.panelData),
     asLamControlDataList(portToFriendMenu.lam.optionsData)

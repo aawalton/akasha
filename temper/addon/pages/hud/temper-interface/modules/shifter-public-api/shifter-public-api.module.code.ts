@@ -23,7 +23,7 @@ import {
   assertTable,
 } from "akasha/temper/addon/pages/hud/temper-interface/modules/shifter-validation/shifter-validation.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 
 validationTypeToFunc.set("boolean", assertBoolean)
 validationTypeToFunc.set("stringValueKey", assertStringValueKey)
@@ -36,7 +36,7 @@ validationTypeToFunc.set("table", assertTable)
 export const shifterBox = asShifterBoxHandle(lib)
 
 export function initShifterBox(this: void): undefined {
-  if (LibAddonMenu2 !== undefined) {
+  if (TemperAddonMenu !== undefined) {
     CM.RegisterCallback("LAM-PanelClosed", checkIfDraggedAndDisableUpdateHandler)
   }
   return undefined

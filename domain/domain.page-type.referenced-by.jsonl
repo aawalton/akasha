@@ -551,6 +551,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/build/resolve/temper-addon-resolve.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/build/temper-addon-build.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/community/temper-addon-community.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-addon-menu/temper-addon-menu.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-async/temper-async.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-chat-message/temper-chat-message.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-custom-menu/temper-custom-menu.domain.ts"}

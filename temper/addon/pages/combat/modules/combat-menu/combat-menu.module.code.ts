@@ -10,7 +10,7 @@ import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-menu-string-ids/combat-menu-string-ids.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-saved-variables-declarations/combat-saved-variables-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
@@ -27,7 +27,7 @@ function getRawAccountWideSettings(): Record<string, unknown> {
 let settingsPanel: Control | undefined
 
 export function makeMenu(svdefaults: TemperCombatSettings): undefined {
-  const menu = LibAddonMenu2
+  const menu = TemperAddonMenu
   if (menu === undefined) {
     return undefined
   }
@@ -249,8 +249,8 @@ export function makeMenu(svdefaults: TemperCombatSettings): undefined {
 }
 
 export function openSettings(this: void): undefined {
-  if (LibAddonMenu2 !== undefined && settingsPanel !== undefined) {
-    LibAddonMenu2.OpenToPanel(settingsPanel)
+  if (TemperAddonMenu !== undefined && settingsPanel !== undefined) {
+    TemperAddonMenu.OpenToPanel(settingsPanel)
   }
   return undefined
 }

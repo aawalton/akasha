@@ -23,9 +23,7 @@
     "LibDebugLoggerLog"
   ],
   "additionalLuaFiles": [],
-  "dependsOn": [
-    "LibAddonMenu-2.0>=43"
-  ],
+  "dependsOn": [],
   "optionalDependsOn": [
     "LibGroupBroadcast",
     "FCOChatTabBrain",

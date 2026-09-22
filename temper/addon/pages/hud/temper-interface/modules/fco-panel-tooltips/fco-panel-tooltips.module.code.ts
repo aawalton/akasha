@@ -3,7 +3,7 @@ import {
   tooltipScalingHack,
 } from "akasha/temper/addon/pages/hud/temper-interface/modules/fco-tooltips/fco-tooltips.module.code.ts"
 import type { AddonSettings } from "akasha/temper/addon/pages/hud/temper-interface/modules/fco-types/fco-types.module.code.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 
 export function buildTooltipsControls(
   this: void,

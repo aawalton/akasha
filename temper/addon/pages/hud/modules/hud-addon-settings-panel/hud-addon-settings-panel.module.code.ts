@@ -1,4 +1,4 @@
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 
 import {
   defaultComponentVisible,
@@ -65,6 +65,6 @@ export function initializeSettingsPanel(this: void): undefined {
     registerForRefresh: true,
     registerForDefaults: true,
   }
-  registerPanel(LibAddonMenu2, PANEL_ID, panelData, [...buildControls()])
+  registerPanel(TemperAddonMenu, PANEL_ID, panelData, [...buildControls()])
   return undefined
 }

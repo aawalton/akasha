@@ -18,7 +18,7 @@ import type {
 import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/world/navigation/minimap-string-ids/minimap-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-18/eso-enums-18.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
@@ -301,7 +301,12 @@ holder.InitPinSizes = function (this: VotansMiniMap): undefined {
     registerForRefresh: true,
     registerForDefaults: true,
   }
-  registerPanel(LibAddonMenu2, "TemperVotansMiniMapPinSizes_OptionsPanel", panelData, optionsTable)
+  registerPanel(
+    TemperAddonMenu,
+    "TemperVotansMiniMapPinSizes_OptionsPanel",
+    panelData,
+    optionsTable
+  )
 }
 
 function playerActivated(this: void): undefined {

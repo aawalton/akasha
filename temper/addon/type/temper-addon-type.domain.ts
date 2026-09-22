@@ -13,7 +13,7 @@ export const temperAddonType = {
     "type-declaration/fcois",
     "type-declaration/furniture-catalogue",
     "type-declaration/interface-addon-neighbours",
-    "type-declaration/lib-addon-menu",
+    "type-declaration/temper-addon-menu-global",
     "type-declaration/temper-async-global",
     "type-declaration/temper-chat-message-global",
     "type-declaration/lib-codes-common-code",
