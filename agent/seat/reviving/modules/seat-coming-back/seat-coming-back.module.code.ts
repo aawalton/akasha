@@ -1,9 +1,9 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import {
+  addressFor,
   type SeatStated,
-  type Stating,
-  statedSeat,
+  seatBody,
 } from "akasha/agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"
 import { resolveSeatTarget } from "akasha/agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"
 import { underOldKeys } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
@@ -12,17 +12,17 @@ import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import {
-  type Landing,
-  runMechanicalChange,
-} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
+import { pagesOriginHere } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
 import { akashaHere } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { writingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const HEAD = "HEAD"
+
+const WRITER = "seat reviver <seat-reviver@alanwalton.com>"
 
 export interface Held {
   readonly at: string
@@ -30,12 +30,17 @@ export interface Held {
   readonly body: string
 }
 
+export type CameBack =
+  | { readonly kind: "wrote" }
+  | { readonly kind: "unstated" }
+  | { readonly kind: "refused"; readonly said: string }
+
 export type StatingSeat = (
   root: string,
   stated: SeatStated,
   seatName: string,
-  landing?: Landing
-) => Promise<Stating>
+  said: string
+) => Promise<CameBack>
 
 export function tookAway(root: string, name: string): string | null {
   const at = told(root, [
@@ -93,20 +98,32 @@ export function statedIn(body: string): SeatStated | null {
   return statedFrom(underOldKeys(held.value as Record<string, unknown>))
 }
 
+const statedBack: StatingSeat = async (root, stated, seatName, said) => {
+  const page = seatPathForName(seatName)
+  const body = seatBody(stated, seatName, root, addressFor(stated, page, root, false))
+  if (body === null) return { kind: "unstated" }
+  const wrote = await writingFor(
+    { writer: WRITER, message: said, puts: [{ path: page, content: body }] },
+    undefined,
+    undefined,
+    pagesOriginHere()
+  )
+  if ("refused" in wrote) return { kind: "refused", said: wrote.refused }
+  return { kind: "wrote" }
+}
+
 export async function seatBackFromHistory(
   root: string,
   name: string,
   done: string[] = [],
-  stating: StatingSeat = statedSeat
+  stating: StatingSeat = statedBack
 ): Promise<Held | null> {
   if (alreadyThere(root, seatPathForName(name))) return null
   const held = heldBefore(root, name)
   if (held === null) return null
   const stated = statedIn(held.body)
   if (stated === null) return null
-  const saying: Landing = (at, changes, _message, writing) =>
-    runMechanicalChange(at, changes, saidOfBack(name, held.commit), writing)
-  const said = await stating(root, stated, name, saying)
+  const said = await stating(root, stated, name, saidOfBack(name, held.commit))
   if (said.kind === "refused") throw dataError(said.said)
   if (said.kind === "unstated") return null
   done.push(saidOfBack(name, held.commit))

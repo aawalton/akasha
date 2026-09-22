@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.code.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"agent/model/account/modules/making/model-account-making.module.code.ts"}
-{"propertySlug":"import","fileName":"applying.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
+{"propertySlug":"import","fileName":"applying.module.code.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.test.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}

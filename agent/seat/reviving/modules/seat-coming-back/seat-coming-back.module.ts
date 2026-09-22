@@ -18,6 +18,10 @@ export const seatComingBack = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The body is composed where a seat's body is composed rather than laid out here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A value written under a name pages have left is read under the name pages have.",
     },
     {
@@ -46,7 +50,27 @@ export const seatComingBack = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page coming back lands as a change, so the index carries that page again.",
+      statement: "A page coming back is asked of the pages service rather than landed here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That ask lands as a change, so the index carries that page again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The origin that ask reaches is the origin a message send reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write names its writer as a name and an address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The commit that ask makes says which commit the page came back from.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here lands a commit.",
     },
     {
       decisionKind: "decision-kind/departure",

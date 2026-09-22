@@ -183,6 +183,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-defaults/seat-defaults.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-help/seat-help.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-initiative/seat-initiative.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-on-call/seat-on-call.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-principal/seat-principal.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-registration-account/seat-registration-account.module.ts"}

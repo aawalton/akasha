@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"agent/messaging/modules/message-sending/message-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"agent/messaging/modules/message-sending/message-sending.module.test.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"agent/seat/log-day/modules/log-day-sweeping/log-day-sweeping.module.code.ts"}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-device-tokens/push-device-tokens.module.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/better-auth-rr/modules/app-handover-session/app-handover-session.module.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"}

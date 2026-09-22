@@ -4,7 +4,7 @@ export const seatStating = {
   id: "01a05dc3-4f16-7000-b46d-ca7a113c86a8",
   type: "page-type/module",
   slug: "seat-stating",
-  definition: "the page written for a seat out of what it states",
+  definition: "the body a seat's page carries, composed from what that seat states",
   code: "ts",
   test: "ts",
   decisions: [
@@ -89,49 +89,8 @@ export const seatStating = {
       statement: "The address a seat states is kept where the page with that address has gone.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A body matching the file the body would land in is not landed again.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A seat's page is landed by a program rather than by an agent.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The page goes in through the change adding a file.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A seat that stopped has its page taken away with the files beside that page.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A path the index files no page at has that page alone taken away.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That one refusal is the only refusal the page alone is taken away after.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The landing a page goes through is handed in.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A landing that committed before it refused names that commit in the refusal.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Where a seat's page sits is read from the one rule rather than spelled again.",
-    },
-    {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here runs the akasha command as a process.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A page written over hands in the body read from it, and a new page hands in none.",
+      statement: "Nothing here lands a commit.",
     },
   ],
 } as const satisfies Module

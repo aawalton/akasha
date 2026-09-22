@@ -220,6 +220,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/credential/modules/supervisor-credentials/supervisor-credentials.module.ts","id":"01a0683e-3dbe-7016-a806-44c493fde84f"}
 {"propertySlug":"decision-kind","path":"agent/seat/declaration/modules/seat-answering/seat-answering.module.ts","id":"01a06867-7fc9-7004-a4e4-ce9bc9ecc0fd"}
 {"propertySlug":"decision-kind","path":"agent/seat/declaration/modules/seat-initiative/seat-initiative.module.ts","id":"01a06949-b281-745b-96f6-05ec9619e469"}
+{"propertySlug":"decision-kind","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.ts","id":"01a0c9e4-772d-7926-92a2-cf5eb5f2aae8"}
 {"propertySlug":"decision-kind","path":"agent/seat/declaration/modules/seat-on-call/seat-on-call.module.ts","id":"01a06949-b281-7ac9-9029-67b66a0efb23"}
 {"propertySlug":"decision-kind","path":"agent/seat/declaration/modules/seat-principal/seat-principal.module.ts","id":"01a06949-b281-758a-b03f-cad660b7a2e7"}
 {"propertySlug":"decision-kind","path":"agent/seat/declaration/modules/seat-registration-account/seat-registration-account.module.ts","id":"01a06949-b281-7f25-beab-a1bc8f5ade76"}

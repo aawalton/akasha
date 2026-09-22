@@ -23,6 +23,7 @@ export const seatDeclaration = {
     "module/seat-stating",
     "module/seat-whoami",
     "module/state-spawned-seat",
+    "module/seat-landing",
   ],
   decisions: [
     {

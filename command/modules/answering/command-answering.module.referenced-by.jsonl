@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/model/account/modules/making/model-account-making.module.code.ts"}
-{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/subagent/modules/landing-again/subagent-landing-again.module.code.ts"}

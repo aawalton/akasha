@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"agent/model/account/modules/making/model-account-making.module.code.ts"}
-{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
-{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"}
