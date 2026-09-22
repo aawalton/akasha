@@ -9,7 +9,6 @@ export const temperDungeonChampion = {
     "module/dungeon-champion-achievement-ids",
     "module/dungeon-champion-colors",
     "module/dungeon-champion-defaults",
-    "module/dungeon-champion-global",
     "module/dungeon-champion-labels",
     "module/dungeon-champion-lookup",
     "module/dungeon-champion-map-zone",
@@ -24,7 +23,6 @@ export const temperDungeonChampion = {
     "module/dungeon-champion-settings",
     "module/dungeon-champion-slash",
     "module/dungeon-champion-start",
-    "type-declaration/dungeon-champion-global-declarations",
     "type-declaration/dungeon-champion-saved-vars-declarations",
   ],
   decisions: [

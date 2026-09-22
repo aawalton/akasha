@@ -119,7 +119,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-notification-global/temper-notification-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-saved-variables-global/temper-saved-variables-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/dungeon-champion-global-declarations/dungeon-champion-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/dungeon-champion-saved-vars-declarations/dungeon-champion-saved-vars-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/lorebook/lorebooks-controls/lorebooks-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/lorebook/lorebooks-public-api-declarations/lorebooks-public-api-declarations.type-declaration.ts"}

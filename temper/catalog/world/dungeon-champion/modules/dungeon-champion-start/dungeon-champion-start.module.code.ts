@@ -1,5 +1,3 @@
-import "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-global/dungeon-champion-global.module.code.ts"
-
 import { ADDON_NAME } from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-names/dungeon-champion-names.module.code.ts"
 import { registerPins } from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-pin-register/dungeon-champion-pin-register.module.code.ts"
 import {

@@ -4932,7 +4932,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-achievement-ids/dungeon-champion-achievement-ids.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-colors/dungeon-champion-colors.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-defaults/dungeon-champion-defaults.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-global/dungeon-champion-global.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-labels/dungeon-champion-labels.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-lookup/dungeon-champion-lookup.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-map-zone/dungeon-champion-map-zone.module.ts"}

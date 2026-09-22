@@ -4650,7 +4650,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/zone-upstream-verify/zone-upstream-verify.module.ts","id":"01a06288-c640-74b3-b566-c847f9efc2c9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/temper-upstream-data.domain.ts","id":"01a06038-2cbe-79d6-9497-4ef8b26650e5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-colors/dungeon-champion-colors.module.ts","id":"01a060f9-babe-7d15-8b17-8c3ff34e4b9a"}
-{"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-global/dungeon-champion-global.module.ts","id":"01a060f9-bac1-7e35-a978-59c345fb4cb1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-labels/dungeon-champion-labels.module.ts","id":"01a060f9-bac3-7d62-84b5-57fdb312f3dc"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-lookup/dungeon-champion-lookup.module.ts","id":"01a060f9-bac8-786f-8c5a-fd4bee1b1d16"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-map-zone/dungeon-champion-map-zone.module.ts","id":"01a060f9-bac9-786e-a896-0143797eade0"}
