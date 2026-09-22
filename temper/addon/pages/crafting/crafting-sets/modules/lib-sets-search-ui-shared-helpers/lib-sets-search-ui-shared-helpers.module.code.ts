@@ -28,7 +28,10 @@ import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-search-ui-shapes-2/lib-sets-search-ui-shapes-2.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-search-ui-shapes-4/lib-sets-search-ui-shapes-4.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import {
+  LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
+  LIBSETS_TABLEKEY_DROPMECHANIC_NAMES,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"

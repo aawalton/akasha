@@ -4,7 +4,6 @@ import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/li
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -166,46 +165,45 @@ if (SUPPORTED_LANGUAGES[clientLang] !== true) {
 lib.clientLang = clientLang
 
 const NO_SET_ID_STRING = "NoSetId"
-G["LIBSETS_TABLEKEY_NEWSETIDS"] = "NewSetIDs"
-G["LIBSETS_TABLEKEY_NAMES"] = "Names"
-G["LIBSETS_TABLEKEY_SETITEMIDS"] = "setItemIds"
-G["LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID"] = LIBSETS_TABLEKEY_SETITEMIDS + NO_SET_ID_STRING
-G["LIBSETS_TABLEKEY_SETITEMIDS_COMPRESSED"] = LIBSETS_TABLEKEY_SETITEMIDS + "_Compressed"
-G["LIBSETS_TABLEKEY_SETS_EQUIP_TYPES"] = "setsEquipTypes"
-G["LIBSETS_TABLEKEY_SETS_ARMOR_TYPES"] = "setsArmorTypes"
-G["LIBSETS_TABLEKEY_SETS_JEWELRY"] = "setsWithJewelry"
-G["LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES"] = "setsWeaponTypes"
-G["LIBSETS_TABLEKEY_SETNAMES"] = "set" + LIBSETS_TABLEKEY_NAMES
-G["LIBSETS_TABLEKEY_SETNAMES_NO_SETID"] = "set" + LIBSETS_TABLEKEY_NAMES + NO_SET_ID_STRING
-G["LIBSETS_TABLEKEY_LASTCHECKEDAPIVERSION"] = "lastSetsCheckAPIVersion"
-G["LIBSETS_TABLEKEY_NUMBONUSES"] = "numBonuses"
-G["LIBSETS_TABLEKEY_MAXEQUIPPED"] = "maxEquipped"
-G["LIBSETS_TABLEKEY_SETTYPE"] = "setType"
-G["LIBSETS_TABLEKEY_MAPS"] = "maps"
-G["LIBSETS_TABLEKEY_WAYSHRINES"] = "wayshrines"
-G["LIBSETS_TABLEKEY_WAYSHRINE_NAMES"] = "wayshrine" + LIBSETS_TABLEKEY_NAMES
-G["LIBSETS_TABLEKEY_ZONEIDS"] = "zoneIds"
-G["LIBSETS_TABLEKEY_ZONEIDS_SORTED"] = "zoneIdsSorted"
-G["LIBSETS_TABLEKEY_ZONE_DATA"] = "zoneData"
-G["LIBSETS_TABLEKEY_DUNGEONFINDER_DATA"] = "dungeonFinderData"
-G["LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES"] = "achievementCategory" + LIBSETS_TABLEKEY_NAMES
-G["LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES"] = "collectible_DLC" + LIBSETS_TABLEKEY_NAMES
-G["LIBSETS_TABLEKEY_COLLECTIBLE_NAMES"] = "collectible" + LIBSETS_TABLEKEY_NAMES
-G["LIBSETS_TABLEKEY_WAYSHRINENODEID2ZONEID"] = "wayshrineNodeId2zoneId"
-G["LIBSETS_TABLEKEY_DROPMECHANIC"] = "dropMechanic"
-G["LIBSETS_TABLEKEY_DROPMECHANIC_SORTED"] = "dropMechanicSorted"
-G["LIBSETS_TABLEKEY_DROPMECHANIC_NAMES"] = LIBSETS_TABLEKEY_DROPMECHANIC + LIBSETS_TABLEKEY_NAMES
-G["LIBSETS_TABLEKEY_DROPMECHANIC_TOOLTIP_NAMES"] =
+const LIBSETS_TABLEKEY_NAMES = "Names"
+export const LIBSETS_TABLEKEY_NEWSETIDS = "NewSetIDs"
+export const LIBSETS_TABLEKEY_SETITEMIDS = "setItemIds"
+export const LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID = LIBSETS_TABLEKEY_SETITEMIDS + NO_SET_ID_STRING
+export const LIBSETS_TABLEKEY_SETITEMIDS_COMPRESSED = LIBSETS_TABLEKEY_SETITEMIDS + "_Compressed"
+export const LIBSETS_TABLEKEY_SETS_EQUIP_TYPES = "setsEquipTypes"
+export const LIBSETS_TABLEKEY_SETS_ARMOR_TYPES = "setsArmorTypes"
+export const LIBSETS_TABLEKEY_SETS_JEWELRY = "setsWithJewelry"
+export const LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES = "setsWeaponTypes"
+export const LIBSETS_TABLEKEY_SETNAMES = "set" + LIBSETS_TABLEKEY_NAMES
+export const LIBSETS_TABLEKEY_SETNAMES_NO_SETID = "set" + LIBSETS_TABLEKEY_NAMES + NO_SET_ID_STRING
+export const LIBSETS_TABLEKEY_NUMBONUSES = "numBonuses"
+export const LIBSETS_TABLEKEY_MAXEQUIPPED = "maxEquipped"
+export const LIBSETS_TABLEKEY_SETTYPE = "setType"
+export const LIBSETS_TABLEKEY_MAPS = "maps"
+export const LIBSETS_TABLEKEY_WAYSHRINES = "wayshrines"
+export const LIBSETS_TABLEKEY_WAYSHRINE_NAMES = "wayshrine" + LIBSETS_TABLEKEY_NAMES
+export const LIBSETS_TABLEKEY_ZONEIDS = "zoneIds"
+export const LIBSETS_TABLEKEY_ZONEIDS_SORTED = "zoneIdsSorted"
+export const LIBSETS_TABLEKEY_ZONE_DATA = "zoneData"
+export const LIBSETS_TABLEKEY_DUNGEONFINDER_DATA = "dungeonFinderData"
+export const LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES =
+  "achievementCategory" + LIBSETS_TABLEKEY_NAMES
+export const LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES = "collectible_DLC" + LIBSETS_TABLEKEY_NAMES
+export const LIBSETS_TABLEKEY_COLLECTIBLE_NAMES = "collectible" + LIBSETS_TABLEKEY_NAMES
+export const LIBSETS_TABLEKEY_WAYSHRINENODEID2ZONEID = "wayshrineNodeId2zoneId"
+export const LIBSETS_TABLEKEY_DROPMECHANIC = "dropMechanic"
+export const LIBSETS_TABLEKEY_DROPMECHANIC_SORTED = "dropMechanicSorted"
+export const LIBSETS_TABLEKEY_DROPMECHANIC_NAMES =
+  LIBSETS_TABLEKEY_DROPMECHANIC + LIBSETS_TABLEKEY_NAMES
+export const LIBSETS_TABLEKEY_DROPMECHANIC_TOOLTIP_NAMES =
   LIBSETS_TABLEKEY_DROPMECHANIC + "Tooltip" + LIBSETS_TABLEKEY_NAMES
-G["LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES"] =
+export const LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES =
   LIBSETS_TABLEKEY_DROPMECHANIC + "DropLocation" + LIBSETS_TABLEKEY_NAMES
-G["LIBSETS_TABLEKEY_MIXED_SETNAMES"] = "MixedSetNamesForDataAll"
-G["LIBSETS_TABLEKEY_SET_PROCS_ALLOWED_IN_PVP"] = "setProcsAllowedInPvP"
-G["LIBSETS_TABLEKEY_SET_ITEM_COLLECTIONS_ZONE_MAPPING"] = "setItemCollectionsZoneMapping"
-G["LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES"] = "enchantSearchCategories"
-G["LIBSETS_TABLEKEY_DUNGEON_ZONE_MAPPING"] = "dungeonZoneMapping"
-G["LIBSETS_TABLEKEY_PUBLICDUNGEON_ZONE_MAPPING"] = "publicDungeonZoneMapping"
-G["LIBSETS_TABLEKEY_TABLENAME"] = "tableName"
+export const LIBSETS_TABLEKEY_MIXED_SETNAMES = "MixedSetNamesForDataAll"
+export const LIBSETS_TABLEKEY_SET_PROCS_ALLOWED_IN_PVP = "setProcsAllowedInPvP"
+export const LIBSETS_TABLEKEY_SET_ITEM_COLLECTIONS_ZONE_MAPPING = "setItemCollectionsZoneMapping"
+export const LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES = "enchantSearchCategories"
+export const LIBSETS_TABLEKEY_TABLENAME = "tableName"
 
 export const LIBSETS_SET_ITEMID_TABLE_VALUE_OK = 1
 export const LIBSETS_SET_ITEMID_TABLE_VALUE_NOTOK = 2

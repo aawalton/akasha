@@ -14,7 +14,12 @@ import { safeReturnAPItable } from "akasha/temper/addon/pages/crafting/crafting-
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import {
+  LIBSETS_TABLEKEY_SETTYPE,
+  LIBSETS_TABLEKEY_WAYSHRINENODEID2ZONEID,
+  LIBSETS_TABLEKEY_WAYSHRINES,
+  LIBSETS_TABLEKEY_ZONEIDS,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-lib-sets-dlc/eso-lib-sets-dlc.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"

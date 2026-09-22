@@ -17,8 +17,15 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-load-sets-checktype/lib-sets-core-load-sets-checktype.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import { LIBSETS_SET_ITEMID_TABLE_VALUE_OK } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import {
+  LIBSETS_SET_ITEMID_TABLE_VALUE_OK,
+  LIBSETS_TABLEKEY_SET_ITEM_COLLECTIONS_ZONE_MAPPING,
+  LIBSETS_TABLEKEY_SET_PROCS_ALLOWED_IN_PVP,
+  LIBSETS_TABLEKEY_SETS_ARMOR_TYPES,
+  LIBSETS_TABLEKEY_SETS_EQUIP_TYPES,
+  LIBSETS_TABLEKEY_SETS_JEWELRY,
+  LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"

@@ -8,8 +8,11 @@ import { asSetIdCompressedItemIds } from "akasha/temper/addon/pages/crafting/cra
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import { LIBSETS_SET_ITEMID_TABLE_VALUE_OK } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import {
+  LIBSETS_SET_ITEMID_TABLE_VALUE_OK,
+  LIBSETS_TABLEKEY_SETITEMIDS,
+  LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 

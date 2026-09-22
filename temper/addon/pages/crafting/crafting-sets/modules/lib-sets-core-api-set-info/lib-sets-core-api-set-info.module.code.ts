@@ -13,7 +13,14 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 import { safeReturnAPItable } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import {
+  LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
+  LIBSETS_TABLEKEY_DROPMECHANIC_NAMES,
+  LIBSETS_TABLEKEY_SETITEMIDS,
+  LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID,
+  LIBSETS_TABLEKEY_SETNAMES,
+  LIBSETS_TABLEKEY_SETNAMES_NO_SETID,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lib-sets-dlc/eso-lib-sets-dlc.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"

@@ -8,7 +8,7 @@ import { asCategoryBoolMapOpt } from "akasha/temper/addon/pages/crafting/craftin
 import { safeReturnAPItable } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import { LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"

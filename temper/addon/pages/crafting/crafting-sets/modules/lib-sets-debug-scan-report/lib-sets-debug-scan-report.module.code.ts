@@ -20,7 +20,15 @@ import {
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/crafting/modules/crafting-constants/crafting-constants.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import {
+  LIBSETS_TABLEKEY_NEWSETIDS,
+  LIBSETS_TABLEKEY_SETITEMIDS,
+  LIBSETS_TABLEKEY_SETNAMES,
+  LIBSETS_TABLEKEY_SETS_ARMOR_TYPES,
+  LIBSETS_TABLEKEY_SETS_EQUIP_TYPES,
+  LIBSETS_TABLEKEY_SETS_JEWELRY,
+  LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 

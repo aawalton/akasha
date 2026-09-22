@@ -25,7 +25,14 @@ import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import {
+  LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES,
+  LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES,
+  LIBSETS_TABLEKEY_COLLECTIBLE_NAMES,
+  LIBSETS_TABLEKEY_NEWSETIDS,
+  LIBSETS_TABLEKEY_SETITEMIDS,
+  LIBSETS_TABLEKEY_SETNAMES,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-04/eso-enums-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"

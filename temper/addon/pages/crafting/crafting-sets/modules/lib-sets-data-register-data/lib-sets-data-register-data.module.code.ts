@@ -20,7 +20,17 @@ import { ZONE_IDS_OF_NEWER_API_VERSION } from "akasha/temper/addon/pages/craftin
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets-api/lib-sets-api.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import {
+  LIBSETS_TABLEKEY_SETITEMIDS,
+  LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID,
+  LIBSETS_TABLEKEY_SETNAMES,
+  LIBSETS_TABLEKEY_SETNAMES_NO_SETID,
+  LIBSETS_TABLEKEY_SETS_ARMOR_TYPES,
+  LIBSETS_TABLEKEY_SETS_EQUIP_TYPES,
+  LIBSETS_TABLEKEY_SETS_JEWELRY,
+  LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES,
+  LIBSETS_TABLEKEY_WAYSHRINENODEID2ZONEID,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"

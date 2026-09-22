@@ -9,7 +9,19 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import {
+  LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES,
+  LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES,
+  LIBSETS_TABLEKEY_DUNGEONFINDER_DATA,
+  LIBSETS_TABLEKEY_MAPS,
+  LIBSETS_TABLEKEY_NEWSETIDS,
+  LIBSETS_TABLEKEY_SETITEMIDS,
+  LIBSETS_TABLEKEY_SETITEMIDS_COMPRESSED,
+  LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID,
+  LIBSETS_TABLEKEY_SETNAMES,
+  LIBSETS_TABLEKEY_WAYSHRINE_NAMES,
+  LIBSETS_TABLEKEY_ZONE_DATA,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"

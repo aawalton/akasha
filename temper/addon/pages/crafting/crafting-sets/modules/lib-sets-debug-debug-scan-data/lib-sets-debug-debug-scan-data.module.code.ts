@@ -20,7 +20,25 @@ import {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import {
+  LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES,
+  LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES,
+  LIBSETS_TABLEKEY_COLLECTIBLE_NAMES,
+  LIBSETS_TABLEKEY_DUNGEONFINDER_DATA,
+  LIBSETS_TABLEKEY_MAPS,
+  LIBSETS_TABLEKEY_MIXED_SETNAMES,
+  LIBSETS_TABLEKEY_SETITEMIDS,
+  LIBSETS_TABLEKEY_SETITEMIDS_COMPRESSED,
+  LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID,
+  LIBSETS_TABLEKEY_SETNAMES,
+  LIBSETS_TABLEKEY_SETS_ARMOR_TYPES,
+  LIBSETS_TABLEKEY_SETS_EQUIP_TYPES,
+  LIBSETS_TABLEKEY_SETS_JEWELRY,
+  LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES,
+  LIBSETS_TABLEKEY_WAYSHRINE_NAMES,
+  LIBSETS_TABLEKEY_WAYSHRINES,
+  LIBSETS_TABLEKEY_ZONE_DATA,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
@@ -255,16 +273,7 @@ function debugResetSavedVariables(
   const onlyNamesText = !only ? "" : " of names"
   lib.LoadSavedVariables()
   const sv = asPresent(lib.svDebugData)
-  if (only === true) {
-    sv[LIBSETS_TABLEKEY_MAPS] = undefined
-    sv[LIBSETS_TABLEKEY_WAYSHRINE_NAMES] = undefined
-    sv[LIBSETS_TABLEKEY_ZONE_DATA] = undefined
-    sv[LIBSETS_TABLEKEY_MIXED_SETNAMES] = undefined
-    sv[LIBSETS_TABLEKEY_SETNAMES] = undefined
-    sv[LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES] = undefined
-    sv[LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES] = undefined
-    sv[LIBSETS_TABLEKEY_COLLECTIBLE_NAMES] = undefined
-  } else {
+  if (only !== true) {
     sv[LIBSETS_TABLEKEY_SETITEMIDS] = undefined
     sv[LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID] = undefined
     sv[LIBSETS_TABLEKEY_SETITEMIDS_COMPRESSED] = undefined
@@ -274,16 +283,15 @@ function debugResetSavedVariables(
     sv[LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES] = undefined
     sv[LIBSETS_TABLEKEY_WAYSHRINES] = undefined
     sv[LIBSETS_TABLEKEY_DUNGEONFINDER_DATA] = undefined
-
-    sv[LIBSETS_TABLEKEY_MAPS] = undefined
-    sv[LIBSETS_TABLEKEY_WAYSHRINE_NAMES] = undefined
-    sv[LIBSETS_TABLEKEY_ZONE_DATA] = undefined
-    sv[LIBSETS_TABLEKEY_MIXED_SETNAMES] = undefined
-    sv[LIBSETS_TABLEKEY_SETNAMES] = undefined
-    sv[LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES] = undefined
-    sv[LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES] = undefined
-    sv[LIBSETS_TABLEKEY_COLLECTIBLE_NAMES] = undefined
   }
+  sv[LIBSETS_TABLEKEY_MAPS] = undefined
+  sv[LIBSETS_TABLEKEY_WAYSHRINE_NAMES] = undefined
+  sv[LIBSETS_TABLEKEY_ZONE_DATA] = undefined
+  sv[LIBSETS_TABLEKEY_MIXED_SETNAMES] = undefined
+  sv[LIBSETS_TABLEKEY_SETNAMES] = undefined
+  sv[LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES] = undefined
+  sv[LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES] = undefined
+  sv[LIBSETS_TABLEKEY_COLLECTIBLE_NAMES] = undefined
   d(libPrefix + "Cleared all SavedVariables" + onlyNamesText + " in file '" + MAJOR + ".lua'.")
   if (noReload === true) {
     return
