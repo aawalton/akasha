@@ -1401,7 +1401,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/add-filter-id/add-filter-id.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/add-sort-button/add-sort-button.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/build-values-from-fields/build-values-from-fields.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/button-group/button-group.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/chip-list/chip-list.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/chip/chip.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/collapsible-group-section/collapsible-group-section.module.ts"}

@@ -11,7 +11,6 @@ export const designInterfacePattern = {
     "module/add-filter-id",
     "module/add-sort-button",
     "module/build-values-from-fields",
-    "module/button-group",
     "module/chip",
     "module/chip-list",
     "module/collapsible-group-section",
