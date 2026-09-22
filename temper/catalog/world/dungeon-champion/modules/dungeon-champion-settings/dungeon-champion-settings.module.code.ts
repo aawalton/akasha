@@ -93,7 +93,7 @@ export function createSettingsMenu(this: void): undefined {
     const iconHost = refreshable[0]
     const dropdownHost = refreshable[1]
     if (iconHost === undefined || dropdownHost === undefined) {
-      CALLBACK_MANAGER.UnregisterCallback("LAM-PanelControlsCreated", createIcons)
+      CALLBACK_MANAGER.UnregisterCallback("TemperAddonMenu-PanelControlsCreated", createIcons)
       return undefined
     }
 
@@ -111,10 +111,10 @@ export function createSettingsMenu(this: void): undefined {
       setTextureColor(unknownIcon, sv.incompleteColor)
       setTextureColor(collectedIcon, sv.completeColor)
     }
-    CALLBACK_MANAGER.UnregisterCallback("LAM-PanelControlsCreated", createIcons)
+    CALLBACK_MANAGER.UnregisterCallback("TemperAddonMenu-PanelControlsCreated", createIcons)
     return undefined
   }
-  CALLBACK_MANAGER.RegisterCallback("LAM-PanelControlsCreated", createIcons)
+  CALLBACK_MANAGER.RegisterCallback("TemperAddonMenu-PanelControlsCreated", createIcons)
 
   const optionsTable: LamControlData[] = [
     header(getUiString("DCS_MAPPINS_HEADER")),

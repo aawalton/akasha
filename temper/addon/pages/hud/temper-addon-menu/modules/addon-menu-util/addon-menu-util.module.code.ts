@@ -256,7 +256,7 @@ export function requestRefreshIfNeeded(this: void, control: LamControl): undefin
   const panel = getTopPanel(control)
   const panelData = panel.data
   if (panelData.registerForRefresh) {
-    cm.FireCallbacks("LAM-RefreshPanel", control)
+    cm.FireCallbacks("TemperAddonMenu-RefreshPanel", control)
   }
   refreshReloadUIButton()
 }

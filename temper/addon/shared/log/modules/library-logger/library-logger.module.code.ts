@@ -3,7 +3,7 @@ import "akasha/temper/addon/type/temper-debug-logger-global/temper-debug-logger-
 
 export function createLogger(this: void, identifier: string): DebugLogger {
   if (TemperDebugLogger === undefined) {
-    error(`${identifier} requires LibDebugLogger`)
+    error(`${identifier} requires TemperDebugLogger`)
   }
   return TemperDebugLogger(identifier)
 }

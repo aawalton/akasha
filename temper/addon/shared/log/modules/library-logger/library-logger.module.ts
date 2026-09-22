@@ -13,7 +13,7 @@ export const libraryLogger = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "LibDebugLogger is loaded before the library asking for a log.",
+      statement: "TemperDebugLogger is loaded before the library asking for a log.",
     },
   ],
 } as const satisfies Module

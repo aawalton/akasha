@@ -107,7 +107,7 @@ lib.Slash = function (this: void, ...args: unknown[]): undefined {
   }
 
   if (command !== "stall") {
-    d("[LibAsync] Unknown command. Use /async stall <number> or /async stall default.")
+    d("[TemperAsync] Unknown command. Use /async stall <number> or /async stall default.")
     return
   }
 
@@ -116,7 +116,7 @@ lib.Slash = function (this: void, ...args: unknown[]): undefined {
     if (fps < ASYNC_MIN_STALL_THRESHOLD) {
       d(
         string.format(
-          "[LibAsync] Invalid FPS value. The stall threshold must be at least %d FPS. Use /async stall <number>.",
+          "[TemperAsync] Invalid FPS value. The stall threshold must be at least %d FPS. Use /async stall <number>.",
           ASYNC_MIN_STALL_THRESHOLD
         )
       )
@@ -125,7 +125,7 @@ lib.Slash = function (this: void, ...args: unknown[]): undefined {
     if (fps > UPPER_FPS_BOUND) {
       d(
         string.format(
-          "[LibAsync] Invalid FPS value. The stall threshold must be no greater than %d FPS. Use /async stall <number>.",
+          "[TemperAsync] Invalid FPS value. The stall threshold must be no greater than %d FPS. Use /async stall <number>.",
           UPPER_FPS_BOUND
         )
       )
@@ -136,7 +136,7 @@ lib.Slash = function (this: void, ...args: unknown[]): undefined {
       sv.ASYNC_STALL_THRESHOLD = adjustedFps
     }
     S.asyncStallThreshold = adjustedFps
-    d(string.format("[LibAsync] Stall threshold set to %d FPS.", adjustedFps))
+    d(string.format("[TemperAsync] Stall threshold set to %d FPS.", adjustedFps))
   } else if (type(argValue) === "string" && (argValue as string) === "default") {
     if (sv !== undefined) {
       sv.ASYNC_STALL_THRESHOLD = ASYNC_DEFAULT_STALL_THRESHOLD
@@ -144,11 +144,11 @@ lib.Slash = function (this: void, ...args: unknown[]): undefined {
     S.asyncStallThreshold = ASYNC_DEFAULT_STALL_THRESHOLD
     d(
       string.format(
-        "[LibAsync] Stall threshold reset to the default value of %d FPS.",
+        "[TemperAsync] Stall threshold reset to the default value of %d FPS.",
         ASYNC_DEFAULT_STALL_THRESHOLD
       )
     )
   } else {
-    d("[LibAsync] Invalid argument. Use /async stall <number> or /async stall default.")
+    d("[TemperAsync] Invalid argument. Use /async stall <number> or /async stall default.")
   }
 }

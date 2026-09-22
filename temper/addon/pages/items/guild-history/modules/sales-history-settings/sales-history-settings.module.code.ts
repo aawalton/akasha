@@ -196,7 +196,7 @@ internal.InitializeSettingsMenu = function (this: HistoryInternal): undefined {
   const panel = registerPanel(lam, "TemperItemsSalesHistoryOptions", panelData, optionsData)
 
   CALLBACK_MANAGER.RegisterCallback(
-    "LAM-PanelControlsCreated",
+    "TemperAddonMenu-PanelControlsCreated",
     (openedPanel: unknown): undefined => {
       if (panel !== openedPanel) {
         return

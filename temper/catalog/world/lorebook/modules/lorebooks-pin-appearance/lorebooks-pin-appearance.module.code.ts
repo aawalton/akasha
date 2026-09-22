@@ -100,10 +100,10 @@ export function addPinAppearanceOptions(
       collectedIconEidetic.SetDimensions(db.pinTexture.size, db.pinTexture.size)
       collectedIconEidetic.SetDesaturation(db.pinTextureEidetic === PIN_ICON_REAL ? 1 : 0)
 
-      CALLBACK_MANAGER.UnregisterCallback("LAM-PanelControlsCreated", createIcons)
+      CALLBACK_MANAGER.UnregisterCallback("TemperAddonMenu-PanelControlsCreated", createIcons)
     }
   }
-  CALLBACK_MANAGER.RegisterCallback("LAM-PanelControlsCreated", createIcons)
+  CALLBACK_MANAGER.RegisterCallback("TemperAddonMenu-PanelControlsCreated", createIcons)
 
   const setLayoutKeyAndRefresh = (pin: string, key: string, value: unknown): undefined => {
     MAP_PINS.SetLayoutKey(pin, key, value)

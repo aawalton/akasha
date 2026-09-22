@@ -37,7 +37,7 @@ export const shifterBox = asShifterBoxHandle(lib)
 
 export function initShifterBox(this: void): undefined {
   if (TemperAddonMenu !== undefined) {
-    CM.RegisterCallback("LAM-PanelClosed", checkIfDraggedAndDisableUpdateHandler)
+    CM.RegisterCallback("TemperAddonMenu-PanelClosed", checkIfDraggedAndDisableUpdateHandler)
   }
   return undefined
 }

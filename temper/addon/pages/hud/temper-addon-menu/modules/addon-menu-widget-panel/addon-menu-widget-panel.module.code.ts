@@ -78,7 +78,7 @@ function forceDefaults(this: LamControl): undefined {
     this.data.resetFunc(this)
   }
 
-  cm.FireCallbacks("LAM-RefreshPanel", this)
+  cm.FireCallbacks("TemperAddonMenu-RefreshPanel", this)
 }
 
 let callbackRegistered = false
@@ -217,7 +217,7 @@ function createPanel(
   }
 
   if (panelData.registerForRefresh === true && !callbackRegistered) {
-    cm.RegisterCallback("LAM-RefreshPanel", refreshPanel)
+    cm.RegisterCallback("TemperAddonMenu-RefreshPanel", refreshPanel)
     callbackRegistered = true
   }
 
