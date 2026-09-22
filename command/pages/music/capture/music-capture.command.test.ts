@@ -30,6 +30,8 @@ import {
   FILED_HEARD_ID,
   FILED_ONCE,
   FILED_PLAY_KEY,
+  FROM_OBSERVED,
+  FROM_PRIOR_WINDOW,
   foldedInto,
   GIVEN,
   LANDED,
@@ -99,7 +101,7 @@ test("a priming run files every play and scores no first listen", () => {
   expect(planned.firstListens).toBe(0)
   expect(planned.newMusicMinutes).toBe(0)
   expect(rowsIn(planned, "2026-08-21").map((one) => one["firstListen"])).toEqual([false, false])
-  expect(planned.heard[0]?.["heardSource"]).toBe("seed-prior-window")
+  expect(planned.heard[0]?.["heardSource"]).toBe(FROM_PRIOR_WINDOW)
 })
 
 test("a run that is no priming run scores a first listen for a track never heard", () => {
@@ -107,7 +109,7 @@ test("a run that is no priming run scores a first listen for a track never heard
   expect(planned.primed).toBe(false)
   expect(planned.firstListens).toBe(1)
   expect(planned.newMusicMinutes).toBe(2)
-  expect(planned.heard[0]?.["heardSource"]).toBe("observed")
+  expect(planned.heard[0]?.["heardSource"]).toBe(FROM_OBSERVED)
 })
 
 test("a track already heard scores no first listen and reaches the ledger no again", () => {

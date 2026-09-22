@@ -1,4 +1,7 @@
 import { join } from "node:path"
+import { heardSource } from "akasha/alan/music/listening/heard-music/heard-source/heard-source.page-type.ts"
+import { observed } from "akasha/alan/music/listening/heard-music/heard-source/pages/observed.heard-source.ts"
+import { seedPriorWindow } from "akasha/alan/music/listening/heard-music/heard-source/pages/seed-prior-window.heard-source.ts"
 import { getRecentlyPlayed } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
@@ -60,9 +63,9 @@ const NEWLINE = "\n"
 
 const MAX_RECENTLY_PLAYED = 50
 
-const OBSERVED = "observed"
+const OBSERVED = `${heardSource.slug}/${observed.slug}` as const
 
-const SEED_PRIOR_WINDOW = "seed-prior-window"
+const SEED_PRIOR_WINDOW = `${heardSource.slug}/${seedPriorWindow.slug}` as const
 
 const NOTHING_NEW = "nothing was played that is not already filed, so nothing landed"
 

@@ -9,7 +9,7 @@ export const tracks = {
   parts: [
     "instant-property/first-heard-at",
     "text-property/artist-name",
-    "text-property/heard-source",
+    "relation-property/heard-source",
     "text-property/spotify-track-id",
     "text-property/title-key",
     "text-property/track-name",
@@ -20,7 +20,7 @@ export const tracks = {
     { pageProperty: "text-property/track-name", required: false, many: false },
     { pageProperty: "text-property/artist-name", required: false, many: false },
     { pageProperty: "instant-property/first-heard-at", required: false, many: false },
-    { pageProperty: "text-property/heard-source", required: false, many: false },
+    { pageProperty: "relation-property/heard-source", required: false, many: false },
   ],
   decisions: [
     {

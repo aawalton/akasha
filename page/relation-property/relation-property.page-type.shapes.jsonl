@@ -72,6 +72,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"generator-kind","unique":null,"uniquePropertySlug":null,"slug":"generator","propertySlug":"generator","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-rule-goal","unique":null,"uniquePropertySlug":null,"slug":"goal","propertySlug":"goal","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-grimoire","unique":null,"uniquePropertySlug":null,"slug":"grimoire-id","propertySlug":"grimoire-id","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"heard-source","unique":null,"uniquePropertySlug":null,"slug":"heard-source","propertySlug":"heard-source","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game","unique":null,"uniquePropertySlug":null,"slug":"holding-game","propertySlug":"game","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"identity-statement-value","propertySlug":"identity-statement-value","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"image-persona","propertySlug":"persona","fileName":null,"folderName":null}

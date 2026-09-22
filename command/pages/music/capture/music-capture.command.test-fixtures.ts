@@ -1,4 +1,7 @@
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { heardSource } from "akasha/alan/music/listening/heard-music/heard-source/heard-source.page-type.ts"
+import { observed } from "akasha/alan/music/listening/heard-music/heard-source/pages/observed.heard-source.ts"
+import { seedPriorWindow } from "akasha/alan/music/listening/heard-music/heard-source/pages/seed-prior-window.heard-source.ts"
 import type {
   Asking as Asked,
   Landing,
@@ -30,6 +33,10 @@ export const PROBE_DAY = `${DAYS}/2026-09-02/day-2026-09-02.day`
 export const FILED_PLAY_KEY = "4epeNxtHy14CVAP1rePJCs@2026-08-21T12:31:13.556Z"
 
 export const FILED_HEARD_ID = "4yszZzrtrgEnCiuKNeKbpY"
+
+export const FROM_OBSERVED = `${heardSource.slug}/${observed.slug}`
+
+export const FROM_PRIOR_WINDOW = `${heardSource.slug}/${seedPriorWindow.slug}`
 
 export const NONE: Ledger = {
   playKeys: new Set(),
