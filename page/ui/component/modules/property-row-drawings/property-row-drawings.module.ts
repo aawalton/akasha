@@ -5,6 +5,6 @@ export const propertyRowDrawings = {
   type: "page-type/module",
   slug: "property-row-drawings",
   definition:
-    "the row each page type draws a property's label with its value as, gathered by the bundler",
+    "the row each page type draws a property's label with its value as, taken by the bundler",
   code: "ts",
 } as const satisfies Module

@@ -4,7 +4,7 @@ export const dataEncodeDictionary = {
   id: "01a06061-969f-7e3e-b218-3d402a626bde",
   type: "page-type/module",
   slug: "data-encode-dictionary",
-  definition: "the repeated values of a table gathered so each is written out once",
+  definition: "the repeated values of a table put in a dictionary so each is written out once",
   code: "ts",
   decisions: [
     {

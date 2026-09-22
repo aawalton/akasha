@@ -4,7 +4,7 @@ export const keybinderCasts = {
   id: "01a06381-67c1-74e3-a405-6c6a7d592238",
   type: "page-type/module",
   slug: "keybinder-casts",
-  definition: "every cast this add-on makes, gathered where they can be counted",
+  definition: "every cast this add-on makes, kept where they can be counted",
   code: "ts",
   decisions: [
     {

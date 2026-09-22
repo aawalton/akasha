@@ -4,7 +4,7 @@ export const setsGenSetInfo = {
   id: "01a061fc-cee5-75d4-9e8c-3b140c7e89cc",
   type: "page-type/module",
   slug: "sets-gen-set-info",
-  definition: "the whole set info table gathered from its 12 set id range parts",
+  definition: "the whole set info table taken from its 12 set id range parts",
   decisions: [
     {
       decisionKind: "decision-kind/constraint",

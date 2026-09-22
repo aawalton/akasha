@@ -5,7 +5,7 @@ export const collectRelatedIds = {
   type: "page-type/module",
   slug: "collect-related-ids",
   definition:
-    "what a set of pages name through their relations, gathered by page type and by how it is asked",
+    "what a set of pages name through their relations, filed by page type and by how it is asked",
   code: "ts",
   test: "ts",
   decisions: [

@@ -4,7 +4,7 @@ export const setsCoreApiSetInfo = {
   id: "01a06231-8f1d-7816-b46e-caba9de72027",
   type: "page-type/module",
   slug: "sets-core-api-set-info",
-  definition: "everything known about a set gathered into a single table",
+  definition: "everything known about a set put into a single table",
   code: "ts",
   decisions: [
     {

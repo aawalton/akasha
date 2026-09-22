@@ -4,7 +4,7 @@ export const housingLibraryDataEu = {
   id: "01a06113-b7ce-77ca-bda6-f521aa196130",
   type: "page-type/module",
   slug: "housing-library-data-eu",
-  definition: "the European community library, gathered from its six parts in turn",
+  definition: "the European community library, taken from its six parts in turn",
   code: "ts",
   decisions: [
     {

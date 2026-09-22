@@ -4,7 +4,7 @@ export const characterFiling = {
   id: "01a0b6fd-c7fa-7619-85e1-ecea58423500",
   type: "page-type/module",
   slug: "character-filing",
-  definition: "a world's characters filed from what a reading of its chapters gathered",
+  definition: "a world's characters filed from what a reading of its chapters found",
   code: "ts",
   decisions: [
     {

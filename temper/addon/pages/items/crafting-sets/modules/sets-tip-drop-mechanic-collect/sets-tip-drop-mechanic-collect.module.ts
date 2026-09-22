@@ -4,7 +4,7 @@ export const setsTipDropMechanicCollect = {
   id: "01a06231-8f1e-710d-bc09-a50c2ddb141c",
   type: "page-type/module",
   slug: "sets-tip-drop-mechanic-collect",
-  definition: "the zone and mechanic names for a set gathered into the shared scratch tables",
+  definition: "the zone and mechanic names for a set put into the shared scratch tables",
   code: "ts",
   decisions: [
     {
