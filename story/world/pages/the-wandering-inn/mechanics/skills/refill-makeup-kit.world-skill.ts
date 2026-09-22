@@ -6,5 +6,6 @@ export const refillMakeupKit = {
   slug: "refill-makeup-kit",
   title: "Refill Makeup Kit",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

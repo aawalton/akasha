@@ -6,5 +6,6 @@ export const reviveGolemAutonomous = {
   slug: "revive-golem-autonomous",
   title: "Revive Golem (Autonomous)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const repetitiveTask110Efficiency = {
   slug: "repetitive-task-110-efficiency",
   title: "Repetitive Task: 110% Efficiency",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

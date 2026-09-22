@@ -6,5 +6,6 @@ export const rewardOfTheLoyalBlessingOfEvolution = {
   slug: "reward-of-the-loyal-blessing-of-evolution",
   title: "Reward of the Loyal: Blessing of Evolution",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

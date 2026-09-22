@@ -6,5 +6,6 @@ export const removeStubbornStain = {
   slug: "remove-stubborn-stain",
   title: "Remove Stubborn Stain",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

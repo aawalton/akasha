@@ -6,5 +6,6 @@ export const realmOfTheEternalTempest = {
   slug: "realm-of-the-eternal-tempest",
   title: "Realm of the Eternal Tempest",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

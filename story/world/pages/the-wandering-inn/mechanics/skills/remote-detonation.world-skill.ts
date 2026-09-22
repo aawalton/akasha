@@ -6,5 +6,6 @@ export const remoteDetonation = {
   slug: "remote-detonation",
   title: "Remote Detonation",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   references: "jsonl",
 } as const satisfies WorldSkill

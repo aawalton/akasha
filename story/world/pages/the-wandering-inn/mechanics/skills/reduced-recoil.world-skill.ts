@@ -6,5 +6,6 @@ export const reducedRecoil = {
   slug: "reduced-recoil",
   title: "Reduced Recoil",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

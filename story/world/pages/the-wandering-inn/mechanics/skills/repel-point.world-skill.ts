@@ -6,5 +6,6 @@ export const repelPoint = {
   slug: "repel-point",
   title: "Repel Point",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

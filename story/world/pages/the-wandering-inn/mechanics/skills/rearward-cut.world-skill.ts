@@ -6,5 +6,6 @@ export const rearwardCut = {
   slug: "rearward-cut",
   title: "Rearward Cut",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

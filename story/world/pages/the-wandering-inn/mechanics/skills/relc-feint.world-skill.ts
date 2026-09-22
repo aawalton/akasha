@@ -6,5 +6,6 @@ export const relcFeint = {
   slug: "relc-feint",
   title: "Relc Feint",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

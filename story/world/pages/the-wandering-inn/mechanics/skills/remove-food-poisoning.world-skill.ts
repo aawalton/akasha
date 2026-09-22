@@ -6,5 +6,6 @@ export const removeFoodPoisoning = {
   slug: "remove-food-poisoning",
   title: "Remove Food Poisoning",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

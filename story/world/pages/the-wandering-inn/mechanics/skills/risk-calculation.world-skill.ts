@@ -6,5 +6,6 @@ export const riskCalculation = {
   slug: "risk-calculation",
   title: "Risk Calculation",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   references: "jsonl",
 } as const satisfies WorldSkill

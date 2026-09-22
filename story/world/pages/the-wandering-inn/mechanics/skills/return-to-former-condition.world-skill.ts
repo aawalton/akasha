@@ -6,5 +6,6 @@ export const returnToFormerCondition = {
   slug: "return-to-former-condition",
   title: "Return to Former Condition",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const rayOfSunfire = {
   slug: "ray-of-sunfire",
   title: "Ray of Sunfire",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

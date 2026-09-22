@@ -6,5 +6,6 @@ export const redirectMomentum = {
   slug: "redirect-momentum",
   title: "Redirect Momentum",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

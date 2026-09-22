@@ -6,5 +6,6 @@ export const repairFabricMinor = {
   slug: "repair-fabric-minor",
   title: "Repair Fabric (Minor)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

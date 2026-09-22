@@ -6,5 +6,6 @@ export const recallWeapon = {
   slug: "recall-weapon",
   title: "Recall Weapon",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const resetLeap = {
   slug: "reset-leap",
   title: "Reset Leap",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

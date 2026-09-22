@@ -6,5 +6,6 @@ export const remoteAirstrikesDeathFromAbove = {
   slug: "remote-airstrikes-death-from-above",
   title: "Remote Airstrikes: Death From Above",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

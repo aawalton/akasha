@@ -6,5 +6,6 @@ export const retractLine = {
   slug: "retract-line",
   title: "Retract Line",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

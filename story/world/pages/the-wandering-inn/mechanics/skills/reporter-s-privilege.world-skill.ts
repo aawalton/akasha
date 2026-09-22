@@ -6,5 +6,6 @@ export const reporterSPrivilege = {
   slug: "reporter-s-privilege",
   title: "Reporter’s Privilege",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

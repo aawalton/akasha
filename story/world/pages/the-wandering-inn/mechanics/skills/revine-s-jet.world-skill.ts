@@ -6,5 +6,6 @@ export const revineSJet = {
   slug: "revine-s-jet",
   title: "Revine’s Jet",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

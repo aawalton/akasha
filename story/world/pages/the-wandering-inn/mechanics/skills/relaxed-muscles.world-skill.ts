@@ -6,5 +6,6 @@ export const relaxedMuscles = {
   slug: "relaxed-muscles",
   title: "Relaxed Muscles",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

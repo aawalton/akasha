@@ -6,5 +6,6 @@ export const retainHeat = {
   slug: "retain-heat",
   title: "Retain Heat",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

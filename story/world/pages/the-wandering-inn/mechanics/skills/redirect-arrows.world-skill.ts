@@ -6,5 +6,6 @@ export const redirectArrows = {
   slug: "redirect-arrows",
   title: "Redirect Arrows",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

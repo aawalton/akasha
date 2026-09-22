@@ -6,5 +6,6 @@ export const restedFedAppreciatedAndPaidMyWorkersSurpassedMundanity = {
   slug: "rested-fed-appreciated-and-paid-my-workers-surpassed-mundanity",
   title: "Rested, Fed, Appreciated and Paid, My Workers Surpassed Mundanity",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

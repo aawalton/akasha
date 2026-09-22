@@ -6,5 +6,6 @@ export const reanimationReclaimEarthlyPossessions = {
   slug: "reanimation-reclaim-earthly-possessions",
   title: "Reanimation: Reclaim Earthly Possessions",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

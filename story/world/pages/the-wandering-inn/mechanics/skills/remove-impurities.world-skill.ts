@@ -6,5 +6,6 @@ export const removeImpurities = {
   slug: "remove-impurities",
   title: "Remove Impurities",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const reputationInfamyNowMyFame = {
   slug: "reputation-infamy-now-my-fame",
   title: "Reputation: Infamy, Now My Fame",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const reputationANameEveryChildKnows = {
   slug: "reputation-a-name-every-child-knows",
   title: "Reputation: A Name Every Child Knows",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const rapidAdvance = {
   slug: "rapid-advance",
   title: "Rapid Advance",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   references: "jsonl",
 } as const satisfies WorldSkill

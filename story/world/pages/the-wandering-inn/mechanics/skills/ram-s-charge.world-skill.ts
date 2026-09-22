@@ -6,5 +6,6 @@ export const ramSCharge = {
   slug: "ram-s-charge",
   title: "Ram’s Charge",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const rhinoBeetleSkin = {
   slug: "rhino-beetle-skin",
   title: "Rhino Beetle Skin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

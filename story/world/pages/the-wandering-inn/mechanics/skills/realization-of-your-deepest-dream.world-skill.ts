@@ -6,5 +6,6 @@ export const realizationOfYourDeepestDream = {
   slug: "realization-of-your-deepest-dream",
   title: "Realization of Your Deepest Dream",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

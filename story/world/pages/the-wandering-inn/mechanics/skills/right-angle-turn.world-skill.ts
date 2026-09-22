@@ -6,5 +6,6 @@ export const rightAngleTurn = {
   slug: "right-angle-turn",
   title: "Right-Angle Turn",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

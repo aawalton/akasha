@@ -6,5 +6,6 @@ export const recallMemory = {
   slug: "recall-memory",
   title: "Recall Memory",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   references: "jsonl",
 } as const satisfies WorldSkill

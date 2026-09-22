@@ -6,5 +6,6 @@ export const remoteManagement = {
   slug: "remote-management",
   title: "Remote Management",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

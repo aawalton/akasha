@@ -6,5 +6,6 @@ export const recreateMyIconicLook = {
   slug: "recreate-my-iconic-look",
   title: "Recreate My Iconic Look",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

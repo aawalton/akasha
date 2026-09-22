@@ -6,5 +6,6 @@ export const reconstructionRebuildItBetterEachAndEveryTime = {
   slug: "reconstruction-rebuild-it-better-each-and-every-time",
   title: "Reconstruction: Rebuild it Better, Each and Every Time",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

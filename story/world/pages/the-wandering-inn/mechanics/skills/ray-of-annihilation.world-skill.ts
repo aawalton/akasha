@@ -6,5 +6,6 @@ export const rayOfAnnihilation = {
   slug: "ray-of-annihilation",
   title: "Ray of Annihilation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

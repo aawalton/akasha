@@ -6,5 +6,6 @@ export const resistElementAcid = {
   slug: "resist-element-acid",
   title: "Resist Element: Acid",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

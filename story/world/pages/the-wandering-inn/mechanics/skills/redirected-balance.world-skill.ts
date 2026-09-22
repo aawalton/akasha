@@ -6,5 +6,6 @@ export const redirectedBalance = {
   slug: "redirected-balance",
   title: "Redirected Balance",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

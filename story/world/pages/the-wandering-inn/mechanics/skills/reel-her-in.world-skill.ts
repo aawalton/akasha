@@ -6,5 +6,6 @@ export const reelHerIn = {
   slug: "reel-her-in",
   title: "Reel Her In",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

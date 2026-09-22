@@ -6,5 +6,6 @@ export const realityStopTime = {
   slug: "reality-stop-time",
   title: "Reality: Stop Time",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

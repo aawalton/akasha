@@ -6,5 +6,6 @@ export const recallInventory = {
   slug: "recall-inventory",
   title: "Recall Inventory",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

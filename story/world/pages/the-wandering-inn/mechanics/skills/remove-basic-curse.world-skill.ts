@@ -6,5 +6,6 @@ export const removeBasicCurse = {
   slug: "remove-basic-curse",
   title: "Remove Basic Curse",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

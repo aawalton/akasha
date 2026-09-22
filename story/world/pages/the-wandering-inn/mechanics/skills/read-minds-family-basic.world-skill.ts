@@ -6,5 +6,6 @@ export const readMindsFamilyBasic = {
   slug: "read-minds-family-basic",
   title: "Read Minds: Family (Basic)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

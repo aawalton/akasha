@@ -6,5 +6,6 @@ export const reconfigureAuraHaste = {
   slug: "reconfigure-aura-haste",
   title: "Reconfigure Aura: Haste",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
