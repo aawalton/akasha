@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"listed-name.text-property.types.ts","path":"story/game/location/properties/location-conditions.record-property.types.ts"}
 {"propertySlug":"import","fileName":"listed-name.text-property.types.ts","path":"story/game/location/properties/location-things.record-property.types.ts"}
 {"propertySlug":"import","fileName":"listed-name.text-property.types.ts","path":"story/game/turn/properties/system-window.record-property.types.ts"}
+{"propertySlug":"import","fileName":"listed-name.text-property.types.ts","path":"story/game/turn/properties/turn-derived.record-property.types.ts"}
 {"propertySlug":"import","fileName":"listed-name.text-property.types.ts","path":"story/game/turn/properties/turn-pools.record-property.types.ts"}
 {"propertySlug":"page-property","path":"story/game/encounter/properties/encounter-gates.record-property.ts","id":"01a0c648-61be-7877-89a6-1452a1e9b7aa"}
 {"propertySlug":"page-property","path":"story/game/entity/properties/entity-affinities.record-property.ts","id":"01a0c638-e681-7f8b-9e65-06059960ba7c"}
@@ -19,5 +20,6 @@
 {"propertySlug":"page-property","path":"story/game/location/properties/location-conditions.record-property.ts","id":"01a0c645-074c-72ea-9eb7-28ffdb438ce9"}
 {"propertySlug":"page-property","path":"story/game/location/properties/location-things.record-property.ts","id":"01a0c646-0dc8-7dee-9127-0870839eb9fd"}
 {"propertySlug":"page-property","path":"story/game/turn/properties/system-window.record-property.ts","id":"01a0c680-3679-76c4-9c9a-ac85779d4f39"}
+{"propertySlug":"page-property","path":"story/game/turn/properties/turn-derived.record-property.ts","id":"01a0c69f-b3f2-755e-a4ad-bdd88364044c"}
 {"propertySlug":"page-property","path":"story/game/turn/properties/turn-pools.record-property.ts","id":"01a0c69c-5e8f-723a-a541-33dd17912c80"}
 {"propertySlug":"parts","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}

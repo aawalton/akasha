@@ -1,0 +1,1 @@
+export type DerivedNumber = number
