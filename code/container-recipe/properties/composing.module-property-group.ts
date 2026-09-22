@@ -8,5 +8,5 @@ export const composing = {
   type: "page-type/module-property-group",
   slug: "composing",
   propertySlug: "composing",
-  definition: "what composes the steps a container image is built from",
+  definition: "what composes the steps building a container image",
 } as const satisfies ModulePropertyGroup

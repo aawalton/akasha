@@ -4,7 +4,7 @@ export const value = {
   id: "01a06553-f65f-71f6-898f-df18f6561396",
   type: "page-type/page-type",
   slug: "value",
-  definition: "what a person is spending their life on",
+  definition: "the thing on which a person spends their life",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "value" },
     { partOfSpeech: "part-of-speech/noun", spelling: "values" },

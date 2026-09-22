@@ -4,7 +4,7 @@ export const alanWebApiPushRegister = {
   id: "01a08834-9fa8-7538-bb21-73af9a36b58d",
   type: "page-type/route",
   slug: "alan-web-api-push-register",
-  definition: "the token a reader's app is sent a push at",
+  definition: "the push token of a reader's app",
   code: "ts",
   urlPath: "api/push/register",
   decisions: [

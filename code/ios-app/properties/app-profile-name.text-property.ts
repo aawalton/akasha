@@ -5,7 +5,7 @@ export const appProfileName = {
   type: "page-type/text-property",
   slug: "app-profile-name",
   propertySlug: "app-profile-name",
-  definition: "the App Store profile an app is signed with",
+  definition: "an app's App Store profile",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

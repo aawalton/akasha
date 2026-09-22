@@ -5,7 +5,7 @@ export const changeTargetSubtype = {
   type: "page-type/relation-property",
   slug: "change-target-subtype",
   propertySlug: "change-target-subtype",
-  definition: "the change target subtype a change acts on",
+  definition: "the change target subtype on which a change acts",
   targetPageType: "page-type/change-target-subtype",
   types: "ts",
 } as const satisfies RelationProperty

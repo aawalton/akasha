@@ -5,7 +5,7 @@ export const writtenBy = {
   type: "page-type/text-property",
   slug: "written-by",
   propertySlug: "written-by",
-  definition: "the command a generated declaration is written again by",
+  definition: "the command writing a generated declaration again",
   maxLength: 100,
   nameFormat: null,
   decisions: [

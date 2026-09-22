@@ -4,7 +4,7 @@ export const findingTreeIds = {
   id: "01a0b733-1335-7905-aadc-12b4dd01c4a9",
   type: "page-type/module",
   slug: "finding-tree-ids",
-  definition: "the strings the editor knows the finding tree's view and refresh command by",
+  definition: "the strings by which the editor knows the finding tree's view and refresh command",
   code: "ts",
   decisions: [
     {

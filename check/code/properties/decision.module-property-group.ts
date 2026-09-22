@@ -8,5 +8,5 @@ export const decision = {
   type: "page-type/module-property-group",
   slug: "decision",
   propertySlug: "decision",
-  definition: "what a check and an audit both judge by",
+  definition: "the code by which a check and an audit both judge",
 } as const satisfies ModulePropertyGroup

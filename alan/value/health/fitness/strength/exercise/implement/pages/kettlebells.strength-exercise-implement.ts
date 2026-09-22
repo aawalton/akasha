@@ -4,5 +4,5 @@ export const kettlebells = {
   id: "01a09414-cd0a-7962-a126-e4955099e716",
   type: "page-type/strength-exercise-implement",
   slug: "kettlebells",
-  definition: "a cast weight hanging below the handle it is held by",
+  definition: "a cast weight hanging below its handle",
 } as const satisfies StrengthExerciseImplement

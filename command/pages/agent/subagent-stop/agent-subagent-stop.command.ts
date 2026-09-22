@@ -4,7 +4,7 @@ export const agentSubagentStop = {
   id: "01a09c5f-3b45-7a00-b0e7-238c94f217aa",
   type: "page-type/command",
   slug: "agent-subagent-stop",
-  definition: "the command stopping a subagent by refusing the model turns that subagent asks for",
+  definition: "the command stopping a subagent by refusing that subagent's model turns",
   code: "ts",
   test: "ts",
   decisions: [

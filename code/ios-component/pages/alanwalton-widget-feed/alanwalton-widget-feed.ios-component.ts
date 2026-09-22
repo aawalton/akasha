@@ -4,7 +4,7 @@ export const alanwaltonWidgetFeed = {
   id: "01a05835-69d7-777a-9161-494558086ce9",
   type: "page-type/ios-component",
   slug: "alanwalton-widget-feed",
-  definition: "the fetch every tile of Alan's app draws from",
+  definition: "the fetch feeding every tile of Alan's app",
   swift: "swift",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const lua50Config = {
   type: "page-type/file-property",
   slug: "lua50-config",
   propertySlug: "lua50-config",
-  definition: "what a build for Lua 5.0 overlays the source tree with",
+  definition: "what a build for Lua 5.0 lays over the source tree",
   extensions: ["json"],
   fileName: "tsconfig.lua50.json",
   toolResolvesPaths: true,

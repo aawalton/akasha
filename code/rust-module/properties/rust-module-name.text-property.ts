@@ -5,7 +5,7 @@ export const rustModuleName = {
   type: "page-type/text-property",
   slug: "rust-module-name",
   propertySlug: "module-name",
-  definition: "the name Cargo reads a module's file by",
+  definition: "the name by which Cargo reads a module's file",
   maxLength: 100,
   nameFormat: "name-format/lower-snake-case",
   decisions: [

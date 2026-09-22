@@ -4,7 +4,7 @@ export const testFixture = {
   id: "01a09c17-9d01-7f25-b06d-5521c1acc95d",
   type: "page-type/page-type",
   slug: "test-fixture",
-  definition: "the world more than one module's tests are set up with",
+  definition: "the world setting up more than one module's tests",
   pluralSlug: "test-fixtures",
   parts: [
     "test-fixture/bodying",

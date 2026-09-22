@@ -5,7 +5,7 @@ export const seatToggles = {
   type: "page-type/module",
   slug: "seat-toggles",
   definition:
-    "the steps a run, a restart or a reset asks of a seat, and the line a terminal attaches by",
+    "the steps a run, a restart or a reset asks of a seat, and the line by which a terminal attaches",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
