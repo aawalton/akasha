@@ -16,7 +16,6 @@ import {
 } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/product/audhdalan/web/look/audhdalan-web-look.stylesheet.styles.css"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
 export const links: Route.LinksFunction = () => fontPreloading(geistSansWoff2)

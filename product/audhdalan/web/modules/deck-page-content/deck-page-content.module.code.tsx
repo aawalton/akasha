@@ -16,7 +16,6 @@ import {
 } from "akasha/product/audhdalan/web/modules/deck-slides/deck-slides.module.code.ts"
 import { Brain, Code, Gauge, HeartPulse } from "lucide-react"
 import { useCallback, useEffect, useState } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const ABOUT_FACT_ICONS: Record<AboutFactIcon, typeof Brain> = {
   brain: Brain,

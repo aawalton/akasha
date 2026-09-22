@@ -11,14 +11,6 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/page-card-cover/page-card-cover.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/page-table-header/page-table-header.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/archive-of-worlds/web/root.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/audhdalan/web/modules/deck-page-content/deck-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/audhdalan/web/root.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/smilingjenny/web/root.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/ui/modules/narrative-log/narrative-log.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/ui/modules/sheet-panel/sheet-panel.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/character-management-panel-card/character-management-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/companion-management-panel-card/companion-management-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"}

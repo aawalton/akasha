@@ -6,7 +6,6 @@ import { Label } from "akasha/design/interface/primitive/modules/label/label.mod
 import { CONSENT_TEXT } from "akasha/person/modules/sms-consent/sms-consent.module.code.ts"
 import { type FormEvent, useState } from "react"
 import { z } from "zod"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const ResponseSchema = z.object({ ok: z.boolean().optional(), error: z.string().optional() })

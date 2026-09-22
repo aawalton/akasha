@@ -12,7 +12,6 @@ import {
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { ClientSheet } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 function Section({ title, children }: { title: string; children: React.ReactNode }) {
   return (

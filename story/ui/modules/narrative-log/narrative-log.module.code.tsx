@@ -5,7 +5,6 @@ import { SystemCard } from "akasha/story/ui/modules/system-card/system-card.modu
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
 import { SystemWindowCard } from "akasha/story/ui/modules/system-window-card/system-window-card.module.code.tsx"
 import type { ReactNode, RefObject } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 type NarrativeClientBeat = Extract<ClientBeat, { type: "narrative" }>
 type SystemClientBeat = Extract<ClientBeat, { type: "system" }>
