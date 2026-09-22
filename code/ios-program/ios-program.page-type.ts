@@ -15,7 +15,7 @@ export const iosProgram = {
     "ios-program/smilingjenny-app",
     "ios-program/smilingjenny-decode-harness",
     "ios-program/smilingjenny-widget",
-    "relation-property/components",
+    "multi-relation-property/components",
     "text-property/profile-name",
     "text-property/target-name",
   ],
@@ -23,7 +23,7 @@ export const iosProgram = {
   properties: [
     { pageProperty: "text-property/bundle-id", required: false, many: false },
     {
-      pageProperty: "relation-property/components",
+      pageProperty: "multi-relation-property/components",
       required: false,
       many: true,
       maxCount: null,

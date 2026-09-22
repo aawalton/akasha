@@ -71,7 +71,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/ios-app/properties/asc-capabilities.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/ios-app/properties/programs.multi-relation-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/ios-program/properties/components.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/ios-program/properties/components.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/module/properties/page-body-readers.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/module/properties/reached-by-path.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/rust-crate/properties/rust-modules.relation-property.types.ts"}

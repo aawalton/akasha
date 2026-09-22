@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"check/model/properties/model-tests.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"code/ios-app/properties/programs.multi-relation-property.ts"}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"code/ios-program/properties/components.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"domain/properties/parts.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"graph/edge/properties/attributes.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"graph/predicate/properties/edges.multi-relation-property.ts"}

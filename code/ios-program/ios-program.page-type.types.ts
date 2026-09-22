@@ -1,5 +1,5 @@
 import type { BundleId } from "akasha/code/ios-app/properties/bundle-id.text-property.types.ts"
-import type { Components } from "akasha/code/ios-program/properties/components.relation-property.types.ts"
+import type { Components } from "akasha/code/ios-program/properties/components.multi-relation-property.types.ts"
 import type { Entitlements } from "akasha/code/ios-program/properties/entitlements.file-property.types.ts"
 import type { InfoPlist } from "akasha/code/ios-program/properties/info-plist.file-property.types.ts"
 import type { Main } from "akasha/code/ios-program/properties/main.code-file-property.types.ts"
