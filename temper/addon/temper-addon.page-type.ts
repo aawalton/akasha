@@ -190,6 +190,14 @@ export const temperAddon = {
       decisionKind: "decision-kind/departure",
       statement: "A library folded into one bundle loses the global that library set.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A binding reaches its addon through a global, because XML imports nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A global a binding names is spelled with the addon declaring that global.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
