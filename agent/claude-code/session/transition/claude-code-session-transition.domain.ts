@@ -4,7 +4,7 @@ export const claudeCodeSessionTransition = {
   id: "01a0c9f5-cdad-7bb4-a56e-5fa84e5c5b7e",
   type: "page-type/domain",
   slug: "claude-code-session-transition",
-  definition: "a Claude Code session's move from one state into another state",
+  definition: "a Claude Code session's move between Claude Code session states",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "Claude Code session transition" },
     { partOfSpeech: "part-of-speech/noun", spelling: "Claude Code session transitions" },
