@@ -1,3 +1,4 @@
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageNamed, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -63,48 +64,52 @@ export function reasonsIn(value: Value, keyed: Keyed): readonly string[] {
   return said
 }
 
-function keyedIn(pageTypeSlug: string, under: ReadonlySet<string>, shadow: Shadow): Keyed {
+function keyedIn(pageTypeSlug: string, under: ReadonlySet<string>, paged: Paged): Keyed {
   const found = new Map<string, string>()
-  for (const one of shadow.index.propertiesOf(pageTypeSlug)) {
+  for (const one of paged.index.propertiesOf(pageTypeSlug)) {
     if (under.has(one.pageTypeSlug)) found.set(one.key, one.pagePropertySlug)
   }
   return found
 }
 
-export function typesCarryingOne(shadow: Shadow): ReadonlySet<string> {
+function typesCarryingOne(paged: Paged): ReadonlySet<string> {
   const found = new Set<string>()
-  for (const kind of shadow.index.kindsUnder(PHONE_NUMBER)) {
-    for (const listed of shadow.index.everyOfType(kind)) {
-      for (const one of shadow.index.declaringOf(listed.id)) {
+  for (const kind of paged.index.kindsUnder(PHONE_NUMBER)) {
+    for (const listed of paged.index.everyOfType(kind)) {
+      for (const one of paged.index.declaringOf(listed.id)) {
         if (one.kind !== PAGE_TYPE) continue
-        for (const below of shadow.index.kindsUnder(one.slug)) found.add(below)
+        for (const below of paged.index.kindsUnder(one.slug)) found.add(below)
       }
     }
   }
   return found
 }
 
-export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  const under = shadow.index.kindsUnder(PHONE_NUMBER)
-  const carrying = typesCarryingOne(shadow)
+export function refusalsIn(paths: readonly string[], paged: Paged): readonly Judged[] {
+  const under = paged.index.kindsUnder(PHONE_NUMBER)
+  const carrying = typesCarryingOne(paged)
   const held = new Map<string, Keyed>()
   const keyedBy = (pageTypeSlug: string): Keyed => {
     const found = held.get(pageTypeSlug)
     if (found !== undefined) return found
-    const made = keyedIn(pageTypeSlug, under, shadow)
+    const made = keyedIn(pageTypeSlug, under, paged)
     held.set(pageTypeSlug, made)
     return made
   }
   const judged: Judged[] = []
-  for (const path of change.changed) {
+  for (const path of paths) {
     if (!pageNamed(path, carrying)) continue
     const pageTypeSlug = partedIn(path)?.pageType
     if (pageTypeSlug === undefined) continue
     const keyed = keyedBy(pageTypeSlug)
     if (keyed.size === 0) continue
-    const value = shadow.pageOf(path)
+    const value = paged.pageOf(path)
     if (value === null) continue
     for (const reason of reasonsIn(value, keyed)) judged.push({ path, reason })
   }
   return judged
+}
+
+export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
+  return refusalsIn(change.changed, shadow)
 }
