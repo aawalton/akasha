@@ -90,6 +90,18 @@ end
 __eso_env = make_env()
 __eso_make_stub = make_stub
 
+local _next = next
+
+function InsecureNext(tbl, lastKey)
+  if tbl ~= __eso_env then return _next(tbl, lastKey) end
+  if lastKey ~= nil and _rawget(__eso_env, lastKey) == nil then
+    return _next(_G, lastKey)
+  end
+  local key, held = _next(__eso_env, lastKey)
+  if key ~= nil then return key, held end
+  return _next(_G, nil)
+end
+
 function __eso_seed(name, value)
   _rawset(__eso_env, name, value)
 end

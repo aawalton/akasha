@@ -78,5 +78,15 @@ export const esoSandboxPrelude = {
       decisionKind: "decision-kind/departure",
       statement: "A value seeded by the caller is read before any stub is made.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The listing function the game gives an add-on is answered here rather than stubbed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Listing this environment gives the names seeded or stubbed here and then the real ones.",
+    },
   ],
 } as const satisfies LuaModule

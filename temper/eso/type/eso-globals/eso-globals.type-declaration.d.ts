@@ -33,6 +33,10 @@ declare const SecurePostHook: ((
 ) => void) &
   ((existingFunctionName: string, hookFunction: (this: void, ...args: never[]) => void) => void)
 
+declare const InsecureNext:
+  | ((this: void, table: object, lastKey?: unknown) => LuaMultiReturn<[unknown, unknown] | []>)
+  | undefined
+
 declare function zo_round(value: number): number
 
 declare function zo_floor(value: number): number
