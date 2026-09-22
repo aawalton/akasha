@@ -6,4 +6,5 @@ export const theTowerAlan = {
   slug: "the-tower-alan",
   title: "Alan",
   story: "story-played/the-tower",
+  person: "person/alan",
 } as const satisfies CharacterPlayer
