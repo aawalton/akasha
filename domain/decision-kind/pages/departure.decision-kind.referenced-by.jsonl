@@ -1934,6 +1934,7 @@
 {"propertySlug":"decision-kind","path":"code/type/narrowing/modules/instant-in/instant-in.module.ts","id":"01a08ede-8410-7714-9f40-0a0f13800b21"}
 {"propertySlug":"decision-kind","path":"code/type/narrowing/modules/json-value/json-value.module.ts","id":"01a05d38-69c2-7d28-9ad0-6afae06f9402"}
 {"propertySlug":"decision-kind","path":"code/type/narrowing/modules/paced-queue/paced-queue.module.ts","id":"01a08dda-ba3d-7624-b2c6-d4397c9fce94"}
+{"propertySlug":"decision-kind","path":"code/type/narrowing/modules/parse-said-text/parse-said-text.module.ts","id":"01a0c9d5-9f55-7000-a597-e77b26ef4420"}
 {"propertySlug":"decision-kind","path":"code/type/narrowing/modules/parse-timestamp/parse-timestamp.module.ts","id":"01a08dff-e11b-7ae5-995b-d7137e386294"}
 {"propertySlug":"decision-kind","path":"code/type/narrowing/modules/said-by/said-by.module.ts","id":"01a08dd6-adb6-77d6-8c13-b314dea2f9c9"}
 {"propertySlug":"decision-kind","path":"code/type/narrowing/modules/scalar-text/scalar-text.module.ts","id":"01a0909a-b4dc-7909-b0f7-ac79aba83569"}

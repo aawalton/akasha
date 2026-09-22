@@ -1037,6 +1037,7 @@
 {"propertySlug":"decision-kind","path":"code/stylesheet/stylesheet.page-type.ts","id":"01a05b01-48b1-72b3-961d-f31190becdc7"}
 {"propertySlug":"decision-kind","path":"code/type-declaration/type-declaration.page-type.ts","id":"01a0605a-98f4-7c54-8030-4fec48465bda"}
 {"propertySlug":"decision-kind","path":"code/type/narrowing/modules/escape-reg-exp/escape-reg-exp.module.ts","id":"01a08ddd-31b1-78ff-9e8a-a1d35a2b4530"}
+{"propertySlug":"decision-kind","path":"code/type/narrowing/modules/parse-said-text/parse-said-text.module.ts","id":"01a0c9d5-9f55-7000-a597-e77b26ef4420"}
 {"propertySlug":"decision-kind","path":"code/type/narrowing/modules/record-field/record-field.module.ts","id":"01a08e04-e54a-7ebc-acbf-ba372a5763fe"}
 {"propertySlug":"decision-kind","path":"code/workspace/modules/manifest-locking/manifest-locking.module.ts","id":"01a0628d-2f09-7f63-8d3a-27494e9ec287"}
 {"propertySlug":"decision-kind","path":"code/workspace/modules/package-manifest/package-manifest.module.ts","id":"01a05ae4-fc70-7000-89a5-77bf2b9786ae"}

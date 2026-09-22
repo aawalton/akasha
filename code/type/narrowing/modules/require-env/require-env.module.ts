@@ -6,4 +6,5 @@ export const requireEnv = {
   slug: "require-env",
   definition: "the environment variable under a name, refused where it is unset",
   code: "ts",
+  test: "ts",
 } as const satisfies Module

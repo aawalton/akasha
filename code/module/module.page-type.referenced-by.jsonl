@@ -1162,6 +1162,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/no-op/no-op.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/paced-queue/paced-queue.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/parse-number/parse-number.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/parse-said-text/parse-said-text.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/parse-string/parse-string.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/parse-timestamp/parse-timestamp.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/record-field/record-field.module.ts"}

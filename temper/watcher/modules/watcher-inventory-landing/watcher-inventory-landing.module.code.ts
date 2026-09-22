@@ -1,4 +1,5 @@
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
+import { parseSaidText } from "akasha/code/type/narrowing/modules/parse-said-text/parse-said-text.module.code.ts"
 import {
   type UpsertPageArgs,
   upsertPage,
@@ -139,10 +140,6 @@ function numbersIn(held: Record<number, unknown>): readonly number[] {
     .sort((one, two) => one - two)
 }
 
-function saidOnly(value: string | undefined): string | undefined {
-  return value === undefined || value === "" ? undefined : value
-}
-
 function stackRowOf(
   id: string,
   locationId: string,
@@ -187,7 +184,7 @@ function stackRowOf(
     ["setId", one.setId],
     ["known", one.known],
     ["replacementValue", one.replacementValue],
-    ["furnitureCategory", saidOnly(one.furnitureCategory)],
+    ["furnitureCategory", parseSaidText(one.furnitureCategory)],
     ["furnitureCategoryId", one.furnitureCategoryId],
     ["furnitureSubcategoryId", one.furnitureSubcategoryId],
     ["isContainer", one.isContainer],
@@ -275,8 +272,8 @@ export function placedFurnishingRowsOf(values: InventoryValues, minted: () => st
           ["furnishingKey", furnishingKey],
           ["title", one.itemName],
           ["quality", one.quality],
-          ["itemLink", saidOnly(one.itemLink)],
-          ["collectibleLink", saidOnly(one.collectibleLink)],
+          ["itemLink", parseSaidText(one.itemLink)],
+          ["collectibleLink", parseSaidText(one.collectibleLink)],
           ["saleAvg", one.saleAvg],
           ["minPrice", one.minPrice],
           ["amountCount", one.amountCount],

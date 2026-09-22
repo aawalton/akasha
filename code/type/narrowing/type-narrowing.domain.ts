@@ -38,6 +38,7 @@ export const typeNarrowing = {
     "module/no-op",
     "module/paced-queue",
     "module/parse-number",
+    "module/parse-said-text",
     "module/parse-string",
     "module/parse-timestamp",
     "module/record-field",

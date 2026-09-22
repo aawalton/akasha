@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.test.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/running/modules/test-overlay/test-overlay.module.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/type/narrowing/modules/require-env/require-env.module.test.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/modules/parse-args/parse-args.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.test.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"}

@@ -1,23 +1,14 @@
 import { NarrowError } from "akasha/code/type/narrowing/modules/narrow-error/narrow-error.module.code.ts"
-import { z } from "zod"
+import { parseSaidText } from "akasha/code/type/narrowing/modules/parse-said-text/parse-said-text.module.code.ts"
 
 declare const process: { readonly env: Record<string, string | undefined> }
 
-const ENV_VALUE_SCHEMA = z.string().min(1)
-
 export function requireEnv(name: string): string {
-  try {
-    return ENV_VALUE_SCHEMA.parse(process.env[name])
-  } catch {
-    throw new NarrowError(`requireEnv: env var ${name} is not set`)
-  }
+  const held = parseSaidText(process.env[name])
+  if (held === undefined) throw new NarrowError(`requireEnv: env var ${name} is not set`)
+  return held
 }
 
-const OPTIONAL_ENV_SCHEMA = z
-  .string()
-  .transform((s) => (s === "" ? undefined : s))
-  .optional()
-
 export function optionalEnv(name: string): string | undefined {
-  return OPTIONAL_ENV_SCHEMA.parse(process.env[name])
+  return parseSaidText(process.env[name])
 }
