@@ -10,6 +10,7 @@ export const noUnusedModules = {
     "module/module-gathering",
     "module/slug-spelling",
     "module/path-spelling",
+    "module/entry-declaring",
   ],
   runsOnChange: true,
   runsOnDeploy: true,
@@ -18,6 +19,10 @@ export const noUnusedModules = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A module another file imports is reached.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A module whose code declares itself an entry point is reached.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -33,7 +38,7 @@ export const noUnusedModules = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "All four are asked before a module is refused.",
+      statement: "All five are asked before a module is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -70,12 +75,16 @@ export const noUnusedModules = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The tree is searched for a slug only where the other two routes found nothing.",
+      statement: "A module's own code is read before the bundle is walked or the tree searched.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tree is searched for a slug only where the other three routes found nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The files outside TypeScript are read only where the other three routes found nothing.",
+        "The files outside TypeScript are read only where the other four routes found nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -117,6 +126,10 @@ export const noUnusedModules = {
     {
       decisionKind: "decision-kind/gap",
       statement: "A module whose slug some unrelated body spells reads as reached.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "A module whose code names import.meta.main only in a note reads as reached.",
     },
     {
       decisionKind: "decision-kind/upkeep",
