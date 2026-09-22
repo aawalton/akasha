@@ -10,5 +10,5 @@ export const arcanistSoldierOfApocrypha = {
   esoSkillLineId: 219,
   maxRank: 50,
   subcategoryId: "character-class",
-  class: "arcanist",
+  class: "temper-class/arcanist",
 } as const satisfies TemperSkillLine

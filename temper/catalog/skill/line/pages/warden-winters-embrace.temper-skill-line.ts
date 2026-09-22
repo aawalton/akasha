@@ -10,5 +10,5 @@ export const wardenWintersEmbrace = {
   esoSkillLineId: 129,
   maxRank: 50,
   subcategoryId: "character-class",
-  class: "warden",
+  class: "temper-class/warden",
 } as const satisfies TemperSkillLine

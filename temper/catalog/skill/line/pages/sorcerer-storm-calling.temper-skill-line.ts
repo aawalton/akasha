@@ -10,5 +10,5 @@ export const sorcererStormCalling = {
   esoSkillLineId: 43,
   maxRank: 50,
   subcategoryId: "character-class",
-  class: "sorcerer",
+  class: "temper-class/sorcerer",
 } as const satisfies TemperSkillLine

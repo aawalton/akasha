@@ -10,5 +10,5 @@ export const templarAedricSpear = {
   esoSkillLineId: 22,
   maxRank: 50,
   subcategoryId: "character-class",
-  class: "templar",
+  class: "temper-class/templar",
 } as const satisfies TemperSkillLine

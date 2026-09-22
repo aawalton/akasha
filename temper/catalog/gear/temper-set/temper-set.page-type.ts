@@ -14,7 +14,7 @@ export const temperSet = {
     "record-property/bonus-effects",
     "text-property/bonus-status",
     "text-property/icon-slot",
-    "text-property/set-class-id",
+    "relation-property/set-class-id",
     "text-property/valid-pieces",
   ],
   properties: [
@@ -24,7 +24,7 @@ export const temperSet = {
     { pageProperty: "page-property-entry/bonuses", required: true, many: false },
     { pageProperty: "page-property-entry/icons", required: true, many: false },
     { pageProperty: "text-property/valid-pieces", required: true, many: true, maxCount: null },
-    { pageProperty: "text-property/set-class-id", required: false, many: false },
+    { pageProperty: "relation-property/set-class-id", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",

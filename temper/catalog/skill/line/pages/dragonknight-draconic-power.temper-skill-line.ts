@@ -10,5 +10,5 @@ export const dragonknightDraconicPower = {
   esoSkillLineId: 36,
   maxRank: 50,
   subcategoryId: "character-class",
-  class: "dragonknight",
+  class: "temper-class/dragonknight",
 } as const satisfies TemperSkillLine

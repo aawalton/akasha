@@ -10,5 +10,5 @@ export const wardenGreenBalance = {
   esoSkillLineId: 128,
   maxRank: 50,
   subcategoryId: "character-class",
-  class: "warden",
+  class: "temper-class/warden",
 } as const satisfies TemperSkillLine

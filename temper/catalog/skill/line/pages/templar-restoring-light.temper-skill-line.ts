@@ -10,5 +10,5 @@ export const templarRestoringLight = {
   esoSkillLineId: 28,
   maxRank: 50,
   subcategoryId: "character-class",
-  class: "templar",
+  class: "temper-class/templar",
 } as const satisfies TemperSkillLine

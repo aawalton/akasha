@@ -1,7 +1,7 @@
 import type { Bonuses } from "akasha/temper/catalog/gear/temper-set/properties/bonuses.page-property-entry.types.ts"
 import type { EsoSetId } from "akasha/temper/catalog/gear/temper-set/properties/eso-set-id.number-property.types.ts"
 import type { Icons } from "akasha/temper/catalog/gear/temper-set/properties/icons.page-property-entry.types.ts"
-import type { SetClassId } from "akasha/temper/catalog/gear/temper-set/properties/set-class-id.text-property.types.ts"
+import type { SetClassId } from "akasha/temper/catalog/gear/temper-set/properties/set-class-id.relation-property.types.ts"
 import type { ValidPieces } from "akasha/temper/catalog/gear/temper-set/properties/valid-pieces.text-property.types.ts"
 import type { SubcategoryId } from "akasha/temper/catalog/thing/properties/subcategory-id.text-property.types.ts"
 import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"

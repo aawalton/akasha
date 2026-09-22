@@ -10,5 +10,5 @@ export const nightbladeShadow = {
   esoSkillLineId: 39,
   maxRank: 50,
   subcategoryId: "character-class",
-  class: "nightblade",
+  class: "temper-class/nightblade",
 } as const satisfies TemperSkillLine

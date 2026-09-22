@@ -7,5 +7,6 @@
 {"propertySlug":"import","fileName":"temper-class.page-type.types.ts","path":"temper/catalog/skill/temper-class/pages/templar.temper-class.ts"}
 {"propertySlug":"import","fileName":"temper-class.page-type.types.ts","path":"temper/catalog/skill/temper-class/pages/warden.temper-class.ts"}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
+{"propertySlug":"target-page-type","path":"temper/catalog/gear/temper-set/properties/set-class-id.relation-property.ts","id":"01a05fd1-d43e-7ece-af53-4be28ed6067d"}
 {"propertySlug":"target-page-type","path":"temper/catalog/skill/line/properties/skill-line-class.relation-property.ts","id":"01a05fca-cb87-7a9a-9dda-95916e9f73d7"}
 {"propertySlug":"target-page-type","path":"temper/catalog/skill/temper-grimoire/properties/class-id.relation-property.ts","id":"01a05fca-cb81-7a5f-a2f7-41aefe8c6b62"}
