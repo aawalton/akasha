@@ -1,17 +1,17 @@
 import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
-export const poolNow = {
-  id: "01a0c671-1075-74fd-9fb2-e5796664d4b3",
+export const poolMost = {
+  id: "01a0c69c-2590-7532-882d-56a9cdbaf2fc",
   type: "page-type/number-property",
-  slug: "pool-now",
-  propertySlug: "now",
-  definition: "how much of a pool an entity has left",
+  slug: "pool-most",
+  propertySlug: "most",
+  definition: "the most a pool held at a turn, as the game's mechanic worked it out",
   nullable: false,
   max: null,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The most a pool holds comes from a mechanic, and only what is left is written.",
+      statement: "A mechanic works this out, and the turn it was worked out for keeps it.",
     },
   ],
   types: "ts",

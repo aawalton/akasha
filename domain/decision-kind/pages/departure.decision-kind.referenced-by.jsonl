@@ -3399,12 +3399,10 @@
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-equipment.record-property.ts","id":"01a0c63a-77a8-7aa8-ae8c-141b34ac194b"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-kind.text-property.ts","id":"01a0c632-9753-7529-a95f-ebc4de76b7df"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-level.number-property.ts","id":"01a0c633-ff8f-783d-ba86-1f1ce92d4b42"}
-{"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-pools.record-property.ts","id":"01a0c671-31d2-7602-8a22-1443f9b9b221"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-skills.record-property.ts","id":"01a0c638-3b18-7156-b011-d466055dd675"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-titles.record-property.ts","id":"01a0c637-c898-7363-adde-6f63d61cdf22"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-traits.record-property.ts","id":"01a0c637-533c-7d20-91d2-bcd683e32b4e"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/equipment-slot.text-property.ts","id":"01a0c63a-0f6e-740e-8eb1-719fb7926587"}
-{"propertySlug":"decision-kind","path":"story/game/entity/properties/pool-now.number-property.ts","id":"01a0c671-1075-74fd-9fb2-e5796664d4b3"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/reveal-gate.number-property.ts","id":"01a0c63d-bf33-7fc8-a461-91fda80ddb15"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/typical-intent.number-property.ts","id":"01a0c63e-93fb-7a9d-97cd-4e1aa7b4623d"}
 {"propertySlug":"decision-kind","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
@@ -3465,9 +3463,11 @@
 {"propertySlug":"decision-kind","path":"story/game/turn/game-turn.page-type.ts","id":"01a0c67d-107c-7e63-8791-38c9b6c7128d"}
 {"propertySlug":"decision-kind","path":"story/game/turn/modules/turn-filing/turn-filing.module.ts","id":"01a0c683-b1a8-7ca2-8eb2-e6c47a693845"}
 {"propertySlug":"decision-kind","path":"story/game/turn/properties/pool-change.number-property.ts","id":"01a0c692-2e25-72d0-adc5-dd1ff6c6b65a"}
-{"propertySlug":"decision-kind","path":"story/game/turn/properties/pool-changes.record-property.ts","id":"01a0c692-5f45-79dc-abc9-9af5cb8c3a4d"}
+{"propertySlug":"decision-kind","path":"story/game/turn/properties/pool-most.number-property.ts","id":"01a0c69c-2590-7532-882d-56a9cdbaf2fc"}
+{"propertySlug":"decision-kind","path":"story/game/turn/properties/pool-now.number-property.ts","id":"01a0c671-1075-74fd-9fb2-e5796664d4b3"}
 {"propertySlug":"decision-kind","path":"story/game/turn/properties/system-window.record-property.ts","id":"01a0c680-3679-76c4-9c9a-ac85779d4f39"}
 {"propertySlug":"decision-kind","path":"story/game/turn/properties/turn-number.number-property.ts","id":"01a0c67e-d63a-7fab-b15d-5700bade864e"}
+{"propertySlug":"decision-kind","path":"story/game/turn/properties/turn-pools.record-property.ts","id":"01a0c69c-5e8f-723a-a541-33dd17912c80"}
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}
 {"propertySlug":"decision-kind","path":"story/story.domain.ts","id":"01a06d72-54b4-7352-b7db-4c705f35a431"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/newest-divider/newest-divider.module.ts","id":"01a0629b-682c-7208-a65c-1d5fdba6f831"}
