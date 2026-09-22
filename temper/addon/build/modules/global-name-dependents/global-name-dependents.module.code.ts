@@ -8,7 +8,13 @@ const REGISTRATION_FNS: ReadonlySet<string> = new Set([
   "CreateControlFromVirtual",
 ])
 
-export type DependentKind = "ts-global-read" | "xml-handler-ref" | "lam-topology-binding"
+export type DependentKind =
+  | "ts-global-read"
+  | "xml-handler-ref"
+  | "xml-control-name"
+  | "xml-inherits-ref"
+  | "xml-anchor-ref"
+  | "lam-topology-binding"
 
 export interface DependentRef {
   readonly kind: DependentKind
@@ -212,26 +218,72 @@ function collectLamBindings(
   return refs
 }
 
-function collectXmlRefs(source: string, global: string, file: string): readonly DependentRef[] {
-  const stripped = stripXmlComments(source)
+const MARKUP_NAME_ATTRIBUTES: ReadonlyMap<string, DependentKind> = new Map([
+  ["name", "xml-control-name"],
+  ["inherits", "xml-inherits-ref"],
+  ["relativeTo", "xml-anchor-ref"],
+])
+
+const MARKUP_ATTRIBUTE = new RegExp(
+  `\\b(${[...MARKUP_NAME_ATTRIBUTES.keys()].join("|")})\\s*=\\s*"([^"]*)"`,
+  "g"
+)
+
+function placeOf(source: string, index: number): { line: number; column: number } {
+  const upto = source.slice(0, index)
+  return { line: upto.split("\n").length, column: index - upto.lastIndexOf("\n") }
+}
+
+function collectXmlHandlerRefs(
+  stripped: string,
+  global: string,
+  file: string
+): readonly DependentRef[] {
   const escaped = global.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
   const re = new RegExp(`(?<![\\w$])${escaped}(?![\\w$])\\s*[.(]`, "g")
   const refs: DependentRef[] = []
   for (const match of stripped.matchAll(re)) {
-    const index = match.index ?? 0
-    const upto = stripped.slice(0, index)
-    const line = upto.split("\n").length
-    const lastNl = upto.lastIndexOf("\n")
-    const column = index - lastNl
     refs.push({
       kind: "xml-handler-ref",
       file,
-      line,
-      column,
+      ...placeOf(stripped, match.index ?? 0),
       detail: `${global}${match[0].slice(global.length).trimStart()}`,
     })
   }
   return refs
+}
+
+function collectXmlAttributeRefs(
+  stripped: string,
+  global: string,
+  file: string
+): readonly DependentRef[] {
+  const refs: DependentRef[] = []
+  for (const match of stripped.matchAll(MARKUP_ATTRIBUTE)) {
+    const attribute = match[1]
+    const value = match[2]
+    const kind = attribute === undefined ? undefined : MARKUP_NAME_ATTRIBUTES.get(attribute)
+    if (kind === undefined || attribute === undefined || value === undefined) continue
+    const valueAt = (match.index ?? 0) + match[0].indexOf('"') + 1
+    for (const word of value.matchAll(/\S+/g)) {
+      if (word[0] !== global) continue
+      refs.push({
+        kind,
+        file,
+        ...placeOf(stripped, valueAt + (word.index ?? 0)),
+        detail: `${attribute}="${value}"`,
+      })
+    }
+  }
+  return refs
+}
+
+function collectXmlRefs(source: string, global: string, file: string): readonly DependentRef[] {
+  const stripped = stripXmlComments(source)
+  return [
+    ...collectXmlHandlerRefs(stripped, global, file),
+    ...collectXmlAttributeRefs(stripped, global, file),
+  ]
 }
 
 function sortDependents(a: DependentRef, b: DependentRef): number {

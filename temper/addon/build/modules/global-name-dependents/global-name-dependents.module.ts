@@ -6,6 +6,7 @@ export const globalNameDependents = {
   slug: "global-name-dependents",
   definition: "everything reading an addon global, and whether the global may be renamed",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -18,6 +19,18 @@ export const globalNameDependents = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A read in XML is found by matching text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control the markup names is a global that markup declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name is read from the name, the inherits and the relativeTo an element states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name among others in one attribute is found as a whole word of that value.",
     },
     {
       decisionKind: "decision-kind/departure",
