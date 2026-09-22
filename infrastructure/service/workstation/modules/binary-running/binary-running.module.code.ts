@@ -7,16 +7,18 @@ export async function runBinary(argv: readonly string[]): Promise<never> {
     return process.exit(REFUSED_EXIT)
   }
 
-  const child = Bun.spawn([...argv], {
-    stdio: ["inherit", "inherit", "inherit"],
-    env: process.env,
-  })
+  let child: Bun.Subprocess | null = null
 
   for (const signal of FORWARDED) {
     process.on(signal, () => {
-      child.kill(signal)
+      child?.kill(signal)
     })
   }
+
+  child = Bun.spawn([...argv], {
+    stdio: ["inherit", "inherit", "inherit"],
+    env: process.env,
+  })
 
   return process.exit(await child.exited)
 }

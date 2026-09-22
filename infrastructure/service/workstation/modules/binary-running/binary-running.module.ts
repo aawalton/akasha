@@ -26,6 +26,15 @@ export const binaryRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The service takes those signals before the binary is started.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A signal reaching the service before it takes them ends the service on that signal.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The service waits for the binary rather than leaving on the signal itself.",
     },
     {
