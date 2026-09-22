@@ -498,6 +498,56 @@ export const CONSOLIDATION_MIGRATIONS = [
     },
   },
   {
+    mode: "append",
+    runFor: "Temper",
+    spec: {
+      absorbedFileBase: "LibChatMessage",
+      absorbedGlobal: "LibChatMessageSettings",
+      targetFileBase: "Temper",
+      renamedTo: "TemperChatMessageSettings",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "Temper",
+    spec: {
+      absorbedFileBase: "LibChatMessage",
+      absorbedGlobal: "LibChatMessageHistory",
+      targetFileBase: "Temper",
+      renamedTo: "TemperChatMessageHistory",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "Temper",
+    spec: {
+      absorbedFileBase: "LibScrollableMenu",
+      absorbedGlobal: "LibScrollableMenu_SavedVars",
+      targetFileBase: "Temper",
+      renamedTo: "TemperScrollableMenu_SavedVars",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "Temper",
+    spec: {
+      absorbedFileBase: "LibDebugLogger",
+      absorbedGlobal: "LibDebugLoggerSettings",
+      targetFileBase: "Temper",
+      renamedTo: "TemperDebugLoggerSettings",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "Temper",
+    spec: {
+      absorbedFileBase: "LibDebugLogger",
+      absorbedGlobal: "LibDebugLoggerLog",
+      targetFileBase: "Temper",
+      renamedTo: "TemperDebugLoggerLog",
+    },
+  },
+  {
     mode: "rename-in-place",
     runFor: "Temper",
     fileBase: "Temper",
