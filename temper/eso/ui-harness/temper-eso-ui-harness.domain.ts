@@ -5,6 +5,7 @@ export const temperEsoUiHarness = {
   type: "page-type/domain",
   slug: "temper-eso-ui-harness",
   definition: "an addon's interface built and driven outside the game",
+  parts: ["lua-module/ui-control-model"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
