@@ -50,6 +50,8 @@ export const game = {
     "page-type/game-quest",
     "page-type/game-design-entry",
     "page-type/game-lore-entry",
+    "number-property/source-turn",
+    "page-type/game-mechanic-run",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

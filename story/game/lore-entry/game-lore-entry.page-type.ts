@@ -54,7 +54,7 @@ export const gameLoreEntry = {
     "text-property/lore-kind",
     "text-property/lore-subject",
     "text-property/lore-said",
-    "number-property/source-turn",
+
     "text-property/cited-quote",
     "text-property/lore-attribute",
     "text-property/thread-status",

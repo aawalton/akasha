@@ -97,6 +97,7 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/game/game.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/game/location/game-location.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/game/lore-entry/game-lore-entry.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/game/mechanic-run/game-mechanic-run.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/game/quest/game-quest.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/builds/story-build.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/characters/world-character.page-type.types.ts"}
@@ -217,6 +218,7 @@
 {"propertySlug":"page-property","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"page-property","path":"story/game/location/game-location.page-type.ts","id":"01a0c642-a40f-7f5e-8d0d-b1f9226535ca"}
 {"propertySlug":"page-property","path":"story/game/lore-entry/game-lore-entry.page-type.ts","id":"01a0c949-5c56-7f25-8eb3-0c04a8c40172"}
+{"propertySlug":"page-property","path":"story/game/mechanic-run/game-mechanic-run.page-type.ts","id":"01a0c951-6739-72ed-a7e2-63f36a4d5cbe"}
 {"propertySlug":"page-property","path":"story/game/quest/game-quest.page-type.ts","id":"01a0c6ab-e5a8-7bc3-a0c8-83d4a81beda0"}
 {"propertySlug":"page-property","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
 {"propertySlug":"page-property","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
