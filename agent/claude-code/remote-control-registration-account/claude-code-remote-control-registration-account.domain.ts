@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const claudeCodeAccount = {
+export const claudeCodeRemoteControlRegistrationAccount = {
   id: "01a0ca81-1571-7e92-8c72-1283dae8a068",
   type: "page-type/domain",
-  slug: "claude-code-account",
+  slug: "claude-code-remote-control-registration-account",
   definition: "a seat's model account for Claude Code",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "Claude Code account" },

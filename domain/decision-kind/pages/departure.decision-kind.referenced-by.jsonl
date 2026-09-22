@@ -1,7 +1,7 @@
 {"propertySlug":"decision-kind","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
-{"propertySlug":"decision-kind","path":"agent/claude-code/account/claude-code-account.domain.ts","id":"01a0ca81-1571-7e92-8c72-1283dae8a068"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/app/claude-code-app.domain.ts","id":"01a0ca92-e69a-7119-b0d8-cbe2aad57593"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/modules/claude-launch-args/claude-launch-args.module.ts","id":"01a0695a-d2ea-7745-a7c8-079b5840aab1"}
+{"propertySlug":"decision-kind","path":"agent/claude-code/remote-control-registration-account/claude-code-remote-control-registration-account.domain.ts","id":"01a0ca81-1571-7e92-8c72-1283dae8a068"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/modules/decide/claude-code-remote-control-decide.module.ts","id":"01a0686d-9d5e-7006-ba17-a047d0b1fdbc"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/modules/degraded-decide/claude-code-remote-control-degraded-decide.module.ts","id":"01a0686d-9d5e-7002-ae93-c2861807113f"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/modules/degraded-state/claude-code-remote-control-degraded-state.module.ts","id":"01a0686d-9d5e-7001-9ae5-1b049c3d76dc"}
