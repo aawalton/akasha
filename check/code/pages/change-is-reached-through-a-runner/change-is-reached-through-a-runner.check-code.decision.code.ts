@@ -21,7 +21,7 @@ const CODE = ".code.ts"
 
 const ADDRESSED = ".change-runner.addressed.ts"
 
-function found(path: string, text: string): readonly string[] {
+export function found(path: string, text: string): readonly string[] {
   if (path.endsWith(ADDRESSED) || !text.includes(SPELT)) return []
   const home = dirname(path)
   const said: string[] = []
