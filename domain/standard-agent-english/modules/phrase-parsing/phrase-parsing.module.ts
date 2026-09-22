@@ -40,5 +40,10 @@ export const phraseParsing = {
       decisionKind: "decision-kind/departure",
       statement: "A word closing with an apostrophe and an s is split into the word and that mark.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run of words a spelling names is one item, and the longest such run is the one taken.",
+    },
   ],
 } as const satisfies Module

@@ -26,13 +26,36 @@ export function wordsIn(phrase: string): readonly string[] {
   return found
 }
 
+export function itemsIn(phrase: string, lexicon: Lexicon): readonly string[] {
+  const words = wordsIn(phrase)
+  let longest = 1
+  for (const spelling of lexicon.keys()) {
+    const many = spelling.split(" ").length
+    if (many > longest) longest = many
+  }
+  const found: string[] = []
+  let at = 0
+  while (at < words.length) {
+    let took = 1
+    const most = words.length - at < longest ? words.length - at : longest
+    for (let many = most; many > 1; many -= 1) {
+      if (!lexicon.has(words.slice(at, at + many).join(" "))) continue
+      took = many
+      break
+    }
+    found.push(words.slice(at, at + took).join(" "))
+    at += took
+  }
+  return found
+}
+
 export function waysIn(
   phrase: string,
   rules: readonly Rule[],
   lexicon: Lexicon,
   startSymbol: string
 ): number {
-  const words = wordsIn(phrase)
+  const words = itemsIn(phrase, lexicon)
   const found = new Map<string, number>()
   const walking = new Set<string>()
 

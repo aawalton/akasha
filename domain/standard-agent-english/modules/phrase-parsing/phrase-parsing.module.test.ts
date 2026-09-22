@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  itemsIn,
   type Lexicon,
   type Rule,
   waysIn,
@@ -51,6 +52,8 @@ const LEXICON: Lexicon = new Map([
   ["machine", new Set([NOUN])],
   ["cluster", new Set([NOUN])],
   ["servers", new Set([NOUN])],
+  ["rock cluster", new Set([NOUN])],
+  ["a rock cluster machine", new Set([NOUN])],
 ])
 
 test("a phrase is split on spaces and empty runs are left out", () => {
@@ -63,6 +66,27 @@ test("a word closing with the possessive mark is split from that mark", () => {
 
 test("a word that is the possessive mark alone is left whole", () => {
   expect(wordsIn("'s")).toEqual(["'s"])
+})
+
+test("a run of words a spelling names is one item", () => {
+  expect(itemsIn("a rock cluster of servers", LEXICON)).toEqual([
+    "a",
+    "rock cluster",
+    "of",
+    "servers",
+  ])
+})
+
+test("the longest run a spelling names is the one taken", () => {
+  expect(itemsIn("a rock cluster machine", LEXICON)).toEqual(["a rock cluster machine"])
+})
+
+test("a word no multi-word spelling reaches is an item of its own", () => {
+  expect(itemsIn("a machine in a cluster", LEXICON)).toEqual(["a", "machine", "in", "a", "cluster"])
+})
+
+test("a multi-word noun is one noun in a phrase", () => {
+  expect(waysIn("a rock cluster", RULES, LEXICON, NOUN_PHRASE)).toBe(1)
 })
 
 test("one noun is a noun group and a noun phrase alike", () => {
