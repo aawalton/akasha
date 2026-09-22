@@ -4,7 +4,7 @@ export const codeMoving = {
   id: "01a09467-62d1-7e1e-b24d-b6186ad6cf98",
   type: "page-type/module",
   slug: "code-moving",
-  definition: "whether the tree a run's code came out of has moved since that run started",
+  definition: "whether the code a run is running has moved since that run started",
   code: "ts",
   test: "ts",
   decisions: [
@@ -111,6 +111,24 @@ export const codeMoving = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here ends a run whose code it cannot tell about.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run loaded from a bundle came out of the commit that bundle is named for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The commit a bundled run is leaving for is the one the unit beside that bundle names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stamp at or above the folder a run was loaded from is read before the unit beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That unit is read as a file rather than asked of systemd.",
     },
   ],
 } as const satisfies Module
