@@ -11,7 +11,6 @@ import {
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { setOAuthProxyHandle } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export interface RespawnProxyDeps {
   respawn: (

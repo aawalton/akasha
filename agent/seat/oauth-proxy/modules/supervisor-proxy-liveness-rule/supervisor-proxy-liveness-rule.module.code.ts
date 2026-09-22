@@ -4,7 +4,6 @@ import {
 } from "akasha/agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
 import type { AskDecide } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const RULE = "proxyLivenessRule"
 

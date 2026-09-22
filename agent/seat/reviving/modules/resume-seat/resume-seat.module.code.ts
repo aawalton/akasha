@@ -25,7 +25,6 @@ import {
   dataError,
   operationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export interface ResumeTarget {
   readonly name: string | null

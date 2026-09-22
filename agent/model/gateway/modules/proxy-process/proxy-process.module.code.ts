@@ -8,7 +8,6 @@ import type {
 } from "akasha/agent/model/gateway/modules/proxy-start/proxy-start.module.code.ts"
 import type { StoppedSubagents } from "akasha/agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const LOG_PREFIX = "[oauth-proxy]"
 

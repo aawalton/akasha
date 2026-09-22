@@ -1,11 +1,3 @@
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"agent/messaging/recipient-resolving/modules/recipient-resolver-tick-deps/recipient-resolver-tick-deps.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"agent/model/gateway/modules/proxy-process/proxy-process.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"agent/model/gateway/modules/proxy-process/proxy-process.module.test.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"agent/seat/fleet/modules/seat-forest-reading/seat-forest-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"agent/seat/launching/seat-launching.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"agent/seat/oauth-proxy/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"agent/seat/oauth-proxy/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"agent/seat/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"agent/seat/self-healing/modules/supervisor-self-heal-install/supervisor-self-heal-install.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"}

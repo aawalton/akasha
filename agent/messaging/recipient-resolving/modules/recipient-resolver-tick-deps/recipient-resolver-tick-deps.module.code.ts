@@ -3,7 +3,6 @@ import type {
   OnDemandAgentSpec,
 } from "akasha/agent/messaging/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 import type { ReviveVerifySignal } from "akasha/agent/seat/reviving/modules/seat-revive-verify-signal/seat-revive-verify-signal.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export interface RecipientResolverAgentRow {
   readonly id: string
