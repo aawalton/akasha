@@ -9,21 +9,15 @@ export const dungeonChampionPlaces = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The byte ceiling is why the zones arrive in two groups rather than in a single table.",
+      statement: "Every zone is in one table rather than in a group of its own.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The groups are spread in the order the source table had the zones.",
+      statement: "The zones are in the order the source table had them.",
     },
     {
       decisionKind: "decision-kind/upkeep",
-      statement: "A zone belongs to one group of places alone.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A zone named in both groups would lose the earlier group's entries without a word.",
+      statement: "A zone is named once in the table.",
     },
   ],
 } as const satisfies DataTable

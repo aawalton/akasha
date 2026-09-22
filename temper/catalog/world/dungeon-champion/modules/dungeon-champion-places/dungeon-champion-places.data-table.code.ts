@@ -1,4 +1,4 @@
-export const DUNGEON_CHAMPION_PLACES_00: Record<string, Record<string, number[][]>> = {
+export const DUNGEON_CHAMPIONS_DATA: Record<string, Record<string, number[][]>> = {
   alikr: {
     aldunz_base: [[0.71, 0.55, 416, 1]],
     coldrockdiggings_base: [[0.21, 0.82, 419, 1]],
@@ -298,9 +298,6 @@ export const DUNGEON_CHAMPION_PLACES_00: Record<string, Record<string, number[][
     ],
     theunderroot_base: [[0.33, 0.27, 550, 1]],
   },
-}
-
-export const DUNGEON_CHAMPION_PLACES_01: Record<string, Record<string, number[][]>> = {
   malabaltor: {
     blackvineruins_base: [[0.54, 0.25, 281, 1]],
     crimsoncove02_base: [
@@ -568,11 +565,6 @@ export const DUNGEON_CHAMPION_PLACES_01: Record<string, Record<string, number[][
     watchershold_base: [[0.63, 0.25, 1301, 1]],
     zthenganaz_base: [[0.89, 0.33, 1302, 1]],
   },
-}
-
-export const DUNGEON_CHAMPIONS_DATA: Record<string, Record<string, number[][]>> = {
-  ...DUNGEON_CHAMPION_PLACES_00,
-  ...DUNGEON_CHAMPION_PLACES_01,
 }
 
 export const DUNGEON_CHAMPIONS_DATA_ID: Record<number, number[][]> = {
