@@ -11,7 +11,6 @@ export const goldCoastSpellcasterElixir = {
   displayOrder: 1,
   icon: "/esoui/art/icons/crownpotion_spellcaster.dds",
   itemId: 112427,
-  categoryId: "potions",
   level: "Scaled",
   seconds: 36.3,
   effects: "jsonl",

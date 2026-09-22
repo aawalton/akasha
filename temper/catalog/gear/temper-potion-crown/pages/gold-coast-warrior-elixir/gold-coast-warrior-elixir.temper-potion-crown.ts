@@ -11,7 +11,6 @@ export const goldCoastWarriorElixir = {
   displayOrder: 2,
   icon: "/esoui/art/icons/crownpotion_warrior.dds",
   itemId: 112428,
-  categoryId: "potions",
   level: "Scaled",
   seconds: 36.3,
   effects: "jsonl",
