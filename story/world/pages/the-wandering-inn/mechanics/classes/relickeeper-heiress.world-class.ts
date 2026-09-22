@@ -6,6 +6,7 @@ export const relickeeperHeiress = {
   slug: "relickeeper-heiress",
   title: "Relickeeper Heiress",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesFromSlugs: ["heiress"],
   references: "jsonl",
 } as const satisfies WorldClass

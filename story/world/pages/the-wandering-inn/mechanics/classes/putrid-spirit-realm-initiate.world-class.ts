@@ -6,5 +6,6 @@ export const putridSpiritRealmInitiate = {
   slug: "putrid-spirit-realm-initiate",
   title: "Putrid Spirit Realm Initiate",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

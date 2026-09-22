@@ -6,5 +6,6 @@ export const pursuantBattlemageOfMagicSRomance = {
   slug: "pursuant-battlemage-of-magic-s-romance",
   title: "Pursuant Battlemage of Magic’s Romance",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldClass

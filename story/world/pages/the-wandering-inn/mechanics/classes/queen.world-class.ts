@@ -6,6 +6,7 @@ export const queen = {
   slug: "queen",
   title: "Queen",
   world: "world/the-wandering-inn",
+  appearanceCount: 139,
   aliases: ["queens"],
   evolvesToSlugs: ["antinium-queen"],
   references: "jsonl",

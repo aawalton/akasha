@@ -6,5 +6,6 @@ export const relentlessUnyieldingStubbornSonOfKhelt = {
   slug: "relentless-unyielding-stubborn-son-of-khelt",
   title: "Relentless, Unyielding, Stubborn Son of Khelt",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldClass

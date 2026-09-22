@@ -6,5 +6,6 @@ export const rank1HorrorCorpseEater = {
   slug: "rank-1-horror-corpse-eater",
   title: "Rank 1 Horror – Corpse Eater.",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

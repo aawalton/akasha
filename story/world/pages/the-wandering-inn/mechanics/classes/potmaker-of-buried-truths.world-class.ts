@@ -6,6 +6,7 @@ export const potmakerOfBuriedTruths = {
   slug: "potmaker-of-buried-truths",
   title: "Potmaker of Buried Truths",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesFromSlugs: ["potter-of-secrets"],
   references: "jsonl",
 } as const satisfies WorldClass

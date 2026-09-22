@@ -6,5 +6,6 @@ export const relicGuardian = {
   slug: "relic-guardian",
   title: "Relic Guardian",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   references: "jsonl",
 } as const satisfies WorldClass
