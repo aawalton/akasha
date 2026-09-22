@@ -1,0 +1,9 @@
+import type { TowerIntellect } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-intellect/tower-intellect.page-type.types.ts"
+
+export const theTowerTheWelcomer01 = {
+  id: "01a0ca32-2b3d-7243-bc6a-90867456ba56",
+  type: "page-type/tower-intellect",
+  slug: "the-tower-the-welcomer-01",
+  character: "character-other/the-tower-the-welcomer-01",
+  value: 14,
+} as const satisfies TowerIntellect
