@@ -3,16 +3,14 @@ import { messageNamed } from "akasha/agent/messaging/modules/message-naming/mess
 import {
   MESSAGE,
   messagesDirRelPath,
+  overHttp,
   recipientRefused,
+  type Sending,
   type Warrant,
+  WRITER,
 } from "akasha/agent/messaging/modules/message-sending/message-sending.module.code.ts"
-import { landRemovals } from "akasha/change/modules/gated-landing/gated-landing.module.code.ts"
-import { whyRefused } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import {
-  AKASHA,
-  akashaRoot,
-} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   mergeUncommitted,
   removeUncommitted,
@@ -20,8 +18,6 @@ import {
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { slugAt, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { pagesAtFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-
-const WRITER = "message-file-writer"
 
 const PAGE_EXT = `.${MESSAGE}.ts`
 
@@ -108,22 +104,23 @@ export function releaseClaim(to: string, id: string): undefined {
   removeUncommitted(akashaRoot(), messageRelPath(to, id))
 }
 
-export async function takeMessage(to: string, id: string): Promise<Taken> {
+export async function takeMessage(
+  to: string,
+  id: string,
+  sending: Sending = overHttp
+): Promise<Taken> {
   const root = akashaRoot()
   const relPath = messageRelPath(to, id)
   if (!existsSync(`${root}/${relPath}`)) {
     removeUncommitted(root, relPath)
     return { kind: "gone" }
   }
-  const taken = await landRemovals(
-    {
-      repo: AKASHA,
-      writer: WRITER,
-      message: `message to ${to} is read, and read is the file's absence`,
-    },
-    [relPath]
-  )
-  if (!taken.ok) return { kind: "refused", detail: whyRefused(taken.why) }
+  const taken = await sending({
+    writer: WRITER,
+    message: `message to ${to} is read, and read is the file's absence`,
+    removes: [relPath],
+  })
+  if ("refused" in taken) return { kind: "refused", detail: taken.refused }
   removeUncommitted(root, relPath)
   return { kind: "taken" }
 }

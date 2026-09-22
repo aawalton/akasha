@@ -49,6 +49,22 @@ export const messageFile = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A message is taken through the pages service rather than landed here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A take names the writer a send names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A take the pages refused leaves the message where that message is.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here lands a commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A claim on a message is a value beside the message rather than a change to the page.",
     },

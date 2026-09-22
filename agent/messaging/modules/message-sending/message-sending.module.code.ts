@@ -22,7 +22,7 @@ const PAGE_TYPE = "page-type"
 
 const SEAT = "seat"
 
-const WRITER = "message file writer <message-file-writer@alanwalton.com>"
+export const WRITER = "message file writer <message-file-writer@alanwalton.com>"
 
 export type Warrant = "announce" | "blocked"
 
