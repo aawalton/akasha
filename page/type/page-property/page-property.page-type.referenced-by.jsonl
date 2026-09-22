@@ -67,7 +67,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/code/pages/file-length/file-length.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.decision.test.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/model/properties/model-tests.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/model/properties/model-tests.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/ios-app/properties/asc-capabilities.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/ios-app/properties/programs.relation-property.types.ts"}

@@ -1,8 +1,8 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const modelTests = {
   id: "01a05911-aa17-7af6-9941-6715a1205f25",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "model-tests",
   propertySlug: "model-tests",
   definition: "the tests a check puts to a model, in the order they are run",
@@ -14,4 +14,4 @@ export const modelTests = {
     },
   ],
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

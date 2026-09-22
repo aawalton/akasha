@@ -8,12 +8,12 @@ export const checkModel = {
   parts: [
     "number-property/audit-runs",
     "number-property/change-runs",
-    "relation-property/model-tests",
+    "multi-relation-property/model-tests",
   ],
   extends: ["page-type/domain"],
   properties: [
     {
-      pageProperty: "relation-property/model-tests",
+      pageProperty: "multi-relation-property/model-tests",
       required: true,
       many: true,
       maxCount: null,

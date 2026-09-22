@@ -79,7 +79,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"change/properties/change-target-type.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"change/runner/properties/reached.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"change/target/subtype/properties/change-target-subtype-parent.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"check/model/properties/model-tests.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"check/model/properties/model-tests.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"code/ios-app/properties/build-script.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"code/ios-app/properties/programs.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"code/ios-app/properties/sync-script.relation-property.types.ts"}
