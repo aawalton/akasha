@@ -6,7 +6,7 @@ export const listedNote = {
   slug: "listed-note",
   propertySlug: "note",
   definition: "what a page's list says about one of the things in it, beside that thing's numbers",
-  maxLength: 500,
+  maxLength: 2000,
   nameFormat: null,
   types: "ts",
 } as const satisfies TextProperty
