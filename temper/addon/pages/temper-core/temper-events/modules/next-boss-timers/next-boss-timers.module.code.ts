@@ -123,7 +123,7 @@ ICT.unitDead = function (this: void, unitName: string | undefined): undefined {
   }
   const district = ICT.locations[unitName]
   if (district !== undefined) {
-    if (unitName === GetString(SI_ICTHENEXTBOSS_MOLAG)) {
+    if (unitName === GetString(SI_TEMPER_NEXTBOSS_MOLAG)) {
       ICT.startTimer(district, ICT.spawntimeMolag, true)
     } else {
       ICT.startTimer(district, ICT.spawntime, true)

@@ -24,14 +24,14 @@ ICT.initializeSettingsMenu = function (this: void): undefined {
   const optionsData: LamControlData[] = [
     {
       type: "description",
-      text: GetString(SI_ICTHENEXTBOSS_OPTION_DESCRIPTION),
+      text: GetString(SI_TEMPER_NEXTBOSS_OPTION_DESCRIPTION),
     },
     {
       type: "divider",
     },
     {
       type: "checkbox",
-      name: GetString(SI_ICTHENEXTBOSS_OPTION_TIMETABLE),
+      name: GetString(SI_TEMPER_NEXTBOSS_OPTION_TIMETABLE),
       getFunc: (): boolean => ICT.savedVariables.timetable,
       setFunc: (value: boolean): undefined => {
         ICT.savedVariables.timetable = value
@@ -50,8 +50,8 @@ ICT.initializeSettingsMenu = function (this: void): undefined {
     },
     {
       type: "checkbox",
-      name: GetString(SI_ICTHENEXTBOSS_OPTION_MAPTIMERS),
-      tooltip: GetString(SI_ICTHENEXTBOSS_OPTION_MAPTIMERS_TOOLTIP),
+      name: GetString(SI_TEMPER_NEXTBOSS_OPTION_MAPTIMERS),
+      tooltip: GetString(SI_TEMPER_NEXTBOSS_OPTION_MAPTIMERS_TOOLTIP),
       getFunc: (): boolean => ICT.savedVariables.maptimers,
       setFunc: (value: boolean): undefined => {
         ICT.savedVariables.maptimers = value
@@ -61,7 +61,7 @@ ICT.initializeSettingsMenu = function (this: void): undefined {
     },
     {
       type: "checkbox",
-      name: GetString(SI_ICTHENEXTBOSS_OPTION_EVENT_TIMERS),
+      name: GetString(SI_TEMPER_NEXTBOSS_OPTION_EVENT_TIMERS),
       getFunc: (): boolean => ICT.savedVariables.eventtimers,
       setFunc: (value: boolean): undefined => {
         ICT.savedVariables.eventtimers = value
@@ -82,7 +82,7 @@ ICT.initializeSettingsMenu = function (this: void): undefined {
     },
     {
       type: "checkbox",
-      name: GetString(SI_ICTHENEXTBOSS_OPTION_RUN_DIRECTION),
+      name: GetString(SI_TEMPER_NEXTBOSS_OPTION_RUN_DIRECTION),
       getFunc: (): boolean => ICT.savedVariables.ccw_cw,
       setFunc: (value: boolean): undefined => {
         ICT.savedVariables.ccw_cw = value

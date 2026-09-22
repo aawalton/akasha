@@ -90,7 +90,7 @@ ICT.enable = function (this: void): undefined {
   EVENT_MANAGER.RegisterForEvent(ICT.name, EVENT_UNIT_DEATH_STATE_CHANGED, ICT.onMonsterDeath)
   EVENT_MANAGER.RegisterForEvent(ICT.name, EVENT_RETICLE_TARGET_CHANGED, ICT.onMonsterReticle)
   EVENT_MANAGER.RegisterForUpdate(UPDATE_LOOP_NAME, 1000, ICT.updateTimers)
-  TemperNextBossTimeTable.SetWidth(tonumber(GetString(SI_ICTHENEXTBOSS_GUI_WIDTH)) ?? 0)
+  TemperNextBossTimeTable.SetWidth(tonumber(GetString(SI_TEMPER_NEXTBOSS_GUI_WIDTH)) ?? 0)
   ICT.showTimetable()
   ICT.restoreTimers()
   ICT.running = true
