@@ -43,6 +43,7 @@ export type SandboxedLuaVm = {
 
 export type MakeSandboxedLuaVmOptions = {
   readonly bannedGlobals: readonly string[]
+  readonly loadedFirst?: readonly string[]
 }
 
 export async function makeSandboxedLuaVm(
@@ -51,6 +52,7 @@ export async function makeSandboxedLuaVm(
   const luaVm = await makeLuaVm()
   await luaVm.run(`__eso_banned = ${marshalLuaValue([...options.bannedGlobals])}`)
   await luaVm.run(preludeText())
+  for (const source of options.loadedFirst ?? []) await luaVm.run(source)
 
   const pendingSeeds: string[] = []
 

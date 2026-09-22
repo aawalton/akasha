@@ -21,6 +21,10 @@ export const sandboxedLuaVm = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Lua the caller names is loaded among the real globals after the prelude.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A seeded value waits until the next source is loaded.",
     },
     {
