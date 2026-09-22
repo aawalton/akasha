@@ -4371,6 +4371,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/map-pins-volendrung/map-pins-volendrung.module.ts","id":"01a06269-2b0d-7cd2-b04c-3b0534fc7eba"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/map-pins-wrothgar-relics/map-pins-wrothgar-relics.module.ts","id":"01a06269-2b0e-7f24-9349-1f8a948fdcad"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/map-pins-zone-achievement/map-pins-zone-achievement.module.ts","id":"01a06269-2b10-7be6-8fd7-e3a288a28890"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/minimap-ui-strings/minimap-ui-strings.module.ts","id":"01a06269-2975-7fb4-b000-c446f30904cb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/minimap-view-types/minimap-view-types.module.ts","id":"01a06269-2b11-7ab4-91ef-f78f20b801bc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/navigation-declarations/navigation-declarations.type-declaration.ts","id":"01a06269-2b16-7e93-92d5-2c6e6bb9cb17"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/temper-addon-world-navigation.domain.ts","id":"01a0c6e7-9054-7191-bd84-4e8d7e6bb16e"}

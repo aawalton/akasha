@@ -789,6 +789,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/map-pins-unknown-poi-04/map-pins-unknown-poi-04.module.ts","id":"01a06269-2b07-7350-94f2-869b00dfcf30"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/map-pins-unknown-poi-05/map-pins-unknown-poi-05.module.ts","id":"01a06269-2b08-7090-94dc-573ef206ca16"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/map-pins-unknown-poi-06/map-pins-unknown-poi-06.module.ts","id":"01a06269-2b0a-724e-9c85-f4d096833121"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/minimap-ui-strings/minimap-ui-strings.module.ts","id":"01a06269-2975-7fb4-b000-c446f30904cb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/quests-auto-quest/quests-auto-quest.module.ts","id":"01a0635f-391c-7561-9ad8-9f05904aa99c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/quests-chatter-name-tables/quests-chatter-name-tables.module.ts","id":"01a0635f-391c-79f3-87e1-6c303b4a5402"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/quests-classify/quests-classify.module.ts","id":"01a0635f-391c-79c4-8464-429301bdaa3c"}
