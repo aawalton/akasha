@@ -10,6 +10,7 @@ export const summoning = {
   evidenceChapter: "1.00 C",
   evidenceNote:
     "asserted 'Those first few days when we were all summoned to this world' — unique global moment (rhia-ruled 2026-07-15)",
+  firstChapter: 97,
   namedEventKind: "global-event",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

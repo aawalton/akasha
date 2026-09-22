@@ -10,7 +10,7 @@ export const christmasY1 = {
   evidenceChapter: "3.38",
   evidenceNote:
     "ruled from sweep evidence 'Tomorrow, maybe? Or the day after?' (rhia-ruled 2026-07-15 drain-end batch)",
-  firstChapter: 160,
+  firstChapter: 171,
   namedEventKind: "festival",
   lastChapter: 230,
   world: "world/the-wandering-inn",

@@ -15,6 +15,7 @@ export const battleOfMedain = {
   evidenceBeat: 73,
   evidenceChapter: "7.48 K",
   evidenceNote: "ruled from sweep evidence 'a day ago' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 455,
   namedEventKind: "battle",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

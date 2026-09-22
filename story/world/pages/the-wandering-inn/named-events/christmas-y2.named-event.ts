@@ -10,7 +10,7 @@ export const christmasY2 = {
   evidenceChapter: "10.27 GMG",
   evidenceNote:
     "ruled from sweep evidence 'just after Christmas' (rhia-ruled 2026-07-15 drain-end batch)",
-  firstChapter: 620,
+  firstChapter: 741,
   namedEventKind: "festival",
   lastChapter: 750,
   world: "world/the-wandering-inn",

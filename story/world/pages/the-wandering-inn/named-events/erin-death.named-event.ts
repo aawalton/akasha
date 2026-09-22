@@ -10,6 +10,7 @@ export const erinDeath = {
   evidenceChapter: "8.01",
   evidenceNote:
     "ruled from sweep evidence 'shortly after Erin had been hurt' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 484,
   namedEventKind: "global-event",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

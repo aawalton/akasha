@@ -10,6 +10,7 @@ export const antiniumDeparture = {
   evidenceChapter: "Interlude – The Antinium Wars (Pt.1)",
   evidenceNote:
     "ruled from sweep evidence 'nearly eight months after the Antinium left Rhir' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 112,
   namedEventKind: "global-event",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

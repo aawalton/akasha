@@ -10,7 +10,7 @@ export const winterSolsticeY2 = {
   evidenceChapter: "9.69 H (Pt. 1)",
   evidenceNote:
     "ruled from sweep evidence 'In the days leading up to the Solstice.' — the pivotal Solstice; ch655 fixes it to last day of Mouring / first of Elfebelfast (in-world calendar) (rhia-ruled 2026-07-15 drain-end batch)",
-  firstChapter: 625,
+  firstChapter: 683,
   namedEventKind: "festival",
   lastChapter: 824,
   world: "world/the-wandering-inn",

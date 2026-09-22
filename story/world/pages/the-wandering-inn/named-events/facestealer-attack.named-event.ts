@@ -9,6 +9,7 @@ export const facestealerAttack = {
   evidenceChapter: "9.25",
   evidenceNote:
     "ruled from sweep evidence 'the day when Facestealer attacked and was defeated' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 623,
   namedEventKind: "battle",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

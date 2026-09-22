@@ -9,6 +9,7 @@ export const palaceOfFates = {
   evidenceChapter: "Interlude - Vernoue (Pt. 1)",
   evidenceNote:
     "ruled from sweep evidence 'around two weeks after the Palace of Fates incident' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 773,
   namedEventKind: "global-event",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

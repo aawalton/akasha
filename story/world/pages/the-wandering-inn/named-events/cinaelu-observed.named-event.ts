@@ -10,7 +10,7 @@ export const cinaeluObserved = {
   evidenceChapter: "8.26 FK",
   evidenceNote:
     "ruled from sweep evidence 'On Cinaelu' — one observed instance; scoped in case the holiday recurs (rhia-ruled 2026-07-15 drain-end batch)",
-  firstChapter: 505,
+  firstChapter: 514,
   namedEventKind: "festival",
   lastChapter: 530,
   world: "world/the-wandering-inn",

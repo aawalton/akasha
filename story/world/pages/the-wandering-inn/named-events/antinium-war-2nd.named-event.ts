@@ -10,6 +10,7 @@ export const antiniumWar2nd = {
   evidenceChapter: "10.44 Z (Pt. 1)",
   evidenceNote:
     "ruled from sweep evidence 'the 2nd Antinium War had been merely ten years ago' — bare antinium-war aliased here - its one ref is explicit; add windows if future refs collide (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 778,
   namedEventKind: "battle",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

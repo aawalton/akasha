@@ -10,6 +10,7 @@ export const siegeOfLiscor = {
   evidenceChapter: "6.29",
   evidenceNote:
     "ruled from sweep evidence 'Since the siege at Liscor' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 340,
   namedEventKind: "battle",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

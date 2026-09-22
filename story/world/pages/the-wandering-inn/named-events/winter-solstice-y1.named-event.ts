@@ -10,7 +10,7 @@ export const winterSolsticeY1 = {
   evidenceChapter: "3.42",
   evidenceNote:
     "ruled from sweep evidence 'The longest night began' — narration: The longest night began / shortest day of the year (rhia-ruled 2026-07-15 drain-end batch)",
-  firstChapter: 130,
+  firstChapter: 175,
   namedEventKind: "festival",
   lastChapter: 230,
   world: "world/the-wandering-inn",

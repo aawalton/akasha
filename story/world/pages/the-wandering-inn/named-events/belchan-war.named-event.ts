@@ -14,6 +14,7 @@ export const belchanWar = {
   evidenceChapter: "Interlude - Dancing and Brawling",
   evidenceNote:
     "ruled from sweep evidence 'Hours into the first proper day' — tightly-linked event series ch401-410 (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 402,
   namedEventKind: "battle",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

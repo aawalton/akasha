@@ -10,7 +10,7 @@ export const villageOfDeadRaid = {
   evidenceChapter: "8.20",
   evidenceNote:
     "ruled from sweep evidence 'The day after the Horns vanished, life resumed.' — window excludes ch68 horns-death - that is the V1 Liscor crypt event (skinner-death), a slug collision (rhia-ruled 2026-07-15 drain-end batch)",
-  firstChapter: 495,
+  firstChapter: 507,
   namedEventKind: "battle",
   lastChapter: 824,
   world: "world/the-wandering-inn",

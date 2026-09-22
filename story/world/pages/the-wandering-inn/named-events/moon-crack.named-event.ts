@@ -9,6 +9,7 @@ export const moonCrack = {
   evidenceChapter: "Interlude – Halfseekers (Pt. 9)",
   evidenceNote:
     "ruled from sweep evidence 'since the moon cracked' — before/after refs cleanly bracket ch791-816 (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 791,
   namedEventKind: "global-event",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

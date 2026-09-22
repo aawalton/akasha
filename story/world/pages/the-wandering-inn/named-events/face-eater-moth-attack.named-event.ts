@@ -9,6 +9,7 @@ export const faceEaterMothAttack = {
   evidenceChapter: "5.12",
   evidenceNote:
     "ruled from sweep evidence 'since the battle on the walls yesterday' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 253,
   namedEventKind: "battle",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

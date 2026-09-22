@@ -10,7 +10,7 @@ export const goblinLordFinalBattle = {
   evidenceChapter: "6.02",
   evidenceNote:
     "ruled from sweep evidence 'It had been six days since the attack of the Goblin Lord' — window excludes ch187 goblin-lord-battle ref (foreshadowing) (rhia-ruled 2026-07-15 drain-end batch)",
-  firstChapter: 240,
+  firstChapter: 313,
   namedEventKind: "battle",
   lastChapter: 400,
   world: "world/the-wandering-inn",

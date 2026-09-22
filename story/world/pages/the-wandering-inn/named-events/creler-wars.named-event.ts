@@ -10,6 +10,7 @@ export const crelerWars = {
   evidenceChapter: "Interlude - Another Time",
   evidenceNote:
     "ruled from sweep evidence 'at the height of the Creler Wars' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 710,
   namedEventKind: "battle",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

@@ -10,6 +10,7 @@ export const esthelmBurning = {
   evidenceChapter: "2.48",
   evidenceNote:
     "ruled from sweep evidence 'A Goblin army just attacked Esthelm and burned it to the ground!' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 123,
   namedEventKind: "battle",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

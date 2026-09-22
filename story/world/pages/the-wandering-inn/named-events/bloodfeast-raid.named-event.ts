@@ -10,6 +10,7 @@ export const bloodfeastRaid = {
   evidenceChapter: "Interlude - A Meeting of [Druids]",
   evidenceNote:
     "ruled from sweep evidence 'After the Bloodfeast Raiders attack' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 434,
   namedEventKind: "battle",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

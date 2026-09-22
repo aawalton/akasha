@@ -10,6 +10,7 @@ export const goblinKingReturn = {
   evidenceChapter: "10.37 GDI (Pt. 2)",
   evidenceNote:
     "ruled from sweep evidence 'after the return of the Goblin King' — NOT Velan (velan-death is separate) - evidence says return of (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 763,
   namedEventKind: "global-event",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

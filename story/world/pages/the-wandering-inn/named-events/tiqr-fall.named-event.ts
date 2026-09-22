@@ -10,6 +10,7 @@ export const tiqrFall = {
   evidenceChapter: "6.55 K",
   evidenceNote:
     "ruled from sweep evidence 'Tiqr had fallen this morning' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 371,
   namedEventKind: "battle",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

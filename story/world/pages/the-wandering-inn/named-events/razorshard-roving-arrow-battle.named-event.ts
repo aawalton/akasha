@@ -9,6 +9,7 @@ export const razorshardRovingArrowBattle = {
   evidenceChapter: "1.02 D",
   evidenceNote:
     "ruled from sweep evidence 'a day before reaching the battleground' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 195,
   namedEventKind: "battle",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

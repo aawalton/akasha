@@ -10,6 +10,7 @@ export const challengeGolems = {
   evidenceChapter: "Interlude - Wistram Days (Pt. 7)",
   evidenceNote:
     "ruled from sweep evidence 'only two weeks away' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 164,
   namedEventKind: "global-event",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent

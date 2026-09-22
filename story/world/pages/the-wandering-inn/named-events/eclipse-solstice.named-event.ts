@@ -10,7 +10,7 @@ export const eclipseSolstice = {
   evidenceChapter: "Solstice (Pt. 1)",
   evidenceNote:
     "ruled from sweep evidence 'The sun went out' — the sun went out - strongest cross-POV simultaneity; ch748 later eclipse left unresolved (eclipses recur) (rhia-ruled 2026-07-15 drain-end batch)",
-  firstChapter: 465,
+  firstChapter: 474,
   namedEventKind: "global-event",
   lastChapter: 500,
   world: "world/the-wandering-inn",

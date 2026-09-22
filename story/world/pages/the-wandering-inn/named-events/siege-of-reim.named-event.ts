@@ -9,6 +9,7 @@ export const siegeOfReim = {
   evidenceChapter: "8.53 FH",
   evidenceNote:
     "ruled from sweep evidence 'At the same time the Vizir was causing trouble, it was true that the siege of Reim had begun.' (rhia-ruled 2026-07-15 drain-end batch)",
+  firstChapter: 548,
   namedEventKind: "battle",
   world: "world/the-wandering-inn",
 } as const satisfies NamedEvent
