@@ -324,8 +324,11 @@ test("a `-C` path in this repository is refused, symlink or no symlink", () => {
   expect(refusalIn(`git -C ${AT.link} commit -m one`)).not.toBeNull()
 })
 
-test("a worktree of this repository is this repository, wherever it is checked out", () => {
-  expect(refusalIn(`git -C ${AT.nested} commit -m one`)).not.toBeNull()
+test("a pinned tree under this checkout is refused for sitting under this toplevel", () => {
+  expect(refusalIn(`git -C ${AT.exported} commit -m one`)).not.toBeNull()
+})
+
+test("a worktree of this repository checked out elsewhere is refused for sharing its git folder", () => {
   expect(refusalIn(`git -C ${AT.outside} commit -m one`)).not.toBeNull()
 })
 
