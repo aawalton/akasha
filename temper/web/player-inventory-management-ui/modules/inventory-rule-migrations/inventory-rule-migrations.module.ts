@@ -4,6 +4,6 @@ export const inventoryRuleMigrations = {
   id: "01a0636c-5d9b-77bf-a596-9a698e6b001e",
   type: "page-type/module",
   slug: "inventory-rule-migrations",
-  definition: "an older inventory rule read into the shape the rules take now",
+  definition: "an older inventory rule turned into the shape the rules take now",
   code: "ts",
 } as const satisfies Module

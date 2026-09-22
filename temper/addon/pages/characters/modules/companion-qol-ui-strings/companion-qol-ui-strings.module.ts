@@ -4,7 +4,7 @@ export const companionQolUiStrings = {
   id: "01a0611d-84cf-7108-b5a0-b6dd7fb82ad8",
   type: "page-type/module",
   slug: "companion-qol-ui-strings",
-  definition: "the words the quality-of-life settings menu reads as",
+  definition: "the words the quality-of-life settings menu shows",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,8 @@ export const questsAutoQuest = {
   id: "01a0635f-391c-7561-9ad8-9f05904aa99c",
   type: "page-type/module",
   slug: "quests-auto-quest",
-  definition: "the game's dialogue read into a snapshot, and the decision carried back to the game",
+  definition:
+    "the game's dialogue turned into a snapshot, and the decision carried back to the game",
   code: "ts",
   decisions: [
     {

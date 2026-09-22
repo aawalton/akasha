@@ -4,7 +4,7 @@ export const watcherSettingsNormalize = {
   id: "01a06367-c4f5-75c7-bf34-7f05e44866aa",
   type: "page-type/module",
   slug: "watcher-settings-normalize",
-  definition: "how the logging and safety settings the game wrote are read into known values",
+  definition: "how the logging and safety settings the game wrote are turned into known values",
   code: "ts",
   test: "ts",
   decisions: [

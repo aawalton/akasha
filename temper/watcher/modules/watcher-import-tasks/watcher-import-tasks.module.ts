@@ -4,7 +4,7 @@ export const watcherImportTasks = {
   id: "01a06381-35cf-7769-9717-fa7f6b0898ae",
   type: "page-type/module",
   slug: "watcher-import-tasks",
-  definition: "a task capture read into completions marked on the tasks themselves",
+  definition: "a task capture turned into completions marked on the tasks themselves",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

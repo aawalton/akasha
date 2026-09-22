@@ -4,7 +4,7 @@ export const watcherTaskCapture = {
   id: "01a076f7-553a-76cf-a7a6-6c6dd69f52a9",
   type: "page-type/module",
   slug: "watcher-task-capture",
-  definition: "the task capture read into whole-task completions and per-character marks",
+  definition: "the task capture turned into whole-task completions and per-character marks",
   code: "ts",
   testFixtures: "ts",
   decisions: [

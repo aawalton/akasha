@@ -4,7 +4,7 @@ export const chatMessageCasts = {
   id: "01a06060-0d14-7717-b700-44162c6cbf37",
   type: "page-type/module",
   slug: "chat-message-casts",
-  definition: "what an untyped chat value the game hands over is read as",
+  definition: "what an untyped chat value the game hands over is taken as",
   code: "ts",
   decisions: [
     {

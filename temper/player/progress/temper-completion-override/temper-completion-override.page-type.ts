@@ -5,7 +5,7 @@ export const temperCompletionOverride = {
   type: "page-type/page-type",
   slug: "temper-completion-override",
   definition:
-    "a completion count set by hand where the game's own count would read as a gap that is not one",
+    "a completion count set by hand where the game's own count would show as a gap that is not one",
   extends: ["page-type/temper-progress-thing"],
   parts: ["number-property/floor", "text-property/override-reason"],
   properties: [

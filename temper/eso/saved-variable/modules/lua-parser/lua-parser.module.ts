@@ -4,7 +4,7 @@ export const luaParser = {
   id: "01a06053-3635-710f-8f31-18095cf8a395",
   type: "page-type/module",
   slug: "lua-parser",
-  definition: "the text of a saved-variables file read into plain data",
+  definition: "the text of a saved-variables file turned into plain data",
   code: "ts",
   decisions: [
     {

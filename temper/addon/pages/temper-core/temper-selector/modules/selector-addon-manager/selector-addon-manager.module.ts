@@ -4,6 +4,6 @@ export const selectorAddonManager = {
   id: "01a061ef-c8a5-7cfb-8274-8a9896bd3526",
   type: "page-type/module",
   slug: "selector-addon-manager",
-  definition: "the game's add-on manager read as a list of add-ons and their on-off state",
+  definition: "the game's add-on manager taken as a list of add-ons and their on-off state",
   code: "ts",
 } as const satisfies Module

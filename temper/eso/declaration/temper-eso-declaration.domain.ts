@@ -4,7 +4,7 @@ export const temperEsoDeclaration = {
   id: "01a0673e-3ddf-7000-a6f4-66fa0861fb9d",
   type: "page-type/domain",
   slug: "temper-eso-declaration",
-  definition: "the game's own API documentation dump read as TypeScript declarations",
+  definition: "the game's own API documentation dump turned into TypeScript declarations",
   parts: [
     "eso-opt-in-list/declared-tokens",
     "module/eso-declaration-text",

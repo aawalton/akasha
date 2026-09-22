@@ -4,7 +4,7 @@ export const tableFunctionCasts = {
   id: "01a06052-2ca5-78e3-9cd6-62ac3cdd5bed",
   type: "page-type/module",
   slug: "table-function-casts",
-  definition: "what an unknown handed to a table helper is read as",
+  definition: "what an unknown handed to a table helper is taken as",
   code: "ts",
   decisions: [
     {

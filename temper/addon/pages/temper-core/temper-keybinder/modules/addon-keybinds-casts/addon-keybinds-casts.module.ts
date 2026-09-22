@@ -4,7 +4,7 @@ export const addonKeybindsCasts = {
   id: "01a0605a-051b-7355-a78a-16ba2dc843c5",
   type: "page-type/module",
   slug: "addon-keybinds-casts",
-  definition: "what a value out of the game's untyped keybinding tables is read as",
+  definition: "what a value out of the game's untyped keybinding tables is taken as",
   code: "ts",
   decisions: [
     {
