@@ -201,7 +201,7 @@ function globalTable(typing: Typing, node: ts.Expression): boolean {
   return false
 }
 
-export function namesOf(declared: ReadonlySet<ts.Node>): ReadonlySet<string> {
+function namesOf(declared: ReadonlySet<ts.Node>): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of declared) {
     const named = declaredAs(one)

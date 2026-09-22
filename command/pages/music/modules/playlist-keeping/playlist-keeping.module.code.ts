@@ -71,7 +71,7 @@ export function noPlaylistAt(slug: string): string {
   return `the \`${PLAYLIST}/${slug}\` page names no spotify playlist to keep up to date`
 }
 
-export function followedIn(root: string): ReadonlySet<string> {
+function followedIn(root: string): ReadonlySet<string> {
   const held = new Set<string>()
   for (const one of valuesOfType(root, ARTIST)) {
     if (textIn(one.value, "status") !== FOLLOWING) continue
@@ -87,7 +87,7 @@ function pickedFor(root: string, picking: Picking): readonly Picked[] {
   return picking(tracks, releases, followedIn(root))
 }
 
-export function playlistIn(root: string, slug: string): Named | null {
+function playlistIn(root: string, slug: string): Named | null {
   const held = valuedAt(root, PLAYLIST, slug).value[IDENTITY]
   const id = idFrom(held, SPOTIFY)
   return id === null ? null : { id, link: linkFrom(held, SPOTIFY) }
@@ -127,21 +127,21 @@ export function jsonOf(kept: Kept): string {
   })
 }
 
-export function heldAfter(holding: readonly string[], said: Reconciled): readonly string[] {
+function heldAfter(holding: readonly string[], said: Reconciled): readonly string[] {
   const gone = new Set(said.removing)
   return [...holding.filter((one) => !gone.has(one)), ...said.adding]
 }
 
-export function sameOrder(mine: readonly string[], theirs: readonly string[]): boolean {
+function sameOrder(mine: readonly string[], theirs: readonly string[]): boolean {
   if (mine.length !== theirs.length) return false
   return mine.every((one, at) => one === theirs[at])
 }
 
-export function wantedIn(kept: Kept): readonly string[] {
+function wantedIn(kept: Kept): readonly string[] {
   return kept.picked.map((one) => one.trackId)
 }
 
-export function outOfOrder(kept: Kept): boolean {
+function outOfOrder(kept: Kept): boolean {
   return !sameOrder(wantedIn(kept), heldAfter(kept.holding, kept.said))
 }
 

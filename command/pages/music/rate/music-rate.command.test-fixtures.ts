@@ -33,7 +33,7 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 
 export const scratch = scratchWorld()
 
-export const ROOT = rootOf(process.cwd())
+const ROOT = rootOf(process.cwd())
 
 export const GIVEN: Given = {
   root: ROOT,

@@ -46,7 +46,7 @@ export function makeSentence(parsed: ParsedSentence): DepSentence {
   return { text: parsed.text, tokens: parsed.tokens, children }
 }
 
-export function childrenOf(sentence: DepSentence, id: number): DepToken[] {
+function childrenOf(sentence: DepSentence, id: number): DepToken[] {
   return sentence.children.get(id) ?? []
 }
 

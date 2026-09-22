@@ -6,7 +6,7 @@ import {
   JOB_NAMESPACE,
 } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
 
-export const AUDIT_CACHE_PATH = "/var/lib/audit-cache"
+const AUDIT_CACHE_PATH = "/var/lib/audit-cache"
 
 const ROOM = "50Gi"
 

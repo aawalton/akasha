@@ -18,7 +18,7 @@ import { modelAccountDisable as page } from "akasha/command/pages/model-account/
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
-export const WITHDRAWN_REASON = "the subscription was cancelled"
+const WITHDRAWN_REASON = "the subscription was cancelled"
 
 export function modelAccountDisable(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [account])

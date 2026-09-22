@@ -89,7 +89,7 @@ export function gradedPart(pageTypeSlug: string): boolean {
   return pageTypeSlug !== SONG
 }
 
-export function partsUnder(root: string, id: string): readonly Part[] {
+function partsUnder(root: string, id: string): readonly Part[] {
   const found: Part[] = []
   const seen = new Set<string>([id])
   const walking: string[] = [id]
@@ -137,11 +137,7 @@ export function chosenAmong(parts: readonly Part[], regrading: boolean): Chosen 
   return { counts, taking, naming }
 }
 
-export function changesFor(
-  root: string,
-  taking: readonly Part[],
-  marked: string
-): readonly Asking[] {
+function changesFor(root: string, taking: readonly Part[], marked: string): readonly Asking[] {
   const source = sourceFor(root)
   return taking.map((one) =>
     composedEdit(root, one.pageTypeSlug, one.slug, { ...one.value, [GRADE_KEY]: marked }, source)

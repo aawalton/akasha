@@ -225,11 +225,11 @@ export function enteredFor(entries: readonly Entry[], body: string): Entered {
   return { enterings, wrong }
 }
 
-export function enteredIn(root: string, body: string = bodyAt()): Entered {
+function enteredIn(root: string, body: string = bodyAt()): Entered {
   return enteredFor(entriesIn(root), body)
 }
 
-export function rootNeededAt(at: string): boolean {
+function rootNeededAt(at: string): boolean {
   if ((process.getuid?.() ?? 0) === 0) return false
   let here = dirname(at)
   for (;;) {
@@ -273,7 +273,7 @@ export function running(argv: readonly string[]): Ran {
   return { code: held.code, out: `${held.out}${held.err}`.trim() }
 }
 
-export function onward(said: string): undefined {
+function onward(said: string): undefined {
   process.stderr.write(`${said}\n`)
 }
 
@@ -316,7 +316,7 @@ export function placedEach(
   return { did, refused }
 }
 
-export function placedWith(
+function placedWith(
   root: string,
   report: readonly string[],
   standings: readonly Standing[],
@@ -331,7 +331,7 @@ export function placedWith(
   return told(said)
 }
 
-export function placedBy(
+function placedBy(
   root: string,
   report: readonly string[],
   standings: readonly Standing[],

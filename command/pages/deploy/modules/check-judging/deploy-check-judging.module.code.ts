@@ -108,7 +108,7 @@ export async function judgementOf(
   }
 }
 
-export async function judgedOnDeploy(
+async function judgedOnDeploy(
   root: string,
   slug: string,
   was: string | null,

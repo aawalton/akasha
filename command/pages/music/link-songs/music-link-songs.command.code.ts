@@ -57,10 +57,7 @@ export type Counted = {
 
 export type Linking = { readonly counts: Counted; readonly changes: readonly Asking[] }
 
-export function taken(
-  argv: readonly string[],
-  calledAs: string
-): Taken | { readonly refused: string } {
+function taken(argv: readonly string[], calledAs: string): Taken | { readonly refused: string } {
   const read = takenFor(argv, calledAs, page, NAMED)
   if ("refused" in read) return { refused: read.refused.join(" ") }
   return { json: read.taken.json, limit: read.taken.trackLimit ?? null }
@@ -77,7 +74,7 @@ export function songOn(
   return songForTrack(filing, artistSlug, title)
 }
 
-export function linkingIn(root: string, limit: number | null = null): Linking {
+function linkingIn(root: string, limit: number | null = null): Linking {
   const filing = filingIn(root)
   const byRelease = artistByRelease(root)
   const source = sourceFor(root)
@@ -116,7 +113,7 @@ export function linkingIn(root: string, limit: number | null = null): Linking {
   return { counts: { tracks, linked, relinked, unlinked, held, filed, unmatched }, changes }
 }
 
-export function rowsOf(counts: Counted): readonly string[] {
+function rowsOf(counts: Counted): readonly string[] {
   return [
     `tracks\t${counts.tracks}`,
     `linked\t${counts.linked}`,
@@ -128,7 +125,7 @@ export function rowsOf(counts: Counted): readonly string[] {
   ]
 }
 
-export function messageOf(counts: Counted): string {
+function messageOf(counts: Counted): string {
   return `file ${counts.filed} song(s) and name the song on ${counts.linked + counts.relinked} track(s)`
 }
 

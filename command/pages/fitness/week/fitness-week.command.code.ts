@@ -46,7 +46,7 @@ export function patternRows(tally: Tally): readonly string[] {
     .map((held) => rowOf(held.one, held.took, ""))
 }
 
-export function saidOf(
+function saidOf(
   tally: Tally,
   from: string,
   to: string,
@@ -64,7 +64,7 @@ export function saidOf(
   ]
 }
 
-export function weekOf(root: string, to: string) {
+function weekOf(root: string, to: string) {
   const held = weekIn(root, to, selectionPolicy.nearFailureRpeFloor)
   const tally = held.tally
   const from = held.from

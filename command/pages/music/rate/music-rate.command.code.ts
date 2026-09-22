@@ -94,7 +94,7 @@ const WHOLE = true
 
 const LAST_FEW = 3
 
-export const playedLast: PlayedReader = () => getRecentlyPlayed({ limit: LAST_FEW })
+const playedLast: PlayedReader = () => getRecentlyPlayed({ limit: LAST_FEW })
 
 const ARTIST_PROSE = [reaction.slug]
 
@@ -245,14 +245,14 @@ export function taken(argv: readonly string[], given: Given): Reading {
   }
 }
 
-export function slugCarrying(root: string, externalId: string): string | null {
+function slugCarrying(root: string, externalId: string): string | null {
   return slugCarried(
     valuesOfType(root, TRACK).map((one) => one.value),
     externalId
   )
 }
 
-export function taggedOver(was: Value, said: readonly string[]): readonly string[] {
+function taggedOver(was: Value, said: readonly string[]): readonly string[] {
   const held = [...(textsAt(was, TAGS) ?? [])]
   for (const one of said) if (!held.includes(one)) held.push(one)
   return held

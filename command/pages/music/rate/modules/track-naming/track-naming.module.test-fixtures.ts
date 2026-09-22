@@ -26,7 +26,7 @@ export function itemsOf(
   return tracks.map((track) => ({ track }))
 }
 
-export function historyOf(
+function historyOf(
   tracks: readonly { readonly id: string | null; readonly name: string }[]
 ): PlayedReader {
   const items = itemsOf(tracks)

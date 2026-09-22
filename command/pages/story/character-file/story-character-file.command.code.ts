@@ -28,7 +28,7 @@ export type Taken = { readonly dir: string; readonly batch: number }
 
 export type Reading = Taken | { readonly refused: string }
 
-export function taken(argv: readonly string[], calledAs: string): Reading {
+function taken(argv: readonly string[], calledAs: string): Reading {
   const read = takenFor(argv, calledAs, page, NAMED)
   if ("refused" in read) return { refused: read.refused.join(" ") }
   const held = read.taken
@@ -41,7 +41,7 @@ export function taken(argv: readonly string[], calledAs: string): Reading {
   return { dir, batch }
 }
 
-export function rowsOf(said: Landed): readonly string[] {
+function rowsOf(said: Landed): readonly string[] {
   return [
     `characters\t${said.characters}`,
     `claims\t${said.claims}`,

@@ -143,7 +143,7 @@ export function valuesMerged(keep: Held, group: readonly Held[]): Value {
   return heardOver(group) ? valuesHeard(was) : was
 }
 
-export function tracksIn(root: string): readonly Held[] {
+function tracksIn(root: string): readonly Held[] {
   const rows: Held[] = []
   for (const one of valuesOfType(root, TRACK)) {
     const slug = textIn(one.value, "slug")
@@ -153,7 +153,7 @@ export function tracksIn(root: string): readonly Held[] {
   return rows
 }
 
-export function mergingOver(root: string, tracks: readonly Held[]): Merging {
+function mergingOver(root: string, tracks: readonly Held[]): Merging {
   const source = sourceFor(root)
   const groups = groupedOver(tracks)
   const written: Asking[] = []

@@ -30,11 +30,11 @@ export function commitNamed(root: string, said: string): string {
   return read
 }
 
-export function commitDir(commit: string): string {
+function commitDir(commit: string): string {
   return join(homedir(), PROJECTS, commit)
 }
 
-export function treePath(commit: string): string {
+function treePath(commit: string): string {
   return join(commitDir(commit), TREE)
 }
 

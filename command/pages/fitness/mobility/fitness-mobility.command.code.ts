@@ -110,7 +110,7 @@ export function saidOf(ways: readonly Way[]): readonly string[] {
   return said
 }
 
-export function mobilityIn(root: string): readonly Way[] {
+function mobilityIn(root: string): readonly Way[] {
   return waysIn(readingsIn(valuesOfType(root, READING_TYPE).map((one) => one.value)))
 }
 

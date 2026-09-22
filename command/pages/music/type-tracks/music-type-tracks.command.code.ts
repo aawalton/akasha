@@ -59,7 +59,7 @@ export function typedOver(value: Value, title: string): Value | null {
   return value[TRACK_TYPE] === kind ? null : { ...value, [TRACK_TYPE]: kind }
 }
 
-export function typingIn(root: string, most: number | null): Typing {
+function typingIn(root: string, most: number | null): Typing {
   const source = sourceFor(root)
   const changes: Asking[] = []
   let tracks = 0

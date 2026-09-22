@@ -57,7 +57,7 @@ export function taken(argv: readonly string[], calledAs: string): Read {
   return { game: named, ledger }
 }
 
-export function foundIn(root: string, said: string): Found | null {
+function foundIn(root: string, said: string): Found | null {
   const named = addressIn(said)
   const slug = named.kind === "qualified" ? named.slug : said
   const listed = listedAt(root, game.slug, slug)[0]

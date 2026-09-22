@@ -120,11 +120,7 @@ export type Giving = {
   readonly points: number
 }
 
-export function givingFor(
-  root: string,
-  boosts: readonly Boost[],
-  at: string
-): readonly Giving[] | string {
+function givingFor(root: string, boosts: readonly Boost[], at: string): readonly Giving[] | string {
   const found: Giving[] = []
   for (const one of boosts) {
     const listed = listedAt(root, CONTRIBUTOR, one.contributor)[0]
