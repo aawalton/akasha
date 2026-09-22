@@ -5,7 +5,7 @@ export const decisionStatement = {
   type: "page-type/standard-agent-english-property",
   slug: "decision-statement",
   propertySlug: "statement",
-  definition: "one sentence a decision has a page to",
+  definition: "a sentence a decision has a page to",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

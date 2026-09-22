@@ -4,7 +4,7 @@ export const nounRun = {
   id: "01a0c61f-fd05-7af5-b494-15e0c3ced279",
   type: "page-type/phrase-kind",
   slug: "noun-run",
-  definition: "one noun with the nouns before it saying what sort of thing that noun is",
+  definition: "a noun with the nouns before it saying what sort of thing that noun is",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

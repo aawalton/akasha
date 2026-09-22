@@ -5,7 +5,7 @@ export const writtenFrom = {
   type: "page-type/one-of-property",
   slug: "written-from",
   propertySlug: "written-from",
-  definition: "one thing a construction writes its phrase from, in the order written",
+  definition: "a thing a construction writes its phrase from, in the order written",
   members: ["relation-property/part-of-speech", "relation-property/phrase-kind"],
   decisions: [
     {

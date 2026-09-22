@@ -4,7 +4,7 @@ export const bannedTerm = {
   id: "01a081ea-d66b-7bae-bde1-753ebd310536",
   type: "page-type/page-type",
   slug: "banned-term",
-  definition: "one term akasha writes another term in place of",
+  definition: "a term akasha writes another term in place of",
   parts: [
     "record-property/replacement-patterns",
     "relation-property/prose-frame",
