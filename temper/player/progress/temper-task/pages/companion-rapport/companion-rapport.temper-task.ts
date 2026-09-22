@@ -6,7 +6,7 @@ export const companionRapport = {
   slug: "companion-rapport",
   title: "Companion Rapport",
   icon: "file-text",
-  character: "temper-account-character/maviola-el",
+  character: "temper-account-character/erin-solstice",
   completionCard: "temper-completion-category/characters-companion-rapport-character",
   dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY;INTERVAL=1",
@@ -17,5 +17,6 @@ export const companionRapport = {
   lastCompletedAt: "2026-09-21T19:48:27.210Z",
   progress: "jsonl",
   progressTotal: 640000,
-  progressCurrent: 79614,
+  progressCurrent: 56898,
+  effectiveCharacter: "temper-account-character/erin-solstice",
 } as const satisfies TemperTask
