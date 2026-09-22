@@ -5,6 +5,6 @@ export const itemCategoryTreeData = {
   type: "page-type/module",
   slug: "item-category-tree-data",
   definition:
-    "the whole item category tree, gathered from its parts, and the order to try roots in",
+    "the whole item category tree, gathered from its parts, and the order for trying roots",
   code: "ts",
 } as const satisfies Module

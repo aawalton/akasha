@@ -5,7 +5,7 @@ export const numRequired = {
   type: "page-type/number-property",
   slug: "num-required",
   propertySlug: "num-required",
-  definition: "how many pieces of a set a bonus asks for",
+  definition: "how many pieces of a set a bonus needs",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

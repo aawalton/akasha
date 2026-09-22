@@ -4,7 +4,7 @@ export const itemFacts = {
   id: "01a06137-f96c-7332-b371-6a8536a60c01",
   type: "page-type/module",
   slug: "item-facts",
-  definition: "the per-item signals a compiled inventory rule is evaluated against",
+  definition: "the per-item signals evaluating a compiled inventory rule",
   code: "ts",
   decisions: [
     {

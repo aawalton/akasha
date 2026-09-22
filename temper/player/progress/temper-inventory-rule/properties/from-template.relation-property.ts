@@ -5,7 +5,7 @@ export const fromTemplate = {
   type: "page-type/relation-property",
   slug: "from-template",
   propertySlug: "from-template",
-  definition: "the template a rule in force was adopted from",
+  definition: "the template of a rule in force",
   targetPageType: "page-type/temper-rule-template",
   decisions: [
     {

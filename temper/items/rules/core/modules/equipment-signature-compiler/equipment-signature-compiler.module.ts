@@ -4,7 +4,7 @@ export const equipmentSignatureCompiler = {
   id: "01a06276-e3e7-73dc-b7c5-e02a70f1c789",
   type: "page-type/module",
   slug: "equipment-signature-compiler",
-  definition: "a build's wanted gear written as the numbers the game states items by",
+  definition: "a build's wanted gear written as the game's own item numbers",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const temperSavedVariable = {
   id: "01a06053-3633-77f0-8acd-df36807c5f6c",
   type: "page-type/domain",
   slug: "temper-saved-variable",
-  definition: "the Lua file the game writes an add-on's own state into",
+  definition: "the Lua file holding the add-on state the game writes",
   parts: [
     "module/account-wide",
     "module/lua-array",

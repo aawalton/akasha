@@ -4,7 +4,7 @@ export const temperInventoryCurrency = {
   id: "01a05fcb-fd2c-79e2-b426-908dcfb8bf4a",
   type: "page-type/page-type",
   slug: "temper-inventory-currency",
-  definition: "a kind of money an account has an amount of",
+  definition: "a kind of money an account holds",
   extends: ["page-type/temper-thing"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },

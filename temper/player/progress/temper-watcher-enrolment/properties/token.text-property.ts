@@ -5,7 +5,7 @@ export const token = {
   type: "page-type/text-property",
   slug: "token",
   propertySlug: "token",
-  definition: "the secret a watcher signs its calls with",
+  definition: "the secret signing a watcher's calls",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

@@ -5,7 +5,7 @@ export const furnishingKey = {
   type: "page-type/text-property",
   slug: "furnishing-key",
   propertySlug: "furnishing-key",
-  definition: "the string the game names a placed furnishing by",
+  definition: "the game's string for a placed furnishing",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
