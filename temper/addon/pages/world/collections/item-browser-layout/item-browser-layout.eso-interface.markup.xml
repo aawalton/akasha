@@ -3,13 +3,13 @@
 		<Control name="ItemBrowserListRow" mouseEnabled="true" virtual="true">
 			<Dimensions y="30" />
 			<OnMouseEnter>
-				ItemBrowserListRow_OnMouseEnter(self)
+				TemperWorldItemBrowserListRow_OnMouseEnter(self)
 			</OnMouseEnter>
 			<OnMouseExit>
-				ItemBrowserListRow_OnMouseExit(self)
+				TemperWorldItemBrowserListRow_OnMouseExit(self)
 			</OnMouseExit>
 			<OnMouseUp>
-				ItemBrowserListRow_OnMouseUp(self, button, upInside)
+				TemperWorldItemBrowserListRow_OnMouseUp(self, button, upInside)
 			</OnMouseUp>
 			<Controls>
 				<Texture name="$(parent)BG" inherits="ZO_ThinListBgStrip" />

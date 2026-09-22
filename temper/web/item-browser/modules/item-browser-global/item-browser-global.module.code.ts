@@ -47,6 +47,6 @@ function rowOnMouseUp(this: void, ...args: unknown[]): undefined {
   return undefined
 }
 
-globalThis.ItemBrowserListRow_OnMouseEnter = rowOnMouseEnter
-globalThis.ItemBrowserListRow_OnMouseExit = rowOnMouseExit
-globalThis.ItemBrowserListRow_OnMouseUp = rowOnMouseUp
+globalThis.TemperWorldItemBrowserListRow_OnMouseEnter = rowOnMouseEnter
+globalThis.TemperWorldItemBrowserListRow_OnMouseExit = rowOnMouseExit
+globalThis.TemperWorldItemBrowserListRow_OnMouseUp = rowOnMouseUp
