@@ -4,7 +4,7 @@ export const asyncMain = {
   id: "01a0606a-1c55-7ece-9605-df5b14cabe22",
   type: "page-type/module",
   slug: "async-main",
-  definition: "the order the library parts are loaded in",
+  definition: "the library parts' loading order",
   code: "ts",
   decisions: [
     {

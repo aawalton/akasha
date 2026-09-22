@@ -4,7 +4,7 @@ export const addonKeybindsStrings = {
   id: "01a0605a-051b-7d43-abd2-39b4b9801409",
   type: "page-type/module",
   slug: "addon-keybinds-strings",
-  definition: "the two names the split halves of the keybindings menu are shown under",
+  definition: "the two names under which the split halves of the keybindings menu are shown",
   code: "ts",
   decisions: [
     {

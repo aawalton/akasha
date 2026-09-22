@@ -4,7 +4,7 @@ export const leadsZoneName = {
   id: "01a06274-b08a-7546-b923-d5ea415aa870",
   type: "page-type/module",
   slug: "leads-zone-name",
-  definition: "the name a lead's zone is shown under",
+  definition: "the name under which a lead's zone is shown",
   code: "ts",
   decisions: [
     {

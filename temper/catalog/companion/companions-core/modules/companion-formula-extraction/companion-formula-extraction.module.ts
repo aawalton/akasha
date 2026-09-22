@@ -4,7 +4,7 @@ export const companionFormulaExtraction = {
   id: "01a06152-c2c8-7340-b909-f5fd7c81e388",
   type: "page-type/module",
   slug: "companion-formula-extraction",
-  definition: "the damage and healing components a companion skill template breaks down into",
+  definition: "the damage and healing components into which a companion skill template breaks down",
   code: "ts",
   decisions: [
     {

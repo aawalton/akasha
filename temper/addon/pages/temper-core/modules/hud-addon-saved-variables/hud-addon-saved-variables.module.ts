@@ -4,7 +4,7 @@ export const hudAddonSavedVariables = {
   id: "01a061c5-18dd-7003-b272-f24014f3e43b",
   type: "page-type/module",
   slug: "hud-addon-saved-variables",
-  definition: "the account-wide store the add-on keeps its session and its visibility in",
+  definition: "the account-wide store holding the add-on's session and its visibility",
   code: "ts",
   decisions: [
     {

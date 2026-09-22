@@ -4,7 +4,7 @@ export const scrollableMenuComboboxBaseHiddenClicks = {
   id: "01a06275-c445-7e98-a4c6-a02f0ce0cd3d",
   type: "page-type/module",
   slug: "scrollable-menu-combobox-base-hidden-clicks",
-  definition: "the reading of which header or entry control a click at the context menu landed on",
+  definition: "the reading of which header or entry control a click at the context menu hit",
   code: "ts",
   decisions: [
     {

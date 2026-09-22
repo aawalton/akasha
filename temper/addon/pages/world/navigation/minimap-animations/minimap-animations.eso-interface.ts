@@ -4,7 +4,7 @@ export const minimapAnimations = {
   id: "01a06269-2b17-76b4-a6e1-d7eb1d3b209f",
   type: "page-type/eso-interface",
   slug: "minimap-animations",
-  definition: "the animation the minimap window resizes and moves with",
+  definition: "the animation with which the minimap window resizes and moves",
   markup: "xml",
   loadedAs: "TemperWorld_Controls.xml",
   decisions: [

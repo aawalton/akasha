@@ -4,7 +4,7 @@ export const nextBossMenu = {
   id: "01a06157-835a-76b0-9eb4-90b8d1db3184",
   type: "page-type/module",
   slug: "next-boss-menu",
-  definition: "the settings panel a player turns this tracker's parts on and off from",
+  definition: "the settings panel from which a player turns this tracker's parts on and off",
   code: "ts",
   decisions: [
     {
