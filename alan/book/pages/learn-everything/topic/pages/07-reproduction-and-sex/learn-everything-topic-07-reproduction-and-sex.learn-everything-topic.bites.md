@@ -1,0 +1,1 @@
+- Why recombination spends no variation: what a shuffle does to allele frequencies, and what drift and fixation do that a shuffle does not. Parked in session rather than pressed, and it is the one loose plank under an otherwise built account.

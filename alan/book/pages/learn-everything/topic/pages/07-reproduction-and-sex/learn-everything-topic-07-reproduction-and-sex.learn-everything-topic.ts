@@ -13,5 +13,6 @@ export const learnEverythingTopic07ReproductionAndSex = {
   ],
   frontier: "md",
   misconceptions: "md",
+  bites: "md",
   topicEvidence: "md",
 } as const satisfies LearnEverythingTopic
