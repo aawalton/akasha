@@ -18,6 +18,12 @@ const MODEL_SLUGS: readonly string[] = ["ui-control-model", "ui-event-model"]
 
 const NAMED = /^[A-Za-z_][A-Za-z0-9_]*$/
 
+const KEPT_FOR_THE_GAME: readonly string[] = ["debug"]
+
+const HARNESS_BANNED_GLOBALS: readonly string[] = ESO_BANNED_GLOBALS.filter(
+  (one) => !KEPT_FOR_THE_GAME.includes(one)
+)
+
 let cachedModels: readonly string[] | null = null
 
 function modelPathIn(root: string, slug: string): string {
@@ -103,7 +109,7 @@ export type OpenUiHarnessOptions = {
 
 export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise<UiHarness> {
   const vm = await makeSandboxedLuaVm({
-    bannedGlobals: options.bannedGlobals ?? ESO_BANNED_GLOBALS,
+    bannedGlobals: options.bannedGlobals ?? HARNESS_BANNED_GLOBALS,
     loadedFirst: modelTexts(),
   })
   return {

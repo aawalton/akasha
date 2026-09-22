@@ -30,6 +30,10 @@ export const uiHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The game's own Lua takes tracebacks, so a harness keeps the name they come from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller reads how often each method the model lacks was called.",
     },
     {
