@@ -6,6 +6,7 @@ import {
   ownerOf,
   packageOf,
   type Reach,
+  type Reading,
   reachFrom,
   reachIn,
   rootedIn,
@@ -28,20 +29,13 @@ import {
   STYLE_AT,
   thereOf,
 } from "akasha/check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.decision.test-fixtures.ts"
-import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 const ROOT_MANIFEST = "package.json"
 
 const TSCONFIG = "tsconfig.json"
 
-function rooting(text: string | null): Change {
-  const bytes = text === null ? null : new TextEncoder().encode(text)
-  return {
-    root: "/probe",
-    changed: [ROOT_MANIFEST],
-    before: () => null,
-    after: (path) => (path === ROOT_MANIFEST ? bytes : null),
-  }
+function rooting(text: string | null): Reading {
+  return (path) => (path === ROOT_MANIFEST ? text : null)
 }
 
 test("a bare specifier is the package it names", () => {

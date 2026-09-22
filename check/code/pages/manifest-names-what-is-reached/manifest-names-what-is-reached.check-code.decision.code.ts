@@ -1,9 +1,9 @@
 import { builtinModules } from "node:module"
 import { join } from "node:path"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   bodyNamed,
   styleNamed,
-  textIn,
   textNamed,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
@@ -22,8 +22,6 @@ import {
   calledIn,
   objectIn,
 } from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
-import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { textsAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const AT = "@"
@@ -211,8 +209,10 @@ export function declaringIn(folder: string, at: string, text: string): Named | n
   }
 }
 
-export function rootedIn(change: Change, at: string): string | null {
-  const text = textIn(change, at)
+export type Reading = (path: string) => string | null
+
+export function rootedIn(read: Reading, at: string): string | null {
+  const text = read(at)
   return text === null ? null : calledIn(text)
 }
 
@@ -293,24 +293,24 @@ export function unreachedIn(
   return said
 }
 
-function byToolOver(shadow: Shadow): ReadonlyMap<string, ReadonlySet<string>> {
+function byToolOver(paged: Paged): ReadonlyMap<string, ReadonlySet<string>> {
   const found = new Map<string, ReadonlySet<string>>()
-  for (const path of pagesOfKind(shadow, WORKSPACE)) {
-    const value = shadow.pageOf(path)
+  for (const path of pagesOfKind(paged, WORKSPACE)) {
+    const value = paged.pageOf(path)
     const said = value === null ? null : textsAt(value, TOOL_REACHED)
     if (said !== null) found.set(folderOf(path), new Set(said))
   }
   return found
 }
 
-function thereIn(change: Change, folder: string): (named: string) => boolean {
-  return (named) => change.after(join(folder, named)) !== null
+function thereIn(read: Reading, folder: string): (named: string) => boolean {
+  return (named) => read(join(folder, named)) !== null
 }
 
-function declaringOver(change: Change, manifests: readonly Manifest[]): readonly Named[] {
+function declaringOver(read: Reading, manifests: readonly Manifest[]): readonly Named[] {
   const found: Named[] = []
   for (const one of manifests) {
-    const text = textIn(change, one.at)
+    const text = read(one.at)
     if (text === null) continue
     const held = declaringIn(one.folder, one.at, text)
     if (held !== null) found.push(held)
@@ -344,21 +344,21 @@ function holdingBy(
 }
 
 export function refusalsOver(
-  change: Change,
-  shadow: Shadow,
+  read: Reading,
+  paged: Paged,
   judged: readonly string[],
   filesIn: () => readonly string[]
 ): readonly Judged[] {
-  const packages = declaringOver(change, manifestsIn(shadow))
+  const packages = declaringOver(read, manifestsIn(paged))
   if (packages.length === 0) return []
   const folders = packages.map((one) => one.folder)
   const byName = new Map(packages.map((one) => [one.called, one]))
   const names = new Set(byName.keys())
-  const rooted = rootedIn(change, manifestNamed(shadow))
+  const rooted = rootedIn(read, manifestNamed(paged))
   if (rooted !== null) names.add(rooted)
   const byFolder = new Map(packages.map((one) => [one.folder, one]))
   const carried = new Map(packages.map((one) => [one.at, one]))
-  const byTool = byToolOver(shadow)
+  const byTool = byToolOver(paged)
   const reaches = new Map<string, Reach>()
   let holding: ReadonlyMap<string, readonly string[]> | null = null
 
@@ -371,7 +371,7 @@ export function refusalsOver(
   const reachAt = (path: string): Reach => {
     const found = reaches.get(path)
     if (found !== undefined) return found
-    const text = textIn(change, path)
+    const text = read(path)
     const made = text === null ? NOTHING : reachFrom(path, text)
     reaches.set(path, made)
     return made
@@ -392,7 +392,7 @@ export function refusalsOver(
     const held = carried.get(path)
     if (held !== undefined) {
       const found = byTool.get(held.folder) ?? NO_TOOL
-      return unreachedIn(held, byName, wholeOf(held), thereIn(change, held.folder), found)
+      return unreachedIn(held, byName, wholeOf(held), thereIn(read, held.folder), found)
     }
     if (!textNamed(path)) return []
     const owner = ownerOf(folders, path)

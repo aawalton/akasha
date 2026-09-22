@@ -73,10 +73,8 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.check.test.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.check.test.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/module-sits-under-a-modules-folder/module-sits-under-a-modules-folder.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.check-code.decision.code.ts"}
@@ -203,7 +201,6 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.test.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"code/workspace/modules/manifest-finding/manifest-finding.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/modules/orphaning/orphaning.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/modules/value-minting/value-minting.module.code.ts"}

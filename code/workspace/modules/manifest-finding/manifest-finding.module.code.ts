@@ -1,5 +1,5 @@
 import { dirname, join } from "node:path"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 
 const WORKSPACE = "workspace"
 
@@ -16,17 +16,21 @@ export type Manifest = {
   readonly at: string
 }
 
-export function manifestNamed(shadow: Shadow): string {
-  const said = shadow.index.fileKeysAt().get(WORKSPACE_MANIFEST)
+type Indexed = {
+  readonly index: Answering
+}
+
+export function manifestNamed(indexed: Indexed): string {
+  const said = indexed.index.fileKeysAt().get(WORKSPACE_MANIFEST)
   if (said === undefined || said === null) throw new Error(NO_MANIFEST)
   return said
 }
 
-export function pagesOfKind(shadow: Shadow, kind: string): readonly string[] {
-  const found = new Set(shadow.index.everyOfType(kind).map((one) => one.path))
-  for (const under of shadow.index.kindsUnder(kind)) {
+export function pagesOfKind(indexed: Indexed, kind: string): readonly string[] {
+  const found = new Set(indexed.index.everyOfType(kind).map((one) => one.path))
+  for (const under of indexed.index.kindsUnder(kind)) {
     if (under === kind) continue
-    for (const one of shadow.index.everyOfType(under)) found.add(one.path)
+    for (const one of indexed.index.everyOfType(under)) found.add(one.path)
   }
   return [...found].sort()
 }
@@ -44,7 +48,7 @@ function manifestsAt(pages: readonly string[], manifest: string | null): readonl
   })
 }
 
-export function manifestsIn(shadow: Shadow): readonly Manifest[] {
-  const workspaces = pagesOfKind(shadow, WORKSPACE)
-  return manifestsAt(workspaces, shadow.index.fileKeysAt().get(WORKSPACE_MANIFEST) ?? null)
+export function manifestsIn(indexed: Indexed): readonly Manifest[] {
+  const workspaces = pagesOfKind(indexed, WORKSPACE)
+  return manifestsAt(workspaces, indexed.index.fileKeysAt().get(WORKSPACE_MANIFEST) ?? null)
 }
