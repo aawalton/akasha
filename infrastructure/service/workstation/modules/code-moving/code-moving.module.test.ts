@@ -3,6 +3,8 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { stampIn } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import {
+  bundleCommitIn,
+  bundleNamedBy,
   codeMoving,
   commitAt,
   commitOver,
@@ -11,6 +13,7 @@ import {
   saidOfNoCommit,
   saidOfNoStamp,
   stampOver,
+  unitBeside,
 } from "akasha/infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"
 
 const ONE_COMMIT = "1111111111111111111111111111111111111111"
@@ -133,4 +136,45 @@ test("what a run unable to tell says names where it looked and that it cannot te
 
 test("this test came out of no tree, so it is never told to leave", () => {
   expect(codeMoving().moving).not.toBe("moved")
+})
+
+function bundledOf(name: string, commit: string | null): string {
+  const at = folder(name)
+  if (commit !== null) {
+    const bundle = join(at, `${commit}.js`)
+    laidDown(bundle, "")
+    laidDown(unitBeside(at), `[Service]\nExecStart=/usr/bin/env bash -c 'exec bun ${bundle}'\n`)
+  }
+  return at
+}
+
+test("a run loaded from a bundle came out of the commit that bundle is named for", () => {
+  expect(bundleCommitIn(join(SCRATCH, "named", `${ONE_COMMIT}.js`))).toBe(ONE_COMMIT)
+  expect(bundleCommitIn(join(SCRATCH, "named", "running.js"))).toBe(null)
+})
+
+test("a bundled run reads the commit the unit beside its folder names", () => {
+  const at = bundledOf("bundle-still", ONE_COMMIT)
+  expect(bundleNamedBy(at)).toBe(ONE_COMMIT)
+  expect(movingUnder(at, ONE_COMMIT)).toEqual(STILL)
+})
+
+test("a unit naming another bundle than the one a run loaded has moved", () => {
+  const at = bundledOf("bundle-moved", TWO_COMMIT)
+  expect(movingUnder(at, ONE_COMMIT)).toEqual({
+    moving: "moved",
+    moved: { from: ONE_COMMIT, to: TWO_COMMIT },
+  })
+})
+
+test("a bundle folder with no unit beside it leaves a run unable to tell", () => {
+  const at = bundledOf("bundle-unheld", null)
+  expect(bundleNamedBy(at)).toBe(null)
+  expect(movingUnder(at, ONE_COMMIT)).toEqual({ moving: "unknown", why: saidOfNoStamp(at) })
+})
+
+test("a stamp at or above a folder is read rather than the unit beside it", () => {
+  const at = bundledOf("bundle-under-a-tree", TWO_COMMIT)
+  laidDown(stampIn(at), `${ONE_COMMIT}\n`)
+  expect(movingUnder(at, ONE_COMMIT)).toEqual(STILL)
 })
