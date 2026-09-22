@@ -17,6 +17,10 @@ export const carYearSlug = {
       decisionKind: "decision-kind/gap",
       statement: "This property is `relation-property/car-year`.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "No change renames a field of an entry, so the rows here are rewritten by hand.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty
