@@ -7,7 +7,7 @@ import type { IdentityStatementValue } from "akasha/alan/self/identity-statement
 import type { NotionId } from "akasha/alan/self/identity-statement/properties/notion-id.text-property.types.ts"
 import type { ParentStatement } from "akasha/alan/self/identity-statement/properties/parent-statement.relation-property.types.ts"
 import type { ReplacedByStatements } from "akasha/alan/self/identity-statement/properties/replaced-by-statements.relation-property.types.ts"
-import type { ReplacesStatements } from "akasha/alan/self/identity-statement/properties/replaces-statements.relation-property.types.ts"
+import type { ReplacesStatements } from "akasha/alan/self/identity-statement/properties/replaces-statements.multi-relation-property.types.ts"
 import type { SubStatements } from "akasha/alan/self/identity-statement/properties/sub-statements.multi-relation-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"

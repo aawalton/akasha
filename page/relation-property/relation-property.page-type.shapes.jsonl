@@ -127,7 +127,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"relationship-topic","unique":null,"uniquePropertySlug":null,"slug":"relationship-topic-parent","propertySlug":"relationship-topic-parent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"release","unique":null,"uniquePropertySlug":null,"slug":"release","propertySlug":"release","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"identity-statement","unique":null,"uniquePropertySlug":null,"slug":"replaced-by-statements","propertySlug":"replaced-by-statements","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"identity-statement","unique":null,"uniquePropertySlug":null,"slug":"replaces-statements","propertySlug":"replaces-statements","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"supervisor-action","unique":null,"uniquePropertySlug":null,"slug":"requested-action","propertySlug":"action","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"role","unique":null,"uniquePropertySlug":null,"slug":"role","propertySlug":"role","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-mechanic","unique":null,"uniquePropertySlug":null,"slug":"run-mechanic","propertySlug":"mechanic","fileName":null,"folderName":null}
