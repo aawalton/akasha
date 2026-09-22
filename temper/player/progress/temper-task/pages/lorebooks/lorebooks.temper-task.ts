@@ -14,10 +14,10 @@ export const lorebooks = {
   rruleAnchorFromCompletion: false,
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "character",
-  priority: "p3",
+  priority: "p4",
+  effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-09-21T15:49:55.000Z",
   progress: "jsonl",
   progressTotal: 4220,
   progressCurrent: 571,
-  effectiveCharacter: "temper-account-character/erin-solstice",
 } as const satisfies TemperTask
