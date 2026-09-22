@@ -57,10 +57,6 @@ export const codeEditor = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A candidate works in a worktree of the `code-editor` checkout.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "Alan runs an artefact under `~/.local/share`.",
     },
     {
