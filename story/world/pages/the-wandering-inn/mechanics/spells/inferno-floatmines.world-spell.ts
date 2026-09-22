@@ -6,5 +6,6 @@ export const infernoFloatmines = {
   slug: "inferno-floatmines",
   title: "Inferno Floatmines",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

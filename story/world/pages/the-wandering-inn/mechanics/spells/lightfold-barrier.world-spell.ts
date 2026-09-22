@@ -6,5 +6,6 @@ export const lightfoldBarrier = {
   slug: "lightfold-barrier",
   title: "Lightfold Barrier",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const hastenedSpearOfLight = {
   slug: "hastened-spear-of-light",
   title: "Hastened Spear of Light",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

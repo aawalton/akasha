@@ -6,5 +6,6 @@ export const longRangedScryingTheWanderingInn = {
   slug: "long-ranged-scrying-the-wandering-inn",
   title: "Long-Ranged Scrying: The Wandering Inn",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

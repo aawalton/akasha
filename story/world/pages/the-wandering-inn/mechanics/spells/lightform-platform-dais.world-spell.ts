@@ -6,5 +6,6 @@ export const lightformPlatformDais = {
   slug: "lightform-platform-dais",
   title: "Lightform Platform, Dais",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const hammerOfTheObsidianGiant = {
   slug: "hammer-of-the-obsidian-giant",
   title: "Hammer of the Obsidian Giant",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

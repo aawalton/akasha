@@ -6,5 +6,6 @@ export const highSpeedFlight = {
   slug: "high-speed-flight",
   title: "High-Speed Flight",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

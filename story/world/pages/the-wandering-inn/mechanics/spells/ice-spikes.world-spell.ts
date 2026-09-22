@@ -6,5 +6,6 @@ export const iceSpikes = {
   slug: "ice-spikes",
   title: "Ice Spikes",
   world: "world/the-wandering-inn",
+  appearanceCount: 29,
   references: "jsonl",
 } as const satisfies WorldSpell

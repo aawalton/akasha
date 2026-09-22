@@ -6,5 +6,6 @@ export const madrinelSIntrusion = {
   slug: "madrinel-s-intrusion",
   title: "Madrinel’s Intrusion",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

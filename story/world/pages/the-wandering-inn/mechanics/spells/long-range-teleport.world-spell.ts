@@ -6,6 +6,7 @@ export const longRangeTeleport = {
   slug: "long-range-teleport",
   title: "Long Range Teleport",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   aliases: ["Long-Range Teleport"],
   references: "jsonl",
 } as const satisfies WorldSpell

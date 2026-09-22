@@ -6,5 +6,6 @@ export const immaterialRoomOfForce = {
   slug: "immaterial-room-of-force",
   title: "Immaterial Room of Force",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const lightCaneExtendedMaterialization = {
   slug: "light-cane-extended-materialization",
   title: "Light Cane: Extended Materialization",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

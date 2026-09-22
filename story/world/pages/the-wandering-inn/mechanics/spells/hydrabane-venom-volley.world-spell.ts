@@ -6,5 +6,6 @@ export const hydrabaneVenomVolley = {
   slug: "hydrabane-venom-volley",
   title: "Hydrabane Venom Volley",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

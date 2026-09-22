@@ -6,5 +6,6 @@ export const grimalkinSPhysique = {
   slug: "grimalkin-s-physique",
   title: "Grimalkin’s Physique",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const immutableForm = {
   slug: "immutable-form",
   title: "Immutable Form",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const lawOfTheLucifenCeaseBreathing = {
   slug: "law-of-the-lucifen-cease-breathing",
   title: "Law of the Lucifen: Cease Breathing",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSpell

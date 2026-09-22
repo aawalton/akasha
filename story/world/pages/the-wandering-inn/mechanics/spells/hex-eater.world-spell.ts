@@ -6,5 +6,6 @@ export const hexEater = {
   slug: "hex-eater",
   title: "Hex Eater",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

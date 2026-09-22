@@ -6,5 +6,6 @@ export const imperialSoulCage = {
   slug: "imperial-soul-cage",
   title: "Imperial Soul Cage",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

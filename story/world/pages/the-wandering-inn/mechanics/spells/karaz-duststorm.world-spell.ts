@@ -6,5 +6,6 @@ export const karazDuststorm = {
   slug: "karaz-duststorm",
   title: "Karaz Duststorm",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

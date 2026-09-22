@@ -6,5 +6,6 @@ export const joyousSpirits = {
   slug: "joyous-spirits",
   title: "Joyous Spirits",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

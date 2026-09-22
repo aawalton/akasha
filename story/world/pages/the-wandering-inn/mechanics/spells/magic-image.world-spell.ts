@@ -6,5 +6,6 @@ export const magicImage = {
   slug: "magic-image",
   title: "Magic Image",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

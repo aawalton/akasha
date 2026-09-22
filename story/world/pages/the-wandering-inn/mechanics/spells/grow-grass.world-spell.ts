@@ -6,5 +6,6 @@ export const growGrass = {
   slug: "grow-grass",
   title: "Grow Grass",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   references: "jsonl",
 } as const satisfies WorldSpell
