@@ -39,7 +39,7 @@ export const readout = {
     "page-type/readout-widget",
     "relation-property/attribute",
     "relation-property/color-from",
-    "relation-property/groups",
+    "multi-relation-property/groups",
     "relation-property/read-live-from",
     "relation-property/scale",
     "select-property/drawn-as",
@@ -67,7 +67,7 @@ export const readout = {
     { pageProperty: "relation-property/color-from", required: false, many: false },
     { pageProperty: "relation-property/attribute", required: false, many: false },
     {
-      pageProperty: "relation-property/groups",
+      pageProperty: "multi-relation-property/groups",
       required: false,
       many: true,
       maxCount: null,

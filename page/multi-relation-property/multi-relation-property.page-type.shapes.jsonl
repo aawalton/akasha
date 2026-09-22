@@ -8,6 +8,7 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"graph-edge","unique":null,"uniquePropertySlug":null,"slug":"edges","propertySlug":"edges","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"eso-interface","unique":null,"uniquePropertySlug":null,"slug":"eso-interfaces","propertySlug":"interfaces","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"extends-type","propertySlug":"extends","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"readout-group","unique":null,"uniquePropertySlug":null,"slug":"groups","propertySlug":"groups","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"lua-module","unique":null,"uniquePropertySlug":null,"slug":"lua-modules","propertySlug":"lua-modules","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"members","propertySlug":"members","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"model-test","unique":null,"uniquePropertySlug":null,"slug":"model-tests","propertySlug":"model-tests","fileName":null,"folderName":null}

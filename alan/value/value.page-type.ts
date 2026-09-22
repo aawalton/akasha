@@ -26,7 +26,7 @@ export const value = {
     { pageProperty: "text-property/unit", required: false, many: false },
     { pageProperty: "relation-property/scale", required: false, many: false },
     {
-      pageProperty: "relation-property/groups",
+      pageProperty: "multi-relation-property/groups",
       required: false,
       many: true,
       maxCount: null,

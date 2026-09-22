@@ -45,7 +45,7 @@ export const readoutWidget = {
     { pageProperty: "text-property/gallery-description", required: true, many: false },
     { pageProperty: "text-property/opens", required: false, many: false },
     {
-      pageProperty: "relation-property/groups",
+      pageProperty: "multi-relation-property/groups",
       required: false,
       many: true,
       maxCount: null,

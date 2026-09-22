@@ -37,7 +37,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/monarch/month/properties/transaction-tags.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/attribute.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/color-from.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/groups.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/groups.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/read-live-from.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/scale.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/widget/properties/app.relation-property.types.ts"}

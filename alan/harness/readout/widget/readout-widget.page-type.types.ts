@@ -1,4 +1,4 @@
-import type { Groups } from "akasha/alan/harness/readout/properties/groups.relation-property.types.ts"
+import type { Groups } from "akasha/alan/harness/readout/properties/groups.multi-relation-property.types.ts"
 import type { Place } from "akasha/alan/harness/readout/properties/place.number-property.types.ts"
 import type { App } from "akasha/alan/harness/readout/widget/properties/app.relation-property.types.ts"
 import type { Caption } from "akasha/alan/harness/readout/widget/properties/caption.text-property.types.ts"

@@ -1,11 +1,11 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const groups = {
   id: "01a05446-e765-7da7-afdf-68470bd5fc40",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "groups",
   propertySlug: "groups",
   definition: "the groups a reading is drawn in",
   targetPageType: "page-type/readout-group",
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

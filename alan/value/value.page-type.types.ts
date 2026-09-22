@@ -1,4 +1,4 @@
-import type { Groups } from "akasha/alan/harness/readout/properties/groups.relation-property.types.ts"
+import type { Groups } from "akasha/alan/harness/readout/properties/groups.multi-relation-property.types.ts"
 import type { Label } from "akasha/alan/harness/readout/properties/label.text-property.types.ts"
 import type { Place } from "akasha/alan/harness/readout/properties/place.number-property.types.ts"
 import type { ReadoutEnabled } from "akasha/alan/harness/readout/properties/readout-enabled.boolean-property.types.ts"
