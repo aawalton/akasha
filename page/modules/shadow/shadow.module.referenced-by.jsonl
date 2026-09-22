@@ -93,9 +93,7 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-method-signature/no-method-signature.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.check.test.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-re-export/no-re-export.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-refused-syntax/no-refused-syntax.check-code.audit.code.ts"}

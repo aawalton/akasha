@@ -1,3 +1,4 @@
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   type Body,
   filesBy,
@@ -16,7 +17,6 @@ import {
   sectionHeld,
   slugsWhere,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const NUL = 0
@@ -25,7 +25,7 @@ const NEWLINE = 0x0a
 
 const HOLDS = "holdsBytes"
 
-const BYTES = new WeakMap<Shadow, ReadonlySet<string>>()
+const BYTES = new WeakMap<Paged, ReadonlySet<string>>()
 
 type Site = {
   readonly line: number
@@ -47,7 +47,8 @@ export function sitesIn(bytes: Uint8Array): readonly Site[] {
   return found
 }
 
-function reasonFor(found: readonly Site[]): readonly string[] {
+export function reasonsFor(bytes: Uint8Array): readonly string[] {
+  const found = sitesIn(bytes)
   const one = found[0]
   if (one === undefined) return []
   const where = `line ${one.line} column ${one.column}`
@@ -60,27 +61,27 @@ function reasonFor(found: readonly Site[]): readonly string[] {
 }
 
 export function reasonsIn(given: Body): readonly string[] {
-  return reasonFor(sitesIn(given.bytes))
+  return reasonsFor(given.bytes)
 }
 
 export function holdingBytes(value: Value): boolean {
   return value[HOLDS] === true
 }
 
-function bytesHeld(shadow: Shadow): ReadonlySet<string> {
-  const found = BYTES.get(shadow)
+function bytesHeld(paged: Paged): ReadonlySet<string> {
+  const found = BYTES.get(paged)
   if (found !== undefined) return found
-  const made = slugsWhere(shadow.index, holdingBytes, (named) => shadow.index.typesCarrying(named))
-  BYTES.set(shadow, made)
+  const made = slugsWhere(paged.index, holdingBytes, (named) => paged.index.typesCarrying(named))
+  BYTES.set(paged, made)
   return made
 }
 
-export function exemptIn(path: string, shadow: Shadow): boolean {
-  if (sectionHeld(path, bytesHeld(shadow))) return true
-  const carrying = (named: string): Carried => shadow.index.carryingOf(named)
-  if (heldBeside(path, namingFor(shadow.index), holdingBytes, carrying)) return true
-  if (heldUnder(path, foldersFor(shadow.index), holdingBytes, carrying)) return true
-  return heldNamed(path, extensionsFor(shadow.index), holdingBytes, carrying)
+export function exemptIn(path: string, paged: Paged): boolean {
+  if (sectionHeld(path, bytesHeld(paged))) return true
+  const carrying = (named: string): Carried => paged.index.carryingOf(named)
+  if (heldBeside(path, namingFor(paged.index), holdingBytes, carrying)) return true
+  if (heldUnder(path, foldersFor(paged.index), holdingBytes, carrying)) return true
+  return heldNamed(path, extensionsFor(paged.index), holdingBytes, carrying)
 }
 
 export const UNEXEMPT: Selector<Body> = filesBy(
