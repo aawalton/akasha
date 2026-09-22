@@ -83,11 +83,6 @@ export const deployTreePinning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A tree still held as a worktree is taken out of git first, carrying the index it kept.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A tree git will not make or move is refused by naming the kind and the commit.",
     },
     {

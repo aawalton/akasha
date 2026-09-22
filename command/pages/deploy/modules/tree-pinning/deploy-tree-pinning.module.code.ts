@@ -1,25 +1,12 @@
-import {
-  copyFileSync,
-  existsSync,
-  mkdirSync,
-  readFileSync,
-  renameSync,
-  rmSync,
-  writeFileSync,
-} from "node:fs"
+import { mkdirSync, renameSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { GIT_AT, TREE_INDEXES, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
+import { TREE_INDEXES, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
-import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 
 export const PINNED_AT = ".pinned-commit"
 
 const BEING_WRITTEN = ".being-written"
-
-const AN_INDEX = "index"
-
-const NAMES_A_DIR = "gitdir: "
 
 export type Pinned = { readonly at: string } | { readonly refused: string }
 
@@ -34,31 +21,6 @@ export function stampIn(at: string): string {
 
 export function saidOfNoTree(kind: string, why: string): string {
   return `\`${kind}\` is built from a tree pinned at the commit, and ${why}`
-}
-
-function dirNamedIn(at: string): string | null {
-  let held: string
-  try {
-    held = readFileSync(join(at, GIT_AT), "utf8")
-  } catch {
-    return null
-  }
-  const one = held.trim()
-  return one.startsWith(NAMES_A_DIR) ? one.slice(NAMES_A_DIR.length).trim() : null
-}
-
-function takenOutOfGit(root: string, at: string, index: string): undefined {
-  const inside = join(at, GIT_AT)
-  if (!existsSync(inside)) return undefined
-  const kept = dirNamedIn(at)
-  if (kept !== null && !existsSync(index)) {
-    try {
-      copyFileSync(join(kept, AN_INDEX), index)
-    } catch {}
-  }
-  rmSync(inside, { recursive: true, force: true })
-  told(root, ["worktree", "prune", "--expire=now"])
-  return undefined
 }
 
 function movedTree(gitDir: string, at: string, index: string, commit: string): boolean {
@@ -88,7 +50,6 @@ export function pinnedTree(root: string, kind: string, commit: string): Pinned {
   const index = join(gitDir, TREE_INDEXES, kind)
   mkdirSync(at, { recursive: true })
   mkdirSync(dirname(index), { recursive: true })
-  takenOutOfGit(root, at, index)
   if (!movedTree(gitDir, at, index, commit)) {
     return {
       refused: saidOfNoTree(kind, `the tree at ${at} would not be written out at ${commit}`),

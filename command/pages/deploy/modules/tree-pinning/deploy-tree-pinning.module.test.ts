@@ -165,26 +165,6 @@ test("the stamp at the root of the tree holds the commit the tree is pinned at",
   }
 })
 
-test("a tree git still holds as a worktree is taken out of git and kept as an export", () => {
-  const repo = madeRepo()
-  try {
-    const first = firstCommit(repo)
-    const at = join(repo.root, ".git", "trees", KIND)
-    said(["git", "worktree", "add", "--detach", at, first], { cwd: repo.root })
-    expect(existsSync(join(at, ".git"))).toBe(true)
-    writeFileSync(join(at, "mine.txt"), "mine")
-    const second = secondCommit(repo)
-    expect(pinnedAt(repo, second)).toBe(at)
-    expect(existsSync(join(at, ".git"))).toBe(false)
-    expect(existsSync(join(repo.root, ".git", "worktrees", KIND))).toBe(false)
-    expect(readFileSync(join(at, "one.txt"), "utf8")).toBe("second")
-    expect(readFileSync(join(at, "mine.txt"), "utf8")).toBe("mine")
-    expect(readFileSync(stampIn(at), "utf8").trim()).toBe(second)
-  } finally {
-    repo.cleanup()
-  }
-})
-
 test("a commit the checkout does not hold is refused by naming the kind", () => {
   const repo = madeRepo()
   try {
