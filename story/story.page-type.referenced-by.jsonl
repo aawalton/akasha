@@ -1,7 +1,9 @@
 {"propertySlug":"championed-domain","path":"persona/pages/awen/awen.persona.ts","id":"019f10d8-7045-7647-8ce2-e9b7ed28736b"}
 {"propertySlug":"extends-type","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
+{"propertySlug":"extends-type","path":"story/world/stories/read/story-read.page-type.ts","id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
 {"propertySlug":"extends-type","path":"story/world/stories/written/story-written.page-type.ts","id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
 {"propertySlug":"import","fileName":"story.page-type.types.ts","path":"story/world/stories/played/story-played.page-type.types.ts"}
+{"propertySlug":"import","fileName":"story.page-type.types.ts","path":"story/world/stories/read/story-read.page-type.types.ts"}
 {"propertySlug":"import","fileName":"story.page-type.types.ts","path":"story/world/stories/written/story-written.page-type.types.ts"}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/awen-engine-improvements.initiative.ts","id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}

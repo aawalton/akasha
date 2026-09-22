@@ -6,7 +6,7 @@ export const storyRead = {
   slug: "story-read",
   definition: "a story somebody else wrote",
   pluralSlug: "stories",
-  extends: ["page-type/collection-external"],
+  extends: ["page-type/story", "page-type/collection-external"],
   runsTabooCheck: false,
   detailConfig: {
     header: {
@@ -28,8 +28,6 @@ export const storyRead = {
     "text-property/external-tags",
   ],
   properties: [
-    { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "relation-property/world", required: false, many: false },
     {
       pageProperty: "text-property/external-tags",
       required: false,
@@ -37,7 +35,6 @@ export const storyRead = {
       maxCount: null,
     },
     { pageProperty: "select-property/publication-status", required: false, many: false },
-    { pageProperty: "file-property/prose", required: false, many: false },
     { pageProperty: "multi-relation-property/parts", required: false, many: true, maxCount: null },
   ],
   decisions: [
