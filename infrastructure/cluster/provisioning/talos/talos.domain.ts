@@ -4,7 +4,7 @@ export const talos = {
   id: "01a06813-7b0e-79e0-ae0d-60b8f8c4a138",
   type: "page-type/domain",
   slug: "talos",
-  definition: "the Talos machine configuration a cluster's nodes are declared in",
+  definition: "the Talos machine configuration declaring a cluster's nodes",
   parts: [
     "module/build-patch",
     "module/build-schematic",

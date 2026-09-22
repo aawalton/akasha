@@ -5,7 +5,7 @@ export const alertPersona = {
   type: "page-type/relation-property",
   slug: "alert-persona",
   propertySlug: "persona",
-  definition: "the persona an alert is for",
+  definition: "an alert's persona",
   targetPageType: "page-type/persona",
   types: "ts",
 } as const satisfies RelationProperty

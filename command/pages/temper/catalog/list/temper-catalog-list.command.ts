@@ -4,7 +4,7 @@ export const temperCatalogList = {
   id: "01a06034-110c-7dfa-aceb-1292658c99c3",
   type: "page-type/command",
   slug: "temper-catalog-list",
-  definition: "the command naming every catalog domain the game's reference data is collected in",
+  definition: "the command naming every catalog domain holding the game's reference data",
   code: "ts",
   test: "ts",
 

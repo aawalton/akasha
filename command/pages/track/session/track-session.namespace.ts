@@ -4,7 +4,7 @@ export const trackSession = {
   id: "01a07979-7d78-7cc9-b390-00151a274e16",
   type: "page-type/namespace",
   slug: "track-session",
-  definition: "the stretches of time one of Alan's days is made of",
+  definition: "the stretches of time making up one of Alan's days",
   parts: [
     "command/track-session-amend",
     "command/track-session-check",

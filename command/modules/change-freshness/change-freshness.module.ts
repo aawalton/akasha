@@ -4,8 +4,7 @@ export const changeFreshness = {
   id: "01a04faa-e70a-757d-a665-8e7b7bcfd14d",
   type: "page-type/module",
   slug: "change-freshness",
-  definition:
-    "the rules with a change to the bodies its writer read and to the commit it was judged against",
+  definition: "the rules tying a change to the bodies its writer read and to its judging commit",
   code: "ts",
   test: "ts",
   decisions: [

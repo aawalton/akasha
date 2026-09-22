@@ -5,7 +5,7 @@ export const musicArtistList = {
   type: "page-type/command",
   slug: "music-artist-list",
   definition:
-    "the command listing the artists Alan keeps, what he graded each and how far he is in",
+    "the command listing the artists Alan keeps, what he graded each and his progress through each",
   code: "ts",
   test: "ts",
   maxWallSeconds: 300,

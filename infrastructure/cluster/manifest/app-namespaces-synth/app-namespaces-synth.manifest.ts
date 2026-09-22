@@ -4,7 +4,7 @@ export const appNamespacesSynth = {
   id: "01a06810-1262-75ee-aa84-9009c06798cf",
   type: "page-type/manifest",
   slug: "app-namespaces-synth",
-  definition: "the namespaces the cluster has one application in each of",
+  definition: "the namespaces holding one application each in the cluster",
   code: "ts",
   decisions: [
     {

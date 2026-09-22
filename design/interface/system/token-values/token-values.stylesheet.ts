@@ -4,7 +4,7 @@ export const tokenValues = {
   id: "01a05c95-564a-74a9-b2c1-09d527a8f63e",
   type: "page-type/stylesheet",
   slug: "token-values",
-  definition: "the custom properties every color, space and measure is read from",
+  definition: "the custom properties holding every color, space and measure",
   styles: "css",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const sense = {
   type: "page-type/text-property",
   slug: "sense",
   propertySlug: "sense",
-  definition: "the meaning a word is never written in",
+  definition: "the meaning a word never carries",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

@@ -5,7 +5,7 @@ export const wordPieces = {
   type: "page-type/file-property",
   slug: "word-pieces",
   propertySlug: "word-pieces",
-  definition: "the pieces a word is encoded against",
+  definition: "the pieces encoding a word",
   extensions: ["json"],
   generated: true,
   decisions: [

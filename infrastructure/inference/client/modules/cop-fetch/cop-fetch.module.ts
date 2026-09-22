@@ -4,7 +4,7 @@ export const copFetch = {
   id: "01a0685d-4b35-700d-9c90-fb07ff5e3a7d",
   type: "page-type/module",
   slug: "cop-fetch",
-  definition: "the request settings a call through the traffic cop is made with",
+  definition: "the request settings of a call through the traffic cop",
   code: "ts",
   decisions: [
     {

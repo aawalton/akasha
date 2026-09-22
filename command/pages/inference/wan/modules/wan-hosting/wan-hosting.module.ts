@@ -4,7 +4,7 @@ export const wanHosting = {
   id: "01a072fa-322d-77af-bb5a-82b475102492",
   type: "page-type/module",
   slug: "wan-hosting",
-  definition: "the host a wan call runs on",
+  definition: "a wan call's host",
   code: "ts",
   decisions: [
     {
