@@ -7,7 +7,7 @@ export const qualityValues = {
   propertySlug: "quality-values",
   definition: "what a thing is worth at each grade, one grade to a line",
   properties: [
-    { pageProperty: "text-property/quality", required: true, many: false },
+    { pageProperty: "relation-property/quality", required: true, many: false },
     { pageProperty: "number-property/quality-value", required: true, many: false },
     { pageProperty: "text-property/metric-id", required: false, many: false },
   ],

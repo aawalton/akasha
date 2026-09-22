@@ -1,1 +1,0 @@
-export type Quality = string

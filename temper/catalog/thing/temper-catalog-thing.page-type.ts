@@ -26,7 +26,7 @@ export const temperCatalogThing = {
     "text-property/eso-trait-constant-name",
     "text-property/material",
     "text-property/poi-name",
-    "text-property/quality",
+    "relation-property/quality",
     "text-property/skill-line-id",
     "relation-property/skill-type",
     "text-property/slotted-behavior",

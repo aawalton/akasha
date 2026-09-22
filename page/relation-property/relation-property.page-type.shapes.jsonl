@@ -112,6 +112,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"proposition","unique":null,"uniquePropertySlug":null,"slug":"proves","propertySlug":"proves","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"model-provider","unique":null,"uniquePropertySlug":null,"slug":"provider","propertySlug":"provider","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"shell-script","unique":null,"uniquePropertySlug":null,"slug":"provision","propertySlug":"provision","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-quality","unique":null,"uniquePropertySlug":null,"slug":"quality","propertySlug":"quality","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-quest-giver","unique":null,"uniquePropertySlug":null,"slug":"quest-giver","propertySlug":"quest-giver","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"all-about-alan-topic","unique":null,"uniquePropertySlug":null,"slug":"question-topic","propertySlug":"topic","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"reached","propertySlug":"reached","fileName":null,"folderName":null}

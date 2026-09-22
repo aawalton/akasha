@@ -577,7 +577,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/thing/properties/eso-trait-constant-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/thing/properties/material.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/thing/properties/poi-name.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/thing/properties/quality.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/thing/properties/skill-line-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/thing/properties/slotted-behavior.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/thing/properties/subcategory-id.text-property.ts"}
