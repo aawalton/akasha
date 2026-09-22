@@ -15,6 +15,7 @@ import {
   costOf,
   opening,
   recordCost,
+  type Taken,
 } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type {
   AnyAuditing,
@@ -28,6 +29,7 @@ import {
 } from "akasha/check/modules/model-running/model-running.module.code.ts"
 import {
   diesIn,
+  type Sparing,
   sparingOver,
 } from "akasha/check/modules/mortal-sparing/mortal-sparing.module.code.ts"
 import {
@@ -342,13 +344,77 @@ function threw(one: Gathered, thrown: unknown): Judged {
   }
 }
 
-type Ran = readonly Judged[] | Promise<readonly Judged[]>
+const NOTHING_CHANGED = 0
 
-function auditingOver(one: Gathered, wholly: string | null): (() => Ran) | null {
-  if (wholly === null) return null
-  const audit = one.audit ?? null
-  if (audit === null) return null
-  return () => audit(wholly)
+const NO_COMMIT = ""
+
+async function keptOf(
+  one: Gathered,
+  phase: Phase,
+  group: string,
+  commit: string,
+  runId: string,
+  before: Taken,
+  found: readonly Judged[],
+  sparing: Sparing | null,
+  changed: number
+): Promise<readonly Judged[]> {
+  const cost = costOf(
+    before,
+    closing(),
+    runId,
+    phase,
+    one.slug,
+    changed,
+    found.length,
+    found.some((two) => two.threw === true)
+  )
+  const over = ranOver(one, phase === AT_DEPLOY ? AUDIT_GROUP : group, cost)
+  const kept = sparing === null ? [...found] : [...(await sparing(one.run, found))]
+  if (over !== null) kept.push(over)
+  const under = logsUnder(one, group)
+  if (commit === NO_COMMIT || under === undefined) {
+    recordCost(one.root, one.page, cost, under)
+  } else {
+    await rowSent(one.page, cost, verdictOver(kept, commit, cost.ranAt), under)
+  }
+  return kept
+}
+
+export async function auditedBy(
+  every: readonly Gathered[],
+  phase: Phase,
+  wholly: string,
+  done: string[] = []
+): Promise<readonly Judged[]> {
+  const commit = commitHeld(wholly)
+  const runId = Bun.randomUUIDv7()
+  const said: Judged[] = []
+  for (const one of auditsIn(every)) {
+    const audit = one.audit ?? null
+    if (audit === null) continue
+    const before = opening()
+    const found: Judged[] = []
+    try {
+      found.push(...(await audit(wholly)))
+    } catch (thrown) {
+      found.push(threw(one, thrown))
+    }
+    const kept = await keptOf(
+      one,
+      phase,
+      AUDIT_GROUP,
+      commit,
+      runId,
+      before,
+      found,
+      null,
+      NOTHING_CHANGED
+    )
+    said.push(...kept)
+    done.push(one.slug)
+  }
+  return said
 }
 
 export function judgingBy(
@@ -360,6 +426,7 @@ export function judgingBy(
     named: every.map((one) => one.slug),
     checksFor: (change) => checksFor(every, change, shadowAsked(change)).map((one) => one.slug),
     over: async (change, done = []) => {
+      if (wholly !== null) return await auditedBy(every, phase, wholly, done)
       const left = checksLeftBy(every, change)
       const first = every[0]
       if (left.length === 0 && first !== undefined) {
@@ -370,45 +437,33 @@ export function judgingBy(
       if ("refused" in cast && first !== undefined) {
         return [{ path: first.page, reason: cast.refused, threw: true }]
       }
-      const running = wholly === null ? checksFor(left, change, shadow) : auditsIn(left)
-      if (running.length === 0 && first !== undefined && wholly === null) {
+      const running = checksFor(left, change, shadow)
+      if (running.length === 0 && first !== undefined) {
         return [{ path: first.page, reason: NONE_TAKES }]
       }
       const dies = phase === AT_CHANGE ? diesIn(shadow.index.knownIn()) : null
       const sparing = dies === null ? null : sparingOver(change, dies)
       const runId = Bun.randomUUIDv7()
-      const commit = wholly === null ? "" : commitHeld(wholly)
       const said: Judged[] = []
       for (const one of running) {
         const before = opening()
         const found: Judged[] = []
-        const audit = auditingOver(one, wholly)
-        const group = audit === null ? CHECK_GROUP : AUDIT_GROUP
-        const ceilingGroup = phase === AT_DEPLOY ? AUDIT_GROUP : group
         try {
-          found.push(...(await (audit === null ? one.run(change, shadow) : audit())))
+          found.push(...(await one.run(change, shadow)))
         } catch (thrown) {
           found.push(threw(one, thrown))
         }
-        const cost = costOf(
-          before,
-          closing(),
-          runId,
+        const kept = await keptOf(
+          one,
           phase,
-          one.slug,
-          change.changed.length,
-          found.length,
-          found.some((two) => two.threw === true)
+          CHECK_GROUP,
+          NO_COMMIT,
+          runId,
+          before,
+          found,
+          sparing,
+          change.changed.length
         )
-        const over = ranOver(one, ceilingGroup, cost)
-        const kept = sparing === null ? found : [...(await sparing(one.run, found))]
-        if (over !== null) kept.push(over)
-        const under = logsUnder(one, group)
-        if (commit === "" || under === undefined) {
-          recordCost(one.root, one.page, cost, under)
-        } else {
-          await rowSent(one.page, cost, verdictOver(kept, commit, cost.ranAt), under)
-        }
         said.push(...kept)
         done.push(one.slug)
       }

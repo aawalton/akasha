@@ -1,6 +1,5 @@
 import { writeFileSync } from "node:fs"
-import { nothingIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
-import { checkIn, judgingBy } from "akasha/check/modules/checking/checking.module.code.ts"
+import { auditedBy, checkIn } from "akasha/check/modules/checking/checking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
@@ -13,7 +12,7 @@ const GATHERS_NONE = "is no check this tree gathers, so nothing here judged anyt
 export async function judgedAlone(root: string, slug: string): Promise<readonly Judged[]> {
   const one = checkIn(root, slug)
   if (one === null) throw new Error(`\`${slug}\` ${GATHERS_NONE}`)
-  return await judgingBy([one], AUDIT, root).over(nothingIn(root))
+  return await auditedBy([one], AUDIT, root)
 }
 
 async function answeredInto(root: string, slug: string, at: string): Promise<string> {

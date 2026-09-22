@@ -18,7 +18,8 @@ export const auditChild = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The change handed in names no path, the audit collecting what it judges itself.",
+      statement:
+        "No change is handed in, the audit collecting from the commit what that audit judges.",
     },
     {
       decisionKind: "decision-kind/departure",

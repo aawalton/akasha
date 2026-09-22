@@ -62,7 +62,7 @@ export const checking = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Such a run is handed a change naming no path, and asks for no listing of its own.",
+        "Such a run is entered without a change, and the audit it runs collects what it judges.",
     },
     {
       decisionKind: "decision-kind/departure",
