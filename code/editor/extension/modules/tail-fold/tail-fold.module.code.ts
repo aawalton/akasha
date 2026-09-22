@@ -1,5 +1,5 @@
 import { open, stat } from "node:fs/promises"
-import { anchorEnding } from "akasha/code/editor/extension/modules/subagent-checkpoints/subagent-checkpoints.module.code.ts"
+import { anchorEnding } from "akasha/code/editor/extension/modules/ending-anchor/ending-anchor.module.code.ts"
 
 const NEWLINE = 0x0a
 

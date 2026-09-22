@@ -14,14 +14,6 @@ export const subagentCheckpoints = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An anchor is the sixty-four bytes ending the offset written in base sixty-four.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A file no longer reaching the offset yields no anchor.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A book that does not parse is read as no book.",
     },
     {

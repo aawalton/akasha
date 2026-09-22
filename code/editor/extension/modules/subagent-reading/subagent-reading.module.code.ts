@@ -1,7 +1,7 @@
 import { readdir } from "node:fs/promises"
 import * as path from "node:path"
+import { anchorEnding } from "akasha/code/editor/extension/modules/ending-anchor/ending-anchor.module.code.ts"
 import {
-  anchorEnding,
   type Checkpoint,
   readCheckpoints,
   writeCheckpoints,

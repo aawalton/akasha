@@ -1,10 +1,8 @@
-import { type FileHandle, mkdir, open, readFile, rename, writeFile } from "node:fs/promises"
+import { mkdir, readFile, rename, writeFile } from "node:fs/promises"
 import * as os from "node:os"
 import * as path from "node:path"
 import type { SubagentState } from "akasha/code/editor/extension/modules/subagent-core/subagent-core.module.code.ts"
 import { z } from "zod"
-
-const ANCHOR_BYTES = 64
 
 const STRING_PAIRS = z.array(z.tuple([z.string(), z.string()]))
 
@@ -32,32 +30,6 @@ export interface Checkpoint {
 
 function checkpointBook(): string {
   return path.join(os.homedir(), ".cache", "ops", "agent-tree-cursors.json")
-}
-
-export async function anchorEnding(filePath: string, offset: number): Promise<string | null> {
-  if (offset <= 0) {
-    return null
-  }
-  const from = Math.max(0, offset - ANCHOR_BYTES)
-  const wanted = offset - from
-  const buffer = Buffer.allocUnsafe(wanted)
-  let handle: FileHandle
-  try {
-    handle = await open(filePath, "r")
-  } catch {
-    return null
-  }
-  try {
-    const { bytesRead } = await handle.read(buffer, 0, wanted, from)
-    if (bytesRead !== wanted) {
-      return null
-    }
-  } catch {
-    return null
-  } finally {
-    await handle.close()
-  }
-  return buffer.toString("base64")
 }
 
 function parseBook(text: string): z.infer<typeof BOOK> | null {
