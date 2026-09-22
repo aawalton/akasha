@@ -1,3 +1,0 @@
-domain_registration_expiry_seconds has no series, and nothing publishes it, so the domain-expiry watch is blind.
-
-The query that fed it lived in the postgres exporter, which went with the database, and the daily probe that wrote its rows wrote them into that database. Both ends have to be built again somewhere else before this alert can mean anything.
