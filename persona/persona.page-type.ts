@@ -80,7 +80,7 @@ export const persona = {
     "relation-property/desktop-wallpaper",
     "relation-property/mobile-wallpaper",
     "relation-property/origin",
-    "relation-property/wallpaper-images",
+    "multi-relation-property/wallpaper-images",
     "service-workstation/desktop-wallpaper-setting",
     "text-property/history",
     "text-property/last-messaged-at",
@@ -146,7 +146,7 @@ export const persona = {
       maxCount: null,
     },
     {
-      pageProperty: "relation-property/wallpaper-images",
+      pageProperty: "multi-relation-property/wallpaper-images",
       required: false,
       many: true,
       maxCount: null,

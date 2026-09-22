@@ -21,7 +21,7 @@ import type { Value } from "akasha/persona/properties/value.relation-property.ty
 import type { VoiceInstruction } from "akasha/persona/properties/voice-instruction.text-property.types.ts"
 import type { VoiceReference } from "akasha/persona/properties/voice-reference.relation-property.types.ts"
 import type { VoiceReferenceSha256 } from "akasha/persona/properties/voice-reference-sha256.text-property.types.ts"
-import type { WallpaperImages } from "akasha/persona/properties/wallpaper-images.relation-property.types.ts"
+import type { WallpaperImages } from "akasha/persona/properties/wallpaper-images.multi-relation-property.types.ts"
 
 export type Persona = Domain & {
   purpose?: Purpose

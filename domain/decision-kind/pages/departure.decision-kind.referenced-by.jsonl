@@ -3304,7 +3304,7 @@
 {"propertySlug":"decision-kind","path":"persona/properties/points-before-today.number-property.ts","id":"01a08205-3006-72d5-930b-892c6e875b17"}
 {"propertySlug":"decision-kind","path":"persona/properties/points-total.number-property.ts","id":"01a081cb-66ae-7cee-8e11-431ab034165b"}
 {"propertySlug":"decision-kind","path":"persona/properties/voice-reference.relation-property.ts","id":"01a0c653-cf51-700d-8749-35ea7a65b757"}
-{"propertySlug":"decision-kind","path":"persona/properties/wallpaper-images.relation-property.ts","id":"01a0c5ea-7c84-7389-9d04-e2eab5c35196"}
+{"propertySlug":"decision-kind","path":"persona/properties/wallpaper-images.multi-relation-property.ts","id":"01a0c5ea-7c84-7389-9d04-e2eab5c35196"}
 {"propertySlug":"decision-kind","path":"persona/review-session/properties/review-session-notes.file-property.ts","id":"01a06743-d160-7000-a21c-00ed7a409bee"}
 {"propertySlug":"decision-kind","path":"persona/review-session/review-session.page-type.ts","id":"01a06743-d160-7001-9131-181af10f9b87"}
 {"propertySlug":"decision-kind","path":"persona/service-workstations/desktop-wallpaper-setting/desktop-wallpaper-setting.service-workstation.ts","id":"01a0786c-047b-7863-b793-0ff93be3d895"}
