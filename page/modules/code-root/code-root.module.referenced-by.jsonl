@@ -67,7 +67,6 @@
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/bashrc/bashrc.provisioned-file.filling.test.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.test.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/machine/provisioning/scripts/ci-cost-snapshot/ci-cost-snapshot.shell-script.scripting.test.ts"}
-{"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/service/workstation/modules/code-moving/code-moving.module.test.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"temper/command/modules/inventory-reading/inventory-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"temper/watcher/image/temper-watcher-image.container-recipe.composing.test.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

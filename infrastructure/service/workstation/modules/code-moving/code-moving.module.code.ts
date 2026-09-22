@@ -1,8 +1,9 @@
-import { readFileSync } from "node:fs"
-import { sep } from "node:path"
-import { PINNED_AT } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
-import { storeIn, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
-import { checkoutAt } from "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"
+import { existsSync, readFileSync } from "node:fs"
+import { dirname } from "node:path"
+import {
+  PINNED_AT,
+  stampIn,
+} from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { RESTART_EXIT } from "akasha/infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"
 
 export type Moved = {
@@ -10,15 +11,20 @@ export type Moved = {
   readonly to: string
 }
 
-export function kindOf(at: string, checkout: string): string | null {
-  const under = `${storeIn(checkout, TREES)}${sep}`
-  if (!at.startsWith(under)) return null
-  const named = at.slice(under.length).split(sep)[0]
-  return named === undefined || named === "" ? null : named
-}
+export type Moving =
+  | { readonly moving: "moved"; readonly moved: Moved }
+  | { readonly moving: "still" }
+  | { readonly moving: "unknown"; readonly why: string }
 
-export function stampAt(checkout: string, kind: string): string {
-  return storeIn(checkout, TREES, kind, PINNED_AT)
+export function stampOver(at: string): string | null {
+  let held = at
+  let up = dirname(held)
+  while (!existsSync(stampIn(held))) {
+    if (up === held) return null
+    held = up
+    up = dirname(held)
+  }
+  return stampIn(held)
 }
 
 export function commitAt(at: string): string | null {
@@ -32,9 +38,25 @@ export function commitAt(at: string): string | null {
   return one === "" ? null : one
 }
 
-export function movedFrom(from: string | null, to: string | null): Moved | null {
-  if (from === null || to === null || from === to) return null
-  return { from, to }
+export function commitOver(at: string): string | null {
+  const stamp = stampOver(at)
+  return stamp === null ? null : commitAt(stamp)
+}
+
+export function saidOfNoStamp(at: string): string {
+  return (
+    `this run cannot tell whether the code it is running has moved, because no ${PINNED_AT} ` +
+    `sits at ${at} or above it, so nothing here ends this run when the tree that code came out ` +
+    "of moves, and a deploy has to restart it"
+  )
+}
+
+export function saidOfNoCommit(at: string): string {
+  return (
+    `this run cannot tell whether the code it is running has moved, because ${at} gave back no ` +
+    "commit, so nothing here ends this run when the tree that code came out of moves, and a " +
+    "deploy has to restart it"
+  )
 }
 
 export function saidOfMoved(moved: Moved): string {
@@ -45,23 +67,34 @@ export function saidOfMoved(moved: Moved): string {
   )
 }
 
-const CHECKOUT = checkoutAt()
-
-const KIND = kindOf(import.meta.dir, CHECKOUT)
-
-function commitNow(): string | null {
-  return KIND === null ? null : commitAt(stampAt(CHECKOUT, KIND))
+export function movingUnder(at: string, from: string | null): Moving {
+  const stamp = stampOver(at)
+  if (stamp === null) return { moving: "unknown", why: saidOfNoStamp(at) }
+  const to = commitAt(stamp)
+  if (to === null || from === null) return { moving: "unknown", why: saidOfNoCommit(stamp) }
+  return from === to ? { moving: "still" } : { moving: "moved", moved: { from, to } }
 }
 
-const STARTED: string | null = commitNow()
+const HERE = import.meta.dir
 
-export function codeMoved(): Moved | null {
-  return movedFrom(STARTED, commitNow())
+const STARTED: string | null = commitOver(HERE)
+
+export function codeMoving(): Moving {
+  return movingUnder(HERE, STARTED)
 }
+
+let SAID = false
 
 export function leftWhereCodeMoved(): undefined {
-  const moved = codeMoved()
-  if (moved === null) return undefined
-  console.log(saidOfMoved(moved))
+  const moving = codeMoving()
+  if (moving.moving === "still") return undefined
+  if (moving.moving === "unknown") {
+    if (!SAID) {
+      SAID = true
+      console.warn(moving.why)
+    }
+    return undefined
+  }
+  console.log(saidOfMoved(moving.moved))
   process.exit(RESTART_EXIT)
 }

@@ -32,15 +32,39 @@ export const codeMoving = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The tree a run came out of is read off the path this module itself was loaded from.",
+        "The stamp a run reads is the nearest one at or above the folder this module was loaded from.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run loaded from outside every tree came out of no tree.",
+      statement:
+        "A run asks whether the code it is running moved rather than whether a tree it named moved.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Code that came out of no tree has moved for nothing any tree does.",
+      statement: "A run with no stamp above the folder it was loaded from came out of no tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run finding no stamp, or no commit in the stamp it finds, cannot tell whether its code moved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Cannot tell is an answer of its own rather than the answer that nothing moved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run that cannot tell says so once, the first time it is asked, and goes on working.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What that run says names the folder it looked from or the stamp it read no commit out of.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run that started at no commit cannot tell, however its stamp reads later.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -79,6 +103,14 @@ export const codeMoving = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here names a kind of tree.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here reads where the checkout sits or holds a path up against it.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here ends a run whose code it cannot tell about.",
     },
   ],
 } as const satisfies Module
