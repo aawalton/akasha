@@ -4,7 +4,7 @@ export const temperClass = {
   id: "01a05fca-cb89-7c15-a7d1-9bf0b42293c8",
   type: "page-type/page-type",
   slug: "temper-class",
-  definition: "a calling a character is made with",
+  definition: "a calling making a character",
   extends: ["page-type/temper-catalog-thing"],
   parts: ["number-property/eso-class-id"],
   properties: [

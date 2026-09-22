@@ -5,7 +5,7 @@ export const material = {
   type: "page-type/text-property",
   slug: "material",
   propertySlug: "material",
-  definition: "what a trait is worked into a piece with",
+  definition: "what works a trait into a piece",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

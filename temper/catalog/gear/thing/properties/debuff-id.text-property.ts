@@ -5,7 +5,7 @@ export const debuffId = {
   type: "page-type/text-property",
   slug: "debuff-id",
   propertySlug: "debuff-id",
-  definition: "the harmful effect a thing puts on whoever it is used against",
+  definition: "the harmful effect a thing puts on its target",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

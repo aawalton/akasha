@@ -5,6 +5,6 @@ export const skyshardsConstants = {
   type: "page-type/module",
   slug: "skyshards-constants",
   definition:
-    "what the add-on is called, its map pin names, and the kinds of place a skyshard sits in",
+    "what the add-on is called, its map pin names, and the kinds of place holding a skyshard",
   code: "ts",
 } as const satisfies Module

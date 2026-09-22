@@ -5,7 +5,7 @@ export const apiVersion = {
   type: "page-type/text-property",
   slug: "api-version",
   propertySlug: "api-version",
-  definition: "the game build a capture was taken from",
+  definition: "a capture's game build",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

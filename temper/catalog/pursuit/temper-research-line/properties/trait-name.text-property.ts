@@ -5,7 +5,7 @@ export const traitName = {
   type: "page-type/text-property",
   slug: "trait-name",
   propertySlug: "trait-name",
-  definition: "the name a researchable trait is shown under",
+  definition: "a researchable trait's name",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

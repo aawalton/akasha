@@ -5,7 +5,7 @@ export const esoCurseIds = {
   type: "page-type/number-property",
   slug: "eso-curse-ids",
   propertySlug: "eso-curse-ids",
-  definition: "the abilities The Elder Scrolls Online marks a curse by",
+  definition: "a curse's marking abilities in The Elder Scrolls Online",
   max: null,
   decisions: [
     {

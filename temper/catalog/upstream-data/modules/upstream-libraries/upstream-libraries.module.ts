@@ -4,7 +4,7 @@ export const upstreamLibraries = {
   id: "01a06038-2cbf-7931-aedd-7a1b9a4637c4",
   type: "page-type/module",
   slug: "upstream-libraries",
-  definition: "which community ESO libraries temper copies data out of",
+  definition: "the community ESO libraries behind temper's copied data",
   code: "ts",
   decisions: [
     {

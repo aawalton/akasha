@@ -5,7 +5,7 @@ export const keyText = {
   type: "page-type/text-property",
   slug: "key-text",
   propertySlug: "key-text",
-  definition: "the name the game spells a constant by",
+  definition: "the game's spelling of a constant",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

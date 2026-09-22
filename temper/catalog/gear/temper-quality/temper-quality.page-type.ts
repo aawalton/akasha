@@ -4,7 +4,7 @@ export const temperQuality = {
   id: "01a05fd1-d43f-7460-806b-41a2697dcbed",
   type: "page-type/page-type",
   slug: "temper-quality",
-  definition: "the grade a piece is made at",
+  definition: "the grade of a piece",
   extends: ["page-type/temper-catalog-thing"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },

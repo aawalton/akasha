@@ -4,6 +4,6 @@ export const lorebooksRuntimeState = {
   id: "01a06194-be47-7ab2-90d9-5b60b4f62b61",
   type: "page-type/module",
   slug: "lorebooks-runtime-state",
-  definition: "what the add-on has worked out about the map the player is on",
+  definition: "what the add-on has worked out about the player's map",
   code: "ts",
 } as const satisfies Module

@@ -4,7 +4,7 @@ export const jewelrySlots = {
   id: "01a060b8-08c5-7b3b-a995-798d59d45760",
   type: "page-type/module",
   slug: "jewelry-slots",
-  definition: "the necklace and the two ring positions a character wears jewelry at",
+  definition: "the necklace and the two ring positions for a character's jewelry",
   code: "ts",
   decisions: [
     {

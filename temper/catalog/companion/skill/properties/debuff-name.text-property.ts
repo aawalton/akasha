@@ -5,7 +5,7 @@ export const debuffName = {
   type: "page-type/text-property",
   slug: "debuff-name",
   propertySlug: "debuff",
-  definition: "the harmful effect an effect puts on whoever it lands on",
+  definition: "the harmful effect an effect puts on its target",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

@@ -4,7 +4,7 @@ export const companionRotationState = {
   id: "01a06152-c2d0-7500-91c7-dc74d3b1f9e3",
   type: "page-type/module",
   slug: "companion-rotation-state",
-  definition: "the starting state a companion rotation is simulated from",
+  definition: "the starting state of a simulated companion rotation",
   code: "ts",
   decisions: [
     {

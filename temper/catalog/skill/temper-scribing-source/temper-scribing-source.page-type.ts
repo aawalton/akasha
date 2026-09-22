@@ -4,7 +4,7 @@ export const temperScribingSource = {
   id: "01a05fca-cb8a-71bc-bb97-a0f1bb3ac4fb",
   type: "page-type/page-type",
   slug: "temper-scribing-source",
-  definition: "content the scripts are earned from",
+  definition: "content earning the scripts",
   extends: ["page-type/temper-catalog-thing"],
   parts: [
     "number-property/achievement-id",

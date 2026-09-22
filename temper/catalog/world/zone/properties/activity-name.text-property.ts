@@ -5,7 +5,7 @@ export const activityName = {
   type: "page-type/text-property",
   slug: "activity-name",
   propertySlug: "activity-name",
-  definition: "the name a completion activity is shown under",
+  definition: "a completion activity's name",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
