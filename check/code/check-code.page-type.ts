@@ -225,6 +225,10 @@ export const checkCode = {
       decisionKind: "decision-kind/gap",
       statement: "A check's decision is handed the shadow wherever that decision lists.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An audit is handed the commit that audit judges rather than a change.",
+    },
   ],
   directives: [
     {
