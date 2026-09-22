@@ -1,4 +1,5 @@
 import type { Told } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
+import { auditRunning } from "akasha/check/service-workstations/audit-running/audit-running.service-workstation.ts"
 import {
   bindsFor,
   portFor,
@@ -6,7 +7,7 @@ import {
 } from "akasha/infrastructure/service/workstation/modules/service-binding/service-binding.module.code.ts"
 import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
 
-export const SERVICE_SLUG = "audit-running"
+export const SERVICE_SLUG = auditRunning.slug
 
 export const ROUND_AT = "/round"
 
