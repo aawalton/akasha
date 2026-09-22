@@ -5,7 +5,7 @@ export const externalTags = {
   type: "page-type/text-property",
   slug: "external-tags",
   propertySlug: "external-tags",
-  definition: "a word the source files a collection under",
+  definition: "the source's word for a collection",
   maxLength: 100,
   nameFormat: null,
   decisions: [

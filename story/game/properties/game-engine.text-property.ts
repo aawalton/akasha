@@ -5,7 +5,7 @@ export const gameEngine = {
   type: "page-type/text-property",
   slug: "game-engine",
   propertySlug: "game-engine",
-  definition: "the engine a game is run on",
+  definition: "a game's engine",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

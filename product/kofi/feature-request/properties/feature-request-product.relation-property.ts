@@ -5,7 +5,7 @@ export const featureRequestProduct = {
   type: "page-type/relation-property",
   slug: "feature-request-product",
   propertySlug: "product",
-  definition: "the product a feature request is for",
+  definition: "a feature request's product",
   targetPageType: "page-type/domain",
   decisions: [
     {

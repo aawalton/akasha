@@ -5,6 +5,6 @@ export const subscriberEmail = {
   type: "page-type/email-address-property",
   slug: "subscriber-email",
   propertySlug: "email",
-  definition: "the address a subscriber asked to be written to at",
+  definition: "a subscriber's chosen address",
   types: "ts",
 } as const satisfies EmailAddressProperty

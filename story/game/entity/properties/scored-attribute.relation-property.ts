@@ -5,7 +5,7 @@ export const scoredAttribute = {
   type: "page-type/relation-property",
   slug: "scored-attribute",
   propertySlug: "attribute",
-  definition: "the attribute a score is of",
+  definition: "a score's attribute",
   targetPageType: "page-type/game-attribute",
   types: "ts",
 } as const satisfies RelationProperty

@@ -4,7 +4,7 @@ export const namedEvent = {
   id: "01a0658b-9f41-7cc1-93d8-f47f7aa3b771",
   type: "page-type/page-type",
   slug: "named-event",
-  definition: "something happening once in a story that its people afterwards date other things by",
+  definition: "something happening once in a story that its people afterwards use as a date",
   pluralSlug: "named-events",
   extends: ["page-type/page"],
   parts: [

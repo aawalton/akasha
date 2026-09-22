@@ -4,7 +4,7 @@ export const catalogConfigGlobal = {
   id: "01a063c1-6c82-7533-9e59-d07cde6f2943",
   type: "page-type/type-declaration",
   slug: "catalog-config-global",
-  definition: "the global a side file leaves the catalog add-on its next request in",
+  definition: "the global holding the next request a side file leaves the catalog add-on",
   d: "ts",
   decisions: [
     {

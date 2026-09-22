@@ -5,7 +5,7 @@ export const storyPremise = {
   type: "page-type/file-property",
   slug: "story-premise",
   propertySlug: "premise",
-  definition: "what a story is about, in the shape the story is told in",
+  definition: "what a story is about, in the shape of its telling",
   extensions: ["md"],
   decisions: [
     {

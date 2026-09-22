@@ -5,7 +5,7 @@ export const encounterLocation = {
   type: "page-type/relation-property",
   slug: "encounter-location",
   propertySlug: "location",
-  definition: "the place an encounter is set in",
+  definition: "an encounter's place",
   targetPageType: "page-type/game-location",
   types: "ts",
 } as const satisfies RelationProperty

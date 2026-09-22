@@ -4,7 +4,7 @@ export const dataEncodeSurface = {
   id: "01a06061-969e-7d0d-b494-268228c7f6a5",
   type: "page-type/module",
   slug: "data-encode-surface",
-  definition: "the calls and the alphabet the rest of the bundle reaches the encoder by",
+  definition: "the calls and the alphabet opening the encoder to the rest of the bundle",
   code: "ts",
   decisions: [
     {

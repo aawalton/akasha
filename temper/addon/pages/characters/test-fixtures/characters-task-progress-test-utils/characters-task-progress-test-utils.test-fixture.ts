@@ -4,7 +4,7 @@ export const charactersTaskProgressTestUtils = {
   id: "01a08ed6-a208-7d96-96d8-75bf328401f1",
   type: "page-type/test-fixture",
   slug: "characters-task-progress-test-utils",
-  definition: "the saved character entry a progress resolver's test is written against",
+  definition: "the saved character entry behind a progress resolver's test",
   code: "ts",
   decisions: [
     {

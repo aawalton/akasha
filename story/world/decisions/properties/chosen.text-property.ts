@@ -5,7 +5,7 @@ export const chosen = {
   type: "page-type/text-property",
   slug: "chosen",
   propertySlug: "chosen",
-  definition: "the option a decision settled on",
+  definition: "a decision's chosen option",
   maxLength: 500,
   nameFormat: null,
   types: "ts",

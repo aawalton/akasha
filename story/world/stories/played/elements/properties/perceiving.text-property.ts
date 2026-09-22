@@ -5,7 +5,7 @@ export const perceiving = {
   type: "page-type/text-property",
   slug: "perceiving",
   propertySlug: "perceiving",
-  definition: "what an element takes in",
+  definition: "what an element perceives",
   maxLength: 2000,
   nameFormat: null,
   types: "ts",
