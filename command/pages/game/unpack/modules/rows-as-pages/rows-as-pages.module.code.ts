@@ -5,11 +5,17 @@ import type { Naming } from "akasha/page/service/modules/page-composing/page-com
 import { gameDesignEntry } from "akasha/story/game/design-entry/game-design-entry.page-type.ts"
 import { game } from "akasha/story/game/game.page-type.ts"
 import { gameLoreEntry } from "akasha/story/game/lore-entry/game-lore-entry.page-type.ts"
+import { runIn } from "akasha/story/game/mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
 import { gameMechanicRun } from "akasha/story/game/mechanic-run/game-mechanic-run.page-type.ts"
+import {
+  countedAt,
+  pagedRun,
+  pathOf,
+  runSlugIn,
+  shortOf,
+} from "akasha/story/game/mechanic-run/modules/run-paging/run-paging.module.code.ts"
 
 const BREAK = "\n"
-const TS = "ts"
-const PARTED = "/"
 const HASH = "#"
 const HELD = "md"
 const ABOVE = 2
@@ -39,28 +45,22 @@ const STATUS = "status"
 const ORDINAL = "ordinal"
 const SPEAKER = "speaker"
 
-const MECHANIC = "mechanic"
 const TURN = "turn"
-const SAID = "said"
 const SEED = "seed"
-const FOLLOWS = "follows"
 const LABEL = "label"
 const PREV_HASH = "prevHash"
 const RULEBOOK = "rulebook"
 const RESOLVE = "resolve"
 const ROLLS = "rolls"
-const RUN = "run"
 const ROLL = "roll"
 const JSON_HELD = "json"
 const SHOWN = 80
 const SAID_HOLDS = 2000
-const PADDED = 3
 
 const A_BREAK = /([a-z0-9])([A-Z])/g
 const A_DASH = /-/g
 const A_RUN = /\s+/
 const A_NUMBER = /(\d+)\s*$/
-const A_RUN_OF_SPACE = /\s+/g
 const A_NOT_SLUG = /[^a-z0-9]+/g
 const A_RUN_OF_DASH = /-{2,}/g
 const AN_EDGE_DASH = /^-|-$/g
@@ -95,15 +95,6 @@ export function sluggedOf(said: string): string {
     .replace(A_NOT_SLUG, "-")
     .replace(A_RUN_OF_DASH, "-")
     .replace(AN_EDGE_DASH, "")
-}
-
-export function shortOf(said: string, holds: number): string {
-  const flat = said.replace(A_RUN_OF_SPACE, " ").trim()
-  return flat.length <= holds ? flat : `${flat.slice(0, holds).trimEnd()}…`
-}
-
-export function countedAt(at: number): string {
-  return String(at).padStart(PADDED, "0")
 }
 
 export function numberIn(held: unknown): number | null {
@@ -158,10 +149,6 @@ export function noteOf(content: unknown): string {
     else lines.push(saidOf(value), "")
   }
   return `${lines.join(BREAK).trim()}${BREAK}`
-}
-
-function pathOf(folder: string, slug: string, pageTypeSlug: string): string {
-  return `${folder}${PARTED}${slug}.${pageTypeSlug}.${TS}`
 }
 
 export function designRowed({ gameSlug, folder, row }: Rowing): Made {
@@ -244,31 +231,9 @@ export function loreRowed({ gameSlug, folder, row }: Rowing): Made {
 }
 
 export function runRowed({ gameSlug, folder, row, at }: Rowing): Made {
-  const turn = numberIn(row[TURN])
-  const mechanic = textIn(row[MECHANIC])
-  if (turn === null || mechanic === null) {
-    return { refused: "a mechanic run row names no turn or no mechanic" }
-  }
-  const said = textIn(row[SAID])
-  const seed = textIn(row[SEED])
-  const follows = textIn(row[FOLLOWS])
-  const slug = `${gameSlug}-${RUN}-${countedAt(at)}`
-  return {
-    pageTypeSlug: gameMechanicRun.slug,
-    slug,
-    path: pathOf(folder, slug, gameMechanicRun.slug),
-    values: {
-      title: shortOf(said ?? `${mechanic} at turn ${turn}`, SHOWN),
-      game: namedAs(game.slug, gameSlug, null),
-      turn,
-      mechanic,
-      ...(said === null ? {} : { said: shortOf(said, SAID_HOLDS) }),
-      ...(seed === null ? {} : { seed }),
-      ...(follows === null ? {} : { follows }),
-      workings: JSON_HELD,
-    },
-    bodies: { workings: JSON.stringify(row) },
-  }
+  const run = runIn(JSON.stringify(row))
+  if (run === null) return { refused: "a mechanic run row names no turn or no mechanic" }
+  return pagedRun({ gameSlug, folder, run, at })
 }
 
 export function ruleslessIn(row: Record<string, unknown>): Record<string, unknown> {
@@ -288,7 +253,7 @@ export function rollRowed({ gameSlug, folder, row, at }: Rowing): Made {
   const label = textIn(row[LABEL])
   const seed = textIn(row[SEED])
   const follows = textIn(row[PREV_HASH])
-  const slug = `${gameSlug}-${ROLL}-${countedAt(at)}`
+  const slug = runSlugIn(gameSlug, ROLL, at)
   return {
     pageTypeSlug: gameMechanicRun.slug,
     slug,

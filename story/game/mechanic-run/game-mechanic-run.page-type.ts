@@ -60,5 +60,6 @@ export const gameMechanicRun = {
     "text-property/run-seed",
     "text-property/run-follows",
     "file-property/run-workings",
+    "module/run-paging",
   ],
 } as const satisfies PageType

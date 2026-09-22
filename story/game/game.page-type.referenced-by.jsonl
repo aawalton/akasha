@@ -4,6 +4,8 @@
 {"propertySlug":"import","fileName":"game.page-type.ts","path":"command/pages/game/unpack/game-unpack.command.test.ts"}
 {"propertySlug":"import","fileName":"game.page-type.ts","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"game.page-type.ts","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.test.ts"}
+{"propertySlug":"import","fileName":"game.page-type.ts","path":"story/game/mechanic-run/modules/run-paging/run-paging.module.code.ts"}
+{"propertySlug":"import","fileName":"game.page-type.ts","path":"story/game/mechanic-run/modules/run-paging/run-paging.module.test.ts"}
 {"propertySlug":"import","fileName":"game.page-type.ts","path":"story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.test.ts"}
 {"propertySlug":"import","fileName":"game.page-type.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx"}
 {"propertySlug":"import","fileName":"game.page-type.types.ts","path":"story/game/pages/date-night-free-play/date-night-free-play.game.ts"}

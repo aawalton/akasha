@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import {
-  countedAt,
   designRowed,
   loreRowed,
   type Made,
@@ -9,7 +8,6 @@ import {
   rollRowed,
   ruleslessIn,
   runRowed,
-  shortOf,
   sluggedOf,
   titleOf,
 } from "akasha/command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.code.ts"
@@ -27,8 +25,6 @@ const RAN = namedAs(gameMechanic.slug, attackResolution.slug, null)
 const FOLDER = "story/game/pages/the-tower/design-entries"
 
 const AT = 1
-
-const SHOWN = 80
 
 const ROW = {
   "external-id": "world-logic-death-loop",
@@ -61,17 +57,6 @@ test("a name a row was filed under is cleaned into a slug", () => {
   expect(sluggedOf("ent-doorward-combat-v2")).toBe("ent-doorward-combat-v2")
   expect(sluggedOf("tl-15c")).toBe("tl-15c")
   expect(sluggedOf("Floor 1 / v2")).toBe("floor-1-v2")
-})
-
-test("a long line is shortened for a page's name", () => {
-  expect(shortOf("a short one", SHOWN)).toBe("a short one")
-  expect(shortOf("a\nbroken   line", SHOWN)).toBe("a broken line")
-  expect(shortOf("abcdefghij", 4)).toBe("abcd…")
-})
-
-test("a row's place in its file is counted from one, padded", () => {
-  expect(countedAt(1)).toBe("001")
-  expect(countedAt(91)).toBe("091")
 })
 
 test("the turn a row cites is read as its number", () => {

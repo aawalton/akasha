@@ -89,6 +89,8 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"person/modules/page-type-access/page-type-access.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"person/modules/route-access/route-access.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"product/smilingjenny/web/routes/jenny-requests/jenny-requests.route.code.tsx"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/mechanic-run/modules/run-paging/run-paging.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/mechanic-run/modules/run-paging/run-paging.module.test.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.test.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.code.ts"}
