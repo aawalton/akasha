@@ -9,5 +9,5 @@ export const swapfileUnit = {
   placedBy: "copy",
   onlyOn: "linux",
   installPath: "/etc/systemd/system/var-swap-swapfile.swap",
-  reloadWith: "sudo systemctl daemon-reload",
+  reloadWith: "sudo systemctl daemon-reload && sudo systemctl enable --now var-swap-swapfile.swap",
 } as const satisfies ProvisionedFile
