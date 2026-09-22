@@ -5,4 +5,5 @@
 {"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"page/type/properties/properties.one-of-property.ts"}
 {"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/carried-effect.one-of-property.ts"}
 {"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-id.one-of-property.ts"}
+{"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"temper/catalog/gear/thing/properties/valid-slots.one-of-property.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

@@ -2,3 +2,4 @@
 {"propertySlug":"import","fileName":"temper-jewelry-slot.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-slot/pages/ring-1.temper-jewelry-slot.ts"}
 {"propertySlug":"import","fileName":"temper-jewelry-slot.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-slot/pages/ring-2.temper-jewelry-slot.ts"}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}
+{"propertySlug":"target-page-type","path":"temper/catalog/gear/temper-jewelry-slot/properties/jewelry-slot.relation-property.ts","id":"01a0c9dc-84f9-7fba-abe9-f2e4846b5a1e"}

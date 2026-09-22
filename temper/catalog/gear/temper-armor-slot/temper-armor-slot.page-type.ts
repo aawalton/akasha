@@ -6,6 +6,7 @@ export const temperArmorSlot = {
   slug: "temper-armor-slot",
   definition: "a place on the body a piece of armor is worn",
   extends: ["page-type/temper-catalog-thing"],
+  parts: ["relation-property/armor-slot"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },

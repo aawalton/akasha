@@ -6,7 +6,7 @@ export const temperJewelrySlot = {
   slug: "temper-jewelry-slot",
   definition: "a place on the body a piece of jewelry is worn",
   extends: ["page-type/temper-catalog-thing"],
-  parts: ["relation-property/jewelry-type"],
+  parts: ["relation-property/jewelry-slot", "relation-property/jewelry-type"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },

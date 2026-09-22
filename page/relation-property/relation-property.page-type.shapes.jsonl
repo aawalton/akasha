@@ -5,6 +5,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"answered-by","propertySlug":"answered-by","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"ios-app","unique":null,"uniquePropertySlug":null,"slug":"app","propertySlug":"app","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"argument","unique":null,"uniquePropertySlug":null,"slug":"argument","propertySlug":"argument","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-armor-slot","unique":null,"uniquePropertySlug":null,"slug":"armor-slot","propertySlug":"armor-slot","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-armor-trait","unique":null,"uniquePropertySlug":null,"slug":"armor-trait","propertySlug":"armor-trait","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"artist","unique":null,"uniquePropertySlug":null,"slug":"artist","propertySlug":"artist","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"attribute","unique":null,"uniquePropertySlug":null,"slug":"attribute","propertySlug":"attribute","fileName":null,"folderName":null}
@@ -70,6 +71,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"initiative","unique":null,"uniquePropertySlug":null,"slug":"initiative","propertySlug":"initiative","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"initiative","unique":null,"uniquePropertySlug":null,"slug":"initiative-parent","propertySlug":"parent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"initiative-persona","propertySlug":"persona","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-jewelry-slot","unique":null,"uniquePropertySlug":null,"slug":"jewelry-slot","propertySlug":"jewelry-slot","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-jewelry-trait","unique":null,"uniquePropertySlug":null,"slug":"jewelry-trait","propertySlug":"jewelry-trait","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-jewelry-type","unique":null,"uniquePropertySlug":null,"slug":"jewelry-type","propertySlug":"jewelry-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"life-theme","unique":null,"uniquePropertySlug":null,"slug":"life-theme-parent","propertySlug":"life-theme-parent","fileName":null,"folderName":null}
@@ -156,6 +158,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"color","unique":null,"uniquePropertySlug":null,"slug":"value-color","propertySlug":"color","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"view-page-type","propertySlug":"page-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"audio","unique":null,"uniquePropertySlug":null,"slug":"voice-reference","propertySlug":"voice-reference","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-weapon-slot","unique":null,"uniquePropertySlug":null,"slug":"weapon-slot","propertySlug":"weapon-slot","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-weapon-trait","unique":null,"uniquePropertySlug":null,"slug":"weapon-trait","propertySlug":"weapon-trait","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-location","unique":null,"uniquePropertySlug":null,"slug":"within-location","propertySlug":"within","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world","unique":null,"uniquePropertySlug":null,"slug":"world","propertySlug":"world","fileName":null,"folderName":null}

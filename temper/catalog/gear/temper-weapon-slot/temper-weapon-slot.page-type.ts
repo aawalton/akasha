@@ -6,6 +6,7 @@ export const temperWeaponSlot = {
   slug: "temper-weapon-slot",
   definition: "a hand or a bar holding a weapon",
   extends: ["page-type/temper-catalog-thing"],
+  parts: ["relation-property/weapon-slot"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },

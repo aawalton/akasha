@@ -1,0 +1,3 @@
+{"propertySlug":"import","fileName":"weapon-slot.relation-property.types.ts","path":"temper/catalog/gear/thing/properties/valid-slots.one-of-property.types.ts"}
+{"propertySlug":"members","path":"temper/catalog/gear/thing/properties/valid-slots.one-of-property.ts","id":"01a05fcc-41f4-739e-a73e-ae1c6505faab"}
+{"propertySlug":"parts","path":"temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts","id":"01a05fd1-d442-7dfe-a4bd-c74ac70298ff"}

@@ -8,7 +8,7 @@ export const temperJewelryType = {
   extends: ["page-type/temper-gear-thing"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
-    { pageProperty: "text-property/valid-slots", required: true, many: true, maxCount: null },
+    { pageProperty: "one-of-property/valid-slots", required: true, many: true, maxCount: null },
   ],
   types: "ts",
   schema: "jsonl",

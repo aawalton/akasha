@@ -2,3 +2,4 @@
 {"propertySlug":"import","fileName":"temper-weapon-slot.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-slot/pages/off-hand.temper-weapon-slot.ts"}
 {"propertySlug":"import","fileName":"temper-weapon-slot.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-slot/pages/poison.temper-weapon-slot.ts"}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}
+{"propertySlug":"target-page-type","path":"temper/catalog/gear/temper-weapon-slot/properties/weapon-slot.relation-property.ts","id":"01a0c9dc-75cb-7d5b-9d92-a47a3436b95b"}

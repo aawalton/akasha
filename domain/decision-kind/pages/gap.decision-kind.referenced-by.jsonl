@@ -476,7 +476,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-class-id.text-property.ts","id":"01a05fd1-d43e-7ece-af53-4be28ed6067d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/buff-id.text-property.ts","id":"01a05fcc-41f1-7e7a-abd6-c8c6650999ad"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/debuff-id.text-property.ts","id":"01a05fd1-d439-75b3-92b0-1243e1ad274a"}
-{"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/valid-slots.text-property.ts","id":"01a05fcc-41f4-739e-a73e-ae1c6505faab"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-antiquity-category/properties/eso-antiquity-set-id.number-property.ts","id":"01a06176-a912-7000-8819-19b71a0dafd6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts","id":"01a060db-b2ba-73c7-8faa-80842e2c1379"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.ts","id":"01a060db-b2bb-7166-ba4a-b183afce5394"}
