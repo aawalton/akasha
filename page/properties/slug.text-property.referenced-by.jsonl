@@ -102,6 +102,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/standard-agent-english/part-of-speech/properties/part-of-speech.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/standard-agent-english/property/properties/start-symbol.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/standard-agent-english/term/banned-term/properties/prose-frame.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/standard-agent-english/term/properties/spelling-scope.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/edge/properties/attributes.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/predicate/properties/edges.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/predicate/properties/followed-attribute.relation-property.types.ts"}

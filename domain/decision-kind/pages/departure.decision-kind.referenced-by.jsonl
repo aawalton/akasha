@@ -2529,6 +2529,7 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/banned-term/properties/prose-frame.relation-property.ts","id":"01a08243-41cd-7873-9af3-308bc9152b5d"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/banned-term/properties/replacement-patterns.record-property.ts","id":"01a0822d-c124-76d5-acd8-925e9cdcdb81"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/common-language-term/common-language-term.page-type.ts","id":"01a07c6e-d2b5-7a30-95da-e46d29cd2e27"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/properties/spelling-scope.relation-property.ts","id":"01a0ca1d-8082-7959-89e4-11d944b578e3"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/properties/spellings.record-property.ts","id":"01a0c565-e622-7337-8981-8bc641435b7e"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/properties/variants.text-property.ts","id":"01a08249-f82c-7f1b-8203-9dcefa386e51"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/term.page-type.ts","id":"01a081e9-9784-7d46-ac3d-c0dd6d88cb38"}

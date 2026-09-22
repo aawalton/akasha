@@ -17,6 +17,7 @@ export const term = {
     "text-property/spelling",
     "text-property/variants",
     "record-property/spellings",
+    "relation-property/spelling-scope",
   ],
   extends: ["page-type/page"],
   properties: [

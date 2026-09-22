@@ -9,6 +9,7 @@ export const spellings = {
   properties: [
     { pageProperty: "relation-property/part-of-speech", required: true, many: false },
     { pageProperty: "text-property/spelling", required: true, many: false },
+    { pageProperty: "relation-property/spelling-scope", required: false, many: false },
   ],
   decisions: [
     {

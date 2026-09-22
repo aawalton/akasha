@@ -700,6 +700,7 @@
 {"propertySlug":"target-page-type","path":"alan/harness/readout/properties/read-live-from.relation-property.ts","id":"01a06559-e74c-7e30-bbec-7604ae4f8dc5"}
 {"propertySlug":"target-page-type","path":"domain/properties/page-domain.relation-property.ts","id":"01a04a08-fcf3-7003-9b33-ccbd3edd35cb"}
 {"propertySlug":"target-page-type","path":"domain/properties/parts.multi-relation-property.ts","id":"01a0877e-e1fa-73c7-909f-f872c144f719"}
+{"propertySlug":"target-page-type","path":"domain/standard-agent-english/term/properties/spelling-scope.relation-property.ts","id":"01a0ca1d-8082-7959-89e4-11d944b578e3"}
 {"propertySlug":"target-page-type","path":"page/type/properties/loaded-by.relation-property.ts","id":"01a05234-e093-7966-b707-f7ac0f44d5e2"}
 {"propertySlug":"target-page-type","path":"persona/properties/championed-domain.relation-property.ts","id":"01a0534a-80f9-742b-83f5-bdbe548d9b58"}
 {"propertySlug":"target-page-type","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.ts","id":"01a0c4a6-ca45-7fb5-9213-210805796619"}
