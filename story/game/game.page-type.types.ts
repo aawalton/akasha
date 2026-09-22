@@ -14,7 +14,6 @@ import type { GameMechanics } from "akasha/story/game/properties/game-mechanics.
 import type { GamePanels } from "akasha/story/game/properties/game-panels.relation-property.types.ts"
 import type { Genre } from "akasha/story/game/properties/genre.text-property.types.ts"
 import type { GmContext } from "akasha/story/game/properties/gm-context.file-property.types.ts"
-import type { MechanicRuns } from "akasha/story/game/properties/mechanic-runs.file-property.types.ts"
 import type { MechanicsWeight } from "akasha/story/game/properties/mechanics-weight.select-property.types.ts"
 import type { NarrativeContinuity } from "akasha/story/game/properties/narrative-continuity.file-property.types.ts"
 import type { PlayerEntity } from "akasha/story/game/properties/player-entity.relation-property.types.ts"
@@ -22,7 +21,6 @@ import type { Premise } from "akasha/story/game/properties/premise.text-property
 import type { ReaderFraming } from "akasha/story/game/properties/reader-framing.text-property.types.ts"
 import type { Resolution } from "akasha/story/game/properties/resolution.select-property.types.ts"
 import type { ResolutionMechanism } from "akasha/story/game/properties/resolution-mechanism.file-property.types.ts"
-import type { Rolls } from "akasha/story/game/properties/rolls.file-property.types.ts"
 import type { Rulebook } from "akasha/story/game/properties/rulebook.file-property.types.ts"
 import type { Themes } from "akasha/story/game/properties/themes.text-property.types.ts"
 import type { Tone } from "akasha/story/game/properties/tone.text-property.types.ts"
@@ -47,12 +45,10 @@ export type Game = Collection & {
   narrativeContinuity?: NarrativeContinuity
   rulebook?: Rulebook
   resolutionMechanism?: ResolutionMechanism
-  rolls?: Rolls
   mechanics?: GameMechanics
   attributes?: GameAttributes
   cardVocabulary?: CardVocabulary
   defaultDice?: GameDefaultDice
   panels?: GamePanels
-  mechanicRuns?: MechanicRuns
   player?: PlayerEntity
 }

@@ -8,7 +8,6 @@ export const partners = {
   unit: "unit/words",
   externalId: "partners",
   gameEngine: "awen",
-  rolls: "jsonl",
   panels: ["game-panel/prose-channel"],
   player: "game-entity/partners-partners-alan",
 } as const satisfies Game

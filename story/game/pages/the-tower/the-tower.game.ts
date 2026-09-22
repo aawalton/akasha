@@ -16,7 +16,6 @@ export const theTower = {
   displayConfig: "json",
   gmContext: "json",
   resolutionMechanism: "json",
-  rolls: "jsonl",
   mechanics: [
     "game-mechanic/focus-max",
     "game-mechanic/hp-max",
@@ -59,6 +58,5 @@ export const theTower = {
     "game-panel/story-so-far",
     "game-panel/prose-channel",
   ],
-  mechanicRuns: "jsonl",
   player: "game-entity/the-tower-alan",
 } as const satisfies Game

@@ -16,7 +16,6 @@ export const game = {
     "file-property/gm-context",
     "file-property/narrative-continuity",
     "file-property/resolution-mechanism",
-    "file-property/rolls",
     "file-property/rulebook",
     "number-property/current-session",
     "select-property/controlled-entity-kind",
@@ -37,7 +36,6 @@ export const game = {
     "relation-property/game-default-dice",
     "page-type/game-panel",
     "relation-property/game-panels",
-    "file-property/mechanic-runs",
     "page-type/game-entity",
     "page-type/game-location",
     "relation-property/holding-game",
@@ -73,7 +71,6 @@ export const game = {
     { pageProperty: "file-property/narrative-continuity", required: false, many: false },
     { pageProperty: "file-property/rulebook", required: false, many: false },
     { pageProperty: "file-property/resolution-mechanism", required: false, many: false },
-    { pageProperty: "file-property/rolls", required: false, many: false },
     {
       pageProperty: "relation-property/game-mechanics",
       required: false,
@@ -89,22 +86,12 @@ export const game = {
     { pageProperty: "text-property/card-vocabulary", required: false, many: true, maxCount: null },
     { pageProperty: "relation-property/game-default-dice", required: false, many: false },
     { pageProperty: "relation-property/game-panels", required: false, many: true, maxCount: null },
-    { pageProperty: "file-property/mechanic-runs", required: false, many: false },
     { pageProperty: "relation-property/player-entity", required: false, many: false },
   ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The rows a game is made of sit in files beside the game's page rather than inside the page.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "One row of such a file is one json object on one line.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A game's rows are committed.",
+      statement: "Everything a game holds of its own play is a page sitting under that game.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -137,11 +124,7 @@ export const game = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A roll has the hash of the previous roll.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A seed is settled before its roll is asked for.",
+      statement: "A run of a mechanic has the hash of the run before it.",
     },
 
     {

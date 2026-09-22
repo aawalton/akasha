@@ -24,7 +24,6 @@ export const haremHotel = {
   gmContext: "json",
   narrativeContinuity: "json",
   resolutionMechanism: "json",
-  rolls: "jsonl",
   mechanics: [
     "game-mechanic/affinity-ladder",
     "game-mechanic/attack-resolution",
@@ -62,6 +61,5 @@ export const haremHotel = {
     "game-panel/story-so-far",
     "game-panel/prose-channel",
   ],
-  mechanicRuns: "jsonl",
   player: "game-entity/harem-hotel-alan",
 } as const satisfies Game
