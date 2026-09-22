@@ -6,5 +6,6 @@ export const doublePotency = {
   slug: "double-potency",
   title: "Double Potency",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

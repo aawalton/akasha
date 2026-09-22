@@ -6,5 +6,6 @@ export const doubledMentalPresence = {
   slug: "doubled-mental-presence",
   title: "Doubled Mental Presence",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

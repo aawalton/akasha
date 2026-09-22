@@ -6,5 +6,6 @@ export const enhancedGrip = {
   slug: "enhanced-grip",
   title: "Enhanced Grip",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

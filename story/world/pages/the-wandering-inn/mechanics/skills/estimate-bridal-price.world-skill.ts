@@ -6,5 +6,6 @@ export const estimateBridalPrice = {
   slug: "estimate-bridal-price",
   title: "Estimate Bridal Price",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

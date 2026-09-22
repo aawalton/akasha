@@ -6,5 +6,6 @@ export const enhancedDurabilityOars = {
   slug: "enhanced-durability-oars",
   title: "Enhanced Durability – Oars",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

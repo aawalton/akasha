@@ -6,5 +6,6 @@ export const erringThrow = {
   slug: "erring-throw",
   title: "—erring Throw",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

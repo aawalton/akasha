@@ -6,5 +6,6 @@ export const emergencyBlock = {
   slug: "emergency-block",
   title: "Emergency Block",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

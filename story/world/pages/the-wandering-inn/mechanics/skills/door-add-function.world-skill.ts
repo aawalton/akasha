@@ -6,5 +6,6 @@ export const doorAddFunction = {
   slug: "door-add-function",
   title: "Door: Add Function",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

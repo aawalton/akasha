@@ -6,5 +6,6 @@ export const distillSimpleConcept = {
   slug: "distill-simple-concept",
   title: "Distill Simple Concept",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

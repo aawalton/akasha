@@ -6,5 +6,6 @@ export const earmarkedFunds = {
   slug: "earmarked-funds",
   title: "Earmarked Funds",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

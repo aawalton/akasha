@@ -6,5 +6,6 @@ export const doubleOrNothing = {
   slug: "double-or-nothing",
   title: "Double or Nothing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

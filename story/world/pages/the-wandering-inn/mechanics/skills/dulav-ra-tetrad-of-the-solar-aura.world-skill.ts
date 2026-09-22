@@ -6,6 +6,7 @@ export const dulavRaTetradOfTheSolarAura = {
   slug: "dulav-ra-tetrad-of-the-solar-aura",
   title: "Dulav-ra: Tetrad of the Solar Aura",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   aliases: ["Dulav-Ra: Tetrad of the Solar Aura"],
   references: "jsonl",
 } as const satisfies WorldSkill

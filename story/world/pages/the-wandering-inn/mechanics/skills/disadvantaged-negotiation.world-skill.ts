@@ -6,5 +6,6 @@ export const disadvantagedNegotiation = {
   slug: "disadvantaged-negotiation",
   title: "Disadvantaged Negotiation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

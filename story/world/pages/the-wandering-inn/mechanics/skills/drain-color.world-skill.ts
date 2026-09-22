@@ -6,5 +6,6 @@ export const drainColor = {
   slug: "drain-color",
   title: "Drain Color",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   references: "jsonl",
 } as const satisfies WorldSkill

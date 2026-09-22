@@ -6,5 +6,6 @@ export const eloquenceOfSpeech = {
   slug: "eloquence-of-speech",
   title: "Eloquence of Speech",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

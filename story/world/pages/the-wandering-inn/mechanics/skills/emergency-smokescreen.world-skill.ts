@@ -6,5 +6,6 @@ export const emergencySmokescreen = {
   slug: "emergency-smokescreen",
   title: "Emergency Smokescreen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

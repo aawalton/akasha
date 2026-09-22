@@ -6,5 +6,6 @@ export const downloadBasicFamiliarity = {
   slug: "download-basic-familiarity",
   title: "Download Basic Familiarity",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

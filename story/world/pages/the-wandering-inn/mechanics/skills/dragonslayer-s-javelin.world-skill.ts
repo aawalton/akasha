@@ -6,5 +6,6 @@ export const dragonslayerSJavelin = {
   slug: "dragonslayer-s-javelin",
   title: "Dragonslayer’s Javelin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

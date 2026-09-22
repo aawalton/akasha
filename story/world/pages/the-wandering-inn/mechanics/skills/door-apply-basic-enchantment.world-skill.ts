@@ -6,5 +6,6 @@ export const doorApplyBasicEnchantment = {
   slug: "door-apply-basic-enchantment",
   title: "Door: Apply Basic Enchantment",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const engagingDiscourse = {
   slug: "engaging-discourse",
   title: "Engaging Discourse",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

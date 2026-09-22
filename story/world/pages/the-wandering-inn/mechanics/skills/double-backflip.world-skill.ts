@@ -6,5 +6,6 @@ export const doubleBackflip = {
   slug: "double-backflip",
   title: "Double Backflip",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

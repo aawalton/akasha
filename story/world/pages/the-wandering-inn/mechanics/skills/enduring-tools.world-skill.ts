@@ -6,5 +6,6 @@ export const enduringTools = {
   slug: "enduring-tools",
   title: "Enduring Tools",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const enhancedStrengthDoors = {
   slug: "enhanced-strength-doors",
   title: "Enhanced Strength: Doors",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const employeesSpeciesPerks = {
   slug: "employees-species-perks",
   title: "Employees: Species Perks",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

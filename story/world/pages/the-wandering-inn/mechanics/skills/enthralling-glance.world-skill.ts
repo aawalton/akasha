@@ -6,6 +6,7 @@ export const enthrallingGlance = {
   slug: "enthralling-glance",
   title: "Enthralling Glance",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   evolvesFromSlugs: ["charming-smile"],
   references: "jsonl",
 } as const satisfies WorldSkill

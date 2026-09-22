@@ -6,5 +6,6 @@ export const estateCollectTaxesCrops = {
   slug: "estate-collect-taxes-crops",
   title: "Estate: Collect Taxes (Crops)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

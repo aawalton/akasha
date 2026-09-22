@@ -6,5 +6,6 @@ export const emergencyExit3FooledYouSuckers = {
   slug: "emergency-exit-3-fooled-you-suckers",
   title: "Emergency Exit 3, Fooled You Suckers",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

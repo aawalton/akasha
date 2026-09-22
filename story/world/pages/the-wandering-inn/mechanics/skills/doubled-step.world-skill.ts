@@ -6,5 +6,6 @@ export const doubledStep = {
   slug: "doubled-step",
   title: "Doubled Step",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

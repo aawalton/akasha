@@ -6,5 +6,6 @@ export const enhancedReactionsStolenSecondsOfTheft = {
   slug: "enhanced-reactions-stolen-seconds-of-theft",
   title: "Enhanced Reactions: Stolen Seconds of Theft",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

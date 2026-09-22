@@ -6,5 +6,6 @@ export const doubleSpeedByWindAndOar = {
   slug: "double-speed-by-wind-and-oar",
   title: "Double Speed, By Wind and Oar",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

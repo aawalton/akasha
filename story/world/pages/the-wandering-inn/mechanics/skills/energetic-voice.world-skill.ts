@@ -6,5 +6,6 @@ export const energeticVoice = {
   slug: "energetic-voice",
   title: "Energetic Voice",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

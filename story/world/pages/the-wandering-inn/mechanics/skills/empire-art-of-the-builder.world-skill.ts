@@ -6,5 +6,6 @@ export const empireArtOfTheBuilder = {
   slug: "empire-art-of-the-builder",
   title: "Empire: Art of the Builder",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

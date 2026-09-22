@@ -6,5 +6,6 @@ export const epochalEarthworksRise = {
   slug: "epochal-earthworks-rise",
   title: "Epochal Earthworks Rise",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

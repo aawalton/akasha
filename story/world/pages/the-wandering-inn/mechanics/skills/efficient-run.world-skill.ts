@@ -6,5 +6,6 @@ export const efficientRun = {
   slug: "efficient-run",
   title: "Efficient Run",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

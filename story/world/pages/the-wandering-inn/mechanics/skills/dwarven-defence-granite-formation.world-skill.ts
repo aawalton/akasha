@@ -6,5 +6,6 @@ export const dwarvenDefenceGraniteFormation = {
   slug: "dwarven-defence-granite-formation",
   title: "Dwarven Defence: Granite Formation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

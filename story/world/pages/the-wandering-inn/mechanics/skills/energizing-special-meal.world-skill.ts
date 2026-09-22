@@ -6,5 +6,6 @@ export const energizingSpecialMeal = {
   slug: "energizing-special-meal",
   title: "Energizing Special Meal",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

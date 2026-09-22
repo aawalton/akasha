@@ -6,5 +6,6 @@ export const electricChords = {
   slug: "electric-chords",
   title: "Electric Chords",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

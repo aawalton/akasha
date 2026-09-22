@@ -6,5 +6,6 @@ export const elementalQuickDraw = {
   slug: "elemental-quick-draw",
   title: "Elemental Quick-Draw",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

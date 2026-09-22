@@ -6,5 +6,6 @@ export const doubledRange = {
   slug: "doubled-range",
   title: "Doubled Range",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const empowerArtifact = {
   slug: "empower-artifact",
   title: "Empower Artifact",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

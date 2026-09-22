@@ -6,5 +6,6 @@ export const elbowCounter = {
   slug: "elbow-counter",
   title: "Elbow Counter",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

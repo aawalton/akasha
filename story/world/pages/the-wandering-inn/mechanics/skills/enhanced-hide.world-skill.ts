@@ -6,5 +6,6 @@ export const enhancedHide = {
   slug: "enhanced-hide",
   title: "Enhanced Hide",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

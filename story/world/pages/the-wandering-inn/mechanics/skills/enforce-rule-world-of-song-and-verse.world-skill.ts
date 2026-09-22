@@ -6,5 +6,6 @@ export const enforceRuleWorldOfSongAndVerse = {
   slug: "enforce-rule-world-of-song-and-verse",
   title: "Enforce Rule: World of Song and Verse",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

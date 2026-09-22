@@ -6,5 +6,6 @@ export const distantScan = {
   slug: "distant-scan",
   title: "Distant Scan",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

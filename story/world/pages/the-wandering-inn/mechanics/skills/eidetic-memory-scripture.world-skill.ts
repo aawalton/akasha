@@ -6,5 +6,6 @@ export const eideticMemoryScripture = {
   slug: "eidetic-memory-scripture",
   title: "Eidetic Memory: Scripture",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
