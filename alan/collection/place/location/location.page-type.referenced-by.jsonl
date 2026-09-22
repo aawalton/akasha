@@ -1209,4 +1209,4 @@
 {"propertySlug":"import","fileName":"location.page-type.types.ts","path":"alan/collection/place/location/pages/zubs-pizza-subs-utah-county.location.ts"}
 {"propertySlug":"import","fileName":"location.page-type.types.ts","path":"alan/collection/place/location/pages/zum-patzenhofer.location.ts"}
 {"propertySlug":"parts","path":"alan/collection/place/place.domain.ts","id":"01a06590-0000-7000-8000-000000000201"}
-{"propertySlug":"target-page-type","path":"alan/collection/place/location-deal/properties/locations.relation-property.ts","id":"01a06585-5fc5-7f40-b744-a7962cb2915f"}
+{"propertySlug":"target-page-type","path":"alan/collection/place/location-deal/properties/locations.multi-relation-property.ts","id":"01a06585-5fc5-7f40-b744-a7962cb2915f"}

@@ -26,7 +26,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/car-research/car-trim/properties/car-year.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/car-research/car-year/properties/car-model.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/chess/review-session/properties/chess-game.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/place/location-deal/properties/locations.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/place/location-deal/properties/locations.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/place/location/properties/collection.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/properties/collection-type.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/properties/collection-unit.relation-property.types.ts"}

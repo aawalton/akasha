@@ -9,7 +9,7 @@ export const locationDeal = {
   parts: [
     "boolean-property/struck-out",
     "number-property/uses-used",
-    "relation-property/locations",
+    "multi-relation-property/locations",
     "select-property/use-limit",
     "text-property/deal-key",
     "text-property/fine-print",
@@ -23,7 +23,12 @@ export const locationDeal = {
     { pageProperty: "relation-property/collection", required: true, many: false },
     { pageProperty: "text-property/deal-key", required: true, many: false },
     { pageProperty: "text-property/fine-print", required: false, many: false },
-    { pageProperty: "relation-property/locations", required: true, many: true, maxCount: null },
+    {
+      pageProperty: "multi-relation-property/locations",
+      required: true,
+      many: true,
+      maxCount: null,
+    },
     { pageProperty: "text-property/offer-text", required: true, many: false },
     { pageProperty: "text-property/offer-type", required: true, many: false },
     { pageProperty: "text-property/redemption-code", required: false, many: false },

@@ -24,7 +24,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/car-year.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/car-research/car-year/properties/car-model.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/chess/review-session/properties/chess-game.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/collection/place/location-deal/properties/locations.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/collection/place/location/properties/collection.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/collection/properties/collection-type.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/collection/properties/collection-unit.relation-property.ts"}
