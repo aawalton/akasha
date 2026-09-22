@@ -4,7 +4,7 @@ export const inventoryConfigFile = {
   id: "01a06258-b536-7417-855d-e9bd5aa14816",
   type: "page-type/lua-module",
   slug: "inventory-config-file",
-  definition: "the one name the inventory add-on's config is read back into",
+  definition: "the name the inventory add-on's config is read back into",
   lua: "lua",
   loadedAs: "TemperItemsConfig.lua",
   decisions: [

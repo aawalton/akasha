@@ -4,7 +4,7 @@ export const setsCoreLoadSets = {
   id: "01a061fc-ceec-7554-91c4-46ddf7db919c",
   type: "page-type/module",
   slug: "sets-core-load-sets",
-  definition: "building every lookup table the library answers from, in one sweep of the set data",
+  definition: "building every lookup table the library answers from, in a sweep of the set data",
   code: "ts",
   decisions: [
     {

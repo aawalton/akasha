@@ -4,7 +4,7 @@ export const inventoryRulesDispatchBank = {
   id: "01a06258-b531-7715-8d2a-26fd26ca0747",
   type: "page-type/module",
   slug: "inventory-rules-dispatch-bank",
-  definition: "what happens when the bank opens, and the one move used by every bank step",
+  definition: "what happens when the bank opens, and the move used by every bank step",
   code: "ts",
   decisions: [
     {

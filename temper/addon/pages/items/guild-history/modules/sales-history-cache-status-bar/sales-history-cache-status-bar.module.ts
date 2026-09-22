@@ -4,6 +4,6 @@ export const salesHistoryCacheStatusBar = {
   id: "01a06197-4c8d-758c-ad11-254d709cb353",
   type: "page-type/module",
   slug: "sales-history-cache-status-bar",
-  definition: "the coloured bar showing what one category has cached",
+  definition: "the coloured bar showing what a category has cached",
   code: "ts",
 } as const satisfies Module

@@ -4,7 +4,7 @@ export const siblingAddons = {
   id: "01a06060-ec40-72c6-b3e3-bb2631d6b18c",
   type: "page-type/module",
   slug: "sibling-addons",
-  definition: "the extra addon folders one addon ships alongside its own",
+  definition: "the extra addon folders an addon ships alongside its own",
   code: "ts",
   test: "ts",
   decisions: [
