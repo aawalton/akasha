@@ -7,6 +7,6 @@ export const accountImperialCityGeneral = {
   title: "General",
   category: "account",
   displayOrder: 0,
-  parent: "account-imperial-city",
+  parent: "temper-achievement-category/account-imperial-city",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

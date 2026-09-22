@@ -5,6 +5,6 @@ export const upgradeInfiniteArchive = {
   type: "page-type/temper-collectible-category",
   slug: "upgrade-infinite-archive",
   title: "Infinite Archive",
-  parent: "upgrade",
+  parent: "temper-collectible-category/upgrade",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

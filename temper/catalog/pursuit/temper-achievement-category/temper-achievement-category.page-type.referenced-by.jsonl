@@ -310,3 +310,4 @@
 {"propertySlug":"import","fileName":"temper-achievement-category.page-type.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/pages/character-thieves-guild-exploration/character-thieves-guild-exploration.temper-achievement-category.ts"}
 {"propertySlug":"import","fileName":"temper-achievement-category.page-type.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/pages/character-thieves-guild/character-thieves-guild.temper-achievement-category.ts"}
 {"propertySlug":"parts","path":"temper/catalog/pursuit/temper-pursuit.domain.ts","id":"01a06153-0ea9-7000-8bea-a58f74ace441"}
+{"propertySlug":"target-page-type","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievement-category-parent.relation-property.ts","id":"01a0cadf-1818-7cb0-a1c6-b0f22967104e"}

@@ -5,6 +5,6 @@ export const mountsWolves = {
   type: "page-type/temper-collectible-category",
   slug: "mounts-wolves",
   title: "Wolves",
-  parent: "mounts",
+  parent: "temper-collectible-category/mounts",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

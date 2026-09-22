@@ -5,6 +5,6 @@ export const fragmentsDaggerfallPaladin = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-daggerfall-paladin",
   title: "Daggerfall Paladin",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

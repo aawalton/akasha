@@ -7,6 +7,6 @@ export const accountSummersetAbyssalGeysers = {
   title: "Abyssal Geysers",
   category: "account",
   displayOrder: 3,
-  parent: "account-summerset",
+  parent: "temper-achievement-category/account-summerset",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

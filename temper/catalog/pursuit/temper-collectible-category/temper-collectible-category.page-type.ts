@@ -10,11 +10,12 @@ export const temperCollectibleCategory = {
     "number-property/eso-category-index",
     "page-property-entry/collectibles",
     "text-property/collectible-name",
+    "relation-property/collectible-category-parent",
   ],
   properties: [
     { pageProperty: "number-property/eso-category-index", required: false, many: false },
     { pageProperty: "page-property-entry/collectibles", required: false, many: false },
-    { pageProperty: "text-property/parent", required: false, many: false },
+    { pageProperty: "relation-property/collectible-category-parent", required: false, many: false },
   ],
   decisions: [
     {

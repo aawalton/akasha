@@ -7,6 +7,6 @@ export const accountDungeonsCryptOfHeartsI = {
   title: "Crypt of Hearts I",
   category: "account",
   displayOrder: 8,
-  parent: "account-dungeons",
+  parent: "temper-achievement-category/account-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

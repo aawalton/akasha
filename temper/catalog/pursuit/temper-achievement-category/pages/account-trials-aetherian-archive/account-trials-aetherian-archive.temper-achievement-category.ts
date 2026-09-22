@@ -7,6 +7,6 @@ export const accountTrialsAetherianArchive = {
   title: "Aetherian Archive",
   category: "account",
   displayOrder: 1,
-  parent: "account-trials",
+  parent: "temper-achievement-category/account-trials",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

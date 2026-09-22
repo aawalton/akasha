@@ -1,10 +1,6 @@
-{"propertySlug":"import","fileName":"parent.text-property.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.types.ts"}
-{"propertySlug":"import","fileName":"parent.text-property.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/temper-collectible-category.page-type.types.ts"}
 {"propertySlug":"import","fileName":"parent.text-property.types.ts","path":"temper/catalog/pursuit/temper-research-line/temper-research-line.page-type.types.ts"}
 {"propertySlug":"import","fileName":"parent.text-property.types.ts","path":"temper/player/holdings/temper-item-category-tree/temper-item-category-tree.page-type.types.ts"}
 {"propertySlug":"import","fileName":"parent.text-property.types.ts","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.types.ts"}
-{"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.ts","id":"01a06168-7245-7000-bc3b-b40339a88d31"}
-{"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-collectible-category/temper-collectible-category.page-type.ts","id":"01a06165-ae0e-7003-b36d-6529ae625fb0"}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-research-line/temper-research-line.page-type.ts","id":"01a0616b-2cdf-7005-a903-e1d072da4881"}
 {"propertySlug":"page-property","path":"temper/player/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts","id":"01a05fcb-fd33-7e42-b0df-2c021ee52730"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.ts","id":"01a05fcb-d657-7209-8fac-d33d57fe464e"}

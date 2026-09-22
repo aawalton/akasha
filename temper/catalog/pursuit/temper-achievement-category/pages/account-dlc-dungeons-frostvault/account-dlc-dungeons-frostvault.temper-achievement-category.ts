@@ -7,6 +7,6 @@ export const accountDlcDungeonsFrostvault = {
   title: "Frostvault",
   category: "account",
   displayOrder: 15,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

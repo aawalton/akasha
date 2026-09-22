@@ -5,6 +5,6 @@ export const emotesGeneral = {
   type: "page-type/temper-collectible-category",
   slug: "emotes-general",
   title: "General",
-  parent: "emotes",
+  parent: "temper-collectible-category/emotes",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

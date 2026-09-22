@@ -5,6 +5,6 @@ export const fragmentsPassionDancerGarment = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-passion-dancer-garment",
   title: "Passion Dancer Garment",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

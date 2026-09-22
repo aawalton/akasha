@@ -5,6 +5,6 @@ export const fragmentsAnseiFrandarHundingDeck = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-ansei-frandar-hunding-deck",
   title: "Ansei Frandar Hunding Deck",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

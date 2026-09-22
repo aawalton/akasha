@@ -5,6 +5,6 @@ export const fragmentsLuminousIndrik = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-luminous-indrik",
   title: "Luminous Indrik",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

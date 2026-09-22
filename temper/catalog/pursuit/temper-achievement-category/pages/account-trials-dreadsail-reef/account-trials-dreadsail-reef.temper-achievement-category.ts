@@ -7,6 +7,6 @@ export const accountTrialsDreadsailReef = {
   title: "Dreadsail Reef",
   category: "account",
   displayOrder: 4,
-  parent: "account-trials",
+  parent: "temper-achievement-category/account-trials",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

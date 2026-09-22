@@ -7,6 +7,6 @@ export const accountExplorationDaggerfallCovenant = {
   title: "Daggerfall Covenant",
   category: "account",
   displayOrder: 2,
-  parent: "account-exploration",
+  parent: "temper-achievement-category/account-exploration",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

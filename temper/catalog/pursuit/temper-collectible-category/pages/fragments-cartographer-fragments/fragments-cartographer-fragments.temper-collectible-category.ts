@@ -5,6 +5,6 @@ export const fragmentsCartographerFragments = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-cartographer-fragments",
   title: "Cartographer Fragments",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

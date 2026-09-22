@@ -5,6 +5,6 @@ export const fragmentsMolagBalIllusionImp = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-molag-bal-illusion-imp",
   title: "Molag Bal Illusion Imp",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

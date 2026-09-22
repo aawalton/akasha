@@ -7,6 +7,6 @@ export const accountDungeonsSpindleclutchI = {
   title: "Spindleclutch I",
   category: "account",
   displayOrder: 18,
-  parent: "account-dungeons",
+  parent: "temper-achievement-category/account-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

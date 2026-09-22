@@ -7,6 +7,6 @@ export const characterOrsiniumExploration = {
   title: "Exploration",
   category: "character",
   displayOrder: 1,
-  parent: "character-orsinium",
+  parent: "temper-achievement-category/character-orsinium",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

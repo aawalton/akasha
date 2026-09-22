@@ -5,6 +5,6 @@ export const weaponStylesTwoHanded = {
   type: "page-type/temper-collectible-category",
   slug: "weapon-styles-two-handed",
   title: "Two-Handed",
-  parent: "weapon-styles",
+  parent: "temper-collectible-category/weapon-styles",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

@@ -5,6 +5,6 @@ export const fragmentsIcebreathIndrik = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-icebreath-indrik",
   title: "Icebreath Indrik",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

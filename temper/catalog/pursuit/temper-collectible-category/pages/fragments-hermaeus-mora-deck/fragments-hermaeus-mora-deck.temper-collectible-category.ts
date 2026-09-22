@@ -5,6 +5,6 @@ export const fragmentsHermaeusMoraDeck = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-hermaeus-mora-deck",
   title: "Hermaeus Mora Deck",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

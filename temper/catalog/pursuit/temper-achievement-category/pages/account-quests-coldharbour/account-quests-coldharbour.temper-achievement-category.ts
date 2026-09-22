@@ -7,6 +7,6 @@ export const accountQuestsColdharbour = {
   title: "Coldharbour",
   category: "account",
   displayOrder: 5,
-  parent: "account-quests",
+  parent: "temper-achievement-category/account-quests",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

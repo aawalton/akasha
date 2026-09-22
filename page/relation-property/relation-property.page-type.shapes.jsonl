@@ -1,4 +1,5 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"monarch-account","unique":null,"uniquePropertySlug":null,"slug":"account","propertySlug":"account","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-achievement-category","unique":null,"uniquePropertySlug":null,"slug":"achievement-category-parent","propertySlug":"parent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-item-action","unique":null,"uniquePropertySlug":null,"slug":"action","propertySlug":"action","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat","unique":null,"uniquePropertySlug":null,"slug":"agent-message-to","propertySlug":"to","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"alias-of","propertySlug":"alias-of","fileName":null,"folderName":null}
@@ -32,6 +33,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"chess-game","unique":null,"uniquePropertySlug":null,"slug":"chess-game","propertySlug":"chess-game","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"child-type","propertySlug":"child-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-class","unique":null,"uniquePropertySlug":null,"slug":"class-id","propertySlug":"class-id","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-collectible-category","unique":null,"uniquePropertySlug":null,"slug":"collectible-category-parent","propertySlug":"parent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"location-collection","unique":null,"uniquePropertySlug":null,"slug":"collection","propertySlug":"collection","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"collection-type","unique":null,"uniquePropertySlug":null,"slug":"collection-type","propertySlug":"collection-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"unit","unique":null,"uniquePropertySlug":null,"slug":"collection-unit","propertySlug":"unit","fileName":null,"folderName":null}

@@ -7,6 +7,6 @@ export const accountHolidayEventsJestersFestival = {
   title: "Jester's Festival",
   category: "account",
   displayOrder: 2,
-  parent: "account-holiday-events",
+  parent: "temper-achievement-category/account-holiday-events",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

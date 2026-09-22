@@ -7,6 +7,6 @@ export const accountDlcDungeonsCastleThorn = {
   title: "Castle Thorn",
   category: "account",
   displayOrder: 6,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

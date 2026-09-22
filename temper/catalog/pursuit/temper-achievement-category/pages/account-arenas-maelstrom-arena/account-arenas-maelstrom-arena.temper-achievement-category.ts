@@ -7,6 +7,6 @@ export const accountArenasMaelstromArena = {
   title: "Maelstrom Arena",
   category: "account",
   displayOrder: 2,
-  parent: "account-arenas",
+  parent: "temper-achievement-category/account-arenas",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

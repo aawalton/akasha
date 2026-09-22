@@ -5,6 +5,6 @@ export const fragmentsWoodenGraveStakeMemento = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-wooden-grave-stake-memento",
   title: "Wooden Grave-Stake Memento",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

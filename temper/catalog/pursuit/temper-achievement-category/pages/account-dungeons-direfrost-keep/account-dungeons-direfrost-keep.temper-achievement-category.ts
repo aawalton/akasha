@@ -7,6 +7,6 @@ export const accountDungeonsDirefrostKeep = {
   title: "Direfrost Keep",
   category: "account",
   displayOrder: 12,
-  parent: "account-dungeons",
+  parent: "temper-achievement-category/account-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

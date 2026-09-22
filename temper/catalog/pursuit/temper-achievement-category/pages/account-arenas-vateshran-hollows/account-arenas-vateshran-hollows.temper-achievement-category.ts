@@ -7,6 +7,6 @@ export const accountArenasVateshranHollows = {
   title: "Vateshran Hollows",
   category: "account",
   displayOrder: 3,
-  parent: "account-arenas",
+  parent: "temper-achievement-category/account-arenas",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

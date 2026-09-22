@@ -5,6 +5,6 @@ export const appearanceSkillStyles = {
   type: "page-type/temper-collectible-category",
   slug: "appearance-skill-styles",
   title: "Skill Styles",
-  parent: "appearance",
+  parent: "temper-collectible-category/appearance",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

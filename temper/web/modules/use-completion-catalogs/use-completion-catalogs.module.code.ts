@@ -1,5 +1,6 @@
 "use client"
 
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import type { AchievementCategoryCatalogEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { AntiquityCatalogCategory } from "akasha/temper/player/completion/temper-player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
@@ -32,6 +33,8 @@ function rowsOf(pageType: string): Promise<readonly Record<string, unknown>[]> {
 function pick(row: Record<string, unknown>, keys: readonly string[]): Record<string, unknown> {
   const out: Record<string, unknown> = {}
   for (const key of keys) if (row[key] !== undefined) out[key] = row[key]
+  const above = out.parent
+  if (typeof above === "string") out.parent = slugOf(above)
   return out
 }
 

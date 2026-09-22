@@ -5,6 +5,6 @@ export const nonCombatPetsFlyingPets = {
   type: "page-type/temper-collectible-category",
   slug: "non-combat-pets-flying-pets",
   title: "Flying Pets",
-  parent: "non-combat-pets",
+  parent: "temper-collectible-category/non-combat-pets",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

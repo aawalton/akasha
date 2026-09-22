@@ -5,6 +5,6 @@ export const fragmentsLawOfJulianosDwarvenSpider = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-law-of-julianos-dwarven-spider",
   title: "Law of Julianos Dwarven Spider",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

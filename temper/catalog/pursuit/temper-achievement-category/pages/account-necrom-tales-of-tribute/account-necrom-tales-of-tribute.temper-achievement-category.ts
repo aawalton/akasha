@@ -7,6 +7,6 @@ export const accountNecromTalesOfTribute = {
   title: "Tales of Tribute",
   category: "account",
   displayOrder: 1,
-  parent: "account-necrom",
+  parent: "temper-achievement-category/account-necrom",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

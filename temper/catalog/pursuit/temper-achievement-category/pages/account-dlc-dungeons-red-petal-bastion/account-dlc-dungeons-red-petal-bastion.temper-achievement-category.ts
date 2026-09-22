@@ -7,6 +7,6 @@ export const accountDlcDungeonsRedPetalBastion = {
   title: "Red Petal Bastion",
   category: "account",
   displayOrder: 26,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

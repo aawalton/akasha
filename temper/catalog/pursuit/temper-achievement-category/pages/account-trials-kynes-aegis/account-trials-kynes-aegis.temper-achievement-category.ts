@@ -7,6 +7,6 @@ export const accountTrialsKynesAegis = {
   title: "Kyne's Aegis",
   category: "account",
   displayOrder: 7,
-  parent: "account-trials",
+  parent: "temper-achievement-category/account-trials",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

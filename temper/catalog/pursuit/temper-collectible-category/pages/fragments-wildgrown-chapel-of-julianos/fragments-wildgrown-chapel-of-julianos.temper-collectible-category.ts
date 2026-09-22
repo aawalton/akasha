@@ -5,6 +5,6 @@ export const fragmentsWildgrownChapelOfJulianos = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-wildgrown-chapel-of-julianos",
   title: "Wildgrown Chapel of Julianos",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

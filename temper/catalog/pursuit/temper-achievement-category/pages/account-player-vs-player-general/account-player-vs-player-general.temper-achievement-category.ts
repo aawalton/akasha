@@ -7,6 +7,6 @@ export const accountPlayerVsPlayerGeneral = {
   title: "General",
   category: "account",
   displayOrder: 0,
-  parent: "account-player-vs-player",
+  parent: "temper-achievement-category/account-player-vs-player",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

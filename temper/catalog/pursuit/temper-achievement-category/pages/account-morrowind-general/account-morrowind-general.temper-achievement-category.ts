@@ -7,6 +7,6 @@ export const accountMorrowindGeneral = {
   title: "General",
   category: "account",
   displayOrder: 0,
-  parent: "account-morrowind",
+  parent: "temper-achievement-category/account-morrowind",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

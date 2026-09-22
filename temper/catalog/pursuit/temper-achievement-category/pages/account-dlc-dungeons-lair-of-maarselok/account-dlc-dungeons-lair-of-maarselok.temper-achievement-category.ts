@@ -7,6 +7,6 @@ export const accountDlcDungeonsLairOfMaarselok = {
   title: "Lair of Maarselok",
   category: "account",
   displayOrder: 19,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

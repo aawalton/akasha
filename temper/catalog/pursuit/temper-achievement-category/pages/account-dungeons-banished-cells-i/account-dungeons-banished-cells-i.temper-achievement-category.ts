@@ -7,6 +7,6 @@ export const accountDungeonsBanishedCellsI = {
   title: "Banished Cells I",
   category: "account",
   displayOrder: 2,
-  parent: "account-dungeons",
+  parent: "temper-achievement-category/account-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

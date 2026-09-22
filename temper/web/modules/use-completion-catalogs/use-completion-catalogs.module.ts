@@ -51,5 +51,9 @@ export const useCompletionCatalogs = {
       decisionKind: "decision-kind/departure",
       statement: "Narrowing a row keeps the row small.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page a catalog row names is read back as a bare name.",
+    },
   ],
 } as const satisfies Module

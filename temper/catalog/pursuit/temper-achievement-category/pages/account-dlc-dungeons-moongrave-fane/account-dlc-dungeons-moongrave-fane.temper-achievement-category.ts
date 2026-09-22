@@ -7,6 +7,6 @@ export const accountDlcDungeonsMoongraveFane = {
   title: "Moongrave Fane",
   category: "account",
   displayOrder: 23,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

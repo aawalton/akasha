@@ -5,6 +5,6 @@ export const mountsGuarKagoutis = {
   type: "page-type/temper-collectible-category",
   slug: "mounts-guar-kagoutis",
   title: "Guar & Kagoutis",
-  parent: "mounts",
+  parent: "temper-collectible-category/mounts",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

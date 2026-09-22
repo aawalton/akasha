@@ -7,6 +7,6 @@ export const accountDungeonsFungalGrottoIi = {
   title: "Fungal Grotto II",
   category: "account",
   displayOrder: 16,
-  parent: "account-dungeons",
+  parent: "temper-achievement-category/account-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

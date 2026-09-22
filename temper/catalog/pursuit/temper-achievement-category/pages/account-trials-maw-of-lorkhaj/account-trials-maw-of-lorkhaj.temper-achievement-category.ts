@@ -7,6 +7,6 @@ export const accountTrialsMawOfLorkhaj = {
   title: "Maw of Lorkhaj",
   category: "account",
   displayOrder: 9,
-  parent: "account-trials",
+  parent: "temper-achievement-category/account-trials",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

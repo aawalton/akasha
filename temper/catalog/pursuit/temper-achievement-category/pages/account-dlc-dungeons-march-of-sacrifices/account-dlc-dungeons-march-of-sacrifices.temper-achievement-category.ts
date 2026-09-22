@@ -7,6 +7,6 @@ export const accountDlcDungeonsMarchOfSacrifices = {
   title: "March of Sacrifices",
   category: "account",
   displayOrder: 21,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

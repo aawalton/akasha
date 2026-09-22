@@ -5,6 +5,6 @@ export const customizedActionsRuneCollecting = {
   type: "page-type/temper-collectible-category",
   slug: "customized-actions-rune-collecting",
   title: "Rune Collecting",
-  parent: "customized-actions",
+  parent: "temper-collectible-category/customized-actions",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

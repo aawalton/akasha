@@ -7,6 +7,6 @@ export const accountTrialsSunspire = {
   title: "Sunspire",
   category: "account",
   displayOrder: 14,
-  parent: "account-trials",
+  parent: "temper-achievement-category/account-trials",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

@@ -5,6 +5,6 @@ export const fragmentsStonewispOfTruthAndLaw = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-stonewisp-of-truth-and-law",
   title: "Stonewisp of Truth and Law",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

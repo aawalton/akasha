@@ -7,6 +7,6 @@ export const accountDlcDungeonsCradleOfShadows = {
   title: "Cradle of Shadows",
   category: "account",
   displayOrder: 8,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

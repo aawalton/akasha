@@ -7,6 +7,6 @@ export const accountSummersetGeneral = {
   title: "General",
   category: "account",
   displayOrder: 0,
-  parent: "account-summerset",
+  parent: "temper-achievement-category/account-summerset",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

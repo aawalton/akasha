@@ -7,6 +7,6 @@ export const accountDlcDungeonsDepthsOfMalatar = {
   title: "Depths of Malatar",
   category: "account",
   displayOrder: 9,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

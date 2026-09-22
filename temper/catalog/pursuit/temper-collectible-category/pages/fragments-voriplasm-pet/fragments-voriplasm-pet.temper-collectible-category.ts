@@ -5,6 +5,6 @@ export const fragmentsVoriplasmPet = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-voriplasm-pet",
   title: "Voriplasm Pet",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

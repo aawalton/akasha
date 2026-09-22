@@ -7,6 +7,6 @@ export const accountDlcDungeonsFangLair = {
   title: "Fang Lair",
   category: "account",
   displayOrder: 14,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

@@ -5,6 +5,6 @@ export const fragmentsPlanemeldsMaster = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-planemelds-master",
   title: "Planemeld's Master",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

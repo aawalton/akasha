@@ -7,6 +7,6 @@ export const accountExplorationDarkAnchors = {
   title: "Dark Anchors",
   category: "account",
   displayOrder: 7,
-  parent: "account-exploration",
+  parent: "temper-achievement-category/account-exploration",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

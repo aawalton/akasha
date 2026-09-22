@@ -5,6 +5,6 @@ export const fragmentsThornsBiteRevelryGown = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-thorns-bite-revelry-gown",
   title: "Thorn's Bite Revelry Gown",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

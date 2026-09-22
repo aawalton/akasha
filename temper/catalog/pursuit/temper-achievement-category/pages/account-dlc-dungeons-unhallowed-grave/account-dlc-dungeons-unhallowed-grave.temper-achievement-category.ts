@@ -7,6 +7,6 @@ export const accountDlcDungeonsUnhallowedGrave = {
   title: "Unhallowed Grave",
   category: "account",
   displayOrder: 33,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

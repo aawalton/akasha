@@ -5,6 +5,6 @@ export const fragmentsSoulfireDragonIllusion = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-soulfire-dragon-illusion",
   title: "Soulfire Dragon Illusion",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

@@ -7,6 +7,6 @@ export const accountTrialsAsylumSanctorium = {
   title: "Asylum Sanctorium",
   category: "account",
   displayOrder: 2,
-  parent: "account-trials",
+  parent: "temper-achievement-category/account-trials",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

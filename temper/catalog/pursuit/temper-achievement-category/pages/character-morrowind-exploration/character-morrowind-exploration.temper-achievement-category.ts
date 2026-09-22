@@ -7,6 +7,6 @@ export const characterMorrowindExploration = {
   title: "Exploration",
   category: "character",
   displayOrder: 1,
-  parent: "character-morrowind",
+  parent: "temper-achievement-category/character-morrowind",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

@@ -5,6 +5,6 @@ export const patronsGeneral = {
   type: "page-type/temper-collectible-category",
   slug: "patrons-general",
   title: "General",
-  parent: "patrons",
+  parent: "temper-collectible-category/patrons",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

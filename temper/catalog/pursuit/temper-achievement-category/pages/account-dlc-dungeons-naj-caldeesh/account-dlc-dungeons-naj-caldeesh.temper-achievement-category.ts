@@ -7,6 +7,6 @@ export const accountDlcDungeonsNajCaldeesh = {
   title: "Naj-Caldeesh",
   category: "account",
   displayOrder: 24,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

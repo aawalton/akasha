@@ -7,6 +7,6 @@ export const accountRecentSeasonsChallengeDifficulty = {
   title: "Challenge Difficulty",
   category: "account",
   displayOrder: 1,
-  parent: "account-recent-seasons",
+  parent: "temper-achievement-category/account-recent-seasons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

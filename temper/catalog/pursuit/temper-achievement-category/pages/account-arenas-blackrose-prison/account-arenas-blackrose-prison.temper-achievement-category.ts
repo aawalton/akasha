@@ -7,6 +7,6 @@ export const accountArenasBlackrosePrison = {
   title: "Blackrose Prison",
   category: "account",
   displayOrder: 0,
-  parent: "account-arenas",
+  parent: "temper-achievement-category/account-arenas",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

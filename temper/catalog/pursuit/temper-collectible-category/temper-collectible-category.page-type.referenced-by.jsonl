@@ -145,3 +145,4 @@
 {"propertySlug":"import","fileName":"temper-collectible-category.page-type.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/pages/weapon-styles-two-handed/weapon-styles-two-handed.temper-collectible-category.ts"}
 {"propertySlug":"import","fileName":"temper-collectible-category.page-type.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/pages/weapon-styles/weapon-styles.temper-collectible-category.ts"}
 {"propertySlug":"parts","path":"temper/catalog/pursuit/temper-pursuit.domain.ts","id":"01a06153-0ea9-7000-8bea-a58f74ace441"}
+{"propertySlug":"target-page-type","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectible-category-parent.relation-property.ts","id":"01a0cadf-2a12-7d7d-97d2-9131af6aeefa"}

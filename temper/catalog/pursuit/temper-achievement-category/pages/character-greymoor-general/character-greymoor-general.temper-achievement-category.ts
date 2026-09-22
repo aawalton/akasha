@@ -7,6 +7,6 @@ export const characterGreymoorGeneral = {
   title: "General",
   category: "character",
   displayOrder: 0,
-  parent: "character-greymoor",
+  parent: "temper-achievement-category/character-greymoor",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

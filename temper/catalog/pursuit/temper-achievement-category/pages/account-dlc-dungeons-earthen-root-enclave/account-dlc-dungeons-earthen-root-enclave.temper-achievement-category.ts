@@ -7,6 +7,6 @@ export const accountDlcDungeonsEarthenRootEnclave = {
   title: "Earthen Root Enclave",
   category: "account",
   displayOrder: 11,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

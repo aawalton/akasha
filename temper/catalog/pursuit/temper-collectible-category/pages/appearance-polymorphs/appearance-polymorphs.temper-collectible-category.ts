@@ -5,6 +5,6 @@ export const appearancePolymorphs = {
   type: "page-type/temper-collectible-category",
   slug: "appearance-polymorphs",
   title: "Polymorphs",
-  parent: "appearance",
+  parent: "temper-collectible-category/appearance",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

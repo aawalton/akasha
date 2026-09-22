@@ -5,6 +5,6 @@ export const fragmentsSaintAlessiaDeck = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-saint-alessia-deck",
   title: "Saint Alessia Deck",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

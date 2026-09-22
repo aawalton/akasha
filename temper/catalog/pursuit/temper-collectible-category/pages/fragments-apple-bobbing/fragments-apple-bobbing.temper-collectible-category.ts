@@ -5,6 +5,6 @@ export const fragmentsAppleBobbing = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-apple-bobbing",
   title: "Apple-Bobbing",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

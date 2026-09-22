@@ -7,6 +7,6 @@ export const accountSolsticeExploration = {
   title: "Exploration",
   category: "account",
   displayOrder: 2,
-  parent: "account-solstice",
+  parent: "temper-achievement-category/account-solstice",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

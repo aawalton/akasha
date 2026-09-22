@@ -5,6 +5,6 @@ export const customizedActionsMining = {
   type: "page-type/temper-collectible-category",
   slug: "customized-actions-mining",
   title: "Mining",
-  parent: "customized-actions",
+  parent: "temper-collectible-category/customized-actions",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

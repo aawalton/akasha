@@ -7,6 +7,6 @@ export const accountDlcDungeonsExiledRedoubt = {
   title: "Exiled Redoubt",
   category: "account",
   displayOrder: 12,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

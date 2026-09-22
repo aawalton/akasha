@@ -7,6 +7,6 @@ export const accountExplorationEbonheartPact = {
   title: "Ebonheart Pact",
   category: "account",
   displayOrder: 3,
-  parent: "account-exploration",
+  parent: "temper-achievement-category/account-exploration",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

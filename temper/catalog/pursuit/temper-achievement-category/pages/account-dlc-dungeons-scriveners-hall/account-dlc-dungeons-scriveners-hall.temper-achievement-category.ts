@@ -7,6 +7,6 @@ export const accountDlcDungeonsScrivenersHall = {
   title: "Scrivener's Hall",
   category: "account",
   displayOrder: 29,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

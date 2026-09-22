@@ -7,6 +7,6 @@ export const accountDeadlandsPrologue = {
   title: "Prologue",
   category: "account",
   displayOrder: 2,
-  parent: "account-deadlands",
+  parent: "temper-achievement-category/account-deadlands",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

@@ -7,6 +7,6 @@ export const accountDlcDungeonsIcereach = {
   title: "Icereach",
   category: "account",
   displayOrder: 17,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

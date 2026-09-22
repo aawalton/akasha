@@ -7,6 +7,6 @@ export const accountDlcDungeonsBlackDrakeVilla = {
   title: "Black Drake Villa",
   category: "account",
   displayOrder: 3,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

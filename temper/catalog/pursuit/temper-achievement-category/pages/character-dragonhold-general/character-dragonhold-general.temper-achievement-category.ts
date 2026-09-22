@@ -7,6 +7,6 @@ export const characterDragonholdGeneral = {
   title: "General",
   category: "character",
   displayOrder: 0,
-  parent: "character-dragonhold",
+  parent: "temper-achievement-category/character-dragonhold",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

@@ -7,6 +7,6 @@ export const accountTrialsSanctumOphidia = {
   title: "Sanctum Ophidia",
   category: "account",
   displayOrder: 12,
-  parent: "account-trials",
+  parent: "temper-achievement-category/account-trials",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

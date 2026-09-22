@@ -7,6 +7,6 @@ export const accountRecentSeasonsDynamicEncounters = {
   title: "Dynamic Encounters",
   category: "account",
   displayOrder: 4,
-  parent: "account-recent-seasons",
+  parent: "temper-achievement-category/account-recent-seasons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

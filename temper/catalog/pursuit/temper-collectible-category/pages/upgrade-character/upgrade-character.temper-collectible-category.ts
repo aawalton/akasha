@@ -5,6 +5,6 @@ export const upgradeCharacter = {
   type: "page-type/temper-collectible-category",
   slug: "upgrade-character",
   title: "Character",
-  parent: "upgrade",
+  parent: "temper-collectible-category/upgrade",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

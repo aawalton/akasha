@@ -5,6 +5,6 @@ export const fragmentsUnstableMorpholith = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-unstable-morpholith",
   title: "Unstable Morpholith",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

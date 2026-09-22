@@ -5,6 +5,6 @@ export const fragmentsRosebloodWingsRecall = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-roseblood-wings-recall",
   title: "Roseblood Wings Recall",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

@@ -5,6 +5,6 @@ export const fragmentsDoomcharPlateau = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-doomchar-plateau",
   title: "Doomchar Plateau",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

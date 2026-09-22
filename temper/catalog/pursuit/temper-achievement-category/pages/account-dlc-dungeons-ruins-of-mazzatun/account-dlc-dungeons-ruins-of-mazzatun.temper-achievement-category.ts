@@ -7,6 +7,6 @@ export const accountDlcDungeonsRuinsOfMazzatun = {
   title: "Ruins of Mazzatun",
   category: "account",
   displayOrder: 27,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

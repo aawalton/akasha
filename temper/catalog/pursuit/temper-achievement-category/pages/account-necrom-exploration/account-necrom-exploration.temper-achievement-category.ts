@@ -7,6 +7,6 @@ export const accountNecromExploration = {
   title: "Exploration",
   category: "account",
   displayOrder: 4,
-  parent: "account-necrom",
+  parent: "temper-achievement-category/account-necrom",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

@@ -5,6 +5,6 @@ export const fragmentsLogicalRuneExtraction = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-logical-rune-extraction",
   title: "Logical Rune Extraction",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

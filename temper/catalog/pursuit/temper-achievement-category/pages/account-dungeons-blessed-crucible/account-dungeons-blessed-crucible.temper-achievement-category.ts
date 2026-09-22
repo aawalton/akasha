@@ -7,6 +7,6 @@ export const accountDungeonsBlessedCrucible = {
   title: "Blessed Crucible",
   category: "account",
   displayOrder: 5,
-  parent: "account-dungeons",
+  parent: "temper-achievement-category/account-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

@@ -7,6 +7,6 @@ export const accountExplorationPublicDungeons = {
   title: "Public Dungeons",
   category: "account",
   displayOrder: 9,
-  parent: "account-exploration",
+  parent: "temper-achievement-category/account-exploration",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

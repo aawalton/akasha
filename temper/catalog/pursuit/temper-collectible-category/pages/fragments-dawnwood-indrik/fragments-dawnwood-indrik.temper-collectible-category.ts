@@ -5,6 +5,6 @@ export const fragmentsDawnwoodIndrik = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-dawnwood-indrik",
   title: "Dawnwood Indrik",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

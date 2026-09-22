@@ -7,6 +7,6 @@ export const accountNightMarketQuests = {
   title: "Quests",
   category: "account",
   displayOrder: 3,
-  parent: "account-night-market",
+  parent: "temper-achievement-category/account-night-market",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

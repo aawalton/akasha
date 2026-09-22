@@ -7,6 +7,6 @@ export const accountDungeonsDarkshadeCavernsI = {
   title: "Darkshade Caverns I",
   category: "account",
   displayOrder: 10,
-  parent: "account-dungeons",
+  parent: "temper-achievement-category/account-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

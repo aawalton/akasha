@@ -7,6 +7,6 @@ export const characterImperialCityGeneral = {
   title: "General",
   category: "character",
   displayOrder: 0,
-  parent: "character-imperial-city",
+  parent: "temper-achievement-category/character-imperial-city",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

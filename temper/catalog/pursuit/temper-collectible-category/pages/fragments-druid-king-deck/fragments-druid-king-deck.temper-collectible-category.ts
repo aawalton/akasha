@@ -5,6 +5,6 @@ export const fragmentsDruidKingDeck = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-druid-king-deck",
   title: "Druid King Deck",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

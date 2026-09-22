@@ -7,6 +7,6 @@ export const accountDlcDungeonsBalSunnar = {
   title: "Bal Sunnar",
   category: "account",
   displayOrder: 1,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

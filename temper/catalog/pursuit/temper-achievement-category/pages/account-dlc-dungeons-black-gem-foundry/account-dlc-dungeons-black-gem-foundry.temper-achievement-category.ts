@@ -7,6 +7,6 @@ export const accountDlcDungeonsBlackGemFoundry = {
   title: "Black Gem Foundry",
   category: "account",
   displayOrder: 4,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

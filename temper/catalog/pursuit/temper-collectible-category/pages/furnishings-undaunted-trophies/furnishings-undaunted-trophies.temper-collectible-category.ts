@@ -5,6 +5,6 @@ export const furnishingsUndauntedTrophies = {
   type: "page-type/temper-collectible-category",
   slug: "furnishings-undaunted-trophies",
   title: "Undaunted Trophies",
-  parent: "furnishings",
+  parent: "temper-collectible-category/furnishings",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

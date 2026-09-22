@@ -7,6 +7,6 @@ export const accountDlcDungeonsOathswornPit = {
   title: "Oathsworn Pit",
   category: "account",
   displayOrder: 25,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

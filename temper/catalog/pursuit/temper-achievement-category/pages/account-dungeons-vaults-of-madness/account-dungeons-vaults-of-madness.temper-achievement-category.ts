@@ -7,6 +7,6 @@ export const accountDungeonsVaultsOfMadness = {
   title: "Vaults of Madness",
   category: "account",
   displayOrder: 22,
-  parent: "account-dungeons",
+  parent: "temper-achievement-category/account-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

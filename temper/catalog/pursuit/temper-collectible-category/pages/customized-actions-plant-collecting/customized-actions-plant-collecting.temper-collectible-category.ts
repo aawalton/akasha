@@ -5,6 +5,6 @@ export const customizedActionsPlantCollecting = {
   type: "page-type/temper-collectible-category",
   slug: "customized-actions-plant-collecting",
   title: "Plant Collecting",
-  parent: "customized-actions",
+  parent: "temper-collectible-category/customized-actions",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

@@ -5,6 +5,6 @@ export const weaponStylesStaff = {
   type: "page-type/temper-collectible-category",
   slug: "weapon-styles-staff",
   title: "Staff",
-  parent: "weapon-styles",
+  parent: "temper-collectible-category/weapon-styles",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

@@ -5,6 +5,6 @@ export const alliesAssistants = {
   type: "page-type/temper-collectible-category",
   slug: "allies-assistants",
   title: "Assistants",
-  parent: "allies",
+  parent: "temper-collectible-category/allies",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

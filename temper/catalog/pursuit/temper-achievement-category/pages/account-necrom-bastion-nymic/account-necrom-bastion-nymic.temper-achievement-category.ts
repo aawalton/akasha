@@ -7,6 +7,6 @@ export const accountNecromBastionNymic = {
   title: "Bastion Nymic",
   category: "account",
   displayOrder: 7,
-  parent: "account-necrom",
+  parent: "temper-achievement-category/account-necrom",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

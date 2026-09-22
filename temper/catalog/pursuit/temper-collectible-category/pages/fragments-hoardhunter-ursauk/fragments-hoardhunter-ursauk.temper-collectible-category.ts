@@ -5,6 +5,6 @@ export const fragmentsHoardhunterUrsauk = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-hoardhunter-ursauk",
   title: "Hoardhunter Ursauk",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

@@ -7,6 +7,6 @@ export const accountTrialsHallsOfFabrication = {
   title: "Halls of Fabrication",
   category: "account",
   displayOrder: 5,
-  parent: "account-trials",
+  parent: "temper-achievement-category/account-trials",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

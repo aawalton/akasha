@@ -5,6 +5,6 @@ export const fragmentsDeadlandsScorcher = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-deadlands-scorcher",
   title: "Deadlands Scorcher",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

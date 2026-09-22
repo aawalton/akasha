@@ -5,6 +5,6 @@ export const mountsDwemerSpiders = {
   type: "page-type/temper-collectible-category",
   slug: "mounts-dwemer-spiders",
   title: "Dwemer Spiders",
-  parent: "mounts",
+  parent: "temper-collectible-category/mounts",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

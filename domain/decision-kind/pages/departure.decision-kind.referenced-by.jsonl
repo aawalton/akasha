@@ -4666,6 +4666,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/item-level.text-property.ts","id":"01a05fcc-41f3-75f3-b81e-993d8b24e369"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/valid-slots.one-of-property.ts","id":"01a05fcc-41f4-739e-a73e-ae1c6505faab"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/temper-gear-thing.page-type.ts","id":"01a05fcc-41ef-7386-84ed-43fb6534121e"}
+{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievement-category-parent.relation-property.ts","id":"01a0cadf-1818-7cb0-a1c6-b0f22967104e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievements.page-property-entry.ts","id":"01a06168-7245-7004-8aa0-eba39e83a4e6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.ts","id":"01a06168-7245-7000-bc3b-b40339a88d31"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-antiquity-category/properties/antiquities.page-property-entry.ts","id":"01a06166-503b-7004-a13a-ad8c499bf773"}
@@ -4673,6 +4674,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-antiquity-category/temper-antiquity-category.page-type.ts","id":"01a06166-503c-7000-a696-166a5a6ce1df"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-cadwell-level/properties/cadwell-stops.page-property-entry.ts","id":"01a0616b-2cde-7000-91a1-a666b77645cd"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-cadwell-level/temper-cadwell-level.page-type.ts","id":"01a0616b-2cde-7001-a076-c5cb204d81f9"}
+{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectible-category-parent.relation-property.ts","id":"01a0cadf-2a12-7d7d-97d2-9131af6aeefa"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectibles.page-property-entry.ts","id":"01a06165-ae0e-7002-9050-a3edc1766aec"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-collectible-category/temper-collectible-category.page-type.ts","id":"01a06165-ae0e-7003-b36d-6529ae625fb0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.ts","id":"01a0616b-2cdf-7001-a24c-0dd3c96e1a6e"}

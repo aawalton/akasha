@@ -5,6 +5,6 @@ export const fragmentsRosebloodBat = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-roseblood-bat",
   title: "Roseblood Bat",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

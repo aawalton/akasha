@@ -5,6 +5,6 @@ export const appearanceFacialHair = {
   type: "page-type/temper-collectible-category",
   slug: "appearance-facial-hair",
   title: "Facial Hair",
-  parent: "appearance",
+  parent: "temper-collectible-category/appearance",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

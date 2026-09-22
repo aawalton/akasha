@@ -7,6 +7,6 @@ export const accountArenasDragonstarArena = {
   title: "Dragonstar Arena",
   category: "account",
   displayOrder: 1,
-  parent: "account-arenas",
+  parent: "temper-achievement-category/account-arenas",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

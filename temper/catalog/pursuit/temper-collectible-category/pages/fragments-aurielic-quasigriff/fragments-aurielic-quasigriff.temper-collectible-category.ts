@@ -5,6 +5,6 @@ export const fragmentsAurielicQuasigriff = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-aurielic-quasigriff",
   title: "Aurielic Quasigriff",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

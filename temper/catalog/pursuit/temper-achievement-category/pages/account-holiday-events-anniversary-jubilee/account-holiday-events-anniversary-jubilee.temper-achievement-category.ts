@@ -7,6 +7,6 @@ export const accountHolidayEventsAnniversaryJubilee = {
   title: "Anniversary Jubilee",
   category: "account",
   displayOrder: 1,
-  parent: "account-holiday-events",
+  parent: "temper-achievement-category/account-holiday-events",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

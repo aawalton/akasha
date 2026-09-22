@@ -5,6 +5,6 @@ export const upgradeCompanionKeepsakes = {
   type: "page-type/temper-collectible-category",
   slug: "upgrade-companion-keepsakes",
   title: "Companion Keepsakes",
-  parent: "upgrade",
+  parent: "temper-collectible-category/upgrade",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

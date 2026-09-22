@@ -5,6 +5,6 @@ export const mountsSencheRaht = {
   type: "page-type/temper-collectible-category",
   slug: "mounts-senche-raht",
   title: "Senche-Raht",
-  parent: "mounts",
+  parent: "temper-collectible-category/mounts",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

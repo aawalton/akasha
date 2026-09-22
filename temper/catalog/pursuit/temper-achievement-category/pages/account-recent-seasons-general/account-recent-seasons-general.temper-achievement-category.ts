@@ -7,6 +7,6 @@ export const accountRecentSeasonsGeneral = {
   title: "General",
   category: "account",
   displayOrder: 0,
-  parent: "account-recent-seasons",
+  parent: "temper-achievement-category/account-recent-seasons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

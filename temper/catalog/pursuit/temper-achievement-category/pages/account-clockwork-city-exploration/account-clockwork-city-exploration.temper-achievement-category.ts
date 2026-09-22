@@ -7,6 +7,6 @@ export const accountClockworkCityExploration = {
   title: "Exploration",
   category: "account",
   displayOrder: 1,
-  parent: "account-clockwork-city",
+  parent: "temper-achievement-category/account-clockwork-city",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

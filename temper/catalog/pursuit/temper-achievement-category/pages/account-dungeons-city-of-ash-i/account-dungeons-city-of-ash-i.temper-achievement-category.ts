@@ -7,6 +7,6 @@ export const accountDungeonsCityOfAshI = {
   title: "City of Ash I",
   category: "account",
   displayOrder: 6,
-  parent: "account-dungeons",
+  parent: "temper-achievement-category/account-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

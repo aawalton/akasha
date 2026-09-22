@@ -5,6 +5,6 @@ export const appearanceMinorAdornments = {
   type: "page-type/temper-collectible-category",
   slug: "appearance-minor-adornments",
   title: "Minor Adornments",
-  parent: "appearance",
+  parent: "temper-collectible-category/appearance",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

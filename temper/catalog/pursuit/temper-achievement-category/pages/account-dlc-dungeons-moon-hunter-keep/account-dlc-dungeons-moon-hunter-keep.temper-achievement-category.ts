@@ -7,6 +7,6 @@ export const accountDlcDungeonsMoonHunterKeep = {
   title: "Moon Hunter Keep",
   category: "account",
   displayOrder: 22,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

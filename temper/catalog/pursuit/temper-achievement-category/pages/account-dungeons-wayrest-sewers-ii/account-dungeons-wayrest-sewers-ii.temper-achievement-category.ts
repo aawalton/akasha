@@ -7,6 +7,6 @@ export const accountDungeonsWayrestSewersIi = {
   title: "Wayrest Sewers II",
   category: "account",
   displayOrder: 24,
-  parent: "account-dungeons",
+  parent: "temper-achievement-category/account-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

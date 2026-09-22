@@ -5,6 +5,6 @@ export const fragmentsSorcererKingOrgnumDeck = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-sorcerer-king-orgnum-deck",
   title: "Sorcerer-King Orgnum Deck",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

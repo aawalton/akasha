@@ -7,6 +7,6 @@ export const characterThievesGuildExploration = {
   title: "Exploration",
   category: "character",
   displayOrder: 0,
-  parent: "character-thieves-guild",
+  parent: "temper-achievement-category/character-thieves-guild",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

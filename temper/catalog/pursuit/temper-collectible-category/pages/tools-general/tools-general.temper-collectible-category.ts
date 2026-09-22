@@ -5,6 +5,6 @@ export const toolsGeneral = {
   type: "page-type/temper-collectible-category",
   slug: "tools-general",
   title: "General",
-  parent: "tools",
+  parent: "temper-collectible-category/tools",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

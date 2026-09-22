@@ -5,6 +5,6 @@ export const storiesDungeonDlc = {
   type: "page-type/temper-collectible-category",
   slug: "stories-dungeon-dlc",
   title: "Dungeon DLC",
-  parent: "stories",
+  parent: "temper-collectible-category/stories",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

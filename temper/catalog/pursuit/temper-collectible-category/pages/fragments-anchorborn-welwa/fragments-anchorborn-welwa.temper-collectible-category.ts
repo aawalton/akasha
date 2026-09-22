@@ -5,6 +5,6 @@ export const fragmentsAnchorbornWelwa = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-anchorborn-welwa",
   title: "Anchorborn Welwa",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

@@ -7,6 +7,6 @@ export const accountTrialsHelRaCitadel = {
   title: "Hel Ra Citadel",
   category: "account",
   displayOrder: 6,
-  parent: "account-trials",
+  parent: "temper-achievement-category/account-trials",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

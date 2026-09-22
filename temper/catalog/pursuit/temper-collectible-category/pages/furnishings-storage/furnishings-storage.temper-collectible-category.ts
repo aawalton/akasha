@@ -5,6 +5,6 @@ export const furnishingsStorage = {
   type: "page-type/temper-collectible-category",
   slug: "furnishings-storage",
   title: "Storage",
-  parent: "furnishings",
+  parent: "temper-collectible-category/furnishings",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

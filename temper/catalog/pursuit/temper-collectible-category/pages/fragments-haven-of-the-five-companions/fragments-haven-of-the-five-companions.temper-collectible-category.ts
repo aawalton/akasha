@@ -5,6 +5,6 @@ export const fragmentsHavenOfTheFiveCompanions = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-haven-of-the-five-companions",
   title: "Haven of the Five Companions",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

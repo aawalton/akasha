@@ -5,6 +5,6 @@ export const fragmentsSacredHourglassOfAlkosh = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-sacred-hourglass-of-alkosh",
   title: "Sacred Hourglass of Alkosh",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

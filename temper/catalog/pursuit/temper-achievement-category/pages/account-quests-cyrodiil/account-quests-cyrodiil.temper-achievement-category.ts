@@ -7,6 +7,6 @@ export const accountQuestsCyrodiil = {
   title: "Cyrodiil",
   category: "account",
   displayOrder: 7,
-  parent: "account-quests",
+  parent: "temper-achievement-category/account-quests",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

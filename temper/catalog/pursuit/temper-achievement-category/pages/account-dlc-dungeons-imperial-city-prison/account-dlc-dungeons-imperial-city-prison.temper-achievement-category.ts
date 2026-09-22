@@ -7,6 +7,6 @@ export const accountDlcDungeonsImperialCityPrison = {
   title: "Imperial City Prison",
   category: "account",
   displayOrder: 18,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

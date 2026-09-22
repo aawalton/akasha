@@ -5,6 +5,6 @@ export const fragmentsSovereignSow = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-sovereign-sow",
   title: "Sovereign Sow",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

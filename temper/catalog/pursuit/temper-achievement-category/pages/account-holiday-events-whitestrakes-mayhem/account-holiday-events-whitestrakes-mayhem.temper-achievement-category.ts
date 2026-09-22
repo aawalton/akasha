@@ -7,6 +7,6 @@ export const accountHolidayEventsWhitestrakesMayhem = {
   title: "Whitestrake's Mayhem",
   category: "account",
   displayOrder: 0,
-  parent: "account-holiday-events",
+  parent: "temper-achievement-category/account-holiday-events",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

@@ -7,6 +7,6 @@ export const accountInfiniteArchiveExploration = {
   title: "Exploration",
   category: "account",
   displayOrder: 2,
-  parent: "account-infinite-archive",
+  parent: "temper-achievement-category/account-infinite-archive",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

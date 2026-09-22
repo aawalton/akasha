@@ -5,6 +5,6 @@ export const fragmentsScalesOfAkatosh = {
   type: "page-type/temper-collectible-category",
   slug: "fragments-scales-of-akatosh",
   title: "Scales of Akatosh",
-  parent: "fragments",
+  parent: "temper-collectible-category/fragments",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

@@ -7,6 +7,6 @@ export const accountDlcDungeonsGravenDeep = {
   title: "Graven Deep",
   category: "account",
   displayOrder: 16,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

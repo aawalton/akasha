@@ -7,6 +7,6 @@ export const characterQuestsMainQuest = {
   title: "Main Quest",
   category: "character",
   displayOrder: 0,
-  parent: "character-quests",
+  parent: "temper-achievement-category/character-quests",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

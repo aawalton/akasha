@@ -5,6 +5,6 @@ export const appearanceHeadMarkings = {
   type: "page-type/temper-collectible-category",
   slug: "appearance-head-markings",
   title: "Head Markings",
-  parent: "appearance",
+  parent: "temper-collectible-category/appearance",
   collectibles: "jsonl",
 } as const satisfies TemperCollectibleCategory

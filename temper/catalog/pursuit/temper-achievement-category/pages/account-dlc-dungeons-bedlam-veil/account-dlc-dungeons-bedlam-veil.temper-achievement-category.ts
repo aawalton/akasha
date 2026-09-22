@@ -7,6 +7,6 @@ export const accountDlcDungeonsBedlamVeil = {
   title: "Bedlam Veil",
   category: "account",
   displayOrder: 2,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory

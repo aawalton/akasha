@@ -7,6 +7,6 @@ export const accountDlcDungeonsBloodrootForge = {
   title: "Bloodroot Forge",
   category: "account",
   displayOrder: 5,
-  parent: "account-dlc-dungeons",
+  parent: "temper-achievement-category/account-dlc-dungeons",
   achievements: "jsonl",
 } as const satisfies TemperAchievementCategory
