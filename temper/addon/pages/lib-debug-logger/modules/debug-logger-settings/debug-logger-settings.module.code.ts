@@ -4,7 +4,7 @@ import {
 } from "akasha/temper/addon/pages/lib-debug-logger/modules/debug-logger-state/debug-logger-state.module.code.ts"
 import type { Settings } from "akasha/temper/addon/pages/lib-debug-logger/modules/debug-logger-types/debug-logger-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-chat-message/lib-chat-message.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-chat-message-global/temper-chat-message-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-debug-logger/debug-logger-declarations/debug-logger-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-debug-logger/debug-logger-saved-variables/debug-logger-saved-variables.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
@@ -12,13 +12,13 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const TAG_TEMPLATE = "[%s] %s"
 
-let chat: LibChatMessageInstance | undefined
-function getChatProxy(): LibChatMessageInstance {
+let chat: TemperChatMessageInstance | undefined
+function getChatProxy(): TemperChatMessageInstance {
   const held = chat
   if (held !== undefined) return held
-  const made: LibChatMessageInstance =
-    LibChatMessage !== undefined
-      ? LibChatMessage(LIB.id, "LDL")
+  const made: TemperChatMessageInstance =
+    TemperChatMessage !== undefined
+      ? TemperChatMessage(LIB.id, "LDL")
       : {
           Print(message: string): undefined {
             CHAT_ROUTER.AddSystemMessage(string.format(TAG_TEMPLATE, LIB.id, message))

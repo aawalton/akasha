@@ -13,7 +13,7 @@ export const gpsLibState = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "LibDebugLogger and LibChatMessage are loaded before this library.",
+      statement: "LibDebugLogger and TemperChatMessage are loaded before this library.",
     },
   ],
 } as const satisfies Module

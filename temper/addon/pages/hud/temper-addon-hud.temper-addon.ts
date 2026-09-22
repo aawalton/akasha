@@ -11,6 +11,7 @@ export const temperAddonHud = {
   bindings: "xml",
   bundleEntry: "module/hud-addon-entry",
   parts: [
+    "domain/temper-chat-message",
     "domain/temper-errors",
     "domain/temper-events",
     "domain/temper-housing",

@@ -1,0 +1,10 @@
+{"propertySlug":"import","fileName":"chat-message-constants.module.code.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-history/chat-history.module.code.ts"}
+{"propertySlug":"import","fileName":"chat-message-constants.module.code.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-links/chat-links.module.code.ts"}
+{"propertySlug":"import","fileName":"chat-message-constants.module.code.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-api/chat-message-api.module.code.ts"}
+{"propertySlug":"import","fileName":"chat-message-constants.module.code.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
+{"propertySlug":"import","fileName":"chat-message-constants.module.code.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
+{"propertySlug":"import","fileName":"chat-message-constants.module.code.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-public-api/chat-message-public-api.module.code.ts"}
+{"propertySlug":"import","fileName":"chat-message-constants.module.code.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-slash-command/chat-message-slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"chat-message-constants.module.code.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-proxy/chat-proxy.module.code.ts"}
+{"propertySlug":"import","fileName":"chat-message-constants.module.code.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-saved-data/chat-saved-data.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/pages/hud/temper-chat-message/temper-chat-message.domain.ts","id":"01a0c736-fca4-7f93-97d8-93f4d98fc1b8"}

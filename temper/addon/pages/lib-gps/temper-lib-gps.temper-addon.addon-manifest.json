@@ -7,6 +7,6 @@
   "addonVersion": 73,
   "apiVersion": ["101045", "101046"],
   "savedVariables": [],
-  "dependsOn": ["LibMapPing>=900", "LibDebugLogger>=196", "LibChatMessage>=100"],
+  "dependsOn": ["LibMapPing>=900", "LibDebugLogger>=196", "TemperHud"],
   "optionalDependsOn": []
 }

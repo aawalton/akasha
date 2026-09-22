@@ -1,5 +1,5 @@
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-chat-message/lib-chat-message.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-chat-message-global/temper-chat-message-global.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-game-shapes/scrollable-menu-game-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
@@ -239,7 +239,7 @@ export interface TamrielOMeterClass extends TamrielOMeterMethods {
 
 export interface InternalState {
   logger: DebugLogger
-  chat: LibChatMessageProxy
+  chat: TemperChatMessageProxy
   TAMRIEL_MAP_INDEX: number
   BLACKREACH_ROOT_MAP_INDEX: number
   mapAdapter?: MapAdapterInstance

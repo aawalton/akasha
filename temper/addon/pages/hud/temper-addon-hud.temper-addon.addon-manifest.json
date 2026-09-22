@@ -14,7 +14,9 @@
     "TemperPortToFriendsHouse_SavedVariables",
     "TemperKeybinder_SavedVariables",
     "TemperNoThankYou_SavedVariables",
-    "TemperFCOChangeStuff_SavedVariables"
+    "TemperFCOChangeStuff_SavedVariables",
+    "LibChatMessageSettings",
+    "LibChatMessageHistory"
   ],
   "additionalLuaFiles": [],
   "dependsOn": [

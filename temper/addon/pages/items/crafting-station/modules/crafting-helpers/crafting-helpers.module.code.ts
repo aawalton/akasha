@@ -3,7 +3,7 @@ import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/crafting-addon-neighbours/crafting-addon-neighbours.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-chat-message/lib-chat-message.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-chat-message-global/temper-chat-message-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
@@ -137,8 +137,8 @@ export function filterPublishedItems(itemIds: Record<number, number>): number[] 
   return publishedItemIds
 }
 
-if (LibChatMessage !== undefined) {
-  STATE.Chat = LibChatMessage("Temper Crafting", "TC") as ChatProxy
+if (TemperChatMessage !== undefined) {
+  STATE.Chat = TemperChatMessage("Temper Crafting", "TC") as ChatProxy
 }
 
 export const CHAT: ChatProxy = {

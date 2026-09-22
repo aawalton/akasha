@@ -15,7 +15,7 @@ export const temperAddonType = {
     "type-declaration/interface-addon-neighbours",
     "type-declaration/lib-addon-menu",
     "type-declaration/lib-async",
-    "type-declaration/lib-chat-message",
+    "type-declaration/temper-chat-message-global",
     "type-declaration/lib-codes-common-code",
     "type-declaration/lib-custom-menu",
     "type-declaration/lib-debug-logger",

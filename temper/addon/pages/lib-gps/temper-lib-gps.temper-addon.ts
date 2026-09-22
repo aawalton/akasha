@@ -55,7 +55,7 @@ export const temperLibGps = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "This library needs LibChatMessage loaded first.",
+      statement: "This library needs the Temper add-on loaded first.",
     },
   ],
   library: true,

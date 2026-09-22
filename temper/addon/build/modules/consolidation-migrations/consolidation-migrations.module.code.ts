@@ -481,4 +481,22 @@ export const CONSOLIDATION_MIGRATIONS = [
       targetFileBase: "TemperHud",
     },
   },
+  {
+    mode: "append",
+    runFor: "TemperHud",
+    spec: {
+      absorbedFileBase: "LibChatMessage",
+      absorbedGlobal: "LibChatMessageSettings",
+      targetFileBase: "TemperHud",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperHud",
+    spec: {
+      absorbedFileBase: "LibChatMessage",
+      absorbedGlobal: "LibChatMessageHistory",
+      targetFileBase: "TemperHud",
+    },
+  },
 ] as const satisfies readonly ConsolidationMigration[]

@@ -583,7 +583,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-texture/addon-menu-widget-texture.module.ts","id":"01a06100-0000-7000-8000-000000000028"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/temper-lib-addon-menu.temper-addon.ts","id":"01a06292-8851-701c-9273-a19fa38175bb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-async/temper-lib-async.temper-addon.ts","id":"01a0606a-1c52-7326-b2c4-11a5a0c5c3fa"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-chat-message/temper-lib-chat-message.temper-addon.ts","id":"01a06060-0d13-746b-9617-c8f4b7d288ce"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-custom-menu/temper-lib-custom-menu.temper-addon.ts","id":"01a0605a-581c-7eb1-aaf7-831f236462fa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/temper-lib-debug-logger.temper-addon.ts","id":"01a06061-408b-7657-add9-d2dfd959f9b9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-gps/modules/gps-lib-state/gps-lib-state.module.ts","id":"01a0614d-4763-71d6-823d-0a023d0ff5b6"}

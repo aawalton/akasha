@@ -1,9 +1,0 @@
-import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
-
-export const libChatMessage = {
-  id: "01a06090-f5b0-7c84-bae3-841781000ae2",
-  type: "page-type/type-declaration",
-  slug: "lib-chat-message",
-  definition: "what the lib-chat-message library leaves in another add-on's reach",
-  d: "ts",
-} as const satisfies TypeDeclaration

@@ -33,7 +33,7 @@ interface ZoPreHook {
   ): ((this: void, ...args: unknown[]) => unknown) | undefined
 }
 
-interface LibChatMessageInstance {
+interface TemperChatMessageInstance {
   Print: (message: string) => void
   Printf: (formatter: string, ...args: unknown[]) => void
 }

@@ -12,13 +12,13 @@ import type {
 } from "akasha/temper/addon/pages/lib-gps/modules/gps-types/gps-types.module.code.ts"
 import { createLogger } from "akasha/temper/addon/shared/log/modules/library-logger/library-logger.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-chat-message/lib-chat-message.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-chat-message-global/temper-chat-message-global.type-declaration.d.ts"
 
-function createChat(this: void): LibChatMessageProxy {
-  if (LibChatMessage === undefined) {
-    error(`${LIB_IDENTIFIER} requires LibChatMessage`)
+function createChat(this: void): TemperChatMessageProxy {
+  if (TemperChatMessage === undefined) {
+    error(`${LIB_IDENTIFIER} requires TemperChatMessage`)
   }
-  return LibChatMessage(LIB_IDENTIFIER, CHAT_SHORT_TAG)
+  return TemperChatMessage(LIB_IDENTIFIER, CHAT_SHORT_TAG)
 }
 
 export const INTERNAL: InternalState = {

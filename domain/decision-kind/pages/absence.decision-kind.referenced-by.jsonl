@@ -1761,6 +1761,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/hud-addon-hide-targets/hud-addon-hide-targets.module.ts","id":"01a061c5-18dd-7009-859a-31630f29ad1a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/hud-addon-types/hud-addon-types.module.ts","id":"01a061c5-18dd-7000-bd52-66ec64cec528"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-addon-hud.temper-addon.ts","id":"01a061c5-18dd-7011-a8e7-8f6d488e9b03"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-casts/chat-message-casts.module.ts","id":"01a06060-0d14-7717-b700-44162c6cbf37"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-errors/modules/errors-addon-build-ids/errors-addon-build-ids.module.ts","id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-errors/temper-errors.domain.ts","id":"01a0c6ff-0f87-7747-920a-288d24e2f233"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-events/modules/next-boss-ui-strings/next-boss-ui-strings.module.ts","id":"01a06157-8357-7537-a6bd-307d783c5836"}
@@ -1815,7 +1816,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-divider/addon-menu-widget-divider.module.ts","id":"01a06100-0000-7000-8000-000000000018"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-header/addon-menu-widget-header.module.ts","id":"01a06100-0000-7000-8000-000000000022"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-texture/addon-menu-widget-texture.module.ts","id":"01a06100-0000-7000-8000-000000000028"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-chat-message/modules/chat-message-casts/chat-message-casts.module.ts","id":"01a06060-0d14-7717-b700-44162c6cbf37"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/debug-logger-declarations/debug-logger-declarations.type-declaration.ts","id":"01a0620a-a166-7f46-895d-4d74d6165dbc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-gps/modules/gps-casts/gps-casts.module.ts","id":"01a0614d-4760-77ae-8327-bdf716931de5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-main-menu/modules/main-menu-entry/main-menu-entry.module.ts","id":"01a0605b-c802-71af-a8cf-d954d41e3520"}

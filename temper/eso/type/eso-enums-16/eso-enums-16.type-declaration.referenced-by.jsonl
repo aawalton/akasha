@@ -10,6 +10,8 @@
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-log-strings/combat-lib-log-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-resources/combat-lib-resources.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-report/combat-ui-chat-report.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-chat/fco-chat.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-mail-events/fco-mail-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-alerts/quiet-alerts.module.code.ts"}
@@ -20,6 +22,4 @@
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/rune-favorites/rune-favorites.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-mail-handler/inventory-mail-handler.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-mail/inventory-rules-dispatch-mail.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}
