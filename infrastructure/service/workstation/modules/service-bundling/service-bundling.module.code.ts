@@ -81,6 +81,7 @@ export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set([
   "persona-email-routing",
   "persona-points-rebuilding",
   "plants-relay-service",
+  "recipient-resolver",
   "repos-empty-dir-purge",
   "royal-road-sync",
   "safety-relay-service",
