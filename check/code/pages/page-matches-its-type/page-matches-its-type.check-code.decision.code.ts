@@ -1,10 +1,11 @@
 import { entryReasonsIn } from "akasha/check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"
 import { reasonsIn } from "akasha/check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.code.ts"
-import type { Commit, Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
+  type Commit,
+  type Paged,
   pageOfRow,
-  textIn,
-} from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+} from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
+import { textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { waitingProperties } from "akasha/page/index/modules/generated-properties/generated-properties.module.code.ts"
@@ -90,8 +91,11 @@ export function refusalsIn(commit: Commit): readonly Judged[] {
     beside: commit.read,
   }
   const judged: Judged[] = []
-  for (const path of commit.paths) {
-    if (!pageNamed(path, pageTypes)) continue
+  const walked = new Set<string>()
+  for (const one of commit.paths) {
+    const path = pageNamed(one, pageTypes) ? one : pageOfRow(one, over)
+    if (path === null || walked.has(path)) continue
+    walked.add(path)
     const text = commit.read(path)
     if (text === null) continue
     for (const reason of reasonsAt(judging, path, text, NOTHING)) judged.push({ path, reason })

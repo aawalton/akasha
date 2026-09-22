@@ -8,7 +8,7 @@
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"check/modules/change-walking/change-walking.module.code.ts"}
+{"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"check/modules/audit-commit/audit-commit.module.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"code/ios-app/modules/shared-build-files/shared-build-files.module.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"command/modules/beside-sweeping/beside-sweeping.module.code.ts"}

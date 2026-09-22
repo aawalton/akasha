@@ -94,7 +94,7 @@ export const pageMatchesItsType = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page a change reaches by its own file and by an entry file is judged once.",
+      statement: "A page reached by its own file and by an entry file is judged once.",
     },
     {
       decisionKind: "decision-kind/departure",

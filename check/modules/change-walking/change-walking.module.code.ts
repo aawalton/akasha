@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import { pathsTyped } from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
+import { pageOfRow } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type {
   Judged,
   Running,
@@ -9,13 +10,8 @@ import type {
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { isMissing } from "akasha/file/disk/modules/missing/missing.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
-import { ENTRY_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import {
-  pageNamed,
-  pageOf,
-  partedIn,
-} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { pageNamed, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { type Loaded, loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
@@ -173,28 +169,6 @@ export function pagesBy(named: string, taken: Input): Selector<Paged> {
 }
 
 export const PAGES: Selector<Paged> = pagesBy("pages", () => true)
-
-const ROWED = new WeakMap<Shadow, ReadonlySet<string>>()
-
-function rowKeysIn(shadow: Shadow): ReadonlySet<string> {
-  const found = ROWED.get(shadow)
-  if (found !== undefined) return found
-  const made = new Set<string>()
-  for (const held of shadow.index.shapesAt().values()) {
-    if (held.pageTypeSlug === ENTRY_PROPERTY) made.add(held.propertySlug)
-  }
-  ROWED.set(shadow, made)
-  return made
-}
-
-export function pageOfRow(path: string, shadow: Shadow): string | null {
-  const said = partedIn(path)
-  if (said === null || said.sections.length === 0) return null
-  const key = said.sections[0]
-  if (key === undefined || !rowKeysIn(shadow).has(key)) return null
-  const at = join(dirname(path), `${pageOf(said)}${TS}`)
-  return shadow.pageOf(at) === null ? null : at
-}
 
 function rowNamed(path: string, shadow: Shadow): boolean {
   return pageOfRow(path, shadow) !== null

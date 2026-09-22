@@ -1,5 +1,5 @@
 import { readFileSync, statSync } from "node:fs"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   classifyExtension,
@@ -11,12 +11,17 @@ import {
   type Answering,
   answeringOver,
 } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import { ENTRY_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   INDEX_AT,
   underIndex,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  pageNamed,
+  pageOf,
+  partedIn,
+} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -74,6 +79,30 @@ export function pagedIn(paged: Paged, path: string): boolean {
   return pageNamed(path, paged.index.pageTypesIn())
 }
 
+const TS = ".ts"
+
+const ROWED = new WeakMap<Paged, ReadonlySet<string>>()
+
+function rowKeysIn(paged: Paged): ReadonlySet<string> {
+  const found = ROWED.get(paged)
+  if (found !== undefined) return found
+  const made = new Set<string>()
+  for (const held of paged.index.shapesAt().values()) {
+    if (held.pageTypeSlug === ENTRY_PROPERTY) made.add(held.propertySlug)
+  }
+  ROWED.set(paged, made)
+  return made
+}
+
+export function pageOfRow(path: string, paged: Paged): string | null {
+  const said = partedIn(path)
+  if (said === null || said.sections.length === 0) return null
+  const key = said.sections[0]
+  if (key === undefined || !rowKeysIn(paged).has(key)) return null
+  const at = join(dirname(path), `${pageOf(said)}${TS}`)
+  return paged.pageOf(at) === null ? null : at
+}
+
 export function overEachIn(commit: Commit, taking: Taking, saying: Saying): readonly Judged[] {
   const said: Judged[] = []
   for (const path of commit.paths) {
@@ -103,7 +132,7 @@ function bytesOf(root: string, path: string): Uint8Array | null {
 export function commitIn(root: string): Commit {
   const reading = readingIn(root)
   const held = new Map<string, Value | null>()
-  const pageOf = (path: string): Value | null => {
+  const pageHeld = (path: string): Value | null => {
     const found = held.get(path)
     if (found !== undefined || held.has(path)) return found ?? null
     const body = reading.read(path)
@@ -120,7 +149,7 @@ export function commitIn(root: string): Commit {
     },
     read: reading.read,
     bytes: (path) => bytesOf(root, path),
-    pageOf,
-    index: answeringOver(reading, pageOf),
+    pageOf: pageHeld,
+    index: answeringOver(reading, pageHeld),
   }
 }

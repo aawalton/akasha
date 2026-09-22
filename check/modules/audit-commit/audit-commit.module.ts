@@ -65,5 +65,26 @@ export const auditCommit = {
       statement:
         "A body is read from disk at each ask, and a check wanting one twice holds it itself.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page an entry file sits beside is answered here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Which section names an entry file is read from the index rather than listed here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page an entry file sits beside is composed out of that file's own name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page composed that way is answered only where that page is there to read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Answering that page takes a reading of pages rather than the whole of a commit.",
+    },
   ],
 } as const satisfies Module

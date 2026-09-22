@@ -1,9 +1,8 @@
-import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
+  type Paged,
   pageOfRow,
-  textIn,
-  textWas,
-} from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+} from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
+import { textIn, textWas } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   eachTarget,
