@@ -6,5 +6,6 @@ export const skillNameOfDragonsYderigrisel = {
   slug: "skill-name-of-dragons-yderigrisel",
   title: "Skill — Name of Dragons: Yderigrisel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

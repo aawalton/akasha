@@ -6,5 +6,6 @@ export const songBalladOfTheHornsOfHammerad = {
   slug: "song-ballad-of-the-horns-of-hammerad",
   title: "Song: Ballad of the Horns of Hammerad",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

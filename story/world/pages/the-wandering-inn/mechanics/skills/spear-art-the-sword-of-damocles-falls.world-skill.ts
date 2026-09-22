@@ -6,5 +6,6 @@ export const spearArtTheSwordOfDamoclesFalls = {
   slug: "spear-art-the-sword-of-damocles-falls",
   title: "Spear Art: The Sword of Damocles Falls",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

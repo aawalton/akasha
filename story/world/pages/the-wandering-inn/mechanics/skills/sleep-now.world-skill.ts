@@ -6,5 +6,6 @@ export const sleepNow = {
   slug: "sleep-now",
   title: "Sleep, Now",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

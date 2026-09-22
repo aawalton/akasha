@@ -6,5 +6,6 @@ export const staffCrossTrainedProfessionals = {
   slug: "staff-cross-trained-professionals",
   title: "Staff: Cross-trained Professionals",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const speedFormationArchers3 = {
   slug: "speed-formation-archers-3",
   title: "Speed Formation: Archers 3",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

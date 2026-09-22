@@ -6,5 +6,6 @@ export const snapThrow = {
   slug: "snap-throw",
   title: "Snap Throw",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

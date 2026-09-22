@@ -6,5 +6,6 @@ export const spearArtTreeLimbSReach = {
   slug: "spear-art-tree-limb-s-reach",
   title: "Spear Art: Tree Limb’s Reach",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

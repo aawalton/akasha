@@ -6,5 +6,6 @@ export const skillTheDoorToEarthOpens = {
   slug: "skill-the-door-to-earth-opens",
   title: "Skill – The Door to Earth opens.",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

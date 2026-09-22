@@ -6,5 +6,6 @@ export const snareNet = {
   slug: "snare-net",
   title: "Snare Net",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

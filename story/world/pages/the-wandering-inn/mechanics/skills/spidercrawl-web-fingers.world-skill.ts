@@ -6,5 +6,6 @@ export const spidercrawlWebFingers = {
   slug: "spidercrawl-web-fingers",
   title: "Spidercrawl (Web Fingers)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

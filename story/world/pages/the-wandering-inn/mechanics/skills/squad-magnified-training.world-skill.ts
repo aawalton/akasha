@@ -6,5 +6,6 @@ export const squadMagnifiedTraining = {
   slug: "squad-magnified-training",
   title: "Squad: Magnified Training",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

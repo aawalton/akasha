@@ -6,5 +6,6 @@ export const stoneshieldLine = {
   slug: "stoneshield-line",
   title: "Stoneshield Line",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

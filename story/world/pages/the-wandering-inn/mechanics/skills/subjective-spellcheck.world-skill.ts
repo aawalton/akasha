@@ -6,5 +6,6 @@ export const subjectiveSpellcheck = {
   slug: "subjective-spellcheck",
   title: "Subjective Spellcheck",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

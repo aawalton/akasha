@@ -6,5 +6,6 @@ export const socialNetwork = {
   slug: "social-network",
   title: "Social Network",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

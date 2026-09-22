@@ -6,5 +6,6 @@ export const sleightOfHandWand = {
   slug: "sleight-of-hand-wand",
   title: "Sleight of Hand: Wand",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const stunningBash = {
   slug: "stunning-bash",
   title: "Stunning Bash",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

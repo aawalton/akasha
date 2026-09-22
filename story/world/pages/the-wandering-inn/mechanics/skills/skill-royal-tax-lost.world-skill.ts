@@ -6,5 +6,6 @@ export const skillRoyalTaxLost = {
   slug: "skill-royal-tax-lost",
   title: "Skill – Royal Tax lost.",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

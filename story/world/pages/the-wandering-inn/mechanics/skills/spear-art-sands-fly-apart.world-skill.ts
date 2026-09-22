@@ -6,5 +6,6 @@ export const spearArtSandsFlyApart = {
   slug: "spear-art-sands-fly-apart",
   title: "Spear Art: Sands Fly Apart",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

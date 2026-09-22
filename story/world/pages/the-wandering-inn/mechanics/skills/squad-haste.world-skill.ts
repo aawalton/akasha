@@ -6,5 +6,6 @@ export const squadHaste = {
   slug: "squad-haste",
   title: "Squad: Haste",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const summonAberration = {
   slug: "summon-aberration",
   title: "Summon Aberration",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   references: "jsonl",
 } as const satisfies WorldSkill

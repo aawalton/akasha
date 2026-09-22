@@ -6,5 +6,6 @@ export const spellSkillUnerringAim = {
   slug: "spell-skill-unerring-aim",
   title: "Spell Skill: Unerring Aim",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

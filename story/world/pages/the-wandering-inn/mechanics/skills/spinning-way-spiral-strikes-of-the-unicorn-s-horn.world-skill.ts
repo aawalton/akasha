@@ -6,5 +6,6 @@ export const spinningWaySpiralStrikesOfTheUnicornSHorn = {
   slug: "spinning-way-spiral-strikes-of-the-unicorn-s-horn",
   title: "Spinning Way: Spiral Strikes of the Unicorn’s Horn",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

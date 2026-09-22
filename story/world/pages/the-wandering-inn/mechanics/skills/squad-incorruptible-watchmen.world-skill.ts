@@ -6,5 +6,6 @@ export const squadIncorruptibleWatchmen = {
   slug: "squad-incorruptible-watchmen",
   title: "Squad: Incorruptible Watchmen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

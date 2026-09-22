@@ -6,5 +6,6 @@ export const squadFirstToGreetDeath = {
   slug: "squad-first-to-greet-death",
   title: "Squad: First to Greet Death",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

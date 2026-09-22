@@ -6,5 +6,6 @@ export const storageCrates = {
   slug: "storage-crates",
   title: "Storage Crates",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

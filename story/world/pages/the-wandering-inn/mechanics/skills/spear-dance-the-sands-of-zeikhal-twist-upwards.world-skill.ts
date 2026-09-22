@@ -6,5 +6,6 @@ export const spearDanceTheSandsOfZeikhalTwistUpwards = {
   slug: "spear-dance-the-sands-of-zeikhal-twist-upwards",
   title: "Spear Dance: The Sands of Zeikhal Twist Upwards",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

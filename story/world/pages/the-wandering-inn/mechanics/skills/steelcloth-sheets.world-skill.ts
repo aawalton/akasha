@@ -6,5 +6,6 @@ export const steelclothSheets = {
   slug: "steelcloth-sheets",
   title: "Steelcloth Sheets",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

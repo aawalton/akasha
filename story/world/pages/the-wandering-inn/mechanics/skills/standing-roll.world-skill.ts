@@ -6,5 +6,6 @@ export const standingRoll = {
   slug: "standing-roll",
   title: "Standing Roll",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
