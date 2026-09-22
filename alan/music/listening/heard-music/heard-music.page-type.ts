@@ -6,7 +6,7 @@ export const heardMusic = {
   slug: "heard-music",
   definition: "every track a person has heard",
   extends: ["page-type/page"],
-  parts: ["page-property-entry/tracks"],
+  parts: ["page-property-entry/tracks", "page-type/heard-source"],
   properties: [
     { pageProperty: "relation-property/person", required: true, many: false },
     { pageProperty: "page-property-entry/tracks", required: true, many: false },
