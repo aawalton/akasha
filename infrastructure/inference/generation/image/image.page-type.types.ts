@@ -1,4 +1,4 @@
-import type { EsoDay } from "akasha/infrastructure/inference/generation/image/properties/eso-day.text-property.types.ts"
+import type { EsoDay } from "akasha/infrastructure/inference/generation/image/properties/eso-day.calendar-date-property.types.ts"
 import type { ImageBytes } from "akasha/infrastructure/inference/generation/image/properties/image-bytes.file-property.types.ts"
 import type { ImagePersona } from "akasha/infrastructure/inference/generation/image/properties/image-persona.relation-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"

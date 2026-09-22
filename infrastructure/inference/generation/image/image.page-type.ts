@@ -11,10 +11,10 @@ export const image = {
   ],
   extends: ["page-type/page"],
   parts: [
+    "calendar-date-property/eso-day",
     "file-property/image-bytes",
     "module/picture-landing",
     "relation-property/image-persona",
-    "text-property/eso-day",
   ],
   properties: [
     {
@@ -25,7 +25,7 @@ export const image = {
     },
     { pageProperty: "relation-property/image-persona", required: false, many: false },
     { pageProperty: "relation-property/relationship-level", required: false, many: false },
-    { pageProperty: "text-property/eso-day", required: false, many: false },
+    { pageProperty: "calendar-date-property/eso-day", required: false, many: false },
   ],
   decisions: [
     {

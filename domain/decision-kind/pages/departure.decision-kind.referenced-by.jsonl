@@ -2703,7 +2703,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/generation.domain.ts","id":"01a0658b-0f02-7c33-9784-2d0807309315"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.ts","id":"01a0c611-36c9-75fc-beac-236b54b0894c"}
-{"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/properties/eso-day.text-property.ts","id":"01a060fb-040d-7f7f-bce8-a74c90df15bc"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/properties/eso-day.calendar-date-property.ts","id":"01a0cb48-cf03-73d0-8a9e-fe6422c89f59"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/properties/image-bytes.file-property.ts","id":"01a0c5a1-0c16-7cc7-a193-157978ff825a"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/properties/image-persona.relation-property.ts","id":"01a0c5f0-5590-72e4-b3dc-065c29bd351c"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/log/generation-log.page-type.ts","id":"01a01d18-306b-7000-9796-b41f285a1bad"}

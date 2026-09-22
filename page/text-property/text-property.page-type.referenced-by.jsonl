@@ -291,7 +291,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/inference/generation/audio/properties/inference-service.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/inference/generation/audio/properties/spoken-text.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/inference/generation/audio/properties/voice-instruct.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/eso-day.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/computer-model.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machine/host/properties/host-address.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machine/host/properties/login-user.text-property.ts"}
