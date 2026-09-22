@@ -53,7 +53,7 @@ export function createShifterBox(
     "_",
     asString(uniqueShifterBoxName),
   ])
-  return CreateControlFromVirtual(shifterBoxName, parentControl, "ShifterBoxTemplate")
+  return CreateControlFromVirtual(shifterBoxName, parentControl, "TemperShifterBox_Template")
 }
 
 export function applyCustomSettings(obj: ShifterBox, customSettings: unknown): ShifterBoxSettings {

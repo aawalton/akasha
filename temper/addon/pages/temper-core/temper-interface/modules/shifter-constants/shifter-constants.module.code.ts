@@ -99,7 +99,7 @@ export const EVENT_NAMES: readonly string[] = [
 export const DEFAULT_LIST_SETTINGS: ListSettings = {
   title: "",
   rowHeight: 32,
-  rowTemplateName: "ShifterBoxEntryTemplate",
+  rowTemplateName: "TemperShifterBox_EntryTemplate",
   emptyListText: "empty",
   fontSize: 18,
 }
