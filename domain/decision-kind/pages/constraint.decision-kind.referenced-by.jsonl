@@ -1075,6 +1075,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-part-7/skyshards-part-7.module.ts","id":"01a061a8-9c69-75a2-b7b3-9f86f9d709aa"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-part-8/skyshards-part-8.module.ts","id":"01a061a8-9c69-769d-b065-e5762fce5d41"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-part-9/skyshards-part-9.module.ts","id":"01a061a8-9c6a-7345-8144-0e0b6adb0bc0"}
+{"propertySlug":"decision-kind","path":"temper/eso/constant/modules/engine-constants-reading/engine-constants-reading.module.ts","id":"01a0cac8-225a-75ff-8997-f26ac342831d"}
 {"propertySlug":"decision-kind","path":"temper/eso/constant/temper-eso-constant.domain.ts","id":"01a0cac4-be34-72eb-b6bf-8acc883ca004"}
 {"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-declaration-narrowing/eso-declaration-narrowing.module.ts","id":"01a0ca7d-ccfa-7d68-ad8a-cc8ae5982e94"}
 {"propertySlug":"decision-kind","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}

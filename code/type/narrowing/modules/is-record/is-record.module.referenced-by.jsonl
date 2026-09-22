@@ -45,6 +45,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"story/game/turn/modules/turn-state/turn-state.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/constant/modules/engine-constants-reading/engine-constants-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/items/core/modules/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/items/filters/core/modules/search-range-value-parse/search-range-value-parse.module.code.ts"}

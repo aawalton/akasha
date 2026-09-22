@@ -5,7 +5,7 @@ export const temperEsoConstant = {
   type: "page-type/domain",
   slug: "temper-eso-constant",
   definition: "the values the game gives the globals an add-on runs among",
-  parts: ["data-table/engine-constants"],
+  parts: ["data-table/engine-constants", "module/engine-constants-reading"],
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
