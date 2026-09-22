@@ -330,7 +330,7 @@ export function TextPropertyBadgesPanel() {
   return (
     <PanelCard id="ds-text-property-badges" collapsible title="Text Property Badges">
       <p className="text-secondary text-sm">
-        <code>markdown</code>, <code>url</code>, <code>json</code> and <code>rich-document</code>
+        <code>markdown</code>, <code>url</code>, <code>json</code> and <code>rich-document</code>{" "}
         carry a drawing of their own, and plain text falls back to the <code>page-property</code>{" "}
         badge. A rich document is edited in place on the page carrying it, so away from one it reads
         as its opening line.
