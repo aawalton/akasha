@@ -34,7 +34,7 @@ import { collectLuaFiles } from "akasha/temper/eso/path/modules/lua-files/lua-fi
 
 const NAMED = [codeRootArgument, stage, esoRoot]
 
-const GENERATED_DIR_REL = "temper/build-deploy-checks"
+const GENERATED_DIR_REL = "temper/addon/build/deploy-check/modules"
 
 const STEM = "eso-colon-methods"
 
@@ -126,7 +126,7 @@ function staged(done: string[], taken: Taken): Answer {
     binding: BINDING,
     names: [...names].sort(),
     runDefinition:
-      "one run of the colon-method names the base game defines, in the whole census's order",
+      "a set of the colon-method names the base game defines, in the whole census's order",
     aggregateDefinition:
       "every colon-method name the base game defines, gathered from the runs holding them",
   }
@@ -160,7 +160,7 @@ function staged(done: string[], taken: Taken): Answer {
   report.push(
     `nothing has landed. ${String(put.changed.length)} file(s) differ from what is there; to land them, run: bash ${put.landAt}`,
     `nothing in the tree reads ${BINDING} today, so landing this sets up an authority with no consumer`,
-    "the temper-build-deploy-checks domain page would want every run's slug in its part slugs; nothing here writes that list"
+    "the temper-addon-deploy-check domain page would want every run's slug in its part slugs; nothing here writes that list"
   )
 
   return told(report)
