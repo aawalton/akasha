@@ -115,6 +115,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.ts","path":"infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"infrastructure/service/workstation/modules/service-alerting/service-alerting.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}

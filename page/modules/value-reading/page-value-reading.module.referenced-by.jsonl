@@ -255,6 +255,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/inference/generation/audio/modules/sound-landing/sound-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/inference/run/modules/persist-audio/persist-audio.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"}

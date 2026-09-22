@@ -245,6 +245,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/inference/generation/upscale/up/upscale-up.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/inference/generation/wan/up/wan-up.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/inference/generation/zimage/up/zimage-up.shell-script.scripting.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/bashrc/bashrc.provisioned-file.filling.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/bashrc/bashrc.provisioned-file.filling.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"}

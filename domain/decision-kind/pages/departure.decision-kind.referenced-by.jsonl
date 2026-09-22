@@ -2717,6 +2717,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/loki-service/modules/promtail-manifests/promtail-manifests.module.ts","id":"01a06816-68b1-702f-9567-6866b7d0ae7a"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/computer/computer.page-type.ts","id":"01a0658c-329a-7d00-b3f3-8abf47bf46cf"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/host/host.page-type.ts","id":"01a06590-e94f-7d6f-a415-867286e194a2"}
+{"propertySlug":"decision-kind","path":"infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.ts","id":"01a0c97f-c3e5-7a4f-a97f-73954818b58a"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/host/pages/macbook.host.ts","id":"01a06590-e94f-7756-9d6b-824b7b6c9549"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/background-slice-share/background-slice-share.provisioned-file.ts","id":"01a0930e-6612-7563-a508-b6695086c8cb"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/podman-slice-share/podman-slice-share.provisioned-file.ts","id":"01a09311-efdf-7871-b60c-af498677bdde"}

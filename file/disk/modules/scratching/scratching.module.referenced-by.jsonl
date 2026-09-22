@@ -236,6 +236,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/service/modules/deploy-subject-listing/deploy-subject-listing.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"}

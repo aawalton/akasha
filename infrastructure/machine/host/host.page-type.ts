@@ -21,6 +21,7 @@ export const host = {
     "host/node-06",
     "host/workstation",
     "module/cluster-nodes",
+    "module/hosts-entering",
     "text-property/host-address",
     "text-property/login-user",
   ],

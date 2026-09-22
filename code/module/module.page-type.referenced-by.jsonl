@@ -1840,6 +1840,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/loki-service/modules/loki-manifests/loki-manifests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/loki-service/modules/promtail-manifests/promtail-manifests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/machine/host/modules/cluster-nodes/cluster-nodes.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/modules/calls/infrastructure-calls.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/auth-proxy/modules/config/auth-proxy-config.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/auth-proxy/modules/proxy-reading/proxy-reading.module.ts"}
