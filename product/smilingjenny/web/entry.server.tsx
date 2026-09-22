@@ -4,6 +4,8 @@ import type { AppLoadContext, EntryContext } from "react-router"
 
 const STREAM_TIMEOUT = 5_000
 
+export { STREAM_TIMEOUT as streamTimeout }
+
 export default function handleRequest(
   request: Request,
   responseStatusCode: number,
