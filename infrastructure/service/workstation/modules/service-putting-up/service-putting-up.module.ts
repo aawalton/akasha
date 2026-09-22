@@ -104,6 +104,14 @@ export const servicePuttingUp = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The teller's bundle is built by this call, before any unit is written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The teller's unit names that bundle rather than the tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A teller whose command will not compose refuses the whole plan.",
     },
   ],

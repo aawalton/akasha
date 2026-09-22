@@ -1,3 +1,4 @@
+import { join } from "node:path"
 import { module } from "akasha/code/module/module.page-type.ts"
 import {
   answeredWith,
@@ -11,13 +12,17 @@ import {
   commandOf,
   pathOf,
   type Refused,
+  runOf,
 } from "akasha/infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts"
 import {
   bundledFor,
+  bundledTeller,
   LAUNCHED_FROM_BUNDLE,
   movedFrom,
   saidOfUnbuilt,
   saidOfUnmoved,
+  startedFromBundle,
+  TELLER_STEM,
 } from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
 import {
   homeAt,
@@ -48,9 +53,14 @@ export type Planned = {
 
 export function sharedUnitsIn(
   root: string,
-  codeAt: string = ""
+  codeAt: string = "",
+  bundles: ReadonlyMap<string, string> = new Map()
 ): ReadonlyMap<string, string> | Refused {
-  const said = commandOf(root, { code: TELLER, arguments: [THIS_UNIT] }, codeAt)
+  const bundle = bundles.get(TELLER_STEM)
+  const said =
+    bundle === undefined
+      ? commandOf(root, { code: TELLER, arguments: [THIS_UNIT] }, codeAt)
+      : { command: `${startedFromBundle(bundle)} ${THIS_UNIT}` }
   if ("refused" in said) return said
   const pagePath = pathOf(root, TELLER)
   if (typeof pagePath !== "string") return pagePath
@@ -64,9 +74,17 @@ export type Bundled =
 export async function bundlesBuilt(root: string, home: string, commit: string): Promise<Bundled> {
   const bundles = new Map<string, string>()
   const said: string[] = []
-  if (LAUNCHED_FROM_BUNDLE.size === 0) return { bundles, said }
   const moved = movedFrom(root, commit)
   if ("refused" in moved) return { refused: saidOfUnmoved(commit, moved.refused) }
+  const run = runOf(root, TELLER)
+  if ("refused" in run) return { refused: saidOfUnbuilt(TELLER_STEM, run.refused) }
+  const teller = await bundledTeller(root, join(root, run.path), home, commit, moved.moved)
+  if (!("built" in teller)) {
+    const why = "unnamed" in teller ? teller.unnamed : teller.refused
+    return { refused: saidOfUnbuilt(TELLER_STEM, why) }
+  }
+  bundles.set(TELLER_STEM, teller.built.at)
+  said.push(`bundled\t${TELLER_STEM}\t${teller.built.at}`)
   for (const slug of LAUNCHED_FROM_BUNDLE) {
     const made = await bundledFor(root, slug, home, commit, moved.moved)
     if (!("built" in made)) {
@@ -90,7 +108,7 @@ export function plannedEvery(
   const home = homeAt()
   if (home === null) return refusedBy([NO_HOME], OPERATIONAL)
 
-  const shared = sharedUnitsIn(root, codeAt)
+  const shared = sharedUnitsIn(root, codeAt, bundles)
   if ("refused" in shared) return refusedBy([shared.refused], DATA)
 
   const plan = planFor(read.services, ourInstalled(home), restarting, shared)

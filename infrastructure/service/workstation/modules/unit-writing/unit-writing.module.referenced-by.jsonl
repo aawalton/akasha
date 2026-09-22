@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"command/pages/infrastructure/service/run/infrastructure-service-run.command.code.ts"}
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"}
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"}
+{"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/workstation/modules/service-bundling/service-bundling.module.test.ts"}
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/workstation/modules/service-health/service-health.module.code.ts"}
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/workstation/modules/service-health/service-health.module.test.ts"}
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"}

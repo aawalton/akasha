@@ -6,6 +6,7 @@ export const serviceBundling = {
   slug: "service-bundling",
   definition: "a workstation service's running code built into one file that needs no checkout",
   code: "ts",
+  test: "ts",
   allowsTmpPaths: true,
   decisions: [
     {
@@ -14,7 +15,28 @@ export const serviceBundling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The code bundled is the `running` group beside that service's page.",
+      statement: "The code bundled is the entry handed in rather than one this finds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service's entry is the `running` group beside that service's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The teller is bundled here too, its entry being the code its own page holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The teller's stub passes on the name of the unit that failed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The teller's bundle is filed under its unit template's stem rather than under a slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bundle filed under that stem is swept by reading the template that starts it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -31,7 +53,12 @@ export const serviceBundling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The stub awaits `runService`, which the running code holds no call to itself.",
+      statement:
+        "The stub awaits the run the caller names, which that code holds no call to itself.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The stub hands that run what the caller spells, and nothing by default.",
     },
     {
       decisionKind: "decision-kind/departure",

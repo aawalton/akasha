@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { TELLER_STEM } from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
 import {
   plannedEvery,
   sharedUnitsIn,
@@ -8,12 +9,23 @@ import { TELLING_TEMPLATE } from "akasha/infrastructure/service/workstation/modu
 
 const ROOT = rootOf(import.meta.dir)
 
+const HOME = "/home/one"
+
+const BUNDLE = `${HOME}/.local/state/workstation-services/${TELLER_STEM}/${"a".repeat(40)}.js`
+
 test("the teller every unit names on failing is among the units written", () => {
   const shared = sharedUnitsIn(ROOT)
   expect("refused" in shared).toBe(false)
   if ("refused" in shared) return
   expect(shared.get(TELLING_TEMPLATE)).toContain("ExecStart=/usr/bin/env bun ")
   expect(plannedEvery(ROOT).report).toContain(`write\t${TELLING_TEMPLATE}`)
+})
+
+test("the teller's unit names the bundle this call built, and the failed unit after it", () => {
+  const shared = sharedUnitsIn(ROOT, "", new Map([[TELLER_STEM, BUNDLE]]))
+  expect("refused" in shared).toBe(false)
+  if ("refused" in shared) return
+  expect(shared.get(TELLING_TEMPLATE)).toContain(`ExecStart=/usr/bin/env bun ${BUNDLE} %i`)
 })
 
 test("the teller is enabled by nothing, no service accounting for it", () => {
