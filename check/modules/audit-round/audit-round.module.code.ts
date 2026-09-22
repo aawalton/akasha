@@ -7,6 +7,7 @@ import { sentToCluster } from "akasha/check/modules/audit-job/audit-job.module.c
 import {
   bodyFor,
   championOf,
+  narrowedTo,
   type Ran,
   refusalsNew,
   roundOver,
@@ -236,7 +237,8 @@ export async function roundTold(
   send: Sent = sending,
   to: string | null = null
 ): Promise<Turned> {
-  const checks = roundOver(checksIn(root), named).map((one) => one.slug)
+  const all = checksIn(root)
+  const checks = roundOver(all, named).map((one) => one.slug)
   const before = verdictsFor(root, checks)
   const told = await asked({ root, checks, commit, round: sentToCluster(root, commit) })
   const after = verdictsFor(root, checks)
@@ -244,7 +246,11 @@ export async function roundTold(
   const ran = answeredIn(checks, after)
   const red = turnedIn(checks, before, after)
   if (red.length === 0) return { ran, turned: [], refused }
-  const why = await telling(send, to ?? championOf(root), bodyFor(red, commit, named))
+  const why = await telling(
+    send,
+    to ?? championOf(root),
+    bodyFor(red, commit, narrowedTo(all, checks))
+  )
   return {
     ran,
     turned: red.map((one) => one.check),

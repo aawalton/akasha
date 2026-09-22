@@ -359,6 +359,14 @@ export type Serving = {
   readonly to?: string
 }
 
+export function narrowedTo(
+  every: readonly Gathered[],
+  checks: readonly string[]
+): readonly string[] {
+  const covered = new Set(checks)
+  return checksAt(every, AUDIT).every((one) => covered.has(one.slug)) ? [] : checks
+}
+
 export function roundOver(
   every: readonly Gathered[],
   checks: readonly string[]
@@ -371,7 +379,8 @@ export function roundOver(
 async function serving(given: Serving): Promise<Told> {
   const send = given.send ?? sending
   const over = await overNow(given.root)
-  const every = roundOver(checksIn(given.root), given.checks)
+  const all = checksIn(given.root)
+  const every = roundOver(all, given.checks)
   const ran: Ran[] = []
   const found: (Ran | undefined)[] = []
   let next = 0
@@ -397,7 +406,11 @@ async function serving(given: Serving): Promise<Told> {
   const turned = red.map((one) => one.check)
   if (red.length === 0) return { ran, turned, refused: [] }
   const to = given.to ?? championOf(given.root)
-  const why = await telling(send, to, bodyFor(red, over.commit, given.checks))
+  const named = narrowedTo(
+    all,
+    every.map((one) => one.slug)
+  )
+  const why = await telling(send, to, bodyFor(red, over.commit, named))
   return { ran, turned, refused: why === null ? [] : [why] }
 }
 

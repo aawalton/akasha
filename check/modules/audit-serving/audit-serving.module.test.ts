@@ -8,6 +8,7 @@ import {
   commitOf,
   judgedIn,
   keyFor,
+  narrowedTo,
   type Over,
   refusalsNew,
   roundOver,
@@ -190,6 +191,18 @@ test("a run over checks asked for by name says so rather than reading as an audi
   expect(said).not.toContain("the audit at abc")
   expect(bodyFor(red, "abc", ["typecheck", "lint-clean"])).toContain("over 2 checks asked for")
   expect(bodyFor(red, "abc")).toContain("the audit at abc found")
+})
+
+test("a round naming every check the audit phase names reads as an audit rather than as named", () => {
+  const every: readonly Gathered[] = [
+    gathered("typecheck", "/r"),
+    gathered("lint-clean", "/r"),
+    { ...gathered("new-check", "/r"), runsOn: [] },
+  ]
+  expect(narrowedTo(every, ["typecheck", "lint-clean"])).toEqual([])
+  expect(narrowedTo(every, ["typecheck", "lint-clean", "new-check"])).toEqual([])
+  expect(narrowedTo(every, ["typecheck"])).toEqual(["typecheck"])
+  expect(narrowedTo(every, [])).toEqual([])
 })
 
 test("a check nothing measured is told and counted apart from one that refused", () => {
