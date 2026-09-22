@@ -5,7 +5,7 @@ set -euo pipefail
 # file it writes FROM stands beside an app's page under the naming grammar. They
 # were one file until now — the authored one was overwritten in place with the
 # two values below, which left a tracked source file carrying build output and a
-# working tree that read as edited on every machine without a hook to put it back.
+# checkout that read as edited on every machine without a hook to put it back.
 AUTHORED="${1:-}"
 [ -n "$AUTHORED" ] || {
   echo "ERROR: name the config to write from. It stands beside the app's page as" >&2
