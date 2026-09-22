@@ -48,7 +48,7 @@ export const parseCache = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The cache sits under the git directory every worktree of a checkout shares.",
+      statement: "The cache sits under the git directory of the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
