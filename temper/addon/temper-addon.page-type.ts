@@ -165,6 +165,23 @@ export const temperAddon = {
       decisionKind: "decision-kind/departure",
       statement: "A global a binding names is spelled with the addon declaring that global.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control an addon creates while running is named with the addon creating it.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A patch over a game function is spelled as the game spells that function.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A global the game has written to a saved file keeps the spelling that file holds.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A keybind name keeps the spelling a player's bound keys are stored under.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
