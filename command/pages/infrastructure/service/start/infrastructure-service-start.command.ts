@@ -4,7 +4,7 @@ export const infrastructureServiceStart = {
   id: "01a09408-3c21-76b5-9bca-08ff2b3e3716",
   type: "page-type/command",
   slug: "infrastructure-service-start",
-  definition: "the command asking systemd to run one service's unit",
+  definition: "the command asking systemd to run a service's unit",
   code: "ts",
   test: "ts",
   name: "start",

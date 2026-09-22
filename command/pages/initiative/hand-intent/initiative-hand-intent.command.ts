@@ -4,7 +4,7 @@ export const initiativeHandIntent = {
   id: "01a08c64-750b-7bb5-b491-551e9cca63dd",
   type: "page-type/command",
   slug: "initiative-hand-intent",
-  definition: "the command handing one intent from the initiative stating it to another initiative",
+  definition: "the command handing an intent from the initiative stating it to another initiative",
   code: "ts",
   test: "ts",
 

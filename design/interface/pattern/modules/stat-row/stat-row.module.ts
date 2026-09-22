@@ -4,6 +4,6 @@ export const statRow = {
   id: "01a05c69-c065-71fd-8a53-11b53fd1a15a",
   type: "page-type/module",
   slug: "stat-row",
-  definition: "a label and its number drawn on one line",
+  definition: "a label and its number drawn on a line",
   code: "tsx",
 } as const satisfies Module

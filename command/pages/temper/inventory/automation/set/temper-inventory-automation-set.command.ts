@@ -4,7 +4,7 @@ export const temperInventoryAutomationSet = {
   id: "01a0603c-c1ce-7042-a37c-880bfd4380f9",
   type: "page-type/command",
   slug: "temper-inventory-automation-set",
-  definition: "the command setting or clearing one automation toggle",
+  definition: "the command setting or clearing an automation toggle",
   code: "ts",
   test: "ts",
   decisions: [

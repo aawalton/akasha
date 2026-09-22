@@ -5,7 +5,7 @@ export const modelAccountReEnable = {
   type: "page-type/command",
   slug: "model-account-re-enable",
   definition:
-    "the command putting one model account back in the pool its subscription shut it out of",
+    "the command putting a model account back in the pool its subscription shut it out of",
   code: "ts",
   test: "ts",
   decisions: [

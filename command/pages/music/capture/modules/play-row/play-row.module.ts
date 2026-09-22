@@ -4,7 +4,7 @@ export const playRow = {
   id: "01a063b0-cb34-7000-af1c-727892f4698a",
   type: "page-type/module",
   slug: "play-row",
-  definition: "the arithmetic turning one play of a track into the row that play is filed as",
+  definition: "the arithmetic turning a play of a track into the row that play is filed as",
   code: "ts",
   test: "ts",
   decisions: [

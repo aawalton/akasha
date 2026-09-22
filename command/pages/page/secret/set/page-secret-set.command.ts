@@ -4,7 +4,7 @@ export const pageSecretSet = {
   id: "01a06812-3ce8-74c7-be81-2023948a44d9",
   type: "page-type/command",
   slug: "page-secret-set",
-  definition: "the command enciphering one value into the sops file beside a page",
+  definition: "the command enciphering a value into the sops file beside a page",
   code: "ts",
   test: "ts",
   decisions: [

@@ -4,7 +4,7 @@ export const musicRateParts = {
   id: "01a0c59f-227b-7315-8c34-306abf9c8760",
   type: "page-type/command",
   slug: "music-rate-parts",
-  definition: "the command recording one grade onto every part of a music collection",
+  definition: "the command recording a grade onto every part of a music collection",
   code: "ts",
   test: "ts",
   maxWallSeconds: 600,

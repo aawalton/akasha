@@ -5,7 +5,7 @@ export const measureClosure = {
   type: "page-type/command",
   slug: "measure-closure",
   definition:
-    "the command saying what answering one predicate closure cost in processor time and memory",
+    "the command saying what answering a predicate closure cost in processor time and memory",
   code: "ts",
   test: "ts",
   decisions: [

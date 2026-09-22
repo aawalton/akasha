@@ -4,7 +4,7 @@ export const inferenceWanGenerate = {
   id: "01a093fa-cf48-7c82-9dc2-020adb45aa53",
   type: "page-type/command",
   slug: "inference-wan-generate",
-  definition: "the command rendering one clip conditioned on a first frame, a last frame, or both",
+  definition: "the command rendering a clip conditioned on a first frame, a last frame, or both",
   code: "ts",
   test: "ts",
   decisions: [

@@ -4,7 +4,7 @@ export const devServerRunning = {
   id: "01a09401-2596-7b81-9dc3-f483f18f9657",
   type: "page-type/module",
   slug: "dev-server-running",
-  definition: "one app's dev server spawned on a commit's tree, and ended again",
+  definition: "an app's dev server spawned on a commit's tree, and ended again",
   code: "ts",
   decisions: [
     {
