@@ -238,6 +238,12 @@ test("the scope says each run is recorded whether or not a model was reached", (
   expect(SCOPE.join("\n")).toContain("How far each run got is recorded")
 })
 
+test("the scope says the rule against stopping is not put under an interviewer", () => {
+  expect(SCOPE.join("\n")).toContain(
+    `the rule against stopping, under a seat whose role is ${interviewer.slug}`
+  )
+})
+
 test("each judge names the rule it asked and the test it came from", () => {
   for (const one of JUDGES.flatMap((judge) => judge(TURN))) {
     expect(one.statement.startsWith(`${one.about}:`)).toBe(true)
