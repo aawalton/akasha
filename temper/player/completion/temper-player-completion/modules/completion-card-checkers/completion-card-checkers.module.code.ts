@@ -4,6 +4,7 @@ import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-
 import { countCadwell } from "akasha/temper/player/completion/temper-player-completion/modules/completion-cadwell-tally/completion-cadwell-tally.module.code.ts"
 import type { CompletionCardChecker } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { countCompanionQuests } from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-quest-tally/completion-companion-quest-tally.module.code.ts"
 import { isLoreLibraryItemComplete } from "akasha/temper/player/completion/temper-player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
 import { isMountTrainingPathComplete } from "akasha/temper/player/completion/temper-player-completion/modules/completion-mount-training-completeness/completion-mount-training-completeness.module.code.ts"
 import { resolveSkillPointItemProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-skill-points-progress/completion-skill-points-progress.module.code.ts"
@@ -283,6 +284,16 @@ export const COMPLETION_CARD_CHECKERS: Partial<Record<CharacterCardId, Completio
     },
     getItemProgress(completion, itemPath) {
       return countCadwell(completion?.cadwell, itemPath)
+    },
+  },
+
+  "companion-quests": {
+    isCardComplete(completion) {
+      const counted = countCompanionQuests(completion?.quests)
+      return counted !== undefined && counted.total > 0 && counted.current >= counted.total
+    },
+    getItemProgress(completion, itemPath) {
+      return countCompanionQuests(completion?.quests, itemPath)
     },
   },
 

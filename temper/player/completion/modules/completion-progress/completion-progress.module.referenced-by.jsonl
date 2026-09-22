@@ -32,6 +32,7 @@
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-progress/completion-companion-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-progress/completion-companion-progress.module.test.ts"}
+{"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-quest-tally/completion-companion-quest-tally.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-row/completion-companion-row.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.test.ts"}

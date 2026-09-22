@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"completion-card-checker-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-tally/completion-cadwell-tally.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-card-checker-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-card-checker-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts"}
+{"propertySlug":"import","fileName":"completion-card-checker-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-quest-tally/completion-companion-quest-tally.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-card-checker-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-card-checker-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-item-picker/completion-item-picker.module.code.ts"}
 {"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}

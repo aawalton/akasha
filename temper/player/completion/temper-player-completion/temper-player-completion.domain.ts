@@ -37,6 +37,7 @@ export const temperPlayerCompletion = {
     "module/completion-character-row",
     "module/completion-collectibles-progress",
     "module/completion-companion-progress",
+    "module/completion-companion-quest-tally",
     "module/completion-companion-quest-actionability",
     "module/completion-companion-row",
     "module/completion-cumulative-cards",
