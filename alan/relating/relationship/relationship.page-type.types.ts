@@ -14,7 +14,7 @@ import type { RelationshipPhone } from "akasha/alan/relating/relationship/proper
 import type { RelationshipRole } from "akasha/alan/relating/relationship/properties/relationship-role.text-property.types.ts"
 import type { RelationshipSmsAllowed } from "akasha/alan/relating/relationship/properties/relationship-sms-allowed.boolean-property.types.ts"
 import type { RelationshipSmsHandlerTarget } from "akasha/alan/relating/relationship/properties/relationship-sms-handler-target.relation-property.types.ts"
-import type { RelationshipTopics } from "akasha/alan/relating/relationship/properties/relationship-topics.relation-property.types.ts"
+import type { RelationshipTopics } from "akasha/alan/relating/relationship/properties/relationship-topics.multi-relation-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 

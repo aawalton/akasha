@@ -20,7 +20,7 @@ export const relationship = {
     "number-property/relationship-interest",
     "phone-number-property/relationship-phone",
     "relation-property/relationship-sms-handler-target",
-    "relation-property/relationship-topics",
+    "multi-relation-property/relationship-topics",
     "select-property/relationship-current-circle",
     "text-property/relationship-account-user-id",
     "text-property/relationship-aliases",
@@ -64,7 +64,7 @@ export const relationship = {
       many: false,
     },
     {
-      pageProperty: "relation-property/relationship-topics",
+      pageProperty: "multi-relation-property/relationship-topics",
       required: false,
       many: true,
       maxCount: null,

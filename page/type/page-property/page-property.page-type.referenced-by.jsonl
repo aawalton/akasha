@@ -50,7 +50,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/relating/connection-activity/properties/connection-activity-modality.select-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/relating/relationship-topic/properties/relationship-topic-people.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/relating/relationship/properties/relationship-aliases.text-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/relating/relationship/properties/relationship-topics.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/relating/relationship/properties/relationship-topics.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/self/identity-statement/properties/identity-statement-tags.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/self/identity-statement/properties/replaced-by-statements.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/self/identity-statement/properties/replaces-statements.relation-property.types.ts"}

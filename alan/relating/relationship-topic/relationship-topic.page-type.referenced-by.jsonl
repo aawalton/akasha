@@ -74,4 +74,4 @@
 {"propertySlug":"import","fileName":"relationship-topic.page-type.types.ts","path":"alan/relating/relationship-topic/pages/whitelist-specific-expansions.relationship-topic.ts"}
 {"propertySlug":"parts","path":"alan/relating/relating.domain.ts","id":"01a0658f-90a6-7faf-883a-b68b1891fd70"}
 {"propertySlug":"target-page-type","path":"alan/relating/relationship-topic/properties/relationship-topic-parent.relation-property.ts","id":"01a0658a-170f-7c05-8369-b3621821f19c"}
-{"propertySlug":"target-page-type","path":"alan/relating/relationship/properties/relationship-topics.relation-property.ts","id":"01a06594-c6e2-763a-bd70-ce2e63227768"}
+{"propertySlug":"target-page-type","path":"alan/relating/relationship/properties/relationship-topics.multi-relation-property.ts","id":"01a06594-c6e2-763a-bd70-ce2e63227768"}
