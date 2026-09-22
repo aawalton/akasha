@@ -27,6 +27,33 @@ test("a type alias under a name the compiler declares is left out", () => {
   expect(kept).toEqual([[]])
 })
 
+test("an interface a hand-written declaration states goes whole, members and all", () => {
+  const kept = narrowed(
+    [[["interface StatusBarControl extends Control {", "  SetValue: (v?: number) => void", "}"]]],
+    {
+      byHand: new Set(["StatusBarControl"]),
+      byCompiler: NONE,
+    }
+  )
+  expect(kept).toEqual([[]])
+})
+
+test("a call a hand-written declaration states goes whole, however many lines it takes", () => {
+  const kept = narrowed([[["declare function GetString(", "  this: void", "): string"]]], {
+    byHand: new Set(["GetString"]),
+    byCompiler: NONE,
+  })
+  expect(kept).toEqual([[]])
+})
+
+test("an enum keeps its values when the alias heading it is stated by hand", () => {
+  const kept = narrowed([[["type Kind = number", "declare const ONE: number"]]], {
+    byHand: new Set(["Kind"]),
+    byCompiler: NONE,
+  })
+  expect(kept).toEqual([[["declare const ONE: number"]]])
+})
+
 test("an interface under such a name is kept, because an interface merges", () => {
   const held = [["interface AnimationTimeline {", "  Play: () => void", "}"]]
   const kept = narrowed([held], { byHand: NONE, byCompiler: new Set(["AnimationTimeline"]) })

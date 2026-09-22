@@ -37,27 +37,33 @@ function namedAs(line: string, named: Map<string, string>): string {
   return held
 }
 
+function keptLine(line: string, held: Narrowing, named: Map<string, string>): boolean {
+  const one = nameIn(line)
+  if (one === null) return true
+  if (held.byHand.has(one)) return false
+  if (!held.byCompiler.has(one)) return true
+  const alias = ALIAS.exec(line)
+  if (alias === null) return true
+  const is = alias[2]
+  if (is !== undefined) named.set(one, is)
+  return false
+}
+
+function keptIn(group: Group, held: Narrowing, named: Map<string, string>): Group {
+  const head = group[0]
+  if (head === undefined) return []
+  const one = nameIn(head)
+  if (one !== null && ALIAS.exec(head) === null && held.byHand.has(one)) return []
+  return group.filter((line) => keptLine(line, held, named))
+}
+
 export function narrowed(
   kinds: readonly (readonly Group[])[],
   held: Narrowing
 ): readonly (readonly Group[])[] {
   const named = new Map<string, string>()
   const kept = kinds.map((groups) =>
-    groups
-      .map((group) =>
-        group.filter((line) => {
-          const one = nameIn(line)
-          if (one === null) return true
-          if (held.byHand.has(one)) return false
-          if (!held.byCompiler.has(one)) return true
-          const alias = ALIAS.exec(line)
-          if (alias === null) return true
-          const is = alias[2]
-          if (is !== undefined) named.set(one, is)
-          return false
-        })
-      )
-      .filter((group) => group.length > 0)
+    groups.map((group) => keptIn(group, held, named)).filter((group) => group.length > 0)
   )
   if (named.size === 0) return kept
   return kept.map((groups) => groups.map((group) => group.map((line) => namedAs(line, named))))
