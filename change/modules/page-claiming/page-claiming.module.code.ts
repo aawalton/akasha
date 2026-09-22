@@ -29,6 +29,12 @@ function endedBeside(world: World, at: string, value: Value): readonly string[] 
     .filter((one) => dirname(one) === folder && endings.has(endingOf(one) ?? ""))
 }
 
+function holdsFile(world: World, path: string): boolean {
+  if (world.under(path).length > 0) return true
+  const tracked = world.tracked?.(path) ?? null
+  return tracked !== null && tracked.length > 0
+}
+
 export function foldersClaimedIn(world: World, at: string, value: Value): readonly string[] {
   const carried = world.index.folderPropertiesAt().get(typeIn(value) ?? "")
   if (carried === undefined) return []
@@ -39,7 +45,7 @@ export function foldersClaimedIn(world: World, at: string, value: Value): readon
     const folderName = carried.get(dashEachCapital(key))
     if (folderName === undefined) continue
     const path = join(folder, folderName)
-    if (world.under(path).length > 0) found.push(path)
+    if (holdsFile(world, path)) found.push(path)
   }
   return [...new Set(found)].sort()
 }
