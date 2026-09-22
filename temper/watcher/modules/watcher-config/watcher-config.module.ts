@@ -36,5 +36,10 @@ export const watcherConfig = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here makes a directory.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The catalog kind and the data-mining kind are read from the one file the catalog add-on writes.",
+    },
   ],
 } as const satisfies Module

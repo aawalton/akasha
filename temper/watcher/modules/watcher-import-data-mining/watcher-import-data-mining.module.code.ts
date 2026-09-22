@@ -2,10 +2,10 @@ import {
   extractMinedItemRows,
   extractMinedQuestRows,
   isFullyRead,
+  MINED_SIBLINGS,
   type MinedExtract,
   type MinedExtractDiagnostics,
   readMinedAccountWide,
-  TEMPER_DATA_MINING_SIBLINGS,
 } from "akasha/temper/capture/datamining/reader/modules/mined-data-parse/mined-data-parse.module.code.ts"
 import {
   detectIndent,
@@ -155,12 +155,12 @@ function decideBlockClearing(
 }
 
 function emptiedBlock(lines: readonly string[], key: MinedBlockKey): readonly string[] {
-  const indent = detectIndent(lines, key, TEMPER_DATA_MINING_SIBLINGS)
+  const indent = detectIndent(lines, key, MINED_SIBLINGS)
   return replaceOrInsertLuaBlock(
     lines,
     key,
     [`${indent}["${key}"] =`, `${indent}{},`],
-    TEMPER_DATA_MINING_SIBLINGS
+    MINED_SIBLINGS
   )
 }
 

@@ -48,9 +48,12 @@ test("every kind of file the watcher knows names the file that kind is read from
   }
 })
 
-test("no two kinds are read from the same file", () => {
-  const paths = FILE_TYPES.map((kind) => sourcePathFor(kind, CONFIG))
-  expect(new Set(paths).size).toBe(FILE_TYPES.length)
+test("the catalog kind and the data-mining kind are read from the one file the catalog add-on writes", () => {
+  expect(sourcePathFor("data-mining", CONFIG)).toBe(sourcePathFor("catalog", CONFIG))
+  const others = FILE_TYPES.filter((kind) => kind !== "data-mining").map((kind) =>
+    sourcePathFor(kind, CONFIG)
+  )
+  expect(new Set(others).size).toBe(others.length)
 })
 
 test("each kind is read from the file its name says", () => {
@@ -67,7 +70,7 @@ test("a saved-variables file is named for the addon that writes it", () => {
   expect(CONFIG.temperCharactersPath).toBe("/game/SavedVariables/TemperCharacters.lua")
   expect(CONFIG.temperCompanionsPath).toBe("/game/SavedVariables/TemperCompanions.lua")
   expect(CONFIG.temperCatalogPath).toBe("/game/SavedVariables/TemperCatalog.lua")
-  expect(CONFIG.dataMiningPath).toBe("/game/SavedVariables/TemperDataMining.lua")
+  expect(CONFIG.dataMiningPath).toBe("/game/SavedVariables/TemperCatalog.lua")
   expect(CONFIG.inventoryPath).toBe("/game/SavedVariables/TemperInventory.lua")
   expect(CONFIG.temperErrorsPath).toBe("/game/SavedVariables/TemperErrors.lua")
   expect(CONFIG.temperSalesPath).toBe("/game/SavedVariables/TemperSales.lua")

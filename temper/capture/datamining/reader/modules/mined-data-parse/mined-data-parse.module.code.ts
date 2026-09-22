@@ -13,7 +13,7 @@ import type { z } from "zod"
 
 const SAVED_VARIABLES_NAME = "TemperDataMining_SavedVariables"
 
-export const TEMPER_DATA_MINING_SIBLINGS = ["version", "nextItemId"] as const
+export const MINED_SIBLINGS = ["version", "nextItemId"] as const
 
 export type MinedItemRow = Omit<MinedItemEntry, "requiredCP"> & {
   itemId: number
@@ -101,11 +101,11 @@ export function readMinedAccountWide(content: string): Record<string, unknown> {
   const root = parseLuaSavedVariablesFile(content, SAVED_VARIABLES_NAME)
   const defaultTable = asRecord(root.Default)
   if (!defaultTable) {
-    throw new Error("Missing Default table in TemperDataMining saved variables")
+    throw new Error(`Missing Default table in ${SAVED_VARIABLES_NAME}`)
   }
   const accountWide = readFirstAccountWide(defaultTable)
   if (!accountWide) {
-    throw new Error("Could not find $AccountWide in TemperDataMining saved variables")
+    throw new Error(`Could not find $AccountWide in ${SAVED_VARIABLES_NAME}`)
   }
   return accountWide
 }
