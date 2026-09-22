@@ -34,10 +34,6 @@ export const change = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Audit is a change in which every file is unchanged.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A change may name files carried into the run beside the files it is judged over.",
     },
   ],
