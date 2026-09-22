@@ -6,10 +6,4 @@ export const emberTemperFileStructure = {
   slug: "ember-temper-file-structure",
   domain: "domain/temper",
   persona: "persona/ember",
-  intentStack: [
-    {
-      statement:
-        "No global addon declaration starts with Lib, and every one is scoped to the addon declaring it.",
-    },
-  ],
 } as const satisfies Initiative
