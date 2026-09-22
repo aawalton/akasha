@@ -32,7 +32,7 @@
     "MasterMerchant"
   ],
   "xmlFiles": {
-    "beforeBundle": ["XML/TemperScrollableMenu.xml", "ShifterBox/ShifterBoxTemplate.xml"],
+    "beforeBundle": ["XML/TemperScrollableMenu.xml", "XML/TemperShifterBox.xml"],
     "afterBundle": ["NextBoss.xml", "XML/TweakVirtuals.xml"]
   },
   "assets": [
