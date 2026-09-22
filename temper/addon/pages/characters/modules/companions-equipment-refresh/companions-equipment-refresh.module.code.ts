@@ -1,0 +1,271 @@
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
+import { TEXT_TERTIARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
+import {
+  ARMOR_SLOTS,
+  type CompanionBuildData,
+  JEWELRY_SLOTS,
+  WEAPON_SLOTS,
+} from "akasha/temper/addon/pages/characters/modules/companions-codec/companions-codec.module.code.ts"
+import { decodeCompanionBuild } from "akasha/temper/addon/pages/characters/modules/companions-decoder/companions-decoder.module.code.ts"
+import { SLOT_NAMES } from "akasha/temper/addon/pages/characters/modules/companions-display-names/companions-display-names.module.code.ts"
+import {
+  formatArmorSlot,
+  formatJewelrySlot,
+  formatWeaponSlot,
+  getQualityColorForSlot,
+} from "akasha/temper/addon/pages/characters/modules/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"
+import {
+  equipState,
+  hideOptimalColumn,
+  hideUpgradeIndicators,
+  refreshUpgradeIndicators,
+} from "akasha/temper/addon/pages/characters/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts"
+import { TWO_HANDED_TYPES } from "akasha/temper/addon/pages/characters/modules/companions-equipment-rows/companions-equipment-rows.module.code.ts"
+import {
+  formatArmorFromIndices,
+  formatJewelryFromIndices,
+  formatWeaponFromIndices,
+  getQualityColorFromIndex,
+  isWeaponIndexTwoHanded,
+} from "akasha/temper/addon/pages/characters/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
+import type { SavedCompanionBuild } from "akasha/temper/addon/pages/characters/modules/companions-saved-variables/companions-saved-variables.module.code.ts"
+import {
+  getCleanCompanionName,
+  getSavedCompanionBuild,
+  getSelectedCompanionId,
+  isSelectedCompanionActive,
+} from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
+import { getTargetBuildHash } from "akasha/temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+
+function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): undefined {
+  if (!equipState) return
+
+  for (let i = 0; i < equipState.armorRows.length; i++) {
+    const row = requireAt(equipState.armorRows, i, "armorRows")
+    const slot = decoded.armor[i]
+    if (slot !== undefined) {
+      row.optimalLabel.SetText(
+        formatArmorFromIndices(slot.isEmpty, slot.weightIndex, slot.traitIndex)
+      )
+      const [r, g, b] = getQualityColorFromIndex(slot.qualityIndex)
+      row.optimalLabel.SetColor(r, g, b, 1)
+    } else {
+      row.optimalLabel.SetText("Empty")
+      row.optimalLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+    }
+    row.optimalLabel.SetHidden(false)
+  }
+
+  for (let i = 0; i < equipState.jewelryRows.length; i++) {
+    const row = requireAt(equipState.jewelryRows, i, "jewelryRows")
+    const slot = decoded.jewelry[i]
+    if (slot !== undefined) {
+      row.optimalLabel.SetText(formatJewelryFromIndices(slot.isEmpty, slot.traitIndex))
+      const [r, g, b] = getQualityColorFromIndex(slot.qualityIndex)
+      row.optimalLabel.SetColor(r, g, b, 1)
+    } else {
+      row.optimalLabel.SetText("Empty")
+      row.optimalLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+    }
+    row.optimalLabel.SetHidden(false)
+  }
+
+  const mainWeapon = decoded.weapons[0]
+  const isTwoHanded = mainWeapon !== undefined && isWeaponIndexTwoHanded(mainWeapon.typeIndex)
+
+  for (let i = 0; i < equipState.weaponRows.length; i++) {
+    const row = requireAt(equipState.weaponRows, i, "weaponRows")
+    const slot = decoded.weapons[i]
+    const isOffHand = i === 1
+    const hidden = isOffHand && isTwoHanded
+
+    if (hidden) {
+      row.optimalLabel.SetHidden(true)
+    } else if (slot !== undefined) {
+      row.optimalLabel.SetText(
+        formatWeaponFromIndices(slot.isEmpty, slot.typeIndex, slot.traitIndex)
+      )
+      const [r, g, b] = getQualityColorFromIndex(slot.qualityIndex)
+      row.optimalLabel.SetColor(r, g, b, 1)
+      row.optimalLabel.SetHidden(false)
+    } else {
+      row.optimalLabel.SetText("Empty")
+      row.optimalLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+      row.optimalLabel.SetHidden(false)
+    }
+  }
+}
+
+function refreshEquipmentFromLive(): undefined {
+  if (!equipState) return
+
+  for (let i = 0; i < ARMOR_SLOTS.length; i++) {
+    const slot = requireAt(ARMOR_SLOTS, i, "ARMOR_SLOTS")
+    const row = requireAt(equipState.armorRows, i, "armorRows")
+    row.slotLabel.SetText(SLOT_NAMES[slot] ?? "Unknown")
+    row.valueLabel.SetText(formatArmorSlot(slot))
+    const [r, g, b] = getQualityColorForSlot(slot)
+    row.valueLabel.SetColor(r, g, b, 1)
+    row.slotLabel.SetHidden(false)
+    row.valueLabel.SetHidden(false)
+  }
+
+  for (let i = 0; i < JEWELRY_SLOTS.length; i++) {
+    const slot = requireAt(JEWELRY_SLOTS, i, "JEWELRY_SLOTS")
+    const row = requireAt(equipState.jewelryRows, i, "jewelryRows")
+    row.slotLabel.SetText(SLOT_NAMES[slot] ?? "Unknown")
+    row.valueLabel.SetText(formatJewelrySlot(slot))
+    const [r, g, b] = getQualityColorForSlot(slot)
+    row.valueLabel.SetColor(r, g, b, 1)
+    row.slotLabel.SetHidden(false)
+    row.valueLabel.SetHidden(false)
+  }
+
+  const mainHandType = GetItemWeaponType(BAG_COMPANION_WORN, EQUIP_SLOT_MAIN_HAND)
+  const isTwoHanded = TWO_HANDED_TYPES[mainHandType] === true
+
+  for (let i = 0; i < WEAPON_SLOTS.length; i++) {
+    const slot = requireAt(WEAPON_SLOTS, i, "WEAPON_SLOTS")
+    const row = requireAt(equipState.weaponRows, i, "weaponRows")
+    const isOffHand = slot === EQUIP_SLOT_OFF_HAND
+    const hidden = isOffHand && isTwoHanded
+
+    row.slotLabel.SetHidden(hidden)
+    row.valueLabel.SetHidden(hidden)
+
+    row.slotLabel.SetText(SLOT_NAMES[slot] ?? "Unknown")
+    row.valueLabel.SetText(formatWeaponSlot(slot))
+    const [r, g, b] = getQualityColorForSlot(slot)
+    row.valueLabel.SetColor(r, g, b, 1)
+  }
+}
+
+function refreshEquipmentFromSaved(saved: SavedCompanionBuild): undefined {
+  if (!equipState) return
+
+  for (let i = 0; i < ARMOR_SLOTS.length; i++) {
+    const slot = requireAt(ARMOR_SLOTS, i, "ARMOR_SLOTS")
+    const row = requireAt(equipState.armorRows, i, "armorRows")
+    const savedSlot = saved.armor[i]
+    row.slotLabel.SetText(SLOT_NAMES[slot] ?? "Unknown")
+    row.slotLabel.SetHidden(false)
+    row.valueLabel.SetHidden(false)
+    if (savedSlot !== undefined) {
+      row.valueLabel.SetText(savedSlot.displayText)
+      const [r, g, b] = savedSlot.qualityColor
+      row.valueLabel.SetColor(r, g, b, 1)
+    } else {
+      row.valueLabel.SetText("Empty")
+      row.valueLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+    }
+  }
+
+  for (let i = 0; i < JEWELRY_SLOTS.length; i++) {
+    const slot = requireAt(JEWELRY_SLOTS, i, "JEWELRY_SLOTS")
+    const row = requireAt(equipState.jewelryRows, i, "jewelryRows")
+    const savedSlot = saved.jewelry[i]
+    row.slotLabel.SetText(SLOT_NAMES[slot] ?? "Unknown")
+    row.slotLabel.SetHidden(false)
+    row.valueLabel.SetHidden(false)
+    if (savedSlot !== undefined) {
+      row.valueLabel.SetText(savedSlot.displayText)
+      const [r, g, b] = savedSlot.qualityColor
+      row.valueLabel.SetColor(r, g, b, 1)
+    } else {
+      row.valueLabel.SetText("Empty")
+      row.valueLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+    }
+  }
+
+  const isTwoHanded = TWO_HANDED_TYPES[saved.mainHandWeaponType] === true
+
+  for (let i = 0; i < WEAPON_SLOTS.length; i++) {
+    const slot = requireAt(WEAPON_SLOTS, i, "WEAPON_SLOTS")
+    const row = requireAt(equipState.weaponRows, i, "weaponRows")
+    const savedSlot = saved.weapons[i]
+    const isOffHand = slot === EQUIP_SLOT_OFF_HAND
+    const hidden = isOffHand && isTwoHanded
+
+    row.slotLabel.SetHidden(hidden)
+    row.valueLabel.SetHidden(hidden)
+
+    row.slotLabel.SetText(SLOT_NAMES[slot] ?? "Unknown")
+    if (savedSlot !== undefined) {
+      row.valueLabel.SetText(savedSlot.displayText)
+      const [r, g, b] = savedSlot.qualityColor
+      row.valueLabel.SetColor(r, g, b, 1)
+    } else {
+      row.valueLabel.SetText("Empty")
+      row.valueLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+    }
+  }
+}
+
+export function refreshCompanionEquipmentPanel(): undefined {
+  if (!equipState) return
+
+  const selectedCompanionId = getSelectedCompanionId()
+
+  if (selectedCompanionId === undefined) {
+    equipState.noCompanionLabel.SetText("Select a companion from the dropdown")
+    equipState.noCompanionLabel.SetHidden(false)
+    equipState.dataContainer.SetHidden(true)
+    return
+  }
+
+  if (isSelectedCompanionActive()) {
+    equipState.noCompanionLabel.SetHidden(true)
+    equipState.dataContainer.SetHidden(false)
+    refreshEquipmentFromLive()
+    refreshOptimalEquipmentColumn(selectedCompanionId)
+    refreshUpgradeIndicators(selectedCompanionId)
+    return
+  }
+
+  const saved = getSavedCompanionBuild(selectedCompanionId)
+  if (saved) {
+    equipState.noCompanionLabel.SetHidden(true)
+    equipState.dataContainer.SetHidden(false)
+    refreshEquipmentFromSaved(saved)
+    refreshOptimalEquipmentColumn(selectedCompanionId)
+    hideUpgradeIndicators()
+    return
+  }
+
+  const companionName = getCleanCompanionName(selectedCompanionId)
+  equipState.noCompanionLabel.SetText(`Summon ${companionName} to capture their build`)
+  equipState.noCompanionLabel.SetHidden(false)
+  equipState.dataContainer.SetHidden(true)
+  hideUpgradeIndicators()
+}
+
+function refreshOptimalEquipmentColumn(companionId: number): undefined {
+  const hash = getTargetBuildHash(companionId)
+  if (hash === undefined) {
+    hideOptimalColumn()
+    return
+  }
+
+  const decoded = decodeCompanionBuild(hash)
+  if (decoded === undefined) {
+    hideOptimalColumn()
+    return
+  }
+
+  refreshEquipmentOptimalColumn(decoded)
+}

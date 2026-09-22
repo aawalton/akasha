@@ -1,0 +1,8 @@
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import { getSavedVariables } from "akasha/temper/addon/pages/characters/modules/companions-saved-variables/companions-saved-variables.module.code.ts"
+export function getTargetBuildHash(companionId: number): string | undefined {
+  const savedVars = getSavedVariables()
+  const hash = savedVars.companions[companionId]?.targetBuildHash
+  if (hash === undefined || hash === "") return undefined
+  return hash
+}

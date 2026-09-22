@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/antiquities/modules/antiquities-addon-entry/antiquities-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/characters/modules/characters-entry/characters-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/collections/modules/collections-addon-entry/collections-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/companions/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/crafting/modules/crafting-entry/crafting-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/events/modules/events-addon-entry/events-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/housing/modules/housing-entry/housing-entry.module.code.ts"}

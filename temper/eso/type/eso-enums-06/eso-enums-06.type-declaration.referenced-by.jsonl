@@ -6,11 +6,11 @@
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-legacy-event-format/sales-history-legacy-event-format.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-server-request-manager/sales-history-server-request-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-window/sales-history-status-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-init/companion-qol-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-interaction-handlers/companion-qol-interaction-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-interaction-state/companion-qol-interaction-state.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-resources/combat-lib-resources.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-init/companion-qol-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-interaction-handlers/companion-qol-interaction-handlers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-interaction-state/companion-qol-interaction-state.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/price-dispatch/price-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-guild-history/fco-guild-history.module.code.ts"}

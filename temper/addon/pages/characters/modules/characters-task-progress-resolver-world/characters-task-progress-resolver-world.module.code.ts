@@ -1,5 +1,5 @@
 import { tallyPathScopedLeaves } from "akasha/temper/addon/pages/characters/modules/characters-progress-tally/characters-progress-tally.module.code.ts"
-import { ALL_COMPANION_IDS } from "akasha/temper/addon/pages/companions/modules/companions-id-map/companions-id-map.module.code.ts"
+import { ALL_COMPANION_IDS } from "akasha/temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { COMPANION_QUEST_DATA } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import {

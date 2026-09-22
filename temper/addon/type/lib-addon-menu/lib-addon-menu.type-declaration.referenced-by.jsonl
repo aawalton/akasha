@@ -1,12 +1,12 @@
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-settings/sales-history-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-constants/companion-qol-constants.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-init/companion-qol-init.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/journal-core/journal-core.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/journal-tabs/journal-tabs.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu-tail/combat-menu-tail.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu/combat-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-constants/companion-qol-constants.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-init/companion-qol-init.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-header/lib-sets-core-header.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-set-lam/craft-set-lam.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-xml-handlers/craft-xml-handlers.module.code.ts"}

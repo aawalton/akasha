@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/addon/pages/catalog/catalog-config-file/catalog-config-file.lua-module.ts"}
 {"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/addon/pages/characters/characters-config-global/characters-config-global.lua-module.ts"}
-{"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/addon/pages/companions/companions-config/companions-config.lua-module.ts"}
+{"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/addon/pages/characters/companions-config/companions-config.lua-module.ts"}
 {"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/addon/pages/items/inventory-config-file/inventory-config-file.lua-module.ts"}
 {"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/eso/lua-runner/eso-sandbox-prelude/eso-sandbox-prelude.lua-module.ts"}
 {"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/eso/lua-runner/lua-driver/lua-driver.lua-module.ts"}

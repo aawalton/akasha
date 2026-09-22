@@ -1,12 +1,12 @@
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-events-build/characters-events-build.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-init/companion-qol-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-interaction-handlers/companion-qol-interaction-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-events/combat-action-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-events/combat-lib-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-groups-combat/combat-lib-groups-combat.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-groups-stats/combat-lib-groups-stats.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-groups-tracking/combat-lib-groups-tracking.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-init/companion-qol-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-interaction-handlers/companion-qol-interaction-handlers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-player-state/craft-player-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-events-handlers-station/crafting-events-handlers-station.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-events/potion-events.module.code.ts"}

@@ -1,9 +1,9 @@
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-startup/sales-history-startup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-events/companions-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-overview-rapport/companions-overview-rapport.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-core-events/combat-core-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-report/combat-ui-chat-report.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-entry/companions-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-events/companions-events.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-overview-rapport/companions-overview-rapport.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-events-handlers/crafting-events-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-helpers/crafting-helpers.module.code.ts"}

@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"perf-trace.module.code.ts","path":"temper/addon/pages/characters/modules/characters-entry/characters-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"perf-trace.module.code.ts","path":"temper/addon/pages/companions/modules/companions-entry/companions-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"perf-trace.module.code.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"perf-trace.module.code.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"perf-trace.module.code.ts","path":"temper/addon/pages/trading/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"perf-trace.module.code.ts","path":"temper/capture/writer/modules/capture-writer/capture-writer.module.code.ts"}

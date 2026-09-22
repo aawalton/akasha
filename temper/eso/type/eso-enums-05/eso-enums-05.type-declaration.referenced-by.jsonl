@@ -1,3 +1,6 @@
+{"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-core/companion-qol-core.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-init/companion-qol-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-effect-changes/combat-action-effect-changes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-events/combat-action-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-analysis/combat-analysis.module.code.ts"}
@@ -37,9 +40,6 @@
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-penetration/combat-ui-stats-penetration.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-core/companion-qol-core.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-init/companion-qol-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-tweaks-refresh-pins/minimap-tweaks-refresh-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}

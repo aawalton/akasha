@@ -413,14 +413,14 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-progress-tally/characters-progress-tally.module.ts","id":"01a062ee-eff1-7066-8ae2-e9910475597e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-card-match/characters-task-card-match.module.ts","id":"01a062ee-efdd-7065-b808-78f99e6b809a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.ts","id":"01a062ee-f0bd-7071-8b01-5c61376d23f5"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-codec-constants/companions-codec-constants.module.ts","id":"01a0611d-84d0-7633-b29f-14f7be7fd63b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.ts","id":"01a0611d-84dd-7991-bda4-54827db48eac"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-skill-map/companions-skill-map.module.ts","id":"01a0611d-84e2-7459-a5ca-157255030bb6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-functions/table-functions.module.ts","id":"01a06052-2ca4-7874-a41d-3892986d9cdd"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-charset/data-encode-charset.module.ts","id":"01a06061-969f-7a3f-8f90-cd7a3e2551ba"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-decoder/data-encode-decoder.module.ts","id":"01a06061-969f-7339-89aa-da319bf80d6b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-encoder/data-encode-encoder.module.ts","id":"01a06061-969e-7a22-9872-bfd327e2b7c1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companions-codec-constants/companions-codec-constants.module.ts","id":"01a0611d-84d0-7633-b29f-14f7be7fd63b"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companions-id-map/companions-id-map.module.ts","id":"01a0611d-84dd-7991-bda4-54827db48eac"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companions-skill-map/companions-skill-map.module.ts","id":"01a0611d-84e2-7459-a5ca-157255030bb6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/temper-addon-companions.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-auto-autocompletion/lib-sets-auto-autocompletion.module.ts","id":"01a0623c-2df7-7942-a655-e30b89d4db2b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-copy-dialog/lib-sets-copy-dialog.module.ts","id":"01a0623c-2df8-7c0d-ae66-7d2de026a998"}

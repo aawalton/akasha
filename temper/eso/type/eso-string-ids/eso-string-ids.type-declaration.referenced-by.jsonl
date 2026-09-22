@@ -1,4 +1,9 @@
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-dialogs/sales-history-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-init/companion-qol-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-ui-strings/companion-qol-ui-strings.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-events/companions-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-overview-rapport/companions-overview-rapport.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-slots/combat-action-slots.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-constants/combat-lib-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-death/combat-lib-death.module.code.ts"}
@@ -11,11 +16,6 @@
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-right/combat-ui-info-right.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-init/companion-qol-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-ui-strings/companion-qol-ui-strings.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-entry/companions-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-events/companions-events.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-overview-rapport/companions-overview-rapport.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-drop-name-names-en/lib-sets-drop-name-names-en.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-drop-name-names-fr/lib-sets-drop-name-names-fr.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-kbf-drop-filters/lib-sets-kbf-drop-filters.module.code.ts"}
