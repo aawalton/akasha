@@ -12,6 +12,7 @@ export const messaging = {
     "module/message-file",
     "module/message-file-watch",
     "module/message-naming",
+    "module/message-sending",
     "module/messages-agent-id",
     "module/messages-agent-tools",
     "module/messages-console-stdout-guard",

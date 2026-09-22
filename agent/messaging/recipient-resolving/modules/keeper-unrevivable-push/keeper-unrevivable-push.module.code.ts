@@ -1,4 +1,4 @@
-import { writeMessage } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
+import { writeMessage } from "akasha/agent/messaging/modules/message-sending/message-sending.module.code.ts"
 import {
   ALAN_PERSON,
   notify,

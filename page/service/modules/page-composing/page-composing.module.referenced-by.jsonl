@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"agent/messaging/modules/message-file/message-file.module.code.ts"}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"agent/messaging/modules/message-sending/message-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"agent/seat/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"}

@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { writeMessage } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
+import { writeMessage } from "akasha/agent/messaging/modules/message-sending/message-sending.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { domainsDrawn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import {

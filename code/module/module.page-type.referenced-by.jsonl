@@ -60,6 +60,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/messaging/modules/message-file-watch/message-file-watch.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/messaging/modules/message-file/message-file.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/messaging/modules/message-naming/message-naming.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/messaging/modules/message-sending/message-sending.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/messaging/modules/messages-agent-id/messages-agent-id.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/messaging/modules/messages-agent-tools/messages-agent-tools.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/messaging/modules/messages-console-stdout-guard/messages-console-stdout-guard.module.ts"}

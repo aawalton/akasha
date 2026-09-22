@@ -1,20 +1,15 @@
-import { afterEach, expect, test } from "bun:test"
+import { expect, test } from "bun:test"
 import {
   recipientRefused,
   type Sending,
   writeMessage,
-} from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
+} from "akasha/agent/messaging/modules/message-sending/message-sending.module.code.ts"
 import { akashaSeatsThatExist } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { IN_CLUSTER } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const TO = [...akashaSeatsThatExist().values()].sort()[0] ?? ""
 
-const FROM = "message-file-test"
-
-afterEach(() => {
-  delete process.env[IN_CLUSTER]
-})
+const FROM = "message-sending-test"
 
 function catching(): { readonly sending: Sending; readonly sent: Writing[] } {
   const sent: Writing[] = []
@@ -30,7 +25,7 @@ function catching(): { readonly sending: Sending; readonly sent: Writing[] } {
 const refusing: Sending = () => Promise.resolve({ refused: "the pages would not take it" })
 
 const never: Sending = () => {
-  throw new Error("a message on the workstation was sent to the pages service")
+  throw new Error("a message addressed to nobody was sent")
 }
 
 test("a message addressed to nobody is refused before anything is composed", async () => {
@@ -39,8 +34,7 @@ test("a message addressed to nobody is refused before anything is composed", asy
   expect(said.kind).toBe("refused")
 })
 
-test("a message a run in the cluster writes is sent to the pages service", async () => {
-  process.env[IN_CLUSTER] = "1"
+test("a message is sent to the pages service wherever the sender runs", async () => {
   const held = catching()
   const said = await writeMessage(
     { to: TO, from: FROM, warrant: "announce", body: "a check turned." },
@@ -56,7 +50,6 @@ test("a message a run in the cluster writes is sent to the pages service", async
 })
 
 test("a message the pages refused is refused with what the pages said", async () => {
-  process.env[IN_CLUSTER] = "1"
   const said = await writeMessage(
     { to: TO, from: FROM, warrant: "announce", body: "a check turned." },
     refusing
@@ -66,7 +59,6 @@ test("a message the pages refused is refused with what the pages said", async ()
 })
 
 test("the message named in the answer is the page that was sent", async () => {
-  process.env[IN_CLUSTER] = "1"
   const held = catching()
   const said = await writeMessage(
     { to: TO, from: FROM, warrant: "announce", body: "a check turned." },

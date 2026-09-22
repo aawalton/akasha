@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"message-naming.module.code.ts","path":"agent/messaging/modules/message-file/message-file.module.code.ts"}
+{"propertySlug":"import","fileName":"message-naming.module.code.ts","path":"agent/messaging/modules/message-sending/message-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"message-naming.module.code.ts","path":"alan/web/.server/picture-answering/picture-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"message-naming.module.code.ts","path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.code.ts"}
 {"propertySlug":"import","fileName":"message-naming.module.code.ts","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts"}

@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/hook/modules/links/hook-links.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/messaging/modules/message-file-watch/message-file-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/messaging/modules/message-file/message-file.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/messaging/modules/message-sending/message-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/messaging/notice/modules/compose-notices/compose-notices.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/messaging/recipient-resolving/modules/person-handlers/person-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/messaging/recipient-resolving/modules/recipient-resolver-deps/recipient-resolver-deps.module.code.ts"}

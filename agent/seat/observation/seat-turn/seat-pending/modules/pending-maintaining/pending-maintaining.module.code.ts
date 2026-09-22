@@ -1,6 +1,6 @@
 import { watch } from "node:fs"
 import { dirname, join } from "node:path"
-import { messagesDirRelPath } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
+import { messagesDirRelPath } from "akasha/agent/messaging/modules/message-sending/message-sending.module.code.ts"
 import { setPending } from "akasha/agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"
 import {
   pendingFromFiles,

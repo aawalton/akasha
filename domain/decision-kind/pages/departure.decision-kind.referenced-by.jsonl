@@ -48,6 +48,7 @@
 {"propertySlug":"decision-kind","path":"agent/messaging/modules/channel-delivery/channel-delivery.module.ts","id":"01a0657e-795c-7001-943b-4973f01721fa"}
 {"propertySlug":"decision-kind","path":"agent/messaging/modules/message-file/message-file.module.ts","id":"01a06a00-69c9-7000-9e16-a5778d6ad576"}
 {"propertySlug":"decision-kind","path":"agent/messaging/modules/message-naming/message-naming.module.ts","id":"01a090ec-d6a6-7000-9e51-19347ddb64ce"}
+{"propertySlug":"decision-kind","path":"agent/messaging/modules/message-sending/message-sending.module.ts","id":"01a0c9b0-1b46-73d4-af37-b0116218a5cf"}
 {"propertySlug":"decision-kind","path":"agent/messaging/modules/messages-agent-id/messages-agent-id.module.ts","id":"01a0686c-f06b-700f-b509-474c22d7c815"}
 {"propertySlug":"decision-kind","path":"agent/messaging/modules/messages-console-stdout-guard/messages-console-stdout-guard.module.ts","id":"01a0686c-f06b-7010-8514-3620ed64900f"}
 {"propertySlug":"decision-kind","path":"agent/messaging/modules/messages-delivery-witness/messages-delivery-witness.module.ts","id":"01a0686c-f06b-7011-b06e-16258f8aa85f"}

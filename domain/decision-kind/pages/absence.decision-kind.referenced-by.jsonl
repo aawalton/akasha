@@ -29,6 +29,7 @@
 {"propertySlug":"decision-kind","path":"agent/hook/test-fixtures/judging/hook-judging.test-fixture.ts","id":"01a04f83-5df2-71b1-a666-6309398763b8"}
 {"propertySlug":"decision-kind","path":"agent/hook/test-fixtures/payload/hook-payload.test-fixture.ts","id":"01a04f4d-f0ea-791d-8bb4-ce41b59e46b1"}
 {"propertySlug":"decision-kind","path":"agent/messaging/modules/message-file/message-file.module.ts","id":"01a06a00-69c9-7000-9e16-a5778d6ad576"}
+{"propertySlug":"decision-kind","path":"agent/messaging/modules/message-sending/message-sending.module.ts","id":"01a0c9b0-1b46-73d4-af37-b0116218a5cf"}
 {"propertySlug":"decision-kind","path":"agent/messaging/recipient-resolving/modules/person-handlers/person-handlers.module.ts","id":"01a0691b-4f64-73b2-8015-87e24cab720b"}
 {"propertySlug":"decision-kind","path":"agent/messaging/recipient-resolving/modules/seat-identity/seat-identity.module.ts","id":"01a0691b-4f64-74ee-829a-1886f2b0a5e5"}
 {"propertySlug":"decision-kind","path":"agent/messaging/recipient-resolving/modules/wake-comms-input/wake-comms-input.module.ts","id":"01a0691b-4f64-7b71-ba64-5c92023f77fe"}

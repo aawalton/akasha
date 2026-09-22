@@ -1,10 +1,12 @@
 import { mkdirSync, watch } from "node:fs"
 import {
   type Message,
-  messageDirRelPath,
-  recipientRefused,
   unclaimedTo,
 } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
+import {
+  messageDirRelPath,
+  recipientRefused,
+} from "akasha/agent/messaging/modules/message-sending/message-sending.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 

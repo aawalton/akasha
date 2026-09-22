@@ -4,9 +4,8 @@ export const messageFile = {
   id: "01a06a00-69c9-7000-9e16-a5778d6ad576",
   type: "page-type/module",
   slug: "message-file",
-  definition: "a message on disk: written as a page, read from both stores, and taken once read",
+  definition: "a message read off disk, claimed while it is answered, and taken once it is read",
   code: "ts",
-  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -14,57 +13,7 @@ export const messageFile = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A message page's name opens with no digit.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A message is written to the page store alone.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A message a run in the cluster writes is sent to the pages service.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A message a run on the workstation writes is landed in the checkout it holds.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The values sent and the values landed are composed once and are the same values.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A message the pages refused is refused with what the pages said.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A caller may put a pages writer of its own in place of the one reaching out.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A message page names its seat by page type and slug, and reads back as the name.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A message addressed to no seat the seat index knows is refused.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An unreadable seat index writes rather than refusing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A message lands at the path the composer gives rather than at one worked out again here.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A message whose page would be over the byte ceiling is refused rather than landed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page over that ceiling is a page no later change can write.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -106,14 +55,6 @@ export const messageFile = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The value beside a message is dropped for the store the message was found in.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The folder a watch is handed is the folder a message arrives in.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That folder is asked of the index rather than spelled here.",
     },
     {
       decisionKind: "decision-kind/absence",
