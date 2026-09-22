@@ -1,7 +1,12 @@
 @import "tailwindcss";
 @import "akasha/design/interface/system/design-look/design-look.stylesheet.styles.css";
 
+@source "../../../../alan/chess/**/*.{ts,tsx}";
 @source "../../../../alan/harness/**/*.{ts,tsx}";
 @source "../../../../code/router-app/**/*.{ts,tsx}";
 @source "../../../../design/interface/**/*.{ts,tsx}";
-@source "../../../../page/ui/**/*.{ts,tsx}";
+@source "../../../../page/**/*.{ts,tsx}";
+@source "../../../../story/game/**/*.{ts,tsx}";
+@source "../../../../story/ui/**/*.{ts,tsx}";
+@source "../../../../story/world/**/*.{ts,tsx}";
+@source "../../../../temper/player/**/*.{ts,tsx}";
