@@ -1,1 +1,0 @@
-{{ $labels.repo }} is served by git-transport but declares no off-cluster destination, so all {{ $value }} of its refs exist on one node-pinned disk and nowhere else. Nothing has failed — this repository was never mirrored. Declare a destination in packages/infra/git/transport/src/repos.ts, or record why this one is deliberately local.
