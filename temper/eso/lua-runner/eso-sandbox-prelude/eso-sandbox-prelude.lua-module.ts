@@ -81,6 +81,11 @@ export const esoSandboxPrelude = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Many values are seeded in one call, because a name at a time is a call at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The listing function the game gives an add-on is answered here rather than stubbed.",
     },
     {

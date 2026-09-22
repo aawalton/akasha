@@ -28,6 +28,15 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The engine's captured constants are put in before anything that reads them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A model loaded after them holds the value it states, so a model can still differ.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A library the game loads before an addon is loaded here in the order the game loads it.",
     },

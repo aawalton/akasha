@@ -5,6 +5,10 @@ import {
   treeIn,
 } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import {
+  constantsLua,
+  engineConstantsTable,
+} from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
+import {
   esoLiveDirCandidates,
   esouiSourceDir,
 } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
@@ -169,8 +173,10 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
   const chunks = virtualsLua(virtuals, PER_CHUNK)
   const declaring = declaredLua(declaredFrom(documents, virtuals), asked.shows, PER_CHUNK)
   const esoui = esouiSourceDir()
+  const constants = constantsLua(engineConstantsTable(asked.root))
   const harness = await openUiHarness()
   try {
+    for (const chunk of constants) await harness.load(`return ${chunk}`)
     const templates = await harness.templates(chunks)
     for (const chunk of declaring) await harness.load(`return ${chunk}`)
     for (const name of asked.shows) {

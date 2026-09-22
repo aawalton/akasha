@@ -106,6 +106,15 @@ function __eso_seed(name, value)
   _rawset(__eso_env, name, value)
 end
 
+function __eso_constants(given)
+  local count = 0
+  for name, value in _pairs(given) do
+    _rawset(__eso_env, name, value)
+    count = count + 1
+  end
+  return count
+end
+
 function __eso_run(src, name)
   local chunk, err = _loadstring(src, name)
   if not chunk then _error(err, 0) end
