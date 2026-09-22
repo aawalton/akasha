@@ -57,6 +57,14 @@ export const towerFloors = {
       statement:
         "A floor read twice reads the same, so nothing settled here is settled again in play.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "The rows here are what the tower's location and encounter pages were made from.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "This property is gone, and a place is a location page whatever game holds it.",
+    },
   ],
   types: "ts",
 } as const satisfies FileProperty

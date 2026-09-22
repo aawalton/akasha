@@ -7,5 +7,16 @@ export const entities = {
   propertySlug: "entities",
   definition: "everyone and everything in a game's world",
   extensions: ["jsonl"],
+  decisions: [
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "The rows here are what a game's pages were made from, and are no longer the authority.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "This property is gone, and every game's world is read off its pages.",
+    },
+  ],
   types: "ts",
 } as const satisfies FileProperty

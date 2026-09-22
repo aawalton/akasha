@@ -1,3 +1,4 @@
+{"decisions":[{"decisionKind":"decision-kind/stopgap","statement":"The rows here are what a game's pages were made from, and are no longer the authority."},{"decisionKind":"decision-kind/gap","statement":"This property is gone, and every game's world is read off its pages."}]}
 {"definition":"everyone and everything in a game's world"}
 {"extensions":["jsonl"]}
 {"id":"01a0673c-8e0e-7015-a3a2-7c0b31e1cbde"}

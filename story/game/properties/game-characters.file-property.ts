@@ -7,5 +7,16 @@ export const gameCharacters = {
   propertySlug: "characters",
   definition: "the characters a game is played with",
   extensions: ["jsonl"],
+  decisions: [
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "The rows here are what a game's entity pages were made from, and are no longer the authority.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "This property is gone, and a character a player runs is an entity page.",
+    },
+  ],
   types: "ts",
 } as const satisfies FileProperty
