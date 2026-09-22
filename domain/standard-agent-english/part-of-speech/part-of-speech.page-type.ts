@@ -13,6 +13,7 @@ export const partOfSpeech = {
     "part-of-speech/adjective",
     "part-of-speech/conjunction",
     "part-of-speech/verb",
+    "part-of-speech/free-relative-pronoun",
   ],
   extends: ["page-type/domain"],
   decisions: [
