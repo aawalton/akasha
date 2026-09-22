@@ -4,7 +4,7 @@ export const temperCharactersEquipmentUi = {
   id: "01a06333-1bb2-7503-96cd-0be9991f4b14",
   type: "page-type/domain",
   slug: "temper-characters-equipment-ui",
-  definition: "the pieces a browser draws a character's equipment with",
+  definition: "the pieces drawing a character's equipment in a browser",
   parts: [
     "module/equipment-icon",
     "module/equipment-quality-rules",

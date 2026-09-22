@@ -4,7 +4,7 @@ export const skillMorphsProgressPanelCard = {
   id: "01a06270-883d-7000-98b7-a23674b65603",
   type: "page-type/module",
   slug: "skill-morphs-progress-panel-card",
-  definition: "how far each chosen character has taken every skill a morph is picked for",
+  definition: "how far each chosen character has taken every skill with a picked morph",
   code: "tsx",
   decisions: [
     {

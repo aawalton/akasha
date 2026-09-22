@@ -4,7 +4,7 @@ export const home = {
   id: "01a08301-991a-70f9-bd5d-855d3f7bc8ab",
   type: "page-type/route",
   slug: "home",
-  definition: "the screen a signed-in player lands on",
+  definition: "a signed-in player's landing screen",
   code: "tsx",
   urlPath: "home",
 } as const satisfies Route
