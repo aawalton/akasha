@@ -4,6 +4,7 @@ export const jamesTaylorJamesTaylorAtChristmasRiver = {
   id: "01a0abeb-2ce4-71f5-8d0c-2ea7b56ce90e",
   type: "page-type/track",
   slug: "james-taylor-james-taylor-at-christmas-river",
+  grade: "A",
   ownLength: 3.5597666666666665,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
