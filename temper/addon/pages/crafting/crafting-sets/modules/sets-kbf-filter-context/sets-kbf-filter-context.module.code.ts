@@ -2,7 +2,7 @@ import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes-3
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes/sets-search-ui-shapes.type-declaration.d.ts"
 
 export interface FilterBuildContext {
-  self: LibSetsSearchUIKeyboardObject
+  self: SetsSearchUIKeyboardObject
   filters: SearchUIControl
   isLSMEnabled: boolean
   onEnter: (this: void, comboBox: SearchUIComboBox, entry: SearchUIComboBoxItem | undefined) => void

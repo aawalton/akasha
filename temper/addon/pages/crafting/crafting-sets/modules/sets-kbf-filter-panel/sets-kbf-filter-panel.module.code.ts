@@ -29,7 +29,7 @@ const checkLSM = lib.CheckLSM
 
 const keyboardClass = getKeyboardSearchUIClass()
 
-keyboardClass.InitializeFilters = function (this: LibSetsSearchUIKeyboardObject): undefined {
+keyboardClass.InitializeFilters = function (this: SetsSearchUIKeyboardObject): undefined {
   const isLSMEnabled = checkLSM()
   if (isLSMEnabled) {
     this.LSM_Dropdowns = {}

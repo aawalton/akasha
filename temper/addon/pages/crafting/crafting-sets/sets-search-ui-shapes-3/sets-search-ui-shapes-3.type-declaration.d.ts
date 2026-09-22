@@ -1,53 +1,47 @@
-interface LibSetsSearchUIKeyboardObject extends SetsSearchUISharedObject {
+interface SetsSearchUIKeyboardObject extends SetsSearchUISharedObject {
   resetButton: SearchUIControl
   multiSelectFilterTypeNameToDropdown: { [filterName: string]: SearchUIControl }
-  multiSelectMinAndMaxData: LuaMap<SearchUIControl, LibSetsMultiSelectMinMaxData>
+  multiSelectMinAndMaxData: LuaMap<SearchUIControl, SetsMultiSelectMinMaxData>
   isItemIdRelevantMultiSelectFilterDropdown: LuaMap<SearchUIControl, boolean>
   LSM_Dropdowns?: { [filterName: string]: unknown }
   tooltipKeyboardHookWasDone: boolean
 
-  LoadSearchUIPositionAndSize: (
-    this: LibSetsSearchUIKeyboardObject,
-    tlcCtrl?: SearchUIControl
-  ) => void
-  SaveSearchUIPositionAndSize: (
-    this: LibSetsSearchUIKeyboardObject,
-    tlcCtrl?: SearchUIControl
-  ) => void
-  SetMultiSelectDropdownDimensionConstraints: (this: LibSetsSearchUIKeyboardObject) => void
+  LoadSearchUIPositionAndSize: (this: SetsSearchUIKeyboardObject, tlcCtrl?: SearchUIControl) => void
+  SaveSearchUIPositionAndSize: (this: SetsSearchUIKeyboardObject, tlcCtrl?: SearchUIControl) => void
+  SetMultiSelectDropdownDimensionConstraints: (this: SetsSearchUIKeyboardObject) => void
   UpdateSearchParamsFromSlashcommand: (
-    this: LibSetsSearchUIKeyboardObject,
+    this: SetsSearchUIKeyboardObject,
     slashOptions: unknown
   ) => void
-  InitializeFilters: (this: LibSetsSearchUIKeyboardObject) => void
+  InitializeFilters: (this: SetsSearchUIKeyboardObject) => void
   UpdateDropdownSort: (
-    this: LibSetsSearchUIKeyboardObject,
+    this: SetsSearchUIKeyboardObject,
     comboBoxType: string,
     sortType: unknown,
     suppressRebuild?: boolean
   ) => void
   GetSelectedMultiSelectDropdownFilters: (
-    this: LibSetsSearchUIKeyboardObject,
+    this: SetsSearchUIKeyboardObject,
     multiSelectDropdown: SearchUIControl
   ) => { [filterType: string]: boolean }
   SetMultiSelectDropdownFilters: (
-    this: LibSetsSearchUIKeyboardObject,
+    this: SetsSearchUIKeyboardObject,
     multiSelectDropdown: SearchUIControl,
     entriesToSelect: { [filterType: string]: boolean }
   ) => void
-  IsAnyItemIdRelevantFilterActive: (this: LibSetsSearchUIKeyboardObject) => boolean
+  IsAnyItemIdRelevantFilterActive: (this: SetsSearchUIKeyboardObject) => boolean
   GetItemIdRelevantFilterKeys: (
-    this: LibSetsSearchUIKeyboardObject
+    this: SetsSearchUIKeyboardObject
   ) => { [searchParamKey: string]: boolean } | false
   GetItemIdsForSetIdRespectingFilters: (
-    this: LibSetsSearchUIKeyboardObject,
+    this: SetsSearchUIKeyboardObject,
     setId: number,
     onlyOneItemId?: boolean
   ) => number[] | undefined
-  OnRowMouseEnter: (this: LibSetsSearchUIKeyboardObject, rowControl: SearchUIControl) => void
-  OnRowMouseExit: (this: LibSetsSearchUIKeyboardObject, rowControl: SearchUIControl) => void
+  OnRowMouseEnter: (this: SetsSearchUIKeyboardObject, rowControl: SearchUIControl) => void
+  OnRowMouseExit: (this: SetsSearchUIKeyboardObject, rowControl: SearchUIControl) => void
   OnRowMouseUp: (
-    this: LibSetsSearchUIKeyboardObject,
+    this: SetsSearchUIKeyboardObject,
     rowControl: SearchUIControl,
     mouseButton: number,
     upInside: boolean,
@@ -57,7 +51,7 @@ interface LibSetsSearchUIKeyboardObject extends SetsSearchUISharedObject {
     command?: boolean
   ) => void
   OnDropdownMouseUp: (
-    this: LibSetsSearchUIKeyboardObject,
+    this: SetsSearchUIKeyboardObject,
     dropdownControl: SearchUIControl,
     mouseButton: number,
     upInside: boolean,
@@ -68,13 +62,13 @@ interface LibSetsSearchUIKeyboardObject extends SetsSearchUISharedObject {
   ) => void
 }
 
-interface LibSetsSearchParams {
+interface SetsSearchParams {
   names?: string
   bonuses?: string
   [filterKey: string]: string | { [id: string]: boolean } | undefined
 }
 
-interface LibSetsSearchRowData {
+interface SetsSearchRowData {
   name: string
   nameLower?: string
   nameClean?: string
@@ -96,13 +90,13 @@ interface LibSetsSearchRowData {
   [key: string]: unknown
 }
 
-interface LibSetsMultiSelectMinMaxData {
+interface SetsMultiSelectMinMaxData {
   minX: number
   maxX?: number | string
-  anchors?: LibSetsAnchorData[]
+  anchors?: SetsAnchorData[]
 }
 
-interface LibSetsAnchorData {
+interface SetsAnchorData {
   point: number
   relativeTo: unknown
   relativePoint: number

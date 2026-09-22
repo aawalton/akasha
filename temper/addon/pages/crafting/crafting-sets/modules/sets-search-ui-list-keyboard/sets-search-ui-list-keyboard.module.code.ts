@@ -89,7 +89,7 @@ function updateFavoriteColumn(
 listClass.New = function (
   this: LibSetsSearchUIListClass,
   listParentControl: SearchUIControl,
-  parentObject: LibSetsSearchUIKeyboardObject
+  parentObject: SetsSearchUIKeyboardObject
 ): LibSetsSearchUIList {
   const listObject = ZO_SortFilterList.New<LibSetsSearchUIList>(
     this,
@@ -266,7 +266,7 @@ listClass.SetHeaderAndColumnDimensionConstraints = function (
 listClass.SetupItemRow = function (
   this: LibSetsSearchUIList,
   control: SearchUIControl,
-  data: LibSetsSearchRowData
+  data: SetsSearchRowData
 ) {
   control.data = data
 

@@ -127,7 +127,7 @@ function anchorAllTooltipsAutomatically(
 sharedClass.ShowItemLinkTooltip = function (
   this: SetsSearchUISharedObject,
   rowControl: SearchUIControl,
-  dataIn: LibSetsSearchRowData | undefined
+  dataIn: SetsSearchRowData | undefined
 ): boolean | undefined {
   this.HideItemLinkTooltip()
 
@@ -161,7 +161,7 @@ sharedClass.HideItemLinkTooltip = function (this: SetsSearchUISharedObject) {
 sharedClass.ShowItemLinkPopupTooltip = function (
   this: SetsSearchUISharedObject,
   parent: SearchUIControl,
-  data: LibSetsSearchRowData | undefined
+  data: SetsSearchRowData | undefined
 ) {
   this.HideItemLinkPopupTooltip()
   if (data === undefined || data.itemLink === undefined) {
@@ -210,7 +210,7 @@ sharedClass.HideItemLinkPopupTooltip = function (this: SetsSearchUISharedObject)
 sharedClass.ShowSetDropLocationTooltip = function (
   this: SetsSearchUISharedObject,
   rowControl: SearchUIControl,
-  data: LibSetsSearchRowData | undefined,
+  data: SetsSearchRowData | undefined,
   itemLinkTooltipShownLeftOfControl?: boolean
 ) {
   ZO_Tooltips_HideTextTooltip()
@@ -249,7 +249,7 @@ sharedClass.ShowSetDropLocationTooltip = function (
 
 sharedClass.ItemLinkToChat = function (
   this: SetsSearchUISharedObject,
-  data: LibSetsSearchRowData | undefined
+  data: SetsSearchRowData | undefined
 ) {
   if (data !== undefined && data.itemLink !== undefined) {
     d(`${libPrefix}SetId '${tos(data.setId)}': ${data.itemLink}`)

@@ -21,18 +21,18 @@ type KeyboardOverriddenMethod =
   | "StartSearch"
   | "OnFilterChanged"
 interface KeyboardClassAssign extends Omit<LibSetsSearchUIKeyboardClass, KeyboardOverriddenMethod> {
-  Initialize: (this: LibSetsSearchUIKeyboardObject, control: SearchUIControl) => void
-  ShowUI: (this: LibSetsSearchUIKeyboardObject, slashOptions?: unknown) => void
-  ResetUI: (this: LibSetsSearchUIKeyboardObject) => void
-  ApplySearchParamsToUI: (this: LibSetsSearchUIKeyboardObject) => void
-  ValidateSearchParams: (this: LibSetsSearchUIKeyboardObject) => boolean
+  Initialize: (this: SetsSearchUIKeyboardObject, control: SearchUIControl) => void
+  ShowUI: (this: SetsSearchUIKeyboardObject, slashOptions?: unknown) => void
+  ResetUI: (this: SetsSearchUIKeyboardObject) => void
+  ApplySearchParamsToUI: (this: SetsSearchUIKeyboardObject) => void
+  ValidateSearchParams: (this: SetsSearchUIKeyboardObject) => boolean
   StartSearch: (
-    this: LibSetsSearchUIKeyboardObject,
+    this: SetsSearchUIKeyboardObject,
     doNotShowUI: boolean | undefined,
     wasReset?: boolean
   ) => boolean
   OnFilterChanged: (
-    this: LibSetsSearchUIKeyboardObject,
+    this: SetsSearchUIKeyboardObject,
     dropdownControl?: SearchUIControl,
     editControl?: SearchUIEditBox
   ) => void

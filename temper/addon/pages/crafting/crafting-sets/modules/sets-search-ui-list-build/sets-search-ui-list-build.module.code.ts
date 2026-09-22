@@ -31,14 +31,14 @@ const POSSIBLE_SET_SEARCH_FAVORITE_CATEGORIES_UNSORTED =
 
 const MAX_DROP_LOCATION_ROWS_SHOWN = 5
 
-type SetDataWithNames = LibSetsSearchRowData & {
+type SetDataWithNames = SetsSearchRowData & {
   setNames?: { [lang: string]: string | undefined }
 }
 function asSetDataWithNames(value: unknown): SetDataWithNames {
   return value as SetDataWithNames
 }
 
-type SearchRowDataRecord = LibSetsSearchRowData & { [key: string]: unknown }
+type SearchRowDataRecord = SetsSearchRowData & { [key: string]: unknown }
 function asSearchRowDataRecord(value: unknown): SearchRowDataRecord {
   return value as SearchRowDataRecord
 }
@@ -73,7 +73,7 @@ listClass.CreateEntryForSet = function (
   this: LibSetsSearchUIList,
   setId: number,
   setDataIn: { [key: string]: unknown }
-): LibSetsSearchRowData | undefined {
+): SetsSearchRowData | undefined {
   const parentObject = this._parentObject
   const setData = asSetDataWithNames(setDataIn)
   const settings = lib.svData
@@ -282,7 +282,7 @@ listClass.BuildMasterList = function (this: LibSetsSearchUIList) {
 }
 
 listClass.FilterScrollList = function (this: LibSetsSearchUIList) {
-  const scrollData = asPresent(ZO_ScrollList_GetDataList<LibSetsSearchRowData>(this.list))
+  const scrollData = asPresent(ZO_ScrollList_GetDataList<SetsSearchRowData>(this.list))
   ZO_ClearNumericallyIndexedTable(scrollData)
 
   const searchInput = this._parentObject.searchEditBoxControl.GetText()

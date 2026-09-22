@@ -32,7 +32,7 @@ function comboBoxSupportsMultiSelect(this: void): boolean {
 }
 
 interface FilterSetupParams {
-  self: LibSetsSearchUIKeyboardObject
+  self: SetsSearchUIKeyboardObject
   filters: SearchUIControl
   control: SearchUIControl
   filterTypeText: string

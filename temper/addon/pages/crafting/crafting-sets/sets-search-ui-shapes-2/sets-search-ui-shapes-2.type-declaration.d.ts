@@ -7,8 +7,8 @@ interface SetsSearchUISharedObject {
   counterControl: SearchUIControl
   searchButton?: SearchUIControl
 
-  searchParams?: LibSetsSearchParams
-  lastSearchParams?: LibSetsSearchParams
+  searchParams?: SetsSearchParams
+  lastSearchParams?: SetsSearchParams
 
   searchDoneCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void
   searchErrorCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void
@@ -74,7 +74,7 @@ interface SetsSearchUISharedObject {
   HideUI: (this: SetsSearchUISharedObject) => void
   Show: (
     this: SetsSearchUISharedObject,
-    searchParams?: LibSetsSearchParams,
+    searchParams?: SetsSearchParams,
     doneCb?: (this: void, selfVar: SetsSearchUISharedObject) => void,
     errorCb?: (this: void, selfVar: SetsSearchUISharedObject) => void,
     canceledCb?: (this: void, selfVar: SetsSearchUISharedObject) => void
@@ -99,17 +99,17 @@ interface SetsSearchUISharedObject {
   Search: (
     this: SetsSearchUISharedObject,
     doNotShowUI: boolean | undefined,
-    searchParams: LibSetsSearchParams | undefined
+    searchParams: SetsSearchParams | undefined
   ) => void
   CheckForMatch: (
     this: SetsSearchUISharedObject,
-    data: LibSetsSearchRowData,
+    data: SetsSearchRowData,
     searchInput: string
   ) => boolean
   ProcessItemEntry: (
     this: SetsSearchUISharedObject,
     stringSearch: unknown,
-    data: LibSetsSearchRowData,
+    data: SetsSearchRowData,
     searchTerm: string,
     cache?: unknown
   ) => boolean
@@ -148,22 +148,22 @@ interface SetsSearchUISharedObject {
   ShowItemLinkTooltip: (
     this: SetsSearchUISharedObject,
     rowControl: SearchUIControl,
-    data: LibSetsSearchRowData | undefined
+    data: SetsSearchRowData | undefined
   ) => boolean | undefined
   HideItemLinkTooltip: (this: SetsSearchUISharedObject) => void
   ShowItemLinkPopupTooltip: (
     this: SetsSearchUISharedObject,
     parent: SearchUIControl,
-    data: LibSetsSearchRowData | undefined
+    data: SetsSearchRowData | undefined
   ) => void
   HideItemLinkPopupTooltip: (this: SetsSearchUISharedObject) => void
   ShowSetDropLocationTooltip: (
     this: SetsSearchUISharedObject,
     rowControl: SearchUIControl,
-    data: LibSetsSearchRowData | undefined,
+    data: SetsSearchRowData | undefined,
     itemLinkTooltipShownLeftOfControl?: boolean
   ) => void
-  ItemLinkToChat: (this: SetsSearchUISharedObject, data: LibSetsSearchRowData | undefined) => void
+  ItemLinkToChat: (this: SetsSearchUISharedObject, data: SetsSearchRowData | undefined) => void
   GetAllFavoritesCategories: (
     this: SetsSearchUISharedObject,
     setId: number | undefined

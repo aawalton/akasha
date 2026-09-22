@@ -152,7 +152,7 @@ sharedClass.HideUI = function (this: SetsSearchUISharedObject) {
 
 sharedClass.Show = function (
   this: SetsSearchUISharedObject,
-  searchParams?: LibSetsSearchParams,
+  searchParams?: SetsSearchParams,
   searchDoneCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void,
   searchErrorCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void,
   searchCanceledCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void

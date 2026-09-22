@@ -51,7 +51,7 @@ function addToIndexTable(
 }
 
 keyboardClass.UpdateDropdownSort = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   comboBoxType: string,
   sortType: unknown,
   suppressRebuild?: boolean
@@ -73,7 +73,7 @@ keyboardClass.UpdateDropdownSort = function (
 }
 
 keyboardClass.GetSelectedMultiSelectDropdownFilters = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   multiSelectDropdown: SearchUIControl
 ): { [filterType: string]: boolean } {
   const selectedFilterTypes: { [filterType: string]: boolean } = {}
@@ -95,7 +95,7 @@ keyboardClass.GetSelectedMultiSelectDropdownFilters = function (
 }
 
 keyboardClass.SetMultiSelectDropdownFilters = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   multiSelectDropdown: SearchUIControl,
   entriesToSelect: { [filterType: string]: boolean }
 ): undefined {
@@ -115,7 +115,7 @@ keyboardClass.SetMultiSelectDropdownFilters = function (
 }
 
 keyboardClass.IsAnyItemIdRelevantFilterActive = function (
-  this: LibSetsSearchUIKeyboardObject
+  this: SetsSearchUIKeyboardObject
 ): boolean {
   const searchParams = this.searchParams
   if (searchParams === undefined || ZO_IsTableEmpty(searchParams)) {
@@ -142,7 +142,7 @@ keyboardClass.IsAnyItemIdRelevantFilterActive = function (
 }
 
 keyboardClass.GetItemIdRelevantFilterKeys = function (
-  this: LibSetsSearchUIKeyboardObject
+  this: SetsSearchUIKeyboardObject
 ): { [searchParamKey: string]: boolean } | false {
   const searchParamKeysOfItemIdAffectingFilters: { [searchParamKey: string]: boolean } = {}
   const searchParams = this.searchParams
@@ -170,7 +170,7 @@ keyboardClass.GetItemIdRelevantFilterKeys = function (
 }
 
 keyboardClass.GetItemIdsForSetIdRespectingFilters = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   setId: number,
   onlyOneItemIdIn?: boolean
 ): number[] | undefined {
@@ -243,14 +243,14 @@ keyboardClass.GetItemIdsForSetIdRespectingFilters = function (
 }
 
 keyboardOverride.OnFilterChanged = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   dropdownControl?: SearchUIControl,
   editControl?: SearchUIEditBox
 ): undefined {
   getSharedSuper().OnFilterChanged(this, dropdownControl)
   let didAnyFilterChange = false
 
-  const searchParams: LibSetsSearchParams = {}
+  const searchParams: SetsSearchParams = {}
   if (editControl === undefined) {
     if (dropdownControl === undefined) {
       for (const lDropdownControl of this.multiSelectFilterDropdowns) {
@@ -316,7 +316,7 @@ keyboardOverride.OnFilterChanged = function (
 }
 
 keyboardClass.OnRowMouseEnter = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   rowControl: SearchUIControl
 ): undefined {
   this.resultsList.Row_OnMouseEnter(rowControl)
@@ -328,7 +328,7 @@ keyboardClass.OnRowMouseEnter = function (
 }
 
 keyboardClass.OnRowMouseExit = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   rowControl: SearchUIControl
 ): undefined {
   this.resultsList.Row_OnMouseExit(rowControl)
@@ -338,7 +338,7 @@ keyboardClass.OnRowMouseExit = function (
 }
 
 keyboardClass.OnRowMouseUp = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   rowControl: SearchUIControl,
   mouseButton: number,
   upInside: boolean,
@@ -363,7 +363,7 @@ keyboardClass.OnRowMouseUp = function (
 }
 
 keyboardClass.OnDropdownMouseUp = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   dropdownControl: SearchUIControl,
   mouseButton: number,
   upInside: boolean,

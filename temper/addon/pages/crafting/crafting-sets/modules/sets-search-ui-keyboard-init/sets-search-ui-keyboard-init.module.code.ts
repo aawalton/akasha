@@ -39,7 +39,7 @@ const sharedSuper = getSharedSuper()
 
 function refreshSearchFilters(
   this: void,
-  selfVar: LibSetsSearchUIKeyboardObject,
+  selfVar: SetsSearchUIKeyboardObject,
   editBoxControl: SearchUIEditBox
 ): undefined {
   selfVar.OnFilterChanged(undefined, editBoxControl)
@@ -84,12 +84,12 @@ export {
 keyboardClass.New = function (
   this: LibSetsSearchUIKeyboardClass,
   control: SearchUIControl
-): LibSetsSearchUIKeyboardObject {
-  return ZO_InitializingObject.New<LibSetsSearchUIKeyboardObject>(this, control)
+): SetsSearchUIKeyboardObject {
+  return ZO_InitializingObject.New<SetsSearchUIKeyboardObject>(this, control)
 }
 
 keyboardOverride.Initialize = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   control: SearchUIControl
 ): undefined {
   sharedSuper.Initialize(this, control)
@@ -276,7 +276,7 @@ keyboardOverride.Initialize = function (
     numBonuses: this.numBonusFiltersControl,
   }
 
-  this.multiSelectMinAndMaxData = new LuaMap<SearchUIControl, LibSetsMultiSelectMinMaxData>()
+  this.multiSelectMinAndMaxData = new LuaMap<SearchUIControl, SetsMultiSelectMinMaxData>()
 
   this.multiSelectMinAndMaxData.set(this.setTypeFiltersControl, { minX: 200, maxX: "25%" })
   this.multiSelectMinAndMaxData.set(this.armorTypeFiltersControl, { minX: 200, maxX: "25%" })

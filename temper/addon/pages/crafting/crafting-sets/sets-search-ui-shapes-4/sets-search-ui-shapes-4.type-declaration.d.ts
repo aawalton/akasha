@@ -1,6 +1,6 @@
 interface LibSetsSearchUIList extends ZoSortFilterList {
-  _parentObject: LibSetsSearchUIKeyboardObject
-  masterList: LibSetsSearchRowData[]
+  _parentObject: SetsSearchUIKeyboardObject
+  masterList: SetsSearchRowData[]
   sortKeys: Record<string, ZoSortKeyConfig>
   isAnyItemIdRelevantFilterActive?: boolean
   updateListColumnWith?: number
@@ -28,13 +28,13 @@ interface LibSetsSearchUIList extends ZoSortFilterList {
   SetupItemRow: (
     this: LibSetsSearchUIList,
     control: SearchUIControl,
-    data: LibSetsSearchRowData
+    data: SetsSearchRowData
   ) => void
   CreateEntryForSet: (
     this: LibSetsSearchUIList,
     setId: number,
     setData: { [key: string]: unknown }
-  ) => LibSetsSearchRowData | undefined
+  ) => SetsSearchRowData | undefined
   BuildSortKeys: (this: LibSetsSearchUIList) => void
   UpdateCounter: (this: LibSetsSearchUIList, scrollData: unknown[]) => void
   AddFavorite: (
@@ -55,14 +55,14 @@ interface LibSetsListColumnData {
   maxX: number | string
   factorMultiplier?: number
   columnName?: string
-  anchors?: LibSetsAnchorData[]
+  anchors?: SetsAnchorData[]
 }
 
 interface LibSetsSearchUIListClass extends LibSetsSearchUIList, ZoSortFilterListSubclass {
   New: (
     this: LibSetsSearchUIListClass,
     listParentControl: SearchUIControl,
-    parentObject: LibSetsSearchUIKeyboardObject
+    parentObject: SetsSearchUIKeyboardObject
   ) => LibSetsSearchUIList
 }
 
@@ -73,12 +73,9 @@ interface LibSetsSearchUISharedClass
 }
 
 interface LibSetsSearchUIKeyboardClass
-  extends LibSetsSearchUIKeyboardObject,
+  extends SetsSearchUIKeyboardObject,
     ZoInitializingObjectSubclass {
-  New: (
-    this: LibSetsSearchUIKeyboardClass,
-    control: SearchUIControl
-  ) => LibSetsSearchUIKeyboardObject
+  New: (this: LibSetsSearchUIKeyboardClass, control: SearchUIControl) => SetsSearchUIKeyboardObject
 }
 
 interface LibSetsSetInfoPart {

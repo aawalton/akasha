@@ -26,16 +26,16 @@ export function asSearchUIComboBoxOpt(value: unknown): SearchUIComboBoxOpt {
   return value as SearchUIComboBoxOpt
 }
 
-export function asLibSetsSearchRowData(value: unknown): LibSetsSearchRowData {
-  return value as LibSetsSearchRowData
+export function asLibSetsSearchRowData(value: unknown): SetsSearchRowData {
+  return value as SetsSearchRowData
 }
 
-export type LibSetsSearchRowDataOpt = LibSetsSearchRowData | undefined
+export type LibSetsSearchRowDataOpt = SetsSearchRowData | undefined
 export function asLibSetsSearchRowDataOpt(value: unknown): LibSetsSearchRowDataOpt {
   return value as LibSetsSearchRowDataOpt
 }
 
-export type LibSetsSearchUIKeyboardObjectOpt = LibSetsSearchUIKeyboardObject | undefined
+export type LibSetsSearchUIKeyboardObjectOpt = SetsSearchUIKeyboardObject | undefined
 export function asLibSetsSearchUIKeyboardObjectOpt(
   value: unknown
 ): LibSetsSearchUIKeyboardObjectOpt {

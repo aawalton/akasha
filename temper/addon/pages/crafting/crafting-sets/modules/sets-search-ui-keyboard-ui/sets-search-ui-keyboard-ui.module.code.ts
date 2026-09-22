@@ -47,7 +47,7 @@ function asSearchUISVOpt(value: unknown): SearchUISVOpt {
 }
 
 keyboardClass.LoadSearchUIPositionAndSize = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   tlcCtrlIn?: SearchUIControl
 ): undefined {
   const tlcCtrl = tlcCtrlIn ?? this.control
@@ -69,7 +69,7 @@ keyboardClass.LoadSearchUIPositionAndSize = function (
 }
 
 keyboardClass.SaveSearchUIPositionAndSize = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   tlcCtrlIn?: SearchUIControl
 ): undefined {
   const tlcCtrl = tlcCtrlIn ?? this.control
@@ -111,7 +111,7 @@ keyboardClass.SaveSearchUIPositionAndSize = function (
 
 const DEFAULT_MIN_X_FOR_MULTI_SELECT_CONTROL = 50
 keyboardClass.SetMultiSelectDropdownDimensionConstraints = function (
-  this: LibSetsSearchUIKeyboardObject
+  this: SetsSearchUIKeyboardObject
 ): undefined {
   for (const [multiSelectControl, multiSelectMinAndMaxDataOfControl] of this
     .multiSelectMinAndMaxData) {
@@ -141,7 +141,7 @@ keyboardClass.SetMultiSelectDropdownDimensionConstraints = function (
 }
 
 keyboardClass.UpdateSearchParamsFromSlashcommand = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   slashOptions: unknown
 ): undefined {
   if (slashOptions !== undefined && !ZO_IsTableEmpty(asAnyObject(slashOptions))) {
@@ -164,7 +164,7 @@ keyboardClass.UpdateSearchParamsFromSlashcommand = function (
 }
 
 keyboardOverride.ShowUI = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   slashOptions?: unknown
 ): undefined {
   if (!this.tooltipKeyboardHookWasDone) {
@@ -179,7 +179,7 @@ keyboardOverride.ShowUI = function (
   this.UpdateSearchParamsFromSlashcommand(slashOptions)
 }
 
-keyboardOverride.ResetUI = function (this: LibSetsSearchUIKeyboardObject): undefined {
+keyboardOverride.ResetUI = function (this: SetsSearchUIKeyboardObject): undefined {
   sharedSuper.ResetUI()
 
   for (const editBoxControl of this.editBoxFilters) {
@@ -192,7 +192,7 @@ keyboardOverride.ResetUI = function (this: LibSetsSearchUIKeyboardObject): undef
   this.UpdateSearchButtonEnabledState(false)
 }
 
-keyboardOverride.ApplySearchParamsToUI = function (this: LibSetsSearchUIKeyboardObject): undefined {
+keyboardOverride.ApplySearchParamsToUI = function (this: SetsSearchUIKeyboardObject): undefined {
   if (!this.IsShown()) {
     return
   }
@@ -223,7 +223,7 @@ keyboardOverride.ApplySearchParamsToUI = function (this: LibSetsSearchUIKeyboard
   }
 }
 
-keyboardOverride.ValidateSearchParams = function (this: LibSetsSearchUIKeyboardObject): boolean {
+keyboardOverride.ValidateSearchParams = function (this: SetsSearchUIKeyboardObject): boolean {
   let searchWasValid = sharedSuper.ValidateSearchParams(this)
   if (searchWasValid === undefined) {
     searchWasValid = true
@@ -232,7 +232,7 @@ keyboardOverride.ValidateSearchParams = function (this: LibSetsSearchUIKeyboardO
 }
 
 keyboardOverride.StartSearch = function (
-  this: LibSetsSearchUIKeyboardObject,
+  this: SetsSearchUIKeyboardObject,
   doNotShowUI: boolean | undefined,
   wasReset?: boolean
 ): boolean {

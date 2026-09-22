@@ -633,7 +633,7 @@ interface LibSetsApi {
     KeyboardVars: { minWidth: number; minHeight: number }
   }
 
-  searchUIKeyboard?: LibSetsSearchUIKeyboardObject
+  searchUIKeyboard?: SetsSearchUIKeyboardObject
 
   XMLGetDynamicWidth?: (
     this: void,

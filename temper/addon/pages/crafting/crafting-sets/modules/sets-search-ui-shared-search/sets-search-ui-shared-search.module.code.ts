@@ -123,7 +123,7 @@ sharedClass.StartSearch = function (
 sharedClass.Search = function (
   this: SetsSearchUISharedObject,
   doNotShowUI: boolean | undefined,
-  searchParams: LibSetsSearchParams | undefined
+  searchParams: SetsSearchParams | undefined
 ) {
   const dontShow = doNotShowUI ?? false
 
@@ -238,7 +238,7 @@ function searchFilterPrefix(
 
 sharedClass.CheckForMatch = function (
   this: SetsSearchUISharedObject,
-  data: LibSetsSearchRowData,
+  data: SetsSearchRowData,
   searchInput: string
 ): boolean {
   const namesOrIdsTab: string[] = []
@@ -250,7 +250,7 @@ sharedClass.CheckForMatch = function (
 sharedClass.ProcessItemEntry = function (
   this: SetsSearchUISharedObject,
   _stringSearch: unknown,
-  data: LibSetsSearchRowData,
+  data: SetsSearchRowData,
   searchTerm: string,
   _cache?: unknown
 ): boolean {
