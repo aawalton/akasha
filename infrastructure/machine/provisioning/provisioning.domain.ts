@@ -12,7 +12,6 @@ export const provisioning = {
     "shell-script/ci-cost-snapshot",
     "shell-script/find-session",
     "shell-script/link-making",
-    "shell-script/provision-workstation",
     "shell-script/repo-roots",
     "shell-script/rg",
     "shell-script/setup-symlinks",
