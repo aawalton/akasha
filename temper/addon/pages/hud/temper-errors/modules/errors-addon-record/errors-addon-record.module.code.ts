@@ -24,7 +24,7 @@ export function setSavedVariablesAccessor(accessor: SavedVariablesAccessor): und
 
 function savedVariables(): ErrorsPayload {
   if (savedVariablesAccessor === undefined) {
-    throw new Error("TemperErrors saved-variables accessor not set — init has not run.")
+    throw new Error("Error capture saved-variables accessor not set — init has not run.")
   }
   return savedVariablesAccessor()
 }

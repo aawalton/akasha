@@ -169,7 +169,7 @@
             </Controls>
         </Control>
         <!-- The Top Level Control positioned at the cursor, to show dragged list entries -->
-        <TopLevelControl name="TemperInterfaceShifterBox_Cursor_TLC" mouseEnabled="false" hidden="true">
+        <TopLevelControl name="TemperShifterBox_Cursor_TLC" mouseEnabled="false" hidden="true">
 			<Dimensions x="0" y="0" />
 			<Controls>
                 <Label name="$(parent)Label" font="ZoFontGame" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_SELECTED" horizontalAlignment="LEFT" verticalAlignment="TOP" text="">

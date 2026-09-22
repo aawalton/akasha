@@ -46,7 +46,7 @@ export function initializeSavedVariables(): undefined {
 
 export function getSavedVariables(): SavedVariablesData {
   if (savedVars === undefined) {
-    throw new Error("TemperAddons SavedVariables not initialized")
+    throw new Error("Add-on selector SavedVariables not initialized")
   }
   return savedVars
 }
