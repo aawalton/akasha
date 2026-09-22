@@ -6,7 +6,7 @@ export const towerAttribute = {
   slug: "tower-attribute",
   definition: "a number for a persistent property of a character in the Tower",
   pluralSlug: "attributes",
-  extends: ["page-type/character-attribute"],
+  extends: ["page-type/metric-character-attribute"],
   parts: [
     "page-type/tower-finesse",
     "page-type/tower-intellect",

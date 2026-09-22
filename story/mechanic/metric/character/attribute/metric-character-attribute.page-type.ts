@@ -1,9 +1,9 @@
 import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
-export const characterAttribute = {
+export const metricCharacterAttribute = {
   id: "01a0c9f6-f0c6-7de0-acb3-6f5f9252d4e2",
   type: "page-type/page-type",
-  slug: "character-attribute",
+  slug: "metric-character-attribute",
   definition: "a number for a persistent property of a character",
   pluralSlug: "attributes",
   extends: ["page-type/metric-character"],

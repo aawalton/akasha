@@ -5,7 +5,7 @@ export const towerLevel = {
   type: "page-type/page-type",
   slug: "tower-level",
   definition: "how far a character in the Tower has come",
-  extends: ["page-type/character-attribute"],
+  extends: ["page-type/metric-character-attribute"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

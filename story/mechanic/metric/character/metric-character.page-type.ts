@@ -8,7 +8,7 @@ export const metricCharacter = {
   extends: ["page-type/metric"],
   parts: [
     "relation-property/metric-of-character",
-    "page-type/character-attribute",
+    "page-type/metric-character-attribute",
     "page-type/resource",
   ],
   properties: [
