@@ -4,7 +4,7 @@ export const pageEntryWriting = {
   id: "01a06196-4d21-7000-9c3a-2f5b8e1c4a70",
   type: "page-type/module",
   slug: "page-entry-writing",
-  definition: "the files a page's entry values are written into",
+  definition: "the files holding a page's entry values",
   code: "ts",
   test: "ts",
   decisions: [

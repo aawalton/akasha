@@ -4,7 +4,7 @@ export const deployJob = {
   id: "01a0a0f6-5662-7252-90e8-ea20b000453f",
   type: "page-type/module",
   slug: "deploy-job",
-  definition: "the job a deploy runs as, checked out in the cluster at the commit it is made at",
+  definition: "a deploy's job, checked out in the cluster at its own commit",
   code: "ts",
   test: "ts",
   allowsTmpPaths: true,

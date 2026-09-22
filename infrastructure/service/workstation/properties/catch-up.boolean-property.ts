@@ -5,7 +5,7 @@ export const catchUp = {
   type: "page-type/boolean-property",
   slug: "catch-up",
   propertySlug: "catch-up",
-  definition: "whether a timer runs for a time it was down for",
+  definition: "whether a timer runs for the time it was down",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

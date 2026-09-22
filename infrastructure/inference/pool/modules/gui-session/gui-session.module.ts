@@ -4,7 +4,7 @@ export const guiSession = {
   id: "01a0685d-4b35-7008-800a-b27956eea787",
   type: "page-type/module",
   slug: "gui-session",
-  definition: "whether a macOS host has a login session launchd can put an agent in",
+  definition: "whether launchd can put an agent in a macOS host's login session",
   code: "ts",
   decisions: [
     {

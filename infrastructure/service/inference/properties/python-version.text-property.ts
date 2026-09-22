@@ -5,7 +5,7 @@ export const pythonVersion = {
   type: "page-type/text-property",
   slug: "python-version",
   propertySlug: "python-version",
-  definition: "the python a service's environment is built with",
+  definition: "the python of a service's environment",
   maxLength: 20,
   nameFormat: null,
   types: "ts",

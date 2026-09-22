@@ -4,7 +4,7 @@ export const extensionCarrying = {
   id: "01a09147-a806-78c9-8f27-bf82ebbd41f2",
   type: "page-type/module",
   slug: "extension-carrying",
-  definition: "the files beside a page a property names by the extension they close with",
+  definition: "the files beside a page a property names by their extension",
   code: "ts",
   test: "ts",
   decisions: [

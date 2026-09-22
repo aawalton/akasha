@@ -4,7 +4,7 @@ export const cloudflared = {
   id: "01a06812-2380-7f97-866f-639c805cd645",
   type: "page-type/service-cluster",
   slug: "cloudflared",
-  definition: "the daemon holding the tunnel traffic reaches the cluster over",
+  definition: "the daemon holding the tunnel traffic takes to the cluster",
   resourceKind: "Deployment",
   namespace: "cloudflared",
   resourceName: "cloudflared",

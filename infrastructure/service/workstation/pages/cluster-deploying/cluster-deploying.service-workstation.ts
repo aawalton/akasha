@@ -4,7 +4,7 @@ export const clusterDeploying = {
   id: "01a095f5-2a3a-7cc4-a6d7-44beac4bc49a",
   type: "page-type/service-workstation",
   slug: "cluster-deploying",
-  definition: "the service putting the cluster kind up once a commit changes what it is built from",
+  definition: "the service putting the cluster kind up once a commit changes the kind's source",
   enabled: true,
   systemd: {
     schedule: "*:*:00",

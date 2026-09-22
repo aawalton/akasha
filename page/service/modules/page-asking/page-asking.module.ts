@@ -4,7 +4,7 @@ export const pageAsking = {
   id: "01a05a07-81e2-7f5f-a79f-e899fbe6699b",
   type: "page-type/module",
   slug: "page-asking",
-  definition: "a question put to the pages, and the rows it answers with",
+  definition: "a question put to the pages, and the rows answering it",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

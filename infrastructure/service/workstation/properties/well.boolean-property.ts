@@ -5,7 +5,7 @@ export const well = {
   type: "page-type/boolean-property",
   slug: "well",
   propertySlug: "well",
-  definition: "whether a service was running as it should when last looked at",
+  definition: "whether a service was running as it should at the last look",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
