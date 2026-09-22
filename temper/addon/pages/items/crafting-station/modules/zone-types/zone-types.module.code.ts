@@ -1,5 +1,4 @@
 import type { LIBRARY_INFO } from "akasha/temper/addon/pages/items/crafting-station/modules/zone-constants/zone-constants.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 export interface ZoneDataEntry {

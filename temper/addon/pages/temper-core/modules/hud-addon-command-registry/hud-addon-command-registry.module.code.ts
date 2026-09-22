@@ -1,5 +1,4 @@
 import type { TemperCommand } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-types/hud-addon-types.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export interface CommandRegistry {
   register: (this: void, command: TemperCommand) => undefined
