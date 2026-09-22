@@ -8,6 +8,7 @@ import {
   founded,
   pathFor,
   relating,
+  tracked,
   typed,
   wrote,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
@@ -54,7 +55,7 @@ function holding(root: string, kind: string, slug: string, id: string): string {
 test("an audit reads every path the index files rather than a change", () => {
   const root = rooted()
   holding(root, "domain", "held", ONE)
-  const said = domainIsNamedByAParent(root)
+  const said = domainIsNamedByAParent(tracked(root))
   expect(said.map((one) => one.path)).toEqual([HELD_AT])
   expect(said[0]?.reason).toContain("no page names `domain/held`")
 })
@@ -63,24 +64,24 @@ test("an audit lets a page some page names among its parts through", () => {
   const root = rooted()
   holding(root, "domain", "held", ONE)
   edging(root, ONE, "part-slugs", TWO, UP_AT)
-  expect(domainIsNamedByAParent(root)).toEqual([])
+  expect(domainIsNamedByAParent(tracked(root))).toEqual([])
 })
 
 test("an audit passes the whole over", () => {
   const root = rooted()
   holding(root, "domain", "akasha", ONE)
-  expect(domainIsNamedByAParent(root)).toEqual([])
+  expect(domainIsNamedByAParent(tracked(root))).toEqual([])
 })
 
 test("an audit passes over a page whose page type is outside domain", () => {
   const root = rooted()
   typed(root, "finding", "page")
   holding(root, "finding", "held", ONE)
-  expect(domainIsNamedByAParent(root)).toEqual([])
+  expect(domainIsNamedByAParent(tracked(root))).toEqual([])
 })
 
 test("an audit judges no file the index does not file a path for", () => {
   const root = rooted()
   filing(root, "domain", "held", ONE)
-  expect(domainIsNamedByAParent(root)).toEqual([])
+  expect(domainIsNamedByAParent(tracked(root))).toEqual([])
 })

@@ -1,3 +1,4 @@
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   loopsIn,
   takenIn,
@@ -5,7 +6,6 @@ import {
 import { parents } from "akasha/graph/predicate/pages/parents/parents.graph-predicate.ts"
 import { namesIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export const DOMAIN = "domain"
@@ -31,9 +31,9 @@ export function partsOf(value: Value | null): readonly string[] {
   return held === null || held === undefined ? [] : namesIn(held)
 }
 
-export function namersOf(shadow: Shadow, id: string): readonly string[] {
-  const held = shadow.index.idsNaming(id, PARTS)
-  return held.length === 0 ? shadow.index.idsNaming(id, PART_SLUGS) : held
+export function namersOf(paged: Paged, id: string): readonly string[] {
+  const held = paged.index.idsNaming(id, PARTS)
+  return held.length === 0 ? paged.index.idsNaming(id, PART_SLUGS) : held
 }
 
 function reasonFor(shown: string): string {
@@ -59,11 +59,11 @@ function loopReason(shown: string): string {
 
 export type Judging = (id: string, shown: string) => string | null
 
-export function judgingBy(shadow: Shadow): Judging {
+export function judgingBy(paged: Paged): Judging {
   return (id, shown) => {
-    const listed = shadow.index.listedById(id)
+    const listed = paged.index.listedById(id)
     if (listed === null) return reasonFor(shown)
-    const taken = takenIn(parents, [listed.path], { index: shadow.index })
+    const taken = takenIn(parents, [listed.path], { index: paged.index })
     const namers = taken.edges.filter((one) => one.to === listed.path)
     if (namers.length === 0) return reasonFor(shown)
     if (namers.length > ONE) return sharedReason(shown, namers.length)
