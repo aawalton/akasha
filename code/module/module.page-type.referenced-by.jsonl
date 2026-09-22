@@ -1152,7 +1152,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/as-object-record/as-object-record.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/as-record/as-record.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/assert-never/assert-never.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/badge-variant/badge-variant.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/base64-url/base64-url.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/bits-needed/bits-needed.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/chunk/chunk.module.ts"}

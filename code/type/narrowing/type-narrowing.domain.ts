@@ -12,7 +12,6 @@ export const typeNarrowing = {
     "module/as-object-record",
     "module/as-record",
     "module/assert-never",
-    "module/badge-variant",
     "module/base64-url",
     "module/bits-needed",
     "module/chunk",
