@@ -5,6 +5,6 @@ export const charactersScribingSourceTable = {
   type: "page-type/module",
   slug: "characters-scribing-source-table",
   definition:
-    "the runs of content each scribing script is earned from, and their tier achievements",
+    "the sets of content each scribing script is earned from, and their tier achievements",
   code: "ts",
 } as const satisfies Module
