@@ -4,7 +4,7 @@ export const arrayReduceRight = {
   id: "01a08c5d-7e26-7bb8-abac-05805fff764f",
   type: "page-type/lualib-helper",
   slug: "array-reduce-right",
-  definition: "an array folded from its end into a value",
+  definition: "an array folded from its end into one value",
   code: "ts",
   luaExport: "__TS__ArrayReduceRight",
 } as const satisfies LualibHelper

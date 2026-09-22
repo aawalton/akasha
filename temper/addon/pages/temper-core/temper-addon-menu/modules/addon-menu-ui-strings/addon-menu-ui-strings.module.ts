@@ -4,7 +4,7 @@ export const addonMenuUiStrings = {
   id: "01a06100-0000-7000-8000-000000000011",
   type: "page-type/module",
   slug: "addon-menu-ui-strings",
-  definition: "the English display strings of the library, written out as a table",
+  definition: "the English display strings of the library, written out as one table",
   code: "ts",
   decisions: [
     {

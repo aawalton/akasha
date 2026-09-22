@@ -4,7 +4,7 @@ export const setsCoreApiSetNames = {
   id: "01a06231-8f1d-7810-a653-0c0cdf32ad4b",
   type: "page-type/module",
   slug: "sets-core-api-set-names",
-  definition: "a set's name in a language, in every language, or every set's names at once",
+  definition: "a set's name in one language, in every language, or every set's names at once",
   code: "ts",
   decisions: [
     {

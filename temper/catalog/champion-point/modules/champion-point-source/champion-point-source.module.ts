@@ -4,7 +4,7 @@ export const championPointSource = {
   id: "01a06076-1b65-7228-8994-fbce92968c6f",
   type: "page-type/module",
   slug: "champion-point-source",
-  definition: "every champion star a character can earn, gathered into a table",
+  definition: "every champion star a character can earn, gathered into one table",
   code: "ts",
   decisions: [
     {

@@ -7,7 +7,7 @@ export const movePagesUnder = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
-  definition: "every page of a type carried under the page that page names, in a call",
+  definition: "every page of a type carried under the page that page names, in one call",
   takesAtMost: true,
   code: "ts",
   test: "ts",
