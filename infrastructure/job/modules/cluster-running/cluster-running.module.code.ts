@@ -51,7 +51,7 @@ const JOB = "Job"
 
 const CLASS = "ci"
 
-const FASTEST = "node-06"
+export const FASTEST = "node-06"
 
 const MOST = 100
 

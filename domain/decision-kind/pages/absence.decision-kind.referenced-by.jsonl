@@ -1461,6 +1461,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/persist-audio/persist-audio.module.ts","id":"01a0685d-4b35-7012-8f89-7a4a724dd167"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/persist-media/persist-media.module.ts","id":"01a0685d-4b35-7011-b5f2-eee71f6ba3fd"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-infer/voice-infer.manifest.ts","id":"01a0736f-e7a5-75ee-bda8-4298c8084c5b"}
+{"propertySlug":"decision-kind","path":"infrastructure/job/audit-cache/audit-cache.manifest.ts","id":"01a0c9e0-5e63-78a2-81a4-4455fdecc1f6"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/modules/cluster-running/cluster-running.module.ts","id":"01a0aabf-f39f-7e07-9230-1008e8f32320"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.ts","id":"01a0a102-c51d-75a9-8995-8d088708ee8d"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/modules/deploy-job/deploy-job.module.ts","id":"01a0a0f6-5662-7252-90e8-ea20b000453f"}

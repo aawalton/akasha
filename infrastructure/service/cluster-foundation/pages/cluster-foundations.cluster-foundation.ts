@@ -11,5 +11,6 @@ export const clusterFoundations = {
     "manifest/cluster-reach-synth",
     "manifest/deploy-account",
     "manifest/metallb-synth",
+    "manifest/audit-cache",
   ],
 } as const satisfies ClusterFoundation

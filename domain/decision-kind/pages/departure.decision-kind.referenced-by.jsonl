@@ -2718,6 +2718,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/store/inference-run-store.module.ts","id":"01a0685d-4b35-7014-819a-3402c8830118"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-inference.domain.ts","id":"01a06815-9efd-701e-a4d4-a26f49e97554"}
 {"propertySlug":"decision-kind","path":"infrastructure/infrastructure.domain.ts","id":"01a0658b-0f02-735b-af6a-28559398ee59"}
+{"propertySlug":"decision-kind","path":"infrastructure/job/audit-cache/audit-cache.manifest.ts","id":"01a0c9e0-5e63-78a2-81a4-4455fdecc1f6"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/deploy-account/deploy-account.manifest.ts","id":"01a0a162-b114-7eb3-b2ed-f34d8ef02c1d"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/job.domain.ts","id":"01a0675b-16eb-7759-adf7-dac753ca5b98"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/modules/cluster-running/cluster-running.module.ts","id":"01a0aabf-f39f-7e07-9230-1008e8f32320"}

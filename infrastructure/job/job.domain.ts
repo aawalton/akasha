@@ -16,6 +16,7 @@ export const job = {
     "module/deploy-job",
     "module/deploy-job-running",
     "module/run-in-cluster",
+    "manifest/audit-cache",
   ],
   decisions: [
     {
