@@ -16,7 +16,11 @@ export const freeRelativePronoun = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A word here names a thing, a place or a person.",
+      statement: "A word here names a thing, a place, a person or a way.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A word here written before an adjective does another job, named on no page yet.",
     },
   ],
 } as const satisfies PartOfSpeech
