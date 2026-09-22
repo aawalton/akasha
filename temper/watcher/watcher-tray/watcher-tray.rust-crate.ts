@@ -7,6 +7,7 @@ export const watcherTray = {
   definition: "the Windows tray program keeping Temper's SavedVariables worker running",
   cargoManifest: "toml",
   cargoBuildScript: "rs",
+  gitIgnore: "gitignore",
   icon: "json",
   modules: [
     "rust-module/watcher-tray-installer",
