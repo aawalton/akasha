@@ -12,5 +12,5 @@ export const theThreeAndAHalfMonthsOnTheRoad = {
     "all-about-alan-topic/the-punishments-i-could-not-see-coming",
   ],
   settled:
-    "My dad was a children's book author, so he had the idea of a family trip paid for by doing school visits.\n\nIt ended up being three and a half months. We started in upstate New York, followed the turning of the leaves down to Florida, then came home.\n\nIt took the first semester of high school.",
+    "My dad was a children's book author, so he had the idea of a family trip paid for by doing school visits.\n\nIt ended up being three and a half months. We started in upstate New York, followed the turning of the leaves down to Florida, then came home.\n\nIt took the first semester of high school.\n\nI was in the room for the visits. Pokemon had just come out, so I traded first edition Pokemon cards with the other kids.\n\nMy parents offered me a dollar for every chapter of maths I completed while we were travelling. I finished all of high school maths, and spent the money on Pokemon cards and a branded Pokemon Yellow Game Boy with the game.",
 } as const satisfies AllAboutAlanTopic
