@@ -75,5 +75,20 @@ export const memoryLimit = {
       decisionKind: "decision-kind/gap",
       statement: "Every memory limit is the value of a page property.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A metered run sits beside the container, so the pod's limit holds it rather than the container's.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "No `OOMKilled` mark rules out an end of the container and not one of the metered work beside it.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "What a metered run spends is in neither cadvisor's numbers nor `kubectl top pod`.",
+    },
   ],
 } as const satisfies Domain
