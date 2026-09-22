@@ -14,6 +14,7 @@ import {
   modelOf,
 } from "akasha/agent/model/test/modules/running/model-test-running.module.code.ts"
 import {
+  type Directive,
   directiveKept,
   directivesIn,
   type Putter,
@@ -58,6 +59,12 @@ const PERSON = "person"
 const ID = "id"
 
 const DIRECTIVES = "directives"
+
+const ROLE = "role"
+
+const INTERVIEWER = "interviewer"
+
+const DONT_STOP = "Don't Stop!"
 
 const STOP_GATES = "stop-gates"
 
@@ -158,6 +165,7 @@ export const SCOPE: readonly string[] = [
   "  a turn the agent closed with a tool call and no words.",
   "  a stop this hook held open already.",
   "  a turn ending while a subagent or a background command the seat started is still to report.",
+  "  the rule against stopping, under a seat whose role is interviewer.",
   "  what a subagent wrote.",
   "  any tool call, and any event but `Stop`.",
   "",
@@ -167,13 +175,29 @@ export const SCOPE: readonly string[] = [
   "A rule answered yes on is kept beside the test that asked it, with the turn and the answer.",
 ]
 
-export function personIn(listed: readonly Valued[], agent: string): string | null {
+function namedIn(listed: readonly Valued[], agent: string, key: string): string | null {
   for (const one of listed) {
     if (one.value[ID] !== agent) continue
-    const held = one.value[PERSON]
+    const held = one.value[key]
     return typeof held === "string" && held !== "" ? slugOf(held) : null
   }
   return null
+}
+
+export function personIn(listed: readonly Valued[], agent: string): string | null {
+  return namedIn(listed, agent, PERSON)
+}
+
+export function roleIn(listed: readonly Valued[], agent: string): string | null {
+  return namedIn(listed, agent, ROLE)
+}
+
+export function judgedFor(
+  directives: readonly Directive[],
+  role: string | null
+): readonly Directive[] {
+  if (role !== INTERVIEWER) return directives
+  return directives.filter((one) => one.name !== DONT_STOP)
 }
 
 export function stillWorking(running: readonly SubagentNode[], working: TurnWorking): boolean {
@@ -200,12 +224,14 @@ export function holding(asking: readonly Putting[], answers: readonly string[] |
 }
 
 function judging(root: string, agent: string, asked: string, turn: string): Answer {
-  const person = personIn(valuesOfType(root, SEAT) as readonly Valued[], agent)
+  const seats = valuesOfType(root, SEAT) as readonly Valued[]
+  const person = personIn(seats, agent)
   if (person === null) {
     noting(root, agent, GATES.person)
     return LET_THROUGH
   }
-  const directives = directivesIn(valuedAt(root, PERSON, person).value[DIRECTIVES])
+  const stated = directivesIn(valuedAt(root, PERSON, person).value[DIRECTIVES])
+  const directives = judgedFor(stated, roleIn(seats, agent))
   if (directives.length === 0) {
     noting(root, agent, GATES.rule)
     return LET_THROUGH

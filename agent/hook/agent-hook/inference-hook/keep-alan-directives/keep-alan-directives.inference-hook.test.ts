@@ -3,18 +3,24 @@ import {
   GATES,
   holding,
   JUDGES,
+  judgedFor,
   lineFor,
   personIn,
   positiveFor,
+  roleIn,
   SCOPE,
   stillWorking,
   type Valued,
 } from "akasha/agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"
 import { ASIDE, REFUSED } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
-import type {
-  Directive,
-  Putting,
+import {
+  type Directive,
+  directivesIn,
+  type Putting,
 } from "akasha/agent/model/test/pages/directive-kept/directive-kept.model-test.code.ts"
+import { interviewer } from "akasha/agent/role/pages/interviewer.role.ts"
+import { worker } from "akasha/agent/role/pages/worker.role.ts"
+import { role } from "akasha/agent/role/role.page-type.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import { person } from "akasha/person/person.page-type.ts"
@@ -101,6 +107,59 @@ test("a rule no judge here names is put to the model by nobody", () => {
   expect(
     JUDGES.flatMap((judge) => judge({ ...TURN, directives: [ruleNamed("Act By Default")] }))
   ).toEqual([])
+})
+
+const INTERVIEWER_AT = `${role.slug}/${interviewer.slug}` as const
+
+const WORKER_AT = `${role.slug}/${worker.slug}` as const
+
+const ROLED: readonly Valued[] = [
+  { path: "one.seat.ts", value: { id: "a", person: ALAN_AT, role: INTERVIEWER_AT } },
+  { path: "two.seat.ts", value: { id: "b", person: ALAN_AT, role: WORKER_AT } },
+  { path: "three.seat.ts", value: { id: "c", person: ALAN_AT } },
+]
+
+test("the role a seat answers for is read off the seat the agent runs under", () => {
+  expect(roleIn(ROLED, "a")).toBe(interviewer.slug)
+  expect(roleIn(ROLED, "b")).toBe(worker.slug)
+})
+
+test("a seat naming no role answers nothing", () => {
+  expect(roleIn(ROLED, "c")).toBeNull()
+  expect(roleIn(ROLED, "d")).toBeNull()
+})
+
+test("an interviewer is judged by every rule but the one against stopping", () => {
+  expect(judgedFor(HELD, interviewer.slug).map((one) => one.name)).toEqual([
+    "Neither Clock Nor Meter",
+    "One At A Time",
+    "No Commentary",
+  ])
+})
+
+test("a seat in any other role is judged by the rule against stopping as before", () => {
+  expect(judgedFor(HELD, worker.slug)).toEqual(HELD)
+  expect(judgedFor(HELD, null)).toEqual(HELD)
+})
+
+test("no judge puts the rule against stopping under an interviewer", () => {
+  const put = JUDGES.flatMap((judge) =>
+    judge({ ...TURN, directives: judgedFor(HELD, interviewer.slug) })
+  )
+  expect(put.map((one) => one.about)).toEqual([
+    "Neither Clock Nor Meter",
+    "One At A Time",
+    "No Commentary",
+    "No Commentary",
+  ])
+})
+
+test("the rule Alan states against stopping is the one an interviewer drops", () => {
+  const stated = directivesIn(alan.directives)
+  expect(stated.map((one) => one.name)).toContain("Don't Stop!")
+  expect(judgedFor(stated, interviewer.slug).map((one) => one.name)).not.toContain("Don't Stop!")
+  expect(judgedFor(stated, worker.slug).map((one) => one.name)).toContain("Don't Stop!")
+  expect(judgedFor(stated, interviewer.slug)).toHaveLength(stated.length - 1)
 })
 
 test("each judge puts what was asked and what was written beside its rule", () => {

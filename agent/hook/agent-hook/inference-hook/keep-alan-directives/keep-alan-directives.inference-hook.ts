@@ -35,6 +35,18 @@ export const keepAlanDirectives = {
       statement: "A seat answering to no person is left alone.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "An interview ends every turn by handing back to the person and waiting.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The rule against stopping is not judged under a seat whose role is interviewer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other rule is judged under such a seat as under any other.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A turn the agent closed without words is left alone.",
     },
