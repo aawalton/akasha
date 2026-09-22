@@ -7,4 +7,5 @@ export const theTowerHoodedLantern = {
   title: "Hooded lantern (lit)",
   story: "story-played/the-tower",
   character: "character-player/the-tower-alan",
+  description: "A hooded iron lantern, burning steady, throwing a directional beam.",
 } as const satisfies Item

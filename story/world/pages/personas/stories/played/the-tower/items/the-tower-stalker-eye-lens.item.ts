@@ -7,4 +7,6 @@ export const theTowerStalkerEyeLens = {
   title: "Stalker eye-lens",
   story: "story-played/the-tower",
   character: "character-player/the-tower-alan",
+  description:
+    "A clouded crystalline lens, cold to the touch, that drinks light rather than throwing it back.",
 } as const satisfies Item
