@@ -205,21 +205,21 @@ lib.GetSetType = getSetType
 
 function getSetTypeName(
   this: void,
-  libSetsSetType: number | undefined,
+  setsSetType: number | undefined,
   lang?: string
 ): string | undefined {
-  if (libSetsSetType === undefined) {
+  if (setsSetType === undefined) {
     return undefined
   }
   const langResolved = lib.LangAllowedCheck(lang)
-  const allowedLibSetsSetTypes = lib.allowedSetTypes
-  const allowedSetType = allowedLibSetsSetTypes[libSetsSetType] ?? false
+  const allowedSetsSetTypes = lib.allowedSetTypes
+  const allowedSetType = allowedSetsSetTypes[setsSetType] ?? false
   if (!allowedSetType) {
     return undefined
   }
   let setTypeName: string | undefined
-  const libSetsSetTypeNames = lib.setTypesToName
-  const setTypeNameAllLang = asLangStringMapOpt(libSetsSetTypeNames[libSetsSetType])
+  const setsSetTypeNames = lib.setTypesToName
+  const setTypeNameAllLang = asLangStringMapOpt(setsSetTypeNames[setsSetType])
   if (setTypeNameAllLang !== undefined && setTypeNameAllLang[langResolved] !== undefined) {
     setTypeName = setTypeNameAllLang[langResolved]
   }

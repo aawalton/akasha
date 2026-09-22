@@ -65,15 +65,15 @@ function loadSets(this: void): undefined {
   if (setTypeToLibraryInternalVariableNames === undefined) {
     return
   }
-  for (const [, libSetsSetTypeVariableData] of pairs(setTypeToLibraryInternalVariableNames)) {
-    if (libSetsSetTypeVariableData !== undefined) {
-      const libSetsSetTypeTableVariable = libSetsSetTypeVariableData["tableName"]
-      const libSetsSetTypeCounterVariable = libSetsSetTypeTableVariable + counterSuffix
-      if (libSetsSetTypeTableVariable !== undefined) {
-        libDyn[libSetsSetTypeTableVariable] = {}
+  for (const [, setsSetTypeVariableData] of pairs(setTypeToLibraryInternalVariableNames)) {
+    if (setsSetTypeVariableData !== undefined) {
+      const setsSetTypeTableVariable = setsSetTypeVariableData["tableName"]
+      const setsSetTypeCounterVariable = setsSetTypeTableVariable + counterSuffix
+      if (setsSetTypeTableVariable !== undefined) {
+        libDyn[setsSetTypeTableVariable] = {}
       }
-      if (libSetsSetTypeCounterVariable !== undefined) {
-        libDyn[libSetsSetTypeCounterVariable] = 0
+      if (setsSetTypeCounterVariable !== undefined) {
+        libDyn[setsSetTypeCounterVariable] = 0
       }
     }
   }
@@ -86,14 +86,14 @@ function loadSets(this: void): undefined {
     checkSetTypeAndUpdateLibTablesAndCounters(asSetIdToStrRecord(noSetIdSets), state)
   }
 
-  for (const [libSetsSetType, libSetsSetTypeVariableData] of pairs(
+  for (const [setsSetType, setsSetTypeVariableData] of pairs(
     setTypeToLibraryInternalVariableNames
   )) {
-    if (libSetsSetTypeVariableData !== undefined) {
-      const libSetsSetTypeTableVariable = libSetsSetTypeVariableData["tableName"]
-      if (libSetsSetTypeTableVariable !== undefined) {
-        asNumKeyTable(lib.setTypeToSetIdsForSetTypeTable)[libSetsSetType] =
-          libDyn[libSetsSetTypeTableVariable]
+    if (setsSetTypeVariableData !== undefined) {
+      const setsSetTypeTableVariable = setsSetTypeVariableData["tableName"]
+      if (setsSetTypeTableVariable !== undefined) {
+        asNumKeyTable(lib.setTypeToSetIdsForSetTypeTable)[setsSetType] =
+          libDyn[setsSetTypeTableVariable]
       }
     }
   }

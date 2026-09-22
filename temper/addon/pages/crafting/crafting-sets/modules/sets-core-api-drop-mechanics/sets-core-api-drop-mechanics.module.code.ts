@@ -24,14 +24,14 @@ const removeLanguages = asRemoveLanguagesFullFn(slots["_removeLanguages"])
 
 function getDropMechanicName(
   this: void,
-  libSetsDropMechanicId: number | undefined,
+  setsDropMechanicId: number | undefined,
   lang?: string
 ): LuaMultiReturn<[string | undefined, string | undefined]> {
-  if (libSetsDropMechanicId === undefined || libSetsDropMechanicId <= 0) {
+  if (setsDropMechanicId === undefined || setsDropMechanicId <= 0) {
     return $multi(undefined, undefined)
   }
   const allowedDropMechanics = lib.allowedDropMechanics
-  if (!allowedDropMechanics[libSetsDropMechanicId]) {
+  if (!allowedDropMechanics[setsDropMechanicId]) {
     return $multi(undefined, undefined)
   }
   const langResolved = lib.LangAllowedCheck(lang)
@@ -40,8 +40,8 @@ function getDropMechanicName(
   if (dropMechanicNames === undefined || dropMechanicTooltipNames === undefined) {
     return $multi(undefined, undefined)
   }
-  const dropMechanicName = dropMechanicNames[libSetsDropMechanicId]
-  const dropMechanicTooltip = dropMechanicTooltipNames[libSetsDropMechanicId]
+  const dropMechanicName = dropMechanicNames[setsDropMechanicId]
+  const dropMechanicTooltip = dropMechanicTooltipNames[setsDropMechanicId]
   if (dropMechanicName === undefined || dropMechanicName === "") {
     return $multi(undefined, undefined)
   }

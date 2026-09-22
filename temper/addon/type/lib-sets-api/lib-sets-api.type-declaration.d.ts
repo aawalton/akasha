@@ -142,18 +142,14 @@ interface SetsApi {
 
   GetTraitsNeeded: (this: void, setId: number | undefined) => unknown
 
-  GetSetTypeName: (
-    this: void,
-    libSetsSetType: number | undefined,
-    lang?: string
-  ) => string | undefined
+  GetSetTypeName: (this: void, setsSetType: number | undefined, lang?: string) => string | undefined
   GetAllSetTypes: (this: void) => unknown
 }
 
 interface SetsApi {
   GetDropMechanicName: (
     this: void,
-    libSetsDropMechanicId: number | undefined,
+    setsDropMechanicId: number | undefined,
     lang?: string
   ) => LuaMultiReturn<[string | undefined, string | undefined]>
   GetDropMechanic: (
