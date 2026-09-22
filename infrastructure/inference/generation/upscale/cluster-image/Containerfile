@@ -69,9 +69,10 @@ RUN cd /app/ComfyUI/custom_nodes && \
     ( [ -f requirements.txt ] && sed -i -E '/^(torch|torchvision|torchaudio)([<>=!~ ]|$)/d' requirements.txt || true ) && \
     ( [ -f requirements.txt ] && pip install --no-cache-dir -r requirements.txt || true )
 
-# Weight provision (huggingface_hub) + corpus staging (boto3 -> SeaweedFS S3) run
-# INSIDE the Job; both clients live in the image. hf_transfer speeds any HF pull.
-RUN pip install --no-cache-dir "huggingface_hub[hf_transfer]" boto3
+# Weight provision (huggingface_hub) runs INSIDE the Job, so that client lives in
+# the image. hf_transfer speeds any HF pull. The Job trades its bytes with the page
+# service over plain HTTP, so no S3 client is installed.
+RUN pip install --no-cache-dir "huggingface_hub[hf_transfer]"
 
 ENV HF_HUB_ENABLE_HF_TRANSFER=1
 ENV PYTORCH_ALLOC_CONF=expandable_segments:True
