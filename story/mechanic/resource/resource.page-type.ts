@@ -10,7 +10,7 @@ export const resource = {
     "number-property/resource-max-value",
     "number-property/resource-min-value",
     "number-property/resource-value",
-    "page-type/health",
+    "page-type/tower-health",
     "page-type/mana",
     "page-type/stamina",
   ],
