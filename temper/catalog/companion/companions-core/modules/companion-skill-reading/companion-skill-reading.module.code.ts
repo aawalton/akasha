@@ -13,7 +13,7 @@ const KINDS: readonly CompanionSkillKind[] = ["active", "passive", "ultimate"]
 
 const ROLES: readonly CompanionSkillRole[] = ["dps", "healer", "tank", "support"]
 
-export function rowIn(said: unknown): unknown {
+function rowIn(said: unknown): unknown {
   if (said === null || typeof said !== "object") return {}
   const held: Record<string, unknown> = { ...(said as Record<string, unknown>) }
   delete held.id

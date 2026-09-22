@@ -49,10 +49,6 @@ export function companionCatalog(): CompanionCatalog {
   return held
 }
 
-export function companionCatalogRead(): boolean {
-  return held !== null
-}
-
 export interface CompanionTable<Held> {
   readonly data: Readonly<Record<string, Held>>
   readonly ids: readonly string[]
@@ -67,16 +63,6 @@ export function companionSkills(): CompanionTable<CompanionSkillTemplate> {
     ids: catalog.skillIds,
     list: catalog.skills,
     has: (id) => catalog.skillsById[id] !== undefined,
-  }
-}
-
-export function companionSkillLines(): CompanionTable<CompanionSkillLineTemplate> {
-  const catalog = companionCatalog()
-  return {
-    data: catalog.skillLinesById,
-    ids: catalog.skillLines.map((line) => line.id),
-    list: catalog.skillLines,
-    has: (id) => catalog.skillLinesById[id] !== undefined,
   }
 }
 
