@@ -10,7 +10,7 @@ export const awenEngineImprovements = {
     {
       statement: "A game is made of pages rather than rows holding whole documents.",
       workingMemory:
-        "The state is pages. A `game-turn` page carries the system windows a turn raised, the pools as the turn left them with the most each held, the numbers the mechanics worked out, and the rung each skill had reached; turn 88 carries all of it. Alan's page carries his sheet. Left: `played-shell` still reads the last row of `states.jsonl`; it is to read the last turn page and the player's page instead, and then the rows go.\n",
+        "Every row holding a whole document is gone: `states`, `turns`, `entities`, `characters`, `tower-floors` and `tower-sessions`, and the command that read them. A `game-turn` page carries what a turn raised, spent, worked out and reached; a `game-quest` page carries a quest; the played story reads its state off those and the player's page through `turn-state`. Left: see the tower's played page draw from pages once `alan-web` is deployed, then take this intent off.\n",
     },
   ],
 } as const satisfies Initiative
