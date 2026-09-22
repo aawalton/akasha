@@ -6,6 +6,7 @@ export const generalFultoolm = {
   slug: "general-fultoolm",
   title: "General Fultoolm",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 410,
   lastChapter: 410,
   characterClaims: "jsonl",

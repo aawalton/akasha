@@ -6,6 +6,7 @@ export const highMage = {
   slug: "high-mage",
   title: "the High Mage",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 12,
   lastChapter: 12,
   characterClaims: "jsonl",

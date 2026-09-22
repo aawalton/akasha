@@ -6,6 +6,7 @@ export const guildMasterPessia = {
   slug: "guild-master-pessia",
   title: "Guild Master Pessia",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 112,
   lastChapter: 112,
   characterClaims: "jsonl",

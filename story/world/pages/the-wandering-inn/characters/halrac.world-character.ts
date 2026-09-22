@@ -6,6 +6,7 @@ export const halrac = {
   slug: "halrac",
   title: "Halrac",
   world: "world/the-wandering-inn",
+  appearanceCount: 37,
   firstChapter: 94,
   lastChapter: 758,
   characterClaims: "jsonl",

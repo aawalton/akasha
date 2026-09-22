@@ -6,6 +6,7 @@ export const geilouna = {
   slug: "geilouna",
   title: "Geilouna Desoyvel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 503,
   lastChapter: 503,
   characterClaims: "jsonl",

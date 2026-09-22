@@ -6,6 +6,7 @@ export const fourthMind = {
   slug: "fourth-mind",
   title: "Fourth Mind",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 617,
   lastChapter: 617,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const inreza = {
   slug: "inreza",
   title: "Inreza",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   maxLevel: 61,
   eventCount: 1,
   firstChapter: 543,

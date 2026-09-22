@@ -6,6 +6,7 @@ export const gamurTheAxe = {
   slug: "gamur-the-axe",
   title: "Gamur",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 660,
   lastChapter: 661,
   characterClaims: "jsonl",

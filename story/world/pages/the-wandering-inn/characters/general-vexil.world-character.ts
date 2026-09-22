@@ -6,6 +6,7 @@ export const generalVexil = {
   slug: "general-vexil",
   title: "Vexil",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 512,
   lastChapter: 512,
   characterClaims: "jsonl",

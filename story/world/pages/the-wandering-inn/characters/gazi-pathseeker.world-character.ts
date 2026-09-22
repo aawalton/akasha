@@ -6,6 +6,7 @@ export const gaziPathseeker = {
   slug: "gazi-pathseeker",
   title: "Gazi Pathseeker",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   firstChapter: 41,
   lastChapter: 559,
   characterClaims: "jsonl",

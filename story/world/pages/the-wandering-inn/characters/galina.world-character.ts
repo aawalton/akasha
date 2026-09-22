@@ -6,6 +6,7 @@ export const galina = {
   slug: "galina",
   title: "Galina",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 109,
   lastChapter: 441,
   characterClaims: "jsonl",

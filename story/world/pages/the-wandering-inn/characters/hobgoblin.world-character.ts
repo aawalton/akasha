@@ -6,6 +6,7 @@ export const hobgoblin = {
   slug: "hobgoblin",
   title: "mysterious Goblin companion",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 114,
   lastChapter: 114,
   characterClaims: "jsonl",

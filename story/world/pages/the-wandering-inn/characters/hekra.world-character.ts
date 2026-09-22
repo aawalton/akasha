@@ -6,6 +6,7 @@ export const hekra = {
   slug: "hekra",
   title: "Hekra",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 106,
   lastChapter: 107,
   characterClaims: "jsonl",

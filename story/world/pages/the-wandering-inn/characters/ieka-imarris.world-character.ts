@@ -6,6 +6,7 @@ export const iekaImarris = {
   slug: "ieka-imarris",
   title: "Ieka Imarris",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 430,
   lastChapter: 664,
   characterClaims: "jsonl",

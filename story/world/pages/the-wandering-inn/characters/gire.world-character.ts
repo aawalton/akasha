@@ -6,6 +6,7 @@ export const gire = {
   slug: "gire",
   title: "Gireulashia",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 521,
   lastChapter: 584,
   characterClaims: "jsonl",

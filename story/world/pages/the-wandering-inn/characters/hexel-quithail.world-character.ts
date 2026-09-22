@@ -6,6 +6,7 @@ export const hexelQuithail = {
   slug: "hexel-quithail",
   title: "Hexel Quithail",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 421,
   lastChapter: 424,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const imenetFalse = {
   slug: "imenet-false",
   title: "skeleton mage in disguise",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 211,
   lastChapter: 211,
   characterClaims: "jsonl",

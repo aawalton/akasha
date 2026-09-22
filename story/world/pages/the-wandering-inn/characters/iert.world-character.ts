@@ -6,6 +6,7 @@ export const iert = {
   slug: "iert",
   title: "Iert",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 487,
   lastChapter: 487,
   characterClaims: "jsonl",

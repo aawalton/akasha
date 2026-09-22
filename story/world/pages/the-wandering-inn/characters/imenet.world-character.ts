@@ -6,6 +6,7 @@ export const imenet = {
   slug: "imenet",
   title: "Imenet",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 212,
   lastChapter: 212,
   characterClaims: "jsonl",

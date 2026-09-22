@@ -6,6 +6,7 @@ export const grandDesign = {
   slug: "grand-design",
   title: "The Grand Design of Isthekenous",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 674,
   lastChapter: 764,
   characterClaims: "jsonl",

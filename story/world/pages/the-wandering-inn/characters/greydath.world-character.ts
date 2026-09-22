@@ -6,6 +6,7 @@ export const greydath = {
   slug: "greydath",
   title: "Greybeard",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 225,
   lastChapter: 686,
   characterClaims: "jsonl",

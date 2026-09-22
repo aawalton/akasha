@@ -6,6 +6,7 @@ export const halracEveram = {
   slug: "halrac-everam",
   title: "Halrac Everam",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   maxLevel: 36,
   eventCount: 8,
   firstChapter: 153,

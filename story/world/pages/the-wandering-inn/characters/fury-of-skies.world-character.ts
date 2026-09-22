@@ -6,6 +6,7 @@ export const furyOfSkies = {
   slug: "fury-of-skies",
   title: "Fury of Skies",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 402,
   lastChapter: 402,
   characterClaims: "jsonl",

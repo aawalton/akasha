@@ -6,6 +6,7 @@ export const goblinPack = {
   slug: "goblin-pack",
   title: "deformed humanoid creatures",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 2,
   lastChapter: 2,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const heic = {
   slug: "heic",
   title: "Heic",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 370,
   lastChapter: 370,
   characterClaims: "jsonl",

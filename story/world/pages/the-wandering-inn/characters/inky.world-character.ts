@@ -6,6 +6,7 @@ export const inky = {
   slug: "inky",
   title: "Inky",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 417,
   lastChapter: 417,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const geramRedfist = {
   slug: "geram-redfist",
   title: "Geram Redfist",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 221,
   lastChapter: 221,
   characterClaims: "jsonl",

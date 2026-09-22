@@ -6,6 +6,7 @@ export const geomancerLevel36 = {
   slug: "geomancer-level-36",
   title: "the Geomancer",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 181,
   lastChapter: 181,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const iraz = {
   slug: "iraz",
   title: "Iraz",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 485,
   lastChapter: 585,
   characterClaims: "jsonl",

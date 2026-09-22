@@ -6,6 +6,7 @@ export const galei = {
   slug: "galei",
   title: "Galei",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 431,
   lastChapter: 431,
   characterClaims: "jsonl",

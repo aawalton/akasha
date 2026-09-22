@@ -6,6 +6,7 @@ export const hedag = {
   slug: "hedag",
   title: "Hedag",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 351,
   lastChapter: 611,
   characterClaims: "jsonl",

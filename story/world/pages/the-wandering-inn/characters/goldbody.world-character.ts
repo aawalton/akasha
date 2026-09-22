@@ -6,6 +6,7 @@ export const goldbody = {
   slug: "goldbody",
   title: "Goldbody",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 728,
   lastChapter: 763,
   characterClaims: "jsonl",

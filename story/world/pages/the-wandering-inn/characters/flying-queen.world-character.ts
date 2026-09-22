@@ -6,6 +6,7 @@ export const flyingQueen = {
   slug: "flying-queen",
   title: "Flying Queen",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 394,
   lastChapter: 805,
   characterClaims: "jsonl",

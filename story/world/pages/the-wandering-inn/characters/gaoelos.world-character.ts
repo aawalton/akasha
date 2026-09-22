@@ -6,6 +6,7 @@ export const gaoelos = {
   slug: "gaoelos",
   title: "Captain Gaoelos",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 600,
   lastChapter: 600,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const greybeard = {
   slug: "greybeard",
   title: "the old Goblin",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 155,
   lastChapter: 232,
   characterClaims: "jsonl",

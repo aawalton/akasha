@@ -6,6 +6,7 @@ export const gloriamTheInvincible = {
   slug: "gloriam-the-invincible",
   title: "Gloriam the Invincible",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 576,
   lastChapter: 576,
   characterClaims: "jsonl",

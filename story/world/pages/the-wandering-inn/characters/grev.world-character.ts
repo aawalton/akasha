@@ -6,6 +6,7 @@ export const grev = {
   slug: "grev",
   title: "Grev",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   firstChapter: 119,
   lastChapter: 413,
   characterClaims: "jsonl",

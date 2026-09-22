@@ -6,6 +6,7 @@ export const guildMasterJekra = {
   slug: "guild-master-jekra",
   title: "Guild Master Jekra",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 112,
   lastChapter: 112,
   characterClaims: "jsonl",

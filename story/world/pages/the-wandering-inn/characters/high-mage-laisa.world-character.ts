@@ -6,6 +6,7 @@ export const highMageLaisa = {
   slug: "high-mage-laisa",
   title: "Laisa",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 437,
   lastChapter: 437,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const grimalkin = {
   slug: "grimalkin",
   title: "Grimalkin",
   world: "world/the-wandering-inn",
+  appearanceCount: 36,
   firstChapter: 320,
   lastChapter: 804,
   characterClaims: "jsonl",

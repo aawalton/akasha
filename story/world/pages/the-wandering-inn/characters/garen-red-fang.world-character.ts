@@ -6,6 +6,7 @@ export const garenRedFang = {
   slug: "garen-red-fang",
   title: "Garen Red Fang",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 108,
   lastChapter: 111,
   characterClaims: "jsonl",

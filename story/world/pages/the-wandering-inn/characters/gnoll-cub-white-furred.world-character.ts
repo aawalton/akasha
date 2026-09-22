@@ -6,6 +6,7 @@ export const gnollCubWhiteFurred = {
   slug: "gnoll-cub-white-furred",
   title: "Gnoll cub",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 111,
   lastChapter: 111,
   characterClaims: "jsonl",

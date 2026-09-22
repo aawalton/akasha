@@ -6,6 +6,7 @@ export const gireulashia = {
   slug: "gireulashia",
   title: "Gireulashia",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   firstChapter: 543,
   lastChapter: 637,
   characterClaims: "jsonl",

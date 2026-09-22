@@ -6,6 +6,7 @@ export const hastelFoal = {
   slug: "hastel-foal",
   title: "Hastel's foal",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 317,
   lastChapter: 317,
   characterClaims: "jsonl",

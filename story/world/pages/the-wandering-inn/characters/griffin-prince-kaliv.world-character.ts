@@ -6,6 +6,7 @@ export const griffinPrinceKaliv = {
   slug: "griffin-prince-kaliv",
   title: "The Griffin Prince",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 422,
   lastChapter: 422,
   characterClaims: "jsonl",

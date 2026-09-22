@@ -6,6 +6,7 @@ export const generalZelShivertail = {
   slug: "general-zel-shivertail",
   title: "General Zel Shivertail",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 208,
   lastChapter: 208,
   characterClaims: "jsonl",

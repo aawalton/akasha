@@ -6,6 +6,7 @@ export const guardsmanWesle = {
   slug: "guardsman-wesle",
   title: "Guardsman Wesle",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 21,
   lastChapter: 21,
   characterClaims: "jsonl",

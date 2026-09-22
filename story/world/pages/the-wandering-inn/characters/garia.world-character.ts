@@ -6,6 +6,7 @@ export const garia = {
   slug: "garia",
   title: "Garia",
   world: "world/the-wandering-inn",
+  appearanceCount: 13,
   firstChapter: 36,
   lastChapter: 352,
   characterClaims: "jsonl",

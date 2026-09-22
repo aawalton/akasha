@@ -6,6 +6,7 @@ export const gresariaWellfar = {
   slug: "gresaria-wellfar",
   title: "Lady Gresaria",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 444,
   lastChapter: 599,
   characterClaims: "jsonl",

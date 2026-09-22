@@ -6,6 +6,7 @@ export const genviere = {
   slug: "genviere",
   title: "Genviere",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 291,
   lastChapter: 291,
   characterClaims: "jsonl",

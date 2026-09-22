@@ -6,6 +6,7 @@ export const harveyProphet = {
   slug: "harvey-prophet",
   title: "Harvey",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 808,
   lastChapter: 809,
   characterClaims: "jsonl",

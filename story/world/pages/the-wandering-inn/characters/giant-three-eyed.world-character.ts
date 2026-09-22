@@ -6,6 +6,7 @@ export const giantThreeEyed = {
   slug: "giant-three-eyed",
   title: "the three-eyed giant",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 477,
   lastChapter: 477,
   characterClaims: "jsonl",

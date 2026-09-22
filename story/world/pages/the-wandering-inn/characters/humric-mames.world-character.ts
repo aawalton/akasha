@@ -6,6 +6,7 @@ export const humricMames = {
   slug: "humric-mames",
   title: "Humric Mames",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 328,
   lastChapter: 328,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const greysten = {
   slug: "greysten",
   title: "Greysten",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 507,
   lastChapter: 608,
   characterClaims: "jsonl",

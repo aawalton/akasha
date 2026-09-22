@@ -6,6 +6,7 @@ export const healingSlime = {
   slug: "healing-slime",
   title: "Healing Slime",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 770,
   lastChapter: 770,
   characterClaims: "jsonl",

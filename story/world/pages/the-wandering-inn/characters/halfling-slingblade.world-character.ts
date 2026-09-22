@@ -6,6 +6,7 @@ export const halflingSlingblade = {
   slug: "halfling-slingblade",
   title: "the Halfling",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 759,
   lastChapter: 759,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const ielane = {
   slug: "ielane",
   title: "Queen Ielane du Marquin",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 608,
   lastChapter: 609,
   characterClaims: "jsonl",

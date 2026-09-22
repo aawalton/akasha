@@ -6,6 +6,7 @@ export const hobusMacreid = {
   slug: "hobus-macreid",
   title: "Hobus Macreid",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 820,
   lastChapter: 820,
   characterClaims: "jsonl",

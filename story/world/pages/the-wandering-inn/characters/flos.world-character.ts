@@ -6,6 +6,7 @@ export const flos = {
   slug: "flos",
   title: "twinTrouble_53",
   world: "world/the-wandering-inn",
+  appearanceCount: 25,
   firstChapter: 67,
   lastChapter: 705,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const galuc = {
   slug: "galuc",
   title: "the Builder",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 132,
   lastChapter: 442,
   characterClaims: "jsonl",

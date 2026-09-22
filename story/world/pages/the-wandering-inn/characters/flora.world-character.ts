@@ -6,6 +6,7 @@ export const flora = {
   slug: "flora",
   title: "Flora",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 439,
   lastChapter: 657,
   characterClaims: "jsonl",

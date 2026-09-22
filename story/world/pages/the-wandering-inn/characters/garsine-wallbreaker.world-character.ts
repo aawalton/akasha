@@ -6,6 +6,7 @@ export const garsineWallbreaker = {
   slug: "garsine-wallbreaker",
   title: "Garsine",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 520,
   lastChapter: 535,
   characterClaims: "jsonl",

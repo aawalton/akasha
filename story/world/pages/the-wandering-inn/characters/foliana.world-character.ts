@@ -6,6 +6,7 @@ export const foliana = {
   slug: "foliana",
   title: "Foliana",
   world: "world/the-wandering-inn",
+  appearanceCount: 17,
   firstChapter: 207,
   lastChapter: 802,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const goblinLordRags = {
   slug: "goblin-lord-rags",
   title: "Ragathsi of Civilizations",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 747,
   lastChapter: 756,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const homle = {
   slug: "homle",
   title: "Homle",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 692,
   lastChapter: 815,
   characterClaims: "jsonl",

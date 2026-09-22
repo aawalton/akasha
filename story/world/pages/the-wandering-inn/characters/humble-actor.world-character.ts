@@ -6,6 +6,7 @@ export const humbleActor = {
   slug: "humble-actor",
   title: "Humble Actor",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 111,
   lastChapter: 111,
   characterClaims: "jsonl",

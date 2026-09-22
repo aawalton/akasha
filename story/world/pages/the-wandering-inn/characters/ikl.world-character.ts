@@ -6,6 +6,7 @@ export const ikl = {
   slug: "ikl",
   title: "Ikl",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 520,
   lastChapter: 520,
   characterClaims: "jsonl",

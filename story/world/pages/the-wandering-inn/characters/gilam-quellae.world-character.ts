@@ -6,6 +6,7 @@ export const gilamQuellae = {
   slug: "gilam-quellae",
   title: "Gilam Quellae",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 786,
   lastChapter: 786,
   characterClaims: "jsonl",

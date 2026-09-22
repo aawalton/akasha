@@ -6,6 +6,7 @@ export const herdmistressGeraeri = {
   slug: "herdmistress-geraeri",
   title: "Herdmistress Geraeri",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 624,
   lastChapter: 624,
   characterClaims: "jsonl",

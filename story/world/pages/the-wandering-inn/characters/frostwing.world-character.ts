@@ -6,6 +6,7 @@ export const frostwing = {
   slug: "frostwing",
   title: "Frostwing",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 173,
   lastChapter: 204,
   characterClaims: "jsonl",

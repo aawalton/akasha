@@ -6,6 +6,7 @@ export const fraerling = {
   slug: "fraerling",
   title: "a man with callused hands",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 702,
   lastChapter: 702,
   characterClaims: "jsonl",

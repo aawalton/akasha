@@ -6,6 +6,7 @@ export const ishkr = {
   slug: "ishkr",
   title: "Ishkr",
   world: "world/the-wandering-inn",
+  appearanceCount: 19,
   maxLevel: 43,
   eventCount: 7,
   firstChapter: 191,

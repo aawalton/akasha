@@ -6,6 +6,7 @@ export const frostFaerie = {
   slug: "frost-faerie",
   title: "the small Frost Faerie",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 91,
   lastChapter: 91,
   characterClaims: "jsonl",

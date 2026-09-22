@@ -6,6 +6,7 @@ export const gaziTheOmniscient = {
   slug: "gazi-the-omniscient",
   title: "Gazi",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 116,
   lastChapter: 116,
   characterClaims: "jsonl",

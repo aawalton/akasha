@@ -6,6 +6,7 @@ export const gerial = {
   slug: "gerial",
   title: "Gerial",
   world: "world/the-wandering-inn",
+  appearanceCount: 12,
   firstChapter: 29,
   lastChapter: 329,
   characterClaims: "jsonl",

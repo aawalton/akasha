@@ -6,6 +6,7 @@ export const graltonLycit = {
   slug: "gralton-lycit",
   title: "Gralton",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 271,
   lastChapter: 271,
   characterClaims: "jsonl",

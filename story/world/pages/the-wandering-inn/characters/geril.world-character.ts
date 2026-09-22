@@ -6,6 +6,7 @@ export const geril = {
   slug: "geril",
   title: "Geril",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 326,
   lastChapter: 453,
   characterClaims: "jsonl",

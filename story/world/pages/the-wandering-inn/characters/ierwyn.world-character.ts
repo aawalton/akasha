@@ -6,6 +6,7 @@ export const ierwyn = {
   slug: "ierwyn",
   title: "Ierwyn",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 514,
   lastChapter: 807,
   characterClaims: "jsonl",

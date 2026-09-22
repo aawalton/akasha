@@ -6,6 +6,7 @@ export const himiltValLischelle = {
   slug: "himilt-val-lischelle",
   title: "Himilt val Lischelle-Drakle",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 592,
   lastChapter: 592,
   characterClaims: "jsonl",

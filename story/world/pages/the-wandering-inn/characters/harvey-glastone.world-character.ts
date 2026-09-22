@@ -6,6 +6,7 @@ export const harveyGlastone = {
   slug: "harvey-glastone",
   title: "Harvey Glastone",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   maxLevel: 40,
   eventCount: 2,
   firstChapter: 807,

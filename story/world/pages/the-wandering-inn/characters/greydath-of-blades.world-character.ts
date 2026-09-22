@@ -6,6 +6,7 @@ export const greydathOfBlades = {
   slug: "greydath-of-blades",
   title: "Greydath",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 687,
   lastChapter: 687,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const idis = {
   slug: "idis",
   title: "Idis",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 546,
   lastChapter: 618,
   characterClaims: "jsonl",

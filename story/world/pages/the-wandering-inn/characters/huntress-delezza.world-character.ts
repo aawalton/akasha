@@ -6,6 +6,7 @@ export const huntressDelezza = {
   slug: "huntress-delezza",
   title: "Delezza",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 437,
   lastChapter: 437,
   characterClaims: "jsonl",

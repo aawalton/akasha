@@ -6,6 +6,7 @@ export const grunter = {
   slug: "grunter",
   title: "Grunter",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 143,
   lastChapter: 146,
   characterClaims: "jsonl",

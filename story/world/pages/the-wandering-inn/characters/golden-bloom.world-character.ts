@@ -6,6 +6,7 @@ export const goldenBloom = {
   slug: "golden-bloom",
   title: "Golden Bloom",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 805,
   lastChapter: 805,
   characterClaims: "jsonl",

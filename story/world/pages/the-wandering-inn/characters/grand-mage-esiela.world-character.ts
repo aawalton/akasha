@@ -6,6 +6,7 @@ export const grandMageEsiela = {
   slug: "grand-mage-esiela",
   title: "Esiela",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 410,
   lastChapter: 410,
   characterClaims: "jsonl",

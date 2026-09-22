@@ -6,6 +6,7 @@ export const ijvani = {
   slug: "ijvani",
   title: "Ijvani",
   world: "world/the-wandering-inn",
+  appearanceCount: 9,
   firstChapter: 148,
   lastChapter: 615,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const hexel = {
   slug: "hexel",
   title: "Hexel",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 459,
   lastChapter: 706,
   characterClaims: "jsonl",

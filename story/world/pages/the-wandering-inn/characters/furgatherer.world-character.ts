@@ -6,6 +6,7 @@ export const furgatherer = {
   slug: "furgatherer",
   title: "Furgatherer",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 303,
   lastChapter: 303,
   characterClaims: "jsonl",

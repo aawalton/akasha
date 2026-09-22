@@ -6,6 +6,7 @@ export const gavros = {
   slug: "gavros",
   title: "Gavros",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 637,
   lastChapter: 637,
   characterClaims: "jsonl",

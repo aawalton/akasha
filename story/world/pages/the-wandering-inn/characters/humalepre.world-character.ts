@@ -6,6 +6,7 @@ export const humalepre = {
   slug: "humalepre",
   title: "Humalepre",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 695,
   lastChapter: 695,
   characterClaims: "jsonl",

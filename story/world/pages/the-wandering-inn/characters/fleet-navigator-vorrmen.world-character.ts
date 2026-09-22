@@ -6,6 +6,7 @@ export const fleetNavigatorVorrmen = {
   slug: "fleet-navigator-vorrmen",
   title: "Vorrmen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 646,
   lastChapter: 646,
   characterClaims: "jsonl",

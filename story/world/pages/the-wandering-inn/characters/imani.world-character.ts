@@ -6,6 +6,7 @@ export const imani = {
   slug: "imani",
   title: "Imani",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   firstChapter: 109,
   lastChapter: 820,
   characterClaims: "jsonl",

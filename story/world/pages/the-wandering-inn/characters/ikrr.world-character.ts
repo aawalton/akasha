@@ -6,6 +6,7 @@ export const ikrr = {
   slug: "ikrr",
   title: "Ikrr",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 436,
   lastChapter: 436,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const gamel = {
   slug: "gamel",
   title: "Gamel",
   world: "world/the-wandering-inn",
+  appearanceCount: 10,
   firstChapter: 138,
   lastChapter: 358,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const haldagaz = {
   slug: "haldagaz",
   title: "Haldagaz",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 594,
   lastChapter: 823,
   characterClaims: "jsonl",

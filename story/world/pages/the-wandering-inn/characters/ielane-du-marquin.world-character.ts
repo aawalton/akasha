@@ -6,6 +6,7 @@ export const ielaneDuMarquin = {
   slug: "ielane-du-marquin",
   title: "Queen Ielane du Marquin",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   maxLevel: 44,
   eventCount: 2,
   firstChapter: 708,

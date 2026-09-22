@@ -6,6 +6,7 @@ export const hetarria = {
   slug: "hetarria",
   title: "Hetarria",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 439,
   lastChapter: 439,
   characterClaims: "jsonl",

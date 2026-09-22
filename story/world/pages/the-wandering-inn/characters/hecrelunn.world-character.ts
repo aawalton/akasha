@@ -6,6 +6,7 @@ export const hecrelunn = {
   slug: "hecrelunn",
   title: "Hecrelunn",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 577,
   lastChapter: 600,
   characterClaims: "jsonl",

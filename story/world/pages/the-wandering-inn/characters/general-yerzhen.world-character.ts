@@ -6,6 +6,7 @@ export const generalYerzhen = {
   slug: "general-yerzhen",
   title: "General Yerzhen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 471,
   lastChapter: 471,
   characterClaims: "jsonl",

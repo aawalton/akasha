@@ -6,6 +6,7 @@ export const garusaWeatherfur = {
   slug: "garusa-weatherfur",
   title: "Garusa Weatherfur",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 193,
   lastChapter: 232,
   characterClaims: "jsonl",

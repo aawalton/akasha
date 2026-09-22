@@ -6,6 +6,7 @@ export const freeQueen = {
   slug: "free-queen",
   title: "Free Queen of the Antinium",
   world: "world/the-wandering-inn",
+  appearanceCount: 9,
   firstChapter: 274,
   lastChapter: 442,
   characterClaims: "jsonl",

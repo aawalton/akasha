@@ -6,6 +6,7 @@ export const ilvriss = {
   slug: "ilvriss",
   title: "Ilvriss",
   world: "world/the-wandering-inn",
+  appearanceCount: 56,
   maxLevel: 38,
   eventCount: 3,
   firstChapter: 101,

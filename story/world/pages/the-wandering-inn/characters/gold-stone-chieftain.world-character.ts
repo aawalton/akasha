@@ -6,6 +6,7 @@ export const goldStoneChieftain = {
   slug: "gold-stone-chieftain",
   title: "Gold Stone Chieftain",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 99,
   lastChapter: 154,
   characterClaims: "jsonl",

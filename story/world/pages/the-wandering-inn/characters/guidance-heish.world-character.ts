@@ -6,6 +6,7 @@ export const guidanceHeish = {
   slug: "guidance-heish",
   title: "Heish",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 515,
   lastChapter: 515,
   characterClaims: "jsonl",

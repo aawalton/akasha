@@ -6,6 +6,7 @@ export const iradoren = {
   slug: "iradoren",
   title: "Iradoren",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 676,
   lastChapter: 685,
   characterClaims: "jsonl",

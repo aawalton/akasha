@@ -6,6 +6,7 @@ export const ilvrissGemscale = {
   slug: "ilvriss-gemscale",
   title: "Ilvriss Gemscale",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 241,
   lastChapter: 241,
   characterClaims: "jsonl",

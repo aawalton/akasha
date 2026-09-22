@@ -6,6 +6,7 @@ export const hexore = {
   slug: "hexore",
   title: "Hexore",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 795,
   lastChapter: 795,
   characterClaims: "jsonl",

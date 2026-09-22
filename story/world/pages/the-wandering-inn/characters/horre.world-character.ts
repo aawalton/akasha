@@ -6,6 +6,7 @@ export const horre = {
   slug: "horre",
   title: "Horre",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 639,
   lastChapter: 639,
   characterClaims: "jsonl",

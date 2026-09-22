@@ -6,6 +6,7 @@ export const godreiad = {
   slug: "godreiad",
   title: "Godreiad",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 722,
   lastChapter: 722,
   characterClaims: "jsonl",

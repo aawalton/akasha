@@ -6,6 +6,7 @@ export const halassiaEvergleam = {
   slug: "halassia-evergleam",
   title: "Halassia Evergleam",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 303,
   lastChapter: 303,
   characterClaims: "jsonl",

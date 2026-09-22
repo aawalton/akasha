@@ -6,6 +6,7 @@ export const illphres = {
   slug: "illphres",
   title: "Illphres",
   world: "world/the-wandering-inn",
+  appearanceCount: 9,
   firstChapter: 158,
   lastChapter: 548,
   characterClaims: "jsonl",

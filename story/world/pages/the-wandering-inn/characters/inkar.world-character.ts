@@ -6,6 +6,7 @@ export const inkar = {
   slug: "inkar",
   title: "Inkar the Traveller",
   world: "world/the-wandering-inn",
+  appearanceCount: 10,
   firstChapter: 470,
   lastChapter: 711,
   characterClaims: "jsonl",

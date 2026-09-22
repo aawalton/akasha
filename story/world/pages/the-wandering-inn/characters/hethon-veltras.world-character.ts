@@ -6,6 +6,7 @@ export const hethonVeltras = {
   slug: "hethon-veltras",
   title: "Hethon Veltras",
   world: "world/the-wandering-inn",
+  appearanceCount: 9,
   firstChapter: 425,
   lastChapter: 690,
   characterClaims: "jsonl",

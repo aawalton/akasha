@@ -6,6 +6,7 @@ export const imorSeagrass = {
   slug: "imor-seagrass",
   title: "Imor Seagrass",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 686,
   lastChapter: 686,
   characterClaims: "jsonl",

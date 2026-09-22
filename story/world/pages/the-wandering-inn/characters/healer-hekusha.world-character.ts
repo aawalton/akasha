@@ -6,6 +6,7 @@ export const healerHekusha = {
   slug: "healer-hekusha",
   title: "Hekusha",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 812,
   lastChapter: 812,
   characterClaims: "jsonl",

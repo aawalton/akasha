@@ -6,6 +6,7 @@ export const goblinInfiltrator = {
   slug: "goblin-infiltrator",
   title: "the infiltrator Goblin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 204,
   lastChapter: 204,
   characterClaims: "jsonl",

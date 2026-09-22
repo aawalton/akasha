@@ -6,6 +6,7 @@ export const issa = {
   slug: "issa",
   title: "Issa",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 391,
   lastChapter: 391,
   characterClaims: "jsonl",

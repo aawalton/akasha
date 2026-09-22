@@ -6,6 +6,7 @@ export const generalEdellein = {
   slug: "general-edellein",
   title: "General Edellein",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 763,
   lastChapter: 763,
   characterClaims: "jsonl",

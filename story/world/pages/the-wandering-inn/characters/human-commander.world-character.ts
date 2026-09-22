@@ -6,6 +6,7 @@ export const humanCommander = {
   slug: "human-commander",
   title: "The Human [Commander]",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 232,
   lastChapter: 232,
   characterClaims: "jsonl",

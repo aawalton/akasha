@@ -6,6 +6,7 @@ export const itorinIi = {
   slug: "itorin-ii",
   title: "King Itorin II",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 544,
   lastChapter: 544,
   characterClaims: "jsonl",

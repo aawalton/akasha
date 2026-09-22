@@ -6,6 +6,7 @@ export const howkless = {
   slug: "howkless",
   title: "Major Howkless",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 697,
   lastChapter: 697,
   characterClaims: "jsonl",

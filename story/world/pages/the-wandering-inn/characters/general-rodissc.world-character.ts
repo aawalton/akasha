@@ -6,6 +6,7 @@ export const generalRodissc = {
   slug: "general-rodissc",
   title: "General Rodissc",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 662,
   lastChapter: 662,
   characterClaims: "jsonl",

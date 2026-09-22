@@ -6,6 +6,7 @@ export const himilt = {
   slug: "himilt",
   title: "Himilt",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 312,
   lastChapter: 763,
   characterClaims: "jsonl",

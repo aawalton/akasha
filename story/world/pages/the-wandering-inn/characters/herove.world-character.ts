@@ -6,6 +6,7 @@ export const herove = {
   slug: "herove",
   title: "Herove Canidus",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 601,
   lastChapter: 601,
   characterClaims: "jsonl",

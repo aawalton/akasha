@@ -6,6 +6,7 @@ export const goelvGazer = {
   slug: "goelv-gazer",
   title: "Goelv",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 496,
   lastChapter: 496,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const iuncutaEirnos = {
   slug: "iuncuta-eirnos",
   title: "Iuncuta Eirnos",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 617,
   lastChapter: 617,
   characterClaims: "jsonl",

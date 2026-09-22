@@ -6,6 +6,7 @@ export const grasstongue = {
   slug: "grasstongue",
   title: "Grasstongue",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 253,
   lastChapter: 253,
   characterClaims: "jsonl",

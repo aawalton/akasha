@@ -6,6 +6,7 @@ export const gilthisa = {
   slug: "gilthisa",
   title: "Gilthisa",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 795,
   lastChapter: 795,
   characterClaims: "jsonl",

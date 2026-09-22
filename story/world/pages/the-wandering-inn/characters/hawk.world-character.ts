@@ -6,6 +6,7 @@ export const hawk = {
   slug: "hawk",
   title: "Hawk",
   world: "world/the-wandering-inn",
+  appearanceCount: 11,
   firstChapter: 65,
   lastChapter: 441,
   characterClaims: "jsonl",

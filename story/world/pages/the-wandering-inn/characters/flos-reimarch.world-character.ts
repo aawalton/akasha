@@ -6,6 +6,7 @@ export const flosReimarch = {
   slug: "flos-reimarch",
   title: "Flos Reimarch",
   world: "world/the-wandering-inn",
+  appearanceCount: 22,
   firstChapter: 27,
   lastChapter: 757,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const generalLael = {
   slug: "general-lael",
   title: "General Lael",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 398,
   lastChapter: 492,
   characterClaims: "jsonl",

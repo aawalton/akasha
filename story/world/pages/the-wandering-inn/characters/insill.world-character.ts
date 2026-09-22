@@ -6,6 +6,7 @@ export const insill = {
   slug: "insill",
   title: "Insill",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   maxLevel: 28,
   eventCount: 2,
   firstChapter: 185,

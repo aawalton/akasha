@@ -6,6 +6,7 @@ export const harpyQueen = {
   slug: "harpy-queen",
   title: "the Harpy Queen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 811,
   lastChapter: 811,
   characterClaims: "jsonl",

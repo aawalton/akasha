@@ -6,6 +6,7 @@ export const flynnPatel = {
   slug: "flynn-patel",
   title: "Flynn Patel",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 453,
   lastChapter: 496,
   characterClaims: "jsonl",

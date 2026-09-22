@@ -6,6 +6,7 @@ export const gunpi = {
   slug: "gunpi",
   title: "Grumpy Gunpi",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 792,
   lastChapter: 792,
   characterClaims: "jsonl",

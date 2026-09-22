@@ -6,6 +6,7 @@ export const fortum = {
   slug: "fortum",
   title: "Fortum (called 'Old Man')",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 130,
   lastChapter: 131,
   characterClaims: "jsonl",

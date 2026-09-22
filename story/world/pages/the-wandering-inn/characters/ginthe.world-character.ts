@@ -6,6 +6,7 @@ export const ginthe = {
   slug: "ginthe",
   title: "Ginthe",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 803,
   lastChapter: 803,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const gnollAggressor = {
   slug: "gnoll-aggressor",
   title: "the Gnoll in the Adventurer's Guild",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 13,
   lastChapter: 13,
   characterClaims: "jsonl",

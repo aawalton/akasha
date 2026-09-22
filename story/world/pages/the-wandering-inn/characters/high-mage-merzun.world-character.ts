@@ -6,6 +6,7 @@ export const highMageMerzun = {
   slug: "high-mage-merzun",
   title: "Merzun",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 499,
   lastChapter: 499,
   characterClaims: "jsonl",

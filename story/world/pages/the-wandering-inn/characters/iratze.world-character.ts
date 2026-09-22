@@ -6,6 +6,7 @@ export const iratze = {
   slug: "iratze",
   title: "Iratze",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 402,
   lastChapter: 636,
   characterClaims: "jsonl",
