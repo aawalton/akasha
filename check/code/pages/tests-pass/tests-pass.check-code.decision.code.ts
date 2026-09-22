@@ -227,30 +227,38 @@ function costsKept(root: string, each: readonly Spent[]): undefined {
 const NESTED =
   "no test ran: this landing was made from inside a test run, which `AKASHA_TESTS_RUNNING` says is going, so the tests beside the files this change carries were not run and nothing says whether they pass."
 
-export async function refusalsOver(given: Change, shadow: Shadow): Promise<readonly Judged[]> {
-  const change = holdingOver(given)
-  const named = namedIn(change)
+export async function refusingOver(
+  root: string,
+  named: readonly string[],
+  bodies: Bodies
+): Promise<readonly Judged[]> {
   const first = named[0]
   if (first === undefined) return []
   if (alreadyRunning()) return [{ path: first, reason: NESTED }]
-  const bodies = bodiesOf(change, shadow)
   if (measuring()) {
-    const each = await spentOver(change.root, named, bodies)
-    costsKept(change.root, each)
+    const each = await spentOver(root, named, bodies)
+    costsKept(root, each)
     return [{ path: first, reason: spentlyOf(each) }]
   }
-  const found = await ranOver(change.root, named, named.length, null, bodies)
-  costsKept(change.root, found.spent)
+  const found = await ranOver(root, named, named.length, null, bodies)
+  costsKept(root, found.spent)
   if (found.verdict === "pass") return []
   const said = {
     ...found,
-    output: spelledIn(found.output, change.root),
-    spent: found.spent.map((one) => ({ ...one, out: spelledIn(one.out, change.root) })),
+    output: spelledIn(found.output, root),
+    spent: found.spent.map((one) => ({ ...one, out: spelledIn(one.out, root) })),
   }
   const judged = refusedOf(said, named, first)
-  const absent = absentFrom(change.root, named, bodies)
+  const absent = absentFrom(root, named, bodies)
   const blamed = absent[0]
   if (blamed === undefined) return judged
   const reason = judged[0]?.reason ?? ""
   return [{ path: blamed.path, reason: `${absentlyOf(absent)}${reason}` }, ...judged]
+}
+
+export async function refusalsOver(given: Change, shadow: Shadow): Promise<readonly Judged[]> {
+  const change = holdingOver(given)
+  const named = namedIn(change)
+  if (named.length === 0) return []
+  return await refusingOver(change.root, named, bodiesOf(change, shadow))
 }

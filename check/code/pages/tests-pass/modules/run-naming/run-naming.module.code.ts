@@ -14,15 +14,22 @@ export function testedBeside(path: string, shadow: Shadow): boolean {
   return false
 }
 
-export function namedIn(change: Change): readonly string[] {
+export function namedOver(
+  paths: readonly string[],
+  there: (path: string) => boolean
+): readonly string[] {
   const held = new Set<string>()
-  for (const one of change.changed) {
+  for (const one of paths) {
     for (const beside of testsBesideOf(one)) {
-      if (change.after(beside) === null) continue
+      if (!there(beside)) continue
       held.add(beside)
     }
   }
   return [...held].sort()
+}
+
+export function namedIn(change: Change): readonly string[] {
+  return namedOver(change.changed, (path) => change.after(path) !== null)
 }
 
 const MODULES = "node_modules"
@@ -31,15 +38,22 @@ const MANIFEST = "package.json"
 
 const ROOT = "."
 
-export function linksIn(change: Change): ReadonlyMap<string, Link> {
+export function linksOver(
+  paths: readonly string[],
+  read: (path: string) => string | null
+): ReadonlyMap<string, Link> {
   const found = new Map<string, Link>()
-  for (const one of change.changed) {
+  for (const one of paths) {
     const folder = dirname(one)
     if (basename(one) !== MANIFEST || folder === ROOT) continue
-    const named = calledIn(textIn(change, one))
+    const named = calledIn(read(one))
     if (named === null) continue
     const at = join(MODULES, named)
     found.set(at, { linkedTo: relative(dirname(at), folder) })
   }
   return found
+}
+
+export function linksIn(change: Change): ReadonlyMap<string, Link> {
+  return linksOver(change.changed, (path) => textIn(change, path))
 }
