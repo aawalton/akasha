@@ -97,7 +97,6 @@
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-skip-kiosk-dialog/trading-skip-kiosk-dialog.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-main-menu/journal-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-lib-overrides/saved-vars-lib-overrides.module.code.ts"}

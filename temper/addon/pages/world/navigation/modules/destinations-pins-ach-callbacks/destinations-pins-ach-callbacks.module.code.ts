@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   DEST_PIN_TEXT_COLOR_BRAWL,
   DEST_PIN_TEXT_COLOR_BRAWL_DONE,
@@ -31,7 +32,7 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { DRTV } from "akasha/temper/addon/pages/world/navigation/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import { getCharacterSavedVariables } from "akasha/temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -49,7 +50,7 @@ export function sharedAchievementsPinData(): undefined {
   MAP_STATE.zoneId = undefined
   const pinName = DRTV.pinName
   if (pinName === undefined) return
-  if (LibMapPins.IsEnabled(pinName) && getCharacterSavedVariables().filters[pinName] === true) {
+  if (MAP_PINS.IsEnabled(pinName) && getCharacterSavedVariables().filters[pinName] === true) {
     getMapTextureName()
     ACH_STATE.mapData =
       MAP_STATE.mapTextureName !== undefined ? AchStore[MAP_STATE.mapTextureName] : undefined
@@ -87,7 +88,7 @@ function makeSimpleAchievementCallback(
           DRTV.pinTag.push(
             config.color.Colorize(zo_strformat("<<1>>", AchIDs[config.achievementId]))
           )
-          LibMapPins.CreatePin(
+          MAP_PINS.CreatePin(
             config.pinName,
             DRTV.pinTag,
             rowNumber(pinData, AchIndex.X),

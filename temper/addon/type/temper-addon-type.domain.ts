@@ -23,7 +23,6 @@ export const temperAddonType = {
     "type-declaration/lib-lua-52",
     "type-declaration/temper-main-menu-global",
     "type-declaration/temper-main-menu-shape",
-    "type-declaration/lib-map-pins",
     "type-declaration/lib-multi-account-sets",
     "type-declaration/temper-notification-global",
     "type-declaration/lib-qr-code",

@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { getUiString } from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-labels/dungeon-champion-labels.module.code.ts"
 import {
@@ -15,7 +16,7 @@ import {
 import { PIN_TEXTURES } from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-pin-textures/dungeon-champion-pin-textures.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
@@ -99,15 +100,15 @@ function createPins(): undefined {
     for (const pinData of champions) {
       const [, numCompleted] = GetAchievementCriterion(pinData[2], pinData[3])
       if (numCompleted === 1) {
-        if (UPDATE_PINS[PINS_COLLECTED] === true && LibMapPins.IsEnabled(PINS_COLLECTED)) {
-          LibMapPins.CreatePin(PINS_COLLECTED, pinData, pinData[0], pinData[1])
+        if (UPDATE_PINS[PINS_COLLECTED] === true && MAP_PINS.IsEnabled(PINS_COLLECTED)) {
+          MAP_PINS.CreatePin(PINS_COLLECTED, pinData, pinData[0], pinData[1])
         }
         if (UPDATE_PINS[PINS_COMPASS_KNOWN] === true && filters[PINS_COMPASS_KNOWN] === true) {
           COMPASS_PINS.pinManager.CreatePin(PINS_COMPASS_KNOWN, pinData, pinData[0], pinData[1])
         }
       } else if (numCompleted === 0) {
-        if (UPDATE_PINS[PINS_UNKNOWN] === true && LibMapPins.IsEnabled(PINS_UNKNOWN)) {
-          LibMapPins.CreatePin(PINS_UNKNOWN, pinData, pinData[0], pinData[1])
+        if (UPDATE_PINS[PINS_UNKNOWN] === true && MAP_PINS.IsEnabled(PINS_UNKNOWN)) {
+          MAP_PINS.CreatePin(PINS_UNKNOWN, pinData, pinData[0], pinData[1])
         }
         if (UPDATE_PINS[PINS_COMPASS_UNKNOWN] === true && filters[PINS_COMPASS_UNKNOWN] === true) {
           COMPASS_PINS.pinManager.CreatePin(PINS_COMPASS_UNKNOWN, pinData, pinData[0], pinData[1])
@@ -143,12 +144,12 @@ function queueCreatePins(pinType: string): undefined {
 }
 
 export function mapCallbackUnknown(this: void): undefined {
-  if (!LibMapPins.IsEnabled(PINS_UNKNOWN) || GetMapType() > MAPTYPE_ZONE) return undefined
+  if (!MAP_PINS.IsEnabled(PINS_UNKNOWN) || GetMapType() > MAPTYPE_ZONE) return undefined
   return queueCreatePins(PINS_UNKNOWN)
 }
 
 export function mapCallbackCollected(this: void): undefined {
-  if (!LibMapPins.IsEnabled(PINS_COLLECTED) || GetMapType() > MAPTYPE_ZONE) return undefined
+  if (!MAP_PINS.IsEnabled(PINS_COLLECTED) || GetMapType() > MAPTYPE_ZONE) return undefined
   return queueCreatePins(PINS_COLLECTED)
 }
 
@@ -169,8 +170,8 @@ export function compassCallbackKnown(this: void): undefined {
 function refreshAllPins(achievementId: number): undefined {
   const ids = getAchievementIDs()
   if (ids[achievementId] === true) {
-    LibMapPins.RefreshPins(PINS_UNKNOWN)
-    LibMapPins.RefreshPins(PINS_COLLECTED)
+    MAP_PINS.RefreshPins(PINS_UNKNOWN)
+    MAP_PINS.RefreshPins(PINS_COLLECTED)
     COMPASS_PINS.RefreshPins(PINS_COMPASS_KNOWN)
     COMPASS_PINS.RefreshPins(PINS_COMPASS_UNKNOWN)
   }

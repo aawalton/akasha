@@ -6,7 +6,7 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/map-pins-narrow/map-pins-narrow.module.code.ts"
 import type { PinDef } from "akasha/temper/addon/pages/world/navigation/modules/map-pins-pin-types/map-pins-pin-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"

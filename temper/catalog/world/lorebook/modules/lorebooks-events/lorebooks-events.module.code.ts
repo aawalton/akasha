@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import {
   LORE_LIBRARY_CRAFTING,
@@ -14,7 +15,7 @@ import {
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
 import { STATE } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 
 export function onShowBook(
   this: void,
@@ -49,13 +50,13 @@ export function onBookLearned(
 
   if (categoryIndex !== LORE_LIBRARY_CRAFTING) {
     if (categoryIndex === LORE_LIBRARY_SHALIDOR) {
-      LibMapPins.RefreshPins(PINS_UNKNOWN)
-      LibMapPins.RefreshPins(PINS_COLLECTED)
+      MAP_PINS.RefreshPins(PINS_UNKNOWN)
+      MAP_PINS.RefreshPins(PINS_COLLECTED)
       COMPASS_PINS.RefreshPins(PINS_COMPASS)
     } else if (categoryIndex === LORE_LIBRARY_EIDETIC) {
-      LibMapPins.RefreshPins(PINS_EIDETIC)
-      LibMapPins.RefreshPins(PINS_EIDETIC_COLLECTED)
-      LibMapPins.RefreshPins(PINS_BOOKSHELF)
+      MAP_PINS.RefreshPins(PINS_EIDETIC)
+      MAP_PINS.RefreshPins(PINS_EIDETIC_COLLECTED)
+      MAP_PINS.RefreshPins(PINS_BOOKSHELF)
       COMPASS_PINS.RefreshPins(PINS_COMPASS_EIDETIC)
       COMPASS_PINS.RefreshPins(PINS_COMPASS_BOOKSHELF)
     }

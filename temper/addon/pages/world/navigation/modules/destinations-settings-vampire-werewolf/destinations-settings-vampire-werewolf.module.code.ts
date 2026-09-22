@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   DEST_PIN_TINT_VAMPALTAR,
   DEST_PIN_TINT_WWSHRINE,
@@ -33,11 +34,9 @@ import type { IconPreviews } from "akasha/temper/addon/pages/world/navigation/mo
 import { getIconPreviews } from "akasha/temper/addon/pages/world/navigation/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 import { unpackRgba } from "akasha/temper/modules/unpack-color/unpack-color.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-
-const LMP = LibMapPins
 
 const VWW_PIN_TYPES: readonly string[] = [
   PIN_TYPES.WWVAMP,
@@ -96,7 +95,7 @@ function appendVwwPinControls(
         if (spec.choices[i] === selected) {
           const index = i + 1
           spec.pinSettings.type = index
-          LMP.SetLayoutKey(spec.pinType, "texture", texturePathAt(spec.paths, index))
+          MAP_PINS.SetLayoutKey(spec.pinType, "texture", texturePathAt(spec.paths, index))
           spec.preview(getIconPreviews()).SetTexture(texturePathAt(spec.paths, index))
           redrawAllPins(spec.pinType)
           break
@@ -115,7 +114,7 @@ function appendVwwPinControls(
     setFunc: (size) => {
       spec.pinSettings.size = size
       spec.preview(getIconPreviews()).SetDimensions(size, size)
-      LMP.SetLayoutKey(spec.pinType, "size", size)
+      MAP_PINS.SetLayoutKey(spec.pinType, "size", size)
       redrawAllPins(spec.pinType)
     },
     disabled: filterDisabled(spec.pinType),
@@ -174,7 +173,7 @@ function appendVwwCompassControls(controls: LamControlData[]): undefined {
       sv.pins.pinTextureWWShrine.level = level
       sv.pins.pinTextureVampAltar.level = level
       for (const pinType of VWW_PIN_TYPES) {
-        LMP.SetLayoutKey(pinType, "level", level)
+        MAP_PINS.SetLayoutKey(pinType, "level", level)
       }
       for (const pinType of VWW_PIN_TYPES) {
         redrawAllPins(pinType)
@@ -223,7 +222,7 @@ function appendVwwCompassControls(controls: LamControlData[]): undefined {
       sv.pins.pinTextureVampAltar.textcolor = [r, g, b]
       sv.pins.pinTextureWWShrine.textcolor = [r, g, b]
       for (const pinType of VWW_PIN_TYPES) {
-        LMP.RefreshPins(pinType)
+        MAP_PINS.RefreshPins(pinType)
       }
     },
     disabled: allVwwFiltersDisabled,

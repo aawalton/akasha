@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   DEST_PIN_TEXT_COLOR_FISH_DONE,
   DEST_PIN_TEXT_COLORBAIT_FISH_DONE,
@@ -25,7 +26,7 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { DRTV } from "akasha/temper/addon/pages/world/navigation/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -141,7 +142,7 @@ export function fishDonepinTypeCallback(this: void): undefined {
           (countO >= 1 && countO === countON) ||
           (countR >= 1 && countR === countRN)
         ) {
-          LibMapPins.CreatePin(
+          MAP_PINS.CreatePin(
             PIN_TYPES.FISHINGDONE,
             DRTV.pinTag,
             rowNumber(pinData, AchIndex.X),

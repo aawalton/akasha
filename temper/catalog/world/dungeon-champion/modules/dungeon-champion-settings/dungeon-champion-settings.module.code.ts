@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { dropdown } from "akasha/temper/addon/shared/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import { header } from "akasha/temper/addon/shared/settings-panel/modules/header/header.module.code.ts"
@@ -25,7 +26,7 @@ import { unpackRgba } from "akasha/temper/modules/unpack-color/unpack-color.modu
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
@@ -125,8 +126,8 @@ export function createSettingsMenu(this: void): undefined {
       set: (selectedIndex: number): undefined => {
         const index = selectedIndex + 1
         sv.pinTexture.type = index
-        LibMapPins.SetLayoutKey(PINS_UNKNOWN, "texture", PIN_TEXTURES.unknown[index])
-        LibMapPins.SetLayoutKey(PINS_COLLECTED, "texture", PIN_TEXTURES.collected[index])
+        MAP_PINS.SetLayoutKey(PINS_UNKNOWN, "texture", PIN_TEXTURES.unknown[index])
+        MAP_PINS.SetLayoutKey(PINS_COLLECTED, "texture", PIN_TEXTURES.collected[index])
         setCompassTexture(PINS_COMPASS_UNKNOWN, PIN_TEXTURES.unknown[index] ?? "")
         setCompassTexture(PINS_COMPASS_KNOWN, PIN_TEXTURES.collected[index] ?? "")
         if (unknownIcon !== undefined) unknownIcon.SetTexture(PIN_TEXTURES.unknown[index] ?? "")
@@ -134,18 +135,18 @@ export function createSettingsMenu(this: void): undefined {
           collectedIcon.SetTexture(PIN_TEXTURES.collected[index] ?? "")
         }
         if (index === 2) {
-          LibMapPins.SetLayoutKey(PINS_UNKNOWN, "tint", newColorDef(sv.incompleteColor))
-          LibMapPins.SetLayoutKey(PINS_COLLECTED, "tint", newColorDef(sv.completeColor))
+          MAP_PINS.SetLayoutKey(PINS_UNKNOWN, "tint", newColorDef(sv.incompleteColor))
+          MAP_PINS.SetLayoutKey(PINS_COLLECTED, "tint", newColorDef(sv.completeColor))
           setTextureColor(unknownIcon, sv.incompleteColor)
           setTextureColor(collectedIcon, sv.completeColor)
         } else {
-          LibMapPins.SetLayoutKey(PINS_UNKNOWN, "tint", undefined)
-          LibMapPins.SetLayoutKey(PINS_COLLECTED, "tint", undefined)
+          MAP_PINS.SetLayoutKey(PINS_UNKNOWN, "tint", undefined)
+          MAP_PINS.SetLayoutKey(PINS_COLLECTED, "tint", undefined)
           setTextureColor(unknownIcon, [1, 1, 1, 1])
           setTextureColor(collectedIcon, [1, 1, 1, 1])
         }
-        LibMapPins.RefreshPins(PINS_UNKNOWN)
-        LibMapPins.RefreshPins(PINS_COLLECTED)
+        MAP_PINS.RefreshPins(PINS_UNKNOWN)
+        MAP_PINS.RefreshPins(PINS_COLLECTED)
         COMPASS_PINS.RefreshPins(PINS_COMPASS_UNKNOWN)
         COMPASS_PINS.RefreshPins(PINS_COMPASS_KNOWN)
         return undefined
@@ -162,7 +163,7 @@ export function createSettingsMenu(this: void): undefined {
       },
       setFunc: (r: number, g: number, b: number, a?: number): undefined => {
         sv.completeColor = [r, g, b, a ?? 1]
-        LibMapPins.SetLayoutKey(PINS_COLLECTED, "tint", ZO_ColorDef.New(r, g, b, a))
+        MAP_PINS.SetLayoutKey(PINS_COLLECTED, "tint", ZO_ColorDef.New(r, g, b, a))
         setTextureColor(collectedIcon, [r, g, b, a ?? 1])
         return undefined
       },
@@ -184,7 +185,7 @@ export function createSettingsMenu(this: void): undefined {
       },
       setFunc: (r: number, g: number, b: number, a?: number): undefined => {
         sv.incompleteColor = [r, g, b, a ?? 1]
-        LibMapPins.SetLayoutKey(PINS_UNKNOWN, "tint", ZO_ColorDef.New(r, g, b, a))
+        MAP_PINS.SetLayoutKey(PINS_UNKNOWN, "tint", ZO_ColorDef.New(r, g, b, a))
         setTextureColor(unknownIcon, [r, g, b, a ?? 1])
         return undefined
       },
@@ -208,10 +209,10 @@ export function createSettingsMenu(this: void): undefined {
         sv.pinTexture.size = size
         if (unknownIcon !== undefined) unknownIcon.SetDimensions(size, size)
         if (collectedIcon !== undefined) collectedIcon.SetDimensions(size, size)
-        LibMapPins.SetLayoutKey(PINS_UNKNOWN, "size", size)
-        LibMapPins.SetLayoutKey(PINS_COLLECTED, "size", size)
-        LibMapPins.RefreshPins(PINS_UNKNOWN)
-        LibMapPins.RefreshPins(PINS_COLLECTED)
+        MAP_PINS.SetLayoutKey(PINS_UNKNOWN, "size", size)
+        MAP_PINS.SetLayoutKey(PINS_COLLECTED, "size", size)
+        MAP_PINS.RefreshPins(PINS_UNKNOWN)
+        MAP_PINS.RefreshPins(PINS_COLLECTED)
         return undefined
       },
       disabled: (): boolean => neitherFilter(PINS_UNKNOWN, PINS_COLLECTED),
@@ -227,10 +228,10 @@ export function createSettingsMenu(this: void): undefined {
       getFunc: (): number => sv.pinTexture.level,
       setFunc: (level: number): undefined => {
         sv.pinTexture.level = level
-        LibMapPins.SetLayoutKey(PINS_UNKNOWN, "level", level)
-        LibMapPins.SetLayoutKey(PINS_COLLECTED, "level", level)
-        LibMapPins.RefreshPins(PINS_UNKNOWN)
-        LibMapPins.RefreshPins(PINS_COLLECTED)
+        MAP_PINS.SetLayoutKey(PINS_UNKNOWN, "level", level)
+        MAP_PINS.SetLayoutKey(PINS_COLLECTED, "level", level)
+        MAP_PINS.RefreshPins(PINS_UNKNOWN)
+        MAP_PINS.RefreshPins(PINS_COLLECTED)
         return undefined
       },
       disabled: (): boolean => neitherFilter(PINS_UNKNOWN, PINS_COLLECTED),
@@ -243,7 +244,7 @@ export function createSettingsMenu(this: void): undefined {
       getFunc: (): boolean => sv.filters[PINS_UNKNOWN] === true,
       setFunc: (state: boolean): undefined => {
         sv.filters[PINS_UNKNOWN] = state
-        LibMapPins.SetEnabled(PINS_UNKNOWN, state)
+        MAP_PINS.SetEnabled(PINS_UNKNOWN, state)
         return undefined
       },
       default: DEFAULTS.filters[PINS_UNKNOWN],
@@ -255,7 +256,7 @@ export function createSettingsMenu(this: void): undefined {
       getFunc: (): boolean => sv.filters[PINS_COLLECTED] === true,
       setFunc: (state: boolean): undefined => {
         sv.filters[PINS_COLLECTED] = state
-        LibMapPins.SetEnabled(PINS_COLLECTED, state)
+        MAP_PINS.SetEnabled(PINS_COLLECTED, state)
         return undefined
       },
       default: DEFAULTS.filters[PINS_COLLECTED],

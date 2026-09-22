@@ -4,7 +4,7 @@ export const dungeonChampionPinRegister = {
   id: "01a060f9-bacb-7522-90b0-6722aa981410",
   type: "page-type/module",
   slug: "dungeon-champion-pin-register",
-  definition: "telling LibMapPins and the compass what a champion pin looks like",
+  definition: "telling the map and the compass what a champion pin looks like",
   code: "ts",
   decisions: [
     {

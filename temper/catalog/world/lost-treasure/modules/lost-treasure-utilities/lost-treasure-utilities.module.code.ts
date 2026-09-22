@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   LOST_TREASURE_NO_PIN_TYPE,
   LOST_TREASURE_PIN_TYPE_DATA,
@@ -5,7 +6,7 @@ import {
 import { createLogger } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-logger/lost-treasure-logger.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-10/eso-enums-10.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
@@ -122,8 +123,8 @@ export function getPlayerPositionInfo(
   this: void
 ): LuaMultiReturn<[number, number, string, string, number]> {
   const [x, y] = GetMapPlayerPosition("player")
-  const [zone, subZone] = LibMapPins.GetZoneAndSubzone(false, false, false)
-  return $multi(x, y, zone, subZone, GetCurrentMapId())
+  const [zone, subZone] = MAP_PINS.GetZoneAndSubzone(false, false, false)
+  return $multi(x, y, zone ?? "", subZone ?? "", GetCurrentMapId())
 }
 
 export function isValidMapType(this: void): boolean {

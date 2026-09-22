@@ -150,11 +150,11 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-types/zone-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache-status-bar/sales-history-cache-status-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache/sales-history-cache.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-shape/journal-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-casts/saved-vars-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-types/compass-pins-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-update/minimap-update.module.code.ts"}

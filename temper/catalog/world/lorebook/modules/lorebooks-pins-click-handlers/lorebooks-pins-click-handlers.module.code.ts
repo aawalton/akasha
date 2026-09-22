@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
@@ -13,7 +14,7 @@ import type {
   ShalidorClickPin,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-pins-tags/lorebooks-pins-tags.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-18/eso-enums-18.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
@@ -65,7 +66,7 @@ function eideticDuplicates(this: void, pin1: MapPin, pin2: MapPin): boolean {
 }
 
 export function installClickHandlers(this: void): undefined {
-  LibMapPins.SetClickHandlers(PINS_UNKNOWN, {
+  MAP_PINS.SetClickHandlers(PINS_UNKNOWN, {
     [1]: {
       name: function (this: void, pin: MapPin): string {
         const p = asShalidorClickPin(pin)
@@ -97,7 +98,7 @@ export function installClickHandlers(this: void): undefined {
     },
   })
 
-  LibMapPins.SetClickHandlers(PINS_EIDETIC, {
+  MAP_PINS.SetClickHandlers(PINS_EIDETIC, {
     [1]: {
       name: eideticWaypointName,
       show: function (this: void, pin: MapPin): boolean {
@@ -108,7 +109,7 @@ export function installClickHandlers(this: void): undefined {
     },
   })
 
-  LibMapPins.SetClickHandlers(PINS_EIDETIC_COLLECTED, {
+  MAP_PINS.SetClickHandlers(PINS_EIDETIC_COLLECTED, {
     [1]: {
       name: eideticWaypointName,
       show: function (this: void, pin: MapPin): boolean {

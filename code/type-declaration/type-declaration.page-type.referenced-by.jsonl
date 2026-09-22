@@ -77,13 +77,13 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/writ-writworthy-global/writ-writworthy-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/guild-history/sales-history-controls/sales-history-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/inventory-config-global/inventory-config-global.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/lib-map-pins/map-pins-declarations/map-pins-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/antiquities/leads-global-declarations/leads-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/antiquities/leads-undaunted-declarations/leads-undaunted-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/antiquities/leads-window-declarations/leads-window-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/collections/journal-control-names/journal-control-names.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/collections/journal-saved-variables/journal-saved-variables.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/collections/journal-string-ids/journal-string-ids.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/navigation/destinations-preview-controls/destinations-preview-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/navigation/minimap-string-ids/minimap-string-ids.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/navigation/navigation-declarations/navigation-declarations.type-declaration.ts"}
@@ -98,7 +98,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-group-broadcast/lib-group-broadcast.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-lua-52/lib-lua-52.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-multi-account-sets/lib-multi-account-sets.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-qr-code/lib-qr-code.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-radial-menu/lib-radial-menu.type-declaration.ts"}

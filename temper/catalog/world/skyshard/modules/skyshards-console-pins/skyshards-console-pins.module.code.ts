@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   shouldDisplaySkyshards,
   updateSkyshardsData,
@@ -16,7 +17,7 @@ import {
 } from "akasha/temper/catalog/world/skyshard/modules/skyshards-constants/skyshards-constants.module.code.ts"
 import type { SkyshardPin } from "akasha/temper/catalog/world/skyshard/modules/skyshards-types/skyshards-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
@@ -32,9 +33,9 @@ export function mapCallbackCreatePins(this: void, pinType: string): undefined {
 
   const shouldDisplay = shouldDisplaySkyshards()
 
-  const [zone, subzone] = LibMapPins.GetZoneAndSubzone(false, true, false)
+  const [zone, subzone] = MAP_PINS.GetZoneAndSubzone(false, true, false)
   if (GetMapTileTexture() !== CONSOLE_STATE.lastZone) {
-    updateSkyshardsData(zone, subzone)
+    updateSkyshardsData(zone ?? "", subzone ?? "")
   }
 
   const skyshards = CONSOLE_STATE.skyshards
@@ -46,9 +47,9 @@ export function mapCallbackCreatePins(this: void, pinType: string): undefined {
       if (pinType === PINS_COLLECTED) {
         if (
           shardStatus === SKYSHARD_DISCOVERY_STATUS_ACQUIRED &&
-          LibMapPins.IsEnabled(PINS_COLLECTED)
+          MAP_PINS.IsEnabled(PINS_COLLECTED)
         ) {
-          LibMapPins.CreatePin(
+          MAP_PINS.CreatePin(
             PINS_COLLECTED,
             pinData,
             pinData[SKYSHARDS_PINDATA_LOCX],
@@ -62,9 +63,9 @@ export function mapCallbackCreatePins(this: void, pinType: string): undefined {
           shouldDisplay &&
           (shardStatus === SKYSHARD_DISCOVERY_STATUS_DISCOVERED ||
             shardStatus === SKYSHARD_DISCOVERY_STATUS_UNDISCOVERED) &&
-          LibMapPins.IsEnabled(PINS_UNKNOWN)
+          MAP_PINS.IsEnabled(PINS_UNKNOWN)
         ) {
-          LibMapPins.CreatePin(
+          MAP_PINS.CreatePin(
             PINS_UNKNOWN,
             pinData,
             pinData[SKYSHARDS_PINDATA_LOCX],

@@ -250,11 +250,6 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-dispatch/inventory-writ-crafting-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master/inventory-writ-crafting-master.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-detection/inventory-writ-detection.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-helpers/map-pins-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-shape/journal-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tooltip-colors/journal-tooltip-colors.module.code.ts"}
@@ -275,6 +270,11 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-tamriel-o-meter/gps-tamriel-o-meter.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-types/gps-types.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-world-size/gps-world-size.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-helpers/map-pins-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-filters/pin-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-casts/compass-pins-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}

@@ -113,14 +113,14 @@
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-browse-window/trading-browse-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-types/pin-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-casts/journal-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-shape/journal-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tooltips/journal-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-types/pin-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-tooltips/map-pins-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}

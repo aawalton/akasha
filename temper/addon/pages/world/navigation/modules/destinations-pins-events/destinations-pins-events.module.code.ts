@@ -1,15 +1,16 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 
 export function onPoiUpdated(this: void): undefined {
-  LibMapPins.RefreshPins(PIN_TYPES.UNKNOWN)
-  LibMapPins.RefreshPins(PIN_TYPES.FAKEKNOWN)
+  MAP_PINS.RefreshPins(PIN_TYPES.UNKNOWN)
+  MAP_PINS.RefreshPins(PIN_TYPES.FAKEKNOWN)
 }
 
 function refreshBoth(pinType: string): undefined {
-  LibMapPins.RefreshPins(pinType)
+  MAP_PINS.RefreshPins(pinType)
   COMPASS_PINS.RefreshPins(pinType)
 }
 

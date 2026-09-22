@@ -1,4 +1,5 @@
 import { MAP_DATA_STATE } from "akasha/temper/addon/pages/world/map-data/modules/map-data-public-api/map-data-public-api.module.code.ts"
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   getMapTextureName,
@@ -13,10 +14,10 @@ import {
   PORTALS,
   STABLE,
 } from "akasha/temper/addon/pages/world/navigation/modules/destinations-shared-data/destinations-shared-data.module.code.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 
 function redrawMapPinsOnly(pinType: string): undefined {
-  LibMapPins.RefreshPins(pinType)
+  MAP_PINS.RefreshPins(pinType)
 }
 
 export function redrawQolPins(): undefined {
@@ -45,15 +46,15 @@ export function mapCallbackQolPins(pinType: string): undefined {
 
   for (const pinData of mapData) {
     if (pinType === PIN_TYPES.QOLPINS_DOCK && pinData.pinsType === DOCKS_HIGH_ISLE) {
-      LibMapPins.CreatePin(PIN_TYPES.QOLPINS_DOCK, pinData, pinData.x, pinData.y)
+      MAP_PINS.CreatePin(PIN_TYPES.QOLPINS_DOCK, pinData, pinData.x, pinData.y)
     }
 
     if (pinType === PIN_TYPES.QOLPINS_STABLE && pinData.pinsType === STABLE) {
-      LibMapPins.CreatePin(PIN_TYPES.QOLPINS_STABLE, pinData, pinData.x, pinData.y)
+      MAP_PINS.CreatePin(PIN_TYPES.QOLPINS_STABLE, pinData, pinData.x, pinData.y)
     }
 
     if (pinType === PIN_TYPES.QOLPINS_PORTAL && pinData.pinsType === PORTALS) {
-      LibMapPins.CreatePin(PIN_TYPES.QOLPINS_PORTAL, pinData, pinData.x, pinData.y)
+      MAP_PINS.CreatePin(PIN_TYPES.QOLPINS_PORTAL, pinData, pinData.x, pinData.y)
     }
   }
 }

@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { valueDropdown } from "akasha/temper/addon/shared/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import { compassLayout } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-compass-pins/lorebooks-compass-pins.module.code.ts"
@@ -29,15 +30,13 @@ import {
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-settings-types/lorebooks-settings-types.module.code.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-
-const LMP = LibMapPins
 
 export function addPinAppearanceOptions(
   this: void,
@@ -107,8 +106,8 @@ export function addPinAppearanceOptions(
   CALLBACK_MANAGER.RegisterCallback("LAM-PanelControlsCreated", createIcons)
 
   const setLayoutKeyAndRefresh = (pin: string, key: string, value: unknown): undefined => {
-    LMP.SetLayoutKey(pin, key, value)
-    LMP.RefreshPins(pin)
+    MAP_PINS.SetLayoutKey(pin, key, value)
+    MAP_PINS.RefreshPins(pin)
   }
 
   optionsTable[optionsTable.length] = valueDropdown<number>({
@@ -122,8 +121,8 @@ export function addPinAppearanceOptions(
       unknownIcon?.SetTexture(unknownTexture(value))
       collectedIcon?.SetDesaturation(value === DEFAULTS.pinTexture.type ? 1 : 0)
       collectedIcon?.SetTexture(collectedTexture(value))
-      LMP.RefreshPins(PINS_UNKNOWN)
-      LMP.RefreshPins(PINS_COLLECTED)
+      MAP_PINS.RefreshPins(PINS_UNKNOWN)
+      MAP_PINS.RefreshPins(PINS_COLLECTED)
       compassLayout(PINS_COMPASS).texture = unknownTexture(value)
       COMPASS_PINS.RefreshPins(PINS_COMPASS)
     },
@@ -152,8 +151,8 @@ export function addPinAppearanceOptions(
       unknownIconEidetic?.SetTexture(unknownTexture(value))
       collectedIconEidetic?.SetDesaturation(value === DEFAULTS.pinTextureEidetic ? 1 : 0)
       collectedIconEidetic?.SetTexture(collectedTexture(value))
-      LMP.RefreshPins(PINS_EIDETIC)
-      LMP.RefreshPins(PINS_EIDETIC_COLLECTED)
+      MAP_PINS.RefreshPins(PINS_EIDETIC)
+      MAP_PINS.RefreshPins(PINS_EIDETIC_COLLECTED)
       compassLayout(PINS_COMPASS_EIDETIC).texture = unknownTexture(value)
       COMPASS_PINS.RefreshPins(PINS_COMPASS_EIDETIC)
     },

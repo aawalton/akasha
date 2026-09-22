@@ -456,9 +456,6 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-prune/trading-prune.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-reporting/leads-reporting.module.code.ts"}
@@ -485,6 +482,9 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-events/map-data-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-queries/map-data-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-update/map-data-update.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-filters/pin-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-fishing-fish-done-pin/destinations-fishing-fish-done-pin.module.code.ts"}

@@ -88,10 +88,10 @@
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-types/pin-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-types/pin-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-init/minimap-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-library-rows/lorebooks-library-rows.module.code.ts"}

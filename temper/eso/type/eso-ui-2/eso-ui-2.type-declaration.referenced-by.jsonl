@@ -146,10 +146,10 @@
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-window/journal-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-color-defs/destinations-pins-color-defs.module.code.ts"}

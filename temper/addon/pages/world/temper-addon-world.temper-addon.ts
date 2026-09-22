@@ -19,6 +19,7 @@ export const temperAddonWorld = {
     "type-declaration/world-declarations",
     "domain/temper-addon-world-gps",
     "domain/temper-addon-world-map-data",
+    "domain/temper-addon-world-map-pins",
     "domain/temper-addon-world-navigation",
     "domain/temper-addon-world-quests",
     "domain/temper-addon-world-antiquities",

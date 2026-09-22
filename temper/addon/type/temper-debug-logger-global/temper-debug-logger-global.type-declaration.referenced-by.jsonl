@@ -3,9 +3,9 @@
 {"propertySlug":"import","fileName":"temper-debug-logger-global.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-messages/addon-menu-messages.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-debug-logger-global.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-log/writ-log.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-debug-logger-global.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-state/sales-history-state.module.code.ts"}
-{"propertySlug":"import","fileName":"temper-debug-logger-global.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-debug-logger-global.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-types/gps-types.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-debug-logger-global.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-types/map-data-types.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-debug-logger-global.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-debug-logger-global.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-shared/minimap-shared.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-debug-logger-global.type-declaration.d.ts","path":"temper/addon/shared/log/modules/addon-log/addon-log.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-debug-logger-global.type-declaration.d.ts","path":"temper/addon/shared/log/modules/library-logger/library-logger.module.code.ts"}

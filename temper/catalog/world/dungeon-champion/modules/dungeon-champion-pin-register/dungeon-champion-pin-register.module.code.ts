@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   CUSTOM_COMPASS_LAYOUT_RESET,
   CUSTOM_COMPASS_LAYOUT_UPDATE,
@@ -24,7 +25,7 @@ import {
 } from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-pins/dungeon-champion-pins.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
@@ -93,14 +94,14 @@ export function registerPins(this: void): undefined {
   const compassKnownLayout = buildCompassLayout(PIN_TEXTURES.collected[pinTextureType] ?? "", true)
   const compassUnknownLayout = buildCompassLayout(PIN_TEXTURES.unknown[pinTextureType] ?? "", false)
 
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PINS_UNKNOWN,
     mapCallbackUnknown,
     undefined,
     pinLayoutUnknown,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PINS_COLLECTED,
     mapCallbackCollected,
     undefined,
@@ -108,13 +109,8 @@ export function registerPins(this: void): undefined {
     PIN_TOOLTIP_CREATOR
   )
 
-  LibMapPins.AddPinFilter(PINS_UNKNOWN, getUiString("DCS_FILTER_UNKNOWN"), undefined, sv.filters)
-  LibMapPins.AddPinFilter(
-    PINS_COLLECTED,
-    getUiString("DCS_FILTER_COLLECTED"),
-    undefined,
-    sv.filters
-  )
+  MAP_PINS.AddPinFilter(PINS_UNKNOWN, getUiString("DCS_FILTER_UNKNOWN"), undefined, sv.filters)
+  MAP_PINS.AddPinFilter(PINS_COLLECTED, getUiString("DCS_FILTER_COLLECTED"), undefined, sv.filters)
 
   COMPASS_PINS.AddCustomPin(PINS_COMPASS_KNOWN, compassCallbackKnown, compassKnownLayout)
   COMPASS_PINS.AddCustomPin(PINS_COMPASS_UNKNOWN, compassCallbackUnknown, compassUnknownLayout)

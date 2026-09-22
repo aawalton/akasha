@@ -697,13 +697,6 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-dispatch/inventory-writ-crafting-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-enchanting/inventory-writ-crafting-enchanting.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-browse-window/trading-browse-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-helpers/map-pins-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-lib/map-pins-lib.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-state/pin-state.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-types/pin-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-alerts/leads-alerts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-reporting/leads-reporting.module.code.ts"}
@@ -742,6 +735,13 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-build-tables/map-data-build-tables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-queries/map-data-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-update/map-data-update.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-helpers/map-pins-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-lib/map-pins-lib.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-filters/pin-filters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-state/pin-state.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-types/pin-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-constants/compass-pins-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}

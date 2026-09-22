@@ -1,5 +1,6 @@
 import { GPS } from "akasha/temper/addon/pages/world/gps/modules/gps-public-api/gps-public-api.module.code.ts"
 import { MAP_DATA_STATE } from "akasha/temper/addon/pages/world/map-data/modules/map-data-public-api/map-data-public-api.module.code.ts"
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
@@ -34,7 +35,7 @@ import { STATE } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-ru
 import { getSavedVariables } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
@@ -154,8 +155,8 @@ export function mapCallbackCreateShalidorPins(this: void, pinType: string): unde
         pinData[SHALIDOR_BOOKINDEX]
       )
       if (pinType === PINS_COLLECTED) {
-        if (known && LibMapPins.IsEnabled(PINS_COLLECTED)) {
-          LibMapPins.CreatePin(
+        if (known && MAP_PINS.IsEnabled(PINS_COLLECTED)) {
+          MAP_PINS.CreatePin(
             PINS_COLLECTED,
             pinData,
             pinData[SHALIDOR_LOCATION_X],
@@ -164,8 +165,8 @@ export function mapCallbackCreateShalidorPins(this: void, pinType: string): unde
         }
       }
       if (pinType === PINS_UNKNOWN) {
-        if (!known && shouldDisplay && LibMapPins.IsEnabled(PINS_UNKNOWN)) {
-          LibMapPins.CreatePin(
+        if (!known && shouldDisplay && MAP_PINS.IsEnabled(PINS_UNKNOWN)) {
+          MAP_PINS.CreatePin(
             PINS_UNKNOWN,
             pinData,
             pinData[SHALIDOR_LOCATION_X],
@@ -186,13 +187,13 @@ export function mapCallbackCreateBookshelfPins(this: void, pinType: string): und
   const zoneMapId = MAP_DATA_STATE.GetParentMapIdFromZoneId(MAP_DATA_STATE.zoneId ?? 0)
   updateBookshelfLorebooksData(mapId, zoneMapId)
 
-  if (pinType === PINS_BOOKSHELF && LibMapPins.IsEnabled(PINS_BOOKSHELF)) {
+  if (pinType === PINS_BOOKSHELF && MAP_PINS.IsEnabled(PINS_BOOKSHELF)) {
     const bookshelves = asBookshelfRuntimeEntries(STATE.bookshelves)
     if (bookshelves !== undefined) {
       for (const [, pinData] of ipairs(bookshelves)) {
         pinData.texture = getPinTextureBookshelf(asMapPin(pinData))
         pinData.pinName = GetString(LBOOKS_BOOKSHELF)
-        LibMapPins.CreatePin(PINS_BOOKSHELF, pinData, pinData.x, pinData.y)
+        MAP_PINS.CreatePin(PINS_BOOKSHELF, pinData, pinData.x, pinData.y)
       }
     }
   }
@@ -331,20 +332,20 @@ export function mapCallbackCreateEideticPins(this: void, pinType: string): undef
         meetsPinCriteria &&
         pinType === PINS_EIDETIC_COLLECTED &&
         known &&
-        LibMapPins.IsEnabled(PINS_EIDETIC_COLLECTED)
+        MAP_PINS.IsEnabled(PINS_EIDETIC_COLLECTED)
       const displayUnnownPin =
         hasLocation &&
         meetsPinCriteria &&
         pinType === PINS_EIDETIC &&
         !known &&
         shouldDisplay &&
-        LibMapPins.IsEnabled(PINS_EIDETIC)
+        MAP_PINS.IsEnabled(PINS_EIDETIC)
 
       if (displayKnownPin) {
-        LibMapPins.CreatePin(PINS_EIDETIC_COLLECTED, pinData, pinData.xLoc ?? 0, pinData.yLoc ?? 0)
+        MAP_PINS.CreatePin(PINS_EIDETIC_COLLECTED, pinData, pinData.xLoc ?? 0, pinData.yLoc ?? 0)
       }
       if (displayUnnownPin) {
-        LibMapPins.CreatePin(PINS_EIDETIC, pinData, pinData.xLoc ?? 0, pinData.yLoc ?? 0)
+        MAP_PINS.CreatePin(PINS_EIDETIC, pinData, pinData.xLoc ?? 0, pinData.yLoc ?? 0)
       }
     }
   }

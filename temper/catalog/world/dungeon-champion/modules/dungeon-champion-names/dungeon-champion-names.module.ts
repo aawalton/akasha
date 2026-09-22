@@ -9,7 +9,7 @@ export const dungeonChampionNames = {
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The pin keys here are the keys LibMapPins and the compass are told.",
+      statement: "The pin keys here are the keys the map and the compass are told.",
     },
   ],
 } as const satisfies Module

@@ -1,4 +1,5 @@
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
@@ -82,7 +83,7 @@ export function getMapTextureName(): undefined {
   } else {
     MAP_STATE.zoneTextureName = ZONE_IDS_TO_FILE_NAMES[MAP_STATE.zoneId]
   }
-  const [, subzone] = LibMapPins.GetZoneAndSubzone(false, true, true)
+  const [, subzone] = MAP_PINS.GetZoneAndSubzone(false, true, true)
   MAP_STATE.mapTextureName = subzone
   if (MAP_STATE.zoneTextureName == null) {
     MAP_STATE.zoneTextureName = MAP_STATE.mapTextureName

@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   DEST_PIN_TEXT_COLOR_AYLEID,
   DEST_PIN_TINT_AYLEID,
@@ -32,9 +33,6 @@ import {
 import { getIconPreviews } from "akasha/temper/addon/pages/world/navigation/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 import { unpackRgba } from "akasha/temper/modules/unpack-color/unpack-color.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
-
-const LMP = LibMapPins
 
 const MISC_POI_TYPES: readonly string[] = [
   PIN_TYPES.AYLEID,
@@ -83,7 +81,7 @@ function appendAyleidControls(controls: LamControlData[]): undefined {
         if (PIN_TEXTURE_LISTS.Ayleid[i] === selected) {
           const index = i + 1
           sv.pins.pinTextureAyleid.type = index
-          LMP.SetLayoutKey(
+          MAP_PINS.SetLayoutKey(
             PIN_TYPES.AYLEID,
             "texture",
             texturePathAt(PIN_TEXTURE_PATHS.Ayleid, index)
@@ -106,7 +104,7 @@ function appendAyleidControls(controls: LamControlData[]): undefined {
     setFunc: (size) => {
       sv.pins.pinTextureAyleid.size = size
       getIconPreviews().ayleid.SetDimensions(size, size)
-      LMP.SetLayoutKey(PIN_TYPES.AYLEID, "size", size)
+      MAP_PINS.SetLayoutKey(PIN_TYPES.AYLEID, "size", size)
       redrawAllPins(PIN_TYPES.AYLEID)
     },
     disabled: filterDisabled(PIN_TYPES.AYLEID),
@@ -138,7 +136,7 @@ function appendAyleidControls(controls: LamControlData[]): undefined {
     setFunc: (r, g, b) => {
       sv.pins.pinTextureAyleid.textcolor = [r, g, b]
       DEST_PIN_TEXT_COLOR_AYLEID.SetRGB(r, g, b)
-      LMP.RefreshPins(PIN_TYPES.AYLEID)
+      MAP_PINS.RefreshPins(PIN_TYPES.AYLEID)
     },
     disabled: filterDisabled(PIN_TYPES.AYLEID),
     default: colorDefaultRgb(DEFAULTS.pins.pinTextureAyleid.textcolor),
@@ -178,7 +176,7 @@ function appendSimpleMiscPoiControls(
     getFunc: () => spec.pinSettings.size,
     setFunc: (size) => {
       spec.pinSettings.size = size
-      LMP.SetLayoutKey(spec.pinType, "size", size)
+      MAP_PINS.SetLayoutKey(spec.pinType, "size", size)
       redrawAllPins(spec.pinType)
     },
     disabled: filterDisabled(spec.pinType),
@@ -193,7 +191,7 @@ function appendSimpleMiscPoiControls(
     },
     setFunc: (r, g, b) => {
       spec.pinSettings.textcolor = [r, g, b]
-      LMP.RefreshPins(spec.pinType)
+      MAP_PINS.RefreshPins(spec.pinType)
     },
     disabled: filterDisabled(spec.pinType),
     default: colorDefaultRgb(spec.textColorDefault),
@@ -227,7 +225,7 @@ function appendDwemerControls(controls: LamControlData[]): undefined {
         if (PIN_TEXTURE_LISTS.Dwemer[i] === selected) {
           const index = i + 1
           sv.pins.pinTextureDwemer.type = index
-          LMP.SetLayoutKey(
+          MAP_PINS.SetLayoutKey(
             PIN_TYPES.DWEMER,
             "texture",
             texturePathAt(PIN_TEXTURE_PATHS.dwemer, index)
@@ -250,7 +248,7 @@ function appendDwemerControls(controls: LamControlData[]): undefined {
     setFunc: (size) => {
       sv.pins.pinTextureDwemer.size = size
       getIconPreviews().dwemer.SetDimensions(size, size)
-      LMP.SetLayoutKey(PIN_TYPES.DWEMER, "size", size)
+      MAP_PINS.SetLayoutKey(PIN_TYPES.DWEMER, "size", size)
       redrawAllPins(PIN_TYPES.DWEMER)
     },
     disabled: filterDisabled(PIN_TYPES.DWEMER),
@@ -281,7 +279,7 @@ function appendDwemerControls(controls: LamControlData[]): undefined {
     },
     setFunc: (r, g, b) => {
       sv.pins.pinTextureDwemer.textcolor = [r, g, b]
-      LMP.RefreshPins(PIN_TYPES.DWEMER)
+      MAP_PINS.RefreshPins(PIN_TYPES.DWEMER)
     },
     disabled: filterDisabled(PIN_TYPES.DWEMER),
     default: colorDefaultRgb(DEFAULTS.pins.pinTextureDwemer.textcolor),
@@ -339,7 +337,7 @@ function appendCompassControls(controls: LamControlData[]): undefined {
       sv.pins.pinTextureHighIsle.level = level
       sv.pins.pinTextureDwemer.level = level
       for (const pinType of MISC_POI_TYPES) {
-        LMP.SetLayoutKey(pinType, "level", level)
+        MAP_PINS.SetLayoutKey(pinType, "level", level)
       }
       for (const pinType of MISC_POI_TYPES) {
         redrawAllPins(pinType)

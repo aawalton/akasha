@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   DEST_PIN_TEXT_COLOR_COLLECTIBLE,
   DEST_PIN_TEXT_COLOR_COLLECTIBLE_DONE,
@@ -19,7 +20,7 @@ import {
 import { DRTV } from "akasha/temper/addon/pages/world/navigation/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -72,7 +73,7 @@ export function collectiblepinTypeCallback(this: void): undefined {
                 const [, completed] = GetAchievementCriterion(collectibleID, i)
                 if (completed === 0) {
                   countCN = countCN + 1
-                } else if (LibMapPins.IsEnabled(PIN_TYPES.COLLECTIBLESDONE)) {
+                } else if (MAP_PINS.IsEnabled(PIN_TYPES.COLLECTIBLESDONE)) {
                   countCND = countCND + 1
                 }
               }
@@ -107,7 +108,7 @@ export function collectiblepinTypeCallback(this: void): undefined {
                         )
                       )
                     }
-                  } else if (LibMapPins.IsEnabled(PIN_TYPES.COLLECTIBLESDONE)) {
+                  } else if (MAP_PINS.IsEnabled(PIN_TYPES.COLLECTIBLESDONE)) {
                     if (sv.filters[PIN_TYPES.COLLECTIBLES_SHOW_MOBNAME] === true) {
                       DRTV.pinTag.push(
                         DEST_PIN_TEXT_COLOR_COLLECTIBLE.Colorize(
@@ -129,7 +130,7 @@ export function collectiblepinTypeCallback(this: void): undefined {
           }
         }
         if (countCN >= 1 && countCND === 0) {
-          LibMapPins.CreatePin(
+          MAP_PINS.CreatePin(
             PIN_TYPES.COLLECTIBLES,
             DRTV.pinTag,
             rowNumber(pinData, AchIndex.X),
@@ -217,7 +218,7 @@ export function collectibleDonepinTypeCallback(this: void): undefined {
         }
       }
       if (countCN >= 1) {
-        LibMapPins.CreatePin(
+        MAP_PINS.CreatePin(
           PIN_TYPES.COLLECTIBLESDONE,
           DRTV.pinTag,
           rowNumber(pinData, AchIndex.X),

@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
@@ -12,7 +13,7 @@ import {
 import { DRTV } from "akasha/temper/addon/pages/world/navigation/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import { getCharacterSavedVariables } from "akasha/temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 
@@ -32,16 +33,13 @@ export function addMiscCompassPins(this: void): undefined {
     const x = rowNumber(pinData, AchIndex.X)
     const y = rowNumber(pinData, AchIndex.Y)
     if (DRTV.pinType === 20) {
-      if (
-        !LibMapPins.IsEnabled(PIN_TYPES.AYLEID) ||
-        cssv.filters[PIN_TYPES.MISC_COMPASS] !== true
-      ) {
+      if (!MAP_PINS.IsEnabled(PIN_TYPES.AYLEID) || cssv.filters[PIN_TYPES.MISC_COMPASS] !== true) {
         return
       }
       COMPASS_PINS.pinManager.CreatePin(PIN_TYPES.AYLEID, pinData, x, y)
     } else if (DRTV.pinType === 25) {
       if (
-        !LibMapPins.IsEnabled(PIN_TYPES.DEADLANDS) ||
+        !MAP_PINS.IsEnabled(PIN_TYPES.DEADLANDS) ||
         cssv.filters[PIN_TYPES.MISC_COMPASS] !== true
       ) {
         return
@@ -49,36 +47,33 @@ export function addMiscCompassPins(this: void): undefined {
       COMPASS_PINS.pinManager.CreatePin(PIN_TYPES.DEADLANDS, pinData, x, y)
     } else if (DRTV.pinType === 26) {
       if (
-        !LibMapPins.IsEnabled(PIN_TYPES.HIGHISLE) ||
+        !MAP_PINS.IsEnabled(PIN_TYPES.HIGHISLE) ||
         cssv.filters[PIN_TYPES.MISC_COMPASS] !== true
       ) {
         return
       }
       COMPASS_PINS.pinManager.CreatePin(PIN_TYPES.HIGHISLE, pinData, x, y)
     } else if (DRTV.pinType === 21) {
-      if (!LibMapPins.IsEnabled(PIN_TYPES.WWVAMP) || cssv.filters[PIN_TYPES.VWW_COMPASS] !== true) {
+      if (!MAP_PINS.IsEnabled(PIN_TYPES.WWVAMP) || cssv.filters[PIN_TYPES.VWW_COMPASS] !== true) {
         return
       }
       COMPASS_PINS.pinManager.CreatePin(PIN_TYPES.WWVAMP, pinData, x, y)
     } else if (DRTV.pinType === 22) {
       if (
-        !LibMapPins.IsEnabled(PIN_TYPES.VAMPIRE_ALTAR) ||
+        !MAP_PINS.IsEnabled(PIN_TYPES.VAMPIRE_ALTAR) ||
         cssv.filters[PIN_TYPES.VWW_COMPASS] !== true
       ) {
         return
       }
       COMPASS_PINS.pinManager.CreatePin(PIN_TYPES.VAMPIRE_ALTAR, pinData, x, y)
     } else if (DRTV.pinType === 23) {
-      if (
-        !LibMapPins.IsEnabled(PIN_TYPES.DWEMER) ||
-        cssv.filters[PIN_TYPES.MISC_COMPASS] !== true
-      ) {
+      if (!MAP_PINS.IsEnabled(PIN_TYPES.DWEMER) || cssv.filters[PIN_TYPES.MISC_COMPASS] !== true) {
         return
       }
       COMPASS_PINS.pinManager.CreatePin(PIN_TYPES.DWEMER, pinData, x, y)
     } else if (DRTV.pinType === 24) {
       if (
-        !LibMapPins.IsEnabled(PIN_TYPES.WEREWOLF_SHRINE) ||
+        !MAP_PINS.IsEnabled(PIN_TYPES.WEREWOLF_SHRINE) ||
         cssv.filters[PIN_TYPES.VWW_COMPASS] !== true
       ) {
         return

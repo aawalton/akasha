@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   DEST_PIN_TEXT_COLOR_FISH,
   DEST_PIN_TEXT_COLOR_FISH_DONE,
@@ -30,7 +31,7 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { DRTV } from "akasha/temper/addon/pages/world/navigation/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -119,25 +120,25 @@ export function fishpinTypeCallback(this: void): undefined {
               if (pinType === 40 && fishLoc === DESTINATIONS_FISH_TYPE_FOUL) {
                 if (completed === 0) {
                   fishMiss = true
-                } else if (LibMapPins.IsEnabled(PIN_TYPES.FISHINGDONE)) {
+                } else if (MAP_PINS.IsEnabled(PIN_TYPES.FISHINGDONE)) {
                   fishFound = true
                 }
               } else if (pinType === 41 && fishLoc === DESTINATIONS_FISH_TYPE_RIVER) {
                 if (completed === 0) {
                   fishMiss = true
-                } else if (LibMapPins.IsEnabled(PIN_TYPES.FISHINGDONE)) {
+                } else if (MAP_PINS.IsEnabled(PIN_TYPES.FISHINGDONE)) {
                   fishFound = true
                 }
               } else if (pinType === 42 && fishLoc === DESTINATIONS_FISH_TYPE_OCEAN) {
                 if (completed === 0) {
                   fishMiss = true
-                } else if (LibMapPins.IsEnabled(PIN_TYPES.FISHINGDONE)) {
+                } else if (MAP_PINS.IsEnabled(PIN_TYPES.FISHINGDONE)) {
                   fishFound = true
                 }
               } else if (pinType === 43 && fishLoc === DESTINATIONS_FISH_TYPE_LAKE) {
                 if (completed === 0) {
                   fishMiss = true
-                } else if (LibMapPins.IsEnabled(PIN_TYPES.FISHINGDONE)) {
+                } else if (MAP_PINS.IsEnabled(PIN_TYPES.FISHINGDONE)) {
                   fishFound = true
                 }
               }
@@ -189,7 +190,7 @@ export function fishpinTypeCallback(this: void): undefined {
       }
       if (countFN >= 1 || countLN >= 1 || countON >= 1 || countRN >= 1) {
         if (countF >= 1 || countL >= 1 || countO >= 1 || countR >= 1) {
-          LibMapPins.CreatePin(
+          MAP_PINS.CreatePin(
             PIN_TYPES.FISHING,
             DRTV.pinTag,
             rowNumber(pinData, AchIndex.X),

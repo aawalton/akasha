@@ -2,6 +2,7 @@ import {
   getTreasureIcons,
   getTreasureMapIdData,
 } from "akasha/temper/addon/pages/world/collections/modules/treasure-api/treasure-api.module.code.ts"
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { isItemInBagCache } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-bag-cache/lost-treasure-bag-cache.module.code.ts"
 import {
@@ -27,7 +28,7 @@ import {
 } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lost-treasure/lost-treasure-string-ids/lost-treasure-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -110,7 +111,7 @@ function getPinNameFromPinType(this: void, pinType: PinType): string {
 }
 
 function refreshMapPins(this: void, pinName: string): undefined {
-  LibMapPins.RefreshPins(pinName)
+  MAP_PINS.RefreshPins(pinName)
 }
 
 function refreshCompassPins(this: void, pinName: string): undefined {
@@ -118,15 +119,15 @@ function refreshCompassPins(this: void, pinName: string): undefined {
 }
 
 export function setLayoutKey(this: void, pinType: PinType, key: string, data: unknown): undefined {
-  LibMapPins.SetLayoutKey(getPinNameFromPinType(pinType), key, data)
+  MAP_PINS.SetLayoutKey(getPinNameFromPinType(pinType), key, data)
 }
 
 function isEnabled(this: void, pinName: string): boolean {
-  return LibMapPins.IsEnabled(pinName)
+  return MAP_PINS.IsEnabled(pinName) === true
 }
 
 export function setMapPinState(this: void, pinType: PinType, pinState: boolean): undefined {
-  LibMapPins.SetEnabled(getPinNameFromPinType(pinType), pinState)
+  MAP_PINS.SetEnabled(getPinNameFromPinType(pinType), pinState)
 }
 
 export function refreshAllPinsFromPinType(this: void, pinType: PinType): undefined {
@@ -162,8 +163,8 @@ function addNewPins(
   settingsLayout: PinTypeSettings,
   settingsKey: string
 ): undefined {
-  LibMapPins.AddPinType(pinName, mapCallback, undefined, mapLayout, pinTooltip)
-  LibMapPins.AddPinFilter(pinName, mapFilter, undefined, asBoolRecord(settingsLayout), settingsKey)
+  MAP_PINS.AddPinType(pinName, mapCallback, undefined, mapLayout, pinTooltip)
+  MAP_PINS.AddPinFilter(pinName, mapFilter, undefined, asBoolRecord(settingsLayout), settingsKey)
 
   COMPASS_PINS.AddCustomPin(pinName, compassCallback, compassLayout)
 
@@ -173,7 +174,7 @@ function addNewPins(
 function createNewPin(this: void, pinType: PinType, pinData: PinPlacement, key: PinKey): undefined {
   const pinName = getPinNameFromPinType(pinType)
   if (key === LOST_TREASURE_PIN_KEY_MAP) {
-    LibMapPins.CreatePin(pinName, pinData, pinData.x, pinData.y)
+    MAP_PINS.CreatePin(pinName, pinData, pinData.x, pinData.y)
   } else if (key === LOST_TREASURE_PIN_KEY_COMPASS) {
     const itemLink = getItemLinkFromItemId(pinData.itemId)
     const itemName = zo_strformat(SI_TOOLTIP_ITEM_NAME, GetItemLinkName(itemLink))

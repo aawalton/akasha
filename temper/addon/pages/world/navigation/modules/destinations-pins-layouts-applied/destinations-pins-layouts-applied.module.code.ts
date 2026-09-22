@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { fishDonepinTypeCallback } from "akasha/temper/addon/pages/world/navigation/modules/destinations-fishing-fish-done-pin/destinations-fishing-fish-done-pin.module.code.ts"
 import { fishpinTypeCallback } from "akasha/temper/addon/pages/world/navigation/modules/destinations-fishing-fish-pin/destinations-fishing-fish-pin.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
@@ -56,278 +57,278 @@ import {
   mapCallbackFakeKnown,
   mapCallbackUnknown,
 } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 
 export function setPinLayouts(): undefined {
   const layouts = buildPinLayouts()
 
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.FAKEKNOWN,
     mapCallbackFakeKnown,
     undefined,
     layouts.Faked,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.UNKNOWN,
     mapCallbackUnknown,
     undefined,
     layouts.unknown,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.LB_GTTP_CP,
     otherpinTypeCallback,
     undefined,
     layouts.other,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.LB_GTTP_CP_DONE,
     otherpinTypeCallbackDone,
     undefined,
     layouts.other_Done,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.MAIQ,
     MaiqpinTypeCallback,
     undefined,
     layouts.Maiq,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.MAIQ_DONE,
     MaiqpinTypeCallbackDone,
     undefined,
     layouts.Maiq_Done,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.PEACEMAKER,
     PeacemakerpinTypeCallback,
     undefined,
     layouts.Peacemaker,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.PEACEMAKER_DONE,
     PeacemakerpinTypeCallbackDone,
     undefined,
     layouts.Peacemaker_Done,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.NOSEDIVER,
     NosediverpinTypeCallback,
     undefined,
     layouts.Nosediver,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.NOSEDIVER_DONE,
     NosediverpinTypeCallbackDone,
     undefined,
     layouts.Nosediver_Done,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.EARTHLYPOS,
     EarthlyPospinTypeCallback,
     undefined,
     layouts.EarthlyPos,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.EARTHLYPOS_DONE,
     EarthlyPospinTypeCallbackDone,
     undefined,
     layouts.EarthlyPos_Done,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.ON_ME,
     OnMepinTypeCallback,
     undefined,
     layouts.OnMe,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.ON_ME_DONE,
     OnMepinTypeCallbackDone,
     undefined,
     layouts.OnMe_Done,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.BRAWL,
     BrawlpinTypeCallback,
     undefined,
     layouts.Brawl,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.BRAWL_DONE,
     BrawlpinTypeCallbackDone,
     undefined,
     layouts.Brawl_Done,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.PATRON,
     PatronpinTypeCallback,
     undefined,
     layouts.Patron,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.PATRON_DONE,
     PatronpinTypeCallbackDone,
     undefined,
     layouts.Patron_Done,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.WROTHGAR_JUMPER,
     WrothgarJumperpinTypeCallback,
     undefined,
     layouts.WrothgarJumper,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.WROTHGAR_JUMPER_DONE,
     WrothgarJumperpinTypeCallbackDone,
     undefined,
     layouts.WrothgarJumper_Done,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.RELIC_HUNTER,
     relicHunterpinTypeCallback,
     undefined,
     layouts.RelicHunter,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.RELIC_HUNTER_DONE,
     relicHunterpinTypeCallbackDone,
     undefined,
     layouts.RelicHunter_Done,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.CHAMPION,
     championpinTypeCallback,
     undefined,
     layouts.Champion,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.CHAMPION_DONE,
     championpinTypeCallbackDone,
     undefined,
     layouts.Champion_Done,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.BREAKING,
     breakingpinTypeCallback,
     undefined,
     layouts.Breaking,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.BREAKING_DONE,
     breakingpinTypeCallbackDone,
     undefined,
     layouts.Breaking_Done,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.CUTPURSE,
     cutpursepinTypeCallback,
     undefined,
     layouts.Cutpurse,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.CUTPURSE_DONE,
     cutpursepinTypeCallbackDone,
     undefined,
     layouts.Cutpurse_Done,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.COLLECTIBLES,
     collectiblepinTypeCallback,
     undefined,
     layouts.Collectible,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.COLLECTIBLESDONE,
     collectibleDonepinTypeCallback,
     undefined,
     layouts.CollectibleDone,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.FISHING,
     fishpinTypeCallback,
     undefined,
     layouts.Fish,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.FISHINGDONE,
     fishDonepinTypeCallback,
     undefined,
     layouts.FishDone,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.AYLEID,
     AyleidpinTypeCallback,
     undefined,
     layouts.Ayleid,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.DEADLANDS,
     DeadlandspinTypeCallback,
     undefined,
     layouts.Deadlands,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.HIGHISLE,
     HighIslepinTypeCallback,
     undefined,
     layouts.HighIsle,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.WWVAMP,
     WWVamppinTypeCallback,
     undefined,
     layouts.WWVamp,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.VAMPIRE_ALTAR,
     VampireAltarpinTypeCallback,
     undefined,
     layouts.VampireAltar,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.WEREWOLF_SHRINE,
     WerewolfShrinepinTypeCallback,
     undefined,
     layouts.WereWolfShrine,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.DWEMER,
     DwemerRuinpinTypeCallback,
     undefined,
@@ -335,7 +336,7 @@ export function setPinLayouts(): undefined {
     PIN_TOOLTIP_CREATOR
   )
 
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.QOLPINS_DOCK,
     function (this: void): undefined {
       mapCallbackQolPins(PIN_TYPES.QOLPINS_DOCK)
@@ -344,7 +345,7 @@ export function setPinLayouts(): undefined {
     layouts.qolDock,
     QOL_PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.QOLPINS_STABLE,
     function (this: void): undefined {
       mapCallbackQolPins(PIN_TYPES.QOLPINS_STABLE)
@@ -353,7 +354,7 @@ export function setPinLayouts(): undefined {
     layouts.qolStable,
     QOL_PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PIN_TYPES.QOLPINS_PORTAL,
     function (this: void): undefined {
       mapCallbackQolPins(PIN_TYPES.QOLPINS_PORTAL)

@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   DEST_PIN_TINT_OTHER,
   DEST_PIN_TINT_OTHER_DONE,
@@ -28,9 +29,7 @@ import type { IconPreviews } from "akasha/temper/addon/pages/world/navigation/mo
 import { getIconPreviews } from "akasha/temper/addon/pages/world/navigation/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 import { unpackRgba } from "akasha/temper/modules/unpack-color/unpack-color.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
-
-const LMP = LibMapPins
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 
 const ALL_ACH_FILTERS: readonly string[] = [
   PIN_TYPES.LB_GTTP_CP,
@@ -171,8 +170,8 @@ function allPinLayerSlider(): LamSliderData {
         pinLayoutSettings(sv.pins, `${pinName}Done`).level = level
       }
       for (const pinName of DRTV.AchPins) {
-        LMP.SetLayoutKey(PIN_TYPES[pinName], "level", level + DESTINATIONS_PIN_PRIORITY_OFFSET)
-        LMP.SetLayoutKey(PIN_TYPES[`${pinName}_DONE`], "level", level)
+        MAP_PINS.SetLayoutKey(PIN_TYPES[pinName], "level", level + DESTINATIONS_PIN_PRIORITY_OFFSET)
+        MAP_PINS.SetLayoutKey(PIN_TYPES[`${pinName}_DONE`], "level", level)
       }
       sv.pins.pinTextureOther.level = level
       redrawAllAchievementPins()
@@ -199,7 +198,7 @@ function undoneTintPicker(): LamColorpickerData {
         pinLayoutSettings(sv.pins, pinName).tint = [r, g, b, a ?? 1]
       }
       for (const pinName of DRTV.AchPins) {
-        LMP.SetLayoutKey(PIN_TYPES[pinName], "tint", DEST_PIN_TINT_OTHER)
+        MAP_PINS.SetLayoutKey(PIN_TYPES[pinName], "tint", DEST_PIN_TINT_OTHER)
         redrawAllPins(PIN_TYPES[pinName])
       }
 
@@ -228,7 +227,7 @@ function undoneTextColorPicker(): LamColorpickerData {
         colorObj.SetRGB(r, g, b)
       }
       for (const pinName of DRTV.AchPins) {
-        LMP.RefreshPins(PIN_TYPES[pinName])
+        MAP_PINS.RefreshPins(PIN_TYPES[pinName])
       }
     },
     disabled: () => allFiltersDisabled(UNDONE_TEXT_FILTERS),
@@ -253,7 +252,7 @@ function doneTintPicker(): LamColorpickerData {
         pinLayoutSettings(sv.pins, `${pinName}Done`).tint = [r, g, b, a ?? 1]
       }
       for (const pinName of DRTV.AchPins) {
-        LMP.SetLayoutKey(PIN_TYPES[`${pinName}_DONE`], "tint", DEST_PIN_TINT_OTHER_DONE)
+        MAP_PINS.SetLayoutKey(PIN_TYPES[`${pinName}_DONE`], "tint", DEST_PIN_TINT_OTHER_DONE)
         redrawAllPins(PIN_TYPES[`${pinName}_DONE`])
       }
 
@@ -282,7 +281,7 @@ function doneTextColorPicker(): LamColorpickerData {
         colorObj.SetRGB(r, g, b)
       }
       for (const pinName of DRTV.AchPins) {
-        LMP.RefreshPins(PIN_TYPES[`${pinName}_DONE`])
+        MAP_PINS.RefreshPins(PIN_TYPES[`${pinName}_DONE`])
       }
     },
     disabled: () => allFiltersDisabled(DONE_FILTERS),

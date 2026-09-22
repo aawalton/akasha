@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   DEST_PIN_TINT_FISH,
   DEST_PIN_TINT_FISH_DONE,
@@ -31,9 +32,6 @@ import {
 import { getIconPreviews } from "akasha/temper/addon/pages/world/navigation/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 import { unpackRgba } from "akasha/temper/modules/unpack-color/unpack-color.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
-
-const LMP = LibMapPins
 
 function bothFishingFiltersDisabled(): boolean {
   const filters = getCharacterSavedVariables().filters
@@ -133,12 +131,12 @@ export function buildFishingSubmenu(): LamSubmenuData {
           const index = i + 1
           sv.pins.pinTextureFish.type = index
           sv.pins.pinTextureFishDone.type = index
-          LMP.SetLayoutKey(
+          MAP_PINS.SetLayoutKey(
             PIN_TYPES.FISHING,
             "texture",
             texturePathAt(PIN_TEXTURE_PATHS.fish, index)
           )
-          LMP.SetLayoutKey(
+          MAP_PINS.SetLayoutKey(
             PIN_TYPES.FISHINGDONE,
             "texture",
             texturePathAt(PIN_TEXTURE_PATHS.fishdone, index)
@@ -216,7 +214,7 @@ export function buildFishingSubmenu(): LamSubmenuData {
       sv.pins.pinTextureFish.tint = [r, g, b, a ?? 1]
       getIconPreviews().fish.SetColor(r, g, b, a)
       DEST_PIN_TINT_FISH.SetRGBA(r, g, b, a ?? 1)
-      LMP.RefreshPins(PIN_TYPES.FISHING)
+      MAP_PINS.RefreshPins(PIN_TYPES.FISHING)
     },
     disabled: filterDisabled(PIN_TYPES.FISHING),
     default: colorDefaultRgba(DEFAULTS.pins.pinTextureFish.tint),
@@ -268,7 +266,7 @@ export function buildFishingSubmenu(): LamSubmenuData {
       sv.pins.pinTextureFishDone.tint = [r, g, b, a ?? 1]
       getIconPreviews().fishDone.SetColor(r, g, b, a)
       DEST_PIN_TINT_FISH_DONE.SetRGBA(r, g, b, a ?? 1)
-      LMP.RefreshPins(PIN_TYPES.FISHINGDONE)
+      MAP_PINS.RefreshPins(PIN_TYPES.FISHINGDONE)
     },
     disabled: filterDisabled(PIN_TYPES.FISHINGDONE),
     default: colorDefaultRgba(DEFAULTS.pins.pinTextureFishDone.tint),
@@ -359,8 +357,8 @@ export function buildFishingSubmenu(): LamSubmenuData {
       sv.pins.pinTextureFishDone.size = size
       getIconPreviews().fish.SetDimensions(size, size)
       getIconPreviews().fishDone.SetDimensions(size, size)
-      LMP.SetLayoutKey(PIN_TYPES.FISHING, "size", size)
-      LMP.SetLayoutKey(PIN_TYPES.FISHINGDONE, "size", size)
+      MAP_PINS.SetLayoutKey(PIN_TYPES.FISHING, "size", size)
+      MAP_PINS.SetLayoutKey(PIN_TYPES.FISHINGDONE, "size", size)
       redrawAllPins(PIN_TYPES.FISHING)
       redrawAllPins(PIN_TYPES.FISHINGDONE)
     },
@@ -378,8 +376,8 @@ export function buildFishingSubmenu(): LamSubmenuData {
     setFunc: (level) => {
       sv.pins.pinTextureFish.level = level + DESTINATIONS_PIN_PRIORITY_OFFSET
       sv.pins.pinTextureFishDone.level = level
-      LMP.SetLayoutKey(PIN_TYPES.FISHING, "level", level + DESTINATIONS_PIN_PRIORITY_OFFSET)
-      LMP.SetLayoutKey(PIN_TYPES.FISHINGDONE, "level", level)
+      MAP_PINS.SetLayoutKey(PIN_TYPES.FISHING, "level", level + DESTINATIONS_PIN_PRIORITY_OFFSET)
+      MAP_PINS.SetLayoutKey(PIN_TYPES.FISHINGDONE, "level", level)
       redrawAllPins(PIN_TYPES.FISHING)
       redrawAllPins(PIN_TYPES.FISHINGDONE)
     },

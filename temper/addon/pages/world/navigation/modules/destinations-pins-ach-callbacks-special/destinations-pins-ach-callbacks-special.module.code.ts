@@ -1,4 +1,5 @@
 import { MAP_DATA_STATE } from "akasha/temper/addon/pages/world/map-data/modules/map-data-public-api/map-data-public-api.module.code.ts"
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   DEST_PIN_TEXT_COLOR_BREAKING,
   DEST_PIN_TEXT_COLOR_BREAKING_DONE,
@@ -32,7 +33,6 @@ import {
 import { DRTV } from "akasha/temper/addon/pages/world/navigation/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -64,7 +64,7 @@ export function otherpinTypeCallback(this: void): undefined {
         if (completedLB !== requiredLB) {
           DRTV.pinTag.push(DEST_PIN_TEXT_COLOR_OTHER.Colorize(zo_strformat("<<1>>", AchIDs[873])))
         }
-        LibMapPins.CreatePin(
+        MAP_PINS.CreatePin(
           PIN_TYPES.LB_GTTP_CP,
           DRTV.pinTag,
           rowNumber(pinData, AchIndex.X),
@@ -92,8 +92,8 @@ export function otherpinTypeCallbackDone(this: void): undefined {
       const required = requiredLB + requiredGTTP + requiredCP
       DRTV.pinTag = []
       let pinTextLine = 0
-      if (!LibMapPins.IsEnabled(PIN_TYPES.LB_GTTP_CP)) {
-        LibMapPins.SetLayoutKey(
+      if (!MAP_PINS.IsEnabled(PIN_TYPES.LB_GTTP_CP)) {
+        MAP_PINS.SetLayoutKey(
           PIN_TYPES.LB_GTTP_CP_DONE,
           "level",
           getSavedVariables().pins.pinTextureMaiq.level
@@ -110,8 +110,8 @@ export function otherpinTypeCallbackDone(this: void): undefined {
           )
         }
       }
-      if (LibMapPins.IsEnabled(PIN_TYPES.LB_GTTP_CP)) {
-        LibMapPins.SetLayoutKey(
+      if (MAP_PINS.IsEnabled(PIN_TYPES.LB_GTTP_CP)) {
+        MAP_PINS.SetLayoutKey(
           PIN_TYPES.LB_GTTP_CP_DONE,
           "level",
           getSavedVariables().pins.pinTextureMaiq.level - 1
@@ -136,7 +136,7 @@ export function otherpinTypeCallbackDone(this: void): undefined {
         }
       }
       if (pinTextLine >= 1) {
-        LibMapPins.CreatePin(
+        MAP_PINS.CreatePin(
           PIN_TYPES.LB_GTTP_CP_DONE,
           DRTV.pinTag,
           rowNumber(pinData, AchIndex.X),
@@ -161,7 +161,7 @@ export function relicHunterpinTypeCallback(this: void): undefined {
       DRTV.pinTag = []
       if (completed !== required) {
         DRTV.pinTag.push(DEST_PIN_TEXT_COLOR_RELICHUNTER.Colorize(zo_strformat("<<1>>", desc)))
-        LibMapPins.CreatePin(
+        MAP_PINS.CreatePin(
           PIN_TYPES.RELIC_HUNTER,
           DRTV.pinTag,
           rowNumber(pinData, AchIndex.X),
@@ -186,7 +186,7 @@ export function relicHunterpinTypeCallbackDone(this: void): undefined {
       DRTV.pinTag = []
       if (completed === required) {
         DRTV.pinTag.push(DEST_PIN_TEXT_COLOR_RELICHUNTER_DONE.Colorize(zo_strformat("<<1>>", desc)))
-        LibMapPins.CreatePin(
+        MAP_PINS.CreatePin(
           PIN_TYPES.RELIC_HUNTER_DONE,
           DRTV.pinTag,
           rowNumber(pinData, AchIndex.X),
@@ -214,7 +214,7 @@ export function breakingpinTypeCallback(this: void): undefined {
         DRTV.pinTag.push(
           DEST_PIN_TEXT_COLOR_BREAKING.Colorize(zo_strformat("<<1>>", "[" + subName + "]"))
         )
-        LibMapPins.CreatePin(
+        MAP_PINS.CreatePin(
           PIN_TYPES.BREAKING,
           DRTV.pinTag,
           rowNumber(pinData, AchIndex.X),
@@ -244,7 +244,7 @@ export function breakingpinTypeCallbackDone(this: void): undefined {
         DRTV.pinTag.push(
           DEST_PIN_TEXT_COLOR_BREAKING_DONE.Colorize(zo_strformat("<<1>>", "[" + subName + "]"))
         )
-        LibMapPins.CreatePin(
+        MAP_PINS.CreatePin(
           PIN_TYPES.BREAKING_DONE,
           DRTV.pinTag,
           rowNumber(pinData, AchIndex.X),
@@ -276,7 +276,7 @@ export function cutpursepinTypeCallback(this: void): undefined {
         DRTV.pinTag.push(
           DEST_PIN_TEXT_COLOR_CUTPURSE.Colorize(zo_strformat("<<1>>", "[" + subName + "]"))
         )
-        LibMapPins.CreatePin(
+        MAP_PINS.CreatePin(
           PIN_TYPES.CUTPURSE,
           DRTV.pinTag,
           rowNumber(pinData, AchIndex.X),
@@ -310,7 +310,7 @@ export function cutpursepinTypeCallbackDone(this: void): undefined {
         DRTV.pinTag.push(
           DEST_PIN_TEXT_COLOR_CUTPURSE_DONE.Colorize(zo_strformat("<<1>>", "[" + subName + "]"))
         )
-        LibMapPins.CreatePin(
+        MAP_PINS.CreatePin(
           PIN_TYPES.CUTPURSE_DONE,
           DRTV.pinTag,
           rowNumber(pinData, AchIndex.X),
@@ -326,7 +326,7 @@ export function championpinTypeCallback(this: void): undefined {
   if (MAP_DATA_STATE.IsOverlandMap() && !getSavedVariables().settings.ShowDungeonBossesInZones)
     return
   DRTV.pinName = PIN_TYPES.CHAMPION
-  if (LibMapPins.IsEnabled(PIN_TYPES.CHAMPION)) {
+  if (MAP_PINS.IsEnabled(PIN_TYPES.CHAMPION)) {
     getMapTextureName()
     ACH_STATE.mapData =
       MAP_STATE.mapTextureName !== undefined ? DBossStore[MAP_STATE.mapTextureName] : undefined
@@ -339,7 +339,7 @@ export function championpinTypeCallback(this: void): undefined {
         DRTV.pinTag = []
         if (completed !== required) {
           DRTV.pinTag = [DEST_PIN_TINT_CHAMPION.Colorize(zo_strformat("<<1>>", champName))]
-          LibMapPins.CreatePin(
+          MAP_PINS.CreatePin(
             PIN_TYPES.CHAMPION,
             DRTV.pinTag,
             rowNumber(pinData, DBossIndex.X),
@@ -356,7 +356,7 @@ export function championpinTypeCallbackDone(this: void): undefined {
   if (MAP_DATA_STATE.IsOverlandMap() && !getSavedVariables().settings.ShowDungeonBossesInZones)
     return
   DRTV.pinName = PIN_TYPES.CHAMPION_DONE
-  if (LibMapPins.IsEnabled(PIN_TYPES.CHAMPION_DONE)) {
+  if (MAP_PINS.IsEnabled(PIN_TYPES.CHAMPION_DONE)) {
     getMapTextureName()
     ACH_STATE.mapData =
       MAP_STATE.mapTextureName !== undefined ? DBossStore[MAP_STATE.mapTextureName] : undefined
@@ -369,7 +369,7 @@ export function championpinTypeCallbackDone(this: void): undefined {
         DRTV.pinTag = []
         if (completed === required) {
           DRTV.pinTag = [DEST_PIN_TINT_CHAMPION_DONE.Colorize(zo_strformat("<<1>>", champName))]
-          LibMapPins.CreatePin(
+          MAP_PINS.CreatePin(
             PIN_TYPES.CHAMPION_DONE,
             DRTV.pinTag,
             rowNumber(pinData, DBossIndex.X),

@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import type { DestinationsDefaults } from "akasha/temper/addon/pages/world/navigation/modules/destinations-defaults/destinations-defaults.module.code.ts"
 import { DEFAULTS } from "akasha/temper/addon/pages/world/navigation/modules/destinations-defaults/destinations-defaults.module.code.ts"
@@ -7,16 +8,14 @@ import { DRTV } from "akasha/temper/addon/pages/world/navigation/modules/destina
 import { getCharacterSavedVariables } from "akasha/temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-
-const LMP = LibMapPins
 
 export const DESTINATIONS_PIN_PRIORITY_OFFSET = 1
 
 export function redrawAllPins(pinType: string): undefined {
-  LMP.RefreshPins(pinType)
+  MAP_PINS.RefreshPins(pinType)
   COMPASS_PINS.RefreshPins(pinType)
 }
 
@@ -25,14 +24,14 @@ export function redrawCompassPinsOnly(pinType: string): undefined {
 }
 
 export function setUnknownDestLayoutKey(key: string, newValue: unknown): undefined {
-  LMP.SetLayoutKey(PIN_TYPES.UNKNOWN, key, newValue)
+  MAP_PINS.SetLayoutKey(PIN_TYPES.UNKNOWN, key, newValue)
 }
 
 export function redrawAllAchievementPins(): undefined {
   for (const pinName of DRTV.AchPins) {
-    LMP.RefreshPins(PIN_TYPES[pinName])
+    MAP_PINS.RefreshPins(PIN_TYPES[pinName])
     COMPASS_PINS.RefreshPins(PIN_TYPES[pinName])
-    LMP.RefreshPins(PIN_TYPES[`${pinName}_DONE`])
+    MAP_PINS.RefreshPins(PIN_TYPES[`${pinName}_DONE`])
     COMPASS_PINS.RefreshPins(PIN_TYPES[`${pinName}_DONE`])
   }
 }

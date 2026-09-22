@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   DEST_PIN_TINT_COLLECTIBLE,
   DEST_PIN_TINT_COLLECTIBLE_DONE,
@@ -31,9 +32,7 @@ import {
 import { getIconPreviews } from "akasha/temper/addon/pages/world/navigation/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 import { unpackRgba } from "akasha/temper/modules/unpack-color/unpack-color.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
-
-const LMP = LibMapPins
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 
 function bothCollectibleFiltersDisabled(): boolean {
   const filters = getCharacterSavedVariables().filters
@@ -87,12 +86,12 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
           const index = i + 1
           sv.pins.pinTextureCollectible.type = index
           sv.pins.pinTextureCollectibleDone.type = index
-          LMP.SetLayoutKey(
+          MAP_PINS.SetLayoutKey(
             PIN_TYPES.COLLECTIBLES,
             "texture",
             texturePathAt(PIN_TEXTURE_PATHS.collectible, index)
           )
-          LMP.SetLayoutKey(
+          MAP_PINS.SetLayoutKey(
             PIN_TYPES.COLLECTIBLESDONE,
             "texture",
             texturePathAt(PIN_TEXTURE_PATHS.collectibledone, index)
@@ -170,7 +169,7 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
       sv.pins.pinTextureCollectible.tint = [r, g, b, a ?? 1]
       getIconPreviews().collectible.SetColor(r, g, b, a)
       DEST_PIN_TINT_COLLECTIBLE.SetRGBA(r, g, b, a ?? 1)
-      LMP.RefreshPins(PIN_TYPES.COLLECTIBLES)
+      MAP_PINS.RefreshPins(PIN_TYPES.COLLECTIBLES)
     },
     disabled: filterDisabled(PIN_TYPES.COLLECTIBLES),
     default: colorDefaultRgba(DEFAULTS.pins.pinTextureCollectible.tint),
@@ -200,7 +199,7 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
       sv.pins.pinTextureCollectibleDone.tint = [r, g, b, a ?? 1]
       getIconPreviews().collectibleDone.SetColor(r, g, b, a)
       DEST_PIN_TINT_COLLECTIBLE_DONE.SetRGBA(r, g, b, a ?? 1)
-      LMP.RefreshPins(PIN_TYPES.COLLECTIBLESDONE)
+      MAP_PINS.RefreshPins(PIN_TYPES.COLLECTIBLESDONE)
     },
     disabled: filterDisabled(PIN_TYPES.COLLECTIBLESDONE),
     default: colorDefaultRgba(DEFAULTS.pins.pinTextureCollectibleDone.tint),
@@ -270,8 +269,8 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
       sv.pins.pinTextureCollectibleDone.size = size
       getIconPreviews().collectible.SetDimensions(size, size)
       getIconPreviews().collectibleDone.SetDimensions(size, size)
-      LMP.SetLayoutKey(PIN_TYPES.COLLECTIBLES, "size", size)
-      LMP.SetLayoutKey(PIN_TYPES.COLLECTIBLESDONE, "size", size)
+      MAP_PINS.SetLayoutKey(PIN_TYPES.COLLECTIBLES, "size", size)
+      MAP_PINS.SetLayoutKey(PIN_TYPES.COLLECTIBLESDONE, "size", size)
       redrawAllPins(PIN_TYPES.COLLECTIBLES)
       redrawAllPins(PIN_TYPES.COLLECTIBLESDONE)
     },
@@ -289,8 +288,12 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
     setFunc: (level) => {
       sv.pins.pinTextureCollectible.level = level + DESTINATIONS_PIN_PRIORITY_OFFSET
       sv.pins.pinTextureCollectibleDone.level = level
-      LMP.SetLayoutKey(PIN_TYPES.COLLECTIBLES, "level", level + DESTINATIONS_PIN_PRIORITY_OFFSET)
-      LMP.SetLayoutKey(PIN_TYPES.COLLECTIBLESDONE, "level", level)
+      MAP_PINS.SetLayoutKey(
+        PIN_TYPES.COLLECTIBLES,
+        "level",
+        level + DESTINATIONS_PIN_PRIORITY_OFFSET
+      )
+      MAP_PINS.SetLayoutKey(PIN_TYPES.COLLECTIBLESDONE, "level", level)
       redrawAllPins(PIN_TYPES.COLLECTIBLES)
       redrawAllPins(PIN_TYPES.COLLECTIBLESDONE)
     },

@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { dropdown } from "akasha/temper/addon/shared/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import { whenPanelControlsCreated } from "akasha/temper/addon/shared/settings-panel/modules/panel-controls-created/panel-controls-created.module.code.ts"
@@ -17,7 +18,7 @@ import {
 } from "akasha/temper/catalog/world/skyshard/modules/skyshards-pc-state/skyshards-pc-state.module.code.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/catalog/world/skyshard/skyshards-controls/skyshards-controls.type-declaration.d.ts"
 import "akasha/temper/catalog/world/skyshard/skyshards-string-ids/skyshards-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
@@ -109,12 +110,12 @@ function buildOptionsTable(this: void): LamControlData[] {
         set: (index) => {
           const type = index + 1
           db.pinTexture.type = type
-          LibMapPins.SetLayoutKey(PINS_UNKNOWN, "texture", unknownTexture(type))
-          LibMapPins.SetLayoutKey(PINS_COLLECTED, "texture", collectedTexture(type))
+          MAP_PINS.SetLayoutKey(PINS_UNKNOWN, "texture", unknownTexture(type))
+          MAP_PINS.SetLayoutKey(PINS_COLLECTED, "texture", collectedTexture(type))
           unknownIcon?.SetTexture(unknownTexture(type))
           collectedIcon?.SetTexture(collectedTexture(type))
-          LibMapPins.RefreshPins(PINS_UNKNOWN)
-          LibMapPins.RefreshPins(PINS_COLLECTED)
+          MAP_PINS.RefreshPins(PINS_UNKNOWN)
+          MAP_PINS.RefreshPins(PINS_COLLECTED)
           const compassLayout = COMPASS_PINS.pinLayouts[PINS_COMPASS]
           if (compassLayout != null) {
             compassLayout.texture = unknownTexture(type)
@@ -137,10 +138,10 @@ function buildOptionsTable(this: void): LamControlData[] {
         db.pinTexture.size = size
         unknownIcon?.SetDimensions(size, size)
         collectedIcon?.SetDimensions(size, size)
-        LibMapPins.SetLayoutKey(PINS_UNKNOWN, "size", size)
-        LibMapPins.SetLayoutKey(PINS_COLLECTED, "size", size)
-        LibMapPins.RefreshPins(PINS_UNKNOWN)
-        LibMapPins.RefreshPins(PINS_COLLECTED)
+        MAP_PINS.SetLayoutKey(PINS_UNKNOWN, "size", size)
+        MAP_PINS.SetLayoutKey(PINS_COLLECTED, "size", size)
+        MAP_PINS.RefreshPins(PINS_UNKNOWN)
+        MAP_PINS.RefreshPins(PINS_COLLECTED)
       },
       disabled: pinControlsDisabled,
       default: defaults.pinTexture.size,
@@ -155,10 +156,10 @@ function buildOptionsTable(this: void): LamControlData[] {
       getFunc: () => db.pinTexture.level,
       setFunc: (level) => {
         db.pinTexture.level = level
-        LibMapPins.SetLayoutKey(PINS_UNKNOWN, "level", level)
-        LibMapPins.SetLayoutKey(PINS_COLLECTED, "level", level)
-        LibMapPins.RefreshPins(PINS_UNKNOWN)
-        LibMapPins.RefreshPins(PINS_COLLECTED)
+        MAP_PINS.SetLayoutKey(PINS_UNKNOWN, "level", level)
+        MAP_PINS.SetLayoutKey(PINS_COLLECTED, "level", level)
+        MAP_PINS.RefreshPins(PINS_UNKNOWN)
+        MAP_PINS.RefreshPins(PINS_COLLECTED)
       },
       disabled: pinControlsDisabled,
       default: defaults.pinTexture.level,
@@ -170,7 +171,7 @@ function buildOptionsTable(this: void): LamControlData[] {
       getFunc: () => filterEnabled(PINS_UNKNOWN),
       setFunc: (state) => {
         db.filters[PINS_UNKNOWN] = state
-        LibMapPins.SetEnabled(PINS_UNKNOWN, state)
+        MAP_PINS.SetEnabled(PINS_UNKNOWN, state)
       },
       default: defaultFilter(PINS_UNKNOWN),
     },
@@ -181,7 +182,7 @@ function buildOptionsTable(this: void): LamControlData[] {
       getFunc: () => filterEnabled(PINS_COLLECTED),
       setFunc: (state) => {
         db.filters[PINS_COLLECTED] = state
-        LibMapPins.SetEnabled(PINS_COLLECTED, state)
+        MAP_PINS.SetEnabled(PINS_COLLECTED, state)
       },
       default: defaultFilter(PINS_COLLECTED),
     },
@@ -226,7 +227,7 @@ function buildOptionsTable(this: void): LamControlData[] {
         const color = getMainworldColor()
         color.SetRGBA(r, g, b, a ?? 1)
         db.mainworldSkyshards = color.ToHex()
-        LibMapPins.RefreshPins()
+        MAP_PINS.RefreshPins()
         COMPASS_PINS.RefreshPins(PINS_COMPASS)
       },
       default: ZO_SELECTED_TEXT,

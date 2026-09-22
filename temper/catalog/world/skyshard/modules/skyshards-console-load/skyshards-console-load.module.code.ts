@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { CUSTOM_COMPASS_LAYOUT_UPDATE } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-constants/compass-pins-constants.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { compassCallback } from "akasha/temper/catalog/world/skyshard/modules/skyshards-console-compass/skyshards-console-compass.module.code.ts"
@@ -26,7 +27,7 @@ import {
 import { SKILL_POINT_TOTAL } from "akasha/temper/catalog/world/skyshard/modules/skyshards-skill-point-total/skyshards-skill-point-total.module.code.ts"
 import type { SkyshardPin } from "akasha/temper/catalog/world/skyshard/modules/skyshards-types/skyshards-types.module.code.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/catalog/world/skyshard/skyshards-string-ids/skyshards-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
@@ -45,8 +46,8 @@ type MaybeSkyshardPin = SkyshardPin | undefined
 type SkillPointProbe = { GetTotalNumSkillPoints?: unknown }
 
 function onSkyshardsUpdated(this: void): undefined {
-  LibMapPins.RefreshPins(PINS_UNKNOWN)
-  LibMapPins.RefreshPins(PINS_COLLECTED)
+  MAP_PINS.RefreshPins(PINS_UNKNOWN)
+  MAP_PINS.RefreshPins(PINS_COLLECTED)
   COMPASS_PINS.RefreshPins(PINS_COMPASS)
 }
 
@@ -152,7 +153,7 @@ export function onLoad(this: void, _eventCode: number, addOnName: string): undef
     },
   }
 
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PINS_UNKNOWN,
     function (this: void): undefined {
       mapCallbackCreatePins(PINS_UNKNOWN)
@@ -161,7 +162,7 @@ export function onLoad(this: void, _eventCode: number, addOnName: string): undef
     pinLayoutUnknown,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PINS_COLLECTED,
     function (this: void): undefined {
       mapCallbackCreatePins(PINS_COLLECTED)
@@ -171,11 +172,11 @@ export function onLoad(this: void, _eventCode: number, addOnName: string): undef
     PIN_TOOLTIP_CREATOR
   )
 
-  LibMapPins.AddPinFilter(PINS_UNKNOWN, GetString(SKYS_FILTER_UNKNOWN), false, db.filters)
-  LibMapPins.AddPinFilter(PINS_COLLECTED, GetString(SKYS_FILTER_COLLECTED), false, db.filters)
+  MAP_PINS.AddPinFilter(PINS_UNKNOWN, GetString(SKYS_FILTER_UNKNOWN), false, db.filters)
+  MAP_PINS.AddPinFilter(PINS_COLLECTED, GetString(SKYS_FILTER_COLLECTED), false, db.filters)
 
-  LibMapPins.SetClickHandlers(PINS_UNKNOWN, CLICK_HANDLER)
-  LibMapPins.SetClickHandlers(PINS_COLLECTED, CLICK_HANDLER)
+  MAP_PINS.SetClickHandlers(PINS_UNKNOWN, CLICK_HANDLER)
+  MAP_PINS.SetClickHandlers(PINS_COLLECTED, CLICK_HANDLER)
 
   COMPASS_PINS.AddCustomPin(
     PINS_COMPASS,

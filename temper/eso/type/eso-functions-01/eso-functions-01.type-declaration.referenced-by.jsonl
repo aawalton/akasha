@@ -390,7 +390,6 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-saved-variables/trading-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-price-store/trading-sell-price-store.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-types/pin-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-constants/leads-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
@@ -405,6 +404,7 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-tamriel-o-meter/gps-tamriel-o-meter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-events/map-data-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-update/map-data-update.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-types/pin-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-init-variables/destinations-pins-init-variables.module.code.ts"}

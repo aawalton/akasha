@@ -25,6 +25,10 @@ export const worldEntry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The map pin feature starts before every feature drawing a pin through it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Navigation starts before the features that pin the map through it.",
     },
   ],

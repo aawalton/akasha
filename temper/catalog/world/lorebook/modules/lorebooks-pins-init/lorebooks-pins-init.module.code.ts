@@ -1,3 +1,5 @@
+import { MAP_PINS_BATTLEGROUND_MAPGROUP } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-constants/map-pins-constants.module.code.ts"
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { CUSTOM_COMPASS_LAYOUT_UPDATE } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-constants/compass-pins-constants.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import {
@@ -52,7 +54,7 @@ import {
 import { getSavedVariables } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-18/eso-enums-18.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
@@ -213,7 +215,7 @@ export function initializePins(this: void): undefined {
     onToggleCallback: onToggleCompassPin,
   }
 
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PINS_UNKNOWN,
     function (this: void): undefined {
       mapCallbackCreateShalidorPins(PINS_UNKNOWN)
@@ -222,7 +224,7 @@ export function initializePins(this: void): undefined {
     mapPinLayoutUnknown,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PINS_COLLECTED,
     function (this: void): undefined {
       mapCallbackCreateShalidorPins(PINS_COLLECTED)
@@ -231,7 +233,7 @@ export function initializePins(this: void): undefined {
     mapPinLayoutCollected,
     PIN_TOOLTIP_CREATOR
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PINS_EIDETIC,
     function (this: void): undefined {
       mapCallbackCreateEideticPins(PINS_EIDETIC)
@@ -240,7 +242,7 @@ export function initializePins(this: void): undefined {
     mapPinLayoutEidetic,
     PIN_TOOLTIP_CREATOR_EIDETIC
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PINS_EIDETIC_COLLECTED,
     function (this: void): undefined {
       mapCallbackCreateEideticPins(PINS_EIDETIC_COLLECTED)
@@ -249,7 +251,7 @@ export function initializePins(this: void): undefined {
     mapPinLayoutEideticCollected,
     PIN_TOOLTIP_CREATOR_EIDETIC
   )
-  LibMapPins.AddPinType(
+  MAP_PINS.AddPinType(
     PINS_BOOKSHELF,
     function (this: void): undefined {
       mapCallbackCreateBookshelfPins(PINS_BOOKSHELF)
@@ -262,29 +264,29 @@ export function initializePins(this: void): undefined {
   const [eideticCategoryName] = GetLoreCategoryInfo(LORE_LIBRARY_EIDETIC)
   const eideticPinCollected = zo_strformat(LBOOKS_FILTER_COLLECTED_FORMATTER, eideticCategoryName)
 
-  LibMapPins.AddPinFilter(
+  MAP_PINS.AddPinFilter(
     PINS_UNKNOWN,
     GetString(LBOOKS_FILTER_UNKNOWN),
     true,
     db.filters,
     PINS_UNKNOWN
   )
-  LibMapPins.AddPinFilter(
+  MAP_PINS.AddPinFilter(
     PINS_COLLECTED,
     GetString(LBOOKS_FILTER_COLLECTED),
     true,
     db.filters,
     PINS_COLLECTED
   )
-  LibMapPins.AddPinFilter(PINS_EIDETIC, eideticCategoryName, true, db.filters, PINS_EIDETIC)
-  LibMapPins.AddPinFilter(
+  MAP_PINS.AddPinFilter(PINS_EIDETIC, eideticCategoryName, true, db.filters, PINS_EIDETIC)
+  MAP_PINS.AddPinFilter(
     PINS_EIDETIC_COLLECTED,
     eideticPinCollected,
     true,
     db.filters,
     PINS_EIDETIC_COLLECTED
   )
-  LibMapPins.AddPinFilter(
+  MAP_PINS.AddPinFilter(
     PINS_BOOKSHELF,
     GetString(LBOOKS_FILTER_BOOKSHELF),
     true,
@@ -292,11 +294,11 @@ export function initializePins(this: void): undefined {
     PINS_BOOKSHELF
   )
 
-  LibMapPins.SetPinFilterHidden(PINS_UNKNOWN, LIBMAPPINS_BATTLEGROUND_MAPGROUP, true)
-  LibMapPins.SetPinFilterHidden(PINS_COLLECTED, LIBMAPPINS_BATTLEGROUND_MAPGROUP, true)
-  LibMapPins.SetPinFilterHidden(PINS_EIDETIC, LIBMAPPINS_BATTLEGROUND_MAPGROUP, true)
-  LibMapPins.SetPinFilterHidden(PINS_EIDETIC_COLLECTED, LIBMAPPINS_BATTLEGROUND_MAPGROUP, true)
-  LibMapPins.SetPinFilterHidden(PINS_BOOKSHELF, LIBMAPPINS_BATTLEGROUND_MAPGROUP, true)
+  MAP_PINS.SetPinFilterHidden(PINS_UNKNOWN, MAP_PINS_BATTLEGROUND_MAPGROUP, true)
+  MAP_PINS.SetPinFilterHidden(PINS_COLLECTED, MAP_PINS_BATTLEGROUND_MAPGROUP, true)
+  MAP_PINS.SetPinFilterHidden(PINS_EIDETIC, MAP_PINS_BATTLEGROUND_MAPGROUP, true)
+  MAP_PINS.SetPinFilterHidden(PINS_EIDETIC_COLLECTED, MAP_PINS_BATTLEGROUND_MAPGROUP, true)
+  MAP_PINS.SetPinFilterHidden(PINS_BOOKSHELF, MAP_PINS_BATTLEGROUND_MAPGROUP, true)
 
   installClickHandlers()
 

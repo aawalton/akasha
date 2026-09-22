@@ -2,6 +2,7 @@ import {
   MAP_DATA_INTERNAL,
   MAP_DATA_STATE,
 } from "akasha/temper/addon/pages/world/map-data/modules/map-data-public-api/map-data-public-api.module.code.ts"
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
@@ -18,7 +19,7 @@ import {
 import { STATE } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import { insertChatText } from "akasha/temper/modules/chat-entry-text/chat-entry-text.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
@@ -34,7 +35,7 @@ export function createEideticLorebookLocation(): undefined {
   SetMapToPlayerLocation()
   CALLBACK_MANAGER.FireCallbacks("OnWorldMapChanged")
   MAP_DATA_INTERNAL.UpdateMapInfo()
-  const [zone] = LibMapPins.GetZoneAndSubzone(true, false, true)
+  const [zone] = MAP_PINS.GetZoneAndSubzone(true, false, true)
   let outText = GetString(LBOOKS_LBPOS_ERROR)
   const zoneId = MAP_DATA_STATE.zoneId
   const worldX = MAP_DATA_STATE.worldX
@@ -188,7 +189,7 @@ export function createEideticLorebookLocation(): undefined {
 
 export function createFakeEideticLorebookLocation(): undefined {
   MAP_DATA_INTERNAL.UpdateMapInfo()
-  const [zone] = LibMapPins.GetZoneAndSubzone(true, false, true)
+  const [zone] = MAP_PINS.GetZoneAndSubzone(true, false, true)
   const x = MAP_DATA_STATE.normalizedX
   const y = MAP_DATA_STATE.normalizedY
   const xpos = MAP_DATA_STATE.globalX
@@ -230,7 +231,7 @@ export function createFakeEideticLorebookLocation(): undefined {
 
 export function createFakeLorebookPin(): undefined {
   MAP_DATA_INTERNAL.UpdateMapInfo()
-  const [zone] = LibMapPins.GetZoneAndSubzone(true, false, true)
+  const [zone] = MAP_PINS.GetZoneAndSubzone(true, false, true)
   const x = MAP_DATA_STATE.normalizedX
   const y = MAP_DATA_STATE.normalizedY
   const mapId = MAP_DATA_STATE.mapId

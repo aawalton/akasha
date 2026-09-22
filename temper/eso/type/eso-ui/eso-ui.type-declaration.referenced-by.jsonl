@@ -304,11 +304,6 @@
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-lib/map-pins-lib.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-state/pin-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"}
@@ -323,6 +318,11 @@
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-window/journal-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-events/map-data-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-lib/map-pins-lib.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-filters/pin-filters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-state/pin-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-casts/compass-pins-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}

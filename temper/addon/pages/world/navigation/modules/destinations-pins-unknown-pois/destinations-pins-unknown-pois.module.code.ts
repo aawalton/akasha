@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { abilityDescription } from "akasha/temper/addon/pages/world/navigation/modules/destinations-data-runtime/destinations-data-runtime.module.code.ts"
 import { PIN_TEXTURES } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pin-textures/destinations-pin-textures.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
@@ -30,7 +31,7 @@ import {
   getCharacterSavedVariables,
   getSavedVariables,
 } from "akasha/temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
@@ -176,7 +177,7 @@ export function mapCallbackFakeKnown(this: void): undefined {
             pinTag.texture = getDestinationKnownPoiTexture(destinationsPinType)
           }
 
-          LibMapPins.CreatePin(PIN_TYPES.FAKEKNOWN, pinTag, normalizedX, normalizedY)
+          MAP_PINS.CreatePin(PIN_TYPES.FAKEKNOWN, pinTag, normalizedX, normalizedY)
         }
       }
     }
@@ -195,7 +196,7 @@ export function mapCallbackUnknown(this: void): undefined {
   const cssv = getCharacterSavedVariables()
   const sv = getSavedVariables()
   let storeData: PoiZoneTable | undefined
-  if (LibMapPins.IsEnabled(PIN_TYPES.UNKNOWN) && cssv.filters[PIN_TYPES.UNKNOWN] === true) {
+  if (MAP_PINS.IsEnabled(PIN_TYPES.UNKNOWN) && cssv.filters[PIN_TYPES.UNKNOWN] === true) {
     getMapTextureName()
     storeData = PoiStore[GetZoneId(GetCurrentMapZoneIndex())]
   }
@@ -254,7 +255,7 @@ export function mapCallbackUnknown(this: void): undefined {
         pinTag.texture = PIN_TEXTURES.paths.Unknown[sv.pins.pinTextureUnknown.type - 1]
       }
 
-      LibMapPins.CreatePin(PIN_TYPES.UNKNOWN, pinTag, normalizedX, normalizedY)
+      MAP_PINS.CreatePin(PIN_TYPES.UNKNOWN, pinTag, normalizedX, normalizedY)
     }
   }
 }

@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import type { DestinationsDefaults } from "akasha/temper/addon/pages/world/navigation/modules/destinations-defaults/destinations-defaults.module.code.ts"
 import { DEFAULTS } from "akasha/temper/addon/pages/world/navigation/modules/destinations-defaults/destinations-defaults.module.code.ts"
 import { getSettingsString } from "akasha/temper/addon/pages/world/navigation/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
@@ -19,11 +20,9 @@ import {
 import type { IconPreviews } from "akasha/temper/addon/pages/world/navigation/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 import { getIconPreviews } from "akasha/temper/addon/pages/world/navigation/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-
-const LMP = LibMapPins
 
 export interface AchPinEntry {
   type: number
@@ -80,8 +79,8 @@ function styleControl(spec: AchievementSectionSpec): LamDropdownData {
           const index = i + 1
           spec.pinSettings(sv.pins).type = index
           spec.pinSettingsDone(sv.pins).type = index
-          LMP.SetLayoutKey(spec.pinType, "texture", texturePathAt(spec.paths, index))
-          LMP.SetLayoutKey(spec.pinTypeDone, "texture", texturePathAt(spec.pathsDone, index))
+          MAP_PINS.SetLayoutKey(spec.pinType, "texture", texturePathAt(spec.paths, index))
+          MAP_PINS.SetLayoutKey(spec.pinTypeDone, "texture", texturePathAt(spec.pathsDone, index))
           spec.preview(getIconPreviews()).SetTexture(texturePathAt(spec.paths, index))
           spec.previewDone(getIconPreviews()).SetTexture(texturePathAt(spec.pathsDone, index))
           redrawAllPins(spec.pinType)
@@ -105,10 +104,10 @@ function sizeControl(spec: AchievementSectionSpec): LamSliderData {
     getFunc: () => spec.pinSettings(sv.pins).size,
     setFunc: (size) => {
       spec.pinSettings(sv.pins).size = size
-      LMP.SetLayoutKey(spec.pinType, "size", size)
+      MAP_PINS.SetLayoutKey(spec.pinType, "size", size)
       spec.preview(getIconPreviews()).SetDimensions(size, size)
       spec.pinSettingsDone(sv.pins).size = size
-      LMP.SetLayoutKey(spec.pinTypeDone, "size", size)
+      MAP_PINS.SetLayoutKey(spec.pinTypeDone, "size", size)
       spec.previewDone(getIconPreviews()).SetDimensions(size, size)
       redrawAllPins(spec.pinType)
       redrawAllPins(spec.pinTypeDone)
@@ -163,13 +162,17 @@ export function championFrontToggle(): LamCheckboxData {
       if (state) {
         sv.pins.pinTextureChampion.level = pinLevel + DESTINATIONS_PIN_PRIORITY_OFFSET
         sv.pins.pinTextureChampionDone.level = pinLevel
-        LMP.SetLayoutKey(PIN_TYPES.CHAMPION, "level", pinLevel + DESTINATIONS_PIN_PRIORITY_OFFSET)
-        LMP.SetLayoutKey(PIN_TYPES.CHAMPION_DONE, "level", pinLevel)
+        MAP_PINS.SetLayoutKey(
+          PIN_TYPES.CHAMPION,
+          "level",
+          pinLevel + DESTINATIONS_PIN_PRIORITY_OFFSET
+        )
+        MAP_PINS.SetLayoutKey(PIN_TYPES.CHAMPION_DONE, "level", pinLevel)
       } else {
         sv.pins.pinTextureChampion.level = 30 + DESTINATIONS_PIN_PRIORITY_OFFSET
         sv.pins.pinTextureChampionDone.level = 30
-        LMP.SetLayoutKey(PIN_TYPES.CHAMPION, "level", 30 + DESTINATIONS_PIN_PRIORITY_OFFSET)
-        LMP.SetLayoutKey(PIN_TYPES.CHAMPION_DONE, "level", 30)
+        MAP_PINS.SetLayoutKey(PIN_TYPES.CHAMPION, "level", 30 + DESTINATIONS_PIN_PRIORITY_OFFSET)
+        MAP_PINS.SetLayoutKey(PIN_TYPES.CHAMPION_DONE, "level", 30)
       }
       sv.settings.ShowDungeonBossesOnTop = state
       redrawAllPins(PIN_TYPES.CHAMPION)

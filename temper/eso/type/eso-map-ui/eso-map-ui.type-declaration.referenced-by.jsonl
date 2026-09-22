@@ -42,11 +42,11 @@
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache-status-bar/sales-history-cache-status-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-selection-widget/sales-history-status-selection-widget.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window-shared/sales-history-status-window-shared.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-types/pin-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-colors/leads-unit-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-map-adapter/gps-map-adapter.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-types/pin-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-colors/destinations-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-defaults/destinations-defaults.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"}

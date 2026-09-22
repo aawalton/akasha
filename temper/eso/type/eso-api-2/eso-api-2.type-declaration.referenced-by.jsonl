@@ -84,10 +84,10 @@
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-cooldown/inventory-tooltip-cooldown.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-manager/saved-vars-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-events/map-data-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-mode/minimap-mode.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-ui-strings/minimap-ui-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}

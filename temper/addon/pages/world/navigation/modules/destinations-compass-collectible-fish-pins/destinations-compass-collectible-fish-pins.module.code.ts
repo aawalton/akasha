@@ -1,3 +1,4 @@
+import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import {
   DESTINATIONS_FISH_TYPE_FOUL,
@@ -23,14 +24,14 @@ import {
 import { getCharacterSavedVariables } from "akasha/temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
 export function collectibleFishCompassPins(this: void): undefined {
   const cssv = getCharacterSavedVariables()
-  if (!LibMapPins.IsEnabled(PIN_TYPES.COLLECTIBLES) && !LibMapPins.IsEnabled(PIN_TYPES.FISHING)) {
+  if (!MAP_PINS.IsEnabled(PIN_TYPES.COLLECTIBLES) && !MAP_PINS.IsEnabled(PIN_TYPES.FISHING)) {
     return
   }
   if (cssv.filters[PIN_TYPES.COLLECTIBLES] !== true && cssv.filters[PIN_TYPES.FISHING] !== true) {
@@ -48,7 +49,7 @@ export function collectibleFishCompassPins(this: void): undefined {
     if (pinType >= 40 && pinType <= 44) {
       if (
         cssv.filters[PIN_TYPES.FISHING_COMPASS] !== true ||
-        !LibMapPins.IsEnabled(PIN_TYPES.FISHING)
+        !MAP_PINS.IsEnabled(PIN_TYPES.FISHING)
       ) {
         return
       }
@@ -129,7 +130,7 @@ export function collectibleFishCompassPins(this: void): undefined {
     } else if (pinType === 30) {
       if (
         cssv.filters[PIN_TYPES.COLLECTIBLES_COMPASS] !== true ||
-        !LibMapPins.IsEnabled(PIN_TYPES.COLLECTIBLES)
+        !MAP_PINS.IsEnabled(PIN_TYPES.COLLECTIBLES)
       ) {
         return
       }
