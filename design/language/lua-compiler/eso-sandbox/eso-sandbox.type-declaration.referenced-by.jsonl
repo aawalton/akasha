@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"alan/chess/modules/move-list/chess-move-list.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"alan/google/oauth/modules/oauth-consent/oauth-consent.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.code.tsx"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"alan/web/modules/mini-player-bar/mini-player-bar.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"alan/web/modules/offline-download-button/offline-download-button.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"code/browser/test-harness/modules/console-capture/console-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"code/router-app/modules/auth-footer/auth-footer.module.code.tsx"}
@@ -144,7 +143,6 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"page/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"page/ui/media/modules/page-media-player/page-media-player.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"page/url-property/url-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"product/audhdalan/web/modules/subscribe-form/subscribe-form.module.code.tsx"}

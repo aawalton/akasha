@@ -1,9 +1,1 @@
-{"propertySlug":"import","fileName":"mark-schema.module.code.ts","path":"alan/web/modules/reader-narration-detail/reader-narration-detail.module.code.tsx"}
-{"propertySlug":"import","fileName":"mark-schema.module.code.ts","path":"alan/web/modules/use-reader-active-marks/use-reader-active-marks.module.code.ts"}
-{"propertySlug":"import","fileName":"mark-schema.module.code.ts","path":"page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"mark-schema.module.code.ts","path":"page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"mark-schema.module.code.ts","path":"page/ui/component/modules/use-sentence-highlight/use-sentence-highlight.module.code.ts"}
-{"propertySlug":"import","fileName":"mark-schema.module.code.ts","path":"page/ui/media/modules/play-from-sentence/play-from-sentence.module.code.ts"}
-{"propertySlug":"import","fileName":"mark-schema.module.code.ts","path":"page/ui/media/modules/resolve-active-sentence/resolve-active-sentence.module.code.ts"}
-{"propertySlug":"import","fileName":"mark-schema.module.code.ts","path":"page/ui/media/modules/sentence-narration-context/sentence-narration-context.module.code.tsx"}
 {"propertySlug":"parts","path":"alan/harness/voice-core/voice-core.domain.ts","id":"01a05b55-e06e-741c-b7db-8e5f91fea0b7"}

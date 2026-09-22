@@ -9,7 +9,7 @@ import {
   PRIMARY_NAV_ITEMS,
 } from "akasha/alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"
 import { EdgeSwipeNav } from "akasha/alan/web/modules/edge-swipe-nav/edge-swipe-nav.module.code.tsx"
-import { MiniPlayerBar } from "akasha/alan/web/modules/mini-player-bar/mini-player-bar.module.code.tsx"
+
 import { DynamicNavCommands } from "akasha/alan/web/modules/nav-command/nav-command.module.code.tsx"
 import { PullToRefresh } from "akasha/alan/web/modules/pull-to-refresh/pull-to-refresh.module.code.tsx"
 import { AuthFooter } from "akasha/code/router-app/modules/auth-footer/auth-footer.module.code.tsx"
@@ -152,7 +152,6 @@ function AppShellInner({ children, signedIn, accountId, ssrNavItems }: AppShellP
       <EdgeSwipeNav />
       {}
       <DynamicNavCommands entries={dynamicPrimaryItems} />
-      <MiniPlayerBar />
       {children}
       {accountId !== null && <AdminDialogs />}
     </SharedAppShell>

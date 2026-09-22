@@ -14,7 +14,7 @@ export const pageUi = {
     "domain/page-ui-context",
     "domain/page-ui-frame",
     "domain/page-ui-markdown",
-    "domain/page-ui-media",
+
     "domain/page-ui-supabase",
     "module/action-verb-registry",
     "module/navigation-context",

@@ -99,7 +99,6 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/view-tabs/view-tabs.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/frame/modules/use-follow-anchor/use-follow-anchor.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/media/modules/playing-session-storage/playing-session-storage.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/modules/page-card-perf/page-card-perf.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/modules/view-callbacks/view-callbacks.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.code.tsx"}

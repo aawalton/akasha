@@ -6,7 +6,5 @@
 {"propertySlug":"import","fileName":"use-set-property-optimistic.module.code.tsx","path":"page/ui/component/modules/use-view-row-handlers/use-view-row-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"use-set-property-optimistic.module.code.tsx","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"use-set-property-optimistic.module.code.tsx","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-set-property-optimistic.module.code.tsx","path":"page/ui/media/modules/playing-session-context/playing-session-context.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-set-property-optimistic.module.code.tsx","path":"page/ui/media/modules/use-cross-mode-position-write/use-cross-mode-position-write.module.code.ts"}
 {"propertySlug":"import","fileName":"use-set-property-optimistic.module.code.tsx","path":"page/ui/supabase/modules/use-view-callbacks/use-view-callbacks.module.code.ts"}
 {"propertySlug":"parts","path":"page/ui/supabase/page-ui-supabase.domain.ts","id":"01a071d1-ee27-7b2f-8b21-963e117f2e00"}

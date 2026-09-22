@@ -1,12 +1,6 @@
 "use client"
 
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
-import {
-  ContextMenu,
-  ContextMenuContent,
-  ContextMenuItem,
-  ContextMenuTrigger,
-} from "akasha/design/interface/primitive/modules/context-menu/context-menu.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import {
@@ -17,7 +11,6 @@ import type {
   BlockSentenceLayout,
   SentenceRun,
 } from "akasha/page/ui/component/modules/reader-sentence-layout/reader-sentence-layout.module.code.ts"
-import { useSentenceNarration } from "akasha/page/ui/media/modules/sentence-narration-context/sentence-narration-context.module.code.tsx"
 import { Fragment } from "react"
 
 const SENTENCE_SPAN_CLASS =
@@ -63,7 +56,6 @@ export function ProseBlockView({
   sentenceLayout?: BlockSentenceLayout
 }) {
   const surface = useSurface()
-  const { playFromSentence } = useSentenceNarration()
   if (block.kind === "scene-break") {
     return <hr aria-hidden className="mx-auto w-16 border-primary/15 border-t" />
   }
@@ -95,18 +87,13 @@ export function ProseBlockView({
   return (
     <p className="m-0">
       {groupRunsBySentence(sentenceLayout.runs).map((group) => (
-        <ContextMenu key={`sentence-${group.sentenceIndex}`}>
-          <ContextMenuTrigger asChild>
-            <span data-sentence-index={group.sentenceIndex} className={SENTENCE_SPAN_CLASS}>
-              <SentenceRuns runs={group.runs} />
-            </span>
-          </ContextMenuTrigger>
-          <ContextMenuContent>
-            <ContextMenuItem onSelect={() => playFromSentence(group.sentenceIndex)}>
-              Play Audio from this sentence
-            </ContextMenuItem>
-          </ContextMenuContent>
-        </ContextMenu>
+        <span
+          key={`sentence-${group.sentenceIndex}`}
+          data-sentence-index={group.sentenceIndex}
+          className={SENTENCE_SPAN_CLASS}
+        >
+          <SentenceRuns runs={group.runs} />
+        </span>
       ))}
     </p>
   )

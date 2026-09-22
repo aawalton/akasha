@@ -68,13 +68,8 @@ export const alanWeb = {
     "module/device-secret-sync",
     "module/edge-swipe-nav",
 
-    "module/hls-render",
     "module/home-dni",
     "module/home-dni-param",
-    "module/kokoro-render",
-    "module/kokoro-tts-adapter",
-
-    "module/mini-player-bar",
 
     "module/nav-command",
     "module/next-unread",
@@ -96,19 +91,17 @@ export const alanWeb = {
     "module/pull-to-refresh-decider",
     "module/push-registration-sync",
 
-    "module/read-aloud-persist",
     "module/read-completion",
-    "module/reader-narration-detail",
+
     "module/readout-guarding",
 
     "module/route-access-holding",
-    "module/shell-ensure-rendition",
-    "module/shell-media-src",
+
     "module/signed-in-redirect",
     "module/status-bar-chrome",
     "module/status-bar-sync",
     "module/use-mark-read-on-end",
-    "module/use-reader-active-marks",
+
     "module/widget-tap-answering",
     "stylesheet/alan-web-look",
     "module/stoplights-activity-sync",

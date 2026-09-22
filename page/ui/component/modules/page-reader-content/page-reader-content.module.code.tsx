@@ -1,6 +1,5 @@
 "use client"
 
-import type { SentenceMark } from "akasha/alan/harness/voice-core/modules/mark-schema/mark-schema.module.code.ts"
 import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import {
@@ -19,7 +18,6 @@ import {
   fractionToScrollTop,
   resolveResumeFraction,
 } from "akasha/page/ui/component/modules/position-fraction/position-fraction.module.code.ts"
-import { ReaderAudioBlock } from "akasha/page/ui/component/modules/reader-audio-block/reader-audio-block.module.code.tsx"
 import {
   type ReaderNeighborLink,
   ReaderPager,
@@ -30,20 +28,13 @@ import {
   ReaderProseBody,
   ReaderProseStatic,
 } from "akasha/page/ui/component/modules/reader-prose-body/reader-prose-body.module.code.tsx"
-import { layoutSentenceSpans } from "akasha/page/ui/component/modules/reader-sentence-layout/reader-sentence-layout.module.code.ts"
 import { READER_PROSE_TYPOGRAPHY } from "akasha/page/ui/component/modules/reader-typography/reader-typography.module.code.ts"
 import { useReadEndOnScroll } from "akasha/page/ui/component/modules/use-read-end-on-scroll/use-read-end-on-scroll.module.code.ts"
 import { useReaderProgressWriter } from "akasha/page/ui/component/modules/use-reader-progress-writer/use-reader-progress-writer.module.code.ts"
 import { useRestoreReadPosition } from "akasha/page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts"
-import { useSentenceHighlight } from "akasha/page/ui/component/modules/use-sentence-highlight/use-sentence-highlight.module.code.ts"
 import { DisplayFrame } from "akasha/page/ui/frame/modules/display-frame/display-frame.module.code.tsx"
-import type { MediaVariant } from "akasha/page/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
-import {
-  SentenceNarrationProvider,
-  type SentenceNarrationValue,
-} from "akasha/page/ui/media/modules/sentence-narration-context/sentence-narration-context.module.code.tsx"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { type ReactNode, useCallback, useMemo, useRef } from "react"
+import { useCallback } from "react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const READER_VIRTUALIZE_THRESHOLD = 24_000
@@ -54,41 +45,26 @@ function toFiniteNumber(value: unknown): number | undefined {
   return Number.isFinite(n) ? n : undefined
 }
 
-const EMPTY_MARKS: readonly SentenceMark[] = []
-
 interface PageReaderContentProps {
   pageTypeSlug: PageTypeSlug
   id: string
-  audioVariants?: readonly MediaVariant[]
-  audioNextHref?: string | null
-  audioDefaultVariant?: string | null
   readerPrev?: ReaderNeighborLink | null
   readerNext?: ReaderNeighborLink | null
   storyHref?: string | null
-  audioActions?: ReactNode
   onReadToEnd?: () => void
-  sentenceMarks?: readonly SentenceMark[]
-  onPlayFromSentence?: (sentenceIndex: number) => void
 }
 
 export function PageReaderContent({
   pageTypeSlug,
   id,
-  audioVariants,
-  audioNextHref,
-  audioDefaultVariant,
   readerPrev,
   readerNext,
   storyHref,
-  audioActions,
   onReadToEnd,
-  sentenceMarks,
-  onPlayFromSentence,
 }: PageReaderContentProps) {
   const source = useReaderPageSource()
   const { pageTypeData } = source.useReaderPageType(pageTypeSlug)
   const detailConfig = pageTypeData.detailConfig
-  const mediaConfig = pageTypeData.mediaConfig
 
   const includeContentOnDemand = bodyPropertyIsContentTier(pageTypeData)
   const { page, isLoading } = source.useReaderPage({ pageTypeSlug, id, includeContentOnDemand })
@@ -159,28 +135,6 @@ export function PageReaderContent({
 
   const isVirtualizedBody = body.length > READER_VIRTUALIZE_THRESHOLD
 
-  const marks = sentenceMarks ?? EMPTY_MARKS
-  const audioNarrationCapable = mediaConfig?.audio != null && onPlayFromSentence != null
-  const sentenceLayout = useMemo(
-    () => (audioNarrationCapable ? layoutSentenceSpans(body) : null),
-    [audioNarrationCapable, body]
-  )
-  const narrationValue = useMemo<SentenceNarrationValue>(
-    () => ({ marks, playFromSentence: onPlayFromSentence ?? (() => {}) }),
-    [marks, onPlayFromSentence]
-  )
-  const proseContainerRef = useRef<HTMLDivElement>(null)
-  const scrollToBlock = useCallback(
-    (blockIndex: number) => anchorRef.current?.scrollToBlock(blockIndex),
-    [anchorRef]
-  )
-  useSentenceHighlight({
-    containerRef: proseContainerRef,
-    layout: sentenceLayout,
-    marks,
-    scrollToBlock,
-  })
-
   const restoreMayFire = !localPosition.loaded || decideReadRestore(resumeFraction) !== undefined
   const holdEligibleForRestore = isVirtualizedBody && restoreMayFire
 
@@ -224,61 +178,37 @@ export function PageReaderContent({
           <>
             {detailConfig?.showReadingProgress === true && <ReadingProgressBar />}
             <PageLayout.Content className="max-w-[68ch]!">
-              <SentenceNarrationProvider value={narrationValue}>
-                <div ref={proseContainerRef} className="flex flex-col gap-8 py-6">
-                  {mediaConfig?.audio != null && audioVariants != null && (
-                    <ReaderAudioBlock
-                      pageId={id}
-                      pageTypeSlug={pageTypeSlug}
-                      title={title}
-                      variants={audioVariants}
-                      nextHref={audioNextHref ?? null}
-                      defaultVariant={audioDefaultVariant ?? null}
-                      resumeFraction={localPosition.loaded ? resumeFraction : undefined}
-                      length={wordCount}
-                      currentProgress={currentProgress}
-                      progressPropertyId={progressPropertyId}
-                      text={body}
-                      audioActions={audioActions}
-                    />
-                  )}
-                  {(readerPrev != null || readerNext != null) && (
-                    <ReaderPager
-                      prev={readerPrev ?? null}
-                      next={readerNext ?? null}
-                      position="top"
-                    />
-                  )}
-                  {body.trim() === "" ? (
-                    <p className="text-secondary italic">This page has no text yet.</p>
-                  ) : isVirtualizedBody ? (
-                    <ReaderProseBody
-                      content={body}
-                      className={cn(
-                        READER_PROSE_TYPOGRAPHY,
-                        "text-primary",
-                        holdReaderBody && "invisible"
-                      )}
-                      anchorRef={anchorRef}
-                      sentenceBlocks={sentenceLayout?.blocks}
-                    />
-                  ) : (
-                    <ReaderProseStatic
-                      content={body}
-                      className={`${READER_PROSE_TYPOGRAPHY} text-primary`}
-                      anchorRef={anchorRef}
-                      sentenceBlocks={sentenceLayout?.blocks}
-                    />
-                  )}
-                  {(readerPrev != null || readerNext != null) && (
-                    <ReaderPager
-                      prev={readerPrev ?? null}
-                      next={readerNext ?? null}
-                      position="bottom"
-                    />
-                  )}
-                </div>
-              </SentenceNarrationProvider>
+              <div className="flex flex-col gap-8 py-6">
+                {(readerPrev != null || readerNext != null) && (
+                  <ReaderPager prev={readerPrev ?? null} next={readerNext ?? null} position="top" />
+                )}
+                {body.trim() === "" ? (
+                  <p className="text-secondary italic">This page has no text yet.</p>
+                ) : isVirtualizedBody ? (
+                  <ReaderProseBody
+                    content={body}
+                    className={cn(
+                      READER_PROSE_TYPOGRAPHY,
+                      "text-primary",
+                      holdReaderBody && "invisible"
+                    )}
+                    anchorRef={anchorRef}
+                  />
+                ) : (
+                  <ReaderProseStatic
+                    content={body}
+                    className={`${READER_PROSE_TYPOGRAPHY} text-primary`}
+                    anchorRef={anchorRef}
+                  />
+                )}
+                {(readerPrev != null || readerNext != null) && (
+                  <ReaderPager
+                    prev={readerPrev ?? null}
+                    next={readerNext ?? null}
+                    position="bottom"
+                  />
+                )}
+              </div>
             </PageLayout.Content>
           </>
         ) : (

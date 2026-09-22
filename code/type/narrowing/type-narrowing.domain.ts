@@ -23,7 +23,7 @@ export const typeNarrowing = {
     "module/first-capture",
     "module/flag-value",
     "module/get-subcategory",
-    "module/in-flight-keys",
+
     "module/instant-in",
     "module/is-json",
     "module/is-object-record",

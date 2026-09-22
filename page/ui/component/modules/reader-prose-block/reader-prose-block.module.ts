@@ -4,6 +4,6 @@ export const readerProseBlock = {
   id: "01a061ee-786e-700b-9b84-c070a8b099ef",
   type: "page-type/module",
   slug: "reader-prose-block",
-  definition: "A block of prose in the reader, with its sentences marked for narration.",
+  definition: "A block of prose in the reader, with its sentences marked.",
   code: "tsx",
 } as const satisfies Module

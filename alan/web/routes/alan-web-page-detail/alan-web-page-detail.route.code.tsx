@@ -1,6 +1,6 @@
 import { loader as pageDetailLoader } from "akasha/alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts"
 import { PageDetailErrorBoundary } from "akasha/alan/web/modules/page-detail-error-boundary/page-detail-error-boundary.module.code.tsx"
-import { ReaderNarrationDetail } from "akasha/alan/web/modules/reader-narration-detail/reader-narration-detail.module.code.tsx"
+import { PageDetailWithReadMark } from "akasha/alan/web/modules/page-detail-with-read-mark/page-detail-with-read-mark.module.code.tsx"
 import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
 import {
   DISPLAY_PARAM,
@@ -80,11 +80,10 @@ export default function PageDetailRoute({ loaderData }: { loaderData: PageDetail
 
   const brandedSlug = toPageTypeSlug(loaderData.pageTypeSlug)
   return (
-    <ReaderNarrationDetail
+    <PageDetailWithReadMark
       drawnPlainly={displayMode === "properties"}
       pageTypeSlug={brandedSlug}
       id={loaderData.id}
-      title={loaderData.title ?? ""}
       readerPrev={loaderData.readerPrev ?? undefined}
       readerNext={loaderData.readerNext ?? undefined}
       storyHref={loaderData.storyHref ?? undefined}
