@@ -5,6 +5,10 @@ export const numberProperty = {
   type: "page-type/page-type",
   slug: "number-property",
   definition: "a page property with a number",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "number" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "numbers" },
+  ],
   extends: ["page-type/page-property"],
   parts: ["number-property/max"],
   properties: [{ pageProperty: "number-property/max", required: true, many: false }],
