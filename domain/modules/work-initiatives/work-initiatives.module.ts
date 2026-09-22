@@ -4,7 +4,8 @@ export const workInitiatives = {
   id: "01a04e9f-4572-7339-8438-7d5a5777f8ab",
   type: "page-type/module",
   slug: "work-initiatives",
-  definition: "every initiative the work panel draws, what each has, and the one each sits under",
+  definition:
+    "every initiative the work panel draws, what each has, and each one's parent initiative",
   code: "ts",
   test: "ts",
   decisions: [

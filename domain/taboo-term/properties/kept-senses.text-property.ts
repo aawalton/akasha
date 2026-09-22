@@ -5,7 +5,7 @@ export const keptSenses = {
   type: "page-type/text-property",
   slug: "kept-senses",
   propertySlug: "kept-senses",
-  definition: "the meanings a word is written in",
+  definition: "the meanings a word keeps",
   maxLength: 200,
   nameFormat: null,
   decisions: [

@@ -5,7 +5,7 @@ export const follows = {
   type: "page-type/record-property",
   slug: "follows",
   propertySlug: "follows",
-  definition: "the attribute value a predicate follows an edge over",
+  definition: "the attribute value over which a predicate follows an edge",
   properties: [
     { pageProperty: "relation-property/followed-attribute", required: true, many: false },
     { pageProperty: "text-property/attribute-value", required: true, many: false },

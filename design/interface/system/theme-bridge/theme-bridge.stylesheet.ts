@@ -4,6 +4,6 @@ export const themeBridge = {
   id: "01a05c95-564a-70ee-9a3c-9ed4117a6f44",
   type: "page-type/stylesheet",
   slug: "theme-bridge",
-  definition: "the custom properties Tailwind builds its own utilities from",
+  definition: "the custom properties from which Tailwind builds its own utilities",
   styles: "css",
 } as const satisfies Stylesheet

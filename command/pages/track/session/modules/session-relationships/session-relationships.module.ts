@@ -4,7 +4,7 @@ export const sessionRelationships = {
   id: "01a08cad-1eca-7853-9c10-0a4d891fc3d8",
   type: "page-type/module",
   slug: "session-relationships",
-  definition: "the relationships a stretch of one of Alan's days is tagged with",
+  definition: "the relationships tagging a stretch of one of Alan's days",
   code: "ts",
   test: "ts",
   decisions: [

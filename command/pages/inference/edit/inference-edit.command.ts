@@ -4,7 +4,7 @@ export const inferenceEdit = {
   id: "01a0685e-fd50-7c57-a7d6-7a1be279c52c",
   type: "page-type/command",
   slug: "inference-edit",
-  definition: "the command remaking an image under an instruction, keeping what it is of",
+  definition: "the command remaking an image under an instruction, keeping its subject",
   code: "ts",
   test: "ts",
   decisions: [

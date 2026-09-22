@@ -4,7 +4,7 @@ export const requestReaching = {
   id: "01a0c501-03d8-7c26-8ae6-7aec90409155",
   type: "page-type/module",
   slug: "request-reaching",
-  definition: "the feature request a slug names and the standing that request is at",
+  definition: "the feature request a slug names and that request's standing",
   code: "ts",
   test: "ts",
   decisions: [

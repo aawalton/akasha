@@ -4,7 +4,7 @@ export const synthLoading = {
   id: "01a06810-0b68-7807-b3d1-012ee679ef1d",
   type: "page-type/module",
   slug: "synth-loading",
-  definition: "the manifests a synth file's default export answers with",
+  definition: "the manifests a synth file's default export answers",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const transportServing = {
   id: "01a06816-2f11-7332-be0c-24c2750a723d",
   type: "page-type/module",
   slug: "transport-serving",
-  definition: "the port the repositories and the questions about them are answered on",
+  definition: "the port serving the repositories and the questions about them",
   code: "ts",
   decisions: [
     {

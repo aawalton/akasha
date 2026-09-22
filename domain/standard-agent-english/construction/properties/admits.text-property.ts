@@ -5,7 +5,7 @@ export const admits = {
   type: "page-type/text-property",
   slug: "admits",
   propertySlug: "admits",
-  definition: "a phrase Alan admitted this construction against",
+  definition: "a phrase against which Alan admitted this construction",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
