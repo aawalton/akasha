@@ -32,7 +32,7 @@ export function resetCheckBox(this: void, checkBox: PooledRow): undefined {
 
 export function menuItemFactory(this: void, pool: ObjectPool<LcmRowControl>): LcmRowControl {
   const control = CreateControlFromVirtual<LcmRowControl>(
-    "ZO_CustomMenuItem",
+    "TemperCustomMenuItem",
     menu,
     "ZO_MenuItem",
     pool.GetNextControlId()
@@ -60,7 +60,7 @@ export function menuItemFactory(this: void, pool: ObjectPool<LcmRowControl>): Lc
 
 export function checkBoxFactory(this: void, pool: ObjectPool<LcmRowControl>): LcmRowControl {
   return CreateControlFromVirtual<LcmRowControl>(
-    "ZO_CustomMenuItemCheckButton",
+    "TemperCustomMenuItemCheckButton",
     menu,
     "ZO_MenuItemCheckButton",
     pool.GetNextControlId()
@@ -69,7 +69,7 @@ export function checkBoxFactory(this: void, pool: ObjectPool<LcmRowControl>): Lc
 
 export function dividerFactory(this: void, pool: ObjectPool<LcmRowControl>): LcmRowControl {
   const control = CreateControlFromVirtual<LcmRowControl>(
-    "ZO_CustomMenuDivider",
+    "TemperCustomMenuDivider",
     menu,
     "ZO_NotificationsRowButton",
     pool.GetNextControlId()
@@ -80,7 +80,7 @@ export function dividerFactory(this: void, pool: ObjectPool<LcmRowControl>): Lcm
 
 export function headerFactory(this: void, pool: ObjectPool<LcmRowControl>): LcmRowControl {
   const control = CreateControlFromVirtual<LcmRowControl>(
-    "ZO_CustomMenuHeader",
+    "TemperCustomMenuHeader",
     menu,
     "ZO_AddOnSectionHeaderRow",
     pool.GetNextControlId()

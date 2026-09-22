@@ -22,7 +22,7 @@ export function subMenuItemFactory(
   pool: ObjectPool<LcmSubmenuParent>
 ): LcmSubmenuParent {
   const control = CreateControlFromVirtual<LcmSubmenuParent>(
-    "ZO_CustomSubMenuItem",
+    "TemperCustomSubMenuItem",
     menu,
     "ZO_NotificationsRowButton",
     pool.GetNextControlId()

@@ -112,7 +112,7 @@ export function createSubmenu(this: void, name: string): Submenu {
 
   function itemFactory(this: void, pool: ObjectPool<LcmRowControl>): LcmRowControl {
     const control = CreateControlFromVirtual<LcmRowControl>(
-      "ZO_SubMenuItem",
+      "TemperCustomSubMenuRow",
       submenuControl,
       "ZO_MenuItem",
       pool.GetNextControlId()
@@ -143,7 +143,7 @@ export function createSubmenu(this: void, name: string): Submenu {
 
   function dividerFactory(this: void, pool: ObjectPool<LcmRowControl>): LcmRowControl {
     const control = CreateControlFromVirtual<LcmRowControl>(
-      "ZO_CustomSubMenuDivider",
+      "TemperCustomSubMenuDivider",
       submenuControl,
       "ZO_NotificationsRowButton",
       pool.GetNextControlId()
@@ -154,7 +154,7 @@ export function createSubmenu(this: void, name: string): Submenu {
 
   function headerFactory(this: void, pool: ObjectPool<LcmRowControl>): LcmRowControl {
     const control = CreateControlFromVirtual<LcmRowControl>(
-      "ZO_CustomSubMenuHeader",
+      "TemperCustomSubMenuHeader",
       submenuControl,
       "ZO_AddOnSectionHeaderRow",
       pool.GetNextControlId()
@@ -165,7 +165,7 @@ export function createSubmenu(this: void, name: string): Submenu {
 
   function checkboxFactory(this: void, pool: ObjectPool<LcmRowControl>): LcmRowControl {
     const control = CreateControlFromVirtual<LcmRowControl>(
-      "ZO_CustomSubMenuItemCheckButton",
+      "TemperCustomSubMenuItemCheckButton",
       submenuControl,
       "ZO_CheckButton",
       pool.GetNextControlId()
