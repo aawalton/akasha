@@ -7,9 +7,15 @@ export const item = {
   definition: "something a character has",
   pluralSlug: "items",
   extends: ["page-type/page"],
-  parts: ["relation-property/item-character", "relation-property/item-slot", "page-type/item-slot"],
+  parts: [
+    "relation-property/item-character",
+    "relation-property/item-slot",
+    "relation-property/item-story",
+    "page-type/item-slot",
+  ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "relation-property/item-story", required: true, many: false },
     { pageProperty: "relation-property/item-character", required: true, many: false },
     { pageProperty: "relation-property/item-slot", required: false, many: false },
   ],

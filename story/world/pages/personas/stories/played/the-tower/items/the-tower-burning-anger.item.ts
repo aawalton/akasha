@@ -5,6 +5,7 @@ export const theTowerBurningAnger = {
   type: "page-type/item",
   slug: "the-tower-burning-anger",
   title: "Burning Anger",
+  story: "story-played/the-tower",
   character: "character-player/the-tower-alan",
   slot: "item-slot/main-hand",
 } as const satisfies Item
