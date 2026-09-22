@@ -119,6 +119,11 @@ export const sourceGlobbing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A pattern is compared beside the specifiers, so a pattern that moves moves the globs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The stylesheets are read in name order and the tree they came from is in none.",
     },
     {

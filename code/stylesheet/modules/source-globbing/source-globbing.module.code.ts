@@ -264,10 +264,8 @@ function globbedOver(change: Change): Globbed {
 
 function specifiersIn(body: string | null, path: string): string {
   if (body === null) return ""
-  return placedIn(path, body)
-    .map((one) => one.text)
-    .sort()
-    .join("\n")
+  const said = placedIn(path, body).map((one) => one.text)
+  return [...said, ...globbedIn(path, body)].sort().join("\n")
 }
 
 function styledIn(change: Change): readonly string[] {
