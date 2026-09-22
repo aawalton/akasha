@@ -4,7 +4,7 @@ export const changeMechanicalPageTypeChange = {
   id: "01a09c6e-7c73-7c16-9054-f8d3b748d48c",
   type: "page-type/domain",
   slug: "change-mechanical-page-type-change",
-  definition: "a mechanical change stating one property of a page type anew",
+  definition: "a mechanical change stating a property of a page type anew",
   parts: [
     "change-mechanical-page-type/change-calculation-held-type",
     "change-mechanical-page-type/change-property-on-page-type",

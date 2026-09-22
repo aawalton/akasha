@@ -5,7 +5,7 @@ export const learnStoplight = {
   type: "page-type/computed-property",
   slug: "learn-stoplight",
   propertySlug: "learn-stoplight",
-  definition: "the rung the day's learn reached, as one colored light",
+  definition: "the rung the day's learn reached, as a colored light",
   holds: "text",
   code: "ts",
   types: "ts",

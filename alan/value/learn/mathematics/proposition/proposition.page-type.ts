@@ -4,7 +4,7 @@ export const proposition = {
   id: "01a06575-c2ab-7655-98f1-b3163771f0dc",
   type: "page-type/page-type",
   slug: "proposition",
-  definition: "one statement in the formal system Alan is building",
+  definition: "a statement in the formal system Alan is building",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "proposition" }],
   extends: ["page-type/page"],
   parts: [

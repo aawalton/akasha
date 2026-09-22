@@ -4,7 +4,7 @@ export const trackingField = {
   id: "01a06827-ec0c-79f7-864d-da0cf491975e",
   type: "page-type/page-type",
   slug: "tracking-field",
-  definition: "one aspect of Alan that takes a value each time it is observed",
+  definition: "an aspect of Alan that takes a value each time it is observed",
   extends: ["page-type/page-property"],
   decisions: [
     {

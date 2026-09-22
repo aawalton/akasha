@@ -5,7 +5,7 @@ export const secondsPerRaise = {
   type: "page-type/number-property",
   slug: "seconds-per-raise",
   propertySlug: "seconds-per-raise",
-  definition: "how many seconds Alan spends on any one movement that raises his temperature",
+  definition: "how many seconds Alan spends on any movement that raises his temperature",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

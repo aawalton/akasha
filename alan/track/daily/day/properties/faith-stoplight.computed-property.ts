@@ -5,7 +5,7 @@ export const faithStoplight = {
   type: "page-type/computed-property",
   slug: "faith-stoplight",
   propertySlug: "faith-stoplight",
-  definition: "the rung the day's faith reached, as one colored light",
+  definition: "the rung the day's faith reached, as a colored light",
   holds: "text",
   code: "ts",
   types: "ts",

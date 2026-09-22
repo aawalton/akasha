@@ -4,7 +4,7 @@ export const identityStatement = {
   id: "01a0658a-739f-7d92-aed5-20be788a960f",
   type: "page-type/page-type",
   slug: "identity-statement",
-  definition: "one sentence Alan means to become true of him",
+  definition: "a sentence Alan means to become true of him",
   extends: ["page-type/page"],
   parts: [
     "number-property/identity-statement-level",

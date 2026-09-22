@@ -4,7 +4,7 @@ export const rejection = {
   id: "01a0a69b-59a5-7703-b20b-4bc445481cac",
   type: "page-type/page-type",
   slug: "rejection",
-  definition: "one time Alan put himself where the answer could be no",
+  definition: "a time Alan put himself where the answer could be no",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "rejection" },
     { partOfSpeech: "part-of-speech/noun", spelling: "rejections" },

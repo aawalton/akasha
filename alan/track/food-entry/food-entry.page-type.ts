@@ -4,7 +4,7 @@ export const foodEntry = {
   id: "01a065a3-6e8b-7516-be17-9b2737f11128",
   type: "page-type/page-type",
   slug: "food-entry",
-  definition: "one thing Alan ate, written down",
+  definition: "a thing Alan ate, written down",
   extends: ["page-type/page"],
   parts: [
     "file-property/food-entry-note",

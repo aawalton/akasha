@@ -4,7 +4,7 @@ export const inboxPass = {
   id: "01a06948-c4c6-798a-a36f-1d22dd231125",
   type: "page-type/module",
   slug: "inbox-pass",
-  definition: "one pass over a person's inbox, said in lines a reader can act on",
+  definition: "a pass over a person's inbox, said in lines a reader can act on",
   code: "ts",
   test: "ts",
   decisions: [
