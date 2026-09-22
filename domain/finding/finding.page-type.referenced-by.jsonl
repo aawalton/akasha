@@ -110,7 +110,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-email-actions-domain-and-the-code-rule-format-disagree-on-what-an-action-is.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-empty-heredoc-probe-is-answered-by-change-draft-and-acted-on-by-change-apply.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-engine-removes-an-emptied-folder-and-refuses-the-agent-who-asks-it-to.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-eso-declaration-generator-writes-where-nothing-reads.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-folder-shape-check-looks-only-where-two-pages-sit.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-git-hooks-guard-outside-the-repository-and-the-others-do-not.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-hold-a-landing-takes-is-not-spent-in-git.finding.ts"}
