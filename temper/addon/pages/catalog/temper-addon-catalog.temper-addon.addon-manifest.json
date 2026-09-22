@@ -8,5 +8,5 @@
   "apiVersion": ["101041", "101042", "101049"],
   "savedVariables": ["TemperCatalog_SavedVariables", "TemperDataMining_SavedVariables"],
   "additionalLuaFiles": ["TemperCatalogConfig.lua"],
-  "dependsOn": ["TemperHud"]
+  "dependsOn": ["Temper"]
 }

@@ -32,7 +32,7 @@
     "TemperCollections_TooltipColors"
   ],
   "dependsOn": [
-    "TemperHud"
+    "Temper"
   ],
   "optionalDependsOn": [
     "DebugLogViewer",

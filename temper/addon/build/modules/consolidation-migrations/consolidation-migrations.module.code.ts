@@ -218,39 +218,46 @@ export const CONSOLIDATION_MIGRATIONS = [
     },
   },
   {
+    mode: "rename",
+    runFor: "Temper",
+    oldFileBase: "TemperHud",
+    newFileBase: "Temper",
+    renames: [],
+  },
+  {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "TemperICTheNextBoss",
       absorbedGlobal: "TemperICTheNextBoss_SavedVariables",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "TemperEvents",
       absorbedGlobal: "TemperICTheNextBoss_SavedVariables",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "TemperPortToFriendsHouse",
       absorbedGlobal: "TemperPortToFriendsHouse_SavedVariables",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "TemperHousing",
       absorbedGlobal: "TemperPortToFriendsHouse_SavedVariables",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
@@ -343,38 +350,38 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "TemperNoThankYou",
       absorbedGlobal: "TemperNoThankYou_SavedVariables",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "TemperFCOChangeStuff",
       absorbedGlobal: "TemperFCOChangeStuff_SavedVariables",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "TemperInterface",
       absorbedGlobal: "TemperNoThankYou_SavedVariables",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "TemperInterface",
       absorbedGlobal: "TemperFCOChangeStuff_SavedVariables",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
@@ -433,20 +440,20 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "TemperErrors",
       absorbedGlobal: "TemperErrors_SavedVariables",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "TemperAddons",
       absorbedGlobal: "TemperAddons_SavedVariables",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
@@ -467,72 +474,72 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "rename",
-    runFor: "TemperHud",
+    runFor: "Temper",
     oldFileBase: "TemperVotansKeybinder",
     newFileBase: "TemperKeybinder",
     renames: [[/^TemperVotansKeybinder_SavedVariables\s*=/m, "TemperKeybinder_SavedVariables ="]],
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "TemperKeybinder",
       absorbedGlobal: "TemperKeybinder_SavedVariables",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "LibChatMessage",
       absorbedGlobal: "LibChatMessageSettings",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "LibChatMessage",
       absorbedGlobal: "LibChatMessageHistory",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "LibAsync",
       absorbedGlobal: "AsyncSavedVars",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "LibScrollableMenu",
       absorbedGlobal: "LibScrollableMenu_SavedVars",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "LibDebugLogger",
       absorbedGlobal: "LibDebugLoggerSettings",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
   {
     mode: "append",
-    runFor: "TemperHud",
+    runFor: "Temper",
     spec: {
       absorbedFileBase: "LibDebugLogger",
       absorbedGlobal: "LibDebugLoggerLog",
-      targetFileBase: "TemperHud",
+      targetFileBase: "Temper",
     },
   },
 ] as const satisfies readonly ConsolidationMigration[]

@@ -7,7 +7,7 @@
   "addonVersion": 100,
   "apiVersion": ["101041", "101042", "101049"],
   "savedVariables": ["TemperCombat_Save", "TemperCombat_FightData", "TemperActions_SavedVariables"],
-  "dependsOn": ["TemperHud"],
+  "dependsOn": ["Temper"],
   "optionalDependsOn": [],
   "xmlFiles": {
     "afterBundle": [

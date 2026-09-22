@@ -17,7 +17,7 @@
     "FCOCompanion_Settings_PerToon"
   ],
   "dependsOn": [
-    "TemperHud"
+    "Temper"
   ],
   "optionalDependsOn": [],
   "additionalLuaFiles": [

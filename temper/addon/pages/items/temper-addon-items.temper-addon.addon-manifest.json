@@ -28,7 +28,7 @@
   "additionalLuaFiles": ["TemperItemsConfig.lua"],
   "dependsOn": [
     "TemperCharacters",
-    "TemperHud"
+    "Temper"
   ],
   "optionalDependsOn": [
     "TamrielTradeCentre",
