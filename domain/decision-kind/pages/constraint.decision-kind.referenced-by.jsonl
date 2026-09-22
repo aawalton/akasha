@@ -413,6 +413,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
 {"propertySlug":"decision-kind","path":"temper/addon/community/modules/esoui-catalog/esoui-catalog.module.ts","id":"01a06069-b78e-7d2b-92aa-b3faa2d1f562"}
 {"propertySlug":"decision-kind","path":"temper/addon/community/temper-addon-community.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/catalog-collect-adapters/catalog-collect-adapters.module.ts","id":"01a063ba-94e5-7a59-9efa-ef08d6f1dfea"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/temper-addon-catalog.temper-addon.ts","id":"01a063ba-94e5-7c5d-b338-174ed9b6a224"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-achievements/characters-achievements.module.ts","id":"01a062e9-b6ff-701b-ad38-42cae450de18"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.ts","id":"01a062e9-b6ff-701c-9ee8-9608dc0eea33"}

@@ -27,6 +27,14 @@ export function hasCollectedDomain(this: void, domainKey: string): boolean {
   return false
 }
 
+const REASON_CEILING = 300
+
+function shortened(this: void, reason: string): string {
+  const [oneLine] = string.gsub(reason, "%s+", " ")
+  if (oneLine.length <= REASON_CEILING) return oneLine
+  return string.sub(oneLine, 1, REASON_CEILING)
+}
+
 export function writeWalkVerdict(this: void, verdict: CatalogWalkVerdict): undefined {
   const savedVars = getSavedVariables()
   savedVars.completed = verdict.completed
@@ -36,7 +44,7 @@ export function writeWalkVerdict(this: void, verdict: CatalogWalkVerdict): undef
   }
   const skipRecord: Record<string, string> = {}
   for (const skip of verdict.skips) {
-    skipRecord[skip.domain] = skip.reason
+    skipRecord[skip.domain] = shortened(skip.reason)
     d(`[${ADDON_NAME}] Skipped ${skip.domain}: ${skip.reason}`)
   }
   savedVars.collectionSkips = skipRecord

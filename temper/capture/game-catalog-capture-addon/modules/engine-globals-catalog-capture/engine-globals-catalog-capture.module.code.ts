@@ -11,10 +11,12 @@ function writableNumber(held: number): boolean {
   return held * NOTHING === NOTHING
 }
 
-function collectEngineGlobalsCatalog(this: void, onComplete: (this: void) => void): undefined {
-  const numbers: Record<string, number> = {}
-  const named: string[] = []
-  const unwritable: string[] = []
+function walkGlobals(
+  this: void,
+  numbers: Record<string, number>,
+  named: string[],
+  unwritable: string[]
+): undefined {
   for (const name in _G) {
     const [shaped] = string.match(name, IN_CAPITALS)
     if (shaped === undefined) continue
@@ -29,8 +31,18 @@ function collectEngineGlobalsCatalog(this: void, onComplete: (this: void) => voi
       named[named.length] = name
     }
   }
+}
+
+function collectEngineGlobalsCatalog(this: void, onComplete: (this: void) => void): undefined {
+  const numbers: Record<string, number> = {}
+  const named: string[] = []
+  const unwritable: string[] = []
+  const [walked] = pcall(function (this: void): undefined {
+    walkGlobals(numbers, named, unwritable)
+  })
   getSavedVariables().engineGlobalsCatalog = {
     apiVersion: GetAPIVersion(),
+    walked,
     numbers,
     named,
     unwritable,

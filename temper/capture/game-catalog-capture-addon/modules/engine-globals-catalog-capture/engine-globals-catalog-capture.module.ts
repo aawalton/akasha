@@ -14,6 +14,18 @@ export const engineGlobalsCatalogCapture = {
     },
     {
       decisionKind: "decision-kind/constraint",
+      statement: "The game lets an addon read a global by name and may refuse to list them all.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A listing the game refuses answers with what was read rather than raising.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether the globals could be listed is saved beside what the listing found.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
       statement:
         "The game's own documentation names a constant without saying what that constant is.",
     },

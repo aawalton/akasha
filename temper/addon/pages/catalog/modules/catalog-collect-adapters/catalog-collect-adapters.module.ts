@@ -19,5 +19,21 @@ export const catalogCollectAdapters = {
       decisionKind: "decision-kind/departure",
       statement: "A run leaving no skips clears the skips rather than leaving the old ones.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A fault the game reports carries the whole stack that fault was raised through.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A reason too long for the game to save loses every skip saved beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reason is saved as one line of three hundred characters at most.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The whole reason is written to the chat window, where no ceiling reaches it.",
+    },
   ],
 } as const satisfies Module
