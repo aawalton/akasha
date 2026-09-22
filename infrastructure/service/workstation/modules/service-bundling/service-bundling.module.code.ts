@@ -47,7 +47,33 @@ const APART = "\0"
 
 const NAMED_AT_MOST = 12
 
-export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set(["service-watching"])
+export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set([
+  "active-calories-service",
+  "attributes-relay-service",
+  "capacity-relay-service",
+  "cluster-deploying",
+  "container-recipe-deploying",
+  "cost-relay-service",
+  "inbox-relay-service",
+  "inbox-tracking-poll",
+  "inference-deploying",
+  "ios-app-deploying",
+  "model-account-upkeep-stall",
+  "monarch-poll",
+  "monarch-reading-service",
+  "monarch-relay-service",
+  "plants-relay-service",
+  "safety-relay-service",
+  "send-due-reminders",
+  "service-watching",
+  "sleep-relay-service",
+  "surplus-relay-service",
+  "sweep-stray-processes",
+  "sweep-subagent-pages",
+  "temper-addon-deploying",
+  "topic-words-service",
+  "web-app-deploying",
+])
 
 const LEFT_FOR_RUNTIME: Readonly<Record<string, string>> = {
   "chromium-bidi":
