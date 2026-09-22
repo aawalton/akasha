@@ -4,8 +4,7 @@ export const completionItemSetProgress = {
   id: "01a0632a-9d43-7b8b-9a8d-5a53b8bdb022",
   type: "page-type/module",
   slug: "completion-item-set-progress",
-  definition:
-    "how many pieces of each item set an account holds, gathered under the set's category",
+  definition: "how many pieces of each item set an account holds, filed under the set's category",
   code: "ts",
   decisions: [
     {

@@ -4,6 +4,6 @@ export const morphPair = {
   id: "01a061c7-0738-70ef-8a06-41f1bab33ca9",
   type: "page-type/module",
   slug: "morph-pair",
-  definition: "a skill line's skills gathered under each one's base skill",
+  definition: "a skill line's skills filed under each one's base skill",
   code: "ts",
 } as const satisfies Module

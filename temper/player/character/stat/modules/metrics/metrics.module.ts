@@ -4,8 +4,7 @@ export const metrics = {
   id: "01a06131-abb7-7c5f-81a0-69154a33d704",
   type: "page-type/module",
   slug: "metrics",
-  definition:
-    "every character stat indexed by its id, with the ones carrying a formula gathered apart",
+  definition: "every character stat indexed by its id, with the ones carrying a formula kept apart",
   code: "ts",
   decisions: [
     {

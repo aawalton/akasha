@@ -4,7 +4,7 @@ export const setsRowsFirst = {
   id: "01a08e66-0b80-7e5b-a02a-6ceb5642caab",
   type: "page-type/module",
   slug: "sets-rows-first",
-  definition: "the first sixty-two numbered set parts gathered into one list",
+  definition: "the first sixty-two numbered set parts put into one list",
   code: "ts",
   decisions: [
     {

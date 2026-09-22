@@ -4,7 +4,7 @@ export const itemBrowserItems = {
   id: "01a06178-371f-7441-8cab-2f74d08e70ab",
   type: "page-type/module",
   slug: "item-browser-items",
-  definition: "every item set the browser knows, gathered in order from three parts",
+  definition: "every item set the browser knows, taken in order from three parts",
   code: "ts",
   decisions: [
     {
