@@ -1,5 +1,3 @@
-import "akasha/temper/catalog/world/skyshard/modules/skyshards-global/skyshards-global.module.code.ts"
-
 import { onLoad as consoleOnLoad } from "akasha/temper/catalog/world/skyshard/modules/skyshards-console-load/skyshards-console-load.module.code.ts"
 import { showMyPosition as consoleShowMyPosition } from "akasha/temper/catalog/world/skyshard/modules/skyshards-console-slash/skyshards-console-slash.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/catalog/world/skyshard/modules/skyshards-constants/skyshards-constants.module.code.ts"

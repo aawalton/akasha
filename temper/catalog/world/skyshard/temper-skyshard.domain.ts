@@ -20,7 +20,6 @@ export const temperSkyshard = {
     "module/skyshards-data-2",
     "module/skyshards-data-3",
     "module/skyshards-data-accessors",
-    "module/skyshards-global",
     "module/skyshards-part-1",
     "module/skyshards-part-10",
     "module/skyshards-part-11",
@@ -53,7 +52,6 @@ export const temperSkyshard = {
     "module/skyshards-types",
     "module/skyshards-ui-strings",
     "type-declaration/skyshards-controls",
-    "type-declaration/skyshards-global-declarations",
     "type-declaration/skyshards-string-ids",
   ],
   decisions: [
