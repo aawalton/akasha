@@ -114,6 +114,7 @@ export const alanWeb = {
     "module/widget-tap-answering",
     "stylesheet/alan-web-look",
     "module/stoplights-activity-sync",
+    "module/alan-answer-ask",
   ],
   toolReached: ["react-dom"],
 } as const satisfies RouterApp

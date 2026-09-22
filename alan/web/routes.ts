@@ -68,6 +68,7 @@ export default [
     "api/spotify/callback",
     "routes/alan-web-api-spotify-callback/alan-web-api-spotify-callback.route.code.ts"
   ),
+  route("api/ask", "routes/alan-web-api-ask/alan-web-api-ask.route.code.ts"),
   route("api/page-types", "routes/alan-web-api-page-types/alan-web-api-page-types.route.code.ts"),
   route("api/pages/:pageTypeSlug", "routes/alan-web-api-pages/alan-web-api-pages.route.code.ts"),
   route("api/page-write", "routes/alan-web-api-page-write/alan-web-api-page-write.route.code.ts"),

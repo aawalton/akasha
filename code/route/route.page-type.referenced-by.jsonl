@@ -35,6 +35,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-sign-out/requests-sign-out.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-sign-up/requests-sign-up.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/about/about.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-ask/alan-web-api-ask.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-auth/alan-web-api-auth.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-chess-analyze/alan-web-api-chess-analyze.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-device-secret-mint/alan-web-api-device-secret-mint.route.ts"}
