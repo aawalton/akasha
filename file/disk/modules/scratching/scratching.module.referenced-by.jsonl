@@ -135,6 +135,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"code/body/modules/commit-loading/commit-loading.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"code/editor/extension/modules/command-server/command-server.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"code/editor/extension/modules/transcript-sources/transcript-sources.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"code/ios-app/modules/app-building/app-building.module.test.ts"}

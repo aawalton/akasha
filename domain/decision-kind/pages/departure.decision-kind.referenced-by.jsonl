@@ -1657,6 +1657,7 @@
 {"propertySlug":"decision-kind","path":"code/body/modules/body-text/body-text.module.ts","id":"01a04fa7-aae4-77e8-8e0c-b9e61046b33b"}
 {"propertySlug":"decision-kind","path":"code/body/modules/bytes-slug/bytes-slug.module.ts","id":"01a0c644-9183-7ef5-8cbc-e26187cf8bf9"}
 {"propertySlug":"decision-kind","path":"code/body/modules/carried-file/carried-file.module.ts","id":"01a0693a-5bbe-7eb7-8820-1fde5da86eb5"}
+{"propertySlug":"decision-kind","path":"code/body/modules/commit-loading/commit-loading.module.ts","id":"01a0cab0-a954-7001-bda5-ee9aa0d02c73"}
 {"propertySlug":"decision-kind","path":"code/body/modules/file-kind/file-kind.module.ts","id":"01a06553-a9b6-77a7-a681-f8ecbf29a0b3"}
 {"propertySlug":"decision-kind","path":"code/body/modules/sha256-hex/sha256-hex.module.ts","id":"01a08ef4-823c-79ae-8b62-4de2fcf1a1b5"}
 {"propertySlug":"decision-kind","path":"code/body/modules/utf8-body/utf8-body.module.ts","id":"01a06553-a9b5-76cc-b4e6-e4e42b4a0f0d"}
