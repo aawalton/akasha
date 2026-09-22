@@ -14,7 +14,6 @@
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/domain-registration-expiry-metric-absent/domain-registration-expiry-metric-absent.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/filesystem-predicted-full/filesystem-predicted-full.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/git-mirror-destination-unreachable/git-mirror-destination-unreachable.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/git-mirror-metric-absent/git-mirror-metric-absent.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/git-mirror-no-destination/git-mirror-no-destination.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/gpu-temperature-high/gpu-temperature-high.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/job-failed/job-failed.alert.ts"}
