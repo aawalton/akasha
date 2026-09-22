@@ -1,7 +1,11 @@
 import type { Carried } from "akasha/check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  slugOf,
+  textAt,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   type Carried as Declared,
   identityOf,
@@ -82,12 +86,17 @@ function taking(found: Map<string, Held>, one: Held): undefined {
   if (!found.has(at)) found.set(at, one)
 }
 
+function kindOf(value: Value): string | null {
+  const said = textAt(value, KIND)
+  return said === null ? textAt(value, WAS_KIND) : slugOf(said)
+}
+
 export function judgedIn(carried: readonly Carried[], shadow: Shadow): readonly Held[] {
   const under = shadow.index.kindsUnder(PAGE_TYPE)
   const properties = shadow.index.kindsUnder(PAGE_PROPERTY)
   const found = new Map<string, Held>()
   for (const one of carried) {
-    const kind = textAt(one.value, KIND) ?? textAt(one.value, WAS_KIND)
+    const kind = kindOf(one.value)
     const slug = textAt(one.value, SLUG)
     if (kind === null || slug === null) continue
     if (under.has(kind)) taking(found, { slug, kind, path: one.path, descends: true })
@@ -96,7 +105,7 @@ export function judgedIn(carried: readonly Carried[], shadow: Shadow): readonly 
     }
   }
   for (const one of carried) {
-    const kind = textAt(one.value, KIND) ?? textAt(one.value, WAS_KIND)
+    const kind = kindOf(one.value)
     const id = textAt(one.value, ID)
     if (kind === null || id === null || !properties.has(kind)) continue
     for (const said of shadow.index.declaringOf(id)) {
