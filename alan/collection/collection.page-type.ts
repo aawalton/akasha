@@ -47,7 +47,7 @@ export const collection = {
     "page-type/unit",
     "relation-property/collection-type",
     "relation-property/collection-unit",
-    "relation-property/part-of-collections",
+    "multi-relation-property/part-of-collections",
     "select-property/status",
     "text-property/collection-author",
     "text-property/collection-tags",
@@ -71,7 +71,7 @@ export const collection = {
     { pageProperty: "number-property/own-length", required: false, many: false },
     { pageProperty: "number-property/own-progress", required: false, many: false },
     {
-      pageProperty: "relation-property/part-of-collections",
+      pageProperty: "multi-relation-property/part-of-collections",
       required: false,
       many: true,
       maxCount: null,

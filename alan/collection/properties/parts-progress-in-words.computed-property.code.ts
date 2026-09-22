@@ -1,5 +1,5 @@
 import type { Collection } from "akasha/alan/collection/collection.page-type.types.ts"
-import { partOfCollections } from "akasha/alan/collection/properties/part-of-collections.relation-property.ts"
+import { partOfCollections } from "akasha/alan/collection/properties/part-of-collections.multi-relation-property.ts"
 import type { PartsProgressInWords } from "akasha/alan/collection/properties/parts-progress-in-words.computed-property.types.ts"
 import type { Work } from "akasha/page/computed-property/computed-property.page-type.ts"
 

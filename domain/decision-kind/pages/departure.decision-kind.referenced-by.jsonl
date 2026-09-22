@@ -537,7 +537,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/properties/following.boolean-property.ts","id":"01a063de-2c60-700a-b99a-430529589ec1"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/own-length.number-property.ts","id":"01a06553-4713-7000-832b-753158e3fec9"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/own-progress.number-property.ts","id":"01a06553-4713-7001-b03b-f1f7f97f1aa8"}
-{"propertySlug":"decision-kind","path":"alan/collection/properties/part-of-collections.relation-property.ts","id":"01a063de-2c60-700b-8db4-bed38f86b940"}
+{"propertySlug":"decision-kind","path":"alan/collection/properties/part-of-collections.multi-relation-property.ts","id":"01a063de-2c60-700b-8db4-bed38f86b940"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/parts-length-in-words.computed-property.ts","id":"01a06959-98a7-7ab5-991b-44150f978745"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/parts-progress-in-words.computed-property.ts","id":"01a06959-98a7-7e83-8ec2-6370d810f6b3"}
 {"propertySlug":"decision-kind","path":"alan/collection/properties/status.select-property.ts","id":"01a063de-2c60-7011-92a6-0aefa2934d59"}

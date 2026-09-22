@@ -12,7 +12,7 @@ import type { OwnProgress } from "akasha/alan/collection/properties/own-progress
 import type { OwnProgressInWords } from "akasha/alan/collection/properties/own-progress-in-words.computed-property.types.ts"
 import type { OwnRemaining } from "akasha/alan/collection/properties/own-remaining.computed-property.types.ts"
 import type { OwnRemainingInWords } from "akasha/alan/collection/properties/own-remaining-in-words.computed-property.types.ts"
-import type { PartOfCollections } from "akasha/alan/collection/properties/part-of-collections.relation-property.types.ts"
+import type { PartOfCollections } from "akasha/alan/collection/properties/part-of-collections.multi-relation-property.types.ts"
 import type { PartsLengthInWords } from "akasha/alan/collection/properties/parts-length-in-words.computed-property.types.ts"
 import type { PartsProgressInWords } from "akasha/alan/collection/properties/parts-progress-in-words.computed-property.types.ts"
 import type { PartsRemainingInWords } from "akasha/alan/collection/properties/parts-remaining-in-words.computed-property.types.ts"
