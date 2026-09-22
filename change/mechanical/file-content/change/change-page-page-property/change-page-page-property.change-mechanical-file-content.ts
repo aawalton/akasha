@@ -7,7 +7,7 @@ export const changePagePageProperty = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "one key of a page's exported object stated anew",
+  definition: "a key of a page's exported object stated anew",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

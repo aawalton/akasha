@@ -7,7 +7,7 @@ export const renamePropertySignature = {
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "one property a type declares spelled anew wherever the checker resolves to it",
+  definition: "a property a type declares spelled anew wherever the checker resolves to it",
   code: "ts",
   test: "ts",
   decisions: [

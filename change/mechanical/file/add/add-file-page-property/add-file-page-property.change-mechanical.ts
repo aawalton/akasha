@@ -7,7 +7,7 @@ export const addFilePageProperty = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page-property",
-  definition: "one page property written at one path, with the keys that property carries judged",
+  definition: "a page property written at a path, with the keys that property carries judged",
   code: "ts",
   test: "ts",
   decisions: [

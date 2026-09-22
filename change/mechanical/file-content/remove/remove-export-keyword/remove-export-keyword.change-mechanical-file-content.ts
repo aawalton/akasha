@@ -7,7 +7,7 @@ export const removeExportKeyword = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "the change dropping the `export` from named values one code file declares",
+  definition: "the change dropping the `export` from named values a code file declares",
   code: "ts",
   test: "ts",
   decisions: [

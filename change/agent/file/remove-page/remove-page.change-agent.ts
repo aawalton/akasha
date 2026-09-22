@@ -7,7 +7,7 @@ export const removePage = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
-  definition: "one page taken away, by the partial change fitting the kind of page named",
+  definition: "a page taken away, by the partial change fitting the kind of page named",
   code: "ts",
   test: "ts",
   decisions: [

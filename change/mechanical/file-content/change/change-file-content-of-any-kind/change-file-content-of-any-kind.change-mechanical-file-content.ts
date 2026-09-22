@@ -7,7 +7,7 @@ export const changeFileContentOfAnyKind = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content",
-  definition: "one passage of one body replaced, through the change working that kind of body",
+  definition: "a passage of a body replaced, through the change working that kind of body",
   code: "ts",
   test: "ts",
   decisions: [

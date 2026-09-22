@@ -7,7 +7,7 @@ export const addPageProperty = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "one key put into a page's body under one value rather than under a list",
+  definition: "a key put into a page's body under one value rather than under a list",
   code: "ts",
   test: "ts",
   decisions: [

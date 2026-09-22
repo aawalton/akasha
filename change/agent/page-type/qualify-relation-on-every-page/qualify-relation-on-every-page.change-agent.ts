@@ -7,7 +7,7 @@ export const qualifyRelationOnEveryPage = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "a bare name one key holds made an address, on every page of one page type",
+  definition: "a bare name a key holds made an address, on every page of a page type",
   takesAtMost: true,
   code: "ts",
   test: "ts",

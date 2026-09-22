@@ -7,7 +7,7 @@ export const addTypeMember = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "one member put into an exported object type",
+  definition: "a member put into an exported object type",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

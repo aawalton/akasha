@@ -7,7 +7,7 @@ export const addPagePropertyTypes = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page",
-  definition: "every page property of one page type turned over to the code writing its type",
+  definition: "every page property of a page type turned over to the code writing its type",
   code: "ts",
   test: "ts",
   decisions: [

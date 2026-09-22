@@ -7,7 +7,7 @@ export const renamePageType = {
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page",
-  definition: "one page type renamed, by the partial change renaming a page type",
+  definition: "a page type renamed, by the partial change renaming a page type",
   code: "ts",
   test: "ts",
   decisions: [
