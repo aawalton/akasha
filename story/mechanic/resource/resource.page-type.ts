@@ -11,11 +11,13 @@ export const resource = {
     "number-property/resource-max-value",
     "number-property/resource-min-value",
     "number-property/resource-value",
+    "relation-property/resource-character",
     "page-type/tower-health",
     "page-type/tower-mana",
     "page-type/tower-stamina",
   ],
   properties: [
+    { pageProperty: "relation-property/resource-character", required: true, many: false },
     { pageProperty: "number-property/resource-value", required: true, many: false },
     { pageProperty: "number-property/resource-min-value", required: false, many: false },
     { pageProperty: "number-property/resource-max-value", required: false, many: false },
