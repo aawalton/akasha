@@ -9,7 +9,6 @@
 {"propertySlug":"import","fileName":"prose.file-property.types.ts","path":"story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"}
 {"propertySlug":"import","fileName":"prose.file-property.types.ts","path":"story/world/stories/read/story-read.page-type.types.ts"}
 {"propertySlug":"import","fileName":"prose.file-property.types.ts","path":"story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"}
-{"propertySlug":"import","fileName":"prose.file-property.types.ts","path":"story/world/stories/written/story-written.page-type.types.ts"}
 {"propertySlug":"import","fileName":"prose.file-property.types.ts","path":"story/world/wiki-entries/story-wiki-entry.page-type.types.ts"}
 {"propertySlug":"page-property","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"page-property","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
@@ -22,6 +21,5 @@
 {"propertySlug":"page-property","path":"story/world/stories/read/chapters/story-chapter-read.page-type.ts","id":"01a06554-d8bd-72ef-8a40-8ab143986c70"}
 {"propertySlug":"page-property","path":"story/world/stories/read/story-read.page-type.ts","id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
 {"propertySlug":"page-property","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
-{"propertySlug":"page-property","path":"story/world/stories/written/story-written.page-type.ts","id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
 {"propertySlug":"page-property","path":"story/world/wiki-entries/story-wiki-entry.page-type.ts","id":"01a06578-d638-7c48-8225-eb46a4fbf9c6"}
 {"propertySlug":"parts","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}

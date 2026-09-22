@@ -6,14 +6,9 @@ export const storyWritten = {
   slug: "story-written",
   definition: "a story written here",
   pluralSlug: "stories",
-  extends: ["page-type/collection"],
+  extends: ["page-type/story"],
   runsTabooCheck: false,
   parts: ["page-type/story-chapter-written"],
-  properties: [
-    { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "relation-property/world", required: false, many: false },
-    { pageProperty: "file-property/prose", required: false, many: false },
-  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

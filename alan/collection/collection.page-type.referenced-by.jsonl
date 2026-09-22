@@ -22,7 +22,6 @@
 {"propertySlug":"extends-type","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"extends-type","path":"story/world/stories/played/turns/story-turn-played.page-type.ts","id":"01a064bc-8477-7bac-98ec-152da07077ce"}
 {"propertySlug":"extends-type","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
-{"propertySlug":"extends-type","path":"story/world/stories/written/story-written.page-type.ts","id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/book/alan-book.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/external/collection-external.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/place/restaurant-collection/restaurant-collection.page-type.types.ts"}
@@ -61,7 +60,6 @@
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/world/stories/played/story-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/world/stories/played/turns/story-turn-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"}
-{"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/world/stories/written/story-written.page-type.types.ts"}
 {"propertySlug":"parts","path":"alan/alan.domain.ts","id":"01a05dfc-d883-7000-81e2-065c3cad4cec"}
 {"propertySlug":"person-access-serves","path":"person/access/pages/ki-page-type-ki-collection-template.person-access.ts","id":"01a05433-f104-7af1-9306-c61c5767839a"}
 {"propertySlug":"target-page-type","path":"alan/collection/properties/part-of-collections.multi-relation-property.ts","id":"01a063de-2c60-700b-8db4-bed38f86b940"}
