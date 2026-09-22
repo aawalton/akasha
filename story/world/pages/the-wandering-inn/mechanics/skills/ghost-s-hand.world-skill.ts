@@ -7,6 +7,6 @@ export const ghostSHand = {
   title: "Ghost’s Hand",
   world: "world/the-wandering-inn",
   appearanceCount: 3,
-  evolvesFromSlugs: ["royal-slap"],
+  evolvesFromSlugs: ["world-skill/royal-slap"],
   references: "jsonl",
 } as const satisfies WorldSkill

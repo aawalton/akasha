@@ -7,7 +7,7 @@ export const shamanOfTheOldWays = {
   title: "Shaman of the Old Ways",
   world: "world/the-wandering-inn",
   appearanceCount: 16,
-  evolvesFromSlugs: ["magic-paint-shaman"],
+  evolvesFromSlugs: ["world-class/magic-paint-shaman"],
   evolvesToSlugs: ["mirmilin-es-hivule-sekururu"],
   references: "jsonl",
 } as const satisfies WorldClass

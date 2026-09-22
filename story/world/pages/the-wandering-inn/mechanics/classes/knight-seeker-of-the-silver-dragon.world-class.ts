@@ -7,6 +7,6 @@ export const knightSeekerOfTheSilverDragon = {
   title: "Knight-Seeker of the Silver Dragon",
   world: "world/the-wandering-inn",
   appearanceCount: 7,
-  evolvesFromSlugs: ["knight"],
+  evolvesFromSlugs: ["world-class/knight"],
   references: "jsonl",
 } as const satisfies WorldClass

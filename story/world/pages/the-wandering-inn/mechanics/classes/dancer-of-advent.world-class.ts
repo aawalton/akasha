@@ -7,6 +7,6 @@ export const dancerOfAdvent = {
   title: "Dancer of Advent",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["dancer"],
+  evolvesFromSlugs: ["world-class/dancer"],
   references: "jsonl",
 } as const satisfies WorldClass

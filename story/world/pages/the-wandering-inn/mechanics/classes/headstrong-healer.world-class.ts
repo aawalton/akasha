@@ -7,6 +7,6 @@ export const headstrongHealer = {
   title: "Headstrong Healer",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["healer"],
+  evolvesFromSlugs: ["world-class/healer"],
   references: "jsonl",
 } as const satisfies WorldClass

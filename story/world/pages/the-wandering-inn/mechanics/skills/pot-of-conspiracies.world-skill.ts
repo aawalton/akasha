@@ -7,6 +7,6 @@ export const potOfConspiracies = {
   title: "Pot of Conspiracies",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["pot-of-secrets"],
+  evolvesFromSlugs: ["world-skill/pot-of-secrets"],
   references: "jsonl",
 } as const satisfies WorldSkill

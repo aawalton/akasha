@@ -7,7 +7,7 @@ export const superiorMartialArtist = {
   title: "Superior Martial Artist",
   world: "world/the-wandering-inn",
   appearanceCount: 3,
-  evolvesFromSlugs: ["strongest-martial-artist-of-pomle"],
+  evolvesFromSlugs: ["world-class/strongest-martial-artist-of-pomle"],
   evolvesToSlugs: ["fist-of-the-living-world"],
   references: "jsonl",
 } as const satisfies WorldClass

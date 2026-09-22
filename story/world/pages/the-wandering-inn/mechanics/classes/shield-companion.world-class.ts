@@ -7,6 +7,6 @@ export const shieldCompanion = {
   title: "Shield Companion",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["guardsman"],
+  evolvesFromSlugs: ["world-class/guardsman"],
   references: "jsonl",
 } as const satisfies WorldClass

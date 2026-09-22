@@ -7,6 +7,6 @@ export const portalGuardian = {
   title: "Portal Guardian",
   world: "world/the-wandering-inn",
   appearanceCount: 3,
-  evolvesFromSlugs: ["doorgnoll"],
+  evolvesFromSlugs: ["world-class/doorgnoll"],
   references: "jsonl",
 } as const satisfies WorldClass

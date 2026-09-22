@@ -7,7 +7,7 @@ export const boxheadBarmaid = {
   title: "Boxhead Barmaid",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["barmaid"],
+  evolvesFromSlugs: ["world-class/barmaid"],
   evolvesToSlugs: ["mysterious-barmaid-of-havens"],
   references: "jsonl",
 } as const satisfies WorldClass

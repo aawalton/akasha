@@ -7,6 +7,6 @@ export const sheFliesOnAnotherWorldSWings7Seconds = {
   title: "She Flies on Another World’s Wings (7 Seconds)",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["she-flies-on-another-world-s-wings-5-seconds"],
+  evolvesFromSlugs: ["world-skill/she-flies-on-another-world-s-wings-5-seconds"],
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -7,6 +7,6 @@ export const innTheWorldSEyeTheatre = {
   title: "Inn: The World’s Eye Theatre",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["inn-grand-theatre"],
+  evolvesFromSlugs: ["world-skill/inn-grand-theatre"],
   references: "jsonl",
 } as const satisfies WorldSkill

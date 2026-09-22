@@ -7,6 +7,6 @@ export const druidOfTheLuckyWorldChildOfOmensEmberOfTheEternalSolstice = {
   title: "Druid of the Lucky World, Child of Omens; Ember of the Eternal Solstice",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["druid"],
+  evolvesFromSlugs: ["world-class/druid"],
   references: "jsonl",
 } as const satisfies WorldClass

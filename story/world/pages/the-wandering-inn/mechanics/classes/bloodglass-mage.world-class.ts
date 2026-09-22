@@ -7,6 +7,6 @@ export const bloodglassMage = {
   title: "Bloodglass Mage",
   world: "world/the-wandering-inn",
   appearanceCount: 5,
-  evolvesFromSlugs: ["sand-mage"],
+  evolvesFromSlugs: ["world-class/sand-mage"],
   references: "jsonl",
 } as const satisfies WorldClass

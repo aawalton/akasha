@@ -7,6 +7,6 @@ export const strongestOfTheMartialAge = {
   title: "Strongest of the Martial Age",
   world: "world/the-wandering-inn",
   appearanceCount: 4,
-  evolvesFromSlugs: ["bridge-of-the-martial-world"],
+  evolvesFromSlugs: ["world-class/bridge-of-the-martial-world"],
   references: "jsonl",
 } as const satisfies WorldClass

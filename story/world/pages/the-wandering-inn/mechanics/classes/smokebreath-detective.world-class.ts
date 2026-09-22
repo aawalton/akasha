@@ -7,6 +7,6 @@ export const smokebreathDetective = {
   title: "Smokebreath Detective",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  evolvesFromSlugs: ["streetwise-guardswoman"],
+  evolvesFromSlugs: ["world-class/streetwise-guardswoman"],
   references: "jsonl",
 } as const satisfies WorldClass

@@ -7,6 +7,6 @@ export const eleleuStrategos = {
   title: "Eleleu Strategos",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  evolvesFromSlugs: ["strategist"],
+  evolvesFromSlugs: ["world-class/strategist"],
   references: "jsonl",
 } as const satisfies WorldClass

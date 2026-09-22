@@ -7,6 +7,6 @@ export const sharpDame = {
   title: "Sharp Dame",
   world: "world/the-wandering-inn",
   appearanceCount: 3,
-  evolvesFromSlugs: ["incestuous-lady"],
+  evolvesFromSlugs: ["world-class/incestuous-lady"],
   references: "jsonl",
 } as const satisfies WorldClass

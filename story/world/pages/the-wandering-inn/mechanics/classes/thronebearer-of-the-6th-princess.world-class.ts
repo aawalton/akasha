@@ -7,6 +7,6 @@ export const thronebearerOfThe6thPrincess = {
   title: "Thronebearer of the 6th Princess",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["thronebearer-of-wards"],
+  evolvesFromSlugs: ["world-class/thronebearer-of-wards"],
   references: "jsonl",
 } as const satisfies WorldClass

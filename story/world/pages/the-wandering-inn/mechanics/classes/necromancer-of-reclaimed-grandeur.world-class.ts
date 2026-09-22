@@ -7,6 +7,6 @@ export const necromancerOfReclaimedGrandeur = {
   title: "Necromancer of Reclaimed Grandeur",
   world: "world/the-wandering-inn",
   appearanceCount: 4,
-  evolvesFromSlugs: ["deathbane-necromancer"],
+  evolvesFromSlugs: ["world-class/deathbane-necromancer"],
   references: "jsonl",
 } as const satisfies WorldClass

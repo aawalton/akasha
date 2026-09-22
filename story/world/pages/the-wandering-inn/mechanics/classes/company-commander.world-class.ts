@@ -7,6 +7,6 @@ export const companyCommander = {
   title: "Company Commander",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  evolvesFromSlugs: ["mercenary"],
+  evolvesFromSlugs: ["world-class/mercenary"],
   references: "jsonl",
 } as const satisfies WorldClass

@@ -7,7 +7,7 @@ export const viceGuildmistress = {
   title: "Vice Guildmistress",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["experienced-receptionist"],
+  evolvesFromSlugs: ["world-class/experienced-receptionist"],
   evolvesToSlugs: ["guildmistress-of-northern-blades"],
   references: "jsonl",
 } as const satisfies WorldClass

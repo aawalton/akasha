@@ -7,6 +7,6 @@ export const fatebreakerChild = {
   title: "Fatebreaker Child",
   world: "world/the-wandering-inn",
   appearanceCount: 7,
-  evolvesFromSlugs: ["emberbearer"],
+  evolvesFromSlugs: ["world-class/emberbearer"],
   references: "jsonl",
 } as const satisfies WorldClass

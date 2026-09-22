@@ -7,6 +7,6 @@ export const vehicleMagicalDelivery = {
   title: "Vehicle: Magical Delivery",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["vehicle-fast-travelling"],
+  evolvesFromSlugs: ["world-skill/vehicle-fast-travelling"],
   references: "jsonl",
 } as const satisfies WorldSkill

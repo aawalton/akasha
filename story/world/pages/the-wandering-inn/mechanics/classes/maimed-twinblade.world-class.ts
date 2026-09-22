@@ -7,6 +7,6 @@ export const maimedTwinblade = {
   title: "Maimed Twinblade",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["twinblade-linebreaker"],
+  evolvesFromSlugs: ["world-class/twinblade-linebreaker"],
   references: "jsonl",
 } as const satisfies WorldClass

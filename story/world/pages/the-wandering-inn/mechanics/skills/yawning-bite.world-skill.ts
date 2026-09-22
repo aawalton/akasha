@@ -7,6 +7,6 @@ export const yawningBite = {
   title: "Yawning Bite",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  evolvesFromSlugs: ["huge-chomp"],
+  evolvesFromSlugs: ["world-skill/huge-chomp"],
   references: "jsonl",
 } as const satisfies WorldSkill

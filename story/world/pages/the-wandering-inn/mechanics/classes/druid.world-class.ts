@@ -8,7 +8,7 @@ export const druid = {
   world: "world/the-wandering-inn",
   appearanceCount: 138,
   aliases: ["druids"],
-  evolvesFromSlugs: ["mage"],
+  evolvesFromSlugs: ["world-class/mage"],
   evolvesToSlugs: ["druid-of-the-lucky-world-child-of-omens-ember-of-the-eternal-solstice"],
   references: "jsonl",
 } as const satisfies WorldClass

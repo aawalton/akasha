@@ -7,6 +7,6 @@ export const priestOfWrathAndSky = {
   title: "Priest of Wrath and Sky",
   world: "world/the-wandering-inn",
   appearanceCount: 10,
-  evolvesFromSlugs: ["doomspeaker-priest"],
+  evolvesFromSlugs: ["world-class/doomspeaker-priest"],
   references: "jsonl",
 } as const satisfies WorldClass

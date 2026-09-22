@@ -7,6 +7,6 @@ export const kingbaneLineholder = {
   title: "Kingbane Lineholder",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["doorgnoll"],
+  evolvesFromSlugs: ["world-class/doorgnoll"],
   references: "jsonl",
 } as const satisfies WorldClass

@@ -8,6 +8,6 @@ export const flashStep = {
   world: "world/the-wandering-inn",
   appearanceCount: 46,
   aliases: ["flash-steps"],
-  evolvesFromSlugs: ["quick-step"],
+  evolvesFromSlugs: ["world-skill/quick-step"],
   references: "jsonl",
 } as const satisfies WorldSkill

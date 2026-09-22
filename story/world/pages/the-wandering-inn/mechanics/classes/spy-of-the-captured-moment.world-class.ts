@@ -7,6 +7,6 @@ export const spyOfTheCapturedMoment = {
   title: "Spy of the Captured Moment",
   world: "world/the-wandering-inn",
   appearanceCount: 3,
-  evolvesFromSlugs: ["clandestine-spy"],
+  evolvesFromSlugs: ["world-class/clandestine-spy"],
   references: "jsonl",
 } as const satisfies WorldClass

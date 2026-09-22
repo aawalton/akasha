@@ -7,6 +7,6 @@ export const bannerLeader = {
   title: "Banner Leader",
   world: "world/the-wandering-inn",
   appearanceCount: 4,
-  evolvesFromSlugs: ["flag-bearer"],
+  evolvesFromSlugs: ["world-class/flag-bearer"],
   references: "jsonl",
 } as const satisfies WorldClass

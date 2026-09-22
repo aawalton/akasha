@@ -7,6 +7,6 @@ export const bakerOfPresentsGiftedChef = {
   title: "Baker of Presents, Gifted Chef",
   world: "world/the-wandering-inn",
   appearanceCount: 4,
-  evolvesFromSlugs: ["kind-baker"],
+  evolvesFromSlugs: ["world-class/kind-baker"],
   references: "jsonl",
 } as const satisfies WorldClass

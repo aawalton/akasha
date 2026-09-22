@@ -7,6 +7,6 @@ export const peerlessMarathonSculler = {
   title: "Peerless Marathon Sculler",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["expert-rower"],
+  evolvesFromSlugs: ["world-class/expert-rower"],
   references: "jsonl",
 } as const satisfies WorldClass

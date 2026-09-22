@@ -7,7 +7,7 @@ export const bowWardenOfTheSongbird = {
   title: "Bow-Warden of the Songbird",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["bird-hunter"],
+  evolvesFromSlugs: ["world-class/bird-hunter"],
   evolvesToSlugs: ["bow-singer-queen-of-the-free-antinium"],
   references: "jsonl",
 } as const satisfies WorldClass

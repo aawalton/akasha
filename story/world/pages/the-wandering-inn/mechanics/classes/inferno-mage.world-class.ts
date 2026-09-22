@@ -7,6 +7,6 @@ export const infernoMage = {
   title: "Inferno Mage",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  evolvesFromSlugs: ["fire-mage"],
+  evolvesFromSlugs: ["world-class/fire-mage"],
   references: "jsonl",
 } as const satisfies WorldClass

@@ -7,6 +7,6 @@ export const mysteriousBarmaidOfHavens = {
   title: "Mysterious Barmaid of Havens",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["boxhead-barmaid"],
+  evolvesFromSlugs: ["world-class/boxhead-barmaid"],
   references: "jsonl",
 } as const satisfies WorldClass

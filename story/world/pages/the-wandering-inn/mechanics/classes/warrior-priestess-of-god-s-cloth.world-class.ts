@@ -7,6 +7,6 @@ export const warriorPriestessOfGodSCloth = {
   title: "Warrior-Priestess of God’s Cloth",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["first-disciple-of-the-prophet"],
+  evolvesFromSlugs: ["world-class/first-disciple-of-the-prophet"],
   references: "jsonl",
 } as const satisfies WorldClass

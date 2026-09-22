@@ -7,6 +7,6 @@ export const wartouchedFighterPilot = {
   title: "Wartouched Fighter Pilot",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["fighter-pilot"],
+  evolvesFromSlugs: ["world-class/fighter-pilot"],
   references: "jsonl",
 } as const satisfies WorldClass

@@ -7,6 +7,6 @@ export const otherMeSSkills = {
   title: "Other Me’s Skills",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  evolvesFromSlugs: ["other-me-s-skill"],
+  evolvesFromSlugs: ["world-skill/other-me-s-skill"],
   references: "jsonl",
 } as const satisfies WorldSkill

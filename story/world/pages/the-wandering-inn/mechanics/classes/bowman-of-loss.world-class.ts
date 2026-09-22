@@ -7,6 +7,6 @@ export const bowmanOfLoss = {
   title: "Bowman of Loss",
   world: "world/the-wandering-inn",
   appearanceCount: 17,
-  evolvesFromSlugs: ["veteran-scout"],
+  evolvesFromSlugs: ["world-class/veteran-scout"],
   references: "jsonl",
 } as const satisfies WorldClass

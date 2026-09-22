@@ -7,6 +7,6 @@ export const memoryOfAThousandLifetimes = {
   title: "Memory of a Thousand Lifetimes",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["memory-of-a-hundred-lifetimes"],
+  evolvesFromSlugs: ["world-skill/memory-of-a-hundred-lifetimes"],
   references: "jsonl",
 } as const satisfies WorldSkill

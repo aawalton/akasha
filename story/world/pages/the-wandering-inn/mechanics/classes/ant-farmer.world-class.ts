@@ -7,6 +7,6 @@ export const antFarmer = {
   title: "Ant Farmer",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["bug-collector"],
+  evolvesFromSlugs: ["world-class/bug-collector"],
   references: "jsonl",
 } as const satisfies WorldClass

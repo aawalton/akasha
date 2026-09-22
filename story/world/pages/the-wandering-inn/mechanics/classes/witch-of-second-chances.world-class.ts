@@ -7,6 +7,6 @@ export const witchOfSecondChances = {
   title: "Witch of Second Chances",
   world: "world/the-wandering-inn",
   appearanceCount: 18,
-  evolvesFromSlugs: ["witch"],
+  evolvesFromSlugs: ["world-class/witch"],
   references: "jsonl",
 } as const satisfies WorldClass

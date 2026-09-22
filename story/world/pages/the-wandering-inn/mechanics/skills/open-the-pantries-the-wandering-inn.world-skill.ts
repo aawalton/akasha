@@ -7,6 +7,6 @@ export const openThePantriesTheWanderingInn = {
   title: "Open the Pantries (The Wandering Inn)",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesFromSlugs: ["instantaneous-order"],
+  evolvesFromSlugs: ["world-skill/instantaneous-order"],
   references: "jsonl",
 } as const satisfies WorldSkill

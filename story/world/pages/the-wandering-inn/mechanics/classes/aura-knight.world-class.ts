@@ -7,7 +7,7 @@ export const auraKnight = {
   title: "Aura Knight",
   world: "world/the-wandering-inn",
   appearanceCount: 4,
-  evolvesFromSlugs: ["knight-errant"],
+  evolvesFromSlugs: ["world-class/knight-errant"],
   evolvesToSlugs: ["knight-of-the-dawn"],
   references: "jsonl",
 } as const satisfies WorldClass
