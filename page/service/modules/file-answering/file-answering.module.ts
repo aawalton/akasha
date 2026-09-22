@@ -4,7 +4,7 @@ export const fileAnswering = {
   id: "01a0784a-085f-7c1d-aec3-7e04a398f007",
   type: "page-type/module",
   slug: "file-answering",
-  definition: "the bytes a page keeps under one file property",
+  definition: "the bytes a page keeps under a file property",
   code: "ts",
   test: "ts",
   decisions: [

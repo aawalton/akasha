@@ -4,7 +4,7 @@ export const comfyUpBody = {
   id: "01a09137-9598-7e34-814d-cf5126c347b6",
   type: "page-type/module",
   slug: "comfy-up-body",
-  definition: "the one body every ComfyUI up script is written from",
+  definition: "the body every ComfyUI up script is written from",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

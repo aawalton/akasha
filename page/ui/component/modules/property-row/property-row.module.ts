@@ -5,7 +5,7 @@ export const propertyRow = {
   type: "page-type/module",
   slug: "property-row",
   definition:
-    "the row one property is shown as, its label with its value, drawn by the page type declaring it",
+    "the row a property is shown as, its label with its value, drawn by the page type declaring it",
   code: "tsx",
   decisions: [
     {

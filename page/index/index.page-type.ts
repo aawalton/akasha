@@ -4,7 +4,7 @@ export const index = {
   id: "01a04ef3-160f-7849-949b-629de4915d07",
   type: "page-type/page-type",
   slug: "index",
-  definition: "one question the pages can be asked, answered by reading one file",
+  definition: "a question the pages can be asked, answered by reading a file",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "index" },
     { partOfSpeech: "part-of-speech/noun", spelling: "indexes" },

@@ -4,7 +4,7 @@ export const computer = {
   id: "01a0658c-329a-7d00-b3f3-8abf47bf46cf",
   type: "page-type/page-type",
   slug: "computer",
-  definition: "one machine Alan owns, and what it is worth running",
+  definition: "a machine Alan owns, and what it is worth running",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "computer" }],
   extends: ["page-type/page"],
   parts: [

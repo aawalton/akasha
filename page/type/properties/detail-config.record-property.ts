@@ -5,7 +5,7 @@ export const detailConfig = {
   type: "page-type/record-property",
   slug: "detail-config",
   propertySlug: "detail-config",
-  definition: "how one page of a page type is laid out where that page is read on its own",
+  definition: "how a page of a page type is laid out where that page is read on its own",
   properties: [
     { pageProperty: "record-property/detail-frame", required: false, many: false },
     { pageProperty: "text-property/body-property-id", required: false, many: false },
