@@ -128,6 +128,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/claude-code-session.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/event/claude-code-session-event.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/store/claude-code-session-store.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/transition/claude-code-session-transition.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/tool/claude-code-tool.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/hook/hook.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/messaging/messaging.domain.ts"}

@@ -16,6 +16,7 @@ export const claudeCodeSession = {
     "module/session-watch",
     "module/transcript-materialize",
     "domain/claude-code-session-event",
+    "domain/claude-code-session-transition",
   ],
   decisions: [
     {
