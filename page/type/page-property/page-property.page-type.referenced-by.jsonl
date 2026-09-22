@@ -26,7 +26,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"agent/seat/properties/open-shells.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/book/pages/all-about-alan/topic/properties/topic-parents.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/book/pages/all-about-alan/topic/properties/topic-related.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-part-of.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-part-of.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/car-research/car-model/properties/powertrain-options.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/chess/puzzle-set/properties/opening-tags.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/chess/puzzle-set/properties/puzzle-themes.text-property.types.ts"}

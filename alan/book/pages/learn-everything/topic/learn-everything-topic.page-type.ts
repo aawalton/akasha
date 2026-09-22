@@ -20,7 +20,7 @@ export const learnEverythingTopic = {
     "number-property/topic-calibration",
     "record-property/topic-capture",
     "relation-property/topic-mastery-level",
-    "relation-property/topic-part-of",
+    "multi-relation-property/topic-part-of",
     "select-property/topic-status",
     "text-property/capture-source",
     "text-property/topic-calibration-read",
@@ -37,7 +37,7 @@ export const learnEverythingTopic = {
     { pageProperty: "calendar-date-property/topic-scored-on", required: true, many: false },
     { pageProperty: "select-property/topic-status", required: true, many: false },
     {
-      pageProperty: "relation-property/topic-part-of",
+      pageProperty: "multi-relation-property/topic-part-of",
       required: false,
       many: true,
       maxCount: null,

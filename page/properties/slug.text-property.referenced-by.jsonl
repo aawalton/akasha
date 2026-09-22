@@ -21,7 +21,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/book/pages/all-about-alan/topic/properties/topic-parents.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/book/pages/all-about-alan/topic/properties/topic-related.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-mastery-level.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-part-of.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-part-of.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/car-research/car-model/properties/car-make.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/car-research/car-trim/properties/car-year.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/car-research/car-year/properties/car-model.relation-property.types.ts"}

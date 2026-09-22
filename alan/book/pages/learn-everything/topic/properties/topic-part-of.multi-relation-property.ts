@@ -1,8 +1,8 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const topicPartOf = {
   id: "01a0659f-93da-700f-8f41-8714236db415",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "topic-part-of",
   propertySlug: "part-of",
   definition: "a topic's parent topics",
@@ -18,4 +18,4 @@ export const topicPartOf = {
     },
   ],
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

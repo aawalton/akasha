@@ -492,7 +492,7 @@
 {"propertySlug":"decision-kind","path":"alan/book/pages/learn-everything/topic/properties/topic-capture.record-property.ts","id":"01a0659f-93da-7010-a67c-81b8b0e31d4b"}
 {"propertySlug":"decision-kind","path":"alan/book/pages/learn-everything/topic/properties/topic-coverage.computed-property.ts","id":"01a077f4-79d0-7bb7-8479-4ac07775d561"}
 {"propertySlug":"decision-kind","path":"alan/book/pages/learn-everything/topic/properties/topic-mastery-level.relation-property.ts","id":"01a0784a-cdb7-7780-bc90-9d5f5a5cc720"}
-{"propertySlug":"decision-kind","path":"alan/book/pages/learn-everything/topic/properties/topic-part-of.relation-property.ts","id":"01a0659f-93da-700f-8f41-8714236db415"}
+{"propertySlug":"decision-kind","path":"alan/book/pages/learn-everything/topic/properties/topic-part-of.multi-relation-property.ts","id":"01a0659f-93da-700f-8f41-8714236db415"}
 {"propertySlug":"decision-kind","path":"alan/book/pages/learn-everything/topic/properties/topic-status.select-property.ts","id":"01a0659f-93da-700e-8f73-3b64e5c806d5"}
 {"propertySlug":"decision-kind","path":"alan/car-research/car-make/properties/trims.page-property-entry.ts","id":"01a0c541-1a15-7388-aa49-2af02f70d6c0"}
 {"propertySlug":"decision-kind","path":"alan/car-research/car-model/car-model.page-type.ts","id":"01a0659a-4bc5-745f-bbb3-18171fb52343"}

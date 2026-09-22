@@ -9,7 +9,7 @@ import type { TopicCoverage } from "akasha/alan/book/pages/learn-everything/topi
 import type { TopicEvidence } from "akasha/alan/book/pages/learn-everything/topic/properties/topic-evidence.file-property.types.ts"
 import type { TopicMasteryLevel } from "akasha/alan/book/pages/learn-everything/topic/properties/topic-mastery-level.relation-property.types.ts"
 import type { TopicNode } from "akasha/alan/book/pages/learn-everything/topic/properties/topic-node.text-property.types.ts"
-import type { TopicPartOf } from "akasha/alan/book/pages/learn-everything/topic/properties/topic-part-of.relation-property.types.ts"
+import type { TopicPartOf } from "akasha/alan/book/pages/learn-everything/topic/properties/topic-part-of.multi-relation-property.types.ts"
 import type { TopicScoredOn } from "akasha/alan/book/pages/learn-everything/topic/properties/topic-scored-on.calendar-date-property.types.ts"
 import type { TopicStatus } from "akasha/alan/book/pages/learn-everything/topic/properties/topic-status.select-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
