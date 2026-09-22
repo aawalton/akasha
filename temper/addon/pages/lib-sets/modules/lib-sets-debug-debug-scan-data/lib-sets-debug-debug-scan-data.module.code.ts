@@ -31,7 +31,7 @@ import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-
 import "akasha/temper/eso/type/eso-lib-sets-ui/eso-lib-sets-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 const tsort = table.sort
 const zostrfor = zo_strformat

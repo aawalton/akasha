@@ -27,7 +27,7 @@ import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declarat
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 function debugGetAllData(this: void, ...args: unknown[]): undefined {
   const resetApiData = asBooleanOpt(args[0])

@@ -15,7 +15,8 @@ import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declar
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
+
 const zoitf = zo_iconTextFormat
 const getLocalizedText = lib.GetLocalizedText
 const getDropMechanicTexture = lib.GetDropMechanicTexture

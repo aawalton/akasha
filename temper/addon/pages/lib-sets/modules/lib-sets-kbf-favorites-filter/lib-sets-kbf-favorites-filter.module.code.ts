@@ -11,7 +11,8 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lib-sets-strings-2/eso-lib-sets-strings-2.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
+
 const getLocalizedText = lib.GetLocalizedText
 
 const favoriteIconTexts = searchUI.favoriteIconTexts

@@ -23,7 +23,7 @@ import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 lib.setDataPreloaded = asTyped<LibSetsApi["setDataPreloaded"]>(SET_DATA_PRELOADED)
 lib.zoneIdsOfNewAPIVersionOnly = [...ZONE_IDS_OF_NEWER_API_VERSION]

@@ -21,7 +21,7 @@ import "akasha/temper/eso/type/eso-lib-sets-ui/eso-lib-sets-ui.type-declaration.
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 const WM = WINDOW_MANAGER
 const MAJOR = "LibSets"

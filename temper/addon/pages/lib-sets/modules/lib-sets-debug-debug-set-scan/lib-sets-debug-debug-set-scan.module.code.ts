@@ -30,7 +30,7 @@ import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaratio
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 const tsort = table.sort
 const zocstrfor = ZO_CachedStrFormat

@@ -21,7 +21,7 @@ import "akasha/temper/addon/pages/lib-sets/lib-sets-misc-ids/lib-sets-misc-ids.t
 import "akasha/temper/addon/pages/lib-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 const allowedDropMechanics = lib.allowedDropMechanics
 
