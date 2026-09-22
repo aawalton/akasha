@@ -74,7 +74,7 @@ INTERNAL.GetExportSelectedText = function (this: void): string {
 }
 
 INTERNAL.ExportSelectText = function (this: void): undefined {
-  const box = asMaybeExportEditBox(LCK_ExportBox)
+  const box = asMaybeExportEditBox(TemperCraftingKnowledgeExportBox)
   if (box !== undefined && box.editbox !== undefined) {
     zo_callLater(function (this: void): undefined {
       box.UpdateValue()

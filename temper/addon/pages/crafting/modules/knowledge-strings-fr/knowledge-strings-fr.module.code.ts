@@ -6,7 +6,7 @@ export const STRINGS_FR: ReadonlyArray<[string, string]> = [
   ["SI_LCK_SCAN_COMPLETE", "Analyse terminée."],
   [
     "SI_LCK_SETTINGS_CHATCOMMAND",
-    "Ce panneau de paramètres de l'addon est également accessible via la |c00CCFF/lck|r commande de Tchat.",
+    "Ce panneau de paramètres de l'addon est également accessible via la |c00CCFF/tcknowledge|r commande de Tchat.",
   ],
   ["SI_LCK_SETTINGS_USE_DEFAULT", "Utilisation par défaut"],
   ["SI_LCK_SETTINGS_TRACKING1", "Ne pas suivre"],

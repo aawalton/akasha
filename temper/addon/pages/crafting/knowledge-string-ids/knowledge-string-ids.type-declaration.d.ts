@@ -1,8 +1,8 @@
 declare var LibCharacterKnowledgeData: unknown
 
-declare var LCK_ExportBox: unknown
+declare var TemperCraftingKnowledgeExportBox: unknown
 
-declare var LCK_ExportSelected: unknown
+declare var TemperCraftingKnowledgeExportSelected: unknown
 
 declare const SI_LCK_SCAN_START: number
 declare const SI_LCK_SCAN_COMPLETE: number

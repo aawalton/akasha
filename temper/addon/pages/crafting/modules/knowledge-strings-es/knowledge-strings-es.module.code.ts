@@ -6,7 +6,7 @@ export const STRINGS_ES: ReadonlyArray<[string, string]> = [
   ["SI_LCK_SCAN_COMPLETE", "Análisis terminado."],
   [
     "SI_LCK_SETTINGS_CHATCOMMAND",
-    "Este panel de configuración del complemento también está accesible a través del comando |c00CCFF/lck|r chat.",
+    "Este panel de configuración del complemento también está accesible a través del comando |c00CCFF/tcknowledge|r chat.",
   ],
   ["SI_LCK_SETTINGS_USE_DEFAULT", "Uso predeterminado"],
   ["SI_LCK_SETTINGS_TRACKING1", "No hacer seguimiento"],

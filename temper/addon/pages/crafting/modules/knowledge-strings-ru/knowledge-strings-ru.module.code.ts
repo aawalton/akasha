@@ -6,7 +6,7 @@ export const STRINGS_RU: ReadonlyArray<[string, string]> = [
   ["SI_LCK_SCAN_COMPLETE", "Сканирование завершено."],
   [
     "SI_LCK_SETTINGS_CHATCOMMAND",
-    "К этой панели настроек также можно получить доступ через чат команду\n|c00CCFF/lck|r",
+    "К этой панели настроек также можно получить доступ через чат команду\n|c00CCFF/tcknowledge|r",
   ],
   ["SI_LCK_SETTINGS_USE_DEFAULT", "Использовать по умолчанию"],
   ["SI_LCK_SETTINGS_TRACKING1", "Не отслеживать"],

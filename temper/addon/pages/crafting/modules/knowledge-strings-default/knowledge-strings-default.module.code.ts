@@ -15,7 +15,7 @@ export const STRINGS_DEFAULT: ReadonlyArray<[string, string]> = [
   ],
   [
     "SI_LCK_SETTINGS_CHATCOMMAND",
-    "This addon settings panel can also be accessed via the |c00CCFF/lck|r chat command.",
+    "This addon settings panel can also be accessed via the |c00CCFF/tcknowledge|r chat command.",
   ],
   ["SI_LCK_SETTINGS_USE_DEFAULT", "Use default"],
   ["SI_LCK_SETTINGS_TRACKING1", "Do not track"],

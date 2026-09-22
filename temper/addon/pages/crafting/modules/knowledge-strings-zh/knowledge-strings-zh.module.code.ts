@@ -1,7 +1,7 @@
 export const STRINGS_ZH: ReadonlyArray<[string, string]> = [
   ["SI_LCK_SCAN_START", "扫描物品表；仅在主要游戏更新时执行一次"],
   ["SI_LCK_SCAN_COMPLETE", "扫描完成."],
-  ["SI_LCK_SETTINGS_CHATCOMMAND", "插件设置面板也可以通过|c00CCFF/lck|r 聊天栏命令打开."],
+  ["SI_LCK_SETTINGS_CHATCOMMAND", "插件设置面板也可以通过|c00CCFF/tcknowledge|r 聊天栏命令打开."],
   ["SI_LCK_SETTINGS_USE_DEFAULT", "默认"],
   ["SI_LCK_SETTINGS_TRACKING1", "不追踪"],
   ["SI_LCK_SETTINGS_TRACKING2", "追踪低品质"],

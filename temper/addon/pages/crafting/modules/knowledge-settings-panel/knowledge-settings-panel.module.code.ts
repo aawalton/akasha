@@ -27,7 +27,7 @@ INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
   const libAddonMenu = LCCC.GetLibAddonMenu()
 
   if (libAddonMenu !== undefined) {
-    const panelId = "LCKSettings"
+    const panelId = "TemperCraftingKnowledgeSettings"
 
     INTERNAL.shareText = ""
 
@@ -35,10 +35,8 @@ INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
       type: "panel",
       name: "Temper Crafting Knowledge",
       version: LCCC.FormatVersion(LCCC.GetAddOnVersion(ADDON_NAME)),
-      author: "@code65536",
-      website: "https://www.esoui.com/downloads/info3317.html",
-      donation: "https://www.esoui.com/downloads/info3317.html#donate",
-      slashCommand: "/lck",
+      author: "AlanGaming",
+      slashCommand: "/tcknowledge",
       registerForRefresh: true,
     }
 
@@ -69,7 +67,7 @@ INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
           isExtraWide: true,
           maxChars: 0xffff,
           textType: TEXT_TYPE_ALL,
-          reference: "LCK_ExportBox",
+          reference: "TemperCraftingKnowledgeExportBox",
         },
         {
           type: "button",
@@ -112,7 +110,7 @@ INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
           disabled: function (this: void): boolean {
             return INTERNAL.CountExportSelection() === 0
           },
-          reference: "LCK_ExportSelected",
+          reference: "TemperCraftingKnowledgeExportSelected",
         },
 
         {

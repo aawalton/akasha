@@ -217,7 +217,7 @@ INTERNAL.SettingsBuildControlCluster = function (
       },
       setFunc: function (this: void, enabled: boolean): undefined {
         base["export"] = enabled === true ? true : undefined
-        const exportControl = LCK_ExportSelected
+        const exportControl = TemperCraftingKnowledgeExportSelected
         if (
           exportControl !== undefined &&
           asExportSelectedControl(exportControl).button !== undefined
