@@ -4,7 +4,7 @@ export const worldAspect = {
   id: "01a06558-a991-7cc1-8110-7cd6d92ebb03",
   type: "page-type/page-type",
   slug: "world-aspect",
-  definition: "a change the world makes to what a character is made of",
+  definition: "a change the world makes to a character's makeup",
   pluralSlug: "aspects",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,

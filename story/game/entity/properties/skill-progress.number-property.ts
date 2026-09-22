@@ -5,7 +5,7 @@ export const skillProgress = {
   type: "page-type/number-property",
   slug: "skill-progress",
   propertySlug: "progress",
-  definition: "how far an entity has got with a skill, which the skill's rung is read from",
+  definition: "how far an entity has got with a skill, giving that skill's rung",
   nullable: false,
   max: null,
   types: "ts",

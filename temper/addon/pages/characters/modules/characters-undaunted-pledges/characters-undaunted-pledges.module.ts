@@ -4,7 +4,7 @@ export const charactersUndauntedPledges = {
   id: "01a062ed-398d-7009-a4a9-bb8458c10c02",
   type: "page-type/module",
   slug: "characters-undaunted-pledges",
-  definition: "today's undaunted pledges, less those a character has already taken the point from",
+  definition: "today's undaunted pledges, less those already giving a character the point",
   code: "ts",
   decisions: [
     {

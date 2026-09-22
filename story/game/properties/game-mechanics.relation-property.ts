@@ -5,7 +5,7 @@ export const gameMechanics = {
   type: "page-type/relation-property",
   slug: "game-mechanics",
   propertySlug: "mechanics",
-  definition: "the mechanics a game is played by",
+  definition: "a game's mechanics",
   targetPageType: "page-type/game-mechanic",
   decisions: [
     {

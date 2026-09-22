@@ -5,7 +5,7 @@ export const decisionOptions = {
   type: "page-type/text-property",
   slug: "decision-options",
   propertySlug: "options",
-  definition: "what a decision could have settled on",
+  definition: "the options open to a decision",
   maxLength: 20000,
   nameFormat: null,
   types: "ts",

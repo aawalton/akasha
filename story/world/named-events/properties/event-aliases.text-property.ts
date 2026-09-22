@@ -5,7 +5,7 @@ export const eventAliases = {
   type: "page-type/text-property",
   slug: "event-aliases",
   propertySlug: "aliases",
-  definition: "the other names the story calls it by",
+  definition: "the event's other names in the story",
   maxLength: 50,
   nameFormat: null,
   types: "ts",

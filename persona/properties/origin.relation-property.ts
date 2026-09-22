@@ -5,7 +5,7 @@ export const origin = {
   type: "page-type/relation-property",
   slug: "origin",
   propertySlug: "origin",
-  definition: "where a persona's name comes from",
+  definition: "the source of a persona's name",
   targetPageType: "page-type/origin-kind",
   types: "ts",
 } as const satisfies RelationProperty

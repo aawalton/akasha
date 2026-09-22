@@ -5,7 +5,7 @@ export const gateMultiplier = {
   type: "page-type/number-property",
   slug: "gate-multiplier",
   propertySlug: "multiplier",
-  definition: "what a gate does to a strike it opens or closes on",
+  definition: "what a gate does to the strike opening or closing it",
   nullable: false,
   max: null,
   decisions: [

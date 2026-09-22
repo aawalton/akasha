@@ -5,7 +5,7 @@ export const smsConsentIpAddress = {
   type: "page-type/text-property",
   slug: "sms-consent-ip-address",
   propertySlug: "ip-address",
-  definition: "the address the agreement was sent from",
+  definition: "the agreement's sending address",
   maxLength: 45,
   nameFormat: null,
   types: "ts",
