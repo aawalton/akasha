@@ -11,7 +11,7 @@ export const gameMechanicRun = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/holding-game", required: true, many: false },
-    { pageProperty: "number-property/source-turn", required: true, many: false },
+    { pageProperty: "number-property/source-turn", required: false, many: false },
     { pageProperty: "relation-property/run-mechanic", required: false, many: false },
     { pageProperty: "text-property/run-said", required: false, many: false },
     { pageProperty: "text-property/run-seed", required: false, many: false },
@@ -42,6 +42,10 @@ export const gameMechanicRun = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A run carried over from an older shape has no run before it to follow.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run carried over from an older shape may name no turn.",
     },
     {
       decisionKind: "decision-kind/absence",

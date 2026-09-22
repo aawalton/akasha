@@ -11,7 +11,7 @@ import type { SourceTurn } from "akasha/story/game/properties/source-turn.number
 export type GameMechanicRun = Page & {
   title: Title
   game: HoldingGame
-  turn: SourceTurn
+  turn?: SourceTurn
   mechanic?: RunMechanic
   said?: RunSaid
   seed?: RunSeed

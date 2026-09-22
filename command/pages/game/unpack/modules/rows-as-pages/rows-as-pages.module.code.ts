@@ -285,7 +285,6 @@ export function ruleslessIn(row: Record<string, unknown>): Record<string, unknow
 
 export function rollRowed({ gameSlug, folder, row, at }: Rowing): Made {
   const turn = numberIn(row[TURN])
-  if (turn === null) return { refused: "a roll row names no turn" }
   const label = textIn(row[LABEL])
   const seed = textIn(row[SEED])
   const follows = textIn(row[PREV_HASH])
@@ -295,9 +294,9 @@ export function rollRowed({ gameSlug, folder, row, at }: Rowing): Made {
     slug,
     path: pathOf(folder, slug, gameMechanicRun.slug),
     values: {
-      title: shortOf(label ?? `${ROLL} at turn ${turn}`, SHOWN),
+      title: shortOf(label ?? `${ROLL} ${countedAt(at)}`, SHOWN),
       game: namedAs(game.slug, gameSlug, null),
-      turn,
+      ...(turn === null ? {} : { turn }),
       ...(label === null ? {} : { said: shortOf(label, SAID_HOLDS) }),
       ...(seed === null ? {} : { seed }),
       ...(follows === null ? {} : { follows }),

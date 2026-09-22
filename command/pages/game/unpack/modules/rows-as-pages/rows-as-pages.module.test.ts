@@ -224,6 +224,19 @@ test("a run naming no mechanic is refused", () => {
   expect("refused" in made).toBe(true)
 })
 
+test("a roll naming no turn is named for its place in the file", () => {
+  const made = rollRowed({
+    gameSlug: theTower.slug,
+    folder: FOLDER,
+    row: { kind: "resolve" },
+    at: 11,
+  })
+  expect("refused" in made).toBe(false)
+  if ("refused" in made) return
+  expect(made.values["turn"]).toBeUndefined()
+  expect(made.values["title"]).toBe("roll 011")
+})
+
 test("the copy of the rules a roll row carried is left out of its workings", () => {
   const held = ruleslessIn({ turn: 4, resolve: { input: { mode: "phys" }, rulebook: { a: 1 } } })
   expect(held["resolve"]).toEqual({ input: { mode: "phys" } })
