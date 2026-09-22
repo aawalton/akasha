@@ -547,6 +547,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/engine/story-engine.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/game/panel/panel-place/panel-place.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/mechanic/story-mechanic.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/narrative-production/narrative-production.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/ui/ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/world-lore/world-lore.domain.ts"}
