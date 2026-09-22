@@ -17,6 +17,7 @@ export const claudeCodeSession = {
     "module/transcript-materialize",
     "domain/claude-code-session-event",
     "domain/claude-code-session-transition",
+    "domain/claude-code-session-state",
   ],
   decisions: [
     {
