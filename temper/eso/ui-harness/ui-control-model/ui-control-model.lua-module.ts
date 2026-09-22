@@ -56,5 +56,13 @@ export const uiControlModel = {
       decisionKind: "decision-kind/absence",
       statement: "No virtual a control is made from is resolved.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control the game makes that an addon extends is made here under the screen.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "Which controls those are is a list kept here rather than read from the game.",
+    },
   ],
 } as const satisfies LuaModule

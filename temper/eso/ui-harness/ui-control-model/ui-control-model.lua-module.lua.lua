@@ -235,6 +235,12 @@ _G.WINDOW_MANAGER = WindowManager
 _G.GuiRoot = birth("GuiRoot", nil, CONTROL_TYPES.CT_TOPLEVELCONTROL, nil)
 _G.GuiRoot:SetDimensions(1920, 1080)
 
+local GAME_CONTROLS = { "ZO_Menus" }
+
+for _, name in ipairs(GAME_CONTROLS) do
+  birth(name, _G.GuiRoot, CONTROL_TYPES.CT_TOPLEVELCONTROL, nil)
+end
+
 function _G.GetControl(first, second)
   if second == nil then
     if type(first) == "string" then return named[first] end
