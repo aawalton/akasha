@@ -77,6 +77,7 @@ export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set([
   "node-exporter",
   "orphaned-resources-sweep",
   "overdue-rolling",
+  "page-service",
   "persona-email-routing",
   "persona-points-rebuilding",
   "plants-relay-service",
