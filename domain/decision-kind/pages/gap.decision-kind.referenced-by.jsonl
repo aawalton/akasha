@@ -92,7 +92,6 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.ts","id":"01a095ed-9005-70e5-8d03-654f10141de7"}
 {"propertySlug":"decision-kind","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
 {"propertySlug":"decision-kind","path":"alan/authoring/authoring.domain.ts","id":"01a0657d-b91d-7000-a1e5-8f2537828ffb"}
-{"propertySlug":"decision-kind","path":"alan/authoring/book-record/properties/record-book-slug.text-property.ts","id":"01a0657d-b91d-7100-a6a6-4e66e1a75ab3"}
 {"propertySlug":"decision-kind","path":"alan/car-research/car-trim/properties/car-year-slug.text-property.ts","id":"01a0c543-8c25-7484-9da3-144fd1373381"}
 {"propertySlug":"decision-kind","path":"alan/chess/puzzle-set/chess-puzzle-set.page-type.ts","id":"01a06582-bd62-7a9f-a011-94835eaaf909"}
 {"propertySlug":"decision-kind","path":"alan/chess/review-session/chess-review-session.page-type.ts","id":"019f1e54-024f-7c0b-9c78-d44a2a2e9f2e"}

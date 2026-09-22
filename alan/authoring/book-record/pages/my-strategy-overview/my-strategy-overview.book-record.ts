@@ -6,7 +6,7 @@ export const myStrategyOverview = {
   slug: "my-strategy-overview",
   title: "My Strategy — Orientation",
   definition: "what is settled and what is open in My Strategy",
-  book: "my-strategy",
+  book: "alan-book/my-strategy",
   brief:
     "Continuing orientation for My Strategy — what the book is, what Alan has settled, and what is still open. Read this before an interview session on strategy so nothing already settled gets re-derived and nothing still open gets treated as decided. The numbered pages carry the detail and the quotations; this page carries the map.",
   writing: "md",

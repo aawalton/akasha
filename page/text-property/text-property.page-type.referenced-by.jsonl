@@ -48,7 +48,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/subagent/properties/agent-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/attribute/properties/point-unit.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/authoring/book-record/properties/kept-by.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/authoring/book-record/properties/record-book-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/authoring/book-record/properties/record-brief.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/book/pages/all-about-alan/question/properties/open-question.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/book/pages/all-about-alan/topic/properties/topic-settled.text-property.ts"}

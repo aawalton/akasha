@@ -133,6 +133,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"reached","propertySlug":"reached","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"story-read","unique":null,"uniquePropertySlug":null,"slug":"read-chapter-story","propertySlug":"story","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"read-live-from","propertySlug":"read-live-from","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"alan-book","unique":null,"uniquePropertySlug":null,"slug":"record-book","propertySlug":"book","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"relationship-deposit-persona","propertySlug":"relationship-deposit-persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"relationship","unique":null,"uniquePropertySlug":null,"slug":"relationship-deposit-relationship","propertySlug":"relationship-deposit-relationship","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"relationship-deposit-value","propertySlug":"relationship-deposit-value","fileName":null,"folderName":null}

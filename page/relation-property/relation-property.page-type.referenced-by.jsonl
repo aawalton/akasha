@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/properties/seat-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/turn-state/properties/turn-state-color.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/subagent/properties/subagent-kind.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/authoring/book-record/properties/record-book.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/book/pages/all-about-alan/question/properties/question-topic.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/book/pages/all-about-alan/topic/properties/topic-parents.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/book/pages/all-about-alan/topic/properties/topic-related.relation-property.ts"}

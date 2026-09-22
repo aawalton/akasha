@@ -10,13 +10,13 @@ export const bookRecord = {
   parts: [
     "file-property/writing",
     "text-property/kept-by",
-    "text-property/record-book-slug",
+    "relation-property/record-book",
     "text-property/record-brief",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
-    { pageProperty: "text-property/record-book-slug", required: true, many: false },
+    { pageProperty: "relation-property/record-book", required: true, many: false },
     { pageProperty: "text-property/record-brief", required: false, many: false },
     { pageProperty: "text-property/kept-by", required: false, many: false },
     { pageProperty: "file-property/writing", required: true, many: false },

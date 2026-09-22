@@ -10,7 +10,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.ts","id":"01a05ecf-9a12-7710-b385-fd3a09307d1d"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.ts","id":"01a095ed-9005-70e5-8d03-654f10141de7"}
-{"propertySlug":"decision-kind","path":"alan/authoring/book-record/properties/record-book-slug.text-property.ts","id":"01a0657d-b91d-7100-a6a6-4e66e1a75ab3"}
 {"propertySlug":"decision-kind","path":"alan/car-research/car-trim/properties/car-year-slug.text-property.ts","id":"01a0c543-8c25-7484-9da3-144fd1373381"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/create-course/create-course.module.ts","id":"01a06579-f3d9-7005-80a2-939e9bfae257"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/root-parent-query/root-parent-query.module.ts","id":"01a06579-f3d9-7006-8368-78fe6c117de7"}

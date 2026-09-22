@@ -10,3 +10,4 @@
 {"propertySlug":"import","fileName":"alan-book.page-type.types.ts","path":"alan/book/pages/my-projects/my-projects.alan-book.ts"}
 {"propertySlug":"import","fileName":"alan-book.page-type.types.ts","path":"alan/book/pages/my-strategy/my-strategy.alan-book.ts"}
 {"propertySlug":"parts","path":"alan/alan.domain.ts","id":"01a05dfc-d883-7000-81e2-065c3cad4cec"}
+{"propertySlug":"target-page-type","path":"alan/authoring/book-record/properties/record-book.relation-property.ts","id":"01a0657d-b91d-7100-a6a6-4e66e1a75ab3"}

@@ -8,7 +8,6 @@
 {"propertySlug":"name-format","path":"agent/seat/properties/re-exec-ask.text-property.ts","id":"01a05810-00ac-7843-9198-1c1fed82fd40"}
 {"propertySlug":"name-format","path":"agent/seat/properties/registration-account.text-property.ts","id":"01a05397-7f9b-783b-b5ec-f0b163957fdf"}
 {"propertySlug":"name-format","path":"agent/seat/properties/start-mode.text-property.ts","id":"01a05395-58a5-760f-a464-178f4d4ebb97"}
-{"propertySlug":"name-format","path":"alan/authoring/book-record/properties/record-book-slug.text-property.ts","id":"01a0657d-b91d-7100-a6a6-4e66e1a75ab3"}
 {"propertySlug":"name-format","path":"alan/car-research/car-trim/properties/car-year-slug.text-property.ts","id":"01a0c543-8c25-7484-9da3-144fd1373381"}
 {"propertySlug":"name-format","path":"alan/chess/game/properties/chess-collection.text-property.ts","id":"01a06582-bd62-7684-a6cb-b0074eea56fd"}
 {"propertySlug":"name-format","path":"alan/chess/game/properties/chess-source.text-property.ts","id":"01a06582-bd62-7f26-81ac-a3d85df41e67"}

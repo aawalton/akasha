@@ -2,5 +2,6 @@
 {"propertySlug":"part-of-collections","path":"alan/book/pages/my-faith/sections/book-of-mormon.book-section.ts","id":"01a08861-b0d8-723b-af13-52fb08aaa872"}
 {"propertySlug":"part-of-collections","path":"alan/book/pages/my-faith/sections/sources.book-section.ts","id":"01a08861-8fad-7611-ab85-593238d19e93"}
 {"propertySlug":"parts","path":"alan/book/alan-book.page-type.ts","id":"01a06d23-26a9-7d50-bca7-7aa5849e1c17"}
+{"propertySlug":"record-book","path":"alan/authoring/book-record/pages/my-faith-overview/my-faith-overview.book-record.ts","id":"01a0657d-b91d-7700-9743-d8bc7786ff26"}
 {"propertySlug":"section-of","path":"alan/book/pages/my-faith/sections/abstraction-map.book-section.ts","id":"01a06594-c68e-700d-b690-848031a7a0ed"}
 {"propertySlug":"section-of","path":"alan/book/pages/my-faith/sections/sources.book-section.ts","id":"01a08861-8fad-7611-ab85-593238d19e93"}
