@@ -4,7 +4,9 @@
 {"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/head.item-slot.ts"}
 {"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/left-ring.item-slot.ts"}
 {"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/legs.item-slot.ts"}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/main-hand.item-slot.ts"}
 {"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/necklace.item-slot.ts"}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/off-hand.item-slot.ts"}
 {"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/right-ring.item-slot.ts"}
 {"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/shoulders.item-slot.ts"}
 {"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/waist.item-slot.ts"}
