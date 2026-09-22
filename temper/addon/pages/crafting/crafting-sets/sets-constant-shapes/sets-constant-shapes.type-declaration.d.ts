@@ -1,6 +1,6 @@
-type LibSetsLangMap<V> = { [lang: string]: V }
+type SetsLangMap<V> = { [lang: string]: V }
 
-interface LibSetsDlcEntry {
+interface SetsDlcEntry {
   collectibleId?: number
   achievementCategoryId?: number
   name?: string
@@ -8,7 +8,7 @@ interface LibSetsDlcEntry {
   releaseDate?: number
 }
 
-interface LibSetsClassData {
+interface SetsClassData {
   index2Id: { [classIndex: number]: number }
   id2Index: { [classId: number]: number }
   names: { [classId: number]: string }
@@ -17,7 +17,7 @@ interface LibSetsClassData {
   setsList: { [classId: number]: unknown }
 }
 
-interface LibSetsMoreOptionsButton extends ButtonControl {
+interface SetsMoreOptionsButton extends ButtonControl {
   upTexture?: string
   mouseOver?: string
   clickedTexture?: string
@@ -25,8 +25,8 @@ interface LibSetsMoreOptionsButton extends ButtonControl {
   tooltipAlign?: number
 }
 
-interface LibSetsDebugLibZone {
-  GetAllZoneData?: (this: LibSetsDebugLibZone) => { [lang: string]: { [zoneId: number]: string } }
+interface SetsDebugLibZone {
+  GetAllZoneData?: (this: SetsDebugLibZone) => { [lang: string]: { [zoneId: number]: string } }
   givenZoneData?: { [lang: string]: { [zoneId: number]: string } }
 }
 

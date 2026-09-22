@@ -8,7 +8,7 @@ import "akasha/temper/eso/type/eso-lib-sets-ui/eso-lib-sets-ui.type-declaration.
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
-const CLASS_DATA: LibSetsClassData = {
+const CLASS_DATA: SetsClassData = {
   index2Id: {},
   id2Index: {},
   names: {},

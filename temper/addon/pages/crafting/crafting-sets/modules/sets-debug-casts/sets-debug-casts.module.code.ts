@@ -60,7 +60,7 @@ export function asDungeonFinderKeyboard(value: unknown): DungeonFinderKeyboard {
   return value as DungeonFinderKeyboard
 }
 
-export type LibZoneOpt = LibSetsDebugLibZone | undefined
+export type LibZoneOpt = SetsDebugLibZone | undefined
 export function asLibZoneOpt(value: unknown): LibZoneOpt {
   return value as LibZoneOpt
 }

@@ -49,7 +49,7 @@ function addButton(
   offsetX: number,
   offsetY: number,
   buttonData: ButtonData | undefined
-): LibSetsMoreOptionsButton | undefined {
+): SetsMoreOptionsButton | undefined {
   if (
     buttonData === undefined ||
     buttonData.parentControl === undefined ||
@@ -59,7 +59,7 @@ function addButton(
     return undefined
   }
   const btnName = buttonData.parentControl.GetName() + MAJOR + buttonData.buttonName
-  let button = WM.GetControlByName<LibSetsMoreOptionsButton>(btnName, "")
+  let button = WM.GetControlByName<SetsMoreOptionsButton>(btnName, "")
   if (button === undefined) {
     button = WM.CreateControl(btnName, buttonData.parentControl, CT_BUTTON)
   }

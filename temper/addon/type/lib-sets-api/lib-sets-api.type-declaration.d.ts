@@ -313,7 +313,7 @@ interface LibSetsApi {
     [setType: number]: { [tableKey: string]: string }
   }
   counterSuffix: string
-  setTypesToName: { [setType: number]: LibSetsLangMap<string> }
+  setTypesToName: { [setType: number]: SetsLangMap<string> }
   setTypeToSetIdsForSetTypeTable: { [setType: number]: unknown }
 
   setItemTypes: { [itemType: number]: boolean }
@@ -341,7 +341,7 @@ interface LibSetsApi {
 
   countMonsterSetBonus: number
   countUndauntedChests: number
-  undauntedChestIds: LibSetsLangMap<{ [chestIndex: number]: string }>
+  undauntedChestIds: SetsLangMap<{ [chestIndex: number]: string }>
 
   armorTypeNames: { [armorType: number]: string }
   weaponTypeNames: { [weaponType: number]: string }
@@ -353,11 +353,11 @@ interface LibSetsApi {
   dropLocationNames: { [key: number]: unknown }
   dropLocationNames2SetIds: { [key: string]: unknown }
   setId2DropLocationNames: { [setId: number]: unknown }
-  dropMechanicIdToName: LibSetsLangMap<{ [dropMechanicId: number]: string }>
-  dropMechanicIdToNameTooltip: LibSetsLangMap<{ [dropMechanicId: number]: string }>
+  dropMechanicIdToName: SetsLangMap<{ [dropMechanicId: number]: string }>
+  dropMechanicIdToNameTooltip: SetsLangMap<{ [dropMechanicId: number]: string }>
 
-  localization: LibSetsLangMap<{ [key: string]: unknown }>
-  specialZoneNames: LibSetsLangMap<{ [zoneId: number]: string }>
+  localization: SetsLangMap<{ [key: string]: unknown }>
+  specialZoneNames: SetsLangMap<{ [zoneId: number]: string }>
   dropMechanicIdToTexture: { [dropMechanicId: number]: string }
   setTypeToTexture: { [key: string]: string }
   setTypeToDropZoneLocalizationStr: { [key: string]: unknown }
@@ -373,7 +373,7 @@ interface LibSetsApi {
   allowedDLCTypes: { [dlcType: number]: boolean }
   possibleDlcIds: { [index: number]: string }
   allowedDLCIds: { [dlcId: number]: boolean }
-  dlcAndChapterCollectibleIds: { [dlcId: number]: LibSetsDlcEntry }
+  dlcAndChapterCollectibleIds: { [dlcId: number]: SetsDlcEntry }
   CleanDLCTimeStamp: (
     this: void,
     releaseDateTimestamp: number | undefined,
@@ -385,7 +385,7 @@ interface LibSetsApi {
   NONDLCData: { [dlcId: number]: string }
   NONDLCLookupdata: { [dlcType: number]: { [dlcId: number]: string } }
 
-  classData: LibSetsClassData
+  classData: SetsClassData
 }
 interface LibSetsApi {
   setInfo: { [setId: number]: { [key: string]: unknown } }
@@ -531,7 +531,7 @@ interface LibSetsApi {
   CreatePreviewTooltipAndShow?: (this: void, ...args: unknown[]) => unknown
 }
 interface LibSetsApi {
-  itemSetCollectionBookMoreOptionsButton?: LibSetsMoreOptionsButton
+  itemSetCollectionBookMoreOptionsButton?: SetsMoreOptionsButton
 
   currentAPIVersion: number
 

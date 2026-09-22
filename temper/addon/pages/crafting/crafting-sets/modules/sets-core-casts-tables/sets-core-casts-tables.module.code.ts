@@ -171,7 +171,7 @@ export function asDebugParamMap(value: unknown): DebugParamMap {
   return value as DebugParamMap
 }
 
-export type MoreOptionsButton = LibSetsMoreOptionsButton
+export type MoreOptionsButton = SetsMoreOptionsButton
 export function asMoreOptionsButton(value: unknown): MoreOptionsButton {
   return value as MoreOptionsButton
 }
