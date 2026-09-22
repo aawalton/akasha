@@ -10,7 +10,7 @@ export const akashaFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "141 are left. The first run is done: 344 read, 67 dropped. The second run is with Alan, in panel order down `kept-order.tsv` in the scratchpad. Next is `a-deploy-that-refuses-is-judged-over-more-the-next-time`, entry 160 of 275. Entries 161 and 162 are the pinned-tree pair the single-file service bundles resolve. A drop needs no answer; only a proposal to do work is put to Alan. Other seats delete findings as this runs, so check each slug is still there. Verify by running, not reading.\n",
+        "138 are left. The first run is done: 344 read, 67 dropped. The second run is with Alan, in panel order down `kept-order.tsv` in the scratchpad. Next is `a-scratch-root-outlives-the-run-that-made-it-whenever-that-run-is-killed`, entry 163 of 275. Entries 159 to 162 went into `initiative/aranya-service-bundles`. A drop needs no answer; only a proposal to do work is put to Alan. Other seats delete findings as this runs, so check each slug is still there. Verify by running, not reading.\n",
     },
     {
       statement: "No module nothing reaches is left.",
