@@ -5,7 +5,7 @@ export const evidenceChapter = {
   type: "page-type/text-property",
   slug: "evidence-chapter",
   propertySlug: "evidence-chapter",
-  definition: "the chapter the wording placing it is in",
+  definition: "the chapter holding the wording placing the event",
   maxLength: 50,
   nameFormat: null,
   types: "ts",

@@ -4,7 +4,7 @@ export const smsOptIn = {
   id: "01a05b54-a903-7d92-ba67-13983ceac2c4",
   type: "page-type/module",
   slug: "sms-opt-in",
-  definition: "the form a person opts in to text messages through",
+  definition: "the form where a person opts in to text messages",
   code: "tsx",
   test: "tsx",
   decisions: [

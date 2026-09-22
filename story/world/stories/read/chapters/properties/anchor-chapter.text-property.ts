@@ -5,7 +5,7 @@ export const anchorChapter = {
   type: "page-type/text-property",
   slug: "anchor-chapter",
   propertySlug: "chapter",
-  definition: "the chapter the dating words are in",
+  definition: "the chapter holding the dating words",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

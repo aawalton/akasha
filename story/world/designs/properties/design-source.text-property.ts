@@ -5,7 +5,7 @@ export const designSource = {
   type: "page-type/text-property",
   slug: "design-source",
   propertySlug: "source",
-  definition: "the work a story is drawn from",
+  definition: "a story's source work",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

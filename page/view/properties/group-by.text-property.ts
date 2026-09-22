@@ -5,7 +5,7 @@ export const groupBy = {
   type: "page-type/text-property",
   slug: "group-by",
   propertySlug: "group-by",
-  definition: "the property a view gathers its pages under",
+  definition: "a view's grouping property",
   namesAPropertyKey: true,
   maxLength: 100,
   nameFormat: null,

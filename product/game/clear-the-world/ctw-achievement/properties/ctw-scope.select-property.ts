@@ -5,7 +5,7 @@ export const ctwScope = {
   type: "page-type/select-property",
   slug: "ctw-scope",
   propertySlug: "scope",
-  definition: "whose count an achievement's metric is read from",
+  definition: "whose count an achievement's metric reads",
   values: ["global", "team", "profile"],
   decisions: [
     {

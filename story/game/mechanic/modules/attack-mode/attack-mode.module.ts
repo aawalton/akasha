@@ -4,7 +4,7 @@ export const attackMode = {
   id: "01a0c484-0cd6-77db-9d41-592402c8073c",
   type: "page-type/module",
   slug: "attack-mode",
-  definition: "the power a strike is made with set against the defence it is made against",
+  definition: "a strike's power set against the defence it meets",
   code: "ts",
   test: "ts",
   decisions: [

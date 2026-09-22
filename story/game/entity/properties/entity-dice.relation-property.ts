@@ -5,7 +5,7 @@ export const entityDice = {
   type: "page-type/relation-property",
   slug: "entity-dice",
   propertySlug: "dice",
-  definition: "the handful of dice an entity is rolled on",
+  definition: "an entity's handful of dice",
   targetPageType: "page-type/game-mechanic",
   decisions: [
     {

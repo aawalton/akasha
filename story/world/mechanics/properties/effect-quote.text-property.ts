@@ -5,7 +5,7 @@ export const effectQuote = {
   type: "page-type/text-property",
   slug: "effect-quote",
   propertySlug: "effect-quote",
-  definition: "the sentence what the mechanic did is read out of",
+  definition: "the sentence stating what the mechanic did",
   maxLength: 1000,
   nameFormat: null,
   types: "ts",

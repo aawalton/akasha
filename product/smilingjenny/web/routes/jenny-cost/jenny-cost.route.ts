@@ -4,7 +4,7 @@ export const jennyCost = {
   id: "01a08bb2-255f-7fcd-be97-19292bc4115b",
   type: "page-type/route",
   slug: "jenny-cost",
-  definition: "Alan's cost as the color Jenny's tile draws that cost in",
+  definition: "Alan's cost as the color Jenny's tile gives that cost",
   code: "ts",
   test: "ts",
   urlPath: "api/cost",

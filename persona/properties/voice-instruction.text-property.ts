@@ -5,7 +5,7 @@ export const voiceInstruction = {
   type: "page-type/text-property",
   slug: "voice-instruction",
   propertySlug: "voice-instruction",
-  definition: "the description a persona's voice was built from",
+  definition: "a persona's voice description",
   maxLength: 1000,
   nameFormat: null,
   types: "ts",

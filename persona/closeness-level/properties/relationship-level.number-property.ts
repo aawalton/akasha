@@ -5,7 +5,7 @@ export const relationshipLevel = {
   type: "page-type/number-property",
   slug: "relationship-level",
   propertySlug: "relationship-level",
-  definition: "the rung of the closeness ladder a record is of",
+  definition: "a record's rung on the closeness ladder",
   max: null,
   decisions: [
     {

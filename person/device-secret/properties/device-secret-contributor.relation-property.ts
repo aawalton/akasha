@@ -5,7 +5,7 @@ export const deviceSecretContributor = {
   type: "page-type/relation-property",
   slug: "device-secret-contributor",
   propertySlug: "contributor",
-  definition: "the contributor a device secret was minted for",
+  definition: "a device secret's contributor",
   targetPageType: "page-type/contributor",
   decisions: [
     {
