@@ -4,7 +4,7 @@ export const companionsCodecConstants = {
   id: "01a0611d-84d0-7633-b29f-14f7be7fd63b",
   type: "page-type/module",
   slug: "companions-codec-constants",
-  definition: "the bit widths the companion build codec reads a build hash by",
+  definition: "the bit widths by which the companion build codec reads a build hash",
   code: "ts",
   decisions: [
     {

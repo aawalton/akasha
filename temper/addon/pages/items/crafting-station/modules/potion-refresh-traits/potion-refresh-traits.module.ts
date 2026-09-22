@@ -4,6 +4,6 @@ export const potionRefreshTraits = {
   id: "01a061c7-e885-7072-b715-507d751b1664",
   type: "page-type/module",
   slug: "potion-refresh-traits",
-  definition: "refreshes the trait row the player filters potions by",
+  definition: "refreshes the trait row by which the player filters potions",
   code: "ts",
 } as const satisfies Module

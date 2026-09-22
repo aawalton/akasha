@@ -4,7 +4,7 @@ export const dataEncodeDecoder = {
   id: "01a06061-969f-7339-89aa-da319bf80d6b",
   type: "page-type/module",
   slug: "data-encode-decoder",
-  definition: "encoded lines read back into the Lua value the lines were written from",
+  definition: "encoded lines read back into their original Lua value",
   code: "ts",
   decisions: [
     {

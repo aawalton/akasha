@@ -4,7 +4,7 @@ export const setsCoreSetItemidsFiltered = {
   id: "01a061fc-ceec-7456-9d7d-84602a2f2336",
   type: "page-type/module",
   slug: "sets-core-set-itemids-filtered",
-  definition: "keeping only the item ids of a set that match the equip, trait or enchant asked for",
+  definition: "keeping only the item ids of a set that match the equip, trait or enchant wanted",
   code: "ts",
   decisions: [
     {

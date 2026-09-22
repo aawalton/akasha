@@ -4,7 +4,7 @@ export const setsKbfLsmOptions = {
   id: "01a0623e-53a1-71f3-a8c2-70d8d97f411d",
   type: "page-type/module",
   slug: "sets-kbf-lsm-options",
-  definition: "the default options a scrollable-menu dropdown is built with",
+  definition: "a scrollable-menu dropdown's default options",
   code: "ts",
   decisions: [
     {

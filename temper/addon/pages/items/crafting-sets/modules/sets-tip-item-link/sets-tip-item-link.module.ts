@@ -4,7 +4,7 @@ export const setsTipItemLink = {
   id: "01a06231-8f1e-7646-8b29-68d015b765db",
   type: "page-type/module",
   slug: "sets-tip-item-link",
-  definition: "the item link dug out of whatever row control the mouse is over",
+  definition: "the item link dug out of the row control under the mouse",
   code: "ts",
   decisions: [
     {

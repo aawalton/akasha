@@ -4,6 +4,6 @@ export const knowledgeCore = {
   id: "01a06226-4905-74df-8b82-fdfbfba82a3b",
   type: "page-type/module",
   slug: "knowledge-core",
-  definition: "an item sorted into the category and quality the library files by",
+  definition: "an item sorted into the library's category and quality",
   code: "ts",
 } as const satisfies Module

@@ -4,6 +4,6 @@ export const writSmithSchemaData = {
   id: "01a061c7-e8b5-7aba-917d-1111a1bb3c12",
   type: "page-type/module",
   slug: "writ-smith-schema-data",
-  definition: "the armor schools, the traits and the improvements a smithing writ draws on",
+  definition: "a smithing writ's armor schools, traits and improvements",
   code: "ts",
 } as const satisfies Module

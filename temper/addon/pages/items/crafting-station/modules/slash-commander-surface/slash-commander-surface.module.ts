@@ -4,7 +4,7 @@ export const slashCommanderSurface = {
   id: "01a06066-8401-74d7-a505-372d07f1090c",
   type: "page-type/module",
   slug: "slash-commander-surface",
-  definition: "the calls another addon registers and labels a slash command by",
+  definition: "the calls by which another addon registers and labels a slash command",
   code: "ts",
   decisions: [
     {

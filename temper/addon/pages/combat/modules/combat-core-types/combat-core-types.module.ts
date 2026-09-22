@@ -4,6 +4,6 @@ export const combatCoreTypes = {
   id: "01a0617f-5841-79a8-8caa-3043753f332d",
   type: "page-type/module",
   slug: "combat-core-types",
-  definition: "the shapes a recorded fight and its calculated totals are kept in",
+  definition: "the shapes of a recorded fight and its calculated totals",
   code: "ts",
 } as const satisfies Module

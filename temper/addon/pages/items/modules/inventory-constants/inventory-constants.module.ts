@@ -5,6 +5,6 @@ export const inventoryConstants = {
   type: "page-type/module",
   slug: "inventory-constants",
   definition:
-    "what this add-on calls itself, where it saves, and the bags and location keys it works over",
+    "what this add-on calls itself, where it saves, and the bags and location keys it uses",
   code: "ts",
 } as const satisfies Module
