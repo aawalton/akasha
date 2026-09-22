@@ -6,5 +6,6 @@ export const contractScribe = {
   slug: "contract-scribe",
   title: "Contract Scribe",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

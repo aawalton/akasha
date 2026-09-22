@@ -6,6 +6,7 @@ export const cook = {
   slug: "cook",
   title: "Cook",
   world: "world/the-wandering-inn",
+  appearanceCount: 139,
   aliases: ["cooks"],
   evolvesToSlugs: ["forager-cook"],
   references: "jsonl",

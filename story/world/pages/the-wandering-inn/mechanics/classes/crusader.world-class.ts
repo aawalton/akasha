@@ -6,6 +6,7 @@ export const crusader = {
   slug: "crusader",
   title: "Crusader",
   world: "world/the-wandering-inn",
+  appearanceCount: 25,
   aliases: ["CruSAdeR", "crusaders"],
   evolvesToSlugs: ["templar"],
   references: "jsonl",

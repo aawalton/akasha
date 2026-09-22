@@ -6,5 +6,6 @@ export const combinedArmsWingCommander = {
   slug: "combined-arms-wing-commander",
   title: "Combined Arms Wing Commander",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

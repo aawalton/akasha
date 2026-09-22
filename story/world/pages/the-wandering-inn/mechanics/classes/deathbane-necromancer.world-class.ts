@@ -6,6 +6,7 @@ export const deathbaneNecromancer = {
   slug: "deathbane-necromancer",
   title: "Deathbane Necromancer",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   evolvesFromSlugs: ["ossific-necromancer"],
   evolvesToSlugs: ["necromancer-of-reclaimed-grandeur"],
   references: "jsonl",

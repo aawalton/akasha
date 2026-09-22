@@ -6,6 +6,7 @@ export const courteousKnight = {
   slug: "courteous-knight",
   title: "Courteous Knight",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   evolvesFromSlugs: ["courteous-mugger"],
   evolvesToSlugs: ["knight-of-honor-s-ember"],
   references: "jsonl",
