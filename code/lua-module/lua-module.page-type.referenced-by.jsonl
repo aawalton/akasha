@@ -5,4 +5,4 @@
 {"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/eso/lua-runner/eso-sandbox-prelude/eso-sandbox-prelude.lua-module.ts"}
 {"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/eso/lua-runner/lua-driver/lua-driver.lua-module.ts"}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
-{"propertySlug":"target-page-type","path":"temper/addon/properties/lua-modules.relation-property.ts","id":"01a06036-9b78-76a0-8492-89abe6853e5a"}
+{"propertySlug":"target-page-type","path":"temper/addon/properties/lua-modules.multi-relation-property.ts","id":"01a06036-9b78-76a0-8492-89abe6853e5a"}

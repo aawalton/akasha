@@ -17,7 +17,7 @@ export const temperAddon = {
     "named-folder-property/addon-image-folder",
     "relation-property/bundle-entry",
     "multi-relation-property/eso-interfaces",
-    "relation-property/lua-modules",
+    "multi-relation-property/lua-modules",
     "domain/temper-addon-type",
     "domain/temper-addon-build",
     "domain/temper-addon-community",
@@ -42,7 +42,7 @@ export const temperAddon = {
       maxCount: null,
     },
     {
-      pageProperty: "relation-property/lua-modules",
+      pageProperty: "multi-relation-property/lua-modules",
       required: false,
       many: true,
       maxCount: null,

@@ -11,7 +11,7 @@ import type { AddonManifest } from "akasha/temper/addon/properties/addon-manifes
 import type { Bindings } from "akasha/temper/addon/properties/bindings.file-property.types.ts"
 import type { BundleEntry } from "akasha/temper/addon/properties/bundle-entry.relation-property.types.ts"
 import type { EsoInterfaces } from "akasha/temper/addon/properties/eso-interfaces.multi-relation-property.types.ts"
-import type { LuaModules } from "akasha/temper/addon/properties/lua-modules.relation-property.types.ts"
+import type { LuaModules } from "akasha/temper/addon/properties/lua-modules.multi-relation-property.types.ts"
 import type { SiblingManifest } from "akasha/temper/addon/properties/sibling-manifest.file-property.types.ts"
 
 export type TemperAddon = Service & {
