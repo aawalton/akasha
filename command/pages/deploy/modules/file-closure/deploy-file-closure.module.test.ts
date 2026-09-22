@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   besideThe,
   carriedOver,
+  heldBackIn,
   kindSeeds,
   onwardOf,
   readingOver,
@@ -135,6 +136,28 @@ test("a test the deploy is built from is carried whatever folder that test sits 
 test("a test is named by the tail of the file holding it", () => {
   expect(testWrittenForAPage("apps/one/main.test.ts")).toBe(true)
   expect(testWrittenForAPage("apps/one/main.ts")).toBe(false)
+})
+
+const CLOSURES = new Map<string, ReadonlySet<string>>([
+  ["one", new Set(["apps/one/main.ts"])],
+  ["two", new Set(["apps/one/still.ts", "shared/helper.ts"])],
+  ["three", new Set(["shared/helper.ts"])],
+])
+
+test("a refusal holds back every service built from a file in the folder it names", () => {
+  expect([...heldBackIn(CLOSURES, ["apps/one/main.test.ts"])].sort()).toEqual(["one", "two"])
+})
+
+test("a service built from nothing in that folder is held back by nothing", () => {
+  expect([...heldBackIn(CLOSURES, ["shared/helper.test.ts"])].sort()).toEqual(["three", "two"])
+})
+
+test("a deploy nothing refused holds back no service", () => {
+  expect(heldBackIn(CLOSURES, []).size).toBe(0)
+})
+
+test("a refusal naming what no service is built from holds back every service", () => {
+  expect([...heldBackIn(CLOSURES, ["apart/apart.ts"])].sort()).toEqual(["one", "three", "two"])
 })
 
 const ADDON_PAGE = "addons/one/one.temper-addon.ts"

@@ -71,6 +71,14 @@ export const deployFileClosure = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A refusal holds back every service built from a file in the folder it names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal naming what no service is built from holds back every service.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "One reading of a commit builds every closure asked of it, reading each body once.",
     },

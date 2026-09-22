@@ -218,6 +218,35 @@ export function touchedIn(
   return found
 }
 
+function builtInFolder(
+  closures: ReadonlyMap<string, ReadonlySet<string>>,
+  folder: string
+): readonly string[] {
+  const found: string[] = []
+  for (const [slug, built] of closures) {
+    for (const one of built) {
+      if (folderOf(one) === folder) {
+        found.push(slug)
+        break
+      }
+    }
+  }
+  return found
+}
+
+export function heldBackIn(
+  closures: ReadonlyMap<string, ReadonlySet<string>>,
+  blamed: readonly string[]
+): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const one of blamed) {
+    const holding = builtInFolder(closures, folderOf(one))
+    if (holding.length === 0) return new Set(closures.keys())
+    for (const slug of holding) found.add(slug)
+  }
+  return found
+}
+
 export function closureFor(
   root: string,
   slug: string,
