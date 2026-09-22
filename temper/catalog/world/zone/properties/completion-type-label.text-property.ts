@@ -5,7 +5,7 @@ export const completionTypeLabel = {
   type: "page-type/text-property",
   slug: "completion-type-label",
   propertySlug: "completion-type-label",
-  definition: "the name a kind of completion activity is shown under",
+  definition: "the name shown for a kind of completion activity",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

@@ -5,7 +5,7 @@ export const activationEffectType = {
   type: "page-type/text-property",
   slug: "activation-effect-type",
   propertySlug: "effect-type",
-  definition: "what firing a skill does to whoever it lands on",
+  definition: "what firing a skill does to its target",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

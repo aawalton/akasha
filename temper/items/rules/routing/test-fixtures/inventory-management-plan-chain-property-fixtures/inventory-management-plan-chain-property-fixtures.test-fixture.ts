@@ -4,7 +4,7 @@ export const inventoryManagementPlanChainPropertyFixtures = {
   id: "01a06289-2676-7bb0-bf20-a5161d4bbd69",
   type: "page-type/test-fixture",
   slug: "inventory-management-plan-chain-property-fixtures",
-  definition: "the generated destination chains the plan's chain property tests are built from",
+  definition: "the generated destination chains for the plan's chain property tests",
   code: "ts",
   decisions: [
     {

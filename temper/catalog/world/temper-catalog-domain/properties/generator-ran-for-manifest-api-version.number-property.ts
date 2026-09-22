@@ -5,7 +5,7 @@ export const generatorRanForManifestApiVersion = {
   type: "page-type/number-property",
   slug: "generator-ran-for-manifest-api-version",
   propertySlug: "generator-ran-for-manifest-api-version",
-  definition: "the manifest number the generator last ran for",
+  definition: "the manifest number of the generator's last run",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

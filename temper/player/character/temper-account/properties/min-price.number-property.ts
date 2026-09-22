@@ -5,7 +5,7 @@ export const minPrice = {
   type: "page-type/number-property",
   slug: "min-price",
   propertySlug: "min-price",
-  definition: "the lowest gold an item is listed at",
+  definition: "an item's lowest listing price in gold",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

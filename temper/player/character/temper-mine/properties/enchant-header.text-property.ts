@@ -5,7 +5,7 @@ export const enchantHeader = {
   type: "page-type/text-property",
   slug: "enchant-header",
   propertySlug: "enchant-header",
-  definition: "the line an item's enchantment is shown under",
+  definition: "the heading above an item's enchantment",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
