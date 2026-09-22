@@ -4,7 +4,7 @@ export const temperInventoryBuyRuleShow = {
   id: "01a0603c-c1d1-7af1-a8ec-2f502e0eb1db",
   type: "page-type/command",
   slug: "temper-inventory-buy-rule-show",
-  definition: "the command giving back one buy rule named by its id",
+  definition: "the command giving back a buy rule named by its id",
   code: "ts",
   test: "ts",
   decisions: [

@@ -5,7 +5,7 @@ export const saidAs = {
   type: "page-type/select-property",
   slug: "said-as",
   propertySlug: "said-as",
-  definition: "how a call fills an argument under one command",
+  definition: "how a call fills an argument under a command",
   values: ["flag", "word", "flag-or-word"],
   decisions: [
     {

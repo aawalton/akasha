@@ -5,7 +5,7 @@ export const changeApply = {
   type: "page-type/command",
   slug: "change-apply",
   definition:
-    "the command answering one change where one is named, then landing the edits kept or keeping them",
+    "the command answering a change where one is named, then landing the edits kept or keeping them",
   code: "ts",
   test: "ts",
   maxWallSeconds: 900,

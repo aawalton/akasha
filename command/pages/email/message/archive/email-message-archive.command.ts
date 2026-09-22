@@ -4,7 +4,7 @@ export const emailMessageArchive = {
   id: "01a06810-cf11-73ba-92ff-d42a84a458ee",
   type: "page-type/command",
   slug: "email-message-archive",
-  definition: "the command taking the INBOX label off one Gmail message",
+  definition: "the command taking the INBOX label off a Gmail message",
   code: "ts",
   test: "ts",
   decisions: [

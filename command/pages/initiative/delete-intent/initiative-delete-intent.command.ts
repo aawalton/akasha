@@ -4,7 +4,7 @@ export const initiativeDeleteIntent = {
   id: "01a08c4e-4825-7f65-b321-e81787848de8",
   type: "page-type/command",
   slug: "initiative-delete-intent",
-  definition: "the command taking one intent out of the initiative stating that intent",
+  definition: "the command taking an intent out of the initiative stating that intent",
   code: "ts",
   test: "ts",
 

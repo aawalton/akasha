@@ -4,7 +4,7 @@ export const gameSettle = {
   id: "01a0c600-9161-7fdb-8ac2-edc582abc988",
   type: "page-type/command",
   slug: "game-settle",
-  definition: "the command settling one turn's numbers by running the mechanic it is told",
+  definition: "the command settling a turn's numbers by running the mechanic it is told",
   code: "ts",
   test: "ts",
   parts: [],

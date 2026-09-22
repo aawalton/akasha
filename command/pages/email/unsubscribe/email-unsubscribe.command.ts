@@ -4,7 +4,7 @@ export const emailUnsubscribe = {
   id: "01a06810-cf11-7b83-a5f8-81736bc497fb",
   type: "page-type/command",
   slug: "email-unsubscribe",
-  definition: "the command getting off the list one message came from, by the headers it has",
+  definition: "the command getting off the list a message came from, by the headers it has",
   code: "ts",
   test: "ts",
   decisions: [

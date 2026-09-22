@@ -4,7 +4,7 @@ export const talosConfigGen = {
   id: "01a06809-a024-740f-b1cb-f3271877bd51",
   type: "page-type/command",
   slug: "talos-config-gen",
-  definition: "the command writing one Talos node's machine-config overlay documents",
+  definition: "the command writing a Talos node's machine-config overlay documents",
   code: "ts",
   test: "ts",
   decisions: [

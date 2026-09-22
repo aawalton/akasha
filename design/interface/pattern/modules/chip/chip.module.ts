@@ -4,6 +4,6 @@ export const chip = {
   id: "01a05c51-8283-79cf-b56f-860e9c34636b",
   type: "page-type/module",
   slug: "chip",
-  definition: "a small removable token representing one value",
+  definition: "a small removable token representing a value",
   code: "tsx",
 } as const satisfies Module

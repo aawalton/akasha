@@ -4,7 +4,7 @@ export const googleCalendarEventShow = {
   id: "01a08cf5-5976-7c3e-a88b-e0c49e11367a",
   type: "page-type/command",
   slug: "google-calendar-event-show",
-  definition: "the command answering one event named by its id",
+  definition: "the command answering an event named by its id",
   code: "ts",
   test: "ts",
   decisions: [

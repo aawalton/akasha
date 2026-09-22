@@ -5,7 +5,7 @@ export const levelName = {
   type: "page-type/text-property",
   slug: "level-name",
   propertySlug: "name",
-  definition: "the word or words one level of the command tree is reached by",
+  definition: "the word or words a level of the command tree is reached by",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

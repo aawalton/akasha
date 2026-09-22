@@ -4,7 +4,7 @@ export const inferenceMusic = {
   id: "01a0685e-fd50-7626-bd25-d34e54379501",
   type: "page-type/command",
   slug: "inference-music",
-  definition: "the command rendering one song off a style and, where there is one, its lyrics",
+  definition: "the command rendering a song off a style and, where there is one, its lyrics",
   code: "ts",
   test: "ts",
   decisions: [
