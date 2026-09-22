@@ -152,7 +152,23 @@ export const serviceBundling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A service is named here after its bundle has been run by hand and worked.",
+      statement:
+        "A service is named here after its bundle has been read for a specifier that bundle cannot resolve.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A bundle resolves a bare specifier against its own directory, where no package sits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A late-loaded name is spelled where it is imported, so the bundler carries it in.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A green tick is weak evidence, because the branch that loads a name late may not have run.",
     },
     {
       decisionKind: "decision-kind/departure",
