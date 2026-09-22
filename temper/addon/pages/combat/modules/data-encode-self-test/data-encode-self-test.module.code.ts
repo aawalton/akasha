@@ -6,7 +6,7 @@ import {
   RUNTIME,
 } from "akasha/temper/addon/pages/combat/modules/data-encode-runtime/data-encode-runtime.module.code.ts"
 import type {
-  LdeValue,
+  EncodedValue,
   LuaTable,
   TestResult,
 } from "akasha/temper/addon/pages/combat/modules/data-encode-types/data-encode-types.module.code.ts"
@@ -60,8 +60,8 @@ export function performTest(
   this: void,
   testname: string,
   testData: unknown,
-  testDictLocal?: LdeValue[] | true,
-  testDictGlobal?: LdeValue[]
+  testDictLocal?: EncodedValue[] | true,
+  testDictGlobal?: EncodedValue[]
 ): TestResult {
   const testresult: TestResult = {}
   if (RUNTIME.debug) {

@@ -1,7 +1,7 @@
 import {
   asDecoderMethod,
-  asLdeValue,
-  asLdeValueArray,
+  asEncodedValue,
+  asEncodedValueArray,
 } from "akasha/temper/addon/pages/combat/modules/data-encode-casts/data-encode-casts.module.code.ts"
 import {
   CHAR_TO_VALUE,
@@ -18,7 +18,7 @@ import {
 import type {
   DecodeClass,
   DecodeInstance,
-  LdeValue,
+  EncodedValue,
   LuaTable,
 } from "akasha/temper/addon/pages/combat/modules/data-encode-types/data-encode-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -35,7 +35,7 @@ const DICT_CHAR_ERROR = "Invalid char encountered. Expected array control char: 
 DECODE_DATA_HANDLER.Initialize = function (
   this: DecodeInstance,
   encodedData: readonly string[],
-  globalDict?: LdeValue[]
+  globalDict?: EncodedValue[]
 ): undefined {
   if (RUNTIME.debug && RUNTIME.testresult !== undefined) {
     RUNTIME.testresult.decoder = this
@@ -51,7 +51,7 @@ DECODE_DATA_HANDLER.Initialize = function (
 
 DECODE_DATA_HANDLER.InitDictionary = function (
   this: DecodeInstance,
-  globalDict?: LdeValue[]
+  globalDict?: EncodedValue[]
 ): undefined {
   const globalDictItems = globalDict !== undefined ? globalDict.length : 0
   if (string.sub(this.currentString as string, 1, 2) === "D+") {
@@ -67,16 +67,16 @@ DECODE_DATA_HANDLER.InitDictionary = function (
     }
 
     this.dictionary = []
-    const supplied = asLdeValueArray(globalDict)
+    const supplied = asEncodedValueArray(globalDict)
     for (let i = 1; i <= expectedGlobalDictItems; i++) {
-      this.dictionary[i - 1] = asLdeValue(supplied[i - 1])
+      this.dictionary[i - 1] = asEncodedValue(supplied[i - 1])
     }
     const localDict = this.DecodeArray()
     for (let i = 1; i <= localDict.length; i++) {
-      this.dictionary[globalDictItems + i - 1] = asLdeValue(localDict[i - 1])
+      this.dictionary[globalDictItems + i - 1] = asEncodedValue(localDict[i - 1])
     }
   } else if (globalDictItems > 0) {
-    this.dictionary = ZO_ShallowTableCopy(asLdeValueArray(globalDict))
+    this.dictionary = ZO_ShallowTableCopy(asEncodedValueArray(globalDict))
   }
 }
 
@@ -176,11 +176,11 @@ DECODE_DATA_HANDLER.DecodeBool = function (
 DECODE_DATA_HANDLER.DecodeStringId = function (
   this: DecodeInstance,
   controlChar: string
-): LdeValue {
+): EncodedValue {
   const length = CONTROL_CHAR_CONFIG[controlChar]?.length
   const encodedItem = this.GetEncodedItem(length)
   const stringId = this.DecodeBase(encodedItem)
-  return asLdeValue(this.dictionary[stringId - 1])
+  return asEncodedValue(this.dictionary[stringId - 1])
 }
 
 DECODE_DATA_HANDLER.DecodeBase = function (this: DecodeInstance, encodedItem: string): number {
@@ -215,7 +215,7 @@ DECODE_DATA_HANDLER.DecodeTable = function (this: DecodeInstance): LuaTable {
   const tableValue: LuaTable = {}
   while (this.GetNextChar(true) !== ",") {
     const key = this.DecodeItem()
-    tableValue[asLdeValue(key)] = this.DecodeItem()
+    tableValue[asEncodedValue(key)] = this.DecodeItem()
   }
   this.MoveCurrentPos(1)
   return tableValue
@@ -233,8 +233,8 @@ DECODE_DATA_HANDLER.DecodeNumeric = function (this: DecodeInstance): number | un
 export function decode<T = unknown>(
   this: void,
   encodedData: readonly string[],
-  globalDict?: LdeValue[]
-): LuaMultiReturn<[T, LdeValue[]]> {
+  globalDict?: EncodedValue[]
+): LuaMultiReturn<[T, EncodedValue[]]> {
   const decoded = DECODE_DATA_HANDLER.New(encodedData, globalDict)
   return $multi(decoded.data as T, decoded.dictionary)
 }

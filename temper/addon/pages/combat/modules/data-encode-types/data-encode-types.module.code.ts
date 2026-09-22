@@ -7,7 +7,7 @@ export interface ControlCharSpec {
   decoder?: string
 }
 
-export type LdeValue = string | number
+export type EncodedValue = string | number
 
 export type LuaTable = Record<string | number, unknown>
 
@@ -15,13 +15,13 @@ export type GlobalTable = Record<string, unknown>
 
 export type LuaArray = unknown[]
 
-export type LdeValueArray = LdeValue[]
+export type EncodedValueArray = EncodedValue[]
 
 export interface TestResult {
-  testDictGlobal?: LdeValue[]
+  testDictGlobal?: EncodedValue[]
   encoded?: string[]
   decoded?: unknown
-  dict?: LdeValue[]
+  dict?: EncodedValue[]
   result?: boolean
   encoder?: EncodeInstance
   decoder?: DecodeInstance
@@ -29,22 +29,26 @@ export interface TestResult {
 
 export interface DictionaryInstance {
   globalDictReverse: LuaTable
-  dictionary: LdeValue[]
+  dictionary: EncodedValue[]
   counts: [LuaTable, LuaTable, LuaTable]
-  Initialize: (this: DictionaryInstance, data: unknown, globalDictionary?: LdeValue[]) => void
+  Initialize: (this: DictionaryInstance, data: unknown, globalDictionary?: EncodedValue[]) => void
   ScanTable: (this: DictionaryInstance, data: unknown) => void
   ValidateValue: (this: DictionaryInstance, value: unknown) => boolean
-  IncreaseCount: (this: DictionaryInstance, value: LdeValue) => void
+  IncreaseCount: (this: DictionaryInstance, value: EncodedValue) => void
   [key: string]: unknown
 }
 
 export interface DictionaryClass {
   Subclass: (this: DictionaryClass) => DictionaryClass
-  New: (this: DictionaryClass, data: unknown, globalDictionary?: LdeValue[]) => DictionaryInstance
-  Initialize: (this: DictionaryInstance, data: unknown, globalDictionary?: LdeValue[]) => void
+  New: (
+    this: DictionaryClass,
+    data: unknown,
+    globalDictionary?: EncodedValue[]
+  ) => DictionaryInstance
+  Initialize: (this: DictionaryInstance, data: unknown, globalDictionary?: EncodedValue[]) => void
   ScanTable: (this: DictionaryInstance, data: unknown) => void
   ValidateValue: (this: DictionaryInstance, value: unknown) => boolean
-  IncreaseCount: (this: DictionaryInstance, value: LdeValue) => void
+  IncreaseCount: (this: DictionaryInstance, value: EncodedValue) => void
   [key: string]: unknown
 }
 
@@ -53,21 +57,21 @@ export interface EncodeInstance {
   encodedStrings: string[]
   currentString: string
   currentStringLength: number
-  globalDictionary: LdeValue[] | undefined
-  dictionary: LdeValue[]
+  globalDictionary: EncodedValue[] | undefined
+  dictionary: EncodedValue[]
   reverseDictionary: LuaTable | undefined
   Initialize: (
     this: EncodeInstance,
     data: unknown,
-    localDictionary?: LdeValue[] | true,
-    globalDictionary?: LdeValue[]
+    localDictionary?: EncodedValue[] | true,
+    globalDictionary?: EncodedValue[]
   ) => void
-  InitDictionary: (this: EncodeInstance, localDictionary: LdeValue[] | true) => void
+  InitDictionary: (this: EncodeInstance, localDictionary: EncodedValue[] | true) => void
   MakeReverseDictionary: (this: EncodeInstance) => void
   AddString: (this: EncodeInstance, str: string) => void
   AddInteger: (this: EncodeInstance, integer: number) => void
   NewLine: (this: EncodeInstance) => void
-  EncodeDictionary: (this: EncodeInstance, dictionary: LdeValue[]) => void
+  EncodeDictionary: (this: EncodeInstance, dictionary: EncodedValue[]) => void
   CheckForStringId: (this: EncodeInstance, value: unknown) => number | undefined
   EncodeItem: (this: EncodeInstance, value: unknown) => void
   EncodeArray: (this: EncodeInstance, array: unknown) => void
@@ -80,21 +84,21 @@ export interface EncodeClass {
   New: (
     this: EncodeClass,
     data: unknown,
-    localDictionary?: LdeValue[] | true,
-    globalDictionary?: LdeValue[]
+    localDictionary?: EncodedValue[] | true,
+    globalDictionary?: EncodedValue[]
   ) => EncodeInstance
   Initialize: (
     this: EncodeInstance,
     data: unknown,
-    localDictionary?: LdeValue[] | true,
-    globalDictionary?: LdeValue[]
+    localDictionary?: EncodedValue[] | true,
+    globalDictionary?: EncodedValue[]
   ) => void
-  InitDictionary: (this: EncodeInstance, localDictionary: LdeValue[] | true) => void
+  InitDictionary: (this: EncodeInstance, localDictionary: EncodedValue[] | true) => void
   MakeReverseDictionary: (this: EncodeInstance) => void
   AddString: (this: EncodeInstance, str: string) => void
   AddInteger: (this: EncodeInstance, integer: number) => void
   NewLine: (this: EncodeInstance) => void
-  EncodeDictionary: (this: EncodeInstance, dictionary: LdeValue[]) => void
+  EncodeDictionary: (this: EncodeInstance, dictionary: EncodedValue[]) => void
   CheckForStringId: (this: EncodeInstance, value: unknown) => number | undefined
   EncodeItem: (this: EncodeInstance, value: unknown) => void
   EncodeArray: (this: EncodeInstance, array: unknown) => void
@@ -108,21 +112,21 @@ export interface DecodeInstance {
   currentStringPos: number
   currentString: string | undefined
   currentStringLength: number | undefined
-  dictionary: LdeValue[]
+  dictionary: EncodedValue[]
   data: unknown
   Initialize: (
     this: DecodeInstance,
     encodedData: readonly string[],
-    globalDict?: LdeValue[]
+    globalDict?: EncodedValue[]
   ) => void
-  InitDictionary: (this: DecodeInstance, globalDict?: LdeValue[]) => void
+  InitDictionary: (this: DecodeInstance, globalDict?: EncodedValue[]) => void
   GetCurrentString: (this: DecodeInstance) => string | undefined
   GetNextChar: (this: DecodeInstance, noPosIncrement?: boolean) => string
   GetEncodedItem: (this: DecodeInstance, length?: number) => string
   MoveCurrentPos: (this: DecodeInstance, offset: number) => void
   DecodeItem: (this: DecodeInstance) => unknown
   DecodeBool: (this: DecodeInstance, controlChar: string) => boolean | undefined
-  DecodeStringId: (this: DecodeInstance, controlChar: string) => LdeValue
+  DecodeStringId: (this: DecodeInstance, controlChar: string) => EncodedValue
   DecodeBase: (this: DecodeInstance, encodedItem: string) => number
   DecodeString: (this: DecodeInstance, controlChar: string) => string
   DecodeArray: (this: DecodeInstance) => unknown[]
@@ -137,21 +141,21 @@ export interface DecodeClass {
   New: (
     this: DecodeClass,
     encodedData: readonly string[],
-    globalDict?: LdeValue[]
+    globalDict?: EncodedValue[]
   ) => DecodeInstance
   Initialize: (
     this: DecodeInstance,
     encodedData: readonly string[],
-    globalDict?: LdeValue[]
+    globalDict?: EncodedValue[]
   ) => void
-  InitDictionary: (this: DecodeInstance, globalDict?: LdeValue[]) => void
+  InitDictionary: (this: DecodeInstance, globalDict?: EncodedValue[]) => void
   GetCurrentString: (this: DecodeInstance) => string | undefined
   GetNextChar: (this: DecodeInstance, noPosIncrement?: boolean) => string
   GetEncodedItem: (this: DecodeInstance, length?: number) => string
   MoveCurrentPos: (this: DecodeInstance, offset: number) => void
   DecodeItem: (this: DecodeInstance) => unknown
   DecodeBool: (this: DecodeInstance, controlChar: string) => boolean | undefined
-  DecodeStringId: (this: DecodeInstance, controlChar: string) => LdeValue
+  DecodeStringId: (this: DecodeInstance, controlChar: string) => EncodedValue
   DecodeBase: (this: DecodeInstance, encodedItem: string) => number
   DecodeString: (this: DecodeInstance, controlChar: string) => string
   DecodeArray: (this: DecodeInstance) => unknown[]
@@ -172,20 +176,20 @@ export interface LibSurface {
   Encode: (
     this: void,
     data: unknown,
-    localDict?: LdeValue[] | true,
-    globalDict?: LdeValue[]
+    localDict?: EncodedValue[] | true,
+    globalDict?: EncodedValue[]
   ) => string[]
   Decode: <T = unknown>(
     this: void,
     encodedData: readonly string[],
-    globalDict?: LdeValue[]
-  ) => LuaMultiReturn<[T, LdeValue[]]>
-  MakeDictionary: (this: void, data: unknown, globalDictionary?: LdeValue[]) => LdeValue[]
+    globalDict?: EncodedValue[]
+  ) => LuaMultiReturn<[T, EncodedValue[]]>
+  MakeDictionary: (this: void, data: unknown, globalDictionary?: EncodedValue[]) => EncodedValue[]
   PerformTest: (
     this: void,
     testname: string,
     testData: unknown,
-    testDictLocal?: LdeValue[] | true,
-    testDictGlobal?: LdeValue[]
+    testDictLocal?: EncodedValue[] | true,
+    testDictGlobal?: EncodedValue[]
   ) => TestResult
 }

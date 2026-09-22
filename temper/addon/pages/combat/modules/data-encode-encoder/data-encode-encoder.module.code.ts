@@ -1,5 +1,5 @@
 import {
-  asLdeValue,
+  asEncodedValue,
   asLuaArray,
 } from "akasha/temper/addon/pages/combat/modules/data-encode-casts/data-encode-casts.module.code.ts"
 import {
@@ -15,8 +15,8 @@ import {
 } from "akasha/temper/addon/pages/combat/modules/data-encode-runtime/data-encode-runtime.module.code.ts"
 import type {
   EncodeClass,
+  EncodedValue,
   EncodeInstance,
-  LdeValue,
   LuaTable,
 } from "akasha/temper/addon/pages/combat/modules/data-encode-types/data-encode-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -28,8 +28,8 @@ const ENCODE_DATA_HANDLER = ZO_InitializingObject.Subclass<EncodeClass>()
 ENCODE_DATA_HANDLER.Initialize = function (
   this: EncodeInstance,
   data: unknown,
-  localDictionary?: LdeValue[] | true,
-  globalDictionary?: LdeValue[]
+  localDictionary?: EncodedValue[] | true,
+  globalDictionary?: EncodedValue[]
 ): undefined {
   if (RUNTIME.debug && RUNTIME.testresult !== undefined) {
     RUNTIME.testresult.encoder = this
@@ -56,9 +56,9 @@ ENCODE_DATA_HANDLER.Initialize = function (
 
 ENCODE_DATA_HANDLER.InitDictionary = function (
   this: EncodeInstance,
-  localDictionary: LdeValue[] | true
+  localDictionary: EncodedValue[] | true
 ): undefined {
-  const dict: LdeValue[] =
+  const dict: EncodedValue[] =
     localDictionary === true ? makeDictionary(this.data, this.globalDictionary) : localDictionary
   this.EncodeDictionary(dict)
   for (const value of dict) {
@@ -69,7 +69,7 @@ ENCODE_DATA_HANDLER.InitDictionary = function (
 ENCODE_DATA_HANDLER.MakeReverseDictionary = function (this: EncodeInstance): undefined {
   const reverse: LuaTable = {}
   for (let i = 1; i <= this.dictionary.length; i++) {
-    reverse[asLdeValue(this.dictionary[i - 1])] = i
+    reverse[asEncodedValue(this.dictionary[i - 1])] = i
   }
   this.reverseDictionary = reverse
 }
@@ -114,7 +114,7 @@ ENCODE_DATA_HANDLER.NewLine = function (this: EncodeInstance): undefined {
 
 ENCODE_DATA_HANDLER.EncodeDictionary = function (
   this: EncodeInstance,
-  dictionary: LdeValue[]
+  dictionary: EncodedValue[]
 ): undefined {
   this.AddString("D")
   const globalDictItems = this.globalDictionary !== undefined ? this.globalDictionary.length : 0
@@ -130,7 +130,7 @@ ENCODE_DATA_HANDLER.CheckForStringId = function (
     this.reverseDictionary !== undefined &&
     (type(value) === "number" || type(value) === "string")
   ) {
-    const id = this.reverseDictionary[asLdeValue(value)]
+    const id = this.reverseDictionary[asEncodedValue(value)]
     if (id !== undefined) {
       return id as number
     }
@@ -222,8 +222,8 @@ ENCODE_DATA_HANDLER.EncodeTable = function (this: EncodeInstance, tableValue: un
 export function encode(
   this: void,
   data: unknown,
-  localDict?: LdeValue[] | true,
-  globalDict?: LdeValue[]
+  localDict?: EncodedValue[] | true,
+  globalDict?: EncodedValue[]
 ): string[] {
   const encoded = ENCODE_DATA_HANDLER.New(data, localDict, globalDict)
   return encoded.encodedStrings

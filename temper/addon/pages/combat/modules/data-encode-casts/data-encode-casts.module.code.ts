@@ -1,7 +1,7 @@
 import type {
   DecodeInstance,
-  LdeValue,
-  LdeValueArray,
+  EncodedValue,
+  EncodedValueArray,
   LuaArray,
 } from "akasha/temper/addon/pages/combat/modules/data-encode-types/data-encode-types.module.code.ts"
 
@@ -11,12 +11,12 @@ export function asLuaArray(value: unknown): LuaArray {
   return value as LuaArray
 }
 
-export function asLdeValue(value: unknown): LdeValue {
-  return value as LdeValue
+export function asEncodedValue(value: unknown): EncodedValue {
+  return value as EncodedValue
 }
 
-export function asLdeValueArray(value: unknown): LdeValueArray {
-  return value as LdeValueArray
+export function asEncodedValueArray(value: unknown): EncodedValueArray {
+  return value as EncodedValueArray
 }
 
 export function asDecoderMethod(value: unknown): DecoderMethod {

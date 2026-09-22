@@ -1,11 +1,11 @@
 import {
-  asLdeValue,
+  asEncodedValue,
   asLuaArray,
 } from "akasha/temper/addon/pages/combat/modules/data-encode-casts/data-encode-casts.module.code.ts"
 import type {
   DictionaryClass,
   DictionaryInstance,
-  LdeValue,
+  EncodedValue,
   LuaTable,
 } from "akasha/temper/addon/pages/combat/modules/data-encode-types/data-encode-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -17,12 +17,12 @@ const DICTIONARY_OBJECT = ZO_InitializingObject.Subclass<DictionaryClass>()
 DICTIONARY_OBJECT.Initialize = function (
   this: DictionaryInstance,
   data: unknown,
-  globalDictionary?: LdeValue[]
+  globalDictionary?: EncodedValue[]
 ): undefined {
   this.globalDictReverse = {}
   if (globalDictionary !== undefined) {
     for (let k = 1; k <= globalDictionary.length; k++) {
-      this.globalDictReverse[asLdeValue(globalDictionary[k - 1])] = k
+      this.globalDictReverse[asEncodedValue(globalDictionary[k - 1])] = k
     }
   }
   this.dictionary = []
@@ -30,9 +30,9 @@ DICTIONARY_OBJECT.Initialize = function (
   this.ScanTable(data)
 
   const counts3 = this.counts[2]
-  const keys: LdeValue[] = []
+  const keys: EncodedValue[] = []
   for (const key in counts3) {
-    keys.push(asLdeValue(key))
+    keys.push(asEncodedValue(key))
   }
   keys.sort((a, b) => (counts3[b] as number) - (counts3[a] as number))
   for (const key of keys) {
@@ -46,16 +46,16 @@ DICTIONARY_OBJECT.ScanTable = function (this: DictionaryInstance, data: unknown)
   for (const k in table) {
     const v = table[k]
     if (!isArray && this.ValidateValue(k)) {
-      this.IncreaseCount(asLdeValue(k))
+      this.IncreaseCount(asEncodedValue(k))
     }
     if (this.ValidateValue(v)) {
-      this.IncreaseCount(asLdeValue(v))
+      this.IncreaseCount(asEncodedValue(v))
     }
   }
 }
 
 DICTIONARY_OBJECT.ValidateValue = function (this: DictionaryInstance, value: unknown): boolean {
-  if (this.globalDictReverse[asLdeValue(value)] !== undefined) {
+  if (this.globalDictReverse[asEncodedValue(value)] !== undefined) {
     return false
   }
   if (type(value) === "number") {
@@ -74,7 +74,10 @@ DICTIONARY_OBJECT.ValidateValue = function (this: DictionaryInstance, value: unk
   return false
 }
 
-DICTIONARY_OBJECT.IncreaseCount = function (this: DictionaryInstance, value: LdeValue): undefined {
+DICTIONARY_OBJECT.IncreaseCount = function (
+  this: DictionaryInstance,
+  value: EncodedValue
+): undefined {
   const counts = this.counts
   if (counts[0][value] === undefined) {
     counts[0][value] = true
@@ -90,8 +93,8 @@ DICTIONARY_OBJECT.IncreaseCount = function (this: DictionaryInstance, value: Lde
 export function makeDictionary(
   this: void,
   data: unknown,
-  globalDictionary?: LdeValue[]
-): LdeValue[] {
+  globalDictionary?: EncodedValue[]
+): EncodedValue[] {
   if (type(data) !== "table") {
     return []
   }
