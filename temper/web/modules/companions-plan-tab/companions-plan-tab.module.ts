@@ -4,6 +4,6 @@ export const companionsPlanTab = {
   id: "01a06421-2528-72ff-bdf2-df35b8e3aa96",
   type: "page-type/module",
   slug: "companions-plan-tab",
-  definition: "the tab a companion plan is worked in",
+  definition: "the tab for working a companion plan",
   code: "tsx",
 } as const satisfies Module

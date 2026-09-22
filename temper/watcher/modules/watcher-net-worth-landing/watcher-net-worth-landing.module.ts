@@ -4,7 +4,7 @@ export const watcherNetWorthLanding = {
   id: "01a06381-35cf-710a-92b2-a77b0e15983e",
   type: "page-type/module",
   slug: "watcher-net-worth-landing",
-  definition: "a net worth reading landed as a jsonl line on the UTC hour it was taken in",
+  definition: "a net worth reading landed as a jsonl line on its own UTC hour",
   code: "ts",
   test: "ts",
   decisions: [
