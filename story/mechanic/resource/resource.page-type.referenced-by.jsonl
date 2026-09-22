@@ -1,7 +1,7 @@
-{"propertySlug":"extends-type","path":"story/mechanic/resource/mana/mana.page-type.ts","id":"01a0c9d4-c7da-77c4-9f49-c9efea20881a"}
 {"propertySlug":"extends-type","path":"story/mechanic/resource/stamina/stamina.page-type.ts","id":"01a0c9d4-f409-77dd-b9df-5575d1f8d994"}
 {"propertySlug":"extends-type","path":"story/mechanic/resource/tower-health/tower-health.page-type.ts","id":"01a0c9d4-9bff-7a43-87a6-fc93e4246d38"}
-{"propertySlug":"import","fileName":"resource.page-type.types.ts","path":"story/mechanic/resource/mana/mana.page-type.types.ts"}
+{"propertySlug":"extends-type","path":"story/mechanic/resource/tower-mana/tower-mana.page-type.ts","id":"01a0c9d4-c7da-77c4-9f49-c9efea20881a"}
 {"propertySlug":"import","fileName":"resource.page-type.types.ts","path":"story/mechanic/resource/stamina/stamina.page-type.types.ts"}
 {"propertySlug":"import","fileName":"resource.page-type.types.ts","path":"story/mechanic/resource/tower-health/tower-health.page-type.types.ts"}
+{"propertySlug":"import","fileName":"resource.page-type.types.ts","path":"story/mechanic/resource/tower-mana/tower-mana.page-type.types.ts"}
 {"propertySlug":"parts","path":"story/mechanic/story-mechanic.domain.ts","id":"01a0c9d1-17b6-7d9c-b632-eec6a03d35a8"}

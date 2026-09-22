@@ -11,7 +11,7 @@ export const resource = {
     "number-property/resource-min-value",
     "number-property/resource-value",
     "page-type/tower-health",
-    "page-type/mana",
+    "page-type/tower-mana",
     "page-type/stamina",
   ],
   properties: [
