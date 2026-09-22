@@ -23,5 +23,10 @@ export const inventoryEvents = {
       decisionKind: "decision-kind/departure",
       statement: "A closing bank is what dispatches the uses a visit's withdrawals earned.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A listener this module hands out to another takes a namespace under this one rather than this one.",
+    },
   ],
 } as const satisfies Module

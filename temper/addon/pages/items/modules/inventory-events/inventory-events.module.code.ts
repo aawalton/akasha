@@ -348,5 +348,5 @@ export function registerInventoryEvents(): undefined {
 
   registerAutoListResultEvents(ns)
 
-  registerAutoMaintenanceEvents(ns)
+  registerAutoMaintenanceEvents(`${ns}_Maintenance`)
 }
