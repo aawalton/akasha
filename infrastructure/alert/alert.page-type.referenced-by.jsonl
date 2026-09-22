@@ -16,7 +16,6 @@
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/git-mirror-destination-unreachable/git-mirror-destination-unreachable.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/git-mirror-metric-absent/git-mirror-metric-absent.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/git-mirror-no-destination/git-mirror-no-destination.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/git-mirror-probe-unauthenticated/git-mirror-probe-unauthenticated.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/gpu-temperature-high/gpu-temperature-high.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/job-failed/job-failed.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/k3s-apiserver-list-request-errors/k3s-apiserver-list-request-errors.alert.ts"}
