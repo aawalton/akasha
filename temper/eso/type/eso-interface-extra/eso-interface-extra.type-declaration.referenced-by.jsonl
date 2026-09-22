@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/journal-window/journal-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-main-menu/potion-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-constants/fco-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-mainmenu/fco-mainmenu.module.code.ts"}
@@ -21,7 +22,6 @@
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-strings/quiet-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-world/quiet-world.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-window/journal-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-debug/histoire-status-window-debug.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-notification/modules/notification-provider-link/notification-provider-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-notification/modules/notification-row-overrides/notification-row-overrides.module.code.ts"}

@@ -54,11 +54,29 @@ export const temperAddonCollections = {
     "module/saved-vars-protected-migrate",
     "module/saved-vars-registry",
     "module/saved-vars-types",
+    "module/journal-casts",
+    "module/journal-core",
+    "module/journal-l10n",
+    "module/journal-main",
+    "module/journal-main-menu",
+    "module/journal-shape",
+    "module/journal-sort-filter-list",
+    "module/journal-state",
+    "module/journal-tabs",
+    "module/journal-tooltip-colors",
+    "module/journal-tooltip-extension",
+    "module/journal-tooltips",
+    "module/journal-window",
+    "type-declaration/journal-control-names",
+    "type-declaration/journal-saved-variables",
+    "type-declaration/journal-string-ids",
+    "eso-interface/journal-controls",
   ],
   interfaces: [
     "eso-interface/lorebooks-report-layout",
     "eso-interface/lost-treasure-map-layout",
     "eso-interface/item-browser-layout",
+    "eso-interface/journal-controls",
   ],
   decisions: [
     {
@@ -84,6 +102,11 @@ export const temperAddonCollections = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the data a tracker keeps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The journal window, the saved-variables scopes and the treasure data are parts of this add-on.",
     },
   ],
 } as const satisfies TemperAddon

@@ -1,0 +1,9 @@
+import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
+
+export const journalSavedVariables = {
+  id: "01a0617d-5452-7163-906a-24713c416df1",
+  type: "page-type/type-declaration",
+  slug: "journal-saved-variables",
+  definition: "the tooltip colors the journal keeps between sessions",
+  d: "ts",
+} as const satisfies TypeDeclaration

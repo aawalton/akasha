@@ -1,3 +1,4 @@
+import { Public } from "akasha/temper/addon/pages/collections/modules/journal-state/journal-state.module.code.ts"
 import { header } from "akasha/temper/addon/shared/settings-panel/modules/header/header.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import {
@@ -13,7 +14,6 @@ import { hookExternalTooltips } from "akasha/temper/web/item-browser/modules/ite
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-extended-journal/lib-extended-journal.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-multi-account-sets/lib-multi-account-sets.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-item-browser-strings/eso-item-browser-strings.type-declaration.d.ts"
@@ -52,25 +52,25 @@ export function registerSettingsPanel(this: void): undefined {
       type: "colorpicker",
       name: GetString(SI_ITEM_FORMAT_STR_SET_COLLECTION_PIECE_UNLOCKED),
       getFunc: () => {
-        return LibExtendedJournal.GetTooltipColorUnpacked(1, 1)
+        return Public.GetTooltipColorUnpacked(1, 1)
       },
-      setFunc: (r, g, b) => LibExtendedJournal.SetTooltipColor(1, 1, r, g, b),
+      setFunc: (r, g, b) => Public.SetTooltipColor(1, 1, r, g, b),
     },
     {
       type: "colorpicker",
       name: GetString(SI_ITEM_FORMAT_STR_SET_COLLECTION_PIECE_LOCKED),
       getFunc: () => {
-        return LibExtendedJournal.GetTooltipColorUnpacked(1, 2)
+        return Public.GetTooltipColorUnpacked(1, 2)
       },
-      setFunc: (r, g, b) => LibExtendedJournal.SetTooltipColor(1, 2, r, g, b),
+      setFunc: (r, g, b) => Public.SetTooltipColor(1, 2, r, g, b),
     },
     {
       type: "colorpicker",
       name: GetString(SI_ACHIEVEMENTS_PROGRESS),
       getFunc: () => {
-        return LibExtendedJournal.GetTooltipColorUnpacked(1, 3)
+        return Public.GetTooltipColorUnpacked(1, 3)
       },
-      setFunc: (r, g, b) => LibExtendedJournal.SetTooltipColor(1, 3, r, g, b),
+      setFunc: (r, g, b) => Public.SetTooltipColor(1, 3, r, g, b),
     },
 
     header(GetString(SI_ITEMBROWSER_SECTION_TTCLR_A)),
@@ -78,17 +78,17 @@ export function registerSettingsPanel(this: void): undefined {
       type: "colorpicker",
       name: GetString(SI_ITEM_FORMAT_STR_SET_COLLECTION_PIECE_UNLOCKED),
       getFunc: () => {
-        return LibExtendedJournal.GetTooltipColorUnpacked(2, 1)
+        return Public.GetTooltipColorUnpacked(2, 1)
       },
-      setFunc: (r, g, b) => LibExtendedJournal.SetTooltipColor(2, 1, r, g, b),
+      setFunc: (r, g, b) => Public.SetTooltipColor(2, 1, r, g, b),
     },
     {
       type: "colorpicker",
       name: GetString(SI_ITEM_FORMAT_STR_SET_COLLECTION_PIECE_LOCKED),
       getFunc: () => {
-        return LibExtendedJournal.GetTooltipColorUnpacked(2, 2)
+        return Public.GetTooltipColorUnpacked(2, 2)
       },
-      setFunc: (r, g, b) => LibExtendedJournal.SetTooltipColor(2, 2, r, g, b),
+      setFunc: (r, g, b) => Public.SetTooltipColor(2, 2, r, g, b),
     },
 
     header(GetString(SI_ITEMBROWSER_SECTION_TTEXT)),

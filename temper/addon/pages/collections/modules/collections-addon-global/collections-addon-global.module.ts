@@ -14,7 +14,12 @@ export const collectionsAddonGlobal = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The global has this add-on's name and version and nothing else.",
+      statement: "The global has this add-on's name, its version, and what its keybinds call.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A keybind reaches the journal through this global rather than one the journal sets.",
     },
     {
       decisionKind: "decision-kind/departure",

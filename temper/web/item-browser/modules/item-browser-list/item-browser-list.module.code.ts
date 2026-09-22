@@ -1,3 +1,4 @@
+import { journalListClass } from "akasha/temper/addon/pages/collections/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"
 import {
   DATA_TYPE,
   PLEDGE_FILTER_ID,
@@ -38,7 +39,6 @@ import type {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-extended-journal/lib-extended-journal.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -81,7 +81,7 @@ function getScrollData(this: void, list: Control): ZoScrollListDataEntry<EntryDa
   return scrollData
 }
 
-const ItemBrowserList = ExtendedJournalSortFilterList.Subclass<ItemBrowserListClass>()
+const ItemBrowserList = journalListClass().Subclass<ItemBrowserListClass>()
 
 ItemBrowserList.Setup = function (this: ItemBrowserListInstance): undefined {
   ZO_ScrollList_AddDataType<EntryData>(
@@ -144,13 +144,17 @@ ItemBrowserList.Setup = function (this: ItemBrowserListInstance): undefined {
 
     if (servers.length > 1 || (servers[0] !== undefined && servers[0].accounts.length > 1)) {
       const accountControl = requireChild(this.frame, "AccountDrop")
-      requireChild<LabelControl>(accountControl, "Caption").SetText(GetString(SI_LEJ_ACCOUNT))
+      requireChild<LabelControl>(accountControl, "Caption").SetText(
+        GetString(SI_EXTENDED_JOURNAL_ACCOUNT)
+      )
       accountControl.SetHidden(false)
       this.accountDrop = ZO_ComboBox_ObjectFromContainer(accountControl)
 
       if (servers.length > 1) {
         const serverControl = requireChild(this.frame, "ServerDrop")
-        requireChild<LabelControl>(serverControl, "Caption").SetText(GetString(SI_LEJ_SERVER))
+        requireChild<LabelControl>(serverControl, "Caption").SetText(
+          GetString(SI_EXTENDED_JOURNAL_SERVER)
+        )
         serverControl.SetHidden(false)
         this.serverDrop = ZO_ComboBox_ObjectFromContainer(serverControl)
         this.InitializeComboBox(
@@ -392,9 +396,5 @@ export function createItemBrowserList(
   frame: Control,
   contextMenuItems: ContextMenuFactory[]
 ): ItemBrowserListInstance {
-  return ExtendedJournalSortFilterList.New<ItemBrowserListInstance>(
-    ItemBrowserList,
-    frame,
-    contextMenuItems
-  )
+  return journalListClass().New<ItemBrowserListInstance>(ItemBrowserList, frame, contextMenuItems)
 }

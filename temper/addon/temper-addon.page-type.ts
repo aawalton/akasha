@@ -48,7 +48,6 @@ export const temperAddon = {
     "temper-addon/temper-lib-chat-message",
     "temper-addon/temper-lib-custom-menu",
     "temper-addon/temper-lib-debug-logger",
-    "temper-addon/temper-lib-extended-journal",
     "temper-addon/temper-lib-gps",
     "temper-addon/temper-lib-histoire",
     "temper-addon/temper-lib-main-menu",

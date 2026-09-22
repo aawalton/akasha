@@ -1,3 +1,4 @@
+import { Public } from "akasha/temper/addon/pages/collections/modules/journal-state/journal-state.module.code.ts"
 import { FLAG_BROWSER_ITEM } from "akasha/temper/web/item-browser/modules/item-browser-constants/item-browser-constants.module.code.ts"
 import {
   getSelectedAccount,
@@ -8,7 +9,6 @@ import { addTooltipExtension } from "akasha/temper/web/item-browser/modules/item
 import type { EntryData } from "akasha/temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
 import "akasha/temper/addon/pages/crafting/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-extended-journal/lib-extended-journal.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
@@ -21,7 +21,7 @@ function rowOnMouseEnter(this: void, control: Control): undefined {
   getList()?.Row_OnMouseEnter(control)
 
   const itemLink = data.itemLink
-  const tooltip = LibExtendedJournal.ItemTooltip(itemLink)
+  const tooltip = Public.ItemTooltip(itemLink)
   currentTooltip = tooltip
   addTooltipExtension(
     tooltip,

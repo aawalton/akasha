@@ -1,3 +1,4 @@
+import { Public } from "akasha/temper/addon/pages/collections/modules/journal-state/journal-state.module.code.ts"
 import {
   ADDON_NAME,
   SLASH_COMMANDS_LIST,
@@ -25,7 +26,6 @@ import type { ContextMenuFactory } from "akasha/temper/web/item-browser/modules/
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-extended-journal/lib-extended-journal.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -73,7 +73,7 @@ registerContextMenuItem((data) => {
 })
 
 export function initializeBrowser(this: void): undefined {
-  LibExtendedJournal.RegisterTab(TAB_NAME, {
+  Public.RegisterTab(TAB_NAME, {
     title: SI_ITEMBROWSER_TITLE,
     order: 200,
     iconPrefix: "/esoui/art/collections/collections_tabicon_itemsets_",
@@ -153,7 +153,7 @@ function refreshBrowser(this: void, noActiveCheck?: boolean): undefined {
   if (
     getInitialized() > 1 &&
     (getDirtiness() > 0 || getAlwaysRefreshOnShow()) &&
-    (noActiveCheck === true || LibExtendedJournal.IsTabActive(TAB_NAME)) &&
+    (noActiveCheck === true || Public.IsTabActive(TAB_NAME)) &&
     list !== undefined
   ) {
     if (getDirtiness() === 1 || (getDirtiness() === 0 && getAlwaysRefreshOnShow())) {

@@ -22,7 +22,7 @@ let ARE_EXTERNAL_TOOLTIPS_HOOKED = false
 
 function tooltipHook(
   this: void,
-  control: object,
+  control: TooltipControl,
   functionName: string,
   linkFunction: LinkFn,
   flagMask?: number,

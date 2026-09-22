@@ -12,7 +12,8 @@
     "TemperLostTreasure_Account",
     "TemperLostTreasure_Character",
     "TemperDungeonChampions_SavedVariables",
-    "TemperItemBrowser_SavedVariables"
+    "TemperItemBrowser_SavedVariables",
+    "TemperCollections_TooltipColors"
   ],
   "dependsOn": [
     "LibMapPins-1.0>=10047",
@@ -21,14 +22,15 @@
     "LibGPS>=73",
     "LibMapData>=121",
     "LibDebugLogger>=274",
-    "LibNotification>=15",
-    "LibExtendedJournal>=205011"
+    "LibNotification>=15"
   ],
   "optionalDependsOn": ["DebugLogViewer", "LibMultiAccountSets", "LibUndauntedPledges"],
   "xmlFiles": {
+    "beforeBundle": ["Controls.xml"],
     "afterBundle": ["LoreBooks.xml", "LostTreasure.xml", "Browser.xml"]
   },
   "assets": [
+    "Controls.xml",
     "LoreBooks.xml",
     "Icons/book1.dds",
     "Icons/book1-invert.dds",

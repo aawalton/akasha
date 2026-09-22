@@ -1,7 +1,8 @@
+import type { JournalList } from "akasha/temper/addon/pages/collections/modules/journal-shape/journal-shape.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-extended-journal/lib-extended-journal.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
@@ -30,7 +31,7 @@ export type ContextMenuFactory = (
   data: EntryData
 ) => LuaMultiReturn<[number | string, ((this: void) => void) | number]>
 
-export interface ItemBrowserListInstance extends ExtendedJournalSortFilterList {
+export interface ItemBrowserListInstance extends JournalList {
   masterList: EntryData[]
   sortFunction:
     | ((
@@ -40,7 +41,7 @@ export interface ItemBrowserListInstance extends ExtendedJournalSortFilterList {
       ) => boolean)
     | undefined
   searchType: number
-  search: ExtendedJournalSearch
+  search: ZoStringSearch
   filterDrop: ComboBox
   searchDrop: ComboBox
   searchBox: EditControl

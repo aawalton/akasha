@@ -1,5 +1,6 @@
 import "akasha/temper/web/item-browser/modules/item-browser-global/item-browser-global.module.code.ts"
 
+import { Public } from "akasha/temper/addon/pages/collections/modules/journal-state/journal-state.module.code.ts"
 import { initializeMultiAccount } from "akasha/temper/web/item-browser/modules/item-browser-multi-account/item-browser-multi-account.module.code.ts"
 import {
   initializeSavedVariables,
@@ -14,9 +15,8 @@ import { initializeBrowser } from "akasha/temper/web/item-browser/modules/item-b
 import { hookExternalTooltips } from "akasha/temper/web/item-browser/modules/item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.code.ts"
 import { registerUiStrings } from "akasha/temper/web/item-browser/modules/item-browser-ui-strings/item-browser-ui-strings.module.code.ts"
 import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-extended-journal/lib-extended-journal.type-declaration.d.ts"
 
-LibExtendedJournal.Used = true
+Public.Used = true
 
 registerUiStrings()
 

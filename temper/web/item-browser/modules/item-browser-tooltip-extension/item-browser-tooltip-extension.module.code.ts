@@ -1,3 +1,5 @@
+import type { TooltipExtensionInstance } from "akasha/temper/addon/pages/collections/modules/journal-shape/journal-shape.module.code.ts"
+import { Public } from "akasha/temper/addon/pages/collections/modules/journal-state/journal-state.module.code.ts"
 import {
   FLAG_FULL_PIECES,
   FLAG_OTHER_SERVER,
@@ -15,7 +17,6 @@ import {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-extended-journal/lib-extended-journal.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
@@ -29,6 +30,7 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-item-browser-port/eso-item-browser-port.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-item-browser-strings/eso-item-browser-strings.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 const ITEM_CATEGORIES: number[] = [
   GAMEPAD_ITEM_CATEGORY_LIGHT_ARMOR,
@@ -116,10 +118,10 @@ function getCurrencyCost(
 
 function addTooltipExtensionToUndauntedCoffer(
   this: void,
-  tooltip: object,
+  tooltip: TooltipControl,
   itemLink: string
 ): undefined {
-  const extension = LibExtendedJournal.TooltipExtensionInitialize(true)
+  const extension = Public.TooltipExtensionInitialize(true)
 
   for (const i of $range(1, 2)) {
     const [, setName, , , maxEquipped, setId] = GetItemLinkContainerSetInfo(itemLink, i)
@@ -143,10 +145,7 @@ function addTooltipExtensionToUndauntedCoffer(
         results.push(
           string.format(
             "|c%06X%s|r",
-            LibExtendedJournal.GetTooltipColor(
-              1,
-              IsItemSetCollectionSlotUnlocked(setId, slot) ? 1 : 2
-            ),
+            Public.GetTooltipColor(1, IsItemSetCollectionSlotUnlocked(setId, slot) ? 1 : 2),
             GetString("SI_ARMORTYPE", GetItemLinkArmorType(pieceLink))
           )
         )
@@ -169,7 +168,7 @@ function addTooltipExtensionToUndauntedCoffer(
 
 export function addTooltipExtension(
   this: void,
-  tooltip: object,
+  tooltip: TooltipControl,
   itemLink: string,
   account: string | undefined,
   flagsParam: number,
@@ -209,16 +208,16 @@ export function addTooltipExtension(
     return
   }
 
-  let extension: ExtendedJournalTooltipExtension
+  let extension: TooltipExtensionInstance
   if (BitAnd(flags, FLAG_SHOW_HEADER) === FLAG_SHOW_HEADER) {
     const unlocked = countUnlockedSlots(server, account, setId)
-    extension = LibExtendedJournal.TooltipExtensionInitialize(
+    extension = Public.TooltipExtensionInitialize(
       true,
       string.format("%d/%d (%d%%)", unlocked, setSize, (100 * unlocked) / setSize),
       formatTransmuteCost(getCurrencyCost(server, account, setId, CURT_CHAOTIC_CREATIA))
     )
   } else {
-    extension = LibExtendedJournal.TooltipExtensionInitialize(false)
+    extension = Public.TooltipExtensionInitialize(false)
   }
 
   if (BitAnd(flags, FLAG_SHOW_PIECES) === FLAG_SHOW_PIECES && valid) {
@@ -250,7 +249,7 @@ export function addTooltipExtension(
             bucket.push(
               string.format(
                 "|c%06X%s|r",
-                LibExtendedJournal.GetTooltipColor(1, unlocked ? 1 : 2),
+                Public.GetTooltipColor(1, unlocked ? 1 : 2),
                 getItemSlotName(pieceLink, category === GAMEPAD_ITEM_CATEGORY_WEAPONS)
               )
             )
@@ -290,11 +289,11 @@ export function addTooltipExtension(
         let color: number
 
         if (DoesAntiquityNeedCombination(antiquityId)) {
-          color = LibExtendedJournal.GetTooltipColor(1, 1)
+          color = Public.GetTooltipColor(1, 1)
         } else if (DoesAntiquityHaveLead(antiquityId)) {
-          color = LibExtendedJournal.GetTooltipColor(1, 3)
+          color = Public.GetTooltipColor(1, 3)
         } else {
-          color = LibExtendedJournal.GetTooltipColor(1, 2)
+          color = Public.GetTooltipColor(1, 2)
           noLeads = noLeads + 1
         }
 
@@ -327,12 +326,12 @@ export function addTooltipExtension(
       for (const acct of accounts) {
         let result: string
         if (status[acct] === lmas.ITEM_UNCOLLECTED_NOTRADE) {
-          const color = LibExtendedJournal.GetTooltipColor(2, 2)
+          const color = Public.GetTooltipColor(2, 2)
           result = string.format("|c%06X|l0:0:0:50%%:2:%06X|l%s|l|r", color, color, acct)
         } else {
           result = string.format(
             "|c%06X%s|r",
-            LibExtendedJournal.GetTooltipColor(2, status[acct] === lmas.ITEM_COLLECTED ? 1 : 2),
+            Public.GetTooltipColor(2, status[acct] === lmas.ITEM_COLLECTED ? 1 : 2),
             acct
           )
         }

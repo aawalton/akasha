@@ -1,8 +1,11 @@
 <Bindings>
 	<Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
 		<Category name="SI_KEYBINDINGS_CATEGORY_EXTENDED_JOURNAL">
+			<Action name="EXTENDED_JOURNAL">
+				<Down>TemperCollections.ShowJournal()</Down>
+			</Action>
 			<Action name="ITEMBROWSER">
-				<Down>LibExtendedJournal.Show("ItemBrowser", true)</Down>
+				<Down>TemperCollections.ShowItemBrowser()</Down>
 			</Action>
 		</Category>
 	</Layer>
