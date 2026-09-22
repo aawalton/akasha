@@ -6,5 +6,6 @@ export const potionOfHaste = {
   slug: "potion-of-haste",
   title: "Potion of Haste",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldItem

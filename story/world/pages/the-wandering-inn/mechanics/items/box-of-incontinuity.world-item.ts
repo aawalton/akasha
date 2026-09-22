@@ -6,5 +6,6 @@ export const boxOfIncontinuity = {
   slug: "box-of-incontinuity",
   title: "Box of Incontinuity",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   references: "jsonl",
 } as const satisfies WorldItem

@@ -6,5 +6,6 @@ export const waterproofFabric = {
   slug: "waterproof-fabric",
   title: "Waterproof Fabric",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldItem

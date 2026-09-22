@@ -6,5 +6,6 @@ export const harpoonBolt = {
   slug: "harpoon-bolt",
   title: "Harpoon Bolt",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldItem

@@ -6,5 +6,6 @@ export const scrollOfMessages = {
   slug: "scroll-of-messages",
   title: "Scroll of Messages",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldItem

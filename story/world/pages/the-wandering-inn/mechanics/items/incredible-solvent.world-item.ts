@@ -6,5 +6,6 @@ export const incredibleSolvent = {
   slug: "incredible-solvent",
   title: "Incredible Solvent",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldItem

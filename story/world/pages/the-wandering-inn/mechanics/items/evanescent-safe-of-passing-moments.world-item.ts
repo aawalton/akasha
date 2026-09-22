@@ -6,5 +6,6 @@ export const evanescentSafeOfPassingMoments = {
   slug: "evanescent-safe-of-passing-moments",
   title: "Evanescent Safe of Passing Moments",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldItem

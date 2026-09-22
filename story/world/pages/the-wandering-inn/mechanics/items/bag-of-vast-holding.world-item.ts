@@ -6,5 +6,6 @@ export const bagOfVastHolding = {
   slug: "bag-of-vast-holding",
   title: "Bag of Vast Holding",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldItem

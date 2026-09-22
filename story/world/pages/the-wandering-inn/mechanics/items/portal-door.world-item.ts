@@ -6,5 +6,6 @@ export const portalDoor = {
   slug: "portal-door",
   title: "Portal Door",
   world: "world/the-wandering-inn",
+  appearanceCount: 24,
   references: "jsonl",
 } as const satisfies WorldItem

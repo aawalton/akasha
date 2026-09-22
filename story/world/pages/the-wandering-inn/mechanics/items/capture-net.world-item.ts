@@ -6,5 +6,6 @@ export const captureNet = {
   slug: "capture-net",
   title: "Capture Net",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldItem

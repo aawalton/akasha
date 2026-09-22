@@ -6,5 +6,6 @@ export const locusOfConnection = {
   slug: "locus-of-connection",
   title: "Locus of Connection",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldItem

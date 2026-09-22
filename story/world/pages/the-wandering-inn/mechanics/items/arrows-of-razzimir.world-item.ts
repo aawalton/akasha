@@ -6,5 +6,6 @@ export const arrowsOfRazzimir = {
   slug: "arrows-of-razzimir",
   title: "Arrows of Razzimir",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldItem
