@@ -29,6 +29,7 @@
 {"propertySlug":"extends-type","path":"code/app-routes/app-routes.page-type.ts","id":"01a08bde-996d-7a1b-9c3e-1dba85f9060d"}
 {"propertySlug":"extends-type","path":"code/audit-ast-unused/ast-unused-config/ast-unused-config.page-type.ts","id":"01a08198-1060-7b7c-b4d4-b7d8ba41baf1"}
 {"propertySlug":"extends-type","path":"code/component/component.page-type.ts","id":"01a071cb-913c-7e3f-9698-f5f4a5019a9c"}
+{"propertySlug":"extends-type","path":"code/data-table/data-table.page-type.ts","id":"01a0c946-b6a1-7375-926b-b5d5111118d0"}
 {"propertySlug":"extends-type","path":"code/eso-interface/eso-interface.page-type.ts","id":"01a06036-9b76-7bf2-b21b-2f45a8b14ac4"}
 {"propertySlug":"extends-type","path":"code/file-kind-domain/file-kind-domain.page-type.ts","id":"01a06837-0535-70c2-9917-d332b4b6a505"}
 {"propertySlug":"extends-type","path":"code/file-purpose/file-purpose.page-type.ts","id":"01a06837-0535-7469-ab8e-6bda76b453a7"}
@@ -319,6 +320,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/browser/test-harness/browser-test-harness.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/code.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/component/component.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/data-table/data-table.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/editor/editor.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/editor/extension/extension.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/editor/extension/ops-extension/ops-extension.domain.ts"}

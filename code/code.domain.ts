@@ -52,6 +52,7 @@ export const code = {
     "page-type/type-declaration",
     "page-type/workspace",
     "file-property/git-ignore",
+    "page-type/data-table",
   ],
   decisions: [
     {
