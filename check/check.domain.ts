@@ -178,6 +178,10 @@ export const check = {
       decisionKind: "decision-kind/departure",
       statement: "An audit runs in a pod holding a checkout of the commit that audit judges.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An audit reads the one commit it opened at, from its first file to its last.",
+    },
   ],
   directives: [
     {
