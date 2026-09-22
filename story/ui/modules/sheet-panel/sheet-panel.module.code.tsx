@@ -13,7 +13,11 @@ import {
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
-import type { ClientSheet } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
+import type {
+  ClientAffinity,
+  ClientSheet,
+} from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
+import { useTowerAttunements } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.code.ts"
 import { useTowerAttributes } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.code.ts"
 
 function Section({ title, children }: { title: string; children: React.ReactNode }) {
@@ -116,9 +120,11 @@ function StatsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefine
   )
 }
 
-function SkillsTab({ sheet }: { sheet: ClientSheet }) {
+function SkillsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefined }) {
   const skills = sheet.skills ?? []
-  const affinities = sheet.affinities ?? []
+  const filed = useTowerAttunements(game)
+  const kept = sheet.affinities ?? []
+  const affinities: readonly ClientAffinity[] = filed.length > 0 ? filed : kept
   const bonds = sheet.bonds ?? []
   const titles = sheet.titles ?? []
   return (
@@ -294,7 +300,7 @@ export function SheetPanel({ sheet, game }: { sheet: ClientSheet | null; game?: 
           <StatsTab sheet={sheet} game={game} />
         </TabsContent>
         <TabsContent value="skills">
-          <SkillsTab sheet={sheet} />
+          <SkillsTab sheet={sheet} game={game} />
         </TabsContent>
         <TabsContent value="items">
           <ItemsTab sheet={sheet} />
