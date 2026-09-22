@@ -34,7 +34,7 @@ export const sheetReading = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No sheet carries where one of its lines came from, because git holds that.",
+      statement: "No line read off a sheet carries where that line came from.",
     },
   ],
 } as const satisfies Module
