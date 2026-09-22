@@ -5,7 +5,7 @@ export const narrowValues = {
   type: "page-type/text-property",
   slug: "narrow-values",
   propertySlug: "values",
-  definition: "what one narrow weighs a page's value against",
+  definition: "what a narrow weighs a page's value against",
   maxLength: 200,
   nameFormat: null,
   decisions: [

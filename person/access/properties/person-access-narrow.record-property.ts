@@ -5,7 +5,7 @@ export const personAccessNarrow = {
   type: "page-type/record-property",
   slug: "person-access-narrow",
   propertySlug: "narrow",
-  definition: "the one key and value every page an access reaches holds",
+  definition: "the key and value every page an access reaches holds",
   properties: [
     { pageProperty: "text-property/access-narrow-key", required: true, many: false },
     { pageProperty: "text-property/access-narrow-is", required: true, many: false },

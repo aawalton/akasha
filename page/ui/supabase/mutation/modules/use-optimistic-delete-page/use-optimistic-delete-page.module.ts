@@ -5,6 +5,6 @@ export const useOptimisticDeletePage = {
   type: "page-type/module",
   slug: "use-optimistic-delete-page",
   definition:
-    "Takes one predicted page out of the local store, then runs the delete the caller handed in.",
+    "Takes a predicted page out of the local store, then runs the delete the caller handed in.",
   code: "ts",
 } as const satisfies Module

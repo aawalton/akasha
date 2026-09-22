@@ -4,7 +4,7 @@ export const stateSchema = {
   id: "01a05b71-e544-7bab-8507-5a3ede4ec9a0",
   type: "page-type/module",
   slug: "state-schema",
-  definition: "the whole live state of a game at one turn",
+  definition: "the whole live state of a game at a turn",
   code: "ts",
   decisions: [
     {

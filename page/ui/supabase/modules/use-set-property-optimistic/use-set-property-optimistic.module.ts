@@ -5,6 +5,6 @@ export const useSetPropertyOptimistic = {
   type: "page-type/module",
   slug: "use-set-property-optimistic",
   definition:
-    "Sets one property on one page in the local store, then sends the patch the caller handed in.",
+    "Sets a property on a page in the local store, then sends the patch the caller handed in.",
   code: "tsx",
 } as const satisfies Module

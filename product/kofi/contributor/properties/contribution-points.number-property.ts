@@ -5,7 +5,7 @@ export const contributionPoints = {
   type: "page-type/number-property",
   slug: "contribution-points",
   propertySlug: "points",
-  definition: "the points one transaction carries, positive where earned and negative where spent",
+  definition: "the points a transaction carries, positive where earned and negative where spent",
   max: 1000000000,
   decisions: [
     {

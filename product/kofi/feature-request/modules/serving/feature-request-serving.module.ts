@@ -4,7 +4,7 @@ export const featureRequestServing = {
   id: "01a0c4b2-cf45-7ceb-8448-9eb1b945d7ad",
   type: "page-type/module",
   slug: "feature-request-serving",
-  definition: "the feature requests one product has at given standings, most points first",
+  definition: "the feature requests a product has at given standings, most points first",
   code: "ts",
   test: "ts",
   decisions: [

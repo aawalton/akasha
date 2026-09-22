@@ -5,7 +5,7 @@ export const attributeScore = {
   type: "page-type/number-property",
   slug: "attribute-score",
   propertySlug: "score",
-  definition: "what an entity has in one attribute",
+  definition: "what an entity has in an attribute",
   nullable: false,
   max: null,
   types: "ts",

@@ -5,7 +5,7 @@ export const groupGranularity = {
   type: "page-type/select-property",
   slug: "group-granularity",
   propertySlug: "group-granularity",
-  definition: "how wide a stretch of time one group of a view covers",
+  definition: "how wide a stretch of time a group of a view covers",
   values: ["day", "week", "month", "year"],
   decisions: [
     {
