@@ -202,7 +202,7 @@ function createPanel(
   }
 
   const container = wm.CreateControlFromVirtual(
-    `LAMAddonPanelContainer${TEMPER_ADDON_MENU_CREATE_CONTROL.scrollCount}`,
+    `TemperAddonMenuPanelContainer${TEMPER_ADDON_MENU_CREATE_CONTROL.scrollCount}`,
     control,
     "ZO_ScrollContainer"
   )
