@@ -61,7 +61,7 @@ test("a key naming a property that keeps no file is refused", () => {
 })
 
 test("a key naming a committed file is refused", () => {
-  const done = placing(ROOT, { ...AN_IMAGE, key: "carried" }, landing())
+  const done = placing(ROOT, { ...AN_IMAGE, key: "referencedBy" }, landing())
   expect("refused" in done && done.refused).toContain("is committed")
 })
 
