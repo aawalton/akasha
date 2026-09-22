@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-page-detail/archive-of-worlds-page-detail.route.code.tsx"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"product/wandering-inn-wiki/web/routes/innworld-page-detail/innworld-page-detail.route.code.tsx"}
+{"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-line-reading/companion-skill-line-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts"}

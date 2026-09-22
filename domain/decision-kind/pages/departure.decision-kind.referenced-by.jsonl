@@ -4593,6 +4593,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-skill-executor/companion-skill-executor.module.ts","id":"01a06152-c2d2-7cd9-b804-35603434ce8d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.ts","id":"01a06152-c2d2-712b-b06f-fc0f0495ce2e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-skill-line-queries/companion-skill-line-queries.module.ts","id":"01a06152-c2d2-725e-9e7f-499e3e6fc2f0"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-skill-line-reading/companion-skill-line-reading.module.ts","id":"01a0cabd-d447-7412-a12f-936a9c39f7e3"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.ts","id":"01a06119-5ca9-7ca6-b630-d90e7f111648"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-skill-tooltip/companion-skill-tooltip.module.ts","id":"01a06152-c2d4-7d27-895d-d2dfe67c393f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-skills-00/companion-skills-00.module.ts","id":"01a06119-5caa-78e4-a842-25ceda415d9b"}
