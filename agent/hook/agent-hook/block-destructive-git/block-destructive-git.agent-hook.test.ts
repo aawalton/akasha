@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
 import {
+  judgedFor,
   refusalFor,
   refusalIn,
   SCOPE,
@@ -9,6 +10,19 @@ import { payloadOf } from "akasha/agent/hook/test-fixtures/payload/hook-payload.
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-destructive-git.agent-hook.code.ts")
+
+test("the judgement this hook exports refuses what its rule refuses", () => {
+  const said = judgedFor({ tool_input: { command: "git stash" } })
+
+  expect(said.err).toContain("block-destructive-git refused this call.")
+})
+
+test("the judgement this hook exports leaves a call its rule lets through alone", () => {
+  const said = judgedFor({ tool_input: { command: "git status" } })
+
+  expect(said.out).toBe("")
+  expect(said.err).toBe("")
+})
 
 const ACTS = [
   "stash",
