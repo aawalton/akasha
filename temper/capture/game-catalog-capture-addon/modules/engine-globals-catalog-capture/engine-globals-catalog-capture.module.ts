@@ -27,25 +27,24 @@ export const engineGlobalsCatalogCapture = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The game saves no word longer than two thousand characters.",
+      statement: "The game refuses some words, and says only that the word was invalid.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "One word the game will not save loses everything saved beside that word.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement:
-        "A word is saved with its quotes escaped, so saving takes more room than the word.",
+      statement: "One word the game refuses loses every constant saved beside that word.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A word is kept only where that word is far enough under the ceiling to escape safely.",
+        "No word a global holds is saved, because which words the game refuses is unknown.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A word too long is passed over, and its name and its length are kept.",
+      statement: "A global holding a word is kept as that global's name alone.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "The word a global holds is captured.",
     },
     {
       decisionKind: "decision-kind/departure",
