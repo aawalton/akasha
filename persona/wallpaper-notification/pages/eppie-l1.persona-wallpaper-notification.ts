@@ -6,5 +6,5 @@ export const eppieL1 = {
   slug: "eppie-l1",
   title: "eppie L01 wallpaper notified",
   persona: "persona/eppie",
-  relationshipLevel: 1,
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies PersonaWallpaperNotification

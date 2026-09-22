@@ -6,5 +6,5 @@ export const ceriL1 = {
   slug: "ceri-l1",
   title: "ceri L01 wallpaper notified",
   persona: "persona/ceri",
-  relationshipLevel: 1,
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies PersonaWallpaperNotification

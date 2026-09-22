@@ -372,7 +372,6 @@
 {"propertySlug":"decision-kind","path":"person/modules/device-token-registration/device-token-registration.module.ts","id":"01a05c96-89f5-741d-a9a3-65ffde3552f4"}
 {"propertySlug":"decision-kind","path":"person/pages/ki/collection-template/ki-collection-template.page-type.ts","id":"01a06825-d0ec-7fb0-9159-d7bc2e559c43"}
 {"propertySlug":"decision-kind","path":"person/sms-consent/sms-consent.page-type.ts","id":"019f830f-5026-7e88-9c08-a7cb23b14ef1"}
-{"propertySlug":"decision-kind","path":"persona/closeness-level/properties/relationship-level.number-property.ts","id":"01a0655b-4a9b-7002-96a4-5f01bb918e88"}
 {"propertySlug":"decision-kind","path":"persona/pages/amy/amy.persona.ts","id":"019eb900-4c8c-7304-aae1-b287c6b53b3e"}
 {"propertySlug":"decision-kind","path":"persona/pages/dalla/dalla.persona.ts","id":"019f22ad-945f-7a99-8f94-02bc3813d6bc"}
 {"propertySlug":"decision-kind","path":"persona/pages/ryn/ryn.persona.ts","id":"019f280a-96ef-7ec1-96c7-92d2acfc2fb7"}

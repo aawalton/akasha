@@ -5,6 +5,6 @@ export const image8a489e5481850dfb = {
   type: "page-type/image",
   slug: "image-8a489e5481850dfb",
   title: "Aine — wallpaper L01 (Bonding)",
-  relationshipLevel: 1,
   esoDay: "2026-07-05",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

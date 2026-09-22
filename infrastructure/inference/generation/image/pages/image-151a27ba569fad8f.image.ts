@@ -5,6 +5,6 @@ export const image151a27ba569fad8f = {
   type: "page-type/image",
   slug: "image-151a27ba569fad8f",
   title: "Ali — wallpaper L01 (Experimenting)",
-  relationshipLevel: 1,
   esoDay: "2026-07-05",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

@@ -6,5 +6,5 @@ export const auraL5 = {
   slug: "aura-l5",
   title: "aura L05 wallpaper notified",
   persona: "persona/aura",
-  relationshipLevel: 5,
+  relationshipLevel: "closeness-level/level-5",
 } as const satisfies PersonaWallpaperNotification

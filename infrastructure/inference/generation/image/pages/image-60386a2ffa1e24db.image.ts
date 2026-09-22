@@ -5,6 +5,6 @@ export const image60386a2ffa1e24db = {
   type: "page-type/image",
   slug: "image-60386a2ffa1e24db",
   title: "Aranya — wallpaper L01 (Initiating)",
-  relationshipLevel: 1,
   esoDay: "2026-07-05",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

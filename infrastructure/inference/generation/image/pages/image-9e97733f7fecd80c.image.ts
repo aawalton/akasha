@@ -5,6 +5,6 @@ export const image9e97733f7fecd80c = {
   type: "page-type/image",
   slug: "image-9e97733f7fecd80c",
   title: "Atlas — wallpaper L01 (Initiating)",
-  relationshipLevel: 1,
   esoDay: "2026-07-05",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

@@ -5,6 +5,6 @@ export const image19ca0ac7d4828e1f = {
   type: "page-type/image",
   slug: "image-19ca0ac7d4828e1f",
   title: "Athena — wallpaper L01 (Bonding)",
-  relationshipLevel: 1,
   esoDay: "2026-07-05",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

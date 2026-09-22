@@ -5,5 +5,5 @@ export const imageFfc729217997b54b = {
   type: "page-type/image",
   slug: "image-ffc729217997b54b",
   title: "Aura cover L5",
-  relationshipLevel: 5,
+  relationshipLevel: "closeness-level/level-5",
 } as const satisfies Image

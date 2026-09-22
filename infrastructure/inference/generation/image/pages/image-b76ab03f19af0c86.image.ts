@@ -5,5 +5,5 @@ export const imageB76ab03f19af0c86 = {
   type: "page-type/image",
   slug: "image-b76ab03f19af0c86",
   title: "Echo cover L5",
-  relationshipLevel: 5,
+  relationshipLevel: "closeness-level/level-5",
 } as const satisfies Image

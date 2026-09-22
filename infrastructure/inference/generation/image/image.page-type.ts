@@ -24,7 +24,7 @@ export const image = {
       uncommitted: true,
     },
     { pageProperty: "relation-property/image-persona", required: false, many: false },
-    { pageProperty: "number-property/relationship-level", required: false, many: false },
+    { pageProperty: "relation-property/relationship-level", required: false, many: false },
     { pageProperty: "text-property/eso-day", required: false, many: false },
   ],
   decisions: [

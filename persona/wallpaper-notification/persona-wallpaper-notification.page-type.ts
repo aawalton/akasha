@@ -14,7 +14,7 @@ export const personaWallpaperNotification = {
       required: true,
       many: false,
     },
-    { pageProperty: "number-property/relationship-level", required: true, many: false },
+    { pageProperty: "relation-property/relationship-level", required: true, many: false },
   ],
   decisions: [
     {

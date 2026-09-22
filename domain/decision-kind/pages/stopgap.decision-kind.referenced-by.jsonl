@@ -64,7 +64,6 @@
 {"propertySlug":"decision-kind","path":"page/ui-store/page-ui-store.domain.ts","id":"01a05b69-455c-7bbd-8f3b-b2c3946559fc"}
 {"propertySlug":"decision-kind","path":"page/view/properties/narrow-values.text-property.ts","id":"01a063ee-2a3b-74ff-8037-ee9c7cf9f335"}
 {"propertySlug":"decision-kind","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
-{"propertySlug":"decision-kind","path":"persona/closeness-level/properties/relationship-level.number-property.ts","id":"01a0655b-4a9b-7002-96a4-5f01bb918e88"}
 {"propertySlug":"decision-kind","path":"persona/craft-day/properties/green-day.number-property.ts","id":"01a0655b-4a9b-7008-9a0b-56117a559064"}
 {"propertySlug":"decision-kind","path":"persona/properties/last-messaged-at.text-property.ts","id":"01a05398-caad-7428-b9a6-ec3a8f09470c"}
 {"propertySlug":"decision-kind","path":"persona/properties/mobile-wallpaper.relation-property.ts","id":"01a0c61d-f8be-7dee-97dc-2a9bb1313d4f"}

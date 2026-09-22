@@ -6,5 +6,5 @@ export const irisL1 = {
   slug: "iris-l1",
   title: "iris L01 wallpaper notified",
   persona: "persona/iris",
-  relationshipLevel: 1,
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies PersonaWallpaperNotification

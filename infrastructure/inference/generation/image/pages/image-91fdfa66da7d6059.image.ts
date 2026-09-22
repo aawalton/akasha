@@ -5,6 +5,6 @@ export const image91fdfa66da7d6059 = {
   type: "page-type/image",
   slug: "image-91fdfa66da7d6059",
   title: "Mari — wallpaper L01 (Bonding)",
-  relationshipLevel: 1,
   esoDay: "2026-07-05",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

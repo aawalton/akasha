@@ -5,6 +5,6 @@ export const imageB98658bca32a37e7 = {
   type: "page-type/image",
   slug: "image-b98658bca32a37e7",
   title: "Ruby — wallpaper L01 (Initiating)",
-  relationshipLevel: 1,
   esoDay: "2026-07-05",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

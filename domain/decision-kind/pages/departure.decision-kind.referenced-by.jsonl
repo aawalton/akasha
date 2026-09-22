@@ -3327,7 +3327,7 @@
 {"propertySlug":"decision-kind","path":"persona/closeness-level/closeness-level.page-type.ts","id":"01a0540e-5111-7164-acb3-f776b18d8b45"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/properties/points-to-here.number-property.ts","id":"01a0541b-6a82-72e4-a9db-75b5573cc8ee"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/properties/points-to-next.number-property.ts","id":"01a0541b-6a83-7beb-9eb1-d13e2108d749"}
-{"propertySlug":"decision-kind","path":"persona/closeness-level/properties/relationship-level.number-property.ts","id":"01a0655b-4a9b-7002-96a4-5f01bb918e88"}
+{"propertySlug":"decision-kind","path":"persona/closeness-level/properties/relationship-level.relation-property.ts","id":"01a0655b-4a9b-7002-96a4-5f01bb918e88"}
 {"propertySlug":"decision-kind","path":"persona/craft-day/persona-craft-day.page-type.ts","id":"01a0655b-4a9b-700e-86cf-9bc6a7104f89"}
 {"propertySlug":"decision-kind","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.ts","id":"01a0786b-2a28-7d50-91e5-a54586893638"}
 {"propertySlug":"decision-kind","path":"persona/modules/reading/persona-reading.module.ts","id":"01a06949-b280-754e-ac40-fe17b061a1af"}

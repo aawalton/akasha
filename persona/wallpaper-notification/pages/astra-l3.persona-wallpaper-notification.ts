@@ -6,5 +6,5 @@ export const astraL3 = {
   slug: "astra-l3",
   title: "astra L03 wallpaper notified",
   persona: "persona/astra",
-  relationshipLevel: 3,
+  relationshipLevel: "closeness-level/level-3",
 } as const satisfies PersonaWallpaperNotification

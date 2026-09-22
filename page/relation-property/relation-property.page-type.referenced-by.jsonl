@@ -116,6 +116,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/device-token/properties/device-token-person.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/properties/answered-by.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/properties/person-contributor.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/closeness-level/properties/relationship-level.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/craft-day/properties/craft-day-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/anchor-image.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/championed-domain.relation-property.ts"}

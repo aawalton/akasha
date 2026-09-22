@@ -253,7 +253,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/closeness-level/properties/level.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/closeness-level/properties/points-to-here.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/closeness-level/properties/points-to-next.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/closeness-level/properties/relationship-level.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/craft-day/properties/advance-count.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/craft-day/properties/green-day.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/craft-day/properties/improvement-count.number-property.ts"}

@@ -5,5 +5,5 @@ export const image2338440d86cfd267 = {
   type: "page-type/image",
   slug: "image-2338440d86cfd267",
   title: "Ruby cover L1",
-  relationshipLevel: 1,
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

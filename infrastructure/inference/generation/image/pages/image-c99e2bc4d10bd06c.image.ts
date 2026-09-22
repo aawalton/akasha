@@ -5,6 +5,6 @@ export const imageC99e2bc4d10bd06c = {
   type: "page-type/image",
   slug: "image-c99e2bc4d10bd06c",
   title: "Ione — wallpaper L01 (Experimenting)",
-  relationshipLevel: 1,
   esoDay: "2026-07-05",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

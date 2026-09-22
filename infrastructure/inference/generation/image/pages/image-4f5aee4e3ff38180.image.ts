@@ -5,5 +5,5 @@ export const image4f5aee4e3ff38180 = {
   type: "page-type/image",
   slug: "image-4f5aee4e3ff38180",
   title: "Nimue cover L2",
-  relationshipLevel: 2,
+  relationshipLevel: "closeness-level/level-2",
 } as const satisfies Image
