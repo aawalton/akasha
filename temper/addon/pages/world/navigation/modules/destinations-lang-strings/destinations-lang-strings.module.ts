@@ -6,4 +6,11 @@ export const destinationsLangStrings = {
   slug: "destinations-lang-strings",
   definition: "the client language chosen and the settings and collectible strings answered for it",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A name registered as a string id is a key of the settings strings, and no other name is.",
+    },
+  ],
 } as const satisfies Module

@@ -694,6 +694,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-lang-settings-zh-00/destinations-lang-settings-zh-00.module.ts","id":"01a06269-2a30-7dc9-99dd-02dd9583dbbe"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-lang-settings-zh-01/destinations-lang-settings-zh-01.module.ts","id":"01a06269-2a32-7fe5-90be-cf6544ef2f17"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-lang-settings-zh-02/destinations-lang-settings-zh-02.module.ts","id":"01a06269-2a33-7bca-9ec1-ace32e5e3b94"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.ts","id":"01a06269-290f-76e6-aa2e-b6deb157cb57"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-poi-data-00/destinations-poi-data-00.module.ts","id":"01a06269-29c2-7371-a2a8-9c0936a66150"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-poi-data-01/destinations-poi-data-01.module.ts","id":"01a06269-29c3-753d-9c83-6f73fae87d9f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-poi-data-02/destinations-poi-data-02.module.ts","id":"01a06269-29c4-7c85-a2e4-2b86aea17f4d"}
