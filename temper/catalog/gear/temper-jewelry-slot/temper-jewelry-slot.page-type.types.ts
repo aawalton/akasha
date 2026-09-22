@@ -8,5 +8,5 @@ export type TemperJewelrySlot = TemperCatalogThing & {
   key: Key
   displayOrder: DisplayOrder
   icon: Icon
-  typeId: JewelryTypeId
+  jewelryType: JewelryTypeId
 }

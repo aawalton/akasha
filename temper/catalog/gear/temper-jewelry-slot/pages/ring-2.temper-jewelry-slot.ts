@@ -8,5 +8,5 @@ export const ring2 = {
   key: "ring-2",
   icon: "/resources/gearslot_ring.png",
   displayOrder: 2,
-  typeId: "ring",
+  jewelryType: "ring",
 } as const satisfies TemperJewelrySlot
