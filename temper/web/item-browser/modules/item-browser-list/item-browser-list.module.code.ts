@@ -87,7 +87,7 @@ ItemBrowserList.Setup = function (this: ItemBrowserListInstance): undefined {
   ZO_ScrollList_AddDataType<EntryData>(
     this.list,
     DATA_TYPE,
-    "ItemBrowserListRow",
+    "TemperWorldItemBrowserListRow",
     30,
     (control, data) => {
       this.SetupItemRow(control, data)

@@ -77,7 +77,7 @@ export function initializeBrowser(this: void): undefined {
     title: SI_ITEMBROWSER_TITLE,
     order: 200,
     iconPrefix: "/esoui/art/collections/collections_tabicon_itemsets_",
-    control: ItemBrowserFrame,
+    control: TemperWorldItemBrowserFrame,
     settingsPanel: getSettingsPanel(),
     binding: "ITEMBROWSER",
     slashCommands: SLASH_COMMANDS_LIST,
@@ -133,7 +133,7 @@ function lazyInitializeBrowser(this: void): undefined {
   }
   setMultiStyle(multiStyle)
 
-  setList(createItemBrowserList(ItemBrowserFrame, CONTEXT_MENU_ITEMS))
+  setList(createItemBrowserList(TemperWorldItemBrowserFrame, CONTEXT_MENU_ITEMS))
 
   registerCollectionCallbacks(refreshCollections)
 

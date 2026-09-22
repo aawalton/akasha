@@ -1,6 +1,6 @@
 <GuiXml>
 	<Controls>
-		<Control name="ItemBrowserListRow" mouseEnabled="true" virtual="true">
+		<Control name="TemperWorldItemBrowserListRow" mouseEnabled="true" virtual="true">
 			<Dimensions y="30" />
 			<OnMouseEnter>
 				TemperWorldItemBrowserListRow_OnMouseEnter(self)
@@ -37,7 +37,7 @@
 			</Controls>
 		</Control>
 
-		<Control name="ItemBrowserFrame" hidden="true">
+		<Control name="TemperWorldItemBrowserFrame" hidden="true">
 			<Controls>
 				<Control name="$(parent)FilterDrop" inherits="ZO_ComboBox">
 					<Anchor point="TOPRIGHT" relativePoint="TOPRIGHT" offsetX="-38" offsetY="14" />
