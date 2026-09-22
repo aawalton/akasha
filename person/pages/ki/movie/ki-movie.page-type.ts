@@ -4,7 +4,7 @@ export const kiMovie = {
   id: "01a06825-d0ec-7654-8084-1e099d039f38",
   type: "page-type/page-type",
   slug: "ki-movie",
-  definition: "a story Ki watches in one sitting",
+  definition: "a story Ki watches in a sitting",
   extends: ["page-type/ki-collection-template"],
   decisions: [
     {

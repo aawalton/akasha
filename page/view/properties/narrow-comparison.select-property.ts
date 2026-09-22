@@ -5,7 +5,7 @@ export const narrowComparison = {
   type: "page-type/select-property",
   slug: "narrow-comparison",
   propertySlug: "comparison",
-  definition: "how one narrow weighs a page's value against what it names",
+  definition: "how a narrow weighs a page's value against what it names",
   values: ["is", "in", "not-in", "has", "contains", "ends-with", "empty", "at-or-after", "before"],
   decisions: [
     {

@@ -4,7 +4,7 @@ export const mechanicRun = {
   id: "01a0c4b7-c153-7b45-9b11-437810dd0ca8",
   type: "page-type/module",
   slug: "mechanic-run",
-  definition: "one row of what a mechanic was handed and what that mechanic answered",
+  definition: "a row of what a mechanic was handed and what that mechanic answered",
   code: "ts",
   test: "ts",
   decisions: [

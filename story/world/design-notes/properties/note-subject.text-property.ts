@@ -5,7 +5,7 @@ export const noteSubject = {
   type: "page-type/text-property",
   slug: "note-subject",
   propertySlug: "subject",
-  definition: "what one working document is about",
+  definition: "what a working document is about",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

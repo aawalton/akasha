@@ -5,7 +5,7 @@ export const featureRequestBoosts = {
   type: "page-type/record-property",
   slug: "feature-request-boosts",
   propertySlug: "boosts",
-  definition: "one contributor's weight behind a feature request",
+  definition: "a contributor's weight behind a feature request",
   properties: [
     { pageProperty: "relation-property/feature-request-booster", required: true, many: false },
     { pageProperty: "number-property/contribution-points", required: true, many: false },

@@ -4,7 +4,7 @@ export const emailMessage = {
   id: "01a06828-59d3-79b5-a23b-24604d220bf0",
   type: "page-type/page-type",
   slug: "email-message",
-  definition: "one piece of mail in a person's account",
+  definition: "a piece of mail in a person's account",
   extends: ["page-type/page"],
   decisions: [
     {

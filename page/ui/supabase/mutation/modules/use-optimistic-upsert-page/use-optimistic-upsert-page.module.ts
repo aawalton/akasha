@@ -5,6 +5,6 @@ export const useOptimisticUpsertPage = {
   type: "page-type/module",
   slug: "use-optimistic-upsert-page",
   definition:
-    "Overlays a predicted upsert on one page in the local store, then runs the caller's upsert.",
+    "Overlays a predicted upsert on a page in the local store, then runs the caller's upsert.",
   code: "ts",
 } as const satisfies Module

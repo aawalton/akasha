@@ -4,6 +4,6 @@ export const usePage = {
   id: "01a0610c-4306-753f-9ca1-222dd831d0f6",
   type: "page-type/module",
   slug: "use-page",
-  definition: "one page read live with its content tier attached",
+  definition: "a page read live with its content tier attached",
   code: "ts",
 } as const satisfies Module

@@ -5,7 +5,7 @@ export const selah = {
   type: "page-type/persona",
   slug: "selah",
   cover: "/api/image/019f324d-657c-7667-ae9c-a4d0e2557563",
-  definition: "an angel of prayer who kneels beside one person so nobody prays into an empty room",
+  definition: "an angel of prayer who kneels beside a person so nobody prays into an empty room",
   purpose:
     "Serve as Alan's companion in prayer — kneel beside him so he never prays into an empty room, draw the day's noise out of his mind, and make the reach upward feel like being cherished, never like a duty owed.",
   portrait: "md",
