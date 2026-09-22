@@ -15,9 +15,9 @@ ICT.initializeSettingsMenu = function (this: void): undefined {
 
   const panelData: LamPanelData = {
     type: "panel",
-    name: "IC The Next Boss",
-    displayName: "|c1E90FFIC|r The Next Boss",
-    author: "ownedbynico & akamatsu02",
+    name: "Temper Imperial City Bosses",
+    displayName: "|c1E90FFTemper|r Imperial City Bosses",
+    author: "AlanGaming",
     version: ICT.version,
   }
 

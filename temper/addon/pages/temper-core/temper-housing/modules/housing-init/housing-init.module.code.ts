@@ -164,10 +164,6 @@ function houseTravelOnInitialize(this: void): undefined {
     houseTravel.Version12NameFix(i)
   }
 
-  if (GetDisplayName() === "@s0rdrak") {
-    houseTravel.config.houseDebug = true
-  }
-
   if (houseTravel.savedVars.selectedMyHousesSort !== undefined) {
     houseTravel.addonState.selectedMyHousesSort = houseTravel.savedVars.selectedMyHousesSort
   }

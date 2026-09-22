@@ -22,7 +22,7 @@ import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaratio
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-pins/eso-world-map-pins.type-declaration.d.ts"
 
-MAP_MODE_VOTANS_MINIMAP = MINIMAP_MAP_MODE
+MAP_MODE_TEMPER_MINIMAP = MINIMAP_MAP_MODE
 
 export function noOp(this: void, ..._args: unknown[]): undefined {}
 

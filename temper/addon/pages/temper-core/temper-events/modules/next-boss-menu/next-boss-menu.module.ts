@@ -16,9 +16,5 @@ export const nextBossMenu = {
       decisionKind: "decision-kind/departure",
       statement: "The saved variables are read before the panel is built.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The panel names the two authors this tracker was ported from.",
-    },
   ],
 } as const satisfies Module

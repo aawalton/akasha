@@ -266,7 +266,7 @@ export function buildMapControls(
       type: "checkbox",
       name: "Player pin: Ping pong effect",
       tooltip:
-        "If you open the map the player pin will ping pong in it's size between big and small. This will work with a keybind (check the controls) as well, even on 'Votans Minimap'",
+        "If you open the map the player pin will ping pong in it's size between big and small. This will work with a keybind (check the controls) as well, even on the mini map",
       getFunc: () => settings.pingPongPlayerPinOnMapOpen === true,
       setFunc: (value) => {
         settings.pingPongPlayerPinOnMapOpen = value

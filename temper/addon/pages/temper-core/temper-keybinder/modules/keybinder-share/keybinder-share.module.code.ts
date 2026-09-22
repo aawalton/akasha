@@ -22,7 +22,7 @@ import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declarat
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 
-const SYNC_IDENTIFIER = "TEMPER_VOTANS_SYNCKEYBINDINGS"
+const SYNC_IDENTIFIER = "TEMPER_KEYBINDER_SYNC"
 
 export function createBindingList(this: void): undefined {
   const masterList: Record<string, VkBind[] | undefined> = {}

@@ -34,7 +34,7 @@ function showTooltip(this: void, ...args: unknown[]): undefined {
 
 function createCheckBox(this: void, control: Control): Control {
   const checkBox = WINDOW_MANAGER.CreateControlFromVirtual(
-    "$(parent)VotansKeybindGlobal",
+    "$(parent)TemperKeybindGlobal",
     control,
     "ZO_TriStateCheckButton"
   )
@@ -66,7 +66,7 @@ export function hookKeybindsScrollList(this: void): undefined {
   const orgSetupCallback = dataType.setupCallback
   dataType.setupCallback = (control, data, ...args) => {
     orgSetupCallback(control, data, ...args)
-    let checkBox = control.GetNamedChild("VotansKeybindGlobal")
+    let checkBox = control.GetNamedChild("TemperKeybindGlobal")
     if (checkBox === undefined) {
       checkBox = createCheckBox(control)
     }

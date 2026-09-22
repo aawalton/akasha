@@ -1,4 +1,4 @@
-declare let MAP_MODE_VOTANS_MINIMAP: number | undefined
+declare let MAP_MODE_TEMPER_MINIMAP: number | undefined
 
 declare const BMU: { toggleZoneGuide?: unknown } | undefined
 

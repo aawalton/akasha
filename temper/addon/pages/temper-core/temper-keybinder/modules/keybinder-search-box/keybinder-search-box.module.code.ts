@@ -27,7 +27,7 @@ function setDefaultText(this: void, control: EditControl, text: string): undefin
 export function setupControl(this: void): undefined {
   const templateName = "ZO_InventorySearchTemplate"
   const bagSearchBg = WINDOW_MANAGER.CreateControlFromVirtual<BackdropControl>(
-    "$(parent)VotansKeybinderSearch",
+    "$(parent)TemperKeybinderSearch",
     ZO_Keybindings,
     templateName
   )
@@ -55,7 +55,7 @@ export function setupControl(this: void): undefined {
     "ZO_CloseButton"
   )
 
-  const votansKeybinderFocusGained = (): boolean => {
+  const keybinderFocusGained = (): boolean => {
     setDefaultText(bagSearch, "")
     bagSearchBg.SetAlpha(0.25)
     bagSearchBg.SetWidth(EXPANDED_WIDTH)
@@ -63,7 +63,7 @@ export function setupControl(this: void): undefined {
     closeButton.SetHidden(false)
     return false
   }
-  const votansKeybinderFocusLost = (): boolean => {
+  const keybinderFocusLost = (): boolean => {
     if (bagSearch.GetText() !== "") {
       bagSearchBg.SetAlpha(0.25)
       bagSearchBg.SetWidth(EXPANDED_WIDTH)
@@ -75,13 +75,13 @@ export function setupControl(this: void): undefined {
     setDefaultText(bagSearch, GLASS)
     return false
   }
-  const votansKeybinderTextChanged = (): boolean => {
+  const keybinderTextChanged = (): boolean => {
     if (WINDOW_MANAGER.GetFocusControl() !== bagSearch) {
-      return votansKeybinderFocusLost()
+      return keybinderFocusLost()
     }
     return false
   }
-  const votansKeybinderCloseClick = (): undefined => {
+  const keybinderCloseClick = (): undefined => {
     bagSearch.SetText("")
     PlaySound(SOUNDS.DEFAULT_CLICK ?? "")
   }
@@ -89,7 +89,7 @@ export function setupControl(this: void): undefined {
   closeButton.ClearAnchors()
   closeButton.SetAnchor(TOPLEFT, bagSearch, TOPRIGHT, 0, 4)
   closeButton.SetHidden(true)
-  closeButton.SetHandler("OnMouseDown", votansKeybinderCloseClick)
+  closeButton.SetHandler("OnMouseDown", keybinderCloseClick)
   closeButton.SetInheritAlpha(false)
 
   bagSearchBg.SetEdgeTexture(
@@ -111,7 +111,7 @@ export function setupControl(this: void): undefined {
   } else {
     bagSearch.SetDefaultTextColor(1, 1, 1, 1)
   }
-  votansKeybinderFocusLost()
+  keybinderFocusLost()
 
   bagSearch.SetHandler("OnEscape", () => {
     bagSearch.LoseFocus()
@@ -125,7 +125,7 @@ export function setupControl(this: void): undefined {
     bagSearch.LoseFocus()
   })
 
-  ZO_PreHookHandler(bagSearch, "OnFocusGained", votansKeybinderFocusGained)
-  ZO_PreHookHandler(bagSearch, "OnFocusLost", votansKeybinderFocusLost)
-  ZO_PreHookHandler(bagSearch, "OnTextChanged", votansKeybinderTextChanged)
+  ZO_PreHookHandler(bagSearch, "OnFocusGained", keybinderFocusGained)
+  ZO_PreHookHandler(bagSearch, "OnFocusLost", keybinderFocusLost)
+  ZO_PreHookHandler(bagSearch, "OnTextChanged", keybinderTextChanged)
 }

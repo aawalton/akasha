@@ -269,8 +269,8 @@ export function playerPinPingPong(this: void, fromKeybind?: boolean): undefined 
   if (myPin !== undefined) {
     let scaling = settings.pingPongPlayerPinOnMapOpenScaling
     if (
-      MAP_MODE_VOTANS_MINIMAP !== undefined &&
-      ZO_WorldMap_GetMode() === MAP_MODE_VOTANS_MINIMAP
+      MAP_MODE_TEMPER_MINIMAP !== undefined &&
+      ZO_WorldMap_GetMode() === MAP_MODE_TEMPER_MINIMAP
     ) {
       scaling = 2
     }
