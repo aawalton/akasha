@@ -6,13 +6,20 @@ import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-02/eso-objects-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/trading-constants/trading-constants.module.code.ts"
+import {
+  drawSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
 
 const WINDOW_NAME = "TemperItemsListingsTraderInfo"
 const WINDOW_WIDTH = 280
 const LABEL_HEIGHT = 22
 const PAD = 8
+const PANEL_OPACITY = 0.7
+const PANEL_LEVEL: SurfaceLevel = 1
 
 export interface TraderKioskInfo {
   register: (this: void) => undefined
@@ -70,17 +77,13 @@ function buildInfoWindow(this: void): InfoWidgets {
   tlw.ClearAnchors()
   tlw.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, 80, 360)
 
-  const bg = WINDOW_MANAGER.CreateControl("$(parent)BG", tlw, CT_BACKDROP)
-  bg.SetAnchorFill()
-  bg.SetCenterColor(0, 0, 0, 0.7)
-  bg.SetEdgeColor(0, 0, 0, 0)
-  bg.SetEdgeTexture(undefined, 1, 1, 1)
+  drawSurface(tlw, PANEL_LEVEL, PANEL_OPACITY)
 
   const label = WINDOW_MANAGER.CreateControl(`${WINDOW_NAME}Label`, tlw, CT_LABEL)
   label.SetAnchor(TOPLEFT, tlw, TOPLEFT, PAD, PAD)
   label.SetDimensions(WINDOW_WIDTH - PAD * 2, LABEL_HEIGHT)
   label.SetFont("$(BOLD_FONT)|16|shadow")
-  label.SetColor(1, 1, 1, 1)
+  label.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
   label.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
 
   return { tlw, label }

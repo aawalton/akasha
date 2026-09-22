@@ -9,6 +9,10 @@ import {
   createMovableWindow,
   type MovableWindowHandle,
 } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
+import {
+  drawSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -28,6 +32,8 @@ const HEADER_HEIGHT = 22
 const ROW_HEIGHT = 18
 const ROW_GAP = 2
 const MIN_WIDTH = 200
+const PANEL_OPACITY = 0.5
+const PANEL_LEVEL: SurfaceLevel = 1
 
 interface PanelState {
   tlw: TopLevelWindow
@@ -51,11 +57,7 @@ export function initializeBankActionPanel(): undefined {
   tlw.SetHidden(true)
   tlw.SetDimensions(MIN_WIDTH, HEADER_HEIGHT + PADDING_Y * 2)
 
-  const bg = WINDOW_MANAGER.CreateControl("$(parent)BG", tlw, CT_BACKDROP)
-  bg.SetAnchorFill()
-  bg.SetCenterColor(0, 0, 0, 0.5)
-  bg.SetEdgeColor(0, 0, 0, 0)
-  bg.SetEdgeTexture(undefined, 1, 1, 1)
+  const bg = drawSurface(tlw, PANEL_LEVEL, PANEL_OPACITY)
 
   const header = WINDOW_MANAGER.CreateControl("$(parent)Header", tlw, CT_LABEL)
   header.SetAnchor(TOPLEFT, tlw, TOPLEFT, PADDING_X, PADDING_Y)
