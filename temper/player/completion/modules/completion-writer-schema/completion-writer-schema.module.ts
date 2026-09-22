@@ -4,6 +4,6 @@ export const completionWriterSchema = {
   id: "01a0607a-9cbc-744c-801a-ac572d86a811",
   type: "page-type/module",
   slug: "completion-writer-schema",
-  definition: "the zod shapes a completion capture is checked against",
+  definition: "the zod shapes checking a completion capture",
   code: "ts",
 } as const satisfies Module

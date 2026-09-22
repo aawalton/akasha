@@ -5,7 +5,7 @@ export const filterTypeSpecific = {
   type: "page-type/number-property",
   slug: "filter-type-specific",
   propertySlug: "filter-type-specific",
-  definition: "the narrower tab the game files an item under",
+  definition: "the narrower tab the game gives an item",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

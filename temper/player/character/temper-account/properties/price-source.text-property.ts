@@ -5,7 +5,7 @@ export const priceSource = {
   type: "page-type/text-property",
   slug: "price-source",
   propertySlug: "price-source",
-  definition: "the addon the gold figures on a reading came from",
+  definition: "the addon giving the gold figures on a reading",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

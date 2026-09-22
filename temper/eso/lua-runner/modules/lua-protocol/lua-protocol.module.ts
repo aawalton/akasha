@@ -4,7 +4,7 @@ export const luaProtocol = {
   id: "01a06059-2491-7831-9607-9a067a9a884b",
   type: "page-type/module",
   slug: "lua-protocol",
-  definition: "the sentinels and the answer shape the driver and its caller agree on",
+  definition: "the sentinels and the answer shape shared by the driver and its caller",
   code: "ts",
   test: "ts",
   decisions: [

@@ -4,7 +4,7 @@ export const automationSettings = {
   id: "01a0609f-53f9-741e-ad0d-f6c482c8057e",
   type: "page-type/module",
   slug: "automation-settings",
-  definition: "which chores are done for a character or companion without being asked for",
+  definition: "which chores are done for a character or companion without a request",
   code: "ts",
   decisions: [
     {

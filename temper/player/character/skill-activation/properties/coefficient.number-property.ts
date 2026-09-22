@@ -5,7 +5,7 @@ export const coefficient = {
   type: "page-type/number-property",
   slug: "coefficient",
   propertySlug: "coefficient",
-  definition: "what the number an effect reads is multiplied by",
+  definition: "the multiplier for the number an effect reads",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

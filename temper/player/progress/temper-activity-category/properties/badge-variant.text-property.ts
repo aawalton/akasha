@@ -5,7 +5,7 @@ export const badgeVariant = {
   type: "page-type/text-property",
   slug: "badge-variant",
   propertySlug: "badge-variant",
-  definition: "the color a category is badged in",
+  definition: "a category's badge color",
   maxLength: 20,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

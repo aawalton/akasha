@@ -4,6 +4,6 @@ export const inventoryDatabaseSchema = {
   id: "01a060c5-3c1f-7102-9890-60736d959f93",
   type: "page-type/module",
   slug: "inventory-database-schema",
-  definition: "the zod shape an inventory row is checked against",
+  definition: "the zod shape checking an inventory row",
   code: "ts",
 } as const satisfies Module

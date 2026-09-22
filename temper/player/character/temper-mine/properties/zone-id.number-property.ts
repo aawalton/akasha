@@ -5,7 +5,7 @@ export const zoneId = {
   type: "page-type/number-property",
   slug: "zone-id",
   propertySlug: "zone-id",
-  definition: "the number the game names a zone by",
+  definition: "the number the game gives a zone",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
