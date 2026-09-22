@@ -8,19 +8,19 @@ const TYPES_AT_ONCE = 500
 
 const UNNAMED: readonly string[] = [PAGE_TYPE]
 
-export type Collection = {
+export type ShownType = {
   readonly slug: string
   readonly name: string
   readonly definition: string | null
 }
 
-export async function collectionsRead(): Promise<readonly Collection[]> {
+export async function shownTypesRead(): Promise<readonly ShownType[]> {
   const { rows } = await getPages({
     pageTypeSlug: PAGE_TYPE,
     select: ["id", "slug", "definition", "pluralSlug"],
     limit: TYPES_AT_ONCE,
   })
-  const held: Collection[] = []
+  const held: ShownType[] = []
   for (const one of rows) {
     const slug = textIn(one["slug"])
     if (slug === null || UNNAMED.includes(slug)) continue

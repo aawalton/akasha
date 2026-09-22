@@ -7,7 +7,7 @@ import type {
   AppNavConfig,
   AppNavItem,
 } from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
-import type { Collection } from "akasha/product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"
+import type { ShownType } from "akasha/product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"
 import {
   Award,
   BookOpen,
@@ -103,20 +103,20 @@ const PLANNED: readonly (PlannedGroup | PlannedType)[] = [
   },
 ]
 
-function itemOf(planned: PlannedType, held: Collection): AppNavItem {
+function itemOf(planned: PlannedType, held: ShownType): AppNavItem {
   const label = planned.label ?? held.name
   return { id: held.slug, label, shortLabel: label, href: `/${held.slug}`, icon: planned.icon }
 }
 
-function takeOf(planned: PlannedType, left: Map<string, Collection>): AppNavItem | null {
+function takeOf(planned: PlannedType, left: Map<string, ShownType>): AppNavItem | null {
   const held = left.get(planned.slug)
   if (held === undefined) return null
   left.delete(planned.slug)
   return itemOf(planned, held)
 }
 
-export function navItemsOf(collections: readonly Collection[]): readonly AppNavItem[] {
-  const left = new Map(collections.map((one) => [one.slug, one]))
+export function navItemsOf(shownTypes: readonly ShownType[]): readonly AppNavItem[] {
+  const left = new Map(shownTypes.map((one) => [one.slug, one]))
   const items: AppNavItem[] = [HOME]
   for (const planned of PLANNED) {
     if ("group" in planned) {
@@ -153,21 +153,21 @@ function Credit() {
 }
 
 export function AppShell({
-  collections,
+  shownTypes,
   children,
 }: {
-  collections: readonly Collection[]
+  shownTypes: readonly ShownType[]
   children: React.ReactNode
 }) {
   const config = useMemo<AppNavConfig>(
     () => ({
-      primaryItems: navItemsOf(collections),
+      primaryItems: navItemsOf(shownTypes),
       bottomSections: [],
       brandLabel: BRAND,
       bottomNavMaxItems: 5,
       navReady: true,
     }),
-    [collections]
+    [shownTypes]
   )
   return (
     <LayoutRouterAdapter>

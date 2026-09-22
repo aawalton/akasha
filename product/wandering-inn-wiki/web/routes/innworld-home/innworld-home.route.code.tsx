@@ -2,20 +2,20 @@ import {
   PageLayout,
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
-import type { Collection } from "akasha/product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"
+import type { ShownType } from "akasha/product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"
 import { Link, useRouteLoaderData } from "react-router"
 
 const FRAME = "routes/_app-layout"
 
-const NONE: readonly Collection[] = []
+const NONE: readonly ShownType[] = []
 
 export function meta() {
   return [{ title: "Innworld" }]
 }
 
 export default function InnworldHome() {
-  const loaderData = useRouteLoaderData<{ collections: readonly Collection[] }>(FRAME)
-  const collections = loaderData?.collections ?? NONE
+  const loaderData = useRouteLoaderData<{ shownTypes: readonly ShownType[] }>(FRAME)
+  const shownTypes = loaderData?.shownTypes ?? NONE
   return (
     <PageLayout>
       <PageLayout.Header>
@@ -24,7 +24,7 @@ export default function InnworldHome() {
       <PageLayout.Content>
         <p className="text-secondary">A wiki of The Wandering Inn.</p>
         <ul className="mt-6 space-y-2">
-          {collections.map((one) => (
+          {shownTypes.map((one) => (
             <li key={one.slug}>
               <Link className="font-medium underline" to={`/${one.slug}`}>
                 {one.name}

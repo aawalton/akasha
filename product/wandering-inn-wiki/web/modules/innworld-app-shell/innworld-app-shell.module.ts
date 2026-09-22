@@ -13,7 +13,7 @@ export const innworldAppShell = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sidebar names every collection this wiki reaches.",
+      statement: "The sidebar names every page type this wiki reaches.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -25,21 +25,21 @@ export const innworldAppShell = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A collection the sidebar names wears an icon, since no page type states one.",
+      statement: "A page type the sidebar names wears an icon, since none states one.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A heading gathers the collections few readers come for, and the heading is no link.",
+        "A heading gathers the page types few readers come for, and the heading is no link.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Which heading a collection sits under is settled here rather than on the collection.",
+        "Which heading a page type sits under is settled here rather than on that page type.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A collection under no heading here is drawn at the foot rather than left out.",
+      statement: "A page type under no heading here is drawn at the foot rather than left out.",
     },
   ],
 } as const satisfies Module
