@@ -20,23 +20,23 @@ import {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES,
-  LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES,
-  LIBSETS_TABLEKEY_COLLECTIBLE_NAMES,
-  LIBSETS_TABLEKEY_DUNGEONFINDER_DATA,
-  LIBSETS_TABLEKEY_MAPS,
-  LIBSETS_TABLEKEY_MIXED_SETNAMES,
-  LIBSETS_TABLEKEY_SETITEMIDS,
-  LIBSETS_TABLEKEY_SETITEMIDS_COMPRESSED,
-  LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID,
-  LIBSETS_TABLEKEY_SETNAMES,
-  LIBSETS_TABLEKEY_SETS_ARMOR_TYPES,
-  LIBSETS_TABLEKEY_SETS_EQUIP_TYPES,
-  LIBSETS_TABLEKEY_SETS_JEWELRY,
-  LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES,
-  LIBSETS_TABLEKEY_WAYSHRINE_NAMES,
-  LIBSETS_TABLEKEY_WAYSHRINES,
-  LIBSETS_TABLEKEY_ZONE_DATA,
+  SETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES,
+  SETS_TABLEKEY_COLLECTIBLE_DLC_NAMES,
+  SETS_TABLEKEY_COLLECTIBLE_NAMES,
+  SETS_TABLEKEY_DUNGEONFINDER_DATA,
+  SETS_TABLEKEY_MAPS,
+  SETS_TABLEKEY_MIXED_SETNAMES,
+  SETS_TABLEKEY_SETITEMIDS,
+  SETS_TABLEKEY_SETITEMIDS_COMPRESSED,
+  SETS_TABLEKEY_SETITEMIDS_NO_SETID,
+  SETS_TABLEKEY_SETNAMES,
+  SETS_TABLEKEY_SETS_ARMOR_TYPES,
+  SETS_TABLEKEY_SETS_EQUIP_TYPES,
+  SETS_TABLEKEY_SETS_JEWELRY,
+  SETS_TABLEKEY_SETS_WEAPONS_TYPES,
+  SETS_TABLEKEY_WAYSHRINE_NAMES,
+  SETS_TABLEKEY_WAYSHRINES,
+  SETS_TABLEKEY_ZONE_DATA,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
@@ -273,24 +273,24 @@ function debugResetSavedVariables(
   lib.LoadSavedVariables()
   const sv = asPresent(lib.svDebugData)
   if (only !== true) {
-    sv[LIBSETS_TABLEKEY_SETITEMIDS] = undefined
-    sv[LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID] = undefined
-    sv[LIBSETS_TABLEKEY_SETITEMIDS_COMPRESSED] = undefined
-    sv[LIBSETS_TABLEKEY_SETS_EQUIP_TYPES] = undefined
-    sv[LIBSETS_TABLEKEY_SETS_ARMOR_TYPES] = undefined
-    sv[LIBSETS_TABLEKEY_SETS_JEWELRY] = undefined
-    sv[LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES] = undefined
-    sv[LIBSETS_TABLEKEY_WAYSHRINES] = undefined
-    sv[LIBSETS_TABLEKEY_DUNGEONFINDER_DATA] = undefined
+    sv[SETS_TABLEKEY_SETITEMIDS] = undefined
+    sv[SETS_TABLEKEY_SETITEMIDS_NO_SETID] = undefined
+    sv[SETS_TABLEKEY_SETITEMIDS_COMPRESSED] = undefined
+    sv[SETS_TABLEKEY_SETS_EQUIP_TYPES] = undefined
+    sv[SETS_TABLEKEY_SETS_ARMOR_TYPES] = undefined
+    sv[SETS_TABLEKEY_SETS_JEWELRY] = undefined
+    sv[SETS_TABLEKEY_SETS_WEAPONS_TYPES] = undefined
+    sv[SETS_TABLEKEY_WAYSHRINES] = undefined
+    sv[SETS_TABLEKEY_DUNGEONFINDER_DATA] = undefined
   }
-  sv[LIBSETS_TABLEKEY_MAPS] = undefined
-  sv[LIBSETS_TABLEKEY_WAYSHRINE_NAMES] = undefined
-  sv[LIBSETS_TABLEKEY_ZONE_DATA] = undefined
-  sv[LIBSETS_TABLEKEY_MIXED_SETNAMES] = undefined
-  sv[LIBSETS_TABLEKEY_SETNAMES] = undefined
-  sv[LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES] = undefined
-  sv[LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES] = undefined
-  sv[LIBSETS_TABLEKEY_COLLECTIBLE_NAMES] = undefined
+  sv[SETS_TABLEKEY_MAPS] = undefined
+  sv[SETS_TABLEKEY_WAYSHRINE_NAMES] = undefined
+  sv[SETS_TABLEKEY_ZONE_DATA] = undefined
+  sv[SETS_TABLEKEY_MIXED_SETNAMES] = undefined
+  sv[SETS_TABLEKEY_SETNAMES] = undefined
+  sv[SETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES] = undefined
+  sv[SETS_TABLEKEY_COLLECTIBLE_DLC_NAMES] = undefined
+  sv[SETS_TABLEKEY_COLLECTIBLE_NAMES] = undefined
   d(libPrefix + "Cleared all SavedVariables" + onlyNamesText + " in file '" + MAJOR + ".lua'.")
   if (noReload === true) {
     return
@@ -305,15 +305,15 @@ function debugGetAllZoneInfo(this: void): undefined {
   if (zoneData !== undefined) {
     lib.LoadSavedVariables()
     const sv = asPresent(lib.svDebugData)
-    if (sv[LIBSETS_TABLEKEY_ZONE_DATA] === undefined) {
-      sv[LIBSETS_TABLEKEY_ZONE_DATA] = {}
+    if (sv[SETS_TABLEKEY_ZONE_DATA] === undefined) {
+      sv[SETS_TABLEKEY_ZONE_DATA] = {}
     }
-    const zoneSV = asLangRecord(sv[LIBSETS_TABLEKEY_ZONE_DATA])
+    const zoneSV = asLangRecord(sv[SETS_TABLEKEY_ZONE_DATA])
     zoneSV[clientLang] = zoneData[clientLang]
     d(
       storedInSVFileLibSetsInTable +
         "'" +
-        LIBSETS_TABLEKEY_ZONE_DATA +
+        SETS_TABLEKEY_ZONE_DATA +
         "', language: '" +
         tostring(clientLang) +
         "'"
@@ -329,15 +329,15 @@ function debugGetAllMapNames(this: void): undefined {
     tsort(asUnknownArray(maps))
     lib.LoadSavedVariables()
     const sv = asPresent(lib.svDebugData)
-    if (sv[LIBSETS_TABLEKEY_MAPS] === undefined) {
-      sv[LIBSETS_TABLEKEY_MAPS] = {}
+    if (sv[SETS_TABLEKEY_MAPS] === undefined) {
+      sv[SETS_TABLEKEY_MAPS] = {}
     }
-    const mapsSV = asLangRecord(sv[LIBSETS_TABLEKEY_MAPS])
+    const mapsSV = asLangRecord(sv[SETS_TABLEKEY_MAPS])
     mapsSV[clientLang] = maps
     d(
       storedInSVFileLibSetsInTable +
         "'" +
-        LIBSETS_TABLEKEY_MAPS +
+        SETS_TABLEKEY_MAPS +
         "', language: '" +
         tostring(clientLang) +
         "'"
@@ -376,14 +376,14 @@ function debugGetAllWayshrineInfoOfCurrentMap(this: void): undefined {
         tsort(asUnknownArray(ws))
         lib.LoadSavedVariables()
         const sv = asPresent(lib.svDebugData)
-        if (sv[LIBSETS_TABLEKEY_WAYSHRINES] === undefined) {
-          sv[LIBSETS_TABLEKEY_WAYSHRINES] = {}
+        if (sv[SETS_TABLEKEY_WAYSHRINES] === undefined) {
+          sv[SETS_TABLEKEY_WAYSHRINES] = {}
         }
-        const wsSV = asWayshrineSV(sv[LIBSETS_TABLEKEY_WAYSHRINES])
+        const wsSV = asWayshrineSV(sv[SETS_TABLEKEY_WAYSHRINES])
         for (const [wsNodeId, wsData] of pairs(ws)) {
           wsSV[wsNodeId] = wsData
         }
-        d(storedInSVFileLibSetsInTable + "'" + LIBSETS_TABLEKEY_WAYSHRINES + "'")
+        d(storedInSVFileLibSetsInTable + "'" + SETS_TABLEKEY_WAYSHRINES + "'")
       }
     }, delay)
   }
@@ -396,15 +396,15 @@ function debugGetAllWayshrineNames(this: void): undefined {
   if (wsNames !== undefined && wsNames[clientLang] !== undefined) {
     lib.LoadSavedVariables()
     const sv = asPresent(lib.svDebugData)
-    if (sv[LIBSETS_TABLEKEY_WAYSHRINE_NAMES] === undefined) {
-      sv[LIBSETS_TABLEKEY_WAYSHRINE_NAMES] = {}
+    if (sv[SETS_TABLEKEY_WAYSHRINE_NAMES] === undefined) {
+      sv[SETS_TABLEKEY_WAYSHRINE_NAMES] = {}
     }
-    const wsNamesSV = asLangRecord(sv[LIBSETS_TABLEKEY_WAYSHRINE_NAMES])
+    const wsNamesSV = asLangRecord(sv[SETS_TABLEKEY_WAYSHRINE_NAMES])
     wsNamesSV[clientLang] = wsNames[clientLang]
     d(
       storedInSVFileLibSetsInTable +
         "'" +
-        LIBSETS_TABLEKEY_WAYSHRINE_NAMES +
+        SETS_TABLEKEY_WAYSHRINE_NAMES +
         "', language: '" +
         tostring(clientLang) +
         "'"

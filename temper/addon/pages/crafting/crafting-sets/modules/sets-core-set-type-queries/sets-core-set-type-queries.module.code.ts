@@ -14,9 +14,9 @@ import {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_DROPMECHANIC,
-  LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
-  LIBSETS_TABLEKEY_SETTYPE,
+  SETS_TABLEKEY_DROPMECHANIC,
+  SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
+  SETS_TABLEKEY_SETTYPE,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -58,7 +58,7 @@ function getSetTypeSetsData(
   for (const [setIdForSetType, setDataForSetType] of pairs(setType2SetIdsTable)) {
     setsDataForSetTypeTable = setsDataForSetTypeTable ?? {}
     setsDataForSetTypeTable[setIdForSetType] = setDataForSetType
-    asPresent(setsDataForSetTypeTable[setIdForSetType])[LIBSETS_TABLEKEY_SETTYPE] = setType
+    asPresent(setsDataForSetTypeTable[setIdForSetType])[SETS_TABLEKEY_SETTYPE] = setType
     cnt = cnt + 1
   }
   if (cnt > 0) {
@@ -110,7 +110,7 @@ function getDropMechanicAndDropLocationNames(
     setDataResolved["setId"] = setId
   }
 
-  const dropMechanicTable = asIndexNumberMapOpt(setDataResolved[LIBSETS_TABLEKEY_DROPMECHANIC])
+  const dropMechanicTable = asIndexNumberMapOpt(setDataResolved[SETS_TABLEKEY_DROPMECHANIC])
   if (dropMechanicTable !== undefined) {
     if (supportedLanguages !== undefined) {
       let supportedLanguageData: boolean | undefined
@@ -127,7 +127,7 @@ function getDropMechanicAndDropLocationNames(
       }
 
       const dropMechanicProvidedDropLocationNames = asLangIndexStringMapOpt(
-        setDataResolved[LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES]
+        setDataResolved[SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES]
       )
 
       for (const [idx, dropMechanic] of ipairs(dropMechanicTable)) {

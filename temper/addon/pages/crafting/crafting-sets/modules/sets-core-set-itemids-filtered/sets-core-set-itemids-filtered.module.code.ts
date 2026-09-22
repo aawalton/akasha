@@ -8,8 +8,8 @@ import { validateValueAgainstCheckTable } from "akasha/temper/addon/pages/crafti
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  LIBSETS_SET_ITEMID_TABLE_VALUE_OK,
-  LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES,
+  SETS_SET_ITEMID_TABLE_VALUE_OK,
+  SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
@@ -141,7 +141,7 @@ function getSetItemIdsFiltered(
   let foundItemId: number | undefined
   for (const [setItemId, isCorrect] of pairs(allSetItemIds)) {
     foundItemId = undefined
-    if (setItemId !== undefined && isCorrect === LIBSETS_SET_ITEMID_TABLE_VALUE_OK) {
+    if (setItemId !== undefined && isCorrect === SETS_SET_ITEMID_TABLE_VALUE_OK) {
       if (needItemLinkOfItemId === true) {
         const itemLink = buildItemLink(setItemId, undefined)
         if (itemLink !== undefined && itemLink !== "") {
@@ -225,7 +225,7 @@ function getSetItemIdsFiltered(
         return $multi(foundItemId, returnTableData)
       } else {
         const foundItemIdsTablePresent = asItemIdNumberMap(foundItemIdsTable)
-        foundItemIdsTablePresent[foundItemId] = LIBSETS_SET_ITEMID_TABLE_VALUE_OK
+        foundItemIdsTablePresent[foundItemId] = SETS_SET_ITEMID_TABLE_VALUE_OK
         anyItemIdFound = true
       }
     }
@@ -234,8 +234,7 @@ function getSetItemIdsFiltered(
   if (returnSingleItemId === false && foundItemIdsTable !== undefined && anyItemIdFound === true) {
     if (getAllEnchantSearchCategoryTypesOfSetId === true) {
       returnTableData = returnTableData ?? {}
-      returnTableData[LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES] =
-        enchantSearchCategoriesOfSetId
+      returnTableData[SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES] = enchantSearchCategoriesOfSetId
     }
     return $multi(foundItemIdsTable, returnTableData)
   }

@@ -20,7 +20,7 @@ import {
 import { getSharedSuper } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
-import { LIBSETS_SET_ITEMID_TABLE_VALUE_OK } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
+import { SETS_SET_ITEMID_TABLE_VALUE_OK } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes-3/sets-search-ui-shapes-3.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes/sets-search-ui-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
@@ -216,7 +216,7 @@ keyboardClass.GetItemIdsForSetIdRespectingFilters = function (
     )
     if (itemIdMatchingFilters !== undefined) {
       itemIdsMatchingFilters = {}
-      itemIdsMatchingFilters[itemIdMatchingFilters] = asNumber(LIBSETS_SET_ITEMID_TABLE_VALUE_OK)
+      itemIdsMatchingFilters[itemIdMatchingFilters] = asNumber(SETS_SET_ITEMID_TABLE_VALUE_OK)
     }
   } else {
     const [itemIds] = libSets_GetSetItemIds(

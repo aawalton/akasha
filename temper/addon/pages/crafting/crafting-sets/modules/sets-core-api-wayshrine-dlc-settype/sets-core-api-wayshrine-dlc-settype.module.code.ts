@@ -14,10 +14,10 @@ import { safeReturnAPItable } from "akasha/temper/addon/pages/crafting/crafting-
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_SETTYPE,
-  LIBSETS_TABLEKEY_WAYSHRINENODEID2ZONEID,
-  LIBSETS_TABLEKEY_WAYSHRINES,
-  LIBSETS_TABLEKEY_ZONEIDS,
+  SETS_TABLEKEY_SETTYPE,
+  SETS_TABLEKEY_WAYSHRINENODEID2ZONEID,
+  SETS_TABLEKEY_WAYSHRINES,
+  SETS_TABLEKEY_ZONEIDS,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-lib-sets-dlc/eso-lib-sets-dlc.type-declaration.d.ts"
 
@@ -25,7 +25,7 @@ import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/se
 
 type Wayshrine2Zone = { [wayshrineNodeId: number]: number | undefined }
 function getWayshrine2Zone(this: void): Wayshrine2Zone | undefined {
-  return asWayshrine2ZoneOpt(lib.setDataPreloaded[LIBSETS_TABLEKEY_WAYSHRINENODEID2ZONEID])
+  return asWayshrine2ZoneOpt(lib.setDataPreloaded[SETS_TABLEKEY_WAYSHRINENODEID2ZONEID])
 }
 
 function getWayshrineIds(
@@ -42,7 +42,7 @@ function getWayshrineIds(
   }
   const setInfo = lib.setInfo
   const setData = setInfo[setId]
-  if (setData === undefined || setData[LIBSETS_TABLEKEY_WAYSHRINES] === undefined) {
+  if (setData === undefined || setData[SETS_TABLEKEY_WAYSHRINES] === undefined) {
     return $multi(undefined, undefined)
   }
   let wayshrineNodsId2ZoneId: Wayshrine2Zone | undefined
@@ -52,12 +52,12 @@ function getWayshrineIds(
       return $multi(undefined, undefined)
     }
     wayshrineNodsId2ZoneId = {}
-    const wayshrines = asIndexNumberMap(setData[LIBSETS_TABLEKEY_WAYSHRINES])
+    const wayshrines = asIndexNumberMap(setData[SETS_TABLEKEY_WAYSHRINES])
     for (const [, wayshrineNodeId] of ipairs(wayshrines)) {
       wayshrineNodsId2ZoneId[wayshrineNodeId] = wayshrine2zone[wayshrineNodeId]
     }
   }
-  return $multi(safeReturnAPItable(setData[LIBSETS_TABLEKEY_WAYSHRINES]), wayshrineNodsId2ZoneId)
+  return $multi(safeReturnAPItable(setData[SETS_TABLEKEY_WAYSHRINES]), wayshrineNodsId2ZoneId)
 }
 lib.GetWayshrineIds = getWayshrineIds
 
@@ -85,10 +85,10 @@ function getZoneIds(this: void, setId: number | undefined): unknown {
   }
   const setInfo = lib.setInfo
   const setData = setInfo[setId]
-  if (setData === undefined || setData[LIBSETS_TABLEKEY_ZONEIDS] === undefined) {
+  if (setData === undefined || setData[SETS_TABLEKEY_ZONEIDS] === undefined) {
     return undefined
   }
-  return safeReturnAPItable(setData[LIBSETS_TABLEKEY_ZONEIDS])
+  return safeReturnAPItable(setData[SETS_TABLEKEY_ZONEIDS])
 }
 lib.GetZoneIds = getZoneIds
 
@@ -199,7 +199,7 @@ function getSetType(this: void, setId: number | undefined): number | undefined {
   if (setData === undefined) {
     return undefined
   }
-  return asNumberOpt(safeReturnAPItable(setData[LIBSETS_TABLEKEY_SETTYPE]))
+  return asNumberOpt(safeReturnAPItable(setData[SETS_TABLEKEY_SETTYPE]))
 }
 lib.GetSetType = getSetType
 

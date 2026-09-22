@@ -18,8 +18,8 @@ import { safeReturnAPItable } from "akasha/temper/addon/pages/crafting/crafting-
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  LIBSETS_SET_ITEMID_TABLE_VALUE_NOTOK,
-  LIBSETS_SET_ITEMID_TABLE_VALUE_OK,
+  SETS_SET_ITEMID_TABLE_VALUE_NOTOK,
+  SETS_SET_ITEMID_TABLE_VALUE_OK,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -52,7 +52,7 @@ function isPerfectedSet(this: void, setId: number | undefined): boolean | undefi
   const perfectedSetData = getPerfectedSetData(setId)
   const result =
     (perfectedSetData !== undefined &&
-      perfectedSetData["isPerfectedSet"] === LIBSETS_SET_ITEMID_TABLE_VALUE_OK &&
+      perfectedSetData["isPerfectedSet"] === SETS_SET_ITEMID_TABLE_VALUE_OK &&
       true) ||
     false
   return result
@@ -70,7 +70,7 @@ function isNonPerfectedSet(this: void, setId: number | undefined): boolean | und
   const result =
     (perfectedSetData !== undefined &&
       (perfectedSetData["isPerfectedSet"] === undefined ||
-        perfectedSetData["isPerfectedSet"] === LIBSETS_SET_ITEMID_TABLE_VALUE_NOTOK) &&
+        perfectedSetData["isPerfectedSet"] === SETS_SET_ITEMID_TABLE_VALUE_NOTOK) &&
       perfectedSetData["perfectedSetId"] !== undefined &&
       true) ||
     false

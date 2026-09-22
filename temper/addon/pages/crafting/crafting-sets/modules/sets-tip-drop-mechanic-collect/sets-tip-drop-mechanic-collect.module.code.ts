@@ -22,12 +22,12 @@ import { STATE } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_DROPMECHANIC,
-  LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
-  LIBSETS_TABLEKEY_DROPMECHANIC_NAMES,
-  LIBSETS_TABLEKEY_DROPMECHANIC_SORTED,
-  LIBSETS_TABLEKEY_ZONEIDS,
-  LIBSETS_TABLEKEY_ZONEIDS_SORTED,
+  SETS_TABLEKEY_DROPMECHANIC,
+  SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
+  SETS_TABLEKEY_DROPMECHANIC_NAMES,
+  SETS_TABLEKEY_DROPMECHANIC_SORTED,
+  SETS_TABLEKEY_ZONEIDS,
+  SETS_TABLEKEY_ZONEIDS_SORTED,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -54,22 +54,20 @@ export function getSetDropMechanicInfo(
   scratch.dropZoneIdsTheSame = undefined
   scratch.dropMechanicTabTheSame = undefined
 
-  const dropMechanicTab = asNumIndexTableOpt(setData[LIBSETS_TABLEKEY_DROPMECHANIC])
+  const dropMechanicTab = asNumIndexTableOpt(setData[SETS_TABLEKEY_DROPMECHANIC])
   if (dropMechanicTab === undefined) {
     return
   }
 
-  const dropZoneIds = asNumIndexTableOpt(setData[LIBSETS_TABLEKEY_ZONEIDS])
-  const dropMechanicNamesOfSet = asLangNameIndexTableOpt(
-    setData[LIBSETS_TABLEKEY_DROPMECHANIC_NAMES]
-  )
+  const dropZoneIds = asNumIndexTableOpt(setData[SETS_TABLEKEY_ZONEIDS])
+  const dropMechanicNamesOfSet = asLangNameIndexTableOpt(setData[SETS_TABLEKEY_DROPMECHANIC_NAMES])
   const dropMechanicDropLocationNamesOfSet = asLangNameIndexTableOpt(
-    setData[LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES]
+    setData[SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES]
   )
 
-  scratch.dropZoneIdsTheSame = asZoneIdGroupsOpt(setData[LIBSETS_TABLEKEY_ZONEIDS_SORTED])
+  scratch.dropZoneIdsTheSame = asZoneIdGroupsOpt(setData[SETS_TABLEKEY_ZONEIDS_SORTED])
   scratch.dropMechanicTabTheSame = asZoneMechanicGroupsOpt(
-    setData[LIBSETS_TABLEKEY_DROPMECHANIC_SORTED]
+    setData[SETS_TABLEKEY_DROPMECHANIC_SORTED]
   )
 
   function lGetDropMechanicName(this: void, pIdx: number, pDropMechanicIdOfZone: number): unknown {
@@ -177,7 +175,7 @@ export function getSetDropMechanicInfo(
         }
 
         if (!ZO_IsTableEmpty(scratch.dropZoneIdsTheSame)) {
-          setData[LIBSETS_TABLEKEY_ZONEIDS_SORTED] = scratch.dropZoneIdsTheSame
+          setData[SETS_TABLEKEY_ZONEIDS_SORTED] = scratch.dropZoneIdsTheSame
 
           if (scratch.dropMechanicTabTheSame === undefined) {
             const tabTheSame: { [zoneId: number]: { [idx: number]: number } } = {}
@@ -195,7 +193,7 @@ export function getSetDropMechanicInfo(
               scratch.dropZoneIdsTheSame = undefined
             } else {
               scratch.dropMechanicTabTheSame = tabTheSame
-              setData[LIBSETS_TABLEKEY_DROPMECHANIC_SORTED] = tabTheSame
+              setData[SETS_TABLEKEY_DROPMECHANIC_SORTED] = tabTheSame
             }
           }
         } else {

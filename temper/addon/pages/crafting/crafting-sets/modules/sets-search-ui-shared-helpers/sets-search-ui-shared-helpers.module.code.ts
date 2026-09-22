@@ -28,8 +28,8 @@ import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes-2
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes-4/sets-search-ui-shapes-4.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes/sets-search-ui-shapes.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
-  LIBSETS_TABLEKEY_DROPMECHANIC_NAMES,
+  SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
+  SETS_TABLEKEY_DROPMECHANIC_NAMES,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
@@ -50,8 +50,8 @@ function scanAndAddDataToSetsMasterListBase(
     let setData = oneSetData
     setData.setId = setData.setId ?? oneSetId
     if (
-      setData[asPresent(LIBSETS_TABLEKEY_DROPMECHANIC_NAMES)] === undefined ||
-      setData[asPresent(LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] === undefined
+      setData[asPresent(SETS_TABLEKEY_DROPMECHANIC_NAMES)] === undefined ||
+      setData[asPresent(SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] === undefined
     ) {
       setData = asStrRecord(libSets_GetSetInfo(oneSetId, false, undefined))
     }
@@ -61,8 +61,8 @@ function scanAndAddDataToSetsMasterListBase(
     let setData = setDataIter
     setData.setId = setData.setId ?? setId
     if (
-      setData[asPresent(LIBSETS_TABLEKEY_DROPMECHANIC_NAMES)] === undefined ||
-      setData[asPresent(LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] === undefined
+      setData[asPresent(SETS_TABLEKEY_DROPMECHANIC_NAMES)] === undefined ||
+      setData[asPresent(SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] === undefined
     ) {
       setData = asStrRecord(libSets_GetSetInfo(setId, false, undefined))
       defaultMasterListBase[setId] = setData

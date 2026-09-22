@@ -44,7 +44,7 @@ function asSearchRowDataRecord(value: unknown): SearchRowDataRecord {
 }
 
 const preloadedSetNames = asLangStringRecord(
-  lib.setDataPreloaded[asPresent(LIBSETS_TABLEKEY_SETNAMES)]
+  lib.setDataPreloaded[asPresent(SETS_TABLEKEY_SETNAMES)]
 )
 
 import { getSearchUIListClass } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-list-class/sets-search-ui-list-class.module.code.ts"
@@ -53,8 +53,8 @@ import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declara
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes-3/sets-search-ui-shapes-3.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes-4/sets-search-ui-shapes-4.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_SETNAMES,
-  LIBSETS_TABLEKEY_ZONEIDS,
+  SETS_TABLEKEY_SETNAMES,
+  SETS_TABLEKEY_ZONEIDS,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -193,7 +193,7 @@ listClass.CreateEntryForSet = function (
       }
     }
 
-    const dropZoneIds = asNumberArrayOpt(setData[asPresent(LIBSETS_TABLEKEY_ZONEIDS)])
+    const dropZoneIds = asNumberArrayOpt(setData[asPresent(SETS_TABLEKEY_ZONEIDS)])
     if (dropZoneIds !== undefined && !ZO_IsTableEmpty(dropZoneIds)) {
       dropLocationSort = ""
 

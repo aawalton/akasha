@@ -15,9 +15,9 @@ import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declara
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes-2/sets-search-ui-shapes-2.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes/sets-search-ui-shapes.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_DROPMECHANIC,
-  LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
-  LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES,
+  SETS_TABLEKEY_DROPMECHANIC,
+  SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
+  SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
@@ -156,7 +156,7 @@ sharedClass.PreFilterMasterList = function (
       if (isAllowed && searchParamsEnchantSearchCategory !== undefined) {
         isAllowed = false
         const enchantSearchCategories = asCategoryBoolMapOpt(
-          setDataTyped[asPresent(LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES)] ??
+          setDataTyped[asPresent(SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES)] ??
             (libSets_GetSetEnchantSearchCategories !== undefined
               ? libSets_GetSetEnchantSearchCategories(
                   setId,
@@ -222,14 +222,14 @@ sharedClass.PreFilterMasterList = function (
       }
       if (isAllowed && searchParamsDropMechanic !== undefined) {
         isAllowed = false
-        let dropMechanicSource = setDataTyped[asPresent(LIBSETS_TABLEKEY_DROPMECHANIC)]
+        let dropMechanicSource = setDataTyped[asPresent(SETS_TABLEKEY_DROPMECHANIC)]
         if (dropMechanicSource === undefined) {
           const [dropMechanicIds] = libSets_GetDropMechanic(setId, undefined, undefined)
           dropMechanicSource = dropMechanicIds
         }
         const dropMechanics = asNumberArrayOpt(dropMechanicSource)
         if (dropMechanics !== undefined) {
-          setDataTyped[asPresent(LIBSETS_TABLEKEY_DROPMECHANIC)] = dropMechanics
+          setDataTyped[asPresent(SETS_TABLEKEY_DROPMECHANIC)] = dropMechanics
           for (const [dropMechanicId, isFiltered] of pairs(searchParamsDropMechanic)) {
             if (
               isFiltered === true &&
@@ -244,11 +244,11 @@ sharedClass.PreFilterMasterList = function (
       if (isAllowed && searchParamsDropLocation !== undefined) {
         isAllowed = false
         const dropLocationNames = asDropLocationNamesMapOpt(
-          setDataTyped[asPresent(LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] ??
+          setDataTyped[asPresent(SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] ??
             libSets_GetDropLocationNamesBySetId(setId, undefined)
         )
         if (dropLocationNames !== undefined) {
-          setDataTyped[asPresent(LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] = dropLocationNames
+          setDataTyped[asPresent(SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] = dropLocationNames
           for (const [dropLocationName, isFiltered] of pairs(searchParamsDropLocation)) {
             if (isFiltered === true && !isAllowed) {
               for (const [, dropLocationNameLanguages] of pairs(dropLocationNames)) {

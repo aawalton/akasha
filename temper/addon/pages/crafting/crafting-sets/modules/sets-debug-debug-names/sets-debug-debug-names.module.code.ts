@@ -25,12 +25,12 @@ import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES,
-  LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES,
-  LIBSETS_TABLEKEY_COLLECTIBLE_NAMES,
-  LIBSETS_TABLEKEY_NEWSETIDS,
-  LIBSETS_TABLEKEY_SETITEMIDS,
-  LIBSETS_TABLEKEY_SETNAMES,
+  SETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES,
+  SETS_TABLEKEY_COLLECTIBLE_DLC_NAMES,
+  SETS_TABLEKEY_COLLECTIBLE_NAMES,
+  SETS_TABLEKEY_NEWSETIDS,
+  SETS_TABLEKEY_SETITEMIDS,
+  SETS_TABLEKEY_SETNAMES,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-04/eso-enums-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
@@ -96,10 +96,10 @@ function debugGetAllAchievementCategoryNames(
   if (achievementCategoriesAdded > 0) {
     lib.LoadSavedVariables()
     const sv = asPresent(lib.svDebugData)
-    if (sv[LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES] === undefined) {
-      sv[LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES] = {}
+    if (sv[SETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES] === undefined) {
+      sv[SETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES] = {}
     }
-    const achSV = asLangRecord(sv[LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES])
+    const achSV = asLangRecord(sv[SETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES])
     achSV[clientLang] = achievementDataScanned
     d(
       "->Stored " +
@@ -107,7 +107,7 @@ function debugGetAllAchievementCategoryNames(
         " entries in SaveVariables file '" +
         MAJOR +
         ".lua', in the table '" +
-        LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES +
+        SETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES +
         "', language: '" +
         tostring(clientLang) +
         "'\nPlease do a /reloadui or logout to update the SavedVariables data now!"
@@ -157,10 +157,10 @@ function debugGetAllCollectibleDLCNames(this: void, noReloadInfo?: boolean): und
   if (collectiblesAdded > 0) {
     lib.LoadSavedVariables()
     const sv = asPresent(lib.svDebugData)
-    if (sv[LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES] === undefined) {
-      sv[LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES] = {}
+    if (sv[SETS_TABLEKEY_COLLECTIBLE_DLC_NAMES] === undefined) {
+      sv[SETS_TABLEKEY_COLLECTIBLE_DLC_NAMES] = {}
     }
-    const dlcSV = asLangRecord(sv[LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES])
+    const dlcSV = asLangRecord(sv[SETS_TABLEKEY_COLLECTIBLE_DLC_NAMES])
     dlcSV[clientLang] = dlcNames
     d(
       "->Stored " +
@@ -168,7 +168,7 @@ function debugGetAllCollectibleDLCNames(this: void, noReloadInfo?: boolean): und
         " entries in SaveVariables file '" +
         MAJOR +
         ".lua', in the table '" +
-        LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES +
+        SETS_TABLEKEY_COLLECTIBLE_DLC_NAMES +
         "', language: '" +
         tostring(clientLang) +
         "'"
@@ -212,10 +212,10 @@ function debugGetAllCollectibleNames(this: void, noReloadInfo?: boolean): undefi
   if (collectiblesAdded > 0) {
     lib.LoadSavedVariables()
     const sv = asPresent(lib.svDebugData)
-    if (sv[LIBSETS_TABLEKEY_COLLECTIBLE_NAMES] === undefined) {
-      sv[LIBSETS_TABLEKEY_COLLECTIBLE_NAMES] = {}
+    if (sv[SETS_TABLEKEY_COLLECTIBLE_NAMES] === undefined) {
+      sv[SETS_TABLEKEY_COLLECTIBLE_NAMES] = {}
     }
-    const colSV = asLangRecord(sv[LIBSETS_TABLEKEY_COLLECTIBLE_NAMES])
+    const colSV = asLangRecord(sv[SETS_TABLEKEY_COLLECTIBLE_NAMES])
     colSV[clientLang] = collectibleNames
     d(
       "->Stored " +
@@ -223,7 +223,7 @@ function debugGetAllCollectibleNames(this: void, noReloadInfo?: boolean): undefi
         " entries in SaveVariables file '" +
         MAJOR +
         ".lua', in the table '" +
-        LIBSETS_TABLEKEY_COLLECTIBLE_NAMES +
+        SETS_TABLEKEY_COLLECTIBLE_NAMES +
         "', language: '" +
         tostring(clientLang) +
         "'"
@@ -245,7 +245,7 @@ function debugShowNewSetIds(this: void, noChatOutput?: boolean): undefined {
   const newSetsLoadedFromSV = false
   let tempSetNamesOfClientLang: { [setId: number]: string } | undefined
   asPresent(DEBUG_HOLDER.checkForNewSetIds)(
-    asNumRecordOpt(lib.setDataPreloaded[LIBSETS_TABLEKEY_SETITEMIDS]),
+    asNumRecordOpt(lib.setDataPreloaded[SETS_TABLEKEY_SETITEMIDS]),
     undefined,
     true,
     true
@@ -255,7 +255,7 @@ function debugShowNewSetIds(this: void, noChatOutput?: boolean): undefined {
     if (!noChat) {
       d(">Found " + tostring(newSetsFound) + " new setIds!")
     }
-    const preloadedSetNames = asSetNamesTableOpt(lib.setDataPreloaded[LIBSETS_TABLEKEY_SETNAMES])
+    const preloadedSetNames = asSetNamesTableOpt(lib.setDataPreloaded[SETS_TABLEKEY_SETNAMES])
     for (const [, newSetId] of ipairs(SCAN_STATE.newSetIdsFound)) {
       const entry = preloadedSetNames[newSetId]
       let newSetName = entry !== undefined ? (entry[clientLang] ?? entry[fallbackLang]) : undefined
@@ -288,10 +288,10 @@ function debugShowNewSetIds(this: void, noChatOutput?: boolean): undefined {
     }
     const sv = asPresent(lib.svDebugData)
     const apiVersionUpdatedStr = tostring(apiVersion) + "_UpdateInfo"
-    if (sv[LIBSETS_TABLEKEY_NEWSETIDS] === undefined) {
-      sv[LIBSETS_TABLEKEY_NEWSETIDS] = {}
+    if (sv[SETS_TABLEKEY_NEWSETIDS] === undefined) {
+      sv[SETS_TABLEKEY_NEWSETIDS] = {}
     }
-    const newSetIdsSV = asNewSetIdsSV(sv[LIBSETS_TABLEKEY_NEWSETIDS])
+    const newSetIdsSV = asNewSetIdsSV(sv[SETS_TABLEKEY_NEWSETIDS])
     if (newSetIdsSV[worldName] === undefined) {
       newSetIdsSV[worldName] = {}
     }
@@ -302,10 +302,10 @@ function debugShowNewSetIds(this: void, noChatOutput?: boolean): undefined {
       DateTime: os.date("%c"),
     }
     if (tempSetNamesOfClientLang !== undefined) {
-      if (sv[LIBSETS_TABLEKEY_SETNAMES] === undefined) {
-        sv[LIBSETS_TABLEKEY_SETNAMES] = {}
+      if (sv[SETS_TABLEKEY_SETNAMES] === undefined) {
+        sv[SETS_TABLEKEY_SETNAMES] = {}
       }
-      const setNamesSV = asSetNamesTable(sv[LIBSETS_TABLEKEY_SETNAMES])
+      const setNamesSV = asSetNamesTable(sv[SETS_TABLEKEY_SETNAMES])
       for (const [setId, setName] of pairs(tempSetNamesOfClientLang)) {
         if (setNamesSV[setId] === undefined) {
           setNamesSV[setId] = {}

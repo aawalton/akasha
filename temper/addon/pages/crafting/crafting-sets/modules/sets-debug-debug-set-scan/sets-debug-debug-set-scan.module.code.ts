@@ -22,8 +22,8 @@ import { showSetCountsScanned } from "akasha/temper/addon/pages/crafting/craftin
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  LIBSETS_SET_ITEMID_TABLE_VALUE_OK,
-  LIBSETS_TABLEKEY_SETNAMES,
+  SETS_SET_ITEMID_TABLE_VALUE_OK,
+  SETS_TABLEKEY_SETNAMES,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
@@ -67,7 +67,7 @@ function debugGetAllSetNames(this: void, noReloadInfo?: boolean): undefined {
               let setName: string
               if (isNonOfficialLanguage === true) {
                 const preloadedSetNames = asSetNamesTable(
-                  lib.setDataPreloaded[LIBSETS_TABLEKEY_SETNAMES]
+                  lib.setDataPreloaded[SETS_TABLEKEY_SETNAMES]
                 )
                 const entry = preloadedSetNames[asNumber(setId)]
                 setName =
@@ -107,10 +107,10 @@ function debugGetAllSetNames(this: void, noReloadInfo?: boolean): undefined {
       for (const [, setId] of ipairs(setIdsTable)) {
         const setName = setNamesOfLangTable[setId]
         if (setName !== undefined && setName !== "") {
-          if (sv[LIBSETS_TABLEKEY_SETNAMES] === undefined) {
-            sv[LIBSETS_TABLEKEY_SETNAMES] = {}
+          if (sv[SETS_TABLEKEY_SETNAMES] === undefined) {
+            sv[SETS_TABLEKEY_SETNAMES] = {}
           }
-          const setNamesSV = asSetNamesTable(sv[LIBSETS_TABLEKEY_SETNAMES])
+          const setNamesSV = asSetNamesTable(sv[SETS_TABLEKEY_SETNAMES])
           if (setNamesSV[setId] === undefined) {
             setNamesSV[setId] = {}
           }
@@ -129,7 +129,7 @@ function debugGetAllSetNames(this: void, noReloadInfo?: boolean): undefined {
     )
     if (foundNewSetsCount > 0) {
       const sv = asPresent(lib.svDebugData)
-      const setNamesSV = asSetNamesTableOpt(sv[LIBSETS_TABLEKEY_SETNAMES])
+      const setNamesSV = asSetNamesTableOpt(sv[SETS_TABLEKEY_SETNAMES])
       for (const [, setIdNewFound] of ipairs(SCAN_STATE.newSetIdsFound)) {
         const entry = setNamesSV[setIdNewFound]
         const setNameOfNewSet =
@@ -140,7 +140,7 @@ function debugGetAllSetNames(this: void, noReloadInfo?: boolean): undefined {
     d(
       storedInSVFileLibSetsInTable +
         "'" +
-        LIBSETS_TABLEKEY_SETNAMES +
+        SETS_TABLEKEY_SETNAMES +
         "', language: '" +
         tostring(clientLang) +
         "'"
@@ -166,7 +166,7 @@ function loadSetsByIds(
   if (!SCAN_STATE.noFurtherItemsFound) {
     const isJewelryEquiptype = lib.isJewelryEquipType
     const isWeaponEquipType = lib.isWeaponEquipType
-    const setNames = asSetNamesTableOpt(lib.setDataPreloaded[LIBSETS_TABLEKEY_SETNAMES])
+    const setNames = asSetNamesTableOpt(lib.setDataPreloaded[SETS_TABLEKEY_SETNAMES])
 
     for (const setItemId of $range(from, to)) {
       SCAN_STATE.itemIdsScanned = SCAN_STATE.itemIdsScanned + 1
@@ -194,7 +194,7 @@ function loadSetsByIds(
                   }
                 }
               }
-              SCAN_STATE.sets[setId][setItemId] = LIBSETS_SET_ITEMID_TABLE_VALUE_OK
+              SCAN_STATE.sets[setId][setItemId] = SETS_SET_ITEMID_TABLE_VALUE_OK
               SCAN_STATE.itemCount = SCAN_STATE.itemCount + 1
 
               const equipType = GetItemLinkEquipType(itemLink)
@@ -202,39 +202,38 @@ function loadSetsByIds(
                 if (SCAN_STATE.setsEquipTypes[equipType] === undefined) {
                   SCAN_STATE.setsEquipTypes[equipType] = {}
                 }
-                SCAN_STATE.setsEquipTypes[equipType][setId] = LIBSETS_SET_ITEMID_TABLE_VALUE_OK
+                SCAN_STATE.setsEquipTypes[equipType][setId] = SETS_SET_ITEMID_TABLE_VALUE_OK
 
                 if (isJewelryEquiptype[equipType] !== undefined) {
                   if (SCAN_STATE.setsJewelry[setId] === undefined) {
                     SCAN_STATE.itemJewelryCount = SCAN_STATE.itemJewelryCount + 1
                   }
-                  SCAN_STATE.setsJewelry[setId] = LIBSETS_SET_ITEMID_TABLE_VALUE_OK
+                  SCAN_STATE.setsJewelry[setId] = SETS_SET_ITEMID_TABLE_VALUE_OK
                 } else if (isWeaponEquipType[equipType] !== undefined) {
                   if (SCAN_STATE.setsWeapons[setId] === undefined) {
                     SCAN_STATE.itemWeaponsCount = SCAN_STATE.itemWeaponsCount + 1
                   }
-                  SCAN_STATE.setsWeapons[setId] = LIBSETS_SET_ITEMID_TABLE_VALUE_OK
+                  SCAN_STATE.setsWeapons[setId] = SETS_SET_ITEMID_TABLE_VALUE_OK
 
                   const weaponType = GetItemLinkWeaponType(itemLink)
                   if (weaponType > WEAPONTYPE_NONE) {
                     if (SCAN_STATE.setsWeaponTypes[weaponType] === undefined) {
                       SCAN_STATE.setsWeaponTypes[weaponType] = {}
                     }
-                    SCAN_STATE.setsWeaponTypes[weaponType][setId] =
-                      LIBSETS_SET_ITEMID_TABLE_VALUE_OK
+                    SCAN_STATE.setsWeaponTypes[weaponType][setId] = SETS_SET_ITEMID_TABLE_VALUE_OK
                   }
                 } else {
                   if (SCAN_STATE.setsArmor[setId] === undefined) {
                     SCAN_STATE.itemArmorCount = SCAN_STATE.itemArmorCount + 1
                   }
-                  SCAN_STATE.setsArmor[setId] = LIBSETS_SET_ITEMID_TABLE_VALUE_OK
+                  SCAN_STATE.setsArmor[setId] = SETS_SET_ITEMID_TABLE_VALUE_OK
 
                   const armorType = GetItemLinkArmorType(itemLink)
                   if (armorType > ARMORTYPE_NONE) {
                     if (SCAN_STATE.setsArmorTypes[armorType] === undefined) {
                       SCAN_STATE.setsArmorTypes[armorType] = {}
                     }
-                    SCAN_STATE.setsArmorTypes[armorType][setId] = LIBSETS_SET_ITEMID_TABLE_VALUE_OK
+                    SCAN_STATE.setsArmorTypes[armorType][setId] = SETS_SET_ITEMID_TABLE_VALUE_OK
                   }
                 }
               }

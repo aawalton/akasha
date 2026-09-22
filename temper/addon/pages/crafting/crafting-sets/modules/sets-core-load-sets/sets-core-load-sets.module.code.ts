@@ -17,13 +17,13 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-core-load-sets-checktype/sets-core-load-sets-checktype.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import {
-  LIBSETS_SET_ITEMID_TABLE_VALUE_OK,
-  LIBSETS_TABLEKEY_SET_ITEM_COLLECTIONS_ZONE_MAPPING,
-  LIBSETS_TABLEKEY_SET_PROCS_ALLOWED_IN_PVP,
-  LIBSETS_TABLEKEY_SETS_ARMOR_TYPES,
-  LIBSETS_TABLEKEY_SETS_EQUIP_TYPES,
-  LIBSETS_TABLEKEY_SETS_JEWELRY,
-  LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES,
+  SETS_SET_ITEMID_TABLE_VALUE_OK,
+  SETS_TABLEKEY_SET_ITEM_COLLECTIONS_ZONE_MAPPING,
+  SETS_TABLEKEY_SET_PROCS_ALLOWED_IN_PVP,
+  SETS_TABLEKEY_SETS_ARMOR_TYPES,
+  SETS_TABLEKEY_SETS_EQUIP_TYPES,
+  SETS_TABLEKEY_SETS_JEWELRY,
+  SETS_TABLEKEY_SETS_WEAPONS_TYPES,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
@@ -79,7 +79,7 @@ function loadSets(this: void): undefined {
   }
 
   lib.setIds = {}
-  preloaded[LIBSETS_TABLEKEY_SET_PROCS_ALLOWED_IN_PVP] = state.preloadedSetsWithProcsAllowedInPvP
+  preloaded[SETS_TABLEKEY_SET_PROCS_ALLOWED_IN_PVP] = state.preloadedSetsWithProcsAllowedInPvP
 
   checkSetTypeAndUpdateLibTablesAndCounters(asSetIdToStrRecord(setInfo), state)
   if (noSetIdSets !== undefined && !ZO_IsTableEmpty(noSetIdSets)) {
@@ -118,24 +118,20 @@ function buildEquipArmorWeaponJewelryTables(this: void, _state: LoadSetsState): 
   const preloaded = lib.setDataPreloaded
   const setIds = lib.setIds
 
-  const preloadedEquipTypeData = asTypeToSetIdNumberMap(
-    preloaded[LIBSETS_TABLEKEY_SETS_EQUIP_TYPES]
-  )
+  const preloadedEquipTypeData = asTypeToSetIdNumberMap(preloaded[SETS_TABLEKEY_SETS_EQUIP_TYPES])
   lib.equipTypesSets = {}
   for (const [equipType, setsDataOfEquipType] of pairs(preloadedEquipTypeData)) {
     const equipTypesSets = asTypeToSetIdBoolMap(lib.equipTypesSets)
     equipTypesSets[equipType] = equipTypesSets[equipType] ?? {}
     for (const [setId, isSetIdInEquipType] of pairs(setsDataOfEquipType)) {
-      if (setIds[setId] !== undefined && isSetIdInEquipType === LIBSETS_SET_ITEMID_TABLE_VALUE_OK) {
+      if (setIds[setId] !== undefined && isSetIdInEquipType === SETS_SET_ITEMID_TABLE_VALUE_OK) {
         const target = asSetIdBoolMap(equipTypesSets[equipType])
         target[setId] = true
       }
     }
   }
 
-  const preloadedArmorTypeData = asTypeToSetIdNumberMap(
-    preloaded[LIBSETS_TABLEKEY_SETS_ARMOR_TYPES]
-  )
+  const preloadedArmorTypeData = asTypeToSetIdNumberMap(preloaded[SETS_TABLEKEY_SETS_ARMOR_TYPES])
   lib.armorSets = {}
   lib.armorTypesSets = {}
   for (const [armorType, setsDataOfArmorType] of pairs(preloadedArmorTypeData)) {
@@ -144,7 +140,7 @@ function buildEquipArmorWeaponJewelryTables(this: void, _state: LoadSetsState): 
     armorTypesSets[armorType] = armorTypesSets[armorType] ?? {}
     for (const [setId, isSetIdInArmorType] of pairs(setsDataOfArmorType)) {
       armorSets[setId] = true
-      if (setIds[setId] !== undefined && isSetIdInArmorType === LIBSETS_SET_ITEMID_TABLE_VALUE_OK) {
+      if (setIds[setId] !== undefined && isSetIdInArmorType === SETS_SET_ITEMID_TABLE_VALUE_OK) {
         const target = asSetIdBoolMap(armorTypesSets[armorType])
         target[setId] = true
       }
@@ -152,7 +148,7 @@ function buildEquipArmorWeaponJewelryTables(this: void, _state: LoadSetsState): 
   }
 
   const preloadedWeaponTypeData = asTypeToSetIdNumberMap(
-    preloaded[LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES]
+    preloaded[SETS_TABLEKEY_SETS_WEAPONS_TYPES]
   )
   lib.weaponSets = {}
   lib.weaponTypesSets = {}
@@ -162,23 +158,20 @@ function buildEquipArmorWeaponJewelryTables(this: void, _state: LoadSetsState): 
     weaponTypesSets[weaponType] = weaponTypesSets[weaponType] ?? {}
     for (const [setId, isSetIdInWeaponType] of pairs(setsDataOfWeaponType)) {
       weaponSets[setId] = true
-      if (
-        setIds[setId] !== undefined &&
-        isSetIdInWeaponType === LIBSETS_SET_ITEMID_TABLE_VALUE_OK
-      ) {
+      if (setIds[setId] !== undefined && isSetIdInWeaponType === SETS_SET_ITEMID_TABLE_VALUE_OK) {
         const target = asSetIdBoolMap(weaponTypesSets[weaponType])
         target[setId] = true
       }
     }
   }
 
-  const preloadedIsJewelryData = asSetIdNumberMap(preloaded[LIBSETS_TABLEKEY_SETS_JEWELRY])
+  const preloadedIsJewelryData = asSetIdNumberMap(preloaded[SETS_TABLEKEY_SETS_JEWELRY])
   lib.jewelrySets = {}
   for (const [setId, isSetIdJewelry] of pairs(preloadedIsJewelryData)) {
     const weaponSets = asSetIdBoolMap(lib.weaponSets)
     const jewelrySets = asSetIdBoolMap(lib.jewelrySets)
     weaponSets[setId] = true
-    if (setIds[setId] !== undefined && isSetIdJewelry === LIBSETS_SET_ITEMID_TABLE_VALUE_OK) {
+    if (setIds[setId] !== undefined && isSetIdJewelry === SETS_SET_ITEMID_TABLE_VALUE_OK) {
       jewelrySets[setId] = true
     }
   }
@@ -187,7 +180,7 @@ function buildEquipArmorWeaponJewelryTables(this: void, _state: LoadSetsState): 
 function buildSetItemCollectionTables(this: void): undefined {
   const preloaded = lib.setDataPreloaded
   const preloadedSetItemCollectionMappingToZone = asSetItemCollectionZoneMapping(
-    preloaded[LIBSETS_TABLEKEY_SET_ITEM_COLLECTIONS_ZONE_MAPPING]
+    preloaded[SETS_TABLEKEY_SET_ITEM_COLLECTIONS_ZONE_MAPPING]
   )
   lib.setItemCollectionZoneId2Category = {}
   lib.setItemCollectionCategory2ZoneId = {}

@@ -7,7 +7,7 @@ import {
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/crafting/modules/crafting-constants/crafting-constants.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import { LIBSETS_TABLEKEY_DUNGEONFINDER_DATA } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
+import { SETS_TABLEKEY_DUNGEONFINDER_DATA } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lib-sets-ui/eso-lib-sets-ui.type-declaration.d.ts"
 
@@ -93,14 +93,14 @@ export function debugGetDungeonFinderData(
   ) {
     lib.LoadSavedVariables()
     const sv = asPresent(lib.svDebugData)
-    sv[LIBSETS_TABLEKEY_DUNGEONFINDER_DATA] = retTableDungeons
+    sv[SETS_TABLEKEY_DUNGEONFINDER_DATA] = retTableDungeons
     d(
       "->Stored " +
         tostring(dungeonsAdded) +
         " entries in SaveVariables file '" +
         ADDON_NAME +
         ".lua', in the table '" +
-        LIBSETS_TABLEKEY_DUNGEONFINDER_DATA +
+        SETS_TABLEKEY_DUNGEONFINDER_DATA +
         "', language: '" +
         tostring(clientLang) +
         "'"

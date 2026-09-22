@@ -22,8 +22,8 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-debug-debug-state/sets-debug-debug-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_MIXED_SETNAMES,
-  LIBSETS_TABLEKEY_SETNAMES,
+  SETS_TABLEKEY_MIXED_SETNAMES,
+  SETS_TABLEKEY_SETNAMES,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -199,7 +199,7 @@ function debugBuildMixedSetNames(this: void): undefined {
   d(
     libPrefix +
       "Start to combine entries from table 'otherLangSetNames' into table 'setDataPreloaded[" +
-      LIBSETS_TABLEKEY_SETNAMES +
+      SETS_TABLEKEY_SETNAMES +
       "]'"
   )
   if (OTHER_LANG_SET_NAMES === undefined) {
@@ -208,7 +208,7 @@ function debugBuildMixedSetNames(this: void): undefined {
   if (lib.setDataPreloaded === undefined) {
     return
   }
-  const preloadedSetNames = lib.setDataPreloaded[LIBSETS_TABLEKEY_SETNAMES]
+  const preloadedSetNames = lib.setDataPreloaded[SETS_TABLEKEY_SETNAMES]
   if (preloadedSetNames === undefined) {
     return
   }
@@ -249,11 +249,11 @@ function debugBuildMixedSetNames(this: void): undefined {
   if (setIdsChangedTotal > 0) {
     lib.LoadSavedVariables()
     const sv = asPresent(lib.svDebugData)
-    sv[LIBSETS_TABLEKEY_MIXED_SETNAMES] = copyOfPreloadedSetNames
+    sv[SETS_TABLEKEY_MIXED_SETNAMES] = copyOfPreloadedSetNames
     d(
       storedInSVFileLibSetsInTable +
         "'" +
-        LIBSETS_TABLEKEY_MIXED_SETNAMES +
+        SETS_TABLEKEY_MIXED_SETNAMES +
         "'\nPlease do a /reloadui or logout to update the SavedVariables data now!"
     )
   } else {

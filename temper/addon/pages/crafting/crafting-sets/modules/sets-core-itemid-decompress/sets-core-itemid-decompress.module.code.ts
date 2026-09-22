@@ -8,9 +8,9 @@ import { asSetIdCompressedItemIds } from "akasha/temper/addon/pages/crafting/cra
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  LIBSETS_SET_ITEMID_TABLE_VALUE_OK,
-  LIBSETS_TABLEKEY_SETITEMIDS,
-  LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID,
+  SETS_SET_ITEMID_TABLE_VALUE_OK,
+  SETS_TABLEKEY_SETITEMIDS,
+  SETS_TABLEKEY_SETITEMIDS_NO_SETID,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
@@ -40,10 +40,10 @@ function decompressSetIdItemIds(
   let preloadedSetItemIdsCompressed: { [setId: number]: (number | string)[] }
   if (isNonESOSetResolved === true) {
     preloadedSetItemIdsCompressed = asSetIdCompressedItemIds(
-      preloaded[LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID]
+      preloaded[SETS_TABLEKEY_SETITEMIDS_NO_SETID]
     )
   } else {
-    preloadedSetItemIdsCompressed = asSetIdCompressedItemIds(preloaded[LIBSETS_TABLEKEY_SETITEMIDS])
+    preloadedSetItemIdsCompressed = asSetIdCompressedItemIds(preloaded[SETS_TABLEKEY_SETITEMIDS])
   }
   const idSource = preloadedSetItemIdsCompressed[setId]
   if (idSource === undefined) {
@@ -54,14 +54,14 @@ function decompressSetIdItemIds(
     const entry = asPresent(idSource[j - 1])
     const itemIdType = type(entry)
     if (itemIdType === "number") {
-      workingTable[asNumber(entry)] = LIBSETS_SET_ITEMID_TABLE_VALUE_OK
+      workingTable[asNumber(entry)] = SETS_SET_ITEMID_TABLE_VALUE_OK
     } else if (itemIdType === "string") {
       const entryStr = asString(entry)
       const [commaSpot] = strfind(entryStr, ",")
       const firstPart = asNumber(tonumber(strsub(entryStr, 1, asPresent(commaSpot) - 1)))
       const lastPart = asNumber(tonumber(strsub(entryStr, asPresent(commaSpot) + 1)))
       for (const i of $range(0, lastPart)) {
-        workingTable[firstPart + i] = LIBSETS_SET_ITEMID_TABLE_VALUE_OK
+        workingTable[firstPart + i] = SETS_SET_ITEMID_TABLE_VALUE_OK
       }
     }
   }

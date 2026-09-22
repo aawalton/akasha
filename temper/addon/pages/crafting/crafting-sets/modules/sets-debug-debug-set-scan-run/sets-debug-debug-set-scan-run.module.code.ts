@@ -14,7 +14,7 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-debug-debug-state/sets-debug-debug-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import { LIBSETS_TABLEKEY_SETITEMIDS } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
+import { SETS_TABLEKEY_SETITEMIDS } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
@@ -128,7 +128,7 @@ function getNewSetName(this: void, newSetId: number | undefined): string {
     itemId = asNumberOpt(getFirstEntryOfTable(SCAN_STATE.sets[newSetId], true))
   }
   if (itemId === undefined) {
-    const itemIdsPreloaded = asNumRecord(lib.setDataPreloaded[LIBSETS_TABLEKEY_SETITEMIDS])
+    const itemIdsPreloaded = asNumRecord(lib.setDataPreloaded[SETS_TABLEKEY_SETITEMIDS])
     if (itemIdsPreloaded[newSetId] === undefined) {
       return UNKNOWN_NAME
     }

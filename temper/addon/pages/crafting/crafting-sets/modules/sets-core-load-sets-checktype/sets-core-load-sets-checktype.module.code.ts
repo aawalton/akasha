@@ -24,12 +24,12 @@ import { checkIfSetExists } from "akasha/temper/addon/pages/crafting/crafting-se
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import {
-  LIBSETS_SET_ITEMID_TABLE_VALUE_OK,
-  LIBSETS_TABLEKEY_SETITEMIDS,
-  LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID,
-  LIBSETS_TABLEKEY_SETNAMES,
-  LIBSETS_TABLEKEY_SETNAMES_NO_SETID,
-  LIBSETS_TABLEKEY_SETTYPE,
+  SETS_SET_ITEMID_TABLE_VALUE_OK,
+  SETS_TABLEKEY_SETITEMIDS,
+  SETS_TABLEKEY_SETITEMIDS_NO_SETID,
+  SETS_TABLEKEY_SETNAMES,
+  SETS_TABLEKEY_SETNAMES_NO_SETID,
+  SETS_TABLEKEY_SETTYPE,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
@@ -69,10 +69,10 @@ export function checkSetTypeAndUpdateLibTablesAndCounters(
   const decompressSetIdItemIds = lib.DecompressSetIdItemIds
   const cachedSetItemIdsTable = lib.CachedSetItemIdsTable
   const preloaded = lib.setDataPreloaded
-  const preloadedItemIds = asSetIdTable(preloaded[LIBSETS_TABLEKEY_SETITEMIDS])
-  const preloadedSetNames = asSetIdTable(preloaded[LIBSETS_TABLEKEY_SETNAMES])
-  const preloadedNonESOsetIdItemIds = asSetIdTable(preloaded[LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID])
-  const preloadedNonESOsetIdSetNames = asSetIdTable(preloaded[LIBSETS_TABLEKEY_SETNAMES_NO_SETID])
+  const preloadedItemIds = asSetIdTable(preloaded[SETS_TABLEKEY_SETITEMIDS])
+  const preloadedSetNames = asSetIdTable(preloaded[SETS_TABLEKEY_SETNAMES])
+  const preloadedNonESOsetIdItemIds = asSetIdTable(preloaded[SETS_TABLEKEY_SETITEMIDS_NO_SETID])
+  const preloadedNonESOsetIdSetNames = asSetIdTable(preloaded[SETS_TABLEKEY_SETNAMES_NO_SETID])
 
   const perfectedSet2NonPerfectedSet = asSetIdPerfectedLinkMap(lib.perfectedSet2NonPerfectedSet)
   const nonPerfectedSet2PerfectedSet = asSetIdPerfectedLinkMap(lib.nonPerfectedSet2PerfectedSet)
@@ -84,7 +84,7 @@ export function checkSetTypeAndUpdateLibTablesAndCounters(
     if (isNonESOSet === true || checkIfSetExists(setId) === true) {
       setIds[setId] = true
       let refToSetIdTable: { [k: string]: unknown } | undefined
-      const setType = asNumberOpt(setData[LIBSETS_TABLEKEY_SETTYPE])
+      const setType = asNumberOpt(setData[SETS_TABLEKEY_SETTYPE])
       if (setType !== undefined) {
         const internalLibsSetVariableNames = setTypeToLibraryInternalVariableNames[setType]
         const internalLibsSetTableName =
@@ -109,11 +109,11 @@ export function checkSetTypeAndUpdateLibTablesAndCounters(
       if (refToSetIdTable !== undefined) {
         const itemIds = decompressSetIdItemIds(setId, isNonESOSet)
         if (itemIds !== undefined && !ZO_IsTableEmpty(itemIds)) {
-          refToSetIdTable[LIBSETS_TABLEKEY_SETITEMIDS] = itemIds
+          refToSetIdTable[SETS_TABLEKEY_SETITEMIDS] = itemIds
           if (isNonESOSet === true) {
-            asPresent(noSetIdSets[setId])[LIBSETS_TABLEKEY_SETITEMIDS] = itemIds
+            asPresent(noSetIdSets[setId])[SETS_TABLEKEY_SETITEMIDS] = itemIds
           } else {
-            asPresent(setInfo[setId])[LIBSETS_TABLEKEY_SETITEMIDS] = itemIds
+            asPresent(setInfo[setId])[SETS_TABLEKEY_SETITEMIDS] = itemIds
           }
         }
 
@@ -124,11 +124,11 @@ export function checkSetTypeAndUpdateLibTablesAndCounters(
           setNames = preloadedSetNames[setId]
         }
         if (setNames !== undefined) {
-          refToSetIdTable[LIBSETS_TABLEKEY_SETNAMES] = setNames
+          refToSetIdTable[SETS_TABLEKEY_SETNAMES] = setNames
           if (isNonESOSet === true) {
-            asPresent(noSetIdSets[setId])[LIBSETS_TABLEKEY_SETNAMES] = setNames
+            asPresent(noSetIdSets[setId])[SETS_TABLEKEY_SETNAMES] = setNames
           } else {
-            asPresent(setInfo[setId])[LIBSETS_TABLEKEY_SETNAMES] = setNames
+            asPresent(setInfo[setId])[SETS_TABLEKEY_SETNAMES] = setNames
           }
         }
 
@@ -136,7 +136,7 @@ export function checkSetTypeAndUpdateLibTablesAndCounters(
         if (
           setInfoEntry !== undefined &&
           setInfoEntry["isProcSetAllowedInPvP"] !== undefined &&
-          setInfoEntry["isProcSetAllowedInPvP"] === LIBSETS_SET_ITEMID_TABLE_VALUE_OK
+          setInfoEntry["isProcSetAllowedInPvP"] === SETS_SET_ITEMID_TABLE_VALUE_OK
         ) {
           state.preloadedSetsWithProcsAllowedInPvP[setId] = refToSetIdTable
         }

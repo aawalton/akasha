@@ -22,9 +22,9 @@ import {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_NEWSETIDS,
-  LIBSETS_TABLEKEY_SETITEMIDS,
-  LIBSETS_TABLEKEY_SETITEMIDS_COMPRESSED,
+  SETS_TABLEKEY_NEWSETIDS,
+  SETS_TABLEKEY_SETITEMIDS,
+  SETS_TABLEKEY_SETITEMIDS_COMPRESSED,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
@@ -99,7 +99,7 @@ function checkForNewSetIds(
     svLoadedAlready = true
     const svDebugData = asPresent(lib.svDebugData)
     const loadedCompressedSetItemIdsFromSV = asNumRecordOpt(
-      svDebugData[LIBSETS_TABLEKEY_SETITEMIDS_COMPRESSED]
+      svDebugData[SETS_TABLEKEY_SETITEMIDS_COMPRESSED]
     )
     myCombineNonContiguousTables(tableToProcess, setIdTable, loadedCompressedSetItemIdsFromSV)
   } else {
@@ -142,7 +142,7 @@ function checkForNewSetIds(
     const svDebugData = lib.svDebugData
     const newSetIdsByWorld =
       svDebugData !== undefined
-        ? asNewSetIdsByWorldOpt(svDebugData[LIBSETS_TABLEKEY_NEWSETIDS])
+        ? asNewSetIdsByWorldOpt(svDebugData[SETS_TABLEKEY_NEWSETIDS])
         : undefined
     const newSetIdsForWorld =
       newSetIdsByWorld !== undefined ? newSetIdsByWorld[worldName] : undefined
@@ -181,7 +181,7 @@ DEBUG_HOLDER.checkForNewSetIds = checkForNewSetIds
 
 export function getAllSetItemIds(this: void): { [setId: number]: { [itemId: number]: number } } {
   checkForNewSetIds(
-    asNumRecordOpt(lib.setDataPreloaded[LIBSETS_TABLEKEY_SETITEMIDS]),
+    asNumRecordOpt(lib.setDataPreloaded[SETS_TABLEKEY_SETITEMIDS]),
     lib.DecompressSetIdItemIds,
     true,
     false
@@ -226,7 +226,7 @@ function compressSetItemIdsNow(
   const svDebugData = asPresent(lib.svDebugData)
   let sourceTable = setsDataTable
   if (sourceTable === undefined) {
-    sourceTable = asSetItemIdsTableOpt(svDebugData[LIBSETS_TABLEKEY_SETITEMIDS])
+    sourceTable = asSetItemIdsTableOpt(svDebugData[SETS_TABLEKEY_SETITEMIDS])
   }
   if (sourceTable === undefined) {
     d("<Aborting: setsDataTable is missing")
@@ -234,7 +234,7 @@ function compressSetItemIdsNow(
   }
 
   const compressed: { [setId: number]: (number | string)[] } = {}
-  svDebugData[LIBSETS_TABLEKEY_SETITEMIDS_COMPRESSED] = compressed
+  svDebugData[SETS_TABLEKEY_SETITEMIDS_COMPRESSED] = compressed
   for (const [setId, setItemIdsOfSetId] of pairs(sourceTable)) {
     const helperTabNoGapIndex: number[] = []
     for (const [k] of pairs(setItemIdsOfSetId)) {
@@ -249,7 +249,7 @@ function compressSetItemIdsNow(
       " Compression of set itemIds has finished and was saved to SavedVariables file '" +
       MAJOR +
       ".lua' table '" +
-      LIBSETS_TABLEKEY_SETITEMIDS_COMPRESSED +
+      SETS_TABLEKEY_SETITEMIDS_COMPRESSED +
       "'"
   )
   if (noReload === true) {

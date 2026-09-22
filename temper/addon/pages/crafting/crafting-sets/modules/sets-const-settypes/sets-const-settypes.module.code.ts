@@ -19,7 +19,7 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-settype-ids/sets-const-settype-ids.module.code.ts"
 import { SET_TYPES_TO_NAME } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-settype-names/sets-const-settype-names.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import { LIBSETS_TABLEKEY_TABLENAME } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
+import { SETS_TABLEKEY_TABLENAME } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
@@ -38,23 +38,23 @@ for (let i = SETS_SETTYPE_ITERATION_BEGIN; i <= SETS_SETTYPE_ITERATION_END; i++)
 }
 
 lib.setTypeToLibraryInternalVariableNames = {
-  [SETS_SETTYPE_ARENA]: { [LIBSETS_TABLEKEY_TABLENAME]: "arenaSets" },
-  [SETS_SETTYPE_BATTLEGROUND]: { [LIBSETS_TABLEKEY_TABLENAME]: "battlegroundSets" },
-  [SETS_SETTYPE_CRAFTED]: { [LIBSETS_TABLEKEY_TABLENAME]: "craftedSets" },
-  [SETS_SETTYPE_CYRODIIL]: { [LIBSETS_TABLEKEY_TABLENAME]: "cyrodiilSets" },
+  [SETS_SETTYPE_ARENA]: { [SETS_TABLEKEY_TABLENAME]: "arenaSets" },
+  [SETS_SETTYPE_BATTLEGROUND]: { [SETS_TABLEKEY_TABLENAME]: "battlegroundSets" },
+  [SETS_SETTYPE_CRAFTED]: { [SETS_TABLEKEY_TABLENAME]: "craftedSets" },
+  [SETS_SETTYPE_CYRODIIL]: { [SETS_TABLEKEY_TABLENAME]: "cyrodiilSets" },
   [SETS_SETTYPE_DAILYRANDOMDUNGEONANDICREWARD]: {
-    [LIBSETS_TABLEKEY_TABLENAME]: "dailyRandomDungeonAndImperialCityRewardSets",
+    [SETS_TABLEKEY_TABLENAME]: "dailyRandomDungeonAndImperialCityRewardSets",
   },
-  [SETS_SETTYPE_DUNGEON]: { [LIBSETS_TABLEKEY_TABLENAME]: "dungeonSets" },
-  [SETS_SETTYPE_IMPERIALCITY]: { [LIBSETS_TABLEKEY_TABLENAME]: "imperialCitySets" },
-  [SETS_SETTYPE_MONSTER]: { [LIBSETS_TABLEKEY_TABLENAME]: "monsterSets" },
-  [SETS_SETTYPE_OVERLAND]: { [LIBSETS_TABLEKEY_TABLENAME]: "overlandSets" },
-  [SETS_SETTYPE_SPECIAL]: { [LIBSETS_TABLEKEY_TABLENAME]: "specialSets" },
-  [SETS_SETTYPE_TRIAL]: { [LIBSETS_TABLEKEY_TABLENAME]: "trialSets" },
-  [SETS_SETTYPE_MYTHIC]: { [LIBSETS_TABLEKEY_TABLENAME]: "mythicSets" },
-  [SETS_SETTYPE_IMPERIALCITY_MONSTER]: { [LIBSETS_TABLEKEY_TABLENAME]: "monsterSets" },
-  [SETS_SETTYPE_CYRODIIL_MONSTER]: { [LIBSETS_TABLEKEY_TABLENAME]: "monsterSets" },
-  [SETS_SETTYPE_CLASS]: { [LIBSETS_TABLEKEY_TABLENAME]: "classSets" },
+  [SETS_SETTYPE_DUNGEON]: { [SETS_TABLEKEY_TABLENAME]: "dungeonSets" },
+  [SETS_SETTYPE_IMPERIALCITY]: { [SETS_TABLEKEY_TABLENAME]: "imperialCitySets" },
+  [SETS_SETTYPE_MONSTER]: { [SETS_TABLEKEY_TABLENAME]: "monsterSets" },
+  [SETS_SETTYPE_OVERLAND]: { [SETS_TABLEKEY_TABLENAME]: "overlandSets" },
+  [SETS_SETTYPE_SPECIAL]: { [SETS_TABLEKEY_TABLENAME]: "specialSets" },
+  [SETS_SETTYPE_TRIAL]: { [SETS_TABLEKEY_TABLENAME]: "trialSets" },
+  [SETS_SETTYPE_MYTHIC]: { [SETS_TABLEKEY_TABLENAME]: "mythicSets" },
+  [SETS_SETTYPE_IMPERIALCITY_MONSTER]: { [SETS_TABLEKEY_TABLENAME]: "monsterSets" },
+  [SETS_SETTYPE_CYRODIIL_MONSTER]: { [SETS_TABLEKEY_TABLENAME]: "monsterSets" },
+  [SETS_SETTYPE_CLASS]: { [SETS_TABLEKEY_TABLENAME]: "classSets" },
 }
 if (checkIfPTSAPIVersionIsLive()) {
 }

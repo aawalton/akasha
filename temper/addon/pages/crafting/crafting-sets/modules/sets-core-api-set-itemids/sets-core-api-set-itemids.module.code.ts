@@ -7,7 +7,7 @@ import {
 import { asCategoryBoolMapOpt } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
 import { safeReturnAPItable } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-core-helpers/sets-core-helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import { LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
+import { SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
@@ -174,11 +174,11 @@ function getSetEnchantSearchCategories(
 
   if (isNonEsoSetId === true) {
     enchantSearchCategoriesOfSetId = asCategoryBoolMapOpt(
-      noSetIdSets[setId]?.[LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES]
+      noSetIdSets[setId]?.[SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES]
     )
   } else {
     enchantSearchCategoriesOfSetId = asCategoryBoolMapOpt(
-      setInfo[setId]?.[LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES]
+      setInfo[setId]?.[SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES]
     )
   }
   if (
@@ -199,12 +199,12 @@ function getSetEnchantSearchCategories(
   )
   if (
     returnTab === undefined ||
-    returnTab[LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES] === undefined
+    returnTab[SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES] === undefined
   ) {
     return undefined
   }
   enchantSearchCategoriesOfSetId = asCategoryBoolMap(
-    returnTab[LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES]
+    returnTab[SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES]
   )
 
   if (
@@ -217,13 +217,12 @@ function getSetEnchantSearchCategories(
     if (isNonEsoSetId === true) {
       const noSetIdSetData = noSetIdSets[setId]
       if (noSetIdSetData !== undefined) {
-        noSetIdSetData[LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES] =
-          enchantSearchCategoriesOfSetId
+        noSetIdSetData[SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES] = enchantSearchCategoriesOfSetId
       }
     } else {
       const setInfoData = setInfo[setId]
       if (setInfoData !== undefined) {
-        setInfoData[LIBSETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES] = enchantSearchCategoriesOfSetId
+        setInfoData[SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES] = enchantSearchCategoriesOfSetId
       }
     }
   }

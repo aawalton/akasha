@@ -17,11 +17,11 @@ import {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_MAXEQUIPPED,
-  LIBSETS_TABLEKEY_NUMBONUSES,
-  LIBSETS_TABLEKEY_SETITEMIDS,
-  LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID,
-  LIBSETS_TABLEKEY_SETNAMES_NO_SETID,
+  SETS_TABLEKEY_MAXEQUIPPED,
+  SETS_TABLEKEY_NUMBONUSES,
+  SETS_TABLEKEY_SETITEMIDS,
+  SETS_TABLEKEY_SETITEMIDS_NO_SETID,
+  SETS_TABLEKEY_SETNAMES_NO_SETID,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
@@ -133,7 +133,7 @@ function loopSetItemIdsAndCheckForMatchingSetItem(
 function validateAnyItemIdBelongsToThisSetId(this: void, setId: number): boolean | undefined {
   const preloaded = lib.setDataPreloaded
   const preloadedSetInfo = lib.setInfo
-  const preloadedSetItemIds = asSetIdToNumKeyTable(preloaded[LIBSETS_TABLEKEY_SETITEMIDS])
+  const preloadedSetItemIds = asSetIdToNumKeyTable(preloaded[SETS_TABLEKEY_SETITEMIDS])
   if (
     preloadedSetInfo === undefined ||
     preloadedSetInfo[setId] === undefined ||
@@ -157,8 +157,7 @@ function validateAnyItemIdBelongsToThisSetId(this: void, setId: number): boolean
       decompressedSetItemIdsOfSetId !== undefined &&
       !ZO_IsTableEmpty(decompressedSetItemIdsOfSetId)
     ) {
-      asPresent(preloadedSetInfo[setId])[LIBSETS_TABLEKEY_SETITEMIDS] =
-        decompressedSetItemIdsOfSetId
+      asPresent(preloadedSetInfo[setId])[SETS_TABLEKEY_SETITEMIDS] = decompressedSetItemIdsOfSetId
 
       setExists = loopSetItemIdsAndCheckForMatchingSetItem(
         setId,
@@ -198,8 +197,8 @@ function checkNoSetIdSet(
   const preloaded = lib.setDataPreloaded
   const noSetIdSets = lib.noSetIdSets
   const clientLang = lib.clientLang
-  const noESOsetIdSetNames = asSetIdLangStringMap(preloaded[LIBSETS_TABLEKEY_SETNAMES_NO_SETID])
-  const preloadedNoSetIdItemIds = asSetIdTableOpt(preloaded[LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID])
+  const noESOsetIdSetNames = asSetIdLangStringMap(preloaded[SETS_TABLEKEY_SETNAMES_NO_SETID])
+  const preloadedNoSetIdItemIds = asSetIdTableOpt(preloaded[SETS_TABLEKEY_SETITEMIDS_NO_SETID])
   for (const [noESOSetId, specialSetData] of pairs(noSetIdSets)) {
     if (
       preloaded !== undefined &&
@@ -211,9 +210,9 @@ function checkNoSetIdSet(
         const specialSetDataTab = asStrRecord(specialSetData)
         isSet = true
         setName = asPresent(noESOsetIdSetNames[noESOSetId])[clientLang] ?? ""
-        numBonuses = asNumberOpt(specialSetDataTab[LIBSETS_TABLEKEY_NUMBONUSES]) ?? 0
+        numBonuses = asNumberOpt(specialSetDataTab[SETS_TABLEKEY_NUMBONUSES]) ?? 0
         numEquipped = lib.getNumEquippedItemsByItemIds(specialSetsItemIds)
-        maxEquipped = asNumberOpt(specialSetDataTab[LIBSETS_TABLEKEY_MAXEQUIPPED]) ?? 0
+        maxEquipped = asNumberOpt(specialSetDataTab[SETS_TABLEKEY_MAXEQUIPPED]) ?? 0
         setId = noESOSetId
         return $multi(isSet, setName, setId, numBonuses, numEquipped, maxEquipped)
       }

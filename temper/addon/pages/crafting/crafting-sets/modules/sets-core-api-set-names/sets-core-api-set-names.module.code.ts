@@ -6,8 +6,8 @@ import {
 import { safeReturnAPItable } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-core-helpers/sets-core-helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_SETNAMES,
-  LIBSETS_TABLEKEY_SETNAMES_NO_SETID,
+  SETS_TABLEKEY_SETNAMES,
+  SETS_TABLEKEY_SETNAMES_NO_SETID,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
@@ -34,9 +34,9 @@ function getSetName(this: void, setId: number | undefined, lang?: string): unkno
     const isNoESOSet = lib.IsNoESOSet
     const preloaded = lib.setDataPreloaded
     if (isNoESOSet(setId)) {
-      setNames = asSetIdLangStringMap(preloaded[LIBSETS_TABLEKEY_SETNAMES_NO_SETID])
+      setNames = asSetIdLangStringMap(preloaded[SETS_TABLEKEY_SETNAMES_NO_SETID])
     } else {
-      setNames = asSetIdLangStringMap(preloaded[LIBSETS_TABLEKEY_SETNAMES])
+      setNames = asSetIdLangStringMap(preloaded[SETS_TABLEKEY_SETNAMES])
     }
   } else {
     setNames = allSetNamesCached
@@ -61,9 +61,9 @@ function getSetNames(this: void, setId: number | undefined): unknown {
     const isNoESOSet = lib.IsNoESOSet
     const preloaded = lib.setDataPreloaded
     if (isNoESOSet(setId)) {
-      setNames = asSetIdLangStringMap(preloaded[LIBSETS_TABLEKEY_SETNAMES_NO_SETID])
+      setNames = asSetIdLangStringMap(preloaded[SETS_TABLEKEY_SETNAMES_NO_SETID])
     } else {
-      setNames = asSetIdLangStringMap(preloaded[LIBSETS_TABLEKEY_SETNAMES])
+      setNames = asSetIdLangStringMap(preloaded[SETS_TABLEKEY_SETNAMES])
     }
   } else {
     setNames = allSetNamesCached

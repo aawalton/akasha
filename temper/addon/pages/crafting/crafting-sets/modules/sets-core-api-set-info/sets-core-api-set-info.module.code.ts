@@ -3,12 +3,12 @@ import {
   asString,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
-  LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
-  LIBSETS_TABLEKEY_DROPMECHANIC_NAMES,
-  LIBSETS_TABLEKEY_SETITEMIDS,
-  LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID,
-  LIBSETS_TABLEKEY_SETNAMES,
-  LIBSETS_TABLEKEY_SETNAMES_NO_SETID,
+  SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
+  SETS_TABLEKEY_DROPMECHANIC_NAMES,
+  SETS_TABLEKEY_SETITEMIDS,
+  SETS_TABLEKEY_SETITEMIDS_NO_SETID,
+  SETS_TABLEKEY_SETNAMES,
+  SETS_TABLEKEY_SETNAMES_NO_SETID,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import {
   asLangRecordOpt,
@@ -81,12 +81,12 @@ function getSetInfo(
   const preloaded = lib.setDataPreloaded
   const noSetIdSets = lib.noSetIdSets
   const setInfo = lib.setInfo
-  let preloadedSetItemIdsTableKey = LIBSETS_TABLEKEY_SETITEMIDS
-  let preloadedSetNamesTableKey = LIBSETS_TABLEKEY_SETNAMES
+  let preloadedSetItemIdsTableKey = SETS_TABLEKEY_SETITEMIDS
+  let preloadedSetNamesTableKey = SETS_TABLEKEY_SETNAMES
   if (isNonEsoSetId === true) {
     setInfoTable = noSetIdSets[setId]
-    preloadedSetItemIdsTableKey = LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID
-    preloadedSetNamesTableKey = LIBSETS_TABLEKEY_SETNAMES_NO_SETID
+    preloadedSetItemIdsTableKey = SETS_TABLEKEY_SETITEMIDS_NO_SETID
+    preloadedSetNamesTableKey = SETS_TABLEKEY_SETNAMES_NO_SETID
   } else {
     if (setInfo[setId] === undefined) {
       return undefined
@@ -100,7 +100,7 @@ function getSetInfo(
 
   if (!WAS_SET_ID_PROCESSED_FOR_SET_INFO_IN_TOTAL[setId]) {
     if (!noItemIdsResolved) {
-      if (setInfoTable[LIBSETS_TABLEKEY_SETITEMIDS] === undefined) {
+      if (setInfoTable[SETS_TABLEKEY_SETITEMIDS] === undefined) {
         if (isNonEsoSetId === true) {
           const preloadedItemIds = asSetIdItemIdMap(preloaded[preloadedSetItemIdsTableKey])
           itemIds = preloadedItemIds[setId]
@@ -109,7 +109,7 @@ function getSetInfo(
           itemIds = decompressSetIdItemIds(setId)
         }
         if (!ZO_IsTableEmpty(itemIds)) {
-          setInfoTable[LIBSETS_TABLEKEY_SETITEMIDS] = itemIds
+          setInfoTable[SETS_TABLEKEY_SETITEMIDS] = itemIds
           gotSetItemIds = true
         }
       }
@@ -118,8 +118,8 @@ function getSetInfo(
     }
 
     if (
-      setInfoTable[LIBSETS_TABLEKEY_DROPMECHANIC_NAMES] === undefined ||
-      setInfoTable[LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES] === undefined
+      setInfoTable[SETS_TABLEKEY_DROPMECHANIC_NAMES] === undefined ||
+      setInfoTable[SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES] === undefined
     ) {
       let gotSetDropMechanicData = false
       let gotSetDropMechanicLocationData = false
@@ -130,12 +130,11 @@ function getSetInfo(
       const dropMechanicNamesTable = asLangRecordOpt(dropMechanicNamesRaw)
       const dropMechanicDropLocationNamesTable = asLangRecordOpt(dropMechanicDropLocationNamesRaw)
       if (!ZO_IsTableEmpty(dropMechanicNamesTable)) {
-        setInfoTable[LIBSETS_TABLEKEY_DROPMECHANIC_NAMES] = dropMechanicNamesTable
+        setInfoTable[SETS_TABLEKEY_DROPMECHANIC_NAMES] = dropMechanicNamesTable
         gotSetDropMechanicData = true
       }
       if (!ZO_IsTableEmpty(dropMechanicDropLocationNamesTable)) {
-        setInfoTable[LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES] =
-          dropMechanicDropLocationNamesTable
+        setInfoTable[SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES] = dropMechanicDropLocationNamesTable
         gotSetDropMechanicLocationData = true
       }
       if (gotSetDropMechanicData === true && gotSetDropMechanicLocationData === true) {
@@ -163,7 +162,7 @@ function getSetInfo(
     setNamesEmpty = ZO_IsTableEmpty(setNames)
     if (!setNamesEmpty) {
       if (!onlyOneLanguage) {
-        setInfoTable[LIBSETS_TABLEKEY_SETNAMES] = setNames
+        setInfoTable[SETS_TABLEKEY_SETNAMES] = setNames
         gotSetNames = true
       }
     }
@@ -185,11 +184,11 @@ function getSetInfo(
   returnTab = zostc(setInfoTable)
 
   if (noItemIdsResolved === true) {
-    returnTab[LIBSETS_TABLEKEY_SETITEMIDS] = undefined
+    returnTab[SETS_TABLEKEY_SETITEMIDS] = undefined
   }
 
   if (!setNamesEmpty && onlyOneLanguage === true) {
-    returnTab[LIBSETS_TABLEKEY_SETNAMES] = setNames
+    returnTab[SETS_TABLEKEY_SETNAMES] = setNames
     if (noItemIdsResolved === true) {
       tooltipSetDataWithoutItemIdsCached[setId] = returnTab
     }

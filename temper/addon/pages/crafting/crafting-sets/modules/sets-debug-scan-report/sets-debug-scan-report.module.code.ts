@@ -21,13 +21,13 @@ import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/se
 import { ADDON_NAME } from "akasha/temper/addon/pages/crafting/modules/crafting-constants/crafting-constants.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_NEWSETIDS,
-  LIBSETS_TABLEKEY_SETITEMIDS,
-  LIBSETS_TABLEKEY_SETNAMES,
-  LIBSETS_TABLEKEY_SETS_ARMOR_TYPES,
-  LIBSETS_TABLEKEY_SETS_EQUIP_TYPES,
-  LIBSETS_TABLEKEY_SETS_JEWELRY,
-  LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES,
+  SETS_TABLEKEY_NEWSETIDS,
+  SETS_TABLEKEY_SETITEMIDS,
+  SETS_TABLEKEY_SETNAMES,
+  SETS_TABLEKEY_SETS_ARMOR_TYPES,
+  SETS_TABLEKEY_SETS_EQUIP_TYPES,
+  SETS_TABLEKEY_SETS_JEWELRY,
+  SETS_TABLEKEY_SETS_WEAPONS_TYPES,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
@@ -77,7 +77,7 @@ export function showSetCountsScanned(
         " Scanning of sets has finished! SavedVariables file '" +
         ADDON_NAME +
         ".lua' table '" +
-        LIBSETS_TABLEKEY_SETITEMIDS +
+        SETS_TABLEKEY_SETITEMIDS +
         "' was" +
         temporarilyText +
         " written! <<<"
@@ -89,9 +89,7 @@ export function showSetCountsScanned(
         d(">> !!! Found " + tostring(newSetsFound) + " new setIds !!!")
         for (const [idx, newSetId] of ipairs(SCAN_STATE.newSetIdsFound)) {
           let newSetName: string | undefined
-          const preloadedSetNames = asSetNamesTableOpt(
-            lib.setDataPreloaded[LIBSETS_TABLEKEY_SETNAMES]
-          )
+          const preloadedSetNames = asSetNamesTableOpt(lib.setDataPreloaded[SETS_TABLEKEY_SETNAMES])
           if (preloadedSetNames[newSetId] !== undefined) {
             newSetName =
               preloadedSetNames[newSetId][clientLang] ?? preloadedSetNames[newSetId][fallbackLang]
@@ -103,10 +101,7 @@ export function showSetCountsScanned(
             newSetName = ZO_CachedStrFormat("<<C:1>>", newSetName)
           } else {
             newSetName =
-              UNKNOWN_NAME +
-              " - Name unknown in setDataPreloaded['" +
-              LIBSETS_TABLEKEY_SETNAMES +
-              "']"
+              UNKNOWN_NAME + " - Name unknown in setDataPreloaded['" + SETS_TABLEKEY_SETNAMES + "']"
           }
           df(
             ">>>New setId found at index %s: %s -> name: %s",
@@ -122,10 +117,10 @@ export function showSetCountsScanned(
       const sv = asPresent(lib.svDebugData)
       if (newSetsFound > 0) {
         const apiVersionUpdatedStr = tostring(apiVersion) + "_UpdateInfo"
-        if (sv[LIBSETS_TABLEKEY_NEWSETIDS] === undefined) {
-          sv[LIBSETS_TABLEKEY_NEWSETIDS] = {}
+        if (sv[SETS_TABLEKEY_NEWSETIDS] === undefined) {
+          sv[SETS_TABLEKEY_NEWSETIDS] = {}
         }
-        const newSetIdsSV = asNewSetIdsSV(sv[LIBSETS_TABLEKEY_NEWSETIDS])
+        const newSetIdsSV = asNewSetIdsSV(sv[SETS_TABLEKEY_NEWSETIDS])
         if (newSetIdsSV[worldName] === undefined) {
           newSetIdsSV[worldName] = {}
         }
@@ -137,20 +132,20 @@ export function showSetCountsScanned(
         }
       }
 
-      sv[LIBSETS_TABLEKEY_SETITEMIDS] = SCAN_STATE.sets
-      sv[LIBSETS_TABLEKEY_SETS_EQUIP_TYPES] = SCAN_STATE.setsEquipTypes
-      sv[LIBSETS_TABLEKEY_SETS_ARMOR_TYPES] = SCAN_STATE.setsArmorTypes
-      sv[LIBSETS_TABLEKEY_SETS_JEWELRY] = SCAN_STATE.setsJewelry
-      sv[LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES] = SCAN_STATE.setsWeaponTypes
+      sv[SETS_TABLEKEY_SETITEMIDS] = SCAN_STATE.sets
+      sv[SETS_TABLEKEY_SETS_EQUIP_TYPES] = SCAN_STATE.setsEquipTypes
+      sv[SETS_TABLEKEY_SETS_ARMOR_TYPES] = SCAN_STATE.setsArmorTypes
+      sv[SETS_TABLEKEY_SETS_JEWELRY] = SCAN_STATE.setsJewelry
+      sv[SETS_TABLEKEY_SETS_WEAPONS_TYPES] = SCAN_STATE.setsWeaponTypes
 
       asPresent(DEBUG_HOLDER.compressSetItemIdsNow)(SCAN_STATE.sets, noReload)
       if (!keepUncompressed) {
-        sv[LIBSETS_TABLEKEY_SETITEMIDS] = undefined
+        sv[SETS_TABLEKEY_SETITEMIDS] = undefined
         d(
           ">>> SavedVariables file '" +
             ADDON_NAME +
             ".lua's table '" +
-            LIBSETS_TABLEKEY_SETITEMIDS +
+            SETS_TABLEKEY_SETITEMIDS +
             "' was deleted again to free space and speed-up the loading screens! <<<"
         )
       }

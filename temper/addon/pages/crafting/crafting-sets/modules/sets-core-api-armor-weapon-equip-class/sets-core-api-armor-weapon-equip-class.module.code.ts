@@ -21,9 +21,9 @@ import { safeReturnAPItable } from "akasha/temper/addon/pages/crafting/crafting-
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_SETNAMES,
-  LIBSETS_TABLEKEY_SETNAMES_NO_SETID,
-  LIBSETS_TABLEKEY_WAYSHRINES,
+  SETS_TABLEKEY_SETNAMES,
+  SETS_TABLEKEY_SETNAMES_NO_SETID,
+  SETS_TABLEKEY_WAYSHRINES,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
@@ -201,8 +201,8 @@ function getSetByName(
   }
   const langResolved = lib.LangAllowedCheck(lang)
   const preloaded = lib.setDataPreloaded
-  const setNamesNonESO = asSetIdLangStringOptMap(preloaded[LIBSETS_TABLEKEY_SETNAMES_NO_SETID])
-  const setNames = asSetIdLangStringOptMap(preloaded[LIBSETS_TABLEKEY_SETNAMES])
+  const setNamesNonESO = asSetIdLangStringOptMap(preloaded[SETS_TABLEKEY_SETNAMES_NO_SETID])
+  const setNames = asSetIdLangStringOptMap(preloaded[SETS_TABLEKEY_SETNAMES])
   for (const [setId, namesOfSets] of pairs(setNames)) {
     const setNameInLanguageToSearch = namesOfSets[langResolved]
     if (setNameInLanguageToSearch !== undefined && setNameInLanguageToSearch === setName) {
@@ -267,7 +267,7 @@ function jumpToSetId(
   if (
     setId === undefined ||
     setInfo[setId] === undefined ||
-    asPresent(setInfo[setId])[LIBSETS_TABLEKEY_WAYSHRINES] === undefined
+    asPresent(setInfo[setId])[SETS_TABLEKEY_WAYSHRINES] === undefined
   ) {
     return false
   }
@@ -281,9 +281,9 @@ function jumpToSetId(
   let jumpToNode = -1
   let setWayshrines: { [factionIndex: number]: number } | undefined
   if (isNoESOSet(setId)) {
-    setWayshrines = asFactionNumberMap(asPresent(setInfo[setId])[LIBSETS_TABLEKEY_WAYSHRINES])
+    setWayshrines = asFactionNumberMap(asPresent(setInfo[setId])[SETS_TABLEKEY_WAYSHRINES])
   } else {
-    setWayshrines = asFactionNumberMap(asPresent(noSetIdSets[setId])[LIBSETS_TABLEKEY_WAYSHRINES])
+    setWayshrines = asFactionNumberMap(asPresent(noSetIdSets[setId])[SETS_TABLEKEY_WAYSHRINES])
   }
   if (setWayshrines === undefined) {
     return false

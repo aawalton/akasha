@@ -20,15 +20,15 @@ import { ZONE_IDS_OF_NEWER_API_VERSION } from "akasha/temper/addon/pages/craftin
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets-api/lib-sets-api.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_SETITEMIDS,
-  LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID,
-  LIBSETS_TABLEKEY_SETNAMES,
-  LIBSETS_TABLEKEY_SETNAMES_NO_SETID,
-  LIBSETS_TABLEKEY_SETS_ARMOR_TYPES,
-  LIBSETS_TABLEKEY_SETS_EQUIP_TYPES,
-  LIBSETS_TABLEKEY_SETS_JEWELRY,
-  LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES,
-  LIBSETS_TABLEKEY_WAYSHRINENODEID2ZONEID,
+  SETS_TABLEKEY_SETITEMIDS,
+  SETS_TABLEKEY_SETITEMIDS_NO_SETID,
+  SETS_TABLEKEY_SETNAMES,
+  SETS_TABLEKEY_SETNAMES_NO_SETID,
+  SETS_TABLEKEY_SETS_ARMOR_TYPES,
+  SETS_TABLEKEY_SETS_EQUIP_TYPES,
+  SETS_TABLEKEY_SETS_JEWELRY,
+  SETS_TABLEKEY_SETS_WEAPONS_TYPES,
+  SETS_TABLEKEY_WAYSHRINENODEID2ZONEID,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
@@ -53,24 +53,24 @@ function removeFutureSetData(this: void): undefined {
       const nonSetIds = lib.noSetIdSets
       const setInfo = lib.setInfo
       const nonExistingSetIdsAtCurrentApiVersion = lib.nonExistingSetIdsAtCurrentApiVersion
-      const setIdsToSetItemIds = asNumRecord(setDataPreloaded[LIBSETS_TABLEKEY_SETITEMIDS])
+      const setIdsToSetItemIds = asNumRecord(setDataPreloaded[SETS_TABLEKEY_SETITEMIDS])
       const setIdsNoSetToSetItemIds = asNumRecord(
-        setDataPreloaded[LIBSETS_TABLEKEY_SETITEMIDS_NO_SETID]
+        setDataPreloaded[SETS_TABLEKEY_SETITEMIDS_NO_SETID]
       )
       const setNamesNoSetToSetItemIds = asNumRecord(
-        setDataPreloaded[LIBSETS_TABLEKEY_SETNAMES_NO_SETID]
+        setDataPreloaded[SETS_TABLEKEY_SETNAMES_NO_SETID]
       )
       const preloadedEquipTypeData = asNumKeyedNumRecord(
-        setDataPreloaded[LIBSETS_TABLEKEY_SETS_EQUIP_TYPES]
+        setDataPreloaded[SETS_TABLEKEY_SETS_EQUIP_TYPES]
       )
       const preloadedArmorTypeData = asNumKeyedNumRecord(
-        setDataPreloaded[LIBSETS_TABLEKEY_SETS_ARMOR_TYPES]
+        setDataPreloaded[SETS_TABLEKEY_SETS_ARMOR_TYPES]
       )
       const preloadedWeaponTypeData = asNumKeyedNumRecord(
-        setDataPreloaded[LIBSETS_TABLEKEY_SETS_WEAPONS_TYPES]
+        setDataPreloaded[SETS_TABLEKEY_SETS_WEAPONS_TYPES]
       )
-      const preloadedIsJewelryData = asNumRecord(setDataPreloaded[LIBSETS_TABLEKEY_SETS_JEWELRY])
-      const setIdsToSetNames = asNumRecord(setDataPreloaded[LIBSETS_TABLEKEY_SETNAMES])
+      const preloadedIsJewelryData = asNumRecord(setDataPreloaded[SETS_TABLEKEY_SETS_JEWELRY])
+      const setIdsToSetNames = asNumRecord(setDataPreloaded[SETS_TABLEKEY_SETNAMES])
       for (const [, setIdOfNewAPIVersion] of ipairs(setsOfNewerAPIVersion)) {
         if (setIdOfNewAPIVersion !== undefined) {
           if (nonSetIds[setIdOfNewAPIVersion] !== undefined) {
@@ -123,7 +123,7 @@ function removeFutureSetData(this: void): undefined {
       !ZO_IsTableEmpty(zoneIdsOfNewAPIVersionOnly)
     ) {
       const wayshrines2ZoneIds = asNumToNumRecord(
-        setDataPreloaded[LIBSETS_TABLEKEY_WAYSHRINENODEID2ZONEID]
+        setDataPreloaded[SETS_TABLEKEY_WAYSHRINENODEID2ZONEID]
       )
       for (const [, zoneIdOfNewAPIVersion] of pairs(zoneIdsOfNewAPIVersionOnly)) {
         if (zoneIdOfNewAPIVersion !== undefined) {

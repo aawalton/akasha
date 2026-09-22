@@ -8,11 +8,11 @@ import { asRemoveLanguagesFullFn } from "akasha/temper/addon/pages/crafting/craf
 import { safeReturnAPItable } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-core-helpers/sets-core-helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  LIBSETS_TABLEKEY_DROPMECHANIC,
-  LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
-  LIBSETS_TABLEKEY_DROPMECHANIC_NAMES,
-  LIBSETS_TABLEKEY_DROPMECHANIC_TOOLTIP_NAMES,
-  LIBSETS_TABLEKEY_ZONEIDS,
+  SETS_TABLEKEY_DROPMECHANIC,
+  SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
+  SETS_TABLEKEY_DROPMECHANIC_NAMES,
+  SETS_TABLEKEY_DROPMECHANIC_TOOLTIP_NAMES,
+  SETS_TABLEKEY_ZONEIDS,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
@@ -85,19 +85,19 @@ function getDropMechanic(
       setData = asStrRecordEntryOpt(lib.noSetIdSets[setId])
     }
   }
-  if (setData === undefined || setData[LIBSETS_TABLEKEY_DROPMECHANIC] === undefined) {
+  if (setData === undefined || setData[SETS_TABLEKEY_DROPMECHANIC] === undefined) {
     return $multi(undefined, undefined, undefined, undefined, undefined)
   }
-  const dropMechanicIds = setData[LIBSETS_TABLEKEY_DROPMECHANIC]
-  const dropZoneIds = setData[LIBSETS_TABLEKEY_ZONEIDS]
+  const dropMechanicIds = setData[SETS_TABLEKEY_DROPMECHANIC]
+  const dropZoneIds = setData[SETS_TABLEKEY_ZONEIDS]
   let dropMechanicNames: { [lang: string]: unknown } | undefined
   let dropMechanicLocationNames: { [lang: string]: unknown } | undefined
   let dropMechanicTooltips: { [lang: string]: unknown } | undefined
   if (withNamesResolved === true) {
     let buildNames = false
-    if (setData[LIBSETS_TABLEKEY_DROPMECHANIC_NAMES] !== undefined) {
+    if (setData[SETS_TABLEKEY_DROPMECHANIC_NAMES] !== undefined) {
       dropMechanicNames = asLangRecordOpt(
-        ZO_ShallowTableCopy(setData[LIBSETS_TABLEKEY_DROPMECHANIC_NAMES])
+        ZO_ShallowTableCopy(setData[SETS_TABLEKEY_DROPMECHANIC_NAMES])
       )
       if (langResolved !== undefined) {
         dropMechanicNames = removeLanguages(dropMechanicNames, langResolved)
@@ -105,9 +105,9 @@ function getDropMechanic(
     } else {
       buildNames = true
     }
-    if (!buildNames && setData[LIBSETS_TABLEKEY_DROPMECHANIC_TOOLTIP_NAMES] !== undefined) {
+    if (!buildNames && setData[SETS_TABLEKEY_DROPMECHANIC_TOOLTIP_NAMES] !== undefined) {
       dropMechanicTooltips = asLangRecordOpt(
-        ZO_ShallowTableCopy(setData[LIBSETS_TABLEKEY_DROPMECHANIC_TOOLTIP_NAMES])
+        ZO_ShallowTableCopy(setData[SETS_TABLEKEY_DROPMECHANIC_TOOLTIP_NAMES])
       )
       if (langResolved !== undefined) {
         dropMechanicTooltips = removeLanguages(dropMechanicTooltips, langResolved)
@@ -115,9 +115,9 @@ function getDropMechanic(
     } else {
       buildNames = true
     }
-    if (!buildNames && setData[LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES] !== undefined) {
+    if (!buildNames && setData[SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES] !== undefined) {
       dropMechanicLocationNames = asLangRecordOpt(
-        ZO_ShallowTableCopy(setData[LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES])
+        ZO_ShallowTableCopy(setData[SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES])
       )
       if (langResolved !== undefined) {
         dropMechanicLocationNames = removeLanguages(dropMechanicLocationNames, langResolved)

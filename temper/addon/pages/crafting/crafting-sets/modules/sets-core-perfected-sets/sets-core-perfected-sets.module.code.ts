@@ -13,7 +13,7 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-core-casts/sets-core-casts.module.code.ts"
 import { asSetIdPerfectedLinkMap } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import { LIBSETS_SET_ITEMID_TABLE_VALUE_OK } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
+import { SETS_SET_ITEMID_TABLE_VALUE_OK } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
@@ -35,7 +35,7 @@ function isAPerfectedOrNonPerfectedSetId(this: void, setId: number): boolean {
   const setData = asPresent(setInfo[setId])
   if (
     setData["isPerfectedSet"] !== undefined &&
-    setData["isPerfectedSet"] === LIBSETS_SET_ITEMID_TABLE_VALUE_OK
+    setData["isPerfectedSet"] === SETS_SET_ITEMID_TABLE_VALUE_OK
   ) {
     return true
   }
@@ -59,7 +59,7 @@ function fillPerfectedSetDataLookupTables(this: void, setId: number): undefined 
   if (setData !== undefined) {
     if (
       setData["isPerfectedSet"] !== undefined &&
-      setData["isPerfectedSet"] === LIBSETS_SET_ITEMID_TABLE_VALUE_OK
+      setData["isPerfectedSet"] === SETS_SET_ITEMID_TABLE_VALUE_OK
     ) {
       perfectedSetId = setId
       const zoneIds = asIndexNumberMapOpt(setData["zoneIds"])
@@ -185,7 +185,7 @@ function getPerfectedSetData(this: void, setId: number): { [k: string]: unknown 
   let nonPerfectedSetZoneId: number | undefined
 
   if (setData["isPerfectedSet"] !== undefined) {
-    if (setData["isPerfectedSet"] === LIBSETS_SET_ITEMID_TABLE_VALUE_OK) {
+    if (setData["isPerfectedSet"] === SETS_SET_ITEMID_TABLE_VALUE_OK) {
       isPerfectedSet = true
       perfectedSetId = setId
     }
