@@ -4,6 +4,6 @@ export const shifterCasts = {
   id: "01a06187-3644-7b4c-99e4-b1f13f0cfdb3",
   type: "page-type/module",
   slug: "shifter-casts",
-  definition: "the narrowings the untyped shifter box tables are read through",
+  definition: "the narrowings reading the untyped shifter box tables",
   code: "ts",
 } as const satisfies Module

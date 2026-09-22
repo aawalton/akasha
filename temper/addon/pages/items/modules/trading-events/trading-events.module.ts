@@ -4,7 +4,7 @@ export const tradingEvents = {
   id: "01a06160-2a5a-796d-b687-09aeb649b743",
   type: "page-type/module",
   slug: "trading-events",
-  definition: "the game events the listings add-on listens for",
+  definition: "the game events the listings add-on watches",
   code: "ts",
   decisions: [
     {

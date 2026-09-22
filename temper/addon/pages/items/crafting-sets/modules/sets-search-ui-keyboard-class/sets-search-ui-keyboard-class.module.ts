@@ -4,7 +4,7 @@ export const setsSearchUiKeyboardClass = {
   id: "01a0623e-53a0-7c7c-9ac1-5e5f85c57505",
   type: "page-type/module",
   slug: "sets-search-ui-keyboard-class",
-  definition: "the class the keyboard search window's objects are made from",
+  definition: "the class making the keyboard search window's objects",
   code: "ts",
   decisions: [
     {

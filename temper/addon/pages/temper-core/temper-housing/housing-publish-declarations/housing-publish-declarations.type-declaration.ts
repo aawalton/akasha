@@ -4,6 +4,6 @@ export const housingPublishDeclarations = {
   id: "01a0625f-6d05-750b-a082-d4ace9f90cbb",
   type: "page-type/type-declaration",
   slug: "housing-publish-declarations",
-  definition: "the global name the older port-to-friend add-on was reached by",
+  definition: "the older port-to-friend add-on's global name",
   d: "ts",
 } as const satisfies TypeDeclaration

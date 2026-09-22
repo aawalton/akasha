@@ -4,7 +4,7 @@ export const shifterBoxTemplate = {
   id: "01a06187-364c-7851-b7ad-0cc5cdf2a05e",
   type: "page-type/eso-interface",
   slug: "shifter-box-template",
-  definition: "the XML template every control of a shifter box is built from",
+  definition: "the XML template building every control of a shifter box",
   markup: "xml",
   loadedAs: "XML/TemperShifterBox.xml",
   decisions: [

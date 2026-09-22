@@ -4,7 +4,7 @@ export const debugLoggerState = {
   id: "01a06061-4092-7326-8928-e32cb0041b24",
   type: "page-type/module",
   slug: "debug-logger-state",
-  definition: "the library table and the internal table every other module reads and fills in",
+  definition: "the library table and the internal table every other module reads and fills",
   code: "ts",
   decisions: [
     {

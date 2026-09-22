@@ -4,6 +4,6 @@ export const inventoryWritCraftingAlchemySolver = {
   id: "01a06258-b535-72b6-8bd4-4eb2eefcda46",
   type: "page-type/module",
   slug: "inventory-writ-crafting-alchemy-solver",
-  definition: "which reagent pairs give the potion a writ asks for",
+  definition: "which reagent pairs give the potion a writ names",
   code: "ts",
 } as const satisfies Module
