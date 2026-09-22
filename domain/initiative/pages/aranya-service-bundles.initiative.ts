@@ -10,7 +10,7 @@ export const aranyaServiceBundles = {
     {
       statement: "No workstation service runs from a pinned tree.",
       workingMemory:
-        "All 59 units name their bundle at `~/.local/state/workstation-services/<slug>/<commit>.js`: 118 bundles, 1.9 GB, two per service. `service-telling@.service` is a template and still names the tree. Left: 15 hourly timers have never been watched ticking from a bundle, three daemons still hold a tree process, then `deploy-tree-pinning` retires and the tree goes. A bundle resolves a bare dynamic import against its own directory, so a non-literal `import()` breaks only on the branch reaching it.",
+        "Every unit names its bundle, the teller among them: `service-telling@.service` is filed under the template's own stem, `service-telling@`. No unit, timer or path names the tree, and no service process runs from one. Left: `persona-email-routing` and `orphaned-resources-sweep` have not been watched ticking from a bundle, each acting outside this machine; every other scheduled service has ticked green from its. Then `deploy-tree-pinning` retires and the tree goes — 12 importers hold it.",
     },
     {
       statement: "A deploy is judged over what the one service it puts up is built from.",
