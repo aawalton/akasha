@@ -2,21 +2,16 @@
 
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+import { playerOf } from "akasha/story/world/stories/played/modules/game-player-beside/game-player-beside.module.code.ts"
 import { useEffect, useState } from "react"
 
 const ATTRIBUTE_TYPE = "tower-attribute"
-
-const GAME_TYPE = "game"
 
 const TYPE_KEY = "type"
 
 const SLUG_KEY = "slug"
 
 const VALUE_KEY = "value"
-
-const EXTERNAL_KEY = "externalId"
-
-const PLAYER_KEY = "player"
 
 const OPENING = "tower-"
 
@@ -40,20 +35,6 @@ export function scoresIn(rows: readonly Scored[]): Record<string, number> {
   }
   held.sort((one, two) => one[0].localeCompare(two[0]))
   return Object.fromEntries(held)
-}
-
-async function playerOf(game: string): Promise<string | null> {
-  const asked = await askComposed({
-    "page-type": GAME_TYPE,
-    where: { externalId: { is: game } },
-    keys: [EXTERNAL_KEY, PLAYER_KEY],
-  })
-  if (!asked.ok) return null
-  for (const row of asked.answer.rows) {
-    const named = row.values[PLAYER_KEY]
-    if (typeof named === "string" && named !== "") return named
-  }
-  return null
 }
 
 async function scoresOf(slug: string): Promise<Record<string, number>> {

@@ -183,3 +183,4 @@
 {"propertySlug":"import","fileName":"the-tower.game.ts","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.test.ts"}
 {"propertySlug":"import","fileName":"the-tower.game.ts","path":"story/game/mechanic-run/modules/run-paging/run-paging.module.test.ts"}
 {"propertySlug":"import","fileName":"the-tower.game.ts","path":"story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.test.ts"}
+{"propertySlug":"import","fileName":"the-tower.game.ts","path":"story/world/stories/played/modules/game-player-beside/game-player-beside.module.test.ts"}
