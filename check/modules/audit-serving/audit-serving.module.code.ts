@@ -307,8 +307,17 @@ export function refusalsNew(before: Verdict | null, after: Verdict): readonly st
   return after.refusals.filter((one) => !had.has(refusalPath(one)))
 }
 
-function headFor(commit: string, refused: number, unmeasured: number): string {
-  const found = `the audit at ${commit} found`
+function headFor(
+  commit: string,
+  refused: number,
+  unmeasured: number,
+  named: readonly string[]
+): string {
+  const over =
+    named.length === 0
+      ? `the audit at ${commit}`
+      : `a run at ${commit} over ${counted(named.length, "check")} asked for by name`
+  const found = `${over} found`
   if (unmeasured === 0) return `${found} ${counted(refused, "check")} ${REFUSING}.`
   if (refused === 0) return `${found} ${counted(unmeasured, "check")} ${NOTHING_MEASURED}.`
   return (
@@ -327,11 +336,15 @@ function saidOf(one: Ran): readonly string[] {
   ]
 }
 
-export function bodyFor(red: readonly Ran[], commit: string): string {
+export function bodyFor(
+  red: readonly Ran[],
+  commit: string,
+  named: readonly string[] = []
+): string {
   const refused = red.filter((one) => measured(one.verdict))
   const unmeasured = red.filter((one) => !measured(one.verdict))
   return [
-    headFor(commit, refused.length, unmeasured.length),
+    headFor(commit, refused.length, unmeasured.length, named),
     ...heldTo([...refused, ...unmeasured].flatMap(saidOf), BODY_CEILING),
     WHOLE,
   ].join("\n")
@@ -384,7 +397,7 @@ async function serving(given: Serving): Promise<Told> {
   const turned = red.map((one) => one.check)
   if (red.length === 0) return { ran, turned, refused: [] }
   const to = given.to ?? championOf(given.root)
-  const why = await telling(send, to, bodyFor(red, over.commit))
+  const why = await telling(send, to, bodyFor(red, over.commit, given.checks))
   return { ran, turned, refused: why === null ? [] : [why] }
 }
 

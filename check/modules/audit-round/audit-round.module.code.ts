@@ -244,7 +244,7 @@ export async function roundTold(
   const ran = answeredIn(checks, after)
   const red = turnedIn(checks, before, after)
   if (red.length === 0) return { ran, turned: [], refused }
-  const why = await telling(send, to ?? championOf(root), bodyFor(red, commit))
+  const why = await telling(send, to ?? championOf(root), bodyFor(red, commit, named))
   return {
     ran,
     turned: red.map((one) => one.check),

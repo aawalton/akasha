@@ -180,6 +180,16 @@ test("what the one told reads names every check that turned and what each refuse
   expect(said).toContain("abc")
   expect(said).toContain("the audit log beside that check's page")
   expect(said).toContain("1 check newly refusing.")
+  expect(said).toContain("the audit at abc found")
+})
+
+test("a run over checks asked for by name says so rather than reading as an audit", () => {
+  const red = [{ check: "typecheck", verdict: { ...CLEAN, refusals: ["one.ts — no"] }, ran: true }]
+  const said = bodyFor(red, "abc", ["typecheck"])
+  expect(said).toContain("a run at abc over 1 check asked for by name found")
+  expect(said).not.toContain("the audit at abc")
+  expect(bodyFor(red, "abc", ["typecheck", "lint-clean"])).toContain("over 2 checks asked for")
+  expect(bodyFor(red, "abc")).toContain("the audit at abc found")
 })
 
 test("a check nothing measured is told and counted apart from one that refused", () => {

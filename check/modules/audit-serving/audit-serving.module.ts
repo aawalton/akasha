@@ -181,6 +181,14 @@ export const auditServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A message says whether the round it tells of was an audit or checks asked for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message telling of checks asked for says how many were asked for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A telling that lands nowhere is said on the error stream and ends the round done.",
     },
