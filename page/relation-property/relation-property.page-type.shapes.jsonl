@@ -144,6 +144,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"person","unique":null,"uniquePropertySlug":null,"slug":"session-owner","propertySlug":"owner","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"session-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"contributor","unique":null,"uniquePropertySlug":null,"slug":"sign-in-contributor","propertySlug":"contributor","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-class","unique":null,"uniquePropertySlug":null,"slug":"skill-line-class","propertySlug":"class","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-skill-type","unique":null,"uniquePropertySlug":null,"slug":"skill-type","propertySlug":"skill-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"song","unique":null,"uniquePropertySlug":null,"slug":"song","propertySlug":"song","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-special-effect-type","unique":null,"uniquePropertySlug":null,"slug":"special-effect","propertySlug":"special-effect","fileName":null,"folderName":null}

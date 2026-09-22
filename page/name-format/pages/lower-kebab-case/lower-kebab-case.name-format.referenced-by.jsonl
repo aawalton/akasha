@@ -106,7 +106,6 @@
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-set/properties/set-class-id.text-property.ts","id":"01a05fd1-d43e-7ece-af53-4be28ed6067d"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/thing/properties/buff-id.text-property.ts","id":"01a05fcc-41f1-7e7a-abd6-c8c6650999ad"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/thing/properties/debuff-id.text-property.ts","id":"01a05fd1-d439-75b3-92b0-1243e1ad274a"}
-{"propertySlug":"name-format","path":"temper/catalog/skill/line/properties/skill-line-class.text-property.ts","id":"01a05fca-cb87-7a9a-9dda-95916e9f73d7"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/properties/skill-status.text-property.ts","id":"01a05fca-cb87-719f-b348-33ad77e63005"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/temper-scribing-source/properties/script-type.text-property.ts","id":"01a05fca-cb86-7ada-8ab9-4822a45c4ebf"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/temper-script/properties/slot-type.text-property.ts","id":"01a05fca-cb87-767f-90a1-977b2c340bc6"}

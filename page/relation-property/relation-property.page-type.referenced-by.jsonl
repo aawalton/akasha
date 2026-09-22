@@ -161,6 +161,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-poison-effect/properties/opposite.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-slot/properties/weapon-slot.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-trait/properties/weapon-trait.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/skill/line/properties/skill-line-class.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/class-id.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/script-id.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-scribed-skill/properties/focus-script-id.relation-property.ts"}

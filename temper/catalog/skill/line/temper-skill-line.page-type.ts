@@ -9,7 +9,7 @@ export const temperSkillLine = {
   parts: [
     "number-property/eso-skill-line-id",
     "number-property/max-rank",
-    "text-property/skill-line-class",
+    "relation-property/skill-line-class",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -17,7 +17,7 @@ export const temperSkillLine = {
     { pageProperty: "number-property/eso-skill-line-id", required: true, many: false },
     { pageProperty: "number-property/max-rank", required: true, many: false },
     { pageProperty: "text-property/subcategory-id", required: true, many: false },
-    { pageProperty: "text-property/skill-line-class", required: false, many: false },
+    { pageProperty: "relation-property/skill-line-class", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",
