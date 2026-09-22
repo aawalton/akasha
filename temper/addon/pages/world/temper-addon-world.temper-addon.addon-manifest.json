@@ -1,7 +1,7 @@
 {
   "name": "TemperWorld",
-  "title": "Temper Navigation",
-  "description": "Navigation hub — world-map and compass pins (map pins + POI/destination pins), the shared CustomCompassPins provider that publishes the COMPASS_PINS global, and the minimap window. Consolidates TemperMapPins, CustomCompassPins, TemperDestinations, and TemperVotansMiniMap (#15147).",
+  "title": "Temper World",
+  "description": "The world around the player: world-map and compass pins, POI and destination pins, and the minimap window.",
   "author": "AlanGaming",
   "version": "1.0.0",
   "addonVersion": 100,

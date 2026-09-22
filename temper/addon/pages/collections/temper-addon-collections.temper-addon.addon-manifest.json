@@ -17,7 +17,7 @@
   ],
   "dependsOn": [
     "LibMapPins-1.0>=10047",
-    "TemperNavigation",
+    "TemperWorld",
     "LibAddonMenu-2.0>=41",
     "LibGPS>=73",
     "LibMapData>=121",

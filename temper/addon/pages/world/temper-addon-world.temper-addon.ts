@@ -338,10 +338,6 @@ export const temperAddonWorld = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The four old add-ons are one add-on here.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The compass pin library is published as CustomCompassPins.",
     },
     {

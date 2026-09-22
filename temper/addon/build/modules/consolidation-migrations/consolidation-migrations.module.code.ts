@@ -191,57 +191,64 @@ export const CONSOLIDATION_MIGRATIONS = [
     },
   },
   {
+    mode: "rename",
+    runFor: "TemperWorld",
+    oldFileBase: "TemperNavigation",
+    newFileBase: "TemperWorld",
+    renames: [],
+  },
+  {
     mode: "append",
-    runFor: "TemperNavigation",
+    runFor: "TemperWorld",
     spec: {
       absorbedFileBase: "TemperMapPins",
       absorbedGlobal: "TemperMapPins_SavedVars",
-      targetFileBase: "TemperNavigation",
+      targetFileBase: "TemperWorld",
     },
   },
   {
     mode: "append",
-    runFor: "TemperNavigation",
+    runFor: "TemperWorld",
     spec: {
       absorbedFileBase: "TemperMapPins",
       absorbedGlobal: "TemperMapPins_SavedGlobal",
-      targetFileBase: "TemperNavigation",
+      targetFileBase: "TemperWorld",
     },
   },
   {
     mode: "append",
-    runFor: "TemperNavigation",
+    runFor: "TemperWorld",
     spec: {
       absorbedFileBase: "TemperMapPins",
       absorbedGlobal: "TemperMapPins_ChestData",
-      targetFileBase: "TemperNavigation",
+      targetFileBase: "TemperWorld",
     },
   },
   {
     mode: "append",
-    runFor: "TemperNavigation",
+    runFor: "TemperWorld",
     spec: {
       absorbedFileBase: "TemperMapPins",
       absorbedGlobal: "TemperMapPins_ThievesTrove",
-      targetFileBase: "TemperNavigation",
+      targetFileBase: "TemperWorld",
     },
   },
   {
     mode: "append",
-    runFor: "TemperNavigation",
+    runFor: "TemperWorld",
     spec: {
       absorbedFileBase: "TemperDestinations",
       absorbedGlobal: "TemperDestinations_SavedVariables",
-      targetFileBase: "TemperNavigation",
+      targetFileBase: "TemperWorld",
     },
   },
   {
     mode: "append",
-    runFor: "TemperNavigation",
+    runFor: "TemperWorld",
     spec: {
       absorbedFileBase: "TemperVotansMiniMap",
       absorbedGlobal: "TemperVotansMiniMap_SavedVariables",
-      targetFileBase: "TemperNavigation",
+      targetFileBase: "TemperWorld",
     },
   },
   {
