@@ -14,11 +14,6 @@ export const awenEngineImprovements = {
     },
     { statement: "Every page under `story/` is of a page type in that set." },
     { statement: "All game state for The Tower uses the new page types." },
-    {
-      statement: "The Tower's attribute scores live only on the new attribute pages.",
-      workingMemory:
-        "Only `turn-state.module.code.ts:135` reads an entity's `attributes`, and `sheet-panel.module.code.tsx:98` already discards it for the 128 new pages. The eight game-mechanic files take a sheet on the command line and read no page, so they block nothing. Deleting `attributes` from the sixteen entity pages needs no code change. What is left is a first-paint flicker while the query resolves, and whether the game master reads the entity page by eye.",
-    },
   ],
   constraints: [
     "Alan approves the shape of each page type under `story/` before that page type is built.",
