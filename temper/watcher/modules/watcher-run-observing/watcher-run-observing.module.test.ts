@@ -14,7 +14,6 @@ import {
   statMtimeMs,
   TARGET_OPERATIONS,
 } from "akasha/temper/watcher/modules/watcher-run-observing/watcher-run-observing.module.code.ts"
-import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
 
 const SCRATCH_AT = "/var/tmp"
 
