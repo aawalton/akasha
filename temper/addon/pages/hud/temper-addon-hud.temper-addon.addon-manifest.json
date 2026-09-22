@@ -24,8 +24,7 @@
   ],
   "additionalLuaFiles": [],
   "dependsOn": [
-    "LibAddonMenu-2.0>=43",
-    "LibCustomMenu"
+    "LibAddonMenu-2.0>=43"
   ],
   "optionalDependsOn": [
     "LibGroupBroadcast",

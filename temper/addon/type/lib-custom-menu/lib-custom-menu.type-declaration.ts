@@ -1,9 +1,0 @@
-import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
-
-export const libCustomMenu = {
-  id: "01a06090-f5b1-70e8-91e9-171d71d507c1",
-  type: "page-type/type-declaration",
-  slug: "lib-custom-menu",
-  definition: "what the lib-custom-menu library leaves in another add-on's reach",
-  d: "ts",
-} as const satisfies TypeDeclaration

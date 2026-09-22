@@ -20,9 +20,7 @@
     "LibAddonMenu-2.0>=43",
     "TemperHud"
   ],
-  "optionalDependsOn": [
-    "LibCustomMenu>=730"
-  ],
+  "optionalDependsOn": [],
   "additionalLuaFiles": [
     "TemperCharactersConfig.lua",
     "TemperCharactersCompanionsConfig.lua"

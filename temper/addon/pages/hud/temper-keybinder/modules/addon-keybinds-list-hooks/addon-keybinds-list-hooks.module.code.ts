@@ -8,7 +8,7 @@ import type { LakTable } from "akasha/temper/addon/pages/hud/temper-keybinder/mo
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/writ-mark-decl-writ-worthy/writ-mark-decl-writ-worthy.type-declaration.d.ts"
 import "akasha/temper/addon/pages/hud/temper-keybinder/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.d.ts"
-import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/hud/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-inventory-trade/eso-inventory-trade.type-declaration.d.ts"

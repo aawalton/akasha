@@ -39,7 +39,7 @@ import "akasha/temper/addon/pages/combat/combat-controls-report/combat-controls-
 import "akasha/temper/addon/pages/combat/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-public-api/combat-public-api.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-custom-menu-global/temper-custom-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -177,7 +177,7 @@ function plotSelectionMenu(this: void, selector: Control): undefined {
   let funcId = 1
 
   for (const data of menuData.categoryStrings) {
-    const submenu: LibCustomMenuEntry[] = []
+    const submenu: TemperCustomMenuEntry[] = []
 
     for (const data2 of menuData.mainCategoryFunctions) {
       table.insert(submenu, {
@@ -194,7 +194,7 @@ function plotSelectionMenu(this: void, selector: Control): undefined {
   AddCustomMenuItem(GetString(SI_TEMPER_COMBAT_BOSS_HP), plotFunction(funcId))
   funcId = funcId + 1
 
-  const submenu2: LibCustomMenuEntry[] = []
+  const submenu2: TemperCustomMenuEntry[] = []
 
   for (const data of menuData.resourceStrings) {
     table.insert(submenu2, {
@@ -207,7 +207,7 @@ function plotSelectionMenu(this: void, selector: Control): undefined {
 
   AddCustomSubMenuItem(GetString(SI_TEMPER_COMBAT_RESOURCES), submenu2)
 
-  const submenu3: LibCustomMenuEntry[] = []
+  const submenu3: TemperCustomMenuEntry[] = []
 
   let id = 0
   for (const data of menuData.statStrings) {
@@ -226,7 +226,7 @@ function plotSelectionMenu(this: void, selector: Control): undefined {
 
   AddCustomSubMenuItem(GetString(SI_TEMPER_COMBAT_STATS), submenu3)
 
-  const submenu4: LibCustomMenuEntry[] = []
+  const submenu4: TemperCustomMenuEntry[] = []
 
   for (const data of menuData.performanceStrings) {
     table.insert(submenu4, {

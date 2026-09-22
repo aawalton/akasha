@@ -77,6 +77,8 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-async/modules/async-types/async-types.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-history/chat-history.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-chat-capture/housing-chat-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-holder-types/housing-holder-types.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-slash/housing-slash.module.code.ts"}
@@ -248,8 +250,6 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-detection/inventory-writ-detection.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown-scroll/addon-menu-widget-dropdown-scroll.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-helpers/map-pins-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}

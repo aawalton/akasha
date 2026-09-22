@@ -30,7 +30,7 @@ import "akasha/temper/addon/pages/combat/combat-public-api-declarations/combat-p
 import "akasha/temper/addon/pages/combat/modules/combat-public-api/combat-public-api.module.code.ts"
 import "akasha/temper/addon/pages/combat/combat-string-ids-menus/combat-string-ids-menus.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-custom-menu-global/temper-custom-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
@@ -106,7 +106,7 @@ function settingsContextMenu(this: void, settingsbutton: Control, upInside: bool
     ? SI_TEMPER_COMBAT_MENU_HIDEPETS
     : SI_TEMPER_COMBAT_MENU_SHOWPETS_NAME
 
-  const postoptions: LibCustomMenuEntry[] = []
+  const postoptions: TemperCustomMenuEntry[] = []
 
   table.insert(postoptions, {
     label: GetString(SI_TEMPER_COMBAT_POSTSINGLEDPS),

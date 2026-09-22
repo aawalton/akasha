@@ -5,6 +5,7 @@ import "akasha/temper/addon/pages/hud/modules/hud-addon-public-api/hud-addon-pub
 import "akasha/temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-main/debug-logger-main.module.code.ts"
 import "akasha/temper/addon/pages/hud/temper-async/modules/async-main/async-main.module.code.ts"
 import "akasha/temper/addon/pages/hud/temper-chat-message/modules/chat-message-main/chat-message-main.module.code.ts"
+import "akasha/temper/addon/pages/hud/temper-custom-menu/modules/custom-menu-main/custom-menu-main.module.code.ts"
 import "akasha/temper/addon/pages/hud/temper-main-menu/modules/main-menu-entry/main-menu-entry.module.code.ts"
 import "akasha/temper/addon/pages/hud/temper-notification/modules/notification-entry/notification-entry.module.code.ts"
 import "akasha/temper/addon/pages/hud/temper-scrollable-menu/modules/scrollable-menu-main/scrollable-menu-main.module.code.ts"

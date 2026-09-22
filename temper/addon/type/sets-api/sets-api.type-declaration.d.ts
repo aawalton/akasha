@@ -393,7 +393,7 @@ interface SetsApi {
   removeFutureSetData?: (this: void) => void
 
   scrollableMenu?: unknown
-  libCustomMenu?: unknown
+  customMenu?: unknown
   libAddonMenu?: unknown
   libSlashCommander?: unknown
   libZone?: unknown
@@ -662,5 +662,5 @@ interface SetsApi {
   GetPublicDungeonZoneIdParentZoneId: (this: void, zoneId: number | undefined) => number | undefined
   addUIButtons?: (this: void) => void
   addSetCollectionsSearchItemLinkContextMenuEntry?: (this: void) => void
-  LCM?: unknown
+  customMenuHandle?: unknown
 }

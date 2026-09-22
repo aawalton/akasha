@@ -14,7 +14,7 @@ import type {
 import "akasha/temper/addon/pages/lib-addon-menu/addon-menu-eso-combobox/addon-menu-eso-combobox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-addon-menu/addon-menu-eso-controls/addon-menu-eso-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
-import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/hud/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"

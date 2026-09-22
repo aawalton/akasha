@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/submenu-rows/submenu-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-map/fco-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-scrollable-menu/modules/scrollable-menu-combobox-base-setup-toggles/scrollable-menu-combobox-base-setup-toggles.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-scrollable-menu/modules/scrollable-menu-combobox-header/scrollable-menu-combobox-header.module.code.ts"}
@@ -7,7 +8,6 @@
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-loc-strings-en/sets-loc-strings-en.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-potion-craft/potion-potion-craft.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-window-helpers/potion-window-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-rows/submenu-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-lib/map-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}

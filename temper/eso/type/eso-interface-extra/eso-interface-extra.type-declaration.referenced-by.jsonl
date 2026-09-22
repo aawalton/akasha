@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-constants/fco-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-mainmenu/fco-mainmenu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-overall/fco-overall.module.code.ts"}
@@ -23,7 +24,6 @@
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-notification/modules/notification-row-overrides/notification-row-overrides.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-main-menu/potion-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window-debug/sales-history-status-window-debug.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-window/journal-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-notifications/lost-treasure-notifications.module.code.ts"}

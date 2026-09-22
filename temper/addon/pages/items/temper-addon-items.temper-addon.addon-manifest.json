@@ -29,12 +29,10 @@
   "dependsOn": [
     "TemperCharacters",
     "TemperHud",
-    "LibAddonMenu-2.0>=43",
-    "LibCustomMenu>=692"
+    "LibAddonMenu-2.0>=43"
   ],
   "optionalDependsOn": [
     "TamrielTradeCentre",
-    "LibCustomMenu",
     "ItemSaver",
     "FCOItemSaver",
     "MasterMerchant",

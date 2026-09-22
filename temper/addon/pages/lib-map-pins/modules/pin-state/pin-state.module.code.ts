@@ -7,7 +7,7 @@ import {
 import type { Lib } from "akasha/temper/addon/pages/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"
 import { refreshPins } from "akasha/temper/addon/pages/lib-map-pins/modules/pin-types/pin-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/hud/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-filters/eso-world-map-filters.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 

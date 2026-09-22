@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-build-export/combat-ui-build-export.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-bottom/combat-ui-info-bottom.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/submenu-text-colors/submenu-text-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-bank/fco-bank.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-inventory/fco-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-panel-storage/fco-panel-storage.module.code.ts"}
@@ -112,7 +113,6 @@
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-enchanting/inventory-writ-crafting-enchanting.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master-match/inventory-writ-crafting-master-match.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/sales-capture/sales-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-text-colors/submenu-text-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-inventory-scan/map-pins-inventory-scan.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-toggles/minimap-toggles.module.code.ts"}

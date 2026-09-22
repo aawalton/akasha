@@ -134,7 +134,7 @@ function loadLAMSettingsMenu(this: void): boolean | undefined {
         }
       },
       default: defaultSettings["addSetCollectionsSearchItemLink"],
-      disabled: (): boolean => lib.LCM === undefined,
+      disabled: (): boolean => lib.customMenuHandle === undefined,
       requiresReload: true,
       width: "full",
     },

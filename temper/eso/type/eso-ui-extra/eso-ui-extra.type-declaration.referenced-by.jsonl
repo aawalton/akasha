@@ -1,4 +1,7 @@
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/custom-menu-public-api/custom-menu-public-api.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/submenu-rows/submenu-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-comboboxes/housing-comboboxes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-dropdowns/housing-dropdowns.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-scrollable-menu/modules/scrollable-menu-combobox-base-dims/scrollable-menu-combobox-base-dims.module.code.ts"}
@@ -32,8 +35,5 @@
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-iconpicker/addon-menu-widget-iconpicker.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-panel/addon-menu-widget-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-slider/addon-menu-widget-slider.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-public-api/custom-menu-public-api.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-rows/submenu-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

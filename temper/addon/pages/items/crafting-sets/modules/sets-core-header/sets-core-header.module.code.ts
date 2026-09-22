@@ -3,7 +3,7 @@ import {
   asTyped,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { asScrollableMenuHandleOpt } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
-import "akasha/temper/addon/type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-custom-menu-global/temper-custom-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
@@ -24,7 +24,7 @@ function checkOptionalScrollableMenu(this: void): undefined {
 
 function checkOptionalLibraries(this: void): undefined {
   checkOptionalScrollableMenu()
-  lib.libCustomMenu = LibCustomMenu
+  lib.customMenu = TemperCustomMenu
   lib.libAddonMenu = LibAddonMenu2
   lib.libSlashCommander = asGlobalTable(globalThis).LibSlashCommander
   lib.libZone = asGlobalTable(globalThis).LibZone

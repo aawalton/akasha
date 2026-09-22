@@ -1,5 +1,5 @@
 import "akasha/temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/hud/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/addon/pages/hud/temper-scrollable-menu/scrollable-menu-api-shapes/scrollable-menu-api-shapes.type-declaration.d.ts"
 import "akasha/temper/addon/pages/hud/temper-scrollable-menu/scrollable-menu-buttongroup-shapes/scrollable-menu-buttongroup-shapes.type-declaration.d.ts"
 import "akasha/temper/addon/pages/hud/temper-scrollable-menu/scrollable-menu-code-shapes/scrollable-menu-code-shapes.type-declaration.d.ts"

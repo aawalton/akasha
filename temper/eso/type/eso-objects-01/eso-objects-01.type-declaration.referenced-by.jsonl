@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot/combat-ui-plot.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-resource-panel/combat-ui-resource-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-window/combat-ui-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-build-house-tab/housing-build-house-tab.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-build-window/housing-build-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-favorites-render/housing-favorites-render.module.code.ts"}
@@ -45,7 +46,6 @@
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-editbox/addon-menu-widget-editbox.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-slider/addon-menu-widget-slider.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-library/lorebooks-library.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-reports/lorebooks-reports.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"}

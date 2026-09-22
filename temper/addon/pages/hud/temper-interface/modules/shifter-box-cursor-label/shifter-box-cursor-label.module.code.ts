@@ -7,7 +7,7 @@ import { DEFAULT_LIST_SETTINGS } from "akasha/temper/addon/pages/hud/temper-inte
 import { getCursorTLC } from "akasha/temper/addon/pages/hud/temper-interface/modules/shifter-drag-helpers/shifter-drag-helpers.module.code.ts"
 import { CURSOR_STATE } from "akasha/temper/addon/pages/hud/temper-interface/modules/shifter-state/shifter-state.module.code.ts"
 import type { ShifterBox } from "akasha/temper/addon/pages/hud/temper-interface/modules/shifter-types/shifter-types.module.code.ts"
-import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/hud/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"

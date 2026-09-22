@@ -8,7 +8,7 @@ import {
   asUnknown,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
 import { resetCachedNonActiveSetIds } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-set-checking/sets-core-set-checking.module.code.ts"
-import "akasha/temper/addon/type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-custom-menu-global/temper-custom-menu-global.type-declaration.d.ts"
 import { SETS_SETTYPE_CRAFTED } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-const-settype-ids/sets-const-settype-ids.module.code.ts"
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -68,7 +68,7 @@ function myInvItemLinkCallbackFunc(
     return
   }
 
-  const submenuEntris: LibCustomMenuEntry[] = []
+  const submenuEntris: TemperCustomMenuEntry[] = []
   const subMenuEntrySetCollectionsSearchItemLink = {
     label: zoitf(setTypeTexture, 32, 32, labelLocalizedText, undefined),
     callback: () => {
@@ -84,7 +84,7 @@ function myInvItemLinkCallbackFunc(
 
 let sets_customInvItemLinkContextMenuAdded = false
 function addSetCollectionsSearchItemLinkContextMenuEntry(this: void): undefined {
-  const lcm = asLibCustomMenuHandleOpt(lib.libCustomMenu)
+  const lcm = asLibCustomMenuHandleOpt(lib.customMenu)
   if (
     sets_customInvItemLinkContextMenuAdded ||
     lcm === undefined ||

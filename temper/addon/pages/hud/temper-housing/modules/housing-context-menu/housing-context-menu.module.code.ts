@@ -2,7 +2,7 @@ import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaratio
 import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
-import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/hud/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import { portToFriend } from "akasha/temper/addon/pages/hud/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/hud/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"

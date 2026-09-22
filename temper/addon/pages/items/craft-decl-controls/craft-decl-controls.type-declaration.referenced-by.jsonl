@@ -3,6 +3,9 @@
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-nav/combat-ui-nav.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-title-panel/combat-ui-title-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/menu-row-factories/menu-row-factories.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-custom-menu/modules/submenu-item/submenu-item.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-build-house-tab/housing-build-house-tab.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-build-visit-cards-tab/housing-build-visit-cards-tab.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-favorites-render/housing-favorites-render.module.code.ts"}
@@ -66,9 +69,6 @@
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-iconpicker-menu/addon-menu-widget-iconpicker-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-iconpicker/addon-menu-widget-iconpicker.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-panel/addon-menu-widget-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/menu-row-factories/menu-row-factories.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-tooltips/lorebooks-pins-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-tooltip/skyshards-pc-tooltip.module.code.ts"}
