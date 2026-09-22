@@ -8,7 +8,7 @@ export const verbPhrase = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A verb phrase is one word, or a form of be with a past participle after it.",
+      statement: "A verb phrase is one word, or a form of be with a participle after it.",
     },
     {
       decisionKind: "decision-kind/departure",

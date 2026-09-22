@@ -32,6 +32,7 @@ export const construction = {
     "construction/noun-run-with-a-past-participle-and-a-preposition-phrase",
     "construction/verb-alone",
     "construction/be-verb-with-a-past-participle",
+    "construction/be-verb-with-a-present-participle",
   ],
   extends: ["page-type/domain"],
   properties: [

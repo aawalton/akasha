@@ -2493,6 +2493,7 @@
 {"propertySlug":"decision-kind","path":"domain/purpose/domain-purpose.domain.ts","id":"01a06815-ceaf-7ec0-aa99-46a5438ce629"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/construction.page-type.ts","id":"01a0c57b-2a6d-776f-861f-adfa84782205"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/be-verb-with-a-past-participle.construction.ts","id":"01a0c9a2-f76d-71dc-bf94-7139fa224b3b"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/be-verb-with-a-present-participle.construction.ts","id":"01a0ca12-af3e-7c2a-8691-f11ab7829d6d"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/free-relative-pronoun-with-a-clause.construction.ts","id":"01a0c68f-6d81-7ca8-948f-a44ea461c351"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts","id":"01a0c67a-50ad-7181-9d2e-827c9c7d8f18"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-past-participle-and-a-preposition-phrase.construction.ts","id":"01a0c96f-bee9-7f1f-8d2c-d4d536dcb41c"}
@@ -2513,6 +2514,7 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/past-participle.part-of-speech.ts","id":"01a0c950-0d9f-709d-9ac9-47260104de8d"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/possessive-clitic.part-of-speech.ts","id":"01a0c92e-53e6-73a0-8ff4-bed61e10ef2a"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/preposition.part-of-speech.ts","id":"01a0c58e-f68d-7a49-b538-7624b5cec8d5"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/present-participle.part-of-speech.ts","id":"01a0ca12-8196-7ab3-8bb5-13118634eaed"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/verb.part-of-speech.ts","id":"01a0c677-ca51-7407-b1ca-e2a16319c088"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/phrase-kind/pages/noun-group.phrase-kind.ts","id":"01a0c57e-fcdb-7371-b035-b4d46532dfce"}

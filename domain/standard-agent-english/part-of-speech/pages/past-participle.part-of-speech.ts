@@ -13,7 +13,7 @@ export const pastParticiple = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A word closing in -ing does another job, named on no page yet.",
+      statement: "A word closing in -ing is a present participle rather than one of these.",
     },
     {
       decisionKind: "decision-kind/departure",
