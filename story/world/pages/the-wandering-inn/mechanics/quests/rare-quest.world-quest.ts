@@ -6,5 +6,6 @@ export const rareQuest = {
   slug: "rare-quest",
   title: "Rare Quest",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldQuest
