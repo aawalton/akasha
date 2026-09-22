@@ -17,7 +17,7 @@ export const awenEngineImprovements = {
     {
       statement: "The Tower's attribute scores live only on the new attribute pages.",
       workingMemory:
-        "`the-tower-alan.game-entity.ts` still carries all eight as `attributes` records. Eight game-mechanic code files read them by `game-attribute` slug — hp-max, focus-max, stam-max, initiative, phys-atk, phys-def, ment-atk, ment-def — as does `story/game/turn/modules/turn-state/turn-state.module.code.ts`. The eight new pages under `.../the-tower/mechanics/metrics/attributes/` carry the same values with sparse histories.",
+        "The sheet panel reads the eight attribute pages, the level page and the attribute-point page through `askComposed`, keyed off the game's `player`, falling back to the entity page where a query answers no rows. `the-tower-alan.game-entity.ts` still carries all eight as `attributes`, and eight game-mechanic code files still read them by `game-attribute` slug — hp-max, focus-max, stam-max, initiative, phys-atk, phys-def, ment-atk, ment-def — as does `turn-state.module.code.ts`.",
     },
   ],
   constraints: [
