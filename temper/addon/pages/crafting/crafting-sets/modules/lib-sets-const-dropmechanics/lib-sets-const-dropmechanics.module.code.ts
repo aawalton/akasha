@@ -5,7 +5,6 @@ import {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-drop-mechanic-ids/lib-sets-drop-mechanic-ids.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-misc-ids/lib-sets-misc-ids.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
@@ -22,9 +21,9 @@ const LANG_ZH = "zh"
 const LANG_JP = "jp"
 const LANG_PL = "pl"
 
-G["LIBSETS_SPECIAL_ZONEID_ALLZONES_OF_TAMRIEL"] = 0
-G["LIBSETS_SPECIAL_ZONEID_LEVELUPREWARD"] = -99
-G["LIBSETS_SPECIAL_ZONEID_BATTLEGROUNDS"] = -98
+const LIBSETS_SPECIAL_ZONEID_ALLZONES_OF_TAMRIEL = 0
+const LIBSETS_SPECIAL_ZONEID_LEVELUPREWARD = -99
+const LIBSETS_SPECIAL_ZONEID_BATTLEGROUNDS = -98
 
 const SPECIAL_ZONE_NAMES: { [lang: string]: { [zoneId: number]: string } } = {
   [LANG_DE]: {

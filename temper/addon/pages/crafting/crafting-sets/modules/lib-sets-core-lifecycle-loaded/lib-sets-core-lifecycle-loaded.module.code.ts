@@ -1,11 +1,8 @@
 import { asLibSlotFns } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
-import {
-  asDebugGetAllDataSvOpt,
-  asSearchUiKeyboardOpt,
-} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+import { asDebugGetAllDataSvOpt } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-misc-ids/lib-sets-misc-ids.type-declaration.d.ts"
+import { getKeyboardSearchUI } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-searchui-globals/lib-sets-search-ui-searchui-globals.module.code.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -98,7 +95,7 @@ function onLibraryLoaded(this: void, _event: number, name?: string): undefined {
       gamepadPreferred?: boolean
     ): undefined => {
       if (gamepadPreferred === true) {
-        const searchUiKeyboard = asSearchUiKeyboardOpt(LIBSETS_SEARCH_UI_KEYBOARD)
+        const searchUiKeyboard = getKeyboardSearchUI()
         if (searchUiKeyboard?.IsShown()) {
           searchUiKeyboard.HideUI()
         }

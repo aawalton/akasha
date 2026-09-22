@@ -9,7 +9,7 @@ export const libSetsSearchUiSearchuiGlobals = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A window is reached through a global string key rather than an import.",
+      statement: "A window is reached by importing the function that answers it.",
     },
   ],
 } as const satisfies Module
