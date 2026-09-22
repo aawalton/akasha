@@ -6,4 +6,5 @@ export const theTowerAlan = {
   slug: "the-tower-alan",
   character: "character-player/the-tower-alan",
   value: 20,
+  history: "jsonl",
 } as const satisfies TowerIntellect
