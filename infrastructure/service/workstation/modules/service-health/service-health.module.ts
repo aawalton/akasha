@@ -81,6 +81,29 @@ export const serviceHealth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A unit coming up again after a bad result is broken rather than still coming up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A unit whose result systemd states as other than success is broken, whatever its active state.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A result systemd states as nothing at all is no reason to call a unit broken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The exit a watch leaves on to restart reads success, so a benign restart is well.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A bad result is broken at once, a loop refreshing the moment the settle is measured from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A unit systemd does not know is broken rather than well.",
     },
     {
@@ -90,7 +113,7 @@ export const serviceHealth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A unit that failed or is not running names the moment systemd measured it entering that state.",
+        "A unit that failed, ended badly or is not running names the moment systemd measured it.",
     },
     {
       decisionKind: "decision-kind/departure",

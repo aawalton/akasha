@@ -19,6 +19,7 @@ const STATE_CHANGE = "StateChangeTimestamp"
 const UNIX_STAMP = "--timestamp=unix"
 const A_SECOND = 1000
 const WELL = new Set(["active", "activating", "reloading"])
+const SUCCESS = "success"
 export const SETTLE_MS = 120_000
 const UNBOUND = "unbound"
 
@@ -122,16 +123,23 @@ export function settling(changedAt: string | null, now: Date): boolean {
   return now.getTime() - at < SETTLE_MS
 }
 
+function endedIn(one: Watched, said: string, state: UnitState): string {
+  const at = state.changedAt === null ? "" : ` at ${state.changedAt}`
+  return `${one.unit} ${said}${at}, and systemd says \`${state.result}\``
+}
+
+function endedBadly(state: UnitState): boolean {
+  return state.result !== "" && state.result !== SUCCESS
+}
+
 export function brokenIn(
   one: Watched,
   state: UnitState | undefined,
   now: Date = new Date()
 ): string | null {
   if (state === undefined) return `${one.unit} is no unit systemd knows`
-  if (state.activeState === "failed") {
-    const at = state.changedAt === null ? "" : ` at ${state.changedAt}`
-    return `${one.unit} failed${at}, and systemd says \`${state.result}\``
-  }
+  if (state.activeState === "failed") return endedIn(one, "failed", state)
+  if (endedBadly(state)) return endedIn(one, "last ended badly", state)
   if (one.unbound.length > 0) {
     return `${one.unit} is not listening at ${one.unbound.join(", ")}, which its page states`
   }

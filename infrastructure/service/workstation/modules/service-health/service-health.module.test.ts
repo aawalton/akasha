@@ -54,7 +54,13 @@ const UP = { activeState: "active", result: "success", changedAt: CHANGED } as c
 
 const COMING_UP = {
   activeState: "activating",
-  result: "auto-restart",
+  result: "success",
+  changedAt: CHANGED,
+} as const
+
+const LOOPING = {
+  activeState: "activating",
+  result: "exit-code",
   changedAt: CHANGED,
 } as const
 
@@ -164,6 +170,50 @@ test("a service that is not running says since when systemd says it stopped", ()
 
 test("a service still coming up is well", () => {
   expect(brokenIn(RUNNING, { activeState: "activating", result: "success", changedAt: null })).toBe(
+    null
+  )
+})
+
+test("a unit coming up again after a bad result is broken though it never reached failed", () => {
+  const said = brokenIn(RUNNING, LOOPING, NOW)
+  expect(said).toContain("held-service.service last ended badly")
+  expect(said).toContain("exit-code")
+})
+
+test("a unit that ended badly names the moment systemd measured it", () => {
+  expect(brokenIn(RUNNING, LOOPING, NOW)).toContain(`last ended badly at ${CHANGED}`)
+})
+
+test("a unit that ended badly is broken at once rather than waiting out the settle", () => {
+  const just = new Date(NOW.getTime() - 2_000).toISOString()
+  expect(
+    brokenIn(RUNNING, { activeState: "activating", result: "exit-code", changedAt: just }, NOW)
+  ).toContain("last ended badly")
+})
+
+test("a unit restarting on the exit a watch leaves on reads success, so that restart is well", () => {
+  expect(brokenIn(RUNNING, COMING_UP, NOW)).toBe(null)
+})
+
+test("a result systemd states as nothing at all is no reason to call a unit broken", () => {
+  expect(brokenIn(RUNNING, { activeState: "active", result: "", changedAt: null }, NOW)).toBe(null)
+  expect(brokenIn(TIMED, { activeState: "inactive", result: "", changedAt: null }, NOW)).toBe(null)
+})
+
+test("a service told to stop reads success, so a stop is judged by the state alone", () => {
+  const just = new Date(NOW.getTime() - 2_000).toISOString()
+  expect(
+    brokenIn(RUNNING, { activeState: "inactive", result: "success", changedAt: just }, NOW)
+  ).toBe(null)
+})
+
+test("a scheduled service whose run ended badly is broken though it rests between runs", () => {
+  const said = brokenIn(TIMED, { activeState: "inactive", result: "exit-code", changedAt: null })
+  expect(said).toContain("last ended badly")
+})
+
+test("a scheduled service whose run ended well is well", () => {
+  expect(brokenIn(TIMED, { activeState: "inactive", result: "success", changedAt: CHANGED })).toBe(
     null
   )
 })
