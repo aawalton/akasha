@@ -8,6 +8,6 @@ export const enervation = {
   key: "enervation",
   icon: "resources/crafting_alchemy_trait_lowerweaponcrit.png",
   isPositive: false,
-  opposite: "increase-weapon-crit",
+  opposite: "temper-poison-effect/increase-weapon-crit",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

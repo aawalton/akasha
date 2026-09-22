@@ -8,5 +8,5 @@ export const entrapment = {
   key: "entrapment",
   icon: "resources/crafting_alchemy_trait_stun.png",
   isPositive: false,
-  opposite: "unstoppable",
+  opposite: "temper-poison-effect/unstoppable",
 } as const satisfies TemperPoisonEffect

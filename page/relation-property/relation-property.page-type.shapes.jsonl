@@ -101,6 +101,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"argument","unique":null,"uniquePropertySlug":null,"slug":"not-with","propertySlug":"not-with","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"notification-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"argument","unique":null,"uniquePropertySlug":null,"slug":"one-of","propertySlug":"one-of","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-poison-effect","unique":null,"uniquePropertySlug":null,"slug":"opposite","propertySlug":"opposite","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"origin-kind","unique":null,"uniquePropertySlug":null,"slug":"origin","propertySlug":"origin","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"owner","propertySlug":"owner","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"page-domain","propertySlug":"domain","fileName":null,"folderName":null}

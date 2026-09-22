@@ -8,6 +8,6 @@ export const invisible = {
   key: "invisible",
   icon: "resources/crafting_alchemy_trait_invisible.png",
   isPositive: true,
-  opposite: "detection",
+  opposite: "temper-poison-effect/detection",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

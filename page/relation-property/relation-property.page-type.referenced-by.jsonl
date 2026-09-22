@@ -182,6 +182,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/addon/properties/eso-interfaces.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/addon/properties/lua-modules.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/special-effect.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-poison-effect/properties/opposite.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/world/temper-dungeon/properties/quest-giver.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/character-roles.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/currency-key.relation-property.ts"}

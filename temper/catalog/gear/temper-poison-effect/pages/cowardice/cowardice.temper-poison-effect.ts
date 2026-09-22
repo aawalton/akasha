@@ -8,6 +8,6 @@ export const cowardice = {
   key: "cowardice",
   icon: "resources/crafting_alchemy_trait_lowerspellpower.png",
   isPositive: false,
-  opposite: "increase-spell-power",
+  opposite: "temper-poison-effect/increase-spell-power",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

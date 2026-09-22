@@ -8,6 +8,6 @@ export const hindrance = {
   key: "hindrance",
   icon: "resources/crafting_alchemy_trait_reducespeed.png",
   isPositive: false,
-  opposite: "speed",
+  opposite: "temper-poison-effect/speed",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

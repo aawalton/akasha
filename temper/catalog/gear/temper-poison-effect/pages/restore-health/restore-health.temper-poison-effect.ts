@@ -6,7 +6,7 @@ export const restoreHealth = {
   slug: "restore-health",
   title: "Restore Health",
   key: "restore-health",
-  opposite: "ravage-health",
+  opposite: "temper-poison-effect/ravage-health",
   cooldown: 10,
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

@@ -8,6 +8,6 @@ export const vitality = {
   key: "vitality",
   icon: "resources/crafting_poison_trait_increasehealing.png",
   isPositive: true,
-  opposite: "defile",
+  opposite: "temper-poison-effect/defile",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

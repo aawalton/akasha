@@ -8,6 +8,6 @@ export const uncertainty = {
   key: "uncertainty",
   icon: "resources/crafting_alchemy_trait_lowerspellcrit.png",
   isPositive: false,
-  opposite: "spell-critical",
+  opposite: "temper-poison-effect/spell-critical",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

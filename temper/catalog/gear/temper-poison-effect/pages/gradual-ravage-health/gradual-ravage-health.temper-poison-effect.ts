@@ -8,6 +8,6 @@ export const gradualRavageHealth = {
   key: "gradual-ravage-health",
   icon: "resources/crafting_poison_trait_dot.png",
   isPositive: false,
-  opposite: "lingering-health",
+  opposite: "temper-poison-effect/lingering-health",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect
