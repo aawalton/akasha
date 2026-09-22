@@ -80,6 +80,25 @@ test("the pages service is restarted before any unit that takes its code from it
   ])
 })
 
+const SHARED = new Map([["teller@.service", "body"]])
+
+test("a shared unit is written and linked, and is enabled and stopped by nothing", () => {
+  const plan = planFor([pageOf({})], [], new Set(), SHARED)
+  expect([...plan.write.keys()]).toEqual(["teller@.service", "held-service.service"])
+  expect(plan.enable).toEqual(["held-service.service"])
+  expect(plan.stop).toEqual([])
+})
+
+test("a shared unit accounts for itself, so nothing removes it or calls it stranded", () => {
+  const plan = planFor([pageOf({})], ["teller@.service", "gone-away.service"], new Set(), SHARED)
+  expect(plan.remove).toEqual(["gone-away.service"])
+  expect(strandedAmong(["teller@.service", "adrift.service"], [], plan)).toEqual(["adrift.service"])
+})
+
+test("a plan naming no shared unit writes only what its services state", () => {
+  expect([...planFor([pageOf({})], []).write.keys()]).toEqual(["held-service.service"])
+})
+
 test("a unit there that no service accounts for is removed", () => {
   const plan = planFor([pageOf({})], ["held-service.service", "gone-away.service"])
   expect(plan.remove).toEqual(["gone-away.service"])

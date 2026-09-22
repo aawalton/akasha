@@ -110,5 +110,17 @@ export const serviceInstalling = {
       decisionKind: "decision-kind/departure",
       statement: "The pages service is restarted before any other unit named to be restarted.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shared unit is one akasha writes that no single service states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shared unit is written and linked, and is enabled and stopped by nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shared unit accounts for itself, so nothing removes it or calls it stranded.",
+    },
   ],
 } as const satisfies Module

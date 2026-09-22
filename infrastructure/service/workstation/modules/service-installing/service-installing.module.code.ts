@@ -122,9 +122,10 @@ function pagesFirst(a: string, b: string): number {
 export function planFor(
   services: readonly Service[],
   owned: readonly string[],
-  restarting: ReadonlySet<string> = new Set()
+  restarting: ReadonlySet<string> = new Set(),
+  shared: ReadonlyMap<string, string> = new Map()
 ): Plan {
-  const write = new Map<string, string>()
+  const write = new Map<string, string>(shared)
   const enable: string[] = []
   const stop: string[] = []
   const restart: string[] = []
