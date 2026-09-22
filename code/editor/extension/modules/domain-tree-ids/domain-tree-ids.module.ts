@@ -4,7 +4,7 @@ export const domainTreeIds = {
   id: "01a064c8-9a9c-76e0-a025-5d952e3be0ea",
   type: "page-type/module",
   slug: "domain-tree-ids",
-  definition: "the strings the editor knows the domain tree's view and refresh command by",
+  definition: "the editor's ids for the domain tree's view and refresh command",
   code: "ts",
   decisions: [
     {

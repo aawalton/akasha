@@ -4,7 +4,7 @@ export const alanwaltonStoplightRing = {
   id: "01a05835-69dc-706e-a604-be35e231c198",
   type: "page-type/ios-component",
   slug: "alanwalton-stoplight-ring",
-  definition: "the ring a stoplight reading is drawn on",
+  definition: "a stoplight reading's ring",
   swift: "swift",
   decisions: [
     {

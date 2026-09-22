@@ -4,7 +4,7 @@ export const runNaming = {
   id: "01a0b7c9-d8d8-78e8-bb82-9ac8ee8f4e4b",
   type: "page-type/module",
   slug: "run-naming",
-  definition: "what a change names for the test run that change calls for",
+  definition: "what a change names for the test run that change needs",
   code: "ts",
   test: "ts",
   decisions: [

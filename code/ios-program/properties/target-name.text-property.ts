@@ -5,7 +5,7 @@ export const targetName = {
   type: "page-type/text-property",
   slug: "target-name",
   propertySlug: "target-name",
-  definition: "the name Xcode builds a program under",
+  definition: "a program's name in Xcode",
   maxLength: 100,
   nameFormat: null,
   unique: "unique-kind/page-type",

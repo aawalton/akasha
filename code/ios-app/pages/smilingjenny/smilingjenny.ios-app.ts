@@ -4,7 +4,7 @@ export const smilingjenny = {
   id: "01a05821-5723-7a0b-86e8-e855fe49385b",
   type: "page-type/ios-app",
   slug: "smilingjenny",
-  definition: "the app on Jenny's phone and the shell it runs in",
+  definition: "the app on Jenny's phone and that app's shell",
   appProfileName: "smilingjenny app App Store",
   ascCapabilities: ["PUSH_NOTIFICATIONS"],
   bundleId: "me.smilingjenny.app",

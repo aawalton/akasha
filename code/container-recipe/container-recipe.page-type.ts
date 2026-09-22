@@ -4,7 +4,7 @@ export const containerRecipe = {
   id: "01a06815-9efd-7003-8c8e-4c03b44672b2",
   type: "page-type/page-type",
   slug: "container-recipe",
-  definition: "the steps a container image is built from",
+  definition: "the steps building a container image",
   parts: [
     "file-property/recipe",
     "module-property-group/composing",

@@ -4,8 +4,7 @@ export const seatTerminals = {
   id: "01a0686b-bfe9-73ac-9c09-182376783320",
   type: "page-type/module",
   slug: "seat-terminals",
-  definition:
-    "which of this window's terminals a seat is working in, and which column each sits in",
+  definition: "which of this window's terminals hold a seat's work, and each terminal's column",
   code: "ts",
   decisions: [
     {

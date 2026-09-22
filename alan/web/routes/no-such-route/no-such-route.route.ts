@@ -4,7 +4,7 @@ export const noSuchRoute = {
   id: "01a072dd-d488-7e97-b669-7076f6de9c20",
   type: "page-type/route",
   slug: "no-such-route",
-  definition: "that no route answers the address a caller asked for",
+  definition: "that no route answers the address a caller named",
   code: "ts",
   test: "ts",
   urlPath: "api/*",

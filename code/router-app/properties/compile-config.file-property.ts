@@ -5,7 +5,7 @@ export const compileConfig = {
   type: "page-type/file-property",
   slug: "compile-config",
   propertySlug: "compile-config",
-  definition: "the TypeScript settings a router app's own compile runs under",
+  definition: "a router app's own TypeScript compile settings",
   extensions: ["json"],
   fileName: "tsconfig.json",
   toolResolvesPaths: true,

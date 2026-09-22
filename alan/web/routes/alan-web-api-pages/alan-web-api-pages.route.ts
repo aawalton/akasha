@@ -4,7 +4,7 @@ export const alanWebApiPages = {
   id: "01a0829b-cc74-70fb-9618-e3d4d32044d6",
   type: "page-type/route",
   slug: "alan-web-api-pages",
-  definition: "the pages of a type a reader asks for",
+  definition: "the pages of the type a reader names",
   code: "ts",
   urlPath: "api/pages/:pageTypeSlug",
 } as const satisfies Route

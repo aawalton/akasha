@@ -4,7 +4,7 @@ export const landingSaying = {
   id: "01a06d77-0d79-7f0a-8ea4-cb8531aeecfb",
   type: "page-type/module",
   slug: "landing-saying",
-  definition: "the report a landing answers with",
+  definition: "a landing's report",
   code: "ts",
   test: "ts",
   decisions: [

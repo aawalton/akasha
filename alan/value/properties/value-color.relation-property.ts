@@ -5,7 +5,7 @@ export const valueColor = {
   type: "page-type/relation-property",
   slug: "value-color",
   propertySlug: "color",
-  definition: "the color a value is always drawn in",
+  definition: "the color always drawn for a value",
   targetPageType: "page-type/color",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const repoSeeding = {
   id: "01a08cc2-9f09-710e-8d8a-30169349b3d9",
   type: "page-type/test-fixture",
   slug: "repo-seeding",
-  definition: "a scratch akasha repository a change can be landed into",
+  definition: "a scratch akasha repository that takes a landing",
   code: "ts",
   test: "ts",
   decisions: [
