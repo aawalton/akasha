@@ -7,7 +7,6 @@ import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import {
   configmapYaml,
-  litestreamConfigmapYaml,
   policyConfigmapYaml,
 } from "akasha/infrastructure/network/headscale/modules/configmaps/headscale-configmaps.module.code.ts"
 import { networkPolicyYaml } from "akasha/infrastructure/network/headscale/modules/network-policies/headscale-network-policies.module.code.ts"
@@ -19,7 +18,6 @@ import {
   DATA_HOST_PATH,
   DATA_NODE,
   HEADSCALE_IMAGE,
-  LITESTREAM_IMAGE,
   NAMESPACE,
   NAMESPACE_LABELS,
   TLS_LABELS,
@@ -27,39 +25,6 @@ import {
 import { ApiObject, App, Chart } from "cdk8s"
 
 const TLS_SECRET_NAME = "headscale-tls"
-const S3_CREDS_SECRET_NAME = "headscale-s3-creds"
-const S3_CREDS_KEYS = ["access_key", "secret_key"]
-
-const LITESTREAM_S3_ENV = [
-  {
-    name: "LITESTREAM_ACCESS_KEY_ID",
-    valueFrom: { secretKeyRef: { name: S3_CREDS_SECRET_NAME, key: "access_key" } },
-  },
-  {
-    name: "LITESTREAM_SECRET_ACCESS_KEY",
-    valueFrom: { secretKeyRef: { name: S3_CREDS_SECRET_NAME, key: "secret_key" } },
-  },
-]
-
-const LITESTREAM_SECURITY_CONTEXT = {
-  runAsNonRoot: true,
-  runAsUser: 1000,
-  runAsGroup: 1000,
-  readOnlyRootFilesystem: true,
-  allowPrivilegeEscalation: false,
-  capabilities: { drop: ["ALL"] },
-}
-
-const LITESTREAM_VOLUME_MOUNTS = [
-  { name: "data", mountPath: "/var/lib/headscale" },
-  {
-    name: "litestream-config",
-    mountPath: "/etc/litestream.yml",
-    subPath: "litestream.yml",
-    readOnly: true,
-  },
-  { name: "tmp", mountPath: "/tmp" },
-]
 
 const DATA_CLAIM = "headscale-data"
 
@@ -124,7 +89,6 @@ function statefulsetYaml(): string {
           labels: CONTROL_PLANE_LABELS,
           annotations: {
             "checksum/tls": secretChecksum(NAMESPACE, TLS_SECRET_NAME, ["tls.crt", "tls.key"]),
-            "checksum/s3-creds": secretChecksum(NAMESPACE, S3_CREDS_SECRET_NAME, S3_CREDS_KEYS),
           },
         },
         spec: {
@@ -145,25 +109,6 @@ function statefulsetYaml(): string {
                 runAsNonRoot: false,
                 runAsUser: 0,
               },
-            },
-            {
-              name: "litestream-restore",
-              image: LITESTREAM_IMAGE,
-              args: [
-                "restore",
-                "-if-db-not-exists",
-                "-if-replica-exists",
-                "-config",
-                "/etc/litestream.yml",
-                "/var/lib/headscale/db.sqlite",
-              ],
-              env: LITESTREAM_S3_ENV,
-              volumeMounts: LITESTREAM_VOLUME_MOUNTS,
-              resources: {
-                requests: { cpu: "10m", memory: "64Mi" },
-                limits: { memory: "64Mi" },
-              },
-              securityContext: LITESTREAM_SECURITY_CONTEXT,
             },
           ],
           containers: [
@@ -210,18 +155,6 @@ function statefulsetYaml(): string {
                 failureThreshold: 3,
               },
             },
-            {
-              name: "litestream",
-              image: LITESTREAM_IMAGE,
-              args: ["replicate", "-config", "/etc/litestream.yml"],
-              env: LITESTREAM_S3_ENV,
-              volumeMounts: LITESTREAM_VOLUME_MOUNTS,
-              resources: {
-                requests: { cpu: "10m", memory: "64Mi" },
-                limits: { memory: "64Mi" },
-              },
-              securityContext: LITESTREAM_SECURITY_CONTEXT,
-            },
           ],
           volumes: [
             {
@@ -236,13 +169,6 @@ function statefulsetYaml(): string {
               configMap: {
                 name: "headscale-policy",
                 items: [{ key: "policy.hujson", path: "policy.hujson" }],
-              },
-            },
-            {
-              name: "litestream-config",
-              configMap: {
-                name: "headscale-litestream",
-                items: [{ key: "litestream.yml", path: "litestream.yml" }],
               },
             },
             {
@@ -325,7 +251,6 @@ export default function synth(): readonly { readonly name: string; readonly yaml
     { name: "namespace", yaml: namespaceYaml(NAMESPACE, NAMESPACE_LABELS) },
     { name: "configmap", yaml: configmapYaml() },
     { name: "policy-configmap", yaml: policyConfigmapYaml() },
-    { name: "litestream-configmap", yaml: litestreamConfigmapYaml() },
     { name: "certificate", yaml: certificateYaml() },
     { name: "network-policy", yaml: networkPolicyYaml() },
     { name: "data-pv", yaml: dataPvYaml() },

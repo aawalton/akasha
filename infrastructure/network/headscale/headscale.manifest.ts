@@ -40,13 +40,8 @@ export const headscale = {
       statement: "That disk is on one node, and the server runs on the node holding that disk.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The pod template carries the hash of the headscale-s3-creds secret.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The keys hashed from the headscale-s3-creds secret are access_key and secret_key.",
+      decisionKind: "decision-kind/absence",
+      statement: "No copy of the server's database is kept anywhere but that disk.",
     },
   ],
 } as const satisfies Manifest

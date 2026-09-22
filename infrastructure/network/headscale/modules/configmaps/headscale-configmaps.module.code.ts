@@ -38,11 +38,7 @@ database:
   type: sqlite
   sqlite:
     path: /var/lib/headscale/db.sqlite
-    # WAL mode is Litestream's prerequisite — it streams the WAL to SeaweedFS
-    # S3. wal_autocheckpoint lets headscale truncate the WAL periodically;
-    # Litestream observes checkpoints but never checkpoints the DB itself.
     write_ahead_log: true
-    wal_autocheckpoint: 1000
 
 log:
   format: json
@@ -96,17 +92,6 @@ const HEADSCALE_POLICY_HUJSON = `{
 }
 `
 
-const LITESTREAM_CONFIG_YAML = `dbs:
-  - path: /var/lib/headscale/db.sqlite
-    replica:
-      type: s3
-      bucket: headscale-db
-      path: db
-      endpoint: http://s3-gateway.seaweedfs.svc.cluster.local:8333
-      region: us-east-1
-      force-path-style: true
-`
-
 export function configmapYaml(): string {
   return synthOne(NAMESPACE, "configmap", {
     apiVersion: "v1",
@@ -133,21 +118,6 @@ export function policyConfigmapYaml(): string {
     },
     data: {
       "policy.hujson": HEADSCALE_POLICY_HUJSON,
-    },
-  })
-}
-
-export function litestreamConfigmapYaml(): string {
-  return synthOne(NAMESPACE, "litestream-configmap", {
-    apiVersion: "v1",
-    kind: "ConfigMap",
-    metadata: {
-      name: "headscale-litestream",
-      namespace: NAMESPACE,
-      labels: CONTROL_PLANE_LABELS,
-    },
-    data: {
-      "litestream.yml": LITESTREAM_CONFIG_YAML,
     },
   })
 }

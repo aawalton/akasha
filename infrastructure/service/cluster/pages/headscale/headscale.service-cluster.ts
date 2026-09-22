@@ -16,8 +16,6 @@ export const headscale = {
   secrets: [
     "secret/headscale-secrets-noise-private-key",
     "secret/headscale-secrets-oidc-client-secret",
-    "secret/headscale-s3-creds-access-key",
-    "secret/headscale-s3-creds-secret-key",
   ],
   decisions: [
     {

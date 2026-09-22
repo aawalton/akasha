@@ -1460,6 +1460,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.ts","id":"01a07352-c56d-7d59-981a-3d7fa93e062d"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/scripts/repo-roots/repo-roots.shell-script.ts","id":"01a0691b-4f65-7e5d-ad7c-a9523f441291"}
 {"propertySlug":"decision-kind","path":"infrastructure/modules/calls/infrastructure-calls.module.ts","id":"01a0953e-1dc9-7000-bf51-cd67b1cd4894"}
+{"propertySlug":"decision-kind","path":"infrastructure/network/headscale/headscale.manifest.ts","id":"01a0738c-9157-7c4c-906c-8ff65da0976d"}
 {"propertySlug":"decision-kind","path":"infrastructure/resource-utilization/alan-attention/alan-attention.domain.ts","id":"01a0675b-16d4-7fec-97b7-58f61da0a03e"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster-foundation/cluster-foundation.page-type.ts","id":"01a0a5e8-68bd-7b38-afbc-5ac778577610"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.ts","id":"01a0a5fe-f019-72ee-a92a-9aa03e2494df"}

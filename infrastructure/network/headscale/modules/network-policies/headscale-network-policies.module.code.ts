@@ -92,36 +92,6 @@ export function networkPolicyYaml(): string {
       },
     },
     {
-      id: "allow-seaweedfs-egress",
-      manifest: {
-        apiVersion: "networking.k8s.io/v1",
-        kind: "NetworkPolicy",
-        metadata: {
-          name: "allow-seaweedfs-egress",
-          namespace: NAMESPACE,
-          labels: NETPOL_HEADSCALE_LABELS,
-        },
-        spec: {
-          podSelector: {
-            matchLabels: { "app.kubernetes.io/name": APP_NAME },
-          },
-          policyTypes: ["Egress"],
-          egress: [
-            {
-              to: [
-                {
-                  namespaceSelector: {
-                    matchLabels: { "kubernetes.io/metadata.name": "seaweedfs" },
-                  },
-                },
-              ],
-              ports: [{ protocol: "TCP", port: 8333 }],
-            },
-          ],
-        },
-      },
-    },
-    {
       id: "allow-public-ingress",
       manifest: {
         apiVersion: "networking.k8s.io/v1",
