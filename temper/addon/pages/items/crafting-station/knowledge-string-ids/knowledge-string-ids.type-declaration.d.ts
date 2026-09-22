@@ -1,4 +1,4 @@
-declare var LibCharacterKnowledgeData: unknown
+declare var TemperItemsCharacterKnowledgeData: unknown
 
 declare var TemperItemsCraftingKnowledgeExportBox: unknown
 

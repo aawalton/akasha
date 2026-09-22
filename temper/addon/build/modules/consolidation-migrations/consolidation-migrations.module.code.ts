@@ -98,6 +98,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "LibCharacterKnowledge",
       absorbedGlobal: "LibCharacterKnowledgeData",
       targetFileBase: "TemperItems",
+      renamedTo: "TemperItemsCharacterKnowledgeData",
     },
   },
   {
@@ -107,6 +108,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "LibSets",
       absorbedGlobal: "LibSets_SV_Data",
       targetFileBase: "TemperItems",
+      renamedTo: "TemperItemsSetsData",
     },
   },
   {
@@ -161,6 +163,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "TemperCrafting",
       absorbedGlobal: "LibZone_SV_Data",
       targetFileBase: "TemperItems",
+      renamedTo: "TemperItemsZoneData",
     },
   },
   {
@@ -170,6 +173,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "TemperCrafting",
       absorbedGlobal: "LibZone_Localized_SV_Data",
       targetFileBase: "TemperItems",
+      renamedTo: "TemperItemsZoneLocalizedData",
     },
   },
   {
@@ -179,6 +183,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "TemperCrafting",
       absorbedGlobal: "LibZone_GeoDebug_SV_Data",
       targetFileBase: "TemperItems",
+      renamedTo: "TemperItemsZoneGeoDebugData",
     },
   },
   {
@@ -188,6 +193,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "TemperCrafting",
       absorbedGlobal: "LibZone_Debug_SV_Data",
       targetFileBase: "TemperItems",
+      renamedTo: "TemperItemsZoneDebugData",
     },
   },
   {
@@ -197,6 +203,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "TemperCrafting",
       absorbedGlobal: "LibCharacterKnowledgeData",
       targetFileBase: "TemperItems",
+      renamedTo: "TemperItemsCharacterKnowledgeData",
     },
   },
   {
@@ -206,6 +213,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "TemperCrafting",
       absorbedGlobal: "LibSets_SV_Data",
       targetFileBase: "TemperItems",
+      renamedTo: "TemperItemsSetsData",
     },
   },
   {
@@ -215,6 +223,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "TemperCrafting",
       absorbedGlobal: "LibSets_SV_DEBUG_Data",
       targetFileBase: "TemperItems",
+      renamedTo: "TemperItemsSetsDebugData",
     },
   },
   {
@@ -391,6 +400,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "LibHistoire",
       absorbedGlobal: "LibHistoire_Settings",
       targetFileBase: "TemperItems",
+      renamedTo: "TemperItemsGuildHistorySettings",
     },
   },
   {
@@ -400,6 +410,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "LibHistoire",
       absorbedGlobal: "LibHistoire_GuildHistoryCache",
       targetFileBase: "TemperItems",
+      renamedTo: "TemperItemsGuildHistoryCache",
     },
   },
   {
@@ -418,6 +429,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "TemperSales",
       absorbedGlobal: "LibHistoire_Settings",
       targetFileBase: "TemperItems",
+      renamedTo: "TemperItemsGuildHistorySettings",
     },
   },
   {
@@ -427,6 +439,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "TemperSales",
       absorbedGlobal: "LibHistoire_GuildHistoryCache",
       targetFileBase: "TemperItems",
+      renamedTo: "TemperItemsGuildHistoryCache",
     },
   },
   {

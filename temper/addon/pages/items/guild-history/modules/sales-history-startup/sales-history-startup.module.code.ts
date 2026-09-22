@@ -109,8 +109,8 @@ internal.InitializeCaches = function (this: HistoryInternal): undefined {
   const guildHistoryAdapter = asGuildHistoryAdapterRef(internal.class.GuildHistoryAdapter)
   const guildHistoryCache = asGuildHistoryCacheRef(internal.class.GuildHistoryCache)
   this.historyAdapter = guildHistoryAdapter.New(
-    g.LibHistoire_GuildHistoryCache,
-    g.LibHistoire_Settings
+    g.TemperItemsGuildHistoryCache,
+    g.TemperItemsGuildHistorySettings
   )
   const adapter = asGuildHistoryAdapterInstanceRef(this.historyAdapter)
   this.historyCache = guildHistoryCache.New(this.historyAdapter, GUILD_HISTORY_MANAGER)
@@ -139,7 +139,7 @@ internal.InitializeCaches = function (this: HistoryInternal): undefined {
           this.historyAdapter,
           this.statusTooltip
         )
-        const settings = g.LibHistoire_Settings
+        const settings = g.TemperItemsGuildHistorySettings
         this.statusWindow = guildHistoryStatusWindow.New(
           this.historyAdapter,
           this.statusTooltip,

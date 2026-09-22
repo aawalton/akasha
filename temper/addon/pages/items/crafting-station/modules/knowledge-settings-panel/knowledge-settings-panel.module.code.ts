@@ -125,7 +125,7 @@ INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
           type: "button",
           name: SI_OPTIONS_RESET,
           func: function (this: void): undefined {
-            asGlobalTable(globalThis).LibCharacterKnowledgeData = asResetVars({})
+            asGlobalTable(globalThis).TemperItemsCharacterKnowledgeData = asResetVars({})
             ReloadUI()
           },
           tooltip: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_RESET_WARNING,

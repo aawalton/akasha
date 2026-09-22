@@ -24,8 +24,8 @@ export function asLogger(value: unknown): Logger {
 
 export interface GlobalTable {
   TemperAsync?: TemperAsyncLib
-  LibHistoire_Settings?: Record<string, unknown>
-  LibHistoire_GuildHistoryCache?: Record<string, unknown>
+  TemperItemsGuildHistorySettings?: Record<string, unknown>
+  TemperItemsGuildHistoryCache?: Record<string, unknown>
   [key: string]: unknown
 }
 

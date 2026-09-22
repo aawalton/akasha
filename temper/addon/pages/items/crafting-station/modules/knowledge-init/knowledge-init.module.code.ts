@@ -66,13 +66,13 @@ INTERNAL.Initialize = function (this: void): undefined {
     INTERNAL.RegisterSettingsPanel
   )
 
-  const existing = asGlobalTable(globalThis).LibCharacterKnowledgeData
+  const existing = asGlobalTable(globalThis).TemperItemsCharacterKnowledgeData
   if (existing === undefined || asSavedVars(existing).formatVersion !== INTERNAL.FORMAT_VERSION) {
-    asGlobalTable(globalThis).LibCharacterKnowledgeData = {
+    asGlobalTable(globalThis).TemperItemsCharacterKnowledgeData = {
       formatVersion: INTERNAL.FORMAT_VERSION,
     }
   }
-  INTERNAL.vars = asSavedVars(asGlobalTable(globalThis).LibCharacterKnowledgeData)
+  INTERNAL.vars = asSavedVars(asGlobalTable(globalThis).TemperItemsCharacterKnowledgeData)
 
   if (INTERNAL.vars.diagnostics === undefined) {
     INTERNAL.vars.diagnostics = {}

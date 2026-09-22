@@ -38,7 +38,7 @@ function asNumber(value: unknown): number {
 internal.InitializeSaveData = function (this: HistoryInternal): undefined {
   this.logger.Verbose("Initializing save data")
 
-  const settings: Record<string, unknown> = g.LibHistoire_Settings ?? {
+  const settings: Record<string, unknown> = g.TemperItemsGuildHistorySettings ?? {
     version: 2,
     statusWindow: {
       enabled: true,
@@ -52,9 +52,9 @@ internal.InitializeSaveData = function (this: HistoryInternal): undefined {
     settings.markGapsInHistory = true
   }
 
-  g.LibHistoire_Settings = settings
-  const cache: Record<string, unknown> = g.LibHistoire_GuildHistoryCache ?? {}
-  g.LibHistoire_GuildHistoryCache = cache
+  g.TemperItemsGuildHistorySettings = settings
+  const cache: Record<string, unknown> = g.TemperItemsGuildHistoryCache ?? {}
+  g.TemperItemsGuildHistoryCache = cache
   const account = GetDisplayName()
   cache[account] = cache[account] ?? {}
 
