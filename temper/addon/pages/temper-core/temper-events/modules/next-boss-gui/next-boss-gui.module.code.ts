@@ -15,16 +15,16 @@ export function initUi(this: void): undefined {
   ICT.ui = {
     opened: false,
     mapid: 0,
-    timetable: ZO_SimpleSceneFragment.New(ICTTimeTable),
-    maptimers: ZO_SimpleSceneFragment.New(ICTMapTimers),
+    timetable: ZO_SimpleSceneFragment.New(TemperNextBossTimeTable),
+    maptimers: ZO_SimpleSceneFragment.New(TemperNextBossMapTimers),
     districts: {
-      [GetString(SI_ICTHENEXTBOSS_MEMORIALDISTRICT)]: ICTMemorialDistrictLabel,
-      [GetString(SI_ICTHENEXTBOSS_ARENADISTRICT)]: ICTArenaDistrictLabel,
-      [GetString(SI_ICTHENEXTBOSS_ARBORETUMDISTRICT)]: ICTArboretumDistrictLabel,
-      [GetString(SI_ICTHENEXTBOSS_TEMPLEDISTRICT)]: ICTTempleDistrictLabel,
-      [GetString(SI_ICTHENEXTBOSS_NOBLESDISTRICT)]: ICTNoblesDistrictLabel,
-      [GetString(SI_ICTHENEXTBOSS_ELVENGARDENSDISTRICT)]: ICTElvenGardensDistrictLabel,
-      [GetString(SI_ICTHENEXTBOSS_CAN)]: ICTCanLabel,
+      [GetString(SI_ICTHENEXTBOSS_MEMORIALDISTRICT)]: TemperNextBossMemorialDistrictLabel,
+      [GetString(SI_ICTHENEXTBOSS_ARENADISTRICT)]: TemperNextBossArenaDistrictLabel,
+      [GetString(SI_ICTHENEXTBOSS_ARBORETUMDISTRICT)]: TemperNextBossArboretumDistrictLabel,
+      [GetString(SI_ICTHENEXTBOSS_TEMPLEDISTRICT)]: TemperNextBossTempleDistrictLabel,
+      [GetString(SI_ICTHENEXTBOSS_NOBLESDISTRICT)]: TemperNextBossNoblesDistrictLabel,
+      [GetString(SI_ICTHENEXTBOSS_ELVENGARDENSDISTRICT)]: TemperNextBossElvenGardensDistrictLabel,
+      [GetString(SI_ICTHENEXTBOSS_CAN)]: TemperNextBossCanLabel,
     },
   }
   return undefined
@@ -84,10 +84,10 @@ ICT.onMapOpen = function (this: void): undefined {
       ICT.savedVariables.maptimers === true &&
       ICT.ui.mapid === MAP_ID_IMPERIAL_CITY
     ) {
-      ICTMapTimers.SetHidden(false)
+      TemperNextBossMapTimers.SetHidden(false)
       ICT.disableMapZoomSlider(true)
     } else {
-      ICTMapTimers.SetHidden(true)
+      TemperNextBossMapTimers.SetHidden(true)
       ICT.disableMapZoomSlider(false)
     }
     return undefined
@@ -112,14 +112,14 @@ ICT.onMapOpen = function (this: void): undefined {
 }
 
 ICT.onTableMove = function (this: void): undefined {
-  ICT.savedVariables.timetableTop = ICTTimeTable.GetTop()
-  ICT.savedVariables.timetableLeft = ICTTimeTable.GetLeft()
+  ICT.savedVariables.timetableTop = TemperNextBossTimeTable.GetTop()
+  ICT.savedVariables.timetableLeft = TemperNextBossTimeTable.GetLeft()
   return undefined
 }
 
 ICT.restoreUiPosition = function (this: void): undefined {
-  ICTTimeTable.ClearAnchors()
-  ICTTimeTable.SetAnchor(
+  TemperNextBossTimeTable.ClearAnchors()
+  TemperNextBossTimeTable.SetAnchor(
     TOPLEFT,
     GuiRoot,
     TOPLEFT,

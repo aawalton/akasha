@@ -52,24 +52,24 @@ declare const SI_ICTHENEXTBOSS_OPTION_EVENT_TIMERS: number
 
 declare const SI_ICTHENEXTBOSS_OPTION_RUN_DIRECTION: number
 
-declare const ICTTimeTable: TopLevelWindow
+declare const TemperNextBossTimeTable: TopLevelWindow
 
-declare const ICTMapTimers: TopLevelWindow
+declare const TemperNextBossMapTimers: TopLevelWindow
 
-declare const ICTDistricLabel: LabelControl
+declare const TemperNextBossDistrictLabel: LabelControl
 
-declare const ICTTimerLabel: LabelControl
+declare const TemperNextBossTimerLabel: LabelControl
 
-declare const ICTMemorialDistrictLabel: LabelControl
+declare const TemperNextBossMemorialDistrictLabel: LabelControl
 
-declare const ICTArenaDistrictLabel: LabelControl
+declare const TemperNextBossArenaDistrictLabel: LabelControl
 
-declare const ICTArboretumDistrictLabel: LabelControl
+declare const TemperNextBossArboretumDistrictLabel: LabelControl
 
-declare const ICTTempleDistrictLabel: LabelControl
+declare const TemperNextBossTempleDistrictLabel: LabelControl
 
-declare const ICTNoblesDistrictLabel: LabelControl
+declare const TemperNextBossNoblesDistrictLabel: LabelControl
 
-declare const ICTElvenGardensDistrictLabel: LabelControl
+declare const TemperNextBossElvenGardensDistrictLabel: LabelControl
 
-declare const ICTCanLabel: LabelControl
+declare const TemperNextBossCanLabel: LabelControl

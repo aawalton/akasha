@@ -110,8 +110,8 @@ ICT.updateTimers = function (this: void): undefined {
   }
 
   if (ICT.savedVariables.timetable === true) {
-    ICTDistricLabel.SetText(districtString)
-    ICTTimerLabel.SetText(timerString)
+    TemperNextBossDistrictLabel.SetText(districtString)
+    TemperNextBossTimerLabel.SetText(timerString)
   }
 
   return undefined

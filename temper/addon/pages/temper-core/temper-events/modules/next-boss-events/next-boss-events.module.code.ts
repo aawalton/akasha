@@ -90,7 +90,7 @@ ICT.enable = function (this: void): undefined {
   EVENT_MANAGER.RegisterForEvent(ICT.name, EVENT_UNIT_DEATH_STATE_CHANGED, ICT.onMonsterDeath)
   EVENT_MANAGER.RegisterForEvent(ICT.name, EVENT_RETICLE_TARGET_CHANGED, ICT.onMonsterReticle)
   EVENT_MANAGER.RegisterForUpdate(UPDATE_LOOP_NAME, 1000, ICT.updateTimers)
-  ICTTimeTable.SetWidth(tonumber(GetString(SI_ICTHENEXTBOSS_GUI_WIDTH)) ?? 0)
+  TemperNextBossTimeTable.SetWidth(tonumber(GetString(SI_ICTHENEXTBOSS_GUI_WIDTH)) ?? 0)
   ICT.showTimetable()
   ICT.restoreTimers()
   ICT.running = true
@@ -104,7 +104,7 @@ ICT.disable = function (this: void): undefined {
   }
   EVENT_MANAGER.UnregisterForEvent(ICT.name, EVENT_UNIT_DEATH_STATE_CHANGED)
   EVENT_MANAGER.UnregisterForEvent(ICT.name, EVENT_RETICLE_TARGET_CHANGED)
-  ICTTimeTable.SetHidden(true)
+  TemperNextBossTimeTable.SetHidden(true)
   HUD_SCENE.RemoveFragment(ICT.ui.timetable)
   HUD_UI_SCENE.RemoveFragment(ICT.ui.timetable)
   ICT.running = false
@@ -115,7 +115,7 @@ ICT.showTimetable = function (this: void): undefined {
   if (ICT.savedVariables.timetable === true) {
     HUD_SCENE.AddFragment(ICT.ui.timetable)
     HUD_UI_SCENE.AddFragment(ICT.ui.timetable)
-    ICTTimeTable.SetHidden(false)
+    TemperNextBossTimeTable.SetHidden(false)
   }
   return undefined
 }

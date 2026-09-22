@@ -38,9 +38,9 @@ ICT.initializeSettingsMenu = function (this: void): undefined {
         if (value === true) {
           HUD_SCENE.AddFragment(ICT.ui.timetable)
           HUD_UI_SCENE.AddFragment(ICT.ui.timetable)
-          ICTTimeTable.SetHidden(false)
+          TemperNextBossTimeTable.SetHidden(false)
         } else {
-          ICTTimeTable.SetHidden(true)
+          TemperNextBossTimeTable.SetHidden(true)
           HUD_SCENE.RemoveFragment(ICT.ui.timetable)
           HUD_UI_SCENE.RemoveFragment(ICT.ui.timetable)
         }

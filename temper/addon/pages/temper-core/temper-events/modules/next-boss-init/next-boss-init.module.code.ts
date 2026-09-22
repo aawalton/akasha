@@ -38,7 +38,7 @@ export function initNextBoss(this: void): undefined {
   ICT.restoreUiPosition()
   ICT.onMapOpen()
   ICT.disableMapMouseWheelZoom()
-  ICTMapTimers.SetDrawTier(DT_HIGH)
+  TemperNextBossMapTimers.SetDrawTier(DT_HIGH)
 
   setupBroadcast()
 
