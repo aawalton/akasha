@@ -4,7 +4,7 @@ export const trackingEntry = {
   id: "01a06827-ec0c-7c96-bc4a-ca5b59f6b38f",
   type: "page-type/page-type",
   slug: "tracking-entry",
-  definition: "one set of field values written down together",
+  definition: "a set of field values written down together",
   extends: ["page-type/page"],
   decisions: [
     {

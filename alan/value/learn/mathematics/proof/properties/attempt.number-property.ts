@@ -5,7 +5,7 @@ export const attempt = {
   type: "page-type/number-property",
   slug: "attempt",
   propertySlug: "attempt",
-  definition: "which try at one proposition a proof is, counting from one",
+  definition: "which try at a proposition a proof is, counting from one",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

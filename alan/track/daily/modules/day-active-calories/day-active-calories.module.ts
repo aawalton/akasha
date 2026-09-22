@@ -5,7 +5,7 @@ export const dayActiveCalories = {
   type: "page-type/module",
   slug: "day-active-calories",
   definition:
-    "one day's active calories, recomputed from the health samples and written onto the day",
+    "a day's active calories, recomputed from the health samples and written onto the day",
   code: "ts",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const healthStoplight = {
   type: "page-type/computed-property",
   slug: "health-stoplight",
   propertySlug: "health-stoplight",
-  definition: "the rung the day's health reached, as one colored light",
+  definition: "the rung the day's health reached, as a colored light",
   holds: "text",
   code: "ts",
   types: "ts",

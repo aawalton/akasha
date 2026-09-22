@@ -4,7 +4,7 @@ export const appearanceExperiment = {
   id: "01a06826-794a-7da2-8027-9f143d989e3d",
   type: "page-type/page-type",
   slug: "appearance-experiment",
-  definition: "one thing Alan tried wearing and how it read",
+  definition: "a thing Alan tried wearing and how it read",
   extends: ["page-type/page"],
   parts: [
     "calendar-date-property/appearance-experiment-day",

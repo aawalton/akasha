@@ -4,7 +4,7 @@ export const inboxCountTick = {
   id: "01a069b6-bb6b-78fc-af80-801cc2257f72",
   type: "page-type/module",
   slug: "inbox-count-tick",
-  definition: "one poll of every inbox and one write of what it found, and then the run is over",
+  definition: "a poll of every inbox and a write of what it found, and then the run is over",
   code: "ts",
   decisions: [
     {

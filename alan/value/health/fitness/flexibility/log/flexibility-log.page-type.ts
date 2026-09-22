@@ -4,7 +4,7 @@ export const flexibilityLog = {
   id: "01a06558-36e9-75e2-bcf3-ce91fd6e945b",
   type: "page-type/page-type",
   slug: "flexibility-log",
-  definition: "one measurement of how far a joint moved on a day",
+  definition: "a measurement of how far a joint moved on a day",
   extends: ["page-type/page"],
   parts: [
     "calendar-date-property/mobility-reading-date",

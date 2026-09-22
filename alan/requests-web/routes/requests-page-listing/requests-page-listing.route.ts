@@ -4,7 +4,7 @@ export const requestsPageListing = {
   id: "01a0c537-bae8-7469-9b49-1e210203179a",
   type: "page-type/route",
   slug: "requests-page-listing",
-  definition: "the pages of one page type, drawn as a list",
+  definition: "the pages of a page type, drawn as a list",
   code: "tsx",
   urlPath: ":pageTypeSlug",
   decisions: [

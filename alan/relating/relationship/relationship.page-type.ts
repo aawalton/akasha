@@ -4,7 +4,7 @@ export const relationship = {
   id: "01a06594-c6e2-7bab-9ba9-948b607cfd13",
   type: "page-type/page-type",
   slug: "relationship",
-  definition: "one person in Alan's life, and how close they are",
+  definition: "a person in Alan's life, and how close they are",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "relationship" },
     { partOfSpeech: "part-of-speech/noun", spelling: "relationships" },

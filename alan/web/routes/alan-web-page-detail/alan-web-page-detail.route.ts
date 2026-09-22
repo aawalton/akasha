@@ -4,7 +4,7 @@ export const alanWebPageDetail = {
   id: "01a08833-1672-716a-8f04-9183f3106bcc",
   type: "page-type/route",
   slug: "alan-web-page-detail",
-  definition: "one page, drawn as the kind of page it is",
+  definition: "a page, drawn as the kind of page it is",
   code: "tsx",
   urlPath: ":pageTypeSlug/:pageHrefParam",
   decisions: [

@@ -5,7 +5,7 @@ export const secondsHoldingStretch = {
   type: "page-type/number-property",
   slug: "seconds-holding-stretch",
   propertySlug: "seconds-holding-stretch",
-  definition: "how many seconds Alan holds any one stretch that cools him down",
+  definition: "how many seconds Alan holds any stretch that cools him down",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
