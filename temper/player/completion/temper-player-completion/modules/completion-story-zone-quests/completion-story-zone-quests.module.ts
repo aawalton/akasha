@@ -4,7 +4,7 @@ export const completionStoryZoneQuests = {
   id: "01a0c668-4d54-70f1-a583-dc8b1143b2fd",
   type: "page-type/module",
   slug: "completion-story-zone-quests",
-  definition: "the story zone a character still owes quest skill points in",
+  definition: "the story zone where a character still owes quest skill points",
   code: "ts",
   test: "ts",
   decisions: [

@@ -5,7 +5,7 @@ export const categoryId = {
   type: "page-type/text-property",
   slug: "category-id",
   propertySlug: "category-id",
-  definition: "the group a thing is filed under",
+  definition: "a thing's group",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

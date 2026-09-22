@@ -5,7 +5,7 @@ export const setId = {
   type: "page-type/number-property",
   slug: "set-id",
   propertySlug: "set-id",
-  definition: "the number the game names an item set by",
+  definition: "an item set's number",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

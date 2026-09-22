@@ -4,6 +4,6 @@ export const itemBrowserStart = {
   id: "01a06178-3721-7957-8c63-0447e8b302b9",
   type: "page-type/module",
   slug: "item-browser-start",
-  definition: "the order the parts of the add-on are brought up in",
+  definition: "the add-on's start-up order for its parts",
   code: "ts",
 } as const satisfies Module
