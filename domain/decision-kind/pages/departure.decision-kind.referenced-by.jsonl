@@ -4186,8 +4186,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/trading/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.ts","id":"01a06160-2a5d-76e5-bad4-aeac785cc866"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/trading/temper-addon-trading.temper-addon.ts","id":"01a06160-2a58-7de9-8f4a-dbca3806b485"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/leads-layout/leads-layout.eso-interface.ts","id":"01a06274-b08b-7c8c-bbc7-d352dfe6b43f"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/antiquities-addon-entry/antiquities-addon-entry.module.ts","id":"01a06274-b089-7140-959d-d67b4777dffa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/antiquities-addon-global/antiquities-addon-global.module.ts","id":"01a06274-b08a-7cab-9448-75cbe305e5e4"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/antiquities-entry/antiquities-entry.module.ts","id":"01a06274-b089-7140-959d-d67b4777dffa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-global/leads-global.module.ts","id":"01a06274-b08a-7c2e-bec4-949ada692ff8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.ts","id":"01a06274-b08a-713c-8263-d0c81956cd55"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-reporting/leads-reporting.module.ts","id":"01a06274-b08a-73da-8f48-24bcfd5a231a"}

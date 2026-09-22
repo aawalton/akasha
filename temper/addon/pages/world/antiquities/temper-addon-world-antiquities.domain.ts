@@ -7,9 +7,9 @@ export const temperAddonWorldAntiquities = {
   definition: "antiquity leads browsed in a window that reports where each one is found",
   parts: [
     "eso-interface/leads-layout",
-    "module/antiquities-addon-entry",
+    "module/antiquities-entry",
     "module/antiquities-addon-global",
-    "module/antiquities-addon-loaded",
+    "module/antiquities-loaded",
     "module/antiquities-addon-names",
     "module/leads-active-leads",
     "module/leads-activity-map",

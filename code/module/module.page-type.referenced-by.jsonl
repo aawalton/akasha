@@ -4278,10 +4278,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/trading/modules/trading-skip-kiosk-dialog/trading-skip-kiosk-dialog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/trading/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/trading/modules/trading-types/trading-types.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/antiquities-addon-entry/antiquities-addon-entry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/antiquities-addon-global/antiquities-addon-global.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/antiquities-addon-loaded/antiquities-addon-loaded.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/antiquities-addon-names/antiquities-addon-names.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/antiquities-entry/antiquities-entry.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/antiquities-loaded/antiquities-loaded.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-active-leads/leads-active-leads.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-activity-map/leads-activity-map.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-alerts/leads-alerts.module.ts"}
