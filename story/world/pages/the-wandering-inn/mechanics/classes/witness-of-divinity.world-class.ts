@@ -6,6 +6,7 @@ export const witnessOfDivinity = {
   slug: "witness-of-divinity",
   title: "Witness of Divinity",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesFromSlugs: ["prophet-of-the-holy-people"],
   references: "jsonl",
 } as const satisfies WorldClass

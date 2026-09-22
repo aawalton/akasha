@@ -6,6 +6,7 @@ export const worldRenownedCoach = {
   slug: "world-renowned-coach",
   title: "World-Renowned Coach",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   evolvesFromSlugs: ["famed-coach"],
   references: "jsonl",
 } as const satisfies WorldClass

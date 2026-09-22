@@ -6,6 +6,7 @@ export const witch = {
   slug: "witch",
   title: "Witch",
   world: "world/the-wandering-inn",
+  appearanceCount: 222,
   aliases: ["WITCH"],
   evolvesToSlugs: ["witch-of-second-chances"],
   references: "jsonl",

@@ -6,5 +6,6 @@ export const witchOfSecondChancesLBehindYou = {
   slug: "witch-of-second-chances-l-behind-you",
   title: "Witch of Second Chances L—BEHIND YOU",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

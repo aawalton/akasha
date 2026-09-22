@@ -6,5 +6,6 @@ export const wyrmOfNoGoodHumor = {
   slug: "wyrm-of-no-good-humor",
   title: "Wyrm Of No Good Humor",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass
