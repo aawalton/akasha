@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
-import { parts } from "akasha/domain/properties/parts.relation-property.ts"
+import { parts } from "akasha/domain/properties/parts.multi-relation-property.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   shapeOf,

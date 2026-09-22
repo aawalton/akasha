@@ -95,7 +95,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/properties/decision-kind.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/properties/directive-kind.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/properties/page-domain.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/properties/parts.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/properties/parts.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/standard-agent-english/construction/properties/phrase-kind.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/standard-agent-english/part-of-speech/properties/part-of-speech.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/standard-agent-english/property/properties/start-symbol.relation-property.types.ts"}

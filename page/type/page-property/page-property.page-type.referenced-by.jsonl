@@ -87,7 +87,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/aids.standard-agent-english-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/decisions.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/directives.record-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/parts.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/parts.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/tunnel-routes.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/standard-agent-english/construction/properties/admits.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/standard-agent-english/construction/properties/refuses.text-property.types.ts"}

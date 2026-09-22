@@ -11,7 +11,7 @@ import {
   refusing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { parts } from "akasha/domain/properties/parts.relation-property.ts"
+import { parts } from "akasha/domain/properties/parts.multi-relation-property.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   exportedAs,

@@ -92,7 +92,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/properties/decision-kind.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/properties/directive-kind.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/properties/page-domain.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/properties/parts.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/standard-agent-english/construction/properties/phrase-kind.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/properties/part-of-speech.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/standard-agent-english/property/properties/start-symbol.relation-property.ts"}

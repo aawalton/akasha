@@ -2467,7 +2467,7 @@
 {"propertySlug":"decision-kind","path":"domain/properties/definition.standard-agent-english-property.ts","id":"01a049b9-856c-70ca-bfd8-31cb76ead837"}
 {"propertySlug":"decision-kind","path":"domain/properties/directives.record-property.ts","id":"01a04e1f-cbf6-7150-812b-844b9bf21ed2"}
 {"propertySlug":"decision-kind","path":"domain/properties/linked-at.text-property.ts","id":"01a08e0e-63aa-73e3-9073-68366457ff76"}
-{"propertySlug":"decision-kind","path":"domain/properties/parts.relation-property.ts","id":"01a0877e-e1fa-73c7-909f-f872c144f719"}
+{"propertySlug":"decision-kind","path":"domain/properties/parts.multi-relation-property.ts","id":"01a0877e-e1fa-73c7-909f-f872c144f719"}
 {"propertySlug":"decision-kind","path":"domain/purpose/domain-purpose.domain.ts","id":"01a06815-ceaf-7ec0-aa99-46a5438ce629"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/construction.page-type.ts","id":"01a0c57b-2a6d-776f-861f-adfa84782205"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/free-relative-pronoun-with-a-clause.construction.ts","id":"01a0c68f-6d81-7ca8-948f-a44ea461c351"}

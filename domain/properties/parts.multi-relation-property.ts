@@ -1,8 +1,8 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const parts = {
   id: "01a0877e-e1fa-73c7-909f-f872c144f719",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "parts",
   propertySlug: "parts",
   definition: "the domains making up this one",
@@ -22,4 +22,4 @@ export const parts = {
     },
   ],
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

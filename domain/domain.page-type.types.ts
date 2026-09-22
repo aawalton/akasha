@@ -4,7 +4,7 @@ import type { Directives } from "akasha/domain/properties/directives.record-prop
 import type { Expands } from "akasha/domain/properties/expands.boolean-property.types.ts"
 import type { LinkedAt } from "akasha/domain/properties/linked-at.text-property.types.ts"
 import type { OutputDirectory } from "akasha/domain/properties/output-directory.build-folder-property.types.ts"
-import type { Parts } from "akasha/domain/properties/parts.relation-property.types.ts"
+import type { Parts } from "akasha/domain/properties/parts.multi-relation-property.types.ts"
 import type { TunnelRoutes } from "akasha/domain/properties/tunnel-routes.record-property.types.ts"
 import type { TypescriptConfig } from "akasha/domain/properties/typescript-config.file-property.types.ts"
 import type { Term } from "akasha/domain/standard-agent-english/term/term.page-type.types.ts"

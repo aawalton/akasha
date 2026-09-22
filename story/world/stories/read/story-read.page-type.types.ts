@@ -1,5 +1,5 @@
 import type { CollectionExternal } from "akasha/alan/collection/external/collection-external.page-type.types.ts"
-import type { Parts } from "akasha/domain/properties/parts.relation-property.types.ts"
+import type { Parts } from "akasha/domain/properties/parts.multi-relation-property.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { Prose } from "akasha/story/world/stories/played/properties/prose.file-property.types.ts"
 import type { World } from "akasha/story/world/stories/played/properties/world.relation-property.types.ts"

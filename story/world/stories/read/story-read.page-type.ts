@@ -38,7 +38,7 @@ export const storyRead = {
     },
     { pageProperty: "select-property/publication-status", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
-    { pageProperty: "relation-property/parts", required: false, many: true, maxCount: null },
+    { pageProperty: "multi-relation-property/parts", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
