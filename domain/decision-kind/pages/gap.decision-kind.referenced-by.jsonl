@@ -460,7 +460,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.ts","id":"01a060f9-bad8-7db9-82ae-dfa276bad382"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lorebook/temper-lorebook.domain.ts","id":"01a06176-9c44-7c00-8a3b-7cf902e62430"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-skyshard.domain.ts","id":"01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5"}
-{"propertySlug":"decision-kind","path":"temper/catalog/world/temper-quest-giver/properties/epoch.text-property.ts","id":"01a05fc4-7a91-7076-af1b-6ce3e35e4b9a"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.ts","id":"01a068e2-226d-7781-8c70-c328fa164cff"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}
