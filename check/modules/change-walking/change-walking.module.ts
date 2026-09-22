@@ -100,39 +100,6 @@ export const changeWalking = {
       statement: "A folder has no body a check judges.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "Git tracks the link a package is reached by.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "That link leads to a folder.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A walk over everything takes the files the commit holds rather than the files beside them.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A walk over everything carries no body into a run.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Which files those are is git's walk rather than a listing of the tree on disk.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A listing of the tree names neither a link nor a path only the index holds.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A walk over everything names both, so a check judging either sees it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A root that is no tree refuses the walk rather than taking nothing.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "A body is opened rather than looked for and then opened.",
     },
@@ -143,10 +110,6 @@ export const changeWalking = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A refusal for a body that is not text names the path that body is at.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An audit reading each text in the tree reads that text through this module.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -167,11 +130,6 @@ export const changeWalking = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A body that will not open refuses the run rather than being held.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The index is no file of the tree's, however git holds it, and is walked by nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -224,22 +182,6 @@ export const changeWalking = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Naming no type collects nothing, and asks for no search.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An audit over the texts holding a spelling is handed those texts by a search.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A text the search leaves out is never opened, so nothing reads or parses it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The spellings searched for are the ones without which the check refuses nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Git is asked not to name the index, rather than naming the index to be dropped.",
     },
   ],
 } as const satisfies Module

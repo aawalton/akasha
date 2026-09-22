@@ -8,8 +8,6 @@
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/modules/audit-commit/audit-commit.module.code.ts"}
-{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/modules/change-walking/change-walking.module.code.ts"}
-{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/modules/change-walking/change-walking.module.test.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/folder-clearing/folder-clearing.module.code.ts"}

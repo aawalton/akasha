@@ -1,25 +1,15 @@
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import {
-  pathsSearched,
-  pathsTyped,
-  TYPED_KINDS,
-} from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
+import { pathsTyped } from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
 import type {
   Judged,
   Running,
   RunningAsync,
 } from "akasha/check/modules/judging/judging.module.code.ts"
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
-import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { sortedOnce } from "akasha/code/type/narrowing/modules/sorted-once/sorted-once.module.code.ts"
 import { isMissing } from "akasha/file/disk/modules/missing/missing.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { ENTRY_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
-import {
-  INDEX_AT,
-  underIndex,
-} from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import {
   pageNamed,
@@ -300,63 +290,6 @@ export function overEveryIn(
     for (const reason of judge(path, text)) said.push({ path, reason })
   }
   return said
-}
-
-export function overEveryNamed(
-  root: string,
-  taken: (path: string) => boolean,
-  judge: (path: string, text: string) => readonly string[]
-): readonly Judged[] {
-  return overEveryIn(everythingIn(root), taken, judge)
-}
-
-export function overEveryText(
-  root: string,
-  judge: (path: string, text: string) => readonly string[]
-): readonly Judged[] {
-  return overEveryNamed(root, textNamed, judge)
-}
-
-export function overEveryBody(
-  root: string,
-  judge: (path: string, text: string) => readonly string[]
-): readonly Judged[] {
-  return overEveryNamed(root, bodyNamed, judge)
-}
-
-export function overEveryTextNaming(
-  root: string,
-  asked: readonly string[],
-  judge: (path: string, text: string) => readonly string[]
-): readonly Judged[] {
-  const both = onDisk(root)
-  const changed = pathsSearched(root, asked, TYPED_KINDS, ONE_THREAD).toSorted()
-  return overEveryIn({ root, changed, before: both, after: both }, textNamed, judge)
-}
-
-function walked(root: string, asked: readonly string[]): readonly string[] {
-  const done = ran(["git", "-C", root, "ls-files", "-z", "--exclude-standard", ...asked])
-  if (done.code !== 0) {
-    throw new Error(`the tree at ${root} could not be walked — ${done.err.trim()}`)
-  }
-  return done.out.split("\0").filter((one) => one !== "")
-}
-
-const PATHS_FROM = "--"
-
-const EXCEPT = ":(exclude)"
-
-const EXCEPT_INDEX = `${EXCEPT}${INDEX_AT}`
-
-function everyFileInside(root: string): readonly string[] {
-  return sortedOnce(walked(root, ["--cached", PATHS_FROM, EXCEPT_INDEX])).filter(
-    (one) => !underIndex(one)
-  )
-}
-
-export function everythingIn(root: string): Change {
-  const both = onDisk(root)
-  return { root, changed: everyFileInside(root), carried: [], before: both, after: both }
 }
 
 export function nothingIn(root: string): Change {

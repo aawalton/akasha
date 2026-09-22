@@ -2,7 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
-  everythingIn,
   FILES,
   input,
   judgingEach,
@@ -10,9 +9,6 @@ import {
   onDisk,
   overEachFile,
   overEachText,
-  overEveryBody,
-  overEveryText,
-  overEveryTextNaming,
   PAGES,
   pagesTailed,
   type Selector,
@@ -22,32 +18,21 @@ import {
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import {
   AGENT,
-  BUILT_AT,
   CODE_AT,
   counting,
-  GONE_AT,
-  KEPT_AT,
   loadedWorld,
   MODULE,
   mixedWorld,
   PAGE_AT,
   PAGE_TYPE,
   pagedWorld,
-  STRAY_AT,
-  STYLE_AT,
   scratch,
   TYPE_AT,
   tailedWorld,
-  treeWorld,
-  VENDORED_AT,
   watchedWorld,
 } from "akasha/check/modules/change-walking/change-walking.module.test-fixtures.ts"
-import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-
-const GONE_ID = "01a04bc4-0000-7000-8000-00000000000b"
 
 afterAll(scratch.sweep)
 
@@ -256,96 +241,9 @@ test("a selector takes as input every path it hands over, so no path it judges p
   }
 })
 
-test("a walk over everything reads the body of every file it takes, before it and after it", () => {
-  const root = treeWorld()
-  const change = everythingIn(root)
-  expect(change.root).toBe(root)
-  expect(change.changed).toContain(CODE_AT)
-  for (const path of change.changed) {
-    expect(change.after(path)).not.toBeNull()
-    expect(change.before(path)).not.toBeNull()
-  }
-})
-
-test("a walk over everything takes a file in the tree that no page claims", () => {
-  expect(everythingIn(treeWorld()).changed).toContain(STRAY_AT)
-})
-
-test("a walk over everything leaves out page data no commit holds, however the tree keeps it", () => {
-  expect(everythingIn(treeWorld()).changed).not.toContain(KEPT_AT)
-})
-
-test("a walk over everything leaves out the build output git ignores, taking the source beside it", () => {
-  const changed = everythingIn(treeWorld()).changed
-  expect(changed).toContain(CODE_AT)
-  expect(changed).not.toContain(BUILT_AT)
-})
-
-test("a walk over everything leaves out an installed dependency, whatever its name holds", () => {
-  const changed = everythingIn(treeWorld()).changed
-  expect(changed).toContain(CODE_AT)
-  expect(changed).not.toContain(VENDORED_AT)
-})
-
-test("a walk over everything reads no index, so a path the tree does not hold is left out", () => {
-  const root = treeWorld()
-  listedFiled(root, MODULE, "gone", [{ path: GONE_AT, id: GONE_ID }])
-  expect(everythingIn(root).changed).not.toContain(GONE_AT)
-})
-
-test("a walk over every text reads each body in the tree and names the path a refusal is for", () => {
-  const said = overEveryText(treeWorld(), (path, text) => [`${path} says ${text.length}`])
-  const every = said.map((one) => one.path)
-  expect(every).toContain(CODE_AT)
-  expect(every).toContain(STRAY_AT)
-  expect(every).not.toContain(KEPT_AT)
-  expect(every).not.toContain(BUILT_AT)
-})
-
-test("a walk over every body reads a stylesheet as readily as a text, and no other file", () => {
-  const every = overEveryBody(treeWorld(), (path) => [path]).map((one) => one.path)
-  expect(every).toContain(CODE_AT)
-  expect(every).toContain(STYLE_AT)
-  expect(every).not.toContain(".gitignore")
-})
-
-test("a walk over the texts holding a spelling reads those texts and opens no other", () => {
-  const root = treeWorld()
-  const seen: string[] = []
-  const said = overEveryTextNaming(root, ["export const held"], (path, text) => {
-    seen.push(path)
-    return [`${path} says ${text.length}`]
-  })
-  expect(said.map((one) => one.path)).toEqual([CODE_AT, PAGE_AT])
-  expect(seen).not.toContain(STRAY_AT)
-})
-
-test("a walk over the texts holding a spelling takes a text git ignores but no commit holds", () => {
-  const root = treeWorld()
-  const kept = "akasha/checks-system/change-walking/held/held.module.uncommitted.ts"
-  writeFileSync(join(root, kept), "export const held = 1\n")
-  const every = overEveryTextNaming(root, ["export const held"], (path) => [path])
-  expect(every.map((one) => one.path)).toContain(kept)
-})
-
-test("a root that is no tree at all refuses the walk rather than taking nothing", () => {
-  expect(() => everythingIn(scratch.rootFor("akasha-no-tree-"))).toThrow("could not be walked")
-})
-
 test("a body that will not open refuses the check reading it rather than reading as nothing", () => {
   const root = scratch.rootFor("akasha-on-disk-")
   symlinkSync("b.ts", join(root, "a.ts"))
   symlinkSync("a.ts", join(root, "b.ts"))
   expect(() => onDisk(root)("a.ts")).toThrow("ELOOP")
-})
-
-test("a walk over everything leaves the index's own files out, and answers its paths in order", () => {
-  const root = treeWorld()
-  listedFiled(root, MODULE, "gone", [{ path: GONE_AT, id: GONE_ID }])
-  const changed = everythingIn(root).changed
-  expect(changed).toContain(CODE_AT)
-  expect(changed).toContain(STRAY_AT)
-  expect(changed).not.toContain(VENDORED_AT)
-  expect(changed.filter((one) => underIndex(one))).toEqual([])
-  expect(changed).toEqual([...changed].toSorted())
 })

@@ -1,7 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
-import { said } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   type Answering,
@@ -25,22 +24,9 @@ export const PAGE_AT = "akasha/checks-system/change-walking/held/held.module.ts"
 
 export const CODE_AT = "akasha/checks-system/change-walking/held/held.module.code.ts"
 
-export const GONE_AT = "akasha/checks-system/change-walking/held/gone.module.ts"
+const GONE_AT = "akasha/checks-system/change-walking/held/gone.module.ts"
 
 export const TYPE_AT = "akasha/checks-system/change-walking/held/held.page-type.ts"
-
-export const STRAY_AT = "akasha/checks-system/change-walking/held/stray.ts"
-
-export const KEPT_AT =
-  "akasha/checks-system/change-walking/held/held.module.entries.uncommitted.jsonl"
-
-export const BUILT_AT = "akasha/checks-system/change-walking/held/held.module.code.d.ts"
-
-export const STYLE_AT = "akasha/checks-system/change-walking/held/held.module.styles.css"
-
-export const VENDORED_AT = "node_modules/held/held.module.uncommitted.ts"
-
-const IGNORING = "*.uncommitted.*\n*.d.ts\nnode_modules/\n"
 
 const HELD_ID = "01a04bc4-0000-7000-8000-00000000000a"
 
@@ -89,29 +75,6 @@ export function loadedWorld(loaded: readonly string[] | null): Answering {
     ...(loaded === null ? {} : { [LOADED_EXPORT_KEY]: loaded }),
   })
   return answeringOver(readingIn(root), (path) => values.get(path) ?? null)
-}
-
-function bodyAt(root: string, path: string, body: string): undefined {
-  const at = join(root, path)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
-  return undefined
-}
-
-function worldOf(paths: readonly string[]): string {
-  const root = scratch.rootFor("akasha-change-walking-")
-  for (const path of paths) bodyAt(root, path, `export const held = "${path}"\n`)
-  return root
-}
-
-export function treeWorld(): string {
-  const root = worldOf([PAGE_AT, CODE_AT])
-  bodyAt(root, ".gitignore", IGNORING)
-  bodyAt(root, STYLE_AT, ".held {\n  color: red;\n}\n")
-  for (const path of [STRAY_AT, KEPT_AT, BUILT_AT, VENDORED_AT]) bodyAt(root, path, "held\n")
-  said(["git", "-C", root, "init", "-q"])
-  said(["git", "-C", root, "add", "-A"])
-  return root
 }
 
 export function mixedWorld(): Change {
