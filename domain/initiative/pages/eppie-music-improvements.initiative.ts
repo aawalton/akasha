@@ -10,7 +10,7 @@ export const eppieMusicImprovements = {
     {
       statement: "What music chooses next is chosen out of the grades Alan actually gives.",
       workingMemory:
-        "`music next` reads the catalogue from the song pages and the artist pages, and `music-exploration` weighs a grade off those. Grading moved onto tracks today: 71 tracks carry a grade against 42 songs, and every grade Alan gives now lands on a track. So the chooser is blind to most of what he says. Unsettled, and his to settle: whether `next` picks a track rather than a song, and how a track's grade bears on its song's, given he decided no grade a track carries is read up into the song.",
+        "`music next` now picks a track and answers its Spotify id and a `spotify:track:` uri `music play` takes. The catalogue is read from the track pages, the song pages and the artist pages. A track's artist is the artist of the release carrying it, so a cover is the coverer's. A graded track, and every recording of a song Alan graded, is never offered. What is left: track pages name a handful of artists, so `next` can offer nothing by Taylor Swift, whom Alan graded `S`.",
     },
   ],
 } as const satisfies Initiative
