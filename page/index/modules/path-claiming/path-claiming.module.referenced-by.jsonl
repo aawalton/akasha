@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"change/modules/page-claiming/page-claiming.module.code.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"change/modules/shadow-tree/change-shadow-tree.module.code.ts"}
+{"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.decision.code.ts"}
