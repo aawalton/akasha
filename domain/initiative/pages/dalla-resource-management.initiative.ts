@@ -49,6 +49,11 @@ export const dallaResourceManagement = {
         "weigh-bash-call records what the shell's exit trap leaves, and states neither ceiling. A call killed part way still leaves its peak, which is how the 24.0 GiB run was found with no change row beside it. Nothing above a bash call reaches it: the reaper weighs one process against 32 GiB, and its host leg waits for MemAvailable and SwapFree to be under 4 GiB each.",
     },
     {
+      statement: "Every kind of work an agent starts is stopped at an elapsed ceiling of its own.",
+      workingMemory:
+        "The same eight kinds. maxWallSeconds is declared beside maxCpuSeconds and maxMemoryMb on module-property-group and on code-file-property, read by no code, and no page states one. A run blocked on a network call or on a lock spends no processor seconds and takes no more memory, so neither other ceiling reaches it however long Alan waits. A run that never ends is never judged, so this ceiling stops the run rather than judging it afterwards.",
+    },
+    {
       statement:
         "`email-address-is-well-formed` runs under a processor ceiling matched to its cost.",
     },
@@ -112,11 +117,6 @@ export const dallaResourceManagement = {
         "`check-reaches-a-path-through-the-index` runs under a processor ceiling matched to its cost.",
     },
     { statement: "`typecheck` runs under a processor ceiling matched to its cost." },
-    {
-      statement: "Every kind of work an agent starts is stopped at an elapsed ceiling of its own.",
-      workingMemory:
-        "The same eight kinds. maxWallSeconds is declared beside maxCpuSeconds and maxMemoryMb on module-property-group and on code-file-property, read by no code, and no page states one. A run blocked on a network call or on a lock spends no processor seconds and takes no more memory, so neither other ceiling reaches it however long Alan waits. A run that never ends is never judged, so this ceiling stops the run rather than judging it afterwards.",
-    },
     {
       statement: "The workstation keeps memory for itself that no agent can take.",
       workingMemory:
