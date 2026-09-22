@@ -14,6 +14,7 @@ import { ADDON_NAME } from "akasha/temper/addon/pages/hud/modules/hud-addon-name
 import { initializeSavedVariables } from "akasha/temper/addon/pages/hud/modules/hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts"
 import { initializeSettingsPanel } from "akasha/temper/addon/pages/hud/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"
 import { initializeEvents } from "akasha/temper/addon/pages/hud/temper-events/modules/events-addon-loaded/events-addon-loaded.module.code.ts"
+import { initializeHousing } from "akasha/temper/addon/pages/hud/temper-housing/modules/housing-load/housing-load.module.code.ts"
 import { initializeSelector } from "akasha/temper/addon/pages/hud/temper-selector/modules/selector-entry/selector-entry.module.code.ts"
 import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
 
@@ -26,6 +27,7 @@ function initialize(this: void): undefined {
   initializeTemperCommands()
   initializeSelector()
   initializeEvents()
+  initializeHousing()
 
   EVENT_MANAGER.RegisterForEvent(
     `${ADDON_NAME}_PlayerActivated`,

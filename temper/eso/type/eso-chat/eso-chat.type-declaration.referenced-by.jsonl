@@ -9,9 +9,9 @@
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-core/knowledge-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/slash-commander-chat-hooks/slash-commander-chat-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/zone-autocompletion/zone-autocompletion.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-context-menu/housing-context-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-visit-card-send/housing-visit-card-send.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-events/next-boss-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-context-menu/housing-context-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-visit-card-send/housing-visit-card-send.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-chat/fco-chat.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-print/quiet-print.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-startup/sales-history-startup.module.code.ts"}

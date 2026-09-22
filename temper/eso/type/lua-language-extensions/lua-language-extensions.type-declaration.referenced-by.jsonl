@@ -12,10 +12,10 @@
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-scan-upgrades/companions-scan-upgrades.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-summary-panel/companions-summary-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
-{"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-chat-capture/housing-chat-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-holder-types/housing-holder-types.module.code.ts"}
-{"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-slash/housing-slash.module.code.ts"}
-{"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-window-controls/housing-window-controls.module.code.ts"}
+{"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-chat-capture/housing-chat-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-holder-types/housing-holder-types.module.code.ts"}
+{"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-slash/housing-slash.module.code.ts"}
+{"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-window-controls/housing-window-controls.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/cadwell-catalog-capture/cadwell-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/collectibles-catalog-capture/collectibles-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/furniture-catalog-capture/furniture-catalog-capture.module.code.ts"}

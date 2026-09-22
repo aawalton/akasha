@@ -129,11 +129,20 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
-    runFor: "TemperHousing",
+    runFor: "TemperHud",
     spec: {
       absorbedFileBase: "TemperPortToFriendsHouse",
       absorbedGlobal: "TemperPortToFriendsHouse_SavedVariables",
-      targetFileBase: "TemperHousing",
+      targetFileBase: "TemperHud",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperHud",
+    spec: {
+      absorbedFileBase: "TemperHousing",
+      absorbedGlobal: "TemperPortToFriendsHouse_SavedVariables",
+      targetFileBase: "TemperHud",
     },
   },
   {

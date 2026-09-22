@@ -11,10 +11,10 @@
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-settings-menu/potion-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-settings/writ-mark-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-settings-window/writ-settings-window.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-init/housing-init.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-settings-menu/housing-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-menu/next-boss-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-init/housing-init.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-settings-menu/housing-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-entry/fco-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-panel-action-bars/fco-panel-action-bars.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-panel-battleground/fco-panel-battleground.module.code.ts"}

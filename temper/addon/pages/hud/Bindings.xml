@@ -67,5 +67,100 @@
                 <Down>TemperNextBoss.switchDirection()</Down>
             </Action>
         </Category>
+        <Category name="Port to Friend's House">
+            <Action name="PORTTOFRIENDSHOUSE_OPEN">
+                <Down>TemperPortToFriend.OpenWindowKeyBinding()</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_1">
+                <Down>TemperPortToFriend.PortToFavoriteBinding(1)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_2">
+                <Down>TemperPortToFriend.PortToFavoriteBinding(2)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_3">
+                <Down>TemperPortToFriend.PortToFavoriteBinding(3)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_4">
+                <Down>TemperPortToFriend.PortToFavoriteBinding(4)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_5">
+                <Down>TemperPortToFriend.PortToFavoriteBinding(5)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_6">
+                <Down>TemperPortToFriend.PortToFavoriteBinding(6)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_7">
+                <Down>TemperPortToFriend.PortToFavoriteBinding(7)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_8">
+                <Down>TemperPortToFriend.PortToFavoriteBinding(8)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_9">
+                <Down>TemperPortToFriend.PortToFavoriteBinding(9)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_10">
+                <Down>TemperPortToFriend.PortToFavoriteBinding(10)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_INSIDE_1">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(1, 1)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_INSIDE_2">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(2, 1)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_INSIDE_3">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(3, 1)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_INSIDE_4">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(4, 1)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_INSIDE_5">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(5, 1)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_INSIDE_6">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(6, 1)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_INSIDE_7">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(7, 1)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_INSIDE_8">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(8, 1)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_INSIDE_9">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(9, 1)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_INSIDE_10">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(10, 1)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_OUTSIDE_1">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(1, 2)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_OUTSIDE_2">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(2, 2)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_OUTSIDE_3">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(3, 2)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_OUTSIDE_4">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(4, 2)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_OUTSIDE_5">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(5, 2)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_OUTSIDE_6">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(6, 2)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_OUTSIDE_7">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(7, 2)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_OUTSIDE_8">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(8, 2)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_OUTSIDE_9">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(9, 2)</Down>
+            </Action>
+            <Action name="PORTTOFRIENDSHOUSE_FAV_MYHOUSE_OUTSIDE_10">
+                <Down>TemperPortToFriend.PortToMyHouseBinding(10, 2)</Down>
+            </Action>
+        </Category>
     </Layer>
 </Bindings>

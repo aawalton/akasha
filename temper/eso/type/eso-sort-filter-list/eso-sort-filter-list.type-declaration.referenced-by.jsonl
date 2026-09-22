@@ -6,7 +6,7 @@
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-shared-helpers/sets-search-ui-shared-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-window-helpers/potion-window-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-inventory-tweaks/writ-mark-inventory-tweaks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-context-menu/housing-context-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-context-menu/housing-context-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-craft-bag/quiet-craft-bag.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-guild-applications/quiet-guild-applications.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-guild-invites/quiet-guild-invites.module.code.ts"}

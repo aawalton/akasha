@@ -6,9 +6,9 @@
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/crafting/modules/potion-settings-menu/potion-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/crafting/modules/writ-mark-settings/writ-mark-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/crafting/modules/writ-settings-window/writ-settings-window.module.code.ts"}
-{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/housing/modules/housing-settings-menu/housing-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/hud/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-menu/next-boss-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-settings-menu/housing-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/interface/modules/fco-settings-menu/fco-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/interface/modules/quiet-settings-menu/quiet-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-settings/sales-history-settings.module.code.ts"}
