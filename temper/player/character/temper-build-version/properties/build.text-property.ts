@@ -11,6 +11,11 @@ export const build = {
   decisions: [
     { decisionKind: "decision-kind/gap", statement: "This property is a relation to a build." },
     {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "No page of the page type carrying this property is written, so this holds no value.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A character build and a companion build are named here alike.",
     },

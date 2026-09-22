@@ -11,7 +11,15 @@ export const subcategoryId = {
   decisions: [
     {
       decisionKind: "decision-kind/gap",
-      statement: "This property is a relation to  a subcategory.",
+      statement: "This property is a relation to a subcategory.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page type carrying this value decides the page type this value reaches.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Four of the groups named here are no pages: none, scribed, crown and class.",
     },
   ],
   types: "ts",

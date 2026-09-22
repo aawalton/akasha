@@ -2032,6 +2032,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/sets-rows-second/sets-rows-second.module.ts","id":"01a08e66-1f4e-7974-86a0-547f57e1c025"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.ts","id":"01a060ec-584d-78d8-941c-a8b43c987a6c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.ts","id":"01a060ec-5851-77ac-a8f1-6163b058a0b4"}
+{"propertySlug":"decision-kind","path":"temper/player/character/temper-build-version/properties/build.text-property.ts","id":"01a0685d-89aa-749c-b7bc-b0f638217233"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.ts","id":"01a0640c-1e9b-77aa-9215-d1a1abde163f"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.ts","id":"01a06108-2fec-7da2-b7d1-16867e88fcd1"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-category-tree-composed/completion-category-tree-composed.module.ts","id":"01a06408-dd2e-7659-95d6-455a9c29e7ff"}

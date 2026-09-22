@@ -11,7 +11,19 @@ export const skillLineId = {
   decisions: [
     {
       decisionKind: "decision-kind/gap",
-      statement: "This property is a relation to  a skill line.",
+      statement: "This property is a relation to a skill line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion's line and a character's line are two page types.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page carrying this value decides which of the two this value reaches.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Four kinds of weapon name a line that is no page.",
     },
   ],
   types: "ts",

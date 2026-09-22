@@ -11,7 +11,19 @@ export const parent = {
   decisions: [
     {
       decisionKind: "decision-kind/gap",
-      statement: "This property is a relation to  the page above.",
+      statement: "This property is a relation to the page above.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Five of the six trees naming a page above name a page of their own page type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A research line names a craft rather than another research line.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Nine names reach a page in two of those trees, so the tree decides which page.",
     },
   ],
   types: "ts",

@@ -11,7 +11,16 @@ export const accountPage = {
   decisions: [
     {
       decisionKind: "decision-kind/gap",
-      statement: "This property is a relation to  an account.",
+      statement: "This property is a relation to an account.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "An account's page is named `account-` joined to its id, which this value leaves off.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Two of the three accounts named here have no page.",
     },
   ],
   types: "ts",

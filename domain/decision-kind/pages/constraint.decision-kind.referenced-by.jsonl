@@ -891,6 +891,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.ts","id":"01a06152-c2da-7a46-9d70-0b6d3eec75de"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/trait/properties/metric-id.text-property.ts","id":"01a05fb0-3ced-7636-a899-431b497b3f1f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.ts","id":"01a060b8-08c4-79bd-a673-660169cf2ee9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.ts","id":"01a060b8-08c6-7141-8b6e-044cf34927d5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.ts","id":"01a060b8-08c5-7b3b-a995-798d59d45760"}
@@ -906,6 +907,8 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.ts","id":"01a060db-b2bb-7166-ba4a-b183afce5394"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.ts","id":"01a060db-b2bb-78c2-a678-b0ddc7114f93"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
+{"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/skill-line-id.text-property.ts","id":"01a05fba-ce3b-7214-b302-f798be22e99e"}
+{"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/subcategory-id.text-property.ts","id":"01a05fba-ce3b-7c4b-adf4-7b752fef3058"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-upstream-pin/libsets-upstream-pin.module.ts","id":"01a060d0-ca28-7a33-9895-ea3ff07665be"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-upstream-verify/libsets-upstream-verify.module.ts","id":"01a060d0-ca2a-7b19-860d-b24372089328"}
@@ -1405,6 +1408,10 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.ts","id":"01a06108-2ffa-7ddc-a07c-2ee34cb56f5c"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/node-id.text-property.ts","id":"01a05fc6-81fc-7831-9ded-1ba2e1d47ca1"}
+{"propertySlug":"decision-kind","path":"temper/thing/properties/account-page.text-property.ts","id":"01a05fba-ce37-7ab7-ac79-b568699606b3"}
+{"propertySlug":"decision-kind","path":"temper/thing/properties/companion-id.text-property.ts","id":"01a05fba-ce39-74ad-926f-d6a5d9908dfc"}
+{"propertySlug":"decision-kind","path":"temper/thing/properties/parent.text-property.ts","id":"01a05fba-ce39-70e6-a46f-4b11e5d2a508"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.ts","id":"01a06381-35cf-79d7-a1eb-ab708052aacb"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.ts","id":"01a06381-35cf-7af7-aa60-01ed66da5e3b"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.ts","id":"01a06381-35cf-7a07-8865-e71df4fc233b"}

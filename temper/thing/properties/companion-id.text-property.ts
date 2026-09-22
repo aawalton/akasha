@@ -11,7 +11,15 @@ export const companionId = {
   decisions: [
     {
       decisionKind: "decision-kind/gap",
-      statement: "This property is a relation to  a companion.",
+      statement: "This property is a relation to a companion.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page every companion shares names them all at once rather than one of them.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The name meaning all of them is no companion's page.",
     },
   ],
   types: "ts",

@@ -10,6 +10,19 @@ export const metricId = {
   nameFormat: "name-format/lower-kebab-case",
   decisions: [
     { decisionKind: "decision-kind/gap", statement: "This property is a relation to a metric." },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Eighteen of the metrics named here are no pages.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A metric tree's page is named for that metric's kind and this name joined.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "A list of metric names written by hand in code is what every reader of a metric reads.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty
