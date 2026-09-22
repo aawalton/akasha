@@ -5,7 +5,7 @@ export const antiquityName = {
   type: "page-type/text-property",
   slug: "antiquity-name",
   propertySlug: "antiquity-name",
-  definition: "the name an antiquity is shown under",
+  definition: "an antiquity's name",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

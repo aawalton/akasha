@@ -4,7 +4,7 @@ export const libsetsUpstreamFetch = {
   id: "01a06341-d9e8-7000-b612-9ac2472fbb2d",
   type: "page-type/module",
   slug: "libsets-upstream-fetch",
-  definition: "the checkout of pinned upstream LibSets this repository ports its set data out of",
+  definition: "the checkout of pinned upstream LibSets holding this repository's ported set data",
   code: "ts",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const statusDistance = {
   type: "page-type/number-property",
   slug: "status-distance",
   propertySlug: "distance",
-  definition: "how far a status moves whoever it lands on",
+  definition: "how far a status moves its target",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

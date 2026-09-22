@@ -5,7 +5,7 @@ export const effectWeaponTypes = {
   type: "page-type/text-property",
   slug: "effect-weapon-types",
   propertySlug: "weapon-types",
-  definition: "a weapon an effect holds for",
+  definition: "a weapon an effect covers",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

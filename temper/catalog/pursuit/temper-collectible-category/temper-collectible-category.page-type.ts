@@ -4,7 +4,7 @@ export const temperCollectibleCategory = {
   id: "01a06165-ae0e-7003-b36d-6529ae625fb0",
   type: "page-type/page-type",
   slug: "temper-collectible-category",
-  definition: "a heading the game files a collectible under",
+  definition: "a game heading over a collectible",
   extends: ["page-type/temper-pursuit-thing"],
   parts: [
     "number-property/eso-category-index",

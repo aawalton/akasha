@@ -5,7 +5,7 @@ export const castConditionType = {
   type: "page-type/text-property",
   slug: "cast-condition-type",
   propertySlug: "type",
-  definition: "what a test before a companion casts is a case of",
+  definition: "the kind of test before a companion casts",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

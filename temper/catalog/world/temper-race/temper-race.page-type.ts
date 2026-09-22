@@ -4,7 +4,7 @@ export const temperRace = {
   id: "01a05fc4-7a95-7a17-b702-bdb4627956d0",
   type: "page-type/page-type",
   slug: "temper-race",
-  definition: "a people a character is born into",
+  definition: "a character's own people",
   extends: ["page-type/temper-catalog-thing"],
   parts: ["number-property/eso-race-id", "text-property/alt-name"],
   properties: [

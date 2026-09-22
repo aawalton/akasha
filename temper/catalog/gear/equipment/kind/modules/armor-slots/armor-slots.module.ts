@@ -4,7 +4,7 @@ export const armorSlots = {
   id: "01a060b8-08c4-79bd-a673-660169cf2ee9",
   type: "page-type/module",
   slug: "armor-slots",
-  definition: "the seven body positions an armor piece is worn at",
+  definition: "the seven body positions for an armor piece",
   code: "ts",
   decisions: [
     {

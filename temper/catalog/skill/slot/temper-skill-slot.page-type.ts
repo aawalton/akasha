@@ -4,7 +4,7 @@ export const temperSkillSlot = {
   id: "01a05fca-cb8b-79ed-ae49-1fdf5f38602a",
   type: "page-type/page-type",
   slug: "temper-skill-slot",
-  definition: "a place on the bar a skill is set into",
+  definition: "a place on the bar for a skill",
   extends: ["page-type/temper-catalog-thing"],
   properties: [{ pageProperty: "text-property/key", required: true, many: false }],
   types: "ts",

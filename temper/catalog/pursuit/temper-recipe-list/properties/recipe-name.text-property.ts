@@ -5,7 +5,7 @@ export const recipeName = {
   type: "page-type/text-property",
   slug: "recipe-name",
   propertySlug: "recipe-name",
-  definition: "the name a craftable recipe is shown under",
+  definition: "a craftable recipe's name",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

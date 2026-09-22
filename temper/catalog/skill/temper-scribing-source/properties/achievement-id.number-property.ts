@@ -5,7 +5,7 @@ export const achievementId = {
   type: "page-type/number-property",
   slug: "achievement-id",
   propertySlug: "achievement-id",
-  definition: "the number The Elder Scrolls Online names an achievement by",
+  definition: "an achievement's number in The Elder Scrolls Online",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
