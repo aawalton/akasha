@@ -90,8 +90,6 @@
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-prov-parser/writ-prov-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-smith-parser-ops/writ-smith-parser-ops.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-smith-schema-data/writ-smith-schema-data.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-gui/next-boss-gui.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-init/next-boss-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-build-house-tab/housing-build-house-tab.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-build-library-tab/housing-build-library-tab.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-build-my-houses-tab/housing-build-my-houses-tab.module.code.ts"}
@@ -108,6 +106,8 @@
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-window-controls/housing-window-controls.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-bar/hud-addon-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-gui/next-boss-gui.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-init/next-boss-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-battleground/fco-battleground.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-collectibles/fco-collectibles.module.code.ts"}

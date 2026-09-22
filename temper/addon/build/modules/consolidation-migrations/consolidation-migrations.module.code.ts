@@ -111,11 +111,20 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
-    runFor: "TemperEvents",
+    runFor: "TemperHud",
     spec: {
       absorbedFileBase: "TemperICTheNextBoss",
       absorbedGlobal: "TemperICTheNextBoss_SavedVariables",
-      targetFileBase: "TemperEvents",
+      targetFileBase: "TemperHud",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperHud",
+    spec: {
+      absorbedFileBase: "TemperEvents",
+      absorbedGlobal: "TemperICTheNextBoss_SavedVariables",
+      targetFileBase: "TemperHud",
     },
   },
   {

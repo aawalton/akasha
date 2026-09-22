@@ -13,7 +13,7 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/crafting/lib-sets-search-ui-keyboard-xml/lib-sets-search-ui-keyboard-xml.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/crafting/lib-sets-search-ui-shared-xml/lib-sets-search-ui-shared-xml.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/crafting/potion-maker-layout/potion-maker-layout.eso-interface.ts"}
-{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/events/next-boss-layout/next-boss-layout.eso-interface.ts"}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/hud/next-boss-layout/next-boss-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/interface/fcocs-virtuals/fcocs-virtuals.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/interface/shifter-box-template/shifter-box-template.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/items/inventory-browser-layout/inventory-browser-layout.eso-interface.ts"}

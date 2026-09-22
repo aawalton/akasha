@@ -5,13 +5,17 @@
   "author": "AlanGaming",
   "version": "1.0.0",
   "addonVersion": 100,
-  "apiVersion": ["101041", "101042", "101049", "101050"],
+  "apiVersion": ["101041", "101042", "101049", "101050", "101051"],
   "savedVariables": [
     "TemperHud_SavedVariables",
     "TemperErrors_SavedVariables",
-    "TemperAddons_SavedVariables"
+    "TemperAddons_SavedVariables",
+    "TemperICTheNextBoss_SavedVariables"
   ],
   "additionalLuaFiles": [],
   "dependsOn": ["LibAddonMenu-2.0>=43"],
-  "optionalDependsOn": []
+  "optionalDependsOn": ["LibGroupBroadcast"],
+  "xmlFiles": {
+    "afterBundle": ["NextBoss.xml"]
+  }
 }

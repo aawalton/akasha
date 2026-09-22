@@ -11,7 +11,9 @@ export const temperAddonHud = {
   bundleEntry: "module/hud-addon-entry",
   parts: [
     "domain/temper-errors",
+    "domain/temper-events",
     "domain/temper-selector",
+    "eso-interface/next-boss-layout",
     "module/hud-addon-bar",
     "module/hud-addon-builtins",
     "module/hud-addon-command-registry",
@@ -31,6 +33,7 @@ export const temperAddonHud = {
     "module/hud-addon-types",
     "module/hud-addon-visibility-version",
   ],
+  interfaces: ["eso-interface/next-boss-layout"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
