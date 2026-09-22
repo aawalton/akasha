@@ -4136,6 +4136,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-gen-special-bonus-sets/lib-sets-gen-special-bonus-sets.module.ts","id":"01a061fc-cee7-751f-805d-2742902010bd"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-gen-zone-ids-of-newer-api-version/lib-sets-gen-zone-ids-of-newer-api-version.module.ts","id":"01a061fc-cee8-7893-86a9-c6e36f1902df"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-dlc-filter/lib-sets-kbf-dlc-filter.module.ts","id":"01a0623e-53a1-7955-ac07-165fbac5661b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.ts","id":"01a0c67e-6762-70ba-8fef-fc508116a25d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-loc-install-localization/lib-sets-loc-install-localization.module.ts","id":"01a061d7-7bb9-7125-b72f-e3bd28b4db73"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-loc-localization-index/lib-sets-loc-localization-index.module.ts","id":"01a061d7-7bba-7684-b634-224b2592273f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-loc-on-off-labels/lib-sets-loc-on-off-labels.module.ts","id":"01a061d7-7bb7-7e19-ab98-7217b31320b1"}

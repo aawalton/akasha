@@ -4147,6 +4147,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-lsm-options/lib-sets-kbf-lsm-options.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-set-bonus-filters/lib-sets-kbf-set-bonus-filters.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-sorting/lib-sets-kbf-sorting.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-loc-game-strings/lib-sets-loc-game-strings.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-loc-install-localization/lib-sets-loc-install-localization.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-loc-language-codes/lib-sets-loc-language-codes.module.ts"}

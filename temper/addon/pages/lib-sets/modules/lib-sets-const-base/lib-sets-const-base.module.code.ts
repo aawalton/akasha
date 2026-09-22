@@ -1,11 +1,8 @@
 import { boolPair } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-bool-pair/lib-sets-bool-pair.module.code.ts"
-import {
-  asGlobalTable,
-  asTyped,
-} from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asGlobalTable } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets-api/lib-sets-api.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
@@ -39,8 +36,7 @@ function isLibSetsAlreadyLoaded(this: void, outputMsg?: boolean): boolean {
 }
 G["IsLibSetsAlreadyLoaded"] = isLibSetsAlreadyLoaded
 
-LibSets = asTyped<LibSetsApi>({})
-const lib = LibSets
+LibSets = lib
 
 const IsConsole = ZO_IsConsoleOrGameCoreUI()
 lib.IsConsole = IsConsole
