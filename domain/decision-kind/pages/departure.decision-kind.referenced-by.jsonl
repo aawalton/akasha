@@ -3582,7 +3582,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/capture-datamining/modules/datamining-constants/datamining-constants.module.ts","id":"01a06341-d9e8-7002-a0ab-0c2c0932a9ad"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/capture-datamining/modules/datamining-entry/datamining-entry.module.ts","id":"01a06341-d9e8-7007-aaa9-235436e7ef16"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/capture-datamining/modules/datamining-item-miner/datamining-item-miner.module.ts","id":"01a06341-d9e8-7004-990d-d242df0e2bd1"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/capture-datamining/modules/datamining-public-api/datamining-public-api.module.ts","id":"01a06341-d9e8-7006-a2dc-0b3e1ae1c2a6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/capture-datamining/modules/datamining-quest-miner/datamining-quest-miner.module.ts","id":"01a06341-d9e8-7005-ac02-69345fb477d3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/capture-datamining/modules/datamining-saved-variables/datamining-saved-variables.module.ts","id":"01a06341-d9e8-7003-86e4-05d88c5ad77a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/capture-datamining/temper-addon-capture-datamining.temper-addon.ts","id":"01a06341-d9e8-7008-91c3-2fcab6b143bf"}

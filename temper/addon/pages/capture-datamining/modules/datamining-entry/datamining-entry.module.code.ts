@@ -1,5 +1,3 @@
-import "akasha/temper/addon/pages/capture-datamining/modules/datamining-public-api/datamining-public-api.module.code.ts"
-
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import {
   ADDON_NAME,

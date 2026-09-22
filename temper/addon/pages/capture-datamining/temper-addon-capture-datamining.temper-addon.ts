@@ -13,7 +13,6 @@ export const temperAddonCaptureDatamining = {
     "module/datamining-constants",
     "module/datamining-entry",
     "module/datamining-item-miner",
-    "module/datamining-public-api",
     "module/datamining-quest-miner",
     "module/datamining-saved-variables",
   ],
