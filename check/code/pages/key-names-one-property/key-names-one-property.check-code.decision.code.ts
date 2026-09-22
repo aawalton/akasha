@@ -1,4 +1,5 @@
 import type { Carried } from "akasha/check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import {
@@ -120,13 +121,13 @@ export function judgedIn(carried: readonly Carried[], shadow: Shadow): readonly 
   return sortedIn(found)
 }
 
-export function everyDeclarer(shadow: Shadow): readonly Held[] {
-  const under = shadow.index.kindsUnder(PAGE_TYPE)
-  const properties = shadow.index.kindsUnder(PAGE_PROPERTY)
+export function everyDeclarer(paged: Paged): readonly Held[] {
+  const under = paged.index.kindsUnder(PAGE_TYPE)
+  const properties = paged.index.kindsUnder(PAGE_PROPERTY)
   const found = new Map<string, Held>()
   for (const kind of [...under, ...properties]) {
-    for (const at of shadow.index.everyOfType(kind)) {
-      const value = shadow.pageOf(at.path)
+    for (const at of paged.index.everyOfType(kind)) {
+      const value = paged.pageOf(at.path)
       if (value === null) continue
       const slug = textAt(value, SLUG)
       if (slug === null) continue

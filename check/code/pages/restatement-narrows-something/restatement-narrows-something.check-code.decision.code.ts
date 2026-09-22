@@ -6,6 +6,7 @@ import {
   widthOf,
 } from "akasha/check/code/pages/key-names-one-property/key-names-one-property.check-code.decision.code.ts"
 import { carriedBy } from "akasha/check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
@@ -35,9 +36,9 @@ function narrowingNothing(nearer: Declared, further: Declared): string {
   )
 }
 
-function restatingIn(one: Held, shadow: Shadow): readonly Judged[] {
+function restatingIn(one: Held, paged: Paged): readonly Judged[] {
   const said: Judged[] = []
-  const declared = shadow.index.declarationsOf(one.slug)
+  const declared = paged.index.declarationsOf(one.slug)
   for (const held of Map.groupBy(declared, identityOf).values()) {
     for (const [at, nearer] of held.entries()) {
       const further = held[at + 1]
@@ -49,12 +50,16 @@ function restatingIn(one: Held, shadow: Shadow): readonly Judged[] {
   return said
 }
 
+export function restatementsIn(held: readonly Held[], paged: Paged): readonly Judged[] {
+  const said: Judged[] = []
+  for (const one of held) {
+    if (one.descends) said.push(...restatingIn(one, paged))
+  }
+  return said
+}
+
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(change, shadow.index.pageTypesIn())
   if (carried.length === 0) return []
-  const said: Judged[] = []
-  for (const one of underEach(judgedIn(carried, shadow), shadow)) {
-    if (one.descends) said.push(...restatingIn(one, shadow))
-  }
-  return said
+  return restatementsIn(underEach(judgedIn(carried, shadow), shadow), shadow)
 }

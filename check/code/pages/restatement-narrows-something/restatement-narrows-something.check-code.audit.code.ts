@@ -1,8 +1,9 @@
-import { refusalsOver } from "akasha/check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.code.ts"
-import { everythingIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { everyDeclarer } from "akasha/check/code/pages/key-names-one-property/key-names-one-property.check-code.decision.code.ts"
+import { restatementsIn } from "akasha/check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.code.ts"
+import { commitIn } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 export function restatementNarrowsSomething(root: string): readonly Judged[] {
-  return refusalsOver(everythingIn(root), shadowAt(root))
+  const commit = commitIn(root)
+  return restatementsIn(everyDeclarer(commit), commit)
 }

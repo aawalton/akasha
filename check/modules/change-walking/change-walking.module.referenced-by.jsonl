@@ -120,7 +120,6 @@
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/require-import-extension/require-import-extension.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/require-import-extension/require-import-extension.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.check.code.ts"}
