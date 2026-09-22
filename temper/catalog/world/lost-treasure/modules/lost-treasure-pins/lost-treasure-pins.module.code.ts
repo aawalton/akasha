@@ -103,7 +103,11 @@ function resolveItemIconTexture(this: void, pin: MapPin, fallback: string): stri
 
 function getMapFilterCheckboxName(this: void, pinType: PinType): string {
   const nameLocalized = LOST_TREASURE_PIN_TYPE_DATA[pinType].name
-  return zo_strformat(SI_LOST_TREASURE_MAP_FILTER_CHECKBOX_NAME, nameLocalized, ADDON_DISPLAY_NAME)
+  return zo_strformat(
+    SI_TEMPER_LOSTTREASURE_MAP_FILTER_CHECKBOX_NAME,
+    nameLocalized,
+    ADDON_DISPLAY_NAME
+  )
 }
 
 function getPinNameFromPinType(this: void, pinType: PinType): string {

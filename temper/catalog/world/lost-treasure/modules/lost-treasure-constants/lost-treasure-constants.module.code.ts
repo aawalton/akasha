@@ -32,7 +32,7 @@ export const LOST_TREASURE_PIN_TYPE_TREASURE = "treasure" satisfies PinType
 export const LOST_TREASURE_PIN_TYPE_SURVEYS = "survey" satisfies PinType
 export const LOST_TREASURE_PIN_TYPE_CLUES = "clue" satisfies PinType
 
-export const LOST_TREASURE_MAP_NOT_OPENED = GetString(SI_LOST_TREASURE_MAP_NOT_OPENED)
+export const LOST_TREASURE_MAP_NOT_OPENED = GetString(SI_TEMPER_LOSTTREASURE_MAP_NOT_OPENED)
 export const LOST_TREASURE_BOOK_NOT_OPENED = 0
 
 export const LOST_TREASURE_NO_PIN_TYPE = "nil"

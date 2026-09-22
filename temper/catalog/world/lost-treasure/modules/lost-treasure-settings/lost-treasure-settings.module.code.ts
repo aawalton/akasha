@@ -57,9 +57,9 @@ const MARK_OPTIONS: {
   tooltips: string[]
 } = {
   labels: [
-    GetString(SI_LOST_TREASURE_MARK_MAP_MENU_OPTION1),
-    GetString(SI_LOST_TREASURE_MARK_MAP_MENU_OPTION2),
-    GetString(SI_LOST_TREASURE_MARK_MAP_MENU_OPTION3),
+    GetString(SI_TEMPER_LOSTTREASURE_MARK_MAP_MENU_OPTION1),
+    GetString(SI_TEMPER_LOSTTREASURE_MARK_MAP_MENU_OPTION2),
+    GetString(SI_TEMPER_LOSTTREASURE_MARK_MAP_MENU_OPTION3),
   ],
   values: [
     LOST_TREASURE_MARK_OPTIONS_USING,
@@ -67,9 +67,9 @@ const MARK_OPTIONS: {
     LOST_TREASURE_MARK_OPTIONS_ALL,
   ],
   tooltips: [
-    GetString(SI_LOST_TREASURE_MARK_OPTION1_TT),
-    GetString(SI_LOST_TREASURE_MARK_OPTION2_TT),
-    GetString(SI_LOST_TREASURE_MARK_OPTION3_TT),
+    GetString(SI_TEMPER_LOSTTREASURE_MARK_OPTION1_TT),
+    GetString(SI_TEMPER_LOSTTREASURE_MARK_OPTION2_TT),
+    GetString(SI_TEMPER_LOSTTREASURE_MARK_OPTION3_TT),
   ],
 }
 
@@ -108,8 +108,8 @@ export function initializeSettings(this: void): undefined {
 
   addSetting({
     type: "checkbox",
-    name: SI_LOST_TREASURE_DEBUG,
-    tooltip: SI_LOST_TREASURE_DEBUG_TT,
+    name: SI_TEMPER_LOSTTREASURE_DEBUG,
+    tooltip: SI_TEMPER_LOSTTREASURE_DEBUG_TT,
     getFunc: () => getDebugState(),
     setFunc: (value: boolean) => {
       if (value) {
@@ -126,7 +126,7 @@ export function initializeSettings(this: void): undefined {
     addSetting({
       type: "checkbox",
       name: SI_QUEST_JOURNAL_SHOW_ON_MAP,
-      tooltip: SI_LOST_TREASURE_SHOW_ON_MAP_TT,
+      tooltip: SI_TEMPER_LOSTTREASURE_SHOW_ON_MAP_TT,
       getFunc: () => db.pinTypes[pinType].showOnMap,
       setFunc: (value: boolean) => {
         db.pinTypes[pinType].showOnMap = value
@@ -136,8 +136,8 @@ export function initializeSettings(this: void): undefined {
     })
     addSetting({
       type: "checkbox",
-      name: SI_LOST_TREASURE_SHOW_ON_COMPASS,
-      tooltip: SI_LOST_TREASURE_SHOW_ON_COMPASS_TT,
+      name: SI_TEMPER_LOSTTREASURE_SHOW_ON_COMPASS,
+      tooltip: SI_TEMPER_LOSTTREASURE_SHOW_ON_COMPASS_TT,
       getFunc: () => db.pinTypes[pinType].showOnCompass,
       setFunc: (value: boolean) => {
         db.pinTypes[pinType].showOnCompass = value
@@ -148,7 +148,7 @@ export function initializeSettings(this: void): undefined {
     addSetting({
       type: "iconpicker",
       name: SI_GUILD_RANK_ICONS_DIALOG_HEADER,
-      tooltip: SI_LOST_TREASURE_PIN_ICON_TT,
+      tooltip: SI_TEMPER_LOSTTREASURE_PIN_ICON_TT,
       choices: icons,
       getFunc: () => db.pinTypes[pinType].texture,
       setFunc: (value: string) => {
@@ -162,8 +162,8 @@ export function initializeSettings(this: void): undefined {
     })
     addSetting({
       type: "slider",
-      name: SI_LOST_TREASURE_PIN_SIZE,
-      tooltip: SI_LOST_TREASURE_PIN_SIZE_TT,
+      name: SI_TEMPER_LOSTTREASURE_PIN_SIZE,
+      tooltip: SI_TEMPER_LOSTTREASURE_PIN_SIZE_TT,
       min: 12,
       max: 48,
       step: 2,
@@ -181,8 +181,8 @@ export function initializeSettings(this: void): undefined {
     })
     addSetting(
       valueDropdown<MarkOption>({
-        name: GetString(SI_LOST_TREASURE_MARK_OPTION),
-        tooltip: GetString(SI_LOST_TREASURE_MARK_OPTION_TT),
+        name: GetString(SI_TEMPER_LOSTTREASURE_MARK_OPTION),
+        tooltip: GetString(SI_TEMPER_LOSTTREASURE_MARK_OPTION_TT),
         choices: MARK_OPTIONS.labels,
         values: MARK_OPTIONS.values,
         choicesTooltips: MARK_OPTIONS.tooltips,
@@ -198,8 +198,8 @@ export function initializeSettings(this: void): undefined {
     )
     addSetting({
       type: "slider",
-      name: SI_LOST_TREASURE_PIN_LEVEL,
-      tooltip: SI_LOST_TREASURE_PIN_LEVEL_TT,
+      name: SI_TEMPER_LOSTTREASURE_PIN_LEVEL,
+      tooltip: SI_TEMPER_LOSTTREASURE_PIN_LEVEL_TT,
       min: 0,
       max: 250,
       step: 1,
@@ -216,8 +216,8 @@ export function initializeSettings(this: void): undefined {
     })
     addSetting({
       type: "slider",
-      name: SI_LOST_TREASURE_MARKER_DELAY,
-      tooltip: SI_LOST_TREASURE_MARKER_DELAY_TT,
+      name: SI_TEMPER_LOSTTREASURE_MARKER_DELAY,
+      tooltip: SI_TEMPER_LOSTTREASURE_MARKER_DELAY_TT,
       min: 0,
       max: 60,
       step: 1,
@@ -232,11 +232,11 @@ export function initializeSettings(this: void): undefined {
     })
   }
 
-  addSetting(header(GetString(SI_LOST_TREASURE_SHOW_MINIMAP_HEADER)))
+  addSetting(header(GetString(SI_TEMPER_LOSTTREASURE_SHOW_MINIMAP_HEADER)))
   addSetting({
     type: "checkbox",
-    name: SI_LOST_TREASURE_SHOW_MINIMAP,
-    tooltip: SI_LOST_TREASURE_SHOW_MINIMAP_TT,
+    name: SI_TEMPER_LOSTTREASURE_SHOW_MINIMAP,
+    tooltip: SI_TEMPER_LOSTTREASURE_SHOW_MINIMAP_TT,
     getFunc: () => db.miniMap.enabled,
     setFunc: (value: boolean) => {
       db.miniMap.enabled = value
@@ -245,7 +245,7 @@ export function initializeSettings(this: void): undefined {
   })
   addSetting(
     valueDropdown<number>({
-      name: GetString(SI_LOST_TREASURE_SHOW_MINIMAP_SIZE),
+      name: GetString(SI_TEMPER_LOSTTREASURE_SHOW_MINIMAP_SIZE),
       choices: MINIMAP_SIZES.labels,
       values: MINIMAP_SIZES.values,
       get: () => db.miniMap.size,
@@ -259,8 +259,8 @@ export function initializeSettings(this: void): undefined {
   )
   addSetting({
     type: "slider",
-    name: SI_LOST_TREASURE_SHOW_MINIMAP_DELAY,
-    tooltip: SI_LOST_TREASURE_SHOW_MINIMAP_DELAY_TT,
+    name: SI_TEMPER_LOSTTREASURE_SHOW_MINIMAP_DELAY,
+    tooltip: SI_TEMPER_LOSTTREASURE_SHOW_MINIMAP_DELAY_TT,
     min: 0,
     max: 60,
     step: 1,
