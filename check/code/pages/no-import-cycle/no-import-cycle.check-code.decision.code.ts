@@ -1,3 +1,4 @@
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   textIn,
   textNamed,
@@ -49,16 +50,19 @@ function bodiesOf(read: Bodies): Bodies {
   }
 }
 
-function askedOf(shadow: Shadow, read: Bodies): Asked {
+function askedOf(paged: Paged, read: Bodies): Asked {
   const bodyAt = bodiesOf(read)
   const through = (path: string): boolean => textNamed(path) && bodyAt(path) !== null
-  return { index: shadow.index, bodyAt, through }
+  return { index: paged.index, bodyAt, through }
 }
 
-export function reachingIn(change: Change, shadow: Shadow): ReadonlyMap<string, readonly string[]> {
-  const seeds = change.changed.filter((one) => textNamed(one))
-  const asked = askedOf(shadow, (path) => textIn(change, path))
-  return reachingOf(takenIn(atLoadImports, seeds, asked))
+export function reachingIn(
+  paths: readonly string[],
+  paged: Paged,
+  read: Bodies
+): ReadonlyMap<string, readonly string[]> {
+  const seeds = paths.filter((one) => textNamed(one))
+  return reachingOf(takenIn(atLoadImports, seeds, askedOf(paged, read)))
 }
 
 function outOf(at: string, stepping: Stepping, read: Bodies): readonly string[] {
@@ -174,10 +178,14 @@ function reasonFor(at: string, held: readonly string[]): string {
   return `sits in a cycle reaching ${first}${rest} — ${ITSELF}`
 }
 
-export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  const carried = new Set(change.changed)
+export function refusalsOver(
+  paths: readonly string[],
+  paged: Paged,
+  read: Bodies
+): readonly Judged[] {
+  const carried = new Set(paths)
   const said: Judged[] = []
-  for (const held of cyclesIn(reachingIn(change, shadow))) {
+  for (const held of cyclesIn(reachingIn(paths, paged, read))) {
     if (!held.some((one) => carried.has(one))) continue
     for (const path of held) said.push({ path, reason: reasonFor(path, held) })
   }

@@ -1,4 +1,8 @@
-import { refusalsOver } from "akasha/check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.code.ts"
+import {
+  reachingIn,
+  refusalsOver,
+} from "akasha/check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.code.ts"
+import { textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   bodiesOver,
@@ -53,9 +57,16 @@ export function patched(
   return staged(root, after, before)
 }
 
+export function reaching(held: Change): ReadonlyMap<string, readonly string[]> {
+  return reachingIn(held.changed, shadowOf(held), (path) => textIn(held, path))
+}
+
+export function refusedOver(held: Change): readonly Judged[] {
+  return refusalsOver(held.changed, shadowOf(held), (path) => textIn(held, path))
+}
+
 export function refused(bodies: Readonly<Record<string, string>>): readonly Judged[] {
-  const held = change(bodies)
-  return refusalsOver(held, shadowOf(held))
+  return refusedOver(change(bodies))
 }
 
 export function pathsRefused(bodies: Readonly<Record<string, string>>): readonly string[] {

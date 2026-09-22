@@ -2,9 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import {
   addedIn,
   cyclesIn,
-  reachingIn,
   refusalsAdded,
-  refusalsOver,
 } from "akasha/check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.code.ts"
 import {
   ALONE,
@@ -15,7 +13,9 @@ import {
   READS_ONE,
   READS_TWO,
   ROOT,
+  reaching,
   refused,
+  refusedOver,
   scratch,
   shadowOf,
   TWO_AT,
@@ -47,7 +47,7 @@ test("an added import the file it names reaches back along is a cycle", () => {
 test("a cycle already there when the change arrived is refused nothing here", () => {
   const held = patched({ [AT]: READS_TWO, [TWO_AT]: READS_ONE }, { [AT]: `${READS_TWO}\n` })
   expect(refusalsAdded(held, shadowOf(held))).toEqual([])
-  expect(refusalsOver(held, shadowOf(held)).map((one) => one.path)).toEqual([AT, TWO_AT])
+  expect(refusedOver(held).map((one) => one.path)).toEqual([AT, TWO_AT])
 })
 
 test("a file that begins importing itself is refused by the added import", () => {
@@ -152,8 +152,8 @@ test("a cycle no file the change has sits in is refused nothing though it is rea
     "akasha/three.ts": 'import { two } from "./two.ts"\n\nexport const three = two\n',
   })
   const carried = { ...held, changed: ["akasha/one.ts"] }
-  expect(cyclesIn(reachingIn(carried, shadowOf(carried)))).toHaveLength(1)
-  expect(refusalsOver(carried, shadowOf(carried))).toEqual([])
+  expect(cyclesIn(reaching(carried))).toHaveLength(1)
+  expect(refusedOver(carried)).toEqual([])
 })
 
 test("an import written inside a string represents nothing", () => {
@@ -204,24 +204,24 @@ test("a module named by an external module reference is reached as the file load
 
 test("a specifier landing on no file the folder holds closes nothing", () => {
   const held = change({ [AT]: 'import { a } from "./gone.ts"\n' })
-  expect(reachingIn(held, shadowOf(held)).get(AT)).toEqual([])
+  expect(reaching(held).get(AT)).toEqual([])
 })
 
 test("a package specifier naming no path of its own is passed over", () => {
   const held = change({ [AT]: 'import ts from "typescript"\n\nexport const one = ts\n' })
-  expect(reachingIn(held, shadowOf(held)).get(AT)).toEqual([])
+  expect(reaching(held).get(AT)).toEqual([])
 })
 
 test("a file that is not TypeScript is no part of the graph", () => {
   const held = change({ "akasha/notes.txt": "" })
-  expect([...reachingIn(held, shadowOf(held)).keys()]).toEqual([])
+  expect([...reaching(held).keys()]).toEqual([])
 })
 
 test("a body that is not text refuses rather than reaching nothing", () => {
   const at = (): Uint8Array => new Uint8Array([0xff, 0xfe, 0x00])
   const held = { root: ROOT, changed: ["akasha/raw.ts"], after: at, before: at }
-  expect(() => reachingIn(held, shadowOf(held))).toThrow("akasha/raw.ts")
-  expect(() => reachingIn(held, shadowOf(held))).toThrow("not valid UTF-8")
+  expect(() => reaching(held)).toThrow("akasha/raw.ts")
+  expect(() => reaching(held)).toThrow("not valid UTF-8")
 })
 
 test("two separate cycles are both found", () => {
