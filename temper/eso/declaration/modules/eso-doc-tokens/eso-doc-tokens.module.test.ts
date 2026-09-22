@@ -80,6 +80,19 @@ test("a documented type outside the map is answered as the dump spells it", () =
   expect(parseFunctions(dump)[0]?.params[0]?.type).toBe("Widget")
 })
 
+test("a documented type named for a 64-bit identifier is answered as that identifier", () => {
+  const dump = [
+    "h2. Game API",
+    "* GetSlot(*[WidgetSlot_id64|#WidgetSlot_id64]* _slot_)",
+    "** _Returns:_ *[WidgetSlot_id64|#WidgetSlot_id64]:nilable* _slot_",
+    "",
+    "h2. Object API",
+  ].join("\n")
+  const [first] = parseFunctions(dump)
+  expect(first?.params[0]?.type).toBe("Id64")
+  expect(first?.returns[0]?.type).toBe("Id64 | undefined")
+})
+
 const EVENT_DUMP = [
   "h2. Events",
   "* EVENT_COMBAT_EVENT (*integer* _result_)",

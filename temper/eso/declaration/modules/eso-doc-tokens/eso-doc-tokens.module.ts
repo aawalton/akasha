@@ -26,6 +26,10 @@ export const esoDocTokens = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A documented type named for a 64-bit identifier is answered as that identifier.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Whether a type may be written into a declaration is answered here.",
     },
     {

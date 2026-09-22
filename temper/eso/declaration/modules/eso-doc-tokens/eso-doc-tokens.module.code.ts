@@ -62,6 +62,14 @@ function capturedPairs(input: string, re: RegExp): readonly (readonly [string, s
   return found
 }
 
+const ID64 = "Id64"
+
+const ID64_SUFFIX = "_id64"
+
+function namedType(held: string): string {
+  return held.endsWith(ID64_SUFFIX) ? ID64 : held
+}
+
 const TYPE_MAP: Record<string, string> = {
   string: "string",
   "string:nilable": "string | undefined",
@@ -75,8 +83,8 @@ const TYPE_MAP: Record<string, string> = {
   "bool:nilable": "boolean | undefined",
   luaindex: "number",
   "luaindex:nilable": "number | undefined",
-  id64: "Id64",
-  "id64:nilable": "Id64 | undefined",
+  id64: ID64,
+  "id64:nilable": `${ID64} | undefined`,
   table: "Record<string, unknown>",
   "table:nilable": "Record<string, unknown> | undefined",
   object: "unknown",
@@ -126,12 +134,12 @@ export interface ParsedObject {
 function parseType(typeStr: string): string {
   const nilableEnumMatch = parseMatch1(typeStr, /\[(\w+)\|#\w+\]:nilable/)
   if (nilableEnumMatch) {
-    return `${nilableEnumMatch[0]} | undefined`
+    return `${namedType(nilableEnumMatch[0])} | undefined`
   }
 
   const enumMatch = parseMatch1(typeStr, /\[(\w+)\|#\w+\]/)
   if (enumMatch) {
-    return enumMatch[0]
+    return namedType(enumMatch[0])
   }
 
   const mapped = TYPE_MAP[typeStr] ?? TYPE_MAP[typeStr.toLowerCase()]
