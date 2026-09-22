@@ -8,11 +8,6 @@ export const dallaResourceManagement = {
   persona: "persona/dalla",
   intentStack: [
     {
-      statement: "An audit is handed the commit that audit judges rather than a change.",
-      workingMemory:
-        "The list is the commit's; the bodies are not. `everythingIn` sets `before` and `after` to `onDisk(root)`, and `shadowAt` reads `readingAt(indexIn(root), root)`, where the change path pins through `pinningOn` to `bodyAt(root, commit, path)`. 50 of 64 audits build the change, 34 on `everythingIn` and 16 through `overEveryNamed`. `.changed` 61 uses, `.after` 37 of which 24 are existence tests `shadow.holds` answers, `.root` 31, `.before` 4. 13 sites take bytes at a path, which `Shadow` lacks.\n",
-    },
-    {
       statement: "Every audit collects the files that audit judges rather than listing the tree.",
       workingMemory:
         "In a pod the tree is the commit, so every file there has a body. The two `git ls-files`\npasses are one now, 0.049s against 0.839s, but 49 audits still list the whole commit and\nthen filter. Narrowing to what a check judges is what is left: `rg --files` globbed to the\npage types a check carries answered 726 paths in 0.135s against 0.482s over everything, and\n`pathsTyped` already collects that way for `pagesTypedIn`.\n",
