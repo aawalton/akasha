@@ -4,7 +4,7 @@ export const characterSkills00 = {
   id: "01a06182-7818-7e29-abd6-c2963db70f64",
   type: "page-type/module",
   slug: "character-skills-00",
-  definition: "a run of Elder Scrolls Online skills, in the order the whole table names them",
+  definition: "a set of Elder Scrolls Online skills, in the order the whole table names them",
   code: "ts",
   decisions: [
     {
