@@ -483,7 +483,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/line/properties/skill-line-class.text-property.ts","id":"01a05fca-cb87-7a9a-9dda-95916e9f73d7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-grimoire/properties/focus-scripts.text-property.ts","id":"01a05fca-cb82-7738-87f5-0530f38d10af"}
-{"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-scribed-skill/properties/focus-script-id.text-property.ts","id":"01a05fca-cb82-7061-bc09-5c8739182b83"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-scribed-skill/properties/grimoire-id.text-property.ts","id":"01a05fca-cb83-73a3-afc2-bf571210f393"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/skill-line-id.text-property.ts","id":"01a05fba-ce3b-7214-b302-f798be22e99e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/subcategory-id.text-property.ts","id":"01a05fba-ce3b-7c4b-adf4-7b752fef3058"}

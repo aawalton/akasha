@@ -20,3 +20,4 @@
 {"propertySlug":"import","fileName":"temper-focus-script.page-type.types.ts","path":"temper/catalog/skill/temper-focus-script/pages/taunt.temper-focus-script.ts"}
 {"propertySlug":"import","fileName":"temper-focus-script.page-type.types.ts","path":"temper/catalog/skill/temper-focus-script/pages/trauma.temper-focus-script.ts"}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
+{"propertySlug":"target-page-type","path":"temper/catalog/skill/temper-scribed-skill/properties/focus-script-id.relation-property.ts","id":"01a05fca-cb82-7061-bc09-5c8739182b83"}
