@@ -2559,6 +2559,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/system-choice-card/system-choice-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/system-window-card/system-window-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/characters/modules/character-filing/character-filing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter/chapter.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/site/site.module.ts"}

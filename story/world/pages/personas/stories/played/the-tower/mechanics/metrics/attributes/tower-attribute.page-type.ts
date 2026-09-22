@@ -16,6 +16,7 @@ export const towerAttribute = {
     "page-type/tower-presence",
     "page-type/tower-vitality",
     "page-type/tower-will",
+    "module/tower-attributes-beside",
   ],
   properties: [
     { pageProperty: "number-property/metric-min-value", required: true, many: false, fixed: "0" },
