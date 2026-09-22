@@ -35,13 +35,13 @@ export function onLoad(
 
   hookKeybindingListCallbacks(
     CATEGORY_DATA_TYPE,
-    "libAddonKeybinds.SetupCategoryHeader",
-    "libAddonKeybinds.HideCategoryHeader"
+    `${LAK_NAME}.SetupCategoryHeader`,
+    `${LAK_NAME}.HideCategoryHeader`
   )
   hookKeybindingListCallbacks(
     KEYBIND_DATA_TYPE,
-    "libAddonKeybinds.SetupKeybindRow",
-    "libAddonKeybinds.HideKeybindRow"
+    `${LAK_NAME}.SetupKeybindRow`,
+    `${LAK_NAME}.HideKeybindRow`
   )
   hookKeybindingListFilter(lak, keybindingManager)
   return undefined
