@@ -146,6 +146,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/properties/holding-game.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/properties/player-entity.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/item/properties/item-character.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/item/properties/item-slot.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/mechanic/metric/properties/metric-character.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/turn/properties/turn-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/characters/properties/alias-of.relation-property.ts"}

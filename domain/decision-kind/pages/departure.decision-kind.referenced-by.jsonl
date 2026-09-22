@@ -3518,6 +3518,7 @@
 {"propertySlug":"decision-kind","path":"story/game/turn/properties/turn-number.number-property.ts","id":"01a0c67e-d63a-7fab-b15d-5700bade864e"}
 {"propertySlug":"decision-kind","path":"story/game/turn/properties/turn-pools.record-property.ts","id":"01a0c69c-5e8f-723a-a541-33dd17912c80"}
 {"propertySlug":"decision-kind","path":"story/game/turn/properties/turn-rungs.record-property.ts","id":"01a0c6a3-8727-7638-9ad4-400f03486439"}
+{"propertySlug":"decision-kind","path":"story/item/properties/item-slot.relation-property.ts","id":"01a0ca45-cc74-7097-84c6-4205dbdaeff1"}
 {"propertySlug":"decision-kind","path":"story/mechanic/metric/properties/history.file-property.ts","id":"01a0c9fe-db25-75da-99e7-c4f8a29375a8"}
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}
 {"propertySlug":"decision-kind","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}

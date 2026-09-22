@@ -77,6 +77,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"initiative","unique":null,"uniquePropertySlug":null,"slug":"initiative-parent","propertySlug":"parent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"initiative-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"character","unique":null,"uniquePropertySlug":null,"slug":"item-character","propertySlug":"character","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"item-slot","unique":null,"uniquePropertySlug":null,"slug":"item-slot","propertySlug":"slot","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-jewelry-slot","unique":null,"uniquePropertySlug":null,"slug":"jewelry-slot","propertySlug":"jewelry-slot","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-jewelry-trait","unique":null,"uniquePropertySlug":null,"slug":"jewelry-trait","propertySlug":"jewelry-trait","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-jewelry-type","unique":null,"uniquePropertySlug":null,"slug":"jewelry-type","propertySlug":"jewelry-type","fileName":null,"folderName":null}
