@@ -11,12 +11,12 @@ export const changeRunner = {
     "change-runner/test-change-running",
     "file-property/addressed",
     "module/change-loading",
-    "relation-property/reached",
+    "relation-property/runner-reached",
   ],
   extends: ["page-type/module"],
   properties: [
     { pageProperty: "file-property/addressed", required: true, many: false },
-    { pageProperty: "relation-property/reached", required: true, many: false },
+    { pageProperty: "relation-property/runner-reached", required: true, many: false },
   ],
   typeGenerator: "ts",
   decisions: [

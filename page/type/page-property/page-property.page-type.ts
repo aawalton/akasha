@@ -57,6 +57,18 @@ export const pageProperty = {
       statement: "A property is reached by its slug and read by its key.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The page a relation reaches is looked up by that relation's slug alone.",
+    },
+    {
+      decisionKind: "decision-kind/upkeep",
+      statement: "No two page properties share a slug, though each is a page of its own kind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slug a second property already holds takes its page type's word on the front.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "A page property's type is written beside that property rather than written by hand.",

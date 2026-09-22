@@ -1,9 +1,9 @@
 import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
 
-export const value = {
+export const pageValue = {
   id: "01a0534e-c7e0-74c3-9eea-499d48af54db",
   type: "page-type/relation-property",
-  slug: "value",
+  slug: "page-value",
   propertySlug: "value",
   definition: "a page's value",
   targetPageType: "page-type/value",

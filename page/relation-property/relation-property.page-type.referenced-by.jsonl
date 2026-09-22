@@ -65,7 +65,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"change/properties/change-mode.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"change/properties/change-target-subtype.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"change/properties/change-target-type.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"change/runner/properties/reached.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"change/runner/properties/runner-reached.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"change/target/subtype/properties/change-target-subtype-parent.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/ios-app/properties/build-script.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/ios-app/properties/sync-script.relation-property.ts"}
@@ -121,7 +121,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/desktop-wallpaper.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/mobile-wallpaper.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/origin.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/value.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/page-value.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/voice-reference.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/review-session/properties/session-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/wallpaper-notification/properties/notification-persona.relation-property.ts"}

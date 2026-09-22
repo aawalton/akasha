@@ -18,7 +18,7 @@ export const personaCraftDay = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/craft-day-persona", required: true, many: false },
     { pageProperty: "text-property/date", required: true, many: false },
-    { pageProperty: "relation-property/value", required: true, many: false },
+    { pageProperty: "relation-property/page-value", required: true, many: false },
     { pageProperty: "text-property/icon", required: false, many: false },
     {
       pageProperty: "multi-relation-property/personas-crafted",

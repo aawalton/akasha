@@ -11,13 +11,13 @@ import type { History } from "akasha/persona/properties/history.text-property.ty
 import type { LastMessagedAt } from "akasha/persona/properties/last-messaged-at.text-property.types.ts"
 import type { MobileWallpaper } from "akasha/persona/properties/mobile-wallpaper.relation-property.types.ts"
 import type { Origin } from "akasha/persona/properties/origin.relation-property.types.ts"
+import type { PageValue } from "akasha/persona/properties/page-value.relation-property.types.ts"
 import type { PersonaRelationshipLevel } from "akasha/persona/properties/persona-relationship-level.computed-property.types.ts"
 import type { PointsBeforeToday } from "akasha/persona/properties/points-before-today.number-property.types.ts"
 import type { PointsToday } from "akasha/persona/properties/points-today.number-property.types.ts"
 import type { PointsTotal } from "akasha/persona/properties/points-total.number-property.types.ts"
 import type { Portrait } from "akasha/persona/properties/portrait.file-property.types.ts"
 import type { Purpose } from "akasha/persona/properties/purpose.text-property.types.ts"
-import type { Value } from "akasha/persona/properties/value.relation-property.types.ts"
 import type { VoiceInstruction } from "akasha/persona/properties/voice-instruction.text-property.types.ts"
 import type { VoiceReference } from "akasha/persona/properties/voice-reference.relation-property.types.ts"
 import type { VoiceReferenceSha256 } from "akasha/persona/properties/voice-reference-sha256.text-property.types.ts"
@@ -28,7 +28,7 @@ export type Persona = Domain & {
   portrait?: Portrait
   appearance?: Appearance
   role?: Role
-  value?: Value
+  value?: PageValue
   origin?: Origin
   email?: EmailAddress
   phone?: Phone

@@ -109,6 +109,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"page-domain","propertySlug":"domain","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"page-page-type","propertySlug":"type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"page-property","propertySlug":"page-property","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"page-value","propertySlug":"value","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"identity-statement","unique":null,"uniquePropertySlug":null,"slug":"parent-statement","propertySlug":"parent-statement","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"part-of-speech","unique":null,"uniquePropertySlug":null,"slug":"part-of-speech","propertySlug":"part-of-speech","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"person","unique":null,"uniquePropertySlug":null,"slug":"person","propertySlug":"person","fileName":null,"folderName":null}
@@ -130,7 +131,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-quest-giver","unique":null,"uniquePropertySlug":null,"slug":"quest-giver","propertySlug":"quest-giver","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"all-about-alan-topic","unique":null,"uniquePropertySlug":null,"slug":"question-topic","propertySlug":"topic","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"attunement-rank","unique":null,"uniquePropertySlug":null,"slug":"rank-of-attunement","propertySlug":"rank","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"reached","propertySlug":"reached","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"read-live-from","propertySlug":"read-live-from","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-mechanic","unique":null,"uniquePropertySlug":null,"slug":"reading-mechanic","propertySlug":"mechanic","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"alan-book","unique":null,"uniquePropertySlug":null,"slug":"record-book","propertySlug":"book","fileName":null,"folderName":null}
@@ -143,6 +143,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"supervisor-action","unique":null,"uniquePropertySlug":null,"slug":"requested-action","propertySlug":"action","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"role","unique":null,"uniquePropertySlug":null,"slug":"role","propertySlug":"role","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-mechanic","unique":null,"uniquePropertySlug":null,"slug":"run-mechanic","propertySlug":"mechanic","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"runner-reached","propertySlug":"reached","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"readout-scale","unique":null,"uniquePropertySlug":null,"slug":"scale","propertySlug":"scale","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"scaled-by","propertySlug":"scaling","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"scored-attribute","propertySlug":"attribute","fileName":null,"folderName":null}
@@ -177,7 +178,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"story","unique":null,"uniquePropertySlug":null,"slug":"turn-story","propertySlug":"story","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"unique-kind","unique":null,"uniquePropertySlug":null,"slug":"unique","propertySlug":"unique","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"unique-property","propertySlug":"unique-property","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"value","propertySlug":"value","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"color","unique":null,"uniquePropertySlug":null,"slug":"value-color","propertySlug":"color","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"view-page-type","propertySlug":"page-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"audio","unique":null,"uniquePropertySlug":null,"slug":"voice-reference","propertySlug":"voice-reference","fileName":null,"folderName":null}

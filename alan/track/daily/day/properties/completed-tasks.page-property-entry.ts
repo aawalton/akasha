@@ -10,7 +10,7 @@ export const completedTasks = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "instant-property/completed-at", required: true, many: false },
     { pageProperty: "calendar-date-property/due-date", required: false, many: false },
-    { pageProperty: "relation-property/value", required: false, many: false },
+    { pageProperty: "relation-property/page-value", required: false, many: false },
     { pageProperty: "text-property/recurrence", required: false, many: false },
     { pageProperty: "text-property/category", required: false, many: false },
     { pageProperty: "text-property/to-do-slug", required: false, many: false },

@@ -9,4 +9,4 @@
 {"propertySlug":"target-page-type","path":"alan/self/identity-statement/properties/identity-statement-value.relation-property.ts","id":"01a0658a-739f-7952-921f-4eb125f1399c"}
 {"propertySlug":"target-page-type","path":"alan/self/life-theme/properties/life-theme-value.relation-property.ts","id":"01a06575-c2c0-7ff7-823d-841339e34481"}
 {"propertySlug":"target-page-type","path":"alan/track/to-do/properties/to-do-value.relation-property.ts","id":"01a065a1-49b7-77b4-83e1-b4ae26009cdd"}
-{"propertySlug":"target-page-type","path":"persona/properties/value.relation-property.ts","id":"01a0534e-c7e0-74c3-9eea-499d48af54db"}
+{"propertySlug":"target-page-type","path":"persona/properties/page-value.relation-property.ts","id":"01a0534e-c7e0-74c3-9eea-499d48af54db"}
