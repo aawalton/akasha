@@ -103,7 +103,6 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/edge/properties/attributes.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/predicate/properties/edges.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/predicate/properties/followed-attribute.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/alert/properties/alert-persona.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/auth/sign-in/properties/sign-in-contributor.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/properties/image-persona.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/service/cluster/properties/secrets.multi-relation-property.types.ts"}

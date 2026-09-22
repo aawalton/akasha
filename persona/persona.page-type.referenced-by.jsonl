@@ -51,7 +51,6 @@
 {"propertySlug":"target-page-type","path":"alan/style/appearance-experiment/properties/experiment-persona.relation-property.ts","id":"01a06d59-446e-771a-b415-e770351c25c9"}
 {"propertySlug":"target-page-type","path":"alan/track/daily/day/properties/messaged-persona.relation-property.ts","id":"01a082db-817c-7626-b074-d75a367de571"}
 {"propertySlug":"target-page-type","path":"domain/initiative/properties/initiative-persona.relation-property.ts","id":"01a06d59-446d-79b0-af7c-56fc8ec01122"}
-{"propertySlug":"target-page-type","path":"infrastructure/alert/properties/alert-persona.relation-property.ts","id":"01a06935-9779-7dc1-8aa1-cd00a3576c4b"}
 {"propertySlug":"target-page-type","path":"infrastructure/inference/generation/image/properties/image-persona.relation-property.ts","id":"01a0c5f0-5590-72e4-b3dc-065c29bd351c"}
 {"propertySlug":"target-page-type","path":"person/properties/answered-by.relation-property.ts","id":"01a053e6-3585-7b1a-86ec-d3f1f6b2169f"}
 {"propertySlug":"target-page-type","path":"persona/craft-day/properties/craft-day-persona.relation-property.ts","id":"01a06d64-245e-7283-aa0e-ca4eda4dd326"}

@@ -81,7 +81,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/standard-agent-english/property/properties/start-symbol.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/standard-agent-english/term/banned-term/properties/prose-frame.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"graph/predicate/properties/followed-attribute.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/alert/properties/alert-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/auth/sign-in/properties/sign-in-contributor.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/image-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/service/inference/properties/inference-host.relation-property.ts"}

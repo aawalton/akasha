@@ -10,22 +10,11 @@ export const alert = {
     { partOfSpeech: "part-of-speech/noun", spelling: "alerts" },
   ],
   extends: ["page-type/page"],
-  parts: [
-    "file-property/alert-runbook",
-    "relation-property/alert-persona",
-    "text-property/alert-domain",
-    "text-property/alert-role-slug",
-    "text-property/alert-summary",
-  ],
+  parts: [],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
-    { pageProperty: "text-property/alert-domain", required: false, many: false },
-    { pageProperty: "text-property/alert-summary", required: false, many: false },
     { pageProperty: "relation-property/person", required: false, many: false },
-    { pageProperty: "file-property/alert-runbook", required: false, many: false },
-    { pageProperty: "relation-property/alert-persona", required: false, many: false },
-    { pageProperty: "text-property/alert-role-slug", required: false, many: false },
   ],
   decisions: [
     {
@@ -40,29 +29,6 @@ export const alert = {
       decisionKind: "decision-kind/departure",
       statement:
         "An alert names the area answering for the alert or the person answering for the alert.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An alert's runbook is a page property held in a file beside the page.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A summary is written as the annotation a firing rule carries.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "An alert's recipient is resolved on the workstation rather than where the alert fires.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Alert words reach the code composing the rules through a page query rather than a file read.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A composer that cannot reach the words stops rather than composing an alert without those words.",
     },
     {
       decisionKind: "decision-kind/departure",

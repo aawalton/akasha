@@ -24,8 +24,6 @@
 {"propertySlug":"name-format","path":"domain/properties/tunnel-route-name.text-property.ts","id":"01a0c68b-a04d-775e-bddf-207adf6b99e0"}
 {"propertySlug":"name-format","path":"graph/predicate/properties/attribute-value.text-property.ts","id":"01a0aa5f-7cce-7766-8bca-9d4677a026ea"}
 {"propertySlug":"name-format","path":"graph/predicate/properties/direction.text-property.ts","id":"01a0a5e2-270a-7e0a-8a1d-0d7ae58c26f5"}
-{"propertySlug":"name-format","path":"infrastructure/alert/properties/alert-domain.text-property.ts","id":"01a06755-0778-78ee-bf36-f7fd5ffa5619"}
-{"propertySlug":"name-format","path":"infrastructure/alert/properties/alert-role-slug.text-property.ts","id":"01a06935-977a-7e91-ae12-88623e6a23ba"}
 {"propertySlug":"name-format","path":"infrastructure/auth/sign-in/properties/sign-in-provider.text-property.ts","id":"01a0bae9-dc45-7cb3-a9cc-064293500f07"}
 {"propertySlug":"name-format","path":"infrastructure/inference/generation/audio/properties/inference-operation.text-property.ts","id":"01a0c643-35e0-74f1-9eeb-e5ec91c9010b"}
 {"propertySlug":"name-format","path":"infrastructure/inference/generation/audio/properties/inference-service.text-property.ts","id":"01a0c643-2215-7ce1-8d2a-d4d652df29bf"}
