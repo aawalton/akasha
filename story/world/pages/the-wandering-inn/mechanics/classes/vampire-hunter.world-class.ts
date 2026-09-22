@@ -6,6 +6,7 @@ export const vampireHunter = {
   slug: "vampire-hunter",
   title: "Vampire Hunter",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   aliases: ["vampire-hunters"],
   evolvesFromSlugs: ["crossbow-speed-hunter"],
   references: "jsonl",

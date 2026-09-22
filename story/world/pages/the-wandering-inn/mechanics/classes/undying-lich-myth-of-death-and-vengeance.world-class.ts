@@ -6,5 +6,6 @@ export const undyingLichMythOfDeathAndVengeance = {
   slug: "undying-lich-myth-of-death-and-vengeance",
   title: "Undying Lich, Myth of Death and Vengeance",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldClass

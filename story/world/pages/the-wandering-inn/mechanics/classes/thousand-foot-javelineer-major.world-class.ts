@@ -6,5 +6,6 @@ export const thousandFootJavelineerMajor = {
   slug: "thousand-foot-javelineer-major",
   title: "Thousand-Foot Javelineer Major",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

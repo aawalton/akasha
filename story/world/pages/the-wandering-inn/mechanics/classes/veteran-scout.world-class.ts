@@ -6,6 +6,7 @@ export const veteranScout = {
   slug: "veteran-scout",
   title: "Veteran Scout",
   world: "world/the-wandering-inn",
+  appearanceCount: 13,
   evolvesToSlugs: ["bowman-of-loss"],
   references: "jsonl",
 } as const satisfies WorldClass

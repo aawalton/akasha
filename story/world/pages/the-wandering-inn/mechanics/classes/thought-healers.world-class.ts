@@ -6,6 +6,7 @@ export const thoughtHealers = {
   slug: "thought-healers",
   title: "Thought Healers",
   world: "world/the-wandering-inn",
+  appearanceCount: 17,
   aliases: ["Thought-Healers"],
   references: "jsonl",
 } as const satisfies WorldClass

@@ -6,5 +6,6 @@ export const teammate = {
   slug: "teammate",
   title: "Teammate",
   world: "world/the-wandering-inn",
+  appearanceCount: 9,
   references: "jsonl",
 } as const satisfies WorldClass

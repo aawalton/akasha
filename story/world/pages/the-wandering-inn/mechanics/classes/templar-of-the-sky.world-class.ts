@@ -6,6 +6,7 @@ export const templarOfTheSky = {
   slug: "templar-of-the-sky",
   title: "Templar of the Sky",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesFromSlugs: ["templar-of-speech"],
   references: "jsonl",
 } as const satisfies WorldClass
