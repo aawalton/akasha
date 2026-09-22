@@ -344,6 +344,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/property-entry/page-property-entry.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/record-property/record-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/relation-property/relation-property.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/rich-document-property/rich-document-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/rrule-property/rrule-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/select-property/select-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/text-property/text-property.page-type.ts"}

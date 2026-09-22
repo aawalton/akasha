@@ -125,6 +125,7 @@ const RENDERED_AS: Readonly<Record<string, string>> = {
   "process-property": "json",
   "record-property": "json",
   "relation-property": "relation",
+  "rich-document-property": "rich-document",
   "rrule-property": "rrule",
   "select-property": "select",
   "text-property": RENDERED_PLAIN,

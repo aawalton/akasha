@@ -15,6 +15,7 @@
 {"propertySlug":"extends-type","path":"page/property-entry/page-property-entry.page-type.ts","id":"01a05f80-3969-7000-8ccd-6284909fc036"}
 {"propertySlug":"extends-type","path":"page/record-property/record-property.page-type.ts","id":"01a04dff-9d7d-7801-928a-feeaaaa1c8f0"}
 {"propertySlug":"extends-type","path":"page/relation-property/relation-property.page-type.ts","id":"01a04dff-9d7d-7809-9a88-4fd343f11772"}
+{"propertySlug":"extends-type","path":"page/rich-document-property/rich-document-property.page-type.ts","id":"01a0c670-5192-778f-84a7-e034f56f86c6"}
 {"propertySlug":"extends-type","path":"page/rrule-property/rrule-property.page-type.ts","id":"01a0c507-6bf0-71a3-b7d9-5e878c5c4d9b"}
 {"propertySlug":"extends-type","path":"page/select-property/select-property.page-type.ts","id":"01a063de-2c60-7003-a9bc-92d52325a70d"}
 {"propertySlug":"extends-type","path":"page/text-property/text-property.page-type.ts","id":"01a04dff-9d7d-7b50-a58a-419207af8ec0"}
@@ -212,6 +213,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/property-entry/page-property-entry.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/record-property/record-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/relation-property/relation-property.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/rich-document-property/rich-document-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/rrule-property/rrule-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/select-property/select-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/text-property/text-property.page-type.types.ts"}

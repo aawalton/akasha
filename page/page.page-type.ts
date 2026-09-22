@@ -114,6 +114,7 @@ export const page = {
     "page-type/grade-property",
     "page-type/record-property",
     "page-type/relation-property",
+    "page-type/rich-document-property",
     "page-type/rrule-property",
     "page-type/select-property",
     "page-type/text-property",

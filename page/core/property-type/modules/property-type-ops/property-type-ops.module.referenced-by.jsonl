@@ -26,6 +26,7 @@
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/instant-property/instant-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/relation-property/relation-property.page-type.property-badge-component.code.tsx"}
+{"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/rich-document-property/rich-document-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/rrule-property/rrule-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/ui-store/query/modules/view-match/view-match.module.code.ts"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/ui/component/modules/json-property-badge/json-property-badge.module.code.tsx"}
