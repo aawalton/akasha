@@ -7,7 +7,7 @@ export const changeProsePattern = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/prose",
   changeTargetSubtype: "change-target-subtype/prose-pattern",
-  definition: "every passage a banned term is written in restated in one answer",
+  definition: "every passage a banned term is written in restated in an answer",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

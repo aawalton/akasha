@@ -7,7 +7,7 @@ export const renameFilePageProperty = {
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page-property",
-  definition: "one page property renamed and carried to where its slug says",
+  definition: "a page property renamed and carried to where its slug says",
   code: "ts",
   test: "ts",
   decisions: [

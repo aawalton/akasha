@@ -8,7 +8,7 @@ export const qualifyRelationOnEveryPage = {
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition:
-    "a bare name written anew with the page type it reaches, on every page of one page type",
+    "a bare name written anew with the page type it reaches, on every page of a page type",
   takesAtMost: true,
   code: "ts",
   test: "ts",

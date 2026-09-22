@@ -5,8 +5,7 @@ export const changeMaxMemoryMb = {
   type: "page-type/number-property",
   slug: "change-max-memory-mb",
   propertySlug: "max-memory-mb",
-  definition:
-    "the most memory one run of a change may hold before the kernel reclaims, in megabytes",
+  definition: "the most memory a run of a change may hold before the kernel reclaims, in megabytes",
   max: null,
   decisions: [
     {

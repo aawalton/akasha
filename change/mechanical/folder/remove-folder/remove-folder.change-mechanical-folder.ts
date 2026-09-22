@@ -7,7 +7,7 @@ export const removeFolder = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/folder",
   changeTargetSubtype: "change-target-subtype/folder",
-  definition: "one folder and every file under it taken away",
+  definition: "a folder and every file under it taken away",
   code: "ts",
   test: "ts",
   decisions: [
