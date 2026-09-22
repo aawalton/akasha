@@ -1,4 +1,4 @@
-export interface FcoSettings {
+export interface CompanionQolSettings {
   language?: number
   saveMode?: number
 
@@ -23,13 +23,12 @@ export interface FcoSettings {
   reSummonAfterCrouchingDelay: number
 }
 
-export interface FcoDefaultSettings {
+export interface CompanionQolDefaultSettings {
   language: number
   saveMode: number
 }
 
 export interface AddonVars {
-  addonVersion: number
   addonSavedVarsVersion: string
   addonSavedVarsVersionPerToon: string
   addonSavedVarsForAllTable: string
@@ -39,19 +38,14 @@ export interface AddonVars {
   addonNameMenuDisplay: string
   addonSavedVariablesName: string
   addonSavedVariablesNamePerToon: string
-  settingsName: string
-  addonAuthor: string
-  addonWebsite: string
-  addonFeedback: string
-  addonDonation: string
 }
 
 export interface SettingsVars {
-  defaultSettings: FcoDefaultSettings
-  settings: FcoSettings
-  settingsPerToon: FcoSettings
-  defaults: FcoSettings
-  defaultsPerToon: FcoSettings
+  defaultSettings: CompanionQolDefaultSettings
+  settings: CompanionQolSettings
+  settingsPerToon: CompanionQolSettings
+  defaults: CompanionQolSettings
+  defaultsPerToon: CompanionQolSettings
 }
 
 export type CompanionInfo = Record<number, number>

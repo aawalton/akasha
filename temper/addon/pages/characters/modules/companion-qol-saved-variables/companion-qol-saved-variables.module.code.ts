@@ -4,17 +4,17 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import {
-  asFcoSettings,
+  asCompanionQolSettings,
   asNumber,
 } from "akasha/temper/addon/pages/characters/modules/companion-qol-casts/companion-qol-casts.module.code.ts"
-import { FCOCO } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
+import { COMPANION_QOL } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
 import type {
-  FcoDefaultSettings,
-  FcoSettings,
+  CompanionQolDefaultSettings,
+  CompanionQolSettings,
 } from "akasha/temper/addon/pages/characters/modules/companion-qol-types/companion-qol-types.module.code.ts"
 
-FCOCO.getSettings = function (this: void): undefined {
-  const addonVars = FCOCO.addonVars
+COMPANION_QOL.getSettings = function (this: void): undefined {
+  const addonVars = COMPANION_QOL.addonVars
   const serverName = GetWorldName()
   const svName = addonVars.addonSavedVariablesName
   const svPerToonName = addonVars.addonSavedVariablesNamePerToon
@@ -23,12 +23,12 @@ FCOCO.getSettings = function (this: void): undefined {
   const svForAllTable = addonVars.addonSavedVarsForAllTable
   const svNormalTable = addonVars.addonSavedVarsNormalTable
 
-  const defaultsSettings: FcoDefaultSettings = {
+  const defaultsSettings: CompanionQolDefaultSettings = {
     language: 1,
     saveMode: 2,
   }
 
-  const defaults: FcoSettings = {
+  const defaults: CompanionQolSettings = {
     alwaysUseClientLanguage: true,
 
     companionIsSummoned: false,
@@ -48,12 +48,12 @@ FCOCO.getSettings = function (this: void): undefined {
     reSummonAfterCrouching: false,
     reSummonAfterCrouchingDelay: 5000,
   }
-  FCOCO.settingsVars.defaults = defaults
+  COMPANION_QOL.settingsVars.defaults = defaults
 
-  const defaultsPerToon: FcoSettings = asFcoSettings({})
-  FCOCO.settingsVars.defaultsPerToon = defaultsPerToon
+  const defaultsPerToon: CompanionQolSettings = asCompanionQolSettings({})
+  COMPANION_QOL.settingsVars.defaultsPerToon = defaultsPerToon
 
-  FCOCO.settingsVars.defaultSettings = ZO_SavedVars.NewAccountWide(
+  COMPANION_QOL.settingsVars.defaultSettings = ZO_SavedVars.NewAccountWide(
     svName,
     999,
     svForAllTable,
@@ -61,8 +61,8 @@ FCOCO.getSettings = function (this: void): undefined {
     serverName
   )
 
-  if (FCOCO.settingsVars.defaultSettings.saveMode === 1) {
-    FCOCO.settingsVars.settings = ZO_SavedVars.NewCharacterIdSettings(
+  if (COMPANION_QOL.settingsVars.defaultSettings.saveMode === 1) {
+    COMPANION_QOL.settingsVars.settings = ZO_SavedVars.NewCharacterIdSettings(
       svName,
       asNumber(svVersion),
       svNormalTable,
@@ -70,7 +70,7 @@ FCOCO.getSettings = function (this: void): undefined {
       serverName
     )
   } else {
-    FCOCO.settingsVars.settings = ZO_SavedVars.NewAccountWide(
+    COMPANION_QOL.settingsVars.settings = ZO_SavedVars.NewAccountWide(
       svName,
       asNumber(svVersion),
       svNormalTable,
@@ -78,7 +78,7 @@ FCOCO.getSettings = function (this: void): undefined {
       serverName
     )
   }
-  FCOCO.settingsVars.settingsPerToon = ZO_SavedVars.NewCharacterIdSettings(
+  COMPANION_QOL.settingsVars.settingsPerToon = ZO_SavedVars.NewCharacterIdSettings(
     svPerToonName,
     asNumber(svVersionPerToon),
     svNormalTable,

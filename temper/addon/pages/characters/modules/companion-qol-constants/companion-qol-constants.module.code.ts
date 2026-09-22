@@ -3,7 +3,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
-import { FCOCO } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
+import { COMPANION_QOL } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
 import type {
   AddonVars,
   CompanionInfo,
@@ -11,25 +11,19 @@ import type {
 import "akasha/temper/addon/pages/characters/companions-declarations/companions-declarations.type-declaration.d.ts"
 
 const ADDON_VARS: AddonVars = {
-  addonVersion: 0.17,
   addonSavedVarsVersion: "0.04",
   addonSavedVarsVersionPerToon: "0.01",
   addonSavedVarsForAllTable: "SettingsForAll",
   addonSavedVarsNormalTable: "Settings",
-  addonName: "FCOCompanion",
-  addonNameMenu: "FCO Companion",
-  addonNameMenuDisplay: "|c00FF00FCO |cFFFF00 Companion|r",
+  addonName: "TemperCharactersCompanionQol",
+  addonNameMenu: "Temper Companion",
+  addonNameMenuDisplay: "Temper Companion",
   addonSavedVariablesName: "FCOCompanion_Settings",
   addonSavedVariablesNamePerToon: "FCOCompanion_Settings_PerToon",
-  settingsName: "FCO Companion",
-  addonAuthor: "Baertram",
-  addonWebsite: "https://www.esoui.com/downloads/info3044-FCOCompanion.html",
-  addonFeedback: "https://www.esoui.com/portal.php?uid=2028",
-  addonDonation: "https://www.esoui.com/portal.php?id=136&a=faq&faqid=131",
 }
-FCOCO.addonVars = ADDON_VARS
+COMPANION_QOL.addonVars = ADDON_VARS
 
-FCOCO.LAM = LibAddonMenu2
+COMPANION_QOL.LAM = LibAddonMenu2
 
 const COMPANION_INFO: CompanionInfo = {}
 for (let i = 1; i <= 30; i += 1) {
@@ -38,7 +32,7 @@ for (let i = 1; i <= 30; i += 1) {
     COMPANION_INFO[i] = companionCollectibleId
   }
 }
-FCOCO.companionInfo = COMPANION_INFO
+COMPANION_QOL.companionInfo = COMPANION_INFO
 
 let IS_COMPANION_UNLOCKED = false
 for (let i = 1; i <= 30; i += 1) {
@@ -48,8 +42,8 @@ for (let i = 1; i <= 30; i += 1) {
     break
   }
 }
-FCOCO.isCompanionUnlocked = IS_COMPANION_UNLOCKED
+COMPANION_QOL.isCompanionUnlocked = IS_COMPANION_UNLOCKED
 
 if (!IS_COMPANION_UNLOCKED) {
-  d(GetString(FCOCO_NO_COMPANION_UNLOCKED_YET))
+  d(GetString(COMPANION_QOL_NO_COMPANION_UNLOCKED_YET))
 }

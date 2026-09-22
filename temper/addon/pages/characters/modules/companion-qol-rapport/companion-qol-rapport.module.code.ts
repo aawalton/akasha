@@ -6,7 +6,7 @@ import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { FCOCO } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
+import { COMPANION_QOL } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/characters/companions-declarations/companions-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
@@ -46,7 +46,7 @@ function createRapportValueLabel(
   return rapportValueLabel
 }
 
-if (FCOCO.isCompanionUnlocked) {
+if (COMPANION_QOL.isCompanionUnlocked) {
   SecurePostHook(
     COMPANION_OVERVIEW_KEYBOARD,
     "RefreshCompanionRapport",

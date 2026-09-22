@@ -6,52 +6,47 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { asNumber } from "akasha/temper/addon/pages/characters/modules/companion-qol-casts/companion-qol-casts.module.code.ts"
-import { FCOCO } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
+import { COMPANION_QOL } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/characters/companions-declarations/companions-declarations.type-declaration.d.ts"
 
-FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
-  const settings = FCOCO.settingsVars.settings
+COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
+  const settings = COMPANION_QOL.settingsVars.settings
   if (settings === undefined || LibAddonMenu2 === undefined) {
     return false
   }
-  const defaults = FCOCO.settingsVars.defaults
-  const addonVars = FCOCO.addonVars
+  const defaults = COMPANION_QOL.settingsVars.defaults
+  const addonVars = COMPANION_QOL.addonVars
   const addonName = addonVars.addonName
 
   const panelData: LamPanelData = {
     type: "panel",
     name: addonVars.addonNameMenu,
     displayName: addonVars.addonNameMenuDisplay,
-    author: addonVars.addonAuthor,
-    version: tostring(addonVars.addonVersion),
     registerForRefresh: true,
     registerForDefaults: true,
-    slashCommand: "/fcocos",
-    website: addonVars.addonWebsite,
-    feedback: addonVars.addonFeedback,
-    donation: addonVars.addonDonation,
+    slashCommand: "/tempercompanion",
   }
 
   const savedVariablesOptions: readonly string[] = [
-    GetString(FCOCO_LAM_SV_EACH_CHARACTER),
-    GetString(FCOCO_LAM_SV_ACCOUNT_WIDE),
+    GetString(COMPANION_QOL_LAM_SV_EACH_CHARACTER),
+    GetString(COMPANION_QOL_LAM_SV_ACCOUNT_WIDE),
   ]
   const savedVariablesOptionsValues: readonly number[] = [1, 2]
 
   const optionsTable: LamControlData[] = [
     {
       type: "dropdown",
-      name: GetString(FCOCO_LAM_SV_MODE),
-      tooltip: GetString(FCOCO_LAM_SV_MODE_TT),
+      name: GetString(COMPANION_QOL_LAM_SV_MODE),
+      tooltip: GetString(COMPANION_QOL_LAM_SV_MODE_TT),
       choices: savedVariablesOptions,
       choicesValues: savedVariablesOptionsValues,
       getFunc: function (this: void): string | number {
-        return FCOCO.settingsVars.defaultSettings.saveMode
+        return COMPANION_QOL.settingsVars.defaultSettings.saveMode
       },
       setFunc: function (this: void, value: string | number): undefined {
-        FCOCO.settingsVars.defaultSettings.saveMode = asNumber(value)
+        COMPANION_QOL.settingsVars.defaultSettings.saveMode = asNumber(value)
         return undefined
       },
       requiresReload: true,
@@ -59,12 +54,12 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
 
     {
       type: "header",
-      name: GetString(FCOCO_LAM_SETTING_HEADER_CRAFTING),
+      name: GetString(COMPANION_QOL_LAM_SETTING_HEADER_CRAFTING),
     },
     {
       type: "checkbox",
-      name: GetString(FCOCO_LAM_SETTING_UNSUMMON_AT_CRAFTING_TABLE),
-      tooltip: GetString(FCOCO_LAM_SETTING_UNSUMMON_AT_CRAFTING_TABLE_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CRAFTING_TABLE),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CRAFTING_TABLE_TT),
       getFunc: function (this: void): boolean {
         return settings.unSummonAtCraftingTables
       },
@@ -77,8 +72,8 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "checkbox",
-      name: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_CRAFTING_TABLE),
-      tooltip: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_CRAFTING_TABLE_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CRAFTING_TABLE),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CRAFTING_TABLE_TT),
       getFunc: function (this: void): boolean {
         return settings.reSummonAfterCraftingTables
       },
@@ -94,12 +89,12 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "header",
-      name: GetString(FCOCO_LAM_SETTING_HEADER_BANKS),
+      name: GetString(COMPANION_QOL_LAM_SETTING_HEADER_BANKS),
     },
     {
       type: "checkbox",
-      name: GetString(FCOCO_LAM_SETTING_UNSUMMON_AT_BANK),
-      tooltip: GetString(FCOCO_LAM_SETTING_UNSUMMON_AT_BANK_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_BANK),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_BANK_TT),
       getFunc: function (this: void): boolean {
         return settings.unSummonAtBanks
       },
@@ -112,8 +107,8 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "checkbox",
-      name: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_BANK),
-      tooltip: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_BANK_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_BANK),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_BANK_TT),
       getFunc: function (this: void): boolean {
         return settings.reSummonAfterBanks
       },
@@ -129,12 +124,12 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "header",
-      name: GetString(FCOCO_LAM_SETTING_HEADER_VENDORS),
+      name: GetString(COMPANION_QOL_LAM_SETTING_HEADER_VENDORS),
     },
     {
       type: "checkbox",
-      name: GetString(FCOCO_LAM_SETTING_UNSUMMON_AT_VENDOR),
-      tooltip: GetString(FCOCO_LAM_SETTING_UNSUMMON_AT_VENDOR_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_VENDOR),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_VENDOR_TT),
       getFunc: function (this: void): boolean {
         return settings.unSummonAtVendors
       },
@@ -147,8 +142,8 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "checkbox",
-      name: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_VENDOR),
-      tooltip: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_VENDOR_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_VENDOR),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_VENDOR_TT),
       getFunc: function (this: void): boolean {
         return settings.reSummonAfterVendors
       },
@@ -164,12 +159,12 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "header",
-      name: GetString(FCOCO_LAM_SETTING_HEADER_FISHING),
+      name: GetString(COMPANION_QOL_LAM_SETTING_HEADER_FISHING),
     },
     {
       type: "checkbox",
-      name: GetString(FCOCO_LAM_SETTING_UNSUMMON_AT_FISHING),
-      tooltip: GetString(FCOCO_LAM_SETTING_UNSUMMON_AT_FISHING_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_FISHING),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_FISHING_TT),
       getFunc: function (this: void): boolean {
         return settings.unSummonAtFishing
       },
@@ -182,8 +177,8 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "checkbox",
-      name: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_FISHING),
-      tooltip: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_FISHING_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_FISHING),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_FISHING_TT),
       getFunc: function (this: void): boolean {
         return settings.reSummonAfterFishing
       },
@@ -199,8 +194,8 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "slider",
-      name: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_FISHING_DELAY),
-      tooltip: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_FISHING_DELAY_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_FISHING_DELAY),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_FISHING_DELAY_TT),
       getFunc: function (this: void): number {
         return settings.reSummonAfterFishingDelay
       },
@@ -219,12 +214,12 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "header",
-      name: GetString(FCOCO_LAM_SETTING_HEADER_CROUCH),
+      name: GetString(COMPANION_QOL_LAM_SETTING_HEADER_CROUCH),
     },
     {
       type: "checkbox",
-      name: GetString(FCOCO_LAM_SETTING_UNSUMMON_AT_CROUCHING),
-      tooltip: GetString(FCOCO_LAM_SETTING_UNSUMMON_AT_CROUCHING_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CROUCHING),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CROUCHING_TT),
       getFunc: function (this: void): boolean {
         return settings.unSummonAtCrouching
       },
@@ -237,8 +232,8 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "checkbox",
-      name: GetString(FCOCO_LAM_SETTING_UNSUMMON_AT_CROUCHING_NO_COMBAT),
-      tooltip: GetString(FCOCO_LAM_SETTING_UNSUMMON_AT_CROUCHING_NO_COMBAT_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CROUCHING_NO_COMBAT),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CROUCHING_NO_COMBAT_TT),
       getFunc: function (this: void): boolean {
         return settings.unSummonAtCrouchingNoCombat
       },
@@ -254,8 +249,8 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "checkbox",
-      name: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_CROUCHING),
-      tooltip: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_CROUCHING_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CROUCHING),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CROUCHING_TT),
       getFunc: function (this: void): boolean {
         return settings.reSummonAfterCrouching
       },
@@ -271,8 +266,8 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "slider",
-      name: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_CROUCHING_DELAY),
-      tooltip: GetString(FCOCO_LAM_SETTING_RESUMMON_AFTER_CROUCHING_DELAY_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CROUCHING_DELAY),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CROUCHING_DELAY_TT),
       getFunc: function (this: void): number {
         return settings.reSummonAfterCrouchingDelay
       },
@@ -291,18 +286,18 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "header",
-      name: GetString(FCOCO_LAM_SETTING_HEADER_COMPASS),
+      name: GetString(COMPANION_QOL_LAM_SETTING_HEADER_COMPASS),
     },
     {
       type: "checkbox",
-      name: GetString(FCOCO_LAM_SETTING_DISABLE_PIN_AT_COMPASS),
-      tooltip: GetString(FCOCO_LAM_SETTING_DISABLE_PIN_AT_COMPASS_TT),
+      name: GetString(COMPANION_QOL_LAM_SETTING_DISABLE_PIN_AT_COMPASS),
+      tooltip: GetString(COMPANION_QOL_LAM_SETTING_DISABLE_PIN_AT_COMPASS_TT),
       getFunc: function (this: void): boolean {
         return settings.disableCompanionAtCompass
       },
       setFunc: function (this: void, value: boolean): undefined {
         settings.disableCompanionAtCompass = value
-        FCOCO.UpdateCompass()
+        COMPANION_QOL.UpdateCompass()
         return undefined
       },
       default: defaults.disableCompanionAtCompass,
@@ -310,6 +305,11 @@ FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
     },
   ]
 
-  FCOCO.FCOSettingsPanel = registerPanel(LibAddonMenu2, `${addonName}_LAM`, panelData, optionsTable)
+  COMPANION_QOL.settingsPanel = registerPanel(
+    LibAddonMenu2,
+    `${addonName}_LAM`,
+    panelData,
+    optionsTable
+  )
   return undefined
 }

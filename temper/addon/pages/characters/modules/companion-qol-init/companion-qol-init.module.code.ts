@@ -33,15 +33,15 @@ import "akasha/temper/addon/pages/characters/modules/companion-qol-interaction-h
 import "akasha/temper/addon/pages/characters/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"
 
 import { registerBindingStringIds } from "akasha/temper/addon/pages/characters/modules/companion-qol-bindings/companion-qol-bindings.module.code.ts"
-import { FCOCO } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
+import { COMPANION_QOL } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
 import { registerUiStrings } from "akasha/temper/addon/pages/characters/modules/companion-qol-ui-strings/companion-qol-ui-strings.module.code.ts"
 
 registerUiStrings()
 registerBindingStringIds()
 
-export function initializeFcoCompanion(): undefined {
-  if (FCOCO.isCompanionUnlocked) {
-    FCOCO.addonLoaded(FCOCO.addonVars.addonName, FCOCO.addonVars.addonName)
+export function initializeCompanionQol(): undefined {
+  if (COMPANION_QOL.isCompanionUnlocked) {
+    COMPANION_QOL.addonLoaded()
   }
   return undefined
 }

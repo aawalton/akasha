@@ -4,7 +4,7 @@ import type {
   SettingsVars,
 } from "akasha/temper/addon/pages/characters/modules/companion-qol-types/companion-qol-types.module.code.ts"
 
-export interface FCOCO {
+export interface CompanionQol {
   addonVars: AddonVars
 
   LAM: unknown
@@ -16,7 +16,7 @@ export interface FCOCO {
 
   settingsVars: SettingsVars
 
-  FCOSettingsPanel: unknown
+  settingsPanel: unknown
 
   ToggleCompanion: (
     this: void,
@@ -43,21 +43,20 @@ export interface FCOCO {
   BankInteractEnd: (this: void, eventId: number) => void
   VendorInteract: (this: void, eventId: number, allowSell?: boolean, allowLaunder?: boolean) => void
   VendorInteractEnd: (this: void, eventId: number) => void
-  addonLoaded: (this: void, eventName: string, addon: string) => void
-  initialize: (this: void) => void
+  addonLoaded: (this: void) => void
 
   buildAddonMenu: (this: void) => boolean | undefined
 }
 
-function asFCOCO(value: unknown): FCOCO {
-  return value as FCOCO
+function asCompanionQol(value: unknown): CompanionQol {
+  return value as CompanionQol
 }
 
 function asSettingsVars(value: unknown): SettingsVars {
   return value as SettingsVars
 }
 
-export const FCOCO: FCOCO = asFCOCO({
+export const COMPANION_QOL: CompanionQol = asCompanionQol({
   isCompanionUnlocked: false,
   playerActivatedDone: false,
   companionInfo: {},

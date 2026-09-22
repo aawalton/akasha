@@ -11,7 +11,7 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { asNumber } from "akasha/temper/addon/pages/characters/modules/companion-qol-casts/companion-qol-casts.module.code.ts"
-import { FCOCO } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
+import { COMPANION_QOL } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 export const INTERACTIONS: {
@@ -88,7 +88,7 @@ export function onStartInteraction(this: void): undefined {
     }
 
     INTERACTIONS.wasFishing = true
-    const settings = FCOCO.settingsVars.settings
+    const settings = COMPANION_QOL.settingsVars.settings
     if (!settings.unSummonAtFishing) {
       INTERACTIONS.lastCompanionIdBeforeFish = undefined
       return undefined
@@ -99,15 +99,15 @@ export function onStartInteraction(this: void): undefined {
       if (isActive) {
         INTERACTIONS.companionWasSummonedBefore = true
         INTERACTIONS.lastCompanionIdBeforeFish = INTERACTIONS.actualCompanionDefId
-        FCOCO.ToggleCompanion(INTERACTIONS.lastCompanionIdBeforeFish, false, true)
+        COMPANION_QOL.ToggleCompanion(INTERACTIONS.lastCompanionIdBeforeFish, false, true)
       } else if (isPending) {
         INTERACTIONS.companionWasSummonedBefore = true
         EVENT_MANAGER.RegisterForEvent(
-          `${FCOCO.addonVars.addonName}_Fish`,
+          `${COMPANION_QOL.addonVars.addonName}_Fish`,
           EVENT_COMPANION_ACTIVATED,
           function (this: void): undefined {
             EVENT_MANAGER.UnregisterForEvent(
-              `${FCOCO.addonVars.addonName}_Fish`,
+              `${COMPANION_QOL.addonVars.addonName}_Fish`,
               EVENT_COMPANION_ACTIVATED
             )
             if (!isFishing()) {
@@ -115,7 +115,7 @@ export function onStartInteraction(this: void): undefined {
               return undefined
             }
             INTERACTIONS.lastCompanionIdBeforeFish = INTERACTIONS.actualCompanionDefId
-            FCOCO.ToggleCompanion(INTERACTIONS.lastCompanionIdBeforeFish, false, true)
+            COMPANION_QOL.ToggleCompanion(INTERACTIONS.lastCompanionIdBeforeFish, false, true)
             return undefined
           }
         )
@@ -127,7 +127,7 @@ export function onStartInteraction(this: void): undefined {
 }
 
 function setupFishEndTimerCallback(this: void): undefined {
-  const eventUpdateNameFish = `${FCOCO.addonVars.addonName}_FishingReSummon`
+  const eventUpdateNameFish = `${COMPANION_QOL.addonVars.addonName}_FishingReSummon`
   EVENT_MANAGER.UnregisterForUpdate(eventUpdateNameFish)
 
   if (
@@ -136,7 +136,7 @@ function setupFishEndTimerCallback(this: void): undefined {
   ) {
     return undefined
   }
-  const settings = FCOCO.settingsVars.settings
+  const settings = COMPANION_QOL.settingsVars.settings
   if (!settings.reSummonAfterFishing) {
     return undefined
   }
@@ -149,7 +149,7 @@ function setupFishEndTimerCallback(this: void): undefined {
       return undefined
     }
 
-    FCOCO.ToggleCompanion(INTERACTIONS.lastCompanionIdBeforeFish, true, true)
+    COMPANION_QOL.ToggleCompanion(INTERACTIONS.lastCompanionIdBeforeFish, true, true)
     INTERACTIONS.lastCompanionIdBeforeFish = undefined
     INTERACTIONS.companionWasSummonedBefore = false
     return undefined
@@ -180,7 +180,7 @@ export function onEventInteractionEnded(
   }
   INTERACTIONS.wasFishing = false
 
-  const settings = FCOCO.settingsVars.settings
+  const settings = COMPANION_QOL.settingsVars.settings
   if (!settings.unSummonAtFishing || !settings.reSummonAfterFishing) {
     INTERACTIONS.lastCompanionIdBeforeFish = undefined
     return undefined
@@ -206,7 +206,7 @@ function isCrouching(this: void): boolean {
 }
 
 function setupCrouchEndTimerCallback(this: void): undefined {
-  const eventUpdateNameCrouch = `${FCOCO.addonVars.addonName}_CrouchingReSummon`
+  const eventUpdateNameCrouch = `${COMPANION_QOL.addonVars.addonName}_CrouchingReSummon`
   EVENT_MANAGER.UnregisterForUpdate(eventUpdateNameCrouch)
 
   if (
@@ -215,7 +215,7 @@ function setupCrouchEndTimerCallback(this: void): undefined {
   ) {
     return undefined
   }
-  const settings = FCOCO.settingsVars.settings
+  const settings = COMPANION_QOL.settingsVars.settings
   if (!settings.reSummonAfterCrouching) {
     return undefined
   }
@@ -228,7 +228,7 @@ function setupCrouchEndTimerCallback(this: void): undefined {
       return undefined
     }
 
-    FCOCO.ToggleCompanion(INTERACTIONS.lastCompanionIdBeforeCrouch, true, true)
+    COMPANION_QOL.ToggleCompanion(INTERACTIONS.lastCompanionIdBeforeCrouch, true, true)
     INTERACTIONS.lastCompanionIdBeforeCrouch = undefined
     INTERACTIONS.companionWasSummonedBefore = false
     return undefined
@@ -247,7 +247,7 @@ function setupCrouchEndTimerCallback(this: void): undefined {
 function onCrouchingStart(this: void): undefined {
   const isInCombat = IsUnitInCombat("player")
 
-  const settings = FCOCO.settingsVars.settings
+  const settings = COMPANION_QOL.settingsVars.settings
   if (!settings.unSummonAtCrouching) {
     INTERACTIONS.lastCompanionIdBeforeCrouch = undefined
     return undefined
@@ -262,15 +262,15 @@ function onCrouchingStart(this: void): undefined {
     if (isActive) {
       INTERACTIONS.companionWasSummonedBefore = true
       INTERACTIONS.lastCompanionIdBeforeCrouch = INTERACTIONS.actualCompanionDefId
-      FCOCO.ToggleCompanion(INTERACTIONS.lastCompanionIdBeforeCrouch, false, true)
+      COMPANION_QOL.ToggleCompanion(INTERACTIONS.lastCompanionIdBeforeCrouch, false, true)
     } else if (isPending) {
       INTERACTIONS.companionWasSummonedBefore = true
       EVENT_MANAGER.RegisterForEvent(
-        `${FCOCO.addonVars.addonName}_Crouch`,
+        `${COMPANION_QOL.addonVars.addonName}_Crouch`,
         EVENT_COMPANION_ACTIVATED,
         function (this: void): undefined {
           EVENT_MANAGER.UnregisterForEvent(
-            `${FCOCO.addonVars.addonName}_Crouch`,
+            `${COMPANION_QOL.addonVars.addonName}_Crouch`,
             EVENT_COMPANION_ACTIVATED
           )
           if (!isCrouching()) {
@@ -278,7 +278,7 @@ function onCrouchingStart(this: void): undefined {
             return undefined
           }
           INTERACTIONS.lastCompanionIdBeforeCrouch = INTERACTIONS.actualCompanionDefId
-          FCOCO.ToggleCompanion(INTERACTIONS.lastCompanionIdBeforeCrouch, false, true)
+          COMPANION_QOL.ToggleCompanion(INTERACTIONS.lastCompanionIdBeforeCrouch, false, true)
           return undefined
         }
       )
@@ -288,7 +288,7 @@ function onCrouchingStart(this: void): undefined {
 }
 
 function onCrouchingEnded(this: void): undefined {
-  const settings = FCOCO.settingsVars.settings
+  const settings = COMPANION_QOL.settingsVars.settings
   if (!settings.unSummonAtCrouching || !settings.reSummonAfterCrouching) {
     INTERACTIONS.lastCompanionIdBeforeCrouch = undefined
     return undefined

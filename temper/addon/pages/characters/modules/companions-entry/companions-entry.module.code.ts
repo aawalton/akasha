@@ -28,7 +28,7 @@ import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { registerExternalTab } from "akasha/temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
 import { hideWindow } from "akasha/temper/addon/pages/characters/modules/characters-window/characters-window.module.code.ts"
-import { initializeFcoCompanion } from "akasha/temper/addon/pages/characters/modules/companion-qol-init/companion-qol-init.module.code.ts"
+import { initializeCompanionQol } from "akasha/temper/addon/pages/characters/modules/companion-qol-init/companion-qol-init.module.code.ts"
 import { refreshAllCompanionData } from "akasha/temper/addon/pages/characters/modules/companions-command/companions-command.module.code.ts"
 import { createCompanionEquipmentPanel } from "akasha/temper/addon/pages/characters/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts"
 import { refreshCompanionEquipmentPanel } from "akasha/temper/addon/pages/characters/modules/companions-equipment-refresh/companions-equipment-refresh.module.code.ts"
@@ -116,5 +116,5 @@ export function initializeCompanions(): undefined {
 
   registerCompanionEvents()
 
-  initializeFcoCompanion()
+  initializeCompanionQol()
 }

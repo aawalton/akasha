@@ -17,9 +17,9 @@ afterAll(SCRATCH.sweep)
 
 type Stating = { readonly root: string; readonly dir: string }
 
-const ADDON_LEAF = "temper-addon-companions"
+const ADDON_LEAF = "temper-addon-events"
 
-const ADDON_DIR = "akasha/temper/addon/pages/companions"
+const ADDON_DIR = "akasha/temper/addon/pages/events"
 
 const ADDON_PAGE = `${ADDON_DIR}/${ADDON_LEAF}.temper-addon.ts`
 
@@ -100,9 +100,9 @@ test("a page stating no name is loaded by none", () => {
 
 test("a manifest name with a file beside the page takes that file", () => {
   const { root, dir } = addonPageFiled({})
-  writeFileSync(join(dir, "TemperCompanionsConfig.lua"), "TemperCompanionsConfig = nil\n")
-  const found = namedFilePathsIn(root, dir, ["TemperCompanionsConfig.lua"])
-  expect(found.get("TemperCompanionsConfig.lua")).toBe(join(dir, "TemperCompanionsConfig.lua"))
+  writeFileSync(join(dir, "TemperEventsConfig.lua"), "TemperEventsConfig = nil\n")
+  const found = namedFilePathsIn(root, dir, ["TemperEventsConfig.lua"])
+  expect(found.get("TemperEventsConfig.lua")).toBe(join(dir, "TemperEventsConfig.lua"))
 })
 
 test("a manifest name with a file under metadata takes that file", () => {
@@ -115,17 +115,11 @@ test("a manifest name with a file under metadata takes that file", () => {
 
 test("a manifest name reaching no file there reaches the page loaded by that name", () => {
   const { root, dir } = addonPageFiled({})
-  const under = documentUnder(
-    root,
-    dir,
-    "companions-config",
-    "lua-module",
-    "TemperCompanionsConfig.lua"
-  )
-  const lua = join(under, "companions-config.lua-module.lua.lua")
-  writeFileSync(lua, "TemperCompanionsConfig = nil\n")
-  const found = namedFilePathsIn(root, dir, ["TemperCompanionsConfig.lua"])
-  expect(found.get("TemperCompanionsConfig.lua")).toBe(lua)
+  const under = documentUnder(root, dir, "events-config", "lua-module", "TemperEventsConfig.lua")
+  const lua = join(under, "events-config.lua-module.lua.lua")
+  writeFileSync(lua, "TemperEventsConfig = nil\n")
+  const found = namedFilePathsIn(root, dir, ["TemperEventsConfig.lua"])
+  expect(found.get("TemperEventsConfig.lua")).toBe(lua)
 })
 
 test("markup and Lua are reached by one rule rather than by a rule each", () => {
@@ -140,14 +134,8 @@ test("markup and Lua are reached by one rule rather than by a rule each", () => 
 
 test("a manifest name no page is loaded by refuses the call", () => {
   const { root, dir } = addonPageFiled({})
-  const under = documentUnder(
-    root,
-    dir,
-    "companions-config",
-    "lua-module",
-    "TemperCompanionsConfig.lua"
-  )
-  writeFileSync(join(under, "companions-config.lua-module.lua.lua"), "\n")
+  const under = documentUnder(root, dir, "events-config", "lua-module", "TemperEventsConfig.lua")
+  writeFileSync(join(under, "events-config.lua-module.lua.lua"), "\n")
   expect(() => namedFilePathsIn(root, dir, ["One.lua"])).toThrow("One.lua")
 })
 

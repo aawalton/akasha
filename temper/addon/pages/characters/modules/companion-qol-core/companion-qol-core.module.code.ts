@@ -3,7 +3,7 @@ import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
-import { FCOCO } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
+import { COMPANION_QOL } from "akasha/temper/addon/pages/characters/modules/companion-qol-state/companion-qol-state.module.code.ts"
 
 function checkCollectibleId(this: void, collectibleId: number): boolean {
   const isCollectibleBlocked =
@@ -14,7 +14,7 @@ function checkCollectibleId(this: void, collectibleId: number): boolean {
   return !isCollectibleBlocked && isCollectibleActive
 }
 
-FCOCO.ToggleCompanion = function (
+COMPANION_QOL.ToggleCompanion = function (
   this: void,
   companionIdToShow?: number,
   doShow?: boolean,
@@ -24,10 +24,10 @@ FCOCO.ToggleCompanion = function (
   let companionCollectibleId: number | undefined
   let doSummonOtherCompanion = false
   let doUseNow = false
-  const companionInfo = FCOCO.companionInfo
+  const companionInfo = COMPANION_QOL.companionInfo
   const onlyIfKnown = onlyIfLastCompanionWasKnown === true
 
-  let lastCompanionDefId = FCOCO.settingsVars.settings.lastCompanionId
+  let lastCompanionDefId = COMPANION_QOL.settingsVars.settings.lastCompanionId
   if (lastCompanionDefId === undefined) {
     if (onlyIfKnown) {
       return undefined
