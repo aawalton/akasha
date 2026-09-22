@@ -42,8 +42,6 @@ import { useMemo } from "react"
 
 const BRAND = "INNWORLD"
 
-const AUTHOR = "https://wanderinginn.com"
-
 const HOME: AppNavItem = { id: "home", label: "Home", shortLabel: "Home", href: "/", icon: Home }
 
 type PlannedType = { readonly slug: string; readonly icon: LucideIcon; readonly label?: string }
@@ -140,18 +138,6 @@ export function navItemsOf(shownTypes: readonly ShownType[]): readonly AppNavIte
   return items
 }
 
-function Credit() {
-  return (
-    <p className="mx-auto max-w-5xl p-4 text-secondary text-sm">
-      Innworld is a fan wiki. The Wandering Inn, its characters and its world belong to{" "}
-      <a className="underline" href={AUTHOR}>
-        pirateaba
-      </a>
-      .
-    </p>
-  )
-}
-
 export function AppShell({
   shownTypes,
   children,
@@ -172,10 +158,7 @@ export function AppShell({
   return (
     <LayoutRouterAdapter>
       <PagesUIRouterAdapter>
-        <SharedAppShell config={config}>
-          {children}
-          <Credit />
-        </SharedAppShell>
+        <SharedAppShell config={config}>{children}</SharedAppShell>
       </PagesUIRouterAdapter>
     </LayoutRouterAdapter>
   )

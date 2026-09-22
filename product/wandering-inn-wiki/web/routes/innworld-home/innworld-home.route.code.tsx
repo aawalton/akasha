@@ -7,6 +7,8 @@ import { Link, useRouteLoaderData } from "react-router"
 
 const FRAME = "routes/_app-layout"
 
+const AUTHOR = "https://wanderinginn.com"
+
 const NONE: readonly ShownType[] = []
 
 export function meta() {
@@ -22,7 +24,13 @@ export default function InnworldHome() {
         <PageTitle>Innworld</PageTitle>
       </PageLayout.Header>
       <PageLayout.Content>
-        <p className="text-secondary">A wiki of The Wandering Inn.</p>
+        <p className="text-secondary">
+          A fan wiki of The Wandering Inn, whose characters and world belong to{" "}
+          <a className="underline" href={AUTHOR}>
+            pirateaba
+          </a>
+          .
+        </p>
         <ul className="mt-6 space-y-2">
           {shownTypes.map((one) => (
             <li key={one.slug}>

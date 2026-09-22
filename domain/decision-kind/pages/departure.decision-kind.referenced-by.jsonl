@@ -3367,6 +3367,7 @@
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-reader/innworld-reader.module.ts","id":"01a0c5fb-f556-72d8-af41-7464e370af1a"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.ts","id":"01a0c61a-8975-7295-9bd9-dd7c9e8d99c7"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-visitor/innworld-visitor.module.ts","id":"01a0c66a-55f9-793b-99d9-b3d8617e6db8"}
+{"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/routes/innworld-home/innworld-home.route.ts","id":"01a0c5e6-86e5-7522-b845-c975565ebb58"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/routes/innworld-page-listing/innworld-page-listing.route.ts","id":"01a0c5fc-31a5-75df-9ea9-6a8ef459b23f"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/wandering-inn-wiki-web.router-app.ts","id":"01a0c5eb-fefb-782b-b6d3-6a775c512d24"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/beat-schema/beat-schema.module.ts","id":"01a05b71-e543-7506-a57c-cc05b4aa56aa"}

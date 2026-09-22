@@ -19,10 +19,7 @@ export const innworldAppShell = {
       decisionKind: "decision-kind/absence",
       statement: "No nav page is read, since the reader of this site reaches none.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The credit to the author of the work sits under every page.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A page type the sidebar names wears an icon, since none states one.",

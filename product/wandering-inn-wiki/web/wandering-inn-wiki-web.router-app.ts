@@ -45,7 +45,7 @@ export const wanderingInnWikiWeb = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every page this site serves credits the author of the work the wiki is about.",
+      statement: "The front page credits the author of the work the wiki is about.",
     },
     {
       decisionKind: "decision-kind/departure",
