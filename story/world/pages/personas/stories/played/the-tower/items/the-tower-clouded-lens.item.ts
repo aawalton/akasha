@@ -7,4 +7,5 @@ export const theTowerCloudedLens = {
   title: "Clouded lens",
   story: "story-played/the-tower",
   character: "character-player/the-tower-alan",
+  description: "A palm-sized glass lens gone the grey-white of a blind eye, and colder than stone.",
 } as const satisfies Item

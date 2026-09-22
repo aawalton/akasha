@@ -7,4 +7,6 @@ export const theTowerWovenLightMantle = {
   title: "Woven-light mantle",
   story: "story-played/the-tower",
   character: "character-player/the-tower-alan",
+  description:
+    "A mantle of woven brightness gone slack and grey, shed in one piece and weightless.",
 } as const satisfies Item
