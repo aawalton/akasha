@@ -100,11 +100,13 @@ else
   echo "WARN: podman not found — gen-types (migration run) will fail without a container runtime." >&2
 fi
 
-echo "==> Installing the vendored upstream TamrielTradeCentre addon (ESOUI, via akasha temper community addon-install)..."
+echo "==> Installing the vendored upstream community addons (ESOUI, via akasha temper community addon-install)..."
 if [ "$(uname)" != "Darwin" ]; then
-  if ! (cd "$AKASHA" && bun "$DISPATCHER" temper community addon-install TamrielTradeCentre); then
-    echo "WARN: TamrielTradeCentre install via akasha temper community addon-install failed — continuing." >&2
-  fi
+  for community_addon in TamrielTradeCentre LibAddonMenu-2.0 LibCustomMenu; do
+    if ! (cd "$AKASHA" && bun "$DISPATCHER" temper community addon-install "$community_addon"); then
+      echo "WARN: $community_addon install via akasha temper community addon-install failed — continuing." >&2
+    fi
+  done
 fi
 
 

@@ -258,36 +258,41 @@ export async function monarchQuery(
   queryText: string,
   variables: Record<string, unknown>
 ): Promise<Record<string, unknown>> {
-  const controller = new AbortController()
-  const timer = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS)
   const asked = async (): Promise<Response> =>
     await fetch(API_URL, {
       method: "POST",
       headers: { "Content-Type": "application/json", ...auth },
       body: JSON.stringify({ operationName, query: queryText, variables }),
-      signal: controller.signal,
+      signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
     })
-  try {
-    let response = await asked()
-    for (let tries = 1; tries < ASK_AGAIN_TIMES && response.status >= ITS_OWN_FAULT; tries += 1) {
-      await waited(ASK_AGAIN_AFTER_MS * tries)
+
+  let response: Response | null = null
+  let thrown: unknown = null
+  for (let tries = 0; tries < ASK_AGAIN_TIMES; tries += 1) {
+    if (tries > 0) await waited(ASK_AGAIN_AFTER_MS * tries)
+    try {
       response = await asked()
+      thrown = null
+      if (response.status < ITS_OWN_FAULT) break
+    } catch (caught) {
+      response = null
+      thrown = caught
     }
-    if (!response.ok) {
-      throw new Error(`Monarch API ${response.status}: ${response.statusText}`)
-    }
-    const envelope = object(await response.json(), operationName)
-    const errors = envelope.errors
-    if (Array.isArray(errors) && errors.length > 0) {
-      const messages = errors
-        .map((e, i) => str(object(e, `${operationName}.errors[${i}]`).message, "message"))
-        .join("; ")
-      throw new Error(`Monarch GraphQL error: ${messages}`)
-    }
-    return object(envelope.data, `${operationName}.data`)
-  } finally {
-    clearTimeout(timer)
   }
+  if (response === null) throw thrown
+
+  if (!response.ok) {
+    throw new Error(`Monarch API ${response.status}: ${response.statusText}`)
+  }
+  const envelope = object(await response.json(), operationName)
+  const errors = envelope.errors
+  if (Array.isArray(errors) && errors.length > 0) {
+    const messages = errors
+      .map((e, i) => str(object(e, `${operationName}.errors[${i}]`).message, "message"))
+      .join("; ")
+    throw new Error(`Monarch GraphQL error: ${messages}`)
+  }
+  return object(envelope.data, `${operationName}.data`)
 }
 
 export function monarchClient(auth: Readonly<Record<string, string>>): MonarchClient {

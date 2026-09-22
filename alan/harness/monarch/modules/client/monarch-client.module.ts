@@ -28,7 +28,15 @@ export const monarchClient = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The thirty seconds cover every try rather than each try on its own.",
+      statement: "A request that never answers is asked again on those same terms.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each try has thirty seconds of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What the last try threw is what a caller is handed.",
     },
     {
       decisionKind: "decision-kind/departure",
