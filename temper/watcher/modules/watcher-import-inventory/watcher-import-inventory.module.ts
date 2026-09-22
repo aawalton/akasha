@@ -4,7 +4,7 @@ export const watcherImportInventory = {
   id: "01a06381-35cf-784c-a7fd-ba657830b922",
   type: "page-type/module",
   slug: "watcher-import-inventory",
-  definition: "one inventory scan read, valued, and filed as a net worth reading on its hour page",
+  definition: "an inventory scan read, valued, and filed as a net worth reading on its hour page",
   code: "ts",
   test: "ts",
   decisions: [

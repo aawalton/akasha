@@ -4,7 +4,7 @@ export const temperRotationBreakdownRow = {
   id: "01a05fc9-9a03-795c-b95b-c04997733011",
   type: "page-type/page-type",
   slug: "temper-rotation-breakdown-row",
-  definition: "one figure a rotation is broken down into",
+  definition: "a figure a rotation is broken down into",
   extends: ["page-type/temper-progress-thing"],
   parts: ["text-property/full-name"],
   properties: [

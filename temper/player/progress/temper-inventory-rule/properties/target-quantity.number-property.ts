@@ -5,7 +5,7 @@ export const targetQuantity = {
   type: "page-type/number-property",
   slug: "target-quantity",
   propertySlug: "target-quantity",
-  definition: "how many of an item one leg of a destination chain takes",
+  definition: "how many of an item a leg of a destination chain takes",
   max: null,
   decisions: [
     {

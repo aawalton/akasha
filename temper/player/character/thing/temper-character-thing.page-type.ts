@@ -4,7 +4,7 @@ export const temperCharacterThing = {
   id: "01a05fc7-2438-772b-b909-71a3ac0f3bc7",
   type: "page-type/page-type",
   slug: "temper-character-thing",
-  definition: "anything about one player and the characters that player owns",
+  definition: "anything about a player and the characters that player owns",
   extends: ["page-type/temper-thing"],
   parts: ["file-property/completion", "text-property/target-build-id"],
   properties: [

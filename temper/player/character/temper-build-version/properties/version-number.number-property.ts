@@ -5,7 +5,7 @@ export const versionNumber = {
   type: "page-type/number-property",
   slug: "version-number",
   propertySlug: "version-number",
-  definition: "where a version falls in the run of versions of one build",
+  definition: "where a version falls in the run of versions of a build",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

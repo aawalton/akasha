@@ -5,7 +5,7 @@ export const saleId = {
   type: "page-type/text-property",
   slug: "sale-id",
   propertySlug: "sale-id",
-  definition: "what the game calls one sale",
+  definition: "what the game calls a sale",
   maxLength: 200,
   nameFormat: null,
   decisions: [

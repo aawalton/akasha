@@ -4,6 +4,6 @@ export const extractWeapons = {
   id: "01a06271-abcf-7408-81ef-b5cd9c05faac",
   type: "page-type/module",
   slug: "extract-weapons",
-  definition: "the weapons on one bar of a build, read out as effect sources",
+  definition: "the weapons on a bar of a build, read out as effect sources",
   code: "ts",
 } as const satisfies Module

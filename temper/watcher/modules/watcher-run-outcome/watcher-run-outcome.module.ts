@@ -4,7 +4,7 @@ export const watcherRunOutcome = {
   id: "01a0633f-8d1d-7d93-a711-1559acdac009",
   type: "page-type/module",
   slug: "watcher-run-outcome",
-  definition: "what one run of the watcher did to each file it carried across",
+  definition: "what a run of the watcher did to each file it carried across",
   code: "ts",
   test: "ts",
   decisions: [
