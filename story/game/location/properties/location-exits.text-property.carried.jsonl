@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/gap","statement":"A way out names the place it reaches rather than describing it."}]}
-{"definition":"a way out of a place, and what it takes to use that way"}
-{"id":"01a0c644-3a81-7877-8cff-40282ead975d"}
-{"maxLength":300}
-{"nameFormat":null}
-{"propertySlug":"exits"}
-{"slug":"location-exits"}
-{"type":"page-type/text-property"}
-{"types":"ts"}

@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The numbers a turn settles come from the mechanic the game names."},{"decisionKind":"decision-kind/departure","statement":"A seed is settled from the row before, before the roll is asked for."},{"decisionKind":"decision-kind/departure","statement":"Where no row comes before, the game's own name seeds the roll."},{"decisionKind":"decision-kind/departure","statement":"The dice a mechanic reads are rolled here rather than handed in."},{"decisionKind":"decision-kind/departure","statement":"The bonuses a run counts are handed in beside the reading rather than inside it."},{"decisionKind":"decision-kind/departure","statement":"A row holds the reading the mechanic saw, dice and bonuses and all."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a row or names a mechanic."}]}
-{"definition":"rolling the dice a mechanic needs and running that mechanic over one turn"}
-{"id":"01a0c5fc-ff8d-7b07-aea9-4e0a5e9edb7c"}
-{"slug":"mechanic-settling"}
-{"test":"ts"}
-{"type":"page-type/module"}

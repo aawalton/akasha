@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page named by id is read by id, and one named by address by slug within its page type."},{"decisionKind":"decision-kind/departure","statement":"The pages read are the store's, so a page type the store has not acquired answers none."}]}
-{"definition":"the pipeline answering with the pages a set of relations name"}
-{"id":"01a0c5fc-c478-7997-a120-966993c5a392"}
-{"slug":"related-pipeline"}
-{"type":"page-type/module"}

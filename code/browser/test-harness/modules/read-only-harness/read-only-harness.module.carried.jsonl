@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/absence","statement":"Nothing here signs anybody in."}]}
-{"definition":"a browser session opened as nobody, and so one that only ever reads"}
-{"id":"01a05ca9-d803-7362-b933-e54ad04b2b64"}
-{"slug":"read-only-harness"}
-{"type":"page-type/module"}

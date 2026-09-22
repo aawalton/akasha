@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An ingest is admitted on atlas's own handover cookie and on nothing else."},{"decisionKind":"decision-kind/absence","statement":"No bearer token admits an ingest."}]}
-{"definition":"whether a location ingest carries a reader atlas knows"}
-{"id":"01a06582-6b30-7b6f-93b3-2403a3c2ade4"}
-{"slug":"location-ingest-context"}
-{"type":"page-type/module"}

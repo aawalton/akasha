@@ -1,5 +1,0 @@
-{"definition":"the game's own types, paths and saved files, as temper reaches them"}
-{"id":"01a0c44d-ad2e-7031-b95e-3f34c92163ec"}
-{"parts":["domain/temper-eso-path","domain/temper-eso-declaration","domain/temper-lua-runner","domain/temper-saved-variable","domain/temper-eso-type"]}
-{"slug":"temper-eso"}
-{"type":"page-type/domain"}

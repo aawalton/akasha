@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An account is opened by signing in, so this route sends a reader there."}]}
-{"definition":"the old way in, kept so an old link still reaches the new one"}
-{"id":"01a08307-1eb0-71af-b03b-9e4a212055e7"}
-{"slug":"sign-up"}
-{"type":"page-type/route"}
-{"urlPath":"sign-up"}

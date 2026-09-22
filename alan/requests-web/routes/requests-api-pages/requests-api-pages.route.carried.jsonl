@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"definition":"the pages of one type a browser asks for"}
-{"id":"01a0c537-bb6f-70ef-a83a-6d6b6173ce03"}
-{"slug":"requests-api-pages"}
-{"type":"page-type/route"}
-{"urlPath":"api/pages/:pageTypeSlug"}

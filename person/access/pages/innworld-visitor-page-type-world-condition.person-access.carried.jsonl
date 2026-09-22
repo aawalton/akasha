@@ -1,8 +1,0 @@
-{"accessKind":"access-kind/page-type"}
-{"deed":["access-deed/read-some"]}
-{"id":"01a0c5f7-9ba5-7051-a2c8-0a565510055e"}
-{"narrow":{"key":"world","is":"world/the-wandering-inn"}}
-{"person":"person/innworld-visitor"}
-{"slug":"innworld-visitor-page-type-world-condition"}
-{"target":"world-condition"}
-{"type":"page-type/person-access"}

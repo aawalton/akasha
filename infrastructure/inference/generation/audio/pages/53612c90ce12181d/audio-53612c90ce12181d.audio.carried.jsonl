@@ -1,9 +1,0 @@
-{"id":"01a0c64c-1444-79ea-af83-c770d3b61769"}
-{"instruct":"A young woman's voice, low-medium pitch with a soft husky edge, animated and quick but grounded; bookish warmth, confident and playful; excitement carried in rhythm and breath rather than height of pitch."}
-{"model":"mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16"}
-{"operation":"voice-design"}
-{"service":"qwen3-tts"}
-{"slug":"audio-53612c90ce12181d"}
-{"text":"Oh! Oh, you have to see this — I found it on the third shelf, exactly where it wanted to be. Take it, it's yours to borrow — just remember to bring it back!"}
-{"title":"qwen3-tts voice-design @ 2026-07-03T13:23:54.900Z"}
-{"type":"page-type/audio"}

@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The key is the one a page spells rather than the one its property declares."}]}
-{"definition":"the key an access weighs a page by"}
-{"id":"01a0c521-66bd-7307-a70c-179ad63c3b98"}
-{"maxLength":100}
-{"nameFormat":"name-format/lower-camel-case"}
-{"propertySlug":"key"}
-{"slug":"access-narrow-key"}
-{"type":"page-type/text-property"}
-{"types":"ts"}

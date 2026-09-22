@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A class is written as its game writes it rather than as a slug is written."},{"decisionKind":"decision-kind/departure","statement":"An entity with no class in its game says none rather than saying `None`."}]}
-{"definition":"what this one is called in the game's own rules, as its sheet shows it"}
-{"id":"01a0c633-c2ca-709c-8d60-e4931291457c"}
-{"maxLength":60}
-{"nameFormat":null}
-{"propertySlug":"class"}
-{"slug":"entity-class"}
-{"type":"page-type/text-property"}
-{"types":"ts"}

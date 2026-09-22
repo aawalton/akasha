@@ -1,7 +1,0 @@
-{"definition":"what moves a trim and where that trim takes its energy from"}
-{"id":"01a0c542-b787-76b5-a6b3-b868475dfdca"}
-{"propertySlug":"powertrain-type"}
-{"slug":"powertrain-type"}
-{"type":"page-type/select-property"}
-{"types":"ts"}
-{"values":["BEV","PHEV","HEV","MHEV"]}

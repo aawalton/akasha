@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A game names a mechanic rather than a mechanic naming the games it is played in."},{"decisionKind":"decision-kind/departure","statement":"Two games name the same mechanic."}]}
-{"definition":"the mechanics a game is played by"}
-{"id":"01a0c458-8d2c-7f1e-9a41-8200c8c04433"}
-{"propertySlug":"mechanics"}
-{"slug":"game-mechanics"}
-{"targetPageType":"page-type/game-mechanic"}
-{"type":"page-type/relation-property"}
-{"types":"ts"}

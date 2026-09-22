@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A construction names the same thing twice where its phrase is written twice."},{"decisionKind":"decision-kind/departure","statement":"A construction naming its own phrase kind writes a phrase of any length."}]}
-{"definition":"one thing a construction writes its phrase from, in the order written"}
-{"id":"01a0c57a-e7ac-7d09-ad25-98343aab07cf"}
-{"members":["relation-property/part-of-speech","relation-property/phrase-kind"]}
-{"propertySlug":"written-from"}
-{"slug":"written-from"}
-{"type":"page-type/one-of-property"}
-{"types":"ts"}

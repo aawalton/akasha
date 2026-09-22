@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An encounter leaving nothing says nothing here."}]}
-{"definition":"what an encounter leaves behind for the player to take"}
-{"id":"01a0c647-f617-7073-b780-e750fb447f14"}
-{"maxLength":500}
-{"nameFormat":null}
-{"propertySlug":"drop"}
-{"slug":"dropped-reward"}
-{"type":"page-type/text-property"}
-{"types":"ts"}

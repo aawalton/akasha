@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An access stating no narrow reaches every page of its target."},{"decisionKind":"decision-kind/departure","statement":"A narrow is a key and a value together, so neither is stated without the other."},{"decisionKind":"decision-kind/departure","statement":"A narrow is asked of the pages rather than weighed over the answer."}]}
-{"definition":"the one key and value every page an access reaches holds"}
-{"id":"01a0c521-ea3a-7a55-a8ef-a8e26ef96cf6"}
-{"properties":[{"pageProperty":"text-property/access-narrow-key","required":true,"many":false},{"pageProperty":"text-property/access-narrow-is","required":true,"many":false}]}
-{"propertySlug":"narrow"}
-{"slug":"person-access-narrow"}
-{"type":"page-type/record-property"}
-{"types":"ts"}

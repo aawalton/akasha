@@ -1,7 +1,0 @@
-{"code":"tsx"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reader Google signed in goes to the home route, and every other reader sees the button."}]}
-{"definition":"the form a reader signs in through"}
-{"id":"01a08827-e090-7b1e-87a7-2838f4274334"}
-{"slug":"alan-web-sign-in"}
-{"type":"page-type/route"}
-{"urlPath":"sign-in"}

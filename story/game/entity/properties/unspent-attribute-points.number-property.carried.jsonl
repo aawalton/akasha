@@ -1,8 +1,0 @@
-{"definition":"how many points an entity has left to put into its attributes"}
-{"id":"01a0c63e-b12c-7d0b-b5f7-331a73529306"}
-{"max":null}
-{"nullable":false}
-{"propertySlug":"unspent-attribute-points"}
-{"slug":"unspent-attribute-points"}
-{"type":"page-type/number-property"}
-{"types":"ts"}

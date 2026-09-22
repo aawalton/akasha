@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every panel is handed the same thing, whatever that panel draws."},{"decisionKind":"decision-kind/departure","statement":"A panel reads what it needs off what it was handed."},{"decisionKind":"decision-kind/absence","statement":"Nothing here draws anything."},{"decisionKind":"decision-kind/departure","statement":"What a panel is handed is the state of the game and the run of the story."}]}
-{"definition":"what every panel of a game's interface is handed to draw itself"}
-{"id":"01a0c4a0-5cab-7fbb-bff7-7af9f2ab4dbf"}
-{"slug":"panel-drawing"}
-{"type":"page-type/module"}

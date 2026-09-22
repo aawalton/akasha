@@ -1,8 +1,0 @@
-{"definition":"what an access lets its holder do"}
-{"extends":["page-type/domain"]}
-{"id":"01a0c4e5-b199-731b-8466-73e43f5f9395"}
-{"parts":["access-deed/read","access-deed/write","access-deed/read-some"]}
-{"schema":"jsonl"}
-{"slug":"access-deed"}
-{"type":"page-type/page-type"}
-{"types":"ts"}

@@ -1,8 +1,0 @@
-{"accessKind":"access-kind/page-type"}
-{"deed":["access-deed/read","access-deed/write"]}
-{"id":"01a05433-f103-740e-8a49-dbe3f9a58d53"}
-{"person":"person/ki"}
-{"serves":"book-series"}
-{"slug":"ki-page-type-ki-book-series"}
-{"target":"ki-book-series"}
-{"type":"page-type/person-access"}

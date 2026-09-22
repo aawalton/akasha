@@ -1,8 +1,0 @@
-{"definition":"what a model service was asked to do"}
-{"id":"01a0c643-35e0-74f1-9eeb-e5ec91c9010b"}
-{"maxLength":100}
-{"nameFormat":"name-format/lower-kebab-case"}
-{"propertySlug":"operation"}
-{"slug":"inference-operation"}
-{"type":"page-type/text-property"}
-{"types":"ts"}

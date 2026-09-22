@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"definition":"the pages of one page type the visitor may read, as rows"}
-{"id":"01a0c5fc-62f4-76c1-9075-0647b5a17523"}
-{"slug":"innworld-api-pages"}
-{"type":"page-type/route"}
-{"urlPath":"api/pages/:pageTypeSlug"}

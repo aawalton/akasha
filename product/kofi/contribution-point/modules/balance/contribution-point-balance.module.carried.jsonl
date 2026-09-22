@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A balance is the whole transaction list added up rather than a balance moved."},{"decisionKind":"decision-kind/departure","statement":"A transaction carrying no whole number of points adds nothing."},{"decisionKind":"decision-kind/departure","statement":"Which lines a page holds is read by `page-value-reading` rather than read here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads a contributor's page, the caller handing the lines in."}]}
-{"definition":"the points a contributor holds, added up again from every transaction that one has"}
-{"id":"01a0c506-47e8-7bbe-b848-c927bac306a3"}
-{"slug":"contribution-point-balance"}
-{"test":"ts"}
-{"type":"page-type/module"}

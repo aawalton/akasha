@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value of this kind is a rule beside whether that rule counts from the last completion."},{"decisionKind":"decision-kind/departure","statement":"A value that is a rule alone counts from the occurrence rather than the doing."},{"decisionKind":"decision-kind/departure","statement":"A page type stating what a rule counts from beside the rule states it that way."},{"decisionKind":"decision-kind/departure","statement":"A value of this kind is drawn as the rule reads in words rather than as its iCalendar text."}]}
-{"definition":"a page property holding a recurrence rule and what that rule counts from"}
-{"extends":["page-type/page-property"]}
-{"id":"01a0c507-6bf0-71a3-b7d9-5e878c5c4d9b"}
-{"schema":"jsonl"}
-{"shapes":"jsonl"}
-{"slug":"rrule-property"}
-{"type":"page-type/page-type"}
-{"types":"ts"}

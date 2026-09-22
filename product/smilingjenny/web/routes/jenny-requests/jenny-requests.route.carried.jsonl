@@ -1,7 +1,0 @@
-{"code":"tsx"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This page is open to a reader who has not signed in."},{"decisionKind":"decision-kind/departure","statement":"This page serves the published requests alone, most points first."}]}
-{"definition":"the feature requests published for Jenny's site"}
-{"id":"01a0c4b8-da65-71b0-9dc6-7a1bce543bd3"}
-{"slug":"jenny-requests"}
-{"type":"page-type/route"}
-{"urlPath":"requests"}

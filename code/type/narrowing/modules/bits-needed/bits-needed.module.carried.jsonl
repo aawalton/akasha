@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A count of one or none still takes one bit rather than none."}]}
-{"definition":"how many bits index one thing out of a count of things"}
-{"id":"01a08deb-5f4a-73ea-bf9a-4cd5d1172729"}
-{"slug":"bits-needed"}
-{"test":"ts"}
-{"type":"page-type/module"}

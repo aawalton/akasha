@@ -1,8 +1,0 @@
-{"definition":"what an entity's strike is worth before the strike is gated or grown"}
-{"id":"01a0c63e-761e-774d-9f50-ef6394f2a9a4"}
-{"max":null}
-{"nullable":false}
-{"propertySlug":"base-damage"}
-{"slug":"base-damage"}
-{"type":"page-type/number-property"}
-{"types":"ts"}

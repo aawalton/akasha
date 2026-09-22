@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The outline is the whole of knowledge."},{"decisionKind":"decision-kind/departure","statement":"The files on disk are how far into the outline Ali has got."},{"decisionKind":"decision-kind/departure","statement":"A node's mastery level is judged by hand."},{"decisionKind":"decision-kind/departure","statement":"A node with children is scored at a rung of its own just as a node without children is."},{"decisionKind":"decision-kind/departure","statement":"A node's coverage is worked out from the children beneath the node."},{"decisionKind":"decision-kind/departure","statement":"A topic names the topic above rather than sitting in that topic's folder."},{"decisionKind":"decision-kind/departure","statement":"How far Alan has mastered each part of the map is kept with the part."},{"decisionKind":"decision-kind/departure","statement":"A topic's mastery level is written to that topic's page and never told to Alan in any form."},{"decisionKind":"decision-kind/departure","statement":"The answers Alan got right and the answers Alan got wrong are told to Alan."}]}
-{"definition":"how far into the whole of knowledge Ali has read, node by node"}
-{"description":"The whole of knowledge as one outline, and how far I have read into it. Each topic I have opened is a page sitting under the topic it belongs to, holding where my model of it thins, what I have had wrong about it, how it joins to what I already know, and what to take up next. A topic with no page is a topic I have not opened yet."}
-{"id":"01a0659d-311d-7001-b736-ae7c499c3bf3"}
-{"parts":["module/seeded-draw","module/topic-tree","page-type/learn-everything-topic","page-type/mastery-level"]}
-{"slug":"learn-everything"}
-{"title":"Learn Everything"}
-{"type":"page-type/alan-book"}
-{"unit":"unit/words"}

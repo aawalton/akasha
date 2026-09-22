@@ -1,8 +1,0 @@
-{"definition":"the power, gas, water, waste and internet the house depends on, and their grades"}
-{"id":"01a0c59c-ef03-7f16-88e2-b997f9af212a"}
-{"parents":["all-about-alan-topic/which-organisations-i-trust"]}
-{"related":["all-about-alan-topic/where-the-government-touches-me","all-about-alan-topic/how-i-grade-an-organisation"]}
-{"settled":"Provo Power gives us grid electricity at C. Everything plugged into a wall rests on it: the backup heating and hot water, all the compute in the house, the fridge, and in time the car.\n\nProvo City gives us water and sewer at C. Water cannot be replaced at short notice, and sewer not without real building work.\n\nProvo City takes the rubbish and the recycling weekly at C. Private haulers exist, so that one is replaceable at a price.\n\nGoogle Fiber gives us symmetric gigabit at C. Everything of ours that touches the network runs through it, so an outage cascades a long way.\n\nDominion Energy gives us gas at D.\n\nC is what I expect of a municipal service. It is the government working as a utility, neither aligned with me nor against me. The reservation is that a municipal utility is only as good as the city behind it, and Utah's politics can change what municipal means."}
-{"slug":"the-utilities-we-run-on"}
-{"title":"The Utilities We Run On"}
-{"type":"page-type/all-about-alan-topic"}

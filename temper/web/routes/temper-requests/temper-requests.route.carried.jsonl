@@ -1,7 +1,0 @@
-{"code":"tsx"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Anyone reads Temper's published feature requests without signing in."},{"decisionKind":"decision-kind/departure","statement":"This page serves the published requests alone, most points first."}]}
-{"definition":"the feature requests Temper players have published"}
-{"id":"01a0c4b8-da51-7e74-aff9-5b384e20b5c3"}
-{"slug":"temper-requests"}
-{"type":"page-type/route"}
-{"urlPath":"requests"}

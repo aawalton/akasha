@@ -1,5 +1,0 @@
-{"definition":"what an add-on writes out of the game, and what reads it back"}
-{"id":"01a0c484-032b-7be6-872e-9c0e427a6e48"}
-{"parts":["domain/temper-capture-shape","domain/temper-capture-writer","domain/temper-capture-error","domain/temper-capture-sale","domain/temper-capture-datamining","domain/temper-game-catalog-capture-addon","domain/temper-game-catalog-capture-host","domain/temper-characters-capture-addon","domain/temper-characters-skills-morphs-addon","domain/temper-completion-import","domain/temper-errors-triage"]}
-{"slug":"temper-capture"}
-{"type":"page-type/domain"}

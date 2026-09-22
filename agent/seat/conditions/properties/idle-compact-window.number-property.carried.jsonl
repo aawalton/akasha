@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This count is under the count a seat's own harness compacts at."},{"decisionKind":"decision-kind/departure","statement":"A seat under this count is left as it is however long that seat is idle."}]}
-{"definition":"the token count an idle seat is compacted at"}
-{"id":"01a0c58b-26fc-75b8-bc78-2fdec88de82d"}
-{"max":null}
-{"propertySlug":"idle-compact-window"}
-{"slug":"idle-compact-window"}
-{"type":"page-type/number-property"}
-{"types":"ts"}

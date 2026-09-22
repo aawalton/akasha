@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Jenny's site is named `smilingjenny`, and alanwalton.com knows that name."},{"decisionKind":"decision-kind/departure","statement":"Jenny's site signs its own cookie with `SMILINGJENNY_SESSION_KEY`."}]}
-{"definition":"what Jenny's site is called in a handover, where it answers, and the key it signs with"}
-{"id":"01a0c1e4-5f22-7a90-b8d1-3c7e9a4b2f08"}
-{"slug":"jenny-handover-site"}
-{"type":"page-type/module"}

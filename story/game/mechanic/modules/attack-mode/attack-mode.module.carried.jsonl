@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A mode names one stat for the attacker and one for the defender."},{"decisionKind":"decision-kind/departure","statement":"A sheet holding neither stat refuses the mode rather than counting nothing."},{"decisionKind":"decision-kind/absence","statement":"Nothing here settles whether the strike lands."}]}
-{"definition":"the power a strike is made with set against the defence it is made against"}
-{"id":"01a0c484-0cd6-77db-9d41-592402c8073c"}
-{"slug":"attack-mode"}
-{"test":"ts"}
-{"type":"page-type/module"}

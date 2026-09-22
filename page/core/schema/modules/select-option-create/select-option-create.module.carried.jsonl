@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This type is read off the select option schema rather than spelled a second time."},{"decisionKind":"decision-kind/absence","statement":"Nothing here adds a field the schema does not have."}]}
-{"definition":"an option a select value takes, by its id, the label it shows and the color it draws in"}
-{"id":"01a05b92-a9c7-7db1-a085-4bc1d77ce702"}
-{"slug":"select-option-create"}
-{"type":"page-type/module"}

@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The arrow tint is chosen from whether a nested entry is selected."}]}
-{"definition":"the color the arrow on a submenu entry is drawn in"}
-{"id":"01a0c50c-bd87-7ae7-8703-f8f255e02fe4"}
-{"slug":"scrollable-menu-util-arrow-color"}
-{"type":"page-type/module"}

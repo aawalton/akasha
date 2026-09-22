@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An access naming no deed lets its holder do nothing."},{"decisionKind":"decision-kind/departure","statement":"Reading a thing and changing that thing are two deeds."}]}
-{"definition":"what the access lets its holder do"}
-{"id":"01a0c4e8-9759-74ba-a799-01d34c3eaea9"}
-{"propertySlug":"deed"}
-{"slug":"person-access-deed"}
-{"targetPageType":"page-type/access-deed"}
-{"type":"page-type/relation-property"}
-{"types":"ts"}

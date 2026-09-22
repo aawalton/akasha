@@ -1,8 +1,0 @@
-{"definition":"the model service that made a thing"}
-{"id":"01a0c643-2215-7ce1-8d2a-d4d652df29bf"}
-{"maxLength":100}
-{"nameFormat":"name-format/lower-kebab-case"}
-{"propertySlug":"service"}
-{"slug":"inference-service"}
-{"type":"page-type/text-property"}
-{"types":"ts"}

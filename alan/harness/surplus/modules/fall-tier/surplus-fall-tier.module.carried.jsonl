@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The scale climbs from black through blue."},{"decisionKind":"decision-kind/departure","statement":"A reading nearer black is the worse reading."},{"decisionKind":"decision-kind/departure","statement":"A fall is a colour now beneath the colour the day opened at."},{"decisionKind":"decision-kind/constraint","statement":"The colors are the readout tier's own rather than a second set of colors."},{"decisionKind":"decision-kind/constraint","statement":"A colour is worked out without reaching a store."}]}
-{"definition":"the order a tier's colors run in, and whether today has gone below the color it opened at"}
-{"id":"01a0697e-ded3-7adb-9d6e-f852cfc9ffd7"}
-{"slug":"surplus-fall-tier"}
-{"type":"page-type/module"}

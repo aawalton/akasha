@@ -1,7 +1,0 @@
-{"definition":"which wheels a trim drives"}
-{"id":"01a0c542-92b0-7b83-b0f5-3eadde71dde9"}
-{"propertySlug":"drive-layout"}
-{"slug":"drive-layout"}
-{"type":"page-type/select-property"}
-{"types":"ts"}
-{"values":["FWD","RWD","AWD","4WD"]}

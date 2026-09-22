@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A name is keyed by the set type global and then by the two-letter language."}]}
-{"definition":"the name each kind of gear set has in eight languages"}
-{"id":"01a0c511-f9c4-7892-ae93-05426ccf3899"}
-{"slug":"lib-sets-const-settype-names"}
-{"type":"page-type/module"}

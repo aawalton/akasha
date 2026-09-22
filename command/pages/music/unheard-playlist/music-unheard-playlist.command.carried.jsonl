@@ -1,9 +1,0 @@
-{"arguments":[{"argument":"argument/json"},{"argument":"argument/plan"}]}
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The tracks picked are the tracks the unheard-picking module picks."},{"decisionKind":"decision-kind/departure","statement":"The playlist kept up to date is the one the `playlist/unheard` page names."},{"decisionKind":"decision-kind/departure","statement":"The playlist-keeping module does everything else this command does."}]}
-{"definition":"the command keeping a playlist of what Alan's followed artists made and he has not heard"}
-{"id":"01a0c4ef-8b59-7e55-8995-fc004869dc1f"}
-{"maxWallSeconds":600}
-{"name":"unheard-playlist"}
-{"slug":"music-unheard-playlist"}
-{"type":"page-type/command"}

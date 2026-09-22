@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page holding another value under that key is no page the access reaches."}]}
-{"definition":"the value that key holds on every page the access reaches"}
-{"id":"01a0c521-8298-7072-b4b2-9766214ee349"}
-{"maxLength":200}
-{"nameFormat":null}
-{"propertySlug":"is"}
-{"slug":"access-narrow-is"}
-{"type":"page-type/text-property"}
-{"types":"ts"}

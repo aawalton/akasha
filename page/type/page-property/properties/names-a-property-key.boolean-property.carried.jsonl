@@ -1,7 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A property saying nothing here names no key."},{"decisionKind":"decision-kind/departure","statement":"A property saying true holds the key a declaration states rather than a slug."},{"decisionKind":"decision-kind/departure","statement":"A property holding many values names a key in each of them."},{"decisionKind":"decision-kind/departure","statement":"A field of a record property saying true names a key in each record."},{"decisionKind":"decision-kind/departure","statement":"The page type the key is declared by is the page type the page lists."}]}
-{"definition":"whether a value under this property names a key a page type declares"}
-{"id":"01a0c560-ea1e-73a7-adc7-f3690fc69293"}
-{"propertySlug":"names-a-property-key"}
-{"slug":"names-a-property-key"}
-{"type":"page-type/boolean-property"}
-{"types":"ts"}

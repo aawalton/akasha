@@ -1,7 +1,0 @@
-{"accessKind":"access-kind/database-row"}
-{"deed":["access-deed/read","access-deed/write"]}
-{"id":"01a05433-f100-7fa0-9ef6-d999cb540ee9"}
-{"person":"person/alan"}
-{"slug":"alan-database-row-all"}
-{"target":"all"}
-{"type":"page-type/person-access"}

@@ -1,6 +1,0 @@
-{"description":"The operator named here replaces the default `<=` when an item's replacement value is compared against `replacementValue`."}
-{"id":"01a07209-6b53-7500-9b2f-edeb04ef31ad"}
-{"key":"replacementValueOp"}
-{"slug":"replacement-value-op"}
-{"title":"Replacement Value Comparison"}
-{"type":"page-type/temper-condition-field"}

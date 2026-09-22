@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value given more than once comes back once."},{"decisionKind":"decision-kind/departure","statement":"The order is the one sorting puts the values in rather than the order given."}]}
-{"definition":"values given back in sorted order, each one once"}
-{"id":"01a079ad-7822-7000-a707-78723d52e222"}
-{"slug":"sorted-once"}
-{"test":"ts"}
-{"type":"page-type/module"}

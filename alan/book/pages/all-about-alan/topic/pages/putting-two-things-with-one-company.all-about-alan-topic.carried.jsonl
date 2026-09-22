@@ -1,8 +1,0 @@
-{"definition":"one provider holding several of my products, so one failure lands more than once"}
-{"id":"01a0c593-55f1-78b3-bb41-0d6190d2c301"}
-{"parents":["all-about-alan-topic/getting-out-from-under-a-dependency"]}
-{"related":["all-about-alan-topic/a-dependency-that-only-exists-for-another-one","all-about-alan-topic/how-i-grade-an-organisation"]}
-{"settled":"State Farm holds the house and the car both, so anything that goes wrong there lands on me twice over.\n\nCloudflare is the same shape: registrar, DNS, tunnel and certificates all on one provider.\n\nUnbundling is low priority here, because every peer insurer is the same D and moving sideways buys nothing. Only something structurally different would, and none is open to me.\n\nSo I hold what I have and watch, and I would only move if a B-rated option appeared."}
-{"slug":"putting-two-things-with-one-company"}
-{"title":"Putting Two Things With One Company"}
-{"type":"page-type/all-about-alan-topic"}

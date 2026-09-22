@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A theme is read by the game master rather than shown to the player."}]}
-{"definition":"what a place is about, written for the one running the game"}
-{"id":"01a0c644-0cd0-737d-a018-b08f625629cf"}
-{"maxLength":2000}
-{"nameFormat":null}
-{"propertySlug":"theme"}
-{"slug":"location-theme"}
-{"type":"page-type/text-property"}
-{"types":"ts"}

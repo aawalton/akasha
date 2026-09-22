@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This route draws nothing, and asks Jenny for nothing."}]}
-{"definition":"the send-off to alanwalton.com, where Jenny is signed in"}
-{"id":"01a08823-9dc2-7243-8e1c-b4c0979fbb10"}
-{"slug":"jenny-sign-in"}
-{"type":"page-type/route"}
-{"urlPath":"sign-in"}

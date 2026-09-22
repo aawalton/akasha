@@ -1,8 +1,0 @@
-{"accessKind":"access-kind/page-type"}
-{"deed":["access-deed/read","access-deed/write"]}
-{"id":"01a05433-f104-769b-a1be-2612f5f674a0"}
-{"person":"person/ki"}
-{"serves":"movie"}
-{"slug":"ki-page-type-ki-movie"}
-{"target":"ki-movie"}
-{"type":"page-type/person-access"}

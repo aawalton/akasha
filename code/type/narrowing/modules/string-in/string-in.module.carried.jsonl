@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value that is no string holds no string."},{"decisionKind":"decision-kind/departure","statement":"An empty string is answered rather than read as nothing."}]}
-{"definition":"the string a value holds, or nothing"}
-{"id":"01a08e46-4a99-7249-b10c-2177c0d3079d"}
-{"slug":"string-in"}
-{"test":"ts"}
-{"type":"page-type/module"}

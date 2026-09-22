@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A persona's mobile wallpaper is an image, cut from one of her wallpapers for a phone."},{"decisionKind":"decision-kind/departure","statement":"The route serving Alan's phone reads this property rather than a persona's cover."},{"decisionKind":"decision-kind/stopgap","statement":"A mobile wallpaper is a persona's cover picture until a picture is drawn for a phone."}]}
-{"definition":"the picture a persona is shown as on Alan's phone"}
-{"id":"01a0c61d-f8be-7dee-97dc-2a9bb1313d4f"}
-{"propertySlug":"mobile-wallpaper"}
-{"slug":"mobile-wallpaper"}
-{"targetPageType":"page-type/image"}
-{"type":"page-type/relation-property"}
-{"types":"ts"}

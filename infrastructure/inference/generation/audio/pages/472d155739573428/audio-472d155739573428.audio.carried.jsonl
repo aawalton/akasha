@@ -1,9 +1,0 @@
-{"id":"01a0c64c-1444-7806-8915-3466772c2934"}
-{"instruct":"A sparkly, effervescent young woman's voice, girlish and quick, almost chirping with joy; high-energy and a touch squeaky at the peaks of excitement, utterly unguarded; fast light rhythm."}
-{"model":"mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16"}
-{"operation":"voice-design"}
-{"service":"qwen3-tts"}
-{"slug":"audio-472d155739573428"}
-{"text":"Oh! Oh, you have to see this — I found it on the third shelf, exactly where it wanted to be. Take it, it's yours to borrow — just remember to bring it back!"}
-{"title":"qwen3-tts voice-design @ 2026-07-03T13:22:04.809Z"}
-{"type":"page-type/audio"}

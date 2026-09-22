@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A shape attaches for a signed-in reader rather than for a token the store holds."},{"decisionKind":"decision-kind/departure","statement":"A store told its owner needs no token, and a store told none reads one off a jwt."},{"decisionKind":"decision-kind/departure","statement":"A store with no token arms no refresh."}]}
-{"definition":"the store the page rows are read and written through"}
-{"id":"01a05b69-4546-733d-acfc-e02dbd8417b3"}
-{"slug":"store"}
-{"type":"page-type/module"}

@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A picture of no persona states nothing here."},{"decisionKind":"decision-kind/departure","statement":"Which of her pictures anchors, covers or hangs a persona is said on her page rather than here."}]}
-{"definition":"the persona a picture is drawn of"}
-{"id":"01a0c5f0-5590-72e4-b3dc-065c29bd351c"}
-{"propertySlug":"persona"}
-{"slug":"image-persona"}
-{"targetPageType":"page-type/persona"}
-{"type":"page-type/relation-property"}
-{"types":"ts"}

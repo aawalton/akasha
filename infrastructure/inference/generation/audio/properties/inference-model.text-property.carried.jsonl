@@ -1,8 +1,0 @@
-{"definition":"the weights a model service loaded to make a thing"}
-{"id":"01a0c643-4796-70e8-aee9-0f0701ab4f9f"}
-{"maxLength":200}
-{"nameFormat":null}
-{"propertySlug":"model"}
-{"slug":"inference-model"}
-{"type":"page-type/text-property"}
-{"types":"ts"}

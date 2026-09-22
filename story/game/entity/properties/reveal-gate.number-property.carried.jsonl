@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An entity naming no gate is there from the first turn."},{"decisionKind":"decision-kind/stopgap","statement":"A gate the play is never meant to reach is written as a turn far beyond it."}]}
-{"definition":"the turn before which an entity is kept from the player"}
-{"id":"01a0c63d-bf33-7fc8-a461-91fda80ddb15"}
-{"max":null}
-{"nullable":false}
-{"propertySlug":"reveal-gate"}
-{"slug":"reveal-gate"}
-{"type":"page-type/number-property"}
-{"types":"ts"}

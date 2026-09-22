@@ -1,8 +1,0 @@
-{"admits":["a page and a file","the words of a song or the shape of the body"]}
-{"definition":"a domain definition written from two noun phrases a conjunction joins"}
-{"id":"01a0c617-c18d-7c76-9c87-57bd9c9b5235"}
-{"phraseKind":"phrase-kind/domain-definition"}
-{"refuses":["the page and the file and the row","and a file"]}
-{"slug":"domain-definition-with-a-conjunction"}
-{"type":"page-type/construction"}
-{"writtenFrom":["phrase-kind/noun-phrase","part-of-speech/conjunction","phrase-kind/noun-phrase"]}

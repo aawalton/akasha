@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A feature request names its boosts most points first."},{"decisionKind":"decision-kind/departure","statement":"One contributor boosting a request twice is one boost of the points added up."}]}
-{"definition":"one contributor's weight behind a feature request"}
-{"id":"01a0c4a7-faa9-7331-b4f4-8698261e526d"}
-{"properties":[{"pageProperty":"relation-property/feature-request-booster","required":true,"many":false},{"pageProperty":"number-property/contribution-points","required":true,"many":false}]}
-{"propertySlug":"boosts"}
-{"slug":"feature-request-boosts"}
-{"type":"page-type/record-property"}
-{"types":"ts"}

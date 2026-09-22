@@ -1,7 +1,0 @@
-{"code":"tsx"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A slug reaching no page type the visitor may read is answered 404."}]}
-{"definition":"the pages of one page type, drawn as a list"}
-{"id":"01a0c5fc-31a5-75df-9ea9-6a8ef459b23f"}
-{"slug":"innworld-page-listing"}
-{"type":"page-type/route"}
-{"urlPath":":pageTypeSlug"}

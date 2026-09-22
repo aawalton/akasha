@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A comment becomes blanks rather than going, so a position still names its place."},{"decisionKind":"decision-kind/departure","statement":"A newline inside a comment is kept, so a line number still names its line."}]}
-{"definition":"markup with every comment blanked out and every line left where that line was"}
-{"id":"01a08de9-caf0-7416-9844-11646f6f4f04"}
-{"slug":"strip-xml-comments"}
-{"test":"ts"}
-{"type":"page-type/module"}

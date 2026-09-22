@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The native shell's credential is the session cookie the site set for it."},{"decisionKind":"decision-kind/absence","statement":"No bearer token is put on a call from the native shell."}]}
-{"definition":"a fetch of this site's api that has the native shell's own credential"}
-{"id":"01a063c9-03ff-702b-9b74-c574af51ce49"}
-{"slug":"api-fetch"}
-{"type":"page-type/module"}

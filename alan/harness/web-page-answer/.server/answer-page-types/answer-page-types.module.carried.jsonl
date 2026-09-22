@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page type is named here where the reader holds an access reaching it."},{"decisionKind":"decision-kind/departure","statement":"The same accesses settle this roster and the pages of a type, so the two agree."},{"decisionKind":"decision-kind/constraint","statement":"A browser reads no page type this leaves out, so leaving one out serves nothing."}]}
-{"definition":"the page types answered to a browser"}
-{"id":"01a0640f-8510-78d4-a12e-20e2f4f3927a"}
-{"slug":"answer-page-types"}
-{"type":"page-type/module"}

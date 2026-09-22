@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each entry type names the setup function its row is filled by."},{"decisionKind":"decision-kind/departure","statement":"A submenu, a checkbox, a button and a slider row pad their width by the height."}]}
-{"definition":"the default XML row template and highlight template for each entry type"}
-{"id":"01a0c510-c8db-7c06-8a41-2a61913f5f1b"}
-{"slug":"scrollable-menu-entry-type-defaults"}
-{"type":"page-type/module"}

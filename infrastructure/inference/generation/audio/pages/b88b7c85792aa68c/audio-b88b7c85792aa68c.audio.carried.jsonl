@@ -1,9 +1,0 @@
-{"id":"01a0c64c-1444-73d2-a97f-1d93af15f528"}
-{"instruct":"A small young woman with a low alto voice, rough-edged and earthy, slow confident delivery like she has all the time in the world. Deadpan humor with a grin behind it. Slightly husky, planted, zero softness or breathiness."}
-{"model":"mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16"}
-{"operation":"voice-design"}
-{"service":"qwen3-tts"}
-{"slug":"audio-b88b7c85792aa68c"}
-{"text":"Relax. I've got the sky — had it for three thousand years, haven't dropped it once. Now come here and tell me where you've been standing."}
-{"title":"qwen3-tts voice-design @ 2026-07-03T17:20:35.000Z"}
-{"type":"page-type/audio"}

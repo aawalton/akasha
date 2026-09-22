@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A place inside no other place is somewhere its game opens on."}]}
-{"definition":"the place a place is inside"}
-{"id":"01a0c643-9ff8-7920-b68e-f2f869684b86"}
-{"propertySlug":"within"}
-{"slug":"within-location"}
-{"targetPageType":"page-type/game-location"}
-{"type":"page-type/relation-property"}
-{"types":"ts"}

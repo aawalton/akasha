@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A module reading a set type global imports this one, which sets them all."}]}
-{"definition":"the number each kind of gear set is known by, set as a game global"}
-{"id":"01a0c581-b332-7fc7-b2d9-bc6ccd3d4167"}
-{"slug":"lib-sets-const-settype-ids"}
-{"type":"page-type/module"}

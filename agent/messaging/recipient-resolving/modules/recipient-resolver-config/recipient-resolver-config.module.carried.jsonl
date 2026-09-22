@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A setting the environment states as no positive finite number is the default."},{"decisionKind":"decision-kind/departure","statement":"The seconds the environment states are held as milliseconds."}]}
-{"definition":"the tick interval and revive timeout read out of the environment"}
-{"id":"01a0657d-a75e-7000-8cb9-c08b467911d7"}
-{"slug":"recipient-resolver-config"}
-{"type":"page-type/module"}

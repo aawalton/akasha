@@ -1,6 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Listen history syncs every hour."},{"decisionKind":"decision-kind/departure","statement":"Every listen is tracked against a track rather than a release or a song."}]}
-{"definition":"what has been listened to"}
-{"id":"01a06238-8d2d-7235-bf50-19c7fc57723c"}
-{"parts":["page-type/heard-music","service-workstation/music-capture"]}
-{"slug":"music-listening"}
-{"type":"page-type/domain"}

@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A part of speech is a job a word does rather than a sense that word has."},{"decisionKind":"decision-kind/departure","statement":"A part of speech is named here only where an admitted construction uses it."}]}
-{"definition":"one job a word does in a phrase"}
-{"extends":["page-type/domain"]}
-{"id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
-{"parts":["part-of-speech/noun","relation-property/part-of-speech","part-of-speech/determiner","part-of-speech/preposition","part-of-speech/adjective","part-of-speech/conjunction"]}
-{"schema":"jsonl"}
-{"slug":"part-of-speech"}
-{"type":"page-type/page-type"}
-{"types":"ts"}

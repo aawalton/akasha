@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A panel states the place that panel is drawn in."},{"decisionKind":"decision-kind/departure","statement":"The order panels are drawn in within a place is the order the game names them."},{"decisionKind":"decision-kind/absence","statement":"No place names the panels drawn in it."}]}
-{"definition":"where in a played story's layout a panel is drawn"}
-{"extends":["page-type/domain"]}
-{"id":"01a0c4cc-9091-7ea4-a3aa-6a4d2c413b4f"}
-{"parts":["panel-place/above","panel-place/aside","panel-place/run"]}
-{"schema":"jsonl"}
-{"slug":"panel-place"}
-{"type":"page-type/page-type"}
-{"types":"ts"}

@@ -1,8 +1,0 @@
-{"id":"01a0c64f-02aa-7c35-9ccb-684db3e87029"}
-{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
-{"operation":"voice-clone"}
-{"service":"moss-tts"}
-{"slug":"audio-ed0cb0515506670a"}
-{"text":"I love that dog. Someone should write him into a novel. A small, honest novel where nothing bad happens and the peaches are always ripe."}
-{"title":"moss-tts voice-clone @ 2026-07-17T10:03:04.169Z"}
-{"type":"page-type/audio"}

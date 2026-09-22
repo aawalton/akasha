@@ -1,6 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An adjective is written before the noun group that adjective describes."},{"decisionKind":"decision-kind/departure","statement":"A word ending in `ed` or `ing` is a participle rather than an adjective here."}]}
-{"definition":"a word describing the thing a noun names"}
-{"id":"01a0c5f9-2164-7ac3-93fa-caec20932926"}
-{"slug":"adjective"}
-{"spellings":[{"partOfSpeech":"part-of-speech/noun","spelling":"adjective"}]}
-{"type":"page-type/part-of-speech"}

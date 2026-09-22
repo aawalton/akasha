@@ -1,8 +1,0 @@
-{"definition":"consent weighting turning a base harm into the cost my ethics actually sums"}
-{"id":"01a0c599-d229-7d38-88ea-5c4f0ade237b"}
-{"parents":["all-about-alan-topic/the-ethics-i-worked-out"]}
-{"related":["all-about-alan-topic/how-much-of-a-harm-someone-authored"]}
-{"settled":"An action's impact is worked out per individual first and summed only afterwards. For each person harmed I measure the base harm on their expected value, multiply it by the consent weight to get the weighted cost, and only then add every weighted cost and every unweighted benefit into the action's total.\n\nThe weighted cost is the base harm times one over their agency, raised to the power of the harm as a fraction of their whole lifetime expected value. Death puts that exponent at one, because the whole remaining value goes. A trivial harm puts it near zero.\n\nBenefits are never consent-weighted. The weighting touches action value only, never state value.\n\nA harm to something that is not sentient takes no weighting at all. Its agency is undefined rather than zero, so the harm is the bare change in the state."}
-{"slug":"the-formula-that-prices-a-harm"}
-{"title":"The Formula That Prices A Harm"}
-{"type":"page-type/all-about-alan-topic"}

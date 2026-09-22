@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A handful holding the wrong number of dice is refused."},{"decisionKind":"decision-kind/departure","statement":"A face a die of those sides cannot show is refused."},{"decisionKind":"decision-kind/departure","statement":"The best a handful can come to is a critical, and the worst is a fumble."},{"decisionKind":"decision-kind/absence","statement":"Nothing here rolls a die."}]}
-{"definition":"the total a handful of dice came to, and whether it is the best or the worst"}
-{"id":"01a0c480-e32d-7929-bdd9-14a102e071a3"}
-{"slug":"dice-reading"}
-{"test":"ts"}
-{"type":"page-type/module"}

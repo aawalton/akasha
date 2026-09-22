@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A persona has one anchor."},{"decisionKind":"decision-kind/departure","statement":"An anchor may be one of the persona's covers as well."}]}
-{"definition":"the picture every other picture of a persona is drawn to match"}
-{"id":"01a0c5ea-620f-7f03-9757-5e71f545f25a"}
-{"propertySlug":"anchor"}
-{"slug":"anchor-image"}
-{"targetPageType":"page-type/image"}
-{"type":"page-type/relation-property"}
-{"types":"ts"}

@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A list is no record."},{"decisionKind":"decision-kind/departure","statement":"Nothing at all is no record."},{"decisionKind":"decision-kind/departure","statement":"A reader wanting a record either way reads an empty record here."}]}
-{"definition":"a value read as a record of unknown values, or nothing where it is not one"}
-{"id":"01a05c94-2bfb-7908-974d-2bd990ac9a56"}
-{"slug":"as-record"}
-{"test":"ts"}
-{"type":"page-type/module"}

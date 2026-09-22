@@ -1,6 +1,0 @@
-{"code":"tsx"}
-{"definition":"one page of the world, drawn with its properties"}
-{"id":"01a0c5fc-4c0e-7756-9104-11a51a19a2e4"}
-{"slug":"innworld-page-detail"}
-{"type":"page-type/route"}
-{"urlPath":":pageTypeSlug/:pageHrefParam"}

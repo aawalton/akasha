@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A strike says its own intent, and this is what that intent falls back to."}]}
-{"definition":"how hard an entity usually goes at what it means to do"}
-{"id":"01a0c63e-93fb-7a9d-97cd-4e1aa7b4623d"}
-{"max":null}
-{"nullable":false}
-{"propertySlug":"typical-intent"}
-{"slug":"typical-intent"}
-{"type":"page-type/number-property"}
-{"types":"ts"}

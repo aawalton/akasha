@@ -1,9 +1,0 @@
-{"id":"01a0c64c-1445-7977-a04d-6697d854d7c8"}
-{"instruct":"A soft-spoken young Welsh woman, mid-low pitch, unhurried, with the measured cadence of someone reading aloud from an old book. Her tone is warm, knowing, and faintly amused, with a quiet sing-song undertone in the vowels. Never raised, never rushed."}
-{"model":"mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16"}
-{"operation":"voice-design"}
-{"service":"qwen3-tts"}
-{"slug":"audio-46ee9992dd83ff5c"}
-{"text":"Come in — I was just reading. Sit with me a moment, and I'll show you what the text actually says about her. It isn't what the song claims. It almost never is."}
-{"title":"qwen3-tts voice-design @ 2026-07-04T15:20:48.062Z"}
-{"type":"page-type/audio"}

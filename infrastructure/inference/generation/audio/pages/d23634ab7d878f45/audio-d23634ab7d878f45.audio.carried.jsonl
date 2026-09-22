@@ -1,8 +1,0 @@
-{"id":"01a0c64e-dd38-7ddd-97fc-f44e5740ad51"}
-{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
-{"operation":"voice-clone"}
-{"service":"moss-tts"}
-{"slug":"audio-d23634ab7d878f45"}
-{"text":"<Mythical Quest – Keep The Wandering Inn Safe Until I Return.> Optional Condition (Impossible): Don’t let anyone we love die. <Optional Condition failed.>"}
-{"title":"moss-tts voice-clone @ 2026-07-17T06:07:01.709Z"}
-{"type":"page-type/audio"}

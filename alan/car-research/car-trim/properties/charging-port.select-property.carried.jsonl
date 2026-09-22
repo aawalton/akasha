@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A trim that takes no charge from outside states `none`."}]}
-{"definition":"the plug a trim takes charge through"}
-{"id":"01a0c542-81ec-747d-9067-56887f802030"}
-{"propertySlug":"charging-port"}
-{"slug":"charging-port"}
-{"type":"page-type/select-property"}
-{"types":"ts"}
-{"values":["NACS","CCS1","J1772","CHAdeMO","none"]}

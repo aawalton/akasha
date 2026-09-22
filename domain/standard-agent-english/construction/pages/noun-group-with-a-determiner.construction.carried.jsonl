@@ -1,8 +1,0 @@
-{"admits":["the code","a machine","an answer"]}
-{"definition":"a noun phrase written from a determiner and the noun group that determiner names"}
-{"id":"01a0c58c-287b-70be-abf3-05d84f4c124b"}
-{"phraseKind":"phrase-kind/noun-phrase"}
-{"refuses":["code the","the a code"]}
-{"slug":"noun-group-with-a-determiner"}
-{"type":"page-type/construction"}
-{"writtenFrom":["part-of-speech/determiner","phrase-kind/noun-group"]}

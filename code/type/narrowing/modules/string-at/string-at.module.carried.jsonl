@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An empty string is answered rather than read as nothing."}]}
-{"definition":"the string a record holds under a key, or nothing"}
-{"id":"01a05cc9-029c-7f57-8f4e-de247a60828d"}
-{"slug":"string-at"}
-{"type":"page-type/module"}

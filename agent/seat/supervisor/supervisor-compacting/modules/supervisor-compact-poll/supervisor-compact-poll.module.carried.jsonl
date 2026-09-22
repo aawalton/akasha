@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The ask is put on the seat's own pane rather than sent to the seat as a message."},{"decisionKind":"decision-kind/departure","statement":"Whether a seat is idle is read only where that seat is past the ceiling."},{"decisionKind":"decision-kind/departure","statement":"A seat is judged idle by the reading a restart between turns is judged by."},{"decisionKind":"decision-kind/departure","statement":"A beat still running is not begun again."},{"decisionKind":"decision-kind/departure","statement":"A supervisor with no agent yet holds no ask."},{"decisionKind":"decision-kind/departure","statement":"An ask the pane refused is no ask, so the next beat asks again."},{"decisionKind":"decision-kind/departure","statement":"The ceiling is read afresh on every beat, so a conditions page rewritten holds at once."}]}
-{"definition":"a seat asked to compact on the beat that finds it idle past the ceiling"}
-{"id":"01a0c57f-1c55-7ed6-9031-b6487631c187"}
-{"slug":"supervisor-compact-poll"}
-{"test":"ts"}
-{"type":"page-type/module"}

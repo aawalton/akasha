@@ -1,6 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/absence","statement":"No key is here."},{"decisionKind":"decision-kind/absence","statement":"No token is here."},{"decisionKind":"decision-kind/absence","statement":"No password is here."},{"decisionKind":"decision-kind/absence","statement":"Nothing here signs anybody in."}]}
-{"definition":"the account this workstation acts for"}
-{"id":"01a05c6d-3507-7082-9e71-8c024f532b00"}
-{"parts":["module/user-id"]}
-{"slug":"supabase-auth"}
-{"type":"page-type/domain"}

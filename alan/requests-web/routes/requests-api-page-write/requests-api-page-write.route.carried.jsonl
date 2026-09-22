@@ -1,7 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This route's action is the only thing this route's code exports."},{"decisionKind":"decision-kind/departure","statement":"This route is reached by a signed-in reader alone."}]}
-{"definition":"the page a reader's browser asks to have written"}
-{"id":"01a0c537-bb7d-769b-ad76-62d6b52dd185"}
-{"slug":"requests-api-page-write"}
-{"type":"page-type/route"}
-{"urlPath":"api/page-write"}

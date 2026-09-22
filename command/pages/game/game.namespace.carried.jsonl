@@ -1,6 +1,0 @@
-{"definition":"the games being played, and the numbers their turns settle"}
-{"id":"01a0c600-67f1-7ff1-8827-5238889f44c3"}
-{"name":"game"}
-{"parts":["command/game-settle","command/game-import"]}
-{"slug":"game"}
-{"type":"page-type/namespace"}

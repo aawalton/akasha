@@ -1,8 +1,0 @@
-{"allowsTmpPaths":true}
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A deploy that runs in the cluster runs as a job of its own."},{"decisionKind":"decision-kind/departure","statement":"A job is named for the subject deployed and the commit it is made at."},{"decisionKind":"decision-kind/departure","statement":"A deploy's job is composed the way every job this system runs is composed."},{"decisionKind":"decision-kind/departure","statement":"The deploy a job carries runs under no ceiling of the command's own."},{"decisionKind":"decision-kind/departure","statement":"The command the job runs is asked of the index rather than spelled."},{"decisionKind":"decision-kind/departure","statement":"A job fetches the commit its subject was last deployed at beside the commit it is made at."},{"decisionKind":"decision-kind/absence","statement":"Nothing here applies the job to the cluster."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reads the workstation's checkout."},{"decisionKind":"decision-kind/absence","statement":"Nothing here says what a pod a job starts is given."}]}
-{"definition":"the job a deploy runs as, checked out in the cluster at the commit it is made at"}
-{"id":"01a0a0f6-5662-7252-90e8-ea20b000453f"}
-{"slug":"deploy-job"}
-{"test":"ts"}
-{"type":"page-type/module"}

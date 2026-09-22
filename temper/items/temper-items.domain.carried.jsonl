@@ -1,5 +1,0 @@
-{"definition":"the items a player holds, and the rules over them"}
-{"id":"01a0c488-cb67-7b5d-a939-5a29e22abc76"}
-{"parts":["domain/temper-items-rules","domain/temper-items-filters","domain/temper-items-core","domain/temper-inventory-automation","module/explain-walk"]}
-{"slug":"temper-items"}
-{"type":"page-type/domain"}

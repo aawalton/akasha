@@ -1,7 +1,0 @@
-{"definition":"how long a level two home charger takes to fill the battery, in hours"}
-{"id":"01a0c546-36dd-7d33-ad06-007026ff6775"}
-{"max":null}
-{"propertySlug":"l2-home-charge-hr"}
-{"slug":"l2-home-charge-hr"}
-{"type":"page-type/number-property"}
-{"types":"ts"}

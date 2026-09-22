@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"definition":"whether the app answers"}
-{"id":"01a0c537-bb34-7757-96e7-19e78bcd12a3"}
-{"slug":"requests-api-health"}
-{"type":"page-type/route"}
-{"urlPath":"api/health"}

@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Each property states where the grammar starts rather than sharing one start."},{"decisionKind":"decision-kind/departure","statement":"A property naming no start symbol is a property the grammar judges nothing of."}]}
-{"definition":"the phrase kind this property's text is parsed from"}
-{"id":"01a0c595-f8ed-761d-b0c8-7fd9abecd9ba"}
-{"propertySlug":"start-symbol"}
-{"slug":"start-symbol"}
-{"targetPageType":"page-type/phrase-kind"}
-{"type":"page-type/relation-property"}
-{"types":"ts"}

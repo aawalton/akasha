@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The dungeon finder window is opened when its rows have not been built yet."}]}
-{"definition":"the dungeon rows the keyboard dungeon finder holds, read into the saved variables"}
-{"id":"01a0c513-4d66-7497-ad50-78e549ccb189"}
-{"slug":"lib-sets-debug-dungeon-finder"}
-{"type":"page-type/module"}

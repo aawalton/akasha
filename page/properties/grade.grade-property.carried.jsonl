@@ -1,7 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Every page may state a grade."}]}
-{"definition":"Alan's mark for how good a thing is"}
-{"id":"01a0655b-4a9b-7003-a822-f4a3ceda67b2"}
-{"propertySlug":"grade"}
-{"slug":"grade"}
-{"type":"page-type/grade-property"}
-{"types":"ts"}

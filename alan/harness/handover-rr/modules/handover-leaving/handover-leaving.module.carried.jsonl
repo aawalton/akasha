@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Leaving takes away the peripheral's own cookie and nothing else."},{"decisionKind":"decision-kind/departure","statement":"A reader who has left lands on the site's sign-in path."},{"decisionKind":"decision-kind/departure","statement":"A reader leaves by posting, and a leaving asked for by other means sends them home."},{"decisionKind":"decision-kind/absence","statement":"Nothing at alanwalton.com is told a reader left a peripheral."}]}
-{"definition":"ending a reader's session at a peripheral"}
-{"id":"01a0bcaf-ba47-7863-8afd-eaa22157f632"}
-{"slug":"handover-leaving"}
-{"type":"page-type/module"}

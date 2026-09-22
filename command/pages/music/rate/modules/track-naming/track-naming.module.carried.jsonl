@@ -1,8 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The track named is the one whose carrier holds the id Spotify says."},{"decisionKind":"decision-kind/departure","statement":"A track is found by any of the ids its carriers hold."},{"decisionKind":"decision-kind/departure","statement":"A player holding a track rather than playing it is read the same way."},{"decisionKind":"decision-kind/departure","statement":"A refusal says the Spotify id and the title Spotify gives."},{"decisionKind":"decision-kind/departure","statement":"The track played last is the first Spotify names among the tracks played recently."},{"decisionKind":"decision-kind/departure","statement":"That first track is the one before what is playing, and the last heard where nothing plays."},{"decisionKind":"decision-kind/absence","statement":"Nothing here reaches Spotify."}]}
-{"definition":"the track page a Spotify track points at"}
-{"id":"01a0c606-f30c-74f2-8729-f3a4ba12ce86"}
-{"slug":"track-naming"}
-{"test":"ts"}
-{"testFixtures":"ts"}
-{"type":"page-type/module"}

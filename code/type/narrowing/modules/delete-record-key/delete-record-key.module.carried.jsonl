@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"Lua compiled from this code empties a table key by assigning nothing."}]}
-{"definition":"a record key set to nothing rather than deleted"}
-{"id":"01a06057-367a-7da6-aab7-c707ebb15466"}
-{"slug":"delete-record-key"}
-{"type":"page-type/module"}

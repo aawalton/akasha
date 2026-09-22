@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value spelling no moment reads as the epoch."}]}
-{"definition":"the moment in milliseconds a value holds, however that value spells one"}
-{"id":"01a08dff-e11b-7ae5-995b-d7137e386294"}
-{"slug":"parse-timestamp"}
-{"type":"page-type/module"}

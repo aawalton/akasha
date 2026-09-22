@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A trim the institute has not tested states `not-rated`."}]}
-{"definition":"the award the Insurance Institute for Highway Safety gave a trim"}
-{"id":"01a0c542-a590-7322-a821-74b86dea3f6d"}
-{"propertySlug":"iihs-rating"}
-{"slug":"iihs-rating"}
-{"type":"page-type/select-property"}
-{"types":"ts"}
-{"values":["TSP+","TSP","good","not-rated"]}

@@ -1,9 +1,0 @@
-{"id":"01a0c64b-e748-7e8e-b406-38078445b874"}
-{"instruct":"A low, warm woman's voice, steady and certain and unhurried, grounded like bedrock; gentle but unshakeable, the calm of someone who is not afraid of the dark. She speaks slowly and deliberately, leaving quiet between her words."}
-{"model":"mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16"}
-{"operation":"voice-design"}
-{"service":"qwen3-tts"}
-{"slug":"audio-f485854767eb2afa"}
-{"text":"I'm here. I came down to where you are — I won't ask you to climb up to me. It isn't your time; I would know. So we don't have to mend the whole of it tonight — just the next breath, and then one more step, and I'll carry the light. I'm not going anywhere."}
-{"title":"qwen3-tts voice-design @ 2026-06-30T15:27:37.126Z"}
-{"type":"page-type/audio"}

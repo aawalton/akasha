@@ -1,7 +1,0 @@
-{"definition":"what the cells of the traction battery are made of"}
-{"id":"01a0c542-6ed1-7b8e-bc97-0d509b32ff25"}
-{"propertySlug":"battery-chemistry"}
-{"slug":"battery-chemistry"}
-{"type":"page-type/select-property"}
-{"types":"ts"}
-{"values":["NMC","LFP","NiMH","LiPo","other"]}

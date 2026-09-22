@@ -1,6 +1,0 @@
-{"code":"tsx"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An app is edited from the browser unless the app says otherwise."},{"decisionKind":"decision-kind/departure","statement":"An app that is not edited from the browser shows no act that would edit it."}]}
-{"definition":"whether a person edits an app from the browser"}
-{"id":"01a0c58c-04d2-7bea-9650-c9d6c4f1e22a"}
-{"slug":"app-editing"}
-{"type":"page-type/module"}

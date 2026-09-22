@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A title is granted for what an entity did rather than learnt or born with."}]}
-{"definition":"what an entity's game has named it for, and what each naming does"}
-{"id":"01a0c637-c898-7363-adde-6f63d61cdf22"}
-{"properties":[{"pageProperty":"text-property/listed-name","required":true,"many":false},{"pageProperty":"text-property/listed-effect","required":true,"many":false},{"pageProperty":"text-property/listed-source","required":false,"many":false}]}
-{"propertySlug":"titles"}
-{"slug":"entity-titles"}
-{"type":"page-type/record-property"}
-{"types":"ts"}

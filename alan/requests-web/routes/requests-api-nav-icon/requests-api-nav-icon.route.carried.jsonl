@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"definition":"the icon drawn for a nav entry"}
-{"id":"01a0c537-bb8b-78ad-a4d9-069e6c0134bb"}
-{"slug":"requests-api-nav-icon"}
-{"type":"page-type/route"}
-{"urlPath":"api/nav-icon/:idSuffix"}

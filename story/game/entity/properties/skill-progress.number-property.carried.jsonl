@@ -1,8 +1,0 @@
-{"definition":"how far an entity has got with a skill, which the skill's rung is read from"}
-{"id":"01a0c638-1e4d-7a99-af86-92422da9d97d"}
-{"max":null}
-{"nullable":false}
-{"propertySlug":"progress"}
-{"slug":"skill-progress"}
-{"type":"page-type/number-property"}
-{"types":"ts"}

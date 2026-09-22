@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Whether the dialog is on the screen is answered here."}]}
-{"definition":"the dialog asking the player to confirm an action the settings mark as needing it"}
-{"id":"01a06258-b52f-7911-b65b-636ea6e3179f"}
-{"slug":"inventory-rules-core-confirm-dialog"}
-{"type":"page-type/module"}

@@ -1,6 +1,0 @@
-{"code":"tsx"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page the relation already names is kept out of the candidates by its id."},{"decisionKind":"decision-kind/departure","statement":"A relation is taken away by the value the page carries rather than by an id."}]}
-{"definition":"the popover picking which pages a relation property points at"}
-{"id":"01a0617e-0d2d-7007-9b42-5b4f872dbcc8"}
-{"slug":"relation-popover"}
-{"type":"page-type/module"}

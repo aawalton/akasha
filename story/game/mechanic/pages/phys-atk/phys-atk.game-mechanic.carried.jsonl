@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"Might counts for half again as much as finesse."},{"decisionKind":"decision-kind/departure","statement":"The weapon's own attack is added whole."},{"decisionKind":"decision-kind/absence","statement":"Nothing is rounded here."}]}
-{"definition":"physical attack power, from might, finesse and the weapon a fighter holds"}
-{"id":"01a0c473-6eee-71da-89a1-85de833a7921"}
-{"slug":"phys-atk"}
-{"type":"page-type/game-mechanic"}

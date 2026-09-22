@@ -1,8 +1,0 @@
-{"id":"01a0c64f-1cb8-7d91-8f61-7043070104bd"}
-{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
-{"operation":"voice-clone"}
-{"service":"moss-tts"}
-{"slug":"audio-0ddcb5b5312f56e8"}
-{"text":"That one. I'm not proud. I know my one thing, and it's soup."}
-{"title":"moss-tts voice-clone @ 2026-07-17T21:23:45.105Z"}
-{"type":"page-type/audio"}

@@ -1,6 +1,0 @@
-{"code":"tsx"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The sidebar carries the nav pages whose app slug is `requests` and nothing else."},{"decisionKind":"decision-kind/absence","statement":"This frame has no bottom section."}]}
-{"definition":"the frame the Requests site draws every page inside"}
-{"id":"01a0c537-ba8c-76cf-8c53-2c9af0c65345"}
-{"slug":"requests-app-shell"}
-{"type":"page-type/module"}

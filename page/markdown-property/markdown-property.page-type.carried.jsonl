@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value of this kind is drawn as the markdown renders rather than as its source."}]}
-{"definition":"a page property holding text written as markdown"}
-{"extends":["page-type/text-property"]}
-{"id":"01a0c4f3-6a9a-7a40-b177-153e253975d5"}
-{"schema":"jsonl"}
-{"shapes":"jsonl"}
-{"slug":"markdown-property"}
-{"type":"page-type/page-type"}
-{"types":"ts"}

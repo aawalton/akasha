@@ -1,6 +1,0 @@
-{"answeredBy":"persona/elin"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This reader holds accesses of its own rather than those the reader nobody signed in as holds."},{"decisionKind":"decision-kind/departure","statement":"Every access this reader holds narrows to one world."}]}
-{"definition":"the reader innworld.wiki answers when nobody signed in"}
-{"id":"01a0c5f6-0a35-7f1f-88e3-213ea6f2d35d"}
-{"slug":"innworld-visitor"}
-{"type":"page-type/person"}

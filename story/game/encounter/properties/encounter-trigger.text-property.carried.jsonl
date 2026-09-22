@@ -1,8 +1,0 @@
-{"definition":"what the player does that sets an encounter going"}
-{"id":"01a0c647-c745-7738-80ec-1bb7629351a1"}
-{"maxLength":500}
-{"nameFormat":null}
-{"propertySlug":"trigger"}
-{"slug":"encounter-trigger"}
-{"type":"page-type/text-property"}
-{"types":"ts"}

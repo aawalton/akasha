@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"What an entity wears and what an entity carries are one list."},{"decisionKind":"decision-kind/departure","statement":"Which of the two a thing is is read off the slot that thing fills."}]}
-{"definition":"what an entity wears, holds and carries, and what each of them is worth"}
-{"id":"01a0c63a-77a8-7aa8-ae8c-141b34ac194b"}
-{"properties":[{"pageProperty":"text-property/listed-name","required":true,"many":false},{"pageProperty":"text-property/equipment-slot","required":false,"many":false},{"pageProperty":"number-property/equipment-attack","required":false,"many":false},{"pageProperty":"number-property/equipment-defense","required":false,"many":false},{"pageProperty":"relation-property/scaled-by","required":false,"many":false},{"pageProperty":"text-property/listed-note","required":false,"many":false}]}
-{"propertySlug":"equipment"}
-{"slug":"entity-equipment"}
-{"type":"page-type/record-property"}
-{"types":"ts"}

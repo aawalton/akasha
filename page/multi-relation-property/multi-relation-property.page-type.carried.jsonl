@@ -1,9 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value of this kind is a list of relations rather than one relation."},{"decisionKind":"decision-kind/departure","statement":"Each relation the list holds is drawn as a chip of its own."}]}
-{"definition":"a page property holding many relations to pages of one page type"}
-{"extends":["page-type/relation-property"]}
-{"id":"01a0c4f3-6a9a-7368-b588-9ec85cc4ade3"}
-{"schema":"jsonl"}
-{"shapes":"jsonl"}
-{"slug":"multi-relation-property"}
-{"type":"page-type/page-type"}
-{"types":"ts"}

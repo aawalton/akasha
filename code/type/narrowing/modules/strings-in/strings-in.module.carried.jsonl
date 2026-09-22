@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A value that is no array holds no strings."},{"decisionKind":"decision-kind/departure","statement":"An entry that is no string is dropped rather than refusing the whole value."},{"decisionKind":"decision-kind/departure","statement":"An empty string is an entry rather than read as nothing."}]}
-{"definition":"the strings a value holds, in the order that value holds them"}
-{"id":"01a09098-65cc-71fb-95a6-57732926c1c8"}
-{"slug":"strings-in"}
-{"type":"page-type/module"}

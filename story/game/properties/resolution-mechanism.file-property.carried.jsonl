@@ -1,8 +1,0 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A game naming mechanics settles a turn by running one, and says here how it is run."},{"decisionKind":"decision-kind/gap","statement":"One game naming no mechanic takes its numbers from rules outside this repository."}]}
-{"definition":"the machinery a game settles an action with"}
-{"extensions":["json"]}
-{"id":"01a0673c-8e0e-7013-ae6f-047f588f0390"}
-{"propertySlug":"resolution-mechanism"}
-{"slug":"resolution-mechanism"}
-{"type":"page-type/file-property"}
-{"types":"ts"}

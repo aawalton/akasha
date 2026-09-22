@@ -1,7 +1,0 @@
-{"definition":"how much of the traction battery's energy the car uses, in kilowatt hours"}
-{"id":"01a0c545-4862-70c7-92e5-5186171592d2"}
-{"max":null}
-{"propertySlug":"battery-kwh-usable"}
-{"slug":"battery-kwh-usable"}
-{"type":"page-type/number-property"}
-{"types":"ts"}

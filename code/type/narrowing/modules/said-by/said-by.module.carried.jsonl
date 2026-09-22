@@ -1,6 +1,0 @@
-{"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A thrown thing is read for a message."},{"decisionKind":"decision-kind/departure","statement":"A thrown thing is made to speak even where that thing is no Error."}]}
-{"definition":"what a thrown thing says"}
-{"id":"01a08dd6-adb6-77d6-8c13-b314dea2f9c9"}
-{"slug":"said-by"}
-{"type":"page-type/module"}

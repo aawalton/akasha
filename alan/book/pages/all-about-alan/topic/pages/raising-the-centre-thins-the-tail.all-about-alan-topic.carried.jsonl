@@ -1,8 +1,0 @@
-{"definition":"the arithmetic by which a higher safety centre makes a breach at a given severity rare"}
-{"id":"01a0c599-d963-74ba-a89e-11bfd82c378a"}
-{"parents":["all-about-alan-topic/how-an-alarm-wears-off"]}
-{"related":["all-about-alan-topic/the-rungs-of-my-safety-scale","all-about-alan-topic/how-safety-climbs"]}
-{"settled":"My safety has a base half-step level with a roughly normal distribution around it. A half step up is a one sigma move and a half step down is a one sigma move.\n\nThe lever is the centre rather than the spread. Lift the centre high enough and any given severity of adverse experience is an arbitrary number of sigmas out. A severity that is a one sigma event at a low centre becomes a three or four sigma event at a high one, so breaches at that severity get arbitrarily rare.\n\nThe tail thins faster than linearly past any fixed severity. That is how the breach rate gets low enough, for long enough, against a schedule that would otherwise keep breaching my line.\n\nIt never cuts the tail off. A truly catastrophic case becomes arbitrarily rare rather than impossible, and I hope to live a life where those never happen.\n\nSafety dips and recovers around its centre, and a breach during a dip is fresh reinforcement that resets the clock."}
-{"slug":"raising-the-centre-thins-the-tail"}
-{"title":"Raising The Centre Thins The Tail"}
-{"type":"page-type/all-about-alan-topic"}
