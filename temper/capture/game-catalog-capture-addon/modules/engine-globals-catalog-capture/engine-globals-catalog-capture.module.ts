@@ -55,16 +55,15 @@ export const engineGlobalsCatalogCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "No word a global holds is saved, because which words the game refuses is unknown.",
+      statement: "The words the globals hold are saved apart from every other constant.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A global holding a word is kept as that global's name alone.",
+      statement: "A word the game refuses therefore loses the words alone.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The word a global holds is captured.",
+      decisionKind: "decision-kind/departure",
+      statement: "A global holding a word is kept by name as well, so the name outlives the word.",
     },
     {
       decisionKind: "decision-kind/departure",

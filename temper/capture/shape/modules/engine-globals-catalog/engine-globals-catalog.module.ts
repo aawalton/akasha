@@ -18,6 +18,10 @@ export const engineGlobalsCatalog = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The names of the constants holding words are kept apart from the words again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The API version the game answers with is kept beside the constants it gave.",
     },
     {

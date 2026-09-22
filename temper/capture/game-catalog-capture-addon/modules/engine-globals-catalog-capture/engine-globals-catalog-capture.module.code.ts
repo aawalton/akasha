@@ -10,6 +10,7 @@ const NOTHING = 0
 interface Found {
   readonly numbers: Record<string, number>
   readonly named: string[]
+  readonly words: Record<string, string>
   readonly unwritable: string[]
 }
 
@@ -29,6 +30,7 @@ function keepGlobal(this: void, found: Found, name: string): undefined {
     }
   } else if (typeof held === "string") {
     found.named[found.named.length] = name
+    found.words[name] = held
   }
 }
 
@@ -47,13 +49,14 @@ function listGlobals(this: void, found: Found): string {
 }
 
 function collectEngineGlobalsCatalog(this: void, onComplete: (this: void) => void): undefined {
-  const found: Found = { numbers: {}, named: [], unwritable: [] }
+  const found: Found = { numbers: {}, named: [], words: {}, unwritable: [] }
   const listedBy = listGlobals(found)
   getSavedVariables().engineGlobalsCatalog = {
     apiVersion: GetAPIVersion(),
     listedBy,
     numbers: found.numbers,
     named: found.named,
+    words: found.words,
     unwritable: found.unwritable,
   }
   onComplete()
