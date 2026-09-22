@@ -7,6 +7,7 @@ import { addFilePage } from "akasha/change/mechanical/file/add/add-file-page/add
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { removeFilePage } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
 import { addPropertyValue } from "akasha/change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts"
+import { changeFileContentPage } from "akasha/change/mechanical/file-content/change/change-file-content-page/change-file-content-page.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import {
   type Asking,
@@ -57,6 +58,7 @@ import {
   namingOf,
   pageBodyFor,
   pagesWrittenBy,
+  stampRestated,
 } from "akasha/temper/eso/declaration/modules/eso-declaration-pages/eso-declaration-pages.module.code.ts"
 import {
   enumGroups,
@@ -88,6 +90,8 @@ const MAKE = `${changeMechanical.slug}/${addFilePage.slug}` as const
 const DROP = `${changeMechanicalFile.slug}/${removeFilePage.slug}` as const
 
 const NAME = `${changeMechanicalFileContent.slug}/${addPropertyValue.slug}` as const
+
+const STAMP = `${changeMechanicalFileContent.slug}/${changeFileContentPage.slug}` as const
 
 const MESSAGE = "the game's API declarations, read out of the game's own documentation"
 
@@ -279,6 +283,7 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
   const bodies: (readonly [string, string])[] = []
   let made = 0
   let gone = 0
+  let stamped = 0
 
   for (const [which, kind] of KINDS.entries()) {
     const [prefix, definition] = kind
@@ -326,6 +331,11 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
         }
       }
       if (was?.body !== body) asked.push({ at: PUT, given: { at: beside, body } })
+      const restated = was === undefined ? null : stampRestated(was.page, writer, apiVersion)
+      if (was !== undefined && restated !== null) {
+        stamped += 1
+        asked.push({ at: STAMP, given: { at: was.at, old: restated.old, new: restated.new } })
+      }
     }
     for (const one of mine.slice(pages.length)) {
       gone += 1
@@ -358,7 +368,7 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
       `are declared over ${String(bodies.length)} page(s)`,
     asked.length === 0
       ? "every page already held what it holds now, so nothing landed"
-      : `landed ${String(asked.length)} change(s), ${String(made)} page(s) made and ${String(gone)} taken away`,
+      : `landed ${String(asked.length)} change(s), ${String(made)} page(s) made, ${String(gone)} taken away and ${String(stamped)} stamped again`,
     `read from ${docPath} at API version ${String(apiVersion)}`,
   ])
 }

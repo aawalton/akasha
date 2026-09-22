@@ -26,13 +26,40 @@ const WRITTEN_BY = "writtenBy"
 
 const SLUG = "slug"
 
+const SOURCE_VERSION = "sourceVersion"
+
 const TYPES = "akasha/code/type-declaration/type-declaration.page-type.types.ts"
+
+const STAMP = /^([ \t]*)generated: (\{[^}]*\})(,?)$/m
 
 export type Paged = {
   readonly slug: string
   readonly at: string
   readonly beside: string
   readonly body: string
+  readonly page: string
+}
+
+export type Restating = {
+  readonly old: string
+  readonly new: string
+}
+
+function stampLine(space: string, writer: string, sourceVersion: number, comma: string): string {
+  const held = `{ ${WRITTEN_BY}: "${writer}", ${SOURCE_VERSION}: ${String(sourceVersion)} }`
+  return `${space}${GENERATED}: ${held}${comma}`
+}
+
+export function stampRestated(
+  page: string,
+  writer: string,
+  sourceVersion: number
+): Restating | null {
+  const found = STAMP.exec(page)
+  if (found === null) return null
+  const was = found[0]
+  const now = stampLine(found[1] ?? "", writer, sourceVersion, found[3] ?? "")
+  return was === now ? null : { old: was, new: now }
 }
 
 export function writtenBy(value: Value, writer: string): boolean {
@@ -55,7 +82,11 @@ export function pagesWrittenBy(root: string, writer: string): readonly Paged[] {
     try {
       body = readFileSync(resolve(root, beside), "utf8")
     } catch {}
-    found.push({ slug, at: listed.path, beside, body })
+    let held = ""
+    try {
+      held = readFileSync(resolve(root, listed.path), "utf8")
+    } catch {}
+    found.push({ slug, at: listed.path, beside, body, page: held })
   }
   return [...found].sort((one, other) => one.slug.localeCompare(other.slug))
 }
@@ -77,7 +108,6 @@ export function pageBodyFor(
   writer: string,
   sourceVersion: number
 ): string {
-  const stamp = `{ ${WRITTEN_BY}: "${writer}", sourceVersion: ${String(sourceVersion)} }`
   return `${[
     `import type { TypeDeclaration } from "${TYPES}"`,
     "",
@@ -86,7 +116,7 @@ export function pageBodyFor(
     `  ${SLUG}: "${slug}",`,
     `  definition: "${definition}",`,
     `  ${AMBIENT_KEY}: "${AMBIENT_KIND}",`,
-    `  ${GENERATED}: ${stamp},`,
+    stampLine("  ", writer, sourceVersion, ","),
     "} as const satisfies TypeDeclaration",
   ].join("\n")}\n`
 }

@@ -112,8 +112,16 @@ export const temperEsoGenerateDeclaration = {
       statement: "A body formatted here is what a page is compared against, so a run is honest.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The API version a page states is written again when that version moves.",
+      decisionKind: "decision-kind/departure",
+      statement: "A page stating a version behind the documentation's is stamped again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the line carrying the stamp is written, so the rest of the page is kept.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A page carries an id and a definition no run of this command composes.",
     },
     {
       decisionKind: "decision-kind/departure",
