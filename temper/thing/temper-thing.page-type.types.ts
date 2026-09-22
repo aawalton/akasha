@@ -1,6 +1,5 @@
 import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { AccountPage } from "akasha/temper/thing/properties/account-page.text-property.types.ts"
-import type { Category } from "akasha/temper/thing/properties/category.text-property.types.ts"
 import type { CategoryId } from "akasha/temper/thing/properties/category-id.text-property.types.ts"
 import type { CompanionId } from "akasha/temper/thing/properties/companion-id.relation-property.types.ts"
 import type { DisplayOrder } from "akasha/temper/thing/properties/display-order.number-property.types.ts"
@@ -14,7 +13,6 @@ export type TemperThing = Page & {
   displayOrder?: DisplayOrder
   accountPage?: AccountPage
   categoryId?: CategoryId
-  category?: Category
   companionId?: CompanionId
   esoCharacterId?: EsoCharacterId
 }

@@ -3,12 +3,10 @@
 {"propertySlug":"import","fileName":"category.text-property.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.types.ts"}
 {"propertySlug":"import","fileName":"category.text-property.types.ts","path":"temper/catalog/pursuit/temper-tribute-patron/temper-tribute-patron.page-type.types.ts"}
 {"propertySlug":"import","fileName":"category.text-property.types.ts","path":"temper/player/character/temper-skill-point/temper-skill-point.page-type.types.ts"}
-{"propertySlug":"import","fileName":"category.text-property.types.ts","path":"temper/thing/temper-thing.page-type.types.ts"}
 {"propertySlug":"page-property","path":"alan/chess/progress/chess-progress.page-type.ts","id":"01a06582-bd62-702f-92a4-3fd313251ee2"}
 {"propertySlug":"page-property","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.ts","id":"01a05fd8-c30f-72c4-9102-9b3dbc179f51"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts","id":"01a05fce-1854-7d72-872a-0e22ce5c84c5"}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.ts","id":"01a06168-7245-7000-bc3b-b40339a88d31"}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-tribute-patron/temper-tribute-patron.page-type.ts","id":"01a06153-0ea9-7008-ab66-7b7e073ebf51"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-skill-point/temper-skill-point.page-type.ts","id":"01a05fcd-f559-75c5-bd78-0041c552d484"}
-{"propertySlug":"page-property","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
 {"propertySlug":"parts","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}

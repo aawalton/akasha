@@ -10,13 +10,13 @@ export const temperThing = {
   parts: [
     "number-property/display-order",
     "text-property/account-page",
-    "text-property/category",
     "text-property/category-id",
     "relation-property/companion-id",
     "text-property/eso-character-id",
     "text-property/icon",
     "text-property/key",
     "text-property/zone-name",
+    "text-property/category",
   ],
   properties: [
     { pageProperty: "text-property/key", required: false, many: false },
@@ -24,7 +24,6 @@ export const temperThing = {
     { pageProperty: "number-property/display-order", required: false, many: false },
     { pageProperty: "text-property/account-page", required: false, many: false },
     { pageProperty: "text-property/category-id", required: false, many: false },
-    { pageProperty: "text-property/category", required: false, many: false },
     { pageProperty: "relation-property/companion-id", required: false, many: false },
     { pageProperty: "text-property/eso-character-id", required: false, many: false },
   ],

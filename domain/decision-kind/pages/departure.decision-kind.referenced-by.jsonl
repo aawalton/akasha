@@ -5514,6 +5514,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/skill-morph/access/temper-skill-morph-access.domain.ts","id":"01a061e2-5e38-795d-b1f0-b50d142c48d5"}
 {"propertySlug":"decision-kind","path":"temper/player/skill-morph/temper-skill-morph.domain.ts","id":"01a061c7-0738-7e24-b2fa-36e9b8781b9c"}
 {"propertySlug":"decision-kind","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}
+{"propertySlug":"decision-kind","path":"temper/thing/properties/category.text-property.ts","id":"01a05fba-ce38-7d43-8178-11d7822b6825"}
 {"propertySlug":"decision-kind","path":"temper/thing/properties/companion-id.relation-property.ts","id":"01a05fba-ce39-74ad-926f-d6a5d9908dfc"}
 {"propertySlug":"decision-kind","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.ts","id":"01a06084-d41a-7898-b2c6-0be1faa981da"}
