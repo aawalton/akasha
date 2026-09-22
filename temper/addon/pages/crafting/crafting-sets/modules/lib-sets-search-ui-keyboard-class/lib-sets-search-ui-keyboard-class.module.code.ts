@@ -1,7 +1,4 @@
-import {
-  asGlobalTable,
-  asTyped,
-} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { asTyped } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { getSharedSearchUIClass } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-search-ui-shapes-3/lib-sets-search-ui-shapes-3.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-search-ui-shapes-4/lib-sets-search-ui-shapes-4.type-declaration.d.ts"
@@ -48,5 +45,3 @@ function asKeyboardClassAssign(value: unknown): KeyboardClassAssign {
 export function getKeyboardSearchUIClassForOverride(this: void): KeyboardClassAssign {
   return asKeyboardClassAssign(keyboardClass)
 }
-
-asGlobalTable(globalThis).LibSets_SearchUI_Keyboard = keyboardClass

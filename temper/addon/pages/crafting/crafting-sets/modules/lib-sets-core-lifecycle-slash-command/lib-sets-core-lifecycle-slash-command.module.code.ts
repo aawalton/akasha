@@ -13,9 +13,13 @@ import {
   asDebugParamMap,
   asParamBoolMap,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
+import {
+  libSetsSearchUISharedIsShown,
+  libSetsSearchUISharedToggleUI,
+  libSetsSearchUISharedUpdateSearch,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-xml-handlers/lib-sets-search-ui-shared-xml-handlers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-search-ui-globals/lib-sets-search-ui-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lib-sets-dlc/eso-lib-sets-dlc.type-declaration.d.ts"
@@ -52,14 +56,14 @@ function getOptionsFromSlashCommandString(this: void, slashCommandString: string
 }
 
 function slashSearch(this: void, slashOptions?: unknown[]): undefined {
-  if (LibSets_SearchUI_Shared_IsShown() === true) {
+  if (libSetsSearchUISharedIsShown() === true) {
     if (slashOptions !== undefined && slashOptions.length > 0) {
-      LibSets_SearchUI_Shared_UpdateSearch(slashOptions)
+      libSetsSearchUISharedUpdateSearch(slashOptions)
     } else {
-      LibSets_SearchUI_Shared_ToggleUI()
+      libSetsSearchUISharedToggleUI()
     }
   } else {
-    LibSets_SearchUI_Shared_ToggleUI(slashOptions)
+    libSetsSearchUISharedToggleUI(slashOptions)
   }
 }
 

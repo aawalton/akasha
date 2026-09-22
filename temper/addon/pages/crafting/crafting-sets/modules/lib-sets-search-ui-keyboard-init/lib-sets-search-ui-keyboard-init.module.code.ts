@@ -11,6 +11,7 @@ import {
   getKeyboardSearchUIClass,
   getKeyboardSearchUIClassForOverride,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
+import { getSearchUIListClass } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-list-class/lib-sets-search-ui-list-class.module.code.ts"
 import { getSharedSuper } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-class/lib-sets-search-ui-shared-class.module.code.ts"
 import { searchUIName } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
@@ -311,7 +312,7 @@ keyboardOverride.Initialize = function (
   this.counterControl = content.GetNamedChild("Counter")
 
   this.resultsListControl = content.GetNamedChild("List")
-  this.resultsList = LibSets_SearchUI_List.New(content, this)
+  this.resultsList = getSearchUIListClass().New(content, this)
 
   this.LoadSearchUIPositionAndSize()
 

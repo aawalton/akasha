@@ -166,7 +166,7 @@ function libSetsSearchUISharedRowOnMouseExit(this: void, rowControl: SearchUICon
   }
 }
 
-function libSetsSearchUISharedBringWindowToTop(this: void): undefined {
+export function libSetsSearchUISharedBringWindowToTop(this: void): undefined {
   if (IsInGamepadPreferredMode()) {
   } else {
     const keyboard = getKeyboardSearchUI()
@@ -176,7 +176,7 @@ function libSetsSearchUISharedBringWindowToTop(this: void): undefined {
   }
 }
 
-function libSetsSearchUISharedToggleUI(this: void, slashOptions?: unknown): undefined {
+export function libSetsSearchUISharedToggleUI(this: void, slashOptions?: unknown): undefined {
   if (IsInGamepadPreferredMode()) {
     const gamepad = getGamepadSearchUI()
     if (gamepad !== undefined) {
@@ -190,7 +190,7 @@ function libSetsSearchUISharedToggleUI(this: void, slashOptions?: unknown): unde
   }
 }
 
-function libSetsSearchUISharedIsShown(this: void): boolean | undefined {
+export function libSetsSearchUISharedIsShown(this: void): boolean | undefined {
   if (IsInGamepadPreferredMode()) {
     const gamepad = getGamepadSearchUI()
     if (gamepad !== undefined) {
@@ -205,7 +205,7 @@ function libSetsSearchUISharedIsShown(this: void): boolean | undefined {
   return undefined
 }
 
-function libSetsSearchUISharedUpdateSearch(this: void, slashOptions?: unknown): undefined {
+export function libSetsSearchUISharedUpdateSearch(this: void, slashOptions?: unknown): undefined {
   if (IsInGamepadPreferredMode()) {
     const gamepad = getGamepadSearchUI()
     if (gamepad !== undefined) {
@@ -225,10 +225,6 @@ globalTable.LibSets_SearchUI_Shared_Dropdown_OnMouseUp = libSetsSearchUISharedDr
 globalTable.LibSets_SearchUI_Shared_Row_OnMouseUp = libSetsSearchUISharedRowOnMouseUp
 globalTable.LibSets_SearchUI_Shared_Row_OnMouseEnter = libSetsSearchUISharedRowOnMouseEnter
 globalTable.LibSets_SearchUI_Shared_Row_OnMouseExit = libSetsSearchUISharedRowOnMouseExit
-globalTable.LibSets_SearchUI_Shared_BringWindowToTop = libSetsSearchUISharedBringWindowToTop
-globalTable.LibSets_SearchUI_Shared_ToggleUI = libSetsSearchUISharedToggleUI
-globalTable.LibSets_SearchUI_Shared_IsShown = libSetsSearchUISharedIsShown
-globalTable.LibSets_SearchUI_Shared_UpdateSearch = libSetsSearchUISharedUpdateSearch
 
 asSharedClassGlobalThis(globalThis).LibSets_SearchUI_Shared =
   brandSharedSearchUIClassGlobal(sharedClass)

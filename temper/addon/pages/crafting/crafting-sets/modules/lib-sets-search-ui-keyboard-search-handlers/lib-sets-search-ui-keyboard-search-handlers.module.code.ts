@@ -3,9 +3,9 @@ import { asLibSetsSearchUIKeyboardObjectOpt } from "akasha/temper/addon/pages/cr
 import { getKeyboardSearchUIClass } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-keyboard-class/lib-sets-search-ui-keyboard-class.module.code.ts"
 import {
   getKeyboardSearchUI,
-  getSharedBringWindowToTop,
   setKeyboardSearchUI,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-searchui-globals/lib-sets-search-ui-searchui-globals.module.code.ts"
+import { libSetsSearchUISharedBringWindowToTop } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-xml-handlers/lib-sets-search-ui-shared-xml-handlers.module.code.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -16,14 +16,14 @@ let currentWidth: number | undefined
 let currentHeight: number | undefined
 let updateListColumnWithCounter = 0
 
-function libSetsSearchUIKeyboardTopLevelOnResize(
+export function libSetsSearchUIKeyboardTopLevelOnResize(
   this: void,
   selfControl: SearchUIControl,
   resizeStart: boolean,
   forceResizeNow?: boolean
 ): undefined {
   ZO_Tooltips_HideTextTooltip()
-  getSharedBringWindowToTop()()
+  libSetsSearchUISharedBringWindowToTop()
   const libSetsSearchUIKeyboardObject = asLibSetsSearchUIKeyboardObjectOpt(selfControl._object)
   if (libSetsSearchUIKeyboardObject === undefined) {
     return
@@ -58,14 +58,14 @@ function libSetsSearchUIKeyboardTopLevelOnMove(
   moveStart: boolean
 ): undefined {
   ZO_Tooltips_HideTextTooltip()
-  getSharedBringWindowToTop()()
+  libSetsSearchUISharedBringWindowToTop()
   const libSetsSearchUIKeyboardObject = asLibSetsSearchUIKeyboardObjectOpt(selfControl._object)
   if (!moveStart && libSetsSearchUIKeyboardObject !== undefined) {
     libSetsSearchUIKeyboardObject.SaveSearchUIPositionAndSize(selfControl)
   }
 }
 
-function libSetsSearchUIKeyboardTopLevelOnInitialized(
+export function libSetsSearchUIKeyboardTopLevelOnInitialized(
   this: void,
   selfControl: SearchUIControl
 ): undefined {

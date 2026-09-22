@@ -9,7 +9,7 @@ export const libSetsSearchUiListClass = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The class is placed on the game global LibSets_SearchUI_List by assignment.",
+      statement: "The class is reached by importing the function that answers it.",
     },
   ],
 } as const satisfies Module

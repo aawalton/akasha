@@ -9,10 +9,6 @@ export const libSetsSearchUiKeyboardClass = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The class is also placed on the game global as LibSets_SearchUI_Keyboard.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A further view of this class is typed for overriding.",
     },
   ],
