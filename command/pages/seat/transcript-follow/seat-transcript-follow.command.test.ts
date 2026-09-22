@@ -108,6 +108,17 @@ test("thinking, a tool call and a tool answer are no part of what the agent wrot
   expect(exchangesIn(text, null)).toEqual([{ uuid: "u1", said: "hello", replied: "done" }])
 })
 
+test("the words the agent wrote across records join into what was replied", () => {
+  const text = linesOf([
+    asked("u1", "hello"),
+    answeredWith("first"),
+    THINKING,
+    answeredWith("second"),
+  ])
+
+  expect(exchangesIn(text, null)).toEqual([{ uuid: "u1", said: "hello", replied: "first\nsecond" }])
+})
+
 test("a last turn with nothing written back yet is answered nowhere", () => {
   const text = linesOf([asked("u1", "hello"), answeredWith("hi"), asked("u2", "again"), THINKING])
 
