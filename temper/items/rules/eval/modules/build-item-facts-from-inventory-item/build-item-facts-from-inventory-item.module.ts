@@ -5,7 +5,7 @@ export const buildItemFactsFromInventoryItem = {
   type: "page-type/module",
   slug: "build-item-facts-from-inventory-item",
   definition:
-    "the evaluable facts of one item, projected out of the game client's inventory item record",
+    "the evaluable facts of an item, projected out of the game client's inventory item record",
   code: "ts",
   decisions: [
     {
