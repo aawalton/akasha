@@ -41,6 +41,20 @@ test("a property naming many pages takes the target it names itself, and opens n
   expect(known.targetOf("design")).toBe(null)
 })
 
+test("a property of a kind extending a relation takes the target it names, as a relation does", () => {
+  const { root, repo } = grounded()
+  declaring(
+    root,
+    "multi-relation-property",
+    "many-parts",
+    { propertySlug: "many-parts", targetPageType: "domain" },
+    repo
+  )
+  const known = knownAt(root, repo)
+
+  expect(known.targetOf("many-parts")).toBe("domain")
+})
+
 test("a page type admits a target every page type it extends up to also admits", () => {
   const { root, repo } = grounded()
   const known = knownAt(root, repo)

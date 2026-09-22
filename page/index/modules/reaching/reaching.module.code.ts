@@ -95,7 +95,7 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
   const keyOfSlug = new Map<string, string>()
   const keyed = new Map<string, string[]>()
   for (const held of shapesAt(reading).values()) {
-    const named = held.pageTypeSlug === "relation-property" ? held.targetPageTypeSlug : null
+    const named = held.targetPageTypeSlug
     if (named !== null) target.set(held.slug, named)
     if (held.propertySlug === "") continue
     const key = exportedAs(held.propertySlug)

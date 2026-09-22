@@ -14,6 +14,10 @@ export const reaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A property declaring a target is a relation, whatever kind of property it is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A page's key reaches the property stating that key rather than the property its slug camelises to.",
     },
