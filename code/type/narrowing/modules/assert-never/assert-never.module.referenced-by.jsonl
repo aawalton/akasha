@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-revive/recipient-resolver-revive.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness/supervisor-gateway-liveness.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-spawn-gateway/supervisor-spawn-gateway.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"agent/seat/name/modules/seat-session-rename/seat-session-rename.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"alan/chess/modules/board/chess-board.module.code.tsx"}

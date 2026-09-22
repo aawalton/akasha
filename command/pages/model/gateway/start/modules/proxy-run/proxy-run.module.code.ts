@@ -1,7 +1,7 @@
 import { closeSync, mkdirSync, openSync } from "node:fs"
 import { join } from "node:path"
 import { modelGatewayEntrypoint } from "akasha/agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
-import { readFirstLineAsPort } from "akasha/agent/seat/model-gateway/modules/supervisor-proxy-port-line/supervisor-proxy-port-line.module.code.ts"
+import { readFirstLineAsPort } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-port-line/supervisor-gateway-port-line.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import {
   agentRuntimeDir,

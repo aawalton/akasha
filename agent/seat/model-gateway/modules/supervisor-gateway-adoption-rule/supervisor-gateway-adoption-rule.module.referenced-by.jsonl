@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"supervisor-gateway-adoption-rule.module.code.ts","path":"agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-gateway-adoption-rule.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-spawn-gateway/supervisor-spawn-gateway.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-gateway-adoption-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-gateway-adoption-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.code.ts"}
+{"propertySlug":"parts","path":"agent/seat/model-gateway/seat-model-gateway.domain.ts","id":"01a08866-3c3f-734b-a28f-34e79b39e012"}

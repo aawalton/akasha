@@ -1,7 +1,7 @@
 import { computeModelGatewayTreeVersion } from "akasha/agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
-import { startProxyLivenessMonitor } from "akasha/agent/seat/model-gateway/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"
-import type { ProxyLivenessRuleSource } from "akasha/agent/seat/model-gateway/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
-import { handleProxyVersionUpdate } from "akasha/agent/seat/model-gateway/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
+import { startProxyLivenessMonitor } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-liveness/supervisor-gateway-liveness.module.code.ts"
+import type { ProxyLivenessRuleSource } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-liveness-rule/supervisor-gateway-liveness-rule.module.code.ts"
+import { handleProxyVersionUpdate } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"
 import { pollSupervisorFileVersion } from "akasha/agent/seat/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"
 import { handleVersionUpdate } from "akasha/agent/seat/self-healing/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"
 import {

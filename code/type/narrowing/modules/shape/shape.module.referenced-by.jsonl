@@ -6,9 +6,9 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-config/recipient-resolver-config.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/modules/launch-flags/launch-flags.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/modules/tool-access/tool-access.module.code.ts"}
-{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"}
-{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"}
-{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-port-line/supervisor-proxy-port-line.module.code.ts"}
+{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-adoption-rule/supervisor-gateway-adoption-rule.module.code.ts"}
+{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness-rule/supervisor-gateway-liveness-rule.module.code.ts"}
+{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-port-line/supervisor-gateway-port-line.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/modules/window-duration/window-duration.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/self-healing/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"}

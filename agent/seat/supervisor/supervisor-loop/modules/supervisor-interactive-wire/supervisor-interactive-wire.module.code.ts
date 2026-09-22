@@ -1,4 +1,4 @@
-import { triggerProxySwap } from "akasha/agent/seat/model-gateway/modules/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
+import { triggerProxySwap } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"
 import { buildAgentActionSubsystem } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"
 import {
   clearRequestedAction,

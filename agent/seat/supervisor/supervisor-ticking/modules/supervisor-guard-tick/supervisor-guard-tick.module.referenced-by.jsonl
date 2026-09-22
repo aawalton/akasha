@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"supervisor-guard-tick.module.code.ts","path":"agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-guard-tick.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-guard-tick.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness/supervisor-gateway-liveness.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-guard-tick.module.code.ts","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-guard-tick.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.test.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-ticking/supervisor-ticking.domain.ts","id":"01a09c83-7bdc-70d7-8e92-d0198b88cd4e"}

@@ -262,10 +262,10 @@
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/properties/seat-name.text-property.ts","id":"01a0657c-cb14-7705-a95e-4fca37cc48c2"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/seat-log-day.page-type.ts","id":"01a0657c-cb14-7b5b-a206-18059a84a88a"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-source/log-source.page-type.ts","id":"01a0657c-cb14-7c6f-83df-0d533f4f7821"}
-{"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/seat-proxy-state/seat-proxy-state.module.ts","id":"01a06949-b281-74be-8e33-ceb172d49567"}
-{"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/supervisor-proxy-adoption-decide/supervisor-proxy-adoption-decide.module.ts","id":"01a06838-5a84-7004-bfa3-4f11134ef503"}
-{"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.ts","id":"01a06838-5a84-7005-8c03-97e98844c99e"}
-{"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.ts","id":"01a06876-abda-7018-ac05-91daba56bc7b"}
+{"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/seat-gateway-state/seat-gateway-state.module.ts","id":"01a06949-b281-74be-8e33-ceb172d49567"}
+{"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/supervisor-gateway-adoption-decide/supervisor-gateway-adoption-decide.module.ts","id":"01a06838-5a84-7004-bfa3-4f11134ef503"}
+{"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness-decide/supervisor-gateway-liveness-decide.module.ts","id":"01a06838-5a84-7005-8c03-97e98844c99e"}
+{"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/supervisor-spawn-gateway/supervisor-spawn-gateway.module.ts","id":"01a06876-abda-7018-ac05-91daba56bc7b"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/tmux-session/tmux-session.module.ts","id":"01a0c9ed-0747-74e1-adb1-380621bd6c5d"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/window-duration/window-duration.module.ts","id":"01a069e8-c315-7c16-b624-a471a8e9cdec"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.ts","id":"01a06949-b281-7447-ab77-9ecbb5f9f139"}

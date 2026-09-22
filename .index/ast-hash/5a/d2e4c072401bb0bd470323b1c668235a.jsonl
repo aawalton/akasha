@@ -1,1 +1,1 @@
-{"path":"agent/seat/model-gateway/modules/supervisor-proxy-ownership/supervisor-proxy-ownership.module.code.ts","name":"stopProxyIfOwned"}
+{"path":"agent/seat/model-gateway/modules/supervisor-gateway-ownership/supervisor-gateway-ownership.module.code.ts","name":"stopProxyIfOwned"}

@@ -1,6 +1,6 @@
 import type { SeatMatch } from "akasha/agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"
 import { resolveSeatTarget } from "akasha/agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"
-import { readProxyState } from "akasha/agent/seat/model-gateway/modules/seat-proxy-state/seat-proxy-state.module.code.ts"
+import { readProxyState } from "akasha/agent/seat/model-gateway/modules/seat-gateway-state/seat-gateway-state.module.code.ts"
 import {
   describeAckTimeout,
   setRequestedAction,

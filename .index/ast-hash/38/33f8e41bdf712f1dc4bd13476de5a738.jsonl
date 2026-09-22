@@ -1,1 +1,1 @@
-{"path":"agent/seat/model-gateway/modules/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts","name":"startProxyLivenessMonitor"}
+{"path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness/supervisor-gateway-liveness.module.code.ts","name":"startProxyLivenessMonitor"}

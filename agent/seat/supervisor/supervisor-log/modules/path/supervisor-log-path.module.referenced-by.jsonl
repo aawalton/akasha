@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"supervisor-log-path.module.code.ts","path":"agent/model/gateway/modules/proxy-entry/proxy-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-log-path.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-log-path.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-spawn-gateway/supervisor-spawn-gateway.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-log-path.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.test.ts"}
 {"propertySlug":"import","fileName":"supervisor-log-path.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-log-path.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.code.ts"}
