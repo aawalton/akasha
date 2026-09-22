@@ -1813,3 +1813,5 @@
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/spells/zone-of-slow-time.world-spell.ts"}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/spells/zone-of-uh-enriched-mana.world-spell.ts"}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
+{"propertySlug":"view-page-type","path":"page/view/pages/spells-alphabetical.view.ts","id":"01a0c954-1359-7e80-82ea-0b7a22399472"}
+{"propertySlug":"view-page-type","path":"page/view/pages/spells-most-seen.view.ts","id":"01a0c954-133f-78ba-864f-d98662b380bb"}

@@ -5,3 +5,5 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/species/shadow-familiars.world-species.ts"}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/species/true-familiars.world-species.ts"}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
+{"propertySlug":"view-page-type","path":"page/view/pages/species-alphabetical.view.ts","id":"01a0c954-1313-78b5-98f8-b111468224d6"}
+{"propertySlug":"view-page-type","path":"page/view/pages/species-most-seen.view.ts","id":"01a0c954-1300-7e2f-94d4-7f13f7f09cff"}

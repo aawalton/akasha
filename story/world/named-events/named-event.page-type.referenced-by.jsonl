@@ -39,3 +39,5 @@
 {"propertySlug":"import","fileName":"named-event.page-type.types.ts","path":"story/world/pages/the-wandering-inn/named-events/winter-solstice-y2.named-event.ts"}
 {"propertySlug":"import","fileName":"named-event.page-type.types.ts","path":"story/world/pages/the-wandering-inn/named-events/wyverns-attack-pallass.named-event.ts"}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
+{"propertySlug":"view-page-type","path":"page/view/pages/named-events-alphabetical.view.ts","id":"01a0c954-13eb-74dc-9351-31b120fafd29"}
+{"propertySlug":"view-page-type","path":"page/view/pages/named-events-chronological.view.ts","id":"01a0c954-13cd-7a1a-86df-00ca8eabf31e"}

@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"world-religion.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/religions/the-church-of-god.world-religion.ts"}
 {"propertySlug":"import","fileName":"world-religion.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/religions/the-painted-folk.world-religion.ts"}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
+{"propertySlug":"view-page-type","path":"page/view/pages/religions-alphabetical.view.ts","id":"01a0c954-1208-75dc-a2c9-2f8ed9090e12"}
+{"propertySlug":"view-page-type","path":"page/view/pages/religions-most-seen.view.ts","id":"01a0c954-11e9-7587-964e-efae44aa745e"}
