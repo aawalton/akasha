@@ -7,7 +7,6 @@ import {
 } from "akasha/design/interface/pattern/modules/build-values-from-fields/build-values-from-fields.module.code.ts"
 import { useCallback, useDeferredValue, useEffect, useRef, useState } from "react"
 import { z } from "zod"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const STORED_FILTERS_SCHEMA = z.record(z.string(), z.unknown())
 

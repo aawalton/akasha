@@ -9,7 +9,6 @@ import {
   useState,
   useSyncExternalStore,
 } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const STORAGE_KEY = "sidebar-collapsed"
 

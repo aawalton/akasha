@@ -14,9 +14,6 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/routes/_app-layout.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"command/pages/mobile/sim/type/mobile-sim-type.command.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"command/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"command/pages/music/play/music-play.command.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"command/pages/music/queue/music-queue.command.code.ts"}
@@ -25,14 +22,9 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/layout/modules/balanced-columns/balanced-columns.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/layout/modules/router-context/router-context.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/pattern/modules/icon-picker/icon-picker.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/pattern/modules/sort-group/sort-group.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/pattern/modules/tabs/tabs.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/pattern/modules/use-filter-persistence/use-filter-persistence.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/pattern/modules/use-scroll-restoration/use-scroll-restoration.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/primitive/modules/home-end-scroll/home-end-scroll.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/system/modules/gemstone-colors/gemstone-colors.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/system/modules/surface-elevation/surface-elevation.module.code.tsx"}

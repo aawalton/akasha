@@ -7,7 +7,6 @@ import {
   agentRuntimeDir,
   supervisorSocketPath,
 } from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export const STDERR_LOG = "oauth-proxy.stderr.log"
 
