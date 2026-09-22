@@ -155,6 +155,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/properties/game-mechanics.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/properties/game-panels.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/properties/genre.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/turn/properties/pool-changes.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/turn/properties/system-window.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/aliases.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/evolves-from-slugs.text-property.types.ts"}

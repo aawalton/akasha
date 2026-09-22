@@ -12,6 +12,7 @@ export const gameTurn = {
     { pageProperty: "relation-property/holding-game", required: true, many: false },
     { pageProperty: "number-property/turn-number", required: true, many: false },
     { pageProperty: "record-property/system-window", required: false, many: true, maxCount: null },
+    { pageProperty: "record-property/pool-changes", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
@@ -39,5 +40,7 @@ export const gameTurn = {
     "text-property/window-rank",
     "record-property/system-window",
     "module/turn-filing",
+    "number-property/pool-change",
+    "record-property/pool-changes",
   ],
 } as const satisfies PageType
