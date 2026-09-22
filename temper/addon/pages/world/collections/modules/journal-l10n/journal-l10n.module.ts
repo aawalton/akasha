@@ -4,6 +4,6 @@ export const journalL10n = {
   id: "01a0617d-544f-77d6-84ab-dcec5afd5286",
   type: "page-type/module",
   slug: "journal-l10n",
-  definition: "the journal's own text in each language the game runs in",
+  definition: "the journal's own text in each of the game's languages",
   code: "ts",
 } as const satisfies Module

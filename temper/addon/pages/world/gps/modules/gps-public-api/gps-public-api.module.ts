@@ -4,7 +4,7 @@ export const gpsPublicApi = {
   id: "01a0614d-4765-7157-8e3b-883d7c925f1a",
   type: "page-type/module",
   slug: "gps-public-api",
-  definition: "the name the rest of the bundle reaches this feature's measurements by",
+  definition: "the name opening this feature's measurements to the rest of the bundle",
   code: "ts",
   decisions: [
     {

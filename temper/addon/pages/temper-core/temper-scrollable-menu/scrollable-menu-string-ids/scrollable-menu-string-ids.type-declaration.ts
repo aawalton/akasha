@@ -4,6 +4,6 @@ export const scrollableMenuStringIds = {
   id: "01a06275-c449-7450-b084-116e9474b73b",
   type: "page-type/type-declaration",
   slug: "scrollable-menu-string-ids",
-  definition: "the game string identifiers the menus read their default text from",
+  definition: "the game string identifiers holding the menus' default text",
   d: "ts",
 } as const satisfies TypeDeclaration

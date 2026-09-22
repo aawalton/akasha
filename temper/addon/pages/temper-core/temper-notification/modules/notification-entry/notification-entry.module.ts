@@ -4,7 +4,7 @@ export const notificationEntry = {
   id: "01a0605a-0517-7516-85b8-1030a8a947e8",
   type: "page-type/module",
   slug: "notification-entry",
-  definition: "the global another add-on reads the notification rows from",
+  definition: "the global holding the notification rows another add-on reads",
   code: "ts",
   decisions: [
     {
