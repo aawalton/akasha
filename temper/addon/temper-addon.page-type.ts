@@ -178,7 +178,7 @@ export const temperAddon = {
       statement: "A patch over a game function is spelled as the game spells that function.",
     },
     {
-      decisionKind: "decision-kind/constraint",
+      decisionKind: "decision-kind/departure",
       statement: "Every global an addon declares is spelled with the addon declaring that global.",
     },
     {
