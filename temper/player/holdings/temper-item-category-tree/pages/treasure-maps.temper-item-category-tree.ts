@@ -5,7 +5,7 @@ export const treasureMaps = {
   type: "page-type/temper-item-category-tree",
   slug: "treasure-maps",
   title: "Treasure Maps",
-  parent: "tasks",
+  parent: "temper-item-category-tree/tasks",
   displayOrder: 3,
   specializedItemTypes: [100],
 } as const satisfies TemperItemCategoryTree

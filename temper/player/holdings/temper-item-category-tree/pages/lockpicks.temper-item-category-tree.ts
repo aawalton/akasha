@@ -5,7 +5,7 @@ export const lockpicks = {
   type: "page-type/temper-item-category-tree",
   slug: "lockpicks",
   title: "Lockpicks",
-  parent: "consumables",
+  parent: "temper-item-category-tree/consumables",
   displayOrder: 7,
   itemTypes: [22],
 } as const satisfies TemperItemCategoryTree

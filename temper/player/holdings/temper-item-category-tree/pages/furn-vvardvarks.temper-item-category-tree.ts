@@ -5,7 +5,7 @@ export const furnVvardvarks = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-vvardvarks",
   title: "Vvardvarks",
-  parent: "furn-mounts",
+  parent: "temper-item-category-tree/furn-mounts",
   displayOrder: 21,
   furnitureSubcategoryIds: [208],
 } as const satisfies TemperItemCategoryTree

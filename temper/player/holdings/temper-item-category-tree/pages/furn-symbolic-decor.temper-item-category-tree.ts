@@ -5,7 +5,7 @@ export const furnSymbolicDecor = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-symbolic-decor",
   title: "Symbolic Decor",
-  parent: "furn-undercroft",
+  parent: "temper-item-category-tree/furn-undercroft",
   displayOrder: 6,
   furnitureSubcategoryIds: [105],
 } as const satisfies TemperItemCategoryTree

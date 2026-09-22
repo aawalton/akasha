@@ -5,7 +5,7 @@ export const furnSpecialMounts = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-special-mounts",
   title: "Special",
-  parent: "furn-mounts",
+  parent: "temper-item-category-tree/furn-mounts",
   displayOrder: 17,
   furnitureSubcategoryIds: [205],
 } as const satisfies TemperItemCategoryTree

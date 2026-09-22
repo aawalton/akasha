@@ -5,7 +5,7 @@ export const lures = {
   type: "page-type/temper-item-category-tree",
   slug: "lures",
   title: "Lures",
-  parent: "fishing",
+  parent: "temper-item-category-tree/fishing",
   displayOrder: 0,
   itemTypes: [16],
 } as const satisfies TemperItemCategoryTree

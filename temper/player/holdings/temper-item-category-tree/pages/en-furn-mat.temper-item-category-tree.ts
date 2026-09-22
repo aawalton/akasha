@@ -5,7 +5,7 @@ export const enFurnMat = {
   type: "page-type/temper-item-category-tree",
   slug: "en-furn-mat",
   title: "Furnishing Materials",
-  parent: "enchanting",
+  parent: "temper-item-category-tree/enchanting",
   displayOrder: 0,
   filterTypes: [17],
   itemTypes: [62],

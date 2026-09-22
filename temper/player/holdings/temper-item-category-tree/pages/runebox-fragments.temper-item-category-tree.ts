@@ -5,7 +5,7 @@ export const runeboxFragments = {
   type: "page-type/temper-item-category-tree",
   slug: "runebox-fragments",
   title: "Runebox Fragments",
-  parent: "knowledge-collectibles",
+  parent: "temper-item-category-tree/knowledge-collectibles",
   displayOrder: 2,
   specializedItemTypes: [108],
 } as const satisfies TemperItemCategoryTree

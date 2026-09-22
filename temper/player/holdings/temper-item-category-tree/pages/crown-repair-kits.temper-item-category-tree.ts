@@ -5,7 +5,7 @@ export const crownRepairKits = {
   type: "page-type/temper-item-category-tree",
   slug: "crown-repair-kits",
   title: "Crown Repair Kits",
-  parent: "repair-kits",
+  parent: "temper-item-category-tree/repair-kits",
   displayOrder: 1,
   itemTypes: [55],
 } as const satisfies TemperItemCategoryTree

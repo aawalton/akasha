@@ -5,7 +5,7 @@ export const scriptAffix = {
   type: "page-type/temper-item-category-tree",
   slug: "script-affix",
   title: "Affix",
-  parent: "scripts",
+  parent: "temper-item-category-tree/scripts",
   displayOrder: 2,
   specializedItemTypes: [3252],
 } as const satisfies TemperItemCategoryTree

@@ -5,6 +5,6 @@ export const repairKits = {
   type: "page-type/temper-item-category-tree",
   slug: "repair-kits",
   title: "Repair Kits",
-  parent: "consumables",
+  parent: "temper-item-category-tree/consumables",
   displayOrder: 6,
 } as const satisfies TemperItemCategoryTree

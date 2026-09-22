@@ -5,7 +5,7 @@ export const holidayWrits = {
   type: "page-type/temper-item-category-tree",
   slug: "holiday-writs",
   title: "Holiday Writs",
-  parent: "tasks",
+  parent: "temper-item-category-tree/tasks",
   displayOrder: 1,
   specializedItemTypes: [2760],
 } as const satisfies TemperItemCategoryTree

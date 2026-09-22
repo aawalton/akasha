@@ -5,7 +5,7 @@ export const rawTraits = {
   type: "page-type/temper-item-category-tree",
   slug: "raw-traits",
   title: "Raw Traits",
-  parent: "trait-items",
+  parent: "temper-item-category-tree/trait-items",
   displayOrder: 3,
   itemTypes: [68],
 } as const satisfies TemperItemCategoryTree

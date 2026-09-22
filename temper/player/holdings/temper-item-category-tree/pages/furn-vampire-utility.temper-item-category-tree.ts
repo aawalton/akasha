@@ -5,7 +5,7 @@ export const furnVampireUtility = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-vampire-utility",
   title: "Vampire Utility",
-  parent: "furn-services",
+  parent: "temper-item-category-tree/furn-services",
   displayOrder: 15,
   furnitureSubcategoryIds: [189],
 } as const satisfies TemperItemCategoryTree

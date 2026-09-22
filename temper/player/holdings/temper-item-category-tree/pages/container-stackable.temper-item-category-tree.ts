@@ -5,7 +5,7 @@ export const containerStackable = {
   type: "page-type/temper-item-category-tree",
   slug: "container-stackable",
   title: "Stackable",
-  parent: "containers",
+  parent: "temper-item-category-tree/containers",
   displayOrder: 3,
   specializedItemTypes: [890],
 } as const satisfies TemperItemCategoryTree

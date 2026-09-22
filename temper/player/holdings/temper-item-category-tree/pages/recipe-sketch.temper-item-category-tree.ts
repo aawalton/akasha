@@ -5,7 +5,7 @@ export const recipeSketch = {
   type: "page-type/temper-item-category-tree",
   slug: "recipe-sketch",
   title: "Sketches (Jewelry Crafting)",
-  parent: "furnishing-recipes",
+  parent: "temper-item-category-tree/furnishing-recipes",
   displayOrder: 6,
   specializedItemTypes: [178],
 } as const satisfies TemperItemCategoryTree

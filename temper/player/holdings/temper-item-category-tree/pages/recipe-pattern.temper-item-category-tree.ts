@@ -5,7 +5,7 @@ export const recipePattern = {
   type: "page-type/temper-item-category-tree",
   slug: "recipe-pattern",
   title: "Patterns (Clothing)",
-  parent: "furnishing-recipes",
+  parent: "temper-item-category-tree/furnishing-recipes",
   displayOrder: 1,
   specializedItemTypes: [173],
 } as const satisfies TemperItemCategoryTree

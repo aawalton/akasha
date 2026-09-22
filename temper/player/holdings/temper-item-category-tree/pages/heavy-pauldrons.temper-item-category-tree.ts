@@ -5,7 +5,7 @@ export const heavyPauldrons = {
   type: "page-type/temper-item-category-tree",
   slug: "heavy-pauldrons",
   title: "Pauldrons",
-  parent: "heavy-armor",
+  parent: "temper-item-category-tree/heavy-armor",
   displayOrder: 2,
   equipTypes: [4],
 } as const satisfies TemperItemCategoryTree

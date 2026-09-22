@@ -5,7 +5,7 @@ export const siegeOil = {
   type: "page-type/temper-item-category-tree",
   slug: "siege-oil",
   title: "Boiling Oil",
-  parent: "siege-equipment",
+  parent: "temper-item-category-tree/siege-equipment",
   displayOrder: 3,
   specializedItemTypes: [407],
 } as const satisfies TemperItemCategoryTree

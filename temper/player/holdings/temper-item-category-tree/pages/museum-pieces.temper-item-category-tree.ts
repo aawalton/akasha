@@ -5,7 +5,7 @@ export const museumPieces = {
   type: "page-type/temper-item-category-tree",
   slug: "museum-pieces",
   title: "Museum Pieces",
-  parent: "tasks",
+  parent: "temper-item-category-tree/tasks",
   displayOrder: 4,
   specializedItemTypes: [103],
 } as const satisfies TemperItemCategoryTree

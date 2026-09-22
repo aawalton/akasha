@@ -5,7 +5,7 @@ export const lightShoes = {
   type: "page-type/temper-item-category-tree",
   slug: "light-shoes",
   title: "Shoes",
-  parent: "light-armor",
+  parent: "temper-item-category-tree/light-armor",
   displayOrder: 6,
   equipTypes: [10],
 } as const satisfies TemperItemCategoryTree

@@ -4683,6 +4683,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-pursuit.domain.ts","id":"01a06153-0ea9-7000-8bea-a58f74ace441"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-recipe-list/properties/recipes.page-property-entry.ts","id":"01a0626e-c112-752c-87ea-5aac4c49e0ee"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-recipe-list/temper-recipe-list.page-type.ts","id":"01a0626e-c112-7de5-8901-fc3087a26629"}
+{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-research-line/properties/research-line-craft.relation-property.ts","id":"01a0cae1-5ebb-7a80-8698-3ddc1defc59a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-research-line/properties/traits.page-property-entry.ts","id":"01a0616b-2cdf-7004-88a2-5ab03de323e8"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-research-line/temper-research-line.page-type.ts","id":"01a0616b-2cdf-7005-a903-e1d072da4881"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-tribute-patron/properties/cards.page-property-entry.ts","id":"01a06153-0ea9-7007-944b-5acfb4c2daa1"}
@@ -5466,6 +5467,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/test-fixtures/lore-library-sparse-test-utils/lore-library-sparse-test-utils.test-fixture.ts","id":"01a08ee1-1c98-7da2-b6af-8e53c812c8c5"}
+{"propertySlug":"decision-kind","path":"temper/player/holdings/temper-item-category-tree/properties/item-category-parent.relation-property.ts","id":"01a0cae0-e5ff-7843-96e5-b49bc28783d9"}
 {"propertySlug":"decision-kind","path":"temper/player/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts","id":"01a05fcb-fd33-7e42-b0df-2c021ee52730"}
 {"propertySlug":"decision-kind","path":"temper/player/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts","id":"01a06006-154f-7344-ae3b-0de4c53132dc"}
 {"propertySlug":"decision-kind","path":"temper/player/holdings/temper-sale/properties/item-name.text-property.ts","id":"01a06553-ace7-70af-be45-b007740978fa"}
@@ -5511,7 +5513,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/skill-morph/temper-skill-morph.domain.ts","id":"01a061c7-0738-7e24-b2fa-36e9b8781b9c"}
 {"propertySlug":"decision-kind","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}
 {"propertySlug":"decision-kind","path":"temper/thing/properties/companion-id.relation-property.ts","id":"01a05fba-ce39-74ad-926f-d6a5d9908dfc"}
-{"propertySlug":"decision-kind","path":"temper/thing/properties/parent.text-property.ts","id":"01a05fba-ce39-70e6-a46f-4b11e5d2a508"}
 {"propertySlug":"decision-kind","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.ts","id":"01a06084-d41a-7898-b2c6-0be1faa981da"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-account-page/watcher-account-page.module.ts","id":"01a06381-35cf-7609-a436-3c4f4a0d6e3a"}

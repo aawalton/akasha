@@ -5,7 +5,7 @@ export const essenceRunestones = {
   type: "page-type/temper-item-category-tree",
   slug: "essence-runestones",
   title: "Essence Runestones",
-  parent: "enchanting",
+  parent: "temper-item-category-tree/enchanting",
   displayOrder: 2,
   itemTypes: [53],
 } as const satisfies TemperItemCategoryTree

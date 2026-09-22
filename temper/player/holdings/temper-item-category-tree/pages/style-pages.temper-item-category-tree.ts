@@ -5,7 +5,7 @@ export const stylePages = {
   type: "page-type/temper-item-category-tree",
   slug: "style-pages",
   title: "Style Pages",
-  parent: "knowledge",
+  parent: "temper-item-category-tree/knowledge",
   displayOrder: 2,
   specializedItemTypes: [82],
 } as const satisfies TemperItemCategoryTree

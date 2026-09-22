@@ -5,7 +5,7 @@ export const equipmentRepairKits = {
   type: "page-type/temper-item-category-tree",
   slug: "equipment-repair-kits",
   title: "Equipment Repair Kits",
-  parent: "repair-kits",
+  parent: "temper-item-category-tree/repair-kits",
   displayOrder: 0,
   filterTypes: [3],
   itemTypes: [9],

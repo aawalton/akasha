@@ -5,7 +5,7 @@ export const companionGauntlets = {
   type: "page-type/temper-item-category-tree",
   slug: "companion-gauntlets",
   title: "Gauntlets",
-  parent: "companion-heavy",
+  parent: "temper-item-category-tree/companion-heavy",
   displayOrder: 3,
   equipTypes: [13],
 } as const satisfies TemperItemCategoryTree

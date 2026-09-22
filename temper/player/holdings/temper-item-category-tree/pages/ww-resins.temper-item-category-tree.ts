@@ -5,7 +5,7 @@ export const wwResins = {
   type: "page-type/temper-item-category-tree",
   slug: "ww-resins",
   title: "Resins",
-  parent: "woodworking",
+  parent: "temper-item-category-tree/woodworking",
   displayOrder: 3,
   itemTypes: [42],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const scriptFocus = {
   type: "page-type/temper-item-category-tree",
   slug: "script-focus",
   title: "Focus",
-  parent: "scripts",
+  parent: "temper-item-category-tree/scripts",
   displayOrder: 0,
   specializedItemTypes: [3250],
 } as const satisfies TemperItemCategoryTree

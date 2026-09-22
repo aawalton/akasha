@@ -5,7 +5,7 @@ export const sword = {
   type: "page-type/temper-item-category-tree",
   slug: "sword",
   title: "Sword",
-  parent: "one-handed",
+  parent: "temper-item-category-tree/one-handed",
   displayOrder: 0,
   weaponTypes: [3],
 } as const satisfies TemperItemCategoryTree

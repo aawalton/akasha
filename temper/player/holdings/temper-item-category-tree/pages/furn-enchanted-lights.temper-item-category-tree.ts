@@ -5,7 +5,7 @@ export const furnEnchantedLights = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-enchanted-lights",
   title: "Enchanted Lights",
-  parent: "furn-lighting",
+  parent: "temper-item-category-tree/furn-lighting",
   displayOrder: 3,
   furnitureSubcategoryIds: [125],
 } as const satisfies TemperItemCategoryTree

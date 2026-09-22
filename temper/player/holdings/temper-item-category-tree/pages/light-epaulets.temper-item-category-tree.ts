@@ -5,7 +5,7 @@ export const lightEpaulets = {
   type: "page-type/temper-item-category-tree",
   slug: "light-epaulets",
   title: "Epaulets",
-  parent: "light-armor",
+  parent: "temper-item-category-tree/light-armor",
   displayOrder: 2,
   equipTypes: [4],
 } as const satisfies TemperItemCategoryTree

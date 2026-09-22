@@ -5,7 +5,7 @@ export const jcPlatings = {
   type: "page-type/temper-item-category-tree",
   slug: "jc-platings",
   title: "Platings",
-  parent: "jewelry-crafting",
+  parent: "temper-item-category-tree/jewelry-crafting",
   displayOrder: 3,
   itemTypes: [65],
 } as const satisfies TemperItemCategoryTree

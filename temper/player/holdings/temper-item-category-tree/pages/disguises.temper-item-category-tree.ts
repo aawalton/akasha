@@ -5,7 +5,7 @@ export const disguises = {
   type: "page-type/temper-item-category-tree",
   slug: "disguises",
   title: "Disguises",
-  parent: "appearance",
+  parent: "temper-item-category-tree/appearance",
   displayOrder: 1,
   itemTypes: [14],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const clRaw = {
   type: "page-type/temper-item-category-tree",
   slug: "cl-raw",
   title: "Raw Materials",
-  parent: "clothing",
+  parent: "temper-item-category-tree/clothing",
   displayOrder: 1,
   itemTypes: [39],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const surveyReports = {
   type: "page-type/temper-item-category-tree",
   slug: "survey-reports",
   title: "Survey Reports",
-  parent: "tasks",
+  parent: "temper-item-category-tree/tasks",
   displayOrder: 0,
   specializedItemTypes: [101],
 } as const satisfies TemperItemCategoryTree

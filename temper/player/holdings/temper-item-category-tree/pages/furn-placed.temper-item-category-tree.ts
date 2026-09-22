@@ -5,6 +5,6 @@ export const furnPlaced = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-placed",
   title: "Placed",
-  parent: "furnishings",
+  parent: "temper-item-category-tree/furnishings",
   displayOrder: 16,
 } as const satisfies TemperItemCategoryTree

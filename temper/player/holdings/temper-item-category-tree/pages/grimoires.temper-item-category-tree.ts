@@ -5,7 +5,7 @@ export const grimoires = {
   type: "page-type/temper-item-category-tree",
   slug: "grimoires",
   title: "Grimoires",
-  parent: "scribing",
+  parent: "temper-item-category-tree/scribing",
   displayOrder: 0,
   specializedItemTypes: [3200],
 } as const satisfies TemperItemCategoryTree

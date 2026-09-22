@@ -5,7 +5,7 @@ export const lightSash = {
   type: "page-type/temper-item-category-tree",
   slug: "light-sash",
   title: "Sash",
-  parent: "light-armor",
+  parent: "temper-item-category-tree/light-armor",
   displayOrder: 4,
   equipTypes: [8],
 } as const satisfies TemperItemCategoryTree

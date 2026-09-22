@@ -5,7 +5,7 @@ export const furnLunarChampion = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-lunar-champion",
   title: "Lunar Champion Tablets",
-  parent: "furn-services",
+  parent: "temper-item-category-tree/furn-services",
   displayOrder: 5,
   furnitureSubcategoryIds: [185],
 } as const satisfies TemperItemCategoryTree

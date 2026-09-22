@@ -5,7 +5,7 @@ export const reagentHerbs = {
   type: "page-type/temper-item-category-tree",
   slug: "reagent-herbs",
   title: "Herbs",
-  parent: "reagents",
+  parent: "temper-item-category-tree/reagents",
   displayOrder: 0,
   specializedItemTypes: [150],
 } as const satisfies TemperItemCategoryTree

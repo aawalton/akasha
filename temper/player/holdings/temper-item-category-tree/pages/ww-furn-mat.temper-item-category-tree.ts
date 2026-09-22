@@ -5,7 +5,7 @@ export const wwFurnMat = {
   type: "page-type/temper-item-category-tree",
   slug: "ww-furn-mat",
   title: "Furnishing Materials",
-  parent: "woodworking",
+  parent: "temper-item-category-tree/woodworking",
   displayOrder: 0,
   filterTypes: [15],
   itemTypes: [62],

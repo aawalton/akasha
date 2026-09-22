@@ -5,7 +5,7 @@ export const tools = {
   type: "page-type/temper-item-category-tree",
   slug: "tools",
   title: "Tools",
-  parent: "miscellaneous",
+  parent: "temper-item-category-tree/miscellaneous",
   displayOrder: 3,
   itemTypes: [9],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const upgradeFragments = {
   type: "page-type/temper-item-category-tree",
   slug: "upgrade-fragments",
   title: "Upgrade Fragments",
-  parent: "knowledge-collectibles",
+  parent: "temper-item-category-tree/knowledge-collectibles",
   displayOrder: 3,
   specializedItemTypes: [110],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const companionBow = {
   type: "page-type/temper-item-category-tree",
   slug: "companion-bow",
   title: "Bow",
-  parent: "companion-weapons",
+  parent: "temper-item-category-tree/companion-weapons",
   displayOrder: 2,
   weaponTypes: [8],
 } as const satisfies TemperItemCategoryTree

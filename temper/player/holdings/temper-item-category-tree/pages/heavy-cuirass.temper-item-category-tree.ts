@@ -5,7 +5,7 @@ export const heavyCuirass = {
   type: "page-type/temper-item-category-tree",
   slug: "heavy-cuirass",
   title: "Cuirass",
-  parent: "heavy-armor",
+  parent: "temper-item-category-tree/heavy-armor",
   displayOrder: 1,
   equipTypes: [3],
 } as const satisfies TemperItemCategoryTree

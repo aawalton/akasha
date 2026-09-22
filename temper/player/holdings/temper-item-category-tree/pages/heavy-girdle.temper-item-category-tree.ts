@@ -5,7 +5,7 @@ export const heavyGirdle = {
   type: "page-type/temper-item-category-tree",
   slug: "heavy-girdle",
   title: "Girdle",
-  parent: "heavy-armor",
+  parent: "temper-item-category-tree/heavy-armor",
   displayOrder: 4,
   equipTypes: [8],
 } as const satisfies TemperItemCategoryTree

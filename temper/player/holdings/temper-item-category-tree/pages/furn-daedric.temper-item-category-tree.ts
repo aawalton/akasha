@@ -5,7 +5,7 @@ export const furnDaedric = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-daedric",
   title: "Daedric",
-  parent: "furn-pets",
+  parent: "temper-item-category-tree/furn-pets",
   displayOrder: 1,
   furnitureSubcategoryIds: [37],
 } as const satisfies TemperItemCategoryTree

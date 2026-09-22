@@ -5,7 +5,7 @@ export const containerCurrency = {
   type: "page-type/temper-item-category-tree",
   slug: "container-currency",
   title: "Currency",
-  parent: "containers",
+  parent: "temper-item-category-tree/containers",
   displayOrder: 1,
   specializedItemTypes: [875],
 } as const satisfies TemperItemCategoryTree

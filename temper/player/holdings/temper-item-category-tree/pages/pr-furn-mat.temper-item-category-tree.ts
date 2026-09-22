@@ -5,7 +5,7 @@ export const prFurnMat = {
   type: "page-type/temper-item-category-tree",
   slug: "pr-furn-mat",
   title: "Furnishing Materials",
-  parent: "provisioning",
+  parent: "temper-item-category-tree/provisioning",
   displayOrder: 0,
   filterTypes: [18],
   itemTypes: [62],

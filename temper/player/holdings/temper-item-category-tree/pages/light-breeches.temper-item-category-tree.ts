@@ -5,7 +5,7 @@ export const lightBreeches = {
   type: "page-type/temper-item-category-tree",
   slug: "light-breeches",
   title: "Breeches",
-  parent: "light-armor",
+  parent: "temper-item-category-tree/light-armor",
   displayOrder: 5,
   equipTypes: [9],
 } as const satisfies TemperItemCategoryTree

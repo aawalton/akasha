@@ -5,7 +5,7 @@ export const recallStones = {
   type: "page-type/temper-item-category-tree",
   slug: "recall-stones",
   title: "Recall Stones",
-  parent: "alliance-war",
+  parent: "temper-item-category-tree/alliance-war",
   displayOrder: 2,
   itemTypes: [69],
 } as const satisfies TemperItemCategoryTree

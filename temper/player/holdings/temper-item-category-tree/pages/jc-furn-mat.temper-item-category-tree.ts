@@ -5,7 +5,7 @@ export const jcFurnMat = {
   type: "page-type/temper-item-category-tree",
   slug: "jc-furn-mat",
   title: "Furnishing Materials",
-  parent: "jewelry-crafting",
+  parent: "temper-item-category-tree/jewelry-crafting",
   displayOrder: 0,
   filterTypes: [24],
   itemTypes: [62],

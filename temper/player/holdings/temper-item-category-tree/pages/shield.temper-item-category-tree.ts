@@ -5,7 +5,7 @@ export const shield = {
   type: "page-type/temper-item-category-tree",
   slug: "shield",
   title: "Shield",
-  parent: "armor",
+  parent: "temper-item-category-tree/armor",
   displayOrder: 0,
   weaponTypes: [14],
 } as const satisfies TemperItemCategoryTree

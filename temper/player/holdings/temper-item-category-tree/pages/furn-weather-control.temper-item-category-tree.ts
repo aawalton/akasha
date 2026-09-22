@@ -5,7 +5,7 @@ export const furnWeatherControl = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-weather-control",
   title: "Weather Control",
-  parent: "furn-services",
+  parent: "temper-item-category-tree/furn-services",
   displayOrder: 16,
   furnitureSubcategoryIds: [206],
 } as const satisfies TemperItemCategoryTree

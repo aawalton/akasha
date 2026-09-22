@@ -5,7 +5,7 @@ export const clFurnMat = {
   type: "page-type/temper-item-category-tree",
   slug: "cl-furn-mat",
   title: "Furnishing Materials",
-  parent: "clothing",
+  parent: "temper-item-category-tree/clothing",
   displayOrder: 0,
   filterTypes: [14],
   itemTypes: [62],

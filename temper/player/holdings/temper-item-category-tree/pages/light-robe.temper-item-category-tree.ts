@@ -5,7 +5,7 @@ export const lightRobe = {
   type: "page-type/temper-item-category-tree",
   slug: "light-robe",
   title: "Robe / Jerkin",
-  parent: "light-armor",
+  parent: "temper-item-category-tree/light-armor",
   displayOrder: 1,
   equipTypes: [3],
 } as const satisfies TemperItemCategoryTree

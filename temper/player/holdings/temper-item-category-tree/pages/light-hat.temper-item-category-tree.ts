@@ -5,7 +5,7 @@ export const lightHat = {
   type: "page-type/temper-item-category-tree",
   slug: "light-hat",
   title: "Hat",
-  parent: "light-armor",
+  parent: "temper-item-category-tree/light-armor",
   displayOrder: 0,
   equipTypes: [1],
 } as const satisfies TemperItemCategoryTree

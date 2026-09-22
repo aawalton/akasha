@@ -5,7 +5,7 @@ export const scribingInk = {
   type: "page-type/temper-item-category-tree",
   slug: "scribing-ink",
   title: "Scribing Ink",
-  parent: "crafting",
+  parent: "temper-item-category-tree/crafting",
   displayOrder: 9,
   itemTypes: [74],
 } as const satisfies TemperItemCategoryTree

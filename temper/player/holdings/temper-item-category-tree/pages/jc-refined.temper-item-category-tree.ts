@@ -5,7 +5,7 @@ export const jcRefined = {
   type: "page-type/temper-item-category-tree",
   slug: "jc-refined",
   title: "Refined Materials",
-  parent: "jewelry-crafting",
+  parent: "temper-item-category-tree/jewelry-crafting",
   displayOrder: 2,
   itemTypes: [64],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const furnTimeOfDay = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-time-of-day",
   title: "Time of Day Control",
-  parent: "furn-services",
+  parent: "temper-item-category-tree/furn-services",
   displayOrder: 12,
   furnitureSubcategoryIds: [202],
 } as const satisfies TemperItemCategoryTree

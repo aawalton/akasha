@@ -5,7 +5,7 @@ export const surveyBlacksmithing = {
   type: "page-type/temper-item-category-tree",
   slug: "survey-blacksmithing",
   title: "Blacksmithing",
-  parent: "survey-reports",
+  parent: "temper-item-category-tree/survey-reports",
   displayOrder: 0,
   itemNameContains: "Blacksmith",
 } as const satisfies TemperItemCategoryTree

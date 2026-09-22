@@ -5,7 +5,7 @@ export const ingredients = {
   type: "page-type/temper-item-category-tree",
   slug: "ingredients",
   title: "Ingredients",
-  parent: "provisioning",
+  parent: "temper-item-category-tree/provisioning",
   displayOrder: 1,
   itemTypes: [10, 11, 27, 28],
 } as const satisfies TemperItemCategoryTree

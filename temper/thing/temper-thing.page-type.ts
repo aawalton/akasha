@@ -17,7 +17,6 @@ export const temperThing = {
     "text-property/icon",
     "text-property/key",
     "text-property/zone-name",
-    "text-property/parent",
   ],
   properties: [
     { pageProperty: "text-property/key", required: false, many: false },

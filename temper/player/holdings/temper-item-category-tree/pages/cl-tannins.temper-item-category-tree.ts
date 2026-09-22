@@ -5,7 +5,7 @@ export const clTannins = {
   type: "page-type/temper-item-category-tree",
   slug: "cl-tannins",
   title: "Tannins",
-  parent: "clothing",
+  parent: "temper-item-category-tree/clothing",
   displayOrder: 3,
   itemTypes: [43],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const companionJewelry = {
   type: "page-type/temper-item-category-tree",
   slug: "companion-jewelry",
   title: "Jewelry",
-  parent: "companion",
+  parent: "temper-item-category-tree/companion",
   displayOrder: 2,
   traitTypeRange: [52, 60],
 } as const satisfies TemperItemCategoryTree

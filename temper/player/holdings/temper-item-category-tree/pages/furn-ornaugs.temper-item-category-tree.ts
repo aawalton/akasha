@@ -5,7 +5,7 @@ export const furnOrnaugs = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-ornaugs",
   title: "Ornaugs",
-  parent: "furn-mounts",
+  parent: "temper-item-category-tree/furn-mounts",
   displayOrder: 13,
   furnitureSubcategoryIds: [201],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const heavySabatons = {
   type: "page-type/temper-item-category-tree",
   slug: "heavy-sabatons",
   title: "Sabatons",
-  parent: "heavy-armor",
+  parent: "temper-item-category-tree/heavy-armor",
   displayOrder: 6,
   equipTypes: [10],
 } as const satisfies TemperItemCategoryTree

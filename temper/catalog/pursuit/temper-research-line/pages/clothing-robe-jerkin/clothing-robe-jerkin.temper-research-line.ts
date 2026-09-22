@@ -6,6 +6,6 @@ export const clothingRobeJerkin = {
   slug: "clothing-robe-jerkin",
   title: "Robe & Jerkin",
   displayOrder: 1,
-  parent: "clothing",
+  parent: "temper-craft-type/clothing",
   traits: "jsonl",
 } as const satisfies TemperResearchLine

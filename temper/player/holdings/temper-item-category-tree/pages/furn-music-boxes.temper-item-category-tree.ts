@@ -5,7 +5,7 @@ export const furnMusicBoxes = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-music-boxes",
   title: "Music Boxes",
-  parent: "furn-services",
+  parent: "temper-item-category-tree/furn-services",
   displayOrder: 8,
   furnitureSubcategoryIds: [181],
 } as const satisfies TemperItemCategoryTree

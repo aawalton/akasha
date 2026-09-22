@@ -5,7 +5,7 @@ export const companionTwoHanded = {
   type: "page-type/temper-item-category-tree",
   slug: "companion-two-handed",
   title: "Two-Handed",
-  parent: "companion-weapons",
+  parent: "temper-item-category-tree/companion-weapons",
   displayOrder: 1,
   equipTypes: [6],
   weaponTypes: [4, 5, 6],

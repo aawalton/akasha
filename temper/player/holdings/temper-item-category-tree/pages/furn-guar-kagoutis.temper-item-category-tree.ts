@@ -5,7 +5,7 @@ export const furnGuarKagoutis = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-guar-kagoutis",
   title: "Guar & Kagoutis",
-  parent: "furn-mounts",
+  parent: "temper-item-category-tree/furn-mounts",
   displayOrder: 8,
   furnitureSubcategoryIds: [177],
 } as const satisfies TemperItemCategoryTree

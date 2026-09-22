@@ -5,7 +5,7 @@ export const trophyKeyFragments = {
   type: "page-type/temper-item-category-tree",
   slug: "trophy-key-fragments",
   title: "Key Fragments",
-  parent: "trophies",
+  parent: "temper-item-category-tree/trophies",
   displayOrder: 1,
   specializedItemTypes: [102],
 } as const satisfies TemperItemCategoryTree

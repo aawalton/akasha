@@ -5,7 +5,7 @@ export const furnWallsFences = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-walls-fences",
   title: "Walls and Fences",
-  parent: "furn-structures",
+  parent: "temper-item-category-tree/furn-structures",
   displayOrder: 8,
   furnitureSubcategoryIds: [163],
 } as const satisfies TemperItemCategoryTree

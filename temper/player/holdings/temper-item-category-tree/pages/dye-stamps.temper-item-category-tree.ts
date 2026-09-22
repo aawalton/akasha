@@ -5,7 +5,7 @@ export const dyeStamps = {
   type: "page-type/temper-item-category-tree",
   slug: "dye-stamps",
   title: "Dye Stamps",
-  parent: "appearance",
+  parent: "temper-item-category-tree/appearance",
   displayOrder: 3,
   itemTypes: [59],
 } as const satisfies TemperItemCategoryTree

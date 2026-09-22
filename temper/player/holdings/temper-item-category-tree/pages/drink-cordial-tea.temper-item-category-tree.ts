@@ -5,7 +5,7 @@ export const drinkCordialTea = {
   type: "page-type/temper-item-category-tree",
   slug: "drink-cordial-tea",
   title: "Cordial Tea",
-  parent: "drink",
+  parent: "temper-item-category-tree/drink",
   displayOrder: 5,
   specializedItemTypes: [25],
 } as const satisfies TemperItemCategoryTree

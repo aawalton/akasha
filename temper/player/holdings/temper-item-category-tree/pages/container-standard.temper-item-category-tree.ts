@@ -5,7 +5,7 @@ export const containerStandard = {
   type: "page-type/temper-item-category-tree",
   slug: "container-standard",
   title: "Standard",
-  parent: "containers",
+  parent: "temper-item-category-tree/containers",
   displayOrder: 0,
   specializedItemTypes: [850],
 } as const satisfies TemperItemCategoryTree

@@ -5,6 +5,6 @@ export const currencyWritVouchers = {
   type: "page-type/temper-item-category-tree",
   slug: "currency-writ-vouchers",
   title: "Writ Vouchers",
-  parent: "currency",
+  parent: "temper-item-category-tree/currency",
   displayOrder: 3,
 } as const satisfies TemperItemCategoryTree

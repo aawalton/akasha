@@ -5,7 +5,7 @@ export const furnIncense = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-incense",
   title: "Incense",
-  parent: "furn-undercroft",
+  parent: "temper-item-category-tree/furn-undercroft",
   displayOrder: 2,
   furnitureSubcategoryIds: [104],
 } as const satisfies TemperItemCategoryTree

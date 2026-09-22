@@ -5,6 +5,6 @@ export const treasures = {
   type: "page-type/temper-item-category-tree",
   slug: "treasures",
   title: "Treasures",
-  parent: "miscellaneous",
+  parent: "temper-item-category-tree/miscellaneous",
   displayOrder: 4,
 } as const satisfies TemperItemCategoryTree

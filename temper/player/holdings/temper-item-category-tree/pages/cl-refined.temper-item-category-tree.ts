@@ -5,7 +5,7 @@ export const clRefined = {
   type: "page-type/temper-item-category-tree",
   slug: "cl-refined",
   title: "Refined Materials",
-  parent: "clothing",
+  parent: "temper-item-category-tree/clothing",
   displayOrder: 2,
   itemTypes: [40],
 } as const satisfies TemperItemCategoryTree

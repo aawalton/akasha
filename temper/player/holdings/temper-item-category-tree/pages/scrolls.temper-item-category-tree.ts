@@ -5,7 +5,7 @@ export const scrolls = {
   type: "page-type/temper-item-category-tree",
   slug: "scrolls",
   title: "Scrolls",
-  parent: "consumables",
+  parent: "temper-item-category-tree/consumables",
   displayOrder: 9,
   specializedItemTypes: [105],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const trophyDungeonBuffs = {
   type: "page-type/temper-item-category-tree",
   slug: "trophy-dungeon-buffs",
   title: "Dungeon Buff Ingredients",
-  parent: "trophies",
+  parent: "temper-item-category-tree/trophies",
   displayOrder: 3,
   specializedItemTypes: [112],
 } as const satisfies TemperItemCategoryTree

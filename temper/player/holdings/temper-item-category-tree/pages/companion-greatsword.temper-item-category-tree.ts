@@ -5,7 +5,7 @@ export const companionGreatsword = {
   type: "page-type/temper-item-category-tree",
   slug: "companion-greatsword",
   title: "Greatsword",
-  parent: "companion-two-handed",
+  parent: "temper-item-category-tree/companion-two-handed",
   displayOrder: 0,
   weaponTypes: [4],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const soulGems = {
   type: "page-type/temper-item-category-tree",
   slug: "soul-gems",
   title: "Soul Gems",
-  parent: "consumables",
+  parent: "temper-item-category-tree/consumables",
   displayOrder: 5,
   itemTypes: [19],
 } as const satisfies TemperItemCategoryTree

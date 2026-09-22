@@ -5,7 +5,7 @@ export const recipeFormula = {
   type: "page-type/temper-item-category-tree",
   slug: "recipe-formula",
   title: "Formulas (Alchemy)",
-  parent: "furnishing-recipes",
+  parent: "temper-item-category-tree/furnishing-recipes",
   displayOrder: 3,
   specializedItemTypes: [175],
 } as const satisfies TemperItemCategoryTree

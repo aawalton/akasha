@@ -5,7 +5,7 @@ export const siegeGraveyard = {
   type: "page-type/temper-item-category-tree",
   slug: "siege-graveyard",
   title: "Graveyard",
-  parent: "siege-equipment",
+  parent: "temper-item-category-tree/siege-equipment",
   displayOrder: 6,
   specializedItemTypes: [405],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const bsRaw = {
   type: "page-type/temper-item-category-tree",
   slug: "bs-raw",
   title: "Raw Materials",
-  parent: "blacksmithing",
+  parent: "temper-item-category-tree/blacksmithing",
   displayOrder: 1,
   itemTypes: [35],
 } as const satisfies TemperItemCategoryTree

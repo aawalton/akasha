@@ -5,7 +5,7 @@ export const styleMaterials = {
   type: "page-type/temper-item-category-tree",
   slug: "style-materials",
   title: "Style Materials",
-  parent: "crafting",
+  parent: "temper-item-category-tree/crafting",
   displayOrder: 7,
   filterTypes: [19],
 } as const satisfies TemperItemCategoryTree

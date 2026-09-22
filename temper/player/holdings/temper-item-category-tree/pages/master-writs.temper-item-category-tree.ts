@@ -5,7 +5,7 @@ export const masterWrits = {
   type: "page-type/temper-item-category-tree",
   slug: "master-writs",
   title: "Master Writs",
-  parent: "tasks",
+  parent: "temper-item-category-tree/tasks",
   displayOrder: 2,
   itemTypes: [60],
 } as const satisfies TemperItemCategoryTree

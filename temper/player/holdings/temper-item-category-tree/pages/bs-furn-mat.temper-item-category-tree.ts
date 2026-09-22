@@ -5,7 +5,7 @@ export const bsFurnMat = {
   type: "page-type/temper-item-category-tree",
   slug: "bs-furn-mat",
   title: "Furnishing Materials",
-  parent: "blacksmithing",
+  parent: "temper-item-category-tree/blacksmithing",
   displayOrder: 0,
   filterTypes: [13],
   itemTypes: [62],

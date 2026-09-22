@@ -5,7 +5,7 @@ export const skillScrolls = {
   type: "page-type/temper-item-category-tree",
   slug: "skill-scrolls",
   title: "Skill Scrolls",
-  parent: "consumables",
+  parent: "temper-item-category-tree/consumables",
   displayOrder: 10,
   itemTypes: [76],
 } as const satisfies TemperItemCategoryTree

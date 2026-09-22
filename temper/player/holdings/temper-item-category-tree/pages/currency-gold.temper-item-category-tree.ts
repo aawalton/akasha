@@ -5,6 +5,6 @@ export const currencyGold = {
   type: "page-type/temper-item-category-tree",
   slug: "currency-gold",
   title: "Gold",
-  parent: "currency",
+  parent: "temper-item-category-tree/currency",
   displayOrder: 0,
 } as const satisfies TemperItemCategoryTree

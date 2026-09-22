@@ -5,7 +5,7 @@ export const furnSencheRaht = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-senche-raht",
   title: "Senche-Raht",
-  parent: "furn-mounts",
+  parent: "temper-item-category-tree/furn-mounts",
   displayOrder: 16,
   furnitureSubcategoryIds: [194],
 } as const satisfies TemperItemCategoryTree

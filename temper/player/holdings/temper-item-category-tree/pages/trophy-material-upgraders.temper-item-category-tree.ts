@@ -5,7 +5,7 @@ export const trophyMaterialUpgraders = {
   type: "page-type/temper-item-category-tree",
   slug: "trophy-material-upgraders",
   title: "Material Upgraders",
-  parent: "trophies",
+  parent: "temper-item-category-tree/trophies",
   displayOrder: 4,
   specializedItemTypes: [106],
 } as const satisfies TemperItemCategoryTree

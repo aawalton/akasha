@@ -5,7 +5,7 @@ export const furnDwemerSpiders = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-dwemer-spiders",
   title: "Dwemer Spiders",
-  parent: "furn-mounts",
+  parent: "temper-item-category-tree/furn-mounts",
   displayOrder: 6,
   furnitureSubcategoryIds: [193],
 } as const satisfies TemperItemCategoryTree

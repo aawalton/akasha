@@ -5,7 +5,7 @@ export const furnArmoryAssistants = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-armory-assistants",
   title: "Armory Assistants",
-  parent: "furn-services",
+  parent: "temper-item-category-tree/furn-services",
   displayOrder: 0,
   furnitureSubcategoryIds: [199],
 } as const satisfies TemperItemCategoryTree

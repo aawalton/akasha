@@ -5,7 +5,7 @@ export const siegeUniversal = {
   type: "page-type/temper-item-category-tree",
   slug: "siege-universal",
   title: "Universal",
-  parent: "siege-equipment",
+  parent: "temper-item-category-tree/siege-equipment",
   displayOrder: 7,
   specializedItemTypes: [403],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const mediumArmor = {
   type: "page-type/temper-item-category-tree",
   slug: "medium-armor",
   title: "Medium Armor",
-  parent: "armor",
+  parent: "temper-item-category-tree/armor",
   displayOrder: 2,
   armorTypes: [2],
 } as const satisfies TemperItemCategoryTree

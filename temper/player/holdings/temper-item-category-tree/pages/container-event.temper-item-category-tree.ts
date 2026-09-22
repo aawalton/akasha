@@ -5,7 +5,7 @@ export const containerEvent = {
   type: "page-type/temper-item-category-tree",
   slug: "container-event",
   title: "Event",
-  parent: "containers",
+  parent: "temper-item-category-tree/containers",
   displayOrder: 2,
   specializedItemTypes: [851],
 } as const satisfies TemperItemCategoryTree

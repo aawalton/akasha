@@ -5,7 +5,7 @@ export const furnUndauntedTrophies = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-undaunted-trophies",
   title: "Undaunted Trophies",
-  parent: "furn-gallery",
+  parent: "temper-item-category-tree/furn-gallery",
   displayOrder: 8,
   furnitureSubcategoryIds: [156],
 } as const satisfies TemperItemCategoryTree

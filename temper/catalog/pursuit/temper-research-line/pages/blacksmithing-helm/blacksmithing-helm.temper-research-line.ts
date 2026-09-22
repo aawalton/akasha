@@ -6,6 +6,6 @@ export const blacksmithingHelm = {
   slug: "blacksmithing-helm",
   title: "Helm",
   displayOrder: 11,
-  parent: "blacksmithing",
+  parent: "temper-craft-type/blacksmithing",
   traits: "jsonl",
 } as const satisfies TemperResearchLine

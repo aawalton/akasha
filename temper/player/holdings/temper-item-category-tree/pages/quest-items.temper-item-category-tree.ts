@@ -5,7 +5,7 @@ export const questItems = {
   type: "page-type/temper-item-category-tree",
   slug: "quest-items",
   title: "Quest Items",
-  parent: "tasks",
+  parent: "temper-item-category-tree/tasks",
   displayOrder: 5,
   filterTypes: [7, 26],
 } as const satisfies TemperItemCategoryTree

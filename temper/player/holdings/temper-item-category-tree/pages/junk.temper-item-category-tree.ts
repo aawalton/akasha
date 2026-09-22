@@ -5,7 +5,7 @@ export const junk = {
   type: "page-type/temper-item-category-tree",
   slug: "junk",
   title: "Junk",
-  parent: "miscellaneous",
+  parent: "temper-item-category-tree/miscellaneous",
   displayOrder: 7,
   filterTypes: [9],
 } as const satisfies TemperItemCategoryTree

@@ -222,6 +222,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/thing/properties/debuff-id.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievement-category-parent.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectible-category-parent.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/pursuit/temper-research-line/properties/research-line-craft.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/skill/line/properties/skill-line-class.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/class-id.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/script-id.relation-property.types.ts"}
@@ -233,6 +234,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/temper-account-character/properties/character-roles.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/temper-account/properties/currency-key.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/temper-companion-progress/properties/companion-roles.multi-relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/holdings/temper-item-category-tree/properties/item-category-parent.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-completion-category/properties/completion-category-parent.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/from-template.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-metric-tree/properties/metric-tree-parent.relation-property.types.ts"}

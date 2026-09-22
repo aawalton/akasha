@@ -5,7 +5,7 @@ export const bsTempers = {
   type: "page-type/temper-item-category-tree",
   slug: "bs-tempers",
   title: "Tempers",
-  parent: "blacksmithing",
+  parent: "temper-item-category-tree/blacksmithing",
   displayOrder: 3,
   itemTypes: [41],
 } as const satisfies TemperItemCategoryTree

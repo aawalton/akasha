@@ -5,7 +5,7 @@ export const tributeClues = {
   type: "page-type/temper-item-category-tree",
   slug: "tribute-clues",
   title: "Tribute Clues",
-  parent: "knowledge-collectibles",
+  parent: "temper-item-category-tree/knowledge-collectibles",
   displayOrder: 4,
   specializedItemTypes: [113],
 } as const satisfies TemperItemCategoryTree

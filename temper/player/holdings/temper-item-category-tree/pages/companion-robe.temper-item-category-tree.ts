@@ -5,7 +5,7 @@ export const companionRobe = {
   type: "page-type/temper-item-category-tree",
   slug: "companion-robe",
   title: "Robe / Jerkin",
-  parent: "companion-light",
+  parent: "temper-item-category-tree/companion-light",
   displayOrder: 1,
   equipTypes: [3],
 } as const satisfies TemperItemCategoryTree

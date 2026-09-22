@@ -5,6 +5,6 @@ export const provisioning = {
   type: "page-type/temper-item-category-tree",
   slug: "provisioning",
   title: "Provisioning",
-  parent: "crafting",
+  parent: "temper-item-category-tree/crafting",
   displayOrder: 6,
 } as const satisfies TemperItemCategoryTree

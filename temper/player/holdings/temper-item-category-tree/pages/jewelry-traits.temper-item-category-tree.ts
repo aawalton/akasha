@@ -5,7 +5,7 @@ export const jewelryTraits = {
   type: "page-type/temper-item-category-tree",
   slug: "jewelry-traits",
   title: "Jewelry Traits",
-  parent: "trait-items",
+  parent: "temper-item-category-tree/trait-items",
   displayOrder: 2,
   itemTypes: [66],
 } as const satisfies TemperItemCategoryTree

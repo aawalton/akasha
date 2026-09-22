@@ -5,7 +5,7 @@ export const surveyAlchemy = {
   type: "page-type/temper-item-category-tree",
   slug: "survey-alchemy",
   title: "Alchemy",
-  parent: "survey-reports",
+  parent: "temper-item-category-tree/survey-reports",
   displayOrder: 5,
   itemNameContains: "Alchemist",
 } as const satisfies TemperItemCategoryTree

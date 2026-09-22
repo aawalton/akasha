@@ -5,7 +5,7 @@ export const siegeRam = {
   type: "page-type/temper-item-category-tree",
   slug: "siege-ram",
   title: "Battering Ram",
-  parent: "siege-equipment",
+  parent: "temper-item-category-tree/siege-equipment",
   displayOrder: 1,
   specializedItemTypes: [402],
 } as const satisfies TemperItemCategoryTree

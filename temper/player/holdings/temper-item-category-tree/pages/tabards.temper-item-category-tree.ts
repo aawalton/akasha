@@ -5,7 +5,7 @@ export const tabards = {
   type: "page-type/temper-item-category-tree",
   slug: "tabards",
   title: "Tabards",
-  parent: "appearance",
+  parent: "temper-item-category-tree/appearance",
   displayOrder: 2,
   itemTypes: [15],
 } as const satisfies TemperItemCategoryTree

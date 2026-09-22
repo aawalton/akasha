@@ -5,7 +5,7 @@ export const furnTrees = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-trees",
   title: "Trees",
-  parent: "furn-conservatory",
+  parent: "temper-item-category-tree/furn-conservatory",
   displayOrder: 14,
   furnitureSubcategoryIds: [107],
 } as const satisfies TemperItemCategoryTree

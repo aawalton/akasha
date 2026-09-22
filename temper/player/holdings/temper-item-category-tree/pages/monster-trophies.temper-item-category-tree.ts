@@ -5,7 +5,7 @@ export const monsterTrophies = {
   type: "page-type/temper-item-category-tree",
   slug: "monster-trophies",
   title: "Monster Trophies",
-  parent: "treasures",
+  parent: "temper-item-category-tree/treasures",
   displayOrder: 0,
   specializedItemTypes: [81],
 } as const satisfies TemperItemCategoryTree

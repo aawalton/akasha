@@ -5,7 +5,7 @@ export const recipeBlueprint = {
   type: "page-type/temper-item-category-tree",
   slug: "recipe-blueprint",
   title: "Blueprints (Woodworking)",
-  parent: "furnishing-recipes",
+  parent: "temper-item-category-tree/furnishing-recipes",
   displayOrder: 2,
   specializedItemTypes: [177],
 } as const satisfies TemperItemCategoryTree

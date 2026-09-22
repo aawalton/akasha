@@ -5,7 +5,7 @@ export const poisonSolvents = {
   type: "page-type/temper-item-category-tree",
   slug: "poison-solvents",
   title: "Poison Solvents",
-  parent: "alchemy",
+  parent: "temper-item-category-tree/alchemy",
   displayOrder: 3,
   itemTypes: [58],
 } as const satisfies TemperItemCategoryTree

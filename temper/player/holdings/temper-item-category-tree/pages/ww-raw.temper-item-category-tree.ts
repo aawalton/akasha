@@ -5,7 +5,7 @@ export const wwRaw = {
   type: "page-type/temper-item-category-tree",
   slug: "ww-raw",
   title: "Raw Materials",
-  parent: "woodworking",
+  parent: "temper-item-category-tree/woodworking",
   displayOrder: 1,
   itemTypes: [37],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const jcRaw = {
   type: "page-type/temper-item-category-tree",
   slug: "jc-raw",
   title: "Raw Materials",
-  parent: "jewelry-crafting",
+  parent: "temper-item-category-tree/jewelry-crafting",
   displayOrder: 1,
   itemTypes: [63],
 } as const satisfies TemperItemCategoryTree

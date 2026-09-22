@@ -5,7 +5,7 @@ export const containerStylePage = {
   type: "page-type/temper-item-category-tree",
   slug: "container-style-page",
   title: "Style Page",
-  parent: "containers",
+  parent: "temper-item-category-tree/containers",
   displayOrder: 4,
   specializedItemTypes: [852],
 } as const satisfies TemperItemCategoryTree

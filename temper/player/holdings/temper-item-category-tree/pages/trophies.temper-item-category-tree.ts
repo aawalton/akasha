@@ -5,7 +5,7 @@ export const trophies = {
   type: "page-type/temper-item-category-tree",
   slug: "trophies",
   title: "Trophies",
-  parent: "miscellaneous",
+  parent: "temper-item-category-tree/miscellaneous",
   displayOrder: 5,
   itemTypes: [5],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const recipeDiagram = {
   type: "page-type/temper-item-category-tree",
   slug: "recipe-diagram",
   title: "Diagrams (Blacksmithing)",
-  parent: "furnishing-recipes",
+  parent: "temper-item-category-tree/furnishing-recipes",
   displayOrder: 0,
   specializedItemTypes: [172],
 } as const satisfies TemperItemCategoryTree

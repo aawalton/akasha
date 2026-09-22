@@ -5,7 +5,7 @@ export const recipeSchematic = {
   type: "page-type/temper-item-category-tree",
   slug: "recipe-schematic",
   title: "Schematics (Enchanting)",
-  parent: "furnishing-recipes",
+  parent: "temper-item-category-tree/furnishing-recipes",
   displayOrder: 4,
   specializedItemTypes: [174],
 } as const satisfies TemperItemCategoryTree

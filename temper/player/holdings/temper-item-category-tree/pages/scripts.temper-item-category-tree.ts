@@ -5,7 +5,7 @@ export const scripts = {
   type: "page-type/temper-item-category-tree",
   slug: "scripts",
   title: "Scripts",
-  parent: "scribing",
+  parent: "temper-item-category-tree/scribing",
   displayOrder: 1,
   itemTypes: [73],
 } as const satisfies TemperItemCategoryTree

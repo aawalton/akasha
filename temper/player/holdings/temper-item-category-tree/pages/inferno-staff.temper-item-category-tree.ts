@@ -5,7 +5,7 @@ export const infernoStaff = {
   type: "page-type/temper-item-category-tree",
   slug: "inferno-staff",
   title: "Inferno Staff",
-  parent: "destruction-staff",
+  parent: "temper-item-category-tree/destruction-staff",
   displayOrder: 0,
   weaponTypes: [12],
 } as const satisfies TemperItemCategoryTree

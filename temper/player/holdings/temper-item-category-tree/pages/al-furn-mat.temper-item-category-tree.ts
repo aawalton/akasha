@@ -5,7 +5,7 @@ export const alFurnMat = {
   type: "page-type/temper-item-category-tree",
   slug: "al-furn-mat",
   title: "Furnishing Materials",
-  parent: "alchemy",
+  parent: "temper-item-category-tree/alchemy",
   displayOrder: 0,
   filterTypes: [16],
   itemTypes: [62],

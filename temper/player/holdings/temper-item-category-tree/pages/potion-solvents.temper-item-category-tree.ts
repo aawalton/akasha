@@ -5,7 +5,7 @@ export const potionSolvents = {
   type: "page-type/temper-item-category-tree",
   slug: "potion-solvents",
   title: "Potion Solvents",
-  parent: "alchemy",
+  parent: "temper-item-category-tree/alchemy",
   displayOrder: 2,
   itemTypes: [33],
 } as const satisfies TemperItemCategoryTree

@@ -6,11 +6,16 @@ export const temperResearchLine = {
   slug: "temper-research-line",
   definition: "a shape of item whose traits a player researches",
   extends: ["page-type/temper-pursuit-thing"],
-  parts: ["number-property/trait-index", "page-property-entry/traits", "text-property/trait-name"],
+  parts: [
+    "number-property/trait-index",
+    "page-property-entry/traits",
+    "text-property/trait-name",
+    "relation-property/research-line-craft",
+  ],
   properties: [
-    { pageProperty: "text-property/parent", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "page-property-entry/traits", required: true, many: false },
+    { pageProperty: "relation-property/research-line-craft", required: true, many: false },
   ],
   decisions: [
     {

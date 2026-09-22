@@ -5,7 +5,7 @@ export const mediumJack = {
   type: "page-type/temper-item-category-tree",
   slug: "medium-jack",
   title: "Jack",
-  parent: "medium-armor",
+  parent: "temper-item-category-tree/medium-armor",
   displayOrder: 1,
   equipTypes: [3],
 } as const satisfies TemperItemCategoryTree

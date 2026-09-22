@@ -5,6 +5,6 @@ export const knowledgeCollectibles = {
   type: "page-type/temper-item-category-tree",
   slug: "knowledge-collectibles",
   title: "Collectibles",
-  parent: "knowledge",
+  parent: "temper-item-category-tree/knowledge",
   displayOrder: 3,
 } as const satisfies TemperItemCategoryTree

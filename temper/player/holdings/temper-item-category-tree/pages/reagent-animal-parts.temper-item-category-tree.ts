@@ -5,7 +5,7 @@ export const reagentAnimalParts = {
   type: "page-type/temper-item-category-tree",
   slug: "reagent-animal-parts",
   title: "Animal Parts",
-  parent: "reagents",
+  parent: "temper-item-category-tree/reagents",
   displayOrder: 2,
   specializedItemTypes: [152],
 } as const satisfies TemperItemCategoryTree

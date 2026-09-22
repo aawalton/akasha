@@ -5,6 +5,6 @@ export const currencyTelvarStones = {
   type: "page-type/temper-item-category-tree",
   slug: "currency-telvar-stones",
   title: "Tel Var Stones",
-  parent: "currency",
+  parent: "temper-item-category-tree/currency",
   displayOrder: 2,
 } as const satisfies TemperItemCategoryTree

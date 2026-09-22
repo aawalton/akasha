@@ -5,7 +5,7 @@ export const furnBoulders = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-boulders",
   title: "Boulders and Large Rocks",
-  parent: "furn-conservatory",
+  parent: "temper-item-category-tree/furn-conservatory",
   displayOrder: 1,
   furnitureSubcategoryIds: [151],
 } as const satisfies TemperItemCategoryTree

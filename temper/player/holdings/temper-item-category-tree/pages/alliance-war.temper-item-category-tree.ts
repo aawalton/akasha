@@ -5,6 +5,6 @@ export const allianceWar = {
   type: "page-type/temper-item-category-tree",
   slug: "alliance-war",
   title: "Alliance War",
-  parent: "miscellaneous",
+  parent: "temper-item-category-tree/miscellaneous",
   displayOrder: 0,
 } as const satisfies TemperItemCategoryTree

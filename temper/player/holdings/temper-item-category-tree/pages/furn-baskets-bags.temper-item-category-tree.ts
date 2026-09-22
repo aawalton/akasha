@@ -5,7 +5,7 @@ export const furnBasketsBags = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-baskets-bags",
   title: "Baskets and Bags",
-  parent: "furn-hearth",
+  parent: "temper-item-category-tree/furn-hearth",
   displayOrder: 0,
   furnitureSubcategoryIds: [86],
 } as const satisfies TemperItemCategoryTree

@@ -18,6 +18,7 @@ export const temperItemCategoryTree = {
     "number-property/trait-type-range",
     "number-property/weapon-types",
     "text-property/item-name-contains",
+    "relation-property/item-category-parent",
   ],
   properties: [
     { pageProperty: "number-property/display-order", required: true, many: false },
@@ -72,7 +73,7 @@ export const temperItemCategoryTree = {
     },
     { pageProperty: "number-property/priority-order", required: false, many: false },
     { pageProperty: "text-property/item-name-contains", required: false, many: false },
-    { pageProperty: "text-property/parent", required: false, many: false },
+    { pageProperty: "relation-property/item-category-parent", required: false, many: false },
   ],
   decisions: [
     {

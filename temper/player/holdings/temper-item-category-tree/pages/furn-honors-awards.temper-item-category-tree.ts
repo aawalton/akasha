@@ -5,7 +5,7 @@ export const furnHonorsAwards = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-honors-awards",
   title: "Honors and Awards",
-  parent: "furn-gallery",
+  parent: "temper-item-category-tree/furn-gallery",
   displayOrder: 3,
   furnitureSubcategoryIds: [147],
 } as const satisfies TemperItemCategoryTree

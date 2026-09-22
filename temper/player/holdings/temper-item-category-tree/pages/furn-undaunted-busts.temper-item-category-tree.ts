@@ -5,7 +5,7 @@ export const furnUndauntedBusts = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-undaunted-busts",
   title: "Undaunted Busts",
-  parent: "furn-gallery",
+  parent: "temper-item-category-tree/furn-gallery",
   displayOrder: 7,
   furnitureSubcategoryIds: [89],
 } as const satisfies TemperItemCategoryTree

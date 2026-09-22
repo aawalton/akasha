@@ -6,6 +6,6 @@ export const woodworkingInfernoStaff = {
   slug: "woodworking-inferno-staff",
   title: "Inferno Staff",
   displayOrder: 2,
-  parent: "woodworking",
+  parent: "temper-craft-type/woodworking",
   traits: "jsonl",
 } as const satisfies TemperResearchLine

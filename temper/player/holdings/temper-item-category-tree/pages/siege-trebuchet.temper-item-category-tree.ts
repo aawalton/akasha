@@ -5,7 +5,7 @@ export const siegeTrebuchet = {
   type: "page-type/temper-item-category-tree",
   slug: "siege-trebuchet",
   title: "Trebuchet",
-  parent: "siege-equipment",
+  parent: "temper-item-category-tree/siege-equipment",
   displayOrder: 0,
   specializedItemTypes: [400],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const mounts = {
   type: "page-type/temper-item-category-tree",
   slug: "mounts",
   title: "Mounts",
-  parent: "appearance",
+  parent: "temper-item-category-tree/appearance",
   displayOrder: 4,
   itemTypes: [50],
 } as const satisfies TemperItemCategoryTree

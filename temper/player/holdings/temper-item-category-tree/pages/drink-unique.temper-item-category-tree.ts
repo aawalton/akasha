@@ -5,7 +5,7 @@ export const drinkUnique = {
   type: "page-type/temper-item-category-tree",
   slug: "drink-unique",
   title: "Unique",
-  parent: "drink",
+  parent: "temper-item-category-tree/drink",
   displayOrder: 7,
   specializedItemTypes: [27],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const furnDeconstructionAssistants = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-deconstruction-assistants",
   title: "Deconstruction Assistants",
-  parent: "furn-services",
+  parent: "temper-item-category-tree/furn-services",
   displayOrder: 3,
   furnitureSubcategoryIds: [200],
 } as const satisfies TemperItemCategoryTree

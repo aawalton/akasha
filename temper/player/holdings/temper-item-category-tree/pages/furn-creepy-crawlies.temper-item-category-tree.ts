@@ -5,7 +5,7 @@ export const furnCreepyCrawlies = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-creepy-crawlies",
   title: "Creepy Crawlies",
-  parent: "furn-pets",
+  parent: "temper-item-category-tree/furn-pets",
   displayOrder: 0,
   furnitureSubcategoryIds: [40],
 } as const satisfies TemperItemCategoryTree

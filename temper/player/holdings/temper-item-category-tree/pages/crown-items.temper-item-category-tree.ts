@@ -5,7 +5,7 @@ export const crownItems = {
   type: "page-type/temper-item-category-tree",
   slug: "crown-items",
   title: "Crown Items",
-  parent: "consumables",
+  parent: "temper-item-category-tree/consumables",
   displayOrder: 8,
   itemTypes: [57],
 } as const satisfies TemperItemCategoryTree

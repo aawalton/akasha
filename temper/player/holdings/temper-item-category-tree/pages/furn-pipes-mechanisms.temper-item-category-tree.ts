@@ -5,7 +5,7 @@ export const furnPipesMechanisms = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-pipes-mechanisms",
   title: "Pipes and Mechanisms",
-  parent: "furn-workshop",
+  parent: "temper-item-category-tree/furn-workshop",
   displayOrder: 3,
   furnitureSubcategoryIds: [158],
 } as const satisfies TemperItemCategoryTree

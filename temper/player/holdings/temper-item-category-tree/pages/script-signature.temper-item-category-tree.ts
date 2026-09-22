@@ -5,7 +5,7 @@ export const scriptSignature = {
   type: "page-type/temper-item-category-tree",
   slug: "script-signature",
   title: "Signature",
-  parent: "scripts",
+  parent: "temper-item-category-tree/scripts",
   displayOrder: 1,
   specializedItemTypes: [3251],
 } as const satisfies TemperItemCategoryTree

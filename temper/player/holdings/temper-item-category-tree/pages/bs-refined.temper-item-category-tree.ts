@@ -5,7 +5,7 @@ export const bsRefined = {
   type: "page-type/temper-item-category-tree",
   slug: "bs-refined",
   title: "Refined Materials",
-  parent: "blacksmithing",
+  parent: "temper-item-category-tree/blacksmithing",
   displayOrder: 2,
   specializedItemTypes: [1550],
 } as const satisfies TemperItemCategoryTree

@@ -5,7 +5,7 @@ export const containerUnopened = {
   type: "page-type/temper-item-category-tree",
   slug: "container-unopened",
   title: "Unopened",
-  parent: "containers",
+  parent: "temper-item-category-tree/containers",
   displayOrder: 5,
   itemTypes: [75],
 } as const satisfies TemperItemCategoryTree

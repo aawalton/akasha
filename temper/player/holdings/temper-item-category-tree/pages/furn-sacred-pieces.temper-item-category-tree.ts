@@ -5,7 +5,7 @@ export const furnSacredPieces = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-sacred-pieces",
   title: "Sacred Pieces",
-  parent: "furn-undercroft",
+  parent: "temper-item-category-tree/furn-undercroft",
   displayOrder: 4,
   furnitureSubcategoryIds: [106],
 } as const satisfies TemperItemCategoryTree

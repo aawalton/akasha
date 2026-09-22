@@ -5,7 +5,7 @@ export const furnQuasigriffs = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-quasigriffs",
   title: "Quasigriffs",
-  parent: "furn-mounts",
+  parent: "temper-item-category-tree/furn-mounts",
   displayOrder: 14,
   furnitureSubcategoryIds: [212],
 } as const satisfies TemperItemCategoryTree

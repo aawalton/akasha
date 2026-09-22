@@ -5,7 +5,7 @@ export const twoHanded = {
   type: "page-type/temper-item-category-tree",
   slug: "two-handed",
   title: "Two-Handed",
-  parent: "weapons",
+  parent: "temper-item-category-tree/weapons",
   displayOrder: 1,
   equipTypes: [6],
   weaponTypes: [4, 5, 6],

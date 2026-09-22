@@ -5,7 +5,7 @@ export const motifChapters = {
   type: "page-type/temper-item-category-tree",
   slug: "motif-chapters",
   title: "Motif Chapters",
-  parent: "style-motifs",
+  parent: "temper-item-category-tree/style-motifs",
   displayOrder: 1,
   specializedItemTypes: [61],
 } as const satisfies TemperItemCategoryTree

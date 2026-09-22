@@ -5,6 +5,6 @@ export const currencyAlliancePoints = {
   type: "page-type/temper-item-category-tree",
   slug: "currency-alliance-points",
   title: "Alliance Points",
-  parent: "currency",
+  parent: "temper-item-category-tree/currency",
   displayOrder: 1,
 } as const satisfies TemperItemCategoryTree

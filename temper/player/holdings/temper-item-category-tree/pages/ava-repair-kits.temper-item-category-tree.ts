@@ -5,7 +5,7 @@ export const avaRepairKits = {
   type: "page-type/temper-item-category-tree",
   slug: "ava-repair-kits",
   title: "Repair Kits",
-  parent: "alliance-war",
+  parent: "temper-item-category-tree/alliance-war",
   displayOrder: 1,
   itemTypes: [47],
 } as const satisfies TemperItemCategoryTree

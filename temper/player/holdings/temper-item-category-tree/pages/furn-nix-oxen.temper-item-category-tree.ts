@@ -5,7 +5,7 @@ export const furnNixOxen = {
   type: "page-type/temper-item-category-tree",
   slug: "furn-nix-oxen",
   title: "Nix-Oxen",
-  parent: "furn-mounts",
+  parent: "temper-item-category-tree/furn-mounts",
   displayOrder: 12,
   furnitureSubcategoryIds: [176],
 } as const satisfies TemperItemCategoryTree

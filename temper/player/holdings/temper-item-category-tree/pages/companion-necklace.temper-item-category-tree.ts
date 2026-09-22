@@ -5,7 +5,7 @@ export const companionNecklace = {
   type: "page-type/temper-item-category-tree",
   slug: "companion-necklace",
   title: "Necklace",
-  parent: "companion-jewelry",
+  parent: "temper-item-category-tree/companion-jewelry",
   displayOrder: 0,
   equipTypes: [2],
 } as const satisfies TemperItemCategoryTree
