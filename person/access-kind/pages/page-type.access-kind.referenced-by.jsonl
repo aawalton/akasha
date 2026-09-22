@@ -10,6 +10,7 @@
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-named-event.person-access.ts","id":"01a0c5f6-7a2d-7fc6-bf36-9895052cc1d6"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-named-event.person-access.ts","id":"01a0c5f6-f46b-71d2-91eb-1f25ec3e15c9"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-page-type.person-access.ts","id":"01a0c656-a320-7386-893c-f20b5f3392ed"}
+{"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-view.person-access.ts","id":"01a0c941-483d-7596-a092-904f42cd7b6f"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-world-aspect.person-access.ts","id":"01a0c5f9-0e3b-7f5d-83ae-bf78b9e4289c"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-world-boon.person-access.ts","id":"01a0c5f8-cb95-7bd8-9963-b234274d0653"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-world-carried-memory.person-access.ts","id":"01a0c5f8-f7a6-75c8-b096-6381cb5c4db0"}
@@ -31,6 +32,7 @@
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-world-spell.person-access.ts","id":"01a0c5f6-a594-75f1-847b-826adc50da13"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-world-title.person-access.ts","id":"01a0c5f7-bc64-738b-99be-2e46ca3a1397"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-world.person-access.ts","id":"01a0c5f6-fec4-797d-bbd5-46c4fb377596"}
+{"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-view.person-access.ts","id":"01a0c941-33fe-7e7c-8586-a2de77709054"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-world-aspect.person-access.ts","id":"01a0c5f9-02b7-7b88-8a61-51951982c586"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-world-boon.person-access.ts","id":"01a0c5f8-c021-7045-9a36-9898d268ea12"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-world-carried-memory.person-access.ts","id":"01a0c5f8-ecda-7924-9ece-8a5a96272679"}

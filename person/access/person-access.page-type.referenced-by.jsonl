@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-named-event.person-access.ts"}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-page-type-named-event.person-access.ts"}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-page-type-page-type.person-access.ts"}
+{"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-page-type-view.person-access.ts"}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-page-type-world-aspect.person-access.ts"}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-page-type-world-boon.person-access.ts"}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-page-type-world-carried-memory.person-access.ts"}
@@ -34,6 +35,7 @@
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-page-type-world-spell.person-access.ts"}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-page-type-world-title.person-access.ts"}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-page-type-world.person-access.ts"}
+{"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-view.person-access.ts"}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-world-aspect.person-access.ts"}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-world-boon.person-access.ts"}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-world-carried-memory.person-access.ts"}
