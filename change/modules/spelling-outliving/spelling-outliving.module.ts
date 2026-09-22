@@ -35,7 +35,12 @@ export const spellingOutliving = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The tree is searched once for the old name, whatever kind of file holds it.",
+      statement:
+        "The tree is searched once for every name handed in, whatever kind of file holds it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body is read once and weighed against every name handed in.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -177,6 +177,10 @@ export const renameFilePage = {
       statement:
         "The old slug this rename left written elsewhere is named rather than passed over.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call saying the old spellings are named already names none here.",
+    },
   ],
   changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

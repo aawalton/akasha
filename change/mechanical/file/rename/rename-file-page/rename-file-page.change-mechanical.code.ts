@@ -7,11 +7,12 @@ import { carrying, type World } from "akasha/change/modules/shadow/change-shadow
 import { survivingSaid } from "akasha/change/modules/spelling-outliving/spelling-outliving.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
-export type Asked = Renaming
+export type Asked = Renaming & { readonly spellingsNamed?: boolean }
 
 export function runChange(world: World, given: Asked): Answer {
   const said = pageRenamed(world, given)
   const was = partedIn(given.at)?.slug ?? null
-  if (said.refused !== null || was === null || was === given.to) return said
+  if (said.refused !== null || given.spellingsNamed === true) return said
+  if (was === null || was === given.to) return said
   return telling(said, survivingSaid(carrying(world, said), was))
 }

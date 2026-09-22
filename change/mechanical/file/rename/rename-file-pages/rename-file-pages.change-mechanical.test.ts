@@ -41,6 +41,8 @@ const SPELLER_PAGE = "akasha/speller.module.ts"
 
 const SPELLER_CODE = "akasha/speller.module.code.ts"
 
+const LEFTOVER = "akasha/left.module.code.ts"
+
 const RENAME_FILE_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
 
 const TYPE_BODY = `export type Kept = { readonly id: string }
@@ -65,6 +67,7 @@ function repoIn(): string {
       code: "ts",
     }),
     [SPELLER_CODE]: `export const at = ["kept/one", "kept/two"]\n`,
+    [LEFTOVER]: `export const named = ["one", "two"]\n`,
   })
 }
 
@@ -114,15 +117,25 @@ test("the addresses are restated by the module before any page's rename is reach
   expect(renaming.length).toBe(2)
 })
 
-test("each page's rename is told the addresses are restated already", async () => {
+test("each page's rename is told the addresses and the old spellings are answered already", async () => {
   const traced = tracing()
   await runChange(worldIn(KEPT_ROOT, traced.runs), ASKED)
   const renaming = traced.reached.filter((one) => one.at === RENAME_FILE_PAGE)
 
   expect(renaming.map((one) => one.given)).toEqual([
-    { at: ONE_PAGE, to: "first", addressesRestated: true },
-    { at: TWO_PAGE, to: "second", addressesRestated: true },
+    { at: ONE_PAGE, to: "first", addressesRestated: true, spellingsNamed: true },
+    { at: TWO_PAGE, to: "second", addressesRestated: true, spellingsNamed: true },
   ])
+})
+
+test("every old spelling a body still holds is named over one search", async () => {
+  const traced = tracing()
+  const said = await runChange(worldIn(KEPT_ROOT, traced.runs), ASKED)
+  const told = (said.told ?? []).join("\n")
+
+  expect(told).toContain("`one` is still written in")
+  expect(told).toContain("`two` is still written in")
+  expect(told.split(LEFTOVER).length - 1).toBe(2)
 })
 
 test("a page whose body cannot be read refuses the whole answer", async () => {

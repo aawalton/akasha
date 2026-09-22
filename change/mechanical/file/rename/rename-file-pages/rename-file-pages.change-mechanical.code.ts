@@ -5,6 +5,7 @@ import {
   type Answer,
   gathered,
   refusing,
+  telling,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { statedIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import {
@@ -12,7 +13,9 @@ import {
   reach,
   type World,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { survivingEachSaid } from "akasha/change/modules/spelling-outliving/spelling-outliving.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const RENAME_FILE_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
 
@@ -59,6 +62,16 @@ export function addressesIn(held: readonly Held[]): Record<string, string> {
   return found
 }
 
+function spellingsWere(held: readonly Held[]): readonly string[] {
+  const found: string[] = []
+  for (const one of held) {
+    const was = partedIn(one.at)?.slug ?? null
+    if (was === null || was === one.to) continue
+    found.push(was)
+  }
+  return found
+}
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const read = readIn(world, given.moved)
   if ("refused" in read) return refusing(`${read.refused}, so no page is renamed`)
@@ -77,10 +90,11 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
       at: one.at,
       to: one.to,
       addressesRestated: true,
+      spellingsNamed: true,
     })
     if (renamed.said.refused !== null) return renamed.said
     answers.push(renamed.said)
     seen = renamed.world
   }
-  return gathered(answers)
+  return telling(gathered(answers), survivingEachSaid(seen, spellingsWere(read.held)))
 }

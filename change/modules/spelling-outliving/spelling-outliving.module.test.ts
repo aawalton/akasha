@@ -9,6 +9,8 @@ import {
   AT_MOST,
   survivalSaid,
   survivedIn,
+  survivedOver,
+  survivingEachSaid,
   survivingSaid,
 } from "akasha/change/modules/spelling-outliving/spelling-outliving.module.code.ts"
 import {
@@ -22,6 +24,8 @@ afterAll(scratch.sweep)
 const WAS = "held-day"
 
 const BARE = "akasha/one/bare.module.code.ts"
+
+const LONGEST = "held-day-slug"
 
 const LONGER = "akasha/one/longer.module.code.ts"
 
@@ -77,6 +81,20 @@ test("the body weighed is the body the change leaves rather than the body on dis
   )
 
   expect(survivedIn(carrying(world, spelled), WAS, nothing)).toBeNull()
+})
+
+test("one search answers every name handed in", () => {
+  const found = survivedOver(worldHolding(), [WAS, LONGEST], nothing)
+
+  expect(namedIn(found.get(WAS) ?? null)).toEqual([BARE, SOWN])
+  expect(namedIn(found.get(LONGEST) ?? null)).toEqual([LONGER])
+})
+
+test("every name handed in is said in the order it was handed in", () => {
+  const lines = survivingEachSaid(worldHolding(), [LONGEST, WAS])
+
+  expect(lines[0] ?? "").toContain(`\`${LONGEST}\``)
+  expect(lines[1] ?? "").toContain(`\`${WAS}\``)
 })
 
 test("a name written nowhere is said nothing of", () => {

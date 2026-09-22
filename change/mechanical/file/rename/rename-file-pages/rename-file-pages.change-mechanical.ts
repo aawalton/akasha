@@ -33,6 +33,18 @@ export const renameFilePages = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That change is told the old spellings are named already.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every old spelling still written is named over one search of the tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That naming comes after every page is renamed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page handed in under the slug that page carries has no address restated.",
     },
     {
