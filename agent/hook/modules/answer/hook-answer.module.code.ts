@@ -129,6 +129,61 @@ export const JUDGE = "judgedFor"
 
 export type Judging = (payload: Record<string, unknown>) => Answer | Promise<Answer>
 
+type Payloaded = { readonly payload: Record<string, unknown> } | { readonly answer: Answer }
+
+function payloadOf(raw: string, hook: string): Payloaded {
+  if (raw.trim() === "") return { payload: {} }
+  let read: Record<string, unknown> | null
+  try {
+    read = parseHookPayload(raw)
+  } catch {
+    return { answer: unreadable(hook, "the hook payload would not parse") }
+  }
+  if (read === null) return { answer: unreadable(hook, "the hook payload is not an object") }
+  return { payload: read }
+}
+
+function fromOf(payload: Record<string, unknown>): string {
+  const held = payload["cwd"]
+  return typeof held === "string" ? held : ""
+}
+
+function judgingHook(
+  hook: string,
+  key: string,
+  at: string,
+  judging: (command: string, from: string, root: string) => string | null
+): (payload: Record<string, unknown>) => Answer {
+  return (payload: Record<string, unknown>): Answer => {
+    const held = toolInputIn(payload, key)
+    if (held === null) return unreadable(hook, "the hook payload is not an object")
+    const reason = judging(held, fromOf(payload), rootOf(at))
+    return reason === null ? LET_THROUGH : refusing(reason)
+  }
+}
+
+export function judgingCommandHook(
+  hook: string,
+  at: string,
+  judging: (command: string, from: string, root: string) => string | null
+): (payload: Record<string, unknown>) => Answer {
+  return judgingHook(hook, "command", at, judging)
+}
+
+export async function ranAsJudged(
+  hook: string,
+  scope: readonly string[],
+  judged: Judging
+): Promise<number> {
+  if (Bun.argv[2] === SCOPE_FLAG) {
+    process.stdout.write(`${scope.join("\n")}\n`)
+    return ASIDE
+  }
+  const read = payloadOf(await Bun.stdin.text(), hook)
+  if ("answer" in read) return said(read.answer)
+  return said(await judged(read.payload))
+}
+
 export async function ranAsCommandHook(
   hook: string,
   scope: readonly string[],

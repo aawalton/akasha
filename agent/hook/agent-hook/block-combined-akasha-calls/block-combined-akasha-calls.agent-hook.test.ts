@@ -1,10 +1,27 @@
 import { expect, test } from "bun:test"
 import {
+  judgedFor,
   quotedIn,
   refusalIn,
 } from "akasha/agent/hook/agent-hook/block-combined-akasha-calls/block-combined-akasha-calls.agent-hook.code.ts"
+import { LET_THROUGH, REFUSED } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 
 const NAMES = "block-combined-akasha-calls"
+
+test("the judgement this hook exports refuses a call its rule refuses", () => {
+  const said = judgedFor({ tool_input: { command: "akasha read --file-path a.ts | head -3" } })
+
+  expect(said.code).toBe(REFUSED)
+  expect(said.err).toContain(NAMES)
+})
+
+test("the judgement this hook exports stands aside from a call its rule lets through", () => {
+  expect(judgedFor({ tool_input: { command: "git status" } })).toEqual(LET_THROUGH)
+})
+
+test("the judgement this hook exports reads the refusal out of the tool input alone", () => {
+  expect(judgedFor({ tool_name: "Bash" })).toEqual(LET_THROUGH)
+})
 
 test("a refusal quotes the command refused", () => {
   expect(refusalIn("akasha read --file-path a.ts | head -3") ?? "").toContain(

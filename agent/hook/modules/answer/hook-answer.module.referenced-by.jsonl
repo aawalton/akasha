@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-bun-test/block-bun-test.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-bun-test/block-bun-test.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-combined-akasha-calls/block-combined-akasha-calls.agent-hook.code.ts"}
+{"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-combined-akasha-calls/block-combined-akasha-calls.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.test.ts"}
