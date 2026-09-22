@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"}
+{"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts"}

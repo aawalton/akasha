@@ -1,3 +1,4 @@
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   pageOfRow,
   textIn,
@@ -109,14 +110,14 @@ export function pageTypeOf(path: string): string | null {
   return partedIn(path)?.pageType ?? null
 }
 
-export function mortalityIn(shadow: Shadow, known: Known): Mortality {
+export function mortalityIn(paged: Paged, known: Known): Mortality {
   const byType = new Map<string, boolean>()
   const byPage = new Map<string, string | null>()
   const stated = (pageTypeSlug: string): boolean => {
     const held = byType.get(pageTypeSlug)
     if (held !== undefined) return held
-    const one = shadow.index.listedAt(PAGE_TYPE, pageTypeSlug)[0]
-    const value = one === undefined ? null : shadow.pageOf(one.path)
+    const one = paged.index.listedAt(PAGE_TYPE, pageTypeSlug)[0]
+    const value = one === undefined ? null : paged.pageOf(one.path)
     const said = value !== null && value["mortal"] === true
     byType.set(pageTypeSlug, said)
     return said

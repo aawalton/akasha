@@ -12,12 +12,15 @@ import {
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-export type Commit = {
+export type Paged = {
+  readonly pageOf: (path: string) => Value | null
+  readonly index: Answering
+}
+
+export type Commit = Paged & {
   readonly root: string
   readonly paths: readonly string[]
   readonly read: (path: string) => string | null
-  readonly pageOf: (path: string) => Value | null
-  readonly index: Answering
 }
 
 const PATHS_FROM = "--"
