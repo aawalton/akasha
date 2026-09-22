@@ -4,6 +4,7 @@ export const jamesTaylorJamesTaylorAtChristmasBabyItsColdOutsideFeatNatalieCole 
   id: "01a0abeb-2cc2-78e7-bb1a-d77cea4a5b41",
   type: "page-type/track",
   slug: "james-taylor-james-taylor-at-christmas-baby-its-cold-outside-feat-natalie-cole",
+  grade: "A",
   ownLength: 4.294666666666667,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
