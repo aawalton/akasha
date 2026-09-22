@@ -4,7 +4,7 @@ export const sellPricing = {
   id: "01a060c0-0b9f-7135-8c4b-e497247c8a35",
   type: "page-type/module",
   slug: "sell-pricing",
-  definition: "what to ask for an item, and the key its market price is filed under",
+  definition: "what to ask for an item, and the item's price key",
   code: "ts",
   decisions: [
     {

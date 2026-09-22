@@ -4,7 +4,7 @@ export const temperEquipment = {
   id: "01a060d5-2f11-79b8-9e55-62a1973c12cc",
   type: "page-type/domain",
   slug: "temper-equipment",
-  definition: "the types an Elder Scrolls Online gear set and the pieces it covers are named by",
+  definition: "the types of an Elder Scrolls Online gear set and the pieces it covers",
   parts: [
     "module/armor-traits",
     "module/armor-weight-ids",

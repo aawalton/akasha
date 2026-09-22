@@ -5,7 +5,7 @@ export const learnedLevel = {
   type: "page-type/number-property",
   slug: "learned-level",
   propertySlug: "learned-level",
-  definition: "the character level a skill is learned at",
+  definition: "the character level at which a skill is learned",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

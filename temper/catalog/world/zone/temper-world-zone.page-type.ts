@@ -4,7 +4,7 @@ export const temperWorldZone = {
   id: "01a06167-3f9b-700d-bf56-54687a9f3c3a",
   type: "page-type/page-type",
   slug: "temper-world-zone",
-  definition: "a region of the game world a player is shown completion against",
+  definition: "a region of the game world against which a player is shown completion",
   extends: ["page-type/temper-catalog-thing"],
   parts: [
     "number-property/activity-index",

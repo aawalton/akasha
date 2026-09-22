@@ -5,7 +5,7 @@ export const collectibleName = {
   type: "page-type/text-property",
   slug: "collectible-name",
   propertySlug: "collectible-name",
-  definition: "the name the game shows a collectible under",
+  definition: "the name the game gives a collectible",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

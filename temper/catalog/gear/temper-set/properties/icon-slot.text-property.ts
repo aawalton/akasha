@@ -5,7 +5,7 @@ export const iconSlot = {
   type: "page-type/text-property",
   slug: "icon-slot",
   propertySlug: "slot",
-  definition: "the piece an icon is shown for",
+  definition: "the piece for which an icon is shown",
   maxLength: 100,
   nameFormat: null,
   decisions: [

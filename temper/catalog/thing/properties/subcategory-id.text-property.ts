@@ -5,7 +5,7 @@ export const subcategoryId = {
   type: "page-type/text-property",
   slug: "subcategory-id",
   propertySlug: "subcategory-id",
-  definition: "the narrower group a thing is filed under",
+  definition: "a thing's narrower group",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

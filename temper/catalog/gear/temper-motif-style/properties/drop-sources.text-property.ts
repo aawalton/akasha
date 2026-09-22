@@ -5,7 +5,7 @@ export const dropSources = {
   type: "page-type/text-property",
   slug: "drop-sources",
   propertySlug: "drop-sources",
-  definition: "the daily errands a style's motif pages drop from",
+  definition: "the daily errands that drop a style's motif pages",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

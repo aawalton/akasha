@@ -5,7 +5,7 @@ export const altName = {
   type: "page-type/text-property",
   slug: "alt-name",
   propertySlug: "alt-name",
-  definition: "the second name a people is known by",
+  definition: "a people's second name",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

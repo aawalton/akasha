@@ -5,7 +5,7 @@ export const minDistance = {
   type: "page-type/number-property",
   slug: "min-distance",
   propertySlug: "min-distance",
-  definition: "the nearest range a test holds at",
+  definition: "a test's nearest range",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

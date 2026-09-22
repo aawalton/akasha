@@ -4,7 +4,7 @@ export const temperCompanionTrait = {
   id: "01a05fce-1854-7c89-a767-43b54ae4cefa",
   type: "page-type/page-type",
   slug: "temper-companion-trait",
-  definition: "a property a piece of companion equipment is worked with",
+  definition: "a property worked into a piece of companion equipment",
   extends: ["page-type/temper-companion-thing"],
   parts: [
     "boolean-property/is-reduction",
