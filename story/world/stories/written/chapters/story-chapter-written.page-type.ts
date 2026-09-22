@@ -6,25 +6,9 @@ export const storyChapterWritten = {
   slug: "story-chapter-written",
   definition: "a chapter of a story written here",
   pluralSlug: "chapters",
-  extends: ["page-type/collection"],
+  extends: ["page-type/chapter"],
   runsTabooCheck: false,
-  parts: ["relation-property/written-chapter-story"],
-  properties: [
-    { pageProperty: "text-property/title", required: true, many: false },
-    {
-      pageProperty: "relation-property/written-chapter-story",
-      required: true,
-      many: false,
-    },
-    { pageProperty: "number-property/own-length", required: true, many: false },
-    { pageProperty: "file-property/prose", required: true, many: false },
-  ],
   decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A chapter is part of the one story the chapter was written for.",
-    },
-
     {
       decisionKind: "decision-kind/departure",
       statement: "A chapter's text from before a rewrite is kept in git rather than in a page.",

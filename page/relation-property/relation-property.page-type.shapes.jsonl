@@ -153,4 +153,3 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"audio","unique":null,"uniquePropertySlug":null,"slug":"voice-reference","propertySlug":"voice-reference","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-location","unique":null,"uniquePropertySlug":null,"slug":"within-location","propertySlug":"within","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world","unique":null,"uniquePropertySlug":null,"slug":"world","propertySlug":"world","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"story-written","unique":null,"uniquePropertySlug":null,"slug":"written-chapter-story","propertySlug":"story","fileName":null,"folderName":null}
