@@ -6,6 +6,7 @@ export const characterSheet = {
   slug: "character-sheet",
   definition: "what a character is made of, as the play has left it",
   code: "tsx",
+  drawn: "js",
   place: "panel-place/aside",
   decisions: [
     {

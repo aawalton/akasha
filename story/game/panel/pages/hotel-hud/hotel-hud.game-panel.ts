@@ -6,5 +6,6 @@ export const hotelHud = {
   slug: "hotel-hud",
   definition: "the hotel's three pools, read off what the climber has left",
   code: "tsx",
+  drawn: "js",
   place: "panel-place/aside",
 } as const satisfies GamePanel

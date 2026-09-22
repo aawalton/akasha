@@ -6,5 +6,6 @@ export const storySoFar = {
   slug: "story-so-far",
   definition: "what has happened up to now, chapter by chapter",
   code: "tsx",
+  drawn: "js",
   place: "panel-place/above",
 } as const satisfies GamePanel

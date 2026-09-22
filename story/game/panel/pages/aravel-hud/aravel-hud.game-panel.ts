@@ -6,5 +6,6 @@ export const aravelHud = {
   slug: "aravel-hud",
   definition: "Aravel's three pools, read off what the traveller has left",
   code: "tsx",
+  drawn: "js",
   place: "panel-place/aside",
 } as const satisfies GamePanel

@@ -6,5 +6,6 @@ export const questList = {
   slug: "quest-list",
   definition: "what a character has taken on and how far along each one is",
   code: "tsx",
+  drawn: "js",
   place: "panel-place/aside",
 } as const satisfies GamePanel

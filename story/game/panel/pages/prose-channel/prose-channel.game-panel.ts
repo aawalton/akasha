@@ -7,4 +7,5 @@ export const proseChannel = {
   definition: "the run of prose play left a story, turn by turn",
   place: "panel-place/run",
   code: "tsx",
+  drawn: "js",
 } as const satisfies GamePanel
