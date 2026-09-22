@@ -4,7 +4,7 @@ export const temperAddonWorldGps = {
   id: "01a0c73e-7d6a-7946-97db-4f5039b65470",
   type: "page-type/domain",
   slug: "temper-addon-world-gps",
-  definition: "one map's coordinates carried onto Tamriel's and onto the world's",
+  definition: "a map's coordinates carried onto Tamriel's and onto the world's",
   parts: [
     "module/gps-api",
     "module/gps-casts",
