@@ -26,6 +26,7 @@ import { publishedBundleFor } from "akasha/command/pages/deploy/modules/bundle-p
 import {
   changedBetween,
   judgedOnDeploy,
+  saidOf,
   sinceCommit,
 } from "akasha/command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"
 import {
@@ -273,6 +274,20 @@ export async function deploy(
   return "refused" in alone ? refused(alone.refused, OPERATIONAL) : alone.value
 }
 
+async function unjudgedIn(
+  root: string,
+  slug: string,
+  was: string | null,
+  commit: string,
+  built: ReadonlySet<string>,
+  proving: readonly string[]
+): Promise<readonly string[]> {
+  const unproven = proving.filter((one) => !built.has(one))
+  if (unproven.length > 0) return [saidOfUnproven(unproven)]
+  const judging = await judgedOnDeploy(root, slug, was, commit, built, proving)
+  return "broken" in judging ? [judging.broken] : saidOf(judging.judged)
+}
+
 async function deployHeld(
   read: Read,
   slug: string,
@@ -293,11 +308,7 @@ async function deployHeld(
     read.kind === WORKSTATION_SERVICE && restarting !== null
       ? provingFor(given.root, restarting)
       : []
-  const unproven = proving.filter((one) => !built.has(one))
-  const unjudged =
-    unproven.length > 0
-      ? [saidOfUnproven(unproven)]
-      : await judgedOnDeploy(given.root, slug, was, commit, built, proving)
+  const unjudged = await unjudgedIn(given.root, slug, was, commit, built, proving)
   const noting = async (why: readonly string[]): Promise<readonly string[]> => [
     ...(await recordedRefusal(slug, read.pagePath, commit, why, keeping)),
     ...(await recordedEnding(slug, read.pagePath, true, new Date(), keeping)),

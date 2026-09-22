@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  blamedIn,
   changeFrom,
   saidOf,
   saidOfNoGate,
@@ -69,6 +70,18 @@ test("what a check found still refuses the deploy beside a refusal over cost", (
       { path: "two.ts", reason: "it climbs to a parent folder" },
     ])
   ).toEqual(["two.ts — it climbs to a parent folder"])
+})
+
+test("what a check blames is the file that check names", () => {
+  expect(blamedIn([{ path: "one.ts", reason: "it climbs to a parent folder" }])).toEqual([
+    { path: "one.ts", reason: "it climbs to a parent folder" },
+  ])
+})
+
+test("a check refusing over what that check cost blames no file", () => {
+  expect(blamedIn([{ path: "one.test.ts", reason: "it spent 6.4 seconds", slow: true }])).toEqual(
+    []
+  )
 })
 
 test("checks that will not load refuse the deploy by name", () => {

@@ -59,6 +59,14 @@ export const deployCheckJudging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The judging answers the file each refusal names rather than a sentence alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Checks that would not load are answered apart from what the checks found.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A check refusing over what that check cost refuses no deploy.",
     },
     {

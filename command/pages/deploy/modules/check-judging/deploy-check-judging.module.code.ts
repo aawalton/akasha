@@ -49,9 +49,15 @@ export function saidOfNoGate(slug: string, broken: string): string {
   return `the checks would not load, so nothing judged what \`${slug}\` is built from — ${broken}`
 }
 
-export function saidOf(judged: readonly Judged[]): readonly string[] {
-  return judged.filter((one) => one.slow !== true).map((one) => `${one.path} — ${one.reason}`)
+export function blamedIn(judged: readonly Judged[]): readonly Judged[] {
+  return judged.filter((one) => one.slow !== true)
 }
+
+export function saidOf(judged: readonly Judged[]): readonly string[] {
+  return blamedIn(judged).map((one) => `${one.path} — ${one.reason}`)
+}
+
+export type Judging = { readonly judged: readonly Judged[] } | { readonly broken: string }
 
 export async function judgedOnDeploy(
   root: string,
@@ -60,13 +66,13 @@ export async function judgedOnDeploy(
   now: string,
   built: ReadonlySet<string>,
   also: readonly string[] = []
-): Promise<readonly string[]> {
+): Promise<Judging> {
   try {
     const change = changeFrom(root, was, now, built, also)
-    if (change.changed.length === 0) return []
+    if (change.changed.length === 0) return { judged: [] }
     const gate = await gateFor(root, AT_DEPLOY)
-    if (!("gate" in gate)) return [saidOfNoGate(slug, gate.broken)]
-    return saidOf(await gate.gate.over(change))
+    if (!("gate" in gate)) return { broken: saidOfNoGate(slug, gate.broken) }
+    return { judged: blamedIn(await gate.gate.over(change)) }
   } finally {
     readingEnded()
   }
