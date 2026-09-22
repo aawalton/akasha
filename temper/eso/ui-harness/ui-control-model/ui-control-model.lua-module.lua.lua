@@ -42,9 +42,18 @@ local CONTROL_TYPES = {
   CT_TOOLTIP = 15,
 }
 
+local TEXT_ALIGNMENTS = {
+  TEXT_ALIGN_LEFT = 0,
+  TEXT_ALIGN_TOP = 0,
+  TEXT_ALIGN_CENTER = 1,
+  TEXT_ALIGN_RIGHT = 2,
+  TEXT_ALIGN_BOTTOM = 2,
+}
+
 local named = {}
 local everyControl = {}
 local unmodelled = {}
+local virtuals = {}
 
 local Control = {}
 
@@ -73,7 +82,43 @@ local function resolved(name, parent)
   return (string.gsub(name, "%$%(parent%)", held))
 end
 
-local function birth(named, parent, controlType, virtual)
+local birth
+local dress
+
+dress = function(control, spec)
+  if spec == nil then return control end
+  if spec.hidden ~= nil then control:SetHidden(spec.hidden) end
+  if spec.alpha ~= nil then control:SetAlpha(spec.alpha) end
+  if spec.mouseEnabled ~= nil then control:SetMouseEnabled(spec.mouseEnabled) end
+  if spec.width ~= nil then control.uiWidth = spec.width end
+  if spec.height ~= nil then control.uiHeight = spec.height end
+  if spec.font ~= nil then control.uiFont = spec.font end
+  if spec.text ~= nil then control.uiText = spec.text end
+  if spec.alignH ~= nil then control.uiAlignH = spec.alignH end
+  if spec.alignV ~= nil then control.uiAlignV = spec.alignV end
+  if spec.texture ~= nil then control.uiTexture = spec.texture end
+  if spec.color ~= nil then control.uiColor = spec.color end
+  if spec.centerColor ~= nil then control.uiCenterColor = spec.centerColor end
+  if spec.edgeColor ~= nil then control.uiEdgeColor = spec.edgeColor end
+  if spec.anchorFill then control:SetAnchorFill() end
+  if spec.anchors ~= nil then
+    for _, anchor in ipairs(spec.anchors) do
+      local to = control.uiParent
+      if anchor.relativeTo ~= nil then
+        to = named[resolved(anchor.relativeTo, control.uiParent)] or to
+      end
+      control:SetAnchor(anchor.point, to, anchor.relativePoint, anchor.offsetX, anchor.offsetY)
+    end
+  end
+  if spec.children ~= nil then
+    for _, child in ipairs(spec.children) do
+      dress(birth(child.name, control, child.controlType, nil), child)
+    end
+  end
+  return control
+end
+
+birth = function(named, parent, controlType, virtual)
   local name = resolved(named, parent)
   local control = setmetatable({
     uiName = nil,
@@ -97,6 +142,7 @@ local function birth(named, parent, controlType, virtual)
   control.uiName = claim(name, control)
   if parent ~= nil then insert(parent.uiChildren, control) end
   insert(everyControl, control)
+  if virtual ~= nil then dress(control, virtuals[virtual]) end
   return control
 end
 
@@ -181,6 +227,11 @@ function Control:GetDrawLayer() return self.uiLayer end
 function Control:GetDrawTier() return self.uiTier end
 function Control:GetDrawLevel() return self.uiLevel end
 
+function Control:SetHorizontalAlignment(alignment) self.uiAlignH = alignment end
+function Control:SetVerticalAlignment(alignment) self.uiAlignV = alignment end
+function Control:GetHorizontalAlignment() return self.uiAlignH end
+function Control:GetVerticalAlignment() return self.uiAlignV end
+
 function Control:SetText(text) self.uiText = tostring(text) end
 function Control:GetText() return self.uiText or "" end
 function Control:SetFont(font) self.uiFont = font end
@@ -231,6 +282,7 @@ function WindowManager:SetMouseCursor() end
 for key, value in pairs(ANCHOR_POINTS) do _G[key] = value end
 for key, value in pairs(ANCHOR_CONSTRAINTS) do _G[key] = value end
 for key, value in pairs(CONTROL_TYPES) do _G[key] = value end
+for key, value in pairs(TEXT_ALIGNMENTS) do _G[key] = value end
 
 _G.WINDOW_MANAGER = WindowManager
 _G.GuiRoot = birth("GuiRoot", nil, CONTROL_TYPES.CT_TOPLEVELCONTROL, nil)
@@ -287,6 +339,8 @@ local function snapshotOf(control)
     alpha = control.uiAlpha,
     text = control.uiText,
     font = control.uiFont,
+    alignH = control.uiAlignH,
+    alignV = control.uiAlignV,
     texture = control.uiTexture,
     color = control.uiColor,
     centerColor = control.uiCenterColor,
@@ -302,6 +356,15 @@ function _G.__ui_snapshot(name)
   local control = name == nil and _G.GuiRoot or named[name]
   if control == nil then return nil end
   return snapshotOf(control)
+end
+
+function _G.__ui_virtuals(given)
+  local count = 0
+  for name, spec in pairs(given) do
+    virtuals[name] = spec
+    count = count + 1
+  end
+  return count
 end
 
 function _G.__ui_unmodelled()

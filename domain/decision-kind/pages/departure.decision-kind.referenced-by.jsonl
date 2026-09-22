@@ -4946,6 +4946,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.ts","id":"01a0c97e-4173-73b6-a373-3a2f933756b3"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-layout/ui-layout.module.ts","id":"01a0c9db-1ffe-72ca-a616-1a79ee6f2047"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.ts","id":"01a0c9dd-cc82-7f73-b0c4-69cb07323425"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-virtuals/ui-virtuals.module.ts","id":"01a0c9e5-f156-7ff3-866f-f671da96312f"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/temper-eso-ui-harness.domain.ts","id":"01a0c977-ed0f-7969-a841-8e503fdcfb0b"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-control-model/ui-control-model.lua-module.ts","id":"01a0c97a-416c-7609-a8c1-5767be94f369"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-event-model/ui-event-model.lua-module.ts","id":"01a0c98b-f0fa-7635-957c-f4b8fc656fe0"}

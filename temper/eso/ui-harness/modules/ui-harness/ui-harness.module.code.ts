@@ -43,6 +43,8 @@ function modelTexts(): readonly string[] {
   return cachedModels
 }
 
+const TEMPLATE_GLOBAL = "__ui_virtual_table"
+
 const BUNDLE_TAIL = "\nreturn ____entry"
 
 const BUNDLE_REACH = "\n_G.__bundle_require = require\nreturn ____entry"
@@ -84,6 +86,8 @@ export type UiControl = {
   readonly alpha: number
   readonly text?: string
   readonly font?: string
+  readonly alignH?: number
+  readonly alignV?: number
   readonly texture?: string
   readonly color?: UiColor
   readonly centerColor?: UiColor
@@ -105,6 +109,8 @@ const controlShape: z.ZodType<UiControl> = z.lazy(() =>
     alpha: z.number(),
     text: z.string().optional(),
     font: z.string().optional(),
+    alignH: z.number().optional(),
+    alignV: z.number().optional(),
     texture: z.string().optional(),
     color: colorShape.optional(),
     centerColor: colorShape.optional(),
@@ -120,6 +126,7 @@ export type UiHarness = {
   readonly seed: (name: string, value: unknown) => undefined
   readonly load: (source: string) => Promise<unknown>
   readonly loadBundle: (source: string) => Promise<unknown>
+  readonly templates: (given: unknown) => Promise<number>
   readonly snapshot: (name?: string) => Promise<UiControl | null>
   readonly names: () => Promise<readonly string[]>
   readonly unmodelled: () => Promise<Readonly<Record<string, number>>>
@@ -148,6 +155,10 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
     },
     async loadBundle(source): Promise<unknown> {
       return vm.doString(reachableBundle(source))
+    },
+    async templates(given): Promise<number> {
+      vm.setGlobal(TEMPLATE_GLOBAL, given)
+      return z.number().parse(await vm.doString(`return __ui_virtuals(${TEMPLATE_GLOBAL})`))
     },
     async snapshot(name): Promise<UiControl | null> {
       const answered = await vm.doString(`return __ui_snapshot(${marshalLuaValue(name)})`)

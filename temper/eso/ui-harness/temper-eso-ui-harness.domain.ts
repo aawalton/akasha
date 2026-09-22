@@ -11,6 +11,7 @@ export const temperEsoUiHarness = {
     "module/ui-harness",
     "module/ui-layout",
     "module/ui-picture",
+    "module/ui-virtuals",
   ],
   decisions: [
     {

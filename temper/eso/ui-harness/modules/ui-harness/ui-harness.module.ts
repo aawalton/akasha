@@ -46,6 +46,14 @@ export const uiHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller hands the control templates over before loading what uses them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Handing templates over a second time leaves the ones handed over before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller names the control and the event to run a handler.",
     },
     {

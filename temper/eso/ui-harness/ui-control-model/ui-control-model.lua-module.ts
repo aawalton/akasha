@@ -57,8 +57,26 @@ export const uiControlModel = {
       statement: "No control here has a place on screen.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No virtual a control is made from is resolved.",
+      decisionKind: "decision-kind/departure",
+      statement: "A control made from a template takes the template's own size, color and anchors.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control made from a template is given the controls that template declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A template an anchor names is looked for under the name the parent resolves it to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A control made from a template no caller handed in is a control with nothing on it.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "What each alignment is numbered is settled here rather than read from the game.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -68,6 +68,16 @@ const FONT_SHADOWS: Readonly<Record<string, string>> = {
 
 const FONT_NAMED = /\$\(([A-Z_0-9]+)\)/
 
+const ALIGN_START = 0
+
+const ALIGN_MIDDLE = 1
+
+const ALIGN_WAYS: Readonly<Record<number, string>> = {
+  0: "flex-start",
+  1: "center",
+  2: "flex-end",
+}
+
 const CLEAR: UiColor = [0, 0, 0, 0]
 
 const INK: UiColor = [...TEXT_PRIMARY, 1]
@@ -148,11 +158,13 @@ function boxHtml(box: UiBox, options: UiPictureOptions): string {
     const ink = asCss(one.color ?? INK)
     const shadow = face.shadow === "" ? "" : `text-shadow:${face.shadow};`
     const framed =
-      one.controlType === CT_BUTTON
-        ? `box-shadow:inset 0 0 0 1px ${asCss(FRAME)};text-align:center;`
-        : ""
+      one.controlType === CT_BUTTON ? `box-shadow:inset 0 0 0 1px ${asCss(FRAME)};` : ""
+    const middled = one.controlType === CT_BUTTON ? ALIGN_MIDDLE : ALIGN_START
+    const across = ALIGN_WAYS[one.alignH ?? middled] ?? ALIGN_WAYS[ALIGN_START]
+    const down = ALIGN_WAYS[one.alignV ?? middled] ?? ALIGN_WAYS[ALIGN_START]
+    const laid = `display:flex;justify-content:${across};align-items:${down};`
     const type = `font-family:${face.family};font-weight:${face.weight};font-size:${face.size}px;line-height:${face.size + LINE_OVER_SIZE}px;`
-    return `<div class="c"${told} style="${place}${fade}color:${ink};${type}${shadow}${framed}">${escaped(one.text ?? "")}</div>`
+    return `<div class="c"${told} style="${place}${fade}color:${ink};${type}${shadow}${laid}${framed}">${escaped(one.text ?? "")}</div>`
   }
   if (one.controlType === CT_TEXTURE) {
     const named = one.texture
