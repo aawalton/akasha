@@ -103,6 +103,7 @@ export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set([
   "ttc-client",
   "wandering-inn-sync",
   "web-app-deploying",
+  "workstation-deploying",
   "workstation-load-sampler",
 ])
 
