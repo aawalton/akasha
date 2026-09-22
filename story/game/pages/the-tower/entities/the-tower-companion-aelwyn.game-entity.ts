@@ -9,7 +9,6 @@ export const theTowerCompanionAelwyn = {
   kind: "ally",
   class:
     "Bulwark (tentative) — frontline tank/protector; holds the line, soaks hits, controls space",
-  equipment: [{ name: "worn but sound brigandine", slot: "armor", defense: 3 }],
   dice: "game-mechanic/two-d-ten",
   unspentAttributePoints: 0,
   note: "Tentative. Aelwyn is the BODY Alan does not have — she stands in front so his glass cannon never has to. Calibrate against the real persona (the strength/health axis).",
