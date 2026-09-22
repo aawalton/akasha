@@ -6,5 +6,5 @@ export const classRelicGuardian = {
   slug: "class-relic-guardian",
   title: "Class – Relic Guardian",
   world: "world/the-wandering-inn",
-  evolvesToSlugs: ["skeleton-knight"],
+  evolvesToSlugs: ["world-class/skeleton-knight"],
 } as const satisfies WorldClass

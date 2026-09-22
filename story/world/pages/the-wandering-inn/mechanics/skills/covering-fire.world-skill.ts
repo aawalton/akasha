@@ -8,6 +8,6 @@ export const coveringFire = {
   world: "world/the-wandering-inn",
   appearanceCount: 11,
   aliases: ["COVERING FIRE"],
-  evolvesToSlugs: ["covering-fire-piercing-arrows"],
+  evolvesToSlugs: ["world-skill/covering-fire-piercing-arrows"],
   references: "jsonl",
 } as const satisfies WorldSkill

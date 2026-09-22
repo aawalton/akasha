@@ -6,5 +6,5 @@ export const kindBaker = {
   slug: "kind-baker",
   title: "Kind Baker",
   world: "world/the-wandering-inn",
-  evolvesToSlugs: ["baker-of-presents-gifted-chef"],
+  evolvesToSlugs: ["world-class/baker-of-presents-gifted-chef"],
 } as const satisfies WorldClass

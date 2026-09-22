@@ -8,6 +8,6 @@ export const magicalInnkeeper = {
   world: "world/the-wandering-inn",
   appearanceCount: 56,
   evolvesFromSlugs: ["world-class/innkeeper"],
-  evolvesToSlugs: ["the-wandering-innkeeper"],
+  evolvesToSlugs: ["world-class/the-wandering-innkeeper"],
   references: "jsonl",
 } as const satisfies WorldClass

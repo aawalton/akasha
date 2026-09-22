@@ -6,5 +6,5 @@ export const peerlessLance = {
   slug: "peerless-lance",
   title: "Peerless Lance",
   world: "world/the-wandering-inn",
-  evolvesToSlugs: ["lancer-of-the-ages"],
+  evolvesToSlugs: ["world-class/lancer-of-the-ages"],
 } as const satisfies WorldClass

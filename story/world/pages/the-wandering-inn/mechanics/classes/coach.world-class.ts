@@ -7,6 +7,6 @@ export const coach = {
   title: "Coach",
   world: "world/the-wandering-inn",
   appearanceCount: 7,
-  evolvesToSlugs: ["famed-coach"],
+  evolvesToSlugs: ["world-class/famed-coach"],
   references: "jsonl",
 } as const satisfies WorldClass

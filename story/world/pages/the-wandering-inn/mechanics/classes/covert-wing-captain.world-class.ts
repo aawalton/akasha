@@ -7,6 +7,6 @@ export const covertWingCaptain = {
   title: "Covert Wing Captain",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesToSlugs: ["sister-of-the-unforgotten"],
+  evolvesToSlugs: ["world-class/sister-of-the-unforgotten"],
   references: "jsonl",
 } as const satisfies WorldClass

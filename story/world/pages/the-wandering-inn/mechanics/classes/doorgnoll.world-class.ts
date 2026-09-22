@@ -7,6 +7,10 @@ export const doorgnoll = {
   title: "Doorgnoll",
   world: "world/the-wandering-inn",
   appearanceCount: 20,
-  evolvesToSlugs: ["kingbane-lineholder", "portal-guardian", "scion-of-discontinuance"],
+  evolvesToSlugs: [
+    "world-class/kingbane-lineholder",
+    "world-class/portal-guardian",
+    "world-class/scion-of-discontinuance",
+  ],
   references: "jsonl",
 } as const satisfies WorldClass

@@ -7,6 +7,6 @@ export const greatChieftain = {
   title: "Great Chieftain",
   world: "world/the-wandering-inn",
   appearanceCount: 24,
-  evolvesToSlugs: ["goblin-lord-solstice-rags-of-change"],
+  evolvesToSlugs: ["world-class/goblin-lord-solstice-rags-of-change"],
   references: "jsonl",
 } as const satisfies WorldClass

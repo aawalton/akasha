@@ -6,5 +6,5 @@ export const magicPaintShaman = {
   slug: "magic-paint-shaman",
   title: "Magic Paint Shaman",
   world: "world/the-wandering-inn",
-  evolvesToSlugs: ["shaman-of-the-old-ways"],
+  evolvesToSlugs: ["world-class/shaman-of-the-old-ways"],
 } as const satisfies WorldClass

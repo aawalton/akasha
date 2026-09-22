@@ -6,5 +6,5 @@ export const portsideInnkeeper = {
   slug: "portside-innkeeper",
   title: "Portside Innkeeper",
   world: "world/the-wandering-inn",
-  evolvesToSlugs: ["witness-innkeeper"],
+  evolvesToSlugs: ["world-class/witness-innkeeper"],
 } as const satisfies WorldClass

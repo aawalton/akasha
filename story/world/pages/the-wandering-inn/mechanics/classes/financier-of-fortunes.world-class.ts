@@ -7,6 +7,6 @@ export const financierOfFortunes = {
   title: "Financier of Fortunes",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesToSlugs: ["mint-lord-of-the-new-era"],
+  evolvesToSlugs: ["world-class/mint-lord-of-the-new-era"],
   references: "jsonl",
 } as const satisfies WorldClass

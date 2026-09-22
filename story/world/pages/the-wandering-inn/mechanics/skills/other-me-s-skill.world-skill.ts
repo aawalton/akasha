@@ -8,6 +8,6 @@ export const otherMeSSkill = {
   world: "world/the-wandering-inn",
   appearanceCount: 1,
   aliases: ["other-me-s-skills"],
-  evolvesToSlugs: ["other-me-s-skills"],
+  evolvesToSlugs: ["world-skill/other-me-s-skills"],
   references: "jsonl",
 } as const satisfies WorldSkill

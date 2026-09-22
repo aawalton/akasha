@@ -7,6 +7,6 @@ export const lesserCharisma = {
   title: "Lesser Charisma",
   world: "world/the-wandering-inn",
   appearanceCount: 4,
-  evolvesToSlugs: ["greater-charisma"],
+  evolvesToSlugs: ["world-skill/greater-charisma"],
   references: "jsonl",
 } as const satisfies WorldSkill

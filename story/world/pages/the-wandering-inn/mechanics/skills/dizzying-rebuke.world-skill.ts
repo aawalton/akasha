@@ -7,6 +7,6 @@ export const dizzyingRebuke = {
   title: "Dizzying Rebuke",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesToSlugs: ["hexer-s-rebuke"],
+  evolvesToSlugs: ["world-skill/hexer-s-rebuke"],
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -7,6 +7,6 @@ export const swallowSArrow = {
   title: "Swallow’s Arrow",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  evolvesToSlugs: ["lesser-dragonbreath-arrow-lightning"],
+  evolvesToSlugs: ["world-skill/lesser-dragonbreath-arrow-lightning"],
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -8,6 +8,6 @@ export const spearmaster = {
   world: "world/the-wandering-inn",
   appearanceCount: 105,
   aliases: ["spearmasters"],
-  evolvesToSlugs: ["spearmaster-the-spear-of-silence"],
+  evolvesToSlugs: ["world-class/spearmaster-the-spear-of-silence"],
   references: "jsonl",
 } as const satisfies WorldClass

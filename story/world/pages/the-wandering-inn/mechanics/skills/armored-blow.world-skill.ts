@@ -6,5 +6,5 @@ export const armoredBlow = {
   slug: "armored-blow",
   title: "Armored Blow",
   world: "world/the-wandering-inn",
-  evolvesToSlugs: ["full-armor-onslaught"],
+  evolvesToSlugs: ["world-skill/full-armor-onslaught"],
 } as const satisfies WorldSkill

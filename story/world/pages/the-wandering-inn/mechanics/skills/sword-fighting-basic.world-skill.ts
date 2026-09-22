@@ -6,5 +6,5 @@ export const swordFightingBasic = {
   slug: "sword-fighting-basic",
   title: "Sword Fighting – Basic",
   world: "world/the-wandering-inn",
-  evolvesToSlugs: ["sword-fighting-expert"],
+  evolvesToSlugs: ["world-skill/sword-fighting-expert"],
 } as const satisfies WorldSkill

@@ -7,6 +7,6 @@ export const heiress = {
   title: "Heiress",
   world: "world/the-wandering-inn",
   appearanceCount: 40,
-  evolvesToSlugs: ["relickeeper-heiress"],
+  evolvesToSlugs: ["world-class/relickeeper-heiress"],
   references: "jsonl",
 } as const satisfies WorldClass

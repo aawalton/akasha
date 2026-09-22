@@ -8,6 +8,6 @@ export const bowWardenOfTheSongbird = {
   world: "world/the-wandering-inn",
   appearanceCount: 1,
   evolvesFromSlugs: ["world-class/bird-hunter"],
-  evolvesToSlugs: ["bow-singer-queen-of-the-free-antinium"],
+  evolvesToSlugs: ["world-class/bow-singer-queen-of-the-free-antinium"],
   references: "jsonl",
 } as const satisfies WorldClass

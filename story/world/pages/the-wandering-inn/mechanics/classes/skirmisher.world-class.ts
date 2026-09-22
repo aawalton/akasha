@@ -8,6 +8,6 @@ export const skirmisher = {
   world: "world/the-wandering-inn",
   appearanceCount: 48,
   aliases: ["skirmishers"],
-  evolvesToSlugs: ["brave-skirmisher"],
+  evolvesToSlugs: ["world-class/brave-skirmisher"],
   references: "jsonl",
 } as const satisfies WorldClass

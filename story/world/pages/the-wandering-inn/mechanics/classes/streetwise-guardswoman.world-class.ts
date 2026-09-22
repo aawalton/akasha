@@ -7,6 +7,6 @@ export const streetwiseGuardswoman = {
   title: "Streetwise Guardswoman",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  evolvesToSlugs: ["smokebreath-detective"],
+  evolvesToSlugs: ["world-class/smokebreath-detective"],
   references: "jsonl",
 } as const satisfies WorldClass

@@ -7,6 +7,6 @@ export const charmingSmile = {
   title: "Charming Smile",
   world: "world/the-wandering-inn",
   appearanceCount: 7,
-  evolvesToSlugs: ["enthralling-glance"],
+  evolvesToSlugs: ["world-skill/enthralling-glance"],
   references: "jsonl",
 } as const satisfies WorldSkill

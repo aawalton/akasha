@@ -6,5 +6,5 @@ export const keenShot = {
   slug: "keen-shot",
   title: "Keen Shot",
   world: "world/the-wandering-inn",
-  evolvesToSlugs: ["silverstake-spreadshot"],
+  evolvesToSlugs: ["world-skill/silverstake-spreadshot"],
 } as const satisfies WorldSkill

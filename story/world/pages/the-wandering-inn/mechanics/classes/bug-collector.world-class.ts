@@ -7,6 +7,6 @@ export const bugCollector = {
   title: "Bug Collector",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesToSlugs: ["ant-farmer"],
+  evolvesToSlugs: ["world-class/ant-farmer"],
   references: "jsonl",
 } as const satisfies WorldClass

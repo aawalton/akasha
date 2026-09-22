@@ -7,6 +7,6 @@ export const steelTempest = {
   title: "Steel Tempest",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  evolvesToSlugs: ["steelforged-whirlwind"],
+  evolvesToSlugs: ["world-class/steelforged-whirlwind"],
   references: "jsonl",
 } as const satisfies WorldClass

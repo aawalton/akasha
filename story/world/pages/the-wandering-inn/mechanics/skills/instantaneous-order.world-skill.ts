@@ -7,6 +7,6 @@ export const instantaneousOrder = {
   title: "Instantaneous Order",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesToSlugs: ["open-the-pantries-the-wandering-inn"],
+  evolvesToSlugs: ["world-skill/open-the-pantries-the-wandering-inn"],
   references: "jsonl",
 } as const satisfies WorldSkill

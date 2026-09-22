@@ -7,6 +7,6 @@ export const arcticCryomancer = {
   title: "Arctic Cryomancer",
   world: "world/the-wandering-inn",
   appearanceCount: 11,
-  evolvesToSlugs: ["relicbound-arctic-cryomancer"],
+  evolvesToSlugs: ["world-class/relicbound-arctic-cryomancer"],
   references: "jsonl",
 } as const satisfies WorldClass

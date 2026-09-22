@@ -7,6 +7,6 @@ export const prophetOfTheHolyPeople = {
   title: "Prophet of the Holy People",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesToSlugs: ["witness-of-divinity"],
+  evolvesToSlugs: ["world-class/witness-of-divinity"],
   references: "jsonl",
 } as const satisfies WorldClass

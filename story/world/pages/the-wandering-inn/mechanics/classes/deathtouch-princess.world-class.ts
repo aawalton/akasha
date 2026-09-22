@@ -7,6 +7,6 @@ export const deathtouchPrincess = {
   title: "Deathtouch Princess",
   world: "world/the-wandering-inn",
   appearanceCount: 6,
-  evolvesToSlugs: ["cursed-princess"],
+  evolvesToSlugs: ["world-class/cursed-princess"],
   references: "jsonl",
 } as const satisfies WorldClass

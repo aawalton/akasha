@@ -7,6 +7,6 @@ export const experiencedReceptionist = {
   title: "Experienced Receptionist",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  evolvesToSlugs: ["vice-guildmistress"],
+  evolvesToSlugs: ["world-class/vice-guildmistress"],
   references: "jsonl",
 } as const satisfies WorldClass

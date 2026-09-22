@@ -8,6 +8,6 @@ export const flagBearer = {
   world: "world/the-wandering-inn",
   appearanceCount: 2,
   aliases: ["flag-bearers"],
-  evolvesToSlugs: ["banner-leader"],
+  evolvesToSlugs: ["world-class/banner-leader"],
   references: "jsonl",
 } as const satisfies WorldClass

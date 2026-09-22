@@ -6,5 +6,5 @@ export const memoryOfAHundredLifetimes = {
   slug: "memory-of-a-hundred-lifetimes",
   title: "Memory of a Hundred Lifetimes",
   world: "world/the-wandering-inn",
-  evolvesToSlugs: ["memory-of-a-thousand-lifetimes"],
+  evolvesToSlugs: ["world-skill/memory-of-a-thousand-lifetimes"],
 } as const satisfies WorldSkill
