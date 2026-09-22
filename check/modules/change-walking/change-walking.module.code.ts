@@ -1,5 +1,3 @@
-import { readFileSync } from "node:fs"
-import { join } from "node:path"
 import { pageOfRow } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type {
   Judged,
@@ -7,7 +5,6 @@ import type {
   RunningAsync,
 } from "akasha/check/modules/judging/judging.module.code.ts"
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
-import { isMissing } from "akasha/file/disk/modules/missing/missing.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageNamed, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -261,22 +258,6 @@ export function overEveryIn(
     for (const reason of judge(path, text)) said.push({ path, reason })
   }
   return said
-}
-
-function isFolder(thrown: unknown): boolean {
-  if (thrown === null || typeof thrown !== "object" || !("code" in thrown)) return false
-  return thrown.code === "EISDIR"
-}
-
-export function onDisk(root: string): (path: string) => Uint8Array | null {
-  return (path) => {
-    try {
-      return readFileSync(join(root, path))
-    } catch (thrown) {
-      if (isMissing(thrown) || isFolder(thrown)) return null
-      throw new Error(`${path} is there and would not open — ${String(thrown)}`)
-    }
-  }
 }
 
 export function holdingOver(change: Change): Change {

@@ -9,8 +9,10 @@ import {
   scratch,
   withoutGuard,
 } from "akasha/check/code/pages/tests-pass/tests-pass.check-code.decision.test-fixtures.ts"
-import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
-import { change } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import {
+  change,
+  onDisk,
+} from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 

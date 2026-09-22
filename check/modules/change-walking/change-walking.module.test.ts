@@ -6,7 +6,6 @@ import {
   input,
   judgingEach,
   loadedExportsSparing,
-  onDisk,
   overEachFile,
   overEachText,
   PAGES,
@@ -31,6 +30,7 @@ import {
   tailedWorld,
   watchedWorld,
 } from "akasha/check/modules/change-walking/change-walking.module.test-fixtures.ts"
+import { onDisk } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 

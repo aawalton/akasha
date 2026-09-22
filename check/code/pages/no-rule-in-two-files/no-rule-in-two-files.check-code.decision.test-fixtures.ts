@@ -2,13 +2,13 @@ import type {
   Said,
   Saying,
 } from "akasha/check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.code.ts"
-import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   carrying,
   claiming,
   declaring,
   filing,
+  onDisk,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { speltIn } from "akasha/code/reading/modules/code-rule/code-rule.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"

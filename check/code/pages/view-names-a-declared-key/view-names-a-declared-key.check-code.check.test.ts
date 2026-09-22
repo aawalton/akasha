@@ -13,11 +13,11 @@ import {
   VIEW,
   viewing,
 } from "akasha/check/code/pages/view-names-a-declared-key/view-names-a-declared-key.check-code.decision.test-fixtures.ts"
-import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   edging,
   landing,
+  onDisk,
   pathFor,
   shadowed,
   typed,

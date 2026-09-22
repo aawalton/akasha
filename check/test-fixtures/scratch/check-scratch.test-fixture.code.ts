@@ -1,9 +1,10 @@
-import { existsSync, mkdirSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { onDisk, textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "akasha/check/modules/judging/judging.module.code.ts"
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { isMissing } from "akasha/file/disk/modules/missing/missing.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { relation } from "akasha/graph/edge/pages/relation.graph-edge.ts"
@@ -196,6 +197,22 @@ export function edging(
   at: string
 ): undefined {
   relationFiled(root, id, propertySlug, from, [{ path: at }])
+}
+
+function isFolder(thrown: unknown): boolean {
+  if (thrown === null || typeof thrown !== "object" || !("code" in thrown)) return false
+  return thrown.code === "EISDIR"
+}
+
+export function onDisk(root: string): (path: string) => Uint8Array | null {
+  return (path) => {
+    try {
+      return readFileSync(join(root, path))
+    } catch (thrown) {
+      if (isMissing(thrown) || isFolder(thrown)) return null
+      throw new Error(`${path} is there and would not open — ${String(thrown)}`)
+    }
+  }
 }
 
 export function landing(

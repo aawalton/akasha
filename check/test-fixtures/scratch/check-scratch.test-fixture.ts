@@ -42,6 +42,30 @@ export const checkScratch = {
       statement: "A change falls back to the body on disk.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A body that is there and will not open refuses the check reading that body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal for a body that will not open names the path that body is at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path nothing sits at is taken as nothing rather than as unreadable.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path a folder sits at is taken as nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder has no body a check judges.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body is opened rather than looked for and then opened.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No root is made or swept here.",
     },

@@ -8,7 +8,7 @@ import {
   STRAY_AT,
   strayed,
 } from "akasha/check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.test-fixtures.ts"
-import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { onDisk } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowAt, shadowOnto } from "akasha/page/modules/shadow/shadow.module.code.ts"

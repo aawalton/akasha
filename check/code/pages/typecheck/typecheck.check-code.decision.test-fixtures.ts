@@ -4,8 +4,8 @@ import {
   reachedBy,
   refusalsOver,
 } from "akasha/check/code/pages/typecheck/typecheck.check-code.decision.code.ts"
-import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import { onDisk } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import {
   bodied,
   change,

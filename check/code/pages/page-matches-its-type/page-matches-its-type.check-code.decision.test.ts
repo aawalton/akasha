@@ -21,9 +21,11 @@ import {
   typing,
   WAS_ALPHA,
 } from "akasha/check/code/pages/page-matches-its-type/page-matches-its-type.check-code.decision.test-fixtures.ts"
-import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { judgingBy } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import {
+  judgingBy,
+  onDisk,
+} from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { page } from "akasha/page/page.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
