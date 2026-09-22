@@ -8,7 +8,6 @@
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"command/pages/inference/video-qa/inference-video-qa.command.code.ts"}
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts"}
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"}
-{"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"infrastructure/storage/object-store/modules/s3-signing/s3-signing.module.code.ts"}
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts"}
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts"}
 {"propertySlug":"parts","path":"code/body/code-body.domain.ts","id":"01a09b2c-cc50-7f0f-838d-abfa522d31e4"}

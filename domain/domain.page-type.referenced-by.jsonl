@@ -463,7 +463,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/git-repo/dirty/dirty.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/git-repo/git-repo.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/git-repo/repo/repo.page-type.types.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/object-store/object-store.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/storage.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/telemetry/dashboard/dashboard.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/telemetry/log/log.domain.ts"}

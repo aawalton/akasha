@@ -1895,11 +1895,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/container-registry/modules/registry-constants/registry-constants.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/object-store/modules/key/object-store-key.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/object-store/modules/s3-multipart/s3-multipart.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/object-store/modules/s3-signing/s3-signing.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/object-store/modules/seaweedfs-config/seaweedfs-config.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/kube-state-metrics/modules/manifests/kube-state-metrics-manifests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/modules/prometheus-constants/prometheus-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/node-exporter-daemonset/modules/cgroup-psi-collector/cgroup-psi-collector.module.ts"}

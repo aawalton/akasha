@@ -1514,7 +1514,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.ts","id":"01a05a56-b9f1-77a4-8a3d-6e0424952002"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/pages/inference-deploying/inference-deploying.service-workstation.ts","id":"01a09b0e-376c-70a6-9838-96e1f3f656a1"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}
-{"propertySlug":"decision-kind","path":"infrastructure/storage/object-store/object-store.domain.ts","id":"01a05cbb-139c-75e2-a97e-d9467fae14ce"}
 {"propertySlug":"decision-kind","path":"page/access/modules/answer/answer.module.ts","id":"01a05bd6-c528-7413-9995-26f888309a61"}
 {"propertySlug":"decision-kind","path":"page/access/modules/capture-error/capture-error.module.ts","id":"01a05bd6-c529-7e1b-b455-c42e0f069da5"}
 {"propertySlug":"decision-kind","path":"page/access/modules/file-page-type-config/file-page-type-config.module.ts","id":"01a05bd6-c52f-7e97-a8ea-067913e34725"}

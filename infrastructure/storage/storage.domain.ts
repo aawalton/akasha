@@ -6,12 +6,7 @@ export const storage = {
   slug: "storage",
   definition: "where bytes live",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "storage" }],
-  parts: [
-    "domain/container-registry",
-    "domain/disk-store",
-    "domain/git-repo",
-    "domain/object-store",
-  ],
+  parts: ["domain/container-registry", "domain/disk-store", "domain/git-repo"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
