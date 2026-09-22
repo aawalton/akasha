@@ -71,13 +71,13 @@ local function make_env()
   return _setmetatable({}, {
     __index = function(t, key)
       if banned[key] then return nil end
+      if key == "_G" then return t end
+      local real = _rawget(_G, key)
+      if real ~= nil then return real end
       if string_apis[key] then return str_fn end
       if numeric_fn_apis[key] then return num_fn end
       if multi_apis[key] then return multi_apis[key] end
       if numeric_constants[key] ~= nil then return numeric_constants[key] end
-      if key == "_G" then return t end
-      local real = _rawget(_G, key)
-      if real ~= nil then return real end
       __eso_stubbed[key] = (__eso_stubbed[key] or 0) + 1
       local made = make_stub()
       _rawset(t, key, made)

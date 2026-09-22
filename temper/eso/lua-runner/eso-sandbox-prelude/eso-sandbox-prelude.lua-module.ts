@@ -49,6 +49,11 @@ export const esoSandboxPrelude = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A name something really defines is answered with that rather than with a stand-in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A game function known to answer text answers with the empty string.",
     },
     {
