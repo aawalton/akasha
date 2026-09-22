@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const collectionsAddonEntry = {
+export const collectionsEntry = {
   id: "01a0624c-a660-733f-be75-ba33c296eec3",
   type: "page-type/module",
-  slug: "collections-addon-entry",
+  slug: "collections-entry",
   definition: "where the transpiler starts this add-on's Lua bundle",
   code: "ts",
   decisions: [

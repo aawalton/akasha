@@ -4186,9 +4186,9 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/journal-controls/journal-controls.eso-interface.ts","id":"01a0617d-544f-7967-a1b8-c193328aa344"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/lorebooks-report-layout/lorebooks-report-layout.eso-interface.ts","id":"01a0624c-a660-70e7-ac40-0ff60904655d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/lost-treasure-map-layout/lost-treasure-map-layout.eso-interface.ts","id":"01a0624c-a660-7e1e-90ff-1cb6ff118829"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/collections-addon-entry/collections-addon-entry.module.ts","id":"01a0624c-a660-733f-be75-ba33c296eec3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/collections-addon-global/collections-addon-global.module.ts","id":"01a0624c-a660-708c-9324-7aa221750530"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/collections-addon-loaded/collections-addon-loaded.module.ts","id":"01a0624c-a660-7bb7-a785-531905b18e57"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/collections-entry/collections-entry.module.ts","id":"01a0624c-a660-733f-be75-ba33c296eec3"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/collections-loaded/collections-loaded.module.ts","id":"01a0624c-a660-7bb7-a785-531905b18e57"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/journal-window/journal-window.module.ts","id":"01a0617d-5454-7cab-9709-1e96bec082bc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-data/treasure-data.module.ts","id":"01a061d5-d0bf-79cd-abd1-43da311ed93f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-icons/treasure-icons.module.ts","id":"01a061d5-d0b4-719c-ba34-e58d5ca2aa19"}
