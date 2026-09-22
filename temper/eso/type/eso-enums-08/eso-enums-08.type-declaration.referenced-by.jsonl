@@ -5,6 +5,8 @@
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-display-names/companions-display-names.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-settypes/lib-sets-const-settypes.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-saved-variables/lib-sets-core-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-item-mark/craft-item-mark.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-lang-shared/craft-lang-shared.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-validation/craft-validation.module.code.ts"}
@@ -26,8 +28,6 @@
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-types/inventory-rules-types.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-settypes/lib-sets-const-settypes.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-saved-variables/lib-sets-core-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/companion-equipment-catalog-capture/companion-equipment-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-filter-type-constants/item-filter-type-constants.module.code.ts"}

@@ -1,3 +1,11 @@
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-copy-dialog/lib-sets-copy-dialog.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-lifecycle-ui-buttons/lib-sets-core-lifecycle-ui-buttons.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-keyboard-filters-setup/lib-sets-search-ui-keyboard-filters-setup.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-keyboard-init/lib-sets-search-ui-keyboard-init.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-keyboard-search/lib-sets-search-ui-keyboard-search.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-list-keyboard/lib-sets-search-ui-list-keyboard.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-tooltip-favorites/lib-sets-search-ui-shared-tooltip-favorites.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-xml-handlers/lib-sets-search-ui-shared-xml-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/alchemy-station-types/alchemy-station-types.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/alchemy-station/alchemy-station.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-context-menu/housing-context-menu.module.code.ts"}
@@ -71,12 +79,4 @@
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class/scrollable-menu-dropdown-class.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-submenu-class/scrollable-menu-submenu-class.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-entry/scrollable-menu-util-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-copy-dialog/lib-sets-copy-dialog.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-lifecycle-ui-buttons/lib-sets-core-lifecycle-ui-buttons.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-keyboard-filters-setup/lib-sets-search-ui-keyboard-filters-setup.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-keyboard-init/lib-sets-search-ui-keyboard-init.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-keyboard-search/lib-sets-search-ui-keyboard-search.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-list-keyboard/lib-sets-search-ui-list-keyboard.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-tooltip-favorites/lib-sets-search-ui-shared-tooltip-favorites.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-xml-handlers/lib-sets-search-ui-shared-xml-handlers.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/pages/lib-custom-menu/temper-lib-custom-menu.temper-addon.ts","id":"01a0605a-581c-7eb1-aaf7-831f236462fa"}

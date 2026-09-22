@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-menu/combat-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/companions/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-settings-lam/lib-sets-tip-settings-lam.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/crafting/modules/craft-set-lam/craft-set-lam.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/crafting/modules/knowledge-settings-panel/knowledge-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/crafting/modules/potion-settings-menu/potion-settings-menu.module.code.ts"}
@@ -11,7 +12,6 @@
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/interface/modules/fco-settings-menu/fco-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/interface/modules/quiet-settings-menu/quiet-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-settings/histoire-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-settings-lam/lib-sets-tip-settings-lam.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/navigation/modules/destinations-settings-init/destinations-settings-init.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/navigation/modules/minimap-pin-sizes/minimap-pin-sizes.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/navigation/modules/minimap-settings-panel/minimap-settings-panel.module.code.ts"}

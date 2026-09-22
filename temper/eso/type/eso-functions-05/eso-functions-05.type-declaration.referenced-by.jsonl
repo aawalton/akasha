@@ -10,6 +10,9 @@
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-globals/companions-globals.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-panel/companions-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-progress/companions-progress.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-all-dlc/lib-sets-const-all-dlc.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-debug-debug-names/lib-sets-debug-debug-names.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-cooking/craft-cooking.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-panel-init/craft-panel-init.module.code.ts"}
@@ -41,9 +44,6 @@
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master-smithing/inventory-writ-crafting-master-smithing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-provisioning/inventory-writ-crafting-provisioning.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-smithing/inventory-writ-crafting-smithing.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-all-dlc/lib-sets-const-all-dlc.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-names/lib-sets-debug-debug-names.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-callbacks-loot/map-pins-callbacks-loot.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-compass-pins/map-pins-compass-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-pin-add/map-pins-pin-add.module.code.ts"}

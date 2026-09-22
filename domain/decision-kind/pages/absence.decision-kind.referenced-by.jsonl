@@ -1766,6 +1766,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companion-qol-types/companion-qol-types.module.ts","id":"01a0611d-84ce-7b51-8ddf-74ea1f57955c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/temper-addon-companions.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-gen-no-set-id-sets/lib-sets-gen-no-set-id-sets.module.ts","id":"01a061d7-7bcd-7e34-9bc0-f2daafdd16c4"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-gen-zone-ids-of-newer-api-version/lib-sets-gen-zone-ids-of-newer-api-version.module.ts","id":"01a061fc-cee8-7893-86a9-c6e36f1902df"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/knowledge-casts/knowledge-casts.module.ts","id":"01a061fa-8003-7294-ab90-2fa2f73b33f0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/price-casts/price-casts.module.ts","id":"01a0615d-c219-7729-a4bf-b8c0493920a7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/slash-commander-casts/slash-commander-casts.module.ts","id":"01a06066-8403-7a32-b1b3-df88bb610cb2"}
@@ -1847,8 +1849,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-lang/scrollable-menu-lang.module.ts","id":"01a06275-c449-7b5d-9a57-12fbd9707620"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-main/scrollable-menu-main.module.ts","id":"01a06275-c449-7ac7-bcea-a44c4d7ba068"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-index/scrollable-menu-util-index.module.ts","id":"01a06275-c449-7f7a-ba6b-ccd20e2d132b"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-gen-no-set-id-sets/lib-sets-gen-no-set-id-sets.module.ts","id":"01a061d7-7bcd-7e34-9bc0-f2daafdd16c4"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-gen-zone-ids-of-newer-api-version/lib-sets-gen-zone-ids-of-newer-api-version.module.ts","id":"01a061fc-cee8-7893-86a9-c6e36f1902df"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/navigation/destinations-preview-controls/destinations-preview-controls.type-declaration.ts","id":"01a06269-2b13-7b9c-8e10-1f913f1e6553"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/navigation/minimap-string-ids/minimap-string-ids.type-declaration.ts","id":"01a06269-2b15-7ed4-828d-87a96fe2a139"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/navigation/modules/minimap-view-types/minimap-view-types.module.ts","id":"01a06269-2b11-7ab4-91ef-f78f20b801bc"}

@@ -40,6 +40,8 @@
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-skills-panel/companions-skills-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-summary-panel/companions-summary-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-load-sets-checktype/lib-sets-core-load-sets-checktype.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-ui-updates/craft-ui-updates.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-utilities/craft-utilities.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-public-research/knowledge-public-research.module.code.ts"}
@@ -67,8 +69,6 @@
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-server-request/histoire-server-request.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-settings/histoire-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-debug/histoire-status-window-debug.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-load-sets-checktype/lib-sets-core-load-sets-checktype.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-pin-add/map-pins-pin-add.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-toggles/minimap-toggles.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-tweaks-refresh-pins/minimap-tweaks-refresh-pins.module.code.ts"}

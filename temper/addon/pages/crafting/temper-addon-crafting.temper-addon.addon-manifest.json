@@ -16,14 +16,15 @@
     "LibZone_Localized_SV_Data",
     "LibZone_GeoDebug_SV_Data",
     "LibZone_Debug_SV_Data",
-    "LibCharacterKnowledgeData"
+    "LibCharacterKnowledgeData",
+    "LibSets_SV_Data",
+    "LibSets_SV_DEBUG_Data"
   ],
   "dependsOn": [
     "LibAddonMenu-2.0>=43",
     "LibAsync>=20100",
     "LibCustomMenu>=692",
     "LibMainMenu-2.0>=432",
-    "LibSets>=9020",
     "TemperHud"
   ],
   "optionalDependsOn": [
@@ -34,7 +35,9 @@
     "TamrielTradeCentre",
     "LibChatMessage",
     "MultiCraft",
-    "LibDebugLogger"
+    "LibDebugLogger",
+    "LibScrollableMenu",
+    "LibSlashCommander"
   ],
   "xmlFiles": {
     "beforeBundle": ["XML/UI/CraftStore_Font.xml"],
@@ -45,7 +48,10 @@
       "XML/UI/CraftStore_Style.xml",
       "XML/UI/CraftStore_Recipe.xml",
       "XML/UI/CraftStore_Blueprint.xml",
-      "XML/UI/PotionMaker.xml"
+      "XML/UI/PotionMaker.xml",
+      "PC/CopyText/LibSets_CopyTextDialog.xml",
+      "SearchUI/LibSets_SearchUI_Shared.xml",
+      "SearchUI/Keyboard/LibSets_SearchUI_Keyboard.xml"
     ]
   },
   "assets": [
@@ -57,6 +63,9 @@
     "XML/UI/CraftStore_Recipe.xml",
     "XML/UI/CraftStore_Blueprint.xml",
     "XML/UI/PotionMaker.xml",
+    "PC/CopyText/LibSets_CopyTextDialog.xml",
+    "SearchUI/LibSets_SearchUI_Shared.xml",
+    "SearchUI/Keyboard/LibSets_SearchUI_Keyboard.xml",
     "DDS/cs.dds",
     "DDS/lmb.dds",
     "DDS/mmb.dds",

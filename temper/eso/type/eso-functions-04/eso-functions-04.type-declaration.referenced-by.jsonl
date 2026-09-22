@@ -15,6 +15,11 @@
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-progress/companions-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-summary-panel/companions-summary-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-api-armor-weapon-equip-class/lib-sets-core-api-armor-weapon-equip-class.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-debug-debug-scan-data/lib-sets-debug-debug-scan-data.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-rowmenu/lib-sets-search-ui-shared-rowmenu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-item-mark/craft-item-mark.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-options/craft-options.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-player-state/craft-player-state.module.code.ts"}
@@ -44,11 +49,6 @@
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-map-adapter/gps-map-adapter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-legacy-event-format/histoire-legacy-event-format.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-update/map-data-update.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-api-armor-weapon-equip-class/lib-sets-core-api-armor-weapon-equip-class.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-scan-data/lib-sets-debug-debug-scan-data.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-rowmenu/lib-sets-search-ui-shared-rowmenu.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-hooks/destinations-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-slash-command/destinations-pins-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"}

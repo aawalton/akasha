@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-context-menus/combat-ui-context-menus.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-lifecycle-inventory-contextmenu/lib-sets-core-lifecycle-inventory-contextmenu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-controls/potion-controls.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-main-menu/potion-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-windows/potion-windows.module.code.ts"}
@@ -17,7 +18,6 @@
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-refresh/scrollable-menu-api-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-filter/scrollable-menu-dropdown-class-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-lifecycle-inventory-contextmenu/lib-sets-core-lifecycle-inventory-contextmenu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-packs/selector-packs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-search/selector-search.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-ui-settings-menu/selector-ui-settings-menu.module.code.ts"}

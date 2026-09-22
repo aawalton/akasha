@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"eso-lib-sets-dlc.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-all-dlc/lib-sets-const-all-dlc.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lib-sets-dlc.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-api-set-info/lib-sets-core-api-set-info.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lib-sets-dlc.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-api-wayshrine-dlc-settype/lib-sets-core-api-wayshrine-dlc-settype.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lib-sets-dlc.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-lifecycle-slash-command/lib-sets-core-lifecycle-slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lib-sets-dlc.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-all-dlc/lib-sets-const-all-dlc.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lib-sets-dlc.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-api-set-info/lib-sets-core-api-set-info.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lib-sets-dlc.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-api-wayshrine-dlc-settype/lib-sets-core-api-wayshrine-dlc-settype.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lib-sets-dlc.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-lifecycle-slash-command/lib-sets-core-lifecycle-slash-command.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

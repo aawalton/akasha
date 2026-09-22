@@ -33,6 +33,9 @@
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-skills-panel/companions-skills-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-summary-panel/companions-summary-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-all-classdata/lib-sets-const-all-classdata.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-lifecycle-inventory-contextmenu/lib-sets-core-lifecycle-inventory-contextmenu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-cooking/craft-cooking.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-inventory/craft-inventory.module.code.ts"}
@@ -91,9 +94,6 @@
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master-match/inventory-writ-crafting-master-match.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master-smithing/inventory-writ-crafting-master-smithing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-smithing/inventory-writ-crafting-smithing.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-all-classdata/lib-sets-const-all-classdata.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-lifecycle-inventory-contextmenu/lib-sets-core-lifecycle-inventory-contextmenu.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-alliance-colors/map-pins-alliance-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-item-events/map-pins-item-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-state/minimap-state.module.code.ts"}

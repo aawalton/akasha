@@ -323,6 +323,7 @@ export const temperAddonCrafting = {
     "module/knowledge-strings-zh",
     "module/knowledge-types",
     "type-declaration/knowledge-string-ids",
+    "domain/crafting-sets",
   ],
   interfaces: [
     "eso-interface/craft-store-blueprint-layout",
@@ -333,6 +334,9 @@ export const temperAddonCrafting = {
     "eso-interface/craft-store-rune-layout",
     "eso-interface/craft-store-style-layout",
     "eso-interface/potion-maker-layout",
+    "eso-interface/lib-sets-copy-text-dialog",
+    "eso-interface/lib-sets-search-ui-shared-xml",
+    "eso-interface/lib-sets-search-ui-keyboard-xml",
   ],
   decisions: [
     {

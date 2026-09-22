@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-api-nav/lib-sets-core-api-nav.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-casts/potion-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-constants/potion-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-controls-ingredients/potion-controls-ingredients.module.code.ts"}
@@ -46,7 +47,6 @@
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-icons/scrollable-menu-combobox-base-icons.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-header-refresh/scrollable-menu-dropdown-header-refresh.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-api-nav/lib-sets-core-api-nav.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-colors/destinations-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-defaults/destinations-defaults.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"}

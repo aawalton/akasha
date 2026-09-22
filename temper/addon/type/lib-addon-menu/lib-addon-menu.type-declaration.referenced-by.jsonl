@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-init/companion-qol-init.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-entry/companions-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-header/lib-sets-core-header.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-set-lam/craft-set-lam.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-xml-handlers/craft-xml-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-settings-main-section/knowledge-settings-main-section.module.code.ts"}
@@ -37,7 +38,6 @@
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-core/journal-core.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-tabs/journal-tabs.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-settings/histoire-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-header/lib-sets-core-header.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-settings-achievement-global/destinations-settings-achievement-global.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-settings-achievement-sections/destinations-settings-achievement-sections.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-settings-achievements/destinations-settings-achievements.module.code.ts"}

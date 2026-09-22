@@ -1,3 +1,7 @@
+{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-loc-rest-strings-fr/lib-sets-loc-rest-strings-fr.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-loc-rest-strings-pl/lib-sets-loc-rest-strings-pl.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-loc-rest-strings-zh/lib-sets-loc-rest-strings-zh.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-loc-strings-en/lib-sets-loc-strings-en.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-potion-craft/potion-potion-craft.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-window-helpers/potion-window-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-map/fco-map.module.code.ts"}
@@ -8,10 +12,6 @@
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-state/pin-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-setup-toggles/scrollable-menu-combobox-base-setup-toggles.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-header/scrollable-menu-combobox-header.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-loc-rest-strings-fr/lib-sets-loc-rest-strings-fr.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-loc-rest-strings-pl/lib-sets-loc-rest-strings-pl.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-loc-rest-strings-zh/lib-sets-loc-rest-strings-zh.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-loc-strings-en/lib-sets-loc-strings-en.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-map-filters/map-pins-map-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-tooltips/map-pins-tooltips.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

@@ -1,3 +1,11 @@
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-kbf-dlc-filter/lib-sets-kbf-dlc-filter.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-kbf-drop-filters/lib-sets-kbf-drop-filters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-kbf-favorites-filter/lib-sets-kbf-favorites-filter.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-kbf-gear-filters/lib-sets-kbf-gear-filters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-kbf-set-bonus-filters/lib-sets-kbf-set-bonus-filters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-keyboard-filters-setup/lib-sets-search-ui-keyboard-filters-setup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-ui/lib-sets-search-ui-shared-ui.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-xml-api/lib-sets-search-ui-xml-api.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/addon-keybinds-load/addon-keybinds-load.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
@@ -24,14 +32,6 @@
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base/scrollable-menu-combobox-base.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-show/scrollable-menu-dropdown-class-show.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-header-refresh/scrollable-menu-dropdown-header-refresh.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-dlc-filter/lib-sets-kbf-dlc-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-drop-filters/lib-sets-kbf-drop-filters.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-favorites-filter/lib-sets-kbf-favorites-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-gear-filters/lib-sets-kbf-gear-filters.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-set-bonus-filters/lib-sets-kbf-set-bonus-filters.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-keyboard-filters-setup/lib-sets-search-ui-keyboard-filters-setup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-ui/lib-sets-search-ui-shared-ui.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-xml-api/lib-sets-search-ui-xml-api.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-focus-zoom/minimap-focus-zoom.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-color/lccc-color.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}

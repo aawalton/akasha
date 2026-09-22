@@ -13,6 +13,9 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/crafting/craft-store-recipe-layout/craft-store-recipe-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/crafting/craft-store-rune-layout/craft-store-rune-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/crafting/craft-store-style-layout/craft-store-style-layout.eso-interface.ts"}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/crafting/crafting-sets/lib-sets-copy-text-dialog/lib-sets-copy-text-dialog.eso-interface.ts"}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/crafting/crafting-sets/lib-sets-search-ui-keyboard-xml/lib-sets-search-ui-keyboard-xml.eso-interface.ts"}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/crafting/crafting-sets/lib-sets-search-ui-shared-xml/lib-sets-search-ui-shared-xml.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/crafting/potion-maker-layout/potion-maker-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/events/next-boss-layout/next-boss-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/interface/fcocs-virtuals/fcocs-virtuals.eso-interface.ts"}
@@ -21,9 +24,6 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/lib-extended-journal/journal-controls/journal-controls.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/lib-histoire/histoire-guild-history-cache-controls/histoire-guild-history-cache-controls.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/scrollable-menu-controls/scrollable-menu-controls.eso-interface.ts"}
-{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/lib-sets/lib-sets-copy-text-dialog/lib-sets-copy-text-dialog.eso-interface.ts"}
-{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/lib-sets/lib-sets-search-ui-keyboard-xml/lib-sets-search-ui-keyboard-xml.eso-interface.ts"}
-{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/lib-sets/lib-sets-search-ui-shared-xml/lib-sets-search-ui-shared-xml.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/navigation/minimap-animations/minimap-animations.eso-interface.ts"}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
 {"propertySlug":"target-page-type","path":"temper/addon/properties/eso-interfaces.relation-property.ts","id":"01a06036-9b78-7e16-a4d4-1b73c48a5c05"}

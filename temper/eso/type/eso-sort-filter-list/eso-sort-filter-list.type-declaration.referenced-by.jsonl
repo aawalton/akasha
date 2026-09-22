@@ -1,5 +1,11 @@
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-kbf-sorting/lib-sets-kbf-sorting.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-list-build/lib-sets-search-ui-list-build.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-list-class/lib-sets-search-ui-list-class.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-list-keyboard/lib-sets-search-ui-list-keyboard.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-contextmenu/lib-sets-search-ui-shared-contextmenu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-window-helpers/potion-window-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-inventory-tweaks/writ-mark-inventory-tweaks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-context-menu/housing-context-menu.module.code.ts"}
@@ -39,12 +45,6 @@
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-contextmenu-class/scrollable-menu-contextmenu-class.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-filter/scrollable-menu-dropdown-class-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class/scrollable-menu-dropdown-class.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-sorting/lib-sets-kbf-sorting.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-list-build/lib-sets-search-ui-list-build.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-list-class/lib-sets-search-ui-list-class.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-list-keyboard/lib-sets-search-ui-list-keyboard.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-contextmenu/lib-sets-search-ui-shared-contextmenu.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-library-filter/lorebooks-library-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-data-lines/skill-point-finder-data-lines.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-window/skill-point-finder-window.module.code.ts"}

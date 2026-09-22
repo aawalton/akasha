@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-api-armor-weapon-equip-class/lib-sets-core-api-armor-weapon-equip-class.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-inventory/craft-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-player-state/craft-player-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-research/craft-research.module.code.ts"}
@@ -11,7 +12,6 @@
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-events/map-data-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/lib-map-ping/modules/map-ping-handler/map-ping-handler.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-lib/map-pins-lib.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-api-armor-weapon-equip-class/lib-sets-core-api-armor-weapon-equip-class.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-achievement-events/map-pins-achievement-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-chest-capture/map-pins-chest-capture.module.code.ts"}

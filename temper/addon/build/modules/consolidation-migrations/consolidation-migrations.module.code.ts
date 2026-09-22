@@ -75,6 +75,15 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
+    runFor: "TemperCrafting",
+    spec: {
+      absorbedFileBase: "LibSets",
+      absorbedGlobal: "LibSets_SV_Data",
+      targetFileBase: "TemperCrafting",
+    },
+  },
+  {
+    mode: "append",
     runFor: "TemperCollections",
     spec: {
       absorbedFileBase: "TemperSkyShards",

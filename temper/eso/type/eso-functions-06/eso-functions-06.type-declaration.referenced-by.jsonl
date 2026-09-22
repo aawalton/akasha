@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-build-export/combat-ui-build-export.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-set-itemids-filtered/lib-sets-core-set-itemids-filtered.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-character-panel/craft-character-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-cooking/craft-cooking.module.code.ts"}
@@ -60,7 +61,6 @@
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master-smithing/inventory-writ-crafting-master-smithing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-provisioning/inventory-writ-crafting-provisioning.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-smithing/inventory-writ-crafting-smithing.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-set-itemids-filtered/lib-sets-core-set-itemids-filtered.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-fishing-bait/destinations-fishing-bait.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts"}

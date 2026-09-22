@@ -550,6 +550,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/build/resolve/temper-addon-resolve.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/build/temper-addon-build.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/community/temper-addon-community.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/crafting/crafting-sets/crafting-sets.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-component.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/lccc/temper-lccc.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/log/temper-addon-log.domain.ts"}
