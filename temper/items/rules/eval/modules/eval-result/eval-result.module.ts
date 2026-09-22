@@ -4,7 +4,7 @@ export const evalResult = {
   id: "01a06137-f96c-798a-8f82-d7f113caafb0",
   type: "page-type/module",
   slug: "eval-result",
-  definition: "the recorded result of evaluating a compiled rule list against one item",
+  definition: "the recorded result of evaluating a compiled rule list against an item",
   code: "ts",
   decisions: [
     {

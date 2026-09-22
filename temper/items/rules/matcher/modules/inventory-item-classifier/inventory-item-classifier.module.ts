@@ -4,7 +4,7 @@ export const inventoryItemClassifier = {
   id: "01a06151-370b-7703-ac80-b90c8331ef9a",
   type: "page-type/module",
   slug: "inventory-item-classifier",
-  definition: "which category tree nodes one captured item falls under, and where the item lies",
+  definition: "which category tree nodes a captured item falls under, and where the item lies",
   code: "ts",
   decisions: [
     {
