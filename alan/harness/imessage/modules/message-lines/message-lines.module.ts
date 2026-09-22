@@ -4,7 +4,7 @@ export const messageLines = {
   id: "01a0657e-795c-7000-8a91-fdebae0f4233",
   type: "page-type/module",
   slug: "message-lines",
-  definition: "the pieces one iMessage row is written out from: its moment, its sender, its body",
+  definition: "the pieces an iMessage row is written out from: its moment, its sender, its body",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

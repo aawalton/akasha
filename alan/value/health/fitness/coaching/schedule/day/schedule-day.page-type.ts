@@ -4,7 +4,7 @@ export const scheduleDay = {
   id: "01a0657a-e62d-71ab-9830-6a438684618d",
   type: "page-type/page-type",
   slug: "schedule-day",
-  definition: "one day of a training rotation, and what it trains",
+  definition: "a day of a training rotation, and what it trains",
   extends: ["page-type/page"],
   parts: ["select-property/day-of-week", "select-property/focus"],
   properties: [

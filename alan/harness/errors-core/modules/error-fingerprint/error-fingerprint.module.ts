@@ -4,7 +4,7 @@ export const errorFingerprint = {
   id: "01a05c48-deeb-7016-a6d6-1a0c3bcc2c59",
   type: "page-type/module",
   slug: "error-fingerprint",
-  definition: "the one value two accounts of the same fault share",
+  definition: "the value two accounts of the same fault share",
   code: "ts",
   decisions: [
     {

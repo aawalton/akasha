@@ -7,7 +7,7 @@ export const addPropertyValues = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "many values put into the properties their lines name, in one call",
+  definition: "many values put into the properties their lines name, in a call",
   code: "ts",
   test: "ts",
   decisions: [

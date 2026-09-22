@@ -5,7 +5,7 @@ export const playKey = {
   type: "page-type/text-property",
   slug: "play-key",
   propertySlug: "play-key",
-  definition: "the text one listen is told apart from every other listen by",
+  definition: "the text a listen is told apart from every other listen by",
   maxLength: 100,
   nameFormat: null,
   decisions: [

@@ -5,7 +5,7 @@ export const plantGrams = {
   type: "page-type/number-property",
   slug: "plant-grams",
   propertySlug: "plant-grams",
-  definition: "the grams of whole plant one thing eaten contributes",
+  definition: "the grams of whole plant a thing eaten contributes",
   max: null,
   decisions: [
     {

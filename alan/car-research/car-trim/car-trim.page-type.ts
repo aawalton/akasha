@@ -4,7 +4,7 @@ export const carTrim = {
   id: "01a06827-645d-74f5-957f-25b077d85817",
   type: "page-type/page-type",
   slug: "car-trim",
-  definition: "one specification a model year is sold in",
+  definition: "a specification a model year is sold in",
   extends: ["page-type/car"],
   parts: [
     "relation-property/car-year",

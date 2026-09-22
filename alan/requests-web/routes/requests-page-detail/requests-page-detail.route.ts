@@ -4,7 +4,7 @@ export const requestsPageDetail = {
   id: "01a0c537-bad8-7ed3-8fbf-0f2b74a75fce",
   type: "page-type/route",
   slug: "requests-page-detail",
-  definition: "one page, drawn with its properties",
+  definition: "a page, drawn with its properties",
   code: "tsx",
   urlPath: ":pageTypeSlug/:pageHrefParam",
   decisions: [

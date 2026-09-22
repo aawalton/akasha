@@ -5,7 +5,7 @@ export const wealthStoplight = {
   type: "page-type/computed-property",
   slug: "wealth-stoplight",
   propertySlug: "wealth-stoplight",
-  definition: "the rung the day's wealth reached, as one colored light",
+  definition: "the rung the day's wealth reached, as a colored light",
   holds: "text",
   code: "ts",
   types: "ts",

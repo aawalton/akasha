@@ -5,7 +5,7 @@ export const messagesSent = {
   type: "page-type/number-property",
   slug: "messages-sent",
   propertySlug: "sent",
-  definition: "how many messages Alan wrote to one persona on one day",
+  definition: "how many messages Alan wrote to a persona on a day",
   max: null,
   decisions: [
     {

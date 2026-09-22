@@ -5,7 +5,7 @@ export const setVolume = {
   type: "page-type/computed-property",
   slug: "set-volume",
   propertySlug: "set-volume",
-  definition: "the weight one set of work moved, in pounds",
+  definition: "the weight a set of work moved, in pounds",
   holds: "number",
   code: "ts",
   decisions: [
