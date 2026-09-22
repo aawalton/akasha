@@ -10,10 +10,4 @@ export const alanwaltonWeb = {
   basePort: 3000,
   secretResource: "alanwalton-secrets",
   serviceClusters: ["service-cluster/alanwalton-web"],
-  hostnames: [
-    "alanwalton.com",
-    "webhook.alanwalton.com",
-    "sms.alanwalton.com",
-    "idle.alanwalton.com",
-  ],
 } as const satisfies WebApp

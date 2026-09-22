@@ -322,7 +322,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/secret/properties/resource-key.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/secret/properties/secret-value.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/web-app/properties/build-command.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/web-app/properties/hostnames.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/web-app/properties/secret-resource.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/web-app/properties/source-directory.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/workstation/properties/after.text-property.ts"}

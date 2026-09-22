@@ -2819,7 +2819,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.ts","id":"01a0b711-835f-7852-be91-2ba3e1e6e35c"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/base-port.number-property.ts","id":"01a08cfa-c5f4-7b3f-80e6-1a9623e9954d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/build-command.text-property.ts","id":"01a05b26-f8b6-7600-9b5a-4fed2b228f2b"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/hostnames.text-property.ts","id":"01a05b26-f8b6-7019-9588-3230dc4b1044"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/secret-resource.text-property.ts","id":"01a08cfa-dafb-7b31-884e-718e64f5308b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/service-clusters.relation-property.ts","id":"01a05b26-f8b6-7334-a5d4-d44ab19e071e"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/source-directory.text-property.ts","id":"01a05b26-f8b6-7d79-b5c7-6e8267081489"}

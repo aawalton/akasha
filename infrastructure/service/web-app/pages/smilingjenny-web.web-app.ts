@@ -9,5 +9,4 @@ export const smilingjennyWeb = {
   buildCommand: "bun run build",
   secretResource: "smilingjenny-secrets",
   serviceClusters: ["service-cluster/smilingjenny-web"],
-  hostnames: ["smilingjenny.me"],
 } as const satisfies WebApp

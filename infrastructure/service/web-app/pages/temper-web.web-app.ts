@@ -10,5 +10,4 @@ export const temperWeb = {
   basePort: 3300,
   secretResource: "temper-secrets",
   serviceClusters: ["service-cluster/temper-web"],
-  hostnames: ["tempereso.com", "www.tempereso.com"],
 } as const satisfies WebApp

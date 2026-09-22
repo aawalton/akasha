@@ -10,5 +10,4 @@ export const alanwaltonRequestsWeb = {
   basePort: 3700,
   secretResource: "alanwalton-secrets",
   serviceClusters: ["service-cluster/alanwalton-requests"],
-  hostnames: ["requests.alanwalton.com"],
 } as const satisfies WebApp

@@ -14,7 +14,6 @@ export const webApp = {
     "number-property/base-port",
     "relation-property/service-clusters",
     "text-property/build-command",
-    "text-property/hostnames",
     "text-property/secret-resource",
     "text-property/source-directory",
     "web-app/alanwalton-atlas-web",
@@ -35,7 +34,6 @@ export const webApp = {
       many: true,
       maxCount: 20,
     },
-    { pageProperty: "text-property/hostnames", required: false, many: true, maxCount: 20 },
     { pageProperty: "text-property/secret-resource", required: true, many: false },
     { pageProperty: "number-property/base-port", required: false, many: false },
   ],
@@ -56,10 +54,6 @@ export const webApp = {
     {
       decisionKind: "decision-kind/absence",
       statement: "A web app states nothing of the build representing the web app now.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The tunnel is routed from the host names stated here.",
     },
   ],
   types: "ts",

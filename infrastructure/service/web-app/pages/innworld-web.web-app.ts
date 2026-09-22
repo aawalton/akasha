@@ -10,5 +10,4 @@ export const innworldWeb = {
   basePort: 3800,
   secretResource: "innworld-secrets",
   serviceClusters: ["service-cluster/innworld-web"],
-  hostnames: ["innworld.wiki"],
 } as const satisfies WebApp

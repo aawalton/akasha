@@ -106,7 +106,6 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/inference/properties/runs.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/properties/deploys-after.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/secret/properties/placements.record-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/web-app/properties/hostnames.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/web-app/properties/service-clusters.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/workstation/properties/after.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/workstation/properties/binds.text-property.types.ts"}
