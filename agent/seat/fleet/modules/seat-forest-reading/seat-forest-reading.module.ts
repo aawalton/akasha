@@ -62,7 +62,7 @@ export const seatForestReading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A seat the working tree no longer has is read from the newest commit that had that seat.",
+        "A seat the checkout no longer has is read from the newest commit that had that seat.",
     },
     {
       decisionKind: "decision-kind/departure",
