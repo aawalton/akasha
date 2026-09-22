@@ -14,7 +14,22 @@ export const deployTreePinning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tree sits under the folder every worktree of the checkout shares.",
+      statement: "A tree sits under the git directory of the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tree is a plain export with no git directory in it, so nothing running in a tree can commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An edit written into a tree is lost at the next move, so an edit goes back to the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The git index a kind's tree is written from sits beside the trees under that same git directory.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,11 +41,11 @@ export const deployTreePinning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file git does not track goes when the tree moves.",
+      statement: "A file git does not track is left where it is when a tree moves.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tree holds what its commit holds and nothing beside it.",
+      statement: "A tree holds what its commit holds at every path that commit names.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,7 +61,30 @@ export const deployTreePinning = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here builds an index.",
+      statement: "Nothing here builds the index a tree carries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The commit a tree is pinned at is written into a stamp at the root of that tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The stamp is written after the move, so no reader is handed a commit the tree lacks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The stamp is written beside itself and renamed over, so no reader is handed half of one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The stamp is a file git does not track, so a move leaves it where it is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tree still held as a worktree is taken out of git first, carrying the index it kept.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -2,4 +2,6 @@
 {"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts"}
 {"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.test.ts"}
 {"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"infrastructure/service/modules/deploy-looping/deploy-looping.module.code.ts"}
+{"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"}
+{"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"infrastructure/service/workstation/modules/code-moving/code-moving.module.test.ts"}
 {"propertySlug":"parts","path":"command/pages/deploy/deploy.command.ts","id":"01a05af7-5996-7002-bc83-446645b7de16"}

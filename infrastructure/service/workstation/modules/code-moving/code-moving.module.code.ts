@@ -1,14 +1,9 @@
 import { readFileSync } from "node:fs"
-import { join, sep } from "node:path"
-import { gitIn, storeIn, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
+import { sep } from "node:path"
+import { PINNED_AT } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
+import { storeIn, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"
 import { RESTART_EXIT } from "akasha/infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"
-
-const WORKTREES = "worktrees"
-
-const A_HEAD = "HEAD"
-
-const A_REF = "ref: "
 
 export type Moved = {
   readonly from: string
@@ -22,11 +17,11 @@ export function kindOf(at: string, checkout: string): string | null {
   return named === undefined || named === "" ? null : named
 }
 
-export function headAt(checkout: string, kind: string): string {
-  return join(gitIn(checkout), WORKTREES, kind, A_HEAD)
+export function stampAt(checkout: string, kind: string): string {
+  return storeIn(checkout, TREES, kind, PINNED_AT)
 }
 
-export function lineAt(at: string): string | null {
+export function commitAt(at: string): string | null {
   let held: string
   try {
     held = readFileSync(at, "utf8")
@@ -35,12 +30,6 @@ export function lineAt(at: string): string | null {
   }
   const one = held.trim()
   return one === "" ? null : one
-}
-
-export function commitAt(at: string, gitDir: string): string | null {
-  const one = lineAt(at)
-  if (one === null || !one.startsWith(A_REF)) return one
-  return lineAt(join(gitDir, one.slice(A_REF.length).trim())) ?? one
 }
 
 export function movedFrom(from: string | null, to: string | null): Moved | null {
@@ -61,7 +50,7 @@ const CHECKOUT = checkoutAt()
 const KIND = kindOf(import.meta.dir, CHECKOUT)
 
 function commitNow(): string | null {
-  return KIND === null ? null : commitAt(headAt(CHECKOUT, KIND), gitIn(CHECKOUT))
+  return KIND === null ? null : commitAt(stampAt(CHECKOUT, KIND))
 }
 
 const STARTED: string | null = commitNow()

@@ -11,7 +11,11 @@ export const codeMoving = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The commit a tree sits at is the one the file git keeps that tree's HEAD in holds.",
+        "A tree is a plain export with no git directory, so the stamp there says where it sits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The commit a tree sits at is the one the stamp at the root of that tree holds.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -19,12 +23,7 @@ export const codeMoving = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A HEAD naming a branch is followed one hop to the file that branch is kept in.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A branch git keeps nowhere loose is read as the line naming it, which never moves.",
+      statement: "A stamp holds the commit itself, so nothing is followed anywhere to read it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -68,6 +67,10 @@ export const codeMoving = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here runs git.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here writes the stamp, which the deploy pinning that tree writes.",
     },
     {
       decisionKind: "decision-kind/absence",

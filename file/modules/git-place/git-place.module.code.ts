@@ -12,6 +12,8 @@ export const INDEXES = "indexes"
 
 export const TREES = "trees"
 
+export const TREE_INDEXES = "tree-indexes"
+
 export const DEPLOYS = "deploys"
 
 export const LANDING_LOCK = "akasha-landing.lock"

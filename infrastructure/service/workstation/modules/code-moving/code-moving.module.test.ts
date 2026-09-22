@@ -1,15 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { gitIn, storeIn, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
+import { PINNED_AT } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
+import { storeIn, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import {
   codeMoved,
   commitAt,
-  headAt,
   kindOf,
-  lineAt,
   movedFrom,
   saidOfMoved,
+  stampAt,
 } from "akasha/infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
@@ -41,31 +41,22 @@ test("a path outside the trees came out of no tree", () => {
   expect(kindOf(join(codeRoot(), "one"), CHECKOUT)).toBe(null)
 })
 
-test("a tree's commit is read out of the state git keeps for that tree alone", () => {
-  const at = headAt(CHECKOUT, A_KIND)
-  expect(at.startsWith(gitIn(CHECKOUT))).toBe(true)
-  expect(at.includes(A_KIND)).toBe(true)
+test("a tree's commit is read out of the stamp at the root of that tree", () => {
+  const at = stampAt(CHECKOUT, A_KIND)
+  expect(at).toBe(join(storeIn(CHECKOUT, TREES), A_KIND, PINNED_AT))
   laidDown(at, `${ONE_COMMIT}\n`)
-  expect(commitAt(at, gitIn(CHECKOUT))).toBe(ONE_COMMIT)
+  expect(commitAt(at)).toBe(ONE_COMMIT)
 })
 
-test("a head naming a branch is followed one hop to where that branch is kept", () => {
-  const at = headAt(CHECKOUT, "branched")
-  laidDown(at, "ref: refs/heads/held-branch\n")
-  laidDown(join(gitIn(CHECKOUT), "refs", "heads", "held-branch"), `${TWO_COMMIT}\n`)
-  expect(commitAt(at, gitIn(CHECKOUT))).toBe(TWO_COMMIT)
-})
-
-test("a branch kept nowhere loose is read as the line naming it", () => {
-  const at = headAt(CHECKOUT, "packed")
-  laidDown(at, "ref: refs/heads/nowhere\n")
-  expect(commitAt(at, gitIn(CHECKOUT))).toBe("ref: refs/heads/nowhere")
+test("a tree of another kind is read off a stamp of its own", () => {
+  laidDown(stampAt(CHECKOUT, "another-kind"), `${TWO_COMMIT}\n`)
+  expect(commitAt(stampAt(CHECKOUT, "another-kind"))).toBe(TWO_COMMIT)
+  expect(commitAt(stampAt(CHECKOUT, A_KIND))).toBe(ONE_COMMIT)
 })
 
 test("a commit no file gives back is no commit", () => {
-  expect(lineAt(join(CHECKOUT, "not-there"))).toBe(null)
-  expect(commitAt(join(CHECKOUT, "not-there"), gitIn(CHECKOUT))).toBe(null)
-  expect(commitAt(laidDown(join(CHECKOUT, "blank"), "  \n"), gitIn(CHECKOUT))).toBe(null)
+  expect(commitAt(join(CHECKOUT, "not-there"))).toBe(null)
+  expect(commitAt(laidDown(join(CHECKOUT, "blank"), "  \n"))).toBe(null)
 })
 
 test("code has moved only where two commits are both read and differ", () => {
