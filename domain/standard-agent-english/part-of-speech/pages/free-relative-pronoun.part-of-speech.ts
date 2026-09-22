@@ -16,7 +16,7 @@ export const freeRelativePronoun = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A word here names a thing or a place.",
+      statement: "A word here names a thing, a place or a person.",
     },
   ],
 } as const satisfies PartOfSpeech
