@@ -2462,6 +2462,7 @@
     7381,
     7391,
     7392,
+    7393,
     7400,
     7403,
     7404,
@@ -13000,7 +13001,7 @@
         "28": 68,
         "29": 69,
         "30": 77,
-        "31": 25
+        "31": 77
       },
       "58": {
         "1": 1,
@@ -17012,8 +17013,8 @@
     "groupDungeonTotal": 54,
     "tutorial": 0,
     "skyshardPoints": 193,
-    "unassigned": 248,
-    "zoneQuestTotal": 164,
+    "unassigned": 249,
+    "zoneQuestTotal": 165,
     "publicDungeons": {
       "EP4": 1,
       "AD1": 1,
@@ -17197,7 +17198,7 @@
       "NE": 3,
       "BW": 3,
       "EP0a": 0,
-      "SO": 8,
+      "SO": 9,
       "EP0b": 0,
       "AD3": 3,
       "AD4": 3,
@@ -17209,7 +17210,7 @@
       "AP": 9,
       "GY": 9
     },
-    "total": 576,
+    "total": 577,
     "maelstromArena": 1
   },
   "traitResearch": {
@@ -26413,8 +26414,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "date": "2026-09-21",
-    "completed": 7
+    "completed": 7,
+    "date": "2026-09-21"
   },
   "dailyWritStates": {
     "completed": {
