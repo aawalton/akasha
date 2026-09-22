@@ -60,4 +60,4 @@
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts"}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}
-{"propertySlug":"reached","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.ts","id":"01a077c9-cb05-7a92-a69e-7d25da444d7e"}
+{"propertySlug":"runner-reached","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.ts","id":"01a077c9-cb05-7a92-a69e-7d25da444d7e"}

@@ -8,3 +8,8 @@
 {"propertySlug":"class-id","path":"temper/catalog/skill/temper-grimoire/pages/ulfsilds-contingency/ulfsilds-contingency.temper-grimoire.ts","id":"01a05fce-2958-73bb-b25a-8b2b6fdb14e8"}
 {"propertySlug":"class-id","path":"temper/catalog/skill/temper-grimoire/pages/vault/vault.temper-grimoire.ts","id":"01a05fce-2959-739f-879f-e1dc43900386"}
 {"propertySlug":"class-id","path":"temper/catalog/skill/temper-grimoire/pages/wield-soul/wield-soul.temper-grimoire.ts","id":"01a05fce-2959-7331-ba75-a2bd0c58545a"}
+{"propertySlug":"set-class-id","path":"temper/catalog/gear/temper-set/pages/corpseburster/corpseburster.temper-set.ts","id":"019e6484-5fe0-7edb-82e0-ca0b3d2c4fe9"}
+{"propertySlug":"set-class-id","path":"temper/catalog/gear/temper-set/pages/nobility-in-decay/nobility-in-decay.temper-set.ts","id":"019e6484-5fe4-71d7-bd87-5305193f871a"}
+{"propertySlug":"skill-line-class","path":"temper/catalog/skill/line/pages/necromancer-bone-tyrant.temper-skill-line.ts","id":"019e61dc-f1b9-70b4-8838-6165bc4a1110"}
+{"propertySlug":"skill-line-class","path":"temper/catalog/skill/line/pages/necromancer-grave-lord.temper-skill-line.ts","id":"019e61dc-f1b9-7e2b-ac98-0d75be1f6157"}
+{"propertySlug":"skill-line-class","path":"temper/catalog/skill/line/pages/necromancer-living-death.temper-skill-line.ts","id":"019e61dc-f1ba-7e48-84e1-800197d72a33"}

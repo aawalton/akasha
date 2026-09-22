@@ -117,4 +117,4 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.types.ts","path":"change/mechanical/page-type/change-mechanical-page-type.page-type.types.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.types.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.ts"}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}
-{"propertySlug":"reached","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.ts","id":"01a08165-1d8f-730e-ad94-1bd3d2d9513b"}
+{"propertySlug":"runner-reached","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.ts","id":"01a08165-1d8f-730e-ad94-1bd3d2d9513b"}

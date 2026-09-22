@@ -1,0 +1,5 @@
+{"propertySlug":"evolves-from-slugs","path":"story/world/pages/the-wandering-inn/mechanics/classes/deathkindly-guardian.world-class.ts","id":"01a0657e-01cf-7dd1-ae5c-fb85eb959c92"}
+{"propertySlug":"evolves-from-slugs","path":"story/world/pages/the-wandering-inn/mechanics/classes/skeleton-king-of-terror.world-class.ts","id":"01a06586-0a3e-77b9-87b9-d0a4ad3aa74b"}
+{"propertySlug":"evolves-to-slugs","path":"story/world/pages/the-wandering-inn/mechanics/classes/class-relic-guardian.world-class.ts","id":"01a0658b-0668-7789-bc3a-318a684034ac"}
+{"propertySlug":"evolves-to-slugs","path":"story/world/pages/the-wandering-inn/mechanics/classes/guardian.world-class.ts","id":"01a0657e-01e7-78fa-a91f-bac3552e4dd3"}
+{"propertySlug":"reading-mechanic","path":"story/world/pages/the-wandering-inn/the-wandering-inn.world.ts","id":"01a063d6-4a4b-74c5-ad12-7fe438a5e5a4"}
