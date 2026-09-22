@@ -60,5 +60,10 @@ export const auditCommit = {
       statement:
         "A body is read from the kind a path classifies as rather than from how that path ends.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A body is read from disk at each ask, and a check wanting one twice holds it itself.",
+    },
   ],
 } as const satisfies Module
