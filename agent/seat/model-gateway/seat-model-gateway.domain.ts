@@ -4,7 +4,7 @@ export const seatModelGateway = {
   id: "01a08866-3c3f-734b-a28f-34e79b39e012",
   type: "page-type/domain",
   slug: "seat-model-gateway",
-  definition: "a seat's client proxy to Anthropic",
+  definition: "the model gateway a seat runs",
   parts: [
     "module/seat-gateway-state",
     "module/supervisor-gateway-adoption-decide",
