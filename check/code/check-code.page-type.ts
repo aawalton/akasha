@@ -229,6 +229,10 @@ export const checkCode = {
       decisionKind: "decision-kind/departure",
       statement: "An audit is handed the commit that audit judges rather than a change.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No audit reads a change, an overlay or a shadow.",
+    },
   ],
   directives: [
     {
