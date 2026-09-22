@@ -99,6 +99,7 @@
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/preposition.part-of-speech.ts","id":"01a0c58e-f68d-7a49-b538-7624b5cec8d5"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/verb.part-of-speech.ts","id":"01a0c677-ca51-7407-b1ca-e2a16319c088"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/name.common-language-term.ts","id":"01a0c933-cff5-7569-80c5-d7484baa2dfb"}
+{"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/program.common-language-term.ts","id":"01a0c982-c1e5-79dd-86e4-d00b46197d8b"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/run.common-language-term.ts","id":"01a0c937-9efa-79dc-ab59-21f33ba7362a"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/foreign-name-term/pages/kubectl.foreign-name-term.ts","id":"01a0c601-fd2d-778f-b163-16487fa964e0"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/term.page-type.ts","id":"01a081e9-9784-7d46-ac3d-c0dd6d88cb38"}
