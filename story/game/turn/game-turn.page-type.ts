@@ -8,7 +8,11 @@ export const gameTurn = {
   pluralSlug: "turns",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  properties: [{ pageProperty: "relation-property/holding-game", required: true, many: false }],
+  properties: [
+    { pageProperty: "relation-property/holding-game", required: true, many: false },
+    { pageProperty: "number-property/turn-number", required: true, many: false },
+    { pageProperty: "number-property/turn-session", required: false, many: false },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -29,4 +33,5 @@ export const gameTurn = {
   ],
   types: "ts",
   schema: "jsonl",
+  parts: ["number-property/turn-number", "number-property/turn-session"],
 } as const satisfies PageType
