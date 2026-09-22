@@ -127,5 +127,29 @@ export const unitWriting = {
       decisionKind: "decision-kind/departure",
       statement: "Every unit writes its throwaway files where the rest of the system writes them.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every unit a service is written names the teller told when that unit fails.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A timer names no teller, the service under that timer being what fails.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The teller is one template handed the name of the unit that failed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The teller is written by a call taking no service, so it can name no teller.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The teller is held to no start limit, so a fast loop cannot silence it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An exit a unit counts as a success fails that unit, and so tells, by nothing.",
+    },
   ],
 } as const satisfies Module

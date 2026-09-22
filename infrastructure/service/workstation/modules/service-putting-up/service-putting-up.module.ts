@@ -32,7 +32,7 @@ export const servicePuttingUp = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing but a unit and a timer is written where the units sit.",
+      statement: "Nothing but a unit, a timer and the teller is written where the units sit.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -59,6 +59,14 @@ export const servicePuttingUp = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the cluster.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The teller every unit names on failing is written and linked by this call.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A teller whose command will not compose refuses the whole plan.",
     },
   ],
 } as const satisfies Module

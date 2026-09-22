@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"run-composing.module.code.ts","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"run-composing.module.code.ts","path":"infrastructure/service/modules/deploy-looping/deploy-looping.module.code.ts"}
 {"propertySlug":"import","fileName":"run-composing.module.code.ts","path":"infrastructure/service/workstation/modules/run-composing/run-composing.module.test.ts"}
+{"propertySlug":"import","fileName":"run-composing.module.code.ts","path":"infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.code.ts"}
 {"propertySlug":"import","fileName":"run-composing.module.code.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"run-composing.module.test-fixtures.ts","path":"infrastructure/service/workstation/modules/run-composing/run-composing.module.test.ts"}
 {"propertySlug":"parts","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}

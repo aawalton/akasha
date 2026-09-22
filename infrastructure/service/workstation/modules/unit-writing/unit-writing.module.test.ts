@@ -2,9 +2,12 @@ import { expect, test } from "bun:test"
 import {
   installedUnitName,
   isScheduled,
+  ON_FAILURE,
   type Started,
   serviceUnitName,
   serviceUnitText,
+  TELLING_TEMPLATE,
+  tellingUnitText,
   timerUnitName,
   timerUnitText,
 } from "akasha/infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"
@@ -231,4 +234,48 @@ test("every unit runs its command in the checkout, so a bare specifier resolves 
   for (const one of [pageOf({}), pageOf({ systemd: { schedule: "daily" } })]) {
     expect(serviceUnitText(one)).toContain("WorkingDirectory=%h/repos/akasha")
   }
+})
+
+const TELLER = { command: "bun a.ts %i", pagePath: PAGE_PATH }
+
+test("the line naming the teller hands over the name of the unit that failed", () => {
+  expect(ON_FAILURE).toBe("OnFailure=service-telling@%N.service")
+  expect(TELLING_TEMPLATE).toBe("service-telling@.service")
+})
+
+test("every unit a service is written names the teller, scheduled or not", () => {
+  for (const one of [pageOf({}), pageOf({ systemd: { schedule: "daily" } })]) {
+    const text = serviceUnitText(one)
+    expect(text).toContain(`${ON_FAILURE}\n`)
+    expect(text.indexOf(ON_FAILURE)).toBeLessThan(text.indexOf("[Service]"))
+  }
+})
+
+test("a timer names no teller, the service under it being what fails", () => {
+  expect(timerUnitText(pageOf({ systemd: { schedule: "daily" } }))).not.toContain("OnFailure=")
+})
+
+test("the teller is a oneshot handed the failed unit's name and nothing else", () => {
+  const text = tellingUnitText(TELLER)
+  expect(text).toContain("Description=Tell whoever answers for %i that %i failed")
+  expect(text).toContain("ExecStart=/usr/bin/env bun a.ts %i")
+  expect(text).toContain("Type=oneshot")
+  expect(text).toContain("WorkingDirectory=%h/repos/akasha")
+  expect(text).toContain(`Documentation=file://%h/repos/akasha/${PAGE_PATH}`)
+})
+
+test("the teller names no teller of its own, so a fault in telling cannot loop", () => {
+  const text = tellingUnitText(TELLER)
+  expect(text).not.toContain("OnFailure=")
+  expect(text).not.toContain("Restart=")
+  expect(text).not.toContain("[Install]")
+})
+
+test("the teller is held to no start limit, so a fast loop cannot silence it", () => {
+  expect(tellingUnitText(TELLER)).toContain("StartLimitIntervalSec=0")
+})
+
+test("an exit a scheduled service counts as a success fails that unit by nothing", () => {
+  const text = serviceUnitText(pageOf({ systemd: { schedule: "daily" } }))
+  expect(text).toContain("SuccessExitStatus=143 79 SIGTERM\n")
 })

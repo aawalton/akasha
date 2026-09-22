@@ -21,6 +21,24 @@ export const TIMER_SUFFIX = ".timer"
 
 export const RESTART_EXIT = 79
 
+const TELLING_SLUG = "service-telling"
+
+const FAILED_UNIT = "%N"
+
+const THIS_UNIT = "%i"
+
+const ONESHOT = "oneshot"
+
+const SIMPLE = "simple"
+
+const NO_START_LIMIT = "StartLimitIntervalSec=0"
+
+const TELLING_DESCRIPTION = `Tell whoever answers for ${THIS_UNIT} that ${THIS_UNIT} failed`
+
+export const TELLING_TEMPLATE = `${TELLING_SLUG}@${SERVICE_SUFFIX}`
+
+export const ON_FAILURE = `OnFailure=${TELLING_SLUG}@${FAILED_UNIT}${SERVICE_SUFFIX}`
+
 const WRITTEN_PREFIX = "# Written from "
 
 export type Started = ServiceWorkstation & { readonly runs: readonly string[] }
@@ -29,6 +47,11 @@ export type Service = {
   readonly service: Started
   readonly pagePath: string
   readonly pagesOrigin?: string
+}
+
+export type Teller = {
+  readonly command: string
+  readonly pagePath: string
 }
 
 function scheduleOf(given: Service): string | null {
@@ -47,8 +70,8 @@ function described(given: Service): string {
   return one.charAt(0).toUpperCase() + one.substring(1)
 }
 
-function header(given: Service): string {
-  return `${WRITTEN_PREFIX}${given.pagePath} by akasha deploy. Edits here are lost.`
+function header(pagePath: string): string {
+  return `${WRITTEN_PREFIX}${pagePath} by akasha deploy. Edits here are lost.`
 }
 
 function shelled(given: Service, one: string): string {
@@ -63,9 +86,21 @@ function execLines(given: Service): readonly string[] {
   return given.service.runs.map((one) => `ExecStart=${shelled(given, one)}`)
 }
 
+function startingLines(type: string): readonly string[] {
+  return [
+    "[Service]",
+    `Type=${type}`,
+    `Slice=${SLICE}`,
+    `WorkingDirectory=${CHECKOUT}`,
+    `Environment=PATH=${PATH_ENV}`,
+    `Environment=AKASHA_ROOT=${CHECKOUT}`,
+    `Environment=TMPDIR=${SCRATCH_AT}`,
+  ]
+}
+
 function opening(given: Service): readonly string[] {
   return [
-    header(given),
+    header(given.pagePath),
     "",
     "[Unit]",
     `Description=${described(given)}`,
@@ -112,15 +147,10 @@ export function serviceUnitText(given: Service): string {
   const stated = given.service.systemd
   const lines: string[] = [
     ...opening(given),
+    ON_FAILURE,
     ...orderingLines(given),
     "",
-    "[Service]",
-    `Type=${scheduled ? "oneshot" : "simple"}`,
-    `Slice=${SLICE}`,
-    `WorkingDirectory=${CHECKOUT}`,
-    `Environment=PATH=${PATH_ENV}`,
-    `Environment=AKASHA_ROOT=${CHECKOUT}`,
-    `Environment=TMPDIR=${SCRATCH_AT}`,
+    ...startingLines(scheduled ? ONESHOT : SIMPLE),
     ...(given.pagesOrigin === undefined ? [] : [`Environment=${ORIGIN_ENV}=${given.pagesOrigin}`]),
     ...execLines(given),
   ]
@@ -142,6 +172,21 @@ export function serviceUnitText(given: Service): string {
     lines.push("", "[Install]", `WantedBy=${stated?.wantedBy ?? DEFAULT_TARGET}`)
   }
 
+  return `${lines.join("\n")}\n`
+}
+
+export function tellingUnitText(given: Teller): string {
+  const lines: string[] = [
+    header(given.pagePath),
+    "",
+    "[Unit]",
+    `Description=${TELLING_DESCRIPTION}`,
+    `Documentation=file://${CHECKOUT}/${given.pagePath}`,
+    NO_START_LIMIT,
+    "",
+    ...startingLines(ONESHOT),
+    `ExecStart=/usr/bin/env ${given.command}`,
+  ]
   return `${lines.join("\n")}\n`
 }
 
