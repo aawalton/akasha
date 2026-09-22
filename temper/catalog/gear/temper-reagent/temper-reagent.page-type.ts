@@ -6,13 +6,13 @@ export const temperReagent = {
   slug: "temper-reagent",
   definition: "a plant or part brewed into a drink",
   extends: ["page-type/temper-catalog-thing"],
-  parts: ["relation-property/alchemy-effects"],
+  parts: ["multi-relation-property/alchemy-effects"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/icon", required: true, many: false },
     { pageProperty: "number-property/item-id", required: true, many: false },
     {
-      pageProperty: "relation-property/alchemy-effects",
+      pageProperty: "multi-relation-property/alchemy-effects",
       required: true,
       many: true,
       maxCount: null,
