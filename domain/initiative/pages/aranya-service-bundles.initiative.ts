@@ -10,7 +10,7 @@ export const aranyaServiceBundles = {
     {
       statement: "A deploy is judged over what the one service it puts up is built from.",
       workingMemory:
-        "Not started. A deploy is judged over the diff from the commit it last put up, narrowed to the union over every workstation service plus the CLI, which was 1174 files on 2026-09-12. So a red test under `page/index`, which no workstation service reads, refuses the whole kind. `closuresOf` in `deploy-file-closure` already builds a per-slug closure and `touchedIn` already answers which services a change reaches; `unionOf` collapses them. The per-service artifact makes that judgement possible.",
+        "A deploy is judged over the diff since its last commit, narrowed to the union of every service's closure: 59 services, 2726 files. `carriedWith` then widens what the run reads to 8603 by taking whole folders, 630 of them test files no closure holds. Narrowing that union to the services that restart is a no-op: a changed file sits in the union exactly when some restarting service's closure holds it. Taking whole folders is what widens the judging.",
     },
   ],
   constraints: [
