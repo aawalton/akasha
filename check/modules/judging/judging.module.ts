@@ -4,7 +4,7 @@ export const judging = {
   id: "01a04bc4-7e86-7fa6-8d9b-5532730b7daf",
   type: "page-type/module",
   slug: "judging",
-  definition: "the refusals a check answers with",
+  definition: "a check's refusals",
   code: "ts",
   decisions: [
     {

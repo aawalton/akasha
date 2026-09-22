@@ -4,7 +4,7 @@ export const seatActConfirm = {
   id: "01a0686b-bfe9-7d14-9f46-c9701b005af8",
   type: "page-type/module",
   slug: "seat-act-confirm",
-  definition: "what Alan is asked before an act loses the turn a seat is part-way through",
+  definition: "what Alan is asked before an act loses a seat's part-way turn",
   code: "ts",
   decisions: [
     {

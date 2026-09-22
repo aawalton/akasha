@@ -4,7 +4,7 @@ export const changeTargetSubtype = {
   id: "01a07c71-2924-76f9-b37f-a239b7b97045",
   type: "page-type/page-type",
   slug: "change-target-subtype",
-  definition: "a narrower sort of thing a change acts on",
+  definition: "a narrower sort of thing under a change",
   parts: [
     "change-target-subtype/file",
     "change-target-subtype/file-code",
