@@ -50,5 +50,9 @@ export const git = {
       decisionKind: "decision-kind/gap",
       statement: "The code `repo/git` holds beyond running a command belongs here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Akasha makes no git worktree, and a tree pinned at a commit is a plain export.",
+    },
   ],
 } as const satisfies Domain
