@@ -10,7 +10,8 @@ export const whatJenCostsMe = {
   related: [
     "all-about-alan-topic/what-makes-a-person-expensive",
     "all-about-alan-topic/how-a-hard-talk-with-jen-gets-safer",
+    "all-about-alan-topic/giving-her-the-benefit-of-the-doubt",
   ],
   settled:
-    "Jen has been as high as a five and as low as a two.\n\nWhat moves it is the health of our relationship changing, as well as Jen's interpersonal style.",
+    "Jen has been as high as a five and as low as a two.\n\nWhat moves it is the health of our relationship changing, as well as Jen's interpersonal style.\n\nJen at a two gives me the benefit of the doubt and is low conflict.",
 } as const satisfies AllAboutAlanTopic
