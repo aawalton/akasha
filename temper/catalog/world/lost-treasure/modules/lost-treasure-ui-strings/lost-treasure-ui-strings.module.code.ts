@@ -5,19 +5,8 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 export function registerUiStrings(this: void): undefined {
-  const bugreportMessageLines = [
-    "ARE YOU USING THE LATEST UPDATE OF LOST TREASURE?\nYour local version is %d; please compare your version with the ESOUI/Minion version first before submitting the report!",
-    "*** DO NOT CHANGE THIS ***",
-    "Zone: %s",
-    "MapId: %d",
-    "{ %.4f, %.4f, %%22%s%%22, %d }, -- %s",
-    "*** YOUR MESSAGE HERE BELOW ***",
-  ]
-
   const simpleStrings: Record<string, string> = {
-    SI_LOST_TREASURE_BUGREPORT_PICKUP_MESSAGE: bugreportMessageLines.join("\n"),
-    SI_LOST_TREASURE_BUGREPORT_PICKUP_TITLE: "v%d new pin: [%d] %s",
-    SI_LOST_TREASURE_BUGREPORT_PICKUP_NO_MAP: "no map opened",
+    SI_LOST_TREASURE_MAP_NOT_OPENED: "no map opened",
 
     SI_LOST_TREASURE_MAP_FILTER_CHECKBOX_NAME: "<<C:1>> (<<C:2>>)",
 
@@ -51,10 +40,6 @@ export function registerUiStrings(this: void): undefined {
     SI_LOST_TREASURE_SHOW_MINIMAP_DELAY: "Hiding delay",
     SI_LOST_TREASURE_SHOW_MINIMAP_DELAY_TT:
       "Delay (in seconds) before hiding Mini Map, after you picked up the treasure or survey.",
-
-    SI_LOST_TREASURE_NOTIFICATION_MESSAGE: "New unknown data has been found.",
-    SI_LOST_TREASURE_NOTIFICATION_NOTE:
-      "Let us know your new data. You must have an ESOUI.com account to submit a report. Make sure you are logged in first before you click accept!",
 
     SI_LOST_TREASURE_DEBUG: "Enable Debug",
     SI_LOST_TREASURE_DEBUG_TT:

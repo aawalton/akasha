@@ -3,10 +3,6 @@ import {
   LOST_TREASURE_BLANK_SAVED_VARS,
 } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-constants/lost-treasure-constants.module.code.ts"
 import { createLogger } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-logger/lost-treasure-logger.module.code.ts"
-import {
-  deleteAllNotificationsInDatabase,
-  notificationsAdd,
-} from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-notifications/lost-treasure-notifications.module.code.ts"
 import { getSavedVars } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-saved-vars/lost-treasure-saved-vars.module.code.ts"
 import type { PinData } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-types/lost-treasure-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -71,8 +67,6 @@ function store(this: void, pinData: PinData, _overwriteMiningState?: boolean): u
     "nil",
     "nil"
   )
-
-  notificationsAdd(pinData)
 }
 
 export function miningAdd(this: void, pinData: PinData, overwriteMiningState?: boolean): undefined {
@@ -119,7 +113,6 @@ export function initializeMining(this: void): undefined {
   if (STATE.isActive) {
     logger.Info("initialized: Mining is ACTIVE " + additionalText)
   } else {
-    deleteAllNotificationsInDatabase()
     logger.Info("initialized: Mining is NOT active")
   }
 }

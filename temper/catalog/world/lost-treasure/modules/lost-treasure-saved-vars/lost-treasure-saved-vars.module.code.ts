@@ -60,7 +60,6 @@ export interface MiningData {
 export interface LostTreasureDefaults {
   pinTypes: Record<PinType, PinTypeSettings>
   miniMap: MiniMapSettings
-  notifications: PinData[]
   mining: MiningData
   misc: { hasNewIconPath: boolean }
 }
@@ -105,7 +104,6 @@ const DEFAULTS: LostTreasureDefaults = {
     size: 400,
     deletionDelay: 4,
   },
-  notifications: [],
   mining: {
     APIVersion: LOST_TREASURE_BLANK_SAVED_VARS,
     APITimeStamp: LOST_TREASURE_BLANK_SAVED_VARS,

@@ -1902,6 +1902,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/map-data-upstream-verify/map-data-upstream-verify.module.ts","id":"01a06282-dfc3-7a2b-87b4-c262c2239e92"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/treasure-upstream-verify/treasure-upstream-verify.module.ts","id":"01a06282-dfc3-7860-9a09-26dd6febe9a4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/zone-upstream-verify/zone-upstream-verify.module.ts","id":"01a06288-c640-74b3-b566-c847f9efc2c9"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/temper-lost-treasure.domain.ts","id":"01a06141-8003-755d-8ec8-3764b298f7ef"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/eso-chatter-names/eso-chatter-names.module.ts","id":"01a069cf-7042-7000-8df6-e6b7ffd0efc8"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/flag-fault-stage/flag-fault-stage.module.ts","id":"01a07bca-476d-73d6-89a9-15c0d6172d43"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.ts","id":"01a068e2-2267-7365-a8e9-f53b7be80f20"}

@@ -804,11 +804,9 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-reports/lorebooks-reports.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-slash-command/lorebooks-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-bag-cache/lost-treasure-bag-cache.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-bug-report/lost-treasure-bug-report.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-item-cache/lost-treasure-item-cache.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-mark-on-using/lost-treasure-mark-on-using.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-mining/lost-treasure-mining.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-notifications/lost-treasure-notifications.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-opened-map/lost-treasure-opened-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-pins/lost-treasure-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-saved-vars/lost-treasure-saved-vars.module.code.ts"}

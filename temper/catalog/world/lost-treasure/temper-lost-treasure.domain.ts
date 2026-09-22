@@ -8,7 +8,6 @@ export const temperLostTreasure = {
     "the buried treasure a map or a survey report points to, drawn where the player must dig",
   parts: [
     "module/lost-treasure-bag-cache",
-    "module/lost-treasure-bug-report",
     "module/lost-treasure-constants",
     "module/lost-treasure-debug",
     "module/lost-treasure-global",
@@ -16,7 +15,6 @@ export const temperLostTreasure = {
     "module/lost-treasure-logger",
     "module/lost-treasure-mark-on-using",
     "module/lost-treasure-mining",
-    "module/lost-treasure-notifications",
     "module/lost-treasure-opened-map",
     "module/lost-treasure-pin-settings",
     "module/lost-treasure-pins",
@@ -42,6 +40,10 @@ export const temperLostTreasure = {
       decisionKind: "decision-kind/departure",
       statement:
         "A dig site the add-on does not know is gathered from the player rather than shipped.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A dig site gathered here reaches no machine but this one.",
     },
   ],
 } as const satisfies Domain

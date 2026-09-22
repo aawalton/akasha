@@ -1,6 +1,4 @@
-declare const SI_LOST_TREASURE_BUGREPORT_PICKUP_MESSAGE: number
-declare const SI_LOST_TREASURE_BUGREPORT_PICKUP_TITLE: number
-declare const SI_LOST_TREASURE_BUGREPORT_PICKUP_NO_MAP: number
+declare const SI_LOST_TREASURE_MAP_NOT_OPENED: number
 declare const SI_LOST_TREASURE_MAP_FILTER_CHECKBOX_NAME: number
 declare const SI_LOST_TREASURE_SHOW_ON_MAP_TT: number
 declare const SI_LOST_TREASURE_SHOW_ON_COMPASS: number
@@ -26,7 +24,5 @@ declare const SI_LOST_TREASURE_SHOW_MINIMAP_TT: number
 declare const SI_LOST_TREASURE_SHOW_MINIMAP_SIZE: number
 declare const SI_LOST_TREASURE_SHOW_MINIMAP_DELAY: number
 declare const SI_LOST_TREASURE_SHOW_MINIMAP_DELAY_TT: number
-declare const SI_LOST_TREASURE_NOTIFICATION_MESSAGE: number
-declare const SI_LOST_TREASURE_NOTIFICATION_NOTE: number
 declare const SI_LOST_TREASURE_DEBUG: number
 declare const SI_LOST_TREASURE_DEBUG_TT: number
