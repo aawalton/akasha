@@ -6,4 +6,14 @@ export const usePagesFilteredQuery = {
   slug: "use-pages-filtered-query",
   definition: "The filtered, sorted, paged query behind a listing of pages.",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A listing is named by its page type's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type stating no title is named by its plural, and then by its own slug.",
+    },
+  ],
 } as const satisfies Module

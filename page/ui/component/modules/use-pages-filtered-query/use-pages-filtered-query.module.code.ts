@@ -1,6 +1,7 @@
 "use client"
 
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
+import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewFilter } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
@@ -29,6 +30,18 @@ import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-t
 import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"
+
+const ANY_PAGES = "Items"
+
+function namedAsType(properties: Readonly<Record<string, unknown>> | undefined): string {
+  const title = properties?.["title"]
+  if (typeof title === "string" && title !== "") return title
+  const plural = properties?.["pluralSlug"]
+  if (typeof plural === "string" && plural !== "") return titledAs(plural)
+  const slug = properties?.["slug"]
+  if (typeof slug === "string" && slug !== "") return titledAs(slug)
+  return ANY_PAGES
+}
 
 export function usePagesFilteredQuery(args: {
   pageTypeSlug: PageTypeSlug
@@ -61,7 +74,7 @@ export function usePagesFilteredQuery(args: {
     [pageTypes]
   )
 
-  const pageTypeName = String(targetPageType?.properties?.title ?? "Items")
+  const pageTypeName = namedAsType(targetPageType?.properties)
 
   const baseFilters = useMemo<readonly ViewFilter[]>(
     () => buildBaseFilters(searchParams),
