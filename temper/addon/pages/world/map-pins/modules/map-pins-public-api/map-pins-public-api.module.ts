@@ -4,7 +4,7 @@ export const mapPinsPublicApi = {
   id: "01a06062-57e1-7ce0-8c2d-76ec355c8351",
   type: "page-type/module",
   slug: "map-pins-public-api",
-  definition: "the one name another feature imports to put a pin on the world map",
+  definition: "the name another feature imports to put a pin on the world map",
   code: "ts",
   decisions: [
     {
