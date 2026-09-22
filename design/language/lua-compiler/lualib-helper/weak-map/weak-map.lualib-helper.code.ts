@@ -1,6 +1,5 @@
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
 
 export class WeakMap<K extends AnyNotNil, V> {
   public static [Symbol.species] = WeakMap
