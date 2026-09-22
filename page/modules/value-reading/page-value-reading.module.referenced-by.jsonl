@@ -301,7 +301,6 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/page/index-page.index.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/body/page-body.module.code.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/carried/page-carried.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/entries/page-entries.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/entries/page-entries.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/entry-landing/page-entry-landing.module.test-fixtures.ts"}

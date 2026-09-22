@@ -1,4 +1,3 @@
-import type { Carried } from "akasha/page/properties/carried.file-property.types.ts"
 import type { Cover } from "akasha/page/properties/cover.text-property.types.ts"
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
 import type { Entries } from "akasha/page/properties/entries.file-property.types.ts"
@@ -18,6 +17,5 @@ export type Page = {
   cover?: Cover
   entries?: Entries
   referencedBy?: ReferencedBy
-  carried?: Carried
   grade?: Grade
 }

@@ -48,7 +48,6 @@ import {
   pagesUnder,
   walkedUnder,
 } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
-import { carriedFiled } from "akasha/page/modules/carried/page-carried.module.code.ts"
 import { rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import {
   importedFrom,
@@ -114,7 +113,7 @@ function besideStale(
 ): readonly string[] {
   const wanted = new Set(beside.map((one) => one.at))
   const went: string[] = []
-  for (const at of walkedUnder(tree, (name) => referencesFiled(name) || carriedFiled(name))) {
+  for (const at of walkedUnder(tree, referencesFiled)) {
     const path = under(repo, at)
     if (wanted.has(path)) continue
     went.push(path)

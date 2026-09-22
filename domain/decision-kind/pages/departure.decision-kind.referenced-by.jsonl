@@ -2985,7 +2985,6 @@
 {"propertySlug":"decision-kind","path":"page/modules/beside/page-beside.module.ts","id":"01a04ea7-b2ea-7d22-ac4c-78cd0b3eaa92"}
 {"propertySlug":"decision-kind","path":"page/modules/body/page-body.module.ts","id":"01a05de5-1c90-7834-a245-bb7748f6f1ea"}
 {"propertySlug":"decision-kind","path":"page/modules/calculation-loading/calculation-loading.module.ts","id":"01a071f0-b9d7-754a-83dc-36f3c40b2d10"}
-{"propertySlug":"decision-kind","path":"page/modules/carried/page-carried.module.ts","id":"01a0a68c-985e-7875-97b4-f0cf32eec9f2"}
 {"propertySlug":"decision-kind","path":"page/modules/carry/page-carry.module.ts","id":"01a0686e-6807-7000-9245-b0c6335299c1"}
 {"propertySlug":"decision-kind","path":"page/modules/change/change.module.ts","id":"01a0542d-94cd-7695-b0dc-ad22cad9bdc4"}
 {"propertySlug":"decision-kind","path":"page/modules/checkout-roots/checkout-roots.module.ts","id":"01a05cc6-2a1c-7f1e-96c9-e0e9c57ec04e"}
@@ -3060,7 +3059,6 @@
 {"propertySlug":"decision-kind","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"decision-kind","path":"page/phone-number-property/phone-number-property.page-type.ts","id":"01a053e9-5cd1-7137-9fbb-c33920c95575"}
 {"propertySlug":"decision-kind","path":"page/process-property/process-property.page-type.ts","id":"01a05406-9bc6-71c5-8fcf-b15b97d86578"}
-{"propertySlug":"decision-kind","path":"page/properties/carried.file-property.ts","id":"01a0a67f-8361-7168-a93c-9877e30b109a"}
 {"propertySlug":"decision-kind","path":"page/properties/entries.file-property.ts","id":"01a06dc1-5cd2-7bc0-b943-c68e1d872c39"}
 {"propertySlug":"decision-kind","path":"page/properties/grade.grade-property.ts","id":"01a0655b-4a9b-7003-a822-f4a3ceda67b2"}
 {"propertySlug":"decision-kind","path":"page/properties/id.text-property.ts","id":"01a049b9-856c-7ee7-b958-f63eead00582"}

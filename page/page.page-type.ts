@@ -27,7 +27,6 @@ export const page = {
       many: false,
       default: "jsonl",
     },
-    { pageProperty: "file-property/carried", required: false, many: false, default: "jsonl" },
     { pageProperty: "grade-property/grade", required: false, many: false },
   ],
   parts: [
@@ -43,7 +42,6 @@ export const page = {
     "domain/page-ui",
     "domain/page-ui-store",
     "domain/page-url",
-    "file-property/carried",
     "file-property/entries",
     "file-property/referenced-by",
     "module/akasha-page-values",
@@ -58,7 +56,6 @@ export const page = {
     "module/page-address",
     "module/page-beside",
     "module/page-body",
-    "module/page-carried",
     "module/page-carry",
     "module/page-computing",
     "module/page-entries",

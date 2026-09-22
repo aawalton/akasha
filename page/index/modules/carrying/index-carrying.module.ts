@@ -27,10 +27,6 @@ export const indexCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A change carries the file beside every page whose own values it turns.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "Such a file is carried whatever indexes git holds, being no index file.",
     },
     {

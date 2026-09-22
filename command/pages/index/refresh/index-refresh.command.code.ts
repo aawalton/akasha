@@ -28,7 +28,6 @@ import {
   filedUnder,
 } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { carriedFiled } from "akasha/page/modules/carried/page-carried.module.code.ts"
 import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
@@ -107,7 +106,7 @@ function refusing(said: readonly string[], code: number): Answer {
 }
 
 function pathOf(at: string, beside: ReadonlySet<string>): string {
-  if (beside.has(at) || referencesFiled(at) || carriedFiled(at)) return at
+  if (beside.has(at) || referencesFiled(at)) return at
   return join(indexNamed(), at)
 }
 

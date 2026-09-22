@@ -100,7 +100,6 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/service/cluster/properties/service-cluster-config.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/telemetry/dashboard/properties/dashboard-layout.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"page/code-file-property/code-file-property.page-type.types.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"page/properties/carried.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"page/properties/entries.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"page/properties/referenced-by.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"page/type/properties/schema.file-property.ts"}
