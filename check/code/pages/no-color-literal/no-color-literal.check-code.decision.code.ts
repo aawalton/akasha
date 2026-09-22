@@ -1,4 +1,5 @@
 import { dirname } from "node:path"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   PAGES,
   styleNamed,
@@ -47,24 +48,24 @@ function normalized(value: string): string {
 
 const GENERATED = "generated"
 
-function codeAt(shadow: Shadow, pageTypeSlug: string, slug: string): string {
-  const named = shadow.index.listedAt(pageTypeSlug, slug)[0]
+function codeAt(paged: Paged, pageTypeSlug: string, slug: string): string {
+  const named = paged.index.listedAt(pageTypeSlug, slug)[0]
   if (named === undefined) {
     throw new Error(`the index files no \`${pageTypeSlug}/${slug}\`, so its code is unreachable`)
   }
-  const value = shadow.index.pageByPath(named.path)
+  const value = paged.index.pageByPath(named.path)
   const held = value === null ? null : textAt(value, CODE)
   const beside = held === null ? null : besideAt(named.path, CODE, held)
   if (beside === null) throw new Error(`${named.path} states no code file beside it`)
   return beside
 }
 
-export function passingIn(shadow: Shadow): Passing {
-  const design = shadow.index.listedAt(DOMAIN, PALETTE)[0]
+export function passingIn(paged: Paged): Passing {
+  const design = paged.index.listedAt(DOMAIN, PALETTE)[0]
   if (design === undefined) {
     throw new Error(`the index files no \`${DOMAIN}/${PALETTE}\`, so the palette's home is unknown`)
   }
-  const own = shadow.index.listedAt(CHECK_CODE, OWN)[0]
+  const own = paged.index.listedAt(CHECK_CODE, OWN)[0]
   if (own === undefined) {
     throw new Error(`the index files no \`${CHECK_CODE}/${OWN}\`, so this check's home is unknown`)
   }
@@ -73,7 +74,7 @@ export function passingIn(shadow: Shadow): Passing {
     home: `${dirname(own.path)}/`,
     granted: new Map(
       GRANTS.map((one) => [
-        codeAt(shadow, one.pageTypeSlug, one.slug),
+        codeAt(paged, one.pageTypeSlug, one.slug),
         new Set(one.values.map(normalized)),
       ])
     ),
