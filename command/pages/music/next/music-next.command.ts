@@ -56,6 +56,10 @@ export const musicNext = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A grade is read off an artist page and a track page, and off no song page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The key a grade is read under is a key the page type declares or inherits.",
     },
     {

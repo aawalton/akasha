@@ -159,18 +159,17 @@ test("a track recording another artist's song belongs to whoever released it", (
   expect(covers.every((one) => slugs.has(one.artist))).toBe(true)
 })
 
-test("the grades on the pages reach the catalogue", () => {
+test("the grades on the artist pages and the track pages reach the catalogue", () => {
   if (!indexThere(ROOT)) return
   const catalog = catalogIn(ROOT)
   expect(catalog.artists.some((one) => one.grade !== undefined)).toBe(true)
-  expect(catalog.songs.some((one) => one.grade !== undefined)).toBe(true)
   expect(catalog.tracks.some((one) => one.grade !== undefined)).toBe(true)
 })
 
 test("every grade read off a page is a rung of the ladder", () => {
   if (!indexThere(ROOT)) return
   const catalog = catalogIn(ROOT)
-  const graded = [...catalog.artists, ...catalog.songs, ...catalog.tracks].flatMap((one) =>
+  const graded = [...catalog.artists, ...catalog.tracks].flatMap((one) =>
     one.grade === undefined ? [] : [one.grade]
   )
   expect(graded.length).toBeGreaterThan(0)
@@ -180,7 +179,6 @@ test("every grade read off a page is a rung of the ladder", () => {
 test("a page type nothing is filed under is named rather than read as ungraded", () => {
   if (!indexThere(ROOT)) return
   expect(undeclaredIn(ROOT, "artist")).toBeNull()
-  expect(undeclaredIn(ROOT, "song")).toBeNull()
   expect(undeclaredIn(ROOT, "track")).toBeNull()
   expect(gradeAmiss(ROOT)).toBeNull()
   expect(undeclaredIn(ROOT, "seat")).toBeNull()

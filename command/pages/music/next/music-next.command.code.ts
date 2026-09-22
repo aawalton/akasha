@@ -89,7 +89,7 @@ export function undeclaredIn(root: string, pageTypeSlug: string): string | null 
 }
 
 export function gradeAmiss(root: string): string | null {
-  return undeclaredIn(root, ARTIST) ?? undeclaredIn(root, SONG) ?? undeclaredIn(root, TRACK)
+  return undeclaredIn(root, ARTIST) ?? undeclaredIn(root, TRACK)
 }
 
 function artistIn(held: Held): CatalogArtist {
@@ -103,12 +103,10 @@ function artistIn(held: Held): CatalogArtist {
 }
 
 function songIn(held: Held): CatalogSong {
-  const graded = gradeOf(held)
   const named = text(held, ARTIST)
   return {
     slug: text(held, "slug") ?? "",
     artist: named === undefined ? "" : slugOf(named),
-    ...(graded === undefined ? {} : { grade: graded }),
   }
 }
 

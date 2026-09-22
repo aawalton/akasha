@@ -133,18 +133,6 @@ describe("selectNextTrack", () => {
     expect(selectNextTrack(graded, "queen")?.slug).toBe("queen-two")
   })
 
-  test("offers no recording of a song Alan has graded", () => {
-    const held = catalog(
-      [artist("queen")],
-      [
-        track("queen-studio", "queen", { title: "Popular", song: "queen-popular" }),
-        track("queen-live", "queen", { title: "Popular - Live", song: "queen-popular" }),
-      ],
-      [song("queen-popular", "queen", { grade: "A" })]
-    )
-    expect(selectNextTrack(held, "queen")).toBeNull()
-  })
-
   test("keeps the studio recording on offer where Alan graded the live one down", () => {
     const held = catalog(
       [artist("queen")],
@@ -192,16 +180,13 @@ describe("selectNextArtist", () => {
     expect(selectNextArtist(held)?.slug).toBe("bowie")
   })
 
-  test("counts an artist holding a graded song as no longer new", () => {
+  test("counts an artist holding only a song as still new", () => {
     const held = catalog(
-      [artist("queen"), artist("bowie")],
-      [
-        track("queen-two", "queen", { title: "Two" }),
-        track("bowie-one", "bowie", { title: "Heroes" }),
-      ],
-      [song("queen-one", "queen", { grade: "F" })]
+      [artist("queen")],
+      [track("queen-two", "queen", { title: "Two" })],
+      [song("queen-one", "queen")]
     )
-    expect(selectNextArtist(held)?.slug).toBe("bowie")
+    expect(selectNextArtist(held)?.slug).toBe("queen")
   })
 
   test("offers nothing where the new artist has no track left to offer", () => {
@@ -274,21 +259,6 @@ describe("selectNextExploration", () => {
         track("loved-two", "loved", { title: "Two" }),
         track("fresh-one", "fresh", { title: "One" }),
       ]
-    )
-    const answer = selectNextExploration(held)
-    expect(answer.kind).toBe("track-in-liked-artist")
-    if (answer.kind !== "track-in-liked-artist") throw new Error("no track was offered")
-    expect(answer.track.slug).toBe("loved-two")
-  })
-
-  test("counts an artist liked through one of their songs", () => {
-    const held = catalog(
-      [artist("loved", { title: "Loved" }), artist("fresh", { title: "Fresh" })],
-      [
-        track("loved-two", "loved", { title: "Two" }),
-        track("fresh-one", "fresh", { title: "One" }),
-      ],
-      [song("loved-one", "loved", { grade: "A" })]
     )
     const answer = selectNextExploration(held)
     expect(answer.kind).toBe("track-in-liked-artist")

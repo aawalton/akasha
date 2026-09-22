@@ -34,8 +34,8 @@ export const musicExploration = {
         "A grade on a track reaches only the tracks sharing that track's normalised title.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "No recording of a song Alan has graded is offered.",
+      decisionKind: "decision-kind/absence",
+      statement: "No grade is read off a song, because Alan grades the recording he heard.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,7 +43,7 @@ export const musicExploration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An artist is new where no grade rests on them, on a song or a track of theirs.",
+      statement: "An artist is new where no grade rests on them or on a track of theirs.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,7 +55,7 @@ export const musicExploration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An artist is loved where a liked grade rests on them, on a song or a track.",
+      statement: "An artist is loved where a liked grade rests on them or on a track of theirs.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -91,8 +91,7 @@ export const musicExploration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Love is an artist's grade weighed a hundredfold over their liked songs and tracks.",
+      statement: "Love is an artist's grade weighed a hundredfold over their liked tracks.",
     },
     {
       decisionKind: "decision-kind/departure",

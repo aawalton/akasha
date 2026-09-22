@@ -6,7 +6,7 @@ import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts
 
 export type CatalogArtist = Pick<Artist, "slug" | "title" | "genre" | "grade">
 
-export type CatalogSong = Pick<Song, "slug" | "artist" | "grade">
+export type CatalogSong = Pick<Song, "slug" | "artist">
 
 export type CatalogTrack = {
   readonly slug: string
@@ -66,9 +66,7 @@ function artistSlugOf(one: Made): string {
 }
 
 type Kept = {
-  readonly songs: ReadonlyMap<string, readonly CatalogSong[]>
   readonly tracks: ReadonlyMap<string, readonly CatalogTrack[]>
-  readonly judgedSongs: ReadonlySet<string>
 }
 
 function gatheredBy<T extends Made>(all: readonly T[]): ReadonlyMap<string, readonly T[]> {
@@ -83,15 +81,11 @@ function gatheredBy<T extends Made>(all: readonly T[]): ReadonlyMap<string, read
 }
 
 function keptIn(catalog: Catalog): Kept {
-  const judgedSongs = new Set<string>()
-  for (const one of catalog.songs) {
-    if (one.grade !== undefined && one.slug !== "") judgedSongs.add(one.slug)
-  }
-  return { songs: gatheredBy(catalog.songs), tracks: gatheredBy(catalog.tracks), judgedSongs }
+  return { tracks: gatheredBy(catalog.tracks) }
 }
 
-function judged(kept: Kept, track: CatalogTrack): boolean {
-  return track.grade !== undefined || kept.judgedSongs.has(track.song)
+function judged(track: CatalogTrack): boolean {
+  return track.grade !== undefined
 }
 
 function trackFrom(kept: Kept, artistSlug: string): CatalogTrack | null {
@@ -100,7 +94,7 @@ function trackFrom(kept: Kept, artistSlug: string): CatalogTrack | null {
   const offered = new Map<string, CatalogTrack>()
   for (const track of mine) {
     const key = normalizeTitle(track.title)
-    if (judged(kept, track)) {
+    if (judged(track)) {
       settled.add(key)
       continue
     }
@@ -116,30 +110,22 @@ export function selectNextTrack(catalog: Catalog, artistSlug: string): CatalogTr
   return trackFrom(keptIn(catalog), artistSlug)
 }
 
-function songsOf(kept: Kept, artist: CatalogArtist): readonly CatalogSong[] {
-  return kept.songs.get(artist.slug) ?? []
-}
-
 function tracksOf(kept: Kept, artist: CatalogArtist): readonly CatalogTrack[] {
   return kept.tracks.get(artist.slug) ?? []
 }
 
 function isGraded(artist: CatalogArtist, kept: Kept): boolean {
   if (artist.grade !== undefined) return true
-  if (songsOf(kept, artist).some((one) => one.grade !== undefined)) return true
   return tracksOf(kept, artist).some((one) => one.grade !== undefined)
 }
 
 function artistIsLiked(artist: CatalogArtist, kept: Kept): boolean {
   if (isLiked(artist.grade)) return true
-  if (songsOf(kept, artist).some((one) => isLiked(one.grade))) return true
   return tracksOf(kept, artist).some((one) => isLiked(one.grade))
 }
 
 function likedIn(kept: Kept, artist: CatalogArtist): number {
-  const songs = songsOf(kept, artist).filter((one) => isLiked(one.grade)).length
-  const tracks = tracksOf(kept, artist).filter((one) => isLiked(one.grade)).length
-  return songs + tracks
+  return tracksOf(kept, artist).filter((one) => isLiked(one.grade)).length
 }
 
 function loveOf(artist: CatalogArtist, kept: Kept): number {
