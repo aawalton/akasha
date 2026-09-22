@@ -5,7 +5,7 @@ export const withinLocation = {
   type: "page-type/relation-property",
   slug: "within-location",
   propertySlug: "within",
-  definition: "the place a place is inside",
+  definition: "a place's parent place",
   targetPageType: "page-type/game-location",
   decisions: [
     {

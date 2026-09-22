@@ -5,7 +5,7 @@ export const relationshipTopicParent = {
   type: "page-type/relation-property",
   slug: "relationship-topic-parent",
   propertySlug: "relationship-topic-parent",
-  definition: "the relationship topic this one sits inside",
+  definition: "a relationship topic's parent topic",
   targetPageType: "page-type/relationship-topic",
   types: "ts",
 } as const satisfies RelationProperty

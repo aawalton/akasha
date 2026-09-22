@@ -4,7 +4,7 @@ export const pageUiFrame = {
   id: "01a071cf-928b-7c4c-91ab-a706461ea825",
   type: "page-type/domain",
   slug: "page-ui-frame",
-  definition: "the frame a page is drawn inside",
+  definition: "a page's frame",
   parts: [
     "module/display-frame",
     "module/frame-config",

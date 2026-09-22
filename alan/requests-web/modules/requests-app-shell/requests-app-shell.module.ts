@@ -4,7 +4,7 @@ export const requestsAppShell = {
   id: "01a0c537-ba8c-76cf-8c53-2c9af0c65345",
   type: "page-type/module",
   slug: "requests-app-shell",
-  definition: "the frame the Requests site draws every page inside",
+  definition: "the Requests site's page frame",
   code: "tsx",
   decisions: [
     {

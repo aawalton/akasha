@@ -5,7 +5,7 @@ export const rootRoute = {
   type: "page-type/code-file-property",
   slug: "root-route",
   propertySlug: "root-route",
-  definition: "the route every other route renders inside",
+  definition: "the parent route of every other route",
   extensions: ["tsx"],
   fileName: "root.tsx",
   decisions: [

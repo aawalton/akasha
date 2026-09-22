@@ -4,7 +4,7 @@ export const innworldAppShell = {
   id: "01a0c65b-6a5f-75c7-91b0-1543f3362467",
   type: "page-type/module",
   slug: "innworld-app-shell",
-  definition: "the frame every page of this wiki is drawn inside",
+  definition: "this wiki's page frame",
   code: "tsx",
   decisions: [
     {

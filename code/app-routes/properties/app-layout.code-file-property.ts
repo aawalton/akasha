@@ -5,7 +5,7 @@ export const appLayout = {
   type: "page-type/code-file-property",
   slug: "app-layout",
   propertySlug: "app-layout",
-  definition: "the route a signed-in reader's routes render inside",
+  definition: "the parent route of a signed-in reader's routes",
   extensions: ["tsx"],
   fileName: "_app-layout.tsx",
   decisions: [
