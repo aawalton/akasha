@@ -15,7 +15,6 @@ import type {
   PagesMutationPlan,
   RowOverlay,
 } from "akasha/page/ui-store/optimistic/modules/plan/plan.module.code.ts"
-import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const SETTLE_HANDOFF_CEILING_MS = DEFAULT_TICK_MS * 5

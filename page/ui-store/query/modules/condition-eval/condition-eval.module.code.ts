@@ -17,7 +17,6 @@ import {
   type PageRow,
 } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import type { PageConditionLike } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
-import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
 
 const MISSING = Symbol("missing")
 
