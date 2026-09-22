@@ -1,3 +1,5 @@
+"use client"
+
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type {
@@ -9,6 +11,7 @@ import {
   computePoolBars,
   type PoolBar,
 } from "akasha/story/ui/modules/pool-bars/pool-bars.module.code.ts"
+import { useTowerCounts } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/modules/tower-hud-beside/tower-hud-beside.module.code.ts"
 
 const FILL_CLASS: Record<PoolBarColor, string> = {
   red: "bg-red",
@@ -76,17 +79,19 @@ function PoolRow({
   )
 }
 
-function HudHeader({ hud }: { hud: ClientHud }) {
+function HudHeader({ hud, game }: { hud: ClientHud; game: string | undefined }) {
+  const filed = useTowerCounts(game)
   const delta = hud.delta ?? {}
-  const attrPoints = hud.pools?.["attrPoints"]
+  const level = filed.level ?? hud.level
+  const attrPoints = filed.attributePoints ?? hud.pools?.["attrPoints"]
   return (
     <>
-      {hud.level != null ? (
+      {level != null ? (
         <div className="flex items-baseline justify-between font-mono">
           <span className="text-secondary text-sm">Level</span>
           <span className="inline-flex items-baseline gap-px font-semibold text-primary text-sm">
             <Delta value={delta["level"]} />
-            Lv {hud.level}
+            Lv {level}
           </span>
         </div>
       ) : null}
@@ -102,9 +107,11 @@ function HudHeader({ hud }: { hud: ClientHud }) {
 export function HudPanel({
   hud,
   pools,
+  game,
 }: {
   hud: ClientHud | null
   pools?: readonly PoolPresentation[]
+  game?: string
 }) {
   if (hud === null) return null
   const poolMap = hud.pools ?? {}
@@ -115,7 +122,7 @@ export function HudPanel({
 
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
-      <HudHeader hud={hud} />
+      <HudHeader hud={hud} game={game} />
       {bars !== null ? (
         bars.length > 0 ? (
           <div className="flex flex-col gap-3">

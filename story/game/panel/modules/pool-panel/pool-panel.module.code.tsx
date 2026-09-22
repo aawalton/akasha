@@ -8,5 +8,7 @@ import type { ReactElement } from "react"
 export function poolPanelBy(
   pools: readonly PoolPresentation[]
 ): (drawing: PanelDrawing) => ReactElement {
-  return ({ envelope }) => <HudPanel hud={envelope.hud ?? null} pools={pools} />
+  return ({ envelope, run }) => (
+    <HudPanel hud={envelope.hud ?? null} pools={pools} game={run.gameExternalId} />
+  )
 }
