@@ -17,7 +17,6 @@ import type {
   Quest,
   Reagent,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/potion-types/potion-types.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-main-menu-global/temper-main-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"

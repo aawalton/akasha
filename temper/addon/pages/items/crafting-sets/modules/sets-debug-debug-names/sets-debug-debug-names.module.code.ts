@@ -21,7 +21,6 @@ import {
   worldName,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-debug-debug-state/sets-debug-debug-state.module.code.ts"
 import { debugGetDungeonFinderData } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-debug-dungeon-finder/sets-debug-dungeon-finder.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {

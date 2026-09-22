@@ -1,4 +1,3 @@
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-constant-shapes/sets-constant-shapes.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-shapes/sets-search-ui-shapes.type-declaration.d.ts"
 

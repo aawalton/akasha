@@ -43,14 +43,6 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/ui/modules/narrative-log/narrative-log.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/ui/modules/sheet-panel/sheet-panel.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-load-sets-checktype/sets-core-load-sets-checktype.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-debug-debug-names/sets-debug-debug-names.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-ldei/knowledge-ldei.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-shape/knowledge-shape.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-types/knowledge-types.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-main-menu/potion-main-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-state/potion-state.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/slash-commander-types/slash-commander-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-log/writ-log.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-types/zone-types.module.code.ts"}

@@ -22,7 +22,6 @@ import {
   showFilterPage,
   showStationOrTopLevel,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/potion-window-helpers/potion-window-helpers.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-main-menu-global/temper-main-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"

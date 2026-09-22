@@ -21,7 +21,6 @@ import {
   asSetIdPerfectedLinkMap,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
 import { checkIfSetExists } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-set-checking/sets-core-set-checking.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import {
   SETS_SET_ITEMID_TABLE_VALUE_OK,
