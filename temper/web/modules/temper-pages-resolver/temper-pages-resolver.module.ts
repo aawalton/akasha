@@ -4,7 +4,7 @@ export const temperPagesResolver = {
   id: "01a0640f-8510-7c72-8ea7-ff3cbcdf74b3",
   type: "page-type/module",
   slug: "temper-pages-resolver",
-  definition: "every temper page a browser holds, gathered into one list beside the page types",
+  definition: "every temper page a browser holds, gathered into a list beside the page types",
   code: "ts",
   decisions: [
     {

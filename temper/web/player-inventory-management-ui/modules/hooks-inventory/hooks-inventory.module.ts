@@ -4,7 +4,7 @@ export const hooksInventory = {
   id: "01a0636c-5d97-76ed-b991-13a9b7f8000d",
   type: "page-type/module",
   slug: "hooks-inventory",
-  definition: "one player's inventory and its prices, read for a browser",
+  definition: "a player's inventory and its prices, read for a browser",
   code: "ts",
   decisions: [
     {

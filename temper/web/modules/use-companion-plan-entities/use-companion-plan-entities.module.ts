@@ -4,6 +4,6 @@ export const useCompanionPlanEntities = {
   id: "01a06421-2529-7d18-8a05-2abe0111a88a",
   type: "page-type/module",
   slug: "use-companion-plan-entities",
-  definition: "the companions one plan holds",
+  definition: "the companions a plan holds",
   code: "ts",
 } as const satisfies Module
