@@ -17,7 +17,7 @@
         },
         {
           "key": "stamina",
-          "max": "stamMax",
+          "max": "staminaMax",
           "color": "green",
           "label": "STAMINA"
         }
@@ -29,7 +29,7 @@
     },
     "actionBox": {},
     "storySoFar": {
-      "source": "stateLedger"
+      "source": "turns"
     }
   }
 }

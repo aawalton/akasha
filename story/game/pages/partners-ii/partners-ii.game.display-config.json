@@ -17,7 +17,7 @@
         },
         {
           "key": "stamina",
-          "max": "stamMax",
+          "max": "staminaMax",
           "color": "green",
           "label": "STAMINA"
         }

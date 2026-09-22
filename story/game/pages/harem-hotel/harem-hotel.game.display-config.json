@@ -30,7 +30,7 @@
     },
     "actionBox": {},
     "storySoFar": {
-      "source": "stateLedger"
+      "source": "turns"
     },
     "chapterProse": {
       "history": "full",

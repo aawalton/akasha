@@ -5,5 +5,5 @@ import { poolPanelBy } from "akasha/story/game/panel/modules/pool-panel/pool-pan
 export const Panel = poolPanelBy([
   { key: "hp", max: "hpMax", color: "red", label: "VITALITY" },
   { key: "focus", max: "focusMax", color: "blue", label: "ESSENCE" },
-  { key: "stamina", max: "stamMax", color: "green", label: "STAMINA" },
+  { key: "stamina", max: "staminaMax", color: "green", label: "STAMINA" },
 ])
