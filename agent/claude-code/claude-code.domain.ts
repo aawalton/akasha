@@ -5,5 +5,9 @@ export const claudeCode = {
   type: "page-type/domain",
   slug: "claude-code",
   definition: "an akasha agent's program",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "Claude" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "Code" },
+  ],
   parts: ["domain/claude-code-session", "domain/claude-code-tool", "module/claude-launch-args"],
 } as const satisfies Domain
