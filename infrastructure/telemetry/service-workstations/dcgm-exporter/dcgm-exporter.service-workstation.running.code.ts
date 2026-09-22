@@ -9,6 +9,8 @@ const ARGV = [
   "dcgm-exporter",
   "--device",
   "nvidia.com/gpu=all",
+  "--security-opt",
+  "label=disable",
   "-p",
   "9400:9400",
   "nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04",
