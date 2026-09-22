@@ -8,12 +8,14 @@ import type {
   UiColor,
   UiControl,
 } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
-import {
-  layOut,
-  type UiBox,
-  type UiRect,
-} from "akasha/temper/eso/ui-harness/modules/ui-layout/ui-layout.module.code.ts"
 import { chromium } from "playwright-core"
+
+export type UiRect = {
+  readonly left: number
+  readonly top: number
+  readonly width: number
+  readonly height: number
+}
 
 const CT_LABEL = 2
 
@@ -131,11 +133,11 @@ function fontOf(font: string | undefined): FontFace {
   }
 }
 
-function shownOnly(root: UiControl): ReadonlySet<UiControl> {
-  const shown = new Set<UiControl>()
+function shownIn(root: UiControl): readonly UiControl[] {
+  const shown: UiControl[] = []
   function walk(one: UiControl, top: boolean): undefined {
     if (!top && one.hidden) return undefined
-    shown.add(one)
+    shown.push(one)
     for (const child of one.children) walk(child, false)
     return undefined
   }
@@ -143,11 +145,9 @@ function shownOnly(root: UiControl): ReadonlySet<UiControl> {
   return shown
 }
 
-function boxHtml(box: UiBox, options: UiPictureOptions): string {
-  const one = box.control
-  const rect = box.rect
+function boxHtml(one: UiControl, options: UiPictureOptions): string {
   const from = options.origin ?? { left: 0, top: 0 }
-  const place = `left:${rect.left - from.left}px;top:${rect.top - from.top}px;width:${rect.width}px;height:${rect.height}px;`
+  const place = `left:${one.left - from.left}px;top:${one.top - from.top}px;width:${one.width}px;height:${one.height}px;`
   const fade = one.alpha >= 1 ? "" : `opacity:${one.alpha};`
   const told = one.name === undefined ? "" : ` title="${escaped(one.name)}"`
   if (one.controlType === CT_BACKDROP) {
@@ -181,11 +181,8 @@ function boxHtml(box: UiBox, options: UiPictureOptions): string {
 }
 
 export function pictureHtml(root: UiControl, options: UiPictureOptions = {}): string {
-  const shown = shownOnly(root)
-  const boxes = layOut(root, { screen: options.screen })
-  const body = boxes
-    .filter((box) => shown.has(box.control))
-    .map((box) => boxHtml(box, options))
+  const body = shownIn(root)
+    .map((one) => boxHtml(one, options))
     .join("\n")
   const behind = options.backdrop ?? DEFAULT_BACKDROP
   return [
@@ -210,9 +207,10 @@ export async function takePicture(
     width: SCREEN_WIDTH,
     height: SCREEN_HEIGHT,
   }
-  const boxes = layOut(root, { screen })
-  const first = boxes[0]
-  const taken: UiRect = options.whole === true || first === undefined ? screen : first.rect
+  const taken: UiRect =
+    options.whole === true
+      ? screen
+      : { left: root.left, top: root.top, width: root.width, height: root.height }
   const wide = Math.max(1, Math.round(taken.width))
   const tall = Math.max(1, Math.round(taken.height))
   const browser = await chromium.launch({

@@ -1963,8 +1963,8 @@
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.ts","id":"01a0c9dd-cc82-7f73-b0c4-69cb07323425"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-virtuals/ui-virtuals.module.ts","id":"01a0c9e5-f156-7ff3-866f-f671da96312f"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/temper-eso-ui-harness.domain.ts","id":"01a0c977-ed0f-7969-a841-8e503fdcfb0b"}
-{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-control-model/ui-control-model.lua-module.ts","id":"01a0c97a-416c-7609-a8c1-5767be94f369"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-event-model/ui-event-model.lua-module.ts","id":"01a0c98b-f0fa-7635-957c-f4b8fc656fe0"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.ts","id":"01a060d9-498b-7d49-9f36-43409f335af9"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.ts","id":"01a0612e-28d6-7df8-bb5c-419ce436eb8f"}
 {"propertySlug":"decision-kind","path":"temper/items/core/temper-items-core.domain.ts","id":"01a060bf-747b-7eda-a723-f1700350219d"}

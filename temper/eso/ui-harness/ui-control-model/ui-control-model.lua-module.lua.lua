@@ -82,6 +82,8 @@ local function resolved(name, parent)
   return (string.gsub(name, "%$%(parent%)", held))
 end
 
+local place = _G.__ui_place
+
 local birth
 local dress
 
@@ -191,9 +193,41 @@ function Control:SetDimensions(width, height)
 end
 function Control:SetWidth(width) self.uiWidth = width or 0 end
 function Control:SetHeight(height) self.uiHeight = height or 0 end
-function Control:GetWidth() return self.uiWidth end
-function Control:GetHeight() return self.uiHeight end
-function Control:GetDimensions() return self.uiWidth, self.uiHeight end
+function Control:GetWidth()
+  local _, _, width = place(self)
+  return width
+end
+function Control:GetHeight()
+  local _, _, _, height = place(self)
+  return height
+end
+function Control:GetDimensions()
+  local _, _, width, height = place(self)
+  return width, height
+end
+function Control:GetLeft()
+  local left = place(self)
+  return left
+end
+function Control:GetTop()
+  local _, top = place(self)
+  return top
+end
+function Control:GetRight()
+  local left, _, width = place(self)
+  return left + width
+end
+function Control:GetBottom()
+  local _, top, _, height = place(self)
+  return top + height
+end
+function Control:GetCenter()
+  local left, top, width, height = place(self)
+  return left + width / 2, top + height / 2
+end
+function Control:GetScreenRect()
+  return place(self)
+end
 
 function Control:SetAnchor(point, relativeTo, relativePoint, offsetX, offsetY, constrains)
   insert(self.uiAnchors, {
@@ -320,6 +354,7 @@ function _G.CreateControlFromVirtual(name, parent, virtual, suffix)
 end
 
 local function snapshotOf(control)
+  local left, top, width, height = place(control)
   local children = {}
   for _, child in ipairs(control.uiChildren) do
     insert(children, snapshotOf(child))
@@ -341,8 +376,10 @@ local function snapshotOf(control)
     controlType = control.uiType,
     virtual = control.uiVirtual,
     hidden = control.uiHidden,
-    width = control.uiWidth,
-    height = control.uiHeight,
+    left = left,
+    top = top,
+    width = width,
+    height = height,
     alpha = control.uiAlpha,
     text = control.uiText,
     font = control.uiFont,

@@ -2,13 +2,12 @@ import { describe, expect, test } from "bun:test"
 import type { UiControl } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
 import { pictureHtml } from "akasha/temper/eso/ui-harness/modules/ui-picture/ui-picture.module.code.ts"
 
-const TOPLEFT = 1
-const TOPRIGHT = 4
-
 type Part = {
   readonly name?: string
   readonly controlType?: number
   readonly hidden?: boolean
+  readonly left?: number
+  readonly top?: number
   readonly width?: number
   readonly height?: number
   readonly text?: string
@@ -18,7 +17,6 @@ type Part = {
   readonly centerColor?: readonly number[]
   readonly edgeColor?: readonly number[]
   readonly alpha?: number
-  readonly anchors?: UiControl["anchors"]
   readonly children?: readonly UiControl[]
 }
 
@@ -27,6 +25,8 @@ function control(part: Part): UiControl {
     name: part.name,
     controlType: part.controlType ?? 1,
     hidden: part.hidden ?? false,
+    left: part.left ?? 0,
+    top: part.top ?? 0,
     width: part.width ?? 0,
     height: part.height ?? 0,
     alpha: part.alpha ?? 1,
@@ -36,24 +36,14 @@ function control(part: Part): UiControl {
     color: part.color,
     centerColor: part.centerColor,
     edgeColor: part.edgeColor,
-    anchors: part.anchors ?? [],
+    anchors: [],
     handlers: [],
     children: part.children ?? [],
   }
 }
 
-function anchor(
-  point: number,
-  relativeTo: string,
-  relativePoint: number,
-  offsetX: number,
-  offsetY: number
-): UiControl["anchors"][number] {
-  return { point, relativeTo, relativePoint, offsetX, offsetY }
-}
-
 describe("pictureHtml", () => {
-  test("puts a control where the layout says", () => {
+  test("puts a control where the snapshot says", () => {
     const html = pictureHtml(
       control({
         name: "Frame",
@@ -63,18 +53,25 @@ describe("pictureHtml", () => {
           control({
             name: "FrameTitle",
             controlType: 2,
+            left: 8,
+            top: 8,
+            width: 344,
             height: 30,
             text: "Cross-Character Inventory",
-            anchors: [
-              anchor(TOPLEFT, "Frame", TOPLEFT, 8, 8),
-              anchor(TOPRIGHT, "Frame", TOPRIGHT, -8, 8),
-            ],
           }),
         ],
       })
     )
     expect(html).toContain("left:8px;top:8px;width:344px;height:30px;")
     expect(html).toContain("Cross-Character Inventory")
+  })
+
+  test("moves everything by the origin a caller names", () => {
+    const html = pictureHtml(
+      control({ name: "Frame", left: 780, top: 220, width: 360, height: 640 }),
+      { origin: { left: 780, top: 220 } }
+    )
+    expect(html).toContain("left:0px;top:0px;width:360px;height:640px;")
   })
 
   test("reads a color the game states from nought to one", () => {

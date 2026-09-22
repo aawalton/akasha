@@ -53,8 +53,12 @@ export const uiControlModel = {
       statement: "A snapshot carries the colours and the insets a control was given.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No control here has a place on screen.",
+      decisionKind: "decision-kind/departure",
+      statement: "The width a control answers with is the width where that control sits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where a control sits is worked out by the model loaded before this one.",
     },
     {
       decisionKind: "decision-kind/departure",

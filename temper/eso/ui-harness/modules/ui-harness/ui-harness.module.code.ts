@@ -14,7 +14,7 @@ const LUA_MODULE = "lua-module"
 
 const LUA = "lua"
 
-const MODEL_SLUGS: readonly string[] = ["ui-control-model", "ui-event-model"]
+const MODEL_SLUGS: readonly string[] = ["ui-place-model", "ui-control-model", "ui-event-model"]
 
 const NAMED = /^[A-Za-z_][A-Za-z0-9_]*$/
 
@@ -79,6 +79,8 @@ export type UiControl = {
   readonly controlType: number
   readonly virtual?: string
   readonly hidden: boolean
+  readonly left: number
+  readonly top: number
   readonly width: number
   readonly height: number
   readonly alpha: number
@@ -102,6 +104,8 @@ const controlShape: z.ZodType<UiControl> = z.lazy(() =>
     controlType: z.number(),
     virtual: z.string().optional(),
     hidden: z.boolean(),
+    left: z.number(),
+    top: z.number(),
     width: z.number(),
     height: z.number(),
     alpha: z.number(),

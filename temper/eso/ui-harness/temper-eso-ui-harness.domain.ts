@@ -6,10 +6,10 @@ export const temperEsoUiHarness = {
   slug: "temper-eso-ui-harness",
   definition: "an addon's interface built and driven outside the game",
   parts: [
+    "lua-module/ui-place-model",
     "lua-module/ui-control-model",
     "lua-module/ui-event-model",
     "module/ui-harness",
-    "module/ui-layout",
     "module/ui-picture",
     "module/ui-virtuals",
   ],
