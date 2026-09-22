@@ -8,5 +8,5 @@ export const accountAntiquityLeadsMotifs = {
   nodeId: "antiquity-leads-motifs",
   tab: "account",
   displayOrder: 2,
-  parent: "account",
+  parent: "temper-completion-category/account",
 } as const satisfies TemperCompletionCategory

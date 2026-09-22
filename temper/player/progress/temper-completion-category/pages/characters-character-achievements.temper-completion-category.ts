@@ -8,5 +8,5 @@ export const charactersCharacterAchievements = {
   nodeId: "character-achievements",
   tab: "characters",
   displayOrder: 0,
-  parent: "characters",
+  parent: "temper-completion-category/characters",
 } as const satisfies TemperCompletionCategory

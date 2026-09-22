@@ -8,5 +8,5 @@ export const charactersSkillPointsStoryzonequests = {
   nodeId: "storyZoneQuests",
   tab: "characters",
   displayOrder: 2,
-  parent: "characters-skill-points",
+  parent: "temper-completion-category/characters-skill-points",
 } as const satisfies TemperCompletionCategory

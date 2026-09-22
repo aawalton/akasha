@@ -8,5 +8,5 @@ export const accountChampionPoints = {
   nodeId: "champion-points",
   tab: "account",
   displayOrder: 5,
-  parent: "account",
+  parent: "temper-completion-category/account",
 } as const satisfies TemperCompletionCategory

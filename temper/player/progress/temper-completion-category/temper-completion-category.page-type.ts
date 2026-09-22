@@ -6,12 +6,12 @@ export const temperCompletionCategory = {
   slug: "temper-completion-category",
   definition: "a node of the completion tree",
   extends: ["page-type/temper-progress-thing"],
-  parts: ["text-property/tab"],
+  parts: ["text-property/tab", "relation-property/completion-category-parent"],
   properties: [
     { pageProperty: "text-property/node-id", required: true, many: false },
     { pageProperty: "text-property/tab", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
-    { pageProperty: "text-property/parent", required: false, many: false },
+    { pageProperty: "relation-property/completion-category-parent", required: false, many: false },
   ],
   decisions: [
     {

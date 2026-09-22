@@ -8,5 +8,5 @@ export const charactersZoneCompletion = {
   nodeId: "zone-completion",
   tab: "characters",
   displayOrder: 18,
-  parent: "characters",
+  parent: "temper-completion-category/characters",
 } as const satisfies TemperCompletionCategory

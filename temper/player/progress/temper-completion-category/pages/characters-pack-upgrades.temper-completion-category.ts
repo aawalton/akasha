@@ -8,5 +8,5 @@ export const charactersPackUpgrades = {
   nodeId: "pack-upgrades",
   tab: "characters",
   displayOrder: 11,
-  parent: "characters",
+  parent: "temper-completion-category/characters",
 } as const satisfies TemperCompletionCategory

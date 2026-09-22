@@ -8,5 +8,5 @@ export const tasksHirelingMails = {
   nodeId: "hireling-mails",
   tab: "tasks",
   displayOrder: 1,
-  parent: "tasks",
+  parent: "temper-completion-category/tasks",
 } as const satisfies TemperCompletionCategory

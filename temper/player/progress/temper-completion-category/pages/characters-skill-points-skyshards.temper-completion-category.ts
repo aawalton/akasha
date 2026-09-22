@@ -8,5 +8,5 @@ export const charactersSkillPointsSkyshards = {
   nodeId: "skyshards",
   tab: "characters",
   displayOrder: 1,
-  parent: "characters-skill-points",
+  parent: "temper-completion-category/characters-skill-points",
 } as const satisfies TemperCompletionCategory

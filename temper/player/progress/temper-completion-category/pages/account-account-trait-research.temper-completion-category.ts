@@ -8,5 +8,5 @@ export const accountAccountTraitResearch = {
   nodeId: "account-trait-research",
   tab: "account",
   displayOrder: 9,
-  parent: "account",
+  parent: "temper-completion-category/account",
 } as const satisfies TemperCompletionCategory

@@ -65,4 +65,5 @@
 {"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/tasks-inventory-management.temper-completion-category.ts"}
 {"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/tasks.temper-completion-category.ts"}
 {"propertySlug":"parts","path":"temper/player/progress/temper-progress.domain.ts","id":"01a05fac-7582-726f-ac10-d5261c7e1f65"}
+{"propertySlug":"target-page-type","path":"temper/player/progress/temper-completion-category/properties/completion-category-parent.relation-property.ts","id":"01a0cae0-68ce-716e-9958-296e965e8ca5"}
 {"propertySlug":"target-page-type","path":"temper/player/progress/thing/properties/completion-card.relation-property.ts","id":"01a0c688-9666-72c8-b20b-f6fc5fd64234"}

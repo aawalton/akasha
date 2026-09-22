@@ -8,5 +8,5 @@ export const charactersLoreLibraryCharacter = {
   nodeId: "lore-library-character",
   tab: "characters",
   displayOrder: 9,
-  parent: "characters",
+  parent: "temper-completion-category/characters",
 } as const satisfies TemperCompletionCategory

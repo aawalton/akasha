@@ -8,5 +8,5 @@ export const accountAntiquityLeadsLegendary = {
   nodeId: "antiquity-leads-legendary",
   tab: "account",
   displayOrder: 1,
-  parent: "account",
+  parent: "temper-completion-category/account",
 } as const satisfies TemperCompletionCategory

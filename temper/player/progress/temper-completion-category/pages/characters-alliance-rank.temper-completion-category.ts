@@ -8,5 +8,5 @@ export const charactersAllianceRank = {
   nodeId: "alliance-rank",
   tab: "characters",
   displayOrder: 1,
-  parent: "characters",
+  parent: "temper-completion-category/characters",
 } as const satisfies TemperCompletionCategory

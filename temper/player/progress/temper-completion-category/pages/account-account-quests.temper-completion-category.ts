@@ -8,5 +8,5 @@ export const accountAccountQuests = {
   nodeId: "account-quests",
   tab: "account",
   displayOrder: 13,
-  parent: "account",
+  parent: "temper-completion-category/account",
 } as const satisfies TemperCompletionCategory

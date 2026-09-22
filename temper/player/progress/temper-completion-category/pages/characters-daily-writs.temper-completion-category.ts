@@ -8,5 +8,5 @@ export const charactersDailyWrits = {
   nodeId: "daily-writs",
   tab: "characters",
   displayOrder: 5,
-  parent: "characters",
+  parent: "temper-completion-category/characters",
 } as const satisfies TemperCompletionCategory

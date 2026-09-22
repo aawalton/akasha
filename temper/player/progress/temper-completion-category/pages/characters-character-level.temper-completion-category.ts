@@ -8,5 +8,5 @@ export const charactersCharacterLevel = {
   nodeId: "character-level",
   tab: "characters",
   displayOrder: 3,
-  parent: "characters",
+  parent: "temper-completion-category/characters",
 } as const satisfies TemperCompletionCategory

@@ -8,5 +8,5 @@ export const accountAccountScribingKnowledgeScriptsFocusscripts = {
   nodeId: "focusScripts",
   tab: "account",
   displayOrder: 0,
-  parent: "account-account-scribing-knowledge-scripts",
+  parent: "temper-completion-category/account-account-scribing-knowledge-scripts",
 } as const satisfies TemperCompletionCategory

@@ -8,5 +8,5 @@ export const charactersSkillMorphs = {
   nodeId: "skill-morphs",
   tab: "characters",
   displayOrder: 15,
-  parent: "characters",
+  parent: "temper-completion-category/characters",
 } as const satisfies TemperCompletionCategory

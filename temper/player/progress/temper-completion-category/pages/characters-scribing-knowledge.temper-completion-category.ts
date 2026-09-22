@@ -8,5 +8,5 @@ export const charactersScribingKnowledge = {
   nodeId: "scribing-knowledge",
   tab: "characters",
   displayOrder: 17,
-  parent: "characters",
+  parent: "temper-completion-category/characters",
 } as const satisfies TemperCompletionCategory

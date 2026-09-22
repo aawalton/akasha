@@ -8,5 +8,5 @@ export const accountSubclassingSkillLines = {
   nodeId: "subclassing-skill-lines",
   tab: "account",
   displayOrder: 15,
-  parent: "account",
+  parent: "temper-completion-category/account",
 } as const satisfies TemperCompletionCategory

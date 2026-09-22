@@ -8,5 +8,5 @@ export const companionsCompanionQuestsUnion = {
   nodeId: "companion-quests-union",
   tab: "companions",
   displayOrder: 1,
-  parent: "companions",
+  parent: "temper-completion-category/companions",
 } as const satisfies TemperCompletionCategory

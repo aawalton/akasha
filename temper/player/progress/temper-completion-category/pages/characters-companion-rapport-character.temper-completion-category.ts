@@ -8,5 +8,5 @@ export const charactersCompanionRapportCharacter = {
   nodeId: "companion-rapport-character",
   tab: "characters",
   displayOrder: 6,
-  parent: "characters",
+  parent: "temper-completion-category/characters",
 } as const satisfies TemperCompletionCategory

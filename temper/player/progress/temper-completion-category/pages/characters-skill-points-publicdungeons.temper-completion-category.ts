@@ -8,5 +8,5 @@ export const charactersSkillPointsPublicdungeons = {
   nodeId: "publicDungeons",
   tab: "characters",
   displayOrder: 4,
-  parent: "characters-skill-points",
+  parent: "temper-completion-category/characters-skill-points",
 } as const satisfies TemperCompletionCategory

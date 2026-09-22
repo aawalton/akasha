@@ -3,3 +3,8 @@
 {"propertySlug":"completion-card","path":"temper/player/progress/temper-completion-override/pages/the-death-of-chains-skill-points-general-folium-discognitum.temper-completion-override.ts","id":"01a0b6d1-d02b-72d2-9e05-e59a15b08a51"}
 {"propertySlug":"completion-card","path":"temper/player/progress/temper-task/pages/folium-discognitum-skill-points/folium-discognitum-skill-points.temper-task.ts","id":"019e8de6-ad2f-7cb0-90aa-4e45f07aec54"}
 {"propertySlug":"completion-card","path":"temper/player/progress/temper-task/pages/story-zone-quest-skill-points/story-zone-quest-skill-points.temper-task.ts","id":"01a0c624-3916-7fe9-a515-b012dbb17027"}
+{"propertySlug":"completion-category-parent","path":"temper/player/progress/temper-completion-category/pages/characters-skill-points-general.temper-completion-category.ts","id":"01a05fcb-e4c3-7601-aaf2-b72002614294"}
+{"propertySlug":"completion-category-parent","path":"temper/player/progress/temper-completion-category/pages/characters-skill-points-groupdungeons.temper-completion-category.ts","id":"01a05fcb-e4c4-7ef7-8fbf-aeeb7f4b69d1"}
+{"propertySlug":"completion-category-parent","path":"temper/player/progress/temper-completion-category/pages/characters-skill-points-publicdungeons.temper-completion-category.ts","id":"01a05fcb-e4c4-7efc-9c7a-20ef80d9b552"}
+{"propertySlug":"completion-category-parent","path":"temper/player/progress/temper-completion-category/pages/characters-skill-points-skyshards.temper-completion-category.ts","id":"01a05fcb-e4c4-764f-8b1e-70f6483bd208"}
+{"propertySlug":"completion-category-parent","path":"temper/player/progress/temper-completion-category/pages/characters-skill-points-storyzonequests.temper-completion-category.ts","id":"01a05fcb-e4c5-775e-ade3-50db435e9170"}

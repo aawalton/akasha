@@ -8,5 +8,5 @@ export const accountSubclassingSkillMorphs = {
   nodeId: "subclassing-skill-morphs",
   tab: "account",
   displayOrder: 16,
-  parent: "account",
+  parent: "temper-completion-category/account",
 } as const satisfies TemperCompletionCategory

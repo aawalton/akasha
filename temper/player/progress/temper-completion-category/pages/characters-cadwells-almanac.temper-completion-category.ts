@@ -8,5 +8,5 @@ export const charactersCadwellsAlmanac = {
   nodeId: "cadwells-almanac",
   tab: "characters",
   displayOrder: 2,
-  parent: "characters",
+  parent: "temper-completion-category/characters",
 } as const satisfies TemperCompletionCategory

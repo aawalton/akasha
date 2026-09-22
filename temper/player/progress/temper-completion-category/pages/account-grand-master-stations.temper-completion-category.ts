@@ -8,5 +8,5 @@ export const accountGrandMasterStations = {
   nodeId: "grand-master-stations",
   tab: "account",
   displayOrder: 7,
-  parent: "account",
+  parent: "temper-completion-category/account",
 } as const satisfies TemperCompletionCategory

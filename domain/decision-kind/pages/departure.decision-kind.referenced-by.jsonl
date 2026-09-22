@@ -5475,6 +5475,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/holdings/thing/temper-holdings-thing.page-type.ts","id":"01a05fcb-fd2b-77f2-923a-cb5f59585696"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts","id":"01a0603b-d45a-7ff5-8a9e-03ecb545e854"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-comparison-op/temper-comparison-op.page-type.ts","id":"01a05fc9-9a02-7bf9-8334-b9a9baaf4ee4"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/temper-completion-category/properties/completion-category-parent.relation-property.ts","id":"01a0cae0-68ce-716e-9958-296e965e8ca5"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.ts","id":"01a05fcb-d657-7209-8fac-d33d57fe464e"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-completion-override/temper-completion-override.page-type.ts","id":"01a05fd0-3aa7-7efc-9f5f-080d0b9f5bd0"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts","id":"01a07202-f0fd-7b35-bff8-c4cc5e25da86"}

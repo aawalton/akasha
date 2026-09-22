@@ -8,5 +8,5 @@ export const tasksActiveQuests = {
   nodeId: "active-quests",
   tab: "tasks",
   displayOrder: 2,
-  parent: "tasks",
+  parent: "temper-completion-category/tasks",
 } as const satisfies TemperCompletionCategory

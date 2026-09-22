@@ -8,5 +8,5 @@ export const companionsCompanionSkillLines = {
   nodeId: "companion-skill-lines",
   tab: "companions",
   displayOrder: 3,
-  parent: "companions",
+  parent: "temper-completion-category/companions",
 } as const satisfies TemperCompletionCategory

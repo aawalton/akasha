@@ -8,5 +8,5 @@ export const tasksDungeonSets = {
   nodeId: "dungeon-sets",
   tab: "tasks",
   displayOrder: 4,
-  parent: "tasks",
+  parent: "temper-completion-category/tasks",
 } as const satisfies TemperCompletionCategory

@@ -8,5 +8,5 @@ export const tasksInventoryManagement = {
   nodeId: "inventory-management",
   tab: "tasks",
   displayOrder: 3,
-  parent: "tasks",
+  parent: "temper-completion-category/tasks",
 } as const satisfies TemperCompletionCategory

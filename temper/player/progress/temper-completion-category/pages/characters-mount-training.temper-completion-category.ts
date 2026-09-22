@@ -8,5 +8,5 @@ export const charactersMountTraining = {
   nodeId: "mount-training",
   tab: "characters",
   displayOrder: 10,
-  parent: "characters",
+  parent: "temper-completion-category/characters",
 } as const satisfies TemperCompletionCategory

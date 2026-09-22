@@ -8,5 +8,5 @@ export const accountAccountRecipes = {
   nodeId: "account-recipes",
   tab: "account",
   displayOrder: 8,
-  parent: "account",
+  parent: "temper-completion-category/account",
 } as const satisfies TemperCompletionCategory

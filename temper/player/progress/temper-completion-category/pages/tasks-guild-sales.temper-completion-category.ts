@@ -8,5 +8,5 @@ export const tasksGuildSales = {
   nodeId: "guild-sales",
   tab: "tasks",
   displayOrder: 0,
-  parent: "tasks",
+  parent: "temper-completion-category/tasks",
 } as const satisfies TemperCompletionCategory
