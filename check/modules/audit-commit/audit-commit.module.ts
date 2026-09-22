@@ -55,5 +55,10 @@ export const auditCommit = {
       statement:
         "A body is given as bytes as well as text, and a check judging bytes takes the bytes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A body is read from the kind a path classifies as rather than from how that path ends.",
+    },
   ],
 } as const satisfies Module

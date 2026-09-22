@@ -16,6 +16,7 @@ import {
   INDEX_AT,
   underIndex,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -67,6 +68,10 @@ const BODIED: ReadonlySet<string> = new Set(["ts", "tsx", "css"])
 export function bodied(path: string): boolean {
   const kind = classifyExtension(path)
   return kind !== null && BODIED.has(kind)
+}
+
+export function pagedIn(paged: Paged, path: string): boolean {
+  return pageNamed(path, paged.index.pageTypesIn())
 }
 
 export function overEachIn(commit: Commit, taking: Taking, saying: Saying): readonly Judged[] {
