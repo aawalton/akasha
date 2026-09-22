@@ -1,7 +1,10 @@
 {"propertySlug":"argument","path":"command/pages/model-account/add/model-account-add.command.ts","id":"01a06861-b463-721b-87be-fcc7f5294e4b"}
+{"propertySlug":"argument","path":"command/pages/model-account/disable/model-account-disable.command.ts","id":"01a0c917-8c51-734d-8525-b3969f3a25df"}
 {"propertySlug":"argument","path":"command/pages/model-account/re-enable/model-account-re-enable.command.ts","id":"01a06861-b463-71ad-922e-5b006cdebd6f"}
 {"propertySlug":"argument","path":"command/pages/seat/start/seat-start.command.ts","id":"01a0797a-9abe-7b18-818a-cf3e59985937"}
 {"propertySlug":"import","fileName":"account.argument.ts","path":"command/pages/model-account/add/model-account-add.command.code.ts"}
+{"propertySlug":"import","fileName":"account.argument.ts","path":"command/pages/model-account/disable/model-account-disable.command.code.ts"}
+{"propertySlug":"import","fileName":"account.argument.ts","path":"command/pages/model-account/disable/model-account-disable.command.test.ts"}
 {"propertySlug":"import","fileName":"account.argument.ts","path":"command/pages/model-account/re-enable/model-account-re-enable.command.code.ts"}
 {"propertySlug":"import","fileName":"account.argument.ts","path":"command/pages/model-account/re-enable/model-account-re-enable.command.test.ts"}
 {"propertySlug":"import","fileName":"account.argument.ts","path":"command/pages/seat/start/seat-start.command.code.ts"}

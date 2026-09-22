@@ -2204,6 +2204,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/mobile/sim/type/mobile-sim-type.command.ts","id":"01a0685d-ceae-700f-89c3-712a8a6e7252"}
 {"propertySlug":"decision-kind","path":"command/pages/mobile/testflight-status/mobile-testflight-status.command.ts","id":"01a0685d-ceae-7005-b619-65388a8bde61"}
 {"propertySlug":"decision-kind","path":"command/pages/model-account/add/model-account-add.command.ts","id":"01a06861-b463-721b-87be-fcc7f5294e4b"}
+{"propertySlug":"decision-kind","path":"command/pages/model-account/disable/model-account-disable.command.ts","id":"01a0c917-8c51-734d-8525-b3969f3a25df"}
 {"propertySlug":"decision-kind","path":"command/pages/model-account/re-enable/model-account-re-enable.command.ts","id":"01a06861-b463-71ad-922e-5b006cdebd6f"}
 {"propertySlug":"decision-kind","path":"command/pages/model/gateway/modules/live-gateway-seat/live-gateway-seat.module.ts","id":"01a07c0e-3845-7753-9dd0-c01a2d905a11"}
 {"propertySlug":"decision-kind","path":"command/pages/model/gateway/start/model-gateway-start.command.ts","id":"01a069b9-74bd-7486-be0b-a850ee00342c"}

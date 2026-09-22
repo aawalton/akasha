@@ -138,6 +138,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/mobile/sim/type/mobile-sim-type.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/mobile/testflight-status/mobile-testflight-status.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/model-account/add/model-account-add.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/model-account/disable/model-account-disable.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/model-account/re-enable/model-account-re-enable.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/model/gateway/start/model-gateway-start.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/model/gateway/status/model-gateway-status.command.ts"}

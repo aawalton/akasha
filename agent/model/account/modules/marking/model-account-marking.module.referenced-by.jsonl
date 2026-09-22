@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"model-account-marking.module.code.ts","path":"agent/model/account/modules/upkeep/model-account-upkeep.module.code.ts"}
 {"propertySlug":"import","fileName":"model-account-marking.module.code.ts","path":"agent/model/account/modules/upkeep/model-account-upkeep.module.test.ts"}
 {"propertySlug":"import","fileName":"model-account-marking.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"}
+{"propertySlug":"import","fileName":"model-account-marking.module.code.ts","path":"command/pages/model-account/disable/model-account-disable.command.code.ts"}
 {"propertySlug":"import","fileName":"model-account-marking.module.code.ts","path":"command/pages/model-account/re-enable/model-account-re-enable.command.code.ts"}
 {"propertySlug":"import","fileName":"model-account-marking.module.test-fixtures.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"model-account-marking.module.test-fixtures.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.test.ts"}

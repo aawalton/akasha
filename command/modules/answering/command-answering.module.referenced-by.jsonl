@@ -227,6 +227,8 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/mobile/testflight-status/mobile-testflight-status.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model-account/add/model-account-add.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model-account/add/model-account-add.command.test.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model-account/disable/model-account-disable.command.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model-account/disable/model-account-disable.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model-account/re-enable/model-account-re-enable.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model-account/re-enable/model-account-re-enable.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model/gateway/start/model-gateway-start.command.code.ts"}
