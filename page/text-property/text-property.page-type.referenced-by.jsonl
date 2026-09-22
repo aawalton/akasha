@@ -288,6 +288,8 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/alert/properties/alert-summary.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/auth/sign-in/properties/sign-in-provider.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/auth/sign-in/properties/sign-in-subject-hash.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env-name.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env-value.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-folder.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-repository.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/inference/generation/audio/properties/inference-model.text-property.ts"}

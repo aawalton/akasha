@@ -105,8 +105,11 @@ export const webAppBuilding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The values a build needs are the values the manifest code exports beside the manifests.",
+      statement: "The values a build needs are the values the manifest's page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That page is read through the index rather than by running the code beside it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -142,7 +145,11 @@ export const webAppBuilding = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads a page.",
+      statement: "No page but the manifest's own is read here.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No code beside a manifest is imported here.",
     },
     {
       decisionKind: "decision-kind/absence",

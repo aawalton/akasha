@@ -252,6 +252,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/machine/provisioning/scripts/provision-workstation/provision-workstation.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/machine/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/inference/modules/inference-reading/inference-reading.module.code.ts"}

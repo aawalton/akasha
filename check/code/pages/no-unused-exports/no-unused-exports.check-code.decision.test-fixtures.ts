@@ -125,10 +125,6 @@ export const PERFORMANCE_AT = "akasha/held.performance.code.ts"
 export const PERFORMANCE_TEXT =
   "export const measured = (): number => 1\n\nexport const spare = 2\n"
 
-export const MANIFEST_AT = "akasha/held.manifest.code.ts"
-
-export const MANIFEST_TEXT = "export const BUILD_ENV = [] as const\n\nexport const spare = 2\n"
-
 export const WORK_AT = "akasha/held.computed-property.code.ts"
 
 export const WORK_TEXT = "export const work = (): number => 1\n\nexport const spare = 2\n"
@@ -199,7 +195,6 @@ export function rooted(): string {
   typed(root, "name-format", "domain", [], `${module.slug}/${formatReaching.slug}`)
   typed(root, "context-warrant", "domain", [], `${module.slug}/${warranting.slug}`)
   typed(root, "shell-script", "domain")
-  typed(root, "manifest", "domain")
   typed(root, "performance", "domain")
   typed(root, "model-test", "domain")
   typed(root, "page-type", "domain")

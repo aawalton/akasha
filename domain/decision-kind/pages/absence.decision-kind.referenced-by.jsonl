@@ -1424,6 +1424,8 @@
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/api/modules/cluster-fetch/cluster-fetch.module.ts","id":"01a068d4-d2aa-7902-bb36-12d037d7ac6b"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/cluster.domain.ts","id":"01a073f1-e67a-717a-9d6a-324244b75878"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.ts","id":"01a06810-0b68-74a9-bfee-d2c6c7d2f2fc"}
+{"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env-value.text-property.ts","id":"01a0c68d-86eb-7607-8c2f-47b1f35b592c"}
+{"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env.one-of-property.ts","id":"01a0c68d-ed1f-76c5-9578-efb260f5d56b"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.ts","id":"01a07c68-0024-7e4f-88e0-70ee0ed9679b"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.ts","id":"01a06810-1262-75ee-aa84-9009c06798cf"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.ts","id":"01a06810-1262-7570-bae6-93d030d82053"}

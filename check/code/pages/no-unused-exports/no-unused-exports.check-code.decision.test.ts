@@ -34,8 +34,6 @@ import {
   LUA_AT,
   LUA_TEXT,
   lualibPaged,
-  MANIFEST_AT,
-  MANIFEST_TEXT,
   MODEL_TEST_AT,
   MODEL_TEST_TEXT,
   PAGE_AT,
@@ -429,15 +427,6 @@ test("the `routes` a tunnel routes file exports is spared and another is judged"
 
 test("a name React Router reaches a root route by is spared and another is judged", () => {
   const said = judging(landing(rooted(), { [ROOT_AT]: bytesOf(ROOT_TEXT) })).map(
-    (one) => one.reason
-  )
-
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`spare`")
-})
-
-test("the `BUILD_ENV` a manifest's code exports is spared and another beside it is judged", () => {
-  const said = judging(landing(rooted(), { [MANIFEST_AT]: bytesOf(MANIFEST_TEXT) })).map(
     (one) => one.reason
   )
 

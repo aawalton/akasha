@@ -9,6 +9,12 @@ import {
   type Ran,
   runKubectl,
 } from "akasha/infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts"
+import { valueByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  recordsIn,
+  textAt,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const GIT = "git"
 const BUN = "bun"
@@ -38,7 +44,12 @@ const A_FRAME = /^\s*at\s/
 const SYNCS_CODE = new RegExp(`^\\s*-?\\s*name:\\s*${SYNC_CONTAINER}\\s*$`, "m")
 const WORKING_DIR_AT = /^[ \t-]*workingDir:[ \t]*(\S+)[ \t]*$/gm
 const RETRYABLE = ["not our ref", "remote end hung up", "Could not write new index file"]
-const BUILD_ENV_EXPORT = "BUILD_ENV"
+const BUILD_ENV = "buildEnv"
+const ENTRY_NAME = "name"
+const ENTRY_VALUE = "value"
+const FROM_SECRET = "fromSecret"
+const SECRET_NAME = "resourceName"
+const SECRET_KEY = "resourceKey"
 const BUILT_FROM_ENV = "NEXT_PUBLIC_BUILD_SHA"
 const BUILT_FROM_VITE_ENV = "VITE_BUILD_SHA"
 const HIDDEN = "[a secret this deploy read]"
@@ -214,24 +225,31 @@ export type BuildEnvEntry =
 
 export type BuildEnv = readonly { readonly name: string; readonly value: string }[]
 
-function isEntry(value: unknown): value is BuildEnvEntry {
-  if (!isObjectRecord(value) || typeof value.name !== "string") return false
-  if (typeof value.value === "string") return true
-  const from = value.fromSecret
-  return isObjectRecord(from) && typeof from.name === "string" && typeof from.key === "string"
+function entryIn(stated: Value): BuildEnvEntry | null {
+  const name = textAt(stated, ENTRY_NAME)
+  if (name === null) return null
+  const value = textAt(stated, ENTRY_VALUE)
+  if (value !== null) return { name, value }
+  const from = stated[FROM_SECRET]
+  if (!isObjectRecord(from)) return null
+  const secret = textAt(from, SECRET_NAME)
+  const key = textAt(from, SECRET_KEY)
+  if (secret === null || key === null) return null
+  return { name, fromSecret: { name: secret, key } }
 }
 
-export function entriesIn(loaded: unknown): readonly BuildEnvEntry[] {
-  const found = isObjectRecord(loaded) ? loaded[BUILD_ENV_EXPORT] : undefined
-  return Array.isArray(found) ? found.filter(isEntry) : []
-}
-
-export async function declaredBuildEnv(at: string): Promise<readonly BuildEnvEntry[]> {
-  try {
-    return entriesIn((await import(at)) as unknown)
-  } catch {
-    return []
+export function entriesIn(stated: unknown): readonly BuildEnvEntry[] {
+  const found: BuildEnvEntry[] = []
+  for (const one of recordsIn(stated)) {
+    const entry = entryIn(one)
+    if (entry !== null) found.push(entry)
   }
+  return found
+}
+
+export function declaredBuildEnv(at: string, manifestPath: string): readonly BuildEnvEntry[] {
+  const stated = valueByPath(at, manifestPath)
+  return stated === null ? [] : entriesIn(stated[BUILD_ENV])
 }
 
 function secretValue(namespace: string, secret: string, key: string): string | null {

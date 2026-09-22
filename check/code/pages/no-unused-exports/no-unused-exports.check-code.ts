@@ -250,11 +250,6 @@ export const noUnusedExports = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The `BUILD_ENV` a manifest's code exports is reached by the deploy building that app.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
         "The `measured` a performance's code exports is reached by the command measuring it.",
     },
     {

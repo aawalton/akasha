@@ -2571,7 +2571,13 @@
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-synth/modules/synth-manifests/synth-manifests.module.ts","id":"01a06810-0b68-7695-97a7-2d2f26274a9e"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-synth/modules/synth-running/synth-running.module.ts","id":"01a06810-0b68-7038-a682-a9d1287b3622"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.ts","id":"01a06da1-b337-78b9-8ad3-556e6b67058e"}
+{"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env-name.text-property.ts","id":"01a0c68d-5a78-7be0-b011-de42ff98b9d2"}
+{"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env-secret.record-property.ts","id":"01a0c68d-9e02-77f4-8789-5bde389bd861"}
+{"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env-value.text-property.ts","id":"01a0c68d-86eb-7607-8c2f-47b1f35b592c"}
+{"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env.one-of-property.ts","id":"01a0c68d-ed1f-76c5-9578-efb260f5d56b"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/manifest-code.code-file-property.ts","id":"01a06da1-b338-79a7-bbb9-a0ac5a5a7170"}
+{"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/secret-build-env.record-property.ts","id":"01a0c68d-cc69-78aa-9654-3b0eee768f10"}
+{"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/stated-build-env.record-property.ts","id":"01a0c68d-b3c4-7c67-859b-6fe33468563b"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.ts","id":"01a08d87-c786-760e-992f-c710e3d37ad9"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.ts","id":"01a07c68-0024-7e4f-88e0-70ee0ed9679b"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/modules/k8s-web-service/k8s-web-service.module.ts","id":"01a08e73-15ce-72a4-b041-35203781f62c"}

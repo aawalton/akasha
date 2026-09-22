@@ -9,12 +9,22 @@ export const manifest = {
     { partOfSpeech: "part-of-speech/noun", spelling: "manifest" },
     { partOfSpeech: "part-of-speech/noun", spelling: "manifests" },
   ],
-  parts: ["build-folder-property/generated-directory", "code-file-property/manifest-code"],
+  parts: [
+    "build-folder-property/generated-directory",
+    "code-file-property/manifest-code",
+    "one-of-property/build-env",
+    "record-property/build-env-secret",
+    "record-property/secret-build-env",
+    "record-property/stated-build-env",
+    "text-property/build-env-name",
+    "text-property/build-env-value",
+  ],
   extends: ["page-type/domain"],
   allowsTmpPaths: true,
   properties: [
     { pageProperty: "code-file-property/manifest-code", required: true, many: false },
     { pageProperty: "build-folder-property/generated-directory", required: false, many: false },
+    { pageProperty: "one-of-property/build-env", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
@@ -37,6 +47,14 @@ export const manifest = {
       decisionKind: "decision-kind/upkeep",
       statement:
         "A manifest's checksum annotation sums a secret or config that manifest names in a decision.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A manifest states the values the build of the app it applies is handed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A manifest stating no such value leaves its build the values every build gets.",
     },
   ],
   types: "ts",

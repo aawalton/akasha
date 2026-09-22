@@ -179,8 +179,6 @@ function serviceYaml(): string {
   })
 }
 
-export const BUILD_ENV = [] as const
-
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
     { name: `${APP_NAME}-deployment`, yaml: deploymentYaml() },

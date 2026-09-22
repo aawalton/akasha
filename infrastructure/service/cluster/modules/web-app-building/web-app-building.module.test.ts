@@ -7,6 +7,7 @@ import {
   type BuildEnv,
   buildScript,
   buildTargetOf,
+  declaredBuildEnv,
   entriesIn,
   envPrefix,
   hiding,
@@ -19,8 +20,10 @@ import {
 } from "akasha/infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"
 import type { Workload } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 import {
+  MANIFEST_AT,
   SYNTH_AT,
   seededWorld,
+  writingUnder,
 } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import type {
   Manifest,
@@ -211,13 +214,41 @@ test("a build needing nothing set is handed nothing", () => {
   expect(envPrefix([])).toBe("")
 })
 
-test("the values a build needs are the ones the code beside the manifests exports", () => {
-  const held = entriesIn({ BUILD_ENV: [{ name: "ONE", value: "first" }, { name: "TWO" }] })
-  expect(held).toEqual([{ name: "ONE", value: "first" }])
+const ENV_AT = "one/web/env-web.manifest.ts"
+
+const ENV_PAGE = [
+  "export const envWeb = {",
+  '  type: "page-type/manifest",',
+  '  slug: "env-web",',
+  '  definition: "the resources env-web is applied as",',
+  '  code: "ts",',
+  "  buildEnv: [",
+  '    { name: "ONE", value: "first" },',
+  '    { name: "TWO", fromSecret: { resourceName: "held", resourceKey: "two" } },',
+  "  ],",
+  "}",
+  "",
+].join("\n")
+
+test("the values a build needs are the ones the manifest's page states", () => {
+  writingUnder(WORLD.root)(ENV_AT, ENV_PAGE)
+  expect(declaredBuildEnv(WORLD.root, ENV_AT)).toEqual([
+    { name: "ONE", value: "first" },
+    { name: "TWO", fromSecret: { name: "held", key: "two" } },
+  ])
 })
 
-test("code exporting no values a build needs names none", () => {
-  expect(entriesIn({})).toEqual([])
+test("a manifest page stating no such value names none", () => {
+  expect(declaredBuildEnv(WORLD.root, MANIFEST_AT)).toEqual([])
+})
+
+test("a page no file is at names none", () => {
+  expect(declaredBuildEnv(WORLD.root, "one/web/nowhere.manifest.ts")).toEqual([])
+})
+
+test("an entry naming neither a value nor a secret is no value a build is handed", () => {
+  const held = entriesIn([{ name: "ONE", value: "first" }, { name: "TWO" }])
+  expect(held).toEqual([{ name: "ONE", value: "first" }])
 })
 
 test("a value read from a secret is not carried into what is reported", () => {

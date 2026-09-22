@@ -211,8 +211,6 @@ function webDeploymentYaml(): string {
   })
 }
 
-export const BUILD_ENV = [] as const
-
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return synthWebDeploymentService(webDeploymentYaml, () =>
     webServiceYaml(NAMESPACE, APP_NAME, RESOURCE_LABELS, SELECTOR_LABELS)

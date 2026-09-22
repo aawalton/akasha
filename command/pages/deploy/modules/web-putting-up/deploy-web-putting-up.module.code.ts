@@ -1,4 +1,3 @@
-import { join } from "node:path"
 import {
   answeredWith,
   DATA,
@@ -136,7 +135,7 @@ export async function putUpWebApp(
     const installs = installableAt(given.root, sha)
     if ("why" in installs) return answeredWith(report, [installs.why], DATA)
     report.push(`installs\t${sha}\tthe manifests it tracks`)
-    const declared = await declaredBuildEnv(join(codeAt, deployable.synthPath))
+    const declared = declaredBuildEnv(codeAt, deployable.manifestPath)
     resolved = resolveBuildEnv(target.namespace, declared, sha)
     report.push(`build-env\t${resolved.env.map((one) => one.name).join(" ")}`)
     if (resolved.missing.length > 0) {

@@ -62,10 +62,6 @@ const RUN_SERVICE = "runService"
 
 const CHECK = "check-code"
 
-const MANIFEST = "manifest"
-
-const BUILD_ENV = "BUILD_ENV"
-
 const PERFORMANCE = "performance"
 
 const MEASURED = "measured"
@@ -261,7 +257,6 @@ function reachedBeside(said: Parted): ReadonlySet<string> | null {
   if (besideCode(said, COMPUTED)) return new Set([WORK])
 
   if (besideCode(said, SERVICE)) return new Set([RUN_SERVICE])
-  if (besideCode(said, MANIFEST)) return new Set([BUILD_ENV])
   if (besideCode(said, PERFORMANCE)) return new Set([MEASURED])
   if (besideCode(said, MODEL_TEST)) return new Set([ASKING, KEEPING, exportedAs(said.slug)])
   if (besideProperty(said, PAGE_TYPE, GENERATOR)) return GENERATED
