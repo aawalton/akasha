@@ -17,7 +17,7 @@ export const healthExport = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An Apple date has its own offset and is read as the instant that date names.",
+      statement: "An Apple date has its own offset and is taken as the instant that date names.",
     },
     {
       decisionKind: "decision-kind/departure",

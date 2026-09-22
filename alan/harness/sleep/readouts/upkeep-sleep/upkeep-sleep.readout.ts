@@ -23,7 +23,7 @@ export const upkeepSleep = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A sleep given as text is read as the number that text spells.",
+      statement: "A sleep given as text is taken as the number that text spells.",
     },
     {
       decisionKind: "decision-kind/departure",

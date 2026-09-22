@@ -18,11 +18,11 @@ export const forwardedMessage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The original is read as latin1.",
+      statement: "The original is taken as latin1.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A header folded over several lines is read as a single header.",
+      statement: "A header folded over several lines is taken as a single header.",
     },
     {
       decisionKind: "decision-kind/departure",

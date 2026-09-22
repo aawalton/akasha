@@ -11,7 +11,7 @@ export const buildInputTreeHash = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cut with no hash predates the basis cuts are judged by and reads as owed.",
+      statement: "A cut with no hash predates the basis cuts are judged by and is taken as owed.",
     },
   ],
   types: "ts",

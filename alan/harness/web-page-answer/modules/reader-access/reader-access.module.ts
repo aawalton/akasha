@@ -35,7 +35,7 @@ export const readerAccess = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reader naming its person outright is read as that person.",
+      statement: "A reader naming its person outright is taken as that person.",
     },
   ],
 } as const satisfies Module

@@ -31,7 +31,7 @@ export const charisma = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A level given as text is read as the number that text spells.",
+      statement: "A level given as text is taken as the number that text spells.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -47,7 +47,7 @@ export const charisma = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day is read as holding two hundred stretches at the most.",
+      statement: "A day is taken as holding two hundred stretches at the most.",
     },
   ],
 } as const satisfies Attribute

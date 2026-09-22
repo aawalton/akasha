@@ -56,7 +56,7 @@ export const rulesEngine = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The engine reads a run of text as one value of a vocabulary of patterns.",
+      statement: "The engine takes a run of text as one value of a vocabulary of patterns.",
     },
     {
       decisionKind: "decision-kind/absence",

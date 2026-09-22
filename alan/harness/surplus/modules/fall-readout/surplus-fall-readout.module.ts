@@ -67,7 +67,7 @@ export const surplusFallReadout = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A store refusal is thrown rather than read as a group holding no readout.",
+      statement: "A store refusal is thrown rather than taken as a group holding no readout.",
     },
     {
       decisionKind: "decision-kind/departure",

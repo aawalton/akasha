@@ -57,7 +57,7 @@ export const upkeepCapacity = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day is read as holding two hundred stretches at the most.",
+      statement: "A day is taken as holding two hundred stretches at the most.",
     },
     {
       decisionKind: "decision-kind/departure",

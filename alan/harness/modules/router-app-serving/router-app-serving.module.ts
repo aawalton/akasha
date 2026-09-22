@@ -49,7 +49,7 @@ export const routerAppServing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A site every visitor reads as one person names that person rather than reading a session.",
+        "A site taking every visitor as one person names that person rather than reading a session.",
     },
   ],
 } as const satisfies Module

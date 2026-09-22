@@ -39,7 +39,7 @@ export const upkeepSafety = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A level stated as text is read as the number that level spells.",
+      statement: "A level stated as text is taken as the number that level spells.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -23,7 +23,7 @@ export const weeklyEnds = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A window already behind that moment is left out rather than read as zero.",
+      statement: "A window already behind that moment is left out rather than taken as zero.",
     },
     {
       decisionKind: "decision-kind/departure",

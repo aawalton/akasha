@@ -14,11 +14,11 @@ export const readoutTier = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rung stated as text is read as the number that rung spells.",
+      statement: "A rung stated as text is taken as the number that rung spells.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A figure given as text is read as the number that text spells.",
+      statement: "A figure given as text is taken as the number that text spells.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -82,7 +82,8 @@ export const readoutTier = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A scale whose numbers shrink from black through blue is read as a falling scale.",
+      statement:
+        "A scale whose numbers shrink from black through blue is taken as a falling scale.",
     },
     {
       decisionKind: "decision-kind/departure",
