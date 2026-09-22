@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import { capacitorCorsHeaders } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const SHELL = "https://alanwalton.com"
 

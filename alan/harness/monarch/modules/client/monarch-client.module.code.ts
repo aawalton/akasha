@@ -6,7 +6,6 @@ import {
   optional,
   str,
 } from "akasha/alan/harness/monarch/modules/shape/monarch-shape.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const API_URL = "https://api.monarch.com/graphql"
