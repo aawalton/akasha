@@ -8,7 +8,7 @@ export const relationshipTopic = {
   extends: ["page-type/page"],
   parts: [
     "relation-property/relationship-topic-parent",
-    "relation-property/relationship-topic-people",
+    "multi-relation-property/relationship-topic-people",
     "select-property/relationship-topic-sensitivity",
     "select-property/relationship-topic-status",
   ],
@@ -20,7 +20,7 @@ export const relationshipTopic = {
       many: false,
     },
     {
-      pageProperty: "relation-property/relationship-topic-people",
+      pageProperty: "multi-relation-property/relationship-topic-people",
       required: false,
       many: true,
       maxCount: null,
