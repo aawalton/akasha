@@ -1,0 +1,46 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmTakedown = {
+  id: "01a0c958-641b-71f5-9ddc-27085d78a00d",
+  type: "page-type/track",
+  slug: "kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-takedown",
+  ownLength: 3.0336,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film",
+    "release/kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Takedown",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [
+    { externalId: "2yNNYQBChuox9A5Ka93BIn", artistName: "HUNTR/X" },
+    { externalId: "0RMJOzHDhAKY1o2j0W0vxY", artistName: "EJAE" },
+    { externalId: "0Wwji82sLA0Hcvtuak3omb", artistName: "AUDREY NUNA" },
+    { externalId: "6U1dV7aL68N7Gb0Naq34V5", artistName: "REI AMI" },
+    { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
+  ],
+  trackKey:
+    "takedown|0RMJOzHDhAKY1o2j0W0vxY,0Wwji82sLA0Hcvtuak3omb,2yNNYQBChuox9A5Ka93BIn,6U1dV7aL68N7Gb0Naq34V5,7mW7Tv7NvywKKXqafZo0Lc|182016",
+  song: "song/kpop-demon-hunters-cast-takedown",
+  carriedBy: [
+    {
+      release:
+        "release/kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film",
+      discNumber: 1,
+      position: 6,
+      externalId: "0MHStU0muAIEMbwdnebYu2",
+      externalLink: "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2",
+    },
+    {
+      release:
+        "release/kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version",
+      discNumber: 1,
+      position: 7,
+      externalId: "1mtBDvgqHSgBREARi93HYq",
+      externalLink: "https://open.spotify.com/track/1mtBDvgqHSgBREARi93HYq",
+    },
+  ],
+} as const satisfies Track
