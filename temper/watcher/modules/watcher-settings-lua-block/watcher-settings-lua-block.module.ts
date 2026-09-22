@@ -4,7 +4,7 @@ export const watcherSettingsLuaBlock = {
   id: "01a06367-c4f5-7b19-af43-529bb67df9da",
   type: "page-type/module",
   slug: "watcher-settings-lua-block",
-  definition: "how one keyed block is replaced inside a saved-variables file the game wrote",
+  definition: "how a keyed block is replaced inside a saved-variables file the game wrote",
   code: "ts",
   test: "ts",
   decisions: [

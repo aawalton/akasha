@@ -4,6 +4,6 @@ export const skillCollapsibleCard = {
   id: "01a0642c-5bab-77bc-bd5f-4f4709582c75",
   type: "page-type/module",
   slug: "skill-collapsible-card",
-  definition: "a card one skill collapses into",
+  definition: "a card a skill collapses into",
   code: "tsx",
 } as const satisfies Module

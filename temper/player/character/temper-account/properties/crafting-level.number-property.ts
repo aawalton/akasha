@@ -5,7 +5,7 @@ export const craftingLevel = {
   type: "page-type/number-property",
   slug: "crafting-level",
   propertySlug: "crafting-level",
-  definition: "how far a character has come in one craft",
+  definition: "how far a character has come in a craft",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

@@ -4,7 +4,7 @@ export const companionBuild = {
   id: "01a06835-fae8-7a27-90c7-c499c3e046cc",
   type: "page-type/page-type",
   slug: "companion-build",
-  definition: "one saved arrangement of a companion's gear, skills and stats",
+  definition: "a saved arrangement of a companion's gear, skills and stats",
   extends: ["page-type/temper-character-thing"],
   parts: ["select-property/base-roles"],
   properties: [

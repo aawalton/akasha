@@ -4,7 +4,7 @@ export const temperPlayerCompletion = {
   id: "01a06103-061c-7f39-82ee-5a83ddec0f3d",
   type: "page-type/domain",
   slug: "temper-player-completion",
-  definition: "how much of The Elder Scrolls Online one player has finished, reckoned card by card",
+  definition: "how much of The Elder Scrolls Online a player has finished, reckoned card by card",
   parts: [
     "module/activity-categories",
     "module/activity-category-mapping",

@@ -4,7 +4,7 @@ export const watcherRunStatus = {
   id: "01a0640f-8510-71f3-afa2-898d69327ed2",
   type: "page-type/module",
   slug: "watcher-run-status",
-  definition: "one verdict over the operations the watcher reported from its last run",
+  definition: "a verdict over the operations the watcher reported from its last run",
   code: "ts",
   test: "ts",
   decisions: [
