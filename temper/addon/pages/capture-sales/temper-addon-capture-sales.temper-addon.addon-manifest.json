@@ -17,9 +17,9 @@
     "afterBundle": ["guildHistoryCache/controls.xml"]
   },
   "assets": [
-    "image/histy_down.dds",
-    "image/histy_over.dds",
-    "image/histy_up.dds",
+    "image/status_window_toggle_down.dds",
+    "image/status_window_toggle_over.dds",
+    "image/status_window_toggle_up.dds",
     "image/linked_down.dds",
     "image/linked_over.dds",
     "image/linked_up.dds",

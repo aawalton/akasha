@@ -11,9 +11,9 @@
             mouseOverBlendMode="ADD" inherits="ZO_ButtonBehaviorClickSound" virtual="true">
             <Dimensions x="32" y="32" />
             <Anchor point="BOTTOMLEFT" offsetX="5" offsetY="10" />
-            <Textures normal="TemperSales/image/histy_up.dds"
-                pressed="TemperSales/image/histy_down.dds"
-                mouseOver="TemperSales/image/histy_over.dds" />
+            <Textures normal="TemperSales/image/status_window_toggle_up.dds"
+                pressed="TemperSales/image/status_window_toggle_down.dds"
+                mouseOver="TemperSales/image/status_window_toggle_over.dds" />
         </Button>
 
         <Control name="TemperSalesHistoryStatusGuildRowTemplate" mouseEnabled="true"

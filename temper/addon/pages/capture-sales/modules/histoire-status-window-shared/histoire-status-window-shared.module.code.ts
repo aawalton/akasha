@@ -15,8 +15,8 @@ import "akasha/temper/eso/type/eso-objects-02/eso-objects-02.type-declaration.d.
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export const BUTTON_NORMAL_TEXTURE = "TemperSales/image/histy_up.dds"
-export const BUTTON_PRESSED_TEXTURE = "TemperSales/image/histy_down.dds"
+export const BUTTON_NORMAL_TEXTURE = "TemperSales/image/status_window_toggle_up.dds"
+export const BUTTON_PRESSED_TEXTURE = "TemperSales/image/status_window_toggle_down.dds"
 export const LINKED_ICON = "TemperSales/image/linked_down.dds"
 export const UNLINKED_ICON = "TemperSales/image/unlinked_down.dds"
 export const REQUEST_MODE_ICON_SIZE = 32
