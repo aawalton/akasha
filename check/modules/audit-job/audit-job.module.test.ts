@@ -51,7 +51,7 @@ test("a round that found refusals ends the job well, a refusal being no failure"
 
 test("a round fetches what the checkout it keeps does not already hold", () => {
   const said = scriptFor(ROOT, CHECKS, COMMIT)
-  expect(said).toContain(`origin ${COMMIT}`)
+  expect(said).toContain(`origin +${COMMIT}:`)
   expect(said).not.toContain("--depth 1")
   expect(said.split("git fetch").length - 1).toBe(1)
 })
