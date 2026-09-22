@@ -46,5 +46,17 @@ export const wanderingInnWikiWeb = {
       statement:
         "A page is served under the type that page is rather than the type that type extends.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page types this site reaches are served too, since its components read them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page is drawn by the components every other site of Alan's draws a page with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This site is not editing, so nothing it draws offers a way to write a page.",
+    },
   ],
 } as const satisfies RouterApp
