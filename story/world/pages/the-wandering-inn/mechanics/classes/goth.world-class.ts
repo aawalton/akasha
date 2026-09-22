@@ -6,6 +6,7 @@ export const goth = {
   slug: "goth",
   title: "Goth",
   world: "world/the-wandering-inn",
+  appearanceCount: 31,
   aliases: ["goths"],
   evolvesToSlugs: ["midnight-goth"],
   references: "jsonl",

@@ -6,6 +6,7 @@ export const greenMage = {
   slug: "green-mage",
   title: "Green Mage",
   world: "world/the-wandering-inn",
+  appearanceCount: 37,
   aliases: ["green-mages"],
   evolvesToSlugs: ["bloodearth-mage"],
   references: "jsonl",

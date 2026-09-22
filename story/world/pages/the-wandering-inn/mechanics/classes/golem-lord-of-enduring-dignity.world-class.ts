@@ -6,5 +6,6 @@ export const golemLordOfEnduringDignity = {
   slug: "golem-lord-of-enduring-dignity",
   title: "Golem-Lord of Enduring Dignity",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

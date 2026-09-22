@@ -6,6 +6,7 @@ export const gossip = {
   slug: "gossip",
   title: "Gossip",
   world: "world/the-wandering-inn",
+  appearanceCount: 33,
   aliases: ["gossips"],
   evolvesToSlugs: ["honest-reporter"],
   references: "jsonl",

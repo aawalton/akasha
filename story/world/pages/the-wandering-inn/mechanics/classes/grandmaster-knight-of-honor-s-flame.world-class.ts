@@ -6,5 +6,6 @@ export const grandmasterKnightOfHonorSFlame = {
   slug: "grandmaster-knight-of-honor-s-flame",
   title: "Grandmaster Knight of Honor’s Flame",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass
