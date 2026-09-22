@@ -5,7 +5,7 @@ export const wording = {
   type: "page-type/text-property",
   slug: "wording",
   propertySlug: "wording",
-  definition: "the name as that one place in the text wrote it",
+  definition: "the name as that place in the text wrote it",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

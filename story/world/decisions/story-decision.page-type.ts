@@ -4,7 +4,7 @@ export const storyDecision = {
   id: "01a06578-d638-7072-8faf-6245b8cda4ae",
   type: "page-type/page-type",
   slug: "story-decision",
-  definition: "one fork a reader settled, with what the settling changed",
+  definition: "a fork a reader settled, with what the settling changed",
   pluralSlug: "decisions",
   extends: ["page-type/page"],
   runsTabooCheck: false,

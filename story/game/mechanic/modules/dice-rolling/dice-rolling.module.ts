@@ -4,7 +4,7 @@ export const diceRolling = {
   id: "01a0c5f7-fd70-7b67-ab29-7b3be9723b2a",
   type: "page-type/module",
   slug: "dice-rolling",
-  definition: "the faces a handful of dice shows for one seed",
+  definition: "the faces a handful of dice shows for a seed",
   code: "ts",
   test: "ts",
   decisions: [

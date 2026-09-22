@@ -4,7 +4,7 @@ export const skillAdvance = {
   id: "01a0c50a-c305-7fb8-9a35-3c383695c0ef",
   type: "page-type/game-mechanic",
   slug: "skill-advance",
-  definition: "what one use of a skill does to the level and rung that skill holds",
+  definition: "what a use of a skill does to the level and rung that skill holds",
   code: "ts",
   test: "ts",
   decisions: [
