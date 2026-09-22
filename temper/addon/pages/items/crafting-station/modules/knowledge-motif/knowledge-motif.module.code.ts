@@ -1,7 +1,7 @@
 import { asNumber } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-casts/knowledge-casts.module.code.ts"
 import { INTERNAL } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-state/knowledge-state.module.code.ts"
 import type { StyleMotifItems } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
@@ -25,13 +25,13 @@ INTERNAL.LoadMotifData = function (this: void): undefined {
   const fieldItemId = 3
   const fieldPayload = 2
 
-  let encoded = LCCC.Unchunk(INTERNAL.MotifData)
+  let encoded = TEMPER_HELPERS.Unchunk(INTERNAL.MotifData)
   let length = zo_strlen(encoded)
   let i = 1
   while (i < length) {
-    const [itemId, afterItemId] = LCCC.ReadAndDecode(encoded, i, fieldItemId)
+    const [itemId, afterItemId] = TEMPER_HELPERS.ReadAndDecode(encoded, i, fieldItemId)
     i = afterItemId
-    const [payload, afterPayload] = LCCC.ReadAndDecode(encoded, i, fieldPayload)
+    const [payload, afterPayload] = TEMPER_HELPERS.ReadAndDecode(encoded, i, fieldPayload)
     i = afterPayload
 
     const chapterId = BitAnd(payload, 0xf)
@@ -61,7 +61,7 @@ INTERNAL.LoadMotifData = function (this: void): undefined {
   length = zo_strlen(encoded)
   i = 1
   while (i < length) {
-    const [payload, afterPayload] = LCCC.ReadAndDecode(encoded, i, fieldMetadata)
+    const [payload, afterPayload] = TEMPER_HELPERS.ReadAndDecode(encoded, i, fieldMetadata)
     i = afterPayload
 
     const style = asStyleRecord(data.styles[BitAnd(payload, 0xff)])

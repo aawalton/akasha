@@ -1,7 +1,7 @@
 import { asNumber } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-casts/knowledge-casts.module.code.ts"
 import type { ResearchReverseEntry } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-shape/knowledge-shape.module.code.ts"
 import { INTERNAL } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-state/knowledge-state.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/knowledge-string-ids/knowledge-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -254,7 +254,7 @@ INTERNAL.ResearchScanAndEncode = function (this: void): string {
           field = field + 1
         }
         if (index % BLOCK_BITS === 0) {
-          result = result + LCCC.Encode(field, BLOCK_BYTES)
+          result = result + TEMPER_HELPERS.Encode(field, BLOCK_BYTES)
           field = 0
         }
 
@@ -265,9 +265,9 @@ INTERNAL.ResearchScanAndEncode = function (this: void): string {
         )
         if (duration !== undefined && timeRemainingSecs !== undefined) {
           times.push(
-            LCCC.Encode(index, TIME_INDEX_SIZE) +
-              LCCC.Encode(duration, TIME_FIELD_SIZE) +
-              LCCC.Encode(timeRemainingSecs, TIME_FIELD_SIZE)
+            TEMPER_HELPERS.Encode(index, TIME_INDEX_SIZE) +
+              TEMPER_HELPERS.Encode(duration, TIME_FIELD_SIZE) +
+              TEMPER_HELPERS.Encode(timeRemainingSecs, TIME_FIELD_SIZE)
           )
         }
       }
@@ -284,10 +284,10 @@ INTERNAL.ResearchScanAndEncode = function (this: void): string {
 
   const remainder = index % BLOCK_BITS
   if (remainder > 0) {
-    result = result + LCCC.Encode(BitLShift(field, BLOCK_BITS - remainder), BLOCK_BYTES)
+    result = result + TEMPER_HELPERS.Encode(BitLShift(field, BLOCK_BITS - remainder), BLOCK_BYTES)
   }
 
-  return result + LCCC.Encode(slots, 1) + table.concat(times, "")
+  return result + TEMPER_HELPERS.Encode(slots, 1) + table.concat(times, "")
 }
 
 const RESEARCH_PASSIVES: number[] = [79, 5, 80, 5, 81, 5, 141, 4]

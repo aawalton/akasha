@@ -166,14 +166,14 @@ export const STRING_ID_RECORDING_PRELUDE = [
   "function ZO_CreateStringId(name, value)",
   "  record(name, value)",
   "end",
-  "local lccc",
+  "local helpers",
   "if __eso_make_stub ~= nil then",
-  "  lccc = __eso_make_stub()",
-  '  rawset(lccc, "RegisterString", record)',
+  "  helpers = __eso_make_stub()",
+  '  rawset(helpers, "RegisterString", record)',
   "else",
-  "  lccc = {RegisterString = record}",
+  "  helpers = {RegisterString = record}",
   "end",
-  "TemperCodesCommonCode = lccc",
+  "TemperHelpers = helpers",
 ].join("\n")
 
 function buildUnregisteredStringIdsQuery(consumedIds: readonly string[]): string {
@@ -189,7 +189,7 @@ function buildUnregisteredStringIdsQuery(consumedIds: readonly string[]): string
 }
 
 const STRING_ID_GUIDANCE =
-  "(register via ZO_CreateStringId or TemperCodesCommonCode.RegisterString at bundle module" +
+  "(register via ZO_CreateStringId or TemperHelpers.RegisterString at bundle module" +
   " top level, not EVENT_ADD_ON_LOADED)"
 
 interface StringIdAssertionInput {

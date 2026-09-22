@@ -16,7 +16,7 @@ import type {
   CharId,
   Server,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -70,7 +70,7 @@ INTERNAL.ResearchGetTraitKnowledge = function (this: void, server, charId, ...ar
       const index = getTraitIndex(...asResearchArgs(args))
       if (index === undefined || index === false) {
         return INTERNAL.KNOWLEDGE_INVALID
-      } else if (LCCC.ReadBitFromEncodedData(LCCC.Unchunk(data), index)) {
+      } else if (TEMPER_HELPERS.ReadBitFromEncodedData(TEMPER_HELPERS.Unchunk(data), index)) {
         return INTERNAL.KNOWLEDGE_KNOWN
       } else {
         return INTERNAL.KNOWLEDGE_UNKNOWN
@@ -102,7 +102,11 @@ INTERNAL.ResearchGetMaxSlots = function (this: void, server, charId, craftingSki
       )
       if (data !== undefined) {
         initializeResearch()
-        const [slotsByte] = LCCC.ReadAndDecode(LCCC.Unchunk(data), asNumber(getTraitBytes()) + 1, 1)
+        const [slotsByte] = TEMPER_HELPERS.ReadAndDecode(
+          TEMPER_HELPERS.Unchunk(data),
+          asNumber(getTraitBytes()) + 1,
+          1
+        )
         return BitAnd(BitRShift(slotsByte, shift), 3) + 1
       } else {
         return 1
@@ -116,24 +120,34 @@ INTERNAL.ReadResearchTimes = function (this: void, server, charId, index) {
   const results: Array<Record<string, unknown>> | undefined = collectAll ? [] : undefined
   const data = INTERNAL.GetCharRawData(server, charId, INTERNAL.CATEGORY_RESEARCH)
   if (data !== undefined) {
-    const encoded = LCCC.Unchunk(data)
+    const encoded = TEMPER_HELPERS.Unchunk(data)
     const length = zo_strlen(encoded)
     let pos = asNumber(getTraitBytes()) + 2
     while (pos + TIME_TOTAL_SIZE - 1 <= length) {
-      const [field, afterIndex] = LCCC.ReadAndDecode(encoded, pos, TIME_INDEX_SIZE)
+      const [field, afterIndex] = TEMPER_HELPERS.ReadAndDecode(encoded, pos, TIME_INDEX_SIZE)
       pos = afterIndex
       if (results !== undefined || field === index) {
         const entry: Record<string, unknown> = {}
-        const [duration, afterDuration] = LCCC.ReadAndDecode(encoded, pos, TIME_FIELD_SIZE)
+        const [duration, afterDuration] = TEMPER_HELPERS.ReadAndDecode(
+          encoded,
+          pos,
+          TIME_FIELD_SIZE
+        )
         entry.duration = duration
         pos = afterDuration
-        const [remaining, afterRemaining] = LCCC.ReadAndDecode(encoded, pos, TIME_FIELD_SIZE)
+        const [remaining, afterRemaining] = TEMPER_HELPERS.ReadAndDecode(
+          encoded,
+          pos,
+          TIME_FIELD_SIZE
+        )
         entry.remaining = remaining
         pos = afterRemaining
         entry.remaining =
           asNumber(entry.remaining) - (GetTimeStamp() - PUBLIC.GetLastScanTime(server, charId))
         if (results !== undefined) {
-          results.push(LCCC.MergeTables(entry, asReverseEntryTable(getReverseLookup()[field])))
+          results.push(
+            TEMPER_HELPERS.MergeTables(entry, asReverseEntryTable(getReverseLookup()[field]))
+          )
         } else {
           return $multi(asNumber(entry.duration), asNumber(entry.remaining))
         }

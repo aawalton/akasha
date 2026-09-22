@@ -62,7 +62,7 @@
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-world/quiet-world.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-crafting-smithing-improve/tweak-crafting-smithing-improve.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-fishing-bait/destinations-fishing-bait.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-scribing/character-capture-scribing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/scribing-catalog-capture/scribing-catalog-capture.module.code.ts"}

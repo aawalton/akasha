@@ -5,7 +5,7 @@ import {
 } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-casts/knowledge-casts.module.code.ts"
 import type { ScribingType } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-shape/knowledge-shape.module.code.ts"
 import { INTERNAL } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-state/knowledge-state.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-04/eso-enums-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
@@ -56,7 +56,7 @@ INTERNAL.ScribingScanAndEncode = function (this: void): string {
         field = field + 1
       }
       if (currentId % BITS === 0) {
-        result = result + LCCC.Encode(field, 1)
+        result = result + TEMPER_HELPERS.Encode(field, 1)
         field = 0
       }
     }
@@ -82,9 +82,9 @@ INTERNAL.ScribingGetKnowledge = function (this: void, server, charId, key, id) {
     if (data === undefined) {
       return INTERNAL.KNOWLEDGE_NODATA
     } else {
-      const unpacked = asLua1Based([...zo_strsplit(":", LCCC.Unchunk(data))])
+      const unpacked = asLua1Based([...zo_strsplit(":", TEMPER_HELPERS.Unchunk(data))])
       if (
-        LCCC.ReadBitFromEncodedData(
+        TEMPER_HELPERS.ReadBitFromEncodedData(
           asString(unpacked[asScribingType(INTERNAL.ScribingTypes[key]).order]),
           id
         )

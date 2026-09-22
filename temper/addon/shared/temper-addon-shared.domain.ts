@@ -8,7 +8,7 @@ export const temperAddonShared = {
   parts: [
     "domain/temper-addon-log",
     "domain/temper-hud-component",
-    "domain/temper-lccc",
+    "domain/temper-helpers",
     "domain/temper-narrow",
     "domain/temper-settings-panel",
     "module/guild-store-poster",

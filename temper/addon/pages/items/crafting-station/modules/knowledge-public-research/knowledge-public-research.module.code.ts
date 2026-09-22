@@ -13,7 +13,7 @@ import type {
   CharId,
   Server,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -155,11 +155,11 @@ PUBLIC.GetTraitInfo = function (this: void, traitType, researchLineIndex?, trait
 }
 
 PUBLIC.GetTraitList = function (this: void): unknown {
-  return LCCC.MergeTables(undefined, getTraitTable())
+  return TEMPER_HELPERS.MergeTables(undefined, getTraitTable())
 }
 
 PUBLIC.GetSmithingResearchTradeskillTypes = function (this: void): unknown {
-  return LCCC.MergeTables(undefined, asTable(INTERNAL.TRADESKILL_TYPES))
+  return TEMPER_HELPERS.MergeTables(undefined, asTable(INTERNAL.TRADESKILL_TYPES))
 }
 
 PUBLIC.GetSmithingResearchFromItemLink = INTERNAL.ResearchGetIndicesFromItemLink
@@ -300,7 +300,7 @@ PUBLIC.GetAllActiveResearchItemsList = function (this: void): Array<Record<strin
           asResearchListReader(INTERNAL.ReadResearchTimes)(server, character.id)
         )) {
           asRecord(item).server = server
-          results.push(asResultRow(LCCC.MergeTables(item, asTable(character))))
+          results.push(asResultRow(TEMPER_HELPERS.MergeTables(item, asTable(character))))
         }
       }
     }

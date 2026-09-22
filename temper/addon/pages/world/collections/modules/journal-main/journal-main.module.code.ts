@@ -1,4 +1,4 @@
-import "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 
 import "akasha/temper/addon/pages/world/collections/modules/journal-l10n/journal-l10n.module.code.ts"
 

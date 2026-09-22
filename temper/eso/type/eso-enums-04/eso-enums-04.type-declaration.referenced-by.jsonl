@@ -14,7 +14,7 @@
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-collectibles-tooltips/tweak-collectibles-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-collectibles/tweak-collectibles.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-constants/leads-constants.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-base-ability/character-capture-base-ability.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/scribing-catalog-capture/scribing-catalog-capture.module.code.ts"}

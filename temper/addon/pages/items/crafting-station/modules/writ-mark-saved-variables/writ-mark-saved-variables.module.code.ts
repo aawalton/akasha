@@ -3,7 +3,7 @@ import {
   DEFAULT_COLORS,
   type MarkerState,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/writ-mark-constants/writ-mark-constants.module.code.ts"
-import "akasha/temper/addon/type/temper-codes-common-code/temper-codes-common-code.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-helpers-global/temper-helpers-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-inventory-trade/eso-inventory-trade.type-declaration.d.ts"
 
 export interface MwimSavedVars {
@@ -26,7 +26,7 @@ function asGlobalTable(this: void, value: unknown): MwimGlobalTable {
 let sv: MwimSavedVars | undefined
 
 export function initSavedVariables(this: void): undefined {
-  const server = TemperCodesCommonCode.GetServerName()
+  const server = TemperHelpers.GetServerName()
   const globals = asGlobalTable(globalThis)
   let saved = globals.TemperMasterWritInventoryMarker_SavedVariables
   if (saved === undefined) {

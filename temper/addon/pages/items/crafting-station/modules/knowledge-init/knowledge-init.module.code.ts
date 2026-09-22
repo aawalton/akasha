@@ -15,7 +15,7 @@ import type {
   MasterList,
   SavedVars,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-init-chardata/knowledge-init-chardata.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/knowledge-string-ids/knowledge-string-ids.type-declaration.d.ts"
@@ -125,12 +125,14 @@ INTERNAL.ReadMasterList = function (this: void, finalizeBaseDataLoad?: boolean):
   const fieldSize = INTERNAL.GetMasterListParam("fieldSize")
 
   for (const [, category] of ipairs(INTERNAL.ItemIdStores)) {
-    const encoded = LCCC.Unchunk(asMaybeChunkedData(asRecord(INTERNAL.vars.masterList)[category]))
+    const encoded = TEMPER_HELPERS.Unchunk(
+      asMaybeChunkedData(asRecord(INTERNAL.vars.masterList)[category])
+    )
     const length = zo_strlen(encoded)
     const decoded: number[] = []
     let i = 1
     while (i < length) {
-      const [itemId, nextPos] = LCCC.ReadAndDecode(encoded, i, fieldSize)
+      const [itemId, nextPos] = TEMPER_HELPERS.ReadAndDecode(encoded, i, fieldSize)
       i = nextPos
       decoded.push(itemId)
     }
@@ -177,9 +179,9 @@ INTERNAL.WriteMasterList = function (this: void, maxId: number): undefined {
   for (const [, category] of ipairs(INTERNAL.ItemIdStores)) {
     const encoded: string[] = []
     for (const [, id] of ipairs(asNumberArray(INTERNAL.ids[category]))) {
-      encoded.push(LCCC.Encode(id, fieldSize))
+      encoded.push(TEMPER_HELPERS.Encode(id, fieldSize))
     }
-    masterListRec[category] = LCCC.Chunk(table.concat(encoded, ""))
+    masterListRec[category] = TEMPER_HELPERS.Chunk(table.concat(encoded, ""))
     diagMasterList[category] = encoded.length
   }
 
@@ -307,6 +309,6 @@ INTERNAL.DoesNewerBaseDataExist = function (this: void): boolean {
   )
 }
 
-LCCC.RunAfterInitialLoadscreen(function (this: void): undefined {
+TEMPER_HELPERS.RunAfterInitialLoadscreen(function (this: void): undefined {
   zo_callLater(() => INTERNAL.Initialize(), INTERNAL.scanThrottle)
 })

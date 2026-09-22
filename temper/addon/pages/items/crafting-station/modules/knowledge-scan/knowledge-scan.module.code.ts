@@ -7,7 +7,7 @@ import {
   INTERNAL,
   PUBLIC,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-state/knowledge-state.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
@@ -33,8 +33,8 @@ INTERNAL.ScanKnowledge = function (this: void): undefined {
       )
     }
     const charRecord = asRecord(asRecord(INTERNAL.characters[INTERNAL.server])[INTERNAL.charId])
-    charRecord[INTERNAL.CATEGORY_SCRIBING] = LCCC.Chunk(INTERNAL.ScribingScanAndEncode())
-    charRecord[INTERNAL.CATEGORY_RESEARCH] = LCCC.Chunk(INTERNAL.ResearchScanAndEncode())
+    charRecord[INTERNAL.CATEGORY_SCRIBING] = TEMPER_HELPERS.Chunk(INTERNAL.ScribingScanAndEncode())
+    charRecord[INTERNAL.CATEGORY_RESEARCH] = TEMPER_HELPERS.Chunk(INTERNAL.ResearchScanAndEncode())
     charRecord["timestamp"] = GetTimeStamp()
   }
 
@@ -82,7 +82,7 @@ INTERNAL.ScanAndEncodeKnowledgeCategory = function (this: void, server, charId, 
     }
 
     if (i % INTERNAL.FIELD_BITS === 0) {
-      bitfields.push(LCCC.Encode(bitfield, INTERNAL.FIELD_BYTES))
+      bitfields.push(TEMPER_HELPERS.Encode(bitfield, INTERNAL.FIELD_BYTES))
       bitfield = 0
     }
   }
@@ -90,11 +90,14 @@ INTERNAL.ScanAndEncodeKnowledgeCategory = function (this: void, server, charId, 
   const remainder = idList.length % INTERNAL.FIELD_BITS
   if (remainder > 0) {
     bitfields.push(
-      LCCC.Encode(BitLShift(bitfield, INTERNAL.FIELD_BITS - remainder), INTERNAL.FIELD_BYTES)
+      TEMPER_HELPERS.Encode(
+        BitLShift(bitfield, INTERNAL.FIELD_BITS - remainder),
+        INTERNAL.FIELD_BYTES
+      )
     )
   }
 
-  asRecord(asRecord(INTERNAL.characters[server])[charId])[category] = LCCC.Chunk(
+  asRecord(asRecord(INTERNAL.characters[server])[charId])[category] = TEMPER_HELPERS.Chunk(
     table.concat(bitfields, "")
   )
 

@@ -3,7 +3,7 @@ import {
   asNumber,
   asString,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-casts/knowledge-casts.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
@@ -47,8 +47,8 @@ export interface LdeiTable {
 
 const SHARE_LIMIT = 29903 - 100
 
-const ENCODE = LCCC.Encode
-const DECODE = LCCC.Decode
+const ENCODE = TEMPER_HELPERS.Encode
+const DECODE = TEMPER_HELPERS.Decode
 
 function generateHash(this: void, tag: string, payload: string): number {
   return BitAnd(HashString(tag + payload), 0xffffffff)

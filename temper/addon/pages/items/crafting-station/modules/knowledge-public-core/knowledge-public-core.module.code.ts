@@ -13,7 +13,7 @@ import type {
   CharacterRecord,
   Server,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -63,7 +63,7 @@ PUBLIC.EVENT_INITIALIZED = 1
 PUBLIC.EVENT_UPDATE_REFRESH = 2
 
 PUBLIC.GetServerList = function (this: void): Server[] {
-  return asServerList(LCCC.GetSortedKeys(INTERNAL.characters, INTERNAL.server))
+  return asServerList(TEMPER_HELPERS.GetSortedKeys(INTERNAL.characters, INTERNAL.server))
 }
 
 PUBLIC.GetFilteredServerList = function (this: void): Server[] {

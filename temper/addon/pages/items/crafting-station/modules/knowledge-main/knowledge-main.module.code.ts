@@ -1,4 +1,4 @@
-import "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 
 import "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-ldei/knowledge-ldei.module.code.ts"
 

@@ -4396,7 +4396,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/shared/hud-component/modules/hud-scene-parse/hud-scene-parse.module.ts","id":"01a060a4-fa3a-750c-9ca2-1bb7318f8b00"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/hud-component/modules/hud-scene-source/hud-scene-source.module.ts","id":"01a060a4-fa39-75fa-b8ed-cd9e167bd81c"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/hud-component/temper-hud-component.domain.ts","id":"01a060a4-fa38-742d-9517-977730401b38"}
-{"propertySlug":"decision-kind","path":"temper/addon/shared/lccc/temper-lccc.domain.ts","id":"01a08d72-671a-7ba4-875c-f5296652fc14"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/log/modules/addon-log/addon-log.module.ts","id":"01a08e26-c147-7c8e-baea-f2cad9ded7c8"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/log/modules/library-logger/library-logger.module.ts","id":"01a090e5-9062-788e-8317-a0e2f1dee9b7"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/log/temper-addon-log.domain.ts","id":"01a08e26-d48c-7a39-8610-6270e3e33c8f"}
@@ -4412,6 +4411,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.ts","id":"01a06053-3637-713f-ab1c-3a21aa26e1e0"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/settings-panel/temper-settings-panel.domain.ts","id":"01a06053-3636-7e00-b329-e1ac77ae851e"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-addon-shared.domain.ts","id":"01a0c602-d7a2-7ba5-a4a1-a50edd20bb46"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/temper-helpers/temper-helpers.domain.ts","id":"01a08d72-671a-7ba4-875c-f5296652fc14"}
 {"propertySlug":"decision-kind","path":"temper/addon/temper-addon.page-type.ts","id":"01a06036-9b77-710a-8ddc-ee7c58591896"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts","id":"01a062ff-2792-7da8-8bfd-3a48ace9bf53"}

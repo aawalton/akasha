@@ -1858,10 +1858,10 @@
 {"propertySlug":"decision-kind","path":"temper/addon/shared/hud-component/modules/hud-scene-parse/hud-scene-parse.module.ts","id":"01a060a4-fa3a-750c-9ca2-1bb7318f8b00"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/hud-component/modules/hud-scene-source/hud-scene-source.module.ts","id":"01a060a4-fa39-75fa-b8ed-cd9e167bd81c"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/hud-component/temper-hud-component.domain.ts","id":"01a060a4-fa38-742d-9517-977730401b38"}
-{"propertySlug":"decision-kind","path":"temper/addon/shared/lccc/modules/lccc-casts/lccc-casts.module.ts","id":"01a08d72-b007-7beb-b91e-33727605794e"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/log/modules/addon-log/addon-log.module.ts","id":"01a08e26-c147-7c8e-baea-f2cad9ded7c8"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/settings-panel/modules/header/header.module.ts","id":"01a06053-3637-756b-93c2-519e609ad2d8"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/settings-panel/temper-settings-panel.domain.ts","id":"01a06053-3636-7e00-b329-e1ac77ae851e"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/temper-helpers/modules/helpers-casts/helpers-casts.module.ts","id":"01a08d72-b007-7beb-b91e-33727605794e"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/completion-import/temper-completion-import.domain.ts","id":"01a060d7-c8cc-7e3d-bff7-b5db10d7b35f"}
 {"propertySlug":"decision-kind","path":"temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.ts","id":"01a0608a-15b1-7b7c-a207-279aad7165d2"}

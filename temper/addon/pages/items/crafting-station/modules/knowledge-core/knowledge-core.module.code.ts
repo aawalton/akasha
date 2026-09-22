@@ -10,7 +10,7 @@ import type {
   ItemDescriptor,
   ItemInput,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
@@ -188,7 +188,7 @@ INTERNAL.GetKnowledge = function (this: void, server, charId, category) {
     caches[category] = {}
     const data = INTERNAL.GetCharRawData(resolvedServer, charId, category)
     if (data !== undefined) {
-      const encoded = LCCC.Unchunk(data)
+      const encoded = TEMPER_HELPERS.Unchunk(data)
       let field = 0
 
       const idList = asNumberArray(INTERNAL.ids[category])
@@ -199,7 +199,7 @@ INTERNAL.GetKnowledge = function (this: void, server, charId, category) {
         const j = ((i - 1) % INTERNAL.FIELD_BITS) + 1
         if (j === 1) {
           const k = zo_ceil(i / INTERNAL.ENCODE_BITS)
-          ;[field] = LCCC.ReadAndDecode(encoded, k, INTERNAL.FIELD_BYTES)
+          ;[field] = TEMPER_HELPERS.ReadAndDecode(encoded, k, INTERNAL.FIELD_BYTES)
         }
         const bit = BitLShift(1, INTERNAL.FIELD_BITS - j)
         if (BitAnd(field, bit) === bit) {

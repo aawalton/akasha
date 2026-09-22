@@ -1,0 +1,12 @@
+{"propertySlug":"import","fileName":"temper-helpers-global.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-helpers-global.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-helpers-global.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-mark-settings/writ-mark-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-helpers-global.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-list/item-browser-list.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-helpers-global.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-multi-account/item-browser-multi-account.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-helpers-global.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-settings/item-browser-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-helpers-global.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-start/item-browser-start.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-helpers-global.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-state/item-browser-state.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-helpers-global.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-tab/item-browser-tab.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-helpers-global.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-tooltip-extension/item-browser-tooltip-extension.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-helpers-global.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-ui-strings/item-browser-ui-strings.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/type/temper-addon-type.domain.ts","id":"01a06090-f5ac-7f47-be1b-dc303670f2ad"}

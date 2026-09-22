@@ -1,4 +1,4 @@
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 const DEFAULTS: ReadonlyArray<[string, string]> = [
@@ -64,12 +64,12 @@ const BY_LANG: Record<string, ReadonlyArray<[string, string]>> = {
 }
 
 for (const [id, text] of DEFAULTS) {
-  LCCC.RegisterString(id, text)
+  TEMPER_HELPERS.RegisterString(id, text)
 }
 const lang = GetCVar("Language.2")
 const overrides = BY_LANG[lang]
 if (overrides !== undefined) {
   for (const [id, text] of overrides) {
-    LCCC.RegisterString(id, text)
+    TEMPER_HELPERS.RegisterString(id, text)
   }
 }

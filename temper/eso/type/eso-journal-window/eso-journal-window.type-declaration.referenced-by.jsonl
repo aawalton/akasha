@@ -33,7 +33,7 @@
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tooltip-colors/journal-tooltip-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-window/journal-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-focus-zoom/minimap-focus-zoom.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-color/lccc-color.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-color/helpers-color.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

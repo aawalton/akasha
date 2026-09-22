@@ -54,7 +54,7 @@
 {"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-settings-location/minimap-settings-location.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-settings-panel/minimap-settings-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-compass-pins/lorebooks-compass-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-map-pin-filters/lorebooks-map-pin-filters.module.code.ts"}

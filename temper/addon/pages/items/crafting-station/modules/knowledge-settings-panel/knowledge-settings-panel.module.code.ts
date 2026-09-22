@@ -5,11 +5,11 @@ import {
 } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-casts/knowledge-casts.module.code.ts"
 import { INTERNAL } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-state/knowledge-state.module.code.ts"
 import type { SavedVars } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
 import {
   type LamRegistrar,
   registerPanel,
 } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/knowledge-string-ids/knowledge-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
@@ -24,7 +24,7 @@ function asLamRegistrar(value: unknown): LamRegistrar<object, unknown, unknown[]
 }
 
 INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
-  const libAddonMenu = LCCC.GetLibAddonMenu()
+  const libAddonMenu = TEMPER_HELPERS.GetLibAddonMenu()
 
   if (libAddonMenu !== undefined) {
     const panelId = "TemperItemsCraftingKnowledgeSettings"
@@ -34,7 +34,7 @@ INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
     const panelData = {
       type: "panel",
       name: "Temper Crafting Knowledge",
-      version: LCCC.FormatVersion(LCCC.GetAddOnVersion(ADDON_NAME)),
+      version: TEMPER_HELPERS.FormatVersion(TEMPER_HELPERS.GetAddOnVersion(ADDON_NAME)),
       author: "AlanGaming",
       slashCommand: "/tcknowledge",
       registerForRefresh: true,
@@ -49,7 +49,7 @@ INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
     ]
 
     if (!ZO_IsConsoleOrGameCoreUI()) {
-      LCCC.ConcatTables(controls, [
+      TEMPER_HELPERS.ConcatTables(controls, [
         {
           type: "header",
           name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_SECTION,

@@ -8,6 +8,6 @@
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-codec/lccc-codec.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-codec/helpers-codec.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

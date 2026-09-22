@@ -576,11 +576,11 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/world/navigation/temper-addon-world-navigation.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/world/quests/temper-addon-world-quests.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-component.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/lccc/temper-lccc.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/log/temper-addon-log.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/narrow/temper-narrow.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/settings-panel/temper-settings-panel.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/temper-addon-shared.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/temper-helpers/temper-helpers.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/type/temper-addon-type.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts"}

@@ -16,7 +16,7 @@ import type {
   CharacterMap,
   CharacterRecord,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/knowledge-string-ids/knowledge-string-ids.type-declaration.d.ts"
@@ -104,7 +104,11 @@ INTERNAL.CreateExportEntry = function (
       const payload = asRecord(data)[category]
       if (payload !== undefined) {
         knowledge.push(
-          string.format("%s:%s", category, LCCC.Implode(LCCC.Unchunk(asString(payload))))
+          string.format(
+            "%s:%s",
+            category,
+            TEMPER_HELPERS.Implode(TEMPER_HELPERS.Unchunk(asString(payload)))
+          )
         )
       }
     }
@@ -116,8 +120,8 @@ INTERNAL.CreateExportEntry = function (
           UndecorateDisplayName(data.account),
           data.name,
           charId,
-          LCCC.Encode(GetAPIVersion(), 1),
-          LCCC.Encode(data.timestamp ?? 0, 1),
+          TEMPER_HELPERS.Encode(GetAPIVersion(), 1),
+          TEMPER_HELPERS.Encode(data.timestamp ?? 0, 1),
           table.concat(knowledge, ";"),
         ]),
         { server: server, identifier: data.name, timestamp: data.timestamp }
@@ -174,8 +178,8 @@ INTERNAL.ProcessImportData = function (
       data.payload
     )
 
-    if (LCCC.Decode(asString(apiVersion)) === GetAPIVersion()) {
-      const timestamp = LCCC.Decode(asString(rawTimestamp))
+    if (TEMPER_HELPERS.Decode(asString(apiVersion)) === GetAPIVersion()) {
+      const timestamp = TEMPER_HELPERS.Decode(asString(rawTimestamp))
 
       if (INTERNAL.accounts[asString(server)] === undefined) {
         INTERNAL.accounts[asString(server)] = asAccountMap({})
@@ -209,7 +213,7 @@ INTERNAL.ProcessImportData = function (
           if (splitData2 !== undefined) {
             payload = string.format("%s:%s", payload, splitData2)
           }
-          asRecord(char)[asString(category)] = LCCC.Chunk(LCCC.Explode(payload))
+          asRecord(char)[asString(category)] = TEMPER_HELPERS.Chunk(TEMPER_HELPERS.Explode(payload))
         }
 
         imported = imported + 1
@@ -231,7 +235,7 @@ INTERNAL.ProcessImportData = function (
   return $multi(imported, undefined, newCharacter)
 }
 
-LCCC.RunAfterInitialLoadscreen(function (this: void): undefined {
+TEMPER_HELPERS.RunAfterInitialLoadscreen(function (this: void): undefined {
   LDEI.RegisterProcessor(SHARE_TAG, function (this: void, dataset): undefined {
     const [importedCount, stringId, newCharacter] = INTERNAL.ProcessImportData(dataset)
 

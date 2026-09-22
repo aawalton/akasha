@@ -13,12 +13,12 @@ import { valueDropdown } from "akasha/temper/addon/shared/settings-panel/modules
 import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/temper-codes-common-code/temper-codes-common-code.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-helpers-global/temper-helpers-global.type-declaration.d.ts"
 
 const PANEL_ID = "TemperMasterWritInventoryMarkerSettings"
 
 export function registerSettingsPanel(this: void): undefined {
-  const lam = TemperCodesCommonCode.GetLibAddonMenu()
+  const lam = TemperHelpers.GetLibAddonMenu()
   if (lam === undefined) {
     return undefined
   }
@@ -26,7 +26,7 @@ export function registerSettingsPanel(this: void): undefined {
   const panelData: LamPanelData = {
     type: "panel",
     name: ADDON_TITLE,
-    version: TemperCodesCommonCode.FormatVersion(TemperCodesCommonCode.GetAddOnVersion(ADDON_NAME)),
+    version: TemperHelpers.FormatVersion(TemperHelpers.GetAddOnVersion(ADDON_NAME)),
     registerForRefresh: true,
   }
 
@@ -43,30 +43,30 @@ export function registerSettingsPanel(this: void): undefined {
       type: "colorpicker",
       name: "Doable",
       getFunc: () => {
-        return TemperCodesCommonCode.Int24ToRGB(getMarkerColor("doable"))
+        return TemperHelpers.Int24ToRGB(getMarkerColor("doable"))
       },
       setFunc: (r, g, b, a) => {
-        getSv().doable = TemperCodesCommonCode.RGBToInt24(r, g, b, a)
+        getSv().doable = TemperHelpers.RGBToInt24(r, g, b, a)
       },
     },
     {
       type: "colorpicker",
       name: "Completed",
       getFunc: () => {
-        return TemperCodesCommonCode.Int24ToRGB(getMarkerColor("completed"))
+        return TemperHelpers.Int24ToRGB(getMarkerColor("completed"))
       },
       setFunc: (r, g, b, a) => {
-        getSv().completed = TemperCodesCommonCode.RGBToInt24(r, g, b, a)
+        getSv().completed = TemperHelpers.RGBToInt24(r, g, b, a)
       },
     },
     {
       type: "colorpicker",
       name: "Unknown Motif",
       getFunc: () => {
-        return TemperCodesCommonCode.Int24ToRGB(getMarkerColor("unknown"))
+        return TemperHelpers.Int24ToRGB(getMarkerColor("unknown"))
       },
       setFunc: (r, g, b, a) => {
-        getSv().unknown = TemperCodesCommonCode.RGBToInt24(r, g, b, a)
+        getSv().unknown = TemperHelpers.RGBToInt24(r, g, b, a)
       },
     },
     { type: "header", name: "Motif Knowledge" },

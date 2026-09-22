@@ -13,7 +13,7 @@ import type {
   CharId,
   Server,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-types/knowledge-types.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
@@ -165,13 +165,13 @@ INTERNAL.Sort = function (
       const pa = INTERNAL.GetEffectiveParameterValue(server, a, "priority")
       const pb = INTERNAL.GetEffectiveParameterValue(server, b, "priority")
       if (pa === pb) {
-        return LCCC.CompareCharIds(a, b)
+        return TEMPER_HELPERS.CompareCharIds(a, b)
       } else {
         return pa < pb
       }
     })
   } else {
-    table.sort(charIds, LCCC.CompareCharIds)
+    table.sort(charIds, TEMPER_HELPERS.CompareCharIds)
   }
 }
 

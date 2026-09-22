@@ -4628,12 +4628,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/hud-component/modules/hud-scene-fragments/hud-scene-fragments.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/hud-component/modules/hud-scene-parse/hud-scene-parse.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/hud-component/modules/hud-scene-source/hud-scene-source.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/lccc/modules/lccc-casts/lccc-casts.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/lccc/modules/lccc-codec/lccc-codec.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/lccc/modules/lccc-color/lccc-color.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/lccc/modules/lccc-util-tables/lccc-util-tables.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/lccc/modules/lccc/lccc.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/log/modules/addon-log/addon-log.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/log/modules/library-logger/library-logger.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/modules/guild-store-poster/guild-store-poster.module.ts"}
@@ -4649,6 +4643,12 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/settings-panel/modules/header/header.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/settings-panel/modules/panel-controls-created/panel-controls-created.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-casts/helpers-casts.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-codec/helpers-codec.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-color/helpers-color.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-tables/helpers-tables.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/temper-helpers/modules/helpers/helpers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-alliance-map/character-capture-alliance-map.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-base-ability/character-capture-base-ability.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-build/character-capture-build.module.ts"}

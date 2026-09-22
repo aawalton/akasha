@@ -6,7 +6,7 @@ import {
   Internal,
   Public,
 } from "akasha/temper/addon/pages/world/collections/modules/journal-state/journal-state.module.code.ts"
-import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import { TEMPER_HELPERS } from "akasha/temper/addon/shared/temper-helpers/modules/helpers/helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/world/collections/journal-saved-variables/journal-saved-variables.type-declaration.d.ts"
@@ -52,7 +52,7 @@ Public.GetTooltipColorUnpacked = (
   m: number,
   n: number
 ): LuaMultiReturn<[number, number, number]> => {
-  return LCCC.Int24ToRGB(Public.GetTooltipColor(m, n))
+  return TEMPER_HELPERS.Int24ToRGB(Public.GetTooltipColor(m, n))
 }
 
 Public.SetTooltipColor = (m: number, n: number, color?: number, ...rgba: number[]): undefined => {
@@ -61,7 +61,7 @@ Public.SetTooltipColor = (m: number, n: number, color?: number, ...rgba: number[
     const g = rgba[0]
     const b = rgba[1]
     if (type(g) === "number" && type(b) === "number") {
-      colorLocal = LCCC.RGBToInt24(asNumber(color), asNumber(g), asNumber(b))
+      colorLocal = TEMPER_HELPERS.RGBToInt24(asNumber(color), asNumber(g), asNumber(b))
     }
     const defaultsRow = DEFAULTS[m]
     const currentRow = CURRENT.rows[m]
