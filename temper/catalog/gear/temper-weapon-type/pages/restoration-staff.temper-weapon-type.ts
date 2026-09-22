@@ -10,6 +10,6 @@ export const restorationStaff = {
   esoWeaponType: "WEAPONTYPE_HEALING_STAFF",
   isTwoHanded: true,
   weaponPower: 1335,
-  validSlots: ["main-hand"],
+  validSlots: ["temper-weapon-slot/main-hand"],
   skillLineId: "weapon-restoration-staff",
 } as const satisfies TemperWeaponType

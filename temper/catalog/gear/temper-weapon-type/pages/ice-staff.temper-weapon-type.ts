@@ -10,6 +10,6 @@ export const iceStaff = {
   esoWeaponType: "WEAPONTYPE_FROST_STAFF",
   isTwoHanded: true,
   weaponPower: 1335,
-  validSlots: ["main-hand"],
+  validSlots: ["temper-weapon-slot/main-hand"],
   skillLineId: "weapon-destruction-staff",
 } as const satisfies TemperWeaponType

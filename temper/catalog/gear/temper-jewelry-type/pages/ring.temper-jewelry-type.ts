@@ -6,5 +6,5 @@ export const ring = {
   slug: "ring",
   title: "Ring",
   key: "ring",
-  validSlots: ["ring-1", "ring-2"],
+  validSlots: ["temper-jewelry-slot/ring-1", "temper-jewelry-slot/ring-2"],
 } as const satisfies TemperJewelryType

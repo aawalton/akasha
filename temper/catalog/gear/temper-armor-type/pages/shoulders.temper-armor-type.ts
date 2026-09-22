@@ -8,5 +8,5 @@ export const shoulders = {
   key: "shoulders",
   armorMultiplier: 7,
   isLargeEnchantSlot: false,
-  validSlots: ["shoulders"],
+  validSlots: ["temper-armor-slot/shoulders"],
 } as const satisfies TemperArmorType

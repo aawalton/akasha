@@ -10,5 +10,5 @@ export const noType = {
   esoWeaponType: "WEAPONTYPE_NONE",
   isTwoHanded: false,
   weaponPower: 0,
-  validSlots: ["main-hand"],
+  validSlots: ["temper-weapon-slot/main-hand"],
 } as const satisfies TemperWeaponType

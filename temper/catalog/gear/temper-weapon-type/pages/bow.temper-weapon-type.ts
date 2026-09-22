@@ -10,6 +10,6 @@ export const bow = {
   esoWeaponType: "WEAPONTYPE_BOW",
   isTwoHanded: true,
   weaponPower: 1335,
-  validSlots: ["main-hand"],
+  validSlots: ["temper-weapon-slot/main-hand"],
   skillLineId: "weapon-bow",
 } as const satisfies TemperWeaponType

@@ -10,6 +10,6 @@ export const greatsword = {
   esoWeaponType: "WEAPONTYPE_TWO_HANDED_SWORD",
   isTwoHanded: true,
   weaponPower: 1571,
-  validSlots: ["main-hand"],
+  validSlots: ["temper-weapon-slot/main-hand"],
   skillLineId: "weapon-two-handed",
 } as const satisfies TemperWeaponType

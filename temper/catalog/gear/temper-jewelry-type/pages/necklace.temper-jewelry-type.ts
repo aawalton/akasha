@@ -6,5 +6,5 @@ export const necklace = {
   slug: "necklace",
   title: "Necklace",
   key: "necklace",
-  validSlots: ["necklace"],
+  validSlots: ["temper-jewelry-slot/necklace"],
 } as const satisfies TemperJewelryType

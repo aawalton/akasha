@@ -8,5 +8,5 @@ export const feet = {
   key: "feet",
   armorMultiplier: 7,
   isLargeEnchantSlot: false,
-  validSlots: ["feet"],
+  validSlots: ["temper-armor-slot/feet"],
 } as const satisfies TemperArmorType

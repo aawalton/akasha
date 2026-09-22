@@ -10,6 +10,6 @@ export const maul = {
   esoWeaponType: "WEAPONTYPE_TWO_HANDED_HAMMER",
   isTwoHanded: true,
   weaponPower: 1571,
-  validSlots: ["main-hand"],
+  validSlots: ["temper-weapon-slot/main-hand"],
   skillLineId: "weapon-two-handed",
 } as const satisfies TemperWeaponType

@@ -10,6 +10,6 @@ export const sword = {
   esoWeaponType: "WEAPONTYPE_SWORD",
   isTwoHanded: false,
   weaponPower: 1335,
-  validSlots: ["main-hand"],
+  validSlots: ["temper-weapon-slot/main-hand"],
   skillLineId: "weapon-one-hand",
 } as const satisfies TemperWeaponType

@@ -8,5 +8,5 @@ export const legs = {
   key: "legs",
   armorMultiplier: 7,
   isLargeEnchantSlot: true,
-  validSlots: ["legs"],
+  validSlots: ["temper-armor-slot/legs"],
 } as const satisfies TemperArmorType

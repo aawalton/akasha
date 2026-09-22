@@ -8,5 +8,5 @@ export const shield = {
   key: "shield",
   armorMultiplier: 1,
   isLargeEnchantSlot: true,
-  validSlots: ["off-hand"],
+  validSlots: ["temper-weapon-slot/off-hand"],
 } as const satisfies TemperArmorType
