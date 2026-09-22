@@ -74,7 +74,7 @@ export const noUnusedExports = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "A value reached only from files nothing runs reads as reached.",
+      statement: "A value reached only from files nothing runs is taken as reached.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -86,7 +86,7 @@ export const noUnusedExports = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "A value only an unreached value in its own file names reads as reached.",
+      statement: "A value only an unreached value in its own file names is taken as reached.",
     },
     {
       decisionKind: "decision-kind/departure",

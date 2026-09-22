@@ -31,7 +31,7 @@ export const auditListening = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body that is no JSON object is refused rather than read as naming no check.",
+      statement: "A body that is no JSON object is refused rather than taken as naming no check.",
     },
     {
       decisionKind: "decision-kind/departure",

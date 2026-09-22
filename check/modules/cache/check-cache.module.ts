@@ -18,11 +18,11 @@ export const checkCache = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cache that is not there reads as nothing rather than as no row.",
+      statement: "A cache that is not there is taken as nothing rather than as no row.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cache holding a line that is no JSON value reads as nothing.",
+      statement: "A cache holding a line that is no JSON value is taken as nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

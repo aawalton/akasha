@@ -51,7 +51,7 @@ export const noSecondExitCode = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A list of refusals no literal spells is read as carrying them.",
+      statement: "A list of refusals no literal spells is taken as carrying them.",
     },
     {
       decisionKind: "decision-kind/absence",

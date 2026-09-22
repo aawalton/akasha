@@ -83,7 +83,7 @@ export const auditCalling = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An answer that names no runs is refused rather than read as a round that ran none.",
+        "An answer that names no runs is refused rather than taken as a round that ran none.",
     },
     {
       decisionKind: "decision-kind/absence",

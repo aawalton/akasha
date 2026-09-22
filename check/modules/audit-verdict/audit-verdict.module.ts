@@ -68,7 +68,7 @@ export const auditVerdict = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A row that will not parse is read as no verdict rather than throwing.",
+      statement: "A row that will not parse is taken as no verdict rather than throwing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -109,7 +109,7 @@ export const auditVerdict = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A refusal left off the row would read as new again every round after.",
+      statement: "A refusal left off the row would be taken as new again every round after.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -126,7 +126,7 @@ export const auditVerdict = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A commit git will not name reads as no commit, and the row carries the cost alone.",
+        "A commit git will not name is taken as no commit, and the row carries the cost alone.",
     },
     {
       decisionKind: "decision-kind/absence",

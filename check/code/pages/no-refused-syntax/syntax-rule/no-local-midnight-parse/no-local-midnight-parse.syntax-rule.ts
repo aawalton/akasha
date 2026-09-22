@@ -10,7 +10,7 @@ export const noLocalMidnightParse = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A midnight written into a template is read as a midnight written with `+`.",
+      statement: "A midnight written into a template is taken as a midnight written with `+`.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,7 +22,7 @@ export const noLocalMidnightParse = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Seconds and a fraction after the midnight are read as the midnight itself.",
+      statement: "Seconds and a fraction after the midnight are taken as the midnight itself.",
     },
     {
       decisionKind: "decision-kind/departure",

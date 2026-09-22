@@ -28,7 +28,7 @@ export const changeWalking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body read as a stylesheet is named `.css`.",
+      statement: "A body taken as a stylesheet is named `.css`.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -89,11 +89,11 @@ export const changeWalking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path nothing sits at reads as nothing rather than as unreadable.",
+      statement: "A path nothing sits at is taken as nothing rather than as unreadable.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path a folder sits at reads as nothing.",
+      statement: "A path a folder sits at is taken as nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
