@@ -5,7 +5,7 @@ export const proseFrame = {
   type: "page-type/relation-property",
   slug: "prose-frame",
   propertySlug: "frame",
-  definition: "the construction a replacement pair is written for",
+  definition: "a replacement pair's construction",
   targetPageType: "page-type/prose-frame",
   decisions: [
     {

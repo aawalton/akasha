@@ -5,7 +5,7 @@ export const imageFolder = {
   type: "page-type/text-property",
   slug: "image-folder",
   propertySlug: "folder",
-  definition: "the folder an image is built in",
+  definition: "an image's build folder",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

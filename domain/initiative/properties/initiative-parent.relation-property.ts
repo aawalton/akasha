@@ -5,7 +5,7 @@ export const initiativeParent = {
   type: "page-type/relation-property",
   slug: "initiative-parent",
   propertySlug: "parent",
-  definition: "the initiative an initiative sits under",
+  definition: "an initiative's parent initiative",
   targetPageType: "page-type/initiative",
   decisions: [
     {

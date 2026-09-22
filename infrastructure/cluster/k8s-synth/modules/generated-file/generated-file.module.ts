@@ -4,7 +4,7 @@ export const generatedFile = {
   id: "01a06810-0b68-7fc5-b1b3-8bd0a620be5a",
   type: "page-type/module",
   slug: "generated-file",
-  definition: "the generated file a synth's output is in",
+  definition: "the generated file holding a synth's output",
   code: "ts",
   decisions: [
     {

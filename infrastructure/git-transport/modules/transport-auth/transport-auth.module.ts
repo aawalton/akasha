@@ -4,7 +4,7 @@ export const transportAuth = {
   id: "01a06816-2f11-7992-90a6-8cecd8ef0699",
   type: "page-type/module",
   slug: "transport-auth",
-  definition: "who a request reaching the repositories is from",
+  definition: "who sends a request reaching the repositories",
   code: "ts",
   decisions: [
     {

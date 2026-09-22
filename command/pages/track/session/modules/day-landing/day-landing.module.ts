@@ -4,7 +4,7 @@ export const dayLanding = {
   id: "01a076f8-6890-78c5-bfe3-30435fc02625",
   type: "page-type/module",
   slug: "day-landing",
-  definition: "the files a landing writes beside the day that landing lands rows on",
+  definition: "the files a landing writes beside the day taking that landing's rows",
   code: "ts",
   test: "ts",
   decisions: [

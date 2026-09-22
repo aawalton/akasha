@@ -4,7 +4,7 @@ export const nounWithANounRun = {
   id: "01a0c620-5515-7a60-90a8-f4786eeb2912",
   type: "page-type/construction",
   slug: "noun-with-a-noun-run",
-  definition: "a noun run written from a noun and the noun run that noun says the sort of",
+  definition: "a noun run written from a noun and the noun run whose sort that noun says",
   phraseKind: "phrase-kind/noun-run",
   writtenFrom: ["part-of-speech/noun", "phrase-kind/noun-run"],
   admits: ["page property", "email address", "skill point window"],
