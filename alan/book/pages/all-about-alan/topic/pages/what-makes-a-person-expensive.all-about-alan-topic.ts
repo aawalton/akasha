@@ -13,5 +13,5 @@ export const whatMakesAPersonExpensive = {
     "all-about-alan-topic/why-people-read-as-unsafe",
   ],
   settled:
-    "Lizzy is usually a two. That was counted out of my session tracking rather than recalled, so it is a reading of the record rather than something I said.",
+    "A stranger and a fixed set of rules make it cheaper, but not cheap.\n\nFewer people, people I know well, quieter people and conflict-avoidant people all reduce the cost.\n\nLizzy is usually a two. That was counted out of my session tracking rather than recalled, so it is a reading of the record rather than something I said.",
 } as const satisfies AllAboutAlanTopic
