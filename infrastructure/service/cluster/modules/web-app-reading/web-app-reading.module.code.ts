@@ -9,7 +9,6 @@ import {
   numberAt,
   slugsIn,
   textAt,
-  textsAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -21,7 +20,6 @@ const MANIFEST_CODE_SUFFIX = ".manifest.code.ts"
 const SERVICE_CLUSTERS = "serviceClusters"
 const SOURCE_DIRECTORY = "sourceDirectory"
 const BUILD_COMMAND = "buildCommand"
-const HOSTNAMES = "hostnames"
 const RESOURCE_KIND = "resourceKind"
 const NAMESPACE = "namespace"
 const RESOURCE_NAME = "resourceName"
@@ -55,7 +53,6 @@ export interface Deployable {
   readonly serviceClusterSlug: string
   readonly sourceDirectory: string
   readonly buildCommand: string
-  readonly hostnames: readonly string[]
   readonly image: string
   readonly replicas: number
   readonly containerPort: number
@@ -204,7 +201,6 @@ export function deployableNamed(root: string, slug: string): Read {
       serviceClusterSlug,
       sourceDirectory: textAt(stated, SOURCE_DIRECTORY) as string,
       buildCommand: textAt(stated, BUILD_COMMAND) as string,
-      hostnames: textsAt(stated, HOSTNAMES) ?? [],
       image: textAt(service, IMAGE) as string,
       replicas: numberAt(service, REPLICAS) as number,
       containerPort: numberAt(service, CONTAINER_PORT) as number,

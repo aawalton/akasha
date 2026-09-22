@@ -71,7 +71,6 @@ test("a web app that is named reads through to where its own source sits", () =>
   if (!("deployable" in read)) return
   expect(read.deployable.sourceDirectory).toBe("one/web")
   expect(read.deployable.buildCommand).toBe("bun run build")
-  expect(read.deployable.hostnames).toEqual(["one-web.example"])
 })
 
 test("a web app that is named reads through to the shape of its workload", () => {

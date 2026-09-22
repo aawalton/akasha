@@ -79,7 +79,6 @@ function webApp(slug: string, at: number, slugs: readonly string[], whole = true
     held.buildCommand = "bun run build"
   }
   held.serviceClusters = slugs
-  held.hostnames = [`${slug}.example`]
   return held
 }
 
