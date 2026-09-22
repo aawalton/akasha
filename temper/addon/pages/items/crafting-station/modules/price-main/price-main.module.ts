@@ -4,6 +4,6 @@ export const priceMain = {
   id: "01a0615d-c21a-752e-b416-eb8572f56a48",
   type: "page-type/module",
   slug: "price-main",
-  definition: "the order this library's modules load in",
+  definition: "the load order of this library's modules",
   code: "ts",
 } as const satisfies Module

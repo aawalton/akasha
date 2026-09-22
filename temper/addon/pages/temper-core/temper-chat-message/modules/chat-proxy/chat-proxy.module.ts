@@ -4,7 +4,7 @@ export const chatProxy = {
   id: "01a06060-0d16-7e3b-99f0-9bc14b4374ad",
   type: "page-type/module",
   slug: "chat-proxy",
-  definition: "the handle an addon prints tagged chat messages through",
+  definition: "the handle printing an addon's tagged chat messages",
   code: "ts",
   decisions: [
     {

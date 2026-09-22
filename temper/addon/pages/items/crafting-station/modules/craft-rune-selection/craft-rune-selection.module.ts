@@ -4,6 +4,6 @@ export const craftRuneSelection = {
   id: "01a061c7-e868-7234-bf2e-359d2b4e056e",
   type: "page-type/module",
   slug: "craft-rune-selection",
-  definition: "the rune grid the player picks an essence from",
+  definition: "the rune grid holding the essences a player picks",
   code: "ts",
 } as const satisfies Module

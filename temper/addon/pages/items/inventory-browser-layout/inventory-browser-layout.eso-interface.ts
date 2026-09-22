@@ -4,7 +4,7 @@ export const inventoryBrowserLayout = {
   id: "01a06258-b536-7f91-93ad-578be9d86a82",
   type: "page-type/eso-interface",
   slug: "inventory-browser-layout",
-  definition: "the row template the cross-character browser's scroll list is built from",
+  definition: "the row template building the cross-character browser's scroll list",
   markup: "xml",
   loadedAs: "TemperItemsBrowser.xml",
 } as const satisfies EsoInterface

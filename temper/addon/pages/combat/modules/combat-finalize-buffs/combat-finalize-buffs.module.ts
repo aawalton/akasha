@@ -4,6 +4,6 @@ export const combatFinalizeBuffs = {
   id: "01a0617f-5843-7e19-bc88-36ce0825e610",
   type: "page-type/module",
   slug: "combat-finalize-buffs",
-  definition: "working out how much of a fight each buff was up for",
+  definition: "working out how much of a fight each buff was up",
   code: "ts",
 } as const satisfies Module

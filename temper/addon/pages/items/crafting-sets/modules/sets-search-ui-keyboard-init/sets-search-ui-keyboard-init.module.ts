@@ -4,7 +4,7 @@ export const setsSearchUiKeyboardInit = {
   id: "01a0623e-53a1-77aa-a5bb-c695082dd24d",
   type: "page-type/module",
   slug: "sets-search-ui-keyboard-init",
-  definition: "what a fresh keyboard search window object is built out of",
+  definition: "what builds a fresh keyboard search window object",
   code: "ts",
   decisions: [
     {

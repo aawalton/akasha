@@ -4,7 +4,7 @@ export const tradingSavedSearchBar = {
   id: "01a06160-2a5c-7023-b9e8-db3415a32e0a",
   type: "page-type/module",
   slug: "trading-saved-search-bar",
-  definition: "the bar a player picks a named search from",
+  definition: "the bar holding the named searches a player picks",
   code: "ts",
   decisions: [
     {

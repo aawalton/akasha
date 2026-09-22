@@ -4,6 +4,6 @@ export const writGlobal = {
   id: "01a061c7-e8bf-758d-938a-7d15d93e3261",
   type: "page-type/type-declaration",
   slug: "writ-global",
-  definition: "the global table the writ tracker hangs its namespaces and saved variables on",
+  definition: "the global table holding the writ tracker's namespaces and saved variables",
   d: "ts",
 } as const satisfies TypeDeclaration

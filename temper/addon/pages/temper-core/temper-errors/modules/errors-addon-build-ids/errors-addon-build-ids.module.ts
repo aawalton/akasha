@@ -4,7 +4,7 @@ export const errorsAddonBuildIds = {
   id: "01a060d8-0918-78cb-b1c7-2d2db0462ee2",
   type: "page-type/module",
   slug: "errors-addon-build-ids",
-  definition: "which add-on a callstack blames and the build that add-on was made from",
+  definition: "which add-on a callstack blames and that add-on's build",
   code: "ts",
   decisions: [
     {
