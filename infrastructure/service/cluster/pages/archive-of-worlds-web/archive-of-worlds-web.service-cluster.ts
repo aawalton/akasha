@@ -4,7 +4,7 @@ export const archiveOfWorldsWeb = {
   id: "01a05b26-f8b6-7d0c-8371-3abedb498e0f",
   type: "page-type/service-cluster",
   slug: "archive-of-worlds-web",
-  definition: "what serves the site published original stories are read on",
+  definition: "what serves the site holding published original stories",
   resourceKind: "Deployment",
   namespace: "archive-of-worlds",
   resourceName: "web",

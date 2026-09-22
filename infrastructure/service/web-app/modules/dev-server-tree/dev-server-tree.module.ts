@@ -4,7 +4,7 @@ export const devServerTree = {
   id: "01a0b711-835f-7852-be91-2ba3e1e6e35c",
   type: "page-type/module",
   slug: "dev-server-tree",
-  definition: "the tree a dev server runs, laid down from the commit it is named by",
+  definition: "the tree a dev server runs, laid down from the commit naming it",
   code: "ts",
   decisions: [
     {

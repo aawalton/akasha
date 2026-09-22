@@ -4,8 +4,7 @@ export const workstationDeploying = {
   id: "01a09593-7b82-7c95-a865-8a7bfa7f269d",
   type: "page-type/service-workstation",
   slug: "workstation-deploying",
-  definition:
-    "the service putting the workstation kind up once a commit changes what it is built from",
+  definition: "the service putting the workstation kind up once a commit changes the kind's source",
   enabled: true,
   systemd: {
     schedule: "*:*:00",

@@ -5,7 +5,7 @@ export const internalPort = {
   type: "page-type/number-property",
   slug: "internal-port",
   propertySlug: "internal-port",
-  definition: "the port a service listens on behind the port it is fronted at",
+  definition: "a service's own port behind the port callers use",
   max: null,
   decisions: [
     {

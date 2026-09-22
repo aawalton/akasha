@@ -4,7 +4,7 @@ export const titledAs = {
   id: "01a0c63a-a537-7b76-8461-838ca8ebcd02",
   type: "page-type/module",
   slug: "titled-as",
-  definition: "the name a reader sees for the slug or key akasha files a value under",
+  definition: "the name a reader sees for the slug or key under which akasha files a value",
   code: "ts",
   test: "ts",
   decisions: [

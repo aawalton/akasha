@@ -4,7 +4,7 @@ export const serviceCheckout = {
   id: "01a08df8-2f20-7590-8d5b-082a6a92bfc1",
   type: "page-type/module",
   slug: "service-checkout",
-  definition: "the checkout a workstation service's run reads and writes under",
+  definition: "the checkout under which a workstation service's run reads and writes",
   code: "ts",
   decisions: [
     {

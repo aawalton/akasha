@@ -4,7 +4,7 @@ export const builtImage = {
   id: "01a08193-c20c-7525-aced-8d801a2e9cd6",
   type: "page-type/page-type",
   slug: "built-image",
-  definition: "a container image a Dockerfile is written for",
+  definition: "a container image with a Dockerfile written for it",
   parts: [
     "built-image/auth-proxy",
     "built-image/buildkit",

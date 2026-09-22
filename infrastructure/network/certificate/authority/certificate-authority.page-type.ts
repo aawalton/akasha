@@ -4,7 +4,7 @@ export const certificateAuthority = {
   id: "01a0685d-ab5d-7bd4-946d-fa56b367a1a2",
   type: "page-type/page-type",
   slug: "certificate-authority",
-  definition: "who signs the certificates a set of names is trusted on",
+  definition: "who signs the certificates making a set of names trusted",
   parts: ["file-property/authority-certificate"],
   extends: ["page-type/domain"],
   properties: [

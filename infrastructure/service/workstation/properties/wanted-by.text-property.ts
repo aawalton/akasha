@@ -5,7 +5,7 @@ export const wantedBy = {
   type: "page-type/text-property",
   slug: "wanted-by",
   propertySlug: "wanted-by",
-  definition: "the target a unit is pulled in by",
+  definition: "the target pulling in a unit",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

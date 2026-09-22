@@ -5,7 +5,7 @@ export const content = {
   type: "page-type/file-property",
   slug: "content",
   propertySlug: "content",
-  definition: "the body a provisioned file is put in place with",
+  definition: "a provisioned file's body",
   extensions: ["sh", "conf", "json"],
   writtenBy: "module-property-group/filling",
   types: "ts",

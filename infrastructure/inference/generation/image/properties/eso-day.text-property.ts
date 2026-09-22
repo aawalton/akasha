@@ -5,7 +5,7 @@ export const esoDay = {
   type: "page-type/text-property",
   slug: "eso-day",
   propertySlug: "eso-day",
-  definition: "the ESO day a record is of",
+  definition: "a record's ESO day",
   maxLength: 10,
   nameFormat: null,
   decisions: [
