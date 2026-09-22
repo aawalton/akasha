@@ -4,6 +4,7 @@ import {
   PROSE_CEILING,
   WHOLE_PROSE_CEILING,
 } from "akasha/check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.code.ts"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { textNamed } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import {
   extensionsFor,
@@ -20,7 +21,6 @@ import {
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { partedIn, sectionedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const TEST = "test"
@@ -48,30 +48,30 @@ const MARKUP_RELIEF =
 const PROSE_RELIEF =
   "nothing joins the parts of a prose file on read, so dividing this one hides all but the first"
 
-const HELD_OFF = new WeakMap<Shadow, ReadonlySet<string>>()
+const HELD_OFF = new WeakMap<Paged, ReadonlySet<string>>()
 
 export function heldOff(value: Value): boolean {
   return value[RUNS] === false
 }
 
-function sectionsOff(shadow: Shadow): ReadonlySet<string> {
-  const found = HELD_OFF.get(shadow)
+function sectionsOff(paged: Paged): ReadonlySet<string> {
+  const found = HELD_OFF.get(paged)
   if (found !== undefined) return found
-  const made = slugsWhere(shadow.index, heldOff, (named) => shadow.index.typesCarrying(named))
-  HELD_OFF.set(shadow, made)
+  const made = slugsWhere(paged.index, heldOff, (named) => paged.index.typesCarrying(named))
+  HELD_OFF.set(paged, made)
   return made
 }
 
-function sectionOff(path: string, shadow: Shadow): boolean {
-  return sectionHeld(path, sectionsOff(shadow))
+function sectionOff(path: string, paged: Paged): boolean {
+  return sectionHeld(path, sectionsOff(paged))
 }
 
-export function exemptIn(path: string, shadow: Shadow): boolean {
-  if (sectionOff(path, shadow)) return true
-  const carrying = (named: string): Carried => shadow.index.carryingOf(named)
-  if (heldBeside(path, namingFor(shadow.index), heldOff, carrying)) return true
-  if (heldUnder(path, foldersFor(shadow.index), heldOff, carrying)) return true
-  return heldNamed(path, extensionsFor(shadow.index), heldOff, carrying)
+export function exemptIn(path: string, paged: Paged): boolean {
+  if (sectionOff(path, paged)) return true
+  const carrying = (named: string): Carried => paged.index.carryingOf(named)
+  if (heldBeside(path, namingFor(paged.index), heldOff, carrying)) return true
+  if (heldUnder(path, foldersFor(paged.index), heldOff, carrying)) return true
+  return heldNamed(path, extensionsFor(paged.index), heldOff, carrying)
 }
 
 function ceilingFor(path: string): number {
