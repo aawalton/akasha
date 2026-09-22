@@ -4,7 +4,8 @@ import type { CompletionTab } from "akasha/temper/player/completion/temper-playe
 export type AccountCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.account)[number]["id"]
 export type CharacterCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.characters)[number]["id"]
 export type CompanionCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.companions)[number]["id"]
-export type CompletionCardId = AccountCardId | CharacterCardId | CompanionCardId
+export type TaskCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.tasks)[number]["id"]
+export type CompletionCardId = AccountCardId | CharacterCardId | CompanionCardId | TaskCardId
 
 export interface CardDescriptor<T extends CompletionCardId> {
   id: T
@@ -32,6 +33,14 @@ export const COMPANION_CARDS: CardDescriptor<CompanionCardId>[] =
     tab: "companions" as const,
     title: n.name,
   }))
+
+export const TASK_CARDS: CardDescriptor<TaskCardId>[] = COMPLETION_CATEGORY_TREE_STATIC.tasks.map(
+  (n) => ({
+    id: n.id,
+    tab: "tasks" as const,
+    title: n.name,
+  })
+)
 
 export type AccountSummaryData = Record<AccountCardId, { count: number; total: number }>
 export type CharacterSummaryData = Record<CharacterCardId, { count: number; total: number }>

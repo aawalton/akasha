@@ -5,30 +5,17 @@ import {
   type CharacterCardId,
   COMPANION_CARDS,
   type CompanionCardId,
+  TASK_CARDS,
+  type TaskCardId,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 
-type TaskOnlyCardId =
-  | "guild-sales"
-  | "hireling-mails"
-  | "active-quests"
-  | "inventory-management"
-  | "dungeon-sets"
-
-const TASK_ONLY_CARD_IDS: readonly TaskOnlyCardId[] = [
-  "guild-sales",
-  "hireling-mails",
-  "active-quests",
-  "inventory-management",
-  "dungeon-sets",
-]
-
-export type AnyCompletionCardId = AccountCardId | CharacterCardId | CompanionCardId | TaskOnlyCardId
+export type AnyCompletionCardId = AccountCardId | CharacterCardId | CompanionCardId | TaskCardId
 
 const ALL_COMPLETION_CARD_IDS = new Set<string>([
   ...ACCOUNT_CARDS.map((c) => c.id),
   ...CHARACTER_CARDS.map((c) => c.id),
   ...COMPANION_CARDS.map((c) => c.id),
-  ...TASK_ONLY_CARD_IDS,
+  ...TASK_CARDS.map((c) => c.id),
 ])
 
 export function isAnyCompletionCardId(value: string): value is AnyCompletionCardId {

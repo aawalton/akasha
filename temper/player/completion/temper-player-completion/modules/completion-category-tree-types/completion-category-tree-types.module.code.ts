@@ -1,4 +1,4 @@
-export type CompletionTab = "account" | "characters" | "companions"
+export type CompletionTab = "account" | "characters" | "companions" | "tasks"
 
 export interface CompletionCategoryNode {
   id: string

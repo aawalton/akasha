@@ -5,7 +5,7 @@ import type {
   CompletionTab,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree-types/completion-category-tree-types.module.code.ts"
 
-const TABS: readonly CompletionTab[] = ["account", "characters", "companions"]
+const SHOWN_TABS: readonly CompletionTab[] = ["account", "characters", "companions"]
 
 const UNDER_TWO_TABS = null
 
@@ -24,7 +24,7 @@ function noteNodes(
 
 function buildCardTabMap(tree: CompletionCategoryTree): Map<string, CompletionTab | null> {
   const map = new Map<string, CompletionTab | null>()
-  for (const tab of TABS) noteNodes(tree[tab], tab, map)
+  for (const tab of SHOWN_TABS) noteNodes(tree[tab], tab, map)
   return map
 }
 

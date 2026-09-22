@@ -53,5 +53,6 @@ export function composeCompletionCategoryTree(
       characterHeadings
     ),
     companions: COMPLETION_CATEGORY_TREE_STATIC.companions,
+    tasks: COMPLETION_CATEGORY_TREE_STATIC.tasks,
   }
 }

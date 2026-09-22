@@ -4,7 +4,7 @@ export const completionCardTab = {
   id: "01a06103-0618-76fd-8539-d368cdcf6cae",
   type: "page-type/module",
   slug: "completion-card-tab",
-  definition: "which of the three tabs of the completion window a card is shown under",
+  definition: "which tab of the completion window a card is shown under",
   code: "ts",
   test: "ts",
   decisions: [
@@ -19,6 +19,10 @@ export const completionCardTab = {
     {
       decisionKind: "decision-kind/departure",
       statement: "An identifier hung under two tabs answers for neither.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A card under a tab the window never shows answers for no tab.",
     },
     {
       decisionKind: "decision-kind/departure",

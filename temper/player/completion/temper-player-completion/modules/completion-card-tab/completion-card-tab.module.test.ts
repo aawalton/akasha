@@ -25,6 +25,11 @@ describe("the tab the static tree answers with", () => {
     expect(getCompletionCardTab("nothing-of-the-kind")).toBeUndefined()
   })
 
+  test("a card under a tab the window never shows answers for no tab", () => {
+    expect(getCompletionCardTab("guild-sales")).toBeUndefined()
+    expect(getCompletionCardTab("dungeon-sets")).toBeUndefined()
+  })
+
   test("an achievement heading answers for no tab while nothing is hung", () => {
     expect(getCompletionCardTab("Alliance War")).toBeUndefined()
     expect(getCompletionCardTab("Character Quests")).toBeUndefined()

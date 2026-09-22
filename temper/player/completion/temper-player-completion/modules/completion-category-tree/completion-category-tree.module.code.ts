@@ -248,4 +248,26 @@ export const COMPLETION_CATEGORY_TREE_STATIC = {
       name: "Companion Skill Lines",
     },
   ],
+  tasks: [
+    {
+      id: "guild-sales",
+      name: "Guild Sales",
+    },
+    {
+      id: "hireling-mails",
+      name: "Hireling Mails",
+    },
+    {
+      id: "active-quests",
+      name: "Active Quests",
+    },
+    {
+      id: "inventory-management",
+      name: "Inventory Management",
+    },
+    {
+      id: "dungeon-sets",
+      name: "Dungeon Sets",
+    },
+  ],
 } as const satisfies Record<CompletionTab, readonly CompletionCategoryNode[]>
