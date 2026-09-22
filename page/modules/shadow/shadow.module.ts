@@ -95,7 +95,7 @@ export const shadow = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No page a commit holds is read from the working tree while a change is judged.",
+      statement: "No page a commit holds is read from the checkout while a change is judged.",
     },
     {
       decisionKind: "decision-kind/departure",

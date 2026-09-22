@@ -34,7 +34,7 @@ export const graphAsking = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A page body an answer rests on is read through the index handed in rather than off the working tree.",
+        "A page body an answer rests on is read through the index handed in rather than off the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",

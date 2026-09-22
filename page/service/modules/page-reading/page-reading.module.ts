@@ -38,7 +38,7 @@ export const pageReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body is read out of the commit rather than off the working tree.",
+      statement: "A body is read out of the commit rather than off the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
