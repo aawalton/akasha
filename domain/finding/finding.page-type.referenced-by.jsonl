@@ -154,7 +154,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-read-record-says-a-body-was-sent-never-that-a-body-arrived.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-root-claude-md-held-one-rule-and-no-domain-held-it.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-root-tsconfig-names-no-file-and-the-hook-guarding-it-still-says-that-run-exits-zero.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-shell-write-guard-reads-only-what-a-program-spells.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-shell-write-hook-reads-text-that-is-not-shell-as-shell.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-taboo-gate-reads-a-games-own-names-as-this-systems-prose.finding.ts"}
