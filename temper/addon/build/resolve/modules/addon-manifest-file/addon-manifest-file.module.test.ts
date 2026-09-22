@@ -77,6 +77,6 @@ test("a folder outside the checkout answers that no addon is there", () => {
 })
 
 test("a folder holding two addon pages carrying a manifest is thrown on", () => {
-  const { root, dir } = folderHolding(["temper-lib-async", "temper-lib-map-ping"])
+  const { root, dir } = folderHolding(["temper-lib-async", "temper-lib-debug-logger"])
   expect(() => addonManifestPathIn(root, dir)).toThrow("one folder holds one addon")
 })

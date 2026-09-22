@@ -32,7 +32,6 @@ export const temperAddon = {
     "temper-addon/temper-lib-addon-menu",
     "temper-addon/temper-lib-custom-menu",
     "temper-addon/temper-lib-debug-logger",
-    "temper-addon/temper-lib-map-ping",
     "temper-addon/temper-lib-map-pins",
     "temper-addon/temper-lib-scrollable-menu",
     "domain/temper-addon-shared",

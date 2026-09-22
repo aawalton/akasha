@@ -4053,17 +4053,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-tagged-logger/debug-logger-tagged-logger.module.ts","id":"01a06061-4092-7c03-8889-a341e67a2144"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-types/debug-logger-types.module.ts","id":"01a06061-4092-742f-b9c5-9cf888d52fd0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/temper-lib-debug-logger.temper-addon.ts","id":"01a06061-408b-7657-add9-d2dfd959f9b9"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-api/map-ping-api.module.ts","id":"01a0605f-6262-7e93-8504-251a34ece495"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-compatibility/map-ping-compatibility.module.ts","id":"01a0605f-6263-7b5a-b8a6-e1817c4462aa"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-handler-state/map-ping-handler-state.module.ts","id":"01a0605f-6262-75fe-be54-df973258bb60"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-handler/map-ping-handler.module.ts","id":"01a0605f-6262-7752-a1ba-21ba45c69531"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-initialization/map-ping-initialization.module.ts","id":"01a0605f-6262-7b60-aee2-f54376867f1a"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-lib/map-ping-lib.module.ts","id":"01a0605f-6261-7a99-9a87-668ce21f8a59"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-main/map-ping-main.module.ts","id":"01a0605f-6264-74cf-907a-7a6a66cbae34"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-public-api/map-ping-public-api.module.ts","id":"01a0605f-6263-7cb1-beca-3555572b59a9"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/ping-leaky-bucket/ping-leaky-bucket.module.ts","id":"01a0605f-6261-7d76-ba42-e30ce5260d08"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/ping-rolling-average/ping-rolling-average.module.ts","id":"01a0605f-6260-7684-a583-fe4d1368b346"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/temper-lib-map-ping.temper-addon.ts","id":"01a0605f-625e-7267-be33-c5a31b618626"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-pins/modules/map-pins-helpers/map-pins-helpers.module.ts","id":"01a06062-57de-7676-a2c3-268d8233dc41"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.ts","id":"01a06062-57e1-753f-929c-209be8a9f748"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-pins/modules/map-pins-lib/map-pins-lib.module.ts","id":"01a06062-57e0-7fda-88f1-71a061e4e2a1"}

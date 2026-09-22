@@ -1819,8 +1819,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-header/addon-menu-widget-header.module.ts","id":"01a06100-0000-7000-8000-000000000022"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-texture/addon-menu-widget-texture.module.ts","id":"01a06100-0000-7000-8000-000000000028"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/debug-logger-declarations/debug-logger-declarations.type-declaration.ts","id":"01a0620a-a166-7f46-895d-4d74d6165dbc"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-casts/map-ping-casts.module.ts","id":"01a0605f-6260-78c9-885b-2ba545ad7f6f"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-types/map-ping-types.module.ts","id":"01a0605f-6260-741e-924b-a396ec57c80f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.ts","id":"01a06275-c443-79ce-a2b3-306d66ef04d7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.ts","id":"01a06275-c443-74d3-95bf-8e3d22f7d594"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1c/scrollable-menu-casts-1c.module.ts","id":"01a0c508-3bf4-754f-bc51-3777ce7a959c"}
