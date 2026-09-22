@@ -1,3 +1,4 @@
+import { existsSync } from "node:fs"
 import { module } from "akasha/code/module/module.page-type.ts"
 import {
   commandOf,
@@ -8,6 +9,10 @@ import {
   LOOPBACK,
   portFor,
 } from "akasha/infrastructure/service/workstation/modules/service-binding/service-binding.module.code.ts"
+import {
+  saidOfNoBundle,
+  startedFromBundle,
+} from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
 import { serviceRunning } from "akasha/infrastructure/service/workstation/modules/service-running/service-running.module.ts"
 import type {
   Service,
@@ -85,10 +90,16 @@ export function runnerCodeIn(root: string): readonly string[] {
 function runsFrom(
   root: string,
   value: Value,
-  codeAt: string = ""
+  codeAt: string = "",
+  bundles: ReadonlyMap<string, string> = new Map()
 ): readonly string[] | Refused | null {
   const slug = textAt(value, "slug")
   if (slug === null) return null
+  const bundle = bundles.get(slug)
+  if (bundle !== undefined) {
+    if (!existsSync(bundle)) return { refused: saidOfNoBundle(slug, bundle) }
+    return [startedFromBundle(bundle)]
+  }
   const said = commandOf(root, { code: RUNNER, arguments: [slug] }, codeAt)
   return "refused" in said ? said : [said.command]
 }
@@ -97,11 +108,16 @@ function refusedIn(held: readonly string[] | Refused | null): held is Refused {
   return held !== null && !Array.isArray(held)
 }
 
-export function serviceIn(root: string, value: Value, codeAt: string = ""): Started | null {
+export function serviceIn(
+  root: string,
+  value: Value,
+  codeAt: string = "",
+  bundles: ReadonlyMap<string, string> = new Map()
+): Started | null {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
   const definition = textAt(value, "definition")
-  const runs = runsFrom(root, value, codeAt)
+  const runs = runsFrom(root, value, codeAt, bundles)
   const enabled = value.enabled
   if (id === null || slug === null || definition === null || runs === null) return null
   if (refusedIn(runs)) return null
@@ -135,12 +151,17 @@ export function pagesOriginHere(): string | undefined {
   return originSaid() === null ? pagesOriginIn(akashaRoot()) : undefined
 }
 
-function serviceAt(root: string, path: string, codeAt: string): Service | string {
+function serviceAt(
+  root: string,
+  path: string,
+  codeAt: string,
+  bundles: ReadonlyMap<string, string>
+): Service | string {
   const value = valueAt(path, root)
   if (value === null) return `${path} did not load, so the service it states is not read`
-  const runs = runsFrom(root, value, codeAt)
+  const runs = runsFrom(root, value, codeAt, bundles)
   if (refusedIn(runs)) return `${path} states a start that will not compose — ${runs.refused}`
-  const service = serviceIn(root, value, codeAt)
+  const service = serviceIn(root, value, codeAt, bundles)
   if (service === null) {
     return `${path} states no slug, definition, runs and enabled, so it is no workstation service`
   }
@@ -148,21 +169,30 @@ function serviceAt(root: string, path: string, codeAt: string): Service | string
   return { service, pagePath: path, ...(pagesOrigin === undefined ? {} : { pagesOrigin }) }
 }
 
-export function readFor(root: string, slug: string, codeAt: string = ""): Read {
+export function readFor(
+  root: string,
+  slug: string,
+  codeAt: string = "",
+  bundles: ReadonlyMap<string, string> = new Map()
+): Read {
   const found = listedAt(root, SERVICE_PAGE_TYPE, slug)
   const one = found[0]
   if (one === undefined) return { unnamed: `no ${SERVICE_PAGE_TYPE} is slugged \`${slug}\`` }
-  const read = serviceAt(root, one.path, codeAt)
+  const read = serviceAt(root, one.path, codeAt, bundles)
   return typeof read === "string" ? { refused: read } : { services: [read] }
 }
 
-export function everyService(root: string, codeAt: string = ""): Every {
+export function everyService(
+  root: string,
+  codeAt: string = "",
+  bundles: ReadonlyMap<string, string> = new Map()
+): Every {
   const found = [...everyOfType(root, SERVICE_PAGE_TYPE)].sort((a, b) =>
     a.path < b.path ? -1 : a.path > b.path ? 1 : 0
   )
   const services: Service[] = []
   for (const one of found) {
-    const read = serviceAt(root, one.path, codeAt)
+    const read = serviceAt(root, one.path, codeAt, bundles)
     if (typeof read === "string") return { refused: read }
     services.push(read)
   }

@@ -80,8 +80,54 @@ export const serviceBundling = {
       statement: "A slug no service page carries is parted from code that would not bundle.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A unit runs the bundle this writes.",
+      decisionKind: "decision-kind/departure",
+      statement: "A service named here starts from its bundle rather than from the pinned tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`service-watching` is the one service named here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The list says how far the move off the pinned tree has got rather than forking the fleet for good.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The list is done with once it holds every service and the pinned tree goes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service is named here after its bundle has been run by hand and worked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A deploy builds the bundle of every service named here before any unit is written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A bundle that will not build refuses that deploy, so no unit names a file that is not there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A unit spells the bundle the deploy built rather than working that path out as it starts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A bundle path carries the commit it was built at, so a restart runs the bytes the deploy built.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A unit starting from a bundle reads its pages from the working checkout still.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A landing leaves such a unit as the deploy wrote it, since a landing builds no bundle.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -111,7 +157,8 @@ export const serviceBundling = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Every installed unit starts from a pinned tree rather than from a bundle.",
+      statement:
+        "An installed unit for a service named nowhere here starts from a pinned tree rather than a bundle.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -128,8 +175,9 @@ export const serviceBundling = {
         "The answer names every bundle removed, because a silent removal is hard to diagnose.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A unit's ExecStart names a bundle, so the sweep can read which one to keep.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A named service's unit names its bundle in its ExecStart, so the sweep reads which one to keep.",
     },
   ],
 } as const satisfies Module

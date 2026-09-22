@@ -50,6 +50,19 @@ export const unitLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A unit for a service that starts from a bundle is weighed by nothing here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A landing builds no bundle, so writing that unit would name a bundle that is not there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The deploy that builds the bundle writes that unit, so the two move together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A systemctl that refuses is said as wrong rather than thrown.",
     },
     {

@@ -157,7 +157,7 @@ async function putUpFrom(
   }
   if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, at, up)
   if (read.kind === WORKSTATION_SERVICE) {
-    return putUpEvery(given.root, restarting ?? new Set<string>(), at, up)
+    return await putUpEvery(given.root, restarting ?? new Set<string>(), at, up)
   }
   if (read.kind === INFERENCE_SERVICE) {
     return await putUpInferenceService(given.root, slug, at, up)

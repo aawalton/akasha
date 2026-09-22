@@ -15,7 +15,25 @@ export const servicePuttingUp = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The code a unit runs is spelled under the tree the deploy pinned rather than under the checkout.",
+        "The code a unit runs from the tree is spelled under the tree the deploy pinned, never the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The bundle of every service that starts from one is built before the plan is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A bundle that will not build refuses the whole call rather than leaving a unit naming it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A unit for such a service names the bundle this call built rather than the tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer names each bundle built and the path that bundle was written to.",
     },
     {
       decisionKind: "decision-kind/departure",

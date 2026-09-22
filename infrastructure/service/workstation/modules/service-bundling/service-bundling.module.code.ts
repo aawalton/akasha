@@ -28,6 +28,10 @@ const BUNDLE = /^[0-9a-f]{40}\.js$/
 
 const UNSEEN = -1
 
+const BUN = "bun"
+
+export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set(["service-watching"])
+
 const LEFT_FOR_RUNTIME: Readonly<Record<string, string>> = {
   "chromium-bidi":
     "`playwright-core` requires it inside the closure that sets up the BiDi transport, which a service driving a browser over CDP never enters",
@@ -76,6 +80,18 @@ export function bundleAt(home: string, slug: string, commit: string): string {
 
 export function unitAt(home: string, slug: string): string {
   return join(home, STATE, `${slug}${SERVICE_SUFFIX}`)
+}
+
+export function startedFromBundle(at: string): string {
+  return `${BUN} ${at}`
+}
+
+export function saidOfNoBundle(slug: string, at: string): string {
+  return `\`${slug}\` would start from ${at}, where no bundle is, so no unit is to name it`
+}
+
+export function saidOfUnbuilt(slug: string, why: string): string {
+  return `\`${slug}\` starts from its bundle, and this deploy built none — ${why}`
 }
 
 export function stubAt(slug: string): string {

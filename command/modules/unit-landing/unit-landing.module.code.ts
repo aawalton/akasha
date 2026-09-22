@@ -7,6 +7,7 @@ import {
   asked,
   type Running,
 } from "akasha/infrastructure/service/workstation/modules/service-asking/service-asking.module.code.ts"
+import { LAUNCHED_FROM_BUNDLE } from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
 import {
   ourInstalled,
   stagingDir,
@@ -78,6 +79,7 @@ export function weighedIn(root: string, home: string): Weighing {
   }
   const drifts: Drift[] = []
   for (const one of read.services) {
+    if (LAUNCHED_FROM_BUNDLE.has(one.service.slug)) continue
     for (const [unit, text] of textFor(one)) {
       if (!owned.has(unit)) continue
       if (installedText(home, unit) === text) continue

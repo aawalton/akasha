@@ -98,7 +98,7 @@ export const serviceWorkstation = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A workstation service runs the code out of the tree its kind's deploy pinned at a commit.",
+        "A workstation service runs the code its kind's deploy pinned at a commit, as a tree or a bundle.",
     },
     {
       decisionKind: "decision-kind/departure",

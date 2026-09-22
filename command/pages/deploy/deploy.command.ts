@@ -51,7 +51,18 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A workstation service is put up with nothing built.",
+      statement:
+        "A workstation service starting from the pinned tree is put up with nothing built.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A workstation service starting from its bundle has that bundle built as it is put up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A bundle that will not build refuses the deploy rather than leaving a unit written for it.",
     },
     {
       decisionKind: "decision-kind/departure",

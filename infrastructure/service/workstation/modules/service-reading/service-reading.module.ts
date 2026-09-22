@@ -42,11 +42,20 @@ export const serviceReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A service has one command line, which runs the runner and names that service.",
+      statement: "A service has one command line.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The command line is composed the same way for every service.",
+      statement:
+        "A service handed a bundle runs that bundle, and any other runs the runner and names itself.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which services are handed a bundle is settled by the caller rather than here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bundle handed in that no file sits at refuses rather than reaching a unit.",
     },
     {
       decisionKind: "decision-kind/departure",
