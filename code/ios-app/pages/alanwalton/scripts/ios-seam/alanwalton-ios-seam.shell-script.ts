@@ -8,4 +8,18 @@ export const alanwaltonIosSeam = {
   shell: "sh",
   sourced: false,
   scripting: {},
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The directory the icon is decoded into is taken away when the run ends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That directory is taken away whether the run finishes or refuses.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A removal that refuses leaves the run's own exit status as it was.",
+    },
+  ],
 } as const satisfies ShellScript
