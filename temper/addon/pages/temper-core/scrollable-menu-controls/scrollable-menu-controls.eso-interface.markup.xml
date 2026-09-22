@@ -610,7 +610,7 @@
 											</OnTextChanged>
 
 											<OnMouseEnter>
-												TemperScrollableMenu.XML.OnXMLControlEventHandler("ShowTextTooltip", self, self, BOTTOM, GetString(SI_LSM_SEARCH_FILTER_TOOLTIP), nil)
+												TemperScrollableMenu.XML.OnXMLControlEventHandler("ShowTextTooltip", self, self, BOTTOM, GetString(SI_TEMPER_SCROLLABLEMENU_SEARCH_FILTER_TOOLTIP), nil)
 											</OnMouseEnter>
 
 											<OnMouseExit>

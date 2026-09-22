@@ -34,7 +34,7 @@ const sliderCtrlsContextmenuRegistered = new LuaTable<LsmRowControl, boolean>()
 const libUtil = lib.Util
 const getControlData = asLsmCastThisVoidControlUnknownRecordStringUnknown(libUtil.getControlData)
 
-const currentMinMaxStepText = GetString(SI_LSM_SLIDER_CURRENT_MIN_MAX_STEP)
+const currentMinMaxStepText = GetString(SI_TEMPER_SCROLLABLEMENU_SLIDER_CURRENT_MIN_MAX_STEP)
 
 function reAnchorSliderControlsInRow(this: void, control: LsmRowControl): undefined {
   const sliderData = control.sliderData

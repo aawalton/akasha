@@ -106,6 +106,6 @@ declare var PreventCustomScrollableContextMenuEntryClickHide: (
   clickCount?: unknown
 ) => undefined
 
-declare const SI_LSM_CNTXT_CHECK_ALL: number
-declare const SI_LSM_CNTXT_CHECK_NONE: number
-declare const SI_LSM_CNTXT_CHECK_INVERT: number
+declare const SI_TEMPER_SCROLLABLEMENU_CNTXT_CHECK_ALL: number
+declare const SI_TEMPER_SCROLLABLEMENU_CNTXT_CHECK_NONE: number
+declare const SI_TEMPER_SCROLLABLEMENU_CNTXT_CHECK_INVERT: number

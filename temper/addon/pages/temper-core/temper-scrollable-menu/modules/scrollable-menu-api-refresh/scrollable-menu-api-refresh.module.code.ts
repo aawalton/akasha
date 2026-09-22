@@ -177,7 +177,7 @@ function buttonGroupDefaultContextMenu(
 
     const buttonGroupSetAll = [
       {
-        name: GetString(SI_LSM_CNTXT_CHECK_ALL),
+        name: GetString(SI_TEMPER_SCROLLABLEMENU_CNTXT_CHECK_ALL),
         callback: function (this: void): unknown {
           oneTimeSuppressLSMCLose()
           const buttonGroupOfEntryType = getButtonGroupOfEntryType(comboBox, groupIndex, entryType)
@@ -188,7 +188,7 @@ function buttonGroupDefaultContextMenu(
         },
       },
       {
-        name: GetString(SI_LSM_CNTXT_CHECK_NONE),
+        name: GetString(SI_TEMPER_SCROLLABLEMENU_CNTXT_CHECK_NONE),
         callback: function (this: void): unknown {
           oneTimeSuppressLSMCLose()
           const buttonGroupOfEntryType = getButtonGroupOfEntryType(comboBox, groupIndex, entryType)
@@ -199,7 +199,7 @@ function buttonGroupDefaultContextMenu(
         },
       },
       {
-        name: GetString(SI_LSM_CNTXT_CHECK_INVERT),
+        name: GetString(SI_TEMPER_SCROLLABLEMENU_CNTXT_CHECK_INVERT),
         callback: function (this: void): unknown {
           oneTimeSuppressLSMCLose()
           const buttonGroupOfEntryType = getButtonGroupOfEntryType(comboBox, groupIndex, entryType)
@@ -219,7 +219,7 @@ function buttonGroupDefaultContextMenu(
   } else {
     const buttonGroupSetAll = [
       {
-        name: GetString(SI_LSM_CNTXT_CHECK_ALL),
+        name: GetString(SI_TEMPER_SCROLLABLEMENU_CNTXT_CHECK_ALL),
         entryType: entryTypeConstants.TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_NORMAL,
         callback: function (this: void): unknown {
           const buttonGroupOfEntryType = getButtonGroupOfEntryType(comboBox, groupIndex, entryType)
@@ -230,7 +230,7 @@ function buttonGroupDefaultContextMenu(
         },
       },
       {
-        name: GetString(SI_LSM_CNTXT_CHECK_NONE),
+        name: GetString(SI_TEMPER_SCROLLABLEMENU_CNTXT_CHECK_NONE),
         entryType: entryTypeConstants.TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_NORMAL,
         callback: function (this: void): unknown {
           const buttonGroupOfEntryType = getButtonGroupOfEntryType(comboBox, groupIndex, entryType)
@@ -241,7 +241,7 @@ function buttonGroupDefaultContextMenu(
         },
       },
       {
-        name: GetString(SI_LSM_CNTXT_CHECK_INVERT),
+        name: GetString(SI_TEMPER_SCROLLABLEMENU_CNTXT_CHECK_INVERT),
         entryType: entryTypeConstants.TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_NORMAL,
         callback: function (this: void): unknown {
           const buttonGroupOfEntryType = getButtonGroupOfEntryType(comboBox, groupIndex, entryType)

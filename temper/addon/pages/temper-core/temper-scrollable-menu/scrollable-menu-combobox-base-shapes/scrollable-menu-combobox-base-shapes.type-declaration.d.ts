@@ -1,4 +1,4 @@
-declare const SI_LSM_SLIDER_CURRENT_MIN_MAX_STEP: number
+declare const SI_TEMPER_SCROLLABLEMENU_SLIDER_CURRENT_MIN_MAX_STEP: number
 
 interface ZoComboBoxBaseClass {
   AddItem: (
