@@ -105,6 +105,6 @@ export async function recordPageView(args: {
   return patchPageById({
     pageTypeSlug: args.pageTypeSlug,
     id: args.id,
-    set: { [LAST_VIEWED_AT_KEY]: Date.now() },
+    set: { [LAST_VIEWED_AT_KEY]: new Date().toISOString() },
   })
 }
