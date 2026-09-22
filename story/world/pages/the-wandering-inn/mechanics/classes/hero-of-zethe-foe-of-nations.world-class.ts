@@ -6,5 +6,6 @@ export const heroOfZetheFoeOfNations = {
   slug: "hero-of-zethe-foe-of-nations",
   title: "Hero of Zethe, Foe of Nations",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

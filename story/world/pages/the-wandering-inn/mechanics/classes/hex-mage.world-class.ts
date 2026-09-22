@@ -6,5 +6,6 @@ export const hexMage = {
   slug: "hex-mage",
   title: "Hex Mage",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldClass

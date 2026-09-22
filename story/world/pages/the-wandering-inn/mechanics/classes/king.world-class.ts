@@ -6,6 +6,7 @@ export const king = {
   slug: "king",
   title: "King",
   world: "world/the-wandering-inn",
+  appearanceCount: 229,
   aliases: ["kings"],
   evolvesToSlugs: ["king-of-challenges"],
   references: "jsonl",

@@ -6,6 +6,7 @@ export const honestReporter = {
   slug: "honest-reporter",
   title: "Honest Reporter",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   evolvesFromSlugs: ["gossip"],
   references: "jsonl",
 } as const satisfies WorldClass

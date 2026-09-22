@@ -6,6 +6,7 @@ export const kicker = {
   slug: "kicker",
   title: "Kicker",
   world: "world/the-wandering-inn",
+  appearanceCount: 13,
   aliases: ["kickers"],
   evolvesToSlugs: ["football-player"],
   references: "jsonl",
