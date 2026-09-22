@@ -6,5 +6,6 @@ export const neutralizeElement = {
   slug: "neutralize-element",
   title: "Neutralize Element",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

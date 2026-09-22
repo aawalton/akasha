@@ -6,5 +6,6 @@ export const momentOfProtection = {
   slug: "moment-of-protection",
   title: "Moment of Protection",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

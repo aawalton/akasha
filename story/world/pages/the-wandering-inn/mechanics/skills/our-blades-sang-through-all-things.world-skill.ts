@@ -6,5 +6,6 @@ export const ourBladesSangThroughAllThings = {
   slug: "our-blades-sang-through-all-things",
   title: "Our Blades Sang Through All Things",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

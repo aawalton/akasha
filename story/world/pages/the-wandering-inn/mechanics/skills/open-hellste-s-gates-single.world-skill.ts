@@ -6,5 +6,6 @@ export const openHellsteSGatesSingle = {
   slug: "open-hellste-s-gates-single",
   title: "Open Hellste’s Gates (Single)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

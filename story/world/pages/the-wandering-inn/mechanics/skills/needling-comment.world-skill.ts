@@ -6,5 +6,6 @@ export const needlingComment = {
   slug: "needling-comment",
   title: "Needling Comment",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

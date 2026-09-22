@@ -6,5 +6,6 @@ export const myPantryOverflowedWithMyDeeds = {
   slug: "my-pantry-overflowed-with-my-deeds",
   title: "My Pantry Overflowed With My Deeds",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

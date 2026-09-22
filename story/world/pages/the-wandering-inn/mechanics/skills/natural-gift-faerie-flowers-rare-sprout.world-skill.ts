@@ -6,5 +6,6 @@ export const naturalGiftFaerieFlowersRareSprout = {
   slug: "natural-gift-faerie-flowers-rare-sprout",
   title: "Natural Gift (Faerie Flowers): Rare Sprout",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

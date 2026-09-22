@@ -6,5 +6,6 @@ export const nerveStrikeParalysis = {
   slug: "nerve-strike-paralysis",
   title: "Nerve Strike: Paralysis",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

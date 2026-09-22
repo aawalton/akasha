@@ -6,5 +6,6 @@ export const negateSpell = {
   slug: "negate-spell",
   title: "Negate Spell",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

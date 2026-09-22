@@ -6,5 +6,6 @@ export const openTheVault = {
   slug: "open-the-vault",
   title: "Open the Vault",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

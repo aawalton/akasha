@@ -6,5 +6,6 @@ export const overdriveTheMarionetteSRebellion = {
   slug: "overdrive-the-marionette-s-rebellion",
   title: "Overdrive: The Marionette’s Rebellion",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

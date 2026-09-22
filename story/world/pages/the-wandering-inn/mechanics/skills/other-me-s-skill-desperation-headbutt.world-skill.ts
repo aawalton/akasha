@@ -6,5 +6,6 @@ export const otherMeSSkillDesperationHeadbutt = {
   slug: "other-me-s-skill-desperation-headbutt",
   title: "Other Me’s Skill – Desperation Headbutt",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

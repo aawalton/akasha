@@ -6,5 +6,6 @@ export const offenseMode = {
   slug: "offense-mode",
   title: "Offense Mode",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

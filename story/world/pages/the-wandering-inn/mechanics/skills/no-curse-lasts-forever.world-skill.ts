@@ -6,5 +6,6 @@ export const noCurseLastsForever = {
   slug: "no-curse-lasts-forever",
   title: "No Curse Lasts Forever",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const openSaysMe = {
   slug: "open-says-me",
   title: "Open Says Me",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

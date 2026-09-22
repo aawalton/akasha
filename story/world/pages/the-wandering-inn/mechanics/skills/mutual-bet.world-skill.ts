@@ -6,5 +6,6 @@ export const mutualBet = {
   slug: "mutual-bet",
   title: "Mutual Bet",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

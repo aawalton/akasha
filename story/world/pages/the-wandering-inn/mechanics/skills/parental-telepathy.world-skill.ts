@@ -6,5 +6,6 @@ export const parentalTelepathy = {
   slug: "parental-telepathy",
   title: "Parental Telepathy",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

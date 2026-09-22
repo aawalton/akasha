@@ -6,5 +6,6 @@ export const nobleDiction = {
   slug: "noble-diction",
   title: "Noble Diction",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

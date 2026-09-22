@@ -6,6 +6,7 @@ export const peaceOfTheWild = {
   slug: "peace-of-the-wild",
   title: "Peace of the Wild",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   evolvesFromSlugs: ["wild-affinity"],
   references: "jsonl",
 } as const satisfies WorldSkill

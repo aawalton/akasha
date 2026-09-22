@@ -6,5 +6,6 @@ export const oneLuckySave = {
   slug: "one-lucky-save",
   title: "One Lucky Save",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

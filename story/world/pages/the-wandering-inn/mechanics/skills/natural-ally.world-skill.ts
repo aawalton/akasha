@@ -6,5 +6,6 @@ export const naturalAlly = {
   slug: "natural-ally",
   title: "Natural Ally",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   references: "jsonl",
 } as const satisfies WorldSkill

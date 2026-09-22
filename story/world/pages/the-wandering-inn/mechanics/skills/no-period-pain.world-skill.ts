@@ -6,5 +6,6 @@ export const noPeriodPain = {
   slug: "no-period-pain",
   title: "No Period Pain",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

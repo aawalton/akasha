@@ -6,5 +6,6 @@ export const myDreamOfFlight30Discount = {
   slug: "my-dream-of-flight-30-discount",
   title: "My Dream of Flight: 30% Discount",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

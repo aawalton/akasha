@@ -6,5 +6,6 @@ export const notEvenLightPassesMyWatch = {
   slug: "not-even-light-passes-my-watch",
   title: "Not Even Light Passes My Watch",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

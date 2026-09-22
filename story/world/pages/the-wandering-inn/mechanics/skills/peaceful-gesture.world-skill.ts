@@ -6,5 +6,6 @@ export const peacefulGesture = {
   slug: "peaceful-gesture",
   title: "Peaceful Gesture",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const oneDiesBeforeTheOther = {
   slug: "one-dies-before-the-other",
   title: "One Dies Before The Other",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const normalizeCondition = {
   slug: "normalize-condition",
   title: "Normalize Condition",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

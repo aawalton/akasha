@@ -6,5 +6,6 @@ export const onlyTruthBetweenUs = {
   slug: "only-truth-between-us",
   title: "Only Truth Between Us",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

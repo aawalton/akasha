@@ -6,5 +6,6 @@ export const mortalEnemySlavers = {
   slug: "mortal-enemy-slavers",
   title: "Mortal Enemy: Slavers",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

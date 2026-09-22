@@ -6,5 +6,6 @@ export const myManaRunsThickAsBlood = {
   slug: "my-mana-runs-thick-as-blood",
   title: "My Mana Runs Thick as Blood",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

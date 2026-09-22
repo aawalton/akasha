@@ -6,5 +6,6 @@ export const parryBladeSevenfoldReserve = {
   slug: "parry-blade-sevenfold-reserve",
   title: "Parry Blade — Sevenfold Reserve",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

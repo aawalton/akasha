@@ -6,5 +6,6 @@ export const onTheJobTrainingForServicesRendered = {
   slug: "on-the-job-training-for-services-rendered",
   title: "On The Job Training For Services Rendered",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

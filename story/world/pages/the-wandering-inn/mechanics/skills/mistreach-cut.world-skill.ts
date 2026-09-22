@@ -6,5 +6,6 @@ export const mistreachCut = {
   slug: "mistreach-cut",
   title: "Mistreach Cut",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

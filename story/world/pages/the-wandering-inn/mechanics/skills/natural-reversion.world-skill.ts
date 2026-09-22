@@ -6,5 +6,6 @@ export const naturalReversion = {
   slug: "natural-reversion",
   title: "Natural Reversion",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

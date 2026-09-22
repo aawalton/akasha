@@ -6,5 +6,6 @@ export const nemesisCrustaceans = {
   slug: "nemesis-crustaceans",
   title: "Nemesis: Crustaceans",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

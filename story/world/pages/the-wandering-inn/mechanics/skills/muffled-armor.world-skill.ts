@@ -6,5 +6,6 @@ export const muffledArmor = {
   slug: "muffled-armor",
   title: "Muffled Armor",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const monitorAttributeHealth = {
   slug: "monitor-attribute-health",
   title: "Monitor Attribute (Health)",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

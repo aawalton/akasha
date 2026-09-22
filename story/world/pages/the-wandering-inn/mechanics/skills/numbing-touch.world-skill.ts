@@ -6,5 +6,6 @@ export const numbingTouch = {
   slug: "numbing-touch",
   title: "Numbing Touch",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

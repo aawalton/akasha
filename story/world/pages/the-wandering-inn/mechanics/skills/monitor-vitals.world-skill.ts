@@ -6,5 +6,6 @@ export const monitorVitals = {
   slug: "monitor-vitals",
   title: "Monitor Vitals",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

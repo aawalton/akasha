@@ -6,5 +6,6 @@ export const myDeathCorpseExplosion = {
   slug: "my-death-corpse-explosion",
   title: "My Death: Corpse Explosion",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

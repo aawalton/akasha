@@ -6,5 +6,6 @@ export const partnerSBondLimitedTeleport = {
   slug: "partner-s-bond-limited-teleport",
   title: "Partner’s Bond: Limited Teleport",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

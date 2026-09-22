@@ -6,5 +6,6 @@ export const moveRealityLikeChess = {
   slug: "move-reality-like-chess",
   title: "Move Reality Like Chess",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

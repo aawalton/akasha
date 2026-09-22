@@ -6,5 +6,6 @@ export const myNobleVirtueStature = {
   slug: "my-noble-virtue-stature",
   title: "My Noble Virtue: Stature",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

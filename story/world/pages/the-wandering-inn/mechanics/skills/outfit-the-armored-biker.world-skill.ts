@@ -6,5 +6,6 @@ export const outfitTheArmoredBiker = {
   slug: "outfit-the-armored-biker",
   title: "Outfit: The Armored Biker",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

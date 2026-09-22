@@ -6,5 +6,6 @@ export const naturalToughness = {
   slug: "natural-toughness",
   title: "Natural Toughness",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

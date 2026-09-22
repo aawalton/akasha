@@ -6,5 +6,6 @@ export const mithrilCaltrops = {
   slug: "mithril-caltrops",
   title: "Mithril Caltrops",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

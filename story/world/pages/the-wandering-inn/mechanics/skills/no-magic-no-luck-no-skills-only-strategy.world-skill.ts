@@ -6,5 +6,6 @@ export const noMagicNoLuckNoSkillsOnlyStrategy = {
   slug: "no-magic-no-luck-no-skills-only-strategy",
   title: "No Magic, No Luck, No Skills, Only Strategy",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
