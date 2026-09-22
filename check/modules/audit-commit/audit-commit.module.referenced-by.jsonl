@@ -17,6 +17,8 @@
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-color-literal/no-color-literal.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-enum-or-namespace/no-enum-or-namespace.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-global-in-a-module/no-global-in-a-module.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-index-path-spelled/no-index-path-spelled.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-index-path-spelled/no-index-path-spelled.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-method-signature/no-method-signature.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-re-export/no-re-export.check-code.audit.code.ts"}

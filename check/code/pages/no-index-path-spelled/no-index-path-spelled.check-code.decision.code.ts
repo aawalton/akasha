@@ -1,8 +1,8 @@
 import { dirname } from "node:path"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { spelledIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { shortened } from "akasha/text/writing/modules/shortened/shortened.module.code.ts"
 
 const PAGE_TYPE = "page-type"
@@ -43,16 +43,16 @@ export function found(
   return said
 }
 
-const INDEXES = new WeakMap<Shadow, string>()
+const INDEXES = new WeakMap<Paged, string>()
 
-export function indexAt(shadow: Shadow): string {
-  const held = INDEXES.get(shadow)
+export function indexAt(paged: Paged): string {
+  const held = INDEXES.get(paged)
   if (held !== undefined) return held
-  const one = shadow.index.listedAt(PAGE_TYPE, INDEX)[0]
+  const one = paged.index.listedAt(PAGE_TYPE, INDEX)[0]
   if (one === undefined) {
     throw new Error(`the index files no \`${PAGE_TYPE}/${INDEX}\`, so where it sits is unknown`)
   }
   const made = `${dirname(one.path)}/`
-  INDEXES.set(shadow, made)
+  INDEXES.set(paged, made)
   return made
 }
