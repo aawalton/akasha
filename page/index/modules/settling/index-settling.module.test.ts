@@ -7,17 +7,12 @@ import {
   indexingAt,
   refreshedFrom,
 } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
-import { wholeOf } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   filingOf,
-  type Moving,
   settlingOver,
 } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
-import {
-  overlaidOn,
-  readingAt,
-} from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { overlaidOn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
   aProperty,
   aType,
@@ -249,82 +244,6 @@ test("a refresh agrees with the index a page taken from under a name left", () =
 
   expect(namedAt(tree, "part-slugs")).toBe(false)
   expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
-})
-
-const CARRIED_BESIDE = "b.domain.carried.jsonl"
-
-const MOVED_TARGET = "far/b.domain.ts"
-
-const MOVED_CARRIED = "far/b.domain.carried.jsonl"
-
-const CARRIED_LINES: readonly string[] = [
-  `{"id":"${TARGET_ID}"}`,
-  '{"pageTypeSlug":"domain"}',
-  '{"slug":"b"}',
-]
-
-const settledWorld = (tree: string, root: string): undefined => {
-  const first = indexingAt(root, tree)
-  wrote(first, tree, [...IDENTIFIERS, NAMING, CARRIER, TARGET_PAGE, SOURCE_PAGE])
-  expect(first.settle()).toEqual([])
-}
-
-const carriedBy = (
-  tree: string,
-  root: string,
-  moving: readonly Moving[]
-): ReadonlyMap<string, string | null> => {
-  const textOf = textIn(tree)
-  const held = new Map(moving.map((one) => [one.path, one.after] as const))
-  const bodyAt = (at: string): string | null => (held.has(at) ? (held.get(at) ?? null) : textOf(at))
-  return settlingOver(
-    readingAt(root, tree),
-    tree,
-    moving,
-    (path) => {
-      const body = bodyAt(path)
-      return body === null ? null : valueIn(body)
-    },
-    bodyAt
-  ).carried
-}
-
-test("a page the change writes carries a line for every key that page states", () => {
-  const tree = heldAt()
-  const root = heldAt()
-  settledWorld(tree, root)
-  const before = readFileSync(join(tree, TARGET_PAGE[0]), "utf8")
-  const body = bodyOf({ ...TARGET_PAGE[1], title: "the one" })
-
-  const carried = carriedBy(tree, root, [{ path: TARGET_PAGE[0], before, after: body }])
-
-  expect(carried.get(CARRIED_BESIDE)).toBe(wholeOf([...CARRIED_LINES, '{"title":"the one"}']))
-})
-
-test("a page the change takes away is left carrying nothing", () => {
-  const tree = heldAt()
-  const root = heldAt()
-  settledWorld(tree, root)
-  const before = readFileSync(join(tree, TARGET_PAGE[0]), "utf8")
-
-  const carried = carriedBy(tree, root, [{ path: TARGET_PAGE[0], before, after: null }])
-
-  expect(carried.get(CARRIED_BESIDE)).toBe(null)
-})
-
-test("a page that moves carries at its new path everything it carried at the old", () => {
-  const tree = heldAt()
-  const root = heldAt()
-  settledWorld(tree, root)
-  const body = readFileSync(join(tree, TARGET_PAGE[0]), "utf8")
-
-  const carried = carriedBy(tree, root, [
-    { path: TARGET_PAGE[0], before: body, after: null },
-    { path: MOVED_TARGET, before: null, after: body },
-  ])
-
-  expect(carried.get(CARRIED_BESIDE)).toBe(null)
-  expect(carried.get(MOVED_CARRIED)).toBe(wholeOf(CARRIED_LINES))
 })
 
 test("a settle into an index that is nowhere yet answers rather than refusing an empty world", () => {

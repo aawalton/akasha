@@ -355,10 +355,7 @@ test("a path the change takes away is left out though the body sits on disk", ()
   if ("refused" in cast) throw new Error(cast.refused)
   expect(there(repo, CODE_AT)).toBe(true)
   expect(cast.shadow.listed()).not.toContain(CODE_AT)
-  expect(cast.shadow.listed("akasha/deep")).toEqual([
-    inside("deep/d.module.carried.jsonl"),
-    inside("deep/d.module.ts"),
-  ])
+  expect(cast.shadow.listed("akasha/deep")).toEqual([inside("deep/d.module.ts")])
 })
 
 test("a caller naming a folder is listed the files sitting in that folder and no others", () => {

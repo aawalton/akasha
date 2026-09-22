@@ -39,7 +39,6 @@ import {
 import { shapesAmong } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { knownIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import {
-  carryingOver,
   type Settling,
   settlingOver,
 } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
@@ -189,14 +188,7 @@ export function refreshedFrom(
     ...referenced.flatMap((one) => one.entries),
     ...walked.flatMap((one) => importedFrom(reading, one.body, one.path, repo, naming)),
   ]
-  const carried = carryingOver(
-    held.map((one) => ({ path: one.path, was: null, now: one.value })),
-    repo
-  )
-  const filedBeside = [
-    ...references,
-    ...[...carried].flatMap(([at, lines]) => lines.map((line) => ({ at, line }))),
-  ]
+  const filedBeside = references
   drift.push(reconcile(hashed, root, put, done))
   drift.push(reconcile(filedBeside, repo, put, done))
   const stale = besideStale(filedBeside, tree, repo, put)

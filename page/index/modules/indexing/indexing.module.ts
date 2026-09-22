@@ -68,10 +68,6 @@ export const indexing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A refresh writes what each page carries beside that page.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A refresh writes the shapes beside every page type page properties are of.",
     },
     {

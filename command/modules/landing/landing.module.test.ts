@@ -121,7 +121,6 @@ const NOTHING_SETTLED: Settling = {
   reading: readingNone(),
   filings: [],
   references: [],
-  carried: new Map(),
   beside: new Map(),
   noted: [],
   refusedBefore: [],
