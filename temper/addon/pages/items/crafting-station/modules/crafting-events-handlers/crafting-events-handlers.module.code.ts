@@ -187,12 +187,12 @@ export function onPlayerActivated(this: void, _eventCode: number, _initial: bool
   hideKnownRecipes(true)
   hideUnknownRecipes(true)
   STATE.Init = true
-  EVENT_MANAGER.UnregisterForEvent("CSEE", EVENT_PLAYER_ACTIVATED)
+  EVENT_MANAGER.UnregisterForEvent("TemperItemsCrafting_Events", EVENT_PLAYER_ACTIVATED)
 }
 
 export function onPlayerDeactivated(this: void, _eventCode: number): undefined {
   updatePlayer(true)
-  EVENT_MANAGER.UnregisterForEvent("CSEE", EVENT_PLAYER_DEACTIVATED)
+  EVENT_MANAGER.UnregisterForEvent("TemperItemsCrafting_Events", EVENT_PLAYER_DEACTIVATED)
 }
 
 export function onChampionPerksSceneStateChange(

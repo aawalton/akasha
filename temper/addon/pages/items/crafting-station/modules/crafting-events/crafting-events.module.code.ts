@@ -147,53 +147,97 @@ export function onAddOnLoaded(this: void): undefined {
 
   SCENE_MANAGER.RegisterTopLevel(TemperItemsCrafting_Panel, false)
   EVENT_MANAGER.RegisterForEvent(
-    "CSEE",
+    "TemperItemsCrafting_Events",
     EVENT_QUEST_CONDITION_COUNTER_CHANGED,
     onQuestConditionCounterChanged
   )
-  EVENT_MANAGER.RegisterForEvent("CSEE", EVENT_RECIPE_LEARNED, onRecipeLearned)
-  EVENT_MANAGER.RegisterForEvent("CSEE", EVENT_STYLE_LEARNED, onStyleLearned)
-  EVENT_MANAGER.RegisterForEvent("CSEE", EVENT_TRADING_HOUSE_RESPONSE_RECEIVED, updateGuildStore)
   EVENT_MANAGER.RegisterForEvent(
-    "CSEE",
+    "TemperItemsCrafting_Events",
+    EVENT_RECIPE_LEARNED,
+    onRecipeLearned
+  )
+  EVENT_MANAGER.RegisterForEvent("TemperItemsCrafting_Events", EVENT_STYLE_LEARNED, onStyleLearned)
+  EVENT_MANAGER.RegisterForEvent(
+    "TemperItemsCrafting_Events",
+    EVENT_TRADING_HOUSE_RESPONSE_RECEIVED,
+    updateGuildStore
+  )
+  EVENT_MANAGER.RegisterForEvent(
+    "TemperItemsCrafting_Events",
     EVENT_SMITHING_TRAIT_RESEARCH_STARTED,
     onSmithingTraitResearchStarted
   )
-  EVENT_MANAGER.RegisterForEvent("CSEE", EVENT_STABLE_INTERACT_END, onStableInteractEnd)
   EVENT_MANAGER.RegisterForEvent(
-    "CSEE",
+    "TemperItemsCrafting_Events",
+    EVENT_STABLE_INTERACT_END,
+    onStableInteractEnd
+  )
+  EVENT_MANAGER.RegisterForEvent(
+    "TemperItemsCrafting_Events",
     EVENT_SMITHING_TRAIT_RESEARCH_COMPLETED,
     onSmithingTraitResearchChange
   )
   EVENT_MANAGER.RegisterForEvent(
-    "CSEE",
+    "TemperItemsCrafting_Events",
     EVENT_SMITHING_TRAIT_RESEARCH_CANCELED,
     onSmithingTraitResearchChange
   )
-  EVENT_MANAGER.RegisterForEvent("CSEE", EVENT_CRAFTING_STATION_INTERACT, onCraftingStationInteract)
-  EVENT_MANAGER.RegisterForEvent("CSEE", EVENT_INVENTORY_FULL_UPDATE, updateBag)
-  EVENT_MANAGER.RegisterForEvent("CSEE", EVENT_CRAFT_COMPLETED, onCraftCompleted)
   EVENT_MANAGER.RegisterForEvent(
-    "CSEE",
+    "TemperItemsCrafting_Events",
+    EVENT_CRAFTING_STATION_INTERACT,
+    onCraftingStationInteract
+  )
+  EVENT_MANAGER.RegisterForEvent(
+    "TemperItemsCrafting_Events",
+    EVENT_INVENTORY_FULL_UPDATE,
+    updateBag
+  )
+  EVENT_MANAGER.RegisterForEvent(
+    "TemperItemsCrafting_Events",
+    EVENT_CRAFT_COMPLETED,
+    onCraftCompleted
+  )
+  EVENT_MANAGER.RegisterForEvent(
+    "TemperItemsCrafting_Events",
     EVENT_END_CRAFTING_STATION_INTERACT,
     onEndCraftingStationInteract
   )
   EVENT_MANAGER.RegisterForEvent(
-    "CSEE",
+    "TemperItemsCrafting_Events",
     EVENT_GAME_CAMERA_UI_MODE_CHANGED,
     onGameCameraUIModeChanged
   )
-  EVENT_MANAGER.RegisterForEvent("CSEE", EVENT_ACTION_LAYER_PUSHED, onActionLayerPushed)
-  EVENT_MANAGER.RegisterForEvent("CSEE", EVENT_NEW_MOVEMENT_IN_UI_MODE, newMovementInUIMode)
-  EVENT_MANAGER.RegisterForEvent("CSEE", EVENT_RETICLE_HIDDEN_UPDATE, onReticleHiddenUpdate)
-  EVENT_MANAGER.RegisterForEvent("CSEE", EVENT_PLAYER_ACTIVATED, onPlayerActivated)
-  EVENT_MANAGER.RegisterForEvent("CSEE", EVENT_PLAYER_DEACTIVATED, onPlayerDeactivated)
   EVENT_MANAGER.RegisterForEvent(
-    "CSEE",
+    "TemperItemsCrafting_Events",
+    EVENT_ACTION_LAYER_PUSHED,
+    onActionLayerPushed
+  )
+  EVENT_MANAGER.RegisterForEvent(
+    "TemperItemsCrafting_Events",
+    EVENT_NEW_MOVEMENT_IN_UI_MODE,
+    newMovementInUIMode
+  )
+  EVENT_MANAGER.RegisterForEvent(
+    "TemperItemsCrafting_Events",
+    EVENT_RETICLE_HIDDEN_UPDATE,
+    onReticleHiddenUpdate
+  )
+  EVENT_MANAGER.RegisterForEvent(
+    "TemperItemsCrafting_Events",
+    EVENT_PLAYER_ACTIVATED,
+    onPlayerActivated
+  )
+  EVENT_MANAGER.RegisterForEvent(
+    "TemperItemsCrafting_Events",
+    EVENT_PLAYER_DEACTIVATED,
+    onPlayerDeactivated
+  )
+  EVENT_MANAGER.RegisterForEvent(
+    "TemperItemsCrafting_Events",
     EVENT_INVENTORY_SINGLE_SLOT_UPDATE,
     timed(onInventorySingleSlotUpdate)
   )
-  EVENT_MANAGER.RegisterForEvent("CSEE", EVENT_MONEY_UPDATE, onMoneyUpdate)
+  EVENT_MANAGER.RegisterForEvent("TemperItemsCrafting_Events", EVENT_MONEY_UPDATE, onMoneyUpdate)
 
   CHAMPION_PERKS_SCENE.RegisterCallback("StateChange", onChampionPerksSceneStateChange)
 
