@@ -8,4 +8,6 @@ export const theTowerBurningAnger = {
   story: "story-played/the-tower",
   character: "character-player/the-tower-alan",
   slot: "item-slot/main-hand",
+  description:
+    "A twin-headed maul of ember-bound iron, a living core clad in its head, a chain at the free end.",
 } as const satisfies Item

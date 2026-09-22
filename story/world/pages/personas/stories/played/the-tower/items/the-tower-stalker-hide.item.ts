@@ -7,4 +7,5 @@ export const theTowerStalkerHide = {
   title: "Stalker hide",
   story: "story-played/the-tower",
   character: "character-player/the-tower-alan",
+  description: "A light, tough, pale hide.",
 } as const satisfies Item

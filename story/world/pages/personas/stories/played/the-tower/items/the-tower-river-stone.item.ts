@@ -7,4 +7,5 @@ export const theTowerRiverStone = {
   title: "River-stone (cold-imbued)",
   story: "story-played/the-tower",
   character: "character-player/the-tower-alan",
+  description: "A smooth dark river-stone holding a crude bind of cold essence.",
 } as const satisfies Item

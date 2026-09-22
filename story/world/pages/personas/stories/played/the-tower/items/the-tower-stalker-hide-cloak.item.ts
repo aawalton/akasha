@@ -8,4 +8,5 @@ export const theTowerStalkerHideCloak = {
   story: "story-played/the-tower",
   character: "character-player/the-tower-alan",
   slot: "item-slot/chest",
+  description: "A pale stalker hide tied loosely round the neck, uncrafted and loose.",
 } as const satisfies Item
