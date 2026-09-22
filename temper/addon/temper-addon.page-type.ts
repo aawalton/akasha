@@ -6,7 +6,6 @@ export const temperAddon = {
   slug: "temper-addon",
   definition: "a thing the game loads out of its AddOns folder",
   parts: [
-    "file-property/git-ignore",
     "file-property/addon-manifest",
     "file-property/bindings",
     "file-property/sibling-manifest",
