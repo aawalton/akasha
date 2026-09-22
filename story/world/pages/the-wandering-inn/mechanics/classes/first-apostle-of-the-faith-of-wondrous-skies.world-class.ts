@@ -6,5 +6,6 @@ export const firstApostleOfTheFaithOfWondrousSkies = {
   slug: "first-apostle-of-the-faith-of-wondrous-skies",
   title: "First Apostle of the Faith of Wondrous Skies",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

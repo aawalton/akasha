@@ -6,6 +6,7 @@ export const general = {
   slug: "general",
   title: "General",
   world: "world/the-wandering-inn",
+  appearanceCount: 297,
   aliases: ["generals"],
   evolvesFromSlugs: ["warrior"],
   references: "jsonl",

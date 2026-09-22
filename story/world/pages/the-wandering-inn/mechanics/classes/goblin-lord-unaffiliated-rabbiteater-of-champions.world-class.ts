@@ -6,5 +6,6 @@ export const goblinLordUnaffiliatedRabbiteaterOfChampions = {
   slug: "goblin-lord-unaffiliated-rabbiteater-of-champions",
   title: "Goblin Lord {Unaffiliated} – “Rabbiteater of Champions”,",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

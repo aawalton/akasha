@@ -6,6 +6,7 @@ export const fighterPilot = {
   slug: "fighter-pilot",
   title: "Fighter Pilot",
   world: "world/the-wandering-inn",
+  appearanceCount: 10,
   aliases: ["FIGHTER PILOT"],
   evolvesToSlugs: ["wartouched-fighter-pilot"],
   references: "jsonl",

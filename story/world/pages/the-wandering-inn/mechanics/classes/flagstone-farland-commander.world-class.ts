@@ -6,5 +6,6 @@ export const flagstoneFarlandCommander = {
   slug: "flagstone-farland-commander",
   title: "Flagstone Farland Commander",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

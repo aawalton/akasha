@@ -6,5 +6,6 @@ export const gemstoneAdministrator = {
   slug: "gemstone-administrator",
   title: "Gemstone Administrator",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

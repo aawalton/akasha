@@ -6,5 +6,6 @@ export const floristLevel19FloristLevel16 = {
   slug: "florist-level-19-florist-level-16",
   title: "Florist Level 19 → Florist Level 16.",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

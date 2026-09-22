@@ -6,6 +6,7 @@ export const fatebreakerChild = {
   slug: "fatebreaker-child",
   title: "Fatebreaker Child",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   evolvesFromSlugs: ["emberbearer"],
   references: "jsonl",
 } as const satisfies WorldClass

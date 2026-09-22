@@ -6,5 +6,6 @@ export const generalOfWillWardchildOfTheSavior = {
   slug: "general-of-will-wardchild-of-the-savior",
   title: "General of Will, Wardchild of the Savior",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

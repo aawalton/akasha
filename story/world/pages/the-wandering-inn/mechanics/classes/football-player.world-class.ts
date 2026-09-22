@@ -6,6 +6,7 @@ export const footballPlayer = {
   slug: "football-player",
   title: "Football Player",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesFromSlugs: ["kicker"],
   references: "jsonl",
 } as const satisfies WorldClass
