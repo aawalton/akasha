@@ -359,7 +359,6 @@
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/wandering-inn-wiki.domain.ts","id":"01a0b79b-285f-7808-bb33-c1a4368acf58"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-reader/innworld-reader.module.ts","id":"01a0c5fb-f556-72d8-af41-7464e370af1a"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-visitor/innworld-visitor.module.ts","id":"01a0c66a-55f9-793b-99d9-b3d8617e6db8"}
-{"propertySlug":"decision-kind","path":"story/game/properties/states.file-property.ts","id":"01a0673c-8e0e-7016-9a4f-051e3200a488"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/addon-banned-symbols/addon-banned-symbols.module.ts","id":"01a06365-e827-7002-bfdd-914c6a139782"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/addon-dependency-cycle/addon-dependency-cycle.module.ts","id":"01a06297-7f6a-7306-9a6f-acca84ccb4b8"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/addon-dependency-floor/addon-dependency-floor.module.ts","id":"01a06297-7f6a-7664-ac3d-ea7ecf537e2f"}

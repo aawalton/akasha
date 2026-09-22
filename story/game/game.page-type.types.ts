@@ -8,9 +8,7 @@ import type { CoordinatorAgent } from "akasha/story/game/properties/coordinator-
 import type { CurrentSession } from "akasha/story/game/properties/current-session.number-property.types.ts"
 import type { DesignEntries } from "akasha/story/game/properties/design-entries.file-property.types.ts"
 import type { DisplayConfig } from "akasha/story/game/properties/display-config.file-property.types.ts"
-import type { Entities } from "akasha/story/game/properties/entities.file-property.types.ts"
 import type { GameAttributes } from "akasha/story/game/properties/game-attributes.relation-property.types.ts"
-import type { GameCharacters } from "akasha/story/game/properties/game-characters.file-property.types.ts"
 import type { GameDefaultDice } from "akasha/story/game/properties/game-default-dice.relation-property.types.ts"
 import type { GameEngine } from "akasha/story/game/properties/game-engine.text-property.types.ts"
 import type { GameMechanics } from "akasha/story/game/properties/game-mechanics.relation-property.types.ts"
@@ -28,12 +26,8 @@ import type { Resolution } from "akasha/story/game/properties/resolution.select-
 import type { ResolutionMechanism } from "akasha/story/game/properties/resolution-mechanism.file-property.types.ts"
 import type { Rolls } from "akasha/story/game/properties/rolls.file-property.types.ts"
 import type { Rulebook } from "akasha/story/game/properties/rulebook.file-property.types.ts"
-import type { States } from "akasha/story/game/properties/states.file-property.types.ts"
 import type { Themes } from "akasha/story/game/properties/themes.text-property.types.ts"
 import type { Tone } from "akasha/story/game/properties/tone.text-property.types.ts"
-import type { TowerFloors } from "akasha/story/game/properties/tower-floors.file-property.types.ts"
-import type { TowerSessions } from "akasha/story/game/properties/tower-sessions.file-property.types.ts"
-import type { Turns } from "akasha/story/game/properties/turns.file-property.types.ts"
 
 export type Game = Collection & {
   title: Title
@@ -55,15 +49,9 @@ export type Game = Collection & {
   narrativeContinuity?: NarrativeContinuity
   rulebook?: Rulebook
   resolutionMechanism?: ResolutionMechanism
-  turns?: Turns
-  entities?: Entities
-  states?: States
   rolls?: Rolls
-  characters?: GameCharacters
   loreEntries?: LoreEntries
   designEntries?: DesignEntries
-  towerFloors?: TowerFloors
-  towerSessions?: TowerSessions
   mechanics?: GameMechanics
   attributes?: GameAttributes
   cardVocabulary?: CardVocabulary

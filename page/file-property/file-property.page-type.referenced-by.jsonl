@@ -118,8 +118,6 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/config.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/design-entries.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/display-config.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/entities.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/game-characters.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/gm-context.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/lore-entries.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/mechanic-runs.file-property.ts"}
@@ -127,10 +125,6 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/resolution-mechanism.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/rolls.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/rulebook.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/states.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/tower-floors.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/tower-sessions.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/turns.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/arc-structure.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/story-premise.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/stories/played/elements/properties/turn-states.file-property.ts"}

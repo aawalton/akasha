@@ -14,18 +14,12 @@ export const game = {
     "file-property/config",
     "file-property/design-entries",
     "file-property/display-config",
-    "file-property/entities",
-    "file-property/game-characters",
     "file-property/gm-context",
     "file-property/lore-entries",
     "file-property/narrative-continuity",
     "file-property/resolution-mechanism",
     "file-property/rolls",
     "file-property/rulebook",
-    "file-property/states",
-    "file-property/tower-floors",
-    "file-property/tower-sessions",
-    "file-property/turns",
     "number-property/current-session",
     "select-property/controlled-entity-kind",
     "select-property/mechanics-weight",
@@ -77,15 +71,9 @@ export const game = {
     { pageProperty: "file-property/narrative-continuity", required: false, many: false },
     { pageProperty: "file-property/rulebook", required: false, many: false },
     { pageProperty: "file-property/resolution-mechanism", required: false, many: false },
-    { pageProperty: "file-property/turns", required: false, many: false },
-    { pageProperty: "file-property/entities", required: false, many: false },
-    { pageProperty: "file-property/states", required: false, many: false },
     { pageProperty: "file-property/rolls", required: false, many: false },
-    { pageProperty: "file-property/game-characters", required: false, many: false },
     { pageProperty: "file-property/lore-entries", required: false, many: false },
     { pageProperty: "file-property/design-entries", required: false, many: false },
-    { pageProperty: "file-property/tower-floors", required: false, many: false },
-    { pageProperty: "file-property/tower-sessions", required: false, many: false },
     {
       pageProperty: "relation-property/game-mechanics",
       required: false,
@@ -136,11 +124,6 @@ export const game = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A game character is a character a player runs rather than a character the game runs.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A turn is numbered within its game.",
     },
     {
@@ -149,7 +132,8 @@ export const game = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A state has the world as revealed rather than everything the game knows.",
+      statement:
+        "The interface draws what play has revealed rather than everything the game knows.",
     },
     {
       decisionKind: "decision-kind/departure",

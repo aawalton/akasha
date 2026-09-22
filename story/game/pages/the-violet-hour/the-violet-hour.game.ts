@@ -14,7 +14,5 @@ export const theVioletHour = {
   resolution: "none",
   displayConfig: "json",
   gmContext: "json",
-  turns: "jsonl",
-  entities: "jsonl",
   panels: ["game-panel/prose-channel"],
 } as const satisfies Game

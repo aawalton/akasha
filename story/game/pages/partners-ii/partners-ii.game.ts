@@ -24,9 +24,6 @@ export const partnersIi = {
   narrativeContinuity: "json",
   rulebook: "json",
   resolutionMechanism: "json",
-  turns: "jsonl",
-  entities: "jsonl",
-  states: "jsonl",
   panels: [
     "game-panel/aravel-hud",
     "game-panel/character-sheet",

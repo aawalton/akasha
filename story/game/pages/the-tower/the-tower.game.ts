@@ -16,13 +16,7 @@ export const theTower = {
   displayConfig: "json",
   gmContext: "json",
   resolutionMechanism: "json",
-  turns: "jsonl",
-  entities: "jsonl",
-  states: "jsonl",
   rolls: "jsonl",
-  characters: "jsonl",
-  towerFloors: "jsonl",
-  towerSessions: "jsonl",
   mechanics: [
     "game-mechanic/focus-max",
     "game-mechanic/hp-max",

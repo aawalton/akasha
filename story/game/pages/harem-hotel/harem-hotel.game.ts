@@ -24,9 +24,6 @@ export const haremHotel = {
   gmContext: "json",
   narrativeContinuity: "json",
   resolutionMechanism: "json",
-  turns: "jsonl",
-  entities: "jsonl",
-  states: "jsonl",
   rolls: "jsonl",
   mechanics: [
     "game-mechanic/affinity-ladder",
