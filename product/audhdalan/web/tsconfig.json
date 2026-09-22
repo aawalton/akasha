@@ -30,8 +30,7 @@
     ".react-router/types/**/+types/*.ts",
     "server.ts",
     "vite.config.ts",
-    "react-router.config.ts",
-    "tunnel-routes.ts"
+    "react-router.config.ts"
   ],
   "exclude": ["node_modules", "dist", "build"]
 }
