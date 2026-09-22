@@ -10,7 +10,7 @@ interface TemperHudField {
   compute: (this: void) => TemperHudCell
 }
 
-interface TemperHudApi {
+interface TemperApi {
   registerField: (this: void, field: TemperHudField) => undefined
   refresh: (this: void) => undefined
   isReady: (this: void) => boolean
@@ -32,4 +32,4 @@ interface TemperHudApi {
   ) => undefined
 }
 
-declare var Temper: TemperHudApi | undefined
+declare var Temper: TemperApi | undefined
