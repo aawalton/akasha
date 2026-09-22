@@ -6,5 +6,5 @@ export const debuffs = {
   slug: "debuffs",
   title: "Debuffs",
   displayOrder: 14,
-  categoryId: "debuffs",
+  key: "debuffs",
 } as const satisfies TemperSourceCategory

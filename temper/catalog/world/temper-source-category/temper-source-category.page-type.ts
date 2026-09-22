@@ -7,9 +7,10 @@ export const temperSourceCategory = {
   definition: "a group holding the sources of a character's numbers",
   extends: ["page-type/temper-catalog-thing"],
   properties: [
-    { pageProperty: "text-property/category-id", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",
+  parts: [],
 } as const satisfies PageType

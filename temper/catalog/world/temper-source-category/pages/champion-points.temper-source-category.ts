@@ -6,5 +6,5 @@ export const championPoints = {
   slug: "champion-points",
   title: "Champion Points",
   displayOrder: 11,
-  categoryId: "champion-points",
+  key: "champion-points",
 } as const satisfies TemperSourceCategory

@@ -6,5 +6,5 @@ export const target = {
   slug: "target",
   title: "Target",
   displayOrder: 15,
-  categoryId: "target",
+  key: "target",
 } as const satisfies TemperSourceCategory

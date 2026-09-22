@@ -6,5 +6,5 @@ export const companionWeapons = {
   slug: "companion-weapons",
   title: "Companion Weapons",
   displayOrder: 21,
-  categoryId: "companion-weapons",
+  key: "companion-weapons",
 } as const satisfies TemperSourceCategory

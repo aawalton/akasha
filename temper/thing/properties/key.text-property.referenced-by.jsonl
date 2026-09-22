@@ -60,6 +60,7 @@
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/world/temper-dungeon/temper-dungeon.page-type.types.ts"}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.types.ts"}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/world/temper-race/temper-race.page-type.types.ts"}
+{"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.types.ts"}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/character/temper-skill-point/temper-skill-point.page-type.types.ts"}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.types.ts"}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-activity-category/temper-activity-category.page-type.types.ts"}
@@ -130,6 +131,7 @@
 {"propertySlug":"page-property","path":"temper/catalog/world/temper-dungeon/temper-dungeon.page-type.ts","id":"01a05fc4-7a8e-73b2-936f-9e3b86b17549"}
 {"propertySlug":"page-property","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.ts","id":"01a05fc4-7a8f-792b-b559-e6c98c4ec4bb"}
 {"propertySlug":"page-property","path":"temper/catalog/world/temper-race/temper-race.page-type.ts","id":"01a05fc4-7a95-7a17-b702-bdb4627956d0"}
+{"propertySlug":"page-property","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.ts","id":"01a05fc4-7a95-78b9-afe6-0a16b2b185e3"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-skill-point/temper-skill-point.page-type.ts","id":"01a05fcd-f559-75c5-bd78-0041c552d484"}
 {"propertySlug":"page-property","path":"temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts","id":"01a05fcb-fd2c-79e2-b426-908dcfb8bf4a"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-activity-category/temper-activity-category.page-type.ts","id":"01a05fc9-9a01-773d-b715-ed0cbfa91604"}

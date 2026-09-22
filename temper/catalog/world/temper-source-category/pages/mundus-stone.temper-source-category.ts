@@ -6,5 +6,5 @@ export const mundusStone = {
   slug: "mundus-stone",
   title: "Mundus Stone",
   displayOrder: 10,
-  categoryId: "mundus",
+  key: "mundus",
 } as const satisfies TemperSourceCategory
