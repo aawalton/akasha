@@ -4,7 +4,7 @@ export const greatCourse = {
   id: "01a06574-0291-7002-a1fa-cbd1f9cc0fb4",
   type: "page-type/page-type",
   slug: "great-course",
-  definition: "a course Alan is taught by",
+  definition: "a course teaching Alan",
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   decisions: [

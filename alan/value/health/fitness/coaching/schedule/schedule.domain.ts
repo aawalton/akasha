@@ -4,7 +4,7 @@ export const schedule = {
   id: "01a09246-d96b-7ff6-ae74-578fb2f6c30a",
   type: "page-type/domain",
   slug: "schedule",
-  definition: "the rotation Alan's training repeats on",
+  definition: "Alan's training rotation",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "schedule" },
     { partOfSpeech: "part-of-speech/noun", spelling: "schedules" },

@@ -5,7 +5,7 @@ export const label = {
   type: "page-type/text-property",
   slug: "label",
   propertySlug: "label",
-  definition: "the name a reading is shown under",
+  definition: "a reading's name",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

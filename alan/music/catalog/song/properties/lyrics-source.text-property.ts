@@ -5,7 +5,7 @@ export const lyricsSource = {
   type: "page-type/text-property",
   slug: "lyrics-source",
   propertySlug: "lyrics-source",
-  definition: "the provider the words of a song were fetched from",
+  definition: "the provider of a song's words",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

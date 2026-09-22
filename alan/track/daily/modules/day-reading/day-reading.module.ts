@@ -4,7 +4,7 @@ export const dayReading = {
   id: "01a072fc-7da2-7b59-939d-ab395d803995",
   type: "page-type/module",
   slug: "day-reading",
-  definition: "one of Alan's days, read off the akasha page that day is kept on",
+  definition: "one of Alan's days, read off that day's akasha page",
   code: "ts",
   decisions: [
     {

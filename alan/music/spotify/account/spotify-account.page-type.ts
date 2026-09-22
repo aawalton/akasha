@@ -4,7 +4,7 @@ export const spotifyAccount = {
   id: "01a0b6dc-93a1-71ed-a64b-4bd0ff99df66",
   type: "page-type/page-type",
   slug: "spotify-account",
-  definition: "the account the music commands reach Spotify through",
+  definition: "the music commands' Spotify account",
   extends: ["page-type/page"],
   parts: [
     "instant-property/spotify-account-retry-allowed-at",

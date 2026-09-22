@@ -4,7 +4,7 @@ export const calendarAuth = {
   id: "01a05c02-c734-78ed-a826-ea774f206b33",
   type: "page-type/module",
   slug: "calendar-auth",
-  definition: "the client a calendar call is made through",
+  definition: "a calendar call's client",
   code: "ts",
   decisions: [
     {

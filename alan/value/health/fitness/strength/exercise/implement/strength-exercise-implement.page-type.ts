@@ -4,7 +4,7 @@ export const strengthExerciseImplement = {
   id: "01a09412-00c5-7bbd-ba9c-61f0608a646c",
   type: "page-type/page-type",
   slug: "strength-exercise-implement",
-  definition: "a class of kit a movement is loaded with",
+  definition: "a class of kit loading a movement",
   extends: ["page-type/domain"],
   parts: [
     "strength-exercise-implement/bands",

@@ -4,7 +4,7 @@ export const cutFingerprint = {
   id: "01a05fab-665d-7f4c-bb6b-46467c1b1df8",
   type: "page-type/module",
   slug: "cut-fingerprint",
-  definition: "the fingerprint a taken cut is remembered by",
+  definition: "a taken cut's fingerprint",
   code: "ts",
   test: "ts",
   decisions: [

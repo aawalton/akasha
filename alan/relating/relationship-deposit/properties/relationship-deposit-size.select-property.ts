@@ -5,7 +5,7 @@ export const relationshipDepositSize = {
   type: "page-type/select-property",
   slug: "relationship-deposit-size",
   propertySlug: "relationship-deposit-size",
-  definition: "how much it put in",
+  definition: "the size of a deposit",
   values: ["small", "medium", "large"],
   types: "ts",
 } as const satisfies SelectProperty

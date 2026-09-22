@@ -5,7 +5,7 @@ export const account = {
   type: "page-type/relation-property",
   slug: "account",
   propertySlug: "account",
-  definition: "the account a holding or a transaction sits under",
+  definition: "a holding's or a transaction's account",
   targetPageType: "page-type/monarch-account",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const isbn = {
   type: "page-type/text-property",
   slug: "isbn",
   propertySlug: "isbn",
-  definition: "the ten-character number an edition was catalogued under",
+  definition: "an edition's ten-character catalogue number",
   maxLength: 10,
   nameFormat: null,
   types: "ts",

@@ -5,7 +5,7 @@ export const requestsHandoverSite = {
   type: "page-type/module",
   slug: "requests-handover-site",
   definition:
-    "what the Requests site is called in a handover, where it answers, and the key it signs with",
+    "what the Requests site is called in a handover, where it answers, and its signing key",
   code: "ts",
   decisions: [
     {

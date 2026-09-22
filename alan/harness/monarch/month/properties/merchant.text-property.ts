@@ -5,7 +5,7 @@ export const merchant = {
   type: "page-type/text-property",
   slug: "merchant",
   propertySlug: "merchant",
-  definition: "who or what a transaction was with",
+  definition: "a transaction's other party",
   maxLength: 200,
   nameFormat: null,
   decisions: [
