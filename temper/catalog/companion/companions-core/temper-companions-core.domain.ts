@@ -88,12 +88,11 @@ export const temperCompanionsCore = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every table here is written out from the companion pages rather than by hand.",
+      statement: "A companion skill and the line it belongs to are read from their own pages.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The generator that writes these tables outside akasha reads the same companion pages.",
+      decisionKind: "decision-kind/stopgap",
+      statement: "Every other table here is written by hand and answers to no page.",
     },
   ],
 } as const satisfies Domain
