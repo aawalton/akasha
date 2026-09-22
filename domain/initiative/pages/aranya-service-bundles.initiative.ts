@@ -10,7 +10,7 @@ export const aranyaServiceBundles = {
     {
       statement: "No workstation service runs from a pinned tree.",
       workingMemory:
-        "A service is built to one file at `~/.local/state/workstation-services/<slug>/<commit>.js`, and its unit execs that file. `LAUNCHED_FROM_BUNDLE` in `service-bundling` names who has moved. A deploy builds every named slug before it plans a unit, and refuses whole where one will not build. `unit-landing` skips a slug in that set, or an apply would rewrite the unit back to the tree command. `.git/trees/service-workstation` remains until the fleet is proven, because it is the way back.",
+        "All 59 units name their bundle at `~/.local/state/workstation-services/<slug>/<commit>.js`: 118 bundles, 1.9 GB, two per service. `service-telling@.service` is a template and still names the tree. Left: 15 hourly timers have never been watched ticking from a bundle, three daemons still hold a tree process, then `deploy-tree-pinning` retires and the tree goes. A bundle resolves a bare dynamic import against its own directory, so a non-literal `import()` breaks only on the branch reaching it.",
     },
     {
       statement: "A deploy is judged over what the one service it puts up is built from.",
