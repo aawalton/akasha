@@ -5,7 +5,7 @@ export const sentFrom = {
   type: "page-type/relation-property",
   slug: "sent-from",
   propertySlug: "from",
-  definition: "the persona something is sent by",
+  definition: "the persona sending something",
   targetPageType: "page-type/persona",
   types: "ts",
 } as const satisfies RelationProperty

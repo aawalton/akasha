@@ -4,7 +4,7 @@ export const catalogueSlug = {
   id: "01a06262-ff4c-7001-86ff-443d16400dc0",
   type: "page-type/module",
   slug: "catalogue-slug",
-  definition: "the name a page in the catalogue is reached by",
+  definition: "a catalogue page's name",
   code: "ts",
   test: "ts",
   decisions: [

@@ -5,7 +5,7 @@ export const matchValues = {
   type: "page-type/text-property",
   slug: "match-values",
   propertySlug: "values",
-  definition: "what a clause holds to weigh a transaction against",
+  definition: "the values a clause weighs against a transaction",
   maxLength: 200,
   nameFormat: null,
   decisions: [

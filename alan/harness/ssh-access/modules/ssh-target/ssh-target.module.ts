@@ -4,7 +4,7 @@ export const sshTarget = {
   id: "01a05c2f-0f03-7a96-92f5-8ad7d60942cc",
   type: "page-type/module",
   slug: "ssh-target",
-  definition: "the machine a script is run on, and the key it is reached with",
+  definition: "the machine running a script, and that machine's key",
   code: "ts",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const titleKey = {
   type: "page-type/text-property",
   slug: "title-key",
   propertySlug: "title-key",
-  definition: "the text a track title and an artist name are matched by",
+  definition: "the text matching a track title and an artist name",
   maxLength: 200,
   nameFormat: null,
   decisions: [

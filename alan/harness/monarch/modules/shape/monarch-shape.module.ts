@@ -4,7 +4,7 @@ export const monarchShape = {
   id: "01a0685f-4ed8-7f56-8b0b-c5eb38474e06",
   type: "page-type/module",
   slug: "monarch-shape",
-  definition: "the reader saying what an untyped value is, refusing it by the path it stands at",
+  definition: "the reader saying what an untyped value is, refusing it by its path",
   code: "ts",
   test: "ts",
   decisions: [

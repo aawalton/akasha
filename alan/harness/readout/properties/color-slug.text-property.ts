@@ -5,7 +5,7 @@ export const colorSlug = {
   type: "page-type/text-property",
   slug: "color-slug",
   propertySlug: "color-slug",
-  definition: "the color a reading is always drawn in",
+  definition: "a reading's fixed color",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

@@ -5,7 +5,7 @@ export const shellSha = {
   type: "page-type/text-property",
   slug: "shell-sha",
   propertySlug: "shell-sha",
-  definition: "the commit of the app shell a cut was built from",
+  definition: "a cut's app shell commit",
   maxLength: 40,
   nameFormat: null,
   decisions: [

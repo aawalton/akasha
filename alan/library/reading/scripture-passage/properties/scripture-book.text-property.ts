@@ -5,7 +5,7 @@ export const scriptureBook = {
   type: "page-type/text-property",
   slug: "scripture-book",
   propertySlug: "book",
-  definition: "the book of scripture a passage is in",
+  definition: "a passage's book of scripture",
   maxLength: 100,
   nameFormat: null,
   decisions: [

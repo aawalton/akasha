@@ -5,7 +5,7 @@ export const dailyTracking = {
   type: "page-type/text-property",
   slug: "daily-tracking",
   propertySlug: "daily-tracking",
-  definition: "the day a stretch of time was part of",
+  definition: "the day holding a stretch of time",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
   decisions: [
