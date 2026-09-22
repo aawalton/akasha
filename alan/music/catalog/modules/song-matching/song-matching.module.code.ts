@@ -102,7 +102,7 @@ export function artistByRelease(root: string): ReadonlyMap<string, string> {
   return byRelease
 }
 
-export function artistCredited(value: Value): string | null {
+function artistCredited(value: Value): string | null {
   const first = recordsIn(value[TRACK_ARTIST])[0]
   const name = first === undefined ? null : textIn(first, "artistName")
   return name === null || name.trim() === "" ? null : artistSlugOf(name)

@@ -87,7 +87,7 @@ async function codeMinted(root: string, contributor: string, challenge: string):
   }
 }
 
-export function cookieIn(said: string, domain: string): Cookie | null {
+function cookieIn(said: string, domain: string): Cookie | null {
   const parts = said.split(";")
   const first = parts[0]
   if (first === undefined) return null

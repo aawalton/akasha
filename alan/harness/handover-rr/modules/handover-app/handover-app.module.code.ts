@@ -3,9 +3,9 @@ import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.modul
 
 export const APP_AUDIENCE = "com.alanwalton.app"
 
-export const APP_SCHEME = "alanwalton"
+const APP_SCHEME = "alanwalton"
 
-export const APP_LANDING_HOST = "handover"
+const APP_LANDING_HOST = "handover"
 
 export const APP_MINT_PATH = "/handover/app"
 

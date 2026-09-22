@@ -38,7 +38,7 @@ function importedFrom(paged: Paged, one: Gathered): boolean {
   return false
 }
 
-export function unreachedIn(whole: Whole): readonly Gathered[] {
+function unreachedIn(whole: Whole): readonly Gathered[] {
   const { root, listed, paged, read } = whole
   const gathered = modulesIn(whole.taken, listed, paged, read)
   const unimported = gathered.filter((one) => !importedFrom(paged, one))
@@ -56,7 +56,7 @@ export function unreachedIn(whole: Whole): readonly Gathered[] {
   return unspelled.filter((one) => !named.has(one.page))
 }
 
-export function reasonFor(one: Gathered): string {
+function reasonFor(one: Gathered): string {
   return (
     `no file imports \`${one.slug}\`, its code declares no entry point,` +
     ` no bundle entry point reaches it, no other file spells its slug` +
@@ -68,11 +68,7 @@ function landedFilesOf(one: Gathered): readonly string[] {
   return one.files.filter((two) => !uncommittedHeld(two))
 }
 
-export function sparingNew(
-  root: string,
-  found: readonly Gathered[],
-  now: number
-): readonly Gathered[] {
+function sparingNew(root: string, found: readonly Gathered[], now: number): readonly Gathered[] {
   if (found.length === 0) return found
   const rows: Judged[] = []
   for (const one of found) {

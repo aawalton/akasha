@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-export const sentenceMarkSchema = z
+const sentenceMarkSchema = z
   .object({
     sentenceIndex: z.number().int().nonnegative(),
     startSec: z.number().nonnegative(),

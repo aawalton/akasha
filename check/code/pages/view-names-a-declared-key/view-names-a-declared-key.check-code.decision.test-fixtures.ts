@@ -13,7 +13,7 @@ import { viewPageType } from "akasha/page/view/properties/view-page-type.relatio
 
 export const TEXT = "text-property"
 
-export const RECORD = "record-property"
+const RECORD = "record-property"
 
 export const VIEW = "view"
 

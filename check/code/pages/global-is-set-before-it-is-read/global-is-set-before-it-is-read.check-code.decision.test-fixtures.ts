@@ -43,15 +43,15 @@ const PAD = "0"
 
 export const scratch = scratchWorld()
 
-export const FOLDER = "akasha/pages/one"
+const FOLDER = "akasha/pages/one"
 
 export const ADDON_AT = `${FOLDER}/${ONE}.${ADDON}.ts`
 
-export const IDS_AT = `${FOLDER}/${IDS}/${IDS}.${DECLARATION}.d.ts`
+const IDS_AT = `${FOLDER}/${IDS}/${IDS}.${DECLARATION}.d.ts`
 
 const IDS_PAGE_AT = `${FOLDER}/${IDS}/${IDS}.${DECLARATION}.ts`
 
-export function moduleAt(slug: string): string {
+function moduleAt(slug: string): string {
   return `${FOLDER}/modules/${slug}/${slug}.${MODULE}.code.ts`
 }
 
@@ -71,7 +71,7 @@ export const MAIN_AT = moduleAt("main")
 
 export const OUTSIDE_AT = "akasha/shared/outside/outside.module.code.ts"
 
-export const DECLARES = `declare const ONE_ARENA: number
+const DECLARES = `declare const ONE_ARENA: number
 declare const ONE_DUNGEON: number
 declare const ONE_LOOSE: number
 declare const ONE_ROW: number
@@ -145,7 +145,7 @@ function slugsIn(bodies: Readonly<Record<string, string>>): readonly string[] {
   return found
 }
 
-export function rooted(bodies: Readonly<Record<string, string>>, entry = "main"): string {
+function rooted(bodies: Readonly<Record<string, string>>, entry = "main"): string {
   const root = scratch.rootFor("akasha-global-set-")
   nothingFiled(root)
   graphed(root)

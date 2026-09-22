@@ -193,7 +193,7 @@ export async function wroteWith(
   return await applied(root, await landedFrom(argv, given), argv, given)
 }
 
-export async function drafting(
+async function drafting(
   root: string,
   said: readonly string[],
   body: string = PROPOSED,

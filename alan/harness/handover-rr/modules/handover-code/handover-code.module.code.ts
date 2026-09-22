@@ -3,11 +3,11 @@ import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/requi
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { importPKCS8, importSPKI, type JWTPayload, jwtVerify, SignJWT } from "jose"
 
-export const HANDOVER_ALG = "EdDSA"
+const HANDOVER_ALG = "EdDSA"
 
 export const HANDOVER_ISSUER = "https://alanwalton.com"
 
-export const CODE_SECONDS = 30
+const CODE_SECONDS = 30
 
 export const CODE_SECONDS_CEILING = 60
 

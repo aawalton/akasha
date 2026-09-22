@@ -4,9 +4,9 @@ import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/requi
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { type Cookie, createCookie } from "react-router"
 
-export const SESSION_COOKIE_NAME = "__Host-handover"
+const SESSION_COOKIE_NAME = "__Host-handover"
 
-export const SESSION_SECONDS = 60 * 60 * 24 * 14
+const SESSION_SECONDS = 60 * 60 * 24 * 14
 
 const AHEAD_SECONDS = 60
 
@@ -17,7 +17,7 @@ export type HandoverHeld = {
 
 const made = new Map<string, Cookie>()
 
-export function sessionCookie(site: HandoverSite): Cookie {
+function sessionCookie(site: HandoverSite): Cookie {
   const held = made.get(site.name)
   if (held !== undefined) return held
   const cookie = createCookie(SESSION_COOKIE_NAME, {
@@ -32,7 +32,7 @@ export function sessionCookie(site: HandoverSite): Cookie {
   return cookie
 }
 
-export function heldIn(value: unknown): HandoverHeld | null {
+function heldIn(value: unknown): HandoverHeld | null {
   if (value === null || typeof value !== "object") return null
   const said = value as { readonly contributor?: unknown; readonly issuedAt?: unknown }
   const contributor = textIn(said.contributor)

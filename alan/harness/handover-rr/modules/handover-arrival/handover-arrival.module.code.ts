@@ -9,7 +9,7 @@ import {
 import { safeInternalPath } from "akasha/page/url/modules/safe-target/safe-target.module.code.ts"
 import { redirect } from "react-router"
 
-export function returnPathIn(site: HandoverSite, asked: string | null): string {
+function returnPathIn(site: HandoverSite, asked: string | null): string {
   if (asked === null || asked === "") return site.homePath
   const inside = safeInternalPath(asked)
   if (inside === null) return site.homePath
@@ -28,7 +28,7 @@ export function signInAt(site: HandoverSite, request: Request): string {
 const UNREADABLE =
   "That sign-in code could not be read. It may have expired. Start again from the site you meant to reach."
 
-export function codeUnreadable(): Response {
+function codeUnreadable(): Response {
   return new Response(UNREADABLE, {
     status: 400,
     headers: { "content-type": "text/plain; charset=utf-8" },

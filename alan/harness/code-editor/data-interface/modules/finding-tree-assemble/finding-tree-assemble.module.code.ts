@@ -28,7 +28,7 @@ export type Found = {
   readonly said: string
 }
 
-export function findingsIn(given: string | Reading): readonly Found[] {
+function findingsIn(given: string | Reading): readonly Found[] {
   const found: Found[] = []
   for (const one of valuesOfType(readingIn(given), FINDING)) {
     const parted = partedIn(one.path)

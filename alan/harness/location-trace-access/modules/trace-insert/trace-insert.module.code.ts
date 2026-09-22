@@ -46,7 +46,7 @@ export interface TraceNamed {
   readonly capturedAt: string
 }
 
-export function instantMs(iso: string): number {
+function instantMs(iso: string): number {
   const ms = Date.parse(iso)
   if (Number.isNaN(ms)) {
     throw new Error(`location-traces: unparseable instant ${JSON.stringify(iso)}`)
@@ -136,7 +136,7 @@ function messageFor(path: string, inserted: number): string {
   return `${String(inserted)} trace(s) filed in ${path}`
 }
 
-export async function landDay(
+async function landDay(
   path: string,
   held: Held,
   reading: ReadingFor = readingFor,

@@ -58,7 +58,7 @@ export type Carriage = {
 
 export type Wanting = (track: Value) => boolean
 
-export function namedUnder(held: unknown, under: string): string | null {
+function namedUnder(held: unknown, under: string): string | null {
   if (!Array.isArray(held)) return null
   for (const one of held) {
     if (typeof one === "string" && one.startsWith(under)) return one.slice(under.length)
@@ -70,7 +70,7 @@ export function heard(value: Value): boolean {
   return textIn(value, STATUS) === COMPLETED
 }
 
-export function releasesIn(releases: readonly Value[]): ReadonlyMap<string, Came> {
+function releasesIn(releases: readonly Value[]): ReadonlyMap<string, Came> {
   const held = new Map<string, Came>()
   for (const one of releases) {
     const slug = textIn(one, "slug")
@@ -81,7 +81,7 @@ export function releasesIn(releases: readonly Value[]): ReadonlyMap<string, Came
   return held
 }
 
-export function carriageIn(value: Value): readonly Carriage[] {
+function carriageIn(value: Value): readonly Carriage[] {
   const rows: Carriage[] = []
   for (const one of recordsIn(value[CARRIED_BY])) {
     const named = textIn(one, RELEASE)
@@ -97,7 +97,7 @@ export function carriageIn(value: Value): readonly Carriage[] {
   return rows
 }
 
-export function heldOver(
+function heldOver(
   tracks: readonly Value[],
   byRelease: ReadonlyMap<string, Came>,
   followed: ReadonlySet<string>,
@@ -129,14 +129,14 @@ export function heldOver(
   return rows
 }
 
-export function byPublished(mine: string | null, theirs: string | null): number {
+function byPublished(mine: string | null, theirs: string | null): number {
   if (mine === theirs) return 0
   if (mine === null) return 1
   if (theirs === null) return -1
   return mine < theirs ? -1 : 1
 }
 
-export function ordered(rows: readonly Held[]): readonly Held[] {
+function ordered(rows: readonly Held[]): readonly Held[] {
   return [...rows].sort((a, b) => {
     const came = byPublished(a.publishedAt, b.publishedAt)
     if (came !== 0) return came
@@ -151,7 +151,7 @@ export function ordered(rows: readonly Held[]): readonly Held[] {
   })
 }
 
-export function byArtistIn(rows: readonly Held[]): ReadonlyMap<string, readonly Picked[]> {
+function byArtistIn(rows: readonly Held[]): ReadonlyMap<string, readonly Picked[]> {
   const taken = new Set<string>()
   const held = new Map<string, Picked[]>()
   for (const one of ordered(rows)) {
@@ -165,9 +165,7 @@ export function byArtistIn(rows: readonly Held[]): ReadonlyMap<string, readonly 
   return held
 }
 
-export function artistAfterArtist(
-  byArtist: ReadonlyMap<string, readonly Picked[]>
-): readonly Picked[] {
+function artistAfterArtist(byArtist: ReadonlyMap<string, readonly Picked[]>): readonly Picked[] {
   const rows: Picked[] = []
   for (const one of [...byArtist.keys()].sort()) rows.push(...(byArtist.get(one) ?? []))
   return rows

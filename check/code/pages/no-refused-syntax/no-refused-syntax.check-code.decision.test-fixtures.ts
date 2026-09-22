@@ -75,7 +75,7 @@ function bytesOf(text: string | null): Uint8Array | null {
   return text === null ? null : new TextEncoder().encode(text)
 }
 
-export function changing(root: string, before: string | null, after: string | null): Change {
+function changing(root: string, before: string | null, after: string | null): Change {
   return {
     root,
     changed: [PROBE_CODE_AT],

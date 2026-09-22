@@ -1,7 +1,7 @@
 import type { Filing } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.code.ts"
 import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
 
-export const FILED_ARTIST = "sylvia-daley"
+const FILED_ARTIST = "sylvia-daley"
 
 export const ELF = [songKey(FILED_ARTIST, "Elf"), "sylvia-daley-elf"] as const
 

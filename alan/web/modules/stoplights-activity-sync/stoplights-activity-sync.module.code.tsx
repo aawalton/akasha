@@ -41,7 +41,7 @@ async function rowsIn(at: string): Promise<ActivityRows | null> {
   }
 }
 
-export async function contentRead(at: string): Promise<StoplightsContent | null> {
+async function contentRead(at: string): Promise<StoplightsContent | null> {
   return contentIn(await Promise.all(FEEDS.map(rowsIn)), at)
 }
 

@@ -16,7 +16,7 @@ const PATTERNED = /[.*+?^${}()|[\]\\]/g
 
 export const AT_MOST = 5000
 
-export function wholeWords(every: readonly string[]): RegExp {
+function wholeWords(every: readonly string[]): RegExp {
   const held = [...every]
     .sort((one, two) => two.length - one.length)
     .map((one) => one.replace(PATTERNED, "\\$&"))
@@ -25,7 +25,7 @@ export function wholeWords(every: readonly string[]): RegExp {
 
 export type Generated = (path: string) => boolean
 
-export function generatedOn(world: World): Generated {
+function generatedOn(world: World): Generated {
   const facing = facingOn(world.root)
   return (path) => generatedIn(facing, path)
 }

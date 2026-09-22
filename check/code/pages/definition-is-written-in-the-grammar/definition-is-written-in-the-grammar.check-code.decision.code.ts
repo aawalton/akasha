@@ -16,7 +16,7 @@ import {
 
 export const DOMAIN_TYPE = "01a049c8-3ead-7c52-9ab6-88767954ed5f"
 
-export const CONSTRUCTION_TYPE = "01a0c57b-2a6d-776f-861f-adfa84782205"
+const CONSTRUCTION_TYPE = "01a0c57b-2a6d-776f-861f-adfa84782205"
 
 const DEFINITION = definition.propertySlug
 

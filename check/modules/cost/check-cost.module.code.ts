@@ -304,7 +304,7 @@ function partAt(page: string, under: string, part: number): string | null {
   return uncommittedPartAt(page, under, HELD, part)
 }
 
-export function fillingAt(
+function fillingAt(
   root: string,
   page: string,
   adding: number,
