@@ -6,5 +6,6 @@ export const waterproofing = {
   slug: "waterproofing",
   title: "Waterproofing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

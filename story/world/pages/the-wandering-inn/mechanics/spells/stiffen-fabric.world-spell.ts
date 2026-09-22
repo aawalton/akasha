@@ -6,5 +6,6 @@ export const stiffenFabric = {
   slug: "stiffen-fabric",
   title: "Stiffen Fabric",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

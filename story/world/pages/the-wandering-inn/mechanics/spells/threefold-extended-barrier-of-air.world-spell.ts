@@ -6,5 +6,6 @@ export const threefoldExtendedBarrierOfAir = {
   slug: "threefold-extended-barrier-of-air",
   title: "Threefold Extended Barrier of Air",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

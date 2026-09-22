@@ -6,5 +6,6 @@ export const waterPressureDarkStraits = {
   slug: "water-pressure-dark-straits",
   title: "Water Pressure — Dark Straits",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

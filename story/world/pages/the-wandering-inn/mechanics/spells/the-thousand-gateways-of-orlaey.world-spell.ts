@@ -6,5 +6,6 @@ export const theThousandGatewaysOfOrlaey = {
   slug: "the-thousand-gateways-of-orlaey",
   title: "The Thousand Gateways of Orlaey",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

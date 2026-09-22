@@ -6,5 +6,6 @@ export const waterPiercesAllBarriers = {
   slug: "water-pierces-all-barriers",
   title: "Water Pierces All Barriers",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

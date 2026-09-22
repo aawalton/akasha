@@ -6,5 +6,6 @@ export const summonDarkFamiliars = {
   slug: "summon-dark-familiars",
   title: "Summon Dark Familiars",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const valeterisaSLightningCatchersStormOfAnalysis = {
   slug: "valeterisa-s-lightning-catchers-storm-of-analysis",
   title: "Valeterisa’s Lightning-Catchers: Storm of Analysis",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

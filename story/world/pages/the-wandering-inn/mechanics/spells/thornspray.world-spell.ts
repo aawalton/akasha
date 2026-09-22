@@ -6,5 +6,6 @@ export const thornspray = {
   slug: "thornspray",
   title: "Thornspray",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

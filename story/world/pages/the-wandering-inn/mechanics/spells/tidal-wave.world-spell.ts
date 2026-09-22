@@ -6,5 +6,6 @@ export const tidalWave = {
   slug: "tidal-wave",
   title: "Tidal Wave",
   world: "world/the-wandering-inn",
+  appearanceCount: 12,
   references: "jsonl",
 } as const satisfies WorldSpell

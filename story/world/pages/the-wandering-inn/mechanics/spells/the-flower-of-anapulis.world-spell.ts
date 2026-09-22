@@ -6,5 +6,6 @@ export const theFlowerOfAnapulis = {
   slug: "the-flower-of-anapulis",
   title: "The Flower of Anapulis",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

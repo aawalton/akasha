@@ -6,5 +6,6 @@ export const superiorAnalysisSelf = {
   slug: "superior-analysis-self",
   title: "Superior Analysis: Self",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

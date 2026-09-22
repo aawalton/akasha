@@ -6,5 +6,6 @@ export const synchronizeSpell = {
   slug: "synchronize-spell",
   title: "Synchronize Spell",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const theCarrionHawkOfAmegediaVair = {
   slug: "the-carrion-hawk-of-amegedia-vair",
   title: "The Carrion-Hawk of Amegedia Vair",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

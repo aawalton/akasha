@@ -6,5 +6,6 @@ export const theGoldenRaysOfRhir = {
   slug: "the-golden-rays-of-rhir",
   title: "The Golden Rays of Rhir",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const tongueOfTheSphinxClarity = {
   slug: "tongue-of-the-sphinx-clarity",
   title: "Tongue of the Sphinx: Clarity",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

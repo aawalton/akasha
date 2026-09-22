@@ -6,5 +6,6 @@ export const threskSSteelWarspears = {
   slug: "thresk-s-steel-warspears",
   title: "Thresk’s Steel Warspears",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSpell

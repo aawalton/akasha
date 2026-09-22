@@ -6,6 +6,7 @@ export const theImpartialGazeOfIsthekenous = {
   slug: "the-impartial-gaze-of-isthekenous",
   title: "The Impartial Gaze of Isthekenous",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   aliases: ["THE IMPARTIAL GAZE OF ISTHEKENOUS"],
   references: "jsonl",
 } as const satisfies WorldSpell

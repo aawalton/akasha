@@ -6,5 +6,6 @@ export const verminPurge = {
   slug: "vermin-purge",
   title: "Vermin Purge",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

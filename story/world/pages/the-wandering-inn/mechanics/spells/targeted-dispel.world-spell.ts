@@ -6,5 +6,6 @@ export const targetedDispel = {
   slug: "targeted-dispel",
   title: "Targeted Dispel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

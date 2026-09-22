@@ -6,5 +6,6 @@ export const summonWaterElemental = {
   slug: "summon-water-elemental",
   title: "Summon Water Elemental",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const teleportationAnchor = {
   slug: "teleportation-anchor",
   title: "Teleportation Anchor",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

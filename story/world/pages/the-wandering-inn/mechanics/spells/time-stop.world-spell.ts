@@ -6,6 +6,7 @@ export const timeStop = {
   slug: "time-stop",
   title: "TIME STOP",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   aliases: ["Time Stop"],
   references: "jsonl",
 } as const satisfies WorldSpell

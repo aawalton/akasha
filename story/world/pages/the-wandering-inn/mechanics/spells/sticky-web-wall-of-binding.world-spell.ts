@@ -6,5 +6,6 @@ export const stickyWebWallOfBinding = {
   slug: "sticky-web-wall-of-binding",
   title: "Sticky Web: Wall of Binding",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

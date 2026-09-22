@@ -6,5 +6,6 @@ export const urgentMessage = {
   slug: "urgent-message",
   title: "Urgent Message",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

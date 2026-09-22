@@ -6,5 +6,6 @@ export const translationField = {
   slug: "translation-field",
   title: "Translation Field",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

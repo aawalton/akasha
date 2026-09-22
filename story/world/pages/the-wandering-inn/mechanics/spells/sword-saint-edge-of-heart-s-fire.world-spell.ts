@@ -6,5 +6,6 @@ export const swordSaintEdgeOfHeartSFire = {
   slug: "sword-saint-edge-of-heart-s-fire",
   title: "Sword Saint: Edge of Heart’s Fire",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

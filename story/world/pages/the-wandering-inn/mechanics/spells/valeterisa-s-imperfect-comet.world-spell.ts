@@ -6,5 +6,6 @@ export const valeterisaSImperfectComet = {
   slug: "valeterisa-s-imperfect-comet",
   title: "Valeterisa’s Imperfect Comet",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

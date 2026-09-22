@@ -6,5 +6,6 @@ export const untilInfinityExhaustsItself = {
   slug: "until-infinity-exhausts-itself",
   title: "Until Infinity Exhausts Itself",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

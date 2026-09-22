@@ -6,5 +6,6 @@ export const vacuumSphere = {
   slug: "vacuum-sphere",
   title: "Vacuum Sphere",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

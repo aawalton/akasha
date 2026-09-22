@@ -6,5 +6,6 @@ export const thornHand = {
   slug: "thorn-hand",
   title: "Thorn Hand",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

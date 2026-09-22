@@ -6,5 +6,6 @@ export const summonWaterGeyser = {
   slug: "summon-water-geyser",
   title: "Summon Water Geyser",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

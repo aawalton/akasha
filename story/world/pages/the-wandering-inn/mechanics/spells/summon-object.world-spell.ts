@@ -6,5 +6,6 @@ export const summonObject = {
   slug: "summon-object",
   title: "Summon Object",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

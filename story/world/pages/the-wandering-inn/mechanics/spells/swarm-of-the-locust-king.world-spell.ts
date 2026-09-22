@@ -6,5 +6,6 @@ export const swarmOfTheLocustKing = {
   slug: "swarm-of-the-locust-king",
   title: "Swarm of the Locust King",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

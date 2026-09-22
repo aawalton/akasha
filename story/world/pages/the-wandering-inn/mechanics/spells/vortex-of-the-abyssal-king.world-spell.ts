@@ -6,5 +6,6 @@ export const vortexOfTheAbyssalKing = {
   slug: "vortex-of-the-abyssal-king",
   title: "Vortex of the Abyssal King",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

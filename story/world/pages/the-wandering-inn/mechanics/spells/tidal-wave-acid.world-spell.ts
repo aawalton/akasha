@@ -6,5 +6,6 @@ export const tidalWaveAcid = {
   slug: "tidal-wave-acid",
   title: "Tidal Wave: Acid",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const waterOrb = {
   slug: "water-orb",
   title: "Water Orb",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

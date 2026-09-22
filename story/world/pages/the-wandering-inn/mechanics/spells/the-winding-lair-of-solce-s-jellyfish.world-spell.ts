@@ -6,5 +6,6 @@ export const theWindingLairOfSolceSJellyfish = {
   slug: "the-winding-lair-of-solce-s-jellyfish",
   title: "The Winding Lair of Solce’s Jellyfish",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

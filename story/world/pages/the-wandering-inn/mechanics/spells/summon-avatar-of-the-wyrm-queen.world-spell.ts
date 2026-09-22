@@ -6,5 +6,6 @@ export const summonAvatarOfTheWyrmQueen = {
   slug: "summon-avatar-of-the-wyrm-queen",
   title: "Summon: Avatar of the Wyrm Queen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell
