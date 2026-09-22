@@ -71,6 +71,7 @@ export const interviewer = {
         "A turn that is only a question leaves the person carrying the exchange, and the rhythm tires first.",
       aids: [
         "Offer your own read rather than only asking for theirs.",
+        "Most turns still carry a question; the fault was the shape never changing.",
         "A turn with no question in it is still a turn.",
         "Follow what they just said rather than returning to a plan.",
         "The rules on addressing Alan do not reach a persona's own words.",
