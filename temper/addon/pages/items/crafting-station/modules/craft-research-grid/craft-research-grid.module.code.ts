@@ -9,6 +9,10 @@ import {
   toChat,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
+import {
+  paintSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
@@ -19,6 +23,8 @@ import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const WM = WINDOW_MANAGER
+
+const CELL_LEVEL: SurfaceLevel = 2
 
 export function drawTraitColumn(craft: number, line: number): undefined {
   const [name, icon] = GetSmithingResearchLineInfo(craft, line)
@@ -97,7 +103,7 @@ export function drawTraitColumn(craft: number, line: number): undefined {
     )
     bg.SetAnchor(3, p, 3, -1, 2 + trait * 26)
     bg.SetDimensions(27, 25)
-    bg.SetCenterColor(0.06, 0.06, 0.06, 1)
+    paintSurface(bg, CELL_LEVEL)
     bg.SetEdgeTexture("", 1, 1, 1, 1)
     bg.SetEdgeColor(1, 1, 1, 0.12)
     c = WM.CreateControl(
@@ -188,7 +194,7 @@ export function drawTraitColumn(craft: number, line: number): undefined {
   )
   countBg.SetAnchor(3, p, 3, -1, 262)
   countBg.SetDimensions(27, 25)
-  countBg.SetCenterColor(0.06, 0.06, 0.06, 1)
+  paintSurface(countBg, CELL_LEVEL)
   countBg.SetEdgeTexture("", 1, 1, 1, 1)
   countBg.SetEdgeColor(1, 1, 1, 0.12)
   const count = WM.CreateControl(
@@ -235,7 +241,7 @@ export function updateStudyLine(
     control.GetNamedChild<TextureControl>("HeaderTexture")?.SetColor(1, 1, 1, 1)
     for (let x = 2; x <= control.GetNumChildren() - 1; x++) {
       const subcontrol = control.GetChild<BackdropControl>(x)
-      subcontrol?.SetCenterColor(0.06, 0.06, 0.06, 1)
+      if (subcontrol !== undefined) paintSurface(subcontrol, CELL_LEVEL)
       subcontrol?.SetEdgeColor(1, 1, 1, 0.12)
     }
   } else {
@@ -243,7 +249,7 @@ export function updateStudyLine(
     for (let x = 2; x <= control.GetNumChildren() - 1; x++) {
       const subcontrol = control.GetChild<BackdropControl>(x)
       if (trackingTable[x - 1] === true) {
-        subcontrol?.SetCenterColor(0.06, 0.06, 0.06, 1)
+        if (subcontrol !== undefined) paintSurface(subcontrol, CELL_LEVEL)
         subcontrol?.SetEdgeColor(1, 1, 1, 0.12)
       } else {
         subcontrol?.SetCenterColor(0.15, 0, 0, 1)

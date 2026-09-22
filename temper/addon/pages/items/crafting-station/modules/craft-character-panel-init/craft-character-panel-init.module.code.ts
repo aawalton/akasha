@@ -4,10 +4,16 @@ import * as Options from "akasha/temper/addon/pages/items/crafting-station/modul
 import type { CsTooltipOwner } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "akasha/temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
+import {
+  paintSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+const CELL_LEVEL: SurfaceLevel = 2
 
 const trackingFlag = (tracking: Record<string, boolean>, char: string): boolean => {
   const current = tracking[char]
@@ -59,7 +65,7 @@ export function characterInitialize(): undefined {
     bg.SetAnchor(TOPLEFT, frame, TOPLEFT, 0, 0)
     offsetPos = 60
     bg.SetDimensions(563, offsetPos)
-    bg.SetCenterColor(0.06, 0.06, 0.06, 1)
+    paintSurface(bg, CELL_LEVEL)
     bg.SetEdgeColor(0.12, 0.12, 0.12, 1)
     bg.SetEdgeTexture("", 1, 1, 1)
 
@@ -245,7 +251,7 @@ export function characterInitialize(): undefined {
         )
         bg.SetAnchor(TOPLEFT, frame, TOPLEFT, xpos, ypos)
         bg.SetDimensions(140, 28)
-        bg.SetCenterColor(0.06, 0.06, 0.06, 1)
+        paintSurface(bg, CELL_LEVEL)
         bg.SetEdgeColor(0.12, 0.12, 0.12, 1)
         bg.SetEdgeTexture("", 1, 1, 1)
 
@@ -283,7 +289,7 @@ export function characterInitialize(): undefined {
         )
         bg.SetAnchor(TOPLEFT, frame, TOPLEFT, xpos, offsetPos + 58)
         bg.SetDimensions(140, 70)
-        bg.SetCenterColor(0.06, 0.06, 0.06, 1)
+        paintSurface(bg, CELL_LEVEL)
         bg.SetEdgeColor(0.12, 0.12, 0.12, 1)
         bg.SetEdgeTexture("", 1, 1, 1)
         xpos = xpos + 141

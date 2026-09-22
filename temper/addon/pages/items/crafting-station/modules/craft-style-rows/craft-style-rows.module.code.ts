@@ -7,12 +7,18 @@ import {
   toChat,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
+import {
+  paintSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-crafting-inventories/eso-crafting-inventories.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+const ROW_LEVEL: SurfaceLevel = 2
 
 export function asWidth(this: void, value: unknown): number {
   return value as number
@@ -54,8 +60,7 @@ export function styleInitialize(): undefined {
       )
       bg.SetAnchor(3, p, 3, 0, 0)
       bg.SetDimensions(750, 37)
-      bg.SetCenterColor(0, 0, 0, 0.2)
-      bg.SetEdgeColor(1, 1, 1, 0)
+      paintSurface(bg, ROW_LEVEL)
     } else {
       bg = mustControl<BackdropControl>(`TemperItemsCrafting_StylePanelScrollChildBgLine${id}`)
     }
