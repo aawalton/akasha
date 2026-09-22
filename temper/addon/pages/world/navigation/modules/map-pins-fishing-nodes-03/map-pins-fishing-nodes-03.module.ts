@@ -4,7 +4,7 @@ export const mapPinsFishingNodes03 = {
   id: "01a06269-2ac0-7c7c-b44e-e9061125729d",
   type: "page-type/module",
   slug: "map-pins-fishing-nodes-03",
-  definition: "one run of the fishing hole places by zone",
+  definition: "a run of the fishing hole places by zone",
   code: "ts",
   decisions: [
     {

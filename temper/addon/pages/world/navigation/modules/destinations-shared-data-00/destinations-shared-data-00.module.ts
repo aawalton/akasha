@@ -4,7 +4,7 @@ export const destinationsSharedData00 = {
   id: "01a06269-29df-7daf-b020-4d4c6274eb1a",
   type: "page-type/module",
   slug: "destinations-shared-data-00",
-  definition: "one run of the shared achievement rows by zone, and the stables, docks and portals",
+  definition: "a run of the shared achievement rows by zone, and the stables, docks and portals",
   code: "ts",
   decisions: [
     {
