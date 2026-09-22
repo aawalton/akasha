@@ -1,3 +1,4 @@
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -46,21 +47,21 @@ function kindingIn(index: Answering): Kinding {
   return made
 }
 
-function viewingAt(shadow: Shadow, paths: Iterable<string>): readonly Viewing[] {
+function viewingAt(paged: Paged, paths: Iterable<string>): readonly Viewing[] {
   const found: Viewing[] = []
   for (const path of [...new Set(paths)].sort()) {
-    const value = shadow.pageOf(path)
+    const value = paged.pageOf(path)
     if (value !== null) found.push({ path, value })
   }
   return found
 }
 
-export function viewsIn(shadow: Shadow): readonly Viewing[] {
+export function viewsIn(paged: Paged): readonly Viewing[] {
   const found: string[] = []
-  for (const kind of kindingIn(shadow.index).views) {
-    for (const one of shadow.index.everyOfType(kind)) found.push(one.path)
+  for (const kind of kindingIn(paged.index).views) {
+    for (const one of paged.index.everyOfType(kind)) found.push(one.path)
   }
-  return viewingAt(shadow, found)
+  return viewingAt(paged, found)
 }
 
 function kindsMoved(index: Answering, said: Parted): ReadonlySet<string> | null {
@@ -145,8 +146,8 @@ export function namingsIn(value: Value, keying: readonly Keying[]): readonly Nam
   return found
 }
 
-function keysOf(shadow: Shadow, pageTypeSlug: string): ReadonlySet<string> | null {
-  const carried = shadow.index.propertiesIfNamed(pageTypeSlug)
+function keysOf(paged: Paged, pageTypeSlug: string): ReadonlySet<string> | null {
+  const carried = paged.index.propertiesIfNamed(pageTypeSlug)
   return carried === null ? null : new Set(carried.map((one) => one.propertySlug))
 }
 
@@ -157,15 +158,15 @@ function undeclared(at: string, key: string, listed: string, keys: ReadonlySet<s
   )
 }
 
-export function refusalsOver(held: readonly Viewing[], shadow: Shadow): readonly Judged[] {
-  const keying = viewKeying(shadow.index)
+export function refusalsOver(held: readonly Viewing[], paged: Paged): readonly Judged[] {
+  const keying = viewKeying(paged.index)
   if (keying.length === 0) return []
   const known = new Map<string, ReadonlySet<string> | null>()
   const said: Judged[] = []
   for (const one of held) {
     const listed = listedBy(one.value)
     if (listed === null) continue
-    if (!known.has(listed)) known.set(listed, keysOf(shadow, listed))
+    if (!known.has(listed)) known.set(listed, keysOf(paged, listed))
     const keys = known.get(listed) ?? null
     if (keys === null) continue
     for (const naming of namingsIn(one.value, keying)) {
