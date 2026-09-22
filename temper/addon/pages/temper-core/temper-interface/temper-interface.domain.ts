@@ -123,7 +123,7 @@ export const temperInterface = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A keybind is named after the assistant the player has unlocked.",
+      statement: "Every assistant's keybind is named, whether or not the player has unlocked it.",
     },
     {
       decisionKind: "decision-kind/departure",
