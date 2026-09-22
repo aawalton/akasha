@@ -4,7 +4,7 @@ export const model = {
   id: "01a0535c-f2cf-7edc-8a2e-f495d1255183",
   type: "page-type/domain",
   slug: "model",
-  definition: "a model work can be put to",
+  definition: "how an agent chooses the next words",
 
   parts: [
     "domain/model-gateway",
