@@ -4,7 +4,7 @@ export const descriptor = {
   id: "01a06053-3638-7cb5-b297-d04869965330",
   type: "page-type/module",
   slug: "descriptor",
-  definition: "the name, version and defaults an add-on hands the game to save under",
+  definition: "the name, version and defaults an add-on hands the game",
   code: "ts",
   decisions: [
     {

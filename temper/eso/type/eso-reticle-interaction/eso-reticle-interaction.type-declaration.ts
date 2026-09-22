@@ -4,6 +4,6 @@ export const esoReticleInteraction = {
   id: "01a061e6-36ee-7e9a-ab54-a3bacac50e3e",
   type: "page-type/type-declaration",
   slug: "eso-reticle-interaction",
-  definition: "the reticle the game aims with and the names it calls each interaction by",
+  definition: "the game's reticle and the names it gives each interaction",
   d: "ts",
 } as const satisfies TypeDeclaration

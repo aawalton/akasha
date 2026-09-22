@@ -5,7 +5,7 @@ export const platform = {
   type: "page-type/select-property",
   slug: "platform",
   propertySlug: "platform",
-  definition: "the machine a player's account is played on",
+  definition: "the machine of a player's account",
   values: ["PC", "Xbox", "PlayStation"],
   decisions: [
     {

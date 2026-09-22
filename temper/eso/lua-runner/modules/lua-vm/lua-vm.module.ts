@@ -4,7 +4,7 @@ export const luaVm = {
   id: "01a06059-2493-7198-a53e-089da757ff6e",
   type: "page-type/module",
   slug: "lua-vm",
-  definition: "a Lua subprocess handed out as something to run scripts on and read globals from",
+  definition: "a Lua subprocess handed out as something that runs scripts and reads globals",
   code: "ts",
   decisions: [
     {

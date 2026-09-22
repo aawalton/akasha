@@ -5,7 +5,7 @@ export const conditionValue = {
   type: "page-type/text-property",
   slug: "condition-value",
   propertySlug: "condition-value",
-  definition: "what a condition of a rule tests against",
+  definition: "the value a rule's condition expects",
   maxLength: 200,
   nameFormat: null,
   decisions: [

@@ -4,7 +4,7 @@ export const useDestinationTypes = {
   id: "01a060d9-44ce-76b7-8295-b4cd3f803801",
   type: "page-type/module",
   slug: "use-destination-types",
-  definition: "the identity of a character and the key of an item a character may learn from",
+  definition: "the identity of a character and the key of an item that can teach a character",
   code: "ts",
   decisions: [
     {

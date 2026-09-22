@@ -5,7 +5,7 @@ export const saleAvg = {
   type: "page-type/number-property",
   slug: "sale-avg",
   propertySlug: "sale-avg",
-  definition: "the average gold an item has sold for",
+  definition: "an item's average sale price in gold",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

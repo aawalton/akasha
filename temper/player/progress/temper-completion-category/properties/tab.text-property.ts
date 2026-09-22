@@ -5,7 +5,7 @@ export const tab = {
   type: "page-type/text-property",
   slug: "tab",
   propertySlug: "tab",
-  definition: "the tab of the completion view a node is shown under",
+  definition: "a node's tab in the completion view",
   maxLength: 20,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
