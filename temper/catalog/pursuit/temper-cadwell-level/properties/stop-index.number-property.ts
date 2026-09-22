@@ -5,7 +5,7 @@ export const stopIndex = {
   type: "page-type/number-property",
   slug: "stop-index",
   propertySlug: "stop-index",
-  definition: "where a stop falls in the list Cadwell names for one zone",
+  definition: "where a stop falls in the list Cadwell names for a zone",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

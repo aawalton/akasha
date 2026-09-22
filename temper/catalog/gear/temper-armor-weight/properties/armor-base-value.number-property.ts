@@ -5,7 +5,7 @@ export const armorBaseValue = {
   type: "page-type/number-property",
   slug: "armor-base-value",
   propertySlug: "base-value",
-  definition: "the armor one piece of a weight gives before its kind is counted",
+  definition: "the armor a piece of a weight gives before its kind is counted",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

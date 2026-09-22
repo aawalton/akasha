@@ -5,7 +5,7 @@ export const conditionKind = {
   type: "page-type/text-property",
   slug: "condition-kind",
   propertySlug: "type",
-  definition: "what one test inside an effect reads",
+  definition: "what a test inside an effect reads",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

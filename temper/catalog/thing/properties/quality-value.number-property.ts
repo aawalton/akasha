@@ -5,7 +5,7 @@ export const qualityValue = {
   type: "page-type/number-property",
   slug: "quality-value",
   propertySlug: "value",
-  definition: "what a thing is worth at one grade",
+  definition: "what a thing is worth at a grade",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

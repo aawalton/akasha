@@ -5,7 +5,7 @@ export const activityIndex = {
   type: "page-type/number-property",
   slug: "activity-index",
   propertySlug: "activity-index",
-  definition: "where an activity falls among the activities of one completion type",
+  definition: "where an activity falls among the activities of a completion type",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

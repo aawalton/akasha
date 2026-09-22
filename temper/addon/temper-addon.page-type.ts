@@ -4,7 +4,7 @@ export const temperAddon = {
   id: "01a06036-9b77-710a-8ddc-ee7c58591896",
   type: "page-type/page-type",
   slug: "temper-addon",
-  definition: "one thing the game loads out of its AddOns folder",
+  definition: "a thing the game loads out of its AddOns folder",
   parts: [
     "file-property/addon-git-ignore",
     "file-property/addon-manifest",

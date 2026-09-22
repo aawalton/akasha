@@ -4,7 +4,7 @@ export const savedVariablesAccessor = {
   id: "01a06071-0c79-73ce-a434-c3b18ac668a1",
   type: "page-type/module",
   slug: "saved-variables-accessor",
-  definition: "the one way code inside the catalog add-on reaches the saved catalog table",
+  definition: "the way code inside the catalog add-on reaches the saved catalog table",
   code: "ts",
   decisions: [
     {
