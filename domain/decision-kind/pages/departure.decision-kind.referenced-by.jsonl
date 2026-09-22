@@ -4667,7 +4667,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-map-zone/dungeon-champion-map-zone.module.ts","id":"01a060f9-bac9-786e-a896-0143797eade0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-pin-register/dungeon-champion-pin-register.module.ts","id":"01a060f9-bacb-7522-90b0-6722aa981410"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-pins/dungeon-champion-pins.module.ts","id":"01a060f9-bacd-7dc6-a95a-c3fb8f7ff2c5"}
-{"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.module.ts","id":"01a060f9-bad1-7202-bef3-dc48b30536e9"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.data-table.ts","id":"01a060f9-bad1-7202-bef3-dc48b30536e9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.ts","id":"01a060f9-bad8-7db9-82ae-dfa276bad382"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.ts","id":"01a060f9-bad9-750a-870e-3ac5edb4440c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-slash/dungeon-champion-slash.module.ts","id":"01a060f9-badb-75b9-a0c4-24413a5ab8d1"}

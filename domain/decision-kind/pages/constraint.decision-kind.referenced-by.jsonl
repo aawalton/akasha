@@ -905,7 +905,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-names/dungeon-champion-names.module.ts","id":"01a060f9-baca-7e73-b37a-1f69b51ac984"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-pin-textures/dungeon-champion-pin-textures.module.ts","id":"01a060f9-bacf-7388-b800-ec92c9f44b96"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-pins/dungeon-champion-pins.module.ts","id":"01a060f9-bacd-7dc6-a95a-c3fb8f7ff2c5"}
-{"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.module.ts","id":"01a060f9-bad1-7202-bef3-dc48b30536e9"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.data-table.ts","id":"01a060f9-bad1-7202-bef3-dc48b30536e9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-start/dungeon-champion-start.module.ts","id":"01a060f9-badc-70b2-a9a4-5672a001af3e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/dungeon-champion/temper-dungeon-champion.domain.ts","id":"01a060f9-bab9-7763-8ceb-8977b0b205de"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/group-dungeon/modules/eso-reset/eso-reset.module.ts","id":"01a0603b-d66a-7bf8-9657-cb2176247f1b"}

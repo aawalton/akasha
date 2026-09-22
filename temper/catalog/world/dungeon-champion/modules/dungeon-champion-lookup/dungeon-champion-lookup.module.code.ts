@@ -2,7 +2,7 @@ import { ACHIEVEMENT_IDS } from "akasha/temper/catalog/world/dungeon-champion/mo
 import {
   DUNGEON_CHAMPIONS_DATA,
   DUNGEON_CHAMPIONS_DATA_ID,
-} from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.module.code.ts"
+} from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.data-table.code.ts"
 
 export type ChampionPin = readonly [
   x: number,

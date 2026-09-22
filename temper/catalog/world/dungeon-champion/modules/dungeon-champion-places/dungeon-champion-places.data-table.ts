@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { DataTable } from "akasha/code/data-table/data-table.page-type.types.ts"
 
 export const dungeonChampionPlaces = {
   id: "01a060f9-bad1-7202-bef3-dc48b30536e9",
-  type: "page-type/module",
+  type: "page-type/data-table",
   slug: "dungeon-champion-places",
   definition: "every champion position gathered, reached by zone name or by map id",
   code: "ts",
@@ -26,4 +26,4 @@ export const dungeonChampionPlaces = {
         "A zone named in both groups would lose the earlier group's entries without a word.",
     },
   ],
-} as const satisfies Module
+} as const satisfies DataTable

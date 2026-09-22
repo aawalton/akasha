@@ -16,7 +16,7 @@ export const temperDungeonChampion = {
     "module/dungeon-champion-pin-register",
     "module/dungeon-champion-pin-textures",
     "module/dungeon-champion-pins",
-    "module/dungeon-champion-places",
+    "data-table/dungeon-champion-places",
     "module/dungeon-champion-places-00",
     "module/dungeon-champion-places-01",
     "module/dungeon-champion-saved-vars",
