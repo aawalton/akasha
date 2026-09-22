@@ -4,7 +4,7 @@ export const destinationsLangSettingsJf01 = {
   id: "01a06269-2a1b-77d2-acb3-d0a410ababcb",
   type: "page-type/module",
   slug: "destinations-lang-settings-jf-01",
-  definition: "a run of the destinations settings strings in Japanese with English fallbacks",
+  definition: "a set of the destinations settings strings in Japanese with English fallbacks",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const destinationsLangSettingsFx00 = {
   id: "01a06269-2a12-727c-bae3-72f0eaf91c62",
   type: "page-type/module",
   slug: "destinations-lang-settings-fx-00",
-  definition: "a run of the destinations settings strings in French with English fallbacks",
+  definition: "a set of the destinations settings strings in French with English fallbacks",
   code: "ts",
   decisions: [
     {

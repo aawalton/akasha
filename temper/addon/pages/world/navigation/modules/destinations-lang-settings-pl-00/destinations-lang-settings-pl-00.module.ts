@@ -4,7 +4,7 @@ export const destinationsLangSettingsPl00 = {
   id: "01a06269-2a25-7dff-933c-60b0cb51de56",
   type: "page-type/module",
   slug: "destinations-lang-settings-pl-00",
-  definition: "a run of the destinations settings strings in Polish",
+  definition: "a set of the destinations settings strings in Polish",
   code: "ts",
   decisions: [
     {

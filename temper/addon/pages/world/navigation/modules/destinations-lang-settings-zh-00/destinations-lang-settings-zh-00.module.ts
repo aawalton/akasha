@@ -4,7 +4,7 @@ export const destinationsLangSettingsZh00 = {
   id: "01a06269-2a30-7dc9-99dd-02dd9583dbbe",
   type: "page-type/module",
   slug: "destinations-lang-settings-zh-00",
-  definition: "a run of the destinations settings strings in Chinese",
+  definition: "a set of the destinations settings strings in Chinese",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const destinationsLangSettingsEs02 = {
   id: "01a06269-2a09-79ae-8c73-f4cc54ba7cee",
   type: "page-type/module",
   slug: "destinations-lang-settings-es-02",
-  definition: "a run of the destinations settings strings in Spanish",
+  definition: "a set of the destinations settings strings in Spanish",
   code: "ts",
   decisions: [
     {

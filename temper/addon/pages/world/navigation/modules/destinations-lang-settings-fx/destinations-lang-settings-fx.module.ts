@@ -5,7 +5,7 @@ export const destinationsLangSettingsFx = {
   type: "page-type/module",
   slug: "destinations-lang-settings-fx",
   definition:
-    "the destinations settings strings in French with English fallbacks, joined from its runs",
+    "the destinations settings strings in French with English fallbacks, joined from its sets",
   code: "ts",
   decisions: [
     {

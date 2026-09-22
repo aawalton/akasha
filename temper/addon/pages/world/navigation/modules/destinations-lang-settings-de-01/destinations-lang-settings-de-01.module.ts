@@ -4,7 +4,7 @@ export const destinationsLangSettingsDe01 = {
   id: "01a06269-29fd-7c1a-8662-200de080b4c9",
   type: "page-type/module",
   slug: "destinations-lang-settings-de-01",
-  definition: "a run of the destinations settings strings in German",
+  definition: "a set of the destinations settings strings in German",
   code: "ts",
   decisions: [
     {
