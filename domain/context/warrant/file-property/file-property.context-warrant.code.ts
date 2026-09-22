@@ -1,12 +1,9 @@
-import { createRequire } from "node:module"
-import { join } from "node:path"
 import {
   blobAt,
   type Knowing,
   type Warrant,
 } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { dashEachCapital } from "akasha/page/naming/folding/modules/dash-each-capital/dash-each-capital.module.code.ts"
@@ -15,18 +12,10 @@ import { propertiesIfNamedOf } from "akasha/page/type/modules/declared-propertie
 export const PROPERTY =
   "A page states each property as the page defining it shapes it, and that page is read first."
 
-const loadFrom = createRequire(import.meta.url)
-
-function statedIn(root: string, path: string, slug: string): readonly string[] {
-  let mod: Record<string, unknown>
-  try {
-    mod = loadFrom(join(root, path)) as Record<string, unknown>
-  } catch {
-    return []
-  }
-  const said = mod[exportedAs(slug)]
-  if (said === null || typeof said !== "object") return []
-  return Object.keys(said as Record<string, unknown>).map(dashEachCapital)
+function statedIn(root: string, path: string): readonly string[] {
+  const said = valueAt(path, root)
+  if (said === null) return []
+  return Object.keys(said).map(dashEachCapital)
 }
 
 export function fileProperty(root: string, path: string, knowing: Knowing): readonly Warrant[] {
@@ -38,7 +27,7 @@ export function fileProperty(root: string, path: string, knowing: Knowing): read
     propertiesIfNamedOf(said.pageType, known.reading, (at) => valueAt(at, root)) ?? []
   const under = new Map(declared.map((one) => [one.propertySlug, one]))
   const found: Warrant[] = []
-  for (const slug of statedIn(root, path, said.slug)) {
+  for (const slug of statedIn(root, path)) {
     const one = under.get(slug)
     if (one === undefined) continue
     const listed = listedAt(known.reading, one.pageTypeSlug, one.pagePropertySlug)[0]

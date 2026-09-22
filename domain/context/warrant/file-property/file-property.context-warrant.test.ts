@@ -181,11 +181,11 @@ test("a page whose export is no value it can read warrants nothing", () => {
   expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
 
-test("a page answering to no export named for its slug warrants nothing", () => {
+test("a page states its properties in the value its body declares, whatever that export is named", () => {
   const root = scratch.rootFor("akasha-file-property-")
-  statingWorld(root)
+  const every = statingWorld(root)
   writing(root, PATH, `export const other = { id: "one", definition: "two" }\n`)
-  expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
+  expect(pathsOf(warrantsAt(root, PATH))).toEqual(every.slice(0, 2))
 })
 
 test("a page that will not load warrants nothing", () => {
