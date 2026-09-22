@@ -5,7 +5,7 @@ export const healthBelow = {
   type: "page-type/number-property",
   slug: "health-below",
   propertySlug: "below",
-  definition: "the share of health a test reads under",
+  definition: "the share of health below which a test holds",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

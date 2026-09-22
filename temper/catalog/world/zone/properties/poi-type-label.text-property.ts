@@ -5,7 +5,7 @@ export const poiTypeLabel = {
   type: "page-type/text-property",
   slug: "poi-type-label",
   propertySlug: "poi-type-label",
-  definition: "the name a kind of point of interest is shown under",
+  definition: "the name shown for a kind of point of interest",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

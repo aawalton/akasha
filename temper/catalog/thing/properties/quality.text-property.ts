@@ -5,7 +5,7 @@ export const quality = {
   type: "page-type/text-property",
   slug: "quality",
   propertySlug: "quality",
-  definition: "the grade a thing is made at",
+  definition: "a thing's grade",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

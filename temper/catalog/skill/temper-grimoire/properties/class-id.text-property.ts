@@ -5,7 +5,7 @@ export const classId = {
   type: "page-type/text-property",
   slug: "class-id",
   propertySlug: "class-id",
-  definition: "the class a script reads differently for",
+  definition: "the class for which a script reads differently",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

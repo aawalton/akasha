@@ -5,7 +5,7 @@ export const esoPatronId = {
   type: "page-type/number-property",
   slug: "eso-patron-id",
   propertySlug: "eso-patron-id",
-  definition: "the number The Elder Scrolls Online names a tribute patron by",
+  definition: "the number The Elder Scrolls Online gives a tribute patron",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

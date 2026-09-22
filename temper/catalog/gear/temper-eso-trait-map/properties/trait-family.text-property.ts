@@ -5,7 +5,7 @@ export const traitFamily = {
   type: "page-type/text-property",
   slug: "trait-family",
   propertySlug: "trait-family",
-  definition: "the kind of piece a trait is worked into",
+  definition: "the kind of piece into which a trait is worked",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

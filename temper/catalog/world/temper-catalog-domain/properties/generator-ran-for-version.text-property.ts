@@ -5,7 +5,7 @@ export const generatorRanForVersion = {
   type: "page-type/text-property",
   slug: "generator-ran-for-version",
   propertySlug: "generator-ran-for-version",
-  definition: "the game build the generator last ran for",
+  definition: "the game build of the generator's last run",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

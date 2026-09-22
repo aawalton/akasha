@@ -5,7 +5,7 @@ export const subtitle = {
   type: "page-type/text-property",
   slug: "subtitle",
   propertySlug: "subtitle",
-  definition: "the epithet a companion is known by",
+  definition: "a companion's epithet",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

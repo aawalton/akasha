@@ -4,7 +4,7 @@ export const temperSetCategory = {
   id: "01a05fd1-d441-711d-bcc5-d8bf635f2b8f",
   type: "page-type/page-type",
   slug: "temper-set-category",
-  definition: "where a set is got from",
+  definition: "a set's source",
   extends: ["page-type/temper-catalog-thing"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },

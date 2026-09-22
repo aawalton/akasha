@@ -4,7 +4,7 @@ export const temperEquipmentKind = {
   id: "01a060b8-08c3-7a47-a8fa-29a32e398b30",
   type: "page-type/domain",
   slug: "temper-equipment-kind",
-  definition: "the slots, types and quality tiers a piece of Elder Scrolls Online gear is named by",
+  definition: "the slots, types and quality tiers naming a piece of Elder Scrolls Online gear",
   parts: [
     "module/armor-slots",
     "module/armor-types",

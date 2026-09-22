@@ -5,7 +5,7 @@ export const baseName = {
   type: "page-type/text-property",
   slug: "base-name",
   propertySlug: "base-name",
-  definition: "the name a skill's morphs are gathered under",
+  definition: "the name a skill's morphs share",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

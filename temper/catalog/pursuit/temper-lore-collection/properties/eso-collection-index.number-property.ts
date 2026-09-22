@@ -5,7 +5,7 @@ export const esoCollectionIndex = {
   type: "page-type/number-property",
   slug: "eso-collection-index",
   propertySlug: "eso-collection-index",
-  definition: "the number The Elder Scrolls Online names a lore collection by",
+  definition: "the number The Elder Scrolls Online gives a lore collection",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

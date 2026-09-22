@@ -4,7 +4,7 @@ export const temperScribingThing = {
   id: "01a05fca-cb8c-73ea-beae-bd4ddb3a41f3",
   type: "page-type/page-type",
   slug: "temper-scribing-thing",
-  definition: "anything a scribed skill is written out of",
+  definition: "anything that goes into a scribed skill",
   extends: ["page-type/temper-catalog-thing"],
   parts: ["number-property/uesp-id"],
   properties: [

@@ -5,7 +5,7 @@ export const itemLevel = {
   type: "page-type/text-property",
   slug: "item-level",
   propertySlug: "level",
-  definition: "the character level an item is made for",
+  definition: "an item's character level",
   maxLength: 100,
   nameFormat: null,
   decisions: [
