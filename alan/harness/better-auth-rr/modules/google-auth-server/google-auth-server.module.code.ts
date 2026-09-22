@@ -8,11 +8,11 @@ import type { OAuth2Tokens, OAuth2UserInfo } from "better-auth/oauth2"
 import type { GoogleProfile } from "better-auth/social-providers"
 import { decodeJwt } from "jose"
 
-export const BASE_URL = "https://alanwalton.com"
+const BASE_URL = "https://alanwalton.com"
 
-export const BASE_PATH = "/api/auth"
+const BASE_PATH = "/api/auth"
 
-export const UPDATE_USER_AT = "/update-user"
+const UPDATE_USER_AT = "/update-user"
 
 const SESSION_KEY = "ALANWALTON_SESSION_KEY"
 
@@ -25,7 +25,7 @@ export type GoogleUserInfo = {
   readonly data: GoogleProfile
 }
 
-export function claimsIn(idToken: unknown): GoogleProfile | null {
+function claimsIn(idToken: unknown): GoogleProfile | null {
   const text = textIn(idToken)
   if (text === null) return null
   try {
@@ -35,11 +35,11 @@ export function claimsIn(idToken: unknown): GoogleProfile | null {
   }
 }
 
-export function markedVerified(said: unknown): boolean {
+function markedVerified(said: unknown): boolean {
   return said === true || said === "true"
 }
 
-export async function googleUserInfo(token: OAuth2Tokens): Promise<GoogleUserInfo | null> {
+async function googleUserInfo(token: OAuth2Tokens): Promise<GoogleUserInfo | null> {
   const claims = claimsIn(token.idToken)
   if (claims === null) {
     console.error("google handed back no id token this could read")

@@ -176,7 +176,7 @@ async function judgingAt(root: string, at: string): Promise<Judging | null> {
   return held === null ? null : judgingIn(held)
 }
 
-export function ranIn(given: unknown): Ran | null {
+function ranIn(given: unknown): Ran | null {
   if (given === null || typeof given !== "object" || Array.isArray(given)) return null
   const held = given as Record<string, unknown>
   const code = held["code"]

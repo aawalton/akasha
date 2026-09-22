@@ -27,8 +27,7 @@ const WENT: Went = { went: true }
 
 export type Sending = (asked: Writing) => Promise<Wrote>
 
-export const overHttp: Sending = (asked) =>
-  writingFor(asked, undefined, undefined, pagesOriginHere())
+const overHttp: Sending = (asked) => writingFor(asked, undefined, undefined, pagesOriginHere())
 
 export function seatPageIn(root: string, seatName: string): string | null {
   return listedAt(root, SEAT, seatName)[0]?.path ?? null

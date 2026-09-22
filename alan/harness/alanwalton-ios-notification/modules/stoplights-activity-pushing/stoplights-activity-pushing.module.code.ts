@@ -18,13 +18,13 @@ import {
 } from "akasha/alan/harness/stoplight/modules/stoplights-activity-content/stoplights-activity-content.module.code.ts"
 import { LIVE_ACTIVITY } from "akasha/person/modules/device-token-registration/device-token-registration.module.code.ts"
 
-export const ACTIVITY_LOG = "stoplights-activity:"
+const ACTIVITY_LOG = "stoplights-activity:"
 
 export interface ActivityPushState {
   pushed: string | null
 }
 
-export async function contentNow(takenAt: string): Promise<StoplightsContent> {
+async function contentNow(takenAt: string): Promise<StoplightsContent> {
   const [upkeep, inboxes, attributes] = await Promise.all(
     ACTIVITY_GROUPS.map(
       (one) =>

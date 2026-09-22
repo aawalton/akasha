@@ -7,7 +7,7 @@ export type CompactObservation = {
 
 export type CompactReading = Omit<CompactObservation, "idle">
 
-export function pastCompactCeiling(contextTokens: number | null, ceiling: number | null): boolean {
+function pastCompactCeiling(contextTokens: number | null, ceiling: number | null): boolean {
   return contextTokens !== null && ceiling !== null && contextTokens >= ceiling
 }
 
