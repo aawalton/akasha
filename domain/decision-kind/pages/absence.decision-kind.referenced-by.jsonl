@@ -1518,6 +1518,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-asking/service-asking.module.ts","id":"01a09424-ecd8-7c1f-b068-99932a16c139"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-beating/service-beating.module.ts","id":"01a08cb0-defb-7ab1-9512-d43812f8fe80"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-binding/service-binding.module.ts","id":"01a0a6b4-83dc-7675-a214-0cac1da7fccd"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-bundling/service-bundling.module.ts","id":"01a0c9a2-b39b-7892-83e5-95e2a282b2b9"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-health/service-health.module.ts","id":"01a0821e-fce3-79c6-bf54-45289546f49a"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-installing/service-installing.module.ts","id":"01a05a62-6da2-7e4f-9186-137486a0d1e2"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.ts","id":"01a08cef-2ffd-70db-abdd-5cf7f3cfaf21"}

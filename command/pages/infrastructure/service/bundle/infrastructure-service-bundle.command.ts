@@ -34,11 +34,19 @@ export const infrastructureServiceBundle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The bundle is filed under the commit the checkout is at.",
+      statement: "The bundle is filed under the commit HEAD was at when the call began.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A checkout holding other bytes than that commit for what was read is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "The answer names the file written, its size, and the seconds the build took.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer names that commit and how many files under the root were read.",
     },
     {
       decisionKind: "decision-kind/departure",

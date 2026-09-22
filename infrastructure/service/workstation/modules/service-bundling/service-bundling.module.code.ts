@@ -1,10 +1,15 @@
 import { Buffer } from "node:buffer"
 import { existsSync, readdirSync, readFileSync, rmSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
+import {
+  PORCELAIN_STATUS_ARGS,
+  parsePorcelainStatusZ,
+} from "akasha/git/modules/porcelain-status/porcelain-status.module.code.ts"
+import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
 import { SERVICE_SUFFIX } from "akasha/infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import type { BunPlugin } from "bun"
 
 const SERVICE_PAGE_TYPE = "service-workstation"
 
@@ -30,6 +35,18 @@ const UNSEEN = -1
 
 const BUN = "bun"
 
+const READ_BY_BUNDLER = /\.(ts|tsx|js|jsx|mjs|cjs|json)$/
+
+const RECORDER = "service-bundling-closure"
+
+const UNTRACKED = "?"
+
+const UNTRACKED_ALL = "--untracked-files=all"
+
+const APART = "\0"
+
+const NAMED_AT_MOST = 12
+
 export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set(["service-watching"])
 
 const LEFT_FOR_RUNTIME: Readonly<Record<string, string>> = {
@@ -43,9 +60,14 @@ export type Built = {
   readonly at: string
   readonly bytes: number
   readonly seconds: number
+  readonly files: number
   readonly kept: readonly string[]
   readonly removed: readonly string[]
 }
+
+export type Moved = { readonly moved: ReadonlySet<string> } | { readonly refused: string }
+
+export type Drifted = { readonly drifted: readonly string[] } | { readonly refused: string }
 
 export type Swept = {
   readonly kept: readonly string[]
@@ -94,6 +116,23 @@ export function saidOfUnbuilt(slug: string, why: string): string {
   return `\`${slug}\` starts from its bundle, and this deploy built none — ${why}`
 }
 
+export function saidOfUnread(slug: string, running: string): string {
+  return (
+    `\`${slug}\` bundled without the bundler naming \`${running}\` among the files it read, ` +
+    "so which commit's bytes the bundle holds is not known"
+  )
+}
+
+export function saidOfDrift(slug: string, commit: string, drifted: readonly string[]): string {
+  const named = drifted.slice(0, NAMED_AT_MOST)
+  const rest = drifted.length - named.length
+  const more = rest === 0 ? "" : `, and ${rest} more`
+  return (
+    `\`${slug}\` would be filed under ${commit}, and the checkout holds other bytes than that ` +
+    `commit's for ${drifted.length} file(s) the bundler read: ${named.join(", ")}${more}`
+  )
+}
+
 export function stubAt(slug: string): string {
   return join(STUBS, `${slug}.entry.${TS}`)
 }
@@ -122,9 +161,23 @@ function whyOf(thrown: unknown): string {
   return thrown instanceof AggregateError ? whyIn(thrown.errors) : String(thrown)
 }
 
-type Text = { readonly text: string } | { readonly refused: string }
+type Text =
+  | { readonly text: string; readonly read: readonly string[] }
+  | { readonly refused: string }
+
+function recordingInto(read: string[]): BunPlugin {
+  return {
+    name: RECORDER,
+    setup(build) {
+      build.onLoad({ filter: READ_BY_BUNDLER }, (args) => {
+        read.push(args.path)
+      })
+    },
+  }
+}
 
 async function textOf(stub: string): Promise<Text> {
+  const read: string[] = []
   try {
     const built = await Bun.build({
       entrypoints: [stub],
@@ -132,14 +185,44 @@ async function textOf(stub: string): Promise<Text> {
       minify: false,
       sourcemap: "inline",
       external: EXTERNAL,
+      plugins: [recordingInto(read)],
     })
     if (!built.success) return { refused: whyIn(built.logs) }
     const first = built.outputs[0]
     if (first === undefined) return { refused: "the bundler wrote no file" }
-    return { text: await first.text() }
+    return { text: await first.text(), read }
   } catch (thrown) {
     return { refused: whyOf(thrown) }
   }
+}
+
+export function closureIn(root: string, read: readonly string[]): ReadonlySet<string> {
+  const under = root.endsWith("/") ? root : `${root}/`
+  const took = new Set<string>()
+  for (const one of read) {
+    if (one.startsWith(under)) took.add(one.slice(under.length))
+  }
+  return took
+}
+
+export function movedFrom(root: string, commit: string): Moved {
+  const changed = gitTold(root, ["diff", "--name-only", "-z", commit])
+  if (changed === null) {
+    return { refused: `git said nothing of how the checkout differs from ${commit}` }
+  }
+  const status = gitTold(root, [...PORCELAIN_STATUS_ARGS, UNTRACKED_ALL])
+  if (status === null) return { refused: "git said nothing of what the checkout holds untracked" }
+  const read = parsePorcelainStatusZ(status)
+  if (!read.ok) return { refused: read.error }
+  const moved = new Set(changed.split(APART).filter((one) => one !== ""))
+  for (const one of read.entries) if (one.index === UNTRACKED) moved.add(one.path)
+  return { moved }
+}
+
+export function driftedIn(root: string, commit: string, closure: ReadonlySet<string>): Drifted {
+  const moved = movedFrom(root, commit)
+  if ("refused" in moved) return moved
+  return { drifted: [...closure].filter((one) => moved.moved.has(one)).sort() }
 }
 
 function bundlesIn(at: string): readonly string[] {
@@ -215,7 +298,12 @@ export function sweptOf(home: string, slug: string, fresh: string): Swept {
   return { kept, removed }
 }
 
-export async function bundledFor(root: string, slug: string, home: string): Promise<Made> {
+export async function bundledFor(
+  root: string,
+  slug: string,
+  home: string,
+  commit: string
+): Promise<Made> {
   const reached = runningIn(root, slug)
   if (!("running" in reached)) return reached
   const stub = stubAt(slug)
@@ -224,10 +312,18 @@ export async function bundledFor(root: string, slug: string, home: string): Prom
   const made = await textOf(stub)
   const seconds = (Bun.nanoseconds() - began) / NANOS
   if ("refused" in made) return { refused: `\`${slug}\` would not bundle — ${made.refused}` }
-  const commit = headOf(root)
+  if (!made.read.includes(reached.running)) {
+    return { refused: saidOfUnread(slug, reached.running) }
+  }
+  const closure = closureIn(root, made.read)
+  const drifted = driftedIn(root, commit, closure)
+  if ("refused" in drifted)
+    return { refused: `\`${slug}\` would not be filed — ${drifted.refused}` }
+  if (drifted.drifted.length > 0) return { refused: saidOfDrift(slug, commit, drifted.drifted) }
   const at = bundleAt(home, slug, commit)
   await Bun.write(at, made.text)
   const swept = sweptOf(home, slug, bundleName(commit))
   const bytes = Buffer.byteLength(made.text)
-  return { built: { at, bytes, seconds, kept: swept.kept, removed: swept.removed } }
+  const files = closure.size
+  return { built: { at, bytes, seconds, files, kept: swept.kept, removed: swept.removed } }
 }

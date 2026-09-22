@@ -24,6 +24,14 @@ export const servicePuttingUp = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The commit each bundle is filed under is handed in rather than read from HEAD.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That is the commit the tree is pinned at, so one call puts up one commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A bundle that will not build refuses the whole call rather than leaving a unit naming it.",
     },

@@ -254,6 +254,15 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A bundle is built from the checkout, since a bundle needs no tree of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A checkout holding other bytes than the commit for what a bundle read refuses the deploy.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each thing a deploy puts up is named as soon as that thing reaches a machine.",
     },
     {

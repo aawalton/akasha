@@ -12,6 +12,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { infrastructureServiceBundle as page } from "akasha/command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.ts"
+import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import { bundledFor } from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
 import { homeAt } from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
 
@@ -35,14 +36,17 @@ export async function infrastructureServiceBundle(
   if (home === null) return refused(NO_HOME, OPERATIONAL)
 
   return await answering(async () => {
-    const made = await bundledFor(given.root, slug, home)
+    const commit = headOf(given.root)
+    const made = await bundledFor(given.root, slug, home, commit)
     if ("unnamed" in made) return refused(made.unnamed, INPUT)
     if ("refused" in made) return refused(made.refused, DATA)
     return told([
       ...keyedLines([
+        ["commit", commit],
         ["at", made.built.at],
         ["bytes", made.built.bytes],
         ["seconds", made.built.seconds.toFixed(PLACES)],
+        ["files", made.built.files],
       ]),
       ...keyedLines(made.built.kept.map((one) => [KEPT, one] as const)),
       ...keyedLines(made.built.removed.map((one) => [REMOVED, one] as const)),

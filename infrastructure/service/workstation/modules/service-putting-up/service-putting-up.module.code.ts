@@ -59,11 +59,11 @@ export type Bundled =
   | { readonly bundles: ReadonlyMap<string, string>; readonly said: readonly string[] }
   | Refused
 
-export async function bundlesBuilt(root: string, home: string): Promise<Bundled> {
+export async function bundlesBuilt(root: string, home: string, commit: string): Promise<Bundled> {
   const bundles = new Map<string, string>()
   const said: string[] = []
   for (const slug of LAUNCHED_FROM_BUNDLE) {
-    const made = await bundledFor(root, slug, home)
+    const made = await bundledFor(root, slug, home, commit)
     if (!("built" in made)) {
       return { refused: saidOfUnbuilt(slug, "unnamed" in made ? made.unnamed : made.refused) }
     }
@@ -100,6 +100,7 @@ export function plannedEvery(
 
 export async function putUpEvery(
   root: string,
+  commit: string,
   restarting: ReadonlySet<string> = new Set(),
   codeAt: string = "",
   up: string[] = []
@@ -107,7 +108,7 @@ export async function putUpEvery(
   const home = homeAt()
   if (home === null) return refusedBy([NO_HOME], OPERATIONAL)
 
-  const built = await bundlesBuilt(root, home)
+  const built = await bundlesBuilt(root, home, commit)
   if ("refused" in built) return refusedBy([built.refused], OPERATIONAL)
 
   const planned = plannedEvery(root, restarting, codeAt, built.bundles)

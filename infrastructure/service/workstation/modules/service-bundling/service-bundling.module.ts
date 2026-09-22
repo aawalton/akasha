@@ -69,7 +69,51 @@ export const serviceBundling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The bundle is filed under the commit the checkout is at.",
+      statement: "The bundle is filed under the commit the caller names rather than under HEAD.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every file the bundler read is recorded as it is read, and those are the closure.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A closure file the checkout holds other bytes for than that commit refuses the build.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One git question answers both a landing under the build and an uncommitted edit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A closure file the commit holds nowhere and the checkout holds untracked refuses too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That question is asked after the build, because only a build knows what it read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal names up to twelve of those files and counts the rest.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nothing builds a second time, so a build ends rather than chasing a moving HEAD.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A record missing the running code refuses rather than passing on a closure of nothing.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing writes the commit out as files, so no bundle is built from a checkout.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Git answers for no file git ignores, so `node_modules` is outside that question.",
     },
     {
       decisionKind: "decision-kind/departure",
