@@ -6,5 +6,6 @@ export const blessingOfFecundity = {
   slug: "blessing-of-fecundity",
   title: "Blessing of Fecundity",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldBoon
