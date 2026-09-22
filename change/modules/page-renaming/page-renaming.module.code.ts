@@ -170,7 +170,7 @@ function underIn(
   given: Asked,
   moved: ReadonlySet<string>
 ): readonly Move[] {
-  const paths = world.under(from)
+  const paths = [...new Set([...world.under(from), ...(world.claimed?.(from) ?? [])])].sort()
   const folders = foldersUnder(world.root, from, to, held.slug, given.to, paths)
   const opening = `${held.slug}.${held.pageTypeSlug}.`
   const found: Move[] = []

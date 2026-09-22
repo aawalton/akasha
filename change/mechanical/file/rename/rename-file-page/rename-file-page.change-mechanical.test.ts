@@ -5,6 +5,10 @@ import { runChange } from "akasha/change/mechanical/file/rename/rename-file-page
 import {
   ADDRESSED_PAGE,
   addressedAt,
+  CLAIMER_LANDS,
+  CLAIMER_PAGE,
+  CLAIMER_UNDER,
+  claimingAt,
   HOLDER_CHILD,
   HOLDER_KEPT,
   HOLDER_PAGE,
@@ -266,6 +270,15 @@ test("a page owning its folder carries what sits under that folder, each file on
     [OWNED_CODE, CARRIED_CODE],
     [OWNED_UNDER, OWNED_LANDS],
   ])
+})
+
+test("a file in a folder the page claims is carried with the page", async () => {
+  const held = claimingAt()
+
+  const said = await runChange(held.world, { at: CLAIMER_PAGE, to: CARRIED })
+
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toContainEqual([CLAIMER_UNDER, CLAIMER_LANDS])
 })
 
 test("a page alone in its folder with no file beside it carries that folder too", async () => {

@@ -1,9 +1,13 @@
-import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { type Answer, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   type Reaching,
   type World,
   worldAt,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import {
+  treeClaimed,
+  treeUnder,
+} from "akasha/change/modules/shadow-tree/change-shadow-tree.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
 import { workspaceManifest } from "akasha/code/workspace/properties/workspace-manifest.file-property.ts"
@@ -16,6 +20,8 @@ import {
   idOf,
   indexedRepo,
   pageOf,
+  put,
+  textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { entries } from "akasha/page/properties/entries.file-property.ts"
 import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
@@ -308,4 +314,34 @@ export const RUNS: Reaching = running
 
 export function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, RUNS)
+}
+
+const CLAIMED_AT = ".react-router"
+
+export const CLAIMER_PAGE = "akasha/claimed/claimer.module.ts"
+
+export const CLAIMER_UNDER = `akasha/claimed/${CLAIMED_AT}/types/routes.ts`
+
+export const CLAIMER_LANDS = `akasha/carried/${CLAIMED_AT}/types/routes.ts`
+
+export type Claiming = { readonly root: string; readonly world: World }
+
+export function claimingAt(): Claiming {
+  const root = indexedRepo({
+    [CLAIMER_PAGE]: pageOf({ id: oneId("12"), pageTypeSlug: "module", slug: "claimer" }),
+  })
+  put(root, CLAIMER_UNDER, "export const routes = 1\n")
+  const world = worldIn(root, textIn(root))
+  const face = {
+    ...world.index,
+    folderPropertiesAt: () => new Map([["module", new Map([["routes", CLAIMED_AT]])]]),
+  }
+  return {
+    root,
+    world: {
+      ...world,
+      under: (folder: string) => treeUnder(root, folder, face, stating([])),
+      claimed: (folder: string) => treeClaimed(root, folder, face, stating([])),
+    },
+  }
 }

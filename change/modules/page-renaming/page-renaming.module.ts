@@ -38,6 +38,10 @@ export const pageRenaming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A file in a folder the page claims is taken with the page as any other file is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A folder holding no file but one page's own is that page's folder.",
     },
     {
