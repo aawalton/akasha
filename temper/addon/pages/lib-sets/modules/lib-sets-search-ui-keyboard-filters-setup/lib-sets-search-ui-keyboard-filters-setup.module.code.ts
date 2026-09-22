@@ -1,6 +1,6 @@
 import { asTyped } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 import "akasha/temper/addon/type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-search-ui-shapes-3/lib-sets-search-ui-shapes-3.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
@@ -8,7 +8,7 @@ import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declar
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-const getLocalizedText = LibSets.GetLocalizedText
+const getLocalizedText = lib.GetLocalizedText
 
 function comboBoxFromContainer(this: void, container: SearchUIControl): SearchUIComboBox {
   return asTyped<SearchUIComboBox>(ZO_ComboBox_ObjectFromContainer(asTyped<Control>(container)))

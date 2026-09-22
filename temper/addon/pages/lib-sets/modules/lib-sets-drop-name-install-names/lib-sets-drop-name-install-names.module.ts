@@ -10,7 +10,7 @@ export const libSetsDropNameInstallNames = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The tables are written onto the library global rather than exported.",
+      statement: "The tables are written onto the library table rather than exported.",
     },
     {
       decisionKind: "decision-kind/gap",

@@ -1,8 +1,6 @@
 import { asPresent } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
-import {
-  fallbackLang,
-  lib,
-} from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-loc-game-strings/lib-sets-loc-game-strings.module.code.ts"
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
+import { fallbackLang } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-loc-game-strings/lib-sets-loc-game-strings.module.code.ts"
 import {
   LANG_DE,
   LANG_EN,

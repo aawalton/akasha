@@ -5,8 +5,8 @@ import {
   libPrefix,
   MAJOR,
 } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lib-sets-ui/eso-lib-sets-ui.type-declaration.d.ts"
@@ -15,9 +15,9 @@ export let preventEndlessCallDungeonFinderData = false
 
 export let retTableDungeons: string[] | undefined
 
-export const getDungeonFinderDataFromChildNodes = LibSets.GetDungeonFinderDataFromChildNodes
+export const getDungeonFinderDataFromChildNodes = lib.GetDungeonFinderDataFromChildNodes
 
-export const openDungeonFinder = LibSets.OpenDungeonFinder
+export const openDungeonFinder = lib.OpenDungeonFinder
 
 export function freshDungeonTable(this: void): string[] | undefined {
   return undefined
@@ -91,8 +91,8 @@ export function debugGetDungeonFinderData(
     retTableDungeons.length > 0 &&
     dungeonsAdded > 0
   ) {
-    LibSets.LoadSavedVariables()
-    const sv = asPresent(LibSets.svDebugData)
+    lib.LoadSavedVariables()
+    const sv = asPresent(lib.svDebugData)
     sv[LIBSETS_TABLEKEY_DUNGEONFINDER_DATA] = retTableDungeons
     d(
       "->Stored " +
@@ -112,7 +112,7 @@ export function debugGetDungeonFinderData(
   } else {
     if (openDungeonFinderNow === true) {
       d("<No dungeon data was found! Opening the dungeon finder now")
-      openDungeonFinder(dfIndex, LibSets.DebugGetDungeonFinderData, noReload)
+      openDungeonFinder(dfIndex, lib.DebugGetDungeonFinderData, noReload)
     }
   }
 }

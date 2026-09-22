@@ -16,10 +16,8 @@ import { JP } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-nam
 import { PL } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-name-names-pl/lib-sets-drop-name-names-pl.module.code.ts"
 import { RU } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-name-names-ru/lib-sets-drop-name-names-ru.module.code.ts"
 import { ZH } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-name-names-zh/lib-sets-drop-name-names-zh.module.code.ts"
-import {
-  checkIfPTSAPIVersionIsLive,
-  lib,
-} from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-name-shared-text/lib-sets-drop-name-shared-text.module.code.ts"
+import { checkIfPTSAPIVersionIsLive } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-name-shared-text/lib-sets-drop-name-shared-text.module.code.ts"
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 lib.dropMechanicIdToName = {
   [LANG_DE]: DE,

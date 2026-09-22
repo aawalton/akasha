@@ -18,8 +18,8 @@ import {
   UNKNOWN_NAME,
   worldName,
 } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
@@ -82,7 +82,7 @@ export function showSetCountsScanned(
         for (const [idx, newSetId] of ipairs(SCAN_STATE.newSetIdsFound)) {
           let newSetName: string | undefined
           const preloadedSetNames = asSetNamesTableOpt(
-            LibSets.setDataPreloaded[LIBSETS_TABLEKEY_SETNAMES]
+            lib.setDataPreloaded[LIBSETS_TABLEKEY_SETNAMES]
           )
           if (preloadedSetNames[newSetId] !== undefined) {
             newSetName =
@@ -110,8 +110,8 @@ export function showSetCountsScanned(
         }
       }
 
-      LibSets.LoadSavedVariables()
-      const sv = asPresent(LibSets.svDebugData)
+      lib.LoadSavedVariables()
+      const sv = asPresent(lib.svDebugData)
       if (newSetsFound > 0) {
         const apiVersionUpdatedStr = tostring(apiVersion) + "_UpdateInfo"
         if (sv[LIBSETS_TABLEKEY_NEWSETIDS] === undefined) {

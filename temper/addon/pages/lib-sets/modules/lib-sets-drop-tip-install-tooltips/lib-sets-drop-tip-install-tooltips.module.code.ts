@@ -8,10 +8,7 @@ import {
   LANG_RU,
   LANG_ZH,
 } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-tip-language-codes/lib-sets-drop-tip-language-codes.module.code.ts"
-import {
-  checkIfPTSAPIVersionIsLive,
-  lib,
-} from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-tip-shared-text/lib-sets-drop-tip-shared-text.module.code.ts"
+import { checkIfPTSAPIVersionIsLive } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-tip-shared-text/lib-sets-drop-tip-shared-text.module.code.ts"
 import { DE } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-tip-tooltips-de/lib-sets-drop-tip-tooltips-de.module.code.ts"
 import { EN } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-tip-tooltips-en/lib-sets-drop-tip-tooltips-en.module.code.ts"
 import { ES } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-tip-tooltips-es/lib-sets-drop-tip-tooltips-es.module.code.ts"
@@ -20,6 +17,7 @@ import { JP } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-tip
 import { PL } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-tip-tooltips-pl/lib-sets-drop-tip-tooltips-pl.module.code.ts"
 import { RU } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-tip-tooltips-ru/lib-sets-drop-tip-tooltips-ru.module.code.ts"
 import { ZH } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-drop-tip-tooltips-zh/lib-sets-drop-tip-tooltips-zh.module.code.ts"
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 lib.dropMechanicIdToNameTooltip = {
   [LANG_DE]: DE,
