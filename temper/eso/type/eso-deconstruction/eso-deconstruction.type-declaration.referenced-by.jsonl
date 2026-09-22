@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-bank/fco-bank.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-main-menu/modules/main-menu-library/main-menu-library.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-main-menu/modules/main-menu-scenes/main-menu-scenes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/alchemy-station/alchemy-station.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-events/potion-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-main-menu/potion-main-menu.module.code.ts"}
@@ -9,8 +11,6 @@
 {"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/rune-glyph-refining/rune-glyph-refining.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/rune-mode/rune-mode.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-refine/inventory-rules-dispatch-refine.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-library/main-menu-library.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-scenes/main-menu-scenes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-core/journal-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-main-menu/journal-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-deconstruction.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-window/journal-window.module.code.ts"}

@@ -41,7 +41,7 @@ export interface FcocsState {
   blacklistKeyWords: string[]
   LSB: unknown
   LAM: unknown
-  LMM2: unknown
+  mainMenu: unknown
   originalUnitCPEffectiveFunc: unknown
   originalUnitCPFunc: unknown
   originalCPFunc: unknown
@@ -92,7 +92,7 @@ export const STATE: FcocsState = {
   blacklistKeyWords: [],
   LSB: undefined,
   LAM: undefined,
-  LMM2: undefined,
+  mainMenu: undefined,
   originalUnitCPEffectiveFunc: undefined,
   originalUnitCPFunc: undefined,
   originalCPFunc: undefined,

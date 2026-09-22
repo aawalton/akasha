@@ -558,6 +558,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-housing/temper-housing.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-interface/temper-interface.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-keybinder/temper-keybinder.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-main-menu/temper-main-menu.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-notification/temper-notification.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-selector/temper-selector.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/crafting-sets.domain.ts"}

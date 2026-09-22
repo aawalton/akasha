@@ -1,1 +1,0 @@
-import "akasha/temper/addon/pages/lib-main-menu/modules/main-menu-publish/main-menu-publish.module.code.ts"

@@ -31,8 +31,7 @@
     "TemperHud",
     "LibDebugLogger",
     "LibAddonMenu-2.0>=43",
-    "LibCustomMenu>=692",
-    "LibMainMenu-2.0>=432"
+    "LibCustomMenu>=692"
   ],
   "optionalDependsOn": [
     "TamrielTradeCentre",

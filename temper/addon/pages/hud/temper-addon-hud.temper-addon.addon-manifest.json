@@ -28,7 +28,6 @@
   "optionalDependsOn": [
     "LibDebugLogger",
     "LibGroupBroadcast",
-    "LibMainMenu-2.0",
     "FCOChatTabBrain",
     "pChat",
     "PerfectPixel",

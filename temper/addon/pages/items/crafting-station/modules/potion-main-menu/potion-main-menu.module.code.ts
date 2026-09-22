@@ -24,7 +24,7 @@ import {
 } from "akasha/temper/addon/pages/items/crafting-station/modules/potion-window-helpers/potion-window-helpers.module.code.ts"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-main-menu/lib-main-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-main-menu-global/temper-main-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
@@ -183,8 +183,8 @@ function initMainMenu(this: void): undefined {
   potions()
   poisons()
 
-  PotMaker.LMM2 = LibMainMenu2
-  PotMaker.LMM2?.Init()
+  PotMaker.mainMenu = TemperMainMenu
+  PotMaker.mainMenu?.Init()
 
   const categoryLayoutInfo = {
     binding: "POTIONMAKER",
@@ -205,7 +205,7 @@ function initMainMenu(this: void): undefined {
     disabled: "esoui/art/inventory/inventory_tabicon_consumables_disabled.dds",
   }
 
-  PotMaker.LMM2?.AddMenuItem(descriptor, categoryLayoutInfo as LibMainMenu2MenuItemData)
+  PotMaker.mainMenu?.AddMenuItem(descriptor, categoryLayoutInfo as TemperMainMenuItemData)
   GAMEPAD_ALCHEMY_ROOT_SCENE.AddFragment(RIGHT_PANEL_BG_FRAGMENT)
   GAMEPAD_ALCHEMY_ROOT_SCENE.AddFragment(fragment)
 

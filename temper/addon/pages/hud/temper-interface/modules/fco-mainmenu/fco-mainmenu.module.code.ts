@@ -1,15 +1,16 @@
 import { STATE } from "akasha/temper/addon/pages/hud/temper-interface/modules/fco-state/fco-state.module.code.ts"
 import { addButton } from "akasha/temper/addon/pages/hud/temper-interface/modules/fco-utils/fco-utils.module.code.ts"
+import { MAIN_MENU_API } from "akasha/temper/addon/pages/hud/temper-main-menu/modules/main-menu-library/main-menu-library.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-main-menu/lib-main-menu.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-main-menu-bar/eso-main-menu-bar.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra/eso-interface-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
@@ -225,16 +226,12 @@ function addAddonSettingsMainMenuButton(this: void): boolean | undefined {
   if (STATE.settingsVars.settings.showAddonSettingsMainMenuButton !== true) {
     return false
   }
-  STATE.LMM2 = LibMainMenu2
-  const lmm2 = LibMainMenu2
-  if (lmm2 === undefined) {
-    return
-  }
+  STATE.mainMenu = MAIN_MENU_API
 
   if (FCOC_SMAIN_MENU_BUTTON_WAS_ADDED !== true) {
-    lmm2.Init()
+    MAIN_MENU_API.Init()
     const descriptor = STATE.addonVars.addonName
-    const categoryLayoutInfo: LibMainMenu2MenuItemData = {
+    const categoryLayoutInfo: LmmCategoryLayoutInfo = {
       binding: "FCOCS_ADDON_SETTINGS_MENU",
       categoryName: SI_BINDING_NAME_FCOCS_ADDON_SETTINGS_MENU,
       callback: openLAMAddonSettings,
@@ -249,7 +246,7 @@ function addAddonSettingsMainMenuButton(this: void): boolean | undefined {
       highlight: "esoui/art/charactercreate/rotate_right_over.dds",
       disabled: "esoui/art/charactercreate/rotate_right_disabled.dds",
     }
-    lmm2.AddMenuItem(descriptor, categoryLayoutInfo)
+    MAIN_MENU_API.AddMenuItem(descriptor, categoryLayoutInfo)
     FCOC_SMAIN_MENU_BUTTON_WAS_ADDED = true
   }
 }

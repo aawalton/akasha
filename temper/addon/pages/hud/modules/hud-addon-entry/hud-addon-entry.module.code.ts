@@ -4,6 +4,7 @@ import "akasha/temper/addon/pages/hud/temper-errors/modules/errors-addon-entry/e
 import "akasha/temper/addon/pages/hud/modules/hud-addon-public-api/hud-addon-public-api.module.code.ts"
 import "akasha/temper/addon/pages/hud/temper-async/modules/async-main/async-main.module.code.ts"
 import "akasha/temper/addon/pages/hud/temper-chat-message/modules/chat-message-main/chat-message-main.module.code.ts"
+import "akasha/temper/addon/pages/hud/temper-main-menu/modules/main-menu-entry/main-menu-entry.module.code.ts"
 import "akasha/temper/addon/pages/hud/temper-notification/modules/notification-entry/notification-entry.module.code.ts"
 
 import { initializeHudBar } from "akasha/temper/addon/pages/hud/modules/hud-addon-bar/hud-addon-bar.module.code.ts"

@@ -37,7 +37,7 @@ import "akasha/temper/addon/pages/items/crafting-station/modules/potion-search/p
 import "akasha/temper/addon/pages/items/crafting-station/modules/potion-settings-menu/potion-settings-menu.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/modules/potion-tooltips/potion-tooltips.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/modules/potion-windows/potion-windows.module.code.ts"
-import "akasha/temper/addon/type/lib-main-menu-shape/lib-main-menu-shape.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-main-menu-shape/temper-main-menu-shape.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
@@ -120,7 +120,7 @@ function toggleTemperPotions(this: void): undefined {
   if (PotMaker.atAlchemyStation) {
     return
   }
-  ;(PotMaker.LMM2 as LibMainMenu2Lib | undefined)?.SelectMenuItem(PotMaker.descriptorPotion)
+  ;(PotMaker.mainMenu as TemperMainMenuLib | undefined)?.SelectMenuItem(PotMaker.descriptorPotion)
 }
 
 PotMaker.SelectPotionOfWrit = function (this: void): boolean {

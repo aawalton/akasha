@@ -12,6 +12,8 @@
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/shifter-types/shifter-types.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/shifter-validation/shifter-validation.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-main-menu/modules/main-menu-shape/main-menu-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-notification/modules/notification-types/notification-types.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-copy-dialog/sets-copy-dialog.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-lifecycle-ui-buttons/sets-core-lifecycle-ui-buttons.module.code.ts"}
@@ -48,8 +50,6 @@
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/menu-row-factories/menu-row-factories.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-shape/main-menu-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-lib/map-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}

@@ -25,7 +25,7 @@ interface LibAddonMenuHandle {
   currentAddonPanel?: unknown
 }
 
-interface LibMainMenu2MenuItemData {
+interface TemperMainMenuItemData {
   binding?: string
   categoryName?: string | number
   callback?: (this: void) => undefined

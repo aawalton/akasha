@@ -46,12 +46,12 @@ interface LAM2Surface {
   ) => undefined
 }
 
-interface LMM2WithRefresh {
+interface MainMenuWithRefresh {
   Refresh: (this: void) => undefined
 }
 
-function asLMM2WithRefresh(value: unknown): LMM2WithRefresh {
-  return value as LMM2WithRefresh
+function asMainMenuWithRefresh(value: unknown): MainMenuWithRefresh {
+  return value as MainMenuWithRefresh
 }
 
 function asLAM2Surface(value: unknown): LAM2Surface {
@@ -74,7 +74,7 @@ function initSettingsMenu(this: void): undefined {
     registerForRefresh: true,
     registerForDefaults: true,
   }
-  const lmm2 = asLMM2WithRefresh(PotMaker.LMM2)
+  const mainMenu = asMainMenuWithRefresh(PotMaker.mainMenu)
 
   const optionsTable: LAM2OptionEntry[] = [
     {
@@ -187,7 +187,7 @@ function initSettingsMenu(this: void): undefined {
       },
       setFunc: function (this: void, value: boolean | string): undefined {
         getAccountSettings().showMainMenuItem = asBoolean(value)
-        lmm2.Refresh()
+        mainMenu.Refresh()
       },
       width: "full",
       default: PotMaker.accountDefaults.showMainMenuItem,

@@ -442,6 +442,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-keybinder/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-keybinder/temper-keybinder.domain.ts","id":"01a0c714-5feb-711a-9cd3-b64a8d77564d"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-main-menu/modules/main-menu-keyboard/main-menu-keyboard.module.ts","id":"01a0605b-c803-7076-8256-6e18f678aa85"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-main-menu/temper-main-menu.domain.ts","id":"01a0c744-5d84-7921-beec-e7d56b1b150e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-notification/temper-notification.domain.ts","id":"01a0c72a-85c8-7f52-9a11-b347634ce417"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-auto-autocompletion/sets-auto-autocompletion.module.ts","id":"01a0623c-2df7-7942-a655-e30b89d4db2b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-copy-dialog/sets-copy-dialog.module.ts","id":"01a0623c-2df8-7c0d-ae66-7d2de026a998"}
@@ -585,8 +587,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/temper-lib-addon-menu.temper-addon.ts","id":"01a06292-8851-701c-9273-a19fa38175bb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-custom-menu/temper-lib-custom-menu.temper-addon.ts","id":"01a0605a-581c-7eb1-aaf7-831f236462fa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/temper-lib-debug-logger.temper-addon.ts","id":"01a06061-408b-7657-add9-d2dfd959f9b9"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-main-menu/modules/main-menu-keyboard/main-menu-keyboard.module.ts","id":"01a0605b-c803-7076-8256-6e18f678aa85"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-main-menu/temper-lib-main-menu.temper-addon.ts","id":"01a0605b-c805-73f4-b1b0-5aa7831a19d4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-lib/map-ping-lib.module.ts","id":"01a0605f-6261-7a99-9a87-668ce21f8a59"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/temper-lib-map-ping.temper-addon.ts","id":"01a0605f-625e-7267-be33-c5a31b618626"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-pins/temper-lib-map-pins.temper-addon.ts","id":"01a06062-57dc-7eeb-bb3d-6badd05f9bf5"}
