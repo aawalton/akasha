@@ -42,7 +42,7 @@ import "akasha/temper/addon/type/lib-scrollable-menu/lib-scrollable-menu.type-de
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes-2/sets-search-ui-shapes-2.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes-4/sets-search-ui-shapes-4.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes/sets-search-ui-shapes.type-declaration.d.ts"
-import { LIBSETS_SETTYPE_CRAFTED } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-settype-ids/sets-const-settype-ids.module.code.ts"
+import { SETS_SETTYPE_CRAFTED } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-settype-ids/sets-const-settype-ids.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
@@ -282,7 +282,7 @@ sharedClass.ShowRowContextMenu = function (
 
     if (data.itemLink !== undefined) {
       const setType = data.setType
-      const isCraftedSet = setType === LIBSETS_SETTYPE_CRAFTED
+      const isCraftedSet = setType === SETS_SETTYPE_CRAFTED
 
       if (!isCraftedSet) {
         AddCustomScrollableMenuHeader(getLocalizedText("headerItemLinks"))

@@ -1,19 +1,19 @@
 import {
-  LIBSETS_SETTYPE_ARENA,
-  LIBSETS_SETTYPE_BATTLEGROUND,
-  LIBSETS_SETTYPE_CLASS,
-  LIBSETS_SETTYPE_CRAFTED,
-  LIBSETS_SETTYPE_CYRODIIL,
-  LIBSETS_SETTYPE_CYRODIIL_MONSTER,
-  LIBSETS_SETTYPE_DAILYRANDOMDUNGEONANDICREWARD,
-  LIBSETS_SETTYPE_DUNGEON,
-  LIBSETS_SETTYPE_IMPERIALCITY,
-  LIBSETS_SETTYPE_IMPERIALCITY_MONSTER,
-  LIBSETS_SETTYPE_MONSTER,
-  LIBSETS_SETTYPE_MYTHIC,
-  LIBSETS_SETTYPE_OVERLAND,
-  LIBSETS_SETTYPE_SPECIAL,
-  LIBSETS_SETTYPE_TRIAL,
+  SETS_SETTYPE_ARENA,
+  SETS_SETTYPE_BATTLEGROUND,
+  SETS_SETTYPE_CLASS,
+  SETS_SETTYPE_CRAFTED,
+  SETS_SETTYPE_CYRODIIL,
+  SETS_SETTYPE_CYRODIIL_MONSTER,
+  SETS_SETTYPE_DAILYRANDOMDUNGEONANDICREWARD,
+  SETS_SETTYPE_DUNGEON,
+  SETS_SETTYPE_IMPERIALCITY,
+  SETS_SETTYPE_IMPERIALCITY_MONSTER,
+  SETS_SETTYPE_MONSTER,
+  SETS_SETTYPE_MYTHIC,
+  SETS_SETTYPE_OVERLAND,
+  SETS_SETTYPE_SPECIAL,
+  SETS_SETTYPE_TRIAL,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-settype-ids/sets-const-settype-ids.module.code.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
@@ -36,7 +36,7 @@ export const LANG_PL = "pl"
 export const zocstrfor = ZO_CachedStrFormat
 
 export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } } = {
-  [LIBSETS_SETTYPE_ARENA]: {
+  [SETS_SETTYPE_ARENA]: {
     [LANG_DE]: "Arena",
     [LANG_EN]: "Arena",
     [LANG_ES]: "Arena",
@@ -46,7 +46,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "Aрена",
     [LANG_ZH]: "竞技场",
   },
-  [LIBSETS_SETTYPE_BATTLEGROUND]: {
+  [SETS_SETTYPE_BATTLEGROUND]: {
     [LANG_DE]: "Schlachtfeld",
     [LANG_EN]: "Battleground",
     [LANG_ES]: "Campo de batalla",
@@ -56,7 +56,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "Поле боя",
     [LANG_ZH]: "战场",
   },
-  [LIBSETS_SETTYPE_CRAFTED]: {
+  [SETS_SETTYPE_CRAFTED]: {
     [LANG_DE]: "Handwerklich hergestellt",
     [LANG_EN]: "Crafted",
     [LANG_ES]: "Hecho a mano",
@@ -66,7 +66,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "Созданный",
     [LANG_ZH]: "制造",
   },
-  [LIBSETS_SETTYPE_CYRODIIL]: {
+  [SETS_SETTYPE_CYRODIIL]: {
     [LANG_DE]: "Cyrodiil",
     [LANG_EN]: "Cyrodiil",
     [LANG_ES]: "Cyrodiil",
@@ -76,7 +76,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "Сиродил",
     [LANG_ZH]: "西罗帝尔",
   },
-  [LIBSETS_SETTYPE_DAILYRANDOMDUNGEONANDICREWARD]: {
+  [SETS_SETTYPE_DAILYRANDOMDUNGEONANDICREWARD]: {
     [LANG_DE]: "Zufälliges Verlies & Kaiserstadt Belohnung",
     [LANG_EN]: "Random Dungeons & Imperial city " + zocstrfor("<<c:1>>", "Reward"),
     [LANG_ES]: "Mazmorras aleatorias y ciudad imperial " + zocstrfor("<<c:1>>", "Recompensa"),
@@ -86,7 +86,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "Случайное ежедневное подземелье и награда Имперского города",
     [LANG_ZH]: "随机地下城 & 帝都 " + zocstrfor("<<c:1>>", "奖励"),
   },
-  [LIBSETS_SETTYPE_DUNGEON]: {
+  [SETS_SETTYPE_DUNGEON]: {
     [LANG_DE]: "Verlies",
     [LANG_EN]: "Dungeon",
     [LANG_ES]: "Calabozo",
@@ -96,7 +96,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "Подземелье",
     [LANG_ZH]: "地下城",
   },
-  [LIBSETS_SETTYPE_IMPERIALCITY]: {
+  [SETS_SETTYPE_IMPERIALCITY]: {
     [LANG_DE]: "Kaiserstadt",
     [LANG_EN]: "Imperial city",
     [LANG_ES]: "Ciudad imperial",
@@ -106,7 +106,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "Имперский город",
     [LANG_ZH]: "帝都",
   },
-  [LIBSETS_SETTYPE_MONSTER]: {
+  [SETS_SETTYPE_MONSTER]: {
     [LANG_DE]: "Monster",
     [LANG_EN]: "Monster",
     [LANG_ES]: "Monstruo",
@@ -116,7 +116,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "Монстр",
     [LANG_ZH]: "怪物",
   },
-  [LIBSETS_SETTYPE_OVERLAND]: {
+  [SETS_SETTYPE_OVERLAND]: {
     [LANG_DE]: "Überland",
     [LANG_EN]: "Overland",
     [LANG_ES]: "Zone terrestre",
@@ -126,7 +126,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "Поверхности",
     [LANG_ZH]: "陆上",
   },
-  [LIBSETS_SETTYPE_SPECIAL]: {
+  [SETS_SETTYPE_SPECIAL]: {
     [LANG_DE]: "Besonders",
     [LANG_EN]: "Special",
     [LANG_ES]: "Especial",
@@ -136,7 +136,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "Специальный",
     [LANG_ZH]: "特殊",
   },
-  [LIBSETS_SETTYPE_TRIAL]: {
+  [SETS_SETTYPE_TRIAL]: {
     [LANG_DE]: "Prüfungen",
     [LANG_EN]: "Trial",
     [LANG_ES]: "Ensayo",
@@ -146,7 +146,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "Испытание",
     [LANG_ZH]: "试炼",
   },
-  [LIBSETS_SETTYPE_MYTHIC]: {
+  [SETS_SETTYPE_MYTHIC]: {
     [LANG_DE]: "Mythisch",
     [LANG_EN]: "Mythic",
     [LANG_ES]: "Mítico",
@@ -156,7 +156,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "мифический",
     [LANG_ZH]: "神话",
   },
-  [LIBSETS_SETTYPE_IMPERIALCITY_MONSTER]: {
+  [SETS_SETTYPE_IMPERIALCITY_MONSTER]: {
     [LANG_DE]: "Kaiserstadt Monster",
     [LANG_EN]: "Imperial city monster",
     [LANG_ES]: "Ciudad imperial monstruo",
@@ -166,7 +166,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "Имперский город Монстр",
     [LANG_ZH]: "帝都怪物",
   },
-  [LIBSETS_SETTYPE_CYRODIIL_MONSTER]: {
+  [SETS_SETTYPE_CYRODIIL_MONSTER]: {
     [LANG_DE]: "Cyrodiil Monster",
     [LANG_EN]: "Cyrodiil monster",
     [LANG_ES]: "Cyrodiil monstruo",
@@ -176,7 +176,7 @@ export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } 
     [LANG_RU]: "Сиродил Монстр",
     [LANG_ZH]: "西罗帝尔怪物",
   },
-  [LIBSETS_SETTYPE_CLASS]: {
+  [SETS_SETTYPE_CLASS]: {
     [LANG_DE]: "Klassen spezifisch",
     [LANG_EN]: "Class specific",
     [LANG_ES]: "Específico de la clase",

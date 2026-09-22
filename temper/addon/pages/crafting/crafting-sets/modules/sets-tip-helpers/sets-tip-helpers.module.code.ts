@@ -26,8 +26,8 @@ import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declara
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-globals/sets-search-ui-globals.type-declaration.d.ts"
 import {
-  LIBSETS_SETTYPE_CRAFTED,
-  LIBSETS_SETTYPE_MONSTER,
+  SETS_SETTYPE_CRAFTED,
+  SETS_SETTYPE_MONSTER,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-settype-ids/sets-const-settype-ids.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -80,7 +80,7 @@ export function checkTraitsNeededGiven(this: void, setData: { [key: string]: unk
   return (
     setType !== undefined &&
     setData["traitsNeeded"] !== undefined &&
-    setType === LIBSETS_SETTYPE_CRAFTED
+    setType === SETS_SETTYPE_CRAFTED
   )
 }
 
@@ -127,7 +127,7 @@ export function addNonVeteranUndauntedChestName(
     return ""
   }
   const buildTexturesResolved = buildTextures ?? false
-  if (setType === LIBSETS_SETTYPE_MONSTER) {
+  if (setType === SETS_SETTYPE_MONSTER) {
     const undauntedChestName = asPresent(undauntedChestIdNames[undauntedChestId])
     let undauntedChestTextureAndName: string
     if (STATE.tooltipTextures === true || buildTexturesResolved === true) {

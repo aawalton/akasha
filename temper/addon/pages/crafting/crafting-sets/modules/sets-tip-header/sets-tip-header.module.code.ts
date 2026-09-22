@@ -11,9 +11,9 @@ import { asChestNameTable } from "akasha/temper/addon/pages/crafting/crafting-se
 import { STATE } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-tip-state/sets-tip-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import {
-  LIBSETS_SETTYPE_CYRODIIL_MONSTER,
-  LIBSETS_SETTYPE_IMPERIALCITY_MONSTER,
-  LIBSETS_SETTYPE_MONSTER,
+  SETS_SETTYPE_CYRODIIL_MONSTER,
+  SETS_SETTYPE_IMPERIALCITY_MONSTER,
+  SETS_SETTYPE_MONSTER,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-settype-ids/sets-const-settype-ids.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-03/eso-enums-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
@@ -38,14 +38,14 @@ const SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR = lib.setTypeToDropZoneLocalization
 STATE.veteranDungeonIconStr = zo_iconTextFormat(vetDungTexture, 24, 24, dungeonStr, undefined)
 
 export const MONSTER_SET_TYPE_TO_VETERAN_STR: { [setType: number]: string } = {
-  [LIBSETS_SETTYPE_MONSTER]: STATE.veteranDungeonIconStr,
-  [LIBSETS_SETTYPE_IMPERIALCITY_MONSTER]: imperialCityStr,
-  [LIBSETS_SETTYPE_CYRODIIL_MONSTER]: cyrodiilStr,
+  [SETS_SETTYPE_MONSTER]: STATE.veteranDungeonIconStr,
+  [SETS_SETTYPE_IMPERIALCITY_MONSTER]: imperialCityStr,
+  [SETS_SETTYPE_CYRODIIL_MONSTER]: cyrodiilStr,
 }
 export const MONSTER_SET_TYPE_TO_NO_VETERAN_STR: { [setType: number]: string } = {
-  [LIBSETS_SETTYPE_MONSTER]: undauntedChestStr,
-  [LIBSETS_SETTYPE_IMPERIALCITY_MONSTER]: imperialSewersStr,
-  [LIBSETS_SETTYPE_CYRODIIL_MONSTER]: cyrodiilStr,
+  [SETS_SETTYPE_MONSTER]: undauntedChestStr,
+  [SETS_SETTYPE_IMPERIALCITY_MONSTER]: imperialSewersStr,
+  [SETS_SETTYPE_CYRODIIL_MONSTER]: cyrodiilStr,
 }
 
 export const BLACKLISTED_SET_IDS_FOR_ZONE_TOOLTIPS: { [setId: number]: boolean } = {
@@ -190,7 +190,7 @@ function isLibSetsTooltipEnabled(this: void): undefined {
     STATE.tooltipTextures === true
       ? zo_iconTextFormat(vetDungTexture, 24, 24, dungeonStr, undefined)
       : vetDungeonStr
-  MONSTER_SET_TYPE_TO_VETERAN_STR[LIBSETS_SETTYPE_MONSTER] = STATE.veteranDungeonIconStr
+  MONSTER_SET_TYPE_TO_VETERAN_STR[SETS_SETTYPE_MONSTER] = STATE.veteranDungeonIconStr
 
   STATE.addDropLocation = asBooleanOpt(tooltipSV["addDropLocation"])
   STATE.addDropMechanic = asBooleanOpt(tooltipSV["addDropMechanic"])

@@ -1,5 +1,5 @@
 import { asPresent } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
-import { LIBSETS_SETTYPE_CRAFTED } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-settype-ids/sets-const-settype-ids.module.code.ts"
+import { SETS_SETTYPE_CRAFTED } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-settype-ids/sets-const-settype-ids.module.code.ts"
 import type { SetTextFields } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-set-text-set-text-fields/sets-set-text-set-text-fields.module.code.ts"
 import {
   dropLocationZonesStr,
@@ -78,7 +78,7 @@ export function applyDefaultLayout(this: void, fields: SetTextFields): undefined
     !isReconstructableSet &&
     (!forTooltipResolved || STATE.addNeededTraits) &&
     setType !== undefined &&
-    setType === LIBSETS_SETTYPE_CRAFTED
+    setType === SETS_SETTYPE_CRAFTED
   ) {
     if (!forTooltipResolved || STATE.addSetType) {
       if (setInfoText !== undefined) {
