@@ -211,8 +211,9 @@ export function ruled(prefix: string): string {
   return root
 }
 
-export function tracked(): string {
+export function tracked(bodies: Readonly<Record<string, string>> = {}): string {
   const root = ruled("akasha-syntax-rule-audit-")
+  for (const [path, body] of Object.entries(bodies)) writing(root, path, body)
   const done = ran(["git", "-C", root, "init", "-q"])
   if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
   const added = ran(["git", "-C", root, "add", "-A"])
