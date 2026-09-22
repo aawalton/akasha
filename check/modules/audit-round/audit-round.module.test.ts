@@ -6,7 +6,6 @@ import {
   answeredIn,
   latestOf,
   merged,
-  owedCarrying,
   satisfying,
   splitting,
   type Turned,
@@ -14,7 +13,6 @@ import {
   type Underway,
   type Waiting,
 } from "akasha/check/modules/audit-round/audit-round.module.code.ts"
-import { gathered } from "akasha/check/modules/audit-serving/audit-serving.module.test-fixtures.ts"
 import type { Verdict } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 
 const NOW = "2026-09-16T00:00:00.000Z"
@@ -59,8 +57,6 @@ test("a check that turned clean again turns nothing", () => {
   const red: Verdict = { ...CLEAN, refusals: ["one.ts — no"] }
   expect(turnedIn(["no-class"], held([["no-class", red]]), held([["no-class", CLEAN]]))).toEqual([])
 })
-
-const GATHERED = [gathered("no-class", "/r"), gathered("lint-clean", "/r")]
 
 function underway(checks: readonly string[]): Underway {
   return { checks: new Set(checks), told: Promise.resolve(NOTHING) }
@@ -170,19 +166,6 @@ test("a check two rounds both answer is carried once", () => {
   expect(said.ran.map((one) => one.check)).toEqual(["no-class"])
   expect(said.turned).toEqual(["no-class"])
   expect(said.refused).toEqual(["the cluster would not take it"])
-})
-
-test("a check with no verdict yet is carried nowhere and is asked for", () => {
-  expect(owedCarrying(GATHERED, held([]), "abc")).toEqual([])
-})
-
-test("a check whose verdict is at this commit already is carried nowhere", () => {
-  expect(owedCarrying(GATHERED, held([["no-class", CLEAN]]), "abc")).toEqual([])
-})
-
-test("a check whose verdict is at an older commit is owed carrying", () => {
-  const owed = owedCarrying(GATHERED, held([["no-class", CLEAN]]), "def")
-  expect(owed.map((one) => one.slug)).toEqual(["no-class"])
 })
 
 test("every check answering is carried back whether that check refused or not", () => {

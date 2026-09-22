@@ -4,17 +4,12 @@ import {
   type Recording,
   verdictSent,
 } from "akasha/check/modules/audit-recording/audit-recording.module.code.ts"
-import {
-  type Asking,
-  movedIn,
-} from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import type { Verdict } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import type { Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
 import { recorded } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 export const scratch = scratchWorld()
 
@@ -47,23 +42,6 @@ export function gathered(slug: string, root: string): Gathered {
     runsOn: ["audit"],
     isInput: null,
     run: () => [],
-  }
-}
-
-export function taking(slug: string, root: string, ending: string): Gathered {
-  return { ...gathered(slug, root), isInput: (path) => path.endsWith(ending) }
-}
-
-export function carrying(root: string, made: readonly string[]): Asking {
-  const commit = made[1] ?? ""
-  return {
-    root,
-    home: "/h",
-    check: taking("shell-clean", root, ".sh"),
-    over: { change: NOTHING, commit },
-    asked: commit,
-    moved: movedIn(root, commit),
-    shadow: shadowAsked(NOTHING),
   }
 }
 

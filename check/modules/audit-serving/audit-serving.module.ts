@@ -223,8 +223,8 @@ export const auditServing = {
       statement: "A verdict is written here only where the log holds none at the commit asked.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A carried verdict is written here, no process having run to write it.",
+      decisionKind: "decision-kind/absence",
+      statement: "No verdict is written here for a commit no run here measured.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -331,35 +331,11 @@ export const auditServing = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "A check whose input never moved since its verdict is carried rather than run.",
+      statement: "A check whose commit moved since its verdict is run again at that commit.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A carried verdict keeps the moment it ran and takes the newer commit.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The files moved between two commits are asked of git.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A span is asked of git once however many checks ask for that span.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A check naming no input is run rather than carried.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A span git could not answer is run rather than carried.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An asker handing over no span carries nothing forward.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A verdict that refused is carried forward as a verdict that refuses.",
+      statement: "What a check reads is the whole tree rather than the input that check names.",
     },
     {
       decisionKind: "decision-kind/departure",

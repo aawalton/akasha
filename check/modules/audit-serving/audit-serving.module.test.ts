@@ -3,13 +3,11 @@ import { existsSync } from "node:fs"
 import {
   auditOne,
   bodyFor,
-  carriedOn,
   championOf,
   childAt,
   commitOf,
   judgedIn,
   keyFor,
-  movedIn,
   type Over,
   refusalsNew,
   roundOver,
@@ -20,7 +18,6 @@ import {
 } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import {
   CLEAN,
-  carrying,
   checked,
   cleanKept,
   gathered,
@@ -30,7 +27,6 @@ import {
   NOW,
   repoOf,
   scratch,
-  taking,
 } from "akasha/check/modules/audit-serving/audit-serving.module.test-fixtures.ts"
 import {
   type Verdict,
@@ -38,7 +34,6 @@ import {
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import type { Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -278,24 +273,25 @@ test("an asker at a commit after the verdict is run again", async () => {
   expect(verdictLogged(root, one.page, LOGS)?.refusals).toEqual(["one.ts — one refused"])
 })
 
-test("a check whose input never moved is carried onto the newer commit in its log", async () => {
+test("a check whose commit moved is run again however narrow its input", async () => {
   const { root, made } = await repoOf(2)
   const one = { ...checked("shell-clean", root), isInput: (path: string) => path.endsWith(".sh") }
   await cleanKept(root, one, made[0] ?? "")
+  let runs = 0
   const ran = await auditOne({
     root,
     home: scratch.rootFor("akasha-audit-serving-home-"),
     check: one,
     over: { change: NOTHING, commit: made[1] ?? "" },
     asked: made[1] ?? "",
-    moved: movedIn(root, made[1] ?? ""),
-    shadow: shadowAsked(NOTHING),
     record: into(root),
-    run: async () => {
-      throw new Error("this check was run where its verdict could be carried")
+    run: async (): Promise<readonly Judged[]> => {
+      runs += 1
+      return []
     },
   })
-  expect(ran.ran).toBe(false)
+  expect(runs).toBe(1)
+  expect(ran.ran).toBe(true)
   expect(verdictLogged(root, one.page, LOGS)?.commit).toBe(made[1] ?? "")
 })
 
@@ -324,106 +320,20 @@ test("many askers at one commit are answered by one run", async () => {
   expect(two.verdict).toEqual(three.verdict)
 })
 
-test("a span of commits is answered by the files git says moved", async () => {
+test("a verdict that refused at an older commit is measured again rather than replayed", async () => {
   const { root, made } = await repoOf(2)
-  const moved = movedIn(root, made[1] ?? "")
-  expect(await moved(made[0] ?? "")).toEqual(["one.txt"])
-  expect(await moved(made[1] ?? "")).toEqual([])
-})
-
-test("a span git cannot answer is no span", async () => {
-  const { root, made } = await repoOf(1)
-  const moved = movedIn(root, made[0] ?? "")
-  expect(await moved("0000000000000000000000000000000000000000")).toBeNull()
-})
-
-test("a check whose input never moved is carried to the newer commit", async () => {
-  const { root, made } = await repoOf(2)
-  const carried = await carriedOn(
-    {
-      root,
-      home: "/h",
-      check: taking("shell-clean", root, ".sh"),
-      over: { change: NOTHING, commit: made[1] ?? "" },
-      asked: made[1] ?? "",
-      moved: movedIn(root, made[1] ?? ""),
-      shadow: shadowAsked(NOTHING),
-    },
-    { ...CLEAN, commit: made[0] ?? "" }
-  )
-  expect(carried?.commit).toBe(made[1] ?? "")
-  expect(carried?.ranAt).toBe(NOW)
-})
-
-test("a check whose input moved is run rather than carried", async () => {
-  const { root, made } = await repoOf(2)
-  const carried = await carriedOn(
-    {
-      root,
-      home: "/h",
-      check: taking("no-tmp", root, ".txt"),
-      over: { change: NOTHING, commit: made[1] ?? "" },
-      asked: made[1] ?? "",
-      moved: movedIn(root, made[1] ?? ""),
-      shadow: shadowAsked(NOTHING),
-    },
-    { ...CLEAN, commit: made[0] ?? "" }
-  )
-  expect(carried).toBeNull()
-})
-
-test("a check naming no input is run rather than carried", async () => {
-  const { root, made } = await repoOf(2)
-  const carried = await carriedOn(
-    {
-      root,
-      home: "/h",
-      check: gathered("typecheck", root),
-      over: { change: NOTHING, commit: made[1] ?? "" },
-      asked: made[1] ?? "",
-      moved: movedIn(root, made[1] ?? ""),
-      shadow: shadowAsked(NOTHING),
-    },
-    { ...CLEAN, commit: made[0] ?? "" }
-  )
-  expect(carried).toBeNull()
-})
-
-test("an asker handing over no span carries nothing forward", async () => {
-  const { root, made } = await repoOf(2)
-  const carried = await carriedOn(
-    {
-      root,
-      home: "/h",
-      check: taking("shell-clean", root, ".sh"),
-      over: { change: NOTHING, commit: made[1] ?? "" },
-      asked: made[1] ?? "",
-    },
-    { ...CLEAN, commit: made[0] ?? "" }
-  )
-  expect(carried).toBeNull()
-})
-
-test("an unmeasured verdict is run again rather than carried, its input unmoved", async () => {
-  const { root, made } = await repoOf(2)
-  const before = { ...CLEAN, commit: made[0] ?? "", refusals: ["one.sh — no"], unrun: true }
-  expect(await carriedOn(carrying(root, made), before)).toBeNull()
-})
-
-test("a verdict that refused is carried forward as a verdict that refuses", async () => {
-  const { root, made } = await repoOf(2)
-  const carried = await carriedOn(
-    {
-      root,
-      home: "/h",
-      check: taking("shell-clean", root, ".sh"),
-      over: { change: NOTHING, commit: made[1] ?? "" },
-      asked: made[1] ?? "",
-      moved: movedIn(root, made[1] ?? ""),
-      shadow: shadowAsked(NOTHING),
-    },
-    { ...CLEAN, commit: made[0] ?? "", refusals: ["one.sh — no"] }
-  )
-  expect(carried?.refusals).toEqual(["one.sh — no"])
-  expect(carried?.commit).toBe(made[1] ?? "")
+  const one = { ...checked("shell-clean", root), isInput: (path: string) => path.endsWith(".sh") }
+  await cleanKept(root, one, made[0] ?? "")
+  const ran = await auditOne({
+    root,
+    home: scratch.rootFor("akasha-audit-serving-home-"),
+    check: one,
+    over: { change: NOTHING, commit: made[1] ?? "" },
+    asked: made[1] ?? "",
+    record: into(root),
+    run: async () => [{ path: "one.sh", reason: "no" }],
+  })
+  expect(ran.verdict.refusals).toEqual(["one.sh — no"])
+  expect(ran.verdict.ranAt).not.toBe(NOW)
+  expect(verdictLogged(root, one.page, LOGS)?.commit).toBe(made[1] ?? "")
 })

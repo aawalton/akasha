@@ -105,24 +105,12 @@ export const auditRound = {
       statement: "A round reads the verdicts it had before the checks are judged.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A check whose input never moved is carried onto this commit before any job.",
+      decisionKind: "decision-kind/absence",
+      statement: "No verdict here is carried onto a commit that verdict was not measured at.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A check carried that way is asked of the cluster by nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A check with no verdict yet is carried nowhere and is asked for.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A check whose verdict is at this commit already is carried nowhere.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The tree is walked once for the carrying rather than once for each check.",
+      statement: "Every check this round covers is asked of the cluster.",
     },
     {
       decisionKind: "decision-kind/departure",

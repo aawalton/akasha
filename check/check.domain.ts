@@ -139,8 +139,12 @@ export const check = {
       statement: "An unmeasured check is counted and told apart from a check that refused.",
     },
     {
+      decisionKind: "decision-kind/absence",
+      statement: "No answer is carried to a commit that answer was not measured at.",
+    },
+    {
       decisionKind: "decision-kind/departure",
-      statement: "An unmeasured answer is not carried to a later commit.",
+      statement: "The audit reads the whole tree, so what moved says nothing about its answer.",
     },
     {
       decisionKind: "decision-kind/departure",
