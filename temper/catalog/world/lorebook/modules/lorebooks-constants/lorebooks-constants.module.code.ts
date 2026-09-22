@@ -1,6 +1,5 @@
 export const ADDON_NAME = "TemperLoreBooks"
-export const ADDON_VERSION = "106"
-export const ADDON_WEBSITE = "http://www.esoui.com/downloads/info288-LoreBooks.html"
+export const ADDON_VERSION = "1.0.0"
 export const ADDON_PANEL = "TemperLoreBooksPanel"
 export const SAVED_VARIABLES_NAME = "TemperLoreBooks_SavedVariables"
 export const SAVEDVARIABLES_VERSION = 3

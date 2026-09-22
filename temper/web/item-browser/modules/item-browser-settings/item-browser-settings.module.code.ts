@@ -1,10 +1,7 @@
 import { Public } from "akasha/temper/addon/pages/world/collections/modules/journal-state/journal-state.module.code.ts"
 import { header } from "akasha/temper/addon/shared/settings-panel/modules/header/header.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
-import {
-  ADDON_NAME,
-  ADDON_URL,
-} from "akasha/temper/web/item-browser/modules/item-browser-constants/item-browser-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/web/item-browser/modules/item-browser-constants/item-browser-constants.module.code.ts"
 import {
   getVars,
   setSettingsPanel,
@@ -31,7 +28,6 @@ export function registerSettingsPanel(this: void): undefined {
     type: "panel",
     name: GetString(SI_ITEMBROWSER_TITLE),
     version: LibCodesCommonCode.FormatVersion(LibCodesCommonCode.GetAddOnVersion(ADDON_NAME)),
-    website: ADDON_URL,
     registerForRefresh: true,
   }
 

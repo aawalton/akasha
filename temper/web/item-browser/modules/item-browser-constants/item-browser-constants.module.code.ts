@@ -2,7 +2,7 @@ import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 
 export const ADDON_NAME = "TemperItemBrowser"
 export const SAVED_VARIABLES_NAME = "TemperItemBrowser_SavedVariables"
-export const ADDON_URL = "https://www.esoui.com/downloads/info1480.html"
+
 export const SLASH_COMMANDS_LIST = ["/itembrowser", "/ib"] as const
 
 export const TAB_NAME = "ItemBrowser"

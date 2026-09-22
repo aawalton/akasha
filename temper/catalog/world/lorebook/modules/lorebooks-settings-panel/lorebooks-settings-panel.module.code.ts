@@ -3,7 +3,6 @@ import { addCompassPinOptions } from "akasha/temper/catalog/world/lorebook/modul
 import {
   ADDON_PANEL,
   ADDON_VERSION,
-  ADDON_WEBSITE,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
 import { addImmersiveModeOptions } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-immersive-mode/lorebooks-immersive-mode.module.code.ts"
 import { addMapPinFilterOptions } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-map-pin-filters/lorebooks-map-pin-filters.module.code.ts"
@@ -26,7 +25,6 @@ export function createLamPanel(): undefined {
     slashCommand: "/lorebooks",
     registerForRefresh: true,
     registerForDefaults: true,
-    website: ADDON_WEBSITE,
   }
 
   let thePanelControl: unknown

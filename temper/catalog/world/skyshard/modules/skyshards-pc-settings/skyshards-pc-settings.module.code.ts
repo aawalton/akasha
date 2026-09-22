@@ -5,7 +5,6 @@ import { whenPanelControlsCreated } from "akasha/temper/addon/shared/settings-pa
 import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import {
   ADDON_VERSION,
-  ADDON_WEBSITE,
   buildDefaults,
   PIN_TEXTURES,
   PINS_COLLECTED,
@@ -255,7 +254,6 @@ export function createSettingsMenu(this: void): undefined {
     slashCommand: "/skyshards",
     registerForRefresh: true,
     registerForDefaults: false,
-    website: ADDON_WEBSITE,
   }
   const settingsPanel = registerPanel(LAM, OPTIONS_PANEL_ID, panelData, buildOptionsTable())
 

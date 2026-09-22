@@ -2,8 +2,7 @@ import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 export const ADDON_NAME = "TemperSkyShards"
 export const SAVED_VARIABLES_NAME = "TemperSkyShards_SavedVariables"
-export const ADDON_VERSION = "10.64"
-export const ADDON_WEBSITE = "http://www.esoui.com/downloads/info128-SkyShards.html"
+export const ADDON_VERSION = "1.0.0"
 
 export const PINS_UNKNOWN = "SkySMapPin_unknown"
 export const PINS_COLLECTED = "SkySMapPin_collected"

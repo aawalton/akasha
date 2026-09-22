@@ -51,8 +51,6 @@ function asLamControlList(value: unknown): LamControlList {
   return value as LamControlList
 }
 
-const ADDON_WEBSITE = "http://www.esoui.com/downloads/info561-LostTreasure.html"
-
 const MARK_OPTIONS: {
   labels: string[]
   values: MarkOption[]
@@ -96,7 +94,6 @@ export function initializeSettings(this: void): undefined {
     displayName: ADDON_DISPLAY_NAME,
     author: getAddonAuthor(),
     version: tostring(getAddonVersion()),
-    website: ADDON_WEBSITE,
     registerForRefresh: true,
     registerForDefaults: true,
   }
