@@ -4,6 +4,6 @@ export const claudeCode = {
   id: "01a065b0-2100-7a41-9c02-3e5197d4b91f",
   type: "page-type/domain",
   slug: "claude-code",
-  definition: "the program an agent in akasha runs inside",
+  definition: "an akasha agent's program",
   parts: ["domain/claude-code-session", "domain/claude-code-tool", "module/claude-launch-args"],
 } as const satisfies Domain
