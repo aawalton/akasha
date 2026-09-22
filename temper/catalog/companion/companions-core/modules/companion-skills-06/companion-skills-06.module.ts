@@ -4,7 +4,7 @@ export const companionSkills06 = {
   id: "01a06119-5cad-7e18-92ea-db65fa71db27",
   type: "page-type/module",
   slug: "companion-skills-06",
-  definition: "a run of companion skills, in the order the whole table names them",
+  definition: "a set of companion skills, in the order the whole table names them",
   code: "ts",
   decisions: [
     {
