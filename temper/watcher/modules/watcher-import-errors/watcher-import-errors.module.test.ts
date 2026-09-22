@@ -18,7 +18,7 @@ const FRONTIER = 1_700_000_000
 const HOUR = 3600
 
 const LEGACY_ENVELOPE_LINE =
-  'TemperHud: {"kind":"temper-error","signature":"fresh boom\\n","traceback":"stack traceback: chunk:12","message":"fresh boom","count":2,"firstSeenAt":"2023-11-14T22:12:20.000Z","lastSeenAt":"2023-11-14T22:13:20.000Z","eventCode":7,"account":"@alan","character":"Vex","triage":"unknown"}'
+  'Temper: {"kind":"temper-error","signature":"fresh boom\\n","traceback":"stack traceback: chunk:12","message":"fresh boom","count":2,"firstSeenAt":"2023-11-14T22:12:20.000Z","lastSeenAt":"2023-11-14T22:13:20.000Z","eventCode":7,"account":"@alan","character":"Vex","triage":"unknown"}'
 
 interface Seed {
   readonly message: string
@@ -126,9 +126,9 @@ test("an error never carried up before is logged as one line of json", async () 
 test("how many errors were held back is logged before any error is logged", async () => {
   const lines = await linesFrom(savedFile([FRESH, LONG_UNSEEN]), freshCursorPath())
   expect(lines).toEqual([
-    "TemperHud: suppressed 1 stale-residue entry",
+    "Temper: suppressed 1 stale-residue entry",
     LEGACY_ENVELOPE_LINE,
-    "TemperHud: recorded 1 error envelope",
+    "Temper: recorded 1 error envelope",
   ])
 })
 
@@ -136,12 +136,12 @@ test("a second run over the same cursor carries nothing up", async () => {
   const cursorPath = freshCursorPath()
   const content = savedFile([FRESH, LONG_UNSEEN])
   await linesFrom(content, cursorPath)
-  expect(await linesFrom(content, cursorPath)).toEqual(["TemperHud: no new or recurred errors"])
+  expect(await linesFrom(content, cursorPath)).toEqual(["Temper: no new or recurred errors"])
 })
 
 test("a file holding no errors at all carries nothing up", async () => {
   expect(await linesFrom(savedFile([]), freshCursorPath())).toEqual([
-    "TemperHud: no new or recurred errors",
+    "Temper: no new or recurred errors",
   ])
 })
 
@@ -182,17 +182,17 @@ test("an error attributed to no addon is judged unknown", async () => {
 test("a log of errors carried up ends with how many were carried up", () => {
   const lines = errorLogLines(decision(2, 0))
   expect(lines).toHaveLength(3)
-  expect(lines[2]).toBe("TemperHud: recorded 2 error envelopes")
+  expect(lines[2]).toBe("Temper: recorded 2 error envelopes")
 })
 
 test("one error held back reads as an entry and two read as entries", () => {
-  expect(errorLogLines(decision(0, 1))[0]).toBe("TemperHud: suppressed 1 stale-residue entry")
-  expect(errorLogLines(decision(0, 2))[0]).toBe("TemperHud: suppressed 2 stale-residue entries")
+  expect(errorLogLines(decision(0, 1))[0]).toBe("Temper: suppressed 1 stale-residue entry")
+  expect(errorLogLines(decision(0, 2))[0]).toBe("Temper: suppressed 2 stale-residue entries")
 })
 
 test("errors held back with none carried up logs both facts", () => {
   expect(errorLogLines(decision(0, 3))).toEqual([
-    "TemperHud: suppressed 3 stale-residue entries",
-    "TemperHud: no new or recurred errors",
+    "Temper: suppressed 3 stale-residue entries",
+    "Temper: no new or recurred errors",
   ])
 })

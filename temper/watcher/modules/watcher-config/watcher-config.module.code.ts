@@ -60,7 +60,7 @@ export function buildConfig(dirs: ConfigDirs = {}): WatcherConfig {
       "TemperCharacters",
       "TemperCharactersCompanionsConfig.lua"
     ),
-    temperErrorsPath: join(savedVarsDir, "TemperHud.lua"),
+    temperErrorsPath: join(savedVarsDir, "Temper.lua"),
     salesPath: join(savedVarsDir, "TemperItems.lua"),
   }
 }

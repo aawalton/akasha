@@ -205,7 +205,7 @@ test("a file that is not there is warned about and left unwatched", async () => 
   const { said, start } = await startWith({ isThere: (p) => p !== CONFIG.temperErrorsPath })
   expect(start.kind === "watching" && start.watching).toHaveLength(6)
   expect(said.info).toContain(
-    `Warning: TemperHud.lua not found at ${CONFIG.temperErrorsPath}, skipping`
+    `Warning: Temper.lua not found at ${CONFIG.temperErrorsPath}, skipping`
   )
 })
 

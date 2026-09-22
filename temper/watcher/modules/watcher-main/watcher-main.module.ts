@@ -48,6 +48,10 @@ export const watcherMain = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A file named for the root add-on alone is labelled with that add-on's name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A file that is absent is warned about.",
     },
     {

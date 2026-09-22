@@ -80,7 +80,7 @@ test("a saved-variables file is named for the addon that writes it", () => {
   expect(CONFIG.temperCatalogPath).toBe("/game/SavedVariables/TemperCatalog.lua")
   expect(CONFIG.dataMiningPath).toBe("/game/SavedVariables/TemperCatalog.lua")
   expect(CONFIG.inventoryPath).toBe("/game/SavedVariables/TemperItems.lua")
-  expect(CONFIG.temperErrorsPath).toBe("/game/SavedVariables/TemperHud.lua")
+  expect(CONFIG.temperErrorsPath).toBe("/game/SavedVariables/Temper.lua")
   expect(CONFIG.salesPath).toBe("/game/SavedVariables/TemperItems.lua")
 })
 

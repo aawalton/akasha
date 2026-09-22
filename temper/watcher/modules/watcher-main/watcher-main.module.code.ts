@@ -43,7 +43,9 @@ const UPDATE_CHECK_MIN_INTERVAL_MS = 60_000
 
 const HOURLY_UPDATE_CHECK_MS = 60 * 60_000
 
-const WATCHED_NAME = /^Temper(.+)\.lua$/
+const WATCHED_NAME = /^Temper(.*)\.lua$/
+
+const ROOT_LABEL = "Temper"
 
 export interface Logs {
   readonly log: (message: string) => undefined
@@ -85,7 +87,9 @@ export interface WatchingFiles {
 export type WatcherStart = WatchingFiles | ExitWanted
 
 export function watchedLabel(fileName: string): string {
-  return WATCHED_NAME.exec(fileName)?.[1] ?? fileName
+  const said = WATCHED_NAME.exec(fileName)?.[1]
+  if (said === undefined) return fileName
+  return said === "" ? ROOT_LABEL : said
 }
 
 export function fatalLine(kind: string, err: unknown): string {
