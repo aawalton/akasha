@@ -96,17 +96,23 @@ export function saidOfMoved(moved: Moved): string {
   )
 }
 
-export function movingUnder(at: string, from: string | null): Moving {
+function toldAt(at: string): { readonly to: string | null; readonly why: string } {
   const stamp = stampOver(at)
-  if (stamp === null) return { moving: "unknown", why: saidOfNoStamp(at) }
-  const to = commitAt(stamp)
-  if (to === null || from === null) return { moving: "unknown", why: saidOfNoCommit(stamp) }
+  if (stamp === null) return { to: bundleNamedBy(at), why: saidOfNoStamp(at) }
+  return { to: commitAt(stamp), why: saidOfNoCommit(stamp) }
+}
+
+export function movingUnder(at: string, from: string | null): Moving {
+  const { to, why } = toldAt(at)
+  if (to === null || from === null) return { moving: "unknown", why }
   return from === to ? { moving: "still" } : { moving: "moved", moved: { from, to } }
 }
 
 const HERE = import.meta.dir
 
-const STARTED: string | null = commitOver(HERE)
+const SELF = import.meta.path
+
+const STARTED: string | null = commitOver(HERE) ?? bundleCommitIn(SELF)
 
 export function codeMoving(): Moving {
   return movingUnder(HERE, STARTED)
