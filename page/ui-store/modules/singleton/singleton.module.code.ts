@@ -9,6 +9,10 @@ import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const HYDRATE_GATE_TIMEOUT_MS = 3_000
 
+const CARRIED: Readonly<Record<string, readonly string[]>> = {
+  "temper-task": ["progress"],
+}
+
 function boundBootGate(gate: Promise<void>, timeoutMs: number, gateName: string): Promise<void> {
   let timer: ReturnType<typeof setTimeout> | null = null
   const bound = new Promise<void>((resolve) => {
@@ -47,9 +51,14 @@ const envReadyPromise: Promise<void> = new Promise((resolve) => {
 export function getPagesStore(): Promise<PagesStore> {
   if (storePromise === null) {
     storePromise = Promise.resolve(
-      createPagesStore(persistencePort, 250, () => {
-        contentPersistencePort?.clear()
-      })
+      createPagesStore(
+        persistencePort,
+        250,
+        () => {
+          contentPersistencePort?.clear()
+        },
+        { carry: CARRIED }
+      )
     )
   }
   return storePromise

@@ -11,5 +11,13 @@ export const singleton = {
       decisionKind: "decision-kind/gap",
       statement: "A supabase url and anon key are taken here and reach nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A temper task's listing carries the progress rows filed beside that task.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other page type is listed without the rows filed beside its pages.",
+    },
   ],
 } as const satisfies Module
