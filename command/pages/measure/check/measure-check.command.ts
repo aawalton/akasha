@@ -18,7 +18,7 @@ export const measureCheck = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The check group holds the change runs, the worktree runs and the deploy runs.",
+      statement: "The check group holds the change runs and the deploy runs.",
     },
     {
       decisionKind: "decision-kind/departure",
