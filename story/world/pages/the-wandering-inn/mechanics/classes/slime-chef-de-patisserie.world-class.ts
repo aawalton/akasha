@@ -6,5 +6,6 @@ export const slimeChefDePatisserie = {
   slug: "slime-chef-de-patisserie",
   title: "Slime Chef de Patisserie",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldClass

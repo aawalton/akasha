@@ -6,6 +6,7 @@ export const skeletonKnight = {
   slug: "skeleton-knight",
   title: "Skeleton Knight",
   world: "world/the-wandering-inn",
+  appearanceCount: 12,
   evolvesFromSlugs: ["class-relic-guardian", "guardian"],
   evolvesToSlugs: ["deathkindly-guardian", "skeleton-king-of-terror"],
   references: "jsonl",

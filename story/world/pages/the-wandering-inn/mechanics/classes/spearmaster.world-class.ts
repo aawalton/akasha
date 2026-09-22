@@ -6,6 +6,7 @@ export const spearmaster = {
   slug: "spearmaster",
   title: "Spearmaster",
   world: "world/the-wandering-inn",
+  appearanceCount: 105,
   aliases: ["spearmasters"],
   evolvesToSlugs: ["spearmaster-the-spear-of-silence"],
   references: "jsonl",
