@@ -237,10 +237,6 @@ export const checkCode = {
       decisionKind: "decision-kind/departure",
       statement: "An audit reads a body only from the commit that audit judges.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An audit asks whether a path is there rather than reading a body to find out.",
-    },
   ],
   directives: [
     {
