@@ -5,7 +5,7 @@ export const inventoryDiagnosticsReading = {
   type: "page-type/module",
   slug: "inventory-diagnostics-reading",
   definition:
-    "one diagnostic the inventory addon left in its saved variables, found by walking the accounts",
+    "a diagnostic the inventory addon left in its saved variables, found by walking the accounts",
   code: "ts",
   test: "ts",
   decisions: [

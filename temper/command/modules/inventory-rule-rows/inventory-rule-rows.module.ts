@@ -4,7 +4,7 @@ export const inventoryRuleRows = {
   id: "01a068f6-dedf-7995-b1bc-45a280695fe1",
   type: "page-type/module",
   slug: "inventory-rule-rows",
-  definition: "the columns a rule listing prints and the row one item rule prints as",
+  definition: "the columns a rule listing prints and the row an item rule prints as",
   code: "ts",
   test: "ts",
   decisions: [
