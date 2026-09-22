@@ -53,8 +53,8 @@ function onSkyshardsUpdated(this: void): undefined {
 
 const CLICK_HANDLER: Record<number, MapPinClickAction> = {
   [1]: {
-    name: GetString(SKYS_SET_WAYPOINT),
-    gamepadName: GetString(SKYS_SET_WAYPOINT),
+    name: GetString(SI_TEMPER_SKYSHARDS_SET_WAYPOINT),
+    gamepadName: GetString(SI_TEMPER_SKYSHARDS_SET_WAYPOINT),
     show: function (this: void, _pin: MapPin): boolean {
       return true
     },
@@ -172,8 +172,18 @@ export function onLoad(this: void, _eventCode: number, addOnName: string): undef
     PIN_TOOLTIP_CREATOR
   )
 
-  MAP_PINS.AddPinFilter(PINS_UNKNOWN, GetString(SKYS_FILTER_UNKNOWN), false, db.filters)
-  MAP_PINS.AddPinFilter(PINS_COLLECTED, GetString(SKYS_FILTER_COLLECTED), false, db.filters)
+  MAP_PINS.AddPinFilter(
+    PINS_UNKNOWN,
+    GetString(SI_TEMPER_SKYSHARDS_FILTER_UNKNOWN),
+    false,
+    db.filters
+  )
+  MAP_PINS.AddPinFilter(
+    PINS_COLLECTED,
+    GetString(SI_TEMPER_SKYSHARDS_FILTER_COLLECTED),
+    false,
+    db.filters
+  )
 
   MAP_PINS.SetClickHandlers(PINS_UNKNOWN, CLICK_HANDLER)
   MAP_PINS.SetClickHandlers(PINS_COLLECTED, CLICK_HANDLER)

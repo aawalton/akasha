@@ -259,7 +259,7 @@ holder.InitPinSizes = function (this: TemperMiniMap): undefined {
       "pinType_Skyshards",
       "pinType_Skyshards_done",
     ]
-    addAddonPins(mapPins, "Sky Shards", asNumber(G.SKYS_TITLE))
+    addAddonPins(mapPins, "Sky Shards", asNumber(G.SI_TEMPER_SKYSHARDS_TITLE))
   }
 
   addCustomPin(asNumber(G.VotansFishermanPinType), "Votan's Fisherman Pins")

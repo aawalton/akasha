@@ -72,11 +72,11 @@ function createAllIconPreviews(this: void): undefined {
 
 function buildImmersiveChoices(this: void): readonly string[] {
   return [
-    GetString(SKYS_IMMERSIVE_CHOICE1),
-    GetString(SKYS_IMMERSIVE_CHOICE2),
-    GetString(SKYS_IMMERSIVE_CHOICE3),
-    GetString(SKYS_IMMERSIVE_CHOICE4),
-    GetString(SKYS_IMMERSIVE_CHOICE5),
+    GetString(SI_TEMPER_SKYSHARDS_IMMERSIVE_CHOICE1),
+    GetString(SI_TEMPER_SKYSHARDS_IMMERSIVE_CHOICE2),
+    GetString(SI_TEMPER_SKYSHARDS_IMMERSIVE_CHOICE3),
+    GetString(SI_TEMPER_SKYSHARDS_IMMERSIVE_CHOICE4),
+    GetString(SI_TEMPER_SKYSHARDS_IMMERSIVE_CHOICE5),
   ]
 }
 
@@ -101,8 +101,8 @@ function buildOptionsTable(this: void): LamControlData[] {
   const options: LamControlData[] = [
     {
       ...dropdown({
-        name: GetString(SKYS_PIN_TEXTURE),
-        tooltip: GetString(SKYS_PIN_TEXTURE_DESC),
+        name: GetString(SI_TEMPER_SKYSHARDS_PIN_TEXTURE),
+        tooltip: GetString(SI_TEMPER_SKYSHARDS_PIN_TEXTURE_DESC),
         choices: [textureName(1), textureName(2), textureName(3), textureName(4), textureName(5)],
         get: () => db.pinTexture.type - 1,
         set: (index) => {
@@ -127,8 +127,8 @@ function buildOptionsTable(this: void): LamControlData[] {
     },
     {
       type: "slider",
-      name: GetString(SKYS_PIN_SIZE),
-      tooltip: GetString(SKYS_PIN_SIZE_DESC),
+      name: GetString(SI_TEMPER_SKYSHARDS_PIN_SIZE),
+      tooltip: GetString(SI_TEMPER_SKYSHARDS_PIN_SIZE_DESC),
       min: 20,
       max: 70,
       getFunc: () => db.pinTexture.size,
@@ -146,8 +146,8 @@ function buildOptionsTable(this: void): LamControlData[] {
     },
     {
       type: "slider",
-      name: GetString(SKYS_PIN_LAYER),
-      tooltip: GetString(SKYS_PIN_LAYER_DESC),
+      name: GetString(SI_TEMPER_SKYSHARDS_PIN_LAYER),
+      tooltip: GetString(SI_TEMPER_SKYSHARDS_PIN_LAYER_DESC),
       min: 10,
       max: 200,
       step: 5,
@@ -164,8 +164,8 @@ function buildOptionsTable(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: GetString(SKYS_UNKNOWN),
-      tooltip: GetString(SKYS_UNKNOWN_DESC),
+      name: GetString(SI_TEMPER_SKYSHARDS_UNKNOWN),
+      tooltip: GetString(SI_TEMPER_SKYSHARDS_UNKNOWN_DESC),
       getFunc: () => filterEnabled(PINS_UNKNOWN),
       setFunc: (state) => {
         db.filters[PINS_UNKNOWN] = state
@@ -175,8 +175,8 @@ function buildOptionsTable(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: GetString(SKYS_COLLECTED),
-      tooltip: GetString(SKYS_COLLECTED_DESC),
+      name: GetString(SI_TEMPER_SKYSHARDS_COLLECTED),
+      tooltip: GetString(SI_TEMPER_SKYSHARDS_COLLECTED_DESC),
       getFunc: () => filterEnabled(PINS_COLLECTED),
       setFunc: (state) => {
         db.filters[PINS_COLLECTED] = state
@@ -186,8 +186,8 @@ function buildOptionsTable(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: GetString(SKYS_COMPASS_UNKNOWN),
-      tooltip: GetString(SKYS_COMPASS_UNKNOWN_DESC),
+      name: GetString(SI_TEMPER_SKYSHARDS_COMPASS_UNKNOWN),
+      tooltip: GetString(SI_TEMPER_SKYSHARDS_COMPASS_UNKNOWN_DESC),
       getFunc: () => filterEnabled(PINS_COMPASS),
       setFunc: (state) => {
         db.filters[PINS_COMPASS] = state
@@ -197,8 +197,8 @@ function buildOptionsTable(this: void): LamControlData[] {
     },
     {
       type: "slider",
-      name: GetString(SKYS_COMPASS_DIST),
-      tooltip: GetString(SKYS_COMPASS_DIST_DESC),
+      name: GetString(SI_TEMPER_SKYSHARDS_COMPASS_DIST),
+      tooltip: GetString(SI_TEMPER_SKYSHARDS_COMPASS_DIST_DESC),
       min: 1,
       max: 100,
       getFunc: () => db.compassMaxDistance * 1000,
@@ -216,8 +216,8 @@ function buildOptionsTable(this: void): LamControlData[] {
     },
     {
       type: "colorpicker",
-      name: GetString(SKYS_MAINWORLD),
-      tooltip: GetString(SKYS_MAINWORLD_DESC),
+      name: GetString(SI_TEMPER_SKYSHARDS_MAINWORLD),
+      tooltip: GetString(SI_TEMPER_SKYSHARDS_MAINWORLD_DESC),
       getFunc: () => {
         return getMainworldColor().UnpackRGBA()
       },
@@ -231,8 +231,8 @@ function buildOptionsTable(this: void): LamControlData[] {
       default: ZO_SELECTED_TEXT,
     },
     dropdown({
-      name: GetString(SKYS_IMMERSIVE),
-      tooltip: GetString(SKYS_IMMERSIVE_DESC),
+      name: GetString(SI_TEMPER_SKYSHARDS_IMMERSIVE),
+      tooltip: GetString(SI_TEMPER_SKYSHARDS_IMMERSIVE_DESC),
       choices: immersiveChoices,
       get: () => db.immersiveMode - 1,
       set: (index) => {
@@ -248,8 +248,8 @@ function buildOptionsTable(this: void): LamControlData[] {
 export function createSettingsMenu(this: void): undefined {
   const panelData: LamPanelData = {
     type: "panel",
-    name: GetString(SKYS_TITLE),
-    displayName: "|cFFFFB0" + GetString(SKYS_TITLE) + "|r",
+    name: GetString(SI_TEMPER_SKYSHARDS_TITLE),
+    displayName: "|cFFFFB0" + GetString(SI_TEMPER_SKYSHARDS_TITLE) + "|r",
     version: ADDON_VERSION,
     slashCommand: "/skyshards",
     registerForRefresh: true,

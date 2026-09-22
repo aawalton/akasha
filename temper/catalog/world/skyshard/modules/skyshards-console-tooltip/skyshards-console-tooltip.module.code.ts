@@ -31,10 +31,10 @@ function creator(this: void, pin: MapPin): undefined {
 
   const moreInfo = pinTag[SKYSHARDS_PINDATA_MOREINFO]
   if (moreInfo != null) {
-    info.push("[" + GetString("SKYS_MOREINFO", moreInfo) + "]")
+    info.push("[" + GetString("SI_TEMPER_SKYSHARDS_MOREINFO", moreInfo) + "]")
   }
   if (shardStatus === SKYSHARD_DISCOVERY_STATUS_ACQUIRED) {
-    info.push("[" + GetString(SKYS_KNOWN) + "]")
+    info.push("[" + GetString(SI_TEMPER_SKYSHARDS_KNOWN) + "]")
   }
 
   if (IsInGamepadPreferredMode()) {
