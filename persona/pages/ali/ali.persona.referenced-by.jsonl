@@ -89,3 +89,4 @@
 {"propertySlug":"notification-persona","path":"persona/wallpaper-notification/pages/ali-l2.persona-wallpaper-notification.ts","id":"019f1f7d-c711-736c-abe6-b70261589fdb"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"personas-crafted","path":"persona/craft-day/pages/sophia-2026-06-11.persona-craft-day.ts","id":"019f15d6-8cb1-7508-b4d2-0f182f993122"}
+{"propertySlug":"seat-persona","path":"agent/seat/pages/ali/ali.seat.ts","id":"01a0ca54-e0cd-7000-bce0-9c04336b61be"}

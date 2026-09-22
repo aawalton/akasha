@@ -10,6 +10,7 @@
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"person","path":"agent/seat/pages/akasha/akasha.seat.ts","id":"01a0c43b-c850-7000-bf18-1f9984f6d268"}
 {"propertySlug":"person","path":"agent/seat/pages/alan/alan.seat.ts","id":"01a0babc-789b-7000-be8a-be01e1d247fd"}
+{"propertySlug":"person","path":"agent/seat/pages/ali/ali.seat.ts","id":"01a0ca54-e0cd-7000-bce0-9c04336b61be"}
 {"propertySlug":"person","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a0c56f-e9de-7000-b072-c28688589948"}
 {"propertySlug":"person","path":"agent/seat/pages/awen/awen.seat.ts","id":"01a0b706-afe2-7000-b0a0-2ba202a68a29"}
 {"propertySlug":"person","path":"agent/seat/pages/dalla/dalla.seat.ts","id":"01a0c97f-ba7e-7000-a3ae-e82c9e708820"}
