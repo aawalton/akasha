@@ -122,7 +122,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/narrative-continuity.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/resolution-mechanism.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/rulebook.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/mechanic/properties/history.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/mechanic/metric/properties/history.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/arc-structure.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/story-premise.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/stories/played/elements/properties/turn-states.file-property.ts"}

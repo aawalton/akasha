@@ -1,0 +1,14 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const resource = {
+  id: "01a0c9d2-5f3d-7dd9-b045-d1b69e79a27a",
+  type: "page-type/page-type",
+  slug: "resource",
+  definition: "something a character spends down and gets back",
+  pluralSlug: "resources",
+  extends: ["page-type/metric"],
+  parts: ["page-type/tower-health", "page-type/tower-mana", "page-type/tower-stamina"],
+
+  types: "ts",
+  schema: "jsonl",
+} as const satisfies PageType
