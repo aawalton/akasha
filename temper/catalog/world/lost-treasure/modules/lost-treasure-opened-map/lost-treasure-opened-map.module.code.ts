@@ -1,4 +1,9 @@
 import {
+  getTreasureBookIdItemId,
+  getTreasureItemIdData,
+  getTreasureTextureData,
+} from "akasha/temper/addon/pages/collections/modules/treasure-api/treasure-api.module.code.ts"
+import {
   LOST_TREASURE_BOOK_NOT_OPENED,
   LOST_TREASURE_MAP_NOT_OPENED,
   LOST_TREASURE_MARK_OPTIONS_USING,
@@ -29,7 +34,6 @@ import {
 } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-treasure/lib-treasure.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -125,7 +129,7 @@ function onEventShowTreasureMap(this: void, treasureMapIndex: number): undefined
   updateVisibility(!isMinimapEnabled)
 
   if (mapTextureName !== undefined) {
-    const pin = LibTreasure_GetTextureData(mapTextureName)
+    const pin = getTreasureTextureData(mapTextureName)
     logger.Debug(
       "GetTextureData itemId: %s",
       pin !== undefined ? pin.itemId : "no - pin has not been found"
@@ -153,7 +157,7 @@ function onEventShowBook(
 ): undefined {
   state().lastOpenedBookId = bookId
 
-  const itemId = LibTreasure_GetBookIdItemId(bookId)
+  const itemId = getTreasureBookIdItemId(bookId)
   if (itemId !== undefined) {
     const pinType = getPinTypeFromString(title)
     if (pinType !== LOST_TREASURE_NO_PIN_TYPE) {
@@ -203,7 +207,7 @@ export function requestReport(
   overwriteMiningState?: boolean
 ): undefined {
   if (isValidInteractionType(pinType, interactionType, sceneName)) {
-    if (LibTreasure_GetItemIdData(itemId) !== undefined) {
+    if (getTreasureItemIdData(itemId) !== undefined) {
       logger.Info("Item %d has been found in database.", itemId)
       return
     }

@@ -16,8 +16,8 @@ export const treasureUpstreamVerify = {
       statement: "The book ids table is ruled on.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The icons table is ruled on.",
+      decisionKind: "decision-kind/absence",
+      statement: "The icons table is not ruled on.",
     },
     {
       decisionKind: "decision-kind/constraint",

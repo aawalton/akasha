@@ -1,10 +1,9 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
-import { BOOK_ID } from "akasha/temper/addon/pages/lib-treasure/modules/treasure-book-ids/treasure-book-ids.module.code.ts"
-import { ICONS } from "akasha/temper/addon/pages/lib-treasure/modules/treasure-icons/treasure-icons.module.code.ts"
-import { ALL_DATA } from "akasha/temper/addon/pages/lib-treasure/modules/treasure-pins-data/treasure-pins-data.module.code.ts"
-import type { AllData } from "akasha/temper/addon/pages/lib-treasure/modules/treasure-types/treasure-types.module.code.ts"
+import { BOOK_ID } from "akasha/temper/addon/pages/collections/modules/treasure-book-ids/treasure-book-ids.module.code.ts"
+import { ALL_DATA } from "akasha/temper/addon/pages/collections/modules/treasure-pins-data/treasure-pins-data.module.code.ts"
+import type { AllData } from "akasha/temper/addon/pages/collections/modules/treasure-types/treasure-types.module.code.ts"
 import {
   gathered,
   ruledOverValues,
@@ -13,8 +12,6 @@ import type { Ruling } from "akasha/temper/catalog/upstream-data/modules/upstrea
 import { makeLuaVm } from "akasha/temper/eso/lua-runner/modules/lua-vm/lua-vm.module.code.ts"
 
 const DATA_FILE = "LibTreasure/data.lua"
-
-const ICONS_FILE = "LibTreasure/icons.lua"
 
 type Derived = {
   readonly itemIds: number
@@ -53,15 +50,12 @@ function countedAgainst(label: string, here: number, there: number): Ruling {
 
 export async function verifyTreasure(addons: string): Promise<Ruling> {
   const dataSource = await readFile(join(addons, DATA_FILE), "utf-8")
-  const iconsSource = await readFile(join(addons, ICONS_FILE), "utf-8")
   const vm = await makeLuaVm()
   try {
     const loaded = await vm.run(`
       LibTreasure = { data = {} }
       local dataChunk = assert(loadstring(${JSON.stringify(`${dataSource}\nLibTreasure.__ALL_DATA = ALL_DATA\n`)}))
       assert(pcall(dataChunk))
-      local iconsChunk = assert(loadstring(${JSON.stringify(iconsSource)}))
-      assert(pcall(iconsChunk))
       return "ok"
     `)
     if (loaded !== "ok") throw new Error(`loading LibTreasure answered ${String(loaded)}`)
@@ -85,7 +79,6 @@ export async function verifyTreasure(addons: string): Promise<Ruling> {
     return gathered([
       ruledOverValues("ALL_DATA", await vm.run("return LibTreasure.__ALL_DATA"), ALL_DATA),
       ruledOverValues("BOOK_ID", await vm.run("return LibTreasure.data.BOOK_ID"), BOOK_ID),
-      ruledOverValues("ICONS", await vm.run("return LibTreasure.icons"), ICONS),
       countedAgainst("distinct itemIds", derived.itemIds, upstreamItemIds),
       countedAgainst("distinct textures", derived.textures, upstreamTextures),
       { report: [`the port's pins number ${String(derived.pins)}`], parted: [] },

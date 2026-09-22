@@ -1,3 +1,4 @@
+import { getTreasureIcons } from "akasha/temper/addon/pages/collections/modules/treasure-api/treasure-api.module.code.ts"
 import {
   LOST_TREASURE_BLANK_SAVED_VARS,
   LOST_TREASURE_MARK_OPTIONS_INVENTORY,
@@ -17,7 +18,6 @@ import {
 } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-saved-vars/lib-saved-vars.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-treasure/lib-treasure.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
@@ -70,7 +70,7 @@ export interface LostTreasureDb extends LostTreasureDefaults {
 }
 
 function getTexturePath(this: void, index?: number): string {
-  const textures = LibTreasure_GetIcons()
+  const textures = getTreasureIcons()
   const numTextures = textures.length
   let resolved = index
   if (resolved === undefined || resolved < 1 || resolved > numTextures) {
@@ -130,7 +130,7 @@ export function getDefaults(this: void): LostTreasureDefaults {
 }
 
 function getNewTexturePath(this: void, path: string, pinType: PinType): string {
-  const textures = LibTreasure_GetIcons()
+  const textures = getTreasureIcons()
   const fileName = getFileNameFromPath(path)
   if (fileName !== undefined) {
     for (const [, value] of ipairs(textures)) {
@@ -165,7 +165,7 @@ export function initializeSavedVars(this: void): undefined {
     }
     db.misc.hasNewIconPath = true
   } else {
-    logger.Debug("The addon refers to LibTreasure already")
+    logger.Debug("The icon paths are already the current ones")
   }
 
   logger.Debug("initialized")

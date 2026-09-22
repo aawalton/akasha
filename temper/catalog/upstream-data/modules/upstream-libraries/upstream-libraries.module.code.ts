@@ -12,7 +12,7 @@ export const PACKAGE_OF: Record<UpstreamLibrary, string> = {
 export const SOURCES_OF: Record<UpstreamLibrary, readonly string[]> = {
   housing: ["PortToFriendsHouse/PortToFriendsHouseLibraryData.lua"],
   "lib-map-data": ["LibMapData/LibMapData_Data.lua"],
-  "lib-treasure": ["LibTreasure/data.lua", "LibTreasure/icons.lua"],
+  "lib-treasure": ["LibTreasure/data.lua"],
   "lib-zone": ["LibZone/LibZone_Data.lua", "LibZone/LibZone_GeoData.lua"],
 }
 

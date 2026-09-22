@@ -23,7 +23,6 @@
     "LibDebugLogger>=274",
     "LibSavedVars>=60007",
     "LibNotification>=15",
-    "LibTreasure>=24",
     "LibExtendedJournal>=205011"
   ],
   "optionalDependsOn": ["DebugLogViewer", "LibMultiAccountSets", "LibUndauntedPledges"],

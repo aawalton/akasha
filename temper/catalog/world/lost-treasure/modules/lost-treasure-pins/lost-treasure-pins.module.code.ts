@@ -1,3 +1,7 @@
+import {
+  getTreasureIcons,
+  getTreasureMapIdData,
+} from "akasha/temper/addon/pages/collections/modules/treasure-api/treasure-api.module.code.ts"
 import { isItemInBagCache } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-bag-cache/lost-treasure-bag-cache.module.code.ts"
 import {
   ADDON_DISPLAY_NAME,
@@ -23,7 +27,6 @@ import {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-treasure/lib-treasure.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lost-treasure/lost-treasure-string-ids/lost-treasure-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -57,7 +60,7 @@ function asCompassPinControl(value: unknown): CompassPinControl {
 }
 
 const TIME_BETWEEN_LABEL_UPDATES_MS = 250
-const DEFAULT_GAMEPAD_TOOLTIP_TEXTURE = LibTreasure_GetIcons()[4] ?? ""
+const DEFAULT_GAMEPAD_TOOLTIP_TEXTURE = getTreasureIcons()[4] ?? ""
 
 interface PinTag {
   x: number
@@ -206,7 +209,7 @@ function createMarkOptionMapPin(
 
 function getAndCreateMapPins(this: void, pinType: PinType, key: PinKey): undefined {
   const mapId = GetCurrentMapId()
-  const mapIdData = LibTreasure_GetMapIdData(mapId)
+  const mapIdData = getTreasureMapIdData(mapId)
   if (mapIdData !== undefined) {
     const markOption = getSettingsFromPinType(pinType, "markOption")
     for (const [, pinData] of ipairs(mapIdData)) {
