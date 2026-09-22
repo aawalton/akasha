@@ -10,7 +10,7 @@ export const dallaResourceManagement = {
     {
       statement: "An audit is handed the commit that audit judges rather than a change.",
       workingMemory:
-        "`everythingIn` sets `changed` to every file in the tree and `before` and `after` to one `onDisk` reader, so an audit claims the whole repository moved and that nothing differs. Each audit builds that for itself; the runner builds `nothingIn` and drops it, and an audit takes only a root. `commit-reading` already answers bodies from one `git cat-file --batch` and holds a commit's trees across readers, so the listing is there unexposed. Sixty-four audits, five spawning an outside tool.",
+        "`module/judging` already binds this: an audit is handed the root alone, there is no change at audit, and `Auditing` is already `(root: string) => Judged[]`. The drift is in the bodies: 51 of the 64 audits open by building a change out of their root through `everythingIn`, `nothingIn`, `pagesTypedIn` or an `overEvery` runner. The shared decision code they hand it to wants `.root`, the paths judged, and a body at a path, counted at 55, 82 and 44 uses. `.before` is 9 sites, all change phase.\n",
     },
     {
       statement: "Every audit collects the files that audit judges rather than listing the tree.",
