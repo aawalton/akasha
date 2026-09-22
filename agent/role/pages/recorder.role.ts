@@ -26,6 +26,10 @@ export const recorder = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This role sends nothing to the agent whose conversation it reads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "This role runs headless for as long as the conversation runs.",
     },
   ],
