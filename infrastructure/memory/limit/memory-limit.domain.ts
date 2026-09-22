@@ -90,5 +90,14 @@ export const memoryLimit = {
       statement:
         "What a metered run spends is in neither cadvisor's numbers nor `kubectl top pod`.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Time spent reclaiming under the level that throttles is charged to the thing limited.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A memory ceiling too low raises the processor time the same run is judged by.",
+    },
   ],
 } as const satisfies Domain
