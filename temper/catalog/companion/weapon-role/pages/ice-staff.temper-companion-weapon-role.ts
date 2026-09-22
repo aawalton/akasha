@@ -6,6 +6,6 @@ export const iceStaff = {
   slug: "ice-staff",
   key: "ice-staff",
   title: "Ice Staff",
-  weaponSkillLineId: "weapon-destruction-staff",
+  weaponSkillLineId: "temper-companion-skill-line/weapon-destruction-staff",
   validMainHandWeaponTypes: ["ice-staff"],
 } as const satisfies TemperCompanionWeaponRole

@@ -6,6 +6,6 @@ export const infernoStaff = {
   slug: "inferno-staff",
   key: "inferno-staff",
   title: "Inferno Staff",
-  weaponSkillLineId: "weapon-destruction-staff",
+  weaponSkillLineId: "temper-companion-skill-line/weapon-destruction-staff",
   validMainHandWeaponTypes: ["inferno-staff"],
 } as const satisfies TemperCompanionWeaponRole

@@ -6,5 +6,5 @@ export const noWeaponRole = {
   slug: "no-weapon-role",
   key: "no-weapon-role",
   title: "No Weapon Role",
-  weaponSkillLineId: "no-skill-line",
+  weaponSkillLineId: "temper-companion-skill-line/no-skill-line",
 } as const satisfies TemperCompanionWeaponRole

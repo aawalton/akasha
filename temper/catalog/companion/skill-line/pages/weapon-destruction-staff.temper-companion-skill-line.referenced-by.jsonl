@@ -1,3 +1,6 @@
 {"propertySlug":"companion-skill-line","path":"temper/catalog/companion/skill/pages/all-shared-arcane-nova/all-shared-arcane-nova.temper-companion-skill.ts","id":"019e668d-c551-7b24-b060-e470d31135a9"}
 {"propertySlug":"companion-skill-line","path":"temper/catalog/companion/skill/pages/all-shared-destructive-blast/all-shared-destructive-blast.temper-companion-skill.ts","id":"019e668d-c552-7c9f-9836-7e129d2978d5"}
 {"propertySlug":"companion-skill-line","path":"temper/catalog/companion/skill/pages/all-shared-elemental-barricade/all-shared-elemental-barricade.temper-companion-skill.ts","id":"019e668d-c553-7e7c-819d-0fca148827c8"}
+{"propertySlug":"weapon-skill-line","path":"temper/catalog/companion/weapon-role/pages/ice-staff.temper-companion-weapon-role.ts","id":"01a05fcd-ea71-71e9-9633-bee687d43205"}
+{"propertySlug":"weapon-skill-line","path":"temper/catalog/companion/weapon-role/pages/inferno-staff.temper-companion-weapon-role.ts","id":"01a05fcd-ea71-79ef-b6e3-e8e7c17c5a23"}
+{"propertySlug":"weapon-skill-line","path":"temper/catalog/companion/weapon-role/pages/lightning-staff.temper-companion-weapon-role.ts","id":"01a05fcd-ea71-7b74-8741-eebe625f216e"}

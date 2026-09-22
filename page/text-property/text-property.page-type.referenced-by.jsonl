@@ -530,7 +530,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/trait/properties/trait-effect-type.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/weapon-role/properties/valid-main-hand-weapon-types.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/weapon-role/properties/valid-off-hand-weapon-types.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/weapon-role/properties/weapon-skill-line-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-eso-player-equipment-constant/properties/constant-family.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-eso-player-equipment-constant/properties/constant-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-family.text-property.ts"}

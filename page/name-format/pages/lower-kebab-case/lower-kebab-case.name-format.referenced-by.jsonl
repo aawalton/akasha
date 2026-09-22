@@ -93,7 +93,6 @@
 {"propertySlug":"name-format","path":"temper/catalog/companion/trait/properties/trait-effect-type.text-property.ts","id":"01a08786-5eff-74dc-8463-bba942e61344"}
 {"propertySlug":"name-format","path":"temper/catalog/companion/weapon-role/properties/valid-main-hand-weapon-types.text-property.ts","id":"01a05fcd-aed3-794f-9b17-277957dc2758"}
 {"propertySlug":"name-format","path":"temper/catalog/companion/weapon-role/properties/valid-off-hand-weapon-types.text-property.ts","id":"01a05fcd-aed3-7341-ac9b-0786c5adcd7c"}
-{"propertySlug":"name-format","path":"temper/catalog/companion/weapon-role/properties/weapon-skill-line-id.text-property.ts","id":"01a05fcd-aed2-704d-9ca2-b1d66e3f79e7"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-eso-player-equipment-constant/properties/constant-family.text-property.ts","id":"01a05fd1-d438-7600-b72e-b390f2f0dabf"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-eso-player-equipment-constant/properties/constant-id.text-property.ts","id":"01a05fd1-d438-7e88-83de-053bfdab7fa7"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-family.text-property.ts","id":"01a05fd1-d43e-7028-aec5-acb72b595320"}

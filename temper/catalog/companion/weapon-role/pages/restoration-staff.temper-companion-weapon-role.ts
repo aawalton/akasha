@@ -6,6 +6,6 @@ export const restorationStaff = {
   slug: "restoration-staff",
   key: "restoration-staff",
   title: "Restoration Staff",
-  weaponSkillLineId: "weapon-restoration-staff",
+  weaponSkillLineId: "temper-companion-skill-line/weapon-restoration-staff",
   validMainHandWeaponTypes: ["restoration-staff"],
 } as const satisfies TemperCompanionWeaponRole

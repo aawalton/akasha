@@ -9,11 +9,10 @@ export const temperCompanionWeaponRole = {
   parts: [
     "text-property/valid-main-hand-weapon-types",
     "text-property/valid-off-hand-weapon-types",
-    "text-property/weapon-skill-line-id",
+    "relation-property/weapon-skill-line",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
-    { pageProperty: "text-property/weapon-skill-line-id", required: true, many: false },
     {
       pageProperty: "text-property/valid-main-hand-weapon-types",
       required: false,
@@ -26,6 +25,7 @@ export const temperCompanionWeaponRole = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "relation-property/weapon-skill-line", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",

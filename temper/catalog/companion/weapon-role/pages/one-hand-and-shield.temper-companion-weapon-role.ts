@@ -6,7 +6,7 @@ export const oneHandAndShield = {
   slug: "one-hand-and-shield",
   key: "one-hand-and-shield",
   title: "One Hand and Shield",
-  weaponSkillLineId: "weapon-one-hand-shield",
+  weaponSkillLineId: "temper-companion-skill-line/weapon-one-hand-shield",
   validMainHandWeaponTypes: ["sword", "axe", "mace", "dagger"],
   validOffHandWeaponTypes: ["shield"],
 } as const satisfies TemperCompanionWeaponRole

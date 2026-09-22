@@ -6,6 +6,6 @@ export const bow = {
   slug: "bow",
   key: "bow",
   title: "Bow",
-  weaponSkillLineId: "weapon-bow",
+  weaponSkillLineId: "temper-companion-skill-line/weapon-bow",
   validMainHandWeaponTypes: ["bow"],
 } as const satisfies TemperCompanionWeaponRole

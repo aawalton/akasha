@@ -197,6 +197,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"color","unique":null,"uniquePropertySlug":null,"slug":"value-color","propertySlug":"color","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"view-page-type","propertySlug":"page-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"audio","unique":null,"uniquePropertySlug":null,"slug":"voice-reference","propertySlug":"voice-reference","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-companion-skill-line","unique":null,"uniquePropertySlug":null,"slug":"weapon-skill-line","propertySlug":"weapon-skill-line-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-weapon-slot","unique":null,"uniquePropertySlug":null,"slug":"weapon-slot","propertySlug":"weapon-slot","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-weapon-trait","unique":null,"uniquePropertySlug":null,"slug":"weapon-trait","propertySlug":"weapon-trait","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-location","unique":null,"uniquePropertySlug":null,"slug":"within-location","propertySlug":"within","fileName":null,"folderName":null}
