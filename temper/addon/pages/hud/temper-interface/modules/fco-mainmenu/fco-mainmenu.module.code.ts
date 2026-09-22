@@ -1,7 +1,7 @@
 import { STATE } from "akasha/temper/addon/pages/hud/temper-interface/modules/fco-state/fco-state.module.code.ts"
 import { addButton } from "akasha/temper/addon/pages/hud/temper-interface/modules/fco-utils/fco-utils.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-main-menu/lib-main-menu.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"

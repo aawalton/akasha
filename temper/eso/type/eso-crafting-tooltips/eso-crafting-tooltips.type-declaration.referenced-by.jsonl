@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-cooking/craft-cooking.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-tooltip-handler/craft-tooltip-handler.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-tooltips/craft-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-events-handlers/crafting-events-handlers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/rune-panel/rune-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking/craft-cooking.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-tooltip-handler/craft-tooltip-handler.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events-handlers/crafting-events-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/rune-panel/rune-panel.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

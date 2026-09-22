@@ -1,0 +1,281 @@
+import { QUALITY } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-quality/craft-quality.module.code.ts"
+import * as Tooltips from "akasha/temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"
+import { MAXCRAFT } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-constants/crafting-constants.module.code.ts"
+import {
+  CHAT,
+  hideControl,
+} from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
+import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-crafting-tooltips/eso-crafting-tooltips.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-provisioner-station/eso-provisioner-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+const WM = WINDOW_MANAGER
+
+export interface CsCookButtonData {
+  id: number
+  list: number
+  link: string
+  sound: string | undefined
+  crafting: [EditControl, number]
+  addline: [string]
+  craftable: boolean
+}
+
+export interface CsCookButton extends ButtonControl {
+  data?: CsCookButtonData
+}
+
+function asCookButton(c: ButtonControl): CsCookButton {
+  return c as CsCookButton
+}
+
+export function getCookChild(id: number): CsCookButton {
+  let btn = WM.GetControlByName<CsCookButton>(
+    `TemperItemsCrafting_CookFoodSectionScrollChildButton${id}`
+  )
+  if (btn === undefined) {
+    const created = asCookButton(
+      WM.CreateControl(
+        `TemperItemsCrafting_CookFoodSectionScrollChildButton${id}`,
+        TemperItemsCrafting_CookFoodSectionScrollChild,
+        CT_BUTTON
+      )
+    )
+    created.SetAnchor(3, undefined, 3, 8, 5 + (id - 1) * 24)
+    created.SetDimensions(508, 24)
+    created.SetFont("ZoFontGame")
+    created.EnableMouseButton(2, true)
+    created.EnableMouseButton(3, true)
+    created.SetClickSound("Click")
+    created.SetMouseOverFontColor(1, 0.66, 0.2, 1)
+    created.SetHorizontalAlignment(0)
+    created.SetVerticalAlignment(1)
+    created.SetHandler("OnMouseEnter", () => {
+      Tooltips.tooltip(created, true, false, TemperItemsCrafting_Cook, "tl")
+    })
+    created.SetHandler("OnMouseExit", () => {
+      Tooltips.tooltip(created, false)
+    })
+    created.SetHandler("OnMouseDown", (_self: Control, button: number) => {
+      cookStart(created, button)
+    })
+    btn = created
+  } else {
+    const [hasAnchor] = btn.GetAnchor(0)
+    if (hasAnchor === false) {
+      btn.SetAnchor(3, undefined, 3, 8, 5 + (id - 1) * 24)
+    }
+  }
+  return btn
+}
+
+export function cookStart(
+  control: CsCookButton | undefined,
+  button: number,
+  isEnchanting?: boolean
+): undefined {
+  if (control === undefined) {
+    return
+  }
+  const enchanting = isEnchanting ?? false
+  const notpreview = true
+  const data = control.data
+  const account = STATE.Account
+  const character = STATE.Character
+  if (data === undefined || account === undefined || character === undefined) {
+    return
+  }
+  if (button === 3) {
+    const idx = `${data.list}_${data.id}`
+    const [, , , , , , tradeType] = GetRecipeInfo(data.list, data.id)
+    const craftFavorites = character.favorites[tradeType]
+    if (craftFavorites !== undefined) {
+      if (craftFavorites[idx] !== undefined) {
+        craftFavorites[idx] = undefined
+      } else {
+        craftFavorites[idx] = { 1: data.list, 2: data.id }
+      }
+    }
+    cookShowRecipe(
+      control,
+      data.list,
+      data.id,
+      0,
+      undefined,
+      tradeType === CRAFTING_TYPE_ENCHANTING
+    )
+    return
+  }
+  if (notpreview && data.craftable) {
+    if (GetNumBagFreeSlots(BAG_BACKPACK) > 0) {
+      let amount: number
+      if (enchanting) {
+        amount = tonumber(TemperItemsCrafting_RuneAmount.GetText()) ?? 1
+      } else {
+        amount = tonumber(TemperItemsCrafting_CookAmount.GetText()) ?? 1
+      }
+      if (button === 2) {
+        amount = account.options.bulkcraftlimit
+        if (amount > data.crafting[1]) {
+          amount = data.crafting[1]
+        }
+      }
+      if (amount > MAXCRAFT) {
+        amount = MAXCRAFT
+        if (amount > data.crafting[1]) {
+          amount = data.crafting[1]
+        }
+      }
+      if (enchanting) {
+        TemperItemsCrafting_RuneAmount.SetText(tostring(amount))
+      } else {
+        TemperItemsCrafting_CookAmount.SetText(tostring(amount))
+      }
+      CraftProvisionerItem(data.list, data.id, amount)
+      PlaySound(data.sound)
+    } else {
+      CHAT.Print(STATE.Loc.nobagspace)
+    }
+  }
+}
+
+export function cookShowRecipe(
+  control: CsCookButton | undefined,
+  list: number,
+  id: number,
+  inc: number,
+  sound?: string,
+  enchanting?: boolean
+): number {
+  const character = STATE.Character
+  if (control === undefined || character === undefined) {
+    return inc
+  }
+  const [known, name, numIngredients, pLev, qLev] = GetRecipeInfo(list, id)
+  let mark = ""
+  if (known) {
+    let fault = false
+    let maxval = 999999
+    const ing: string[] = []
+    const link = GetRecipeResultItemLink(list, id, LINK_STYLE_DEFAULT)
+    let level: string | number = GetItemLinkRequiredLevel(link)
+    const levelcp = GetItemLinkRequiredChampionPoints(link)
+    if (levelcp > 0) {
+      level = `${STATE.ChampionPointsTexture}${levelcp}`
+    }
+    for (let num = 1; num <= numIngredients; num++) {
+      const count = GetCurrentRecipeIngredientCount(list, id, num)
+      const [, , qtyReq] = GetRecipeIngredientItemInfo(list, id, num)
+      let color: string
+      if (count < qtyReq) {
+        color = "FF0000"
+        fault = true
+      } else {
+        color = "00FF00"
+      }
+      if (count / qtyReq < maxval) {
+        maxval = math.floor(count / qtyReq)
+      }
+      ing.push(
+        zo_strformat(
+          (qtyReq > 1 ? `${qtyReq}x ` : "") + "<<C:1>> |c<<2>>(<<3>>)|r",
+          GetRecipeIngredientItemLink(list, id, num, LINK_STYLE_DEFAULT),
+          color,
+          count
+        )
+      )
+    }
+    let craftAmount: [EditControl, number] = [TemperItemsCrafting_CookAmount, maxval]
+    if (enchanting === true) {
+      craftAmount = [TemperItemsCrafting_RuneAmount, maxval]
+      const enchantingFavorites = character.favorites[CRAFTING_TYPE_ENCHANTING]
+      if (enchantingFavorites !== undefined && enchantingFavorites[`${list}_${id}`] !== undefined) {
+        mark = "|t16:16:esoui/art/characterwindow/equipmentbonusicon_full.dds|t "
+      } else {
+        mark = ""
+      }
+    } else {
+      const provisioningFavorites = character.favorites[CRAFTING_TYPE_PROVISIONING]
+      if (
+        provisioningFavorites !== undefined &&
+        provisioningFavorites[`${list}_${id}`] !== undefined
+      ) {
+        mark = "|t16:16:esoui/art/characterwindow/equipmentbonusicon_full.dds|t "
+      } else {
+        mark = ""
+      }
+    }
+    control.SetText(zo_strformat(`${mark}(<<1>>) <<C:2>> |c666666(<<3>>)|r`, level, name, maxval))
+    if (fault || pLev > STATE.Cook.craftLevel || qLev > STATE.Cook.qualityLevel) {
+      control.SetNormalFontColor(1, 0, 0, 1)
+      fault = true
+    } else {
+      const color =
+        QUALITY[GetItemLinkQuality(link)] ?? error("TemperItemsCrafting: unknown quality")
+      control.SetNormalFontColor(color[1], color[2], color[3], 1)
+    }
+    control.data = {
+      id: id,
+      list: list,
+      link: link,
+      sound: sound,
+      crafting: craftAmount,
+      addline: [table.concat(ing, "\n")],
+      craftable: !fault,
+    }
+    control.SetHidden(false)
+    return inc + 1
+  }
+  return inc
+}
+
+export function cookShowVanilla(): undefined {
+  if (!IsInGamepadPreferredMode()) {
+    TemperItemsCrafting_Cook.SetHidden(true)
+    STATE.Cook.job = { amount: 0 }
+    const numChildren = TemperItemsCrafting_CookFoodSectionScrollChild.GetNumChildren()
+    for (let x = 1; x <= numChildren; x++) {
+      hideControl(`TemperItemsCrafting_CookFoodSectionScrollChildButton${x}`)
+    }
+  }
+  const numProvisionerChildren = ZO_ProvisionerTopLevel.GetNumChildren()
+  for (let x = 2; x <= numProvisionerChildren; x++) {
+    const child = ZO_ProvisionerTopLevel.GetChild(x)
+    if (child !== undefined) {
+      child.SetAlpha(1)
+    }
+  }
+  ZO_KeybindStripControl.SetHidden(false)
+  ZO_ProvisionerTopLevel.SetHidden(false)
+}
+
+export function cookShow(): undefined {
+  TemperItemsCrafting_CookAmount.SetText("")
+  TemperItemsCrafting_CookSearch.SetText(`${GetString(SI_GAMEPAD_HELP_SEARCH)}...`)
+  TemperItemsCrafting_Cook.SetHidden(false)
+  if (!IsInGamepadPreferredMode()) {
+    const numProvisionerChildren = ZO_ProvisionerTopLevel.GetNumChildren()
+    for (let x = 2; x <= numProvisionerChildren; x++) {
+      const child = ZO_ProvisionerTopLevel.GetChild(x)
+      if (child !== undefined) {
+        child.SetAlpha(0)
+      }
+    }
+    ZO_KeybindStripControl.SetHidden(true)
+    ZO_ProvisionerTopLevel.SetHidden(true)
+  }
+}

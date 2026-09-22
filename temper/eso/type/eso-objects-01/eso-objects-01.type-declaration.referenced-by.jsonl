@@ -12,10 +12,6 @@
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot/combat-ui-plot.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-resource-panel/combat-ui-resource-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-window/combat-ui-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-cooking/craft-cooking.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-research-grid/craft-research-grid.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-style-rows/craft-style-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-build-house-tab/housing-build-house-tab.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-build-window/housing-build-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-favorites-render/housing-favorites-render.module.code.ts"}
@@ -33,6 +29,10 @@
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-state/keybinder-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-addon-manager/selector-addon-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking/craft-cooking.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-research-grid/craft-research-grid.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-rows/craft-style-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-filterbar/inventory-browser-filterbar.module.code.ts"}

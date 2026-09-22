@@ -1,0 +1,6 @@
+{"propertySlug":"import","fileName":"potion-window-helpers.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-events/potion-events.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-window-helpers.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-init/potion-init.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-window-helpers.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-job-search/potion-job-search.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-window-helpers.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-main-menu/potion-main-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-window-helpers.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-windows/potion-windows.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}

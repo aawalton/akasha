@@ -1,0 +1,69 @@
+interface TemperPotionsTitledWindow extends TopLevelWindow {
+  title: LabelControl
+}
+
+declare const TemperPotions: TemperPotionsTitledWindow
+
+declare const TemperPotionsOutput: TemperPotionsTitledWindow
+
+declare const TemperPotionsTopLevel: TopLevelWindow
+
+declare const TemperPotionsTooltip: TooltipControl
+
+declare const TemperPotionsQuestWrits: TemperItemsCraftingControl
+
+declare const TemperPotionsAllMustCheckBox: TemperItemsCraftingControl
+
+declare const TemperPotionsAllMustNotCheckBox: TemperItemsCraftingControl
+
+declare const TemperPotionsAllMustNotCheckBoxText: LabelControl
+
+declare const TemperPotionsOnly2: TemperItemsCraftingControl
+
+declare const TemperPotionsOnly2Text: LabelControl
+
+declare const TemperPotionsOnlyReagent: TemperItemsCraftingControl
+
+declare const TemperPotionsOnlyReagentText: LabelControl
+
+declare const TemperPotionsLoading: TemperItemsCraftingControl
+
+declare const TemperPotionsClearFilter: TemperItemsCraftingControl
+
+declare const TemperPotionsFavorites: TemperItemsCraftingControl
+
+declare const TemperPotionsLabel: LabelControl
+
+declare const TemperPotionsOutputCombinationLabel: LabelControl
+
+declare const TemperPotionsOutputFavorite: TemperItemsCraftingControl
+
+declare const TemperPotionsOutputNextButton: TemperItemsCraftingButton
+
+declare const TemperPotionsOutputPageLabel: LabelControl
+
+declare const TemperPotionsOutputPreviousButton: TemperItemsCraftingButton
+
+declare const TemperPotionsOutputResultsBG: TemperItemsCraftingControl
+
+declare const TemperPotionsOutputSearchButton: TemperItemsCraftingButton
+
+declare const TemperPotionsOutputTraitLabel: LabelControl
+
+declare const TemperPotionsReagentBG: TemperItemsCraftingControl
+
+declare const TemperPotionsReagentLabel: LabelControl
+
+declare const TemperPotionsSearchBG: TemperItemsCraftingControl
+
+declare const TemperPotionsSearchButton: TemperItemsCraftingButton
+
+declare const TemperPotionsSolventLabel: LabelControl
+
+declare const TemperPotionsTraitLabel1: LabelControl
+
+declare const TemperPotionsTraitLabel2: LabelControl
+
+declare const TemperPotionsBagButtonTexture: TextureControl
+
+declare const TemperPotionsBankButtonTexture: TextureControl

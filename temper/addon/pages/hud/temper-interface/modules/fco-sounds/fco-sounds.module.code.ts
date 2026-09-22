@@ -9,7 +9,7 @@ import type {
   ShifterBoxCustomSettings,
 } from "akasha/temper/addon/pages/hud/temper-interface/modules/shifter-types/shifter-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"

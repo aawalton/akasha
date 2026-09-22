@@ -1,7 +1,7 @@
 import { isShiftActive } from "akasha/temper/addon/pages/combat/modules/combat-action-bar/combat-action-bar.module.code.ts"
 import { getBarSettings } from "akasha/temper/addon/pages/combat/modules/combat-action-bar-settings/combat-action-bar-settings.module.code.ts"
 import { onEngineUpdate } from "akasha/temper/addon/pages/combat/modules/combat-action-engine-context/combat-action-engine-context.module.code.ts"
-import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 

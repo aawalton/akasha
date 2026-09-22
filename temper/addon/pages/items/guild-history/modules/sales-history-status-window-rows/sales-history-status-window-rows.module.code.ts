@@ -16,7 +16,7 @@ import {
   UNLINKED_ICON,
 } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-status-window-shared/sales-history-status-window-shared.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"

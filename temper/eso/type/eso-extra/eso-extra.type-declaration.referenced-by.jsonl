@@ -1,10 +1,6 @@
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/data-encode-decoder/data-encode-decoder.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/data-encode-dictionary/data-encode-dictionary.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/data-encode-encoder/data-encode-encoder.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-keyboard-init/sets-search-ui-keyboard-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/slash-command/slash-command.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/slash-commander-providers/slash-commander-providers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-chat-capture/housing-chat-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-init/housing-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-library-tab/housing-library-tab.module.code.ts"}
@@ -15,6 +11,10 @@
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/assistant-bindings/assistant-bindings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/shifter-box-class/shifter-box-class.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-keyboard-init/sets-search-ui-keyboard-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/slash-command/slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/slash-commander-providers/slash-commander-providers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-adapter/sales-history-adapter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache-guild/sales-history-cache-guild.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache-status-bar/sales-history-cache-status-bar.module.code.ts"}

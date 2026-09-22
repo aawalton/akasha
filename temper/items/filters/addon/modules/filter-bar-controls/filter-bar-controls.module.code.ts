@@ -15,8 +15,8 @@ import type {
   FilterRangeValue,
 } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 export const COLOR_PRIMARY = [0.8442, 0.8442, 0.8442] as const
 export const COLOR_SECONDARY = [0.6447, 0.6447, 0.6447] as const

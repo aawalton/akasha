@@ -10,7 +10,7 @@ import {
 import { getQuestLocation } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-quest-location/lorebooks-quest-location.module.code.ts"
 import { GPS } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"

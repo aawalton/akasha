@@ -551,13 +551,14 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/build/resolve/temper-addon-resolve.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/build/temper-addon-build.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/community/temper-addon-community.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/crafting/crafting-sets/crafting-sets.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-errors/temper-errors.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-events/temper-events.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-housing/temper-housing.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-interface/temper-interface.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-keybinder/temper-keybinder.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/hud/temper-selector/temper-selector.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/crafting-sets.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/items/guild-history/guild-history.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/world/antiquities/temper-addon-world-antiquities.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/world/collections/temper-addon-world-collections.domain.ts"}

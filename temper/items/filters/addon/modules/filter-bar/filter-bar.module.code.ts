@@ -30,7 +30,7 @@ import {
   createMovableWindow,
   type WindowPosition,
 } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
-import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 const PANEL_NAME = "TemperItemsFilterPanel"
 const PLAN_PANEL_NAME = "TemperItemsActionPanel"

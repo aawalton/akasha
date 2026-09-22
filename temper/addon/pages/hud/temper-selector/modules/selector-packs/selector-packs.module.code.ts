@@ -19,7 +19,7 @@ import {
 } from "akasha/temper/addon/pages/hud/temper-selector/modules/selector-saved-variables/selector-saved-variables.module.code.ts"
 import type { Pack } from "akasha/temper/addon/pages/hud/temper-selector/modules/selector-types/selector-types.module.code.ts"
 import { reloadUI } from "akasha/temper/addon/shared/modules/reload-ui/reload-ui.module.code.ts"
-import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"

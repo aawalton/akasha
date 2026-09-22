@@ -11,5 +11,49 @@
         <Down>TemperItems.ToggleInventoryBrowser()</Down>
       </Action>
     </Category>
+    <Category name="SI_KEYBINDINGS_CATEGORY_USER_INTERFACE">
+      <Action name="POTIONMAKER">
+        <Down>SLASH_COMMANDS["/temperpotions"]()</Down>
+      </Action>
+    </Category>
+  </Layer>
+  <Layer name="SI_KEYBINDINGS_CATEGORY_GENERAL">
+    <Category name="SI_BINDING_NAME_CRAFTSTORE">
+      <Action name="CRAFTSTORE_WINDOW">
+        <Down>TemperItemsCrafting.ShowMain()</Down>
+      </Action>
+      <Action name="CRAFTSTORE_STYLES">
+        <Down>TemperItemsCrafting.SetAllStyles()</Down>
+      </Action>
+      <Action name="CRAFTSTORE_RUNES">
+        <Down>TemperItemsCrafting.RuneView(1)</Down>
+      </Action>
+      <Action name="CRAFTSTORE_PROVISIONING">
+        <Down>TemperItemsCrafting.ControlShow(TemperItemsCrafting_Recipe_Window);TemperItemsCrafting.RecipeShowCategory(TemperItemsCrafting.Character.recipe)</Down>
+      </Action>
+      <Action name="CRAFTSTORE_FURNISHINGS">
+        <Down>TemperItemsCrafting.ControlShow(TemperItemsCrafting_Blueprint_Window);TemperItemsCrafting.BlueprintShowCategory(TemperItemsCrafting.Character.furniture)</Down>
+      </Action>
+    </Category>
+  </Layer>
+  <Layer name="SI_KEYBINDINGS_LAYER_POTIONMAKER">
+    <Category name="SI_KEYBINDINGS_CATEGORY_USER_INTERFACE">
+      <Action name="POTIONMAKER_SEARCH" rebindable="true">
+        <Down>return ZO_KeybindStrip_HandleKeybindDown(keybind)</Down>
+      </Action>
+      <Action name="POTIONMAKER_SEARCH_WRITS" rebindable="true">
+        <Down>return ZO_KeybindStrip_HandleKeybindDown(keybind)</Down>
+      </Action>
+      <Action name="POTIONMAKER_SEARCH_FAVORITS" rebindable="true">
+        <Down>return ZO_KeybindStrip_HandleKeybindDown(keybind)</Down>
+      </Action>
+    </Category>
+  </Layer>
+  <Layer name="SI_KEYBINDINGS_LAYER_USER_INTERFACE_SHORTCUTS">
+    <Category name="SI_KEYBINDINGS_CATEGORY_WRIT_WORTHY">
+      <Action name="WRIT_WORTHY_ACCEPT_QUESTS" rebindable="true">
+        <Down>return ZO_KeybindStrip_HandleKeybindDown(keybind)</Down>
+      </Action>
+    </Category>
   </Layer>
 </Bindings>

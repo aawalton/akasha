@@ -13,7 +13,6 @@
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-init/housing-init.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
-{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"}

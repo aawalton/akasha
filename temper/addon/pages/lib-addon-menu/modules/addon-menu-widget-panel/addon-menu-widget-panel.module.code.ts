@@ -22,7 +22,7 @@ import {
   getTopPanel,
   requestRefreshIfNeeded,
 } from "akasha/temper/addon/pages/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"
-import "akasha/temper/addon/pages/crafting/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"

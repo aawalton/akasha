@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-item-mark/craft-item-mark.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-tooltips/craft-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-core/knowledge-core.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-item-mark/craft-item-mark.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-core/knowledge-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-categories/inventory-browser-categories.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-defs/inventory-browser-category-defs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"}

@@ -1,0 +1,195 @@
+import { ADDON_NAME } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-constants/crafting-constants.module.code.ts"
+import {
+  asGlobalTable,
+  asString,
+} from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-casts/knowledge-casts.module.code.ts"
+import { INTERNAL } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-state/knowledge-state.module.code.ts"
+import type { SavedVars } from "akasha/temper/addon/pages/items/crafting-station/modules/knowledge-types/knowledge-types.module.code.ts"
+import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
+import {
+  type LamRegistrar,
+  registerPanel,
+} from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/knowledge-string-ids/knowledge-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+
+function asLamRegistrar(value: unknown): LamRegistrar<object, unknown, unknown[]> {
+  return value as LamRegistrar<object, unknown, unknown[]>
+}
+
+INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
+  const libAddonMenu = LCCC.GetLibAddonMenu()
+
+  if (libAddonMenu !== undefined) {
+    const panelId = "TemperItemsCraftingKnowledgeSettings"
+
+    INTERNAL.shareText = ""
+
+    const panelData = {
+      type: "panel",
+      name: "Temper Crafting Knowledge",
+      version: LCCC.FormatVersion(LCCC.GetAddOnVersion(ADDON_NAME)),
+      author: "AlanGaming",
+      slashCommand: "/tcknowledge",
+      registerForRefresh: true,
+    }
+
+    const controls: unknown[] = [
+      {
+        type: "description",
+        text: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_CHATCOMMAND,
+      },
+      ...INTERNAL.SettingsBuildMainSection(),
+    ]
+
+    if (!ZO_IsConsoleOrGameCoreUI()) {
+      LCCC.ConcatTables(controls, [
+        {
+          type: "header",
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_SECTION,
+        },
+        {
+          type: "editbox",
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_CAPTION,
+          getFunc: function (this: void): string {
+            return asShareText(INTERNAL.shareText)
+          },
+          setFunc: function (this: void, text: string): undefined {
+            INTERNAL.shareText = text
+          },
+          isMultiline: true,
+          isExtraWide: true,
+          maxChars: 0xffff,
+          textType: TEXT_TYPE_ALL,
+          reference: "TemperItemsCraftingKnowledgeExportBox",
+        },
+        {
+          type: "button",
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_EXPORTC,
+          func: INTERNAL.ExportCurrent,
+          tooltip: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_EXPORTCT,
+          width: "half",
+        },
+        {
+          type: "button",
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_IMPORT,
+          func: INTERNAL.Import,
+          width: "half",
+        },
+        {
+          type: "button",
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_EXPORTA,
+          func: function (this: void): undefined {
+            INTERNAL.ExportMultiple(true)
+          },
+          tooltip: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_EXPORTAT,
+          width: "half",
+        },
+        {
+          type: "button",
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_CLEAR,
+          func: function (this: void): undefined {
+            INTERNAL.shareText = ""
+          },
+          width: "half",
+        },
+        {
+          type: "button",
+          name: INTERNAL.GetExportSelectedText,
+          func: function (this: void): undefined {
+            INTERNAL.ExportMultiple(false)
+          },
+          tooltip: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_EXPORTST,
+          width: "half",
+          disabled: function (this: void): boolean {
+            return INTERNAL.CountExportSelection() === 0
+          },
+          reference: "TemperItemsCraftingKnowledgeExportSelected",
+        },
+
+        {
+          type: "header",
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_RESET_SECTION,
+        },
+        {
+          type: "custom",
+          width: "half",
+        },
+        {
+          type: "button",
+          name: SI_OPTIONS_RESET,
+          func: function (this: void): undefined {
+            asGlobalTable(globalThis).LibCharacterKnowledgeData = asResetVars({})
+            ReloadUI()
+          },
+          tooltip: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_RESET_WARNING,
+          width: "half",
+          isDangerous: true,
+          warning: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_RESET_WARNING,
+        },
+
+        {
+          type: "header",
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_NOSAVE_SECTION,
+        },
+        {
+          type: "editbox",
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_NOSAVE_CAPTION,
+          getFunc: function (this: void): string {
+            const accounts: string[] = []
+            if (INTERNAL.vars.noSave !== undefined) {
+              for (const [account] of pairs(INTERNAL.vars.noSave)) {
+                accounts.push(account)
+              }
+              table.sort(accounts)
+            }
+            return table.concat(accounts, ", ")
+          },
+          setFunc: function (this: void, text: string): undefined {
+            const accounts = [...zo_strsplit(", ", zo_strlower(text))]
+            if (accounts.length > 0) {
+              INTERNAL.vars.noSave = {}
+              for (const [, account] of ipairs(accounts)) {
+                asNoSaveSet(INTERNAL.vars.noSave)[DecorateDisplayName(asString(account))] = true
+              }
+            } else {
+              INTERNAL.vars.noSave = undefined
+            }
+          },
+          isMultiline: true,
+          isExtraWide: true,
+          maxChars: 0xfff,
+          textType: TEXT_TYPE_ALL,
+        },
+      ])
+    }
+
+    INTERNAL.settingsPanel = registerPanel(
+      asLamRegistrar(libAddonMenu),
+      panelId,
+      panelData,
+      controls
+    )
+  }
+}
+
+type ShareText = string
+function asShareText(value: string | undefined): ShareText {
+  return value as ShareText
+}
+
+type NoSaveSet = Record<string, boolean>
+function asNoSaveSet(value: NoSaveSet | undefined): NoSaveSet {
+  return value as NoSaveSet
+}
+
+type ResetVars = SavedVars
+function asResetVars(value: object): ResetVars {
+  return value as ResetVars
+}

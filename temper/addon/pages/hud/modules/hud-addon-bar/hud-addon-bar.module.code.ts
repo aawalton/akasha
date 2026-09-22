@@ -5,7 +5,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import { TEXT_SECONDARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { createFieldRegistry } from "akasha/temper/addon/pages/hud/modules/hud-addon-field-registry/hud-addon-field-registry.module.code.ts"
 import type { HudField } from "akasha/temper/addon/pages/hud/modules/hud-addon-types/hud-addon-types.module.code.ts"
-import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
 

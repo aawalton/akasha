@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"lib-codes-common-code.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-codes-common-code.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-codes-common-code.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-settings/writ-mark-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-codes-common-code.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-codes-common-code.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-codes-common-code.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-mark-settings/writ-mark-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-codes-common-code.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-list/item-browser-list.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-codes-common-code.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-multi-account/item-browser-multi-account.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-codes-common-code.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-settings/item-browser-settings.module.code.ts"}

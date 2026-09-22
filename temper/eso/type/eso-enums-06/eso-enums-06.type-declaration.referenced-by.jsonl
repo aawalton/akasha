@@ -3,9 +3,9 @@
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-interaction-state/companion-qol-interaction-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-resources/combat-lib-resources.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/price-dispatch/price-dispatch.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-guild-history/fco-guild-history.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/price-dispatch/price-dispatch.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-adapter/sales-history-adapter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-category-requests/sales-history-category-requests.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-category-thresholds/sales-history-category-thresholds.module.code.ts"}

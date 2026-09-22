@@ -1,4 +1,4 @@
-import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
+import { getSlotHandlerStats } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-slot-handler-stats/crafting-slot-handler-stats.module.code.ts"
 import {
   computeUnattributedMs,
   emptyNetWorthStats,
@@ -242,13 +242,6 @@ function refreshCraftingAndRemainder(trace: BankTrace): undefined {
 }
 
 function readCraftingSlotHandlerStats(): BankTraceCraftingStats | undefined {
-  const g: Record<string, unknown> = globalThis
-  const fn = g["TemperCrafting_GetSlotHandlerStats"]
-  if (typeof fn !== "function") return undefined
-  const stats: unknown = fn()
-  if (!isObjectRecord(stats)) return undefined
-  const count = stats["count"]
-  const totalMs = stats["totalMs"]
-  if (typeof count !== "number" || typeof totalMs !== "number") return undefined
-  return { count, totalMs }
+  const stats = getSlotHandlerStats()
+  return { count: stats.count, totalMs: stats.totalMs }
 }

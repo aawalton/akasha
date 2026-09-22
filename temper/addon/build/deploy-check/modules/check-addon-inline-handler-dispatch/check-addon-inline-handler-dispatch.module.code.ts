@@ -20,7 +20,7 @@ import { getRepoRoot } from "akasha/temper/addon/build/deploy-check/modules/repo
 
 const PREFIX = "[addon-inline-handler-dispatch]"
 
-const GOVERNED_NAMESPACES: ReadonlySet<string> = new Set(["TemperCrafting"])
+const GOVERNED_NAMESPACES: ReadonlySet<string> = new Set(["TemperItemsCrafting"])
 
 type Scan = {
   readonly findings: readonly DispatchFinding[]

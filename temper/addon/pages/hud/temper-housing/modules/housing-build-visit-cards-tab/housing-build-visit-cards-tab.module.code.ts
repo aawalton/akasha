@@ -12,7 +12,7 @@ import {
   nilName,
 } from "akasha/temper/addon/pages/hud/temper-housing/modules/housing-build-casts/housing-build-casts.module.code.ts"
 import { portToFriend } from "akasha/temper/addon/pages/hud/temper-housing/modules/housing-state/housing-state.module.code.ts"
-import "akasha/temper/addon/pages/crafting/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/hud/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 

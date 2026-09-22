@@ -3,12 +3,12 @@
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-command/characters-command.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-entry/characters-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-events/crafting-events.module.code.ts"}
-{"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-init/potion-init.module.code.ts"}
-{"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-slash-command/writ-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-public-api/hud-addon-public-api.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-ui/fco-ui.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-slash-command/selector-slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events/crafting-events.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-init/potion-init.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-slash-command/writ-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-hud-fields/inventory-hud-fields.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}

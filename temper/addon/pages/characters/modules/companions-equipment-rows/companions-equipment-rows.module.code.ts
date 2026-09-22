@@ -11,7 +11,7 @@ import {
   TEXT_SECONDARY,
 } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
 
 export const TWO_HANDED_TYPES: Record<number, boolean> = {

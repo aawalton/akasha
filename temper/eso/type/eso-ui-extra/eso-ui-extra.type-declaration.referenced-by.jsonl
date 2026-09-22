@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/slash-commander-descriptions/slash-commander-descriptions.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-comboboxes/housing-comboboxes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-dropdowns/housing-dropdowns.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/slash-commander-descriptions/slash-commander-descriptions.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache-status-bar/sales-history-cache-status-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-dialogs/sales-history-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-server-request-manager/sales-history-server-request-manager.module.code.ts"}

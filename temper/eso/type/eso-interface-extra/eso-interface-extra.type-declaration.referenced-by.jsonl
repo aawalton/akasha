@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-main-menu/potion-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-constants/fco-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-mainmenu/fco-mainmenu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-overall/fco-overall.module.code.ts"}
@@ -20,6 +19,7 @@
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-settings-world/quiet-settings-world.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-strings/quiet-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-world/quiet-world.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-main-menu/potion-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window-debug/sales-history-status-window-debug.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-notification/modules/notification-provider-link/notification-provider-link.module.code.ts"}

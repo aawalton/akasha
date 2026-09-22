@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/catalog/temper-addon-catalog.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts"}
-{"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/crafting/temper-addon-crafting.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/hud/temper-addon-hud.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-addon-menu/temper-lib-addon-menu.temper-addon.ts"}

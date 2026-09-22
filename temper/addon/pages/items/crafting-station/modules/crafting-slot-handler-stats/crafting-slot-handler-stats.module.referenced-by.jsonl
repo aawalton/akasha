@@ -1,0 +1,6 @@
+{"propertySlug":"import","fileName":"crafting-slot-handler-stats.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-characters/craft-characters.module.code.ts"}
+{"propertySlug":"import","fileName":"crafting-slot-handler-stats.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-player-state/craft-player-state.module.code.ts"}
+{"propertySlug":"import","fileName":"crafting-slot-handler-stats.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events/crafting-events.module.code.ts"}
+{"propertySlug":"import","fileName":"crafting-slot-handler-stats.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
+{"propertySlug":"import","fileName":"crafting-slot-handler-stats.module.code.ts","path":"temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}

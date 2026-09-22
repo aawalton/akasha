@@ -8,7 +8,7 @@ import type { QolPinData } from "akasha/temper/addon/pages/world/navigation/modu
 import type { UnknownPinTag } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import { gamepadBodyStyle } from "akasha/temper/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.code.ts"
-import "akasha/temper/addon/pages/crafting/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"

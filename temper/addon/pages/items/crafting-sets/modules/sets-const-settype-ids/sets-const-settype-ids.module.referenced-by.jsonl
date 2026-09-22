@@ -1,0 +1,12 @@
+{"propertySlug":"import","fileName":"sets-const-settype-ids.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-const-settype-names/sets-const-settype-names.module.code.ts"}
+{"propertySlug":"import","fileName":"sets-const-settype-ids.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-const-settypes/sets-const-settypes.module.code.ts"}
+{"propertySlug":"import","fileName":"sets-const-settype-ids.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-const-textures-maps/sets-const-textures-maps.module.code.ts"}
+{"propertySlug":"import","fileName":"sets-const-settype-ids.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-lifecycle-inventory-contextmenu/sets-core-lifecycle-inventory-contextmenu.module.code.ts"}
+{"propertySlug":"import","fileName":"sets-const-settype-ids.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-textures/sets-core-textures.module.code.ts"}
+{"propertySlug":"import","fileName":"sets-const-settype-ids.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-loc-game-strings/sets-loc-game-strings.module.code.ts"}
+{"propertySlug":"import","fileName":"sets-const-settype-ids.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-loc-rest-game-strings/sets-loc-rest-game-strings.module.code.ts"}
+{"propertySlug":"import","fileName":"sets-const-settype-ids.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-rowmenu/sets-search-ui-shared-rowmenu.module.code.ts"}
+{"propertySlug":"import","fileName":"sets-const-settype-ids.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-text-default-layout/sets-set-text-default-layout.module.code.ts"}
+{"propertySlug":"import","fileName":"sets-const-settype-ids.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-header/sets-tip-header.module.code.ts"}
+{"propertySlug":"import","fileName":"sets-const-settype-ids.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-helpers/sets-tip-helpers.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/pages/items/crafting-sets/crafting-sets.domain.ts","id":"01a0c6a0-0160-75ed-ad0d-8f601468b4c5"}

@@ -1,0 +1,16 @@
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-base-data/knowledge-base-data.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-casts/knowledge-casts.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-core/knowledge-core.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-init-chardata/knowledge-init-chardata.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-init/knowledge-init.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-item-knowledge/knowledge-item-knowledge.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-lookups/knowledge-lookups.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-motif/knowledge-motif.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-public-core/knowledge-public-core.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-public-research/knowledge-public-research.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-research-get/knowledge-research-get.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-settings-controls/knowledge-settings-controls.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-settings-export-import/knowledge-settings-export-import.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-settings-panel/knowledge-settings-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"knowledge-types.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-shape/knowledge-shape.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}

@@ -38,7 +38,7 @@ import "akasha/temper/addon/pages/combat/combat-controls-panels/combat-controls-
 import "akasha/temper/addon/pages/combat/combat-controls-report/combat-controls-report.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-public-api/combat-public-api.module.code.ts"
-import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"

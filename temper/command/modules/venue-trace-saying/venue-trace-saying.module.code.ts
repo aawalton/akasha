@@ -26,7 +26,7 @@ export function settlingSaid(settling: BankTraceSettling | undefined): readonly 
   }
   const crafting =
     settling.crafting === undefined
-      ? "crafting slot-handlers: nil (TemperCrafting absent)"
+      ? "crafting slot-handlers: nil (TemperItemsCrafting absent)"
       : `crafting slot-handlers: n=${settling.crafting.count} total=${settling.crafting.totalMs}ms`
   return [
     `settling: evaluateRules ${bracketSaid(settling.evaluateRules)}; ` +

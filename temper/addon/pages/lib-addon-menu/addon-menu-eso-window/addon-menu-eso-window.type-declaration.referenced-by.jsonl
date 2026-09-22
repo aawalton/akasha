@@ -1,9 +1,9 @@
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-init/combat-ui-report-init.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-main-menu/potion-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-entry/fco-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-mainmenu/fco-mainmenu.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-map/fco-map.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-camera/quiet-camera.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-main-menu/potion-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-scene/inventory-browser-scene.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-casts/addon-menu-casts.module.code.ts"}

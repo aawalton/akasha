@@ -1,0 +1,14 @@
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-controls/potion-controls.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-events/potion-events.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-ingredient/potion-ingredient.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-keybinds/potion-keybinds.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-main-menu/potion-main-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-potion-match/potion-potion-match.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-potion/potion-potion.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-render-page/potion-render-page.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-saved-variables/potion-saved-variables.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-search/potion-search.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-settings-menu/potion-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-window-helpers/potion-window-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-windows/potion-windows.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}

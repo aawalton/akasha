@@ -5,7 +5,7 @@
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-log-update/combat-ui-log-update.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-log-window/combat-ui-log-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-ui-updates/craft-ui-updates.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-ui-updates/craft-ui-updates.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window-shared/sales-history-status-window-shared.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"}

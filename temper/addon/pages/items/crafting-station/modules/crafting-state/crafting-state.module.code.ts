@@ -1,0 +1,172 @@
+import type { AccountData } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-account-init/craft-account-init.module.code.ts"
+import type { CharacterData } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-char-init/craft-char-init.module.code.ts"
+import {
+  COOK,
+  type CookTable,
+} from "akasha/temper/addon/pages/items/crafting-station/modules/craft-cook/craft-cook.module.code.ts"
+import {
+  FURNISHER,
+  type FurnisherTable,
+} from "akasha/temper/addon/pages/items/crafting-station/modules/craft-furnisher/craft-furnisher.module.code.ts"
+import { LANG } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-lang-index/craft-lang-index.module.code.ts"
+import type { LangTable } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-lang-lang-table/craft-lang-lang-table.module.code.ts"
+import {
+  type CsQualityColor,
+  QUALITY,
+  QUALITY_HEX,
+} from "akasha/temper/addon/pages/items/crafting-station/modules/craft-quality/craft-quality.module.code.ts"
+import {
+  RUNE,
+  type RuneTable,
+} from "akasha/temper/addon/pages/items/crafting-station/modules/craft-rune/craft-rune.module.code.ts"
+import {
+  type CraftedSetEntry,
+  SETS,
+} from "akasha/temper/addon/pages/items/crafting-station/modules/craft-sets-data/craft-sets-data.module.code.ts"
+import type { StyleApi } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-styles-data/craft-styles-data.module.code.ts"
+import {
+  CHAMPION_POINTS_TEXTURE,
+  HealthName,
+  MagickaName,
+  StaminaName,
+} from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-constants/crafting-constants.module.code.ts"
+import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/type/crafting-addon-neighbours/crafting-addon-neighbours.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+export interface StyleNameRow {
+  name: string
+  id: number
+  motif: number
+}
+
+export interface QuestEntry {
+  id: number
+  name: string
+  work: Record<number, string>
+}
+
+export interface DataTables {
+  crafting: {
+    researched: Record<string, Record<number, Record<number, Record<number, boolean | number>>>>
+  }
+}
+
+export interface TemperItemsCraftingState {
+  Debug: boolean
+  Name: string
+  Title: string
+  Version: string
+  Account: AccountData
+  Character: CharacterData
+  Init: boolean
+  MaxTraits: number
+  JewelryMaxTraits: number
+  Loc: LangTable
+  Quest: Record<number, QuestEntry>
+  Extern: boolean
+  Inspiration: string
+  HealthName: string
+  MagickaName: string
+  StaminaName: string
+  CurrentPlayer: string
+  SelectedPlayer: string
+  UIClosed: boolean
+  ChampionPointsTexture: string
+  Data: DataTables
+  SELF: boolean
+  ItemLinkCache: Record<number, Record<number, string>>
+  previewType: Record<string, number>
+  selectedControl: Control | undefined
+  settingsPanel: Control | undefined
+  Style: StyleApi | undefined
+  styleNames: StyleNameRow[]
+  Chat: ChatProxy
+  Quality: Record<number, CsQualityColor>
+  QualityHex: Record<number, string>
+  Cook: CookTable
+  Furnisher: FurnisherTable
+  Rune: RuneTable
+  Sets: Record<number, CraftedSetEntry>
+}
+
+ZO_CreateStringId("SI_BINDING_NAME_CRAFTSTORE", "Temper Crafting")
+
+const [, , maxTraits] = GetSmithingResearchLineInfo(1, 1)
+const [, , jewelryMaxTraits] = GetSmithingResearchLineInfo(7, 1)
+
+const langTables: Record<string, LangTable> = LANG
+const Loc = langTables[GetCVar("language.2")] ?? LANG.en
+
+const currentPlayer = zo_strformat("<<C:1>>", GetUnitName("player"))
+
+function asAccountData(placeholder: unknown): AccountData {
+  return placeholder as AccountData
+}
+
+function asCharacterData(placeholder: unknown): CharacterData {
+  return placeholder as CharacterData
+}
+
+export const STATE: TemperItemsCraftingState = {
+  Debug: GetWorldName() === "PTS" || GetDisplayName() === "@VladislavAksjonov",
+  Name: "TemperItemsCrafting",
+  Title: "Temper Crafting",
+  Version: "3.04",
+  Account: asAccountData(undefined),
+  Character: asCharacterData(undefined),
+  Init: false,
+  MaxTraits: maxTraits,
+  JewelryMaxTraits: jewelryMaxTraits,
+  Loc: Loc,
+  Quest: {},
+  Extern: false,
+  Inspiration: "",
+  HealthName: HealthName,
+  MagickaName: MagickaName,
+  StaminaName: StaminaName,
+  CurrentPlayer: currentPlayer,
+  SelectedPlayer: currentPlayer,
+  UIClosed: false,
+  ChampionPointsTexture: CHAMPION_POINTS_TEXTURE,
+  Data: {
+    crafting: { researched: {} },
+  },
+  SELF: false,
+  ItemLinkCache: {
+    [BAG_BACKPACK]: {},
+    [BAG_BANK]: {},
+    [BAG_VIRTUAL]: {},
+    [BAG_SUBSCRIBER_BANK]: {},
+  },
+  previewType: {
+    [Loc.previewType[0]]: 1,
+    [Loc.previewType[1]]: 2,
+    [Loc.previewType[2]]: 3,
+    [Loc.previewType[3]]: 4,
+  },
+  selectedControl: undefined,
+  settingsPanel: undefined,
+  Style: undefined,
+  styleNames: [],
+  Chat: {
+    Print(str) {
+      if (str === undefined) {
+        return
+      }
+      d("|cEEEE00[TemperItemsCrafting]|r " + str)
+    },
+  },
+  Quality: QUALITY,
+  QualityHex: QUALITY_HEX,
+  Cook: COOK,
+  Furnisher: FURNISHER,
+  Rune: RUNE,
+  Sets: SETS,
+}

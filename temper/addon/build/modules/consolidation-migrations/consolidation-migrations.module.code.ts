@@ -66,47 +66,155 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
-    runFor: "TemperCrafting",
+    runFor: "TemperItems",
     spec: {
       absorbedFileBase: "TemperPotionMaker",
       absorbedGlobal: "TemperPotionMaker_SavedVariables",
-      targetFileBase: "TemperCrafting",
+      targetFileBase: "TemperItems",
     },
   },
   {
     mode: "append",
-    runFor: "TemperCrafting",
+    runFor: "TemperItems",
     spec: {
       absorbedFileBase: "WritWorthy",
       absorbedGlobal: "WritWorthyVars",
-      targetFileBase: "TemperCrafting",
+      targetFileBase: "TemperItems",
     },
   },
   {
     mode: "append",
-    runFor: "TemperCrafting",
+    runFor: "TemperItems",
     spec: {
       absorbedFileBase: "TemperMasterWritInventoryMarker",
       absorbedGlobal: "TemperMasterWritInventoryMarker_SavedVariables",
-      targetFileBase: "TemperCrafting",
+      targetFileBase: "TemperItems",
     },
   },
   {
     mode: "append",
-    runFor: "TemperCrafting",
+    runFor: "TemperItems",
     spec: {
       absorbedFileBase: "LibCharacterKnowledge",
       absorbedGlobal: "LibCharacterKnowledgeData",
-      targetFileBase: "TemperCrafting",
+      targetFileBase: "TemperItems",
     },
   },
   {
     mode: "append",
-    runFor: "TemperCrafting",
+    runFor: "TemperItems",
     spec: {
       absorbedFileBase: "LibSets",
       absorbedGlobal: "LibSets_SV_Data",
-      targetFileBase: "TemperCrafting",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperCrafting",
+      absorbedGlobal: "TemperCrafting_Account",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperCrafting",
+      absorbedGlobal: "TemperCrafting_Character",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperCrafting",
+      absorbedGlobal: "TemperPotionMaker_SavedVariables",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperCrafting",
+      absorbedGlobal: "WritWorthyVars",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperCrafting",
+      absorbedGlobal: "TemperMasterWritInventoryMarker_SavedVariables",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperCrafting",
+      absorbedGlobal: "LibZone_SV_Data",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperCrafting",
+      absorbedGlobal: "LibZone_Localized_SV_Data",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperCrafting",
+      absorbedGlobal: "LibZone_GeoDebug_SV_Data",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperCrafting",
+      absorbedGlobal: "LibZone_Debug_SV_Data",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperCrafting",
+      absorbedGlobal: "LibCharacterKnowledgeData",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperCrafting",
+      absorbedGlobal: "LibSets_SV_Data",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperCrafting",
+      absorbedGlobal: "LibSets_SV_DEBUG_Data",
+      targetFileBase: "TemperItems",
     },
   },
   {

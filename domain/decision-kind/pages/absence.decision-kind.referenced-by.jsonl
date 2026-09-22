@@ -1757,13 +1757,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-function-casts/table-function-casts.module.ts","id":"01a06052-2ca5-78e3-9cd6-62ac3cdd5bed"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-casts/data-encode-casts.module.ts","id":"01a06061-96a1-7301-8024-72c93d42cc87"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-gen-no-set-id-sets/sets-gen-no-set-id-sets.module.ts","id":"01a061d7-7bcd-7e34-9bc0-f2daafdd16c4"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-gen-zone-ids-of-newer-api-version/sets-gen-zone-ids-of-newer-api-version.module.ts","id":"01a061fc-cee8-7893-86a9-c6e36f1902df"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/knowledge-casts/knowledge-casts.module.ts","id":"01a061fa-8003-7294-ab90-2fa2f73b33f0"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/price-casts/price-casts.module.ts","id":"01a0615d-c219-7729-a4bf-b8c0493920a7"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/slash-commander-casts/slash-commander-casts.module.ts","id":"01a06066-8403-7a32-b1b3-df88bb610cb2"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/zone-casts/zone-casts.module.ts","id":"01a061e7-92f2-790e-b9b3-5b0d9a77cf73"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/hud-addon-hide-plan/hud-addon-hide-plan.module.ts","id":"01a061c5-18dd-700b-9e4a-ac33f45c2a8f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/hud-addon-hide-targets/hud-addon-hide-targets.module.ts","id":"01a061c5-18dd-7009-859a-31630f29ad1a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/hud-addon-types/hud-addon-types.module.ts","id":"01a061c5-18dd-7000-bd52-66ec64cec528"}
@@ -1793,6 +1786,13 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-interface/modules/fco-ui/fco-ui.module.ts","id":"01a06115-1ad8-7a5e-a9fb-cd52f4b41690"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-keybinder/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts","id":"01a06259-bfbc-7d5e-8b4b-5bbe42c3459a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-keybinder/modules/addon-keybinds-casts/addon-keybinds-casts.module.ts","id":"01a0605a-051b-7355-a78a-16ba2dc843c5"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-gen-no-set-id-sets/sets-gen-no-set-id-sets.module.ts","id":"01a061d7-7bcd-7e34-9bc0-f2daafdd16c4"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-gen-zone-ids-of-newer-api-version/sets-gen-zone-ids-of-newer-api-version.module.ts","id":"01a061fc-cee8-7893-86a9-c6e36f1902df"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/knowledge-casts/knowledge-casts.module.ts","id":"01a061fa-8003-7294-ab90-2fa2f73b33f0"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/price-casts/price-casts.module.ts","id":"01a0615d-c219-7729-a4bf-b8c0493920a7"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/slash-commander-casts/slash-commander-casts.module.ts","id":"01a06066-8403-7a32-b1b3-df88bb610cb2"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/zone-casts/zone-casts.module.ts","id":"01a061e7-92f2-790e-b9b3-5b0d9a77cf73"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.ts","id":"01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.ts","id":"01a06258-b527-758b-b9d3-f61c61aec470"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
