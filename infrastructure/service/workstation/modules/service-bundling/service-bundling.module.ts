@@ -84,8 +84,52 @@ export const serviceBundling = {
       statement: "A unit runs the bundle this writes.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "Each bundle is tens of megabytes, and one is written for every commit built.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service keeps at most two bundles, swept after each new one is written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The bundle just written is always one of the two kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The other kept is the bundle the service's installed unit starts from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Two are kept, not one, so a running unit's bundle survives a newer one being built.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The unit's ExecStart is read rather than guessed, and mtime only settles the fallback.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Every installed unit starts from a pinned tree rather than from a bundle.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Where the unit names no bundle, the most recent other one is kept as the rollback.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a file in that directory named for a commit and suffixed `.js` is swept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The answer names every bundle removed, because a silent removal is hard to diagnose.",
+    },
+    {
       decisionKind: "decision-kind/gap",
-      statement: "A bundle no commit names any more is taken away.",
+      statement: "A unit's ExecStart names a bundle, so the sweep can read which one to keep.",
     },
   ],
 } as const satisfies Module

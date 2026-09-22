@@ -45,6 +45,10 @@ export const infrastructureServiceBundle = {
       statement: "The size the answer names is the bundle's with its inline source map in it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer names the bundles kept and the bundles the sweep removed.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No flag bundles every service at once.",
     },

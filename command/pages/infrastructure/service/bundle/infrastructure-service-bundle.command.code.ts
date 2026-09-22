@@ -19,6 +19,10 @@ const NO_HOME = "no home directory is stated, so the bundle has nowhere to be wr
 
 const PLACES = 2
 
+const KEPT = "kept"
+
+const REMOVED = "removed"
+
 export async function infrastructureServiceBundle(
   argv: readonly string[],
   given: Given
@@ -34,12 +38,14 @@ export async function infrastructureServiceBundle(
     const made = await bundledFor(given.root, slug, home)
     if ("unnamed" in made) return refused(made.unnamed, INPUT)
     if ("refused" in made) return refused(made.refused, DATA)
-    return told(
-      keyedLines([
+    return told([
+      ...keyedLines([
         ["at", made.built.at],
         ["bytes", made.built.bytes],
         ["seconds", made.built.seconds.toFixed(PLACES)],
-      ])
-    )
+      ]),
+      ...keyedLines(made.built.kept.map((one) => [KEPT, one] as const)),
+      ...keyedLines(made.built.removed.map((one) => [REMOVED, one] as const)),
+    ])
   })
 }
