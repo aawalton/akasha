@@ -25,8 +25,8 @@ const OPTIONS_PANEL_ID = "TemperDestinations_OptionsPanel"
 export function initSettings(): undefined {
   const panelData: LamPanelData = {
     type: "panel",
-    name: getSettingsString("DEST_SETTINGS_TITLE"),
-    displayName: getSettingsString("DEST_SETTINGS_TITLE"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_TITLE"),
+    displayName: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_TITLE"),
     author: ADDON_AUTHOR,
     version: ADDON_VERSION,
     slashCommand: "/dset",

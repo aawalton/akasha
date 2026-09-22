@@ -4424,12 +4424,14 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-achievement-sections/destinations-settings-achievement-sections.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-achievements/destinations-settings-achievements.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-collectibles/destinations-settings-collectibles.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-fishing-controls/destinations-settings-fishing-controls.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-fishing/destinations-settings-fishing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-general/destinations-settings-general.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-helpers/destinations-settings-helpers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-init/destinations-settings-init.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-map-filters/destinations-settings-map-filters.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-misc-poi-icons/destinations-settings-misc-poi-icons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-misc-poi/destinations-settings-misc-poi.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-unknown-poi/destinations-settings-unknown-poi.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-vampire-werewolf/destinations-settings-vampire-werewolf.module.ts"}

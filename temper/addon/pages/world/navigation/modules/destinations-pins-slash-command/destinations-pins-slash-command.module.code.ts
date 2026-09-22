@@ -40,9 +40,9 @@ function showMyPosition(this: void): undefined {
 SLASH_COMMANDS["/fishloc"] = showMyPosition
 
 SLASH_COMMANDS["/dhlp"] = function (this: void): undefined {
-  dm("Info", getSettingsString("DESTCOMMANDS"))
-  dm("Info", getSettingsString("DESTCOMMANDdhlp"))
-  dm("Info", getSettingsString("DESTCOMMANDdset"))
+  dm("Info", getSettingsString("SI_TEMPER_DESTINATIONS_COMMANDS"))
+  dm("Info", getSettingsString("SI_TEMPER_DESTINATIONS_COMMAND_DHLP"))
+  dm("Info", getSettingsString("SI_TEMPER_DESTINATIONS_COMMAND_DSET"))
 }
 
 SLASH_COMMANDS["/dgac"] = function (this: void): undefined {

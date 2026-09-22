@@ -22,14 +22,14 @@ import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 function buildAccountWideToggle(): LamCheckboxData {
   return {
     type: "checkbox",
-    name: accountWideColored("DEST_SETTINGS_USE_ACCOUNTWIDE"),
-    tooltip: getSettingsString("DEST_SETTINGS_USE_ACCOUNTWIDE_TT"),
+    name: accountWideColored("SI_TEMPER_DESTINATIONS_SETTINGS_USE_ACCOUNTWIDE"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_USE_ACCOUNTWIDE_TT"),
     getFunc: () => getAccountWideSavedVariables().settings.useAccountWide,
     setFunc: (state) => {
       getAccountWideSavedVariables().settings.useAccountWide = state
       ReloadUI("ingame")
     },
-    warning: reloadWarningColored("DEST_SETTINGS_RELOAD_WARNING"),
+    warning: reloadWarningColored("SI_TEMPER_DESTINATIONS_SETTINGS_RELOAD_WARNING"),
     default: DEFAULTS.settings.useAccountWide,
   }
 }
@@ -39,8 +39,8 @@ function buildPoiImprovementsSubmenu(): LamSubmenuData {
   const controls: LamControlData[] = []
   controls.push({
     type: "checkbox",
-    name: getSettingsString("DEST_SETTINGS_POI_SHOW_ENGLISH"),
-    tooltip: getSettingsString("DEST_SETTINGS_POI_SHOW_ENGLISH_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_SHOW_ENGLISH"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_SHOW_ENGLISH_TT"),
     getFunc: () => sv.settings.AddEnglishOnUnknwon,
     setFunc: (state) => {
       sv.settings.AddEnglishOnUnknwon = state
@@ -50,8 +50,8 @@ function buildPoiImprovementsSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_POI_ENGLISH_COLOR"),
-    tooltip: getSettingsString("DEST_SETTINGS_POI_ENGLISH_COLOR_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_ENGLISH_COLOR"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_ENGLISH_COLOR_TT"),
     getFunc: () => {
       return DEST_PIN_TEXT_COLOR_ENGLISH_POI.UnpackRGBA()
     },
@@ -64,8 +64,8 @@ function buildPoiImprovementsSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "checkbox",
-    name: getSettingsString("DEST_SETTINGS_POI_SHOW_ENGLISH_KEEPS"),
-    tooltip: getSettingsString("DEST_SETTINGS_POI_SHOW_ENGLISH_KEEPS_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_SHOW_ENGLISH_KEEPS"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_SHOW_ENGLISH_KEEPS_TT"),
     getFunc: () => sv.settings.AddEnglishOnKeeps,
     setFunc: (state) => {
       sv.settings.AddEnglishOnKeeps = state
@@ -75,8 +75,8 @@ function buildPoiImprovementsSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_POI_ENGLISH_KEEPS_COLOR"),
-    tooltip: getSettingsString("DEST_SETTINGS_POI_ENGLISH_KEEPS_COLOR_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_ENGLISH_KEEPS_COLOR"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_ENGLISH_KEEPS_COLOR_TT"),
     getFunc: () => {
       return DEST_PIN_TEXT_COLOR_ENGLISH_KEEP.UnpackRGBA()
     },
@@ -89,8 +89,8 @@ function buildPoiImprovementsSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "checkbox",
-    name: getSettingsString("DEST_SETTINGS_POI_ENGLISH_KEEPS_HA"),
-    tooltip: getSettingsString("DEST_SETTINGS_POI_ENGLISH_KEEPS_HA_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_ENGLISH_KEEPS_HA"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_ENGLISH_KEEPS_HA_TT"),
     getFunc: () => sv.settings.HideAllianceOnKeeps,
     setFunc: (value) => {
       sv.settings.HideAllianceOnKeeps = value
@@ -100,8 +100,8 @@ function buildPoiImprovementsSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "checkbox",
-    name: getSettingsString("DEST_SETTINGS_POI_ENGLISH_KEEPS_NL"),
-    tooltip: getSettingsString("DEST_SETTINGS_POI_ENGLISH_KEEPS_NL_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_ENGLISH_KEEPS_NL"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_ENGLISH_KEEPS_NL_TT"),
     getFunc: () => sv.settings.AddNewLineOnKeeps,
     setFunc: (value) => {
       sv.settings.AddNewLineOnKeeps = value
@@ -111,8 +111,8 @@ function buildPoiImprovementsSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "checkbox",
-    name: getSettingsString("DEST_SETTINGS_POI_IMPROVE_MUNDUS"),
-    tooltip: getSettingsString("DEST_SETTINGS_POI_IMPROVE_MUNDUS_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_IMPROVE_MUNDUS"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_IMPROVE_MUNDUS_TT"),
     getFunc: () => sv.settings.ImproveMundus,
     setFunc: (state) => {
       sv.settings.ImproveMundus = state
@@ -121,8 +121,8 @@ function buildPoiImprovementsSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "checkbox",
-    name: getSettingsString("DEST_SETTINGS_POI_IMPROVE_CRAFTING"),
-    tooltip: getSettingsString("DEST_SETTINGS_POI_IMPROVE_CRAFTING_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_IMPROVE_CRAFTING"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_IMPROVE_CRAFTING_TT"),
     getFunc: () => sv.settings.ImproveCrafting,
     setFunc: (state) => {
       sv.settings.ImproveCrafting = state
@@ -132,9 +132,9 @@ function buildPoiImprovementsSubmenu(): LamSubmenuData {
   return {
     type: "submenu",
     name: DEFAULTS.miscColorCodes.settingsTextImprove.Colorize(
-      getSettingsString("DEST_SETTINGS_IMPROVEMENT_HEADER")
+      getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_IMPROVEMENT_HEADER")
     ),
-    tooltip: getSettingsString("DEST_SETTINGS_IMPROVEMENT_HEADER_TT"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_IMPROVEMENT_HEADER_TT"),
     controls,
   }
 }
@@ -144,7 +144,7 @@ export function buildGeneralOptions(): LamControlData[] {
   if (getAccountWideSavedVariables().settings.useAccountWide) {
     options.push({
       type: "description",
-      text: accountWideColored("DEST_SETTINGS_PER_CHAR_HEADER"),
+      text: accountWideColored("SI_TEMPER_DESTINATIONS_SETTINGS_PER_CHAR_HEADER"),
     })
   }
   options.push(buildPoiImprovementsSubmenu())

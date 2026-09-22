@@ -46,12 +46,12 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   const controls: LamControlData[] = []
   controls.push({
     type: "header",
-    name: achHeaderName("DEST_SETTINGS_COLLECTIBLES_SUBHEADER"),
+    name: achHeaderName("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_SUBHEADER"),
   })
   controls.push({
     type: "checkbox",
-    name: perCharName("DEST_SETTINGS_COLLECTIBLES_TOGGLE"),
-    tooltip: tooltipWithPerChar("DEST_SETTINGS_COLLECTIBLES_TOGGLE_TT"),
+    name: perCharName("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_TOGGLE"),
+    tooltip: tooltipWithPerChar("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_TOGGLE_TT"),
     getFunc: () => isFilterEnabled(getCharacterSavedVariables().filters, PIN_TYPES.COLLECTIBLES),
     setFunc: (state) => {
       togglePins(PIN_TYPES.COLLECTIBLES, state)
@@ -63,8 +63,8 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   controls.push({
     type: "checkbox",
     width: "full",
-    name: perCharName("DEST_SETTINGS_COLLECTIBLES_DONE_TOGGLE"),
-    tooltip: tooltipWithPerChar("DEST_SETTINGS_COLLECTIBLES_DONE_TOGGLE_TT"),
+    name: perCharName("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_DONE_TOGGLE"),
+    tooltip: tooltipWithPerChar("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_DONE_TOGGLE_TT"),
     getFunc: () =>
       isFilterEnabled(getCharacterSavedVariables().filters, PIN_TYPES.COLLECTIBLESDONE),
     setFunc: (state) => {
@@ -75,7 +75,7 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "dropdown",
-    name: getSettingsString("DEST_SETTINGS_COLLECTIBLES_PIN_STYLE"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_PIN_STYLE"),
     reference: "previewpinTextureCollectible",
     choices: PIN_TEXTURE_LISTS.Collectible,
     getFunc: () => choiceAt(PIN_TEXTURE_LISTS.Collectible, sv.pins.pinTextureCollectible.type),
@@ -113,8 +113,8 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   controls.push({
     type: "checkbox",
     width: "full",
-    name: getSettingsString("DEST_SETTINGS_COLLECTIBLES_SHOW_MOBNAME"),
-    tooltip: getSettingsString("DEST_SETTINGS_COLLECTIBLES_SHOW_MOBNAME_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_SHOW_MOBNAME"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_SHOW_MOBNAME_TT"),
     getFunc: () => isFilterEnabled(sv.filters, PIN_TYPES.COLLECTIBLES_SHOW_MOBNAME),
     setFunc: (state) => {
       sv.filters[PIN_TYPES.COLLECTIBLES_SHOW_MOBNAME] = state
@@ -127,8 +127,8 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   controls.push({
     type: "checkbox",
     width: "full",
-    name: getSettingsString("DEST_SETTINGS_COLLECTIBLES_SHOW_ITEM"),
-    tooltip: getSettingsString("DEST_SETTINGS_COLLECTIBLES_SHOW_ITEM_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_SHOW_ITEM"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_SHOW_ITEM_TT"),
     getFunc: () => isFilterEnabled(sv.filters, PIN_TYPES.COLLECTIBLES_SHOW_ITEM),
     setFunc: (state) => {
       sv.filters[PIN_TYPES.COLLECTIBLES_SHOW_ITEM] = state
@@ -140,8 +140,8 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_COLLECTIBLES_COLOR_TITLE"),
-    tooltip: getSettingsString("DEST_SETTINGS_COLLECTIBLES_COLOR_TITLE_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_COLOR_TITLE"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_COLOR_TITLE_TT"),
     getFunc: () => {
       return unpackRgb(sv.pins.pinTextureCollectible.textcolortitle)
     },
@@ -155,12 +155,12 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "header",
-    name: achHeaderName("DEST_SETTINGS_COLLECTIBLES_COLORS_HEADER"),
+    name: achHeaderName("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_COLORS_HEADER"),
   })
   controls.push({
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_COLLECTIBLES_PIN_COLOR"),
-    tooltip: getSettingsString("DEST_SETTINGS_COLLECTIBLES_PIN_COLOR_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_PIN_COLOR"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_PIN_COLOR_TT"),
     getFunc: () => {
       return unpackRgba(sv.pins.pinTextureCollectible.tint)
     },
@@ -175,8 +175,8 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_COLLECTIBLES_COLOR_UNDONE"),
-    tooltip: getSettingsString("DEST_SETTINGS_COLLECTIBLES_COLOR_UNDONE_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_COLOR_UNDONE"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_COLOR_UNDONE_TT"),
     getFunc: () => {
       return unpackRgb(sv.pins.pinTextureCollectible.textcolor)
     },
@@ -189,8 +189,8 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_COLLECTIBLES_PIN_COLOR_DONE"),
-    tooltip: getSettingsString("DEST_SETTINGS_COLLECTIBLES_PIN_COLOR_DONE_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_PIN_COLOR_DONE"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_PIN_COLOR_DONE_TT"),
     getFunc: () => {
       return unpackRgba(sv.pins.pinTextureCollectibleDone.tint)
     },
@@ -205,8 +205,8 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_COLLECTIBLES_COLOR_DONE"),
-    tooltip: getSettingsString("DEST_SETTINGS_COLLECTIBLES_COLOR_DONE_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_COLOR_DONE"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_COLOR_DONE_TT"),
     getFunc: () => {
       return unpackRgb(sv.pins.pinTextureCollectibleDone.textcolor)
     },
@@ -219,12 +219,12 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "header",
-    name: achHeaderName("DEST_SETTINGS_COLLECTIBLES_MISC_HEADER"),
+    name: achHeaderName("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_MISC_HEADER"),
   })
   controls.push({
     type: "checkbox",
-    name: perCharName("DEST_SETTINGS_COLLECTIBLES_COMPASS_TOGGLE"),
-    tooltip: tooltipWithPerChar("DEST_SETTINGS_COLLECTIBLES_COMPASS_TOGGLE_TT"),
+    name: perCharName("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_COMPASS_TOGGLE"),
+    tooltip: tooltipWithPerChar("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_COMPASS_TOGGLE_TT"),
     getFunc: () =>
       isFilterEnabled(getCharacterSavedVariables().filters, PIN_TYPES.COLLECTIBLES_COMPASS),
     setFunc: (state) => {
@@ -237,8 +237,8 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "slider",
-    name: getSettingsString("DEST_SETTINGS_COLLECTIBLES_COMPASS_DIST"),
-    tooltip: getSettingsString("DEST_SETTINGS_COLLECTIBLES_COMPASS_DIST_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_COMPASS_DIST"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_COMPASS_DIST_TT"),
     min: 1,
     max: 100,
     getFunc: () => sv.pins.pinTextureCollectible.maxDistance * 1000,
@@ -258,8 +258,8 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "slider",
-    name: getSettingsString("DEST_SETTINGS_COLLECTIBLES_PIN_SIZE"),
-    tooltip: getSettingsString("DEST_SETTINGS_COLLECTIBLES_PIN_SIZE_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_PIN_SIZE"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_PIN_SIZE_TT"),
     min: 20,
     max: 70,
     getFunc: () => sv.pins.pinTextureCollectible.size,
@@ -278,8 +278,8 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "slider",
-    name: getSettingsString("DEST_SETTINGS_COLLECTIBLES_PIN_LAYER"),
-    tooltip: getSettingsString("DEST_SETTINGS_COLLECTIBLES_PIN_LAYER_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_PIN_LAYER"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_PIN_LAYER_TT"),
     min: 10,
     max: 200,
     step: 5,
@@ -302,9 +302,9 @@ export function buildCollectiblesSubmenu(): LamSubmenuData {
   return {
     type: "submenu",
     name: DEFAULTS.miscColorCodes.settingsTextCollectibles.Colorize(
-      getSettingsString("DEST_SETTINGS_COLLECTIBLES_HEADER")
+      getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_HEADER")
     ),
-    tooltip: getSettingsString("DEST_SETTINGS_COLLECTIBLES_HEADER_TT"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_COLLECTIBLES_HEADER_TT"),
     controls,
   }
 }

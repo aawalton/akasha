@@ -113,11 +113,15 @@ export function accountWideColored(stringKey: string): string {
 }
 
 export function perCharName(stringKey: string): string {
-  return accountWideColored(stringKey) + " " + accountWideColored("DEST_SETTINGS_PER_CHAR")
+  return (
+    accountWideColored(stringKey) +
+    " " +
+    accountWideColored("SI_TEMPER_DESTINATIONS_SETTINGS_PER_CHAR")
+  )
 }
 
 export function perCharToggleTooltip(): string {
-  return accountWideColored("DEST_SETTINGS_PER_CHAR_TOGGLE_TT")
+  return accountWideColored("SI_TEMPER_DESTINATIONS_SETTINGS_PER_CHAR_TOGGLE_TT")
 }
 
 export function tooltipWithPerChar(stringKey: string): string {

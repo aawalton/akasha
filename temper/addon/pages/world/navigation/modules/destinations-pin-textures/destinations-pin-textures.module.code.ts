@@ -72,7 +72,7 @@ export const PIN_TEXTURE_LISTS = {
   HighIsle: ["Druidic Shrine"],
   Dwemer: [
     DEFAULTS.miscColorCodes.settingsTextOnlyText.Colorize(
-      getSettingsString("GLOBAL_SETTINGS_SELECT_TEXT_ONLY")
+      getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_SELECT_TEXT_ONLY")
     ),
     "Helmet",
     "Real Dwemer Cog",

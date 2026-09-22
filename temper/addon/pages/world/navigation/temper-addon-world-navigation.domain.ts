@@ -325,6 +325,8 @@ export const temperAddonWorldNavigation = {
     "type-declaration/destinations-preview-controls",
     "type-declaration/minimap-string-ids",
     "type-declaration/navigation-declarations",
+    "module/destinations-settings-fishing-controls",
+    "module/destinations-settings-misc-poi-icons",
   ],
   decisions: [
     {

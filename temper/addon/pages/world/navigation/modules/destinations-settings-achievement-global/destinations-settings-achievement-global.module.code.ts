@@ -158,7 +158,7 @@ function allPinLayerSlider(): LamSliderData {
   const sv = getSavedVariables()
   return {
     type: "slider",
-    name: getSettingsString("DEST_SETTINGS_ACH_ALL_PIN_LAYER"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_ALL_PIN_LAYER"),
     min: 10,
     max: 200,
     step: 5,
@@ -184,8 +184,8 @@ function undoneTintPicker(): LamColorpickerData {
   const sv = getSavedVariables()
   return {
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_ACH_PIN_COLOR_MISS"),
-    tooltip: getSettingsString("DEST_SETTINGS_ACH_PIN_COLOR_MISS_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_PIN_COLOR_MISS"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_PIN_COLOR_MISS_TT"),
     getFunc: () => {
       return unpackRgba(sv.pins.pinTextureOther.tint)
     },
@@ -212,8 +212,8 @@ function undoneTextColorPicker(): LamColorpickerData {
   const sv = getSavedVariables()
   return {
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_ACH_TXT_COLOR_MISS"),
-    tooltip: getSettingsString("DEST_SETTINGS_ACH_TXT_COLOR_MISS_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_TXT_COLOR_MISS"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_TXT_COLOR_MISS_TT"),
     getFunc: () => {
       return unpackRgb(sv.pins.pinTextureOther.textcolor)
     },
@@ -238,8 +238,8 @@ function doneTintPicker(): LamColorpickerData {
   const sv = getSavedVariables()
   return {
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_ACH_PIN_COLOR_DONE"),
-    tooltip: getSettingsString("DEST_SETTINGS_ACH_PIN_COLOR_DONE_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_PIN_COLOR_DONE"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_PIN_COLOR_DONE_TT"),
     getFunc: () => {
       return unpackRgba(sv.pins.pinTextureOtherDone.tint)
     },
@@ -266,8 +266,8 @@ function doneTextColorPicker(): LamColorpickerData {
   const sv = getSavedVariables()
   return {
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_ACH_TXT_COLOR_DONE"),
-    tooltip: getSettingsString("DEST_SETTINGS_ACH_TXT_COLOR_DONE_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_TXT_COLOR_DONE"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_TXT_COLOR_DONE_TT"),
     getFunc: () => {
       return unpackRgb(sv.pins.pinTextureOtherDone.textcolor)
     },
@@ -291,7 +291,7 @@ function doneTextColorPicker(): LamColorpickerData {
 function compassToggle(): LamCheckboxData {
   return {
     type: "checkbox",
-    name: perCharName("DEST_SETTINGS_ACH_ALL_COMPASS_TOGGLE"),
+    name: perCharName("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_ALL_COMPASS_TOGGLE"),
     tooltip: perCharToggleTooltip(),
     getFunc: () =>
       isFilterEnabled(getCharacterSavedVariables().filters, PIN_TYPES.ACHIEVEMENTS_COMPASS),
@@ -311,7 +311,7 @@ function compassDistanceSlider(): LamSliderData {
   const sv = getSavedVariables()
   return {
     type: "slider",
-    name: getSettingsString("DEST_SETTINGS_ACH_ALL_COMPASS_DIST"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_ALL_COMPASS_DIST"),
     min: 1,
     max: 100,
     getFunc: () => sv.pins.pinTextureOther.maxDistance * 1000,
@@ -339,9 +339,9 @@ export function buildAchievementGlobalSubmenu(): LamSubmenuData {
   return {
     type: "submenu",
     name: DEFAULTS.miscColorCodes.settingsTextMiscellaneous.Colorize(
-      getSettingsString("DEST_SETTINGS_ACH_GLOBAL_HEADER")
+      getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_GLOBAL_HEADER")
     ),
-    tooltip: getSettingsString("DEST_SETTINGS_ACH_GLOBAL_HEADER_TT"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_GLOBAL_HEADER_TT"),
     controls: [
       allPinLayerSlider(),
       undoneTintPicker(),

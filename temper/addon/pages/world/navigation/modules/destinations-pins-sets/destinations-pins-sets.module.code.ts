@@ -21,7 +21,10 @@ export function initializeSetDescription(): undefined {
     )
     const [, setName, numBonuses] = GetItemLinkSetInfo(itemLink, false)
 
-    const setRequirement = zo_strformat(getSettingsString("DEST_SET_REQUIREMENT"), traitsRequired)
+    const setRequirement = zo_strformat(
+      getSettingsString("SI_TEMPER_DESTINATIONS_SET_REQUIREMENT"),
+      traitsRequired
+    )
     let setBonuses = ""
 
     let numRequired: number | undefined

@@ -123,10 +123,13 @@ function appendVwwPinControls(
 
 function appendVwwCompassControls(controls: LamControlData[]): undefined {
   const sv = getSavedVariables()
-  controls.push({ type: "header", name: achHeaderName("DEST_SETTINGS_VWW_COMPASS_HEADER") })
+  controls.push({
+    type: "header",
+    name: achHeaderName("SI_TEMPER_DESTINATIONS_SETTINGS_VWW_COMPASS_HEADER"),
+  })
   controls.push({
     type: "checkbox",
-    name: perCharName("DEST_SETTINGS_VWW_COMPASS_PIN_TOGGLE"),
+    name: perCharName("SI_TEMPER_DESTINATIONS_SETTINGS_VWW_COMPASS_PIN_TOGGLE"),
     tooltip: perCharToggleTooltip(),
     getFunc: () => isFilterEnabled(getCharacterSavedVariables().filters, PIN_TYPES.VWW_COMPASS),
     setFunc: (state) => {
@@ -140,7 +143,7 @@ function appendVwwCompassControls(controls: LamControlData[]): undefined {
   })
   controls.push({
     type: "slider",
-    name: getSettingsString("DEST_SETTINGS_VWW_COMPASS_DIST"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_VWW_COMPASS_DIST"),
     min: 1,
     max: 100,
     getFunc: () => sv.pins.pinTextureWWShrine.maxDistance * 1000,
@@ -162,7 +165,7 @@ function appendVwwCompassControls(controls: LamControlData[]): undefined {
   })
   controls.push({
     type: "slider",
-    name: getSettingsString("DEST_SETTINGS_VWW_PIN_LAYER"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_VWW_PIN_LAYER"),
     min: 10,
     max: 200,
     step: 5,
@@ -183,8 +186,8 @@ function appendVwwCompassControls(controls: LamControlData[]): undefined {
   })
   controls.push({
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_VWW_PIN_COLOR"),
-    tooltip: getSettingsString("DEST_SETTINGS_VWW_PIN_COLOR_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_VWW_PIN_COLOR"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_VWW_PIN_COLOR_TT"),
     getFunc: () => {
       return unpackRgba(sv.pins.pinTextureWWVamp.tint)
     },
@@ -211,8 +214,8 @@ function appendVwwCompassControls(controls: LamControlData[]): undefined {
   })
   controls.push({
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_VWW_PINTEXT_COLOR"),
-    tooltip: getSettingsString("DEST_SETTINGS_VWW_PINTEXT_COLOR_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_VWW_PINTEXT_COLOR"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_VWW_PINTEXT_COLOR_TT"),
     getFunc: () => {
       return unpackRgb(sv.pins.pinTextureWWVamp.textcolor)
     },
@@ -233,9 +236,9 @@ export function buildVampireWerewolfSubmenu(): LamSubmenuData {
   const sv = getSavedVariables()
   const controls: LamControlData[] = []
   appendVwwPinControls(controls, {
-    headerKey: "DEST_SETTINGS_VWW_WWVAMP_HEADER",
-    toggleKey: "DEST_SETTINGS_VWW_PIN_WWVAMP_TOGGLE",
-    sizeKey: "DEST_SETTINGS_VWW_PIN_WWVAMP_SIZE",
+    headerKey: "SI_TEMPER_DESTINATIONS_SETTINGS_VWW_WWVAMP_HEADER",
+    toggleKey: "SI_TEMPER_DESTINATIONS_SETTINGS_VWW_PIN_WWVAMP_TOGGLE",
+    sizeKey: "SI_TEMPER_DESTINATIONS_SETTINGS_VWW_PIN_WWVAMP_SIZE",
     pinType: PIN_TYPES.WWVAMP,
     choices: PIN_TEXTURE_LISTS.WWVamp,
     paths: PIN_TEXTURE_PATHS.wwvamp,
@@ -246,9 +249,9 @@ export function buildVampireWerewolfSubmenu(): LamSubmenuData {
     sizeDefault: DEFAULTS.pins.pinTextureWWVamp.size,
   })
   appendVwwPinControls(controls, {
-    headerKey: "DEST_SETTINGS_VWW_VAMP_HEADER",
-    toggleKey: "DEST_SETTINGS_VWW_PIN_VAMP_ALTAR_TOGGLE",
-    sizeKey: "DEST_SETTINGS_VWW_PIN_VAMP_ALTAR_SIZE",
+    headerKey: "SI_TEMPER_DESTINATIONS_SETTINGS_VWW_VAMP_HEADER",
+    toggleKey: "SI_TEMPER_DESTINATIONS_SETTINGS_VWW_PIN_VAMP_ALTAR_TOGGLE",
+    sizeKey: "SI_TEMPER_DESTINATIONS_SETTINGS_VWW_PIN_VAMP_ALTAR_SIZE",
     pinType: PIN_TYPES.VAMPIRE_ALTAR,
     choices: PIN_TEXTURE_LISTS.VampAltar,
     paths: PIN_TEXTURE_PATHS.vampirealtar,
@@ -259,9 +262,9 @@ export function buildVampireWerewolfSubmenu(): LamSubmenuData {
     sizeDefault: DEFAULTS.pins.pinTextureVampAltar.size,
   })
   appendVwwPinControls(controls, {
-    headerKey: "DEST_SETTINGS_VWW_WW_HEADER",
-    toggleKey: "DEST_SETTINGS_VWW_PIN_WW_SHRINE_TOGGLE",
-    sizeKey: "DEST_SETTINGS_VWW_PIN_WW_SHRINE_SIZE",
+    headerKey: "SI_TEMPER_DESTINATIONS_SETTINGS_VWW_WW_HEADER",
+    toggleKey: "SI_TEMPER_DESTINATIONS_SETTINGS_VWW_PIN_WW_SHRINE_TOGGLE",
+    sizeKey: "SI_TEMPER_DESTINATIONS_SETTINGS_VWW_PIN_WW_SHRINE_SIZE",
     pinType: PIN_TYPES.WEREWOLF_SHRINE,
     choices: PIN_TEXTURE_LISTS.WWShrine,
     paths: PIN_TEXTURE_PATHS.werewolfshrine,
@@ -275,9 +278,9 @@ export function buildVampireWerewolfSubmenu(): LamSubmenuData {
   return {
     type: "submenu",
     name: DEFAULTS.miscColorCodes.settingsTextVWW.Colorize(
-      getSettingsString("DEST_SETTINGS_VWW_HEADER")
+      getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_VWW_HEADER")
     ),
-    tooltip: getSettingsString("DEST_SETTINGS_VWW_HEADER_TT"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_VWW_HEADER_TT"),
     controls,
   }
 }

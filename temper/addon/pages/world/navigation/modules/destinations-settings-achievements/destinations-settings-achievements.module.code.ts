@@ -21,7 +21,7 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   appendAchievementSection(
     controls,
     standardSpec(
-      "DEST_SETTINGS_ACH_CHAMPION_PIN_HEADER",
+      "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_CHAMPION_PIN_HEADER",
       PIN_TYPES.CHAMPION,
       PIN_TYPES.CHAMPION_DONE,
       lists.Champion,
@@ -40,7 +40,7 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   appendAchievementSection(
     controls,
     standardSpec(
-      "DEST_SETTINGS_ACH_OTHER_HEADER",
+      "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_OTHER_HEADER",
       PIN_TYPES.LB_GTTP_CP,
       PIN_TYPES.LB_GTTP_CP_DONE,
       lists.Other,
@@ -58,7 +58,7 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   appendAchievementSection(
     controls,
     standardSpec(
-      "DEST_SETTINGS_ACH_MAIQ_HEADER",
+      "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_MAIQ_HEADER",
       PIN_TYPES.MAIQ,
       PIN_TYPES.MAIQ_DONE,
       lists.Maiq,
@@ -76,7 +76,7 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   appendAchievementSection(
     controls,
     standardSpec(
-      "DEST_SETTINGS_ACH_PEACEMAKER_HEADER",
+      "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_PEACEMAKER_HEADER",
       PIN_TYPES.PEACEMAKER,
       PIN_TYPES.PEACEMAKER_DONE,
       lists.Peacemaker,
@@ -94,7 +94,7 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   appendAchievementSection(
     controls,
     standardSpec(
-      "DEST_SETTINGS_ACH_NOSEDIVER_HEADER",
+      "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_NOSEDIVER_HEADER",
       PIN_TYPES.NOSEDIVER,
       PIN_TYPES.NOSEDIVER_DONE,
       lists.Nosediver,
@@ -112,7 +112,7 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   appendAchievementSection(
     controls,
     standardSpec(
-      "DEST_SETTINGS_ACH_EARTHLYPOS_HEADER",
+      "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_EARTHLYPOS_HEADER",
       PIN_TYPES.EARTHLYPOS,
       PIN_TYPES.EARTHLYPOS_DONE,
       lists.EarthlyPos,
@@ -130,7 +130,7 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   appendAchievementSection(
     controls,
     standardSpec(
-      "DEST_SETTINGS_ACH_ON_ME_HEADER",
+      "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_ON_ME_HEADER",
       PIN_TYPES.ON_ME,
       PIN_TYPES.ON_ME_DONE,
       lists.OnMe,
@@ -148,7 +148,7 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   appendAchievementSection(
     controls,
     standardSpec(
-      "DEST_SETTINGS_ACH_BRAWL_HEADER",
+      "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_BRAWL_HEADER",
       PIN_TYPES.BRAWL,
       PIN_TYPES.BRAWL_DONE,
       lists.Brawl,
@@ -166,7 +166,7 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   appendAchievementSection(
     controls,
     standardSpec(
-      "DEST_SETTINGS_ACH_PATRON_HEADER",
+      "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_PATRON_HEADER",
       PIN_TYPES.PATRON,
       PIN_TYPES.PATRON_DONE,
       lists.Patron,
@@ -184,7 +184,7 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   appendAchievementSection(
     controls,
     standardSpec(
-      "DEST_SETTINGS_ACH_WROTHGAR_JUMPER_HEADER",
+      "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_WROTHGAR_JUMPER_HEADER",
       PIN_TYPES.WROTHGAR_JUMPER,
       PIN_TYPES.WROTHGAR_JUMPER_DONE,
       lists.WrothgarJumper,
@@ -202,7 +202,7 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   appendAchievementSection(
     controls,
     standardSpec(
-      "DEST_SETTINGS_ACH_RELIC_HUNTER_HEADER",
+      "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_RELIC_HUNTER_HEADER",
       PIN_TYPES.RELIC_HUNTER,
       PIN_TYPES.RELIC_HUNTER_DONE,
       lists.RelicHunter,
@@ -220,7 +220,7 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   appendAchievementSection(
     controls,
     standardSpec(
-      "DEST_SETTINGS_ACH_BREAKING_HEADER",
+      "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_BREAKING_HEADER",
       PIN_TYPES.BREAKING,
       PIN_TYPES.BREAKING_DONE,
       lists.Breaking,
@@ -238,7 +238,7 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   appendAchievementSection(
     controls,
     standardSpec(
-      "DEST_SETTINGS_ACH_CUTPURSE_HEADER",
+      "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_CUTPURSE_HEADER",
       PIN_TYPES.CUTPURSE,
       PIN_TYPES.CUTPURSE_DONE,
       lists.Cutpurse,
@@ -257,9 +257,9 @@ export function buildAchievementsSubmenu(): LamSubmenuData {
   return {
     type: "submenu",
     name: DEFAULTS.miscColorCodes.settingsTextAchievements.Colorize(
-      getSettingsString("DEST_SETTINGS_ACH_HEADER")
+      getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_HEADER")
     ),
-    tooltip: getSettingsString("DEST_SETTINGS_ACH_HEADER_TT"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_HEADER_TT"),
     controls,
   }
 }

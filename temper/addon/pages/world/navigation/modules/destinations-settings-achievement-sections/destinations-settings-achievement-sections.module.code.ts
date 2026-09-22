@@ -68,7 +68,7 @@ function styleControl(spec: AchievementSectionSpec): LamDropdownData {
   const sv = getSavedVariables()
   return {
     type: "dropdown",
-    name: getSettingsString("DEST_SETTINGS_ACH_PIN_STYLE"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_PIN_STYLE"),
     reference: spec.reference,
     choices: spec.choices,
     getFunc: () => choiceAt(spec.choices, spec.pinSettings(sv.pins).type),
@@ -97,7 +97,7 @@ function sizeControl(spec: AchievementSectionSpec): LamSliderData {
   const sv = getSavedVariables()
   return {
     type: "slider",
-    name: getSettingsString("DEST_SETTINGS_ACH_PIN_SIZE"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_PIN_SIZE"),
     min: 20,
     max: 70,
     getFunc: () => spec.pinSettings(sv.pins).size,
@@ -122,8 +122,10 @@ export function appendAchievementSection(
   extraControlsAfterToggles?: LamControlData[]
 ): undefined {
   controls.push({ type: "header", name: achHeaderName(spec.headerKey) })
-  controls.push(toggleControl(spec.pinType, "DEST_SETTINGS_ACH_PIN_TOGGLE"))
-  controls.push(toggleControl(spec.pinTypeDone, "DEST_SETTINGS_ACH_PIN_TOGGLE_DONE"))
+  controls.push(toggleControl(spec.pinType, "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_PIN_TOGGLE"))
+  controls.push(
+    toggleControl(spec.pinTypeDone, "SI_TEMPER_DESTINATIONS_SETTINGS_ACH_PIN_TOGGLE_DONE")
+  )
   if (extraControlsAfterToggles !== undefined) {
     for (const control of extraControlsAfterToggles) {
       controls.push(control)
@@ -137,7 +139,7 @@ export function championZoneToggle(): LamCheckboxData {
   const sv = getSavedVariables()
   return {
     type: "checkbox",
-    name: getSettingsString("DEST_SETTINGS_ACH_CHAMPION_ZONE_PIN_TOGGLE"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_CHAMPION_ZONE_PIN_TOGGLE"),
     getFunc: () => sv.settings.ShowDungeonBossesInZones,
     setFunc: (state) => {
       sv.settings.ShowDungeonBossesInZones = state
@@ -153,8 +155,8 @@ export function championFrontToggle(): LamCheckboxData {
   const sv = getSavedVariables()
   return {
     type: "checkbox",
-    name: getSettingsString("DEST_SETTINGS_ACH_CHAMPION_FRONT_PIN_TOGGLE"),
-    tooltip: getSettingsString("DEST_SETTINGS_ACH_CHAMPION_FRONT_PIN_TOGGLE_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_CHAMPION_FRONT_PIN_TOGGLE"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_ACH_CHAMPION_FRONT_PIN_TOGGLE_TT"),
     getFunc: () => sv.settings.ShowDungeonBossesOnTop,
     setFunc: (state) => {
       const pinLevel = sv.pins.pinTextureOther.level

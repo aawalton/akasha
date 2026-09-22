@@ -35,7 +35,7 @@ export function buildUnknownPoiSubmenu(): LamSubmenuData {
   const controls: LamControlData[] = []
   controls.push({
     type: "checkbox",
-    name: perCharName("DEST_SETTINGS_UNKNOWN_PIN_TOGGLE"),
+    name: perCharName("SI_TEMPER_DESTINATIONS_SETTINGS_UNKNOWN_PIN_TOGGLE"),
     tooltip: perCharToggleTooltip(),
     getFunc: () => isFilterEnabled(getCharacterSavedVariables().filters, PIN_TYPES.UNKNOWN),
     setFunc: (state) => {
@@ -45,7 +45,7 @@ export function buildUnknownPoiSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "dropdown",
-    name: unknownColored("DEST_SETTINGS_UNKNOWN_PIN_STYLE"),
+    name: unknownColored("SI_TEMPER_DESTINATIONS_SETTINGS_UNKNOWN_PIN_STYLE"),
     reference: "previewpinTextureUnknown",
     choices: PIN_TEXTURE_LISTS.Unknown,
     getFunc: () => choiceAt(PIN_TEXTURE_LISTS.Unknown, sv.pins.pinTextureUnknown.type),
@@ -78,7 +78,7 @@ export function buildUnknownPoiSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "slider",
-    name: unknownColored("DEST_SETTINGS_UNKNOWN_PIN_SIZE"),
+    name: unknownColored("SI_TEMPER_DESTINATIONS_SETTINGS_UNKNOWN_PIN_SIZE"),
     min: 20,
     max: 70,
     getFunc: () => sv.pins.pinTextureUnknown.size,
@@ -93,7 +93,7 @@ export function buildUnknownPoiSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "slider",
-    name: unknownColored("DEST_SETTINGS_UNKNOWN_PIN_LAYER"),
+    name: unknownColored("SI_TEMPER_DESTINATIONS_SETTINGS_UNKNOWN_PIN_LAYER"),
     min: 10,
     max: 200,
     step: 5,
@@ -108,8 +108,8 @@ export function buildUnknownPoiSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "colorpicker",
-    name: unknownColored("DEST_SETTINGS_UNKNOWN_COLOR"),
-    tooltip: getSettingsString("DEST_SETTINGS_UNKNOWN_COLOR_TT"),
+    name: unknownColored("SI_TEMPER_DESTINATIONS_SETTINGS_UNKNOWN_COLOR"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_UNKNOWN_COLOR_TT"),
     getFunc: () => {
       return unpackRgb(sv.pins.pinTextureUnknown.textcolor)
     },
@@ -122,8 +122,8 @@ export function buildUnknownPoiSubmenu(): LamSubmenuData {
   })
   return {
     type: "submenu",
-    name: unknownColored("DEST_SETTINGS_POI_HEADER"),
-    tooltip: getSettingsString("DEST_SETTINGS_POI_HEADER_TT"),
+    name: unknownColored("SI_TEMPER_DESTINATIONS_SETTINGS_POI_HEADER"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_POI_HEADER_TT"),
     controls,
   }
 }

@@ -32,73 +32,23 @@ import {
 import { getIconPreviews } from "akasha/temper/addon/pages/world/navigation/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 import { unpackRgba } from "akasha/temper/modules/unpack-color/unpack-color.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-
-function bothFishingFiltersDisabled(): boolean {
-  const filters = getCharacterSavedVariables().filters
-  return (
-    !isFilterEnabled(filters, PIN_TYPES.FISHING) && !isFilterEnabled(filters, PIN_TYPES.FISHINGDONE)
-  )
-}
-
-function fishTextToggle(spec: {
-  nameKey: string
-  filterType: string
-  redrawDoneToo: boolean
-}): LamCheckboxData {
-  const sv = getSavedVariables()
-  return {
-    type: "checkbox",
-    width: "full",
-    name: getSettingsString(spec.nameKey),
-    tooltip: getSettingsString(`${spec.nameKey}_TT`),
-    getFunc: () => isFilterEnabled(sv.filters, spec.filterType),
-    setFunc: (state) => {
-      sv.filters[spec.filterType] = state
-      redrawAllPins(PIN_TYPES.FISHING)
-      if (spec.redrawDoneToo) {
-        redrawAllPins(PIN_TYPES.FISHINGDONE)
-      }
-    },
-    default: DEFAULTS.filters[spec.filterType] ?? false,
-    disabled: bothFishingFiltersDisabled,
-  }
-}
-
-function fishTextColorPicker(spec: {
-  nameKey: string
-  getColor: (this: void) => number[]
-  setColor: (this: void, color: number[]) => void
-  redrawPinType: string
-  disabledPinType: string
-  colorDefault: readonly number[]
-}): LamColorpickerData {
-  return {
-    type: "colorpicker",
-    name: getSettingsString(spec.nameKey),
-    tooltip: getSettingsString(`${spec.nameKey}_TT`),
-    getFunc: () => {
-      return unpackRgb(spec.getColor())
-    },
-    setFunc: (r, g, b) => {
-      spec.setColor([r, g, b])
-      redrawAllPins(spec.redrawPinType)
-    },
-    disabled: filterDisabled(spec.disabledPinType),
-    default: colorDefaultRgb(spec.colorDefault),
-  }
-}
+import {
+  bothFishingFiltersDisabled,
+  fishTextColorPicker,
+  fishTextToggle,
+} from "akasha/temper/addon/pages/world/navigation/modules/destinations-settings-fishing-controls/destinations-settings-fishing-controls.module.code.ts"
 
 export function buildFishingSubmenu(): LamSubmenuData {
   const sv = getSavedVariables()
   const controls: LamControlData[] = []
   controls.push({
     type: "header",
-    name: achHeaderName("DEST_SETTINGS_FISHING_SUBHEADER"),
+    name: achHeaderName("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_SUBHEADER"),
   })
   controls.push({
     type: "checkbox",
-    name: perCharName("DEST_SETTINGS_FISHING_TOGGLE"),
-    tooltip: tooltipWithPerChar("DEST_SETTINGS_FISHING_TOGGLE_TT"),
+    name: perCharName("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_TOGGLE"),
+    tooltip: tooltipWithPerChar("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_TOGGLE_TT"),
     getFunc: () => isFilterEnabled(getCharacterSavedVariables().filters, PIN_TYPES.FISHING),
     setFunc: (state) => {
       togglePins(PIN_TYPES.FISHING, state)
@@ -110,8 +60,8 @@ export function buildFishingSubmenu(): LamSubmenuData {
   controls.push({
     type: "checkbox",
     width: "full",
-    name: perCharName("DEST_SETTINGS_FISHING_DONE_TOGGLE"),
-    tooltip: tooltipWithPerChar("DEST_SETTINGS_FISHING_DONE_TOGGLE_TT"),
+    name: perCharName("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_DONE_TOGGLE"),
+    tooltip: tooltipWithPerChar("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_DONE_TOGGLE_TT"),
     getFunc: () => isFilterEnabled(getCharacterSavedVariables().filters, PIN_TYPES.FISHINGDONE),
     setFunc: (state) => {
       togglePins(PIN_TYPES.FISHINGDONE, state)
@@ -121,7 +71,7 @@ export function buildFishingSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "dropdown",
-    name: getSettingsString("DEST_SETTINGS_FISHING_PIN_STYLE"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_PIN_STYLE"),
     reference: "previewpinTextureFish",
     choices: PIN_TEXTURE_LISTS.Fish,
     getFunc: () => choiceAt(PIN_TEXTURE_LISTS.Fish, sv.pins.pinTextureFish.type),
@@ -154,8 +104,8 @@ export function buildFishingSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_FISHING_COLOR_TITLE"),
-    tooltip: getSettingsString("DEST_SETTINGS_FISHING_COLOR_TITLE_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_COLOR_TITLE"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_COLOR_TITLE_TT"),
     getFunc: () => {
       return unpackRgb(sv.pins.pinTextureFish.textcolortitle)
     },
@@ -169,44 +119,44 @@ export function buildFishingSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "header",
-    name: achHeaderName("DEST_SETTINGS_FISHING_PIN_TEXT_HEADER"),
+    name: achHeaderName("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_PIN_TEXT_HEADER"),
   })
   controls.push(
     fishTextToggle({
-      nameKey: "DEST_SETTINGS_FISHING_SHOW_FISHNAME",
+      nameKey: "SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_SHOW_FISHNAME",
       filterType: PIN_TYPES.FISHING_SHOW_FISHNAME,
       redrawDoneToo: true,
     })
   )
   controls.push(
     fishTextToggle({
-      nameKey: "DEST_SETTINGS_FISHING_SHOW_BAIT",
+      nameKey: "SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_SHOW_BAIT",
       filterType: PIN_TYPES.FISHING_SHOW_BAIT,
       redrawDoneToo: true,
     })
   )
   controls.push(
     fishTextToggle({
-      nameKey: "DEST_SETTINGS_FISHING_SHOW_BAIT_LEFT",
+      nameKey: "SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_SHOW_BAIT_LEFT",
       filterType: PIN_TYPES.FISHING_SHOW_BAIT_LEFT,
       redrawDoneToo: false,
     })
   )
   controls.push(
     fishTextToggle({
-      nameKey: "DEST_SETTINGS_FISHING_SHOW_WATER",
+      nameKey: "SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_SHOW_WATER",
       filterType: PIN_TYPES.FISHING_SHOW_WATER,
       redrawDoneToo: true,
     })
   )
   controls.push({
     type: "header",
-    name: achHeaderName("DEST_SETTINGS_FISHING_COLOR_HEADER"),
+    name: achHeaderName("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_COLOR_HEADER"),
   })
   controls.push({
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_FISHING_PIN_COLOR"),
-    tooltip: getSettingsString("DEST_SETTINGS_FISHING_PIN_COLOR_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_PIN_COLOR"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_PIN_COLOR_TT"),
     getFunc: () => {
       return unpackRgba(sv.pins.pinTextureFish.tint)
     },
@@ -221,7 +171,7 @@ export function buildFishingSubmenu(): LamSubmenuData {
   })
   controls.push(
     fishTextColorPicker({
-      nameKey: "DEST_SETTINGS_FISHING_COLOR_UNDONE",
+      nameKey: "SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_COLOR_UNDONE",
       getColor: () => sv.pins.pinTextureFish.textcolor,
       setColor: (color) => {
         sv.pins.pinTextureFish.textcolor = color
@@ -233,7 +183,7 @@ export function buildFishingSubmenu(): LamSubmenuData {
   )
   controls.push(
     fishTextColorPicker({
-      nameKey: "DEST_SETTINGS_FISHING_COLOR_BAIT_UNDONE",
+      nameKey: "SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_COLOR_BAIT_UNDONE",
       getColor: () => sv.pins.pinTextureFish.textcolorBait,
       setColor: (color) => {
         sv.pins.pinTextureFish.textcolorBait = color
@@ -245,7 +195,7 @@ export function buildFishingSubmenu(): LamSubmenuData {
   )
   controls.push(
     fishTextColorPicker({
-      nameKey: "DEST_SETTINGS_FISHING_COLOR_WATER_UNDONE",
+      nameKey: "SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_COLOR_WATER_UNDONE",
       getColor: () => sv.pins.pinTextureFish.textcolorWater,
       setColor: (color) => {
         sv.pins.pinTextureFish.textcolorWater = color
@@ -257,8 +207,8 @@ export function buildFishingSubmenu(): LamSubmenuData {
   )
   controls.push({
     type: "colorpicker",
-    name: getSettingsString("DEST_SETTINGS_FISHING_PIN_COLOR_DONE"),
-    tooltip: getSettingsString("DEST_SETTINGS_FISHING_PIN_COLOR_DONE_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_PIN_COLOR_DONE"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_PIN_COLOR_DONE_TT"),
     getFunc: () => {
       return unpackRgba(sv.pins.pinTextureFishDone.tint)
     },
@@ -273,7 +223,7 @@ export function buildFishingSubmenu(): LamSubmenuData {
   })
   controls.push(
     fishTextColorPicker({
-      nameKey: "DEST_SETTINGS_FISHING_COLOR_DONE",
+      nameKey: "SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_COLOR_DONE",
       getColor: () => sv.pins.pinTextureFishDone.textcolor,
       setColor: (color) => {
         sv.pins.pinTextureFishDone.textcolor = color
@@ -285,7 +235,7 @@ export function buildFishingSubmenu(): LamSubmenuData {
   )
   controls.push(
     fishTextColorPicker({
-      nameKey: "DEST_SETTINGS_FISHING_COLOR_BAIT_DONE",
+      nameKey: "SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_COLOR_BAIT_DONE",
       getColor: () => sv.pins.pinTextureFishDone.textcolorBait,
       setColor: (color) => {
         sv.pins.pinTextureFishDone.textcolorBait = color
@@ -297,7 +247,7 @@ export function buildFishingSubmenu(): LamSubmenuData {
   )
   controls.push(
     fishTextColorPicker({
-      nameKey: "DEST_SETTINGS_FISHING_COLOR_WATER_DONE",
+      nameKey: "SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_COLOR_WATER_DONE",
       getColor: () => sv.pins.pinTextureFishDone.textcolorWater,
       setColor: (color) => {
         sv.pins.pinTextureFishDone.textcolorWater = color
@@ -309,12 +259,12 @@ export function buildFishingSubmenu(): LamSubmenuData {
   )
   controls.push({
     type: "header",
-    name: achHeaderName("DEST_SETTINGS_FISHING_MISC_HEADER"),
+    name: achHeaderName("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_MISC_HEADER"),
   })
   controls.push({
     type: "checkbox",
-    name: perCharName("DEST_SETTINGS_FISHING_COMPASS_TOGGLE"),
-    tooltip: tooltipWithPerChar("DEST_SETTINGS_FISHING_COMPASS_TOGGLE_TT"),
+    name: perCharName("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_COMPASS_TOGGLE"),
+    tooltip: tooltipWithPerChar("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_COMPASS_TOGGLE_TT"),
     getFunc: () => isFilterEnabled(getCharacterSavedVariables().filters, PIN_TYPES.FISHING_COMPASS),
     setFunc: (state) => {
       togglePins(PIN_TYPES.FISHING_COMPASS, state)
@@ -326,8 +276,8 @@ export function buildFishingSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "slider",
-    name: getSettingsString("DEST_SETTINGS_FISHING_COMPASS_DIST"),
-    tooltip: getSettingsString("DEST_SETTINGS_FISHING_COMPASS_DIST_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_COMPASS_DIST"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_COMPASS_DIST_TT"),
     min: 1,
     max: 100,
     getFunc: () => sv.pins.pinTextureFish.maxDistance * 1000,
@@ -347,8 +297,8 @@ export function buildFishingSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "slider",
-    name: getSettingsString("DEST_SETTINGS_FISHING_PIN_SIZE"),
-    tooltip: getSettingsString("DEST_SETTINGS_FISHING_PIN_SIZE_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_PIN_SIZE"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_PIN_SIZE_TT"),
     min: 20,
     max: 70,
     getFunc: () => sv.pins.pinTextureFish.size,
@@ -367,8 +317,8 @@ export function buildFishingSubmenu(): LamSubmenuData {
   })
   controls.push({
     type: "slider",
-    name: getSettingsString("DEST_SETTINGS_FISHING_PIN_LAYER"),
-    tooltip: getSettingsString("DEST_SETTINGS_FISHING_PIN_LAYER_TT"),
+    name: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_PIN_LAYER"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_PIN_LAYER_TT"),
     min: 10,
     max: 200,
     step: 5,
@@ -387,9 +337,9 @@ export function buildFishingSubmenu(): LamSubmenuData {
   return {
     type: "submenu",
     name: DEFAULTS.miscColorCodes.settingsTextFish.Colorize(
-      getSettingsString("DEST_SETTINGS_FISHING_HEADER")
+      getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_HEADER")
     ),
-    tooltip: getSettingsString("DEST_SETTINGS_FISHING_HEADER_TT"),
+    tooltip: getSettingsString("SI_TEMPER_DESTINATIONS_SETTINGS_FISHING_HEADER_TT"),
     controls,
   }
 }

@@ -42,30 +42,33 @@ export function baitAndWaterForPinType(pinType: number): {
 } {
   if (pinType === 40) {
     return {
-      fishingBait: getSettingsString("FISHING_FOUL_BAIT"),
-      waterType: getSettingsString("FISHING_FOUL"),
+      fishingBait: getSettingsString("SI_TEMPER_DESTINATIONS_FISHING_FOUL_BAIT"),
+      waterType: getSettingsString("SI_TEMPER_DESTINATIONS_FISHING_FOUL"),
     }
   }
   if (pinType === 41) {
     return {
-      fishingBait: getSettingsString("FISHING_RIVER_BAIT"),
-      waterType: getSettingsString("FISHING_RIVER"),
+      fishingBait: getSettingsString("SI_TEMPER_DESTINATIONS_FISHING_RIVER_BAIT"),
+      waterType: getSettingsString("SI_TEMPER_DESTINATIONS_FISHING_RIVER"),
     }
   }
   if (pinType === 42) {
     return {
-      fishingBait: getSettingsString("FISHING_OCEAN_BAIT"),
-      waterType: getSettingsString("FISHING_OCEAN"),
+      fishingBait: getSettingsString("SI_TEMPER_DESTINATIONS_FISHING_OCEAN_BAIT"),
+      waterType: getSettingsString("SI_TEMPER_DESTINATIONS_FISHING_OCEAN"),
     }
   }
   if (pinType === 43) {
     return {
-      fishingBait: getSettingsString("FISHING_LAKE_BAIT"),
-      waterType: getSettingsString("FISHING_LAKE"),
+      fishingBait: getSettingsString("SI_TEMPER_DESTINATIONS_FISHING_LAKE_BAIT"),
+      waterType: getSettingsString("SI_TEMPER_DESTINATIONS_FISHING_LAKE"),
     }
   }
   if (pinType === 44) {
-    return { fishingBait: undefined, waterType: getSettingsString("FISHING_UNKNOWN") }
+    return {
+      fishingBait: undefined,
+      waterType: getSettingsString("SI_TEMPER_DESTINATIONS_FISHING_UNKNOWN"),
+    }
   }
   return { fishingBait: undefined, waterType: undefined }
 }
