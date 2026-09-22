@@ -5,7 +5,13 @@ export const alanRequestsWeb = {
   type: "page-type/router-app",
   slug: "alan-requests-web",
   definition: "the routes the Requests site serves to a browser",
-  tunnelRoutes: "ts",
+  tunnelRoutes: [
+    {
+      name: "requests",
+      hostname: "requests.alanwalton.com",
+      service: "http://requests.alanwalton.svc.cluster.local:3000",
+    },
+  ],
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",

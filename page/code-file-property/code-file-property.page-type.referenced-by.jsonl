@@ -29,6 +29,5 @@
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/shell-script/properties/shell.code-file-property.ts"}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/properties/compiled-lua.code-file-property.ts"}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/properties/lua50-code.code-file-property.ts"}
-{"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"domain/properties/tunnel-routes.code-file-property.ts"}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/manifest-code.code-file-property.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

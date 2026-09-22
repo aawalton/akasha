@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"property-shaping.module.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"property-shaping.module.code.ts","path":"command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"}
-{"propertySlug":"import","fileName":"property-shaping.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts"}
 {"propertySlug":"import","fileName":"property-shaping.module.code.ts","path":"infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts"}
 {"propertySlug":"import","fileName":"property-shaping.module.code.ts","path":"page/index/modules/answering/index-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"property-shaping.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}

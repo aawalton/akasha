@@ -5,7 +5,6 @@ export const domain = {
   parts: [
     "boolean-property/expands",
     "build-folder-property/output-directory",
-    "code-file-property/tunnel-routes",
     "domain/context",
     "domain/domain-champion",
     "domain/domain-parent",
@@ -36,6 +35,10 @@ export const domain = {
     "standard-agent-english-property/warrant",
     "text-property/linked-at",
     "text-property/name",
+    "record-property/tunnel-routes",
+    "text-property/tunnel-route-hostname",
+    "text-property/tunnel-route-name",
+    "text-property/tunnel-route-service",
   ],
   type: "page-type/page-type",
   slug: "domain",
@@ -51,10 +54,10 @@ export const domain = {
     { pageProperty: "record-property/directives", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/expands", required: false, many: false },
     { pageProperty: "relation-property/parts", required: false, many: true, maxCount: null },
-    { pageProperty: "code-file-property/tunnel-routes", required: false, many: false },
     { pageProperty: "file-property/typescript-config", required: false, many: false },
     { pageProperty: "text-property/linked-at", required: false, many: false },
     { pageProperty: "build-folder-property/output-directory", required: false, many: false },
+    { pageProperty: "record-property/tunnel-routes", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {

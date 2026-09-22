@@ -6,14 +6,27 @@ export const tunnelRouteDiscovery = {
   slug: "tunnel-route-discovery",
   definition: "the tunnel routes the checkout declares, gathered and checked for clashes",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A routes file is the file of a page stating the routes property.",
+      statement: "A route is a record on the page stating that route.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No name for that file is spelled here.",
+      decisionKind: "decision-kind/departure",
+      statement: "The routes are read off the index rather than out of any file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page of any type states routes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name and a host name each belong to one route across every page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A route stating an empty name, host name or service is refused here.",
     },
   ],
 } as const satisfies Module

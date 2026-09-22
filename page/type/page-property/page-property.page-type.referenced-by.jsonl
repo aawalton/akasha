@@ -88,6 +88,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/decisions.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/directives.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/parts.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/tunnel-routes.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/standard-agent-english/construction/properties/admits.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/standard-agent-english/construction/properties/refuses.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/standard-agent-english/construction/properties/written-from.one-of-property.types.ts"}

@@ -1,0 +1,1 @@
+export type TunnelRouteHostname = string

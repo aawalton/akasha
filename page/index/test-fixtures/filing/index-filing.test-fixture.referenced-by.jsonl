@@ -85,6 +85,7 @@
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"domain/modules/work-initiatives/work-initiatives.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.test.ts"}
+{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"infrastructure/service/modules/deploy-subject-listing/deploy-subject-listing.module.test.ts"}

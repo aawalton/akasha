@@ -44,6 +44,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"domain/context/modules/warranting/warranting.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"domain/modules/rows/domain-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operation/bootstrap-namespace/bootstrap-namespace.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operation/create-tunnel/create-tunnel.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operation/deploy-functions/deploy-functions.shell-script.scripting.code.ts"}

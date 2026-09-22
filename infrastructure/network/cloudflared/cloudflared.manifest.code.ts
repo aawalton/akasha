@@ -140,10 +140,8 @@ function deploymentYaml(data: Readonly<Record<string, string>>): string {
   })
 }
 
-export default async function synth(): Promise<
-  readonly { readonly name: string; readonly yaml: string }[]
-> {
-  const data = await tunnelConfigData()
+export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
+  const data = tunnelConfigData()
   return [
     { name: "namespace", yaml: namespaceYaml(NAMESPACE, NAMESPACE_LABELS) },
     { name: "configmap", yaml: configmapYaml(data) },

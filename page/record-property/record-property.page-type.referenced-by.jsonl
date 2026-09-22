@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"domain/list/properties/list-members.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"domain/properties/decisions.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"domain/properties/directives.record-property.ts"}
+{"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"domain/properties/tunnel-routes.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"domain/standard-agent-english/term/banned-term/properties/replacement-patterns.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"domain/standard-agent-english/term/properties/spellings.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"domain/taboo-term/properties/taboo-senses.record-property.ts"}

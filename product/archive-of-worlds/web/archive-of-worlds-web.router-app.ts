@@ -5,7 +5,13 @@ export const archiveOfWorldsWeb = {
   type: "page-type/router-app",
   slug: "archive-of-worlds-web",
   definition: "the routes archiveofworlds.app serves to a browser",
-  tunnelRoutes: "ts",
+  tunnelRoutes: [
+    {
+      name: "archive-of-worlds",
+      hostname: "archiveofworlds.app",
+      service: "http://web.archive-of-worlds.svc.cluster.local:3000",
+    },
+  ],
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",

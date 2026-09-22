@@ -245,11 +245,6 @@ export const noUnusedExports = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The `routes` a tunnel routes file exports is reached by the tunnel route discovery.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
         "The `measured` a performance's code exports is reached by the command measuring it.",
     },
     {

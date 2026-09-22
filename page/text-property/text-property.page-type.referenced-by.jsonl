@@ -270,6 +270,9 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/list/properties/member-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/properties/linked-at.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/properties/name.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/properties/tunnel-route-hostname.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/properties/tunnel-route-name.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/properties/tunnel-route-service.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/standard-agent-english/construction/properties/admits.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/standard-agent-english/construction/properties/refuses.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/standard-agent-english/property/standard-agent-english-property.page-type.types.ts"}

@@ -128,6 +128,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"domain/plain-language/modules/onnx-parsing/onnx-parsing.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-resource-audit/orphan-resource-audit.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-config/tunnel-config.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/paths/paths.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/registry-ca/registry-ca.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"}

@@ -5,7 +5,13 @@ export const wanderingInnWikiWeb = {
   type: "page-type/router-app",
   slug: "wandering-inn-wiki-web",
   definition: "the routes innworld.wiki serves to a browser",
-  tunnelRoutes: "ts",
+  tunnelRoutes: [
+    {
+      name: "innworld",
+      hostname: "innworld.wiki",
+      service: "http://web.innworld.svc.cluster.local:3000",
+    },
+  ],
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",

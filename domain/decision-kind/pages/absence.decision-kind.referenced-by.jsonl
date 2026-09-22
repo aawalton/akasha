@@ -1428,7 +1428,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env.one-of-property.ts","id":"01a0c68d-ed1f-76c5-9578-efb260f5d56b"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.ts","id":"01a07c68-0024-7e4f-88e0-70ee0ed9679b"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.ts","id":"01a06810-1262-75ee-aa84-9009c06798cf"}
-{"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.ts","id":"01a06810-1262-7570-bae6-93d030d82053"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/provisioning/cluster-provisioning.domain.ts","id":"01a0675b-16d9-7eab-a110-f106ca00dad1"}
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/dockerfile/modules/extensions/dockerfile-extensions.module.ts","id":"01a06865-abff-7002-982c-70fcb1c90980"}
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/modules/image-build/image-build.module.ts","id":"01a08de8-a521-7517-beff-3c12047e76f9"}

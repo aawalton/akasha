@@ -5,7 +5,13 @@ export const alanAtlasWeb = {
   type: "page-type/router-app",
   slug: "alan-atlas-web",
   definition: "the routes Alan's map site serves to a browser",
-  tunnelRoutes: "ts",
+  tunnelRoutes: [
+    {
+      name: "atlas",
+      hostname: "atlas.alanwalton.com",
+      service: "http://atlas.alanwalton.svc.cluster.local:3000",
+    },
+  ],
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",

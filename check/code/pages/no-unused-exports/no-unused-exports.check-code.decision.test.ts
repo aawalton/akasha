@@ -61,8 +61,6 @@ import {
   SLUGGED_TEXT,
   SPELLED,
   scratch,
-  TUNNEL_AT,
-  TUNNEL_TEXT,
   takenText,
   WARRANT_AT,
   WARRANT_TEXT,
@@ -409,15 +407,6 @@ test("the name a lualib page states as its lua export is spared", () => {
 
 test("a name React Router reaches a route's code by is spared and another is judged", () => {
   const said = judging(landing(rooted(), { [ROUTE_AT]: bytesOf(ROUTE_TEXT) })).map(
-    (one) => one.reason
-  )
-
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`spare`")
-})
-
-test("the `routes` a tunnel routes file exports is spared and another is judged", () => {
-  const said = judging(landing(rooted(), { [TUNNEL_AT]: bytesOf(TUNNEL_TEXT) })).map(
     (one) => one.reason
   )
 

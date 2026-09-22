@@ -5,7 +5,28 @@ export const alanWeb = {
   type: "page-type/router-app",
   slug: "alan-web",
   definition: "the routes Alan's site serves to a browser",
-  tunnelRoutes: "ts",
+  tunnelRoutes: [
+    {
+      name: "alanwalton",
+      hostname: "alanwalton.com",
+      service: "http://web.alanwalton.svc.cluster.local:3000",
+    },
+    {
+      name: "alanwalton-webhook",
+      hostname: "webhook.alanwalton.com",
+      service: "http://web.alanwalton.svc.cluster.local:3000",
+    },
+    {
+      name: "alanwalton-sms",
+      hostname: "sms.alanwalton.com",
+      service: "http://web.alanwalton.svc.cluster.local:3000",
+    },
+    {
+      name: "alanwalton-idle-legacy",
+      hostname: "idle.alanwalton.com",
+      service: "http://web.alanwalton.svc.cluster.local:3000",
+    },
+  ],
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",

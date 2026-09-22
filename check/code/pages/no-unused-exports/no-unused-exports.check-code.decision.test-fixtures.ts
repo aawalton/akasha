@@ -140,10 +140,6 @@ const LUA_PAGE_TEXT =
 export const LUA_TEXT =
   "export function __TS__Held(): number {\n  return 1\n}\n\nexport const spare = 2\n"
 
-export const TUNNEL_AT = "akasha/tunnel-routes.ts"
-
-export const TUNNEL_TEXT = "export const routes = [1]\n\nexport const spare = 2\n"
-
 export const ROOT_AT = "akasha/root.tsx"
 
 export const ROUTE_AT = "akasha/held.route.code.ts"

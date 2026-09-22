@@ -5,7 +5,13 @@ export const smilingjennyWeb = {
   type: "page-type/router-app",
   slug: "smilingjenny-web",
   definition: "the routes Jenny's site serves to a browser",
-  tunnelRoutes: "ts",
+  tunnelRoutes: [
+    {
+      name: "smilingjenny",
+      hostname: "smilingjenny.me",
+      service: "http://web.smilingjenny.svc.cluster.local:3000",
+    },
+  ],
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",

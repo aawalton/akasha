@@ -5,7 +5,13 @@ export const audhdalanWeb = {
   type: "page-type/router-app",
   slug: "audhdalan-web",
   definition: "the routes audhdalan.com serves to a browser",
-  tunnelRoutes: "ts",
+  tunnelRoutes: [
+    {
+      name: "audhdalan",
+      hostname: "audhdalan.com",
+      service: "http://web.audhdalan.svc.cluster.local:3000",
+    },
+  ],
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",

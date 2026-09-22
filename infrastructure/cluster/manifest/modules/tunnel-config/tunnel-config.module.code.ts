@@ -20,8 +20,8 @@ function headerIn(): string {
   return readFileSync(join(root, at), "utf8").trimEnd()
 }
 
-export async function tunnelConfigData(): Promise<Record<string, string>> {
-  const sourced = await discoverTunnelRoutes()
+export function tunnelConfigData(): Record<string, string> {
+  const sourced = discoverTunnelRoutes()
   const sorted = [...sourced].sort((one, other) =>
     one.route.hostname.localeCompare(other.route.hostname)
   )
