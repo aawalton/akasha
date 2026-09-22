@@ -23,5 +23,10 @@ export const captureWriter = {
       decisionKind: "decision-kind/departure",
       statement: "A measured load time is kept in the saved table beside the capture.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The listener sits under the saved-variable name, so two captures in one bundle keep two listeners.",
+    },
   ],
 } as const satisfies Module

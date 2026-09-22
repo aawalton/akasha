@@ -39,6 +39,6 @@ export function defineCaptureWriter<T extends object>(
     }
   }
 
-  registerAddonInit(descriptor.addonName, initialize)
+  registerAddonInit(descriptor.addonName, initialize, descriptor.savedVariablesName)
   return writer
 }

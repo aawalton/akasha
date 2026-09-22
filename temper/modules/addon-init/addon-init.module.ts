@@ -27,5 +27,10 @@ export const addonInit = {
       decisionKind: "decision-kind/departure",
       statement: "The listener is dropped before the callback runs.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The listener sits under the namespace the caller names, or under the add-on's name.",
+    },
   ],
 } as const satisfies Module
