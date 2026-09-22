@@ -21,4 +21,13 @@ export const theTower088 = {
     { name: "Stamina", number: 76 },
     { name: "Initiative", number: 26 },
   ],
+  rungs: [
+    { name: "Ember Channel", rung: "Apprentice" },
+    { name: "Ember Burst", rung: "Apprentice" },
+    { name: "Essence Infusion", rung: "Apprentice" },
+    { name: "Ember Wave", rung: "Novice" },
+    { name: "Ember Siphon", rung: "Apprentice" },
+    { name: "Ember-Tempered Body", rung: "Apprentice" },
+    { name: "Smithing", rung: "Apprentice" },
+  ],
 } as const satisfies GameTurn
