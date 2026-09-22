@@ -4,7 +4,7 @@ export const laptopHost = {
   id: "01a05c14-b119-7003-ac6e-29f5219a020b",
   type: "page-type/module",
   slug: "laptop-host",
-  definition: "the laptop health readings are taken from",
+  definition: "the laptop giving health readings",
   code: "ts",
   decisions: [
     {

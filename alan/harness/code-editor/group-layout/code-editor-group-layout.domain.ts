@@ -4,5 +4,5 @@ export const codeEditorGroupLayout = {
   id: "01a0675b-16db-7c58-93b5-c4cb07d8defe",
   type: "page-type/domain",
   slug: "code-editor-group-layout",
-  definition: "the grid the editor's groups are arranged in",
+  definition: "the editor's grid of groups",
 } as const satisfies Domain

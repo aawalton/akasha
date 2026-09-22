@@ -5,7 +5,7 @@ export const connectionActivityModality = {
   type: "page-type/select-property",
   slug: "connection-activity-modality",
   propertySlug: "connection-activity-modality",
-  definition: "the senses it reaches him through",
+  definition: "the senses carrying an activity to him",
   values: ["audio", "digital-presence", "image", "presence", "text"],
   types: "ts",
 } as const satisfies SelectProperty

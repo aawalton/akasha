@@ -5,7 +5,7 @@ export const families = {
   type: "page-type/text-property",
   slug: "families",
   propertySlug: "families",
-  definition: "the tile sizes a widget can be placed at",
+  definition: "the tile sizes open to a widget",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

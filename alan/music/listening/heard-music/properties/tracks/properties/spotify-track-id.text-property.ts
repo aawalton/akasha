@@ -5,7 +5,7 @@ export const spotifyTrackId = {
   type: "page-type/text-property",
   slug: "spotify-track-id",
   propertySlug: "spotify-track-id",
-  definition: "the id Spotify keeps a track under",
+  definition: "a track's Spotify id",
   maxLength: 22,
   nameFormat: null,
   decisions: [

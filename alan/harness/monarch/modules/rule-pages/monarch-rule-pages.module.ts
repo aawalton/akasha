@@ -4,7 +4,7 @@ export const monarchRulePages = {
   id: "01a06865-ecc3-732a-af06-7eaca3662b5c",
   type: "page-type/module",
   slug: "monarch-rule-pages",
-  definition: "the category pages a rule names, and the flags a rule tool is called with",
+  definition: "the category pages a rule names, and a rule tool's flags",
   code: "ts",
   decisions: [
     {

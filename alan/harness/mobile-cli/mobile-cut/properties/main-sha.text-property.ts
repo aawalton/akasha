@@ -5,7 +5,7 @@ export const mainSha = {
   type: "page-type/text-property",
   slug: "main-sha",
   propertySlug: "main-sha",
-  definition: "the commit of the main repo a cut was built from",
+  definition: "a cut's commit of the main repo",
   maxLength: 40,
   nameFormat: null,
   types: "ts",

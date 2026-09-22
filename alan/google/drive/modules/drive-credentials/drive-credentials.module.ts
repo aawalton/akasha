@@ -4,7 +4,7 @@ export const driveCredentials = {
   id: "01a05bec-fc0a-7cf5-922c-10500a6552cc",
   type: "page-type/module",
   slug: "drive-credentials",
-  definition: "the scope and the refresh token a Drive client is built with",
+  definition: "a Drive client's scope and refresh token",
   code: "ts",
   decisions: [
     {

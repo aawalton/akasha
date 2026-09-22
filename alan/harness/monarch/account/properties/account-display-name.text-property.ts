@@ -5,7 +5,7 @@ export const accountDisplayName = {
   type: "page-type/text-property",
   slug: "account-display-name",
   propertySlug: "account-display-name",
-  definition: "the name and masked number a statement calls an account by",
+  definition: "the name and masked number a statement gives an account",
   maxLength: 200,
   nameFormat: null,
   decisions: [

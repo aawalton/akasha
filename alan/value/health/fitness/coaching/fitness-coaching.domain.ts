@@ -4,6 +4,6 @@ export const fitnessCoaching = {
   id: "01a08181-38f5-7959-999a-59779918cada",
   type: "page-type/domain",
   slug: "fitness-coaching",
-  definition: "the limits and cues Alan's training is programmed by",
+  definition: "the limits and cues Alan's training follows",
   parts: ["domain/schedule", "page-type/fitness-coaching-note", "page-type/movement-restriction"],
 } as const satisfies Domain

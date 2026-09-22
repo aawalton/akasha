@@ -5,7 +5,7 @@ export const artistGenre = {
   type: "page-type/text-property",
   slug: "artist-genre",
   propertySlug: "genre",
-  definition: "a genre the provider files an artist under",
+  definition: "a genre the provider gives an artist",
   maxLength: 100,
   nameFormat: null,
   decisions: [

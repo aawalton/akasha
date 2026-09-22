@@ -4,7 +4,7 @@ export const readoutTier = {
   id: "01a05f42-92f5-7001-98d7-66166fa0b0f6",
   type: "page-type/module",
   slug: "readout-tier",
-  definition: "the rung a reading reaches on the scale it is read against",
+  definition: "the rung a reading reaches on its scale",
   code: "ts",
   test: "ts",
   decisions: [

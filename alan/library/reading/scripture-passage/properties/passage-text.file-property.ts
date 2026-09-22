@@ -5,7 +5,7 @@ export const passageText = {
   type: "page-type/file-property",
   slug: "passage-text",
   propertySlug: "passage-text",
-  definition: "the verses a passage is made of",
+  definition: "a passage's verses",
   extensions: ["txt"],
   types: "ts",
 } as const satisfies FileProperty

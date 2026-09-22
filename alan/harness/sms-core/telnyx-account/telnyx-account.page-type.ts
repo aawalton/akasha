@@ -4,7 +4,7 @@ export const telnyxAccount = {
   id: "01a06861-e7cd-7e44-b19a-09599abde817",
   type: "page-type/page-type",
   slug: "telnyx-account",
-  definition: "the account the system sends texts through",
+  definition: "the account sending the system's texts",
   extends: ["page-type/page"],
   parts: [
     "phone-number-property/telnyx-account-from-number",

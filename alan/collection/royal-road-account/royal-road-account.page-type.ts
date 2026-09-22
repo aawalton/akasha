@@ -4,7 +4,7 @@ export const royalRoadAccount = {
   id: "01a06838-e8da-73c2-8412-6234b402ec6a",
   type: "page-type/page-type",
   slug: "royal-road-account",
-  definition: "the login the Royal Road sync reads Alan's follow list from",
+  definition: "the Royal Road sync's login for Alan's follow list",
   extends: ["page-type/page"],
   parts: ["email-address-property/royal-road-email", "text-property/royal-road-password"],
   properties: [
