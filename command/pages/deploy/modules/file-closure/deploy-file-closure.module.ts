@@ -4,7 +4,7 @@ export const deployFileClosure = {
   id: "01a09196-9c2c-732f-bd4f-d1f618fae23a",
   type: "page-type/module",
   slug: "deploy-file-closure",
-  definition: "the files the artifact a deploy puts up could be built from",
+  definition: "the files building the artifact a deploy puts up",
   code: "ts",
   test: "ts",
   decisions: [

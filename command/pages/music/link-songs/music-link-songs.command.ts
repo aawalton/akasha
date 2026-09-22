@@ -4,7 +4,7 @@ export const musicLinkSongs = {
   id: "01a0b732-4a33-7079-972f-39fd807b0c72",
   type: "page-type/command",
   slug: "music-link-songs",
-  definition: "the command naming on every track the song that track is a recording of",
+  definition: "the command naming on every track the song that track records",
   code: "ts",
   test: "ts",
   maxWallSeconds: 600,

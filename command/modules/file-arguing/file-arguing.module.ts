@@ -4,7 +4,7 @@ export const fileArguing = {
   id: "01a07bd4-e969-7d84-be28-cfc9777fb405",
   type: "page-type/module",
   slug: "file-arguing",
-  definition: "the files a command line names, and the body each file is left with",
+  definition: "the files a command line names, and each file's new body",
   code: "ts",
   test: "ts",
   decisions: [

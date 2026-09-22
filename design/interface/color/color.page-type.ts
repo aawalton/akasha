@@ -4,7 +4,7 @@ export const color = {
   id: "01a06575-c2a9-766f-8f09-da30cc969637",
   type: "page-type/page-type",
   slug: "color",
-  definition: "a color anything can be drawn in",
+  definition: "a color for drawing anything",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "color" },
     { partOfSpeech: "part-of-speech/noun", spelling: "colors" },

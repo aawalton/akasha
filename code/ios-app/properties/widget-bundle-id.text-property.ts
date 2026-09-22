@@ -5,7 +5,7 @@ export const widgetBundleId = {
   type: "page-type/text-property",
   slug: "widget-bundle-id",
   propertySlug: "widget-bundle-id",
-  definition: "the name a phone knows an app's widgets by",
+  definition: "the name of an app's widgets on a phone",
   maxLength: 155,
   nameFormat: null,
   types: "ts",

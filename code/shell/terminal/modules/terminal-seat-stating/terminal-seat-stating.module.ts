@@ -4,7 +4,7 @@ export const terminalSeatStating = {
   id: "01a0680a-fa30-7f40-a5ba-c3374e395ecb",
   type: "page-type/module",
   slug: "terminal-seat-stating",
-  definition: "the shell a launcher reads and writes a seat's attributes through",
+  definition: "the shell carrying a launcher's reads and writes of a seat's attributes",
   code: "ts",
   test: "ts",
   decisions: [

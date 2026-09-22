@@ -4,7 +4,7 @@ export const typescriptInternals = {
   id: "01a0691f-4de6-73ec-ad84-6ee006f2e3f7",
   type: "page-type/type-declaration",
   slug: "typescript-internals",
-  definition: "the compiler's own unexported names the Lua compiler reaches into",
+  definition: "the compiler's own unexported names the Lua compiler reaches",
   d: "ts",
   decisions: [
     {

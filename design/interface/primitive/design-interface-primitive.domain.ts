@@ -4,7 +4,7 @@ export const designInterfacePrimitive = {
   id: "01a05bde-9a73-7b0d-9c03-ebd55459b775",
   type: "page-type/domain",
   slug: "design-interface-primitive",
-  definition: "the plain controls and surfaces every other design package is built from",
+  definition: "the plain controls and surfaces building every other design package",
 
   parts: [
     "module/accordion",

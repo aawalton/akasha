@@ -4,7 +4,7 @@ export const manifestFinding = {
   id: "01a0a04a-15a8-7799-bdf2-4db67b297cd0",
   type: "page-type/module",
   slug: "manifest-finding",
-  definition: "which manifests are in the tree, and the folder each one sits in",
+  definition: "which manifests are in the tree, and each one's folder",
   code: "ts",
   decisions: [
     {

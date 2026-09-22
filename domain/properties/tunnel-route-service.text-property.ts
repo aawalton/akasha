@@ -5,7 +5,7 @@ export const tunnelRouteService = {
   type: "page-type/text-property",
   slug: "tunnel-route-service",
   propertySlug: "service",
-  definition: "the address inside the cluster a tunnel route is answered at",
+  definition: "the address inside the cluster answering a tunnel route",
   maxLength: 253,
   nameFormat: null,
   types: "ts",

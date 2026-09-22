@@ -4,7 +4,7 @@ export const iosHarness = {
   id: "01a0584d-22a8-7eb5-83f8-e9912fd9297c",
   type: "page-type/page-type",
   slug: "ios-harness",
-  definition: "code that draws an iOS component to be looked at",
+  definition: "code drawing an iOS component for a look",
   parts: [
     "ios-harness/render-harness",
     "ios-harness/render-harness-cases",

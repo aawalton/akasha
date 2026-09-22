@@ -4,7 +4,7 @@ export const standardAgentEnglish = {
   id: "01a07c58-7d63-7618-8189-1ea8ae48a1cb",
   type: "page-type/domain",
   slug: "standard-agent-english",
-  definition: "the language akasha is allowed to write in",
+  definition: "akasha's allowed language",
   parts: [
     "domain/standard-agent-english-non-term",
     "module/prose-pattern",

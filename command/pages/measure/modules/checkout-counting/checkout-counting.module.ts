@@ -4,8 +4,7 @@ export const checkoutCounting = {
   id: "01a06d1e-b1fe-7eae-ba21-1842c4d3106e",
   type: "page-type/module",
   slug: "checkout-counting",
-  definition:
-    "the files a checkout holds, how many lines each runs to, and the column they are set out in",
+  definition: "the files a checkout holds, how many lines each runs to, and their column",
   code: "ts",
   test: "ts",
   decisions: [
