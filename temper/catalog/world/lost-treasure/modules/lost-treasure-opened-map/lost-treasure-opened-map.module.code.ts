@@ -66,7 +66,7 @@ const HOLDER: { state: MainState | undefined; fragment: HUDFadeSceneFragment | u
 
 function state(this: void): MainState {
   if (HOLDER.state === undefined) {
-    throw new Error("TemperLostTreasure main object accessed before initialization")
+    throw new Error("TemperWorldLostTreasure main object accessed before initialization")
   }
   return HOLDER.state
 }
@@ -322,7 +322,7 @@ function registerEvents(this: void): undefined {
 export function initializeMainControl(this: void, control: Control): undefined {
   const mapControl = control.GetNamedChild("Map")
   if (mapControl === undefined) {
-    throw new Error("TemperLostTreasure minimap control is missing its Map child")
+    throw new Error("TemperWorldLostTreasure minimap control is missing its Map child")
   }
   HOLDER.state = {
     control,

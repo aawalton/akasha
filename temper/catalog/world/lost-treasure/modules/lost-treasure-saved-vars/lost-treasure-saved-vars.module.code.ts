@@ -120,7 +120,7 @@ const HOLDER: { db: LostTreasureDb | undefined } = { db: undefined }
 
 export function getSavedVars(this: void): LostTreasureDb {
   if (HOLDER.db === undefined) {
-    throw new Error("TemperLostTreasure savedVars accessed before initialization")
+    throw new Error("TemperWorldLostTreasure savedVars accessed before initialization")
   }
   return HOLDER.db
 }

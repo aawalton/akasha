@@ -7,7 +7,7 @@ import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/po
 import "akasha/temper/catalog/world/lost-treasure/lost-treasure-global-declarations/lost-treasure-global-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-globalThis.TemperLostTreasure = {
+globalThis.TemperWorldLostTreasure = {
   OnInitialized: (control: Control): undefined => {
     initializeMainControl(control)
   },

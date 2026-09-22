@@ -20,15 +20,15 @@
 				</Texture>
 				<Button name="$(parent)Close" inherits="ZO_CloseButton" excludeFromResizeToFitExtents="true">
 					<OnClicked>
-						TemperLostTreasure.Hide()
+						TemperWorldLostTreasure.Hide()
 					</OnClicked>
 				</Button>
 			</Controls>
 			<OnMoveStop>
-				TemperLostTreasure.OnMoveStop(self)
+				TemperWorldLostTreasure.OnMoveStop(self)
 			</OnMoveStop>
 			<OnInitialized>
-				TemperLostTreasure.OnInitialized(self)
+				TemperWorldLostTreasure.OnInitialized(self)
 			</OnInitialized>
 		</TopLevelControl>
 	</Controls>

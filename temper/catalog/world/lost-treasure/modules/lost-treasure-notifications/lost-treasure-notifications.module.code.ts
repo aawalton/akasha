@@ -53,7 +53,7 @@ const HOLDER: { provider: TemperNotificationProvider | undefined } = { provider:
 
 function getProvider(this: void): TemperNotificationProvider {
   if (HOLDER.provider === undefined) {
-    throw new Error("TemperLostTreasure notifications provider accessed before initialization")
+    throw new Error("TemperWorldLostTreasure notifications provider accessed before initialization")
   }
   return HOLDER.provider
 }

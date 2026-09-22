@@ -9,7 +9,7 @@ import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 registerUiStrings()
 
-export const ADDON_NAME = "TemperLostTreasure"
+export const ADDON_NAME = "TemperWorldLostTreasure"
 export const ADDON_DISPLAY_NAME = "Lost Treasure"
 
 export const SAVED_VARIABLES_ACCOUNT = "TemperLostTreasure_Account"

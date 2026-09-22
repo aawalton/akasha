@@ -3,7 +3,7 @@ import "akasha/temper/addon/type/temper-debug-logger-global/temper-debug-logger-
 
 function requireLibDebugLogger(this: void): TemperDebugLogger {
   if (TemperDebugLogger === undefined) {
-    throw new Error("TemperLostTreasure requires TemperDebugLogger")
+    throw new Error("TemperWorldLostTreasure requires TemperDebugLogger")
   }
   return TemperDebugLogger
 }
