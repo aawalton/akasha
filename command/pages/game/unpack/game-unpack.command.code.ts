@@ -72,6 +72,9 @@ const A_BREAK = /([a-z0-9])([A-Z])/g
 const A_DASH = /-/g
 const A_RUN = /\s+/
 const A_NUMBER = /(\d+)\s*$/
+const A_NOT_SLUG = /[^a-z0-9]+/g
+const A_RUN_OF_DASH = /-{2,}/g
+const AN_EDGE_DASH = /^-|-$/g
 
 export type Made = Naming | { readonly refused: string }
 
@@ -93,6 +96,15 @@ export function titleOf(said: string): string {
     .filter((one) => one !== "")
     .map((one) => `${one.slice(0, 1).toUpperCase()}${one.slice(1)}`)
     .join(" ")
+}
+
+export function sluggedOf(said: string): string {
+  return said
+    .replace(A_BREAK, "$1-$2")
+    .toLowerCase()
+    .replace(A_NOT_SLUG, "-")
+    .replace(A_RUN_OF_DASH, "-")
+    .replace(AN_EDGE_DASH, "")
 }
 
 function saidOf(held: unknown): string {
@@ -149,7 +161,7 @@ export function designRowed(gameSlug: string, folder: string, row: Record<string
   }
   const source = textIn(row[SOURCE_REF])
   const supersedes = textIn(row[SUPERSEDES])
-  const slug = `${gameSlug}-${external}`
+  const slug = `${gameSlug}-${sluggedOf(external)}`
   return {
     pageTypeSlug: gameDesignEntry.slug,
     slug,
@@ -161,7 +173,9 @@ export function designRowed(gameSlug: string, folder: string, row: Record<string
       ...(source === null ? {} : { source }),
       ...(supersedes === null
         ? {}
-        : { supersedes: namedAs(gameDesignEntry.slug, `${gameSlug}-${supersedes}`, null) }),
+        : {
+            supersedes: namedAs(gameDesignEntry.slug, `${gameSlug}-${sluggedOf(supersedes)}`, null),
+          }),
       note: HELD,
     },
     bodies: { note: noteOf(row[CONTENT]) },
@@ -200,7 +214,7 @@ export function loreRowed(gameSlug: string, folder: string, row: Record<string, 
   const ordinal = numberIn(content[ORDINAL])
   const speaker = textIn(content[SPEAKER])
   const supersedes = textIn(row[SUPERSEDES])
-  const slug = `${gameSlug}-${external}`
+  const slug = `${gameSlug}-${sluggedOf(external)}`
   return {
     pageTypeSlug: gameLoreEntry.slug,
     slug,
@@ -219,7 +233,9 @@ export function loreRowed(gameSlug: string, folder: string, row: Record<string, 
       ...(speaker === null ? {} : { speaker }),
       ...(supersedes === null
         ? {}
-        : { supersedes: namedAs(gameLoreEntry.slug, `${gameSlug}-${supersedes}`, null) }),
+        : {
+            supersedes: namedAs(gameLoreEntry.slug, `${gameSlug}-${sluggedOf(supersedes)}`, null),
+          }),
     },
   }
 }

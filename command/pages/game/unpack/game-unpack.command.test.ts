@@ -6,6 +6,7 @@ import {
   noteOf,
   numberIn,
   rowsIn,
+  sluggedOf,
   taken,
   titleOf,
 } from "akasha/command/pages/game/unpack/game-unpack.command.code.ts"
@@ -101,6 +102,13 @@ test("a call names the game and the rows beside it", () => {
 test("rows this command does not know are refused", () => {
   const read = taken(["--game", SAID, "--ledger", "rolls"], CALLED)
   expect("refused" in read).toBe(true)
+})
+
+test("a name a row was filed under is cleaned into a slug", () => {
+  expect(sluggedOf("ent-aria-onLuck")).toBe("ent-aria-on-luck")
+  expect(sluggedOf("ent-doorward-combat-v2")).toBe("ent-doorward-combat-v2")
+  expect(sluggedOf("tl-15c")).toBe("tl-15c")
+  expect(sluggedOf("Floor 1 / v2")).toBe("floor-1-v2")
 })
 
 test("the turn a lore row cites is read as its number", () => {
