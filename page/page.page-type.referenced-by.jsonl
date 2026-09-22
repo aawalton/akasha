@@ -108,6 +108,7 @@
 {"propertySlug":"extends-type","path":"story/game/mechanic-run/game-mechanic-run.page-type.ts","id":"01a0c951-6739-72ed-a7e2-63f36a4d5cbe"}
 {"propertySlug":"extends-type","path":"story/game/quest/game-quest.page-type.ts","id":"01a0c6ab-e5a8-7bc3-a0c8-83d4a81beda0"}
 {"propertySlug":"extends-type","path":"story/game/turn/game-turn.page-type.ts","id":"01a0c67d-107c-7e63-8791-38c9b6c7128d"}
+{"propertySlug":"extends-type","path":"story/item/item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}
 {"propertySlug":"extends-type","path":"story/mechanic/mechanic.page-type.ts","id":"01a0c9ea-d7b7-7f79-bc32-4aec8e645b69"}
 {"propertySlug":"extends-type","path":"story/turn/turn.page-type.ts","id":"01a0c9fc-87b4-75fb-b8af-e42e6f1986d0"}
 {"propertySlug":"extends-type","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
@@ -257,6 +258,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/game/mechanic-run/game-mechanic-run.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/game/quest/game-quest.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/game/turn/game-turn.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/item/item.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/mechanic/mechanic.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/turn/turn.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/builds/story-build.page-type.types.ts"}

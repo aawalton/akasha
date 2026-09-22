@@ -405,6 +405,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/game/panel/panel-place/panel-place.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/game/quest/game-quest.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/game/turn/game-turn.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/item/item.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/derived/metric-derived.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/mechanic.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/metric/character-attribute/character-attribute.page-type.ts"}

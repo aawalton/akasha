@@ -21,6 +21,7 @@ export const story = {
     "page-type/mechanic",
     "page-type/turn",
     "page-type/world",
+    "page-type/item",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
