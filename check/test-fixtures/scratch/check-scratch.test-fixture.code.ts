@@ -251,6 +251,8 @@ export function tracked(root: string, files: Readonly<Record<string, string>> = 
   wrote(root, files)
   const done = ran(["git", "-C", root, "init", "-q"])
   if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
+  const added = ran(["git", "-C", root, "add", "-A"])
+  if (added.code !== 0) throw new Error(`nothing was tracked at ${root} — ${added.err.trim()}`)
   return root
 }
 
