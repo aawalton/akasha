@@ -11,7 +11,6 @@ export const gameTurn = {
   properties: [
     { pageProperty: "relation-property/holding-game", required: true, many: false },
     { pageProperty: "number-property/turn-number", required: true, many: false },
-    { pageProperty: "number-property/turn-session", required: false, many: false },
     { pageProperty: "record-property/system-window", required: false, many: true, maxCount: null },
   ],
   decisions: [
@@ -36,7 +35,6 @@ export const gameTurn = {
   schema: "jsonl",
   parts: [
     "number-property/turn-number",
-    "number-property/turn-session",
     "text-property/window-kind",
     "text-property/window-rank",
     "record-property/system-window",
