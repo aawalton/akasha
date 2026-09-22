@@ -86,6 +86,14 @@ export const pageProperty = {
       decisionKind: "decision-kind/departure",
       statement: "The badge and the row any property falls back to are held beside this page type.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A property holding a list falls back to one badge for each item.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No list is offered for typing where one badge an item is shown.",
+    },
   ],
   typeGenerator: "ts",
   types: "ts",

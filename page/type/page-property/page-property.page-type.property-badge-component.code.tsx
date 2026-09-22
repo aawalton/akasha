@@ -6,6 +6,7 @@ import { InputBadge } from "akasha/design/interface/badge/modules/input-badge/in
 import { resolveBadgeVariant } from "akasha/page/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { textConfigSchema } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
+import { keyOf } from "akasha/page/ui/component/modules/badge-keying/badge-keying.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import { useEffect, useState } from "react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -37,21 +38,34 @@ function HeldWhileTyped({
 }
 
 export function Drawing({ property, value, editable, onPropertyChange }: PropertyBadgeProps) {
-  const said = scalarText(value) ?? ""
   const config = parseConfig(textConfigSchema, property.config, {})
-  const variant =
-    resolveBadgeVariant(property, said) ??
-    config.badgeVariant ??
-    (property.accent ? "accent" : "elevation-muted")
+  const otherwise = config.badgeVariant ?? (property.accent ? "accent" : "elevation-muted")
+  const variantFor = (shown: string) => resolveBadgeVariant(property, shown) ?? otherwise
 
+  if (Array.isArray(value) && value.length !== 0) {
+    return (
+      <div className="flex flex-wrap gap-1">
+        {value.map((one, at) => {
+          const item = scalarText(one) ?? ""
+          return (
+            <Badge key={keyOf(one, at)} variant={variantFor(item)}>
+              {item}
+            </Badge>
+          )
+        })}
+      </div>
+    )
+  }
+
+  const said = scalarText(value) ?? ""
   if (editable && onPropertyChange) {
     return (
       <HeldWhileTyped
         value={said}
-        variant={variant}
+        variant={variantFor(said)}
         onCommit={(one) => onPropertyChange(property.id, one)}
       />
     )
   }
-  return <Badge variant={variant}>{said}</Badge>
+  return <Badge variant={variantFor(said)}>{said}</Badge>
 }
