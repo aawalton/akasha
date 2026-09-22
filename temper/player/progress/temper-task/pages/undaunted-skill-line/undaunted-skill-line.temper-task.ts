@@ -8,7 +8,7 @@ export const undauntedSkillLine = {
   displayOrder: 6,
   esoCharacterId: "8796093025190173",
   character: "temper-account-character/shaestrel",
-  completionCardId: "skill-lines",
+  completionCard: "temper-completion-category/characters-skill-lines",
   completionItemPath: ["55"],
   dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY;INTERVAL=1",

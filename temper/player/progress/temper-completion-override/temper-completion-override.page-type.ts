@@ -11,7 +11,7 @@ export const temperCompletionOverride = {
   properties: [
     { pageProperty: "text-property/account-page", required: true, many: false },
     { pageProperty: "relation-property/character", required: true, many: false },
-    { pageProperty: "text-property/completion-card-id", required: true, many: false },
+    { pageProperty: "relation-property/completion-card", required: true, many: false },
     {
       pageProperty: "text-property/completion-item-path",
       required: true,

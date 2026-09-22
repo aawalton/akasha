@@ -7,7 +7,7 @@ export const skillMorphs = {
   title: "Skill Morphs",
   displayOrder: 0,
   character: "temper-account-character/lyonette-du-marquin",
-  completionCardId: "skill-morphs",
+  completionCard: "temper-completion-category/characters-skill-morphs",
   dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,

@@ -8,7 +8,7 @@ export const antiquityLore = {
   displayOrder: 0,
   esoCharacterId: "8796093022338107",
   character: "temper-account-character/erin-solstice",
-  completionCardId: "antiquity-lore",
+  completionCard: "temper-completion-category/account-antiquity-lore",
   dueDate: "2026-09-22",
   rruleRule: "FREQ=WEEKLY",
   rruleAnchorFromCompletion: false,

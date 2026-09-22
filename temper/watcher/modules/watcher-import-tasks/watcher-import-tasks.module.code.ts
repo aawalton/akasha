@@ -9,8 +9,10 @@ import {
   uncompletionValues,
 } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { instantToMillis } from "akasha/page/core/property-type/modules/instant/instant.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { completionCardOfPageSlug } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"
 import { isCumulativeCard } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
 import {
   log,
@@ -102,10 +104,15 @@ export function rolledDueDate(task: TaskPage, completedAtMs: number, at: Date): 
   return nextDueFor(shape, task, rule, completedAtMs, at.getTime()) ?? undefined
 }
 
+function cardOf(task: TaskPage): string | undefined {
+  const named = asText(task.completionCard)
+  if (named === undefined) return undefined
+  return completionCardOfPageSlug(slugOf(named)) ?? undefined
+}
+
 export function isCompleteForever(task: TaskPage): boolean {
   if (task.rruleRule == null) return false
-  const cardId = typeof task.completionCardId === "string" ? task.completionCardId : undefined
-  if (!isCumulativeCard(cardId)) return false
+  if (!isCumulativeCard(cardOf(task))) return false
   const current = task.progressCurrent
   const total = task.progressTotal
   if (typeof current !== "number" || typeof total !== "number") return false
@@ -207,7 +214,7 @@ async function refreshedOrSaid(
 function taskFactsOf(task: TaskPage): TaskFacts {
   const scope = asText(task.scope)
   const named: TaskFacts = scope === undefined ? { slug: task.slug } : { slug: task.slug, scope }
-  const card = asText(task.completionCardId)
+  const card = cardOf(task)
   if (card === undefined) return named
   const held = task.completionItemPath
   const path = Array.isArray(held)

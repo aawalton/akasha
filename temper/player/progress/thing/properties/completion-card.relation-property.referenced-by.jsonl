@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"completion-card-id.text-property.types.ts","path":"temper/player/progress/temper-completion-override/temper-completion-override.page-type.types.ts"}
-{"propertySlug":"import","fileName":"completion-card-id.text-property.types.ts","path":"temper/player/progress/thing/temper-progress-thing.page-type.types.ts"}
+{"propertySlug":"import","fileName":"completion-card.relation-property.types.ts","path":"temper/player/progress/temper-completion-override/temper-completion-override.page-type.types.ts"}
+{"propertySlug":"import","fileName":"completion-card.relation-property.types.ts","path":"temper/player/progress/thing/temper-progress-thing.page-type.types.ts"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-completion-override/temper-completion-override.page-type.ts","id":"01a05fd0-3aa7-7efc-9f5f-080d0b9f5bd0"}
 {"propertySlug":"page-property","path":"temper/player/progress/thing/temper-progress-thing.page-type.ts","id":"01a05fc6-81f8-7cb5-aed3-00e2ac534314"}
 {"propertySlug":"parts","path":"temper/player/progress/thing/temper-progress-thing.page-type.ts","id":"01a05fc6-81f8-7cb5-aed3-00e2ac534314"}

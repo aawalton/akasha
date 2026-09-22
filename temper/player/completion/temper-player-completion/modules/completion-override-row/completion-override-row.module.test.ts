@@ -1,4 +1,8 @@
 import { describe, expect, test } from "bun:test"
+import {
+  COMPLETION_CARD_PAGE_TYPE,
+  completionCardAddress,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"
 import { parseCompletionOverrideRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
 
 const CHARACTER_ID = "01970000-0000-7000-8000-aaaaaaaaaaaa"
@@ -6,7 +10,7 @@ const CHARACTER_ID = "01970000-0000-7000-8000-aaaaaaaaaaaa"
 const wellFormedRow = () => ({
   id: "01970000-0000-7000-8000-bbbbbbbbbbbb",
   character: CHARACTER_ID,
-  completionCardId: "skill-points",
+  completionCard: completionCardAddress("skill-points"),
   completionItemPath: ["general", "foliumDiscognitum"],
   floor: 1,
   reason: "ESO under-reports the Folium Discognitum skill point.",
@@ -40,17 +44,27 @@ describe("parseCompletionOverrideRow", () => {
     expect(parsed?.characterId).toBe("character-a")
   })
 
-  test("returns null for a missing or non-string completionCardId", () => {
-    expect(
-      parseCompletionOverrideRow({ ...wellFormedRow(), completionCardId: undefined })
-    ).toBeNull()
-    expect(parseCompletionOverrideRow({ ...wellFormedRow(), completionCardId: 42 })).toBeNull()
-    expect(parseCompletionOverrideRow({ ...wellFormedRow(), completionCardId: "" })).toBeNull()
+  test("returns null for a missing or non-string completionCard", () => {
+    expect(parseCompletionOverrideRow({ ...wellFormedRow(), completionCard: undefined })).toBeNull()
+    expect(parseCompletionOverrideRow({ ...wellFormedRow(), completionCard: 42 })).toBeNull()
+    expect(parseCompletionOverrideRow({ ...wellFormedRow(), completionCard: "" })).toBeNull()
   })
 
-  test("returns null for a card id no completion card answers to", () => {
+  test("reads the card a row names by an address as the card that page is", () => {
     expect(
-      parseCompletionOverrideRow({ ...wellFormedRow(), completionCardId: "not-a-card" })
+      parseCompletionOverrideRow({
+        ...wellFormedRow(),
+        completionCard: completionCardAddress("guild-sales"),
+      })?.override.completionCardId
+    ).toBe("guild-sales")
+  })
+
+  test("returns null for an address no completion card answers to", () => {
+    expect(
+      parseCompletionOverrideRow({
+        ...wellFormedRow(),
+        completionCard: `${COMPLETION_CARD_PAGE_TYPE}/not-a-card`,
+      })
     ).toBeNull()
   })
 

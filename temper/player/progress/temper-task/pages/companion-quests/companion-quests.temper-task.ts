@@ -8,7 +8,7 @@ export const companionQuests = {
   icon: "file-text",
   displayOrder: 14,
   character: "temper-account-character/maviola-el",
-  completionCardId: "companion-quests",
+  completionCard: "temper-completion-category/characters-companion-quests",
   dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,

@@ -12,7 +12,7 @@ export const cadwellSAlmanac = {
   priority: "p3",
   dueDate: "2026-09-22",
   displayOrder: 13,
-  completionCardId: "cadwells-almanac",
+  completionCard: "temper-completion-category/characters-cadwells-almanac",
   lastCompletedAt: "2026-08-19T14:32:40.000Z",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,

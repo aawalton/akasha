@@ -9,6 +9,7 @@ import {
 } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { serializeLuaBlock } from "akasha/temper/eso/saved-variable/modules/lua-serializer/lua-serializer.module.code.ts"
+import { completionCardOfPageSlug } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override/completion-override.module.code.ts"
 import type { ParsedCompletionOverrideRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
 import { parseCompletionOverrideRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
@@ -101,6 +102,10 @@ export function taskKey(row: Page): string {
   return row.id
 }
 
+export function cardIdOf(named: string | null): string | null {
+  return named === null || named === "" ? null : completionCardOfPageSlug(slugOf(named))
+}
+
 function stillToDo(row: Page): boolean {
   const shape = completionShapeOf(TASK_PAGE_TYPE_SLUG)
   if (shape === null) return true
@@ -119,7 +124,7 @@ export function taskDataFrom(row: Page, esoCharacterId: string | null): TaskData
     esoCharacterId,
     sortOrder: typeof sortOrder === "number" ? sortOrder : 0,
     priority: stringAt(row, "priority"),
-    completionCardId: stringAt(row, "completionCardId"),
+    completionCardId: cardIdOf(stringAt(row, "completionCard")),
     completionItemPath: itemPathAt(row, "completionItemPath"),
   }
 }

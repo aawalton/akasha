@@ -16,5 +16,9 @@ export const completionOverrideRow = {
       decisionKind: "decision-kind/departure",
       statement: "The character a row names by an address is read as the slug in that address.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The card a row names by an address is read as the card that page is.",
+    },
   ],
 } as const satisfies Module

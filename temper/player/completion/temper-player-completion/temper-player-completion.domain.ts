@@ -25,6 +25,7 @@ export const temperPlayerCompletion = {
     "module/completion-card-checker-types",
     "module/completion-card-checkers",
     "module/completion-card-id",
+    "module/completion-card-page",
     "module/completion-card-registry",
     "module/completion-card-reset-behavior",
     "module/completion-card-tab",

@@ -26,7 +26,7 @@ export const temperTasksToday = {
     "due-time",
     "scope",
   ],
-  hiddenPropertiesOrder: ["completion-card-id"],
+  hiddenPropertiesOrder: ["completion-card"],
   pageSize: 40,
   itemPageSize: 12,
   groupPageSize: 6,

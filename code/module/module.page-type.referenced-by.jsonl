@@ -6064,6 +6064,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-id/completion-card-id.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-reset-behavior/completion-card-reset-behavior.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-tab/completion-card-tab.module.ts"}

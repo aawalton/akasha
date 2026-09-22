@@ -4,6 +4,10 @@ import {
   type Page,
   type PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import {
+  COMPLETION_CARD_PAGE_TYPE,
+  completionCardAddress,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"
 import type {
   ExportTasksOptions,
   PageCollect,
@@ -188,7 +192,7 @@ const TASK_ROWS: readonly Page[] = [
     character: "temper-account-character/character-a",
     displayOrder: 3,
     priority: "high",
-    completionCardId: "daily-writs",
+    completionCard: completionCardAddress("daily-writs"),
     completionItemPath: ["alchemy", 2],
     pendingSync: true,
   }),
@@ -208,21 +212,21 @@ const OVERRIDE_ROWS: readonly Page[] = [
   asPage({
     id: "override-1",
     character: "temper-account-character/character-a",
-    completionCardId: "daily-writs",
+    completionCard: completionCardAddress("daily-writs"),
     completionItemPath: ["alchemy", 2],
     floor: 1,
   }),
   asPage({
     id: "override-2",
     character: "temper-account-character/character-a",
-    completionCardId: "no-such-card",
+    completionCard: `${COMPLETION_CARD_PAGE_TYPE}/no-such-card`,
     completionItemPath: ["alchemy", 2],
     floor: 1,
   }),
   asPage({
     id: "override-3",
     character: "temper-account-character/character-nobody",
-    completionCardId: "hireling-mails",
+    completionCard: completionCardAddress("hireling-mails"),
     completionItemPath: [],
     floor: 4,
   }),

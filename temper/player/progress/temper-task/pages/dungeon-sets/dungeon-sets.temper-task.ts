@@ -9,5 +9,5 @@ export const dungeonSets = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "all_characters",
   priority: "p3",
-  completionCardId: "dungeon-sets",
+  completionCard: "temper-completion-category/tasks-dungeon-sets",
 } as const satisfies TemperTask

@@ -7,7 +7,7 @@ export const companionRapport = {
   title: "Companion Rapport",
   icon: "file-text",
   character: "temper-account-character/maviola-el",
-  completionCardId: "companion-rapport-character",
+  completionCard: "temper-completion-category/characters-companion-rapport-character",
   dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY;INTERVAL=1",
   rruleAnchorFromCompletion: false,

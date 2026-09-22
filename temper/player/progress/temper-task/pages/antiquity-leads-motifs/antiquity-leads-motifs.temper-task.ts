@@ -13,7 +13,7 @@ export const antiquityLeadsMotifs = {
   priority: "p2",
   dueDate: "2026-09-22",
   displayOrder: 0,
-  completionCardId: "antiquity-leads-motifs",
+  completionCard: "temper-completion-category/account-antiquity-leads-motifs",
   lastCompletedAt: "2026-09-15T12:06:42.000Z",
   rruleRule: "FREQ=WEEKLY;BYDAY=TU",
   rruleAnchorFromCompletion: false,

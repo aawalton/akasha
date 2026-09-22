@@ -645,7 +645,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/token-hash.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/token-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/token.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/thing/properties/completion-card-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/thing/properties/completion-item-path.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/thing/properties/node-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/thing/properties/account-page.text-property.ts"}

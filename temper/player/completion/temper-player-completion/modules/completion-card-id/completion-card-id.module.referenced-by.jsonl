@@ -1,9 +1,9 @@
+{"propertySlug":"import","fileName":"completion-card-id.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-card-id.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-card-id.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-card-id.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-card-id.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-item-picker/completion-item-picker.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-card-id.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-next-character/completion-next-character.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-card-id.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-card-id.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-override/completion-override.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-card-id.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts"}
 {"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}

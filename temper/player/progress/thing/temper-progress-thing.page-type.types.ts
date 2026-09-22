@@ -1,6 +1,6 @@
 import type { Priority } from "akasha/page/properties/priority.select-property.types.ts"
 import type { Character } from "akasha/temper/player/progress/thing/properties/character.relation-property.types.ts"
-import type { CompletionCardId } from "akasha/temper/player/progress/thing/properties/completion-card-id.text-property.types.ts"
+import type { CompletionCard } from "akasha/temper/player/progress/thing/properties/completion-card.relation-property.types.ts"
 import type { CompletionItemPath } from "akasha/temper/player/progress/thing/properties/completion-item-path.text-property.types.ts"
 import type { DueDate } from "akasha/temper/player/progress/thing/properties/due-date.calendar-date-property.types.ts"
 import type { NodeId } from "akasha/temper/player/progress/thing/properties/node-id.text-property.types.ts"
@@ -12,7 +12,7 @@ import type { TemperThing } from "akasha/temper/thing/temper-thing.page-type.typ
 export type TemperProgressThing = TemperThing & {
   nodeId?: NodeId
   character?: Character
-  completionCardId?: CompletionCardId
+  completionCard?: CompletionCard
   completionItemPath?: CompletionItemPath
   scope?: Scope
   priority?: Priority

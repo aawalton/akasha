@@ -7,7 +7,7 @@ export const darkBrotherhoodSkillLine = {
   title: "Dark Brotherhood Skill Line",
   displayOrder: 11,
   character: "temper-account-character/yvlon-byres",
-  completionCardId: "skill-lines",
+  completionCard: "temper-completion-category/characters-skill-lines",
   completionItemPath: ["118"],
   dueDate: "2026-09-23",
   rruleRule: "FREQ=DAILY;INTERVAL=1",

@@ -77,5 +77,9 @@ export const watcherExportTasks = {
       decisionKind: "decision-kind/departure",
       statement: "A character is reached by the slug a task or an override names it as.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game is handed the card's own name rather than the address of its page.",
+    },
   ],
 } as const satisfies Module

@@ -7,7 +7,7 @@ export const dragonguardDailyQuests = {
   title: "Dragonguard Daily Quests",
   displayOrder: 7,
   character: "temper-account-character/lyonette-du-marquin",
-  completionCardId: "character-achievements",
+  completionCard: "temper-completion-category/characters-character-achievements",
   completionItemPath: ["Dragonhold", "Quests", "2612"],
   dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY",

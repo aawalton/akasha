@@ -1,3 +1,4 @@
+import { completionCardAddress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"
 import {
   applyCompletion,
   type CompletionOutcome,
@@ -135,14 +136,14 @@ export const CAPPED_TASK = taskOf({
   slug: "cumulative-task",
   title: "Cumulative",
   rruleRule: "FREQ=DAILY",
-  completionCardId: "skill-lines",
+  completionCard: completionCardAddress("skill-lines"),
   progressCurrent: 16,
   progressTotal: 16,
 })
 
 export const CAPPED_DONE_TASK = taskOf({ ...CAPPED_TASK, completedAt: COMPLETED_AT_ISO })
 
-export const CARD_TASK = taskOf({ completionCardId: "daily-writs" })
+export const CARD_TASK = taskOf({ completionCard: completionCardAddress("daily-writs") })
 
 export const PLAIN_TASK = taskOf({ title: "One Off" })
 

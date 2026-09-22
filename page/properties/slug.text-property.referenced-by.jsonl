@@ -191,6 +191,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/condition-field.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/goal.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/thing/properties/character.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/thing/properties/completion-card.relation-property.types.ts"}
 {"propertySlug":"page-property","path":"alan/car-research/car-make/properties/trims.page-property-entry.ts","id":"01a0c541-1a15-7388-aa49-2af02f70d6c0"}
 {"propertySlug":"page-property","path":"alan/library/reading/book-section/book-section.page-type.ts","id":"01a0658d-fe50-7001-976d-fd0d35660d1d"}
 {"propertySlug":"page-property","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

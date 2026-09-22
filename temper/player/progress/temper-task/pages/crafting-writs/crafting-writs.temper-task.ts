@@ -6,7 +6,7 @@ export const craftingWrits = {
   slug: "crafting-writs",
   title: "Crafting Writs",
   displayOrder: 1,
-  completionCardId: "daily-writs",
+  completionCard: "temper-completion-category/characters-daily-writs",
   dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,

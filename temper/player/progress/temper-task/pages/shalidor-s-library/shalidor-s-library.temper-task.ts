@@ -8,7 +8,7 @@ export const shalidorSLibrary = {
   icon: "file-text",
   displayOrder: 15,
   character: "temper-account-character/nirayicel",
-  completionCardId: "lore-library-character",
+  completionCard: "temper-completion-category/characters-lore-library-character",
   completionItemPath: ["1"],
   dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY",

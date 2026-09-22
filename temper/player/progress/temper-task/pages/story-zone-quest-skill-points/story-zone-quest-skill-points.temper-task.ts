@@ -7,7 +7,7 @@ export const storyZoneQuestSkillPoints = {
   title: "Story Zone Quest Skill Points",
   icon: "file-text",
   character: "temper-account-character/maviola-el",
-  completionCardId: "skill-points",
+  completionCard: "temper-completion-category/characters-skill-points",
   completionItemPath: ["storyZoneQuests"],
   dueDate: "2026-09-21",
   rruleRule: "FREQ=DAILY",

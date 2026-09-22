@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { completionCardAddress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"
 import {
   applyCompletion,
   clearCompletion,
@@ -131,7 +132,7 @@ test("a task carrying no rule rolls to nothing", () => {
 })
 
 test("a cumulative task at its cap is complete forever and one below it is not", () => {
-  const at = { rruleRule: "FREQ=DAILY", completionCardId: "skill-lines" }
+  const at = { rruleRule: "FREQ=DAILY", completionCard: completionCardAddress("skill-lines") }
   expect(isCompleteForever(taskOf({ ...at, progressCurrent: 16, progressTotal: 16 }))).toBe(true)
   expect(isCompleteForever(taskOf({ ...at, progressCurrent: 15, progressTotal: 16 }))).toBe(false)
   expect(isCompleteForever(taskOf({ ...at, progressCurrent: 0, progressTotal: 0 }))).toBe(false)
@@ -139,9 +140,11 @@ test("a cumulative task at its cap is complete forever and one below it is not",
 
 test("no rule and a card that is not cumulative each rule out complete forever", () => {
   const full = { progressCurrent: 16, progressTotal: 16 }
-  expect(isCompleteForever(taskOf({ ...full, completionCardId: "skill-lines" }))).toBe(false)
+  const lines = completionCardAddress("skill-lines")
+  const writs = completionCardAddress("daily-writs")
+  expect(isCompleteForever(taskOf({ ...full, completionCard: lines }))).toBe(false)
   expect(
-    isCompleteForever(taskOf({ ...full, rruleRule: "FREQ=DAILY", completionCardId: "daily-writs" }))
+    isCompleteForever(taskOf({ ...full, rruleRule: "FREQ=DAILY", completionCard: writs }))
   ).toBe(false)
 })
 
@@ -163,7 +166,7 @@ test("a task holding a rule takes the stamp and its next due date", () => {
 test("a task at its cumulative cap takes the key saying it is done rather than a due date", () => {
   const capped = taskOf({
     rruleRule: "FREQ=DAILY",
-    completionCardId: "skill-lines",
+    completionCard: completionCardAddress("skill-lines"),
     progressCurrent: 16,
     progressTotal: 16,
   })

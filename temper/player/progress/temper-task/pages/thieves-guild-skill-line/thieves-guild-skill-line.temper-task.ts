@@ -8,7 +8,7 @@ export const thievesGuildSkillLine = {
   displayOrder: 0,
   esoCharacterId: "8796093038720681",
   character: "temper-account-character/shaestrel",
-  completionCardId: "skill-lines",
+  completionCard: "temper-completion-category/characters-skill-lines",
   completionItemPath: ["117"],
   dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY;INTERVAL=1",

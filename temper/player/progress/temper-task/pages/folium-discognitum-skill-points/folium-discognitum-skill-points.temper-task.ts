@@ -7,7 +7,7 @@ export const foliumDiscognitumSkillPoints = {
   title: "Folium Discognitum Skill Points",
   icon: "file-text",
   character: "temper-account-character/rafaema-coloseuvia",
-  completionCardId: "skill-points",
+  completionCard: "temper-completion-category/characters-skill-points",
   completionItemPath: ["general", "foliumDiscognitum"],
   dueDate: "2026-09-20",
   rruleRule: "FREQ=DAILY",

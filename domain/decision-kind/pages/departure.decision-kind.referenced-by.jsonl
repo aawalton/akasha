@@ -5349,6 +5349,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-sort/completion-cadwell-sort.module.ts","id":"01a06108-2feb-7a2d-9ef6-57df269ec508"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.ts","id":"01a0640c-1e9a-73f9-8755-c19243c58c9d"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-id/completion-card-id.module.ts","id":"01a06103-061b-7c11-a311-6a30a8548331"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.ts","id":"01a0c68c-bdb9-7f89-8784-301fd414ad08"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.ts","id":"01a06103-0619-70b6-a023-3ddab1c8dcb3"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-tab/completion-card-tab.module.ts","id":"01a06103-0618-76fd-8539-d368cdcf6cae"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.ts","id":"01a0641c-83b4-7fba-b338-0d13a366420a"}
@@ -5425,6 +5426,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-task/properties/progress.temper-task-progress.ts","id":"01a05fd3-435e-7d0d-8c81-036d195632f1"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-task/temper-task.page-type.ts","id":"01a05fd3-435f-7ddd-a951-70e6e3d31e07"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-watcher-enrolment/temper-watcher-enrolment.page-type.ts","id":"01a05fd3-4364-713f-be23-5bd09e86ad23"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/completion-card.relation-property.ts","id":"01a0c688-9666-72c8-b20b-f6fc5fd64234"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/completion-item-path.text-property.ts","id":"01a05fc6-81fb-729c-8013-4df821b1c2d7"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/due-date.calendar-date-property.ts","id":"01a0793a-2730-7efc-b4a0-869a6e3af33f"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/rrule-rule.rrule-property.ts","id":"01a05fc6-81fd-7f0e-82af-5f52794a8b51"}
