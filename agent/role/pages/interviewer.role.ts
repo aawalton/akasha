@@ -124,5 +124,19 @@ export const interviewer = {
         "The person knows when they are learning something new, and does not know how to get there.",
       ],
     },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Hold The Whole Branch",
+      act: "Search until you hold the whole branch, however long the search takes.",
+      warrant:
+        "Alan would wait longer for a better question, and a question asked early spends his turn for less.",
+      aids: [
+        "A page's `referenced-by` names its children, the topics related to it, and its open questions.",
+        "The index is read rather than re-derived, and guessing a slug from a file name is not searching.",
+        "Read the branch from the hub down rather than sampling pages out of it.",
+        "A question no page answers is found by holding two branches at once.",
+        "What git changed most recently is the edge of the last session rather than the edge of the subject.",
+      ],
+    },
   ],
 } as const satisfies Role
