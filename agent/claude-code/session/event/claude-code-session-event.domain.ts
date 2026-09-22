@@ -4,7 +4,7 @@ export const claudeCodeSessionEvent = {
   id: "01a0c9d8-4cc0-7474-8d6d-18890c44e6a5",
   type: "page-type/domain",
   slug: "claude-code-session-event",
-  definition: "a named Claude Code session transition",
+  definition: "a named session transition",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "Claude Code session event" },
     { partOfSpeech: "part-of-speech/noun", spelling: "Claude Code session events" },
@@ -18,17 +18,15 @@ export const claudeCodeSessionEvent = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every Claude Code session event is named by Claude Code rather than by akasha.",
+      statement: "Every session event is named by Claude Code rather than by akasha.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A Claude Code session event no hook is called at is a Claude Code session event still.",
+      statement: "A session event no hook is called at is a session event still.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A Claude Code session event before an act and one after that act are two of them.",
+      statement: "A session event before an act and one after that act are two session events.",
     },
   ],
 } as const satisfies Domain
