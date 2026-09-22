@@ -7,5 +7,8 @@ export const blackreachVanguard = {
   title: "Blackreach Vanguard",
   collectionIndex: 69,
   sourceDescription: "Delve/WB dailies (Western Skyrim)",
-  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies"],
+  dropSources: [
+    "temper-scribing-source/dlc-delve-dailies",
+    "temper-scribing-source/dlc-world-boss-dailies",
+  ],
 } as const satisfies TemperMotifStyle

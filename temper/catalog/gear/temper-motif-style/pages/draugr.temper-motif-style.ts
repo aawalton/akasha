@@ -7,5 +7,9 @@ export const draugr = {
   title: "Draugr",
   collectionIndex: 23,
   sourceDescription: "FG/MG/Undaunted dailies (base game)",
-  dropSources: ["mages-guild-daily", "fighters-guild-daily", "undaunted-delve-dailies"],
+  dropSources: [
+    "temper-scribing-source/mages-guild-daily",
+    "temper-scribing-source/fighters-guild-daily",
+    "temper-scribing-source/undaunted-delve-dailies",
+  ],
 } as const satisfies TemperMotifStyle

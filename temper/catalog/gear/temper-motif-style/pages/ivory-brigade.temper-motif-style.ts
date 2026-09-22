@@ -7,5 +7,8 @@ export const ivoryBrigade = {
   title: "Ivory Brigade",
   collectionIndex: 88,
   sourceDescription: "WB dailies (Blackwood)",
-  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies"],
+  dropSources: [
+    "temper-scribing-source/dlc-delve-dailies",
+    "temper-scribing-source/dlc-world-boss-dailies",
+  ],
 } as const satisfies TemperMotifStyle

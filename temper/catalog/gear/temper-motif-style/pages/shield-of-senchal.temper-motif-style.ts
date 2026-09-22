@@ -7,5 +7,8 @@ export const shieldOfSenchal = {
   title: "Shield of Senchal",
   collectionIndex: 66,
   sourceDescription: "Dailies in Senchal (Southern Elsweyr)",
-  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies"],
+  dropSources: [
+    "temper-scribing-source/dlc-delve-dailies",
+    "temper-scribing-source/dlc-world-boss-dailies",
+  ],
 } as const satisfies TemperMotifStyle

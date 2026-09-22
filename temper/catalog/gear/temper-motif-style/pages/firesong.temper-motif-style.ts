@@ -7,5 +7,9 @@ export const firesong = {
   title: "Firesong",
   collectionIndex: 101,
   sourceDescription: "Volcanic Vent/dailies (Galen)",
-  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies", "dlc-incursion-dailies"],
+  dropSources: [
+    "temper-scribing-source/dlc-delve-dailies",
+    "temper-scribing-source/dlc-world-boss-dailies",
+    "temper-scribing-source/dlc-incursion-dailies",
+  ],
 } as const satisfies TemperMotifStyle

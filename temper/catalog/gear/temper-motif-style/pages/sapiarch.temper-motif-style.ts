@@ -7,5 +7,8 @@ export const sapiarch = {
   title: "Sapiarch",
   collectionIndex: 48,
   sourceDescription: "Divine Prosecution dailies (Summerset)",
-  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies"],
+  dropSources: [
+    "temper-scribing-source/dlc-delve-dailies",
+    "temper-scribing-source/dlc-world-boss-dailies",
+  ],
 } as const satisfies TemperMotifStyle

@@ -7,5 +7,8 @@ export const deadWater = {
   title: "Dead-Water",
   collectionIndex: 55,
   sourceDescription: "Dailies (Murkmire)",
-  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies"],
+  dropSources: [
+    "temper-scribing-source/dlc-delve-dailies",
+    "temper-scribing-source/dlc-world-boss-dailies",
+  ],
 } as const satisfies TemperMotifStyle

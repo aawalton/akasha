@@ -7,5 +7,9 @@ export const westWealdLegion = {
   title: "West Weald Legion",
   collectionIndex: 111,
   sourceDescription: "Mirrormoor Incursion dailies (Gold Road)",
-  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies", "dlc-incursion-dailies"],
+  dropSources: [
+    "temper-scribing-source/dlc-delve-dailies",
+    "temper-scribing-source/dlc-world-boss-dailies",
+    "temper-scribing-source/dlc-incursion-dailies",
+  ],
 } as const satisfies TemperMotifStyle

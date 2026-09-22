@@ -7,5 +7,8 @@ export const houseMornard = {
   title: "House Mornard",
   collectionIndex: 102,
   sourceDescription: "WB/Delve dailies (Galen)",
-  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies"],
+  dropSources: [
+    "temper-scribing-source/dlc-delve-dailies",
+    "temper-scribing-source/dlc-world-boss-dailies",
+  ],
 } as const satisfies TemperMotifStyle

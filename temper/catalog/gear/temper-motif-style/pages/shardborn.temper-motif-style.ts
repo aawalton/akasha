@@ -7,5 +7,8 @@ export const shardborn = {
   title: "Shardborn",
   collectionIndex: 110,
   sourceDescription: "Delve/WB dailies (Gold Road)",
-  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies"],
+  dropSources: [
+    "temper-scribing-source/dlc-delve-dailies",
+    "temper-scribing-source/dlc-world-boss-dailies",
+  ],
 } as const satisfies TemperMotifStyle

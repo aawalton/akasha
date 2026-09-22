@@ -7,5 +7,8 @@ export const moragTong = {
   title: "Morag Tong",
   collectionIndex: 13,
   sourceDescription: "Hall of Justice dailies (Vvardenfell)",
-  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies"],
+  dropSources: [
+    "temper-scribing-source/dlc-delve-dailies",
+    "temper-scribing-source/dlc-world-boss-dailies",
+  ],
 } as const satisfies TemperMotifStyle

@@ -7,5 +7,9 @@ export const dragonguard = {
   title: "Dragonguard",
   collectionIndex: 62,
   sourceDescription: "Dragon hunt/Delve dailies (Southern Elsweyr)",
-  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies", "dlc-incursion-dailies"],
+  dropSources: [
+    "temper-scribing-source/dlc-delve-dailies",
+    "temper-scribing-source/dlc-world-boss-dailies",
+    "temper-scribing-source/dlc-incursion-dailies",
+  ],
 } as const satisfies TemperMotifStyle

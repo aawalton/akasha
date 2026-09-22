@@ -7,5 +7,8 @@ export const systresGuardian = {
   title: "Systres Guardian",
   collectionIndex: 98,
   sourceDescription: "Delve dailies (High Isle)",
-  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies"],
+  dropSources: [
+    "temper-scribing-source/dlc-delve-dailies",
+    "temper-scribing-source/dlc-world-boss-dailies",
+  ],
 } as const satisfies TemperMotifStyle

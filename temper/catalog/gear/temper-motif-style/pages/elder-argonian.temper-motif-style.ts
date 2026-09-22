@@ -7,5 +7,8 @@ export const elderArgonian = {
   title: "Elder Argonian",
   collectionIndex: 56,
   sourceDescription: "Dailies (Murkmire)",
-  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies"],
+  dropSources: [
+    "temper-scribing-source/dlc-delve-dailies",
+    "temper-scribing-source/dlc-world-boss-dailies",
+  ],
 } as const satisfies TemperMotifStyle
