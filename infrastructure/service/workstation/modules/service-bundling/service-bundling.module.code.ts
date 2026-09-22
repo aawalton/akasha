@@ -48,11 +48,20 @@ const APART = "\0"
 const NAMED_AT_MOST = 12
 
 export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set([
+  "attributes-relay-service",
+  "capacity-relay-service",
+  "cost-relay-service",
+  "inbox-relay-service",
   "inbox-tracking-poll",
   "monarch-poll",
   "monarch-reading-service",
+  "monarch-relay-service",
+  "plants-relay-service",
+  "safety-relay-service",
   "send-due-reminders",
   "service-watching",
+  "sleep-relay-service",
+  "surplus-relay-service",
   "sweep-stray-processes",
 ])
 
