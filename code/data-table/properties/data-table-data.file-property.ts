@@ -7,7 +7,6 @@ export const dataTableData = {
   propertySlug: "data",
   definition: "the data a data table is, in the format a reader parses rather than compiles",
   extensions: ["json"],
-  generated: true,
   runsFileLength: false,
   decisions: [
     {
@@ -25,6 +24,16 @@ export const dataTableData = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A table more than one language reads is data rather than code.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A settle writes the file of a property saying it is generated, and no change does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A command writes this file from what it read, so this property says no such thing.",
     },
   ],
   types: "ts",
