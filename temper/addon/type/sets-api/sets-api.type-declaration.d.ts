@@ -392,13 +392,13 @@ interface SetsApi {
   noSetIdSets: { [setId: number]: { [key: string]: unknown } }
   removeFutureSetData?: (this: void) => void
 
-  LSM?: unknown
+  scrollableMenu?: unknown
   libCustomMenu?: unknown
   libAddonMenu?: unknown
   libSlashCommander?: unknown
   libZone?: unknown
   CheckOptionalLibraries: (this: void) => void
-  CheckLSM: (this: void) => boolean
+  CheckScrollableMenu: (this: void) => boolean
 
   lookupTableItemSetIdToItemSetCollectionsCategory: { [setId: number]: unknown }
 

@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-scrollable-menu/modules/scrollable-menu-combobox-base-template/scrollable-menu-combobox-base-template.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-scrollable-menu/modules/scrollable-menu-combobox-options/scrollable-menu-combobox-options.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-const-all-classdata/sets-const-all-classdata.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-nav/sets-core-api-nav.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-lifecycle-inventory-contextmenu/sets-core-lifecycle-inventory-contextmenu.module.code.ts"}
@@ -9,8 +11,6 @@
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-item-link/sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-preview/sets-tip-preview.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-geo-debug/zone-geo-debug.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-template/scrollable-menu-combobox-base-template.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-options/scrollable-menu-combobox-options.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-tweaks-refresh-pins/minimap-tweaks-refresh-pins.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

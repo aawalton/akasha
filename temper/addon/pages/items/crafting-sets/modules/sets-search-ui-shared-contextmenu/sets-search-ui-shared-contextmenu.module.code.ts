@@ -15,7 +15,7 @@ const clientLang = lib.clientLang
 const fallbackLang = lib.fallbackLang
 const getLocalizedText = lib.GetLocalizedText
 const sets_showSettingsMenu = lib.ShowSettingsMenu
-const checkLSM = lib.CheckLSM
+const checkLSM = lib.CheckScrollableMenu
 
 import { getSharedSearchUIClass } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
 import { showDropdownContextMenu } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-dropdown-menu/sets-search-ui-shared-dropdown-menu.module.code.ts"
@@ -42,7 +42,7 @@ import {
   topStr,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-shapes-2/sets-search-ui-shapes-2.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-shapes-4/sets-search-ui-shapes-4.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-shapes/sets-search-ui-shapes.type-declaration.d.ts"
@@ -113,7 +113,7 @@ sharedClass.ShowSettingsMenu = function (
           settings.setSearchDLCDropdownSortBy = 1
         }
       },
-      entryType: LSM_ENTRY_TYPE_RADIOBUTTON,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON,
       checked: () => settingsView()?.setSearchDLCDropdownSortBy === 1,
       buttonGroup: 3,
     },
@@ -125,7 +125,7 @@ sharedClass.ShowSettingsMenu = function (
           settings.setSearchDLCDropdownSortBy = 2
         }
       },
-      entryType: LSM_ENTRY_TYPE_RADIOBUTTON,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON,
       checked: () => settingsView()?.setSearchDLCDropdownSortBy === 2,
       buttonGroup: 3,
     },
@@ -190,16 +190,16 @@ sharedClass.ShowSettingsMenu = function (
       label: autoStr,
       callback: () => setDropLocPos(-1),
       enabled: dropLocEnabled,
-      entryType: LSM_ENTRY_TYPE_RADIOBUTTON,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON,
       checked: () => isDropLocPos(-1),
       buttonGroup: 1,
     },
-    { label: "-", entryType: LSM_ENTRY_TYPE_DIVIDER },
+    { label: "-", entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_DIVIDER },
     {
       label: topStr,
       callback: () => setDropLocPos(TOP),
       enabled: dropLocEnabled,
-      entryType: LSM_ENTRY_TYPE_RADIOBUTTON,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON,
       checked: () => isDropLocPos(TOP),
       buttonGroup: 1,
     },
@@ -207,7 +207,7 @@ sharedClass.ShowSettingsMenu = function (
       label: rightStr,
       callback: () => setDropLocPos(RIGHT),
       enabled: dropLocEnabled,
-      entryType: LSM_ENTRY_TYPE_RADIOBUTTON,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON,
       checked: () => isDropLocPos(RIGHT),
       buttonGroup: 1,
     },
@@ -215,7 +215,7 @@ sharedClass.ShowSettingsMenu = function (
       label: bottomStr,
       callback: () => setDropLocPos(BOTTOM),
       enabled: dropLocEnabled,
-      entryType: LSM_ENTRY_TYPE_RADIOBUTTON,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON,
       checked: () => isDropLocPos(BOTTOM),
       buttonGroup: 1,
     },
@@ -223,7 +223,7 @@ sharedClass.ShowSettingsMenu = function (
       label: leftStr,
       callback: () => setDropLocPos(LEFT),
       enabled: dropLocEnabled,
-      entryType: LSM_ENTRY_TYPE_RADIOBUTTON,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON,
       checked: () => isDropLocPos(LEFT),
       buttonGroup: 1,
     },
@@ -231,7 +231,7 @@ sharedClass.ShowSettingsMenu = function (
   AddCustomScrollableMenuEntry(
     setSearchDropLocationTooltipPosStr,
     undefined,
-    LSM_ENTRY_TYPE_SUBMENU,
+    TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_SUBMENU,
     subMenuEntriesTooltipPositions,
     undefined
   )

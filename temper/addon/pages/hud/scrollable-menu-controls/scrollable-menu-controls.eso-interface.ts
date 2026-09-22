@@ -1,0 +1,21 @@
+import type { EsoInterface } from "akasha/code/eso-interface/eso-interface.page-type.types.ts"
+
+export const scrollableMenuControls = {
+  id: "01a06275-c447-7a91-b3a6-e3e6daef8679",
+  type: "page-type/eso-interface",
+  slug: "scrollable-menu-controls",
+  definition: "the row, header and dropdown controls every menu of this library is built from",
+  markup: "xml",
+  loadedAs: "XML/TemperScrollableMenu.xml",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One virtual control is declared for each entry type a menu row may take.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A row handler calls back into the library through the TemperScrollableMenu global.",
+    },
+  ],
+} as const satisfies EsoInterface

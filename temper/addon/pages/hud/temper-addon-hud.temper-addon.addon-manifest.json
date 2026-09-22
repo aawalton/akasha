@@ -17,13 +17,13 @@
     "TemperFCOChangeStuff_SavedVariables",
     "LibChatMessageSettings",
     "LibChatMessageHistory",
-    "AsyncSavedVars"
+    "AsyncSavedVars",
+    "LibScrollableMenu_SavedVars"
   ],
   "additionalLuaFiles": [],
   "dependsOn": [
     "LibAddonMenu-2.0>=43",
-    "LibCustomMenu",
-    "LibScrollableMenu>=020400"
+    "LibCustomMenu"
   ],
   "optionalDependsOn": [
     "LibDebugLogger",
@@ -34,7 +34,7 @@
     "MasterMerchant"
   ],
   "xmlFiles": {
-    "beforeBundle": ["ShifterBox/ShifterBoxTemplate.xml"],
+    "beforeBundle": ["XML/TemperScrollableMenu.xml", "ShifterBox/ShifterBoxTemplate.xml"],
     "afterBundle": ["NextBoss.xml", "XML/FCOCS_virtuals.xml"]
   },
   "assets": [

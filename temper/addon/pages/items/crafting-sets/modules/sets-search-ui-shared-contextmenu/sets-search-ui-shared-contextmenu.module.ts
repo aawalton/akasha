@@ -9,7 +9,7 @@ export const setsSearchUiSharedContextmenu = {
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
-      statement: "These menus open only when LibScrollableMenu is present.",
+      statement: "These menus open only when TemperScrollableMenu is present.",
     },
   ],
 } as const satisfies Module

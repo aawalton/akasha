@@ -9,7 +9,7 @@ export const setsCoreHeader = {
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
-      statement: "LibScrollableMenu is only taken up when its version is 2.43 or later.",
+      statement: "TemperScrollableMenu is only taken up when its version is 2.43 or later.",
     },
     {
       decisionKind: "decision-kind/departure",

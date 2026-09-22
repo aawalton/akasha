@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"eso-world-map-window.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-handler-functions/scrollable-menu-dropdown-handler-functions.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-window.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-submenu-class/scrollable-menu-submenu-class.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-scrollable-menu/modules/scrollable-menu-dropdown-handler-functions/scrollable-menu-dropdown-handler-functions.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-scrollable-menu/modules/scrollable-menu-submenu-class/scrollable-menu-submenu-class.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-window.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-border/minimap-border.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-window.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-focus-zoom/minimap-focus-zoom.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-window.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}

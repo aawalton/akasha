@@ -6,6 +6,7 @@ import "akasha/temper/addon/pages/hud/temper-async/modules/async-main/async-main
 import "akasha/temper/addon/pages/hud/temper-chat-message/modules/chat-message-main/chat-message-main.module.code.ts"
 import "akasha/temper/addon/pages/hud/temper-main-menu/modules/main-menu-entry/main-menu-entry.module.code.ts"
 import "akasha/temper/addon/pages/hud/temper-notification/modules/notification-entry/notification-entry.module.code.ts"
+import "akasha/temper/addon/pages/hud/temper-scrollable-menu/modules/scrollable-menu-main/scrollable-menu-main.module.code.ts"
 
 import { initializeHudBar } from "akasha/temper/addon/pages/hud/modules/hud-addon-bar/hud-addon-bar.module.code.ts"
 import {

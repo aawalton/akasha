@@ -31,7 +31,7 @@ import {
   setMailValue,
 } from "akasha/temper/addon/pages/hud/temper-interface/modules/fco-mail-store/fco-mail-store.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -134,9 +134,15 @@ function onMouseUpAtMailEditBox(
         }
 
         if (addProfilePossible === true) {
-          AddCustomScrollableMenuEntry(profilesText, () => {}, LSM_ENTRY_TYPE_HEADER, undefined, {
-            doNotFilter: true,
-          })
+          AddCustomScrollableMenuEntry(
+            profilesText,
+            () => {},
+            TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER,
+            undefined,
+            {
+              doNotFilter: true,
+            }
+          )
           mailProfilesContextMenusEntriesAtEditFieldsAdded = true
         }
       }
@@ -210,9 +216,15 @@ function onMouseUpAtMailEditBox(
       const lastUsedEntryRaw = locSettings.mailLastUsed[fieldType]
       if (isStringValue(lastUsedEntryRaw) && lastUsedEntryRaw !== "") {
         const lastUsedEntry = lastUsedEntryRaw
-        AddCustomScrollableMenuEntry("Last used", () => {}, LSM_ENTRY_TYPE_HEADER, undefined, {
-          doNotFilter: true,
-        })
+        AddCustomScrollableMenuEntry(
+          "Last used",
+          () => {},
+          TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER,
+          undefined,
+          {
+            doNotFilter: true,
+          }
+        )
         AddCustomScrollableMenuEntry(lastUsedEntry, () => {
           setMailValue(fieldType, lastUsedEntry)
         })
@@ -227,7 +239,7 @@ function onMouseUpAtMailEditBox(
           AddCustomScrollableMenuEntry(
             `Last ${tostring(MAX_LAST_SAVED_ENTRIES)}`,
             () => {},
-            LSM_ENTRY_TYPE_HEADER,
+            TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER,
             undefined,
             { doNotFilter: true }
           )

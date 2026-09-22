@@ -12,7 +12,7 @@ const customContextMenuErrorPrefixStr =
   "[" + MAJOR + "]:registerCustomSetSearchResultsListContextMenu ERROR - addon: %q"
 const customContextMenuSetSearchParamErrorStr =
   customContextMenuErrorPrefixStr +
-  " - parameter 'headerName' must be nil or a String. Parameter 'submenuName' must be nil or a String. Parameter 'submenuEntries' (%s) must be a table of submenu entries (See library 'LibScrollableMenu', and the addon name must be a string. Parameter visibleFunc must be nil or a function with 1st parameter 'rowControl' of the menu parent and 2nd optinonal parameter 'setId', returning a boolean."
+  " - parameter 'headerName' must be nil or a String. Parameter 'submenuName' must be nil or a String. Parameter 'submenuEntries' (%s) must be a table of submenu entries (See library 'TemperScrollableMenu', and the addon name must be a string. Parameter visibleFunc must be nil or a function with 1st parameter 'rowControl' of the menu parent and 2nd optinonal parameter 'setId', returning a boolean."
 const customContextMenuSetSearchExistsAlreadyErrorStr =
   customContextMenuErrorPrefixStr + " was already registered!"
 

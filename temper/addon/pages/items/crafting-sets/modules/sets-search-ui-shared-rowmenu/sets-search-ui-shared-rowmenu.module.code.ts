@@ -23,7 +23,7 @@ const sets_OpenMapOfZoneId = lib.openMapOfZoneId
 const sets_GetWayshrineIds = lib.GetWayshrineIds
 const sets_ShowWayshrineNodeIdOnMap = lib.showWayshrineNodeIdOnMap
 const sets_OpenSetItemCollectionBookForItemLink = lib.OpenSetItemCollectionBookForItemLink
-const checkLSM = lib.CheckLSM
+const checkLSM = lib.CheckScrollableMenu
 
 import { getSharedSearchUIClass } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
 import {
@@ -38,7 +38,7 @@ import {
   wayshrinesStr,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-shapes-2/sets-search-ui-shapes-2.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-shapes-4/sets-search-ui-shapes-4.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-shapes/sets-search-ui-shapes.type-declaration.d.ts"
@@ -90,7 +90,7 @@ sharedClass.ShowRowContextMenu = function (
       ? setTypeTexture + setTypeName
       : (setTypeName ?? ""),
     () => {},
-    LSM_ENTRY_TYPE_NORMAL,
+    TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_NORMAL,
     undefined,
     { enabled: false }
   )
@@ -111,7 +111,7 @@ sharedClass.ShowRowContextMenu = function (
         }
         this.ShowItemLinkPopupTooltip(owningWindow, data)
       },
-      entryType: LSM_ENTRY_TYPE_RADIOBUTTON,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON,
       buttonGroup: 2,
       checked: () => lib.svData?.setSearchPopupTooltipPosition === -1,
     },
@@ -121,7 +121,7 @@ sharedClass.ShowRowContextMenu = function (
     },
     {
       label: getLocalizedText("left"),
-      entryType: LSM_ENTRY_TYPE_RADIOBUTTON,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON,
       buttonGroup: 2,
       checked: () => lib.svData?.setSearchPopupTooltipPosition === LEFT,
       callback: () => {
@@ -134,7 +134,7 @@ sharedClass.ShowRowContextMenu = function (
     },
     {
       label: getLocalizedText("right"),
-      entryType: LSM_ENTRY_TYPE_RADIOBUTTON,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON,
       buttonGroup: 2,
       checked: () => lib.svData?.setSearchPopupTooltipPosition === RIGHT,
       callback: () => {

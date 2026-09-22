@@ -4,26 +4,26 @@ import {
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { asScrollableMenuHandleOpt } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
 import "akasha/temper/addon/type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
-let lsm: { version?: string } | undefined
-let LSM_WAS_CHECKED = false
+let scrollableMenuHandle: { version?: string } | undefined
+let SCROLLABLE_MENU_WAS_CHECKED = false
 
-function checkOptionalLibraryLibScrollableMenu(this: void): undefined {
-  if (!LSM_WAS_CHECKED && lsm === undefined) {
-    lsm = asScrollableMenuHandleOpt(LibScrollableMenu)
-    LSM_WAS_CHECKED = true
-    if (lsm !== undefined && (lsm.version ?? "") >= "2.43") {
-      lib.LSM = lsm
+function checkOptionalScrollableMenu(this: void): undefined {
+  if (!SCROLLABLE_MENU_WAS_CHECKED && scrollableMenuHandle === undefined) {
+    scrollableMenuHandle = asScrollableMenuHandleOpt(TemperScrollableMenu)
+    SCROLLABLE_MENU_WAS_CHECKED = true
+    if (scrollableMenuHandle !== undefined && (scrollableMenuHandle.version ?? "") >= "2.43") {
+      lib.scrollableMenu = scrollableMenuHandle
     }
   }
 }
 
 function checkOptionalLibraries(this: void): undefined {
-  checkOptionalLibraryLibScrollableMenu()
+  checkOptionalScrollableMenu()
   lib.libCustomMenu = LibCustomMenu
   lib.libAddonMenu = LibAddonMenu2
   lib.libSlashCommander = asGlobalTable(globalThis).LibSlashCommander
@@ -31,11 +31,11 @@ function checkOptionalLibraries(this: void): undefined {
 }
 lib.CheckOptionalLibraries = checkOptionalLibraries
 
-function checkLSM(this: void): boolean {
-  checkOptionalLibraryLibScrollableMenu()
-  return lsm !== undefined
+function checkScrollableMenu(this: void): boolean {
+  checkOptionalScrollableMenu()
+  return scrollableMenuHandle !== undefined
 }
-lib.CheckLSM = checkLSM
+lib.CheckScrollableMenu = checkScrollableMenu
 
 lib.lookupTableItemSetIdToItemSetCollectionsCategory = {}
 

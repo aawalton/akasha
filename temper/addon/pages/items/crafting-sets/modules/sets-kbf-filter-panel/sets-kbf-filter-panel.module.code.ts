@@ -25,7 +25,7 @@ import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-shapes-3/se
 
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
-const checkLSM = lib.CheckLSM
+const checkLSM = lib.CheckScrollableMenu
 
 const keyboardClass = getKeyboardSearchUIClass()
 

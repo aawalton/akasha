@@ -11,7 +11,7 @@ import {
 } from "akasha/temper/addon/pages/hud/temper-interface/modules/fco-mail-events/fco-mail-events.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.d.ts"
 
 export function checkboxEntry(
   this: void,
@@ -25,7 +25,7 @@ export function checkboxEntry(
       write(stateVal)
     },
     checked: () => read(),
-    entryType: LSM_ENTRY_TYPE_CHECKBOX,
+    entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_CHECKBOX,
   }
 }
 
@@ -36,9 +36,15 @@ export function getMailSettingsContextMenu(this: void): undefined {
     return
   }
 
-  AddCustomScrollableMenuEntry("Settings", () => {}, LSM_ENTRY_TYPE_HEADER, undefined, {
-    doNotFilter: true,
-  })
+  AddCustomScrollableMenuEntry(
+    "Settings",
+    () => {},
+    TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER,
+    undefined,
+    {
+      doNotFilter: true,
+    }
+  )
 
   const overrideSubmenu = [
     checkboxEntry(
@@ -168,7 +174,7 @@ export function buildAutoLoadAtSubmenu(
       },
       checked: () => at.mailOpen[f.key] === true,
       disabled: () => getMailSettings().autoLoadMailFields[f.key] !== true,
-      entryType: LSM_ENTRY_TYPE_CHECKBOX,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_CHECKBOX,
     }
     submenu[submenu.length] = {
       label: `Auto load last '${f.label}', after mail was send (next mail)`,
@@ -177,7 +183,7 @@ export function buildAutoLoadAtSubmenu(
       },
       checked: () => at.mailWasSend[f.key] === true,
       disabled: () => getMailSettings().autoLoadMailFields[f.key] !== true,
-      entryType: LSM_ENTRY_TYPE_CHECKBOX,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_CHECKBOX,
     }
   }
   return submenu
@@ -196,16 +202,16 @@ export function buildOtherSettingsSubmenu(
     return false
   }
   return [
-    { entryType: LSM_ENTRY_TYPE_HEADER, label: "Menus" },
+    { entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER, label: "Menus" },
     {
       label: "Open submenus to the left",
       callback: (_c: unknown, _n: unknown, _i: unknown, s: boolean) => {
         getMailSettings().mailContextMenuSubmenusForceOpenToTheLeft = s
       },
       checked: () => settings.mailContextMenuSubmenusForceOpenToTheLeft === true,
-      entryType: LSM_ENTRY_TYPE_CHECKBOX,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_CHECKBOX,
     },
-    { entryType: LSM_ENTRY_TYPE_HEADER, label: "Favorites" },
+    { entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER, label: "Favorites" },
     checkboxEntry(
       "Enabled: Favorites 'to' field",
       () => settings.mailFavorites.recipients === true,
@@ -227,7 +233,7 @@ export function buildOtherSettingsSubmenu(
         getMailSettings().mailFavorites.texts = s
       }
     ),
-    { entryType: LSM_ENTRY_TYPE_DIVIDER },
+    { entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_DIVIDER },
     {
       label: "Split favorites by alphabet (create submenus)",
       callback: (_c: unknown, _n: unknown, _i: unknown, s: boolean) => {
@@ -235,7 +241,7 @@ export function buildOtherSettingsSubmenu(
       },
       checked: () => settings.splitMailFavoritesIntoAlphabet === true,
       disabled: () => !isAnyFavoriteEnabled(),
-      entryType: LSM_ENTRY_TYPE_CHECKBOX,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_CHECKBOX,
     },
     {
       label: "Show favorites context menu at editbox (recipient/subject/text)",
@@ -245,9 +251,9 @@ export function buildOtherSettingsSubmenu(
       },
       checked: () => settings.mailFavoritesContextMenusAtEditFields === true,
       disabled: () => !isAnyFavoriteEnabled(),
-      entryType: LSM_ENTRY_TYPE_CHECKBOX,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_CHECKBOX,
     },
-    { entryType: LSM_ENTRY_TYPE_HEADER, label: "Last used" },
+    { entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER, label: "Last used" },
     {
       label: "Show last used context menu at editbox (recipient/subject/text)",
       callback: (_c: unknown, _n: unknown, _i: unknown, s: boolean) => {
@@ -256,9 +262,9 @@ export function buildOtherSettingsSubmenu(
       },
       checked: () => settings.mailLastUsedContextMenusAtEditFields === true,
       disabled: () => !isAnyFavoriteEnabled(),
-      entryType: LSM_ENTRY_TYPE_CHECKBOX,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_CHECKBOX,
     },
-    { entryType: LSM_ENTRY_TYPE_HEADER, label: "Profiles" },
+    { entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER, label: "Profiles" },
     {
       label: "Use mail profiles context menus at editbox (recipient)",
       callback: (_c: unknown, _n: unknown, _i: unknown, s: boolean) => {
@@ -267,7 +273,7 @@ export function buildOtherSettingsSubmenu(
       },
       checked: () => settings.enableMailProfiles === true,
       disabled: () => false,
-      entryType: LSM_ENTRY_TYPE_CHECKBOX,
+      entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_CHECKBOX,
     },
   ]
 }

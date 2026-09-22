@@ -9,7 +9,7 @@ import {
   asSearchUiControl,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-constant-shapes/sets-constant-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
@@ -26,7 +26,7 @@ const WM = WINDOW_MANAGER
 const MAJOR = "TemperItemsCraftingSets"
 const libPrefix = lib.prefix
 
-const checkLSM = lib.CheckLSM
+const checkLSM = lib.CheckScrollableMenu
 
 type ButtonData = {
   parentControl?: Control
@@ -146,7 +146,7 @@ function addUIButtons(this: void): undefined {
       const localization = asPresent(asStrRecordOpt(lib.localization[lib.clientLang]))
 
       const moreOptionsButtonTooltip =
-        lib.LSM !== undefined
+        lib.scrollableMenu !== undefined
           ? tostring(localization.moreOptions)
           : tostring(localization.currentZone)
       const buttonDataOpenCurrentParentZone: ButtonData = {

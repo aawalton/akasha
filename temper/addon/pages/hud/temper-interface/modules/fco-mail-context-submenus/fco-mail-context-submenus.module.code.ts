@@ -15,7 +15,7 @@ import {
   setMailValue,
 } from "akasha/temper/addon/pages/hud/temper-interface/modules/fco-mail-store/fco-mail-store.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.d.ts"
 
 export function checkMaxFavoritesAndCreateSubMenus(
   this: void,
@@ -31,9 +31,15 @@ export function checkMaxFavoritesAndCreateSubMenus(
   const numFavorites = favEntries.length
 
   if (numFavorites > 0 || !skipAdd) {
-    AddCustomScrollableMenuEntry(favoriteText, () => {}, LSM_ENTRY_TYPE_HEADER, undefined, {
-      doNotFilter: true,
-    })
+    AddCustomScrollableMenuEntry(
+      favoriteText,
+      () => {},
+      TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER,
+      undefined,
+      {
+        doNotFilter: true,
+      }
+    )
     wasSomethingAdded = true
   }
 
@@ -82,7 +88,7 @@ export function checkMaxFavoritesAndCreateSubMenus(
               },
             },
             {
-              entryType: LSM_ENTRY_TYPE_DIVIDER,
+              entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_DIVIDER,
             },
             {
               label: deleteFavoriteString(shortText),
@@ -130,7 +136,7 @@ export function checkMaxFavoritesAndCreateSubMenus(
             },
           },
           {
-            entryType: LSM_ENTRY_TYPE_DIVIDER,
+            entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_DIVIDER,
           },
           {
             label: deleteFavoriteString(shortText),
@@ -171,9 +177,15 @@ export function checkMaxProfilesAndCreateSubMenus(this: void, noAdd?: boolean): 
   const numProfiles = profileEntries.length
 
   if (numProfiles > 0 && !skipAdd) {
-    AddCustomScrollableMenuEntry(profilesText, () => {}, LSM_ENTRY_TYPE_HEADER, undefined, {
-      doNotFilter: true,
-    })
+    AddCustomScrollableMenuEntry(
+      profilesText,
+      () => {},
+      TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER,
+      undefined,
+      {
+        doNotFilter: true,
+      }
+    )
     wasSomethingAdded = true
   }
 
@@ -231,7 +243,7 @@ export function checkMaxProfilesAndCreateSubMenus(this: void, noAdd?: boolean): 
         }
       }
       profileEntryDataSubmenu[profileEntryDataSubmenu.length] = {
-        entryType: LSM_ENTRY_TYPE_DIVIDER,
+        entryType: TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_DIVIDER,
       }
       profileEntryDataSubmenu[profileEntryDataSubmenu.length] = {
         label: deleteProfileString(shortText),

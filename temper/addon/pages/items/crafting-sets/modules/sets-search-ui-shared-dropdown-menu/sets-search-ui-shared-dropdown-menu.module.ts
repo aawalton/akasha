@@ -9,7 +9,7 @@ export const setsSearchUiSharedDropdownMenu = {
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
-      statement: "This menu opens only when LibScrollableMenu is present.",
+      statement: "This menu opens only when TemperScrollableMenu is present.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -508,4 +508,13 @@ export const CONSOLIDATION_MIGRATIONS = [
       targetFileBase: "TemperHud",
     },
   },
+  {
+    mode: "append",
+    runFor: "TemperHud",
+    spec: {
+      absorbedFileBase: "LibScrollableMenu",
+      absorbedGlobal: "LibScrollableMenu_SavedVars",
+      targetFileBase: "TemperHud",
+    },
+  },
 ] as const satisfies readonly ConsolidationMigration[]

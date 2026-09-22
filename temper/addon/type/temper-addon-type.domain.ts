@@ -28,7 +28,7 @@ export const temperAddonType = {
     "type-declaration/temper-notification-global",
     "type-declaration/lib-qr-code",
     "type-declaration/lib-radial-menu",
-    "type-declaration/lib-scrollable-menu",
+    "type-declaration/temper-scrollable-menu-global",
     "type-declaration/sets-api",
     "type-declaration/lib-undaunted-pledges",
     "type-declaration/master-merchant",
