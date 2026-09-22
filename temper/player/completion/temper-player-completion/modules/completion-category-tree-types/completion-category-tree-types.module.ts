@@ -4,7 +4,7 @@ export const completionCategoryTreeTypes = {
   id: "01a06103-0616-7f27-96d8-71e47e9fde8f",
   type: "page-type/module",
   slug: "completion-category-tree-types",
-  definition: "the shape of a node in the completion category tree, and the tabs it hangs under",
+  definition: "the shape of a node in the completion category tree, and its tabs",
   code: "ts",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const build = {
   type: "page-type/text-property",
   slug: "build",
   propertySlug: "build",
-  definition: "the build a version was taken of",
+  definition: "a version's build",
   maxLength: 100,
   nameFormat: null,
   decisions: [

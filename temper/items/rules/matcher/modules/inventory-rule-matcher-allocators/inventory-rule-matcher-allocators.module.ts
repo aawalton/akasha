@@ -4,7 +4,7 @@ export const inventoryRuleMatcherAllocators = {
   id: "01a06151-370c-7272-8296-63a93f40a850",
   type: "page-type/module",
   slug: "inventory-rule-matcher-allocators",
-  definition: "how many of a matched item a rule takes, and what the allocation is charged against",
+  definition: "how many of a matched item a rule takes, and what bears the charge",
   code: "ts",
   test: "ts",
   decisions: [

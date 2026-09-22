@@ -4,7 +4,7 @@ export const temperMetricTree = {
   id: "01a05fcb-d656-7ea2-a494-28d13d70536e",
   type: "page-type/page-type",
   slug: "temper-metric-tree",
-  definition: "a node of the tree of numbers a build is measured by",
+  definition: "a node of the tree of numbers measuring a build",
   extends: ["page-type/temper-progress-thing"],
   parts: [
     "boolean-property/include-in-child-aggregates",

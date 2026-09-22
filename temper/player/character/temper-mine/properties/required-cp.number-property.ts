@@ -5,7 +5,7 @@ export const requiredCp = {
   type: "page-type/number-property",
   slug: "required-cp",
   propertySlug: "required-cp",
-  definition: "the champion rank an item asks for",
+  definition: "the champion rank an item needs",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

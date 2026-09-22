@@ -5,7 +5,7 @@ export const buyerName = {
   type: "page-type/text-property",
   slug: "buyer-name",
   propertySlug: "buyer-name",
-  definition: "the account an item was bought by",
+  definition: "an item's buying account",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

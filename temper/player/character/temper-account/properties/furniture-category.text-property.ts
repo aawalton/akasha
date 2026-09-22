@@ -5,7 +5,7 @@ export const furnitureCategory = {
   type: "page-type/text-property",
   slug: "furniture-category",
   propertySlug: "furniture-category",
-  definition: "the room a furnishing is filed under",
+  definition: "a furnishing's room",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
