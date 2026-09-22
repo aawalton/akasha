@@ -38,6 +38,11 @@ export const dallaResourceManagement = {
         "The deploy command records one cost row against the page it put up and states neither ceiling, so a deploy is measured and never judged. A dry run records nothing. A deploy reaches a machine rather than the repository, so a run past a ceiling has already left its work on that machine, and refusing what the run answered undoes none of it.",
     },
     {
+      statement: "Every command an agent runs has a processor and a memory ceiling of its own.",
+      workingMemory:
+        "Calling records one cost row against the command's page and states neither ceiling. The command process is what a change runs inside, so a command's peak already counts the change's, and holding both to a ceiling weighs the same bytes twice. The commands that run long are the ones carrying a change.",
+    },
+    {
       statement:
         "`email-address-is-well-formed` runs under a processor ceiling matched to its cost.",
     },
@@ -101,11 +106,6 @@ export const dallaResourceManagement = {
         "`check-reaches-a-path-through-the-index` runs under a processor ceiling matched to its cost.",
     },
     { statement: "`typecheck` runs under a processor ceiling matched to its cost." },
-    {
-      statement: "Every command an agent runs has a processor and a memory ceiling of its own.",
-      workingMemory:
-        "Calling records one cost row against the command's page and states neither ceiling. The command process is what a change runs inside, so a command's peak already counts the change's, and holding both to a ceiling weighs the same bytes twice. The commands that run long are the ones carrying a change.",
-    },
     {
       statement:
         "Every bash call that is none of these has a processor and a memory ceiling of its own.",
