@@ -5,7 +5,7 @@ export const handle = {
   type: "page-type/text-property",
   slug: "handle",
   propertySlug: "handle",
-  definition: "the account name a game was played under",
+  definition: "a game's account name",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

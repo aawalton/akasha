@@ -4,8 +4,7 @@ export const atlasHandoverSite = {
   id: "01a0bb46-11c3-76f3-84e4-f735a56d061d",
   type: "page-type/module",
   slug: "atlas-handover-site",
-  definition:
-    "what Atlas is called in a handover, where Atlas answers, and the key Atlas signs with",
+  definition: "what Atlas is called in a handover, where Atlas answers, and Atlas's signing key",
   code: "ts",
   decisions: [
     {

@@ -5,6 +5,6 @@ export const workTreeDrawn = {
   type: "page-type/module",
   slug: "work-tree-drawn",
   definition:
-    "each initiative rendered for drawing from the liveliest state a seat working it is in",
+    "each initiative rendered for drawing from the liveliest state among the seats working it",
   code: "ts",
 } as const satisfies Module

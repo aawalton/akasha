@@ -4,7 +4,7 @@ export const accountPicker = {
   id: "01a063af-ee63-7fa9-bca2-74c7c61561a7",
   type: "page-type/module",
   slug: "account-picker",
-  definition: "the account a gateway sends the next request under",
+  definition: "the account for a gateway's next request",
   code: "ts",
   test: "ts",
   decisions: [

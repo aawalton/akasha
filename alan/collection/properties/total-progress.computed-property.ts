@@ -5,7 +5,7 @@ export const totalProgress = {
   type: "page-type/computed-property",
   slug: "total-progress",
   propertySlug: "total-progress",
-  definition: "how much of the collection and everything it holds has been worked through",
+  definition: "how much of the collection and everything it holds is done",
   holds: "number",
   code: "ts",
   types: "ts",

@@ -4,7 +4,7 @@ export const supervisorArgs = {
   id: "01a0683e-3dbe-700a-81ce-5968abd14734",
   type: "page-type/module",
   slug: "supervisor-args",
-  definition: "the command line a supervisor is started with and restarts itself with",
+  definition: "the command line starting a supervisor and restarting it",
   code: "ts",
   test: "ts",
   decisions: [

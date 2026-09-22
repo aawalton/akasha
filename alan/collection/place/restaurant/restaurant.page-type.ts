@@ -4,7 +4,7 @@ export const restaurant = {
   id: "01a06807-be66-700b-be52-bd042c86fc17",
   type: "page-type/page-type",
   slug: "restaurant",
-  definition: "a place Alan eats at",
+  definition: "a place where Alan eats",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "restaurant" },
     { partOfSpeech: "part-of-speech/noun", spelling: "restaurants" },

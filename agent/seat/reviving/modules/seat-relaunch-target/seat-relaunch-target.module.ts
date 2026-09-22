@@ -4,7 +4,7 @@ export const seatRelaunchTarget = {
   id: "01a0686d-9d5e-7010-afb5-aba89bff0cd0",
   type: "page-type/module",
   slug: "seat-relaunch-target",
-  definition: "the name, account, start mode, presence and session a seat is put back up from",
+  definition: "the name, account, start mode, presence and session putting a seat back up",
   code: "ts",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const powertrainOptions = {
   type: "page-type/text-property",
   slug: "powertrain-options",
   propertySlug: "powertrain-options",
-  definition: "the kinds of powertrain the model is sold with",
+  definition: "the kinds of powertrain sold with the model",
   maxLength: 20,
   nameFormat: null,
   types: "ts",

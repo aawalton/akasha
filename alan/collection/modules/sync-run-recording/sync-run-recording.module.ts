@@ -4,7 +4,7 @@ export const syncRunRecording = {
   id: "01a0686c-fd2c-7002-a269-4f47fac2fd46",
   type: "page-type/module",
   slug: "sync-run-recording",
-  definition: "a sync run opened, settled and recorded against the sync it ran for",
+  definition: "a sync run opened, settled and recorded against its own sync",
   code: "ts",
   decisions: [
     {

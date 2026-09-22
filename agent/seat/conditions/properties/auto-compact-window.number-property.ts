@@ -5,7 +5,7 @@ export const autoCompactWindow = {
   type: "page-type/number-property",
   slug: "auto-compact-window",
   propertySlug: "auto-compact-window",
-  definition: "the token count a seat's agent is compacted at",
+  definition: "the token count compacting a seat's agent",
   max: null,
   decisions: [
     {
