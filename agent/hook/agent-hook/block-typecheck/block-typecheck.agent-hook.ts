@@ -49,7 +49,7 @@ export const blockTypecheck = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "A `tsc` run at the repository root compiles no file and exits 0.",
+      statement: "A `tsc` run at the repository root compiles no file and exits 2.",
     },
     {
       decisionKind: "decision-kind/constraint",
