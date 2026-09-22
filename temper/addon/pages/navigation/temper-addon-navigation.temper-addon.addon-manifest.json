@@ -23,9 +23,7 @@
     "LibAddonMenu-2.0>=41",
     "LibGPS>=73",
     "LibDebugLogger>=274",
-    "LibSavedVars>=60007",
     "LibNotification>=15",
-    "LibTreasure>=24",
     "LibMapData>=121",
     "LibAsync>=30001"
   ],
