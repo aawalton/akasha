@@ -83,7 +83,6 @@ import {
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import type { Source } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { todayYYYYMMDD } from "akasha/text/writing/modules/today/today.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const ARTIST = "artist"
 

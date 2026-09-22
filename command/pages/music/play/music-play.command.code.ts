@@ -27,7 +27,6 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { musicPlay as page } from "akasha/command/pages/music/play/music-play.command.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const NAMED = [artistArgument, deviceIdArgument, json, queryArgument, uriArgument]
 

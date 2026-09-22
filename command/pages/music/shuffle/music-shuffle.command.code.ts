@@ -17,7 +17,6 @@ import {
   whereOf,
 } from "akasha/command/pages/music/modules/device-option/device-option.module.code.ts"
 import { musicShuffle as page } from "akasha/command/pages/music/shuffle/music-shuffle.command.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const NAMED = [deviceIdArgument, json, stateArgument]
 

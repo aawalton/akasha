@@ -20,7 +20,6 @@ import {
   whereOf,
 } from "akasha/command/pages/music/modules/device-option/device-option.module.code.ts"
 import { musicRepeat as page } from "akasha/command/pages/music/repeat/music-repeat.command.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const NAMED = [deviceIdArgument, json, stateArgument]
 
