@@ -4,8 +4,8 @@ export const howWeSplitTheDayAndTheNight = {
   id: "01a0c5e9-165b-7063-a1a9-f1b81eb4939c",
   type: "page-type/all-about-alan-topic",
   slug: "how-we-split-the-day-and-the-night",
-  title: "Blank Check At Night And Affordability By Day",
-  definition: "one policy per window in the marriage, split by where the value is",
+  title: "How We Split The Day And The Night",
+  definition: "the policy each window of the marriage has run under",
   parents: [
     "all-about-alan-topic/alternating-instead-of-moderating",
     "all-about-alan-topic/blank-check-mode-and-recovery-mode",
