@@ -1,13 +1,13 @@
 <GuiXml>
     <Controls>
-        <Texture name="LibHistoireLinkedIconTemplate"
+        <Texture name="TemperSalesHistoryLinkedIconTemplate"
             textureFile="TemperSales/image/unlinked_down.dds" hidden="true" mouseEnabled="true"
             virtual="true">
             <Anchor point="BOTTOMRIGHT" offsetX="-40" offsetY="10" />
             <Dimensions x="32" y="32" />
         </Texture>
 
-        <Button name="LibHistoireGuildHistoryStatusWindowToggleButtonTemplate"
+        <Button name="TemperSalesHistoryStatusWindowToggleButtonTemplate"
             mouseOverBlendMode="ADD" inherits="ZO_ButtonBehaviorClickSound" virtual="true">
             <Dimensions x="32" y="32" />
             <Anchor point="BOTTOMLEFT" offsetX="5" offsetY="10" />
@@ -16,7 +16,7 @@
                 mouseOver="TemperSales/image/histy_over.dds" />
         </Button>
 
-        <Control name="LibHistoireGuildHistoryStatusGuildRowTemplate" mouseEnabled="true"
+        <Control name="TemperSalesHistoryStatusGuildRowTemplate" mouseEnabled="true"
             tier="MEDIUM" layer="CONTROLS" virtual="true">
             <Dimensions y="52" />
 
@@ -55,8 +55,8 @@
             </Controls>
         </Control>
 
-        <Control name="LibHistoireGuildHistoryStatusCategoryRowTemplate"
-            inherits="LibHistoireGuildHistoryStatusGuildRowTemplate" virtual="true">
+        <Control name="TemperSalesHistoryStatusCategoryRowTemplate"
+            inherits="TemperSalesHistoryStatusGuildRowTemplate" virtual="true">
             <Controls>
                 <Button name="$(parent)MenuButton" mouseOverBlendMode="ADD"
                     inherits="ZO_ButtonBehaviorClickSound">
@@ -69,7 +69,7 @@
             </Controls>
         </Control>
 
-        <TopLevelControl name="LibHistoireGuildHistoryStatusWindow" hidden="true"
+        <TopLevelControl name="TemperSalesHistoryStatusWindow" hidden="true"
             mouseEnabled="true" clampedToScreen="true">
             <Dimensions x="540" y="440" />
             <Controls>
@@ -138,7 +138,7 @@
             </Controls>
         </TopLevelControl>
 
-        <Control name="LibHistoireGuildHistoryStatusBarTemplate" virtual="true">
+        <Control name="TemperSalesHistoryStatusBarTemplate" virtual="true">
             <Controls>
                 <Texture name="$(parent)Bg"
                     textureFile="EsoUI/Art/Miscellaneous/listItem_backdrop.dds">
@@ -167,7 +167,7 @@
             </Controls>
         </Control>
 
-        <Control name="LibHistoire_GuildHistoryGapRow_Shared" virtual="true" mouseEnabled="true">
+        <Control name="TemperSalesHistory_GapRow_Shared" virtual="true" mouseEnabled="true">
             <Controls>
                 <Texture name="$(parent)Bg"
                     textureFile="EsoUI/Art/Miscellaneous/listItem_backdrop.dds">
@@ -182,8 +182,8 @@
             </Controls>
         </Control>
 
-        <Control name="LibHistoire_GuildHistoryDisabledGapRow_Shared"
-            inherits="LibHistoire_GuildHistoryGapRow_Shared" virtual="true">
+        <Control name="TemperSalesHistory_DisabledGapRow_Shared"
+            inherits="TemperSalesHistory_GapRow_Shared" virtual="true">
             <Controls>
                 <Label name="$(parent)Label" override="true"
                     text="Guild history was disabled by ZOS. Missing data is currently unavailable"
@@ -192,26 +192,26 @@
             </Controls>
         </Control>
 
-        <Control name="LibHistoire_GuildHistoryGapRow_Keyboard"
-            inherits="LibHistoire_GuildHistoryGapRow_Shared" virtual="true">
+        <Control name="TemperSalesHistory_GapRow_Keyboard"
+            inherits="TemperSalesHistory_GapRow_Shared" virtual="true">
             <Dimensions y="ZO_GUILD_HISTORY_KEYBOARD_ROW_HEIGHT" />
         </Control>
 
-        <Control name="LibHistoire_GuildHistoryGapRow_Gamepad"
-            inherits="LibHistoire_GuildHistoryGapRow_Shared" virtual="true">
+        <Control name="TemperSalesHistory_GapRow_Gamepad"
+            inherits="TemperSalesHistory_GapRow_Shared" virtual="true">
             <Dimensions y="ZO_GUILD_HISTORY_GAMEPAD_ROW_HEIGHT" />
             <Controls>
                 <Label name="$(parent)Label" override="true" font="ZoFontGamepadCondensed34" />
             </Controls>
         </Control>
 
-        <Control name="LibHistoire_GuildHistoryDisabledGapRow_Keyboard"
-            inherits="LibHistoire_GuildHistoryDisabledGapRow_Shared" virtual="true">
+        <Control name="TemperSalesHistory_DisabledGapRow_Keyboard"
+            inherits="TemperSalesHistory_DisabledGapRow_Shared" virtual="true">
             <Dimensions y="ZO_GUILD_HISTORY_KEYBOARD_ROW_HEIGHT" />
         </Control>
 
-        <Control name="LibHistoire_GuildHistoryDisabledGapRow_Gamepad"
-            inherits="LibHistoire_GuildHistoryDisabledGapRow_Shared" virtual="true">
+        <Control name="TemperSalesHistory_DisabledGapRow_Gamepad"
+            inherits="TemperSalesHistory_DisabledGapRow_Shared" virtual="true">
             <Dimensions y="ZO_GUILD_HISTORY_GAMEPAD_ROW_HEIGHT" />
             <Controls>
                 <Label name="$(parent)Label" override="true" font="ZoFontGamepadCondensed34" />

@@ -1,9 +1,9 @@
 import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
 
-export const libHistoireControls = {
+export const historyControls = {
   id: "01a06197-4ca1-7018-b88f-400bddff3a40",
   type: "page-type/type-declaration",
-  slug: "lib-histoire-controls",
+  slug: "history-controls",
   definition: "the controls the guild history status window's own markup leaves in reach",
   d: "ts",
 } as const satisfies TypeDeclaration

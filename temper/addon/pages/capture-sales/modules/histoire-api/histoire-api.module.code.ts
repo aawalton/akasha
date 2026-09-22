@@ -9,7 +9,7 @@ import {
   internal,
   lib,
 } from "akasha/temper/addon/pages/capture-sales/modules/histoire-state/histoire-state.module.code.ts"
-import type { LibHistoireGlobal } from "akasha/temper/addon/pages/capture-sales/modules/histoire-types/histoire-types.module.code.ts"
+import type { HistoryHandle } from "akasha/temper/addon/pages/capture-sales/modules/histoire-types/histoire-types.module.code.ts"
 
 const logger = internal.logger
 
@@ -43,18 +43,15 @@ function asHistoryCacheCategoryLookupRef(value: unknown): HistoryCacheCategoryLo
   return value as HistoryCacheCategoryLookupRef
 }
 
-lib.IsReady = function (this: LibHistoireGlobal): boolean {
+lib.IsReady = function (this: HistoryHandle): boolean {
   return internal.initialized === true
 }
 
-lib.IsGuildHistorySystemDisabled = function (this: LibHistoireGlobal): boolean {
+lib.IsGuildHistorySystemDisabled = function (this: HistoryHandle): boolean {
   return internal.IsGuildHistorySystemDisabled()
 }
 
-lib.OnReady = function (
-  this: LibHistoireGlobal,
-  callback: (lib: LibHistoireGlobal) => void
-): undefined {
+lib.OnReady = function (this: HistoryHandle, callback: (lib: HistoryHandle) => void): undefined {
   if (internal.initialized === true) {
     callback(this)
   } else {
@@ -79,16 +76,16 @@ const CALLBACKS: Record<string, string> = {
 
 lib.callback = CALLBACKS
 
-lib.RegisterCallback = function (this: LibHistoireGlobal, ...args: unknown[]): undefined {
+lib.RegisterCallback = function (this: HistoryHandle, ...args: unknown[]): undefined {
   internal.RegisterCallback(...args)
 }
 
-lib.UnregisterCallback = function (this: LibHistoireGlobal, ...args: unknown[]): undefined {
+lib.UnregisterCallback = function (this: HistoryHandle, ...args: unknown[]): undefined {
   internal.UnregisterCallback(...args)
 }
 
 lib.CreateGuildHistoryListener = function (
-  this: LibHistoireGlobal,
+  this: HistoryHandle,
   guildId: number,
   category: number
 ): unknown {
@@ -108,7 +105,7 @@ lib.CreateGuildHistoryListener = function (
 }
 
 lib.CreateGuildHistoryProcessor = function (
-  this: LibHistoireGlobal,
+  this: HistoryHandle,
   guildId: number,
   category: number,
   addonName: string
@@ -128,7 +125,7 @@ lib.CreateGuildHistoryProcessor = function (
 }
 
 lib.ConvertArtificialLegacyId64ToEventId = function (
-  this: LibHistoireGlobal,
+  this: HistoryHandle,
   id64: string
 ): number | undefined {
   const convert = internal.ConvertLegacyId64ToEventId

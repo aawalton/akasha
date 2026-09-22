@@ -4,7 +4,7 @@ import {
   internal,
   lib,
 } from "akasha/temper/addon/pages/capture-sales/modules/histoire-state/histoire-state.module.code.ts"
-import type { LibHistoireInternal } from "akasha/temper/addon/pages/capture-sales/modules/histoire-types/histoire-types.module.code.ts"
+import type { HistoryInternal } from "akasha/temper/addon/pages/capture-sales/modules/histoire-types/histoire-types.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/capture-sales/modules/sales-addon-name/sales-addon-name.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
@@ -103,7 +103,7 @@ interface SelectedCategoryCacheRef {
   GetGuildId: (this: SelectedCategoryCacheRef) => number
 }
 
-internal.InitializeCaches = function (this: LibHistoireInternal): undefined {
+internal.InitializeCaches = function (this: HistoryInternal): undefined {
   const logger = this.logger
   logger.Verbose("Initializing Caches")
   const guildHistoryAdapter = asGuildHistoryAdapterRef(internal.class.GuildHistoryAdapter)
@@ -154,7 +154,7 @@ internal.InitializeCaches = function (this: LibHistoireInternal): undefined {
   logger.Verbose("Caches initialized")
 }
 
-internal.Initialize = function (this: LibHistoireInternal): undefined {
+internal.Initialize = function (this: HistoryInternal): undefined {
   const logger = this.logger
   logger.Info("Begin pre-initialization")
   let namespace: string
@@ -190,7 +190,7 @@ internal.Initialize = function (this: LibHistoireInternal): undefined {
   logger.Info("Pre-initialization complete")
 }
 
-internal.CreateAsyncTask = function (this: LibHistoireInternal): unknown {
+internal.CreateAsyncTask = function (this: HistoryInternal): unknown {
   const taskId = this.nextTaskId != null ? this.nextTaskId : 1
   this.nextTaskId = taskId + 1
   const [lib] = assert(g.LibAsync, "LibAsync wasn't found")
@@ -198,7 +198,7 @@ internal.CreateAsyncTask = function (this: LibHistoireInternal): unknown {
   return task
 }
 
-internal.IsGuildStatusVisible = function (this: LibHistoireInternal, guildId: number): boolean {
+internal.IsGuildStatusVisible = function (this: HistoryInternal, guildId: number): boolean {
   const adapter =
     this.historyAdapter != null ? asGuildHistoryAdapterInstanceRef(this.historyAdapter) : undefined
   const statusWindow =
@@ -226,7 +226,7 @@ const ESTIMATED_GUILD_HISTORY_RE_ENABLE_TIME: Record<string, number> = {
   "PS4live-eu": ESTIMATED_GUILD_HISTORY_RE_ENABLE_TIME_CONSOLE,
 }
 
-internal.IsGuildHistorySystemDisabled = function (this: LibHistoireInternal): boolean {
+internal.IsGuildHistorySystemDisabled = function (this: HistoryInternal): boolean {
   const world = GetWorldName()
   const reenableTime = ESTIMATED_GUILD_HISTORY_RE_ENABLE_TIME[world]
   if (reenableTime == null) {

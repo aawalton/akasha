@@ -43,7 +43,7 @@ function asCategoryRowCacheRef(value: unknown): CategoryRowCacheRef {
 function requireDataList(listControl: Control): ZoScrollListDataEntry<RowEntry>[] {
   const dataList = ZO_ScrollList_GetDataList<RowEntry>(listControl)
   if (dataList == null) {
-    error("LibHistoire: scroll list has no data list")
+    error("TemperSales: scroll list has no data list")
   }
   return dataList
 }
@@ -125,9 +125,9 @@ GuildHistoryStatusWindow.InitializeButtons = function (this) {
   this.optionsButton = optionsButton
 
   const toggleWindowButton = WINDOW_MANAGER.CreateControlFromVirtual<ButtonControl>(
-    "LibHistoireGuildHistoryStatusWindowToggleButton",
+    "TemperSalesHistoryStatusWindowToggleButton",
     ZO_GuildHistory_Keyboard_TL,
-    "LibHistoireGuildHistoryStatusWindowToggleButtonTemplate"
+    "TemperSalesHistoryStatusWindowToggleButtonTemplate"
   )
   toggleWindowButton.SetHandler("OnClicked", () => {
     if (this.IsEnabled() === true) {
@@ -158,13 +158,9 @@ GuildHistoryStatusWindow.InitializeGuildList = function (this, listControl) {
     this.historyAdapter.SelectGuildByIndex(entry.value)
   }
 
-  this.InitializeBaseList(
-    listControl,
-    "LibHistoireGuildHistoryStatusGuildRowTemplate",
-    (rowControl) => {
-      initializeClickHandler(rowControl, onSelectRow)
-    }
-  )
+  this.InitializeBaseList(listControl, "TemperSalesHistoryStatusGuildRowTemplate", (rowControl) => {
+    initializeClickHandler(rowControl, onSelectRow)
+  })
 
   this.emptyGuildListRow = CreateControlFromVirtual(
     "$(parent)EmptyRow",
@@ -189,7 +185,7 @@ GuildHistoryStatusWindow.InitializeCategoryList = function (this, listControl) {
 
   this.InitializeBaseList(
     listControl,
-    "LibHistoireGuildHistoryStatusCategoryRowTemplate",
+    "TemperSalesHistoryStatusCategoryRowTemplate",
     (rowControl) => {
       initializeClickHandler(rowControl, onSelectRow)
 
@@ -255,7 +251,7 @@ GuildHistoryStatusWindow.InitializeCategoryList = function (this, listControl) {
             ShowMenu(menuButton)
           }
         },
-        "LibHistoire_Click"
+        "TemperSalesHistory_Click"
       )
       rowControl.menuButton = menuButton
     },

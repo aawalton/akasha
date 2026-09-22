@@ -69,12 +69,12 @@ GuildHistoryAdapter.InitializeGapRows = function (this) {
     ) {
       if (rowTemplate === "ZO_GuildHistoryRow_Keyboard") {
         rowTemplate = systemDisabled
-          ? "LibHistoire_GuildHistoryDisabledGapRow_Keyboard"
-          : "LibHistoire_GuildHistoryGapRow_Keyboard"
+          ? "TemperSalesHistory_DisabledGapRow_Keyboard"
+          : "TemperSalesHistory_GapRow_Keyboard"
       } else if (rowTemplate === "ZO_GuildHistoryRow_Gamepad") {
         rowTemplate = systemDisabled
-          ? "LibHistoire_GuildHistoryDisabledGapRow_Gamepad"
-          : "LibHistoire_GuildHistoryGapRow_Gamepad"
+          ? "TemperSalesHistory_DisabledGapRow_Gamepad"
+          : "TemperSalesHistory_GapRow_Gamepad"
       } else {
         return
       }

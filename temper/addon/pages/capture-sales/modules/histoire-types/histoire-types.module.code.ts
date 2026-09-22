@@ -18,7 +18,7 @@ export interface Logger {
 
 export type GradientPair = readonly [unknown, unknown]
 
-export interface LibHistoireInternal {
+export interface HistoryInternal {
   callbackObject: CallbackObject
   callback: Record<string, string>
   class: ClassRegistry
@@ -62,42 +62,35 @@ export interface LibHistoireInternal {
   ShowClearCacheDialog?: (this: void, ...args: unknown[]) => void
   ShowResetManagedRangeDialog?: (this: void, ...args: unknown[]) => void
 
-  FireCallbacks: (this: LibHistoireInternal, ...args: unknown[]) => void
-  RegisterCallback: (this: LibHistoireInternal, ...args: unknown[]) => void
-  UnregisterCallback: (this: LibHistoireInternal, ...args: unknown[]) => void
-  Initialize: (this: LibHistoireInternal) => void
-  InitializeCaches: (this: LibHistoireInternal) => void
-  InitializeDialogs: (this: LibHistoireInternal) => void
-  InitializeQuickNavigation: (this: LibHistoireInternal) => void
-  InitializeSaveData: (this: LibHistoireInternal) => void
-  InitializeSettingsMenu: (this: LibHistoireInternal) => void
-  CreateAsyncTask: (this: LibHistoireInternal) => unknown
-  IsGuildStatusVisible: (this: LibHistoireInternal, guildId: number) => boolean
-  IsGuildHistorySystemDisabled: (this: LibHistoireInternal) => boolean
+  FireCallbacks: (this: HistoryInternal, ...args: unknown[]) => void
+  RegisterCallback: (this: HistoryInternal, ...args: unknown[]) => void
+  UnregisterCallback: (this: HistoryInternal, ...args: unknown[]) => void
+  Initialize: (this: HistoryInternal) => void
+  InitializeCaches: (this: HistoryInternal) => void
+  InitializeDialogs: (this: HistoryInternal) => void
+  InitializeQuickNavigation: (this: HistoryInternal) => void
+  InitializeSaveData: (this: HistoryInternal) => void
+  InitializeSettingsMenu: (this: HistoryInternal) => void
+  CreateAsyncTask: (this: HistoryInternal) => unknown
+  IsGuildStatusVisible: (this: HistoryInternal, guildId: number) => boolean
+  IsGuildHistorySystemDisabled: (this: HistoryInternal) => boolean
 }
 
-export interface LibHistoireGlobal {
-  internal: LibHistoireInternal
+export interface HistoryHandle {
+  internal: HistoryInternal
   callback?: Record<string, string>
   StopReason?: Record<string, string>
-  IsReady: (this: LibHistoireGlobal) => boolean
-  OnReady: (this: LibHistoireGlobal, callback: (lib: LibHistoireGlobal) => void) => void
-  IsGuildHistorySystemDisabled: (this: LibHistoireGlobal) => boolean
-  RegisterCallback: (this: LibHistoireGlobal, ...args: unknown[]) => void
-  UnregisterCallback: (this: LibHistoireGlobal, ...args: unknown[]) => void
-  CreateGuildHistoryListener: (
-    this: LibHistoireGlobal,
-    guildId: number,
-    category: number
-  ) => unknown
+  IsReady: (this: HistoryHandle) => boolean
+  OnReady: (this: HistoryHandle, callback: (lib: HistoryHandle) => void) => void
+  IsGuildHistorySystemDisabled: (this: HistoryHandle) => boolean
+  RegisterCallback: (this: HistoryHandle, ...args: unknown[]) => void
+  UnregisterCallback: (this: HistoryHandle, ...args: unknown[]) => void
+  CreateGuildHistoryListener: (this: HistoryHandle, guildId: number, category: number) => unknown
   CreateGuildHistoryProcessor: (
-    this: LibHistoireGlobal,
+    this: HistoryHandle,
     guildId: number,
     category: number,
     addonName: string
   ) => unknown
-  ConvertArtificialLegacyId64ToEventId: (
-    this: LibHistoireGlobal,
-    id64: string
-  ) => number | undefined
+  ConvertArtificialLegacyId64ToEventId: (this: HistoryHandle, id64: string) => number | undefined
 }

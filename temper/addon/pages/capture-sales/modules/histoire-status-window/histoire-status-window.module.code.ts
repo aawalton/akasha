@@ -24,7 +24,7 @@ import {
   type WindowSaveData,
 } from "akasha/temper/addon/pages/capture-sales/modules/histoire-status-window-shared/histoire-status-window-shared.module.code.ts"
 import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
-import "akasha/temper/addon/pages/capture-sales/lib-histoire-controls/lib-histoire-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/capture-sales/history-controls/history-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
@@ -75,11 +75,11 @@ GuildHistoryStatusWindow.Initialize = function (this, historyAdapter, statusTool
   this.guildId = GetGuildId(1)
   this.category = GUILD_HISTORY_EVENT_CATEGORY_ROSTER
 
-  const control = LibHistoireGuildHistoryStatusWindow
+  const control = TemperSalesHistoryStatusWindow
   this.fragment = ZO_SimpleSceneFragment.New(control)
 
   this.labelControl = requireChild<LabelControl>(control, "Label")
-  this.labelControl.SetText("LibHistoire - Guild History Status")
+  this.labelControl.SetText("Temper Sales - Guild History Status")
   this.guildListControl = requireChild<Control>(control, "GuildList")
   this.categoryListControl = requireChild<Control>(control, "CategoryList")
   this.selectionWidget = asSelectionWidgetClassRef(
@@ -107,7 +107,7 @@ GuildHistoryStatusWindow.Initialize = function (this, historyAdapter, statusTool
       )
       SetTooltipText(
         InformationTooltip,
-        "LibHistoire will not be able to retrieve new data until it is enabled again"
+        "Temper Sales will not be able to retrieve new data until it is enabled again"
       )
     } else {
       SetTooltipText(

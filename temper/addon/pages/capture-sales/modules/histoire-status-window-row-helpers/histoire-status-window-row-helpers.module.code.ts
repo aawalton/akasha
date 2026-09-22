@@ -67,7 +67,7 @@ export function initializeHighlight(rowControl: Control): undefined {
     () => {
       animation.PlayForward()
     },
-    "LibHistoire_Highlight"
+    "TemperSalesHistory_Highlight"
   )
 
   rowControl.SetHandler(
@@ -75,7 +75,7 @@ export function initializeHighlight(rowControl: Control): undefined {
     () => {
       animation.PlayBackward()
     },
-    "LibHistoire_Highlight"
+    "TemperSalesHistory_Highlight"
   )
 }
 
@@ -89,7 +89,7 @@ export function initializeRowTooltip(
       const entry = ZO_ScrollList_GetData<RowEntry>(rowControl)
       tooltip.Show(rowControl, asStatusTooltipCacheRef(entry.cache))
     },
-    "LibHistoire_Tooltip"
+    "TemperSalesHistory_Tooltip"
   )
 
   rowControl.SetHandler(
@@ -97,7 +97,7 @@ export function initializeRowTooltip(
     () => {
       tooltip.Hide()
     },
-    "LibHistoire_Tooltip"
+    "TemperSalesHistory_Tooltip"
   )
 }
 
@@ -116,7 +116,7 @@ export function initializeClickHandler(
         PlaySound("Click")
       }
     },
-    "LibHistoire_Select"
+    "TemperSalesHistory_Select"
   )
 }
 

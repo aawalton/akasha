@@ -51,9 +51,9 @@ GuildHistoryStatusLinkedIcon.Initialize = function (this, history, adapter, stat
   this.adapter = adapter
   this.statusTooltip = statusTooltip
   this.control = WINDOW_MANAGER.CreateControlFromVirtual<TextureControl>(
-    "LibHistoireLinkedIcon",
+    "TemperSalesHistoryLinkedIcon",
     history.control,
-    "LibHistoireLinkedIconTemplate"
+    "TemperSalesHistoryLinkedIconTemplate"
   )
   const control = this.control
 

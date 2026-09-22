@@ -1,7 +1,7 @@
 import { asGlobalTable } from "akasha/temper/addon/pages/capture-sales/modules/histoire-casts/histoire-casts.module.code.ts"
 import { internal } from "akasha/temper/addon/pages/capture-sales/modules/histoire-state/histoire-state.module.code.ts"
-import type { LibHistoireInternal } from "akasha/temper/addon/pages/capture-sales/modules/histoire-types/histoire-types.module.code.ts"
-import "akasha/temper/addon/pages/capture-sales/lib-histoire-controls/lib-histoire-controls.type-declaration.d.ts"
+import type { HistoryInternal } from "akasha/temper/addon/pages/capture-sales/modules/histoire-types/histoire-types.module.code.ts"
+import "akasha/temper/addon/pages/capture-sales/history-controls/history-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -11,7 +11,7 @@ import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 
 const g = asGlobalTable(globalThis)
 
-const DIALOG_ID = "LibHistoire"
+const DIALOG_ID = "TemperSalesHistory"
 
 function asNumber(value: unknown): number {
   return value as number
@@ -26,7 +26,7 @@ function asHistoryCacheRef(value: unknown): HistoryCacheRef {
   return value as HistoryCacheRef
 }
 
-type EsoDialogsTable = Record<string, LibHistoireWarningDialog>
+type EsoDialogsTable = Record<string, HistoryWarningDialog>
 function asEsoDialogsTable(value: unknown): EsoDialogsTable {
   return value as EsoDialogsTable
 }
@@ -38,17 +38,17 @@ function asDialogCallback(value: unknown): DialogCallback {
 
 const esoDialogs = asEsoDialogsTable(ESO_Dialogs)
 
-function getWarningDialog(this: void): LibHistoireWarningDialog {
+function getWarningDialog(this: void): HistoryWarningDialog {
   const existing = esoDialogs[DIALOG_ID]
   if (existing != null) {
     return existing
   }
-  const dialog: LibHistoireWarningDialog = {
+  const dialog: HistoryWarningDialog = {
     canQueue: true,
     gamepadInfo: {
       dialogType: asNumber(GAMEPAD_DIALOGS.CENTERED),
     },
-    setup: (d: LibHistoireWarningDialog): undefined => {
+    setup: (d: HistoryWarningDialog): undefined => {
       if (d.setupFunc != null) {
         d.setupFunc()
       }
@@ -110,7 +110,7 @@ function showResetManagedRangeDialog(this: void, ...args: unknown[]): undefined 
   const dialog = getWarningDialog()
   dialog.title.text = "Warning"
   dialog.mainText.text =
-    "Resetting the managed range will make LibHistoire forget from which point to start requesting events and what data has already been sent to addons.\n\n" +
+    "Resetting the managed range will make Temper Sales forget from which point to start requesting events and what data has already been sent to addons.\n\n" +
     "This action is usually not necessary, but can be used to skip over a large gap of missing data after a prolonged absence.\n\n" +
     "Use it with caution, as it means addons may miss out on events to process, which can cause holes in your data!"
 
@@ -156,7 +156,7 @@ function showShutdownWarningIfNeeded(
 ): unknown {
   if (cache.IsProcessing()) {
     showShutdownWarningDialog(
-      "LibHistoire is currently processing events! If you exit now, you may corrupt your save data.\n\n" +
+      "Temper Sales is currently processing events! If you exit now, you may corrupt your save data.\n\n" +
         "You are advised to check the status window and wait until all events have been processed before reloading the UI.",
       buttonText,
       originalCallback
@@ -165,7 +165,7 @@ function showShutdownWarningIfNeeded(
   }
   if (!internal.IsGuildHistorySystemDisabled() && !cache.HasLinkedAllCachesRecently()) {
     showShutdownWarningDialog(
-      "LibHistoire has not been able to link the managed history range of one or more categories to present history for over a week.\n\n" +
+      "Temper Sales has not been able to link the managed history range of one or more categories to present history for over a week.\n\n" +
         "You are advised to check the status window and try to manually request missing data to avoid interruptions in the data flow for dependent addons.",
       buttonText,
       originalCallback
@@ -213,7 +213,7 @@ function setupSlashCommandHook(
   }
 }
 
-internal.InitializeDialogs = function (this: LibHistoireInternal): undefined {
+internal.InitializeDialogs = function (this: HistoryInternal): undefined {
   const cache = asHistoryCacheRef(this.historyCache)
   if (IsKeyboardUISupported()) {
     setupDialogHook(cache, "LOG_OUT")
@@ -233,7 +233,7 @@ internal.InitializeDialogs = function (this: LibHistoireInternal): undefined {
     if (cache.IsProcessing()) {
       const params = args
       showShutdownWarningDialog(
-        "LibHistoire is currently processing events! If you reload the UI now, you may corrupt your save data.\n\n" +
+        "Temper Sales is currently processing events! If you reload the UI now, you may corrupt your save data.\n\n" +
           "You are advised to check the status window and wait until all events have been processed before reloading the UI.",
         "Reload UI",
         (): unknown => {

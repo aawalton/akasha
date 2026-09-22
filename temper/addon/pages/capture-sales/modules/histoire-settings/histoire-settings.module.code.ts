@@ -1,9 +1,9 @@
 import { asGlobalTable } from "akasha/temper/addon/pages/capture-sales/modules/histoire-casts/histoire-casts.module.code.ts"
 import { internal } from "akasha/temper/addon/pages/capture-sales/modules/histoire-state/histoire-state.module.code.ts"
-import type { LibHistoireInternal } from "akasha/temper/addon/pages/capture-sales/modules/histoire-types/histoire-types.module.code.ts"
+import type { HistoryInternal } from "akasha/temper/addon/pages/capture-sales/modules/histoire-types/histoire-types.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
-import "akasha/temper/addon/pages/capture-sales/lib-histoire-controls/lib-histoire-controls.type-declaration.d.ts"
+import "akasha/temper/addon/pages/capture-sales/history-controls/history-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -35,7 +35,7 @@ function asNumber(value: unknown): number {
   return value as number
 }
 
-internal.InitializeSaveData = function (this: LibHistoireInternal): undefined {
+internal.InitializeSaveData = function (this: HistoryInternal): undefined {
   this.logger.Verbose("Initializing save data")
 
   const settings: Record<string, unknown> = g.LibHistoire_Settings ?? {
@@ -61,7 +61,7 @@ internal.InitializeSaveData = function (this: LibHistoireInternal): undefined {
   this.logger.Verbose("Save data initialized")
 }
 
-internal.InitializeSettingsMenu = function (this: LibHistoireInternal): undefined {
+internal.InitializeSettingsMenu = function (this: HistoryInternal): undefined {
   const lam = LibAddonMenu2
   const adapter = asSettingsAdapterRef(this.historyAdapter)
 
@@ -97,7 +97,7 @@ internal.InitializeSettingsMenu = function (this: LibHistoireInternal): undefine
     type: "checkbox",
     name: "Mark gaps in history list",
     tooltip:
-      "When enabled, LibHistoire will inject additional rows into the ingame guild history to mark gaps in the history.",
+      "When enabled, Temper Sales will inject additional rows into the ingame guild history to mark gaps in the history.",
     requiresReload: true,
     getFunc: (): boolean => {
       return adapter.IsMarkGapsFeatureEnabled()

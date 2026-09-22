@@ -1,17 +1,17 @@
 import type {
   CallbackObject,
-  LibHistoireGlobal,
-  LibHistoireInternal,
+  HistoryHandle,
+  HistoryInternal,
   Logger,
 } from "akasha/temper/addon/pages/capture-sales/modules/histoire-types/histoire-types.module.code.ts"
 import "akasha/temper/addon/type/lib-async/lib-async.type-declaration.d.ts"
 
-export function asHistoryInternal(value: unknown): LibHistoireInternal {
-  return value as LibHistoireInternal
+export function asHistoryInternal(value: unknown): HistoryInternal {
+  return value as HistoryInternal
 }
 
-export function asHistoryHandle(value: unknown): LibHistoireGlobal {
-  return value as LibHistoireGlobal
+export function asHistoryHandle(value: unknown): HistoryHandle {
+  return value as HistoryHandle
 }
 
 export function asCallbackObject(value: unknown): CallbackObject {

@@ -63,7 +63,7 @@ export const temperAddonCaptureSales = {
     "module/histoire-status-window-rows",
     "module/histoire-status-window-shared",
     "module/histoire-types",
-    "type-declaration/lib-histoire-controls",
+    "type-declaration/history-controls",
   ],
   interfaces: ["eso-interface/histoire-guild-history-cache-controls"],
   decisions: [
