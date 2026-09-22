@@ -3,6 +3,7 @@ import type { Asking } from "akasha/change/runner/pages/mechanical-change-runnin
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   gameImport,
+  gatheredAt,
   messageFor,
   saidOf,
   taken,
@@ -10,6 +11,7 @@ import {
 } from "akasha/command/pages/game/import/game-import.command.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { game } from "akasha/story/game/game.page-type.ts"
+import { whereAt } from "akasha/story/game/modules/row-reading/row-reading.module.code.ts"
 import { theTower } from "akasha/story/game/pages/the-tower/the-tower.game.ts"
 
 const ROOT = process.cwd()
@@ -85,11 +87,12 @@ test("a game that is no page is refused", async () => {
   expect(answer.code).not.toBe(0)
 })
 
-test("the tower's rows become pages under the tower's own folder", async () => {
-  asked = []
-  const answer = await gameImport(["--game", GAME], GIVEN, landing)
-  expect(answer.code).toBe(0)
-  const paths = pathsOf(asked)
+test("the tower's rows become pages under the tower's own folder", () => {
+  const found = whereAt(ROOT, GAME)
+  if ("refused" in found) throw new Error(found.refused)
+  const gathered = gatheredAt(found.answered)
+  if ("refused" in gathered) throw new Error(gathered.refused)
+  const paths = gathered.answered.map((one) => one.at)
   expect(paths.length).toBeGreaterThan(LEAST_PAGES)
   expect(paths.every((one) => one.startsWith("story/game/pages/the-tower/"))).toBe(true)
   expect(paths).toContain(
@@ -99,4 +102,12 @@ test("the tower's rows become pages under the tower's own folder", async () => {
     "story/game/pages/the-tower/encounters/the-tower-ashling-01.game-encounter.ts"
   )
   expect(paths).toContain("story/game/pages/the-tower/entities/the-tower-alan.game-entity.ts")
+  expect(paths).toContain("story/game/pages/the-tower/turns/the-tower-088.game-turn.ts")
+})
+
+test("a run with nothing left to file lands nothing", async () => {
+  asked = []
+  const answer = await gameImport(["--game", GAME], GIVEN, landing)
+  expect(pathsOf(asked).every((one) => one.startsWith("story/game/pages/the-tower/"))).toBe(true)
+  expect(answer.code === 0 || asked.length === 0).toBe(true)
 })

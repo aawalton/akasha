@@ -28,7 +28,9 @@ import {
 import { everyFiled } from "akasha/story/game/modules/world-filing/world-filing.module.code.ts"
 import { entities } from "akasha/story/game/properties/entities.file-property.ts"
 import { gameCharacters } from "akasha/story/game/properties/game-characters.file-property.ts"
+import { states } from "akasha/story/game/properties/states.file-property.ts"
 import { towerFloors } from "akasha/story/game/properties/tower-floors.file-property.ts"
+import { everyTurnFiled } from "akasha/story/game/turn/modules/turn-filing/turn-filing.module.code.ts"
 
 const NAMED = [gameArgument] as const
 
@@ -69,14 +71,20 @@ export function unfiledOf(root: string, filed: readonly Filed[]): readonly Filed
   })
 }
 
-function gatheredAt(where: Where): Gathered {
+export function gatheredAt(where: Where): Gathered {
   const rows: unknown[] = []
   for (const property of FILES) {
     const read = rowsOf(where, property)
     if ("refused" in read) return read
     rows.push(...read.answered)
   }
-  return everyFiled(where, rows)
+  const worldly = everyFiled(where, rows)
+  if ("refused" in worldly) return worldly
+  const held = rowsOf(where, states.propertySlug)
+  if ("refused" in held) return held
+  const turned = everyTurnFiled(where, held.answered)
+  if ("refused" in turned) return turned
+  return { answered: [...worldly.answered, ...turned.answered] }
 }
 
 async function imported(
