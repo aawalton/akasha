@@ -4,7 +4,7 @@ export const musicRate = {
   id: "01a062fb-d2fb-72a1-8169-279a6baf3d97",
   type: "page-type/command",
   slug: "music-rate",
-  definition: "the command recording Alan's grade and what he said onto one music page",
+  definition: "the command recording Alan's grade and what he said onto a music page",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

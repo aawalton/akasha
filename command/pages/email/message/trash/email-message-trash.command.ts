@@ -4,7 +4,7 @@ export const emailMessageTrash = {
   id: "01a06810-cf11-7809-b382-e88022027eb3",
   type: "page-type/command",
   slug: "email-message-trash",
-  definition: "the command moving one Gmail message to Trash",
+  definition: "the command moving a Gmail message to Trash",
   code: "ts",
   test: "ts",
   decisions: [

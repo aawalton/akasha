@@ -4,7 +4,7 @@ export const trackSessionSplit = {
   id: "01a07979-7fe5-72fa-8982-e069a28c90c2",
   type: "page-type/command",
   slug: "track-session-split",
-  definition: "the command parting one stretch into two at a time said",
+  definition: "the command parting a stretch into two at a time said",
   code: "ts",
   test: "ts",
 

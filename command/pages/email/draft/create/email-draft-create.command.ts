@@ -4,7 +4,7 @@ export const emailDraftCreate = {
   id: "01a06810-cf11-70dc-9875-5c649a88fe59",
   type: "page-type/command",
   slug: "email-draft-create",
-  definition: "the command writing one Gmail draft from the flags a send takes, unsent",
+  definition: "the command writing a Gmail draft from the flags a send takes, unsent",
   code: "ts",
   test: "ts",
   decisions: [

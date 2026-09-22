@@ -4,7 +4,7 @@ export const googleCalendarEventRsvp = {
   id: "01a08cf6-67b1-7524-ab4b-2d55fdf0d2cb",
   type: "page-type/command",
   slug: "google-calendar-event-rsvp",
-  definition: "the command setting Alan's own response on one event",
+  definition: "the command setting Alan's own response on an event",
   code: "ts",
   test: "ts",
   decisions: [

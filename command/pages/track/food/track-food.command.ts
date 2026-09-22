@@ -4,7 +4,7 @@ export const trackFood = {
   id: "01a06809-250b-7ec1-99ac-2150ec2c5f74",
   type: "page-type/command",
   slug: "track-food",
-  definition: "the command filing one food Alan ate onto the day that food counts to",
+  definition: "the command filing a food Alan ate onto the day that food counts to",
   code: "ts",
   test: "ts",
   decisions: [

@@ -4,7 +4,7 @@ export const deployInferenceInstalling = {
   id: "01a090aa-b59e-76ef-b132-b9ef45af15d3",
   type: "page-type/module",
   slug: "deploy-inference-installing",
-  definition: "one inference service provisioned onto the machine its page names",
+  definition: "an inference service provisioned onto the machine its page names",
   code: "ts",
   test: "ts",
   decisions: [

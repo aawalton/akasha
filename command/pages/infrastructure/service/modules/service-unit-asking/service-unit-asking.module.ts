@@ -4,7 +4,7 @@ export const serviceUnitAsking = {
   id: "01a09407-b94e-79c1-9cb4-324c7a7d0a3e",
   type: "page-type/module",
   slug: "service-unit-asking",
-  definition: "systemd asked to act on one named service's installed unit",
+  definition: "systemd asked to act on a named service's installed unit",
   code: "ts",
   decisions: [
     {

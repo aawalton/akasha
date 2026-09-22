@@ -5,7 +5,7 @@ export const repeats = {
   type: "page-type/boolean-property",
   slug: "repeats",
   propertySlug: "repeats",
-  definition: "whether one call says an argument more than once",
+  definition: "whether a call says an argument more than once",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

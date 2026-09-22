@@ -4,7 +4,7 @@ export const talosBootstrap = {
   id: "01a06809-a024-70e5-84a3-155889fe2c3e",
   type: "page-type/command",
   slug: "talos-bootstrap",
-  definition: "the command starting etcd on one Talos control-plane node",
+  definition: "the command starting etcd on a Talos control-plane node",
   code: "ts",
   test: "ts",
   decisions: [

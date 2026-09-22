@@ -4,7 +4,7 @@ export const inferenceGenerate = {
   id: "01a0685e-fd50-7a4c-ba59-ae4e2497a4c5",
   type: "page-type/command",
   slug: "inference-generate",
-  definition: "the command rendering one image off a prompt through an image pool service",
+  definition: "the command rendering an image off a prompt through an image pool service",
   code: "ts",
   test: "ts",
   decisions: [

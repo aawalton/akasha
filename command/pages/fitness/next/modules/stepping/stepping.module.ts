@@ -4,7 +4,7 @@ export const stepping = {
   id: "01a0ba6c-ee3c-7e54-a879-6045758db635",
   type: "page-type/module",
   slug: "stepping",
-  definition: "the one thing Alan does next, read off the warmup and the work in front of him",
+  definition: "the thing Alan does next, read off the warmup and the work in front of him",
   code: "ts",
   test: "ts",
   decisions: [

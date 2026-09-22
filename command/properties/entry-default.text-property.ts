@@ -5,7 +5,7 @@ export const entryDefault = {
   type: "page-type/text-property",
   slug: "entry-default",
   propertySlug: "default",
-  definition: "what an argument carries under one command where no call says it",
+  definition: "what an argument carries under a command where no call says it",
   maxLength: 60,
   nameFormat: null,
   decisions: [

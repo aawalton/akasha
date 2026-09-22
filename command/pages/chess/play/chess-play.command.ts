@@ -4,7 +4,7 @@ export const chessPlay = {
   id: "01a0a03d-5a6a-7d7d-981a-14813c990218",
   type: "page-type/command",
   slug: "chess-play",
-  definition: "the command playing one game out against the Maia model and writing it down",
+  definition: "the command playing a game out against the Maia model and writing it down",
   code: "ts",
   test: "ts",
   decisions: [

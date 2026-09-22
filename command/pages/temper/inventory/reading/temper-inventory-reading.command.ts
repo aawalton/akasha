@@ -4,7 +4,7 @@ export const temperInventoryReading = {
   id: "01a0603c-c1d9-7ef8-acb9-f19095076d6e",
   type: "page-type/command",
   slug: "temper-inventory-reading",
-  definition: "the command giving back the inventory an account holds as one whole record",
+  definition: "the command giving back the inventory an account holds as a whole record",
   code: "ts",
   test: "ts",
   decisions: [

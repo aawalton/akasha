@@ -4,7 +4,7 @@ export const musicFoldSongs = {
   id: "01a0b7c9-4e11-7a26-9f03-8b41d0e5c772",
   type: "page-type/command",
   slug: "music-fold-songs",
-  definition: "the command leaving one page for a composition, under every artist performing it",
+  definition: "the command leaving a page for a composition, under every artist performing it",
   code: "ts",
   test: "ts",
   maxWallSeconds: 600,
