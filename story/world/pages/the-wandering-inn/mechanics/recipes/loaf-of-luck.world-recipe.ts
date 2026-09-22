@@ -6,5 +6,6 @@ export const loafOfLuck = {
   slug: "loaf-of-luck",
   title: "Loaf of Luck",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldRecipe
