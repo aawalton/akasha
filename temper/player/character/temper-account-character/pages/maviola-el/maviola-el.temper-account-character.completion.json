@@ -11,7 +11,7 @@
   "companionRapport": {
     "1": 4058,
     "5": 4106,
-    "6": 2120,
+    "6": 2135,
     "9": 5500
   },
   "quests": [
@@ -1011,6 +1011,7 @@
     6548,
     6550,
     6551,
+    6552,
     6554,
     6564,
     6566,
@@ -6987,8 +6988,8 @@
     "groupDungeonTotal": 26,
     "tutorial": 0,
     "skyshardPoints": 176,
-    "unassigned": 158,
-    "zoneQuestTotal": 116,
+    "unassigned": 159,
+    "zoneQuestTotal": 117,
     "publicDungeons": {
       "EP4": 1,
       "AD1": 1,
@@ -7151,7 +7152,7 @@
       "EP2": 3,
       "DC2": 3,
       "DC0a": 0,
-      "TR": 6,
+      "TR": 7,
       "DC3": 3,
       "WR": 3,
       "DC4": 3,
@@ -7184,7 +7185,7 @@
       "AP": 8,
       "GY": 0
     },
-    "total": 446,
+    "total": 447,
     "maelstromArena": 1
   },
   "traitResearch": {
@@ -15551,8 +15552,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "completed": 7,
-    "date": "2026-09-21"
+    "date": "2026-09-21",
+    "completed": 7
   },
   "dailyWritStates": {
     "completed": {
