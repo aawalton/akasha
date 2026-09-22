@@ -51,13 +51,11 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A workstation service starting from the pinned tree is put up with nothing built.",
+      statement: "A workstation service has its bundle built as that service is put up.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A workstation service starting from its bundle has that bundle built as it is put up.",
+      statement: "The workstation kind pins no tree, every service of it starting from a bundle.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -250,7 +248,7 @@ export const deploy = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A deploy is built from a tree pinned at the commit rather than from the checkout.",
+        "A deploy of a kind that pins a tree is built from that tree rather than from the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",

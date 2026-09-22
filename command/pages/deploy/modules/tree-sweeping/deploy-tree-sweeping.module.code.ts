@@ -7,13 +7,11 @@ import {
   INFERENCE_SERVICE,
   TEMPER_ADDON,
   WEB_APP,
-  WORKSTATION_SERVICE,
 } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { TREE_INDEXES, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
 
 export const PINNED: ReadonlySet<string> = new Set([
-  WORKSTATION_SERVICE,
   INFERENCE_SERVICE,
   CONTAINER_RECIPE,
   CLUSTER_SERVICE,

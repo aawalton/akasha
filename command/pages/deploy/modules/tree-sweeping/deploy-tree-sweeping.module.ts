@@ -23,6 +23,10 @@ export const deployTreeSweeping = {
         "Which kinds a deploy pins is named here, and the deploy reads that set from here.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The workstation kind is named nowhere here, so its tree is swept like any other.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement:
         "The module naming the kinds reaches the one pinning a tree, so the set sits here rather than there.",

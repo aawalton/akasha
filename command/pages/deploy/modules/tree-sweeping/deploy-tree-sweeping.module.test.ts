@@ -16,7 +16,7 @@ import {
 
 const SCRATCH = "/var/tmp"
 
-const PINS = "service-workstation"
+const PINS = "service-inference"
 
 const UNOWNED = "gone-kind"
 
