@@ -8,5 +8,5 @@ export const subcategoryHaPower = {
   nodeId: "ha-power",
   nodeType: "subcategory",
   displayOrder: 0,
-  parent: "subcategory-heavy-attacks",
+  parent: "temper-metric-tree/subcategory-heavy-attacks",
 } as const satisfies TemperMetricTree

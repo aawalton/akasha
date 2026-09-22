@@ -8,5 +8,5 @@ export const metricLaMeleeSpeed = {
   nodeId: "la-melee-speed",
   nodeType: "metric",
   displayOrder: 3,
-  parent: "subcategory-light-attacks",
+  parent: "temper-metric-tree/subcategory-light-attacks",
 } as const satisfies TemperMetricTree

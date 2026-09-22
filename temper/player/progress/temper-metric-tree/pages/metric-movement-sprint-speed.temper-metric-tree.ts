@@ -8,5 +8,5 @@ export const metricMovementSprintSpeed = {
   nodeId: "movement-sprint-speed",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "category-mobility",
+  parent: "temper-metric-tree/category-mobility",
 } as const satisfies TemperMetricTree

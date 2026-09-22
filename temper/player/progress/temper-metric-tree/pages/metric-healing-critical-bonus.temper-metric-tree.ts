@@ -8,6 +8,6 @@ export const metricHealingCriticalBonus = {
   nodeId: "healing-critical-bonus",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "subcategory-healing-critical",
+  parent: "temper-metric-tree/subcategory-healing-critical",
   includeInChildAggregates: true,
 } as const satisfies TemperMetricTree

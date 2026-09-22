@@ -5484,6 +5484,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/updated-at.instant-property.ts","id":"01a07293-b84f-74d7-90cc-6208d5fc468f"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/temper-inventory-rule.page-type.ts","id":"01a07283-f299-703a-a255-0c48075885be"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-item-action/temper-item-action.page-type.ts","id":"01a071e1-92d5-7458-b0c0-499ac75aeb8b"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/temper-metric-tree/properties/metric-tree-parent.relation-property.ts","id":"01a0cade-0463-70a3-964b-14162e508635"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts","id":"01a05fcb-d656-7ea2-a494-28d13d70536e"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts","id":"01a05fc9-9a03-795c-b95b-c04997733011"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule-goal/temper-rule-goal.page-type.ts","id":"01a071f5-62e6-7b98-ab84-2e3e9f91b5e3"}

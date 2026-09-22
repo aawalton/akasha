@@ -8,5 +8,5 @@ export const subcategoryBlock = {
   nodeId: "block",
   nodeType: "subcategory",
   displayOrder: 5,
-  parent: "category-mobility",
+  parent: "temper-metric-tree/category-mobility",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const metricLaShockWeaponDamage = {
   nodeId: "la-shock-weapon-damage",
   nodeType: "metric",
   displayOrder: 9,
-  parent: "subcategory-la-power",
+  parent: "temper-metric-tree/subcategory-la-power",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const metricDamageTakenArena = {
   nodeId: "damage-taken-arena",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-damage-taken",
+  parent: "temper-metric-tree/subcategory-damage-taken",
 } as const satisfies TemperMetricTree

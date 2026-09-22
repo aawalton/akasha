@@ -8,5 +8,5 @@ export const metricPenetrationPhysical = {
   nodeId: "penetration-physical",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "metric-penetration",
+  parent: "temper-metric-tree/metric-penetration",
 } as const satisfies TemperMetricTree

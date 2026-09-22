@@ -8,5 +8,5 @@ export const subcategoryDefenseMitigation = {
   nodeId: "defense-mitigation",
   nodeType: "subcategory",
   displayOrder: 7,
-  parent: "category-toughness",
+  parent: "temper-metric-tree/category-toughness",
 } as const satisfies TemperMetricTree

@@ -8,6 +8,6 @@ export const metricCriticalDamage = {
   nodeId: "critical-damage",
   nodeType: "metric",
   displayOrder: 2,
-  parent: "subcategory-critical-damage",
+  parent: "temper-metric-tree/subcategory-critical-damage",
   includeInChildAggregates: true,
 } as const satisfies TemperMetricTree

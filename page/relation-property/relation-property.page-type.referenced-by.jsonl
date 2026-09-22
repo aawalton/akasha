@@ -190,6 +190,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/world/temper-dungeon/properties/quest-giver.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/currency-key.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/from-template.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/properties/metric-tree-parent.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/action.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/condition-field.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/goal.relation-property.ts"}

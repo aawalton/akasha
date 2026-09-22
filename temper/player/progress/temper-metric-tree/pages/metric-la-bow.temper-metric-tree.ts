@@ -8,5 +8,5 @@ export const metricLaBow = {
   nodeId: "la-bow",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "subcategory-la-damage",
+  parent: "temper-metric-tree/subcategory-la-damage",
 } as const satisfies TemperMetricTree

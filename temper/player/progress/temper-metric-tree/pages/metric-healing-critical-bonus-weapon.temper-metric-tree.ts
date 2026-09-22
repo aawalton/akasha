@@ -8,5 +8,5 @@ export const metricHealingCriticalBonusWeapon = {
   nodeId: "healing-critical-bonus-weapon",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "metric-healing-critical-bonus",
+  parent: "temper-metric-tree/metric-healing-critical-bonus",
 } as const satisfies TemperMetricTree

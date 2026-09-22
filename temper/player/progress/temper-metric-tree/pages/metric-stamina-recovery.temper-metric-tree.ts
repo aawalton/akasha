@@ -8,5 +8,5 @@ export const metricStaminaRecovery = {
   nodeId: "stamina-recovery",
   nodeType: "metric",
   displayOrder: 5,
-  parent: "subcategory-stamina",
+  parent: "temper-metric-tree/subcategory-stamina",
 } as const satisfies TemperMetricTree

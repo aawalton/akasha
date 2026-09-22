@@ -8,5 +8,5 @@ export const metricFearDuration = {
   nodeId: "fear-duration",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-crowd-control",
+  parent: "temper-metric-tree/subcategory-crowd-control",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const metricUltimateGeneration = {
   nodeId: "ultimate-generation",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-ultimate",
+  parent: "temper-metric-tree/subcategory-ultimate",
 } as const satisfies TemperMetricTree

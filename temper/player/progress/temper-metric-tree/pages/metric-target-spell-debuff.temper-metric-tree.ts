@@ -8,5 +8,5 @@ export const metricTargetSpellDebuff = {
   nodeId: "target-spell-debuff",
   nodeType: "metric",
   displayOrder: 5,
-  parent: "subcategory-target-toughness",
+  parent: "temper-metric-tree/subcategory-target-toughness",
 } as const satisfies TemperMetricTree

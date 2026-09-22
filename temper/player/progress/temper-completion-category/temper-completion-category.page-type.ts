@@ -11,6 +11,7 @@ export const temperCompletionCategory = {
     { pageProperty: "text-property/node-id", required: true, many: false },
     { pageProperty: "text-property/tab", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
+    { pageProperty: "text-property/parent", required: false, many: false },
   ],
   decisions: [
     {

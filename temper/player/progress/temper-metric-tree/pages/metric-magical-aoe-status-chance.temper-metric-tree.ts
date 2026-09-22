@@ -8,5 +8,5 @@ export const metricMagicalAoeStatusChance = {
   nodeId: "magical-aoe-status-chance",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-magical-status-chance",
+  parent: "temper-metric-tree/subcategory-magical-status-chance",
 } as const satisfies TemperMetricTree

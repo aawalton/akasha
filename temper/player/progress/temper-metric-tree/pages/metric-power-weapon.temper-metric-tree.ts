@@ -8,5 +8,5 @@ export const metricPowerWeapon = {
   nodeId: "power-weapon",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "metric-power",
+  parent: "temper-metric-tree/metric-power",
 } as const satisfies TemperMetricTree

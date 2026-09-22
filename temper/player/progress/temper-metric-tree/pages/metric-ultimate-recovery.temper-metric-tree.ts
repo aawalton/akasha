@@ -8,5 +8,5 @@ export const metricUltimateRecovery = {
   nodeId: "ultimate-recovery",
   nodeType: "metric",
   displayOrder: 2,
-  parent: "subcategory-ultimate",
+  parent: "temper-metric-tree/subcategory-ultimate",
 } as const satisfies TemperMetricTree

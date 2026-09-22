@@ -8,5 +8,5 @@ export const metricTargetPercentHealth = {
   nodeId: "target-percent-health",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-target-other",
+  parent: "temper-metric-tree/subcategory-target-other",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const metricHaMagicWeaponDamage = {
   nodeId: "ha-magic-weapon-damage",
   nodeType: "metric",
   displayOrder: 5,
-  parent: "subcategory-ha-power",
+  parent: "temper-metric-tree/subcategory-ha-power",
 } as const satisfies TemperMetricTree

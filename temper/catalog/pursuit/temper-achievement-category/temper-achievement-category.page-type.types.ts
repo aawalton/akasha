@@ -2,9 +2,11 @@ import type { Achievements } from "akasha/temper/catalog/pursuit/temper-achievem
 import type { TemperPursuitThing } from "akasha/temper/catalog/pursuit/thing/temper-pursuit-thing.page-type.types.ts"
 import type { Category } from "akasha/temper/thing/properties/category.text-property.types.ts"
 import type { DisplayOrder } from "akasha/temper/thing/properties/display-order.number-property.types.ts"
+import type { Parent } from "akasha/temper/thing/properties/parent.text-property.types.ts"
 
 export type TemperAchievementCategory = TemperPursuitThing & {
   category: Category
   displayOrder: DisplayOrder
   achievements?: Achievements
+  parent?: Parent
 }

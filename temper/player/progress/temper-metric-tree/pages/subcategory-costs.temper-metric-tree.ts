@@ -8,5 +8,5 @@ export const subcategoryCosts = {
   nodeId: "costs",
   nodeType: "subcategory",
   displayOrder: 4,
-  parent: "category-sustain",
+  parent: "temper-metric-tree/category-sustain",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const metricMountedRunSpeed = {
   nodeId: "mounted-run-speed",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "metric-mounted-speed",
+  parent: "temper-metric-tree/metric-mounted-speed",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const metricSneakCost = {
   nodeId: "sneak-cost",
   nodeType: "metric",
   displayOrder: 2,
-  parent: "subcategory-costs",
+  parent: "temper-metric-tree/subcategory-costs",
 } as const satisfies TemperMetricTree

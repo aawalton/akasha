@@ -14,6 +14,7 @@ export const temperCollectibleCategory = {
   properties: [
     { pageProperty: "number-property/eso-category-index", required: false, many: false },
     { pageProperty: "page-property-entry/collectibles", required: false, many: false },
+    { pageProperty: "text-property/parent", required: false, many: false },
   ],
   decisions: [
     {

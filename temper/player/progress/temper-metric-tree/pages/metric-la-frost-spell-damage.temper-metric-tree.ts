@@ -8,5 +8,5 @@ export const metricLaFrostSpellDamage = {
   nodeId: "la-frost-spell-damage",
   nodeType: "metric",
   displayOrder: 2,
-  parent: "subcategory-la-power",
+  parent: "temper-metric-tree/subcategory-la-power",
 } as const satisfies TemperMetricTree

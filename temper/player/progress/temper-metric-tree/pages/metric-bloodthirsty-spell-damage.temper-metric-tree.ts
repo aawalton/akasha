@@ -8,5 +8,5 @@ export const metricBloodthirstySpellDamage = {
   nodeId: "bloodthirsty-spell-damage",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-bloodthirsty",
+  parent: "temper-metric-tree/subcategory-bloodthirsty",
 } as const satisfies TemperMetricTree

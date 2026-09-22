@@ -8,5 +8,5 @@ export const metricExperienceGain = {
   nodeId: "experience-gain",
   nodeType: "metric",
   displayOrder: 2,
-  parent: "category-other",
+  parent: "temper-metric-tree/category-other",
 } as const satisfies TemperMetricTree

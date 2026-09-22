@@ -8,6 +8,6 @@ export const metricEffectiveHealthPhysical = {
   nodeId: "effective-health-physical",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "category-toughness",
+  parent: "temper-metric-tree/category-toughness",
   useAccentColor: true,
 } as const satisfies TemperMetricTree

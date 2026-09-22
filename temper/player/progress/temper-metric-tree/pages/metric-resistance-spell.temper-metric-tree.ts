@@ -8,6 +8,6 @@ export const metricResistanceSpell = {
   nodeId: "resistance-spell",
   nodeType: "metric",
   displayOrder: 2,
-  parent: "metric-resistance",
+  parent: "temper-metric-tree/metric-resistance",
   includeInChildAggregates: true,
 } as const satisfies TemperMetricTree

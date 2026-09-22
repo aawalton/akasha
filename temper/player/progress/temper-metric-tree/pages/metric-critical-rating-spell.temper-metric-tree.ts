@@ -8,5 +8,5 @@ export const metricCriticalRatingSpell = {
   nodeId: "critical-rating-spell",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "metric-critical-rating",
+  parent: "temper-metric-tree/metric-critical-rating",
 } as const satisfies TemperMetricTree

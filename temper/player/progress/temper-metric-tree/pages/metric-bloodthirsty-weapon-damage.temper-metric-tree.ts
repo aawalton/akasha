@@ -8,5 +8,5 @@ export const metricBloodthirstyWeaponDamage = {
   nodeId: "bloodthirsty-weapon-damage",
   nodeType: "metric",
   displayOrder: 2,
-  parent: "subcategory-bloodthirsty",
+  parent: "temper-metric-tree/subcategory-bloodthirsty",
 } as const satisfies TemperMetricTree

@@ -232,6 +232,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/temper-account/properties/currency-key.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/temper-companion-progress/properties/companion-roles.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/from-template.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-metric-tree/properties/metric-tree-parent.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/action.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/condition-field.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/goal.relation-property.types.ts"}

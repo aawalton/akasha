@@ -8,6 +8,6 @@ export const metricPenetration = {
   nodeId: "penetration",
   nodeType: "metric",
   displayOrder: 5,
-  parent: "category-damage",
+  parent: "temper-metric-tree/category-damage",
   includeInChildAggregates: true,
 } as const satisfies TemperMetricTree

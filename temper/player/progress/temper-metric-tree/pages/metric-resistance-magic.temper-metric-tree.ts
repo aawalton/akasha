@@ -8,5 +8,5 @@ export const metricResistanceMagic = {
   nodeId: "resistance-magic",
   nodeType: "metric",
   displayOrder: 3,
-  parent: "metric-resistance-spell",
+  parent: "temper-metric-tree/metric-resistance-spell",
 } as const satisfies TemperMetricTree

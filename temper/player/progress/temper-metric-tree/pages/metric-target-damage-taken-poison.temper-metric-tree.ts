@@ -8,5 +8,5 @@ export const metricTargetDamageTakenPoison = {
   nodeId: "target-damage-taken-poison",
   nodeType: "metric",
   displayOrder: 7,
-  parent: "subcategory-target-toughness",
+  parent: "temper-metric-tree/subcategory-target-toughness",
 } as const satisfies TemperMetricTree

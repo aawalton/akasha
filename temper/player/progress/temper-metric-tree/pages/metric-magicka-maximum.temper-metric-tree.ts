@@ -8,5 +8,5 @@ export const metricMagickaMaximum = {
   nodeId: "magicka-maximum",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-magicka",
+  parent: "temper-metric-tree/subcategory-magicka",
 } as const satisfies TemperMetricTree

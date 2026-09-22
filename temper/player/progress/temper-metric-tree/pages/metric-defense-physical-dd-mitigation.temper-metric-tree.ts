@@ -8,5 +8,5 @@ export const metricDefensePhysicalDdMitigation = {
   nodeId: "defense-physical-dd-mitigation",
   nodeType: "metric",
   displayOrder: 2,
-  parent: "subcategory-defense-mitigation",
+  parent: "temper-metric-tree/subcategory-defense-mitigation",
 } as const satisfies TemperMetricTree

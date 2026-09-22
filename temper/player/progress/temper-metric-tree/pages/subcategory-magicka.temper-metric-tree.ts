@@ -8,5 +8,5 @@ export const subcategoryMagicka = {
   nodeId: "magicka",
   nodeType: "subcategory",
   displayOrder: 0,
-  parent: "category-sustain",
+  parent: "temper-metric-tree/category-sustain",
 } as const satisfies TemperMetricTree

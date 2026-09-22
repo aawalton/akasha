@@ -8,5 +8,5 @@ export const subcategoryLaPower = {
   nodeId: "la-power",
   nodeType: "subcategory",
   displayOrder: 0,
-  parent: "subcategory-light-attacks",
+  parent: "temper-metric-tree/subcategory-light-attacks",
 } as const satisfies TemperMetricTree

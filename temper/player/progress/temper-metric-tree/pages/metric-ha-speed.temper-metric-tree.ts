@@ -8,5 +8,5 @@ export const metricHaSpeed = {
   nodeId: "ha-speed",
   nodeType: "metric",
   displayOrder: 2,
-  parent: "subcategory-heavy-attacks",
+  parent: "temper-metric-tree/subcategory-heavy-attacks",
 } as const satisfies TemperMetricTree

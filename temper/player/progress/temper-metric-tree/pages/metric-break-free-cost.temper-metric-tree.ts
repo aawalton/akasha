@@ -8,5 +8,5 @@ export const metricBreakFreeCost = {
   nodeId: "break-free-cost",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "subcategory-costs",
+  parent: "temper-metric-tree/subcategory-costs",
 } as const satisfies TemperMetricTree

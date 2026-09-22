@@ -8,6 +8,6 @@ export const metricEffectivePower = {
   nodeId: "effective-power",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "category-damage",
+  parent: "temper-metric-tree/category-damage",
   useAccentColor: true,
 } as const satisfies TemperMetricTree

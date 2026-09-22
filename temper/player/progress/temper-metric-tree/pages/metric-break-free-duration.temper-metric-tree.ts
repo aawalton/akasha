@@ -8,5 +8,5 @@ export const metricBreakFreeDuration = {
   nodeId: "break-free-duration",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "subcategory-crowd-control",
+  parent: "temper-metric-tree/subcategory-crowd-control",
 } as const satisfies TemperMetricTree

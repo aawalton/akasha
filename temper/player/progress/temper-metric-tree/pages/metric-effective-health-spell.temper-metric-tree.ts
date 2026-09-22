@@ -8,6 +8,6 @@ export const metricEffectiveHealthSpell = {
   nodeId: "effective-health-spell",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "category-toughness",
+  parent: "temper-metric-tree/category-toughness",
   useAccentColor: true,
 } as const satisfies TemperMetricTree

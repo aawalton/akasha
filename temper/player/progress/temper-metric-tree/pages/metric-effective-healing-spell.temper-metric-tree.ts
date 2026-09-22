@@ -8,5 +8,5 @@ export const metricEffectiveHealingSpell = {
   nodeId: "effective-healing-spell",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-effective-healing",
+  parent: "temper-metric-tree/subcategory-effective-healing",
 } as const satisfies TemperMetricTree

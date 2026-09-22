@@ -8,5 +8,5 @@ export const metricResistanceGeneric = {
   nodeId: "resistance-generic",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "metric-resistance",
+  parent: "temper-metric-tree/metric-resistance",
 } as const satisfies TemperMetricTree

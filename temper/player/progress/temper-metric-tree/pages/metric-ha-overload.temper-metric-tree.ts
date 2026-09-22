@@ -8,5 +8,5 @@ export const metricHaOverload = {
   nodeId: "ha-overload",
   nodeType: "metric",
   displayOrder: 5,
-  parent: "subcategory-ha-damage",
+  parent: "temper-metric-tree/subcategory-ha-damage",
 } as const satisfies TemperMetricTree

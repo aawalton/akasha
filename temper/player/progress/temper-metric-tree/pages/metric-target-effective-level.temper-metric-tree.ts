@@ -8,5 +8,5 @@ export const metricTargetEffectiveLevel = {
   nodeId: "target-effective-level",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "subcategory-target-other",
+  parent: "temper-metric-tree/subcategory-target-other",
 } as const satisfies TemperMetricTree

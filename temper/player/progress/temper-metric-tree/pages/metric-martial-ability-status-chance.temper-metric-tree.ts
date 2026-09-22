@@ -8,5 +8,5 @@ export const metricMartialAbilityStatusChance = {
   nodeId: "martial-ability-status-chance",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "subcategory-martial-status-chance",
+  parent: "temper-metric-tree/subcategory-martial-status-chance",
 } as const satisfies TemperMetricTree

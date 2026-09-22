@@ -8,5 +8,5 @@ export const metricHaFrostStaff = {
   nodeId: "ha-frost-staff",
   nodeType: "metric",
   displayOrder: 3,
-  parent: "subcategory-ha-damage",
+  parent: "temper-metric-tree/subcategory-ha-damage",
 } as const satisfies TemperMetricTree

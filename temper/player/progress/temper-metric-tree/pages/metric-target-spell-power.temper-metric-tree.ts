@@ -8,5 +8,5 @@ export const metricTargetSpellPower = {
   nodeId: "target-spell-power",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "metric-target-power",
+  parent: "temper-metric-tree/metric-target-power",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const metricBlockMitigation = {
   nodeId: "block-mitigation",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-block",
+  parent: "temper-metric-tree/subcategory-block",
 } as const satisfies TemperMetricTree

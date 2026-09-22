@@ -8,5 +8,5 @@ export const subcategoryHaRestore = {
   nodeId: "ha-restore",
   nodeType: "subcategory",
   displayOrder: 3,
-  parent: "category-sustain",
+  parent: "temper-metric-tree/category-sustain",
 } as const satisfies TemperMetricTree

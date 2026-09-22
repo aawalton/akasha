@@ -8,5 +8,5 @@ export const metricHealingEffectivePowerBase = {
   nodeId: "healing-effective-power-base",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-healing-power",
+  parent: "temper-metric-tree/subcategory-healing-power",
 } as const satisfies TemperMetricTree

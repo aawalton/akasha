@@ -8,5 +8,5 @@ export const metricHealingDoneDirect = {
   nodeId: "healing-done-direct",
   nodeType: "metric",
   displayOrder: 2,
-  parent: "subcategory-healing-done",
+  parent: "temper-metric-tree/subcategory-healing-done",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const subcategoryDamageDoneByType = {
   nodeId: "damage-done-by-type",
   nodeType: "subcategory",
   displayOrder: 7,
-  parent: "category-damage",
+  parent: "temper-metric-tree/category-damage",
 } as const satisfies TemperMetricTree

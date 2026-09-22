@@ -8,6 +8,6 @@ export const metricResistancePhysical = {
   nodeId: "resistance-physical",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "metric-resistance",
+  parent: "temper-metric-tree/metric-resistance",
   includeInChildAggregates: true,
 } as const satisfies TemperMetricTree

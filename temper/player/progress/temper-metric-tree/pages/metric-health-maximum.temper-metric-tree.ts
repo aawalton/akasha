@@ -8,5 +8,5 @@ export const metricHealthMaximum = {
   nodeId: "health-maximum",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "subcategory-health",
+  parent: "temper-metric-tree/subcategory-health",
 } as const satisfies TemperMetricTree

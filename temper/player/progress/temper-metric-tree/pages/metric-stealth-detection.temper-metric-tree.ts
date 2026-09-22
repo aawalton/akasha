@@ -8,5 +8,5 @@ export const metricStealthDetection = {
   nodeId: "stealth-detection",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "subcategory-stealth",
+  parent: "temper-metric-tree/subcategory-stealth",
 } as const satisfies TemperMetricTree

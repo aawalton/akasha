@@ -8,5 +8,5 @@ export const metricPotionCooldown = {
   nodeId: "potion-cooldown",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "subcategory-potions",
+  parent: "temper-metric-tree/subcategory-potions",
 } as const satisfies TemperMetricTree

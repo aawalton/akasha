@@ -8,5 +8,5 @@ export const metricPenetrationSpell = {
   nodeId: "penetration-spell",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "metric-penetration",
+  parent: "temper-metric-tree/metric-penetration",
 } as const satisfies TemperMetricTree

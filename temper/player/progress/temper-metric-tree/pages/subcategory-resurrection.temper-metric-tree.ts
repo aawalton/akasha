@@ -8,5 +8,5 @@ export const subcategoryResurrection = {
   nodeId: "resurrection",
   nodeType: "subcategory",
   displayOrder: 5,
-  parent: "category-healing",
+  parent: "temper-metric-tree/category-healing",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const metricSynergyEffectiveness = {
   nodeId: "synergy-effectiveness",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "category-other",
+  parent: "temper-metric-tree/category-other",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const subcategoryCrowdControl = {
   nodeId: "crowd-control",
   nodeType: "subcategory",
   displayOrder: 4,
-  parent: "category-other",
+  parent: "temper-metric-tree/category-other",
 } as const satisfies TemperMetricTree

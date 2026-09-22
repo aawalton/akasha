@@ -8,5 +8,5 @@ export const metricHaWerewolf = {
   nodeId: "ha-werewolf",
   nodeType: "metric",
   displayOrder: 10,
-  parent: "subcategory-ha-damage",
+  parent: "temper-metric-tree/subcategory-ha-damage",
 } as const satisfies TemperMetricTree

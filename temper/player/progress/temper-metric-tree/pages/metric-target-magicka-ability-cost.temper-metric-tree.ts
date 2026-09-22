@@ -8,5 +8,5 @@ export const metricTargetMagickaAbilityCost = {
   nodeId: "target-magicka-ability-cost",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "subcategory-target-sustain",
+  parent: "temper-metric-tree/subcategory-target-sustain",
 } as const satisfies TemperMetricTree

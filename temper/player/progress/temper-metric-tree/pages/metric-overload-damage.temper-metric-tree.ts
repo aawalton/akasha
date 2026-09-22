@@ -8,5 +8,5 @@ export const metricOverloadDamage = {
   nodeId: "overload-damage",
   nodeType: "metric",
   displayOrder: 4,
-  parent: "subcategory-light-attacks",
+  parent: "temper-metric-tree/subcategory-light-attacks",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const metricTargetPhysicalDebuff = {
   nodeId: "target-physical-debuff",
   nodeType: "metric",
   displayOrder: 3,
-  parent: "subcategory-target-toughness",
+  parent: "temper-metric-tree/subcategory-target-toughness",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const metricResistanceFlame = {
   nodeId: "resistance-flame",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "metric-resistance-spell",
+  parent: "temper-metric-tree/metric-resistance-spell",
 } as const satisfies TemperMetricTree

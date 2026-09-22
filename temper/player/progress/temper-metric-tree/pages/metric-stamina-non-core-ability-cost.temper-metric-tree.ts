@@ -8,5 +8,5 @@ export const metricStaminaNonCoreAbilityCost = {
   nodeId: "stamina-non-core-ability-cost",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-stamina",
+  parent: "temper-metric-tree/subcategory-stamina",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const metricMountStaminaMaximum = {
   nodeId: "mount-stamina-maximum",
   nodeType: "metric",
   displayOrder: 4,
-  parent: "category-mobility",
+  parent: "temper-metric-tree/category-mobility",
 } as const satisfies TemperMetricTree

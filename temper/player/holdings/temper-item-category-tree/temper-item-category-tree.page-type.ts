@@ -72,6 +72,7 @@ export const temperItemCategoryTree = {
     },
     { pageProperty: "number-property/priority-order", required: false, many: false },
     { pageProperty: "text-property/item-name-contains", required: false, many: false },
+    { pageProperty: "text-property/parent", required: false, many: false },
   ],
   decisions: [
     {

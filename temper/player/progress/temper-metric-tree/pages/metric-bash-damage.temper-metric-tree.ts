@@ -8,5 +8,5 @@ export const metricBashDamage = {
   nodeId: "bash-damage",
   nodeType: "metric",
   displayOrder: 6,
-  parent: "category-damage",
+  parent: "temper-metric-tree/category-damage",
 } as const satisfies TemperMetricTree

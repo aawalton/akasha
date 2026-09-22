@@ -8,5 +8,5 @@ export const metricBlockSpeed = {
   nodeId: "block-speed",
   nodeType: "metric",
   displayOrder: 2,
-  parent: "subcategory-block",
+  parent: "temper-metric-tree/subcategory-block",
 } as const satisfies TemperMetricTree

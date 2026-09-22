@@ -8,5 +8,5 @@ export const metricHaRestoreDw = {
   nodeId: "ha-restore-dw",
   nodeType: "metric",
   displayOrder: 3,
-  parent: "subcategory-ha-restore",
+  parent: "temper-metric-tree/subcategory-ha-restore",
 } as const satisfies TemperMetricTree

@@ -8,5 +8,5 @@ export const metricStatusDuration = {
   nodeId: "status-duration",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-status-effects",
+  parent: "temper-metric-tree/subcategory-status-effects",
 } as const satisfies TemperMetricTree

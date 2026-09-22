@@ -8,5 +8,5 @@ export const metricDivines = {
   nodeId: "divines",
   nodeType: "metric",
   displayOrder: 0,
-  parent: "subcategory-traits",
+  parent: "temper-metric-tree/subcategory-traits",
 } as const satisfies TemperMetricTree

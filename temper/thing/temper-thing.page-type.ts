@@ -16,8 +16,8 @@ export const temperThing = {
     "text-property/eso-character-id",
     "text-property/icon",
     "text-property/key",
-    "text-property/parent",
     "text-property/zone-name",
+    "text-property/parent",
   ],
   properties: [
     { pageProperty: "text-property/key", required: false, many: false },
@@ -28,7 +28,6 @@ export const temperThing = {
     { pageProperty: "text-property/category", required: false, many: false },
     { pageProperty: "relation-property/companion-id", required: false, many: false },
     { pageProperty: "text-property/eso-character-id", required: false, many: false },
-    { pageProperty: "text-property/parent", required: false, many: false },
   ],
   decisions: [
     {

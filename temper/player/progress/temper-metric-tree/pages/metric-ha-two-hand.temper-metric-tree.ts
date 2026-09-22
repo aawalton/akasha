@@ -8,5 +8,5 @@ export const metricHaTwoHand = {
   nodeId: "ha-two-hand",
   nodeType: "metric",
   displayOrder: 8,
-  parent: "subcategory-ha-damage",
+  parent: "temper-metric-tree/subcategory-ha-damage",
 } as const satisfies TemperMetricTree

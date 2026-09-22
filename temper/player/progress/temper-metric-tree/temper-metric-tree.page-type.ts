@@ -10,6 +10,7 @@ export const temperMetricTree = {
     "boolean-property/include-in-child-aggregates",
     "boolean-property/use-accent-color",
     "text-property/node-type",
+    "relation-property/metric-tree-parent",
   ],
   properties: [
     { pageProperty: "text-property/node-id", required: true, many: false },
@@ -21,6 +22,7 @@ export const temperMetricTree = {
       many: false,
     },
     { pageProperty: "boolean-property/use-accent-color", required: false, many: false },
+    { pageProperty: "relation-property/metric-tree-parent", required: false, many: false },
   ],
   decisions: [
     {

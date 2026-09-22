@@ -8,5 +8,5 @@ export const metricPotionDuration = {
   nodeId: "potion-duration",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-potions",
+  parent: "temper-metric-tree/subcategory-potions",
 } as const satisfies TemperMetricTree

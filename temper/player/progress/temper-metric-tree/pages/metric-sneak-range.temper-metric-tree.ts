@@ -8,5 +8,5 @@ export const metricSneakRange = {
   nodeId: "sneak-range",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-stealth",
+  parent: "temper-metric-tree/subcategory-stealth",
 } as const satisfies TemperMetricTree

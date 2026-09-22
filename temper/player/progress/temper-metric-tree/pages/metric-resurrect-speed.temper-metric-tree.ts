@@ -8,5 +8,5 @@ export const metricResurrectSpeed = {
   nodeId: "resurrect-speed",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "subcategory-resurrection",
+  parent: "temper-metric-tree/subcategory-resurrection",
 } as const satisfies TemperMetricTree

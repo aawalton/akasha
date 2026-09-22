@@ -7,7 +7,6 @@ import type { DisplayOrder } from "akasha/temper/thing/properties/display-order.
 import type { EsoCharacterId } from "akasha/temper/thing/properties/eso-character-id.text-property.types.ts"
 import type { Icon } from "akasha/temper/thing/properties/icon.text-property.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
-import type { Parent } from "akasha/temper/thing/properties/parent.text-property.types.ts"
 
 export type TemperThing = Page & {
   key?: Key
@@ -18,5 +17,4 @@ export type TemperThing = Page & {
   category?: Category
   companionId?: CompanionId
   esoCharacterId?: EsoCharacterId
-  parent?: Parent
 }

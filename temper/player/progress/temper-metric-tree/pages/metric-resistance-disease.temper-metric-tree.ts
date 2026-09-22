@@ -8,5 +8,5 @@ export const metricResistanceDisease = {
   nodeId: "resistance-disease",
   nodeType: "metric",
   displayOrder: 1,
-  parent: "metric-resistance-physical",
+  parent: "temper-metric-tree/metric-resistance-physical",
 } as const satisfies TemperMetricTree

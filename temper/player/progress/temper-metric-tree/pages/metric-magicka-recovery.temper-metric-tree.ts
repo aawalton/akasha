@@ -8,5 +8,5 @@ export const metricMagickaRecovery = {
   nodeId: "magicka-recovery",
   nodeType: "metric",
   displayOrder: 2,
-  parent: "subcategory-magicka",
+  parent: "temper-metric-tree/subcategory-magicka",
 } as const satisfies TemperMetricTree

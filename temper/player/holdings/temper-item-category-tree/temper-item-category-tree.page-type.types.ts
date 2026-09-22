@@ -10,6 +10,7 @@ import type { SpecializedItemTypes } from "akasha/temper/player/holdings/temper-
 import type { TraitTypeRange } from "akasha/temper/player/holdings/temper-item-category-tree/properties/trait-type-range.number-property.types.ts"
 import type { WeaponTypes } from "akasha/temper/player/holdings/temper-item-category-tree/properties/weapon-types.number-property.types.ts"
 import type { DisplayOrder } from "akasha/temper/thing/properties/display-order.number-property.types.ts"
+import type { Parent } from "akasha/temper/thing/properties/parent.text-property.types.ts"
 import type { TemperThing } from "akasha/temper/thing/temper-thing.page-type.types.ts"
 
 export type TemperItemCategoryTree = TemperThing & {
@@ -25,4 +26,5 @@ export type TemperItemCategoryTree = TemperThing & {
   weaponTypes?: WeaponTypes
   priorityOrder?: PriorityOrder
   itemNameContains?: ItemNameContains
+  parent?: Parent
 }

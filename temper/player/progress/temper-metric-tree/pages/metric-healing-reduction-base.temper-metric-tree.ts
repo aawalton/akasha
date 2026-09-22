@@ -8,5 +8,5 @@ export const metricHealingReductionBase = {
   nodeId: "healing-reduction-base",
   nodeType: "metric",
   displayOrder: 4,
-  parent: "category-healing",
+  parent: "temper-metric-tree/category-healing",
 } as const satisfies TemperMetricTree

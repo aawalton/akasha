@@ -8,5 +8,5 @@ export const metricDefenseSpellAoeMitigation = {
   nodeId: "defense-spell-aoe-mitigation",
   nodeType: "metric",
   displayOrder: 4,
-  parent: "subcategory-defense-mitigation",
+  parent: "temper-metric-tree/subcategory-defense-mitigation",
 } as const satisfies TemperMetricTree
