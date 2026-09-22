@@ -8,6 +8,7 @@ import {
   writeWisdomWords,
 } from "akasha/alan/track/daily/modules/write-daily-points/write-daily-points.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
+import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -17,7 +18,34 @@ import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-a
 
 export const WORDS_COUNTED_FROM = "2026-09-06"
 
-const WISDOM_PATHSPEC = ":(glob)**/*.all-about-alan-topic.ts"
+const WISDOM_PAGE_TYPE = "all-about-alan-topic"
+
+export function folderHolding(paths: readonly string[]): string | null {
+  let held: readonly string[] | null = null
+  for (const path of paths) {
+    const steps = path.split("/").slice(0, -1)
+    if (held === null) {
+      held = steps
+      continue
+    }
+    let same = 0
+    while (same < held.length && same < steps.length && held[same] === steps[same]) same += 1
+    held = held.slice(0, same)
+  }
+  return held === null || held.length === 0 ? null : held.join("/")
+}
+
+export function wisdomPathspecIn(roots: Roots): string {
+  const paths = everyOfType(rootFor(roots, AKASHA), WISDOM_PAGE_TYPE).map((one) => one.path)
+  const folder = folderHolding(paths)
+  if (folder === null) {
+    throw new Error(
+      `the index lists no \`${WISDOM_PAGE_TYPE}\` page, so where Alan's topics sit is unknown ` +
+        "rather than empty, and counting a day against nothing would write a zero he never earned"
+    )
+  }
+  return `:(glob)${folder}/**/*.${WISDOM_PAGE_TYPE}.ts`
+}
 
 const INTELLIGENCE_PATHSPEC = ":(glob)alan/book/pages/learn-everything/topic/pages/**/*.md"
 
@@ -179,7 +207,8 @@ export async function rollupWisdomWordsForDay(
   dayStr: string
 ): Promise<{ wisdomWords: number; shas: readonly string[]; outcome: WriteOutcome }> {
   refuseBeforeStart(dayStr, "wisdom words")
-  const { words, shas } = await countWordsForDay(resolveRoots(), dayStr, WISDOM_PATHSPEC)
+  const roots = resolveRoots()
+  const { words, shas } = await countWordsForDay(roots, dayStr, wisdomPathspecIn(roots))
   const outcome = await writeWisdomWords(dayStr, words)
   return { wisdomWords: words, shas, outcome }
 }

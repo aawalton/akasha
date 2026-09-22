@@ -85,13 +85,17 @@ export const topicWords = {
       statement: "Importing this file counts nothing.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Wisdom words are counted by the page type of the file rather than by where the file sits.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here names the folder the topic pages sit in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Wisdom words are counted under the folder the index lists the topic pages in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A count over a folder the index lists no topic page in raises rather than reading zero.",
     },
   ],
 } as const satisfies Module
