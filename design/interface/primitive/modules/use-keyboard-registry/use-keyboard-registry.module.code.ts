@@ -10,7 +10,6 @@ import {
   selectBindingsById,
 } from "akasha/design/interface/primitive/modules/keyboard-registry/keyboard-registry.module.code.ts"
 import { useEffect, useRef, useSyncExternalStore } from "react"
-import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
 
 const STORAGE_KEY = "keyboard-shortcuts-enabled"
 
