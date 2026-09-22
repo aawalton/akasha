@@ -315,6 +315,15 @@ export const CONSOLIDATION_MIGRATIONS = [
     },
   },
   {
+    mode: "append",
+    runFor: "TemperHud",
+    spec: {
+      absorbedFileBase: "TemperAddons",
+      absorbedGlobal: "TemperAddons_SavedVariables",
+      targetFileBase: "TemperHud",
+    },
+  },
+  {
     mode: "rename",
     runFor: "TemperItems",
     oldFileBase: "TemperInventory",

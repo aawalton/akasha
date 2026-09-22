@@ -5,8 +5,12 @@
   "author": "AlanGaming",
   "version": "1.0.0",
   "addonVersion": 100,
-  "apiVersion": ["101041", "101042", "101049"],
-  "savedVariables": ["TemperHud_SavedVariables", "TemperErrors_SavedVariables"],
+  "apiVersion": ["101041", "101042", "101049", "101050"],
+  "savedVariables": [
+    "TemperHud_SavedVariables",
+    "TemperErrors_SavedVariables",
+    "TemperAddons_SavedVariables"
+  ],
   "additionalLuaFiles": [],
   "dependsOn": ["LibAddonMenu-2.0>=43"],
   "optionalDependsOn": []

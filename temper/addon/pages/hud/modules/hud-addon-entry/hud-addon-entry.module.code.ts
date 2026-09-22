@@ -10,11 +10,11 @@ import {
 } from "akasha/temper/addon/pages/hud/modules/hud-addon-builtins/hud-addon-builtins.module.code.ts"
 import { initializeTemperCommands } from "akasha/temper/addon/pages/hud/modules/hud-addon-command/hud-addon-command.module.code.ts"
 import { initializeComponentHiding } from "akasha/temper/addon/pages/hud/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/addon/pages/hud/modules/hud-addon-names/hud-addon-names.module.code.ts"
 import { initializeSavedVariables } from "akasha/temper/addon/pages/hud/modules/hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts"
 import { initializeSettingsPanel } from "akasha/temper/addon/pages/hud/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"
+import { initializeSelector } from "akasha/temper/addon/pages/hud/modules/selector-entry/selector-entry.module.code.ts"
 import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
-
-const ADDON_NAME = "TemperHud"
 
 function initialize(this: void): undefined {
   initializeSavedVariables()
@@ -23,6 +23,7 @@ function initialize(this: void): undefined {
   initializeSettingsPanel()
   installBuiltinFields()
   initializeTemperCommands()
+  initializeSelector()
 
   EVENT_MANAGER.RegisterForEvent(
     `${ADDON_NAME}_PlayerActivated`,
