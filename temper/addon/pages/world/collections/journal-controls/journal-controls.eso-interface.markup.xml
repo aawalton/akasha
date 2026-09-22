@@ -8,11 +8,11 @@
 			Main UI
 		-->
 
-		<Label name="ExtendedJournalHeaderLabel" font="ZoFontGameLargeBold" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" virtual="true" />
-		<Label name="ExtendedJournalFooterLabel" font="ZoFontGameSmall" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_DISABLED" virtual="true" />
-		<Label name="ExtendedJournalRowLabel" font="ZoFontGame" wrapMode="ELLIPSIS" horizontalAlignment="LEFT" verticalAlignment="CENTER" virtual="true" />
+		<Label name="TemperWorldJournalHeaderLabel" font="ZoFontGameLargeBold" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" virtual="true" />
+		<Label name="TemperWorldJournalFooterLabel" font="ZoFontGameSmall" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_DISABLED" virtual="true" />
+		<Label name="TemperWorldJournalRowLabel" font="ZoFontGame" wrapMode="ELLIPSIS" horizontalAlignment="LEFT" verticalAlignment="CENTER" virtual="true" />
 
-		<Control name="ExtendedJournalSearchFilter" resizeToFitDescendents="true" mouseEnabled="true" virtual="true">
+		<Control name="TemperWorldJournalSearchFilter" resizeToFitDescendents="true" mouseEnabled="true" virtual="true">
 			<Controls>
 				<Backdrop name="$(parent)Field" tier="HIGH" inherits="ZO_SingleLineEditBackdrop_Keyboard">
 					<Anchor point="RIGHT" />
@@ -21,13 +21,13 @@
 						<EditBox name="$(parent)Box" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText" />
 					</Controls>
 				</Backdrop>
-				<Label name="$(parent)Label" text="SI_EXTENDED_JOURNAL_SEARCH" inherits="ExtendedJournalHeaderLabel">
+				<Label name="$(parent)Label" text="SI_EXTENDED_JOURNAL_SEARCH" inherits="TemperWorldJournalHeaderLabel">
 					<Anchor point="RIGHT" relativePoint="LEFT" relativeTo="$(parent)Field" offsetX="-8" />
 				</Label>
 			</Controls>
 		</Control>
 
-		<Control name="ExtendedJournalFooterComboBox" resizeToFitDescendents="true" mouseEnabled="true" virtual="true">
+		<Control name="TemperWorldJournalFooterComboBox" resizeToFitDescendents="true" mouseEnabled="true" virtual="true">
 			<OnInitialized>
 				ZO_ComboBox:New(self).shouldOpenAbove = true
 			</OnInitialized>
@@ -37,20 +37,20 @@
 				end
 			</OnMouseUp>
 			<Controls>
-				<Label name="$(parent)Caption" inherits="ExtendedJournalFooterLabel">
+				<Label name="$(parent)Caption" inherits="TemperWorldJournalFooterLabel">
 					<Anchor point="TOPLEFT" />
 				</Label>
-				<Label name="$(parent)SelectedItemText" inherits="ExtendedJournalFooterLabel">
+				<Label name="$(parent)SelectedItemText" inherits="TemperWorldJournalFooterLabel">
 					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Caption" offsetX="4" />
 				</Label>
-				<Label name="$(parent)Change" text="SI_EXTENDED_JOURNAL_CHANGE" inherits="ExtendedJournalFooterLabel">
+				<Label name="$(parent)Change" text="SI_EXTENDED_JOURNAL_CHANGE" inherits="TemperWorldJournalFooterLabel">
 					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)SelectedItemText" offsetX="4" />
 				</Label>
 				<Button name="$(parent)OpenDropdown" inherits="ZO_DropdownButton" hidden="true" />
 			</Controls>
 		</Control>
 
-		<TopLevelControl name="ExtendedJournalFrame" inherits="ZO_RightPanelFootPrint" hidden="true">
+		<TopLevelControl name="TemperWorldJournalFrame" inherits="ZO_RightPanelFootPrint" hidden="true">
 			<Controls>
 				<Control name="$(parent)MenuBar" inherits="ZO_LabelButtonBar">
 					<Anchor point="BOTTOMRIGHT" relativePoint="TOPRIGHT" offsetX="-40" offsetY="-11" />
@@ -63,9 +63,9 @@
 			Tooltips
 		-->
 
-		<Label name="ExtendedJournalTooltipTop" font="ZoFontGameSmall" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_HIGHLIGHT" virtual="true" />
+		<Label name="TemperWorldJournalTooltipTop" font="ZoFontGameSmall" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_HIGHLIGHT" virtual="true" />
 
-		<Control name="ExtendedJournalTooltipSection" resizeToFitDescendents="true" hidden="true" virtual="true">
+		<Control name="TemperWorldJournalTooltipSection" resizeToFitDescendents="true" hidden="true" virtual="true">
 			<Controls>
 				<Label name="$(parent)Header" font="LejFontTinyBold" horizontalAlignment="CENTER" modifyTextType="UPPERCASE" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_TOOLTIP_DEFAULT">
 					<Anchor point="TOPLEFT" />
@@ -78,33 +78,33 @@
 			</Controls>
 		</Control>
 
-		<Control name="ExtendedJournalTooltipExtension" resizeToFitDescendents="true" virtual="true">
+		<Control name="TemperWorldJournalTooltipExtension" resizeToFitDescendents="true" virtual="true">
 			<Controls>
 				<Texture name="$(parent)Divider" inherits="ZO_BaseTooltipDivider">
 					<Anchor point="TOP" />
 				</Texture>
-				<Label name="$(parent)Left" inherits="ExtendedJournalTooltipTop">
+				<Label name="$(parent)Left" inherits="TemperWorldJournalTooltipTop">
 					<Anchor point="TOPLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)Divider" offsetX="16" />
 				</Label>
-				<Label name="$(parent)Right" inherits="ExtendedJournalTooltipTop">
+				<Label name="$(parent)Right" inherits="TemperWorldJournalTooltipTop">
 					<Anchor point="TOPRIGHT" relativePoint="BOTTOMRIGHT" relativeTo="$(parent)Divider" offsetX="-16" />
 				</Label>
-				<Control name="$(parent)Section" inherits="ExtendedJournalTooltipSection">
+				<Control name="$(parent)Section" inherits="TemperWorldJournalTooltipSection">
 					<Anchor point="TOPLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)Divider" offsetY="16" />
 					<Anchor point="RIGHT" constrains="X" />
 				</Control>
 			</Controls>
 		</Control>
 
-		<TopLevelControl name="ExtendedJournalItemTooltipTopLevel" inherits="TooltipTopLevel">
+		<TopLevelControl name="TemperWorldJournalItemTooltipTopLevel" inherits="TooltipTopLevel">
 			<Controls>
-				<Tooltip name="ExtendedJournalItemTooltip" inherits="ZO_ItemIconTooltip" />
+				<Tooltip name="TemperWorldJournalItemTooltip" inherits="ZO_ItemIconTooltip" />
 			</Controls>
 		</TopLevelControl>
 
-		<TopLevelControl name="ExtendedJournalTextTooltipTopLevel" inherits="TooltipTopLevel">
+		<TopLevelControl name="TemperWorldJournalTextTooltipTopLevel" inherits="TooltipTopLevel">
 			<Controls>
-				<Tooltip name="ExtendedJournalTextTooltip" inherits="ZO_ItemIconTooltip" />
+				<Tooltip name="TemperWorldJournalTextTooltip" inherits="ZO_ItemIconTooltip" />
 			</Controls>
 		</TopLevelControl>
 	</Controls>

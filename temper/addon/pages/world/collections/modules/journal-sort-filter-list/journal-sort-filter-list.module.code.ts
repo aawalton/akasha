@@ -76,9 +76,10 @@ Internal.CleanupDefaultActionButton = (): undefined => {
   KEYBIND_STRIP.RemoveKeybindButton(DEFAULT_ACTION_BUTTON)
 }
 
-export const ExtendedJournalSortFilterList: ZoSortFilterListSubclass = ZO_SortFilterList.Subclass()
+export const TemperWorldJournalSortFilterList: ZoSortFilterListSubclass =
+  ZO_SortFilterList.Subclass()
 
-ExtendedJournalSortFilterList.New = function (
+TemperWorldJournalSortFilterList.New = function (
   this: ZoSortFilterListSubclass,
   control: Control,
   contextMenuItems?: readonly ContextMenuEntry[],
@@ -97,7 +98,7 @@ ExtendedJournalSortFilterList.New = function (
   return list
 }
 
-ExtendedJournalSortFilterList.SortScrollList = function (this: LejList): undefined {
+TemperWorldJournalSortFilterList.SortScrollList = function (this: LejList): undefined {
   if (this.currentSortKey !== undefined && this.currentSortOrder !== undefined) {
     const dataList = ZO_ScrollList_GetDataList<never>(this.list)
     if (dataList !== undefined && this.sortFunction !== undefined) {
@@ -107,7 +108,7 @@ ExtendedJournalSortFilterList.SortScrollList = function (this: LejList): undefin
   this.RefreshVisible()
 }
 
-ExtendedJournalSortFilterList.Row_OnMouseEnter = function (
+TemperWorldJournalSortFilterList.Row_OnMouseEnter = function (
   this: LejList,
   control: Control
 ): undefined {
@@ -126,7 +127,7 @@ ExtendedJournalSortFilterList.Row_OnMouseEnter = function (
   }
 }
 
-ExtendedJournalSortFilterList.Row_OnMouseExit = function (
+TemperWorldJournalSortFilterList.Row_OnMouseExit = function (
   this: LejList,
   control: Control
 ): undefined {
@@ -134,7 +135,7 @@ ExtendedJournalSortFilterList.Row_OnMouseExit = function (
   Internal.CleanupDefaultActionButton()
 }
 
-ExtendedJournalSortFilterList.Row_OnMouseUp = function (
+TemperWorldJournalSortFilterList.Row_OnMouseUp = function (
   this: LejList,
   control: Control,
   button: number,
@@ -180,7 +181,7 @@ ExtendedJournalSortFilterList.Row_OnMouseUp = function (
   }
 }
 
-ExtendedJournalSortFilterList.InitializeSearch = function (
+TemperWorldJournalSortFilterList.InitializeSearch = function (
   this: LejList,
   typeId: number
 ): ZoStringSearch {
@@ -213,7 +214,7 @@ ExtendedJournalSortFilterList.InitializeSearch = function (
   return search
 }
 
-ExtendedJournalSortFilterList.UpdateState = function (this: LejList): undefined {
+TemperWorldJournalSortFilterList.UpdateState = function (this: LejList): undefined {
   this.RefreshFilters()
 }
 
@@ -241,7 +242,7 @@ function updateWidth(this: void, object: ZoComboBox): undefined {
   }
 }
 
-ExtendedJournalSortFilterList.InitializeComboBox = function (
+TemperWorldJournalSortFilterList.InitializeComboBox = function (
   this: LejList,
   object: ZoComboBox,
   items: ComboItems,
@@ -289,5 +290,5 @@ ExtendedJournalSortFilterList.InitializeComboBox = function (
 }
 
 export function journalListClass(this: void): JournalListClass {
-  return asJournalListClass(ExtendedJournalSortFilterList)
+  return asJournalListClass(TemperWorldJournalSortFilterList)
 }

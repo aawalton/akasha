@@ -11,7 +11,7 @@ import {
   Internal,
   Public,
 } from "akasha/temper/addon/pages/world/collections/modules/journal-state/journal-state.module.code.ts"
-import { ExtendedJournalTooltipExtension } from "akasha/temper/addon/pages/world/collections/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"
+import { TemperWorldJournalTooltipExtension } from "akasha/temper/addon/pages/world/collections/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/addon/pages/world/collections/journal-control-names/journal-control-names.type-declaration.d.ts"
@@ -22,7 +22,7 @@ import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 const Controls = Internal.controls
 
 Public.InitializeTooltip = (control?: TooltipControl): TooltipControl => {
-  const c = control ?? ExtendedJournalItemTooltip
+  const c = control ?? TemperWorldJournalItemTooltip
   if (Internal.initialized) {
     InitializeTooltip(c, Controls.frame, TOPRIGHT, -100, 0, TOPLEFT)
   }
@@ -55,7 +55,7 @@ function tooltipExtensionAcquire(this: void, name?: string): TooltipExtensionIns
   const key = name ?? "Default"
   let ext = EXTENSIONS[key]
   if (ext === undefined) {
-    ext = ExtendedJournalTooltipExtension.New(key)
+    ext = TemperWorldJournalTooltipExtension.New(key)
     EXTENSIONS[key] = ext
   }
   return ext

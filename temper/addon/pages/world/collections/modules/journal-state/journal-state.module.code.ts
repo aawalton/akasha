@@ -14,7 +14,7 @@ const Public: PublicTable = asPublicTable({
 
 const Internal: InternalTable = asInternalTable({
   name: ADDON_NAME,
-  SCENE_NAME: "ExtendedJournalScene",
+  SCENE_NAME: "TemperWorldJournalScene",
   initialized: false,
   controls: {},
   tabs: {},

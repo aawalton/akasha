@@ -21,20 +21,20 @@ export interface TooltipExtensionClass {
 
 Public.TOOLTIP_VERSION = 5
 
-export const ExtendedJournalTooltipExtension: TooltipExtensionClass =
+export const TemperWorldJournalTooltipExtension: TooltipExtensionClass =
   ZO_Object.Subclass<TooltipExtensionClass>()
 
-ExtendedJournalTooltipExtension.New = function (
+TemperWorldJournalTooltipExtension.New = function (
   this: TooltipExtensionClass,
   name: string
 ): TooltipExtensionInstance {
   const obj = ZO_Object.New<TooltipExtensionInstance>(this)
 
-  obj.name = "ExtendedJournalTooltipExtension_" + name
+  obj.name = "TemperWorldJournalTooltipExtension_" + name
   obj.control = WINDOW_MANAGER.CreateControlFromVirtual(
     obj.name,
     GuiRoot,
-    "ExtendedJournalTooltipExtension"
+    "TemperWorldJournalTooltipExtension"
   )
   obj.sections = [asControl(obj.control.GetNamedChild("Section"))]
   obj.index = 1
@@ -46,7 +46,7 @@ ExtendedJournalTooltipExtension.New = function (
   return obj
 }
 
-ExtendedJournalTooltipExtension.GetSection = function (this: TooltipExtensionInstance): Control {
+TemperWorldJournalTooltipExtension.GetSection = function (this: TooltipExtensionInstance): Control {
   const sections = this.sections
   const index = this.index
   this.index = index + 1
@@ -55,7 +55,7 @@ ExtendedJournalTooltipExtension.GetSection = function (this: TooltipExtensionIns
     const section = WINDOW_MANAGER.CreateControlFromVirtual(
       "$(parent)Section" + tostring(sections.length + 1),
       this.control,
-      "ExtendedJournalTooltipSection"
+      "TemperWorldJournalTooltipSection"
     )
     section.SetAnchor(TOPLEFT, sections[sections.length - 1], BOTTOMLEFT, 0, 12)
     section.SetAnchor(RIGHT, undefined, undefined, undefined, undefined, ANCHOR_CONSTRAINS_X)
@@ -64,7 +64,7 @@ ExtendedJournalTooltipExtension.GetSection = function (this: TooltipExtensionIns
   return asControl(sections[index - 1])
 }
 
-ExtendedJournalTooltipExtension.Initialize = function (
+TemperWorldJournalTooltipExtension.Initialize = function (
   this: TooltipExtensionInstance,
   showDivider: boolean,
   textLeft?: string,
@@ -82,7 +82,7 @@ ExtendedJournalTooltipExtension.Initialize = function (
   return this
 }
 
-ExtendedJournalTooltipExtension.AddSection = function (
+TemperWorldJournalTooltipExtension.AddSection = function (
   this: TooltipExtensionInstance,
   textHeader?: string,
   textBody?: string,
@@ -97,7 +97,7 @@ ExtendedJournalTooltipExtension.AddSection = function (
   control.SetHidden(false)
 }
 
-ExtendedJournalTooltipExtension.Finalize = function (
+TemperWorldJournalTooltipExtension.Finalize = function (
   this: TooltipExtensionInstance,
   tooltipControl: TooltipControl,
   showEmptyOrUnloadCallback?: boolean | ((this: void) => void)
@@ -123,7 +123,7 @@ ExtendedJournalTooltipExtension.Finalize = function (
   }
 }
 
-ExtendedJournalTooltipExtension.OnUnload = function (this: TooltipExtensionInstance): undefined {
+TemperWorldJournalTooltipExtension.OnUnload = function (this: TooltipExtensionInstance): undefined {
   const callback = this.unloadCallback
   this.unloadCallback = undefined
   this.loaded = undefined

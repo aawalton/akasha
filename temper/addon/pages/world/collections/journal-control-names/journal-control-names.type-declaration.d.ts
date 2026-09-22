@@ -1,3 +1,3 @@
-declare const ExtendedJournalFrame: Control
+declare const TemperWorldJournalFrame: Control
 
-declare const ExtendedJournalItemTooltip: TooltipControl
+declare const TemperWorldJournalItemTooltip: TooltipControl

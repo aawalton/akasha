@@ -45,7 +45,7 @@ Internal.LazyInitialize = (initialDescriptor?: string): undefined => {
   }
   Internal.initialized = true
 
-  Controls.frame = ExtendedJournalFrame
+  Controls.frame = TemperWorldJournalFrame
   Controls.menu = asControl(Controls.frame.GetNamedChild("MenuBar"))
   Controls.subtitle = asLabelControl(Controls.menu.GetNamedChild("Label"))
 

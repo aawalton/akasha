@@ -13,11 +13,11 @@
 			</OnMouseUp>
 			<Controls>
 				<Texture name="$(parent)BG" inherits="ZO_ThinListBgStrip" />
-				<Label name="$(parent)Name" inherits="ExtendedJournalRowLabel">
+				<Label name="$(parent)Name" inherits="TemperWorldJournalRowLabel">
 					<Anchor point="LEFT" />
 					<Dimensions x="300" y="30" />
 				</Label>
-				<Label name="$(parent)Type" inherits="ExtendedJournalRowLabel">
+				<Label name="$(parent)Type" inherits="TemperWorldJournalRowLabel">
 					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Name" />
 					<Dimensions x="120" y="30" />
 				</Label>
@@ -29,7 +29,7 @@
 					<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)Collected" />
 					<Dimensions x="40" y="14" />
 				</Label>
-				<Label name="$(parent)Source" inherits="ExtendedJournalRowLabel">
+				<Label name="$(parent)Source" inherits="TemperWorldJournalRowLabel">
 					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Type" />
 					<Anchor point="RIGHT" relativePoint="LEFT" relativeTo="$(parent)Collected" constrains="X" />
 					<Dimensions y="30" />
@@ -63,13 +63,13 @@
 						end
 					</OnMouseUp>
 					<Controls>
-						<Label name="$(parent)Anchor" inherits="ExtendedJournalHeaderLabel">
+						<Label name="$(parent)Anchor" inherits="TemperWorldJournalHeaderLabel">
 							<Anchor point="RIGHT" />
 						</Label>
-						<Label name="$(parent)ColonText" text=":" inherits="ExtendedJournalHeaderLabel">
+						<Label name="$(parent)ColonText" text=":" inherits="TemperWorldJournalHeaderLabel">
 							<Anchor point="RIGHT" relativePoint="LEFT" relativeTo="$(parent)Anchor" offsetX="-8" />
 						</Label>
-						<Label name="$(parent)SelectedItemText" inherits="ExtendedJournalHeaderLabel">
+						<Label name="$(parent)SelectedItemText" inherits="TemperWorldJournalHeaderLabel">
 							<Anchor point="RIGHT" relativePoint="LEFT" relativeTo="$(parent)ColonText" offsetX="-1" />
 						</Label>
 						<Button name="$(parent)OpenDropdown" inherits="ZO_DropdownButton">
@@ -124,19 +124,19 @@
 					<Anchor point="BOTTOMRIGHT" offsetX="-35" offsetY="-32" />
 				</Control>
 
-				<Label name="$(parent)CollectedCount" inherits="ExtendedJournalFooterLabel" horizontalAlignment="LEFT">
+				<Label name="$(parent)CollectedCount" inherits="TemperWorldJournalFooterLabel" horizontalAlignment="LEFT">
 					<Anchor point="TOPLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)List" offsetY="6" />
 				</Label>
 
-				<Control name="$(parent)AccountDrop" inherits="ExtendedJournalFooterComboBox" hidden="true">
+				<Control name="$(parent)AccountDrop" inherits="TemperWorldJournalFooterComboBox" hidden="true">
 					<Anchor point="TOPLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)List" offsetX="300" offsetY="6" />
 				</Control>
 
-				<Control name="$(parent)ServerDrop" inherits="ExtendedJournalFooterComboBox" hidden="true">
+				<Control name="$(parent)ServerDrop" inherits="TemperWorldJournalFooterComboBox" hidden="true">
 					<Anchor point="TOPLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)List" offsetX="600" offsetY="6" />
 				</Control>
 
-				<Label name="$(parent)Counter" inherits="ExtendedJournalFooterLabel" horizontalAlignment="RIGHT">
+				<Label name="$(parent)Counter" inherits="TemperWorldJournalFooterLabel" horizontalAlignment="RIGHT">
 					<Anchor point="TOPRIGHT" relativePoint="BOTTOMRIGHT" relativeTo="$(parent)List" offsetY="6" />
 				</Label>
 			</Controls>
