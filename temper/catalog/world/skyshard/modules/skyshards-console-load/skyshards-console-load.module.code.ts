@@ -1,3 +1,5 @@
+import { CUSTOM_COMPASS_LAYOUT_UPDATE } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-constants/compass-pins-constants.module.code.ts"
+import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { compassCallback } from "akasha/temper/catalog/world/skyshard/modules/skyshards-console-compass/skyshards-console-compass.module.code.ts"
 import {
   mapCallbackCreatePins,

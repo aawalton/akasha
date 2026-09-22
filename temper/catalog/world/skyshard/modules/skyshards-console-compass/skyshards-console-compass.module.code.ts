@@ -1,3 +1,4 @@
+import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { shouldDisplaySkyshards } from "akasha/temper/catalog/world/skyshard/modules/skyshards-console-should-display/skyshards-console-should-display.module.code.ts"
 import {
   CONSOLE_STATE,

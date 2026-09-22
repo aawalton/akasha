@@ -1,3 +1,4 @@
+import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import {
   createCompassPairPin,
   pairEnabled,

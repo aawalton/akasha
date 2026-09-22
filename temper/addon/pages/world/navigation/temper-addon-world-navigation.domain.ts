@@ -329,7 +329,7 @@ export const temperAddonWorldNavigation = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The compass pin library is published as CustomCompassPins.",
+      statement: "The compass pin manager is reached by import and published under no global.",
     },
     {
       decisionKind: "decision-kind/departure",

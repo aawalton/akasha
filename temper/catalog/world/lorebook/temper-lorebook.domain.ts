@@ -166,6 +166,7 @@ export const temperLorebook = {
     "type-declaration/lorebooks-controls",
     "type-declaration/lorebooks-public-api-declarations",
     "type-declaration/lorebooks-string-ids",
+    "module/lorebooks-pins-click-handlers",
   ],
   decisions: [
     {

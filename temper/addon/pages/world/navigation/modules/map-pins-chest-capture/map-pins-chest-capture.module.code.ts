@@ -1,3 +1,4 @@
+import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { CHEST_DATA } from "akasha/temper/addon/pages/world/navigation/modules/map-pins-chests/map-pins-chests.module.code.ts"
 import { CUSTOM_PINS } from "akasha/temper/addon/pages/world/navigation/modules/map-pins-config/map-pins-config.module.code.ts"
 import type {

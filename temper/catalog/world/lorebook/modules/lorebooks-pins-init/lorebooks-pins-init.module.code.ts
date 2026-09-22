@@ -1,3 +1,5 @@
+import { CUSTOM_COMPASS_LAYOUT_UPDATE } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-constants/compass-pins-constants.module.code.ts"
+import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import {
   ICON_LIST_ZONEID,
   LORE_LIBRARY_EIDETIC,
@@ -32,15 +34,14 @@ import {
   mapCallbackCreateShalidorPins,
   shalidorCompassCallback,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-pins-callbacks/lorebooks-pins-callbacks.module.code.ts"
+import { installClickHandlers } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-pins-click-handlers/lorebooks-pins-click-handlers.module.code.ts"
 import {
   asBookshelfCompassPinTag,
   asEideticCompassPinTag,
   asShalidorCompassPinTag,
   asTextureControl,
   type CompassPinControl,
-  type EideticClickPin,
   type LoreBooksCompassPinLayout,
-  type ShalidorClickPin,
   type ShalidorMapPinLayout,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-pins-tags/lorebooks-pins-tags.module.code.ts"
 import {
@@ -64,14 +65,6 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 function asCompassPinControl(value: unknown): CompassPinControl {
   return value as CompassPinControl
-}
-
-function asShalidorClickPin(value: unknown): ShalidorClickPin {
-  return value as ShalidorClickPin
-}
-
-function asEideticClickPin(value: unknown): EideticClickPin {
-  return value as EideticClickPin
 }
 
 function compassSizeCallback(
@@ -102,16 +95,6 @@ function compassSizeCallbackBookshelf(
 function onToggleCompassPin(this: void, compassPinType: string, enabled: boolean): undefined {
   COMPASS_PINS.SetCompassPinEnabled(compassPinType, enabled)
   COMPASS_PINS.RefreshPins(compassPinType)
-}
-
-function pingMapWaypoint(this: void, pin: MapPin): undefined {
-  PingMap(
-    MAP_PIN_TYPE_PLAYER_WAYPOINT,
-    MAP_TYPE_LOCATION_CENTERED,
-    pin.normalizedX,
-    pin.normalizedY,
-    undefined
-  )
 }
 
 export function initializePins(this: void): undefined {
@@ -315,95 +298,7 @@ export function initializePins(this: void): undefined {
   LibMapPins.SetPinFilterHidden(PINS_EIDETIC_COLLECTED, LIBMAPPINS_BATTLEGROUND_MAPGROUP, true)
   LibMapPins.SetPinFilterHidden(PINS_BOOKSHELF, LIBMAPPINS_BATTLEGROUND_MAPGROUP, true)
 
-  LibMapPins.SetClickHandlers(PINS_UNKNOWN, {
-    [1]: {
-      name: function (this: void, pin: MapPin): string {
-        const p = asShalidorClickPin(pin)
-        const [title] = loreBooksGetNewLoreBookInfo(
-          LORE_LIBRARY_SHALIDOR,
-          p.m_PinTag[SHALIDOR_COLLECTIONINDEX],
-          p.m_PinTag[SHALIDOR_BOOKINDEX]
-        )
-        return zo_strformat(LBOOKS_SET_WAYPOINT, title)
-      },
-      show: function (this: void, pin: MapPin): boolean {
-        const p = asShalidorClickPin(pin)
-        const [, , known] = loreBooksGetNewLoreBookInfo(
-          LORE_LIBRARY_SHALIDOR,
-          p.m_PinTag[SHALIDOR_COLLECTIONINDEX],
-          p.m_PinTag[SHALIDOR_BOOKINDEX]
-        )
-        return getSavedVariables().showClickMenu && !known
-      },
-      duplicates: function (this: void, pin1: MapPin, pin2: MapPin): boolean {
-        const p1 = asShalidorClickPin(pin1)
-        const p2 = asShalidorClickPin(pin2)
-        return (
-          p1.m_PinTag[SHALIDOR_COLLECTIONINDEX] === p2.m_PinTag[SHALIDOR_COLLECTIONINDEX] &&
-          p1.m_PinTag[SHALIDOR_BOOKINDEX] === p2.m_PinTag[SHALIDOR_BOOKINDEX]
-        )
-      },
-      callback: pingMapWaypoint,
-    },
-  })
-
-  LibMapPins.SetClickHandlers(PINS_EIDETIC, {
-    [1]: {
-      name: function (this: void, pin: MapPin): string {
-        const p = asEideticClickPin(pin)
-        const [title] = loreBooksGetNewLoreBookInfo(
-          LORE_LIBRARY_EIDETIC,
-          p.m_PinTag.c ?? 0,
-          p.m_PinTag.b ?? 0
-        )
-        return zo_strformat(LBOOKS_SET_WAYPOINT, title)
-      },
-      show: function (this: void, pin: MapPin): boolean {
-        const p = asEideticClickPin(pin)
-        const [, , known] = loreBooksGetNewLoreBookInfo(
-          LORE_LIBRARY_EIDETIC,
-          p.m_PinTag.c ?? 0,
-          p.m_PinTag.b ?? 0
-        )
-        return getSavedVariables().showClickMenu && !known
-      },
-      duplicates: function (this: void, pin1: MapPin, pin2: MapPin): boolean {
-        const p1 = asEideticClickPin(pin1)
-        const p2 = asEideticClickPin(pin2)
-        return p1.m_PinTag.b === p2.m_PinTag.c && p1.m_PinTag.b === p2.m_PinTag.b
-      },
-      callback: pingMapWaypoint,
-    },
-  })
-
-  LibMapPins.SetClickHandlers(PINS_EIDETIC_COLLECTED, {
-    [1]: {
-      name: function (this: void, pin: MapPin): string {
-        const p = asEideticClickPin(pin)
-        const [title] = loreBooksGetNewLoreBookInfo(
-          LORE_LIBRARY_EIDETIC,
-          p.m_PinTag.c ?? 0,
-          p.m_PinTag.b ?? 0
-        )
-        return zo_strformat(LBOOKS_SET_WAYPOINT, title)
-      },
-      show: function (this: void, pin: MapPin): boolean {
-        const p = asEideticClickPin(pin)
-        const [, , known] = loreBooksGetNewLoreBookInfo(
-          LORE_LIBRARY_EIDETIC,
-          p.m_PinTag.c ?? 0,
-          p.m_PinTag.b ?? 0
-        )
-        return getSavedVariables().showClickMenu && known === true
-      },
-      duplicates: function (this: void, pin1: MapPin, pin2: MapPin): boolean {
-        const p1 = asEideticClickPin(pin1)
-        const p2 = asEideticClickPin(pin2)
-        return p1.m_PinTag.b === p2.m_PinTag.c && p1.m_PinTag.b === p2.m_PinTag.b
-      },
-      callback: pingMapWaypoint,
-    },
-  })
+  installClickHandlers()
 
   COMPASS_PINS.AddCustomPin(
     PINS_COMPASS,

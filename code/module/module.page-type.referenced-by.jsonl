@@ -5088,6 +5088,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pin-appearance/lorebooks-pin-appearance.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pin-menus/lorebooks-pin-menus.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-callbacks/lorebooks-pins-callbacks.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-click-handlers/lorebooks-pins-click-handlers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-init/lorebooks-pins-init.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-tags/lorebooks-pins-tags.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-tooltips/lorebooks-pins-tooltips.module.ts"}

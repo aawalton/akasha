@@ -1,6 +1,3 @@
-declare var CUSTOM_COMPASS_LAYOUT_UPDATE: "update"
-declare var CUSTOM_COMPASS_LAYOUT_RESET: "reset"
-
 interface CompassPin extends Control {
   pinTag?: unknown
 }
@@ -57,5 +54,3 @@ interface CustomCompassPins {
   RefreshPins: (pinType?: number | string) => void
   SetCompassPinEnabled: (pinType: string, enabled: boolean) => void
 }
-
-declare var COMPASS_PINS: CustomCompassPins

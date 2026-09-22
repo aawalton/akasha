@@ -1,4 +1,9 @@
 import {
+  CUSTOM_COMPASS_LAYOUT_RESET,
+  CUSTOM_COMPASS_LAYOUT_UPDATE,
+} from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-constants/compass-pins-constants.module.code.ts"
+import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
+import {
   newColorDef,
   setTextureColor,
 } from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-colors/dungeon-champion-colors.module.code.ts"

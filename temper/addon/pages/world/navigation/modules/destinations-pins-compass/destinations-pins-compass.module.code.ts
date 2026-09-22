@@ -1,3 +1,4 @@
+import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { addAchievementCompassPins } from "akasha/temper/addon/pages/world/navigation/modules/destinations-compass-achievement-pins/destinations-compass-achievement-pins.module.code.ts"
 import { collectibleFishCompassPins } from "akasha/temper/addon/pages/world/navigation/modules/destinations-compass-collectible-fish-pins/destinations-compass-collectible-fish-pins.module.code.ts"
 import { addMiscCompassPins } from "akasha/temper/addon/pages/world/navigation/modules/destinations-compass-misc-pins/destinations-compass-misc-pins.module.code.ts"

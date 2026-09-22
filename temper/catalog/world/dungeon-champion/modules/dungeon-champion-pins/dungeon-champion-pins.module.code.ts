@@ -1,3 +1,4 @@
+import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { getUiString } from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-labels/dungeon-champion-labels.module.code.ts"
 import {
   asChampionPin,

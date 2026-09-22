@@ -1,3 +1,4 @@
+import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { ACHIEVEMENT_ITEMS } from "akasha/temper/addon/pages/world/navigation/modules/map-pins-achievement-items/map-pins-achievement-items.module.code.ts"
 import { ACHIEVEMENTS } from "akasha/temper/addon/pages/world/navigation/modules/map-pins-achievements/map-pins-achievements.module.code.ts"
 import { BOSSES } from "akasha/temper/addon/pages/world/navigation/modules/map-pins-bosses/map-pins-bosses.module.code.ts"
