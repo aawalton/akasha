@@ -1,12 +1,12 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { LOG_AT } from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 import { bodyOf } from "akasha/agent/subagent/modules/body/subagent-body.module.code.ts"
 import {
   pathOf,
   slugOf,
 } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
 import {
-  LOG_AT,
   lineFor,
   TAKING,
   WRITING,

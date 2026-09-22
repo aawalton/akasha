@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"supervisor-log-path.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-log-path.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-log-path.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-log-path.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"supervisor-log-path.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-log-path.module.code.ts","path":"command/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-log/supervisor-log.domain.ts","id":"01a09c85-63a7-7d18-9810-31274c95d4e9"}

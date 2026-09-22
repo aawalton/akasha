@@ -4,6 +4,8 @@ const ROOT_UID = 0
 
 const OURS = "akasha"
 
+export const LOG_AT = "subagent-presence.log"
+
 export function runtimeRootDir(): string {
   return `/run/user/${process.getuid?.() ?? ROOT_UID}`
 }

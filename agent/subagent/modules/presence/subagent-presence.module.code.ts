@@ -3,7 +3,10 @@ import { dirname, join } from "node:path"
 import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { akashaHolderPidOf } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
-import { supervisorsRootDir } from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
+import {
+  LOG_AT,
+  supervisorsRootDir,
+} from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 import { bodyOf } from "akasha/agent/subagent/modules/body/subagent-body.module.code.ts"
 import {
   landingAgain,
@@ -59,8 +62,6 @@ export const WRITING = "write"
 export const TAKING = "take"
 
 const SWEEPING = "sweep"
-
-export const LOG_AT = "subagent-presence.log"
 
 const CALLED_AS = "subagent-presence"
 

@@ -3,6 +3,7 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { readingIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { refusalsKept } from "akasha/agent/modules/refusals-keeping/refusals-keeping.module.code.ts"
+
 import {
   landingAgain,
   worthAnotherTry,
@@ -17,7 +18,6 @@ import {
   asking,
   assignedTo,
   heldForEdits,
-  LOG_AT,
   leftWhereItIs,
   logPathOf,
   notWorking,
@@ -96,7 +96,7 @@ test("a line carrying no stamp is read as carrying none", () => {
 })
 
 test("a log sits in the seat's own folder named for this module", () => {
-  expect(logPathOf(SEAT_ID, "/var/tmp/base")).toBe(`/var/tmp/base/${SEAT_ID}/${LOG_AT}`)
+  expect(logPathOf(SEAT_ID, "/var/tmp/base")).toBe(`/var/tmp/base/${SEAT_ID}/subagent-presence.log`)
 })
 
 test("a page takes the assignment from the page its seat is at", () => {
