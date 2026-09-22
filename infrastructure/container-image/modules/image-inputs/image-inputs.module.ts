@@ -15,7 +15,15 @@ export const imageInputs = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The inputs are read at the head of the folder handed in rather than off its working files.",
+        "The inputs are read at a commit rather than off the working files of the folder handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder stamped with the commit it is pinned at is read at that commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder with no commit stamped on it is read at its own head.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -41,6 +49,11 @@ export const imageInputs = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Such a folder is told from a checkout by git calling it no work tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Git refuses to answer drift outside a work tree, so drift is asked only of a checkout.",
     },
   ],
 } as const satisfies Module

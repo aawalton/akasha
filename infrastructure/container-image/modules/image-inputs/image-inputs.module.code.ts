@@ -1,6 +1,8 @@
 import { createHash } from "node:crypto"
+import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { stampIn } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 import type { ImageBuild } from "akasha/infrastructure/container-image/modules/image-build/image-build.module.code.ts"
 
@@ -35,9 +37,20 @@ function gitIn(argv: readonly string[], codeAt: string): string {
   return done.out
 }
 
+function pinnedIn(codeAt: string): string | null {
+  let held: string
+  try {
+    held = readFileSync(stampIn(codeAt), "utf8")
+  } catch {
+    return null
+  }
+  const one = held.trim()
+  return one === "" ? null : one
+}
+
 function listedFor(copied: readonly string[], codeAt: string): string {
   if (copied.length === 0) return ""
-  return gitIn(["ls-tree", "-r", "HEAD", "--", ...copied], codeAt)
+  return gitIn(["ls-tree", "-r", pinnedIn(codeAt) ?? "HEAD", "--", ...copied], codeAt)
 }
 
 export function inputsFor(build: ImageBuild, codeAt: string = ROOT): ImageInputs {
