@@ -5,6 +5,6 @@ export const turnEndErrorDeath = {
   type: "page-type/module",
   slug: "turn-end-error-death",
   definition:
-    "the run of api error statuses closing a transcript, which says a turn died rather than ended",
+    "the set of api error statuses closing a transcript, which says a turn died rather than ended",
   code: "ts",
 } as const satisfies Module

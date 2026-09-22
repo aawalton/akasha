@@ -4,6 +4,6 @@ export const esoBaseGameStringIds14 = {
   id: "01a06372-72ff-700e-82b7-8096a9764420",
   type: "page-type/module",
   slug: "eso-base-game-string-ids-14",
-  definition: "a run of the string ids the base game provides, in the whole census's order",
+  definition: "a set of the string ids the base game provides, in the whole census's order",
   code: "ts",
 } as const satisfies Module
