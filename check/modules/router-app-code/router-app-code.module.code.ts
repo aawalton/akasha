@@ -58,11 +58,12 @@ function underOf(app: Packaged, paths: readonly string[]): readonly string[] {
   return paths.filter((one) => one.startsWith(app.at) && textNamed(one))
 }
 
+export function pathsUnderIn(paths: readonly string[], at: string): readonly string[] {
+  return paths.filter((one) => one.startsWith(at) && textNamed(one)).toSorted()
+}
+
 export function pathsUnder(shadow: Shadow, at: string): readonly string[] {
-  return shadow
-    .listed()
-    .filter((one) => one.startsWith(at) && textNamed(one))
-    .toSorted()
+  return pathsUnderIn(shadow.listed(), at)
 }
 
 export function pathsFor(

@@ -2,41 +2,30 @@ import {
   type Asking,
   refusalsOver,
 } from "akasha/check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.decision.code.ts"
-import { bodyOf, onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { commitIn } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   APP,
   folderOf,
-  pathsUnder,
+  pathsUnderIn,
 } from "akasha/check/modules/router-app-code/router-app-code.module.code.ts"
-import { filePropertiesAt } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
-import {
-  everyOfType,
-  readingIn,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const NONE: ReadonlyMap<string, string | null> = new Map()
 
 export function askingAt(root: string): Asking {
-  const disk = onDisk(root)
-  const reading = readingIn(root)
-  const shadow = shadowAt(root)
+  const commit = commitIn(root)
   const held = new Map<string, readonly string[]>()
   return {
-    appsFiled: () => everyOfType(reading, APP).map((one) => one.path),
-    namedFilesOf: (pageTypeSlug) => filePropertiesAt(reading).get(pageTypeSlug) ?? NONE,
+    appsFiled: () => commit.index.everyOfType(APP).map((one) => one.path),
+    namedFilesOf: (pageTypeSlug) => commit.index.filePropertiesAt().get(pageTypeSlug) ?? NONE,
     pathsUnder: (at) => {
       const found = held.get(at)
       if (found !== undefined) return found
-      const made = pathsUnder(shadow, at)
+      const made = pathsUnderIn(commit.paths, at)
       held.set(at, made)
       return made
     },
-    textAt: (path) => {
-      const bytes = disk(path)
-      return bytes === null ? null : bodyOf({ root, path, bytes })
-    },
+    textAt: commit.read,
   }
 }
 
