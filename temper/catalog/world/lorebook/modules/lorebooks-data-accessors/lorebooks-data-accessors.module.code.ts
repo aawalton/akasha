@@ -25,9 +25,7 @@ import { SHALIDOR_LOCATIONS } from "akasha/temper/catalog/world/lorebook/modules
 import type {
   BookshelfEntry,
   EideticBook,
-  EideticBookTable,
   EideticBookZoneEntry,
-  ShalidorDataTable,
   ShalidorMapData,
   ShalidorPinEntry,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-types/lorebooks-types.module.code.ts"
@@ -37,10 +35,6 @@ import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
-
-export function loreBooksGetBookData(): EideticBookTable {
-  return BOOK_DATA
-}
 
 export function loreBooksGetNewEideticDataFromBookId(bookId: number): EideticBook {
   if (BOOK_DATA[bookId] === undefined) {
@@ -361,29 +355,6 @@ export function loreBooksGetDataOfBook(
     }
   }
   return results
-}
-
-export function loreBooksGetAllData(): ShalidorDataTable {
-  return SHALIDOR_LOCATIONS
-}
-
-export function loreBooksGetNewShalidorBookInfo(
-  categoryIndex: number,
-  collectionIndex: number,
-  bookIndex: number
-): LuaMultiReturn<[string, string, boolean, number]> {
-  const [titleFromGame, icon, known, bookId] = GetLoreBookInfo(
-    categoryIndex,
-    collectionIndex,
-    bookIndex
-  )
-  const title = titleFromGame !== undefined && titleFromGame !== "" ? titleFromGame : MISSING_TITLE
-  return $multi(
-    title,
-    icon !== undefined && icon !== "" ? icon : PLACEHOLDER_TEXTURE,
-    known,
-    bookId
-  )
 }
 
 export function loreBooksGetBookshelfDataFromMapId(
