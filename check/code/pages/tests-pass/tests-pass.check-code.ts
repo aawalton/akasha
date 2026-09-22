@@ -193,7 +193,11 @@ export const testsPass = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The whole output of the run is in the refusal.",
+      statement: "A refusal naming a file carries that file's own output out of the run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal blaming no file carries the whole output of the run.",
     },
     {
       decisionKind: "decision-kind/departure",
