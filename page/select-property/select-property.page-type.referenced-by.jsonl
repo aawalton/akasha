@@ -124,6 +124,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/stories/read/properties/publication-status.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/wiki-entries/properties/wiki-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/catalog/skill/temper-script/properties/slot-type.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/catalog/thing/properties/slotted-behavior.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/character-build/properties/build-visibility.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/companion-build/properties/base-roles.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/temper-player/properties/platform.select-property.ts"}

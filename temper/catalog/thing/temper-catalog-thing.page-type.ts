@@ -28,7 +28,7 @@ export const temperCatalogThing = {
     "text-property/poi-name",
     "relation-property/quality",
     "relation-property/skill-type",
-    "text-property/slotted-behavior",
+    "select-property/slotted-behavior",
     "text-property/value-type",
     "relation-property/skill-line",
   ],
