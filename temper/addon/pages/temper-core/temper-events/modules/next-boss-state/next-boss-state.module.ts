@@ -4,7 +4,7 @@ export const nextBossState = {
   id: "01a06157-8356-706b-948b-6f8dae0434bf",
   type: "page-type/module",
   slug: "next-boss-state",
-  definition: "the one table every part of this tracker reads and writes",
+  definition: "the table every part of this tracker reads and writes",
   code: "ts",
   decisions: [
     {

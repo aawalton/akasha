@@ -4,7 +4,7 @@ export const setsDebugDebugNames = {
   id: "01a0623c-2df8-7289-bd0d-011e31da3e86",
   type: "page-type/module",
   slug: "sets-debug-debug-names",
-  definition: "the names the running client reports for one language and the set ids new to it",
+  definition: "the names the running client reports for a language and the set ids new to it",
   code: "ts",
   decisions: [
     {

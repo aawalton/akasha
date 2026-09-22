@@ -4,7 +4,7 @@ export const scrollableMenuConstantsComboboxCallbacks = {
   id: "01a0c47e-8c09-7974-a456-4d914a611d6c",
   type: "page-type/module",
   slug: "scrollable-menu-constants-combobox-callbacks",
-  definition: "the callback applying one library combobox option to the ZO_ComboBox it drives",
+  definition: "the callback applying a library combobox option to the ZO_ComboBox it drives",
   code: "ts",
   decisions: [
     {
