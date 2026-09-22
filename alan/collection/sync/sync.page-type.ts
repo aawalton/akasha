@@ -4,7 +4,7 @@ export const sync = {
   id: "01a06835-e289-7ad6-8588-3a59938a1140",
   type: "page-type/page-type",
   slug: "sync",
-  definition: "one outside place this system pulls from, and how each pull went",
+  definition: "an outside place this system pulls from, and how each pull went",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "sync" }],
   extends: ["page-type/page"],
   parts: ["page-property-entry/sync-runs"],

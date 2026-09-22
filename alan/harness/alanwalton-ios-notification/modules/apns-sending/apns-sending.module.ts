@@ -4,7 +4,7 @@ export const apnsSending = {
   id: "01a069b6-bb6b-7ca0-81b1-b62e52519bbf",
   type: "page-type/module",
   slug: "apns-sending",
-  definition: "one push handed to Apple's push service over a connection kept open",
+  definition: "a push handed to Apple's push service over a connection kept open",
   code: "ts",
   decisions: [
     {

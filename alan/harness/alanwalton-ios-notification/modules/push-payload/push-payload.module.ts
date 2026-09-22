@@ -4,7 +4,7 @@ export const pushPayload = {
   id: "01a069b6-bb6b-7ff9-a785-a069880a2e41",
   type: "page-type/module",
   slug: "push-payload",
-  definition: "what one push carries, and whose devices it is carried to",
+  definition: "what a push carries, and whose devices it is carried to",
   code: "ts",
   decisions: [
     {

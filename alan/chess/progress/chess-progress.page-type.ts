@@ -4,7 +4,7 @@ export const chessProgress = {
   id: "01a06582-bd62-702f-92a4-3fd313251ee2",
   type: "page-type/page-type",
   slug: "chess-progress",
-  definition: "how far one part of Alan's chess has come",
+  definition: "how far a part of Alan's chess has come",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [

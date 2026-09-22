@@ -4,7 +4,7 @@ export const syncRun = {
   id: "01a06835-e289-706f-b82b-cc895c8f24bf",
   type: "page-type/page-type",
   slug: "sync-run",
-  definition: "one pull from one outside place",
+  definition: "a pull from an outside place",
   parts: [
     "instant-property/run-completed-at",
     "instant-property/run-started-at",

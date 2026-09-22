@@ -4,7 +4,7 @@ export const betterAuthRr = {
   id: "01a0baf7-ffe6-7560-9510-2c81f43ead48",
   type: "page-type/domain",
   slug: "better-auth-rr",
-  definition: "Better Auth reached from a React Router app, with Google the one provider",
+  definition: "Better Auth reached from a React Router app, with Google the provider",
   parts: [
     "module/google-auth-guard",
     "module/google-auth-server",

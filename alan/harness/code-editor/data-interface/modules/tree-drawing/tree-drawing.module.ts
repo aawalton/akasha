@@ -4,7 +4,7 @@ export const treeDrawing = {
   id: "01a07290-1f4c-7a63-9e21-58c0bd47e3f2",
   type: "page-type/module",
   slug: "tree-drawing",
-  definition: "each tree the editor draws put into the one row every tree has",
+  definition: "each tree the editor draws put into the row every tree has",
   code: "ts",
   decisions: [
     {

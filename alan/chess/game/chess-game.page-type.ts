@@ -4,7 +4,7 @@ export const chessGame = {
   id: "01a06582-bd62-7ffe-a236-e510097e9b91",
   type: "page-type/page-type",
   slug: "chess-game",
-  definition: "one game of chess played out to its end",
+  definition: "a game of chess played out to its end",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   drawnOffline: true,

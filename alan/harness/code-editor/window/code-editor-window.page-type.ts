@@ -4,7 +4,7 @@ export const codeEditorWindow = {
   id: "01a06826-92e5-77ad-ad85-f1aa8cb5d359",
   type: "page-type/page-type",
   slug: "code-editor-window",
-  definition: "one open window of the editor",
+  definition: "an open window of the editor",
   extends: ["page-type/page"],
   mortal: true,
   decisions: [

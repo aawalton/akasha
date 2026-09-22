@@ -4,7 +4,7 @@ export const carYear = {
   id: "01a0659d-2432-715e-b4e1-2cfa27018de7",
   type: "page-type/page-type",
   slug: "car-year",
-  definition: "one model year of a nameplate",
+  definition: "a model year of a nameplate",
   extends: ["page-type/car"],
   parts: [
     "number-property/model-year",

@@ -5,7 +5,7 @@ export const externalIdentity = {
   type: "page-type/record-property",
   slug: "external-identity",
   propertySlug: "external-identity",
-  definition: "one provider's record of a collection, and what that provider calls it",
+  definition: "a provider's record of a collection, and what that provider calls it",
   properties: [
     { pageProperty: "select-property/source", required: true, many: false },
     { pageProperty: "text-property/external-id", required: false, many: false },

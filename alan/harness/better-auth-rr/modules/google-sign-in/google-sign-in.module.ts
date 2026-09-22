@@ -4,7 +4,7 @@ export const googleSignIn = {
   id: "01a0bafb-08be-77ae-a54a-a90577b68072",
   type: "page-type/module",
   slug: "google-sign-in",
-  definition: "the card a reader signs in from, holding the one button Google answers",
+  definition: "the card a reader signs in from, holding the button Google answers",
   code: "tsx",
   decisions: [
     {

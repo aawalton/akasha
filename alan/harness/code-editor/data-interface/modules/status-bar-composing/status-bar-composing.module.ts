@@ -4,7 +4,7 @@ export const statusBarComposing = {
   id: "01a0789c-53c4-7eae-9e56-7aa7e07e6e06",
   type: "page-type/module",
   slug: "status-bar-composing",
-  definition: "the one line the editor's status bar is drawn from",
+  definition: "the line the editor's status bar is drawn from",
   code: "ts",
   decisions: [
     {

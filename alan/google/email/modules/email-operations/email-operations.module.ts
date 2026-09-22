@@ -4,7 +4,7 @@ export const emailOperations = {
   id: "01a0658e-2bf5-7001-a81d-b52dcc937d44",
   type: "page-type/module",
   slug: "email-operations",
-  definition: "the email operations of this package gathered behind one lazy load",
+  definition: "the email operations of this package gathered behind a lazy load",
   code: "ts",
   decisions: [
     {

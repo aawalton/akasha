@@ -5,7 +5,7 @@ export const lesson = {
   type: "page-type/text-property",
   slug: "lesson",
   propertySlug: "lesson",
-  definition: "what one game teaches",
+  definition: "what a game teaches",
   maxLength: 500,
   nameFormat: null,
   types: "ts",

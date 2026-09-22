@@ -4,7 +4,7 @@ export const pushNotifierTick = {
   id: "01a069b6-bb6b-79e0-abb9-81217fe400a3",
   type: "page-type/module",
   slug: "push-notifier-tick",
-  definition: "one round of the notifier: push what is new in the feed and any reading that moved",
+  definition: "a round of the notifier: push what is new in the feed and any reading that moved",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const chessPuzzleSet = {
   id: "01a06582-bd62-7a9f-a011-94835eaaf909",
   type: "page-type/page-type",
   slug: "chess-puzzle-set",
-  definition: "a body of chess puzzles taken from one place",
+  definition: "a body of chess puzzles taken from a place",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [

@@ -4,7 +4,7 @@ export const codeEditorDataInterface = {
   id: "01a07235-8d02-729e-880d-47af61f83714",
   type: "page-type/page-type",
   slug: "code-editor-data-interface",
-  definition: "what one part of the editor draws, held where that part reads it",
+  definition: "what a part of the editor draws, held where that part reads it",
   extends: ["page-type/domain"],
   parts: [
     "code-editor-data-interface/agent-tree",

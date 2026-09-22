@@ -4,7 +4,7 @@ export const forwardedMessage = {
   id: "01a0657c-604c-7002-a940-7c5975e0d53e",
   type: "page-type/module",
   slug: "forwarded-message",
-  definition: "the bytes of one email wrapped as a forward of itself",
+  definition: "the bytes of an email wrapped as a forward of itself",
   code: "ts",
   test: "ts",
   decisions: [
