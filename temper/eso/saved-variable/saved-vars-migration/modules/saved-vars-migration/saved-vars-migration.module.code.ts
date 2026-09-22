@@ -41,6 +41,32 @@ export function migrateAddonSavedVars(
   return { kind: "renamed", from: oldFileBase, to: newFileBase, renamedCount }
 }
 
+export type InPlaceRenameOutcome =
+  | {
+      readonly kind: "renamed-in-place"
+      readonly fileBase: string
+      readonly renamedCount: number
+    }
+  | { readonly kind: "skip-no-file"; readonly fileBase: string }
+  | { readonly kind: "skip-no-globals"; readonly fileBase: string }
+
+export function renameAddonSavedVarsInPlace(
+  fileBase: string,
+  renames: readonly (readonly [RegExp, string])[],
+  io: SavedVarsIo
+): InPlaceRenameOutcome {
+  const file = join(io.savedVarsDir, `${fileBase}.lua`)
+  if (!existsSync(file)) return { kind: "skip-no-file", fileBase }
+
+  const { content, renamedCount } = renameGlobals(readFileSync(file, "utf-8"), renames)
+  if (renamedCount === 0) return { kind: "skip-no-globals", fileBase }
+
+  const aside = join(io.savedVarsDir, `${fileBase}.lua.pre-consolidation.bak`)
+  if (!existsSync(aside)) writeFileSync(aside, readFileSync(file))
+  writeFileSync(file, content)
+  return { kind: "renamed-in-place", fileBase, renamedCount }
+}
+
 export type AppendSpec = {
   readonly absorbedFileBase: string
   readonly absorbedGlobal: string
