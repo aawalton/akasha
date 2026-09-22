@@ -1,5 +1,6 @@
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import type { Quest } from "akasha/story/engine/core/modules/quest-schema/quest-schema.module.code.ts"
 import type { RevealedSheet } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import type {
   GameState,
@@ -26,6 +27,8 @@ const NAMED_BY: ReadonlyMap<string, string> = new Map([
 const LINES = "; "
 const MARK = ": "
 const NOT_FOUND = -1
+const COMPLETE = "complete"
+const ACTIVE = "active"
 
 export type Numbers = Record<string, number>
 
@@ -178,7 +181,30 @@ export function hudOf(player: Page | null, turn: Page): Hud {
   }
 }
 
-export function stateOf(turns: readonly Page[], player: Page | null): GameState | null {
+export function questsIn(pages: readonly Page[]): Quest[] {
+  const found: Quest[] = []
+  for (const page of pages) {
+    const id = saidIn(page.slug)
+    const title = saidIn(page.title)
+    const objective = saidIn(page.objective)
+    if (id === undefined || title === undefined || objective === undefined) continue
+    const reward = saidIn(page.reward)
+    found.push({
+      id,
+      title,
+      objective,
+      ...(reward === undefined ? {} : { reward }),
+      status: saidIn(page.status) === COMPLETE ? COMPLETE : ACTIVE,
+    })
+  }
+  return found
+}
+
+export function stateOf(
+  turns: readonly Page[],
+  player: Page | null,
+  quests: readonly Page[] = []
+): GameState | null {
   const last = turns.at(LAST)
   if (last === undefined) return null
   const turn = countIn(last.number)
@@ -188,5 +214,6 @@ export function stateOf(turns: readonly Page[], player: Page | null): GameState 
     hud: hudOf(player, last),
     ...(player === null ? {} : { revealed: revealedOf(player, last) }),
     log: beatsIn(turns),
+    quests: questsIn(quests),
   }
 }

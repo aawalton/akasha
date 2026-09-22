@@ -19,6 +19,7 @@ import { above } from "akasha/story/game/panel/panel-place/pages/above.panel-pla
 import { aside } from "akasha/story/game/panel/panel-place/pages/aside.panel-place.ts"
 import { run } from "akasha/story/game/panel/panel-place/pages/run.panel-place.ts"
 import { panelPlace } from "akasha/story/game/panel/panel-place/panel-place.page-type.ts"
+import { gameQuest } from "akasha/story/game/quest/game-quest.page-type.ts"
 import { gameTurn } from "akasha/story/game/turn/game-turn.page-type.ts"
 import { stateOf } from "akasha/story/game/turn/modules/turn-state/turn-state.module.code.ts"
 import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-drawer.module.code.tsx"
@@ -136,11 +137,16 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
     }),
     [playerSlug]
   )
+  const questOptions = useMemo<UsePagesSupabaseOptions>(
+    () => ({ pageTypeSlug: gameQuest.slug, where: [{ key: GAME_KEY, eq: gameAddress }] }),
+    [gameAddress]
+  )
   const gameTurns = usePages(gameTurnOptions)
   const players = usePages(playerOptions)
+  const quests = usePages(questOptions)
   const state = useMemo(
-    () => stateOf(gameTurns.rows, players.rows[0] ?? null),
-    [gameTurns.rows, players.rows]
+    () => stateOf(gameTurns.rows, players.rows[0] ?? null, quests.rows),
+    [gameTurns.rows, players.rows, quests.rows]
   )
   const externalId = beside.kind === "read" ? beside.beside.externalId : undefined
   const shown = usePanelsDrawn(beside.kind === "read" ? beside.beside.panels : [])

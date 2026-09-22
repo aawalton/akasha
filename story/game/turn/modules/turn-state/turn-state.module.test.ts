@@ -59,6 +59,19 @@ const TURN = asPage({
   ],
 })
 
+const QUEST = asPage({
+  id: "quest",
+  title: "The Kiss",
+  icon: null,
+  slug: "harem-hotel-kiss",
+  pageTypeId: "",
+  pageTypeSlug: "game-quest",
+  uniqueKey: null,
+  objective: "kiss her",
+  reward: "WILL +1",
+  status: "complete",
+})
+
 test("the pools a turn left are keyed by name, and the most each held by name and Max", () => {
   expect(hudOf(PLAYER, TURN)).toEqual({
     level: 7,
@@ -125,9 +138,18 @@ test("every window every turn raised is a beat of the log", () => {
 })
 
 test("the state is the last turn with the player's sheet, and what the reader accepts", () => {
-  const state = stateOf([TURN], PLAYER)
+  const state = stateOf([TURN], PLAYER, [QUEST])
   expect(state?.turn).toBe(88)
   expect(state?.revealed?.name).toBe("Alan")
+  expect(state?.quests).toEqual([
+    {
+      id: "harem-hotel-kiss",
+      title: "The Kiss",
+      objective: "kiss her",
+      reward: "WILL +1",
+      status: "complete",
+    },
+  ])
   expect(GameStateSchema.safeParse(state).success).toBe(true)
   expect(stateOf([TURN], null)?.revealed).toBe(undefined)
   expect(stateOf([], PLAYER)).toBe(null)
