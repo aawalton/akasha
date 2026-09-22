@@ -6,5 +6,6 @@ export const bodyStaunchedBleeding = {
   slug: "body-staunched-bleeding",
   title: "Body: Staunched Bleeding",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

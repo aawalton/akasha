@@ -6,5 +6,6 @@ export const campfireChef = {
   slug: "campfire-chef",
   title: "Campfire Chef",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

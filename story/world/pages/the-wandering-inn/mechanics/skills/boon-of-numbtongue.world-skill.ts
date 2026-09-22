@@ -6,5 +6,6 @@ export const boonOfNumbtongue = {
   slug: "boon-of-numbtongue",
   title: "Boon of Numbtongue",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

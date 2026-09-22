@@ -6,5 +6,6 @@ export const cancelThat = {
   slug: "cancel-that",
   title: "Cancel That",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const bodyMagicbreakerSFist = {
   slug: "body-magicbreaker-s-fist",
   title: "Body: Magicbreaker’s Fist",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

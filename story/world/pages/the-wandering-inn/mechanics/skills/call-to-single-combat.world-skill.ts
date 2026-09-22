@@ -6,5 +6,6 @@ export const callToSingleCombat = {
   slug: "call-to-single-combat",
   title: "Call to Single Combat",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

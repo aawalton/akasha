@@ -6,5 +6,6 @@ export const changeViscosityOil = {
   slug: "change-viscosity-oil",
   title: "Change Viscosity (Oil)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

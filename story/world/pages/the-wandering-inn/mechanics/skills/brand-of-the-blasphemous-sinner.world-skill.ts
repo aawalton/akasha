@@ -6,5 +6,6 @@ export const brandOfTheBlasphemousSinner = {
   slug: "brand-of-the-blasphemous-sinner",
   title: "Brand of the Blasphemous Sinner",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

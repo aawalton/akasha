@@ -6,5 +6,6 @@ export const bondTelepathy = {
   slug: "bond-telepathy",
   title: "Bond: Telepathy",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

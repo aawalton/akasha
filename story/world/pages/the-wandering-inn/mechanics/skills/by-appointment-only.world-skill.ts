@@ -6,5 +6,6 @@ export const byAppointmentOnly = {
   slug: "by-appointment-only",
   title: "By Appointment Only",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

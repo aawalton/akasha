@@ -6,5 +6,6 @@ export const clearStatement = {
   slug: "clear-statement",
   title: "Clear Statement",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

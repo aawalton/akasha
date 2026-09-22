@@ -6,5 +6,6 @@ export const boonOfTheGuestTheSilverDragonKnight = {
   slug: "boon-of-the-guest-the-silver-dragon-knight",
   title: "Boon of the Guest: The Silver Dragon-Knight",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

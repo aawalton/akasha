@@ -6,5 +6,6 @@ export const bodyWaterRetention = {
   slug: "body-water-retention",
   title: "Body: Water Retention",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

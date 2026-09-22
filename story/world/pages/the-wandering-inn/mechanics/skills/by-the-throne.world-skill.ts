@@ -6,5 +6,6 @@ export const byTheThrone = {
   slug: "by-the-throne",
   title: "By the Throne",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

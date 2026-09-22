@@ -6,5 +6,6 @@ export const childOfManyWorlds = {
   slug: "child-of-many-worlds",
   title: "Child of Many Worlds",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

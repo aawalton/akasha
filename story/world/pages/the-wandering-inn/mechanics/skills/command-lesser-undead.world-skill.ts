@@ -6,5 +6,6 @@ export const commandLesserUndead = {
   slug: "command-lesser-undead",
   title: "Command Lesser Undead",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   references: "jsonl",
 } as const satisfies WorldSkill

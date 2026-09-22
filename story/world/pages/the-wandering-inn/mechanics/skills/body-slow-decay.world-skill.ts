@@ -6,5 +6,6 @@ export const bodySlowDecay = {
   slug: "body-slow-decay",
   title: "Body: Slow Decay",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const broaderShoulders = {
   slug: "broader-shoulders",
   title: "Broader Shoulders",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

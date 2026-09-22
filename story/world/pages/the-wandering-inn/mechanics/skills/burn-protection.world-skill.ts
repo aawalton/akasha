@@ -6,5 +6,6 @@ export const burnProtection = {
   slug: "burn-protection",
   title: "Burn Protection",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const camouflageArmor = {
   slug: "camouflage-armor",
   title: "Camouflage Armor",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

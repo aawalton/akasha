@@ -6,5 +6,6 @@ export const clearPosition = {
   slug: "clear-position",
   title: "Clear Position",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

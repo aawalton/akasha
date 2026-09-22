@@ -6,5 +6,6 @@ export const boundItemJournalOfTheConnectedResearcher = {
   slug: "bound-item-journal-of-the-connected-researcher",
   title: "Bound Item: Journal of the Connected Researcher",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

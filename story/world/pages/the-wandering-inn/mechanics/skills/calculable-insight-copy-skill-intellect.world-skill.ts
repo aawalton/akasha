@@ -6,5 +6,6 @@ export const calculableInsightCopySkillIntellect = {
   slug: "calculable-insight-copy-skill-intellect",
   title: "Calculable Insight: Copy Skill (Intellect)",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const cargoSofterLanding = {
   slug: "cargo-softer-landing",
   title: "Cargo: Softer Landing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

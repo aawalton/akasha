@@ -6,5 +6,6 @@ export const braceTheDeck = {
   slug: "brace-the-deck",
   title: "Brace the Deck",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

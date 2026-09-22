@@ -6,5 +6,6 @@ export const bridgeTheGap = {
   slug: "bridge-the-gap",
   title: "Bridge the Gap",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

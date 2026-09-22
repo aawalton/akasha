@@ -6,5 +6,6 @@ export const breadPestkiller = {
   slug: "bread-pestkiller",
   title: "Bread: Pestkiller",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

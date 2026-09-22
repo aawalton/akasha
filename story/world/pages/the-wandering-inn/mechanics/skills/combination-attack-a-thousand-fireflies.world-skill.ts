@@ -6,5 +6,6 @@ export const combinationAttackAThousandFireflies = {
   slug: "combination-attack-a-thousand-fireflies",
   title: "Combination Attack: A Thousand Fireflies",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

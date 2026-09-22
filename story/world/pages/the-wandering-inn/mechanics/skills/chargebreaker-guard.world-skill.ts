@@ -6,5 +6,6 @@ export const chargebreakerGuard = {
   slug: "chargebreaker-guard",
   title: "Chargebreaker Guard",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

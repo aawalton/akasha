@@ -6,5 +6,6 @@ export const bodyOceanOfManaNature = {
   slug: "body-ocean-of-mana-nature",
   title: "Body: Ocean of Mana (Nature)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

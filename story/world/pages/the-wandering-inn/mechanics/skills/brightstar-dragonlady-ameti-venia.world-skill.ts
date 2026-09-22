@@ -6,5 +6,6 @@ export const brightstarDragonladyAmetiVenia = {
   slug: "brightstar-dragonlady-ameti-venia",
   title: "Brightstar Dragonlady Ameti’venia",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

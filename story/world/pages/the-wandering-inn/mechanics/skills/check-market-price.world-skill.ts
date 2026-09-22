@@ -6,5 +6,6 @@ export const checkMarketPrice = {
   slug: "check-market-price",
   title: "Check Market Price",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

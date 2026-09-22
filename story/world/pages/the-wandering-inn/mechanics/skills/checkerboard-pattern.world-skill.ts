@@ -6,5 +6,6 @@ export const checkerboardPattern = {
   slug: "checkerboard-pattern",
   title: "Checkerboard Pattern",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

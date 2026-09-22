@@ -6,5 +6,6 @@ export const changeTheFlow = {
   slug: "change-the-flow",
   title: "Change the Flow",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

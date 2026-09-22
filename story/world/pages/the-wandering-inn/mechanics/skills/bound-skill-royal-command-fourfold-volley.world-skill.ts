@@ -6,5 +6,6 @@ export const boundSkillRoyalCommandFourfoldVolley = {
   slug: "bound-skill-royal-command-fourfold-volley",
   title: "Bound Skill: Royal Command — Fourfold Volley",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

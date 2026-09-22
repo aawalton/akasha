@@ -6,5 +6,6 @@ export const boonOfTheGuestUlvama = {
   slug: "boon-of-the-guest-ulvama",
   title: "Boon of the Guest: Ulvama",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

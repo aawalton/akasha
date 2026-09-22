@@ -6,5 +6,6 @@ export const combineSpellElementalArrowRain = {
   slug: "combine-spell-elemental-arrow-rain",
   title: "Combine Spell: Elemental Arrow Rain",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

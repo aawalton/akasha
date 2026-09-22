@@ -6,5 +6,6 @@ export const byTheBookHangingCatOverwatch = {
   slug: "by-the-book-hanging-cat-overwatch",
   title: "By the Book: Hanging Cat Overwatch",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

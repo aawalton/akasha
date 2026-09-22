@@ -6,5 +6,6 @@ export const carefreeStroll = {
   slug: "carefree-stroll",
   title: "Carefree Stroll",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

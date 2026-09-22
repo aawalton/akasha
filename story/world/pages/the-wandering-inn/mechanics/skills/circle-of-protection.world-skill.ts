@@ -6,5 +6,6 @@ export const circleOfProtection = {
   slug: "circle-of-protection",
   title: "Circle of Protection",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

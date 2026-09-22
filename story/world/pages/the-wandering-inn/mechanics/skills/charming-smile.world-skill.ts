@@ -6,6 +6,7 @@ export const charmingSmile = {
   slug: "charming-smile",
   title: "Charming Smile",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   evolvesToSlugs: ["enthralling-glance"],
   references: "jsonl",
 } as const satisfies WorldSkill
