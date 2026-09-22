@@ -42,6 +42,8 @@ const TO = "to"
 
 const ON_LINE = "line"
 
+const DECLARED = ".d.ts"
+
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
 export type RenameCodeTokenAsked = {
@@ -136,6 +138,7 @@ export async function renameCodeToken(world: World, given: RenameCodeTokenAsked)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const why = whyNot(given)
   if (why !== null) return refusing(why)
+  if (given.at.endsWith(DECLARED)) return await exported(world, given)
   const placed = placingOver(pathsIn(world.over), world.textOf)
   const read = readingOf(world.root, world.textOf, placed)
   const typing = typingOver(world.root, [given.at], read, placed)

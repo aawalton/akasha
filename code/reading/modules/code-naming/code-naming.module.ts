@@ -78,6 +78,10 @@ export const codeNaming = {
         "Renaming a binding a shorthand represented states that binding rather than the key.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A name declared in a declaration file is found there as a name in any body is.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here judges the answers this module finds.",
     },

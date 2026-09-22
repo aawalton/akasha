@@ -20,6 +20,10 @@ export const renameCodeToken = {
       decisionKind: "decision-kind/departure",
       statement: "A type a page's file declares beside that export is renamed here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name a declaration file declares is renamed over the bodies that import it.",
+    },
   ],
   maxCpuSeconds: 30,
   maxMemoryMb: 3072,

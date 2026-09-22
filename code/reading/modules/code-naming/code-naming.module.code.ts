@@ -195,7 +195,6 @@ export function referencesOf(
 ): readonly Naming[] {
   const found: Naming[] = []
   for (const source of typing.program.getSourceFiles()) {
-    if (source.isDeclarationFile) continue
     const path = insideOf(root, resolve(source.fileName))
     if (path === null) continue
     const walk = (node: ts.Node): undefined => {
