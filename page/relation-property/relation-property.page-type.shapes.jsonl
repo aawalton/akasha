@@ -8,7 +8,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"argument","unique":null,"uniquePropertySlug":null,"slug":"argument","propertySlug":"argument","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"artist","unique":null,"uniquePropertySlug":null,"slug":"artist","propertySlug":"artist","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"attribute","unique":null,"uniquePropertySlug":null,"slug":"attribute","propertySlug":"attribute","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"graph-attribute","unique":null,"uniquePropertySlug":null,"slug":"attributes","propertySlug":"attributes","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"bond-attribute","propertySlug":"attribute","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"bound-attribute","propertySlug":"bound-attribute","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-entity","unique":null,"uniquePropertySlug":null,"slug":"bound-entity","propertySlug":"entity","fileName":null,"folderName":null}

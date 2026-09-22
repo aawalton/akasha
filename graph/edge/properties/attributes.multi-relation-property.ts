@@ -1,11 +1,11 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const attributes = {
   id: "01a04fe8-cebf-728c-90c6-d36708b2a983",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "attributes",
   propertySlug: "attributes",
   definition: "the attributes an edge kind carries",
   targetPageType: "page-type/graph-attribute",
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

@@ -97,7 +97,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/standard-agent-english/term/properties/variants.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/taboo-term/properties/kept-senses.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/taboo-term/properties/taboo-senses.record-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"graph/edge/properties/attributes.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"graph/edge/properties/attributes.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"graph/predicate/properties/edges.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"graph/predicate/properties/follows.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env.one-of-property.types.ts"}

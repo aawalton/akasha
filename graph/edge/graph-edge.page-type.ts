@@ -5,11 +5,11 @@ export const graphEdge = {
   type: "page-type/page-type",
   slug: "graph-edge",
   definition: "a way one thing reaches another",
-  parts: ["graph-edge/import-edge", "graph-edge/relation", "relation-property/attributes"],
+  parts: ["graph-edge/import-edge", "graph-edge/relation", "multi-relation-property/attributes"],
   extends: ["page-type/domain"],
   properties: [
     {
-      pageProperty: "relation-property/attributes",
+      pageProperty: "multi-relation-property/attributes",
       required: false,
       many: true,
       maxCount: null,
