@@ -54,7 +54,7 @@ export const windowPageSweeping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The origin that ask reaches is the origin a message send reaches.",
+      statement: "The origin that ask reaches is the one a workstation reading answers.",
     },
     {
       decisionKind: "decision-kind/departure",

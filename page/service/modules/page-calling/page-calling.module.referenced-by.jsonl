@@ -40,6 +40,7 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/inference/generation/audio/modules/sound-landing/sound-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/serving-job/upscale-serving-job.module.code.ts"}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"page/access/modules/answer/answer.module.code.ts"}

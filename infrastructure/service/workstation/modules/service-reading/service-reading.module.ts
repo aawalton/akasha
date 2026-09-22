@@ -81,5 +81,17 @@ export const serviceReading = {
       decisionKind: "decision-kind/departure",
       statement: "The pages service's slug is read off its page rather than spelled here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller on this workstation reaches the pages service at the origin stated.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller with no origin stated reaches the pages service this checkout runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which caller wants that origin is nothing this module asks.",
+    },
   ],
 } as const satisfies Module

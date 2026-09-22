@@ -1,11 +1,10 @@
 import { messageNamed } from "akasha/agent/messaging/modules/message-naming/message-naming.module.code.ts"
 import { akashaSeatIdForName } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { CEILING } from "akasha/check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.code.ts"
-import { pagesOriginIn } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
+import { pagesOriginHere } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
-  originSaid,
   type Writing,
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
@@ -62,10 +61,6 @@ function unknownRecipient(to: string): string | null {
     `nothing drains. Refused rather than landed, because a send nobody receives must not answer ` +
     `as one that arrived`
   )
-}
-
-export function pagesOriginHere(): string | undefined {
-  return originSaid() === null ? pagesOriginIn(akashaRoot()) : undefined
 }
 
 export const overHttp: Sending = (asked) =>

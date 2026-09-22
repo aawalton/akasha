@@ -19,11 +19,13 @@ import {
   listedAt,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { originSaid } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { pageService } from "akasha/page/service/page-service.service-workstation.ts"
 
 export const SERVICE_PAGE_TYPE = "service-workstation"
@@ -127,6 +129,10 @@ export function serviceIn(root: string, value: Value, codeAt: string = ""): Star
 export function pagesOriginIn(root: string): string | undefined {
   const port = portFor(root, PAGES_SLUG)
   return port === null ? undefined : `http://${LOOPBACK}:${port}`
+}
+
+export function pagesOriginHere(): string | undefined {
+  return originSaid() === null ? pagesOriginIn(akashaRoot()) : undefined
 }
 
 function serviceAt(root: string, path: string, codeAt: string): Service | string {

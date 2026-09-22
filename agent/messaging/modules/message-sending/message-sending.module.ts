@@ -34,16 +34,7 @@ export const messageSending = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The origin a send reaches is the one the environment states.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A send the environment states no origin for reaches the pages service on this workstation.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The port that service listens on is read from that service's page.",
+      statement: "A send reaches the pages service at the origin a workstation reading answers.",
     },
     {
       decisionKind: "decision-kind/departure",
