@@ -27,7 +27,6 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { ArrowDown, ArrowUp, GripVertical, X } from "lucide-react"
 import type { CSSProperties, HTMLAttributes } from "react"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const DROP_INDICATOR_CLASS = {

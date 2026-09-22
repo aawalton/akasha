@@ -1,14 +1,6 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/routes/_app-layout.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/layout/modules/balanced-columns/balanced-columns.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/layout/modules/router-context/router-context.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/pattern/modules/icon-picker/icon-picker.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/pattern/modules/sort-group/sort-group.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/pattern/modules/tabs/tabs.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/system/modules/gemstone-colors/gemstone-colors.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/system/modules/surface-elevation/surface-elevation.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/system/modules/text-colors/text-colors.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/action-button-property/action-button-property.page-type.property-badge-component.code.tsx"}

@@ -19,7 +19,6 @@ import {
 import type * as React from "react"
 import { useCallback, useEffect, useRef, useState } from "react"
 import { z } from "zod"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 function Tabs({
   value,

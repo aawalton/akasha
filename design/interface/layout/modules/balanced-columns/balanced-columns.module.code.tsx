@@ -14,7 +14,6 @@ import {
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import type * as React from "react"
 import { isValidElement, useCallback, useLayoutEffect, useRef, useState } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export function BalancedColumns({
   childArray,

@@ -4,7 +4,6 @@ import { AuthProvider } from "akasha/alan/web/modules/alan-auth-provider/alan-au
 import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner.module.code.tsx"
 import { Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export const loader = appLayoutLoader
 

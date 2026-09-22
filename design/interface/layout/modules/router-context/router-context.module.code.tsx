@@ -1,7 +1,6 @@
 "use client"
 
 import { type ComponentType, createContext, createElement, type ReactNode, useContext } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export interface LayoutSearchParams {
   readonly get: (name: string) => string | null
