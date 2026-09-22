@@ -12,7 +12,11 @@ export const expeditionVitalityHeroism = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Dragon's Bile", "Dragon Rheum", "Powdered Mother of Pearl"],
+      reagents: [
+        "temper-reagent/dragons-bile",
+        "temper-reagent/dragon-rheum",
+        "temper-reagent/powdered-mother-of-pearl",
+      ],
     },
   ],
   effects: "jsonl",

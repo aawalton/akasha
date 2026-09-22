@@ -12,7 +12,11 @@ export const enduranceExpeditionIntellectMagickaRestoreStaminaRestore = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Blessed Thistle", "Columbine", "Dragon Rheum"],
+      reagents: [
+        "temper-reagent/blessed-thistle",
+        "temper-reagent/columbine",
+        "temper-reagent/dragon-rheum",
+      ],
     },
   ],
   effects: "jsonl",

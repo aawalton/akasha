@@ -12,10 +12,18 @@ export const fortitudeProphecySavageryHealthRestore = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Crimson Nirnroot", "Dragonthorn", "Water Hyacinth"],
+      reagents: [
+        "temper-reagent/crimson-nirnroot",
+        "temper-reagent/dragonthorn",
+        "temper-reagent/water-hyacinth",
+      ],
     },
     {
-      reagents: ["Crimson Nirnroot", "Water Hyacinth", "Wormwood"],
+      reagents: [
+        "temper-reagent/crimson-nirnroot",
+        "temper-reagent/water-hyacinth",
+        "temper-reagent/wormwood",
+      ],
     },
   ],
   effects: "jsonl",

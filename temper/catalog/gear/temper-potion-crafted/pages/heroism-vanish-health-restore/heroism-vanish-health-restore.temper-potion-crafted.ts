@@ -12,7 +12,11 @@ export const heroismVanishHealthRestore = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Dragon's Bile", "Dragon's Blood", "Spider Egg"],
+      reagents: [
+        "temper-reagent/dragons-bile",
+        "temper-reagent/dragons-blood",
+        "temper-reagent/spider-egg",
+      ],
     },
   ],
   effects: "jsonl",

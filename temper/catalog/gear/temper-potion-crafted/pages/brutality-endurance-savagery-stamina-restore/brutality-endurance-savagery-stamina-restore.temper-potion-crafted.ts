@@ -12,10 +12,18 @@ export const brutalityEnduranceSavageryStaminaRestore = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Blessed Thistle", "Dragonthorn", "Water Hyacinth"],
+      reagents: [
+        "temper-reagent/blessed-thistle",
+        "temper-reagent/dragonthorn",
+        "temper-reagent/water-hyacinth",
+      ],
     },
     {
-      reagents: ["Blessed Thistle", "Dragonthorn", "Wormwood"],
+      reagents: [
+        "temper-reagent/blessed-thistle",
+        "temper-reagent/dragonthorn",
+        "temper-reagent/wormwood",
+      ],
     },
   ],
   effects: "jsonl",

@@ -7,7 +7,12 @@ export const recipes = {
   propertySlug: "recipes",
   definition: "the reagent sets a drink is brewed from, one set to an entry",
   properties: [
-    { pageProperty: "text-property/reagent-names", required: true, many: true, maxCount: null },
+    {
+      pageProperty: "multi-relation-property/recipe-reagents",
+      required: true,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {

@@ -12,31 +12,67 @@ export const enduranceFortitudeIntellectHealthRestoreMagickaRestoreStaminaRestor
   seconds: 47,
   recipes: [
     {
-      reagents: ["Blessed Thistle", "Bugloss", "Columbine"],
+      reagents: [
+        "temper-reagent/blessed-thistle",
+        "temper-reagent/bugloss",
+        "temper-reagent/columbine",
+      ],
     },
     {
-      reagents: ["Bugloss", "Chaurus Egg", "Columbine"],
+      reagents: [
+        "temper-reagent/bugloss",
+        "temper-reagent/chaurus-egg",
+        "temper-reagent/columbine",
+      ],
     },
     {
-      reagents: ["Bugloss", "Columbine", "Dragon's Blood"],
+      reagents: [
+        "temper-reagent/bugloss",
+        "temper-reagent/columbine",
+        "temper-reagent/dragons-blood",
+      ],
     },
     {
-      reagents: ["Bugloss", "Columbine", "Dragonthorn"],
+      reagents: [
+        "temper-reagent/bugloss",
+        "temper-reagent/columbine",
+        "temper-reagent/dragonthorn",
+      ],
     },
     {
-      reagents: ["Bugloss", "Columbine", "Mountain Flower"],
+      reagents: [
+        "temper-reagent/bugloss",
+        "temper-reagent/columbine",
+        "temper-reagent/mountain-flower",
+      ],
     },
     {
-      reagents: ["Columbine", "Corn Flower", "Mountain Flower"],
+      reagents: [
+        "temper-reagent/columbine",
+        "temper-reagent/corn-flower",
+        "temper-reagent/mountain-flower",
+      ],
     },
     {
-      reagents: ["Columbine", "Dragon Rheum", "Mountain Flower"],
+      reagents: [
+        "temper-reagent/columbine",
+        "temper-reagent/dragon-rheum",
+        "temper-reagent/mountain-flower",
+      ],
     },
     {
-      reagents: ["Columbine", "Lady's Smock", "Mountain Flower"],
+      reagents: [
+        "temper-reagent/columbine",
+        "temper-reagent/ladys-smock",
+        "temper-reagent/mountain-flower",
+      ],
     },
     {
-      reagents: ["Columbine", "Mountain Flower", "Vile Coagulant"],
+      reagents: [
+        "temper-reagent/columbine",
+        "temper-reagent/mountain-flower",
+        "temper-reagent/vile-coagulant",
+      ],
     },
   ],
   effects: "jsonl",

@@ -12,7 +12,11 @@ export const expeditionVitalityVanish = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Dragon's Bile", "Namira's Rot", "Powdered Mother of Pearl"],
+      reagents: [
+        "temper-reagent/dragons-bile",
+        "temper-reagent/namiras-rot",
+        "temper-reagent/powdered-mother-of-pearl",
+      ],
     },
   ],
   effects: "jsonl",

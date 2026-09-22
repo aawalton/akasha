@@ -79,7 +79,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-notification/modules/notification-providers/notification-providers.module.ts","id":"01a0605a-0515-7efc-a180-1aaa98828cd6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-notification/notification-declarations/notification-declarations.type-declaration.ts","id":"01a0620a-a166-7152-bc6c-c9ce7bb3739c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}
-{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion-crafted/properties/reagent-names.text-property.ts","id":"01a05fd1-d43d-7249-ac3e-8dcf8869e271"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts","id":"01a0b761-76a7-78cd-82a0-bfa7fa48f3b4"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.ts","id":"01a0c9dd-cc82-7f73-b0c4-69cb07323425"}

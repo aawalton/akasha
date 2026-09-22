@@ -12,7 +12,11 @@ export const enduranceExpeditionHeroismStaminaRestore = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Blessed Thistle", "Dragon's Blood", "Dragon Rheum"],
+      reagents: [
+        "temper-reagent/blessed-thistle",
+        "temper-reagent/dragons-blood",
+        "temper-reagent/dragon-rheum",
+      ],
     },
   ],
   effects: "jsonl",

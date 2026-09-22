@@ -12,7 +12,11 @@ export const intellectMagickaRestoreResistanceSpellStealthDetection = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Bugloss", "Corn Flower", "White Cap"],
+      reagents: [
+        "temper-reagent/bugloss",
+        "temper-reagent/corn-flower",
+        "temper-reagent/white-cap",
+      ],
     },
   ],
   effects: "jsonl",

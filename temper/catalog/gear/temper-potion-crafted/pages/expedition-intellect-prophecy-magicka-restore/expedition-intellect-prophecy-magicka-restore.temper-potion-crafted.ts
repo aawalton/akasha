@@ -12,7 +12,11 @@ export const expeditionIntellectProphecyMagickaRestore = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Dragon Rheum", "Lady's Smock", "Namira's Rot"],
+      reagents: [
+        "temper-reagent/dragon-rheum",
+        "temper-reagent/ladys-smock",
+        "temper-reagent/namiras-rot",
+      ],
     },
   ],
   effects: "jsonl",

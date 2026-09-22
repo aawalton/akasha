@@ -12,7 +12,11 @@ export const enduranceIntellectHeroismMagickaRestoreStaminaRestore = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Columbine", "Dragon's Blood", "Dragon Rheum"],
+      reagents: [
+        "temper-reagent/columbine",
+        "temper-reagent/dragons-blood",
+        "temper-reagent/dragon-rheum",
+      ],
     },
   ],
   effects: "jsonl",

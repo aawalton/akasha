@@ -12,10 +12,18 @@ export const fortitudeProphecyVanishHealthRestore = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Blue Entoloma", "Crimson Nirnroot", "Namira's Rot"],
+      reagents: [
+        "temper-reagent/blue-entoloma",
+        "temper-reagent/crimson-nirnroot",
+        "temper-reagent/namiras-rot",
+      ],
     },
     {
-      reagents: ["Blue Entoloma", "Namira's Rot", "Water Hyacinth"],
+      reagents: [
+        "temper-reagent/blue-entoloma",
+        "temper-reagent/namiras-rot",
+        "temper-reagent/water-hyacinth",
+      ],
     },
   ],
   effects: "jsonl",

@@ -12,7 +12,11 @@ export const fortitudeHealthRestoreResistancePhysicalResistanceSpell = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Bugloss", "Mountain Flower", "Mudcrab Chitin"],
+      reagents: [
+        "temper-reagent/bugloss",
+        "temper-reagent/mountain-flower",
+        "temper-reagent/mudcrab-chitin",
+      ],
     },
   ],
   effects: "jsonl",

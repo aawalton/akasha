@@ -12,7 +12,11 @@ export const expeditionVitalityProtectionHealthRestore = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Beetle Scuttle", "Powdered Mother of Pearl", "Scrib Jelly"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/powdered-mother-of-pearl",
+        "temper-reagent/scrib-jelly",
+      ],
     },
   ],
   effects: "jsonl",

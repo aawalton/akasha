@@ -215,6 +215,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-jewelry-slot/properties/jewelry-type.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-jewelry-trait/properties/jewelry-trait.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-poison-effect/properties/opposite.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-potion-crafted/properties/recipe-reagents.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-set/properties/set-category.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-set/properties/set-class-id.relation-property.types.ts"}

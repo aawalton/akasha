@@ -12,13 +12,25 @@ export const protectionResistancePhysicalResistanceSpell = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Beetle Scuttle", "Bugloss", "Mudcrab Chitin"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/bugloss",
+        "temper-reagent/mudcrab-chitin",
+      ],
     },
     {
-      reagents: ["Beetle Scuttle", "Clam Gall", "Mudcrab Chitin"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/clam-gall",
+        "temper-reagent/mudcrab-chitin",
+      ],
     },
     {
-      reagents: ["Beetle Scuttle", "Mudcrab Chitin", "White Cap"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/mudcrab-chitin",
+        "temper-reagent/white-cap",
+      ],
     },
   ],
   effects: "jsonl",

@@ -12,25 +12,53 @@ export const vitalityProtectionResistancePhysical = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Beetle Scuttle", "Butterfly Wing", "Mudcrab Chitin"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/butterfly-wing",
+        "temper-reagent/mudcrab-chitin",
+      ],
     },
     {
-      reagents: ["Beetle Scuttle", "Dragon's Bile", "Mudcrab Chitin"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/dragons-bile",
+        "temper-reagent/mudcrab-chitin",
+      ],
     },
     {
-      reagents: ["Beetle Scuttle", "Fleshfly Larva", "Mudcrab Chitin"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/fleshfly-larva",
+        "temper-reagent/mudcrab-chitin",
+      ],
     },
     {
-      reagents: ["Beetle Scuttle", "Imp Stool", "Powdered Mother of Pearl"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/imp-stool",
+        "temper-reagent/powdered-mother-of-pearl",
+      ],
     },
     {
-      reagents: ["Beetle Scuttle", "Mountain Flower", "Powdered Mother of Pearl"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/mountain-flower",
+        "temper-reagent/powdered-mother-of-pearl",
+      ],
     },
     {
-      reagents: ["Beetle Scuttle", "Mudcrab Chitin", "Powdered Mother of Pearl"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/mudcrab-chitin",
+        "temper-reagent/powdered-mother-of-pearl",
+      ],
     },
     {
-      reagents: ["Beetle Scuttle", "Mudcrab Chitin", "Torchbug Thorax"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/mudcrab-chitin",
+        "temper-reagent/torchbug-thorax",
+      ],
     },
   ],
   effects: "jsonl",

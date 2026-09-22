@@ -12,64 +12,144 @@ export const vitalityStealthDetection = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Beetle Scuttle", "Chaurus Egg", "Torchbug Thorax"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/chaurus-egg",
+        "temper-reagent/torchbug-thorax",
+      ],
     },
     {
-      reagents: ["Beetle Scuttle", "Corn Flower", "Torchbug Thorax"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/corn-flower",
+        "temper-reagent/torchbug-thorax",
+      ],
     },
     {
-      reagents: ["Beetle Scuttle", "Torchbug Thorax", "White Cap"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/torchbug-thorax",
+        "temper-reagent/white-cap",
+      ],
     },
     {
-      reagents: ["Beetle Scuttle", "Torchbug Thorax", "Wormwood"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/torchbug-thorax",
+        "temper-reagent/wormwood",
+      ],
     },
     {
-      reagents: ["Butterfly Wing", "Chaurus Egg", "Torchbug Thorax"],
+      reagents: [
+        "temper-reagent/butterfly-wing",
+        "temper-reagent/chaurus-egg",
+        "temper-reagent/torchbug-thorax",
+      ],
     },
     {
-      reagents: ["Butterfly Wing", "Corn Flower", "Torchbug Thorax"],
+      reagents: [
+        "temper-reagent/butterfly-wing",
+        "temper-reagent/corn-flower",
+        "temper-reagent/torchbug-thorax",
+      ],
     },
     {
-      reagents: ["Butterfly Wing", "Torchbug Thorax", "White Cap"],
+      reagents: [
+        "temper-reagent/butterfly-wing",
+        "temper-reagent/torchbug-thorax",
+        "temper-reagent/white-cap",
+      ],
     },
     {
-      reagents: ["Butterfly Wing", "Torchbug Thorax", "Wormwood"],
+      reagents: [
+        "temper-reagent/butterfly-wing",
+        "temper-reagent/torchbug-thorax",
+        "temper-reagent/wormwood",
+      ],
     },
     {
-      reagents: ["Chaurus Egg", "Dragon's Bile", "Torchbug Thorax"],
+      reagents: [
+        "temper-reagent/chaurus-egg",
+        "temper-reagent/dragons-bile",
+        "temper-reagent/torchbug-thorax",
+      ],
     },
     {
-      reagents: ["Chaurus Egg", "Fleshfly Larva", "Torchbug Thorax"],
+      reagents: [
+        "temper-reagent/chaurus-egg",
+        "temper-reagent/fleshfly-larva",
+        "temper-reagent/torchbug-thorax",
+      ],
     },
     {
-      reagents: ["Chaurus Egg", "Powdered Mother of Pearl", "Torchbug Thorax"],
+      reagents: [
+        "temper-reagent/chaurus-egg",
+        "temper-reagent/powdered-mother-of-pearl",
+        "temper-reagent/torchbug-thorax",
+      ],
     },
     {
-      reagents: ["Corn Flower", "Dragon's Bile", "Torchbug Thorax"],
+      reagents: [
+        "temper-reagent/corn-flower",
+        "temper-reagent/dragons-bile",
+        "temper-reagent/torchbug-thorax",
+      ],
     },
     {
-      reagents: ["Corn Flower", "Fleshfly Larva", "Torchbug Thorax"],
+      reagents: [
+        "temper-reagent/corn-flower",
+        "temper-reagent/fleshfly-larva",
+        "temper-reagent/torchbug-thorax",
+      ],
     },
     {
-      reagents: ["Corn Flower", "Powdered Mother of Pearl", "Torchbug Thorax"],
+      reagents: [
+        "temper-reagent/corn-flower",
+        "temper-reagent/powdered-mother-of-pearl",
+        "temper-reagent/torchbug-thorax",
+      ],
     },
     {
-      reagents: ["Dragon's Bile", "Torchbug Thorax", "White Cap"],
+      reagents: [
+        "temper-reagent/dragons-bile",
+        "temper-reagent/torchbug-thorax",
+        "temper-reagent/white-cap",
+      ],
     },
     {
-      reagents: ["Dragon's Bile", "Torchbug Thorax", "Wormwood"],
+      reagents: [
+        "temper-reagent/dragons-bile",
+        "temper-reagent/torchbug-thorax",
+        "temper-reagent/wormwood",
+      ],
     },
     {
-      reagents: ["Fleshfly Larva", "Torchbug Thorax", "White Cap"],
+      reagents: [
+        "temper-reagent/fleshfly-larva",
+        "temper-reagent/torchbug-thorax",
+        "temper-reagent/white-cap",
+      ],
     },
     {
-      reagents: ["Fleshfly Larva", "Torchbug Thorax", "Wormwood"],
+      reagents: [
+        "temper-reagent/fleshfly-larva",
+        "temper-reagent/torchbug-thorax",
+        "temper-reagent/wormwood",
+      ],
     },
     {
-      reagents: ["Powdered Mother of Pearl", "Torchbug Thorax", "White Cap"],
+      reagents: [
+        "temper-reagent/powdered-mother-of-pearl",
+        "temper-reagent/torchbug-thorax",
+        "temper-reagent/white-cap",
+      ],
     },
     {
-      reagents: ["Powdered Mother of Pearl", "Torchbug Thorax", "Wormwood"],
+      reagents: [
+        "temper-reagent/powdered-mother-of-pearl",
+        "temper-reagent/torchbug-thorax",
+        "temper-reagent/wormwood",
+      ],
     },
   ],
   effects: "jsonl",

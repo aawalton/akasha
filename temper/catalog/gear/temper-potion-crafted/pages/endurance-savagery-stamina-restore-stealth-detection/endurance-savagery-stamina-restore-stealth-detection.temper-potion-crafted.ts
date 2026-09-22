@@ -12,7 +12,11 @@ export const enduranceSavageryStaminaRestoreStealthDetection = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Chaurus Egg", "Dragonthorn", "Wormwood"],
+      reagents: [
+        "temper-reagent/chaurus-egg",
+        "temper-reagent/dragonthorn",
+        "temper-reagent/wormwood",
+      ],
     },
   ],
   effects: "jsonl",

@@ -180,7 +180,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/companion/weapon-role/properties/valid-off-hand-weapon-types.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/effect/temper-curse/properties/eso-curse-ids.number-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-motif-style/properties/drop-sources.multi-relation-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-potion-crafted/properties/reagent-names.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-potion-crafted/properties/recipe-reagents.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-potion-crafted/properties/recipes.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.types.ts"}

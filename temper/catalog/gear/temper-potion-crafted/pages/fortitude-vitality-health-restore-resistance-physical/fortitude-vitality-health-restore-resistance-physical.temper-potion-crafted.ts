@@ -12,7 +12,11 @@ export const fortitudeVitalityHealthRestoreResistancePhysical = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Beetle Scuttle", "Butterfly Wing", "Mountain Flower"],
+      reagents: [
+        "temper-reagent/beetle-scuttle",
+        "temper-reagent/butterfly-wing",
+        "temper-reagent/mountain-flower",
+      ],
     },
   ],
   effects: "jsonl",

@@ -12,13 +12,17 @@ export const fortitudeIntellectHealthRestoreMagickaRestoreResistanceSpell = {
   seconds: 47,
   recipes: [
     {
-      reagents: ["Bugloss", "Clam Gall", "Columbine"],
+      reagents: ["temper-reagent/bugloss", "temper-reagent/clam-gall", "temper-reagent/columbine"],
     },
     {
-      reagents: ["Bugloss", "Columbine", "Mudcrab Chitin"],
+      reagents: [
+        "temper-reagent/bugloss",
+        "temper-reagent/columbine",
+        "temper-reagent/mudcrab-chitin",
+      ],
     },
     {
-      reagents: ["Bugloss", "Columbine", "White Cap"],
+      reagents: ["temper-reagent/bugloss", "temper-reagent/columbine", "temper-reagent/white-cap"],
     },
   ],
   effects: "jsonl",
