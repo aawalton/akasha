@@ -23,7 +23,7 @@ SHELL_DIR="${NATIVE_SHELL_DIR:-}"
 [ -n "$SHELL_DIR" ] || {
   echo "ERROR: NATIVE_SHELL_DIR is unset, so this run has no tree of its own to compile." >&2
   echo "       This script is delivered by whatever runs the build, which rsyncs the" >&2
-  echo "       invoking working tree to this machine and names where it landed. It reads" >&2
+  echo "       invoking checkout to this machine and names where it landed. It reads" >&2
   echo "       no clone here, so there is nothing to fall back to. Do not run it standalone." >&2
   exit 1
 }
@@ -55,7 +55,7 @@ cd "$TREE_ROOT"
 npm install
 
 cd "$SHELL_DIR"
-echo "==> Building in $SHELL_DIR (rsynced from the invoking working tree by this run)"
+echo "==> Building in $SHELL_DIR (rsynced from the invoking checkout by this run)"
 
 SYNC_SCRIPT="${NATIVE_SHELL_SYNC_SCRIPT:?is unset. The ios-app page states sync-script, and whatever runs this build reads it off that page and exports it. This script builds more than one app and names no script of its own to fall back to.}"
 if [ -d ios ]; then
