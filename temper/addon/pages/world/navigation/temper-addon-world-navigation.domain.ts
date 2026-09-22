@@ -335,7 +335,7 @@ export const temperAddonWorldNavigation = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A data table wider than one module is runs joined in order.",
+      statement: "A data table wider than one module is sets joined in order.",
     },
     {
       decisionKind: "decision-kind/departure",
