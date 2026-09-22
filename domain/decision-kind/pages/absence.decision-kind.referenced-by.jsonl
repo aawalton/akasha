@@ -1587,7 +1587,6 @@
 {"propertySlug":"decision-kind","path":"page/modules/file-body/page-file-body.module.ts","id":"01a07323-6246-7319-bab0-db087f92380d"}
 {"propertySlug":"decision-kind","path":"page/modules/file-name/page-file-name.module.ts","id":"01a04e3b-cd68-7be9-bd0f-a4ff61fa0c05"}
 {"propertySlug":"decision-kind","path":"page/modules/file-parts/page-file-parts.module.ts","id":"01a0610b-6431-783b-94f0-006f071dfd63"}
-{"propertySlug":"decision-kind","path":"page/modules/landing-judge/page-landing-judge.module.ts","id":"01a0686e-6807-7002-99df-198a80301ced"}
 {"propertySlug":"decision-kind","path":"page/modules/markdown-document/markdown-document.module.ts","id":"01a05cc6-2a1c-7052-a972-698c701753b4"}
 {"propertySlug":"decision-kind","path":"page/modules/record-sweeping/record-sweeping.module.ts","id":"01a09b2f-70d4-7d54-b9cf-7c956b1ce890"}
 {"propertySlug":"decision-kind","path":"page/modules/reference-filing/page-reference-filing.module.ts","id":"01a0a2fd-3d84-72e6-bf95-847df5aa7228"}

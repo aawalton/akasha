@@ -66,7 +66,6 @@ export const page = {
     "module/page-file-body",
     "module/page-file-name",
     "module/page-file-parts",
-    "module/page-landing-judge",
     "module/page-reference-filing",
     "module/page-reference-reading",
     "module/page-referencing",
