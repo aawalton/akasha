@@ -7,7 +7,7 @@ export const gameUnpack = {
   definition: "the command making a page of each row a game keeps in a file beside its page",
   code: "ts",
   test: "ts",
-  parts: [],
+  parts: ["module/rows-as-pages"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

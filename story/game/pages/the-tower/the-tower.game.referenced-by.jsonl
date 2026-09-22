@@ -86,4 +86,5 @@
 {"propertySlug":"holding-game","path":"story/game/pages/the-tower/turns/the-tower-088.game-turn.ts","id":"01a0c686-1cbd-770e-af0c-2594765fca54"}
 {"propertySlug":"import","fileName":"the-tower.game.ts","path":"command/pages/game/settle/game-settle.command.test.ts"}
 {"propertySlug":"import","fileName":"the-tower.game.ts","path":"command/pages/game/unpack/game-unpack.command.test.ts"}
+{"propertySlug":"import","fileName":"the-tower.game.ts","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.test.ts"}
 {"propertySlug":"import","fileName":"the-tower.game.ts","path":"story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.test.ts"}

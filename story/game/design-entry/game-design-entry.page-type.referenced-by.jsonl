@@ -1,5 +1,6 @@
-{"propertySlug":"import","fileName":"game-design-entry.page-type.ts","path":"command/pages/game/unpack/game-unpack.command.code.ts"}
 {"propertySlug":"import","fileName":"game-design-entry.page-type.ts","path":"command/pages/game/unpack/game-unpack.command.test.ts"}
+{"propertySlug":"import","fileName":"game-design-entry.page-type.ts","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.code.ts"}
+{"propertySlug":"import","fileName":"game-design-entry.page-type.ts","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.test.ts"}
 {"propertySlug":"import","fileName":"game-design-entry.page-type.types.ts","path":"story/game/pages/harem-hotel/design-entries/harem-hotel-companion-aria.game-design-entry.ts"}
 {"propertySlug":"import","fileName":"game-design-entry.page-type.types.ts","path":"story/game/pages/harem-hotel/design-entries/harem-hotel-design-constraints-companion-talents.game-design-entry.ts"}
 {"propertySlug":"import","fileName":"game-design-entry.page-type.types.ts","path":"story/game/pages/harem-hotel/design-entries/harem-hotel-floor-1-v2.game-design-entry.ts"}

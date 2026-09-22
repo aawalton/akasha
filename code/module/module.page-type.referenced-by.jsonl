@@ -1294,6 +1294,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/next/modules/stepping/stepping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/next/modules/targeting/targeting.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/next/modules/warming/warming.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/inference/wan/modules/wan-hosting/wan-hosting.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/infrastructure/dev-server/log/modules/last-lines/last-lines.module.ts"}

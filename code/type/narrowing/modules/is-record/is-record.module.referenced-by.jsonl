@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"code/type/narrowing/modules/json-equal/json-equal.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/game/settle/game-settle.command.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/game/unpack/game-unpack.command.code.ts"}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"design/language/lua-compiler/modules/cli-tsconfig/cli-tsconfig.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"design/language/lua-compiler/modules/transpile-plugins/transpile-plugins.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"design/language/lua-compiler/modules/transpile-resolve/transpile-resolve.module.code.ts"}

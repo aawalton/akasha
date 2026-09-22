@@ -2092,6 +2092,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/fitness/week/fitness-week.command.ts","id":"01a0b6de-d8b5-7094-8d97-329aa11e314c"}
 {"propertySlug":"decision-kind","path":"command/pages/game/settle/game-settle.command.ts","id":"01a0c600-9161-7fdb-8ac2-edc582abc988"}
 {"propertySlug":"decision-kind","path":"command/pages/game/unpack/game-unpack.command.ts","id":"01a0c940-c57c-775a-a7b8-2853a0d22579"}
+{"propertySlug":"decision-kind","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.ts","id":"01a0c955-a960-754f-adb6-685f72644513"}
 {"propertySlug":"decision-kind","path":"command/pages/gap/delete/gap-delete.command.ts","id":"01a0b7a0-c25d-7717-a0fa-41e1a1ee2221"}
 {"propertySlug":"decision-kind","path":"command/pages/git/push/git-push.command.ts","id":"01a06cce-9280-7c22-afc1-5cfcba8a5ac4"}
 {"propertySlug":"decision-kind","path":"command/pages/git/restore/git-restore.command.ts","id":"01a07267-f795-738d-90c6-a5e16e277228"}

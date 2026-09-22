@@ -5,7 +5,6 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
-import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { game as gameArgument } from "akasha/command/argument/pages/game.argument.ts"
 import { ledger as ledgerArgument } from "akasha/command/argument/pages/ledger.argument.ts"
@@ -20,230 +19,30 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { gameUnpack as page } from "akasha/command/pages/game/unpack/game-unpack.command.ts"
+import { LEDGERS } from "akasha/command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   foldedFor,
   type Naming,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { putting } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
-import { gameDesignEntry } from "akasha/story/game/design-entry/game-design-entry.page-type.ts"
 import { game } from "akasha/story/game/game.page-type.ts"
-import { gameLoreEntry } from "akasha/story/game/lore-entry/game-lore-entry.page-type.ts"
 
 const NAMED = [gameArgument, ledgerArgument] as const
 
 const JSONL = "jsonl"
 const UTF8 = "utf8"
 const BREAK = "\n"
-const TS = "ts"
 const PARTED = "/"
-const HASH = "#"
-const HELD = "md"
-const ABOVE = 2
-const WITHIN = 3
-
-const KIND = "kind"
-const CONTENT = "content"
-const NAME = "name"
-const EXTERNAL_ID = "external-id"
-const DESIGN_KIND = "design-kind"
-const SUBJECT_KEY = "subject-key"
-const SOURCE_REF = "source-ref"
-const SUPERSEDES = "supersedes"
-
-const EXTERNAL = "externalId"
-const LORE_KIND = "loreKind"
-const LORE_SUBJECT = "subjectKey"
-const SOURCE_TURN = "sourceTurn"
-const CITATION = "citation"
-const QUOTE = "quote"
-const VALUE = "value"
-const SUMMARY = "summary"
-const EVENT = "event"
-const LINE = "line"
-const ATTRIBUTE = "attribute"
-const STATUS = "status"
-const ORDINAL = "ordinal"
-const SPEAKER = "speaker"
-
-const A_BREAK = /([a-z0-9])([A-Z])/g
-const A_DASH = /-/g
-const A_RUN = /\s+/
-const A_NUMBER = /(\d+)\s*$/
-const A_NOT_SLUG = /[^a-z0-9]+/g
-const A_RUN_OF_DASH = /-{2,}/g
-const AN_EDGE_DASH = /^-|-$/g
-
-export type Made = Naming | { readonly refused: string }
-
-type Rowed = (gameSlug: string, folder: string, row: Record<string, unknown>) => Made
-
-type Ledger = { readonly under: string; readonly rowed: Rowed }
+const FIRST_ROW = 1
 
 export type Taken = { readonly game: string; readonly ledger: string }
 
 export type Read = Taken | { readonly refused: string }
 
 export type Found = { readonly at: string; readonly slug: string }
-
-export function titleOf(said: string): string {
-  return said
-    .replace(A_BREAK, "$1 $2")
-    .replace(A_DASH, " ")
-    .split(A_RUN)
-    .filter((one) => one !== "")
-    .map((one) => `${one.slice(0, 1).toUpperCase()}${one.slice(1)}`)
-    .join(" ")
-}
-
-export function sluggedOf(said: string): string {
-  return said
-    .replace(A_BREAK, "$1-$2")
-    .toLowerCase()
-    .replace(A_NOT_SLUG, "-")
-    .replace(A_RUN_OF_DASH, "-")
-    .replace(AN_EDGE_DASH, "")
-}
-
-function saidOf(held: unknown): string {
-  if (typeof held === "string") return held
-  if (typeof held === "number" || typeof held === "boolean") return String(held)
-  return JSON.stringify(held)
-}
-
-function fieldsOf(held: Record<string, unknown>, skip: string | null): string[] {
-  const lines: string[] = []
-  for (const [key, value] of Object.entries(held)) {
-    if (key === skip) continue
-    lines.push(`**${titleOf(key)}** — ${saidOf(value)}`, "")
-  }
-  return lines
-}
-
-function listedOf(held: readonly unknown[], depth: number): string[] {
-  const lines: string[] = []
-  for (const one of held) {
-    if (!isRecord(one)) {
-      lines.push(`- ${saidOf(one)}`, "")
-      continue
-    }
-    const named = textIn(one[NAME])
-    if (named === null) {
-      lines.push(...fieldsOf(one, null))
-      continue
-    }
-    lines.push(`${HASH.repeat(depth)} ${named}`, "")
-    lines.push(...fieldsOf(one, NAME))
-  }
-  return lines
-}
-
-export function noteOf(content: unknown): string {
-  if (!isRecord(content)) return ""
-  const lines: string[] = []
-  for (const [key, value] of Object.entries(content)) {
-    if (key === KIND) continue
-    lines.push(`${HASH.repeat(ABOVE)} ${titleOf(key)}`, "")
-    if (Array.isArray(value)) lines.push(...listedOf(value, WITHIN))
-    else if (isRecord(value)) lines.push(...fieldsOf(value, null))
-    else lines.push(saidOf(value), "")
-  }
-  return `${lines.join(BREAK).trim()}${BREAK}`
-}
-
-export function designRowed(gameSlug: string, folder: string, row: Record<string, unknown>): Made {
-  const external = textIn(row[EXTERNAL_ID])
-  const kind = textIn(row[DESIGN_KIND])
-  if (external === null || kind === null) {
-    return { refused: "a design entry row names no external id or no kind" }
-  }
-  const source = textIn(row[SOURCE_REF])
-  const supersedes = textIn(row[SUPERSEDES])
-  const slug = `${gameSlug}-${sluggedOf(external)}`
-  return {
-    pageTypeSlug: gameDesignEntry.slug,
-    slug,
-    path: `${folder}${PARTED}${slug}.${gameDesignEntry.slug}.${TS}`,
-    values: {
-      title: titleOf(textIn(row[SUBJECT_KEY]) ?? external),
-      game: namedAs(game.slug, gameSlug, null),
-      kind,
-      ...(source === null ? {} : { source }),
-      ...(supersedes === null
-        ? {}
-        : {
-            supersedes: namedAs(gameDesignEntry.slug, `${gameSlug}-${sluggedOf(supersedes)}`, null),
-          }),
-      note: HELD,
-    },
-    bodies: { note: noteOf(row[CONTENT]) },
-  }
-}
-
-export function numberIn(held: unknown): number | null {
-  if (typeof held === "number") return Number.isFinite(held) ? held : null
-  const said = textIn(held)
-  if (said === null) return null
-  const found = A_NUMBER.exec(said)
-  return found === null ? null : Number(found[1])
-}
-
-export function loreRowed(gameSlug: string, folder: string, row: Record<string, unknown>): Made {
-  const external = textIn(row[EXTERNAL])
-  const kind = textIn(row[LORE_KIND])
-  const subject = textIn(row[LORE_SUBJECT])
-  if (external === null || kind === null || subject === null) {
-    return { refused: "a lore entry row names no external id, no kind or no subject" }
-  }
-  const turn = numberIn(row[SOURCE_TURN])
-  if (turn === null) return { refused: `\`${external}\` cites no turn` }
-  const content = row[CONTENT]
-  if (!isRecord(content)) return { refused: `\`${external}\` says nothing` }
-  const said =
-    textIn(content[VALUE]) ??
-    textIn(content[SUMMARY]) ??
-    textIn(content[EVENT]) ??
-    textIn(content[LINE])
-  if (said === null) return { refused: `\`${external}\` says nothing` }
-  const citation = row[CITATION]
-  const cited = isRecord(citation) ? textIn(citation[QUOTE]) : null
-  const attribute = textIn(content[ATTRIBUTE])
-  const status = textIn(content[STATUS])
-  const ordinal = numberIn(content[ORDINAL])
-  const speaker = textIn(content[SPEAKER])
-  const supersedes = textIn(row[SUPERSEDES])
-  const slug = `${gameSlug}-${sluggedOf(external)}`
-  return {
-    pageTypeSlug: gameLoreEntry.slug,
-    slug,
-    path: `${folder}${PARTED}${slug}.${gameLoreEntry.slug}.${TS}`,
-    values: {
-      title: titleOf(subject),
-      game: namedAs(game.slug, gameSlug, null),
-      kind,
-      subject,
-      said,
-      turn,
-      ...(cited === null ? {} : { quote: cited }),
-      ...(attribute === null ? {} : { attribute }),
-      ...(status === null ? {} : { status }),
-      ...(ordinal === null ? {} : { ordinal }),
-      ...(speaker === null ? {} : { speaker }),
-      ...(supersedes === null
-        ? {}
-        : {
-            supersedes: namedAs(gameLoreEntry.slug, `${gameSlug}-${sluggedOf(supersedes)}`, null),
-          }),
-    },
-  }
-}
-
-const LEDGERS: ReadonlyMap<string, Ledger> = new Map([
-  [gameDesignEntry.pluralSlug, { under: gameDesignEntry.pluralSlug, rowed: designRowed } as Ledger],
-  [gameLoreEntry.pluralSlug, { under: gameLoreEntry.pluralSlug, rowed: loreRowed } as Ledger],
-])
 
 export function taken(argv: readonly string[], calledAs: string): Read {
   const read = takenFor(argv, calledAs, page, NAMED)
@@ -303,7 +102,7 @@ async function unpacked(
   for (const line of rowsIn(readFileSync(at, UTF8))) {
     const row: unknown = JSON.parse(line)
     if (!isRecord(row)) return refused(`a row of \`${beside}\` is no record`, DATA)
-    const one = ledger.rowed(found.slug, folder, row)
+    const one = ledger.rowed({ gameSlug: found.slug, folder, row, at: naming.length + FIRST_ROW })
     if ("refused" in one) return refused(one.refused, DATA)
     naming.push(one)
   }
