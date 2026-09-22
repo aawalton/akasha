@@ -30,7 +30,6 @@ import {
   toPageTypeSlug,
 } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import type { ReactNode } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const PAGE_TYPE_SLUG = "page-type"
 
