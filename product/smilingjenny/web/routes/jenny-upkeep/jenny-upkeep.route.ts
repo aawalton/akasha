@@ -4,7 +4,7 @@ export const jennyUpkeep = {
   id: "01a08bee-4262-784b-b397-8a5a0ad37433",
   type: "page-type/route",
   slug: "jenny-upkeep",
-  definition: "Alan's upkeep as the stoplights Jenny's tile gives those readings",
+  definition: "Alan's upkeep as the stoplights on Jenny's tile",
   code: "ts",
   test: "ts",
   urlPath: "api/upkeep",

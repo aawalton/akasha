@@ -4,7 +4,7 @@ export const jennySurplus = {
   id: "01a07c5d-9ae4-79ac-8807-7f63c08e44df",
   type: "page-type/route",
   slug: "jenny-surplus",
-  definition: "Alan's surplus as the color Jenny's tile gives that surplus",
+  definition: "Alan's surplus as the color on Jenny's tile",
   code: "ts",
   test: "ts",
   urlPath: "api/surplus",
