@@ -11,6 +11,7 @@ export const host = {
   ],
   extends: ["page-type/domain"],
   parts: [
+    "host/headscale",
     "host/macbook",
     "host/node-01",
     "host/node-02",

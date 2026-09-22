@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"host.page-type.ts","path":"infrastructure/service/inference/modules/inference-reading/inference-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"host.page-type.types.ts","path":"infrastructure/machine/host/pages/headscale.host.ts"}
 {"propertySlug":"import","fileName":"host.page-type.types.ts","path":"infrastructure/machine/host/pages/macbook.host.ts"}
 {"propertySlug":"import","fileName":"host.page-type.types.ts","path":"infrastructure/machine/host/pages/node-01.host.ts"}
 {"propertySlug":"import","fileName":"host.page-type.types.ts","path":"infrastructure/machine/host/pages/node-02.host.ts"}
