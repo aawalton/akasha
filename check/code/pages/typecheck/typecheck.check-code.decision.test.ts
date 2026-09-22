@@ -243,7 +243,7 @@ test("a change naming no TypeScript under the akasha folder asks the index nothi
   expect(await judged(change(root, { "akasha/notes.txt": "nothing to compile\n" }))).toEqual([])
 })
 
-test("a file whole at base and deleted from the worktree alone still answers for its errors", async () => {
+test("a file whole at base and deleted from the checkout alone still answers for its errors", async () => {
   const root = basing()
   const held = readFileSync(join(root, "akasha/b.ts"), "utf8")
   const changed = { "akasha/a.module.ts": ONE_NUMBER }

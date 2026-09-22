@@ -28,7 +28,7 @@ const GIVEN: Given = {
   agentId: null,
 }
 
-const BROKE = new Error("the module landed and the working tree would not settle")
+const BROKE = new Error("the module landed and the checkout would not settle")
 
 const LANDED = "abc123"
 

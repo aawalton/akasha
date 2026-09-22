@@ -53,7 +53,7 @@ const B_ID = "01a04de1-2000-7000-8000-000000000003"
 
 const ROOT_ID = "01a04de1-2000-7000-8000-000000000004"
 
-const WORKTREE_ID = "01a04de1-2000-7000-8000-000000000005"
+const ON_DISK_ID = "01a04de1-2000-7000-8000-000000000005"
 
 const scratch = scratchWorld()
 
@@ -211,10 +211,10 @@ test("the report says the files a type generator writes were weighed against the
   expect(said(answer)).toContain("every file a type generator writes was weighed against the pages")
 })
 
-test("a worktree differing from HEAD is built over rather than refused", () => {
+test("files on disk differing from HEAD are built over rather than refused", () => {
   const root = repoAt()
   seeded(root)
-  const body = bodyOf({ id: WORKTREE_ID, pageTypeSlug: "domain", slug: "b" })
+  const body = bodyOf({ id: ON_DISK_ID, pageTypeSlug: "domain", slug: "b" })
   writeFileSync(join(root, "b.domain.ts"), body)
   const answer = indexRefresh([], givenAt(root))
   expect(answer.code).toBe(OK)
@@ -394,7 +394,7 @@ test("an index file on disk that git does not hold is committed by the next refr
   indexRefresh([], givenAt(root))
   writeFileSync(
     join(root, "b.domain.ts"),
-    bodyOf({ id: WORKTREE_ID, pageTypeSlug: "domain", slug: "b" })
+    bodyOf({ id: ON_DISK_ID, pageTypeSlug: "domain", slug: "b" })
   )
   git(root, ["add", "b.domain.ts"])
   git(root, ["commit", "--quiet", "-m", "a page the index was told of outside a refresh"])

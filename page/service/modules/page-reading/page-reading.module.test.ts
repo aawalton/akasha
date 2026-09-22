@@ -106,9 +106,9 @@ test("a read names the commit its bodies were read at", () => {
   expect(said.at).toBe(gitIn(root, ["rev-parse", "HEAD"]).trim())
 })
 
-test("a body is read out of the commit rather than off the working tree", () => {
+test("a body is read out of the commit rather than off the checkout", () => {
   const root = repoWith({ [A_PAGE]: "committed" })
-  writeFileSync(join(root, A_PAGE), "dirty in the worktree")
+  writeFileSync(join(root, A_PAGE), "dirty on disk")
   const said = reading({ root }, { paths: [A_PAGE] }, nowhere)
   if ("refused" in said) throw new Error(said.refused)
   expect(said.bodies[0]?.content).toBe("committed")
@@ -203,7 +203,7 @@ test("a property held outside the commit answers what the checkout holds now", (
 test("a committed body is read out of the commit though an uncommitted one is not", () => {
   const root = repoWith({ [A_PAGE]: "committed" })
   const first = gitIn(root, ["rev-parse", "HEAD"]).trim()
-  writeFileSync(join(root, A_PAGE), "dirty in the worktree")
+  writeFileSync(join(root, A_PAGE), "dirty on disk")
   writeFileSync(join(root, AN_UNCOMMITTED_FILE), "current")
   const asked = { paths: [A_PAGE, AN_UNCOMMITTED_FILE], at: first }
   const said = reading({ root }, asked, nowhere)

@@ -69,7 +69,7 @@ test("a body reads as the change leaves it, whether untouched or touched or take
     "nul.bin": NUL,
     "broken.bin": BROKEN,
   })
-  writeFileSync(join(root, "two.txt"), "dirty in the worktree")
+  writeFileSync(join(root, "two.txt"), "dirty on disk")
   const base = baseOf(root)
   const change = changeOf(root, base, [{ kind: "add", path: "one.txt", content: "proposed" }])
   const untouched = change.after("two.txt")
@@ -159,7 +159,7 @@ test("a settle worked out against a commit that is no longer the base is worked 
   expect(idFiledIn(root, ID)).toBe(true)
 })
 
-test("a refused change leaves the index as it found it, as it leaves the worktree", async () => {
+test("a refused change leaves the index as it found it, as it leaves the files on disk", async () => {
   const root = await pageLanded(await carriedRepo())
   const was = everythingFiled(root)
   const said = await landing(

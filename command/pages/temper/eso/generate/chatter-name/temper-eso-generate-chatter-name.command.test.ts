@@ -15,7 +15,7 @@ const GIVEN: Given = {
   agentId: null,
 }
 
-const LOST = new Error("the registry landed and the working tree would not settle")
+const LOST = new Error("the registry landed and the checkout would not settle")
 
 const LANDED = "abc123"
 
@@ -39,7 +39,7 @@ test("a run that threw with the registry unwritten says why it threw and no more
   const said = await chattering([], GIVEN, throwingAfter([], LOST))
 
   expect(said.report).toEqual([])
-  expect(said.refusals[0]).toContain("the working tree would not settle")
+  expect(said.refusals[0]).toContain("the checkout would not settle")
   expect(said.refusals.some((one) => one.startsWith("this stopped part way"))).toBe(false)
 })
 
