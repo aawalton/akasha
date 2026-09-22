@@ -33,7 +33,6 @@ export const temperAddonType = {
     "type-declaration/lib-notification",
     "type-declaration/lib-qr-code",
     "type-declaration/lib-radial-menu",
-    "type-declaration/lib-saved-vars",
     "type-declaration/lib-scrollable-menu",
     "type-declaration/lib-sets",
     "type-declaration/lib-sets-api",

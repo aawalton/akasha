@@ -116,6 +116,8 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/world/stories/read/modules/chapter-alerts/chapter-alerts.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/build/deploy-check/modules/addon-hook-eager-capture/addon-hook-eager-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/build/deploy-check/modules/addon-sandbox-load/addon-sandbox-load.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/saved-vars-casts/saved-vars-casts.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-message-types/combat-lib-message-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-numbers/combat-ui-chat-numbers.module.code.ts"}
@@ -144,8 +146,6 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-cache/histoire-cache.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-casts/main-menu-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-saved-vars/modules/saved-vars-casts/saved-vars-casts.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-saved-vars/modules/saved-vars-types/saved-vars-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"}

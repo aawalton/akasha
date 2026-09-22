@@ -21,7 +21,6 @@
     "LibGPS>=73",
     "LibMapData>=121",
     "LibDebugLogger>=274",
-    "LibSavedVars>=60007",
     "LibNotification>=15",
     "LibExtendedJournal>=205011"
   ],

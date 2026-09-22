@@ -1,3 +1,4 @@
+import { newAccountWideSavedVars } from "akasha/temper/addon/pages/collections/modules/saved-vars-lib-core/saved-vars-lib-core.module.code.ts"
 import { getTreasureIcons } from "akasha/temper/addon/pages/collections/modules/treasure-api/treasure-api.module.code.ts"
 import {
   LOST_TREASURE_BLANK_SAVED_VARS,
@@ -17,7 +18,6 @@ import {
   getFileNameFromPath,
 } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-saved-vars/lib-saved-vars.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
@@ -150,7 +150,7 @@ function getNewTexturePath(this: void, path: string, pinType: PinType): string {
 
 export function initializeSavedVars(this: void): undefined {
   HOLDER.db = asLostTreasureDb(
-    LibSavedVars.NewAccountWide(SAVED_VARIABLES_ACCOUNT, asStringRecord(DEFAULTS))
+    newAccountWideSavedVars(SAVED_VARIABLES_ACCOUNT, asStringRecord(DEFAULTS))
       .AddCharacterSettingsToggle(SAVED_VARIABLES_CHARACTER)
       .Version(20, function (this: void, savedVarsTable: Record<string, unknown>): undefined {
         ZO_ClearTable(savedVarsTable)

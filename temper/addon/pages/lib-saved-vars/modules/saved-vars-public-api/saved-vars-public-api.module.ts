@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const savedVarsPublicApi = {
-  id: "01a06177-ac00-72c6-8172-80d24ba17412",
-  type: "page-type/module",
-  slug: "saved-vars-public-api",
-  definition: "the names this library leaves in every other addon's reach",
-  code: "ts",
-} as const satisfies Module

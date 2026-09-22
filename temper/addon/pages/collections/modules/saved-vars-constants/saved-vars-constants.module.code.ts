@@ -1,0 +1,13 @@
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+
+export const SAVED_VARS_NAME = "TemperSavedVars"
+
+export const SAVED_VARS_VERSION = 60007
+
+export const SAVED_VARS_CHARACTER_NAME_KEY = ZO_SAVED_VARS_CHARACTER_NAME_KEY
+export const SAVED_VARS_CHARACTER_ID_KEY = ZO_SAVED_VARS_CHARACTER_ID_KEY
+export const SAVED_VARS_ACCOUNT_KEY = 3
+export const SAVED_VARS_SCOPE_CHARACTER = 1
+export const SAVED_VARS_SCOPE_ACCOUNT = 2
+export const SAVED_VARS_SCOPE_MIN = SAVED_VARS_SCOPE_CHARACTER
+export const SAVED_VARS_SCOPE_MAX = SAVED_VARS_SCOPE_ACCOUNT

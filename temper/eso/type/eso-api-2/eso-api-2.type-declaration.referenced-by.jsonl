@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-achievements/characters-achievements.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-skill-points/characters-skill-points.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/saved-vars-manager/saved-vars-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-combat-events/combat-action-combat-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-encoding-tables/combat-encoding-tables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-ability-tables/combat-lib-ability-tables.module.code.ts"}
@@ -82,7 +83,6 @@
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-events/map-data-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-saved-vars/modules/saved-vars-manager/saved-vars-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-code-bootstrap/scrollable-menu-code-bootstrap.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-setup-slider/scrollable-menu-combobox-base-setup-slider.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-lang/scrollable-menu-lang.module.code.ts"}

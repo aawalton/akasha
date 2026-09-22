@@ -4,6 +4,8 @@
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-bag-size/characters-bag-size.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-item-sets/characters-item-sets.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-skill-points/characters-skill-points.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/saved-vars-lib-overrides/saved-vars-lib-overrides.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/saved-vars-manager-core/saved-vars-manager-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-death/combat-lib-death.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-fight-lifecycle/combat-lib-fight-lifecycle.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-fight/combat-lib-fight.module.code.ts"}
@@ -162,8 +164,6 @@
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master-smithing/inventory-writ-crafting-master-smithing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-events/map-data-events.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/lib-saved-vars/modules/saved-vars-lib-overrides/saved-vars-lib-overrides.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/lib-saved-vars/modules/saved-vars-manager-core/saved-vars-manager-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-api-armor-weapon-equip-class/lib-sets-core-api-armor-weapon-equip-class.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-api-drop-zones-sets/lib-sets-core-api-drop-zones-sets.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-api-perfected-veteran-set/lib-sets-core-api-perfected-veteran-set.module.code.ts"}

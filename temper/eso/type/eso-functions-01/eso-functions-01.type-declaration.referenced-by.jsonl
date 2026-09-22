@@ -25,6 +25,8 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-trait-research/characters-trait-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/saved-vars-lib-overrides/saved-vars-lib-overrides.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/saved-vars-manager-core/saved-vars-manager-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-cast/combat-action-cast.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-cooldown/combat-action-cooldown.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-power-lash/combat-action-power-lash.module.code.ts"}
@@ -347,9 +349,6 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-map-ping/modules/ping-rolling-average/ping-rolling-average.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-types/pin-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-notification/modules/notification-row-overrides/notification-row-overrides.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-saved-vars/modules/saved-vars-data-settings/saved-vars-data-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-saved-vars/modules/saved-vars-lib-overrides/saved-vars-lib-overrides.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-saved-vars/modules/saved-vars-manager-core/saved-vars-manager-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-refresh/scrollable-menu-api-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-setup-slider/scrollable-menu-combobox-base-setup-slider.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base/scrollable-menu-combobox-base.module.code.ts"}
