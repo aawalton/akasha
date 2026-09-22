@@ -50,7 +50,11 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A snapshot carries the colours and the insets a control was given.",
+      statement: "A snapshot carries the colors and the insets a control was given.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A color given as anything but numbers leaves the control without a color.",
     },
     {
       decisionKind: "decision-kind/departure",
