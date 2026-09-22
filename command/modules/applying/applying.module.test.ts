@@ -36,7 +36,11 @@ const AGENT = "01a05f00-0000-7000-8000-000000000001"
 
 const MORE = `${A}// drafted\n`
 
-const CARRIED_AT = "akasha/a.domain.carried.jsonl"
+const IMPORTER = "akasha/holding.ts"
+
+const IMPORTS = 'import { a } from "./a.domain.ts"\n\nexport const holding = a\n'
+
+const BESIDE_AT = "akasha/a.domain.referenced-by.jsonl"
 
 const OWES: Running = { checks: true, writerOwesReading: true, readersOweReading: true }
 
@@ -111,11 +115,12 @@ test("an apply lands the bodies handed in, names and records them, and moves a p
   const root = await indexed()
   writeFileSync(join(root, "held.uncommitted.ts"), "unsaid")
   const moves = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]
-  const said = await applied(root, AGENT, "applied", ADMITS, null, moves, carrying(MORE))
+  const rows = [rowAt(PAGE, MORE), rowAt(IMPORTER, IMPORTS)]
+  const said = await applied(root, AGENT, "applied", ADMITS, null, moves, { rows, running: OWES })
   if ("refusals" in said) throw new Error(said.refusals.join("; "))
   expect(readFileSync(join(root, PAGE), "utf8")).toBe(MORE)
   expect(said.formatted).toEqual([])
-  expect(said.landed).toEqual([CARRIED_AT, PAGE])
+  expect(said.landed).toEqual([BESIDE_AT, PAGE, IMPORTER])
   expect(readingIn(root, AGENT, PAGE)?.oid).toBe(headOid(root, PAGE))
   expect(readFileSync(join(root, "deep/held.uncommitted.ts"), "utf8")).toBe("unsaid")
   expect(existsSync(join(root, "held.uncommitted.ts"))).toBe(false)
