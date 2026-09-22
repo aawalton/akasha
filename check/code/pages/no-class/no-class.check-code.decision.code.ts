@@ -1,10 +1,10 @@
 import { dirname } from "node:path"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   lineOf,
   parsedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import ts from "typescript"
 
 export const CLASS = "class"
@@ -118,12 +118,12 @@ export function found(under: readonly string[], path: string, text: string): rea
     .map(reasonFor)
 }
 
-const LIBRARIES = new WeakMap<Shadow, readonly string[]>()
+const LIBRARIES = new WeakMap<Paged, readonly string[]>()
 
-export function librariesIn(shadow: Shadow): readonly string[] {
-  const held = LIBRARIES.get(shadow)
+export function librariesIn(paged: Paged): readonly string[] {
+  const held = LIBRARIES.get(paged)
   if (held !== undefined) return held
-  const made = shadow.index.everyOfType(RUNTIME_LIBRARY).map((one) => `${dirname(one.path)}/`)
-  LIBRARIES.set(shadow, made)
+  const made = paged.index.everyOfType(RUNTIME_LIBRARY).map((one) => `${dirname(one.path)}/`)
+  LIBRARIES.set(paged, made)
   return made
 }
