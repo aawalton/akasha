@@ -13,7 +13,7 @@ const ARGV = [
   "label=disable",
   "-p",
   "9400:9400",
-  "nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04",
+  "nvcr.io/nvidia/k8s/dcgm-exporter:4.2.3-4.1.3-ubuntu22.04",
 ]
 
 export async function runService(): Promise<never> {

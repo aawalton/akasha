@@ -47,7 +47,7 @@ test("a run hands the binary runner the program and the arguments rather than a 
       "label=disable",
       "-p",
       "9400:9400",
-      "nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04",
+      "nvcr.io/nvidia/k8s/dcgm-exporter:4.2.3-4.1.3-ubuntu22.04",
     ],
   ])
 })
