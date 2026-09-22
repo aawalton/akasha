@@ -75,7 +75,7 @@ const classes = asLsmCastRecordStringUnknown(lib.classes)
 const dropdownClass = asDropdownClass(classes.dropdownClass)
 
 let preventCustomScrollableContextMenuHide:
-  | typeof PreventCustomScrollableContextMenuHide
+  | typeof TemperScrollableMenuPreventContextMenuHide
   | undefined
 let clearCustomScrollableMenu: typeof ClearCustomScrollableMenu | undefined
 
@@ -217,7 +217,7 @@ dropdownClass.ShowFilterEditBoxHistory = function (
       )
 
       preventCustomScrollableContextMenuHide =
-        preventCustomScrollableContextMenuHide ?? PreventCustomScrollableContextMenuHide
+        preventCustomScrollableContextMenuHide ?? TemperScrollableMenuPreventContextMenuHide
       preventCustomScrollableContextMenuHide()
       ShowMenu(asObject(filterBox))
       ZO_Tooltips_HideTextTooltip()

@@ -80,7 +80,7 @@ declare var AddCustomScrollableMenuSlider: (
   sliderData?: unknown,
   additionalData?: unknown
 ) => LuaMultiReturn<[number | undefined, Record<string, unknown> | undefined]>
-declare var SetCustomScrollableMenuOptions: (
+declare var TemperScrollableMenuSetOptions: (
   this: void,
   options: unknown,
   comboBoxContainer?: unknown

@@ -2,7 +2,7 @@ declare const ZO_GAMEPAD_CONTENT_TITLE_DIVIDER_PADDING_Y: number
 
 declare var UpdateCustomScrollableMenuEntryPath: (this: void, ...args: unknown[]) => unknown
 declare var UpdateCustomScrollableMenuEntryIconPath: (this: void, ...args: unknown[]) => unknown
-declare const RunCustomScrollableMenuItemsCallback: (
+declare const TemperScrollableMenuRunItemsCallback: (
   this: void,
   comboBox: unknown,
   item: unknown,
@@ -11,8 +11,8 @@ declare const RunCustomScrollableMenuItemsCallback: (
   fromParentMenu: unknown,
   ...args: unknown[]
 ) => LuaMultiReturn<[boolean, unknown]>
-declare const PreventCustomScrollableContextMenuHide: (this: void) => undefined
-declare const IsCustomScrollableContextMenuShown: (this: void) => boolean
+declare const TemperScrollableMenuPreventContextMenuHide: (this: void) => undefined
+declare const TemperScrollableMenuIsContextMenuShown: (this: void) => boolean
 
 interface DropdownRowControl {
   m_dropdownObject?: DropdownObject

@@ -105,9 +105,9 @@ function setCustomScrollableMenuOptionsImpl(
     cm.SetContextMenuOptions(options)
   }
 }
-_G.SetCustomScrollableMenuOptions = setCustomScrollableMenuOptionsImpl
-SetCustomScrollableMenuOptions = setCustomScrollableMenuOptionsImpl
-const setCustomScrollableMenuOptions = SetCustomScrollableMenuOptions
+_G.TemperScrollableMenuSetOptions = setCustomScrollableMenuOptionsImpl
+TemperScrollableMenuSetOptions = setCustomScrollableMenuOptionsImpl
+const setCustomScrollableMenuOptions = TemperScrollableMenuSetOptions
 
 function clearCustomScrollableMenuImpl(this: void): unknown {
   if (libDebug.doDebug) {
@@ -271,7 +271,7 @@ function showCustomScrollableMenuImpl(
 }
 ShowCustomScrollableMenu = showCustomScrollableMenuImpl
 
-_G.RunCustomScrollableMenuItemsCallback = function (
+_G.TemperScrollableMenuRunItemsCallback = function (
   this: void,
   comboBox: unknown,
   item: unknown,
@@ -299,7 +299,7 @@ function runCustomScrollableMenuItemsCallbackImpl(
   ...args: unknown[]
 ): LuaMultiReturn<[boolean, unknown]> {
   const gContextMenu = asLsmCastLocalContextMenuLike(updateContextMenuRef())
-  const assertFuncName = "RunCustomScrollableMenuItemsCallback"
+  const assertFuncName = "TemperScrollableMenuRunItemsCallback"
   const addonCallbackFuncType = type(myAddonCallbackFunc)
   if (addonCallbackFuncType !== "function") {
     error(

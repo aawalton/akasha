@@ -104,7 +104,7 @@ function lsmIsContextMenuCurrentlyShown(this: void): boolean {
   }
   return isDropdownVisible
 }
-_G.IsCustomScrollableContextMenuShown = lsmIsContextMenuCurrentlyShown
+_G.TemperScrollableMenuIsContextMenuShown = lsmIsContextMenuCurrentlyShown
 
 function lsmIsLsmCurrentlyShown(this: void): boolean {
   const lsmMenus = asLsmCastRecordStringUnknown(lib._objects)
@@ -126,7 +126,7 @@ IsCustomScrollableMenuShown = lsmIsLsmCurrentlyShown
 function preventCustomScrollableContextMenuHideImpl(this: void): undefined {
   lib.preventLSMClosingZO_Menu = true
 }
-_G.PreventCustomScrollableContextMenuHide = preventCustomScrollableContextMenuHideImpl
+_G.TemperScrollableMenuPreventContextMenuHide = preventCustomScrollableContextMenuHideImpl
 const preventCustomScrollableContextMenuHide = preventCustomScrollableContextMenuHideImpl
 
 function preventCustomScrollableContextMenuEntryClickHideImpl(

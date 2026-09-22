@@ -92,7 +92,7 @@ function checkIfContextMenuVisibleAndBringToTopAgain(
 ): undefined {
   setContextMenu(getContextMenuReference())
   lsmIsContextMenuCurrentlyShown =
-    lsmIsContextMenuCurrentlyShown ?? IsCustomScrollableContextMenuShown
+    lsmIsContextMenuCurrentlyShown ?? TemperScrollableMenuIsContextMenuShown
   if (!lsmIsContextMenuCurrentlyShown()) {
     return
   }

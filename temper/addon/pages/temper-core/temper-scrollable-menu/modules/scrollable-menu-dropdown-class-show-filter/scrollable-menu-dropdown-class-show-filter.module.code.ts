@@ -56,7 +56,7 @@ const recursiveOverEntries = asLsmCastThisVoidItemUnknownComboBoxUnknownFilterFu
   lib.Util.recursiveOverEntries
 )
 
-let runCustomScrollableMenuItemsCallback: typeof RunCustomScrollableMenuItemsCallback | undefined
+let runCustomScrollableMenuItemsCallback: typeof TemperScrollableMenuRunItemsCallback | undefined
 
 interface LsmFilterScratch {
   lastEntryVisible: boolean
@@ -237,7 +237,7 @@ function filterResults(
       const doNotFilterEntryTypes =
         getValueOrCallback(item.doNotFilterEntryTypes, item) || undefined
       runCustomScrollableMenuItemsCallback =
-        runCustomScrollableMenuItemsCallback ?? RunCustomScrollableMenuItemsCallback
+        runCustomScrollableMenuItemsCallback ?? TemperScrollableMenuRunItemsCallback
       const [, doNotFilterRet] = runCustomScrollableMenuItemsCallback(
         comboBox,
         item,
