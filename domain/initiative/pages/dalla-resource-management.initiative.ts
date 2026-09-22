@@ -44,6 +44,12 @@ export const dallaResourceManagement = {
     },
     {
       statement:
+        "Every bash call that is none of these has a processor and a memory ceiling of its own.",
+      workingMemory:
+        "weigh-bash-call records what the shell's exit trap leaves, and states neither ceiling. A call killed part way still leaves its peak, which is how the 24.0 GiB run was found with no change row beside it. Nothing above a bash call reaches it: the reaper weighs one process against 32 GiB, and its host leg waits for MemAvailable and SwapFree to be under 4 GiB each.",
+    },
+    {
+      statement:
         "`email-address-is-well-formed` runs under a processor ceiling matched to its cost.",
     },
     { statement: "`no-color-literal` runs under a processor ceiling matched to its cost." },
@@ -106,12 +112,6 @@ export const dallaResourceManagement = {
         "`check-reaches-a-path-through-the-index` runs under a processor ceiling matched to its cost.",
     },
     { statement: "`typecheck` runs under a processor ceiling matched to its cost." },
-    {
-      statement:
-        "Every bash call that is none of these has a processor and a memory ceiling of its own.",
-      workingMemory:
-        "weigh-bash-call records what the shell's exit trap leaves, and states neither ceiling. A call killed part way still leaves its peak, which is how the 24.0 GiB run was found with no change row beside it. Nothing above a bash call reaches it: the reaper weighs one process against 32 GiB, and its host leg waits for MemAvailable and SwapFree to be under 4 GiB each.",
-    },
     {
       statement: "Every kind of work an agent starts is stopped at an elapsed ceiling of its own.",
       workingMemory:
