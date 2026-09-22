@@ -3,6 +3,25 @@ import {
   listingConfigToViewData,
 } from "akasha/page/core/schema/modules/listing-config/listing-config.module.code.ts"
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
+import { viewDataOfPage } from "akasha/page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"
+
+export function listingConfigOfView(
+  properties: Readonly<Record<string, unknown>> | undefined
+): ListingConfig | undefined {
+  const data = viewDataOfPage(properties)
+  if (data === undefined) return undefined
+  return {
+    layout: data.layout,
+    gallery_cover_source: data.gallery_cover_source,
+    gallery_card_size: data.gallery_card_size,
+    sorts: data.sorts === undefined ? undefined : [...data.sorts],
+    visible_properties:
+      data.visible_properties === undefined ? undefined : [...data.visible_properties],
+    always_show_properties:
+      data.always_show_properties === undefined ? undefined : [...data.always_show_properties],
+    filters: data.filters === undefined ? undefined : [...data.filters],
+  }
+}
 
 export function resolveListingViewData(
   listingConfig: ListingConfig | undefined,

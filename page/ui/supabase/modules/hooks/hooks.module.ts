@@ -31,5 +31,9 @@ export const hooks = {
       statement:
         "The page types the relations reach are acquired into the store before they are read.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The views a page type holds are asked for by that page type's address.",
+    },
   ],
 } as const satisfies Module

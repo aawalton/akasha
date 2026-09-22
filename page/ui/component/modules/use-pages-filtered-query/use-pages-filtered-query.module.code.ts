@@ -2,6 +2,7 @@
 
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
+import type { ListingConfig } from "akasha/page/core/schema/modules/listing-config/listing-config.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewFilter } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
@@ -46,8 +47,9 @@ function namedAsType(properties: Readonly<Record<string, unknown>> | undefined):
 export function usePagesFilteredQuery(args: {
   pageTypeSlug: PageTypeSlug
   searchParams: Record<string, string>
+  listing?: ListingConfig | undefined
 }) {
-  const { pageTypeSlug, searchParams } = args
+  const { pageTypeSlug, searchParams, listing } = args
 
   const { pages: pageTypes, isLoading: pageTypesLoading } = useAllPages({
     pageTypeSlug: PAGE_TYPE_SLUG,
@@ -60,10 +62,11 @@ export function usePagesFilteredQuery(args: {
   )
   const targetPageTypeId = targetPageType?._id ?? ""
 
-  const { propertyDefinitions: rawProperties, listingConfig } = useMemo(
+  const { propertyDefinitions: rawProperties, listingConfig: typeListing } = useMemo(
     () => parsePageTypeData(targetPageType?.properties),
     [targetPageType]
   )
+  const listingConfig = listing ?? typeListing
   const properties = useMemo(
     () => rawProperties.map((d) => resolveDefinitionOptions(d, lookupOptionList)),
     [rawProperties, lookupOptionList]

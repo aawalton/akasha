@@ -36,6 +36,12 @@ import { useEffect, useMemo } from "react"
 
 const NAV = "nav"
 
+const VIEW = "view"
+
+const PAGE_TYPE = "page-type"
+
+const PAGE_TYPE_KEY = "pageType"
+
 function targetSlugOf(
   config: unknown,
   pageTypeSlugById: ReadonlyMap<string, string>
@@ -151,20 +157,20 @@ export function useRelatedPages({
   )
 }
 
-export function useViewsForNavItem({ navItemSlug }: { navItemSlug?: string | undefined }): {
+export interface ViewsFound {
   views: readonly PageWithProperties[]
   isLoading: boolean
-} {
-  const asked = navItemSlug
-  const where = useMemo<PageWhere>(() => {
-    if (navItemSlug == null || navItemSlug === "") {
-      return [{ key: "id", eq: NEVER_MATCH_VALUE }]
-    }
-    return [{ key: "nav", eq: namedAs(NAV, navItemSlug, null) }]
-  }, [navItemSlug])
+}
+
+function viewsWhere(asked: string | undefined, key: string, gatheredBy: string): PageWhere {
+  if (asked == null || asked === "") return [{ key: "id", eq: NEVER_MATCH_VALUE }]
+  return [{ key, eq: namedAs(gatheredBy, asked, null) }]
+}
+
+function useViewsWhere(where: PageWhere, asked: string | undefined): ViewsFound {
   const options = useMemo<UsePagesSupabaseOptions>(
     () => ({
-      pageTypeSlug: "view",
+      pageTypeSlug: VIEW,
       where,
       order: [{ by: "viewPlace", dir: "asc" }],
     }),
@@ -176,4 +182,22 @@ export function useViewsForNavItem({ navItemSlug }: { navItemSlug?: string | und
     [result.rows, asked]
   )
   return { views, isLoading: asked != null && result.isLoading }
+}
+
+export function useViewsForNavItem({
+  navItemSlug,
+}: {
+  navItemSlug?: string | undefined
+}): ViewsFound {
+  const where = useMemo(() => viewsWhere(navItemSlug, NAV, NAV), [navItemSlug])
+  return useViewsWhere(where, navItemSlug)
+}
+
+export function useViewsForPageType({
+  pageTypeSlug,
+}: {
+  pageTypeSlug?: string | undefined
+}): ViewsFound {
+  const where = useMemo(() => viewsWhere(pageTypeSlug, PAGE_TYPE_KEY, PAGE_TYPE), [pageTypeSlug])
+  return useViewsWhere(where, pageTypeSlug)
 }

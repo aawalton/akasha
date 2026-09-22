@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/page-row-cells/page-row-cells.module.code.tsx"}
+{"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/reader-page-source/reader-page-source.module.code.tsx"}
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts"}
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts"}

@@ -15,5 +15,15 @@ export const pagesByRelationContent = {
       decisionKind: "decision-kind/departure",
       statement: "A listing inside an app that is not editing offers no way to change a page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A listing draws a tab for each view the page type has, and none where it has none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The view shown is named in the address, and the first view is shown where none is.",
+    },
   ],
 } as const satisfies Module

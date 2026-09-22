@@ -6,6 +6,7 @@ import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-
 import { RenderBareListingCard } from "akasha/page/ui/component/modules/bare-listing-card/bare-listing-card.module.code.tsx"
 import { PageSystemShell } from "akasha/page/ui/component/modules/page-system-shell/page-system-shell.module.code.tsx"
 import { PageSystemTabContent } from "akasha/page/ui/component/modules/page-system-view/page-system-view.module.code.tsx"
+import { listingConfigOfView } from "akasha/page/ui/component/modules/resolve-listing-config/resolve-listing-config.module.code.ts"
 import { viewConfigToListingParams } from "akasha/page/ui/component/modules/synthetic-config/synthetic-config.module.code.ts"
 import { useGalleryViewProps } from "akasha/page/ui/component/modules/use-gallery-view-props/use-gallery-view-props.module.code.ts"
 import { useNotesViewProps } from "akasha/page/ui/component/modules/use-notes-view-props/use-notes-view-props.module.code.ts"
@@ -15,13 +16,23 @@ import { usePagesFilteredQuery } from "akasha/page/ui/component/modules/use-page
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { useViewsForPageType } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { SupabasePageResolverProvider } from "akasha/page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"
 import { useCompletePageOptimistic } from "akasha/page/ui/supabase/modules/use-complete-page-optimistic/use-complete-page-optimistic.module.code.tsx"
 import { buildPageListingHref } from "akasha/page/url/modules/page-listing-href/page-listing-href.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { useCallback } from "react"
+import { useCallback, useMemo } from "react"
 
 const RELATION_TARGET_SLUG = "page"
+
+const SHOWN_VIEW = "view"
+
+type ViewTab = { readonly id: string; readonly label: string; readonly icon: undefined }
+
+function namedOf(page: { _id: string; properties?: Record<string, unknown> }): string {
+  const slug = page.properties?.["slug"]
+  return typeof slug === "string" && slug !== "" ? slug : page._id
+}
 
 interface PagesFilteredContentProps {
   pageTypeSlug: PageTypeSlug
@@ -37,6 +48,26 @@ export function PagesFilteredContent({
   const router = usePagesUIRouter()
   const userId = useUserId()
   const editing = useAppEditing()
+
+  const { views } = useViewsForPageType({ pageTypeSlug })
+
+  const viewTabs = useMemo<readonly ViewTab[]>(
+    () =>
+      views.map((one) => ({
+        id: namedOf(one),
+        label: String(one.properties?.["title"] ?? namedOf(one)),
+        icon: undefined,
+      })),
+    [views]
+  )
+
+  const asked = searchParams[SHOWN_VIEW]
+  const shownView = viewTabs.find((one) => one.id === asked)?.id ?? viewTabs[0]?.id
+
+  const listing = useMemo(
+    () => listingConfigOfView(views.find((one) => namedOf(one) === shownView)?.properties),
+    [views, shownView]
+  )
 
   const {
     pageTypes,
@@ -57,7 +88,7 @@ export function PagesFilteredContent({
     pageRows,
     serverGrouped,
     descendantUnasked,
-  } = usePagesFilteredQuery({ pageTypeSlug, searchParams })
+  } = usePagesFilteredQuery({ pageTypeSlug, searchParams, listing })
 
   const {
     handleCreatePage,
@@ -77,9 +108,19 @@ export function PagesFilteredContent({
   const handleConfigChange = useCallback(
     (config: ViewConfig) => {
       const params = viewConfigToListingParams(config, searchParams, baseFilters)
+      if (asked != null && asked !== "") params.set(SHOWN_VIEW, asked)
       router.replace(buildPageListingHref({ slug: pageTypeSlug, query: params }))
     },
-    [router, pageTypeSlug, searchParams, baseFilters]
+    [router, pageTypeSlug, searchParams, baseFilters, asked]
+  )
+
+  const handleShowView = useCallback(
+    (tab: string) => {
+      const params = new URLSearchParams()
+      params.set(SHOWN_VIEW, tab)
+      router.replace(buildPageListingHref({ slug: pageTypeSlug, query: params }))
+    },
+    [router, pageTypeSlug]
   )
 
   const { buildRowHref, pageHrefById, makeRelationHref } = usePagesFilteredHrefs({
@@ -122,8 +163,14 @@ export function PagesFilteredContent({
         <PageSystemShell
           title={embedded === true ? null : loading ? "" : pageTypeName}
           tabs={
-            descendantUnasked === null ? [{ id: "list", label: pageTypeName, icon: undefined }] : []
+            descendantUnasked !== null
+              ? []
+              : viewTabs.length > 0
+                ? viewTabs
+                : [{ id: "list", label: pageTypeName, icon: undefined }]
           }
+          activeTab={viewTabs.length > 0 ? shownView : undefined}
+          onActiveTabChange={viewTabs.length > 0 ? handleShowView : undefined}
           loading={loading}
           empty={
             descendantUnasked === null

@@ -15,5 +15,9 @@ export const usePagesFilteredQuery = {
       decisionKind: "decision-kind/departure",
       statement: "A page type stating no title is named by its plural, and then by its own slug.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A listing config handed in is read rather than the one the page type states.",
+    },
   ],
 } as const satisfies Module
