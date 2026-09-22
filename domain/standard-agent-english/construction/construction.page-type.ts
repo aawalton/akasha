@@ -25,6 +25,7 @@ export const construction = {
     "construction/noun-with-a-noun-run",
     "construction/noun-run-alone",
     "construction/noun-run-with-a-clause",
+    "construction/free-relative-pronoun-with-a-clause",
   ],
   extends: ["page-type/domain"],
   properties: [
