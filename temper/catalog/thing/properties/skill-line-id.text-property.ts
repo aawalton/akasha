@@ -15,7 +15,7 @@ export const skillLineId = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A companion's line and a character's line are two page types.",
+      statement: "A companion skill names its line through a relation of its own instead.",
     },
     {
       decisionKind: "decision-kind/departure",
