@@ -4,7 +4,7 @@ export const libSetsCoreCasts = {
   id: "01a061fc-cee9-75c5-a75c-0036c8d4c7a8",
   type: "page-type/module",
   slug: "lib-sets-core-casts",
-  definition: "the narrowings for the slots and set-keyed tables hung on the LibSets global",
+  definition: "the narrowings for the slots and set-keyed tables hung on the library table",
   code: "ts",
   decisions: [
     {

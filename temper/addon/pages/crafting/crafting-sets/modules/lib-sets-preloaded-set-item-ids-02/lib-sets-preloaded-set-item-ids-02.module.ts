@@ -4,6 +4,6 @@ export const libSetsPreloadedSetItemIds02 = {
   id: "01a061d8-e48a-7ef6-bf4d-7940275c8ded",
   type: "page-type/module",
   slug: "lib-sets-preloaded-set-item-ids-02",
-  definition: "LibSets setItemIds item id lists keyed by set id — keys 48 through 70.",
+  definition: "the set item id lists keyed by set id, keys 48 through 70",
   code: "ts",
 } as const satisfies Module

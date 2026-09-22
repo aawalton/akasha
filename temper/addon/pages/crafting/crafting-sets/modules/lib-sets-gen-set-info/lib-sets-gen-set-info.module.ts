@@ -4,7 +4,7 @@ export const libSetsGenSetInfo = {
   id: "01a061fc-cee5-75d4-9e8c-3b140c7e89cc",
   type: "page-type/module",
   slug: "lib-sets-gen-set-info",
-  definition: "The whole LibSets SET_INFO table gathered from its 12 set id range parts.",
+  definition: "the whole set info table gathered from its 12 set id range parts",
   decisions: [
     {
       decisionKind: "decision-kind/constraint",

@@ -4,6 +4,6 @@ export const libSetsPreloadedSetNames11 = {
   id: "01a061dd-1561-7b80-a961-bca115f36180",
   type: "page-type/module",
   slug: "lib-sets-preloaded-set-names-11",
-  definition: "LibSets setNames translations keyed by set id — keys 773 through 855.",
+  definition: "the set name translations keyed by set id, keys 773 through 855",
   code: "ts",
 } as const satisfies Module

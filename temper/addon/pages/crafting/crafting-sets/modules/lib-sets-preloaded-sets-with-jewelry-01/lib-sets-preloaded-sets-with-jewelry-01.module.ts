@@ -4,6 +4,6 @@ export const libSetsPreloadedSetsWithJewelry01 = {
   id: "01a061d8-e486-7690-9d16-032a494bdf12",
   type: "page-type/module",
   slug: "lib-sets-preloaded-sets-with-jewelry-01",
-  definition: "LibSets setsWithJewelry flags keyed by set id — all of it.",
+  definition: "the set jewelry flags keyed by set id, all of them",
   code: "ts",
 } as const satisfies Module
