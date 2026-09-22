@@ -38,5 +38,6 @@ export const gameTurn = {
     "text-property/window-kind",
     "text-property/window-rank",
     "record-property/system-window",
+    "module/turn-filing",
   ],
 } as const satisfies PageType
