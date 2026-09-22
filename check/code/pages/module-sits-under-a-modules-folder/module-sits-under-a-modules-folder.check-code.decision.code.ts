@@ -41,14 +41,20 @@ export function reasonsAt(path: string, parted = false): readonly string[] {
   ]
 }
 
-export function refusalsOver(change: Change): readonly Judged[] {
+export function refusalsIn(
+  paths: readonly string[],
+  read: (path: string) => string | null
+): readonly Judged[] {
   const found: Judged[] = []
-  for (const path of change.changed) {
-    if (change.after(path) === null) continue
+  for (const path of paths) {
     if (!moduleNamed(path) || underModules(path)) continue
-    const text = textIn(change, path)
-    const parted = text !== null && namesParts(text)
-    for (const reason of reasonsAt(path, parted)) found.push({ path, reason })
+    const text = read(path)
+    if (text === null) continue
+    for (const reason of reasonsAt(path, namesParts(text))) found.push({ path, reason })
   }
   return found
+}
+
+export function refusalsOver(change: Change): readonly Judged[] {
+  return refusalsIn(change.changed, (at) => textIn(change, at))
 }
