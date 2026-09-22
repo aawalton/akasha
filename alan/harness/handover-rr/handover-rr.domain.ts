@@ -8,7 +8,6 @@ export const handoverRr = {
     "the sign-in a peripheral borrows from alanwalton.com, taken as a code and kept as its own cookie",
   parts: [
     "module/handover-arrival",
-    "module/handover-bounce",
     "module/handover-code",
     "module/handover-reader",
     "module/handover-session",

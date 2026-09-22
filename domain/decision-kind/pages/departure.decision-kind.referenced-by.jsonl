@@ -692,7 +692,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/handover-rr.domain.ts","id":"01a0bb5b-cb42-713b-bb83-e6d3265a0786"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-app/handover-app.module.ts","id":"01a0bc7a-bbc5-7600-bf03-dcb69fe7f4e6"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-arrival/handover-arrival.module.ts","id":"01a0bb44-e843-7fb1-8970-cb9a34941050"}
-{"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-bounce/handover-bounce.module.ts","id":"01a0bb5b-8f41-7780-9975-3de2710f47c0"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-code/handover-code.module.ts","id":"01a0bb44-4dec-7f6d-b99e-f83158413eb6"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-guard/handover-guard.module.ts","id":"01a0bca8-7743-7c0d-a613-8746eafadeb9"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-leaving/handover-leaving.module.ts","id":"01a0bcaf-ba47-7863-8afd-eaa22157f632"}
