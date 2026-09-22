@@ -23,11 +23,11 @@ export const hookLinks = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every link points at the one dispatch the index answers for.",
+      statement: "Every link points at the one boot the index answers for.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The dispatch is reached through the index rather than spelled here.",
+      statement: "The boot is reached through the index rather than spelled here.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -76,7 +76,7 @@ export const hookLinks = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The dispatch cannot write the link a client reaches the dispatch through.",
+      statement: "The boot cannot write the link a client reaches the boot through.",
     },
     {
       decisionKind: "decision-kind/absence",

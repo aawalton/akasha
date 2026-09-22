@@ -16,7 +16,7 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 
 const MODULE = "module"
 
-const DISPATCH = "hook-dispatch"
+const BOOT = "dispatch-boot"
 
 const CODE = "code"
 
@@ -42,22 +42,22 @@ export function linkFor(event: string): string {
   return join(linksAt(), event)
 }
 
-function dispatchAt(root: string): string {
-  const listed = listedAt(root, MODULE, DISPATCH)
+function bootAt(root: string): string {
+  const listed = listedAt(root, MODULE, BOOT)
   const page = listed.length === 1 ? listed[0]?.path : undefined
   if (page === undefined) {
     throw new Error(
-      `the index answers no one page for \`${MODULE}/${DISPATCH}\`, and every hook is reached ` +
+      `the index answers no one page for \`${MODULE}/${BOOT}\`, and every hook is reached ` +
         "through the code that page sits beside"
     )
   }
   const beside = besideAt(page, CODE, TS)
   if (beside === null) {
-    throw new Error(`\`${page}\` is the page for \`${MODULE}/${DISPATCH}\` and sits beside no code`)
+    throw new Error(`\`${page}\` is the page for \`${MODULE}/${BOOT}\` and sits beside no code`)
   }
   const at = join(root, beside)
   if (!existsSync(at)) {
-    throw new Error(`\`${MODULE}/${DISPATCH}\` names \`${beside}\`, and nothing is there to run`)
+    throw new Error(`\`${MODULE}/${BOOT}\` names \`${beside}\`, and nothing is there to run`)
   }
   return at
 }
@@ -119,7 +119,7 @@ function linkedTo(at: string, event: string, root: string): undefined {
 
 export function linksMade(root: string, events: readonly string[]): undefined {
   if (!servedFrom(root)) return undefined
-  const at = dispatchAt(root)
+  const at = bootAt(root)
   for (const event of events) linkedTo(at, event, root)
   return undefined
 }
