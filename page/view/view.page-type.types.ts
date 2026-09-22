@@ -23,7 +23,7 @@ import type { VisibleProperties } from "akasha/page/view/properties/visible-prop
 
 export type View = Page & {
   title: Title
-  nav: Nav
+  nav?: Nav
   pageType?: ViewPageType
   viewPredicate?: ViewPredicate
   viewPlace?: ViewPlace

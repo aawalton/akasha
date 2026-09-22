@@ -40,7 +40,7 @@ export const view = {
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "relation-property/nav", required: true, many: false },
+    { pageProperty: "relation-property/nav", required: false, many: false },
     { pageProperty: "relation-property/view-page-type", required: false, many: false },
     { pageProperty: "text-property/view-predicate", required: false, many: false },
     { pageProperty: "number-property/view-place", required: false, many: false },
@@ -114,6 +114,15 @@ export const view = {
       decisionKind: "decision-kind/gap",
       statement:
         "A view states its own question rather than naming a page query that has that question.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A view names a nav only where a nav gathers that view into a bar of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A view naming a page type and no nav is gathered by the page type that view lists.",
     },
   ],
   types: "ts",
