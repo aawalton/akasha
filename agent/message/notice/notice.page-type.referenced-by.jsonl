@@ -1,0 +1,7 @@
+{"propertySlug":"import","fileName":"notice.page-type.types.ts","path":"agent/message/notice/pages/editor-revive/editor-revive.notice.ts"}
+{"propertySlug":"import","fileName":"notice.page-type.types.ts","path":"agent/message/notice/pages/limit-resume-nudge/limit-resume-nudge.notice.ts"}
+{"propertySlug":"import","fileName":"notice.page-type.types.ts","path":"agent/message/notice/pages/restart-deferred/restart-deferred.notice.ts"}
+{"propertySlug":"import","fileName":"notice.page-type.types.ts","path":"agent/message/notice/pages/restart-immediate/restart-immediate.notice.ts"}
+{"propertySlug":"import","fileName":"notice.page-type.types.ts","path":"agent/message/notice/pages/restart-recovery-clause/restart-recovery-clause.notice.ts"}
+{"propertySlug":"import","fileName":"notice.page-type.types.ts","path":"agent/message/notice/pages/wait-resume-nudge/wait-resume-nudge.notice.ts"}
+{"propertySlug":"parts","path":"agent/message/message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}

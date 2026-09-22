@@ -1,1 +1,1 @@
-{"path":"agent/messaging/modules/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts","name":"reconcileClaimedRedelivery"}
+{"path":"agent/message/modules/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts","name":"reconcileClaimedRedelivery"}

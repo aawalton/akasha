@@ -1,6 +1,6 @@
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { writeMessage } from "akasha/agent/messaging/modules/message-sending/message-sending.module.code.ts"
+import { writeMessage } from "akasha/agent/message/modules/sending/message-sending.module.code.ts"
 import { check as checkDomain } from "akasha/check/check.domain.ts"
 import {
   costKept,

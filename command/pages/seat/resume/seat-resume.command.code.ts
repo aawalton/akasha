@@ -1,4 +1,4 @@
-import { notices } from "akasha/agent/messaging/notice/modules/compose-notices/compose-notices.module.code.ts"
+import { notices } from "akasha/agent/message/notice/modules/compose-notices/compose-notices.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { force } from "akasha/command/argument/pages/force.argument.ts"
 import { notice } from "akasha/command/argument/pages/notice.argument.ts"

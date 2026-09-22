@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"agent/messaging/modules/message-sending/message-sending.module.code.ts"}
+{"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"agent/message/modules/sending/message-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"}
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.test.ts"}
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"page/access/modules/file-write/file-write.module.code.ts"}

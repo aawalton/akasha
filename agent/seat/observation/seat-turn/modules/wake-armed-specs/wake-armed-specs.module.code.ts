@@ -1,7 +1,7 @@
 import type {
   CommsRule,
   OnDemandAgentSpec,
-} from "akasha/agent/messaging/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
+} from "akasha/agent/message/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 import { handlerSeatName } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 
 export const AGENT_SENDER_PREFIX = "agent:"

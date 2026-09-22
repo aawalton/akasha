@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/messaging/recipient-resolving/modules/seat-identity/seat-identity.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/message/recipient-resolving/modules/seat-identity/seat-identity.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/seat/declaration/modules/seat-whoami/seat-whoami.module.code.ts"}

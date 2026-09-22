@@ -1,4 +1,4 @@
-import type { CommsRule } from "akasha/agent/messaging/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
+import type { CommsRule } from "akasha/agent/message/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

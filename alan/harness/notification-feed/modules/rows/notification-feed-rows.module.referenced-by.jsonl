@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"agent/messaging/recipient-resolving/modules/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"}
+{"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"agent/message/recipient-resolving/modules/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"}
 {"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-notifier-tick/push-notifier-tick.module.code.ts"}
 {"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-payload/push-payload.module.code.ts"}
 {"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"alan/harness/notification-feed/modules/notifying/notifying.module.code.ts"}

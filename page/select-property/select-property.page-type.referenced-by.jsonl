@@ -1,7 +1,7 @@
 {"propertySlug":"extends-type","path":"page/grade-property/grade-property.page-type.ts","id":"01a063de-2c60-7004-81e6-21e2564b7832"}
 {"propertySlug":"extends-type","path":"page/multi-select-property/multi-select-property.page-type.ts","id":"01a0c4f3-6a9a-7c6c-9655-06c63fe3324c"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"agent/hook/agent-hook/properties/runs-at.select-property.ts"}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"agent/messaging/message/properties/message-warrant.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"agent/message/properties/message-warrant.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"agent/model/test/properties/case-answer.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-status.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/battery-chemistry.select-property.ts"}

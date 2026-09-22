@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"command-failing.module.code.ts","path":"agent/messaging/notice/modules/compose-notices/compose-notices.module.code.ts"}
+{"propertySlug":"import","fileName":"command-failing.module.code.ts","path":"agent/message/notice/modules/compose-notices/compose-notices.module.code.ts"}
 {"propertySlug":"import","fileName":"command-failing.module.code.ts","path":"agent/seat/declaration/modules/seat-args/seat-args.module.code.ts"}
 {"propertySlug":"import","fileName":"command-failing.module.code.ts","path":"agent/seat/launching/modules/seat-call/seat-call.module.code.ts"}
 {"propertySlug":"import","fileName":"command-failing.module.code.ts","path":"agent/seat/page/modules/beat/seat-page-beat.module.code.ts"}

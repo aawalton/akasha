@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"notifying.module.code.ts","path":"agent/messaging/recipient-resolving/modules/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"}
+{"propertySlug":"import","fileName":"notifying.module.code.ts","path":"agent/message/recipient-resolving/modules/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"}
 {"propertySlug":"import","fileName":"notifying.module.code.ts","path":"agent/model/account/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"notifying.module.code.ts","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.code.ts"}
 {"propertySlug":"parts","path":"alan/harness/notification-feed/notification-feed.page-type.ts","id":"01a06861-e7cd-7f8b-a674-034ea5efe956"}

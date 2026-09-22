@@ -1,5 +1,5 @@
-import { decideClaimedRedelivery } from "akasha/agent/messaging/modules/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
-import { notices } from "akasha/agent/messaging/notice/modules/compose-notices/compose-notices.module.code.ts"
+import { decideClaimedRedelivery } from "akasha/agent/message/modules/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
+import { notices } from "akasha/agent/message/notice/modules/compose-notices/compose-notices.module.code.ts"
 import {
   parseClaimedRedelivery,
   parseLimitResume,

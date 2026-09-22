@@ -132,8 +132,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/transition/claude-code-session-transition.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/tool/claude-code-tool.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/hook/hook.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/messaging/messaging.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/messaging/recipient-resolving/recipient-resolving.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/message/recipient-resolving/recipient-resolving.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/model/family/model-family.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/model/gateway/model-gateway.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/model/model.domain.ts"}

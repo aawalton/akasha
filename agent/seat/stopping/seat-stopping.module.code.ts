@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { messagesTo } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
+import { messagesTo } from "akasha/agent/message/modules/file/message-file.module.code.ts"
 import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { endedSession } from "akasha/agent/seat/modules/tmux-session/tmux-session.module.code.ts"
 import {

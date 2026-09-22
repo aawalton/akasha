@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/messaging/modules/agent-record/agent-record.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/messaging/modules/message-sending/message-sending.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/messaging/modules/message-sending/message-sending.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/messaging/recipient-resolving/modules/seat-identity/seat-identity.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/message/modules/agent-record/agent-record.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/message/modules/sending/message-sending.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/message/modules/sending/message-sending.module.test.ts"}
+{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/message/recipient-resolving/modules/seat-identity/seat-identity.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/modules/page-reading/agent-page-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/modules/stray-process/stray-process.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/seat/fleet/modules/seat-by-name/seat-by-name.module.code.ts"}

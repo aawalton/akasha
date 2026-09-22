@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"agent/messaging/modules/messages-agent-id/messages-agent-id.module.code.ts"}
-{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"agent/messaging/notice/modules/compose-notices/compose-notices.module.test.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"agent/message/modules/messages-agent-id/messages-agent-id.module.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"agent/message/notice/modules/compose-notices/compose-notices.module.test.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/google/calendar/modules/calendar-credentials/calendar-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/google/oauth/modules/oauth-app-credentials/oauth-app-credentials.module.code.ts"}

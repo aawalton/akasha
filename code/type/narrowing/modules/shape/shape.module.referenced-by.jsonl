@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/modules/session-jsonl/session-jsonl.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/modules/transcript-materialize/transcript-materialize.module.code.ts"}
-{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/messaging/recipient-resolving/modules/recipient-resolver-config/recipient-resolver-config.module.code.ts"}
+{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-config/recipient-resolver-config.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/modules/launch-flags/launch-flags.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/modules/tool-access/tool-access.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/modules/window-duration/window-duration.module.code.ts"}

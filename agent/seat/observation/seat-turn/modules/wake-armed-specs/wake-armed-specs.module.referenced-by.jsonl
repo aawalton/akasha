@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"wake-armed-specs.module.code.ts","path":"agent/messaging/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.code.ts"}
-{"propertySlug":"import","fileName":"wake-armed-specs.module.code.ts","path":"agent/messaging/recipient-resolving/modules/wake-comms-input/wake-comms-input.module.code.ts"}
+{"propertySlug":"import","fileName":"wake-armed-specs.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.code.ts"}
+{"propertySlug":"import","fileName":"wake-armed-specs.module.code.ts","path":"agent/message/recipient-resolving/modules/wake-comms-input/wake-comms-input.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/observation/seat-turn/seat-turn.domain.ts","id":"01a0658d-c92f-7071-838b-e88aa8479137"}

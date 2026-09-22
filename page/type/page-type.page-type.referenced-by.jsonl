@@ -70,8 +70,8 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/agent.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/hook/agent-hook/agent-hook.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/hook/agent-hook/inference-hook/inference-hook.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/messaging/message/message.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/messaging/notice/notice.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/message/message.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/message/notice/notice.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/model/account/model-account.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/model/family/model-family.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/model/provider/model-provider.page-type.ts"}

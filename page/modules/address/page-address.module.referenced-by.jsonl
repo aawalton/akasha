@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/messaging/modules/message-sending/message-sending.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/message/modules/sending/message-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/model/account/modules/making/model-account-making.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/modules/attributes/agent-attributes.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/seat/declaration/modules/seat-initiative/seat-initiative.module.code.ts"}

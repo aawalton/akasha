@@ -1,9 +1,9 @@
-import { reconcileClaimedRedelivery } from "akasha/agent/messaging/modules/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts"
+import { reconcileClaimedRedelivery } from "akasha/agent/message/modules/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts"
 import {
   readClaimedBefore,
   releaseMessageClaim,
-} from "akasha/agent/messaging/modules/supervisor-message-claim/supervisor-message-claim.module.code.ts"
-import { redeliveryHoldoff } from "akasha/agent/messaging/modules/supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"
+} from "akasha/agent/message/modules/supervisor-message-claim/supervisor-message-claim.module.code.ts"
+import { redeliveryHoldoff } from "akasha/agent/message/modules/supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
 import {
   setCurrentAgentIdForSelfHeal,

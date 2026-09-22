@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/hook/agent-hook/name-session/name-session.agent-hook.code.ts"}
-{"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/messaging/modules/messages-agent-tools/messages-agent-tools.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/message/modules/messages-agent-tools/messages-agent-tools.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/modules/io-probe/io-probe.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/seat/page/modules/beat/seat-page-beat.module.code.ts"}

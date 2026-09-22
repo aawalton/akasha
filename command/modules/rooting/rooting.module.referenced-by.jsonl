@@ -10,7 +10,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/modules/answer/hook-answer.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts"}
-{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/messaging/notice/modules/compose-notices/compose-notices.module.test.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/message/notice/modules/compose-notices/compose-notices.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/seat/declaration/modules/seat-answering/seat-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.test.ts"}

@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/messaging/modules/message-file/message-file.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/message/modules/file/message-file.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/model/account/modules/reading/model-account-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/model/account/modules/upkeep-stall/model-account-upkeep-stall.module.code.ts"}
