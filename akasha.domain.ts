@@ -16,7 +16,6 @@ export const akasha = {
     "domain/graph",
     "domain/infrastructure",
     "domain/product",
-    "domain/story",
     "domain/temper",
     "domain/text",
     "page-type/agent",
@@ -26,6 +25,7 @@ export const akasha = {
     "page-type/page",
     "page-type/person",
     "page-type/persona",
+    "page-type/story",
     "workspace/akasha-workspace",
   ],
   directives: [

@@ -150,5 +150,5 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/vuldranni/vuldranni.world.ts"}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/wolf-girl-evolution-tails-teeth-and-too-much-food.world.ts"}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg.world.ts"}
-{"propertySlug":"parts","path":"story/story.domain.ts","id":"01a06d72-54b4-7352-b7db-4c705f35a431"}
+{"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"target-page-type","path":"story/world/stories/played/properties/world.relation-property.ts","id":"01a06424-329c-7149-a41a-d7dec22745d0"}

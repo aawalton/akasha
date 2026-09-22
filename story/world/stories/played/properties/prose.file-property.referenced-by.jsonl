@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"prose.file-property.types.ts","path":"story/story.page-type.types.ts"}
 {"propertySlug":"import","fileName":"prose.file-property.types.ts","path":"story/world/builds/story-build.page-type.types.ts"}
 {"propertySlug":"import","fileName":"prose.file-property.types.ts","path":"story/world/decisions/story-decision.page-type.types.ts"}
 {"propertySlug":"import","fileName":"prose.file-property.types.ts","path":"story/world/design-notes/story-design-note.page-type.types.ts"}
@@ -10,6 +11,7 @@
 {"propertySlug":"import","fileName":"prose.file-property.types.ts","path":"story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"}
 {"propertySlug":"import","fileName":"prose.file-property.types.ts","path":"story/world/stories/written/story-written.page-type.types.ts"}
 {"propertySlug":"import","fileName":"prose.file-property.types.ts","path":"story/world/wiki-entries/story-wiki-entry.page-type.types.ts"}
+{"propertySlug":"page-property","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"page-property","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
 {"propertySlug":"page-property","path":"story/world/decisions/story-decision.page-type.ts","id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
 {"propertySlug":"page-property","path":"story/world/design-notes/story-design-note.page-type.ts","id":"01a06578-d638-794d-b1f4-f5c46500a7e9"}

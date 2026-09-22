@@ -1,14 +1,15 @@
-import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const story = {
-  id: "01a06d72-54b4-7352-b7db-4c705f35a431",
-  type: "page-type/domain",
+  id: "01a0c987-3949-7828-8fcb-e11a6dec2d37",
+  type: "page-type/page-type",
   slug: "story",
-  definition: "worlds and their stories, kept true to each other",
+  definition: "a telling of what happened in a world",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "story" },
     { partOfSpeech: "part-of-speech/noun", spelling: "stories" },
   ],
+  extends: ["page-type/collection"],
   parts: [
     "domain/narrative-production",
     "domain/story-engine",
@@ -16,6 +17,11 @@ export const story = {
     "domain/world-lore",
     "page-type/game",
     "page-type/world",
+  ],
+  properties: [
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "relation-property/world", required: false, many: false },
+    { pageProperty: "file-property/prose", required: false, many: false },
   ],
   decisions: [
     {
@@ -89,5 +95,11 @@ export const story = {
       decisionKind: "decision-kind/departure",
       statement: "No story design note holds content another page type would carry.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every kind of story is a page type extending this one.",
+    },
   ],
-} as const satisfies Domain
+  types: "ts",
+  schema: "jsonl",
+} as const satisfies PageType
