@@ -28,6 +28,18 @@ export const temperPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The whole screen is pictured rather than the window the call names alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The window a call names says which addon comes up and what opens that window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer says where on the screen the window a call names sits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The answer names the commit the addon was built at, so nothing reads as current.",
     },
     {

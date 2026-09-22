@@ -52,9 +52,18 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
         `\`${window.control}\` is no control the addon made, so there is nothing to picture`,
       ])
     }
+    const scene = await staged.harness.snapshot()
+    if (scene === null) {
+      return refusedBy(["the screen is nowhere, so there is nothing to picture"])
+    }
     await mkdir(dirname(written), { recursive: true })
-    const box = await takePicture(snapshot, written)
-    return told([written, `${box.width} by ${box.height}, built at ${staged.builtAt}`])
+    const box = await takePicture(scene, written, { whole: true })
+    return told([
+      written,
+      `${Math.round(box.width)} by ${Math.round(box.height)}, built at ${staged.builtAt}`,
+      `\`${window.control}\` sits at ${Math.round(snapshot.left)}, ${Math.round(snapshot.top)}` +
+        ` and is ${Math.round(snapshot.width)} by ${Math.round(snapshot.height)}`,
+    ])
   } finally {
     await staged.harness.close()
   }

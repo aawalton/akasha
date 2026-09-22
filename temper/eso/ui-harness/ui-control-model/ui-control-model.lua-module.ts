@@ -108,6 +108,11 @@ export const uiControlModel = {
       statement: "A control the game makes that an addon extends is made here under the screen.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A window an addon opens sits under the screen, so one snapshot carries the scene.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement: "Which controls those are is a list kept here rather than read from the game.",
     },

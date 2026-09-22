@@ -311,7 +311,7 @@ end
 local WindowManager = {}
 
 function WindowManager:CreateTopLevelWindow(name)
-  return birth(name, nil, CONTROL_TYPES.CT_TOPLEVELCONTROL, nil)
+  return birth(name, _G.GuiRoot, CONTROL_TYPES.CT_TOPLEVELCONTROL, nil)
 end
 
 function WindowManager:CreateControl(name, parent, controlType)
