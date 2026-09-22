@@ -217,7 +217,6 @@
 {"propertySlug":"decision-kind","path":"code/running/modules/code-format/code-format.module.ts","id":"01a04edc-5281-769c-8ba8-522d8f569095"}
 {"propertySlug":"decision-kind","path":"code/running/modules/code-tests/code-tests.module.ts","id":"01a04eb6-9e5f-7000-9bb8-11bc82309d76"}
 {"propertySlug":"decision-kind","path":"code/rust-module/rust-module.page-type.ts","id":"01a0602d-6acf-7594-86e8-07b54a35a700"}
-{"propertySlug":"decision-kind","path":"code/shell-script/pages/bash-call-weighing/bash-call-weighing.shell-script.ts","id":"01a0925a-998e-7907-84cc-2bd7c9823491"}
 {"propertySlug":"decision-kind","path":"code/shell-script/pages/bash-env/bash-env.shell-script.ts","id":"01a06860-f3aa-7219-a6c2-9803ce5b7b07"}
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-bash/terminal-bash.module.ts","id":"01a0680a-fa30-73ea-803a-5ff0bd947f73"}
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-calls/terminal-calls.module.ts","id":"01a0950e-c46b-7001-9da6-533a75125803"}

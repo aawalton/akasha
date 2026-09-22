@@ -1893,7 +1893,6 @@
 {"propertySlug":"decision-kind","path":"code/rust-crate/rust-crate.page-type.ts","id":"01a0602d-6ad2-7a2e-8686-1b1cf565107a"}
 {"propertySlug":"decision-kind","path":"code/rust-module/properties/rust-module-name.text-property.ts","id":"01a06040-f979-76e1-87ca-d456990e75c8"}
 {"propertySlug":"decision-kind","path":"code/rust-module/rust-module.page-type.ts","id":"01a0602d-6acf-7594-86e8-07b54a35a700"}
-{"propertySlug":"decision-kind","path":"code/shell-script/pages/bash-call-weighing/bash-call-weighing.shell-script.ts","id":"01a0925a-998e-7907-84cc-2bd7c9823491"}
 {"propertySlug":"decision-kind","path":"code/shell-script/pages/bash-env/bash-env.shell-script.ts","id":"01a06860-f3aa-7219-a6c2-9803ce5b7b07"}
 {"propertySlug":"decision-kind","path":"code/shell-script/pages/repos-empty-dir-purge/repos-empty-dir-purge.shell-script.ts","id":"01a06561-3c4d-7a18-b072-9e4c1d8f2a35"}
 {"propertySlug":"decision-kind","path":"code/shell-script/pages/statusline/statusline.shell-script.ts","id":"01a05849-ff1d-7137-9c84-ed12b05bd07c"}
