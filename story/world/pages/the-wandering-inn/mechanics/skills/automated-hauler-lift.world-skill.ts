@@ -6,5 +6,6 @@ export const automatedHaulerLift = {
   slug: "automated-hauler-lift",
   title: "Automated Hauler Lift",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

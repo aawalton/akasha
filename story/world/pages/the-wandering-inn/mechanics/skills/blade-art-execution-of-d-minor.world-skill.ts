@@ -6,5 +6,6 @@ export const bladeArtExecutionOfDMinor = {
   slug: "blade-art-execution-of-d-minor",
   title: "Blade Art: Execution of D-Minor",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

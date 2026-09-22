@@ -6,5 +6,6 @@ export const basicPerfectActionStealthRun = {
   slug: "basic-perfect-action-stealth-run",
   title: "Basic Perfect Action: Stealth Run",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

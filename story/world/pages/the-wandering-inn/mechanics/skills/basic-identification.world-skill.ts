@@ -6,5 +6,6 @@ export const basicIdentification = {
   slug: "basic-identification",
   title: "Basic Identification",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

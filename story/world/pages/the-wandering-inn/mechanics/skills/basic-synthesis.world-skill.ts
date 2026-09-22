@@ -6,5 +6,6 @@ export const basicSynthesis = {
   slug: "basic-synthesis",
   title: "Basic Synthesis",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

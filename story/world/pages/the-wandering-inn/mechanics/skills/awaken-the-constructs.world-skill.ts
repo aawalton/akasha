@@ -6,5 +6,6 @@ export const awakenTheConstructs = {
   slug: "awaken-the-constructs",
   title: "Awaken the Constructs",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

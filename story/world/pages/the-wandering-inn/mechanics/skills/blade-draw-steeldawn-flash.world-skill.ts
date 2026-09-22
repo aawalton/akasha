@@ -6,5 +6,6 @@ export const bladeDrawSteeldawnFlash = {
   slug: "blade-draw-steeldawn-flash",
   title: "Blade Draw: Steeldawn Flash",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

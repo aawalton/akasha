@@ -6,5 +6,6 @@ export const aspectOfTheStoneGiant = {
   slug: "aspect-of-the-stone-giant",
   title: "Aspect of the Stone Giant",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

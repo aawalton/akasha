@@ -6,5 +6,6 @@ export const automatedScarecrows = {
   slug: "automated-scarecrows",
   title: "Automated Scarecrows",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

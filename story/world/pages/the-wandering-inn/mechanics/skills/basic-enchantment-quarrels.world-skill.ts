@@ -6,5 +6,6 @@ export const basicEnchantmentQuarrels = {
   slug: "basic-enchantment-quarrels",
   title: "Basic Enchantment: Quarrels",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const automaticRecitationLiterature = {
   slug: "automatic-recitation-literature",
   title: "Automatic Recitation: Literature",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const battlefieldSense = {
   slug: "battlefield-sense",
   title: "Battlefield Sense",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

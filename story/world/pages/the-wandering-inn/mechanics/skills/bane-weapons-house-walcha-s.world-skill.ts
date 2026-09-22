@@ -6,5 +6,6 @@ export const baneWeaponsHouseWalchaS = {
   slug: "bane-weapons-house-walcha-s",
   title: "Bane Weapons: House Walchaís",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const auraOfRevelations = {
   slug: "aura-of-revelations",
   title: "Aura of Revelations",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

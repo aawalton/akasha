@@ -6,5 +6,6 @@ export const beautifulStrollTheParadeOfSeasons = {
   slug: "beautiful-stroll-the-parade-of-seasons",
   title: "Beautiful Stroll: The Parade of Seasons",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

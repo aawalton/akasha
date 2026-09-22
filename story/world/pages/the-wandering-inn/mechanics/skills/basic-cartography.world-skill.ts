@@ -6,5 +6,6 @@ export const basicCartography = {
   slug: "basic-cartography",
   title: "Basic Cartography",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

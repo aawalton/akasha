@@ -6,5 +6,6 @@ export const barSelectiveAdmission = {
   slug: "bar-selective-admission",
   title: "Bar: Selective Admission",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

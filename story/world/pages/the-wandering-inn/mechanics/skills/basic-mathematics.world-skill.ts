@@ -6,5 +6,6 @@ export const basicMathematics = {
   slug: "basic-mathematics",
   title: "Basic Mathematics",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

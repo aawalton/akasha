@@ -6,5 +6,6 @@ export const bladeArtEighteenSilverfish = {
   slug: "blade-art-eighteen-silverfish",
   title: "Blade Art: Eighteen Silverfish",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const bodiesOfIron = {
   slug: "bodies-of-iron",
   title: "Bodies of Iron",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

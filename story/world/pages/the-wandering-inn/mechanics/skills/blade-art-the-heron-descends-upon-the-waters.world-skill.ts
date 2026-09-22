@@ -6,5 +6,6 @@ export const bladeArtTheHeronDescendsUponTheWaters = {
   slug: "blade-art-the-heron-descends-upon-the-waters",
   title: "Blade Art: The Heron Descends Upon the Waters",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

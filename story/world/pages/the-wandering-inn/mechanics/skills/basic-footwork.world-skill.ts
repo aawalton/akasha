@@ -6,5 +6,6 @@ export const basicFootwork = {
   slug: "basic-footwork",
   title: "Basic Footwork",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   references: "jsonl",
 } as const satisfies WorldSkill

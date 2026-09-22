@@ -6,5 +6,6 @@ export const boatSprayCutter = {
   slug: "boat-spray-cutter",
   title: "Boat: Spray Cutter",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

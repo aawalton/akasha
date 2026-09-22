@@ -6,5 +6,6 @@ export const basicPenmanship = {
   slug: "basic-penmanship",
   title: "Skill – Basic Penmans—",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

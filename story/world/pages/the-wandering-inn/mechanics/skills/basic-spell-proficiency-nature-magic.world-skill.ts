@@ -6,5 +6,6 @@ export const basicSpellProficiencyNatureMagic = {
   slug: "basic-spell-proficiency-nature-magic",
   title: "Basic Spell Proficiency: Nature Magic",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

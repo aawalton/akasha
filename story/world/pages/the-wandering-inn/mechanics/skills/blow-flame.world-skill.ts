@@ -6,5 +6,6 @@ export const blowFlame = {
   slug: "blow-flame",
   title: "Blow Flame",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

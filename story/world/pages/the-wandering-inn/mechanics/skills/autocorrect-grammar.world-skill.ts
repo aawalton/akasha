@@ -6,5 +6,6 @@ export const autocorrectGrammar = {
   slug: "autocorrect-grammar",
   title: "Autocorrect Grammar",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

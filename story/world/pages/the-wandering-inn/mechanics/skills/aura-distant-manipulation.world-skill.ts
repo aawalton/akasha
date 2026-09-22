@@ -6,5 +6,6 @@ export const auraDistantManipulation = {
   slug: "aura-distant-manipulation",
   title: "Aura: Distant Manipulation",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

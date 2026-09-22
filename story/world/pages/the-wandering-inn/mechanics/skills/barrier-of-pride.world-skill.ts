@@ -6,5 +6,6 @@ export const barrierOfPride = {
   slug: "barrier-of-pride",
   title: "Barrier of Pride",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

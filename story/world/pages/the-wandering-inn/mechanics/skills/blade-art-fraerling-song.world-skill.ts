@@ -6,5 +6,6 @@ export const bladeArtFraerlingSong = {
   slug: "blade-art-fraerling-song",
   title: "Blade Art: Fraerling Song",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

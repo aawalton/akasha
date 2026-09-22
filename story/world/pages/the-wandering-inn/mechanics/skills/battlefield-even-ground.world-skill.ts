@@ -6,5 +6,6 @@ export const battlefieldEvenGround = {
   slug: "battlefield-even-ground",
   title: "Battlefield: Even Ground",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

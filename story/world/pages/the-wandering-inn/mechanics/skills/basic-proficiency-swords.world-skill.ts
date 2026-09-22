@@ -6,5 +6,6 @@ export const basicProficiencySwords = {
   slug: "basic-proficiency-swords",
   title: "Basic Proficiency: Swords",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

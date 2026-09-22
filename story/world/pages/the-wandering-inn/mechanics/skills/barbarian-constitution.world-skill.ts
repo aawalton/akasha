@@ -6,5 +6,6 @@ export const barbarianConstitution = {
   slug: "barbarian-constitution",
   title: "Barbarian Constitution",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

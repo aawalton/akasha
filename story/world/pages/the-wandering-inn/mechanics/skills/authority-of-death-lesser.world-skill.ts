@@ -6,5 +6,6 @@ export const authorityOfDeathLesser = {
   slug: "authority-of-death-lesser",
   title: "Authority of Death (Lesser)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

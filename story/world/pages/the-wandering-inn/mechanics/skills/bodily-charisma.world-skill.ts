@@ -6,5 +6,6 @@ export const bodilyCharisma = {
   slug: "bodily-charisma",
   title: "Bodily Charisma",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

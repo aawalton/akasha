@@ -6,5 +6,6 @@ export const barrierOfFaith = {
   slug: "barrier-of-faith",
   title: "Barrier of Faith",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const blindingInsightOfTheMadman = {
   slug: "blinding-insight-of-the-madman",
   title: "Blinding Insight of the Madman",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

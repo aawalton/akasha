@@ -6,5 +6,6 @@ export const assignHeroicQuests = {
   slug: "assign-heroic-quests",
   title: "Assign Heroic Quests",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

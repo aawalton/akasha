@@ -6,5 +6,6 @@ export const aspectOfTheInnWorldSEyeTheatre = {
   slug: "aspect-of-the-inn-world-s-eye-theatre",
   title: "Aspect of the Inn: World’s Eye Theatre",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

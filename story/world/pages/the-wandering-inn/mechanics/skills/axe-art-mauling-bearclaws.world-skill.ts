@@ -6,5 +6,6 @@ export const axeArtMaulingBearclaws = {
   slug: "axe-art-mauling-bearclaws",
   title: "Axe Art: Mauling Bearclaws",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

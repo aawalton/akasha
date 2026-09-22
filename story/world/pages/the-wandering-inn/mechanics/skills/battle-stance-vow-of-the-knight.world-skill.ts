@@ -6,5 +6,6 @@ export const battleStanceVowOfTheKnight = {
   slug: "battle-stance-vow-of-the-knight",
   title: "Battle Stance: Vow of the Knight",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

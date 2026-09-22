@@ -6,5 +6,6 @@ export const blurLeap = {
   slug: "blur-leap",
   title: "Blur Leap",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

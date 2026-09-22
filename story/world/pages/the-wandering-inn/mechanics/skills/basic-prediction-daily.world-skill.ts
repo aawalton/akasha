@@ -6,5 +6,6 @@ export const basicPredictionDaily = {
   slug: "basic-prediction-daily",
   title: "Basic Prediction (Daily)",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

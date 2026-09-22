@@ -6,5 +6,6 @@ export const battlefieldCascadeShieldsOfFissival = {
   slug: "battlefield-cascade-shields-of-fissival",
   title: "Battlefield: Cascade Shields of Fissival",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

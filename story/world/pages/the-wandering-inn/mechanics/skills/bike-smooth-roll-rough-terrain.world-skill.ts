@@ -6,5 +6,6 @@ export const bikeSmoothRollRoughTerrain = {
   slug: "bike-smooth-roll-rough-terrain",
   title: "Bike: Smooth Roll (Rough Terrain)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

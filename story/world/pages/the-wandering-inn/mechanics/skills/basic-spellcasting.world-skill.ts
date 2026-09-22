@@ -6,5 +6,6 @@ export const basicSpellcasting = {
   slug: "basic-spellcasting",
   title: "Basic Spellcasting",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

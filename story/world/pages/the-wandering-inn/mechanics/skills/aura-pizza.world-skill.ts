@@ -6,5 +6,6 @@ export const auraPizza = {
   slug: "aura-pizza",
   title: "Aura Pizza",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

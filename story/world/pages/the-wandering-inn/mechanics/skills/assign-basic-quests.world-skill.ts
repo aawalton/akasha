@@ -6,5 +6,6 @@ export const assignBasicQuests = {
   slug: "assign-basic-quests",
   title: "Assign Basic Quests",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
