@@ -24,6 +24,7 @@ import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageService } from "akasha/page/service/page-service.service-workstation.ts"
 
 export const SERVICE_PAGE_TYPE = "service-workstation"
 
@@ -31,7 +32,7 @@ const PAGE_TYPE = "page-type"
 
 const RUNNER = `${module.slug}/${serviceRunning.slug}` as const
 
-const PAGES_SLUG = "page-service"
+const PAGES_SLUG = pageService.slug
 
 const SYSTEMD_TEXT_KEYS = ["restart", "schedule", "partOf", "wantedBy"] as const
 const SYSTEMD_NUMBER_KEYS = [
