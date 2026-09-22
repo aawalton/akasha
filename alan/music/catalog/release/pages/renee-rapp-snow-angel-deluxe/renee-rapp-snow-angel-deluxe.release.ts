@@ -4,15 +4,14 @@ export const reneeRappSnowAngelDeluxe = {
   id: "01a0676a-d729-703a-a4cb-fd4a093ec941",
   type: "page-type/release",
   slug: "renee-rapp-snow-angel-deluxe",
-  title: "Snow Angel (Deluxe)",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/renee-rapp"],
   position: 0,
-  ownLength: 48.696117,
-  ownProgress: 48.696117,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2023-11-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const reneeRappSnowAngelDeluxe = {
       externalLink: "https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf",
     },
   ],
+  title: "Snow Angel (Deluxe)",
 } as const satisfies Release

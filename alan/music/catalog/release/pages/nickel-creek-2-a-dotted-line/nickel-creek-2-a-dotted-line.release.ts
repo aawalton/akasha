@@ -4,14 +4,13 @@ export const nickelCreek2ADottedLine = {
   id: "01a0676a-d715-7023-bbe4-e4ed7fe17948",
   type: "page-type/release",
   slug: "nickel-creek-2-a-dotted-line",
-  title: "A Dotted Line",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/nickel-creek"],
   position: 0,
-  ownLength: 37.926633,
-  ownProgress: 37.926633,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-03-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const nickelCreek2ADottedLine = {
       externalLink: "https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2",
     },
   ],
+  title: "A Dotted Line",
 } as const satisfies Release

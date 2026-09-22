@@ -4,14 +4,13 @@ export const nickelCreek2DestinationLive = {
   id: "01a0676a-d71c-700c-ace0-858b850e1401",
   type: "page-type/release",
   slug: "nickel-creek-2-destination-live",
-  title: "Destination (Live)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/nickel-creek"],
   position: 0,
-  ownLength: 9.34765,
-  ownProgress: 9.34765,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-11-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const nickelCreek2DestinationLive = {
       externalLink: "https://open.spotify.com/album/6o8N3qkZhqEyivI7dJXCX5",
     },
   ],
+  title: "Destination (Live)",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const reneeRappTattoos = {
   id: "01a0676a-d72c-7003-ad48-45abbb8f4dc1",
   type: "page-type/release",
   slug: "renee-rapp-tattoos",
-  title: "Tattoos",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/renee-rapp"],
   position: 0,
-  ownLength: 2.883767,
-  ownProgress: 2.883767,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2022-06-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const reneeRappTattoos = {
       externalLink: "https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ",
     },
   ],
+  title: "Tattoos",
 } as const satisfies Release

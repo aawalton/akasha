@@ -4,14 +4,13 @@ export const nickelCreek2ThisSide = {
   id: "01a0676a-d72e-7033-8fa0-e0236988243c",
   type: "page-type/release",
   slug: "nickel-creek-2-this-side",
-  title: "This Side",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/nickel-creek"],
   position: 0,
-  ownLength: 50.0882,
-  ownProgress: 50.0882,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2002-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const nickelCreek2ThisSide = {
       externalLink: "https://open.spotify.com/album/22nQdZSid64plYdy5zRHew",
     },
   ],
+  title: "This Side",
 } as const satisfies Release

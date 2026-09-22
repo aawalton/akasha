@@ -4,14 +4,13 @@ export const nickelCreek2Celebrants = {
   id: "01a0676a-d71a-7007-b908-6089a5d340f6",
   type: "page-type/release",
   slug: "nickel-creek-2-celebrants",
-  title: "Celebrants",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/nickel-creek"],
   position: 0,
-  ownLength: 59.86645,
-  ownProgress: 59.86645,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-03-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const nickelCreek2Celebrants = {
       externalLink: "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq",
     },
   ],
+  title: "Celebrants",
 } as const satisfies Release

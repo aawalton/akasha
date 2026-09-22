@@ -4,14 +4,13 @@ export const nickelCreek2NickelCreek = {
   id: "01a0676a-d725-705a-a8be-2d2365fb90ad",
   type: "page-type/release",
   slug: "nickel-creek-2-nickel-creek",
-  title: "Nickel Creek",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/nickel-creek"],
   position: 0,
-  ownLength: 49.601133,
-  ownProgress: 49.601133,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2000-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const nickelCreek2NickelCreek = {
       externalLink: "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd",
     },
   ],
+  title: "Nickel Creek",
 } as const satisfies Release

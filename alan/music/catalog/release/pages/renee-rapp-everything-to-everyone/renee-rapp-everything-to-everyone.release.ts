@@ -4,15 +4,14 @@ export const reneeRappEverythingToEveryone = {
   id: "01a0676a-d71d-7042-b541-ad671fc15402",
   type: "page-type/release",
   slug: "renee-rapp-everything-to-everyone",
-  title: "Everything To Everyone",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/renee-rapp"],
   position: 0,
-  ownLength: 19.3732,
-  ownProgress: 19.3732,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2022-11-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const reneeRappEverythingToEveryone = {
       externalLink: "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ",
     },
   ],
+  title: "Everything To Everyone",
 } as const satisfies Release

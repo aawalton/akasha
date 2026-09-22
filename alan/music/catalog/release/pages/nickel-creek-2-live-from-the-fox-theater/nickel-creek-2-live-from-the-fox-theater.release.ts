@@ -4,14 +4,13 @@ export const nickelCreek2LiveFromTheFoxTheater = {
   id: "01a0676a-d723-704e-ad9c-e7ea38a1d00b",
   type: "page-type/release",
   slug: "nickel-creek-2-live-from-the-fox-theater",
-  title: "Live from the Fox Theater",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/nickel-creek"],
   position: 0,
-  ownLength: 110.924383,
-  ownProgress: 110.924383,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-11-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const nickelCreek2LiveFromTheFoxTheater = {
       externalLink: "https://open.spotify.com/album/7lq39QANQUHMNp0DVNqscQ",
     },
   ],
+  title: "Live from the Fox Theater",
 } as const satisfies Release

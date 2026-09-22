@@ -4,15 +4,14 @@ export const reneeRappBiteMe = {
   id: "01a0676a-d719-700e-b7f6-18fc9fe0d5b7",
   type: "page-type/release",
   slug: "renee-rapp-bite-me",
-  title: "BITE ME",
+  grade: "C",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/renee-rapp"],
   position: 0,
-  ownLength: 33.484367,
-  ownProgress: 33.484367,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "C",
   publishedAt: "2025-08-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const reneeRappBiteMe = {
       externalLink: "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN",
     },
   ],
+  title: "BITE ME",
 } as const satisfies Release

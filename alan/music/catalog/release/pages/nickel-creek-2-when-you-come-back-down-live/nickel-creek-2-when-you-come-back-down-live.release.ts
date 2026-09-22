@@ -4,14 +4,13 @@ export const nickelCreek2WhenYouComeBackDownLive = {
   id: "01a0676a-d731-7004-8826-80eed9796384",
   type: "page-type/release",
   slug: "nickel-creek-2-when-you-come-back-down-live",
-  title: "When You Come Back Down (Live)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/nickel-creek"],
   position: 0,
-  ownLength: 5.061767,
-  ownProgress: 5.061767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-10-21",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const nickelCreek2WhenYouComeBackDownLive = {
       externalLink: "https://open.spotify.com/album/28QYaRrqDwFu4PFpGMGwd8",
     },
   ],
+  title: "When You Come Back Down (Live)",
 } as const satisfies Release

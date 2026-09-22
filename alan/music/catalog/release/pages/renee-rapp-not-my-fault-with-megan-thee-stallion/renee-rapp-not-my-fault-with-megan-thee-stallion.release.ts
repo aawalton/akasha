@@ -4,15 +4,14 @@ export const reneeRappNotMyFaultWithMeganTheeStallion = {
   id: "01a0676a-d725-707a-84f3-e5be3bf5d7b8",
   type: "page-type/release",
   slug: "renee-rapp-not-my-fault-with-megan-thee-stallion",
-  title: "Not My Fault (with Megan Thee Stallion)",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/renee-rapp"],
   position: 0,
-  ownLength: 2.842133,
-  ownProgress: 2.842133,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2023-12-15",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const reneeRappNotMyFaultWithMeganTheeStallion = {
       externalLink: "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj",
     },
   ],
+  title: "Not My Fault (with Megan Thee Stallion)",
 } as const satisfies Release

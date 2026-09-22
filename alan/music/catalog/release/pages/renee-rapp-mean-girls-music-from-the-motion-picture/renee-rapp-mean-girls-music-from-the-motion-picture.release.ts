@@ -4,15 +4,14 @@ export const reneeRappMeanGirlsMusicFromTheMotionPicture = {
   id: "01a0676a-d724-7043-8dc8-cbdd83e5da79",
   type: "page-type/release",
   slug: "renee-rapp-mean-girls-music-from-the-motion-picture",
-  title: "Mean Girls (Music From The Motion Picture)",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/renee-rapp"],
   position: 0,
-  ownLength: 34.4273,
-  ownProgress: 34.4273,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2024-01-12",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const reneeRappMeanGirlsMusicFromTheMotionPicture = {
       externalLink: "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74",
     },
   ],
+  title: "Mean Girls (Music From The Motion Picture)",
 } as const satisfies Release

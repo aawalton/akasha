@@ -4,7 +4,7 @@ export const reneeRappLuckyFromNowYouSeeMeNowYouDont = {
   id: "01a0caa8-fc9e-7410-b6b2-e4db8aa6e8e8",
   type: "page-type/release",
   slug: "renee-rapp-lucky-from-now-you-see-me-now-you-dont",
-  ownLength: 2.475633333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/renee-rapp"],
   position: 0,
