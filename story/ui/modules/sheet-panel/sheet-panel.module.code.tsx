@@ -1,3 +1,5 @@
+"use client"
+
 import {
   Tabs,
   TabsContent,
@@ -12,6 +14,7 @@ import {
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { ClientSheet } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
+import { useTowerAttributes } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.code.ts"
 
 function Section({ title, children }: { title: string; children: React.ReactNode }) {
   return (
@@ -82,8 +85,10 @@ function ScalarRows({ record }: { record: Record<string, number | string> }) {
   )
 }
 
-function StatsTab({ sheet }: { sheet: ClientSheet }) {
-  const attributes = sheet.attributes ?? {}
+function StatsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefined }) {
+  const filed = useTowerAttributes(game)
+  const kept = sheet.attributes ?? {}
+  const attributes = Object.keys(filed).length > 0 ? filed : kept
   const derived = sheet.derived ?? {}
   const hasAttributes = Object.keys(attributes).length > 0
   const hasDerived = Object.keys(derived).length > 0
@@ -265,7 +270,7 @@ function SheetHeader({ sheet }: { sheet: ClientSheet }) {
   )
 }
 
-export function SheetPanel({ sheet }: { sheet: ClientSheet | null }) {
+export function SheetPanel({ sheet, game }: { sheet: ClientSheet | null; game?: string }) {
   if (sheet === null) {
     return (
       <SurfaceProvider
@@ -286,7 +291,7 @@ export function SheetPanel({ sheet }: { sheet: ClientSheet | null }) {
           <TabsTrigger value="items">Items</TabsTrigger>
         </TabsList>
         <TabsContent value="stats">
-          <StatsTab sheet={sheet} />
+          <StatsTab sheet={sheet} game={game} />
         </TabsContent>
         <TabsContent value="skills">
           <SkillsTab sheet={sheet} />
