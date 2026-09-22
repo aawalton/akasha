@@ -6,8 +6,10 @@ import {
   SWEPT,
 } from "akasha/agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"
 import {
+  type Answer,
+  refusing as blocking,
+  LET_THROUGH,
   payloadIn,
-  REFUSED,
   unreadable,
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { insideOf, settled } from "akasha/agent/hook/modules/settling/settling.module.code.ts"
@@ -465,6 +467,18 @@ export function refusalFor(command: string, from: string, root: string): string 
   return null
 }
 
+export function judgedFor(payload: Record<string, unknown>): Answer {
+  const held = payload as {
+    readonly tool_input?: { readonly command?: unknown }
+    readonly cwd?: unknown
+  }
+  const command = typeof held.tool_input?.command === "string" ? held.tool_input.command : ""
+  if (command.trim() === "") return LET_THROUGH
+  const from = typeof held.cwd === "string" && held.cwd !== "" ? held.cwd : process.cwd()
+  const said = refusalFor(command, from, rootOf(import.meta.path))
+  return said === null ? LET_THROUGH : blocking(said)
+}
+
 async function main(): Promise<number> {
   const raw = await Bun.stdin.text()
   if (raw.trim() === "") return 0
@@ -474,18 +488,10 @@ async function main(): Promise<number> {
     process.stderr.write(`${unread.err}\n`)
     return unread.code
   }
-  const held = payload as {
-    readonly tool_input?: { readonly command?: unknown }
-    readonly cwd?: unknown
-  }
-  const command = typeof held.tool_input?.command === "string" ? held.tool_input.command : ""
-  if (command.trim() === "") return 0
-  const from = typeof held.cwd === "string" && held.cwd !== "" ? held.cwd : process.cwd()
-  const said = refusalFor(command, from, rootOf(import.meta.path))
-  if (said === null) return 0
-  process.stderr.write(`${said}\n`)
-  process.stdout.write(`${JSON.stringify({ decision: "block", reason: said }, null, 2)}\n`)
-  return REFUSED
+  const answer = judgedFor(payload)
+  if (answer.err !== "") process.stderr.write(`${answer.err}\n`)
+  if (answer.out !== "") process.stdout.write(`${answer.out}\n`)
+  return answer.code
 }
 
 async function ran(): Promise<number> {

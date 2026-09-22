@@ -1,6 +1,9 @@
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { refusalFor } from "akasha/agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts"
+import {
+  judgedFor,
+  refusalFor,
+} from "akasha/agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
@@ -33,7 +36,8 @@ export const REBUILD = "akasha index refresh"
 export const SWEEP = "akasha git sweep"
 
 export function said(command: string): string | null {
-  return refusalFor(command, ROOT, ROOT)
+  const answer = judgedFor({ tool_input: { command }, cwd: ROOT })
+  return answer.err === "" ? null : answer.err
 }
 
 export function saidThere(command: string): string | null {
