@@ -35,6 +35,19 @@ function preludeText(): string {
   return cachedPrelude
 }
 
+export const ESO_BANNED_GLOBALS: readonly string[] = [
+  "debug",
+  "io",
+  "os",
+  "package",
+  "require",
+  "module",
+  "dofile",
+  "loadfile",
+  "load",
+  "loadstring",
+]
+
 export type SandboxedLuaVm = {
   readonly setGlobal: (name: string, value: unknown) => undefined
   readonly doString: (source: string) => Promise<unknown>

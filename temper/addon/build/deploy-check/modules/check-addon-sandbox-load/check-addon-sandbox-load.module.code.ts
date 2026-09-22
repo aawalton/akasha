@@ -24,20 +24,10 @@ import { parseSingleFileFlag } from "akasha/temper/addon/build/deploy-check/modu
 import { errorMessage } from "akasha/temper/addon/build/deploy-check/modules/error-message/error-message.module.code.ts"
 import { ESO_BASE_GAME_STRING_IDS } from "akasha/temper/addon/build/deploy-check/modules/eso-base-game-string-ids/eso-base-game-string-ids.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/addon/build/deploy-check/modules/population-bound/population-bound.module.code.ts"
-import { makeSandboxedLuaVm } from "akasha/temper/eso/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"
-
-const ESO_BANNED_GLOBALS = [
-  "debug",
-  "io",
-  "os",
-  "package",
-  "require",
-  "module",
-  "dofile",
-  "loadfile",
-  "load",
-  "loadstring",
-] as const
+import {
+  ESO_BANNED_GLOBALS,
+  makeSandboxedLuaVm,
+} from "akasha/temper/eso/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"
 
 const GATE = "addon-sandbox-load"
 
