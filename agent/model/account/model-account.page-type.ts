@@ -5,6 +5,16 @@ export const modelAccount = {
   type: "page-type/page-type",
   slug: "model-account",
   definition: "an account whose calls a provider serves",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "model account" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "model accounts" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "account", scope: "page-type/model-account" },
+    {
+      partOfSpeech: "part-of-speech/noun",
+      spelling: "accounts",
+      scope: "page-type/model-account",
+    },
+  ],
   extends: ["page-type/page"],
   parts: [
     "computed-property-module/five-hour-reset",

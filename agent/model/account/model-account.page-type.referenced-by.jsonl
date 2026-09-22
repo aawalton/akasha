@@ -16,3 +16,4 @@
 {"propertySlug":"import","fileName":"model-account.page-type.types.ts","path":"agent/model/account/properties/effective-seven-day-usage.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"model-account.page-type.types.ts","path":"agent/model/account/properties/effective-seven-day-usage.computed-property.test-fixtures.ts"}
 {"propertySlug":"parts","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}
+{"propertySlug":"spelling-scope","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}
