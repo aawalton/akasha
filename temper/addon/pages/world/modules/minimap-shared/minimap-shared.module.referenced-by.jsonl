@@ -1,0 +1,13 @@
+{"propertySlug":"import","fileName":"minimap-shared.module.code.ts","path":"temper/addon/pages/world/modules/minimap-border/minimap-border.module.code.ts"}
+{"propertySlug":"import","fileName":"minimap-shared.module.code.ts","path":"temper/addon/pages/world/modules/minimap-core/minimap-core.module.code.ts"}
+{"propertySlug":"import","fileName":"minimap-shared.module.code.ts","path":"temper/addon/pages/world/modules/minimap-handlers/minimap-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"minimap-shared.module.code.ts","path":"temper/addon/pages/world/modules/minimap-init/minimap-init.module.code.ts"}
+{"propertySlug":"import","fileName":"minimap-shared.module.code.ts","path":"temper/addon/pages/world/modules/minimap-lifecycle/minimap-lifecycle.module.code.ts"}
+{"propertySlug":"import","fileName":"minimap-shared.module.code.ts","path":"temper/addon/pages/world/modules/minimap-mode/minimap-mode.module.code.ts"}
+{"propertySlug":"import","fileName":"minimap-shared.module.code.ts","path":"temper/addon/pages/world/modules/minimap-pin-sizes/minimap-pin-sizes.module.code.ts"}
+{"propertySlug":"import","fileName":"minimap-shared.module.code.ts","path":"temper/addon/pages/world/modules/minimap-state/minimap-state.module.code.ts"}
+{"propertySlug":"import","fileName":"minimap-shared.module.code.ts","path":"temper/addon/pages/world/modules/minimap-tweaks-pin-managers/minimap-tweaks-pin-managers.module.code.ts"}
+{"propertySlug":"import","fileName":"minimap-shared.module.code.ts","path":"temper/addon/pages/world/modules/minimap-tweaks-refresh-pins/minimap-tweaks-refresh-pins.module.code.ts"}
+{"propertySlug":"import","fileName":"minimap-shared.module.code.ts","path":"temper/addon/pages/world/modules/minimap-tweaks-shared/minimap-tweaks-shared.module.code.ts"}
+{"propertySlug":"import","fileName":"minimap-shared.module.code.ts","path":"temper/addon/pages/world/modules/minimap-update/minimap-update.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/pages/world/temper-addon-world.temper-addon.ts","id":"01a06269-2b19-7da5-9012-2ba4d1bba677"}

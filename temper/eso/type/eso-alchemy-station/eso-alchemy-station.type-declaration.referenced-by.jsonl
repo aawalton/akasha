@@ -32,5 +32,5 @@
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-checkbox/addon-menu-widget-checkbox.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-library/main-menu-library.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-scenes/main-menu-scenes.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

@@ -48,7 +48,7 @@
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown/addon-menu-widget-dropdown.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-constants-combobox/scrollable-menu-constants-combobox.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-pin-sizes/minimap-pin-sizes.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-pin-sizes/minimap-pin-sizes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-ui-strings/lorebooks-ui-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-pins/lost-treasure-pins.module.code.ts"}

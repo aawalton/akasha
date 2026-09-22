@@ -7,7 +7,7 @@
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-search/potion-search.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/zone-queries/zone-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-filter/keybinder-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-map-settings/minimap-map-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-map-settings/minimap-map-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-item-link/item-browser-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-list/item-browser-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-search/item-browser-search.module.code.ts"}

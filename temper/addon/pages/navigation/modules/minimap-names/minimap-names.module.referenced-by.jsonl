@@ -1,9 +1,0 @@
-{"propertySlug":"import","fileName":"minimap-names.module.code.ts","path":"temper/addon/pages/navigation/modules/minimap-focus-zoom/minimap-focus-zoom.module.code.ts"}
-{"propertySlug":"import","fileName":"minimap-names.module.code.ts","path":"temper/addon/pages/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}
-{"propertySlug":"import","fileName":"minimap-names.module.code.ts","path":"temper/addon/pages/navigation/modules/minimap-init/minimap-init.module.code.ts"}
-{"propertySlug":"import","fileName":"minimap-names.module.code.ts","path":"temper/addon/pages/navigation/modules/minimap-mode/minimap-mode.module.code.ts"}
-{"propertySlug":"import","fileName":"minimap-names.module.code.ts","path":"temper/addon/pages/navigation/modules/minimap-saved-variables/minimap-saved-variables.module.code.ts"}
-{"propertySlug":"import","fileName":"minimap-names.module.code.ts","path":"temper/addon/pages/navigation/modules/minimap-shared/minimap-shared.module.code.ts"}
-{"propertySlug":"import","fileName":"minimap-names.module.code.ts","path":"temper/addon/pages/navigation/modules/minimap-toggles/minimap-toggles.module.code.ts"}
-{"propertySlug":"import","fileName":"minimap-names.module.code.ts","path":"temper/addon/pages/navigation/modules/minimap-update/minimap-update.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/pages/navigation/temper-addon-navigation.temper-addon.ts","id":"01a06269-2b19-7da5-9012-2ba4d1bba677"}

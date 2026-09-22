@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"lib-map-data.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-compass-achievement-pins/destinations-compass-achievement-pins.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-map-data.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-ach-callbacks-special/destinations-pins-ach-callbacks-special.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-map-data.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-qol-pins/destinations-pins-qol-pins.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-map-data.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-slash-command/destinations-pins-slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-map-data.type-declaration.d.ts","path":"temper/addon/pages/world/modules/destinations-compass-achievement-pins/destinations-compass-achievement-pins.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-map-data.type-declaration.d.ts","path":"temper/addon/pages/world/modules/destinations-pins-ach-callbacks-special/destinations-pins-ach-callbacks-special.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-map-data.type-declaration.d.ts","path":"temper/addon/pages/world/modules/destinations-pins-qol-pins/destinations-pins-qol-pins.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-map-data.type-declaration.d.ts","path":"temper/addon/pages/world/modules/destinations-pins-slash-command/destinations-pins-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-map-data.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-callbacks/lorebooks-pins-callbacks.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-map-data.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins/lorebooks-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-map-data.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-slash-command/lorebooks-slash-command.module.code.ts"}

@@ -45,6 +45,6 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-contextmenu-class/scrollable-menu-contextmenu-class.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-interaction/scrollable-menu-dropdown-class-interaction.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-submenu-class/scrollable-menu-submenu-class.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-casts/minimap-casts.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-casts/minimap-casts.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

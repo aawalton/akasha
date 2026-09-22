@@ -3,11 +3,11 @@
 {"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-compatibility/gps-compatibility.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/addon/pages/lib-map-ping/modules/map-ping-handler/map-ping-handler.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-hooks/destinations-pins-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-init/minimap-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-pin-sizes/minimap-pin-sizes.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-tweaks-pin-managers/minimap-tweaks-pin-managers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-tweaks-refresh-pins/minimap-tweaks-refresh-pins.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/addon/pages/world/modules/destinations-pins-hooks/destinations-pins-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-init/minimap-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-pin-sizes/minimap-pin-sizes.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-tweaks-pin-managers/minimap-tweaks-pin-managers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-tweaks-refresh-pins/minimap-tweaks-refresh-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-library-rows/lorebooks-library-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-init/lorebooks-pins-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-18.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-load/skyshards-console-load.module.code.ts"}

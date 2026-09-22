@@ -5,7 +5,7 @@
 {"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/interface/modules/quiet-settings-guilds/quiet-settings-guilds.module.code.ts"}
 {"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/interface/modules/quiet-settings-messages/quiet-settings-messages.module.code.ts"}
 {"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/interface/modules/quiet-settings-world/quiet-settings-world.module.code.ts"}
-{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/navigation/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"}
+{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/world/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"}
 {"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-immersive-mode/lorebooks-immersive-mode.module.code.ts"}
 {"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pin-appearance/lorebooks-pin-appearance.module.code.ts"}

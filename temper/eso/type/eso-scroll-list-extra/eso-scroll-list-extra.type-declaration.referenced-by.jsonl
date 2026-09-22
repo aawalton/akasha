@@ -4,5 +4,5 @@
 {"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-window/sales-history-status-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-scroll-list-extra.type-declaration.d.ts","path":"temper/addon/pages/world/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

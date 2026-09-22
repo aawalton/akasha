@@ -25,6 +25,6 @@
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-notification/modules/notification-provider-link/notification-provider-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-notification/modules/notification-row-overrides/notification-row-overrides.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-notifications/lost-treasure-notifications.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

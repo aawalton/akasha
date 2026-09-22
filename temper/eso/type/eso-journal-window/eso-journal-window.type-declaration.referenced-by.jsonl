@@ -32,7 +32,7 @@
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base/scrollable-menu-combobox-base.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-show/scrollable-menu-dropdown-class-show.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-header-refresh/scrollable-menu-dropdown-header-refresh.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-focus-zoom/minimap-focus-zoom.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-focus-zoom/minimap-focus-zoom.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-color/lccc-color.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"}

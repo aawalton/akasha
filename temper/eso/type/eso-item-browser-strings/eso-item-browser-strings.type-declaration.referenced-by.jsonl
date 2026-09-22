@@ -5,7 +5,7 @@
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-loc-strings-en/lib-sets-loc-strings-en.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-rowmenu/lib-sets-search-ui-shared-rowmenu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-checkbox/addon-menu-widget-checkbox.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-toggles/minimap-toggles.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-toggles/minimap-toggles.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-item-link/item-browser-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-list/item-browser-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-settings/item-browser-settings.module.code.ts"}
