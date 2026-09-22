@@ -22,7 +22,6 @@ import {
   routeRead,
 } from "akasha/person/modules/device-secret-minting/device-secret-minting.module.code.ts"
 import { useContext, useEffect, useRef } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 async function probeKeychain(plugin: DeviceSecretPlugin, userId: string): Promise<PeekProbe> {
   try {

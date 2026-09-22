@@ -1,7 +1,6 @@
 import { ChevronLeft, ChevronRight } from "lucide-react"
 import { useEffect, useRef, useState } from "react"
 import { z } from "zod"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const EDGE_ZONE_PX = 24
 const SWIPE_RESISTANCE = 0.5

@@ -19,7 +19,6 @@ import {
 } from "akasha/page/ui/component/modules/position-write-event/position-write-event.module.code.ts"
 import { getContentPersistence } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import { useEffect, useRef } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const DOWN_SYNC_CONCURRENCY = 5

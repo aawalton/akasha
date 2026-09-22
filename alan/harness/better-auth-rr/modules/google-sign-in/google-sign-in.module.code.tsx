@@ -19,7 +19,6 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { safeRedirectTarget } from "akasha/page/url/modules/safe-target/safe-target.module.code.ts"
 import { useState } from "react"
 import { useSearchParams } from "react-router"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const SIGN_IN_AT = "/api/auth/sign-in/social"

@@ -4,7 +4,6 @@ import {
 } from "akasha/alan/web/modules/pull-to-refresh-decider/pull-to-refresh-decider.module.code.ts"
 import { Loader2, RefreshCw } from "lucide-react"
 import { useEffect, useRef, useState } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 function collectScrollableAncestors(target: EventTarget | null): readonly ScrollableAncestor[] {
   const chain: ScrollableAncestor[] = []

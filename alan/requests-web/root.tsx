@@ -25,7 +25,6 @@ import {
 } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/alan/requests-web/look/alan-requests-web-look.stylesheet.styles.css"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
 const GUARD: HandoverGuardConfig = {

@@ -1,12 +1,4 @@
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/atlas-web/root.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/requests-web/root.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/modules/edge-swipe-nav/edge-swipe-nav.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/modules/offline-text-sync/offline-text-sync.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/modules/pull-to-refresh/pull-to-refresh.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/root.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/routes/_app-layout.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts"}
