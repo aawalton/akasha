@@ -26,6 +26,7 @@ import type { Changes as MechanicalChanges } from "akasha/change/runner/pages/me
 import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
+  type Carried,
   type Facing,
   generatedIn,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
@@ -73,11 +74,18 @@ export type World = {
 }
 
 function facingIn(world: World): Facing {
+  const held = new Map<string, Carried>()
   return {
     kindsUnder: (of) => world.index.kindsUnder(of),
     everyOfType: (kind) => world.index.everyOfType(kind),
     valueAt: (path) => world.index.pageByPath(path),
-    carryingOf: (named) => world.index.carryingOf(named),
+    carryingOf: (named) => {
+      const found = held.get(named)
+      if (found !== undefined) return found
+      const one = world.index.carryingOf(named)
+      held.set(named, one)
+      return one
+    },
     root: world.root,
     holds: (path) => world.textOf(path) !== null,
   }

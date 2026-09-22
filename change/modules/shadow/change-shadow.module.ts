@@ -277,6 +277,10 @@ export const changeShadow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A face answers which pages carry a property once and keeps that answer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reach whose answer could turn the generated bodies builds that face again.",
     },
     {

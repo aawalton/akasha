@@ -7,6 +7,7 @@ import {
 import {
   addedTo,
   changeOver,
+  facingHeld,
   isLedger,
   type Ledger,
   ledgerAt,
@@ -404,6 +405,27 @@ test("the page type a body states is read from `type`, and from `pageTypeSlug` a
   expect(typeIn(SLUG_ONLY)).toBe("module")
   expect(typeIn(SLUG_UNDER_TYPE)).toBe("module")
   expect(typeIn("const fresh = {}\n")).toBeNull()
+})
+
+const CARRIED = "file-property/code"
+
+test("a face answers which pages carry a property once and keeps that answer", () => {
+  const under = worldIn(indexedRepo())
+  let asked = 0
+  const counting: World = {
+    ...under,
+    index: {
+      ...under.index,
+      carryingOf: (named) => {
+        asked += 1
+        return under.index.carryingOf(named)
+      },
+    },
+  }
+  const facing = facingHeld(counting)
+
+  expect(facing.carryingOf(CARRIED)).toBe(facing.carryingOf(CARRIED))
+  expect(asked).toBe(1)
 })
 
 test("a generated body a reach writes is left as the generator would write it", async () => {
