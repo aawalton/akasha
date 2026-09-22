@@ -10,11 +10,11 @@ export const gitDir = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The folder is the one every worktree of a checkout shares.",
+      statement: "The folder is the one every tree of a checkout shares.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A worktree is answered the folder its checkout shares rather than its own.",
+      statement: "A tree under that folder is answered that folder, as a worktree is.",
     },
     {
       decisionKind: "decision-kind/departure",
