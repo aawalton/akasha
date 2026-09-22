@@ -9,7 +9,7 @@ export const monolithOfStorms = {
   esoSetId: 727,
   subcategoryId: "class",
   valid: ["*"],
-  classId: "sorcerer",
+  classId: "temper-class/sorcerer",
   bonuses: "jsonl",
   icons: "jsonl",
 } as const satisfies TemperSet

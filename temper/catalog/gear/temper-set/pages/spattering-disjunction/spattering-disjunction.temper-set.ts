@@ -9,7 +9,7 @@ export const spatteringDisjunction = {
   esoSetId: 775,
   subcategoryId: "class",
   valid: ["*"],
-  classId: "arcanist",
+  classId: "temper-class/arcanist",
   bonuses: "jsonl",
   icons: "jsonl",
 } as const satisfies TemperSet

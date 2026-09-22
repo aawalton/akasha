@@ -9,7 +9,7 @@ export const nobilityInDecay = {
   esoSetId: 724,
   subcategoryId: "class",
   valid: ["*"],
-  classId: "necromancer",
+  classId: "temper-class/necromancer",
   bonuses: "jsonl",
   icons: "jsonl",
 } as const satisfies TemperSet

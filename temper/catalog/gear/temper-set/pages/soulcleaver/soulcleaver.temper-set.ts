@@ -9,7 +9,7 @@ export const soulcleaver = {
   esoSetId: 726,
   subcategoryId: "class",
   valid: ["*"],
-  classId: "nightblade",
+  classId: "temper-class/nightblade",
   bonuses: "jsonl",
   icons: "jsonl",
 } as const satisfies TemperSet

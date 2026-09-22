@@ -9,7 +9,7 @@ export const wrathsun = {
   esoSetId: 728,
   subcategoryId: "class",
   valid: ["*"],
-  classId: "templar",
+  classId: "temper-class/templar",
   bonuses: "jsonl",
   icons: "jsonl",
 } as const satisfies TemperSet

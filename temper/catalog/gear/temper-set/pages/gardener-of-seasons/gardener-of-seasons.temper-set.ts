@@ -9,7 +9,7 @@ export const gardenerOfSeasons = {
   esoSetId: 729,
   subcategoryId: "class",
   valid: ["*"],
-  classId: "warden",
+  classId: "temper-class/warden",
   bonuses: "jsonl",
   icons: "jsonl",
 } as const satisfies TemperSet

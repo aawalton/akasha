@@ -9,7 +9,7 @@ export const corpseburster = {
   esoSetId: 777,
   subcategoryId: "class",
   valid: ["*"],
-  classId: "necromancer",
+  classId: "temper-class/necromancer",
   bonuses: "jsonl",
   icons: "jsonl",
 } as const satisfies TemperSet

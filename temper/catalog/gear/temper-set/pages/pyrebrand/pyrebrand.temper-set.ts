@@ -9,7 +9,7 @@ export const pyrebrand = {
   esoSetId: 776,
   subcategoryId: "class",
   valid: ["*"],
-  classId: "dragonknight",
+  classId: "temper-class/dragonknight",
   bonuses: "jsonl",
   icons: "jsonl",
 } as const satisfies TemperSet
