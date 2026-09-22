@@ -81,6 +81,14 @@ export const sessions = {
       decisionKind: "decision-kind/departure",
       statement: "A row is spelled as the file spells the row.",
     },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "The two times a stretch has are instants, whose slugs close with `-at`.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "No change renames a field of a row, so a key here is rewritten by hand.",
+    },
   ],
   types: "ts",
 } as const satisfies PagePropertyEntry

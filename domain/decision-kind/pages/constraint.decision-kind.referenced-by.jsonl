@@ -167,6 +167,7 @@
 {"propertySlug":"decision-kind","path":"alan/music/spotify/spotify.domain.ts","id":"01a06261-dc1d-7000-8f39-acf6360f39b5"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/alan-requests-web.router-app.ts","id":"01a0c537-ba4f-70c8-8138-07fe3a3ea045"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-auth-provider/requests-auth-provider.module.ts","id":"01a0c537-bbe7-7ea3-aabc-220dc3ae73ca"}
+{"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/sessions.page-property-entry.ts","id":"01a05fd8-c30f-799b-aa06-004072744b31"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/modules/day-active-calories/day-active-calories.module.ts","id":"01a06972-ba96-7000-9539-60cc6079f306"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/modules/day-entry-keys/day-entry-keys.module.ts","id":"01a072fc-7da3-7248-a22d-918364c535de"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/modules/day-messages-totalling/day-messages-totalling.module.ts","id":"01a082e7-25cd-7547-840c-7cd58dad9c8c"}
