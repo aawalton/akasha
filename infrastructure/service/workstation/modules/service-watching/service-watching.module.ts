@@ -19,7 +19,8 @@ export const serviceWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An entry stating no day the service broke is dropped rather than carried.",
+      statement:
+        "An entry stating neither a day it broke nor a telling is dropped rather than carried.",
     },
     {
       decisionKind: "decision-kind/departure",

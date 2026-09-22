@@ -5,7 +5,7 @@ const ADDRESS = "service-workstation/"
 export const COOLING_MS = 24 * 60 * 60 * 1000
 
 export type Outage = {
-  readonly brokenSince: string
+  readonly brokenSince: string | null
   readonly toldAt: string | null
 }
 
@@ -60,6 +60,31 @@ export function owing(mark: string | null, now: string, coolingMs: number): bool
   return Date.parse(now) - marked >= coolingMs
 }
 
+function brokenSlugs(health: readonly Health[]): ReadonlySet<string> {
+  return new Set(health.filter((one) => one.broken !== null && one.told).map((one) => one.slug))
+}
+
+function hushedSlugs(health: readonly Health[]): ReadonlySet<string> {
+  return new Set(health.filter((one) => !one.told).map((one) => one.slug))
+}
+
+function restingIn(given: {
+  readonly ledger: Ledger
+  readonly health: readonly Health[]
+  readonly now: string
+  readonly coolingMs: number
+}): Record<string, Outage> {
+  const broken = brokenSlugs(given.health)
+  const hushed = hushedSlugs(given.health)
+  const kept: Record<string, Outage> = {}
+  for (const [slug, one] of Object.entries(given.ledger)) {
+    if (broken.has(slug) || hushed.has(slug)) continue
+    if (owing(one.toldAt, given.now, given.coolingMs)) continue
+    kept[slug] = { brokenSince: null, toldAt: one.toldAt }
+  }
+  return kept
+}
+
 export function deciding(given: {
   readonly health: readonly Health[]
   readonly champion: (address: string) => string | null
@@ -69,7 +94,12 @@ export function deciding(given: {
   readonly coolingMs?: number
 }): Decided {
   const coolingMs = given.coolingMs ?? COOLING_MS
-  const keeping: Record<string, Outage> = {}
+  const keeping = restingIn({
+    ledger: given.ledger,
+    health: given.health,
+    now: given.now,
+    coolingMs,
+  })
   const tell: Telling[] = []
   for (const one of given.health) {
     if (one.broken === null || !one.told) continue

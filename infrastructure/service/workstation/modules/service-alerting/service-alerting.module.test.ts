@@ -73,13 +73,29 @@ test("a telling carries a moment rather than a stretch of time", () => {
   expect(body).not.toContain("ago")
 })
 
-test("a service that came back and broke again is told again inside the cooling", () => {
+test("a service that came back and broke again is not told again inside the cooling", () => {
   const first = decided([BROKE], {}, AT)
   const marked = told(first.keeping, "held-service", AT)
   const mended = decided([WELL], marked, later(60 * 1000))
-  expect(mended.keeping["held-service"]).toBe(undefined)
+  expect(mended.keeping["held-service"]).toEqual({ brokenSince: null, toldAt: AT })
   const again = decided([BROKE], mended.keeping, later(5 * 60 * 1000))
+  expect(again.tell).toEqual([])
+  expect(again.keeping["held-service"]).toEqual({
+    brokenSince: later(5 * 60 * 1000),
+    toldAt: AT,
+  })
+})
+
+test("a service that came back and broke again past the cooling is told again", () => {
+  const marked = told(decided([BROKE], {}, AT).keeping, "held-service", AT)
+  const mended = decided([WELL], marked, later(60 * 1000))
+  const again = decided([BROKE], mended.keeping, later(COOLING_MS))
   expect(again.tell.length).toBe(1)
+})
+
+test("a service well right through the cooling is held by nothing after it", () => {
+  const marked = told(decided([BROKE], {}, AT).keeping, "held-service", AT)
+  expect(decided([WELL], marked, later(COOLING_MS)).keeping).toEqual({})
 })
 
 test("a service stating it is not told is told to nobody and held by nothing", () => {
@@ -88,10 +104,20 @@ test("a service stating it is not told is told to nobody and held by nothing", (
   expect(said.keeping).toEqual({})
 })
 
-test("a service that is well is kept by nothing", () => {
-  expect(decided([WELL], { "held-service": { brokenSince: AT, toldAt: AT } }, AT).keeping).toEqual(
-    {}
-  )
+test("a service that is well and was never told is kept by nothing", () => {
+  expect(
+    decided([WELL], { "held-service": { brokenSince: AT, toldAt: null } }, AT).keeping
+  ).toEqual({})
+})
+
+test("a service that mends states no day it broke while its cooling is held", () => {
+  const said = decided([WELL], { "held-service": { brokenSince: AT, toldAt: AT } }, AT)
+  expect(said.keeping["held-service"]).toEqual({ brokenSince: null, toldAt: AT })
+})
+
+test("a service stating it is not told is held by nothing though it was told before", () => {
+  const said = decided([UNTOLD], { "held-service": { brokenSince: AT, toldAt: AT } }, AT)
+  expect(said.keeping).toEqual({})
 })
 
 test("deciding never moves the mark saying the persona was told", () => {

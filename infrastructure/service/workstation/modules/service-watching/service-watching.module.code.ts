@@ -7,6 +7,7 @@ import {
   championing,
   deciding,
   type Ledger,
+  type Outage,
   passedOn,
   type Telling,
   told,
@@ -43,15 +44,14 @@ export function ledgerAt(home: string): string {
 
 export function parseLedger(held: unknown): Ledger {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return {}
-  const kept: Record<string, { brokenSince: string; toldAt: string | null }> = {}
+  const kept: Record<string, Outage> = {}
   for (const [slug, one] of Object.entries(held as Record<string, unknown>)) {
     if (one === null || typeof one !== "object") continue
     const said = one as Record<string, unknown>
-    if (typeof said.brokenSince !== "string") continue
-    kept[slug] = {
-      brokenSince: said.brokenSince,
-      toldAt: typeof said.toldAt === "string" ? said.toldAt : null,
-    }
+    const brokenSince = typeof said.brokenSince === "string" ? said.brokenSince : null
+    const toldAt = typeof said.toldAt === "string" ? said.toldAt : null
+    if (brokenSince === null && toldAt === null) continue
+    kept[slug] = { brokenSince, toldAt }
   }
   return kept
 }

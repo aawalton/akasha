@@ -55,15 +55,16 @@ export const serviceAlerting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A service broken without pause is told again once the cooling has run out.",
+      statement:
+        "A service still broken is told again once the cooling on its last telling has run out.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The cooling is a day of being broken without pause.",
+      statement: "The cooling is a day since the last telling.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A service that mends is held by nothing.",
+      statement: "A service that mends is held until the cooling on its last telling runs out.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -80,6 +81,14 @@ export const serviceAlerting = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here sends a message or reads a unit or opens a file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service held only for its cooling states no day it broke.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service breaking again after a mend states the day it broke again.",
     },
   ],
 } as const satisfies Module

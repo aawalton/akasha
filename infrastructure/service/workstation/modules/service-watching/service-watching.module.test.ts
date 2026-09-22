@@ -39,8 +39,9 @@ test("a ledger that will not parse is read as holding nothing rather than throwi
   expect(ledgerRead(HOME)).toEqual({})
 })
 
-test("an entry stating no day it broke is dropped rather than carried", () => {
-  expect(ledgerIn('{"a":{"toldAt":"x"}}')).toEqual({})
+test("an entry stating neither a day it broke nor a telling is dropped rather than carried", () => {
+  expect(ledgerIn('{"a":{}}')).toEqual({})
+  expect(ledgerIn('{"a":{"toldAt":"x"}}')).toEqual({ a: { brokenSince: null, toldAt: "x" } })
   expect(ledgerIn('{"a":{"brokenSince":"x"}}')).toEqual({ a: { brokenSince: "x", toldAt: null } })
   expect(ledgerIn("[]")).toEqual({})
 })
