@@ -1,6 +1,6 @@
 import type { AbilityIcon } from "akasha/temper/catalog/skill/temper-grimoire/properties/ability-icon.text-property.types.ts"
 import type { AffixScripts } from "akasha/temper/catalog/skill/temper-grimoire/properties/affix-scripts.page-property-entry.types.ts"
-import type { FocusScripts } from "akasha/temper/catalog/skill/temper-grimoire/properties/focus-scripts.text-property.types.ts"
+import type { FocusScripts } from "akasha/temper/catalog/skill/temper-grimoire/properties/focus-scripts.multi-relation-property.types.ts"
 import type { SignatureScripts } from "akasha/temper/catalog/skill/temper-grimoire/properties/signature-scripts.page-property-entry.types.ts"
 import type { TemperScribingThing } from "akasha/temper/catalog/skill/temper-scribing-thing/temper-scribing-thing.page-type.types.ts"
 import type { SkillLineId } from "akasha/temper/catalog/thing/properties/skill-line-id.text-property.types.ts"

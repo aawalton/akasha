@@ -108,7 +108,6 @@
 {"propertySlug":"name-format","path":"temper/catalog/gear/thing/properties/debuff-id.text-property.ts","id":"01a05fd1-d439-75b3-92b0-1243e1ad274a"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/line/properties/skill-line-class.text-property.ts","id":"01a05fca-cb87-7a9a-9dda-95916e9f73d7"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/properties/skill-status.text-property.ts","id":"01a05fca-cb87-719f-b348-33ad77e63005"}
-{"propertySlug":"name-format","path":"temper/catalog/skill/temper-grimoire/properties/focus-scripts.text-property.ts","id":"01a05fca-cb82-7738-87f5-0530f38d10af"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/temper-scribed-skill/properties/grimoire-id.text-property.ts","id":"01a05fca-cb83-73a3-afc2-bf571210f393"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/temper-scribing-source/properties/script-type.text-property.ts","id":"01a05fca-cb86-7ada-8ab9-4822a45c4ebf"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/temper-script/properties/slot-type.text-property.ts","id":"01a05fca-cb87-767f-90a1-977b2c340bc6"}
