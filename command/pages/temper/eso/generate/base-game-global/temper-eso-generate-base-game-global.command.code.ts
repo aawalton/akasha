@@ -133,7 +133,7 @@ function staged(done: string[], taken: Taken): Answer {
     stem: STEM,
     binding: BINDING,
     names: [...stringIds].sort(),
-    runDefinition: "one run of the string ids the base game provides, in the whole census's order",
+    runDefinition: "a set of the string ids the base game provides, in the whole census's order",
     aggregateDefinition:
       "every string id the base game provides, gathered from the runs holding them",
   }
