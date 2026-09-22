@@ -4,6 +4,6 @@ export const topologicalSort = {
   id: "01a06070-82e5-713f-ac89-431606c70239",
   type: "page-type/module",
   slug: "topological-sort",
-  definition: "an ordering putting every item after the items that item depends on",
+  definition: "an ordering putting every item after its own dependencies",
   code: "ts",
 } as const satisfies Module

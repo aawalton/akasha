@@ -4,7 +4,7 @@ export const foodOrDrinkSource = {
   id: "01a060ea-ac63-7f87-bbe2-20c3ae760481",
   type: "page-type/module",
   slug: "food-or-drink-source",
-  definition: "food and drink gathered into the table a build picks a single row from",
+  definition: "food and drink gathered into the table holding a build's single picked row",
   code: "ts",
   decisions: [
     {

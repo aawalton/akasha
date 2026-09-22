@@ -5,7 +5,7 @@ export const furnitureSubcategoryId = {
   type: "page-type/number-property",
   slug: "furniture-subcategory-id",
   propertySlug: "furniture-subcategory-id",
-  definition: "the number the game names a furnishing's shelf by",
+  definition: "the game's number for a furnishing's shelf",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

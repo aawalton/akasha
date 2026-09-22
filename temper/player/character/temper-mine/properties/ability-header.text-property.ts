@@ -5,7 +5,7 @@ export const abilityHeader = {
   type: "page-type/text-property",
   slug: "ability-header",
   propertySlug: "ability-header",
-  definition: "the line an item's ability is shown under",
+  definition: "the line over an item's ability",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

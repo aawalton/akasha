@@ -5,7 +5,7 @@ export const requiredLevel = {
   type: "page-type/number-property",
   slug: "required-level",
   propertySlug: "required-level",
-  definition: "the level an item asks for",
+  definition: "the level an item needs",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

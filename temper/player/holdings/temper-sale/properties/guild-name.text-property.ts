@@ -5,7 +5,7 @@ export const guildName = {
   type: "page-type/text-property",
   slug: "guild-name",
   propertySlug: "guild-name",
-  definition: "the guild whose store an item went through",
+  definition: "the guild whose store sold an item",
   maxLength: 200,
   nameFormat: null,
   decisions: [

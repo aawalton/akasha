@@ -5,7 +5,7 @@ export const buildCharacterName = {
   type: "page-type/text-property",
   slug: "build-character-name",
   propertySlug: "character-name",
-  definition: "the name of the character this build was arranged for",
+  definition: "the name of this build's character",
   maxLength: 100,
   nameFormat: null,
   decisions: [

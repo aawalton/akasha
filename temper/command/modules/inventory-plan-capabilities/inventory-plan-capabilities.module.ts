@@ -4,7 +4,7 @@ export const inventoryPlanCapabilities = {
   id: "01a068f6-dee0-7713-8806-b95995b92fdc",
   type: "page-type/module",
   slug: "inventory-plan-capabilities",
-  definition: "what building an inventory management plan is built from",
+  definition: "what builds an inventory management plan",
   code: "ts",
   test: "ts",
   decisions: [
