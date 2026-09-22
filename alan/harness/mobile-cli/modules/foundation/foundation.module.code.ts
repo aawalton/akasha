@@ -10,6 +10,7 @@ import {
   splitRepoPath,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { quoted } from "akasha/code/shell/modules/quoting/quoting.module.code.ts"
+import { PINNED_AT } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { z } from "zod"
 
 export const ASC_KEY_ID = "Q5485KN54Y"
@@ -125,11 +126,19 @@ export function buildKeychainUnlock(): string {
   ].join("\n")
 }
 
-const MAC_SHELL_CLONE = "$HOME/repos/akasha"
+const MAC_SHELL_CLONE = '"$HOME/repos/akasha"'
 
 const CHECKOUT_VAR = "NATIVE_SHELL_CHECKOUT"
 
 export const CHECKOUT_ROOT = `"$${CHECKOUT_VAR}"`
+
+const CHECKOUT_INDEX = `"$${CHECKOUT_VAR}.index"`
+
+const COMMIT_VAR = "_CHECKOUT_COMMIT"
+
+const COMMIT_READ = `"$${COMMIT_VAR}"`
+
+const STAMP_COMMIT_ENV = "NATIVE_SHELL_STAMP_COMMIT"
 
 export function buildOnCleanup(command: string): string {
   return `_on_cleanup ${quoted(command)}`
@@ -138,13 +147,13 @@ export function buildOnCleanup(command: string): string {
 export function buildRunCheckout(commit: string): string {
   return [
     `${CHECKOUT_VAR}=$(mktemp -d)`,
-    buildOnCleanup(
-      `git -C ${MAC_SHELL_CLONE} worktree remove --force ${CHECKOUT_ROOT} >/dev/null 2>&1 || rm -rf ${CHECKOUT_ROOT}`
-    ),
+    buildOnCleanup(`rm -rf ${CHECKOUT_ROOT} ${CHECKOUT_INDEX} || true`),
     `git -C ${MAC_SHELL_CLONE} fetch origin`,
-    `git -C ${MAC_SHELL_CLONE} worktree prune`,
-    `git -C ${MAC_SHELL_CLONE} worktree add --detach ${CHECKOUT_ROOT} ${commit}`,
-    `echo "[checkout] this run compiles ${commit} at $${CHECKOUT_VAR}"`,
+    `${COMMIT_VAR}=$(git -C ${MAC_SHELL_CLONE} rev-parse --verify "${commit}^{commit}")`,
+    `GIT_INDEX_FILE=${CHECKOUT_INDEX} git -C ${MAC_SHELL_CLONE} --work-tree=${CHECKOUT_ROOT} read-tree --reset -u ${COMMIT_READ}`,
+    `printf '%s\\n' ${COMMIT_READ} > ${CHECKOUT_ROOT}/${PINNED_AT}`,
+    `export ${STAMP_COMMIT_ENV}=${COMMIT_READ}`,
+    `echo "[checkout] this run compiles $${COMMIT_VAR} at $${CHECKOUT_VAR}"`,
   ].join("\n")
 }
 

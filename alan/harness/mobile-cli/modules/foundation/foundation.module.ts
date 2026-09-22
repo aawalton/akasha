@@ -7,6 +7,7 @@ export const foundation = {
   definition:
     "the shell fragments and App Store Connect identifiers shared by every generated mac build script",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -81,14 +82,37 @@ export const foundation = {
       statement: "An app stating no widget bundle id exports no widget name and no components.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement:
-        "A container step running as root leaves files `git worktree remove` cannot delete.",
+      decisionKind: "decision-kind/departure",
+      statement: "The mac checkout is a plain export of one commit rather than a worktree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A ref is resolved to a commit in the clone before the export is written.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Taking the mac checkout away falls back to `rm -rf` where `git worktree remove --force` cannot.",
+        "The index the export is written through sits beside the export rather than in it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The export is stamped at its root with the commit it was written from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The export carries no git, so the stamping seam is told that commit.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A container step running as root leaves root-owned files in the mac checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Taking the mac checkout away is `rm -rf` of the export and that index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A removal that refuses leaves the rest of the cleanup to run.",
     },
     {
       decisionKind: "decision-kind/departure",

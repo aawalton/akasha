@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"foundation.module.code.ts","path":"alan/harness/mobile-cli/modules/altool/altool.module.code.ts"}
 {"propertySlug":"import","fileName":"foundation.module.code.ts","path":"alan/harness/mobile-cli/modules/asc-client/asc-client.module.code.ts"}
+{"propertySlug":"import","fileName":"foundation.module.code.ts","path":"alan/harness/mobile-cli/modules/foundation/foundation.module.test.ts"}
 {"propertySlug":"import","fileName":"foundation.module.code.ts","path":"alan/harness/mobile-cli/modules/ios-signing/ios-signing.module.code.ts"}
 {"propertySlug":"import","fileName":"foundation.module.code.ts","path":"alan/harness/mobile-cli/modules/ios-signing/ios-signing.module.test.ts"}
 {"propertySlug":"import","fileName":"foundation.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts"}
