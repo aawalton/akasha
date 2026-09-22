@@ -9,7 +9,8 @@ export const whenILearnSomethingNewAboutMyself = {
     "knowing a new thing about myself has landed, without knowing the route that got me there",
   parents: ["all-about-alan-topic/how-i-read-myself"],
   related: [
-    "all-about-alan-topic/how-understanding-arrives",
+    "all-about-alan-topic/how-one-idea-leads-to-the-next",
+    "all-about-alan-topic/what-makes-a-reflection-reach-me",
     "all-about-alan-topic/why-insight-feels-good",
   ],
   settled:
