@@ -5,6 +5,7 @@ export const joseph = {
   type: "page-type/person",
   slug: "joseph",
   definition: "Joseph Walton, Alan's middle child",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "Joseph" }],
   answeredBy: "persona/claude",
   phone: "+18016363076",
 } as const satisfies Person

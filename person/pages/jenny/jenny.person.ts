@@ -5,6 +5,10 @@ export const jenny = {
   type: "page-type/person",
   slug: "jenny",
   definition: "Jennifer Walton, Alan's wife",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "Jenny" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "Jennifer" },
+  ],
   answeredBy: "persona/claude",
   phone: "+16085122511",
   email: "smilingjenny@gmail.com",

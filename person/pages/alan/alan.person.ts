@@ -5,7 +5,10 @@ export const alan = {
   type: "page-type/person",
   slug: "alan",
   definition: "the person akasha answers to",
-  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "Alan" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "Alan" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "Walton" },
+  ],
   directives: [
     {
       directiveKind: "directive-kind/principle",

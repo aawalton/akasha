@@ -5,6 +5,10 @@ export const ki = {
   type: "page-type/person",
   slug: "ki",
   definition: "Ki Goff, Alan's sister-in-law",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "Ki" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "Goff" },
+  ],
   answeredBy: "persona/amy",
   phone: "+18015028196",
   supabaseAuthUserId: "395db962-77dd-4aa7-b1c2-6500025dc331",

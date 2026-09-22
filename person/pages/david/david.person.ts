@@ -5,6 +5,10 @@ export const david = {
   type: "page-type/person",
   slug: "david",
   definition: "David Eggertsen, Alan's friend since childhood",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "David" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "Eggertsen" },
+  ],
   answeredBy: "persona/amy",
   phone: "+14355720344",
   email: "deggertsen@gmail.com",
