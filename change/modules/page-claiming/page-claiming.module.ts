@@ -26,6 +26,15 @@ export const pageClaiming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A file beside the page whose ending a property of the page names is answered too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file under a folder beneath the page's own folder is no such file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path claimed twice is answered once.",
     },
     {
