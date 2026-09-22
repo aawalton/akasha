@@ -17,7 +17,7 @@ import {
 import {
   bundledFor,
   bundledTeller,
-  LAUNCHED_FROM_BUNDLE,
+  launchedFromBundle,
   movedFrom,
   saidOfUnbuilt,
   saidOfUnmoved,
@@ -85,7 +85,7 @@ export async function bundlesBuilt(root: string, home: string, commit: string): 
   }
   bundles.set(TELLER_STEM, teller.built.at)
   said.push(`bundled\t${TELLER_STEM}\t${teller.built.at}`)
-  for (const slug of LAUNCHED_FROM_BUNDLE) {
+  for (const slug of launchedFromBundle(root)) {
     const made = await bundledFor(root, slug, home, commit, moved.moved)
     if (!("built" in made)) {
       return { refused: saidOfUnbuilt(slug, "unnamed" in made ? made.unnamed : made.refused) }

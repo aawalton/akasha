@@ -165,22 +165,11 @@ export const serviceBundling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A service named here starts from its bundle rather than from the pinned tree.",
-    },
-
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The list says how far the move off the pinned tree has got rather than forking the fleet for good.",
+      statement: "Every workstation service starts from its bundle, so no list says which do.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The list is done with once it holds every service and the pinned tree goes.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A service is named here after its bundle has been read for a specifier that bundle cannot resolve.",
+      statement: "Which services those are is read from the index rather than spelled here.",
     },
     {
       decisionKind: "decision-kind/constraint",

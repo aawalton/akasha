@@ -10,7 +10,10 @@ import {
   SERVICE_SUFFIX,
   TELLING_TEMPLATE,
 } from "akasha/infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  slugsOfType,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { BunPlugin } from "bun"
 
@@ -56,67 +59,9 @@ const NAMED_AT_MOST = 12
 
 export const TELLER_STEM = TELLING_TEMPLATE.slice(0, -SERVICE_SUFFIX.length)
 
-export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set([
-  "active-calories-service",
-  "alan-email-worker",
-  "apns-push-notifier",
-  "attributes-relay-service",
-  "audit-running",
-  "capacity-relay-service",
-  "cluster-deploying",
-  "code-editor-data-watcher",
-  "container-recipe-deploying",
-  "cost-relay-service",
-  "day-readout-watch-service",
-  "dcgm-exporter",
-  "desktop-wallpaper-setting",
-  "great-courses-sync",
-  "inbox-count-watch-service",
-  "inbox-relay-service",
-  "inbox-tracking-poll",
-  "inference-deploying",
-  "ios-app-deploying",
-  "maintain-seat-pending",
-  "model-account-upkeep-service",
-  "model-account-upkeep-stall",
-  "monarch-poll",
-  "monarch-reading-service",
-  "monarch-relay-service",
-  "monarch-sync",
-  "music-capture",
-  "node-exporter",
-  "orphaned-resources-sweep",
-  "overdue-rolling",
-  "page-service",
-  "persona-email-routing",
-  "persona-points-rebuilding",
-  "plants-relay-service",
-  "recipient-resolver",
-  "repos-empty-dir-purge",
-  "royal-road-sync",
-  "safety-relay-service",
-  "send-due-reminders",
-  "service-watching",
-  "sleep-relay-service",
-  "spotify-sync",
-  "surplus-fall-notifier",
-  "surplus-relay-service",
-  "sweep-absent-seats",
-  "sweep-cost-records",
-  "sweep-log-days",
-  "sweep-stray-processes",
-  "sweep-subagent-pages",
-  "sweep-supervisor-logs",
-  "sweep-window-pages",
-  "temper-addon-deploying",
-  "temper-watcher",
-  "topic-words-service",
-  "ttc-client",
-  "wandering-inn-sync",
-  "web-app-deploying",
-  "workstation-deploying",
-  "workstation-load-sampler",
-])
+export function launchedFromBundle(root: string): readonly string[] {
+  return slugsOfType(root, SERVICE_PAGE_TYPE)
+}
 
 const LEFT_FOR_RUNTIME: Readonly<Record<string, string>> = {
   "chromium-bidi":

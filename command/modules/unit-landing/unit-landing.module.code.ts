@@ -7,7 +7,7 @@ import {
   asked,
   type Running,
 } from "akasha/infrastructure/service/workstation/modules/service-asking/service-asking.module.code.ts"
-import { LAUNCHED_FROM_BUNDLE } from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
+import { launchedFromBundle } from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
 import {
   ourInstalled,
   stagingDir,
@@ -77,9 +77,10 @@ export function weighedIn(root: string, home: string): Weighing {
   if ("refused" in read) {
     return { ...NOTHING_WEIGHED, wrong: [`no workstation unit was weighed — ${read.refused}`] }
   }
+  const bundled = new Set(launchedFromBundle(root))
   const drifts: Drift[] = []
   for (const one of read.services) {
-    if (LAUNCHED_FROM_BUNDLE.has(one.service.slug)) continue
+    if (bundled.has(one.service.slug)) continue
     for (const [unit, text] of textFor(one)) {
       if (!owned.has(unit)) continue
       if (installedText(home, unit) === text) continue
