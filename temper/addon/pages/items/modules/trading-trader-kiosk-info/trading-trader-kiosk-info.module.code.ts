@@ -18,7 +18,6 @@ const WINDOW_NAME = "TemperItemsListingsTraderInfo"
 const WINDOW_WIDTH = 280
 const LABEL_HEIGHT = 22
 const PAD = 8
-const PANEL_OPACITY = 0.7
 const PANEL_LEVEL: SurfaceLevel = 1
 
 export interface TraderKioskInfo {
@@ -77,7 +76,7 @@ function buildInfoWindow(this: void): InfoWidgets {
   tlw.ClearAnchors()
   tlw.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, 80, 360)
 
-  drawSurface(tlw, PANEL_LEVEL, PANEL_OPACITY)
+  drawSurface(tlw, PANEL_LEVEL)
 
   const label = WINDOW_MANAGER.CreateControl(`${WINDOW_NAME}Label`, tlw, CT_LABEL)
   label.SetAnchor(TOPLEFT, tlw, TOPLEFT, PAD, PAD)

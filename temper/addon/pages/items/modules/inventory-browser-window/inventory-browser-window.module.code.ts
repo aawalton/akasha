@@ -41,7 +41,6 @@ const PADDING = 8
 const TITLE_HEIGHT = 30
 const TOOLBAR_HEIGHT = 90
 const SEARCHBAR_HEIGHT = 30
-const PANEL_OPACITY = 0.85
 const PANEL_LEVEL: SurfaceLevel = 1
 
 const DOCK_OFFSET_X = -20
@@ -133,7 +132,7 @@ export function createBrowserWindow(): BrowserWindowHandle {
   frame.SetDimensions(DEFAULT_WIDTH, DEFAULT_HEIGHT)
   frame.SetClampedToScreen(true)
 
-  drawSurface(frame, PANEL_LEVEL, PANEL_OPACITY)
+  drawSurface(frame, PANEL_LEVEL)
 
   const title = WINDOW_MANAGER.CreateControl("$(parent)Title", frame, CT_LABEL)
   title.SetAnchor(TOPLEFT, frame, TOPLEFT, PADDING, PADDING)

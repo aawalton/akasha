@@ -1,4 +1,3 @@
-import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { initializeTabs } from "akasha/temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
 import { createMovableWindow } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
 import {
@@ -11,9 +10,7 @@ import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-
 import "akasha/temper/eso/type/eso-objects-02/eso-objects-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-const PANEL_OPACITY = 0.8
 const PANEL_LEVEL: SurfaceLevel = 1
-const BORDER_OPACITY = 0.1
 
 let window: TopLevelWindow | undefined
 let windowFragment: SceneFragment | undefined
@@ -84,8 +81,7 @@ function initializeWindow(): undefined {
   hudScene.RegisterCallback("StateChange", onStateChange)
   hudUIScene.RegisterCallback("StateChange", onStateChange)
 
-  const bg = drawSurface(tlw, PANEL_LEVEL, PANEL_OPACITY)
-  bg.SetEdgeColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], BORDER_OPACITY)
+  drawSurface(tlw, PANEL_LEVEL)
 
   const title = WINDOW_MANAGER.CreateControl("$(parent)Title", tlw, CT_LABEL)
   title.SetAnchor(TOPLEFT, tlw, TOPLEFT, 20, 20)

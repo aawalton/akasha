@@ -60,9 +60,7 @@ const WINDOW_WIDTH = 320
 const LINE_HEIGHT = 20
 const LINE_GAP = 4
 const BUTTON_HEIGHT = CONTROL_HEIGHT
-const PANEL_OPACITY = 0.7
 const PANEL_LEVEL: SurfaceLevel = 1
-const BORDER_OPACITY = 0.6
 
 const SOURCE_LABEL: Record<string, string> = {
   "last-sold": "last sold",
@@ -179,8 +177,7 @@ function buildSellWindow(this: void): SellWidgets {
   tlw.SetClampedToScreen(true)
   tlw.SetMovable(true)
 
-  const bg = drawSurface(tlw, PANEL_LEVEL, PANEL_OPACITY)
-  bg.SetEdgeColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], BORDER_OPACITY)
+  drawSurface(tlw, PANEL_LEVEL)
 
   let y = PADDING_Y
   const nameLabel = buildLine(tlw, "Name", y, true)

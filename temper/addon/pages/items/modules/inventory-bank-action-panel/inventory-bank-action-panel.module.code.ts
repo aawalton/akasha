@@ -32,7 +32,6 @@ const HEADER_HEIGHT = 22
 const ROW_HEIGHT = 18
 const ROW_GAP = 2
 const MIN_WIDTH = 200
-const PANEL_OPACITY = 0.5
 const PANEL_LEVEL: SurfaceLevel = 1
 
 interface PanelState {
@@ -57,7 +56,7 @@ export function initializeBankActionPanel(): undefined {
   tlw.SetHidden(true)
   tlw.SetDimensions(MIN_WIDTH, HEADER_HEIGHT + PADDING_Y * 2)
 
-  const bg = drawSurface(tlw, PANEL_LEVEL, PANEL_OPACITY)
+  const bg = drawSurface(tlw, PANEL_LEVEL)
 
   const header = WINDOW_MANAGER.CreateControl("$(parent)Header", tlw, CT_LABEL)
   header.SetAnchor(TOPLEFT, tlw, TOPLEFT, PADDING_X, PADDING_Y)

@@ -67,7 +67,6 @@ const GROUP_GAP = 12
 const FILTER_ROW_HEIGHT = CONTROL_HEIGHT + PADDING_Y * 2
 const MAX_VISIBLE_ROWS = 50
 const WINDOW_PAD = 12
-const PANEL_OPACITY = 0.7
 const PANEL_LEVEL: SurfaceLevel = 1
 
 const GROUP_LABELS: Record<FilterGroup, string> = {
@@ -97,7 +96,7 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
   tlw.SetClampedToScreen(true)
   tlw.SetMovable(true)
 
-  drawSurface(tlw, PANEL_LEVEL, PANEL_OPACITY)
+  drawSurface(tlw, PANEL_LEVEL)
 
   const active = new Map<FilterId, FilterValue>()
 

@@ -26,15 +26,13 @@ export function surfaceAt(level: SurfaceLevel): Rgb {
   return SURFACES[level]
 }
 
-export function drawSurface(
-  parent: Control,
-  level: SurfaceLevel,
-  opacity: number
-): BackdropControl {
+const OPAQUE = 1
+
+export function drawSurface(parent: Control, level: SurfaceLevel): BackdropControl {
   const backdrop = WINDOW_MANAGER.CreateControl("$(parent)BG", parent, CT_BACKDROP)
   const [red, green, blue] = surfaceAt(level)
   backdrop.SetAnchorFill()
-  backdrop.SetCenterColor(red, green, blue, opacity)
+  backdrop.SetCenterColor(red, green, blue, OPAQUE)
   backdrop.SetEdgeColor(0, 0, 0, 0)
   backdrop.SetEdgeTexture(undefined, 1, 1, 1)
   return backdrop

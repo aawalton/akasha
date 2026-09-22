@@ -17,8 +17,7 @@ export const surfaceBackdrop = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "How much of the game shows through is the caller's concern rather than this package's.",
+      statement: "A surface is opaque, and none of the game shows through it.",
     },
     {
       decisionKind: "decision-kind/absence",
