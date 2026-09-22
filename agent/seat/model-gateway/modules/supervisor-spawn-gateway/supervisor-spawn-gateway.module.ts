@@ -4,7 +4,7 @@ export const supervisorSpawnGateway = {
   id: "01a06876-abda-7018-ac05-91daba56bc7b",
   type: "page-type/module",
   slug: "supervisor-spawn-gateway",
-  definition: "spawning the oauth proxy, or adopting one already there",
+  definition: "spawning the model gateway, or adopting one already there",
   code: "ts",
   decisions: [
     {

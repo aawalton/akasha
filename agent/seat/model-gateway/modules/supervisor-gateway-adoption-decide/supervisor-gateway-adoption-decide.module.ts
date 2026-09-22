@@ -4,7 +4,7 @@ export const supervisorGatewayAdoptionDecide = {
   id: "01a06838-5a84-7004-bfa3-4f11134ef503",
   type: "page-type/module",
   slug: "supervisor-gateway-adoption-decide",
-  definition: "whether a supervisor takes over the OAuth proxy standing or starts its own",
+  definition: "whether a supervisor takes over the model gateway already there or starts its own",
   code: "ts",
   test: "ts",
   decisions: [
