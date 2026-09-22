@@ -163,7 +163,6 @@ test("a group left where the run that made it is gone is taken away before a gro
   const gone = ran(["sh", "-c", "printf %s $$"]).out
   const left = join(String(parent), `akasha-${gone}-1`)
   mkdirSync(left)
-  expect(existsSync(left)).toBe(true)
   ran(["true"], MEASURED)
   expect(existsSync(left)).toBe(false)
 })
