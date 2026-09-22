@@ -23,6 +23,11 @@ export const dallaResourceManagement = {
         "Fifty-eight of the fifty-nine code checks state maxCpuSeconds of their own, usually ten seconds and up to thirty, and ranOver judges cpuSeconds plus childCpuSeconds once the run ended. Nothing states a memory ceiling. A check runs inside the checking process, and the peak recorded is that process's high water mark, forgotten before each check and so counted from what the process already held rather than from nothing.",
     },
     {
+      statement: "Every audit an agent runs has a memory ceiling of its own.",
+      workingMemory:
+        "An audit is a check over the whole tree rather than over what changed, and states a processor ceiling of its own: fifteen seconds usually, twenty for no-relative-specifier, twenty-five for check-reaches-a-path-through-the-index, and a hundred and twenty for no-unused-exports and for index-is-level-with-the-pages. Nothing states a memory ceiling, and the peak is taken the way a check's is.",
+    },
+    {
       statement:
         "`email-address-is-well-formed` runs under a processor ceiling matched to its cost.",
     },
@@ -86,11 +91,6 @@ export const dallaResourceManagement = {
         "`check-reaches-a-path-through-the-index` runs under a processor ceiling matched to its cost.",
     },
     { statement: "`typecheck` runs under a processor ceiling matched to its cost." },
-    {
-      statement: "Every audit an agent runs has a memory ceiling of its own.",
-      workingMemory:
-        "An audit is a check over the whole tree rather than over what changed, and states a processor ceiling of its own: fifteen seconds usually, twenty for no-relative-specifier, twenty-five for check-reaches-a-path-through-the-index, and a hundred and twenty for no-unused-exports and for index-is-level-with-the-pages. Nothing states a memory ceiling, and the peak is taken the way a check's is.",
-    },
     {
       statement: "Every guard a tool call runs has a processor and a memory ceiling of its own.",
       workingMemory:
