@@ -10,7 +10,7 @@
   "classIcon": "/esoui/art/icons/class/class_dragonknight.dds",
   "companionRapport": {
     "1": 4058,
-    "5": 4606,
+    "5": 5106,
     "6": 2145,
     "9": 5500
   },
@@ -1050,6 +1050,7 @@
     6771,
     6778,
     6785,
+    6786,
     6789,
     6799,
     6800,
