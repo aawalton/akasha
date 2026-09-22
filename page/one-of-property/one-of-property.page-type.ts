@@ -5,11 +5,11 @@ export const oneOfProperty = {
   type: "page-type/page-type",
   slug: "one-of-property",
   definition: "a page property with a value one of its members has",
-  parts: ["relation-property/members"],
+  parts: ["multi-relation-property/members"],
   extends: ["page-type/page-property"],
   properties: [
     {
-      pageProperty: "relation-property/members",
+      pageProperty: "multi-relation-property/members",
       required: true,
       many: true,
       maxCount: null,

@@ -118,7 +118,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/modules/record-sweeping/record-sweeping.module.test.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/modules/value/page-value.module.test.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/one-of-property/properties/members.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/one-of-property/properties/members.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/select-property/properties/select-option-colors.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/select-property/properties/select-values.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
@@ -224,7 +224,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/text-property/text-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/url-property/url-property.page-type.types.ts"}
 {"propertySlug":"parts","path":"page/type/page-type.page-type.ts","id":"01a049ae-fe2c-7343-8ab6-f94d8927164a"}
-{"propertySlug":"target-page-type","path":"page/one-of-property/properties/members.relation-property.ts","id":"01a062b2-e0c9-78a5-b56b-6dc7519eded7"}
+{"propertySlug":"target-page-type","path":"page/one-of-property/properties/members.multi-relation-property.ts","id":"01a062b2-e0c9-78a5-b56b-6dc7519eded7"}
 {"propertySlug":"target-page-type","path":"page/type/page-property/properties/unique-property.relation-property.ts","id":"01a07c96-3272-7d36-9394-051287145f2a"}
 {"propertySlug":"target-page-type","path":"page/type/properties/owner.relation-property.ts","id":"01a06c50-b15f-7d22-9f4b-7590e602dd05"}
 {"propertySlug":"target-page-type","path":"page/type/properties/page-property.relation-property.ts","id":"01a04df3-6847-78ba-a32d-216da05c58ee"}

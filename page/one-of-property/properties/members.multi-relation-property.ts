@@ -1,11 +1,11 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const members = {
   id: "01a062b2-e0c9-78a5-b56b-6dc7519eded7",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "members",
   propertySlug: "members",
   definition: "a slug naming a property a one-of property admits a value of",
   targetPageType: "page-type/page-property",
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty
