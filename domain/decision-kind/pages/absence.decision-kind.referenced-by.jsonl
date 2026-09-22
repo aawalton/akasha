@@ -1855,6 +1855,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/minimap-string-ids/minimap-string-ids.type-declaration.ts","id":"01a06269-2b15-7ed4-828d-87a96fe2a139"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/modules/minimap-view-types/minimap-view-types.module.ts","id":"01a06269-2b11-7ab4-91ef-f78f20b801bc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation-declarations/navigation-declarations.type-declaration.ts","id":"01a06269-2b16-7e93-92d5-2c6e6bb9cb17"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/world-declarations/world-declarations.type-declaration.ts","id":"01a0c6ca-ff95-747e-8c27-666b07ade6ff"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/hud-component/modules/hud-component-labels/hud-component-labels.module.ts","id":"01a060a4-fa3a-7e69-ab6f-7e0aaefa14c1"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/hud-component/modules/hud-component-record/hud-component-record.module.ts","id":"01a060a4-fa39-7073-a59e-f1228678be33"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/hud-component/modules/hud-scene-parse/hud-scene-parse.module.ts","id":"01a060a4-fa3a-750c-9ca2-1bb7318f8b00"}

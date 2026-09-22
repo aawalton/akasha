@@ -4355,7 +4355,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/destinations-fishing-fish-done-pin/destinations-fishing-fish-done-pin.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/destinations-fishing-fish-pin/destinations-fishing-fish-pin.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/destinations-fishing-fish-types/destinations-fishing-fish-types.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/destinations-global/destinations-global.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/destinations-lang-collectibles-de/destinations-lang-collectibles-de.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/destinations-lang-collectibles-en/destinations-lang-collectibles-en.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/destinations-lang-collectibles-fr/destinations-lang-collectibles-fr.module.ts"}
@@ -4556,7 +4555,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/map-pins-fishing-nodes-09/map-pins-fishing-nodes-09.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/map-pins-fishing-nodes/map-pins-fishing-nodes.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/map-pins-fishing-zones/map-pins-fishing-zones.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/map-pins-global/map-pins-global.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/map-pins-imperial-city/map-pins-imperial-city.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/map-pins-instruments-tooltip/map-pins-instruments-tooltip.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/map-pins-instruments/map-pins-instruments.module.ts"}
@@ -4647,6 +4645,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/navigation-global/navigation-global.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/navigation-loaded/navigation-loaded.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/navigation-names/navigation-names.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/modules/world-names/world-names.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/hud-component/modules/hud-component-labels/hud-component-labels.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/hud-component/modules/hud-component-record/hud-component-record.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/shared/hud-component/modules/hud-controls/hud-controls.module.ts"}

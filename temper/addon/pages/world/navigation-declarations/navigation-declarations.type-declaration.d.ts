@@ -1,14 +1,3 @@
-interface TemperNavigationApi {
-  ADDON_NAME: string
-  ADDON_VERSION: string
-}
-
-declare var TemperWorld: TemperNavigationApi
-
-declare var TemperMapPins: TemperNavigationApi
-
-declare var TemperDestinations: TemperNavigationApi
-
 interface TemperVotansMiniMapZoom {
   zoomIn: number
   zoomOut: number
