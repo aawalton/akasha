@@ -10,7 +10,7 @@ export const thievesGuildSkillLine = {
   character: "temper-account-character/shaestrel",
   completionCard: "temper-completion-category/characters-skill-lines",
   completionItemPath: ["117"],
-  dueDate: "2026-09-23",
+  dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY;INTERVAL=1",
   rruleAnchorFromCompletion: false,
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
