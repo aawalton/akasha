@@ -39,7 +39,7 @@ export const manifestLocking = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "The lockfile is made with the worktree read for nothing.",
+      statement: "The lockfile is made with the files on disk read for nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
