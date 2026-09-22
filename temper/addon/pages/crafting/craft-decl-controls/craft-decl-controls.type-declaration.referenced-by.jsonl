@@ -49,7 +49,7 @@
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-favorites-render/housing-favorites-render.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-library-tab/housing-library-tab.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-tabs/housing-tabs.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-crafting-smithing/fco-crafting-smithing.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-functions/fco-functions.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-guild-history/fco-guild-history.module.code.ts"}

@@ -7,7 +7,7 @@
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-init/potion-init.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-slash-command/writ-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-public-api/hud-addon-public-api.module.code.ts"}
-{"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/selector-slash-command/selector-slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-slash-command/selector-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-ui/fco-ui.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-hud-fields/inventory-hud-fields.module.code.ts"}

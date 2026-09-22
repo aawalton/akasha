@@ -61,7 +61,7 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-library-tab/housing-library-tab.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-tabs/housing-tabs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-bar/hud-addon-bar.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-box-cursor-label/shifter-box-cursor-label.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-casts/shifter-casts.module.code.ts"}

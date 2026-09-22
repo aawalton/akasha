@@ -1779,11 +1779,12 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/housing/modules/housing-types/housing-types.module.ts","id":"01a06113-b7d3-78a4-80ec-95d612619454"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/housing/modules/housing-visit-cards-view/housing-visit-cards-view.module.ts","id":"01a06113-b7d3-7108-b73c-002d1663f7df"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/housing/temper-addon-housing.temper-addon.ts","id":"01a06113-b7cb-7519-aaf3-198045bc75aa"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/errors-addon-build-ids/errors-addon-build-ids.module.ts","id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/hud-addon-hide-plan/hud-addon-hide-plan.module.ts","id":"01a061c5-18dd-700b-9e4a-ac33f45c2a8f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/hud-addon-hide-targets/hud-addon-hide-targets.module.ts","id":"01a061c5-18dd-7009-859a-31630f29ad1a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/hud-addon-types/hud-addon-types.module.ts","id":"01a061c5-18dd-7000-bd52-66ec64cec528"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-addon-hud.temper-addon.ts","id":"01a061c5-18dd-7011-a8e7-8f6d488e9b03"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-errors/modules/errors-addon-build-ids/errors-addon-build-ids.module.ts","id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-errors/temper-errors.domain.ts","id":"01a0c6ff-0f87-7747-920a-288d24e2f233"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.ts","id":"01a06115-1ac5-7e5c-8d3a-faa3aae9eba1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/fco-crafting-smithing-improve/fco-crafting-smithing-improve.module.ts","id":"01a06115-1ac7-7496-8d0d-86f1548469eb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/fco-crafting-smithing/fco-crafting-smithing.module.ts","id":"01a06115-1ac7-7093-bdbd-2f2d354a8b32"}

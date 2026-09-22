@@ -1,0 +1,6 @@
+{"propertySlug":"import","fileName":"selector-packs.module.code.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-keybinds/selector-keybinds.module.code.ts"}
+{"propertySlug":"import","fileName":"selector-packs.module.code.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-public-api/selector-public-api.module.code.ts"}
+{"propertySlug":"import","fileName":"selector-packs.module.code.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-slash-command/selector-slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"selector-packs.module.code.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-ui-dropdown/selector-ui-dropdown.module.code.ts"}
+{"propertySlug":"import","fileName":"selector-packs.module.code.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/pages/hud/temper-selector/temper-selector.domain.ts","id":"01a0c6ff-2fed-7ea2-a106-ee20a4ca2ecf"}

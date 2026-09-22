@@ -101,8 +101,8 @@
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-window-controls/housing-window-controls.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-bar/hud-addon-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/selector-packs/selector-packs.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-packs/selector-packs.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-battleground/fco-battleground.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-collectibles/fco-collectibles.module.code.ts"}

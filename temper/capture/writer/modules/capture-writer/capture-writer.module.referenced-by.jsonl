@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"capture-writer.module.code.ts","path":"temper/addon/pages/capture-sales/modules/sales-addon-entry/sales-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"capture-writer.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-entry/catalog-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"capture-writer.module.code.ts","path":"temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"capture-writer.module.code.ts","path":"temper/addon/pages/hud/modules/errors-addon-entry/errors-addon-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"capture-writer.module.code.ts","path":"temper/addon/pages/hud/modules/errors-addon-record/errors-addon-record.module.code.ts"}
+{"propertySlug":"import","fileName":"capture-writer.module.code.ts","path":"temper/addon/pages/hud/temper-errors/modules/errors-addon-entry/errors-addon-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"capture-writer.module.code.ts","path":"temper/addon/pages/hud/temper-errors/modules/errors-addon-record/errors-addon-record.module.code.ts"}
 {"propertySlug":"parts","path":"temper/capture/writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
