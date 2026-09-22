@@ -1,11 +1,11 @@
 import { existsSync } from "node:fs"
-import { akashaSeatRelPath } from "akasha/agent/seat/page/modules/akasha/seat-page-akasha.module.code.ts"
 import {
   type Beside,
   CARRIED,
   type Kind,
   RECORDS,
 } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { seatPathForName } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -67,7 +67,7 @@ function seatNamed(said: string): string {
 
 function akashaPageOf(page: string): string | null {
   const root = rootFor(resolveRoots(), AKASHA)
-  const relPath = akashaSeatRelPath(seatNamed(page))
+  const relPath = seatPathForName(seatNamed(page))
   return existsSync(`${root}/${relPath}`) ? relPath : null
 }
 

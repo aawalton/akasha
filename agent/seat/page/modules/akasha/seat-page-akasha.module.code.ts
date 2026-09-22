@@ -8,21 +8,9 @@ import {
   statedSeat,
   tookSeat,
 } from "akasha/agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"
-import {
-  seatPathForName,
-  seatsAt,
-} from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
 import type { Outcome } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
 import { AKASHA, rootFor } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-at.module.code.ts"
-
-export function akashaSeatRelPath(seatName: string): string {
-  return seatPathForName(seatName)
-}
-
-export function akashaSeatsDirIn(root: string): string {
-  return `${root}/${seatsAt(root)}`
-}
 
 function seatStatedFrom(stated: Stated, parentName: string | null): SeatStated {
   return {

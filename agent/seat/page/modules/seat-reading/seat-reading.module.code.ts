@@ -55,6 +55,10 @@ export function seatPathForName(name: string, root: string = seatRoot()): string
   return `${seatsAt(root)}/${name}/${name}${SEAT_TAIL}`
 }
 
+export function akashaSeatsDirIn(root: string): string {
+  return `${root}/${seatsAt(root)}`
+}
+
 export function holderIn(told: unknown): Holder | null {
   if (typeof told !== "string" || told === "") return null
   const at = told.lastIndexOf("-")

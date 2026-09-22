@@ -1,6 +1,8 @@
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/page/modules/akasha/seat-page-akasha.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/page/modules/seat-beside/seat-beside.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.test.ts"}
 {"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}

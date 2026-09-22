@@ -48,8 +48,8 @@ import {
   followName,
 } from "akasha/agent/seat/name/modules/seat-rename/seat-rename.module.code.ts"
 import { nameStanding } from "akasha/agent/seat/name/modules/stands/seat-name-stands.module.code.ts"
-import { akashaSeatRelPath } from "akasha/agent/seat/page/modules/akasha/seat-page-akasha.module.code.ts"
 import { statedFromHistory } from "akasha/agent/seat/page/modules/history/seat-page-history.module.code.ts"
+import { seatPathForName } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
 import { writeSeatPage } from "akasha/agent/seat/page/modules/writing/seat-page-writing.module.code.ts"
 import {
   AKASHA,
@@ -256,12 +256,12 @@ export async function run(args: Args): Promise<SeatStated> {
     const page = await writeSeatPage(statedNow(agent, standing, said), seatName, args.parentName)
     if (page.kind === "refused") {
       return stop([
-        `${akashaSeatRelPath(seatName)} was not written, so it stands at what it last held until the next heartbeat — ${(page.detail.split("\n")[0] ?? "").trim()}`,
+        `${seatPathForName(seatName)} was not written, so it stands at what it last held until the next heartbeat — ${(page.detail.split("\n")[0] ?? "").trim()}`,
       ])
     }
     if (page.kind === "unstated") {
       return stop([
-        `${akashaSeatRelPath(seatName)} was not written: a seat page needs a persona, a domain, a role, ` +
+        `${seatPathForName(seatName)} was not written: a seat page needs a persona, a domain, a role, ` +
           "a principal, a start mode and a registration, and a seat whose principal is not a person " +
           "also needs the seat above it",
       ])
