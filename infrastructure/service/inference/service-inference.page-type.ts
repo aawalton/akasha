@@ -11,6 +11,7 @@ export const serviceInference = {
     "boolean-property/warm",
     "module/inference-reading",
     "number-property/internal-port",
+    "page-type/service-lifecycle",
     "relation-property/provision",
     "relation-property/inference-host",
     "text-property/lifecycle",
