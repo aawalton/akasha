@@ -27,7 +27,7 @@ export const provisioning = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A script that sets a machine up names the files that script places rather than holding those files.",
+        "The table of files to place is read from the pages rather than spelled by a placer.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,13 +38,13 @@ export const provisioning = {
       statement: "A move of the folder such a file sits in is caught by the landing that moves it.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "The scripts still have their table of files to place rather than reading the table from the pages.",
+        "A file placed with rights the landing has not is placed by a command reading the same pages.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A file placed with rights the landing has not is placed by the script alone.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here installs a package or makes a swapfile on a machine being set up.",
     },
   ],
 } as const satisfies Domain
