@@ -4,7 +4,7 @@ export const skillSlots = {
   id: "01a060db-b2bc-7435-a916-f751d5505338",
   type: "page-type/module",
   slug: "skill-slots",
-  definition: "the six places a skill sits in on one bar, five active and one ultimate",
+  definition: "the six places a skill sits in on a bar, five active and one ultimate",
   code: "ts",
   decisions: [
     {

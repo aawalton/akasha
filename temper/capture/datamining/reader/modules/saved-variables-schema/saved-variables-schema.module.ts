@@ -4,7 +4,7 @@ export const savedVariablesSchema = {
   id: "01a0609d-90df-725b-9ebe-3417953f530a",
   type: "page-type/module",
   slug: "saved-variables-schema",
-  definition: "the zod shape one datamining saved-variables file is read through",
+  definition: "the zod shape a datamining saved-variables file is read through",
   code: "ts",
   decisions: [
     {

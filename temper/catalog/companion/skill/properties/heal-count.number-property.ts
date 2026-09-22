@@ -5,7 +5,7 @@ export const healCount = {
   type: "page-type/number-property",
   slug: "heal-count",
   propertySlug: "heal-count",
-  definition: "how many heals one cast lands",
+  definition: "how many heals a cast lands",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

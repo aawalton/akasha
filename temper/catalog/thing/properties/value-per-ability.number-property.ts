@@ -5,7 +5,7 @@ export const valuePerAbility = {
   type: "page-type/number-property",
   slug: "value-per-ability",
   propertySlug: "value-per-ability",
-  definition: "what one slotted ability adds to the metric an effect moves",
+  definition: "what a slotted ability adds to the metric an effect moves",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

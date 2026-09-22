@@ -4,7 +4,7 @@ export const temperPoisonEffect = {
   id: "01a05fd1-d434-7ecc-bbf1-c13d68007b96",
   type: "page-type/page-type",
   slug: "temper-poison-effect",
-  definition: "one effect a reagent lends what it is brewed into",
+  definition: "an effect a reagent lends what it is brewed into",
   extends: ["page-type/temper-gear-thing"],
   parts: ["boolean-property/is-positive", "number-property/cooldown", "text-property/opposite-id"],
   properties: [
