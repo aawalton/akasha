@@ -4,6 +4,6 @@ export const ruleCardDestinationTier = {
   id: "01a0636c-5da1-797f-a883-3f02881c0048",
   type: "page-type/module",
   slug: "rule-card-destination-tier",
-  definition: "one step of a rule's destination chain",
+  definition: "a step of a rule's destination chain",
   code: "tsx",
 } as const satisfies Module
