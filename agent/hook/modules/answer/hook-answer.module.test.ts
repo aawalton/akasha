@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import {
   ASIDE,
-  commandIn,
   inputIn,
+  judgingCommandHook,
   LET_THROUGH,
   payloadIn,
   REFUSED,
@@ -15,40 +15,22 @@ import {
 
 const HOOK = "a-hook"
 
-function commanded(command: string): string {
-  return JSON.stringify({ tool_name: "Bash", tool_input: { command } })
+const judged = judgingCommandHook(HOOK, import.meta.path, (command) =>
+  command === "" ? null : command
+)
+
+function commanded(command: string): Record<string, unknown> {
+  return { tool_name: "Bash", tool_input: { command } }
 }
 
 test("the command is read out of the tool input", () => {
-  expect(commandIn(commanded("git stash"), "command", HOOK)).toEqual({ command: "git stash" })
+  expect(judged(commanded("git stash")).err).toBe("git stash")
 })
 
-test("a payload naming another field of the tool input reads that field", () => {
-  const raw = JSON.stringify({ tool_input: { file_path: "akasha/one.ts" } })
-  expect(commandIn(raw, "file_path", HOOK)).toEqual({ command: "akasha/one.ts" })
-})
-
-test("an empty payload is no call, and is stood aside from", () => {
-  expect(commandIn("", "command", HOOK)).toEqual({ command: "" })
-  expect(commandIn("   \n", "command", HOOK)).toEqual({ command: "" })
-})
-
-test("a tool input carrying no such field is an empty command", () => {
-  expect(commandIn(JSON.stringify({ tool_input: {} }), "command", HOOK)).toEqual({ command: "" })
-})
-
-test("a payload carrying no tool input is an empty command", () => {
-  expect(commandIn(JSON.stringify({ tool_name: "Bash" }), "command", HOOK)).toEqual({ command: "" })
-})
-
-test("a payload that will not parse is answered as unreadable, and nothing is judged", () => {
-  const said = commandIn("{ not json", "command", HOOK)
-  expect(said).toHaveProperty("answer")
-  if (!("answer" in said)) return
-  expect(said.answer.code).toBe(UNREADABLE)
-  expect(said.answer.err).toContain(HOOK)
-  expect(said.answer.err).toContain("would not parse")
-  expect(said.answer.out).toBe("")
+test("a payload carrying no call is stood aside from", () => {
+  expect(judged({})).toEqual(LET_THROUGH)
+  expect(judged({ tool_input: {} })).toEqual(LET_THROUGH)
+  expect(judged({ tool_name: "Bash" })).toEqual(LET_THROUGH)
 })
 
 test("what is said of an unreadable payload says the dispatch refuses the call", () => {
@@ -59,19 +41,10 @@ test("what is said of an unreadable payload says the dispatch refuses the call",
   expect(held.out).toBe("")
 })
 
-test("a payload that is not an object is answered as unreadable", () => {
-  for (const raw of ["[]", '"one"', "3", "null"]) {
-    const said = commandIn(raw, "command", HOOK)
-    expect(said).toHaveProperty("answer")
-    if (!("answer" in said)) continue
-    expect(said.answer.code).toBe(UNREADABLE)
-    expect(said.answer.err).toContain("not an object")
-  }
-})
-
 test("a tool input that is not an object is answered as unreadable", () => {
-  const said = commandIn(JSON.stringify({ tool_input: "git stash" }), "command", HOOK)
-  expect(said).toHaveProperty("answer")
+  const said = judged({ tool_input: "git stash" })
+  expect(said.code).toBe(UNREADABLE)
+  expect(said.err).toContain("not an object")
 })
 
 test("a field holding no text is read as the text of what it holds", () => {

@@ -23,8 +23,6 @@ export type Answer = {
   readonly code: number
 }
 
-export type Read = { readonly command: string } | { readonly answer: Answer }
-
 export const LET_THROUGH: Answer = { out: "", err: "", code: ASIDE }
 
 export function unreadable(hook: string, why: string): Answer {
@@ -46,19 +44,6 @@ export function toolInputIn(payload: unknown, key: string): string | null {
   if (input === null || input === undefined) return ""
   if (typeof input !== "object" || Array.isArray(input)) return null
   return texted((input as Record<string, unknown>)[key])
-}
-
-export function commandIn(raw: string, key: string, hook: string): Read {
-  if (raw.trim() === "") return { command: "" }
-  let payload: unknown
-  try {
-    payload = parseHookPayload(raw)
-  } catch {
-    return { answer: unreadable(hook, "the hook payload would not parse") }
-  }
-  const held = toolInputIn(payload, key)
-  if (held === null) return { answer: unreadable(hook, "the hook payload is not an object") }
-  return { command: held }
 }
 
 const REFUSAL_SHAPE = z.object({ decision: z.literal("block"), reason: z.string() })
@@ -107,16 +92,6 @@ export function said(answer: Answer): number {
   if (answer.out !== "") process.stdout.write(`${answer.out}\n`)
   if (answer.err !== "") process.stderr.write(`${answer.err}\n`)
   return answer.code
-}
-
-function fromIn(raw: string): string {
-  try {
-    const payload = parseHookPayload(raw)
-    const held = payload?.["cwd"]
-    return typeof held === "string" ? held : ""
-  } catch {
-    return ""
-  }
 }
 
 export function guarding(from: string, root: string): boolean {
@@ -192,15 +167,6 @@ export async function ranAsJudged(
   return said(await judged(read.payload))
 }
 
-export async function ranAsCommandHook(
-  hook: string,
-  scope: readonly string[],
-  at: string,
-  judging: (command: string, from: string, root: string) => string | null
-): Promise<number> {
-  return await ranAsHook(hook, "command", scope, at, judging)
-}
-
 export async function ranAsHook(
   hook: string,
   key: string,
@@ -208,13 +174,5 @@ export async function ranAsHook(
   at: string,
   judging: (command: string, from: string, root: string) => string | null
 ): Promise<number> {
-  if (Bun.argv[2] === SCOPE_FLAG) {
-    process.stdout.write(`${scope.join("\n")}\n`)
-    return ASIDE
-  }
-  const raw = await Bun.stdin.text()
-  const read = commandIn(raw, key, hook)
-  if ("answer" in read) return said(read.answer)
-  const reason = judging(read.command, fromIn(raw), rootOf(at))
-  return said(reason === null ? LET_THROUGH : refusing(reason))
+  return await ranAsJudged(hook, scope, judgingHook(hook, key, at, judging))
 }
