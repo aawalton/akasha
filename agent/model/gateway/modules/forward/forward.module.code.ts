@@ -1,13 +1,13 @@
 import {
+  copyRequestHeaders,
+  copyResponseHeaders,
+} from "akasha/agent/model/gateway/modules/gateway-headers/gateway-headers.module.code.ts"
+import {
   fetchWithIdleGuard,
   type IdleFetch,
   type IdleTimers,
 } from "akasha/agent/model/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
-import {
-  copyRequestHeaders,
-  copyResponseHeaders,
-} from "akasha/agent/model/gateway/modules/proxy-headers/proxy-headers.module.code.ts"
 import {
   pullFirstChunkAndWrap,
   type StreamClock,

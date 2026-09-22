@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/auth-failed-retry/auth-failed-retry.module.test.ts"}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/fresh-credential/fresh-credential.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/fresh-credential/fresh-credential.module.test.ts"}
+{"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"}
@@ -17,7 +18,6 @@
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.test.ts"}
-{"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/proxy-serving/proxy-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/rebind-outcome/rebind-outcome.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/server-error-retry/server-error-retry.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/server-error-retry/server-error-retry.module.test.ts"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/model/gateway/modules/proxy-entry/proxy-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/seat/supervisor/supervisor-boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.test.ts"}
 {"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}

@@ -128,6 +128,12 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/forced-tool-choice/forced-tool-choice.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/forward/forward.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/fresh-credential/fresh-credential.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/gateway-headers/gateway-headers.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/gateway-process/gateway-process.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/gateway-seat/gateway-seat.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/hold-registry/hold-registry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/idle-timeout/idle-timeout.module.ts"}
@@ -147,12 +153,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/permission-denied/permission-denied.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/proxy-entry/proxy-entry.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/proxy-headers/proxy-headers.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/proxy-process/proxy-process.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/proxy-seat/proxy-seat.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/proxy-serving/proxy-serving.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/proxy-start/proxy-start.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/queue-step/queue-step.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/rate-limit-refusal/rate-limit-refusal.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/rebind-outcome/rebind-outcome.module.ts"}
@@ -1310,7 +1310,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/measure/page/modules/page-measuring/page-measuring.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/measure/repo/modules/repo-measuring/repo-measuring.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/model/gateway/modules/live-gateway-seat/live-gateway-seat.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/model/gateway/start/modules/proxy-run/proxy-run.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/model/gateway/start/modules/gateway-run/gateway-run.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/music/capture/modules/play-row/play-row.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/music/modules/device-option/device-option.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/music/modules/playlist-keeping/playlist-keeping.module.ts"}

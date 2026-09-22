@@ -4,6 +4,6 @@
 {"propertySlug":"import","fileName":"gateway-tree-version.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-spawn-gateway/supervisor-spawn-gateway.module.code.ts"}
 {"propertySlug":"import","fileName":"gateway-tree-version.module.code.ts","path":"agent/seat/supervisor/supervisor-boot/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"}
 {"propertySlug":"import","fileName":"gateway-tree-version.module.code.ts","path":"agent/seat/supervisor/supervisor-boot/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"}
-{"propertySlug":"import","fileName":"gateway-tree-version.module.code.ts","path":"command/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"}
+{"propertySlug":"import","fileName":"gateway-tree-version.module.code.ts","path":"command/pages/model/gateway/start/modules/gateway-run/gateway-run.module.code.ts"}
 {"propertySlug":"import","fileName":"gateway-tree-version.module.code.ts","path":"command/pages/model/gateway/status/model-gateway-status.command.code.ts"}
 {"propertySlug":"parts","path":"agent/model/gateway/model-gateway.domain.ts","id":"01a06227-7bc1-72a3-8056-41b5ba88f99d"}

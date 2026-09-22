@@ -8,7 +8,7 @@ import {
   modelGatewayStart,
   wrongIn,
 } from "akasha/command/pages/model/gateway/start/model-gateway-start.command.code.ts"
-import type { RunSeams } from "akasha/command/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"
+import type { RunSeams } from "akasha/command/pages/model/gateway/start/modules/gateway-run/gateway-run.module.code.ts"
 
 const LOG_AT = "/var/tmp/run/akasha-gateway-under-test"
 

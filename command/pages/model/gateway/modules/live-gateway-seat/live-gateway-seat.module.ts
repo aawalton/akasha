@@ -17,7 +17,7 @@ export const liveGatewaySeat = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "The ordering and the liveness folding are `agent/proxy-seat`.",
+      statement: "The ordering and the liveness folding are `agent/gateway-seat`.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -11,9 +11,9 @@
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/account/modules/upkeep-stall/model-account-upkeep-stall.module.test.ts"}
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/account/modules/upkeep/model-account-upkeep.module.code.ts"}
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/gateway/modules/fresh-credential/fresh-credential.module.code.ts"}
+{"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.code.ts"}
+{"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.test.ts"}
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"}
-{"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/gateway/modules/proxy-start/proxy-start.module.code.ts"}
-{"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/gateway/modules/proxy-start/proxy-start.module.test.ts"}
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-agent/supervisor-agent.module.code.ts"}
 {"propertySlug":"import","fileName":"model-account-oauth.module.test-fixtures.ts","path":"agent/model/account/modules/oauth/model-account-oauth.module.test.ts"}
 {"propertySlug":"parts","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}

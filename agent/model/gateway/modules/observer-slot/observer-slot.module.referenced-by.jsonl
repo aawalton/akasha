@@ -4,10 +4,10 @@
 {"propertySlug":"import","fileName":"observer-slot.module.code.ts","path":"agent/model/gateway/modules/committed-keepalive/committed-keepalive.module.test.ts"}
 {"propertySlug":"import","fileName":"observer-slot.module.code.ts","path":"agent/model/gateway/modules/forward/forward.module.code.ts"}
 {"propertySlug":"import","fileName":"observer-slot.module.code.ts","path":"agent/model/gateway/modules/forward/forward.module.test.ts"}
+{"propertySlug":"import","fileName":"observer-slot.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"observer-slot.module.code.ts","path":"agent/model/gateway/modules/message-handler/message-handler.module.code.ts"}
 {"propertySlug":"import","fileName":"observer-slot.module.code.ts","path":"agent/model/gateway/modules/observer-slot/observer-slot.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"observer-slot.module.code.ts","path":"agent/model/gateway/modules/observer-slot/observer-slot.module.test.ts"}
-{"propertySlug":"import","fileName":"observer-slot.module.code.ts","path":"agent/model/gateway/modules/proxy-serving/proxy-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"observer-slot.module.code.ts","path":"agent/model/gateway/modules/server-error-retry/server-error-retry.module.code.ts"}
 {"propertySlug":"import","fileName":"observer-slot.module.code.ts","path":"agent/model/gateway/modules/server-error-retry/server-error-retry.module.test.ts"}
 {"propertySlug":"import","fileName":"observer-slot.module.test-fixtures.ts","path":"agent/model/gateway/modules/forward/forward.module.test.ts"}

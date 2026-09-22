@@ -7,7 +7,7 @@ export const modelGatewayStart = {
   definition: "the command starting a gateway on the akasha entry, apart from the fleet",
   code: "ts",
   test: "ts",
-  parts: ["module/proxy-run"],
+  parts: ["module/gateway-run"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

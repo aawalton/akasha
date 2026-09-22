@@ -11,7 +11,7 @@ import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const MODULE = "module"
 
-const ENTRYPOINT = "proxy-entry"
+const ENTRYPOINT = "gateway-entry"
 
 const CODE = "code"
 

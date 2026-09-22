@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"seat-gateway-state.module.code.ts","path":"agent/model/gateway/modules/proxy-entry/proxy-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-gateway-state.module.code.ts","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-gateway-state.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness/supervisor-gateway-liveness.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-gateway-state.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-ownership/supervisor-gateway-ownership.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-gateway-state.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"}

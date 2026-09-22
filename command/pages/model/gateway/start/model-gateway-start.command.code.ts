@@ -25,7 +25,7 @@ import {
   type RunSeams,
   saidOf,
   startedOn,
-} from "akasha/command/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"
+} from "akasha/command/pages/model/gateway/start/modules/gateway-run/gateway-run.module.code.ts"
 
 const MS = 1000
 

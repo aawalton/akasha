@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"rate-limit-refusal.module.code.ts","path":"agent/model/gateway/modules/proxy-serving/proxy-serving.module.code.ts"}
+{"propertySlug":"import","fileName":"rate-limit-refusal.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"rate-limit-refusal.module.code.ts","path":"agent/model/gateway/modules/rate-limit-refusal/rate-limit-refusal.module.test.ts"}
 {"propertySlug":"parts","path":"agent/model/gateway/model-gateway.domain.ts","id":"01a06227-7bc1-72a3-8056-41b5ba88f99d"}

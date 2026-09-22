@@ -236,7 +236,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model-account/re-enable/model-account-re-enable.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model/gateway/start/model-gateway-start.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model/gateway/start/model-gateway-start.command.test.ts"}
-{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model/gateway/start/modules/proxy-run/proxy-run.module.test.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model/gateway/start/modules/gateway-run/gateway-run.module.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model/gateway/status/model-gateway-status.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.test.ts"}

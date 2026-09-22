@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"account-walk.module.code.ts","path":"agent/model/gateway/modules/account-walk/account-walk.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"account-walk.module.code.ts","path":"agent/model/gateway/modules/account-walk/account-walk.module.test.ts"}
-{"propertySlug":"import","fileName":"account-walk.module.code.ts","path":"agent/model/gateway/modules/proxy-serving/proxy-serving.module.code.ts"}
+{"propertySlug":"import","fileName":"account-walk.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"account-walk.module.test-fixtures.ts","path":"agent/model/gateway/modules/account-walk/account-walk.module.test.ts"}
 {"propertySlug":"import","fileName":"account-walk.module.test-fixtures.ts","path":"agent/model/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.test.ts"}
 {"propertySlug":"import","fileName":"account-walk.module.test-fixtures.ts","path":"agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.test.ts"}

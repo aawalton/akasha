@@ -1,10 +1,10 @@
 {"propertySlug":"import","fileName":"transport-log.module.code.ts","path":"agent/model/gateway/modules/committed-keepalive/committed-keepalive.module.code.ts"}
 {"propertySlug":"import","fileName":"transport-log.module.code.ts","path":"agent/model/gateway/modules/forward/forward.module.code.ts"}
 {"propertySlug":"import","fileName":"transport-log.module.code.ts","path":"agent/model/gateway/modules/forward/forward.module.test.ts"}
+{"propertySlug":"import","fileName":"transport-log.module.code.ts","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"transport-log.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.code.ts"}
+{"propertySlug":"import","fileName":"transport-log.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"transport-log.module.code.ts","path":"agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"}
 {"propertySlug":"import","fileName":"transport-log.module.code.ts","path":"agent/model/gateway/modules/observer-slot/observer-slot.module.test.ts"}
-{"propertySlug":"import","fileName":"transport-log.module.code.ts","path":"agent/model/gateway/modules/proxy-entry/proxy-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"transport-log.module.code.ts","path":"agent/model/gateway/modules/proxy-serving/proxy-serving.module.code.ts"}
-{"propertySlug":"import","fileName":"transport-log.module.code.ts","path":"agent/model/gateway/modules/proxy-serving/proxy-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"transport-log.module.code.ts","path":"agent/model/gateway/modules/transport-log/transport-log.module.test.ts"}
 {"propertySlug":"parts","path":"agent/model/gateway/model-gateway.domain.ts","id":"01a06227-7bc1-72a3-8056-41b5ba88f99d"}

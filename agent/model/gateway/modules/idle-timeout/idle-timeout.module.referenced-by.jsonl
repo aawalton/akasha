@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"idle-timeout.module.code.ts","path":"agent/model/gateway/modules/forward/forward.module.code.ts"}
 {"propertySlug":"import","fileName":"idle-timeout.module.code.ts","path":"agent/model/gateway/modules/forward/forward.module.test.ts"}
+{"propertySlug":"import","fileName":"idle-timeout.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.code.ts"}
+{"propertySlug":"import","fileName":"idle-timeout.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"idle-timeout.module.code.ts","path":"agent/model/gateway/modules/idle-timeout/idle-timeout.module.test.ts"}
-{"propertySlug":"import","fileName":"idle-timeout.module.code.ts","path":"agent/model/gateway/modules/proxy-serving/proxy-serving.module.code.ts"}
-{"propertySlug":"import","fileName":"idle-timeout.module.code.ts","path":"agent/model/gateway/modules/proxy-serving/proxy-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"idle-timeout.module.code.ts","path":"agent/model/gateway/modules/retry/retry.module.code.ts"}
 {"propertySlug":"import","fileName":"idle-timeout.module.code.ts","path":"agent/model/gateway/modules/retry/retry.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"idle-timeout.module.code.ts","path":"agent/model/gateway/modules/retry/retry.module.test.ts"}

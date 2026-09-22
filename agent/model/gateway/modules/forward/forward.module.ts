@@ -39,7 +39,7 @@ export const forward = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The headers sent upstream are the copy `proxy-headers` makes.",
+      statement: "The headers sent upstream are the copy `gateway-headers` makes.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -128,7 +128,7 @@ export const forward = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The response headers are the copy `proxy-headers` makes.",
+      statement: "The response headers are the copy `gateway-headers` makes.",
     },
     {
       decisionKind: "decision-kind/departure",
