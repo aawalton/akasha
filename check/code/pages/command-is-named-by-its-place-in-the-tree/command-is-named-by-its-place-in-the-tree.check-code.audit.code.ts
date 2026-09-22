@@ -1,32 +1,45 @@
+import { dirname } from "node:path"
 import {
+  type Files,
   judgingBy,
   type Kinds,
   kindsFor,
   namedAt,
 } from "akasha/check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.decision.code.ts"
+import { commitIn, type Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const ID = "id"
 
-function pagesOfKinds(shadow: Shadow, kinds: Kinds): readonly string[] {
+function pagesOfKinds(paged: Paged, kinds: Kinds): readonly string[] {
   const found = new Set<string>()
   for (const slug of [...kinds.tree, ...kinds.modules]) {
-    for (const one of shadow.index.everyOfType(slug)) found.add(one.path)
+    for (const one of paged.index.everyOfType(slug)) found.add(one.path)
   }
   return [...found].sort()
 }
 
+function filesUnder(paths: readonly string[]): Files {
+  const held = new Map<string, string[]>()
+  for (const one of paths) {
+    const folder = dirname(one)
+    const found = held.get(folder)
+    if (found === undefined) held.set(folder, [one])
+    else found.push(one)
+  }
+  return (folder) => held.get(folder) ?? []
+}
+
 export function commandIsNamedByItsPlaceInTheTree(root: string): readonly Judged[] {
-  const shadow = shadowAt(root)
-  const kinds = kindsFor(shadow)
-  const judging = judgingBy(shadow, kinds)
+  const commit = commitIn(root)
+  const kinds = kindsFor(commit)
+  const judging = judgingBy(commit, kinds, filesUnder(commit.paths))
   const said: Judged[] = []
-  for (const path of pagesOfKinds(shadow, kinds)) {
+  for (const path of pagesOfKinds(commit, kinds)) {
     const one = namedAt(path, kinds)
     if (one === null) continue
-    const value = shadow.pageOf(path)
+    const value = commit.pageOf(path)
     const id = value === null ? null : textAt(value, ID)
     if (id === null) continue
     const reason = judging(id, path, one)

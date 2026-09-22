@@ -5,6 +5,7 @@ import {
   declaring,
   edging,
   founded,
+  tracked,
   typed,
   wrote,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
@@ -43,7 +44,7 @@ function rooted(at: string): string {
     [at]: `export const held = { id: ${JSON.stringify(CMD)}, type: "command", slug: "warbling-humming" }\n`,
   })
   edging(root, CMD, "parts", NS, NS_AT)
-  return root
+  return tracked(root)
 }
 
 test("an audit refuses a command sitting beside the namespace naming it", () => {
