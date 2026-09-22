@@ -1,5 +1,8 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
-import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
+import {
+  HOSTNAME_KEY,
+  workloadClassMemberSelector,
+} from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import {
@@ -9,8 +12,12 @@ import {
 } from "akasha/infrastructure/network/headscale/modules/configmaps/headscale-configmaps.module.code.ts"
 import { networkPolicyYaml } from "akasha/infrastructure/network/headscale/modules/network-policies/headscale-network-policies.module.code.ts"
 import {
+  BUSYBOX_IMAGE,
   CONTROL_PLANE_LABELS,
   CONTROL_PLANE_SELECTOR_LABELS,
+  DATA_CAPACITY,
+  DATA_HOST_PATH,
+  DATA_NODE,
   HEADSCALE_IMAGE,
   LITESTREAM_IMAGE,
   NAMESPACE,
@@ -54,6 +61,50 @@ const LITESTREAM_VOLUME_MOUNTS = [
   { name: "tmp", mountPath: "/tmp" },
 ]
 
+const DATA_CLAIM = "headscale-data"
+
+function dataPvYaml(): string {
+  return synthOne(NAMESPACE, "data-pv", {
+    apiVersion: "v1",
+    kind: "PersistentVolume",
+    metadata: { name: DATA_CLAIM, labels: CONTROL_PLANE_LABELS },
+    spec: {
+      capacity: { storage: DATA_CAPACITY },
+      volumeMode: "Filesystem",
+      accessModes: ["ReadWriteOnce"],
+      persistentVolumeReclaimPolicy: "Retain",
+      storageClassName: "",
+      hostPath: { path: DATA_HOST_PATH, type: "DirectoryOrCreate" },
+      claimRef: { namespace: NAMESPACE, name: DATA_CLAIM },
+      nodeAffinity: {
+        required: {
+          nodeSelectorTerms: [
+            { matchExpressions: [{ key: HOSTNAME_KEY, operator: "In", values: [DATA_NODE] }] },
+          ],
+        },
+      },
+    },
+  })
+}
+
+function dataPvcYaml(): string {
+  return synthOne(NAMESPACE, "data-pvc", {
+    apiVersion: "v1",
+    kind: "PersistentVolumeClaim",
+    metadata: {
+      name: DATA_CLAIM,
+      namespace: NAMESPACE,
+      labels: CONTROL_PLANE_LABELS,
+    },
+    spec: {
+      accessModes: ["ReadWriteOnce"],
+      storageClassName: "",
+      volumeName: DATA_CLAIM,
+      resources: { requests: { storage: DATA_CAPACITY } },
+    },
+  })
+}
+
 function statefulsetYaml(): string {
   return synthOne(NAMESPACE, "statefulset", {
     apiVersion: "apps/v1",
@@ -81,6 +132,20 @@ function statefulsetYaml(): string {
           nodeSelector: workloadClassMemberSelector("control"),
           securityContext: { fsGroup: 1000 },
           initContainers: [
+            {
+              name: "init-chown-data",
+              image: BUSYBOX_IMAGE,
+              command: ["sh", "-c", "chown -R 1000:1000 /var/lib/headscale"],
+              volumeMounts: [{ name: "data", mountPath: "/var/lib/headscale" }],
+              resources: {
+                requests: { memory: "64Mi" },
+                limits: { memory: "64Mi" },
+              },
+              securityContext: {
+                runAsNonRoot: false,
+                runAsUser: 0,
+              },
+            },
             {
               name: "litestream-restore",
               image: LITESTREAM_IMAGE,
@@ -190,7 +255,7 @@ function statefulsetYaml(): string {
             },
             { name: "run", emptyDir: {} },
             { name: "tmp", emptyDir: {} },
-            { name: "data", emptyDir: {} },
+            { name: "data", persistentVolumeClaim: { claimName: DATA_CLAIM } },
           ],
         },
       },
@@ -263,6 +328,8 @@ export default function synth(): readonly { readonly name: string; readonly yaml
     { name: "litestream-configmap", yaml: litestreamConfigmapYaml() },
     { name: "certificate", yaml: certificateYaml() },
     { name: "network-policy", yaml: networkPolicyYaml() },
+    { name: "data-pv", yaml: dataPvYaml() },
+    { name: "data-pvc", yaml: dataPvcYaml() },
     { name: "service", yaml: serviceYaml() },
     { name: "statefulset", yaml: statefulsetYaml() },
   ]

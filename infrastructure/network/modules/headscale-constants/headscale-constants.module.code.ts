@@ -18,6 +18,11 @@ const SUBNET_ROUTER_COMPONENT = "data-plane"
 export const HEADSCALE_IMAGE = "headscale/headscale:0.28.0"
 export const TAILSCALE_IMAGE = "tailscale/tailscale:v1.98.10"
 export const LITESTREAM_IMAGE = "litestream/litestream:0.5.4"
+export const BUSYBOX_IMAGE = "busybox:1.36"
+
+export const DATA_NODE = "node-05"
+export const DATA_HOST_PATH = "/var/lib/headscale-data"
+export const DATA_CAPACITY = "1Gi"
 
 export const NAMESPACE_LABELS = kubernetesLabels({
   name: APP_NAME,

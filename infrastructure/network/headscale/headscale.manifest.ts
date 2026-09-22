@@ -33,6 +33,14 @@ export const headscale = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The server's database sits on a disk of its own rather than inside the pod.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That disk is on one node, and the server runs on the node holding that disk.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The pod template carries the hash of the headscale-s3-creds secret.",
     },
     {
