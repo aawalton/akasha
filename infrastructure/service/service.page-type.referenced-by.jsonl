@@ -16,7 +16,6 @@
 {"propertySlug":"import","fileName":"service.page-type.types.ts","path":"infrastructure/service/web-app/web-app.page-type.types.ts"}
 {"propertySlug":"import","fileName":"service.page-type.types.ts","path":"infrastructure/service/workstation/service-workstation.page-type.types.ts"}
 {"propertySlug":"import","fileName":"service.page-type.types.ts","path":"temper/addon/temper-addon.page-type.types.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-dangles-the-akasha-symlink-because-nothing-in-the-change-repoints-it.finding.ts","id":"01a0921c-aa69-78ba-9005-8bdae25a6a1f"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-test-run-under-the-deploy-gates-merged-tree-measures-a-tree-no-commit-had.finding.ts","id":"01a0963d-781c-7350-9c9c-c7329124d1dc"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-unit-that-fails-and-succeeds-within-a-timer-period-is-told-to-nobody.finding.ts","id":"01a095f0-c2e1-72dc-8f86-8146fd57c1a9"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-workstation-services-runs-path-is-never-checked-against-the-checkout.finding.ts","id":"01a06358-546d-7476-bdea-920a8b70bea6"}
