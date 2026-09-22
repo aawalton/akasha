@@ -4,7 +4,7 @@ export const rruleProperty = {
   id: "01a0c507-6bf0-71a3-b7d9-5e878c5c4d9b",
   type: "page-type/page-type",
   slug: "rrule-property",
-  definition: "a page property holding a recurrence rule and what that rule counts from",
+  definition: "a page property holding a recurrence rule and that rule's starting point",
   extends: ["page-type/page-property"],
   decisions: [
     {

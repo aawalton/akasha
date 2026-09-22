@@ -5,7 +5,7 @@ export const viewPredicate = {
   type: "page-type/text-property",
   slug: "view-predicate",
   propertySlug: "view-predicate",
-  definition: "the named test a cross-type view draws by",
+  definition: "the named test drawing a cross-type view",
   maxLength: 100,
   nameFormat: null,
   decisions: [

@@ -5,7 +5,7 @@ export const propertySlug = {
   type: "page-type/text-property",
   slug: "property-slug",
   propertySlug: "property-slug",
-  definition: "the key a page has this property's value under",
+  definition: "the key of this property's value on a page",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

@@ -4,7 +4,7 @@ export const deviceSecretBody = {
   id: "01a05b54-a905-71cf-a52e-7ce099efef28",
   type: "page-type/module",
   slug: "device-secret-body",
-  definition: "the bodies the device secret routes take and answer with",
+  definition: "the bodies the device secret routes take and answer",
   code: "ts",
   test: "ts",
   decisions: [
