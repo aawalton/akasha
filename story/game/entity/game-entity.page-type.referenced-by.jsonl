@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"game-entity.page-type.ts","path":"story/game/entity/modules/sheet-reading/sheet-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"game-entity.page-type.ts","path":"story/game/entity/modules/sheet-reading/sheet-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"game-entity.page-type.ts","path":"story/game/modules/world-filing/world-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"game-entity.page-type.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx"}
 {"propertySlug":"import","fileName":"game-entity.page-type.types.ts","path":"story/game/pages/harem-hotel/entities/harem-hotel-alan.game-entity.ts"}
 {"propertySlug":"import","fileName":"game-entity.page-type.types.ts","path":"story/game/pages/harem-hotel/entities/harem-hotel-aria.game-entity.ts"}
 {"propertySlug":"import","fileName":"game-entity.page-type.types.ts","path":"story/game/pages/harem-hotel/entities/harem-hotel-doorward.game-entity.ts"}

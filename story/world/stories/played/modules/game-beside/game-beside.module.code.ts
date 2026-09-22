@@ -7,10 +7,6 @@ import {
   type ResolvedGameDisplay,
   resolveGameDisplay,
 } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
-import {
-  type GameState,
-  GameStateSchema,
-} from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
 import { useEffect, useState } from "react"
 
 const GAME_PAGE_TYPE_SLUG = "game"
@@ -23,18 +19,16 @@ const GAME_ENGINE_KEY = "gameEngine"
 
 const DISPLAY_CONFIG_KEY = "displayConfig"
 
-const STATES_KEY = "states"
+const PLAYER_KEY = "player"
 
 const PANELS_KEY = "panels"
 
 const DISPLAY_CONFIG_ENDING = "json"
 
-const STATES_ENDING = "jsonl"
-
 export interface GameBeside {
   readonly externalId: string | undefined
   readonly display: ResolvedGameDisplay | null
-  readonly state: GameState | null
+  readonly player: string | undefined
   readonly panels: readonly string[]
 }
 
@@ -72,12 +66,6 @@ function jsonIn(body: string | null): unknown {
   }
 }
 
-function lastRowIn(body: string | null): string | null {
-  if (body === null) return null
-  const rows = body.split("\n").filter((row) => row.trim() !== "")
-  return rows.at(-1) ?? null
-}
-
 function displayIn(
   body: string | null,
   gameEngine: string | undefined
@@ -86,17 +74,12 @@ function displayIn(
   return read.success ? resolveGameDisplay(read.data, gameEngine) : null
 }
 
-function stateIn(body: string | null): GameState | null {
-  const read = GameStateSchema.safeParse(jsonIn(lastRowIn(body)))
-  return read.success ? read.data : null
-}
-
 async function readGameBeside(slug: string): Promise<GameBesideRead> {
   const asked = await askComposed({
     "page-type": GAME_PAGE_TYPE_SLUG,
     where: { slug: { is: slug } },
-    keys: [SLUG_KEY, EXTERNAL_ID_KEY, GAME_ENGINE_KEY, DISPLAY_CONFIG_KEY, STATES_KEY, PANELS_KEY],
-    files: [DISPLAY_CONFIG_KEY, STATES_KEY],
+    keys: [SLUG_KEY, EXTERNAL_ID_KEY, GAME_ENGINE_KEY, DISPLAY_CONFIG_KEY, PLAYER_KEY, PANELS_KEY],
+    files: [DISPLAY_CONFIG_KEY],
   })
   if (!asked.ok) return { kind: "unread", why: asked.why }
   const values = asked.answer.rows[0]?.values
@@ -107,7 +90,7 @@ async function readGameBeside(slug: string): Promise<GameBesideRead> {
     beside: {
       externalId: textIn(values, EXTERNAL_ID_KEY),
       display: displayIn(bodyIn(values, DISPLAY_CONFIG_KEY, DISPLAY_CONFIG_ENDING), gameEngine),
-      state: stateIn(bodyIn(values, STATES_KEY, STATES_ENDING)),
+      player: textIn(values, PLAYER_KEY),
       panels: namesIn(values, PANELS_KEY),
     },
   }

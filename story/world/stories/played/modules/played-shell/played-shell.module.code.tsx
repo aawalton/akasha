@@ -1,6 +1,6 @@
 "use client"
 
-import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import {
@@ -8,6 +8,8 @@ import {
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { gameEntity } from "akasha/story/game/entity/game-entity.page-type.ts"
+import { game } from "akasha/story/game/game.page-type.ts"
 import type { PanelRun } from "akasha/story/game/panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
   shownIn,
@@ -17,6 +19,8 @@ import { above } from "akasha/story/game/panel/panel-place/pages/above.panel-pla
 import { aside } from "akasha/story/game/panel/panel-place/pages/aside.panel-place.ts"
 import { run } from "akasha/story/game/panel/panel-place/pages/run.panel-place.ts"
 import { panelPlace } from "akasha/story/game/panel/panel-place/panel-place.page-type.ts"
+import { gameTurn } from "akasha/story/game/turn/game-turn.page-type.ts"
+import { stateOf } from "akasha/story/game/turn/modules/turn-state/turn-state.module.code.ts"
 import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-drawer.module.code.tsx"
 import { useGameBeside } from "akasha/story/world/stories/played/modules/game-beside/game-beside.module.code.ts"
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
@@ -59,8 +63,22 @@ const ASIDE = namedAs(panelPlace.slug, aside.slug, null)
 
 const RUN = namedAs(panelPlace.slug, run.slug, null)
 
+const GAME_KEY = "game"
+
+const NUMBER_KEY = "number"
+
+const SLUG_KEY = "slug"
+
+const ONE = 1
+
 function textIn(value: unknown): string {
   return typeof value === "string" ? value : ""
+}
+
+function slugOf(address: string | undefined): string {
+  if (address === undefined) return ""
+  const named = addressIn(address)
+  return named.kind === "qualified" ? named.slug : address
 }
 
 export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; id: string }) {
@@ -69,6 +87,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   const title = textIn(data.title)
   const slug = textIn(data.slug)
   const storyAddress = namedAs(pageTypeSlug, slug, null)
+  const gameAddress = namedAs(game.slug, slug, null)
 
   const chapterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -100,7 +119,29 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
 
   const beside = useGameBeside(slug)
   const display = beside.kind === "read" ? beside.beside.display : null
-  const state = beside.kind === "read" ? beside.beside.state : null
+  const playerSlug = slugOf(beside.kind === "read" ? beside.beside.player : undefined)
+  const gameTurnOptions = useMemo<UsePagesSupabaseOptions>(
+    () => ({
+      pageTypeSlug: gameTurn.slug,
+      where: [{ key: GAME_KEY, eq: gameAddress }],
+      order: [{ by: NUMBER_KEY, dir: "asc" }],
+    }),
+    [gameAddress]
+  )
+  const playerOptions = useMemo<UsePagesSupabaseOptions>(
+    () => ({
+      pageTypeSlug: gameEntity.slug,
+      where: [{ key: SLUG_KEY, eq: playerSlug }],
+      limit: ONE,
+    }),
+    [playerSlug]
+  )
+  const gameTurns = usePages(gameTurnOptions)
+  const players = usePages(playerOptions)
+  const state = useMemo(
+    () => stateOf(gameTurns.rows, players.rows[0] ?? null),
+    [gameTurns.rows, players.rows]
+  )
   const externalId = beside.kind === "read" ? beside.beside.externalId : undefined
   const shown = usePanelsDrawn(beside.kind === "read" ? beside.beside.panels : [])
 
@@ -131,7 +172,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
     [envelope, modules, hrefById, tail, externalId]
   )
 
-  if (chapters.isLoading || turns.isLoading) return null
+  if (chapters.isLoading || turns.isLoading || gameTurns.isLoading) return null
   if (tail.drawn.length === 0) return null
 
   const drawnAside = shownIn(shown, ASIDE)
