@@ -157,6 +157,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"monarch-category","unique":null,"uniquePropertySlug":null,"slug":"transaction-category","propertySlug":"category","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"monarch-tag","unique":null,"uniquePropertySlug":null,"slug":"transaction-tags","propertySlug":"tags","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"color","unique":null,"uniquePropertySlug":null,"slug":"turn-state-color","propertySlug":"color","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"story","unique":null,"uniquePropertySlug":null,"slug":"turn-story","propertySlug":"story","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"unique-kind","unique":null,"uniquePropertySlug":null,"slug":"unique","propertySlug":"unique","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"unique-property","propertySlug":"unique-property","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"value","propertySlug":"value","fileName":null,"folderName":null}

@@ -19,6 +19,7 @@ export const story = {
     "page-type/chapter",
     "page-type/character",
     "page-type/mechanic",
+    "page-type/turn",
     "page-type/world",
   ],
   properties: [
