@@ -10,8 +10,8 @@
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/temper-core/temper-events/modules/next-boss-menu/next-boss-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-settings-menu/housing-settings-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-settings-menu/fco-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-settings-menu/quiet-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-settings-menu/tweak-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/world/navigation/modules/destinations-settings-init/destinations-settings-init.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-pin-sizes/minimap-pin-sizes.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-settings-panel/minimap-settings-panel.module.code.ts"}

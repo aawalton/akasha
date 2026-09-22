@@ -71,13 +71,6 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-chat-capture/housing-chat-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-init/housing-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/assistant-entry/assistant-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-chat/fco-chat.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-crafting/fco-crafting.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-entry/fco-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-group/fco-group.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-mail-events/fco-mail-events.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-map/fco-map.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-sounds/fco-sounds.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-alerts/quiet-alerts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-announcements/quiet-announcements.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
@@ -87,6 +80,13 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-world/quiet-world.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/shifter-drag-helpers/shifter-drag-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-chat/tweak-chat.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-crafting/tweak-crafting.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-entry/tweak-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-group/tweak-group.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-events/tweak-mail-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-map/tweak-map.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-sounds/tweak-sounds.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-keybind-events/keybinder-keybind-events.module.code.ts"}

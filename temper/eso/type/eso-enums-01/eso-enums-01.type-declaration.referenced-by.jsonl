@@ -97,10 +97,10 @@
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-events/trading-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-chat/fco-chat.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-chat/tweak-chat.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-collectibles-tooltips/tweak-collectibles-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-skill-action-bar-timers/tweak-skill-action-bar-timers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-alliance-colors/map-pins-alliance-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-item-events/map-pins-item-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-state/minimap-state.module.code.ts"}

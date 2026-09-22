@@ -7,7 +7,7 @@
 {"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-lock-overlay/inventory-lock-overlay.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-panel-options/addon-menu-panel-options.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-inventory/fco-inventory.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-inventory/tweak-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-dropdown-class-refresh/scrollable-menu-dropdown-class-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-dropdown-nested-submenu-checks/scrollable-menu-dropdown-nested-submenu-checks.module.code.ts"}

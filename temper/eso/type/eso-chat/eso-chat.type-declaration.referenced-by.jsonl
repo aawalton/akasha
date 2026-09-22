@@ -21,8 +21,8 @@
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-events/modules/next-boss-events/next-boss-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-context-menu/housing-context-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-visit-card-send/housing-visit-card-send.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-chat/fco-chat.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-print/quiet-print.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-chat/tweak-chat.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-language/destinations-pins-language.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-on-load/map-pins-on-load.module.code.ts"}

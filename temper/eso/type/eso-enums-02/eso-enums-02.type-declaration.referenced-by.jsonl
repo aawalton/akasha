@@ -13,12 +13,12 @@
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/rune-panel/rune-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-auto-maintenance/inventory-auto-maintenance.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-chat/fco-chat.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-panel-progression/fco-panel-progression.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-settings-defaults/fco-settings-defaults.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-stable/fco-stable.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-guild-invites/quiet-guild-invites.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-world/quiet-world.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-chat/tweak-chat.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-panel-progression/tweak-panel-progression.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-settings-defaults/tweak-settings-defaults.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-stable/tweak-stable.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-combobox-base-select/scrollable-menu-combobox-base-select.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-combobox-base/scrollable-menu-combobox-base.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

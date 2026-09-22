@@ -578,7 +578,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-library-data-eu/housing-library-data-eu.module.ts","id":"01a06113-b7ce-77ca-bda6-f521aa196130"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-library-data-na/housing-library-data-na.module.ts","id":"01a06113-b7d1-7e85-b730-9398c3972952"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-interface/modules/assistant-collectibles/assistant-collectibles.module.ts","id":"01a060e7-1beb-7c7c-8f92-e0f5d84c2110"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-global/fco-global.module.ts","id":"01a06115-1ac8-7d12-a18b-e1aa7e8aafeb"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-global/tweak-global.module.ts","id":"01a06115-1ac8-7d12-a18b-e1aa7e8aafeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-keybinder/temper-keybinder.domain.ts","id":"01a0c714-5feb-711a-9cd3-b64a8d77564d"}

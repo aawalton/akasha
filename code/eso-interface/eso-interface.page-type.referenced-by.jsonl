@@ -15,10 +15,10 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/items/lib-sets-search-ui-shared-xml/lib-sets-search-ui-shared-xml.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/items/potion-maker-layout/potion-maker-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/items/sales-history-cache-controls/sales-history-cache-controls.eso-interface.ts"}
-{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/temper-core/fcocs-virtuals/fcocs-virtuals.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/temper-core/next-boss-layout/next-boss-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/temper-core/scrollable-menu-controls/scrollable-menu-controls.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/temper-core/shifter-box-template/shifter-box-template.eso-interface.ts"}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/temper-core/tweak-virtuals/tweak-virtuals.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/world/antiquities/leads-layout/leads-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/world/collections/item-browser-layout/item-browser-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/world/collections/journal-controls/journal-controls.eso-interface.ts"}

@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const fcoMail = {
-  id: "01a06115-1ace-7984-a930-3d9ebdabf2d9",
-  type: "page-type/module",
-  slug: "fco-mail",
-  definition: "the mail window the interface tweaks change",
-  code: "ts",
-} as const satisfies Module

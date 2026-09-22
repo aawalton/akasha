@@ -202,11 +202,6 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-holder-types/housing-holder-types.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-slash/housing-slash.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-window-controls/housing-window-controls.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-bank/fco-bank.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-inventory/fco-inventory.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-mail-data/fco-mail-data.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-panel-storage/fco-panel-storage.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-skills/fco-skills.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-map-pins/quiet-map-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/shifter-box-class/shifter-box-class.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/shifter-box-create/shifter-box-create.module.code.ts"}
@@ -218,6 +213,11 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/shifter-list-ops/shifter-list-ops.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/shifter-state/shifter-state.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/shifter-types/shifter-types.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-bank/tweak-bank.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-inventory/tweak-inventory.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-data/tweak-mail-data.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-panel-storage/tweak-panel-storage.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-skills/tweak-skills.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/addon-keybinds-menu-entry/addon-keybinds-menu-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-casts/main-menu-casts.module.code.ts"}

@@ -1,0 +1,9 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const tweakMailStore = {
+  id: "01a06115-1ace-7423-9d25-82374ab4b605",
+  type: "page-type/module",
+  slug: "tweak-mail-store",
+  definition: "the mail rows the interface tweaks hold in memory",
+  code: "ts",
+} as const satisfies Module

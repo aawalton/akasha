@@ -10,7 +10,7 @@
 {"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-hud-fields/inventory-hud-fields.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-public-api/hud-addon-public-api.module.code.ts"}
-{"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-ui/fco-ui.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-ui/tweak-ui.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-selector/modules/selector-slash-command/selector-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-global.type-declaration.d.ts","path":"temper/addon/pages/world/quests/modules/quests-slash-command/quests-slash-command.module.code.ts"}

@@ -1,0 +1,9 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const tweakMailContextMenu = {
+  id: "01a06115-1acb-7588-b272-dade87a6eff2",
+  type: "page-type/module",
+  slug: "tweak-mail-context-menu",
+  definition: "the mail context menu the interface tweaks build",
+  code: "ts",
+} as const satisfies Module

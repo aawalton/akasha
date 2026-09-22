@@ -1,4 +1,4 @@
 {"propertySlug":"import","fileName":"eso-inventory-containers.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-player-state/craft-player-state.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-inventory-containers.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-inventory-scrollbar/fco-inventory-scrollbar.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-inventory-containers.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-mail-buttons/fco-mail-buttons.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-inventory-containers.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-inventory-scrollbar/tweak-inventory-scrollbar.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-inventory-containers.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-buttons/tweak-mail-buttons.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

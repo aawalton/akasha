@@ -25,7 +25,7 @@ export const temperCore = {
     "domain/temper-notification",
     "domain/temper-scrollable-menu",
     "domain/temper-selector",
-    "eso-interface/fcocs-virtuals",
+    "eso-interface/tweak-virtuals",
     "eso-interface/next-boss-layout",
     "eso-interface/scrollable-menu-controls",
     "eso-interface/shifter-box-template",
@@ -52,7 +52,7 @@ export const temperCore = {
     "eso-interface/scrollable-menu-controls",
     "eso-interface/shifter-box-template",
     "eso-interface/next-boss-layout",
-    "eso-interface/fcocs-virtuals",
+    "eso-interface/tweak-virtuals",
   ],
   decisions: [
     {

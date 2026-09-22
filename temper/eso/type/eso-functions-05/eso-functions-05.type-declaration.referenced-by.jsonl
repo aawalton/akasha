@@ -38,11 +38,11 @@
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master-smithing/inventory-writ-crafting-master-smithing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-provisioning/inventory-writ-crafting-provisioning.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-smithing/inventory-writ-crafting-smithing.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-group/fco-group.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-mail-mass-delete/fco-mail-mass-delete.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-settings-messages/quiet-settings-messages.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-world/quiet-world.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-group/tweak-group.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-mass-delete/tweak-mail-mass-delete.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-callbacks-loot/map-pins-callbacks-loot.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-compass-pins/map-pins-compass-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-pin-add/map-pins-pin-add.module.code.ts"}

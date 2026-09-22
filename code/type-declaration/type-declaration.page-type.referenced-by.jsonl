@@ -57,9 +57,9 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-housing/housing-ptf-publish-declarations/housing-ptf-publish-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-interface/assistant-entry-declarations/assistant-entry-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-interface/fco-controls/fco-controls.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-interface/fco-global-declarations/fco-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-interface/quiet-camera-keybind-declarations/quiet-camera-keybind-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-interface/tweak-controls/tweak-controls.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-interface/tweak-global-declarations/tweak-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-keybinder/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-keybinder/keybinder-declarations/keybinder-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-notification/notification-declarations/notification-declarations.type-declaration.ts"}

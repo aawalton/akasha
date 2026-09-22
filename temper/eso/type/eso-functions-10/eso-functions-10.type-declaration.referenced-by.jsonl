@@ -17,7 +17,7 @@
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-ui/fco-ui.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-ui/tweak-ui.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-alerts/leads-alerts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tooltips/journal-tooltips.module.code.ts"}

@@ -29,13 +29,13 @@
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-custom-menu/modules/custom-menu-casts/custom-menu-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-custom-menu/modules/submenu-text-colors/submenu-text-colors.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-inventory/fco-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-guild-invites/quiet-guild-invites.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-raid-leaderboard/quiet-raid-leaderboard.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-settings-guilds/quiet-settings-guilds.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-settings-header/quiet-settings-header.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-collectibles-mounts/tweak-collectibles-mounts.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-collectibles-tooltips/tweak-collectibles-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-inventory/tweak-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"}

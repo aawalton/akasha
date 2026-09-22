@@ -7,8 +7,8 @@
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events/crafting-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-inventory/potion-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-events/modules/next-boss-gui/next-boss-gui.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-inventory/fco-inventory.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-map/fco-map.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-inventory/tweak-inventory.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-map/tweak-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-events/map-data-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-lib/map-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}

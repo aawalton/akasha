@@ -1,0 +1,15 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const tweakUi = {
+  id: "01a06115-1ad8-7a5e-a9fb-cd52f4b41690",
+  type: "page-type/module",
+  slug: "tweak-ui",
+  definition: "the promotional event tracker the interface tweaks move",
+  code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No shared guard is kept for the type each guard here narrows to.",
+    },
+  ],
+} as const satisfies Module

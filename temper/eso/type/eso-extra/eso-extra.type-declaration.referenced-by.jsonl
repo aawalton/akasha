@@ -32,8 +32,8 @@
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-visit-card-send/housing-visit-card-send.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-visit-cards-interact/housing-visit-cards-interact.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/assistant-bindings/assistant-bindings.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/shifter-box-class/shifter-box-class.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-collectibles-tooltips/tweak-collectibles-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-dropdown-header/scrollable-menu-dropdown-header.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-map-adapter/gps-map-adapter.module.code.ts"}
