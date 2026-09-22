@@ -12,7 +12,7 @@ export const zadi = {
   portrait: "md",
   appearance: "md",
   role: "role/companion",
-  valueSlug: "learn",
+  value: "learn",
   origin: "origin-kind/human",
   email: "zadi@alanwalton.com",
   championedDomain: "domain/literature",

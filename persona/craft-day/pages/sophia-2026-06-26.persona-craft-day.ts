@@ -7,7 +7,7 @@ export const sophia20260626 = {
   title: "Sophia — 2026-06-26",
   persona: "persona/sophia",
   date: "2026-06-26",
-  valueSlug: "love",
+  value: "love",
   icon: "file-text",
   personasCrafted: ["persona/natalie", "persona/elaine", "persona/nova", "persona/talia"],
   newPersonaCount: 4,

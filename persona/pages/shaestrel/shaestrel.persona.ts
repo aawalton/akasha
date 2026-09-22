@@ -11,7 +11,7 @@ export const shaestrel = {
   portrait: "md",
   appearance: "md",
   role: "role/coach",
-  valueSlug: "health",
+  value: "health",
   origin: "origin-kind/canon",
   email: "shaestrel@alanwalton.com",
   championedDomain: "domain/style",

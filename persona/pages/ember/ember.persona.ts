@@ -12,7 +12,7 @@ export const ember = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  valueSlug: "wealth",
+  value: "wealth",
   origin: "origin-kind/greek",
   email: "ember@alanwalton.com",
   championedDomain: "domain/temper",

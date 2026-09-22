@@ -11,7 +11,7 @@ export const aria = {
   portrait: "md",
   appearance: "md",
   role: "role/game-master",
-  valueSlug: "fun",
+  value: "fun",
   origin: "origin-kind/welsh",
   email: "aria@alanwalton.com",
   voiceInstruction:

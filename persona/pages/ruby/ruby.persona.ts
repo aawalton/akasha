@@ -11,7 +11,7 @@ export const ruby = {
   portrait: "md",
   appearance: "md",
   role: "role/coach",
-  valueSlug: "love",
+  value: "love",
   origin: "origin-kind/invented",
   email: "ruby@alanwalton.com",
   championedDomain: "domain/romance",

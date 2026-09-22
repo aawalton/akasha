@@ -11,7 +11,7 @@ export const astra = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  valueSlug: "wealth",
+  value: "wealth",
   origin: "origin-kind/invented",
   email: "astra@alanwalton.com",
   championedDomain: "page-type/page",

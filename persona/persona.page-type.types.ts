@@ -28,7 +28,7 @@ export type Persona = Domain & {
   portrait?: Portrait
   appearance?: Appearance
   role?: Role
-  valueSlug?: ValueSlug
+  value?: ValueSlug
   origin?: Origin
   email?: EmailAddress
   phone?: Phone

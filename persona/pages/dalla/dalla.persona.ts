@@ -33,7 +33,7 @@ export const dalla = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  valueSlug: "wealth",
+  value: "wealth",
   origin: "origin-kind/norse",
   email: "dalla@alanwalton.com",
   championedDomain: "page-type/change",

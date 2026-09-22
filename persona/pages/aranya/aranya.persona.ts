@@ -11,7 +11,7 @@ export const aranya = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  valueSlug: "wealth",
+  value: "wealth",
   origin: "origin-kind/invented",
   email: "aranya@alanwalton.com",
   championedDomain: "domain/infrastructure",

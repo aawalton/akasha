@@ -11,7 +11,7 @@ export const mari = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  valueSlug: "fun",
+  value: "fun",
   origin: "origin-kind/welsh",
   email: "mari@alanwalton.com",
   championedDomain: "domain/arousal",

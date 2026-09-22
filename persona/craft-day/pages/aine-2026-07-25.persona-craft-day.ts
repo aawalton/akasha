@@ -7,7 +7,7 @@ export const aine20260725 = {
   title: "aine 2026-07-25",
   persona: "persona/aine",
   date: "2026-07-25",
-  valueSlug: "wealth",
+  value: "wealth",
   icon: "file-text",
   advanceCount: 0,
 } as const satisfies PersonaCraftDay

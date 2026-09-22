@@ -11,7 +11,7 @@ export const thea = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  valueSlug: "wealth",
+  value: "wealth",
   origin: "origin-kind/greek",
   email: "thea@alanwalton.com",
   championedDomain: "domain/check",

@@ -14,7 +14,7 @@ export type PersonaCraftDay = Page & {
   title: Title
   persona: CraftDayPersona
   date: PersonaCraftDayDate
-  valueSlug: ValueSlug
+  value: ValueSlug
   icon?: Icon
   personasCrafted?: PersonasCrafted
   newPersonaCount?: NewPersonaCount

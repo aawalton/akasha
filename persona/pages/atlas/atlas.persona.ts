@@ -11,7 +11,7 @@ export const atlas = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  valueSlug: "wealth",
+  value: "wealth",
   origin: "origin-kind/greek",
   email: "atlas@alanwalton.com",
   championedDomain: "domain/atlas-app",

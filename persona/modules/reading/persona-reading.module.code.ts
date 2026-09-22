@@ -26,7 +26,7 @@ export interface Persona {
   readonly purpose: string | null
   readonly portraitPath: string | null
   readonly roleSlug: string | null
-  readonly valueSlug: string | null
+  readonly value: string | null
   readonly origin: string | null
   readonly email: string | null
   readonly championedDomainSlug: string | null
@@ -76,7 +76,7 @@ function personaFrom(root: string, listed: Listed): Persona {
     purpose: textAt(value, "purpose"),
     portraitPath: portraitIn(listed.path, value),
     roleSlug: slugAt(value, "role"),
-    valueSlug: textAt(value, "valueSlug"),
+    value: textAt(value, "value"),
     origin: textAt(value, "origin"),
     email: textAt(value, "email"),
     championedDomainSlug: slugAt(value, "championedDomain"),

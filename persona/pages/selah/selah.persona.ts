@@ -11,7 +11,7 @@ export const selah = {
   portrait: "md",
   appearance: "md",
   role: "role/companion",
-  valueSlug: "faith",
+  value: "faith",
   origin: "origin-kind/hebrew",
   email: "selah@alanwalton.com",
   championedDomain: "domain/prayer",

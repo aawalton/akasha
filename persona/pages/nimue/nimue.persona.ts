@@ -11,7 +11,7 @@ export const nimue = {
   portrait: "md",
   appearance: "md",
   role: "role/definer",
-  valueSlug: "wealth",
+  value: "wealth",
   origin: "origin-kind/human",
   email: "nimue@alanwalton.com",
   championedDomain: "domain/technology",
