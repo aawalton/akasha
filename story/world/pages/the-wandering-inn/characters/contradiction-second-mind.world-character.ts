@@ -6,6 +6,7 @@ export const contradictionSecondMind = {
   slug: "contradiction-second-mind",
   title: "Contradiction",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 618,
   lastChapter: 618,
   characterClaims: "jsonl",

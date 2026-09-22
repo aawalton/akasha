@@ -6,6 +6,7 @@ export const dakelos = {
   slug: "dakelos",
   title: "Admiral Dakelos",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 731,
   lastChapter: 731,
   characterClaims: "jsonl",

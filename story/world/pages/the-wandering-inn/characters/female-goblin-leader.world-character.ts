@@ -6,6 +6,7 @@ export const femaleGoblinLeader = {
   slug: "female-goblin-leader",
   title: "the female Goblin leader",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 155,
   lastChapter: 155,
   characterClaims: "jsonl",

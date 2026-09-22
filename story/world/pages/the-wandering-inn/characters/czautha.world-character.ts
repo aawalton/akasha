@@ -6,6 +6,7 @@ export const czautha = {
   slug: "czautha",
   title: "Czautha",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 523,
   lastChapter: 710,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const curulac = {
   slug: "curulac",
   title: "Curulac",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 157,
   lastChapter: 157,
   characterClaims: "jsonl",

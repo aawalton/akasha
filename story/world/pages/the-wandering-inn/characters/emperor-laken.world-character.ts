@@ -6,6 +6,7 @@ export const emperorLaken = {
   slug: "emperor-laken",
   title: "Laken",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 264,
   lastChapter: 264,
   characterClaims: "jsonl",

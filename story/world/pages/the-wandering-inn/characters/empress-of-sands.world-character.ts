@@ -6,6 +6,7 @@ export const empressOfSands = {
   slug: "empress-of-sands",
   title: "the Empress of Sands",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 398,
   lastChapter: 398,
   characterClaims: "jsonl",

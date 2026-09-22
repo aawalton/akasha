@@ -6,6 +6,7 @@ export const cognita = {
   slug: "cognita",
   title: "Cognita",
   world: "world/the-wandering-inn",
+  appearanceCount: 12,
   firstChapter: 158,
   lastChapter: 796,
   characterClaims: "jsonl",

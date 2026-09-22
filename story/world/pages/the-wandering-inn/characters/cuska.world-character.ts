@@ -6,6 +6,7 @@ export const cuska = {
   slug: "cuska",
   title: "Cuska",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 815,
   lastChapter: 815,
   characterClaims: "jsonl",

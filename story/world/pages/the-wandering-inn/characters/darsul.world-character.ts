@@ -6,6 +6,7 @@ export const darsul = {
   slug: "darsul",
   title: "Darsul",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 487,
   lastChapter: 487,
   characterClaims: "jsonl",

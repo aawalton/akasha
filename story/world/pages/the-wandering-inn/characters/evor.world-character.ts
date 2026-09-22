@@ -6,6 +6,7 @@ export const evor = {
   slug: "evor",
   title: "Evor",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 815,
   lastChapter: 815,
   characterClaims: "jsonl",

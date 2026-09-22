@@ -6,6 +6,7 @@ export const dramaw = {
   slug: "dramaw",
   title: "Dramaw",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 501,
   lastChapter: 501,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const errifJealwind = {
   slug: "errif-jealwind",
   title: "Errif Jealwind",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 241,
   lastChapter: 241,
   characterClaims: "jsonl",

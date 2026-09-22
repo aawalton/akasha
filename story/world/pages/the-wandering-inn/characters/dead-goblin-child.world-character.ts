@@ -6,6 +6,7 @@ export const deadGoblinChild = {
   slug: "dead-goblin-child",
   title: "the hanged Goblin child",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 214,
   lastChapter: 214,
   characterClaims: "jsonl",

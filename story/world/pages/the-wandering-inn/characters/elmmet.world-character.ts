@@ -6,6 +6,7 @@ export const elmmet = {
   slug: "elmmet",
   title: "Master Elmmet",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 351,
   lastChapter: 351,
   characterClaims: "jsonl",

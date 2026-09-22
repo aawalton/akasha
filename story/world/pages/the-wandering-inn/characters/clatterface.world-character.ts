@@ -6,6 +6,7 @@ export const clatterface = {
   slug: "clatterface",
   title: "Clatterface",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 731,
   lastChapter: 731,
   characterClaims: "jsonl",

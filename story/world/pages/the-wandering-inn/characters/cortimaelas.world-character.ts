@@ -6,6 +6,7 @@ export const cortimaelas = {
   slug: "cortimaelas",
   title: "Cortimaelas",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 600,
   lastChapter: 600,
   characterClaims: "jsonl",

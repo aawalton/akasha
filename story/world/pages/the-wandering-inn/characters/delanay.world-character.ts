@@ -6,6 +6,7 @@ export const delanay = {
   slug: "delanay",
   title: "Delanay d'Artien",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 430,
   lastChapter: 430,
   characterClaims: "jsonl",

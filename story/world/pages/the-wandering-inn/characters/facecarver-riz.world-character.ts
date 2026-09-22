@@ -6,6 +6,7 @@ export const facecarverRiz = {
   slug: "facecarver-riz",
   title: "Facecarver Riz",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 752,
   lastChapter: 752,
   characterClaims: "jsonl",

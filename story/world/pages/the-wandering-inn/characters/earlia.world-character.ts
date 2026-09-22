@@ -6,6 +6,7 @@ export const earlia = {
   slug: "earlia",
   title: "Earlia",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 268,
   lastChapter: 708,
   characterClaims: "jsonl",

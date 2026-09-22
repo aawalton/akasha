@@ -6,6 +6,7 @@ export const dukeRhisveri = {
   slug: "duke-rhisveri",
   title: "Rhisveri",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 527,
   lastChapter: 527,
   characterClaims: "jsonl",

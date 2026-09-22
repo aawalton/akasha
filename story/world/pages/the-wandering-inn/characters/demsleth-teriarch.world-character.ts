@@ -6,6 +6,7 @@ export const demslethTeriarch = {
   slug: "demsleth-teriarch",
   title: "Demsleth",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 707,
   lastChapter: 707,
   characterClaims: "jsonl",

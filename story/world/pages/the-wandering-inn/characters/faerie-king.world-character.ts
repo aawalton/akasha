@@ -6,6 +6,7 @@ export const faerieKing = {
   slug: "faerie-king",
   title: "Faerie King",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 480,
   lastChapter: 724,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const emirYazdil = {
   slug: "emir-yazdil",
   title: "Emir Yazdil",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 487,
   lastChapter: 799,
   characterClaims: "jsonl",

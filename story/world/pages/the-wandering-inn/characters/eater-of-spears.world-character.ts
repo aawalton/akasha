@@ -6,6 +6,7 @@ export const eaterOfSpears = {
   slug: "eater-of-spears",
   title: "Eater of Spears",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 232,
   lastChapter: 301,
   characterClaims: "jsonl",

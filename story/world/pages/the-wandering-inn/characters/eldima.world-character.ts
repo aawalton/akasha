@@ -6,6 +6,7 @@ export const eldima = {
   slug: "eldima",
   title: "Eldima",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 315,
   lastChapter: 331,
   characterClaims: "jsonl",

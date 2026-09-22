@@ -6,6 +6,7 @@ export const colovt = {
   slug: "colovt",
   title: "Farmer Colovt",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 624,
   lastChapter: 808,
   characterClaims: "jsonl",

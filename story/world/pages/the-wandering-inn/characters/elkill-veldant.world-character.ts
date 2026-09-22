@@ -6,6 +6,7 @@ export const elkillVeldant = {
   slug: "elkill-veldant",
   title: "Elkill",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 366,
   lastChapter: 366,
   characterClaims: "jsonl",

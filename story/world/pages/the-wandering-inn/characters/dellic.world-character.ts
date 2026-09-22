@@ -6,6 +6,7 @@ export const dellic = {
   slug: "dellic",
   title: "Dellic",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 457,
   lastChapter: 457,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const etrettaFulvrie = {
   slug: "etretta-fulvrie",
   title: "Etretta Fulvrie",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 196,
   lastChapter: 196,
   characterClaims: "jsonl",

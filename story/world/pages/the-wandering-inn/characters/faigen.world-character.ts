@@ -6,6 +6,7 @@ export const faigen = {
   slug: "faigen",
   title: "Faigen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 360,
   lastChapter: 360,
   characterClaims: "jsonl",

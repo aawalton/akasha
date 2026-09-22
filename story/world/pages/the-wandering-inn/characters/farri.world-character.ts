@@ -6,6 +6,7 @@ export const farri = {
   slug: "farri",
   title: "Farri Sightly",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 374,
   lastChapter: 374,
   characterClaims: "jsonl",

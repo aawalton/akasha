@@ -6,6 +6,7 @@ export const emessa = {
   slug: "emessa",
   title: "Emessa",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 389,
   lastChapter: 788,
   characterClaims: "jsonl",

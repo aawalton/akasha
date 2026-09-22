@@ -6,6 +6,7 @@ export const emperorOfSands = {
   slug: "emperor-of-sands",
   title: "Emperor of Sands",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 242,
   lastChapter: 632,
   characterClaims: "jsonl",

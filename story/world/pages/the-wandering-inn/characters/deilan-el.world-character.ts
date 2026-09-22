@@ -6,6 +6,7 @@ export const deilanEl = {
   slug: "deilan-el",
   title: "Lord Deilan El",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 416,
   lastChapter: 474,
   characterClaims: "jsonl",

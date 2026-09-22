@@ -6,6 +6,7 @@ export const feor = {
   slug: "feor",
   title: "Feor",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 162,
   lastChapter: 771,
   characterClaims: "jsonl",

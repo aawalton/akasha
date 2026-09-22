@@ -6,6 +6,7 @@ export const creepingShadow = {
   slug: "creeping-shadow",
   title: "the Creeping Shadow",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 823,
   lastChapter: 823,
   characterClaims: "jsonl",

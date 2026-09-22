@@ -6,6 +6,7 @@ export const eschowarErchirite = {
   slug: "eschowar-erchirite",
   title: "Wall Lord Eschowar",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 662,
   lastChapter: 662,
   characterClaims: "jsonl",

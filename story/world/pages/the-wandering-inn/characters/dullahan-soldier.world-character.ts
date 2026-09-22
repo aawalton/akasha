@@ -6,6 +6,7 @@ export const dullahanSoldier = {
   slug: "dullahan-soldier",
   title: "the Dullahan soldier",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 130,
   lastChapter: 130,
   characterClaims: "jsonl",

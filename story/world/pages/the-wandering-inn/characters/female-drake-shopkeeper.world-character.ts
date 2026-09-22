@@ -6,6 +6,7 @@ export const femaleDrakeShopkeeper = {
   slug: "female-drake-shopkeeper",
   title: "female Drake jewelry seller",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 19,
   lastChapter: 19,
   characterClaims: "jsonl",

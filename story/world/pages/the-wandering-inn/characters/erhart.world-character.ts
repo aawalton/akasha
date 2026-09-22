@@ -6,6 +6,7 @@ export const erhart = {
   slug: "erhart",
   title: "Erhart",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 203,
   lastChapter: 203,
   characterClaims: "jsonl",

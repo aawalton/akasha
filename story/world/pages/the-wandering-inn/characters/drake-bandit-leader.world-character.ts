@@ -6,6 +6,7 @@ export const drakeBanditLeader = {
   slug: "drake-bandit-leader",
   title: "Drake",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 330,
   lastChapter: 330,
   characterClaims: "jsonl",

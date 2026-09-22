@@ -6,6 +6,7 @@ export const dionamella = {
   slug: "dionamella",
   title: "Dionamella",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 567,
   lastChapter: 572,
   characterClaims: "jsonl",

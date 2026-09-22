@@ -6,6 +6,7 @@ export const eld = {
   slug: "eld",
   title: "Eldertuin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 616,
   lastChapter: 616,
   characterClaims: "jsonl",

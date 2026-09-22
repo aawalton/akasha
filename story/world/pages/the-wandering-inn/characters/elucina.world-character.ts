@@ -6,6 +6,7 @@ export const elucina = {
   slug: "elucina",
   title: "Elucina",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 509,
   lastChapter: 509,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const elderCreler = {
   slug: "elder-creler",
   title: "the creature in gestation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 795,
   lastChapter: 795,
   characterClaims: "jsonl",

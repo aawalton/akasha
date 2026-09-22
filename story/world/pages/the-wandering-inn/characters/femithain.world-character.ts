@@ -6,6 +6,7 @@ export const femithain = {
   slug: "femithain",
   title: "Femithain",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   eventCount: 1,
   firstChapter: 326,
   lastChapter: 528,

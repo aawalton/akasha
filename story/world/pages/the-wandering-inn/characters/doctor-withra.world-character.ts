@@ -6,6 +6,7 @@ export const doctorWithra = {
   slug: "doctor-withra",
   title: "Doctor Withra",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 756,
   lastChapter: 756,
   characterClaims: "jsonl",

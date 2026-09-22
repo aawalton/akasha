@@ -6,6 +6,7 @@ export const erinSolstice = {
   slug: "erin-solstice",
   title: "Erin Solstice",
   world: "world/the-wandering-inn",
+  appearanceCount: 176,
   firstChapter: 1,
   lastChapter: 816,
   characterClaims: "jsonl",

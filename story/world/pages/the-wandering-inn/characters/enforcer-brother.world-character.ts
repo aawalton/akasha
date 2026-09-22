@@ -6,6 +6,7 @@ export const enforcerBrother = {
   slug: "enforcer-brother",
   title: "the Brother",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 347,
   lastChapter: 347,
   characterClaims: "jsonl",

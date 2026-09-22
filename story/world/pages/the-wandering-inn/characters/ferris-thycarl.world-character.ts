@@ -6,6 +6,7 @@ export const ferrisThycarl = {
   slug: "ferris-thycarl",
   title: "Ferris Thycarl",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 394,
   lastChapter: 394,
   characterClaims: "jsonl",

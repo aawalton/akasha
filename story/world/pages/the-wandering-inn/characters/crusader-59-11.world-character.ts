@@ -6,6 +6,7 @@ export const crusader5911 = {
   slug: "crusader-59-11",
   title: "Crusader 59-11",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 811,
   lastChapter: 811,
   characterClaims: "jsonl",

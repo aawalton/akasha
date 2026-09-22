@@ -6,6 +6,7 @@ export const erin = {
   slug: "erin",
   title: "Erin Solstice",
   world: "world/the-wandering-inn",
+  appearanceCount: 233,
   maxLevel: 55,
   eventCount: 140,
   firstChapter: 3,

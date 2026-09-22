@@ -6,6 +6,7 @@ export const fetohepKhelt = {
   slug: "fetohep-khelt",
   title: "Fetohep of Khelt",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 418,
   lastChapter: 422,
   characterClaims: "jsonl",

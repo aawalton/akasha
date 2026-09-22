@@ -6,6 +6,7 @@ export const dyeda = {
   slug: "dyeda",
   title: "Dyeda",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 716,
   lastChapter: 747,
   characterClaims: "jsonl",

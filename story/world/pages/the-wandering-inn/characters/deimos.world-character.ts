@@ -6,6 +6,7 @@ export const deimos = {
   slug: "deimos",
   title: "Deimos",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 770,
   lastChapter: 770,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const cryptLords = {
   slug: "crypt-lords",
   title: "Crypt Lords",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 364,
   lastChapter: 364,
   characterClaims: "jsonl",

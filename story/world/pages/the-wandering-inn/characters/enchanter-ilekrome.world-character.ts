@@ -6,6 +6,7 @@ export const enchanterIlekrome = {
   slug: "enchanter-ilekrome",
   title: "Enchanter Ilekrome",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 515,
   lastChapter: 515,
   characterClaims: "jsonl",

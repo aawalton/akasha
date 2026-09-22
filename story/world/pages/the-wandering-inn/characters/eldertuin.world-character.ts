@@ -6,6 +6,7 @@ export const eldertuin = {
   slug: "eldertuin",
   title: "Eldertuin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 620,
   lastChapter: 620,
   characterClaims: "jsonl",

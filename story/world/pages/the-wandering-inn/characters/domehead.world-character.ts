@@ -6,6 +6,7 @@ export const domehead = {
   slug: "domehead",
   title: "Domehead",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 528,
   lastChapter: 542,
   characterClaims: "jsonl",

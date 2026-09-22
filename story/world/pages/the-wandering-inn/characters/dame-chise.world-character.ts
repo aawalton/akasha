@@ -6,6 +6,7 @@ export const dameChise = {
   slug: "dame-chise",
   title: "Dame Chise",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 378,
   lastChapter: 378,
   characterClaims: "jsonl",

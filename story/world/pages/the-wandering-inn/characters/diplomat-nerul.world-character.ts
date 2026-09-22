@@ -6,6 +6,7 @@ export const diplomatNerul = {
   slug: "diplomat-nerul",
   title: "Diplomat Nerul",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 714,
   lastChapter: 714,
   characterClaims: "jsonl",

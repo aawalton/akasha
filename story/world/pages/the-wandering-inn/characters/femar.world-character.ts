@@ -6,6 +6,7 @@ export const femar = {
   slug: "femar",
   title: "Femar",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 484,
   lastChapter: 484,
   characterClaims: "jsonl",

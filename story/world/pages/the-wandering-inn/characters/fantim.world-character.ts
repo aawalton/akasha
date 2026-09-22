@@ -6,6 +6,7 @@ export const fantim = {
   slug: "fantim",
   title: "Fantim",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 767,
   lastChapter: 767,
   characterClaims: "jsonl",

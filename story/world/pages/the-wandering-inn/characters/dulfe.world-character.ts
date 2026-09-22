@@ -6,6 +6,7 @@ export const dulfe = {
   slug: "dulfe",
   title: "Dulfe",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 326,
   lastChapter: 326,
   characterClaims: "jsonl",

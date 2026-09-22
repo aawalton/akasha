@@ -6,6 +6,7 @@ export const eurise = {
   slug: "eurise",
   title: "Eurise",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 712,
   lastChapter: 803,
   characterClaims: "jsonl",

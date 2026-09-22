@@ -6,6 +6,7 @@ export const fallingSnow = {
   slug: "falling-snow",
   title: "Falling Snow",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 347,
   lastChapter: 347,
   characterClaims: "jsonl",

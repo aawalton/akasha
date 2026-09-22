@@ -6,6 +6,7 @@ export const dulat = {
   slug: "dulat",
   title: "Dulat",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 729,
   lastChapter: 764,
   characterClaims: "jsonl",

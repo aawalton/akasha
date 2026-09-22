@@ -6,6 +6,7 @@ export const emireaDuMerrimorn = {
   slug: "emirea-du-merrimorn",
   title: "Emirea du Merrimorn",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 496,
   lastChapter: 496,
   characterClaims: "jsonl",

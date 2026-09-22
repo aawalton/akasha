@@ -6,6 +6,7 @@ export const dawil = {
   slug: "dawil",
   title: "Dawil",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 231,
   lastChapter: 452,
   characterClaims: "jsonl",

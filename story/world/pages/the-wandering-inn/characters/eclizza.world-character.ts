@@ -6,6 +6,7 @@ export const eclizza = {
   slug: "eclizza",
   title: "Eclizza",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 775,
   lastChapter: 781,
   characterClaims: "jsonl",

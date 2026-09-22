@@ -6,6 +6,7 @@ export const fallingChild = {
   slug: "falling-child",
   title: "a falling child",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 723,
   lastChapter: 723,
   characterClaims: "jsonl",

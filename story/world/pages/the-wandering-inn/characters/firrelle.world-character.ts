@@ -6,6 +6,7 @@ export const firrelle = {
   slug: "firrelle",
   title: "Firrelle",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 470,
   lastChapter: 590,
   characterClaims: "jsonl",

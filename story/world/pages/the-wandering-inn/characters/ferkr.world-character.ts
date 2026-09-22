@@ -6,6 +6,7 @@ export const ferkr = {
   slug: "ferkr",
   title: "Ferkr",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 352,
   lastChapter: 746,
   characterClaims: "jsonl",

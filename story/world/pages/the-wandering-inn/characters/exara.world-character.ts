@@ -6,6 +6,7 @@ export const exara = {
   slug: "exara",
   title: "Exara",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 195,
   lastChapter: 199,
   characterClaims: "jsonl",

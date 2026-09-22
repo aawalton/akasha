@@ -6,6 +6,7 @@ export const colthLacment = {
   slug: "colth-lacment",
   title: "Colthei Lacment",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 694,
   lastChapter: 694,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const doubte = {
   slug: "doubte",
   title: "Doubte",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 733,
   lastChapter: 735,
   characterClaims: "jsonl",

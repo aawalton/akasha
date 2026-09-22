@@ -6,6 +6,7 @@ export const crossbowStan = {
   slug: "crossbow-stan",
   title: "Crossbow Stan",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 329,
   lastChapter: 330,
   characterClaims: "jsonl",

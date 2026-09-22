@@ -6,6 +6,7 @@ export const comigenTerland = {
   slug: "comigen-terland",
   title: "Comigen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 768,
   lastChapter: 768,
   characterClaims: "jsonl",

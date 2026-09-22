@@ -6,6 +6,7 @@ export const doroumata = {
   slug: "doroumata",
   title: "Depth Magus Doroumata",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 558,
   lastChapter: 591,
   characterClaims: "jsonl",

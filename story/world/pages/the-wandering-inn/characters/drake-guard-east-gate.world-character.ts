@@ -6,6 +6,7 @@ export const drakeGuardEastGate = {
   slug: "drake-guard-east-gate",
   title: "the Drake guard at the eastern gates",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 13,
   lastChapter: 13,
   characterClaims: "jsonl",

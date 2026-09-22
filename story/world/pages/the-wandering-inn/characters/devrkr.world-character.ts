@@ -6,6 +6,7 @@ export const devrkr = {
   slug: "devrkr",
   title: "Devrkr the Glowing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 805,
   lastChapter: 805,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const etrikah = {
   slug: "etrikah",
   title: "Etrikah",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 554,
   lastChapter: 797,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const crowdcallerMerdon = {
   slug: "crowdcaller-merdon",
   title: "Crowdcaller Merdon",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 812,
   lastChapter: 812,
   characterClaims: "jsonl",

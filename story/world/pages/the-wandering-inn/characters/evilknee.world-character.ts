@@ -6,6 +6,7 @@ export const evilknee = {
   slug: "evilknee",
   title: "Evilknee",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 717,
   lastChapter: 717,
   characterClaims: "jsonl",

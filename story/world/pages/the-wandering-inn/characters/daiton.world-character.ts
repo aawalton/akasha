@@ -6,6 +6,7 @@ export const daiton = {
   slug: "daiton",
   title: "Daiton",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 324,
   lastChapter: 325,
   characterClaims: "jsonl",

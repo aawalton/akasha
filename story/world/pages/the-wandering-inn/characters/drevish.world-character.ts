@@ -6,6 +6,7 @@ export const drevish = {
   slug: "drevish",
   title: "Drevish",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   firstChapter: 92,
   lastChapter: 681,
   characterClaims: "jsonl",

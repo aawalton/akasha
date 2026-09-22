@@ -6,6 +6,7 @@ export const eldavin = {
   slug: "eldavin",
   title: "Grand Magus Eldavin",
   world: "world/the-wandering-inn",
+  appearanceCount: 16,
   firstChapter: 452,
   lastChapter: 586,
   characterClaims: "jsonl",

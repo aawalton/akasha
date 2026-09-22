@@ -6,6 +6,7 @@ export const fierreNolastname = {
   slug: "fierre-nolastname",
   title: "Fierre",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 451,
   lastChapter: 451,
   characterClaims: "jsonl",

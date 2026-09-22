@@ -6,6 +6,7 @@ export const erinZombie = {
   slug: "erin-zombie",
   title: "zombie (Erin-like)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 364,
   lastChapter: 364,
   characterClaims: "jsonl",

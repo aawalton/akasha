@@ -6,6 +6,7 @@ export const firstKingAvel = {
   slug: "first-king-avel",
   title: "the First King of Avel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 523,
   lastChapter: 523,
   characterClaims: "jsonl",

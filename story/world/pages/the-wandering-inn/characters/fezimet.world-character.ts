@@ -6,6 +6,7 @@ export const fezimet = {
   slug: "fezimet",
   title: "Fezimet",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 331,
   lastChapter: 576,
   characterClaims: "jsonl",

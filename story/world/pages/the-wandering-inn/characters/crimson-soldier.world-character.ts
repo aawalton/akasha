@@ -6,6 +6,7 @@ export const crimsonSoldier = {
   slug: "crimson-soldier",
   title: "the Crimson Soldier",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 560,
   lastChapter: 560,
   characterClaims: "jsonl",

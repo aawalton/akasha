@@ -6,6 +6,7 @@ export const deskie = {
   slug: "deskie",
   title: "Deskie",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 711,
   lastChapter: 711,
   characterClaims: "jsonl",

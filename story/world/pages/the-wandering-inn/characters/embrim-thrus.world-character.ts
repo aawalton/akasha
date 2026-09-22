@@ -6,6 +6,7 @@ export const embrimThrus = {
   slug: "embrim-thrus",
   title: "Embrim",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 198,
   lastChapter: 198,
   characterClaims: "jsonl",

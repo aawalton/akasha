@@ -6,6 +6,7 @@ export const faeSpringCourt = {
   slug: "fae-spring-court",
   title: "the fae / fair folk",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 252,
   lastChapter: 252,
   characterClaims: "jsonl",

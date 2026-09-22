@@ -6,6 +6,7 @@ export const feshi = {
   slug: "feshi",
   title: "Feshi",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   firstChapter: 334,
   lastChapter: 566,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const eloque = {
   slug: "eloque",
   title: "Eloque",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 529,
   lastChapter: 552,
   characterClaims: "jsonl",

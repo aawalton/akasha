@@ -6,6 +6,7 @@ export const drassiTewing = {
   slug: "drassi-tewing",
   title: "Drassi Tewing",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 440,
   lastChapter: 599,
   characterClaims: "jsonl",

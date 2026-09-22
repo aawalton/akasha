@@ -6,6 +6,7 @@ export const eribis = {
   slug: "eribis",
   title: "Eribis",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 558,
   lastChapter: 558,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const eltistiman = {
   slug: "eltistiman",
   title: "Eltistiman Verdue",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 296,
   lastChapter: 413,
   characterClaims: "jsonl",

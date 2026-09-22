@@ -6,6 +6,7 @@ export const donbaaar = {
   slug: "donbaaar",
   title: "Donbaaar",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 523,
   lastChapter: 523,
   characterClaims: "jsonl",

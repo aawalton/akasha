@@ -6,6 +6,7 @@ export const delanayDArtien = {
   slug: "delanay-d-artien",
   title: "Delanay d'Artien",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   eventCount: 4,
   firstChapter: 664,
   lastChapter: 664,

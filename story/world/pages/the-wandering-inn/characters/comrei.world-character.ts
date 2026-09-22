@@ -6,6 +6,7 @@ export const comrei = {
   slug: "comrei",
   title: "Comrei",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 656,
   lastChapter: 656,
   characterClaims: "jsonl",

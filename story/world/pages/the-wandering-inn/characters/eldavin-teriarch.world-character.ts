@@ -6,6 +6,7 @@ export const eldavinTeriarch = {
   slug: "eldavin-teriarch",
   title: "Eldavin",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 496,
   lastChapter: 501,
   characterClaims: "jsonl",

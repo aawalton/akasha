@@ -6,6 +6,7 @@ export const culnous = {
   slug: "culnous",
   title: "Culnous",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 596,
   lastChapter: 596,
   characterClaims: "jsonl",

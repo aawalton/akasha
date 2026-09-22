@@ -6,6 +6,7 @@ export const empressNsiia = {
   slug: "empress-nsiia",
   title: "Empress Nsiia of Tiqr",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 553,
   lastChapter: 553,
   characterClaims: "jsonl",

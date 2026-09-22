@@ -6,6 +6,7 @@ export const fierreLischelleDrakle = {
   slug: "fierre-lischelle-drakle",
   title: "Serafierre val Lischelle-Drakle",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 452,
   lastChapter: 452,
   characterClaims: "jsonl",

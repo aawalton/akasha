@@ -6,6 +6,7 @@ export const falene = {
   slug: "falene",
   title: "Falene Skystrall",
   world: "world/the-wandering-inn",
+  appearanceCount: 11,
   firstChapter: 231,
   lastChapter: 814,
   characterClaims: "jsonl",

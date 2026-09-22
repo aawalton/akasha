@@ -6,6 +6,7 @@ export const dalySullivan = {
   slug: "daly-sullivan",
   title: "Daly Sullivan",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 315,
   lastChapter: 776,
   characterClaims: "jsonl",

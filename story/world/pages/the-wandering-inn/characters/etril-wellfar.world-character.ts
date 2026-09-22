@@ -6,6 +6,7 @@ export const etrilWellfar = {
   slug: "etril-wellfar",
   title: "Etril Wellfar",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 531,
   lastChapter: 786,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const enuryn = {
   slug: "enuryn",
   title: "Enuryn",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 755,
   lastChapter: 801,
   characterClaims: "jsonl",

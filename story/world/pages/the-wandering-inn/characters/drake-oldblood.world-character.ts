@@ -6,6 +6,7 @@ export const drakeOldblood = {
   slug: "drake-oldblood",
   title: "Drake",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 361,
   lastChapter: 361,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const demonLieutenant = {
   slug: "demon-lieutenant",
   title: "the Demon Officer",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 98,
   lastChapter: 98,
   characterClaims: "jsonl",

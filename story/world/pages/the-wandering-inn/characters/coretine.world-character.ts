@@ -6,6 +6,7 @@ export const coretine = {
   slug: "coretine",
   title: "Coretine the First",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 593,
   lastChapter: 593,
   characterClaims: "jsonl",

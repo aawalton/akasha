@@ -6,6 +6,7 @@ export const embriaGrasstongue = {
   slug: "embria-grasstongue",
   title: "Embria",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 254,
   lastChapter: 254,
   characterClaims: "jsonl",

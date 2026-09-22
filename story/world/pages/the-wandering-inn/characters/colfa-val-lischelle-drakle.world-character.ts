@@ -6,6 +6,7 @@ export const colfaValLischelleDrakle = {
   slug: "colfa-val-lischelle-drakle",
   title: "Colfa",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 690,
   lastChapter: 690,
   characterClaims: "jsonl",

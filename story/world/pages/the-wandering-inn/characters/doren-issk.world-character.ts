@@ -6,6 +6,7 @@ export const dorenIssk = {
   slug: "doren-issk",
   title: "Doren",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 769,
   lastChapter: 769,
   characterClaims: "jsonl",

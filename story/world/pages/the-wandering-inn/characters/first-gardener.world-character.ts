@@ -6,6 +6,7 @@ export const firstGardener = {
   slug: "first-gardener",
   title: "Shaerrha Brasswing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 491,
   lastChapter: 491,
   characterClaims: "jsonl",

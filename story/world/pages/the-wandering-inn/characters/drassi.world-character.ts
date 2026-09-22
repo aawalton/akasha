@@ -6,6 +6,7 @@ export const drassi = {
   slug: "drassi",
   title: "Drassi",
   world: "world/the-wandering-inn",
+  appearanceCount: 18,
   eventCount: 2,
   firstChapter: 13,
   lastChapter: 803,

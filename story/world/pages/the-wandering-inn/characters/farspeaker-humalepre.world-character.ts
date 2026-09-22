@@ -6,6 +6,7 @@ export const farspeakerHumalepre = {
   slug: "farspeaker-humalepre",
   title: "Farspeaker Humalepre",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 515,
   lastChapter: 515,
   characterClaims: "jsonl",

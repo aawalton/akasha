@@ -6,6 +6,7 @@ export const cognitaTruestone = {
   slug: "cognita-truestone",
   title: "Cognita Truestone",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 652,
   lastChapter: 797,
   characterClaims: "jsonl",

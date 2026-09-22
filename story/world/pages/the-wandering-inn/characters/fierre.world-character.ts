@@ -6,6 +6,7 @@ export const fierre = {
   slug: "fierre",
   title: "Fierre",
   world: "world/the-wandering-inn",
+  appearanceCount: 23,
   maxLevel: 3,
   eventCount: 2,
   firstChapter: 311,

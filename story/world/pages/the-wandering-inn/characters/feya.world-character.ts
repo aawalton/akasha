@@ -6,6 +6,7 @@ export const feya = {
   slug: "feya",
   title: "Feya",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 138,
   lastChapter: 138,
   characterClaims: "jsonl",

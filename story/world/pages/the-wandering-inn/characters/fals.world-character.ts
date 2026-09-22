@@ -6,6 +6,7 @@ export const fals = {
   slug: "fals",
   title: "Fals",
   world: "world/the-wandering-inn",
+  appearanceCount: 12,
   firstChapter: 22,
   lastChapter: 627,
   characterClaims: "jsonl",

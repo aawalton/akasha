@@ -6,6 +6,7 @@ export const dameTaliaKallinad = {
   slug: "dame-talia-kallinad",
   title: "Dame Talia Kallinad",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 490,
   lastChapter: 490,
   characterClaims: "jsonl",
