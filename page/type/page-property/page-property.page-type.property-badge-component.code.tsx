@@ -2,6 +2,10 @@
 
 import { scalarText } from "akasha/code/type/narrowing/modules/scalar-text/scalar-text.module.code.ts"
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
+import {
+  stackedBadgesClass,
+  useBadgeLayoutContext,
+} from "akasha/design/interface/badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
 import { InputBadge } from "akasha/design/interface/badge/modules/input-badge/input-badge.module.code.tsx"
 import { resolveBadgeVariant } from "akasha/page/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
@@ -38,13 +42,14 @@ function HeldWhileTyped({
 }
 
 export function Drawing({ property, value, editable, onPropertyChange }: PropertyBadgeProps) {
+  const layout = useBadgeLayoutContext()
   const config = parseConfig(textConfigSchema, property.config, {})
   const otherwise = config.badgeVariant ?? (property.accent ? "accent" : "elevation-muted")
   const variantFor = (shown: string) => resolveBadgeVariant(property, shown) ?? otherwise
 
   if (Array.isArray(value) && value.length !== 0) {
     return (
-      <div className="flex flex-wrap gap-1">
+      <span className={stackedBadgesClass(layout.popoverAlign ?? "end")}>
         {value.map((one, at) => {
           const item = scalarText(one) ?? ""
           return (
@@ -53,7 +58,7 @@ export function Drawing({ property, value, editable, onPropertyChange }: Propert
             </Badge>
           )
         })}
-      </div>
+      </span>
     )
   }
 

@@ -1,5 +1,9 @@
 "use client"
 
+import {
+  stackedBadgesClass,
+  useBadgeLayoutContext,
+} from "akasha/design/interface/badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
 import { keyOf } from "akasha/page/ui/component/modules/badge-keying/badge-keying.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import {
@@ -19,17 +23,18 @@ function holdsAList(chain: readonly string[]): boolean {
 }
 
 export function Drawing(props: PropertyBadgeProps) {
+  const layout = useBadgeLayoutContext()
   for (const chain of props.property.memberDrawnBy ?? []) {
     const Member = drawingAlong(chain)
     if (Member === undefined) continue
     const held = props.value
     if (!Array.isArray(held) || holdsAList(chain)) return <Member {...props} />
     return (
-      <div className="flex flex-wrap gap-1">
+      <span className={stackedBadgesClass(layout.popoverAlign ?? "end")}>
         {held.map((one, at) => (
           <Member {...props} key={keyOf(one, at)} value={one} />
         ))}
-      </div>
+      </span>
     )
   }
   const Held = PROPERTY_BADGE_DRAWINGS.get(FALLS_BACK_TO)
