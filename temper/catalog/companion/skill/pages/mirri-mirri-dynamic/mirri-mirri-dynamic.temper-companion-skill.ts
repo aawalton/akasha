@@ -10,7 +10,7 @@ export const mirriMirriDynamic = {
   description: "Increases damage done by 3% and healing done by 3%.",
   companionId: "temper-eso-companion/mirri",
   abilityId: 157250,
-  skillLineId: "companion-mirri",
+  skillLineId: "temper-companion-skill-line/companion-mirri",
   skillType: "temper-skill-type/passive",
   validRoles: ["dps", "healer"],
   skillEffects: "jsonl",

@@ -11,7 +11,7 @@ export const emberEmberRagingStorm = {
     "Your Companion creates a thunderstorm that follows the target, striking all enemies within for $1 Shock Damage every 1 second for 8 seconds. The final strike deals 300% additional damage to enemies under 25% Health.",
   companionId: "temper-eso-companion/ember",
   abilityId: 164191,
-  skillLineId: "companion-ember",
+  skillLineId: "temper-companion-skill-line/companion-ember",
   skillType: "temper-skill-type/ultimate",
   validRoles: ["dps"],
   skillEffects: "jsonl",

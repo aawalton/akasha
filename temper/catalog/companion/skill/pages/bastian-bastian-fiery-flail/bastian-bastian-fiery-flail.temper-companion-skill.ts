@@ -11,7 +11,7 @@ export const bastianBastianFieryFlail = {
     "Your Companion lashes an enemy with flame, dealing $1 Flame Damage and setting them Off Balance for $$2 seconds.",
   companionId: "temper-eso-companion/bastian",
   abilityId: 153687,
-  skillLineId: "companion-bastian-ardent-warrior",
+  skillLineId: "temper-companion-skill-line/companion-bastian-ardent-warrior",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

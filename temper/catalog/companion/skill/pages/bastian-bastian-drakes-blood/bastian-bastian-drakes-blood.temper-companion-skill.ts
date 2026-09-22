@@ -11,7 +11,7 @@ export const bastianBastianDrakesBlood = {
     "Your Companion draws on their draconic blood, healing for 25% of their Max Health and reducing their damage taken by 20% for $$2 seconds.",
   companionId: "temper-eso-companion/bastian",
   abilityId: 155268,
-  skillLineId: "companion-bastian-draconic-armor",
+  skillLineId: "temper-companion-skill-line/companion-bastian-draconic-armor",
   skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   tags: ["max-health-heal-25pct"],

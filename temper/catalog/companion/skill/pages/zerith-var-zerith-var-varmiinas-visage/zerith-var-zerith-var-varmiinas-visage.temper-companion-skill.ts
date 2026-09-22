@@ -11,7 +11,7 @@ export const zerithVarZerithVarVarmiinasVisage = {
     "Your Companion launches a nightmarish exploding skull at an enemy, dealing $1 Flame Damage.",
   companionId: "temper-eso-companion/zerith-var",
   abilityId: 213157,
-  skillLineId: "companion-zerith-var-warriors-banishment",
+  skillLineId: "temper-companion-skill-line/companion-zerith-var-warriors-banishment",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

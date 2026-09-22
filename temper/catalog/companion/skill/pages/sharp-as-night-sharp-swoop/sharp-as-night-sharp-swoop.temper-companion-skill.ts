@@ -11,7 +11,7 @@ export const sharpAsNightSharpSwoop = {
     "Your Companion commands a cliff racer to dive bomb an enemy, dealing $1 Magic Damage. If they are more than 7 meters away from the target, they set them Off Balance for $$2 seconds.",
   companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 186056,
-  skillLineId: "companion-sharp-as-night-beasts-of-the-hunt",
+  skillLineId: "temper-companion-skill-line/companion-sharp-as-night-beasts-of-the-hunt",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

@@ -11,7 +11,7 @@ export const mirriMirriLifeSiphon = {
     "Your Companion siphons the vigor from the blood of enemies nearby, dealing $1 Magic Damage and healing themselves and their allies for $2 Health.",
   companionId: "temper-eso-companion/mirri",
   abilityId: 157207,
-  skillLineId: "companion-mirri-soul-thief",
+  skillLineId: "temper-companion-skill-line/companion-mirri-soul-thief",
   skillType: "temper-skill-type/active",
   validRoles: ["dps", "healer", "tank"],
   skillEffects: "jsonl",

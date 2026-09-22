@@ -50,7 +50,7 @@ export function companionCatalogFromCheckout(): CompanionCatalog {
         icon: typeof row.icon === "string" ? row.icon : null,
         description: textIn(row.description, "description", "a companion skill"),
         companionId: slugAt(row, "companionId"),
-        skillLineId: textIn(row.skillLineId, "skillLineId", "a companion skill"),
+        skillLineId: textIn(slugAt(row, "skillLineId"), "skillLineId", "a companion skill"),
         skillType: slugAt(row, "skillType") ?? "active",
         effects: effectsIn(row.skillEffects),
         castConditions: conditionsIn(row.castConditions),

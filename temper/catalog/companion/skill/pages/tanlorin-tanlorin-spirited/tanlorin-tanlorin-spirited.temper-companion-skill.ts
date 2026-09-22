@@ -10,7 +10,7 @@ export const tanlorinTanlorinSpirited = {
   description: "Decreases damage taken by 3% and increases damage done by 3%.",
   companionId: "temper-eso-companion/tanlorin",
   abilityId: 214685,
-  skillLineId: "companion-tanlorin",
+  skillLineId: "temper-companion-skill-line/companion-tanlorin",
   skillType: "temper-skill-type/passive",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

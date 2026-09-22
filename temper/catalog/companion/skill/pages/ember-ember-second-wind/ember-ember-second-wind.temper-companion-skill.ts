@@ -11,7 +11,7 @@ export const emberEmberSecondWind = {
     "Your Companion uses their backup resources, reducing the cooldown of all their other abilities by 5 seconds.",
   companionId: "temper-eso-companion/ember",
   abilityId: 166068,
-  skillLineId: "companion-ember-playful-schemer",
+  skillLineId: "temper-companion-skill-line/companion-ember-playful-schemer",
   skillType: "temper-skill-type/active",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

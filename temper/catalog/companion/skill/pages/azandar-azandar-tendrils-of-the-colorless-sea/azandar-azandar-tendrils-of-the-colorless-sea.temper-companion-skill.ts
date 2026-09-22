@@ -11,7 +11,7 @@ export const azandarAzandarTendrilsOfTheColorlessSea = {
     "Your Companion infuses their arm with abyssal arcanum and thrusts forward, dealing $1 Physical Damage to enemies and applying Minor Vulnerability to them for $$2 seconds, increasing the damage they take by 5%.",
   companionId: "temper-eso-companion/azandar",
   abilityId: 191293,
-  skillLineId: "companion-azandar-scholar-of-apocrypha",
+  skillLineId: "temper-companion-skill-line/companion-azandar-scholar-of-apocrypha",
   skillType: "temper-skill-type/active",
   validRoles: ["dps", "support"],
   skillEffects: "jsonl",

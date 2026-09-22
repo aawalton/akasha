@@ -10,7 +10,7 @@ export const allSharedBulwark = {
   description:
     "Your Companion becomes an unstoppable defender, blocking and reflecting all attacks for $$1 seconds.",
   abilityId: 156599,
-  skillLineId: "armor-heavy",
+  skillLineId: "temper-companion-skill-line/armor-heavy",
   skillType: "temper-skill-type/active",
   skillEffects: "jsonl",
   castConditions: "jsonl",

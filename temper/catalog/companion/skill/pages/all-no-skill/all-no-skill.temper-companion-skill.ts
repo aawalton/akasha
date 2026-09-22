@@ -8,6 +8,6 @@ export const allNoSkill = {
   title: "No Skill",
   description: "No skill selected",
   abilityId: 0,
-  skillLineId: "weapon-two-handed",
+  skillLineId: "temper-companion-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperCompanionSkill

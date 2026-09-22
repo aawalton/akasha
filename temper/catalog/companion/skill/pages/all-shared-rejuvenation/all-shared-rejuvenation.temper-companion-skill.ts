@@ -10,7 +10,7 @@ export const allSharedRejuvenation = {
   description:
     "Your Companion shares their staff's life-giving energy, healing themselves and a nearby ally for $1 Health over $$1 seconds.",
   abilityId: 153066,
-  skillLineId: "weapon-restoration-staff",
+  skillLineId: "temper-companion-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",

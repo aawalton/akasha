@@ -11,7 +11,7 @@ export const bastianBastianScorchingStrike = {
     "Your Companion slashes an enemy with flame, dealing $1 Flame Damage and an additional $2 Flame Damage over $$2 seconds.",
   companionId: "temper-eso-companion/bastian",
   abilityId: 154923,
-  skillLineId: "companion-bastian-ardent-warrior",
+  skillLineId: "temper-companion-skill-line/companion-bastian-ardent-warrior",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

@@ -10,7 +10,7 @@ export const emberEmberCunning = {
   description: "Increases Critical Chance by 3% and damage done by 3%.",
   companionId: "temper-eso-companion/ember",
   abilityId: 169465,
-  skillLineId: "companion-ember",
+  skillLineId: "temper-companion-skill-line/companion-ember",
   skillType: "temper-skill-type/passive",
   validRoles: ["dps"],
   skillEffects: "jsonl",

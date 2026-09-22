@@ -11,7 +11,7 @@ export const mirriMirriWarpStrike = {
     "Your Companion flashes through the shadows and ambushes an enemy, dealing $1 Magic Damage.",
   companionId: "temper-eso-companion/mirri",
   abilityId: 153853,
-  skillLineId: "companion-mirri-deadly-assassin",
+  skillLineId: "temper-companion-skill-line/companion-mirri-deadly-assassin",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

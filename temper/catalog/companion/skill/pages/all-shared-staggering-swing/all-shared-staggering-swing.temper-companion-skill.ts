@@ -10,7 +10,7 @@ export const allSharedStaggeringSwing = {
   description:
     "Your Companion slams an enemy with an upward swing and sends them flying, dealing $1 Physical Damage, stunning them for $$2 seconds, and knocking them back 4 meters.",
   abilityId: 152433,
-  skillLineId: "weapon-two-handed",
+  skillLineId: "temper-companion-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   tags: ["knockback-4m"],

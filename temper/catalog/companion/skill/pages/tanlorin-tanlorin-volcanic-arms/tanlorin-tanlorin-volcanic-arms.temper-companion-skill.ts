@@ -11,7 +11,7 @@ export const tanlorinTanlorinVolcanicArms = {
     "Your Companion charges their and their grouped allies' weapons with volcanic power to gain Major Brutality and Sorcery, increasing Weapon and Spell Damage by 20% for $$1 seconds.",
   companionId: "temper-eso-companion/tanlorin",
   abilityId: 214703,
-  skillLineId: "companion-tanlorin-radiating-heart",
+  skillLineId: "temper-companion-skill-line/companion-tanlorin-radiating-heart",
   skillType: "temper-skill-type/active",
   validRoles: ["dps", "support"],
   skillEffects: "jsonl",

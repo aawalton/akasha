@@ -11,7 +11,7 @@ export const isobelIsobelSpearOfLight = {
     "Your Companion hurls a barrage of spears made of radiant light at all targets in front of them, dealing $1 Magic Damage and knocking them down for $$3 seconds. This attack ignores the enemy's Resistances.",
   companionId: "temper-eso-companion/isobel",
   abilityId: 163725,
-  skillLineId: "companion-isobel-brilliant-shield",
+  skillLineId: "temper-companion-skill-line/companion-isobel-brilliant-shield",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

@@ -10,7 +10,7 @@ export const allSharedProvoke = {
   description:
     "Your Companion thrusts their weapon with disciplined precision at an enemy, dealing $1 Physical Damage and taunting the enemy to attack them for $$2 seconds.",
   abilityId: 152625,
-  skillLineId: "weapon-one-hand-shield",
+  skillLineId: "temper-companion-skill-line/weapon-one-hand-shield",
   skillType: "temper-skill-type/active",
   validRoles: ["dps", "tank"],
   skillEffects: "jsonl",

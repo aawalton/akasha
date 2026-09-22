@@ -18,6 +18,7 @@ export const temperWeaponType = {
     { pageProperty: "boolean-property/is-two-handed", required: true, many: false },
     { pageProperty: "number-property/weapon-type-power", required: true, many: false },
     { pageProperty: "one-of-property/valid-slots", required: true, many: true, maxCount: null },
+    { pageProperty: "text-property/skill-line-id", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",

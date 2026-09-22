@@ -11,7 +11,7 @@ export const tanlorinTanlorinKindle = {
     "Your Companion launches a searing fireball at themselves or an ally to cauterize their wounds, healing for $1 Health.",
   companionId: "temper-eso-companion/tanlorin",
   abilityId: 154925,
-  skillLineId: "companion-tanlorin-radiating-heart",
+  skillLineId: "temper-companion-skill-line/companion-tanlorin-radiating-heart",
   skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   skillEffects: "jsonl",

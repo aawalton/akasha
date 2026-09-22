@@ -10,7 +10,7 @@ export const allSharedStarfall = {
   description:
     "Your Companion calls a comet down from the constellations to blast an enemy, dealing $1 Flame Damage.",
   abilityId: 155403,
-  skillLineId: "guild-mages",
+  skillLineId: "temper-companion-skill-line/guild-mages",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

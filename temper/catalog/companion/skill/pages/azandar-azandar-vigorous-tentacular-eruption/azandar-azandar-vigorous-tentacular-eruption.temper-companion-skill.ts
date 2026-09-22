@@ -11,7 +11,7 @@ export const azandarAzandarVigorousTentacularEruption = {
     "Your Companion creates a gate to Apocrypha beneath an enemy. After 2 seconds, a swarm of hideous tentacles bursts through the gate, dealing $1 Magic Damage to enemies within the gate, knocking them up in the air and stunning them for $$2 seconds. Enemies damaged by the tentacles receive Major Vulnerability for $$3 seconds, increasing their damage taken by 10%.",
   companionId: "temper-eso-companion/azandar",
   abilityId: 195103,
-  skillLineId: "companion-azandar",
+  skillLineId: "temper-companion-skill-line/companion-azandar",
   skillType: "temper-skill-type/ultimate",
   validRoles: ["dps", "support"],
   tags: ["knockup"],

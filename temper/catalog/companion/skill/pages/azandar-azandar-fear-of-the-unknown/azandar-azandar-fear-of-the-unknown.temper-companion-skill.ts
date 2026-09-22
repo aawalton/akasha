@@ -11,7 +11,7 @@ export const azandarAzandarFearOfTheUnknown = {
     "Your Companion confronts an enemy with the unknowable truth of reality, applying Fear to them for $$1 seconds.",
   companionId: "temper-eso-companion/azandar",
   abilityId: 194266,
-  skillLineId: "companion-azandar-quill-knight",
+  skillLineId: "temper-companion-skill-line/companion-azandar-quill-knight",
   skillType: "temper-skill-type/active",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

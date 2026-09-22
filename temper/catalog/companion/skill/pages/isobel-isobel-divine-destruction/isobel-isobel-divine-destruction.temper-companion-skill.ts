@@ -11,7 +11,7 @@ export const isobelIsobelDivineDestruction = {
     "Your Companion unleashes a concentrated beam of divine energy at an enemy, dealing $1 Magic Damage over $$1 seconds.",
   companionId: "temper-eso-companion/isobel",
   abilityId: 163564,
-  skillLineId: "companion-isobel-blazing-might",
+  skillLineId: "temper-companion-skill-line/companion-isobel-blazing-might",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

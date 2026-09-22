@@ -10,7 +10,7 @@ export const allSharedTrickShot = {
   description:
     "Your Companion fires a burst of arrows to pin enemies in front of them, dealing $1 Physical Damage and immobilizing them for $$2 seconds.",
   abilityId: 152701,
-  skillLineId: "weapon-bow",
+  skillLineId: "temper-companion-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

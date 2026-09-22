@@ -10,7 +10,7 @@ export const allSharedOnGuard = {
   description:
     "Your Companion bolsters their defenses, granting a damage shield that absorbs up to 25% of their Max Health for $$1 seconds.",
   abilityId: 155328,
-  skillLineId: "weapon-one-hand-shield",
+  skillLineId: "temper-companion-skill-line/weapon-one-hand-shield",
   skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   tags: ["max-health-shield-25pct"],

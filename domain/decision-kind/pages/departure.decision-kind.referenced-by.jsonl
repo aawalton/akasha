@@ -4628,6 +4628,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/carried-effect.one-of-property.ts","id":"01a08ece-d396-7735-b4e0-bbe153126211"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/companion-skill-line.relation-property.ts","id":"01a0cad6-787b-7695-9873-1e5fd26d5b56"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/nested-effect.record-property.ts","id":"01a06196-037c-704b-a0d5-349064c3a709"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/thing/temper-companion-thing.page-type.ts","id":"01a05fcc-694c-762c-bcd1-1691361636e2"}

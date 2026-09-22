@@ -10,7 +10,7 @@ export const emberEmberTrickstersTrap = {
   description: "Your Companion dazzles an enemy in a ball of magic, stunning them for $$1 seconds.",
   companionId: "temper-eso-companion/ember",
   abilityId: 165865,
-  skillLineId: "companion-ember-mischievous-caster",
+  skillLineId: "temper-companion-skill-line/companion-ember-mischievous-caster",
   skillType: "temper-skill-type/active",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

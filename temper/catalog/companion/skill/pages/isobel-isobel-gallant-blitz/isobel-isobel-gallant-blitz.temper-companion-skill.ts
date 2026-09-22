@@ -11,7 +11,7 @@ export const isobelIsobelGallantBlitz = {
     "Your Companion charges toward their enemy with a vibrant spear that bursts in a flash of light, setting all enemies in the area Off Balance for $$1 seconds.",
   companionId: "temper-eso-companion/isobel",
   abilityId: 163590,
-  skillLineId: "companion-isobel-brilliant-shield",
+  skillLineId: "temper-companion-skill-line/companion-isobel-brilliant-shield",
   skillType: "temper-skill-type/active",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

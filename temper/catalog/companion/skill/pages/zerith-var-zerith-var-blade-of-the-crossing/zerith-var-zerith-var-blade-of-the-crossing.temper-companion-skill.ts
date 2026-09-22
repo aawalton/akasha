@@ -11,7 +11,7 @@ export const zerithVarZerithVarBladeOfTheCrossing = {
     "Your Companion calls upon the power of Azurah, swinging a blade of lunar light in front of them, dealing $1 Magic Damage. Enemies damaged by this ability have Minor Magickasteal applied for $$2 seconds, causing them and their allies to restore 168 Magicka to attackers every 1 second when damaging enemies.",
   companionId: "temper-eso-companion/zerith-var",
   abilityId: 213169,
-  skillLineId: "companion-zerith-var",
+  skillLineId: "temper-companion-skill-line/companion-zerith-var",
   skillType: "temper-skill-type/ultimate",
   validRoles: ["dps"],
   alternateAbilityIds: [213678],

@@ -11,7 +11,7 @@ export const zerithVarZerithVarDarkMoonTotem = {
     "Your Companion summons an effigy of bone harboring the souls of fallen Khajiit at the feet of an enemy for $$2 seconds and applies fear for $$1 seconds. After 2 seconds the totem grants Minor Protection to them and their allies, reducing their damage taken by 5% and begins fearing nearby enemies every 2 seconds, causing them to cower in place for $$1 seconds.",
   companionId: "temper-eso-companion/zerith-var",
   abilityId: 213166,
-  skillLineId: "companion-zerith-var-guardians-commitment",
+  skillLineId: "temper-companion-skill-line/companion-zerith-var-guardians-commitment",
   skillType: "temper-skill-type/active",
   validRoles: ["tank", "support"],
   skillEffects: "jsonl",

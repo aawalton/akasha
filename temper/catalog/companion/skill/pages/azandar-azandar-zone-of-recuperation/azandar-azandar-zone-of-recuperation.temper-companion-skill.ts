@@ -11,7 +11,7 @@ export const azandarAzandarZoneOfRecuperation = {
     "Your Companion outlines a domain of eldritch power, healing them and their allies standing within for $1 Health over $$1 seconds and granting 150 Health, Magicka, and Stamina Recovery.",
   companionId: "temper-eso-companion/azandar",
   abilityId: 193126,
-  skillLineId: "companion-azandar-revitalizing-researcher",
+  skillLineId: "temper-companion-skill-line/companion-azandar-revitalizing-researcher",
   skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   tags: ["ground-effect"],

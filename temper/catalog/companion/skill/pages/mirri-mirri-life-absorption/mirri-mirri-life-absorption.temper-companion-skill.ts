@@ -11,7 +11,7 @@ export const mirriMirriLifeAbsorption = {
     "Your Companion steals an enemy's life force, dealing $1 Magic Damage and healing themselves or an ally around them for $2 Health.",
   companionId: "temper-eso-companion/mirri",
   abilityId: 154790,
-  skillLineId: "companion-mirri-soul-thief",
+  skillLineId: "temper-companion-skill-line/companion-mirri-soul-thief",
   skillType: "temper-skill-type/active",
   validRoles: ["dps", "healer", "tank"],
   skillEffects: "jsonl",

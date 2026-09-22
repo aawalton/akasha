@@ -11,7 +11,7 @@ export const emberEmberShockingBurst = {
     "Your Companion creates a nexus of storm energy at the target location, instantly dealing $1 Shock Damage to all enemies in the area and an additional $2 Shock Damage over $$2 seconds.",
   companionId: "temper-eso-companion/ember",
   abilityId: 166085,
-  skillLineId: "companion-ember-lightning-caller",
+  skillLineId: "temper-companion-skill-line/companion-ember-lightning-caller",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

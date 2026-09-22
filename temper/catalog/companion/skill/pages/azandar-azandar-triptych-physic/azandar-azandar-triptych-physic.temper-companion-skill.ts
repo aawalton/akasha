@@ -11,7 +11,7 @@ export const azandarAzandarTriptychPhysic = {
     "Your Companion launches a trio of restorative runes at themselves or an ally, healing for $1 Health three times.",
   companionId: "temper-eso-companion/azandar",
   abilityId: 192574,
-  skillLineId: "companion-azandar-revitalizing-researcher",
+  skillLineId: "temper-companion-skill-line/companion-azandar-revitalizing-researcher",
   skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",

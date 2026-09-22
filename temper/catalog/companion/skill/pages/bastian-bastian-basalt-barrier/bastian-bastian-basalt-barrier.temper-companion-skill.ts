@@ -11,7 +11,7 @@ export const bastianBastianBasaltBarrier = {
     "Your Companion calls the earth to their defense, granting a damage shield for them and their nearby allies that absorbs $1 damage for $$1 seconds. While the damage shield holds, healing received is increased by 15%.",
   companionId: "temper-eso-companion/bastian",
   abilityId: 153851,
-  skillLineId: "companion-bastian-radiating-heart",
+  skillLineId: "temper-companion-skill-line/companion-bastian-radiating-heart",
   skillType: "temper-skill-type/active",
   validRoles: ["tank", "support"],
   skillEffects: "jsonl",

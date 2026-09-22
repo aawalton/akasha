@@ -11,7 +11,7 @@ export const tanlorinTanlorinExplosiveFortitude = {
     "Your Companion's soul explodes outwards, dealing $1 Magic Damage around them. When they take damage, deal an additional $1 Magic Damage to nearby enemies. This effect can occur once every $$3 seconds over $$2 seconds.",
   companionId: "temper-eso-companion/tanlorin",
   abilityId: 214948,
-  skillLineId: "companion-tanlorin-empathic-fighter",
+  skillLineId: "temper-companion-skill-line/companion-tanlorin-empathic-fighter",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

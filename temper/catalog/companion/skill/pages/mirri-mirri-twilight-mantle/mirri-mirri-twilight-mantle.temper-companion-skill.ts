@@ -11,7 +11,7 @@ export const mirriMirriTwilightMantle = {
     "Your Companion shrouds themselves in refreshing shadows, healing for 25% of their Max Health and becoming invisible for $$2 seconds.",
   companionId: "temper-eso-companion/mirri",
   abilityId: 157201,
-  skillLineId: "companion-mirri-living-shade",
+  skillLineId: "temper-companion-skill-line/companion-mirri-living-shade",
   skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",

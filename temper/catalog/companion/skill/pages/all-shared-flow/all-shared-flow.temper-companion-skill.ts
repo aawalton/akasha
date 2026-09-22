@@ -10,7 +10,7 @@ export const allSharedFlow = {
   description:
     "Increases healing done by 1% for each piece of Light Armor equipped. Decreases Break Free cooldown by 5% for each piece of Light Armor equipped.",
   abilityId: 157728,
-  skillLineId: "armor-light",
+  skillLineId: "temper-companion-skill-line/armor-light",
   skillType: "temper-skill-type/passive",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

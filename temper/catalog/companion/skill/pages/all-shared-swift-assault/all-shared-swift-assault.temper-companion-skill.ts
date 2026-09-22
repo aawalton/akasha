@@ -10,7 +10,7 @@ export const allSharedSwiftAssault = {
   description:
     "Your Companion floods an enemy with steel, battering them with five consecutive attacks that each deal $1 Physical Damage.",
   abilityId: 152629,
-  skillLineId: "weapon-dual-wield",
+  skillLineId: "temper-companion-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

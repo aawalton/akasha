@@ -11,7 +11,7 @@ export const bastianBastianCrushingClaws = {
     "Your Companion calls forth talons from the ground, dealing $1 Flame Damage to enemies nearby and immobilizing them for $$2 seconds.",
   companionId: "temper-eso-companion/bastian",
   abilityId: 153812,
-  skillLineId: "companion-bastian-draconic-armor",
+  skillLineId: "temper-companion-skill-line/companion-bastian-draconic-armor",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

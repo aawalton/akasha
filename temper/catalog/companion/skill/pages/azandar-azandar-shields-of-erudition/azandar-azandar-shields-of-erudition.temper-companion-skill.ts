@@ -11,7 +11,7 @@ export const azandarAzandarShieldsOfErudition = {
     "Your Companion manifests spinning discs of pure knowledge to surround themselves and up to 2 allies, granting a damage shield that absorbs $1 damage for $$1 seconds.",
   companionId: "temper-eso-companion/azandar",
   abilityId: 192937,
-  skillLineId: "companion-azandar-revitalizing-researcher",
+  skillLineId: "temper-companion-skill-line/companion-azandar-revitalizing-researcher",
   skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",

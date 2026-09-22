@@ -11,7 +11,7 @@ export const tanlorinTanlorinRuinousOutburst = {
     "Your Companion swipes each hand, sending a massive wave of power to crash into enemies in front of them, dealing $1 Magic Damage followed by a second wave after 0.5 seconds dealing $2 Magic Damage. Enemies hit are knocked back and stunned for $$4 seconds.",
   companionId: "temper-eso-companion/tanlorin",
   abilityId: 215215,
-  skillLineId: "companion-tanlorin",
+  skillLineId: "temper-companion-skill-line/companion-tanlorin",
   skillType: "temper-skill-type/ultimate",
   validRoles: ["dps"],
   skillEffects: "jsonl",

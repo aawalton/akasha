@@ -11,7 +11,7 @@ export const bastianBastianKindle = {
     "Your Companion launches a searing fireball at themselves or an ally to cauterize their wounds, healing for $1 Health.",
   companionId: "temper-eso-companion/bastian",
   abilityId: 154925,
-  skillLineId: "companion-bastian-radiating-heart",
+  skillLineId: "temper-companion-skill-line/companion-bastian-radiating-heart",
   skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   skillEffects: "jsonl",

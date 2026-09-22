@@ -10,7 +10,7 @@ export const isobelIsobelEnchanted = {
   description: "Decreases ability cooldowns by 3% and damage taken by 3%.",
   companionId: "temper-eso-companion/isobel",
   abilityId: 169474,
-  skillLineId: "companion-isobel",
+  skillLineId: "temper-companion-skill-line/companion-isobel",
   skillType: "temper-skill-type/passive",
   validRoles: ["tank"],
   skillEffects: "jsonl",

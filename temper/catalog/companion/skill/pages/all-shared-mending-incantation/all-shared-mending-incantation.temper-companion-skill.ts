@@ -10,7 +10,7 @@ export const allSharedMendingIncantation = {
   description:
     "Your Companion slams their staff down to activate its blessings, healing themselves and allies in front of them for $1 Health. The blessing also grants 7000 Spell and Physical Resistance for $$2 seconds.",
   abilityId: 153467,
-  skillLineId: "weapon-restoration-staff",
+  skillLineId: "temper-companion-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank", "support"],
   tags: ["cone-aoe"],

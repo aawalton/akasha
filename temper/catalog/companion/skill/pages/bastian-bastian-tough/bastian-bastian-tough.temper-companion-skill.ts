@@ -10,7 +10,7 @@ export const bastianBastianTough = {
   description: "Increases Max Health by 3% and increases damage done by 3%.",
   companionId: "temper-eso-companion/bastian",
   abilityId: 157245,
-  skillLineId: "companion-bastian",
+  skillLineId: "temper-companion-skill-line/companion-bastian",
   skillType: "temper-skill-type/passive",
   validRoles: ["dps", "tank"],
   skillEffects: "jsonl",

@@ -10,7 +10,7 @@ export const allSharedFirmness = {
   description:
     "Increases healing received by 1% for each piece of Heavy Armor equipped. Increases damage blocked by 1% for each piece of Heavy Armor equipped.",
   abilityId: 157730,
-  skillLineId: "armor-heavy",
+  skillLineId: "temper-companion-skill-line/armor-heavy",
   skillType: "temper-skill-type/passive",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

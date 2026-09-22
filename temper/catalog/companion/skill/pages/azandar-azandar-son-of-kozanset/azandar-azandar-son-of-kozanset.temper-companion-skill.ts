@@ -10,7 +10,7 @@ export const azandarAzandarSonOfKozanset = {
   description: "Increases Max Health by 3% and decreases ability cooldowns by 3%.",
   companionId: "temper-eso-companion/azandar",
   abilityId: 193971,
-  skillLineId: "companion-azandar",
+  skillLineId: "temper-companion-skill-line/companion-azandar",
   skillType: "temper-skill-type/passive",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

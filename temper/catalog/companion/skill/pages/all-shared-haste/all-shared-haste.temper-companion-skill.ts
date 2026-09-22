@@ -10,7 +10,7 @@ export const allSharedHaste = {
   description:
     "Your Companion focuses their magical energies inward, resetting the cooldown of all their other abilities.",
   abilityId: 156340,
-  skillLineId: "armor-light",
+  skillLineId: "temper-companion-skill-line/armor-light",
   skillType: "temper-skill-type/active",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

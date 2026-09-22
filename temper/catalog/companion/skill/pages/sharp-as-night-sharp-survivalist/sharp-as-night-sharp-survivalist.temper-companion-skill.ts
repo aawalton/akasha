@@ -10,7 +10,7 @@ export const sharpAsNightSharpSurvivalist = {
   description: "Increases Physical and Spell Resistance by 3% and healing done by 3%.",
   companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 193973,
-  skillLineId: "companion-sharp-as-night",
+  skillLineId: "temper-companion-skill-line/companion-sharp-as-night",
   skillType: "temper-skill-type/passive",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

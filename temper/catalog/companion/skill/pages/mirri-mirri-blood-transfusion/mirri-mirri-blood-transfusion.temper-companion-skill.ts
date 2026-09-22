@@ -11,7 +11,7 @@ export const mirriMirriBloodTransfusion = {
     "Your Companion infuses an ally with blood, healing them for $1 Health over $$1 seconds.",
   companionId: "temper-eso-companion/mirri",
   abilityId: 157287,
-  skillLineId: "companion-mirri-soul-thief",
+  skillLineId: "temper-companion-skill-line/companion-mirri-soul-thief",
   skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   skillEffects: "jsonl",

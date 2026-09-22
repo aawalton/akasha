@@ -11,7 +11,7 @@ export const tanlorinTanlorinInternalConflict = {
     "Your Companion lays claim to an enemy's soul, dealing $1 Magic Damage to their target over $$1 seconds.",
   companionId: "temper-eso-companion/tanlorin",
   abilityId: 214865,
-  skillLineId: "companion-tanlorin-empathic-fighter",
+  skillLineId: "temper-companion-skill-line/companion-tanlorin-empathic-fighter",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

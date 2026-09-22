@@ -11,7 +11,7 @@ export const mirriMirriMasqueOfTorment = {
     "Your Companion terrifies nearby enemies, causing them to cower in fear for $$1 seconds.",
   companionId: "temper-eso-companion/mirri",
   abilityId: 153856,
-  skillLineId: "companion-mirri-living-shade",
+  skillLineId: "temper-companion-skill-line/companion-mirri-living-shade",
   skillType: "temper-skill-type/active",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

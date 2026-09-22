@@ -11,7 +11,7 @@ export const mirriMirriShadowSlash = {
     "Your Companion slashes an enemy, dealing $1 Magic Damage and setting them Off Balance for $$2 seconds.",
   companionId: "temper-eso-companion/mirri",
   abilityId: 156182,
-  skillLineId: "companion-mirri-deadly-assassin",
+  skillLineId: "temper-companion-skill-line/companion-mirri-deadly-assassin",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

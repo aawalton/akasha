@@ -11,7 +11,7 @@ export const isobelIsobelBaneslayer = {
     "Your Companion channels their energy and conjures a weapon made of sunlight before striking downward, dealing $1 Magic Damage to all enemies in front of them. Enemies damaged by Baneslayer have particles remaining on them for $$2 seconds that detonate for $2 Magic Damage when a player deals damage to them.",
   companionId: "temper-eso-companion/isobel",
   abilityId: 163763,
-  skillLineId: "companion-isobel",
+  skillLineId: "temper-companion-skill-line/companion-isobel",
   skillType: "temper-skill-type/ultimate",
   validRoles: ["dps"],
   skillEffects: "jsonl",

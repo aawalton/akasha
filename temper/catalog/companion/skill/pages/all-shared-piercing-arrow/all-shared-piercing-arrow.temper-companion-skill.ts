@@ -10,7 +10,7 @@ export const allSharedPiercingArrow = {
   description:
     "Your Companion plants a masterfully aimed arrow in an enemy's vital spot, dealing $1 Physical Damage.",
   abilityId: 152793,
-  skillLineId: "weapon-bow",
+  skillLineId: "temper-companion-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

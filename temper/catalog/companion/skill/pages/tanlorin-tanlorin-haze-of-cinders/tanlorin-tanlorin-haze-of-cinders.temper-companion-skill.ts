@@ -11,7 +11,7 @@ export const tanlorinTanlorinHazeOfCinders = {
     "Your Companion summons a scorching cloud of ash at the target location for $$1 seconds, reducing enemy Movement Speed by 70% and healing them and their allies for $1 Health every 2 seconds.",
   companionId: "temper-eso-companion/tanlorin",
   abilityId: 214708,
-  skillLineId: "companion-tanlorin-radiating-heart",
+  skillLineId: "temper-companion-skill-line/companion-tanlorin-radiating-heart",
   skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   skillEffects: "jsonl",

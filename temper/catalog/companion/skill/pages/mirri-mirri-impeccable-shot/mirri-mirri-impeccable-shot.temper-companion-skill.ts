@@ -11,7 +11,7 @@ export const mirriMirriImpeccableShot = {
     "Your Companion marks an enemy and exposes their weakness, causing them to take 20% more damage for $$2 seconds. While the enemy is exposed they build up to a single killing shot, unleashing a massive bolt that deals $1 Physical Damage.",
   companionId: "temper-eso-companion/mirri",
   abilityId: 157259,
-  skillLineId: "companion-mirri",
+  skillLineId: "temper-companion-skill-line/companion-mirri",
   skillType: "temper-skill-type/ultimate",
   validRoles: ["dps", "support"],
   skillEffects: "jsonl",

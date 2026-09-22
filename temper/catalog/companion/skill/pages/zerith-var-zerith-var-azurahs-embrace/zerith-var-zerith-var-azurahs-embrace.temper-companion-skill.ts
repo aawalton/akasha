@@ -11,7 +11,7 @@ export const zerithVarZerithVarAzurahsEmbrace = {
     "Your Companion absolves the misdeeds of fallen souls at the target location, healing themselves and their allies for $1 Health and removing up to 3 negative effects.",
   companionId: "temper-eso-companion/zerith-var",
   abilityId: 213162,
-  skillLineId: "companion-zerith-var-remedy-of-atonement",
+  skillLineId: "temper-companion-skill-line/companion-zerith-var-remedy-of-atonement",
   skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   skillEffects: "jsonl",

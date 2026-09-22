@@ -11,7 +11,7 @@ export const isobelIsobelBlessedSacrament = {
     "Your Companion sends out a burst of soothing light, healing themselves or a nearby ally for $1 Health, and an additional $2 every 2 seconds for $$2 seconds as the light momentarily lingers.",
   companionId: "temper-eso-companion/isobel",
   abilityId: 163614,
-  skillLineId: "companion-isobel-healing-grace",
+  skillLineId: "temper-companion-skill-line/companion-isobel-healing-grace",
   skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",

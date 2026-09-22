@@ -10,7 +10,7 @@ export const allSharedReverseEntropy = {
   description:
     "Your Companion envelops an ally with stabilizing magic, healing them for $1 Health over $$1 seconds.",
   abilityId: 155408,
-  skillLineId: "guild-mages",
+  skillLineId: "temper-companion-skill-line/guild-mages",
   skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   skillEffects: "jsonl",

@@ -11,7 +11,7 @@ export const azandarAzandarTheTriuneWord = {
     "Your Companion crafts a trio of runes before launching them at an enemy, dealing $1 Magic Damage three times.",
   companionId: "temper-eso-companion/azandar",
   abilityId: 191273,
-  skillLineId: "companion-azandar-scholar-of-apocrypha",
+  skillLineId: "temper-companion-skill-line/companion-azandar-scholar-of-apocrypha",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

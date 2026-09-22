@@ -10,7 +10,7 @@ export const zerithVarZerithVarThirdMoonsChosen = {
   description: "Decreases ability cooldowns by 3% and increases Health by 3%.",
   companionId: "temper-eso-companion/zerith-var",
   abilityId: 214162,
-  skillLineId: "companion-zerith-var",
+  skillLineId: "temper-companion-skill-line/companion-zerith-var",
   skillType: "temper-skill-type/passive",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

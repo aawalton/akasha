@@ -91,7 +91,7 @@ export async function readCompanionSkills(): Promise<readonly CompanionSkillTemp
       icon: typeof row.icon === "string" ? row.icon : null,
       description: textIn(row.description, "description", at),
       companionId: slugAt(row, "companionId"),
-      skillLineId: textIn(row.skillLineId, "skillLineId", at),
+      skillLineId: textIn(slugAt(row, "skillLineId"), "skillLineId", at),
       skillType: kindIn(slugAt(row, "skillType"), at),
       effects: effectsIn(row.skillEffects),
       castConditions: conditionsIn(row.castConditions),

@@ -11,7 +11,7 @@ export const emberEmberThunderousStrike = {
     "Your Companion calls down an explosion of lightning to finish off an enemy, dealing $1 Shock Damage and an additional $2 Shock Damage to other nearby enemies.",
   companionId: "temper-eso-companion/ember",
   abilityId: 164291,
-  skillLineId: "companion-ember-lightning-caller",
+  skillLineId: "temper-companion-skill-line/companion-ember-lightning-caller",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

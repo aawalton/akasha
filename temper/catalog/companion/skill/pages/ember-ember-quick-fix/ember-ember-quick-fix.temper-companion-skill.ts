@@ -11,7 +11,7 @@ export const emberEmberQuickFix = {
     "Your Companion patches themselves or an ally with restorative magic, healing for $1 Health.",
   companionId: "temper-eso-companion/ember",
   abilityId: 166018,
-  skillLineId: "companion-ember-playful-schemer",
+  skillLineId: "temper-companion-skill-line/companion-ember-playful-schemer",
   skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",

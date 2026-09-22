@@ -11,7 +11,7 @@ export const sharpAsNightSharpFungalForage = {
     "Your Companion musters a cluster of mushrooms, healing you and your allies for $1 Health. Heals for 50% more on allies that are within 8 meters of Your Companion.",
   companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 186598,
-  skillLineId: "companion-sharp-as-night-verdant-growth",
+  skillLineId: "temper-companion-skill-line/companion-sharp-as-night-verdant-growth",
   skillType: "temper-skill-type/active",
   validRoles: ["healer"],
   skillEffects: "jsonl",

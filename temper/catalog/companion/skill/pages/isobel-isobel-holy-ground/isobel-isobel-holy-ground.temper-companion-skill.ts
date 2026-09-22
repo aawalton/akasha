@@ -11,7 +11,7 @@ export const isobelIsobelHolyGround = {
     "Your Companion consecrates the ground under them for $$1 seconds, healing themselves and nearby allies $1 Health every 2 seconds and snaring enemies by 50%.",
   companionId: "temper-eso-companion/isobel",
   abilityId: 163660,
-  skillLineId: "companion-isobel-healing-grace",
+  skillLineId: "temper-companion-skill-line/companion-isobel-healing-grace",
   skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",

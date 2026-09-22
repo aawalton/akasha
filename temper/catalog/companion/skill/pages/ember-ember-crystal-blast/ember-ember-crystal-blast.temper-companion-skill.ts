@@ -11,7 +11,7 @@ export const emberEmberCrystalBlast = {
     "Your Companion conjures dark crystals to bombard an enemy, dealing $1 Magic Damage.",
   companionId: "temper-eso-companion/ember",
   abilityId: 164289,
-  skillLineId: "companion-ember-lightning-caller",
+  skillLineId: "temper-companion-skill-line/companion-ember-lightning-caller",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

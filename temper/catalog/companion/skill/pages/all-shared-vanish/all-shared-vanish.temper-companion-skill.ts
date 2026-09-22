@@ -10,7 +10,7 @@ export const allSharedVanish = {
   description:
     "Your Companion disappears in a puff of smoke, healing to full Health and becoming invisible for $$2 seconds.",
   abilityId: 156596,
-  skillLineId: "armor-medium",
+  skillLineId: "temper-companion-skill-line/armor-medium",
   skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",

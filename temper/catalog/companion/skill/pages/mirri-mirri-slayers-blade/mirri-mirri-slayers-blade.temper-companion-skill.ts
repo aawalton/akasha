@@ -11,7 +11,7 @@ export const mirriMirriSlayersBlade = {
     "Your Companion thrusts a magic blade with lethal precision to finish off an enemy, dealing $1 Magic Damage.",
   companionId: "temper-eso-companion/mirri",
   abilityId: 153855,
-  skillLineId: "companion-mirri-deadly-assassin",
+  skillLineId: "temper-companion-skill-line/companion-mirri-deadly-assassin",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

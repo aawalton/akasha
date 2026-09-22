@@ -11,7 +11,7 @@ export const bastianBastianBlazingGrasp = {
     "Your Companion launches a fiery chain to grasp and pull an enemy to them, taunting them for $$2 seconds if they are not already taunted.",
   companionId: "temper-eso-companion/bastian",
   abilityId: 153839,
-  skillLineId: "companion-bastian-draconic-armor",
+  skillLineId: "temper-companion-skill-line/companion-bastian-draconic-armor",
   skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",

@@ -10,7 +10,7 @@ export const allSharedMysticFortress = {
   description:
     "Your Companion calls on their staff's strength to protect themselves or the lowest health ally around them, granting a damage shield that absorbs $1 damage over $$1 seconds.",
   abilityId: 153685,
-  skillLineId: "weapon-restoration-staff",
+  skillLineId: "temper-companion-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",

@@ -11,7 +11,7 @@ export const sharpAsNightSharpColdSnap = {
     "Your Companion encircles themselves with ice shards to skewer enemies in the area, immobilizing them for $$1 seconds and dealing $1 Frost Damage every 2 seconds for 8 seconds. Damage done is based on Your Companion's Max Health.",
   companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 186604,
-  skillLineId: "companion-sharp-as-night-winters-bite",
+  skillLineId: "temper-companion-skill-line/companion-sharp-as-night-winters-bite",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

@@ -11,7 +11,7 @@ export const mirriMirriGhostlyEvasion = {
     "Your Companion surrounds themselves in a phantasmic aura, dodging the next attack made against them while also reducing their damage taken by 20% for $$2 seconds.",
   companionId: "temper-eso-companion/mirri",
   abilityId: 157197,
-  skillLineId: "companion-mirri-living-shade",
+  skillLineId: "temper-companion-skill-line/companion-mirri-living-shade",
   skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",

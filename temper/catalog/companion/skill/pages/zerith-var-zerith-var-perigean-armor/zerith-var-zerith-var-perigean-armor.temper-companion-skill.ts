@@ -11,7 +11,7 @@ export const zerithVarZerithVarPerigeanArmor = {
     "Your Companion wraps themselves in moon-empowered bone, granting them Major Resolve, increasing their Spell and Physical Resistance by 5948 for $$1 seconds. While active, enemies that strike them with ranged attacks will be pulled toward them once every 2 seconds and become taunted for $$3 seconds if they are not already taunted. Creates a corpse when effect completes.",
   companionId: "temper-eso-companion/zerith-var",
   abilityId: 213165,
-  skillLineId: "companion-zerith-var-guardians-commitment",
+  skillLineId: "temper-companion-skill-line/companion-zerith-var-guardians-commitment",
   skillType: "temper-skill-type/active",
   validRoles: ["tank"],
   skillEffects: "jsonl",

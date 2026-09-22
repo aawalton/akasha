@@ -11,7 +11,7 @@ export const zerithVarZerithVarStrandsOfTheLattice = {
     "Your Companion dislodges a spirit's ties to a corpse, releasing spiritual energy and dealing $1 Disease Damage every 2 seconds over 10 seconds. Damage is done within 5m to enemies around the corpse, within 5m to enemies around them, and in a line between them and the corpse. After 10 seconds the corpse explodes, dealing an additional $3 Disease Damage to all enemies around the corpse.",
   companionId: "temper-eso-companion/zerith-var",
   abilityId: 216057,
-  skillLineId: "companion-zerith-var-warriors-banishment",
+  skillLineId: "temper-companion-skill-line/companion-zerith-var-warriors-banishment",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

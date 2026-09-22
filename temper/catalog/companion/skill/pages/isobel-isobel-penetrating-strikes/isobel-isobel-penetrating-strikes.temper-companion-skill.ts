@@ -11,7 +11,7 @@ export const isobelIsobelPenetratingStrikes = {
     "Your Companion attacks three times with a magic spear, dealing $1 Magic Damage to all enemies in front of them with each strike. After their assault, Your Companion grants themselves and nearby allies a boon that increases the damage of their next Light or Heavy Attack by 50%.",
   companionId: "temper-eso-companion/isobel",
   abilityId: 163458,
-  skillLineId: "companion-isobel-blazing-might",
+  skillLineId: "temper-companion-skill-line/companion-isobel-blazing-might",
   skillType: "temper-skill-type/active",
   validRoles: ["dps", "support"],
   skillEffects: "jsonl",

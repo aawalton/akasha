@@ -11,7 +11,7 @@ export const azandarAzandarFateOmensInspiration = {
     "Your Companion charges their weapons and their allies' weapons with apocryphal energy for $$1 seconds, applying Minor Berserk, increasing their damage done by 5%.",
   companionId: "temper-eso-companion/azandar",
   abilityId: 191765,
-  skillLineId: "companion-azandar-scholar-of-apocrypha",
+  skillLineId: "temper-companion-skill-line/companion-azandar-scholar-of-apocrypha",
   skillType: "temper-skill-type/active",
   validRoles: ["dps", "support"],
   skillEffects: "jsonl",

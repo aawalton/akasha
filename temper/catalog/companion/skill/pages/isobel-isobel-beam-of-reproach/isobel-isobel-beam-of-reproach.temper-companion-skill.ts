@@ -11,7 +11,7 @@ export const isobelIsobelBeamOfReproach = {
     "Your Companion bathes an enemy in a beam of sunlight, immediately dealing $1 Magic Damage and healing allies nearby for $2 Health. The residual light will then continue to heal allies near the enemy for $3 Health every 2 seconds for $$3 seconds.",
   companionId: "temper-eso-companion/isobel",
   abilityId: 163684,
-  skillLineId: "companion-isobel-healing-grace",
+  skillLineId: "temper-companion-skill-line/companion-isobel-healing-grace",
   skillType: "temper-skill-type/active",
   validRoles: ["dps", "healer"],
   skillEffects: "jsonl",

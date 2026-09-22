@@ -10,7 +10,7 @@ export const allSharedElementalBarricade = {
   description:
     "Your Companion slams their staff down to create an elemental wall in front of them, dealing $1 Magic Damage over $$1 seconds.",
   abilityId: 157140,
-  skillLineId: "weapon-destruction-staff",
+  skillLineId: "temper-companion-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   tags: ["ground-aoe"],

@@ -10,7 +10,7 @@ export const allSharedSunder = {
   description:
     "Your Companion slices all enemies in front of them with a mighty swing, dealing $1 Physical Damage and an additional $2 Physical Damage over $$2 seconds.",
   abilityId: 152512,
-  skillLineId: "weapon-two-handed",
+  skillLineId: "temper-companion-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

@@ -46,3 +46,4 @@
 {"propertySlug":"import","fileName":"temper-companion-skill-line.page-type.types.ts","path":"temper/catalog/companion/skill-line/pages/weapon-restoration-staff.temper-companion-skill-line.ts"}
 {"propertySlug":"import","fileName":"temper-companion-skill-line.page-type.types.ts","path":"temper/catalog/companion/skill-line/pages/weapon-two-handed.temper-companion-skill-line.ts"}
 {"propertySlug":"parts","path":"temper/catalog/companion/temper-companion.domain.ts","id":"01a05fba-ce3c-7e66-903a-166903fcf181"}
+{"propertySlug":"target-page-type","path":"temper/catalog/companion/skill/properties/companion-skill-line.relation-property.ts","id":"01a0cad6-787b-7695-9873-1e5fd26d5b56"}

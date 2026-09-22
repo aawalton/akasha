@@ -10,7 +10,7 @@ export const allSharedRazorCape = {
   description:
     "Your Companion envelops themselves in a ring of floating razors, dealing $1 Physical Damage to nearby enemies every 2 seconds for $$1 seconds. The razors also shield them from attacks, reducing their damage taken by 20%.",
   abilityId: 152696,
-  skillLineId: "weapon-dual-wield",
+  skillLineId: "temper-companion-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
   validRoles: ["dps", "tank"],
   skillEffects: "jsonl",

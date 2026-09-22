@@ -9,7 +9,7 @@ export const allSharedBashingBulwark = {
   icon: "/esoui/art/icons/ability_companion_1handed_003.dds",
   description: "Your Companion rushes an enemy and rams them, stunning them for $$1 seconds.",
   abilityId: 155326,
-  skillLineId: "weapon-one-hand-shield",
+  skillLineId: "temper-companion-skill-line/weapon-one-hand-shield",
   skillType: "temper-skill-type/active",
   skillEffects: "jsonl",
   castConditions: "jsonl",

@@ -10,7 +10,7 @@ export const allSharedSpinningSteel = {
   description:
     "Your Companion launches themselves in a lethal spin, dealing $1 Physical Damage to nearby enemies. Deals triple damage to enemies below 25% Health.",
   abilityId: 152693,
-  skillLineId: "weapon-dual-wield",
+  skillLineId: "temper-companion-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   tags: ["execute-3x-below-25pct"],

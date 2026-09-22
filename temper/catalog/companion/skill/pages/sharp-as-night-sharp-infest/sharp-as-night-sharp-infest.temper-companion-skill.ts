@@ -11,7 +11,7 @@ export const sharpAsNightSharpInfest = {
     "Your Companion provokes a cloud of fetcherflies to swarm an enemy, dealing $1 Magic Damage over $$1 seconds. The fetcherflies rip through the enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by 5%.",
   companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 186485,
-  skillLineId: "companion-sharp-as-night-beasts-of-the-hunt",
+  skillLineId: "temper-companion-skill-line/companion-sharp-as-night-beasts-of-the-hunt",
   skillType: "temper-skill-type/active",
   validRoles: ["dps", "support"],
   skillEffects: "jsonl",

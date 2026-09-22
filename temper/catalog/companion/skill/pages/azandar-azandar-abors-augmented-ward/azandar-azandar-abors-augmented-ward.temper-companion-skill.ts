@@ -11,7 +11,7 @@ export const azandarAzandarAborsAugmentedWard = {
     "Your Companion draws on advanced research to gain a damage shield that absorbs up to 25% of their Max Health for $$1 seconds. The first time they take direct damage after casting, the shield retaliates and deals $2 Magic Damage to the attacker.",
   companionId: "temper-eso-companion/azandar",
   abilityId: 191939,
-  skillLineId: "companion-azandar-quill-knight",
+  skillLineId: "temper-companion-skill-line/companion-azandar-quill-knight",
   skillType: "temper-skill-type/active",
   validRoles: ["dps", "tank"],
   tags: ["max-health-shield-25pct", "retaliation-damage"],

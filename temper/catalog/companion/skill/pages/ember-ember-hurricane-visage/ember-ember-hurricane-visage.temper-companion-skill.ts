@@ -11,7 +11,7 @@ export const emberEmberHurricaneVisage = {
     "Your Companion manifests themselves as pure lightning, zapping nearby enemies with electricity dealing $1 Shock Damage over $$2 seconds. While in this form their damage taken is reduced by 20%.",
   companionId: "temper-eso-companion/ember",
   abilityId: 165860,
-  skillLineId: "companion-ember-mischievous-caster",
+  skillLineId: "temper-companion-skill-line/companion-ember-mischievous-caster",
   skillType: "temper-skill-type/active",
   validRoles: ["dps", "tank"],
   skillEffects: "jsonl",

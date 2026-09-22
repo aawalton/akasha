@@ -10,7 +10,7 @@ export const allSharedFlexibility = {
   description:
     "Increases damage done by 1% for each piece of Medium Armor equipped. Decreases Roll Dodge cooldown by 5% for each piece of Medium Armor equipped.",
   abilityId: 157729,
-  skillLineId: "armor-medium",
+  skillLineId: "temper-companion-skill-line/armor-medium",
   skillType: "temper-skill-type/passive",
   skillEffects: "jsonl",
 } as const satisfies TemperCompanionSkill

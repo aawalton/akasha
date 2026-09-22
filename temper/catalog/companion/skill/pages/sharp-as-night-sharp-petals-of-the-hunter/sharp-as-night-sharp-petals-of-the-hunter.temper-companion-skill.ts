@@ -11,7 +11,7 @@ export const sharpAsNightSharpPetalsOfTheHunter = {
     "Your Companion calls on the essence of a carnivorous bloom, causing their Light Attacks to restore $1 Health to themselves or up to 2 nearby allies for $$1 seconds.",
   companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 186601,
-  skillLineId: "companion-sharp-as-night-verdant-growth",
+  skillLineId: "temper-companion-skill-line/companion-sharp-as-night-verdant-growth",
   skillType: "temper-skill-type/active",
   validRoles: ["healer", "tank"],
   skillEffects: "jsonl",

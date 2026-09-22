@@ -11,7 +11,7 @@ export const sharpAsNightSharpChar = {
     "Your Companion unearths a group of fiery shalk that attack dealing $1 Magic Damage to enemies in front of them. After the shalk complete their attack, they burrow underground for 3 seconds and resurface again, dealing $2 Magic Damage to enemies in front of them.",
   companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 186486,
-  skillLineId: "companion-sharp-as-night-beasts-of-the-hunt",
+  skillLineId: "temper-companion-skill-line/companion-sharp-as-night-beasts-of-the-hunt",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",

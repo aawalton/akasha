@@ -10,7 +10,7 @@ export const bastianBastianCragSmash = {
   description: "Your Companion hurls a chunk of rock at an enemy, dealing $1 Physical Damage.",
   companionId: "temper-eso-companion/bastian",
   abilityId: 155186,
-  skillLineId: "companion-bastian-ardent-warrior",
+  skillLineId: "temper-companion-skill-line/companion-bastian-ardent-warrior",
   skillType: "temper-skill-type/active",
   validRoles: ["dps"],
   skillEffects: "jsonl",
