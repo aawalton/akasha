@@ -508,6 +508,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       absorbedFileBase: "LibAsync",
       absorbedGlobal: "AsyncSavedVars",
       targetFileBase: "Temper",
+      renamedTo: "TemperAsyncSavedVars",
     },
   },
   {
