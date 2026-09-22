@@ -55,6 +55,7 @@
 {"propertySlug":"name-format","path":"story/game/entity/properties/equipment-slot.text-property.ts","id":"01a0c63a-0f6e-740e-8eb1-719fb7926587"}
 {"propertySlug":"name-format","path":"story/game/properties/game-engine.text-property.ts","id":"01a0673c-8e0e-7000-9766-2ad03b196843"}
 {"propertySlug":"name-format","path":"story/game/properties/genre.text-property.ts","id":"01a0673c-8e0e-7005-9075-7892b4954917"}
+{"propertySlug":"name-format","path":"story/game/turn/properties/window-kind.text-property.ts","id":"01a0c67f-cf68-709d-b1aa-f17278bd8ecd"}
 {"propertySlug":"name-format","path":"story/world/characters/properties/epistemic.text-property.ts","id":"01a0b6f7-33d9-7623-9db7-4338dfc0d927"}
 {"propertySlug":"name-format","path":"story/world/mechanics/properties/claimed-by-slug.text-property.ts","id":"01a06558-a991-7488-9ae2-ee17116e4221"}
 {"propertySlug":"name-format","path":"story/world/mechanics/properties/evolves-from-slugs.text-property.ts","id":"01a0655d-ac15-7900-8205-60508a002f32"}

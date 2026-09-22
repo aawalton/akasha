@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"entity-level.number-property.types.ts","path":"story/game/entity/game-entity.page-type.types.ts"}
+{"propertySlug":"import","fileName":"entity-level.number-property.types.ts","path":"story/game/turn/properties/system-window.record-property.types.ts"}
 {"propertySlug":"page-property","path":"story/game/entity/game-entity.page-type.ts","id":"01a0c631-b09e-76b0-8b33-5a7ff9d75891"}
+{"propertySlug":"page-property","path":"story/game/turn/properties/system-window.record-property.ts","id":"01a0c680-3679-76c4-9c9a-ac85779d4f39"}
 {"propertySlug":"parts","path":"story/game/entity/game-entity.page-type.ts","id":"01a0c631-b09e-76b0-8b33-5a7ff9d75891"}
