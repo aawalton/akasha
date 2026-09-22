@@ -5,7 +5,12 @@ export const noUnusedModules = {
   type: "page-type/check-code",
   slug: "no-unused-modules",
   definition: "the check refusing a module nothing reaches",
-  parts: ["module/bundle-reaching", "module/module-gathering", "module/slug-spelling"],
+  parts: [
+    "module/bundle-reaching",
+    "module/module-gathering",
+    "module/slug-spelling",
+    "module/path-spelling",
+  ],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -24,7 +29,11 @@ export const noUnusedModules = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "All three are asked before a module is refused.",
+      statement: "A module a file outside TypeScript names by path is reached.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "All four are asked before a module is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -65,6 +74,11 @@ export const noUnusedModules = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The files outside TypeScript are read only where the other three routes found nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A module a commit inside the last day holds any file of is passed over.",
     },
     {
@@ -98,11 +112,7 @@ export const noUnusedModules = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "A module the test runner preloads by path reads as unreached.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A module a manifest names by path reads as unreached.",
+      statement: "A module a path pieced together at run time names reads as unreached.",
     },
     {
       decisionKind: "decision-kind/gap",

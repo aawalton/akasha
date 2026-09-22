@@ -1568,6 +1568,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.ts","id":"01a09577-1c6e-70ac-9225-958238aed3c2"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unused-modules/modules/bundle-reaching/bundle-reaching.module.ts","id":"01a0c660-9eed-7001-ad2e-8c5c84c9f8b7"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unused-modules/modules/module-gathering/module-gathering.module.ts","id":"01a0c660-9eed-7000-bf49-551a02837b43"}
+{"propertySlug":"decision-kind","path":"check/code/pages/no-unused-modules/modules/path-spelling/path-spelling.module.ts","id":"01a0c67b-8494-7000-8c19-63ef540669b0"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unused-modules/modules/slug-spelling/slug-spelling.module.ts","id":"01a0c660-9eed-7002-a988-5c9dba196faf"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unused-modules/no-unused-modules.check-code.ts","id":"01a0c660-9eec-7000-9740-2457fdcae980"}
 {"propertySlug":"decision-kind","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.ts","id":"01a077f1-476a-7f87-bc33-22c26c2fc750"}

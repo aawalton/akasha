@@ -126,6 +126,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/no-unused-modules/modules/bundle-reaching/bundle-reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/no-unused-modules/modules/module-gathering/module-gathering.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/no-unused-modules/modules/path-spelling/path-spelling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/no-unused-modules/no-unused-modules.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/no-unused-modules/no-unused-modules.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/page-matches-its-type/page-matches-its-type.check-code.decision.code.ts"}

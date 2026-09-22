@@ -7,6 +7,7 @@ import {
   type Gathered,
   modulesIn,
 } from "akasha/check/code/pages/no-unused-modules/modules/module-gathering/module-gathering.module.code.ts"
+import { pathsNamed } from "akasha/check/code/pages/no-unused-modules/modules/path-spelling/path-spelling.module.code.ts"
 import { slugsSpelled } from "akasha/check/code/pages/no-unused-modules/modules/slug-spelling/slug-spelling.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -32,13 +33,17 @@ export function unreachedIn(change: Change, shadow: Shadow): readonly Gathered[]
   const outside = unimported.filter((one) => !one.files.some((two) => bundled.has(two)))
   if (outside.length === 0) return outside
   const spelled = slugsSpelled(change, outside)
-  return outside.filter((one) => !spelled.has(one.slug))
+  const unspelled = outside.filter((one) => !spelled.has(one.slug))
+  if (unspelled.length === 0) return unspelled
+  const named = pathsNamed(change, unspelled)
+  return unspelled.filter((one) => !named.has(one.page))
 }
 
 export function reasonFor(one: Gathered): string {
   return (
-    `no file imports \`${one.slug}\`, no bundle entry point reaches it` +
-    ` and no other file spells its slug — ${REACHED}`
+    `no file imports \`${one.slug}\`, no bundle entry point reaches it,` +
+    ` no other file spells its slug and no file outside TypeScript names a file of it by path` +
+    ` — ${REACHED}`
   )
 }
 
