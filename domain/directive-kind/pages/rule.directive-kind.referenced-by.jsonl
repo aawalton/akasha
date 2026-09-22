@@ -31,7 +31,6 @@
 {"propertySlug":"directive-kind","path":"domain/decision-group/pages/intent.decision-group.ts","id":"01a04e11-9f98-71e8-b821-77545c6be68e"}
 {"propertySlug":"directive-kind","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
 {"propertySlug":"directive-kind","path":"domain/properties/decisions.record-property.ts","id":"01a04e14-2276-7559-823a-c7ac8abf852e"}
-{"propertySlug":"directive-kind","path":"domain/sentence-shape/sentence-shape.page-type.ts","id":"01a05da1-60fc-76ca-8503-b43deb6d5f53"}
 {"propertySlug":"directive-kind","path":"git/modules/holding/holding.module.ts","id":"01a04df0-eccd-725e-9745-6888f36628bf"}
 {"propertySlug":"directive-kind","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
 {"propertySlug":"directive-kind","path":"infrastructure/inference/generation/generation.domain.ts","id":"01a0658b-0f02-7c33-9784-2d0807309315"}

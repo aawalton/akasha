@@ -1,6 +1,0 @@
-{"propertySlug":"import","fileName":"shape-predicate.module.code.ts","path":"domain/sentence-shape/closing-count/closing-count.sentence-shape.code.ts"}
-{"propertySlug":"import","fileName":"shape-predicate.module.code.ts","path":"domain/sentence-shape/lone-determiner/lone-determiner.sentence-shape.code.ts"}
-{"propertySlug":"import","fileName":"shape-predicate.module.code.ts","path":"domain/sentence-shape/lone-pronoun/lone-pronoun.sentence-shape.code.ts"}
-{"propertySlug":"import","fileName":"shape-predicate.module.code.ts","path":"domain/sentence-shape/lone-quantifier/lone-quantifier.sentence-shape.code.ts"}
-{"propertySlug":"import","fileName":"shape-predicate.module.code.ts","path":"domain/sentence-shape/partitive-quantifier/partitive-quantifier.sentence-shape.code.ts"}
-{"propertySlug":"parts","path":"domain/plain-language/plain-language.domain.ts","id":"01a05d93-dbec-79d5-a299-9264b3de7464"}

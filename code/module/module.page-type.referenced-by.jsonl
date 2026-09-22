@@ -7,7 +7,6 @@
 {"propertySlug":"extends-type","path":"code/performance/performance.page-type.ts","id":"01a08786-9212-746c-80e0-13134209de62"}
 {"propertySlug":"extends-type","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}
 {"propertySlug":"extends-type","path":"domain/context/warrant/context-warrant.page-type.ts","id":"01a04f56-55c4-7000-ba0d-c91b6e76b850"}
-{"propertySlug":"extends-type","path":"domain/sentence-shape/sentence-shape.page-type.ts","id":"01a05da1-60fc-76ca-8503-b43deb6d5f53"}
 {"propertySlug":"extends-type","path":"page/address-kind/page-address-kind.page-type.ts","id":"01a0731d-07e7-77ea-85a1-aac50ce5d3b2"}
 {"propertySlug":"extends-type","path":"page/computed-property-module/computed-property-module.page-type.ts","id":"01a08202-ae3b-7dad-afcb-d0ad4adc1214"}
 {"propertySlug":"extends-type","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}
@@ -1691,9 +1690,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/dependency-graph/dependency-graph.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/onnx-parsing/onnx-parsing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/parse-cache/parse-cache.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/shape-predicate/shape-predicate.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/word-tokenizing/word-tokenizing.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/sentence-shape/sentence-shape.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.ts"}

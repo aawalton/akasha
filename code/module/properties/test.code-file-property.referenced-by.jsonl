@@ -8,7 +8,6 @@
 {"propertySlug":"import","fileName":"test.code-file-property.types.ts","path":"code/module-property-group/module-property-group.page-type.types.ts"}
 {"propertySlug":"import","fileName":"test.code-file-property.types.ts","path":"code/module/module.page-type.types.ts"}
 {"propertySlug":"import","fileName":"test.code-file-property.types.ts","path":"domain/context/warrant/context-warrant.page-type.types.ts"}
-{"propertySlug":"import","fileName":"test.code-file-property.types.ts","path":"domain/sentence-shape/sentence-shape.page-type.types.ts"}
 {"propertySlug":"import","fileName":"test.code-file-property.types.ts","path":"page/computed-property/computed-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"test.code-file-property.types.ts","path":"page/index/index.page-type.types.ts"}
 {"propertySlug":"import","fileName":"test.code-file-property.types.ts","path":"page/name-format/name-format.page-type.types.ts"}
@@ -19,7 +18,6 @@
 {"propertySlug":"page-property","path":"code/module-property-group/module-property-group.page-type.ts","id":"01a087b6-ed4d-74ed-b30f-7c9dd49d73c0"}
 {"propertySlug":"page-property","path":"code/module/module.page-type.ts","id":"01a04a20-6e04-7b99-81a0-0efe0ad0a02a"}
 {"propertySlug":"page-property","path":"domain/context/warrant/context-warrant.page-type.ts","id":"01a04f56-55c4-7000-ba0d-c91b6e76b850"}
-{"propertySlug":"page-property","path":"domain/sentence-shape/sentence-shape.page-type.ts","id":"01a05da1-60fc-76ca-8503-b43deb6d5f53"}
 {"propertySlug":"page-property","path":"page/computed-property/computed-property.page-type.ts","id":"01a06e70-0f25-77ad-9080-95388ef3ba51"}
 {"propertySlug":"page-property","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}
 {"propertySlug":"page-property","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}

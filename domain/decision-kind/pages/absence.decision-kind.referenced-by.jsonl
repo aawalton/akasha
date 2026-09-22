@@ -1397,11 +1397,9 @@
 {"propertySlug":"decision-kind","path":"domain/modules/work-initiatives/work-initiatives.module.ts","id":"01a04e9f-4572-7339-8438-7d5a5777f8ab"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/modules/onnx-parsing/onnx-parsing.module.ts","id":"01a06d3b-743d-7534-a0c5-08148c804484"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/modules/parse-cache/parse-cache.module.ts","id":"01a071f0-796a-7957-a5e6-d600ac1d3f8a"}
-{"propertySlug":"decision-kind","path":"domain/plain-language/modules/shape-predicate/shape-predicate.module.ts","id":"01a06d15-c08a-7cb9-a166-2c8d5553765b"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/modules/word-tokenizing/word-tokenizing.module.ts","id":"01a06cd8-d032-72f6-9824-e37f2a2d3ed0"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/parser-model/parser-model.page-type.ts","id":"01a06d3b-743e-7d49-b8e6-3703a4b4fbfb"}
 {"propertySlug":"decision-kind","path":"domain/properties/definition.standard-agent-english-property.ts","id":"01a049b9-856c-70ca-bfd8-31cb76ead837"}
-{"propertySlug":"decision-kind","path":"domain/sentence-shape/sentence-shape.page-type.ts","id":"01a05da1-60fc-76ca-8503-b43deb6d5f53"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.ts","id":"01a0c5a0-dcdf-78bc-b3a9-d53923805df8"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.ts","id":"01a0823b-40b3-774c-873f-e2fb70d34da0"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.ts","id":"01a08248-90ee-7792-9275-0a291dfa50af"}

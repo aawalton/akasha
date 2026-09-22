@@ -22,7 +22,6 @@ export const domain = {
     "page-type/decision-group",
     "page-type/decision-kind",
     "page-type/list",
-    "page-type/sentence-shape",
     "page-type/taboo-term",
     "record-property/directives",
     "record-property/decisions",

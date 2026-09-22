@@ -2458,7 +2458,6 @@
 {"propertySlug":"decision-kind","path":"domain/plain-language/modules/dependency-graph/dependency-graph.module.ts","id":"01a06cd8-d030-7f85-92a3-d5c7d03b4e55"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/modules/onnx-parsing/onnx-parsing.module.ts","id":"01a06d3b-743d-7534-a0c5-08148c804484"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/modules/parse-cache/parse-cache.module.ts","id":"01a071f0-796a-7957-a5e6-d600ac1d3f8a"}
-{"propertySlug":"decision-kind","path":"domain/plain-language/modules/shape-predicate/shape-predicate.module.ts","id":"01a06d15-c08a-7cb9-a166-2c8d5553765b"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/modules/word-tokenizing/word-tokenizing.module.ts","id":"01a06cd8-d032-72f6-9824-e37f2a2d3ed0"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/parser-model/parser-model.page-type.ts","id":"01a06d3b-743e-7d49-b8e6-3703a4b4fbfb"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/parser-model/properties/model-manifest.file-property.ts","id":"01a06d3b-743f-7cf0-8f82-5c0f41cfeaf0"}
@@ -2473,10 +2472,6 @@
 {"propertySlug":"decision-kind","path":"domain/properties/linked-at.text-property.ts","id":"01a08e0e-63aa-73e3-9073-68366457ff76"}
 {"propertySlug":"decision-kind","path":"domain/properties/parts.relation-property.ts","id":"01a0877e-e1fa-73c7-909f-f872c144f719"}
 {"propertySlug":"decision-kind","path":"domain/purpose/domain-purpose.domain.ts","id":"01a06815-ceaf-7ec0-aa99-46a5438ce629"}
-{"propertySlug":"decision-kind","path":"domain/sentence-shape/lone-pronoun/lone-pronoun.sentence-shape.ts","id":"01a05da1-d93d-795d-bf61-a2b20da998b7"}
-{"propertySlug":"decision-kind","path":"domain/sentence-shape/lone-quantifier/lone-quantifier.sentence-shape.ts","id":"01a05dbf-e1d8-7c53-8118-ff93ef6f72a0"}
-{"propertySlug":"decision-kind","path":"domain/sentence-shape/partitive-quantifier/partitive-quantifier.sentence-shape.ts","id":"01a05dbf-e1d9-7c3c-bbef-a99bc4bf3d63"}
-{"propertySlug":"decision-kind","path":"domain/sentence-shape/sentence-shape.page-type.ts","id":"01a05da1-60fc-76ca-8503-b43deb6d5f53"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/construction.page-type.ts","id":"01a0c57b-2a6d-776f-861f-adfa84782205"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts","id":"01a0c67a-50ad-7181-9d2e-827c9c7d8f18"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/properties/written-from.one-of-property.ts","id":"01a0c57a-e7ac-7d09-ad25-98343aab07cf"}

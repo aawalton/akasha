@@ -3,17 +3,9 @@
 {"propertySlug":"import","fileName":"dependency-graph.module.code.ts","path":"domain/plain-language/modules/onnx-parsing/onnx-parsing.module.code.ts"}
 {"propertySlug":"import","fileName":"dependency-graph.module.code.ts","path":"domain/plain-language/modules/parse-cache/parse-cache.module.code.ts"}
 {"propertySlug":"import","fileName":"dependency-graph.module.code.ts","path":"domain/plain-language/modules/parse-cache/parse-cache.module.test.ts"}
-{"propertySlug":"import","fileName":"dependency-graph.module.code.ts","path":"domain/plain-language/modules/shape-predicate/shape-predicate.module.code.ts"}
-{"propertySlug":"import","fileName":"dependency-graph.module.code.ts","path":"domain/sentence-shape/closing-count/closing-count.sentence-shape.code.ts"}
-{"propertySlug":"import","fileName":"dependency-graph.module.code.ts","path":"domain/sentence-shape/lone-quantifier/lone-quantifier.sentence-shape.code.ts"}
 {"propertySlug":"import","fileName":"dependency-graph.module.code.ts","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.code.ts"}
 {"propertySlug":"import","fileName":"dependency-graph.module.code.ts","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.code.ts"}
 {"propertySlug":"import","fileName":"dependency-graph.module.code.ts","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.test.ts"}
-{"propertySlug":"import","fileName":"dependency-graph.module.test-fixtures.ts","path":"domain/sentence-shape/closing-count/closing-count.sentence-shape.test.ts"}
-{"propertySlug":"import","fileName":"dependency-graph.module.test-fixtures.ts","path":"domain/sentence-shape/lone-determiner/lone-determiner.sentence-shape.test.ts"}
-{"propertySlug":"import","fileName":"dependency-graph.module.test-fixtures.ts","path":"domain/sentence-shape/lone-pronoun/lone-pronoun.sentence-shape.test.ts"}
-{"propertySlug":"import","fileName":"dependency-graph.module.test-fixtures.ts","path":"domain/sentence-shape/lone-quantifier/lone-quantifier.sentence-shape.test.ts"}
-{"propertySlug":"import","fileName":"dependency-graph.module.test-fixtures.ts","path":"domain/sentence-shape/partitive-quantifier/partitive-quantifier.sentence-shape.test.ts"}
 {"propertySlug":"import","fileName":"dependency-graph.module.test-fixtures.ts","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"dependency-graph.module.test-fixtures.ts","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.test.ts"}
 {"propertySlug":"import","fileName":"dependency-graph.module.test-fixtures.ts","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.test.ts"}

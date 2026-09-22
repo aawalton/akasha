@@ -269,7 +269,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/initiative/initiative.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/list/list.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/plain-language/parser-model/parser-model.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/sentence-shape/sentence-shape.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/standard-agent-english/construction/construction.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/standard-agent-english/non-term/kind/standard-agent-english-non-term-kind.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts"}
