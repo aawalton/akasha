@@ -247,6 +247,15 @@ export function heldBackIn(
   return found
 }
 
+export function narrowedTo(
+  closures: ReadonlyMap<string, ReadonlySet<string>>,
+  slugs: ReadonlySet<string>
+): ReadonlyMap<string, ReadonlySet<string>> {
+  const found = new Map<string, ReadonlySet<string>>()
+  for (const [slug, built] of closures) if (slugs.has(slug)) found.set(slug, built)
+  return found
+}
+
 export function closureFor(
   root: string,
   slug: string,

@@ -4,6 +4,7 @@ import {
   carriedOver,
   heldBackIn,
   kindSeeds,
+  narrowedTo,
   onwardOf,
   readingOver,
   testWrittenForAPage,
@@ -143,6 +144,16 @@ const CLOSURES = new Map<string, ReadonlySet<string>>([
   ["two", new Set(["apps/one/still.ts", "shared/helper.ts"])],
   ["three", new Set(["shared/helper.ts"])],
 ])
+
+test("the closures narrow to the services named and to no others", () => {
+  const found = narrowedTo(CLOSURES, new Set(["one", "three", "nowhere"]))
+  expect([...found.keys()].sort()).toEqual(["one", "three"])
+  expect(found.get("one")).toBe(CLOSURES.get("one") as ReadonlySet<string>)
+})
+
+test("closures narrowed to no service are built from nothing", () => {
+  expect(narrowedTo(CLOSURES, new Set()).size).toBe(0)
+})
 
 test("a refusal holds back every service built from a file in the folder it names", () => {
   expect([...heldBackIn(CLOSURES, ["apps/one/main.test.ts"])].sort()).toEqual(["one", "two"])

@@ -45,6 +45,7 @@ import { installedOnDevice } from "akasha/command/pages/deploy/modules/device-in
 import {
   closureFor,
   closuresOf,
+  narrowedTo,
   touchedIn,
   unionOf,
 } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
@@ -287,12 +288,14 @@ async function deployHeld(
   if (commit === null) return refused(saidOfNoCommit(wanted.ref ?? AT_HEAD), INPUT)
   const keeping = keepingFor(given.root, read.kind, recording)
   const closures = read.every === true ? closuresOf(given.root, read.kind, commit) : null
-  const built = closures === null ? closureFor(given.root, slug, read, commit) : unionOf(closures)
   const was = sinceCommit(given.root, await commitRecordedIn(read.pagePath, keeping))
   const moved = was === null ? null : changedBetween(given.root, was, commit)
   const touched = closures === null ? null : touchedIn(closures, moved)
   const restarting =
     read.kind === WORKSTATION_SERVICE && touched !== null ? notPutUpAt(touched, commit) : touched
+  const narrowed =
+    closures === null || restarting === null ? null : narrowedTo(closures, restarting)
+  const built = narrowed === null ? closureFor(given.root, slug, read, commit) : unionOf(narrowed)
   const proving =
     read.kind === WORKSTATION_SERVICE && restarting !== null
       ? provingFor(given.root, restarting)

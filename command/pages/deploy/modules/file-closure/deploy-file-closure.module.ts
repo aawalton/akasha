@@ -75,6 +75,10 @@ export const deployFileClosure = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The closures narrow to the services a deploy would restart, and to no others.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A refusal naming what no service is built from holds back every service.",
     },
     {
