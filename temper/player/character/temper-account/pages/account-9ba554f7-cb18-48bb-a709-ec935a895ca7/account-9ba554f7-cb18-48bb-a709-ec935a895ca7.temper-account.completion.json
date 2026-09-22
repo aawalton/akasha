@@ -89315,7 +89315,7 @@
             "rank": 4
           },
           "abilityIndex": 5,
-          "currentMorph": 1
+          "currentMorph": 0
         }
       },
       "nextRankXP": 107441
@@ -89933,7 +89933,7 @@
             "rank": 4
           },
           "abilityIndex": 2,
-          "currentMorph": 2
+          "currentMorph": 0
         },
         "33357": {
           "morph1": {
@@ -89951,7 +89951,7 @@
             "rank": 4
           },
           "abilityIndex": 5,
-          "currentMorph": 1
+          "currentMorph": 0
         },
         "33386": {
           "morph1": {
@@ -89987,7 +89987,7 @@
             "rank": 4
           },
           "abilityIndex": 1,
-          "currentMorph": 2
+          "currentMorph": 0
         },
         "61902": {
           "morph1": {
@@ -90005,7 +90005,7 @@
             "rank": 4
           },
           "abilityIndex": 6,
-          "currentMorph": 1
+          "currentMorph": 0
         }
       },
       "nextRankXP": 107441
