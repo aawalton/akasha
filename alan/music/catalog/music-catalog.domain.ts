@@ -64,7 +64,7 @@ export const musicCatalog = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A song keeps the grade Alan gave that song, whatever its recordings carry.",
+      statement: "A song carries no grade, because Alan grades the recording he heard.",
     },
   ],
 } as const satisfies Domain
