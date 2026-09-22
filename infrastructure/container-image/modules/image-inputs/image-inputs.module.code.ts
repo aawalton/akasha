@@ -49,8 +49,14 @@ export function inputsFor(build: ImageBuild, codeAt: string = ROOT): ImageInputs
   return { dockerfile, copied, hash: summed.digest("hex").slice(0, TAG_LENGTH) }
 }
 
+export function inAWorkTree(codeAt: string): boolean {
+  const done = ran(["git", "-C", codeAt, "rev-parse", "--is-inside-work-tree"])
+  return done.code === 0 && done.out.trim() === "true"
+}
+
 export function driftedIn(copied: readonly string[], codeAt: string = ROOT): readonly string[] {
   if (copied.length === 0) return []
+  if (!inAWorkTree(codeAt)) return []
   const said = gitIn(["status", "--porcelain", "--", ...copied], codeAt)
   return said
     .split("\n")

@@ -1,10 +1,13 @@
 import { expect, test } from "bun:test"
+import { join } from "node:path"
 import { buildOf } from "akasha/infrastructure/container-image/modules/image-build/image-build.module.code.ts"
 import {
   copiedIn,
   driftedIn,
+  inAWorkTree,
   inputsFor,
 } from "akasha/infrastructure/container-image/modules/image-inputs/image-inputs.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const PROXY = buildOf("auth-proxy")
 
@@ -62,4 +65,16 @@ test("two Dockerfiles copying nothing hash apart where their text differs", () =
 
 test("an image copying nothing drifts in nothing", () => {
   expect(driftedIn([])).toEqual([])
+})
+
+test("a checkout is a work tree", () => {
+  expect(inAWorkTree(akashaRoot())).toBe(true)
+})
+
+test("the folder git keeps a checkout's own records in is no work tree", () => {
+  expect(inAWorkTree(join(akashaRoot(), ".git"))).toBe(false)
+})
+
+test("a folder that is no work tree drifts in nothing", () => {
+  expect(driftedIn(["bun.lock"], join(akashaRoot(), ".git"))).toEqual([])
 })

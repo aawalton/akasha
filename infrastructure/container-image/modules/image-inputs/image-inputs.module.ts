@@ -34,5 +34,13 @@ export const imageInputs = {
       decisionKind: "decision-kind/departure",
       statement: "Such an image drifts from the commit HEAD is at in nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder written out at a commit holds that commit, so nothing in it drifts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a folder is told from a checkout by git calling it no work tree.",
+    },
   ],
 } as const satisfies Module
