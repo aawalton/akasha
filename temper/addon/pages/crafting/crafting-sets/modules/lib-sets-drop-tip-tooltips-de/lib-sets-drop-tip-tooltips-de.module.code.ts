@@ -1,6 +1,15 @@
+import {
+  LIBSETS_DROP_MECHANIC_AP_ELITE_GEAR_LOCKBOX_MERCHANT,
+  LIBSETS_DROP_MECHANIC_MAIL_PVP_REWARDS_FOR_THE_WORTHY,
+  LIBSETS_DROP_MECHANIC_OVERLAND_BOSS_DELVE,
+  LIBSETS_DROP_MECHANIC_OVERLAND_BOSS_PUBLIC_DUNGEON,
+  LIBSETS_DROP_MECHANIC_OVERLAND_CHEST,
+  LIBSETS_DROP_MECHANIC_OVERLAND_WORLDBOSS,
+  LIBSETS_DROP_MECHANIC_TELVAR_EQUIPMENT_LOCKBOX_MERCHANT,
+  LIBSETS_DROP_MECHANIC_TRIAL_BOSS,
+  LIBSETS_DROP_MECHANIC_ZONE_STORYLINE,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-dropmechanics/lib-sets-const-dropmechanics.module.code.ts"
 import { cyrodiilAndBattlegroundText } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-drop-tip-shared-text/lib-sets-drop-tip-shared-text.module.code.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-drop-mechanic-ids/lib-sets-drop-mechanic-ids.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-dropmechanics/lib-sets-const-dropmechanics.module.code.ts"
 
 export const DE = {
   [LIBSETS_DROP_MECHANIC_MAIL_PVP_REWARDS_FOR_THE_WORTHY]:

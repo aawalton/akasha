@@ -10,7 +10,7 @@ export const libSetsConstDropmechanics = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Each drop mechanic name is declared as a game global rather than a member of a table.",
+        "Each drop mechanic number is exported under its name rather than kept in a table.",
     },
     {
       decisionKind: "decision-kind/departure",
