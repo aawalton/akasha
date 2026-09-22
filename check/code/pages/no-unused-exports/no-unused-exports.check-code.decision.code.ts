@@ -3,7 +3,6 @@ import { exportsIn } from "akasha/check/code/pages/browser-code-reads-the-enviro
 import { loadingIn } from "akasha/check/code/pages/no-unused-exports/modules/specifier-placing/specifier-placing.module.code.ts"
 import {
   loadedExportsSparing,
-  pageTypesFor,
   textIn,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
@@ -410,36 +409,28 @@ export function unreachedIn(
     .filter((one) => !one.proved || !one.named)
 }
 
-function reasonsFor(
-  path: string,
-  text: string,
-  change: Change,
-  shadow: Shadow,
-  spared: ReadonlySet<string>
-): readonly string[] {
-  const found = unreachedIn(path, text, spared, shadow.index.importersOf(path), (at) =>
-    textIn(change, at)
-  )
-  return found.map(reasonFor)
+export function refusalsIn(
+  paths: readonly string[],
+  index: Answering,
+  read: Bodied
+): readonly Judged[] {
+  const pageTypes = index.pageTypesIn()
+  const groups = groupsSparing(index)
+  const loaders = loadersSparing(index)
+  const reached = reachedByPathSparing(index)
+  const loadedExports = loadedExportsSparing(index)
+  const judged: Judged[] = []
+  for (const path of paths) {
+    if (!typeScripted(path)) continue
+    const text = read(path)
+    if (text === null) continue
+    const spared = sparedIn(path, pageTypes, groups, loaders, reached, loadedExports, read)
+    const found = unreachedIn(path, text, spared, index.importersOf(path), read)
+    for (const one of found) judged.push({ path, reason: reasonFor(one) })
+  }
+  return judged
 }
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  const pageTypes = pageTypesFor(shadow)
-  const groups = groupsSparing(shadow.index)
-  const loaders = loadersSparing(shadow.index)
-  const reached = reachedByPathSparing(shadow.index)
-  const loadedExports = loadedExportsSparing(shadow.index)
-  const judged: Judged[] = []
-  for (const path of change.changed) {
-    if (!typeScripted(path)) continue
-    const text = textIn(change, path)
-    if (text === null) continue
-    const spared = sparedIn(path, pageTypes, groups, loaders, reached, loadedExports, (at) =>
-      textIn(change, at)
-    )
-    for (const reason of reasonsFor(path, text, change, shadow, spared)) {
-      judged.push({ path, reason })
-    }
-  }
-  return judged
+  return refusalsIn(change.changed, shadow.index, (at) => textIn(change, at))
 }
