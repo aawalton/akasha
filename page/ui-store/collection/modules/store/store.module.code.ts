@@ -64,6 +64,7 @@ export interface FileBackingOptions {
   readonly fetchImpl?: FetchImpl
   readonly pollMs?: number
   readonly roster?: RosterReader
+  readonly carry?: Readonly<Record<string, readonly string[]>>
 }
 
 export interface StoreAuthArgs {
@@ -247,7 +248,8 @@ export function createPagesStore(
         pollMs,
         readingAgain,
       },
-      pageTypeSlug
+      pageTypeSlug,
+      fileBacking.carry?.[pageTypeSlug] ?? []
     )
   }
 

@@ -29,8 +29,10 @@ export interface FetchPlan {
   readonly deletes: readonly string[]
 }
 
-function filePagesPath(pageTypeSlug: string): string {
-  return `/api/pages/${encodeURIComponent(pageTypeSlug)}`
+export function filePagesPath(pageTypeSlug: string, carry: readonly string[] = []): string {
+  const at = `/api/pages/${encodeURIComponent(pageTypeSlug)}`
+  if (carry.length === 0) return at
+  return `${at}?carry=${encodeURIComponent(carry.join(","))}`
 }
 
 function canonicalJson(value: unknown): string {
@@ -96,8 +98,13 @@ function planFetchedRows(
   return { inserts, updates, deletes }
 }
 
-export function attachFetch(deps: FetchAttachDeps, pageTypeSlug: string): () => undefined {
+export function attachFetch(
+  deps: FetchAttachDeps,
+  pageTypeSlug: string,
+  carry: readonly string[] = []
+): () => undefined {
   const shapeKey = pageTypeSlug
+  const at = filePagesPath(pageTypeSlug, carry)
   let stopped = false
   let timer: ReturnType<typeof setTimeout> | null = null
 
@@ -131,7 +138,7 @@ export function attachFetch(deps: FetchAttachDeps, pageTypeSlug: string): () => 
   const poll = async (): Promise<void> => {
     let response: Response
     try {
-      response = await deps.fetchImpl(filePagesPath(pageTypeSlug), {
+      response = await deps.fetchImpl(at, {
         headers: { accept: "application/json" },
       })
     } catch (err: unknown) {

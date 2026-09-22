@@ -20,5 +20,13 @@ export const store = {
       decisionKind: "decision-kind/departure",
       statement: "A store with no token arms no refresh.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A site names the beside-the-page keys it wants carried, page type by page type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type no site named that way is read without any of those keys.",
+    },
   ],
 } as const satisfies Module
