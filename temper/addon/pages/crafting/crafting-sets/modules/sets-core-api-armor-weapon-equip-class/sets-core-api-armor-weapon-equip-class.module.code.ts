@@ -147,8 +147,8 @@ function getNumEquippedItemsBySetId(
   if (setId === undefined) {
     return $multi(undefined, undefined, undefined)
   }
-  const libSetsGetSetItemId = lib.GetSetItemId
-  const itemId = libSetsGetSetItemId(setId)
+  const setsGetSetItemId = lib.GetSetItemId
+  const itemId = setsGetSetItemId(setId)
   const [setIdRetRaw, equippedItems, maxEquipped] = getSetEquippedInfo(itemId)
   const setIdRet = asNumberOpt(setIdRetRaw)
   if (setIdRet === undefined) {

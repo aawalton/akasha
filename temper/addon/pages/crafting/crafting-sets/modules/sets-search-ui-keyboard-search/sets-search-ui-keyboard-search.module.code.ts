@@ -30,8 +30,8 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
-const libSets_GetSetItemId = lib.GetSetItemId
-const libSets_GetSetItemIds = lib.GetSetItemIds
+const sets_GetSetItemId = lib.GetSetItemId
+const sets_GetSetItemIds = lib.GetSetItemIds
 
 const keyboardClass = getKeyboardSearchUIClass()
 const keyboardOverride = getKeyboardSearchUIClassForOverride()
@@ -205,7 +205,7 @@ keyboardClass.GetItemIdsForSetIdRespectingFilters = function (
 
   let itemIdsMatchingFilters: { [itemId: number]: number } | undefined
   if (onlyOneItemId === true) {
-    const itemIdMatchingFilters = libSets_GetSetItemId(
+    const itemIdMatchingFilters = sets_GetSetItemId(
       setId,
       undefined,
       asTyped<number>(equipmentTypes ?? asAnyObject(undefined)),
@@ -219,7 +219,7 @@ keyboardClass.GetItemIdsForSetIdRespectingFilters = function (
       itemIdsMatchingFilters[itemIdMatchingFilters] = asNumber(SETS_SET_ITEMID_TABLE_VALUE_OK)
     }
   } else {
-    const [itemIds] = libSets_GetSetItemIds(
+    const [itemIds] = sets_GetSetItemIds(
       setId,
       undefined,
       asTyped<number>(equipmentTypes ?? asAnyObject(undefined)),

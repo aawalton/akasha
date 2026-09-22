@@ -195,7 +195,7 @@ function getArmorTypeTexture(
 }
 lib.GetArmorTypeTexture = getArmorTypeTexture
 
-function libSetsGetSetTypeTexture(
+function setsGetSetTypeTexture(
   this: void,
   setType: number | undefined,
   setId?: number,
@@ -230,4 +230,4 @@ function libSetsGetSetTypeTexture(
   }
   return setTypeTexture
 }
-lib.GetSetTypeTexture = libSetsGetSetTypeTexture
+lib.GetSetTypeTexture = setsGetSetTypeTexture

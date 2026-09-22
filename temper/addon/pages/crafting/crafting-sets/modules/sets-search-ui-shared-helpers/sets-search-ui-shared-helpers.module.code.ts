@@ -19,7 +19,7 @@ const tsort = table.sort
 const strlow = string.lower
 const zoite = ZO_IsTableEmpty
 
-const libSets_GetSetInfo = lib.GetSetInfo
+const sets_GetSetInfo = lib.GetSetInfo
 
 import { searchHistoryEventUpdaterName } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -53,7 +53,7 @@ function scanAndAddDataToSetsMasterListBase(
       setData[asPresent(SETS_TABLEKEY_DROPMECHANIC_NAMES)] === undefined ||
       setData[asPresent(SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] === undefined
     ) {
-      setData = asStrRecord(libSets_GetSetInfo(oneSetId, false, undefined))
+      setData = asStrRecord(sets_GetSetInfo(oneSetId, false, undefined))
     }
     return setData
   }
@@ -64,7 +64,7 @@ function scanAndAddDataToSetsMasterListBase(
       setData[asPresent(SETS_TABLEKEY_DROPMECHANIC_NAMES)] === undefined ||
       setData[asPresent(SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] === undefined
     ) {
-      setData = asStrRecord(libSets_GetSetInfo(setId, false, undefined))
+      setData = asStrRecord(sets_GetSetInfo(setId, false, undefined))
       defaultMasterListBase[setId] = setData
     }
   }

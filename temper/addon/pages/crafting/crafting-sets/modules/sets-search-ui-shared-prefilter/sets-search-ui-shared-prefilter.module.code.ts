@@ -30,15 +30,15 @@ const zoite = ZO_IsTableEmpty
 const clientLang = lib.clientLang
 const langAllowedCheck = lib.LangAllowedCheck
 
-const libSets_GetDropLocationNamesBySetId = lib.GetDropLocationNamesBySetId
-const libSets_GetDropMechanic = lib.GetDropMechanic
-const libSets_GetDropZonesBySetId = lib.GetDropZonesBySetId
-const libSets_buildItemLink = lib.buildItemLink
-const libSets_GetSetFirstItemId = lib.GetSetFirstItemId
-const libSets_GetSetEnchantSearchCategories = lib.GetSetEnchantSearchCategories
-const libSets_IsEquipTypeSet = lib.IsEquipTypeSet
-const libSets_IsWeaponTypeSet = lib.IsWeaponTypeSet
-const libSets_IsArmorTypeSet = lib.IsArmorTypeSet
+const sets_GetDropLocationNamesBySetId = lib.GetDropLocationNamesBySetId
+const sets_GetDropMechanic = lib.GetDropMechanic
+const sets_GetDropZonesBySetId = lib.GetDropZonesBySetId
+const sets_buildItemLink = lib.buildItemLink
+const sets_GetSetFirstItemId = lib.GetSetFirstItemId
+const sets_GetSetEnchantSearchCategories = lib.GetSetEnchantSearchCategories
+const sets_IsEquipTypeSet = lib.IsEquipTypeSet
+const sets_IsWeaponTypeSet = lib.IsWeaponTypeSet
+const sets_IsArmorTypeSet = lib.IsArmorTypeSet
 
 const gilsi = GetItemLinkSetInfo
 
@@ -129,7 +129,7 @@ sharedClass.PreFilterMasterList = function (
       if (isAllowed && searchParamsArmorType !== undefined) {
         isAllowed = false
         for (const [armorType, isFiltered] of pairs(searchParamsArmorType)) {
-          if (isFiltered === true && libSets_IsArmorTypeSet(setId, tonumber(armorType))) {
+          if (isFiltered === true && sets_IsArmorTypeSet(setId, tonumber(armorType))) {
             isAllowed = true
             break
           }
@@ -138,7 +138,7 @@ sharedClass.PreFilterMasterList = function (
       if (isAllowed && searchParamsWeaponType !== undefined) {
         isAllowed = false
         for (const [weaponType, isFiltered] of pairs(searchParamsWeaponType)) {
-          if (isFiltered === true && libSets_IsWeaponTypeSet(setId, tonumber(weaponType))) {
+          if (isFiltered === true && sets_IsWeaponTypeSet(setId, tonumber(weaponType))) {
             isAllowed = true
             break
           }
@@ -147,7 +147,7 @@ sharedClass.PreFilterMasterList = function (
       if (isAllowed && searchParamsEquipmentType !== undefined) {
         isAllowed = false
         for (const [equipType, isFiltered] of pairs(searchParamsEquipmentType)) {
-          if (isFiltered === true && libSets_IsEquipTypeSet(setId, tonumber(equipType))) {
+          if (isFiltered === true && sets_IsEquipTypeSet(setId, tonumber(equipType))) {
             isAllowed = true
             break
           }
@@ -157,8 +157,8 @@ sharedClass.PreFilterMasterList = function (
         isAllowed = false
         const enchantSearchCategories = asCategoryBoolMapOpt(
           setDataTyped[asPresent(SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES)] ??
-            (libSets_GetSetEnchantSearchCategories !== undefined
-              ? libSets_GetSetEnchantSearchCategories(
+            (sets_GetSetEnchantSearchCategories !== undefined
+              ? sets_GetSetEnchantSearchCategories(
                   setId,
                   undefined,
                   undefined,
@@ -182,9 +182,9 @@ sharedClass.PreFilterMasterList = function (
         isAllowed = false
         let numBonuses: number | undefined
         if (setDataTyped.numBonuses === undefined) {
-          const itemId = libSets_GetSetFirstItemId(setId, undefined)
+          const itemId = sets_GetSetFirstItemId(setId, undefined)
           if (itemId !== undefined) {
-            const itemLink = libSets_buildItemLink(itemId, 370)
+            const itemLink = sets_buildItemLink(itemId, 370)
             if (itemLink !== undefined) {
               const [, , bonusCount] = gilsi(itemLink, false)
               setDataTyped.numBonuses = bonusCount
@@ -204,7 +204,7 @@ sharedClass.PreFilterMasterList = function (
       if (isAllowed && searchParamsDropZone !== undefined) {
         isAllowed = false
         const dropZones = asIdNumBoolMapOpt(
-          setDataTyped.dropZones ?? libSets_GetDropZonesBySetId(setId)
+          setDataTyped.dropZones ?? sets_GetDropZonesBySetId(setId)
         )
         if (dropZones !== undefined) {
           setDataTyped.dropZones = dropZones
@@ -224,7 +224,7 @@ sharedClass.PreFilterMasterList = function (
         isAllowed = false
         let dropMechanicSource = setDataTyped[asPresent(SETS_TABLEKEY_DROPMECHANIC)]
         if (dropMechanicSource === undefined) {
-          const [dropMechanicIds] = libSets_GetDropMechanic(setId, undefined, undefined)
+          const [dropMechanicIds] = sets_GetDropMechanic(setId, undefined, undefined)
           dropMechanicSource = dropMechanicIds
         }
         const dropMechanics = asNumberArrayOpt(dropMechanicSource)
@@ -245,7 +245,7 @@ sharedClass.PreFilterMasterList = function (
         isAllowed = false
         const dropLocationNames = asDropLocationNamesMapOpt(
           setDataTyped[asPresent(SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] ??
-            libSets_GetDropLocationNamesBySetId(setId, undefined)
+            sets_GetDropLocationNamesBySetId(setId, undefined)
         )
         if (dropLocationNames !== undefined) {
           setDataTyped[asPresent(SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] = dropLocationNames

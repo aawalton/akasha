@@ -18,10 +18,10 @@ const clientLang = lib.clientLang
 const fallbackLang = lib.fallbackLang
 const isClientLangEqualToFallbackLang = clientLang === fallbackLang
 
-const libSets_GetSetBonuses = lib.GetSetBonuses
+const sets_GetSetBonuses = lib.GetSetBonuses
 const buildSetTypeInfo = lib.buildSetTypeInfo
 const buildSetDataText = lib.BuildSetDataText
-const libSets_GetSetFirstItemId = lib.GetSetFirstItemId
+const sets_GetSetFirstItemId = lib.GetSetFirstItemId
 const getArmorTypeTexture = lib.GetArmorTypeTexture
 const getWeaponTypeTexture = lib.GetWeaponTypeTexture
 const getEquipSlotTexture = lib.GetEquipSlotTexture
@@ -117,7 +117,7 @@ listClass.CreateEntryForSet = function (
     }
     itemId = itemIds[0]
   } else {
-    itemId = libSets_GetSetFirstItemId(setId, undefined)
+    itemId = sets_GetSetFirstItemId(setId, undefined)
   }
 
   if (itemId === undefined) {
@@ -159,7 +159,7 @@ listClass.CreateEntryForSet = function (
   let bonuses = numBonuses === 0 ? [] : setData.bonuses
   setData.numBonuses = numBonuses
   if (numBonuses > 0 && (bonuses === undefined || type(bonuses) === "number")) {
-    setData.bonuses = libSets_GetSetBonuses(itemLink, numBonuses)
+    setData.bonuses = sets_GetSetBonuses(itemLink, numBonuses)
     bonuses = setData.bonuses
   }
 

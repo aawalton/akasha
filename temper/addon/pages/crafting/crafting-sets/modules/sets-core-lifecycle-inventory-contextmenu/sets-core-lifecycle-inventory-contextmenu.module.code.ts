@@ -48,8 +48,8 @@ function myInvItemLinkCallbackFunc(
     return
   }
 
-  const libSetsGetSetType = lib.GetSetType
-  const setType = libSetsGetSetType(setId)
+  const setsGetSetType = lib.GetSetType
+  const setType = setsGetSetType(setId)
   if (setType === undefined || setType === SETS_SETTYPE_CRAFTED) {
     return
   }
@@ -82,11 +82,11 @@ function myInvItemLinkCallbackFunc(
   ShowMenu()
 }
 
-let libSets_customInvItemLinkContextMenuAdded = false
+let sets_customInvItemLinkContextMenuAdded = false
 function addSetCollectionsSearchItemLinkContextMenuEntry(this: void): undefined {
   const lcm = asLibCustomMenuHandleOpt(lib.libCustomMenu)
   if (
-    libSets_customInvItemLinkContextMenuAdded ||
+    sets_customInvItemLinkContextMenuAdded ||
     lcm === undefined ||
     lcm.RegisterContextMenu === undefined ||
     asUnknown(AddCustomSubMenuItem) === undefined ||
@@ -96,7 +96,7 @@ function addSetCollectionsSearchItemLinkContextMenuEntry(this: void): undefined 
   }
 
   lcm.RegisterContextMenu(myInvItemLinkCallbackFunc, lcm.CATEGORY_LATE)
-  libSets_customInvItemLinkContextMenuAdded = true
+  sets_customInvItemLinkContextMenuAdded = true
 }
 lib.addSetCollectionsSearchItemLinkContextMenuEntry =
   addSetCollectionsSearchItemLinkContextMenuEntry

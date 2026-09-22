@@ -93,8 +93,8 @@ function getSetSearchFavoriteCategoryData(
 }
 lib.GetSetSearchFavoriteCategoryData = getSetSearchFavoriteCategoryData
 
-asLibSlots(lib)["_libSets_GetSetSearchFavoriteCategoryData"] = getSetSearchFavoriteCategoryData
-const libSets_GetSetSearchFavoriteCategoryData = getSetSearchFavoriteCategoryData
+asLibSlots(lib)["_sets_GetSetSearchFavoriteCategoryData"] = getSetSearchFavoriteCategoryData
+const sets_GetSetSearchFavoriteCategoryData = getSetSearchFavoriteCategoryData
 
 function getSetSearchFavoritesCategoriesForSetId(
   this: void,
@@ -108,7 +108,7 @@ function getSetSearchFavoritesCategoriesForSetId(
   }
   const retTab: (SetSearchFavoriteCategoryData | undefined)[] = []
   for (const [, category] of ipairs(setSearchFavoriteCategoriesOfSetId)) {
-    const categoryData = libSets_GetSetSearchFavoriteCategoryData(category)
+    const categoryData = sets_GetSetSearchFavoriteCategoryData(category)
     retTab[retTab.length] = categoryData
   }
   return retTab

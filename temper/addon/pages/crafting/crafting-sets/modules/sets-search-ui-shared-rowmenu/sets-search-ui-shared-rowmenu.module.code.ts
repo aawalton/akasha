@@ -17,12 +17,12 @@ const zocstrfor = ZO_CachedStrFormat
 
 const clientLang = lib.clientLang
 const getLocalizedText = lib.GetLocalizedText
-const libSets_GetDropZonesBySetId = lib.GetDropZonesBySetId
-const libSets_GetZoneName = lib.GetZoneName
-const libSets_OpenMapOfZoneId = lib.openMapOfZoneId
-const libSets_GetWayshrineIds = lib.GetWayshrineIds
-const libSets_ShowWayshrineNodeIdOnMap = lib.showWayshrineNodeIdOnMap
-const libSets_OpenSetItemCollectionBookForItemLink = lib.OpenSetItemCollectionBookForItemLink
+const sets_GetDropZonesBySetId = lib.GetDropZonesBySetId
+const sets_GetZoneName = lib.GetZoneName
+const sets_OpenMapOfZoneId = lib.openMapOfZoneId
+const sets_GetWayshrineIds = lib.GetWayshrineIds
+const sets_ShowWayshrineNodeIdOnMap = lib.showWayshrineNodeIdOnMap
+const sets_OpenSetItemCollectionBookForItemLink = lib.OpenSetItemCollectionBookForItemLink
 const checkLSM = lib.CheckLSM
 
 import { getSharedSearchUIClass } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
@@ -196,18 +196,18 @@ sharedClass.ShowRowContextMenu = function (
       )
     }
 
-    const setDropZones = asIdNumRecordOpt(libSets_GetDropZonesBySetId(setId))
+    const setDropZones = asIdNumRecordOpt(sets_GetDropZonesBySetId(setId))
     const zoneIdSubmenuEntries: LSMSubmenuEntry[] = []
     if (!zoite(setDropZones ?? {})) {
       const alreadyAddedZoneIds: { [zoneId: number]: boolean } = {}
       const zoneIds = asNumberArray(data.zoneIds ?? [])
       for (const [, zoneId] of ipairs(zoneIds)) {
         if (zoneId !== -1 && alreadyAddedZoneIds[zoneId] !== true) {
-          const zoneName = libSets_GetZoneName(zoneId)
+          const zoneName = sets_GetZoneName(zoneId)
           const subMenuEntry: LSMSubmenuEntry = {
             label: zoneName,
             callback: () => {
-              libSets_OpenMapOfZoneId(zoneId)
+              sets_OpenMapOfZoneId(zoneId)
             },
           }
           zoneIdSubmenuEntries.push(subMenuEntry)
@@ -217,7 +217,7 @@ sharedClass.ShowRowContextMenu = function (
     }
 
     const wayshrinesSubmenuEntries: LSMSubmenuEntry[] = []
-    const [setWayshrines] = libSets_GetWayshrineIds(setId)
+    const [setWayshrines] = sets_GetWayshrineIds(setId)
     const setWayshrinesTab = asNumberArrayOpt(setWayshrines)
     if (!zoite(setWayshrinesTab ?? {})) {
       checkAndGetWayshrineName(setWayshrinesTab)
@@ -233,7 +233,7 @@ sharedClass.ShowRowContextMenu = function (
           const subMenuEntry: LSMSubmenuEntry = {
             label: wayshrineName,
             callback: () => {
-              libSets_ShowWayshrineNodeIdOnMap(wayshrineNodeIndex)
+              sets_ShowWayshrineNodeIdOnMap(wayshrineNodeIndex)
             },
           }
           wayshrinesSubmenuEntries.push(subMenuEntry)
@@ -289,7 +289,7 @@ sharedClass.ShowRowContextMenu = function (
 
         AddCustomScrollableMenuEntry(searchEntryTextWithTexture, () => {
           if (data.itemLink !== undefined) {
-            libSets_OpenSetItemCollectionBookForItemLink(data.itemLink)
+            sets_OpenSetItemCollectionBookForItemLink(data.itemLink)
           }
         })
       }

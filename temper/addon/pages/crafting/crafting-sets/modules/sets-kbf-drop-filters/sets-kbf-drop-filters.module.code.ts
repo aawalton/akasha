@@ -19,7 +19,7 @@ import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/se
 const zoitf = zo_iconTextFormat
 const getLocalizedText = lib.GetLocalizedText
 const getDropMechanicTexture = lib.GetDropMechanicTexture
-const libSets_GetSpecialZoneNameById = lib.GetSpecialZoneNameById
+const sets_GetSpecialZoneNameById = lib.GetSpecialZoneNameById
 
 export function buildDropZoneFilter(this: void, ctx: FilterBuildContext): undefined {
   const { self, filters, isLSMEnabled, onEnter, onExit } = ctx
@@ -46,7 +46,7 @@ export function buildDropZoneFilter(this: void, ctx: FilterBuildContext): undefi
         let zoneDesc: string | undefined
         let filterType: number
         if (dropZoneIdNum <= 0) {
-          dropZoneName = libSets_GetSpecialZoneNameById(dropZoneIdNum)
+          dropZoneName = sets_GetSpecialZoneNameById(dropZoneIdNum)
           filterType = dropZoneIdNum
         } else {
           dropZoneName = zo_strformat(SI_UNIT_NAME, GetZoneNameById(dropZoneIdNum))

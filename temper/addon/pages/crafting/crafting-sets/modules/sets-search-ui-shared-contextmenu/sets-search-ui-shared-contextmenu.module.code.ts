@@ -14,7 +14,7 @@ const zoite = ZO_IsTableEmpty
 const clientLang = lib.clientLang
 const fallbackLang = lib.fallbackLang
 const getLocalizedText = lib.GetLocalizedText
-const libSets_showSettingsMenu = lib.ShowSettingsMenu
+const sets_showSettingsMenu = lib.ShowSettingsMenu
 const checkLSM = lib.CheckLSM
 
 import { getSharedSearchUIClass } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
@@ -74,7 +74,7 @@ sharedClass.ShowSettingsMenu = function (
   )
 
   AddCustomScrollableMenuEntry(showLibSetsSettingsStr, () => {
-    libSets_showSettingsMenu()
+    sets_showSettingsMenu()
   })
 
   AddCustomScrollableMenuHeader(
