@@ -83,11 +83,11 @@ export const seatConditions = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A second page there is read as no page holding.",
+      statement: "A second page there is taken as no page holding.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A condition stated as `none` is read as unstated.",
+      statement: "A condition stated as `none` is taken as unstated.",
     },
     {
       decisionKind: "decision-kind/departure",

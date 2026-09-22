@@ -42,7 +42,7 @@ export const parseBootEnv = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An unreadable timeout key reads as that key's default.",
+      statement: "An unreadable timeout key is taken as that key's default.",
     },
     {
       decisionKind: "decision-kind/departure",

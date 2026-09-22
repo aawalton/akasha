@@ -18,7 +18,7 @@ export const clientStream = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only the JSON boolean `true` under the body's `stream` key reads as a stream.",
+      statement: "Only the JSON boolean `true` under the body's `stream` key is taken as a stream.",
     },
     {
       decisionKind: "decision-kind/departure",

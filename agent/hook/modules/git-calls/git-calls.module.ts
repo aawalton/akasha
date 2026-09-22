@@ -26,7 +26,7 @@ export const gitCalls = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A word this names as another tool is no git call whatever its act reads as.",
+      statement: "A word this names as another tool is no git call whatever its act is taken as.",
     },
     {
       decisionKind: "decision-kind/absence",

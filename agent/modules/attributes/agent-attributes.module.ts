@@ -33,7 +33,7 @@ export const agentAttributes = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An agent whose start mode was never written reads as headless.",
+      statement: "An agent whose start mode was never written is taken as headless.",
     },
   ],
 } as const satisfies Module

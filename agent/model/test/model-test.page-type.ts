@@ -80,7 +80,7 @@ export const modelTest = {
     {
       decisionKind: "decision-kind/constraint",
       statement:
-        "Most of what read as a judge refusing a clean case was the key naming a breach as clean.",
+        "Most of what was taken as a judge refusing a clean case was the key naming a breach as clean.",
     },
     {
       decisionKind: "decision-kind/constraint",

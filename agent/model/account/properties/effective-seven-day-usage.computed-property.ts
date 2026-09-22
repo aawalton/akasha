@@ -22,7 +22,7 @@ export const effectiveSevenDayUsage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A percent stated as text is read as the number that percent spells.",
+      statement: "A percent stated as text is taken as the number that percent spells.",
     },
     {
       decisionKind: "decision-kind/absence",

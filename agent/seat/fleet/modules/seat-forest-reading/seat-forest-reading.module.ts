@@ -82,7 +82,8 @@ export const seatForestReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value that is not a string reads as absent rather than as its own rendering.",
+      statement:
+        "A value that is not a string is taken as absent rather than as its own rendering.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -115,7 +116,7 @@ export const seatForestReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path the index names for a page that has gone is read as no path at all.",
+      statement: "A path the index names for a page that has gone is taken as no path at all.",
     },
     {
       decisionKind: "decision-kind/departure",

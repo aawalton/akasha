@@ -41,11 +41,11 @@ export const modelVocab = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A raw name reads as a logical name or as a wire id.",
+      statement: "A raw name is taken as a logical name or as a wire id.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A raw name naming no model reads as nothing.",
+      statement: "A raw name naming no model is taken as nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -57,7 +57,7 @@ export const modelVocab = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A raw name that is the marker alone reads as nothing.",
+      statement: "A raw name that is the marker alone is taken as nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

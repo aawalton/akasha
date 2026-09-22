@@ -138,7 +138,7 @@ export const blockGitWrites = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "A read flag is read as a flag rather than as another flag's value.",
+      statement: "A read flag is taken as a flag rather than as another flag's value.",
     },
   ],
 } as const satisfies AgentHook

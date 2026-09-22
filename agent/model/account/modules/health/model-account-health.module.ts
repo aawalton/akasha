@@ -10,7 +10,7 @@ export const modelAccountHealth = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A refresh that worked reads as ok.",
+      statement: "A refresh that worked is taken as ok.",
     },
     {
       decisionKind: "decision-kind/departure",

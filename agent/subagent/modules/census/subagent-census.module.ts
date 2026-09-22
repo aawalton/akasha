@@ -53,7 +53,7 @@ export const subagentCensus = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A subagent whose last record came before the start of the client its seat runs now reads as stale.",
+        "A subagent whose last record came before the start of the client its seat runs now counts as stale.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -81,7 +81,7 @@ export const subagentCensus = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page stopped from the agents panel reads as stale.",
+      statement: "A page stopped from the agents panel is taken as stale.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -121,7 +121,7 @@ export const subagentCensus = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page whose seat's agent id is carried by no process at all reads as stale.",
+      statement: "A page whose seat's agent id is carried by no process at all is taken as stale.",
     },
     {
       decisionKind: "decision-kind/absence",

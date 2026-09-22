@@ -22,11 +22,11 @@ export const subagentLiveness = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A transcript recording a result for the subagent reads as returned.",
+      statement: "A transcript recording a result for the subagent is taken as returned.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A transcript read naming the subagent nowhere reads as unread.",
+      statement: "A transcript read naming the subagent nowhere is taken as unread.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -38,15 +38,15 @@ export const subagentLiveness = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A transcript that will not open reads as unread.",
+      statement: "A transcript that will not open is taken as unread.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page whose own agent id will not be read reads as unread.",
+      statement: "A page whose own agent id will not be read is taken as unread.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading that ends in an error reads as unread.",
+      statement: "A reading that ends in an error is taken as unread.",
     },
     {
       decisionKind: "decision-kind/departure",

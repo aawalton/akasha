@@ -39,7 +39,7 @@ export const seatPageBeat = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A session or transcript that reads as no record leaves the page unchanged.",
+      statement: "A session or transcript taken as no record leaves the page unchanged.",
     },
     {
       decisionKind: "decision-kind/departure",
