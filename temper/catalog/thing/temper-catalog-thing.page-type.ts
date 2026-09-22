@@ -29,7 +29,6 @@ export const temperCatalogThing = {
     "relation-property/quality",
     "relation-property/skill-type",
     "text-property/slotted-behavior",
-    "text-property/subcategory-id",
     "text-property/value-type",
     "text-property/skill-line-id",
   ],
@@ -43,7 +42,6 @@ export const temperCatalogThing = {
     { pageProperty: "boolean-property/is-two-handed", required: false, many: false },
     { pageProperty: "number-property/item-id", required: false, many: false },
     { pageProperty: "relation-property/skill-type", required: false, many: false },
-    { pageProperty: "text-property/subcategory-id", required: false, many: false },
   ],
   decisions: [
     {

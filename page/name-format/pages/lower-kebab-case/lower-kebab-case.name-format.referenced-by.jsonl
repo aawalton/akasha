@@ -107,7 +107,6 @@
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/effect-weapon-types.text-property.ts","id":"01a05fe0-8428-7862-8b91-5d946d0ec754"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/skill-line-id.text-property.ts","id":"01a05fba-ce3b-7214-b302-f798be22e99e"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/slotted-behavior.text-property.ts","id":"01a05fe0-8426-7594-8834-eb02a3965edd"}
-{"propertySlug":"name-format","path":"temper/catalog/thing/properties/subcategory-id.text-property.ts","id":"01a05fba-ce3b-7c4b-adf4-7b752fef3058"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/value-type.text-property.ts","id":"01a05fe0-8427-7a16-b94d-45c0b105ce0a"}
 {"propertySlug":"name-format","path":"temper/catalog/world/temper-dungeon/properties/solo-difficulty.text-property.ts","id":"01a05fc4-7a94-7c7a-a850-0f1b6fb1427d"}
 {"propertySlug":"name-format","path":"temper/player/character/skill-activation/properties/activation-effect-type.text-property.ts","id":"01a05fcd-f548-7652-9174-37322bc01700"}
