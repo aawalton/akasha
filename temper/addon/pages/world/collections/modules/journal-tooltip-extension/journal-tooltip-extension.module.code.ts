@@ -5,7 +5,6 @@ import {
 } from "akasha/temper/addon/pages/world/collections/modules/journal-casts/journal-casts.module.code.ts"
 import type { TooltipExtensionInstance } from "akasha/temper/addon/pages/world/collections/modules/journal-shape/journal-shape.module.code.ts"
 import { Public } from "akasha/temper/addon/pages/world/collections/modules/journal-state/journal-state.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
