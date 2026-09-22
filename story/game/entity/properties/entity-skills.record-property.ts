@@ -18,8 +18,8 @@ export const entitySkills = {
       statement: "A skill holds how far it has come rather than the rung that reaches.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A mechanic names the rung a skill's progress reaches.",
+      decisionKind: "decision-kind/departure",
+      statement: "The rung a skill's progress reaches is written on the turn that reached it.",
     },
   ],
   types: "ts",
