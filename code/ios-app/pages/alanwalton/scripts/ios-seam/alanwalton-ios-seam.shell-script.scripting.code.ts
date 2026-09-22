@@ -1,3 +1,4 @@
+import { dirname, relative } from "node:path"
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -46,10 +47,6 @@ const LINKING = "monarch-url"
 
 const COPYING = "widget-components"
 
-const UP = ".."
-
-const PARTED = "/"
-
 const BEFORE = [
   "plist-keys",
   "appdelegate-imports",
@@ -79,20 +76,6 @@ const AFTER = ["plugin-registrations", "fluidaudio-pin", "app-icon", "widget-tar
 
 const CLOSING = "app-entitlements"
 
-function folderOf(path: string): string {
-  return path.slice(0, path.lastIndexOf(PARTED))
-}
-
-function betweenAt(from: string, to: string): string {
-  const leaving = from.split(PARTED)
-  const reaching = to.split(PARTED)
-  let same = 0
-  while (same < leaving.length && same < reaching.length && leaving[same] === reaching[same]) {
-    same += 1
-  }
-  return [...leaving.slice(same).map(() => UP), ...reaching.slice(same)].join(PARTED)
-}
-
 function shellAt(given: string | Reading, slug: string): string {
   return fileOf(given, valuedAt(given, SCRIPT, slug), SCRIPT, SHELL)
 }
@@ -105,33 +88,33 @@ function besideAt(
   held: string
 ): string {
   const at = fileOf(given, valuedAt(given, PROGRAM, slug), PROGRAM, propertySlug)
-  return betweenAt(programs, at).split(slug).join(held)
+  return relative(programs, at).split(slug).join(held)
 }
 
 function placesIn(given: string | Reading) {
-  const here = folderOf(valuedAt(given, SCRIPT, OWN).path)
+  const here = dirname(valuedAt(given, SCRIPT, OWN).path)
   const app = valuedAt(given, APP, ALAN)
-  const packaged = folderOf(app.path)
-  const apps = folderOf(valuedAt(given, TYPE, APP).path)
-  const code = folderOf(apps)
+  const packaged = dirname(app.path)
+  const apps = dirname(valuedAt(given, TYPE, APP).path)
+  const code = dirname(apps)
   const tiles = valuedAt(given, PROGRAM, DRAWN)
-  const programs = folderOf(folderOf(tiles.path))
+  const programs = dirname(dirname(tiles.path))
   const drawn = valuedAt(given, COMPONENT, slugsIn(tiles.value[exportedAs(COMPONENTS)])[0] ?? "")
-  const components = folderOf(folderOf(drawn.path))
+  const components = dirname(dirname(drawn.path))
   const carried = valuedAt(given, COMPONENT, CARRIED)
-  const seam = folderOf(folderOf(shellAt(given, STAMPING)))
+  const seam = dirname(dirname(shellAt(given, STAMPING)))
   return {
     here,
     seam,
-    scripts: folderOf(here),
-    toPackage: betweenAt(here, packaged),
-    toAppDir: betweenAt(packaged, apps),
-    toCode: betweenAt(apps, code),
-    components: betweenAt(code, components),
-    stoplightsContent: betweenAt(components, fileOf(given, carried, COMPONENT, SWIFT)),
-    programs: betweenAt(code, programs),
-    shared: betweenAt(code, seam),
-    icon: betweenAt(packaged, fileOf(given, app, APP, ICON)),
+    scripts: dirname(here),
+    toPackage: relative(here, packaged),
+    toAppDir: relative(packaged, apps),
+    toCode: relative(apps, code),
+    components: relative(code, components),
+    stoplightsContent: relative(components, fileOf(given, carried, COMPONENT, SWIFT)),
+    programs: relative(code, programs),
+    shared: relative(code, seam),
+    icon: relative(packaged, fileOf(given, app, APP, ICON)),
     widgetInfoPlist: besideAt(given, DRAWN, INFO_PLIST, programs, WIDGET_HELD),
     widgetEntitlements: besideAt(given, DRAWN, ENTITLEMENTS, programs, WIDGET_HELD),
     appEntitlements: besideAt(given, RUNNING, ENTITLEMENTS, programs, APP_HELD),
@@ -210,13 +193,13 @@ function sharedIn(
   why: string
 ): readonly string[] {
   const at = shellAt(given, slug)
-  const named = `$SHARED_IOS_SEAM_DIR/${betweenAt(places.seam, at)}`
+  const named = `$SHARED_IOS_SEAM_DIR/${relative(places.seam, at)}`
   return [
     `if [[ ! -f "${named}" ]]; then`,
     `  echo "ERROR: ${named} not found — ${why}" >&2`,
     "  exit 1",
     "fi",
-    `# shellcheck source=${betweenAt(places.here, at)}`,
+    `# shellcheck source=${relative(places.here, at)}`,
     `. "${named}"`,
   ]
 }
@@ -316,14 +299,14 @@ function guardingIn(): readonly string[] {
 function sourcedIn(given: string | Reading, places: Places, part: string): readonly string[] {
   const at = shellAt(given, `${ALAN}-${part}`)
   return [
-    `# shellcheck source=${betweenAt(places.here, at)}`,
-    `. "$SEAM_DIR/${betweenAt(places.scripts, at)}"`,
+    `# shellcheck source=${relative(places.here, at)}`,
+    `. "$SEAM_DIR/${relative(places.scripts, at)}"`,
   ]
 }
 
 function closingIn(given: string | Reading, places: Places): readonly string[] {
   return [
-    `SEAM_DIR="$(cd "$(dirname "\${BASH_SOURCE[0]}")/${betweenAt(places.here, places.scripts)}" && pwd)"`,
+    `SEAM_DIR="$(cd "$(dirname "\${BASH_SOURCE[0]}")/${relative(places.here, places.scripts)}" && pwd)"`,
     ...BEFORE.flatMap((one) => sourcedIn(given, places, one)),
     "",
     "# Where 09-monarch-tap-and-build-stamp.sh called it, between the relay and the",
