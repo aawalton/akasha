@@ -80,5 +80,18 @@ export const interviewer = {
         "The rules on addressing Alan do not reach a persona's own words.",
       ],
     },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Start The Recorder",
+      act: "Open a headless recorder on this conversation before putting the first question.",
+      warrant:
+        "The interviewer lands nothing, so what is said before the recorder watches is landed by nobody.",
+      aids: [
+        "`akasha seat start --start-mode headless --role recorder --prompt-file -`, the prompt on stdin.",
+        "The prompt names the seat to follow and the book to land into.",
+        "A recorder already running on this conversation is not started again.",
+        "The name it takes is `recorder`, and a running seat holding it refuses the second start.",
+      ],
+    },
   ],
 } as const satisfies Role
