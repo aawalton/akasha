@@ -4,13 +4,13 @@ export const landingThroughput = {
   id: "01a08789-2005-7546-8b63-bcb5f2322cc7",
   type: "page-type/performance",
   slug: "landing-throughput",
-  definition: "how many landings a second a worktree takes while every lane contends",
+  definition: "how many landings a second a checkout takes while every lane contends",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The landings are measured over a scratch worktree rather than this checkout.",
+      statement: "The landings are measured over a scratch repository rather than this checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
