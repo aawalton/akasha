@@ -15,7 +15,7 @@ const PAGES = "pages"
 
 const AFTER = "after"
 
-const TAB = "\t"
+const GAP = /\s+/
 
 export type Valued = {
   readonly path: string
@@ -33,9 +33,9 @@ export function valuedIn(pages: string): readonly Valued[] | string {
   for (const line of pages.split("\n")) {
     const said = line.trim()
     if (said === "") continue
-    const at = said.indexOf(TAB)
-    if (at < 0) return `\`${said}\` holds no tab, and a line is a path, a tab, then one value`
-    found.push({ path: said.slice(0, at).trim(), value: said.slice(at + 1).trim() })
+    const at = said.search(GAP)
+    if (at < 0) return `\`${said}\` holds one word, and a line is a path then one value`
+    found.push({ path: said.slice(0, at), value: said.slice(at).trim() })
   }
   return found
 }

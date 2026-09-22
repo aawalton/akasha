@@ -13,11 +13,11 @@ export const addPropertyToPages = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A line is a path, a tab, then the value that page takes.",
+      statement: "A line is a path, a gap, then the value that page takes.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A line holding no tab is refused rather than read as a path alone.",
+      statement: "A line holding one word is refused rather than read as a path alone.",
     },
     {
       decisionKind: "decision-kind/departure",

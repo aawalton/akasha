@@ -26,20 +26,24 @@ function caught(): Carried {
   return { at: "", given: null }
 }
 
-test("a line is a path, a tab, then the value that page takes", () => {
+test("a line is a path, a gap, then the value that page takes", () => {
+  expect(valuedIn(`${ONE} ${NOUN}`)).toEqual([{ path: ONE, value: NOUN }])
+})
+
+test("a line holding one word is refused rather than read as a path alone", () => {
+  expect(valuedIn(ONE)).toContain("holds one word")
+})
+
+test("a tab parts a path from its value as a space does", () => {
   expect(valuedIn(`${ONE}\t${NOUN}`)).toEqual([{ path: ONE, value: NOUN }])
 })
 
-test("a line holding no tab is refused rather than read as a path alone", () => {
-  expect(valuedIn(ONE)).toContain("holds no tab")
-})
-
 test("an empty line is passed over rather than refused", () => {
-  expect(valuedIn(`\n${ONE}\t${NOUN}\n\n`)).toEqual([{ path: ONE, value: NOUN }])
+  expect(valuedIn(`\n${ONE} ${NOUN}\n\n`)).toEqual([{ path: ONE, value: NOUN }])
 })
 
 test("each line names a page of its own", () => {
-  expect(valuedIn(`${ONE}\t${NOUN}\n${TWO}\t${OTHER}`)).toEqual([
+  expect(valuedIn(`${ONE} ${NOUN}\n${TWO} ${OTHER}`)).toEqual([
     { path: ONE, value: NOUN },
     { path: TWO, value: OTHER },
   ])
@@ -51,7 +55,7 @@ test("naming no page is refused rather than answered as no edit", async () => {
 })
 
 test("this change handed no key is refused", async () => {
-  const said = await runChange(worldRecording(caught()), { pages: `${ONE}\t${NOUN}` })
+  const said = await runChange(worldRecording(caught()), { pages: `${ONE} ${NOUN}` })
   expect(said.refused ?? "").toContain("key")
 })
 
@@ -62,19 +66,19 @@ test("this change handed no pages is refused", async () => {
 
 test("the one change reached is the mechanical change putting a value on each page", async () => {
   const held = caught()
-  await runChange(worldRecording(held), { key: KEY, pages: `${ONE}\t${NOUN}` })
+  await runChange(worldRecording(held), { key: KEY, pages: `${ONE} ${NOUN}` })
   expect(held.at).toBe(REACHED)
 })
 
 test("the change reached is handed the lines read as pages and values", async () => {
   const held = caught()
-  await runChange(worldRecording(held), { key: KEY, pages: `${ONE}\t${NOUN}` })
+  await runChange(worldRecording(held), { key: KEY, pages: `${ONE} ${NOUN}` })
   expect(held.given).toEqual({ key: KEY, valued: [{ path: ONE, value: NOUN }] })
 })
 
 test("an `after` the caller states is handed to the change reached", async () => {
   const held = caught()
-  await runChange(worldRecording(held), { key: KEY, pages: `${ONE}\t${NOUN}`, after: "slug" })
+  await runChange(worldRecording(held), { key: KEY, pages: `${ONE} ${NOUN}`, after: "slug" })
   expect(held.given).toEqual({
     key: KEY,
     valued: [{ path: ONE, value: NOUN }],
