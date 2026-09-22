@@ -5,7 +5,7 @@ export const maxDistance = {
   type: "page-type/number-property",
   slug: "max-distance",
   propertySlug: "max-distance",
-  definition: "the furthest range a test holds at",
+  definition: "a test's furthest range",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

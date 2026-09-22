@@ -5,7 +5,7 @@ export const epoch = {
   type: "page-type/text-property",
   slug: "epoch",
   propertySlug: "epoch",
-  definition: "the day a rotation is counted from",
+  definition: "the day a rotation's count begins",
   maxLength: 10,
   nameFormat: null,
   decisions: [

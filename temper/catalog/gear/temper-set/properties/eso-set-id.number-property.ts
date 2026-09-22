@@ -5,7 +5,7 @@ export const esoSetId = {
   type: "page-type/number-property",
   slug: "eso-set-id",
   propertySlug: "eso-set-id",
-  definition: "the number The Elder Scrolls Online names a set by",
+  definition: "the number The Elder Scrolls Online gives a set",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

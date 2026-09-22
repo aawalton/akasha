@@ -4,7 +4,7 @@ export const ttcQualityTextClasses = {
   id: "01a060cf-b0b1-726e-9c87-8a0d3121e120",
   type: "page-type/module",
   slug: "ttc-quality-text-classes",
-  definition: "the text class a Tamriel Trade Centre item quality is shown in",
+  definition: "a Tamriel Trade Centre item quality's text class",
   code: "ts",
   decisions: [
     {

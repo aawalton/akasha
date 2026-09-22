@@ -5,7 +5,7 @@ export const questName = {
   type: "page-type/text-property",
   slug: "quest-name",
   propertySlug: "quest-name",
-  definition: "the name a quest is shown under",
+  definition: "the name shown for a quest",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

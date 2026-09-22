@@ -4,7 +4,7 @@ export const temperCadwellLevel = {
   id: "01a0616b-2cde-7001-a076-c5cb204d81f9",
   type: "page-type/page-type",
   slug: "temper-cadwell-level",
-  definition: "a tier of Cadwell's Almanac a player works through",
+  definition: "a tier of progress through Cadwell's Almanac",
   extends: ["page-type/temper-pursuit-thing"],
   parts: [
     "number-property/stop-index",

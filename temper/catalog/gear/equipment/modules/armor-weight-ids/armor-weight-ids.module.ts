@@ -4,7 +4,7 @@ export const armorWeightIds = {
   id: "01a060f0-3eac-71f4-ab24-ac7b5ad15139",
   type: "page-type/module",
   slug: "armor-weight-ids",
-  definition: "the weight classes a piece of body armor or a shield is made in",
+  definition: "the weight classes for a piece of body armor or a shield",
   code: "ts",
   decisions: [
     {

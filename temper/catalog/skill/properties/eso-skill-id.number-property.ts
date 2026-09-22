@@ -5,7 +5,7 @@ export const esoSkillId = {
   type: "page-type/number-property",
   slug: "eso-skill-id",
   propertySlug: "eso-skill-id",
-  definition: "the number The Elder Scrolls Online names a skill by",
+  definition: "the number The Elder Scrolls Online gives a skill",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

@@ -5,7 +5,7 @@ export const slottedBehavior = {
   type: "page-type/text-property",
   slug: "slotted-behavior",
   propertySlug: "slotted-behavior",
-  definition: "which bar a slotted ability has its effect on",
+  definition: "which bar a slotted ability affects",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

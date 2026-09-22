@@ -5,7 +5,7 @@ export const slotType = {
   type: "page-type/text-property",
   slug: "slot-type",
   propertySlug: "slot-type",
-  definition: "the slot in a grimoire a script is set into",
+  definition: "a script's slot in a grimoire",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

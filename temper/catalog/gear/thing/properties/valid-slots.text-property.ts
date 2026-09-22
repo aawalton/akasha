@@ -5,7 +5,7 @@ export const validSlots = {
   type: "page-type/text-property",
   slug: "valid-slots",
   propertySlug: "valid-slots",
-  definition: "the slots a piece of this kind goes into",
+  definition: "the slots a piece of this kind fits",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

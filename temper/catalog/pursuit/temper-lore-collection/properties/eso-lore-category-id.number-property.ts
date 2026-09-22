@@ -5,7 +5,7 @@ export const esoLoreCategoryId = {
   type: "page-type/number-property",
   slug: "eso-lore-category-id",
   propertySlug: "eso-lore-category-id",
-  definition: "the number The Elder Scrolls Online names a lore library category by",
+  definition: "the number The Elder Scrolls Online gives a lore library category",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

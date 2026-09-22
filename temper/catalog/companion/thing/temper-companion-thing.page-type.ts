@@ -4,7 +4,7 @@ export const temperCompanionThing = {
   id: "01a05fcc-694c-762c-bcd1-1691361636e2",
   type: "page-type/page-type",
   slug: "temper-companion-thing",
-  definition: "anything the companion side of the catalog keeps a page for",
+  definition: "anything with a page on the companion side of the catalog",
   extends: ["page-type/temper-catalog-thing"],
   parts: ["number-property/equip-type"],
   properties: [{ pageProperty: "number-property/equip-type", required: false, many: false }],
