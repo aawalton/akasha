@@ -5,5 +5,6 @@ export const towerPhysicalDefence = {
   type: "page-type/metric-derived",
   slug: "tower-physical-defence",
   title: "Physical Defence",
+  definition: "how well a character in the Tower turns a blow aside",
   formula: {},
 } as const satisfies MetricDerived

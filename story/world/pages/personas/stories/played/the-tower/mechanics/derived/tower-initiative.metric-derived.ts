@@ -5,5 +5,6 @@ export const towerInitiative = {
   type: "page-type/metric-derived",
   slug: "tower-initiative",
   title: "Initiative",
+  definition: "how early a character in the Tower acts in a fight",
   formula: {},
 } as const satisfies MetricDerived

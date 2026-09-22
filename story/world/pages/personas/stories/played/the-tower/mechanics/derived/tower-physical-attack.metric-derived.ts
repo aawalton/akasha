@@ -5,5 +5,6 @@ export const towerPhysicalAttack = {
   type: "page-type/metric-derived",
   slug: "tower-physical-attack",
   title: "Physical Attack",
+  definition: "how hard a character in the Tower strikes with a weapon",
   formula: {},
 } as const satisfies MetricDerived

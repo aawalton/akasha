@@ -5,5 +5,6 @@ export const towerStaminaMax = {
   type: "page-type/metric-derived",
   slug: "tower-stamina-max",
   title: "Max Stamina",
+  definition: "the most effort a character in the Tower can spend",
   formula: {},
 } as const satisfies MetricDerived

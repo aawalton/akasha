@@ -5,5 +5,6 @@ export const towerHealthMax = {
   type: "page-type/metric-derived",
   slug: "tower-health-max",
   title: "Max Health",
+  definition: "the most life a character in the Tower can have",
   formula: {},
 } as const satisfies MetricDerived

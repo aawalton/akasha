@@ -5,5 +5,6 @@ export const towerMentalAttack = {
   type: "page-type/metric-derived",
   slug: "tower-mental-attack",
   title: "Mental Attack",
+  definition: "how hard a character in the Tower presses on another mind",
   formula: {},
 } as const satisfies MetricDerived
