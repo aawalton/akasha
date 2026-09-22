@@ -2549,7 +2549,6 @@
 {"propertySlug":"decision-kind","path":"graph/predicate/modules/closure/graph-predicate-closure.module.ts","id":"01a0a5ef-108b-7e25-8e6c-7dfb7d221cf4"}
 {"propertySlug":"decision-kind","path":"graph/predicate/properties/direction.text-property.ts","id":"01a0a5e2-270a-7e0a-8a1d-0d7ae58c26f5"}
 {"propertySlug":"decision-kind","path":"graph/predicate/properties/follows.record-property.ts","id":"01a0aa5f-a005-71bc-9953-a98187d70707"}
-{"propertySlug":"decision-kind","path":"infrastructure/alert/alert.page-type.ts","id":"01a06755-0778-7804-96f1-949fc3c68e4f"}
 {"propertySlug":"decision-kind","path":"infrastructure/analysis-complexity/modules/complexity-rows/complexity-rows.module.ts","id":"01a0680f-d1b7-76ad-870a-daf5928ec28b"}
 {"propertySlug":"decision-kind","path":"infrastructure/analysis-complexity/modules/cyclomatic/cyclomatic.module.ts","id":"01a0680f-d1b7-75cd-9668-69db68df9b0f"}
 {"propertySlug":"decision-kind","path":"infrastructure/analysis-complexity/modules/file-discovery/file-discovery.module.ts","id":"01a0680f-d1b7-7ed0-a713-09a7570e97b9"}

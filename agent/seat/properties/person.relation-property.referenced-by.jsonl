@@ -1,9 +1,7 @@
 {"propertySlug":"import","fileName":"person.relation-property.types.ts","path":"agent/seat/seat.page-type.types.ts"}
 {"propertySlug":"import","fileName":"person.relation-property.types.ts","path":"alan/harness/notification-feed/notification-feed.page-type.types.ts"}
 {"propertySlug":"import","fileName":"person.relation-property.types.ts","path":"alan/music/listening/heard-music/heard-music.page-type.types.ts"}
-{"propertySlug":"import","fileName":"person.relation-property.types.ts","path":"infrastructure/alert/alert.page-type.types.ts"}
 {"propertySlug":"page-property","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"page-property","path":"alan/harness/notification-feed/notification-feed.page-type.ts","id":"01a06861-e7cd-7f8b-a674-034ea5efe956"}
 {"propertySlug":"page-property","path":"alan/music/listening/heard-music/heard-music.page-type.ts","id":"01a06240-340f-700a-be22-823bb6c905f7"}
-{"propertySlug":"page-property","path":"infrastructure/alert/alert.page-type.ts","id":"01a06755-0778-7804-96f1-949fc3c68e4f"}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

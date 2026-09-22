@@ -75,7 +75,6 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"check/refusal/refusal.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"design/game/achievement/achievement.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"design/interface/color/color.page-type.types.ts"}
-{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"infrastructure/alert/alert.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"infrastructure/machine/computer/computer.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"infrastructure/machine/host/host.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"infrastructure/service/vendored-workload/vendored-workload.page-type.types.ts"}
@@ -196,7 +195,6 @@
 {"propertySlug":"page-property","path":"check/refusal/refusal.page-type.ts","id":"01a0699d-4000-7a11-9c02-3f61b0d24e77"}
 {"propertySlug":"page-property","path":"design/game/achievement/achievement.page-type.ts","id":"01a06807-be66-7009-aef9-4834eb342f4f"}
 {"propertySlug":"page-property","path":"design/interface/color/color.page-type.ts","id":"01a06575-c2a9-766f-8f09-da30cc969637"}
-{"propertySlug":"page-property","path":"infrastructure/alert/alert.page-type.ts","id":"01a06755-0778-7804-96f1-949fc3c68e4f"}
 {"propertySlug":"page-property","path":"infrastructure/machine/computer/computer.page-type.ts","id":"01a0658c-329a-7d00-b3f3-8abf47bf46cf"}
 {"propertySlug":"page-property","path":"infrastructure/machine/host/host.page-type.ts","id":"01a06590-e94f-7d6f-a415-867286e194a2"}
 {"propertySlug":"page-property","path":"infrastructure/service/vendored-workload/vendored-workload.page-type.ts","id":"01a068e5-527b-7fd9-b67c-c38bcf39040a"}

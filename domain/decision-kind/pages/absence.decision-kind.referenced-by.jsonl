@@ -1423,7 +1423,6 @@
 {"propertySlug":"decision-kind","path":"git/modules/store-sweeping/git-store-sweeping.module.ts","id":"01a091c7-3c36-724a-a2ce-575287558db5"}
 {"propertySlug":"decision-kind","path":"graph/modules/asking/graph-asking.module.ts","id":"01a04ff4-320c-7689-9d79-b3b0caa05ab1"}
 {"propertySlug":"decision-kind","path":"graph/predicate/modules/closure/graph-predicate-closure.module.ts","id":"01a0a5ef-108b-7e25-8e6c-7dfb7d221cf4"}
-{"propertySlug":"decision-kind","path":"infrastructure/alert/alert.page-type.ts","id":"01a06755-0778-7804-96f1-949fc3c68e4f"}
 {"propertySlug":"decision-kind","path":"infrastructure/auth/auth.domain.ts","id":"01a07392-d13f-7657-b149-543047125f73"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/api/modules/cluster-fetch/cluster-fetch.module.ts","id":"01a068d4-d2aa-7902-bb36-12d037d7ac6b"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/cluster.domain.ts","id":"01a073f1-e67a-717a-9d6a-324244b75878"}
