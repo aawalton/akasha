@@ -365,6 +365,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/design.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/game/design-game.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/game/drive/drive.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/game/mechanic/attribute/attribute.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/game/mechanic/mechanic.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/game/mechanic/resource/resource.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/interface/badge/design-interface-badge.domain.ts"}
