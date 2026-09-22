@@ -3,10 +3,11 @@
 {"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.test.ts"}
 {"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.test.ts"}
-{"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-progress/completion-companion-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-progress/completion-companion-progress.module.test.ts"}
 {"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-quest-actionability/completion-companion-quest-actionability.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-rapport-tally/completion-companion-rapport-tally.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-rapport-tally/completion-companion-rapport-tally.module.test.ts"}
 {"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-companion/completion-summary-companion.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-companion/completion-summary-companion.module.test.ts"}
 {"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/web/modules/character-companion-rapport-panel-card/character-companion-rapport-panel-card.module.code.tsx"}

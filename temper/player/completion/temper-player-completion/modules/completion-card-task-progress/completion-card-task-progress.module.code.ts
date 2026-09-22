@@ -1,15 +1,11 @@
-import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
-import {
-  clampRapportProgress,
-  MAX_COMPANION_RAPPORT,
-} from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import type { ItemProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import type { AnyCompletionCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
+import { countCompanionRapport } from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-rapport-tally/completion-companion-rapport-tally.module.code.ts"
 import { resolveGenericCheckerProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
 import type { ItemPath } from "akasha/temper/player/completion/temper-player-completion/modules/completion-item-picker/completion-item-picker.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player/completion/temper-player-completion/modules/completion-measured/completion-measured.module.code.ts"
@@ -20,12 +16,6 @@ import {
 } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { MorphCharacterRow } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import { resolveSkillMorphs } from "akasha/temper/player/skill-morph/access/modules/skill-morphs-resolver/skill-morphs-resolver.module.code.ts"
-
-const RAPPORT_COMPANION_IDS: readonly number[] = companions.list
-  .filter((companion) => companion.esoCompanionId !== 0)
-  .map((companion) => companion.esoCompanionId)
-const RAPPORT_COMPANION_ID_SET = new Set<number>(RAPPORT_COMPANION_IDS)
-const TOTAL_RAPPORT = RAPPORT_COMPANION_IDS.length * MAX_COMPANION_RAPPORT
 
 const SKILL_LINE_BY_ESO_ID = new Map(skillLines.list.map((line) => [line.esoSkillLineId, line]))
 
@@ -99,24 +89,7 @@ function resolveCompanionRapport(
   charCompletion: CharacterCompletion | null | undefined,
   itemPath: ItemPath | undefined
 ): ItemProgress | undefined {
-  const rapport = charCompletion?.companionRapport
-
-  if (itemPath && itemPath.length > 0) {
-    const companionId = itemPath[0]
-    if (typeof companionId !== "number") return undefined
-    return {
-      current: clampRapportProgress(rapport?.[companionId] ?? 0),
-      total: MAX_COMPANION_RAPPORT,
-    }
-  }
-
-  let current = 0
-  if (rapport !== undefined) {
-    for (const [idKey, level] of Object.entries(rapport)) {
-      if (RAPPORT_COMPANION_ID_SET.has(Number(idKey))) current += clampRapportProgress(level)
-    }
-  }
-  return { current, total: TOTAL_RAPPORT }
+  return countCompanionRapport(charCompletion?.companionRapport, itemPath ?? [])
 }
 
 function resolveSkillLines(
