@@ -40,4 +40,5 @@
 {"propertySlug":"directive-kind","path":"person/pages/alan/alan.person.ts","id":"01a053fe-00ef-7d9b-9231-0340262cf86e"}
 {"propertySlug":"directive-kind","path":"persona/pages/aelwyn/aelwyn.persona.ts","id":"019eb83a-d8b0-740f-bb4e-2363dde26ac3"}
 {"propertySlug":"directive-kind","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
+{"propertySlug":"directive-kind","path":"story/item/item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}
 {"propertySlug":"parts","path":"domain/directive-kind/directive-kind.page-type.ts","id":"01a04e1f-cbf6-755d-bd7d-e46ba13c0087"}

@@ -19,6 +19,21 @@ export const item = {
     { pageProperty: "relation-property/item-character", required: true, many: false },
     { pageProperty: "relation-property/item-slot", required: false, many: false },
   ],
+  directives: [
+    {
+      directiveKind: "directive-kind/rule",
+      name: "What It Is",
+      act: "Write in an item's description only what the item plainly is, as the player knows it.",
+      warrant:
+        "A description is read at a glance, so anything else in it is read as part of the thing.",
+      aids: [
+        "How the item is used belongs to the mechanic that uses it.",
+        "What the item has been through belongs to git.",
+        "What it is made from or was taken from is not what it is.",
+        "An item it supersedes or pairs with is that other item's business.",
+      ],
+    },
+  ],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType
