@@ -8,6 +8,8 @@
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/books-completed.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/books-reading.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/books-to-read.view.ts"}
+{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/characters-alphabetical.view.ts"}
+{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/characters-most-seen.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/requests-completed.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/requests-denied.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/requests-proposed.view.ts"}
