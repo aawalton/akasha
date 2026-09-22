@@ -26,6 +26,18 @@ export const engineGlobalsCatalogCapture = {
       statement: "A global holding anything but a number or a word is passed over.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game saves no word longer than two thousand characters.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "One word the game will not save loses everything saved beside that word.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A word too long to save is passed over, and the name it was held under is kept.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "The constants a later version of the game declares replace the ones before.",
     },
