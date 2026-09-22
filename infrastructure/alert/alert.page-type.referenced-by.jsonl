@@ -43,11 +43,6 @@
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/node-not-ready/node-not-ready.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/pod-crash-looping/pod-crash-looping.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/pod-pending/pod-pending.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/seaweedfs-liveness-metric-absent/seaweedfs-liveness-metric-absent.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/seaweedfs-storage-high/seaweedfs-storage-high.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/seaweedfs-storage-runway-short/seaweedfs-storage-runway-short.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/seaweedfs-volume-heartbeat-stalled/seaweedfs-volume-heartbeat-stalled.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/seaweedfs-volume-server-down/seaweedfs-volume-server-down.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/served-tls-cert-stale/served-tls-cert-stale.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/stateful-set-replicas-mismatch/stateful-set-replicas-mismatch.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/subscriber-lag/subscriber-lag.alert.ts"}

@@ -1,3 +1,0 @@
-up==0 for the SeaweedFS volume component (job seaweedfs, :9327) — the object-store blob layer that backs Postgres PITR is unreachable.
-
-Check: kubectl get pods -n seaweedfs -l app.kubernetes.io/component=volume
