@@ -6,5 +6,6 @@ export const abacusCounter = {
   slug: "abacus-counter",
   title: "Abacus Counter",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

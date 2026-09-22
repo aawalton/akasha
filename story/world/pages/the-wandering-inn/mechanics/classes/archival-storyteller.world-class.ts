@@ -6,6 +6,7 @@ export const archivalStoryteller = {
   slug: "archival-storyteller",
   title: "Archival Storyteller",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   evolvesToSlugs: ["historian-of-the-world"],
   references: "jsonl",
 } as const satisfies WorldClass

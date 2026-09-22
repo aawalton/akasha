@@ -6,6 +6,7 @@ export const adventurer = {
   slug: "adventurer",
   title: "Adventurer",
   world: "world/the-wandering-inn",
+  appearanceCount: 22,
   aliases: ["adventurers"],
   evolvesToSlugs: ["horrorbane-adventurer"],
   references: "jsonl",

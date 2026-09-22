@@ -6,5 +6,6 @@ export const autoRepairMechanic = {
   slug: "auto-repair-mechanic",
   title: "Auto Repair Mechanic",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

@@ -6,5 +6,6 @@ export const archmageOfTectonicMight = {
   slug: "archmage-of-tectonic-might",
   title: "Archmage of Tectonic Might",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

@@ -6,6 +6,7 @@ export const antiniumQueen = {
   slug: "antinium-queen",
   title: "Antinium Queen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesFromSlugs: ["queen"],
   evolvesToSlugs: ["queen-of-freedom"],
   references: "jsonl",

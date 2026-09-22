@@ -6,5 +6,6 @@ export const alchemiaformOldbloodGrandAlchemistOfWar = {
   slug: "alchemiaform-oldblood-grand-alchemist-of-war",
   title: "Alchemiaform Oldblood, Grand Alchemist of War",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldClass
