@@ -14,6 +14,11 @@ export const awenEngineImprovements = {
     },
     { statement: "Every page under `story/` is of a page type in that set." },
     { statement: "All game state for The Tower uses the new page types." },
+    {
+      statement: "The Tower's attribute scores live only on the new attribute pages.",
+      workingMemory:
+        "`the-tower-alan.game-entity.ts` still carries all eight as `attributes` records. Eight game-mechanic code files read them by `game-attribute` slug — hp-max, focus-max, stam-max, initiative, phys-atk, phys-def, ment-atk, ment-def — as does `story/game/turn/modules/turn-state/turn-state.module.code.ts`. The eight new pages under `.../the-tower/mechanics/metrics/attributes/` carry the same values with sparse histories.",
+    },
   ],
   constraints: [
     "Alan approves the shape of each page type under `story/` before that page type is built.",
