@@ -1,3 +1,4 @@
+import { LIB as DEBUG_LOGGER_API } from "akasha/temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-state/debug-logger-state.module.code.ts"
 import {
   asLibDebugLoggerGlobal,
   asLibDebugLoggerInstance,
@@ -7,13 +8,12 @@ import { asString } from "akasha/temper/addon/pages/hud/temper-scrollable-menu/m
 import { DEBUG_LOG_MESSAGE_PATTERNS } from "akasha/temper/addon/pages/hud/temper-scrollable-menu/modules/scrollable-menu-debug-log-message-patterns/scrollable-menu-debug-log-message-patterns.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/hud/temper-scrollable-menu/modules/scrollable-menu-state/scrollable-menu-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
 import "akasha/temper/addon/pages/hud/temper-scrollable-menu/scrollable-menu-debug-shapes/scrollable-menu-debug-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const MAJOR = lib.name
 
-let LDL: LibDebugLoggerGlobal = asLibDebugLoggerGlobal(LibDebugLogger)
+let LDL: LibDebugLoggerGlobal = asLibDebugLoggerGlobal(DEBUG_LOGGER_API)
 
 const sfor = string.format
 
@@ -31,7 +31,7 @@ const LSM_LOGTYPE_ERROR = libDebug.LSM_LOGTYPE_ERROR
 const LOGGER_TYPE_TO_NAME = libDebug.loggerTypeToName
 
 function loadLogger(this: void): undefined {
-  LDL = LDL ?? asLibDebugLoggerGlobal(LibDebugLogger)
+  LDL = LDL ?? asLibDebugLoggerGlobal(DEBUG_LOGGER_API)
   if (lib.logger === undefined && LDL !== undefined) {
     logger = LDL(MAJOR)
     logger.SetEnabled(true)

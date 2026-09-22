@@ -13,6 +13,7 @@ export const temperAddonHud = {
   parts: [
     "domain/temper-async",
     "domain/temper-chat-message",
+    "domain/temper-debug-logger",
     "domain/temper-errors",
     "domain/temper-events",
     "domain/temper-housing",

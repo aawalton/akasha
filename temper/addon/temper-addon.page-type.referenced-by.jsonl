@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-addon-menu/temper-lib-addon-menu.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-custom-menu/temper-lib-custom-menu.temper-addon.ts"}
-{"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-debug-logger/temper-lib-debug-logger.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-map-pins/temper-lib-map-pins.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/world/temper-addon-world.temper-addon.ts"}
 {"propertySlug":"parts","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}

@@ -34,8 +34,7 @@
   "dependsOn": [
     "TemperHud",
     "LibMapPins-1.0>=10047",
-    "LibAddonMenu-2.0>=41",
-    "LibDebugLogger>=274"
+    "LibAddonMenu-2.0>=41"
   ],
   "optionalDependsOn": [
     "DebugLogViewer",

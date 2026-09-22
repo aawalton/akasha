@@ -10,14 +10,14 @@ import type {
   LogFunc,
   TaskInstance,
 } from "akasha/temper/addon/pages/hud/temper-async/modules/async-types/async-types.module.code.ts"
-import "akasha/temper/addon/type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import { LIB as DEBUG_LOGGER_API } from "akasha/temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-state/debug-logger-state.module.code.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
 export const EM = EVENT_MANAGER
 
-const log = LibDebugLogger !== undefined ? LibDebugLogger(ASYNC_GLOBAL) : undefined
+const log = DEBUG_LOGGER_API.Create(ASYNC_GLOBAL)
 const Debug: LogFunc = log !== undefined ? (message, ...args) => log.Debug(message, ...args) : df
 export const Warn: LogFunc =
   log !== undefined ? (message, ...args) => log.Warn(message, ...args) : df

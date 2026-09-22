@@ -29,7 +29,6 @@
   "dependsOn": [
     "TemperCharacters",
     "TemperHud",
-    "LibDebugLogger",
     "LibAddonMenu-2.0>=43",
     "LibCustomMenu>=692"
   ],

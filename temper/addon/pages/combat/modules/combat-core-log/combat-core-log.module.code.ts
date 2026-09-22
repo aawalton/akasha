@@ -1,5 +1,5 @@
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-debug-logger-global/temper-debug-logger-global.type-declaration.d.ts"
 
 export const LOG_LEVEL_DEBUG = "D"
 export const LOG_LEVEL_WARNING = "W"
@@ -7,8 +7,8 @@ export const LOG_LEVEL_WARNING = "W"
 let mainlogger: DebugLogger | undefined
 const SUBLOGGERS: Record<string, DebugLogger> = {}
 
-if (LibDebugLogger !== undefined) {
-  mainlogger = LibDebugLogger.Create("TemperCombat")
+if (TemperDebugLogger !== undefined) {
+  mainlogger = TemperDebugLogger.Create("TemperCombat")
 
   SUBLOGGERS["main"] = mainlogger
   SUBLOGGERS["calc"] = mainlogger.Create("calc")

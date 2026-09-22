@@ -15,7 +15,7 @@ import type {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-async-global/temper-async-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-debug-logger-global/temper-debug-logger-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
@@ -46,7 +46,7 @@ export function noGamepad(
   g.IsInGamepadPreferredMode = orgIsInGamepadPreferredMode
 }
 
-const dbgLog = LibDebugLogger ? LibDebugLogger.Create(holder.name) : undefined
+const dbgLog = TemperDebugLogger ? TemperDebugLogger.Create(holder.name) : undefined
 export function dbg(this: void, ...args: unknown[]): undefined {
   if (dbgLog) {
     dbgLog.Debug(...args)

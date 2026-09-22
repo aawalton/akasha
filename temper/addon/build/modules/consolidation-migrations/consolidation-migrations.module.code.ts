@@ -517,4 +517,22 @@ export const CONSOLIDATION_MIGRATIONS = [
       targetFileBase: "TemperHud",
     },
   },
+  {
+    mode: "append",
+    runFor: "TemperHud",
+    spec: {
+      absorbedFileBase: "LibDebugLogger",
+      absorbedGlobal: "LibDebugLoggerSettings",
+      targetFileBase: "TemperHud",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperHud",
+    spec: {
+      absorbedFileBase: "LibDebugLogger",
+      absorbedGlobal: "LibDebugLoggerLog",
+      targetFileBase: "TemperHud",
+    },
+  },
 ] as const satisfies readonly ConsolidationMigration[]

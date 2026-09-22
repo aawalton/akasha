@@ -1,11 +1,11 @@
 import { ADDON_NAME } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-constants/lost-treasure-constants.module.code.ts"
-import "akasha/temper/addon/type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-debug-logger-global/temper-debug-logger-global.type-declaration.d.ts"
 
-function requireLibDebugLogger(this: void): LibDebugLogger {
-  if (LibDebugLogger === undefined) {
+function requireLibDebugLogger(this: void): TemperDebugLogger {
+  if (TemperDebugLogger === undefined) {
     throw new Error("TemperLostTreasure requires LibDebugLogger")
   }
-  return LibDebugLogger
+  return TemperDebugLogger
 }
 
 const lib = requireLibDebugLogger()

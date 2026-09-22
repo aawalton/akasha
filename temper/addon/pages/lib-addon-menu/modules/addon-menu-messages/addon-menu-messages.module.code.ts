@@ -1,4 +1,4 @@
-import "akasha/temper/addon/type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-debug-logger-global/temper-debug-logger-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-addon-menu/addon-menu-logger/addon-menu-logger.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -28,4 +28,4 @@ function createNoopLogger(this: void): LamLogger {
 }
 
 export const logger: LamLogger =
-  LibDebugLogger !== undefined ? LibDebugLogger("LibAddonMenu-2.0") : createNoopLogger()
+  TemperDebugLogger !== undefined ? TemperDebugLogger("LibAddonMenu-2.0") : createNoopLogger()

@@ -28,6 +28,7 @@
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-async/modules/async-state/async-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-errors/modules/errors-addon-hooks/errors-addon-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-events/next-boss-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-init/next-boss-init.module.code.ts"}
@@ -96,7 +97,6 @@
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-main/custom-menu-main.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-timeout/submenu-timeout.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-main-menu/journal-main-menu.module.code.ts"}

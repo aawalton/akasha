@@ -3,6 +3,8 @@
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/data-encode-encoder/data-encode-encoder.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-async/modules/async-api/async-api.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-async/modules/async-task-class/async-task-class.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-tagged-logger/debug-logger-tagged-logger.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-chat-capture/housing-chat-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-init/housing-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-library-tab/housing-library-tab.module.code.ts"}
@@ -33,8 +35,6 @@
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-selection-widget/sales-history-status-selection-widget.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-tooltip/sales-history-status-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window/sales-history-status-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-tagged-logger/debug-logger-tagged-logger.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-map-adapter/gps-map-adapter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-map-stack/gps-map-stack.module.code.ts"}

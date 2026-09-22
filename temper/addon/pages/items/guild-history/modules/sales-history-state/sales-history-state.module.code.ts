@@ -19,17 +19,17 @@ import {
   ZOOM_MODE_MISSING_RANGE,
 } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-constants/sales-history-constants.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-debug-logger-global/temper-debug-logger-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 const callbackObject = asCallbackObject(ZO_CallbackObject.New())
-if (LibDebugLogger === undefined) {
+if (TemperDebugLogger === undefined) {
   error(`${LIB_IDENTIFIER} requires LibDebugLogger`)
 }
-const logger = asLogger(LibDebugLogger(LIB_IDENTIFIER))
+const logger = asLogger(TemperDebugLogger(LIB_IDENTIFIER))
 
 const NAMESPACE_COUNTER = { next: 1 }
 

@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"eso-enums-14.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-14.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-events-world/characters-events-world.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-14.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-14.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-group/fco-group.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-14.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-14.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-init-chardata/knowledge-init-chardata.module.code.ts"}
@@ -10,6 +11,5 @@
 {"propertySlug":"import","fileName":"eso-enums-14.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-browse-window/trading-browse-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-14.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-events/trading-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-14.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-search-request-native/trading-search-request-native.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-14.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-14.type-declaration.d.ts","path":"temper/addon/shared/modules/guild-store-poster/guild-store-poster.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

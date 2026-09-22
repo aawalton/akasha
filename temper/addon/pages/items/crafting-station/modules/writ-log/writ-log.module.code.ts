@@ -3,7 +3,7 @@ import "akasha/temper/addon/pages/items/crafting-station/modules/writ-public-api
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-debug-logger-global/temper-debug-logger-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 interface LogState {
@@ -100,8 +100,8 @@ const NOP: DebugLogger = {
 
 export function logger(): DebugLogger {
   if (STATE.logger === undefined) {
-    if (LibDebugLogger !== undefined && STATE.show_log) {
-      STATE.logger = LibDebugLogger.Create(TemperWrit.name)
+    if (TemperDebugLogger !== undefined && STATE.show_log) {
+      STATE.logger = TemperDebugLogger.Create(TemperWrit.name)
     }
     if (STATE.logger === undefined) {
       STATE.logger = NOP

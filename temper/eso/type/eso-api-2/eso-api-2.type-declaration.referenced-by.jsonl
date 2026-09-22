@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-log-line-codec/combat-log-line-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-strings/combat-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-gui/next-boss-gui.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-after-login/fco-after-login.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-chat/fco-chat.module.code.ts"}
@@ -83,7 +84,6 @@
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown/addon-menu-widget-dropdown.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-iconpicker/addon-menu-widget-iconpicker.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-hooks/custom-menu-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-manager/saved-vars-manager.module.code.ts"}

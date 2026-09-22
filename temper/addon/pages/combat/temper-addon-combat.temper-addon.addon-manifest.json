@@ -7,8 +7,8 @@
   "addonVersion": 100,
   "apiVersion": ["101041", "101042", "101049"],
   "savedVariables": ["TemperCombat_Save", "TemperCombat_FightData", "TemperActions_SavedVariables"],
-  "dependsOn": ["LibAddonMenu-2.0", "LibCustomMenu"],
-  "optionalDependsOn": ["LibDebugLogger"],
+  "dependsOn": ["TemperHud", "LibAddonMenu-2.0", "LibCustomMenu"],
+  "optionalDependsOn": [],
   "xmlFiles": {
     "afterBundle": [
       "TemperCombat_Templates.xml",

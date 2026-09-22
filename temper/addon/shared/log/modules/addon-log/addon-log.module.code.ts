@@ -1,7 +1,7 @@
 import { isTable } from "akasha/temper/addon/shared/narrow/modules/is-table/is-table.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-debug-logger-global/temper-debug-logger-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
@@ -29,7 +29,7 @@ export function createAddonLog(
   addonName: string,
   showLog: (this: void) => boolean
 ): AddonLog {
-  const logger = LibDebugLogger !== undefined ? LibDebugLogger.Create(addonName) : undefined
+  const logger = TemperDebugLogger !== undefined ? TemperDebugLogger.Create(addonName) : undefined
   const hasViewer = DebugLogViewer !== undefined
 
   function createLog(logType: LogType, logContent: string): undefined {

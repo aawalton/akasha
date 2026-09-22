@@ -33,6 +33,7 @@
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-bottom/combat-ui-info-bottom.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-title-panel/combat-ui-title-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-errors/modules/errors-addon-record/errors-addon-record.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-events/next-boss-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-init/housing-init.module.code.ts"}
@@ -177,7 +178,6 @@
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-lib-overrides/saved-vars-lib-overrides.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-manager-core/saved-vars-manager-core.module.code.ts"}

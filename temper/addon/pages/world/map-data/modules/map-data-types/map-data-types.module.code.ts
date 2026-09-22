@@ -1,5 +1,5 @@
 import type { LogType } from "akasha/temper/addon/shared/log/modules/addon-log/addon-log.module.code.ts"
-import "akasha/temper/addon/type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-debug-logger-global/temper-debug-logger-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 export interface MapIndexEntry {

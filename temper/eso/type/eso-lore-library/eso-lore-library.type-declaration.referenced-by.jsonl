@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-state/debug-logger-state.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-types/debug-logger-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-collectibles/fco-collectibles.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-mail-mass-delete/fco-mail-mass-delete.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-settings-defaults/fco-settings-defaults.module.code.ts"}
@@ -84,8 +86,6 @@
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-lib/custom-menu-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/menu-row-factories/menu-row-factories.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-state/debug-logger-state.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-types/debug-logger-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-types/pin-types.module.code.ts"}

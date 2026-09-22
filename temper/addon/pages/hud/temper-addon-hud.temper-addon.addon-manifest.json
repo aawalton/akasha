@@ -18,7 +18,9 @@
     "LibChatMessageSettings",
     "LibChatMessageHistory",
     "AsyncSavedVars",
-    "LibScrollableMenu_SavedVars"
+    "LibScrollableMenu_SavedVars",
+    "LibDebugLoggerSettings",
+    "LibDebugLoggerLog"
   ],
   "additionalLuaFiles": [],
   "dependsOn": [
@@ -26,7 +28,6 @@
     "LibCustomMenu"
   ],
   "optionalDependsOn": [
-    "LibDebugLogger",
     "LibGroupBroadcast",
     "FCOChatTabBrain",
     "pChat",

@@ -98,6 +98,9 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-api/chat-message-api.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-log-handler/debug-logger-log-handler.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-state/debug-logger-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-errors/modules/errors-addon-record/errors-addon-record.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-data/next-boss-data.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-events/next-boss-events.module.code.ts"}
@@ -387,9 +390,6 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-hooks/custom-menu-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-main/custom-menu-main.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-text-colors/submenu-text-colors.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-log-handler/debug-logger-log-handler.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-state/debug-logger-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-types/pin-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-constants/leads-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}

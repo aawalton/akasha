@@ -25,6 +25,7 @@
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-chat/fco-chat.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-crafting/fco-crafting.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-entry/fco-entry.module.code.ts"}
@@ -42,7 +43,6 @@
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-curse-state/inventory-curse-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-cooldown/inventory-tooltip-cooldown.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-state/minimap-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-toggles/minimap-toggles.module.code.ts"}
