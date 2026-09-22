@@ -5,7 +5,7 @@ export const tcoSource = {
   type: "page-type/text-property",
   slug: "tco-source",
   propertySlug: "tco-source",
-  definition: "where a trim's cost-of-ownership figures were read from",
+  definition: "the source of a trim's cost-of-ownership figures",
   maxLength: 4000,
   nameFormat: null,
   types: "ts",

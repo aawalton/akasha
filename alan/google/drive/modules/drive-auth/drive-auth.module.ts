@@ -4,6 +4,6 @@ export const driveAuth = {
   id: "01a05bec-fc0b-7294-a122-83a7468eb160",
   type: "page-type/module",
   slug: "drive-auth",
-  definition: "the OAuth client a Drive call is made through",
+  definition: "a Drive call's OAuth client",
   code: "ts",
 } as const satisfies Module

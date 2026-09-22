@@ -4,7 +4,7 @@ export const supervisorExec = {
   id: "01a0683e-3dbe-7020-aab5-a279b45af99d",
   type: "page-type/module",
   slug: "supervisor-exec",
-  definition: "the libc calls a supervisor replaces and reaps processes with",
+  definition: "a supervisor's libc calls for replacing and reaping processes",
   code: "ts",
   decisions: [
     {

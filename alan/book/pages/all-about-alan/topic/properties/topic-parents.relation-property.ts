@@ -5,7 +5,7 @@ export const topicParents = {
   type: "page-type/relation-property",
   slug: "topic-parents",
   propertySlug: "parents",
-  definition: "the topics a topic sits under",
+  definition: "a topic's parent topics",
   targetPageType: "page-type/all-about-alan-topic",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const collectionUnit = {
   type: "page-type/relation-property",
   slug: "collection-unit",
   propertySlug: "unit",
-  definition: "what a collection's own lengths are counted in",
+  definition: "the unit of a collection's own length",
   targetPageType: "page-type/unit",
   types: "ts",
 } as const satisfies RelationProperty

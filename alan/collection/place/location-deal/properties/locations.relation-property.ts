@@ -5,7 +5,7 @@ export const locations = {
   type: "page-type/relation-property",
   slug: "locations",
   propertySlug: "locations",
-  definition: "the places the offer is redeemable at",
+  definition: "the places where the offer is redeemable",
   targetPageType: "page-type/location",
   types: "ts",
 } as const satisfies RelationProperty

@@ -5,7 +5,7 @@ export const rows = {
   type: "page-type/file-property",
   slug: "rows",
   propertySlug: "rows",
-  definition: "the per-page facts a part of the editor draws its picture from",
+  definition: "the per-page facts behind the picture a part of the editor draws",
   extensions: ["jsonl"],
   generated: true,
   runsFileLength: false,

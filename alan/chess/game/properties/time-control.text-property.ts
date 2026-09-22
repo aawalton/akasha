@@ -5,7 +5,7 @@ export const timeControl = {
   type: "page-type/text-property",
   slug: "time-control",
   propertySlug: "time-control",
-  definition: "the clock a game was played on",
+  definition: "a game's clock",
   maxLength: 50,
   nameFormat: null,
   types: "ts",

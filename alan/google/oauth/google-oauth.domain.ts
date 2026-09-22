@@ -4,7 +4,7 @@ export const googleOauth = {
   id: "01a05bdc-e25b-7907-a606-3d78ab77a2f7",
   type: "page-type/domain",
   slug: "google-oauth",
-  definition: "the Google desktop app Alan's calendar, mail and drive all consent through",
+  definition: "the Google desktop app holding consent for Alan's calendar, mail and drive",
   parts: [
     "module/oauth-app-credentials",
     "module/oauth-callback",
