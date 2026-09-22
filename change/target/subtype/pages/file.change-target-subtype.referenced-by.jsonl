@@ -1,5 +1,6 @@
 {"propertySlug":"change-target-subtype","path":"change/agent/file/add-binary-file/add-binary-file.change-agent.ts","id":"01a09116-8eac-7885-886c-17c41e842516"}
 {"propertySlug":"change-target-subtype","path":"change/agent/file/add-file/add-file.change-agent.ts","id":"01a07813-6e3b-77c3-9c1e-b0c5778fd31b"}
+{"propertySlug":"change-target-subtype","path":"change/agent/file/move-file/move-file.change-agent.ts","id":"01a0c688-c36b-7eed-8d1f-9be22902c9a5"}
 {"propertySlug":"change-target-subtype","path":"change/agent/file/remove-file/remove-file.change-agent.ts","id":"01a07991-8989-7000-8e13-06e6791ebefb"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts","id":"01a08188-1037-7ddd-b5cb-c727ac6ef590"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts","id":"01a081bf-3f33-77ca-96cc-29ff7017f563"}

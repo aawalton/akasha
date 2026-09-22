@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/file/move-file/move-file.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/file/remove-file/remove-file.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/folder/move-folder/move-folder.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/page-property/add-page-property/add-page-property.change-agent.test.ts"}
