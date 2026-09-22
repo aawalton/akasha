@@ -55,10 +55,10 @@ test("a file beside the page lands under its own name in the folder the page lan
 
 test("the file naming what imports the page is carried after every other file", () => {
   const references = "akasha/one/held.module.referenced-by.jsonl"
-  const carried = "akasha/one/held.module.carried.jsonl"
+  const fixtures = "akasha/one/held.module.test-fixtures.ts"
 
-  expect(carriedIn([HELD_PAGE, carried, references, HELD_CODE], HELD_PAGE)).toEqual([
-    carried,
+  expect(carriedIn([HELD_PAGE, fixtures, references, HELD_CODE], HELD_PAGE)).toEqual([
+    fixtures,
     HELD_CODE,
     HELD_PAGE,
     references,
