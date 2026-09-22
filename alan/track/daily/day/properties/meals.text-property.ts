@@ -10,12 +10,16 @@ export const meals = {
   nameFormat: "name-format/lower-uuid",
   decisions: [
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A meal named here is the picture taken of that meal.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
-      statement: "Every meal named here is an id that names no page.",
+      statement: "Eleven of the thirteen pictures named here are ids no image page answers to.",
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "This property is a relation to a meal.",
+      statement: "This property is a relation to an image.",
     },
   ],
   types: "ts",
