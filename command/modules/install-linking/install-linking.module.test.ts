@@ -47,9 +47,13 @@ const SCRIPT = "shell-script"
 
 const PLACED = "provisioned-file"
 
+const MODULE = "python-module"
+
 const SHELL = "shell"
 
 const CONTENT = "content"
+
+const PYTHON = "python"
 
 const LAUNCHER = "akasha-launcher"
 
@@ -70,6 +74,8 @@ const VOCABULARY: readonly Named[] = [
   aProperty(idOf("6"), "only-on", "text-property"),
   aProperty(idOf("7"), "placed-by", "text-property"),
   aType(idOf("8"), "text-property", [PAGE_PROPERTY_AT]),
+  aType(idOf("9"), MODULE, [DOMAIN_AT], [PYTHON, "install-path", "only-on"]),
+  aProperty(idOf("0"), PYTHON, "file-property"),
 ]
 
 function besideOf(kind: string, property: string, slug: string): string {
@@ -104,6 +110,10 @@ function scriptOf(slug: string, rest: Held, body = true): Readonly<Record<string
 
 function placedOf(slug: string, rest: Held): Readonly<Record<string, string>> {
   return pagesOf(PLACED, CONTENT, slug, idOf("b"), rest, true)
+}
+
+function moduleOf(slug: string, rest: Held): Readonly<Record<string, string>> {
+  return pagesOf(MODULE, PYTHON, slug, idOf("c"), rest, true)
 }
 
 function outside(): string {
@@ -199,6 +209,16 @@ test("a provisioned file put by a link is linked where the page says", () => {
 
   expect(said.wrong).toEqual([])
   expect(readlinkSync(join(home, ".held"))).toBe(readsAs(root, PLACED, CONTENT, "two"))
+})
+
+test("a python module is linked where the page says", () => {
+  const root = worldOf(moduleOf("three", { installPath: AT }))
+  const home = outside()
+
+  const said = linkedInPlace(root, home, HERE)
+
+  expect(said.wrong).toEqual([])
+  expect(readlinkSync(join(home, "bin/one"))).toBe(readsAs(root, MODULE, PYTHON, "three"))
 })
 
 test("a placing said anywhere but under the home is not made here", () => {

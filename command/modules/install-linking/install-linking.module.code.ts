@@ -42,6 +42,7 @@ type Kind = {
 
 const KINDS: readonly Kind[] = [
   { pageTypeSlug: "shell-script", propertySlug: "shell", placedBy: null },
+  { pageTypeSlug: "python-module", propertySlug: "python", placedBy: null },
   { pageTypeSlug: "provisioned-file", propertySlug: "content", placedBy: BY_LINK },
 ]
 
