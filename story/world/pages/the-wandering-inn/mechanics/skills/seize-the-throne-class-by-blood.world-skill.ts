@@ -6,5 +6,6 @@ export const seizeTheThroneClassByBlood = {
   slug: "seize-the-throne-class-by-blood",
   title: "Seize the Throne: Class by Blood",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

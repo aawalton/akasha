@@ -6,5 +6,6 @@ export const shuttleRunFastAsYouCan = {
   slug: "shuttle-run-fast-as-you-can",
   title: "Shuttle Run: Fast As You Can",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

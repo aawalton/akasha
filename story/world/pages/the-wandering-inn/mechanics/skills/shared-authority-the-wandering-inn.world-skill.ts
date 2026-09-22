@@ -6,5 +6,6 @@ export const sharedAuthorityTheWanderingInn = {
   slug: "shared-authority-the-wandering-inn",
   title: "Shared Authority: The Wandering Inn",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

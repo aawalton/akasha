@@ -6,5 +6,6 @@ export const siphonLuck = {
   slug: "siphon-luck",
   title: "Siphon Luck",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

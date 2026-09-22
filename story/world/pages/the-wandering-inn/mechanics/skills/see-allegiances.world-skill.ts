@@ -6,5 +6,6 @@ export const seeAllegiances = {
   slug: "see-allegiances",
   title: "See Allegiances",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

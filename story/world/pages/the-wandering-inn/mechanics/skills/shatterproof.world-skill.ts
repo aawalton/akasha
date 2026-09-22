@@ -6,5 +6,6 @@ export const shatterproof = {
   slug: "shatterproof",
   title: "Shatterproof",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

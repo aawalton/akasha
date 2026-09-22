@@ -6,5 +6,6 @@ export const skillChangeQuickStepFlashStep = {
   slug: "skill-change-quick-step-flash-step",
   title: "Skill Change – Quick Step → Flash Step!",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

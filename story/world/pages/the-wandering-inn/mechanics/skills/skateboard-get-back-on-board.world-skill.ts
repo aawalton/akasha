@@ -6,5 +6,6 @@ export const skateboardGetBackOnBoard = {
   slug: "skateboard-get-back-on-board",
   title: "Skateboard: Get Back On Board",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

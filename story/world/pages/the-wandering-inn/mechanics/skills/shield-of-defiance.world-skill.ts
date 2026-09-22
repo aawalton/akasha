@@ -6,5 +6,6 @@ export const shieldOfDefiance = {
   slug: "shield-of-defiance",
   title: "Shield of Defiance",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

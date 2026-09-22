@@ -6,5 +6,6 @@ export const shieldArtShockwaveSlam = {
   slug: "shield-art-shockwave-slam",
   title: "Shield Art: Shockwave Slam",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

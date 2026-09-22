@@ -6,5 +6,6 @@ export const senseIntention = {
   slug: "sense-intention",
   title: "Sense Intention",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

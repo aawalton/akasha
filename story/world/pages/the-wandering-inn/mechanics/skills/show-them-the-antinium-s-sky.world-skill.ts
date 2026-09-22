@@ -6,5 +6,6 @@ export const showThemTheAntiniumSSky = {
   slug: "show-them-the-antinium-s-sky",
   title: "Show Them the Antinium’s Sky",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

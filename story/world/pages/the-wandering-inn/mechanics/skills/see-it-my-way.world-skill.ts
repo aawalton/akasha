@@ -6,6 +6,7 @@ export const seeItMyWay = {
   slug: "see-it-my-way",
   title: "See it My Way",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   aliases: ["See It My Way"],
   references: "jsonl",
 } as const satisfies WorldSkill

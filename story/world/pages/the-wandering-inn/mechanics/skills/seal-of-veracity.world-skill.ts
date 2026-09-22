@@ -6,5 +6,6 @@ export const sealOfVeracity = {
   slug: "seal-of-veracity",
   title: "Seal of Veracity",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

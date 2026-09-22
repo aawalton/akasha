@@ -6,5 +6,6 @@ export const shamanicMemoryOtherPeoples = {
   slug: "shamanic-memory-other-peoples",
   title: "Shamanic Memory: Other Peoples",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

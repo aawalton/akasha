@@ -6,5 +6,6 @@ export const royalPromise = {
   slug: "royal-promise",
   title: "Royal Promise",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

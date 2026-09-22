@@ -6,5 +6,6 @@ export const shareMyEnd = {
   slug: "share-my-end",
   title: "Share My End",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

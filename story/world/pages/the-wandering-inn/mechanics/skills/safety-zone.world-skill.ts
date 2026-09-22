@@ -6,5 +6,6 @@ export const safetyZone = {
   slug: "safety-zone",
   title: "Safety Zone",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

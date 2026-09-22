@@ -6,5 +6,6 @@ export const serendipitousInterventionRomance = {
   slug: "serendipitous-intervention-romance",
   title: "Serendipitous Intervention (Romance)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const shareCurseMass = {
   slug: "share-curse-mass",
   title: "Share Curse (Mass)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

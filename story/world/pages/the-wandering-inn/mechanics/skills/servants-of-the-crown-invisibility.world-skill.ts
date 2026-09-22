@@ -6,5 +6,6 @@ export const servantsOfTheCrownInvisibility = {
   slug: "servants-of-the-crown-invisibility",
   title: "Servants of the Crown: Invisibility",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

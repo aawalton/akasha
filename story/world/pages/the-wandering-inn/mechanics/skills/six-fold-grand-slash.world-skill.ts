@@ -6,5 +6,6 @@ export const sixFoldGrandSlash = {
   slug: "six-fold-grand-slash",
   title: "Six-fold Grand Slash",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

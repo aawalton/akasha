@@ -6,5 +6,6 @@ export const skillImpossibleDodge = {
   slug: "skill-impossible-dodge",
   title: "Skill – Impossible Dodge",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

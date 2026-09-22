@@ -6,5 +6,6 @@ export const shieldGreatBarrierSteel = {
   slug: "shield-great-barrier-steel",
   title: "Shield: Great Barrier (Steel)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

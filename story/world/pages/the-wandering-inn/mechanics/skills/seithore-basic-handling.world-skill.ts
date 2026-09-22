@@ -6,5 +6,6 @@ export const seithoreBasicHandling = {
   slug: "seithore-basic-handling",
   title: "Seithore Basic Handling",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

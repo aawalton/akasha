@@ -6,5 +6,6 @@ export const skillCharismaOfTheMadman = {
   slug: "skill-charisma-of-the-madman",
   title: "Skill – Charisma of the Madman",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

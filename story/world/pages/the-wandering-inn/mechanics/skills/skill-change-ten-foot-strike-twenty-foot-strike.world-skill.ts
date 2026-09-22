@@ -6,5 +6,6 @@ export const skillChangeTenFootStrikeTwentyFootStrike = {
   slug: "skill-change-ten-foot-strike-twenty-foot-strike",
   title: "Skill Change – Ten-foot Strike → Twenty-foot Strike!",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const sanctumDeathMagicLeyline = {
   slug: "sanctum-death-magic-leyline",
   title: "Sanctum: Death Magic Leyline",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

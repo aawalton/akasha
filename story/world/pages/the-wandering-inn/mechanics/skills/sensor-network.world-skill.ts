@@ -6,5 +6,6 @@ export const sensorNetwork = {
   slug: "sensor-network",
   title: "Sensor Network",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

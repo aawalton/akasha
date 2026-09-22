@@ -6,5 +6,6 @@ export const shamanSToolsPiecesOfAStory = {
   slug: "shaman-s-tools-pieces-of-a-story",
   title: "Shaman’s Tools: Pieces of a Story",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

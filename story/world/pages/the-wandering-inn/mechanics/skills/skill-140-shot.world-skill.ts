@@ -6,5 +6,6 @@ export const skill140Shot = {
   slug: "skill-140-shot",
   title: "140% Shot",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

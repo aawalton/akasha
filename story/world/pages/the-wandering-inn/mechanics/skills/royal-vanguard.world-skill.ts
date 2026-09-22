@@ -6,5 +6,6 @@ export const royalVanguard = {
   slug: "royal-vanguard",
   title: "Royal Vanguard",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

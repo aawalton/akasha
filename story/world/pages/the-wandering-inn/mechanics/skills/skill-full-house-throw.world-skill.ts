@@ -6,5 +6,6 @@ export const skillFullHouseThrow = {
   slug: "skill-full-house-throw",
   title: "Skill – Full House Throw",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

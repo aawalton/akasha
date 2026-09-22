@@ -6,5 +6,6 @@ export const rupturePoint = {
   slug: "rupture-point",
   title: "Rupture Point",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

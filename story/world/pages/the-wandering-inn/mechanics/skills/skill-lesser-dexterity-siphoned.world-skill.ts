@@ -6,5 +6,6 @@ export const skillLesserDexteritySiphoned = {
   slug: "skill-lesser-dexterity-siphoned",
   title: "Skill – Lesser Dexterity siphoned.",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

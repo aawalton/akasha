@@ -6,5 +6,6 @@ export const scribeNumber = {
   slug: "scribe-number",
   title: "Scribe Number",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

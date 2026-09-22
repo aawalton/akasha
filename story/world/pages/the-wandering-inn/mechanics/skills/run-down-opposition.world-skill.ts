@@ -6,5 +6,6 @@ export const runDownOpposition = {
   slug: "run-down-opposition",
   title: "Run Down Opposition",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

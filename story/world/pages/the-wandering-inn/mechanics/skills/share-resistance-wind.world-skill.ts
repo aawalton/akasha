@@ -6,5 +6,6 @@ export const shareResistanceWind = {
   slug: "share-resistance-wind",
   title: "Share Resistance: Wind",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

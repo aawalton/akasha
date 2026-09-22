@@ -6,5 +6,6 @@ export const shipRammingHull = {
   slug: "ship-ramming-hull",
   title: "Ship: Ramming Hull",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

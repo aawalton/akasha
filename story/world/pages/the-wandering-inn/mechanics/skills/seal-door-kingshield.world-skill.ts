@@ -6,5 +6,6 @@ export const sealDoorKingshield = {
   slug: "seal-door-kingshield",
   title: "Seal Door (Kingshield)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

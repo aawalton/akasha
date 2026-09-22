@@ -6,5 +6,6 @@ export const shadowFamiliar = {
   slug: "shadow-familiar",
   title: "Shadow Familiar",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

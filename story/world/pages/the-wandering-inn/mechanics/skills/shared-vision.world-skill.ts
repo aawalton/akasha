@@ -6,5 +6,6 @@ export const sharedVision = {
   slug: "shared-vision",
   title: "Shared Vision",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

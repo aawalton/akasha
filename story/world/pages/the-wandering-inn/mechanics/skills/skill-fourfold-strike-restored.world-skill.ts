@@ -6,5 +6,6 @@ export const skillFourfoldStrikeRestored = {
   slug: "skill-fourfold-strike-restored",
   title: "Skill – Fourfold Strike restored!",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

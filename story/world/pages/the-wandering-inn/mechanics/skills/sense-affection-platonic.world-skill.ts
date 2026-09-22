@@ -6,5 +6,6 @@ export const senseAffectionPlatonic = {
   slug: "sense-affection-platonic",
   title: "Sense Affection (Platonic)",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

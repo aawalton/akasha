@@ -6,5 +6,6 @@ export const secondLifeANewIdentity = {
   slug: "second-life-a-new-identity",
   title: "Second Life: A New Identity",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

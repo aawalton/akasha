@@ -6,5 +6,6 @@ export const seeEctoplasm = {
   slug: "see-ectoplasm",
   title: "See Ectoplasm",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

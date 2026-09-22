@@ -6,5 +6,6 @@ export const skillAromaOfSpringLost = {
   slug: "skill-aroma-of-spring-lost",
   title: "Skill – Aroma of Spring Lost.",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

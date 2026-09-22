@@ -6,5 +6,6 @@ export const skillConsolidationDeftHandRemoved = {
   slug: "skill-consolidation-deft-hand-removed",
   title: "Skill Consolidation: Deft Hand removed!",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

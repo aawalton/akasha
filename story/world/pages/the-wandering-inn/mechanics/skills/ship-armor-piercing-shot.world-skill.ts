@@ -6,5 +6,6 @@ export const shipArmorPiercingShot = {
   slug: "ship-armor-piercing-shot",
   title: "Ship: Armor-piercing Shot",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
