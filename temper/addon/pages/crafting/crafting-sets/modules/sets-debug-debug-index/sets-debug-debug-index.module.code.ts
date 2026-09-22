@@ -1,0 +1,7 @@
+import "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-debug-debug-state/sets-debug-debug-state.module.code.ts"
+import "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-debug-debug-helpers/sets-debug-debug-helpers.module.code.ts"
+import "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-debug-debug-scan-data/sets-debug-debug-scan-data.module.code.ts"
+import "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-debug-debug-set-scan/sets-debug-debug-set-scan.module.code.ts"
+import "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-debug-debug-set-scan-run/sets-debug-debug-set-scan-run.module.code.ts"
+import "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-debug-debug-names/sets-debug-debug-names.module.code.ts"
+import "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-debug-debug-get-all-data/sets-debug-debug-get-all-data.module.code.ts"

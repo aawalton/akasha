@@ -2,9 +2,9 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-window/characters-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/journal-shape/journal-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/journal-window/journal-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-lifecycle-inventory-contextmenu/lib-sets-core-lifecycle-inventory-contextmenu.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-lifecycle-ui-buttons/lib-sets-core-lifecycle-ui-buttons.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-core-lifecycle-inventory-contextmenu/sets-core-lifecycle-inventory-contextmenu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-core-lifecycle-ui-buttons/sets-core-lifecycle-ui-buttons.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-tip-item-link/sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-player-state/craft-player-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-main-menu/potion-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}

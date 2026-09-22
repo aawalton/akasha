@@ -1,0 +1,19 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const setsDataRegisterData = {
+  id: "01a061fc-cee8-7e0a-a57e-257c1300fc25",
+  type: "page-type/module",
+  slug: "sets-data-register-data",
+  definition: "the generated set tables placed onto the library table",
+  code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Data for sets of a newer API version is stripped when the live API is older.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The stripping is handed to the library as a function rather than run at load.",
+    },
+  ],
+} as const satisfies Module

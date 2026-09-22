@@ -1,0 +1,15 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const setsPublicApi = {
+  id: "01a0623e-53a2-7b73-9549-80f57a6b383c",
+  type: "page-type/module",
+  slug: "sets-public-api",
+  definition: "the ordered load list of this library's modules",
+  code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The order these modules are loaded in is the order their effects happen.",
+    },
+  ],
+} as const satisfies Module

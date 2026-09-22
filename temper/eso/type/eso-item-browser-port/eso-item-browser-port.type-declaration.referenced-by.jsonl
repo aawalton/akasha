@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-list-keyboard/lib-sets-search-ui-list-keyboard.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-search/lib-sets-search-ui-shared-search.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-xml-api/lib-sets-search-ui-xml-api.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-list-keyboard/sets-search-ui-list-keyboard.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-shared-search/sets-search-ui-shared-search.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-xml-api/sets-search-ui-xml-api.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-tip-item-link/sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-ui-updates/craft-ui-updates.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-search/potion-search.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/zone-queries/zone-queries.module.code.ts"}

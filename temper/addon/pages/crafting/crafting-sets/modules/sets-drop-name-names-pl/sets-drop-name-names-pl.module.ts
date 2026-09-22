@@ -1,0 +1,15 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const setsDropNameNamesPl = {
+  id: "01a061d6-3e2a-7620-9c5f-131d729f6153",
+  type: "page-type/module",
+  slug: "sets-drop-name-names-pl",
+  definition: "the Polish name of each way a gear set drops",
+  code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name absent here is taken from the English table.",
+    },
+  ],
+} as const satisfies Module

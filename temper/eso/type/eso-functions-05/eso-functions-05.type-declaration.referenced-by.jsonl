@@ -9,9 +9,9 @@
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-panel/companions-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-progress/companions-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-fight/combat-lib-fight.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-all-dlc/lib-sets-const-all-dlc.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-debug-debug-names/lib-sets-debug-debug-names.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-const-all-dlc/sets-const-all-dlc.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-debug-debug-names/sets-debug-debug-names.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-tip-item-link/sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-cooking/craft-cooking.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-panel-init/craft-panel-init.module.code.ts"}

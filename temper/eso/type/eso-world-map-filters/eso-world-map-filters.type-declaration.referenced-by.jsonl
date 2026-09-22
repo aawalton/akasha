@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-loc-rest-strings-fr/lib-sets-loc-rest-strings-fr.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-loc-rest-strings-pl/lib-sets-loc-rest-strings-pl.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-loc-rest-strings-zh/lib-sets-loc-rest-strings-zh.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-loc-strings-en/lib-sets-loc-strings-en.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-loc-rest-strings-fr/sets-loc-rest-strings-fr.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-loc-rest-strings-pl/sets-loc-rest-strings-pl.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-loc-rest-strings-zh/sets-loc-rest-strings-zh.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-loc-strings-en/sets-loc-strings-en.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-potion-craft/potion-potion-craft.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-window-helpers/potion-window-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-filters.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-map/fco-map.module.code.ts"}

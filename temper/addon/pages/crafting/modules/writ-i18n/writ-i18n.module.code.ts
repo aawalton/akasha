@@ -1,4 +1,4 @@
-import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
+import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 import { CLIENT_SI } from "akasha/temper/addon/pages/crafting/modules/writ-i18n-client-si/writ-i18n-client-si.module.code.ts"
 import { FOODDRINK } from "akasha/temper/addon/pages/crafting/modules/writ-i18n-fooddrink/writ-i18n-fooddrink.module.code.ts"
 import { GEAR } from "akasha/temper/addon/pages/crafting/modules/writ-i18n-gear/writ-i18n-gear.module.code.ts"

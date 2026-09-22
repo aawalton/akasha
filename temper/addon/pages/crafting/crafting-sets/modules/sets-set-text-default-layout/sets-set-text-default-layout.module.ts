@@ -1,0 +1,20 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const setsSetTextDefaultLayout = {
+  id: "01a06231-8f1f-72c7-bfe2-63ccfb8e40b5",
+  type: "page-type/module",
+  slug: "sets-set-text-default-layout",
+  definition: "the stock arrangement of a set's text parts when no pattern was given",
+  code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Traits needed and reconstruction cost share the bracket after the set type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The drop text takes a coloured prefix naming whichever single part is switched on.",
+    },
+  ],
+} as const satisfies Module

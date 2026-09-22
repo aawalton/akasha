@@ -1,0 +1,9 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const setsPreloadedSetsEquipTypes11 = {
+  id: "01a061d8-e461-7571-a8b5-43705a094b74",
+  type: "page-type/module",
+  slug: "sets-preloaded-sets-equip-types-11",
+  definition: "the set equip type maps keyed by equip type, keys 12 through 12",
+  code: "ts",
+} as const satisfies Module

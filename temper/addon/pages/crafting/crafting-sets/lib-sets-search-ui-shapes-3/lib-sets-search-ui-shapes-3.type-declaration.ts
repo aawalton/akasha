@@ -1,9 +1,0 @@
-import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
-
-export const libSetsSearchUiShapes3 = {
-  id: "01a061b8-4f5e-7076-acde-9b01e8ee8143",
-  type: "page-type/type-declaration",
-  slug: "lib-sets-search-ui-shapes-3",
-  definition: "the keyboard search object and the rows it searches over",
-  d: "ts",
-} as const satisfies TypeDeclaration

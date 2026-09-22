@@ -16,9 +16,9 @@
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-right/combat-ui-info-right.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-drop-name-names-en/lib-sets-drop-name-names-en.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-drop-name-names-fr/lib-sets-drop-name-names-fr.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-kbf-drop-filters/lib-sets-kbf-drop-filters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-drop-name-names-en/sets-drop-name-names-en.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-drop-name-names-fr/sets-drop-name-names-fr.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-kbf-drop-filters/sets-kbf-drop-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-cook/craft-cook.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-lang-ru/craft-lang-ru.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-player-state/craft-player-state.module.code.ts"}

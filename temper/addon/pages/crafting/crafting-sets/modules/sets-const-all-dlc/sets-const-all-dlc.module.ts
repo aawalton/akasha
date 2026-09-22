@@ -1,0 +1,19 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const setsConstAllDlc = {
+  id: "01a061d7-7bc8-7a36-91a7-b3880f734351",
+  type: "page-type/module",
+  slug: "sets-const-all-dlc",
+  definition: "every chapter, DLC and patch the game has shipped, each with its release date",
+  code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A DLC's name is read from the game's own collectible and achievement names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each DLC id is declared as a game global rather than a member of a table.",
+    },
+  ],
+} as const satisfies Module
