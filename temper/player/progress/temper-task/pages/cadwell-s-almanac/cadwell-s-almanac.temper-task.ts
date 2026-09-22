@@ -14,8 +14,9 @@ export const cadwellSAlmanac = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "next_character",
   priority: "p3",
-  lastCompletedAt: "2026-08-19T14:32:40.000Z",
+  lastCompletedAt: "2026-09-22T14:07:22.477Z",
   progress: "jsonl",
   progressTotal: 1560,
   progressCurrent: 1560,
+  completedAt: "2026-09-22T14:07:22.477Z",
 } as const satisfies TemperTask
