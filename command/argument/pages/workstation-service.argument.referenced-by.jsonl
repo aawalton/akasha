@@ -1,7 +1,9 @@
+{"propertySlug":"argument","path":"command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.ts","id":"01a0c9a3-8601-769d-b508-7d0d5b2ef40f"}
 {"propertySlug":"argument","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.ts","id":"01a09408-da19-7177-908e-7197c74583a4"}
 {"propertySlug":"argument","path":"command/pages/infrastructure/service/run/infrastructure-service-run.command.ts","id":"01a09409-a29d-7ec7-b7aa-eebfad2ce2ad"}
 {"propertySlug":"argument","path":"command/pages/infrastructure/service/start/infrastructure-service-start.command.ts","id":"01a09408-3c21-76b5-9bca-08ff2b3e3716"}
 {"propertySlug":"argument","path":"command/pages/infrastructure/service/stop/infrastructure-service-stop.command.ts","id":"01a09408-a1a1-7e96-9e19-38cfb6a5715e"}
+{"propertySlug":"import","fileName":"workstation-service.argument.ts","path":"command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.code.ts"}
 {"propertySlug":"import","fileName":"workstation-service.argument.ts","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.code.ts"}
 {"propertySlug":"import","fileName":"workstation-service.argument.ts","path":"command/pages/infrastructure/service/run/infrastructure-service-run.command.code.ts"}
 {"propertySlug":"import","fileName":"workstation-service.argument.ts","path":"command/pages/infrastructure/service/start/infrastructure-service-start.command.code.ts"}

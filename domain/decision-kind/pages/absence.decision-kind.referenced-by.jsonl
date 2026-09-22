@@ -1202,6 +1202,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/infrastructure/dev-server/status/infrastructure-dev-server-status.command.ts","id":"01a09404-18a4-709b-8039-58c3e580da98"}
 {"propertySlug":"decision-kind","path":"command/pages/infrastructure/loki/infrastructure-loki.command.ts","id":"01a06809-250b-7ab3-b9ac-5e00cfbba4ec"}
 {"propertySlug":"decision-kind","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.ts","id":"01a0c970-2ed2-7e9e-ac4f-ae7fc7197eb7"}
+{"propertySlug":"decision-kind","path":"command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.ts","id":"01a0c9a3-8601-769d-b508-7d0d5b2ef40f"}
 {"propertySlug":"decision-kind","path":"command/pages/infrastructure/service/modules/service-unit-asking/service-unit-asking.module.ts","id":"01a09407-b94e-79c1-9cb4-324c7a7d0a3e"}
 {"propertySlug":"decision-kind","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.ts","id":"01a09408-da19-7177-908e-7197c74583a4"}
 {"propertySlug":"decision-kind","path":"command/pages/infrastructure/service/run/infrastructure-service-run.command.ts","id":"01a09409-a29d-7ec7-b7aa-eebfad2ce2ad"}

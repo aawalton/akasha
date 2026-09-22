@@ -260,6 +260,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/workstation/modules/service-binding/service-binding.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"}

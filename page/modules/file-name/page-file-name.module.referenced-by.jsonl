@@ -208,6 +208,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/service/secret/modules/placing/secret-placing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/service/workstation/modules/service-wellness/service-wellness.module.test.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"}

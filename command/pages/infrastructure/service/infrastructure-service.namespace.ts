@@ -13,5 +13,6 @@ export const infrastructureService = {
     "command/infrastructure-service-stop",
     "command/infrastructure-service-sweep",
     "module/service-unit-asking",
+    "command/infrastructure-service-bundle",
   ],
 } as const satisfies Namespace
