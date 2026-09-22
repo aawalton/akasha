@@ -4,7 +4,7 @@ export const hudAddonBar = {
   id: "01a061c5-18dd-7007-b0fb-76457ff3f070",
   type: "page-type/module",
   slug: "hud-addon-bar",
-  definition: "the strip across the top of the screen the registered fields are drawn in",
+  definition: "the strip across the top of the screen drawing the registered fields",
   code: "ts",
   decisions: [
     {

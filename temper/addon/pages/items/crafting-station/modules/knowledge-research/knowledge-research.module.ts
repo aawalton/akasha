@@ -4,6 +4,6 @@ export const knowledgeResearch = {
   id: "01a06226-490c-700b-9156-1eb54fe342b2",
   type: "page-type/module",
   slug: "knowledge-research",
-  definition: "the trait research table every crafting line is indexed by",
+  definition: "the trait research table indexing every crafting line",
   code: "ts",
 } as const satisfies Module

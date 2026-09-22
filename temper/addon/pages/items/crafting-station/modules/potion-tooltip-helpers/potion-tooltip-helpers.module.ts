@@ -4,6 +4,6 @@ export const potionTooltipHelpers = {
   id: "01a061c7-e88a-7caa-b7bb-de1efbf61963",
   type: "page-type/module",
   slug: "potion-tooltip-helpers",
-  definition: "the lines a potion tooltip is built from",
+  definition: "the lines building a potion tooltip",
   code: "ts",
 } as const satisfies Module

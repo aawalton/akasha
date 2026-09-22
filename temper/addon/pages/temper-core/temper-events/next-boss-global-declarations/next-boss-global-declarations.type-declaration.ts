@@ -4,6 +4,6 @@ export const nextBossGlobalDeclarations = {
   id: "01a06255-76f0-7732-ac5a-f20e0ecea659",
   type: "page-type/type-declaration",
   slug: "next-boss-global-declarations",
-  definition: "the name a keybind's Lua reaches this tracker's table by",
+  definition: "the name opening this tracker's table to a keybind's Lua",
   d: "ts",
 } as const satisfies TypeDeclaration

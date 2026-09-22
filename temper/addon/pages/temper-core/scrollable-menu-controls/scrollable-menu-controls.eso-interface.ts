@@ -4,7 +4,7 @@ export const scrollableMenuControls = {
   id: "01a06275-c447-7a91-b3a6-e3e6daef8679",
   type: "page-type/eso-interface",
   slug: "scrollable-menu-controls",
-  definition: "the row, header and dropdown controls every menu of this library is built from",
+  definition: "the row, header and dropdown controls building every menu of this library",
   markup: "xml",
   loadedAs: "XML/TemperScrollableMenu.xml",
   decisions: [

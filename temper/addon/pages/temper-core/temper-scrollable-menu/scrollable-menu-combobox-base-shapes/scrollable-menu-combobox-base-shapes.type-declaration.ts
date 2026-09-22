@@ -4,6 +4,6 @@ export const scrollableMenuComboboxBaseShapes = {
   id: "01a06275-c446-7f41-b7f8-6baccb33f9c5",
   type: "page-type/type-declaration",
   slug: "scrollable-menu-combobox-base-shapes",
-  definition: "the game combobox shapes the base menu class builds on",
+  definition: "the game combobox shapes under the base menu class",
   d: "ts",
 } as const satisfies TypeDeclaration

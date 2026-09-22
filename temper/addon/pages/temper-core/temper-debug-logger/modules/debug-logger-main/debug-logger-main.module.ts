@@ -4,7 +4,7 @@ export const debugLoggerMain = {
   id: "01a06061-408f-7340-8c9c-c97f192b2642",
   type: "page-type/module",
   slug: "debug-logger-main",
-  definition: "the order the library parts are switched on in",
+  definition: "the start order of the library parts",
   code: "ts",
   decisions: [
     {
