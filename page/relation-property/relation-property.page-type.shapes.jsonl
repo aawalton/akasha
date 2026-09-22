@@ -51,7 +51,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-location","unique":null,"uniquePropertySlug":null,"slug":"encounter-location","propertySlug":"location","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-mechanic","unique":null,"uniquePropertySlug":null,"slug":"entity-dice","propertySlug":"dice","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"strength-exercise-implement","unique":null,"uniquePropertySlug":null,"slug":"equipment","propertySlug":"equipment","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"eso-interface","unique":null,"uniquePropertySlug":null,"slug":"eso-interfaces","propertySlug":"interfaces","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"strength-exercise","unique":null,"uniquePropertySlug":null,"slug":"exercise","propertySlug":"exercise","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"experiment-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"contributor","unique":null,"uniquePropertySlug":null,"slug":"feature-request-booster","propertySlug":"contributor","fileName":null,"folderName":null}

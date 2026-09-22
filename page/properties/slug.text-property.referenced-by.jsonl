@@ -186,7 +186,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/stories/read/chapters/properties/read-chapter-story.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/stories/written/chapters/properties/written-chapter-story.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/addon/properties/bundle-entry.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/addon/properties/eso-interfaces.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/addon/properties/eso-interfaces.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/addon/properties/lua-modules.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/skill/properties/special-effect.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-jewelry-slot/properties/jewelry-type.relation-property.types.ts"}

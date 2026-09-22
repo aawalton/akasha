@@ -164,7 +164,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/read-chapter-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/written/chapters/properties/written-chapter-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/addon/properties/bundle-entry.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/addon/properties/eso-interfaces.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/addon/properties/lua-modules.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/special-effect.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-slot/properties/jewelry-type.relation-property.ts"}

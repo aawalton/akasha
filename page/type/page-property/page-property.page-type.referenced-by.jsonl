@@ -164,7 +164,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/evolves-to-slugs.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/named-events/properties/event-aliases.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/stories/read/properties/external-tags.text-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/addon/properties/eso-interfaces.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/addon/properties/eso-interfaces.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/addon/properties/lua-modules.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/companion/base-role/properties/valid-armor-weights.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/companion/base-role/properties/valid-trait-ids.text-property.types.ts"}

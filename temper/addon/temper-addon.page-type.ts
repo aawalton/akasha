@@ -16,7 +16,7 @@ export const temperAddon = {
     "named-folder-property/addon-icons-folder",
     "named-folder-property/addon-image-folder",
     "relation-property/bundle-entry",
-    "relation-property/eso-interfaces",
+    "multi-relation-property/eso-interfaces",
     "relation-property/lua-modules",
     "domain/temper-addon-type",
     "domain/temper-addon-build",
@@ -36,7 +36,7 @@ export const temperAddon = {
     { pageProperty: "relation-property/bundle-entry", required: false, many: false },
     { pageProperty: "file-property/bindings", required: false, many: false },
     {
-      pageProperty: "relation-property/eso-interfaces",
+      pageProperty: "multi-relation-property/eso-interfaces",
       required: false,
       many: true,
       maxCount: null,
