@@ -5,7 +5,7 @@ export const inferenceHost = {
   type: "page-type/relation-property",
   slug: "inference-host",
   propertySlug: "host",
-  definition: "the machine outside the cluster a service runs on",
+  definition: "a service's machine outside the cluster",
   targetPageType: "page-type/host",
   types: "ts",
 } as const satisfies RelationProperty

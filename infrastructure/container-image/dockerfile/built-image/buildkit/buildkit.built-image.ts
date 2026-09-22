@@ -4,7 +4,7 @@ export const buildkit = {
   id: "01a08196-17bb-728a-95ac-3294061e39dc",
   type: "page-type/built-image",
   slug: "buildkit",
-  definition: "the image container images are built by",
+  definition: "the image building container images",
   kind: "tool-image",
   folder: "infrastructure/container-image/dockerfile",
   extensions: "json",

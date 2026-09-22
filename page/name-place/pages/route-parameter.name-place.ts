@@ -4,7 +4,7 @@ export const routeParameter = {
   id: "01a04fd4-3d74-7647-b787-d329d989e09e",
   type: "page-type/name-place",
   slug: "route-parameter",
-  definition: "the name of a part of a route's path that is filled in",
+  definition: "the name of a part of a route's path that a value fills",
   nameFormat: "name-format/lower-camel-case",
   decisions: [
     {

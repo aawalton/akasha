@@ -5,7 +5,7 @@ export const buildEnvSecret = {
   type: "page-type/record-property",
   slug: "build-env-secret",
   propertySlug: "from-secret",
-  definition: "the cluster secret and the key a build's value is read from",
+  definition: "the cluster secret and the key holding a build's value",
   properties: [
     { pageProperty: "text-property/resource-name", required: true, many: false },
     { pageProperty: "text-property/resource-key", required: true, many: false },

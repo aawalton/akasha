@@ -5,7 +5,7 @@ export const unbound = {
   type: "page-type/text-property",
   slug: "unbound",
   propertySlug: "unbound",
-  definition: "a host name a service states and is not listening on",
+  definition: "a host name a service states without listening",
   maxLength: 253,
   nameFormat: null,
   decisions: [

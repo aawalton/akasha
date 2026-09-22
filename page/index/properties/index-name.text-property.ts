@@ -5,7 +5,7 @@ export const indexName = {
   type: "page-type/text-property",
   slug: "index-name",
   propertySlug: "name",
-  definition: "the name an index's answers are filed under",
+  definition: "the name of an index's filed answers",
   maxLength: 30,
   nameFormat: "name-format/lower-kebab-case",
   unique: "unique-kind/page-type",

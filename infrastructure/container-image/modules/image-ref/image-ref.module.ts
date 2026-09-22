@@ -4,7 +4,7 @@ export const imageRef = {
   id: "01a08da3-e007-78c2-aa15-9ce06319c982",
   type: "page-type/module",
   slug: "image-ref",
-  definition: "the name and tag a built image is pushed and pulled under",
+  definition: "a built image's name and tag for pushing and pulling",
   code: "ts",
   test: "ts",
   decisions: [

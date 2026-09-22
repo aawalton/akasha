@@ -5,7 +5,7 @@ export const extensions = {
   type: "page-type/text-property",
   slug: "extensions",
   propertySlug: "extensions",
-  definition: "the endings a page names this property's file with",
+  definition: "the endings naming this property's file on a page",
   maxLength: 20,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [
