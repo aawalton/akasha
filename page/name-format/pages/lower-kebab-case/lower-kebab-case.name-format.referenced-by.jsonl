@@ -98,7 +98,6 @@
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-set/properties/bonus-status.text-property.ts","id":"01a05fd1-d437-73eb-b682-b54edb64a96b"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/properties/skill-status.text-property.ts","id":"01a05fca-cb87-719f-b348-33ad77e63005"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/temper-scribing-source/properties/script-type.text-property.ts","id":"01a05fca-cb86-7ada-8ab9-4822a45c4ebf"}
-{"propertySlug":"name-format","path":"temper/catalog/skill/temper-script/properties/slot-type.text-property.ts","id":"01a05fca-cb87-767f-90a1-977b2c340bc6"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/armor-weight.text-property.ts","id":"01a05fe0-8428-703e-953c-0bf31d04039f"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/effect-type.text-property.ts","id":"01a05fb0-3cec-7336-a2af-ef2657a47e86"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/effect-weapon-types.text-property.ts","id":"01a05fe0-8428-7862-8b91-5d946d0ec754"}
