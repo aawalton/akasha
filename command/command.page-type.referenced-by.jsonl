@@ -194,6 +194,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/start/seat-start.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/transcript-follow/seat-transcript-follow.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/transcript-list/seat-transcript-list.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/sms/send/sms-send.command.ts"}

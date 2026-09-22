@@ -370,6 +370,7 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/video.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/visit.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/vocal-language.argument.ts"}
+{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/wait-seconds.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/wait.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/warm.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/web-app.argument.ts"}

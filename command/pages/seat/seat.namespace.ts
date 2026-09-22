@@ -13,6 +13,7 @@ export const seat = {
     "command/seat-start",
     "command/seat-transcript-list",
     "namespace/seat-supervisor",
+    "command/seat-transcript-follow",
   ],
   name: "seat",
 } as const satisfies Namespace

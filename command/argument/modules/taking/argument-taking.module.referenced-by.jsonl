@@ -201,6 +201,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/start/seat-start.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts"}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/transcript-follow/seat-transcript-follow.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/transcript-list/seat-transcript-list.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/sms/send/sms-send.command.code.ts"}

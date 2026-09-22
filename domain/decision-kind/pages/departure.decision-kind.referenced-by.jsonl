@@ -2265,6 +2265,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/seat/start/seat-start.command.ts","id":"01a0797a-9abe-7b18-818a-cf3e59985937"}
 {"propertySlug":"decision-kind","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.ts","id":"01a0797a-9a55-76c0-be3e-c9b1dfbef462"}
 {"propertySlug":"decision-kind","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.ts","id":"01a0797a-9a6f-7d91-bfd8-0ac01ac70fcd"}
+{"propertySlug":"decision-kind","path":"command/pages/seat/transcript-follow/seat-transcript-follow.command.ts","id":"01a0c96f-7bbd-783d-b659-9c9f6d4e6e12"}
 {"propertySlug":"decision-kind","path":"command/pages/seat/transcript-list/seat-transcript-list.command.ts","id":"01a06934-ff28-7819-ad05-c50a0471362c"}
 {"propertySlug":"decision-kind","path":"command/pages/sms/acting-account/sms-acting-account.command.ts","id":"01a0685f-c8ed-7007-a130-cda36891535f"}
 {"propertySlug":"decision-kind","path":"command/pages/sms/send/sms-send.command.ts","id":"01a0685f-c8ed-7008-b892-0bc284782555"}
