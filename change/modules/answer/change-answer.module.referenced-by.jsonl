@@ -203,6 +203,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/literal-splicing/literal-splicing.module.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/package-naming/package-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/package-naming/package-naming.module.test.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/page-claiming/page-claiming.module.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/page-property-renaming/page-property-renaming.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/page-property-renaming/page-property-renaming.module.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/page-property-splicing/page-property-splicing.module.code.ts"}
