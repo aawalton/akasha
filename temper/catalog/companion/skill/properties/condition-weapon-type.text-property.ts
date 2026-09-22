@@ -5,7 +5,7 @@ export const conditionWeaponType = {
   type: "page-type/text-property",
   slug: "condition-weapon-type",
   propertySlug: "weapon-type",
-  definition: "the weapon a test holds for",
+  definition: "the weapon a test covers",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

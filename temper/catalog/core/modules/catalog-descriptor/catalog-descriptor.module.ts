@@ -4,8 +4,7 @@ export const catalogDescriptor = {
   id: "01a06071-0c77-71fa-866d-8ddbd099aa5c",
   type: "page-type/module",
   slug: "catalog-descriptor",
-  definition:
-    "the name, version and empty defaults the catalog add-on hands the game to save under",
+  definition: "the name, version and empty defaults the catalog add-on hands the game to save",
   code: "ts",
   decisions: [
     {

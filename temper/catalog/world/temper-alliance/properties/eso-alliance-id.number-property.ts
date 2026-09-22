@@ -5,7 +5,7 @@ export const esoAllianceId = {
   type: "page-type/number-property",
   slug: "eso-alliance-id",
   propertySlug: "eso-alliance-id",
-  definition: "the number The Elder Scrolls Online names an alliance by",
+  definition: "an alliance's number in The Elder Scrolls Online",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

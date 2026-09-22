@@ -5,7 +5,7 @@ export const targetKind = {
   type: "page-type/text-property",
   slug: "target-kind",
   propertySlug: "type",
-  definition: "who or what an effect lands on",
+  definition: "an effect's target",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

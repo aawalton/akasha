@@ -4,8 +4,7 @@ export const temperSkillKind = {
   id: "01a060db-b2bf-75cc-8809-206da241df83",
   type: "page-type/domain",
   slug: "temper-skill-kind",
-  definition:
-    "the kinds a skill is sorted by and the shapes a skill activation effect is written in",
+  definition: "the kinds sorting a skill and the shapes of a skill activation effect",
   parts: [
     "module/scribing-affix-scripts",
     "module/scribing-focus-scripts",

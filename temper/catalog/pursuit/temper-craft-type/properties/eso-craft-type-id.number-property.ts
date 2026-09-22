@@ -5,7 +5,7 @@ export const esoCraftTypeId = {
   type: "page-type/number-property",
   slug: "eso-craft-type-id",
   propertySlug: "eso-craft-type-id",
-  definition: "the number The Elder Scrolls Online names a craft by",
+  definition: "a craft's number in The Elder Scrolls Online",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

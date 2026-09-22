@@ -4,7 +4,7 @@ export const libsetsUpstreamPin = {
   id: "01a060d0-ca28-7a33-9895-ea3ff07665be",
   type: "page-type/module",
   slug: "libsets-upstream-pin",
-  definition: "the upstream LibSets commit temper copies its set data out of",
+  definition: "the upstream LibSets commit holding temper's copied set data",
   code: "ts",
   decisions: [
     {

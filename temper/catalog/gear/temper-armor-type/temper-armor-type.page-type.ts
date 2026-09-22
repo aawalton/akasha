@@ -4,7 +4,7 @@ export const temperArmorType = {
   id: "01a05fd1-d430-77ed-ace6-98856e2a09d7",
   type: "page-type/page-type",
   slug: "temper-armor-type",
-  definition: "a kind of armor piece, apart from the weight it is made at",
+  definition: "a kind of armor piece, apart from its weight",
   extends: ["page-type/temper-gear-thing"],
   parts: ["boolean-property/is-large-enchant-slot", "number-property/armor-multiplier"],
   properties: [

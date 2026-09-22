@@ -5,7 +5,7 @@ export const itemId = {
   type: "page-type/number-property",
   slug: "item-id",
   propertySlug: "item-id",
-  definition: "the number The Elder Scrolls Online names an item by",
+  definition: "an item's number in The Elder Scrolls Online",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

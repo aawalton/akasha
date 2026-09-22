@@ -4,7 +4,7 @@ export const inventoryParityCapabilities = {
   id: "01a068f6-dee0-7b32-a3c0-c5218ac18963",
   type: "page-type/module",
   slug: "inventory-parity-capabilities",
-  definition: "what comparing the addon's routing against the web's is built from",
+  definition: "what builds a comparison of the addon's routing against the web's",
   code: "ts",
   test: "ts",
   decisions: [

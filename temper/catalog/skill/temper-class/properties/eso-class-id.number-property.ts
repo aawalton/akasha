@@ -5,7 +5,7 @@ export const esoClassId = {
   type: "page-type/number-property",
   slug: "eso-class-id",
   propertySlug: "eso-class-id",
-  definition: "the number The Elder Scrolls Online names a class by",
+  definition: "a class's number in The Elder Scrolls Online",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

@@ -5,7 +5,7 @@ export const zoneSlugs = {
   type: "page-type/text-property",
   slug: "zone-slugs",
   propertySlug: "zone-slugs",
-  definition: "the zones a scribing source is worked in",
+  definition: "a scribing source's zones",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [
