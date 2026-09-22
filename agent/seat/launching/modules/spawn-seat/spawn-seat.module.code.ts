@@ -60,6 +60,15 @@ export interface SpawnSeatResult extends LaunchSeatResult {
   readonly name: string
 }
 
+export function refuseUnstated(name: string, unstated: readonly string[]): string | null {
+  if (unstated.length === 0) return null
+  return (
+    `[spawn] ${name}: nothing was stated, so no page represents this seat and nothing reads it ` +
+    `as running — ${unstated.join("; ")}. A seat with no page composes no prompt and is found by ` +
+    "no reader of the fleet, so this spawn is refused before anything of the seat boots."
+  )
+}
+
 export async function spawnSeat(input: SpawnSeatInput): Promise<SpawnSeatResult> {
   const name = input.name
   if (!isValidSeatName(name)) {
@@ -118,11 +127,8 @@ export async function spawnSeat(input: SpawnSeatInput): Promise<SpawnSeatResult>
     parentName: input.parent === null ? null : composedNameOf(input.parent),
     account: input.account,
   })
-  if (unstated.length > 0) {
-    console.error(
-      `[spawn] ${name}: nothing was stated, so the seat boots holding none of it — ${unstated.join("; ")}`
-    )
-  }
+  const pageless = refuseUnstated(name, unstated)
+  if (pageless !== null) throw dataError(pageless)
 
   let handle: LaunchSeatResult
   try {

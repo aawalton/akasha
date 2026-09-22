@@ -241,6 +241,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/launching/modules/seat-grouping/seat-grouping.module.ts","id":"01a09320-5e3c-7f72-9939-3532cd8aac0f"}
 {"propertySlug":"decision-kind","path":"agent/seat/launching/modules/seat-modes/seat-modes.module.ts","id":"01a06867-7fc9-7001-ab42-25809f0fc7df"}
 {"propertySlug":"decision-kind","path":"agent/seat/launching/modules/seat-start/seat-start.module.ts","id":"01a069cb-0380-743c-a13d-87b9feb0bbf1"}
+{"propertySlug":"decision-kind","path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.ts","id":"01a06983-278f-7aef-a9d5-646b542b1d97"}
 {"propertySlug":"decision-kind","path":"agent/seat/launching/seat-launching.module.ts","id":"01a05d8f-50d9-7000-8a2a-2bc819c63d01"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/modules/log-day-sweeping/log-day-sweeping.module.ts","id":"01a0686a-7a57-7b20-a93f-e1d817636d3f"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.ts","id":"01a06a06-5c03-75e8-ac45-a622024f1f89"}

@@ -6,4 +6,19 @@ export const spawnSeat = {
   slug: "spawn-seat",
   definition: "a child seat minted and launched",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat no page was written for is refused before anything of that seat boots.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A spawn refused that way leaves no process running.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every reason the page was not written is carried into the one refusal.",
+    },
+  ],
 } as const satisfies Module
