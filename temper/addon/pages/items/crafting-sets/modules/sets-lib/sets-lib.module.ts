@@ -15,5 +15,10 @@ export const setsLib = {
       decisionKind: "decision-kind/departure",
       statement: "The table is empty here and is filled by the modules importing it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The markup reaches that table as the global TemperItemsCraftingSets, which this sets.",
+    },
   ],
 } as const satisfies Module

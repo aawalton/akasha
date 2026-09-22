@@ -5,7 +5,7 @@
 				TemperItemsCraftingSets_CopyDialog_OnInitialized(self)
 			</OnInitialized>
 			<OnHide>
-				LibSets.CopyDialog:OnHide()
+				TemperItemsCraftingSets.CopyDialog:OnHide()
 			</OnHide>
 			<ResizeToFitPadding width="25" height="25" />
 			<DimensionConstraints minX="800" minY="480" maxX="800" maxY="600" />
@@ -14,7 +14,7 @@
 					<Anchor point="BOTTOMLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)" offsetX="30" offsetY="-20"/>
 					<OnMouseUp>
 						if upInside and button == MOUSE_BUTTON_INDEX_LEFT then
-							LibSets.CopyDialog:Hide()
+							TemperItemsCraftingSets.CopyDialog:Hide()
 						end
 					</OnMouseUp>
 				</Button>
@@ -33,14 +33,14 @@
 					<DimensionConstraints minX="250" minY="30" maxX="250" maxY="30" />
 					<Anchor point="BOTTOMRIGHT" relativePoint="BOTTOMRIGHT" relativeTo="$(parent)" offsetX="-30" offsetY="-20"/>
 					<OnClicked>
-						LibSets.CopyDialog:NextPage()
+						TemperItemsCraftingSets.CopyDialog:NextPage()
 					</OnClicked>
 				</Button>
 				<Button name="$(parent)Prev" inherits="ZO_DefaultButton" text="SI_LORE_READER_PREVIOUS_PAGE">
 					<DimensionConstraints minX="250" minY="30" maxX="250" maxY="30" />
 					<Anchor point="TOPRIGHT" relativePoint="TOPLEFT" relativeTo="$(parent)Next" offsetX="-30" offsetY="0"/>
 					<OnClicked>
-						LibSets.CopyDialog:PreviousPage()
+						TemperItemsCraftingSets.CopyDialog:PreviousPage()
 					</OnClicked>
 				</Button>
 			</Controls>

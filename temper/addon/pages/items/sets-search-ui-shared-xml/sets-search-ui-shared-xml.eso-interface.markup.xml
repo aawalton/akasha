@@ -1,12 +1,12 @@
 <GuiXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/DakJaniels/esoui_gui_xsd/blob/main/esoui_gui_xml.xsd">
-<!-- LibSets Search UI - Font definitions -->
+
 	<Font name="MyFontGame16" font="$(MEDIUM_FONT)|$(KB_16)|soft-shadow-thin" />
     <Font name="MyFontGame18" font="$(BOLD_FONT)|$(KB_18)|soft-shadow-thik" />
     <Font name="MyFontGame20" font="$(BOLD_FONT)|$(KB_20)|soft-shadow-thik" />
 
     <Controls>
 
-        <!-- LibSets Search UI - Virtual template -->
+
         <TopLevelControl name="TemperItemsCraftingSets_SearchUI_TLC_Shared" mouseEnabled="true" movable="true" clampedToScreen="true" hidden="true" virtual="true" level="1">
             <Controls>
                 <Control name="$(parent)Filters">
