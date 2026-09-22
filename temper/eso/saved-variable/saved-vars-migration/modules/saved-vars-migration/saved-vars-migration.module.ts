@@ -21,7 +21,11 @@ export const savedVarsMigration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rename matching no global writes nothing.",
+      statement: "A rename naming a global that matches nothing writes nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rename naming no global copies the old file whole.",
     },
     {
       decisionKind: "decision-kind/departure",

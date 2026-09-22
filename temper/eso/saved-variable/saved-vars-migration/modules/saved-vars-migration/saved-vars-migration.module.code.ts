@@ -33,7 +33,9 @@ export function migrateAddonSavedVars(
   if (!existsSync(oldFile)) return { kind: "skip-no-source", from: oldFileBase }
 
   const { content, renamedCount } = renameGlobals(readFileSync(oldFile, "utf-8"), renames)
-  if (renamedCount === 0) return { kind: "skip-no-globals", from: oldFileBase, to: newFileBase }
+  if (renames.length > 0 && renamedCount === 0) {
+    return { kind: "skip-no-globals", from: oldFileBase, to: newFileBase }
+  }
 
   writeFileSync(newFile, content)
   return { kind: "renamed", from: oldFileBase, to: newFileBase, renamedCount }
