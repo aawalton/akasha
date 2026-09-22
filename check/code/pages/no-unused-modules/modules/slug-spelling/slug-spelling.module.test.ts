@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { slugsSpelled } from "akasha/check/code/pages/no-unused-modules/modules/slug-spelling/slug-spelling.module.code.ts"
 import {
   change,
+  readingOver,
   wrote,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
@@ -30,32 +31,36 @@ function rooted(runner: string): string {
   return root
 }
 
+function spelled(root: string, named = OWN): ReadonlySet<string> {
+  return slugsSpelled(root, readingOver(change(root, [])), named)
+}
+
 test("a module another file spells the slug of is named", () => {
   const root = rooted('const RUNS = "held"\n\nexport const runner = RUNS\n')
 
-  expect([...slugsSpelled(change(root, []), OWN)]).toEqual(["held"])
+  expect([...spelled(root)]).toEqual(["held"])
 })
 
 test("a module a single-quoted word spells the slug of is named", () => {
   const root = rooted("const RUNS = 'held'\n\nexport const runner = RUNS\n")
 
-  expect([...slugsSpelled(change(root, []), OWN)]).toEqual(["held"])
+  expect([...spelled(root)]).toEqual(["held"])
 })
 
 test("a slug spelled inside a longer word names no module", () => {
   const root = rooted('const RUNS = "held-over"\n\nexport const runner = RUNS\n')
 
-  expect([...slugsSpelled(change(root, []), OWN)]).toEqual([])
+  expect([...spelled(root)]).toEqual([])
 })
 
 test("a slug only the module's own files spell names no module", () => {
   const root = rooted("export const runner = 1\n")
 
-  expect([...slugsSpelled(change(root, []), OWN)]).toEqual([])
+  expect([...spelled(root)]).toEqual([])
 })
 
 test("a run asking after no slug names no module", () => {
   const root = rooted('const RUNS = "held"\n\nexport const runner = RUNS\n')
 
-  expect(slugsSpelled(change(root, []), []).size).toBe(0)
+  expect(spelled(root, []).size).toBe(0)
 })

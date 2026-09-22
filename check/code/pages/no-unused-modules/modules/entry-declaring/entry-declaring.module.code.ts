@@ -1,5 +1,3 @@
-import { textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
-import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn, sectionedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const CODE = "code"
@@ -24,19 +22,22 @@ function declaring(body: string): boolean {
   return body.startsWith(SHEBANG) || body.includes(MAIN)
 }
 
-function declaredBy(change: Change, one: Held): boolean {
+function declaredBy(read: (path: string) => string | null, one: Held): boolean {
   for (const at of one.files) {
     if (!codeNamed(at)) continue
-    const body = textIn(change, at)
+    const body = read(at)
     if (body !== null && declaring(body)) return true
   }
   return false
 }
 
-export function entriesDeclared(change: Change, held: readonly Held[]): ReadonlySet<string> {
+export function entriesDeclared(
+  read: (path: string) => string | null,
+  held: readonly Held[]
+): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of held) {
-    if (declaredBy(change, one)) found.add(one.page)
+    if (declaredBy(read, one)) found.add(one.page)
   }
   return found
 }

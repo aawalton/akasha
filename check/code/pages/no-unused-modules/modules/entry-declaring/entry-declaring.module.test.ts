@@ -5,6 +5,7 @@ import {
 } from "akasha/check/code/pages/no-unused-modules/modules/entry-declaring/entry-declaring.module.code.ts"
 import {
   change,
+  readingOver,
   wrote,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
@@ -41,56 +42,60 @@ function rooted(bodies: Readonly<Record<string, string>>): string {
   return root
 }
 
+function declared(root: string, held: readonly Held[] = OWN): ReadonlySet<string> {
+  return entriesDeclared(readingOver(change(root, [])), held)
+}
+
 test("a module whose code opens on a shebang line declares an entry point", () => {
   const root = rooted({ [CODE_AT]: SHEBANG })
 
-  expect([...entriesDeclared(change(root, []), OWN)]).toEqual([PAGE_AT])
+  expect([...declared(root)]).toEqual([PAGE_AT])
 })
 
 test("a module whose code names import.meta.main declares an entry point", () => {
   const root = rooted({ [CODE_AT]: GUARDED })
 
-  expect([...entriesDeclared(change(root, []), OWN)]).toEqual([PAGE_AT])
+  expect([...declared(root)]).toEqual([PAGE_AT])
 })
 
 test("a module whose second code file declares an entry point declares one", () => {
   const root = rooted({ [CODE_AT]: QUIET, [MORE_AT]: GUARDED })
 
-  expect([...entriesDeclared(change(root, []), OWN)]).toEqual([PAGE_AT])
+  expect([...declared(root)]).toEqual([PAGE_AT])
 })
 
 test("a module whose code declares neither declares no entry point", () => {
   const root = rooted({ [CODE_AT]: QUIET })
 
-  expect([...entriesDeclared(change(root, []), OWN)]).toEqual([])
+  expect([...declared(root)]).toEqual([])
 })
 
 test("a shebang below the first line declares no entry point", () => {
   const root = rooted({ [CODE_AT]: `\n${SHEBANG}` })
 
-  expect([...entriesDeclared(change(root, []), OWN)]).toEqual([])
+  expect([...declared(root)]).toEqual([])
 })
 
 test("a module whose page alone names import.meta.main declares no entry point", () => {
   const root = rooted({ [PAGE_AT]: 'export const held = { at: "import.meta.main" }\n' })
 
-  expect([...entriesDeclared(change(root, []), OWN)]).toEqual([])
+  expect([...declared(root)]).toEqual([])
 })
 
 test("a module whose test alone declares an entry point declares none", () => {
   const root = rooted({ [CODE_AT]: QUIET, [PROVER_AT]: SHEBANG })
 
-  expect([...entriesDeclared(change(root, []), OWN)]).toEqual([])
+  expect([...declared(root)]).toEqual([])
 })
 
 test("a code file spelled uncommitted declares no entry point", () => {
   const root = rooted({ [CODE_AT]: QUIET, [DRAFT_AT]: SHEBANG })
 
-  expect([...entriesDeclared(change(root, []), OWN)]).toEqual([])
+  expect([...declared(root)]).toEqual([])
 })
 
 test("a run asking after no module declares nothing", () => {
   const root = rooted({ [CODE_AT]: SHEBANG })
 
-  expect(entriesDeclared(change(root, []), []).size).toBe(0)
+  expect(declared(root, []).size).toBe(0)
 })

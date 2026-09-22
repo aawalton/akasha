@@ -6,10 +6,12 @@ import {
 import {
   change,
   claiming,
+  readingOver,
   shadowed,
   wrote,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -44,25 +46,31 @@ function rooted(): string {
   return root
 }
 
+function entriesOf(over: Change): readonly string[] {
+  const held = shadowed(over)
+  return entriesIn(held, held.holds)
+}
+
+function reachedIn(over: Change, entries: readonly string[]): ReadonlySet<string> {
+  return filesReached(over.root, shadowed(over).listed(), readingOver(over), entries)
+}
+
 test("an addon page names the code of the module its bundle starts from", () => {
   const root = rooted()
-  const over = change(root, [ENTRY_AT])
 
-  expect(entriesIn(shadowed(over))).toEqual([ENTRY_AT])
+  expect(entriesOf(change(root, [ENTRY_AT]))).toEqual([ENTRY_AT])
 })
 
 test("a page naming no entry point names no code", () => {
   const root = scratch.rootFor("akasha-bundle-reaching-bare-")
   wrote(root, { [APART_AT]: "export const heldApart = 3\n" })
-  const over = change(root, [APART_AT])
 
-  expect(entriesIn(shadowed(over))).toEqual([])
+  expect(entriesOf(change(root, [APART_AT]))).toEqual([])
 })
 
 test("an entry point reaches the file that entry point loads", () => {
   const root = rooted()
-  const over = change(root, [ENTRY_AT])
-  const found = filesReached(over, shadowed(over), [ENTRY_AT])
+  const found = reachedIn(change(root, [ENTRY_AT]), [ENTRY_AT])
 
   expect(found.has(ENTRY_AT)).toBe(true)
   expect(found.has(PART_AT)).toBe(true)
@@ -70,14 +78,12 @@ test("an entry point reaches the file that entry point loads", () => {
 
 test("an entry point reaches no file it never loads", () => {
   const root = rooted()
-  const over = change(root, [ENTRY_AT])
 
-  expect(filesReached(over, shadowed(over), [ENTRY_AT]).has(APART_AT)).toBe(false)
+  expect(reachedIn(change(root, [ENTRY_AT]), [ENTRY_AT]).has(APART_AT)).toBe(false)
 })
 
 test("a run with no entry point reaches nothing", () => {
   const root = rooted()
-  const over = change(root, [ENTRY_AT])
 
-  expect(filesReached(over, shadowed(over), []).size).toBe(0)
+  expect(reachedIn(change(root, [ENTRY_AT]), []).size).toBe(0)
 })

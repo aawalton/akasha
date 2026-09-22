@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { onDisk, textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged, Running } from "akasha/check/modules/judging/judging.module.code.ts"
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
@@ -260,6 +260,10 @@ export function treed(root: string): string {
   git(root, ["init", "--quiet"])
   git(root, ["add", "-A"])
   return root
+}
+
+export function readingOver(over: Change): (path: string) => string | null {
+  return (path) => textIn(over, path)
 }
 
 export function shadowed(over: Change): Shadow {

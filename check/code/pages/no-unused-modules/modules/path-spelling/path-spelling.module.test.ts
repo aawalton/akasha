@@ -5,6 +5,7 @@ import {
 } from "akasha/check/code/pages/no-unused-modules/modules/path-spelling/path-spelling.module.code.ts"
 import {
   change,
+  readingOver,
   wrote,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
@@ -31,56 +32,60 @@ function rooted(naming: Readonly<Record<string, string>>): string {
   return root
 }
 
+function named(root: string, held: readonly Held[] = OWN): ReadonlySet<string> {
+  return pathsNamed(root, readingOver(change(root, [])), held)
+}
+
 test("a module a settings file names by path is named", () => {
   const root = rooted({ "bunfig.toml": `preload = ["${CODE_AT}"]\n` })
 
-  expect([...pathsNamed(change(root, []), OWN)]).toEqual([PAGE_AT])
+  expect([...named(root)]).toEqual([PAGE_AT])
 })
 
 test("a module a manifest names by path is named", () => {
   const root = rooted({ "package.json": `{ "main": "./${CODE_AT}" }\n` })
 
-  expect([...pathsNamed(change(root, []), OWN)]).toEqual([PAGE_AT])
+  expect([...named(root)]).toEqual([PAGE_AT])
 })
 
 test("a module a script names by path is named", () => {
   const root = rooted({ [SCRIPT_AT]: `bun "$ROOT/${CODE_AT}"\n` })
 
-  expect([...pathsNamed(change(root, []), OWN)]).toEqual([PAGE_AT])
+  expect([...named(root)]).toEqual([PAGE_AT])
 })
 
 test("a module a container recipe names by path is named", () => {
   const root = rooted({ Containerfile: `COPY ${CODE_AT} ./held.ts\n` })
 
-  expect([...pathsNamed(change(root, []), OWN)]).toEqual([PAGE_AT])
+  expect([...named(root)]).toEqual([PAGE_AT])
 })
 
 test("a path pieced together names no module", () => {
   const root = rooted({ [SCRIPT_AT]: 'bun "${DIR}/../held/held.module.code.ts"\n' })
 
-  expect([...pathsNamed(change(root, []), OWN)]).toEqual([])
+  expect([...named(root)]).toEqual([])
 })
 
 test("a path a note names names no module", () => {
   const root = rooted({ "akasha/notes.md": `run ${CODE_AT} by hand\n` })
 
-  expect([...pathsNamed(change(root, []), OWN)]).toEqual([])
+  expect([...named(root)]).toEqual([])
 })
 
 test("a path a body spelled uncommitted names names no module", () => {
   const root = rooted({ "akasha/opened.state.uncommitted.json": `["${CODE_AT}"]\n` })
 
-  expect([...pathsNamed(change(root, []), OWN)]).toEqual([])
+  expect([...named(root)]).toEqual([])
 })
 
 test("a path only the module's own files hold names no module", () => {
   const root = rooted({})
 
-  expect([...pathsNamed(change(root, []), OWN)]).toEqual([])
+  expect([...named(root)]).toEqual([])
 })
 
 test("a run asking after no module names nothing", () => {
   const root = rooted({ "bunfig.toml": `preload = ["${CODE_AT}"]\n` })
 
-  expect(pathsNamed(change(root, []), []).size).toBe(0)
+  expect(named(root, []).size).toBe(0)
 })
