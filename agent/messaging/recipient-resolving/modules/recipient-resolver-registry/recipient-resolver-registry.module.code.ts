@@ -37,7 +37,6 @@ const IRIS_SPEC: OnDemandAgentSpec = {
       kind: "game-state-rows",
       detail: "Awen game-state / game-turn rows for game externalId 'the-tower'",
     },
-    { kind: "bound-worktree", detail: "iris's bound playthrough worktree under ~/worktrees/<seq>" },
   ],
   resumePolicy: { kind: "fresh" },
   owner: "aine",
@@ -58,10 +57,6 @@ const ARIA_STAGED_SPEC: OnDemandAgentSpec = {
     {
       kind: "game-state-rows",
       detail: "Awen game-state / game-turn rows for game externalId 'dragons-and-dungeons'",
-    },
-    {
-      kind: "bound-worktree",
-      detail: "aria's dragons-and-dungeons playthrough worktree under ~/worktrees/<seq>",
     },
   ],
   resumePolicy: { kind: "fresh" },

@@ -13,7 +13,7 @@ export interface CommsRule {
   readonly status: RuleStatus
 }
 
-export type StateAuthorityKind = "pages-rows" | "bound-worktree" | "game-state-rows"
+export type StateAuthorityKind = "pages-rows" | "game-state-rows"
 
 export interface StateAuthority {
   readonly kind: StateAuthorityKind
