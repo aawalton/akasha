@@ -38,6 +38,10 @@ export const addonMetadataFiles = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page loaded by a name sits anywhere under the addon's folder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Markup and Lua are reached by one rule.",
     },
     {

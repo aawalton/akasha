@@ -1,5 +1,5 @@
 import { existsSync } from "node:fs"
-import { join, relative } from "node:path"
+import { dirname, join, relative } from "node:path"
 import { bindings } from "akasha/temper/addon/properties/bindings.file-property.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { readTemperAddonPage } from "akasha/temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
@@ -51,16 +51,16 @@ function loadedUnder(repoRoot: string, dir: string): readonly Loaded[] {
       const head = `${under}/`
       if (!one.path.startsWith(head)) continue
       const rest = one.path.slice(head.length).split("/")
-      const entry = rest[0]
-      if (rest.length !== 2 || entry === undefined) continue
-      if (rest[1] !== `${entry}${kind.pageSuffix}`) continue
+      const entry = rest[rest.length - 2]
+      if (rest.length < 2 || entry === undefined) continue
+      if (rest[rest.length - 1] !== `${entry}${kind.pageSuffix}`) continue
       const name = one.value.loadedAs
       if (typeof name !== "string") continue
       found.push({
         entry,
         name,
         pagePath: join(repoRoot, one.path),
-        filePath: join(dir, entry, `${entry}${kind.fileSuffix}`),
+        filePath: join(repoRoot, dirname(one.path), `${entry}${kind.fileSuffix}`),
       })
     }
   }
@@ -118,7 +118,7 @@ export function namedFilePathsIn(
   if (unreached.length > 0) {
     const names = [...(stated ?? new Map()).keys()]
     throw new Error(
-      `namedFilePathsIn: the manifest in ${dir} loads ${String(unreached.length)} file(s) nothing there holds (${unreached.join(", ")}); none is beside the page, none is under ${GAME_METADATA_DIR}/, and the pages beside it are loaded as ${names.length === 0 ? "no name at all" : names.join(", ")}`
+      `namedFilePathsIn: the manifest in ${dir} loads ${String(unreached.length)} file(s) nothing there holds (${unreached.join(", ")}); none is beside the page, none is under ${GAME_METADATA_DIR}/, and the pages under it are loaded as ${names.length === 0 ? "no name at all" : names.join(", ")}`
     )
   }
   return answer

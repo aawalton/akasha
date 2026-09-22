@@ -77,6 +77,21 @@ test("a page states the name its manifest loads it by", () => {
   expect(loadedDocumentPathsIn(root, dir).get("TemperEvents.xml")).toBe(markup)
 })
 
+test("a page under a feature domain beneath the addon page is reached by its name", () => {
+  const { root, dir } = addonPageFiled({})
+  const feature = join(dir, "minimap")
+  mkdirSync(join(feature, "minimap-layout"), { recursive: true })
+  valueAlsoFiled(root, "eso-interface", [
+    {
+      path: `${ADDON_DIR}/minimap/minimap-layout/minimap-layout.eso-interface.ts`,
+      value: { slug: "minimap-layout", loadedAs: "Minimap.xml" },
+    },
+  ])
+  const markup = join(feature, "minimap-layout", "minimap-layout.eso-interface.markup.xml")
+  writeFileSync(markup, "<GuiXml></GuiXml>\n")
+  expect(namedFilePathsIn(root, dir, ["Minimap.xml"]).get("Minimap.xml")).toBe(markup)
+})
+
 test("a page loaded by a name whose own file is absent refuses the call", () => {
   const { root, dir } = addonPageFiled({})
   documentUnder(root, dir, "next-boss-layout", "eso-interface", "TemperEvents.xml")
