@@ -17,7 +17,6 @@ export const emBeiholdStrongMedicine = {
   performed: true,
   lyricsSource: "lrclib",
   written: "collab",
-  grade: "A+",
   singability: "A-",
   tags: ["medication"],
   lyrics: "txt",

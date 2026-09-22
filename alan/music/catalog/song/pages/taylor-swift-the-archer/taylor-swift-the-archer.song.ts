@@ -4,7 +4,6 @@ export const taylorSwiftTheArcher = {
   id: "019ea416-2e1d-753d-ae73-2a8a1faebdec",
   type: "page-type/song",
   slug: "taylor-swift-the-archer",
-  grade: "S-",
   tags: ["relationships", "masking"],
   externalIdentity: [
     {

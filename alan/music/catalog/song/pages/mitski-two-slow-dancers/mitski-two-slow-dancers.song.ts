@@ -4,7 +4,6 @@ export const mitskiTwoSlowDancers = {
   id: "019f0e9c-0a93-7b5a-96a6-9748794a6394",
   type: "page-type/song",
   slug: "mitski-two-slow-dancers",
-  grade: "B+",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -4,7 +4,6 @@ export const taylorSwiftThisIsMeTrying = {
   id: "019ea416-49d9-7625-a543-9c6f1d9359d7",
   type: "page-type/song",
   slug: "taylor-swift-this-is-me-trying",
-  grade: "A+",
   tags: ["acceptance"],
   externalIdentity: [
     {

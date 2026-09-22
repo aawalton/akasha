@@ -4,7 +4,6 @@ export const imagineDragonsItSTime = {
   id: "019ea499-3988-7fba-a81f-84a85a26f967",
   type: "page-type/song",
   slug: "imagine-dragons-it-s-time",
-  grade: "B+",
   externalIdentity: [
     {
       source: "musicbrainz",

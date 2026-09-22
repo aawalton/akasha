@@ -4,7 +4,6 @@ export const taylorSwiftMastermind = {
   id: "019ea416-2526-7682-b105-33902152c3f5",
   type: "page-type/song",
   slug: "taylor-swift-mastermind",
-  grade: "A+",
   tags: ["wanted"],
   externalIdentity: [
     {

@@ -4,7 +4,6 @@ export const auroraADifferentKindOfHuman = {
   id: "019ea4a7-b727-7264-acc8-a2c20602e65c",
   type: "page-type/song",
   slug: "aurora-a-different-kind-of-human",
-  grade: "A+",
   tags: ["autism"],
   externalIdentity: [
     {

@@ -4,7 +4,6 @@ export const billieEilishGettingOlder = {
   id: "019ea4a9-870a-798d-af85-ef5955ea122e",
   type: "page-type/song",
   slug: "billie-eilish-getting-older",
-  grade: "A+",
   tags: ["abuse"],
   externalIdentity: [
     {

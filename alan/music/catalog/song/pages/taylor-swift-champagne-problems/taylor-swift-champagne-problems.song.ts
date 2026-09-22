@@ -4,7 +4,6 @@ export const taylorSwiftChampagneProblems = {
   id: "019ea416-10bc-7a26-a503-4aaa23f3b683",
   type: "page-type/song",
   slug: "taylor-swift-champagne-problems",
-  grade: "B+",
   externalIdentity: [
     {
       source: "musicbrainz",

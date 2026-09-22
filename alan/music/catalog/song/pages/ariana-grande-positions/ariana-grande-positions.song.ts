@@ -4,7 +4,6 @@ export const arianaGrandePositions = {
   id: "019ea4e6-de1b-75f6-9756-8edccddb01fc",
   type: "page-type/song",
   slug: "ariana-grande-positions",
-  grade: "A+",
   externalIdentity: [
     {
       source: "musicbrainz",

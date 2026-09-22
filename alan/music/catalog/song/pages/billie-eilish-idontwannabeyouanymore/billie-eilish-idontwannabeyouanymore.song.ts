@@ -4,7 +4,6 @@ export const billieEilishIdontwannabeyouanymore = {
   id: "019ea4a8-9642-70d1-8bd2-dc04be6d71a8",
   type: "page-type/song",
   slug: "billie-eilish-idontwannabeyouanymore",
-  grade: "S-",
   tags: ["self-hatred"],
   externalIdentity: [
     {

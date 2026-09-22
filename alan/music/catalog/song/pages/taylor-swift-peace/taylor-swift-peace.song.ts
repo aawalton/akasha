@@ -4,7 +4,6 @@ export const taylorSwiftPeace = {
   id: "019ea416-2deb-7af7-9a75-d8c8f09b6445",
   type: "page-type/song",
   slug: "taylor-swift-peace",
-  grade: "S",
   tags: ["relationships"],
   externalIdentity: [
     {

@@ -4,7 +4,6 @@ export const auroraALittlePlaceCalledTheMoon = {
   id: "019ea4a7-7b09-7821-b351-66539f4a423a",
   type: "page-type/song",
   slug: "aurora-a-little-place-called-the-moon",
-  grade: "B",
   tags: ["autism"],
   externalIdentity: [
     {

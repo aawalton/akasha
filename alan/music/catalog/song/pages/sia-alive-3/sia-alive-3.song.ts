@@ -4,7 +4,6 @@ export const siaAlive3 = {
   id: "019ea4c6-6d40-7c03-8b76-a28f384ae1ac",
   type: "page-type/song",
   slug: "sia-alive-3",
-  grade: "S",
   tags: ["suicide"],
   externalIdentity: [
     {

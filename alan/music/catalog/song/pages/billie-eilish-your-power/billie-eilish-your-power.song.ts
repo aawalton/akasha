@@ -4,7 +4,6 @@ export const billieEilishYourPower = {
   id: "019ea4a8-495e-7f2d-be55-653445380f3b",
   type: "page-type/song",
   slug: "billie-eilish-your-power",
-  grade: "A-",
   externalIdentity: [
     {
       source: "musicbrainz",

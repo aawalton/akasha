@@ -4,7 +4,6 @@ export const imagineDragonsDemons = {
   id: "019ea497-b4e4-790d-89be-6f734eb98cf7",
   type: "page-type/song",
   slug: "imagine-dragons-demons",
-  grade: "S-",
   tags: ["masking"],
   externalIdentity: [
     {

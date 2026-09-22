@@ -4,7 +4,6 @@ export const mitskiIBetOnLosingDogs = {
   id: "019f0ea7-d3d6-7446-a0c5-c1311ff30b05",
   type: "page-type/song",
   slug: "mitski-i-bet-on-losing-dogs",
-  grade: "C+",
   externalIdentity: [
     {
       source: "musicbrainz",

@@ -4,7 +4,6 @@ export const taylorSwiftMirrorball = {
   id: "019ea416-3d24-7b71-8f41-cd23dba27f16",
   type: "page-type/song",
   slug: "taylor-swift-mirrorball",
-  grade: "A",
   tags: ["masking"],
   externalIdentity: [
     {

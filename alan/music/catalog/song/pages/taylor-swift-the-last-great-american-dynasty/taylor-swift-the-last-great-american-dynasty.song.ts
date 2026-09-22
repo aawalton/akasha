@@ -4,7 +4,6 @@ export const taylorSwiftTheLastGreatAmericanDynasty = {
   id: "019ea416-3e8d-7e80-9bc9-08acdc0d5473",
   type: "page-type/song",
   slug: "taylor-swift-the-last-great-american-dynasty",
-  grade: "A-",
   tags: ["wealth"],
   externalIdentity: [
     {
