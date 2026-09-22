@@ -273,16 +273,23 @@ function Control:SetVerticalAlignment(alignment) self.uiAlignV = alignment end
 function Control:GetHorizontalAlignment() return self.uiAlignH end
 function Control:GetVerticalAlignment() return self.uiAlignV end
 
-function Control:SetText(text) self.uiText = tostring(text) end
+local function asText(value)
+  local kind = type(value)
+  if kind == "string" then return value end
+  if kind == "number" then return tostring(value) end
+  return nil
+end
+
+function Control:SetText(text) self.uiText = asText(text) end
 function Control:GetText() return self.uiText or "" end
-function Control:SetFont(font) self.uiFont = font end
+function Control:SetFont(font) self.uiFont = asText(font) end
 local function asColor(r, g, b, a)
   if type(r) ~= "number" then return nil end
   return { r, g or 0, b or 0, a or 1 }
 end
 
 function Control:SetColor(r, g, b, a) self.uiColor = asColor(r, g, b, a) end
-function Control:SetTexture(texture) self.uiTexture = texture end
+function Control:SetTexture(texture) self.uiTexture = asText(texture) end
 function Control:SetAddressMode(mode) self.uiAddressMode = mode end
 function Control:SetCenterTexture(texture) self.uiCenterTexture = texture end
 function Control:SetEdgeTexture(texture) self.uiEdgeTexture = texture end

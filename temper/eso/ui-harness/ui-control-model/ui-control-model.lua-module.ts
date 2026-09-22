@@ -58,6 +58,10 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Text, a font and a texture are kept only where the game handed over words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The width a control answers with is the width where that control sits.",
     },
     {
