@@ -1,5 +1,3 @@
-import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
-
 export function __TS__ObjectFromEntries<T>(
   this: void,
   entries: ReadonlyArray<[string, T]> | Iterable<[string, T]>

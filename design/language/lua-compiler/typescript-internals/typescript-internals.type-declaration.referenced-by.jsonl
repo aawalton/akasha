@@ -2,10 +2,7 @@
 {"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/generator/generator.lualib-helper.code.ts"}
 {"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/instance-of/instance-of.lualib-helper.code.ts"}
 {"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/iterator/iterator.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/map/map.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/object-from-entries/object-from-entries.lualib-helper.code.ts"}
 {"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/promise/promise.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/set/set.lualib-helper.code.ts"}
 {"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/using-async/using-async.lualib-helper.code.ts"}
 {"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/using/using.lualib-helper.code.ts"}
 {"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/weak-map/weak-map.lualib-helper.code.ts"}
