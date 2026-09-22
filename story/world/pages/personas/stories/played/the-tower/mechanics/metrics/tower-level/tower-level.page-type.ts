@@ -6,6 +6,7 @@ export const towerLevel = {
   slug: "tower-level",
   definition: "how far a character in the Tower has come",
   extends: ["page-type/metric-character-attribute"],
+  parts: ["module/tower-hud-beside"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType
