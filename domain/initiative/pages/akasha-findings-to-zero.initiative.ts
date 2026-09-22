@@ -31,6 +31,7 @@ export const akashaFindingsToZero = {
     "A finding about Alan's own life or notes is left for the run Alan takes.",
     "The second run is taken with Alan, over the kept findings, one at a time.",
     "Alan is given the name, one plain sentence saying what the finding is about, and one proposal.",
+    "The proposal is stated in one line rather than asked as a question, so the last line is a proposal.",
     "The count resolved and the count left are said when a run ends.",
     "A finding is verified against the tree as it is now before it is put to Alan, and what was measured is said with it.",
     "A proposal to drop a finding is taken as approved, and only a proposal to do work is put to Alan.\n",
