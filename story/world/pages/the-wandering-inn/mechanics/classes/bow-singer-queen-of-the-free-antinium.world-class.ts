@@ -6,6 +6,7 @@ export const bowSingerQueenOfTheFreeAntinium = {
   slug: "bow-singer-queen-of-the-free-antinium",
   title: "Bow-Singer Queen of the Free Antinium",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   evolvesFromSlugs: ["bow-warden-of-the-songbird"],
   references: "jsonl",
 } as const satisfies WorldClass

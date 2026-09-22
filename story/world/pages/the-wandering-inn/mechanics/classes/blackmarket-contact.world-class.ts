@@ -6,5 +6,6 @@ export const blackmarketContact = {
   slug: "blackmarket-contact",
   title: "Blackmarket Contact",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

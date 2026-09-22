@@ -6,5 +6,6 @@ export const avidReader = {
   slug: "avid-reader",
   title: "Avid Reader",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldClass

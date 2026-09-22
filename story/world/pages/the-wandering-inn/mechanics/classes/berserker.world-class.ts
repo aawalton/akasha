@@ -6,6 +6,7 @@ export const berserker = {
   slug: "berserker",
   title: "Berserker",
   world: "world/the-wandering-inn",
+  appearanceCount: 35,
   aliases: ["berserkers"],
   evolvesFromSlugs: ["warrior"],
   references: "jsonl",

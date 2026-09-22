@@ -6,5 +6,6 @@ export const basicCartographer = {
   slug: "basic-cartographer",
   title: "Basic Cartographer",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

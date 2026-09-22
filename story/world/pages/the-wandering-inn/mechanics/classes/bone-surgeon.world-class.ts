@@ -6,5 +6,6 @@ export const boneSurgeon = {
   slug: "bone-surgeon",
   title: "Bone Surgeon",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

@@ -6,6 +6,7 @@ export const bard = {
   slug: "bard",
   title: "Bard",
   world: "world/the-wandering-inn",
+  appearanceCount: 166,
   aliases: ["bards"],
   evolvesToSlugs: ["goblin-soulbard"],
   references: "jsonl",

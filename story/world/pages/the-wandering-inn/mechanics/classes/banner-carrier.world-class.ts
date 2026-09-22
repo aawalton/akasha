@@ -6,5 +6,6 @@ export const bannerCarrier = {
   slug: "banner-carrier",
   title: "Banner Carrier",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

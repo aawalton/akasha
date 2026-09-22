@@ -6,5 +6,6 @@ export const bearerOfLuckAndCalamity = {
   slug: "bearer-of-luck-and-calamity",
   title: "Bearer of Luck and Calamity",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass
