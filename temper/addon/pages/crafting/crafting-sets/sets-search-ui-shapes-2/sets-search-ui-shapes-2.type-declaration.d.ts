@@ -2,7 +2,7 @@ interface SetsSearchUISharedObject {
   control: SearchUIControl
   filtersControl: SearchUIControl
   contentControl: SearchUIControl
-  resultsList: LibSetsSearchUIList
+  resultsList: SetsSearchUIList
   resultsListControl: SearchUIControl
   counterControl: SearchUIControl
   searchButton?: SearchUIControl

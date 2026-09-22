@@ -85,7 +85,7 @@ interface SetsSearchRowData {
   dropLocationSort?: string
   setDataText?: string
   setDataTextClean?: string
-  setInfoParts?: { [part: string]: LibSetsSetInfoPart }
+  setInfoParts?: { [part: string]: SetsSetInfoPart }
   zoneIds?: number[]
   [key: string]: unknown
 }

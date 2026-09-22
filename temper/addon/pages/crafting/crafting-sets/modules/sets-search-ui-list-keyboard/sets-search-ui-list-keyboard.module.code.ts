@@ -42,7 +42,7 @@ function asSearchControl(this: void, control: Control): SearchUIControl {
 
 function updateFavoriteColumn(
   this: void,
-  selfVar: LibSetsSearchUIList,
+  selfVar: SetsSearchUIList,
   rowControl: SearchUIControl | undefined,
   isFavorite: boolean | undefined,
   favoriteCategory: string | undefined
@@ -87,11 +87,11 @@ function updateFavoriteColumn(
 }
 
 listClass.New = function (
-  this: LibSetsSearchUIListClass,
+  this: SetsSearchUIListClass,
   listParentControl: SearchUIControl,
   parentObject: SetsSearchUIKeyboardObject
-): LibSetsSearchUIList {
-  const listObject = ZO_SortFilterList.New<LibSetsSearchUIList>(
+): SetsSearchUIList {
+  const listObject = ZO_SortFilterList.New<SetsSearchUIList>(
     this,
     asTyped<Control>(listParentControl)
   )
@@ -100,7 +100,7 @@ listClass.New = function (
   return listObject
 }
 
-listClass.Setup = function (this: LibSetsSearchUIList) {
+listClass.Setup = function (this: SetsSearchUIList) {
   ZO_ScrollList_AddDataType(
     this.list,
     searchUI.scrollListDataTypeDefault,
@@ -160,7 +160,7 @@ listClass.Setup = function (this: LibSetsSearchUIList) {
   this.headerDropLocations = headers.GetNamedChild("DropLocations")
   this.headerSetId = headers.GetNamedChild("SetId")
 
-  const headerAndColumnsMinAndMaxData = new LuaMap<SearchUIControl, LibSetsListColumnData>()
+  const headerAndColumnsMinAndMaxData = new LuaMap<SearchUIControl, SetsListColumnData>()
   headerAndColumnsMinAndMaxData.set(asSearchUIControl(this.headerFavorite), {
     minX: 24,
     maxX: 24,
@@ -196,7 +196,7 @@ listClass.Setup = function (this: LibSetsSearchUIList) {
 }
 
 listClass.SetHeaderAndColumnDimensionConstraints = function (
-  this: LibSetsSearchUIList,
+  this: SetsSearchUIList,
   rowControl?: SearchUIControl,
   columnsToo?: boolean,
   noHeaderIn?: boolean
@@ -264,7 +264,7 @@ listClass.SetHeaderAndColumnDimensionConstraints = function (
 }
 
 listClass.SetupItemRow = function (
-  this: LibSetsSearchUIList,
+  this: SetsSearchUIList,
   control: SearchUIControl,
   data: SetsSearchRowData
 ) {
@@ -344,7 +344,7 @@ listClass.SetupItemRow = function (
   ZO_SortFilterList.SetupRow(this, asTyped<Control>(control), data)
 }
 
-listClass.BuildSortKeys = function (this: LibSetsSearchUIList) {
+listClass.BuildSortKeys = function (this: SetsSearchUIList) {
   this.sortKeys = {
     isFavorite: { caseInsensitive: true, tiebreaker: "name" },
     name: { caseInsensitive: true },
@@ -357,7 +357,7 @@ listClass.BuildSortKeys = function (this: LibSetsSearchUIList) {
   }
 }
 
-listClass.UpdateCounter = function (this: LibSetsSearchUIList, scrollData: unknown[]) {
+listClass.UpdateCounter = function (this: SetsSearchUIList, scrollData: unknown[]) {
   let listCountAndTotal = ""
   if (this.masterList === undefined || this.masterList.length === 0) {
     listCountAndTotal = "0 / 0"
@@ -368,7 +368,7 @@ listClass.UpdateCounter = function (this: LibSetsSearchUIList, scrollData: unkno
 }
 
 listClass.AddFavorite = function (
-  this: LibSetsSearchUIList,
+  this: SetsSearchUIList,
   rowControl: SearchUIControl,
   favoriteCategory: string
 ) {
@@ -376,7 +376,7 @@ listClass.AddFavorite = function (
 }
 
 listClass.RemoveFavorite = function (
-  this: LibSetsSearchUIList,
+  this: SetsSearchUIList,
   rowControl: SearchUIControl,
   favoriteCategory: string
 ) {

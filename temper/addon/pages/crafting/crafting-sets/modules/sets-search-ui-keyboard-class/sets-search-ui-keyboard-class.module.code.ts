@@ -6,9 +6,9 @@ import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes/s
 
 const sharedClass = asTyped<ZoInitializingObjectClass>(getSharedSearchUIClass())
 
-const keyboardClass = sharedClass.Subclass<LibSetsSearchUIKeyboardClass>()
+const keyboardClass = sharedClass.Subclass<SetsSearchUIKeyboardClass>()
 
-export function getKeyboardSearchUIClass(this: void): LibSetsSearchUIKeyboardClass {
+export function getKeyboardSearchUIClass(this: void): SetsSearchUIKeyboardClass {
   return keyboardClass
 }
 
@@ -20,7 +20,7 @@ type KeyboardOverriddenMethod =
   | "ValidateSearchParams"
   | "StartSearch"
   | "OnFilterChanged"
-interface KeyboardClassAssign extends Omit<LibSetsSearchUIKeyboardClass, KeyboardOverriddenMethod> {
+interface KeyboardClassAssign extends Omit<SetsSearchUIKeyboardClass, KeyboardOverriddenMethod> {
   Initialize: (this: SetsSearchUIKeyboardObject, control: SearchUIControl) => void
   ShowUI: (this: SetsSearchUIKeyboardObject, slashOptions?: unknown) => void
   ResetUI: (this: SetsSearchUIKeyboardObject) => void

@@ -1,10 +1,10 @@
-interface LibSetsSearchUIList extends ZoSortFilterList {
+interface SetsSearchUIList extends ZoSortFilterList {
   _parentObject: SetsSearchUIKeyboardObject
   masterList: SetsSearchRowData[]
   sortKeys: Record<string, ZoSortKeyConfig>
   isAnyItemIdRelevantFilterActive?: boolean
   updateListColumnWith?: number
-  headerAndColumnsMinAndMaxData: LuaMap<SearchUIControl, LibSetsListColumnData>
+  headerAndColumnsMinAndMaxData: LuaMap<SearchUIControl, SetsListColumnData>
 
   sortHeaderGroup: ZoSortHeaderGroup & {
     SelectAndResetSortForKey: (this: ZoSortHeaderGroup, key: string) => void
@@ -12,45 +12,41 @@ interface LibSetsSearchUIList extends ZoSortFilterList {
     GetSortDirection: (this: ZoSortHeaderGroup) => boolean | undefined
   }
 
-  SetEmptyText: (this: LibSetsSearchUIList, text: string) => void
-  RefreshVisible: (this: LibSetsSearchUIList) => void
+  SetEmptyText: (this: SetsSearchUIList, text: string) => void
+  RefreshVisible: (this: SetsSearchUIList) => void
 
-  Row_OnMouseEnter: (this: LibSetsSearchUIList, rowControl: SearchUIControl) => void
-  Row_OnMouseExit: (this: LibSetsSearchUIList, rowControl: SearchUIControl) => void
+  Row_OnMouseEnter: (this: SetsSearchUIList, rowControl: SearchUIControl) => void
+  Row_OnMouseExit: (this: SetsSearchUIList, rowControl: SearchUIControl) => void
 
-  Setup: (this: LibSetsSearchUIList) => void
+  Setup: (this: SetsSearchUIList) => void
   SetHeaderAndColumnDimensionConstraints: (
-    this: LibSetsSearchUIList,
+    this: SetsSearchUIList,
     rowControl?: SearchUIControl,
     columnsToo?: boolean,
     noHeader?: boolean
   ) => void
-  SetupItemRow: (
-    this: LibSetsSearchUIList,
-    control: SearchUIControl,
-    data: SetsSearchRowData
-  ) => void
+  SetupItemRow: (this: SetsSearchUIList, control: SearchUIControl, data: SetsSearchRowData) => void
   CreateEntryForSet: (
-    this: LibSetsSearchUIList,
+    this: SetsSearchUIList,
     setId: number,
     setData: { [key: string]: unknown }
   ) => SetsSearchRowData | undefined
-  BuildSortKeys: (this: LibSetsSearchUIList) => void
-  UpdateCounter: (this: LibSetsSearchUIList, scrollData: unknown[]) => void
+  BuildSortKeys: (this: SetsSearchUIList) => void
+  UpdateCounter: (this: SetsSearchUIList, scrollData: unknown[]) => void
   AddFavorite: (
-    this: LibSetsSearchUIList,
+    this: SetsSearchUIList,
     rowControl: SearchUIControl,
     favoriteCategory: string
   ) => void
   RemoveFavorite: (
-    this: LibSetsSearchUIList,
+    this: SetsSearchUIList,
     rowControl: SearchUIControl,
     favoriteCategory: string
   ) => void
   [key: string]: unknown
 }
 
-interface LibSetsListColumnData {
+interface SetsListColumnData {
   minX: number
   maxX: number | string
   factorMultiplier?: number
@@ -58,27 +54,25 @@ interface LibSetsListColumnData {
   anchors?: SetsAnchorData[]
 }
 
-interface LibSetsSearchUIListClass extends LibSetsSearchUIList, ZoSortFilterListSubclass {
+interface SetsSearchUIListClass extends SetsSearchUIList, ZoSortFilterListSubclass {
   New: (
-    this: LibSetsSearchUIListClass,
+    this: SetsSearchUIListClass,
     listParentControl: SearchUIControl,
     parentObject: SetsSearchUIKeyboardObject
-  ) => LibSetsSearchUIList
+  ) => SetsSearchUIList
 }
 
-interface LibSetsSearchUISharedClass
-  extends SetsSearchUISharedObject,
-    ZoInitializingObjectSubclass {
-  New: (this: LibSetsSearchUISharedClass, ...args: unknown[]) => SetsSearchUISharedObject
+interface SetsSearchUISharedClass extends SetsSearchUISharedObject, ZoInitializingObjectSubclass {
+  New: (this: SetsSearchUISharedClass, ...args: unknown[]) => SetsSearchUISharedObject
 }
 
-interface LibSetsSearchUIKeyboardClass
+interface SetsSearchUIKeyboardClass
   extends SetsSearchUIKeyboardObject,
     ZoInitializingObjectSubclass {
-  New: (this: LibSetsSearchUIKeyboardClass, control: SearchUIControl) => SetsSearchUIKeyboardObject
+  New: (this: SetsSearchUIKeyboardClass, control: SearchUIControl) => SetsSearchUIKeyboardObject
 }
 
-interface LibSetsSetInfoPart {
+interface SetsSetInfoPart {
   enabled: boolean
   data?: unknown
   dataClean?: unknown
@@ -87,7 +81,7 @@ interface LibSetsSetInfoPart {
   icon?: string
 }
 
-type LibSetsSearchUIDescriptorExt = {
+type SetsSearchUIDescriptorExt = {
   name: string
   controlName: LuaMap<boolean, string>
   control: LuaMap<boolean, unknown>

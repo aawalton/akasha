@@ -17,11 +17,11 @@ export function buildSetDataText(
   setData: { [key: string]: unknown },
   itemLink: string | undefined,
   forTooltip?: boolean
-): LuaMultiReturn<[string, { [part: string]: LibSetsSetInfoPart }, string]> {
+): LuaMultiReturn<[string, { [part: string]: SetsSetInfoPart }, string]> {
   if (setData === undefined) {
     return $multi(
       asPresent<string>(undefined),
-      asPresent<{ [part: string]: LibSetsSetInfoPart }>(undefined),
+      asPresent<{ [part: string]: SetsSetInfoPart }>(undefined),
       asPresent<string>(undefined)
     )
   }
@@ -29,7 +29,7 @@ export function buildSetDataText(
     d(lib.prefix + "ERROR buildSetDataText - setId missing: " + tostring(itemLink))
     return $multi(
       asPresent<string>(undefined),
-      asPresent<{ [part: string]: LibSetsSetInfoPart }>(undefined),
+      asPresent<{ [part: string]: SetsSetInfoPart }>(undefined),
       asPresent<string>(undefined)
     )
   }

@@ -42,8 +42,8 @@ export function asLibSetsSearchUIKeyboardObjectOpt(
   return value as LibSetsSearchUIKeyboardObjectOpt
 }
 
-export function asLibSetsSearchUIDescriptorExt(value: unknown): LibSetsSearchUIDescriptorExt {
-  return value as LibSetsSearchUIDescriptorExt
+export function asLibSetsSearchUIDescriptorExt(value: unknown): SetsSearchUIDescriptorExt {
+  return value as SetsSearchUIDescriptorExt
 }
 
 export function asLibSetsCopyDialogData(value: unknown): SetsCopyDialogData {

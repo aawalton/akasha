@@ -82,7 +82,7 @@ export {
 }
 
 keyboardClass.New = function (
-  this: LibSetsSearchUIKeyboardClass,
+  this: SetsSearchUIKeyboardClass,
   control: SearchUIControl
 ): SetsSearchUIKeyboardObject {
   return ZO_InitializingObject.New<SetsSearchUIKeyboardObject>(this, control)

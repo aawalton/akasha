@@ -70,7 +70,7 @@ import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-de
 const listClass = getSearchUIListClass()
 
 listClass.CreateEntryForSet = function (
-  this: LibSetsSearchUIList,
+  this: SetsSearchUIList,
   setId: number,
   setDataIn: { [key: string]: unknown }
 ): SetsSearchRowData | undefined {
@@ -258,7 +258,7 @@ listClass.CreateEntryForSet = function (
   return itemData
 }
 
-listClass.BuildMasterList = function (this: LibSetsSearchUIList) {
+listClass.BuildMasterList = function (this: SetsSearchUIList) {
   const setsData = asSetInfoMap(lib.setInfo)
   this.masterList = []
 
@@ -281,7 +281,7 @@ listClass.BuildMasterList = function (this: LibSetsSearchUIList) {
   }
 }
 
-listClass.FilterScrollList = function (this: LibSetsSearchUIList) {
+listClass.FilterScrollList = function (this: SetsSearchUIList) {
   const scrollData = asPresent(ZO_ScrollList_GetDataList<SetsSearchRowData>(this.list))
   ZO_ClearNumericallyIndexedTable(scrollData)
 
@@ -317,7 +317,7 @@ listClass.FilterScrollList = function (this: LibSetsSearchUIList) {
   }
 }
 
-listClass.SortScrollList = function (this: LibSetsSearchUIList) {
+listClass.SortScrollList = function (this: SetsSearchUIList) {
   this.BuildSortKeys()
   this.currentSortKey = asPresent(this.sortHeaderGroup.GetCurrentSortKey())
   this.currentSortOrder = asPresent(this.sortHeaderGroup.GetSortDirection())

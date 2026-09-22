@@ -4,9 +4,9 @@ import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes-4
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes/sets-search-ui-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
 
-const sharedClass = ZO_InitializingObject.Subclass<LibSetsSearchUISharedClass>()
+const sharedClass = ZO_InitializingObject.Subclass<SetsSearchUISharedClass>()
 
-export function getSharedSearchUIClass(this: void): LibSetsSearchUISharedClass {
+export function getSharedSearchUIClass(this: void): SetsSearchUISharedClass {
   return sharedClass
 }
 
@@ -16,7 +16,7 @@ function asSharedSearchUIClassGlobal(value: unknown): SharedSearchUIClassGlobal 
 }
 export function brandSharedSearchUIClassGlobal(
   this: void,
-  value: LibSetsSearchUISharedClass
+  value: SetsSearchUISharedClass
 ): SharedSearchUIClassGlobal {
   return asSharedSearchUIClassGlobal(value)
 }

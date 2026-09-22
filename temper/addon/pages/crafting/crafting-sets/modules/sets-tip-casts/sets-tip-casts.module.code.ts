@@ -74,7 +74,7 @@ export function asSetLangNamesOpt(value: unknown): SetLangNamesOpt {
   return value as SetLangNamesOpt
 }
 
-export type SetInfoPartMap = { [part: string]: LibSetsSetInfoPart }
+export type SetInfoPartMap = { [part: string]: SetsSetInfoPart }
 export function asSetInfoPartMap(value: unknown): SetInfoPartMap {
   return value as SetInfoPartMap
 }
