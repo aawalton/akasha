@@ -15,5 +15,3 @@ export function initSavedVar(this: void): undefined {
 
   S.asyncStallThreshold = threshold
 }
-
-globalThis.InitSavedVar = initSavedVar
