@@ -18,13 +18,7 @@ import {
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import { QueryErrorBoundary } from "akasha/design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
-import {
-  PagesUILink as Link,
-  usePagesUIRouter,
-} from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import { groupInventoryByType } from "akasha/temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts"
-import { partitionUnmanagedGuildBanks } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { decodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
@@ -34,71 +28,13 @@ import {
   applyCharacterMetadata,
   applyCompanionMetadata,
 } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
-import { OverallSummaryPanelCard } from "akasha/temper/web/modules/overall-summary-panel-card/overall-summary-panel-card.module.code.tsx"
 import { RecentCharactersCard } from "akasha/temper/web/modules/recent-characters-card/recent-characters-card.module.code.tsx"
 import { RecentCompanionsCard } from "akasha/temper/web/modules/recent-companions-card/recent-companions-card.module.code.tsx"
-import { useCompletionProgress } from "akasha/temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
-import { useInventory } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
-import { useManagedGuildBanks } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
-import { InventoryScopeNote } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-scope-note/inventory-scope-note.module.code.tsx"
-import { InventoryTypeSummaryPanelCard } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-summary-panel-card/inventory-summary-panel-card.module.code.tsx"
 import { Gamepad2 } from "lucide-react"
 import { Suspense, useMemo } from "react"
 
 const RECENT_BUILD_COUNT = 5
-
-function HomeCompletionCard() {
-  const router = usePagesUIRouter()
-  const { accountSummary, characterSummary, companionSummary } = useCompletionProgress(undefined)
-  return (
-    <OverallSummaryPanelCard
-      title={
-        <Link href="/completion" className="hover:text-accent">
-          Completion
-        </Link>
-      }
-      accountSummary={accountSummary}
-      characterSummary={characterSummary}
-      companionSummary={companionSummary}
-      onItemClick={(key) => router.push(key === "total" ? "/completion" : `/completion?tab=${key}`)}
-      subdued
-    />
-  )
-}
-
-function HomeInventoryCard() {
-  const userId = useUserId()
-  const { inventory: rawInventory, isLoading } = useInventory(userId)
-  const { managedSet } = useManagedGuildBanks()
-  const { inventory, excluded } = useMemo(
-    () =>
-      rawInventory
-        ? partitionUnmanagedGuildBanks(rawInventory, managedSet)
-        : { inventory: null, excluded: [] },
-    [rawInventory, managedSet]
-  )
-  const typeSummary = useMemo(
-    () => (inventory ? groupInventoryByType(inventory) : null),
-    [inventory]
-  )
-  const router = usePagesUIRouter()
-  if (isLoading) return <ListContentSkeleton showTabTitle={false} />
-  if (!typeSummary) return null
-  return (
-    <InventoryTypeSummaryPanelCard
-      title={
-        <Link href="/inventory" className="hover:text-accent">
-          Inventory
-        </Link>
-      }
-      summary={typeSummary}
-      onItemClick={() => router.push("/inventory?tab=type")}
-      scopeNote={<InventoryScopeNote excluded={excluded} includesCurrencies={false} />}
-      subdued
-    />
-  )
-}
 
 export function HomePageContent() {
   return (
@@ -185,12 +121,6 @@ function HomeDataContent() {
       {importedCharacters.length === 0 && <HomeGetStartedCard />}
       <RecentCharactersCard builds={decodedCharacters} />
       <RecentCompanionsCard builds={decodedCompanions} />
-      <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
-        <HomeCompletionCard />
-      </Suspense>
-      <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
-        <HomeInventoryCard />
-      </Suspense>
     </ResponsiveColumns>
   )
 }
