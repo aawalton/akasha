@@ -4,5 +4,6 @@ export const towerManaMax = {
   id: "01a0ca36-a2a7-7381-a64e-0a6495716083",
   type: "page-type/metric-derived",
   slug: "tower-mana-max",
+  title: "Most Mana",
   formula: {},
 } as const satisfies MetricDerived
