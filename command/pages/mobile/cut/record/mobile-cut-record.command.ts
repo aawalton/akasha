@@ -4,7 +4,7 @@ export const mobileCutRecord = {
   id: "01a0685d-ceae-7002-b932-ab750606b438",
   type: "page-type/command",
   slug: "mobile-cut-record",
-  definition: "the command filing what a TestFlight build already at Apple was cut from",
+  definition: "the command filing the commit of a TestFlight build already at Apple",
   code: "ts",
   test: "ts",
   decisions: [

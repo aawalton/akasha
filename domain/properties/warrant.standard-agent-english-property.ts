@@ -5,7 +5,7 @@ export const warrant = {
   type: "page-type/standard-agent-english-property",
   slug: "warrant",
   propertySlug: "warrant",
-  definition: "the general fact an act follows from",
+  definition: "the general fact behind an act",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

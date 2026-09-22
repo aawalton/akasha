@@ -4,7 +4,7 @@ export const graphAsking = {
   id: "01a04ff4-320c-7689-9d79-b3b0caa05ab1",
   type: "page-type/module",
   slug: "graph-asking",
-  definition: "what the graph is asked, and where each answer is read from",
+  definition: "what the graph is asked, and where each answer is read",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

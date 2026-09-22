@@ -4,7 +4,7 @@ export const symbol = {
   id: "01a081da-fded-7aea-81c2-ae80a9f08265",
   type: "page-type/lualib-helper",
   slug: "symbol",
-  definition: "the unique value a description is wrapped into",
+  definition: "the unique value wrapping a description",
   code: "ts",
   luaExport: "__TS__Symbol",
 } as const satisfies LualibHelper

@@ -5,7 +5,7 @@ export const fromPattern = {
   type: "page-type/text-property",
   slug: "from-pattern",
   propertySlug: "from-pattern",
-  definition: "a construction a banned term is written in",
+  definition: "a banned term's construction",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
