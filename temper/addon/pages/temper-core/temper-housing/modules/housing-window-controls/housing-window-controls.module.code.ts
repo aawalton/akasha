@@ -8,11 +8,17 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import {
+  paintSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 const wm = WINDOW_MANAGER
+
+const SEARCH_LEVEL: SurfaceLevel = 3
 
 interface SearchSlider extends Control {
   SetOrientation: (this: SearchSlider, orientation: number) => void
@@ -104,12 +110,7 @@ function createSearchBox(
     control,
     "ZO_SliderBackdrop"
   )
-  control.backdrop.SetCenterColor(
-    houseTravel.config.color.searchBackdrop.R,
-    houseTravel.config.color.searchBackdrop.G,
-    houseTravel.config.color.searchBackdrop.B,
-    houseTravel.config.color.searchBackdrop.A
-  )
+  paintSurface(control.backdrop, SEARCH_LEVEL)
   control.backdrop.SetEdgeColor(
     houseTravel.config.color.searchBackdropEdge.R,
     houseTravel.config.color.searchBackdropEdge.G,

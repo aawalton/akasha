@@ -10,8 +10,16 @@ import {
   controlsTree,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-build-casts/housing-build-casts.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import {
+  paintSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+const BODY_LEVEL: SurfaceLevel = 1
+
+const HEADER_LEVEL: SurfaceLevel = 2
 
 function nilWidth(this: void): number {
   return asNumber(undefined)
@@ -70,12 +78,7 @@ export function buildWindow(this: void): undefined {
     "ZO_SliderBackdrop"
   )
   header.backdrop = headerBackdrop
-  headerBackdrop.SetCenterColor(
-    config.color.backdrop.R,
-    config.color.backdrop.G,
-    config.color.backdrop.B,
-    config.color.backdrop.A
-  )
+  paintSurface(headerBackdrop, HEADER_LEVEL)
   headerBackdrop.SetEdgeColor(
     config.color.backdropEdge.R,
     config.color.backdropEdge.G,
@@ -118,12 +121,7 @@ export function buildWindow(this: void): undefined {
     "ZO_SliderBackdrop"
   )
   body.backdrop = bodyBackdrop
-  bodyBackdrop.SetCenterColor(
-    config.color.backdrop.R,
-    config.color.backdrop.G,
-    config.color.backdrop.B,
-    config.color.backdrop.A
-  )
+  paintSurface(bodyBackdrop, BODY_LEVEL)
   bodyBackdrop.SetEdgeColor(
     config.color.backdropEdge.R,
     config.color.backdropEdge.G,
