@@ -4,6 +4,6 @@ export const buyRuleCard = {
   id: "01a0636c-5d97-72db-98d0-8c886c670005",
   type: "page-type/module",
   slug: "buy-rule-card",
-  definition: "the card a reader edits one buy rule in",
+  definition: "the card a reader edits a buy rule in",
   code: "tsx",
 } as const satisfies Module

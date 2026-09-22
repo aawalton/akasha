@@ -4,6 +4,6 @@ export const inventoryRulesDescriptions = {
   id: "01a0636c-5d9b-7e6e-8126-0ea817bf001f",
   type: "page-type/module",
   slug: "inventory-rules-descriptions",
-  definition: "the sentence a reader is given for one rule",
+  definition: "the sentence a reader is given for a rule",
   code: "ts",
 } as const satisfies Module
