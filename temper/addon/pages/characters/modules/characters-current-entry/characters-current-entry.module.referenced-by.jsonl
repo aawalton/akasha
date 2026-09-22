@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-skill-points/characters-skill-points.module.code.ts"}
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment-daily-writs/characters-task-hud-enrichment-daily-writs.module.code.ts"}
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment/characters-task-hud-enrichment.module.code.ts"}
+{"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-story-zone-quests/characters-task-hud-story-zone-quests.module.code.ts"}
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"}
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-trait-research/characters-trait-research.module.code.ts"}
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts"}

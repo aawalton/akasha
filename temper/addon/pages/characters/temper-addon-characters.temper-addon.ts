@@ -70,6 +70,7 @@ export const temperAddonCharacters = {
     "module/characters-task-hud-full-completion",
     "module/characters-task-hud-rows",
     "module/characters-task-hud-state",
+    "module/characters-task-hud-story-zone-quests",
     "module/characters-task-hud-visibility",
     "module/characters-task-progress-resolver",
     "module/characters-task-progress-resolver-achievements",

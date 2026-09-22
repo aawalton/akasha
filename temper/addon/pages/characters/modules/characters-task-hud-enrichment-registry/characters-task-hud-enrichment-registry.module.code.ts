@@ -25,6 +25,10 @@ import type {
   SubRowColor,
   SubRowSpec,
 } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"
+import {
+  getStoryZoneQuestEnrichment,
+  isStoryZoneQuestTask,
+} from "akasha/temper/addon/pages/characters/modules/characters-task-hud-story-zone-quests/characters-task-hud-story-zone-quests.module.code.ts"
 import { getDungeonSetsForCurrentZone } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
 import {
   filterPledgesForCharacter,
@@ -204,6 +208,19 @@ export const ENRICHMENT_SELECTORS: readonly EnrichmentSelector[] = [
         : groupLabelSpecs(e.collectionName, e.unreadBooks, {
             current: e.knownBooks,
             total: e.totalBooks,
+          })
+    },
+  },
+  {
+    key: "storyZoneQuests",
+    matches: isStoryZoneQuestTask,
+    select: (): readonly SubRowSpec[] => {
+      const e = getStoryZoneQuestEnrichment()
+      return e === undefined
+        ? []
+        : groupLabelSpecs(e.zoneName, e.remainingQuests, {
+            current: e.completedQuests,
+            total: e.totalQuests,
           })
     },
   },

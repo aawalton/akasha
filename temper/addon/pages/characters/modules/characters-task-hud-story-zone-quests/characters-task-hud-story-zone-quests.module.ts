@@ -1,0 +1,20 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const charactersTaskHudStoryZoneQuests = {
+  id: "01a0c668-c0bf-7f02-b4ff-ef9773265644",
+  type: "page-type/module",
+  slug: "characters-task-hud-story-zone-quests",
+  definition:
+    "the story zone a character owes quest skill points in, named with every quest still to do there",
+  code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One zone is named at a time, so the player has one place to go.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A quest is named by the name the game gives it rather than by its number.",
+    },
+  ],
+} as const satisfies Module

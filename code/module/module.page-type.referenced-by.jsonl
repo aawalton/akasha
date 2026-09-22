@@ -2833,6 +2833,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-full-completion/characters-task-hud-full-completion.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-rows/characters-task-hud-rows.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-state/characters-task-hud-state.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-story-zone-quests/characters-task-hud-story-zone-quests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-visibility/characters-task-hud-visibility.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud/characters-task-hud.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-achievements/characters-task-progress-resolver-achievements.module.ts"}
@@ -6120,6 +6121,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-scribing-progress/completion-scribing-progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-skill-line-progress/completion-skill-line-progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-skill-points-progress/completion-skill-points-progress.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-story-zone-quests/completion-story-zone-quests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-account/completion-summary-account.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-companion/completion-summary-companion.module.ts"}

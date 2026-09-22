@@ -3599,6 +3599,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-scribing-sources/characters-scribing-sources.module.ts","id":"01a062ed-39c9-700c-9df3-7f4288c3c504"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-auto-complete/characters-task-auto-complete.module.ts","id":"01a06306-f94f-700b-8c39-f425d7ea4a81"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.ts","id":"01a062ee-f050-706b-865b-cca0db9bf255"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-story-zone-quests/characters-task-hud-story-zone-quests.module.ts","id":"01a0c668-c0bf-7f02-b4ff-ef9773265644"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-function-casts/table-function-casts.module.ts","id":"01a06052-2ca5-78e3-9cd6-62ac3cdd5bed"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-function-types/table-function-types.module.ts","id":"01a06052-2ca5-7438-a4c4-749daaf6f554"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-functions/table-functions.module.ts","id":"01a06052-2ca4-7874-a41d-3892986d9cdd"}
@@ -5361,6 +5362,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-quest-progress/completion-quest-progress.module.ts","id":"01a06358-4f7c-7da0-b597-157cb4358528"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-scope-rollup/completion-scope-rollup.module.ts","id":"01a06326-436a-75d2-8ece-d1941d997a46"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-skill-points-progress/completion-skill-points-progress.module.ts","id":"01a06121-f0d5-7142-b383-42a7e23ca0c3"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-story-zone-quests/completion-story-zone-quests.module.ts","id":"01a0c668-4d54-70f1-a583-dc8b1143b2fd"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-summary-account/completion-summary-account.module.ts","id":"01a063a1-6ec3-7070-a4c2-0e4e020a6407"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-summary-companion/completion-summary-companion.module.ts","id":"01a06124-14db-7fde-9ac1-6e23fae35a9d"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-summary/completion-summary.module.ts","id":"01a063a1-6ec2-7027-8d27-e1641844f7dc"}

@@ -61,6 +61,7 @@ export const temperPlayerCompletion = {
     "module/completion-scribing-progress",
     "module/completion-skill-line-progress",
     "module/completion-skill-points-progress",
+    "module/completion-story-zone-quests",
     "module/completion-subclassing-progress",
     "module/completion-summary",
     "module/completion-summary-account",

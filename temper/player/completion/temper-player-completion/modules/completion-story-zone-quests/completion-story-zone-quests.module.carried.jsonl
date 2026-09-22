@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The zone owed is the first story zone in release order that is short of its quests."}]}
+{"definition":"the story zone a character still owes quest skill points in"}
+{"id":"01a0c668-4d54-70f1-a583-dc8b1143b2fd"}
+{"slug":"completion-story-zone-quests"}
+{"test":"ts"}
+{"type":"page-type/module"}
