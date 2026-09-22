@@ -25,7 +25,6 @@ const NAMESPACE = alanwaltonWeb.namespace
 const APP_NAME = alanwaltonWeb.resourceName
 const SECRET_NAME = "alanwalton-secrets"
 const LOGIN_SECRET_NAME = "alanwalton-login-secrets"
-const S3_CREDS_SECRET_NAME = "alanwalton-s3-creds"
 const PACKAGE_PATH = "alan/web"
 
 const RESOURCE_LABELS = {
@@ -61,10 +60,6 @@ function webDeploymentYaml(): string {
       template: {
         metadata: {
           annotations: {
-            "checksum/s3-creds": placedSecretChecksum(S3_CREDS_SECRET_NAME, [
-              "access_key",
-              "secret_key",
-            ]),
             "checksum/secrets": placedSecretChecksum(SECRET_NAME),
           },
           labels: RESOURCE_LABELS,
@@ -100,19 +95,6 @@ function webDeploymentYaml(): string {
                   valueFrom: {
                     secretKeyRef: { name: LOGIN_SECRET_NAME, key: "HANDOVER_SIGNING_KEY" },
                   },
-                },
-                {
-                  name: "SEAWEEDFS_S3_ENDPOINT",
-                  value: "http://s3-gateway.seaweedfs.svc.cluster.local:8333",
-                },
-                { name: "SEAWEEDFS_BUCKET", value: "agent-sessions" },
-                {
-                  name: "SEAWEEDFS_ACCESS_KEY",
-                  valueFrom: { secretKeyRef: { name: S3_CREDS_SECRET_NAME, key: "access_key" } },
-                },
-                {
-                  name: "SEAWEEDFS_SECRET_KEY",
-                  valueFrom: { secretKeyRef: { name: S3_CREDS_SECRET_NAME, key: "secret_key" } },
                 },
               ],
               volumeMounts: orchestratorCacheVolumeMounts(),
