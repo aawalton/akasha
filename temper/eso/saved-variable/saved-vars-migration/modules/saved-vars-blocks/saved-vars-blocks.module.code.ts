@@ -82,15 +82,19 @@ export type AppendResult =
 export function appendGlobalToTarget(
   absorbedContent: string,
   absorbedGlobal: string,
-  targetContent: string
+  targetContent: string,
+  renamedTo?: string
 ): AppendResult {
   const block = extractTopLevelBlock(absorbedContent, absorbedGlobal)
   if (block === null) return { kind: "absorbed-global-absent" }
 
-  const alreadyThere = new RegExp(`^${escapeRegExp(absorbedGlobal)}[ \\t]*=`, "m")
+  const landsAs = renamedTo ?? absorbedGlobal
+  const alreadyThere = new RegExp(`^${escapeRegExp(landsAs)}[ \\t]*=`, "m")
   if (alreadyThere.test(targetContent)) return { kind: "already-appended" }
 
+  const landed =
+    renamedTo === undefined ? block : block.replace(assignmentOf(absorbedGlobal), `${renamedTo} =`)
   const eol = targetContent.includes("\r\n") ? "\r\n" : "\n"
   const base = targetContent.endsWith(eol) ? targetContent : `${targetContent}${eol}`
-  return { kind: "appended", content: `${base}${block}${eol}` }
+  return { kind: "appended", content: `${base}${landed}${eol}` }
 }
