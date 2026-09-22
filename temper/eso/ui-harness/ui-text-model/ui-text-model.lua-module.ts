@@ -24,8 +24,16 @@ export const uiTextModel = {
       statement: "A format that is no words is answered with no words.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The format an addon calls and the one the game builds are the same thing here.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No grammar the game applies to a filled slot is applied here.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No sentence is kept from one call to the next.",
     },
   ],
 } as const satisfies LuaModule

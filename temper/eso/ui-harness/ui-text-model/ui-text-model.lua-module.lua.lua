@@ -8,6 +8,10 @@ local MARK = "<<(.-)>>"
 
 local WHICH = "(%d+)$"
 
+function _G.zo_strformat(formatString, ...)
+  return _G.LocalizeString(formatString, ...)
+end
+
 function _G.LocalizeString(formatString, ...)
   if type(formatString) ~= "string" then return "" end
   local given = { ... }
