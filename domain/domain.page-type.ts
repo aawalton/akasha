@@ -104,7 +104,8 @@ export const domain = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A domain whose name is a word akasha writes states that word's part of speech.",
+      statement:
+        "A domain states its name's part of speech where akasha writes that word in the domain's sense.",
     },
   ],
   directives: [

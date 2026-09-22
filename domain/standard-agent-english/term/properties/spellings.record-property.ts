@@ -23,6 +23,11 @@ export const spellings = {
       decisionKind: "decision-kind/departure",
       statement: "A page stating nothing here is a page the grammar never looks a word up in.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page whose slug is a word that page does not define states no spelling for that word.",
+    },
   ],
   types: "ts",
 } as const satisfies RecordProperty
