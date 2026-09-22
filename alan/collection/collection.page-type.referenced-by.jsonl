@@ -19,7 +19,6 @@
 {"propertySlug":"extends-type","path":"story/chapter/chapter.page-type.ts","id":"01a0c990-31c3-78c4-8145-70d13440d89c"}
 {"propertySlug":"extends-type","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"extends-type","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
-{"propertySlug":"extends-type","path":"story/world/stories/played/chapters/story-chapter-played.page-type.ts","id":"01a064b4-46c9-7489-9817-d9dae65e7936"}
 {"propertySlug":"extends-type","path":"story/world/stories/played/turns/story-turn-played.page-type.ts","id":"01a064bc-8477-7bac-98ec-152da07077ce"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/book/alan-book.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/external/collection-external.page-type.types.ts"}
@@ -56,7 +55,6 @@
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/chapter/chapter.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/game/game.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/story.page-type.types.ts"}
-{"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/world/stories/played/turns/story-turn-played.page-type.types.ts"}
 {"propertySlug":"parts","path":"alan/alan.domain.ts","id":"01a05dfc-d883-7000-81e2-065c3cad4cec"}
 {"propertySlug":"person-access-serves","path":"person/access/pages/ki-page-type-ki-collection-template.person-access.ts","id":"01a05433-f104-7af1-9306-c61c5767839a"}
