@@ -4,7 +4,7 @@ export const destinationsLangSettingsRu00 = {
   id: "01a06269-2a2b-778e-885f-43f5773f0023",
   type: "page-type/module",
   slug: "destinations-lang-settings-ru-00",
-  definition: "a run of the destinations settings strings in Russian",
+  definition: "a set of the destinations settings strings in Russian",
   code: "ts",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const destinationsLangSettingsJf = {
   type: "page-type/module",
   slug: "destinations-lang-settings-jf",
   definition:
-    "the destinations settings strings in Japanese with English fallbacks, joined from its runs",
+    "the destinations settings strings in Japanese with English fallbacks, joined from its sets",
   code: "ts",
   decisions: [
     {
