@@ -30,7 +30,7 @@ export function checkboxEntry(
 }
 
 export function getMailSettingsContextMenu(this: void): undefined {
-  ClearCustomScrollableMenu()
+  TemperScrollableMenuClear()
   const settings = getMailSettings()
   if (settings.mailContextMenus !== true) {
     return

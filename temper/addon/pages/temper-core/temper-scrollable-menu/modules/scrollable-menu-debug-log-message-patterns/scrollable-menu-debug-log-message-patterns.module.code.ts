@@ -170,7 +170,7 @@ export const DEBUG_LOG_MESSAGE_PATTERNS: Record<number, string> = {
   [165]: "AddCustomScrollableMenuHeader-text: %s",
   [166]: "AddCustomScrollableMenuCheckbox-text: %s, checked: %s",
   [167]: "TemperScrollableMenuSetOptions - comboBoxContainer: %s, options: %s",
-  [168]: "ClearCustomScrollableMenu",
+  [168]: "TemperScrollableMenuClear",
   [169]: "AddCustomScrollableMenuEntries - contextMenuEntries: %s",
   [170]: "AddCustomScrollableMenu - entries: %s, options: %s",
   [171]: "ShowCustomScrollableMenu - controlToAnchorTo: %s, options: %s",

@@ -118,7 +118,7 @@ function clearCustomScrollableMenuImpl(this: void): unknown {
   setCustomScrollableMenuOptions(DEFAULT_COMBO_BOX_OPTIONS, undefined)
   return true
 }
-_G.ClearCustomScrollableMenu = clearCustomScrollableMenuImpl
+_G.TemperScrollableMenuClear = clearCustomScrollableMenuImpl
 const clearCustomScrollableMenu = clearCustomScrollableMenuImpl
 
 function addCustomScrollableMenuEntriesImpl(

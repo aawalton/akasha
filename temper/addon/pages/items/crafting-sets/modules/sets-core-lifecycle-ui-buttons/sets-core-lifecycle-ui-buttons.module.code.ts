@@ -155,7 +155,7 @@ function addUIButtons(this: void): undefined {
         tooltip: libPrefix + moreOptionsButtonTooltip,
         callback: () => {
           if (checkLSM() === true) {
-            ClearCustomScrollableMenu()
+            TemperScrollableMenuClear()
             AddCustomScrollableMenuEntry(tostring(localization.parentZone), () => {
               lib.OpenSetItemCollectionBrowserForCurrentZone(true)
             })

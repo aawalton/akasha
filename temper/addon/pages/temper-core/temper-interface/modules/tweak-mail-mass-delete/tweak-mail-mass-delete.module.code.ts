@@ -136,7 +136,7 @@ function isAnyMailInInbox(this: void): boolean {
 }
 
 export function getMailReceivedMassChangeContextMenu(this: void): undefined {
-  ClearCustomScrollableMenu()
+  TemperScrollableMenuClear()
   const settings = getMailSettings()
   if (settings.mailContextMenus !== true) {
     return

@@ -137,7 +137,7 @@ function addSkillTypeContextMenuEntry(
     return undefined
   }
   if (ctrl !== undefined) {
-    ClearCustomScrollableMenu(ctrl)
+    TemperScrollableMenuClear(ctrl)
     if (ctrl.enabled !== undefined) {
       setSkillLineTypeStatus(ctrl, ctrl.enabled)
       ShowCustomScrollableMenu(ctrl)

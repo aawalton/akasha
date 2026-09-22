@@ -85,7 +85,7 @@ function markAllNotificationsAsAcceptedOrDeclined(this: void, doAcceptAll: boole
 }
 
 function showMassHandlingNotificationsContextMenu(this: void): undefined {
-  ClearCustomScrollableMenu()
+  TemperScrollableMenuClear()
   if (notificationsMassHandlingContextMenuButton === undefined) {
     return
   }

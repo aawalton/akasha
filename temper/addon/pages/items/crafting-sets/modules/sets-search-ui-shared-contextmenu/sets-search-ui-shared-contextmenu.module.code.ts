@@ -68,7 +68,7 @@ sharedClass.ShowSettingsMenu = function (
     return
   }
 
-  ClearCustomScrollableMenu()
+  TemperScrollableMenuClear()
   AddCustomScrollableMenuHeader(
     `${settingsIconText} ${GetString(SI_CUSTOMERSERVICESUBMITFEEDBACKSUBCATEGORIES1305)}`
   )
@@ -295,14 +295,14 @@ sharedClass.OnSearchEditBoxContextMenu = function (
   let doShowMenu = false
   let anyEntryAddedAlready = false
 
-  ClearCustomScrollableMenu()
+  TemperScrollableMenuClear()
 
   if (editBoxControl.GetText() !== "") {
-    ClearCustomScrollableMenu()
+    TemperScrollableMenuClear()
     anyEntryAddedAlready = true
     AddCustomScrollableMenuEntry(GetString(SI_GAMEPAD_MAIL_SEND_CLEAR), () => {
       this.SetSearchEditBoxValue(editBoxControl, "")
-      ClearCustomScrollableMenu()
+      TemperScrollableMenuClear()
     })
     AddCustomScrollableMenuDivider()
     doShowMenu = true
@@ -313,18 +313,18 @@ sharedClass.OnSearchEditBoxContextMenu = function (
     const searchHistoryOfSearchMode = searchHistory?.[searchType]
     if (searchHistoryOfSearchMode !== undefined && searchHistoryOfSearchMode.length > 0) {
       if (!anyEntryAddedAlready) {
-        ClearCustomScrollableMenu()
+        TemperScrollableMenuClear()
       }
       for (const [, searchTerm] of ipairs(searchHistoryOfSearchMode)) {
         AddCustomScrollableMenuEntry(searchTerm, () => {
           this.SetSearchEditBoxValue(editBoxControl, searchTerm)
-          ClearCustomScrollableMenu()
+          TemperScrollableMenuClear()
         })
       }
       AddCustomScrollableMenuDivider()
       AddCustomScrollableMenuEntry(clearSearchHistoryStr, () => {
         clearSearchHistory(searchType)
-        ClearCustomScrollableMenu()
+        TemperScrollableMenuClear()
       })
       return true
     }

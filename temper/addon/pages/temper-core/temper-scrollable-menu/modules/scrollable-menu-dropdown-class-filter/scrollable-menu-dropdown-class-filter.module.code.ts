@@ -77,7 +77,7 @@ const dropdownClass = asDropdownClass(classes.dropdownClass)
 let preventCustomScrollableContextMenuHide:
   | typeof TemperScrollableMenuPreventContextMenuHide
   | undefined
-let clearCustomScrollableMenu: typeof ClearCustomScrollableMenu | undefined
+let clearCustomScrollableMenu: typeof TemperScrollableMenuClear | undefined
 
 function setTextSearchEditBoxText(
   this: void,
@@ -249,7 +249,7 @@ dropdownClass.ResetFilters = function (
   const comboBox = asLsmCastIsContextMenuBooleanUndefined(this.m_comboBox)
   if (comboBox !== undefined) {
     if (!comboBox.isContextMenu) {
-      clearCustomScrollableMenu = clearCustomScrollableMenu ?? ClearCustomScrollableMenu
+      clearCustomScrollableMenu = clearCustomScrollableMenu ?? TemperScrollableMenuClear
       clearCustomScrollableMenu()
     }
   }
@@ -277,7 +277,7 @@ dropdownClass.Sort = function (
   const comboBox = asLsmCastIsContextMenuBooleanMSortOrderNumberSetSortsI(this.m_comboBox)
   if (comboBox !== undefined) {
     if (!comboBox.isContextMenu) {
-      clearCustomScrollableMenu = clearCustomScrollableMenu ?? ClearCustomScrollableMenu
+      clearCustomScrollableMenu = clearCustomScrollableMenu ?? TemperScrollableMenuClear
       clearCustomScrollableMenu()
     }
     if (sortUp === undefined) {

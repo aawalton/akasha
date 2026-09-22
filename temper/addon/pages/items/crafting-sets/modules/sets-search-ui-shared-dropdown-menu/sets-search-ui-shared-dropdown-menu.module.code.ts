@@ -33,7 +33,7 @@ export function showDropdownContextMenu(
     this.multiSelectFilterDropdowns !== undefined &&
     ZO_IsElementInNumericallyIndexedTable(this.multiSelectFilterDropdowns, dropdownControl)
   ) {
-    ClearCustomScrollableMenu()
+    TemperScrollableMenuClear()
     const numEntries = comboBox.GetNumItems()
     const numSelectedEntries = comboBox.GetNumSelectedEntries()
     const notAllSelected = numSelectedEntries < numEntries

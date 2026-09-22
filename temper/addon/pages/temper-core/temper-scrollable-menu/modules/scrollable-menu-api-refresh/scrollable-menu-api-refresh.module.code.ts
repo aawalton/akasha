@@ -253,7 +253,7 @@ function buttonGroupDefaultContextMenu(
       },
     ]
 
-    ClearCustomScrollableMenu()
+    TemperScrollableMenuClear()
     const [addedEntriesIgnored] = AddCustomScrollableMenuEntries(buttonGroupSetAll)
     void addedEntriesIgnored
     ShowCustomScrollableMenu(undefined, undefined)

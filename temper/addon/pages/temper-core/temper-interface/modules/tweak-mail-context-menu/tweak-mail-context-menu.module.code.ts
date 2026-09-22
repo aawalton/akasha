@@ -49,7 +49,7 @@ function onMouseUpAtMailEditBox(
   upInside: boolean
 ): boolean | undefined {
   if (upInside === true && button === MOUSE_BUTTON_INDEX_RIGHT) {
-    ClearCustomScrollableMenu()
+    TemperScrollableMenuClear()
     settingsForLSMContextMenu =
       settingsForLSMContextMenu ?? ZO_ShallowTableCopy(LSM_CONTEXT_MENU_DEFAULT_OPTIONS)
     const locSettings = getMailSettings()

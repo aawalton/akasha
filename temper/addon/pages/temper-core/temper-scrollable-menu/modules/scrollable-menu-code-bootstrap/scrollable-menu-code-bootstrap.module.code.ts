@@ -91,7 +91,7 @@ const svConstants = lib.SVConstans
 function hideCurrentlyOpenedLSMAndContextMenu(this: void): undefined {
   const openMenu = asLsmCastIsDropdownVisibleThisUnknownBooleanHideDropdow(lib.openMenu)
   if (openMenu?.IsDropdownVisible()) {
-    clearCustomScrollableMenu = clearCustomScrollableMenu ?? ClearCustomScrollableMenu
+    clearCustomScrollableMenu = clearCustomScrollableMenu ?? TemperScrollableMenuClear
     clearCustomScrollableMenu()
     openMenu.HideDropdown()
   }
@@ -332,7 +332,7 @@ function onAddonLoaded(this: void, _eventId: number, name: string): undefined {
       _bypassHideSceneConfirmationReason?: unknown
     ): undefined {
       if (!inUIMode) {
-        clearCustomScrollableMenu = clearCustomScrollableMenu ?? ClearCustomScrollableMenu
+        clearCustomScrollableMenu = clearCustomScrollableMenu ?? TemperScrollableMenuClear
         clearCustomScrollableMenu()
       }
     })

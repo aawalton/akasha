@@ -77,7 +77,7 @@ function asLsmCastLocalContextMenuLike3(value: unknown): LsmCastLocalContextMenu
   return value as LsmCastLocalContextMenuLike3
 }
 
-let clearCustomScrollableMenu: typeof ClearCustomScrollableMenu | undefined
+let clearCustomScrollableMenu: typeof TemperScrollableMenuClear | undefined
 
 function closeContextMenuAndSuppressClickCheck(
   this: void,
@@ -97,7 +97,7 @@ function closeContextMenuAndSuppressClickCheck(
       asLsmCastRecordStringUnknown(gContextMenu).m_enableMultiSelect === true)
   ) {
     if (!isMouseOverOwningDropdown && !clickedEntryBelongsToContextMenu) {
-      clearCustomScrollableMenu = clearCustomScrollableMenu ?? ClearCustomScrollableMenu
+      clearCustomScrollableMenu = clearCustomScrollableMenu ?? TemperScrollableMenuClear
       clearCustomScrollableMenu()
       lib.preventerVars.suppressNextOnEntryMouseUp = true
 
@@ -112,7 +112,7 @@ function closeContextMenuAndSuppressClickCheck(
     return true
   } else {
     if (!isMouseOverOwningDropdown && !clickedEntryBelongsToContextMenu) {
-      clearCustomScrollableMenu = clearCustomScrollableMenu ?? ClearCustomScrollableMenu
+      clearCustomScrollableMenu = clearCustomScrollableMenu ?? TemperScrollableMenuClear
       clearCustomScrollableMenu()
       lib.preventerVars.suppressNextOnEntryMouseUp = true
 

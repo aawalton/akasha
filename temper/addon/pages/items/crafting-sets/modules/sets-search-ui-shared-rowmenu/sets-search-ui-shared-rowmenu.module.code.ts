@@ -82,7 +82,7 @@ sharedClass.ShowRowContextMenu = function (
       : searchEntryText
   const setNameWithSetId = `${setName} [${tos(setId)}]`
 
-  ClearCustomScrollableMenu()
+  TemperScrollableMenuClear()
 
   AddCustomScrollableMenuHeader(setNameWithSetId)
   AddCustomScrollableMenuEntry(

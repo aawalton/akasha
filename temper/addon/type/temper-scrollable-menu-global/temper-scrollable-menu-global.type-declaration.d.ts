@@ -17,7 +17,7 @@ declare const TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_CHECKBOX: number
 
 declare const TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_SUBMENU: number
 
-declare const ClearCustomScrollableMenu: (this: void, owner?: unknown) => undefined
+declare const TemperScrollableMenuClear: (this: void, owner?: unknown) => undefined
 
 declare var AddCustomScrollableMenuEntry: (
   this: void,
