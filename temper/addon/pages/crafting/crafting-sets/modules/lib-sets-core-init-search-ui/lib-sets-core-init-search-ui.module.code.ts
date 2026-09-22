@@ -2,7 +2,6 @@ import { asPresent } from "akasha/temper/addon/pages/crafting/crafting-sets/modu
 import { asLibSlots } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 import { asSearchUIControl } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 import { libSetsSearchUIKeyboardTopLevelOnInitialized } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-keyboard-search-handlers/lib-sets-search-ui-keyboard-search-handlers.module.code.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"

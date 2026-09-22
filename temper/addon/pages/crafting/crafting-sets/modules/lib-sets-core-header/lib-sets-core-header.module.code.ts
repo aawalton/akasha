@@ -5,7 +5,6 @@ import {
 import { asScrollableMenuHandleOpt } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 import "akasha/temper/addon/type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"

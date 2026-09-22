@@ -19,7 +19,6 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-settype-ids/lib-sets-const-settype-ids.module.code.ts"
 import { SET_TYPES_TO_NAME } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-settype-names/lib-sets-const-settype-names.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import { LIBSETS_TABLEKEY_TABLENAME } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"

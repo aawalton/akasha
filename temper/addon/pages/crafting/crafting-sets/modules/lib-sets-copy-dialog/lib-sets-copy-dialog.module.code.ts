@@ -6,7 +6,6 @@ import {
 import { strLensplit } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-copy-text-split/lib-sets-copy-text-split.module.code.ts"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-copy-dialog-shapes/lib-sets-copy-dialog-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"

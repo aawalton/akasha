@@ -4,7 +4,6 @@ import {
   asTypeToSetIdsTable,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 import { safeReturnAPItable } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"

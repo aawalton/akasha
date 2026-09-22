@@ -17,7 +17,6 @@ import { asEquipTypeBoolMap } from "akasha/temper/addon/pages/crafting/crafting-
 import { safeReturnAPItable } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import {
   LIBSETS_SET_ITEMID_TABLE_VALUE_NOTOK,
   LIBSETS_SET_ITEMID_TABLE_VALUE_OK,
