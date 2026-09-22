@@ -39,5 +39,6 @@ export const rynStandardAgentEnglish = {
     "Which word or construction is put to Alan next is chosen here rather than asked of Alan.",
     "A construction is put to Alan only where the phrases it admits cannot be restated plainly in the grammar as it is.",
     "The next item is one thing the first definition the grammar refuses depends on, put to Alan as that case.",
+    "Every turn opens with the definition the grammar refuses first and the words it waits on.",
   ],
 } as const satisfies Initiative
