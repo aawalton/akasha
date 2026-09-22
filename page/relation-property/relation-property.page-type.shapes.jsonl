@@ -55,7 +55,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"feature-request-product","propertySlug":"product","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"contributor","unique":null,"uniquePropertySlug":null,"slug":"feature-request-proposer","propertySlug":"proposer","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"module-property-group","unique":null,"uniquePropertySlug":null,"slug":"file-written-by","propertySlug":"written-by","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"strength-exercise-implement","unique":null,"uniquePropertySlug":null,"slug":"fitness-equipment-covers","propertySlug":"covers","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"graph-attribute","unique":null,"uniquePropertySlug":null,"slug":"followed-attribute","propertySlug":"attribute","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-rule-template","unique":null,"uniquePropertySlug":null,"slug":"from-template","propertySlug":"from-template","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"game-attributes","propertySlug":"attributes","fileName":null,"folderName":null}

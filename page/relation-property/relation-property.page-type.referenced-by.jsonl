@@ -56,7 +56,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/style/appearance-experiment/properties/experiment-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/track/daily/day/properties/messaged-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-value.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-covers.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/equipment.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/value/health/fitness/strength/log/properties/day.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/value/health/fitness/strength/log/properties/exercise.relation-property.ts"}

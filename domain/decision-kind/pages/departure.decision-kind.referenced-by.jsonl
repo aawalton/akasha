@@ -1173,7 +1173,7 @@
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/equipment/fitness-equipment.page-type.ts","id":"01a06834-ca86-76cb-a54a-6f86a5225afc"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-available.boolean-property.ts","id":"01a06865-7f45-728c-9ab5-6435379d69d3"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-configuration.select-property.ts","id":"01a06865-7f45-7b38-8b71-89af2d19a5a6"}
-{"propertySlug":"decision-kind","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-covers.relation-property.ts","id":"01a09338-8296-7d00-8ec3-c16e1350135b"}
+{"propertySlug":"decision-kind","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-covers.multi-relation-property.ts","id":"01a09338-8296-7d00-8ec3-c16e1350135b"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-loads.number-property.ts","id":"01a06865-7f45-7d1f-b0db-1e4af78cdf9c"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/flexibility/log/flexibility-log.page-type.ts","id":"01a06558-36e9-75e2-bcf3-ce91fd6e945b"}
 {"propertySlug":"decision-kind","path":"alan/value/health/fitness/selection-policy/selection-policy.page-type.ts","id":"01a06838-7a9d-7d0a-8e41-674ebea29caf"}

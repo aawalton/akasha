@@ -13,5 +13,5 @@
 {"propertySlug":"import","fileName":"strength-exercise-implement.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/implement/pages/medicine-ball.strength-exercise-implement.ts"}
 {"propertySlug":"import","fileName":"strength-exercise-implement.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/implement/pages/other.strength-exercise-implement.ts"}
 {"propertySlug":"parts","path":"alan/value/health/fitness/strength/exercise/strength-exercise.page-type.ts","id":"01a0657e-2bbf-7c1f-a05c-77af77f54cbf"}
-{"propertySlug":"target-page-type","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-covers.relation-property.ts","id":"01a09338-8296-7d00-8ec3-c16e1350135b"}
+{"propertySlug":"target-page-type","path":"alan/value/health/fitness/equipment/properties/fitness-equipment-covers.multi-relation-property.ts","id":"01a09338-8296-7d00-8ec3-c16e1350135b"}
 {"propertySlug":"target-page-type","path":"alan/value/health/fitness/strength/exercise/properties/equipment.relation-property.ts","id":"01a0657e-2bbf-71e9-85bc-e347194f49ca"}
