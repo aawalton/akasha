@@ -5,7 +5,7 @@ export const tcoYears = {
   type: "page-type/number-property",
   slug: "tco-years",
   propertySlug: "tco-years",
-  definition: "how many years the cost of owning the car is worked out over",
+  definition: "how many years the cost of owning the car covers",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

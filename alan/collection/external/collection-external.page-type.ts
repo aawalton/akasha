@@ -4,7 +4,7 @@ export const collectionExternal = {
   id: "01a063de-2c60-701b-ab74-7e3436f4abe3",
   type: "page-type/page-type",
   slug: "collection-external",
-  definition: "a collection a provider outside akasha is the record of",
+  definition: "a collection recorded by a provider outside akasha",
   parts: [
     "calendar-date-property/last-synced-at",
     "module/external-identity-reading",

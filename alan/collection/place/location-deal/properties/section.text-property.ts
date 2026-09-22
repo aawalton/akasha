@@ -5,7 +5,7 @@ export const section = {
   type: "page-type/text-property",
   slug: "section",
   propertySlug: "section",
-  definition: "the heading the source lists the offer under",
+  definition: "the offer's heading in the source",
   maxLength: 20,
   nameFormat: null,
   types: "ts",

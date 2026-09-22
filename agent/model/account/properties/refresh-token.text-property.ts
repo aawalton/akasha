@@ -5,7 +5,7 @@ export const refreshToken = {
   type: "page-type/text-property",
   slug: "refresh-token",
   propertySlug: "refresh-token",
-  definition: "the token a fresh access token is asked for with",
+  definition: "the token that renews an access token",
   maxLength: 4000,
   nameFormat: null,
   types: "ts",

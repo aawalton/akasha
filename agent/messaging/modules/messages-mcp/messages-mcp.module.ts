@@ -4,8 +4,7 @@ export const messagesMcp = {
   id: "01a069cc-ae10-7ea6-a404-37258b7a6cca",
   type: "page-type/module",
   slug: "messages-mcp",
-  definition:
-    "the MCP server a seat launch runs, joining the seat to the channel its messages arrive on",
+  definition: "the MCP server a seat launch runs, joining the seat to its messages' channel",
   code: "ts",
   decisions: [
     {

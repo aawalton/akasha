@@ -4,7 +4,7 @@ export const supervisorAgentCreate = {
   id: "01a0683e-3dbe-7009-b4d5-f3784313307e",
   type: "page-type/module",
   slug: "supervisor-agent-create",
-  definition: "the identity a newly seated agent is minted with",
+  definition: "a newly seated agent's identity",
   code: "ts",
   decisions: [
     {

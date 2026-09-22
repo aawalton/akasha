@@ -5,7 +5,7 @@ export const ownRemaining = {
   type: "page-type/computed-property",
   slug: "own-remaining",
   propertySlug: "own-remaining",
-  definition: "how much of the collection itself is left to work through",
+  definition: "how much of the collection itself is left",
   holds: "number",
   code: "ts",
   types: "ts",

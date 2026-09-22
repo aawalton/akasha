@@ -4,7 +4,7 @@ export const seatSpawnNameDecide = {
   id: "01a0686d-9d5e-7011-9662-a35bf698b8f6",
   type: "page-type/module",
   slug: "seat-spawn-name-decide",
-  definition: "whether what a starting seat states spells a name it may be minted under",
+  definition: "whether what a starting seat states spells a name that may be minted",
   code: "ts",
   test: "ts",
   decisions: [

@@ -4,7 +4,7 @@ export const subagentPageNaming = {
   id: "01a095ed-9005-70e5-8d03-654f10141de7",
   type: "page-type/module",
   slug: "subagent-page-naming",
-  definition: "the slug and path a subagent's page is named by, and the seat a slug is under",
+  definition: "a subagent's page slug and path, and a slug's seat",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

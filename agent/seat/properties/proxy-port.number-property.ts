@@ -5,7 +5,7 @@ export const proxyPort = {
   type: "page-type/number-property",
   slug: "proxy-port",
   propertySlug: "port",
-  definition: "the port a seat reaches its model through",
+  definition: "a seat's port to its model",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
