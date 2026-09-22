@@ -35,6 +35,10 @@ export const bannedTerm = {
       decisionKind: "decision-kind/departure",
       statement: "A sense this page does not name is a sense akasha still writes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sense an agent alone can tell apart names no pattern here.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
