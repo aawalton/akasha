@@ -1,4 +1,4 @@
-import "akasha/temper/addon/type/lib-sets-api/lib-sets-api.type-declaration.d.ts"
+import "akasha/temper/addon/type/sets-api/sets-api.type-declaration.d.ts"
 
 export function asUnknown(value: boolean): unknown {
   return value as unknown

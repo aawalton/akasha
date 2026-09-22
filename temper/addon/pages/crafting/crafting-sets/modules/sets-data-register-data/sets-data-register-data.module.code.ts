@@ -18,7 +18,7 @@ import { SETS_OF_NEWER_API_VERSION } from "akasha/temper/addon/pages/crafting/cr
 import { SPECIAL_BONUS_SETS } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-gen-special-bonus-sets/sets-gen-special-bonus-sets.module.code.ts"
 import { ZONE_IDS_OF_NEWER_API_VERSION } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-gen-zone-ids-of-newer-api-version/sets-gen-zone-ids-of-newer-api-version.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets-api/lib-sets-api.type-declaration.d.ts"
+import "akasha/temper/addon/type/sets-api/sets-api.type-declaration.d.ts"
 import {
   SETS_TABLEKEY_SETITEMIDS,
   SETS_TABLEKEY_SETITEMIDS_NO_SETID,
