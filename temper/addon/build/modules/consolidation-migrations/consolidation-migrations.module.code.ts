@@ -547,16 +547,4 @@ export const CONSOLIDATION_MIGRATIONS = [
       renamedTo: "TemperDebugLoggerLog",
     },
   },
-  {
-    mode: "rename-in-place",
-    runFor: "Temper",
-    fileBase: "Temper",
-    renames: [
-      [/^LibChatMessageSettings\s*=/m, "TemperChatMessageSettings ="],
-      [/^LibChatMessageHistory\s*=/m, "TemperChatMessageHistory ="],
-      [/^LibScrollableMenu_SavedVars\s*=/m, "TemperScrollableMenu_SavedVars ="],
-      [/^LibDebugLoggerSettings\s*=/m, "TemperDebugLoggerSettings ="],
-      [/^LibDebugLoggerLog\s*=/m, "TemperDebugLoggerLog ="],
-    ],
-  },
 ] as const satisfies readonly ConsolidationMigration[]
