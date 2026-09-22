@@ -13,6 +13,7 @@ import { z } from "zod"
 const Q_MAX_LEN = 200
 
 const RESERVED_VIEW_PARAMS = new Set([
+  "view",
   "filters",
   "sorts",
   "groups",

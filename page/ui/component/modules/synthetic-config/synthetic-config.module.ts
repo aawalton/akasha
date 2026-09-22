@@ -6,4 +6,10 @@ export const syntheticConfig = {
   slug: "synthetic-config",
   definition: "a view configuration built for a listing that states none of its own",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The parameter naming which view is shown narrows the listing by nothing.",
+    },
+  ],
 } as const satisfies Module
