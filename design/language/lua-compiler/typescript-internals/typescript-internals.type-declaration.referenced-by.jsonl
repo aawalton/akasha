@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"check/modules/audit-listening/audit-listening.module.code.ts"}
 {"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"code/editor/extension/modules/activation/activation.module.code.ts"}
 {"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"code/editor/extension/modules/terminal-pids/terminal-pids.module.code.ts"}
-{"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"command/modules/stopping/command-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"design/interface/primitive/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/array-entries/array-entries.lualib-helper.code.ts"}
 {"propertySlug":"import","fileName":"typescript-internals.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/delegated-yield/delegated-yield.lualib-helper.code.ts"}
