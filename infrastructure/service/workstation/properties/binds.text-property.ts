@@ -5,7 +5,7 @@ export const binds = {
   type: "page-type/text-property",
   slug: "binds",
   propertySlug: "binds",
-  definition: "a host name a service listens on",
+  definition: "a service's host name",
   maxLength: 253,
   nameFormat: null,
   decisions: [

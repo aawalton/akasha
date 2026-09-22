@@ -5,7 +5,7 @@ export const authorityCertificate = {
   type: "page-type/file-property",
   slug: "authority-certificate",
   propertySlug: "authority-certificate",
-  definition: "the certificate an authority signs with, and is recognised by",
+  definition: "the certificate with which an authority signs and by which it is recognised",
   extensions: ["pem"],
   fileName: "ca.crt",
   generated: true,

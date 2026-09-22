@@ -4,7 +4,7 @@ export const identity = {
   id: "01a05c69-e870-7637-b745-5f768a4c4a67",
   type: "page-type/domain",
   slug: "identity",
-  definition: "what a page kept in a file is known by",
+  definition: "what names a page kept in a file",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "identity" },
     { partOfSpeech: "part-of-speech/noun", spelling: "identities" },

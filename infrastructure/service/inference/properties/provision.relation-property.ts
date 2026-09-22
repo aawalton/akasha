@@ -5,7 +5,7 @@ export const provision = {
   type: "page-type/relation-property",
   slug: "provision",
   propertySlug: "provision",
-  definition: "the script that builds the environment a service runs in",
+  definition: "the script that builds a service's environment",
   targetPageType: "page-type/shell-script",
   decisions: [
     {

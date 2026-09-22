@@ -4,7 +4,7 @@ export const tickDeadline = {
   id: "01a06885-0bab-7000-97bd-58c9925eb768",
   type: "page-type/module",
   slug: "tick-deadline",
-  definition: "the ceiling a single tick of a long-running service runs under",
+  definition: "the ceiling on a single tick of a long-running service",
   code: "ts",
   test: "ts",
   decisions: [

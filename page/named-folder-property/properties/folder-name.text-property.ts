@@ -5,7 +5,7 @@ export const folderName = {
   type: "page-type/text-property",
   slug: "folder-name",
   propertySlug: "folder-name",
-  definition: "the name a property's folder is under",
+  definition: "a property's folder name",
   maxLength: 100,
   nameFormat: null,
   decisions: [

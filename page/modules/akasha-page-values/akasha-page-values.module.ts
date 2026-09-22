@@ -5,7 +5,7 @@ export const akashaPageValues = {
   type: "page-type/module",
   slug: "akasha-page-values",
   definition:
-    "the values an akasha page declares, in the shape the query engine reads a markdown page in",
+    "the values an akasha page declares, in the shape the query engine gives a markdown page",
   code: "ts",
   test: "ts",
   decisions: [

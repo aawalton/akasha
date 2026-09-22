@@ -5,7 +5,7 @@ export const extendsType = {
   type: "page-type/relation-property",
   slug: "extends-type",
   propertySlug: "extends",
-  definition: "a type a type takes its properties from",
+  definition: "a type that gives a type its properties",
   targetPageType: "page-type/page-type",
   decisions: [
     {

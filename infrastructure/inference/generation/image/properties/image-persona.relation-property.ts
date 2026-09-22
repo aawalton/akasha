@@ -5,7 +5,7 @@ export const imagePersona = {
   type: "page-type/relation-property",
   slug: "image-persona",
   propertySlug: "persona",
-  definition: "the persona a picture is drawn of",
+  definition: "a picture's persona",
   targetPageType: "page-type/persona",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const wants = {
   type: "page-type/text-property",
   slug: "wants",
   propertySlug: "wants",
-  definition: "a unit this unit asks for without depending on",
+  definition: "a unit this unit asks to run without depending on it",
   maxLength: 100,
   nameFormat: null,
   decisions: [

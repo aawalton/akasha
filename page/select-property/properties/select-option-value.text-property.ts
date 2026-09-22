@@ -5,7 +5,7 @@ export const selectOptionValue = {
   type: "page-type/text-property",
   slug: "select-option-value",
   propertySlug: "value",
-  definition: "the value a color line is for",
+  definition: "a color line's value",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

@@ -5,7 +5,7 @@ export const onlyOn = {
   type: "page-type/select-property",
   slug: "only-on",
   propertySlug: "only-on",
-  definition: "the kind of machine the file is placed on",
+  definition: "the kind of machine holding the file",
   values: ["linux", "macos", "any"],
   types: "ts",
 } as const satisfies SelectProperty

@@ -4,7 +4,7 @@ export const infrastructure = {
   id: "01a0658b-0f02-735b-af6a-28559398ee59",
   type: "page-type/domain",
   slug: "infrastructure",
-  definition: "what the system runs on",
+  definition: "the machines and daemons under the system",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "infrastructure" }],
   parts: [
     "domain/analysis-complexity",
