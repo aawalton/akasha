@@ -20,5 +20,9 @@ export const setsCoreLifecycleLoaded = {
       decisionKind: "decision-kind/departure",
       statement: "A debug scan left running across a reload holds back the rest of the load.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The add-on's load calls this rather than this listening for that load itself.",
+    },
   ],
 } as const satisfies Module

@@ -111,4 +111,6 @@ function onLibraryLoaded(this: void, _event: number, name?: string): undefined {
   }
 }
 
-EM.RegisterForEvent(MAJOR + "_EVENT_ADD_ON_LOADED", EVENT_ADD_ON_LOADED, onLibraryLoaded)
+export function startSetsLibrary(this: void): undefined {
+  onLibraryLoaded(EVENT_ADD_ON_LOADED, ADDON_NAME)
+}

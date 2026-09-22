@@ -1,3 +1,4 @@
+import { startSetsLibrary } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-lifecycle-loaded/sets-core-lifecycle-loaded.module.code.ts"
 import { ACCOUNT_INIT } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-account-init/craft-account-init.module.code.ts"
 import type { CharacterData } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-char-init/craft-char-init.module.code.ts"
 import { CHAR_INIT } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-char-init/craft-char-init.module.code.ts"
@@ -100,6 +101,8 @@ import "akasha/temper/eso/type/eso-world-map-pins/eso-world-map-pins.type-declar
 import "akasha/temper/addon/type/temper-hud-global/temper-hud-global.type-declaration.d.ts"
 
 export function onAddOnLoaded(this: void): undefined {
+  startSetsLibrary()
+
   CALLBACK_MANAGER.RegisterCallback(CB_UPDATE_PLAYER, updatePlayer)
   CALLBACK_MANAGER.RegisterCallback(CB_ADD_RESEARCH_ITEM, addResearchItem)
   CALLBACK_MANAGER.RegisterCallback(CB_UPDATE_PANEL_ICON, updatePanelIcon)
