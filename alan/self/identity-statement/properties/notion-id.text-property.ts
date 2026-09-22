@@ -5,7 +5,7 @@ export const notionId = {
   type: "page-type/text-property",
   slug: "notion-id",
   propertySlug: "notion-id",
-  definition: "the Notion page this statement was imported from",
+  definition: "this statement's Notion page",
   maxLength: 50,
   nameFormat: null,
   types: "ts",

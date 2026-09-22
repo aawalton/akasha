@@ -5,7 +5,7 @@ export const spotifyAccountClientId = {
   type: "page-type/text-property",
   slug: "spotify-account-client-id",
   propertySlug: "client-id",
-  definition: "what names the application a call is made by",
+  definition: "what names the application making a call",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

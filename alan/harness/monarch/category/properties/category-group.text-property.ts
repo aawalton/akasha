@@ -5,7 +5,7 @@ export const categoryGroup = {
   type: "page-type/text-property",
   slug: "category-group",
   propertySlug: "category-group",
-  definition: "the heading Monarch files a category under",
+  definition: "the heading under which Monarch files a category",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

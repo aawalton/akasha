@@ -4,7 +4,7 @@ export const songMatching = {
   id: "01a0b706-3edc-7c6a-9152-707fe1316ff6",
   type: "page-type/module",
   slug: "song-matching",
-  definition: "the song a released title is a recording of",
+  definition: "the song a released title records",
   code: "ts",
   test: "ts",
   decisions: [

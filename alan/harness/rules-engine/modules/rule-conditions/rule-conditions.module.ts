@@ -4,7 +4,7 @@ export const ruleConditions = {
   id: "01a0657b-9adc-7004-9d71-1576f12eb0cf",
   type: "page-type/module",
   slug: "rule-conditions",
-  definition: "the fields a rule set declares, and the conditions a rule's match is made of",
+  definition: "the fields a rule set declares, and a rule's match conditions",
   code: "ts",
   decisions: [
     {

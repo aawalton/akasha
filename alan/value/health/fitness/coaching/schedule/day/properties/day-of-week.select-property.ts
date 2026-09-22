@@ -5,7 +5,7 @@ export const dayOfWeek = {
   type: "page-type/select-property",
   slug: "day-of-week",
   propertySlug: "day-of-week",
-  definition: "which day of the week this one falls on",
+  definition: "which day of the week this one is",
   values: ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
   types: "ts",
 } as const satisfies SelectProperty

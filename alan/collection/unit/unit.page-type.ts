@@ -4,7 +4,7 @@ export const unit = {
   id: "01a063de-2c60-7014-9620-56bbc19efcd1",
   type: "page-type/page-type",
   slug: "unit",
-  definition: "what a length is counted in",
+  definition: "a measure of length",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "unit" },
     { partOfSpeech: "part-of-speech/noun", spelling: "units" },

@@ -5,7 +5,7 @@ export const amazonOrderNumber = {
   type: "page-type/text-property",
   slug: "amazon-order-number",
   propertySlug: "amazon-order-number",
-  definition: "the Amazon order a transaction paid for",
+  definition: "a transaction's Amazon order",
   maxLength: 40,
   nameFormat: null,
   types: "ts",

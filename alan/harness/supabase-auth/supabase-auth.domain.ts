@@ -4,7 +4,7 @@ export const supabaseAuth = {
   id: "01a05c6d-3507-7082-9e71-8c024f532b00",
   type: "page-type/domain",
   slug: "supabase-auth",
-  definition: "the account this workstation acts for",
+  definition: "this workstation's account",
 
   parts: ["module/user-id"],
   decisions: [

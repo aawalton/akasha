@@ -5,7 +5,7 @@ export const groups = {
   type: "page-type/multi-relation-property",
   slug: "groups",
   propertySlug: "groups",
-  definition: "the groups a reading is drawn in",
+  definition: "a reading's groups",
   targetPageType: "page-type/readout-group",
   types: "ts",
 } as const satisfies MultiRelationProperty

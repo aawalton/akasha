@@ -5,7 +5,7 @@ export const relationshipDepositRelationship = {
   type: "page-type/relation-property",
   slug: "relationship-deposit-relationship",
   propertySlug: "relationship-deposit-relationship",
-  definition: "the person it was put into",
+  definition: "a deposit's person",
   targetPageType: "page-type/relationship",
   types: "ts",
 } as const satisfies RelationProperty

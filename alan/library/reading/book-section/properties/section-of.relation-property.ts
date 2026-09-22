@@ -5,7 +5,7 @@ export const sectionOf = {
   type: "page-type/relation-property",
   slug: "section-of",
   propertySlug: "section-of",
-  definition: "the collection a section is an instalment of",
+  definition: "a section's collection",
   targetPageType: "page-type/collection",
   decisions: [
     {

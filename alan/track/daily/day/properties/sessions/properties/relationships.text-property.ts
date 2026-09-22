@@ -5,7 +5,7 @@ export const relationships = {
   type: "page-type/text-property",
   slug: "relationships",
   propertySlug: "relationships",
-  definition: "the people a stretch of time was spent with",
+  definition: "the people sharing a stretch of time",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
   decisions: [

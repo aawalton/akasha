@@ -4,7 +4,7 @@ export const buildInputSources = {
   id: "01a05cee-e560-7116-bb78-4e76e90508fe",
   type: "page-type/module",
   slug: "build-input-sources",
-  definition: "the two repo-and-paths pairs a mobile build's inputs sit in",
+  definition: "the two repo-and-paths pairs holding a mobile build's inputs",
   code: "ts",
   decisions: [
     {
