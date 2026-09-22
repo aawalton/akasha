@@ -3,12 +3,17 @@ import { changeMechanical } from "akasha/change/mechanical/change-mechanical.pag
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
 import { moveFileCode } from "akasha/change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.ts"
+import { changeMechanicalFolder } from "akasha/change/mechanical/folder/change-mechanical-folder.page-type.ts"
+import { moveFolder } from "akasha/change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.ts"
 import {
   type Answer,
   gathered,
   refusing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { claimedIn } from "akasha/change/modules/page-claiming/page-claiming.module.code.ts"
+import {
+  claimedIn,
+  foldersClaimedIn,
+} from "akasha/change/modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { referencesAt } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
@@ -16,6 +21,8 @@ import { referencesAt } from "akasha/page/modules/referencing/page-referencing.m
 const MOVE_FILE = `${changeMechanicalFile.slug}/${moveFile.slug}` as const
 
 const MOVE_FILE_CODE = `${changeMechanical.slug}/${moveFileCode.slug}` as const
+
+const MOVE_FOLDER = `${changeMechanicalFolder.slug}/${moveFolder.slug}` as const
 
 const CODE = new Set([".ts", ".tsx"])
 
@@ -41,11 +48,19 @@ export function carriedIn(beside: readonly string[], page: string): readonly str
   ]
 }
 
-function besideIn(world: World, at: string): readonly string[] | string {
+type Beside = {
+  readonly files: readonly string[]
+  readonly folders: readonly string[]
+}
+
+function besideIn(world: World, at: string): Beside | string {
   try {
     const value = pageIn(world, at)
     if (value === null) return `\`${at}\` names no page, so no page is carried`
-    return claimedIn(world, at, value)
+    return {
+      files: claimedIn(world, at, value),
+      folders: foldersClaimedIn(world, at, value),
+    }
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
     return `${why}, so the files beside \`${at}\` were not worked out`
@@ -60,9 +75,15 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (typeof beside === "string") return refusing(beside)
   const carried: Answer[] = []
   let seen = world
-  for (const one of carriedIn(beside, given.from)) {
+  for (const one of carriedIn(beside.files, given.from)) {
     if (seen.bodyOf(one) === null) continue
     const said = await reach(seen, addressFor(one), { from: one, to: landingFor(one, given.to) })
+    if (said.said.refused !== null) return said.said
+    carried.push(said.said)
+    seen = said.world
+  }
+  for (const one of beside.folders) {
+    const said = await reach(seen, MOVE_FOLDER, { from: one, to: landingFor(one, given.to) })
     if (said.said.refused !== null) return said.said
     carried.push(said.said)
     seen = said.world
