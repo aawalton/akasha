@@ -8,7 +8,7 @@ export const changePagePageProperty = {
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition:
-    "the whole value of one property of one page stated anew, by the mechanical change fitting it",
+    "the whole value of a property of a page stated anew, by the mechanical change fitting it",
   code: "ts",
   test: "ts",
   decisions: [

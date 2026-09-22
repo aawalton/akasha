@@ -7,7 +7,7 @@ export const changePagePagePropertyRelation = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "one relation a page states pointed at another page",
+  definition: "a relation a page states pointed at another page",
   code: "ts",
   test: "ts",
   decisions: [

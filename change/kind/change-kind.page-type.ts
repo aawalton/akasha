@@ -4,7 +4,7 @@ export const changeKind = {
   id: "01a05e11-d3f8-72af-b104-6cdd1255b0eb",
   type: "page-type/page-type",
   slug: "change-kind",
-  definition: "which sort one change is",
+  definition: "which sort a change is",
   parts: [
     "boolean-property/readers-owe-reading",
     "boolean-property/runs-checks",

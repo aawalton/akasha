@@ -8,7 +8,7 @@ export const movePropertyValue = {
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition:
-    "one value carried into place in the list a page property holds, judged by the checks a landing runs",
+    "a value carried into place in the list a page property holds, judged by the checks a landing runs",
   code: "ts",
   test: "ts",
   decisions: [

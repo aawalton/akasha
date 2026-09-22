@@ -7,7 +7,7 @@ export const removePropertyFromPageType = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "one page property taken off one page type",
+  definition: "a page property taken off a page type",
   code: "ts",
   test: "ts",
   decisions: [

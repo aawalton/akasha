@@ -7,7 +7,7 @@ export const changeFileContentCode = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "one passage of one code body replaced, with the imports that body names judged",
+  definition: "a passage of a code body replaced, with the imports that body names judged",
   code: "ts",
   test: "ts",
   decisions: [
