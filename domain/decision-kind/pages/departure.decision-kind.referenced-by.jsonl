@@ -2888,6 +2888,7 @@
 {"propertySlug":"decision-kind","path":"page/access/modules/file-page-type-config/file-page-type-config.module.ts","id":"01a05bd6-c52f-7e97-a8ea-067913e34725"}
 {"propertySlug":"decision-kind","path":"page/access/modules/file-property-defs/file-property-defs.module.ts","id":"01a05bd6-c530-72bb-9046-ba72f58fad9b"}
 {"propertySlug":"decision-kind","path":"page/access/modules/file-read/file-read.module.ts","id":"01a05bd6-c530-7caa-8cc1-55059f494d6f"}
+{"propertySlug":"decision-kind","path":"page/access/modules/file-rows/file-rows.module.ts","id":"01a05bd6-c530-79f9-8daf-bf756d19f77e"}
 {"propertySlug":"decision-kind","path":"page/access/modules/file-shape/file-shape.module.ts","id":"01a05bd6-c531-7062-bc98-1b9ed3fd2560"}
 {"propertySlug":"decision-kind","path":"page/access/modules/file-write-many/file-write-many.module.ts","id":"01a09b4d-f89b-72e9-89d7-6913bc242d45"}
 {"propertySlug":"decision-kind","path":"page/access/modules/file-write-narrow/file-write-narrow.module.ts","id":"01a07691-e739-761d-a0ad-befe1dac9d94"}

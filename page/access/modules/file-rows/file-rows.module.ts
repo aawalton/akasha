@@ -6,4 +6,15 @@ export const fileRows = {
   slug: "file-rows",
   definition: "a file-backed page as a row",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row states its own page type as an address rather than as a bare slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That address is read off the row rather than off the value the row carries.",
+    },
+  ],
 } as const satisfies Module

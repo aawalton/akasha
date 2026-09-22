@@ -31,6 +31,12 @@ const SETTLED_BY_ROW: ReadonlySet<string> = new Set([
   "pageTypeSlug",
 ])
 
+const TYPE = "type"
+
+const PAGE_TYPE = "page-type"
+
+const QUALIFIED_BY = "/"
+
 function isLifted(key: string): key is LiftedKey {
   return Object.hasOwn(LIFTED_COLUMN, key)
 }
@@ -135,6 +141,7 @@ export function buildRawPageRows({
       const type = typeOf.get(key)
       attributes[key] = type === undefined ? rawValue : coerceByType(rawValue, type)
     }
+    attributes[TYPE] = `${PAGE_TYPE}${QUALIFIED_BY}${pageTypeSlug}`
     const column = (name: string): string | null => lifted.get(name) ?? null
     return {
       id: idOfFilePage(column("id"), row.at ?? `${pageTypeSlug}:${JSON.stringify(row.values)}`),
