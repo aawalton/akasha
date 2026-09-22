@@ -50,5 +50,10 @@ export const auditCommit = {
       statement:
         "A rule is handed in here, and a refusal it gives back names the path it was read at.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A body is given as bytes as well as text, and a check judging bytes takes the bytes.",
+    },
   ],
 } as const satisfies Module

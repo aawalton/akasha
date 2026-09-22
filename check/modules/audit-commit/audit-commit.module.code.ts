@@ -1,3 +1,5 @@
+import { readFileSync, statSync } from "node:fs"
+import { join } from "node:path"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   classifyExtension,
@@ -26,6 +28,7 @@ export type Commit = Paged & {
   readonly root: string
   readonly paths: readonly string[]
   readonly read: (path: string) => string | null
+  readonly bytes: (path: string) => Uint8Array | null
 }
 
 const PATHS_FROM = "--"
@@ -85,6 +88,13 @@ export function overEachBody(commit: Commit, saying: Saying): readonly Judged[] 
   return overEachIn(commit, bodied, saying)
 }
 
+function bytesOf(root: string, path: string): Uint8Array | null {
+  const at = join(root, path)
+  const held = statSync(at, { throwIfNoEntry: false })
+  if (held === undefined || !held.isFile()) return null
+  return readFileSync(at)
+}
+
 export function commitIn(root: string): Commit {
   const reading = readingIn(root)
   const held = new Map<string, Value | null>()
@@ -100,6 +110,7 @@ export function commitIn(root: string): Commit {
     root,
     paths: filesIn(root),
     read: reading.read,
+    bytes: (path) => bytesOf(root, path),
     pageOf,
     index: answeringOver(reading, pageOf),
   }
