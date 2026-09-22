@@ -39,7 +39,7 @@ export const worldMechanic = {
     "text-property/claimed-by-slug",
     "text-property/effect-quote",
     "multi-relation-property/evolves-from-slugs",
-    "text-property/evolves-to-slugs",
+    "multi-relation-property/evolves-to-slugs",
     "text-property/from-slug",
     "text-property/holder-quote",
     "text-property/holder-slug",
@@ -60,7 +60,7 @@ export const worldMechanic = {
       maxCount: null,
     },
     {
-      pageProperty: "text-property/evolves-to-slugs",
+      pageProperty: "multi-relation-property/evolves-to-slugs",
       required: false,
       many: true,
       maxCount: null,

@@ -3542,7 +3542,7 @@
 {"propertySlug":"decision-kind","path":"story/world/designs/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/aliases.text-property.ts","id":"01a06558-a991-7721-9c7a-fb59e452d286"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-from-slugs.multi-relation-property.ts","id":"01a0655d-ac15-7900-8205-60508a002f32"}
-{"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-to-slugs.text-property.ts","id":"01a0655d-ac15-78e3-a569-51e32648b88c"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-to-slugs.multi-relation-property.ts","id":"01a0655d-ac15-78e3-a569-51e32648b88c"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/references.page-property-entry.ts","id":"01a06558-a991-78a4-abf8-48597f34d759"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"decision-kind","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}

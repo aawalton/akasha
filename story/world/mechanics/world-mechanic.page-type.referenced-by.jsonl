@@ -38,3 +38,4 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/titles/world-title.page-type.types.ts"}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/properties/evolves-from-slugs.multi-relation-property.ts","id":"01a0655d-ac15-7900-8205-60508a002f32"}
+{"propertySlug":"target-page-type","path":"story/world/mechanics/properties/evolves-to-slugs.multi-relation-property.ts","id":"01a0655d-ac15-78e3-a569-51e32648b88c"}

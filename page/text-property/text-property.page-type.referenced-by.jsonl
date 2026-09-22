@@ -473,7 +473,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/mechanics/properties/chapter-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/mechanics/properties/claimed-by-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/mechanics/properties/effect-quote.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/mechanics/properties/evolves-to-slugs.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/mechanics/properties/from-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/mechanics/properties/holder-quote.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/mechanics/properties/holder-slug.text-property.ts"}

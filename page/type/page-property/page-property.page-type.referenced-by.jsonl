@@ -163,7 +163,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/turn/properties/turn-rungs.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/aliases.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/evolves-from-slugs.multi-relation-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/evolves-to-slugs.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/evolves-to-slugs.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/named-events/properties/event-aliases.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/stories/read/properties/external-tags.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/addon/properties/eso-interfaces.multi-relation-property.types.ts"}
