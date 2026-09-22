@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"sheet-reading.module.code.ts","path":"story/game/entity/modules/entity-filing/entity-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"sheet-reading.module.code.ts","path":"story/game/entity/modules/sheet-reading/sheet-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"sheet-reading.module.code.ts","path":"story/game/modules/world-filing/world-filing.module.code.ts"}
+{"propertySlug":"import","fileName":"sheet-reading.module.code.ts","path":"story/game/quest/modules/quest-filing/quest-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"sheet-reading.module.code.ts","path":"story/game/turn/modules/turn-filing/turn-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"sheet-reading.module.code.ts","path":"story/game/turn/modules/turn-state/turn-state.module.code.ts"}
 {"propertySlug":"parts","path":"story/game/entity/game-entity.page-type.ts","id":"01a0c631-b09e-76b0-8b33-5a7ff9d75891"}

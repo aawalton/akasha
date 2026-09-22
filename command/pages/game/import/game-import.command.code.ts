@@ -30,6 +30,7 @@ import { entities } from "akasha/story/game/properties/entities.file-property.ts
 import { gameCharacters } from "akasha/story/game/properties/game-characters.file-property.ts"
 import { states } from "akasha/story/game/properties/states.file-property.ts"
 import { towerFloors } from "akasha/story/game/properties/tower-floors.file-property.ts"
+import { everyQuestFiled } from "akasha/story/game/quest/modules/quest-filing/quest-filing.module.code.ts"
 import { everyTurnFiled } from "akasha/story/game/turn/modules/turn-filing/turn-filing.module.code.ts"
 
 const NAMED = [gameArgument] as const
@@ -84,7 +85,9 @@ export function gatheredAt(where: Where): Gathered {
   if ("refused" in held) return held
   const turned = everyTurnFiled(where, held.answered)
   if ("refused" in turned) return turned
-  return { answered: [...worldly.answered, ...turned.answered] }
+  const quested = everyQuestFiled(where, held.answered)
+  if ("refused" in quested) return quested
+  return { answered: [...worldly.answered, ...turned.answered, ...quested.answered] }
 }
 
 async function imported(
