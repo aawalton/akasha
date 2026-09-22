@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/loremaster.role.ts"}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/operator.role.ts"}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/persona-craft.role.ts"}
+{"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/recorder.role.ts"}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/scenewright.role.ts"}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/worker.role.ts"}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}

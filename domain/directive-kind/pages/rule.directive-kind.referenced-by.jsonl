@@ -4,6 +4,7 @@
 {"propertySlug":"directive-kind","path":"agent/role/pages/handler.role.ts","id":"01a053c5-8d2a-7e24-96b7-b979c198e039"}
 {"propertySlug":"directive-kind","path":"agent/role/pages/interviewer.role.ts","id":"01a053c5-8d2b-7d78-bf41-4e1a994fe61f"}
 {"propertySlug":"directive-kind","path":"agent/role/pages/persona-craft.role.ts","id":"01a053c5-8d2c-7876-8481-ef02e6ed86e0"}
+{"propertySlug":"directive-kind","path":"agent/role/pages/recorder.role.ts","id":"01a0c966-c065-78ca-a683-4dedb588c622"}
 {"propertySlug":"directive-kind","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"directive-kind","path":"agent/seat/capability/seat-capability.domain.ts","id":"01a0658d-c92f-7b82-8a05-aaac4557d9a3"}
 {"propertySlug":"directive-kind","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}

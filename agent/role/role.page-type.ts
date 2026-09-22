@@ -20,6 +20,7 @@ export const role = {
     "role/loremaster",
     "role/operator",
     "role/persona-craft",
+    "role/recorder",
     "role/scenewright",
     "role/worker",
   ],
