@@ -38,7 +38,7 @@ import { collectLuaFiles } from "akasha/temper/eso/path/modules/lua-files/lua-fi
 
 const NAMED = [codeRootArgument, stageArgument, esoRootArgument]
 
-const GENERATED_DIR_REL = "temper/build-deploy-checks"
+const GENERATED_DIR_REL = "temper/addon/build/deploy-check/modules"
 
 const STEM = "eso-base-game-string-ids"
 
@@ -182,7 +182,7 @@ function staged(done: string[], taken: Taken): Answer {
     .map((one) => one.slug)
   if (arrived.length > 0 || put.goneRels.length > 0) {
     report.push(
-      "the run count changed, so the temper-build-deploy-checks domain page's part slugs no longer match what is there; nothing here writes that list",
+      "the run count changed, so the temper-addon-deploy-check domain page's part slugs no longer match what is there; nothing here writes that list",
       ...arrived.map((slug) => `  add     module/${slug}`),
       ...put.goneRels.map((rel) => `  remove  ${rel}`)
     )
