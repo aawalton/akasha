@@ -12,7 +12,7 @@ export const metricId = {
     { decisionKind: "decision-kind/gap", statement: "This property is a relation to a metric." },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Eighteen of the metrics named here are no pages.",
+      statement: "Twenty-one of the metrics named here are no pages.",
     },
     {
       decisionKind: "decision-kind/constraint",

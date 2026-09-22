@@ -17,6 +17,10 @@ export const relationshipLevel = {
       statement: "A level is read whether that level is stored as a number or as text.",
     },
     {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A level here is a bare number and its page's name is `level-` joined to it.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement: "This property is a relation to a closeness level.",
     },

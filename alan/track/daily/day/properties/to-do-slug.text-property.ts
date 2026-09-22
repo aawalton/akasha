@@ -10,10 +10,6 @@ export const toDoSlug = {
   nameFormat: "name-format/lower-kebab-case",
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
-      statement: "This property is a relation to a to-do.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "A round outlives its to-do.",
     },
