@@ -60,6 +60,10 @@ export const changeShadowTree = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A folder left out is answered beside the page claiming that folder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A folder claimed by a page under the folder walked answers its files instead.",
     },
     {

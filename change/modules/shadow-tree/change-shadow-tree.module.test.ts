@@ -57,6 +57,8 @@ const ROUTES_AT_TYPES = `${CLAIMED}/types`
 
 const ROUTES_CODE = `${ROUTES_AT_TYPES}/routes.ts`
 
+const LEFT_OUT = { folder: ROUTES_AT_TYPES, claimant: ALPHA_PAGE }
+
 const ROUTES_BODY = "export const routes = 1\n"
 
 const HELD: Readonly<Record<string, string>> = {
@@ -147,7 +149,7 @@ test("a folder claimed by a page outside the folder is among the folders left ou
   put(root, ROUTES_CODE, ROUTES_BODY)
   const face = faceIn(root)
 
-  expect(treeUnentered(root, CLAIMED, face, NOTHING)).toEqual([ROUTES_AT_TYPES])
+  expect(treeUnentered(root, CLAIMED, face, NOTHING)).toEqual([LEFT_OUT])
   expect(treeClaimed(root, CLAIMED, face, NOTHING)).toEqual([])
 })
 
@@ -157,7 +159,7 @@ test("a folder the answer takes every file away from is left out of that answer"
   const face = faceIn(root)
   const said = stating([{ kind: "remove", path: ROUTES_CODE }])
 
-  expect(treeUnentered(root, CLAIMED, face, NOTHING)).toEqual([ROUTES_AT_TYPES])
+  expect(treeUnentered(root, CLAIMED, face, NOTHING)).toEqual([LEFT_OUT])
   expect(treeUnentered(root, CLAIMED, face, said)).toEqual([])
 })
 

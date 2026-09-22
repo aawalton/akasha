@@ -19,6 +19,7 @@ import {
   treeTracked,
   treeUnder,
   treeUnentered,
+  type Unentered,
 } from "akasha/change/modules/shadow-tree/change-shadow-tree.module.code.ts"
 import type { Changes as AgentChanges } from "akasha/change/runner/pages/agent-change-running/agent-change-running.change-runner.addressed.ts"
 import type { Changes as MechanicalChanges } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
@@ -62,7 +63,7 @@ export type World = {
   readonly textOf: (path: string) => string | null
   readonly bodyOf: BodyOf
   readonly under: (folder: string) => readonly string[]
-  readonly unentered?: (folder: string) => readonly string[]
+  readonly unentered?: (folder: string) => readonly Unentered[]
   readonly claimed?: (folder: string) => readonly string[]
   readonly tracked?: (folder: string) => readonly string[] | null
   readonly names?: Naming

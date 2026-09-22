@@ -8,6 +8,7 @@ import {
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { repointed } from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
 import { carrying, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import type { Unentered } from "akasha/change/modules/shadow-tree/change-shadow-tree.module.code.ts"
 import { survivingSaid } from "akasha/change/modules/spelling-outliving/spelling-outliving.module.code.ts"
 import {
   EVERY_KIND,
@@ -83,17 +84,19 @@ function namingFolder(
   return spellersIn(said, searchable(world), folder, known)
 }
 
+function belongingSaid(left: readonly Unentered[]): string {
+  return left.map((one) => `\`${one.folder}\` belongs to \`${one.claimant}\``).join(", ")
+}
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (given.from === given.to) {
     return refusing(`\`${given.to}\` is the folder those files sit under`)
   }
   const left = world.unentered?.(given.from) ?? []
   if (left.length > 0) {
-    const named = namesDrawn(left)
-    const holds = left.length === 1 ? "holds" : "hold"
     return refusing(
-      `${named} ${holds} a file no move carries, so \`${given.from}\` is left holding it` +
-        ` — take it away before the move`
+      `${belongingSaid(left)}, which this move leaves behind, so \`${given.from}\` is not carried` +
+        ` — move that page with the folder, or take the folder away, before the move`
     )
   }
   const under = underneath(world, given.from)

@@ -111,6 +111,10 @@ export const moveFolder = {
       statement: "Such a folder is taken away before the move rather than carried or emptied here.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The refusal names that folder and the page claiming it.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No file this change carries none of is taken away by this change.",
     },

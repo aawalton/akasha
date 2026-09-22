@@ -84,9 +84,18 @@ export function treeUnder(
   return underOver(had, over, folder)
 }
 
+export type Unentered = {
+  readonly folder: string
+  readonly claimant: string
+}
+
 type Folders = {
   readonly carried: readonly string[]
-  readonly left: readonly string[]
+  readonly left: readonly Unentered[]
+}
+
+function leftIn(held: ReadonlyMap<string, string>): readonly Unentered[] {
+  return [...held.keys()].sort().map((folder) => ({ folder, claimant: held.get(folder) ?? "" }))
 }
 
 function foldersIn(root: string, folder: string, index: Answering, over: Answer): Folders {
@@ -94,7 +103,7 @@ function foldersIn(root: string, folder: string, index: Answering, over: Answer)
   const claimed = claimingIn(index, laid)
   const holds = (one: string): boolean => underOver(filesThere(root, one), over, one).length > 0
   const carried = new Set<string>()
-  const left = new Set<string>()
+  const left = new Map<string, string>()
   const entered = new Set<string>([folder])
   const at = join(root, folder)
   const asked = (one: string): boolean => {
@@ -104,7 +113,7 @@ function foldersIn(root: string, folder: string, index: Answering, over: Answer)
       return true
     }
     if (beneath(folder, claimant)) carried.add(one)
-    else if (holds(one)) left.add(one)
+    else if (holds(one)) left.set(one, claimant)
     return false
   }
   if (existsSync(at))
@@ -117,7 +126,7 @@ function foldersIn(root: string, folder: string, index: Answering, over: Answer)
     if (!beneath(folder, one) || !entered.has(folderOf(one))) continue
     asked(one)
   }
-  return { carried: [...carried].sort(), left: [...left].sort() }
+  return { carried: [...carried].sort(), left: leftIn(left) }
 }
 
 export function treeUnentered(
@@ -125,7 +134,7 @@ export function treeUnentered(
   folder: string,
   index: Answering,
   over: Answer
-): readonly string[] {
+): readonly Unentered[] {
   return foldersIn(root, folder, index, over).left
 }
 
