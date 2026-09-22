@@ -4,6 +4,6 @@ export const treasureBuildData = {
   id: "01a061d5-d0be-7560-b662-9a6018b10e91",
   type: "page-type/module",
   slug: "treasure-build-data",
-  definition: "the pin rows turned into the lookups an addon asks by",
+  definition: "the pin rows turned into an addon's lookups",
   code: "ts",
 } as const satisfies Module

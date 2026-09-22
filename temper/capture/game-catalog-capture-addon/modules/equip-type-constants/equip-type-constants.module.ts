@@ -5,7 +5,7 @@ export const equipTypeConstants = {
   type: "page-type/module",
   slug: "equip-type-constants",
   definition:
-    "the equipment slot numbers the game client has, each under the name the client spells it with",
+    "the equipment slot numbers the game client has, each under the client's own spelling",
   code: "ts",
   decisions: [
     {

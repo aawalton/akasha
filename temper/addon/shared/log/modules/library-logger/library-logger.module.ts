@@ -4,7 +4,7 @@ export const libraryLogger = {
   id: "01a090e5-9062-788e-8317-a0e2f1dee9b7",
   type: "page-type/module",
   slug: "library-logger",
-  definition: "the log a library writes to under the identifier that library goes by",
+  definition: "the log a library writes under its own identifier",
   code: "ts",
   decisions: [
     {
