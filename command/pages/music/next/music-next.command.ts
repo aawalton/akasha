@@ -22,15 +22,20 @@ export const musicNext = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A track reaches its artist through the song that track records.",
+      statement: "A track reaches its artist through a release carrying that track.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A track naming no song is left out of the catalogue.",
+      statement:
+        "The release read for a track is the first by slug that carries it and has an artist.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The artist of the song a track records settles nothing about whose track it is.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A track stating no Spotify id on any release is left out of the catalogue.",
+      statement: "A track on no such release is left out of the catalogue.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,8 +43,7 @@ export const musicNext = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The id answered is the one Spotify gives on the first release by slug carrying it.",
+      statement: "The id answered is the id Spotify gives the track on the release read for it.",
     },
     {
       decisionKind: "decision-kind/departure",

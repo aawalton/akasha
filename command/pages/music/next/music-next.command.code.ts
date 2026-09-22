@@ -41,6 +41,10 @@ const RELEASE = "release"
 
 const EXTERNAL_ID = "externalId"
 
+const PART_OF = "partOfCollections"
+
+const ARTIST_UNDER = "artist/"
+
 const URI_FROM = "spotify:track:"
 
 type Held = Record<string, unknown>
@@ -108,48 +112,70 @@ function songIn(held: Held): CatalogSong {
   }
 }
 
-export function idIn(held: Held): string | undefined {
+export type Carriage = {
+  readonly artist: string
+  readonly spotifyId: string
+}
+
+function artistOfRelease(held: Held): string | undefined {
+  for (const one of list(held, PART_OF)) {
+    if (one.startsWith(ARTIST_UNDER)) return one.slice(ARTIST_UNDER.length)
+  }
+  return undefined
+}
+
+export function releasesIn(root: string): ReadonlyMap<string, string> {
+  const artistOf = new Map<string, string>()
+  for (const one of valuesOfType(root, RELEASE)) {
+    const slug = text(one.value, "slug")
+    const artist = artistOfRelease(one.value)
+    if (slug !== undefined && artist !== undefined) artistOf.set(slug, artist)
+  }
+  return artistOf
+}
+
+export function carriageIn(held: Held, artistOf: ReadonlyMap<string, string>): Carriage | null {
   let earliest: string | undefined
-  let found: string | undefined
+  let found: Carriage | null = null
   for (const one of recordsIn(held[CARRIED_BY])) {
     const named = textIn(one, RELEASE)
-    const id = textIn(one, EXTERNAL_ID)
-    if (named === null || id === null) continue
+    const spotifyId = textIn(one, EXTERNAL_ID)
+    if (named === null || spotifyId === null) continue
     const release = slugOf(named)
+    const artist = artistOf.get(release)
+    if (artist === undefined) continue
     if (earliest === undefined || release < earliest) {
       earliest = release
-      found = id
+      found = { artist, spotifyId }
     }
   }
   return found
 }
 
 function trackIn(held: Held, artistOf: ReadonlyMap<string, string>): readonly CatalogTrack[] {
+  const carried = carriageIn(held, artistOf)
+  if (carried === null) return []
   const named = text(held, SONG)
-  if (named === undefined) return []
-  const song = slugOf(named)
-  const artist = artistOf.get(song)
-  const spotifyId = idIn(held)
-  if (artist === undefined || artist === "" || spotifyId === undefined) return []
   const graded = gradeOf(held)
   return [
     {
       slug: text(held, "slug") ?? "",
       title: text(held, "title") ?? "",
-      artist,
-      song,
-      spotifyId,
+      artist: carried.artist,
+      song: named === undefined ? "" : slugOf(named),
+      spotifyId: carried.spotifyId,
       ...(graded === undefined ? {} : { grade: graded }),
     },
   ]
 }
 
 export function catalogIn(root: string): Catalog {
-  const artists = valuesOfType(root, ARTIST).map((one) => artistIn(one.value))
-  const songs = valuesOfType(root, SONG).map((one) => songIn(one.value))
-  const artistOf = new Map(songs.map((one): readonly [string, string] => [one.slug, one.artist]))
-  const tracks = valuesOfType(root, TRACK).flatMap((one) => trackIn(one.value, artistOf))
-  return { artists, songs, tracks }
+  const artistOf = releasesIn(root)
+  return {
+    artists: valuesOfType(root, ARTIST).map((one) => artistIn(one.value)),
+    songs: valuesOfType(root, SONG).map((one) => songIn(one.value)),
+    tracks: valuesOfType(root, TRACK).flatMap((one) => trackIn(one.value, artistOf)),
+  }
 }
 
 export function selectionOf(exploration: Exploration): Selection {

@@ -3,10 +3,11 @@ import type { Catalog } from "akasha/alan/music/choosing/modules/music-explorati
 import { selectNextExploration } from "akasha/alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
+  carriageIn,
   catalogIn,
   gradeAmiss,
-  idIn,
   musicNext,
+  releasesIn,
   saidOf,
   selectionOf,
   undeclaredIn,
@@ -118,16 +119,44 @@ test("every track in the catalogue names an artist and a Spotify id", () => {
   expect(catalog.tracks.every((one) => !one.song.includes("/"))).toBe(true)
 })
 
-test("the id answered is the one on the first release by slug carrying the track", () => {
-  expect(
-    idIn({
-      carriedBy: [
-        { release: "release/zed", externalId: "zed-id" },
-        { release: "release/abe", externalId: "abe-id" },
-      ],
-    })
-  ).toBe("abe-id")
-  expect(idIn({})).toBeUndefined()
+test("the release read is the first by slug that carries the track and has an artist", () => {
+  const artistOf = new Map([
+    ["zed", "zed-artist"],
+    ["abe", "abe-artist"],
+  ])
+  const carried = {
+    carriedBy: [
+      { release: "release/zed", externalId: "zed-id" },
+      { release: "release/abe", externalId: "abe-id" },
+    ],
+  }
+  expect(carriageIn(carried, artistOf)).toEqual({ artist: "abe-artist", spotifyId: "abe-id" })
+  expect(carriageIn(carried, new Map([["zed", "zed-artist"]]))).toEqual({
+    artist: "zed-artist",
+    spotifyId: "zed-id",
+  })
+  expect(carriageIn(carried, new Map<string, string>())).toBeNull()
+  expect(carriageIn({}, artistOf)).toBeNull()
+})
+
+test("a release states the artist it is part of", () => {
+  if (!indexThere(ROOT)) return
+  const artistOf = releasesIn(ROOT)
+  expect(artistOf.size).toBeGreaterThan(0)
+  expect([...artistOf.values()].every((one) => !one.includes("/"))).toBe(true)
+})
+
+test("a track recording another artist's song belongs to whoever released it", () => {
+  if (!indexThere(ROOT)) return
+  const catalog = catalogIn(ROOT)
+  const whose = new Map(catalog.songs.map((one) => [one.slug, one.artist]))
+  const covers = catalog.tracks.filter((one) => {
+    const wrote = whose.get(one.song)
+    return wrote !== undefined && wrote !== one.artist
+  })
+  expect(covers.length).toBeGreaterThan(0)
+  const slugs = new Set(catalog.artists.map((one) => one.slug))
+  expect(covers.every((one) => slugs.has(one.artist))).toBe(true)
 })
 
 test("the grades on the pages reach the catalogue", () => {

@@ -84,12 +84,14 @@ function gatheredBy<T extends Made>(all: readonly T[]): ReadonlyMap<string, read
 
 function keptIn(catalog: Catalog): Kept {
   const judgedSongs = new Set<string>()
-  for (const one of catalog.songs) if (one.grade !== undefined) judgedSongs.add(one.slug)
+  for (const one of catalog.songs) {
+    if (one.grade !== undefined && one.slug !== "") judgedSongs.add(one.slug)
+  }
   return { songs: gatheredBy(catalog.songs), tracks: gatheredBy(catalog.tracks), judgedSongs }
 }
 
 function judged(kept: Kept, track: CatalogTrack): boolean {
-  return track.grade !== undefined || kept.judgedSongs.has(slugOf(track.song))
+  return track.grade !== undefined || kept.judgedSongs.has(track.song)
 }
 
 function trackFrom(kept: Kept, artistSlug: string): CatalogTrack | null {
