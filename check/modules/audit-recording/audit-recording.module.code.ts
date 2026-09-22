@@ -1,6 +1,5 @@
 import {
   answerLine,
-  commitHeld,
   loggedLine,
   type Verdict,
   verdictOver,
@@ -28,7 +27,7 @@ const ENTRIES = "entries"
 export type Beside = {
   readonly slug: string
   readonly page: string
-  readonly root: string
+  readonly commit: string
 }
 
 export type Recording = (page: string, under: string, line: string) => Promise<string | null>
@@ -104,11 +103,5 @@ export async function costKept(
     refusals: said.length,
     unrun: said.some((each) => each.threw === true),
   })
-  return await rowSent(
-    one.page,
-    cost,
-    verdictOver(said, commitHeld(one.root), ranAt),
-    under,
-    record
-  )
+  return await rowSent(one.page, cost, verdictOver(said, one.commit, ranAt), under, record)
 }

@@ -10,6 +10,7 @@ import {
 import {
   cleanAt,
   cleanly,
+  commitHeld,
   measured,
   type Verdict,
   verdictLogged,
@@ -169,6 +170,7 @@ export const spawning: Running = async (one) => {
     const at = join(scratch.rootFor(SCRATCH), ANSWERED)
     const cpu = one.auditCeiling ?? null
     const memory = one.auditMemoryMb ?? null
+    const commit = commitHeld(one.root)
     const began = Date.now()
     const done = await bytesAwaited([BUN, childAt(one.root), one.root, one.slug, at], {
       cwd: one.root,
@@ -180,7 +182,7 @@ export const spawning: Running = async (one) => {
     if (done.code !== 0 || done.signal !== null) {
       const why = reasonSaid(done.err, STDERR_CEILING)
       const said = unrun(one, `${ending} apart, so it judged nothing — ${why}`)
-      await costKept(one, done, began, said, AUDIT_LOGS)
+      await costKept({ slug: one.slug, page: one.page, commit }, done, began, said, AUDIT_LOGS)
       return said
     }
     const text = textOnDisk(at)

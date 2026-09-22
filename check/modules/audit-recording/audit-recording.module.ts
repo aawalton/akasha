@@ -30,7 +30,7 @@ export const auditRecording = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The commit a row answers for is read from the tree the audit holds.",
+      statement: "The commit a row answers for is handed in rather than read here.",
     },
     {
       decisionKind: "decision-kind/departure",

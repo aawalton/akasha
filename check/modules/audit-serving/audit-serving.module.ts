@@ -314,6 +314,10 @@ export const auditServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What that row answers for is the commit read before the process opened.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The seconds recorded are the ones the ceiling was measured against.",
     },
     {

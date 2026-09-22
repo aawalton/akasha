@@ -24,7 +24,7 @@ const CLEAN: Verdict = {
   unrun: false,
 }
 
-const ONE: Beside = { slug: "typecheck", page: PAGE, root: "/nowhere" }
+const ONE: Beside = { slug: "typecheck", page: PAGE, commit: "abc" }
 
 const DONE: Held = {
   code: 0,
@@ -132,8 +132,8 @@ test("a run that threw is recorded as one nothing measured", async () => {
   expect(JSON.parse(held.rows[0]?.line ?? "").unrun).toBe(true)
 })
 
-test("a commit no tree answers for is recorded as none rather than made up", async () => {
+test("the commit a cost row answers for is the one handed in", async () => {
   const held = catching()
-  await costKept(ONE, DONE, Date.now(), [], LOGS, held.record)
-  expect(JSON.parse(held.rows[0]?.line ?? "").commit).toBe("")
+  await costKept({ ...ONE, commit: "def" }, DONE, Date.now(), [], LOGS, held.record)
+  expect(JSON.parse(held.rows[0]?.line ?? "").commit).toBe("def")
 })
