@@ -18,7 +18,7 @@
     </Category>
   </Layer>
   <Layer name="SI_KEYBINDINGS_CATEGORY_GENERAL">
-    <Category name="SI_BINDING_NAME_CRAFTSTORE">
+    <Category name="SI_KEYBINDINGS_CATEGORY_TEMPER_CRAFTING">
       <Action name="CRAFTSTORE_WINDOW">
         <Down>TemperItemsCrafting.ShowMain()</Down>
       </Action>

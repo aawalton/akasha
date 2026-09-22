@@ -80,7 +80,7 @@ export function initializeTemperPotions(this: void): undefined {
   })
 
   PotMaker.contentWindowPoison = PotMaker.LAS.AddTab({
-    name: SI_BINDING_NAME_POISONMAKER,
+    name: SI_TEMPER_POTIONS_POISON_MAKER,
     descriptor: PotMaker.descriptorPoison,
     normal: TEXTURE_POISON_UP,
     pressed: TEXTURE_POISON_DOWN,

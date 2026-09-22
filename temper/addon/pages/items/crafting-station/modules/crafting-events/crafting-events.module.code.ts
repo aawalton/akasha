@@ -144,7 +144,7 @@ export function onAddOnLoaded(this: void): undefined {
     STATE.Character.income[2] = GetCurrentMoney()
   }
 
-  ZO_CreateStringId("SI_BINDING_NAME_CRAFTSTORE", "Temper Crafting")
+  ZO_CreateStringId("SI_KEYBINDINGS_CATEGORY_TEMPER_CRAFTING", "Temper Crafting")
   ZO_CreateStringId("SI_BINDING_NAME_CRAFTSTORE_WINDOW", STATE.Loc.TT[14])
 
   ZO_CreateStringId("SI_BINDING_NAME_CRAFTSTORE_STYLES", STATE.Loc.TT[35])

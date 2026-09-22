@@ -155,8 +155,8 @@ function initMainMenu(this: void): undefined {
   }
   function poisons(this: void): undefined {
     const creationData = {
-      activeTabText: SI_BINDING_NAME_POISONMAKER,
-      categoryName: SI_BINDING_NAME_POISONMAKER,
+      activeTabText: SI_TEMPER_POTIONS_POISON_MAKER,
+      categoryName: SI_TEMPER_POTIONS_POISON_MAKER,
       descriptor: PotMaker.descriptorPoison,
       normal: TEXTURE_POISON_UP,
       pressed: TEXTURE_POISON_DOWN,
@@ -168,7 +168,7 @@ function initMainMenu(this: void): undefined {
         if (PotMaker.atAlchemyStation || SCENE_MANAGER.IsShowing(sceneName)) {
           showStationOrTopLevel()
           showFilterPage()
-          TemperPotions.title.SetText(GetString(SI_BINDING_NAME_POISONMAKER))
+          TemperPotions.title.SetText(GetString(SI_TEMPER_POTIONS_POISON_MAKER))
           PotMaker.addStuffToInventory()
           PotMaker.updateControls()
           getPlayerSettings().lastUsedTab = PotMaker.descriptorPoison

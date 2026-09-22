@@ -102,13 +102,13 @@ export const EN_LANGUAGE: Language = {
 
 export function registerStrings(this: void): undefined {
   ZO_CreateStringId("SI_BINDING_NAME_POTIONMAKER", "Potion Maker")
-  ZO_CreateStringId("SI_BINDING_NAME_POISONMAKER", "Poison Maker")
+  ZO_CreateStringId("SI_TEMPER_POTIONS_POISON_MAKER", "Poison Maker")
   ZO_CreateStringId("SI_BINDING_NAME_POTIONMAKER_SEARCH", EN_LANGUAGE.search)
   ZO_CreateStringId(
     "SI_BINDING_NAME_POTIONMAKER_SEARCH_WRITS",
     GetString(SI_CUSTOMERSERVICESUBMITFEEDBACKSUBCATEGORIES212)
   )
   ZO_CreateStringId("SI_BINDING_NAME_POTIONMAKER_SEARCH_FAVORITS", EN_LANGUAGE.favorites)
-  ZO_CreateStringId("SI_KEYBINDINGS_CATEGORY_POTIONMAKER", "Potion Maker")
+  ZO_CreateStringId("SI_KEYBINDINGS_CATEGORY_TEMPER_POTIONS", "Potion Maker")
   ZO_CreateStringId("SI_KEYBINDINGS_LAYER_POTIONMAKER", "Potion Maker")
 }

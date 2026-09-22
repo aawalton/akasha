@@ -36,7 +36,7 @@ declare const ZO_SharedRightBackground: Control
 
 declare const SI_BINDING_NAME_POTIONMAKER: number
 
-declare const SI_BINDING_NAME_POISONMAKER: number
+declare const SI_TEMPER_POTIONS_POISON_MAKER: number
 
 declare const SI_BINDING_NAME_POTIONMAKER_SEARCH: number
 

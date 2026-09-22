@@ -33,7 +33,7 @@
 				<Down>TemperWorld.toggleRDL()</Down>
 			</Action>
 		</Category>
-		<Category name="SI_KEYBINDINGS_CATEGORY_EXTENDED_JOURNAL">
+		<Category name="SI_KEYBINDINGS_CATEGORY_TEMPER_JOURNAL">
 			<Action name="EXTENDED_JOURNAL">
 				<Down>TemperWorld.ShowJournal()</Down>
 			</Action>

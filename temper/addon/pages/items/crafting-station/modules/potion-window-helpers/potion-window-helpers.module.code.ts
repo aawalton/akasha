@@ -106,7 +106,7 @@ export function showFilterPage(this: void): undefined {
   if (descriptor === PotMaker.descriptorPotion) {
     TemperPotions.title.SetText(GetString(SI_BINDING_NAME_POTIONMAKER))
   } else if (descriptor === PotMaker.descriptorPoison) {
-    TemperPotions.title.SetText(GetString(SI_BINDING_NAME_POISONMAKER))
+    TemperPotions.title.SetText(GetString(SI_TEMPER_POTIONS_POISON_MAKER))
   }
   TemperPotions.SetHidden(false)
   TemperPotionsOutput.SetHidden(true)
@@ -144,7 +144,7 @@ export function refreshTitle(this: void): undefined {
     if (descriptor === PotMaker.descriptorPotion) {
       TemperPotions.title.SetText(GetString(SI_BINDING_NAME_POTIONMAKER))
     } else if (descriptor === PotMaker.descriptorPoison) {
-      TemperPotions.title.SetText(GetString(SI_BINDING_NAME_POISONMAKER))
+      TemperPotions.title.SetText(GetString(SI_TEMPER_POTIONS_POISON_MAKER))
     }
   }
 }
