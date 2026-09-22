@@ -339,6 +339,17 @@
       "description": "Adopted advisory-editor lenses for this game (author/editors architecture, #15266). On GM-fleet revival, spawn one awen-editor--<base>-<lens> resident seat per lens listed in bands, alongside the resolver/loremaker/turn-gate seats. Advisory only — never a gate, never authoritative: live games get advisory reviewers and Alan is the final reader. Applicability rule (data-driven): prose/dialogue-driven (chapterProse-shaped) adopts the full six lenses; mechanics-driven low-dialogue (beatLog-shaped, no chapterProse) adopts facts + the three cross-turn patterns sub-lenses."
     },
     {
+      "id": "world-pages",
+      "bands": [
+        "**Every place, everything a place sets in the way, and everyone the world holds is a page.** A place is a `game-location`, what it sets in the way is a `game-encounter`, and who or what is met is a `game-entity`. Each sits under this game's own folder and names this game.",
+        "**Read the page, never a row.** A sheet, a storey, a room, an encounter and its gates are read off those pages. The rows beside the game page are what the pages were made from, and are no longer the authority.",
+        "**A place inside a place is a place.** A storey and its rooms are both `game-location`; a room names the place it is `within` and takes that place's `depth`.",
+        "**Nothing a mechanic works out is written on a page.** A skill carries how far it has come, not the rung that reaches; an affinity its tier, not the most that tier allows. Ask the mechanic for the rest.",
+        "**A change lands on the page carrying the thing that changed** — a skill advanced, an item taken, a thing searched out of a room — and lands once."
+      ],
+      "title": "The world is pages"
+    },
+    {
       "id": "resolution-scope",
       "bands": [
         "**The rule (Alan-ruled).** LETHAL or CONTESTED non-combat checks resolve on a SEEDED die through `akasha game settle --mechanic game-mechanic/attribute-check` — un-thumbable, rolled from the hash of the row before it, settled BEFORE the outcome is narrated; the first result holds unless the fiction itself changed.",
