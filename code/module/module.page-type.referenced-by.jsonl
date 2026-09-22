@@ -216,6 +216,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/launching/seat-launching.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/log-day/modules/log-day-sweeping/log-day-sweeping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/tmux-session/tmux-session.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/window-duration/window-duration.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name-claiming/modules/agent-name-bind/agent-name-bind.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name-claiming/modules/seat-name-bind/seat-name-bind.module.ts"}

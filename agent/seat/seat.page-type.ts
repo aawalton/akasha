@@ -72,6 +72,7 @@ export const seat = {
     "text-property/registration-account",
     "text-property/start-mode",
     "text-property/transcript-path",
+    "module/tmux-session",
   ],
   properties: [
     {

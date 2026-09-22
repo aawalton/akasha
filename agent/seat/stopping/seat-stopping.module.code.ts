@@ -2,6 +2,7 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { messagesTo } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
 import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { endedSession } from "akasha/agent/seat/modules/tmux-session/tmux-session.module.code.ts"
 import {
   seatPathForName,
   supervisorAlive,
@@ -33,7 +34,6 @@ import {
 import { removeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { slugAt, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const SUBAGENT_TYPE = "01a05978-f2e1-78e7-9017-ab14c5c1d79b"
 
@@ -42,8 +42,6 @@ const AGENT_ID = "AGENT_ID"
 const PRINCIPAL = "principalSeatName"
 
 const DISPATCHED = "dispatchedAs"
-
-const TMUX_CEILING_MS = 10_000
 
 const CLIENT = /\bclaude\b.*--dangerously-skip-permissions/
 
@@ -116,28 +114,6 @@ function subagentsOf(root: string, seatName: string): readonly Working[] {
     found.push({ path: one.path, dispatchedAs: textAt(value, DISPATCHED) ?? "" })
   }
   return found
-}
-
-async function tmux(args: readonly string[]): Promise<number> {
-  const ran = Bun.spawn(["tmux", ...args], { stdin: "ignore", stdout: "ignore", stderr: "ignore" })
-  const timer = setTimeout(() => {
-    ran.kill()
-  }, TMUX_CEILING_MS)
-  try {
-    return await ran.exited
-  } finally {
-    clearTimeout(timer)
-  }
-}
-
-export async function sessionHeld(name: string): Promise<boolean> {
-  return (await tmux(["has-session", "-t", `=${name}`])) === 0
-}
-
-async function endedSession(name: string): Promise<boolean> {
-  if (!(await sessionHeld(name))) return false
-  await tmux(["kill-session", "-t", `=${name}`])
-  return !(await sessionHeld(name))
 }
 
 export const TAKE = `${changeMechanical.slug}/${removeFileOfAnyKind.slug}` as const

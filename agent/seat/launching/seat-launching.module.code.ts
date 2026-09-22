@@ -3,7 +3,7 @@ import {
   ptyProxyRel,
   supervisorRel,
 } from "akasha/agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
-import { sessionHeld } from "akasha/agent/seat/stopping/seat-stopping.module.code.ts"
+import { sessionHeld } from "akasha/agent/seat/modules/tmux-session/tmux-session.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"

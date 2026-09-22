@@ -252,6 +252,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/properties/seat-name.text-property.ts","id":"01a0657c-cb14-7705-a95e-4fca37cc48c2"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/seat-log-day.page-type.ts","id":"01a0657c-cb14-7b5b-a206-18059a84a88a"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-source/log-source.page-type.ts","id":"01a0657c-cb14-7c6f-83df-0d533f4f7821"}
+{"propertySlug":"decision-kind","path":"agent/seat/modules/tmux-session/tmux-session.module.ts","id":"01a0c9ed-0747-74e1-adb1-380621bd6c5d"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/window-duration/window-duration.module.ts","id":"01a069e8-c315-7c16-b624-a471a8e9cdec"}
 {"propertySlug":"decision-kind","path":"agent/seat/name-claiming/modules/seat-name-claim/seat-name-claim.module.ts","id":"01a05ded-fa5d-7000-b57d-b4a2a894e5e6"}
 {"propertySlug":"decision-kind","path":"agent/seat/name-claiming/modules/seat-parentless-refusal/seat-parentless-refusal.module.ts","id":"01a0686d-9d5e-7014-b9a1-392193b1b6a8"}
