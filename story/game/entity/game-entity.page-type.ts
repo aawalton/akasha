@@ -60,6 +60,15 @@ export const gameEntity = {
       decisionKind: "decision-kind/absence",
       statement: "No entity holds a number one of its game's mechanics works out.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An entity's sheet is shaped by the mechanics its game names rather than by its own page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An entity is held back until the play reaches the turn its reveal gate names.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

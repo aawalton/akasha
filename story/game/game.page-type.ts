@@ -135,15 +135,6 @@ export const game = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "An entity's sheet is shaped by the game's rulebook rather than by the row with the sheet.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An entity is held back until the play reaches the turn its reveal gate names.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A turn is numbered within its game.",
     },
     {
@@ -203,6 +194,10 @@ export const game = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A game's rules are the mechanics that game names and are written nowhere else.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Everything a game's world holds is a page sitting under that game.",
     },
   ],
   types: "ts",
