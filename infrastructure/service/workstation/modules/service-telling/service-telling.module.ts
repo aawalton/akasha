@@ -7,7 +7,16 @@ export const serviceTelling = {
   definition: "the run telling a persona that one named service has just failed",
   code: "ts",
   test: "ts",
+  reachedByPath: ["runServiceTelling"],
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The teller's bundle names this run in a stub rather than importing it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name spelled in a stub is reached by path, so this page declares that reach.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A telling here is asked for by one service's name rather than found by a sweep.",
