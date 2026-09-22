@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-history-search/block-history-search.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-history-search/block-history-search.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-memory-writes/block-memory-writes.agent-hook.code.ts"}
+{"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-memory-writes/block-memory-writes.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-subagent-audit/block-subagent-audit.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-subagent-audit/block-subagent-audit.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/block-typecheck/block-typecheck.agent-hook.code.ts"}

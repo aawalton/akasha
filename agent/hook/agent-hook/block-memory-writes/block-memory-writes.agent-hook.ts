@@ -6,6 +6,7 @@ export const blockMemoryWrites = {
   slug: "block-memory-writes",
   definition: "the hook refusing a shell write onto a filesystem the machine holds in memory",
   code: "ts",
+  test: "ts",
   runsAt: ["PreToolUse"],
   overTools: ["Bash"],
   decisions: [

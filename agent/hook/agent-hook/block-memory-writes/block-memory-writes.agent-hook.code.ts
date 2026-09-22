@@ -5,9 +5,10 @@ import {
   landingsIn,
 } from "akasha/agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts"
 import {
-  payloadIn,
-  REFUSED,
-  unreadable,
+  type Answer,
+  refusing as blocking,
+  LET_THROUGH,
+  ranAsJudgedOnly,
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { insideOf, settled } from "akasha/agent/hook/modules/settling/settling.module.code.ts"
 
@@ -64,7 +65,7 @@ function givesBack(landing: Landing): boolean {
   return GIVES_BACK.has(landing.how)
 }
 
-function refusalFor(command: string, from: string, held: readonly string[]): string | null {
+export function refusalFor(command: string, from: string, held: readonly string[]): string | null {
   for (const landing of landingsIn(command)) {
     if (givesBack(landing)) continue
     const at = settled(resolve(from, landing.at))
@@ -74,31 +75,20 @@ function refusalFor(command: string, from: string, held: readonly string[]): str
   return null
 }
 
-async function main(): Promise<number> {
-  const raw = await Bun.stdin.text()
-  if (raw.trim() === "") return 0
-  const payload = payloadIn(raw)
-  if (payload === null) {
-    const unread = unreadable(HOOK_NAME, "the hook payload would not read")
-    process.stderr.write(`${unread.err}\n`)
-    return unread.code
-  }
-  const held = payload as {
+export function judgedFor(payload: Record<string, unknown>): Answer {
+  const asked = payload as {
     readonly tool_input?: { readonly command?: unknown }
     readonly cwd?: unknown
   }
-  const command = typeof held.tool_input?.command === "string" ? held.tool_input.command : ""
-  if (command.trim() === "") return 0
-  const from = typeof held.cwd === "string" && held.cwd !== "" ? held.cwd : process.cwd()
+  const command = typeof asked.tool_input?.command === "string" ? asked.tool_input.command : ""
+  if (command.trim() === "") return LET_THROUGH
+  const from = typeof asked.cwd === "string" && asked.cwd !== "" ? asked.cwd : process.cwd()
   const said = refusalFor(command, from, mountsNow())
-  if (said === null) return 0
-  process.stderr.write(`${said}\n`)
-  process.stdout.write(`${JSON.stringify({ decision: "block", reason: said }, null, 2)}\n`)
-  return REFUSED
+  return said === null ? LET_THROUGH : blocking(said)
 }
 
 async function ran(): Promise<number> {
-  return await main()
+  return await ranAsJudgedOnly(HOOK_NAME, judgedFor)
 }
 
 if (import.meta.main) process.exit(await ran())
