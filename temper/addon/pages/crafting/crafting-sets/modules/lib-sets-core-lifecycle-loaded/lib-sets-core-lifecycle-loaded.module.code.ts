@@ -12,6 +12,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/addon/pages/crafting/modules/crafting-constants/crafting-constants.module.code.ts"
 
 const EM = EVENT_MANAGER
 const MAJOR = "LibSets"
@@ -35,7 +36,7 @@ function onPlayerActivated(this: void, _eventId: number, _isFirst?: unknown): un
 }
 
 function onLibraryLoaded(this: void, _event: number, name?: string): undefined {
-  if (name !== MAJOR) {
+  if (name !== ADDON_NAME) {
     return
   }
   EM.UnregisterForEvent(MAJOR + "_EVENT_ADD_ON_LOADED", EVENT_ADD_ON_LOADED)
