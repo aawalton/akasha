@@ -5,6 +5,10 @@ export const dashboard = {
   type: "page-type/page-type",
   slug: "dashboard",
   definition: "what a chart server draws over one subject",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "dashboard" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "dashboards" },
+  ],
   pluralSlug: "dashboards",
   parts: ["file-property/dashboard-layout"],
   extends: ["page-type/domain"],

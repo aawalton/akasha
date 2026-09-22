@@ -5,4 +5,5 @@ export const prayer = {
   type: "page-type/domain",
   slug: "prayer",
   definition: "Alan's reaching upward with someone in the room",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "prayer" }],
 } as const satisfies Domain

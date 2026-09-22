@@ -5,6 +5,7 @@ export const quote = {
   type: "page-type/domain",
   slug: "quote",
   definition: "a link whose text sits in the document it names",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "quotes" }],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

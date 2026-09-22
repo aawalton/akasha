@@ -5,6 +5,10 @@ export const change = {
   type: "page-type/page-type",
   slug: "change",
   definition: "one change to the repository, reached by name",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "change" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "changes" },
+  ],
   extends: ["page-type/module"],
   parts: [
     "boolean-property/takes-at-most",

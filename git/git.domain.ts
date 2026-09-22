@@ -5,6 +5,7 @@ export const git = {
   type: "page-type/domain",
   slug: "git",
   definition: "git run in a repository, and what it said",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "git" }],
   parts: [
     "domain/oid",
     "module/commit-reading",

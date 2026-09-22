@@ -5,6 +5,10 @@ export const index = {
   type: "page-type/page-type",
   slug: "index",
   definition: "one question the pages can be asked, answered by reading one file",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "index" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "indexes" },
+  ],
   parts: [
     "boolean-property/index-tracked",
     "index/index-ast-hash",

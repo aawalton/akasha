@@ -5,6 +5,10 @@ export const contributor = {
   type: "page-type/page-type",
   slug: "contributor",
   definition: "a person who has given Alan something and holds the weight that giving earned",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "contributor" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "contributors" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "text-property/contributor-email-hash",

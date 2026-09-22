@@ -5,6 +5,7 @@ export const temper = {
   type: "page-type/domain",
   slug: "temper",
   definition: "a companion suite for The Elder Scrolls Online",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "temper" }],
   parts: [
     "domain/temper-catalog",
     "domain/temper-command",

@@ -5,6 +5,10 @@ export const achievement = {
   type: "page-type/page-type",
   slug: "achievement",
   definition: "a mark a game gives for finishing something in it",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "achievement" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "achievements" },
+  ],
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   types: "ts",

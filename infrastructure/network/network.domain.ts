@@ -5,6 +5,10 @@ export const network = {
   type: "page-type/domain",
   slug: "network",
   definition: "what a program reaches other machines over",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "network" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "networks" },
+  ],
   parts: [
     "domain/auth-proxy",
     "domain/certificate",

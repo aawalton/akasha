@@ -5,6 +5,7 @@ export const audio = {
   type: "page-type/page-type",
   slug: "audio",
   definition: "one sound the system has",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "audio" }],
   extends: ["page-type/page"],
   parts: [
     "file-property/audio-bytes",

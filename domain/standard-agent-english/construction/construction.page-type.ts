@@ -5,6 +5,10 @@ export const construction = {
   type: "page-type/page-type",
   slug: "construction",
   definition: "one way a phrase kind is written",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "construction" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "constructions" },
+  ],
   parts: [
     "construction/bare-noun",
     "one-of-property/written-from",

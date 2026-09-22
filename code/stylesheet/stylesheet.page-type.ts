@@ -5,6 +5,7 @@ export const stylesheet = {
   type: "page-type/page-type",
   slug: "stylesheet",
   definition: "the rules a browser dresses something by",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "stylesheet" }],
   parts: ["file-property/reached", "file-property/styles", "module/source-globbing"],
   extends: ["page-type/domain"],
   properties: [

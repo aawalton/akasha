@@ -5,6 +5,10 @@ export const episode = {
   type: "page-type/page-type",
   slug: "episode",
   definition: "one instalment of a season",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "episode" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "episodes" },
+  ],
   extends: ["page-type/collection-external"],
   parts: ["select-property/episode-type", "text-property/still-path"],
   properties: [

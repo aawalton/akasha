@@ -5,6 +5,10 @@ export const certificate = {
   type: "page-type/domain",
   slug: "certificate",
   definition: "a signed statement that a name belongs to whoever answers on it",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "certificate" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "certificates" },
+  ],
   parts: ["page-type/certificate-authority"],
   decisions: [
     {

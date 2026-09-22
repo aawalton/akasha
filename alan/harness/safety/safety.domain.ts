@@ -5,6 +5,7 @@ export const safety = {
   type: "page-type/domain",
   slug: "safety",
   definition: "the safety level Alan logs against the block Alan is in",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "safety" }],
   parts: [
     "module/safety-reading",
     "readout/upkeep-safety",

@@ -5,6 +5,7 @@ export const shell = {
   type: "page-type/domain",
   slug: "shell",
   definition: "text a POSIX shell reads as a command",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "shell" }],
   parts: ["domain/shell-terminal", "module/quoting"],
   decisions: [
     {

@@ -5,6 +5,7 @@ export const finding = {
   type: "page-type/page-type",
   slug: "finding",
   definition: "something noticed about a domain, written down before anyone judges what it means",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "findings" }],
   parts: ["text-property/claim", "text-property/evidence"],
   extends: ["page-type/page"],
   properties: [

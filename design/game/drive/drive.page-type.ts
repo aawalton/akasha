@@ -5,6 +5,10 @@ export const drive = {
   type: "page-type/page-type",
   slug: "drive",
   definition: "what makes a person want to act",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "drive" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "drives" },
+  ],
   extends: ["page-type/domain"],
   parts: [
     "drive/game-design-drive-collection",

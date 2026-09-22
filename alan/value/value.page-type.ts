@@ -5,6 +5,10 @@ export const value = {
   type: "page-type/page-type",
   slug: "value",
   definition: "what a person is spending their life on",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "value" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "values" },
+  ],
   parts: [
     "relation-property/value-color",
     "value/faith",

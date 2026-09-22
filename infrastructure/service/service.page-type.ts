@@ -5,6 +5,10 @@ export const service = {
   type: "page-type/page-type",
   slug: "service",
   definition: "a thing a deploy puts up",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "service" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "services" },
+  ],
   extends: ["page-type/domain"],
   parts: [
     "instant-property/deploy-ended-at",

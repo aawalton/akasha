@@ -5,6 +5,10 @@ export const game = {
   type: "page-type/page-type",
   slug: "game",
   definition: "a story Alan plays through with a persona running the other side",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "game" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "games" },
+  ],
   extends: ["page-type/collection"],
   parts: [
     "file-property/config",

@@ -41,6 +41,10 @@ export const domain = {
   type: "page-type/page-type",
   slug: "domain",
   definition: "a bounded area of concern",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "domain" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "domains" },
+  ],
   extends: ["page-type/term"],
   properties: [
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },

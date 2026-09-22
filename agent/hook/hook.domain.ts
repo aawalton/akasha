@@ -5,6 +5,10 @@ export const hook = {
   type: "page-type/domain",
   slug: "hook",
   definition: "how a tool call is judged",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "hook" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "hooks" },
+  ],
   parts: [
     "module/bun-calls",
     "module/chain-refusal",

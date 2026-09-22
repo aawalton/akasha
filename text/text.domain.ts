@@ -5,5 +5,9 @@ export const text = {
   type: "page-type/domain",
   slug: "text",
   definition: "the text an agent reads",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "text" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "texts" },
+  ],
   parts: ["domain/quote", "domain/text-writing", "module/one-line"],
 } as const satisfies Domain

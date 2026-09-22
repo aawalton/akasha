@@ -5,6 +5,10 @@ export const collection = {
   type: "page-type/page-type",
   slug: "collection",
   definition: "something for a person to experience",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "collection" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "collections" },
+  ],
   parts: [
     "boolean-property/following",
     "calendar-date-property/published-day",

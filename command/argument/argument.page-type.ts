@@ -5,6 +5,10 @@ export const argument = {
   type: "page-type/page-type",
   slug: "argument",
   definition: "one thing a command is told on the command line",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "argument" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "arguments" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "module/argument-naming",

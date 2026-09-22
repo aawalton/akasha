@@ -5,6 +5,7 @@ export const surplus = {
   type: "page-type/domain",
   slug: "surplus",
   definition: "how much of Alan's night the day has left him",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "surplus" }],
   parts: [
     "module/surplus-fall-notifying",
     "module/surplus-fall-readout",

@@ -5,6 +5,10 @@ export const module = {
   type: "page-type/page-type",
   slug: "module",
   definition: "code reached by importing it",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "module" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "modules" },
+  ],
   pluralSlug: "modules",
   parts: [
     "boolean-property/answers-a-checkout-root",

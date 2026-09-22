@@ -5,6 +5,7 @@ export const proof = {
   type: "page-type/page-type",
   slug: "proof",
   definition: "one attempt at deriving a proposition in the formal system",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "proof" }],
   extends: ["page-type/page"],
   parts: [
     "file-property/derivation",

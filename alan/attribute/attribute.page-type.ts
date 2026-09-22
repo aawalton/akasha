@@ -5,6 +5,10 @@ export const attribute = {
   type: "page-type/page-type",
   slug: "attribute",
   definition: "a capacity Alan builds through a daily habit",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "attribute" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "attributes" },
+  ],
   extends: ["page-type/domain"],
   parts: [
     "attribute/charisma",

@@ -5,6 +5,10 @@ export const list = {
   type: "page-type/page-type",
   slug: "list",
   definition: "a domain whose subject is a set, its members named and glossed",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "list" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "lists" },
+  ],
   extends: ["page-type/domain"],
   parts: ["record-property/list-members", "text-property/member-name"],
   properties: [

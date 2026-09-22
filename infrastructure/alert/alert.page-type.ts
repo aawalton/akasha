@@ -5,6 +5,10 @@ export const alert = {
   type: "page-type/page-type",
   slug: "alert",
   definition: "a condition on the system somebody is told about",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "alert" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "alerts" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "file-property/alert-runbook",

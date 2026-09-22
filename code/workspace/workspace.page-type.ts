@@ -5,6 +5,7 @@ export const workspace = {
   type: "page-type/page-type",
   slug: "workspace",
   definition: "the tree a package manager installs every package in at once",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "workspace" }],
   parts: [
     "build-folder-property/package-directory",
     "file-property/biome-config",

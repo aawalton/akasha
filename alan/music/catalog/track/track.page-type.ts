@@ -5,6 +5,10 @@ export const track = {
   type: "page-type/page-type",
   slug: "track",
   definition: "one recording and every release carrying it",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "track" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "tracks" },
+  ],
   extends: ["page-type/collection"],
   parts: [
     "boolean-property/explicit",

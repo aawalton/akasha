@@ -5,6 +5,10 @@ export const nav = {
   type: "page-type/page-type",
   slug: "nav",
   definition: "one item in an app's navigation, and the views beneath it",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "nav" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "navs" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "boolean-property/show-count-badge",

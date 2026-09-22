@@ -5,5 +5,6 @@ export const browser = {
   type: "page-type/domain",
   slug: "browser",
   definition: "a browser driven from code, and what is kept of a run",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "browser" }],
   parts: ["domain/browser-command", "domain/browser-test-harness", "module/launch-env"],
 } as const satisfies Domain

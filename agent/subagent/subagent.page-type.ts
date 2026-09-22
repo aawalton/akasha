@@ -5,6 +5,10 @@ export const subagent = {
   type: "page-type/page-type",
   slug: "subagent",
   definition: "an agent a seat runs with the Agent tool",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "subagent" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "subagents" },
+  ],
   extends: ["page-type/agent"],
   mortal: true,
   parts: [

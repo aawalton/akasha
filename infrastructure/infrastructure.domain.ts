@@ -5,6 +5,7 @@ export const infrastructure = {
   type: "page-type/domain",
   slug: "infrastructure",
   definition: "what the system runs on",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "infrastructure" }],
   parts: [
     "domain/analysis-complexity",
     "domain/auth",

@@ -5,6 +5,10 @@ export const command = {
   type: "page-type/page-type",
   slug: "command",
   definition: "a module reached by name from the command line",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "command" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "commands" },
+  ],
   parts: [
     "boolean-property/repeats",
     "command/audit",

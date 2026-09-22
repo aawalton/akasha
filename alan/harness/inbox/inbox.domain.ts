@@ -5,6 +5,10 @@ export const inbox = {
   type: "page-type/domain",
   slug: "inbox",
   definition: "the inboxes Alan keeps at empty",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "inbox" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "inboxes" },
+  ],
   parts: [
     "module/inbox-count-polling",
     "module/inbox-count-tick",

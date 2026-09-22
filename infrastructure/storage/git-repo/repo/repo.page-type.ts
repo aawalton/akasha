@@ -5,6 +5,10 @@ export const repo = {
   type: "page-type/page-type",
   slug: "repo",
   definition: "a domain whose subject is one repository",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "repo" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "repos" },
+  ],
   extends: ["page-type/domain"],
   parts: ["repo/akasha-repo", "repo/code-editor-repo"],
   decisions: [

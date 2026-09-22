@@ -5,6 +5,10 @@ export const artist = {
   type: "page-type/page-type",
   slug: "artist",
   definition: "a musician whose work Alan keeps",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "artist" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "artists" },
+  ],
   extends: ["page-type/collection-external"],
   parts: ["file-property/reaction", "text-property/artist-genre"],
   properties: [

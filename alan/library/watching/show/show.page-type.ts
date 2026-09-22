@@ -5,6 +5,10 @@ export const show = {
   type: "page-type/page-type",
   slug: "show",
   definition: "a story told in episodes over seasons",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "show" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "shows" },
+  ],
   extends: ["page-type/collection-external"],
   parts: ["calendar-date-property/last-air-date"],
   properties: [

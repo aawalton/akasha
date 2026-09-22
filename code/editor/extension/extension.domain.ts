@@ -5,6 +5,10 @@ export const extension = {
   type: "page-type/domain",
   slug: "extension",
   definition: "what the editor draws of the system it sits in",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "extension" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "extensions" },
+  ],
   parts: [
     "domain/ops-extension",
     "domain/status-bar",

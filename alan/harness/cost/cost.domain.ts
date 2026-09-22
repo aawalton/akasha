@@ -5,6 +5,10 @@ export const cost = {
   type: "page-type/domain",
   slug: "cost",
   definition: "what the stretch Alan is in costs him for each hour it runs",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "cost" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "costs" },
+  ],
   parts: [
     "module/cost-color",
     "module/cost-reading",

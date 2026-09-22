@@ -5,6 +5,7 @@ export const fandom = {
   type: "page-type/page-type",
   slug: "fandom",
   definition: "a world Alan follows across its shows and films",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "fandoms" }],
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   types: "ts",

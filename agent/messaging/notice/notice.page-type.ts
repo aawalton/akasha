@@ -5,6 +5,10 @@ export const notice = {
   type: "page-type/page-type",
   slug: "notice",
   definition: "message text written ahead of time and asked for by name",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "notice" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "notices" },
+  ],
 
   extends: ["page-type/page"],
   parts: ["file-property/notice-text", "module/compose-notices", "text-property/notice-warrant"],

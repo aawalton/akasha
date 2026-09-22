@@ -5,6 +5,10 @@ export const recipe = {
   type: "page-type/page-type",
   slug: "recipe",
   definition: "a dish Alan cooks",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "recipe" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "recipes" },
+  ],
   extends: ["page-type/collection"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   types: "ts",

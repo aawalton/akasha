@@ -5,6 +5,7 @@ export const sync = {
   type: "page-type/page-type",
   slug: "sync",
   definition: "one outside place this system pulls from, and how each pull went",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "sync" }],
   extends: ["page-type/page"],
   parts: ["page-property-entry/sync-runs"],
   properties: [{ pageProperty: "page-property-entry/sync-runs", required: true, many: false }],

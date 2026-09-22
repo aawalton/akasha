@@ -5,6 +5,7 @@ export const eso = {
   type: "page-type/domain",
   slug: "eso",
   definition: "Alan's play of The Elder Scrolls Online",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "eso" }],
   parts: ["domain/eso-wallpaper"],
   decisions: [
     {

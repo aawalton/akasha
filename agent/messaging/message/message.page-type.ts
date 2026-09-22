@@ -5,6 +5,10 @@ export const message = {
   type: "page-type/page-type",
   slug: "message",
   definition: "text sent to somebody",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "message" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "messages" },
+  ],
 
   extends: ["page-type/page"],
   mortal: true,

@@ -5,6 +5,7 @@ export const music = {
   type: "page-type/domain",
   slug: "music",
   definition: "music heard and what is kept of it",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "music" }],
   parts: [
     "domain/music-catalog",
     "domain/music-choosing",

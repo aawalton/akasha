@@ -5,6 +5,10 @@ export const test = {
   type: "page-type/domain",
   slug: "test",
   definition: "a run holding code to what its page says of it",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "test" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "tests" },
+  ],
   parts: [
     "module/dom-guard-setting",
     "module/dom-guarding",

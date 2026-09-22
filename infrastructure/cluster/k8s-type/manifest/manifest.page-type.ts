@@ -5,6 +5,10 @@ export const manifest = {
   type: "page-type/page-type",
   slug: "manifest",
   definition: "the Kubernetes resources a thing is applied as",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "manifest" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "manifests" },
+  ],
   parts: ["build-folder-property/generated-directory", "code-file-property/manifest-code"],
   extends: ["page-type/domain"],
   allowsTmpPaths: true,

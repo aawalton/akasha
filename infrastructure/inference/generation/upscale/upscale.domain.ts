@@ -5,6 +5,7 @@ export const upscale = {
   type: "page-type/domain",
   slug: "upscale",
   definition: "an image remade at a higher resolution than the one it came in at",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "upscale" }],
   parts: [
     "container-recipe/upscale-cluster-image",
     "container-recipe/upscale-image",

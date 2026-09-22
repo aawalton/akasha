@@ -5,6 +5,10 @@ export const job = {
   type: "page-type/domain",
   slug: "job",
   definition: "a workload that runs to completion and stops",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "job" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "jobs" },
+  ],
   parts: [
     "manifest/deploy-account",
     "manifest/pod-janitor",

@@ -5,6 +5,10 @@ export const context = {
   type: "page-type/domain",
   slug: "context",
   definition: "what a change requires its writer to have read",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "context" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "contexts" },
+  ],
   parts: [
     "domain/required-reading",
     "module/agent-stated",

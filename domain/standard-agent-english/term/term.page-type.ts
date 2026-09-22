@@ -5,6 +5,10 @@ export const term = {
   type: "page-type/page-type",
   slug: "term",
   definition: "one word or phrase, and what that word means here",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "term" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "terms" },
+  ],
   parts: [
     "page-type/allowed-term",
     "page-type/banned-term",

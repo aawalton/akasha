@@ -5,6 +5,10 @@ export const reminder = {
   type: "page-type/page-type",
   slug: "reminder",
   definition: "words sent to somebody at the times the words name",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "reminder" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "reminders" },
+  ],
   extends: ["page-type/page"],
   mortal: true,
   parts: [

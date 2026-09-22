@@ -5,6 +5,7 @@ export const capacity = {
   type: "page-type/domain",
   slug: "capacity",
   definition: "how much stress capacity Alan's day has left him in hand",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "capacity" }],
   parts: [
     "module/capacity-reading",
     "readout/upkeep-capacity",

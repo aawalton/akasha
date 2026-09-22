@@ -5,6 +5,10 @@ export const refusal = {
   type: "page-type/page-type",
   slug: "refusal",
   definition: "the words printed when an instrument refuses",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "refusal" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "refusals" },
+  ],
   extends: ["page-type/page"],
   mortal: true,
   parts: ["text-property/refusal-text"],

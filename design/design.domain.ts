@@ -5,6 +5,7 @@ export const design = {
   type: "page-type/domain",
   slug: "design",
   definition: "how something is done well",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "design" }],
   parts: [
     "domain/design-game",
     "domain/design-interface",

@@ -5,6 +5,7 @@ export const proposition = {
   type: "page-type/page-type",
   slug: "proposition",
   definition: "one statement in the formal system Alan is building",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "proposition" }],
   extends: ["page-type/page"],
   parts: [
     "file-property/statement",

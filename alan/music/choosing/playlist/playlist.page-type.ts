@@ -5,6 +5,7 @@ export const playlist = {
   type: "page-type/page-type",
   slug: "playlist",
   definition: "a list of tracks Spotify holds for Alan",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "playlist" }],
   extends: ["page-type/collection-external"],
   decisions: [
     {

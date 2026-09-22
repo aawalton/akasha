@@ -5,4 +5,5 @@ export const money = {
   type: "page-type/domain",
   slug: "money",
   definition: "what Alan has, owes and spends",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "money" }],
 } as const satisfies Domain

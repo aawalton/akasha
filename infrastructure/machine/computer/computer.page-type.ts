@@ -5,6 +5,7 @@ export const computer = {
   type: "page-type/page-type",
   slug: "computer",
   definition: "one machine Alan owns, and what it is worth running",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "computer" }],
   extends: ["page-type/page"],
   parts: [
     "calendar-date-property/purchase-date",

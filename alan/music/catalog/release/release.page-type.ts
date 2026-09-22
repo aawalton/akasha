@@ -5,6 +5,10 @@ export const release = {
   type: "page-type/page-type",
   slug: "release",
   definition: "an album Alan keeps",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "release" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "releases" },
+  ],
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   decisions: [

@@ -5,6 +5,10 @@ export const relationship = {
   type: "page-type/page-type",
   slug: "relationship",
   definition: "one person in Alan's life, and how close they are",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "relationship" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "relationships" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "boolean-property/relationship-sms-allowed",

@@ -5,6 +5,10 @@ export const flag = {
   type: "page-type/page-type",
   slug: "flag",
   definition: "a switch held outside the code that reads it",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "flag" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "flags" },
+  ],
   extends: ["page-type/domain"],
   decisions: [
     {

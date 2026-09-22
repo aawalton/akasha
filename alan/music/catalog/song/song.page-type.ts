@@ -5,6 +5,10 @@ export const song = {
   type: "page-type/page-type",
   slug: "song",
   definition: "a piece of music Alan keeps",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "song" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "songs" },
+  ],
   extends: ["page-type/collection-external"],
   parts: [
     "boolean-property/performed",

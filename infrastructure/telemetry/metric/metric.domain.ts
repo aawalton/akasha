@@ -5,6 +5,10 @@ export const metric = {
   type: "page-type/domain",
   slug: "metric",
   definition: "a number about the system, recorded over time",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "metric" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "metrics" },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

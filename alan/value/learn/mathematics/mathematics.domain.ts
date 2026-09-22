@@ -5,5 +5,6 @@ export const mathematics = {
   type: "page-type/domain",
   slug: "mathematics",
   definition: "the formal system Alan is building and what is in it",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "mathematics" }],
   parts: ["page-type/proof", "page-type/proposition"],
 } as const satisfies Domain

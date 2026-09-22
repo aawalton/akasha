@@ -5,6 +5,10 @@ export const component = {
   type: "page-type/page-type",
   slug: "component",
   definition: "code drawing something for a browser",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "component" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "components" },
+  ],
   parts: [
     "code-file-property/component-code",
     "code-file-property/component-test",

@@ -5,6 +5,10 @@ export const author = {
   type: "page-type/page-type",
   slug: "author",
   definition: "one who wrote what Alan reads",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "author" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "authors" },
+  ],
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   types: "ts",

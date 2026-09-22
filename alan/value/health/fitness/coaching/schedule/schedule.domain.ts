@@ -5,5 +5,9 @@ export const schedule = {
   type: "page-type/domain",
   slug: "schedule",
   definition: "the rotation Alan's training repeats on",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "schedule" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "schedules" },
+  ],
   parts: ["page-type/schedule-day"],
 } as const satisfies Domain

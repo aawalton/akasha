@@ -5,6 +5,7 @@ export const email = {
   type: "page-type/domain",
   slug: "email",
   definition: "the email a person sends and receives",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "email" }],
   parts: [
     "domain/email-action",
     "domain/email-rule-delay",

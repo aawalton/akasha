@@ -5,6 +5,10 @@ export const product = {
   type: "page-type/domain",
   slug: "product",
   definition: "what Alan makes for people outside this system",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "product" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "products" },
+  ],
   parts: [
     "domain/archive-of-worlds",
     "domain/audhdalan",

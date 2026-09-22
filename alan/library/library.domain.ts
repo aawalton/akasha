@@ -5,6 +5,10 @@ export const library = {
   type: "page-type/domain",
   slug: "library",
   definition: "what Alan works through, and how far through it he has got",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "library" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "libraries" },
+  ],
   parts: [
     "domain/litrpg-book",
     "domain/reading",

@@ -5,6 +5,10 @@ export const route = {
   type: "page-type/page-type",
   slug: "route",
   definition: "code a router serves under a url path",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "route" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "routes" },
+  ],
   parts: [
     "code-file-property/route-code",
     "code-file-property/route-test",

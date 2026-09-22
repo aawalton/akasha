@@ -11,6 +11,10 @@ export const day = {
   type: "page-type/page-type",
   slug: "day",
   definition: "what was measured about one of Alan's days",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "day" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "days" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "boolean-property/anchored-from-completion",

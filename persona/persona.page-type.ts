@@ -5,6 +5,10 @@ export const persona = {
   type: "page-type/page-type",
   slug: "persona",
   definition: "a part of Alan's life personified as someone who answers for it",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "persona" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "personas" },
+  ],
   extends: ["page-type/domain"],
   detailConfig: {
     frame: {

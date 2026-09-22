@@ -5,4 +5,8 @@ export const ability = {
   type: "page-type/domain",
   slug: "ability",
   definition: "something a character can do",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "ability" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "abilities" },
+  ],
 } as const satisfies Domain

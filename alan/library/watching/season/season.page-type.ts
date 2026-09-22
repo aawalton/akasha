@@ -5,6 +5,10 @@ export const season = {
   type: "page-type/page-type",
   slug: "season",
   definition: "one run of a show's episodes",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "season" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "seasons" },
+  ],
   extends: ["page-type/collection-external"],
   parts: [],
   properties: [

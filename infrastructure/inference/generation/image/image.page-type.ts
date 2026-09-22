@@ -5,6 +5,10 @@ export const image = {
   type: "page-type/page-type",
   slug: "image",
   definition: "one picture the system has",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "image" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "images" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "file-property/image-bytes",

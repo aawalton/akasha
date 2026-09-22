@@ -5,6 +5,10 @@ export const color = {
   type: "page-type/page-type",
   slug: "color",
   definition: "one color anything can be drawn in",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "color" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "colors" },
+  ],
   extends: ["page-type/page"],
   parts: ["text-property/hex"],
   properties: [

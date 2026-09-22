@@ -5,6 +5,10 @@ export const car = {
   type: "page-type/page-type",
   slug: "car",
   definition: "one level of a maker's catalogue, as Alan weighed buying from it",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "car" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "cars" },
+  ],
   extends: ["page-type/page"],
   parts: ["boolean-property/short-list", "text-property/exclusion-reason", "text-property/sources"],
   properties: [

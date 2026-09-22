@@ -5,6 +5,7 @@ export const performance = {
   type: "page-type/page-type",
   slug: "performance",
   definition: "code that measures how fast something is",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "performance" }],
   extends: ["page-type/module"],
   decisions: [
     {

@@ -5,6 +5,7 @@ export const graph = {
   type: "page-type/domain",
   slug: "graph",
   definition: "what follows from the pages, and what each answer rests on",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "graph" }],
   parts: [
     "page-type/graph-predicate",
     "module/graph-asking",

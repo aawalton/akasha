@@ -5,6 +5,7 @@ export const generation = {
   type: "page-type/domain",
   slug: "generation",
   definition: "images, video, audio or prose made by a model",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "generation" }],
   parts: [
     "domain/upscale",
     "domain/wan",

@@ -5,6 +5,10 @@ export const stoplight = {
   type: "page-type/domain",
   slug: "stoplight",
   definition: "one color saying where a reading is now",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "stoplight" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "stoplights" },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

@@ -5,6 +5,10 @@ export const seat = {
   type: "page-type/page-type",
   slug: "seat",
   definition: "a place an agent works from",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "seat" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "seats" },
+  ],
   extends: ["page-type/agent"],
   mortal: true,
   parts: [

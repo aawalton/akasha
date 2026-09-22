@@ -5,6 +5,10 @@ export const unit = {
   type: "page-type/page-type",
   slug: "unit",
   definition: "what a length is counted in",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "unit" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "units" },
+  ],
   parts: [
     "number-property/words",
     "unit/hours",

@@ -5,6 +5,10 @@ export const book = {
   type: "page-type/page-type",
   slug: "book",
   definition: "one book Alan reads",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "book" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "books" },
+  ],
   extends: ["page-type/collection-external"],
   parts: [
     "number-property/original-publication-year",

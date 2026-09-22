@@ -5,6 +5,10 @@ export const view = {
   type: "page-type/page-type",
   slug: "view",
   definition: "one arrangement of the pages of a type, as a person has set it up",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "view" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "views" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "boolean-property/locked-page-type",

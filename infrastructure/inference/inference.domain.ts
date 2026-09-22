@@ -5,6 +5,7 @@ export const inference = {
   type: "page-type/domain",
   slug: "inference",
   definition: "the services that run models and keep a record of every run",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "inference" }],
   parts: [
     "domain/comfy",
     "domain/generation",

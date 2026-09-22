@@ -5,6 +5,10 @@ export const id = {
   type: "page-type/domain",
   slug: "id",
   definition: "how a fresh identifier is made",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "id" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "ids" },
+  ],
   parts: ["module/random-id", "module/uuid-version-7"],
   decisions: [
     {

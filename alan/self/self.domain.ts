@@ -5,5 +5,6 @@ export const self = {
   type: "page-type/domain",
   slug: "self",
   definition: "who Alan is working to become",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "self" }],
   parts: ["page-type/identity-statement", "page-type/life-theme"],
 } as const satisfies Domain

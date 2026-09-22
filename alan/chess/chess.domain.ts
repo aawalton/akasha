@@ -5,6 +5,7 @@ export const chess = {
   type: "page-type/domain",
   slug: "chess",
   definition: "a chess engine spoken to as a program, and a game played out through it",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "chess" }],
   parts: [
     "module/chess-board",
     "module/chess-engine",

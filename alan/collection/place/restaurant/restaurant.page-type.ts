@@ -5,6 +5,10 @@ export const restaurant = {
   type: "page-type/page-type",
   slug: "restaurant",
   definition: "a place Alan eats at",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "restaurant" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "restaurants" },
+  ],
   extends: ["page-type/collection"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   types: "ts",

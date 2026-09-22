@@ -5,6 +5,7 @@ export const movie = {
   type: "page-type/page-type",
   slug: "movie",
   definition: "a story told in one sitting",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "movies" }],
   extends: ["page-type/collection-external"],
   parts: [],
   properties: [

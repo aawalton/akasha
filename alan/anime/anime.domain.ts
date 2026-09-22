@@ -5,4 +5,5 @@ export const anime = {
   type: "page-type/domain",
   slug: "anime",
   definition: "the series and films Alan is working through",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "anime" }],
 } as const satisfies Domain

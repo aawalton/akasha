@@ -5,6 +5,10 @@ export const secret = {
   type: "page-type/page-type",
   slug: "secret",
   definition: "one secret value under a name of its own",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "secret" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "secrets" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "module/secret-placing",

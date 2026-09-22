@@ -5,6 +5,10 @@ export const plant = {
   type: "page-type/domain",
   slug: "plant",
   definition: "the whole plants Alan has eaten since he rose",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "plant" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "plants" },
+  ],
   parts: [
     "module/plants-reading",
     "readout/upkeep-plants",

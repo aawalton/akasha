@@ -5,6 +5,10 @@ export const readout = {
   type: "page-type/page-type",
   slug: "readout",
   definition: "one reading a person is shown",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "readout" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "readouts" },
+  ],
   pluralSlug: "readouts",
   parts: [
     "boolean-property/readout-enabled",

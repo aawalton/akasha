@@ -5,6 +5,10 @@ export const check = {
   type: "page-type/domain",
   slug: "check",
   definition: "how a change is judged against what must be true of it",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "check" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "checks" },
+  ],
   parts: [
     "domain/test",
     "module/audit-asking",

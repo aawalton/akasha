@@ -5,6 +5,7 @@ export const arousal = {
   type: "page-type/domain",
   slug: "arousal",
   definition: "arousal Alan administers to himself",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "arousal" }],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

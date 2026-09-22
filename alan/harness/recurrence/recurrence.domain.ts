@@ -5,6 +5,7 @@ export const recurrence = {
   type: "page-type/domain",
   slug: "recurrence",
   definition: "when a repeating thing next falls due",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "recurrence" }],
   parts: ["module/recurrence-shape", "module/scheduling"],
   decisions: [
     {

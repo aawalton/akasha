@@ -5,6 +5,7 @@ export const person = {
   type: "page-type/page-type",
   slug: "person",
   definition: "a human this system reaches",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "person" }],
   extends: ["page-type/domain"],
   parts: [
     "domain/email",

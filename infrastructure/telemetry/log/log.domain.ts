@@ -5,6 +5,10 @@ export const log = {
   type: "page-type/domain",
   slug: "log",
   definition: "the lines a program wrote about what it was doing",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "log" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "logs" },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

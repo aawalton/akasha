@@ -5,6 +5,7 @@ export const memory = {
   type: "page-type/domain",
   slug: "memory",
   definition: "where bytes live while a program holds them",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "memory" }],
   parts: ["domain/memory-limit", "page-type/memory-kind"],
   decisions: [
     {

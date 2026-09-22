@@ -5,6 +5,10 @@ export const namespace = {
   type: "page-type/page-type",
   slug: "namespace",
   definition: "a domain gathering the commands whose slugs open with its own and a hyphen",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "namespace" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "namespaces" },
+  ],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "text-property/level-name", required: false, many: false }],
   decisions: [

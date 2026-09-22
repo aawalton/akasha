@@ -5,6 +5,10 @@ export const role = {
   type: "page-type/page-type",
   slug: "role",
   definition: "the work an agent is answerable for",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "role" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "roles" },
+  ],
   extends: ["page-type/domain"],
   parts: [
     "role/coach",

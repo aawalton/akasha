@@ -5,6 +5,10 @@ export const location = {
   type: "page-type/page-type",
   slug: "location",
   definition: "a place on the map somebody kept",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "location" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "locations" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "boolean-property/visited",

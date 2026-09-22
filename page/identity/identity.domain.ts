@@ -5,5 +5,9 @@ export const identity = {
   type: "page-type/domain",
   slug: "identity",
   definition: "what a page kept in a file is known by",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "identity" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "identities" },
+  ],
   parts: ["module/file-page", "module/sha1-digest"],
 } as const satisfies Domain

@@ -5,6 +5,10 @@ export const type = {
   type: "page-type/domain",
   slug: "type",
   definition: "the shape a value must have",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "type" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "types" },
+  ],
   parts: ["domain/type-import", "domain/type-narrowing"],
   decisions: [
     {

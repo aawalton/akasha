@@ -5,6 +5,7 @@ export const strength = {
   type: "page-type/domain",
   slug: "strength",
   definition: "how much load Alan's body moves",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "strength" }],
   parts: [
     "computed-property-module/lifting",
     "page-type/strength-decline",

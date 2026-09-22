@@ -5,6 +5,10 @@ export const story = {
   type: "page-type/domain",
   slug: "story",
   definition: "worlds and their stories, kept true to each other",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "story" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "stories" },
+  ],
   parts: [
     "domain/narrative-production",
     "domain/story-engine",

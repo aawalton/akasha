@@ -5,6 +5,10 @@ export const code = {
   type: "page-type/domain",
   slug: "code",
   definition: "the code a machine runs",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "code" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "codes" },
+  ],
 
   parts: [
     "domain/audit-ast-unused",

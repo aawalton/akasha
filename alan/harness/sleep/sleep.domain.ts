@@ -5,6 +5,7 @@ export const sleep = {
   type: "page-type/domain",
   slug: "sleep",
   definition: "the hours Alan logs sleeping across a day's stretches",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "sleep" }],
   parts: [
     "module/sleep-reading",
     "readout/upkeep-sleep",

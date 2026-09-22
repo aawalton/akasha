@@ -5,5 +5,6 @@ export const editor = {
   type: "page-type/domain",
   slug: "editor",
   definition: "the editor Alan writes code in",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "editor" }],
   parts: ["domain/extension"],
 } as const satisfies Domain

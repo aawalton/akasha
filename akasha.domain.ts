@@ -5,6 +5,7 @@ export const akasha = {
   type: "page-type/domain",
   slug: "akasha",
   definition: "code, data and text in a page with a type in a file",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "akasha" }],
   parts: [
     "domain/alan",
     "domain/check",

@@ -5,6 +5,10 @@ export const host = {
   type: "page-type/page-type",
   slug: "host",
   definition: "a place the system runs programs",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "host" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "hosts" },
+  ],
   extends: ["page-type/domain"],
   parts: [
     "host/macbook",

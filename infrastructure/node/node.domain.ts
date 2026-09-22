@@ -5,6 +5,10 @@ export const node = {
   type: "page-type/domain",
   slug: "node",
   definition: "one machine in a cluster",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "node" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "nodes" },
+  ],
   parts: ["manifest/nvidia-device-plugin"],
   decisions: [
     {

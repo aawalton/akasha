@@ -5,6 +5,7 @@ export const doctrine = {
   type: "page-type/page-type",
   slug: "doctrine",
   definition: "the rulings a game master runs every game by",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "doctrine" }],
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [

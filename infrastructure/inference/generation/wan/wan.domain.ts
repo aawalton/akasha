@@ -5,6 +5,7 @@ export const wan = {
   type: "page-type/domain",
   slug: "wan",
   definition: "video made from a still image by the Wan diffusion model",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "wan" }],
   parts: [
     "container-recipe/wan-image",
     "module/wan-backbone",

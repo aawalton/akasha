@@ -5,6 +5,10 @@ export const agent = {
   type: "page-type/page-type",
   slug: "agent",
   definition: "one an agent id names, working from a seat or under one",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "agent" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "agents" },
+  ],
   extends: ["page-type/page"],
   mortal: true,
   parts: [

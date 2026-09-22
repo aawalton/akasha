@@ -5,4 +5,5 @@ export const mcp = {
   type: "page-type/domain",
   slug: "mcp",
   definition: "how a program adds Tools to what an agent can call",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "mcp" }],
 } as const satisfies Domain

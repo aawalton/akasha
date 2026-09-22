@@ -5,6 +5,7 @@ export const reading = {
   type: "page-type/domain",
   slug: "reading",
   definition: "how the next thing for Alan to read is chosen",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "readings" }],
   parts: [
     "module/chapter-choosing",
     "module/offline-reading",

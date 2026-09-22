@@ -5,6 +5,10 @@ export const world = {
   type: "page-type/page-type",
   slug: "world",
   definition: "a made-up somewhere",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "world" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "worlds" },
+  ],
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [

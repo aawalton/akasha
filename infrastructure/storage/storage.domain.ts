@@ -5,6 +5,7 @@ export const storage = {
   type: "page-type/domain",
   slug: "storage",
   definition: "where bytes live",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "storage" }],
   parts: [
     "domain/container-registry",
     "domain/disk-store",

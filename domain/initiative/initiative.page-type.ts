@@ -5,6 +5,10 @@ export const initiative = {
   type: "page-type/page-type",
   slug: "initiative",
   definition: "work that closes gaps between how a domain is and how it should be",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "initiative" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "initiatives" },
+  ],
   parts: [
     "record-property/intent-stack",
     "relation-property/initiative",

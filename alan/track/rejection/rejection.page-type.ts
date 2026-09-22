@@ -5,6 +5,10 @@ export const rejection = {
   type: "page-type/page-type",
   slug: "rejection",
   definition: "one time Alan put himself where the answer could be no",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "rejection" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "rejections" },
+  ],
   extends: ["page-type/page"],
   parts: ["boolean-property/rejected", "number-property/risks"],
   properties: [
