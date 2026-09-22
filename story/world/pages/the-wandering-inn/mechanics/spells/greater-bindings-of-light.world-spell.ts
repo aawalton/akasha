@@ -6,5 +6,6 @@ export const greaterBindingsOfLight = {
   slug: "greater-bindings-of-light",
   title: "Greater Bindings of Light",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

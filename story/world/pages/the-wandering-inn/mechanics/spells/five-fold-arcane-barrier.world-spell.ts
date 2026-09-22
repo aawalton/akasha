@@ -6,6 +6,7 @@ export const fiveFoldArcaneBarrier = {
   slug: "five-fold-arcane-barrier",
   title: "Five-Fold Arcane Barrier",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   aliases: ["Five-fold Arcane Barrier"],
   references: "jsonl",
 } as const satisfies WorldSpell

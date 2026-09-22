@@ -6,5 +6,6 @@ export const frictionlessSurface = {
   slug: "frictionless-surface",
   title: "Frictionless Surface",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSpell

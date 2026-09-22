@@ -6,5 +6,6 @@ export const forceful = {
   slug: "forceful",
   title: "Forceful",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

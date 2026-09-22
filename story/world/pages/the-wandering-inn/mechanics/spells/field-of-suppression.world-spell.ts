@@ -6,5 +6,6 @@ export const fieldOfSuppression = {
   slug: "field-of-suppression",
   title: "Field of Suppression",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSpell

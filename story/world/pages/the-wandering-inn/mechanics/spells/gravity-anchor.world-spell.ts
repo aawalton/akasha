@@ -6,5 +6,6 @@ export const gravityAnchor = {
   slug: "gravity-anchor",
   title: "Gravity Anchor",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

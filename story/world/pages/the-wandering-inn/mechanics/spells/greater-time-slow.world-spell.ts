@@ -6,5 +6,6 @@ export const greaterTimeSlow = {
   slug: "greater-time-slow",
   title: "Greater Time Slow",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const fireSupportInfernoLightArrows = {
   slug: "fire-support-inferno-light-arrows",
   title: "Fire Support: Inferno Light Arrows",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

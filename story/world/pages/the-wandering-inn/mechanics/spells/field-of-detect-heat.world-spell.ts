@@ -6,5 +6,6 @@ export const fieldOfDetectHeat = {
   slug: "field-of-detect-heat",
   title: "Field of Detect Heat",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

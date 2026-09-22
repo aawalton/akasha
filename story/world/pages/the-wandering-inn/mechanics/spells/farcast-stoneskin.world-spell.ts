@@ -6,5 +6,6 @@ export const farcastStoneskin = {
   slug: "farcast-stoneskin",
   title: "Farcast: Stoneskin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

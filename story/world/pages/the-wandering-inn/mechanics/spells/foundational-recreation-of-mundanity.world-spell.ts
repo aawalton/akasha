@@ -6,5 +6,6 @@ export const foundationalRecreationOfMundanity = {
   slug: "foundational-recreation-of-mundanity",
   title: "Foundational Recreation of Mundanity",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const fullBodySynchronization = {
   slug: "full-body-synchronization",
   title: "Full Body Synchronization",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

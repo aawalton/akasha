@@ -6,5 +6,6 @@ export const fieldOfDeepestSlumber = {
   slug: "field-of-deepest-slumber",
   title: "Field of Deepest Slumber",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

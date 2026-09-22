@@ -6,5 +6,6 @@ export const greaterIdentification = {
   slug: "greater-identification",
   title: "Greater Identification",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const freedomOfMovement = {
   slug: "freedom-of-movement",
   title: "Freedom of Movement",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell
