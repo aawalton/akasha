@@ -5,7 +5,7 @@ export const temperItemsRulesEval = {
   type: "page-type/domain",
   slug: "temper-items-rules-eval",
   definition:
-    "whether a compiled inventory rule matches one item, and where a matching rule sends that item",
+    "whether a compiled inventory rule matches an item, and where a matching rule sends that item",
   parts: [
     "module/build-item-facts-from-inventory-item",
     "module/category-match",

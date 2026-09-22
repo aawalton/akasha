@@ -4,7 +4,7 @@ export const inventoryManagementPlanRoute = {
   id: "01a06151-3709-7e05-8784-492a19817f13",
   type: "page-type/module",
   slug: "inventory-management-plan-route",
-  definition: "the route one item takes from where the item lies to where a rule sends it",
+  definition: "the route an item takes from where the item lies to where a rule sends it",
   code: "ts",
   decisions: [
     {

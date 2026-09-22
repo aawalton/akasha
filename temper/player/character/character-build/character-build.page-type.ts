@@ -4,7 +4,7 @@ export const characterBuild = {
   id: "01a06835-fae8-7243-8c39-219aa5e07daf",
   type: "page-type/page-type",
   slug: "character-build",
-  definition: "one saved arrangement of a character's gear, skills and stats",
+  definition: "a saved arrangement of a character's gear, skills and stats",
   extends: ["page-type/temper-character-thing"],
   parts: [
     "number-property/build-target-count",
