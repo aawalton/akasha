@@ -30,6 +30,10 @@ import {
   createMovableWindow,
   type WindowPosition,
 } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
+import {
+  drawSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 const PANEL_NAME = "TemperItemsFilterPanel"
@@ -52,6 +56,8 @@ const CLEAR_X = PANEL_WIDTH - PADDING_X - CLEAR_WIDTH
 const ADD_COMBO_X = CLEAR_X - CONTROL_GAP - ADD_COMBO_WIDTH
 
 const ADD_FILTER_LABEL = "+ Add filter"
+
+const PANEL_LEVEL: SurfaceLevel = 1
 
 const GROUP_LABELS: Record<FilterGroup, string> = {
   quality: "Quality",
@@ -95,11 +101,7 @@ export function createFilterBar(config: FilterBarConfig): undefined {
   tlw.SetHidden(true)
   tlw.SetDimensions(PANEL_WIDTH, HEADER_HEIGHT + PADDING_Y)
 
-  const bg = WINDOW_MANAGER.CreateControl("$(parent)BG", tlw, CT_BACKDROP)
-  bg.SetAnchorFill()
-  bg.SetCenterColor(0, 0, 0, 0.5)
-  bg.SetEdgeColor(0, 0, 0, 0)
-  bg.SetEdgeTexture(undefined, 1, 1, 1)
+  drawSurface(tlw, PANEL_LEVEL)
 
   const dragHandle = WINDOW_MANAGER.CreateControl("$(parent)DragHandle", tlw, CT_CONTROL)
   dragHandle.SetAnchor(TOPLEFT, tlw, TOPLEFT, 0, 0)

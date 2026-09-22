@@ -5,6 +5,10 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import { TEXT_SECONDARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { createFieldRegistry } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-field-registry/hud-addon-field-registry.module.code.ts"
 import type { HudField } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-types/hud-addon-types.module.code.ts"
+import {
+  paintSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
@@ -22,7 +26,7 @@ const COL_GAP = 28
 
 const COLUMN_WIDTH = 40
 
-const BACKDROP_ALPHA = 0.6
+const BAR_LEVEL: SurfaceLevel = 1
 
 const registry = createFieldRegistry()
 const labels = new Map<string, LabelControl>()
@@ -62,7 +66,7 @@ export function initializeHudBar(): undefined {
 
   const backdrop = WINDOW_MANAGER.CreateControl(HUD_BACKDROP_NAME, bar, CT_BACKDROP)
   backdrop.SetAnchorFill(bar)
-  backdrop.SetCenterColor(0, 0, 0, BACKDROP_ALPHA)
+  paintSurface(backdrop, BAR_LEVEL)
   backdrop.SetEdgeColor(0, 0, 0, 0)
   backdrop.SetDrawLayer(DL_BACKGROUND)
 

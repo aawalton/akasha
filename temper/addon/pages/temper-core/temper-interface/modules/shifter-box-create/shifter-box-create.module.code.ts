@@ -32,6 +32,10 @@ import type {
   ShifterBoxList,
   ShifterBoxSettings,
 } from "akasha/temper/addon/pages/temper-core/temper-interface/modules/shifter-types/shifter-types.module.code.ts"
+import {
+  paintSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
@@ -42,6 +46,8 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const DEBUG_BOXES = new LuaTable<AnyNotNil, Record<string, unknown>>()
+
+const LIST_LEVEL: SurfaceLevel = 2
 
 export function createShifterBox(
   uniqueAddonName: unknown,
@@ -137,7 +143,7 @@ export function initShifterBoxControls(obj: ShifterBox): undefined {
 
   const initListFrames = (parentListControl: Control): undefined => {
     const listFrameControl = asBackdropControl(parentListControl.GetNamedChild("Frame"))
-    listFrameControl.SetCenterColor(0, 0, 0, 1)
+    paintSurface(listFrameControl, LIST_LEVEL)
     listFrameControl.SetEdgeTexture(undefined, 1, 1, 1)
   }
 

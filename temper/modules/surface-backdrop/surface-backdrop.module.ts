@@ -20,6 +20,11 @@ export const surfaceBackdrop = {
       statement: "A surface is opaque, and none of the game shows through it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A caller needing its own name, anchors or layer makes the backdrop and has this color it.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No edge is drawn here.",
     },
