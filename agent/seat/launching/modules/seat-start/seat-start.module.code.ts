@@ -31,13 +31,13 @@ import {
   principals,
 } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { composedNameOf } from "akasha/agent/seat/name/modules/seat-rename/seat-rename.module.code.ts"
-import { mintNamedAgent } from "akasha/agent/seat/name-claiming/modules/seat-name-bind/seat-name-bind.module.code.ts"
-import { refuseHeldName } from "akasha/agent/seat/name-claiming/modules/seat-name-held-refusal/seat-name-held-refusal.module.code.ts"
-import { refuseParentless } from "akasha/agent/seat/name-claiming/modules/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
+import { mintNamedAgent } from "akasha/agent/seat/start-guard/modules/seat-name-bind/seat-name-bind.module.code.ts"
+import { refuseHeldName } from "akasha/agent/seat/start-guard/modules/seat-name-held-refusal/seat-name-held-refusal.module.code.ts"
+import { refuseParentless } from "akasha/agent/seat/start-guard/modules/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
 import {
   compositionOf,
   decideSpawnName,
-} from "akasha/agent/seat/name-claiming/modules/seat-spawn-name-decide/seat-spawn-name-decide.module.code.ts"
+} from "akasha/agent/seat/start-guard/modules/seat-spawn-name-decide/seat-spawn-name-decide.module.code.ts"
 import type { StatedAgentSlots } from "akasha/agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import {
   dataError,

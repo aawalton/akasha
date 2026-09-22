@@ -10,7 +10,6 @@
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/fleet/modules/seat-facts/seat-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/fleet/modules/seat-roster/seat-roster.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/fleet/modules/seat-work/seat-work.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/name-claiming/modules/agent-name-bind/agent-name-bind.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/name/modules/seat-flex/seat-flex.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/name/modules/seat-rename/seat-rename.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/oauth-proxy/modules/seat-proxy-state/seat-proxy-state.module.code.ts"}
@@ -19,6 +18,7 @@
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/page/modules/seat-record/seat-record.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/start-guard/modules/agent-name-bind/agent-name-bind.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}

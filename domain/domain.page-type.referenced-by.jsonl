@@ -149,7 +149,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/capability/seat-capability.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/declaration/seat-declaration.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/fleet/seat-fleet.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/name-claiming/seat-name-claiming.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/name/seat-name.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/oauth-proxy/oauth-proxy.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/observation/seat-observation.domain.ts"}
@@ -159,6 +158,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/pty/pty.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/reviving/seat-reviving.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/self-healing/self-healing.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/start-guard/seat-start-guard.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/seat-supervisor.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-account/supervisor-account.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.types.ts"}

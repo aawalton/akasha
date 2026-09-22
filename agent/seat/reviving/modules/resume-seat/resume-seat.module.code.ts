@@ -10,15 +10,15 @@ import {
 } from "akasha/agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
-import {
-  decideSpawnGuard,
-  type SpawnGuardDecision,
-  type SpawnGuardInput,
-} from "akasha/agent/seat/name-claiming/modules/spawn-guard/spawn-guard.module.code.ts"
 import type { SeatPresence } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { terminatePriorAgentTree } from "akasha/agent/seat/reviving/modules/seat-recovery/seat-recovery.module.code.ts"
 import { resolveRelaunchTarget } from "akasha/agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"
 import { decideReviveLaunch } from "akasha/agent/seat/reviving/modules/seat-revive-launch-decide/seat-revive-launch-decide.module.code.ts"
+import {
+  decideSpawnGuard,
+  type SpawnGuardDecision,
+  type SpawnGuardInput,
+} from "akasha/agent/seat/start-guard/modules/spawn-guard/spawn-guard.module.code.ts"
 import { clearRequestedAction } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
 import { SEAT_START_DIR } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {

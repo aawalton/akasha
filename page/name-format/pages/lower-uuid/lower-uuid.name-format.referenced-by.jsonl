@@ -1,9 +1,9 @@
 {"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"}
 {"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"}
-{"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"agent/seat/name-claiming/modules/seat-name-claim/seat-name-claim.module.code.ts"}
 {"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"agent/seat/name/modules/seat-rename/seat-rename.module.code.ts"}
 {"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"agent/seat/name/modules/stands/seat-name-stands.module.code.ts"}
 {"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"agent/seat/session/seat-session.module.code.ts"}
+{"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"agent/seat/start-guard/modules/seat-name-claim/seat-name-claim.module.code.ts"}
 {"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"alan/web/routes/alan-web-api-image/alan-web-api-image.route.code.ts"}
 {"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"}
 {"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"page/index/modules/surface/index-surface.module.code.ts"}

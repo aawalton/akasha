@@ -25,7 +25,7 @@ export const seat = {
     "domain/seat-declaration",
     "domain/seat-fleet",
     "domain/seat-name",
-    "domain/seat-name-claiming",
+    "domain/seat-start-guard",
     "domain/seat-observation",
     "domain/seat-page",
     "domain/seat-reviving",

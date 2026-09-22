@@ -15,13 +15,13 @@ import {
   personaDefaultsOf,
 } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { composedNameOf } from "akasha/agent/seat/name/modules/seat-rename/seat-rename.module.code.ts"
-import { mintNamedAgent } from "akasha/agent/seat/name-claiming/modules/seat-name-bind/seat-name-bind.module.code.ts"
-import { refuseHeldName } from "akasha/agent/seat/name-claiming/modules/seat-name-held-refusal/seat-name-held-refusal.module.code.ts"
-import { refuseParentless } from "akasha/agent/seat/name-claiming/modules/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
+import { mintNamedAgent } from "akasha/agent/seat/start-guard/modules/seat-name-bind/seat-name-bind.module.code.ts"
+import { refuseHeldName } from "akasha/agent/seat/start-guard/modules/seat-name-held-refusal/seat-name-held-refusal.module.code.ts"
+import { refuseParentless } from "akasha/agent/seat/start-guard/modules/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
 import {
   decideSkillTokenGuard,
   DECLARING_MODULE as SKILL_TOKEN_GUARD_DECLARING,
-} from "akasha/agent/seat/name-claiming/modules/skill-token-guard/skill-token-guard.module.code.ts"
+} from "akasha/agent/seat/start-guard/modules/skill-token-guard/skill-token-guard.module.code.ts"
 import {
   dataError,
   inputError,

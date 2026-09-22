@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { STATED_PARENT } from "akasha/agent/seat/name-claiming/modules/seat-stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
+import { STATED_PARENT } from "akasha/agent/seat/start-guard/modules/seat-stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
 import type { Argument } from "akasha/command/argument/argument.page-type.types.ts"
 import { account } from "akasha/command/argument/pages/account.argument.ts"
 import { anthropicAuthToken } from "akasha/command/argument/pages/anthropic-auth-token.argument.ts"

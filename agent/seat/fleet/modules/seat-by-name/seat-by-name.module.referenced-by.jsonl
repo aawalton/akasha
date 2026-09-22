@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"seat-by-name.module.code.ts","path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-by-name.module.code.ts","path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-by-name.module.code.ts","path":"agent/seat/name-claiming/modules/seat-name-bind/seat-name-bind.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-by-name.module.code.ts","path":"agent/seat/name/modules/restate/seat-name-restate.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-by-name.module.code.ts","path":"agent/seat/start-guard/modules/seat-name-bind/seat-name-bind.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/fleet/seat-fleet.domain.ts","id":"01a09c4c-951f-79d4-a631-988b1c54b8eb"}

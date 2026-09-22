@@ -1,6 +1,0 @@
-{"propertySlug":"import","fileName":"seat-name-bind.module.code.ts","path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-name-bind.module.code.ts","path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-name-bind.module.code.ts","path":"agent/seat/name/modules/restate/seat-name-restate.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-name-bind.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-name-bind.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/run-supervisor/run-supervisor.module.code.ts"}
-{"propertySlug":"parts","path":"agent/seat/name-claiming/seat-name-claiming.domain.ts","id":"01a09c46-7450-76f1-bb55-13db5f6c98fd"}
