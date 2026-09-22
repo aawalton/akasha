@@ -8,6 +8,7 @@ export const temperAddonWorld = {
     "the add-on pinning map and compass, keeping a minimap, answering quest dialogue and browsing leads",
 
   addonManifest: "json",
+  addonIconsFolder: true,
   addonDdsFile: true,
   bindings: "xml",
   bundleEntry: "module/world-entry",
@@ -19,8 +20,16 @@ export const temperAddonWorld = {
     "domain/temper-addon-world-navigation",
     "domain/temper-addon-world-quests",
     "domain/temper-addon-world-antiquities",
+    "domain/temper-addon-world-collections",
   ],
-  interfaces: ["eso-interface/minimap-animations", "eso-interface/leads-layout"],
+  interfaces: [
+    "eso-interface/minimap-animations",
+    "eso-interface/leads-layout",
+    "eso-interface/journal-controls",
+    "eso-interface/lorebooks-report-layout",
+    "eso-interface/lost-treasure-map-layout",
+    "eso-interface/item-browser-layout",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

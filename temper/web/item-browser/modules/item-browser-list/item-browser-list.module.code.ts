@@ -1,4 +1,4 @@
-import { journalListClass } from "akasha/temper/addon/pages/collections/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"
+import { journalListClass } from "akasha/temper/addon/pages/world/collections/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"
 import {
   DATA_TYPE,
   PLEDGE_FILTER_ID,

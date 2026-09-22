@@ -1,4 +1,4 @@
-import { Public } from "akasha/temper/addon/pages/collections/modules/journal-state/journal-state.module.code.ts"
+import { Public } from "akasha/temper/addon/pages/world/collections/modules/journal-state/journal-state.module.code.ts"
 import { FLAG_BROWSER_ITEM } from "akasha/temper/web/item-browser/modules/item-browser-constants/item-browser-constants.module.code.ts"
 import {
   getSelectedAccount,

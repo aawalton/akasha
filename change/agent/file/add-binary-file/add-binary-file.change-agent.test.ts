@@ -3,7 +3,7 @@ import { addBinaryFileCommand } from "akasha/change/agent/file/add-binary-file/a
 import { type Held, NOT_TEXT } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const BYTES = "temper/addon/pages/collections/Icons/book1.dds"
+const BYTES = "temper/addon/pages/world/Icons/book1.dds"
 
 const TEXT = "akasha/one/notes.md"
 

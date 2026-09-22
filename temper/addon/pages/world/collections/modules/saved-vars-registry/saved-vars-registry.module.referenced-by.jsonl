@@ -1,0 +1,13 @@
+{"propertySlug":"import","fileName":"saved-vars-registry.module.code.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-data-active/saved-vars-data-active.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-vars-registry.module.code.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-data-constructors/saved-vars-data-constructors.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-vars-registry.module.code.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-data-iterator/saved-vars-data-iterator.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-vars-registry.module.code.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-data-migrate/saved-vars-data-migrate.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-vars-registry.module.code.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-data-settings/saved-vars-data-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-vars-registry.module.code.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-data/saved-vars-data.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-vars-registry.module.code.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-lib-core/saved-vars-lib-core.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-vars-registry.module.code.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-lib-overrides/saved-vars-lib-overrides.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-vars-registry.module.code.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-manager-core/saved-vars-manager-core.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-vars-registry.module.code.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-manager/saved-vars-manager.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-vars-registry.module.code.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-protected-migrate/saved-vars-protected-migrate.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-vars-registry.module.code.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-protected/saved-vars-protected.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/pages/world/collections/temper-addon-world-collections.domain.ts","id":"01a0c701-b7e2-7653-a42c-091824596cae"}

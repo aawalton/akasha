@@ -1,6 +1,6 @@
 import "akasha/temper/web/item-browser/modules/item-browser-global/item-browser-global.module.code.ts"
 
-import { Public } from "akasha/temper/addon/pages/collections/modules/journal-state/journal-state.module.code.ts"
+import { Public } from "akasha/temper/addon/pages/world/collections/modules/journal-state/journal-state.module.code.ts"
 import { initializeMultiAccount } from "akasha/temper/web/item-browser/modules/item-browser-multi-account/item-browser-multi-account.module.code.ts"
 import {
   initializeSavedVariables,

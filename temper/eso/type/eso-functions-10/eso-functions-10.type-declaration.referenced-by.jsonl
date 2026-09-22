@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-skills-panel/companions-skills-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/journal-tooltips/journal-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-combat-events/combat-action-combat-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-events/combat-action-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-power-lash/combat-action-power-lash.module.code.ts"}
@@ -21,6 +20,7 @@
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-ui/fco-ui.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-alerts/leads-alerts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tooltips/journal-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-data-runtime/destinations-data-runtime.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-callbacks-loot/map-pins-callbacks-loot.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-callbacks/map-pins-callbacks.module.code.ts"}

@@ -2,7 +2,7 @@ import {
   getTreasureBookIdItemId,
   getTreasureItemIdData,
   getTreasureTextureData,
-} from "akasha/temper/addon/pages/collections/modules/treasure-api/treasure-api.module.code.ts"
+} from "akasha/temper/addon/pages/world/collections/modules/treasure-api/treasure-api.module.code.ts"
 import {
   LOST_TREASURE_BOOK_NOT_OPENED,
   LOST_TREASURE_MAP_NOT_OPENED,

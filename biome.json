@@ -170,7 +170,7 @@
         "temper/catalog/world/lorebook/modules/lorebooks-book-data*/**",
         "temper/catalog/world/lorebook/modules/lorebooks-library-data*/**",
         "temper/catalog/world/lorebook/modules/lorebooks-shalidor-locations*/**",
-        "temper/addon/pages/collections/modules/treasure-pins-data*/**",
+        "temper/addon/pages/world/collections/modules/treasure-pins-data*/**",
         "temper/addon/pages/world/**"
       ],
       "linter": {

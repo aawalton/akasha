@@ -415,7 +415,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-scribing-sources/characters-scribing-sources.module.ts","id":"01a062ed-39c9-700c-9df3-7f4288c3c504"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/collections/modules/treasure-api/treasure-api.module.ts","id":"01a061d5-d0c0-73e1-8312-b0bc2d8d34a1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-casts/sets-casts.module.ts","id":"01a0617b-4b73-706b-9bf0-e2b177ca28eb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-core-api-armor-weapon-equip-class/sets-core-api-armor-weapon-equip-class.module.ts","id":"01a06231-8f1d-717e-ad62-dd5ee6472601"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/modules/sets-core-api-wayshrine-dlc-settype/sets-core-api-wayshrine-dlc-settype.module.ts","id":"01a06231-8f1c-7200-9fb9-2df4b2450fce"}
@@ -436,6 +435,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/housing/modules/housing-ui-strings/housing-ui-strings.module.ts","id":"01a06128-d5d5-7969-b568-4feea14f801b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/housing/temper-addon-housing.temper-addon.ts","id":"01a06113-b7cb-7519-aaf3-198045bc75aa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-search/scrollable-menu-dropdown-class-search.module.ts","id":"01a06275-c448-784f-b2c1-a28462d70542"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-api/treasure-api.module.ts","id":"01a061d5-d0c0-73e1-8312-b0bc2d8d34a1"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/completion-import/modules/completion-input-schema/completion-input-schema.module.ts","id":"01a060d7-c8ce-7583-8247-676a8ee7d0c5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}

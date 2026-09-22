@@ -1,4 +1,4 @@
-import { getTreasureIcons } from "akasha/temper/addon/pages/collections/modules/treasure-api/treasure-api.module.code.ts"
+import { getTreasureIcons } from "akasha/temper/addon/pages/world/collections/modules/treasure-api/treasure-api.module.code.ts"
 import {
   type LamDropdownData,
   valueDropdown,

@@ -1,7 +1,7 @@
 import {
   getTreasureIcons,
   getTreasureMapIdData,
-} from "akasha/temper/addon/pages/collections/modules/treasure-api/treasure-api.module.code.ts"
+} from "akasha/temper/addon/pages/world/collections/modules/treasure-api/treasure-api.module.code.ts"
 import { isItemInBagCache } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-bag-cache/lost-treasure-bag-cache.module.code.ts"
 import {
   ADDON_DISPLAY_NAME,

@@ -1,5 +1,5 @@
-import type { TooltipExtensionInstance } from "akasha/temper/addon/pages/collections/modules/journal-shape/journal-shape.module.code.ts"
-import { Public } from "akasha/temper/addon/pages/collections/modules/journal-state/journal-state.module.code.ts"
+import type { TooltipExtensionInstance } from "akasha/temper/addon/pages/world/collections/modules/journal-shape/journal-shape.module.code.ts"
+import { Public } from "akasha/temper/addon/pages/world/collections/modules/journal-state/journal-state.module.code.ts"
 import {
   FLAG_FULL_PIECES,
   FLAG_OTHER_SERVER,

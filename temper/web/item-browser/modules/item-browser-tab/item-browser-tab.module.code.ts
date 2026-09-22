@@ -1,4 +1,4 @@
-import { Public } from "akasha/temper/addon/pages/collections/modules/journal-state/journal-state.module.code.ts"
+import { Public } from "akasha/temper/addon/pages/world/collections/modules/journal-state/journal-state.module.code.ts"
 import {
   ADDON_NAME,
   SLASH_COMMANDS_LIST,

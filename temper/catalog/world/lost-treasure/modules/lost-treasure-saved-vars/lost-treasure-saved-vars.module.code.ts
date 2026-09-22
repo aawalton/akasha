@@ -1,5 +1,5 @@
-import { newAccountWideSavedVars } from "akasha/temper/addon/pages/collections/modules/saved-vars-lib-core/saved-vars-lib-core.module.code.ts"
-import { getTreasureIcons } from "akasha/temper/addon/pages/collections/modules/treasure-api/treasure-api.module.code.ts"
+import { newAccountWideSavedVars } from "akasha/temper/addon/pages/world/collections/modules/saved-vars-lib-core/saved-vars-lib-core.module.code.ts"
+import { getTreasureIcons } from "akasha/temper/addon/pages/world/collections/modules/treasure-api/treasure-api.module.code.ts"
 import {
   LOST_TREASURE_BLANK_SAVED_VARS,
   LOST_TREASURE_MARK_OPTIONS_INVENTORY,
