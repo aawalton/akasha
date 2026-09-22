@@ -26,7 +26,15 @@ export const globalNameDependents = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A name is read from the name, the inherits and the relativeTo an element states.",
+      statement: "A name is read from the name, inherits, relativeTo and text an element states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A string id a control takes its text from is a global that markup reads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Plain words in an attribute are read as names, so a common word is over-reported.",
     },
     {
       decisionKind: "decision-kind/departure",

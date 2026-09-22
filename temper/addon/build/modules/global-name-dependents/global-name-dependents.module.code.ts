@@ -14,6 +14,7 @@ export type DependentKind =
   | "xml-control-name"
   | "xml-inherits-ref"
   | "xml-anchor-ref"
+  | "xml-text-ref"
   | "lam-topology-binding"
 
 export interface DependentRef {
@@ -222,6 +223,7 @@ const MARKUP_NAME_ATTRIBUTES: ReadonlyMap<string, DependentKind> = new Map([
   ["name", "xml-control-name"],
   ["inherits", "xml-inherits-ref"],
   ["relativeTo", "xml-anchor-ref"],
+  ["text", "xml-text-ref"],
 ])
 
 const MARKUP_ATTRIBUTE = new RegExp(
