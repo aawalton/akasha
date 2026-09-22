@@ -110,7 +110,7 @@ export const changeWalking = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A walk over everything takes the files in the tree rather than the files the index names.",
+        "A walk over everything takes the files the commit holds rather than the files beside them.",
     },
     {
       decisionKind: "decision-kind/departure",
