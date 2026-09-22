@@ -1,6 +1,6 @@
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { namesIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import {
   slugAt,
   type Value,
@@ -54,13 +54,13 @@ export function whyRefused(propertySlug: string, said: string): string | null {
   return null
 }
 
-export function keyingIn(under: ReadonlySet<string>, shadow: Shadow): Keying {
+export function keyingIn(under: ReadonlySet<string>, paged: Paged): Keying {
   const held = new Map<string, readonly Keyed[]>()
   return (pageTypeSlug) => {
     const found = held.get(pageTypeSlug)
     if (found !== undefined) return found
     const made: Keyed[] = []
-    for (const one of shadow.index.propertiesOf(pageTypeSlug)) {
+    for (const one of paged.index.propertiesOf(pageTypeSlug)) {
       if (under.has(one.pageTypeSlug)) made.push({ propertySlug: one.propertySlug, key: one.key })
     }
     held.set(pageTypeSlug, made)

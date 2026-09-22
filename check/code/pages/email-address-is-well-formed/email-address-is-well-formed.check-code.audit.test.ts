@@ -7,6 +7,7 @@ import {
   founded,
   pathFor,
   put,
+  tracked,
   typed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
@@ -33,7 +34,7 @@ function rooted(): string {
   typed(root, ADDRESS, "page-property")
   declaring(root, "email-address", { pageTypeSlug: ADDRESS })
   typed(root, HELD, "page", ["email-address"])
-  return root
+  return tracked(root)
 }
 
 function heldFor(slug: string, stated: Record<string, unknown>): Record<string, unknown> {

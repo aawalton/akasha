@@ -23,10 +23,8 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.decision.test.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/email-address-is-well-formed/email-address-is-well-formed.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/email-address-is-well-formed/email-address-is-well-formed.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/email-address-is-well-formed/email-address-is-well-formed.check-code.check.test.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/email-address-is-well-formed/email-address-is-well-formed.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/email-address-is-well-formed/email-address-is-well-formed.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.check.test.ts"}
