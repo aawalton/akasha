@@ -11,5 +11,13 @@ export const companionQolBindings = {
       decisionKind: "decision-kind/departure",
       statement: "A keybind name is added as a game string rather than declared in the manifest.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every companion the game ships has a keybind action written in the bindings.",
+    },
+    {
+      decisionKind: "decision-kind/upkeep",
+      statement: "A companion the game adds is written into the bindings before it can be bound.",
+    },
   ],
 } as const satisfies Module
