@@ -46,6 +46,15 @@
       <Action name="FCOCO_TOGGLE_COMPANION_10">
         <Down>TemperCharacters.ToggleCompanion(10)</Down>
       </Action>
+      <Action name="FCOCO_TOGGLE_COMPANION_11">
+        <Down>TemperCharacters.ToggleCompanion(11)</Down>
+      </Action>
+      <Action name="FCOCO_TOGGLE_COMPANION_12">
+        <Down>TemperCharacters.ToggleCompanion(12)</Down>
+      </Action>
+      <Action name="FCOCO_TOGGLE_COMPANION_13">
+        <Down>TemperCharacters.ToggleCompanion(13)</Down>
+      </Action>
     </Category>
   </Layer>
 </Bindings>
