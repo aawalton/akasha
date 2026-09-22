@@ -2,5 +2,3 @@
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/akasha-findings-to-zero.initiative.ts","id":"01a0884c-4471-76ab-86aa-bb94691c846a"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"seat-persona","path":"agent/seat/pages/akasha/akasha.seat.ts","id":"01a0c43b-c850-7000-bf18-1f9984f6d268"}
-{"propertySlug":"sent-from","path":"alan/harness/reminder-system/reminder/pages/message-sending-proof.reminder.ts","id":"01a0c9b7-2676-7f83-bb30-664ae92b9202"}
-{"propertySlug":"sent-to","path":"alan/harness/reminder-system/reminder/pages/message-sending-proof.reminder.ts","id":"01a0c9b7-2676-7f83-bb30-664ae92b9202"}
