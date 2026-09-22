@@ -12,13 +12,13 @@ export const intellectProphecySorceryMagickaRestore = {
   seconds: 47,
   recipes: [
     {
-      names: ["Corn Flower", "Crimson Nirnroot", "Lady's Smock"],
+      reagents: ["Corn Flower", "Crimson Nirnroot", "Lady's Smock"],
     },
     {
-      names: ["Corn Flower", "Lady's Smock", "Namira's Rot"],
+      reagents: ["Corn Flower", "Lady's Smock", "Namira's Rot"],
     },
     {
-      names: ["Corn Flower", "Lady's Smock", "Water Hyacinth"],
+      reagents: ["Corn Flower", "Lady's Smock", "Water Hyacinth"],
     },
   ],
   effects: "jsonl",

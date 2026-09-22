@@ -12,31 +12,31 @@ export const enduranceFortitudeIntellectHealthRestoreMagickaRestoreStaminaRestor
   seconds: 47,
   recipes: [
     {
-      names: ["Blessed Thistle", "Bugloss", "Columbine"],
+      reagents: ["Blessed Thistle", "Bugloss", "Columbine"],
     },
     {
-      names: ["Bugloss", "Chaurus Egg", "Columbine"],
+      reagents: ["Bugloss", "Chaurus Egg", "Columbine"],
     },
     {
-      names: ["Bugloss", "Columbine", "Dragon's Blood"],
+      reagents: ["Bugloss", "Columbine", "Dragon's Blood"],
     },
     {
-      names: ["Bugloss", "Columbine", "Dragonthorn"],
+      reagents: ["Bugloss", "Columbine", "Dragonthorn"],
     },
     {
-      names: ["Bugloss", "Columbine", "Mountain Flower"],
+      reagents: ["Bugloss", "Columbine", "Mountain Flower"],
     },
     {
-      names: ["Columbine", "Corn Flower", "Mountain Flower"],
+      reagents: ["Columbine", "Corn Flower", "Mountain Flower"],
     },
     {
-      names: ["Columbine", "Dragon Rheum", "Mountain Flower"],
+      reagents: ["Columbine", "Dragon Rheum", "Mountain Flower"],
     },
     {
-      names: ["Columbine", "Lady's Smock", "Mountain Flower"],
+      reagents: ["Columbine", "Lady's Smock", "Mountain Flower"],
     },
     {
-      names: ["Columbine", "Mountain Flower", "Vile Coagulant"],
+      reagents: ["Columbine", "Mountain Flower", "Vile Coagulant"],
     },
   ],
   effects: "jsonl",

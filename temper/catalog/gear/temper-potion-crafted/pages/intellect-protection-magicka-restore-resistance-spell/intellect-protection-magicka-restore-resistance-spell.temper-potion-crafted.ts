@@ -12,7 +12,7 @@ export const intellectProtectionMagickaRestoreResistanceSpell = {
   seconds: 47,
   recipes: [
     {
-      names: ["Bugloss", "Mudcrab Chitin", "Vile Coagulant"],
+      reagents: ["Bugloss", "Mudcrab Chitin", "Vile Coagulant"],
     },
   ],
   effects: "jsonl",

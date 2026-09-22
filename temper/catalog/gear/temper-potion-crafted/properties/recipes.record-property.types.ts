@@ -2,5 +2,5 @@ import type { List } from "akasha/page/type/page-property/page-property.page-typ
 import type { ReagentNames } from "akasha/temper/catalog/gear/temper-potion-crafted/properties/reagent-names.text-property.types.ts"
 
 export type Recipes = List<{
-  names: ReagentNames
+  reagents: ReagentNames
 }>

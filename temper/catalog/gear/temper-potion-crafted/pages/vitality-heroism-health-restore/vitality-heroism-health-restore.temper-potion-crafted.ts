@@ -12,10 +12,10 @@ export const vitalityHeroismHealthRestore = {
   seconds: 47,
   recipes: [
     {
-      names: ["Butterfly Wing", "Dragon's Bile", "Dragon's Blood"],
+      reagents: ["Butterfly Wing", "Dragon's Bile", "Dragon's Blood"],
     },
     {
-      names: ["Dragon's Bile", "Dragon's Blood", "Powdered Mother of Pearl"],
+      reagents: ["Dragon's Bile", "Dragon's Blood", "Powdered Mother of Pearl"],
     },
   ],
   effects: "jsonl",

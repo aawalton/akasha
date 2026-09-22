@@ -12,16 +12,16 @@ export const fortitudeIntellectProphecyHealthRestoreMagickaRestore = {
   seconds: 47,
   recipes: [
     {
-      names: ["Bugloss", "Crimson Nirnroot", "Lady's Smock"],
+      reagents: ["Bugloss", "Crimson Nirnroot", "Lady's Smock"],
     },
     {
-      names: ["Bugloss", "Lady's Smock", "Water Hyacinth"],
+      reagents: ["Bugloss", "Lady's Smock", "Water Hyacinth"],
     },
     {
-      names: ["Columbine", "Crimson Nirnroot", "Lady's Smock"],
+      reagents: ["Columbine", "Crimson Nirnroot", "Lady's Smock"],
     },
     {
-      names: ["Columbine", "Lady's Smock", "Water Hyacinth"],
+      reagents: ["Columbine", "Lady's Smock", "Water Hyacinth"],
     },
   ],
   effects: "jsonl",

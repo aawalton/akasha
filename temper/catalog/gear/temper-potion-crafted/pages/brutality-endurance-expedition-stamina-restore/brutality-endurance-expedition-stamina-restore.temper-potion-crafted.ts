@@ -12,16 +12,16 @@ export const brutalityEnduranceExpeditionStaminaRestore = {
   seconds: 47,
   recipes: [
     {
-      names: ["Blessed Thistle", "Dragon Rheum", "Dragonthorn"],
+      reagents: ["Blessed Thistle", "Dragon Rheum", "Dragonthorn"],
     },
     {
-      names: ["Blessed Thistle", "Dragonthorn", "Namira's Rot"],
+      reagents: ["Blessed Thistle", "Dragonthorn", "Namira's Rot"],
     },
     {
-      names: ["Blessed Thistle", "Dragonthorn", "Powdered Mother of Pearl"],
+      reagents: ["Blessed Thistle", "Dragonthorn", "Powdered Mother of Pearl"],
     },
     {
-      names: ["Blessed Thistle", "Dragonthorn", "Scrib Jelly"],
+      reagents: ["Blessed Thistle", "Dragonthorn", "Scrib Jelly"],
     },
   ],
   effects: "jsonl",

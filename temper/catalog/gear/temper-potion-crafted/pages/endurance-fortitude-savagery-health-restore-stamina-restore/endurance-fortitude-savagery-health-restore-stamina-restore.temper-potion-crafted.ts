@@ -12,10 +12,10 @@ export const enduranceFortitudeSavageryHealthRestoreStaminaRestore = {
   seconds: 47,
   recipes: [
     {
-      names: ["Columbine", "Dragonthorn", "Water Hyacinth"],
+      reagents: ["Columbine", "Dragonthorn", "Water Hyacinth"],
     },
     {
-      names: ["Dragonthorn", "Mountain Flower", "Water Hyacinth"],
+      reagents: ["Dragonthorn", "Mountain Flower", "Water Hyacinth"],
     },
   ],
   effects: "jsonl",

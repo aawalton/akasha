@@ -12,7 +12,7 @@ export const enduranceIntellectMagickaRestoreStaminaRestoreStealthDetection = {
   seconds: 47,
   recipes: [
     {
-      names: ["Chaurus Egg", "Columbine", "Corn Flower"],
+      reagents: ["Chaurus Egg", "Columbine", "Corn Flower"],
     },
   ],
   effects: "jsonl",

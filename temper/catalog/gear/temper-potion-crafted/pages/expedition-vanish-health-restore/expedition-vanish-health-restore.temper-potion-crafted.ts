@@ -12,10 +12,10 @@ export const expeditionVanishHealthRestore = {
   seconds: 47,
   recipes: [
     {
-      names: ["Namira's Rot", "Powdered Mother of Pearl", "Spider Egg"],
+      reagents: ["Namira's Rot", "Powdered Mother of Pearl", "Spider Egg"],
     },
     {
-      names: ["Namira's Rot", "Scrib Jelly", "Spider Egg"],
+      reagents: ["Namira's Rot", "Scrib Jelly", "Spider Egg"],
     },
   ],
   effects: "jsonl",

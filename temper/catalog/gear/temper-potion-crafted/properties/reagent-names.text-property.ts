@@ -4,7 +4,7 @@ export const reagentNames = {
   id: "01a05fd1-d43d-7249-ac3e-8dcf8869e271",
   type: "page-type/text-property",
   slug: "reagent-names",
-  propertySlug: "names",
+  propertySlug: "reagents",
   definition: "a recipe's reagents",
   maxLength: 100,
   nameFormat: null,

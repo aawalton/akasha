@@ -12,10 +12,10 @@ export const expeditionHeroismHealthRestore = {
   seconds: 47,
   recipes: [
     {
-      names: ["Dragon's Blood", "Dragon Rheum", "Powdered Mother of Pearl"],
+      reagents: ["Dragon's Blood", "Dragon Rheum", "Powdered Mother of Pearl"],
     },
     {
-      names: ["Dragon's Blood", "Dragon Rheum", "Scrib Jelly"],
+      reagents: ["Dragon's Blood", "Dragon Rheum", "Scrib Jelly"],
     },
   ],
   effects: "jsonl",

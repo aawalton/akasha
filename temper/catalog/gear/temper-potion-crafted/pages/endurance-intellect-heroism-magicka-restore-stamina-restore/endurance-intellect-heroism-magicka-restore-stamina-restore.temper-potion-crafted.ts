@@ -12,7 +12,7 @@ export const enduranceIntellectHeroismMagickaRestoreStaminaRestore = {
   seconds: 47,
   recipes: [
     {
-      names: ["Columbine", "Dragon's Blood", "Dragon Rheum"],
+      reagents: ["Columbine", "Dragon's Blood", "Dragon Rheum"],
     },
   ],
   effects: "jsonl",

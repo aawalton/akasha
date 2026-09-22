@@ -12,7 +12,7 @@ export const expeditionHeroismVanish = {
   seconds: 47,
   recipes: [
     {
-      names: ["Dragon's Bile", "Dragon Rheum", "Namira's Rot"],
+      reagents: ["Dragon's Bile", "Dragon Rheum", "Namira's Rot"],
     },
   ],
   effects: "jsonl",

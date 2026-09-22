@@ -12,16 +12,16 @@ export const intellectSorceryMagickaRestoreStealthDetection = {
   seconds: 47,
   recipes: [
     {
-      names: ["Chaurus Egg", "Corn Flower", "Lady's Smock"],
+      reagents: ["Chaurus Egg", "Corn Flower", "Lady's Smock"],
     },
     {
-      names: ["Corn Flower", "Lady's Smock", "Torchbug Thorax"],
+      reagents: ["Corn Flower", "Lady's Smock", "Torchbug Thorax"],
     },
     {
-      names: ["Corn Flower", "Lady's Smock", "White Cap"],
+      reagents: ["Corn Flower", "Lady's Smock", "White Cap"],
     },
     {
-      names: ["Corn Flower", "Lady's Smock", "Wormwood"],
+      reagents: ["Corn Flower", "Lady's Smock", "Wormwood"],
     },
   ],
   effects: "jsonl",

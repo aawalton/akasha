@@ -12,25 +12,25 @@ export const vitalityProtectionResistancePhysical = {
   seconds: 47,
   recipes: [
     {
-      names: ["Beetle Scuttle", "Butterfly Wing", "Mudcrab Chitin"],
+      reagents: ["Beetle Scuttle", "Butterfly Wing", "Mudcrab Chitin"],
     },
     {
-      names: ["Beetle Scuttle", "Dragon's Bile", "Mudcrab Chitin"],
+      reagents: ["Beetle Scuttle", "Dragon's Bile", "Mudcrab Chitin"],
     },
     {
-      names: ["Beetle Scuttle", "Fleshfly Larva", "Mudcrab Chitin"],
+      reagents: ["Beetle Scuttle", "Fleshfly Larva", "Mudcrab Chitin"],
     },
     {
-      names: ["Beetle Scuttle", "Imp Stool", "Powdered Mother of Pearl"],
+      reagents: ["Beetle Scuttle", "Imp Stool", "Powdered Mother of Pearl"],
     },
     {
-      names: ["Beetle Scuttle", "Mountain Flower", "Powdered Mother of Pearl"],
+      reagents: ["Beetle Scuttle", "Mountain Flower", "Powdered Mother of Pearl"],
     },
     {
-      names: ["Beetle Scuttle", "Mudcrab Chitin", "Powdered Mother of Pearl"],
+      reagents: ["Beetle Scuttle", "Mudcrab Chitin", "Powdered Mother of Pearl"],
     },
     {
-      names: ["Beetle Scuttle", "Mudcrab Chitin", "Torchbug Thorax"],
+      reagents: ["Beetle Scuttle", "Mudcrab Chitin", "Torchbug Thorax"],
     },
   ],
   effects: "jsonl",

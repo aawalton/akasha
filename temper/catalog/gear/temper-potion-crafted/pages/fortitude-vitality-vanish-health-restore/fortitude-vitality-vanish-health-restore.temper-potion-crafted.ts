@@ -12,7 +12,7 @@ export const fortitudeVitalityVanishHealthRestore = {
   seconds: 47,
   recipes: [
     {
-      names: ["Blue Entoloma", "Butterfly Wing", "Dragon's Bile"],
+      reagents: ["Blue Entoloma", "Butterfly Wing", "Dragon's Bile"],
     },
   ],
   effects: "jsonl",

@@ -12,7 +12,7 @@ export const expeditionIntellectProtectionMagickaRestore = {
   seconds: 47,
   recipes: [
     {
-      names: ["Dragon Rheum", "Powdered Mother of Pearl", "Vile Coagulant"],
+      reagents: ["Dragon Rheum", "Powdered Mother of Pearl", "Vile Coagulant"],
     },
   ],
   effects: "jsonl",

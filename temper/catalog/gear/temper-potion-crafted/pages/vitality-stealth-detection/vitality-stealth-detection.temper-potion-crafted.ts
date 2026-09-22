@@ -12,64 +12,64 @@ export const vitalityStealthDetection = {
   seconds: 47,
   recipes: [
     {
-      names: ["Beetle Scuttle", "Chaurus Egg", "Torchbug Thorax"],
+      reagents: ["Beetle Scuttle", "Chaurus Egg", "Torchbug Thorax"],
     },
     {
-      names: ["Beetle Scuttle", "Corn Flower", "Torchbug Thorax"],
+      reagents: ["Beetle Scuttle", "Corn Flower", "Torchbug Thorax"],
     },
     {
-      names: ["Beetle Scuttle", "Torchbug Thorax", "White Cap"],
+      reagents: ["Beetle Scuttle", "Torchbug Thorax", "White Cap"],
     },
     {
-      names: ["Beetle Scuttle", "Torchbug Thorax", "Wormwood"],
+      reagents: ["Beetle Scuttle", "Torchbug Thorax", "Wormwood"],
     },
     {
-      names: ["Butterfly Wing", "Chaurus Egg", "Torchbug Thorax"],
+      reagents: ["Butterfly Wing", "Chaurus Egg", "Torchbug Thorax"],
     },
     {
-      names: ["Butterfly Wing", "Corn Flower", "Torchbug Thorax"],
+      reagents: ["Butterfly Wing", "Corn Flower", "Torchbug Thorax"],
     },
     {
-      names: ["Butterfly Wing", "Torchbug Thorax", "White Cap"],
+      reagents: ["Butterfly Wing", "Torchbug Thorax", "White Cap"],
     },
     {
-      names: ["Butterfly Wing", "Torchbug Thorax", "Wormwood"],
+      reagents: ["Butterfly Wing", "Torchbug Thorax", "Wormwood"],
     },
     {
-      names: ["Chaurus Egg", "Dragon's Bile", "Torchbug Thorax"],
+      reagents: ["Chaurus Egg", "Dragon's Bile", "Torchbug Thorax"],
     },
     {
-      names: ["Chaurus Egg", "Fleshfly Larva", "Torchbug Thorax"],
+      reagents: ["Chaurus Egg", "Fleshfly Larva", "Torchbug Thorax"],
     },
     {
-      names: ["Chaurus Egg", "Powdered Mother of Pearl", "Torchbug Thorax"],
+      reagents: ["Chaurus Egg", "Powdered Mother of Pearl", "Torchbug Thorax"],
     },
     {
-      names: ["Corn Flower", "Dragon's Bile", "Torchbug Thorax"],
+      reagents: ["Corn Flower", "Dragon's Bile", "Torchbug Thorax"],
     },
     {
-      names: ["Corn Flower", "Fleshfly Larva", "Torchbug Thorax"],
+      reagents: ["Corn Flower", "Fleshfly Larva", "Torchbug Thorax"],
     },
     {
-      names: ["Corn Flower", "Powdered Mother of Pearl", "Torchbug Thorax"],
+      reagents: ["Corn Flower", "Powdered Mother of Pearl", "Torchbug Thorax"],
     },
     {
-      names: ["Dragon's Bile", "Torchbug Thorax", "White Cap"],
+      reagents: ["Dragon's Bile", "Torchbug Thorax", "White Cap"],
     },
     {
-      names: ["Dragon's Bile", "Torchbug Thorax", "Wormwood"],
+      reagents: ["Dragon's Bile", "Torchbug Thorax", "Wormwood"],
     },
     {
-      names: ["Fleshfly Larva", "Torchbug Thorax", "White Cap"],
+      reagents: ["Fleshfly Larva", "Torchbug Thorax", "White Cap"],
     },
     {
-      names: ["Fleshfly Larva", "Torchbug Thorax", "Wormwood"],
+      reagents: ["Fleshfly Larva", "Torchbug Thorax", "Wormwood"],
     },
     {
-      names: ["Powdered Mother of Pearl", "Torchbug Thorax", "White Cap"],
+      reagents: ["Powdered Mother of Pearl", "Torchbug Thorax", "White Cap"],
     },
     {
-      names: ["Powdered Mother of Pearl", "Torchbug Thorax", "Wormwood"],
+      reagents: ["Powdered Mother of Pearl", "Torchbug Thorax", "Wormwood"],
     },
   ],
   effects: "jsonl",

@@ -12,13 +12,13 @@ export const enduranceFortitudeHealthRestoreResistancePhysicalStaminaRestore = {
   seconds: 47,
   recipes: [
     {
-      names: ["Beetle Scuttle", "Columbine", "Mountain Flower"],
+      reagents: ["Beetle Scuttle", "Columbine", "Mountain Flower"],
     },
     {
-      names: ["Columbine", "Imp Stool", "Mountain Flower"],
+      reagents: ["Columbine", "Imp Stool", "Mountain Flower"],
     },
     {
-      names: ["Columbine", "Mountain Flower", "Mudcrab Chitin"],
+      reagents: ["Columbine", "Mountain Flower", "Mudcrab Chitin"],
     },
   ],
   effects: "jsonl",
