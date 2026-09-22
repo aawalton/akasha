@@ -6,8 +6,8 @@ export const claudeCodeSession = {
   slug: "claude-code-session",
   definition: "an agent session in Claude Code",
   spellings: [
-    { partOfSpeech: "part-of-speech/noun", spelling: "session" },
-    { partOfSpeech: "part-of-speech/noun", spelling: "sessions" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "Claude Code session" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "Claude Code sessions" },
   ],
   parts: [
     "domain/claude-code-session-store",

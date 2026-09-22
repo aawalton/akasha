@@ -4,7 +4,7 @@ export const claudeCodeSessionStore = {
   id: "01a065b0-2103-7e19-a5cb-8f425124086c",
   type: "page-type/domain",
   slug: "claude-code-session-store",
-  definition: "where session files are stored",
+  definition: "where Claude Code session files are stored",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
