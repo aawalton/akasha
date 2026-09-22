@@ -7,5 +7,4 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-git-hooks-guard-outside-the-repository-and-the-others-do-not.finding.ts","id":"01a05f45-b27b-74eb-a431-0d00b7b9fb8a"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-shell-write-guard-reads-only-what-a-program-spells.finding.ts","id":"01a0c5fb-9c2e-737f-aa20-953640b06a2b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-shell-write-hook-reads-text-that-is-not-shell-as-shell.finding.ts","id":"01a06cf7-51d4-7000-9125-07804c6337ce"}
-{"propertySlug":"page-domain","path":"domain/initiative/pages/sophia-agent-stop-hook.initiative.ts","id":"01a091af-b1f9-7864-84c4-4f36df8762d6"}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
