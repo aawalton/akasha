@@ -13,6 +13,7 @@ export const temperAddonHud = {
     "domain/temper-errors",
     "domain/temper-events",
     "domain/temper-housing",
+    "domain/temper-keybinder",
     "domain/temper-selector",
     "eso-interface/next-boss-layout",
     "module/hud-addon-bar",

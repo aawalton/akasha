@@ -146,6 +146,8 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-holder-types/housing-holder-types.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-slash/housing-slash.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-window-controls/housing-window-controls.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/addon-keybinds-menu-entry/addon-keybinds-menu-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-bank/fco-bank.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-inventory/fco-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-mail-data/fco-mail-data.module.code.ts"}
@@ -209,8 +211,6 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-dispatch/inventory-writ-crafting-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master/inventory-writ-crafting-master.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-detection/inventory-writ-detection.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/addon-keybinds-menu-entry/addon-keybinds-menu-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown-scroll/addon-menu-widget-dropdown-scroll.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-async/modules/async-casts/async-casts.module.code.ts"}

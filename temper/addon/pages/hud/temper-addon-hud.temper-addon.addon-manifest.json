@@ -11,7 +11,8 @@
     "TemperErrors_SavedVariables",
     "TemperAddons_SavedVariables",
     "TemperICTheNextBoss_SavedVariables",
-    "TemperPortToFriendsHouse_SavedVariables"
+    "TemperPortToFriendsHouse_SavedVariables",
+    "TemperKeybinder_SavedVariables"
   ],
   "additionalLuaFiles": [],
   "dependsOn": ["LibAddonMenu-2.0>=43", "LibCustomMenu"],

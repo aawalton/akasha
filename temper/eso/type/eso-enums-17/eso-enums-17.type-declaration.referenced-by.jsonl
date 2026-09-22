@@ -108,6 +108,9 @@
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-tabs/housing-tabs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-visit-cards-render/housing-visit-cards-render.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-window-controls/housing-window-controls.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-battleground/fco-battleground.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-collectibles/fco-collectibles.module.code.ts"}
@@ -162,9 +165,6 @@
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-panel-options/addon-menu-panel-options.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}

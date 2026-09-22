@@ -1779,6 +1779,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-housing/modules/housing-types/housing-types.module.ts","id":"01a06113-b7d3-78a4-80ec-95d612619454"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-housing/modules/housing-visit-cards-view/housing-visit-cards-view.module.ts","id":"01a06113-b7d3-7108-b73c-002d1663f7df"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-housing/temper-housing.domain.ts","id":"01a0c70f-538d-7554-8af5-77b789d4d403"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-keybinder/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts","id":"01a06259-bfbc-7d5e-8b4b-5bbe42c3459a"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-keybinder/modules/addon-keybinds-casts/addon-keybinds-casts.module.ts","id":"01a0605a-051b-7355-a78a-16ba2dc843c5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.ts","id":"01a06115-1ac5-7e5c-8d3a-faa3aae9eba1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/fco-crafting-smithing-improve/fco-crafting-smithing-improve.module.ts","id":"01a06115-1ac7-7496-8d0d-86f1548469eb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/fco-crafting-smithing/fco-crafting-smithing.module.ts","id":"01a06115-1ac7-7093-bdbd-2f2d354a8b32"}
@@ -1798,8 +1800,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/sales-addon-name/sales-addon-name.module.ts","id":"01a060e2-3181-7b51-b345-f0965034e14a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/trading-types/trading-types.module.ts","id":"01a06160-2a5e-7579-bb70-416bf4fbc1c8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/keybinder/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts","id":"01a06259-bfbc-7d5e-8b4b-5bbe42c3459a"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/keybinder/modules/addon-keybinds-casts/addon-keybinds-casts.module.ts","id":"01a0605a-051b-7355-a78a-16ba2dc843c5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/addon-menu-eso-combobox/addon-menu-eso-combobox.type-declaration.ts","id":"01a06100-0000-7000-8000-000000000030"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/addon-menu-eso-controls/addon-menu-eso-controls.type-declaration.ts","id":"01a06100-0000-7000-8000-000000000029"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.ts","id":"01a06100-0000-7000-8000-000000000031"}

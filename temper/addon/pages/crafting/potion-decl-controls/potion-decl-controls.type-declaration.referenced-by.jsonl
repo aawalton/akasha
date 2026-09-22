@@ -101,6 +101,8 @@
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-visit-cards-render/housing-visit-cards-render.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-visit-cards-view/housing-visit-cards-view.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-window-controls/housing-window-controls.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-casts/keybinder-casts.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-packs/selector-packs.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-battleground/fco-battleground.module.code.ts"}
@@ -130,8 +132,6 @@
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-casts/keybinder-casts.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}

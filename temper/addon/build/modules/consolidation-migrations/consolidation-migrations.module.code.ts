@@ -341,9 +341,18 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "rename",
-    runFor: "TemperKeybinder",
+    runFor: "TemperHud",
     oldFileBase: "TemperVotansKeybinder",
     newFileBase: "TemperKeybinder",
     renames: [[/^TemperVotansKeybinder_SavedVariables\s*=/m, "TemperKeybinder_SavedVariables ="]],
+  },
+  {
+    mode: "append",
+    runFor: "TemperHud",
+    spec: {
+      absorbedFileBase: "TemperKeybinder",
+      absorbedGlobal: "TemperKeybinder_SavedVariables",
+      targetFileBase: "TemperHud",
+    },
   },
 ] as const satisfies readonly ConsolidationMigration[]

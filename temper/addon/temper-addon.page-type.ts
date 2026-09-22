@@ -29,7 +29,6 @@ export const temperAddon = {
     "temper-addon/temper-addon-hud",
     "temper-addon/temper-addon-interface",
     "temper-addon/temper-addon-items",
-    "temper-addon/temper-addon-keybinder",
     "temper-addon/temper-addon-world",
     "boolean-property/addon-library",
     "temper-addon/temper-lib-addon-menu",

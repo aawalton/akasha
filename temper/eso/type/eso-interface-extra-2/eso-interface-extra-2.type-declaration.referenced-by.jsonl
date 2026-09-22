@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-favorites-render/housing-favorites-render.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-library-tab/housing-library-tab.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-tabs/housing-tabs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-bank/fco-bank.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-chat/fco-chat.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"}
@@ -39,7 +40,6 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-quick-navigation/sales-history-quick-navigation.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-library/main-menu-library.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-window/journal-window.module.code.ts"}

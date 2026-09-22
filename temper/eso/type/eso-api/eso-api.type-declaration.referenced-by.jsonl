@@ -59,6 +59,7 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-init/next-boss-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-saved-variables/next-boss-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-init/housing-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-saved-variables/keybinder-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-saved-variables/selector-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-crafting-smithing-improve/fco-crafting-smithing-improve.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-settings/fco-settings.module.code.ts"}
@@ -82,7 +83,6 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-saved-variables/trading-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-price-store/trading-sell-price-store.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-saved-variables/keybinder-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-async/modules/async-scheduler/async-scheduler.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-lib/chat-message-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
