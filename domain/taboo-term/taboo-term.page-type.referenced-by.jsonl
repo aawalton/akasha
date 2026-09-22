@@ -39,4 +39,5 @@
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/verb.taboo-term.ts"}
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/wake.taboo-term.ts"}
 {"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/walk.taboo-term.ts"}
+{"propertySlug":"import","fileName":"taboo-term.page-type.types.ts","path":"domain/taboo-term/pages/worktree.taboo-term.ts"}
 {"propertySlug":"parts","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
