@@ -181,6 +181,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/properties/game-panels.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/properties/holding-game.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/properties/player-entity.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/mechanic/character-attribute/properties/attribute-character.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/mechanic/resource/properties/resource-character.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/characters/properties/alias-of.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/characters/properties/merged-into.relation-property.types.ts"}

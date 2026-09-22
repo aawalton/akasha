@@ -293,6 +293,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/turn/properties/pool-most.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/turn/properties/pool-now.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/turn/properties/turn-number.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/character-attribute/properties/attribute-value.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/resource/properties/resource-max-value.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/resource/properties/resource-min-value.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/resource/properties/resource-value.number-property.ts"}

@@ -9,6 +9,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-armor-trait","unique":null,"uniquePropertySlug":null,"slug":"armor-trait","propertySlug":"armor-trait","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"artist","unique":null,"uniquePropertySlug":null,"slug":"artist","propertySlug":"artist","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"attribute","unique":null,"uniquePropertySlug":null,"slug":"attribute","propertySlug":"attribute","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"character","unique":null,"uniquePropertySlug":null,"slug":"attribute-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"bond-attribute","propertySlug":"attribute","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"bound-attribute","propertySlug":"bound-attribute","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-entity","unique":null,"uniquePropertySlug":null,"slug":"bound-entity","propertySlug":"entity","fileName":null,"folderName":null}
