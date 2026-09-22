@@ -42,6 +42,15 @@ export const pageClaiming = {
       statement: "The world is read rather than the disk.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A folder the page names by a property of its own is answered apart from the files.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder the world holds no file under is left out of that answer.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here decides whether a page may be acted on.",
     },
