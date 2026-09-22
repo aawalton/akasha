@@ -102,7 +102,7 @@ export function taskKey(row: Page): string {
   return row.id
 }
 
-export function cardIdOf(named: string | null): string | null {
+function cardIdOf(named: string | null): string | null {
   return named === null || named === "" ? null : completionCardOfPageSlug(slugOf(named))
 }
 

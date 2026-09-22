@@ -14,7 +14,7 @@ export const ASSISTANTS_BY_ROLE: Record<ChainRole, readonly number[]> = {
   banker: [267, 6376],
 }
 
-export const CHAIN_ROLES: readonly ChainRole[] = ["deconstruction", "merchant", "banker"]
+const CHAIN_ROLES: readonly ChainRole[] = ["deconstruction", "merchant", "banker"]
 
 export const CHAIN_WINDOW_MS = 120000
 
@@ -89,7 +89,7 @@ export function chainStep(): ChainStep {
   return step
 }
 
-export function endChain(): undefined {
+function endChain(): undefined {
   step = "away"
   stepAtMs = 0
   return undefined

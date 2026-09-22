@@ -8,7 +8,8 @@ import {
   type SavedVariablesData,
 } from "akasha/temper/addon/pages/items/modules/trading-types/trading-types.module.code.ts"
 import { requireSavedVariables } from "akasha/temper/addon/shared/narrow/modules/require-saved-variables/require-saved-variables.module.code.ts"
-export let savedVarsInstance: SavedVariablesData | undefined
+
+let savedVarsInstance: SavedVariablesData | undefined
 
 export function initializeSavedVariables(): SavedVariablesData {
   savedVarsInstance = ZO_SavedVars.NewAccountWide(

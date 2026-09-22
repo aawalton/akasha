@@ -76,8 +76,7 @@ Internal.CleanupDefaultActionButton = (): undefined => {
   KEYBIND_STRIP.RemoveKeybindButton(DEFAULT_ACTION_BUTTON)
 }
 
-export const TemperWorldJournalSortFilterList: ZoSortFilterListSubclass =
-  ZO_SortFilterList.Subclass()
+const TemperWorldJournalSortFilterList: ZoSortFilterListSubclass = ZO_SortFilterList.Subclass()
 
 TemperWorldJournalSortFilterList.New = function (
   this: ZoSortFilterListSubclass,

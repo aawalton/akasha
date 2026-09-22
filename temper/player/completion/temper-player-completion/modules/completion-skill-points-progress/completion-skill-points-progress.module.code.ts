@@ -71,7 +71,7 @@ function sumProgress(entries: readonly SkillPointSourceProgress[]): {
   return { count, total }
 }
 
-export function storyZoneQuestsProgress(sp: SkillPointProgress | null | undefined): {
+function storyZoneQuestsProgress(sp: SkillPointProgress | null | undefined): {
   current: number
   total: number
 } {

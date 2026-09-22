@@ -36,7 +36,7 @@ import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaratio
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
-export function loreBooksGetNewEideticDataFromBookId(bookId: number): EideticBook {
+function loreBooksGetNewEideticDataFromBookId(bookId: number): EideticBook {
   if (BOOK_DATA[bookId] === undefined) {
     BOOK_DATA[bookId] = { k: bookId }
   }

@@ -94,14 +94,14 @@ export function filesUnder(dir: string, tail: string, found: string[] = []): str
   return found
 }
 
-export function builtBundleAt(root: string, addon: string): string | null {
+function builtBundleAt(root: string, addon: string): string | null {
   const tree = treeIn(root, ADDON_TREE)
   if (tree === null) return null
   const at = join(tree, BUILT_UNDER, addon, `${addon}.lua`)
   return existsSync(at) ? at : null
 }
 
-export function builtAtCommit(root: string): string {
+function builtAtCommit(root: string): string {
   const tree = treeIn(root, ADDON_TREE)
   if (tree === null) return UNPINNED
   try {
@@ -111,7 +111,7 @@ export function builtAtCommit(root: string): string {
   }
 }
 
-export function savedVariablesAt(name: string): string | null {
+function savedVariablesAt(name: string): string | null {
   for (const live of esoLiveDirCandidates()) {
     const at = join(live, SAVED_UNDER, `${name}.lua`)
     if (existsSync(at)) return at

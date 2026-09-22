@@ -7,21 +7,19 @@ import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/scrollable-
 import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export const constants = lib.constants
+const constants = lib.constants
 
 export const entryTypeConstants = asLsmCastRecordStringUnknown(constants.entryTypes)
 
-export const ENTRY_TYPE_DEFAULTS = asLsmCastRecordStringUnknown(entryTypeConstants.defaults)
+const ENTRY_TYPE_DEFAULTS = asLsmCastRecordStringUnknown(entryTypeConstants.defaults)
 
-export const entryTypeDefaultsHighlights = asLsmCastRecordStringUnknown(
-  ENTRY_TYPE_DEFAULTS.highlights
-)
+const entryTypeDefaultsHighlights = asLsmCastRecordStringUnknown(ENTRY_TYPE_DEFAULTS.highlights)
 
 export const TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_NORMAL = asNumber(
   entryTypeConstants.TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_NORMAL
 )
 
-export const TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_SUBMENU = asNumber(
+const TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_SUBMENU = asNumber(
   entryTypeConstants.TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_SUBMENU
 )
 
@@ -45,11 +43,11 @@ export const TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON = asNumber(
   entryTypeConstants.TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON
 )
 
-export const TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_EDITBOX = asNumber(
+const TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_EDITBOX = asNumber(
   entryTypeConstants.TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_EDITBOX
 )
 
-export const TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_SLIDER = asNumber(
+const TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_SLIDER = asNumber(
   entryTypeConstants.TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_SLIDER
 )
 

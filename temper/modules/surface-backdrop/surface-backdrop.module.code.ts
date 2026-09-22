@@ -22,7 +22,7 @@ const SURFACES: readonly [Rgb, Rgb, Rgb, Rgb, Rgb] = [
   SURFACE_4,
 ]
 
-export function surfaceAt(level: SurfaceLevel): Rgb {
+function surfaceAt(level: SurfaceLevel): Rgb {
   return SURFACES[level]
 }
 

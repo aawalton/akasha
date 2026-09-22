@@ -26,7 +26,7 @@ function rowsOf(pageTypeSlug: string, keys: readonly string[]): readonly Row[] {
   return asked.rows as readonly Row[]
 }
 
-export function companionCatalogFromCheckout(): CompanionCatalog {
+function companionCatalogFromCheckout(): CompanionCatalog {
   const skills = rowsOf(temperCompanionSkill.slug, [
     "key",
     "title",

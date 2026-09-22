@@ -8,7 +8,7 @@ import {
   getValueOrCallback,
 } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
 
-export const colorConstants = asLsmCastRecordStringZoColorDef(constants.colors)
+const colorConstants = asLsmCastRecordStringZoColorDef(constants.colors)
 
 export function subMenuArrowColor(
   this: void,

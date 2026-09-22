@@ -13,7 +13,7 @@ import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declara
 import "akasha/temper/addon/type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.d.ts"
 
-export function checkboxEntry(
+function checkboxEntry(
   this: void,
   label: string,
   read: (this: void) => boolean,
@@ -155,7 +155,7 @@ export function getMailSettingsContextMenu(this: void): undefined {
   )
 }
 
-export function buildAutoLoadAtSubmenu(
+function buildAutoLoadAtSubmenu(
   this: void,
   settings: ReturnType<typeof getMailSettings>
 ): unknown[] {
@@ -189,7 +189,7 @@ export function buildAutoLoadAtSubmenu(
   return submenu
 }
 
-export function buildOtherSettingsSubmenu(
+function buildOtherSettingsSubmenu(
   this: void,
   settings: ReturnType<typeof getMailSettings>
 ): unknown[] {

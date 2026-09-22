@@ -24,7 +24,7 @@ import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 
 export const SORT_BY_VALUE: Record<string, unknown> = { value: {} }
 
-export const SORT_BY_VALUE_NUMERIC: Record<string, unknown> = { value: { isNumeric: true } }
+const SORT_BY_VALUE_NUMERIC: Record<string, unknown> = { value: { isNumeric: true } }
 
 export const SORT_TYPES: Record<string, Record<string, unknown>> = {
   name: ZO_SORT_BY_NAME,
@@ -46,7 +46,7 @@ export function getDropdown(this: void, control: LamControl): LamComboBox {
   return asLamComboBox(dropdown)
 }
 
-export function updateMultiSelectSelected(
+function updateMultiSelectSelected(
   this: void,
   control: LamControl,
   data: DropdownData,
@@ -98,7 +98,7 @@ export function callMultiSelectSetFunc(
   data.setFunc(resolved)
 }
 
-export function dropdownCallback(this: void, ...args: unknown[]): undefined {
+function dropdownCallback(this: void, ...args: unknown[]): undefined {
   const choiceText = args[1]
   const choice = asZoComboBoxItem(args[2])
   let updateValue = choice.value
@@ -112,7 +112,7 @@ export function dropdownCallback(this: void, ...args: unknown[]): undefined {
   }
 }
 
-export function setSelectedFromChoices(
+function setSelectedFromChoices(
   this: void,
   control: LamControl,
   dropdown: LamComboBox,
