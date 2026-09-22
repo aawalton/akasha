@@ -51,6 +51,22 @@ export function companionCatalogRead(): boolean {
   return held !== null
 }
 
+export function companionSkillKnown(id: string): boolean {
+  return companionCatalog().skillsById[id] !== undefined
+}
+
+export function companionSkillAt(id: string): CompanionSkill {
+  const skill = companionCatalog().skillsById[id]
+  if (skill === undefined) throw new Error(`no companion skill page answers to \`${id}\``)
+  return skill
+}
+
+export function companionSkillLineAt(id: string): CompanionSkillLine {
+  const line = companionCatalog().skillLinesById[id]
+  if (line === undefined) throw new Error(`no companion skill line page answers to \`${id}\``)
+  return line
+}
+
 export async function loadCompanionCatalog(): Promise<CompanionCatalog> {
   if (held !== null) return held
   const [skills, skillLines] = await Promise.all([readCompanionSkills(), readCompanionSkillLines()])
