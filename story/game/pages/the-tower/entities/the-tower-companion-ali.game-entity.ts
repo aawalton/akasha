@@ -10,16 +10,6 @@ export const theTowerCompanionAli = {
   class:
     "Lorebinder (tentative) — support/utility caster-analyst; learns fast, buffs, debuffs, and turns knowledge into leverage",
   level: 1,
-  attributes: [
-    { attribute: "game-attribute/finesse", score: 11 },
-    { attribute: "game-attribute/intellect", score: 17 },
-    { attribute: "game-attribute/luck", score: 11 },
-    { attribute: "game-attribute/might", score: 8 },
-    { attribute: "game-attribute/perception", score: 15 },
-    { attribute: "game-attribute/presence", score: 12 },
-    { attribute: "game-attribute/vitality", score: 10 },
-    { attribute: "game-attribute/will", score: 14 },
-  ],
   dice: "game-mechanic/two-d-ten",
   unspentAttributePoints: 0,
   note: "Tentative. Ali is a SECOND mind — but where Alan is a glass cannon who reads weaknesses, Ali is a sturdier scholar who APPLIES knowledge: skills, support effects, identifying the unknown. The Learn axis embodied. Calibrate against the real persona.",

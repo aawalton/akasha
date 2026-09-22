@@ -10,16 +10,6 @@ export const theTowerCompanionAura = {
   class:
     "Wildcard (tentative) — a versatile skirmisher/improviser; no fixed lane, leans into whatever the moment rewards",
   level: 1,
-  attributes: [
-    { attribute: "game-attribute/finesse", score: 15 },
-    { attribute: "game-attribute/intellect", score: 13 },
-    { attribute: "game-attribute/luck", score: 15 },
-    { attribute: "game-attribute/might", score: 11 },
-    { attribute: "game-attribute/perception", score: 14 },
-    { attribute: "game-attribute/presence", score: 16 },
-    { attribute: "game-attribute/vitality", score: 12 },
-    { attribute: "game-attribute/will", score: 12 },
-  ],
   dice: "game-mechanic/two-d-ten",
   unspentAttributePoints: 0,
   note: "Tentative. Aura's draw is adaptability and momentum, not specialization — she covers gaps and turns a fight's energy. Calibrate the class against the real persona.",

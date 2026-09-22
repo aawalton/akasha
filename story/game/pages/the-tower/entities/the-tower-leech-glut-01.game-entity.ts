@@ -9,16 +9,6 @@ export const theTowerLeechGlut01 = {
   kind: "enemy",
   class: "Leech-swarm",
   level: 2,
-  attributes: [
-    { attribute: "game-attribute/finesse", score: 14 },
-    { attribute: "game-attribute/intellect", score: 2 },
-    { attribute: "game-attribute/luck", score: 8 },
-    { attribute: "game-attribute/might", score: 5 },
-    { attribute: "game-attribute/perception", score: 12 },
-    { attribute: "game-attribute/presence", score: 2 },
-    { attribute: "game-attribute/vitality", score: 8 },
-    { attribute: "game-attribute/will", score: 3 },
-  ],
   equipment: [
     { name: "armor", slot: "armor", defense: 0 },
     { name: "weapon", slot: "weapon", attack: 0 },

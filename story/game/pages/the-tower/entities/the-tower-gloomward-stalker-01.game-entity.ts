@@ -9,16 +9,6 @@ export const theTowerGloomwardStalker01 = {
   kind: "enemy",
   class: "Dark-hunter",
   level: 3,
-  attributes: [
-    { attribute: "game-attribute/finesse", score: 16 },
-    { attribute: "game-attribute/intellect", score: 5 },
-    { attribute: "game-attribute/luck", score: 7 },
-    { attribute: "game-attribute/might", score: 13 },
-    { attribute: "game-attribute/perception", score: 16 },
-    { attribute: "game-attribute/presence", score: 6 },
-    { attribute: "game-attribute/vitality", score: 9 },
-    { attribute: "game-attribute/will", score: 7 },
-  ],
   equipment: [
     { name: "armor", slot: "armor", defense: 0 },
     { name: "weapon", slot: "weapon", attack: 4 },

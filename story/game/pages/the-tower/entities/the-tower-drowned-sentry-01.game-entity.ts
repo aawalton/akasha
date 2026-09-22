@@ -9,16 +9,6 @@ export const theTowerDrownedSentry01 = {
   kind: "enemy",
   class: "Waterlogged Husk",
   level: 2,
-  attributes: [
-    { attribute: "game-attribute/finesse", score: 7 },
-    { attribute: "game-attribute/intellect", score: 4 },
-    { attribute: "game-attribute/luck", score: 5 },
-    { attribute: "game-attribute/might", score: 12 },
-    { attribute: "game-attribute/perception", score: 8 },
-    { attribute: "game-attribute/presence", score: 4 },
-    { attribute: "game-attribute/vitality", score: 11 },
-    { attribute: "game-attribute/will", score: 6 },
-  ],
   equipment: [
     { name: "armor", slot: "armor", defense: 3 },
     { name: "weapon", slot: "weapon", attack: 5 },

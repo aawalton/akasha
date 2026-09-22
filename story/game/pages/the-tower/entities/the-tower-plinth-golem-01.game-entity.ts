@@ -9,16 +9,6 @@ export const theTowerPlinthGolem01 = {
   kind: "enemy",
   class: "Stone Warden",
   level: 3,
-  attributes: [
-    { attribute: "game-attribute/finesse", score: 5 },
-    { attribute: "game-attribute/intellect", score: 6 },
-    { attribute: "game-attribute/luck", score: 4 },
-    { attribute: "game-attribute/might", score: 15 },
-    { attribute: "game-attribute/perception", score: 7 },
-    { attribute: "game-attribute/presence", score: 5 },
-    { attribute: "game-attribute/vitality", score: 14 },
-    { attribute: "game-attribute/will", score: 10 },
-  ],
   equipment: [
     { name: "armor", slot: "armor", defense: 5 },
     { name: "weapon", slot: "weapon", attack: 6 },

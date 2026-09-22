@@ -9,16 +9,6 @@ export const theTowerHollowCantor01 = {
   kind: "enemy",
   class: "Sound-wraith",
   level: 3,
-  attributes: [
-    { attribute: "game-attribute/finesse", score: 9 },
-    { attribute: "game-attribute/intellect", score: 11 },
-    { attribute: "game-attribute/luck", score: 6 },
-    { attribute: "game-attribute/might", score: 4 },
-    { attribute: "game-attribute/perception", score: 13 },
-    { attribute: "game-attribute/presence", score: 12 },
-    { attribute: "game-attribute/vitality", score: 7 },
-    { attribute: "game-attribute/will", score: 14 },
-  ],
   equipment: [
     { name: "armor", slot: "armor", defense: 0 },
     { name: "weapon", slot: "weapon", attack: 0 },

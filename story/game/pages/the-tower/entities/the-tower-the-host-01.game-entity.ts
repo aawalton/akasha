@@ -9,16 +9,6 @@ export const theTowerTheHost01 = {
   kind: "enemy",
   class: "Gallery Warden",
   level: 5,
-  attributes: [
-    { attribute: "game-attribute/finesse", score: 10 },
-    { attribute: "game-attribute/intellect", score: 16 },
-    { attribute: "game-attribute/luck", score: 6 },
-    { attribute: "game-attribute/might", score: 12 },
-    { attribute: "game-attribute/perception", score: 12 },
-    { attribute: "game-attribute/presence", score: 17 },
-    { attribute: "game-attribute/vitality", score: 15 },
-    { attribute: "game-attribute/will", score: 14 },
-  ],
   equipment: [
     { name: "armor", slot: "armor", defense: 2 },
     { name: "weapon", slot: "weapon", attack: 4 },

@@ -9,16 +9,6 @@ export const theTowerAshling01 = {
   kind: "enemy",
   class: "Ember-thing",
   level: 1,
-  attributes: [
-    { attribute: "game-attribute/finesse", score: 8 },
-    { attribute: "game-attribute/intellect", score: 3 },
-    { attribute: "game-attribute/luck", score: 5 },
-    { attribute: "game-attribute/might", score: 7 },
-    { attribute: "game-attribute/perception", score: 7 },
-    { attribute: "game-attribute/presence", score: 3 },
-    { attribute: "game-attribute/vitality", score: 5 },
-    { attribute: "game-attribute/will", score: 4 },
-  ],
   equipment: [
     { name: "armor", slot: "armor", defense: 0 },
     { name: "weapon", slot: "weapon", attack: 0 },

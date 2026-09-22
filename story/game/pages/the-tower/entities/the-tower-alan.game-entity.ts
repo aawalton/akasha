@@ -8,16 +8,6 @@ export const theTowerAlan = {
   game: "game/the-tower",
   kind: "player",
   level: 7,
-  attributes: [
-    { attribute: "game-attribute/finesse", score: 14 },
-    { attribute: "game-attribute/intellect", score: 20 },
-    { attribute: "game-attribute/luck", score: 11 },
-    { attribute: "game-attribute/might", score: 14 },
-    { attribute: "game-attribute/perception", score: 12 },
-    { attribute: "game-attribute/presence", score: 16 },
-    { attribute: "game-attribute/vitality", score: 12 },
-    { attribute: "game-attribute/will", score: 20 },
-  ],
   skills: [
     {
       name: "Ember Channel",

@@ -9,16 +9,6 @@ export const theTowerCounterweightColossus01 = {
   kind: "enemy",
   class: "Mechanism Warden",
   level: 4,
-  attributes: [
-    { attribute: "game-attribute/finesse", score: 6 },
-    { attribute: "game-attribute/intellect", score: 7 },
-    { attribute: "game-attribute/luck", score: 5 },
-    { attribute: "game-attribute/might", score: 16 },
-    { attribute: "game-attribute/perception", score: 8 },
-    { attribute: "game-attribute/presence", score: 6 },
-    { attribute: "game-attribute/vitality", score: 15 },
-    { attribute: "game-attribute/will", score: 11 },
-  ],
   equipment: [
     { name: "armor", slot: "armor", defense: 4 },
     { name: "weapon", slot: "weapon", attack: 6 },

@@ -9,16 +9,6 @@ export const theTowerTheHostTrueform02 = {
   kind: "enemy",
   class: "Haven-predator (unmasked)",
   level: 5,
-  attributes: [
-    { attribute: "game-attribute/finesse", score: 17 },
-    { attribute: "game-attribute/intellect", score: 16 },
-    { attribute: "game-attribute/luck", score: 7 },
-    { attribute: "game-attribute/might", score: 13 },
-    { attribute: "game-attribute/perception", score: 16 },
-    { attribute: "game-attribute/presence", score: 8 },
-    { attribute: "game-attribute/vitality", score: 13 },
-    { attribute: "game-attribute/will", score: 15 },
-  ],
   equipment: [
     { name: "armor", slot: "armor", defense: 1 },
     { name: "weapon", slot: "weapon", attack: 5 },

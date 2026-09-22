@@ -9,16 +9,6 @@ export const theTowerTheWelcomer01 = {
   kind: "enemy",
   class: "Glamour-predator",
   level: 4,
-  attributes: [
-    { attribute: "game-attribute/finesse", score: 14 },
-    { attribute: "game-attribute/intellect", score: 14 },
-    { attribute: "game-attribute/luck", score: 8 },
-    { attribute: "game-attribute/might", score: 9 },
-    { attribute: "game-attribute/perception", score: 13 },
-    { attribute: "game-attribute/presence", score: 16 },
-    { attribute: "game-attribute/vitality", score: 8 },
-    { attribute: "game-attribute/will", score: 13 },
-  ],
   equipment: [
     { name: "armor", slot: "armor", defense: 0 },
     { name: "weapon", slot: "weapon", attack: 3 },
