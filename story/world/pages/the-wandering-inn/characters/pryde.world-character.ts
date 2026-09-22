@@ -6,6 +6,7 @@ export const pryde = {
   slug: "pryde",
   title: "Pryde Ulta",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 654,
   lastChapter: 659,
   characterClaims: "jsonl",

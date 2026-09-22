@@ -6,6 +6,7 @@ export const mendi = {
   slug: "mendi",
   title: "Mendi",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 402,
   lastChapter: 445,
   characterClaims: "jsonl",

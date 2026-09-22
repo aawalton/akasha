@@ -6,6 +6,7 @@ export const olesmSwifttail = {
   slug: "olesm-swifttail",
   title: "Olesm Swifttail",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   maxLevel: 33,
   eventCount: 2,
   firstChapter: 207,

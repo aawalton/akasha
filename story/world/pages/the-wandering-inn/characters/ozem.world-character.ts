@@ -6,6 +6,7 @@ export const ozem = {
   slug: "ozem",
   title: "Ozem",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 454,
   lastChapter: 454,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const nemor = {
   slug: "nemor",
   title: "Nemor",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 139,
   lastChapter: 140,
   characterClaims: "jsonl",

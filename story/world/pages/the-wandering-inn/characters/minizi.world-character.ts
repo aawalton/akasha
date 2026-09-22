@@ -6,6 +6,7 @@ export const minizi = {
   slug: "minizi",
   title: "Minizi",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 496,
   lastChapter: 558,
   characterClaims: "jsonl",

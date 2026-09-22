@@ -6,6 +6,7 @@ export const pestrom = {
   slug: "pestrom",
   title: "Pestrom",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 42,
   lastChapter: 42,
   characterClaims: "jsonl",

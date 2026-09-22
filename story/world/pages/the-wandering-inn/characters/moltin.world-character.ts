@@ -6,6 +6,7 @@ export const moltin = {
   slug: "moltin",
   title: "Lord Moltin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   maxLevel: 50,
   eventCount: 2,
   firstChapter: 732,

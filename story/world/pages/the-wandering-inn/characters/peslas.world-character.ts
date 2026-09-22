@@ -6,6 +6,7 @@ export const peslas = {
   slug: "peslas",
   title: "Peslas",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 78,
   lastChapter: 78,
   characterClaims: "jsonl",

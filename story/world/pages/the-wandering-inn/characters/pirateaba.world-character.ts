@@ -6,6 +6,7 @@ export const pirateaba = {
   slug: "pirateaba",
   title: "pirateaba",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 743,
   lastChapter: 801,
   characterClaims: "jsonl",

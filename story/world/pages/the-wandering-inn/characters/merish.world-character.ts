@@ -6,6 +6,7 @@ export const merish = {
   slug: "merish",
   title: "Chief Warrior Merish",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   firstChapter: 438,
   lastChapter: 566,
   characterClaims: "jsonl",

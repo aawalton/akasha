@@ -6,6 +6,7 @@ export const quarassGermina = {
   slug: "quarass-germina",
   title: "the Quarass of Germina",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 323,
   lastChapter: 807,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const neirute = {
   slug: "neirute",
   title: "Neirute",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 733,
   lastChapter: 733,
   characterClaims: "jsonl",

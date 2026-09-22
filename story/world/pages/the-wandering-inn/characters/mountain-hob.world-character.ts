@@ -6,6 +6,7 @@ export const mountainHob = {
   slug: "mountain-hob",
   title: "the Hob from Tremborag's mountain",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 155,
   lastChapter: 155,
   characterClaims: "jsonl",

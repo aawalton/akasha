@@ -6,6 +6,7 @@ export const nemistraVerdinan = {
   slug: "nemistra-verdinan",
   title: "Nemistra Verdinan",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 160,
   lastChapter: 160,
   characterClaims: "jsonl",

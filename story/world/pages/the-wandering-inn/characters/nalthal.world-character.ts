@@ -6,6 +6,7 @@ export const nalthal = {
   slug: "nalthal",
   title: "Nalthal",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 230,
   lastChapter: 230,
   characterClaims: "jsonl",

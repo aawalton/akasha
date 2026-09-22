@@ -6,6 +6,7 @@ export const mysteriousBoardContact = {
   slug: "mysterious-board-contact",
   title: "Unknown Acquaintance",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 394,
   lastChapter: 394,
   characterClaims: "jsonl",

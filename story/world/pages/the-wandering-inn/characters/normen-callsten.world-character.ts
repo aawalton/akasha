@@ -6,6 +6,7 @@ export const normenCallsten = {
   slug: "normen-callsten",
   title: "Normen",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   maxLevel: 27,
   eventCount: 2,
   firstChapter: 714,

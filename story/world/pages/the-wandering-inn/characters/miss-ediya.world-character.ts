@@ -6,6 +6,7 @@ export const missEdiya = {
   slug: "miss-ediya",
   title: "Ediya",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 388,
   lastChapter: 388,
   characterClaims: "jsonl",

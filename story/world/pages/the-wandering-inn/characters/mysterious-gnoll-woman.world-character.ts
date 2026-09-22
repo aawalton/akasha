@@ -6,6 +6,7 @@ export const mysteriousGnollWoman = {
   slug: "mysterious-gnoll-woman",
   title: "a strange Gnoll woman",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 497,
   lastChapter: 497,
   characterClaims: "jsonl",

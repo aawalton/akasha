@@ -6,6 +6,7 @@ export const pisces = {
   slug: "pisces",
   title: "Pisces",
   world: "world/the-wandering-inn",
+  appearanceCount: 140,
   eventCount: 1,
   firstChapter: 9,
   lastChapter: 797,

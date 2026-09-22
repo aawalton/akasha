@@ -6,6 +6,7 @@ export const menrise = {
   slug: "menrise",
   title: "Menrise",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 685,
   lastChapter: 795,
   characterClaims: "jsonl",

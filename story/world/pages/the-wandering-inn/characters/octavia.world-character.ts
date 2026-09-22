@@ -6,6 +6,7 @@ export const octavia = {
   slug: "octavia",
   title: "Octavia",
   world: "world/the-wandering-inn",
+  appearanceCount: 34,
   firstChapter: 77,
   lastChapter: 793,
   characterClaims: "jsonl",

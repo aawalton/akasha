@@ -6,6 +6,7 @@ export const oberon = {
   slug: "oberon",
   title: "Oberon",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 533,
   lastChapter: 681,
   characterClaims: "jsonl",

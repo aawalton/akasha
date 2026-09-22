@@ -6,6 +6,7 @@ export const menolit = {
   slug: "menolit",
   title: "Menolit",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 411,
   lastChapter: 650,
   characterClaims: "jsonl",

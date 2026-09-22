@@ -6,6 +6,7 @@ export const noass = {
   slug: "noass",
   title: "Noass",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 391,
   lastChapter: 410,
   characterClaims: "jsonl",

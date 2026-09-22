@@ -6,6 +6,7 @@ export const queenMarquin = {
   slug: "queen-marquin",
   title: "Marquin",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 583,
   lastChapter: 757,
   characterClaims: "jsonl",

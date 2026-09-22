@@ -6,6 +6,7 @@ export const peki = {
   slug: "peki",
   title: "Peki",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 404,
   lastChapter: 560,
   characterClaims: "jsonl",

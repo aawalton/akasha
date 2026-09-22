@@ -6,6 +6,7 @@ export const mireden = {
   slug: "mireden",
   title: "Lord Mireden Raithland",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 790,
   lastChapter: 790,
   characterClaims: "jsonl",

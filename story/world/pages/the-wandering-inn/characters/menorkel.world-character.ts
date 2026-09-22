@@ -6,6 +6,7 @@ export const menorkel = {
   slug: "menorkel",
   title: "Menorkel",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 534,
   lastChapter: 570,
   characterClaims: "jsonl",

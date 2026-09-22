@@ -6,6 +6,7 @@ export const ophala = {
   slug: "ophala",
   title: "Ophala",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 789,
   lastChapter: 789,
   characterClaims: "jsonl",

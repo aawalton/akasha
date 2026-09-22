@@ -6,6 +6,7 @@ export const nuvityn = {
   slug: "nuvityn",
   title: "Nuvityn",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 626,
   lastChapter: 774,
   characterClaims: "jsonl",

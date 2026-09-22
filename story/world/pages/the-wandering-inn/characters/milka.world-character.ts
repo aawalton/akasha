@@ -6,6 +6,7 @@ export const milka = {
   slug: "milka",
   title: "Milka",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 345,
   lastChapter: 345,
   characterClaims: "jsonl",

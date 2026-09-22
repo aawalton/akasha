@@ -6,6 +6,7 @@ export const molenTerland = {
   slug: "molen-terland",
   title: "Molen Terland",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 798,
   lastChapter: 798,
   characterClaims: "jsonl",

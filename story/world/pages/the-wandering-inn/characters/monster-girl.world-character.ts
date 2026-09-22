@@ -6,6 +6,7 @@ export const monsterGirl = {
   slug: "monster-girl",
   title: "the creature in the snow",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 145,
   lastChapter: 146,
   characterClaims: "jsonl",

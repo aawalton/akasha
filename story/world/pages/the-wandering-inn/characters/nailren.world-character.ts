@@ -6,6 +6,7 @@ export const nailren = {
   slug: "nailren",
   title: "Nailren",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   maxLevel: 33,
   eventCount: 11,
   firstChapter: 268,

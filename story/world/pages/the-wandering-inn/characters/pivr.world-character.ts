@@ -6,6 +6,7 @@ export const pivr = {
   slug: "pivr",
   title: "Pivr",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 235,
   lastChapter: 688,
   characterClaims: "jsonl",

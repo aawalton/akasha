@@ -6,6 +6,7 @@ export const montressa = {
   slug: "montressa",
   title: "Montressa du Valeross",
   world: "world/the-wandering-inn",
+  appearanceCount: 15,
   maxLevel: 16,
   eventCount: 3,
   firstChapter: 162,

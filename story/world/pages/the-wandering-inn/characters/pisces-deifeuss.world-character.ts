@@ -6,6 +6,7 @@ export const piscesDeifeuss = {
   slug: "pisces-deifeuss",
   title: "Pisces Deifeuss",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 452,
   lastChapter: 452,
   characterClaims: "jsonl",

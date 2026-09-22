@@ -6,6 +6,7 @@ export const paxere = {
   slug: "paxere",
   title: "Paxere",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 569,
   lastChapter: 698,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const montressaDuValeros = {
   slug: "montressa-du-valeros",
   title: "Montressa du Valeros",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 275,
   lastChapter: 275,
   characterClaims: "jsonl",

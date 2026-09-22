@@ -6,6 +6,7 @@ export const prildor = {
   slug: "prildor",
   title: "Prildor",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 709,
   lastChapter: 774,
   characterClaims: "jsonl",

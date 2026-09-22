@@ -6,6 +6,7 @@ export const nathald = {
   slug: "nathald",
   title: "Sir Nathald",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 337,
   lastChapter: 337,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const quallet = {
   slug: "quallet",
   title: "Quallet Marshhand",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 199,
   lastChapter: 575,
   characterClaims: "jsonl",

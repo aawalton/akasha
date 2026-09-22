@@ -6,6 +6,7 @@ export const pavilionEntity = {
   slug: "pavilion-entity",
   title: "the being wearing Erin's form",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 725,
   lastChapter: 725,
   characterClaims: "jsonl",

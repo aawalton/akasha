@@ -6,6 +6,7 @@ export const omniscel = {
   slug: "omniscel",
   title: "Omniscel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 552,
   lastChapter: 552,
   characterClaims: "jsonl",

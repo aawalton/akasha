@@ -6,6 +6,7 @@ export const mihaelaGodfrey = {
   slug: "mihaela-godfrey",
   title: "Mihaela Godfrey",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 451,
   lastChapter: 627,
   characterClaims: "jsonl",

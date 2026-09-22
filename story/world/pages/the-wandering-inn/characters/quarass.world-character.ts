@@ -6,6 +6,7 @@ export const quarass = {
   slug: "quarass",
   title: "Quarass",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   firstChapter: 370,
   lastChapter: 808,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const noa = {
   slug: "noa",
   title: "Noa",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 497,
   lastChapter: 695,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const qissa = {
   slug: "qissa",
   title: "Watch Captain Qissa",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 697,
   lastChapter: 793,
   characterClaims: "jsonl",

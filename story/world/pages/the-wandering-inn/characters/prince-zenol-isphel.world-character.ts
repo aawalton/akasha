@@ -6,6 +6,7 @@ export const princeZenolIsphel = {
   slug: "prince-zenol-isphel",
   title: "Prince Zenol Isphel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 553,
   lastChapter: 553,
   characterClaims: "jsonl",

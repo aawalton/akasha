@@ -6,6 +6,7 @@ export const nuneSalismen = {
   slug: "nune-salismen",
   title: "Nune Salismen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 181,
   lastChapter: 181,
   characterClaims: "jsonl",

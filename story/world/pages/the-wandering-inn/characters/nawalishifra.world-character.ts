@@ -6,6 +6,7 @@ export const nawalishifra = {
   slug: "nawalishifra",
   title: "Nawalishifra Tannousin",
   world: "world/the-wandering-inn",
+  appearanceCount: 9,
   firstChapter: 249,
   lastChapter: 797,
   characterClaims: "jsonl",

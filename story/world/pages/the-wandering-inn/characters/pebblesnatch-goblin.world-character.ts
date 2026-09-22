@@ -6,6 +6,7 @@ export const pebblesnatchGoblin = {
   slug: "pebblesnatch-goblin",
   title: "Pebblesnatch",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 519,
   lastChapter: 519,
   characterClaims: "jsonl",

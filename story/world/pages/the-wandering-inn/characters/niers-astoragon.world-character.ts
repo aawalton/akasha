@@ -6,6 +6,7 @@ export const niersAstoragon = {
   slug: "niers-astoragon",
   title: "Niers Astoragon",
   world: "world/the-wandering-inn",
+  appearanceCount: 39,
   firstChapter: 88,
   lastChapter: 823,
   characterClaims: "jsonl",

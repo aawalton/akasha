@@ -6,6 +6,7 @@ export const nailihuaile = {
   slug: "nailihuaile",
   title: "Nailihuaile",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 377,
   lastChapter: 558,
   characterClaims: "jsonl",

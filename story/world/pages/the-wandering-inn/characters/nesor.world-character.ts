@@ -6,6 +6,7 @@ export const nesor = {
   slug: "nesor",
   title: "Nesor",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 221,
   lastChapter: 350,
   characterClaims: "jsonl",

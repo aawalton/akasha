@@ -6,6 +6,7 @@ export const nailrenGhost = {
   slug: "nailren-ghost",
   title: "Spoony",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 813,
   lastChapter: 813,
   characterClaims: "jsonl",

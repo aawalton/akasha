@@ -6,6 +6,7 @@ export const navine = {
   slug: "navine",
   title: "Navine",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 366,
   lastChapter: 663,
   characterClaims: "jsonl",

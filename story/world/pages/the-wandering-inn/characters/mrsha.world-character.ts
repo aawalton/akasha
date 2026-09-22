@@ -6,6 +6,7 @@ export const mrsha = {
   slug: "mrsha",
   title: "Mrsha",
   world: "world/the-wandering-inn",
+  appearanceCount: 176,
   maxLevel: 70,
   eventCount: 49,
   firstChapter: 100,

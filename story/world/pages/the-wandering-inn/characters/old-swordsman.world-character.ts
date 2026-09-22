@@ -6,6 +6,7 @@ export const oldSwordsman = {
   slug: "old-swordsman",
   title: "an old swordsman",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 12,
   lastChapter: 12,
   characterClaims: "jsonl",

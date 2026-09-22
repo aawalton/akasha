@@ -6,6 +6,7 @@ export const pellmia = {
   slug: "pellmia",
   title: "Lord Pellmia",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 290,
   lastChapter: 290,
   characterClaims: "jsonl",

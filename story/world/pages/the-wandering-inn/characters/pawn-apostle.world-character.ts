@@ -6,6 +6,7 @@ export const pawnApostle = {
   slug: "pawn-apostle",
   title: "Apostle Pawn",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 753,
   lastChapter: 757,
   characterClaims: "jsonl",

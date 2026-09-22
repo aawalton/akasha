@@ -6,6 +6,7 @@ export const missIglesiasTheroben = {
   slug: "miss-iglesias-theroben",
   title: "Miss Iglesias Theroben",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 349,
   lastChapter: 349,
   characterClaims: "jsonl",

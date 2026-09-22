@@ -6,6 +6,7 @@ export const paige = {
   slug: "paige",
   title: "Paige",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 315,
   lastChapter: 695,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const pewerthePotter = {
   slug: "pewerthe-potter",
   title: "Pewerthe",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   maxLevel: 47,
   eventCount: 6,
   firstChapter: 809,

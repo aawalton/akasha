@@ -6,6 +6,7 @@ export const pralcem = {
   slug: "pralcem",
   title: "Pralcem",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 382,
   lastChapter: 382,
   characterClaims: "jsonl",

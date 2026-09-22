@@ -6,6 +6,7 @@ export const merdon = {
   slug: "merdon",
   title: "Merdon",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 605,
   lastChapter: 605,
   characterClaims: "jsonl",

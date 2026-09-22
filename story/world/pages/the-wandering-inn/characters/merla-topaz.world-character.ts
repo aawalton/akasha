@@ -6,6 +6,7 @@ export const merlaTopaz = {
   slug: "merla-topaz",
   title: "Merla Topaz",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 489,
   lastChapter: 489,
   characterClaims: "jsonl",

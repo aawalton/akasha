@@ -6,6 +6,7 @@ export const onievaOliwing = {
   slug: "onieva-oliwing",
   title: "Onieva",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 415,
   lastChapter: 415,
   characterClaims: "jsonl",

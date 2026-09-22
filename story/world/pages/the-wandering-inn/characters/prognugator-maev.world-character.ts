@@ -6,6 +6,7 @@ export const prognugatorMaev = {
   slug: "prognugator-maev",
   title: "Maev",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 811,
   lastChapter: 811,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const nirayicel = {
   slug: "nirayicel",
   title: "Nirayicel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 583,
   lastChapter: 583,
   characterClaims: "jsonl",

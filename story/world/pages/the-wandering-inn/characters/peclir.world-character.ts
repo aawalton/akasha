@@ -6,6 +6,7 @@ export const peclir = {
   slug: "peclir",
   title: "Peclir Im",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 575,
   lastChapter: 575,
   characterClaims: "jsonl",

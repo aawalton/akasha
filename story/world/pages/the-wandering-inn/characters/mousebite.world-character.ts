@@ -6,6 +6,7 @@ export const mousebite = {
   slug: "mousebite",
   title: "Mousebite",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 717,
   lastChapter: 717,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const patriciaMelissar = {
   slug: "patricia-melissar",
   title: "Patricia Melissar",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 338,
   lastChapter: 338,
   characterClaims: "jsonl",

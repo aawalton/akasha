@@ -6,6 +6,7 @@ export const nerrhavia = {
   slug: "nerrhavia",
   title: "Nerrhavia",
   world: "world/the-wandering-inn",
+  appearanceCount: 10,
   firstChapter: 523,
   lastChapter: 770,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const osthiaBlackwing = {
   slug: "osthia-blackwing",
   title: "Osthia Blackwing",
   world: "world/the-wandering-inn",
+  appearanceCount: 11,
   firstChapter: 193,
   lastChapter: 489,
   characterClaims: "jsonl",

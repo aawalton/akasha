@@ -6,6 +6,7 @@ export const odveigSacra = {
   slug: "odveig-sacra",
   title: "Odveig",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 204,
   lastChapter: 204,
   characterClaims: "jsonl",

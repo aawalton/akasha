@@ -6,6 +6,7 @@ export const mica = {
   slug: "mica",
   title: "Mica",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 328,
   lastChapter: 328,
   characterClaims: "jsonl",

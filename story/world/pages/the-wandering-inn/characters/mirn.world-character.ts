@@ -6,6 +6,7 @@ export const mirn = {
   slug: "mirn",
   title: "Mirn",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   firstChapter: 441,
   lastChapter: 817,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const quarassAssassin = {
   slug: "quarass-assassin",
   title: "the creature in the alley",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 808,
   lastChapter: 808,
   characterClaims: "jsonl",

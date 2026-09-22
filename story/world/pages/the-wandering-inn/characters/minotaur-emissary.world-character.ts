@@ -6,6 +6,7 @@ export const minotaurEmissary = {
   slug: "minotaur-emissary",
   title: "the Minotaur",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   maxLevel: 37,
   eventCount: 2,
   firstChapter: 183,

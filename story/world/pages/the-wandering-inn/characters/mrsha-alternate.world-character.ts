@@ -6,6 +6,7 @@ export const mrshaAlternate = {
   slug: "mrsha-alternate",
   title: "Alternate Mrsha",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 740,
   lastChapter: 740,
   characterClaims: "jsonl",

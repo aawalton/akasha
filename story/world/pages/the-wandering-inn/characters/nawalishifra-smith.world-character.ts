@@ -6,6 +6,7 @@ export const nawalishifraSmith = {
   slug: "nawalishifra-smith",
   title: "Nawalishifra",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 559,
   lastChapter: 559,
   characterClaims: "jsonl",

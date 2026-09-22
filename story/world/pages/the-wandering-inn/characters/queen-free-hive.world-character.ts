@@ -6,6 +6,7 @@ export const queenFreeHive = {
   slug: "queen-free-hive",
   title: "the Queen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 25,
   lastChapter: 25,
   characterClaims: "jsonl",

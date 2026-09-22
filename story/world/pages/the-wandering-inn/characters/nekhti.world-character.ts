@@ -6,6 +6,7 @@ export const nekhti = {
   slug: "nekhti",
   title: "Nekhti",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 412,
   lastChapter: 412,
   characterClaims: "jsonl",

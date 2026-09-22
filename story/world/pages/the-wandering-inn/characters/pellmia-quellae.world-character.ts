@@ -6,6 +6,7 @@ export const pellmiaQuellae = {
   slug: "pellmia-quellae",
   title: "Pellmia Quellae",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 664,
   lastChapter: 664,
   characterClaims: "jsonl",

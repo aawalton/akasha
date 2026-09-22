@@ -6,6 +6,7 @@ export const mirin = {
   slug: "mirin",
   title: "Mirin",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 324,
   lastChapter: 410,
   characterClaims: "jsonl",

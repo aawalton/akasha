@@ -6,6 +6,7 @@ export const pewertheHeir = {
   slug: "pewerthe-heir",
   title: "Pewerthe",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 808,
   lastChapter: 808,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const pekona = {
   slug: "pekona",
   title: "Pekona",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   maxLevel: 2,
   eventCount: 4,
   firstChapter: 185,

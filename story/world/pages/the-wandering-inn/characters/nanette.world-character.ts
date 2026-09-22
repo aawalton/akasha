@@ -6,6 +6,7 @@ export const nanette = {
   slug: "nanette",
   title: "Nanette",
   world: "world/the-wandering-inn",
+  appearanceCount: 25,
   maxLevel: 4,
   eventCount: 14,
   firstChapter: 351,

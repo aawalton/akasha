@@ -6,6 +6,7 @@ export const nailihuaileArchmage = {
   slug: "nailihuaile-archmage",
   title: "Archmage Nailihuaile",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 431,
   lastChapter: 431,
   characterClaims: "jsonl",

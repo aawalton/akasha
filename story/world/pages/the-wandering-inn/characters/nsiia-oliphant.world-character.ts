@@ -6,6 +6,7 @@ export const nsiiaOliphant = {
   slug: "nsiia-oliphant",
   title: "Nsiia Oliphant",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 536,
   lastChapter: 536,
   characterClaims: "jsonl",

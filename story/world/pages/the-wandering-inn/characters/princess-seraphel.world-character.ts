@@ -6,6 +6,7 @@ export const princessSeraphel = {
   slug: "princess-seraphel",
   title: "Princess Seraphel",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 572,
   lastChapter: 583,
   characterClaims: "jsonl",

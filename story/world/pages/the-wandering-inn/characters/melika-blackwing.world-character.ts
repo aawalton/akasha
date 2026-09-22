@@ -6,6 +6,7 @@ export const melikaBlackwing = {
   slug: "melika-blackwing",
   title: "Melika Blackwing",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 789,
   lastChapter: 792,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const omusc = {
   slug: "omusc",
   title: "Omusc",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 548,
   lastChapter: 553,
   characterClaims: "jsonl",

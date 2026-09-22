@@ -6,6 +6,7 @@ export const othiusIv = {
   slug: "othius-iv",
   title: "Othius the Fourth",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 97,
   lastChapter: 711,
   characterClaims: "jsonl",

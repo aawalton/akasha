@@ -6,6 +6,7 @@ export const mortemdefieirTitan = {
   slug: "mortemdefieir-titan",
   title: "Mortemdefieir Titan",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 741,
   lastChapter: 741,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const numbtongue = {
   slug: "numbtongue",
   title: "Numbtongue",
   world: "world/the-wandering-inn",
+  appearanceCount: 90,
   maxLevel: 35,
   eventCount: 22,
   firstChapter: 146,

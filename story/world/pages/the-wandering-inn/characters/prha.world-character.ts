@@ -6,6 +6,7 @@ export const prha = {
   slug: "prha",
   title: "Prha",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 543,
   lastChapter: 543,
   characterClaims: "jsonl",

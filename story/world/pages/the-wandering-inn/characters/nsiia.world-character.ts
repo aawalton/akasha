@@ -6,6 +6,7 @@ export const nsiia = {
   slug: "nsiia",
   title: "Nsiia",
   world: "world/the-wandering-inn",
+  appearanceCount: 12,
   firstChapter: 326,
   lastChapter: 554,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const princeIradoren = {
   slug: "prince-iradoren",
   title: "Prince Iradoren",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 687,
   lastChapter: 687,
   characterClaims: "jsonl",

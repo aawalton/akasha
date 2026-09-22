@@ -6,6 +6,7 @@ export const pyrite = {
   slug: "pyrite",
   title: "Pyrite",
   world: "world/the-wandering-inn",
+  appearanceCount: 23,
   firstChapter: 155,
   lastChapter: 758,
   characterClaims: "jsonl",

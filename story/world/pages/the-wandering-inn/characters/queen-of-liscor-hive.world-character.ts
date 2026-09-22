@@ -6,6 +6,7 @@ export const queenOfLiscorHive = {
   slug: "queen-of-liscor-hive",
   title: "the Queen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 105,
   lastChapter: 105,
   characterClaims: "jsonl",

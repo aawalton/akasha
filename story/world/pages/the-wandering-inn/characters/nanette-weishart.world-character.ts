@@ -6,6 +6,7 @@ export const nanetteWeishart = {
   slug: "nanette-weishart",
   title: "Nanette Weishart",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 602,
   lastChapter: 791,
   characterClaims: "jsonl",

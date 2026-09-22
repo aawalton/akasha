@@ -6,6 +6,7 @@ export const petriaTerland = {
   slug: "petria-terland",
   title: "Petria Terland",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 820,
   lastChapter: 820,
   characterClaims: "jsonl",

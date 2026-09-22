@@ -6,6 +6,7 @@ export const persuaMavva = {
   slug: "persua-mavva",
   title: "Persua Mavva",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 655,
   lastChapter: 664,
   characterClaims: "jsonl",

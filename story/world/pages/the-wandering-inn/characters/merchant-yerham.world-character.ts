@@ -6,6 +6,7 @@ export const merchantYerham = {
   slug: "merchant-yerham",
   title: "Merchant Yerham",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 779,
   lastChapter: 779,
   characterClaims: "jsonl",

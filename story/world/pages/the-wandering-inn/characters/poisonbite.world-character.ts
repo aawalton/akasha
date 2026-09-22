@@ -6,6 +6,7 @@ export const poisonbite = {
   slug: "poisonbite",
   title: "Poisonbite",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   firstChapter: 157,
   lastChapter: 729,
   characterClaims: "jsonl",

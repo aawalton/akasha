@@ -6,6 +6,7 @@ export const poruniv = {
   slug: "poruniv",
   title: "Poruniv",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 538,
   lastChapter: 625,
   characterClaims: "jsonl",

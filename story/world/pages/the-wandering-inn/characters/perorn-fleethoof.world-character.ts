@@ -6,6 +6,7 @@ export const perornFleethoof = {
   slug: "perorn-fleethoof",
   title: "Perorn",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 333,
   lastChapter: 673,
   characterClaims: "jsonl",

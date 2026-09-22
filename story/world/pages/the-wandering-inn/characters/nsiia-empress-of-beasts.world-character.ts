@@ -6,6 +6,7 @@ export const nsiiaEmpressOfBeasts = {
   slug: "nsiia-empress-of-beasts",
   title: "Nsiia",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 577,
   lastChapter: 577,
   characterClaims: "jsonl",

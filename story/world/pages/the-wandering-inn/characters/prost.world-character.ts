@@ -6,6 +6,7 @@ export const prost = {
   slug: "prost",
   title: "Prost",
   world: "world/the-wandering-inn",
+  appearanceCount: 15,
   firstChapter: 137,
   lastChapter: 359,
   characterClaims: "jsonl",

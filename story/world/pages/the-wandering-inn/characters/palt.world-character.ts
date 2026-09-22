@@ -6,6 +6,7 @@ export const palt = {
   slug: "palt",
   title: "Palt",
   world: "world/the-wandering-inn",
+  appearanceCount: 17,
   firstChapter: 374,
   lastChapter: 775,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const nokha = {
   slug: "nokha",
   title: "the female awakened Raskghar",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 285,
   lastChapter: 578,
   characterClaims: "jsonl",

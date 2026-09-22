@@ -6,6 +6,7 @@ export const nightstalkerSister = {
   slug: "nightstalker-sister",
   title: "the Sister",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 347,
   lastChapter: 347,
   characterClaims: "jsonl",

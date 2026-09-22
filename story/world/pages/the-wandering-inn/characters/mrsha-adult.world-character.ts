@@ -6,6 +6,7 @@ export const mrshaAdult = {
   slug: "mrsha-adult",
   title: "Arrema",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 748,
   lastChapter: 748,
   characterClaims: "jsonl",

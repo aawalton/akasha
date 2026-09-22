@@ -6,6 +6,7 @@ export const nerry = {
   slug: "nerry",
   title: "Nerry",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 627,
   lastChapter: 776,
   characterClaims: "jsonl",

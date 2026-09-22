@@ -6,6 +6,7 @@ export const purpleSmile = {
   slug: "purple-smile",
   title: "Purple Smile",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 226,
   lastChapter: 267,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const mivifa = {
   slug: "mivifa",
   title: "Mivifa",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 464,
   lastChapter: 794,
   characterClaims: "jsonl",

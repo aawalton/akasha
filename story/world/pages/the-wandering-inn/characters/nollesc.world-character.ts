@@ -6,6 +6,7 @@ export const nollesc = {
   slug: "nollesc",
   title: "Nollesc",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   maxLevel: 31,
   eventCount: 1,
   firstChapter: 668,

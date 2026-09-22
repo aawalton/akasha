@@ -6,6 +6,7 @@ export const norechl = {
   slug: "norechl",
   title: "Norechl",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 577,
   lastChapter: 758,
   characterClaims: "jsonl",

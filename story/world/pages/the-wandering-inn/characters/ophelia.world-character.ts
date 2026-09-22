@@ -6,6 +6,7 @@ export const ophelia = {
   slug: "ophelia",
   title: "Ophelia",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 163,
   lastChapter: 164,
   characterClaims: "jsonl",

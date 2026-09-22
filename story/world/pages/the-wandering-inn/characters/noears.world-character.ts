@@ -6,6 +6,7 @@ export const noears = {
   slug: "noears",
   title: "the Goblin with no ears",
   world: "world/the-wandering-inn",
+  appearanceCount: 14,
   firstChapter: 154,
   lastChapter: 309,
   characterClaims: "jsonl",

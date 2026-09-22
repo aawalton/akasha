@@ -6,6 +6,7 @@ export const possive = {
   slug: "possive",
   title: "Lady Possive",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 705,
   lastChapter: 705,
   characterClaims: "jsonl",

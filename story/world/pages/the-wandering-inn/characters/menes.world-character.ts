@@ -6,6 +6,7 @@ export const menes = {
   slug: "menes",
   title: "Menes",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 50,
   lastChapter: 62,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const nerul = {
   slug: "nerul",
   title: "Nerul Gemscale",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 489,
   lastChapter: 664,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const olesm = {
   slug: "olesm",
   title: "Olesm",
   world: "world/the-wandering-inn",
+  appearanceCount: 67,
   maxLevel: 35,
   eventCount: 18,
   firstChapter: 19,

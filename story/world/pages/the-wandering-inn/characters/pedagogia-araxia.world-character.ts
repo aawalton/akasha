@@ -6,6 +6,7 @@ export const pedagogiaAraxia = {
   slug: "pedagogia-araxia",
   title: "Pedagogia Araxia",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 734,
   lastChapter: 735,
   characterClaims: "jsonl",

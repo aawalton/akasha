@@ -6,6 +6,7 @@ export const merindiusKnightCaptain = {
   slug: "merindius-knight-captain",
   title: "Merindius",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 715,
   lastChapter: 715,
   characterClaims: "jsonl",

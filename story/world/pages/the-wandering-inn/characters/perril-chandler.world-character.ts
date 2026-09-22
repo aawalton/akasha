@@ -6,6 +6,7 @@ export const perrilChandler = {
   slug: "perril-chandler",
   title: "Perril Chandler",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 502,
   lastChapter: 506,
   characterClaims: "jsonl",

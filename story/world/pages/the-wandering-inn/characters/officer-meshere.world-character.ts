@@ -6,6 +6,7 @@ export const officerMeshere = {
   slug: "officer-meshere",
   title: "Me'shere",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 717,
   lastChapter: 717,
   characterClaims: "jsonl",

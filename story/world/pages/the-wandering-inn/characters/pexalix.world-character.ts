@@ -6,6 +6,7 @@ export const pexalix = {
   slug: "pexalix",
   title: "Pexalix",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 607,
   lastChapter: 607,
   characterClaims: "jsonl",

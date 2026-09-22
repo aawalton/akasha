@@ -6,6 +6,7 @@ export const octillaHemp = {
   slug: "octilla-hemp",
   title: "Octilla Hemp",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 445,
   lastChapter: 445,
   characterClaims: "jsonl",

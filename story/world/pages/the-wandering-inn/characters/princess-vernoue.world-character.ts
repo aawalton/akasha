@@ -6,6 +6,7 @@ export const princessVernoue = {
   slug: "princess-vernoue",
   title: "Princess Vernoue",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 572,
   lastChapter: 572,
   characterClaims: "jsonl",
