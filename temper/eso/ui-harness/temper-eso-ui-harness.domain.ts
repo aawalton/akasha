@@ -10,6 +10,7 @@ export const temperEsoUiHarness = {
     "lua-module/ui-event-model",
     "module/ui-harness",
     "module/ui-layout",
+    "module/ui-picture",
   ],
   decisions: [
     {
