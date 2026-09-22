@@ -4,7 +4,7 @@ export const claudeCodeRemoteControl = {
   id: "01a09c78-e5b9-709e-bc75-2a6425da7d7b",
   type: "page-type/domain",
   slug: "claude-code-remote-control",
-  definition: "a seat driven from away",
+  definition: "how a person chats with a seat from the Claude Code app",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "Claude Code Remote Control" }],
   parts: [
     "module/claude-code-remote-control-degraded-decide",
