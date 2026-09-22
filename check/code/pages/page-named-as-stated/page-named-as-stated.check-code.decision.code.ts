@@ -84,7 +84,7 @@ function besideAPage(said: Parted, heldInAFile: ReadonlySet<string>): boolean {
   return beside === null || !heldInAFile.has(beside.propertySlug)
 }
 
-function namedForAPage(path: string, heldInAFile: ReadonlySet<string>): boolean {
+export function namedForAPage(path: string, heldInAFile: ReadonlySet<string>): boolean {
   const said = partedIn(path)
   return said !== null && besideAPage(said, heldInAFile)
 }
@@ -141,14 +141,17 @@ export function namedPlainly(stem: string, suffix: string, text: string): boolea
   return said !== null && slugOf(said) === suffix
 }
 
-export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readonly string[] {
-  const said = partedIn(given.path)
+export function reasonsFor(
+  path: string,
+  body: string,
+  heldInAFile: ReadonlySet<string>
+): readonly string[] {
+  const said = partedIn(path)
   if (said === null || !besideAPage(said, heldInAFile)) return []
   const stem = said.slug
   const suffix = said.pageType
-  const body = bodyOf(given)
   if (namedPlainly(stem, suffix, body)) return []
-  const stated = pagesIn(given.path, body)
+  const stated = pagesIn(path, body)
   const first = stated[0]
   if (first === undefined) return []
   const found: string[] = []
@@ -181,6 +184,11 @@ export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readon
     )
   }
   return found
+}
+
+export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readonly string[] {
+  if (!namedForAPage(given.path, heldInAFile)) return []
+  return reasonsFor(given.path, bodyOf(given), heldInAFile)
 }
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
