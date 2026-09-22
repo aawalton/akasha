@@ -16,6 +16,6 @@ export const enchantedForest85804 = {
   lineRankNeeded: 12,
   morphIndex: 1,
   rank: 12,
-  skillLineId: "warden-green-balance",
+  skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

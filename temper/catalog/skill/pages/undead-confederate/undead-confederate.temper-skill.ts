@@ -16,7 +16,7 @@ export const undeadConfederate = {
   lineRankNeeded: 50,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "necromancer-living-death",
+  skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

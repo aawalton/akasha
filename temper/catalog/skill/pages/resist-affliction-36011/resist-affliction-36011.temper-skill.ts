@@ -16,6 +16,6 @@ export const resistAffliction36011 = {
   lineRankNeeded: 25,
   morphIndex: 0,
   rank: 25,
-  skillLineId: "racial-wood-elf-skills",
+  skillLineId: "temper-skill-line/racial-wood-elf-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

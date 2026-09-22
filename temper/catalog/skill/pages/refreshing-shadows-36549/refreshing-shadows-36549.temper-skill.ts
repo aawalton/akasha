@@ -15,6 +15,6 @@ export const refreshingShadows36549 = {
   lineRankNeeded: 8,
   morphIndex: 0,
   rank: 8,
-  skillLineId: "nightblade-shadow",
+  skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const aegisOfTheUnseen184918 = {
   lineRankNeeded: 8,
   morphIndex: 0,
   rank: 8,
-  skillLineId: "arcanist-soldier-of-apocrypha",
+  skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

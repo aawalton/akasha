@@ -16,7 +16,7 @@ export const constitution = {
   lineRankNeeded: 6,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "armor-heavy-armor",
+  skillLineId: "temper-skill-line/armor-heavy-armor",
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",

@@ -16,6 +16,6 @@ export const rapidRegeneration40076 = {
   lineRankNeeded: 4,
   morphIndex: 1,
   rank: 4,
-  skillLineId: "weapon-restoration-staff",
+  skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const moltenWeapons = {
   lineRankNeeded: 4,
   morphIndex: 0,
   rank: 4,
-  skillLineId: "dragonknight-earthen-heart",
+  skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

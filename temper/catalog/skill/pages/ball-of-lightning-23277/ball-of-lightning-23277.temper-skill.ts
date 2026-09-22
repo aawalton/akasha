@@ -16,6 +16,6 @@ export const ballOfLightning23277 = {
   lineRankNeeded: 42,
   morphIndex: 2,
   rank: 42,
-  skillLineId: "sorcerer-storm-calling",
+  skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

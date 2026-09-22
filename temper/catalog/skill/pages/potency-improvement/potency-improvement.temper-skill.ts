@@ -16,6 +16,6 @@ export const potencyImprovement = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 10,
-  skillLineId: "craft-enchanting",
+  skillLineId: "temper-skill-line/craft-enchanting",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

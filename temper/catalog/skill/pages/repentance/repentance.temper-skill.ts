@@ -16,7 +16,7 @@ export const repentance = {
   lineRankNeeded: 20,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "templar-restoring-light",
+  skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
 } as const satisfies TemperSkill

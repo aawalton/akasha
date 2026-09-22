@@ -16,6 +16,6 @@ export const tomeBearerSInspiration = {
   lineRankNeeded: 30,
   morphIndex: 0,
   rank: 30,
-  skillLineId: "arcanist-herald-of-the-tome",
+  skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

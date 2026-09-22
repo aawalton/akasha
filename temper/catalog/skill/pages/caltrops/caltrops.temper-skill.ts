@@ -16,6 +16,6 @@ export const caltrops = {
   lineRankNeeded: 6,
   morphIndex: 0,
   rank: 6,
-  skillLineId: "alliance-war-assault",
+  skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

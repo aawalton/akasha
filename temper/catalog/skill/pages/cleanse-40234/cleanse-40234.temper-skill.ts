@@ -16,6 +16,6 @@ export const cleanse40234 = {
   lineRankNeeded: 4,
   morphIndex: 2,
   rank: 4,
-  skillLineId: "alliance-war-support",
+  skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

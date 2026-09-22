@@ -16,6 +16,6 @@ export const hideousClarity185240 = {
   lineRankNeeded: 14,
   morphIndex: 0,
   rank: 14,
-  skillLineId: "arcanist-curative-runeforms",
+  skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

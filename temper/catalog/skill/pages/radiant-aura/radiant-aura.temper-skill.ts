@@ -16,7 +16,7 @@ export const radiantAura = {
   lineRankNeeded: 20,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "templar-restoring-light",
+  skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
 } as const satisfies TemperSkill

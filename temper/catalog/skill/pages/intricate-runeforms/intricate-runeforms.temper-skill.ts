@@ -16,7 +16,7 @@ export const intricateRuneforms = {
   lineRankNeeded: 50,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "arcanist-curative-runeforms",
+  skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",

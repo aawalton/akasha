@@ -16,7 +16,7 @@ export const evocation = {
   lineRankNeeded: 6,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "armor-light-armor",
+  skillLineId: "temper-skill-line/armor-light-armor",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

@@ -16,7 +16,7 @@ export const darkStalker = {
   lineRankNeeded: 3,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "world-vampire",
+  skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/passive",
   effects: "jsonl",
 } as const satisfies TemperSkill

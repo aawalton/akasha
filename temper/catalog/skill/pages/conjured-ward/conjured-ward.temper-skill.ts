@@ -16,6 +16,6 @@ export const conjuredWard = {
   lineRankNeeded: 30,
   morphIndex: 0,
   rank: 30,
-  skillLineId: "sorcerer-daedric-summoning",
+  skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const healingTides185185 = {
   lineRankNeeded: 8,
   morphIndex: 0,
   rank: 8,
-  skillLineId: "arcanist-curative-runeforms",
+  skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

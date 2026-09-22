@@ -16,6 +16,6 @@ export const arcanistSDomain = {
   lineRankNeeded: 30,
   morphIndex: 0,
   rank: 30,
-  skillLineId: "arcanist-curative-runeforms",
+  skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

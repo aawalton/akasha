@@ -16,6 +16,6 @@ export const unstoppableBrute39205 = {
   lineRankNeeded: 22,
   morphIndex: 1,
   rank: 22,
-  skillLineId: "armor-heavy-armor",
+  skillLineId: "temper-skill-line/armor-heavy-armor",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

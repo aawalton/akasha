@@ -16,6 +16,6 @@ export const subterraneanAssault86019 = {
   lineRankNeeded: 4,
   morphIndex: 1,
   rank: 4,
-  skillLineId: "warden-animal-companions",
+  skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const arcticWind = {
   lineRankNeeded: 20,
   morphIndex: 0,
   rank: 20,
-  skillLineId: "warden-winters-embrace",
+  skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

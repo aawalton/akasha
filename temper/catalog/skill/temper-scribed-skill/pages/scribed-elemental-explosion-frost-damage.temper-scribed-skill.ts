@@ -15,7 +15,7 @@ export const scribedElementalExplosionFrostDamage = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "weapon-destruction-staff",
+  skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/frost-damage",
   grimoireId: "temper-grimoire/elemental-explosion",

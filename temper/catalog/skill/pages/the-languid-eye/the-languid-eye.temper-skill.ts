@@ -16,6 +16,6 @@ export const theLanguidEye = {
   lineRankNeeded: 12,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "arcanist-herald-of-the-tome",
+  skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

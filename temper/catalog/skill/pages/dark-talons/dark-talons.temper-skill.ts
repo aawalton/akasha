@@ -16,6 +16,6 @@ export const darkTalons = {
   lineRankNeeded: 4,
   morphIndex: 0,
   rank: 4,
-  skillLineId: "dragonknight-draconic-power",
+  skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

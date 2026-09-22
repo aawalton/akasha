@@ -16,6 +16,6 @@ export const focusedCharge = {
   lineRankNeeded: 20,
   morphIndex: 0,
   rank: 20,
-  skillLineId: "templar-aedric-spear",
+  skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const healingSeed = {
   lineRankNeeded: 4,
   morphIndex: 0,
   rank: 4,
-  skillLineId: "warden-green-balance",
+  skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

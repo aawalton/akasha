@@ -16,6 +16,6 @@ export const keenEyeOre47854 = {
   lineRankNeeded: 2,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "craft-blacksmithing",
+  skillLineId: "temper-skill-line/craft-blacksmithing",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

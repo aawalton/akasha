@@ -16,6 +16,6 @@ export const ritualOfRebirth22327 = {
   lineRankNeeded: 4,
   morphIndex: 1,
   rank: 4,
-  skillLineId: "templar-restoring-light",
+  skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

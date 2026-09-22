@@ -10,7 +10,7 @@ export const soulBurst = {
   abilityIcon: "/esoui/art/icons/ability_grimoire_soulmagic2.dds",
   itemId: 204492,
   uespId: 8,
-  skillLineId: "world-soul-magic",
+  skillLineId: "temper-skill-line/world-soul-magic",
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/damage-shield",

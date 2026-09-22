@@ -16,6 +16,6 @@ export const darkShade = {
   lineRankNeeded: 42,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "nightblade-shadow",
+  skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

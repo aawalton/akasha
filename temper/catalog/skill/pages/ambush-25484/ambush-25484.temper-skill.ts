@@ -16,6 +16,6 @@ export const ambush25484 = {
   lineRankNeeded: 4,
   morphIndex: 2,
   rank: 4,
-  skillLineId: "nightblade-assassination",
+  skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

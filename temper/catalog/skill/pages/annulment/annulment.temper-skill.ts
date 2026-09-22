@@ -16,6 +16,6 @@ export const annulment = {
   lineRankNeeded: 22,
   morphIndex: 0,
   rank: 22,
-  skillLineId: "armor-light-armor",
+  skillLineId: "temper-skill-line/armor-light-armor",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

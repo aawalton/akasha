@@ -16,7 +16,7 @@ export const deathGleaning = {
   lineRankNeeded: 18,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "necromancer-bone-tyrant",
+  skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

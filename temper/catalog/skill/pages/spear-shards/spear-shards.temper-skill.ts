@@ -16,6 +16,6 @@ export const spearShards = {
   lineRankNeeded: 30,
   morphIndex: 0,
   rank: 30,
-  skillLineId: "templar-aedric-spear",
+  skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

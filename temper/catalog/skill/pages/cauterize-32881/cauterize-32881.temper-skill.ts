@@ -16,6 +16,6 @@ export const cauterize32881 = {
   lineRankNeeded: 42,
   morphIndex: 2,
   rank: 42,
-  skillLineId: "dragonknight-ardent-flame",
+  skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

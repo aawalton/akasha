@@ -16,6 +16,6 @@ export const hardenedWard29489 = {
   lineRankNeeded: 30,
   morphIndex: 1,
   rank: 30,
-  skillLineId: "sorcerer-daedric-summoning",
+  skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -16,7 +16,7 @@ export const ancientKnowledge = {
   lineRankNeeded: 46,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "weapon-destruction-staff",
+  skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

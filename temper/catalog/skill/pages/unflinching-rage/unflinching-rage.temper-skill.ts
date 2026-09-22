@@ -16,7 +16,7 @@ export const unflinchingRage = {
   lineRankNeeded: 10,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "racial-orc-skills",
+  skillLineId: "temper-skill-line/racial-orc-skills",
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",

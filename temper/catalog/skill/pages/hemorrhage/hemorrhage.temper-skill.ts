@@ -16,7 +16,7 @@ export const hemorrhage = {
   lineRankNeeded: 39,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "nightblade-assassination",
+  skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",

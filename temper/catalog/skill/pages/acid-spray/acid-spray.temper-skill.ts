@@ -16,6 +16,6 @@ export const acidSpray = {
   lineRankNeeded: 20,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "weapon-bow",
+  skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

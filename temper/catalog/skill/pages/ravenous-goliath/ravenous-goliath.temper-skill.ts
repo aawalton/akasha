@@ -16,6 +16,6 @@ export const ravenousGoliath = {
   lineRankNeeded: 12,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "necromancer-bone-tyrant",
+  skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

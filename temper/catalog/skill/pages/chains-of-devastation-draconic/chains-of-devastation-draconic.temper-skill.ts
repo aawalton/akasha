@@ -16,6 +16,6 @@ export const chainsOfDevastationDraconic = {
   lineRankNeeded: 42,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "dragonknight-draconic-power",
+  skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

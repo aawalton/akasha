@@ -15,7 +15,7 @@ export const conditioning = {
   lineRankNeeded: 40,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "racial-redguard-skills",
+  skillLineId: "temper-skill-line/racial-redguard-skills",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

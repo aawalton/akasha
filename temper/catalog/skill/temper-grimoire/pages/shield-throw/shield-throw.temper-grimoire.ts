@@ -10,7 +10,7 @@ export const shieldThrow = {
   abilityIcon: "/esoui/art/icons/ability_grimoire_1handed.dds",
   itemId: 204486,
   uespId: 3,
-  skillLineId: "weapon-one-hand-and-shield",
+  skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   focusScripts: [
     "temper-focus-script/frost-damage",
     "temper-focus-script/immobilize",

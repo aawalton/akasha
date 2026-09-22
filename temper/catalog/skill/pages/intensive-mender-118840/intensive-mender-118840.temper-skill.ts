@@ -16,6 +16,6 @@ export const intensiveMender118840 = {
   lineRankNeeded: 30,
   morphIndex: 2,
   rank: 30,
-  skillLineId: "necromancer-living-death",
+  skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

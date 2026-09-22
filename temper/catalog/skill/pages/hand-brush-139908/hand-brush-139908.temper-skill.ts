@@ -16,6 +16,6 @@ export const handBrush139908 = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "world-excavation",
+  skillLineId: "temper-skill-line/world-excavation",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const heartOfFlame = {
   lineRankNeeded: 20,
   morphIndex: 2,
   rank: 20,
-  skillLineId: "dragonknight-ardent-flame",
+  skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

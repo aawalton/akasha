@@ -16,6 +16,6 @@ export const satedFury135841 = {
   lineRankNeeded: 2,
   morphIndex: 2,
   rank: 2,
-  skillLineId: "world-vampire",
+  skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

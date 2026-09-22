@@ -16,6 +16,6 @@ export const incapacitatingStrike36508 = {
   lineRankNeeded: 12,
   morphIndex: 1,
   rank: 12,
-  skillLineId: "nightblade-assassination",
+  skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

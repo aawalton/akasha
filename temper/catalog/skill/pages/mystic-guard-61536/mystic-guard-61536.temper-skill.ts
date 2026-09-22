@@ -16,6 +16,6 @@ export const mysticGuard61536 = {
   lineRankNeeded: 5,
   morphIndex: 1,
   rank: 5,
-  skillLineId: "alliance-war-support",
+  skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const runeOfUncannyAdoration185921 = {
   lineRankNeeded: 42,
   morphIndex: 1,
   rank: 42,
-  skillLineId: "arcanist-soldier-of-apocrypha",
+  skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

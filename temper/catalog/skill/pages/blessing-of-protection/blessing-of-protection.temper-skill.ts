@@ -16,6 +16,6 @@ export const blessingOfProtection = {
   lineRankNeeded: 14,
   morphIndex: 0,
   rank: 14,
-  skillLineId: "weapon-restoration-staff",
+  skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

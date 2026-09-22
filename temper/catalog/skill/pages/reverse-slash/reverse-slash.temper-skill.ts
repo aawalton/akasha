@@ -16,6 +16,6 @@ export const reverseSlash = {
   lineRankNeeded: 20,
   morphIndex: 0,
   rank: 20,
-  skillLineId: "weapon-two-handed",
+  skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

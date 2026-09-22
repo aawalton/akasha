@@ -16,6 +16,6 @@ export const vengeanceRestoringAura = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-templar-restoring-light",
+  skillLineId: "temper-skill-line/vengeance-templar-restoring-light",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

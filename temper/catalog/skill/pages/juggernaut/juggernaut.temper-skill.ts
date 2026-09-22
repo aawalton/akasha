@@ -16,7 +16,7 @@ export const juggernaut = {
   lineRankNeeded: 14,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "armor-heavy-armor",
+  skillLineId: "temper-skill-line/armor-heavy-armor",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

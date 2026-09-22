@@ -16,6 +16,6 @@ export const magnumShot38672 = {
   lineRankNeeded: 14,
   morphIndex: 1,
   rank: 14,
-  skillLineId: "weapon-bow",
+  skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

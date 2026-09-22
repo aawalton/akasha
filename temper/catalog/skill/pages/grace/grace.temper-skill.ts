@@ -16,7 +16,7 @@ export const grace = {
   lineRankNeeded: 2,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "armor-light-armor",
+  skillLineId: "temper-skill-line/armor-light-armor",
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",

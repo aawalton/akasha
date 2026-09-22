@@ -16,6 +16,6 @@ export const radialSweep = {
   lineRankNeeded: 12,
   morphIndex: 0,
   rank: 12,
-  skillLineId: "templar-aedric-spear",
+  skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

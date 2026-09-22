@@ -16,6 +16,6 @@ export const balance40441 = {
   lineRankNeeded: 8,
   morphIndex: 2,
   rank: 8,
-  skillLineId: "guild-mages-guild",
+  skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

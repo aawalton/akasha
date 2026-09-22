@@ -16,7 +16,7 @@ export const deflectBolts = {
   lineRankNeeded: 46,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "weapon-one-hand-and-shield",
+  skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

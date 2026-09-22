@@ -16,6 +16,6 @@ export const corruptingPollen85845 = {
   lineRankNeeded: 4,
   morphIndex: 2,
   rank: 4,
-  skillLineId: "warden-green-balance",
+  skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

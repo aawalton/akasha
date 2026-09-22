@@ -16,7 +16,7 @@ export const essenceDrain = {
   lineRankNeeded: 34,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "weapon-restoration-staff",
+  skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

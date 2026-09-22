@@ -16,6 +16,6 @@ export const blueBetty86054 = {
   lineRankNeeded: 30,
   morphIndex: 1,
   rank: 30,
-  skillLineId: "warden-animal-companions",
+  skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

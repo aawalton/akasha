@@ -15,6 +15,6 @@ export const preemptivePower = {
   lineRankNeeded: 9,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "world-scrying",
+  skillLineId: "temper-skill-line/world-scrying",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

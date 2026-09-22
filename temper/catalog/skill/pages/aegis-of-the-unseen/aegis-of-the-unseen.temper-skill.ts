@@ -16,7 +16,7 @@ export const aegisOfTheUnseen = {
   lineRankNeeded: 18,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "arcanist-soldier-of-apocrypha",
+  skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

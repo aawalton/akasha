@@ -15,6 +15,6 @@ export const powerStone31396 = {
   lineRankNeeded: 14,
   morphIndex: 0,
   rank: 14,
-  skillLineId: "sorcerer-daedric-summoning",
+  skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

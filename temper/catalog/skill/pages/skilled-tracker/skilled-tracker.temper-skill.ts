@@ -16,7 +16,7 @@ export const skilledTracker = {
   lineRankNeeded: 7,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "guild-fighters-guild",
+  skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

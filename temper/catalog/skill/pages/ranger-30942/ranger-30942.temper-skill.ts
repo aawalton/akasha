@@ -15,6 +15,6 @@ export const ranger30942 = {
   lineRankNeeded: 17,
   morphIndex: 0,
   rank: 17,
-  skillLineId: "weapon-bow",
+  skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

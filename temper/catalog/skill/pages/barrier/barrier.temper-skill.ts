@@ -16,6 +16,6 @@ export const barrier = {
   lineRankNeeded: 6,
   morphIndex: 0,
   rank: 6,
-  skillLineId: "alliance-war-support",
+  skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

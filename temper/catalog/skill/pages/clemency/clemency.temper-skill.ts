@@ -16,7 +16,7 @@ export const clemency = {
   lineRankNeeded: 4,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "guild-thieves-guild",
+  skillLineId: "temper-skill-line/guild-thieves-guild",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

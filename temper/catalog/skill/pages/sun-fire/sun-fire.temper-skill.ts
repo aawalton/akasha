@@ -16,6 +16,6 @@ export const sunFire = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "templar-dawns-wrath",
+  skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

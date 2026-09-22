@@ -16,6 +16,6 @@ export const penetratingMagic30957 = {
   lineRankNeeded: 10,
   morphIndex: 0,
   rank: 10,
-  skillLineId: "weapon-destruction-staff",
+  skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

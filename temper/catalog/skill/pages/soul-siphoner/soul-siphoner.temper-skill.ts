@@ -16,7 +16,7 @@ export const soulSiphoner = {
   lineRankNeeded: 36,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "nightblade-siphoning",
+  skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

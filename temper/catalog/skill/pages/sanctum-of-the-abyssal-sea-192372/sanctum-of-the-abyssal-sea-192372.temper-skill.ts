@@ -16,6 +16,6 @@ export const sanctumOfTheAbyssalSea192372 = {
   lineRankNeeded: 12,
   morphIndex: 1,
   rank: 12,
-  skillLineId: "arcanist-soldier-of-apocrypha",
+  skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

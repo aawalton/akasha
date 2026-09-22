@@ -16,6 +16,6 @@ export const curativeCurse116286 = {
   lineRankNeeded: 8,
   morphIndex: 0,
   rank: 8,
-  skillLineId: "necromancer-living-death",
+  skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

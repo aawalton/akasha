@@ -16,6 +16,6 @@ export const passageBetweenWorlds186220 = {
   lineRankNeeded: 42,
   morphIndex: 2,
   rank: 42,
-  skillLineId: "arcanist-curative-runeforms",
+  skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

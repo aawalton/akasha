@@ -16,6 +16,6 @@ export const eclipse = {
   lineRankNeeded: 30,
   morphIndex: 0,
   rank: 30,
-  skillLineId: "templar-dawns-wrath",
+  skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

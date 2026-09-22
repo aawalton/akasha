@@ -16,7 +16,7 @@ export const amphibian = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "racial-argonian-skills",
+  skillLineId: "temper-skill-line/racial-argonian-skills",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

@@ -16,6 +16,6 @@ export const vengeanceWhirlwind = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-weapon-dual-wield",
+  skillLineId: "temper-skill-line/vengeance-weapon-dual-wield",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

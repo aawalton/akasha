@@ -16,6 +16,6 @@ export const resistFrost36627 = {
   lineRankNeeded: 5,
   morphIndex: 0,
   rank: 5,
-  skillLineId: "racial-nord-skills",
+  skillLineId: "temper-skill-line/racial-nord-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

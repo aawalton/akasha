@@ -10,7 +10,7 @@ export const smash = {
   abilityIcon: "/esoui/art/icons/ability_grimoire_2handed.dds",
   itemId: 204487,
   uespId: 4,
-  skillLineId: "weapon-two-handed",
+  skillLineId: "temper-skill-line/weapon-two-handed",
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/damage-shield",

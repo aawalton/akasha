@@ -16,6 +16,6 @@ export const disdainHarm116239 = {
   lineRankNeeded: 14,
   morphIndex: 0,
   rank: 14,
-  skillLineId: "necromancer-bone-tyrant",
+  skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const vengeanceFalconSSwiftness = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-warden-animal-companions",
+  skillLineId: "temper-skill-line/vengeance-warden-animal-companions",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -16,7 +16,7 @@ export const detonatingSiphon = {
   lineRankNeeded: 42,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "necromancer-grave-lord",
+  skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
 } as const satisfies TemperSkill

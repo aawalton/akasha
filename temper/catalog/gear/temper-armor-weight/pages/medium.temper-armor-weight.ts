@@ -8,5 +8,5 @@ export const medium = {
   key: "medium",
   baseValue: 260.5,
   isStandard: true,
-  skillLineId: "armor-medium-armor",
+  skillLineId: "temper-skill-line/armor-medium-armor",
 } as const satisfies TemperArmorWeight

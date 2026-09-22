@@ -15,6 +15,6 @@ export const energized31421 = {
   lineRankNeeded: 14,
   morphIndex: 0,
   rank: 14,
-  skillLineId: "sorcerer-storm-calling",
+  skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

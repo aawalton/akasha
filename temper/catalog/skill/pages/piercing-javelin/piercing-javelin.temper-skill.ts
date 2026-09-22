@@ -16,6 +16,6 @@ export const piercingJavelin = {
   lineRankNeeded: 4,
   morphIndex: 0,
   rank: 4,
-  skillLineId: "templar-aedric-spear",
+  skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

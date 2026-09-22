@@ -31,6 +31,7 @@ export const temperCatalogThing = {
     "text-property/slotted-behavior",
     "text-property/value-type",
     "text-property/skill-line-id",
+    "relation-property/skill-line",
   ],
   properties: [
     { pageProperty: "text-property/effect", required: false, many: false },

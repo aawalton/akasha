@@ -16,7 +16,7 @@ export const mediumArmorBonuses = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "armor-medium-armor",
+  skillLineId: "temper-skill-line/armor-medium-armor",
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",

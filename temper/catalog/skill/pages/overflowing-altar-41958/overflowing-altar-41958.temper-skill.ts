@@ -16,6 +16,6 @@ export const overflowingAltar41958 = {
   lineRankNeeded: 1,
   morphIndex: 2,
   rank: 1,
-  skillLineId: "guild-undaunted",
+  skillLineId: "temper-skill-line/guild-undaunted",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

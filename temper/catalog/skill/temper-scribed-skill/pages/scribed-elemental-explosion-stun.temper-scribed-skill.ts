@@ -15,7 +15,7 @@ export const scribedElementalExplosionStun = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "weapon-destruction-staff",
+  skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/stun",
   grimoireId: "temper-grimoire/elemental-explosion",

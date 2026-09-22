@@ -16,7 +16,7 @@ export const scribedVaultFlameDamage = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "weapon-bow",
+  skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/flame-damage",
   grimoireId: "temper-grimoire/vault",

@@ -16,6 +16,6 @@ export const triFocus30948 = {
   lineRankNeeded: 5,
   morphIndex: 0,
   rank: 5,
-  skillLineId: "weapon-destruction-staff",
+  skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

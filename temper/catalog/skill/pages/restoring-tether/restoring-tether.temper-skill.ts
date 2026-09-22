@@ -16,6 +16,6 @@ export const restoringTether = {
   lineRankNeeded: 42,
   morphIndex: 0,
   rank: 42,
-  skillLineId: "necromancer-living-death",
+  skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

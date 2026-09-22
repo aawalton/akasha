@@ -15,7 +15,7 @@ export const lifeMender = {
   lineRankNeeded: 30,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "racial-argonian-skills",
+  skillLineId: "temper-skill-line/racial-argonian-skills",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

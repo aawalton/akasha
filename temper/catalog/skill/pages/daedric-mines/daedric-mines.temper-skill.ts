@@ -16,6 +16,6 @@ export const daedricMines = {
   lineRankNeeded: 42,
   morphIndex: 0,
   rank: 42,
-  skillLineId: "sorcerer-dark-magic",
+  skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

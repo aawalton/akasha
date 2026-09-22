@@ -16,6 +16,6 @@ export const theStormVoice = {
   lineRankNeeded: 39,
   morphIndex: 0,
   rank: 39,
-  skillLineId: "dragonknight-draconic-power",
+  skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

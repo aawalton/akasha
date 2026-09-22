@@ -16,6 +16,6 @@ export const drainingShot38669 = {
   lineRankNeeded: 14,
   morphIndex: 2,
   rank: 14,
-  skillLineId: "weapon-bow",
+  skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

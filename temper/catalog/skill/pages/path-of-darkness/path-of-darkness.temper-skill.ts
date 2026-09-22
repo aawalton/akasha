@@ -16,6 +16,6 @@ export const pathOfDarkness = {
   lineRankNeeded: 20,
   morphIndex: 0,
   rank: 20,
-  skillLineId: "nightblade-shadow",
+  skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

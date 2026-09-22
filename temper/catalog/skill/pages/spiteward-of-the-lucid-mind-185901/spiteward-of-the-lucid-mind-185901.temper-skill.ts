@@ -16,6 +16,6 @@ export const spitewardOfTheLucidMind185901 = {
   lineRankNeeded: 4,
   morphIndex: 1,
   rank: 4,
-  skillLineId: "arcanist-soldier-of-apocrypha",
+  skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

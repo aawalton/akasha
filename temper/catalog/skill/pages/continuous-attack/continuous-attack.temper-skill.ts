@@ -16,7 +16,7 @@ export const continuousAttack = {
   lineRankNeeded: 9,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "alliance-war-assault",
+  skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

@@ -16,6 +16,6 @@ export const expertMage31425 = {
   lineRankNeeded: 39,
   morphIndex: 0,
   rank: 39,
-  skillLineId: "sorcerer-storm-calling",
+  skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

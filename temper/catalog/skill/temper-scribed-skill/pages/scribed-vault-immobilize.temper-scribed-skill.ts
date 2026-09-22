@@ -16,7 +16,7 @@ export const scribedVaultImmobilize = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "weapon-bow",
+  skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/immobilize",
   grimoireId: "temper-grimoire/vault",

@@ -16,7 +16,7 @@ export const scribedTravelingKnifeMultiTarget = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "weapon-dual-wield",
+  skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/multi-target",
   grimoireId: "temper-grimoire/traveling-knife",

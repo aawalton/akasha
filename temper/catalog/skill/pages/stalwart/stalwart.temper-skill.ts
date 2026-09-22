@@ -16,7 +16,7 @@ export const stalwart = {
   lineRankNeeded: 40,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "racial-nord-skills",
+  skillLineId: "temper-skill-line/racial-nord-skills",
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",

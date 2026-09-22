@@ -16,6 +16,6 @@ export const elementalRage = {
   lineRankNeeded: 50,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "weapon-destruction-staff",
+  skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

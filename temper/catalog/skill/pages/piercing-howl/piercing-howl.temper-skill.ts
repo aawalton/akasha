@@ -16,6 +16,6 @@ export const piercingHowl = {
   lineRankNeeded: 6,
   morphIndex: 0,
   rank: 6,
-  skillLineId: "world-werewolf",
+  skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

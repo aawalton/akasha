@@ -15,6 +15,6 @@ export const elementalTalent35998 = {
   lineRankNeeded: 25,
   morphIndex: 0,
   rank: 25,
-  skillLineId: "racial-high-elf-skills",
+  skillLineId: "temper-skill-line/racial-high-elf-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

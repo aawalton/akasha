@@ -16,6 +16,6 @@ export const vengeanceDaedricMines = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-sorcerer-dark-magic",
+  skillLineId: "temper-skill-line/vengeance-sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -16,7 +16,7 @@ export const maturation = {
   lineRankNeeded: 50,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "warden-green-balance",
+  skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

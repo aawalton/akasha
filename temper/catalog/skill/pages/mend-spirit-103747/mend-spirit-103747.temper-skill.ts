@@ -16,6 +16,6 @@ export const mendSpirit103747 = {
   lineRankNeeded: 6,
   morphIndex: 1,
   rank: 6,
-  skillLineId: "guild-psijic-order",
+  skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

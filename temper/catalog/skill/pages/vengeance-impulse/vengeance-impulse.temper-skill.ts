@@ -16,6 +16,6 @@ export const vengeanceImpulse = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-weapon-destruction-staff",
+  skillLineId: "temper-skill-line/vengeance-weapon-destruction-staff",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

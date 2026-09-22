@@ -15,6 +15,6 @@ export const robustness70386 = {
   lineRankNeeded: 5,
   morphIndex: 0,
   rank: 5,
-  skillLineId: "racial-khajiit-skills",
+  skillLineId: "temper-skill-line/racial-khajiit-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

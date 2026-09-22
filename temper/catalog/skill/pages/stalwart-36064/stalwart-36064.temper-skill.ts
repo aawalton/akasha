@@ -16,6 +16,6 @@ export const stalwart36064 = {
   lineRankNeeded: 10,
   morphIndex: 0,
   rank: 10,
-  skillLineId: "racial-nord-skills",
+  skillLineId: "temper-skill-line/racial-nord-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

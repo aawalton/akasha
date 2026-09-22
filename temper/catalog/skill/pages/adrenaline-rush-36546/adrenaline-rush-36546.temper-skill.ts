@@ -16,6 +16,6 @@ export const adrenalineRush36546 = {
   lineRankNeeded: 25,
   morphIndex: 0,
   rank: 25,
-  skillLineId: "racial-redguard-skills",
+  skillLineId: "temper-skill-line/racial-redguard-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

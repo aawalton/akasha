@@ -16,6 +16,6 @@ export const whirlingBlades38891 = {
   lineRankNeeded: 14,
   morphIndex: 1,
   rank: 14,
-  skillLineId: "weapon-dual-wield",
+  skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

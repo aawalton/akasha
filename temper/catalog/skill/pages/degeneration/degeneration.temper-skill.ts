@@ -16,6 +16,6 @@ export const degeneration = {
   lineRankNeeded: 4,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "guild-mages-guild",
+  skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

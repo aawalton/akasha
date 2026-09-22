@@ -16,6 +16,6 @@ export const drainPower = {
   lineRankNeeded: 42,
   morphIndex: 0,
   rank: 42,
-  skillLineId: "nightblade-siphoning",
+  skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

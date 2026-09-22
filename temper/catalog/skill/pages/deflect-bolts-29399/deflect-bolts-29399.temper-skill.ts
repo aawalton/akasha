@@ -16,6 +16,6 @@ export const deflectBolts29399 = {
   lineRankNeeded: 30,
   morphIndex: 0,
   rank: 30,
-  skillLineId: "weapon-one-hand-and-shield",
+  skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

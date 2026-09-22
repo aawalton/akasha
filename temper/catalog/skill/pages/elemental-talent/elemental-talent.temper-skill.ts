@@ -15,7 +15,7 @@ export const elementalTalent = {
   lineRankNeeded: 50,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "racial-high-elf-skills",
+  skillLineId: "temper-skill-line/racial-high-elf-skills",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

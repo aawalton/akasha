@@ -10,7 +10,7 @@ export const bannerBearer = {
   abilityIcon: "/esoui/art/icons/ability_grimoire_support.dds",
   itemId: 204496,
   uespId: 12,
-  skillLineId: "alliance-war-support",
+  skillLineId: "temper-skill-line/alliance-war-support",
   focusScripts: [
     "temper-focus-script/flame-damage",
     "temper-focus-script/immobilize",

@@ -16,7 +16,7 @@ export const splinteredSecrets = {
   lineRankNeeded: 39,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "arcanist-herald-of-the-tome",
+  skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

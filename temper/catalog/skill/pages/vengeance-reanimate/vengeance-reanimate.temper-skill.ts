@@ -16,6 +16,6 @@ export const vengeanceReanimate = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-necromancer-living-death",
+  skillLineId: "temper-skill-line/vengeance-necromancer-living-death",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const avidBoneyard117850 = {
   lineRankNeeded: 20,
   morphIndex: 2,
   rank: 20,
-  skillLineId: "necromancer-grave-lord",
+  skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

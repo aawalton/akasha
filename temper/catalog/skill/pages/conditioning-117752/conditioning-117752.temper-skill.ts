@@ -15,6 +15,6 @@ export const conditioning117752 = {
   lineRankNeeded: 10,
   morphIndex: 0,
   rank: 10,
-  skillLineId: "racial-redguard-skills",
+  skillLineId: "temper-skill-line/racial-redguard-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

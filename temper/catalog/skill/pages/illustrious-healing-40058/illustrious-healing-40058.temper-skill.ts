@@ -16,6 +16,6 @@ export const illustriousHealing40058 = {
   lineRankNeeded: 2,
   morphIndex: 1,
   rank: 2,
-  skillLineId: "weapon-restoration-staff",
+  skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

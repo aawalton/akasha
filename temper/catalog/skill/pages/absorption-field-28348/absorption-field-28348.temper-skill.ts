@@ -16,6 +16,6 @@ export const absorptionField28348 = {
   lineRankNeeded: 12,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "sorcerer-dark-magic",
+  skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

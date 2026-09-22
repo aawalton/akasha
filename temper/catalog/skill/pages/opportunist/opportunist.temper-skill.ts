@@ -16,7 +16,7 @@ export const opportunist = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "racial-breton-skills",
+  skillLineId: "temper-skill-line/racial-breton-skills",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
 } as const satisfies TemperSkill

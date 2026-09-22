@@ -16,6 +16,6 @@ export const breathOfLife22256 = {
   lineRankNeeded: 1,
   morphIndex: 2,
   rank: 1,
-  skillLineId: "templar-restoring-light",
+  skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

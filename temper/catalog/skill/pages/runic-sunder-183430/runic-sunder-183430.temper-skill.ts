@@ -16,6 +16,6 @@ export const runicSunder183430 = {
   lineRankNeeded: 1,
   morphIndex: 1,
   rank: 1,
-  skillLineId: "arcanist-soldier-of-apocrypha",
+  skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

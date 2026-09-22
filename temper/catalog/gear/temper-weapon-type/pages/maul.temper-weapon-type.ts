@@ -11,5 +11,5 @@ export const maul = {
   isTwoHanded: true,
   weaponPower: 1571,
   validSlots: ["temper-weapon-slot/main-hand"],
-  skillLineId: "weapon-two-handed",
+  skillLineId: "temper-skill-line/weapon-two-handed",
 } as const satisfies TemperWeaponType

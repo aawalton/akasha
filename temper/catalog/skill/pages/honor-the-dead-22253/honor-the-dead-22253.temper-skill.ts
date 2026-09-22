@@ -16,6 +16,6 @@ export const honorTheDead22253 = {
   lineRankNeeded: 1,
   morphIndex: 1,
   rank: 1,
-  skillLineId: "templar-restoring-light",
+  skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

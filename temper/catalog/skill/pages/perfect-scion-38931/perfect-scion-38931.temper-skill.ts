@@ -16,6 +16,6 @@ export const perfectScion38931 = {
   lineRankNeeded: 5,
   morphIndex: 2,
   rank: 5,
-  skillLineId: "world-vampire",
+  skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

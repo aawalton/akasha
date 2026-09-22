@@ -16,7 +16,7 @@ export const mysticSiphon = {
   lineRankNeeded: 42,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "necromancer-grave-lord",
+  skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
 } as const satisfies TemperSkill

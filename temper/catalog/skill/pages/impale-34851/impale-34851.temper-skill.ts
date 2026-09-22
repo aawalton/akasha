@@ -16,6 +16,6 @@ export const impale34851 = {
   lineRankNeeded: 20,
   morphIndex: 2,
   rank: 20,
-  skillLineId: "nightblade-assassination",
+  skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

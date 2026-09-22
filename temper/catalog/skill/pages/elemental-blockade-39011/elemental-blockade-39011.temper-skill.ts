@@ -16,6 +16,6 @@ export const elementalBlockade39011 = {
   lineRankNeeded: 4,
   morphIndex: 2,
   rank: 4,
-  skillLineId: "weapon-destruction-staff",
+  skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

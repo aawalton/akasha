@@ -16,7 +16,7 @@ export const scribedTorchbearerPhysicalDamage = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "guild-fighters-guild",
+  skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/physical-damage",
   grimoireId: "temper-grimoire/torchbearer",

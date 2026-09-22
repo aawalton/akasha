@@ -16,7 +16,7 @@ export const expungeAndModify = {
   lineRankNeeded: 4,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "necromancer-living-death",
+  skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
 } as const satisfies TemperSkill

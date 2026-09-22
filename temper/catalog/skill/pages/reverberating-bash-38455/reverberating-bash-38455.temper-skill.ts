@@ -16,6 +16,6 @@ export const reverberatingBash38455 = {
   lineRankNeeded: 38,
   morphIndex: 1,
   rank: 38,
-  skillLineId: "weapon-one-hand-and-shield",
+  skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

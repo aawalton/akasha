@@ -15,6 +15,6 @@ export const clairvoyance103809 = {
   lineRankNeeded: 3,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "guild-psijic-order",
+  skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

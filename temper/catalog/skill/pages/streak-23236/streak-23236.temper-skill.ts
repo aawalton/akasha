@@ -16,6 +16,6 @@ export const streak23236 = {
   lineRankNeeded: 42,
   morphIndex: 1,
   rank: 42,
-  skillLineId: "sorcerer-storm-calling",
+  skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

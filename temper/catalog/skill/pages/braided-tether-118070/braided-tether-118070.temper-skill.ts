@@ -16,6 +16,6 @@ export const braidedTether118070 = {
   lineRankNeeded: 42,
   morphIndex: 1,
   rank: 42,
-  skillLineId: "necromancer-living-death",
+  skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

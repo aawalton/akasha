@@ -16,6 +16,6 @@ export const pierceArmor38250 = {
   lineRankNeeded: 2,
   morphIndex: 2,
   rank: 2,
-  skillLineId: "weapon-one-hand-and-shield",
+  skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

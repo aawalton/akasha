@@ -16,6 +16,6 @@ export const secludedGrove = {
   lineRankNeeded: 12,
   morphIndex: 0,
   rank: 12,
-  skillLineId: "warden-green-balance",
+  skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

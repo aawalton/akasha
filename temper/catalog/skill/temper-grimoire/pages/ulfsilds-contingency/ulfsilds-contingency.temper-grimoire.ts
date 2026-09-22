@@ -10,7 +10,7 @@ export const ulfsildsContingency = {
   abilityIcon: "/esoui/art/icons/ability_grimoire_magesguild.dds",
   itemId: 204493,
   uespId: 9,
-  skillLineId: "guild-mages-guild",
+  skillLineId: "temper-skill-line/guild-mages-guild",
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/damage-shield",

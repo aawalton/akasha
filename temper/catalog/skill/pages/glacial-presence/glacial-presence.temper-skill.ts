@@ -16,7 +16,7 @@ export const glacialPresence = {
   lineRankNeeded: 18,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "warden-winters-embrace",
+  skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

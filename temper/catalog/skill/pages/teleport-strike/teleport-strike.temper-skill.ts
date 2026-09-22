@@ -16,6 +16,6 @@ export const teleportStrike = {
   lineRankNeeded: 4,
   morphIndex: 0,
   rank: 4,
-  skillLineId: "nightblade-assassination",
+  skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

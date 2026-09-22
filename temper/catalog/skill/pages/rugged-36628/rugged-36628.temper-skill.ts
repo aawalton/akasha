@@ -15,6 +15,6 @@ export const rugged36628 = {
   lineRankNeeded: 25,
   morphIndex: 0,
   rank: 25,
-  skillLineId: "racial-nord-skills",
+  skillLineId: "temper-skill-line/racial-nord-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

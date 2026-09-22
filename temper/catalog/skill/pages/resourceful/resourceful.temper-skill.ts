@@ -16,7 +16,7 @@ export const resourceful = {
   lineRankNeeded: 50,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "racial-argonian-skills",
+  skillLineId: "temper-skill-line/racial-argonian-skills",
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",

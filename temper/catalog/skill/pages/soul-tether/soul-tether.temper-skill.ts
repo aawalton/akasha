@@ -16,6 +16,6 @@ export const soulTether = {
   lineRankNeeded: 12,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "nightblade-siphoning",
+  skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

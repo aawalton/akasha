@@ -16,6 +16,6 @@ export const hypnosis137861 = {
   lineRankNeeded: 6,
   morphIndex: 1,
   rank: 6,
-  skillLineId: "world-vampire",
+  skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

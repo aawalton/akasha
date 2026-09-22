@@ -15,6 +15,6 @@ export const lightFingers63805 = {
   lineRankNeeded: 2,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "world-legerdemain",
+  skillLineId: "temper-skill-line/world-legerdemain",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

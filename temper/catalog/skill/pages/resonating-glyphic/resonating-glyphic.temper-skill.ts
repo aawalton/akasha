@@ -16,6 +16,6 @@ export const resonatingGlyphic = {
   lineRankNeeded: 12,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "arcanist-curative-runeforms",
+  skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

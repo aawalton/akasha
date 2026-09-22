@@ -16,6 +16,6 @@ export const soulStrike = {
   lineRankNeeded: 6,
   morphIndex: 0,
   rank: 6,
-  skillLineId: "world-soul-magic",
+  skillLineId: "temper-skill-line/world-soul-magic",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

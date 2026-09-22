@@ -15,7 +15,7 @@ export const resistFrost = {
   lineRankNeeded: 30,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "racial-nord-skills",
+  skillLineId: "temper-skill-line/racial-nord-skills",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

@@ -16,6 +16,6 @@ export const soulSiphoner36603 = {
   lineRankNeeded: 22,
   morphIndex: 0,
   rank: 22,
-  skillLineId: "nightblade-siphoning",
+  skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

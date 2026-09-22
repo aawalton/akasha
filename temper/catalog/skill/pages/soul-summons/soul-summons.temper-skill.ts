@@ -15,7 +15,7 @@ export const soulSummons = {
   lineRankNeeded: 2,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "world-soul-magic",
+  skillLineId: "temper-skill-line/world-soul-magic",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

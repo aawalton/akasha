@@ -16,6 +16,6 @@ export const eyeOfTheStorm83642 = {
   lineRankNeeded: 50,
   morphIndex: 2,
   rank: 50,
-  skillLineId: "weapon-destruction-staff",
+  skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

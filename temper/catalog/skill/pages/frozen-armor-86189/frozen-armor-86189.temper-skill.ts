@@ -16,6 +16,6 @@ export const frozenArmor86189 = {
   lineRankNeeded: 14,
   morphIndex: 0,
   rank: 14,
-  skillLineId: "warden-winters-embrace",
+  skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

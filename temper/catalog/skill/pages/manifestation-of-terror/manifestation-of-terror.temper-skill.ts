@@ -16,6 +16,6 @@ export const manifestationOfTerror = {
   lineRankNeeded: 30,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "nightblade-shadow",
+  skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

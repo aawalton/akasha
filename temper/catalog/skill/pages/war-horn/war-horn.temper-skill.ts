@@ -16,6 +16,6 @@ export const warHorn = {
   lineRankNeeded: 4,
   morphIndex: 0,
   rank: 4,
-  skillLineId: "alliance-war-assault",
+  skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

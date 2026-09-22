@@ -16,6 +16,6 @@ export const twinSlashes = {
   lineRankNeeded: 4,
   morphIndex: 0,
   rank: 4,
-  skillLineId: "weapon-dual-wield",
+  skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

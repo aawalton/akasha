@@ -16,6 +16,6 @@ export const necroticOrb = {
   lineRankNeeded: 5,
   morphIndex: 0,
   rank: 5,
-  skillLineId: "guild-undaunted",
+  skillLineId: "temper-skill-line/guild-undaunted",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

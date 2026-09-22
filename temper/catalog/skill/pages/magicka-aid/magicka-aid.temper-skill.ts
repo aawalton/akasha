@@ -16,7 +16,7 @@ export const magickaAid = {
   lineRankNeeded: 9,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "alliance-war-support",
+  skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

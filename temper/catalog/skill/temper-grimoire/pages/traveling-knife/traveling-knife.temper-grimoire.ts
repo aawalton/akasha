@@ -10,7 +10,7 @@ export const travelingKnife = {
   abilityIcon: "/esoui/art/icons/ability_grimoire_dualwield.dds",
   itemId: 204490,
   uespId: 7,
-  skillLineId: "weapon-dual-wield",
+  skillLineId: "temper-skill-line/weapon-dual-wield",
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/frost-damage",

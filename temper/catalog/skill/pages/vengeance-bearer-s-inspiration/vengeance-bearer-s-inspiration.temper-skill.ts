@@ -16,6 +16,6 @@ export const vengeanceBearerSInspiration = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-arcanist-herald-of-the-tome",
+  skillLineId: "temper-skill-line/vengeance-arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

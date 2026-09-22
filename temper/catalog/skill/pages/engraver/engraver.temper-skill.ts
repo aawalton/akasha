@@ -15,6 +15,6 @@ export const engraver = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 5,
-  skillLineId: "craft-jewelry-crafting",
+  skillLineId: "temper-skill-line/craft-jewelry-crafting",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

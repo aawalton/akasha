@@ -16,6 +16,6 @@ export const simmeringFrenzy134160 = {
   lineRankNeeded: 2,
   morphIndex: 1,
   rank: 2,
-  skillLineId: "world-vampire",
+  skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

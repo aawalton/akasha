@@ -16,6 +16,6 @@ export const deadenPain118623 = {
   lineRankNeeded: 20,
   morphIndex: 1,
   rank: 20,
-  skillLineId: "necromancer-bone-tyrant",
+  skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

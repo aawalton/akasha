@@ -16,6 +16,6 @@ export const dizzyingSwing38814 = {
   lineRankNeeded: 2,
   morphIndex: 1,
   rank: 2,
-  skillLineId: "weapon-two-handed",
+  skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

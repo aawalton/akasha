@@ -16,7 +16,7 @@ export const slayer = {
   lineRankNeeded: 7,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "guild-fighters-guild",
+  skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

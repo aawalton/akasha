@@ -16,6 +16,6 @@ export const hauntingCurse = {
   lineRankNeeded: 4,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "sorcerer-daedric-summoning",
+  skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -15,6 +15,6 @@ export const imperialMettle36153 = {
   lineRankNeeded: 10,
   morphIndex: 0,
   rank: 10,
-  skillLineId: "racial-imperial-skills",
+  skillLineId: "temper-skill-line/racial-imperial-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

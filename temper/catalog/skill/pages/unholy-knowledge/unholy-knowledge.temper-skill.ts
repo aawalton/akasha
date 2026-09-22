@@ -16,7 +16,7 @@ export const unholyKnowledge = {
   lineRankNeeded: 18,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "sorcerer-dark-magic",
+  skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

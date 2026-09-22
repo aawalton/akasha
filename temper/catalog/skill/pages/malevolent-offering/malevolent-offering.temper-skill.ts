@@ -16,6 +16,6 @@ export const malevolentOffering = {
   lineRankNeeded: 4,
   morphIndex: 0,
   rank: 4,
-  skillLineId: "nightblade-siphoning",
+  skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

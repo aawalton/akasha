@@ -15,6 +15,6 @@ export const connoisseur = {
   lineRankNeeded: 5,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "craft-provisioning",
+  skillLineId: "temper-skill-line/craft-provisioning",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

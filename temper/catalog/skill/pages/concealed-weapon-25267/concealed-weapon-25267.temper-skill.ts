@@ -16,6 +16,6 @@ export const concealedWeapon25267 = {
   lineRankNeeded: 1,
   morphIndex: 2,
   rank: 1,
-  skillLineId: "nightblade-assassination",
+  skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

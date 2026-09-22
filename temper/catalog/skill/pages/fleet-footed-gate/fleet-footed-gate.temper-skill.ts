@@ -16,6 +16,6 @@ export const fleetFootedGate = {
   lineRankNeeded: 42,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "arcanist-curative-runeforms",
+  skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

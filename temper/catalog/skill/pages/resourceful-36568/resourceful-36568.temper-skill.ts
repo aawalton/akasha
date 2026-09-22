@@ -16,6 +16,6 @@ export const resourceful36568 = {
   lineRankNeeded: 25,
   morphIndex: 0,
   rank: 25,
-  skillLineId: "racial-argonian-skills",
+  skillLineId: "temper-skill-line/racial-argonian-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const vampiricDrain = {
   lineRankNeeded: 4,
   morphIndex: 0,
   rank: 4,
-  skillLineId: "world-vampire",
+  skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

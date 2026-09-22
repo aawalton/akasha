@@ -16,6 +16,6 @@ export const sunShield = {
   lineRankNeeded: 42,
   morphIndex: 0,
   rank: 42,
-  skillLineId: "templar-aedric-spear",
+  skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

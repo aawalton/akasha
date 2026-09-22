@@ -16,6 +16,6 @@ export const emeraldMoss85876 = {
   lineRankNeeded: 22,
   morphIndex: 0,
   rank: 22,
-  skillLineId: "warden-green-balance",
+  skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

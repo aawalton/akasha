@@ -16,6 +16,6 @@ export const shroudedDaggers38914 = {
   lineRankNeeded: 38,
   morphIndex: 1,
   rank: 38,
-  skillLineId: "weapon-dual-wield",
+  skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

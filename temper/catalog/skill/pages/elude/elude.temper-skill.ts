@@ -16,6 +16,6 @@ export const elude = {
   lineRankNeeded: 22,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "armor-medium-armor",
+  skillLineId: "temper-skill-line/armor-medium-armor",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

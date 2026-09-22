@@ -16,6 +16,6 @@ export const ferociousRoar39113 = {
   lineRankNeeded: 5,
   morphIndex: 1,
   rank: 5,
-  skillLineId: "world-werewolf",
+  skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

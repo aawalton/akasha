@@ -16,6 +16,6 @@ export const antiCavalryCaltrops40255 = {
   lineRankNeeded: 6,
   morphIndex: 1,
   rank: 6,
-  skillLineId: "alliance-war-assault",
+  skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

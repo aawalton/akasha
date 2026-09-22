@@ -16,6 +16,6 @@ export const skeletalArcher = {
   lineRankNeeded: 30,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "necromancer-grave-lord",
+  skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

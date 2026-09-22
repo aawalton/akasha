@@ -16,6 +16,6 @@ export const vengeanceLightningSplash = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-sorcerer-storm-calling",
+  skillLineId: "temper-skill-line/vengeance-sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const vengeanceSuperheatedWard = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-dragonknight-earthen-heart",
+  skillLineId: "temper-skill-line/vengeance-dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

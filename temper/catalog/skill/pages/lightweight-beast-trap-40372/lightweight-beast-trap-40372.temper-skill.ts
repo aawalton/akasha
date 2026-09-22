@@ -16,6 +16,6 @@ export const lightweightBeastTrap40372 = {
   lineRankNeeded: 8,
   morphIndex: 2,
   rank: 8,
-  skillLineId: "guild-fighters-guild",
+  skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

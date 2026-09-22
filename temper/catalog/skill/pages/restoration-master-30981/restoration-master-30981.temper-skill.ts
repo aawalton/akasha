@@ -15,6 +15,6 @@ export const restorationMaster30981 = {
   lineRankNeeded: 41,
   morphIndex: 0,
   rank: 41,
-  skillLineId: "weapon-restoration-staff",
+  skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

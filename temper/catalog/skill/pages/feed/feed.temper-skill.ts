@@ -16,7 +16,7 @@ export const feed = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "world-vampire",
+  skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

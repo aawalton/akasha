@@ -16,6 +16,6 @@ export const surpriseAttack25260 = {
   lineRankNeeded: 1,
   morphIndex: 1,
   rank: 1,
-  skillLineId: "nightblade-assassination",
+  skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

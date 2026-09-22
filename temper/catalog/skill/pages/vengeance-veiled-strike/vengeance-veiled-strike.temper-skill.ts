@@ -15,6 +15,6 @@ export const vengeanceVeiledStrike = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-nightblade-assassination",
+  skillLineId: "temper-skill-line/vengeance-nightblade-assassination",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

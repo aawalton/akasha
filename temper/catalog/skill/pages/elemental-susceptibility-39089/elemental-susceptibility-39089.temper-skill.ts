@@ -16,6 +16,6 @@ export const elementalSusceptibility39089 = {
   lineRankNeeded: 20,
   morphIndex: 1,
   rank: 20,
-  skillLineId: "weapon-destruction-staff",
+  skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

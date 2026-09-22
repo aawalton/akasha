@@ -16,6 +16,6 @@ export const barbedTrap40382 = {
   lineRankNeeded: 8,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "guild-fighters-guild",
+  skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

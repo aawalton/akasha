@@ -16,6 +16,6 @@ export const runeguardOfStillWaters = {
   lineRankNeeded: 30,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "arcanist-soldier-of-apocrypha",
+  skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

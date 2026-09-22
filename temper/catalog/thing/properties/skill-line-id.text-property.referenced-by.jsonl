@@ -1,10 +1,2 @@
-{"propertySlug":"import","fileName":"skill-line-id.text-property.types.ts","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.types.ts"}
-{"propertySlug":"import","fileName":"skill-line-id.text-property.types.ts","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.types.ts"}
-{"propertySlug":"import","fileName":"skill-line-id.text-property.types.ts","path":"temper/catalog/skill/temper-grimoire/temper-grimoire.page-type.types.ts"}
-{"propertySlug":"import","fileName":"skill-line-id.text-property.types.ts","path":"temper/catalog/skill/temper-skill.page-type.types.ts"}
-{"propertySlug":"page-property","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts","id":"01a05fd1-d430-7564-8721-434ab188698f"}
-{"propertySlug":"page-property","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts","id":"01a05fd1-d442-7b45-8a20-d4ff90ea6255"}
-{"propertySlug":"page-property","path":"temper/catalog/skill/temper-grimoire/temper-grimoire.page-type.ts","id":"01a05fca-cb89-7d99-aa9d-e89e410a0f89"}
-{"propertySlug":"page-property","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
 {"propertySlug":"page-property","path":"temper/catalog/thing/properties/effects.page-property-entry.ts","id":"01a05fb0-3ceb-742c-998f-6122c9954a30"}
 {"propertySlug":"parts","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}

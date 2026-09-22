@@ -10,7 +10,7 @@ export const torchbearer = {
   abilityIcon: "/esoui/art/icons/ability_grimoire_fightersguild.dds",
   itemId: 204494,
   uespId: 10,
-  skillLineId: "guild-fighters-guild",
+  skillLineId: "temper-skill-line/guild-fighters-guild",
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/flame-damage",

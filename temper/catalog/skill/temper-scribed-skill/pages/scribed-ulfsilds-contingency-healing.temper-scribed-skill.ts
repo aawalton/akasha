@@ -16,7 +16,7 @@ export const scribedUlfsildsContingencyHealing = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "guild-mages-guild",
+  skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/healing",
   grimoireId: "temper-grimoire/ulfsilds-contingency",

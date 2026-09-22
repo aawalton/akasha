@@ -16,6 +16,6 @@ export const magesWrath19123 = {
   lineRankNeeded: 1,
   morphIndex: 1,
   rank: 1,
-  skillLineId: "sorcerer-storm-calling",
+  skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

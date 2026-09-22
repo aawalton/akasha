@@ -15,6 +15,6 @@ export const magickaMastery36303 = {
   lineRankNeeded: 25,
   morphIndex: 0,
   rank: 25,
-  skillLineId: "racial-breton-skills",
+  skillLineId: "temper-skill-line/racial-breton-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

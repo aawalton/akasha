@@ -16,6 +16,6 @@ export const deadlyCloak38906 = {
   lineRankNeeded: 20,
   morphIndex: 2,
   rank: 20,
-  skillLineId: "weapon-dual-wield",
+  skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

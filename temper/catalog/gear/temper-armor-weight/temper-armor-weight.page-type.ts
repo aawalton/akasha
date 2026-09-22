@@ -11,7 +11,7 @@ export const temperArmorWeight = {
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/armor-base-value", required: true, many: false },
     { pageProperty: "boolean-property/is-standard", required: true, many: false },
-    { pageProperty: "text-property/skill-line-id", required: true, many: false },
+    { pageProperty: "relation-property/skill-line", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",

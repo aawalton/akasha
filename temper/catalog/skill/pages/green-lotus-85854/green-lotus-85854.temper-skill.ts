@@ -16,6 +16,6 @@ export const greenLotus85854 = {
   lineRankNeeded: 30,
   morphIndex: 1,
   rank: 30,
-  skillLineId: "warden-green-balance",
+  skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

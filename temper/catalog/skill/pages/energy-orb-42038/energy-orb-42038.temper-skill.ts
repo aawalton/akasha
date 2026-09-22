@@ -16,6 +16,6 @@ export const energyOrb42038 = {
   lineRankNeeded: 5,
   morphIndex: 2,
   rank: 5,
-  skillLineId: "guild-undaunted",
+  skillLineId: "temper-skill-line/guild-undaunted",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

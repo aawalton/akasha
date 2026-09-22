@@ -10,7 +10,7 @@ export const trample = {
   abilityIcon: "/esoui/art/icons/ability_grimoire_assault.dds",
   itemId: 204495,
   uespId: 11,
-  skillLineId: "alliance-war-assault",
+  skillLineId: "temper-skill-line/alliance-war-assault",
   focusScripts: [
     "temper-focus-script/dispel",
     "temper-focus-script/disease-damage",

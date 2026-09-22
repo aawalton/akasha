@@ -16,6 +16,6 @@ export const aSoulAblaze = {
   lineRankNeeded: 39,
   morphIndex: 0,
   rank: 39,
-  skillLineId: "dragonknight-ardent-flame",
+  skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

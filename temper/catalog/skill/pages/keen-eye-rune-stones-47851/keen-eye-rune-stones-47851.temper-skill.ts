@@ -16,6 +16,6 @@ export const keenEyeRuneStones47851 = {
   lineRankNeeded: 2,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "craft-enchanting",
+  skillLineId: "temper-skill-line/craft-enchanting",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

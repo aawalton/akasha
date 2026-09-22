@@ -15,6 +15,6 @@ export const combatFrenzy39252 = {
   lineRankNeeded: 8,
   morphIndex: 0,
   rank: 8,
-  skillLineId: "alliance-war-assault",
+  skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

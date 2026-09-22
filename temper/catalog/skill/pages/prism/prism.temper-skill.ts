@@ -16,7 +16,7 @@ export const prism = {
   lineRankNeeded: 27,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "templar-dawns-wrath",
+  skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
 } as const satisfies TemperSkill

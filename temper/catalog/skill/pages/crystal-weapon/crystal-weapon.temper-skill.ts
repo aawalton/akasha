@@ -16,6 +16,6 @@ export const crystalWeapon = {
   lineRankNeeded: 1,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "sorcerer-dark-magic",
+  skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

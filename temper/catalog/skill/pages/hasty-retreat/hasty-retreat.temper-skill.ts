@@ -16,7 +16,7 @@ export const hastyRetreat = {
   lineRankNeeded: 50,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "weapon-bow",
+  skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

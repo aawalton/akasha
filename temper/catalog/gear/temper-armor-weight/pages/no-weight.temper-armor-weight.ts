@@ -8,5 +8,5 @@ export const noWeight = {
   key: "no-weight",
   baseValue: 0,
   isStandard: true,
-  skillLineId: "no-skill-line",
+  skillLineId: "temper-skill-line/no-skill-line",
 } as const satisfies TemperArmorWeight

@@ -16,6 +16,6 @@ export const vengeanceMagickaDetonation = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-alliance-war-assault",
+  skillLineId: "temper-skill-line/vengeance-alliance-war-assault",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -16,7 +16,7 @@ export const padomaicSprint = {
   lineRankNeeded: 12,
   morphIndex: 0,
   rank: 4,
-  skillLineId: "guild-dark-brotherhood",
+  skillLineId: "temper-skill-line/guild-dark-brotherhood",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

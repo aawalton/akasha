@@ -16,6 +16,6 @@ export const shatteringRocks32678 = {
   lineRankNeeded: 30,
   morphIndex: 2,
   rank: 30,
-  skillLineId: "dragonknight-earthen-heart",
+  skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

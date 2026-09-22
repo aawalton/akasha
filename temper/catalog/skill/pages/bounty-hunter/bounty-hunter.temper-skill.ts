@@ -15,7 +15,7 @@ export const bountyHunter = {
   lineRankNeeded: 9,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "guild-fighters-guild",
+  skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

@@ -15,7 +15,7 @@ export const scribedBannerBearerRestoreResources = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "alliance-war-support",
+  skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/restore-resources",
   grimoireId: "temper-grimoire/banner-bearer",

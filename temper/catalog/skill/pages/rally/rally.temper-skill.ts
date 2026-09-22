@@ -16,6 +16,6 @@ export const rally = {
   lineRankNeeded: 38,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "weapon-two-handed",
+  skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

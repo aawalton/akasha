@@ -16,6 +16,6 @@ export const takeFlight32719 = {
   lineRankNeeded: 12,
   morphIndex: 1,
   rank: 12,
-  skillLineId: "dragonknight-draconic-power",
+  skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

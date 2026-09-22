@@ -16,6 +16,6 @@ export const darkConversion24589 = {
   lineRankNeeded: 30,
   morphIndex: 2,
   rank: 30,
-  skillLineId: "sorcerer-dark-magic",
+  skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

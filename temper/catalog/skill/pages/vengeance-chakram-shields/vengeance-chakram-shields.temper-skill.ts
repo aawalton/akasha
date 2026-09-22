@@ -16,6 +16,6 @@ export const vengeanceChakramShields = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-arcanist-curative-runeforms",
+  skillLineId: "temper-skill-line/vengeance-arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -15,6 +15,6 @@ export const resistFlame36593 = {
   lineRankNeeded: 10,
   morphIndex: 0,
   rank: 10,
-  skillLineId: "racial-dark-elf-skills",
+  skillLineId: "temper-skill-line/racial-dark-elf-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

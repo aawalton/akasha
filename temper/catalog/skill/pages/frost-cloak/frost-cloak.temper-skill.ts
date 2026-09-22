@@ -16,6 +16,6 @@ export const frostCloak = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "warden-winters-embrace",
+  skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -15,6 +15,6 @@ export const stitching48190 = {
   lineRankNeeded: 8,
   morphIndex: 0,
   rank: 8,
-  skillLineId: "craft-clothing",
+  skillLineId: "temper-skill-line/craft-clothing",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

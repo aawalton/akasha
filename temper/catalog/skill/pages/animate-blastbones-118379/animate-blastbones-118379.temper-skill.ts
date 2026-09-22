@@ -16,6 +16,6 @@ export const animateBlastbones118379 = {
   lineRankNeeded: 12,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "necromancer-living-death",
+  skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

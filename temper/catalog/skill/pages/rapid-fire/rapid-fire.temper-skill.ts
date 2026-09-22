@@ -16,6 +16,6 @@ export const rapidFire = {
   lineRankNeeded: 50,
   morphIndex: 0,
   rank: 50,
-  skillLineId: "weapon-bow",
+  skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

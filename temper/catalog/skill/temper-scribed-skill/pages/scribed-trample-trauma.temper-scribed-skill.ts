@@ -15,7 +15,7 @@ export const scribedTrampleTrauma = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "alliance-war-assault",
+  skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/trauma",
   grimoireId: "temper-grimoire/trample",

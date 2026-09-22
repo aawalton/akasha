@@ -16,7 +16,7 @@ export const destructionExpert = {
   lineRankNeeded: 50,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "weapon-destruction-staff",
+  skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

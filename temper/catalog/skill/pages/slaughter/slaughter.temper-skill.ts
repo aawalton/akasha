@@ -16,7 +16,7 @@ export const slaughter = {
   lineRankNeeded: 30,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "weapon-dual-wield",
+  skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

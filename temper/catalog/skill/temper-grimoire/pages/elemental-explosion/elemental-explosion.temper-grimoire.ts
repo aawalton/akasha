@@ -10,7 +10,7 @@ export const elementalExplosion = {
   abilityIcon: "/esoui/art/icons/ability_grimoire_staffdestro.dds",
   itemId: 204488,
   uespId: 5,
-  skillLineId: "weapon-destruction-staff",
+  skillLineId: "temper-skill-line/weapon-destruction-staff",
   focusScripts: [
     "temper-focus-script/dispel",
     "temper-focus-script/flame-damage",

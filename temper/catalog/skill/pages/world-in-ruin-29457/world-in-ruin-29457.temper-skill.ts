@@ -16,6 +16,6 @@ export const worldInRuin29457 = {
   lineRankNeeded: 14,
   morphIndex: 0,
   rank: 14,
-  skillLineId: "dragonknight-draconic-power",
+  skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

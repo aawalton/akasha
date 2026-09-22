@@ -15,6 +15,6 @@ export const rapidRot116199 = {
   lineRankNeeded: 39,
   morphIndex: 0,
   rank: 39,
-  skillLineId: "necromancer-grave-lord",
+  skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

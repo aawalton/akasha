@@ -16,7 +16,7 @@ export const followUp = {
   lineRankNeeded: 30,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "weapon-two-handed",
+  skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

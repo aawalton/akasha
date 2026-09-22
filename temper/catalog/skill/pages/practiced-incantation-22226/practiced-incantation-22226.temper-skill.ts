@@ -16,6 +16,6 @@ export const practicedIncantation22226 = {
   lineRankNeeded: 12,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "templar-restoring-light",
+  skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

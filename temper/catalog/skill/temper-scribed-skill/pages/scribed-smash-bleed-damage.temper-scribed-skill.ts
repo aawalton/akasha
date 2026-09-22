@@ -16,7 +16,7 @@ export const scribedSmashBleedDamage = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "weapon-two-handed",
+  skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/bleed-damage",
   grimoireId: "temper-grimoire/smash",

@@ -15,7 +15,7 @@ export const flourish = {
   lineRankNeeded: 36,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "warden-animal-companions",
+  skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

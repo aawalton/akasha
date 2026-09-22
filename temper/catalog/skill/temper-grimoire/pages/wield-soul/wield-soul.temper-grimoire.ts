@@ -10,7 +10,7 @@ export const wieldSoul = {
   abilityIcon: "/esoui/art/icons/ability_grimoire_soulmagic1.dds",
   itemId: 204491,
   uespId: 2,
-  skillLineId: "world-soul-magic",
+  skillLineId: "temper-skill-line/world-soul-magic",
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/damage-shield",

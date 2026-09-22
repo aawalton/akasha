@@ -15,6 +15,6 @@ export const runestoneExtraction = {
   lineRankNeeded: 4,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "craft-enchanting",
+  skillLineId: "temper-skill-line/craft-enchanting",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

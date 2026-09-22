@@ -16,6 +16,6 @@ export const skeletalArcanist118726 = {
   lineRankNeeded: 30,
   morphIndex: 2,
   rank: 30,
-  skillLineId: "necromancer-grave-lord",
+  skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

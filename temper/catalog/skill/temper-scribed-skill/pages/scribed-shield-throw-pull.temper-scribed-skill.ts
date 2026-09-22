@@ -16,7 +16,7 @@ export const scribedShieldThrowPull = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "weapon-one-hand-and-shield",
+  skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/pull",
   grimoireId: "temper-grimoire/shield-throw",

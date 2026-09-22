@@ -16,6 +16,6 @@ export const vengeanceDeathStroke = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-nightblade-assassination",
+  skillLineId: "temper-skill-line/vengeance-nightblade-assassination",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

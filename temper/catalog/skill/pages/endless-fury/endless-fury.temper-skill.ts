@@ -16,6 +16,6 @@ export const endlessFury = {
   lineRankNeeded: 1,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "sorcerer-storm-calling",
+  skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const vengeanceBolsteringDarkness = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-nightblade-shadow",
+  skillLineId: "temper-skill-line/vengeance-nightblade-shadow",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

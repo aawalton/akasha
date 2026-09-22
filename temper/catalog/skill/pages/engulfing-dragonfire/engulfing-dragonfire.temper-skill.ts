@@ -16,6 +16,6 @@ export const engulfingDragonfire = {
   lineRankNeeded: 1,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "dragonknight-draconic-power",
+  skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

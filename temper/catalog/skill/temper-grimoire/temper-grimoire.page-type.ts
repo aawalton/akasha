@@ -17,7 +17,6 @@ export const temperGrimoire = {
   properties: [
     { pageProperty: "text-property/icon", required: true, many: false },
     { pageProperty: "text-property/ability-icon", required: true, many: false },
-    { pageProperty: "text-property/skill-line-id", required: true, many: false },
     {
       pageProperty: "multi-relation-property/focus-scripts",
       required: true,
@@ -26,6 +25,7 @@ export const temperGrimoire = {
     },
     { pageProperty: "page-property-entry/affix-scripts", required: true, many: false },
     { pageProperty: "page-property-entry/signature-scripts", required: true, many: false },
+    { pageProperty: "relation-property/skill-line", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",

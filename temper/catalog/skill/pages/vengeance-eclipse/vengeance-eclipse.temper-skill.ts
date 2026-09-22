@@ -16,6 +16,6 @@ export const vengeanceEclipse = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-templar-dawns-wrath",
+  skillLineId: "temper-skill-line/vengeance-templar-dawns-wrath",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

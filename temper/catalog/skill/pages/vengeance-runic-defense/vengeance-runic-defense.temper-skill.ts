@@ -16,6 +16,6 @@ export const vengeanceRunicDefense = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-arcanist-soldier-of-apocrypha",
+  skillLineId: "temper-skill-line/vengeance-arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

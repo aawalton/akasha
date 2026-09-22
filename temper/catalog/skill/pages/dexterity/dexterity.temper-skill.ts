@@ -16,7 +16,7 @@ export const dexterity = {
   lineRankNeeded: 2,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "armor-medium-armor",
+  skillLineId: "temper-skill-line/armor-medium-armor",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

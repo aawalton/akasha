@@ -15,7 +15,7 @@ export const shadowRider = {
   lineRankNeeded: 7,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "guild-dark-brotherhood",
+  skillLineId: "temper-skill-line/guild-dark-brotherhood",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

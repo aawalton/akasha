@@ -11,5 +11,5 @@ export const iceStaff = {
   isTwoHanded: true,
   weaponPower: 1335,
   validSlots: ["temper-weapon-slot/main-hand"],
-  skillLineId: "weapon-destruction-staff",
+  skillLineId: "temper-skill-line/weapon-destruction-staff",
 } as const satisfies TemperWeaponType

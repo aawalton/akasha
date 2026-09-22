@@ -16,6 +16,6 @@ export const feralGuardian = {
   lineRankNeeded: 12,
   morphIndex: 0,
   rank: 12,
-  skillLineId: "warden-animal-companions",
+  skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

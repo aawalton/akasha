@@ -15,6 +15,6 @@ export const dynamic36591 = {
   lineRankNeeded: 5,
   morphIndex: 0,
   rank: 5,
-  skillLineId: "racial-dark-elf-skills",
+  skillLineId: "temper-skill-line/racial-dark-elf-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

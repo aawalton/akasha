@@ -16,6 +16,6 @@ export const bondWithNature86064 = {
   lineRankNeeded: 8,
   morphIndex: 0,
   rank: 8,
-  skillLineId: "warden-animal-companions",
+  skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

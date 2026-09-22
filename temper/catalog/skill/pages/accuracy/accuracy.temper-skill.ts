@@ -15,7 +15,7 @@ export const accuracy = {
   lineRankNeeded: 25,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "weapon-bow",
+  skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

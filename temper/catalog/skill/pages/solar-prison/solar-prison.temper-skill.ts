@@ -16,6 +16,6 @@ export const solarPrison = {
   lineRankNeeded: 12,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "templar-dawns-wrath",
+  skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

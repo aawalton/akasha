@@ -16,6 +16,6 @@ export const metallurgy = {
   lineRankNeeded: 45,
   morphIndex: 0,
   rank: 4,
-  skillLineId: "craft-blacksmithing",
+  skillLineId: "temper-skill-line/craft-blacksmithing",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

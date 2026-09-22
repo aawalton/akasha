@@ -15,6 +15,6 @@ export const keenEyeDigSites = {
   lineRankNeeded: 4,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "world-excavation",
+  skillLineId: "temper-skill-line/world-excavation",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

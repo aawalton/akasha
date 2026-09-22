@@ -16,6 +16,6 @@ export const lifeGiver83850 = {
   lineRankNeeded: 50,
   morphIndex: 1,
   rank: 50,
-  skillLineId: "weapon-restoration-staff",
+  skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

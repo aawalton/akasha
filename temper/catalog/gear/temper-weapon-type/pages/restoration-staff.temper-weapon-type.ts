@@ -11,5 +11,5 @@ export const restorationStaff = {
   isTwoHanded: true,
   weaponPower: 1335,
   validSlots: ["temper-weapon-slot/main-hand"],
-  skillLineId: "weapon-restoration-staff",
+  skillLineId: "temper-skill-line/weapon-restoration-staff",
 } as const satisfies TemperWeaponType

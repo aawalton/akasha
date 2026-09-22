@@ -15,6 +15,6 @@ export const magickaFlood36595 = {
   lineRankNeeded: 14,
   morphIndex: 0,
   rank: 14,
-  skillLineId: "nightblade-siphoning",
+  skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

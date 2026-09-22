@@ -15,7 +15,7 @@ export const banishTheWicked = {
   lineRankNeeded: 10,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "guild-fighters-guild",
+  skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

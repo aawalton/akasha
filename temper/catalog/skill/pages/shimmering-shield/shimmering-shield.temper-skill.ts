@@ -16,6 +16,6 @@ export const shimmeringShield = {
   lineRankNeeded: 30,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "warden-winters-embrace",
+  skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

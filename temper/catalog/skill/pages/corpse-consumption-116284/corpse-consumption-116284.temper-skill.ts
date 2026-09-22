@@ -16,6 +16,6 @@ export const corpseConsumption116284 = {
   lineRankNeeded: 22,
   morphIndex: 0,
   rank: 22,
-  skillLineId: "necromancer-living-death",
+  skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

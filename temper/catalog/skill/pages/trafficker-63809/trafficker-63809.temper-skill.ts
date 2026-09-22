@@ -16,6 +16,6 @@ export const trafficker63809 = {
   lineRankNeeded: 3,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "world-legerdemain",
+  skillLineId: "temper-skill-line/world-legerdemain",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

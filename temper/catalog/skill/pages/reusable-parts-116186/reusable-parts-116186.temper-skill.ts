@@ -16,6 +16,6 @@ export const reusableParts116186 = {
   lineRankNeeded: 8,
   morphIndex: 0,
   rank: 8,
-  skillLineId: "necromancer-grave-lord",
+  skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

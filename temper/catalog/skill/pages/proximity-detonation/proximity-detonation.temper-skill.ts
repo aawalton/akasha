@@ -16,6 +16,6 @@ export const proximityDetonation = {
   lineRankNeeded: 7,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "alliance-war-assault",
+  skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -16,7 +16,7 @@ export const spellAttunement = {
   lineRankNeeded: 40,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "racial-breton-skills",
+  skillLineId: "temper-skill-line/racial-breton-skills",
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",

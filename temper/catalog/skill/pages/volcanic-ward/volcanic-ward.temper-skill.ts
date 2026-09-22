@@ -16,6 +16,6 @@ export const volcanicWard = {
   lineRankNeeded: 1,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "dragonknight-earthen-heart",
+  skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

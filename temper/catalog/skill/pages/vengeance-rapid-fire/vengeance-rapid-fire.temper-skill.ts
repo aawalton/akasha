@@ -16,6 +16,6 @@ export const vengeanceRapidFire = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-weapon-bow",
+  skillLineId: "temper-skill-line/vengeance-weapon-bow",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

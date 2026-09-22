@@ -16,7 +16,7 @@ export const undauntedCommand = {
   lineRankNeeded: 6,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "guild-undaunted",
+  skillLineId: "temper-skill-line/guild-undaunted",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

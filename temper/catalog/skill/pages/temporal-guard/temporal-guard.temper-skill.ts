@@ -16,7 +16,7 @@ export const temporalGuard = {
   lineRankNeeded: 10,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "guild-psijic-order",
+  skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/ultimate",
   effects: "jsonl",
 } as const satisfies TemperSkill

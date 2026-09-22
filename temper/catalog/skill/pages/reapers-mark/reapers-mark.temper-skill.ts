@@ -16,6 +16,6 @@ export const reapersMark = {
   lineRankNeeded: 30,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "nightblade-assassination",
+  skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

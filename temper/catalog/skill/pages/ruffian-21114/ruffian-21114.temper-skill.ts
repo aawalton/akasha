@@ -16,6 +16,6 @@ export const ruffian21114 = {
   lineRankNeeded: 28,
   morphIndex: 0,
   rank: 28,
-  skillLineId: "weapon-dual-wield",
+  skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

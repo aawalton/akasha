@@ -16,6 +16,6 @@ export const deathKnell116197 = {
   lineRankNeeded: 14,
   morphIndex: 0,
   rank: 14,
-  skillLineId: "necromancer-grave-lord",
+  skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

@@ -16,7 +16,7 @@ export const scribedWieldSoulFlameDamage = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "world-soul-magic",
+  skillLineId: "temper-skill-line/world-soul-magic",
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/flame-damage",
   grimoireId: "temper-grimoire/wield-soul",

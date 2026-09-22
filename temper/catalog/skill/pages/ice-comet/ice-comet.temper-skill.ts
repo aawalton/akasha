@@ -16,6 +16,6 @@ export const iceComet = {
   lineRankNeeded: 10,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "guild-mages-guild",
+  skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

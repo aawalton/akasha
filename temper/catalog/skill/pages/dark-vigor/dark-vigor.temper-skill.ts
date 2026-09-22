@@ -16,7 +16,7 @@ export const darkVigor = {
   lineRankNeeded: 36,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "nightblade-shadow",
+  skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

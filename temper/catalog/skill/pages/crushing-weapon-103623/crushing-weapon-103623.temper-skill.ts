@@ -16,6 +16,6 @@ export const crushingWeapon103623 = {
   lineRankNeeded: 3,
   morphIndex: 2,
   rank: 3,
-  skillLineId: "guild-psijic-order",
+  skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

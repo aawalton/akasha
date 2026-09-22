@@ -16,6 +16,6 @@ export const enduringRays31739 = {
   lineRankNeeded: 8,
   morphIndex: 0,
   rank: 8,
-  skillLineId: "templar-dawns-wrath",
+  skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

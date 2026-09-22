@@ -16,6 +16,6 @@ export const magickaController40438 = {
   lineRankNeeded: 7,
   morphIndex: 0,
   rank: 7,
-  skillLineId: "guild-mages-guild",
+  skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

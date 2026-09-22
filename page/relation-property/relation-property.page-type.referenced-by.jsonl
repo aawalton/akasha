@@ -191,6 +191,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-scribed-skill/properties/focus-script-id.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-scribed-skill/properties/grimoire-id.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/thing/properties/quality.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/thing/properties/skill-line.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/thing/properties/skill-type.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/world/temper-dungeon/properties/quest-giver.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/currency-key.relation-property.ts"}

@@ -16,6 +16,6 @@ export const coalescence139305 = {
   lineRankNeeded: 2,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "world-scrying",
+  skillLineId: "temper-skill-line/world-scrying",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

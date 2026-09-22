@@ -16,6 +16,6 @@ export const aggressiveHorn40223 = {
   lineRankNeeded: 4,
   morphIndex: 1,
   rank: 4,
-  skillLineId: "alliance-war-assault",
+  skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

@@ -16,7 +16,7 @@ export const tactician = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "alliance-war-emperor",
+  skillLineId: "temper-skill-line/alliance-war-emperor",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",

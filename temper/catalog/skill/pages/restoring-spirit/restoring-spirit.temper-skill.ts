@@ -16,7 +16,7 @@ export const restoringSpirit = {
   lineRankNeeded: 50,
   morphIndex: 0,
   rank: 2,
-  skillLineId: "templar-dawns-wrath",
+  skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

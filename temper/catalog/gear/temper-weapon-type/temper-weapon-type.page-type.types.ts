@@ -4,7 +4,7 @@ import type { WeaponTypePower } from "akasha/temper/catalog/gear/temper-weapon-t
 import type { ValidSlots } from "akasha/temper/catalog/gear/thing/properties/valid-slots.one-of-property.types.ts"
 import type { TemperGearThing } from "akasha/temper/catalog/gear/thing/temper-gear-thing.page-type.types.ts"
 import type { IsTwoHanded } from "akasha/temper/catalog/thing/properties/is-two-handed.boolean-property.types.ts"
-import type { SkillLineId } from "akasha/temper/catalog/thing/properties/skill-line-id.text-property.types.ts"
+import type { SkillLine } from "akasha/temper/catalog/thing/properties/skill-line.relation-property.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
 
 export type TemperWeaponType = TemperGearThing & {
@@ -14,5 +14,5 @@ export type TemperWeaponType = TemperGearThing & {
   isTwoHanded: IsTwoHanded
   weaponPower: WeaponTypePower
   validSlots: ValidSlots
-  skillLineId?: SkillLineId
+  skillLineId?: SkillLine
 }

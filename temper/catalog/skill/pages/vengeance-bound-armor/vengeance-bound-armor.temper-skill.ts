@@ -16,6 +16,6 @@ export const vengeanceBoundArmor = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-sorcerer-daedric-summoning",
+  skillLineId: "temper-skill-line/vengeance-sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

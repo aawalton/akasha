@@ -16,6 +16,6 @@ export const poisonArrow = {
   lineRankNeeded: 38,
   morphIndex: 0,
   rank: 38,
-  skillLineId: "weapon-bow",
+  skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

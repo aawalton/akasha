@@ -16,6 +16,6 @@ export const vengeanceCircleOfProtection = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "vengeance-guild-fighters-guild",
+  skillLineId: "temper-skill-line/vengeance-guild-fighters-guild",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

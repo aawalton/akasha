@@ -15,6 +15,6 @@ export const lastGasp116271 = {
   lineRankNeeded: 39,
   morphIndex: 0,
   rank: 39,
-  skillLineId: "necromancer-bone-tyrant",
+  skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

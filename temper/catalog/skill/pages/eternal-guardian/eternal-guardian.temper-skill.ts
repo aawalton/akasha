@@ -16,6 +16,6 @@ export const eternalGuardian = {
   lineRankNeeded: 12,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "warden-animal-companions",
+  skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

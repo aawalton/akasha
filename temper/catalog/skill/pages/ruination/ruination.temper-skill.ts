@@ -15,7 +15,7 @@ export const ruination = {
   lineRankNeeded: 50,
   morphIndex: 0,
   rank: 3,
-  skillLineId: "racial-dark-elf-skills",
+  skillLineId: "temper-skill-line/racial-dark-elf-skills",
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",

@@ -16,6 +16,6 @@ export const bloodMist = {
   lineRankNeeded: 9,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "world-vampire",
+  skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

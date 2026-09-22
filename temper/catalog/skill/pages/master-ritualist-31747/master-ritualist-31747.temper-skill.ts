@@ -16,6 +16,6 @@ export const masterRitualist31747 = {
   lineRankNeeded: 39,
   morphIndex: 0,
   rank: 39,
-  skillLineId: "templar-restoring-light",
+  skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

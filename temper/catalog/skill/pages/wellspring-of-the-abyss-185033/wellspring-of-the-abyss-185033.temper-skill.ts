@@ -16,6 +16,6 @@ export const wellspringOfTheAbyss185033 = {
   lineRankNeeded: 14,
   morphIndex: 0,
   rank: 14,
-  skillLineId: "arcanist-soldier-of-apocrypha",
+  skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

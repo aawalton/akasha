@@ -15,6 +15,6 @@ export const giftOfMagnus35995 = {
   lineRankNeeded: 5,
   morphIndex: 0,
   rank: 5,
-  skillLineId: "racial-breton-skills",
+  skillLineId: "temper-skill-line/racial-breton-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

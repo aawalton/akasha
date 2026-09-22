@@ -15,6 +15,6 @@ export const ruination36598 = {
   lineRankNeeded: 25,
   morphIndex: 0,
   rank: 25,
-  skillLineId: "racial-dark-elf-skills",
+  skillLineId: "temper-skill-line/racial-dark-elf-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

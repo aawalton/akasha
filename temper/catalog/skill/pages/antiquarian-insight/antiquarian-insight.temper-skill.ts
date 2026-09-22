@@ -15,6 +15,6 @@ export const antiquarianInsight = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 5,
-  skillLineId: "world-scrying",
+  skillLineId: "temper-skill-line/world-scrying",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

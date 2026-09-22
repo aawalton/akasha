@@ -16,7 +16,7 @@ export const mortalCoil = {
   lineRankNeeded: 42,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "necromancer-living-death",
+  skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
 } as const satisfies TemperSkill

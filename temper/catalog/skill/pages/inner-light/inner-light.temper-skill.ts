@@ -16,7 +16,7 @@ export const innerLight = {
   lineRankNeeded: 2,
   morphIndex: 1,
   rank: 8,
-  skillLineId: "guild-mages-guild",
+  skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
 } as const satisfies TemperSkill

@@ -10,7 +10,7 @@ export const vault = {
   abilityIcon: "/esoui/art/icons/ability_grimoire_bow.dds",
   itemId: 204485,
   uespId: 1,
-  skillLineId: "weapon-bow",
+  skillLineId: "temper-skill-line/weapon-bow",
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/disease-damage",

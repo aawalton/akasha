@@ -10,7 +10,7 @@ export const mendersBond = {
   abilityIcon: "/esoui/art/icons/ability_grimoire_staffresto.dds",
   itemId: 204489,
   uespId: 6,
-  skillLineId: "weapon-restoration-staff",
+  skillLineId: "temper-skill-line/weapon-restoration-staff",
   focusScripts: [
     "temper-focus-script/damage-shield",
     "temper-focus-script/generate-ultimate",

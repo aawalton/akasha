@@ -16,7 +16,7 @@ export const scribedTorchbearerStun = {
   lineRankNeeded: 1,
   morphIndex: 0,
   rank: 1,
-  skillLineId: "guild-fighters-guild",
+  skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/stun",
   grimoireId: "temper-grimoire/torchbearer",

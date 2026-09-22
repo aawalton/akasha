@@ -15,6 +15,6 @@ export const lunarBlessings117846 = {
   lineRankNeeded: 10,
   morphIndex: 0,
   rank: 10,
-  skillLineId: "racial-khajiit-skills",
+  skillLineId: "temper-skill-line/racial-khajiit-skills",
   skillType: "temper-skill-type/passive",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const dawnbreakerOfSmiting = {
   lineRankNeeded: 10,
   morphIndex: 2,
   rank: 12,
-  skillLineId: "guild-fighters-guild",
+  skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill

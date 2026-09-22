@@ -16,6 +16,6 @@ export const blindingFlare61524 = {
   lineRankNeeded: 7,
   morphIndex: 2,
   rank: 7,
-  skillLineId: "alliance-war-support",
+  skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
 } as const satisfies TemperSkill

@@ -16,6 +16,6 @@ export const remembrance22229 = {
   lineRankNeeded: 12,
   morphIndex: 1,
   rank: 12,
-  skillLineId: "templar-restoring-light",
+  skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/ultimate",
 } as const satisfies TemperSkill
