@@ -4,7 +4,7 @@ export const setsSearchUiListClass = {
   id: "01a0623e-53a0-731f-9970-2086175cd397",
   type: "page-type/module",
   slug: "sets-search-ui-list-class",
-  definition: "the class the result list objects are made from",
+  definition: "the class of the result list objects",
   code: "ts",
   decisions: [
     {

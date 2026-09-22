@@ -5,7 +5,7 @@ export const chapterSlug = {
   type: "page-type/text-property",
   slug: "chapter-slug",
   propertySlug: "chapter-slug",
-  definition: "the chapter of a story a naming is in",
+  definition: "a naming's chapter of a story",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

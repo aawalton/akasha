@@ -4,7 +4,7 @@ export const addonRemovedRefsManifest = {
   id: "01a06365-e827-7003-af97-b8511950c909",
   type: "page-type/module",
   slug: "addon-removed-refs-manifest",
-  definition: "the globals of third-party add-ons this suite no longer depends on",
+  definition: "the globals of third-party add-ons this suite no longer needs",
   code: "ts",
   decisions: [
     {

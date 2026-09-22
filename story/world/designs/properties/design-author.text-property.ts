@@ -5,7 +5,7 @@ export const designAuthor = {
   type: "page-type/text-property",
   slug: "design-author",
   propertySlug: "author",
-  definition: "who a story is written as being by",
+  definition: "the author credited for a story",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

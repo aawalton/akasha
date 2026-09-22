@@ -5,7 +5,7 @@ export const eventLastChapter = {
   type: "page-type/number-property",
   slug: "event-last-chapter",
   propertySlug: "last-chapter",
-  definition: "the latest chapter it can have happened in",
+  definition: "an event's latest possible chapter",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

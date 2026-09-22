@@ -4,6 +4,6 @@ export const potionControlsLayout = {
   id: "01a061c7-e87c-7eac-abfe-fa066dae05b5",
   type: "page-type/module",
   slug: "potion-controls-layout",
-  definition: "builds the trait filter checkboxes the potion search is narrowed by",
+  definition: "builds the trait filter checkboxes narrowing the potion search",
   code: "ts",
 } as const satisfies Module

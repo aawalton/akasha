@@ -5,7 +5,7 @@ export const world = {
   type: "page-type/relation-property",
   slug: "world",
   propertySlug: "world",
-  definition: "the world something is of",
+  definition: "something's world",
   targetPageType: "page-type/world",
   types: "ts",
 } as const satisfies RelationProperty
