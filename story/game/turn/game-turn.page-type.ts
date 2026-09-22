@@ -41,7 +41,6 @@ export const gameTurn = {
     "number-property/turn-number",
     "text-property/window-kind",
     "record-property/system-window",
-    "module/turn-filing",
     "number-property/pool-change",
     "record-property/turn-pools",
     "number-property/pool-now",

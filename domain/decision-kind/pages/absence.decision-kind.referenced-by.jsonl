@@ -1161,7 +1161,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/fitness/next/modules/targeting/targeting.module.ts","id":"01a0c433-c8ac-7807-9834-28647909b51b"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/next/modules/warming/warming.module.ts","id":"01a0b75d-7a11-7470-8520-71da591ec032"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/week/fitness-week.command.ts","id":"01a0b6de-d8b5-7094-8d97-329aa11e314c"}
-{"propertySlug":"decision-kind","path":"command/pages/game/import/game-import.command.ts","id":"01a0c65a-cfa9-7275-80af-e128ee193d4c"}
 {"propertySlug":"decision-kind","path":"command/pages/game/settle/game-settle.command.ts","id":"01a0c600-9161-7fdb-8ac2-edc582abc988"}
 {"propertySlug":"decision-kind","path":"command/pages/gap/delete/gap-delete.command.ts","id":"01a0b7a0-c25d-7717-a0fa-41e1a1ee2221"}
 {"propertySlug":"decision-kind","path":"command/pages/git/push/git-push.command.ts","id":"01a06cce-9280-7c22-afc1-5cfcba8a5ac4"}
@@ -1694,7 +1693,6 @@
 {"propertySlug":"decision-kind","path":"story/game/attribute/game-attribute.page-type.ts","id":"01a0c489-28b0-7100-a172-6999668e415c"}
 {"propertySlug":"decision-kind","path":"story/game/encounter/game-encounter.page-type.ts","id":"01a0c646-f4a2-7d92-926e-fd2c7fef9eb1"}
 {"propertySlug":"decision-kind","path":"story/game/entity/game-entity.page-type.ts","id":"01a0c631-b09e-76b0-8b33-5a7ff9d75891"}
-{"propertySlug":"decision-kind","path":"story/game/entity/modules/sheet-reading/sheet-reading.module.ts","id":"01a0c64e-ee87-7b43-becb-4e3044d829c0"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/attribute-scores.record-property.ts","id":"01a0c634-be95-7a9e-b319-f4550a71ad2a"}
 {"propertySlug":"decision-kind","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"decision-kind","path":"story/game/location/game-location.page-type.ts","id":"01a0c642-a40f-7f5e-8d0d-b1f9226535ca"}
@@ -1712,8 +1710,6 @@
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/essence-absorption/essence-absorption.game-mechanic.ts","id":"01a0c506-b2d7-7a71-adff-ca0e9c867ef6"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/leveling/leveling.game-mechanic.ts","id":"01a0c486-35ba-793b-b74b-bcb463138ca2"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/phys-atk/phys-atk.game-mechanic.ts","id":"01a0c473-6eee-71da-89a1-85de833a7921"}
-{"propertySlug":"decision-kind","path":"story/game/modules/page-filing/page-filing.module.ts","id":"01a0c652-d33d-74fe-b0c3-150605c0745d"}
-{"propertySlug":"decision-kind","path":"story/game/modules/row-reading/row-reading.module.ts","id":"01a0c64d-a823-7215-9e79-47ac142bb83a"}
 {"propertySlug":"decision-kind","path":"story/game/panel/game-panel.page-type.ts","id":"01a0c49e-6107-758a-9dfe-efd394605239"}
 {"propertySlug":"decision-kind","path":"story/game/panel/modules/panel-drawing/panel-drawing.module.ts","id":"01a0c4a0-5cab-7fbb-bff7-7af9f2ab4dbf"}
 {"propertySlug":"decision-kind","path":"story/game/panel/modules/panel-loading/panel-loading.module.ts","id":"01a0c4ae-6e13-7017-99e9-d00c28c4c3f3"}
@@ -1726,7 +1722,6 @@
 {"propertySlug":"decision-kind","path":"story/game/properties/mechanic-runs.file-property.ts","id":"01a0c4b7-02d8-76e0-a14b-978b3d05eb61"}
 {"propertySlug":"decision-kind","path":"story/game/quest/game-quest.page-type.ts","id":"01a0c6ab-e5a8-7bc3-a0c8-83d4a81beda0"}
 {"propertySlug":"decision-kind","path":"story/game/turn/game-turn.page-type.ts","id":"01a0c67d-107c-7e63-8791-38c9b6c7128d"}
-{"propertySlug":"decision-kind","path":"story/game/turn/modules/turn-filing/turn-filing.module.ts","id":"01a0c683-b1a8-7ca2-8eb2-e6c47a693845"}
 {"propertySlug":"decision-kind","path":"story/game/turn/modules/turn-state/turn-state.module.ts","id":"01a0c6a7-a2f7-7b27-b8b9-4a73b2b251b4"}
 {"propertySlug":"decision-kind","path":"story/game/turn/properties/system-window.record-property.ts","id":"01a0c680-3679-76c4-9c9a-ac85779d4f39"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/newest-divider/newest-divider.module.ts","id":"01a0629b-682c-7208-a65c-1d5fdba6f831"}

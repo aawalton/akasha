@@ -41,6 +41,5 @@ export const gameQuest = {
     "text-property/quest-objective",
     "text-property/quest-reward",
     "text-property/quest-status",
-    "module/quest-filing",
   ],
 } as const satisfies PageType

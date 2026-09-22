@@ -118,8 +118,6 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/fitness/week/fitness-week.command.test.ts"}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/game/import/game-import.command.code.ts"}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/game/import/game-import.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/game/settle/game-settle.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/game/settle/game-settle.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/gap/delete/gap-delete.command.code.ts"}

@@ -1,6 +1,3 @@
-{"propertySlug":"import","fileName":"game-attribute.page-type.ts","path":"story/game/entity/modules/sheet-reading/sheet-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"game-attribute.page-type.ts","path":"story/game/entity/modules/sheet-reading/sheet-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"game-attribute.page-type.ts","path":"story/game/modules/page-filing/page-filing.module.test.ts"}
 {"propertySlug":"import","fileName":"game-attribute.page-type.ts","path":"story/game/turn/modules/turn-state/turn-state.module.test.ts"}
 {"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/attribute/pages/finesse.game-attribute.ts"}
 {"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/attribute/pages/intellect.game-attribute.ts"}

@@ -398,7 +398,6 @@
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-kind.text-property.ts","id":"01a0c632-9753-7529-a95f-ebc4de76b7df"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/established-turn.number-property.ts","id":"01a0c63c-5aeb-7de0-9471-3e3ffc821155"}
 {"propertySlug":"decision-kind","path":"story/game/location/properties/location-exits.text-property.ts","id":"01a0c644-3a81-7877-8cff-40282ead975d"}
-{"propertySlug":"decision-kind","path":"story/game/modules/world-filing/world-filing.module.ts","id":"01a0c657-25a7-7aa9-bb40-aa6d97d1e08f"}
 {"propertySlug":"decision-kind","path":"story/game/panel/pages/character-sheet/character-sheet.game-panel.ts","id":"01a0c4a2-c666-7d73-9def-422c118760d9"}
 {"propertySlug":"decision-kind","path":"story/game/properties/entities.file-property.ts","id":"01a0673c-8e0e-7015-a3a2-7c0b31e1cbde"}
 {"propertySlug":"decision-kind","path":"story/game/properties/game-characters.file-property.ts","id":"01a0673e-1000-7000-9c11-6a2d4b8f0011"}

@@ -1,3 +1,6 @@
+import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Quest } from "akasha/story/engine/core/modules/quest-schema/quest-schema.module.code.ts"
@@ -6,11 +9,6 @@ import type {
   GameState,
   Hud,
 } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
-import {
-  countIn,
-  listIn,
-  saidIn,
-} from "akasha/story/game/entity/modules/sheet-reading/sheet-reading.module.code.ts"
 
 const NAME = "name"
 const MAX = "Max"
@@ -33,6 +31,19 @@ const ACTIVE = "active"
 export type Numbers = Record<string, number>
 
 export type Named = Record<string, unknown>
+
+export function saidIn(held: unknown): string | undefined {
+  const said = textIn(held)?.trim()
+  return said === undefined || said === "" ? undefined : said
+}
+
+export function countIn(held: unknown): number | undefined {
+  return asNumber(held) ?? undefined
+}
+
+export function listIn(held: unknown): readonly Named[] {
+  return Array.isArray(held) ? held.filter(isRecord) : []
+}
 
 export function keyedIn(held: unknown, key: string, ending = ""): Numbers {
   const found: Numbers = {}
