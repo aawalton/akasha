@@ -48,6 +48,7 @@ const APART = "\0"
 const NAMED_AT_MOST = 12
 
 export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set([
+  "active-calories-service",
   "attributes-relay-service",
   "capacity-relay-service",
   "cluster-deploying",
@@ -59,6 +60,7 @@ export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set([
   "inbox-tracking-poll",
   "monarch-poll",
   "monarch-reading-service",
+  "model-account-upkeep-stall",
   "monarch-relay-service",
   "plants-relay-service",
   "safety-relay-service",
@@ -67,7 +69,9 @@ export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set([
   "sleep-relay-service",
   "surplus-relay-service",
   "sweep-stray-processes",
+  "sweep-subagent-pages",
   "temper-addon-deploying",
+  "topic-words-service",
   "web-app-deploying",
 ])
 
