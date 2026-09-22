@@ -67,4 +67,5 @@ export const theTower = {
   ],
   designEntries: "jsonl",
   mechanicRuns: "jsonl",
+  player: "game-entity/the-tower-alan",
 } as const satisfies Game
