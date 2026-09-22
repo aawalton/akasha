@@ -10,7 +10,6 @@ const PART_OF = "monitoring"
 const MANAGED_BY = "bootstrap"
 
 export const PROMETHEUS_IMAGE = "prom/prometheus:v2.54.1"
-export const ALERTMANAGER_IMAGE = "prom/alertmanager:v0.27.0"
 export const KUBE_STATE_METRICS_IMAGE =
   "registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0"
 export const NODE_EXPORTER_IMAGE = "prom/node-exporter:v1.8.2"

@@ -7,7 +7,6 @@ import {
   HOSTNAME_KEY,
 } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import {
-  ALERTMANAGER_IMAGE,
   BUSYBOX_IMAGE,
   NAMESPACE,
   PROMETHEUS_IMAGE,
@@ -15,8 +14,6 @@ import {
   PROMETHEUS_SELECTOR_LABELS,
 } from "akasha/infrastructure/telemetry/modules/prometheus-constants/prometheus-constants.module.code.ts"
 import { PROMETHEUS_YML } from "akasha/infrastructure/telemetry/prometheus/modules/config/prometheus-config.module.code.ts"
-
-const NO_ALERT_RULES = "groups: []\n"
 
 export async function prometheusConfigmapYaml(): Promise<string> {
   return synthOne(NAMESPACE, "prometheus-configmap", {
@@ -29,7 +26,6 @@ export async function prometheusConfigmapYaml(): Promise<string> {
     },
     data: {
       "prometheus.yml": PROMETHEUS_YML,
-      "alerts.yml": NO_ALERT_RULES,
     },
   })
 }
@@ -243,48 +239,13 @@ export function prometheusDeploymentYaml(): string {
                   mountPath: "/etc/prometheus/prometheus.yml",
                   subPath: "prometheus.yml",
                 },
-                {
-                  name: "config",
-                  mountPath: "/etc/prometheus/rules/alerts.yml",
-                  subPath: "alerts.yml",
-                },
                 { name: "data", mountPath: "/prometheus" },
-              ],
-            },
-            {
-              name: "alertmanager",
-              image: ALERTMANAGER_IMAGE,
-              args: [
-                "--config.file=/etc/alertmanager/alertmanager.yml",
-                "--storage.path=/alertmanager",
-                "--log.level=info",
-              ],
-              ports: [{ name: "alertmanager", containerPort: 9093 }],
-              resources: {
-                requests: { cpu: "25m", memory: "64Mi" },
-                limits: { memory: "64Mi" },
-              },
-              securityContext: {
-                runAsNonRoot: true,
-                runAsUser: 65534,
-                allowPrivilegeEscalation: false,
-                capabilities: { drop: ["ALL"] },
-                readOnlyRootFilesystem: true,
-              },
-              volumeMounts: [
-                { name: "alertmanager-config", mountPath: "/etc/alertmanager" },
-                { name: "alertmanager-data", mountPath: "/alertmanager" },
               ],
             },
           ],
           volumes: [
             { name: "config", configMap: { name: "prometheus-config" } },
             { name: "data", persistentVolumeClaim: { claimName: "prometheus-data" } },
-            {
-              name: "alertmanager-config",
-              secret: { secretName: "alertmanager-config" },
-            },
-            { name: "alertmanager-data", emptyDir: { sizeLimit: "512Mi" } },
           ],
         },
       },

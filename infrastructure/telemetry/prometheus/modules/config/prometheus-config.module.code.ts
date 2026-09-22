@@ -2,15 +2,6 @@ export const PROMETHEUS_YML = `global:
   scrape_interval: 30s
   evaluation_interval: 30s
 
-rule_files:
-  - /etc/prometheus/rules/*.yml
-
-alerting:
-  alertmanagers:
-    - static_configs:
-        - targets:
-            - localhost:9093
-
 scrape_configs:
   # Kubelet metrics
   - job_name: kubernetes-nodes
