@@ -55,6 +55,6 @@
 {"propertySlug":"target-page-type","path":"infrastructure/inference/generation/image/properties/image-persona.relation-property.ts","id":"01a0c5f0-5590-72e4-b3dc-065c29bd351c"}
 {"propertySlug":"target-page-type","path":"person/properties/answered-by.relation-property.ts","id":"01a053e6-3585-7b1a-86ec-d3f1f6b2169f"}
 {"propertySlug":"target-page-type","path":"persona/craft-day/properties/craft-day-persona.relation-property.ts","id":"01a06d64-245e-7283-aa0e-ca4eda4dd326"}
-{"propertySlug":"target-page-type","path":"persona/craft-day/properties/personas-crafted.relation-property.ts","id":"01a0655b-4a9b-7004-9d62-a9d0909a21ea"}
+{"propertySlug":"target-page-type","path":"persona/craft-day/properties/personas-crafted.multi-relation-property.ts","id":"01a0655b-4a9b-7004-9d62-a9d0909a21ea"}
 {"propertySlug":"target-page-type","path":"persona/review-session/properties/session-persona.relation-property.ts","id":"01a06d67-5303-706a-b90c-da8a8764a769"}
 {"propertySlug":"target-page-type","path":"persona/wallpaper-notification/properties/notification-persona.relation-property.ts","id":"01a06d66-40f9-7210-8fcc-86ba1e3ac448"}

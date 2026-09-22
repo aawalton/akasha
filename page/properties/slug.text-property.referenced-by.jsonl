@@ -144,7 +144,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"person/properties/answered-by.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"person/properties/person-contributor.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/craft-day/properties/craft-day-persona.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/craft-day/properties/personas-crafted.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/craft-day/properties/personas-crafted.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/properties/anchor-image.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/properties/championed-domain.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/properties/cover-images.multi-relation-property.types.ts"}

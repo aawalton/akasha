@@ -6,7 +6,7 @@ import type { CraftDayPersona } from "akasha/persona/craft-day/properties/craft-
 import type { GreenDay } from "akasha/persona/craft-day/properties/green-day.number-property.types.ts"
 import type { ImprovementCount } from "akasha/persona/craft-day/properties/improvement-count.number-property.types.ts"
 import type { NewPersonaCount } from "akasha/persona/craft-day/properties/new-persona-count.number-property.types.ts"
-import type { PersonasCrafted } from "akasha/persona/craft-day/properties/personas-crafted.relation-property.types.ts"
+import type { PersonasCrafted } from "akasha/persona/craft-day/properties/personas-crafted.multi-relation-property.types.ts"
 import type { Value } from "akasha/persona/properties/value.relation-property.types.ts"
 import type { Icon } from "akasha/temper/thing/properties/icon.text-property.types.ts"
 

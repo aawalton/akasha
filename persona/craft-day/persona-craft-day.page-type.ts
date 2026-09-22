@@ -12,7 +12,7 @@ export const personaCraftDay = {
     "number-property/improvement-count",
     "number-property/new-persona-count",
     "relation-property/craft-day-persona",
-    "relation-property/personas-crafted",
+    "multi-relation-property/personas-crafted",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -21,7 +21,7 @@ export const personaCraftDay = {
     { pageProperty: "relation-property/value", required: true, many: false },
     { pageProperty: "text-property/icon", required: false, many: false },
     {
-      pageProperty: "relation-property/personas-crafted",
+      pageProperty: "multi-relation-property/personas-crafted",
       required: false,
       many: true,
       maxCount: null,
