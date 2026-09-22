@@ -1,0 +1,1 @@
+export type EntrySource = string

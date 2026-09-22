@@ -114,6 +114,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/engine/doctrine/properties/policies.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/engine/doctrine/properties/sheet-template.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/engine/doctrine/properties/tally-catalog.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/design-entry/properties/design-note.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/panel/properties/drawn.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/config.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/design-entries.file-property.ts"}

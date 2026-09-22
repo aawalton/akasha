@@ -11,6 +11,10 @@ export const gameDesignEntry = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/holding-game", required: true, many: false },
+    { pageProperty: "text-property/design-kind", required: true, many: false },
+    { pageProperty: "text-property/entry-source", required: false, many: false },
+    { pageProperty: "relation-property/superseded-entry", required: false, many: false },
+    { pageProperty: "file-property/design-note", required: true, many: false },
   ],
   decisions: [
     {
@@ -36,4 +40,10 @@ export const gameDesignEntry = {
   ],
   types: "ts",
   schema: "jsonl",
+  parts: [
+    "text-property/design-kind",
+    "text-property/entry-source",
+    "relation-property/superseded-entry",
+    "file-property/design-note",
+  ],
 } as const satisfies PageType
