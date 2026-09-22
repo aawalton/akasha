@@ -22,8 +22,6 @@ const ASKED_RECORD = "user"
 
 const ANSWER_RECORD = "assistant"
 
-const ANSWER_ENDED = "end_turn"
-
 const TEXT_BLOCK = "text"
 
 const TYPE = "type"
@@ -32,7 +30,11 @@ const MESSAGE = "message"
 
 const CONTENT = "content"
 
-const STOP_REASON = "stop_reason"
+const ORIGIN = "origin"
+
+const ORIGIN_KIND = "kind"
+
+const PERSON = "human"
 
 const SIDECHAIN = "isSidechain"
 
@@ -68,8 +70,6 @@ export type Reading = (from: number, upTo: number) => Scanned | null
 type Held = Record<string, unknown>
 
 type Asked = { readonly uuid: string; readonly said: string }
-
-type Answered = { readonly said: string; readonly ended: boolean }
 
 export const NOTHING_SCANNED: Scanned = { readTo: 0, text: "" }
 
@@ -109,8 +109,14 @@ function textOf(content: unknown): string {
   return found.join("\n")
 }
 
+function fromPerson(held: Held): boolean {
+  const found = held[ORIGIN]
+  if (found === null || typeof found !== "object" || Array.isArray(found)) return false
+  return (found as Held)[ORIGIN_KIND] === PERSON
+}
+
 function askedIn(held: Held): Asked | null {
-  if (held[TYPE] !== ASKED_RECORD || asideOf(held)) return null
+  if (held[TYPE] !== ASKED_RECORD || asideOf(held) || !fromPerson(held)) return null
   const message = messageIn(held)
   if (message === null) return null
   const content = message[CONTENT]
@@ -119,26 +125,23 @@ function askedIn(held: Held): Asked | null {
   return typeof uuid === "string" && uuid !== "" ? { uuid, said: content } : null
 }
 
-function answeredIn(held: Held): Answered | null {
+function answeredIn(held: Held): string | null {
   if (held[TYPE] !== ANSWER_RECORD || asideOf(held)) return null
   const message = messageIn(held)
   if (message === null) return null
-  return { said: textOf(message[CONTENT]), ended: message[STOP_REASON] === ANSWER_ENDED }
+  return textOf(message[CONTENT])
 }
 
 export function exchangesIn(text: string, cursor: string | null): readonly Exchange[] {
   const every: Exchange[] = []
   let asked: Asked | null = null
   let replies: string[] = []
-  let ended = false
-  const closing = (over: boolean): undefined => {
+  const closing = (): undefined => {
     const turn = asked
     const replied = replies.join("\n")
-    const whole = ended || over
     asked = null
     replies = []
-    ended = false
-    if (turn === null || replied === "" || !whole) return
+    if (turn === null || replied === "") return
     every.push({ uuid: turn.uuid, said: turn.said, replied })
   }
   for (const line of text.split("\n")) {
@@ -146,16 +149,14 @@ export function exchangesIn(text: string, cursor: string | null): readonly Excha
     if (held === null) continue
     const next = askedIn(held)
     if (next !== null) {
-      closing(true)
+      closing()
       asked = next
       continue
     }
+    if (asked === null) continue
     const heard = answeredIn(held)
-    if (heard === null || asked === null) continue
-    if (heard.said !== "") replies.push(heard.said)
-    ended = heard.ended
+    if (heard !== null && heard !== "") replies.push(heard)
   }
-  closing(false)
   const at = cursor === null ? -1 : every.findIndex((exchange) => exchange.uuid === cursor)
   return at < 0 ? every : every.slice(at + 1)
 }

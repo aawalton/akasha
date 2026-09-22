@@ -34,6 +34,26 @@ function asked(uuid: string, said: string, aside = false): string {
     type: "user",
     uuid,
     isSidechain: aside,
+    origin: { kind: "human" },
+    message: { role: "user", content: said },
+  })
+}
+
+function injected(uuid: string, kind: string, said: string): string {
+  return JSON.stringify({
+    type: "user",
+    uuid,
+    isSidechain: false,
+    origin: { kind },
+    message: { role: "user", content: said },
+  })
+}
+
+function unmarked(uuid: string, said: string): string {
+  return JSON.stringify({
+    type: "user",
+    uuid,
+    isSidechain: false,
     message: { role: "user", content: said },
   })
 }
@@ -82,6 +102,7 @@ const TWO = linesOf([
   answeredWith("hi"),
   asked("u2", "again"),
   answeredWith("there"),
+  asked("u3", "and now"),
 ])
 
 test("an exchange names the turn a person wrote, what was said and what was answered", () => {
@@ -106,13 +127,20 @@ test("a sidechain turn and a sidechain answer are part of no exchange", () => {
     asked("s1", "go and look", true),
     answeredWith("what the subagent wrote", true),
     answeredWith("hi"),
+    asked("u2", "next"),
   ])
 
   expect(exchangesIn(text, null)).toEqual([{ uuid: "u1", said: "hello", replied: "hi" }])
 })
 
 test("thinking, a tool call and a tool answer are no part of what the agent wrote", () => {
-  const text = linesOf([asked("u1", "hello"), THINKING, TOOL_ANSWER, answeredWith("done")])
+  const text = linesOf([
+    asked("u1", "hello"),
+    THINKING,
+    TOOL_ANSWER,
+    answeredWith("done"),
+    asked("u2", "next"),
+  ])
 
   expect(exchangesIn(text, null)).toEqual([{ uuid: "u1", said: "hello", replied: "done" }])
 })
@@ -123,20 +151,80 @@ test("the words the agent wrote across records join into what was replied", () =
     writtenSoFar("first"),
     THINKING,
     answeredWith("second"),
+    asked("u2", "next"),
   ])
 
   expect(exchangesIn(text, null)).toEqual([{ uuid: "u1", said: "hello", replied: "first\nsecond" }])
 })
 
-test("a reply still being written is held back rather than answered in part", () => {
-  const text = linesOf([asked("u1", "hello"), writtenSoFar("the first of it"), THINKING])
+test("a record a task notification wrote starts no exchange of its own", () => {
+  const text = linesOf([
+    asked("u1", "hello"),
+    answeredWith("hi"),
+    injected("n1", "task-notification", "<task-notification>a task ended</task-notification>"),
+    answeredWith("and that task is done"),
+    asked("u2", "next"),
+  ])
+
+  expect(exchangesIn(text, null)).toEqual([
+    { uuid: "u1", said: "hello", replied: "hi\nand that task is done" },
+  ])
+})
+
+test("an exchange joins every turn the agent finished before the person spoke again", () => {
+  const text = linesOf([
+    asked("u1", "hello"),
+    answeredWith("the first turn"),
+    injected("n1", "task-notification", "<task-notification>one</task-notification>"),
+    THINKING,
+    answeredWith("the second turn"),
+    injected("n2", "task-notification", "<task-notification>two</task-notification>"),
+    writtenSoFar("the third turn"),
+    answeredWith("and the end of it"),
+    asked("u2", "next"),
+  ])
+
+  expect(exchangesIn(text, null)).toEqual([
+    {
+      uuid: "u1",
+      said: "hello",
+      replied: "the first turn\nthe second turn\nthe third turn\nand the end of it",
+    },
+  ])
+})
+
+test("a record a peer or a channel wrote is no turn from the person", () => {
+  const text = linesOf([
+    asked("u1", "hello"),
+    injected("p1", "peer", "what another agent asked"),
+    injected("c1", "channel", "<channel source=messages>what amy sent</channel>"),
+    answeredWith("hi"),
+    asked("u2", "next"),
+  ])
+
+  expect(exchangesIn(text, null)).toEqual([{ uuid: "u1", said: "hello", replied: "hi" }])
+})
+
+test("a record with no origin at all is no turn from the person", () => {
+  const text = linesOf([
+    asked("u1", "hello"),
+    unmarked("m1", "<local-command-stdout>compacted</local-command-stdout>"),
+    answeredWith("hi"),
+    asked("u2", "next"),
+  ])
+
+  expect(exchangesIn(text, null)).toEqual([{ uuid: "u1", said: "hello", replied: "hi" }])
+})
+
+test("the last exchange is open, and answered nowhere until the person's next turn", () => {
+  const text = linesOf([asked("u1", "hello"), answeredWith("hi")])
 
   expect(exchangesIn(text, null)).toEqual([])
 })
 
-test("the exchange held back is answered whole once that turn is finished", () => {
+test("the exchange held back is answered whole once the person's next turn is there", () => {
   const begun = linesOf([asked("u1", "hello"), writtenSoFar("the first of it"), THINKING])
-  const whole = `${begun}${linesOf([answeredWith("and the rest")])}`
+  const whole = `${begun}${linesOf([answeredWith("and the rest"), asked("u2", "next")])}`
 
   expect(exchangesIn(begun, null)).toEqual([])
   expect(exchangesIn(whole, null)).toEqual([
@@ -193,7 +281,7 @@ test("a line written only partway is left for the scan after it", () => {
 
     expect(exchangesIn(scan(), null)).toEqual([])
 
-    writeFileSync(path, linesOf([asked("u1", "hello"), reply]))
+    writeFileSync(path, linesOf([asked("u1", "hello"), reply, asked("u2", "next")]))
 
     expect(exchangesIn(scan(), null)).toEqual([{ uuid: "u1", said: "hello", replied: "hi" }])
   } finally {
@@ -210,7 +298,7 @@ test("a transcript written over shorter is followed from its first byte again", 
 
     expect(exchangesIn(scan(), null).map((one) => one.uuid)).toEqual(["u1", "u2"])
 
-    writeFileSync(path, linesOf([asked("u3", "fresh"), answeredWith("ok")]))
+    writeFileSync(path, linesOf([asked("u3", "fresh"), answeredWith("ok"), asked("u4", "more")]))
 
     expect(exchangesIn(scan(), null).map((one) => one.uuid)).toEqual(["u3"])
   } finally {
@@ -224,7 +312,7 @@ test("a seat pointed at another file is followed there rather than at the file b
     const first = join(dir, "first.jsonl")
     const second = join(dir, "second.jsonl")
     writeFileSync(first, TWO)
-    writeFileSync(second, linesOf([asked("u3", "fresh"), answeredWith("ok")]))
+    writeFileSync(second, linesOf([asked("u3", "fresh"), answeredWith("ok"), asked("u4", "more")]))
     let at = first
     const scan = scanning(() => at)
 
@@ -250,13 +338,14 @@ test("a wait that elapses is answered an empty list rather than a refusal", asyn
   }
 })
 
-test("a wait over a reply being written is answered that reply whole once it ends", async () => {
+test("a wait over a reply being written is answered once the person's next turn lands", async () => {
   const dir = mkdtempSync(join(SCRATCH_AT, SCRATCH_NAME))
   try {
     const path = join(dir, "seat.jsonl")
     writeFileSync(path, linesOf([asked("u1", "hello"), writtenSoFar("half")]))
     const waiting = followed(() => path, null, 4000, 10)
-    setTimeout(() => appendFileSync(path, linesOf([answeredWith("and the rest")])), 50)
+    const rest = linesOf([answeredWith("and the rest"), asked("u2", "next")])
+    setTimeout(() => appendFileSync(path, rest), 50)
 
     expect(await waiting).toEqual([{ uuid: "u1", said: "hello", replied: "half\nand the rest" }])
   } finally {

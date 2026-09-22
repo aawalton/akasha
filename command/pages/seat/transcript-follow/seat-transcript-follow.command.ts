@@ -29,6 +29,23 @@ export const seatTranscriptFollow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A person's turn is a record whose `origin.kind` is `human`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A record whose `origin.kind` is other than `human` is no turn from the person.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A record with no `origin` at all is no turn from the person.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A task notification, a peer and a channel are the other kinds a transcript holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A record marked as a sidechain is part of no exchange.",
     },
     {
@@ -37,25 +54,21 @@ export const seatTranscriptFollow = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An exchange whose reply is empty is answered nowhere until that reply is there.",
+      statement: "An exchange the agent wrote nothing in is answered nowhere.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An exchange is closed by the person's next turn and at no other time.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An exchange is answered once the agent's turn is finished rather than once any text is there.",
+        "The agent's text across every turn before the person speaks again joins into one reply.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A turn is finished where an assistant record's message says `stop_reason` is `end_turn`.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A record written before the turn ends says `stop_reason` is null or `tool_use`.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A reply still being written is held back, and answered whole at a call after it.",
+        "The last exchange is open, and answered nowhere until the person's next turn is there.",
     },
     {
       decisionKind: "decision-kind/departure",
