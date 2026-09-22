@@ -47,7 +47,7 @@ const EM = EVENT_MANAGER
 const MAJOR = lib.name
 
 const slots = asSlotTable(lib)
-const getLibSetsTooltipSavedVariables = asSvFetchThunk(slots["_getLibSetsTooltipSavedVariables"])
+const getSetsTooltipSavedVariables = asSvFetchThunk(slots["_getSetsTooltipSavedVariables"])
 const createSetTooltipPreviewSlashCommand = asVoidThunk(
   slots["_createSetTooltipPreviewSlashCommand"]
 )
@@ -218,7 +218,7 @@ function onPlayerActivatedTooltips(this: void): undefined {
 
   createSetTooltipPreviewSlashCommand()
 
-  STATE.tooltipSV = getLibSetsTooltipSavedVariables()
+  STATE.tooltipSV = getSetsTooltipSavedVariables()
   if (lib.svData === undefined || STATE.tooltipSV === undefined) {
     return
   }

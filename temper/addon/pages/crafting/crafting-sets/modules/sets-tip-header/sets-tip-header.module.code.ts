@@ -98,7 +98,7 @@ export function addZoneColor(this: void, str: string): string {
   return "|cA9A9A9" + str + "|r"
 }
 
-function getLibSetsTooltipSavedVariables(this: void): { [key: string]: unknown } | undefined {
+function getSetsTooltipSavedVariables(this: void): { [key: string]: unknown } | undefined {
   if (lib.svData === undefined) {
     return undefined
   }
@@ -180,7 +180,7 @@ function isCustomTooltipEnabled(this: void, value?: string): boolean {
 }
 lib.IsSetsCustomTooltipEnabled = isCustomTooltipEnabled
 
-function isLibSetsTooltipEnabled(this: void): undefined {
+function isSetsTooltipEnabled(this: void): undefined {
   const tooltipSV = STATE.tooltipSV
   if (tooltipSV === undefined) {
     return
@@ -213,7 +213,7 @@ function isLibSetsTooltipEnabled(this: void): undefined {
         STATE.addReconstructionCost === true ||
         STATE.addFavorites === true))
 }
-lib.IsSetsTooltipEnabled = isLibSetsTooltipEnabled
+lib.IsSetsTooltipEnabled = isSetsTooltipEnabled
 
 const slots = asTyped<{ [slot: string]: unknown }>(lib)
-slots["_getLibSetsTooltipSavedVariables"] = getLibSetsTooltipSavedVariables
+slots["_getSetsTooltipSavedVariables"] = getSetsTooltipSavedVariables
