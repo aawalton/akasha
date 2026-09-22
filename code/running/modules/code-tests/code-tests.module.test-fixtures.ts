@@ -24,8 +24,11 @@ export const ROOTED =
 
 export const BURNS =
   'import { test } from "bun:test"\n' +
-  'test("one", () => { const until = Bun.nanoseconds() + 2e9\n' +
-  "  while (Bun.nanoseconds() < until) {} })\n"
+  'test("one", () => { const at = process.cpuUsage()\n' +
+  "  for (;;) {\n" +
+  "    const spent = process.cpuUsage(at)\n" +
+  "    if ((spent.user + spent.system) / 1e6 >= 1.6) break\n" +
+  "  } })\n"
 
 export const WAITS =
   'import { afterAll, expect, test } from "bun:test"\n' +
