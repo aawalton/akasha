@@ -50,7 +50,6 @@ const preloadedSetNames = asLangStringRecord(
 import { getSearchUIListClass } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-list-class/lib-sets-search-ui-list-class.module.code.ts"
 import { searchUI } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-shared-state/lib-sets-search-ui-shared-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-search-ui-shapes-3/lib-sets-search-ui-shapes-3.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-search-ui-shapes-4/lib-sets-search-ui-shapes-4.type-declaration.d.ts"
 import {

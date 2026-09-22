@@ -32,7 +32,6 @@ import { MENU_STATE } from "akasha/temper/addon/pages/crafting/crafting-sets/mod
 import { STATE } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"

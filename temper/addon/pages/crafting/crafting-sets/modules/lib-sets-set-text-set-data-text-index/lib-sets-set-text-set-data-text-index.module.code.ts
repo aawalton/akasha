@@ -7,7 +7,6 @@ import { applyCustomTooltipPattern } from "akasha/temper/addon/pages/crafting/cr
 import { STATE } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-search-ui-shapes-4/lib-sets-search-ui-shapes-4.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 

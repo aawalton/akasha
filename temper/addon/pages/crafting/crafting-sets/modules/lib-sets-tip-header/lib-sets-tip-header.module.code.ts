@@ -10,7 +10,6 @@ import {
 import { asChestNameTable } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import {
   LIBSETS_SETTYPE_CYRODIIL_MONSTER,
   LIBSETS_SETTYPE_IMPERIALCITY_MONSTER,
