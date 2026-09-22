@@ -9,5 +9,9 @@ export const day20260922 = {
   version: "3.0",
   wisdomWords: 0,
   intelligenceTopics: 0,
+  inboxTasks: 9,
+  inboxTasksClearedToday: false,
+  inboxTemperTasks: 16,
+  inboxTemperTasksClearedToday: false,
   lowestEmailInboxCount: 1,
 } as const satisfies Day
