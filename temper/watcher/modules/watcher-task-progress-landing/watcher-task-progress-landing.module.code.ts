@@ -14,7 +14,10 @@ import { applyCompletionOverrides } from "akasha/temper/player/completion/temper
 import type { CompletionCharacterEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-next-character/completion-next-character.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override/completion-override.module.code.ts"
 import { parseCompletionOverrideRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
-import { buildCrossCharacterCompletionIndex } from "akasha/temper/player/completion/temper-player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts"
+import {
+  buildCrossCharacterCompletionIndex,
+  type NamedPath,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import {
   besidePathOf,
@@ -187,7 +190,19 @@ export function overridden(
   return out
 }
 
-async function indexFor(ready: ProgressReady, userId: string) {
+export function namedPathsOf(tasks: readonly TaskFacts[]): readonly NamedPath[] {
+  const found: NamedPath[] = []
+  for (const task of tasks) {
+    const cardId = task.completionCardId
+    const itemPath = task.completionItemPath
+    if (cardId === undefined || cardId === "") continue
+    if (itemPath === undefined || itemPath.length === 0) continue
+    found.push({ cardId, itemPath })
+  }
+  return found
+}
+
+async function indexFor(ready: ProgressReady, userId: string, named: readonly NamedPath[]) {
   const characters = await askedRows(ready, CHARACTER_TYPE, userId)
   const slugs = characters.map((row) => textOf(row, "slug")).filter((one) => one !== "")
   const completions = await heldBeside<CharacterCompletion>(ready, CHARACTER_TYPE, slugs)
@@ -198,7 +213,8 @@ async function indexFor(ready: ProgressReady, userId: string) {
   const account = accountSlugs[0] === undefined ? null : (held.get(accountSlugs[0]) ?? null)
   return buildCrossCharacterCompletionIndex(
     rosterFrom(characters, overridden(completions, floors)),
-    account
+    account,
+    named
   )
 }
 
@@ -250,7 +266,7 @@ export async function refreshTaskProgress(
 ): Promise<number> {
   const ready = readyFor(deps)
   if (tasks.length === 0) return 0
-  const index = await indexFor(ready, userId)
+  const index = await indexFor(ready, userId, namedPathsOf(tasks))
   const slugs = tasks.map((one) => one.slug)
   const found = await ready.pages(slugs.map((slug) => ({ pageTypeSlug: TASK_TYPE, slug })))
   if (!found.ok) throw new Error(`the ${TASK_TYPE} pages went unread — ${found.why}`)

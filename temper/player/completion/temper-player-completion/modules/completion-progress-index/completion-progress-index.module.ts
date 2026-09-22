@@ -16,6 +16,14 @@ export const completionProgressIndex = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A path a caller names is counted alongside the paths the card's picker offers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path named twice is counted once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The counts a roster path has are the counts of its characters added up.",
     },
     {

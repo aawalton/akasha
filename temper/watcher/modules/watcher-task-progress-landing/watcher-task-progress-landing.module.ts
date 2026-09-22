@@ -58,6 +58,10 @@ export const watcherTaskProgressLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The reading counts the path each task names, whatever its card's picker offers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A task states the character it falls to as a relation, as its progress lands.",
     },
     {

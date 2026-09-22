@@ -52,9 +52,32 @@ function asCardIds(keys: readonly string[]): readonly AnyCompletionCardId[] {
   return result
 }
 
+export type NamedPath = {
+  readonly cardId: string
+  readonly itemPath: readonly (string | number)[]
+}
+
+function pathsFor(
+  cardId: AnyCompletionCardId,
+  completions: readonly CharacterCompletion[],
+  named: readonly NamedPath[]
+): readonly (readonly (string | number)[])[] {
+  const found = [...enumeratePaths(cardId, completions)]
+  const seen = new Set(found.map((one) => joinPath(cardId, one)))
+  for (const one of named) {
+    if (one.cardId !== cardId) continue
+    const key = joinPath(cardId, one.itemPath)
+    if (seen.has(key)) continue
+    seen.add(key)
+    found.push(one.itemPath)
+  }
+  return found
+}
+
 export function buildCrossCharacterCompletionIndex(
   roster: readonly CompletionCharacterEntry[],
-  accountCompletion: AccountCompletion | null
+  accountCompletion: AccountCompletion | null,
+  named: readonly NamedPath[] = []
 ): CrossCharacterCompletionIndex {
   const characters: CrossCharacterCompletionIndex["characters"] = {}
   for (const entry of roster) {
@@ -71,7 +94,7 @@ export function buildCrossCharacterCompletionIndex(
   }
 
   for (const cardId of asCardIds(Object.keys(COMPLETION_CARD_CHECKERS))) {
-    for (const path of enumeratePaths(cardId, completions)) {
+    for (const path of pathsFor(cardId, completions, named)) {
       const entries: Record<string, ScalarProgress> = {}
       let rolledCurrent = 0
       let rolledTotal = 0

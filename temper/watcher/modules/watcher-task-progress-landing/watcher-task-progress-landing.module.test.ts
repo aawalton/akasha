@@ -6,6 +6,7 @@ import {
 import { bodyOfRows } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
 import {
   completionIn,
+  namedPathsOf,
   overridden,
   type ProgressDeps,
   type Put,
@@ -295,6 +296,20 @@ test("a task naming a card no progress is worked out for is named to the caller"
 
   expect(puts).toEqual([])
   expect(said).toEqual([unworkedWhy("crafting-writs", "a-card-with-no-checker")])
+})
+
+test("the path each task names is handed to the reading", () => {
+  expect(
+    namedPathsOf([
+      TASK,
+      {
+        slug: "dragonguard",
+        completionCardId: "character-achievements",
+        completionItemPath: ["Dragonhold", "Quests", "2612"],
+      },
+      { slug: "nameless" },
+    ])
+  ).toEqual([{ cardId: "character-achievements", itemPath: ["Dragonhold", "Quests", "2612"] }])
 })
 
 test("a task naming no card at all is passed over without a word", () => {
