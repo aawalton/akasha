@@ -5,7 +5,7 @@ export const takes = {
   type: "page-type/text-property",
   slug: "takes",
   propertySlug: "takes",
-  definition: "what one thing a command takes is for",
+  definition: "what a thing a command takes is for",
   maxLength: 100,
   nameFormat: null,
   decisions: [

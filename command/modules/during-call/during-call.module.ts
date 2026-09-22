@@ -4,7 +4,7 @@ export const duringCall = {
   id: "01a05cb3-7cca-7613-8b60-5d8a19e74370",
   type: "page-type/module",
   slug: "during-call",
-  definition: "a value made once and held for as long as one run of a command lasts",
+  definition: "a value made once and held for as long as a run of a command lasts",
   code: "ts",
   decisions: [
     {

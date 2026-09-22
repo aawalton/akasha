@@ -4,7 +4,7 @@ export const findingDelete = {
   id: "01a0b7a0-c25d-78e0-805d-10b09d6406a2",
   type: "page-type/command",
   slug: "finding-delete",
-  definition: "the command taking one finding's page away with the files beside that page",
+  definition: "the command taking a finding's page away with the files beside that page",
   code: "ts",
   test: "ts",
   decisions: [

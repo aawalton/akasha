@@ -4,7 +4,7 @@ export const deployDeviceInstalling = {
   id: "01a08e0b-f9f5-746a-836d-b0646a5815b0",
   type: "page-type/module",
   slug: "deploy-device-installing",
-  definition: "one iOS app built on the mac and installed to a phone plugged into it",
+  definition: "an iOS app built on the mac and installed to a phone plugged into it",
   code: "ts",
   test: "ts",
   decisions: [

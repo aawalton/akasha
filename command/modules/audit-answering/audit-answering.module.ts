@@ -4,7 +4,7 @@ export const auditAnswering = {
   id: "01a09240-d563-7000-8504-881721a6fe23",
   type: "page-type/module",
   slug: "audit-answering",
-  definition: "the answer an audit gives, held to what one answer carries",
+  definition: "the answer an audit gives, held to what an answer carries",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

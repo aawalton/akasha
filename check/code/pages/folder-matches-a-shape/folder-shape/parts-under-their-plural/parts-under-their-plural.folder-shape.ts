@@ -4,7 +4,7 @@ export const partsUnderTheirPlural = {
   id: "01a0a5c5-2740-7001-863a-0802035387a4",
   type: "page-type/folder-shape",
   slug: "parts-under-their-plural",
-  definition: "the shape of a folder gathering one page type's pages under that type's plural",
+  definition: "the shape of a folder gathering a page type's pages under that type's plural",
   code: "ts",
   test: "ts",
   enabled: true,

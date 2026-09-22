@@ -4,7 +4,7 @@ export const gapDelete = {
   id: "01a0b7a0-c25d-7717-a0fa-41e1a1ee2221",
   type: "page-type/command",
   slug: "gap-delete",
-  definition: "the command taking one gap out of the decisions the page stating it holds",
+  definition: "the command taking a gap out of the decisions the page stating it holds",
   code: "ts",
   test: "ts",
   decisions: [

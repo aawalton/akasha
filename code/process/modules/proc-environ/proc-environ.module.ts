@@ -4,7 +4,7 @@ export const procEnviron = {
   id: "01a0691b-4f63-79be-84d6-4d9546e6c1be",
   type: "page-type/module",
   slug: "proc-environ",
-  definition: "one environment variable read off one process by its pid",
+  definition: "an environment variable read off a process by its pid",
   code: "ts",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const groupMaxMemoryMb = {
   type: "page-type/number-property",
   slug: "group-max-memory-mb",
   propertySlug: "max-memory-mb",
-  definition: "the most memory one run of a group's code may hold, in megabytes",
+  definition: "the most memory a run of a group's code may hold, in megabytes",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

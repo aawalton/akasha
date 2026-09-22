@@ -4,7 +4,7 @@ export const commandTreePanel = {
   id: "01a07c93-a783-7aeb-b52e-9302045260e3",
   type: "page-type/module",
   slug: "command-tree-panel",
-  definition: "the Commands panel brought up, and the commands drawn into it from one file",
+  definition: "the Commands panel brought up, and the commands drawn into it from a file",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const emailMessageModifyLabel = {
   id: "01a06810-cf11-753d-aad0-e13c11000ad2",
   type: "page-type/command",
   slug: "email-message-modify-label",
-  definition: "the command putting label ids on one Gmail message and taking label ids off it",
+  definition: "the command putting label ids on a Gmail message and taking label ids off it",
   code: "ts",
   test: "ts",
   decisions: [
