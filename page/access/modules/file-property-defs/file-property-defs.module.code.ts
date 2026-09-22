@@ -4,45 +4,25 @@ import type { PropertyDefinition } from "akasha/page/access/modules/page-type-co
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
 import { shapeFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import type {
+  Declared,
+  Shape,
+} from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
 import { z } from "zod"
 
-export type Declaration = {
-  readonly key: string
-  readonly type: string
-  readonly drawnBy: readonly string[]
-  readonly memberDrawnBy: readonly (readonly string[])[]
-  readonly title: string
-  readonly pageId: string
-  readonly on: string
-  readonly values: unknown
-  readonly optionColors: unknown
+const asked = new Map<string, Promise<Shape | null>>()
 
-  readonly targetSlug: string | null
-  readonly slugProperty: string | null
-  readonly mayBeGone: boolean
-  readonly verbId: string | null
-}
-
-export type PageTypeShape = {
-  readonly pageType: string
-  readonly pageTypeId: string
-  readonly ownerSlug: string | null
-  readonly declarations: readonly Declaration[]
-}
-
-const asked = new Map<string, Promise<PageTypeShape | null>>()
-
-async function read(pageTypeSlug: string): Promise<PageTypeShape | null> {
+async function read(pageTypeSlug: string): Promise<Shape | null> {
   const got = await shapeFor(pageTypeSlug)
   if ("refused" in got) {
     throw new Error(
       `shapeAsked(${pageTypeSlug}): the pages answered no shape, so this reader holds no property definitions to report; an empty list would read as a page type that declares nothing (${got.refused})`
     )
   }
-  return got.shape === null ? null : (got.shape as PageTypeShape)
+  return got.shape
 }
 
-export async function shapeAsked(pageTypeSlug: string): Promise<PageTypeShape | null> {
+export async function shapeAsked(pageTypeSlug: string): Promise<Shape | null> {
   const asking = asked.get(pageTypeSlug)
   if (asking !== undefined) return asking
   const started = read(pageTypeSlug)
@@ -139,7 +119,7 @@ export function renderedType(pageTypeSlug: string): string {
   return pageTypeSlug.endsWith(DECLARED_BY) ? RENDERED_PLAIN : pageTypeSlug
 }
 
-function definitionOf(one: Declaration): PropertyDefinition {
+function definitionOf(one: Declared): PropertyDefinition {
   const config: Record<string, Json> = {}
   const options = optionsFrom(one.values)
   if (options !== null) config.options = coloredIn(options, coloredBy(one.optionColors))
@@ -153,6 +133,7 @@ function definitionOf(one: Declaration): PropertyDefinition {
     type: renderedType(one.type),
     drawnBy: one.drawnBy,
     ...(one.memberDrawnBy.length === 0 ? {} : { memberDrawnBy: one.memberDrawnBy }),
+    ...(one.fields.length === 0 ? {} : { fields: one.fields.map(definitionOf) }),
     pageId: one.pageId,
     ...(stated ? { config } : {}),
   }

@@ -32,6 +32,7 @@ export type PropertyDefinition = {
   readonly type: PropertyType
   readonly drawnBy?: readonly string[]
   readonly memberDrawnBy?: readonly (readonly string[])[]
+  readonly fields?: readonly PropertyDefinition[]
   readonly config?: Readonly<Record<string, ReadonlyJSONValue>>
   readonly schema?: Readonly<Record<string, ReadonlyJSONValue>>
   readonly pageId?: string

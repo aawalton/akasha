@@ -64,6 +64,14 @@ export const filePropertyDefs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A definition has a definition of its own for each field its property declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The shape read here is the service's own type rather than a copy of that type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An action button's definition names the verb its property's page states.",
     },
   ],
