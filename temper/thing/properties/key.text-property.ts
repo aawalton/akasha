@@ -5,7 +5,7 @@ export const key = {
   type: "page-type/text-property",
   slug: "key",
   propertySlug: "key",
-  definition: "the string The Elder Scrolls Online names a thing by",
+  definition: "the string The Elder Scrolls Online gives a thing",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

@@ -4,7 +4,7 @@ export const watcherDir = {
   id: "01a0640f-850f-7f75-abe1-b02d6a21efda",
   type: "page-type/module",
   slug: "watcher-dir",
-  definition: "the folder the watcher's downloads are served out of",
+  definition: "the folder holding the watcher's downloads",
   code: "ts",
   decisions: [
     {
