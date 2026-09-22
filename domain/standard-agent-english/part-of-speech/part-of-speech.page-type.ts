@@ -18,6 +18,7 @@ export const partOfSpeech = {
     "part-of-speech/past-participle",
     "part-of-speech/be-verb",
     "part-of-speech/present-participle",
+    "part-of-speech/modal",
   ],
   extends: ["page-type/domain"],
   decisions: [

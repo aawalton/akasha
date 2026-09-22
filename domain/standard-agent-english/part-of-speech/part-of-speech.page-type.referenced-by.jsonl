@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/conjunction.part-of-speech.ts"}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts"}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/free-relative-pronoun.part-of-speech.ts"}
+{"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/modal.part-of-speech.ts"}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/noun.part-of-speech.ts"}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/past-participle.part-of-speech.ts"}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/pages/possessive-clitic.part-of-speech.ts"}

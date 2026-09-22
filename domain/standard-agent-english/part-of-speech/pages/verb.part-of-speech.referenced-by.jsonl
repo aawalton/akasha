@@ -4,5 +4,6 @@
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/read.common-language-term.ts","id":"01a0c941-5635-7b48-b57a-106d6b043b46"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/run.common-language-term.ts","id":"01a0c937-9efa-79dc-ab59-21f33ba7362a"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
+{"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/modal-with-a-verb.construction.ts","id":"01a0ca71-1f68-72f2-89ae-06af0abbbaad"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/verb-alone.construction.ts","id":"01a0c9a2-e37e-7d7c-8d71-3d06a13a96b5"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/verb-with-a-noun-phrase.construction.ts","id":"01a0ca51-817d-7cab-945d-077f7d12ffff"}

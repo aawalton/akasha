@@ -34,6 +34,7 @@ export const construction = {
     "construction/be-verb-with-a-past-participle",
     "construction/be-verb-with-a-present-participle",
     "construction/verb-with-a-noun-phrase",
+    "construction/modal-with-a-verb",
   ],
   extends: ["page-type/domain"],
   properties: [
