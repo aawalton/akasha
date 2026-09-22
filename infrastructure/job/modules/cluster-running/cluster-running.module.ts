@@ -246,5 +246,15 @@ export const clusterRunning = {
       decisionKind: "decision-kind/departure",
       statement: "A job whose checkout is held takes that checkout one job at a time.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A held checkout keeps the commit and what an install left, and nothing a run wrote.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run reads a tree holding what the commit holds, whether or not a run came before.",
+    },
   ],
 } as const satisfies Module

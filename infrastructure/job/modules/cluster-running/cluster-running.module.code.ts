@@ -117,6 +117,8 @@ export function checkedOut(commit: string, was: string | null): readonly string[
 
 const KEPT_LOCK = `${ORCHESTRATOR_CACHE_MOUNT_PATH}/kept-checkout.lock`
 
+const VENDORED = "node_modules"
+
 const HELD_ALONE = 9
 
 function fetchingWhole(ref: string): string {
@@ -141,6 +143,7 @@ export function keptCheckout(commit: string): readonly string[] {
     `${named} 2>/dev/null || git remote add origin ${ORIGIN}`,
     fetchedWholeAgain(commit),
     "git switch -q --force --detach FETCH_HEAD",
+    `git clean -qfdx -e ${VENDORED}`,
     "bun install --frozen-lockfile",
   ]
 }
