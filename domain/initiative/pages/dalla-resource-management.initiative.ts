@@ -18,6 +18,11 @@ export const dallaResourceManagement = {
         "Fifty-five of the sixty-six audit code files call `everythingIn` or an `overEvery` runner themselves, so the tree is walked once for the round and again for each check, about 1.5s each. For `phone-number-is-e164` the case set is 726 paths, which `rg --files` globbed to the five carrying page types answers in 0.135s against 285,471 paths in 0.482s. Ripgrep skips ignored files, and `everyFileInside` adds back the ignored-but-held ones `heldThough` keeps.",
     },
     {
+      statement: "Every check an agent runs has a memory ceiling of its own.",
+      workingMemory:
+        "Fifty-eight of the fifty-nine code checks state maxCpuSeconds of their own, usually ten seconds and up to thirty, and ranOver judges cpuSeconds plus childCpuSeconds once the run ended. Nothing states a memory ceiling. A check runs inside the checking process, and the peak recorded is that process's high water mark, forgotten before each check and so counted from what the process already held rather than from nothing.",
+    },
+    {
       statement:
         "`email-address-is-well-formed` runs under a processor ceiling matched to its cost.",
     },
@@ -81,11 +86,6 @@ export const dallaResourceManagement = {
         "`check-reaches-a-path-through-the-index` runs under a processor ceiling matched to its cost.",
     },
     { statement: "`typecheck` runs under a processor ceiling matched to its cost." },
-    {
-      statement: "Every check an agent runs has a memory ceiling of its own.",
-      workingMemory:
-        "Fifty-eight of the fifty-nine code checks state maxCpuSeconds of their own, usually ten seconds and up to thirty, and ranOver judges cpuSeconds plus childCpuSeconds once the run ended. Nothing states a memory ceiling. A check runs inside the checking process, and the peak recorded is that process's high water mark, forgotten before each check and so counted from what the process already held rather than from nothing.",
-    },
     {
       statement: "Every audit an agent runs has a memory ceiling of its own.",
       workingMemory:
