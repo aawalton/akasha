@@ -12,5 +12,5 @@ export const theFriendsILostTrackOf = {
     "all-about-alan-topic/who-is-holding-the-rope",
   ],
   settled:
-    "I had a great many friends in elementary school. I remember inviting thirty children to a birthday party.\n\nIn middle school I was down to three. In high school, one.\n\nI still do not really understand why.\n\nFriendship is the most expressive and least checkable thing there is. Other people's reactions are the one schedule I can never self-check my way to safe. It contracted hardest of all, and a cost with no readable cause is the signature of the thing.",
+    "I had a great many friends in elementary school. I remember inviting thirty children to a birthday party.\n\nIn middle school I was down to half a dozen or so. I went on a road trip for the first semester of high school, came back, and had one friend left, David Eggerstsen.\n\nI still do not really understand why.\n\nFriendship is the most expressive and least checkable thing there is. Other people's reactions are the one schedule I can never self-check my way to safe. It contracted hardest of all, and a cost with no readable cause is the signature of the thing.",
 } as const satisfies AllAboutAlanTopic
