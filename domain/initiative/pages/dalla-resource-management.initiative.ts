@@ -10,7 +10,7 @@ export const dallaResourceManagement = {
     {
       statement: "An audit is handed the commit that audit judges rather than a change.",
       workingMemory:
-        "`module/judging` already binds this: an audit is handed the root alone, there is no change at audit, and `Auditing` is already `(root: string) => Judged[]`. The drift is in the bodies: 51 of the 64 audits open by building a change out of their root through `everythingIn`, `nothingIn`, `pagesTypedIn` or an `overEvery` runner. The shared decision code they hand it to wants `.root`, the paths judged, and a body at a path, counted at 55, 82 and 44 uses. `.before` is 9 sites, all change phase.\n",
+        "`module/judging` binds this already, and `Auditing` is `(root) => Judged[]`. The listing is\nthe commit's now: `everyFileInside` runs one `git ls-files --cached`, 0.049s against 0.839s\nfor the two working-tree passes before it, landed at 5b18fc434. What is left is the change\nitself — 49 of 64 audits open with `everythingIn`, and the decision code they hand it to\nwants `.root`, the paths judged, and a body at a path, at 55, 82 and 44 uses.\n",
     },
     {
       statement: "Every audit collects the files that audit judges rather than listing the tree.",
