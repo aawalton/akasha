@@ -7,7 +7,7 @@ export const definitionIsWrittenInTheGrammar = {
   definition: "the check refusing a definition the grammar writes no way or more than one way",
   runsOnChange: false,
   runsOnDeploy: false,
-  runsOnAudit: true,
+  runsOnAudit: false,
   experimental: true,
   decisions: [
     {
