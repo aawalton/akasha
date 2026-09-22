@@ -75,7 +75,12 @@ export const temperAddonWorldCollections = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tracker publishes its own global rather than a member of the add-on's.",
+      statement: "A global a tracker publishes is spelled with the add-on shipping that tracker.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tracker publishes a global only where this add-on's markup reaches that global.",
     },
     {
       decisionKind: "decision-kind/departure",
