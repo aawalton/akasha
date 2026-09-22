@@ -10,8 +10,8 @@ export const mechanicSlug = {
   nameFormat: null,
   decisions: [
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "No mechanic has a page of its own.",
+      decisionKind: "decision-kind/constraint",
+      statement: "A name two kinds of mechanic carry reaches two pages rather than one.",
     },
     {
       decisionKind: "decision-kind/gap",

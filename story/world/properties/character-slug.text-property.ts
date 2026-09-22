@@ -10,8 +10,8 @@ export const characterSlug = {
   nameFormat: null,
   decisions: [
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "No character has a page of its own.",
+      decisionKind: "decision-kind/constraint",
+      statement: "A reading names a character the world holds no page for.",
     },
     {
       decisionKind: "decision-kind/gap",
