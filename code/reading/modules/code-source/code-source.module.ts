@@ -46,6 +46,14 @@ export const codeSource = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A module declaration scopes what is declared inside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A declare global block scopes nothing, because its names are the global scope's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An import naming nothing at all carries more than types.",
     },
     {

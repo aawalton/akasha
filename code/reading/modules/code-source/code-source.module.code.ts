@@ -47,8 +47,14 @@ export function literalOf(node: ts.Expression): ts.ObjectLiteralExpression | nul
   return null
 }
 
+function moduleScoping(node: ts.Node): boolean {
+  if (!ts.isModuleDeclaration(node)) return false
+  return (node.flags & ts.NodeFlags.GlobalAugmentation) === 0
+}
+
 export function scoping(node: ts.Node): boolean {
   return (
+    moduleScoping(node) ||
     ts.isSourceFile(node) ||
     ts.isBlock(node) ||
     ts.isCaseBlock(node) ||

@@ -3,6 +3,7 @@ import {
   lineAt,
   lineOf,
   parsedAs,
+  scoping,
   skimmedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
@@ -16,6 +17,10 @@ const BODY = `const one = 1\nconst two = 2\n`
 const LED = `const one = 1\n\n\nconst two = 2\n`
 
 const MARKUP = `const one = <div />\n`
+
+const AUGMENTS = `export {}\ndeclare module "held" {\n  interface One {}\n}\n`
+
+const GLOBALS = `export {}\ndeclare global {\n  interface Two {}\n}\n`
 
 function firstOf(source: ts.SourceFile): ts.Node {
   const one = source.statements[1]
@@ -63,4 +68,12 @@ test("a line is read the same from a skimmed body as from a parsed one", () => {
 test("a body named for markup is read as markup, rather than as a body that refuses it", () => {
   expect(markupIn(parsedAs(MARKED_AT, MARKUP))).toBe(true)
   expect(markupIn(skimmedAs(MARKED_AT, MARKUP))).toBe(true)
+})
+
+test("a module declaration scopes what is declared inside it", () => {
+  expect(scoping(firstOf(parsedAs(AT, AUGMENTS)))).toBe(true)
+})
+
+test("a declare global block scopes nothing, because its names are the global scope's", () => {
+  expect(scoping(firstOf(parsedAs(AT, GLOBALS)))).toBe(false)
 })

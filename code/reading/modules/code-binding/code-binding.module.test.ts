@@ -58,6 +58,16 @@ test("a type, an interface, an enum and a namespace each declare a name too", ()
   expect([...declaredIn(source).keys()].sort()).toEqual(["Eleven", "Nine", "Ten", "Twelve"])
 })
 
+test("a name a module augmentation declares is declared by that augmentation rather than the file", () => {
+  const source = sourceOf('import "held"\n\ndeclare module "held" {\n  interface Fifteen {}\n}\n')
+  expect([...declaredIn(source).keys()]).toEqual([])
+})
+
+test("a name a declare global block declares is declared by the file holding that block", () => {
+  const source = sourceOf("export {}\n\ndeclare global {\n  interface Sixteen {}\n}\n")
+  expect([...declaredIn(source).keys()]).toContain("Sixteen")
+})
+
 test("an identifier no scope out to the file declares is bound by nothing", () => {
   const source = sourceOf("nowhere()\n")
   expect(bindingOf(lastNamed(source, "nowhere"))).toBeNull()

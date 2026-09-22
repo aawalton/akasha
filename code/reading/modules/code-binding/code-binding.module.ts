@@ -47,6 +47,16 @@ export const codeBinding = {
       statement: "A type, an interface, an enum and a namespace each declare a name too.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A name a module augmentation declares is declared by that augmentation rather than the file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A name a declare global block declares is declared by the file holding that block.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A type parameter declares no name here.",
     },
