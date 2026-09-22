@@ -8,4 +8,5 @@ export const btw5 = {
     "the Creative BT-W5 transmitter's codec and headset mode set over its hidraw interface",
   python: "py",
   bytecodeDirectory: true,
+  installPath: "~/.local/bin/btw5",
 } as const satisfies PythonModule
