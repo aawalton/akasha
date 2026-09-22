@@ -20,7 +20,10 @@ import type {
   ClientItem,
   ClientSheet,
 } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
-import { useTowerAttunements } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.code.ts"
+import {
+  attunementsShown,
+  useTowerAttunements,
+} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.code.ts"
 import {
   scoresShown,
   useTowerAttributes,
@@ -128,8 +131,7 @@ function StatsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefine
 function SkillsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefined }) {
   const skills = sheet.skills ?? []
   const filed = useTowerAttunements(game)
-  const kept = sheet.affinities ?? []
-  const affinities: readonly ClientAffinity[] = filed.length > 0 ? filed : kept
+  const affinities = attunementsShown<ClientAffinity>(filed, sheet.affinities ?? [])
   const bonds = sheet.bonds ?? []
   const titles = sheet.titles ?? []
   return (
@@ -175,28 +177,30 @@ function SkillsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefin
           </div>
         </Section>
       ) : null}
-      <Section title="Affinities">
-        {affinities.length === 0 ? (
-          <div className="font-mono text-[12px] text-tertiary">none yet</div>
-        ) : (
-          <Rows>
-            {[...affinities]
-              .sort((a, b) => (a.name ?? "").localeCompare(b.name ?? ""))
-              .map((a, i) => (
-                <LadderRow
-                  key={a.name != null ? a.name : `affinity-${i}`}
-                  name={a.name ?? ""}
-                  note={a.note}
-                  right={
-                    a.value != null ? (
-                      <span className="text-accent tabular-nums">{a.value}</span>
-                    ) : null
-                  }
-                />
-              ))}
-          </Rows>
-        )}
-      </Section>
+      {affinities !== null ? (
+        <Section title="Affinities">
+          {affinities.length === 0 ? (
+            <div className="font-mono text-[12px] text-tertiary">none yet</div>
+          ) : (
+            <Rows>
+              {[...affinities]
+                .sort((a, b) => (a.name ?? "").localeCompare(b.name ?? ""))
+                .map((a, i) => (
+                  <LadderRow
+                    key={a.name != null ? a.name : `affinity-${i}`}
+                    name={a.name ?? ""}
+                    note={a.note}
+                    right={
+                      a.value != null ? (
+                        <span className="text-accent tabular-nums">{a.value}</span>
+                      ) : null
+                    }
+                  />
+                ))}
+            </Rows>
+          )}
+        </Section>
+      ) : null}
       {bonds.length > 0 ? (
         <Section title="Bonds">
           <Rows>

@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   attunementsIn,
+  attunementsShown,
   type Titled,
   titlesIn,
 } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.code.ts"
@@ -82,4 +83,28 @@ test("the attunements come back in the order their names sort", () => {
 
 test("no row at all answers no attunement", () => {
   expect(attunementsIn([], ELEMENTS, RANKS)).toEqual([])
+})
+
+const KEPT = [{ name: "Ember Manipulation", value: 1 }]
+
+test("a read still outstanding with no attunement kept draws nothing at all", () => {
+  expect(attunementsShown(null, [])).toBe(null)
+})
+
+test("a read still outstanding draws the attunements the sheet kept", () => {
+  expect(attunementsShown(null, KEPT)).toEqual(KEPT)
+})
+
+test("a read answering no attunement falls back to the attunements the sheet kept", () => {
+  expect(attunementsShown([], KEPT)).toEqual(KEPT)
+})
+
+test("a read answering no attunement with nothing kept draws an empty sheet rather than nothing", () => {
+  expect(attunementsShown([], [])).toEqual([])
+})
+
+test("the attunements filed beside the character are drawn over the ones the sheet kept", () => {
+  expect(attunementsShown(attunementsIn([EMBER], ELEMENTS, RANKS), KEPT)).toEqual([
+    { name: "Ember Manipulation", value: theTowerAlanEmber.counter },
+  ])
 })

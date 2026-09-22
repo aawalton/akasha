@@ -48,6 +48,15 @@ export const towerAttunementsBeside = {
       statement: "A game naming no player of its own is answered no attunement.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A read still outstanding is answered apart from a read answering no attunement.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A panel holding no attunement of its own draws nothing while the read is still outstanding.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No note is carried, because the pages read here hold none.",
     },

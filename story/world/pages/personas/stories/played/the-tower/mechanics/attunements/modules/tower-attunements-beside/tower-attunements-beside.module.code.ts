@@ -91,12 +91,22 @@ async function readAttunements(game: string): Promise<readonly Attuned[]> {
   return attunementsOf(slug)
 }
 
-export function useTowerAttunements(game: string | undefined): readonly Attuned[] {
+export function attunementsShown<Shown>(
+  filed: readonly Shown[] | null,
+  kept: readonly Shown[]
+): readonly Shown[] | null {
+  if (filed === null) return kept.length > 0 ? kept : null
+  return filed.length > 0 ? filed : kept
+}
+
+export function useTowerAttunements(game: string | undefined): readonly Attuned[] | null {
   const asked = game ?? ""
-  const [attunements, setAttunements] = useState<readonly Attuned[]>(NO_ATTUNEMENTS)
+  const [attunements, setAttunements] = useState<readonly Attuned[] | null>(
+    asked === "" ? NO_ATTUNEMENTS : null
+  )
 
   useEffect(() => {
-    setAttunements(NO_ATTUNEMENTS)
+    setAttunements(asked === "" ? NO_ATTUNEMENTS : null)
     if (asked === "") return
     let alive = true
     void (async () => {
