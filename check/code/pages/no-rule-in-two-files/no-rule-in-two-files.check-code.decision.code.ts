@@ -1,3 +1,4 @@
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   bodyOf,
   overEachFile,
@@ -16,8 +17,8 @@ export type Said = {
 
 export type Saying = (rule: string) => readonly Said[]
 
-export function sayingOver(shadow: Shadow): Saying {
-  return (rule) => shadow.index.astHashesOf(astHashOf(rule))
+export function sayingOver(paged: Paged): Saying {
+  return (rule) => paged.index.astHashesOf(astHashOf(rule))
 }
 
 export function reasonsIn(path: string, text: string, every: Saying): readonly string[] {
