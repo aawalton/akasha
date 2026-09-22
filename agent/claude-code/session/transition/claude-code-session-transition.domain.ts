@@ -4,7 +4,7 @@ export const claudeCodeSessionTransition = {
   id: "01a0c9f5-cdad-7bb4-a56e-5fa84e5c5b7e",
   type: "page-type/domain",
   slug: "claude-code-session-transition",
-  definition: "a session moving from one state to another",
+  definition: "a session's move from one state into another state",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "session transition" },
     { partOfSpeech: "part-of-speech/noun", spelling: "session transitions" },
