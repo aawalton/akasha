@@ -6,6 +6,8 @@ local _rawset = rawset
 local _rawget = rawget
 local _pairs = pairs
 
+__eso_stubbed = {}
+
 local banned = {}
 if __eso_banned ~= nil then
   for _, name in _pairs(__eso_banned) do
@@ -40,6 +42,9 @@ local function make_stub()
     __mod = function(a, b) return num_operand(a) % num_operand(b) end,
     __pow = function(a, b) return num_operand(a) ^ num_operand(b) end,
     __unm = function(_) return 0 end,
+    __len = function(_) return 0 end,
+    __lt = function(a, b) return num_operand(a) < num_operand(b) end,
+    __le = function(a, b) return num_operand(a) <= num_operand(b) end,
   })
   return t
 end
@@ -73,6 +78,7 @@ local function make_env()
       if key == "_G" then return t end
       local real = _rawget(_G, key)
       if real ~= nil then return real end
+      __eso_stubbed[key] = (__eso_stubbed[key] or 0) + 1
       local made = make_stub()
       _rawset(t, key, made)
       return made

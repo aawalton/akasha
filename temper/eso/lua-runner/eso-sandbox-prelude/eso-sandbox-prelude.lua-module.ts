@@ -25,6 +25,14 @@ export const esoSandboxPrelude = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A stub answers to being ordered against a number as zero.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "How often each name was answered with a stub is counted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stub reached for a field answers with another stub.",
     },
     {
