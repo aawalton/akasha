@@ -13,7 +13,7 @@ export const skyshardsPart5 = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This run is the add-on's own source rather than anything akasha derives.",
+      statement: "This set is the add-on's own source rather than anything akasha derives.",
     },
   ],
 } as const satisfies Module
