@@ -15,6 +15,7 @@ import { PropertyBadge } from "akasha/page/ui/component/modules/property-badge/p
 
 interface BadgeSample {
   readonly type: PropertyType
+  readonly label?: string
   readonly property: PropertyDefinition
   readonly value: PropertyValue
 }
@@ -24,7 +25,9 @@ function SampleRows({ samples }: { samples: readonly BadgeSample[] }) {
     <div className="space-y-4">
       {samples.map((sample) => (
         <div key={sample.property.id} className="flex items-center gap-3">
-          <span className="w-32 shrink-0 text-secondary text-sm">{sample.type}</span>
+          <span className="w-32 shrink-0 text-secondary text-sm">
+            {sample.label ?? sample.type}
+          </span>
           <PropertyBadge property={sample.property} value={sample.value} context="detail" />
         </div>
       ))}
@@ -50,6 +53,17 @@ const TEXT_SAMPLES: readonly BadgeSample[] = [
       drawnBy: ["text-property", "page-property", "domain", "page"],
     },
     value: "Aurora Borealis",
+  },
+  {
+    type: "text",
+    label: "text, a list",
+    property: {
+      id: "ds-property-text-list",
+      title: "Aliases",
+      type: "text",
+      drawnBy: ["text-property", "page-property", "domain", "page"],
+    },
+    value: ["Aurora Borealis", "Northern Lights"],
   },
   {
     type: "markdown",
@@ -245,6 +259,33 @@ const RELATION_SAMPLES: readonly BadgeSample[] = [
       { id: "ds-page-vault-of-ash", title: "Vault of Ash" },
     ],
   },
+  {
+    type: "text",
+    label: "one-of",
+    property: {
+      id: "ds-property-one-of",
+      title: "Held By",
+      type: "text",
+      drawnBy: ["one-of-property", "page-property", "domain", "page"],
+      memberDrawnBy: [["relation-property", "page-property", "domain", "page"]],
+    },
+    value: { id: "ds-page-crown-of-ember", title: "Crown of Ember" },
+  },
+  {
+    type: "text",
+    label: "one-of, a list",
+    property: {
+      id: "ds-property-one-of-list",
+      title: "Held By",
+      type: "text",
+      drawnBy: ["one-of-property", "page-property", "domain", "page"],
+      memberDrawnBy: [["relation-property", "page-property", "domain", "page"]],
+    },
+    value: [
+      { id: "ds-page-crown-of-ember", title: "Crown of Ember" },
+      { id: "ds-page-vault-of-ash", title: "Vault of Ash" },
+    ],
+  },
 ]
 
 const ACTION_SAMPLES: readonly BadgeSample[] = [
@@ -332,8 +373,8 @@ export function TextPropertyBadgesPanel() {
       <p className="text-secondary text-sm">
         <code>markdown</code>, <code>url</code>, <code>json</code> and <code>rich-document</code>{" "}
         carry a drawing of their own, and plain text falls back to the <code>page-property</code>{" "}
-        badge. A rich document is edited in place on the page carrying it, so away from one it reads
-        as its opening line.
+        badge, which draws one badge for each item where the value is a list. A rich document is
+        edited in place on the page carrying it, so away from one it reads as its opening line.
       </p>
       <SampleRows samples={TEXT_SAMPLES} />
     </PanelCard>
@@ -378,7 +419,8 @@ export function RelationPropertyBadgesPanel() {
     <PanelCard id="ds-relation-property-badges" collapsible title="Relation Property Badges">
       <p className="text-secondary text-sm">
         A relation resolves its name off the page resolver. Away from one it falls back to the title
-        carried on the value.
+        carried on the value. A <code>one-of</code> hands its value to the first member that draws
+        it, and a list of values one item at a time.
       </p>
       <SampleRows samples={RELATION_SAMPLES} />
     </PanelCard>
