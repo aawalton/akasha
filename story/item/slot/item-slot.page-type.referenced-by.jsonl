@@ -1,2 +1,9 @@
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/chest.item-slot.ts"}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/feet.item-slot.ts"}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/hands.item-slot.ts"}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/head.item-slot.ts"}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/legs.item-slot.ts"}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/shoulders.item-slot.ts"}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/item/slot/pages/waist.item-slot.ts"}
 {"propertySlug":"parts","path":"story/item/item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}
 {"propertySlug":"target-page-type","path":"story/item/properties/item-slot.relation-property.ts","id":"01a0ca45-cc74-7097-84c6-4205dbdaeff1"}
