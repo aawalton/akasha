@@ -173,6 +173,8 @@ function worldIn(made: Making): World {
       kindsUnder: (slug: string) => new Set([slug]),
       valuesByPath: (slug: string) => new Map(made.paged[slug] ?? []),
       filePropertiesAt: () => made.files ?? NO_FILES,
+      folderPropertiesAt: () => new Map(),
+      extensionPropertiesAt: () => new Map(),
       sidecarsAt: () => new Map(),
       uncommittedFiledAt: () => new Map(),
       everyPath: () => Object.keys(made.bodies),
