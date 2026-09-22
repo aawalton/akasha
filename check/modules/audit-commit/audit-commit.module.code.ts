@@ -111,9 +111,13 @@ export function commitIn(root: string): Commit {
     held.set(path, made)
     return made
   }
+  let named: readonly string[] | null = null
   return {
     root,
-    paths: filesIn(root),
+    get paths(): readonly string[] {
+      if (named === null) named = filesIn(root)
+      return named
+    },
     read: reading.read,
     bytes: (path) => bytesOf(root, path),
     pageOf,
