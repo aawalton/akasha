@@ -4,7 +4,7 @@ export const supervisorDeferredRestartProbe = {
   id: "01a0683e-3dbe-701d-8d02-1a1db2476e25",
   type: "page-type/module",
   slug: "supervisor-deferred-restart-probe",
-  definition: "an idle reading bounded by the tick it is taken in",
+  definition: "an idle reading bounded by its own tick",
   code: "ts",
   test: "ts",
   decisions: [

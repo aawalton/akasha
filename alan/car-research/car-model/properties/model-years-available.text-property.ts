@@ -5,7 +5,7 @@ export const modelYearsAvailable = {
   type: "page-type/text-property",
   slug: "model-years-available",
   propertySlug: "model-years-available",
-  definition: "the model years the nameplate was sold in",
+  definition: "the nameplate's model years",
   maxLength: 50,
   nameFormat: null,
   types: "ts",

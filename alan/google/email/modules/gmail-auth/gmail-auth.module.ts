@@ -4,6 +4,6 @@ export const gmailAuth = {
   id: "01a05c0e-372e-77e5-9829-8e3c9ce333ef",
   type: "page-type/module",
   slug: "gmail-auth",
-  definition: "the OAuth client a Gmail call is made through",
+  definition: "a Gmail call's OAuth client",
   code: "ts",
 } as const satisfies Module

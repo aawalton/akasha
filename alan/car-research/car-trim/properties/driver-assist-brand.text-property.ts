@@ -5,7 +5,7 @@ export const driverAssistBrand = {
   type: "page-type/text-property",
   slug: "driver-assist-brand",
   propertySlug: "driver-assist-brand",
-  definition: "the name the maker sells its driver assistance under",
+  definition: "the maker's name for its driver assistance",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

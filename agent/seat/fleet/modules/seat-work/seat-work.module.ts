@@ -4,7 +4,7 @@ export const seatWork = {
   id: "01a0695a-d2ea-764d-9899-b8a6f4e9acd3",
   type: "page-type/module",
   slug: "seat-work",
-  definition: "every initiative with the liveliest state any seat working it is in",
+  definition: "every initiative with the liveliest state among the seats working it",
   code: "ts",
   test: "ts",
   decisions: [

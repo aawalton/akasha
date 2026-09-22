@@ -4,8 +4,7 @@ export const syncOutcome = {
   id: "01a06580-196a-7000-9451-e53d200e3e2d",
   type: "page-type/module",
   slug: "sync-outcome",
-  definition:
-    "an error named by kind, retried where retrying helps, and the tally a run answers with",
+  definition: "an error named by kind, retried where retrying helps, and a run's tally",
   code: "ts",
   decisions: [
     {

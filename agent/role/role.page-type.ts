@@ -4,7 +4,7 @@ export const role = {
   id: "01a053b2-2c20-7e34-9306-65f44016381a",
   type: "page-type/page-type",
   slug: "role",
-  definition: "the work an agent is answerable for",
+  definition: "the work in an agent's charge",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "role" },
     { partOfSpeech: "part-of-speech/noun", spelling: "roles" },

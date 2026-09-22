@@ -4,6 +4,6 @@ export const atlasAppId = {
   id: "01a06582-6b2f-7b72-94d2-b59147464737",
   type: "page-type/module",
   slug: "atlas-app-id",
-  definition: "the id and slug Atlas is registered under",
+  definition: "Atlas's registered id and slug",
   code: "ts",
 } as const satisfies Module

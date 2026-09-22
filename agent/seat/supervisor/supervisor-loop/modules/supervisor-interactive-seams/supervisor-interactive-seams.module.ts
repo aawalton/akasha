@@ -4,7 +4,8 @@ export const supervisorInteractiveSeams = {
   id: "01a06871-3115-7007-ad27-cd0693dae709",
   type: "page-type/module",
   slug: "supervisor-interactive-seams",
-  definition: "the three collaborators a seat's interactive run is handed rather than reaching for",
+  definition:
+    "the three collaborators handed to a seat's interactive run rather than fetched by it",
   code: "ts",
   decisions: [
     {

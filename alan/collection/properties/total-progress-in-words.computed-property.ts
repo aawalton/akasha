@@ -5,7 +5,7 @@ export const totalProgressInWords = {
   type: "page-type/computed-property",
   slug: "total-progress-in-words",
   propertySlug: "total-progress-in-words",
-  definition: "how much of the collection and everything it holds has been worked through",
+  definition: "how much of the collection and everything it holds is done",
   holds: "number",
   code: "ts",
   types: "ts",

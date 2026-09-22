@@ -4,7 +4,7 @@ export const rebindOutcome = {
   id: "01a09098-2365-7377-876b-8d9e17c749d6",
   type: "page-type/module",
   slug: "rebind-outcome",
-  definition: "what an attempt to move a request to another account answers with",
+  definition: "the answer of an attempt to move a request to another account",
   code: "ts",
   decisions: [
     {

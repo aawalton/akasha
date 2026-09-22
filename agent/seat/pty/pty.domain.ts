@@ -4,7 +4,7 @@ export const pty = {
   id: "01a0932f-f8ee-7c96-8069-edc7cda2dc6d",
   type: "page-type/domain",
   slug: "pty",
-  definition: "a pseudo-terminal a process runs under",
+  definition: "a process's pseudo-terminal",
   parts: [
     "module/bun-pty",
     "module/pty-proxy",

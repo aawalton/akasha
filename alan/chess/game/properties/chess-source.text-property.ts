@@ -5,7 +5,7 @@ export const chessSource = {
   type: "page-type/text-property",
   slug: "chess-source",
   propertySlug: "source",
-  definition: "where a game came from",
+  definition: "a game's source",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

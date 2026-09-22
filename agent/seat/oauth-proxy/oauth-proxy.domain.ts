@@ -4,7 +4,7 @@ export const oauthProxy = {
   id: "01a08866-3c3f-734b-a28f-34e79b39e012",
   type: "page-type/domain",
   slug: "oauth-proxy",
-  definition: "the proxy a seat's client reaches Anthropic through",
+  definition: "a seat's client proxy to Anthropic",
   parts: [
     "module/seat-proxy-state",
     "module/supervisor-proxy-adoption-decide",

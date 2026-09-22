@@ -5,6 +5,6 @@ export const terminalAlertedAt = {
   type: "page-type/instant-property",
   slug: "terminal-alerted-at",
   propertySlug: "terminal-alerted-at",
-  definition: "when the dead refresh token was last alerted on",
+  definition: "when the dead refresh token last drew an alert",
   types: "ts",
 } as const satisfies InstantProperty

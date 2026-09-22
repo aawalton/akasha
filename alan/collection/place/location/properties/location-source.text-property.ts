@@ -5,7 +5,7 @@ export const locationSource = {
   type: "page-type/text-property",
   slug: "location-source",
   propertySlug: "location-source",
-  definition: "where the place came from",
+  definition: "the place's source",
   maxLength: 50,
   nameFormat: null,
   types: "ts",

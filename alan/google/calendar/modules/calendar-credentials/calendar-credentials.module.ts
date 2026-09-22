@@ -4,7 +4,7 @@ export const calendarCredentials = {
   id: "01a05c02-c733-7786-85fd-8163fb8a237b",
   type: "page-type/module",
   slug: "calendar-credentials",
-  definition: "what a calendar client is built with",
+  definition: "what builds a calendar client",
   code: "ts",
   decisions: [
     {

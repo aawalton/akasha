@@ -5,7 +5,7 @@ export const puzzleLicense = {
   type: "page-type/text-property",
   slug: "puzzle-license",
   propertySlug: "license",
-  definition: "the licence a puzzle is published under",
+  definition: "a puzzle's licence",
   maxLength: 50,
   nameFormat: null,
   types: "ts",
