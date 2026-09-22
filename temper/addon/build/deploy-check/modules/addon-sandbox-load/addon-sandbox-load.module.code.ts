@@ -3,7 +3,6 @@ import {
   type SandboxGlobalsConfig,
 } from "akasha/temper/addon/build/deploy-check/modules/eso-sandbox-globals/eso-sandbox-globals.module.code.ts"
 import { z } from "zod"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export interface SandboxVm {
   setGlobal: (name: string, value: unknown) => void

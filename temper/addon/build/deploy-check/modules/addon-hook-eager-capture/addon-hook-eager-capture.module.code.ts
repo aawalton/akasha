@@ -1,5 +1,4 @@
 import ts from "typescript"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export function parseAddonSource(source: string, filePath: string): ts.SourceFile {
   return ts.createSourceFile(filePath, source, ts.ScriptTarget.Latest, true)

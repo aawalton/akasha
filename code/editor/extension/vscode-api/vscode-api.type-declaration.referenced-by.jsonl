@@ -57,15 +57,7 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/ui/modules/narrative-log/narrative-log.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/ui/modules/sheet-panel/sheet-panel.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"story/world/stories/read/modules/chapter-alerts/chapter-alerts.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/build/deploy-check/modules/addon-hook-eager-capture/addon-hook-eager-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/build/deploy-check/modules/addon-sandbox-load/addon-sandbox-load.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-message-types/combat-lib-message-types.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-numbers/combat-ui-chat-numbers.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-copy-dialog/sets-copy-dialog.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-casts/sets-core-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-load-sets-checktype/sets-core-load-sets-checktype.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-debug-debug-names/sets-debug-debug-names.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-ldei/knowledge-ldei.module.code.ts"}
