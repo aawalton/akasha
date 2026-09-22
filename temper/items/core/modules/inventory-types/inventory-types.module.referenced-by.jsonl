@@ -6,7 +6,7 @@
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/addon/pages/trading/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.test.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"}

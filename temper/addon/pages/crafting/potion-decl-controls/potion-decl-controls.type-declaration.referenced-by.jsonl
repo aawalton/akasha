@@ -128,10 +128,10 @@
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-lock-overlay/inventory-lock-overlay.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-casts/keybinder-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}

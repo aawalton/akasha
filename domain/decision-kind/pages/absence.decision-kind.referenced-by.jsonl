@@ -1800,6 +1800,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.ts","id":"01a06258-b527-758b-b9d3-f61c61aec470"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.ts","id":"01a0cc42-6b1f-7a05-9d38-4e7b21c6f9a0"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/trading-types/trading-types.module.ts","id":"01a06160-2a5e-7579-bb70-416bf4fbc1c8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/keybinder/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts","id":"01a06259-bfbc-7d5e-8b4b-5bbe42c3459a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/keybinder/modules/addon-keybinds-casts/addon-keybinds-casts.module.ts","id":"01a0605a-051b-7355-a78a-16ba2dc843c5"}
@@ -1845,8 +1846,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-lang/scrollable-menu-lang.module.ts","id":"01a06275-c449-7b5d-9a57-12fbd9707620"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-main/scrollable-menu-main.module.ts","id":"01a06275-c449-7ac7-bcea-a44c4d7ba068"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-index/scrollable-menu-util-index.module.ts","id":"01a06275-c449-7f7a-ba6b-ccd20e2d132b"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/trading/modules/trading-types/trading-types.module.ts","id":"01a06160-2a5e-7579-bb70-416bf4fbc1c8"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/trading/temper-addon-trading.temper-addon.ts","id":"01a06160-2a58-7de9-8f4a-dbca3806b485"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/destinations-preview-controls/destinations-preview-controls.type-declaration.ts","id":"01a06269-2b13-7b9c-8e10-1f913f1e6553"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/minimap-string-ids/minimap-string-ids.type-declaration.ts","id":"01a06269-2b15-7ed4-828d-87a96fe2a139"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/minimap-view-types/minimap-view-types.module.ts","id":"01a06269-2b11-7ab4-91ef-f78f20b801bc"}

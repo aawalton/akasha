@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/addon/pages/trading/modules/trading-browse-engine/trading-browse-engine.module.code.ts"}
-{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/addon/pages/trading/modules/trading-browse-window/trading-browse-window.module.code.ts"}
-{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/addon/pages/trading/modules/trading-search-request-native/trading-search-request-native.module.code.ts"}
+{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/addon/pages/items/modules/trading-browse-engine/trading-browse-engine.module.code.ts"}
+{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/addon/pages/items/modules/trading-browse-window/trading-browse-window.module.code.ts"}
+{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/addon/pages/items/modules/trading-search-request-native/trading-search-request-native.module.code.ts"}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/addon/modules/filter-bar/filter-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts"}

@@ -6,7 +6,7 @@
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/addon/pages/hud/modules/errors-addon-build-ids/errors-addon-build-ids.module.code.ts"}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/addon/pages/hud/modules/errors-addon-traceback/errors-addon-traceback.module.code.ts"}
-{"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/addon/pages/trading/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
+{"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/player/character/build/build-support/modules/build-row/build-row.module.code.ts"}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/web/modules/use-player/use-player.module.code.ts"}

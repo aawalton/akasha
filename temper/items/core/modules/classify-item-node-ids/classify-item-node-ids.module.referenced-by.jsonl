@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"classify-item-node-ids.module.code.ts","path":"command/pages/temper/inventory/lookup-item/temper-inventory-lookup-item.command.code.ts"}
-{"propertySlug":"import","fileName":"classify-item-node-ids.module.code.ts","path":"temper/addon/pages/trading/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
+{"propertySlug":"import","fileName":"classify-item-node-ids.module.code.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"classify-item-node-ids.module.code.ts","path":"temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"}
 {"propertySlug":"import","fileName":"classify-item-node-ids.module.code.ts","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"}
 {"propertySlug":"import","fileName":"classify-item-node-ids.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"}

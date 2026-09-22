@@ -38,11 +38,11 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-state/fco-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-tooltips/fco-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-ui/fco-ui.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-library/main-menu-library.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-entry/trading-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-border/minimap-border.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-init/minimap-init.module.code.ts"}

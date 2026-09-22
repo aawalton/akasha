@@ -13,8 +13,8 @@
 {"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master-set-select/inventory-writ-crafting-master-set-select.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master-smithing/inventory-writ-crafting-master-smithing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-entry/trading-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-skip-kiosk-dialog/trading-skip-kiosk-dialog.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-skip-kiosk-dialog/trading-skip-kiosk-dialog.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-chest-capture/map-pins-chest-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-15.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-init/minimap-init.module.code.ts"}

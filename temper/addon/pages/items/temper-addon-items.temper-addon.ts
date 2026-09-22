@@ -5,7 +5,7 @@ export const temperAddonItems = {
   type: "page-type/temper-addon",
   slug: "temper-addon-items",
   definition:
-    "the add-on that tracks every character's items and moves, sells, uses and crafts them by rule",
+    "the add-on for every character's items: what they are, where they go, and what they sell for",
 
   addonManifest: "json",
   bindings: "xml",
@@ -171,6 +171,24 @@ export const temperAddonItems = {
     "type-declaration/inventory-config-global",
     "module/inventory-assistant-chain",
     "module/inventory-venue-exit",
+    "module/trading-browse-engine",
+    "module/trading-browse-window",
+    "module/trading-browse-window-rows",
+    "module/trading-capture",
+    "module/trading-constants",
+    "module/trading-entry",
+    "module/trading-events",
+    "module/trading-listing-facts",
+    "module/trading-prune",
+    "module/trading-saved-search-bar",
+    "module/trading-saved-search-store",
+    "module/trading-saved-variables",
+    "module/trading-search-request-native",
+    "module/trading-sell-helper",
+    "module/trading-sell-price-store",
+    "module/trading-skip-kiosk-dialog",
+    "module/trading-trader-kiosk-info",
+    "module/trading-types",
   ],
   decisions: [
     {
@@ -227,13 +245,26 @@ export const temperAddonItems = {
       statement: "The rules are compiled outside the game and read here.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads a guild trader's listings.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A visit to the bank moves every item the rules send there, however many there are.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A visit to the bank moves every item the rules send there, however many there are.",
+        "A guild store search is run through the game's own search rather than a search of our own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A captured listing is dropped once the listing has aged past the expiry.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A search a player named is kept between sessions.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here buys or lists without the player saying so.",
     },
   ],
 } as const satisfies TemperAddon

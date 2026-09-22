@@ -550,6 +550,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.ts","id":"01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.ts","id":"01a06258-b530-7ef5-9ff0-40428a6c5232"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.ts","id":"01a0cc42-6b1f-7a05-9d38-4e7b21c6f9a0"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/trading-prune/trading-prune.module.ts","id":"01a06160-2a5b-7de7-92b4-c3276f6bde81"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/keybinder/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/keybinder/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
@@ -657,7 +658,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-tooltip/scrollable-menu-util-tooltip.module.ts","id":"01a06275-c44a-7df7-b767-4561076aeb19"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-visible/scrollable-menu-util-visible.module.ts","id":"01a06275-c44a-7e89-9fe5-5c2fe3ca230b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/temper-lib-scrollable-menu.temper-addon.ts","id":"01a06275-c44a-71b2-a8e1-108e1c1dfd4b"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/trading/modules/trading-prune/trading-prune.module.ts","id":"01a06160-2a5b-7de7-92b4-c3276f6bde81"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/leads-global-declarations/leads-global-declarations.type-declaration.ts","id":"01a06274-b08b-7d77-84f1-e4cc639b4458"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/leads-window-declarations/leads-window-declarations.type-declaration.ts","id":"01a06274-b08b-7ce4-9c42-df97b97f5da8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-global/leads-global.module.ts","id":"01a06274-b08a-7c2e-bec4-949ada692ff8"}

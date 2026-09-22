@@ -10,11 +10,11 @@
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-browse-window/trading-browse-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-entry/trading-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-browse-window/trading-browse-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar/filter-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/modules/movable-window/movable-window.module.code.ts"}

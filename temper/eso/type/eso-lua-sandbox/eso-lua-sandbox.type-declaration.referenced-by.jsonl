@@ -27,8 +27,8 @@
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/errors-addon-traceback/errors-addon-traceback.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-command/hud-addon-command.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-browse-window/trading-browse-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-entry/trading-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-browse-window/trading-browse-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/shared/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-enchant-quality/character-capture-enchant-quality.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.code.ts"}

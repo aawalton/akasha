@@ -2,8 +2,8 @@
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"command/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"}
-{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/addon/pages/trading/modules/trading-browse-engine/trading-browse-engine.module.code.ts"}
-{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/addon/pages/trading/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
+{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/addon/pages/items/modules/trading-browse-engine/trading-browse-engine.module.code.ts"}
+{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/command/modules/inventory-item-facts/inventory-item-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.test.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
