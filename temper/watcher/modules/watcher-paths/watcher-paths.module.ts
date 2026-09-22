@@ -4,7 +4,7 @@ export const watcherPaths = {
   id: "01a06039-9c88-7c60-8a8b-7f8e09b0553a",
   type: "page-type/module",
   slug: "watcher-paths",
-  definition: "the directories the temper watcher keeps its log and its state in",
+  definition: "the directories holding the temper watcher's log and state",
   code: "ts",
   test: "ts",
   decisions: [

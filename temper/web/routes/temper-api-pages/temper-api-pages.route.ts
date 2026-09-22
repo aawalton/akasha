@@ -4,7 +4,7 @@ export const temperApiPages = {
   id: "01a0829a-13da-798a-a890-b765cf1dc3de",
   type: "page-type/route",
   slug: "temper-api-pages",
-  definition: "the pages of a type a browser asks for",
+  definition: "the pages of a type answered to a browser",
   code: "ts",
   urlPath: "api/pages/:pageTypeSlug",
   decisions: [
