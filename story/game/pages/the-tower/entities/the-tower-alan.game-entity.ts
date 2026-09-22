@@ -165,5 +165,6 @@ export const theTowerAlan = {
   pools: [
     { name: "hp", now: 121 },
     { name: "focus", now: 104 },
+    { name: "stamina", now: 48 },
   ],
 } as const satisfies GameEntity
