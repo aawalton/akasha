@@ -1,6 +1,5 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
-import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { voiceInferImage } from "akasha/infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts"
 import { voiceInfer } from "akasha/infrastructure/service/cluster/pages/voice-infer/voice-infer.service-cluster.ts"
@@ -13,9 +12,6 @@ const PART_OF = voiceInfer.namespace
 const MANAGED_BY = "bootstrap"
 
 const NODE = "node-02"
-
-const S3_CREDS_NAME = "voice-infer-s3-creds"
-const S3_CREDS_KEYS = ["access_key", "secret_key"]
 
 const SERVICE_NAME = voiceInfer.resourceName
 const PORT = voiceInfer.containerPort
@@ -51,12 +47,7 @@ function deploymentYaml(): string {
       strategy: { type: "Recreate" },
       selector: { matchLabels: SELECTOR_LABELS },
       template: {
-        metadata: {
-          labels: RESOURCE_LABELS,
-          annotations: {
-            "checksum/s3-creds": secretChecksum(NAMESPACE, S3_CREDS_NAME, S3_CREDS_KEYS),
-          },
-        },
+        metadata: { labels: RESOURCE_LABELS },
         spec: {
           nodeName: NODE,
           runtimeClassName: "nvidia",
@@ -67,23 +58,7 @@ function deploymentYaml(): string {
               image: refOf(voiceInferImage),
               imagePullPolicy: "Always",
               ports: [{ containerPort: PORT, protocol: "TCP" }],
-              env: [
-                { name: "VOICE_INFER_PORT", value: String(PORT) },
-                {
-                  name: "SEAWEEDFS_S3_ENDPOINT",
-                  value: "http://s3-gateway.seaweedfs.svc.cluster.local:8333",
-                },
-                { name: "SEAWEEDFS_BUCKET", value: "agent-sessions" },
-                { name: "SEAWEEDFS_REGION", value: "us-east-1" },
-                {
-                  name: "SEAWEEDFS_ACCESS_KEY",
-                  valueFrom: { secretKeyRef: { name: S3_CREDS_NAME, key: "access_key" } },
-                },
-                {
-                  name: "SEAWEEDFS_SECRET_KEY",
-                  valueFrom: { secretKeyRef: { name: S3_CREDS_NAME, key: "secret_key" } },
-                },
-              ],
+              env: [{ name: "VOICE_INFER_PORT", value: String(PORT) }],
               resources: {
                 requests: { cpu: "2", memory: "4Gi", "nvidia.com/gpu": "1" },
                 limits: { cpu: "4", memory: "4Gi", "nvidia.com/gpu": "1" },

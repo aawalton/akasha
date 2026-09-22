@@ -9,12 +9,8 @@ export const voiceInfer = {
   generatedDirectory: true,
   decisions: [
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The pod template carries the hash of the voice-infer-s3-creds secret.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The keys hashed from it are access_key and secret_key.",
+      decisionKind: "decision-kind/absence",
+      statement: "The workload writes no audio anywhere, and reaches no object store.",
     },
   ],
 } as const satisfies Manifest

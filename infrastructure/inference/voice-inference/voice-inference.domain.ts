@@ -10,9 +10,6 @@ export const voiceInference = {
     "manifest/voice-infer",
     "python-module/voice-infer-server",
     "python-module/voice-models",
-    "python-module/voice-object-store",
-    "python-module/voice-speech-hls",
-    "python-module/voice-speech-mp3",
   ],
   decisions: [
     {

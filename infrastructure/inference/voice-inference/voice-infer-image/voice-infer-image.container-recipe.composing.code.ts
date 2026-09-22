@@ -17,12 +17,6 @@ const SERVER = "voice-infer-server"
 
 const MODELS = "voice-models"
 
-const OBJECT_STORE = "voice-object-store"
-
-const SPEECH_MP3 = "voice-speech-mp3"
-
-const SPEECH_HLS = "voice-speech-hls"
-
 function copying(given: string | Reading, slug: string, into: string): string {
   const context = dirname(dirname(pageOf(given, RECIPE, OWN).path))
   const from = relative(context, besideOf(pageOf(given, MODULE, slug), PYTHON))
@@ -65,18 +59,15 @@ export function bodyIn(given: string | Reading): string {
     "    && rm -rf /var/lib/apt/lists/*",
     "",
     "# faster-whisper (STT), kokoro (TTS), soundfile (WAV IO), FastAPI + uvicorn (the",
-    "# serving surface), python-multipart (multipart/form-data upload), boto3 (SigV4",
-    "# S3 PUT of finished read-aloud MP3s to SeaweedFS — #15732 moved the MP3 encode",
-    "# off the web tier onto this pod, which now writes the rendition to the store",
-    "# itself). torch is NOT reinstalled — the base's proven 2.5.1+cu121 stays.",
+    "# serving surface), python-multipart (multipart/form-data upload). torch is NOT",
+    "# reinstalled — the base's proven 2.5.1+cu121 stays.",
     "RUN pip install --no-cache-dir \\",
     "    faster-whisper==1.1.0 \\",
     "    kokoro==0.9.4 \\",
     "    soundfile \\",
     "    fastapi \\",
     '    "uvicorn[standard]" \\',
-    "    python-multipart \\",
-    "    boto3",
+    "    python-multipart",
     "",
     "# Build-time smoke: prove torch 2.5.1+cu121 imports and is the exact proven build.",
     "# The GPU-less BuildKit builder cannot import CUDA, so model-load validation is",
@@ -86,13 +77,10 @@ export function bodyIn(given: string | Reading): string {
     "WORKDIR /app",
     "",
     "# Each module lands under the flat name its siblings import it by: server.py",
-    "# imports voice_inference, object_store, speech_mp3 and speech_hls as bare",
-    "# names, so copying a page's sidecar under its own name would fail at import.",
+    "# imports voice_inference as a bare name, so copying a page's sidecar under",
+    "# its own name would fail at import.",
     copying(given, SERVER, "/app/server.py"),
     copying(given, MODELS, "/app/voice_inference.py"),
-    copying(given, OBJECT_STORE, "/app/object_store.py"),
-    copying(given, SPEECH_MP3, "/app/speech_mp3.py"),
-    copying(given, SPEECH_HLS, "/app/speech_hls.py"),
     "",
     "ENV VOICE_INFER_PORT=8080",
     "",

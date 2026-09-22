@@ -30,6 +30,6 @@ test("the code composing the recipe spells none of the paths that recipe copies"
   expect(copiedFrom(bodyIn(ROOT)).filter((one) => own.includes(one))).toEqual([])
 })
 
-test("the recipe copies five paths out of this repository", () => {
-  expect(copiedFrom(bodyIn(ROOT))).toHaveLength(5)
+test("the recipe copies two paths out of this repository", () => {
+  expect(copiedFrom(bodyIn(ROOT))).toHaveLength(2)
 })

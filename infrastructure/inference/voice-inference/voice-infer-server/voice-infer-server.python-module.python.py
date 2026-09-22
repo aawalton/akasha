@@ -5,12 +5,6 @@ onto cuda at startup, then serves an OpenAI-compatible contract:
   - POST /v1/audio/transcriptions  (multipart WAV -> {"text": ...})
   - POST /v1/audio/speech          (JSON {"input","voice"} -> audio/wav bytes)
   - POST /v1/audio/speech/stream   (JSON {"segments","voice"} -> raw s16le PCM stream)
-  - POST /v1/audio/speech/mp3      (JSON {"segments","voice","key"} -> 202; renders +
-                                    SigV4-PUTs the finished MP3 to the object store)
-  - POST /v1/audio/speech/hls      (JSON {"segments","voice","playlistKey","segmentPrefix",
-                                    "mp3Key"} -> 202; renders the given segments as MP3
-                                    HLS segments + a growing EVENT m3u8, finalizes to a
-                                    VOD playlist + the canonical MP3 on clean completion)
   - GET  /health                   ({"status":"ok"} once both models resident)
 
 The three streaming/render endpoints accept an ORDERED SEGMENT ARRAY (`segments`)
@@ -35,11 +29,9 @@ the event loop does not introduce concurrent calls into the single-GPU models.
 
 MEASURED: int8-on-Pascal runs cleanly; float16 is NOT usable on sm_61.
 
-The two background render paths live beside this file: `speech_mp3.py` and
-`speech_hls.py`, each registering its own route on the shared `app`. What they
-share with the routes below — the models, the inference lock, the segment
-coercion, the audio formats — is in `voice_inference.py`, and the object-store
-PUTs they both write through are in `object_store.py`.
+What the routes below share — the models, the inference lock, the segment
+coercion, the audio formats — is in `voice_inference.py`. Nothing here writes
+audio anywhere; every route answers its caller with the bytes it made.
 """
 
 import io
@@ -52,8 +44,6 @@ from fastapi import File, UploadFile
 from fastapi.concurrency import run_in_threadpool
 from fastapi.responses import JSONResponse, Response, StreamingResponse
 
-import speech_hls
-import speech_mp3
 from voice_inference import (
     _INFER_LOCK,
     _STREAM_HEADERS,

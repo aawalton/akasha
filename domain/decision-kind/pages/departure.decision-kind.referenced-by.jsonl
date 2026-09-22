@@ -2705,7 +2705,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/record/inference-run-record.module.ts","id":"01a0685d-4b35-700f-9344-dd7d49bdb87d"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/services/inference-run-services.module.ts","id":"01a0685d-4b35-700e-a313-871e5b2440ad"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/store/inference-run-store.module.ts","id":"01a0685d-4b35-7014-819a-3402c8830118"}
-{"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-infer/voice-infer.manifest.ts","id":"01a0736f-e7a5-75ee-bda8-4298c8084c5b"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-inference.domain.ts","id":"01a06815-9efd-701e-a4d4-a26f49e97554"}
 {"propertySlug":"decision-kind","path":"infrastructure/infrastructure.domain.ts","id":"01a0658b-0f02-735b-af6a-28559398ee59"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/deploy-account/deploy-account.manifest.ts","id":"01a0a162-b114-7eb3-b2ed-f34d8ef02c1d"}
