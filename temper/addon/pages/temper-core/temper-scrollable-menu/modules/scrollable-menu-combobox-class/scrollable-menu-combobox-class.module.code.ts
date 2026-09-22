@@ -114,7 +114,7 @@ comboBoxClass.UpdateMetatable = function (
   }
 
   setmetatable(this, asObject(comboBoxClass))
-  ApplyTemplateToControl(comboBoxContainer, "LibScrollableMenu_ComboBox_Behavior")
+  ApplyTemplateToControl(comboBoxContainer, "TemperScrollableMenu_ComboBox_Behavior")
 
   lib.FireCallbacks("OnDropdownMenuAdded", this, options)
   if (libDebug.doDebug) {

@@ -69,7 +69,7 @@ comboBoxClass.SetupDropdownHeader = function (this: ComboBoxObject): undefined {
   const dropdownControl = asLsmDropdownHeaderHost(this.m_dropdownObject.control)
   ApplyTemplateToControl(
     asControl(dropdownControl),
-    "LibScrollableMenu_Dropdown_Template_WithHeader"
+    "TemperScrollableMenu_Dropdown_Template_WithHeader"
   )
 
   const options = this.GetOptions()

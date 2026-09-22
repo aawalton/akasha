@@ -59,7 +59,7 @@ export function getDefaultXMLTemplates(
 ): LuaMultiReturn<[Record<number, LsmTemplateData>, Record<number, Record<string, unknown>>]> {
   const defaultXMLTemplates: Record<number, LsmTemplateData> = {
     [TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_NORMAL]: {
-      template: "LibScrollableMenu_ComboBoxEntry",
+      template: "TemperScrollableMenu_ComboBoxEntry",
       rowHeight: ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
       setupFunc: function (
         this: void,
@@ -71,7 +71,7 @@ export function getDefaultXMLTemplates(
       },
     },
     [TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_SUBMENU]: {
-      template: "LibScrollableMenu_ComboBoxSubmenuEntry",
+      template: "TemperScrollableMenu_ComboBoxSubmenuEntry",
       rowHeight: ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
       widthPadding: ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
       setupFunc: function (
@@ -84,7 +84,7 @@ export function getDefaultXMLTemplates(
       },
     },
     [TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_DIVIDER]: {
-      template: "LibScrollableMenu_ComboBoxDividerEntry",
+      template: "TemperScrollableMenu_ComboBoxDividerEntry",
       rowHeight: ENTRY_TYPE_DEFAULTS.DIVIDER_ENTRY_HEIGHT,
       setupFunc: function (
         this: void,
@@ -96,7 +96,7 @@ export function getDefaultXMLTemplates(
       },
     },
     [TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER]: {
-      template: "LibScrollableMenu_ComboBoxHeaderEntry",
+      template: "TemperScrollableMenu_ComboBoxHeaderEntry",
       rowHeight: ENTRY_TYPE_DEFAULTS.HEADER_ENTRY_HEIGHT,
       setupFunc: function (
         this: void,
@@ -108,7 +108,7 @@ export function getDefaultXMLTemplates(
       },
     },
     [TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_CHECKBOX]: {
-      template: "LibScrollableMenu_ComboBoxCheckboxEntry",
+      template: "TemperScrollableMenu_ComboBoxCheckboxEntry",
       rowHeight: ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
       widthPadding: ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
       setupFunc: function (
@@ -121,7 +121,7 @@ export function getDefaultXMLTemplates(
       },
     },
     [TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_BUTTON]: {
-      template: "LibScrollableMenu_ComboBoxButtonEntry",
+      template: "TemperScrollableMenu_ComboBoxButtonEntry",
       rowHeight: ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
       widthPadding: ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
       setupFunc: function (
@@ -134,7 +134,7 @@ export function getDefaultXMLTemplates(
       },
     },
     [TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON]: {
-      template: "LibScrollableMenu_ComboBoxRadioButtonEntry",
+      template: "TemperScrollableMenu_ComboBoxRadioButtonEntry",
       rowHeight: ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
       widthPadding: ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
       setupFunc: function (
@@ -147,7 +147,7 @@ export function getDefaultXMLTemplates(
       },
     },
     [TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_EDITBOX]: {
-      template: "LibScrollableMenu_ComboBoxEditBoxEntry",
+      template: "TemperScrollableMenu_ComboBoxEditBoxEntry",
       rowHeight: ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
       widthPadding: ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
       setupFunc: function (
@@ -160,7 +160,7 @@ export function getDefaultXMLTemplates(
       },
     },
     [TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_SLIDER]: {
-      template: "LibScrollableMenu_ComboBoxSliderEntry",
+      template: "TemperScrollableMenu_ComboBoxSliderEntry",
       rowHeight: ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
       widthPadding: ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
       setupFunc: function (

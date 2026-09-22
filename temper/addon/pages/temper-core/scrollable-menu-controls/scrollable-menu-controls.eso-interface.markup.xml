@@ -8,13 +8,13 @@
 		<Backdrop name="TemperScrollableMenu_Highlight_Opaque" inherits="ZO_SelectionHighlight" virtual="true" blendMode="ADD" centerColor="0F0F0F" edgeColor="0F0F0F"/>
 
 		<!-- Divider | no icon no handlers -->
-		<Texture name="LibScrollableMenu_ComboBoxDividerEntry" inherits="ZO_BaseTooltipDivider" virtual="true">
+		<Texture name="TemperScrollableMenu_ComboBoxDividerEntry" inherits="ZO_BaseTooltipDivider" virtual="true">
 			<Dimensions y="6" />
 			<Anchor point="LEFT" offsetX="-0" offsetY="-2.5" />
 			<Anchor point="RIGHT" offsetX="0" offsetY="2.5" />
 		</Texture>
 
-		<!--Control name="LibScrollableMenu_ComboBoxDividerEntry" virtual="true">
+		<!--Control name="TemperScrollableMenu_ComboBoxDividerEntry" virtual="true">
 			<Dimensions y="6" />
 			<Controls>
 				<Texture name="$(parent)Divider" hidden="false" inherits="ZO_BaseTooltipDivider">
@@ -25,25 +25,25 @@
 		</Control-->
 
 		<!-- EditBox virtual templte -->
-		<Backdrop name="LibScrollableMenu_EditBackdrop" virtual="true">
+		<Backdrop name="TemperScrollableMenu_EditBackdrop" virtual="true">
             <Dimensions y="ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT"/>
             <Edge file="EsoUI/Art/ChatWindow/textEntry_edge.dds" edgeFileWidth="64" edgeFileHeight="8" />
             <Center file="EsoUI/Art/ChatWindow/textEntry_center.dds" />
             <Insets left="8" top="8" right="-8" bottom="-8" />
         </Backdrop>
 
-        <Backdrop name="LibScrollableMenu_SingleLineEditBackdrop_Keyboard" inherits="LibScrollableMenu_EditBackdrop" virtual="true">
+        <Backdrop name="TemperScrollableMenu_SingleLineEditBackdrop_Keyboard" inherits="TemperScrollableMenu_EditBackdrop" virtual="true">
             <OnInitialized>
                 ZO_SingleLineEditContainerSize_Keyboard_OnInitialized(self)
             </OnInitialized>
         </Backdrop>
-		<EditBox name="LibScrollableMenu_EditForBackdrop" inherits="ZO_DefaultEdit" font="ZoFontChat" virtual="true">
+		<EditBox name="TemperScrollableMenu_EditForBackdrop" inherits="ZO_DefaultEdit" font="ZoFontChat" virtual="true">
             <Anchor point="TOPLEFT" offsetX="ZO_SINGLE_LINE_EDIT_CONTAINER_PADDING_LEFT" offsetY="ZO_SINGLE_LINE_EDIT_CONTAINER_PADDING_TOP"/>
             <Anchor point="BOTTOMRIGHT" offsetX="-ZO_SINGLE_LINE_EDIT_CONTAINER_PADDING_RIGHT" offsetY="-ZO_SINGLE_LINE_EDIT_CONTAINER_PADDING_BOTTOM"/>
         </EditBox>
 
 		<!-- Slider virtual templte -->
-		<Slider name="LibScrollableMenu_Slider" mouseEnabled="true" orientation="HORIZONTAL" virtual="true">
+		<Slider name="TemperScrollableMenu_Slider" mouseEnabled="true" orientation="HORIZONTAL" virtual="true">
             <Dimensions x="150" y="16" />
             <ThumbTexture
                 textureFile="EsoUI/Art/Miscellaneous/scrollbox_elevator.dds"
@@ -59,7 +59,7 @@
 
 
 		<!-- Base row templates -->
-		<Control name="LibScrollableMenu_IconEntry_Template" virtual="true">
+		<Control name="TemperScrollableMenu_IconEntry_Template" virtual="true">
 			<Anchor point="LEFT" offsetX="8" offsetY="0" />
 			<Dimensions y="6" />
 			<Controls>
@@ -88,7 +88,7 @@
 			</Controls>
 		</Control>
 
-		<Control name="LibScrollableMenu_ComboBoxEntry_Behavior" level="3" mouseEnabled="true" virtual="true">
+		<Control name="TemperScrollableMenu_ComboBoxEntry_Behavior" level="3" mouseEnabled="true" virtual="true">
 			<OnMouseEnter> <!-- name="BaseHandler"-->
 				local dropdown = self.m_dropdownObject
 				if dropdown then
@@ -104,7 +104,7 @@
 			</OnMouseExit>
 			
 			<OnMouseUp>
---d("LibScrollableMenu_ComboBoxEntry_Behavior - OnMouseUp: " ..tostring(self.GetName and self:GetName()))
+--d("TemperScrollableMenu_ComboBoxEntry_Behavior - OnMouseUp: " ..tostring(self.GetName and self:GetName()))
 				local dropdown = self.m_dropdownObject
 				if dropdown then
 					dropdown:OnEntryMouseUp(self, button, upInside, false, ctrl, alt, shift)
@@ -112,7 +112,7 @@
 			</OnMouseUp>
 		</Control>
 
-		<Control name="LibScrollableMenu_ComboBoxEditBoxEntry_Behavior" level="3" mouseEnabled="true" virtual="true">
+		<Control name="TemperScrollableMenu_ComboBoxEditBoxEntry_Behavior" level="3" mouseEnabled="true" virtual="true">
 			<OnMouseEnter> <!-- name="BaseHandler"-->
 				local dropdown = self.m_dropdownObject
 				if dropdown then
@@ -135,7 +135,7 @@
 			</OnMouseUp>
 		</Control>
 
-		<Control name="LibScrollableMenu_ComboBoxSliderEntry_Behavior" level="3" mouseEnabled="true" virtual="true">
+		<Control name="TemperScrollableMenu_ComboBoxSliderEntry_Behavior" level="3" mouseEnabled="true" virtual="true">
 			<OnMouseEnter> <!-- name="BaseHandler"-->
 				local dropdown = self.m_dropdownObject
 				if dropdown then
@@ -161,7 +161,7 @@
 		<!-- Row templates -->
 
 		<!-- Header | no handlers-->
-		<Control name="LibScrollableMenu_ComboBoxHeaderEntry" inherits="LibScrollableMenu_IconEntry_Template" mouseEnabled="true" virtual="true">
+		<Control name="TemperScrollableMenu_ComboBoxHeaderEntry" inherits="TemperScrollableMenu_IconEntry_Template" mouseEnabled="true" virtual="true">
 			<Dimensions y="25" />
 			<OnInitialized>
 				self.isHeader = true
@@ -181,7 +181,7 @@
 		</Control>
 
 		<!-- Normal entry -->
-		<Control name="LibScrollableMenu_ComboBoxEntry" inherits="LibScrollableMenu_IconEntry_Template LibScrollableMenu_ComboBoxEntry_Behavior" mouseEnabled="true" virtual="true">
+		<Control name="TemperScrollableMenu_ComboBoxEntry" inherits="TemperScrollableMenu_IconEntry_Template TemperScrollableMenu_ComboBoxEntry_Behavior" mouseEnabled="true" virtual="true">
 			<Dimensions y="ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT" />
 			<OnInitialized>
 				<!-- Is this still needed? -->
@@ -197,7 +197,7 @@
 		</Control>
 
 		<!-- Button without clickSound="Click" in XML-->
-		<Button name="LibScrollableMenu_DefaultTextButton" font="ZoFontGame" verticalAlignment="CENTER" virtual="true">
+		<Button name="TemperScrollableMenu_DefaultTextButton" font="ZoFontGame" verticalAlignment="CENTER" virtual="true">
             <Dimensions x="128" y="26" />
             <PressedOffset x="1" y="1" />
 
@@ -211,7 +211,7 @@
 
 
 		<!-- Checkbox -->
-		<Control name="LibScrollableMenu_ComboBoxCheckboxEntry" inherits="LibScrollableMenu_ComboBoxEntry" mouseEnabled="true" virtual="true">
+		<Control name="TemperScrollableMenu_ComboBoxCheckboxEntry" inherits="TemperScrollableMenu_ComboBoxEntry" mouseEnabled="true" virtual="true">
 			<Dimensions y="25" />
 
 			<OnInitialized>
@@ -246,7 +246,7 @@
 		</Control>
 
 		<!-- RadioButton -->
-		<Control name="LibScrollableMenu_ComboBoxRadioButtonEntry" inherits="LibScrollableMenu_ComboBoxEntry" mouseEnabled="true" virtual="true">
+		<Control name="TemperScrollableMenu_ComboBoxRadioButtonEntry" inherits="TemperScrollableMenu_ComboBoxEntry" mouseEnabled="true" virtual="true">
 			<Dimensions y="25" />
 
 			<OnInitialized>
@@ -281,7 +281,7 @@
 		</Control>
 
 		<!-- Submenu -->
-		<Control name="LibScrollableMenu_ComboBoxSubmenuEntry" inherits="LibScrollableMenu_ComboBoxEntry" mouseEnabled="true" virtual="true">
+		<Control name="TemperScrollableMenu_ComboBoxSubmenuEntry" inherits="TemperScrollableMenu_ComboBoxEntry" mouseEnabled="true" virtual="true">
 			<OnInitialized>
 				<!-- Is this still needed? -->
 				self.selectable = true <!-- Denotes this is a selectable entry.   -->
@@ -300,7 +300,7 @@
 		</Control>
 
 		<!-- Button entry -->
-		<Button name="LibScrollableMenu_ComboBoxButtonEntry" inherits="LibScrollableMenu_ComboBoxEntry LibScrollableMenu_DefaultTextButton" mouseEnabled="true" virtual="true">
+		<Button name="TemperScrollableMenu_ComboBoxButtonEntry" inherits="TemperScrollableMenu_ComboBoxEntry TemperScrollableMenu_DefaultTextButton" mouseEnabled="true" virtual="true">
 			<Dimensions y="ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT" />
 			<OnInitialized>
 				self.isButton = true
@@ -317,7 +317,7 @@
 
 
 		<!-- EditBox entry -->
-		<Control name="LibScrollableMenu_ComboBoxEditBoxEntry" inherits="LibScrollableMenu_IconEntry_Template LibScrollableMenu_ComboBoxEditBoxEntry_Behavior" mouseEnabled="true" virtual="true">
+		<Control name="TemperScrollableMenu_ComboBoxEditBoxEntry" inherits="TemperScrollableMenu_IconEntry_Template TemperScrollableMenu_ComboBoxEditBoxEntry_Behavior" mouseEnabled="true" virtual="true">
 			<Dimensions y="ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT" />
 			<OnInitialized>
 				self.isEditBox = true
@@ -328,7 +328,7 @@
 					<DimensionConstraints x="5" maxX="75%" />
 					<Anchor point="TOPLEFT" relativeTo="$(parent)IconContainer" relativePoint="TOPRIGHT" offsetX="1" />
 				</Label>
-				<Backdrop name="$(parent)Edit" hidden="false" tier="HIGH" inherits="LibScrollableMenu_SingleLineEditBackdrop_Keyboard">
+				<Backdrop name="$(parent)Edit" hidden="false" tier="HIGH" inherits="TemperScrollableMenu_SingleLineEditBackdrop_Keyboard">
 					<OnInitialized>
 						self:GetParent().EditBox = self:GetNamedChild('Box')
 					</OnInitialized>
@@ -336,7 +336,7 @@
 					<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)" relativePoint="BOTTOMRIGHT" offsetX="-2"/>
 
 					<Controls>
-						<EditBox name="$(parent)Box" excludeFromResizeToFitExtents="true" inherits="LibScrollableMenu_EditForBackdrop" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" defaultText="">
+						<EditBox name="$(parent)Box" excludeFromResizeToFitExtents="true" inherits="TemperScrollableMenu_EditForBackdrop" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" defaultText="">
 							<OnTextChanged>
 								TemperScrollableMenu.XML.OnXMLControlEventHandler("OnEditBoxTextChanged", self, self)
 							</OnTextChanged>
@@ -348,7 +348,7 @@
 
 
 		<!-- Slider entry -->
-		<Control name="LibScrollableMenu_ComboBoxSliderEntry" inherits="LibScrollableMenu_IconEntry_Template LibScrollableMenu_ComboBoxSliderEntry_Behavior" mouseEnabled="true" virtual="true">
+		<Control name="TemperScrollableMenu_ComboBoxSliderEntry" inherits="TemperScrollableMenu_IconEntry_Template TemperScrollableMenu_ComboBoxSliderEntry_Behavior" mouseEnabled="true" virtual="true">
 			<Dimensions y="ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT" />
 			<OnInitialized>
 				self.isSlider = true
@@ -364,7 +364,7 @@
 					<Anchor point="TOPLEFT" relativeTo="$(parent)Label" relativePoint="TOPRIGHT" offsetX="4"/>
 					<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)" relativePoint="BOTTOMRIGHT" offsetX="-2"/>
 					<Controls>
-						<Slider name="$(parent)Slider" hidden="false" tier="HIGH" inherits="LibScrollableMenu_Slider">
+						<Slider name="$(parent)Slider" hidden="false" tier="HIGH" inherits="TemperScrollableMenu_Slider">
 							<OnInitialized>
 								self:GetParent():GetParent().Slider = self
 							</OnInitialized>
@@ -388,7 +388,7 @@
 			We give Scroll an offsetX to allow detection of on enter/exit. Otherwise, that detection is only done per rows
 		-->
 		<!-- The template used for initializing all dropdowns -->
-		<TopLevelControl name="LibScrollableMenu_Dropdown_Behavior" virtual="true">
+		<TopLevelControl name="TemperScrollableMenu_Dropdown_Behavior" virtual="true">
 			<OnEffectivelyHidden name="HideDropDown" >
 				<!-- Handler set normally in ZO_ComboBox:Initialize -->
 				local dropdownObject = self.object
@@ -420,7 +420,7 @@
 			</OnHide>
 		</TopLevelControl>
 		
-		<TopLevelControl name="LibScrollableMenu_Dropdown_Template" inherits="ZO_ComboBoxDropdown_Keyboard_Template LibScrollableMenu_Dropdown_Behavior" virtual="true">
+		<TopLevelControl name="TemperScrollableMenu_Dropdown_Template" inherits="ZO_ComboBoxDropdown_Keyboard_Template TemperScrollableMenu_Dropdown_Behavior" virtual="true">
 			<OnInitialized>
 				-- Overwritten to prevent original OnInitialized
 			</OnInitialized>
@@ -432,7 +432,7 @@
 			</Controls>
 		</TopLevelControl>
 		
-		<TopLevelControl name="LibScrollableMenu_Dropdown_Template_WithHeader" inherits="LibScrollableMenu_Dropdown_Behavior" virtual="true">
+		<TopLevelControl name="TemperScrollableMenu_Dropdown_Template_WithHeader" inherits="TemperScrollableMenu_Dropdown_Behavior" virtual="true">
 			<OnInitialized>
 			</OnInitialized>
 			<Controls>
@@ -502,7 +502,7 @@
 						<Control name="$(parent)DividerSimple" hidden="true">
 							<Dimensions y="16" />
 							<Controls>
-								<Texture name="$(parent)Divider" hidden="false" inherits="LibScrollableMenu_ComboBoxDividerEntry">
+								<Texture name="$(parent)Divider" hidden="false" inherits="TemperScrollableMenu_ComboBoxDividerEntry">
 									<Dimensions y="6" />
 									<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0"/>
 									<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="ZO_SCROLLABLE_COMBO_BOX_LIST_PADDING_Y" />
@@ -737,7 +737,7 @@
 		</TopLevelControl>
 		
 		<!-- ZO_ComboBox -->
-		<Control name="LibScrollableMenu_ComboBox_Behavior" virtual="true">
+		<Control name="TemperScrollableMenu_ComboBox_Behavior" virtual="true">
 			<OnMouseEnter name="Narrate">
 				if self.m_comboBox then
 					self.m_comboBox.m_dropdownObject:Narrate("OnComboBoxMouseEnter", self, nil, nil)
@@ -753,12 +753,12 @@
 
 		<!-- Scrollbar padding -->
 		<!-- used when scrollbar is hidden -->
-		<Control name="LibScrollableMenu_ScrollContents_BarHidden" virtual="true">
+		<Control name="TemperScrollableMenu_ScrollContents_BarHidden" virtual="true">
 			<Anchor point="TOPLEFT" />
 			<Anchor point="BOTTOMRIGHT" offsetX="-3"/>
 		</Control>
 		<!-- used when scrollbar is shown -->
-		<Control name="LibScrollableMenu_ScrollContents_BarShown" virtual="true">
+		<Control name="TemperScrollableMenu_ScrollContents_BarShown" virtual="true">
 			<Anchor point="TOPLEFT" />
 			<Anchor point="BOTTOMRIGHT" offsetX="-ZO_SCROLL_BAR_WIDTH" />
 		</Control>

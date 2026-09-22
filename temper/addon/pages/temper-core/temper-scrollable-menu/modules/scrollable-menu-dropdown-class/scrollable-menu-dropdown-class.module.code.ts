@@ -92,7 +92,7 @@ dropdownClass.Initialize = function (
     CreateControlFromVirtual(
       asControl(comboBoxContainer).GetName(),
       GuiRoot,
-      "LibScrollableMenu_Dropdown_Template",
+      "TemperScrollableMenu_Dropdown_Template",
       depth
     )
   )
@@ -240,7 +240,7 @@ dropdownClass.SetupScrollList = function (this: DropdownObject): undefined {
   const selfVar = this
   const entryHeightWithSpacing = ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT + asNumber(this.spacing)
 
-  let xmlTemplate = "LibScrollableMenu_ComboBoxEntry"
+  let xmlTemplate = "TemperScrollableMenu_ComboBoxEntry"
   let rowHeight = entryHeightWithSpacing
   let setupScrollableEntry = function (this: void, ...args: unknown[]): unknown {
     return asLsmCastSetupEntryThisUnknownAUnknownUnknown(selfVar).SetupEntry(...args)
@@ -272,14 +272,14 @@ dropdownClass.SetupScrollList = function (this: DropdownObject): undefined {
   ZO_ScrollList_AddDataType(
     asControl(scrollCtrl),
     DEFAULT_ENTRY_ID,
-    "LibScrollableMenu_ComboBoxEntry",
+    "TemperScrollableMenu_ComboBoxEntry",
     rowHeight,
     setupScrollableEntry
   )
   ZO_ScrollList_AddDataType(
     asControl(scrollCtrl),
     DEFAULT_LAST_ENTRY_ID,
-    "LibScrollableMenu_ComboBoxEntry",
+    "TemperScrollableMenu_ComboBoxEntry",
     ZO_COMBO_BOX_ENTRY_TEMPLATE_HEIGHT,
     setupScrollableEntry
   )
