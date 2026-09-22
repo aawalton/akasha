@@ -4,7 +4,7 @@ export const hook = {
   id: "01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f",
   type: "page-type/domain",
   slug: "hook",
-  definition: "code a session event runs",
+  definition: "code a Claude Code session event runs",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "hook" },
     { partOfSpeech: "part-of-speech/noun", spelling: "hooks" },
