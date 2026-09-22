@@ -57,8 +57,7 @@ export const temperCore = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The parts of the HUD the heads-up add-on hides are read from `temper-hud-components`.",
+      statement: "The parts of the HUD this add-on hides are read from `temper-hud-components`.",
     },
     {
       decisionKind: "decision-kind/departure",

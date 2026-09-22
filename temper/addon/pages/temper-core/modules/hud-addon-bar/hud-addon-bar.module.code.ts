@@ -31,7 +31,7 @@ let container: Control | undefined
 
 function makeLabel(id: string): LabelControl {
   if (container === undefined) {
-    throw new Error("TemperHud label created before the bar was built")
+    throw new Error("Temper HUD label created before the bar was built")
   }
   const label = WINDOW_MANAGER.CreateControl(`${LABEL_NAME_PREFIX}${id}`, container, CT_LABEL)
   label.SetFont("ZoFontWinT2")

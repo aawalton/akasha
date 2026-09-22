@@ -24,7 +24,7 @@ export function initializeSavedVariables(): HudSavedVariables {
 
 export function getSavedVariables(): HudSavedVariables {
   if (savedVarsInstance === undefined) {
-    throw new Error("TemperHud SavedVariables accessed before initialization")
+    throw new Error("TemperHud_SavedVariables accessed before initialization")
   }
   return savedVarsInstance
 }

@@ -19,7 +19,7 @@ const registry: HideRegistry = createHideRegistry()
 let initialized: boolean | undefined
 
 const PERFORMANCE_METER_ID = "performance-meter-fragment"
-const HIDE_REASON = "TemperHud"
+const HIDE_REASON = "Temper"
 
 const GLOBALS = _G as Record<string, unknown>
 
@@ -59,7 +59,7 @@ export function initializeComponentHiding(this: void): undefined {
   registry.apply()
 
   EVENT_MANAGER.RegisterForEvent(
-    "TemperHud_ComponentHiding_PlayerActivated",
+    "Temper_ComponentHiding_PlayerActivated",
     EVENT_PLAYER_ACTIVATED,
     function (this: void): undefined {
       registry.apply()
