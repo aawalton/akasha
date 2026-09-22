@@ -4,7 +4,7 @@ export const argumentRouting = {
   id: "01a0950b-0fcf-748a-ab25-7046edcbcf59",
   type: "page-type/module",
   slug: "argument-routing",
-  definition: "the argument naming the file another argument's value is read from",
+  definition: "the argument naming the file holding another argument's value",
   code: "ts",
   test: "ts",
   decisions: [

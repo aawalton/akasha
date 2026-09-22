@@ -5,7 +5,7 @@ export const derivation = {
   type: "page-type/file-property",
   slug: "derivation",
   propertySlug: "derivation",
-  definition: "the numbered lines a proof is worked out in",
+  definition: "a proof's numbered lines",
   extensions: ["txt"],
   types: "ts",
 } as const satisfies FileProperty

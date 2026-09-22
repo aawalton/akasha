@@ -4,7 +4,7 @@ export const seatTerminalOpenLine = {
   id: "01a09c58-2398-7392-b878-1c1491cab780",
   type: "page-type/module",
   slug: "seat-terminal-open-line",
-  definition: "the key opening a line in a seat's terminal, or ending the list that line sat in",
+  definition: "the key opening a line in a seat's terminal, or ending that line's list",
   code: "ts",
   test: "ts",
   decisions: [

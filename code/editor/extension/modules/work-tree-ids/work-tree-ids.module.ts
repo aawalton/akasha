@@ -4,7 +4,7 @@ export const workTreeIds = {
   id: "01a064c8-9a9c-7f08-a940-edc2c37c2024",
   type: "page-type/module",
   slug: "work-tree-ids",
-  definition: "the strings the editor knows the work tree's view and its commands by",
+  definition: "the editor's strings for the work tree's view and its commands",
   code: "ts",
   decisions: [
     {

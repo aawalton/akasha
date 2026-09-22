@@ -4,7 +4,7 @@ export const iosComponent = {
   id: "01a05472-ab84-78cc-8758-9f95622d1b04",
   type: "page-type/page-type",
   slug: "ios-component",
-  definition: "code an iOS app is built from",
+  definition: "code making up an iOS app",
   parts: [
     "code-file-property/swift",
     "ios-component/alanwalton-attribute-stoplights-widget",

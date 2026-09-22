@@ -4,7 +4,7 @@ export const shellClean = {
   id: "01a05991-d997-76f5-a619-6ddb7444c34f",
   type: "page-type/check-code",
   slug: "shell-clean",
-  definition: "the check refusing a change shellcheck finds fault in",
+  definition: "the check refusing a change shellcheck faults",
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,

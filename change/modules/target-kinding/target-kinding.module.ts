@@ -4,7 +4,7 @@ export const targetKinding = {
   id: "01a08251-3c27-7aaa-b035-a2345ee394a0",
   type: "page-type/module",
   slug: "target-kinding",
-  definition: "the change target subtype a path is under",
+  definition: "a path's change target subtype",
   code: "ts",
   test: "ts",
   decisions: [

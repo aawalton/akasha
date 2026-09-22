@@ -4,7 +4,7 @@ export const stylesheet = {
   id: "01a05b01-48b1-72b3-961d-f31190becdc7",
   type: "page-type/page-type",
   slug: "stylesheet",
-  definition: "the rules a browser dresses something by",
+  definition: "the rules dressing what a browser shows",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "stylesheet" }],
   parts: ["file-property/reached", "file-property/styles", "module/source-globbing"],
   extends: ["page-type/domain"],

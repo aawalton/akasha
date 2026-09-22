@@ -4,7 +4,7 @@ export const installLinking = {
   id: "01a09247-d31a-7256-813e-77eef6451d1b",
   type: "page-type/module",
   slug: "install-linking",
-  definition: "the file a page holds linked where that page says the file is reached from",
+  definition: "the file a page holds linked where that page says the file is reached",
   code: "ts",
   test: "ts",
   decisions: [

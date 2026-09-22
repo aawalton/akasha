@@ -5,7 +5,7 @@ export const profileName = {
   type: "page-type/text-property",
   slug: "profile-name",
   propertySlug: "profile-name",
-  definition: "the profile Apple signs a program against",
+  definition: "a program's signing profile from Apple",
   maxLength: 100,
   nameFormat: null,
   unique: "unique-kind/page-type",
