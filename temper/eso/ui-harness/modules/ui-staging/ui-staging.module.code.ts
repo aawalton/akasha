@@ -11,6 +11,8 @@ import {
 import type { UiHarness } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
 import { openUiHarness } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
 import {
+  declaredFrom,
+  declaredLua,
   virtualsFrom,
   virtualsLua,
 } from "akasha/temper/eso/ui-harness/modules/ui-virtuals/ui-virtuals.module.code.ts"
@@ -127,6 +129,7 @@ export type StagingAsked = {
   readonly root: string
   readonly addon: string
   readonly savedVariables: readonly string[]
+  readonly shows: readonly string[]
 }
 
 function documentsFor(root: string): readonly string[] {
@@ -161,11 +164,18 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     }
     seeded.push(readFileSync(at, "utf8"))
   }
-  const chunks = virtualsLua(virtualsFrom(documentsFor(asked.root)), PER_CHUNK)
+  const documents = documentsFor(asked.root)
+  const virtuals = virtualsFrom(documents)
+  const chunks = virtualsLua(virtuals, PER_CHUNK)
+  const declaring = declaredLua(declaredFrom(documents, virtuals), asked.shows, PER_CHUNK)
   const esoui = esouiSourceDir()
   const harness = await openUiHarness()
   try {
     const templates = await harness.templates(chunks)
+    for (const chunk of declaring) await harness.load(`return ${chunk}`)
+    for (const name of asked.shows) {
+      await harness.load(`return __ui_show(${JSON.stringify(name)})`)
+    }
     for (const rel of LOADED_FIRST) {
       await harness.load(readFileSync(join(esoui, rel), "utf8"))
     }

@@ -26,6 +26,7 @@ describe("uiWindowNamed", () => {
     expect(window?.addon).toBe("TemperItems")
     expect(window?.control).toBe("TemperItemsBrowser")
     expect(window?.savedVariables).toEqual(["TemperItems"])
+    expect(window?.shows).toContain("ZO_SharedRightPanelBackground")
     expect(window?.opens).toContain("toggleInventoryBrowser")
   })
 

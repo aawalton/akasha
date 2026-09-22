@@ -33,6 +33,15 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A window of the game's own that a caller names is built and shown before the addon.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A window of the game's own is built so an addon docking to it finds it there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A player's saved variables are seeded whole where the window asks for them.",
     },
     {

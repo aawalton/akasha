@@ -50,6 +50,18 @@ export const uiVirtuals = {
       statement: "The templates go over in batches, because one Lua chunk holds only so much.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A window a document declares outright is read apart from the templates.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A window declared outright takes what the templates that window inherits hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller names the windows to write out, because a document declares many.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No animation an interface document declares is read here.",
     },

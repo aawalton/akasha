@@ -22,9 +22,9 @@ function saidOfNoWindow(root: string, asked: string): string {
   const declared = windowsDeclaredIn(root).find((one) => one.toLowerCase() === asked.toLowerCase())
   if (declared !== undefined) {
     return (
-      `\`${declared}\` is declared outright by an interface document, and only the templates a` +
-      ` document says are virtual are built here, so that window is nowhere yet; the windows` +
-      ` here are ${here}`
+      `\`${declared}\` is declared by an interface document rather than opened by code, and` +
+      ` nothing here says what brings that window up, so it is nowhere yet; the windows here` +
+      ` are ${here}`
     )
   }
   return `\`${asked}\` is no window here; the windows here are ${here}`
@@ -43,6 +43,7 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
     root: given.root,
     addon: window.addon,
     savedVariables: window.savedVariables,
+    shows: window.shows,
   })
   try {
     await staged.harness.load(window.opens)

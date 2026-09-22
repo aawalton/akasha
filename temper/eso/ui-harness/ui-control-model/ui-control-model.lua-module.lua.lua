@@ -415,6 +415,24 @@ function _G.__ui_snapshot(name)
   return snapshotOf(control)
 end
 
+function _G.__ui_declare(given)
+  local count = 0
+  for name, spec in pairs(given) do
+    if named[name] == nil then
+      dress(birth(name, _G.GuiRoot, spec.controlType, nil), spec)
+      count = count + 1
+    end
+  end
+  return count
+end
+
+function _G.__ui_show(name)
+  local control = named[name]
+  if control == nil then return false end
+  control:SetHidden(false)
+  return true
+end
+
 function _G.__ui_virtuals(given)
   local count = 0
   for name, spec in pairs(given) do

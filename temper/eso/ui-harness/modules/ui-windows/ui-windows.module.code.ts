@@ -10,6 +10,7 @@ export type UiWindow = {
   readonly slug: string
   readonly addon: string
   readonly savedVariables: readonly string[]
+  readonly shows: readonly string[]
   readonly control: string
   readonly opens: string
 }
@@ -31,6 +32,7 @@ const WINDOWS: readonly UiWindow[] = [
     slug: "characters-window",
     addon: "TemperCharacters",
     savedVariables: ["TemperCharacters"],
+    shows: [],
     control: "TemperWindow",
     opens: `
       local saved = __bundle_require("${CHARACTERS_SAVED}")
@@ -43,6 +45,7 @@ const WINDOWS: readonly UiWindow[] = [
     slug: "inventory-browser",
     addon: "TemperItems",
     savedVariables: ["TemperItems"],
+    shows: ["ZO_SharedRightPanelBackground", "ZO_PlayerInventory"],
     control: "TemperItemsBrowser",
     opens: `
       local ref = __bundle_require("${ITEMS_REF}")

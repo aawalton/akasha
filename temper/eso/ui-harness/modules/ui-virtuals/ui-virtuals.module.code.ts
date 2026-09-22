@@ -297,6 +297,43 @@ export function virtualsLua(table: VirtualTable, perChunk: number): readonly str
   return chunks
 }
 
+export function declaredLua(
+  table: VirtualTable,
+  wanted: readonly string[],
+  perChunk: number
+): readonly string[] {
+  const names = wanted.filter((one) => table[one] !== undefined)
+  const chunks: string[] = []
+  for (let at = 0; at < names.length; at += perChunk) {
+    const written = names.slice(at, at + perChunk).flatMap((name) => {
+      const node = table[name]
+      return node === undefined ? [] : [`[${luaText(name)}] = ${luaNode(node)},`]
+    })
+    chunks.push(`__ui_declare({ ${written.join(" ")} })`)
+  }
+  return chunks
+}
+
+export function declaredFrom(documents: readonly string[], virtuals: VirtualTable): VirtualTable {
+  const parser = domParser()
+  const table: Record<string, VirtualNode> = {}
+  for (const text of documents) {
+    const doc = parser.parseFromString(text, "application/xml")
+    for (const element of doc.querySelectorAll("TopLevelControl")) {
+      if (element.getAttribute("virtual") === "true") continue
+      const name = element.getAttribute("name")
+      if (name === null || name === "") continue
+      let made = nodeOf(element)
+      for (const from of inheritedBy(element)) {
+        const base = virtuals[from]
+        if (base !== undefined) made = merged(base, made)
+      }
+      table[name] = made
+    }
+  }
+  return table
+}
+
 export function virtualsFrom(documents: readonly string[]): VirtualTable {
   const parser = domParser()
   const raw = new Map<string, VirtualNode>()

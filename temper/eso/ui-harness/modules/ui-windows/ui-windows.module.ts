@@ -22,8 +22,12 @@ export const uiWindows = {
       statement: "A window states every saved variable file opening that window reads.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A window states the game's own windows that window is shown beside.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
-      statement: "The harness builds only the control templates a document says are virtual.",
+      statement: "A window the game fills from the server is shown as the frame and nothing in it.",
     },
     {
       decisionKind: "decision-kind/departure",

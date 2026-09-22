@@ -116,5 +116,17 @@ export const uiControlModel = {
       decisionKind: "decision-kind/stopgap",
       statement: "Which controls those are is a list kept here rather than read from the game.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A window the game declares is built under the screen where a caller names it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name another control holds already is left alone rather than built twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller shows a control the game declares hidden by naming that control.",
+    },
   ],
 } as const satisfies LuaModule
