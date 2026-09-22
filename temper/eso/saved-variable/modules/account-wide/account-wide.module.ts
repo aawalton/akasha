@@ -4,7 +4,7 @@ export const accountWide = {
   id: "01a06053-3636-700a-9f99-a7c1b8442ab7",
   type: "page-type/module",
   slug: "account-wide",
-  definition: "the part of a saved-variables table every character on one account shares",
+  definition: "the part of a saved-variables table every character on an account shares",
   code: "ts",
   decisions: [
     {

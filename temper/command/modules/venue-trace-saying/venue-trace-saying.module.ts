@@ -4,7 +4,7 @@ export const venueTraceSaying = {
   id: "01a09b2e-baec-7b08-bcf7-07f61d70d416",
   type: "page-type/module",
   slug: "venue-trace-saying",
-  definition: "the lines one visit's timing trace is told in, whatever venue the visit was to",
+  definition: "the lines a visit's timing trace is told in, whatever venue the visit was to",
   code: "ts",
   decisions: [
     {

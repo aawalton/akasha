@@ -4,7 +4,7 @@ export const ruleFingerprint = {
   id: "01a06276-e3e7-7ec2-b97e-e6c2f4eafda8",
   type: "page-type/module",
   slug: "rule-fingerprint",
-  definition: "one string representing everything a rule matches on",
+  definition: "a string representing everything a rule matches on",
   code: "ts",
   decisions: [
     {

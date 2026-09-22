@@ -5,7 +5,7 @@ export const eligibilityPredicateComposer = {
   type: "page-type/module",
   slug: "eligibility-predicate-composer",
   definition:
-    "one test of whether a character suits a rule, made from every character condition it has",
+    "a test of whether a character suits a rule, made from every character condition it has",
   code: "ts",
   decisions: [
     {

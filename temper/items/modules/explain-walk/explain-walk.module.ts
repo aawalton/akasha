@@ -4,7 +4,7 @@ export const explainWalk = {
   id: "01a06036-188c-735e-bae8-be4f3d907a2f",
   type: "page-type/module",
   slug: "explain-walk",
-  definition: "the rules one item was walked through, written out as lines to read",
+  definition: "the rules an item was walked through, written out as lines to read",
   code: "ts",
   test: "ts",
   decisions: [

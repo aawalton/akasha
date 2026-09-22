@@ -5,7 +5,7 @@ export const checkResult = {
   type: "page-type/module",
   slug: "check-result",
   definition:
-    "the result kinds one condition checker may return, being the condition results plus skip",
+    "the result kinds a condition checker may return, being the condition results plus skip",
   code: "ts",
   test: "ts",
   decisions: [

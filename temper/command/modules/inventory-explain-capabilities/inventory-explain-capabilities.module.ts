@@ -4,7 +4,7 @@ export const inventoryExplainCapabilities = {
   id: "01a068f6-dee0-7da2-a584-f25c20a493a6",
   type: "page-type/module",
   slug: "inventory-explain-capabilities",
-  definition: "what explaining one item's rule walk is built from",
+  definition: "what explaining an item's rule walk is built from",
   code: "ts",
   test: "ts",
   decisions: [
