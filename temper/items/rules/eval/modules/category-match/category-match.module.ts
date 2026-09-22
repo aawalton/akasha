@@ -5,7 +5,7 @@ export const categoryMatch = {
   type: "page-type/module",
   slug: "category-match",
   definition:
-    "the answer to whether a compiled rule's category id appears in one item's category chain",
+    "the answer to whether a compiled rule's category id appears in an item's category chain",
   code: "ts",
   decisions: [
     {
