@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type Scored,
   scoresIn,
+  scoresShown,
 } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.code.ts"
 
 function rowOf(type: unknown, value: unknown): Scored {
@@ -64,4 +65,24 @@ test("the eight rows filed beside the tower player read as the sheet reads them"
 
 test("no row at all answers no score", () => {
   expect(scoresIn([])).toEqual({})
+})
+
+test("a read still outstanding with no score kept draws nothing at all", () => {
+  expect(scoresShown(null, {})).toBe(null)
+})
+
+test("a read still outstanding draws the scores the sheet kept", () => {
+  expect(scoresShown(null, { MIGHT: 14 })).toEqual({ MIGHT: 14 })
+})
+
+test("a read answering no score falls back to the scores the sheet kept", () => {
+  expect(scoresShown({}, { MIGHT: 14 })).toEqual({ MIGHT: 14 })
+})
+
+test("a read answering no score with nothing kept draws an empty sheet rather than nothing", () => {
+  expect(scoresShown({}, {})).toEqual({})
+})
+
+test("the scores filed beside the character are drawn over the scores the sheet kept", () => {
+  expect(scoresShown({ MIGHT: 20 }, { MIGHT: 14 })).toEqual({ MIGHT: 20 })
 })

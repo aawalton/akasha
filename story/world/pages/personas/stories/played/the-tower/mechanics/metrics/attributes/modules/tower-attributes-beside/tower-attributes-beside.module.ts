@@ -38,6 +38,15 @@ export const towerAttributesBeside = {
       statement: "A game naming no player of its own is answered no score.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A read still outstanding is answered apart from a read answering no score.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A panel holding no score of its own draws nothing while the read is still outstanding.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },

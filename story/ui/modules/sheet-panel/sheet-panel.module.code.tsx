@@ -21,7 +21,10 @@ import type {
   ClientSheet,
 } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import { useTowerAttunements } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.code.ts"
-import { useTowerAttributes } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.code.ts"
+import {
+  scoresShown,
+  useTowerAttributes,
+} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.code.ts"
 
 function Section({ title, children }: { title: string; children: React.ReactNode }) {
   return (
@@ -93,21 +96,20 @@ function ScalarRows({ record }: { record: Record<string, number | string> }) {
 }
 
 function StatsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefined }) {
-  const filed = useTowerAttributes(game)
-  const kept = sheet.attributes ?? {}
-  const attributes = Object.keys(filed).length > 0 ? filed : kept
+  const attributes = scoresShown(useTowerAttributes(game), sheet.attributes ?? {})
   const derived = sheet.derived ?? {}
-  const hasAttributes = Object.keys(attributes).length > 0
   const hasDerived = Object.keys(derived).length > 0
   return (
     <div className="flex flex-col gap-3">
-      <Section title="Attributes">
-        {hasAttributes ? (
-          <ScalarRows record={attributes} />
-        ) : (
-          <div className="font-mono text-[12px] text-tertiary">none yet</div>
-        )}
-      </Section>
+      {attributes !== null ? (
+        <Section title="Attributes">
+          {Object.keys(attributes).length > 0 ? (
+            <ScalarRows record={attributes} />
+          ) : (
+            <div className="font-mono text-[12px] text-tertiary">none yet</div>
+          )}
+        </Section>
+      ) : null}
       <Section title="Class">
         <div className="flex justify-between font-mono text-[12.5px]">
           <span className="text-tertiary">Class</span>

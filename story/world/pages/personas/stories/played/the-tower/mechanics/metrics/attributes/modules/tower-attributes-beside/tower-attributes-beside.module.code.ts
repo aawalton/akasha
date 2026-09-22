@@ -54,12 +54,22 @@ async function readScores(game: string): Promise<Record<string, number>> {
   return scoresOf(slug)
 }
 
-export function useTowerAttributes(game: string | undefined): Record<string, number> {
+export function scoresShown(
+  filed: Record<string, number> | null,
+  kept: Record<string, number | string>
+): Record<string, number | string> | null {
+  if (filed === null) return Object.keys(kept).length > 0 ? kept : null
+  return Object.keys(filed).length > 0 ? filed : kept
+}
+
+export function useTowerAttributes(game: string | undefined): Record<string, number> | null {
   const asked = game ?? ""
-  const [scores, setScores] = useState<Record<string, number>>(NO_SCORES)
+  const [scores, setScores] = useState<Record<string, number> | null>(
+    asked === "" ? NO_SCORES : null
+  )
 
   useEffect(() => {
-    setScores(NO_SCORES)
+    setScores(asked === "" ? NO_SCORES : null)
     if (asked === "") return
     let alive = true
     void (async () => {
