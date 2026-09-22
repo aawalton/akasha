@@ -12,8 +12,8 @@ import {
   type Shaping,
   twiceIn,
 } from "akasha/check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { refusalText } from "akasha/check/modules/refusal-text/refusal-text.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import {
   numberAt,
   type Value,
@@ -30,7 +30,7 @@ export function computedKey(key: string, on: string): string {
 export function reasonsIn(
   value: Value,
   declared: readonly Carried[],
-  shadow: Shadow,
+  paged: Paged,
   named: string,
   formatting: Formatting,
   excused: ReadonlySet<string>
@@ -38,8 +38,8 @@ export function reasonsIn(
   const said: string[] = []
   const byKey = new Map(declared.map((one): readonly [string, Carried] => [one.key, one]))
   const pageFor = (one: Carried): Value | null =>
-    shadow.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
-  const fieldsIn = fieldsReading(shadow, pageFor)
+    paged.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
+  const fieldsIn = fieldsReading(paged, pageFor)
   for (const one of declared) {
     if (!one.required || one.uncommitted || one.secret || one.fixed !== undefined) continue
     if (one.pageTypeSlug === COMPUTED) continue
@@ -101,7 +101,7 @@ export function reasonsIn(
     }
     const opened = fieldsIn(one)
     const among = opened.among.length > 0
-    const shaped = opened.fields.size > 0 ? opened.fields : groupedFor(one, held, shadow)
+    const shaped = opened.fields.size > 0 ? opened.fields : groupedFor(one, held, paged)
     if (shaped.size === 0 && !among) continue
     for (const entry of listed ? held : [held]) {
       if (typeof entry !== "object" || entry === null || Array.isArray(entry)) {

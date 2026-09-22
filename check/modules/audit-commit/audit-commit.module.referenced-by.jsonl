@@ -72,6 +72,10 @@
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-unused-modules/modules/module-gathering/module-gathering.module.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-unused-modules/no-unused-modules.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-unused-modules/no-unused-modules.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/page-matches-its-type/page-matches-its-type.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/page-matches-its-type/page-matches-its-type.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/page-named-as-stated/page-named-as-stated.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.decision.code.ts"}

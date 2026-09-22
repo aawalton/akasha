@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/folder-matches-a-shape/modules/plural-gathering/plural-gathering.module.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/identifier-matches-its-place/modules/place-reading/place-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/page-matches-its-type/page-matches-its-type.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}

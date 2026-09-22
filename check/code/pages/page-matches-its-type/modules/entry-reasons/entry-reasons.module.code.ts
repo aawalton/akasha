@@ -1,8 +1,8 @@
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { ENTRY_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { entriesIn } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import { partsReading } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
-import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import {
   numberAt,
   textAt,
@@ -73,9 +73,9 @@ export type Shaping = {
   readonly fieldsIn: Fielding
 }
 
-function fieldsFor(page: Value, shadow: Shadow, slug: string): ReadonlyMap<string, Carried> {
+function fieldsFor(page: Value, paged: Paged, slug: string): ReadonlyMap<string, Carried> {
   const found = new Map<string, Carried>()
-  for (const each of shadow.index.carriedIn(page, slug)) found.set(each.key, each)
+  for (const each of paged.index.carriedIn(page, slug)) found.set(each.key, each)
   return found
 }
 
@@ -91,7 +91,15 @@ export const COMPUTED = "computed-property"
 
 export const NOTHING_OPENED: Opened = { among: [], fields: NO_FIELDS, plain: true }
 
-const entriedIn = heldPerShadow((shadow: Shadow) => shadow.index.kindsUnder(ENTRY_PROPERTY))
+const ENTRIED = new WeakMap<Paged, ReadonlySet<string>>()
+
+function entriedIn(paged: Paged): ReadonlySet<string> {
+  const found = ENTRIED.get(paged)
+  if (found !== undefined) return found
+  const made = paged.index.kindsUnder(ENTRY_PROPERTY)
+  ENTRIED.set(paged, made)
+  return made
+}
 
 function memberNamesIn(page: Value): readonly string[] {
   const said = page[MEMBERS]
@@ -99,14 +107,14 @@ function memberNamesIn(page: Value): readonly string[] {
   return said.filter((one): one is string => typeof one === "string")
 }
 
-export function openedAmong(page: Value, shadow: Shadow): Opened {
+export function openedAmong(page: Value, paged: Paged): Opened {
   const among: ReadonlyMap<string, Carried>[] = []
   let plain = false
   for (const named of memberNamesIn(page)) {
     const address = addressIn(named)
     if (address.kind !== "qualified") continue
-    const member = shadow.index.pageAt(address.pageTypeSlug, address.slug)
-    const said = member === null ? NO_FIELDS : fieldsFor(member, shadow, address.slug)
+    const member = paged.index.pageAt(address.pageTypeSlug, address.slug)
+    const said = member === null ? NO_FIELDS : fieldsFor(member, paged, address.slug)
     if (said.size === 0) plain = true
     else among.push(said)
   }
@@ -146,14 +154,14 @@ export function noMemberIn(slug: string): string {
   )
 }
 
-export function fieldsReading(shadow: Shadow, pageFor: (one: Carried) => Value | null): Fielding {
-  const entried = entriedIn(shadow)
+export function fieldsReading(paged: Paged, pageFor: (one: Carried) => Value | null): Fielding {
+  const entried = entriedIn(paged)
   return (one) => {
     if (entried.has(one.pageTypeSlug)) return NOTHING_OPENED
     const page = pageFor(one)
     if (page === null) return NOTHING_OPENED
-    if (one.pageTypeSlug === ONE_OF) return openedAmong(page, shadow)
-    const fields = fieldsFor(page, shadow, one.pagePropertySlug)
+    if (one.pageTypeSlug === ONE_OF) return openedAmong(page, paged)
+    const fields = fieldsFor(page, paged, one.pagePropertySlug)
     return fields.size === 0 ? NOTHING_OPENED : { among: [], fields, plain: false }
   }
 }
@@ -167,12 +175,12 @@ export function noRecordIn(said: unknown, slug: string): string {
 export function groupedFor(
   one: Carried,
   held: unknown,
-  shadow: Shadow
+  paged: Paged
 ): ReadonlyMap<string, Carried> {
   if (typeof held !== "object" || held === null || Array.isArray(held)) return NO_FIELDS
-  const members = shadow.index.membersIfNamed(one.pageTypeSlug)
+  const members = paged.index.membersIfNamed(one.pageTypeSlug)
   if (members === null) return NO_FIELDS
-  const filed = shadow.index.fileKeysAt()
+  const filed = paged.index.fileKeysAt()
   const found = new Map<string, Carried>()
   for (const each of members) {
     if (filed.has(each.propertySlug)) continue
@@ -244,7 +252,7 @@ export function fieldsOf(
 
 function entryShapingFor(
   one: Carried,
-  shadow: Shadow,
+  paged: Paged,
   pageFor: (each: Carried) => Value | null,
   formatting: Formatting,
   fieldsIn: Fielding
@@ -252,7 +260,7 @@ function entryShapingFor(
   const page = pageFor(one)
   if (page === null) return null
   const slug = one.pagePropertySlug
-  const fields = fieldsFor(page, shadow, slug)
+  const fields = fieldsFor(page, paged, slug)
   if (fields.size === 0) return null
   return { fields, slug, pageFor, formatting, fieldsIn }
 }
@@ -270,21 +278,21 @@ function rowsJudged(rows: readonly Value[], shaping: Shaping, said: string[]): u
 export function entryReasonsIn(
   value: Value,
   declared: readonly Carried[],
-  shadow: Shadow,
+  paged: Paged,
   path: string,
   beside: (at: string) => string | null,
   formatting: Formatting
 ): readonly string[] {
   const said: string[] = []
   const pageFor = (one: Carried): Value | null =>
-    shadow.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
-  const fieldsIn = fieldsReading(shadow, pageFor)
-  const entried = entriedIn(shadow)
+    paged.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
+  const fieldsIn = fieldsReading(paged, pageFor)
+  const entried = entriedIn(paged)
   for (const one of declared) {
     if (!entried.has(one.pageTypeSlug)) continue
     const held = value[one.key]
     if (typeof held !== "string") continue
-    const shaping = entryShapingFor(one, shadow, pageFor, formatting, fieldsIn)
+    const shaping = entryShapingFor(one, paged, pageFor, formatting, fieldsIn)
     const found: string[] = []
     let refused: string | null = null
     for (const [at, text] of partsReading(path, one.propertySlug, held, beside)) {
