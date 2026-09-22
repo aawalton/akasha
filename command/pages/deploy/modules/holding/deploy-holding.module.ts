@@ -15,7 +15,7 @@ export const deployHolding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The hold sits under the folder every worktree of the checkout shares.",
+      statement: "The hold sits under the folder git keeps the checkout in.",
     },
     {
       decisionKind: "decision-kind/departure",
