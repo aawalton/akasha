@@ -34,8 +34,22 @@ export const engineGlobalsCatalogCapture = {
       statement: "One word the game will not save loses everything saved beside that word.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A word is saved with its quotes escaped, so saving takes more room than the word.",
+    },
+    {
       decisionKind: "decision-kind/departure",
-      statement: "A word too long to save is passed over, and the name it was held under is kept.",
+      statement:
+        "A word is kept only where that word is far enough under the ceiling to escape safely.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A word too long is passed over, and its name and its length are kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A number the saved file could not be read back with is passed over by name.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -5,21 +5,32 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const IN_CAPITALS = "^[A-Z][A-Z0-9_]*$"
 
-const TEXT_CEILING = 1999
+const TEXT_CEILING = 200
+
+const NOTHING = 0
+
+function writableNumber(held: number): boolean {
+  return held * NOTHING === NOTHING
+}
 
 function collectEngineGlobalsCatalog(this: void, onComplete: (this: void) => void): undefined {
   const numbers: Record<string, number> = {}
   const texts: Record<string, string> = {}
-  const tooLong: string[] = []
+  const tooLong: Record<string, number> = {}
+  const unwritable: string[] = []
   for (const name in _G) {
     const [shaped] = string.match(name, IN_CAPITALS)
     if (shaped === undefined) continue
     const held = _G[name]
     if (typeof held === "number") {
-      numbers[name] = held
+      if (writableNumber(held)) {
+        numbers[name] = held
+      } else {
+        unwritable[unwritable.length] = name
+      }
     } else if (typeof held === "string") {
       if (held.length > TEXT_CEILING) {
-        tooLong[tooLong.length] = name
+        tooLong[name] = held.length
       } else {
         texts[name] = held
       }
@@ -30,6 +41,7 @@ function collectEngineGlobalsCatalog(this: void, onComplete: (this: void) => voi
     numbers,
     texts,
     tooLong,
+    unwritable,
   }
   onComplete()
 }
