@@ -4,7 +4,7 @@ export const emailMessageShow = {
   id: "01a06810-cf11-79cf-8583-56ab486a6b70",
   type: "page-type/command",
   slug: "email-message-show",
-  definition: "the command fetching one Gmail message whole, its plain-text body decoded",
+  definition: "the command fetching a Gmail message whole, its plain-text body decoded",
   code: "ts",
   test: "ts",
 

@@ -5,7 +5,7 @@ export const changeCeiling = {
   type: "page-type/module",
   slug: "change-ceiling",
   definition:
-    "the processor seconds and the megabytes one change is allowed, and what a change past them is told",
+    "the processor seconds and the megabytes a change is allowed, and what a change past them is told",
   code: "ts",
   test: "ts",
   decisions: [

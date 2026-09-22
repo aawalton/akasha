@@ -4,7 +4,7 @@ export const argument = {
   id: "01a093fd-9102-76e8-958e-03d34cd41e25",
   type: "page-type/page-type",
   slug: "argument",
-  definition: "one thing a command is told on the command line",
+  definition: "a thing a command is told on the command line",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "argument" },
     { partOfSpeech: "part-of-speech/noun", spelling: "arguments" },

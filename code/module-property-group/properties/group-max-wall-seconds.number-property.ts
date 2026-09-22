@@ -5,7 +5,7 @@ export const groupMaxWallSeconds = {
   type: "page-type/number-property",
   slug: "group-max-wall-seconds",
   propertySlug: "max-wall-seconds",
-  definition: "the most clock time one run of a group's code may take, in seconds",
+  definition: "the most clock time a run of a group's code may take, in seconds",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

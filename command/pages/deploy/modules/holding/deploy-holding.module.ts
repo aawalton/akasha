@@ -5,7 +5,7 @@ export const deployHolding = {
   type: "page-type/module",
   slug: "deploy-holding",
   definition:
-    "the hold one deploy takes over the thing it puts up, so no second deploy of that thing runs",
+    "the hold a deploy takes over the thing it puts up, so no second deploy of that thing runs",
   code: "ts",
   test: "ts",
   decisions: [

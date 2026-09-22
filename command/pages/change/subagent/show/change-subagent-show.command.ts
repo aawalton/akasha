@@ -4,7 +4,7 @@ export const changeSubagentShow = {
   id: "01a09c35-c330-7e3d-a291-b3fc8a455c70",
   type: "page-type/command",
   slug: "change-subagent-show",
-  definition: "the command answering whole the records a seat keeps at one path",
+  definition: "the command answering whole the records a seat keeps at a path",
   code: "ts",
   test: "ts",
   decisions: [

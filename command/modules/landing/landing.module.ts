@@ -5,7 +5,7 @@ export const landing = {
   type: "page-type/module",
   slug: "landing",
   definition:
-    "a change judged against one commit and then written and committed onto it, or refused whole",
+    "a change judged against a commit and then written and committed onto it, or refused whole",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

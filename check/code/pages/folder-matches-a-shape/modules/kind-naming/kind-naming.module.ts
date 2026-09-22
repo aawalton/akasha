@@ -4,7 +4,7 @@ export const kindNaming = {
   id: "01a0b7b1-69cc-7aad-8e0a-f9614f110824",
   type: "page-type/module",
   slug: "kind-naming",
-  definition: "how a folder's name is read as naming the page types one plural covers",
+  definition: "how a folder's name is read as naming the page types a plural covers",
   code: "ts",
   decisions: [
     {

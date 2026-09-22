@@ -4,7 +4,7 @@ export const appBuilding = {
   id: "01a059b8-3354-76d3-b596-b5329132b15d",
   type: "page-type/module",
   slug: "app-building",
-  definition: "what building one iOS app takes, read from that app's page",
+  definition: "what building an iOS app takes, read from that app's page",
   code: "ts",
   test: "ts",
   decisions: [
