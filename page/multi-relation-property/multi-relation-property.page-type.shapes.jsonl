@@ -5,6 +5,7 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"ios-component","unique":null,"uniquePropertySlug":null,"slug":"components","propertySlug":"components","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"cover-images","propertySlug":"covers","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"service","unique":null,"uniquePropertySlug":null,"slug":"deploys-after","propertySlug":"deploys-after","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-scribing-source","unique":null,"uniquePropertySlug":null,"slug":"drop-sources","propertySlug":"drop-sources","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"graph-edge","unique":null,"uniquePropertySlug":null,"slug":"edges","propertySlug":"edges","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"game-entity","unique":null,"uniquePropertySlug":null,"slug":"encounter-entities","propertySlug":"entities","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"eso-interface","unique":null,"uniquePropertySlug":null,"slug":"eso-interfaces","propertySlug":"interfaces","fileName":null,"folderName":null}

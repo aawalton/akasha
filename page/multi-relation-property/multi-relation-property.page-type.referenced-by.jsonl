@@ -33,6 +33,7 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/game/properties/game-panels.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/addon/properties/eso-interfaces.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/addon/properties/lua-modules.multi-relation-property.ts"}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-motif-style/properties/drop-sources.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/character-roles.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/player/character/temper-companion-progress/properties/companion-roles.multi-relation-property.ts"}

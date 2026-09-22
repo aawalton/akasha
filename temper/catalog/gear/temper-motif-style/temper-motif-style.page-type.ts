@@ -8,13 +8,18 @@ export const temperMotifStyle = {
   extends: ["page-type/temper-catalog-thing"],
   parts: [
     "number-property/collection-index",
-    "text-property/drop-sources",
+    "multi-relation-property/drop-sources",
     "text-property/source-description",
   ],
   properties: [
     { pageProperty: "number-property/collection-index", required: true, many: false },
     { pageProperty: "text-property/source-description", required: true, many: false },
-    { pageProperty: "text-property/drop-sources", required: false, many: true, maxCount: null },
+    {
+      pageProperty: "multi-relation-property/drop-sources",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   types: "ts",
   schema: "jsonl",
