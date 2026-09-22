@@ -27,7 +27,7 @@ function checkOptionalLibraries(this: void): undefined {
   lib.customMenu = TemperCustomMenu
   lib.libAddonMenu = TemperAddonMenu
   lib.libSlashCommander = asGlobalTable(globalThis).LibSlashCommander
-  lib.libZone = asGlobalTable(globalThis).LibZone
+  lib.zoneLibrary = asGlobalTable(globalThis).TemperItemsCraftingZones
 }
 lib.CheckOptionalLibraries = checkOptionalLibraries
 

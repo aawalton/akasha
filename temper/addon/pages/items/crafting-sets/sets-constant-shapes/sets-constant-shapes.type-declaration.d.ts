@@ -25,8 +25,8 @@ interface SetsMoreOptionsButton extends ButtonControl {
   tooltipAlign?: number
 }
 
-interface SetsDebugLibZone {
-  GetAllZoneData?: (this: SetsDebugLibZone) => { [lang: string]: { [zoneId: number]: string } }
+interface SetsDebugZoneLibrary {
+  GetAllZoneData?: (this: SetsDebugZoneLibrary) => { [lang: string]: { [zoneId: number]: string } }
   givenZoneData?: { [lang: string]: { [zoneId: number]: string } }
 }
 

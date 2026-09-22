@@ -18,7 +18,7 @@ export const setsDebugDebugScanData = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Map names in another language need LibZone loaded.",
+      statement: "Map names in another language need TemperItemsCraftingZones loaded.",
     },
   ],
 } as const satisfies Module

@@ -396,7 +396,7 @@ interface SetsApi {
   customMenu?: unknown
   libAddonMenu?: unknown
   libSlashCommander?: unknown
-  libZone?: unknown
+  zoneLibrary?: unknown
   CheckOptionalLibraries: (this: void) => void
   CheckScrollableMenu: (this: void) => boolean
 

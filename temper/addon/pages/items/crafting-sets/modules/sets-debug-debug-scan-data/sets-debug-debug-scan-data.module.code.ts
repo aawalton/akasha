@@ -4,8 +4,8 @@ import {
   asUnknownArray,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
-  asLibZoneOpt,
   asWayshrineSV,
+  asZoneLibraryOpt,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-debug-casts/sets-debug-casts.module.code.ts"
 import {
   clientLang,
@@ -201,10 +201,12 @@ function getMapNames(this: void, lang?: string): { [mapIndex: number]: string } 
   d(
     DEBUG_OUTPUT_START_LINE + libPrefixWithVersion + "GetMapNames, language: " + tostring(langToUse)
   )
-  const lz = asLibZoneOpt(lib.libZone)
+  const lz = asZoneLibraryOpt(lib.zoneLibrary)
   if (lz === undefined) {
     if (langToUse !== clientLang) {
-      d("ERROR: Library 'LibZone' must be loaded to get a zoneName in another language!")
+      d(
+        "ERROR: Library 'TemperItemsCraftingZones' must be loaded to get a zoneName in another language!"
+      )
       return undefined
     }
   }
@@ -217,12 +219,16 @@ function getMapNames(this: void, lang?: string): { [mapIndex: number]: string } 
       zoneIds = lz.givenZoneData
     }
     if (zoneIds === undefined) {
-      d("ERROR: Library 'LibZone' givenZoneData is missing!")
+      d("ERROR: Library 'TemperItemsCraftingZones' givenZoneData is missing!")
       return undefined
     }
     const localized = zoneIds[langToUse]
     if (localized === undefined) {
-      d('ERROR: Language "' + tostring(langToUse) + "\" is not scanned yet in library 'LibZone'")
+      d(
+        'ERROR: Language "' +
+          tostring(langToUse) +
+          "\" is not scanned yet in library 'TemperItemsCraftingZones'"
+      )
       return undefined
     }
     zoneIdsLocalized = localized
