@@ -5,7 +5,7 @@ export const lorebooksLibraryData00 = {
   type: "page-type/module",
   slug: "lorebooks-library-data-00",
   definition:
-    "a run of the Eidetic Memory collection table, in the order the whole table names them",
+    "a set of the Eidetic Memory collection table, in the order the whole table names them",
   code: "ts",
   decisions: [
     {
