@@ -15,5 +15,14 @@ export const innworldHome = {
       decisionKind: "decision-kind/departure",
       statement: "The credit names the author and links the author's own site.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The page types are drawn in the order and the headings the sidebar draws them in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type wears here the icon that page type wears in the sidebar.",
+    },
   ],
 } as const satisfies Route

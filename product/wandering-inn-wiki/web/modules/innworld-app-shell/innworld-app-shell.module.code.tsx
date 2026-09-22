@@ -101,40 +101,75 @@ const PLANNED: readonly (PlannedGroup | PlannedType)[] = [
   },
 ]
 
-function itemOf(planned: PlannedType, held: ShownType): AppNavItem {
-  const label = planned.label ?? held.name
-  return { id: held.slug, label, shortLabel: label, href: `/${held.slug}`, icon: planned.icon }
+export type Shelved = {
+  readonly held: ShownType
+  readonly label: string
+  readonly icon: LucideIcon
 }
 
-function takeOf(planned: PlannedType, left: Map<string, ShownType>): AppNavItem | null {
+export type Shelf =
+  | { readonly heading: null; readonly under: readonly Shelved[] }
+  | { readonly heading: string; readonly icon: LucideIcon; readonly under: readonly Shelved[] }
+
+function takeOf(planned: PlannedType, left: Map<string, ShownType>): Shelved | null {
   const held = left.get(planned.slug)
   if (held === undefined) return null
   left.delete(planned.slug)
-  return itemOf(planned, held)
+  return { held, label: planned.label ?? held.name, icon: planned.icon }
 }
 
-export function navItemsOf(shownTypes: readonly ShownType[]): readonly AppNavItem[] {
+export function shelvesOf(shownTypes: readonly ShownType[]): readonly Shelf[] {
   const left = new Map(shownTypes.map((one) => [one.slug, one]))
-  const items: AppNavItem[] = [HOME]
+  const shelves: Shelf[] = []
+  const loose: Shelved[] = []
+  const flush = () => {
+    if (loose.length === 0) return
+    shelves.push({ heading: null, under: [...loose] })
+    loose.length = 0
+  }
   for (const planned of PLANNED) {
     if ("group" in planned) {
       const under = planned.under
         .map((one) => takeOf(one, left))
-        .filter((one): one is AppNavItem => one !== null)
+        .filter((one): one is Shelved => one !== null)
       if (under.length === 0) continue
-      items.push({
-        id: planned.group,
-        label: planned.group,
-        shortLabel: planned.group,
-        icon: planned.icon,
-        children: under,
-      })
+      flush()
+      shelves.push({ heading: planned.group, icon: planned.icon, under })
       continue
     }
-    const item = takeOf(planned, left)
-    if (item !== null) items.push(item)
+    const alone = takeOf(planned, left)
+    if (alone !== null) loose.push(alone)
   }
-  for (const one of left.values()) items.push(itemOf({ slug: one.slug, icon: BookOpen }, one))
+  for (const one of left.values()) loose.push({ held: one, label: one.name, icon: BookOpen })
+  flush()
+  return shelves
+}
+
+function itemOf(one: Shelved): AppNavItem {
+  return {
+    id: one.held.slug,
+    label: one.label,
+    shortLabel: one.label,
+    href: `/${one.held.slug}`,
+    icon: one.icon,
+  }
+}
+
+export function navItemsOf(shownTypes: readonly ShownType[]): readonly AppNavItem[] {
+  const items: AppNavItem[] = [HOME]
+  for (const shelf of shelvesOf(shownTypes)) {
+    if (shelf.heading === null) {
+      for (const one of shelf.under) items.push(itemOf(one))
+      continue
+    }
+    items.push({
+      id: shelf.heading,
+      label: shelf.heading,
+      shortLabel: shelf.heading,
+      icon: shelf.icon,
+      children: shelf.under.map(itemOf),
+    })
+  }
   return items
 }
 
