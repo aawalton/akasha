@@ -4,7 +4,7 @@ export const propertyBadge = {
   id: "01a0620f-82c5-700f-bcd7-80f904364925",
   type: "page-type/module",
   slug: "property-badge",
-  definition: "the badge one property is shown as, drawn by the page type declaring it",
+  definition: "the badge a property is shown as, drawn by the page type declaring it",
   code: "tsx",
   decisions: [
     {

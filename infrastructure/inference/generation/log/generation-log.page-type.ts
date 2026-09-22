@@ -4,7 +4,7 @@ export const generationLog = {
   id: "01a01d18-306b-7000-9796-b41f285a1bad",
   type: "page-type/page-type",
   slug: "generation-log",
-  definition: "the record kept of what one set of model services has made",
+  definition: "the record kept of what a set of model services has made",
   extends: ["page-type/page"],
   parts: ["file-property/generation-runs"],
   properties: [{ pageProperty: "file-property/generation-runs", required: true, many: false }],

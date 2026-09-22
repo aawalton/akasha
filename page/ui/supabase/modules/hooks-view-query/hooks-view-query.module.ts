@@ -5,6 +5,6 @@ export const hooksViewQuery = {
   type: "page-type/module",
   slug: "hooks-view-query",
   definition:
-    "The rows one view asks for, read from the store and narrowed by the view's own filters.",
+    "The rows a view asks for, read from the store and narrowed by the view's own filters.",
   code: "ts",
 } as const satisfies Module

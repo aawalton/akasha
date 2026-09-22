@@ -4,7 +4,7 @@ export const servicePuttingUp = {
   id: "01a08cef-2ffd-70db-abdd-5cf7f3cfaf21",
   type: "page-type/module",
   slug: "service-putting-up",
-  definition: "every workstation service's units written from one pinned tree and asked of systemd",
+  definition: "every workstation service's units written from a pinned tree and asked of systemd",
   code: "ts",
   test: "ts",
   decisions: [

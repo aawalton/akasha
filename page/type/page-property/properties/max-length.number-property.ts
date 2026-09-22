@@ -5,7 +5,7 @@ export const maxLength = {
   type: "page-type/number-property",
   slug: "max-length",
   propertySlug: "max-length",
-  definition: "the most one value may run to, in characters",
+  definition: "the most a value may run to, in characters",
   max: null,
   decisions: [
     {

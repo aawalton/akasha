@@ -4,7 +4,7 @@ export const generationLog = {
   id: "01a0685d-4b35-7010-9103-1427f940275e",
   type: "page-type/module",
   slug: "generation-log",
-  definition: "the log a generation is recorded in, and the landing of one row beside it",
+  definition: "the log a generation is recorded in, and the landing of a row beside it",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const pageValueReading = {
   id: "01a076b5-96a3-7e49-a821-ec55720b1f74",
   type: "page-type/module",
   slug: "page-value-reading",
-  definition: "what one key of a page's value has, read off a value already in hand",
+  definition: "what a key of a page's value has, read off a value already in hand",
   code: "ts",
   decisions: [
     {

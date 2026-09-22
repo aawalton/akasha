@@ -4,7 +4,7 @@ export const devServerRecording = {
   id: "01a06583-0030-7005-bc8d-acc88730da21",
   type: "page-type/module",
   slug: "dev-server-recording",
-  definition: "one dev server said as a row, running or stopped",
+  definition: "a dev server said as a row, running or stopped",
   code: "ts",
   decisions: [
     {

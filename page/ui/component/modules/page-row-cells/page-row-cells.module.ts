@@ -4,7 +4,7 @@ export const pageRowCells = {
   id: "01a0a104-7afd-734b-8ebb-f7f7d03710d4",
   type: "page-type/module",
   slug: "page-row-cells",
-  definition: "the cells one page is shown as in a table, drawn by that page's own page type",
+  definition: "the cells a page is shown as in a table, drawn by that page's own page type",
   code: "tsx",
   decisions: [
     {

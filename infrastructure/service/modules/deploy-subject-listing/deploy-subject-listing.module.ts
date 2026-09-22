@@ -5,7 +5,7 @@ export const deploySubjectListing = {
   type: "page-type/module",
   slug: "deploy-subject-listing",
   definition:
-    "every thing of one kind a deploy could be run for, and what each states about being run",
+    "every thing of a kind a deploy could be run for, and what each states about being run",
   code: "ts",
   test: "ts",
   decisions: [
