@@ -12,7 +12,6 @@ import {
   VENDOR_ROOT,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const PAGE_TYPE = "page-type"
 

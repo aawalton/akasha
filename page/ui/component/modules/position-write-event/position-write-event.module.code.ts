@@ -1,5 +1,4 @@
 import { z } from "zod"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export const POSITION_WRITE_EVENT = "position-write"
 
