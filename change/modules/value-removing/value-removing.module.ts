@@ -25,7 +25,7 @@ export const valueRemoving = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A property that could not be read as required or not is refused.",
+      statement: "A property that could not be taken as required or not is refused.",
     },
     {
       decisionKind: "decision-kind/departure",

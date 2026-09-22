@@ -140,7 +140,7 @@ export const editsKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body beneath is read as bytes and decoded rather than read as characters.",
+      statement: "A body beneath is taken as bytes and decoded rather than as characters.",
     },
     {
       decisionKind: "decision-kind/departure",

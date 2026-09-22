@@ -10,7 +10,7 @@ export const targetKinding = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path under a page name is read as that page's own kind.",
+      statement: "A path under a page name is taken as that page's own kind.",
     },
     {
       decisionKind: "decision-kind/departure",

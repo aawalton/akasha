@@ -17,7 +17,7 @@ export const addPropertyToPages = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A line holding one word is refused rather than read as a path alone.",
+      statement: "A line holding one word is refused rather than taken as a path alone.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -45,7 +45,7 @@ export const importRepointing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A caller handing in both is read as having handed in the folder.",
+      statement: "A caller handing in both is taken as having handed in the folder.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -118,7 +118,7 @@ export const importRepointing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body that is not code is read as the runs of path characters that body holds.",
+      statement: "A body that is not code is taken as the runs of path characters that body holds.",
     },
     {
       decisionKind: "decision-kind/departure",

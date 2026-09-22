@@ -58,7 +58,7 @@ export const movePagesUnder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value listing one page is read as that page.",
+      statement: "A value listing one page is taken as that page.",
     },
     {
       decisionKind: "decision-kind/departure",

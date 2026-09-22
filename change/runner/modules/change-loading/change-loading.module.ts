@@ -59,7 +59,7 @@ export const changeLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The space at either end of what is piped in is not read as part of the flag.",
+      statement: "The space at either end of what is piped in is not taken as part of the flag.",
     },
     {
       decisionKind: "decision-kind/absence",

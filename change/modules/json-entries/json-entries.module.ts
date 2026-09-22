@@ -47,7 +47,7 @@ export const jsonEntries = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body a run went out of reads as JSON.",
+      statement: "A body a run went out of is taken as JSON.",
     },
     {
       decisionKind: "decision-kind/absence",
