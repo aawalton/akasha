@@ -11,7 +11,6 @@ export const claudeCode = {
     "domain/claude-code-tool",
     "module/claude-launch-args",
     "domain/claude-code-remote-control",
-    "domain/claude-code-remote-control-registration-account",
     "domain/claude-code-app",
   ],
 } as const satisfies Domain

@@ -3,8 +3,8 @@
 {"propertySlug":"part-of-speech","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/app/claude-code-app.domain.ts","id":"01a0ca92-e69a-7119-b0d8-cbe2aad57593"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/claude-code.domain.ts","id":"01a065b0-2100-7a41-9c02-3e5197d4b91f"}
-{"propertySlug":"part-of-speech","path":"agent/claude-code/remote-control-registration-account/claude-code-remote-control-registration-account.domain.ts","id":"01a0ca81-1571-7e92-8c72-1283dae8a068"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/remote-control/claude-code-remote-control.domain.ts","id":"01a09c78-e5b9-709e-bc75-2a6425da7d7b"}
+{"propertySlug":"part-of-speech","path":"agent/claude-code/remote-control/registration-account/claude-code-remote-control-registration-account.domain.ts","id":"01a0ca81-1571-7e92-8c72-1283dae8a068"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/session/claude-code-session.domain.ts","id":"01a0c9aa-9160-7910-b58e-7182271d836f"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/session/event/claude-code-session-event.domain.ts","id":"01a0c9d8-4cc0-7474-8d6d-18890c44e6a5"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/session/state/claude-code-session-state.domain.ts","id":"01a0ca0f-33c7-78f8-89c7-c79ecf784fac"}

@@ -13,5 +13,6 @@ export const claudeCodeRemoteControl = {
     "module/claude-code-remote-control-decide",
     "module/claude-code-remote-control-default",
     "module/claude-code-remote-control-env",
+    "domain/claude-code-remote-control-registration-account",
   ],
 } as const satisfies Domain
