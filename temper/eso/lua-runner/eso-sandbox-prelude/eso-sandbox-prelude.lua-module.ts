@@ -58,6 +58,11 @@ export const esoSandboxPrelude = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Loaded Lua naming the global table is handed this environment rather than the real one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A value seeded by the caller is read before any stub is made.",
     },
   ],

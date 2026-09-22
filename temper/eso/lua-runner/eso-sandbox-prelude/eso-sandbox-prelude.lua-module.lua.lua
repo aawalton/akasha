@@ -70,7 +70,7 @@ local function make_env()
       if numeric_fn_apis[key] then return num_fn end
       if multi_apis[key] then return multi_apis[key] end
       if numeric_constants[key] ~= nil then return numeric_constants[key] end
-      if key == "_G" then return _G end
+      if key == "_G" then return t end
       local real = _rawget(_G, key)
       if real ~= nil then return real end
       local made = make_stub()
