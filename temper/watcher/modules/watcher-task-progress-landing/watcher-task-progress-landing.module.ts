@@ -58,6 +58,10 @@ export const watcherTaskProgressLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A task naming a card measured by nothing is passed over without a word too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The reading counts the path each task names, whatever its card's picker offers.",
     },
     {

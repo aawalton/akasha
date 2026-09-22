@@ -41,7 +41,13 @@ const UNMEASURED_CARD_IDS: readonly string[] = [
   "active-quests",
   "inventory-management",
   "dungeon-sets",
+  "antiquity-leads-motifs",
+  "antiquity-leads-legendary",
 ]
+
+export function isUnmeasuredCard(cardId: string | undefined): boolean {
+  return cardId !== undefined && UNMEASURED_CARD_IDS.includes(cardId)
+}
 
 export function resolveTaskProgress(
   cardId: AnyCompletionCardId | null | undefined,

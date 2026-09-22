@@ -312,6 +312,24 @@ test("the path each task names is handed to the reading", () => {
   ).toEqual([{ cardId: "character-achievements", itemPath: ["Dragonhold", "Quests", "2612"] }])
 })
 
+test("a task naming a card measured by nothing is passed over without a word too", () => {
+  const said: string[] = []
+  putsFor(
+    [{ slug: "crafting-writs", completionCardId: "guild-sales" }],
+    INDEX,
+    PATHS,
+    [
+      { path: PAGE_PATH, content: PAGE },
+      { path: ROWS_PATH, content: null },
+    ],
+    (one) => {
+      said.push(one)
+    }
+  )
+
+  expect(said).toEqual([])
+})
+
 test("a task naming no card at all is passed over without a word", () => {
   const said: string[] = []
   putsFor(

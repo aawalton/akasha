@@ -17,6 +17,14 @@ export const completionCardTaskProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A card measured by nothing is named here, so a caller can tell it from a gap.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An antiquity lead is measured by nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A skill line a character cannot use is unmeasured for that character.",
     },
     {

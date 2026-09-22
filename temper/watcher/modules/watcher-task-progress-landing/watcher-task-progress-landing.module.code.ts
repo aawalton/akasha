@@ -11,6 +11,7 @@ import type {
   CharacterCompletion,
 } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { applyCompletionOverrides } from "akasha/temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts"
+import { isUnmeasuredCard } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts"
 import type { CompletionCharacterEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-next-character/completion-next-character.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override/completion-override.module.code.ts"
 import { parseCompletionOverrideRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
@@ -238,7 +239,9 @@ export function putsFor(
     const done = refreshedFor(task, index, contentIn(bodies, rowsPath) ?? "")
     if (done === null) {
       const key = pathKeyFor(task)
-      if (noting !== null && key !== null) noting(unworkedWhy(task.slug, key))
+      if (noting !== null && key !== null && !isUnmeasuredCard(task.completionCardId)) {
+        noting(unworkedWhy(task.slug, key))
+      }
       continue
     }
     const rows = bodyOfRows(done.rows)
