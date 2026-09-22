@@ -55,6 +55,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"check/code/properties/cache.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/audit-ast-unused/ast-unused-config/properties/curation.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/container-recipe/properties/recipe.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/data-table/properties/data-table-data.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/eso-interface/properties/markup.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/ios-app/properties/app-icon.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/ios-app/properties/capacitor-config.file-property.ts"}

@@ -236,6 +236,7 @@
 {"propertySlug":"decision-kind","path":"code/body/modules/utf8-body/utf8-body.module.ts","id":"01a06553-a9b5-76cc-b4e6-e4e42b4a0f0d"}
 {"propertySlug":"decision-kind","path":"code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.ts","id":"01a0c4c2-6b4e-70bb-908c-84ca9470f2e6"}
 {"propertySlug":"decision-kind","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
+{"propertySlug":"decision-kind","path":"code/data-table/properties/data-table-data.file-property.ts","id":"01a0cac3-0af1-75bc-918f-6270451170de"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/command-server-client/command-server-client.module.ts","id":"01a064ea-f958-7000-98c8-4e49f2868f5f"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/command-server/command-server.module.ts","id":"01a06a05-bf7b-78ff-9bba-95684e31bba4"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/harness-call/harness-call.module.ts","id":"01a064f0-734d-7459-91b7-33e6eb60021d"}

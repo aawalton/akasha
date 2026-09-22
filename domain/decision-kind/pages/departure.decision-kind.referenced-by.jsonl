@@ -1676,6 +1676,7 @@
 {"propertySlug":"decision-kind","path":"code/container-recipe/container-recipe.page-type.ts","id":"01a06815-9efd-7003-8c8e-4c03b44672b2"}
 {"propertySlug":"decision-kind","path":"code/data-table/data-table.page-type.ts","id":"01a0c946-b6a1-7375-926b-b5d5111118d0"}
 {"propertySlug":"decision-kind","path":"code/data-table/properties/data-table-code.code-file-property.ts","id":"01a0c946-d9cf-7224-8be1-0a9e8e6dc563"}
+{"propertySlug":"decision-kind","path":"code/data-table/properties/data-table-data.file-property.ts","id":"01a0cac3-0af1-75bc-918f-6270451170de"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/activation/activation.module.ts","id":"01a064e4-627c-7eb1-ba44-da0dfc4df542"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/agent-forest/agent-forest.module.ts","id":"01a0686b-bfe9-798c-9d61-ea31258cd97c"}

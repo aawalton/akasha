@@ -6,9 +6,12 @@ export const dataTable = {
   slug: "data-table",
   definition: "a table of data a generator writes",
   pluralSlug: "modules",
-  parts: ["code-file-property/data-table-code"],
+  parts: ["code-file-property/data-table-code", "file-property/data-table-data"],
   extends: ["page-type/domain"],
-  properties: [{ pageProperty: "code-file-property/data-table-code", required: true, many: false }],
+  properties: [
+    { pageProperty: "code-file-property/data-table-code", required: false, many: false },
+    { pageProperty: "file-property/data-table-data", required: false, many: false },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -17,6 +20,14 @@ export const dataTable = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A data table's file is held to no byte ceiling.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A data table holds its table as code or as data, and a reader parses the data.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A table a compiler never reads is held as data rather than as code.",
     },
     {
       decisionKind: "decision-kind/departure",
