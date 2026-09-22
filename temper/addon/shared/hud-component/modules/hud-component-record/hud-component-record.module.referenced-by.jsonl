@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"hud-component-record.module.code.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"}
-{"propertySlug":"import","fileName":"hud-component-record.module.code.ts","path":"temper/addon/pages/hud/modules/hud-addon-hide-plan/hud-addon-hide-plan.module.code.ts"}
-{"propertySlug":"import","fileName":"hud-component-record.module.code.ts","path":"temper/addon/pages/hud/modules/hud-addon-hide-types/hud-addon-hide-types.module.code.ts"}
-{"propertySlug":"import","fileName":"hud-component-record.module.code.ts","path":"temper/addon/pages/hud/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"hud-component-record.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-plan/hud-addon-hide-plan.module.code.ts"}
+{"propertySlug":"import","fileName":"hud-component-record.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-types/hud-addon-hide-types.module.code.ts"}
+{"propertySlug":"import","fileName":"hud-component-record.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"hud-component-record.module.code.ts","path":"temper/addon/shared/hud-component/modules/hud-controls/hud-controls.module.code.ts"}
 {"propertySlug":"import","fileName":"hud-component-record.module.code.ts","path":"temper/addon/shared/hud-component/modules/hud-fragment-group/hud-fragment-group.module.code.ts"}
 {"propertySlug":"import","fileName":"hud-component-record.module.code.ts","path":"temper/addon/shared/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"}

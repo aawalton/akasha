@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/addon/pages/hud/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"}
 {"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-settings-panel/minimap-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.code.ts"}

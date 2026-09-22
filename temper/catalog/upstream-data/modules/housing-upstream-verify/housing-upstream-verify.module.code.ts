@@ -1,6 +1,6 @@
 import { join } from "node:path"
-import { EU_LIBRARY_DATA } from "akasha/temper/addon/pages/hud/temper-housing/modules/housing-library-data-eu/housing-library-data-eu.module.code.ts"
-import { NA_LIBRARY_DATA } from "akasha/temper/addon/pages/hud/temper-housing/modules/housing-library-data-na/housing-library-data-na.module.code.ts"
+import { EU_LIBRARY_DATA } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-library-data-eu/housing-library-data-eu.module.code.ts"
+import { NA_LIBRARY_DATA } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-library-data-na/housing-library-data-na.module.code.ts"
 import {
   gathered,
   ruledOverValues,

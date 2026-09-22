@@ -1,9 +1,9 @@
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/characters/modules/characters-entry/characters-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/hud/modules/hud-addon-entry/hud-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-entry/crafting-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-entry/hud-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/world/modules/world-entry/world-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/capture/writer/modules/capture-writer/capture-writer.module.code.ts"}
 {"propertySlug":"parts","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}

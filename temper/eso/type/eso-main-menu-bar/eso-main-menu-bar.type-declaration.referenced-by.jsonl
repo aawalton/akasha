@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"eso-main-menu-bar.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-mainmenu/fco-mainmenu.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-main-menu-bar.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-main-menu/modules/main-menu-casts/main-menu-casts.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-main-menu-bar.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-main-menu/modules/main-menu-library/main-menu-library.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-main-menu-bar.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-main-menu/modules/main-menu-scenes/main-menu-scenes.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-main-menu-bar.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-main-menu-bar.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-main-menu/modules/main-menu-shape/main-menu-shape.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-main-menu-bar.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-mainmenu/fco-mainmenu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-main-menu-bar.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-casts/main-menu-casts.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-main-menu-bar.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-library/main-menu-library.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-main-menu-bar.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-scenes/main-menu-scenes.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-main-menu-bar.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-main-menu-bar.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-shape/main-menu-shape.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

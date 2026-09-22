@@ -14,12 +14,6 @@
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-core-events/combat-core-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-fight/combat-lib-fight.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-timers/next-boss-timers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-group/fco-group.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-announcements/quiet-announcements.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-map-pins/quiet-map-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-armor-weapon-equip-class/sets-core-api-armor-weapon-equip-class.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-debug-debug-scan-data/sets-debug-debug-scan-data.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-helpers/sets-search-ui-shared-helpers.module.code.ts"}
@@ -46,6 +40,12 @@
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-events/modules/next-boss-timers/next-boss-timers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-group/fco-group.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-announcements/quiet-announcements.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-map-pins/quiet-map-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-map-adapter/gps-map-adapter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-update/map-data-update.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-hooks/destinations-pins-hooks.module.code.ts"}

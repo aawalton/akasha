@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-process-log-timings/combat-process-log-timings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-build-export/combat-ui-build-export.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-world/quiet-world.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-const-settypes/sets-const-settypes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-build/sets-search-ui-list-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-char-init/craft-char-init.module.code.ts"}
@@ -41,6 +40,7 @@
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-saved-variables/inventory-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-world/quiet-world.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-constants/leads-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-inventory-scan/map-pins-inventory-scan.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}

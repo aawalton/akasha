@@ -49,7 +49,7 @@ import {
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/pages/hud/temper-chat-message/chat-message-declarations/chat-message-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/temper-core/temper-chat-message/chat-message-declarations/chat-message-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"

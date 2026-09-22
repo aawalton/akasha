@@ -1,10 +1,10 @@
-{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-settings-menu/housing-settings-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-state-types/housing-state-types.module.code.ts"}
-{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-settings-dialogs/quiet-settings-dialogs.module.code.ts"}
-{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-settings-guilds/quiet-settings-guilds.module.code.ts"}
-{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-settings-messages/quiet-settings-messages.module.code.ts"}
-{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-settings-world/quiet-settings-world.module.code.ts"}
 {"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-mark-settings/writ-mark-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-settings-menu/housing-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-state-types/housing-state-types.module.code.ts"}
+{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-settings-dialogs/quiet-settings-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-settings-guilds/quiet-settings-guilds.module.code.ts"}
+{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-settings-messages/quiet-settings-messages.module.code.ts"}
+{"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-settings-world/quiet-settings-world.module.code.ts"}
 {"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"}
 {"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"dropdown.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-immersive-mode/lorebooks-immersive-mode.module.code.ts"}

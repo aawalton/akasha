@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-interaction-state/companion-qol-interaction-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-resources/combat-lib-resources.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-guild-history/fco-guild-history.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/price-dispatch/price-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-adapter/sales-history-adapter.module.code.ts"}
@@ -25,6 +24,7 @@
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/modules/sales-capture/sales-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-guild-history/fco-guild-history.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/currency-catalog-capture/currency-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-item-link/item-browser-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-ui-strings/item-browser-ui-strings.module.code.ts"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"eso-addon-manager.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-addon-manager.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-addon-manager/selector-addon-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-manager.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-queue/craft-queue.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-manager.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-selector/modules/selector-addon-manager/selector-addon-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-manager.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-manager.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-constants/lost-treasure-constants.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

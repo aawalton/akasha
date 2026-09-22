@@ -1,0 +1,28 @@
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+
+import { SAVED_VARIABLES_NAME } from "akasha/temper/addon/pages/temper-core/temper-events/modules/next-boss-constants/next-boss-constants.module.code.ts"
+import {
+  ICT,
+  type IctSavedVariables,
+} from "akasha/temper/addon/pages/temper-core/temper-events/modules/next-boss-state/next-boss-state.module.code.ts"
+
+const DEFAULTS: IctSavedVariables = {
+  timetable: true,
+  timetableTop: 0,
+  timetableLeft: 0,
+  eventtimers: false,
+  maptimers: true,
+  chatdebug: false,
+  ccw_cw: false,
+  saved_timers: {},
+}
+
+export function initializeSavedVariables(this: void): undefined {
+  ICT.savedVariables = ZO_SavedVars.NewAccountWide<IctSavedVariables>(
+    SAVED_VARIABLES_NAME,
+    1,
+    undefined,
+    DEFAULTS
+  )
+  return undefined
+}

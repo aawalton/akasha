@@ -11,14 +11,14 @@
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-live-refresh/combat-ui-live-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-widget-colorpicker/addon-menu-widget-colorpicker.module.code.ts"}
-{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/hud/temper-housing/modules/housing-init/housing-init.module.code.ts"}
-{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/items/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"}
+{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-colorpicker/addon-menu-widget-colorpicker.module.code.ts"}
+{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-init/housing-init.module.code.ts"}
+{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/world/quests/modules/quests-saved-variables/quests-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-strip/skill-morph-strip.module.code.ts"}

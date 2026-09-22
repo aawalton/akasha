@@ -1,0 +1,7 @@
+{"propertySlug":"import","fileName":"next-boss-constants.module.code.ts","path":"temper/addon/pages/temper-core/temper-events/modules/next-boss-events/next-boss-events.module.code.ts"}
+{"propertySlug":"import","fileName":"next-boss-constants.module.code.ts","path":"temper/addon/pages/temper-core/temper-events/modules/next-boss-gui/next-boss-gui.module.code.ts"}
+{"propertySlug":"import","fileName":"next-boss-constants.module.code.ts","path":"temper/addon/pages/temper-core/temper-events/modules/next-boss-init/next-boss-init.module.code.ts"}
+{"propertySlug":"import","fileName":"next-boss-constants.module.code.ts","path":"temper/addon/pages/temper-core/temper-events/modules/next-boss-saved-variables/next-boss-saved-variables.module.code.ts"}
+{"propertySlug":"import","fileName":"next-boss-constants.module.code.ts","path":"temper/addon/pages/temper-core/temper-events/modules/next-boss-state/next-boss-state.module.code.ts"}
+{"propertySlug":"import","fileName":"next-boss-constants.module.code.ts","path":"temper/addon/pages/temper-core/temper-events/modules/next-boss-timers/next-boss-timers.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/pages/temper-core/temper-events/temper-events.domain.ts","id":"01a0c707-922d-70f9-b966-db2fb4bd8cf7"}

@@ -11,8 +11,8 @@
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/characters/modules/companions-skills-panel/companions-skills-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/characters/modules/companions-summary-panel/companions-summary-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
-{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/hud/modules/hud-addon-bar/hud-addon-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
+{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-bar/hud-addon-bar.module.code.ts"}
 {"propertySlug":"parts","path":"design/interface/token/design-interface-token.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}

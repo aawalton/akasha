@@ -12,12 +12,6 @@
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-summary-panel/companions-summary-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-core-events/combat-core-events.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-events/modules/next-boss-gui/next-boss-gui.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-dialogs/fco-dialogs.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/fco-overall/fco-overall.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-map-pins/quiet-map-pins.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-interface/modules/quiet-world/quiet-world.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-nav/sets-core-api-nav.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-helpers/sets-core-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-debug-debug-scan-data/sets-debug-debug-scan-data.module.code.ts"}
@@ -67,6 +61,12 @@
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-skip-kiosk-dialog/trading-skip-kiosk-dialog.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-events/modules/next-boss-gui/next-boss-gui.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-dialogs/fco-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/fco-overall/fco-overall.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-map-pins/quiet-map-pins.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-world/quiet-world.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-api/gps-api.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-initialization/gps-initialization.module.code.ts"}

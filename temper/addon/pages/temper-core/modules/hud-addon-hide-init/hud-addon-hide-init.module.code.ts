@@ -1,0 +1,71 @@
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+
+import {
+  createHideRegistry,
+  type HideRegistry,
+} from "akasha/temper/addon/pages/temper-core/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"
+import {
+  migrateComponentVisibility,
+  readComponentVisible,
+  writeComponentVisible,
+} from "akasha/temper/addon/pages/temper-core/modules/hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts"
+import { HUD_SCENE_CATALOG } from "akasha/temper/addon/shared/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
+const registry: HideRegistry = createHideRegistry()
+let initialized: boolean | undefined
+
+const PERFORMANCE_METER_ID = "performance-meter-fragment"
+const HIDE_REASON = "TemperHud"
+
+const GLOBALS = _G as Record<string, unknown>
+
+export function defaultComponentVisible(this: void, id: string): boolean {
+  return id !== PERFORMANCE_METER_ID
+}
+
+export function isComponentVisible(this: void, id: string): boolean {
+  return readComponentVisible(id) ?? defaultComponentVisible(id)
+}
+
+export function getHideRegistry(this: void): HideRegistry {
+  return registry
+}
+
+export function setComponentVisiblePersistent(this: void, id: string, visible: boolean): undefined {
+  writeComponentVisible(id, visible)
+  registry.setHidden(id, !visible)
+  registry.applyOne(id)
+}
+
+export function initializeComponentHiding(this: void): undefined {
+  if (initialized === true) return
+  initialized = true
+
+  migrateComponentVisibility(HUD_SCENE_CATALOG.map((record) => record.id))
+
+  for (const record of HUD_SCENE_CATALOG) {
+    const esoGlobal = record.esoGlobal
+    registry.register({
+      id: record.id,
+      resolve: () => GLOBALS[esoGlobal],
+      reason: HIDE_REASON,
+    })
+    registry.setHidden(record.id, !isComponentVisible(record.id))
+  }
+  registry.apply()
+
+  EVENT_MANAGER.RegisterForEvent(
+    "TemperHud_ComponentHiding_PlayerActivated",
+    EVENT_PLAYER_ACTIVATED,
+    function (this: void): undefined {
+      registry.apply()
+    }
+  )
+  SCENE_MANAGER.GetScene("hud").RegisterCallback("StateChange", function (this: void): undefined {
+    registry.apply()
+  })
+}

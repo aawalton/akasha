@@ -52,10 +52,10 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/build/deploy-check/modules/cli-args/cli-args.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/build/modules/addon-sweeping/addon-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/build/resolve/modules/folder-ownership/folder-ownership.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/pages/hud/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-data/inventory-browser-data.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-filter/inventory-browser-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-locations/inventory-browser-locations.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-description-utils/companion-description-utils.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-effect-category/companion-effect-category.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.code.ts"}
