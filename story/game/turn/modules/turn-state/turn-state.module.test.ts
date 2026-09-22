@@ -1,0 +1,134 @@
+import { expect, test } from "bun:test"
+import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { GameStateSchema } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
+import { SystemWindowSchema } from "akasha/story/engine/core/modules/system-window-schema/system-window-schema.module.code.ts"
+import { gameAttribute } from "akasha/story/game/attribute/game-attribute.page-type.ts"
+import { luck } from "akasha/story/game/attribute/pages/luck.game-attribute.ts"
+import {
+  attributesIn,
+  beatsIn,
+  describedIn,
+  hudOf,
+  revealedOf,
+  stateOf,
+  windowOf,
+} from "akasha/story/game/turn/modules/turn-state/turn-state.module.code.ts"
+
+const LUCK = namedAs(gameAttribute.slug, luck.slug, null)
+
+const PLAYER = asPage({
+  id: "player",
+  title: "Alan",
+  icon: null,
+  slug: "the-tower-alan",
+  pageTypeId: "",
+  pageTypeSlug: "game-entity",
+  uniqueKey: null,
+  kind: "player",
+  level: 7,
+  attributes: [{ attribute: LUCK, score: 11 }],
+  skills: [{ name: "Smithing", progress: 1, effect: "metalwork" }],
+  affinities: [{ name: "Ember", type: "Ember / Heat", tier: "manipulation", counter: 7 }],
+  titles: [{ name: "Climber", effect: "climbs" }],
+  equipment: [
+    { name: "Burning Anger", slot: "weapon", attack: 10 },
+    { name: "Lantern", note: "lit" },
+  ],
+})
+
+const TURN = asPage({
+  id: "turn",
+  title: null,
+  icon: null,
+  slug: "the-tower-088",
+  pageTypeId: "",
+  pageTypeSlug: "game-turn",
+  uniqueKey: null,
+  number: 88,
+  pools: [
+    { name: "hp", now: 121, most: 124 },
+    { name: "focus", now: 104, most: 120, change: -6 },
+  ],
+  derived: [{ name: "Vitae (HP)", number: 124 }],
+  rungs: [{ name: "Smithing", rung: "Apprentice" }],
+  windows: [
+    { kind: "item-award", name: "Clouded lens", note: "Recovered from: the Host's seat" },
+    { kind: "skill", name: "Smithing", rung: "Apprentice" },
+    { kind: "level-up", level: 7 },
+  ],
+})
+
+test("the pools a turn left are keyed by name, and the most each held by name and Max", () => {
+  expect(hudOf(PLAYER, TURN)).toEqual({
+    level: 7,
+    pools: { hp: 121, focus: 104, hpMax: 124, focusMax: 120 },
+    delta: { focus: -6 },
+  })
+})
+
+test("an attribute is keyed by its page's slug in capitals", () => {
+  expect(attributesIn([{ attribute: LUCK, score: 11 }])).toEqual({ LUCK: 11 })
+})
+
+test("the sheet is the player's page, with the rungs and numbers the turn worked out", () => {
+  const sheet = revealedOf(PLAYER, TURN)
+  expect(sheet.name).toBe("Alan")
+  expect(sheet.level).toBe(7)
+  expect(sheet.skills?.[0]).toEqual({
+    name: "Smithing",
+    rung: "Apprentice",
+    score: 1,
+    note: "metalwork",
+  })
+  expect(sheet.affinities?.[0]).toEqual({ name: "Ember", value: 7, note: undefined })
+  expect(sheet.equipment).toEqual({ weapon: { name: "Burning Anger" } })
+  expect(sheet.inventory).toEqual([{ name: "Lantern", note: "lit" }])
+  expect(sheet.titles).toEqual(["Climber"])
+  expect(sheet.derived).toEqual({ "Vitae (HP)": 124 })
+})
+
+test("what an award was recovered from goes back to a label and a value", () => {
+  expect(describedIn("Recovered from: the Host's seat; plain")).toEqual([
+    { label: "Recovered from", value: "the Host's seat" },
+    { label: "", value: "plain" },
+  ])
+})
+
+test("every window goes back to the shape the log's reader accepts", () => {
+  for (const raised of [
+    { kind: "item-award", name: "Clouded lens", note: "Recovered from: the Host's seat" },
+    { kind: "skill", name: "Smithing", rung: "Apprentice" },
+    { kind: "level-up", level: 7 },
+    { kind: "affinity", name: "Force Affinity" },
+    { kind: "class", name: "Smith" },
+  ]) {
+    expect(SystemWindowSchema.safeParse(windowOf(raised)).success).toBe(true)
+  }
+  expect(windowOf({ name: "nothing" })).toBe(undefined)
+})
+
+test("every window every turn raised is a beat of the log", () => {
+  const beats = beatsIn([TURN])
+  expect(beats).toHaveLength(3)
+  expect(beats[0]).toEqual({
+    type: "system",
+    turn: 88,
+    window: {
+      type: "item-award",
+      award: {
+        item: "Clouded lens",
+        descriptors: [{ label: "Recovered from", value: "the Host's seat" }],
+      },
+    },
+  })
+})
+
+test("the state is the last turn with the player's sheet, and what the reader accepts", () => {
+  const state = stateOf([TURN], PLAYER)
+  expect(state?.turn).toBe(88)
+  expect(state?.revealed?.name).toBe("Alan")
+  expect(GameStateSchema.safeParse(state).success).toBe(true)
+  expect(stateOf([TURN], null)?.revealed).toBe(undefined)
+  expect(stateOf([], PLAYER)).toBe(null)
+})

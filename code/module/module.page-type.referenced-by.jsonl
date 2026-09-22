@@ -2572,6 +2572,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/panel/modules/panel-turning/panel-turning.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/panel/modules/pool-panel/pool-panel.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/turn/modules/turn-filing/turn-filing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/turn/modules/turn-state/turn-state.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/alert-controls/alert-controls.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/alert-notification/alert-notification.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/alert-sound/alert-sound.module.ts"}

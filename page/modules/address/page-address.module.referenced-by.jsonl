@@ -100,6 +100,8 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/modules/world-filing/world-filing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/panel/modules/panel-loading/panel-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/turn/modules/turn-filing/turn-filing.module.test.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/turn/modules/turn-state/turn-state.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/turn/modules/turn-state/turn-state.module.test.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx"}
