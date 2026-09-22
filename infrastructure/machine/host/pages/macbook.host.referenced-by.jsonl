@@ -1,1 +1,15 @@
+{"propertySlug":"import","fileName":"macbook.host.ts","path":"infrastructure/service/inference/modules/inference-reading/inference-reading.module.test.ts"}
+{"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/csm.service-inference.ts","id":"01a090a2-71a8-79b2-a532-b27c27e05122"}
+{"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/higgs-audio.service-inference.ts","id":"01a090a2-4671-73bf-9c7f-1581d427b5b9"}
+{"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/image-gen.service-inference.ts","id":"01a090a2-e6cb-721a-882d-350f1bbdcced"}
+{"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/kokoro.service-inference.ts","id":"01a090a2-5c24-724d-b01c-a733d03553e2"}
+{"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/mlx-vlm.service-inference.ts","id":"01a090a3-1740-747a-a45e-2af1a1123204"}
+{"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/moss-tts.service-inference.ts","id":"01a090a1-e663-7f41-809c-ef0e35c0a233"}
+{"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/music-gen.service-inference.ts","id":"01a090a3-3343-7623-808c-2d863b26130c"}
+{"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/ollama.service-inference.ts","id":"01a090a2-cd03-701a-8161-c9b80aff3edc"}
+{"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/qwen3-tts.service-inference.ts","id":"01a090a2-9e6d-7775-b13e-e20d48ca33a2"}
+{"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/segment-rembg.service-inference.ts","id":"01a090a2-fddd-7bf0-bfda-019b368cb78b"}
+{"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/traffic-cop.service-inference.ts","id":"01a090a3-49cd-77e0-94ee-65778e11afc4"}
+{"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/voxcpm2.service-inference.ts","id":"01a090a2-b487-7840-b3dd-d4aec75b2e38"}
+{"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/whisper-stt.service-inference.ts","id":"01a090a2-876d-7ca6-b85d-4fd1d602345f"}
 {"propertySlug":"parts","path":"infrastructure/machine/host/host.page-type.ts","id":"01a06590-e94f-7d6f-a415-867286e194a2"}

@@ -5,7 +5,7 @@ export const musicGen = {
   type: "page-type/service-inference",
   slug: "music-gen",
   definition: "the ACE-Step music model",
-  host: "macbook",
+  host: "host/macbook",
   provision: "shell-script/music-gen-provision",
   pythonVersion: "3.12",
   workdir: "ACE-Step-1.5",

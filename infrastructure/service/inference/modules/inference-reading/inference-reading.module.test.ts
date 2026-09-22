@@ -1,6 +1,8 @@
 import { expect, test } from "bun:test"
 import { shellScript } from "akasha/code/shell-script/shell-script.page-type.ts"
 import { mlxAudioProvision } from "akasha/infrastructure/inference/pool/mlx-audio-provision/mlx-audio-provision.shell-script.ts"
+import { host } from "akasha/infrastructure/machine/host/host.page-type.ts"
+import { macbook } from "akasha/infrastructure/machine/host/pages/macbook.host.ts"
 import {
   everyInference,
   folderOf,
@@ -14,7 +16,7 @@ const ROOT = process.cwd()
 const WHOLE = {
   pageTypeSlug: "inference-service",
   slug: "a-service",
-  host: "macbook",
+  host: `${host.slug}/${macbook.slug}`,
   provision: "mlx-audio-provision",
   pythonVersion: "3.12",
   workdir: ".",

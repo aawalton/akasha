@@ -5,7 +5,7 @@ export const trafficCop = {
   type: "page-type/service-inference",
   slug: "traffic-cop",
   definition: "the service settling which model is resident on the machine",
-  host: "macbook",
+  host: "host/macbook",
   provision: "shell-script/traffic-cop-provision",
   pythonVersion: "3.12",
   workdir: ".",

@@ -5,7 +5,7 @@ export const csm = {
   type: "page-type/service-inference",
   slug: "csm",
   definition: "the Sesame CSM voice model, served by mlx-audio",
-  host: "macbook",
+  host: "host/macbook",
   provision: "shell-script/mlx-audio-provision",
   pythonVersion: "3.12",
   workdir: ".",

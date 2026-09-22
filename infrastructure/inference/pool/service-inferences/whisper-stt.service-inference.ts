@@ -5,7 +5,7 @@ export const whisperStt = {
   type: "page-type/service-inference",
   slug: "whisper-stt",
   definition: "the Whisper speech-to-text model, served by mlx-audio",
-  host: "macbook",
+  host: "host/macbook",
   provision: "shell-script/mlx-audio-provision",
   pythonVersion: "3.12",
   workdir: ".",

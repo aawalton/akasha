@@ -5,7 +5,7 @@ export const qwen3Tts = {
   type: "page-type/service-inference",
   slug: "qwen3-tts",
   definition: "the Qwen3 voice model, served by mlx-audio",
-  host: "macbook",
+  host: "host/macbook",
   provision: "shell-script/mlx-audio-provision",
   pythonVersion: "3.12",
   workdir: ".",

@@ -5,7 +5,7 @@ export const mossTts = {
   type: "page-type/service-inference",
   slug: "moss-tts",
   definition: "the MOSS voice model, served by mlx-audio",
-  host: "macbook",
+  host: "host/macbook",
   provision: "shell-script/mlx-audio-provision",
   pythonVersion: "3.12",
   workdir: ".",

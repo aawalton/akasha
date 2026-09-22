@@ -5,7 +5,7 @@ export const segmentRembg = {
   type: "page-type/service-inference",
   slug: "segment-rembg",
   definition: "the model that cuts a subject out of a picture",
-  host: "macbook",
+  host: "host/macbook",
   provision: "shell-script/segment-rembg-provision",
   pythonVersion: "3.12",
   workdir: "src",

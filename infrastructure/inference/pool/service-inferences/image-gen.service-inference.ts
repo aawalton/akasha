@@ -5,7 +5,7 @@ export const imageGen = {
   type: "page-type/service-inference",
   slug: "image-gen",
   definition: "the Z-Image Turbo picture model, served by mlx-openai-server",
-  host: "macbook",
+  host: "host/macbook",
   provision: "shell-script/mlx-openai-server-provision",
   pythonVersion: "3.12",
   workdir: ".",

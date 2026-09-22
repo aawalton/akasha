@@ -5,7 +5,7 @@ export const mlxVlm = {
   type: "page-type/service-inference",
   slug: "mlx-vlm",
   definition: "the Qwen3-VL model that reads a picture, served by mlx-vlm",
-  host: "macbook",
+  host: "host/macbook",
   provision: "shell-script/mlx-vlm-provision",
   pythonVersion: "3.12",
   workdir: ".",

@@ -5,7 +5,7 @@ export const voxcpm2 = {
   type: "page-type/service-inference",
   slug: "voxcpm2",
   definition: "the VoxCPM2 voice model, served by mlx-audio",
-  host: "macbook",
+  host: "host/macbook",
   provision: "shell-script/mlx-audio-provision",
   pythonVersion: "3.12",
   workdir: ".",

@@ -5,7 +5,7 @@ export const ollama = {
   type: "page-type/service-inference",
   slug: "ollama",
   definition: "the models ollama serves",
-  host: "macbook",
+  host: "host/macbook",
   provision: "shell-script/ollama-provision",
   pythonVersion: "3.12",
   workdir: ".",

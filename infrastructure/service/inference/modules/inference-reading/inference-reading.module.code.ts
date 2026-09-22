@@ -6,6 +6,7 @@ import {
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
+  slugAt,
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -44,7 +45,7 @@ export function folderOf(root: string, named: string): string | null {
 
 export function inferenceIn(root: string, value: Value): Inference | string {
   const name = textAt(value, "slug")
-  const host = textAt(value, "host")
+  const host = slugAt(value, "host")
   const pythonVersion = textAt(value, "pythonVersion")
   const workdir = textAt(value, "workdir")
   const provision = textAt(value, "provision")

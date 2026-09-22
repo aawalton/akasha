@@ -50,7 +50,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.ts","id":"01a05b27-a75c-7fab-a630-6d98b13144e1"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.ts","id":"01a05af7-5996-7000-9cf8-b27923a0672b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/modules/workload-applying/workload-applying.module.ts","id":"01a08ce6-65f4-7bdd-adf3-0187b1b35936"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/inference/properties/inference-host.text-property.ts","id":"01a09094-7525-73c0-bc06-d3cdd15b053b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/inference/properties/lifecycle.text-property.ts","id":"01a09095-243b-7ce0-9a35-68fd9e450733"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/properties/systemd.record-property.ts","id":"01a05a3f-b42d-7f99-8339-43009bbd74bb"}
 {"propertySlug":"decision-kind","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}

@@ -32,7 +32,6 @@
 {"propertySlug":"name-format","path":"infrastructure/inference/generation/audio/properties/inference-service.text-property.ts","id":"01a0c643-2215-7ce1-8d2a-d4d652df29bf"}
 {"propertySlug":"name-format","path":"infrastructure/service/cluster/properties/namespace.text-property.ts","id":"01a05a41-58c4-75fd-a1fe-fc3595ae4a50"}
 {"propertySlug":"name-format","path":"infrastructure/service/cluster/properties/resource-name.text-property.ts","id":"01a05a41-58c5-7070-8223-2b245078d3b9"}
-{"propertySlug":"name-format","path":"infrastructure/service/inference/properties/inference-host.text-property.ts","id":"01a09094-7525-73c0-bc06-d3cdd15b053b"}
 {"propertySlug":"name-format","path":"infrastructure/service/inference/properties/lifecycle.text-property.ts","id":"01a09095-243b-7ce0-9a35-68fd9e450733"}
 {"propertySlug":"name-format","path":"infrastructure/service/web-app/properties/secret-resource.text-property.ts","id":"01a08cfa-dafb-7b31-884e-718e64f5308b"}
 {"propertySlug":"name-format","path":"page/action-button-property/properties/action-button-verb.text-property.ts","id":"01a0c5fb-5db6-7c79-af84-a877d7d23ada"}
