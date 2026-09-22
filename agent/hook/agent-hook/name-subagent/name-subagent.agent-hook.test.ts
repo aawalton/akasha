@@ -5,6 +5,7 @@ import {
   answerFor,
   calledWith,
   exporting,
+  judgedFor,
   SCOPE,
   spellable,
 } from "akasha/agent/hook/agent-hook/name-subagent/name-subagent.agent-hook.code.ts"
@@ -168,6 +169,16 @@ test("this hook refuses nothing, whatever it is handed", () => {
     expect(said.code).toBe(ASIDE)
     expect(said.err).toBe("")
   }
+})
+
+test("the judgement this hook exports names a subagent's call as a run of the hook does", () => {
+  const said = judgedFor(payloadOf({ agent_id: SUB }), SEATED)
+
+  expect(JSON.parse(said.out).hookSpecificOutput.updatedInput.command).toBe(exporting(UNDER, RUNS))
+})
+
+test("the judgement this hook exports leaves a seat's own call alone", () => {
+  expect(judgedFor(payloadOf({}), SEATED)).toEqual(LET_THROUGH)
 })
 
 test("the scope says what this reaches and what it does not", () => {

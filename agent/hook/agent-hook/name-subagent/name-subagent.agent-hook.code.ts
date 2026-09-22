@@ -95,11 +95,21 @@ export function calledWith(
   return { ...input, [RUNS]: exporting(acting, runs) }
 }
 
+export function judgedFor(
+  payload: Record<string, unknown>,
+  env: Readonly<Record<string, string | undefined>> = process.env
+): Answer {
+  try {
+    const call = calledWith(env, payload)
+    return call === null ? LET_THROUGH : rewriting(AT, call)
+  } catch {
+    return LET_THROUGH
+  }
+}
+
 export function answerFor(env: Readonly<Record<string, string | undefined>>, raw: string): Answer {
   const payload = payloadIn(raw)
-  if (payload === null) return LET_THROUGH
-  const call = calledWith(env, payload)
-  return call === null ? LET_THROUGH : rewriting(AT, call)
+  return payload === null ? LET_THROUGH : judgedFor(payload, env)
 }
 
 async function ranAsNaming(env: Readonly<Record<string, string | undefined>>): Promise<number> {
