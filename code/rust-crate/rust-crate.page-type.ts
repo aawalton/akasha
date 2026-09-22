@@ -9,13 +9,13 @@ export const rustCrate = {
     "code-file-property/cargo-build-script",
     "file-property/cargo-manifest",
     "file-property/crate-icon",
-    "relation-property/rust-modules",
+    "multi-relation-property/rust-modules",
   ],
   extends: ["page-type/domain"],
   properties: [
     { pageProperty: "file-property/cargo-manifest", required: true, many: false },
     {
-      pageProperty: "relation-property/rust-modules",
+      pageProperty: "multi-relation-property/rust-modules",
       required: false,
       many: true,
       maxCount: null,
