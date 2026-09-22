@@ -19,6 +19,15 @@ import {
 } from "akasha/command/modules/install-linking/install-linking.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { infrastructureProvisionedFileInstall as page } from "akasha/command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.ts"
+import {
+  answeringIn,
+  bodyAt,
+  type Entry,
+  entriesIn,
+  HOSTS_AT,
+  callsFor as hostCallsFor,
+  lineOf,
+} from "akasha/infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.code.ts"
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import {
   indexThere,
@@ -57,7 +66,7 @@ const READ_BY = "-c"
 
 const AT_MOST = 200
 
-const ALL_PLACED = "nothing\tevery provisioned file this places is already where its page says"
+const ALL_PLACED = "nothing\teverything this places is already where its page says"
 
 const NOT_PLACED = "plan\tnothing was placed; run it again without `--plan` to carry it out"
 
@@ -84,6 +93,17 @@ export type Standing = {
 
 export type Stood = {
   readonly standings: readonly Standing[]
+  readonly wrong: readonly string[]
+}
+
+export type Entering = {
+  readonly entry: Entry
+  readonly already: boolean
+  readonly saying: string
+}
+
+export type Entered = {
+  readonly enterings: readonly Entering[]
   readonly wrong: readonly string[]
 }
 
@@ -179,6 +199,36 @@ export function stoodFor(root: string, weighed: Weighing): Stood {
   return { standings, wrong }
 }
 
+function enteringOf(entry: Entry, body: string): Entering {
+  const held = answeringIn(body, entry.name)
+  if (held !== null && held !== entry.address) {
+    throw new Error(`${entry.name} is answered at ${held} there, and is left as it was`)
+  }
+  if (held !== null) {
+    return { entry, already: true, saying: `${HOSTS_AT} already answers ${lineOf(entry)}` }
+  }
+  return { entry, already: false, saying: `answer ${lineOf(entry)} in ${HOSTS_AT}` }
+}
+
+export function enteredFor(entries: readonly Entry[], body: string): Entered {
+  const enterings: Entering[] = []
+  const wrong: string[] = []
+  for (const entry of entries) {
+    try {
+      enterings.push(enteringOf(entry, body))
+    } catch (thrown) {
+      wrong.push(
+        `${entry.page} answers at ${entry.address}, and nothing was placed — ${whyOf(thrown)}`
+      )
+    }
+  }
+  return { enterings, wrong }
+}
+
+export function enteredIn(root: string, body: string = bodyAt()): Entered {
+  return enteredFor(entriesIn(root), body)
+}
+
 export function rootNeededAt(at: string): boolean {
   if ((process.getuid?.() ?? 0) === 0) return false
   let here = dirname(at)
@@ -232,7 +282,8 @@ export function placedEach(
   standings: readonly Standing[],
   run: Running,
   saying: Saying,
-  did: string[]
+  did: string[],
+  enterings: readonly Entering[] = []
 ): Done {
   const refused: string[] = []
   const took = (what: string, argv: readonly string[]): boolean => {
@@ -251,6 +302,13 @@ export function placedEach(
     const reload = one.placing.reload
     if (reload !== null && reload !== "" && !reloads.includes(reload)) reloads.push(reload)
   }
+  for (const one of enterings) {
+    const needs = rootNeededAt(HOSTS_AT)
+    saying(needs ? `${one.saying}, as root` : one.saying)
+    if (hostCallsFor(one.entry).every((argv) => took(one.saying, underRoot(needs, argv)))) {
+      did.push(`answered ${lineOf(one.entry)} in ${HOSTS_AT}`)
+    }
+  }
   for (const said of reloads) {
     saying(`run ${said}`)
     if (took(`ran ${said}`, [A_SHELL, READ_BY, said])) did.push(`ran ${said}`)
@@ -264,9 +322,10 @@ export function placedWith(
   standings: readonly Standing[],
   run: Running,
   saying: Saying,
-  done: string[]
+  done: string[],
+  enterings: readonly Entering[] = []
 ): Answer {
-  const held = placedEach(root, standings, run, saying, done)
+  const held = placedEach(root, standings, run, saying, done, enterings)
   const said = [...report, ...held.did.map((what) => `did\t${what}`)]
   if (held.refused.length > 0) return answeredWith(said, held.refused, OPERATIONAL)
   return told(said)
@@ -277,9 +336,12 @@ export function placedBy(
   report: readonly string[],
   standings: readonly Standing[],
   run: Running,
-  saying: Saying
+  saying: Saying,
+  enterings: readonly Entering[] = []
 ): Promise<Answer> {
-  return answering((done) => naming(done, placedWith(root, report, standings, run, saying, done)))
+  return answering((done) =>
+    naming(done, placedWith(root, report, standings, run, saying, done, enterings))
+  )
 }
 
 export async function infrastructureProvisionedFileInstall(
@@ -292,13 +354,17 @@ export async function infrastructureProvisionedFileInstall(
   if ("refused" in read) return mistaking(read.refused)
 
   const stood = stoodFor(given.root, weighedIn(given.root))
-  if (stood.wrong.length > 0) return answeredWith([], [...stood.wrong, NOTHING_PLACED], DATA)
+  const entered = enteredIn(given.root)
+  const wrong = [...stood.wrong, ...entered.wrong]
+  if (wrong.length > 0) return answeredWith([], [...wrong, NOTHING_PLACED], DATA)
 
-  const left = stood.standings.filter((one) => one.already).map((one) => `left\t${one.saying}`)
+  const held = [...stood.standings, ...entered.enterings]
+  const left = held.filter((one) => one.already).map((one) => `left\t${one.saying}`)
   const place = stood.standings.filter((one) => !one.already)
-  if (place.length === 0) return told([...left, ALL_PLACED])
+  const enter = entered.enterings.filter((one) => !one.already)
+  if (place.length === 0 && enter.length === 0) return told([...left, ALL_PLACED])
 
-  const report = [...left, ...place.map((one) => `place\t${one.saying}`)]
+  const report = [...left, ...[...place, ...enter].map((one) => `place\t${one.saying}`)]
   if (read.taken.plan) return told([...report, NOT_PLACED])
-  return await placedBy(given.root, report, place, run, saying)
+  return await placedBy(given.root, report, place, run, saying, enter)
 }

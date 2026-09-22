@@ -4,6 +4,7 @@ import { dirname, join } from "node:path"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   callsFor,
+  enteredFor,
   infrastructureProvisionedFileInstall,
   type Placing,
   placedEach,
@@ -15,6 +16,11 @@ import {
 } from "akasha/command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.code.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import {
+  type Entry,
+  HOSTS_AT,
+  lineOf,
+} from "akasha/infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.code.ts"
 import {
   aProperty,
   aType,
@@ -47,6 +53,10 @@ const CONTENT = "content"
 const BODY = "held/one.conf"
 
 const NOWHERE = "/etc/held.conf"
+
+const ENTRY: Entry = { page: "held/one.host.ts", name: "held.nowhere", address: "192.168.68.240" }
+
+const ELSEWHERE = "10.0.0.1"
 
 const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
 
@@ -292,6 +302,40 @@ test("root is asked for only where the folder the body goes in is not ours to wr
 
   expect(callsFor(held.root, one, false).every((argv) => argv[0] !== "sudo")).toBe(true)
   expect(callsFor(held.root, one, true).every((argv) => argv[0] === "sudo")).toBe(true)
+})
+
+test("a host page stating an address is answered at that address in the hosts file", () => {
+  const entered = enteredFor([ENTRY], "127.0.0.1 localhost\n")
+
+  expect(entered.wrong).toEqual([])
+  expect(entered.enterings[0]?.already).toBe(false)
+  expect(entered.enterings[0]?.saying).toContain(lineOf(ENTRY))
+})
+
+test("a name the hosts file already answers at that address is left alone", () => {
+  const entered = enteredFor([ENTRY], `${lineOf(ENTRY)}\n`)
+
+  expect(entered.enterings[0]?.already).toBe(true)
+  expect(entered.enterings[0]?.saying).toContain("already answers")
+})
+
+test("a name the hosts file answers at another address stops the call unplaced", () => {
+  const entered = enteredFor([ENTRY], `${ELSEWHERE} ${ENTRY.name}\n`)
+
+  expect(entered.enterings).toEqual([])
+  expect(entered.wrong.join("")).toContain(ELSEWHERE)
+})
+
+test("the line the hosts file wants is added, and no line already there is rewritten", () => {
+  const held = heldIn()
+  const said: string[][] = []
+  const did: string[] = []
+
+  placedEach(held.root, [], watching(said), quiet, did, enteredFor([ENTRY], "").enterings)
+
+  expect(did).toEqual([`answered ${lineOf(ENTRY)} in ${HOSTS_AT}`])
+  expect(said).toHaveLength(1)
+  expect(said[0]?.at(-1)).toBe(lineOf(ENTRY))
 })
 
 const GIVEN: Given = {

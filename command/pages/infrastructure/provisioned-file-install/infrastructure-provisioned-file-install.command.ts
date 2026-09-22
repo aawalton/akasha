@@ -4,7 +4,7 @@ export const infrastructureProvisionedFileInstall = {
   id: "01a0c970-2ed2-7e9e-ac4f-ae7fc7197eb7",
   type: "page-type/command",
   slug: "infrastructure-provisioned-file-install",
-  definition: "the command placing every provisioned file the landing has no rights to place",
+  definition: "the command placing what the landing has no rights to place",
   code: "ts",
   test: "ts",
   name: "provisioned-file-install",
@@ -64,6 +64,14 @@ export const infrastructureProvisionedFileInstall = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The running and the saying this does are handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A host page stating an address is answered at that address in the hosts file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name the hosts file answers at another address stops the call unplaced.",
     },
     {
       decisionKind: "decision-kind/absence",
