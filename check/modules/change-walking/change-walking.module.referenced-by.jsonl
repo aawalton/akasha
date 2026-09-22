@@ -62,7 +62,6 @@
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-color-literal/no-color-literal.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-color-literal/no-color-literal.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-enum-or-namespace/no-enum-or-namespace.check-code.check.code.ts"}
-{"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-global-in-a-module/no-global-in-a-module.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-global-in-a-module/no-global-in-a-module.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-import-cycle/no-import-cycle.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-import-cycle/no-import-cycle.check-code.check.code.ts"}
