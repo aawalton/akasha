@@ -84,6 +84,11 @@ export const graph = {
       statement:
         "Answering a closure for each page type is too slow for the code the indexes are built with.",
     },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
+    },
   ],
   directives: [
     {
