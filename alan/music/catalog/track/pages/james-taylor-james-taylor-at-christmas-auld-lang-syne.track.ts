@@ -4,6 +4,7 @@ export const jamesTaylorJamesTaylorAtChristmasAuldLangSyne = {
   id: "01a0abeb-2d9e-7492-a614-979e3002b0d0",
   type: "page-type/track",
   slug: "james-taylor-james-taylor-at-christmas-auld-lang-syne",
+  grade: "A",
   ownLength: 3.6126666666666667,
   ownProgress: 3.6126666666666667,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
