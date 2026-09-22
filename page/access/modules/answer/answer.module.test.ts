@@ -315,7 +315,7 @@ test("a narrow an access carries is asked of the pages rather than weighed after
   const asked: (Readonly<Record<string, unknown>> | undefined)[] = []
   const answered = await answerPages(new Request(AT), "readout", {
     readUser: async () => ({ user: null, headers: new Headers() }),
-    mayRead: async () => ({ permitted: true, narrows: [{ key: "appSlug", is: "requests" }] }),
+    mayRead: async () => ({ permitted: true, narrows: [{ key: "app", is: "web-app/one" }] }),
     ask: async (_pageTypeSlug, _limit, _keys, where) => {
       asked.push(where)
       return { rows: [], n: 0 }
@@ -324,7 +324,7 @@ test("a narrow an access carries is asked of the pages rather than weighed after
     definitionsFor: async () => [],
   })
   expect(answered.status).toBe(200)
-  expect(asked).toEqual([{ appSlug: { is: "requests" } }])
+  expect(asked).toEqual([{ app: { is: "web-app/one" } }])
 })
 
 test("an access stating no narrow asks the pages without one", async () => {
@@ -349,7 +349,7 @@ test("narrows disagreeing on the key refuse rather than widening", async () => {
       permitted: true,
       narrows: [
         { key: "world", is: "world/one" },
-        { key: "appSlug", is: "requests" },
+        { key: "app", is: "web-app/one" },
       ],
     }),
     ask: async () => ({ rows: [], n: 0 }),

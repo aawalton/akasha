@@ -107,7 +107,7 @@ test("narrows disagreeing on the key refuse rather than widening", () => {
   expect(
     askedNarrow([
       { key: "world", is: "world/one" },
-      { key: "appSlug", is: "requests" },
+      { key: "app", is: "web-app/one" },
     ])
   ).toBeNull()
   withNoGate()
