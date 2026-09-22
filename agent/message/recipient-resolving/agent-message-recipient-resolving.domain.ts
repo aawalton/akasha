@@ -4,7 +4,7 @@ export const agentMessageRecipientResolving = {
   id: "01a08857-a2cc-78af-ab64-4af2c5f058bf",
   type: "page-type/domain",
   slug: "agent-message-recipient-resolving",
-  definition: "who a message reaches",
+  definition: "how the recipient is decided",
   parts: [
     "module/keeper-unrevivable-push",
     "module/person-handlers",

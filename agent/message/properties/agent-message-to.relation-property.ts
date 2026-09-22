@@ -6,6 +6,20 @@ export const agentMessageTo = {
   slug: "agent-message-to",
   propertySlug: "to",
   definition: "the seat a message is addressed to",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "agent message recipient" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "agent message recipients" },
+    {
+      partOfSpeech: "part-of-speech/noun",
+      spelling: "recipient",
+      scope: "page-type/agent-message",
+    },
+    {
+      partOfSpeech: "part-of-speech/noun",
+      spelling: "recipients",
+      scope: "page-type/agent-message",
+    },
+  ],
   targetPageType: "page-type/seat",
   decisions: [
     {
