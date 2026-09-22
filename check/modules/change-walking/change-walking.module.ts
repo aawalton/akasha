@@ -123,48 +123,5 @@ export const changeWalking = {
       statement:
         "A selector hands each body over as it is read rather than reading every body first.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A change naming no path is what a run judging the whole tree is opened with.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Such a change walks nothing, so a run wanting no walk pays for none.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The pages of named types are collected by searching for the names those pages have.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The index answers those pages far sooner, and is asked for none of them.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "An audit judges the tree, so an audit reading the index cannot catch a wrong one.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That search is made by ripgrep, which answers the paths git would answer.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A search a check makes takes one thread, spending no more than one processor.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A search over threads ends sooner and spends more, and a ceiling counts what is spent.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A search finding no page answers no path rather than refusing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Naming no type collects nothing, and asks for no search.",
-    },
   ],
 } as const satisfies Module

@@ -1,6 +1,5 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { pathsTyped } from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
 import { pageOfRow } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type {
   Judged,
@@ -58,8 +57,6 @@ export type BoundedAsync = RunningAsync & Stated
 const CSS = "css"
 
 const CSS_ENDING = `.${CSS}`
-
-const TS = ".ts"
 
 const PAGE_TYPES = new WeakMap<Shadow, ReadonlySet<string>>()
 
@@ -264,19 +261,6 @@ export function overEveryIn(
     for (const reason of judge(path, text)) said.push({ path, reason })
   }
   return said
-}
-
-export function nothingIn(root: string): Change {
-  const both = onDisk(root)
-  return { root, changed: [], before: both, after: both }
-}
-
-const ONE_THREAD = 1
-
-export function pagesTypedIn(root: string, types: ReadonlySet<string>): Change {
-  const both = onDisk(root)
-  const kinds = [...types].map((one) => `*.${one}${TS}`)
-  return { root, changed: pathsTyped(root, kinds, ONE_THREAD), before: both, after: both }
 }
 
 function isFolder(thrown: unknown): boolean {
