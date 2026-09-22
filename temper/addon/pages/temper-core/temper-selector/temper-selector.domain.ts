@@ -4,7 +4,7 @@ export const temperSelector = {
   id: "01a0c6ff-2fed-7ea2-a106-ee20a4ca2ecf",
   type: "page-type/domain",
   slug: "temper-selector",
-  definition: "which add-ons are on, saved as a pack the player switches between",
+  definition: "which add-ons are on, saved as a pack the player loads",
   parts: [
     "module/selector-addon-manager",
     "module/selector-constants",

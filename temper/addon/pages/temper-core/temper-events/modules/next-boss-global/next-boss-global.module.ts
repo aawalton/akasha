@@ -4,7 +4,7 @@ export const nextBossGlobal = {
   id: "01a06157-8357-7112-8787-b5ac39b4f125",
   type: "page-type/module",
   slug: "next-boss-global",
-  definition: "the name the key bindings reach this tracker's table by",
+  definition: "the global name of this tracker's table",
   code: "ts",
   decisions: [
     {

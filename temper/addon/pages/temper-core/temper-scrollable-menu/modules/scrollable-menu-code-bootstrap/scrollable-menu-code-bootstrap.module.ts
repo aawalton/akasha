@@ -4,7 +4,7 @@ export const scrollableMenuCodeBootstrap = {
   id: "01a06275-c444-774f-83a6-cfdd9fd1d702",
   type: "page-type/module",
   slug: "scrollable-menu-code-bootstrap",
-  definition: "the addon-loaded hook and the XML handlers the row templates call into",
+  definition: "the addon-loaded hook and the XML handlers the row templates call",
   code: "ts",
   decisions: [
     {

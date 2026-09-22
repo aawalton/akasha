@@ -4,7 +4,7 @@ export const hudAddonPublicApi = {
   id: "01a061c5-18dd-700f-96b2-7a0b4a1f8e37",
   type: "page-type/module",
   slug: "hud-addon-public-api",
-  definition: "the global another add-on reaches the bar, the commands and the hiding through",
+  definition: "the global opening the bar, the commands and the hiding to another add-on",
   code: "ts",
   decisions: [
     {

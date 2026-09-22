@@ -4,7 +4,7 @@ export const submenuWindow = {
   id: "01a0605a-5820-702f-bd91-46c5fa9263c6",
   type: "page-type/module",
   slug: "submenu-window",
-  definition: "the floating window a sub-menu's rows are drawn in",
+  definition: "the floating window holding a sub-menu's rows",
   code: "ts",
   decisions: [
     {

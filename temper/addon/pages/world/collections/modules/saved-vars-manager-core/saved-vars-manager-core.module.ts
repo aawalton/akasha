@@ -4,6 +4,6 @@ export const savedVarsManagerCore = {
   id: "01a06177-abfc-7840-92ee-c835d1c34f88",
   type: "page-type/module",
   slug: "saved-vars-manager-core",
-  definition: "a manager's raw table, found the first time a setting is asked for",
+  definition: "a manager's raw table, found the first time a setting is read",
   code: "ts",
 } as const satisfies Module

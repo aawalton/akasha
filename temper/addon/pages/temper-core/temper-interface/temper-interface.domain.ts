@@ -4,7 +4,7 @@ export const temperInterface = {
   id: "01a0c718-f838-76e6-8091-7844ddec0b8c",
   type: "page-type/domain",
   slug: "temper-interface",
-  definition: "the interface tweaks that no other feature has a home for",
+  definition: "the interface tweaks with no other home",
   parts: [
     "module/assistant-bindings",
     "module/assistant-collectibles",
