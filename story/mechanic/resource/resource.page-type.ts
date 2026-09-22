@@ -12,7 +12,7 @@ export const resource = {
     "number-property/resource-value",
     "page-type/tower-health",
     "page-type/tower-mana",
-    "page-type/stamina",
+    "page-type/tower-stamina",
   ],
   properties: [
     { pageProperty: "number-property/resource-value", required: true, many: false },
