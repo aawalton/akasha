@@ -18,6 +18,28 @@ describe("a task of next_character scope", () => {
     ).toEqual(["t"])
   })
 
+  test("rolls once the character it falls to has completed it", () => {
+    expect(
+      tasksThatRoll({
+        tasks: [{ taskId: "t", scope: "next_character", effectiveCharacterId: "c2" }],
+        completed: [{ taskId: "t", characterId: "c2" }],
+        progressed: [],
+        roster: ROSTER,
+      })
+    ).toEqual(["t"])
+  })
+
+  test("does not roll when another character completed it instead", () => {
+    const [one] = rollVerdicts({
+      tasks: [{ taskId: "t", scope: "next_character", effectiveCharacterId: "c2" }],
+      completed: [{ taskId: "t", characterId: "c3" }],
+      progressed: [],
+      roster: ROSTER,
+    })
+    expect(one?.rolls).toBe(false)
+    expect(one?.why).toBe("the character it falls to has neither completed nor progressed")
+  })
+
   test("does not roll when another character progressed instead", () => {
     expect(
       tasksThatRoll({

@@ -11,11 +11,15 @@ export const watcherTaskRolling = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A task of `next_character` scope rolls once the effective character has progressed at the task.",
+        "A task of `next_character` scope rolls once the character it falls to answered it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only the effective character's progress rolls a `next_character` task.",
+      statement: "A character answered a task by completing it or by progressing at it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only what the character a task falls to did rolls a `next_character` task.",
     },
     {
       decisionKind: "decision-kind/departure",
