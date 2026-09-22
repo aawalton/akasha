@@ -17,6 +17,10 @@ export const agentMessageFrom = {
       decisionKind: "decision-kind/gap",
       statement: "This property is a relation to the sender of the message.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A supervisor and a service each send under a name that is no page.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty
