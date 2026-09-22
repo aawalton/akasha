@@ -1,5 +1,5 @@
 {
-  "name": "TemperNavigation",
+  "name": "TemperWorld",
   "title": "Temper Navigation",
   "description": "Navigation hub — world-map and compass pins (map pins + POI/destination pins), the shared CustomCompassPins provider that publishes the COMPASS_PINS global, and the minimap window. Consolidates TemperMapPins, CustomCompassPins, TemperDestinations, and TemperVotansMiniMap (#15147).",
   "author": "AlanGaming",
@@ -34,7 +34,7 @@
   ],
   "xmlFiles": {
     "beforeBundle": [
-      "TemperNavigation_Controls.xml"
+      "TemperWorld_Controls.xml"
     ],
     "afterBundle": []
   },

@@ -50,7 +50,7 @@ self.AddBorderStyle(
     background.SetEdgeTexture("/esoui/art/chatwindow/chat_bg_edge.dds", 256, 128, 16)
     background.SetCenterTexture("/esoui/art/chatwindow/chat_bg_center.dds")
     background.SetInsets(16, 16, -16, -16)
-    frame.SetEdgeTexture("TemperNavigation/WorldMapFrame.dds", 128, 16, 32)
+    frame.SetEdgeTexture("TemperWorld/WorldMapFrame.dds", 128, 16, 32)
     frame.SetAlpha(1)
     frame.SetHidden(false)
   },

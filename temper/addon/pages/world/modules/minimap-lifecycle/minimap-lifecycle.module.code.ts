@@ -67,7 +67,7 @@ holder.InitCameraAngle = function (this: VotansMiniMap): undefined {
   const playerControl = playerPin.GetControl()
   const parent = asMiniMapControl(asMiniMapControl(playerControl).GetParent())
   function setupCameraAngle(this: void, control: MiniMapControl): undefined {
-    control.SetTexture("TemperNavigation/ViewLimit.dds")
+    control.SetTexture("TemperWorld/ViewLimit.dds")
     control.SetDimensions(4, 64)
     control.SetAnchor(BOTTOM, asMiniMapControl(playerControl), CENTER)
     control.SetHidden(!self.account.showCameraAngle)

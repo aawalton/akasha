@@ -6,7 +6,7 @@ export const minimapAnimations = {
   slug: "minimap-animations",
   definition: "the animation the minimap window resizes and moves with",
   markup: "xml",
-  loadedAs: "TemperNavigation_Controls.xml",
+  loadedAs: "TemperWorld_Controls.xml",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

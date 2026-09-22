@@ -3,7 +3,7 @@ interface TemperNavigationApi {
   ADDON_VERSION: string
 }
 
-declare var TemperNavigation: TemperNavigationApi
+declare var TemperWorld: TemperNavigationApi
 
 declare var TemperMapPins: TemperNavigationApi
 

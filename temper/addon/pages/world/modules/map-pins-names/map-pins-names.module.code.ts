@@ -1,7 +1,7 @@
 export const ADDON_NAME = "TemperMapPins"
 export const ADDON_VERSION = "1.99.4"
 
-export const TEXTURE_ROOT = "TemperNavigation"
+export const TEXTURE_ROOT = "TemperWorld"
 
 export const SV_VARS_NAME = "TemperMapPins_SavedVars"
 export const SV_GLOBAL_NAME = "TemperMapPins_SavedGlobal"

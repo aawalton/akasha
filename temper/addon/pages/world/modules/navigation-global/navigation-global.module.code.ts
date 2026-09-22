@@ -9,7 +9,7 @@ export interface TemperNavigationApi {
   ADDON_VERSION: typeof ADDON_VERSION
 }
 
-globalThis.TemperNavigation = {
+globalThis.TemperWorld = {
   ADDON_NAME,
   ADDON_VERSION,
 }

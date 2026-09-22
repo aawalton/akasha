@@ -56,7 +56,7 @@ import {
   DESTINATIONS_PIN_TYPE_WAYSHRINE,
 } from "akasha/temper/addon/pages/world/modules/destinations-pins-poi-types/destinations-pins-poi-types.module.code.ts"
 
-const UNKNOWN_PIN_TEXTURE = "TemperNavigation/pins/poi_unknown_pintype.dds"
+const UNKNOWN_PIN_TEXTURE = "TemperWorld/pins/poi_unknown_pintype.dds"
 
 const KNOWN_POI_TEXTURES: Record<number, string | undefined> = {
   [DESTINATIONS_PIN_TYPE_AOI]: "/esoui/art/icons/poi/poi_areaofinterest_complete.dds",
