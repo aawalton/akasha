@@ -51,7 +51,11 @@ export function characterInitialize(): undefined {
     )
     let offsetPos = 0
 
-    let bg = WINDOW_MANAGER.CreateControl(`TemperCrafting_Character${x}NameBG`, frame, CT_BACKDROP)
+    let bg = WINDOW_MANAGER.CreateControl(
+      `TemperItemsCrafting_Character${x}NameBG`,
+      frame,
+      CT_BACKDROP
+    )
     bg.SetAnchor(TOPLEFT, frame, TOPLEFT, 0, 0)
     offsetPos = 60
     bg.SetDimensions(563, offsetPos)
@@ -60,7 +64,7 @@ export function characterInitialize(): undefined {
     bg.SetEdgeTexture("", 1, 1, 1)
 
     let btn: TemperItemsCraftingButton = WINDOW_MANAGER.CreateControl(
-      `TemperCrafting_Character${x}Name`,
+      `TemperItemsCrafting_Character${x}Name`,
       frame,
       CT_BUTTON
     )
@@ -83,7 +87,7 @@ export function characterInitialize(): undefined {
     )
 
     btn = WINDOW_MANAGER.CreateControl(
-      `TemperCrafting_Character${x}InfoSkillPoints`,
+      `TemperItemsCrafting_Character${x}InfoSkillPoints`,
       frame,
       CT_BUTTON
     )
@@ -99,7 +103,7 @@ export function characterInitialize(): undefined {
     btn.SetHandler("OnMouseExit", (self: CsTooltipOwner) => Tooltips.tooltip(self, false))
 
     btn = WINDOW_MANAGER.CreateControl(
-      `TemperCrafting_Character${x}InfoSkyShards`,
+      `TemperItemsCrafting_Character${x}InfoSkyShards`,
       frame,
       CT_BUTTON
     )
@@ -114,7 +118,7 @@ export function characterInitialize(): undefined {
     )
     btn.SetHandler("OnMouseExit", (self: CsTooltipOwner) => Tooltips.tooltip(self, false))
 
-    btn = WINDOW_MANAGER.CreateControl(`TemperCrafting_Character${x}Info`, frame, CT_BUTTON)
+    btn = WINDOW_MANAGER.CreateControl(`TemperItemsCrafting_Character${x}Info`, frame, CT_BUTTON)
     btn.SetAnchor(TOPLEFT, frame, TOPLEFT, 176, 30)
     btn.SetDimensions(400, 25)
     btn.SetHorizontalAlignment(0)
@@ -126,7 +130,7 @@ export function characterInitialize(): undefined {
     )
     btn.SetHandler("OnMouseExit", (self: CsTooltipOwner) => Tooltips.tooltip(self, false))
 
-    btn = WINDOW_MANAGER.CreateControl(`TemperCrafting_Character${x}Trait`, frame, CT_BUTTON)
+    btn = WINDOW_MANAGER.CreateControl(`TemperItemsCrafting_Character${x}Trait`, frame, CT_BUTTON)
     btn.SetAnchor(TOPLEFT, frame, TOPLEFT, 307, 7)
     btn.SetDimensions(80, 25)
     btn.SetHorizontalAlignment(2)
@@ -150,7 +154,7 @@ export function characterInitialize(): undefined {
     })
     btn.data = { info: STATE.Loc.TT[24] }
 
-    btn = WINDOW_MANAGER.CreateControl(`TemperCrafting_Character${x}Style`, frame, CT_BUTTON)
+    btn = WINDOW_MANAGER.CreateControl(`TemperItemsCrafting_Character${x}Style`, frame, CT_BUTTON)
     btn.SetAnchor(TOPLEFT, frame, TOPLEFT, 362, 7)
     btn.SetDimensions(80, 25)
     btn.SetHorizontalAlignment(2)
@@ -174,7 +178,7 @@ export function characterInitialize(): undefined {
     })
     btn.data = { info: STATE.Loc.TT[12] }
 
-    btn = WINDOW_MANAGER.CreateControl(`TemperCrafting_Character${x}Recipe`, frame, CT_BUTTON)
+    btn = WINDOW_MANAGER.CreateControl(`TemperItemsCrafting_Character${x}Recipe`, frame, CT_BUTTON)
     btn.SetAnchor(TOPLEFT, frame, TOPLEFT, 417, 7)
     btn.SetDimensions(80, 25)
     btn.SetHorizontalAlignment(2)
@@ -198,7 +202,11 @@ export function characterInitialize(): undefined {
     })
     btn.data = { info: STATE.Loc.TT[13] }
 
-    btn = WINDOW_MANAGER.CreateControl(`TemperCrafting_Character${x}Furnisher`, frame, CT_BUTTON)
+    btn = WINDOW_MANAGER.CreateControl(
+      `TemperItemsCrafting_Character${x}Furnisher`,
+      frame,
+      CT_BUTTON
+    )
     btn.SetAnchor(TOPLEFT, frame, TOPLEFT, 472, 7)
     btn.SetDimensions(80, 25)
     btn.SetHorizontalAlignment(2)
@@ -231,7 +239,7 @@ export function characterInitialize(): undefined {
     if (account.options.overviewstyle !== 3) {
       for (const [y, z] of ipairs(skills)) {
         bg = WINDOW_MANAGER.CreateControl(
-          `TemperCrafting_Character${x}Skill${z}BG`,
+          `TemperItemsCrafting_Character${x}Skill${z}BG`,
           frame,
           CT_BACKDROP
         )
@@ -242,7 +250,7 @@ export function characterInitialize(): undefined {
         bg.SetEdgeTexture("", 1, 1, 1)
 
         btn = WINDOW_MANAGER.CreateControl(
-          `TemperCrafting_Character${x}Skill${z}`,
+          `TemperItemsCrafting_Character${x}Skill${z}`,
           frame,
           CT_BUTTON
         )
@@ -269,7 +277,7 @@ export function characterInitialize(): undefined {
     if (account.options.overviewstyle === 1) {
       for (const [, z] of ipairs(res)) {
         bg = WINDOW_MANAGER.CreateControl(
-          `TemperCrafting_Character${x}Research${z}BG`,
+          `TemperItemsCrafting_Character${x}Research${z}BG`,
           frame,
           CT_BACKDROP
         )
@@ -281,7 +289,7 @@ export function characterInitialize(): undefined {
         xpos = xpos + 141
         for (let i = 1; i <= 3; i++) {
           btn = WINDOW_MANAGER.CreateControl(
-            `TemperCrafting_Character${x}Research${z}Slot${i}`,
+            `TemperItemsCrafting_Character${x}Research${z}Slot${i}`,
             bg,
             CT_BUTTON
           )
@@ -296,7 +304,7 @@ export function characterInitialize(): undefined {
           )
           btn.SetHandler("OnMouseExit", (self: CsTooltipOwner) => Tooltips.tooltip(self, false))
           const lbl = WINDOW_MANAGER.CreateControl(
-            `TemperCrafting_Character${x}Research${z}Slot${i}Time`,
+            `TemperItemsCrafting_Character${x}Research${z}Slot${i}Time`,
             bg,
             CT_LABEL
           )
