@@ -8,7 +8,7 @@ export const removePageProperty = {
   changeTargetType: "change-target-type/page-property",
   changeTargetSubtype: "change-target-subtype/page-property",
   definition:
-    "one page property taken away, off every page, record and entry, and off every declaration",
+    "a page property taken away, off every page, record and entry, and off every declaration",
   code: "ts",
   test: "ts",
   decisions: [

@@ -5,7 +5,7 @@ export const valueSpelling = {
   type: "page-type/module",
   slug: "value-spelling",
   definition:
-    "the literal a page body spells for one value handed in as text under the kind its property holds",
+    "the literal a page body spells for a value handed in as text under the kind its property holds",
   code: "ts",
   test: "ts",
   decisions: [

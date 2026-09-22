@@ -7,7 +7,7 @@ export const addFileOfAnyKind = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "one body written at one path, through the change writing that kind of path",
+  definition: "a body written at a path, through the change writing that kind of path",
   code: "ts",
   test: "ts",
   decisions: [

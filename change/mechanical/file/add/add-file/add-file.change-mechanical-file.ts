@@ -7,7 +7,7 @@ export const addFile = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "one body written at one path, with the entries in that body given their ids",
+  definition: "a body written at a path, with the entries in that body given their ids",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

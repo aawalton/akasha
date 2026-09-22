@@ -4,7 +4,7 @@ export const proseSplicing = {
   id: "01a09c37-a726-75c9-9295-675c73b2ee02",
   type: "page-type/module",
   slug: "prose-splicing",
-  definition: "the edits restating the prose passages one page's body states",
+  definition: "the edits restating the prose passages a page's body states",
   code: "ts",
   test: "ts",
   decisions: [

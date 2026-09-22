@@ -4,7 +4,7 @@ export const exportRenaming = {
   id: "01a09c33-ec44-72ad-8f25-59c72db27e3a",
   type: "page-type/module",
   slug: "export-renaming",
-  definition: "the edits spelling a name one body exports anew over the paths handed in",
+  definition: "the edits spelling a name a body exports anew over the paths handed in",
   code: "ts",
   test: "ts",
   decisions: [

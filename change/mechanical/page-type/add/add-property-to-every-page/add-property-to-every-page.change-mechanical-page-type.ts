@@ -7,7 +7,7 @@ export const addPropertyToEveryPage = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "one value put under one key on every page of one page type",
+  definition: "a value put under a key on every page of a page type",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

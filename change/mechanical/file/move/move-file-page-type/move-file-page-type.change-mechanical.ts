@@ -7,7 +7,7 @@ export const moveFilePageType = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page-type",
-  definition: "one page type's own file moved to another path with the files beside it",
+  definition: "a page type's own file moved to another path with the files beside it",
   code: "ts",
   test: "ts",
   decisions: [

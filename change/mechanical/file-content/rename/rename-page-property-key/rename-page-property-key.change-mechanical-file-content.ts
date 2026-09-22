@@ -8,7 +8,7 @@ export const renamePagePropertyKey = {
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-key",
   definition:
-    "one key of a page's exported object, or of each record a key of it holds, spelled anew",
+    "a key of a page's exported object, or of each record a key of it holds, spelled anew",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

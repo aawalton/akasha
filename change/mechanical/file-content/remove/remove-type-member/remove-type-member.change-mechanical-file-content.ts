@@ -7,7 +7,7 @@ export const removeTypeMember = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "one member taken out of an exported object type",
+  definition: "a member taken out of an exported object type",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
