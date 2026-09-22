@@ -5,7 +5,7 @@ export const seatGateway = {
   type: "page-type/record-property",
   slug: "seat-gateway",
   propertySlug: "seat-gateway",
-  definition: "the proxy between a seat and its model",
+  definition: "the model gateway between a seat and its model",
   properties: [
     { pageProperty: "process-property/gateway-process", required: true, many: false },
     { pageProperty: "number-property/gateway-port", required: true, many: false },

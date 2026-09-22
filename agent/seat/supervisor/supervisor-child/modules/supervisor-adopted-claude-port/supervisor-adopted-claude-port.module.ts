@@ -4,7 +4,7 @@ export const supervisorAdoptedClaudePort = {
   id: "01a0683e-3dbe-7002-909e-1e947514559c",
   type: "page-type/module",
   slug: "supervisor-adopted-claude-port",
-  definition: "the proxy port behind an adopted Claude child's launch",
+  definition: "the gateway port behind an adopted Claude child's launch",
   code: "ts",
   test: "ts",
   decisions: [

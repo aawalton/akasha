@@ -4,7 +4,7 @@ export const supervisorIdleObserve = {
   id: "01a06871-3115-7002-a786-a3fb7a53c159",
   type: "page-type/module",
   slug: "supervisor-idle-observe",
-  definition: "what a seat's proxy, process tree and dispatch children show at this moment",
+  definition: "what a seat's gateway, process tree and dispatch children show at this moment",
   code: "ts",
   decisions: [
     {
