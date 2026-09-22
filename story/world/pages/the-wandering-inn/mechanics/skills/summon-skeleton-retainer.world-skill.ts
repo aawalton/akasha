@@ -6,5 +6,6 @@ export const summonSkeletonRetainer = {
   slug: "summon-skeleton-retainer",
   title: "Summon Skeleton Retainer",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

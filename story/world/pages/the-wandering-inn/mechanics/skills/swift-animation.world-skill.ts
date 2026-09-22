@@ -6,5 +6,6 @@ export const swiftAnimation = {
   slug: "swift-animation",
   title: "Swift Animation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

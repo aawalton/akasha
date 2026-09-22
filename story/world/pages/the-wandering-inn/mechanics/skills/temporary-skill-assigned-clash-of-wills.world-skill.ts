@@ -6,5 +6,6 @@ export const temporarySkillAssignedClashOfWills = {
   slug: "temporary-skill-assigned-clash-of-wills",
   title: "Temporary Skill Assigned: Clash of Wills",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

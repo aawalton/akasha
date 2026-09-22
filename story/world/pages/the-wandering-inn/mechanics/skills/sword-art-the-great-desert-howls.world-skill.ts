@@ -6,5 +6,6 @@ export const swordArtTheGreatDesertHowls = {
   slug: "sword-art-the-great-desert-howls",
   title: "Sword Art: The Great Desert Howls",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

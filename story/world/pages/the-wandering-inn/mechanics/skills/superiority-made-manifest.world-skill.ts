@@ -6,5 +6,6 @@ export const superiorityMadeManifest = {
   slug: "superiority-made-manifest",
   title: "Superiority Made Manifest",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   references: "jsonl",
 } as const satisfies WorldSkill

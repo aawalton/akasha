@@ -6,5 +6,6 @@ export const surpassLimits = {
   slug: "surpass-limits",
   title: "Surpass Limits",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

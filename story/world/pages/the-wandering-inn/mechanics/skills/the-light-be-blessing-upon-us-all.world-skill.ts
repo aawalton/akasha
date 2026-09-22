@@ -6,5 +6,6 @@ export const theLightBeBlessingUponUsAll = {
   slug: "the-light-be-blessing-upon-us-all",
   title: "The Light Be Blessing Upon Us All",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

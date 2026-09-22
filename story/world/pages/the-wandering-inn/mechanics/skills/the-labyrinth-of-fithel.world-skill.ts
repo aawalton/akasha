@@ -6,5 +6,6 @@ export const theLabyrinthOfFithel = {
   slug: "the-labyrinth-of-fithel",
   title: "The Labyrinth of Fithel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

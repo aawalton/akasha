@@ -6,5 +6,6 @@ export const swordArtCurveOfTheMoon = {
   slug: "sword-art-curve-of-the-moon",
   title: "Sword Art: Curve of the Moon",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   references: "jsonl",
 } as const satisfies WorldSkill

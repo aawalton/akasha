@@ -6,5 +6,6 @@ export const summonCompanyOfKhelt = {
   slug: "summon-company-of-khelt",
   title: "Summon: Company of Khelt",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

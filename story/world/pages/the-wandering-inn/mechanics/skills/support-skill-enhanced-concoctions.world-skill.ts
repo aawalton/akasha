@@ -6,5 +6,6 @@ export const supportSkillEnhancedConcoctions = {
   slug: "support-skill-enhanced-concoctions",
   title: "Support Skill: Enhanced Concoctions",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

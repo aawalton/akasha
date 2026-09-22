@@ -6,5 +6,6 @@ export const swordArtHurricaneSSpiral = {
   slug: "sword-art-hurricane-s-spiral",
   title: "Sword Art: Hurricane’s Spiral",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

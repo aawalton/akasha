@@ -6,5 +6,6 @@ export const summonTheBattleshipFullSalvo = {
   slug: "summon-the-battleship-full-salvo",
   title: "Summon the Battleship: Full Salvo",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

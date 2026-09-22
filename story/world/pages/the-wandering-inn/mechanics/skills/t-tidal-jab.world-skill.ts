@@ -6,5 +6,6 @@ export const tTidalJab = {
   slug: "t-tidal-jab",
   title: "T-Tidal Jab",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const synergyGnollDrakeCommand = {
   slug: "synergy-gnoll-drake-command",
   title: "Synergy: Gnoll-Drake Command",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const summonSkeletonArcherSquad = {
   slug: "summon-skeleton-archer-squad",
   title: "Summon Skeleton Archer Squad",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

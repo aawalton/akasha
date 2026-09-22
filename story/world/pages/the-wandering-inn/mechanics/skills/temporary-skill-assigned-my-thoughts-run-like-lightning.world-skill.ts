@@ -6,5 +6,6 @@ export const temporarySkillAssignedMyThoughtsRunLikeLightning = {
   slug: "temporary-skill-assigned-my-thoughts-run-like-lightning",
   title: "Temporary Skill Assigned: My Thoughts Run Like Lightning",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const theSproutingShieldsOfTheForest = {
   slug: "the-sprouting-shields-of-the-forest",
   title: "The Sprouting Shields of the Forest",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

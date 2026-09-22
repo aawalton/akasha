@@ -6,5 +6,6 @@ export const swiftReinforcementsThunderstrikeDivision = {
   slug: "swift-reinforcements-thunderstrike-division",
   title: "Swift Reinforcements: Thunderstrike Division",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

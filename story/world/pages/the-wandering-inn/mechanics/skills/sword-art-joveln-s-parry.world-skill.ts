@@ -6,5 +6,6 @@ export const swordArtJovelnSParry = {
   slug: "sword-art-joveln-s-parry",
   title: "Sword Art: Joveln’s Parry",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

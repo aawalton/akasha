@@ -6,5 +6,6 @@ export const tagTeamLegSweep = {
   slug: "tag-team-leg-sweep",
   title: "Tag Team: Leg Sweep",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

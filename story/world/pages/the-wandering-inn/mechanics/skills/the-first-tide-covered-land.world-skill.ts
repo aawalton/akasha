@@ -6,5 +6,6 @@ export const theFirstTideCoveredLand = {
   slug: "the-first-tide-covered-land",
   title: "The First Tide Covered Land",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

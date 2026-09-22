@@ -6,5 +6,6 @@ export const summoningCallTheGreatAncestors = {
   slug: "summoning-call-the-great-ancestors",
   title: "Summoning: Call the Great Ancestors",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

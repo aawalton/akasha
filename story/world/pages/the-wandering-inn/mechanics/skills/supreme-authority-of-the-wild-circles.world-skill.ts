@@ -6,5 +6,6 @@ export const supremeAuthorityOfTheWildCircles = {
   slug: "supreme-authority-of-the-wild-circles",
   title: "Supreme Authority of the Wild Circles",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

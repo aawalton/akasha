@@ -6,5 +6,6 @@ export const systematicWarfareSharedIntelligenceInn = {
   slug: "systematic-warfare-shared-intelligence-inn",
   title: "Systematic Warfare: Shared Intelligence (Inn)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

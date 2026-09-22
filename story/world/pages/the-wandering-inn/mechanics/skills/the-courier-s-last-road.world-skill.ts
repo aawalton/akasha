@@ -6,5 +6,6 @@ export const theCourierSLastRoad = {
   slug: "the-courier-s-last-road",
   title: "The Courier’s Last Road",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   references: "jsonl",
 } as const satisfies WorldSkill

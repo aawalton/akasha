@@ -6,5 +6,6 @@ export const theBindingOfHouseReinhart = {
   slug: "the-binding-of-house-reinhart",
   title: "The Binding of House Reinhart",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

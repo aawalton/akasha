@@ -6,5 +6,6 @@ export const synchronizedShamanism = {
   slug: "synchronized-shamanism",
   title: "Synchronized Shamanism",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

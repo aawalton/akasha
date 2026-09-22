@@ -6,5 +6,6 @@ export const summonLesserAngelicSpirit = {
   slug: "summon-lesser-angelic-spirit",
   title: "Summon Lesser Angelic Spirit",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

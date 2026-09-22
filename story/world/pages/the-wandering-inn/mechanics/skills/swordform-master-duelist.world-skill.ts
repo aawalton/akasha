@@ -6,5 +6,6 @@ export const swordformMasterDuelist = {
   slug: "swordform-master-duelist",
   title: "Swordform: Master Duelist",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

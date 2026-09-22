@@ -6,5 +6,6 @@ export const surefoot = {
   slug: "surefoot",
   title: "Surefoot",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

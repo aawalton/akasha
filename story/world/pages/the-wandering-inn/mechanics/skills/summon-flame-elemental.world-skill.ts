@@ -6,5 +6,6 @@ export const summonFlameElemental = {
   slug: "summon-flame-elemental",
   title: "Summon Flame Elemental",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

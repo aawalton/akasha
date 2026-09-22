@@ -6,5 +6,6 @@ export const summonSwordOfLight = {
   slug: "summon-sword-of-light",
   title: "Summon: Sword of Light",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

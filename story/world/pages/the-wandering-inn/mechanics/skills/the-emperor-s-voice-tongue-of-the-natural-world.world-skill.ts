@@ -6,5 +6,6 @@ export const theEmperorSVoiceTongueOfTheNaturalWorld = {
   slug: "the-emperor-s-voice-tongue-of-the-natural-world",
   title: "The Emperor’s Voice: Tongue of the Natural World",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

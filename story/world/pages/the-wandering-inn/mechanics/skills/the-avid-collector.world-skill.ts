@@ -6,5 +6,6 @@ export const theAvidCollector = {
   slug: "the-avid-collector",
   title: "The Avid Collector",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

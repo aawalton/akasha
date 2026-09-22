@@ -6,5 +6,6 @@ export const thatElusiveUntraceableUnscryableMan = {
   slug: "that-elusive-untraceable-unscryable-man",
   title: "That Elusive, Untraceable, Unscryable Man",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

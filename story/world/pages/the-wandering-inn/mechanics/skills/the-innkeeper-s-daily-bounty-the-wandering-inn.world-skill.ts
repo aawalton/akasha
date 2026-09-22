@@ -6,5 +6,6 @@ export const theInnkeeperSDailyBountyTheWanderingInn = {
   slug: "the-innkeeper-s-daily-bounty-the-wandering-inn",
   title: "The Innkeeper’s Daily Bounty (The Wandering Inn)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

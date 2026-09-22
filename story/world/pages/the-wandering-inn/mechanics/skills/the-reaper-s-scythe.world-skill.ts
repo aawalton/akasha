@@ -6,5 +6,6 @@ export const theReaperSScythe = {
   slug: "the-reaper-s-scythe",
   title: "The Reaper’s Scythe",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

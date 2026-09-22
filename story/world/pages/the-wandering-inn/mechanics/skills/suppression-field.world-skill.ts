@@ -6,5 +6,6 @@ export const suppressionField = {
   slug: "suppression-field",
   title: "Suppression Field",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

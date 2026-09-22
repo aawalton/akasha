@@ -6,5 +6,6 @@ export const theVineThatBrokeCastles = {
   slug: "the-vine-that-broke-castles",
   title: "The Vine that Broke Castles",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

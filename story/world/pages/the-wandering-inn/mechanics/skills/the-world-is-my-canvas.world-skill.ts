@@ -6,5 +6,6 @@ export const theWorldIsMyCanvas = {
   slug: "the-world-is-my-canvas",
   title: "The World is My Canvas",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

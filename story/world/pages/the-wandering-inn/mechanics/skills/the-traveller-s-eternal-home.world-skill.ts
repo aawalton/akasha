@@ -6,5 +6,6 @@ export const theTravellerSEternalHome = {
   slug: "the-traveller-s-eternal-home",
   title: "The Traveller’s Eternal Home",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

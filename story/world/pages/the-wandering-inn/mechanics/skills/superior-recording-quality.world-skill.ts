@@ -6,5 +6,6 @@ export const superiorRecordingQuality = {
   slug: "superior-recording-quality",
   title: "Superior Recording Quality",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

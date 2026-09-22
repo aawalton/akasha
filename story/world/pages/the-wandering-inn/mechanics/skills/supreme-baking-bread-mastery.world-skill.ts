@@ -6,5 +6,6 @@ export const supremeBakingBreadMastery = {
   slug: "supreme-baking-bread-mastery",
   title: "Supreme Baking: Bread Mastery",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

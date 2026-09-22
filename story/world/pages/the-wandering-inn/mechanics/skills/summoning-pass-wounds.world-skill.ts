@@ -6,5 +6,6 @@ export const summoningPassWounds = {
   slug: "summoning-pass-wounds",
   title: "Summoning: Pass Wounds",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

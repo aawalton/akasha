@@ -6,5 +6,6 @@ export const swordArtSerpentDance = {
   slug: "sword-art-serpent-dance",
   title: "Sword Art: Serpent Dance",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

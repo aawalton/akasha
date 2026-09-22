@@ -6,5 +6,6 @@ export const summonTheWatch = {
   slug: "summon-the-watch",
   title: "Summon the Watch",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const theGreatDesertKicks = {
   slug: "the-great-desert-kicks",
   title: "The Great Desert Kicks",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
