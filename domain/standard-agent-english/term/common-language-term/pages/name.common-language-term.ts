@@ -7,5 +7,6 @@ export const name = {
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "name" },
     { partOfSpeech: "part-of-speech/noun", spelling: "names" },
+    { partOfSpeech: "part-of-speech/adjective", spelling: "named" },
   ],
 } as const satisfies CommonLanguageTerm
