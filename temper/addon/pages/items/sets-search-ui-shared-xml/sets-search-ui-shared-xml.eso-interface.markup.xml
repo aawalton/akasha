@@ -7,7 +7,7 @@
     <Controls>
 
         <!-- LibSets Search UI - Virtual template -->
-        <TopLevelControl name="LibSets_SearchUI_TLC_Shared" mouseEnabled="true" movable="true" clampedToScreen="true" hidden="true" virtual="true" level="1">
+        <TopLevelControl name="TemperItemsCraftingSets_SearchUI_TLC_Shared" mouseEnabled="true" movable="true" clampedToScreen="true" hidden="true" virtual="true" level="1">
             <Controls>
                 <Control name="$(parent)Filters">
                     <Controls>
@@ -21,14 +21,14 @@
         </TopLevelControl>
 
         <!-- Virtual Sort headers -->
-        <Control name="LibSetsSearchUISortHeader" inherits="ZO_SortHeaderBehavior" virtual="true" level="2">
+        <Control name="TemperItemsCraftingSetsSearchUISortHeader" inherits="ZO_SortHeaderBehavior" virtual="true" level="2">
             <Controls>
                 <Label name="$(parent)Name" font="MyFontGame18" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" horizontalAlignment="CENTER" verticalAlignment="CENTER" wrapMode="ELLIPSIS">
                     <AnchorFill />
                 </Label>
             </Controls>
             <OnMouseEnter>
-                LibSets_SearchUI_Shared_SortHeaderTooltip(self)
+                TemperItemsCraftingSets_SearchUI_Shared_SortHeaderTooltip(self)
             </OnMouseEnter>
             <OnMouseExit>
                 ClearTooltip(InformationTooltip)
@@ -36,7 +36,7 @@
         </Control>
 
 		<!--Virtual Backdrops - The background of the UI -->
-		<Backdrop name="LibSetsSearchUIBackdrop" inherits="ZO_DarkThinFrame" virtual="true" tier="LOW" layer="BACKGROUND" level="0">
+		<Backdrop name="TemperItemsCraftingSetsSearchUIBackdrop" inherits="ZO_DarkThinFrame" virtual="true" tier="LOW" layer="BACKGROUND" level="0">
 			<Anchor point="TOPLEFT" offsetX="-4" offsetY="-4"/>
             <Anchor point="BOTTOMRIGHT" offsetX="4" offsetY="4"/>
             <Edge file="EsoUI/Art/Miscellaneous/dark_edgeFrame_8_thin.dds" edgeFileWidth="64" edgeFileHeight="8" />
@@ -45,9 +45,9 @@
         </Backdrop>
 
          <!--Virtual Multiselect ComboBoxes - PTS API 101040: ZO_ComboBox is cappable to do multi selection & scroll -->
-		<Control name="LibSetsSearchUIMultiSelectComboBox" inherits="ZO_ComboBox" virtual="true" tier="LOW" layer="CONTROLS" level="0" resizeToFitConstrains="X"> <!-- 20240310 level was 1 but that makes the inherited ZO_ComboBox OpenDropdown control draw at level 0 behind the LibSetsSearchUIMultiSelectComboBox ... -->
+		<Control name="TemperItemsCraftingSetsSearchUIMultiSelectComboBox" inherits="ZO_ComboBox" virtual="true" tier="LOW" layer="CONTROLS" level="0" resizeToFitConstrains="X"> <!-- 20240310 level was 1 but that makes the inherited ZO_ComboBox OpenDropdown control draw at level 0 behind the TemperItemsCraftingSetsSearchUIMultiSelectComboBox ... -->
             <OnMouseEnter>
-                LibSets_SearchUI_Shared_ControlTooltip(self, BOTTOM, self, TOP, 0, -10)
+                TemperItemsCraftingSets_SearchUI_Shared_ControlTooltip(self, BOTTOM, self, TOP, 0, -10)
             </OnMouseEnter>
             <OnMouseExit>
                 ClearTooltip(InformationTooltip)
@@ -60,54 +60,54 @@
                         comboBox:ShowDropdown()
                     end
                 else
-                    LibSets_SearchUI_Shared_Dropdown_OnMouseUp(self, button, upInside, shift, alt, ctrl, command)
+                    TemperItemsCraftingSets_SearchUI_Shared_Dropdown_OnMouseUp(self, button, upInside, shift, alt, ctrl, command)
                 end
             </OnMouseUp>
         </Control>
 
 		<!-- Virtual labels -->
-        <Label name="LibSetsSearchUIRowLabel" font="MyFontGame16" wrapMode="ELLIPSIS" horizontalAlignment="LEFT" verticalAlignment="CENTER" virtual="true" />
-        <Label name="LibSetsSearchUIRowLabelRightAlign" font="MyFontGame16" wrapMode="ELLIPSIS" horizontalAlignment="RIGHT" verticalAlignment="CENTER" virtual="true" />
+        <Label name="TemperItemsCraftingSetsSearchUIRowLabel" font="MyFontGame16" wrapMode="ELLIPSIS" horizontalAlignment="LEFT" verticalAlignment="CENTER" virtual="true" />
+        <Label name="TemperItemsCraftingSetsSearchUIRowLabelRightAlign" font="MyFontGame16" wrapMode="ELLIPSIS" horizontalAlignment="RIGHT" verticalAlignment="CENTER" virtual="true" />
 
         <!-- Virtual Rows -->
-		<Control name="LibSetsSearchUIRow" mouseEnabled="true" virtual="true" hidden="false">
+		<Control name="TemperItemsCraftingSetsSearchUIRow" mouseEnabled="true" virtual="true" hidden="false">
 			<Dimensions y="30" />
 			<OnMouseEnter>
-                LibSets_SearchUI_Shared_Row_OnMouseEnter(self)
+                TemperItemsCraftingSets_SearchUI_Shared_Row_OnMouseEnter(self)
 			</OnMouseEnter>
 			<OnMouseExit>
-                LibSets_SearchUI_Shared_Row_OnMouseExit(self)
+                TemperItemsCraftingSets_SearchUI_Shared_Row_OnMouseExit(self)
 			</OnMouseExit>
             <OnMouseUp>
-                LibSets_SearchUI_Shared_Row_OnMouseUp(self, button, upInside, shift, alt, ctrl, command)
+                TemperItemsCraftingSets_SearchUI_Shared_Row_OnMouseUp(self, button, upInside, shift, alt, ctrl, command)
 			</OnMouseUp>
 			<Controls>
 				<Texture name="$(parent)BG" inherits="ZO_ThinListBgStrip"/>
-				<Label name="$(parent)Favorite" inherits="LibSetsSearchUIRowLabel">
+				<Label name="$(parent)Favorite" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
 					<Anchor point="LEFT" />
                     <DimensionConstraints minX="24" maxX="24" minY="30" maxY="30" />
 				</Label>
-				<Label name="$(parent)Name" inherits="LibSetsSearchUIRowLabel">
+				<Label name="$(parent)Name" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
 					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Favorite" />
                     <DimensionConstraints minX="400" maxX="400" minY="30" maxY="30" />
 				</Label>
-				<Label name="$(parent)SetType" inherits="LibSetsSearchUIRowLabel">
+				<Label name="$(parent)SetType" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
 					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Name" />
                     <DimensionConstraints minX="40" maxX="40" minY="30" maxY="30" />
 				</Label>
-				<Label name="$(parent)ArmorOrWeaponType" inherits="LibSetsSearchUIRowLabel">
+				<Label name="$(parent)ArmorOrWeaponType" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
 					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)SetType" />
                     <DimensionConstraints minX="40" maxX="40" minY="30" maxY="30" />
 				</Label>
-				<Label name="$(parent)EquipSlot" inherits="LibSetsSearchUIRowLabel">
+				<Label name="$(parent)EquipSlot" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
 					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)ArmorOrWeaponType" />
                     <DimensionConstraints minX="40" maxX="40" minY="30" maxY="30" />
 				</Label>
-				<Label name="$(parent)DropLocations" inherits="LibSetsSearchUIRowLabel">
+				<Label name="$(parent)DropLocations" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
 					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)EquipSlot" />
                     <DimensionConstraints minX="300" maxX="1200" minY="30" maxY="30" />
 				</Label>
-				<Label name="$(parent)SetId" inherits="LibSetsSearchUIRowLabelRightAlign">
+				<Label name="$(parent)SetId" inherits="TemperItemsCraftingSetsSearchUIRowLabelRightAlign">
 					<!--<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)DropLocations" /> -->
 					<Anchor point="RIGHT" relativePoint="RIGHT" offsetX="-4" />
                     <DimensionConstraints minX="40" maxX="40" minY="30" maxY="30" />

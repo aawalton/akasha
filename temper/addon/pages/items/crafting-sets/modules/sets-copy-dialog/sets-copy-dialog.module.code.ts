@@ -279,4 +279,4 @@ function onDialogInitialized(this: void, dialogControl: SetsCopyDialogControl): 
   copyDialog.messageTableId = undefined
 }
 
-globalTable.LibSets_CopyDialog_OnInitialized = onDialogInitialized
+globalTable.TemperItemsCraftingSets_CopyDialog_OnInitialized = onDialogInitialized

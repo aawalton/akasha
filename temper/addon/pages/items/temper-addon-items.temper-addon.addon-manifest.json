@@ -50,9 +50,9 @@
       "XML/UI/CraftingRecipe.xml",
       "XML/UI/CraftingBlueprint.xml",
       "XML/UI/PotionMaker.xml",
-      "PC/CopyText/LibSets_CopyTextDialog.xml",
-      "SearchUI/LibSets_SearchUI_Shared.xml",
-      "SearchUI/Keyboard/LibSets_SearchUI_Keyboard.xml"
+      "PC/CopyText/TemperItemsCraftingSets_CopyTextDialog.xml",
+      "SearchUI/TemperItemsCraftingSets_SearchUI_Shared.xml",
+      "SearchUI/Keyboard/TemperItemsCraftingSets_SearchUI_Keyboard.xml"
     ]
   },
   "assets": [
@@ -65,9 +65,9 @@
     "XML/UI/CraftingRecipe.xml",
     "XML/UI/CraftingBlueprint.xml",
     "XML/UI/PotionMaker.xml",
-    "PC/CopyText/LibSets_CopyTextDialog.xml",
-    "SearchUI/LibSets_SearchUI_Shared.xml",
-    "SearchUI/Keyboard/LibSets_SearchUI_Keyboard.xml",
+    "PC/CopyText/TemperItemsCraftingSets_CopyTextDialog.xml",
+    "SearchUI/TemperItemsCraftingSets_SearchUI_Shared.xml",
+    "SearchUI/Keyboard/TemperItemsCraftingSets_SearchUI_Keyboard.xml",
     "DDS/cs.dds",
     "DDS/lmb.dds",
     "DDS/mmb.dds",

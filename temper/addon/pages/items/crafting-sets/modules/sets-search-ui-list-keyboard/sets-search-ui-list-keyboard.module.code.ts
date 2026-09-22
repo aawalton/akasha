@@ -104,7 +104,7 @@ listClass.Setup = function (this: SetsSearchUIList) {
   ZO_ScrollList_AddDataType(
     this.list,
     searchUI.scrollListDataTypeDefault,
-    "LibSetsSearchUIRow",
+    "TemperItemsCraftingSetsSearchUIRow",
     30,
     (control, data) => {
       this.SetupItemRow(asSearchControl(control), asSetsSearchRowData(data))

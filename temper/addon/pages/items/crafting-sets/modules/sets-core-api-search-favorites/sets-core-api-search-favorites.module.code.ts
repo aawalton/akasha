@@ -100,9 +100,10 @@ function getSetSearchFavoritesCategoriesForSetId(
   this: void,
   _setId: number | undefined
 ): (SetSearchFavoriteCategoryData | undefined)[] | undefined {
-  const setSearchFavoriteCategoriesOfSetId = LibSets_SearchUI_Shared.GetAllFavoritesCategories(
-    LibSets_SearchUI_Shared.setId
-  )
+  const setSearchFavoriteCategoriesOfSetId =
+    TemperItemsCraftingSets_SearchUI_Shared.GetAllFavoritesCategories(
+      TemperItemsCraftingSets_SearchUI_Shared.setId
+    )
   if (ZO_IsTableEmpty(setSearchFavoriteCategoriesOfSetId)) {
     return undefined
   }

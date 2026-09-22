@@ -168,7 +168,10 @@ keyboardOverride.ShowUI = function (
   slashOptions?: unknown
 ): undefined {
   if (!this.tooltipKeyboardHookWasDone) {
-    if (lib.RegisterCustomTooltipHook("LibSets_SearchUI_Tooltip", searchUIName) === true) {
+    if (
+      lib.RegisterCustomTooltipHook("TemperItemsCraftingSets_SearchUI_Tooltip", searchUIName) ===
+      true
+    ) {
       this.tooltipKeyboardHookWasDone = true
     }
   }

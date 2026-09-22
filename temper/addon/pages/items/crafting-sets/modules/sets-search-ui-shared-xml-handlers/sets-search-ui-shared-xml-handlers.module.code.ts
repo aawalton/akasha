@@ -28,7 +28,9 @@ const TT_Text = InformationTooltip
 
 const sharedClass = getSharedSearchUIClass()
 
-type SharedClassGlobalThis = { LibSets_SearchUI_Shared?: typeof LibSets_SearchUI_Shared }
+type SharedClassGlobalThis = {
+  TemperItemsCraftingSets_SearchUI_Shared?: typeof TemperItemsCraftingSets_SearchUI_Shared
+}
 function asSharedClassGlobalThis(value: unknown): SharedClassGlobalThis {
   return value as SharedClassGlobalThis
 }
@@ -218,12 +220,17 @@ export function setsSearchUISharedUpdateSearch(this: void, slashOptions?: unknow
   }
 }
 
-globalTable.LibSets_SearchUI_Shared_ControlTooltip = setsSearchUISharedControlTooltip
-globalTable.LibSets_SearchUI_Shared_SortHeaderTooltip = setsSearchUISharedSortHeaderTooltip
-globalTable.LibSets_SearchUI_Shared_Dropdown_OnMouseUp = setsSearchUISharedDropdownOnMouseUp
-globalTable.LibSets_SearchUI_Shared_Row_OnMouseUp = setsSearchUISharedRowOnMouseUp
-globalTable.LibSets_SearchUI_Shared_Row_OnMouseEnter = setsSearchUISharedRowOnMouseEnter
-globalTable.LibSets_SearchUI_Shared_Row_OnMouseExit = setsSearchUISharedRowOnMouseExit
+globalTable.TemperItemsCraftingSets_SearchUI_Shared_ControlTooltip =
+  setsSearchUISharedControlTooltip
+globalTable.TemperItemsCraftingSets_SearchUI_Shared_SortHeaderTooltip =
+  setsSearchUISharedSortHeaderTooltip
+globalTable.TemperItemsCraftingSets_SearchUI_Shared_Dropdown_OnMouseUp =
+  setsSearchUISharedDropdownOnMouseUp
+globalTable.TemperItemsCraftingSets_SearchUI_Shared_Row_OnMouseUp = setsSearchUISharedRowOnMouseUp
+globalTable.TemperItemsCraftingSets_SearchUI_Shared_Row_OnMouseEnter =
+  setsSearchUISharedRowOnMouseEnter
+globalTable.TemperItemsCraftingSets_SearchUI_Shared_Row_OnMouseExit =
+  setsSearchUISharedRowOnMouseExit
 
-asSharedClassGlobalThis(globalThis).LibSets_SearchUI_Shared =
+asSharedClassGlobalThis(globalThis).TemperItemsCraftingSets_SearchUI_Shared =
   brandSharedSearchUIClassGlobal(sharedClass)

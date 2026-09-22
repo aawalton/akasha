@@ -75,7 +75,9 @@ export function setsSearchUIKeyboardTopLevelOnInitialized(
   setKeyboardSearchUI(getKeyboardSearchUIClass().New(selfControl))
 }
 
-globalTable.LibSets_SearchUI_Keyboard_TopLevel_OnResize = setsSearchUIKeyboardTopLevelOnResize
-globalTable.LibSets_SearchUI_Keyboard_TopLevel_OnMove = setsSearchUIKeyboardTopLevelOnMove
-globalTable.LibSets_SearchUI_Keyboard_TopLevel_OnInitialized =
+globalTable.TemperItemsCraftingSets_SearchUI_Keyboard_TopLevel_OnResize =
+  setsSearchUIKeyboardTopLevelOnResize
+globalTable.TemperItemsCraftingSets_SearchUI_Keyboard_TopLevel_OnMove =
+  setsSearchUIKeyboardTopLevelOnMove
+globalTable.TemperItemsCraftingSets_SearchUI_Keyboard_TopLevel_OnInitialized =
   setsSearchUIKeyboardTopLevelOnInitialized

@@ -1,8 +1,8 @@
 <GuiXml>
     <Controls>
-		<TopLevelControl name="LibSetsCopyTextDialog" inherits="ZO_CustomDialogBase">
+		<TopLevelControl name="TemperItemsCraftingSetsCopyTextDialog" inherits="ZO_CustomDialogBase">
 			<OnInitialized>
-				LibSets_CopyDialog_OnInitialized(self)
+				TemperItemsCraftingSets_CopyDialog_OnInitialized(self)
 			</OnInitialized>
 			<OnHide>
 				LibSets.CopyDialog:OnHide()

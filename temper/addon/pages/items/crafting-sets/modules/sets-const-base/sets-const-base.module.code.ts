@@ -13,7 +13,10 @@ const IsConsole = ZO_IsConsoleOrGameCoreUI()
 lib.IsConsole = IsConsole
 lib.SearchUI = {
   name: MAJOR + "_SearchUI",
-  controlName: boolPair("LibSets_SearchUI_TLC_Keyboard", "LibSets_SearchUI_TLC_Gamepad"),
+  controlName: boolPair(
+    "TemperItemsCraftingSets_SearchUI_TLC_Keyboard",
+    "TemperItemsCraftingSets_SearchUI_TLC_Gamepad"
+  ),
   control: new LuaMap<boolean, unknown>(),
   KeyboardVars: {
     minWidth: 934,

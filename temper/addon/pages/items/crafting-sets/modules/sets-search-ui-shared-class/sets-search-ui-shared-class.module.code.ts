@@ -10,7 +10,7 @@ export function getSharedSearchUIClass(this: void): SetsSearchUISharedClass {
   return sharedClass
 }
 
-type SharedSearchUIClassGlobal = typeof LibSets_SearchUI_Shared
+type SharedSearchUIClassGlobal = typeof TemperItemsCraftingSets_SearchUI_Shared
 function asSharedSearchUIClassGlobal(value: unknown): SharedSearchUIClassGlobal {
   return value as SharedSearchUIClassGlobal
 }

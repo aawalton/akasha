@@ -318,9 +318,11 @@ keyboardOverride.Initialize = function (
   this.SetMultiSelectDropdownDimensionConstraints()
   this.resultsList.SetHeaderAndColumnDimensionConstraints()
 
-  this.tooltipControlTLC = asTyped<SearchUIControl>(LibSets_SearchUI_TooltipTopLevel)
+  this.tooltipControlTLC = asTyped<SearchUIControl>(
+    TemperItemsCraftingSets_SearchUI_TooltipTopLevel
+  )
   this.tooltipControlTLC.AllowBringToTop(true)
-  this.tooltipControl = asTyped<SearchUIControl>(LibSets_SearchUI_Tooltip)
+  this.tooltipControl = asTyped<SearchUIControl>(TemperItemsCraftingSets_SearchUI_Tooltip)
   this.tooltipKeyboardHookWasDone = false
 
   SYSTEMS.RegisterKeyboardObject(searchUIName, this)

@@ -250,7 +250,8 @@ export function buildSetSearchFavoritesInfo(
   if (setId === undefined) {
     return undefined
   }
-  STATE.setsSearchUIShared = STATE.setsSearchUIShared ?? asStrRecordOpt(LibSets_SearchUI_Shared)
+  STATE.setsSearchUIShared =
+    STATE.setsSearchUIShared ?? asStrRecordOpt(TemperItemsCraftingSets_SearchUI_Shared)
   const shared = asFavoritesAccessor(asPresent(STATE.setsSearchUIShared))
   const setSearchFavoriteCategoriesOfSetId = shared.GetAllFavoritesCategories(shared, setId)
   if (ZO_IsTableEmpty(asAnyObject(setSearchFavoriteCategoriesOfSetId))) {
