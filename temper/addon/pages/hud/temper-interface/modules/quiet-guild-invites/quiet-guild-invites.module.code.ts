@@ -1,5 +1,5 @@
 import { getSavedVariables } from "akasha/temper/addon/pages/hud/temper-interface/modules/quiet-saved-variables/quiet-saved-variables.module.code.ts"
-import "akasha/temper/addon/type/lib-notification/lib-notification.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-notification-global/temper-notification-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-3/eso-api-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-02/eso-enums-02.type-declaration.d.ts"

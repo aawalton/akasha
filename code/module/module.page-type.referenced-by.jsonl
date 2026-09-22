@@ -3204,6 +3204,13 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-share/keybinder-share.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-state/keybinder-state.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-ui-strings/keybinder-ui-strings.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-notification/modules/notification-casts/notification-casts.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-notification/modules/notification-entry/notification-entry.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-notification/modules/notification-names/notification-names.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-notification/modules/notification-provider-link/notification-provider-link.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-notification/modules/notification-providers/notification-providers.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-notification/modules/notification-row-overrides/notification-row-overrides.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-notification/modules/notification-types/notification-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-addon-manager/selector-addon-manager.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-constants/selector-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-entry/selector-entry.module.ts"}
@@ -4109,13 +4116,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-state/pin-state.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-types/pin-types.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-notification/modules/notification-casts/notification-casts.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-notification/modules/notification-entry/notification-entry.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-notification/modules/notification-names/notification-names.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-notification/modules/notification-provider-link/notification-provider-link.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-notification/modules/notification-providers/notification-providers.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-notification/modules/notification-row-overrides/notification-row-overrides.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-notification/modules/notification-types/notification-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-core/scrollable-menu-api-core.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-entries/scrollable-menu-api-entries.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-refresh/scrollable-menu-api-refresh.module.ts"}

@@ -441,6 +441,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-keybinder/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-keybinder/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-keybinder/temper-keybinder.domain.ts","id":"01a0c714-5feb-711a-9cd3-b64a8d77564d"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-notification/temper-notification.domain.ts","id":"01a0c72a-85c8-7f52-9a11-b347634ce417"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-auto-autocompletion/sets-auto-autocompletion.module.ts","id":"01a0623c-2df7-7942-a655-e30b89d4db2b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-copy-dialog/sets-copy-dialog.module.ts","id":"01a0623c-2df8-7c0d-ae66-7d2de026a998"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-drop-zones-sets/sets-core-api-drop-zones-sets.module.ts","id":"01a06231-8f1d-7d70-9ac2-92d18df83cb2"}
@@ -592,7 +593,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-lib/map-ping-lib.module.ts","id":"01a0605f-6261-7a99-9a87-668ce21f8a59"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/temper-lib-map-ping.temper-addon.ts","id":"01a0605f-625e-7267-be33-c5a31b618626"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-pins/temper-lib-map-pins.temper-addon.ts","id":"01a06062-57dc-7eeb-bb3d-6badd05f9bf5"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/temper-lib-notification.temper-addon.ts","id":"01a0605a-0514-797f-9f36-a01b055a56fc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-core/scrollable-menu-api-core.module.ts","id":"01a06275-c442-78e9-91db-fd3e3a781bd5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-entries/scrollable-menu-api-entries.module.ts","id":"01a06275-c443-709d-8562-0ff2fc429904"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-refresh/scrollable-menu-api-refresh.module.ts","id":"01a06275-c443-7905-af8d-6d33bbb2d716"}

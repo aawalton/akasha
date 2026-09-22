@@ -42,7 +42,6 @@ export interface FcocsState {
   LSB: unknown
   LAM: unknown
   LMM2: unknown
-  LibNotifications: unknown
   originalUnitCPEffectiveFunc: unknown
   originalUnitCPFunc: unknown
   originalCPFunc: unknown
@@ -94,7 +93,6 @@ export const STATE: FcocsState = {
   LSB: undefined,
   LAM: undefined,
   LMM2: undefined,
-  LibNotifications: undefined,
   originalUnitCPEffectiveFunc: undefined,
   originalUnitCPFunc: undefined,
   originalCPFunc: undefined,

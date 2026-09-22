@@ -16,6 +16,7 @@ export const temperAddonHud = {
     "domain/temper-housing",
     "domain/temper-interface",
     "domain/temper-keybinder",
+    "domain/temper-notification",
     "domain/temper-selector",
     "eso-interface/fcocs-virtuals",
     "eso-interface/next-boss-layout",

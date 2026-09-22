@@ -27,7 +27,7 @@ export const temperAddonType = {
     "type-declaration/lib-map-ping",
     "type-declaration/lib-map-pins",
     "type-declaration/lib-multi-account-sets",
-    "type-declaration/lib-notification",
+    "type-declaration/temper-notification-global",
     "type-declaration/lib-qr-code",
     "type-declaration/lib-radial-menu",
     "type-declaration/lib-scrollable-menu",

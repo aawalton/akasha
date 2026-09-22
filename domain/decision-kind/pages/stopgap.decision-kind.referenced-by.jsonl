@@ -80,12 +80,11 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-events/modules/next-boss-state/next-boss-state.module.ts","id":"01a06157-8356-706b-948b-6f8dae0434bf"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-housing/modules/housing-build-casts/housing-build-casts.module.ts","id":"01a06113-b7cd-713c-9e44-bec20c408d8d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-housing/modules/housing-holder-types/housing-holder-types.module.ts","id":"01a06113-b7ce-7f67-beb7-a7a3ee79e25d"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-notification/modules/notification-providers/notification-providers.module.ts","id":"01a0605a-0515-7efc-a180-1aaa98828cd6"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-notification/notification-declarations/notification-declarations.type-declaration.ts","id":"01a0620a-a166-7152-bc6c-c9ce7bb3739c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/slash-commander-declarations/slash-commander-declarations.type-declaration.ts","id":"01a06066-8404-79a4-bfb3-28f543c2cd7a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/debug-logger-declarations/debug-logger-declarations.type-declaration.ts","id":"01a0620a-a166-7f46-895d-4d74d6165dbc"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/modules/notification-names/notification-names.module.ts","id":"01a0605a-0516-74bf-b0cd-cd67f0cacaba"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/modules/notification-providers/notification-providers.module.ts","id":"01a0605a-0515-7efc-a180-1aaa98828cd6"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/notification-declarations/notification-declarations.type-declaration.ts","id":"01a0620a-a166-7152-bc6c-c9ce7bb3739c"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts","id":"01a0b761-76a7-78cd-82a0-bfa7fa48f3b4"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.ts","id":"01a060c5-3c22-7fe6-8e12-c63f5595790d"}

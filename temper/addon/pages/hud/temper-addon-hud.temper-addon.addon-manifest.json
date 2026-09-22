@@ -20,7 +20,6 @@
   "dependsOn": [
     "LibAddonMenu-2.0>=43",
     "LibCustomMenu",
-    "LibNotification",
     "LibScrollableMenu>=020400"
   ],
   "optionalDependsOn": [

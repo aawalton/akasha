@@ -35,7 +35,6 @@
     "LibAddonMenu-2.0>=41",
     "LibGPS>=73",
     "LibDebugLogger>=274",
-    "LibNotification>=15",
     "LibAsync>=30001"
   ],
   "optionalDependsOn": [

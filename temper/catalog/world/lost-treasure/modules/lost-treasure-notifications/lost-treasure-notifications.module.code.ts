@@ -4,7 +4,7 @@ import { createLogger } from "akasha/temper/catalog/world/lost-treasure/modules/
 import { getSavedVars } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-saved-vars/lost-treasure-saved-vars.module.code.ts"
 import type { PinData } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-types/lost-treasure-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-notification/lib-notification.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-notification-global/temper-notification-global.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lost-treasure/lost-treasure-string-ids/lost-treasure-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
@@ -49,9 +49,9 @@ const SUPPORTED_LANGUAGES: Record<string, true | undefined> = ZO_CreateSetFromAr
 )
 const language = GetCVar("language.2")
 
-const HOLDER: { provider: LibNotificationProvider | undefined } = { provider: undefined }
+const HOLDER: { provider: TemperNotificationProvider | undefined } = { provider: undefined }
 
-function getProvider(this: void): LibNotificationProvider {
+function getProvider(this: void): TemperNotificationProvider {
   if (HOLDER.provider === undefined) {
     throw new Error("TemperLostTreasure notifications provider accessed before initialization")
   }
@@ -157,7 +157,7 @@ export function notificationsAdd(this: void, pinData: PinData): undefined {
 }
 
 export function initializeNotifications(this: void): undefined {
-  HOLDER.provider = LibNotifications.CreateProvider()
+  HOLDER.provider = TemperNotification.CreateProvider()
 
   restoreAllNotifications()
 

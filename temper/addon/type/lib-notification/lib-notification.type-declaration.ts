@@ -1,9 +1,0 @@
-import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
-
-export const libNotification = {
-  id: "01a06090-f5b5-7d84-8398-ffe64acb03a0",
-  type: "page-type/type-declaration",
-  slug: "lib-notification",
-  definition: "what the lib-notification library leaves in another add-on's reach",
-  d: "ts",
-} as const satisfies TypeDeclaration

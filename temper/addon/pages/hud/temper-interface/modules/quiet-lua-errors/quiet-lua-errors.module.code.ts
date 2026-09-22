@@ -1,7 +1,9 @@
 import { getSavedVariables } from "akasha/temper/addon/pages/hud/temper-interface/modules/quiet-saved-variables/quiet-saved-variables.module.code.ts"
 import { STRINGS } from "akasha/temper/addon/pages/hud/temper-interface/modules/quiet-strings/quiet-strings.module.code.ts"
+import { asNotificationData } from "akasha/temper/addon/pages/hud/temper-notification/modules/notification-casts/notification-casts.module.code.ts"
+import { NOTIFICATION_API } from "akasha/temper/addon/pages/hud/temper-notification/modules/notification-provider-link/notification-provider-link.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-notification/lib-notification.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-notification-global/temper-notification-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -21,8 +23,7 @@ export function handleLuaErrorEvent(this: void): undefined {
 
     function onLuaError(this: void, _eventCode: number, errString: string): undefined {
       if (savedVars.luaError === 1) {
-        const libNotifications = LibNotifications
-        const provider = libNotifications.CreateProvider()
+        const provider = NOTIFICATION_API.CreateProvider()
 
         const removeNotification = function (
           this: void,
@@ -61,7 +62,7 @@ export function handleLuaErrorEvent(this: void): undefined {
             data: { errString: errString },
           }
 
-          table.insert(provider.notifications, msg)
+          table.insert(provider.notifications, asNotificationData(msg))
           provider.UpdateNotifications()
           seenBugs[errString] = true
         }
