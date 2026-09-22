@@ -4,7 +4,7 @@ export const inboxRun = {
   id: "01a06596-a92d-7000-8626-c02c9e56a331",
   type: "page-type/module",
   slug: "inbox-run",
-  definition: "one run over the inbox carrying out what the rules say, and the claims it keeps",
+  definition: "a run over the inbox carrying out what the rules say, and the claims it keeps",
   code: "ts",
   decisions: [
     {
