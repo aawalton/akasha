@@ -10,7 +10,7 @@ export const akashaFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "132 are left. The first run is done: 344 read, 67 dropped. The second run is with Alan, in panel order down `kept-order.tsv` in the scratchpad. Next is `five-order-list-box-calls-set-the-parameter-beside-the-one-they-meant`, entry 171 of 275. Entry 166 is being worked and entry 167 waits on it. A drop needs no answer; only a proposal to do work is put to Alan. Other seats delete findings as this runs, so check each slug is still there. Verify by running, not reading.\n",
+        "130 are left. The first run is done: 344 read, 67 dropped. The second run is with Alan, in panel order down `kept-order.tsv` in the scratchpad. Next after this is entry 179 of 275. Entry 177 was put to Alan and is unanswered; entry 178 is being built. Entry 167 was held for the ESO generator and is measurable again. A drop needs no answer; only a proposal to do work is put to Alan. Other seats delete findings as this runs, so check each slug is still there. Verify by running, not reading.\n",
     },
     {
       statement: "No module nothing reaches is left.",
