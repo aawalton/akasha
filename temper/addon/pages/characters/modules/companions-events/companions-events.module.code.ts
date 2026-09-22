@@ -18,8 +18,8 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { refreshActivePanel } from "akasha/temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
 import { applySkills } from "akasha/temper/addon/pages/characters/modules/companions-apply-build/companions-apply-build.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/addon/pages/characters/modules/companions-constants/companions-constants.module.code.ts"
 import { decodeCompanionBuild } from "akasha/temper/addon/pages/characters/modules/companions-decoder/companions-decoder.module.code.ts"
 import { notifyCompanionRapportChange } from "akasha/temper/addon/pages/characters/modules/companions-overview-rapport/companions-overview-rapport.module.code.ts"
 import {
@@ -35,6 +35,7 @@ import {
   setSelectedCompanionId,
 } from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/characters/companions-declarations/companions-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-inventory-global/temper-inventory-global.type-declaration.d.ts"
@@ -75,7 +76,7 @@ export function registerCompanionEvents(): undefined {
     ADDON_NAME + "_CompanionDeactivated",
     EVENT_COMPANION_DEACTIVATED,
     function (this: void): undefined {
-      TemperCharacters.TabManager.RefreshActivePanel()
+      refreshActivePanel()
     }
   )
 

@@ -4,4 +4,4 @@ interface CompanionsConfigGlobal {
   readonly companionTargetTimestamps?: Record<number, number>
 }
 
-declare var TemperCompanionsConfig: CompanionsConfigGlobal | undefined
+declare var TemperCharactersCompanionsConfig: CompanionsConfigGlobal | undefined

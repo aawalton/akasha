@@ -417,11 +417,11 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.ts","id":"01a0611d-84dd-7991-bda4-54827db48eac"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-skill-map/companions-skill-map.module.ts","id":"01a0611d-84e2-7459-a5ca-157255030bb6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-functions/table-functions.module.ts","id":"01a06052-2ca4-7874-a41d-3892986d9cdd"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-charset/data-encode-charset.module.ts","id":"01a06061-969f-7a3f-8f90-cd7a3e2551ba"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-decoder/data-encode-decoder.module.ts","id":"01a06061-969f-7339-89aa-da319bf80d6b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-encoder/data-encode-encoder.module.ts","id":"01a06061-969e-7a22-9872-bfd327e2b7c1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/companions/temper-addon-companions.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-auto-autocompletion/lib-sets-auto-autocompletion.module.ts","id":"01a0623c-2df7-7942-a655-e30b89d4db2b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-copy-dialog/lib-sets-copy-dialog.module.ts","id":"01a0623c-2df8-7c0d-ae66-7d2de026a998"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-api-drop-zones-sets/lib-sets-core-api-drop-zones-sets.module.ts","id":"01a06231-8f1d-7d70-9ac2-92d18df83cb2"}

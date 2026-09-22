@@ -46,7 +46,6 @@ export interface SavedVariablesData {
   selectedCompanionId?: number
   companionTargetBuilds?: Record<number, string>
   companionTargetTimestamps?: Record<number, number>
-  perf?: { loadTimeMs: number }
 }
 
 let savedVarsInstance: SavedVariablesData | undefined
@@ -142,7 +141,7 @@ function isCompanionsConfig(value: unknown): value is CompanionsConfigGlobal {
 }
 
 function getActiveCompanionsConfig(): CompanionsConfigGlobal | undefined {
-  const candidate: unknown = globalThis.TemperCompanionsConfig
+  const candidate: unknown = globalThis.TemperCharactersCompanionsConfig
   if (!isCompanionsConfig(candidate)) return undefined
   if (candidate.version <= 0) return undefined
   return candidate

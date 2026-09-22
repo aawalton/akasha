@@ -4,13 +4,16 @@ export const companionsEntry = {
   id: "01a0611d-84d4-78d0-bf13-a155e200451a",
   type: "page-type/module",
   slug: "companions-entry",
-  definition: "what the companion add-on does as the game loads it",
+  definition: "what the companion code does once this add-on has loaded",
   code: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The companion tab is registered with the characters add-on rather than drawn alone.",
+      statement: "The companion tab is registered with the tab manager rather than drawn alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The companion code initialises after everything else the add-on initialises.",
     },
     {
       decisionKind: "decision-kind/departure",

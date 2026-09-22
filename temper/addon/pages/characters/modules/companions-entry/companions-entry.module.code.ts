@@ -26,11 +26,10 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/pages/characters/modules/companions-globals/companions-globals.module.code.ts"
-
+import { registerExternalTab } from "akasha/temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
+import { hideWindow } from "akasha/temper/addon/pages/characters/modules/characters-window/characters-window.module.code.ts"
 import { initializeFcoCompanion } from "akasha/temper/addon/pages/characters/modules/companion-qol-init/companion-qol-init.module.code.ts"
 import { refreshAllCompanionData } from "akasha/temper/addon/pages/characters/modules/companions-command/companions-command.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/addon/pages/characters/modules/companions-constants/companions-constants.module.code.ts"
 import { createCompanionEquipmentPanel } from "akasha/temper/addon/pages/characters/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts"
 import { refreshCompanionEquipmentPanel } from "akasha/temper/addon/pages/characters/modules/companions-equipment-refresh/companions-equipment-refresh.module.code.ts"
 import { registerCompanionEvents } from "akasha/temper/addon/pages/characters/modules/companions-events/companions-events.module.code.ts"
@@ -40,7 +39,6 @@ import {
   refreshCompanionPanel,
 } from "akasha/temper/addon/pages/characters/modules/companions-panel/companions-panel.module.code.ts"
 import {
-  getSavedVariables,
   initializeSavedVariables,
   restoreTargetBuildsFromSync,
 } from "akasha/temper/addon/pages/characters/modules/companions-saved-variables/companions-saved-variables.module.code.ts"
@@ -51,12 +49,7 @@ import {
 } from "akasha/temper/addon/pages/characters/modules/companions-skills-panel/companions-skills-panel.module.code.ts"
 import { createCompanionSummaryPanel } from "akasha/temper/addon/pages/characters/modules/companions-summary-panel/companions-summary-panel.module.code.ts"
 import { refreshCompanionSummaryPanel } from "akasha/temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"
-import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
-import {
-  finishPerfTrace,
-  startPerfTrace,
-} from "akasha/temper/modules/perf-trace/perf-trace.module.code.ts"
-import "akasha/temper/addon/pages/characters/companions-declarations/companions-declarations.type-declaration.d.ts"
+import { ADDON_NAME } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 
@@ -69,7 +62,7 @@ function registerCompanionSceneCallbacks(): undefined {
 
   const onStateChange = (_oldState: number, newState: number): undefined => {
     if (newState === SCENE_HIDING) {
-      TemperCharacters.HideWindow()
+      hideWindow()
     }
   }
 
@@ -81,15 +74,14 @@ function registerCompanionSceneCallbacks(): undefined {
   }
 }
 
-function initialize(): undefined {
-  const perfStart = startPerfTrace()
+export function initializeCompanions(): undefined {
   initializeSavedVariables()
   restoreSelectedCompanionId()
   restoreTargetBuildsFromSync()
   registerCompanionSceneCallbacks()
   installCompanionOverviewRapportOverlay()
 
-  TemperCharacters.TabManager.RegisterExternalTab(
+  registerExternalTab(
     {
       id: "companion",
       title: "Companion",
@@ -115,7 +107,7 @@ function initialize(): undefined {
   )
 
   EVENT_MANAGER.RegisterForEvent(
-    `${ADDON_NAME}_PlayerActivated`,
+    `${ADDON_NAME}_CompanionsPlayerActivated`,
     EVENT_PLAYER_ACTIVATED,
     function (this: void): undefined {
       refreshAllCompanionData()
@@ -124,9 +116,5 @@ function initialize(): undefined {
 
   registerCompanionEvents()
 
-  getSavedVariables().perf = finishPerfTrace(ADDON_NAME, perfStart)
-
   initializeFcoCompanion()
 }
-
-registerAddonInit(ADDON_NAME, initialize)

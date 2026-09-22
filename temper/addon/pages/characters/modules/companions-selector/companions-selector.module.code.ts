@@ -9,6 +9,7 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import { refreshActivePanel } from "akasha/temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
 import {
   ARMOR_SLOTS,
   captureCompanionBuild,
@@ -17,7 +18,6 @@ import {
   SKILL_SLOT_INDICES,
   WEAPON_SLOTS,
 } from "akasha/temper/addon/pages/characters/modules/companions-codec/companions-codec.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/addon/pages/characters/modules/companions-constants/companions-constants.module.code.ts"
 import {
   formatArmorSlot,
   formatJewelrySlot,
@@ -31,6 +31,7 @@ import {
   type SavedCompanionBuild,
   type SavedCompanionEquipmentSlot,
 } from "akasha/temper/addon/pages/characters/modules/companions-saved-variables/companions-saved-variables.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import "akasha/temper/addon/pages/characters/companions-declarations/companions-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -99,7 +100,7 @@ export function setSelectedCompanionId(companionId: number): undefined {
     syncComboBoxToCompanionId(comboBox, companionId)
   }
 
-  TemperCharacters.TabManager.RefreshActivePanel()
+  refreshActivePanel()
 }
 
 export function getSelectedCompanionId(): number | undefined {

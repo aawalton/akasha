@@ -102,34 +102,3 @@ declare const FCOCO_LAM_SETTING_HEADER_COMPASS: number
 declare const FCOCO_LAM_SETTING_DISABLE_PIN_AT_COMPASS: number
 
 declare const FCOCO_LAM_SETTING_DISABLE_PIN_AT_COMPASS_TT: number
-
-interface TemperCharactersTabManager {
-  RegisterExternalTab: (
-    this: void,
-    tabDef: { id: string; title: string; subTabs: { id: string; title: string }[] },
-    creators: Record<string, (this: void, container: Control) => Control>,
-    refreshers: Record<string, (this: void) => undefined>
-  ) => undefined
-  RefreshActivePanel: (this: void) => undefined
-  SelectTopTab: (this: void, tabId: string, subTabId?: string) => undefined
-  SelectSubTab: (this: void, parentTabId: string, subTabId: string) => undefined
-}
-
-interface TemperCharactersSavedVariables {
-  navigation: {
-    selectedTab: string
-    selectedSubTab: string
-    windowPosition?: { left: number; top: number }
-  }
-  account: { achievements: Record<string, unknown> }
-  characters: Record<string, { companionRapport?: Record<number, number> }>
-}
-
-declare const TemperCharacters: {
-  getSavedVariables: (this: void) => TemperCharactersSavedVariables
-  HideWindow: (this: void) => undefined
-  ShowWindow: (this: void) => undefined
-  ToggleWindow: (this: void) => undefined
-  scheduleTaskAutoCompletionCheck: (this: void) => undefined
-  TabManager: TemperCharactersTabManager
-}

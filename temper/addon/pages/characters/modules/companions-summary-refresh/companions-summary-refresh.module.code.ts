@@ -20,6 +20,7 @@ import {
   TEXT_PRIMARY,
   TEXT_TERTIARY,
 } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
+import { refreshActivePanel } from "akasha/temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
 import {
   applyBuild,
   equipUpgrades,
@@ -207,7 +208,7 @@ export function refreshCompanionSummaryPanel(): undefined {
           const totalDelay = freshScan.totalUpgradeCount * 200 + 500
           zo_callLater(() => {
             captureAndSaveActiveCompanionBuild()
-            TemperCharacters.TabManager.RefreshActivePanel()
+            refreshActivePanel()
           }, totalDelay)
         }
       })
@@ -232,7 +233,7 @@ export function refreshCompanionSummaryPanel(): undefined {
         applyBuild(companionId, hash)
         zo_callLater(() => {
           captureAndSaveActiveCompanionBuild()
-          TemperCharacters.TabManager.RefreshActivePanel()
+          refreshActivePanel()
         }, 1500)
       })
       row.applyLabel.SetHandler("OnMouseEnter", () => {

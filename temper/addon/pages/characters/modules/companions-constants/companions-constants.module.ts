@@ -4,13 +4,17 @@ export const companionsConstants = {
   id: "01a0611d-84d2-779b-a879-d2363a90342d",
   type: "page-type/module",
   slug: "companions-constants",
-  definition: "the add-on's name and the shape its saved variables start out as",
+  definition:
+    "the names the companion code registers under and the shape its saved table starts out as",
   code: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The add-on name is the one key every saved variables read and every event name is built from.",
+      statement: "Every event name the companion code registers is built from the add-on name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The companion saved table keeps the name the game already persists it under.",
     },
   ],
 } as const satisfies Module

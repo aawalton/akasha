@@ -3,11 +3,12 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import { scheduleTaskAutoCompletionCheck } from "akasha/temper/addon/pages/characters/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 import {
   ensureCompanionEntry,
   type SavedCompanionEntry,
 } from "akasha/temper/addon/pages/characters/modules/companions-saved-variables/companions-saved-variables.module.code.ts"
-import "akasha/temper/addon/pages/characters/companions-declarations/companions-declarations.type-declaration.d.ts"
+import { getSavedVariables as getCharactersSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 function getActiveCompanionEntry(): SavedCompanionEntry | undefined {
   if (!HasActiveCompanion()) return undefined
@@ -52,7 +53,7 @@ export function collectCompanionProgress(): undefined {
   const rawRapport = GetActiveCompanionRapport()
   entry.rapport = rawRapport
 
-  const charEntry = TemperCharacters.getSavedVariables().characters[GetCurrentCharacterId()]
+  const charEntry = getCharactersSavedVariables().characters[GetCurrentCharacterId()]
   if (charEntry !== undefined) {
     if (charEntry.companionRapport === undefined) charEntry.companionRapport = {}
     charEntry.companionRapport[GetActiveCompanionDefId()] = rawRapport
@@ -75,7 +76,7 @@ function updateCompanionRapport(currentRapport: number): undefined {
 
   entry.rapport = currentRapport
 
-  const charEntry = TemperCharacters.getSavedVariables().characters[GetCurrentCharacterId()]
+  const charEntry = getCharactersSavedVariables().characters[GetCurrentCharacterId()]
   if (charEntry !== undefined) {
     if (charEntry.companionRapport === undefined) charEntry.companionRapport = {}
     charEntry.companionRapport[GetActiveCompanionDefId()] = currentRapport
@@ -84,7 +85,7 @@ function updateCompanionRapport(currentRapport: number): undefined {
 
 export function handleCompanionRapportUpdate(currentRapport: number): undefined {
   updateCompanionRapport(currentRapport)
-  TemperCharacters.scheduleTaskAutoCompletionCheck()
+  scheduleTaskAutoCompletionCheck()
 }
 
 export function updateCompanionSkillLine(skillLineId: number): undefined {

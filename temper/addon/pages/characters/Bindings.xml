@@ -11,4 +11,41 @@
       </Action>
     </Category>
   </Layer>
+  <Layer name="SI_KEYBINDINGS_CATEGORY_GENERAL">
+    <Category name="Temper Companion">
+      <Action name="FCOCO_TOGGLE_COMPANION">
+        <Down>TemperCharacters.ToggleCompanion()</Down>
+      </Action>
+      <Action name="FCOCO_TOGGLE_COMPANION_1">
+        <Down>TemperCharacters.ToggleCompanion(1)</Down>
+      </Action>
+      <Action name="FCOCO_TOGGLE_COMPANION_2">
+        <Down>TemperCharacters.ToggleCompanion(2)</Down>
+      </Action>
+      <Action name="FCOCO_TOGGLE_COMPANION_3">
+        <Down>TemperCharacters.ToggleCompanion(3)</Down>
+      </Action>
+      <Action name="FCOCO_TOGGLE_COMPANION_4">
+        <Down>TemperCharacters.ToggleCompanion(4)</Down>
+      </Action>
+      <Action name="FCOCO_TOGGLE_COMPANION_5">
+        <Down>TemperCharacters.ToggleCompanion(5)</Down>
+      </Action>
+      <Action name="FCOCO_TOGGLE_COMPANION_6">
+        <Down>TemperCharacters.ToggleCompanion(6)</Down>
+      </Action>
+      <Action name="FCOCO_TOGGLE_COMPANION_7">
+        <Down>TemperCharacters.ToggleCompanion(7)</Down>
+      </Action>
+      <Action name="FCOCO_TOGGLE_COMPANION_8">
+        <Down>TemperCharacters.ToggleCompanion(8)</Down>
+      </Action>
+      <Action name="FCOCO_TOGGLE_COMPANION_9">
+        <Down>TemperCharacters.ToggleCompanion(9)</Down>
+      </Action>
+      <Action name="FCOCO_TOGGLE_COMPANION_10">
+        <Down>TemperCharacters.ToggleCompanion(10)</Down>
+      </Action>
+    </Category>
+  </Layer>
 </Bindings>

@@ -40,6 +40,7 @@ import { collectTraitResearch } from "akasha/temper/addon/pages/characters/modul
 import { collectTributeCardUpgrades } from "akasha/temper/addon/pages/characters/modules/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
 import { toggleWindow } from "akasha/temper/addon/pages/characters/modules/characters-window/characters-window.module.code.ts"
 import { collectZoneCompletion } from "akasha/temper/addon/pages/characters/modules/characters-zone-completion/characters-zone-completion.module.code.ts"
+import { initializeCompanions } from "akasha/temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
@@ -145,6 +146,7 @@ function initialize(): undefined {
   getSavedVariables().perf = finishPerfTrace(ADDON_NAME, perfStart)
 
   initializeSkillPointFinder()
+  initializeCompanions()
 }
 
 registerAddonInit(ADDON_NAME, initialize)

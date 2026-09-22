@@ -1,9 +1,0 @@
-import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
-
-export const companionQolGlobalsDeclarations = {
-  id: "01a0625f-6d05-73e1-902a-995798f16b06",
-  type: "page-type/type-declaration",
-  slug: "companion-qol-globals-declarations",
-  definition: "the global name the companion quality-of-life table is reached by",
-  d: "ts",
-} as const satisfies TypeDeclaration

@@ -4,7 +4,7 @@ export const companionQolInit = {
   id: "01a0611d-84c8-7409-b365-635778e4701c",
   type: "page-type/module",
   slug: "companion-qol-init",
-  definition: "what the quality-of-life code does as the companion add-on loads it",
+  definition: "what the quality-of-life code does as the companion code initialises",
   code: "ts",
   decisions: [
     {

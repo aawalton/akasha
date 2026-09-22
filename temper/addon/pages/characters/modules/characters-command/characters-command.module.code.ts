@@ -26,6 +26,10 @@ import { refreshAllTraitResearch } from "akasha/temper/addon/pages/characters/mo
 import { refreshAllTributeCardUpgrades } from "akasha/temper/addon/pages/characters/modules/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
 import { collectZoneCompletion } from "akasha/temper/addon/pages/characters/modules/characters-zone-completion/characters-zone-completion.module.code.ts"
 import {
+  refreshAllCompanionData,
+  resetAllCompanionData,
+} from "akasha/temper/addon/pages/characters/modules/companions-command/companions-command.module.code.ts"
+import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
 } from "akasha/temper/capture/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts"
@@ -34,7 +38,6 @@ import { collectMotifKnowledge } from "akasha/temper/player/completion/temper-pl
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/addon/type/temper-companions-global/temper-companions-global.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-hud-global/temper-hud-global.type-declaration.d.ts"
 
 const SLASH_COMMAND_LISTINGS = [
@@ -82,7 +85,7 @@ function refreshAllData(): undefined {
   collectMotifKnowledge()
   savedVars.account.championPointsEarned = GetPlayerChampionPointsEarned()
 
-  globalThis.TemperCompanions_RefreshAllData?.()
+  refreshAllCompanionData()
 }
 
 function onTemperRefreshCommand(this: void): undefined {
@@ -99,7 +102,7 @@ function onTemperResetCommand(this: void): undefined {
   savedVars.characters = {}
   savedVars.account = { achievements: {} }
 
-  globalThis.TemperCompanions_ResetAllData?.()
+  resetAllCompanionData()
 
   refreshAllData()
   d("[Temper] All data refreshed")

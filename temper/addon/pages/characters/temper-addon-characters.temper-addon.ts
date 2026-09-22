@@ -10,7 +10,7 @@ export const temperAddonCharacters = {
   addonManifest: "json",
   bundleEntry: "module/characters-entry",
   bindings: "xml",
-  luaModules: ["lua-module/characters-config-global"],
+  luaModules: ["lua-module/characters-config-global", "lua-module/companions-config"],
   parts: [
     "eso-interface/skill-point-finder-layout",
     "lua-module/characters-config-global",
@@ -95,7 +95,6 @@ export const temperAddonCharacters = {
     "module/companion-qol-compass",
     "module/companion-qol-constants",
     "module/companion-qol-core",
-    "module/companion-qol-globals",
     "module/companion-qol-init",
     "module/companion-qol-interaction-handlers",
     "module/companion-qol-interaction-state",
@@ -118,7 +117,6 @@ export const temperAddonCharacters = {
     "module/companions-equipment-refresh",
     "module/companions-equipment-rows",
     "module/companions-events",
-    "module/companions-globals",
     "module/companions-id-map",
     "module/companions-inventory-matcher",
     "module/companions-overview-rapport",
@@ -133,7 +131,6 @@ export const temperAddonCharacters = {
     "module/companions-summary-panel",
     "module/companions-summary-refresh",
     "module/companions-target-build-input",
-    "type-declaration/companion-qol-globals-declarations",
     "type-declaration/companions-declarations",
     "type-declaration/companions-saved-variables-declarations",
   ],
@@ -148,6 +145,34 @@ export const temperAddonCharacters = {
       decisionKind: "decision-kind/departure",
       statement:
         "The shape of that saved table is declared by a folder outside this add-on rather than here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion's gear and skills are written out as one hash a player can carry.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The index a hash has is the index the codec constants and mappings give.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "A mapping index moved to another place breaks every companion hash saved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The companion panels are a tab of this add-on's window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only gear a companion already has is offered as an upgrade.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Dismissing and resummoning a companion around an interaction is folded in here.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here reads another player's companion.",
     },
   ],
 } as const satisfies TemperAddon

@@ -24,8 +24,6 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/pages/characters/modules/companion-qol-globals/companion-qol-globals.module.code.ts"
-
 import "akasha/temper/addon/pages/characters/modules/companion-qol-constants/companion-qol-constants.module.code.ts"
 import "akasha/temper/addon/pages/characters/modules/companion-qol-core/companion-qol-core.module.code.ts"
 import "akasha/temper/addon/pages/characters/modules/companion-qol-rapport/companion-qol-rapport.module.code.ts"

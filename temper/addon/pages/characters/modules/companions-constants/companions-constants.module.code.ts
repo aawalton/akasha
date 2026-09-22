@@ -1,4 +1,3 @@
-export const ADDON_NAME = "TemperCompanions"
 export const SAVED_VARIABLES_NAME = "TemperCompanions_SavedVariables"
 
 type SavedVariablesDefaultsShape = {

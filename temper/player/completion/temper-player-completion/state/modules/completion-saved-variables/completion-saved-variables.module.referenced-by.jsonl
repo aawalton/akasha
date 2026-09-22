@@ -32,6 +32,7 @@
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-window/characters-window.module.code.ts"}
+{"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/companions-progress/companions-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-progress/skill-morph-task-progress.module.code.ts"}

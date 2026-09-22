@@ -1,7 +1,7 @@
 {
   "name": "TemperCharacters",
   "title": "Temper Characters",
-  "description": "Import and export ESO character builds from Temper, plus the Temper Completion — Skill Points window: a per-character, cross-character skill-point progress tracker.",
+  "description": "Import and export ESO character builds from Temper, plus the Temper Completion — Skill Points window: a per-character, cross-character skill-point progress tracker, plus companion build management and companion quality-of-life: un/re-summon keybinds, compass-pin toggle, numeric rapport label.",
   "author": "AlanGaming",
   "version": "1.0.0",
   "addonVersion": 100,
@@ -11,14 +11,21 @@
   ],
   "savedVariables": [
     "TemperCharacters_SavedVariables",
-    "TemperSkillPointFinder_SavedVariables"
+    "TemperSkillPointFinder_SavedVariables",
+    "TemperCompanions_SavedVariables",
+    "FCOCompanion_Settings",
+    "FCOCompanion_Settings_PerToon"
   ],
   "dependsOn": [
     "LibAddonMenu-2.0>=43",
     "TemperHud"
   ],
+  "optionalDependsOn": [
+    "LibCustomMenu>=730"
+  ],
   "additionalLuaFiles": [
-    "TemperCharactersConfig.lua"
+    "TemperCharactersConfig.lua",
+    "TemperCharactersCompanionsConfig.lua"
   ],
   "xmlFiles": {
     "afterBundle": [

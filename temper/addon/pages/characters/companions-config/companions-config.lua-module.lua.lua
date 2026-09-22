@@ -1,1 +1,1 @@
-TemperCompanionsConfig = nil
+TemperCharactersCompanionsConfig = nil

@@ -12,28 +12,55 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
-    runFor: "TemperCompanions",
+    runFor: "TemperCharacters",
     spec: {
-      absorbedFileBase: "FCOCompanion",
-      absorbedGlobal: "FCOCompanion_Settings",
-      targetFileBase: "TemperCompanions",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperCompanions",
-    spec: {
-      absorbedFileBase: "FCOCompanion",
-      absorbedGlobal: "FCOCompanion_Settings_PerToon",
-      targetFileBase: "TemperCompanions",
+      absorbedFileBase: "TemperSkillPointFinder",
+      absorbedGlobal: "TemperSkillPointFinder_SavedVariables",
+      targetFileBase: "TemperCharacters",
     },
   },
   {
     mode: "append",
     runFor: "TemperCharacters",
     spec: {
-      absorbedFileBase: "TemperSkillPointFinder",
-      absorbedGlobal: "TemperSkillPointFinder_SavedVariables",
+      absorbedFileBase: "TemperCompanions",
+      absorbedGlobal: "TemperCompanions_SavedVariables",
+      targetFileBase: "TemperCharacters",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperCharacters",
+    spec: {
+      absorbedFileBase: "TemperCompanions",
+      absorbedGlobal: "FCOCompanion_Settings",
+      targetFileBase: "TemperCharacters",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperCharacters",
+    spec: {
+      absorbedFileBase: "TemperCompanions",
+      absorbedGlobal: "FCOCompanion_Settings_PerToon",
+      targetFileBase: "TemperCharacters",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperCharacters",
+    spec: {
+      absorbedFileBase: "FCOCompanion",
+      absorbedGlobal: "FCOCompanion_Settings",
+      targetFileBase: "TemperCharacters",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperCharacters",
+    spec: {
+      absorbedFileBase: "FCOCompanion",
+      absorbedGlobal: "FCOCompanion_Settings_PerToon",
       targetFileBase: "TemperCharacters",
     },
   },

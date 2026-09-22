@@ -3623,7 +3623,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-compass/companion-qol-compass.module.ts","id":"01a0611d-84c5-7033-849d-5e422d08a22a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-constants/companion-qol-constants.module.ts","id":"01a0611d-84c6-7e76-97f3-a24fa6b91e9a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-core/companion-qol-core.module.ts","id":"01a0611d-84c6-7ad9-9eb6-645084830a14"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-globals/companion-qol-globals.module.ts","id":"01a0611d-84c7-7d9e-8f94-55dee6f9ebf2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-init/companion-qol-init.module.ts","id":"01a0611d-84c8-7409-b365-635778e4701c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-interaction-handlers/companion-qol-interaction-handlers.module.ts","id":"01a0611d-84c8-77bb-90ec-9585304e04c6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-interaction-state/companion-qol-interaction-state.module.ts","id":"01a0611d-84c9-773b-b409-f70118da30cb"}
@@ -3645,7 +3644,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-equipment-refresh/companions-equipment-refresh.module.ts","id":"01a0611d-84d7-7825-a380-e661d8b35a05"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-equipment-rows/companions-equipment-rows.module.ts","id":"01a0611d-84d8-7602-83da-54ad2d53b4dd"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-events/companions-events.module.ts","id":"01a0611d-84d9-7779-9148-3a4577993184"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-globals/companions-globals.module.ts","id":"01a0611d-84dc-7ccb-8d6e-224471379bbc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-inventory-matcher/companions-inventory-matcher.module.ts","id":"01a0611d-84dd-7692-b051-cdbafe3f791d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-overview-rapport/companions-overview-rapport.module.ts","id":"01a0611d-84dd-77d5-88e1-b34569c99e53"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-panel/companions-panel.module.ts","id":"01a0611d-84de-7c65-8411-3dd9d941484a"}
@@ -3686,7 +3684,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-surface/data-encode-surface.module.ts","id":"01a06061-969e-7d0d-b494-268228c7f6a5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-types/data-encode-types.module.ts","id":"01a06061-96a2-7fff-82c3-b9b5976c8acf"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/companions/temper-addon-companions.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/crafting-sets.domain.ts","id":"01a0c6a0-0160-75ed-ad0d-8f601468b4c5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-auto-autocompletion/lib-sets-auto-autocompletion.module.ts","id":"01a0623c-2df7-7942-a655-e30b89d4db2b"}
