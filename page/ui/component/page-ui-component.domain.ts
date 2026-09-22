@@ -108,6 +108,7 @@ export const pageUiComponent = {
     "module/reader-prose-body",
     "module/reader-sentence-layout",
     "module/reader-typography",
+    "module/record-property-badge",
     "module/relation-display",
     "module/relation-filter-inputs",
     "module/relation-popover",

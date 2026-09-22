@@ -3205,6 +3205,7 @@
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/progress-property-badge/progress-property-badge.module.ts","id":"01a0620f-82c5-700e-8442-3316875e400c"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/property-badge/property-badge.module.ts","id":"01a0620f-82c5-700f-bcd7-80f904364925"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/property-row/property-row.module.ts","id":"01a0a0d2-ad9f-7cf3-a201-b2c2690423c7"}
+{"propertySlug":"decision-kind","path":"page/ui/component/modules/record-property-badge/record-property-badge.module.ts","id":"01a0c9b0-274e-730c-9885-7bdd5df18204"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/relation-display/relation-display.module.ts","id":"01a05cba-f39f-7e30-90ba-2bc9d8ac77bd"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/relation-popover/relation-popover.module.ts","id":"01a0617e-0d2d-7007-9b42-5b4f872dbcc8"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/select-property-badge/select-property-badge.module.ts","id":"01a0620f-82c6-7001-b242-9b93b6a857fa"}

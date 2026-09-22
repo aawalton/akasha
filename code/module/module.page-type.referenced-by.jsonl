@@ -2325,6 +2325,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/reader-prose/reader-prose.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/reader-sentence-layout/reader-sentence-layout.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/reader-typography/reader-typography.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/record-property-badge/record-property-badge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/relation-display/relation-display.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/relation-filter-inputs/relation-filter-inputs.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/relation-popover/relation-popover.module.ts"}

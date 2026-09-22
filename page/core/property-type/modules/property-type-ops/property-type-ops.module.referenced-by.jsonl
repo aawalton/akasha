@@ -38,6 +38,7 @@
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/ui/component/modules/property-badge/property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/ui/component/modules/property-row/property-row.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/ui/component/modules/quick-add-form/quick-add-form.module.code.tsx"}
+{"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/ui/component/modules/record-property-badge/record-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/ui/component/modules/relation-filter-inputs/relation-filter-inputs.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/ui/component/modules/value-filter-inputs/value-filter-inputs.module.code.tsx"}
 {"propertySlug":"parts","path":"page/core/property-type/page-core-property-type.domain.ts","id":"01a071cb-236e-781b-9c7d-29bf3bd222c7"}

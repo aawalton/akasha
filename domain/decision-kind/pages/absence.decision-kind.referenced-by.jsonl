@@ -1660,6 +1660,7 @@
 {"propertySlug":"decision-kind","path":"page/type/properties/uncommitted.boolean-property.ts","id":"01a04fc4-b988-7afd-89a2-9c87b0274410"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/auth-provider/auth-provider.module.ts","id":"01a06582-2737-7f5c-8019-8dd5e784db92"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/page-detail-properties/page-detail-properties.module.ts","id":"01a06257-46ed-7cf6-b31e-9adb50ca83bc"}
+{"propertySlug":"decision-kind","path":"page/ui/component/modules/record-property-badge/record-property-badge.module.ts","id":"01a0c9b0-274e-730c-9885-7bdd5df18204"}
 {"propertySlug":"decision-kind","path":"page/view/modules/key-naming/key-naming.module.ts","id":"01a0c56b-6f8d-7a73-a14d-5963b94c9672"}
 {"propertySlug":"decision-kind","path":"person/device-secret/device-secret.page-type.ts","id":"01a05b39-f50b-77c0-826c-a526838d12ac"}
 {"propertySlug":"decision-kind","path":"person/device-secret/properties/device-secret-hash.text-property.ts","id":"01a05b39-f50c-7eb2-a48c-d4679699f045"}

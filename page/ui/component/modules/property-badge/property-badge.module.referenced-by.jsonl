@@ -26,6 +26,7 @@
 {"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"page/ui/component/modules/page-title-properties/page-title-properties.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"page/ui/component/modules/progress-property-badge/progress-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"page/ui/component/modules/property-badge-drawings/property-badge-drawings.module.code.ts"}
+{"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"page/ui/component/modules/record-property-badge/record-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"page/ui/component/modules/select-property-badge/select-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"page/url-property/url-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"property-badge.module.code.tsx","path":"temper/player/progress/temper-task-progress/temper-task-progress.page-type.property-badge-component.code.tsx"}
