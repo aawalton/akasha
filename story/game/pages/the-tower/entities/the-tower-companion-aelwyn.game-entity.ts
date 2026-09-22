@@ -9,7 +9,6 @@ export const theTowerCompanionAelwyn = {
   kind: "ally",
   class:
     "Bulwark (tentative) — frontline tank/protector; holds the line, soaks hits, controls space",
-  level: 1,
   equipment: [{ name: "worn but sound brigandine", slot: "armor", defense: 3 }],
   dice: "game-mechanic/two-d-ten",
   unspentAttributePoints: 0,

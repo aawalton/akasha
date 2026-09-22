@@ -8,7 +8,6 @@ export const theTowerDrownedSentry01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Waterlogged Husk",
-  level: 2,
   equipment: [
     { name: "armor", slot: "armor", defense: 3 },
     { name: "weapon", slot: "weapon", attack: 5 },

@@ -8,7 +8,6 @@ export const theTowerPlinthGolem01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Stone Warden",
-  level: 3,
   equipment: [
     { name: "armor", slot: "armor", defense: 5 },
     { name: "weapon", slot: "weapon", attack: 6 },

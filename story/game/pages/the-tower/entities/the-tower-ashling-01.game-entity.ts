@@ -8,7 +8,6 @@ export const theTowerAshling01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Ember-thing",
-  level: 1,
   equipment: [
     { name: "armor", slot: "armor", defense: 0 },
     { name: "weapon", slot: "weapon", attack: 0 },

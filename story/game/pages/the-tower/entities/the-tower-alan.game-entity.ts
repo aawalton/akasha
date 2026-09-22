@@ -7,7 +7,6 @@ export const theTowerAlan = {
   title: "Alan",
   game: "game/the-tower",
   kind: "player",
-  level: 7,
   skills: [
     {
       name: "Ember Channel",

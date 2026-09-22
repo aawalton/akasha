@@ -8,7 +8,6 @@ export const theTowerCounterweightColossus01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Mechanism Warden",
-  level: 4,
   equipment: [
     { name: "armor", slot: "armor", defense: 4 },
     { name: "weapon", slot: "weapon", attack: 6 },

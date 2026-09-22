@@ -8,7 +8,6 @@ export const theTowerLeechGlut01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Leech-swarm",
-  level: 2,
   equipment: [
     { name: "armor", slot: "armor", defense: 0 },
     { name: "weapon", slot: "weapon", attack: 0 },

@@ -8,7 +8,6 @@ export const theTowerTheWelcomer01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Glamour-predator",
-  level: 4,
   equipment: [
     { name: "armor", slot: "armor", defense: 0 },
     { name: "weapon", slot: "weapon", attack: 3 },

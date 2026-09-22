@@ -8,7 +8,6 @@ export const theTowerTheHost01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Gallery Warden",
-  level: 5,
   equipment: [
     { name: "armor", slot: "armor", defense: 2 },
     { name: "weapon", slot: "weapon", attack: 4 },

@@ -8,7 +8,6 @@ export const theTowerTheHostTrueform02 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Haven-predator (unmasked)",
-  level: 5,
   equipment: [
     { name: "armor", slot: "armor", defense: 1 },
     { name: "weapon", slot: "weapon", attack: 5 },
