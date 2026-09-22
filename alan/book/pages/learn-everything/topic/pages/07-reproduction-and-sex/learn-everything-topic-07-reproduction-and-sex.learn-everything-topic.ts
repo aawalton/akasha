@@ -12,6 +12,7 @@ export const learnEverythingTopic07ReproductionAndSex = {
     "learn-everything-topic/learn-everything-topic-03-the-structures-and-functions-of-organisms",
   ],
   frontier: "md",
+  integration: "md",
   misconceptions: "md",
   bites: "md",
   topicEvidence: "md",
