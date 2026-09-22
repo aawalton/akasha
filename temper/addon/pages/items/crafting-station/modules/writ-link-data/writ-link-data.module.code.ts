@@ -1,7 +1,7 @@
 import { LINK } from "akasha/temper/addon/pages/items/crafting-station/modules/writ-link-data-table/writ-link-data-table.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/modules/writ-public-api/writ-public-api.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/items/crafting-station/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/writ-global/writ-global.type-declaration.d.ts"
 
 export function toLinkKey(name: string): string {
   const [s1] = string.gsub(name, "%^.*", "")

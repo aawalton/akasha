@@ -5,8 +5,8 @@ import {
   getSv,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/items/crafting-station/writ-mark-decl-writ-worthy/writ-mark-decl-writ-worthy.type-declaration.d.ts"
-import "akasha/temper/addon/pages/items/crafting-station/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/writ-mark-decl-tracker/writ-mark-decl-tracker.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/writ-global/writ-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"

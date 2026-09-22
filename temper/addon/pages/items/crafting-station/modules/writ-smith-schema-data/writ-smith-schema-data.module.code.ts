@@ -8,7 +8,7 @@ import type {
   School,
   TraitSet,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
-import "akasha/temper/addon/pages/items/crafting-station/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/writ-global/writ-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 

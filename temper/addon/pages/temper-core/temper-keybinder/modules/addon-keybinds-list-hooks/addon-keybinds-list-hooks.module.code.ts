@@ -6,7 +6,7 @@ import {
 } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/addon-keybinds-names/addon-keybinds-names.module.code.ts"
 import type { LakTable } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/addon-keybinds-types/addon-keybinds-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/items/crafting-station/writ-mark-decl-writ-worthy/writ-mark-decl-writ-worthy.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/writ-mark-decl-tracker/writ-mark-decl-tracker.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-keybinder/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"

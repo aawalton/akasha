@@ -3,7 +3,7 @@ import { strOrKey as wwStr } from "akasha/temper/addon/pages/items/crafting-stat
 import "akasha/temper/addon/pages/items/crafting-station/modules/slash-commander-init/slash-commander-init.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/modules/writ-public-api/writ-public-api.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/items/crafting-station/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/writ-global/writ-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -91,7 +91,7 @@ export function registerSlashCommands(this: void): undefined {
     function (this: void, arg?: string) {
       slashCommand(arg ?? "")
     },
-    wwStr("slash_writworthy_desc")
+    wwStr("slash_writ_desc")
   )
 
   const subForget = cmd.RegisterSubCommand()

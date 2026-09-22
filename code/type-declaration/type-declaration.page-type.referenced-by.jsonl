@@ -38,8 +38,8 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/knowledge-string-ids/knowledge-string-ids.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/slash-commander-declarations/slash-commander-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/writ-mark-decl-writ-worthy/writ-mark-decl-writ-worthy.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/writ-writworthy-global/writ-writworthy-global.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/writ-global/writ-global.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/writ-mark-decl-tracker/writ-mark-decl-tracker.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/guild-history/sales-history-controls/sales-history-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/items/inventory-config-global/inventory-config-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/addon-menu-eso-combobox/addon-menu-eso-combobox.type-declaration.ts"}

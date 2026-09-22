@@ -3,7 +3,7 @@ import {
   SAVED_VARIABLES_NAME,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/writ-constants/writ-constants.module.code.ts"
 import { str } from "akasha/temper/addon/pages/items/crafting-station/modules/writ-i18n/writ-i18n.module.code.ts"
-import "akasha/temper/addon/pages/items/crafting-station/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/writ-global/writ-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
 const WW_DEFAULT: {

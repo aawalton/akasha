@@ -1,9 +1,9 @@
 import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
 
-export const writWritworthyGlobal = {
+export const writGlobal = {
   id: "01a061c7-e8bf-758d-938a-7d15d93e3261",
   type: "page-type/type-declaration",
-  slug: "writ-writworthy-global",
+  slug: "writ-global",
   definition: "the global table the writ tracker hangs its namespaces and saved variables on",
   d: "ts",
 } as const satisfies TypeDeclaration

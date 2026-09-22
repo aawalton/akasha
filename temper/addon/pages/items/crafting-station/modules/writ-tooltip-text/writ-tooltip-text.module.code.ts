@@ -16,7 +16,7 @@ import {
   toMoney,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/writ-util/writ-util.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/items/crafting-station/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/writ-global/writ-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-writ-tooltip/eso-writ-tooltip.type-declaration.d.ts"
 

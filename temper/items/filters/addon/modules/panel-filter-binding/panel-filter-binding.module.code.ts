@@ -8,7 +8,7 @@ import type {
   FilterValue,
 } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
-import "akasha/temper/addon/pages/items/crafting-station/writ-mark-decl-writ-worthy/writ-mark-decl-writ-worthy.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/writ-mark-decl-tracker/writ-mark-decl-tracker.type-declaration.d.ts"
 
 export type FactsSource = (this: void, slotData: InventoryRowSlotData) => ItemFacts | undefined
 

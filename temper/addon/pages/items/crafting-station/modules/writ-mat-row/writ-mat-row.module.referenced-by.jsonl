@@ -4,5 +4,5 @@
 {"propertySlug":"import","fileName":"writ-mat-row.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-prov-data/writ-prov-data.module.code.ts"}
 {"propertySlug":"import","fileName":"writ-mat-row.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-smith-parser-ops/writ-smith-parser-ops.module.code.ts"}
 {"propertySlug":"import","fileName":"writ-mat-row.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-tooltip-text/writ-tooltip-text.module.code.ts"}
-{"propertySlug":"import","fileName":"writ-mat-row.module.code.ts","path":"temper/addon/pages/items/crafting-station/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"}
+{"propertySlug":"import","fileName":"writ-mat-row.module.code.ts","path":"temper/addon/pages/items/crafting-station/writ-global/writ-global.type-declaration.d.ts"}
 {"propertySlug":"parts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}

@@ -5,7 +5,7 @@ import { smithingInit } from "akasha/temper/addon/pages/items/crafting-station/m
 import type { School } from "akasha/temper/addon/pages/items/crafting-station/modules/writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/modules/writ-public-api/writ-public-api.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/items/crafting-station/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/addon/pages/items/crafting-station/writ-global/writ-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"

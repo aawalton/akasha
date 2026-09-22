@@ -1,5 +1,5 @@
 export const STATIC_STRINGS: Record<string, string> = {
-  ["ags_label"]: "WritWorthy cost per voucher",
+  ["ags_label"]: "Temper cost per voucher",
   ["button_dequeue_all"]: "Dequeue All",
   ["button_enqueue_all"]: "Enqueue All",
   ["button_sort_by_station"]: "Sort by Station",
@@ -71,7 +71,7 @@ export const STATIC_STRINGS: Record<string, string> = {
   ["header_tooltip_Q"]: "Enqueued for crafting",
   ["header_tooltip_RequiredCt"]: "How many required for writs?",
   ["header_tooltip_V"]: "Voucher count",
-  ["keybind_writworthy"]: "Toggle window",
+  ["keybind_writ"]: "Toggle window",
   ["know_err_llc_too_old"]: "LibLazyCrafting %s requires update for set %d %s",
   ["know_err_motif"]: "Motif %s not known",
   ["know_err_recipe"]: "Recipe not known",
@@ -82,13 +82,12 @@ export const STATIC_STRINGS: Record<string, string> = {
   ["lam_att_price_desc"]: "Check with Arkadius Trade Tools for material prices.",
   ["lam_att_price_title"]: "Use ATT prices",
   ["lam_banked_vouchers_desc"]:
-    "Scan bank and include those writs in the list of writs available to automatically craft.\n|cFF3333BE CAREFUL if you craft on multiple characters! WritWorthy will not warn you if you craft the same banked writ on multiple characters.|r",
+    "Scan bank and include those writs in the list of writs available to automatically craft.\n|cFF3333BE CAREFUL if you craft on multiple characters! Temper will not warn you if you craft the same banked writ on multiple characters.|r",
   ["lam_banked_vouchers_title"]: "Include writs from bank in auto-crafting window",
   ["lam_cmw_desc"]:
-    "If you prefer Marify's Confirm Master Writ tooltips turn this option off to hide WritWorthy's redundant warning tooltips.",
+    "If you prefer Marify's Confirm Master Writ tooltips turn this option off to hide Temper's redundant warning tooltips.",
   ["lam_cmw_title"]: "Show duplicate tooltips",
-  ["lam_force_en_desc"]:
-    "Ignore client language setting and use EN English for all WritWorthy text.",
+  ["lam_force_en_desc"]: "Ignore client language setting and use EN English for all Temper text.",
   ["lam_force_en_title"]: "Force EN English",
   ["lam_mat_list_alchemy_only"]: "Alchemy Only",
   ["lam_mat_list_all"]: "All",
@@ -107,7 +106,7 @@ export const STATIC_STRINGS: Record<string, string> = {
   ["lam_mm_price_desc"]: "Check with Master Merchant for material prices.",
   ["lam_mm_price_title"]: "Use MM prices",
   ["lam_station_colors_desc"]:
-    "Use different colors for blacksmithing, clothing, and woodworking items in the WritWorthy window.",
+    "Use different colors for blacksmithing, clothing, and woodworking items in the Temper window.",
   ["lam_station_colors_title"]: "Station colors in window",
   ["lam_ttc_price_desc"]: "Check with Tamriel Trade Centre for material prices.",
   ["lam_ttc_price_title"]: "Use TTC prices",
@@ -129,7 +128,7 @@ export const STATIC_STRINGS: Record<string, string> = {
   ["slash_mat_desc"]: "Show/hide material list window.",
   ["slash_port"]: "port",
   ["slash_port_desc"]: "Teleport to a crafting house",
-  ["slash_writworthy_desc"]: "Show/hide WritWorthy window",
+  ["slash_writ_desc"]: "Show/hide Temper window",
   ["status_discover"]: "scanning writ fields...",
   ["status_forget"]: "forgetting everything this character already crafted...",
   ["status_list_empty_no_writs"]: "This character has no sealed master writs in its inventory.",
