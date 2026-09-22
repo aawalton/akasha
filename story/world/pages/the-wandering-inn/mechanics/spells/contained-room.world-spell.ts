@@ -6,5 +6,6 @@ export const containedRoom = {
   slug: "contained-room",
   title: "Contained Room",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

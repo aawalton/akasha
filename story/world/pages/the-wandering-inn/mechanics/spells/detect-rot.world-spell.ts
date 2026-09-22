@@ -6,5 +6,6 @@ export const detectRot = {
   slug: "detect-rot",
   title: "Detect Rot",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

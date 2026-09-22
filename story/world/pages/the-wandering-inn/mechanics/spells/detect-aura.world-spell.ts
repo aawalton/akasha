@@ -6,5 +6,6 @@ export const detectAura = {
   slug: "detect-aura",
   title: "Detect Aura",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

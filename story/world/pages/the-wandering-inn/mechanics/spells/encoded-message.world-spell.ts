@@ -6,5 +6,6 @@ export const encodedMessage = {
   slug: "encoded-message",
   title: "Encoded Message",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

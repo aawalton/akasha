@@ -6,5 +6,6 @@ export const detectInsect = {
   slug: "detect-insect",
   title: "Detect Insect",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

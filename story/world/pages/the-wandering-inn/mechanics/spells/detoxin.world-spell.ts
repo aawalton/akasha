@@ -6,5 +6,6 @@ export const detoxin = {
   slug: "detoxin",
   title: "Detoxin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

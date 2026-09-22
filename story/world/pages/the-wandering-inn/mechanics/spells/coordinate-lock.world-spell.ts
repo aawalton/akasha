@@ -6,5 +6,6 @@ export const coordinateLock = {
   slug: "coordinate-lock",
   title: "Coordinate Lock",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

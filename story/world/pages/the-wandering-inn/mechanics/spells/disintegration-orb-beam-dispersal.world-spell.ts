@@ -6,5 +6,6 @@ export const disintegrationOrbBeamDispersal = {
   slug: "disintegration-orb-beam-dispersal",
   title: "Disintegration Orb, Beam Dispersal",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSpell

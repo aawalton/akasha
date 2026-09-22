@@ -6,5 +6,6 @@ export const dispelPhantasmalWarriors = {
   slug: "dispel-phantasmal-warriors",
   title: "Dispel Phantasmal Warriors",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

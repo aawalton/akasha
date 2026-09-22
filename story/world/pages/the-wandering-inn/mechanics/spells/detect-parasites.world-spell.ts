@@ -6,5 +6,6 @@ export const detectParasites = {
   slug: "detect-parasites",
   title: "Detect Parasites",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

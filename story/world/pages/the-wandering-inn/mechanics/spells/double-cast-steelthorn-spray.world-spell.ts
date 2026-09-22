@@ -6,5 +6,6 @@ export const doubleCastSteelthornSpray = {
   slug: "double-cast-steelthorn-spray",
   title: "Double Cast: Steelthorn Spray",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

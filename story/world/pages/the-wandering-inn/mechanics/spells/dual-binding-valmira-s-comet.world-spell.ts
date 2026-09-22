@@ -6,5 +6,6 @@ export const dualBindingValmiraSComet = {
   slug: "dual-binding-valmira-s-comet",
   title: "Dual Binding: Valmira’s Comet",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

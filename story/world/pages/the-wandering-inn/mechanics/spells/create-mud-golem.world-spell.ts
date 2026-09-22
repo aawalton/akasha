@@ -6,5 +6,6 @@ export const createMudGolem = {
   slug: "create-mud-golem",
   title: "Create Mud Golem",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

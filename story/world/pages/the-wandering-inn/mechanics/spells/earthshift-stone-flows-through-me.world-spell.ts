@@ -6,5 +6,6 @@ export const earthshiftStoneFlowsThroughMe = {
   slug: "earthshift-stone-flows-through-me",
   title: "Earthshift: Stone Flows Through Me",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

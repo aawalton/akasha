@@ -6,5 +6,6 @@ export const conjurePerfectPuppetTheDuke = {
   slug: "conjure-perfect-puppet-the-duke",
   title: "Conjure Perfect Puppet: The Duke",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

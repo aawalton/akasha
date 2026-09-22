@@ -6,5 +6,6 @@ export const deathKingSMirageOfTheLiving = {
   slug: "death-king-s-mirage-of-the-living",
   title: "Death King’s Mirage of the Living",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const denialOfObservation = {
   slug: "denial-of-observation",
   title: "Denial of Observation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const chodlekithSObsessiveCleaningCloth = {
   slug: "chodlekith-s-obsessive-cleaning-cloth",
   title: "Chodlekith’s Obsessive Cleaning Cloth",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

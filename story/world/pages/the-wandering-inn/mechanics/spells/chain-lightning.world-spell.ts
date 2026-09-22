@@ -6,6 +6,7 @@ export const chainLightning = {
   slug: "chain-lightning",
   title: "Chain Lightning",
   world: "world/the-wandering-inn",
+  appearanceCount: 28,
   aliases: ["Chain…Lightning"],
   references: "jsonl",
 } as const satisfies WorldSpell

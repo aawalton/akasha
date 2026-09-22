@@ -6,5 +6,6 @@ export const cracklingArmorOfTheLightningEmperor = {
   slug: "crackling-armor-of-the-lightning-emperor",
   title: "Crackling Armor of the Lightning Emperor",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

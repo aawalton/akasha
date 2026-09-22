@@ -6,5 +6,6 @@ export const createElementMagnetizedIron = {
   slug: "create-element-magnetized-iron",
   title: "Create Element: Magnetized Iron",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

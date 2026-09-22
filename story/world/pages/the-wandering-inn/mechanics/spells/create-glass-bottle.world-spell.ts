@@ -6,5 +6,6 @@ export const createGlassBottle = {
   slug: "create-glass-bottle",
   title: "Create Glass Bottle",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

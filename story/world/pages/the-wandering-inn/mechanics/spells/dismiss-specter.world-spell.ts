@@ -6,5 +6,6 @@ export const dismissSpecter = {
   slug: "dismiss-specter",
   title: "Dismiss Specter",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

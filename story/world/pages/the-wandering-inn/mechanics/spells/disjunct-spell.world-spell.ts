@@ -6,5 +6,6 @@ export const disjunctSpell = {
   slug: "disjunct-spell",
   title: "Disjunct Spell",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

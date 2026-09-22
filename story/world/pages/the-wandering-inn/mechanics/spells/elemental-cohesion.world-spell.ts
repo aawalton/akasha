@@ -6,5 +6,6 @@ export const elementalCohesion = {
   slug: "elemental-cohesion",
   title: "Elemental Cohesion",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

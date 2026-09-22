@@ -6,5 +6,6 @@ export const dreamPurge = {
   slug: "dream-purge",
   title: "Dream Purge",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const empoweredMinion = {
   slug: "empowered-minion",
   title: "Empowered Minion",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

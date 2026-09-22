@@ -6,5 +6,6 @@ export const distantMirror = {
   slug: "distant-mirror",
   title: "Distant Mirror",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

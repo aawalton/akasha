@@ -6,5 +6,6 @@ export const cenidauSCompleteChill = {
   slug: "cenidau-s-complete-chill",
   title: "Cenidau’s Complete Chill",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSpell
