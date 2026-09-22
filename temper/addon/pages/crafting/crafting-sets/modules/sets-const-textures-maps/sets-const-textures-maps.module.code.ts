@@ -1,46 +1,46 @@
 import { asPresent } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import {
-  LIBSETS_DROP_MECHANIC_ANTIQUITIES,
-  LIBSETS_DROP_MECHANIC_AP_ELITE_GEAR_LOCKBOX_MERCHANT,
-  LIBSETS_DROP_MECHANIC_ARENA_STAGE_CHEST,
-  LIBSETS_DROP_MECHANIC_BATTLEGROUND_REWARD,
-  LIBSETS_DROP_MECHANIC_BATTLEGROUND_VENDOR,
-  LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_BRUMA,
-  LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_CHEYDINHAL,
-  LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_CHEYDINHAL_CHORROL_WEYNON_PRIORY,
-  LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_CHORROL_WEYNON_PRIORY,
-  LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_CROPSFORD,
-  LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_VLASTARUS,
-  LIBSETS_DROP_MECHANIC_CRAFTED,
-  LIBSETS_DROP_MECHANIC_CYRODIIL_BOARD_MISSIONS,
-  LIBSETS_DROP_MECHANIC_DAILY_QUEST_REWARD_COFFER,
-  LIBSETS_DROP_MECHANIC_DOLMEN_HARROWSTORM_MAGICAL_ANOMALIES,
-  LIBSETS_DROP_MECHANIC_DUNGEON_CHEST,
-  LIBSETS_DROP_MECHANIC_ENDLESS_ARCHIVE,
-  LIBSETS_DROP_MECHANIC_FISHING_HOLE,
-  LIBSETS_DROP_MECHANIC_GOLDEN_PURSUIT,
-  LIBSETS_DROP_MECHANIC_GROUP_DUNGEON_BOSS,
-  LIBSETS_DROP_MECHANIC_HARVEST_NODES,
-  LIBSETS_DROP_MECHANIC_IMPERIAL_CITY_TREASURE_TROVE_SCAMP,
-  LIBSETS_DROP_MECHANIC_IMPERIAL_CITY_VAULTS,
-  LIBSETS_DROP_MECHANIC_LEVEL_UP_REWARD,
-  LIBSETS_DROP_MECHANIC_MAIL_DAILY_RANDOM_DUNGEON_REWARD,
-  LIBSETS_DROP_MECHANIC_MAIL_PVP_REWARDS_FOR_THE_WORTHY,
-  LIBSETS_DROP_MECHANIC_MOB_TYPE,
-  LIBSETS_DROP_MECHANIC_MONSTER_NAME,
-  LIBSETS_DROP_MECHANIC_NIGHT_MARKET,
-  LIBSETS_DROP_MECHANIC_OVERLAND_BOSS_DELVE,
-  LIBSETS_DROP_MECHANIC_OVERLAND_BOSS_PUBLIC_DUNGEON,
-  LIBSETS_DROP_MECHANIC_OVERLAND_CHEST,
-  LIBSETS_DROP_MECHANIC_OVERLAND_LOOT,
-  LIBSETS_DROP_MECHANIC_OVERLAND_OBLIVION_PORTAL_FINAL_CHEST,
-  LIBSETS_DROP_MECHANIC_OVERLAND_WORLDBOSS,
-  LIBSETS_DROP_MECHANIC_PUBLIC_DUNGEON_CHEST,
-  LIBSETS_DROP_MECHANIC_REWARD_BY_NPC,
-  LIBSETS_DROP_MECHANIC_TELVAR_EQUIPMENT_LOCKBOX_MERCHANT,
-  LIBSETS_DROP_MECHANIC_TRIAL_BOSS,
-  LIBSETS_DROP_MECHANIC_ZONE_STORYLINE,
+  SETS_DROP_MECHANIC_ANTIQUITIES,
+  SETS_DROP_MECHANIC_AP_ELITE_GEAR_LOCKBOX_MERCHANT,
+  SETS_DROP_MECHANIC_ARENA_STAGE_CHEST,
+  SETS_DROP_MECHANIC_BATTLEGROUND_REWARD,
+  SETS_DROP_MECHANIC_BATTLEGROUND_VENDOR,
+  SETS_DROP_MECHANIC_CITY_CYRODIIL_BRUMA,
+  SETS_DROP_MECHANIC_CITY_CYRODIIL_CHEYDINHAL,
+  SETS_DROP_MECHANIC_CITY_CYRODIIL_CHEYDINHAL_CHORROL_WEYNON_PRIORY,
+  SETS_DROP_MECHANIC_CITY_CYRODIIL_CHORROL_WEYNON_PRIORY,
+  SETS_DROP_MECHANIC_CITY_CYRODIIL_CROPSFORD,
+  SETS_DROP_MECHANIC_CITY_CYRODIIL_VLASTARUS,
+  SETS_DROP_MECHANIC_CRAFTED,
+  SETS_DROP_MECHANIC_CYRODIIL_BOARD_MISSIONS,
+  SETS_DROP_MECHANIC_DAILY_QUEST_REWARD_COFFER,
+  SETS_DROP_MECHANIC_DOLMEN_HARROWSTORM_MAGICAL_ANOMALIES,
+  SETS_DROP_MECHANIC_DUNGEON_CHEST,
+  SETS_DROP_MECHANIC_ENDLESS_ARCHIVE,
+  SETS_DROP_MECHANIC_FISHING_HOLE,
+  SETS_DROP_MECHANIC_GOLDEN_PURSUIT,
+  SETS_DROP_MECHANIC_GROUP_DUNGEON_BOSS,
+  SETS_DROP_MECHANIC_HARVEST_NODES,
+  SETS_DROP_MECHANIC_IMPERIAL_CITY_TREASURE_TROVE_SCAMP,
+  SETS_DROP_MECHANIC_IMPERIAL_CITY_VAULTS,
+  SETS_DROP_MECHANIC_LEVEL_UP_REWARD,
+  SETS_DROP_MECHANIC_MAIL_DAILY_RANDOM_DUNGEON_REWARD,
+  SETS_DROP_MECHANIC_MAIL_PVP_REWARDS_FOR_THE_WORTHY,
+  SETS_DROP_MECHANIC_MOB_TYPE,
+  SETS_DROP_MECHANIC_MONSTER_NAME,
+  SETS_DROP_MECHANIC_NIGHT_MARKET,
+  SETS_DROP_MECHANIC_OVERLAND_BOSS_DELVE,
+  SETS_DROP_MECHANIC_OVERLAND_BOSS_PUBLIC_DUNGEON,
+  SETS_DROP_MECHANIC_OVERLAND_CHEST,
+  SETS_DROP_MECHANIC_OVERLAND_LOOT,
+  SETS_DROP_MECHANIC_OVERLAND_OBLIVION_PORTAL_FINAL_CHEST,
+  SETS_DROP_MECHANIC_OVERLAND_WORLDBOSS,
+  SETS_DROP_MECHANIC_PUBLIC_DUNGEON_CHEST,
+  SETS_DROP_MECHANIC_REWARD_BY_NPC,
+  SETS_DROP_MECHANIC_TELVAR_EQUIPMENT_LOCKBOX_MERCHANT,
+  SETS_DROP_MECHANIC_TRIAL_BOSS,
+  SETS_DROP_MECHANIC_ZONE_STORYLINE,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-dropmechanics/sets-const-dropmechanics.module.code.ts"
 import {
   SETS_SETTYPE_ARENA,
@@ -67,62 +67,57 @@ const checkIfPTSAPIVersionIsLive = lib.checkIfPTSAPIVersionIsLive
 const clientLocalization = asPresent(lib.localization[lib.clientLang])
 
 const DROP_MECHANIC_ID_TO_TEXTURE: { [dropMechanicId: number]: string } = {
-  [LIBSETS_DROP_MECHANIC_MAIL_PVP_REWARDS_FOR_THE_WORTHY]: "/esoui/art/chatwindow/chat_mail_up.dds",
-  [LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_BRUMA]: "/esoui/art/icons/mapkey/mapkey_avatown.dds",
-  [LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_CROPSFORD]: "/esoui/art/icons/mapkey/mapkey_avatown.dds",
-  [LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_VLASTARUS]: "/esoui/art/icons/mapkey/mapkey_avatown.dds",
-  [LIBSETS_DROP_MECHANIC_ARENA_STAGE_CHEST]: "/esoui/art/icons/undaunted_dungeoncoffer.dds",
-  [LIBSETS_DROP_MECHANIC_MONSTER_NAME]: "/esoui/art/icons/quest_head_monster_014.dds",
-  [LIBSETS_DROP_MECHANIC_OVERLAND_BOSS_DELVE]:
-    "/esoui/art/zonestories/completiontypeicon_delve.dds",
-  [LIBSETS_DROP_MECHANIC_OVERLAND_WORLDBOSS]: "/esoui/art/icons/mapkey/mapkey_groupboss.dds",
-  [LIBSETS_DROP_MECHANIC_OVERLAND_BOSS_PUBLIC_DUNGEON]:
-    "/esoui/art/journal/journal_quest_dungeon.dds",
-  [LIBSETS_DROP_MECHANIC_OVERLAND_CHEST]: "/esoui/art/icons/undaunted_smallcoffer.dds",
-  [LIBSETS_DROP_MECHANIC_BATTLEGROUND_REWARD]:
+  [SETS_DROP_MECHANIC_MAIL_PVP_REWARDS_FOR_THE_WORTHY]: "/esoui/art/chatwindow/chat_mail_up.dds",
+  [SETS_DROP_MECHANIC_CITY_CYRODIIL_BRUMA]: "/esoui/art/icons/mapkey/mapkey_avatown.dds",
+  [SETS_DROP_MECHANIC_CITY_CYRODIIL_CROPSFORD]: "/esoui/art/icons/mapkey/mapkey_avatown.dds",
+  [SETS_DROP_MECHANIC_CITY_CYRODIIL_VLASTARUS]: "/esoui/art/icons/mapkey/mapkey_avatown.dds",
+  [SETS_DROP_MECHANIC_ARENA_STAGE_CHEST]: "/esoui/art/icons/undaunted_dungeoncoffer.dds",
+  [SETS_DROP_MECHANIC_MONSTER_NAME]: "/esoui/art/icons/quest_head_monster_014.dds",
+  [SETS_DROP_MECHANIC_OVERLAND_BOSS_DELVE]: "/esoui/art/zonestories/completiontypeicon_delve.dds",
+  [SETS_DROP_MECHANIC_OVERLAND_WORLDBOSS]: "/esoui/art/icons/mapkey/mapkey_groupboss.dds",
+  [SETS_DROP_MECHANIC_OVERLAND_BOSS_PUBLIC_DUNGEON]: "/esoui/art/journal/journal_quest_dungeon.dds",
+  [SETS_DROP_MECHANIC_OVERLAND_CHEST]: "/esoui/art/icons/undaunted_smallcoffer.dds",
+  [SETS_DROP_MECHANIC_BATTLEGROUND_REWARD]:
     "/esoui/art/battlegrounds/battlegrounds_tabicon_battlegrounds_up.dds",
-  [LIBSETS_DROP_MECHANIC_MAIL_DAILY_RANDOM_DUNGEON_REWARD]: "/esoui/art/icons/quest_letter_001.dds",
-  [LIBSETS_DROP_MECHANIC_IMPERIAL_CITY_VAULTS]:
+  [SETS_DROP_MECHANIC_MAIL_DAILY_RANDOM_DUNGEON_REWARD]: "/esoui/art/icons/quest_letter_001.dds",
+  [SETS_DROP_MECHANIC_IMPERIAL_CITY_VAULTS]:
     "/esoui/art/icons/servicemappins/ic_monstrousteeth_complete.dds",
-  [LIBSETS_DROP_MECHANIC_LEVEL_UP_REWARD]: "/esoui/art/menubar/menubar_levelup_up.dds",
-  [LIBSETS_DROP_MECHANIC_ANTIQUITIES]: "/esoui/art/hud/gamepad/gp_loothistory_icon_antiquities.dds",
-  [LIBSETS_DROP_MECHANIC_BATTLEGROUND_VENDOR]: "/esoui/art/icons/quest_container_001.dds",
-  [LIBSETS_DROP_MECHANIC_CRAFTED]: "/esoui/art/zonestories/completiontypeicon_setstation.dds",
-  [LIBSETS_DROP_MECHANIC_TELVAR_EQUIPMENT_LOCKBOX_MERCHANT]:
-    "/esoui/art/tutorial/loot_telvarbag.dds",
-  [LIBSETS_DROP_MECHANIC_AP_ELITE_GEAR_LOCKBOX_MERCHANT]:
+  [SETS_DROP_MECHANIC_LEVEL_UP_REWARD]: "/esoui/art/menubar/menubar_levelup_up.dds",
+  [SETS_DROP_MECHANIC_ANTIQUITIES]: "/esoui/art/hud/gamepad/gp_loothistory_icon_antiquities.dds",
+  [SETS_DROP_MECHANIC_BATTLEGROUND_VENDOR]: "/esoui/art/icons/quest_container_001.dds",
+  [SETS_DROP_MECHANIC_CRAFTED]: "/esoui/art/zonestories/completiontypeicon_setstation.dds",
+  [SETS_DROP_MECHANIC_TELVAR_EQUIPMENT_LOCKBOX_MERCHANT]: "/esoui/art/tutorial/loot_telvarbag.dds",
+  [SETS_DROP_MECHANIC_AP_ELITE_GEAR_LOCKBOX_MERCHANT]:
     "/esoui/art/lfg/lfg_indexicon_alliancewar_up.dds",
-  [LIBSETS_DROP_MECHANIC_REWARD_BY_NPC]: "/esoui/art/icons/achievement_u26_skyrim_mainquest_3.dds",
-  [LIBSETS_DROP_MECHANIC_OVERLAND_OBLIVION_PORTAL_FINAL_CHEST]:
+  [SETS_DROP_MECHANIC_REWARD_BY_NPC]: "/esoui/art/icons/achievement_u26_skyrim_mainquest_3.dds",
+  [SETS_DROP_MECHANIC_OVERLAND_OBLIVION_PORTAL_FINAL_CHEST]:
     "/esoui/art/icons/achievement_u30_obliviongate.dds",
-  [LIBSETS_DROP_MECHANIC_DOLMEN_HARROWSTORM_MAGICAL_ANOMALIES]:
+  [SETS_DROP_MECHANIC_DOLMEN_HARROWSTORM_MAGICAL_ANOMALIES]:
     "/esoui/art/icons/mapkey/mapkey_u26_harrowstorm_complete.dds",
-  [LIBSETS_DROP_MECHANIC_DUNGEON_CHEST]: "/esoui/art/icons/housing_alt_fur_treasurechest001.dds",
-  [LIBSETS_DROP_MECHANIC_DAILY_QUEST_REWARD_COFFER]:
+  [SETS_DROP_MECHANIC_DUNGEON_CHEST]: "/esoui/art/icons/housing_alt_fur_treasurechest001.dds",
+  [SETS_DROP_MECHANIC_DAILY_QUEST_REWARD_COFFER]:
     "/esoui/art/icons/achievements_indexicon_quests_up.dds",
-  [LIBSETS_DROP_MECHANIC_FISHING_HOLE]:
-    "/esoui/art/treeicons/achievements_indexicon_fishing_up.dds",
-  [LIBSETS_DROP_MECHANIC_OVERLAND_LOOT]: "/esoui/art/icons/housing_cre_exc_minlootpile001.dds",
-  [LIBSETS_DROP_MECHANIC_TRIAL_BOSS]:
+  [SETS_DROP_MECHANIC_FISHING_HOLE]: "/esoui/art/treeicons/achievements_indexicon_fishing_up.dds",
+  [SETS_DROP_MECHANIC_OVERLAND_LOOT]: "/esoui/art/icons/housing_cre_exc_minlootpile001.dds",
+  [SETS_DROP_MECHANIC_TRIAL_BOSS]:
     "/esoui/art/treeicons/gamepad/gp_reconstruction_tabicon_trialgroup.dds",
-  [LIBSETS_DROP_MECHANIC_MOB_TYPE]: "/esoui/art/icons/pet_slateskinneddaedrat.dds",
-  [LIBSETS_DROP_MECHANIC_GROUP_DUNGEON_BOSS]: "/esoui/art/journal/journal_quest_group_instance.dds",
-  [LIBSETS_DROP_MECHANIC_PUBLIC_DUNGEON_CHEST]: "/esoui/art/icons/undaunted_mediumcoffer.dds",
-  [LIBSETS_DROP_MECHANIC_HARVEST_NODES]: "/esoui/art/crafting/smithing_tabicon_refine_up.dds",
-  [LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_CHEYDINHAL]: "/esoui/art/icons/poi/poi_town_complete.dds",
-  [LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_CHORROL_WEYNON_PRIORY]:
+  [SETS_DROP_MECHANIC_MOB_TYPE]: "/esoui/art/icons/pet_slateskinneddaedrat.dds",
+  [SETS_DROP_MECHANIC_GROUP_DUNGEON_BOSS]: "/esoui/art/journal/journal_quest_group_instance.dds",
+  [SETS_DROP_MECHANIC_PUBLIC_DUNGEON_CHEST]: "/esoui/art/icons/undaunted_mediumcoffer.dds",
+  [SETS_DROP_MECHANIC_HARVEST_NODES]: "/esoui/art/crafting/smithing_tabicon_refine_up.dds",
+  [SETS_DROP_MECHANIC_CITY_CYRODIIL_CHEYDINHAL]: "/esoui/art/icons/poi/poi_town_complete.dds",
+  [SETS_DROP_MECHANIC_CITY_CYRODIIL_CHORROL_WEYNON_PRIORY]:
     "/esoui/art/icons/poi/poi_town_complete.dds",
-  [LIBSETS_DROP_MECHANIC_CITY_CYRODIIL_CHEYDINHAL_CHORROL_WEYNON_PRIORY]:
+  [SETS_DROP_MECHANIC_CITY_CYRODIIL_CHEYDINHAL_CHORROL_WEYNON_PRIORY]:
     "/esoui/art/icons/poi/poi_town_complete.dds",
-  [LIBSETS_DROP_MECHANIC_CYRODIIL_BOARD_MISSIONS]:
+  [SETS_DROP_MECHANIC_CYRODIIL_BOARD_MISSIONS]:
     "/esoui/art/icons/housing_gen_lsb_announcementboard001.dds",
-  [LIBSETS_DROP_MECHANIC_IMPERIAL_CITY_TREASURE_TROVE_SCAMP]:
+  [SETS_DROP_MECHANIC_IMPERIAL_CITY_TREASURE_TROVE_SCAMP]:
     "/esoui/art/icons/achievement_ic_treasurescamp.dds",
-  [LIBSETS_DROP_MECHANIC_ENDLESS_ARCHIVE]: "/esoui/art/icons/poi/poi_endlessdungeon_incomplete.dds",
-  [LIBSETS_DROP_MECHANIC_GOLDEN_PURSUIT]: "/esoui/art/lfg/lfg_indexicon_promotionalevents_up.dds",
-  [LIBSETS_DROP_MECHANIC_NIGHT_MARKET]: "/esoui/art/treeicons/nightmarket_down.dds",
-  [LIBSETS_DROP_MECHANIC_ZONE_STORYLINE]:
-    "/esoui/art/journal/gamepad/gp_questtypeicon_zonestory.dds",
+  [SETS_DROP_MECHANIC_ENDLESS_ARCHIVE]: "/esoui/art/icons/poi/poi_endlessdungeon_incomplete.dds",
+  [SETS_DROP_MECHANIC_GOLDEN_PURSUIT]: "/esoui/art/lfg/lfg_indexicon_promotionalevents_up.dds",
+  [SETS_DROP_MECHANIC_NIGHT_MARKET]: "/esoui/art/treeicons/nightmarket_down.dds",
+  [SETS_DROP_MECHANIC_ZONE_STORYLINE]: "/esoui/art/journal/gamepad/gp_questtypeicon_zonestory.dds",
 }
 lib.dropMechanicIdToTexture = DROP_MECHANIC_ID_TO_TEXTURE
 
