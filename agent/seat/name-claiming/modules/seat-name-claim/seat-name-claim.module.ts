@@ -4,7 +4,7 @@ export const seatNameClaim = {
   id: "01a05ded-fa5d-7000-b57d-b4a2a894e5e6",
   type: "page-type/module",
   slug: "seat-name-claim",
-  definition: "whether a seat may take the name it asks for",
+  definition: "whether a seat may take the name it wants",
   code: "ts",
   test: "ts",
   decisions: [

@@ -4,7 +4,7 @@ export const modelUnavailable = {
   id: "01a0628c-26f7-71b6-893e-e3d3e34bb01f",
   type: "page-type/module",
   slug: "model-unavailable",
-  definition: "what a 404 body says about upstream not carrying the model asked for",
+  definition: "what a 404 body says about upstream not carrying the model",
   code: "ts",
   test: "ts",
   decisions: [

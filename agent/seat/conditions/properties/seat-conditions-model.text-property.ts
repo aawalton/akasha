@@ -5,7 +5,7 @@ export const seatConditionsModel = {
   type: "page-type/text-property",
   slug: "seat-conditions-model",
   propertySlug: "model",
-  definition: "the model a seat's agent answers on",
+  definition: "the model of a seat's agent",
   maxLength: 40,
   nameFormat: null,
   decisions: [

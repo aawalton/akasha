@@ -5,7 +5,7 @@ export const person = {
   type: "page-type/relation-property",
   slug: "person",
   propertySlug: "person",
-  definition: "the person a page is of",
+  definition: "a page's person",
   targetPageType: "page-type/person",
   decisions: [
     {

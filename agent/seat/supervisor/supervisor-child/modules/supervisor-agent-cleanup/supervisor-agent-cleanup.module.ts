@@ -4,7 +4,7 @@ export const supervisorAgentCleanup = {
   id: "01a0683e-3dbe-7008-b3e4-d8d8c255aa10",
   type: "page-type/module",
   slug: "supervisor-agent-cleanup",
-  definition: "what a finished seat process lets go of",
+  definition: "what a finished seat process releases",
   code: "ts",
   decisions: [
     {

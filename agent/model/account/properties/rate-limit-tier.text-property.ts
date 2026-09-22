@@ -5,7 +5,7 @@ export const rateLimitTier = {
   type: "page-type/text-property",
   slug: "rate-limit-tier",
   propertySlug: "rate-limit-tier",
-  definition: "the band the size of the account's allowance is set by",
+  definition: "the band setting the size of the account's allowance",
   maxLength: 50,
   nameFormat: null,
   decisions: [
