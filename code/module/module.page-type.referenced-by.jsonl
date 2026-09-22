@@ -5184,6 +5184,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/pricing/modules/ttc-listing-types/ttc-listing-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/declaration/modules/eso-declaration-chunking/eso-declaration-chunking.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/declaration/modules/eso-declaration-narrowing/eso-declaration-narrowing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/declaration/modules/eso-declaration-pages/eso-declaration-pages.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/declaration/modules/eso-declaration-text/eso-declaration-text.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/declaration/modules/eso-doc-tokens/eso-doc-tokens.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/declaration/modules/eso-opt-in/eso-opt-in.module.ts"}

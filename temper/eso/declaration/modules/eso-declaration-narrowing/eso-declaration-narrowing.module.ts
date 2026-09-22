@@ -41,8 +41,13 @@ export const esoDeclarationNarrowing = {
       statement: "Every kind is narrowed together, because one kind names another kind's alias.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads a file.",
+      decisionKind: "decision-kind/departure",
+      statement: "The names the compiler declares are read from the compiler's own library files.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The library files read are the ones carrying the globals a declaration could hit.",
     },
   ],
 } as const satisfies Module

@@ -7,4 +7,5 @@
 {"propertySlug":"import","fileName":"add-file-page.change-mechanical.ts","path":"change/mechanical/file/add/add-file-page-property/add-file-page-property.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"add-file-page.change-mechanical.ts","path":"change/mechanical/file/add/add-file-page-type/add-file-page-type.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"add-file-page.change-mechanical.ts","path":"change/mechanical/file/add/add-file-page-type/add-file-page-type.change-mechanical.test.ts"}
+{"propertySlug":"import","fileName":"add-file-page.change-mechanical.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
 {"propertySlug":"parts","path":"change/mechanical/file/add/change-mechanical-file-add.domain.ts","id":"01a07cbe-0ba6-7171-9d7d-de7707aec829"}

@@ -27,8 +27,36 @@ export const temperEsoGenerateDeclaration = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A declaration is written onto a page rather than into a folder of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "A written file names the command that wrote that file and the API version that file was built from.",
+        "The pages written are the ones stating this command wrote them, found by that stamp.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page states the command that wrote it and the API version it was built from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page this run makes is stamped as the pages already there are.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The division between pages is kept, so a run changing nothing divides nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page over the ceiling hands its last group on, and a page emptied goes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name a hand-written declaration states is left out rather than refusing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A type alias under a name the compiler declares is left out too.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -77,11 +105,15 @@ export const temperEsoGenerateDeclaration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The landing formats each body.",
+      statement: "A body is formatted here before it is measured against the ceiling.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here runs a formatter.",
+      decisionKind: "decision-kind/departure",
+      statement: "A body formatted here is what a page is compared against, so a run is honest.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "The API version a page states is written again when that version moves.",
     },
     {
       decisionKind: "decision-kind/departure",

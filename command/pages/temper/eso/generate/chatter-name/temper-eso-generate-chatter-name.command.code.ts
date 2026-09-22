@@ -1,4 +1,4 @@
-import { readFileSync, realpathSync } from "node:fs"
+import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
@@ -22,29 +22,11 @@ import { temperEsoGenerateChatterName as page } from "akasha/command/pages/tempe
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import {
-  recordsIn,
-  textAt,
-  type Value,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { chatterNamesModule } from "akasha/temper/command/modules/eso-chatter-names/eso-chatter-names.module.code.ts"
 import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
+import { pagesWrittenBy } from "akasha/temper/eso/declaration/modules/eso-declaration-pages/eso-declaration-pages.module.code.ts"
 
 const NAMED = [codeRootArgument]
-
-const DECLARATION = "type-declaration"
-
-const AMBIENT = "d"
-
-const AMBIENT_KIND = "ts"
-
-const GENERATED = "generated"
-
-const WRITTEN_BY = "writtenBy"
-
-const SLUG = "slug"
 
 const WRITER = "akasha temper eso generate declaration"
 
@@ -57,31 +39,6 @@ const CODE = "code"
 const PUT = `${changeMechanical.slug}/${addFileCode.slug}` as const
 
 const MESSAGE = "the chatter and interaction name registry, read out of the emitted declarations"
-
-type Declared = {
-  readonly slug: string
-  readonly at: string
-}
-
-function writtenHere(value: Value): boolean {
-  for (const one of recordsIn(value[GENERATED])) {
-    if (textAt(one, WRITTEN_BY) === WRITER) return true
-  }
-  return false
-}
-
-function declaredIn(root: string): readonly Declared[] {
-  const shadow = shadowAt(root)
-  const found: Declared[] = []
-  for (const listed of shadow.index.everyOfType(DECLARATION)) {
-    const value = shadow.index.pageByPath(listed.path)
-    if (value === null || !writtenHere(value)) continue
-    const beside = besideAt(listed.path, AMBIENT, AMBIENT_KIND)
-    if (beside === null) continue
-    found.push({ slug: textAt(value, SLUG) ?? listed.path, at: beside })
-  }
-  return found.sort((one, other) => one.slug.localeCompare(other.slug))
-}
 
 type Taken = Taking<typeof page, typeof NAMED>
 
@@ -97,9 +54,9 @@ async function generated(done: string[], taken: Taken): Promise<Answer> {
     )
   }
 
-  let declared: readonly Declared[]
+  let declared: ReturnType<typeof pagesWrittenBy>
   try {
-    declared = declaredIn(root)
+    declared = pagesWrittenBy(root, WRITER)
   } catch (thrown) {
     return refused(
       `the index under ${root} would not say which declarations \`${WRITER}\` writes, so there was ` +
@@ -116,25 +73,18 @@ async function generated(done: string[], taken: Taken): Promise<Answer> {
     )
   }
 
-  const bodies: string[] = []
-  for (const one of declared) {
-    const at = resolve(root, one.at)
-    let body: string
-    try {
-      body = readFileSync(at, "utf8")
-    } catch (thrown) {
-      return refused(
-        `${at} is the declaration the \`${one.slug}\` page carries and it is not there, so the ` +
-          `registry would be drawn from less than the pages state — ${saidShort(thrown)}`,
-        DATA
-      )
-    }
-    bodies.push(body)
+  const short = declared.find((one) => one.body === "")
+  if (short !== undefined) {
+    return refused(
+      `${resolve(root, short.beside)} is the declaration the \`${short.slug}\` page carries and it ` +
+        "is not there, so the registry would be drawn from less than the pages state.",
+      DATA
+    )
   }
 
   const drawn = `${String(declared.length)} declaration(s) \`${WRITER}\` writes`
 
-  const registry = chatterNamesModule(bodies.join("\n"))
+  const registry = chatterNamesModule(declared.map((one) => one.body).join("\n"))
   if (registry.chatter.length === 0 || registry.interaction.length === 0) {
     return refused(
       `${drawn} declare ${String(registry.chatter.length)} CHATTER_ and ` +

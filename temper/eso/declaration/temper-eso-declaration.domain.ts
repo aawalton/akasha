@@ -14,6 +14,7 @@ export const temperEsoDeclaration = {
     "page-type/eso-opt-in-list",
     "module/eso-declaration-chunking",
     "module/eso-declaration-narrowing",
+    "module/eso-declaration-pages",
   ],
   decisions: [
     {

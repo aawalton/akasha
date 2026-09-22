@@ -1,9 +1,30 @@
+import { readFileSync } from "node:fs"
+import { dirname, join } from "node:path"
+import { statedIn } from "akasha/check/code/pages/global-declared-once/global-declared-once.check-code.decision.code.ts"
 import {
   type Group,
   nameIn,
 } from "akasha/temper/eso/declaration/modules/eso-declaration-chunking/eso-declaration-chunking.module.code.ts"
+import ts from "typescript"
 
 const ALIAS = /^type ([A-Za-z0-9_$]+) = (.+)$/
+
+const LIBS = ["lib.es5.d.ts", "lib.dom.d.ts"]
+
+export function compilerNames(): ReadonlySet<string> {
+  const at = dirname(ts.getDefaultLibFilePath({}))
+  const found = new Set<string>()
+  for (const one of LIBS) {
+    let text: string
+    try {
+      text = readFileSync(join(at, one), "utf8")
+    } catch {
+      continue
+    }
+    for (const stated of statedIn(one, text)) found.add(stated.name)
+  }
+  return found
+}
 
 export type Narrowing = {
   readonly byHand: ReadonlySet<string>

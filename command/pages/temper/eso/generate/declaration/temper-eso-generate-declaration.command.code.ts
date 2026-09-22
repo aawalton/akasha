@@ -1,18 +1,25 @@
 import { readFileSync, realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
-import { resolve } from "node:path"
+import { dirname, join, resolve } from "node:path"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
+import { addFilePage } from "akasha/change/mechanical/file/add/add-file-page/add-file-page.change-mechanical.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFilePage } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
+import { addPropertyValue } from "akasha/change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import {
   type Asking,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { CEILING } from "akasha/check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.code.ts"
 import {
   keyOf,
   mergedBy,
   type Stated,
   statedIn,
 } from "akasha/check/code/pages/global-declared-once/global-declared-once.check-code.decision.code.ts"
+import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
 import {
   DATA,
@@ -33,6 +40,25 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
+  assigned,
+  type Group,
+  pagedBy,
+  slugsFor,
+  spilled,
+} from "akasha/temper/eso/declaration/modules/eso-declaration-chunking/eso-declaration-chunking.module.code.ts"
+import {
+  compilerNames,
+  narrowed,
+} from "akasha/temper/eso/declaration/modules/eso-declaration-narrowing/eso-declaration-narrowing.module.code.ts"
+import {
+  AMBIENT_KEY,
+  AMBIENT_KIND,
+  DECLARATION,
+  namingOf,
+  pageBodyFor,
+  pagesWrittenBy,
+} from "akasha/temper/eso/declaration/modules/eso-declaration-pages/eso-declaration-pages.module.code.ts"
+import {
   enumGroups,
   eventGroups,
   functionGroups,
@@ -50,43 +76,43 @@ import {
   type SelectedTokens,
   selectOptIn,
 } from "akasha/temper/eso/declaration/modules/eso-token-scope/eso-token-scope.module.code.ts"
-import {
-  esoCloneHeaderLines,
-  parseEsoDocApiVersion,
-} from "akasha/temper/eso/path/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { parseEsoDocApiVersion } from "akasha/temper/eso/path/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiDocPath } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
 
 const NAMED = [codeRootArgument]
 
-const OUT_REL = "temper/addons/types/eso/generated"
-
 const PUT = `${changeMechanical.slug}/${addFileCode.slug}` as const
+
+const MAKE = `${changeMechanical.slug}/${addFilePage.slug}` as const
+
+const DROP = `${changeMechanicalFile.slug}/${removeFilePage.slug}` as const
+
+const NAME = `${changeMechanicalFileContent.slug}/${addPropertyValue.slug}` as const
 
 const MESSAGE = "the game's API declarations, read out of the game's own documentation"
 
 const AMBIENT = "ambient-types"
 
-const AMBIENT_KEY = "d"
-
-const AMBIENT_KIND = "ts"
+const PARTS = "parts"
 
 const DECLARED_ONCE = "A global name is declared in one file."
 
 const NAMED_FIRST = 5
 
-const INDEX_BODY = `/// <reference path="./enums.d.ts" />
-/// <reference path="./functions.d.ts" />
-/// <reference path="./events.d.ts" />
-/// <reference path="./objects.d.ts" />
-`
+const KINDS = [
+  ["eso-enums", "a part of the game's numbers for its kinds"],
+  ["eso-events", "the numbers the game gives its events"],
+  ["eso-functions", "a part of the game calls an add-on makes"],
+  ["eso-objects", "a part of the game objects whose methods an add-on calls"],
+] as const
 
 export function declaredIn(
   paths: readonly string[],
-  textAt: (path: string) => string | null
+  bodyAt: (path: string) => string | null
 ): ReadonlyMap<string, Stated> {
   const held = new Map<string, Stated>()
   for (const path of paths) {
-    const text = textAt(path)
+    const text = bodyAt(path)
     if (text === null) continue
     for (const one of statedIn(path, text)) if (!held.has(keyOf(one))) held.set(keyOf(one), one)
   }
@@ -99,7 +125,7 @@ export function heldAlready(
 ): readonly string[] {
   const found = new Map<string, string>()
   for (const [name, body] of bodies) {
-    for (const one of statedIn(`${OUT_REL}/${name}`, body)) {
+    for (const one of statedIn(name, body)) {
       const was = held.get(keyOf(one))
       if (was === undefined || mergedBy(one, was)) continue
       if (!found.has(one.name)) found.set(one.name, `${was.path}:${String(was.line)}`)
@@ -129,17 +155,14 @@ export function typeFaultsIn(selected: SelectedTokens): readonly string[] {
   return [...found].sort()
 }
 
-function joined(groups: readonly (readonly string[])[]): string {
-  return `${groups.map((one) => one.join("\n")).join("\n")}\n`
-}
-
-function ambientIn(root: string): readonly string[] {
+function ambientIn(root: string, ours: ReadonlySet<string>): readonly string[] {
   const carried = shadowAt(root).index.carryingOf(AMBIENT)
   if ("refused" in carried) return []
   const found: string[] = []
   for (const one of carried.carrying) {
+    if (ours.has(one.path)) continue
     const beside = besideAt(one.path, AMBIENT_KEY, AMBIENT_KIND)
-    if (beside !== null && !beside.startsWith(`${OUT_REL}/`)) found.push(beside)
+    if (beside !== null) found.push(beside)
   }
   return found
 }
@@ -158,6 +181,7 @@ type Taken = Taking<typeof page, typeof NAMED>
 
 async function generated(done: string[], taken: Taken, given: Given): Promise<Answer> {
   const named = taken.codeRoot
+  const writer = given.calledAs
 
   let root: string
   try {
@@ -192,6 +216,15 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
     )
   }
 
+  const ours = pagesWrittenBy(root, writer)
+  if (ours.length === 0) {
+    return refused(
+      `no page under ${root} states this command wrote it, and a declaration is written onto ` +
+        "such a page rather than into a folder, so there was nowhere to write.",
+      DATA
+    )
+  }
+
   const selected = selectOptIn(
     {
       enums: parseEnums(doc),
@@ -202,56 +235,119 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
     ESO_OPT_IN
   )
 
-  const stamp = esoCloneHeaderLines(given.calledAs, apiVersion)
-    .map((line) => `// ${line}`)
-    .join("\n")
-  const stamped = (body: string): string => `${stamp}\n${body}`
-
-  const outDir = resolve(root, OUT_REL)
-
   const faults = typeFaultsIn(selected)
   if (faults.length > 0) {
     return refused(
       `${docPath} states ${String(faults.length)} type(s) no declaration may carry, ` +
         `among them ${faults.slice(0, NAMED_FIRST).join(", ")}. A type is written into a ` +
-        `declaration whole, so nothing was written to ${outDir}.`,
+        "declaration whole, so nothing was written.",
       DATA
     )
   }
 
-  const bodies: readonly (readonly [string, string])[] = [
-    ["enums.d.ts", stamped(joined(enumGroups(selected.enums)))],
-    ["functions.d.ts", stamped(joined(functionGroups(selected.functions)))],
-    ["events.d.ts", stamped(joined(eventGroups(selected.events)))],
-    ["objects.d.ts", stamped(joined(objectGroups(selected.objects)))],
-    ["index.d.ts", stamped(INDEX_BODY)],
-  ]
+  const held = declaredIn(ambientIn(root, new Set(ours.map((one) => one.at))), readAt(root))
+  const byHand = new Set<string>()
+  for (const [, one] of held) byHand.add(one.name)
 
-  const already = heldAlready(bodies, declaredIn(ambientIn(root), readAt(root)))
+  const kept = narrowed(
+    [
+      enumGroups(selected.enums),
+      eventGroups(selected.events),
+      functionGroups(selected.functions),
+      objectGroups(selected.objects),
+    ],
+    { byHand, byCompiler: compilerNames() }
+  )
+
+  const bodyOf = (groups: readonly Group[]): string =>
+    `${groups.map((one) => one.join("\n")).join("\n")}\n`
+  const formattedAt = (at: string, text: string): string =>
+    new TextDecoder().decode(formattedBody(root, at, new TextEncoder().encode(text)).body)
+  const measured = new Map<string, number>()
+  const sizing =
+    (at: string) =>
+    (groups: readonly Group[]): number => {
+      const text = bodyOf(groups)
+      const was = measured.get(text)
+      if (was !== undefined) return was
+      const many = new TextEncoder().encode(formattedAt(at, text)).length
+      measured.set(text, many)
+      return many
+    }
+
+  const asked: Asking[] = []
+  const bodies: (readonly [string, string])[] = []
+  let made = 0
+  let gone = 0
+
+  for (const [which, kind] of KINDS.entries()) {
+    const [prefix, definition] = kind
+    const mine = ours.filter((one) => one.slug === prefix || one.slug.startsWith(`${prefix}-`))
+    const first = mine[0]
+    if (first === undefined) {
+      return refused(
+        `no page under ${root} is named for \`${prefix}\` and states this command wrote it, ` +
+          "so there was nowhere to write that kind.",
+        DATA
+      )
+    }
+    const under = dirname(dirname(first.at))
+    const pages = spilled(
+      assigned(kept[which] ?? [], pagedBy(mine.map((one) => one.body))),
+      sizing(first.beside),
+      CEILING
+    )
+    const slugs = slugsFor(
+      prefix,
+      mine.map((one) => one.slug),
+      pages.length
+    )
+    for (const [at, groups] of pages.entries()) {
+      const slug = slugs[at] ?? prefix
+      const was = mine[at]
+      const beside = was?.beside ?? join(under, slug, `${slug}.${DECLARATION}.${AMBIENT_KEY}.ts`)
+      const body = formattedAt(beside, bodyOf(groups))
+      bodies.push([beside, body])
+      if (was === undefined) {
+        made += 1
+        asked.push({
+          at: MAKE,
+          given: {
+            at: join(under, slug, `${slug}.${DECLARATION}.ts`),
+            body: pageBodyFor(slug, definition, writer, apiVersion),
+          },
+        })
+        const naming = namingOf(root, first.slug)
+        if (naming !== null) {
+          asked.push({
+            at: NAME,
+            given: { at: naming, key: PARTS, value: `${DECLARATION}/${slug}` },
+          })
+        }
+      }
+      if (was?.body !== body) asked.push({ at: PUT, given: { at: beside, body } })
+    }
+    for (const one of mine.slice(pages.length)) {
+      gone += 1
+      asked.push({ at: DROP, given: { at: one.at } })
+    }
+  }
+
+  const already = heldAlready(bodies, held)
   if (already.length > 0) {
     return refused(
       `${root} declares ${String(already.length)} of the names these declarations carry already, ` +
         `among them ${already.slice(0, NAMED_FIRST).join(", ")}. ${DECLARED_ONCE} ` +
-        `A second file declaring one stops that name being typechecked wherever it is read, ` +
-        `so nothing was written to ${outDir}.`,
+        "A second file declaring one stops that name being typechecked wherever it is read, " +
+        "so nothing was written.",
       DATA
     )
-  }
-
-  const asked: Asking[] = []
-  for (const [name, body] of bodies) {
-    const at = `${OUT_REL}/${name}`
-    let had: string | null = null
-    try {
-      had = await readFile(resolve(root, at), "utf8")
-    } catch {}
-    if (had !== body) asked.push({ at: PUT, given: { at, body } })
   }
 
   if (asked.length > 0) {
     const landed = await runMechanicalChange(root, asked, MESSAGE, { done })
     if ("refusals" in landed) {
-      const why = `the declarations were not landed whole into ${outDir} — ${landed.refusals.join("; ")}`
+      const why = `the declarations were not landed whole — ${landed.refusals.join("; ")}`
       return keeping(done, refused(why, OPERATIONAL))
     }
   }
@@ -259,10 +355,10 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
   return told([
     `${String(selected.functions.length)} function(s), ${String(selected.objects.length)} object(s), ` +
       `${String(selected.events.length)} event(s) and ${String(selected.enums.length)} enum(s) ` +
-      `are declared in ${outDir}`,
+      `are declared over ${String(bodies.length)} page(s)`,
     asked.length === 0
-      ? `${outDir} already held every one, so nothing landed`
-      : `landed ${String(asked.length)} file(s)`,
+      ? "every page already held what it holds now, so nothing landed"
+      : `landed ${String(asked.length)} change(s), ${String(made)} page(s) made and ${String(gone)} taken away`,
     `read from ${docPath} at API version ${String(apiVersion)}`,
   ])
 }

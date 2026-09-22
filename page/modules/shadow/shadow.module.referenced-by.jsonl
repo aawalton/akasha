@@ -230,7 +230,6 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/measure/closure/measure-closure.command.code.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts"}
@@ -249,6 +248,7 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/type/page-type.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"story/game/panel/game-panel.page-type.type-generator.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"temper/eso/declaration/modules/eso-declaration-pages/eso-declaration-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.test-fixtures.ts","path":"page/modules/shadow/shadow.module.test.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
