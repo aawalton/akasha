@@ -5,7 +5,7 @@ export const stopGates = {
   type: "page-type/file-property",
   slug: "stop-gates",
   propertySlug: "stop-gates",
-  definition: "how far a hook got before it let a turn end, one line appended as that run ends",
+  definition: "how far a hook got before it let a turn end, a line appended as that run ends",
   extensions: ["jsonl"],
   generated: true,
   appendOnly: true,

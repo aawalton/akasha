@@ -4,7 +4,7 @@ export const oauthEffects = {
   id: "01a063af-ee62-7b70-928c-682cd8bb780f",
   type: "page-type/module",
   slug: "oauth-effects",
-  definition: "the reads and marks a gateway reaches one root's model accounts by",
+  definition: "the reads and marks a gateway reaches a root's model accounts by",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

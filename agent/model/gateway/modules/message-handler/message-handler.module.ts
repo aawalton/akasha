@@ -4,7 +4,7 @@ export const messageHandler = {
   id: "01a063af-ee63-7ae8-a74d-3b39fec64b65",
   type: "page-type/module",
   slug: "message-handler",
-  definition: "one messages request taken in, handed to the queue and answered",
+  definition: "a messages request taken in, handed to the queue and answered",
   code: "ts",
   test: "ts",
   decisions: [

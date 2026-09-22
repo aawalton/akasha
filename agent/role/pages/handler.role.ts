@@ -4,7 +4,7 @@ export const handler = {
   id: "01a053c5-8d2a-7e24-96b7-b979c198e039",
   type: "page-type/role",
   slug: "handler",
-  definition: "an agent keeping one person's inbound path, private to them",
+  definition: "an agent keeping a person's inbound path, private to them",
   onCall: true,
   decisions: [
     {

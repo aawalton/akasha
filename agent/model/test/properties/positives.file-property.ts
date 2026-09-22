@@ -5,7 +5,7 @@ export const positives = {
   type: "page-type/file-property",
   slug: "positives",
   propertySlug: "positives",
-  definition: "a turn a test answered yes on, one line appended as that turn is judged",
+  definition: "a turn a test answered yes on, a line appended as that turn is judged",
   extensions: ["jsonl"],
   generated: true,
   appendOnly: true,

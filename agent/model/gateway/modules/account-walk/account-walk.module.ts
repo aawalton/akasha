@@ -4,7 +4,7 @@ export const accountWalk = {
   id: "01a0643b-c948-7e10-80ea-1bf6e0c348e2",
   type: "page-type/module",
   slug: "account-walk",
-  definition: "one request carried from account to account until an answer comes back",
+  definition: "a request carried from account to account until an answer comes back",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

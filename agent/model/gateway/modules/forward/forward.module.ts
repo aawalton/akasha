@@ -4,7 +4,7 @@ export const forward = {
   id: "01a062f9-d8f3-766c-9fde-c4ce5fec4856",
   type: "page-type/module",
   slug: "forward",
-  definition: "one client request sent on to a provider and the response streamed back",
+  definition: "a client request sent on to a provider and the response streamed back",
   code: "ts",
   test: "ts",
   decisions: [

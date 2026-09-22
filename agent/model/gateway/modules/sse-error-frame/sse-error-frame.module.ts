@@ -4,7 +4,7 @@ export const sseErrorFrame = {
   id: "01a0622f-454f-7290-81e4-0dee69164263",
   type: "page-type/module",
   slug: "sse-error-frame",
-  definition: "the bytes of one error event an Anthropic streaming reader accepts",
+  definition: "the bytes of an error event an Anthropic streaming reader accepts",
   code: "ts",
   test: "ts",
   decisions: [

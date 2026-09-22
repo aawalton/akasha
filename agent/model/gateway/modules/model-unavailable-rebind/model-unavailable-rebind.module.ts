@@ -4,8 +4,7 @@ export const modelUnavailableRebind = {
   id: "01a0643b-c946-7c01-9657-1bea04a89d30",
   type: "page-type/module",
   slug: "model-unavailable-rebind",
-  definition:
-    "the account a request moves to after one account answers that the model is not there",
+  definition: "the account a request moves to after an account answers that the model is not there",
   code: "ts",
   test: "ts",
   decisions: [

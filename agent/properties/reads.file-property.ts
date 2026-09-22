@@ -5,7 +5,7 @@ export const reads = {
   type: "page-type/file-property",
   slug: "reads",
   propertySlug: "reads",
-  definition: "the bodies an agent has read, one line for each reading",
+  definition: "the bodies an agent has read, a line for each reading",
   extensions: ["jsonl"],
   runsFileLength: false,
   generated: true,
