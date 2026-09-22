@@ -58,6 +58,7 @@ export const game = {
     "relation-property/player-entity",
     "page-type/game-turn",
     "text-property/listed-rung",
+    "page-type/game-quest",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

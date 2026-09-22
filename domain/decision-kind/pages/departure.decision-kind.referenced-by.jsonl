@@ -3461,6 +3461,7 @@
 {"propertySlug":"decision-kind","path":"story/game/properties/player-entity.relation-property.ts","id":"01a0c672-20f9-7a90-bb66-260cb787c093"}
 {"propertySlug":"decision-kind","path":"story/game/properties/resolution-mechanism.file-property.ts","id":"01a0673c-8e0e-7013-ae6f-047f588f0390"}
 {"propertySlug":"decision-kind","path":"story/game/properties/tower-floors.file-property.ts","id":"01a0673e-1000-7003-a544-be7203cd1844"}
+{"propertySlug":"decision-kind","path":"story/game/quest/game-quest.page-type.ts","id":"01a0c6ab-e5a8-7bc3-a0c8-83d4a81beda0"}
 {"propertySlug":"decision-kind","path":"story/game/turn/game-turn.page-type.ts","id":"01a0c67d-107c-7e63-8791-38c9b6c7128d"}
 {"propertySlug":"decision-kind","path":"story/game/turn/modules/turn-filing/turn-filing.module.ts","id":"01a0c683-b1a8-7ca2-8eb2-e6c47a693845"}
 {"propertySlug":"decision-kind","path":"story/game/turn/modules/turn-state/turn-state.module.ts","id":"01a0c6a7-a2f7-7b27-b8b9-4a73b2b251b4"}

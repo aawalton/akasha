@@ -1724,6 +1724,7 @@
 {"propertySlug":"decision-kind","path":"story/game/panel/panel-place/panel-place.page-type.ts","id":"01a0c4cc-9091-7ea4-a3aa-6a4d2c413b4f"}
 {"propertySlug":"decision-kind","path":"story/game/panel/properties/drawn.file-property.ts","id":"01a0c4aa-d1e0-72a8-83ce-aa0c398fe652"}
 {"propertySlug":"decision-kind","path":"story/game/properties/mechanic-runs.file-property.ts","id":"01a0c4b7-02d8-76e0-a14b-978b3d05eb61"}
+{"propertySlug":"decision-kind","path":"story/game/quest/game-quest.page-type.ts","id":"01a0c6ab-e5a8-7bc3-a0c8-83d4a81beda0"}
 {"propertySlug":"decision-kind","path":"story/game/turn/game-turn.page-type.ts","id":"01a0c67d-107c-7e63-8791-38c9b6c7128d"}
 {"propertySlug":"decision-kind","path":"story/game/turn/modules/turn-filing/turn-filing.module.ts","id":"01a0c683-b1a8-7ca2-8eb2-e6c47a693845"}
 {"propertySlug":"decision-kind","path":"story/game/turn/modules/turn-state/turn-state.module.ts","id":"01a0c6a7-a2f7-7b27-b8b9-4a73b2b251b4"}
