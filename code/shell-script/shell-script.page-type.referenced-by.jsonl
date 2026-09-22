@@ -104,7 +104,6 @@
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"infrastructure/machine/provisioning/scripts/link-making/link-making.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"infrastructure/machine/provisioning/scripts/repo-roots/repo-roots.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"infrastructure/machine/provisioning/scripts/rg/rg.shell-script.ts"}
-{"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"infrastructure/machine/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"infrastructure/machine/provisioning/scripts/wallpaper-black/wallpaper-black.shell-script.ts"}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
 {"propertySlug":"target-page-type","path":"code/ios-app/properties/build-script.relation-property.ts","id":"01a059b5-9616-700c-8d3b-e1a440b57051"}

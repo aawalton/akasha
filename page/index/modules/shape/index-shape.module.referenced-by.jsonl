@@ -72,7 +72,6 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/bashrc/bashrc.provisioned-file.filling.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/scripts/ci-cost-snapshot/ci-cost-snapshot.shell-script.scripting.code.ts"}
-{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/ast-hash/index-ast-hash.index.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/ast-hash/index-ast-hash.index.test.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/modules/answering/index-answering.module.code.ts"}

@@ -14,7 +14,6 @@ export const provisioning = {
     "shell-script/link-making",
     "shell-script/repo-roots",
     "shell-script/rg",
-    "shell-script/setup-symlinks",
     "shell-script/wallpaper-black",
   ],
   decisions: [
