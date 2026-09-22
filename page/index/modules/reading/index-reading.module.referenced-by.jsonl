@@ -321,6 +321,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/eso/declaration/modules/eso-opt-in/eso-opt-in.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/eso/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/watcher/modules/watcher-daemon/watcher-daemon.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/watcher/modules/watcher-net-worth-landing/watcher-net-worth-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.test.ts"}
