@@ -50,6 +50,8 @@ const GRADE = grade.said
 
 const SHARED = "shared"
 
+const SONG = "song"
+
 const NAMED = [json, plan, regrade, slugArgument, gradeTarget, grade] as const
 
 export type Part = {
@@ -83,6 +85,10 @@ function orderedBy(one: Part, two: Part): number {
   return named < other ? -1 : named > other ? 1 : 0
 }
 
+export function gradedPart(pageTypeSlug: string): boolean {
+  return pageTypeSlug !== SONG
+}
+
 export function partsUnder(root: string, id: string): readonly Part[] {
   const found: Part[] = []
   const seen = new Set<string>([id])
@@ -100,7 +106,9 @@ export function partsUnder(root: string, id: string): readonly Part[] {
       if (parted === null || value === null) continue
       const slug = textIn(value, SLUG_KEY)
       if (slug === null) continue
-      found.push({ pageTypeSlug: parted.pageType, slug, value, shared: sharedIn(value) })
+      if (gradedPart(parted.pageType)) {
+        found.push({ pageTypeSlug: parted.pageType, slug, value, shared: sharedIn(value) })
+      }
       walking.push(naming)
     }
   }

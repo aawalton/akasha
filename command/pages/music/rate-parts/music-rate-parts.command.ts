@@ -15,7 +15,15 @@ export const musicRateParts = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The parts graded are every page reached down from the page named, however deep.",
+      statement: "Every page reached down from the page named is graded, however deep.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No song is graded, because Alan grades the recording he heard.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A song is walked through, so what sits under a song is still reached.",
     },
     {
       decisionKind: "decision-kind/departure",

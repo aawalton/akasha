@@ -3,6 +3,7 @@ import {
   amissIn,
   type Counted,
   chosenAmong,
+  gradedPart,
   messageOf,
   namingOf,
   type Part,
@@ -83,6 +84,12 @@ test("the counts are said as rows a reader takes", () => {
 
 test("what the landing is told names the collection, the count and the grade", () => {
   expect(messageOf(COUNTS, "release/wicked", "C")).toBe("grade 3 part(s) of release/wicked as C")
+})
+
+test("a song reached under the page named is no part to grade", () => {
+  expect(gradedPart("song")).toBe(false)
+  expect(gradedPart(TRACK)).toBe(true)
+  expect(gradedPart("release")).toBe(true)
 })
 
 test("a target that is no sort of music page is refused", () => {
