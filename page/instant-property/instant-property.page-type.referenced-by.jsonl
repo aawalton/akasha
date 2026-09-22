@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"agent/message/properties/message-claimed-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"agent/message/properties/agent-message-claimed-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"agent/model/account/properties/access-token-expires-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"agent/model/account/properties/five-hour-resets-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"agent/model/account/properties/five-hour-started-at.instant-property.ts"}

@@ -1,4 +1,4 @@
-import { recordToAgent } from "akasha/agent/message/modules/agent-record/agent-record.module.code.ts"
+import { recordToAgent } from "akasha/agent/message/modules/record/agent-message-record.module.code.ts"
 import { mailbox } from "akasha/alan/google/email/modules/gmail-mailbox/gmail-mailbox.module.code.ts"
 import {
   markTold,

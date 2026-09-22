@@ -20,5 +20,5 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/fork-is-dispatched-with-no-kind-page.finding.ts","id":"01a06dc2-4b27-7b44-bdd9-6e1d005492ab"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-no-page-refusal-reads-two-index-entries-and-asserts-more-than-it-read.finding.ts","id":"01a09635-8758-7ba1-be72-bdf7c15420bf"}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
-{"propertySlug":"target-page-type","path":"agent/message/properties/message-to.relation-property.ts","id":"01a06818-107b-7000-9af9-d98a9e34ceed"}
+{"propertySlug":"target-page-type","path":"agent/message/properties/agent-message-to.relation-property.ts","id":"01a06818-107b-7000-9af9-d98a9e34ceed"}
 {"propertySlug":"target-page-type","path":"agent/properties/principal-seat-name.relation-property.ts","id":"01a05439-6234-73fd-baf3-4e3b75e44f96"}

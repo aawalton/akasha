@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/message/modules/agent-record/agent-record.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/message/modules/record/agent-message-record.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.test.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"agent/message/recipient-resolving/modules/seat-identity/seat-identity.module.code.ts"}

@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/hook/agent-hook/name-session/name-session.agent-hook.code.ts"}
-{"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/message/modules/messages-agent-tools/messages-agent-tools.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/message/modules/supervisor-message-claim/supervisor-message-claim.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/message/modules/agent-tools/agent-message-agent-tools.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/message/modules/supervisor-claim/agent-message-supervisor-claim.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-deps/recipient-resolver-deps.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-inbound/recipient-resolver-inbound.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/modules/attributes/agent-attributes.module.code.ts"}

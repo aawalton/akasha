@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/delivery-witness/agent-message-delivery-witness.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/file-watch/agent-message-file-watch.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/messages-delivery-witness/messages-delivery-witness.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/messages-mcp/messages-mcp.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/mcp/agent-message-mcp.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/supervisor-redelivery-holdoff/agent-message-supervisor-redelivery-holdoff.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-revive/recipient-resolver-revive.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-tick/recipient-resolver-tick.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/model/account/modules/credential-file/model-account-credential-file.module.code.ts"}

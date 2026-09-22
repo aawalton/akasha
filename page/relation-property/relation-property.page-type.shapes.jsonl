@@ -1,5 +1,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"monarch-account","unique":null,"uniquePropertySlug":null,"slug":"account","propertySlug":"account","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-item-action","unique":null,"uniquePropertySlug":null,"slug":"action","propertySlug":"action","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat","unique":null,"uniquePropertySlug":null,"slug":"agent-message-to","propertySlug":"to","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"alias-of","propertySlug":"alias-of","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"anchor-image","propertySlug":"anchor","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"answered-by","propertySlug":"answered-by","fileName":null,"folderName":null}
@@ -84,7 +85,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"log-source","unique":null,"uniquePropertySlug":null,"slug":"log-source","propertySlug":"source","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-buff-major","unique":null,"uniquePropertySlug":null,"slug":"major-buff","propertySlug":"major-buff","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"merged-into","propertySlug":"merged-into","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat","unique":null,"uniquePropertySlug":null,"slug":"message-to","propertySlug":"to","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"messaged-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"character","unique":null,"uniquePropertySlug":null,"slug":"metric-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-buff-minor","unique":null,"uniquePropertySlug":null,"slug":"minor-buff","propertySlug":"minor-buff","fileName":null,"folderName":null}

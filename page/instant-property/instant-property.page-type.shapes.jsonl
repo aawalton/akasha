@@ -1,4 +1,5 @@
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"access-token-expires-at","propertySlug":"access-token-expires-at","fileName":null,"folderName":null}
+{"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"agent-message-claimed-at","propertySlug":"claimed-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"arrived-at","propertySlug":"arrived-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"asserted-at","propertySlug":"asserted-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"capture-through-at","propertySlug":"capture-through-at","fileName":null,"folderName":null}
@@ -28,7 +29,6 @@
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-window-trigger-at","propertySlug":"last-window-trigger-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"looked-at","propertySlug":"looked-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"marked-read-at","propertySlug":"marked-read-at","fileName":null,"folderName":null}
-{"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"message-claimed-at","propertySlug":"claimed-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"mined-at","propertySlug":"mined-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"monarch-updated-at","propertySlug":"monarch-updated-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"next-at","propertySlug":"next-at","fileName":null,"folderName":null}

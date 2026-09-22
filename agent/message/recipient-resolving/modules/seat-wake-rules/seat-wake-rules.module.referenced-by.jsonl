@@ -8,4 +8,4 @@
 {"propertySlug":"import","fileName":"seat-wake-rules.module.code.ts","path":"agent/message/recipient-resolving/modules/wake-comms-input/wake-comms-input.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-wake-rules.module.code.ts","path":"agent/seat/observation/seat-turn/modules/wake-armed-specs/wake-armed-specs.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-wake-rules.module.code.ts","path":"persona/modules/targets/persona-targets.module.code.ts"}
-{"propertySlug":"parts","path":"agent/message/recipient-resolving/recipient-resolving.domain.ts","id":"01a08857-a2cc-78af-ab64-4af2c5f058bf"}
+{"propertySlug":"parts","path":"agent/message/recipient-resolving/agent-message-recipient-resolving.domain.ts","id":"01a08857-a2cc-78af-ab64-4af2c5f058bf"}

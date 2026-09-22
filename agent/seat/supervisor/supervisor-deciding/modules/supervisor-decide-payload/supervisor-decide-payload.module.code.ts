@@ -1,7 +1,7 @@
 import type {
   ClaimedCandidate,
   ClaimedTranscriptFinding,
-} from "akasha/agent/message/modules/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
+} from "akasha/agent/message/modules/supervisor-claimed-redelivery-decide/agent-message-supervisor-claimed-redelivery-decide.module.code.ts"
 import type { RemoteControlSeatQuestion } from "akasha/agent/seat/supervisor/supervisor-remote-control/modules/decide/supervisor-remote-control-decide.module.code.ts"
 import type { RcDegradedSeat } from "akasha/agent/seat/supervisor/supervisor-remote-control/modules/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts"
 import type { RestartNowEvent } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts"

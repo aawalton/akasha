@@ -5,7 +5,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.ts","path":"page/index/modules/entries/index-entries.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/message/properties/message-to.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/message/properties/agent-message-to.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/model/account/properties/provider.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/model/test/properties/model-family.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/properties/principal-seat-name.relation-property.types.ts"}

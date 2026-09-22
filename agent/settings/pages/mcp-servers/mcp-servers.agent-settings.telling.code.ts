@@ -4,7 +4,7 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 
 const MODULE = "module"
 
-const SERVER = "messages-mcp"
+const SERVER = "agent-message-mcp"
 
 const CODE = "code"
 

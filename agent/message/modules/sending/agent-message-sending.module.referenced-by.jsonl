@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"agent/message/modules/agent-record/agent-record.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"agent/message/modules/file-watch/agent-message-file-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"agent/message/modules/file/agent-message-file.module.code.ts"}
+{"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"agent/message/modules/record/agent-message-record.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.test.ts"}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"agent/message/recipient-resolving/modules/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts"}

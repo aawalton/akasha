@@ -2,7 +2,7 @@
   "messages": {
     "type": "stdio",
     "command": "bun",
-    "args": ["run", "$INSTRUCTIONS/agent/message/modules/messages-mcp/messages-mcp.module.code.ts"],
+    "args": ["run", "$INSTRUCTIONS/agent/message/modules/mcp/agent-message-mcp.module.code.ts"],
     "secretEnv": ["MCP_API_KEY"]
   },
   "playwright": {

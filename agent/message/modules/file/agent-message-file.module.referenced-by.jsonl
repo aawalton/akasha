@@ -1,6 +1,6 @@
+{"propertySlug":"import","fileName":"agent-message-file.module.code.ts","path":"agent/message/modules/agent-tools/agent-message-agent-tools.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-file.module.code.ts","path":"agent/message/modules/file-watch/agent-message-file-watch.module.code.ts"}
-{"propertySlug":"import","fileName":"agent-message-file.module.code.ts","path":"agent/message/modules/messages-agent-tools/messages-agent-tools.module.code.ts"}
-{"propertySlug":"import","fileName":"agent-message-file.module.code.ts","path":"agent/message/modules/supervisor-message-claim/supervisor-message-claim.module.code.ts"}
+{"propertySlug":"import","fileName":"agent-message-file.module.code.ts","path":"agent/message/modules/supervisor-claim/agent-message-supervisor-claim.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-file.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-inbound/recipient-resolver-inbound.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-file.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-file.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}

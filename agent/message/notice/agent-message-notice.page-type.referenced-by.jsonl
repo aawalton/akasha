@@ -1,0 +1,7 @@
+{"propertySlug":"import","fileName":"agent-message-notice.page-type.types.ts","path":"agent/message/notice/pages/editor-revive/editor-revive.agent-message-notice.ts"}
+{"propertySlug":"import","fileName":"agent-message-notice.page-type.types.ts","path":"agent/message/notice/pages/limit-resume-nudge/limit-resume-nudge.agent-message-notice.ts"}
+{"propertySlug":"import","fileName":"agent-message-notice.page-type.types.ts","path":"agent/message/notice/pages/restart-deferred/restart-deferred.agent-message-notice.ts"}
+{"propertySlug":"import","fileName":"agent-message-notice.page-type.types.ts","path":"agent/message/notice/pages/restart-immediate/restart-immediate.agent-message-notice.ts"}
+{"propertySlug":"import","fileName":"agent-message-notice.page-type.types.ts","path":"agent/message/notice/pages/restart-recovery-clause/restart-recovery-clause.agent-message-notice.ts"}
+{"propertySlug":"import","fileName":"agent-message-notice.page-type.types.ts","path":"agent/message/notice/pages/wait-resume-nudge/wait-resume-nudge.agent-message-notice.ts"}
+{"propertySlug":"parts","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
