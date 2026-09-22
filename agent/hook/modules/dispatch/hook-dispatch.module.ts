@@ -80,7 +80,8 @@ export const hookDispatch = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The processor time counted is the child's, which is the hook's whole run.",
+      statement:
+        "The processor time counted is this process's and its children's, which is the hook's whole run.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -106,6 +107,21 @@ export const hookDispatch = {
       decisionKind: "decision-kind/departure",
       statement:
         "What event a hook runs at, and what tools it is over, are read from that hook's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A hook exporting a judgement is judged in this process rather than in one started for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A hook exporting no judgement is started as a process, as is one whose code will not load.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A judgement that threw refuses the call that hook judged rather than ending the dispatch.",
     },
   ],
 } as const satisfies Module

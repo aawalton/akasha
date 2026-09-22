@@ -86,5 +86,14 @@ export const hookAnswer = {
       statement:
         "The runner knows only the shape of a judgement rather than the rule any hook judges by.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A hook's judgement is a function the hook exports under the name said here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A judgement is handed the payload whole and hands back the answer rather than an exit code.",
+    },
   ],
 } as const satisfies Module

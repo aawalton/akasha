@@ -3,12 +3,15 @@ import { join } from "node:path"
 import {
   type Answer,
   ASIDE,
+  JUDGE,
+  type Judging,
   LET_THROUGH,
   parseHookPayload,
   parseRefusal,
   refusing,
   rewriting,
   said,
+  UNREADABLE,
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { linksMade } from "akasha/agent/hook/modules/links/hook-links.module.code.ts"
 import {
@@ -147,6 +150,35 @@ async function ranAt(at: string, payload: string): Promise<Ran> {
   return { code: await child.exited, out, err }
 }
 
+function judgingIn(held: unknown): Judging | null {
+  if (held === null || typeof held !== "object") return null
+  const found = (held as Record<string, unknown>)[JUDGE]
+  return typeof found === "function" ? (found as Judging) : null
+}
+
+async function judgingAt(at: string): Promise<Judging | null> {
+  try {
+    return judgingIn(await import(at))
+  } catch {
+    return null
+  }
+}
+
+async function judgedBy(judging: Judging, payload: Record<string, unknown>): Promise<Ran> {
+  try {
+    return await judging(payload)
+  } catch (cause) {
+    const why = cause instanceof Error ? cause.message : String(cause)
+    return { code: UNREADABLE, out: "", err: why }
+  }
+}
+
+async function answeredAt(at: string, payload: Record<string, unknown>): Promise<Ran> {
+  const judging = await judgingAt(at)
+  if (judging === null) return await ranAt(at, JSON.stringify(payload))
+  return await judgedBy(judging, payload)
+}
+
 function costKept(root: string, page: string, cost: Cost): undefined {
   try {
     recordCost(root, page, cost)
@@ -172,7 +204,7 @@ async function answerFor(root: string, payload: Record<string, unknown>): Promis
     if (!existsSync(at)) {
       return refusing(`${HOOK}: \`${one.slug}\` names \`${one.at}\`, and nothing is there to run`)
     }
-    const answered = await ranAt(at, JSON.stringify(carried))
+    const answered = await answeredAt(at, carried)
     const after = closing()
     const refusals = answered.code === BLOCKED ? 1 : 0
     costKept(root, one.page, costOf(before, after, runId, event, one.slug, 0, refusals))

@@ -125,6 +125,10 @@ export function guarding(from: string, root: string): boolean {
   return at === root || at.startsWith(`${root}${sep}`)
 }
 
+export const JUDGE = "judgedFor"
+
+export type Judging = (payload: Record<string, unknown>) => Answer | Promise<Answer>
+
 export async function ranAsCommandHook(
   hook: string,
   scope: readonly string[],
