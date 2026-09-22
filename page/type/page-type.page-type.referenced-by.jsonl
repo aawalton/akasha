@@ -407,7 +407,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/game/turn/game-turn.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/item/item.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/item/slot/item-slot.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/derived/metric-derived.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/derived/metric-character-derived.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/mechanic.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/metric/character/character-attribute/character-attribute.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/metric/character/metric-character.page-type.ts"}

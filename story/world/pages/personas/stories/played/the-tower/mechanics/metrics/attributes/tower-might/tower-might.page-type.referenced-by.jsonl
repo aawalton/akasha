@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"tower-might.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-health-max.metric-derived.formula.code.ts"}
-{"propertySlug":"import","fileName":"tower-might.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-health-max.metric-derived.formula.test.ts"}
-{"propertySlug":"import","fileName":"tower-might.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-physical-attack.metric-derived.formula.code.ts"}
-{"propertySlug":"import","fileName":"tower-might.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-physical-attack.metric-derived.formula.test.ts"}
+{"propertySlug":"import","fileName":"tower-might.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-health-max.metric-character-derived.formula.code.ts"}
+{"propertySlug":"import","fileName":"tower-might.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-health-max.metric-character-derived.formula.test.ts"}
+{"propertySlug":"import","fileName":"tower-might.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-physical-attack.metric-character-derived.formula.code.ts"}
+{"propertySlug":"import","fileName":"tower-might.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-physical-attack.metric-character-derived.formula.test.ts"}
 {"propertySlug":"import","fileName":"tower-might.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-might/pages/the-tower-alan.tower-might.ts"}
 {"propertySlug":"import","fileName":"tower-might.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-might/pages/the-tower-ashling-01.tower-might.ts"}
 {"propertySlug":"import","fileName":"tower-might.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-might/pages/the-tower-companion-aelwyn.tower-might.ts"}

@@ -7,7 +7,7 @@ export const mechanic = {
   definition: "a rule the play of a story runs by",
   pluralSlug: "mechanics",
   extends: ["page-type/page"],
-  parts: ["page-type/metric", "page-type/metric-derived"],
+  parts: ["page-type/metric", "page-type/metric-character-derived"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

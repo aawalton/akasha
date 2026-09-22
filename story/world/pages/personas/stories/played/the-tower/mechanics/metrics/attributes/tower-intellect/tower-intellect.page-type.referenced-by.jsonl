@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"tower-intellect.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mana-max.metric-derived.formula.code.ts"}
-{"propertySlug":"import","fileName":"tower-intellect.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mana-max.metric-derived.formula.test.ts"}
-{"propertySlug":"import","fileName":"tower-intellect.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-attack.metric-derived.formula.code.ts"}
-{"propertySlug":"import","fileName":"tower-intellect.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-attack.metric-derived.formula.test.ts"}
-{"propertySlug":"import","fileName":"tower-intellect.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-defence.metric-derived.formula.code.ts"}
-{"propertySlug":"import","fileName":"tower-intellect.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-defence.metric-derived.formula.test.ts"}
+{"propertySlug":"import","fileName":"tower-intellect.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mana-max.metric-character-derived.formula.code.ts"}
+{"propertySlug":"import","fileName":"tower-intellect.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mana-max.metric-character-derived.formula.test.ts"}
+{"propertySlug":"import","fileName":"tower-intellect.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-attack.metric-character-derived.formula.code.ts"}
+{"propertySlug":"import","fileName":"tower-intellect.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-attack.metric-character-derived.formula.test.ts"}
+{"propertySlug":"import","fileName":"tower-intellect.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-defence.metric-character-derived.formula.code.ts"}
+{"propertySlug":"import","fileName":"tower-intellect.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-defence.metric-character-derived.formula.test.ts"}
 {"propertySlug":"import","fileName":"tower-intellect.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-intellect/pages/the-tower-alan.tower-intellect.ts"}
 {"propertySlug":"import","fileName":"tower-intellect.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-intellect/pages/the-tower-ashling-01.tower-intellect.ts"}
 {"propertySlug":"import","fileName":"tower-intellect.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-intellect/pages/the-tower-companion-aelwyn.tower-intellect.ts"}
