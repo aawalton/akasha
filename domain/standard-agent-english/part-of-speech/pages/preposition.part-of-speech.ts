@@ -15,5 +15,14 @@ export const preposition = {
       decisionKind: "decision-kind/departure",
       statement: "`to` is no preposition here, because that word marks an infinitive as well.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A preposition names the noun phrase after it, and is never left at the end of a clause.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A clause closing with a preposition is restated, most often as a possessive.",
+    },
   ],
 } as const satisfies PartOfSpeech
