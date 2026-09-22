@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-adapter-gap-rows/histoire-adapter-gap-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-init/knowledge-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-ldei/knowledge-ldei.module.code.ts"}
@@ -7,7 +8,6 @@
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-adapter-gap-rows/histoire-adapter-gap-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-codec/lccc-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

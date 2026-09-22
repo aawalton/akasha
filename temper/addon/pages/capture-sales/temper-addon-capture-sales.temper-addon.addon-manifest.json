@@ -6,6 +6,25 @@
   "version": "1.0.0",
   "addonVersion": 100,
   "apiVersion": ["101041", "101042", "101049"],
-  "savedVariables": ["TemperSales_SavedVariables"],
-  "dependsOn": ["LibHistoire"]
+  "savedVariables": [
+    "TemperSales_SavedVariables",
+    "LibHistoire_Settings",
+    "LibHistoire_GuildHistoryCache"
+  ],
+  "dependsOn": ["LibDebugLogger", "LibAsync", "LibAddonMenu-2.0"],
+  "optionalDependsOn": ["LibCustomMenu"],
+  "xmlFiles": {
+    "afterBundle": ["guildHistoryCache/controls.xml"]
+  },
+  "assets": [
+    "image/histy_down.dds",
+    "image/histy_over.dds",
+    "image/histy_up.dds",
+    "image/linked_down.dds",
+    "image/linked_over.dds",
+    "image/linked_up.dds",
+    "image/unlinked_down.dds",
+    "image/unlinked_over.dds",
+    "image/unlinked_up.dds"
+  ]
 }

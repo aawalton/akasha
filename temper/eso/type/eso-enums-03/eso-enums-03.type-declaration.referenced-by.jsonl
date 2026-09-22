@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-potion-craft/potion-potion-craft.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-tooltips/potion-tooltips.module.code.ts"}
@@ -6,7 +7,6 @@
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-crafting-smithing-improve/fco-crafting-smithing-improve.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-select/scrollable-menu-combobox-base-select.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-03.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

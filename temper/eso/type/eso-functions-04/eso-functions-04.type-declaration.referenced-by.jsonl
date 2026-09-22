@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-legacy-event-format/histoire-legacy-event-format.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/catalog-api-test/catalog-api-test.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-cadwell/characters-cadwell.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-events-build/characters-events-build.module.code.ts"}
@@ -47,7 +48,6 @@
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-map-adapter/gps-map-adapter.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-legacy-event-format/histoire-legacy-event-format.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-update/map-data-update.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-hooks/destinations-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-slash-command/destinations-pins-slash-command.module.code.ts"}

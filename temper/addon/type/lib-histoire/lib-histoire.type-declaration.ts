@@ -1,9 +1,0 @@
-import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
-
-export const libHistoire = {
-  id: "01a06090-f5b2-7ff6-bb68-e299e5e41bfd",
-  type: "page-type/type-declaration",
-  slug: "lib-histoire",
-  definition: "what the lib-histoire library leaves in another add-on's reach",
-  d: "ts",
-} as const satisfies TypeDeclaration

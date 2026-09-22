@@ -1,10 +1,36 @@
-import "akasha/temper/addon/type/lib-histoire/lib-histoire.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 
+import { lib as history } from "akasha/temper/addon/pages/capture-sales/modules/histoire-state/histoire-state.module.code.ts"
 import type { SalesPayload } from "akasha/temper/capture/sale/modules/sales-payload/sales-payload.module.code.ts"
+
+interface GuildHistoryTraderEventInfo {
+  sellerDisplayName: string
+  buyerDisplayName: string
+  quantity: number
+  itemLink: string
+  price: number
+  tax: number
+}
+
+interface GuildHistoryEventRef {
+  GetEventId: () => Id64
+  GetEventType: () => number
+  GetEventTimestampS: () => number
+  GetEventInfo: () => GuildHistoryTraderEventInfo | undefined
+}
+
+interface GuildHistoryEventProcessor {
+  SetEventCallback: (cb: (this: void, event: GuildHistoryEventRef) => void) => boolean
+  SetStopOnLastCachedEvent: (stop: boolean) => boolean
+  StartStreaming: (afterEventId?: Id64, onRegisteredForFuture?: (this: void) => void) => boolean
+}
+
+function asEventProcessor(value: unknown): GuildHistoryEventProcessor | undefined {
+  return value as GuildHistoryEventProcessor | undefined
+}
 
 let getSavedVariables: (() => SalesPayload) | undefined
 
@@ -48,20 +74,15 @@ function recordSale(
 }
 
 export function startSalesCapture(addonName: string): undefined {
-  const lib = LibHistoire
-  if (!lib) return
-
   const ownName = GetDisplayName()
 
-  lib.OnReady((ready) => {
+  history.OnReady((ready) => {
     const numGuilds = GetNumGuilds()
     for (let i = 1; i <= numGuilds; i++) {
       const guildId = GetGuildId(i)
       const guildName = GetGuildName(guildId)
-      const processor = ready.CreateGuildHistoryProcessor(
-        guildId,
-        GUILD_HISTORY_EVENT_CATEGORY_TRADER,
-        addonName
+      const processor = asEventProcessor(
+        ready.CreateGuildHistoryProcessor(guildId, GUILD_HISTORY_EVENT_CATEGORY_TRADER, addonName)
       )
       if (!processor) continue
 

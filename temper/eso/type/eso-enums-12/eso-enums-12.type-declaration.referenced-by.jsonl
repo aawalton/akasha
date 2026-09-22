@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-bar/combat-action-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-crux/combat-action-crux.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts"}
@@ -42,7 +43,6 @@
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-cooldown/inventory-tooltip-cooldown.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base/scrollable-menu-combobox-base.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-state/minimap-state.module.code.ts"}

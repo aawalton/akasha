@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-window-shared/histoire-status-window-shared.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-window/characters-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/journal-shape/journal-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/journal-window/journal-window.module.code.ts"}
@@ -37,7 +38,6 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-shared/histoire-status-window-shared.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-shape/main-menu-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-refresh/scrollable-menu-api-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"}

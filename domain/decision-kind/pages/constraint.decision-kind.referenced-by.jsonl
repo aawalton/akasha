@@ -403,7 +403,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/modules/leads-unit-list/leads-unit-list.module.ts","id":"01a06274-b08a-7e24-bb52-b2b7aeb6d21d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/temper-addon-antiquities.temper-addon.ts","id":"01a06275-5d2d-7594-903b-3f31fdbba41e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/capture-datamining/temper-addon-capture-datamining.temper-addon.ts","id":"01a06341-d9e8-7008-91c3-2fcab6b143bf"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/capture-sales/modules/sales-capture/sales-capture.module.ts","id":"01a060e2-3181-7087-9742-dc3d075f9c3c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-achievements/characters-achievements.module.ts","id":"01a062e9-b6ff-701b-ad38-42cae450de18"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.ts","id":"01a062e9-b6ff-701c-9ee8-9608dc0eea33"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-collector-merge/characters-collector-merge.module.ts","id":"01a062e9-b6fe-7010-ab1f-3d8afc6a9e8e"}
@@ -594,7 +593,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/temper-lib-debug-logger.temper-addon.ts","id":"01a06061-408b-7657-add9-d2dfd959f9b9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-gps/modules/gps-lib-state/gps-lib-state.module.ts","id":"01a0614d-4763-71d6-823d-0a023d0ff5b6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-gps/temper-lib-gps.temper-addon.ts","id":"01a0614d-4767-7eb4-a5d6-68581039bf67"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-histoire/temper-lib-histoire.temper-addon.ts","id":"01a06197-4ca1-7e27-83d1-a375f8179328"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-main-menu/modules/main-menu-keyboard/main-menu-keyboard.module.ts","id":"01a0605b-c803-7076-8256-6e18f678aa85"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-main-menu/temper-lib-main-menu.temper-addon.ts","id":"01a0605b-c805-73f4-b1b0-5aa7831a19d4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-data/modules/map-data-index-00/map-data-index-00.module.ts","id":"01a061e1-aea3-78f7-9287-3c987cf5bf24"}

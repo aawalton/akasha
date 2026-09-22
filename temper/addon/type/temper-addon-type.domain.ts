@@ -21,7 +21,6 @@ export const temperAddonType = {
     "type-declaration/lib-debug-logger",
     "type-declaration/lib-gps",
     "type-declaration/lib-group-broadcast",
-    "type-declaration/lib-histoire",
     "type-declaration/lib-lua-52",
     "type-declaration/lib-main-menu",
     "type-declaration/lib-main-menu-shape",

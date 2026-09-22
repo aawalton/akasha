@@ -236,6 +236,24 @@ export const CONSOLIDATION_MIGRATIONS = [
     },
   },
   {
+    mode: "append",
+    runFor: "TemperSales",
+    spec: {
+      absorbedFileBase: "LibHistoire",
+      absorbedGlobal: "LibHistoire_Settings",
+      targetFileBase: "TemperSales",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperSales",
+    spec: {
+      absorbedFileBase: "LibHistoire",
+      absorbedGlobal: "LibHistoire_GuildHistoryCache",
+      targetFileBase: "TemperSales",
+    },
+  },
+  {
     mode: "rename",
     runFor: "TemperKeybinder",
     oldFileBase: "TemperVotansKeybinder",

@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-adapter/histoire-adapter.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-cache-guild/histoire-cache-guild.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-legacy-event-format/histoire-legacy-event-format.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-quick-navigation/histoire-quick-navigation.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-server-request/histoire-server-request.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-settings/histoire-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-startup/histoire-startup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-adapter/histoire-adapter.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-cache-guild/histoire-cache-guild.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-legacy-event-format/histoire-legacy-event-format.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-quick-navigation/histoire-quick-navigation.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-server-request/histoire-server-request.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-settings/histoire-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-startup/histoire-startup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-guild-history.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

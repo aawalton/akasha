@@ -20,8 +20,9 @@ export const salesCapture = {
       statement: "Sales are read from the trader category of every guild the player belongs to.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "The event stream is reached through LibHistoire.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The event stream is reached through the guild history modules this add-on carries.",
     },
   ],
 } as const satisfies Module

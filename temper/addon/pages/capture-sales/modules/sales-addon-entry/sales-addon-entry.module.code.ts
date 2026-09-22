@@ -1,3 +1,4 @@
+import "akasha/temper/addon/pages/capture-sales/modules/histoire-public-api/histoire-public-api.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 import { ADDON_NAME } from "akasha/temper/addon/pages/capture-sales/modules/sales-addon-name/sales-addon-name.module.code.ts"

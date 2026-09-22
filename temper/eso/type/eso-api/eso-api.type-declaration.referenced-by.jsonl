@@ -1,4 +1,7 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-saved-variables/leads-saved-variables.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-dialogs/histoire-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-startup/histoire-startup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-list/characters-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-skill-lines/characters-skill-lines.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-skill-points/characters-skill-points.module.code.ts"}
@@ -82,9 +85,6 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-async/modules/async-scheduler/async-scheduler.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-lib/chat-message-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-dialogs/histoire-dialogs.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-startup/histoire-startup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-keyboard/main-menu-keyboard.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-code-bootstrap/scrollable-menu-code-bootstrap.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-data/scrollable-menu-combobox-base-data.module.code.ts"}

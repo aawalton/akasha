@@ -1,9 +1,9 @@
+{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-casts/histoire-casts.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-category-class-shape/histoire-category-class-shape.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-category-processing/histoire-category-processing.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-legacy-event-listener/histoire-legacy-event-listener.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-processing-request/histoire-processing-request.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-libraries/craft-libraries.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-casts/histoire-casts.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-category-class-shape/histoire-category-class-shape.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-category-processing/histoire-category-processing.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-legacy-event-listener/histoire-legacy-event-listener.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-processing-request/histoire-processing-request.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-shared/minimap-shared.module.code.ts"}

@@ -1,3 +1,9 @@
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-cache-status-bar/histoire-cache-status-bar.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-dialogs/histoire-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-server-request-manager/histoire-server-request-manager.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-window-row-helpers/histoire-status-window-row-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-window/histoire-status-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/slash-commander-descriptions/slash-commander-descriptions.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-comboboxes/housing-comboboxes.module.code.ts"}
@@ -18,12 +24,6 @@
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-public-api/custom-menu-public-api.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-rows/submenu-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-cache-status-bar/histoire-cache-status-bar.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-dialogs/histoire-dialogs.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-server-request-manager/histoire-server-request-manager.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-row-helpers/histoire-status-window-row-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window/histoire-status-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-dims/scrollable-menu-combobox-base-dims.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-setup-editbox/scrollable-menu-combobox-base-setup-editbox.module.code.ts"}

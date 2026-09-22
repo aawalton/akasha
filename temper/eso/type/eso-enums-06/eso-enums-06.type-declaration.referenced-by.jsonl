@@ -1,3 +1,10 @@
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-adapter/histoire-adapter.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-category-requests/histoire-category-requests.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-category-thresholds/histoire-category-thresholds.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-legacy-category-lookup/histoire-legacy-category-lookup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-legacy-event-format/histoire-legacy-event-format.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-server-request-manager/histoire-server-request-manager.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-status-window/histoire-status-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-capture/sales-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-resources/combat-lib-resources.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-init/companion-qol-init.module.code.ts"}
@@ -18,13 +25,6 @@
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-adapter/histoire-adapter.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-category-requests/histoire-category-requests.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-category-thresholds/histoire-category-thresholds.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-legacy-category-lookup/histoire-legacy-category-lookup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-legacy-event-format/histoire-legacy-event-format.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-server-request-manager/histoire-server-request-manager.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window/histoire-status-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/currency-catalog-capture/currency-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-item-link/item-browser-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-06.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-ui-strings/item-browser-ui-strings.module.code.ts"}

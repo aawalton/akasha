@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-settings/histoire-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/journal-core/journal-core.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/collections/modules/journal-tabs/journal-tabs.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu-tail/combat-menu-tail.module.code.ts"}
@@ -37,7 +38,6 @@
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-settings-messages/quiet-settings-messages.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-settings-world/quiet-settings-world.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-public-api/shifter-public-api.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-settings/histoire-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-settings-achievement-global/destinations-settings-achievement-global.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-settings-achievement-sections/destinations-settings-achievement-sections.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-settings-achievements/destinations-settings-achievements.module.code.ts"}
