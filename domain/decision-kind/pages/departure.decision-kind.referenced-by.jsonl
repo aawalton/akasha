@@ -2815,7 +2815,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/base-port.number-property.ts","id":"01a08cfa-c5f4-7b3f-80e6-1a9623e9954d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/build-command.text-property.ts","id":"01a05b26-f8b6-7600-9b5a-4fed2b228f2b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/secret-resource.text-property.ts","id":"01a08cfa-dafb-7b31-884e-718e64f5308b"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/service-clusters.relation-property.ts","id":"01a05b26-f8b6-7334-a5d4-d44ab19e071e"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/service-clusters.multi-relation-property.ts","id":"01a05b26-f8b6-7334-a5d4-d44ab19e071e"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/properties/source-directory.text-property.ts","id":"01a05b26-f8b6-7d79-b5c7-6e8267081489"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/web-app/web-app.page-type.ts","id":"01a05b26-f8b6-7d74-a301-0488daed8bbc"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/binary-running/binary-running.module.ts","id":"01a091ac-021e-7000-9f2e-0d8a8f5ea712"}

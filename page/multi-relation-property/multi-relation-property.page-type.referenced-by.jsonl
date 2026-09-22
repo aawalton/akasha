@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"graph/predicate/properties/edges.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"infrastructure/service/cluster/properties/secrets.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"infrastructure/service/cluster/properties/service-manifest.multi-relation-property.ts"}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"infrastructure/service/web-app/properties/service-clusters.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"page/one-of-property/properties/members.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"page/type/properties/extends-type.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"person/access/properties/person-access-deed.multi-relation-property.ts"}

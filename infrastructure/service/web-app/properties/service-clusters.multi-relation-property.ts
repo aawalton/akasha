@@ -1,8 +1,8 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const serviceClusters = {
   id: "01a05b26-f8b6-7334-a5d4-d44ab19e071e",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "service-clusters",
   propertySlug: "service-clusters",
   definition: "the cluster services running a web app",
@@ -18,4 +18,4 @@ export const serviceClusters = {
     },
   ],
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

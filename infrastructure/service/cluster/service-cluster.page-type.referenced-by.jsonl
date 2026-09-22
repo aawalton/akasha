@@ -38,4 +38,4 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/every-web-app-holds-its-build-on-one-node.finding.ts","id":"01a05b08-26f6-7003-ac30-d9e8f8f02f09"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-tailnet-egress-cannot-be-redeployed-cheaply.finding.ts","id":"01a05abf-bf21-7bd3-93e0-e09306a52a3b"}
 {"propertySlug":"parts","path":"infrastructure/service/service.page-type.ts","id":"01a05a3c-caff-7656-b00d-cbde9f3cf324"}
-{"propertySlug":"target-page-type","path":"infrastructure/service/web-app/properties/service-clusters.relation-property.ts","id":"01a05b26-f8b6-7334-a5d4-d44ab19e071e"}
+{"propertySlug":"target-page-type","path":"infrastructure/service/web-app/properties/service-clusters.multi-relation-property.ts","id":"01a05b26-f8b6-7334-a5d4-d44ab19e071e"}
