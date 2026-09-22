@@ -4,7 +4,7 @@ export const completionCardTab = {
   id: "01a06103-0618-76fd-8539-d368cdcf6cae",
   type: "page-type/module",
   slug: "completion-card-tab",
-  definition: "which tab of the completion window a card is shown under",
+  definition: "a card's tab in the completion window",
   code: "ts",
   test: "ts",
   decisions: [

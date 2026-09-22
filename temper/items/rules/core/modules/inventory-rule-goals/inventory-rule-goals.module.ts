@@ -4,8 +4,7 @@ export const inventoryRuleGoals = {
   id: "01a060d9-44ca-7d5d-bec0-67931a83447a",
   type: "page-type/module",
   slug: "inventory-rule-goals",
-  definition:
-    "the goals a rule may be worked toward, each with the priority the goal is weighed at",
+  definition: "the goals a rule may be worked toward, each with its own priority",
   code: "ts",
   decisions: [
     {

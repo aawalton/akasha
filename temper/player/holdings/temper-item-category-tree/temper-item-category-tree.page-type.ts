@@ -4,7 +4,7 @@ export const temperItemCategoryTree = {
   id: "01a05fcb-fd33-7e42-b0df-2c021ee52730",
   type: "page-type/page-type",
   slug: "temper-item-category-tree",
-  definition: "a branch of the tree an inventory is sorted into",
+  definition: "a branch of the tree sorting an inventory",
   extends: ["page-type/temper-thing"],
   parts: [
     "number-property/armor-types",

@@ -5,7 +5,7 @@ export const maxQuests = {
   type: "page-type/number-property",
   slug: "max-quests",
   propertySlug: "max-quests",
-  definition: "how many quests a source gives a skill point for",
+  definition: "how many quests earn a skill point from a source",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

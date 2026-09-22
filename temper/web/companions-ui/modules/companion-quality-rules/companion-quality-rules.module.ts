@@ -4,7 +4,7 @@ export const companionQualityRules = {
   id: "01a06360-7480-7004-99b9-59ca52965b19",
   type: "page-type/module",
   slug: "companion-quality-rules",
-  definition: "the variant and text class a companion equipment quality is drawn in",
+  definition: "the variant and text class drawing a companion equipment quality",
   code: "ts",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const nodeType = {
   type: "page-type/text-property",
   slug: "node-type",
   propertySlug: "node-type",
-  definition: "which rank of the metric tree a node sits at",
+  definition: "a node's rank in the metric tree",
   maxLength: 20,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

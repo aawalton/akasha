@@ -4,7 +4,7 @@ export const temperWatcherEnrolment = {
   id: "01a05fd3-4364-713f-be23-5bd09e86ad23",
   type: "page-type/page-type",
   slug: "temper-watcher-enrolment",
-  definition: "a watcher allowed to have a machine's saved game files in",
+  definition: "a watcher allowed to send a machine's saved game files",
   extends: ["page-type/temper-progress-thing"],
   parts: [
     "instant-property/token-created-at",

@@ -5,7 +5,7 @@ export const questId = {
   type: "page-type/number-property",
   slug: "quest-id",
   propertySlug: "quest-id",
-  definition: "the number the game names a quest by",
+  definition: "the game's number for a quest",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
