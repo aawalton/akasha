@@ -66,7 +66,7 @@ export function setupFilterDropdown(this: void, params: FilterSetupParams): Sear
     if (lsmDropdowns !== undefined) {
       const paramName = self.multiSelectFilterDropdownToSearchParamName.get(control)
       if (paramName !== undefined) {
-        lsmDropdowns[paramName] = AddCustomScrollableComboBoxDropdownMenu(
+        lsmDropdowns[paramName] = TemperScrollableMenuAddComboBoxDropdown(
           filters,
           control,
           params.lsmOptions

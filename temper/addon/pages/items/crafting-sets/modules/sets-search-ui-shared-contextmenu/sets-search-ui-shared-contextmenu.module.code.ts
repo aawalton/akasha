@@ -69,19 +69,19 @@ sharedClass.ShowSettingsMenu = function (
   }
 
   TemperScrollableMenuClear()
-  AddCustomScrollableMenuHeader(
+  TemperScrollableMenuAddHeader(
     `${settingsIconText} ${GetString(SI_CUSTOMERSERVICESUBMITFEEDBACKSUBCATEGORIES1305)}`
   )
 
-  AddCustomScrollableMenuEntry(showSetsSettingsStr, () => {
+  TemperScrollableMenuAddEntry(showSetsSettingsStr, () => {
     sets_showSettingsMenu()
   })
 
-  AddCustomScrollableMenuHeader(
+  TemperScrollableMenuAddHeader(
     `${defaultActionLeftClickStr} |t100.000000%:100.000000%:EsoUI/Art/Miscellaneous/icon_LMB.dds|t`
   )
 
-  AddCustomScrollableMenuRadioButton(
+  TemperScrollableMenuAddRadioButton(
     linkToChatStr,
     () => {
       const settings = settingsView()
@@ -92,7 +92,7 @@ sharedClass.ShowSettingsMenu = function (
     () => settingsView()?.setSearchUIRowLeftClickDefaultAction === "linkToChat"
   )
 
-  AddCustomScrollableMenuRadioButton(
+  TemperScrollableMenuAddRadioButton(
     popupTooltipStr,
     () => {
       const settings = settingsView()
@@ -103,7 +103,7 @@ sharedClass.ShowSettingsMenu = function (
     () => settingsView()?.setSearchUIRowLeftClickDefaultAction === "popupTooltip"
   )
 
-  AddCustomScrollableMenuHeader(GetString(SI_GAMEPAD_BANK_FILTER_HEADER))
+  TemperScrollableMenuAddHeader(GetString(SI_GAMEPAD_BANK_FILTER_HEADER))
   const dlcDropdownFilterSubmenu: LSMSubmenuEntry[] = [
     {
       label: getLocalizedText("sortByName"),
@@ -130,10 +130,10 @@ sharedClass.ShowSettingsMenu = function (
       buttonGroup: 3,
     },
   ]
-  AddCustomScrollableSubMenuEntry(getLocalizedText("DLCDropdown"), dlcDropdownFilterSubmenu)
+  TemperScrollableMenuAddSubMenuEntry(getLocalizedText("DLCDropdown"), dlcDropdownFilterSubmenu)
 
-  AddCustomScrollableMenuHeader(tooltipsStr)
-  AddCustomScrollableMenuCheckbox(
+  TemperScrollableMenuAddHeader(tooltipsStr)
+  TemperScrollableMenuAddCheckbox(
     getLocalizedText("textBoxFilterTooltips"),
     (_comboBox, _itemName, _item, checked) => {
       const settings = settingsView()
@@ -143,7 +143,7 @@ sharedClass.ShowSettingsMenu = function (
     },
     () => asBooleanOpt(settingsView()?.setSearchTooltipsAtTextFilters)
   )
-  AddCustomScrollableMenuCheckbox(
+  TemperScrollableMenuAddCheckbox(
     getLocalizedText("dropdownFilterTooltips"),
     (_comboBox, _itemName, _item, checked) => {
       const settings = settingsView()
@@ -153,7 +153,7 @@ sharedClass.ShowSettingsMenu = function (
     },
     () => asBooleanOpt(settingsView()?.setSearchTooltipsAtFilters)
   )
-  AddCustomScrollableMenuCheckbox(
+  TemperScrollableMenuAddCheckbox(
     getLocalizedText("dropdownFilterEntryTooltips"),
     (_comboBox, _itemName, _item, checked) => {
       const settings = settingsView()
@@ -164,8 +164,8 @@ sharedClass.ShowSettingsMenu = function (
     () => asBooleanOpt(settingsView()?.setSearchTooltipsAtFilterEntries)
   )
 
-  AddCustomScrollableMenuHeader(getLocalizedText("droppedBy"))
-  AddCustomScrollableMenuCheckbox(
+  TemperScrollableMenuAddHeader(getLocalizedText("droppedBy"))
+  TemperScrollableMenuAddCheckbox(
     showAsTooltipStr,
     (_comboBox, _itemName, _item, checked) => {
       const settings = settingsView()
@@ -228,7 +228,7 @@ sharedClass.ShowSettingsMenu = function (
       buttonGroup: 1,
     },
   ]
-  AddCustomScrollableMenuEntry(
+  TemperScrollableMenuAddEntry(
     setSearchDropLocationTooltipPosStr,
     undefined,
     TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_SUBMENU,
@@ -237,8 +237,8 @@ sharedClass.ShowSettingsMenu = function (
   )
 
   if (clientLang !== fallbackLang) {
-    AddCustomScrollableMenuHeader(setNamesStr)
-    AddCustomScrollableMenuCheckbox(
+    TemperScrollableMenuAddHeader(setNamesStr)
+    TemperScrollableMenuAddCheckbox(
       getLocalizedText("searchUIShowSetNameInEnglishToo"),
       (_comboBox, _itemName, _item, checked) => {
         const settings = settingsView()
@@ -259,10 +259,10 @@ sharedClass.ShowSettingsMenu = function (
     const favoriteCategory = favoriteCategoryData.category
     if (setSearchFavorites !== undefined && !zoite(setSearchFavorites[favoriteCategory] ?? {})) {
       if (!wasFavoriteHeaderAdded) {
-        AddCustomScrollableMenuHeader(favoritesStr)
+        TemperScrollableMenuAddHeader(favoritesStr)
         wasFavoriteHeaderAdded = true
       }
-      AddCustomScrollableMenuEntry(
+      TemperScrollableMenuAddEntry(
         `${asPresent(favoriteIconWithNameTexts[favoriteCategory])} ${GetString(SI_ATTRIBUTEPOINTALLOCATIONMODE_CLEARKEYBIND1)} '${zo_strformat("<<C:1>>", favoriteCategory)}'`,
         () => {
           this.RemoveAllSetFavorites(favoriteCategory)
@@ -271,7 +271,7 @@ sharedClass.ShowSettingsMenu = function (
     }
   }
 
-  ShowCustomScrollableMenu(anchorControl)
+  TemperScrollableMenuShow(anchorControl)
 }
 
 sharedClass.ShowDropdownContextMenu = showDropdownContextMenu
@@ -300,11 +300,11 @@ sharedClass.OnSearchEditBoxContextMenu = function (
   if (editBoxControl.GetText() !== "") {
     TemperScrollableMenuClear()
     anyEntryAddedAlready = true
-    AddCustomScrollableMenuEntry(GetString(SI_GAMEPAD_MAIL_SEND_CLEAR), () => {
+    TemperScrollableMenuAddEntry(GetString(SI_GAMEPAD_MAIL_SEND_CLEAR), () => {
       this.SetSearchEditBoxValue(editBoxControl, "")
       TemperScrollableMenuClear()
     })
-    AddCustomScrollableMenuDivider()
+    TemperScrollableMenuAddDivider()
     doShowMenu = true
   }
 
@@ -316,13 +316,13 @@ sharedClass.OnSearchEditBoxContextMenu = function (
         TemperScrollableMenuClear()
       }
       for (const [, searchTerm] of ipairs(searchHistoryOfSearchMode)) {
-        AddCustomScrollableMenuEntry(searchTerm, () => {
+        TemperScrollableMenuAddEntry(searchTerm, () => {
           this.SetSearchEditBoxValue(editBoxControl, searchTerm)
           TemperScrollableMenuClear()
         })
       }
-      AddCustomScrollableMenuDivider()
-      AddCustomScrollableMenuEntry(clearSearchHistoryStr, () => {
+      TemperScrollableMenuAddDivider()
+      TemperScrollableMenuAddEntry(clearSearchHistoryStr, () => {
         clearSearchHistory(searchType)
         TemperScrollableMenuClear()
       })
@@ -345,6 +345,6 @@ sharedClass.OnSearchEditBoxContextMenu = function (
     }
   }
   if (doShowMenu) {
-    ShowCustomScrollableMenu(editBoxControl, { visibleRowsDropdown: 15 })
+    TemperScrollableMenuShow(editBoxControl, { visibleRowsDropdown: 15 })
   }
 }

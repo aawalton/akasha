@@ -91,7 +91,7 @@ function lsmRefreshLibScrollableMenu(
     }
   }
 }
-RefreshCustomScrollableMenu = lsmRefreshLibScrollableMenu
+TemperScrollableMenuRefresh = lsmRefreshLibScrollableMenu
 
 function lsmIsContextMenuCurrentlyShown(this: void): boolean {
   const gContextMenu = asLsmCastLocalContextMenuLikeUndefined(updateContextMenuRef())
@@ -121,7 +121,7 @@ function lsmIsLsmCurrentlyShown(this: void): boolean {
   }
   return lsmIsContextMenuCurrentlyShown()
 }
-IsCustomScrollableMenuShown = lsmIsLsmCurrentlyShown
+TemperScrollableMenuIsShown = lsmIsLsmCurrentlyShown
 
 function preventCustomScrollableContextMenuHideImpl(this: void): undefined {
   lib.preventLSMClosingZO_Menu = true
@@ -140,10 +140,8 @@ function preventCustomScrollableContextMenuEntryClickHideImpl(
     preventerVars.suppressNextOnEntryMouseUpDisableCounter = clickCount
   }
 }
-PreventCustomScrollableContextMenuEntryClickHide =
-  preventCustomScrollableContextMenuEntryClickHideImpl
-const preventCustomScrollableContextMenuEntryClickHide =
-  PreventCustomScrollableContextMenuEntryClickHide
+TemperScrollableMenuPreventEntryClickHide = preventCustomScrollableContextMenuEntryClickHideImpl
+const preventCustomScrollableContextMenuEntryClickHide = TemperScrollableMenuPreventEntryClickHide
 
 function oneTimeSuppressLSMCLose(this: void): undefined {
   preventCustomScrollableContextMenuEntryClickHide(1)
@@ -254,9 +252,9 @@ function buttonGroupDefaultContextMenu(
     ]
 
     TemperScrollableMenuClear()
-    const [addedEntriesIgnored] = AddCustomScrollableMenuEntries(buttonGroupSetAll)
+    const [addedEntriesIgnored] = TemperScrollableMenuAddEntries(buttonGroupSetAll)
     void addedEntriesIgnored
-    ShowCustomScrollableMenu(undefined, undefined)
+    TemperScrollableMenuShow(undefined, undefined)
   }
 }
 lib.SetButtonGroupState = buttonGroupDefaultContextMenu

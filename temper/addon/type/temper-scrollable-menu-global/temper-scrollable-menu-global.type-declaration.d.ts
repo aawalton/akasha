@@ -19,7 +19,7 @@ declare const TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_SUBMENU: number
 
 declare const TemperScrollableMenuClear: (this: void, owner?: unknown) => undefined
 
-declare var AddCustomScrollableMenuEntry: (
+declare var TemperScrollableMenuAddEntry: (
   this: void,
   text?: unknown,
   callback?: LsmEntryCallback,
@@ -28,13 +28,13 @@ declare var AddCustomScrollableMenuEntry: (
   additionalData?: unknown
 ) => LuaMultiReturn<[number | undefined, Record<string, unknown> | undefined]>
 
-declare var AddCustomScrollableMenuHeader: (
+declare var TemperScrollableMenuAddHeader: (
   this: void,
   text?: unknown,
   additionalData?: unknown
 ) => LuaMultiReturn<[number | undefined, Record<string, unknown> | undefined]>
 
-declare var AddCustomScrollableSubMenuEntry: (
+declare var TemperScrollableMenuAddSubMenuEntry: (
   this: void,
   text?: unknown,
   entries?: unknown,
@@ -42,11 +42,11 @@ declare var AddCustomScrollableSubMenuEntry: (
   additionalData?: unknown
 ) => LuaMultiReturn<[number | undefined, Record<string, unknown> | undefined]>
 
-declare var AddCustomScrollableMenuDivider: (
+declare var TemperScrollableMenuAddDivider: (
   this: void
 ) => LuaMultiReturn<[number | undefined, Record<string, unknown> | undefined]>
 
-declare var ShowCustomScrollableMenu: (
+declare var TemperScrollableMenuShow: (
   this: void,
   controlToAnchorTo?: unknown,
   options?: unknown,
@@ -55,7 +55,7 @@ declare var ShowCustomScrollableMenu: (
 
 declare const TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_RADIOBUTTON: number
 
-declare var AddCustomScrollableMenuCheckbox: (
+declare var TemperScrollableMenuAddCheckbox: (
   this: void,
   text?: unknown,
   callback?: LsmEntryCallback,
@@ -63,7 +63,7 @@ declare var AddCustomScrollableMenuCheckbox: (
   additionalData?: unknown
 ) => LuaMultiReturn<[number | undefined, Record<string, unknown> | undefined]>
 
-declare var AddCustomScrollableMenuRadioButton: (
+declare var TemperScrollableMenuAddRadioButton: (
   this: void,
   text?: unknown,
   callback?: LsmEntryCallback,
@@ -72,7 +72,7 @@ declare var AddCustomScrollableMenuRadioButton: (
   additionalData?: unknown
 ) => LuaMultiReturn<[number | undefined, Record<string, unknown> | undefined]>
 
-declare var AddCustomScrollableComboBoxDropdownMenu: (
+declare var TemperScrollableMenuAddComboBoxDropdown: (
   this: void,
   parent?: unknown,
   comboBoxContainer?: unknown,

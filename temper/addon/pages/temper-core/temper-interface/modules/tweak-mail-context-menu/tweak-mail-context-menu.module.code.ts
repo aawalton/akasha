@@ -83,7 +83,7 @@ function onMouseUpAtMailEditBox(
     const isEmpty = type(currentTextInitial) === "string" && currentTextInitial === ""
 
     if (isEmpty === false) {
-      AddCustomScrollableMenuEntry("Clear edit field", () => {
+      TemperScrollableMenuAddEntry("Clear edit field", () => {
         editCtrl.SetText("")
       })
     } else {
@@ -134,7 +134,7 @@ function onMouseUpAtMailEditBox(
         }
 
         if (addProfilePossible === true) {
-          AddCustomScrollableMenuEntry(
+          TemperScrollableMenuAddEntry(
             profilesText,
             () => {},
             TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER,
@@ -149,7 +149,7 @@ function onMouseUpAtMailEditBox(
 
       wasProfilesAdded = checkMaxProfilesAndCreateSubMenus(addProfilePossible)
       if (wasProfilesAdded === true) {
-        AddCustomScrollableMenuDivider()
+        TemperScrollableMenuAddDivider()
       }
 
       if (addProfilePossible === true) {
@@ -160,7 +160,7 @@ function onMouseUpAtMailEditBox(
 
         if (isNotIn === true) {
           const addAsProfileText = addAsProfileString(`#${tostring(nextProfileNum)}`)
-          AddCustomScrollableMenuEntry(addAsProfileText, () => {
+          TemperScrollableMenuAddEntry(addAsProfileText, () => {
             addToProfile(nextProfileNum, recipient, subject ?? "")
           })
           addOrDeleteProfileAdded = true
@@ -174,12 +174,12 @@ function onMouseUpAtMailEditBox(
       allowedMailContextMenuOwners.set(editCtrl, true)
 
       if (addOrDeleteProfileAdded === true) {
-        AddCustomScrollableMenuDivider()
+        TemperScrollableMenuAddDivider()
       }
 
       wasFavoritesAdded = checkMaxFavoritesAndCreateSubMenus(fieldType, true)
       if (wasFavoritesAdded === true) {
-        AddCustomScrollableMenuDivider()
+        TemperScrollableMenuAddDivider()
       }
 
       const isValidated = validateTextField(fieldType, currentTextInitial)
@@ -196,13 +196,13 @@ function onMouseUpAtMailEditBox(
         if (isEmpty === false) {
           if (isNotIn === true) {
             const addText = addAsFavoriteString(shortText ?? "")
-            AddCustomScrollableMenuEntry(addText, () => {
+            TemperScrollableMenuAddEntry(addText, () => {
               addToFavorites(fieldType, undefined)
             })
             addOrDeleteFavoriteAdded = true
           } else {
             const deleteText = deleteCurrentFavoriteString(shortText ?? "")
-            AddCustomScrollableMenuEntry(deleteText, () => {
+            TemperScrollableMenuAddEntry(deleteText, () => {
               removeSavedValue(fieldType, true, currentTextInitial)
             })
             addOrDeleteFavoriteAdded = true
@@ -216,7 +216,7 @@ function onMouseUpAtMailEditBox(
       const lastUsedEntryRaw = locSettings.mailLastUsed[fieldType]
       if (isStringValue(lastUsedEntryRaw) && lastUsedEntryRaw !== "") {
         const lastUsedEntry = lastUsedEntryRaw
-        AddCustomScrollableMenuEntry(
+        TemperScrollableMenuAddEntry(
           "Last used",
           () => {},
           TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER,
@@ -225,7 +225,7 @@ function onMouseUpAtMailEditBox(
             doNotFilter: true,
           }
         )
-        AddCustomScrollableMenuEntry(lastUsedEntry, () => {
+        TemperScrollableMenuAddEntry(lastUsedEntry, () => {
           setMailValue(fieldType, lastUsedEntry)
         })
         mailLastUsedContextMenusEntriesAtEditFieldsAdded = true
@@ -236,7 +236,7 @@ function onMouseUpAtMailEditBox(
         checkIfTabNeedsToBeTruncated(entries, MAX_LAST_SAVED_ENTRIES)
         locSettings.mailTextsSaved[fieldType] = entries
         if (entries.length > 0) {
-          AddCustomScrollableMenuEntry(
+          TemperScrollableMenuAddEntry(
             `Last ${tostring(MAX_LAST_SAVED_ENTRIES)}`,
             () => {},
             TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER,
@@ -253,7 +253,7 @@ function onMouseUpAtMailEditBox(
               },
             })
           }
-          AddCustomScrollableSubMenuEntry(string.upper(fieldType), lastUsedEntryDataSubmenu)
+          TemperScrollableMenuAddSubMenuEntry(string.upper(fieldType), lastUsedEntryDataSubmenu)
           mailLastUsedContextMenusEntriesAtEditFieldsAdded = true
         }
       }
@@ -274,7 +274,7 @@ function onMouseUpAtMailEditBox(
       } else {
         settingsForLSMContextMenu.submenuOpenToSide = undefined
       }
-      ShowCustomScrollableMenu(controlToAddContextMenuTo, settingsForLSMContextMenu)
+      TemperScrollableMenuShow(controlToAddContextMenuTo, settingsForLSMContextMenu)
     } else {
       editCtrl._type = undefined
       allowedMailContextMenuOwners.delete(editCtrl)

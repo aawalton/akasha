@@ -19,9 +19,9 @@ const entryTypeConstants = asLsmCastRecordStringUnknown(constants.entryTypes)
 
 const libDivider = lib.DIVIDER
 
-const addCustomScrollableMenuEntry = AddCustomScrollableMenuEntry
+const addCustomScrollableMenuEntry = TemperScrollableMenuAddEntry
 
-AddCustomScrollableSubMenuEntry = function (
+TemperScrollableMenuAddSubMenuEntry = function (
   this: void,
   text: unknown,
   entries: unknown,
@@ -40,7 +40,7 @@ AddCustomScrollableSubMenuEntry = function (
   )
 }
 
-AddCustomScrollableMenuDivider = function (
+TemperScrollableMenuAddDivider = function (
   this: void
 ): LuaMultiReturn<[number | undefined, Record<string, unknown> | undefined]> {
   if (libDebug.doDebug) {
@@ -55,7 +55,7 @@ AddCustomScrollableMenuDivider = function (
   )
 }
 
-AddCustomScrollableMenuHeader = function (
+TemperScrollableMenuAddHeader = function (
   this: void,
   text: unknown,
   additionalData?: unknown
@@ -72,7 +72,7 @@ AddCustomScrollableMenuHeader = function (
   )
 }
 
-AddCustomScrollableMenuCheckbox = function (
+TemperScrollableMenuAddCheckbox = function (
   this: void,
   text: unknown,
   callback: unknown,
@@ -95,7 +95,7 @@ AddCustomScrollableMenuCheckbox = function (
   )
 }
 
-AddCustomScrollableMenuRadioButton = function (
+TemperScrollableMenuAddRadioButton = function (
   this: void,
   text: unknown,
   callback: unknown,
@@ -121,7 +121,7 @@ AddCustomScrollableMenuRadioButton = function (
   )
 }
 
-AddCustomScrollableMenuEditBox = function (
+TemperScrollableMenuAddEditBox = function (
   this: void,
   text: unknown,
   callback: unknown,
@@ -144,7 +144,7 @@ AddCustomScrollableMenuEditBox = function (
   )
 }
 
-AddCustomScrollableMenuSlider = function (
+TemperScrollableMenuAddSlider = function (
   this: void,
   text: unknown,
   callback: unknown,

@@ -156,15 +156,15 @@ function addUIButtons(this: void): undefined {
         callback: () => {
           if (checkLSM() === true) {
             TemperScrollableMenuClear()
-            AddCustomScrollableMenuEntry(tostring(localization.parentZone), () => {
+            TemperScrollableMenuAddEntry(tostring(localization.parentZone), () => {
               lib.OpenSetItemCollectionBrowserForCurrentZone(true)
             })
-            AddCustomScrollableMenuEntry(tostring(localization.currentZone), () => {
+            TemperScrollableMenuAddEntry(tostring(localization.currentZone), () => {
               if (!lib.OpenSetItemCollectionBrowserForCurrentZone(false)) {
                 lib.OpenSetItemCollectionBrowserForCurrentZone(true)
               }
             })
-            ShowCustomScrollableMenu(
+            TemperScrollableMenuShow(
               asSearchUiControl(asPresent(lib.itemSetCollectionBookMoreOptionsButton))
             )
           } else {

@@ -31,7 +31,7 @@ export function checkMaxFavoritesAndCreateSubMenus(
   const numFavorites = favEntries.length
 
   if (numFavorites > 0 || !skipAdd) {
-    AddCustomScrollableMenuEntry(
+    TemperScrollableMenuAddEntry(
       favoriteText,
       () => {},
       TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER,
@@ -102,27 +102,27 @@ export function checkMaxFavoritesAndCreateSubMenus(
       }
 
       if (aToE.length > 0) {
-        AddCustomScrollableSubMenuEntry("A - E", aToE)
+        TemperScrollableMenuAddSubMenuEntry("A - E", aToE)
         wasSomethingAdded = true
       }
       if (fToJ.length > 0) {
-        AddCustomScrollableSubMenuEntry("F - J", fToJ)
+        TemperScrollableMenuAddSubMenuEntry("F - J", fToJ)
         wasSomethingAdded = true
       }
       if (kToO.length > 0) {
-        AddCustomScrollableSubMenuEntry("K - O", kToO)
+        TemperScrollableMenuAddSubMenuEntry("K - O", kToO)
         wasSomethingAdded = true
       }
       if (pToT.length > 0) {
-        AddCustomScrollableSubMenuEntry("P - T", pToT)
+        TemperScrollableMenuAddSubMenuEntry("P - T", pToT)
         wasSomethingAdded = true
       }
       if (uToZ.length > 0) {
-        AddCustomScrollableSubMenuEntry("U - Z", uToZ)
+        TemperScrollableMenuAddSubMenuEntry("U - Z", uToZ)
         wasSomethingAdded = true
       }
       if (others.length > 0) {
-        AddCustomScrollableSubMenuEntry("Other", others)
+        TemperScrollableMenuAddSubMenuEntry("Other", others)
         wasSomethingAdded = true
       }
     } else {
@@ -145,7 +145,7 @@ export function checkMaxFavoritesAndCreateSubMenus(
             },
           },
         ]
-        AddCustomScrollableSubMenuEntry(favEntryData, favEntryDataSubmenu, () => {
+        TemperScrollableMenuAddSubMenuEntry(favEntryData, favEntryDataSubmenu, () => {
           setMailValue(fieldType, favEntryData)
         })
         wasSomethingAdded = true
@@ -158,7 +158,7 @@ export function checkMaxFavoritesAndCreateSubMenus(
     if (result.isNotIn === true && result.currentText !== undefined) {
       const shortText = mailTextShortener(result.currentText)
       const currentText = addAsFavoriteString(shortText)
-      AddCustomScrollableMenuEntry(currentText, () => {
+      TemperScrollableMenuAddEntry(currentText, () => {
         addToFavorites(fieldType, undefined)
       })
       wasSomethingAdded = true
@@ -177,7 +177,7 @@ export function checkMaxProfilesAndCreateSubMenus(this: void, noAdd?: boolean): 
   const numProfiles = profileEntries.length
 
   if (numProfiles > 0 && !skipAdd) {
-    AddCustomScrollableMenuEntry(
+    TemperScrollableMenuAddEntry(
       profilesText,
       () => {},
       TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER,
@@ -252,7 +252,7 @@ export function checkMaxProfilesAndCreateSubMenus(this: void, noAdd?: boolean): 
         },
       }
 
-      AddCustomScrollableSubMenuEntry(profileName, profileEntryDataSubmenu, () => {
+      TemperScrollableMenuAddSubMenuEntry(profileName, profileEntryDataSubmenu, () => {
         setMailValue(undefined, profileIndex, undefined, true)
       })
       wasSomethingAdded = true

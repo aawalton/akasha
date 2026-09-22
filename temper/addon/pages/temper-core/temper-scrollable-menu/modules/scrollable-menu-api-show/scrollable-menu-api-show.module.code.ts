@@ -135,7 +135,7 @@ function addCustomScrollableMenuEntriesImpl(
   contextMenuEntries = validateContextMenuSubmenuEntries(
     contextMenuEntries,
     undefined,
-    "AddCustomScrollableMenuEntries"
+    "TemperScrollableMenuAddEntries"
   )
   if (ZO_IsTableEmpty(asObject(contextMenuEntries))) {
     return $multi(false, undefined, undefined)
@@ -150,7 +150,7 @@ function addCustomScrollableMenuEntriesImpl(
         asLsmCastRecordStringUnknown(v.additionalData).label = label
       }
     }
-    const [indexAdded, newAddedEntry] = AddCustomScrollableMenuEntry(
+    const [indexAdded, newAddedEntry] = TemperScrollableMenuAddEntry(
       v.name,
       asLsmEntryCallback(v.callback),
       v.entryType,
@@ -168,10 +168,10 @@ function addCustomScrollableMenuEntriesImpl(
   }
   return $multi(true, indicesAdded, newAddedEntriesData)
 }
-AddCustomScrollableMenuEntries = addCustomScrollableMenuEntriesImpl
-const addCustomScrollableMenuEntries = AddCustomScrollableMenuEntries
+TemperScrollableMenuAddEntries = addCustomScrollableMenuEntriesImpl
+const addCustomScrollableMenuEntries = TemperScrollableMenuAddEntries
 
-AddCustomScrollableMenu = function (
+TemperScrollableMenuAdd = function (
   this: void,
   entries: unknown,
   options?: unknown
@@ -184,7 +184,7 @@ AddCustomScrollableMenu = function (
   entries = validateContextMenuSubmenuEntries(
     entries,
     asLsmCastRecordStringUnknownUndefined(options),
-    "AddCustomScrollableMenu"
+    "TemperScrollableMenuAdd"
   )
 
   if (options !== undefined) {
@@ -231,7 +231,7 @@ function showCustomScrollableMenuImpl(
         sfor(
           "[" +
             MAJOR +
-            "-ShowCustomScrollableMenu]specialCallbackData.addonName: Unique string expected, got %q",
+            "-TemperScrollableMenuShow]specialCallbackData.addonName: Unique string expected, got %q",
           tos(uniqueAddonName)
         )
       )
@@ -243,7 +243,7 @@ function showCustomScrollableMenuImpl(
           sfor(
             "[" +
               MAJOR +
-              "-ShowCustomScrollableMenu]specialCallbackData.onShowCallback: Function expected, got %q",
+              "-TemperScrollableMenuShow]specialCallbackData.onShowCallback: Function expected, got %q",
             tos(funcTypeOnShow)
           )
         )
@@ -257,7 +257,7 @@ function showCustomScrollableMenuImpl(
           sfor(
             "[" +
               MAJOR +
-              "-ShowCustomScrollableMenu]specialCallbackData.onHideCallback: Function expected, got %q",
+              "-TemperScrollableMenuShow]specialCallbackData.onHideCallback: Function expected, got %q",
             tos(funcTypeOnHide)
           )
         )
@@ -269,7 +269,7 @@ function showCustomScrollableMenuImpl(
   gContextMenu.ShowContextMenu(controlToAnchorTo)
   return true
 }
-ShowCustomScrollableMenu = showCustomScrollableMenuImpl
+TemperScrollableMenuShow = showCustomScrollableMenuImpl
 
 _G.TemperScrollableMenuRunItemsCallback = function (
   this: void,

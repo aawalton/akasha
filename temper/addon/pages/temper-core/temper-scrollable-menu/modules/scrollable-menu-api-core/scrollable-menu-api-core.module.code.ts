@@ -111,7 +111,7 @@ function addCustomScrollableComboBoxDropdownMenuImpl(
   if (!(parent !== undefined && comboBoxContainer !== undefined)) {
     error(
       MAJOR +
-        " - AddCustomScrollableComboBoxDropdownMenu ERROR: Parameters parent and comboBoxContainer must be provided!"
+        " - TemperScrollableMenuAddComboBoxDropdown ERROR: Parameters parent and comboBoxContainer must be provided!"
     )
   }
 
@@ -138,9 +138,9 @@ function addCustomScrollableComboBoxDropdownMenuImpl(
 
   return asLsmCastRecordStringUnknown(comboBox).m_dropdownObject
 }
-AddCustomScrollableComboBoxDropdownMenu = addCustomScrollableComboBoxDropdownMenuImpl
+TemperScrollableMenuAddComboBoxDropdown = addCustomScrollableComboBoxDropdownMenuImpl
 
-GetCustomScrollableMenuRowData = asLsmCastThisVoidControlRecordStringUnknownRecordString(
+TemperScrollableMenuGetRowData = asLsmCastThisVoidControlRecordStringUnknownRecordString(
   libUtil.getControlData
 )
 
@@ -195,7 +195,7 @@ function addCustomScrollableMenuEntryImpl(
       sfor(
         "[" +
           MAJOR +
-          ":AddCustomScrollableMenuEntry] text/additionalData.label/additionalData.name: String or function returning a string, got %q; entryType: number LSM_ENTRY_TYPE_* or function returning the entryType expected, got %q",
+          ":TemperScrollableMenuAddEntry] text/additionalData.label/additionalData.name: String or function returning a string, got %q; entryType: number LSM_ENTRY_TYPE_* or function returning the entryType expected, got %q",
         tos(generatedText),
         tos(generatedEntryType)
       )
@@ -208,7 +208,7 @@ function addCustomScrollableMenuEntryImpl(
   ) {
     error(
       sfor(
-        "[" + MAJOR + ":AddCustomScrollableMenuEntry] entryType %q is not allowed",
+        "[" + MAJOR + ":TemperScrollableMenuAddEntry] entryType %q is not allowed",
         tos(generatedEntryType)
       )
     )
@@ -227,7 +227,7 @@ function addCustomScrollableMenuEntryImpl(
         sfor(
           "[" +
             MAJOR +
-            ":AddCustomScrollableMenuEntry] Callback function expected for entryType %q, callback's type: %s, name: %q",
+            ":TemperScrollableMenuAddEntry] Callback function expected for entryType %q, callback's type: %s, name: %q",
           tos(generatedEntryType),
           tos(callbackFuncType),
           tos(generatedText)
@@ -271,4 +271,4 @@ function addCustomScrollableMenuEntryImpl(
 
   return $multi(indexAdded, newEntry)
 }
-AddCustomScrollableMenuEntry = addCustomScrollableMenuEntryImpl
+TemperScrollableMenuAddEntry = addCustomScrollableMenuEntryImpl

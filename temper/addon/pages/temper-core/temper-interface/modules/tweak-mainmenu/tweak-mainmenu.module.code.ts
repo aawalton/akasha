@@ -89,15 +89,15 @@ function showMassHandlingNotificationsContextMenu(this: void): undefined {
   if (notificationsMassHandlingContextMenuButton === undefined) {
     return
   }
-  AddCustomScrollableMenuEntry("Accept all notifications", function (this: void) {
+  TemperScrollableMenuAddEntry("Accept all notifications", function (this: void) {
     markAllNotificationsAsAcceptedOrDeclined(true)
   })
-  AddCustomScrollableMenuDivider()
-  AddCustomScrollableMenuEntry("Decline all notifications", function (this: void) {
+  TemperScrollableMenuAddDivider()
+  TemperScrollableMenuAddEntry("Decline all notifications", function (this: void) {
     markAllNotificationsAsAcceptedOrDeclined(false)
   })
 
-  ShowCustomScrollableMenu(
+  TemperScrollableMenuShow(
     notificationsMassHandlingContextMenuButton,
     LSM_CONTEXT_MENU_MASS_HANDLING_NOTIFICATIONS_DEFAULT_OPTIONS
   )

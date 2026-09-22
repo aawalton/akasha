@@ -119,7 +119,7 @@ function setSkillLineTypeStatus(
   } else {
     contextMenuEntryText = "Mark skill line as 'relevant' again"
   }
-  AddCustomScrollableMenuEntry(contextMenuEntryText, function (this: void): undefined {
+  TemperScrollableMenuAddEntry(contextMenuEntryText, function (this: void): undefined {
     changeSkillLineTypeEntry(ctrl, newStatus, true)
   })
   return undefined
@@ -140,7 +140,7 @@ function addSkillTypeContextMenuEntry(
     TemperScrollableMenuClear(ctrl)
     if (ctrl.enabled !== undefined) {
       setSkillLineTypeStatus(ctrl, ctrl.enabled)
-      ShowCustomScrollableMenu(ctrl)
+      TemperScrollableMenuShow(ctrl)
     }
   }
   return undefined

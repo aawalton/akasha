@@ -1,7 +1,7 @@
 declare const ZO_GAMEPAD_CONTENT_TITLE_DIVIDER_PADDING_Y: number
 
-declare var UpdateCustomScrollableMenuEntryPath: (this: void, ...args: unknown[]) => unknown
-declare var UpdateCustomScrollableMenuEntryIconPath: (this: void, ...args: unknown[]) => unknown
+declare var TemperScrollableMenuUpdateEntryPath: (this: void, ...args: unknown[]) => unknown
+declare var TemperScrollableMenuUpdateEntryIconPath: (this: void, ...args: unknown[]) => unknown
 declare const TemperScrollableMenuRunItemsCallback: (
   this: void,
   comboBox: unknown,

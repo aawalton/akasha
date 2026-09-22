@@ -36,7 +36,7 @@ export function getMailSettingsContextMenu(this: void): undefined {
     return
   }
 
-  AddCustomScrollableMenuEntry(
+  TemperScrollableMenuAddEntry(
     "Settings",
     () => {},
     TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_HEADER,
@@ -69,7 +69,7 @@ export function getMailSettingsContextMenu(this: void): undefined {
       }
     ),
   ]
-  AddCustomScrollableSubMenuEntry("Override fields", overrideSubmenu)
+  TemperScrollableMenuAddSubMenuEntry("Override fields", overrideSubmenu)
 
   const saveSubmenu = [
     checkboxEntry(
@@ -97,7 +97,7 @@ export function getMailSettingsContextMenu(this: void): undefined {
       }
     ),
   ]
-  AddCustomScrollableSubMenuEntry("Save settings", saveSubmenu)
+  TemperScrollableMenuAddSubMenuEntry("Save settings", saveSubmenu)
 
   const autoLoadSubmenu = [
     checkboxEntry(
@@ -122,13 +122,13 @@ export function getMailSettingsContextMenu(this: void): undefined {
       }
     ),
   ]
-  AddCustomScrollableSubMenuEntry("Auto load settings", autoLoadSubmenu)
+  TemperScrollableMenuAddSubMenuEntry("Auto load settings", autoLoadSubmenu)
 
   const autoLoadAtSubmenu = buildAutoLoadAtSubmenu(settings)
-  AddCustomScrollableSubMenuEntry("Auto load as...", autoLoadAtSubmenu)
+  TemperScrollableMenuAddSubMenuEntry("Auto load as...", autoLoadAtSubmenu)
 
   const otherSettingsSubmenu = buildOtherSettingsSubmenu(settings)
-  AddCustomScrollableSubMenuEntry("Other settings", otherSettingsSubmenu)
+  TemperScrollableMenuAddSubMenuEntry("Other settings", otherSettingsSubmenu)
 
   if (MailBuddy !== undefined && MailBuddy_SavedVars !== undefined) {
     const mailBuddySubmenu = [
@@ -145,11 +145,11 @@ export function getMailSettingsContextMenu(this: void): undefined {
         },
       },
     ]
-    AddCustomScrollableMenuDivider()
-    AddCustomScrollableSubMenuEntry("'MailBuddy' data import", mailBuddySubmenu)
+    TemperScrollableMenuAddDivider()
+    TemperScrollableMenuAddSubMenuEntry("'MailBuddy' data import", mailBuddySubmenu)
   }
 
-  ShowCustomScrollableMenu(
+  TemperScrollableMenuShow(
     MAIL_CONTEXT_MENU_BUTTONS.settings,
     LSM_CONTEXT_MENU_SETTINGS_DEFAULT_OPTIONS
   )

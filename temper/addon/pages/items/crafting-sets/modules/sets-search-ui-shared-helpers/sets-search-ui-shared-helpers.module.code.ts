@@ -193,14 +193,14 @@ export function addOtherAddonsContextMenuEntries(
         }
         if (isVisible === true) {
           if (!dividerWasAdded) {
-            AddCustomScrollableMenuDivider()
+            TemperScrollableMenuAddDivider()
             dividerWasAdded = true
           }
           const headerName = customContextMenuEntriesData.headerName
           if (headerName !== undefined) {
-            AddCustomScrollableMenuHeader(headerName)
+            TemperScrollableMenuAddHeader(headerName)
           }
-          AddCustomScrollableSubMenuEntry(submenuName, submenuEntries)
+          TemperScrollableMenuAddSubMenuEntry(submenuName, submenuEntries)
         }
       }
     }

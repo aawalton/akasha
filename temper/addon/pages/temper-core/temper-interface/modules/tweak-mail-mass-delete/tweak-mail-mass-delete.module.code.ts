@@ -142,8 +142,8 @@ export function getMailReceivedMassChangeContextMenu(this: void): undefined {
     return
   }
 
-  AddCustomScrollableMenuHeader("Mass-Change", { doNotFilter: true })
-  AddCustomScrollableMenuEntry(
+  TemperScrollableMenuAddHeader("Mass-Change", { doNotFilter: true })
+  TemperScrollableMenuAddEntry(
     "Delete read player mails, w/o attachments",
     () => {
       deleteEmptyPlayerMails(false)
@@ -152,7 +152,7 @@ export function getMailReceivedMassChangeContextMenu(this: void): undefined {
     undefined,
     { enabled: () => isAnyMailInInbox() }
   )
-  AddCustomScrollableMenuEntry(
+  TemperScrollableMenuAddEntry(
     "Delete |cFF0000un|rread player mails, w/o attachments",
     () => {
       deleteEmptyPlayerMails(true)
@@ -162,7 +162,7 @@ export function getMailReceivedMassChangeContextMenu(this: void): undefined {
     { enabled: () => isAnyMailInInbox() }
   )
 
-  ShowCustomScrollableMenu(
+  TemperScrollableMenuShow(
     MAIL_CONTEXT_MENU_BUTTONS["Inbox_MassChange"],
     LSM_CONTEXT_MENU_SETTINGS_DEFAULT_OPTIONS
   )

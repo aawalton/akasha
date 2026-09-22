@@ -84,8 +84,8 @@ sharedClass.ShowRowContextMenu = function (
 
   TemperScrollableMenuClear()
 
-  AddCustomScrollableMenuHeader(setNameWithSetId)
-  AddCustomScrollableMenuEntry(
+  TemperScrollableMenuAddHeader(setNameWithSetId)
+  TemperScrollableMenuAddEntry(
     setTypeTexture !== undefined && setTypeTexture !== "" && setTypeName !== undefined
       ? setTypeTexture + setTypeName
       : (setTypeName ?? ""),
@@ -95,11 +95,11 @@ sharedClass.ShowRowContextMenu = function (
     { enabled: false }
   )
 
-  AddCustomScrollableMenuEntry(getLocalizedText("linkToChat"), () => {
+  TemperScrollableMenuAddEntry(getLocalizedText("linkToChat"), () => {
     this.ItemLinkToChat(data)
   })
 
-  AddCustomScrollableMenuHeader(getLocalizedText("tooltips"))
+  TemperScrollableMenuAddHeader(getLocalizedText("tooltips"))
 
   const popupTooltipSubmenu: LSMSubmenuEntry[] = [
     {
@@ -146,10 +146,10 @@ sharedClass.ShowRowContextMenu = function (
       },
     },
   ]
-  AddCustomScrollableMenuEntry(getLocalizedText("popupTooltip"), () => {
+  TemperScrollableMenuAddEntry(getLocalizedText("popupTooltip"), () => {
     this.ShowItemLinkPopupTooltip(owningWindow, data)
   })
-  AddCustomScrollableSubMenuEntry(getLocalizedText("popupTooltipPosition"), popupTooltipSubmenu)
+  TemperScrollableMenuAddSubMenuEntry(getLocalizedText("popupTooltipPosition"), popupTooltipSubmenu)
 
   if (setId !== undefined) {
     let wasFavoriteHeaderAdded = false
@@ -158,20 +158,20 @@ sharedClass.ShowRowContextMenu = function (
     for (const [, favoriteCategoryData] of ipairs(possibleSetSearchFavoriteCategories)) {
       const favoriteCategory = favoriteCategoryData.category
       if (!wasFavoriteHeaderAdded) {
-        AddCustomScrollableMenuHeader(asPresent(favoriteIconWithNameTexts[favoriteCategory]))
+        TemperScrollableMenuAddHeader(asPresent(favoriteIconWithNameTexts[favoriteCategory]))
         wasFavoriteHeaderAdded = true
       }
       if (this.IsSetIdInFavorites(setId, favoriteCategory)) {
         if (!removeAllFavoritesAdded) {
           removeAllFavoritesAdded = true
-          AddCustomScrollableMenuEntry(
+          TemperScrollableMenuAddEntry(
             `${GetString(SI_COLLECTIBLE_ACTION_REMOVE_FAVORITE)} - ${GetString(SI_HOUSINGFURNITUREBOUNDFILTER0)}`,
             () => {
               this.RemoveSetIdFromAllFavorites(rowControl, setId)
             }
           )
         }
-        AddCustomScrollableMenuEntry(
+        TemperScrollableMenuAddEntry(
           `${asPresent(favoriteIconTexts[favoriteCategory])} ${GetString(SI_COLLECTIBLE_ACTION_REMOVE_FAVORITE)} '${zo_strformat("<<C:1>>", favoriteCategory)}'`,
           () => {
             this.RemoveSetIdFromFavorites(rowControl, setId, favoriteCategory)
@@ -190,7 +190,7 @@ sharedClass.ShowRowContextMenu = function (
       }
     }
     if (!zoite(favoriteCategoriesToAddSubmenuEntries)) {
-      AddCustomScrollableSubMenuEntry(
+      TemperScrollableMenuAddSubMenuEntry(
         GetString(SI_COLLECTIBLE_ACTION_ADD_FAVORITE),
         favoriteCategoriesToAddSubmenuEntries
       )
@@ -245,12 +245,12 @@ sharedClass.ShowRowContextMenu = function (
     const gotDropZones = !zoite(zoneIdSubmenuEntries)
     const gotWayshrines = !zoite(wayshrinesSubmenuEntries)
     if (gotDropZones || gotWayshrines) {
-      AddCustomScrollableMenuHeader(dropZoneAndWayshrinesStr)
+      TemperScrollableMenuAddHeader(dropZoneAndWayshrinesStr)
       if (gotDropZones) {
-        AddCustomScrollableSubMenuEntry(dropZonesStr, zoneIdSubmenuEntries)
+        TemperScrollableMenuAddSubMenuEntry(dropZonesStr, zoneIdSubmenuEntries)
       }
       if (gotWayshrines) {
-        AddCustomScrollableSubMenuEntry(wayshrinesStr, wayshrinesSubmenuEntries)
+        TemperScrollableMenuAddSubMenuEntry(wayshrinesStr, wayshrinesSubmenuEntries)
       }
     }
 
@@ -271,11 +271,11 @@ sharedClass.ShowRowContextMenu = function (
         )
       }
 
-      AddCustomScrollableMenuHeader(getLocalizedText("setInfos"))
-      AddCustomScrollableMenuEntry(getLocalizedText("showAsText"), () => {
+      TemperScrollableMenuAddHeader(getLocalizedText("setInfos"))
+      TemperScrollableMenuAddEntry(getLocalizedText("showAsText"), () => {
         getSetTextForCopyDialog(false)
       })
-      AddCustomScrollableMenuEntry(getLocalizedText("showAsTextWithIcons"), () => {
+      TemperScrollableMenuAddEntry(getLocalizedText("showAsTextWithIcons"), () => {
         getSetTextForCopyDialog(true)
       })
     }
@@ -285,9 +285,9 @@ sharedClass.ShowRowContextMenu = function (
       const isCraftedSet = setType === SETS_SETTYPE_CRAFTED
 
       if (!isCraftedSet) {
-        AddCustomScrollableMenuHeader(getLocalizedText("headerItemLinks"))
+        TemperScrollableMenuAddHeader(getLocalizedText("headerItemLinks"))
 
-        AddCustomScrollableMenuEntry(searchEntryTextWithTexture, () => {
+        TemperScrollableMenuAddEntry(searchEntryTextWithTexture, () => {
           if (data.itemLink !== undefined) {
             sets_OpenSetItemCollectionBookForItemLink(data.itemLink)
           }
@@ -297,5 +297,5 @@ sharedClass.ShowRowContextMenu = function (
 
     addOtherAddonsContextMenuEntries(rowControl, setId)
   }
-  ShowCustomScrollableMenu(rowControl, { visibleRowsDropdown: 18 })
+  TemperScrollableMenuShow(rowControl, { visibleRowsDropdown: 18 })
 }

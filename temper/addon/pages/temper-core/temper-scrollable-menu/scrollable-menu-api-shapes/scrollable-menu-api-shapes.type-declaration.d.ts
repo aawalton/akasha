@@ -62,18 +62,18 @@ interface ButtonGroupOfEntryTypeLike {
   ) => unknown
   [key: string]: unknown
 }
-declare var GetCustomScrollableMenuRowData: (
+declare var TemperScrollableMenuGetRowData: (
   this: void,
   control: Record<string, unknown>
 ) => Record<string, unknown>
-declare var AddCustomScrollableMenuEditBox: (
+declare var TemperScrollableMenuAddEditBox: (
   this: void,
   text: unknown,
   callback: unknown,
   editBoxData?: unknown,
   additionalData?: unknown
 ) => LuaMultiReturn<[number | undefined, Record<string, unknown> | undefined]>
-declare var AddCustomScrollableMenuSlider: (
+declare var TemperScrollableMenuAddSlider: (
   this: void,
   text: unknown,
   callback: unknown,
@@ -85,23 +85,23 @@ declare var TemperScrollableMenuSetOptions: (
   options: unknown,
   comboBoxContainer?: unknown
 ) => undefined
-declare var AddCustomScrollableMenuEntries: (
+declare var TemperScrollableMenuAddEntries: (
   this: void,
   contextMenuEntries: unknown
 ) => LuaMultiReturn<[boolean, unknown, unknown]>
-declare var AddCustomScrollableMenu: (
+declare var TemperScrollableMenuAdd: (
   this: void,
   entries: unknown,
   options?: unknown
 ) => LuaMultiReturn<[boolean, unknown, unknown]>
-declare var RefreshCustomScrollableMenu: (
+declare var TemperScrollableMenuRefresh: (
   this: void,
   mocCtrl?: unknown,
   updateMode?: unknown,
   comboBox?: unknown
 ) => undefined
-declare var IsCustomScrollableMenuShown: (this: void) => boolean
-declare var PreventCustomScrollableContextMenuEntryClickHide: (
+declare var TemperScrollableMenuIsShown: (this: void) => boolean
+declare var TemperScrollableMenuPreventEntryClickHide: (
   this: void,
   clickCount?: unknown
 ) => undefined

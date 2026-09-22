@@ -301,7 +301,7 @@ function onEntryCallbackUpdateEntryPath(
   }
   return doRefresh
 }
-UpdateCustomScrollableMenuEntryPath = asLsmCastThisVoidArgsUnknownUnknown(
+TemperScrollableMenuUpdateEntryPath = asLsmCastThisVoidArgsUnknownUnknown(
   onEntryCallbackUpdateEntryPath
 )
 
@@ -316,7 +316,7 @@ function onEntryCallbackUpdateIconsPath(
   }
   return onEntryCallbackUpdateEntryPath(comboBox, control, data, multiIconCheckFunc)
 }
-UpdateCustomScrollableMenuEntryIconPath = asLsmCastThisVoidArgsUnknownUnknown(
+TemperScrollableMenuUpdateEntryIconPath = asLsmCastThisVoidArgsUnknownUnknown(
   onEntryCallbackUpdateIconsPath
 )
 

@@ -39,7 +39,7 @@ export function showDropdownContextMenu(
     const notAllSelected = numSelectedEntries < numEntries
 
     if (notAllSelected) {
-      AddCustomScrollableMenuEntry(GetString(SI_ITEMFILTERTYPE0), () => {
+      TemperScrollableMenuAddEntry(GetString(SI_ITEMFILTERTYPE0), () => {
         this.SelectAllAtMultiSelectDropdown(dropdownControl)
         this.OnFilterChanged(dropdownControl)
       })
@@ -47,24 +47,24 @@ export function showDropdownContextMenu(
 
     if (numSelectedEntries > 0) {
       if (notAllSelected) {
-        AddCustomScrollableMenuEntry(invertSelectionStr, () => {
+        TemperScrollableMenuAddEntry(invertSelectionStr, () => {
           this.SelectInvertMultiSelectDropdown(dropdownControl)
           this.OnFilterChanged(dropdownControl)
         })
       }
 
-      AddCustomScrollableMenuEntry(GetString(SI_ATTRIBUTEPOINTALLOCATIONMODE_CLEARKEYBIND1), () => {
+      TemperScrollableMenuAddEntry(GetString(SI_ATTRIBUTEPOINTALLOCATIONMODE_CLEARKEYBIND1), () => {
         this.ResetMultiSelectDropdown(dropdownControl)
         this.OnFilterChanged(dropdownControl)
       })
     }
 
     if (dropdownControl === this.favoritesFiltersControl) {
-      AddCustomScrollableMenuDivider()
+      TemperScrollableMenuAddDivider()
       for (const [, favoriteCategoryData] of ipairs(lib.possibleSetSearchFavoriteCategories)) {
         const favoriteCategory = favoriteCategoryData.category
         const entriesToSelect = [favoriteCategory]
-        AddCustomScrollableMenuEntry(
+        TemperScrollableMenuAddEntry(
           `${asPresent(favoriteIconWithNameTexts[favoriteCategory])} '${zo_strformat("<<C:1>>", favoriteCategory)}'`,
           () => {
             this.SelectMultiSelectDropdownEntries(dropdownControl, entriesToSelect, true)
@@ -72,20 +72,20 @@ export function showDropdownContextMenu(
         )
       }
     } else if (dropdownControl === this.dropZoneFiltersControl) {
-      AddCustomScrollableMenuDivider()
+      TemperScrollableMenuAddDivider()
       const [setIdsOfCurrentZone, currentZoneId, currentParentZoneId] = lib.GetSetIdsOfCurrentZone()
       if (!ZO_IsTableEmpty(asAnyObjectOpt(setIdsOfCurrentZone) ?? {})) {
         const [currentZoneName, currentParentZoneName] = lib.GetCurrentZoneName()
         const currentZoneSetStr = `${lib.GetLocalizedText("showCurrentZoneSets")} '${currentZoneName}' (${tostring(currentZoneId)})`
 
         const entriesToSelect = [currentZoneId]
-        AddCustomScrollableMenuEntry(currentZoneSetStr, () => {
+        TemperScrollableMenuAddEntry(currentZoneSetStr, () => {
           this.SelectMultiSelectDropdownEntries(dropdownControl, entriesToSelect, true)
         })
         if (currentParentZoneId !== undefined && currentParentZoneId !== currentZoneId) {
           const currentParentZoneSetStr = `${lib.GetLocalizedText("showCurrentZoneSets")} '${currentParentZoneName}' (${tostring(currentParentZoneId)})`
           const entriesForParentZoneToSelect = [currentParentZoneId]
-          AddCustomScrollableMenuEntry(currentParentZoneSetStr, () => {
+          TemperScrollableMenuAddEntry(currentParentZoneSetStr, () => {
             this.SelectMultiSelectDropdownEntries(
               dropdownControl,
               entriesForParentZoneToSelect,
@@ -96,6 +96,6 @@ export function showDropdownContextMenu(
       }
     }
 
-    ShowCustomScrollableMenu(dropdownControl)
+    TemperScrollableMenuShow(dropdownControl)
   }
 }

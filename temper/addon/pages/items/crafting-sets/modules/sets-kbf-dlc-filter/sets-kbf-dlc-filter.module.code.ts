@@ -81,7 +81,7 @@ export function buildDlcFilter(this: void, ctx: FilterBuildContext): undefined {
     LSM_comboBoxOptionsDLCID.enableSort = true
     const dlcParamName = dropdownToParamName.get(self.DCLIdFiltersControl)
     if (dlcParamName !== undefined) {
-      lsmDropdowns[dlcParamName] = AddCustomScrollableComboBoxDropdownMenu(
+      lsmDropdowns[dlcParamName] = TemperScrollableMenuAddComboBoxDropdown(
         filters,
         self.DCLIdFiltersControl,
         LSM_comboBoxOptionsDLCID
