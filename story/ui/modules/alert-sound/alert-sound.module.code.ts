@@ -1,5 +1,4 @@
 import type { AlertSound } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 interface Note {
   readonly freq: number
