@@ -6,6 +6,7 @@ export const liar = {
   slug: "liar",
   title: "Liar",
   world: "world/the-wandering-inn",
+  appearanceCount: 17,
   aliases: ["liars"],
   evolvesToSlugs: ["amazing-liar"],
   references: "jsonl",

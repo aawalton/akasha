@@ -6,5 +6,6 @@ export const level22SurvivorOfFates = {
   slug: "level-22-survivor-of-fates",
   title: "Level 22 Survivor of Fates!",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

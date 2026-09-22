@@ -6,6 +6,7 @@ export const mage = {
   slug: "mage",
   title: "Mage",
   world: "world/the-wandering-inn",
+  appearanceCount: 565,
   aliases: ["mages"],
   evolvesToSlugs: ["druid"],
   references: "jsonl",

@@ -6,5 +6,6 @@ export const loanShark = {
   slug: "loan-shark",
   title: "Loan Shark",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

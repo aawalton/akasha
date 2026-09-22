@@ -6,6 +6,7 @@ export const knightErrant = {
   slug: "knight-errant",
   title: "Knight-Errant",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   aliases: ["Knight Errant", "knight-errants"],
   evolvesToSlugs: ["aura-knight"],
   references: "jsonl",

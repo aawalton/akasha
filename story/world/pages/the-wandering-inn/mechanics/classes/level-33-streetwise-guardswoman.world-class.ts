@@ -6,5 +6,6 @@ export const level33StreetwiseGuardswoman = {
   slug: "level-33-streetwise-guardswoman",
   title: "Level 33 Streetwise Guardswoman!",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

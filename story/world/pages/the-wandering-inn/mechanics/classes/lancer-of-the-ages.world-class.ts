@@ -6,6 +6,7 @@ export const lancerOfTheAges = {
   slug: "lancer-of-the-ages",
   title: "Lancer of the Ages",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   evolvesFromSlugs: ["peerless-lance"],
   references: "jsonl",
 } as const satisfies WorldClass

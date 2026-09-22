@@ -6,5 +6,6 @@ export const leadActors = {
   slug: "lead-actors",
   title: "Lead Actors",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldClass
