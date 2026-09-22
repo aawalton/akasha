@@ -3690,6 +3690,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-messages/addon-menu-messages.module.ts","id":"01a06100-0000-7000-8000-000000000005"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-panel-options/addon-menu-panel-options.module.ts","id":"01a06100-0000-7000-8000-000000000006"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-public-api/addon-menu-public-api.module.ts","id":"01a06100-0000-7000-8000-000000000007"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-settings-layout/addon-menu-settings-layout.module.ts","id":"01a0c7a8-8981-779c-b510-3ae18d081e34"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.ts","id":"01a06100-0000-7000-8000-000000000008"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-state/addon-menu-state.module.ts","id":"01a06100-0000-7000-8000-000000000009"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-types/addon-menu-types.module.ts","id":"01a06100-0000-7000-8000-000000000010"}

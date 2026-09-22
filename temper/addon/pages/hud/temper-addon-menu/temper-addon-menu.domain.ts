@@ -14,6 +14,7 @@ export const temperAddonMenu = {
     "module/addon-menu-messages",
     "module/addon-menu-panel-options",
     "module/addon-menu-public-api",
+    "module/addon-menu-settings-layout",
     "module/addon-menu-settings-window",
     "module/addon-menu-state",
     "module/addon-menu-types",

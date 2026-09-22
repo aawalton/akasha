@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-casts/addon-menu-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-dialogs/addon-menu-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-public-api/addon-menu-public-api.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-settings-layout/addon-menu-settings-layout.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-eso-window.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"}

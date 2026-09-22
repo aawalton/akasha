@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"addon-menu-state.module.code.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-dialogs/addon-menu-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-state.module.code.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-panel-options/addon-menu-panel-options.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-state.module.code.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-public-api/addon-menu-public-api.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-menu-state.module.code.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-settings-layout/addon-menu-settings-layout.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-state.module.code.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-state.module.code.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-state.module.code.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-widget-button/addon-menu-widget-button.module.code.ts"}

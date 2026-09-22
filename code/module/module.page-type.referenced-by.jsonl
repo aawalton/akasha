@@ -3012,6 +3012,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-messages/addon-menu-messages.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-panel-options/addon-menu-panel-options.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-public-api/addon-menu-public-api.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-settings-layout/addon-menu-settings-layout.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-state/addon-menu-state.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/hud/temper-addon-menu/modules/addon-menu-types/addon-menu-types.module.ts"}
