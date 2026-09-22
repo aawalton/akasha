@@ -2082,6 +2082,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/beside-turning/beside-turning.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/building/index-building.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/carrying/index-carrying.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/commit-surface/commit-surface.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/entries/index-entries.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/extension-carrying/extension-carrying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/file-appending/file-appending.module.ts"}

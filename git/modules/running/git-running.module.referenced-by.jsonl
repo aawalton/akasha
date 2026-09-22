@@ -58,6 +58,7 @@
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.test.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"infrastructure/service/modules/deploy-wanting/deploy-wanting.module.code.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"}
+{"propertySlug":"import","fileName":"git-running.module.code.ts","path":"page/index/modules/commit-surface/commit-surface.module.test.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"page/index/modules/reading/index-reading.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"page/index/modules/tree-reading/tree-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"page/index/modules/tree-reading/tree-reading.module.test.ts"}

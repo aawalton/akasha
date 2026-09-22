@@ -1574,6 +1574,7 @@
 {"propertySlug":"decision-kind","path":"page/index/modules/beside-turning/beside-turning.module.ts","id":"01a079a7-c9d9-7936-a9d3-e002d3f8e708"}
 {"propertySlug":"decision-kind","path":"page/index/modules/building/index-building.module.ts","id":"01a0a120-e0b6-7e06-a347-7282763bf802"}
 {"propertySlug":"decision-kind","path":"page/index/modules/carrying/index-carrying.module.ts","id":"01a09b7d-f088-7d22-88c5-53f5c0901921"}
+{"propertySlug":"decision-kind","path":"page/index/modules/commit-surface/commit-surface.module.ts","id":"01a0cab0-a954-7000-805e-8ab8a807b335"}
 {"propertySlug":"decision-kind","path":"page/index/modules/extension-carrying/extension-carrying.module.ts","id":"01a09147-a806-78c9-8f27-bf82ebbd41f2"}
 {"propertySlug":"decision-kind","path":"page/index/modules/file-appending/file-appending.module.ts","id":"01a09279-a78b-7751-be07-d9dfc607cbc3"}
 {"propertySlug":"decision-kind","path":"page/index/modules/generated-properties/generated-properties.module.ts","id":"01a04f2b-3d23-790e-b2f2-a9b1e6846e6f"}

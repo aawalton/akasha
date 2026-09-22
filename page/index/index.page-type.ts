@@ -46,6 +46,7 @@ export const index = {
     "test-fixture/fixture-world",
     "text-property/index-name",
     "module/generator-turning",
+    "module/commit-surface",
   ],
   extends: ["page-type/module"],
   properties: [
