@@ -25,5 +25,13 @@ export const addonMenuWidgetPanel = {
       decisionKind: "decision-kind/departure",
       statement: "Forcing defaults walks the registered controls and then fires a refresh.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel's control is named with this menu and the id the declaring addon gave.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An id a foreign addon gives names no global of its own.",
+    },
   ],
 } as const satisfies Module

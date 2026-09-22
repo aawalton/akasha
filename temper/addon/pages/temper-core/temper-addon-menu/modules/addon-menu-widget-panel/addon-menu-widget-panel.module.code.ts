@@ -33,6 +33,8 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
+const PANEL_NAME_PREFIX = "TemperAddonMenuPanel_"
+
 const SEPARATOR = " - "
 const COLORED_SEPARATOR = ZO_WHITE.Colorize(SEPARATOR)
 const LINK_COLOR = ZO_ColorDef.New("5959D5")
@@ -126,7 +128,8 @@ function createPanel(
   panelData: PanelData,
   controlName?: string
 ): LamControl {
-  const control = asLamControl(wm.CreateControl(controlName, parent, CT_CONTROL))
+  const named = controlName === undefined ? undefined : `${PANEL_NAME_PREFIX}${controlName}`
+  const control = asLamControl(wm.CreateControl(named, parent, CT_CONTROL))
 
   const label = wm.CreateControlFromVirtual<LabelControl>(
     undefined,
