@@ -1,12 +1,12 @@
 import { gpuVramUsableMinSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { upscaleClusterImage } from "akasha/infrastructure/inference/generation/upscale/cluster-image/upscale-cluster-image.container-recipe.ts"
+import { JOB_NAMESPACE } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
+import { ORIGIN_ENV } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
-export const UPSCALE_SERVING_NAMESPACE = "seaweedfs"
+export const UPSCALE_SERVING_NAMESPACE = JOB_NAMESPACE
 
-export const UPSCALE_SERVING_BUCKET = "upscale"
-
-const S3_ENDPOINT = "http://s3-gateway.seaweedfs.svc.cluster.local:8333"
+const PAGES_ORIGIN = "http://page-forwarder.page-forwarder.svc.cluster.local:8787"
 
 const GPU_VRAM_TIER = "8gi" as const
 
@@ -30,37 +30,24 @@ interface EnvVar {
 
 export interface UpscaleServingJobParams {
   readonly jobName: string
-  readonly inName: string
-  readonly outName: string
+  readonly inSlug: string
   readonly resolution: number
   readonly seed: number
-  readonly bucket?: string
   readonly image?: string
   readonly blocksToSwap?: number
 }
 
 export function buildUpscaleServingJob(params: UpscaleServingJobParams) {
-  const bucket = params.bucket ?? UPSCALE_SERVING_BUCKET
   const image = params.image ?? refOf(upscaleClusterImage)
   const blocksToSwap = params.blocksToSwap ?? DEFAULT_BLOCKS_TO_SWAP
 
   const env: readonly EnvVar[] = [
     { name: "HOME", value: "/tmp" },
-    { name: "SEAWEEDFS_S3_ENDPOINT", value: S3_ENDPOINT },
-    {
-      name: "SEAWEEDFS_ACCESS_KEY",
-      valueFrom: { secretKeyRef: { name: "seaweedfs-creds", key: "access_key" } },
-    },
-    {
-      name: "SEAWEEDFS_SECRET_KEY",
-      valueFrom: { secretKeyRef: { name: "seaweedfs-creds", key: "secret_key" } },
-    },
-    { name: "S3_BUCKET", value: bucket },
+    { name: ORIGIN_ENV, value: PAGES_ORIGIN },
     { name: "UPSCALE_BLOCKS_TO_SWAP", value: String(blocksToSwap) },
     { name: "UPSCALE_RES", value: String(params.resolution) },
     { name: "UPSCALE_SEED", value: String(params.seed) },
-    { name: "UPSCALE_IN", value: params.inName },
-    { name: "UPSCALE_OUT", value: params.outName },
+    { name: "UPSCALE_IN_SLUG", value: params.inSlug },
   ]
 
   return {

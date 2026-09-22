@@ -1448,6 +1448,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/modules/comfy-up-body/comfy-up-body.module.ts","id":"01a09137-9598-7e34-814d-cf5126c347b6"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/modules/comfy-up-building/comfy-up-building.module.ts","id":"01a0912a-249b-72ea-9e95-a346ca6e5c10"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/modules/comfy-up-guarding/comfy-up-guarding.module.ts","id":"01a0912f-d5ac-748b-919b-23e778a9482c"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/generation/upscale/modules/cluster/upscale-cluster.module.ts","id":"01a0685d-4b35-7018-b4c3-09ff288b2bf1"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/pool/modules/inference-schema/inference-schema.module.ts","id":"01a0685d-4b35-7000-a89c-fa9904f3e21d"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/inference-run.page-type.ts","id":"019ea7d8-5e16-7237-b2e0-4ce47633aa58"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/persist-audio/persist-audio.module.ts","id":"01a0685d-4b35-7012-8f89-7a4a724dd167"}

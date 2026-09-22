@@ -26,8 +26,15 @@ export const upscaleServingJob = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The image comes in and goes out through the object store rather than through the job's arguments.",
+      statement: "The job is told the slug of the image page it reads rather than any bytes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The job lands what it made as an image page of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The job reaches the pages over the forwarder the cluster already runs.",
     },
   ],
 } as const satisfies Module

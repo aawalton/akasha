@@ -25,6 +25,11 @@ import {
   resolveOutputPath,
 } from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
 import { wroteTo } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
+import {
+  bytesOfImage,
+  imageDeps,
+  landImage,
+} from "akasha/infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"
 import { runClusterUpscale } from "akasha/infrastructure/inference/generation/upscale/modules/cluster/upscale-cluster.module.code.ts"
 import { runWorkstationUpscale } from "akasha/infrastructure/inference/generation/upscale/modules/workstation/upscale-workstation.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
@@ -52,6 +57,8 @@ const MODEL = "seedvr2_ema_7b_fp8_e4m3fn_mixed_block35_fp16"
 const DEFAULT_SEED = 12345
 
 const UPSCALE_HOME = "UPSCALE_HOME"
+
+const WRITER = "inference-cli <inference-cli@alanwalton.com>"
 
 function upscaleHomeOf(said: string | undefined): string {
   const raw = said ?? join(homedir(), ".local", "share", "upscale")
@@ -117,24 +124,27 @@ export async function inferenceUpscale(argv: readonly string[], given: Given): P
     await recordInferenceRun(
       record,
       async () => {
-        const outputBytes =
-          where === CLUSTER
-            ? await runClusterUpscale({
-                inputBytes,
-                inName,
-                outName,
-                resolution,
-                seed,
-                jobName: `upscale-serving-${stamp}`,
-              })
-            : await runWorkstationUpscale({
-                inputBytes,
-                inName,
-                outName,
-                resolution,
-                seed,
-                upscaleHome: upscaleHomeOf(optionalEnv(UPSCALE_HOME)),
-              })
+        let outputBytes: Uint8Array
+        if (where === CLUSTER) {
+          const came = await landImage(imageDeps(WRITER), inputBytes, {}, done)
+          const made = await runClusterUpscale({
+            inSlug: came.slug,
+            resolution,
+            seed,
+            jobName: `upscale-serving-${stamp}`,
+          })
+          done.push(`the job landed the image page ${made}`)
+          outputBytes = await bytesOfImage(made)
+        } else {
+          outputBytes = await runWorkstationUpscale({
+            inputBytes,
+            inName,
+            outName,
+            resolution,
+            seed,
+            upscaleHome: upscaleHomeOf(optionalEnv(UPSCALE_HOME)),
+          })
+        }
         await ensureOutputDir(outputPath)
         await writeFile(outputPath, outputBytes)
         done.push(wroteTo(outputPath, outputBytes, "image"))

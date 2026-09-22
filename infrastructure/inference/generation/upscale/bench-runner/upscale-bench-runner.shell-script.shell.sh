@@ -11,21 +11,22 @@ VAE_MODEL="ema_vae_fp16.safetensors"
 BLOCKS_TO_SWAP="${UPSCALE_BLOCKS_TO_SWAP:-24}"
 RESOLUTION="${UPSCALE_RES:-1460}"
 SEED="${UPSCALE_SEED:-12345}"
-IN_NAME="${UPSCALE_IN:-closeup-a.png}"
-OUT_NAME="${UPSCALE_OUT:-closeup-3080ti-cu121.png}"
-S3_BUCKET="${S3_BUCKET:-upscale-14565}"
+IN_SLUG="${UPSCALE_IN_SLUG:?names the image page this job reads}"
+IN_NAME="in.png"
+OUT_NAME="out.png"
 
-python - "$S3_BUCKET" "$IN_NAME" "$IN_DIR" <<'PY' || { echo "FATAL: S3 input pull failed"; exit 1; }
-import os, sys, boto3
-from botocore.config import Config
-bucket, in_name, in_dir = sys.argv[1], sys.argv[2], sys.argv[3]
-s3 = boto3.client("s3", endpoint_url=os.environ["SEAWEEDFS_S3_ENDPOINT"],
-    aws_access_key_id=os.environ["SEAWEEDFS_ACCESS_KEY"],
-    aws_secret_access_key=os.environ["SEAWEEDFS_SECRET_KEY"],
-    config=Config(signature_version="s3v4", s3={"addressing_style":"path"}))
-dst = os.path.join(in_dir, in_name)
-s3.download_file(bucket, f"inputs/{in_name}", dst)
-print(f"[s3] pulled inputs/{in_name} -> {dst} ({os.path.getsize(dst)} B)", flush=True)
+python - "$IN_SLUG" "$IN_DIR/$IN_NAME" <<'PY' || { echo "FATAL: page input pull failed"; exit 1; }
+import os, sys, json, urllib.request
+slug, dst = sys.argv[1], sys.argv[2]
+origin = os.environ["PAGES_SERVICE_ORIGIN"].rstrip("/")
+asked = json.dumps({"pageTypeSlug": "image", "slug": slug, "key": "bytes"}).encode()
+kind = "application" + "/" + "json"
+req = urllib.request.Request(origin + "/file", data=asked, headers={"content-type": kind})
+with urllib.request.urlopen(req, timeout=120) as answered:
+    held = answered.read()
+with open(dst, "wb") as out:
+    out.write(held)
+print(f"[pages] pulled {slug} -> {dst} ({len(held)} B)", flush=True)
 PY
 
 export HF_HUB_DISABLE_XET=1
@@ -95,18 +96,38 @@ fi
 OUT_SIZE=$(stat -c%s "$OUT_HOST")
 echo "VERDICT: OK — $OUT_HOST ($OUT_SIZE B) in ${ELAPSED}s, peak ${PEAK} MiB"
 
-python - "$S3_BUCKET" "$OUT_HOST" "$OUT_NAME" "$ELAPSED" "$PEAK" "$BLOCKS_TO_SWAP" "$OUT_SIZE" <<'PY'
-import os, sys, json, boto3
-from botocore.config import Config
-bucket, out_host, out_name, elapsed, peak, bts, size = sys.argv[1:8]
-s3 = boto3.client("s3", endpoint_url=os.environ["SEAWEEDFS_S3_ENDPOINT"],
-    aws_access_key_id=os.environ["SEAWEEDFS_ACCESS_KEY"],
-    aws_secret_access_key=os.environ["SEAWEEDFS_SECRET_KEY"],
-    config=Config(signature_version="s3v4", s3={"addressing_style":"path"}))
-s3.upload_file(out_host, bucket, f"outputs/{out_name}")
-result = {"wall_seconds": float(elapsed), "peak_vram_mib": int(peak),
-          "blocks_to_swap": int(bts), "out_bytes": int(size), "out_name": out_name}
-s3.put_object(Bucket=bucket, Key=f"results/{out_name}.json", Body=json.dumps(result).encode())
-print(f"[s3] pushed outputs/{out_name} + results/{out_name}.json", flush=True)
+python - "$OUT_HOST" <<'PY' || { echo "FATAL: page output landing failed"; exit 1; }
+import os, sys, json, base64, hashlib, urllib.request
+out_host = sys.argv[1]
+origin = os.environ["PAGES_SERVICE_ORIGIN"].rstrip("/")
+with open(out_host, "rb") as held:
+    made = held.read()
+slug = "image-" + hashlib.sha256(made).hexdigest()[:16]
+kind = "application" + "/" + "json"
+
+def posted(at, body):
+    req = urllib.request.Request(
+        origin + at, data=json.dumps(body).encode(), headers={"content-type": kind}
+    )
+    with urllib.request.urlopen(req, timeout=180) as answered:
+        said = json.loads(answered.read())
+    if isinstance(said, dict) and isinstance(said.get("refused"), str):
+        raise SystemExit(f"the pages refused {at}: {said['refused']}")
+    return said
+
+posted("/write", {
+    "writer": "upscale-job <upscale-job@alanwalton.com>",
+    "message": f"land the image {slug}",
+    "pages": [{"pageTypeSlug": "image", "slug": slug, "values": {}}],
+})
+posted("/place", {
+    "pageTypeSlug": "image",
+    "slug": slug,
+    "key": "bytes",
+    "ending": "png",
+    "bytes": base64.b64encode(made).decode(),
+})
+print(f"[pages] landed {slug} ({len(made)} B)", flush=True)
+print(f"UPSCALE_OUT_SLUG={slug}", flush=True)
 PY
 echo "DONE"

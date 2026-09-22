@@ -36,6 +36,18 @@ export const inferenceUpscale = {
       decisionKind: "decision-kind/departure",
       statement: "The image is written where the caller named that image and nowhere else.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The image read in is landed as an image page before the cluster is asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The cluster is handed that page's slug rather than the bytes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What the cluster made is read back off the image page the cluster landed.",
+    },
 
     {
       decisionKind: "decision-kind/absence",

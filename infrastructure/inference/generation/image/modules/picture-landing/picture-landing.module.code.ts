@@ -2,6 +2,7 @@ import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-c
 import { bytesSlug } from "akasha/code/body/modules/bytes-slug/bytes-slug.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
+  filingFor,
   placingFor,
   readingFor,
   writingFor,
@@ -73,6 +74,14 @@ export function imageDeps(writer: string): ImageDeps {
       return placed.placed
     },
   }
+}
+
+export async function bytesOfImage(slug: string): Promise<Uint8Array> {
+  const held = await filingFor({ pageTypeSlug: IMAGE_PAGE_TYPE_SLUG, slug, key: BYTES_KEY })
+  if ("refused" in held) {
+    throw new OperationalError(`the bytes of the image ${slug} went unread: ${held.refused}`)
+  }
+  return held.bytes
 }
 
 export async function landImage(

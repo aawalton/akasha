@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"alan/web/routes/alan-web-api-image/alan-web-api-image.route.code.ts"}
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"alan/web/routes/wallpaper/wallpaper.route.code.ts"}
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"command/pages/alan/picture/alan-picture.command.code.ts"}
+{"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts"}
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts"}
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"infrastructure/inference/run/modules/persist-image/persist-image.module.code.ts"}

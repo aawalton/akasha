@@ -37,5 +37,9 @@ export const pictureLanding = {
       decisionKind: "decision-kind/departure",
       statement: "The page landed and the bytes placed are each pushed into the caller's `done`.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A picture already landed is read back by its slug rather than by a path.",
+    },
   ],
 } as const satisfies Module
