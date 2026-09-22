@@ -562,6 +562,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/items/guild-history/guild-history.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/world/antiquities/temper-addon-world-antiquities.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/world/collections/temper-addon-world-collections.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/world/map-data/temper-addon-world-map-data.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/world/navigation/temper-addon-world-navigation.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/world/quests/temper-addon-world-quests.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-component.domain.ts"}

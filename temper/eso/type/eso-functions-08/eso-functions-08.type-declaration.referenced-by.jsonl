@@ -178,10 +178,10 @@
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-events/map-data-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-lib-overrides/saved-vars-lib-overrides.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-manager-core/saved-vars-manager-core.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-events/map-data-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-sets/destinations-pins-sets.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-callbacks-loot/map-pins-callbacks-loot.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-inventory-scan/map-pins-inventory-scan.module.code.ts"}

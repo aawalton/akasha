@@ -4,7 +4,7 @@ export const mapDataUpstreamVerify = {
   id: "01a06282-dfc3-7a2b-87b4-c262c2239e92",
   type: "page-type/module",
   slug: "map-data-upstream-verify",
-  definition: "the ruling on whether the ported LibMapData data still matches upstream",
+  definition: "the ruling on whether the ported map-data rows still match upstream",
   code: "ts",
   decisions: [
     {

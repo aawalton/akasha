@@ -1,3 +1,4 @@
+import { MAP_DATA_STATE } from "akasha/temper/addon/pages/world/map-data/modules/map-data-public-api/map-data-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import { isTable } from "akasha/temper/addon/shared/narrow/modules/is-table/is-table.module.code.ts"
 import {
@@ -33,7 +34,6 @@ import { STATE } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-ru
 import { getSavedVariables } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-data/lib-map-data.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -177,7 +177,7 @@ export function shouldDisplayLoreBooks(this: void): boolean {
     return true
   }
 
-  const mapIndex = LibMapData.mapIndex
+  const mapIndex = MAP_DATA_STATE.mapIndex
 
   if (mapIndex !== undefined) {
     if (db.immersiveMode === LBOOKS_IMMERSIVE_ZONEMAINQUEST) {
@@ -220,13 +220,13 @@ export function updateShalidorLorebooksData(
   mapId: number,
   _zoneMapId: number
 ): undefined {
-  if (LibMapData.mapId === undefined || LibMapData.mapTexture === undefined) return
+  if (MAP_DATA_STATE.mapId === undefined || MAP_DATA_STATE.mapTexture === undefined) return
   if (
-    LibMapData.mapTexture !== STATE.lastZoneShalidor ||
-    LibMapData.mapId !== STATE.lastMapIpShalidor
+    MAP_DATA_STATE.mapTexture !== STATE.lastZoneShalidor ||
+    MAP_DATA_STATE.mapId !== STATE.lastMapIpShalidor
   ) {
-    STATE.lastZoneShalidor = LibMapData.mapTexture
-    STATE.lastMapIpShalidor = LibMapData.mapId
+    STATE.lastZoneShalidor = MAP_DATA_STATE.mapTexture
+    STATE.lastMapIpShalidor = MAP_DATA_STATE.mapId
     STATE.lorebooks = loreBooksGetLocalData(mapId)
     COMPASS_PINS.RefreshPins(PINS_COMPASS)
     return
@@ -238,13 +238,13 @@ export function updateBookshelfLorebooksData(
   mapId: number,
   _zoneMapId: number
 ): undefined {
-  if (LibMapData.mapId === undefined || LibMapData.mapTexture === undefined) return
+  if (MAP_DATA_STATE.mapId === undefined || MAP_DATA_STATE.mapTexture === undefined) return
   if (
-    LibMapData.mapTexture !== STATE.lastZoneBookshelf ||
-    LibMapData.mapId !== STATE.lastMapIpBookshelf
+    MAP_DATA_STATE.mapTexture !== STATE.lastZoneBookshelf ||
+    MAP_DATA_STATE.mapId !== STATE.lastMapIpBookshelf
   ) {
-    STATE.lastZoneBookshelf = LibMapData.mapTexture
-    STATE.lastMapIpBookshelf = LibMapData.mapId
+    STATE.lastZoneBookshelf = MAP_DATA_STATE.mapTexture
+    STATE.lastMapIpBookshelf = MAP_DATA_STATE.mapId
     STATE.bookshelves = loreBooksGetBookshelfDataFromMapId(mapId)
     COMPASS_PINS.RefreshPins(PINS_COMPASS_BOOKSHELF)
     return
@@ -256,13 +256,13 @@ export function updateEideticLorebooksData(
   mapId: number,
   zoneMapId: number
 ): undefined {
-  if (LibMapData.mapId === undefined || LibMapData.mapTexture === undefined) return
+  if (MAP_DATA_STATE.mapId === undefined || MAP_DATA_STATE.mapTexture === undefined) return
   if (
-    LibMapData.mapTexture !== STATE.lastZoneEidetic ||
-    LibMapData.mapId !== STATE.lastMapIpEidetic
+    MAP_DATA_STATE.mapTexture !== STATE.lastZoneEidetic ||
+    MAP_DATA_STATE.mapId !== STATE.lastMapIpEidetic
   ) {
-    STATE.lastZoneEidetic = LibMapData.mapTexture
-    STATE.lastMapIpEidetic = LibMapData.mapId
+    STATE.lastZoneEidetic = MAP_DATA_STATE.mapTexture
+    STATE.lastMapIpEidetic = MAP_DATA_STATE.mapId
     STATE.eideticBooks = loreBooksGetEideticData(mapId, zoneMapId)
     COMPASS_PINS.RefreshPins(PINS_COMPASS_EIDETIC)
     return

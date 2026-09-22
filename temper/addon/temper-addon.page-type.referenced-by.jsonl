@@ -12,7 +12,6 @@
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-debug-logger/temper-lib-debug-logger.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-gps/temper-lib-gps.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-main-menu/temper-lib-main-menu.temper-addon.ts"}
-{"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-map-data/temper-lib-map-data.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-map-ping/temper-lib-map-ping.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-map-pins/temper-lib-map-pins.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-notification/temper-lib-notification.temper-addon.ts"}

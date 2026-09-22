@@ -24,7 +24,6 @@ export const temperAddonType = {
     "type-declaration/lib-lua-52",
     "type-declaration/lib-main-menu",
     "type-declaration/lib-main-menu-shape",
-    "type-declaration/lib-map-data",
     "type-declaration/lib-map-ping",
     "type-declaration/lib-map-pins",
     "type-declaration/lib-multi-account-sets",

@@ -1,3 +1,4 @@
+import { MAP_DATA_STATE } from "akasha/temper/addon/pages/world/map-data/modules/map-data-public-api/map-data-public-api.module.code.ts"
 import { getSettingsString } from "akasha/temper/addon/pages/world/navigation/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { dm } from "akasha/temper/addon/pages/world/navigation/modules/destinations-logger/destinations-logger.module.code.ts"
 import {
@@ -11,7 +12,6 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import { insertChatText } from "akasha/temper/modules/chat-entry-text/chat-entry-text.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-data/lib-map-data.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
@@ -33,7 +33,7 @@ function showMyPosition(this: void): undefined {
     x,
     y,
     xs,
-    LibMapData.mapTexture
+    MAP_DATA_STATE.mapTexture
   )
   insertChatText(locationString)
 }

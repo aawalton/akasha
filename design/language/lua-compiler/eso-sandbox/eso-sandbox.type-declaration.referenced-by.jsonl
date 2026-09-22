@@ -648,10 +648,6 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-world-size/gps-world-size.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-library/main-menu-library.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-build-tables/map-data-build-tables.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-public-api/map-data-public-api.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-queries/map-data-queries.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-update/map-data-update.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-ping/modules/map-ping-compatibility/map-ping-compatibility.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-ping/modules/map-ping-handler-state/map-ping-handler-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-map-ping/modules/map-ping-handler/map-ping-handler.module.code.ts"}
@@ -756,6 +752,9 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-protected/saved-vars-protected.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/treasure-build-data/treasure-build-data.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-build-tables/map-data-build-tables.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-queries/map-data-queries.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-update/map-data-update.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-constants/compass-pins-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}

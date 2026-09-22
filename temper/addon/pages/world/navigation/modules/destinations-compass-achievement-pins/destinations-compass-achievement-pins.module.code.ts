@@ -1,3 +1,4 @@
+import { MAP_DATA_STATE } from "akasha/temper/addon/pages/world/map-data/modules/map-data-public-api/map-data-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import {
   createCompassPairPin,
@@ -25,7 +26,6 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-data/lib-map-data.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -150,7 +150,7 @@ export function addAchievementCompassPins(this: void): undefined {
     }
   }
   if (cssv.filters[PIN_TYPES.CHAMPION] === true || cssv.filters[PIN_TYPES.CHAMPION_DONE] === true) {
-    if (LibMapData.IsOverlandMap() && !getSavedVariables().settings.ShowDungeonBossesInZones) {
+    if (MAP_DATA_STATE.IsOverlandMap() && !getSavedVariables().settings.ShowDungeonBossesInZones) {
       return
     }
     const championData =

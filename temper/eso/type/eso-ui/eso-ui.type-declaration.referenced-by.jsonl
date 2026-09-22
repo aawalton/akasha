@@ -275,7 +275,6 @@
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-scenes/main-menu-scenes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-shape/main-menu-shape.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-events/map-data-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-lib/map-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
@@ -323,6 +322,7 @@
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tabs/journal-tabs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-window/journal-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-events/map-data-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-casts/compass-pins-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}

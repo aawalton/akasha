@@ -4056,8 +4056,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-main-menu/modules/main-menu-shape/main-menu-shape.module.ts","id":"01a0605b-c805-71c8-a662-3a04cfd1c00b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-main-menu/modules/main-menu-version/main-menu-version.module.ts","id":"01a0605b-c805-735a-a5cc-35a007da2712"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-main-menu/temper-lib-main-menu.temper-addon.ts","id":"01a0605b-c805-73f4-b1b0-5aa7831a19d4"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-data/modules/map-data-public-api/map-data-public-api.module.ts","id":"01a061e1-aeb1-7d98-8492-0c8d3bfad094"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-data/temper-lib-map-data.temper-addon.ts","id":"01a061e1-aeb3-7996-87d0-fffa6b5d33b6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-api/map-ping-api.module.ts","id":"01a0605f-6262-7e93-8504-251a34ece495"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-compatibility/map-ping-compatibility.module.ts","id":"01a0605f-6263-7b5a-b8a6-e1817c4462aa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-handler-state/map-ping-handler-state.module.ts","id":"01a0605f-6262-75fe-be54-df973258bb60"}
@@ -4189,6 +4187,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-pins-data/treasure-pins-data.module.ts","id":"01a061d5-d0bd-7727-b9ce-b4477741a289"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-types/treasure-types.module.ts","id":"01a061d5-d0b2-764d-ac02-736a57d1eacd"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/temper-addon-world-collections.domain.ts","id":"01a0c701-b7e2-7653-a42c-091824596cae"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/map-data/modules/map-data-public-api/map-data-public-api.module.ts","id":"01a061e1-aeb1-7d98-8492-0c8d3bfad094"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/map-data/temper-addon-world-map-data.domain.ts","id":"01a0c722-6743-7fee-8cb3-c9e00f498448"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/modules/world-entry/world-entry.module.ts","id":"01a0c6cf-3083-7f5c-a624-ea21df497012"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/destinations-preview-controls/destinations-preview-controls.type-declaration.ts","id":"01a06269-2b13-7b9c-8e10-1f913f1e6553"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/minimap-animations/minimap-animations.eso-interface.ts","id":"01a06269-2b17-76b4-a6e1-d7eb1d3b209f"}

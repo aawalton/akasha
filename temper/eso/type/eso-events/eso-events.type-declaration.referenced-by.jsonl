@@ -94,7 +94,6 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-compatibility/gps-compatibility.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-initialization/gps-initialization.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-events/map-data-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-map-ping/modules/map-ping-handler/map-ping-handler.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-code-bootstrap/scrollable-menu-code-bootstrap.module.code.ts"}
@@ -103,6 +102,7 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-main-menu/journal-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-lib-overrides/saved-vars-lib-overrides.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-events/map-data-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-initialize/destinations-pins-initialize.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-language/destinations-pins-language.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-compass-pins/map-pins-compass-pins.module.code.ts"}

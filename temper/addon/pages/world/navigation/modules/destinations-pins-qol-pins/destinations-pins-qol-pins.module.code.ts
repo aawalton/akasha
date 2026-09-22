@@ -1,3 +1,4 @@
+import { MAP_DATA_STATE } from "akasha/temper/addon/pages/world/map-data/modules/map-data-public-api/map-data-public-api.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   getMapTextureName,
@@ -12,7 +13,6 @@ import {
   PORTALS,
   STABLE,
 } from "akasha/temper/addon/pages/world/navigation/modules/destinations-shared-data/destinations-shared-data.module.code.ts"
-import "akasha/temper/addon/type/lib-map-data/lib-map-data.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
 
 function redrawMapPinsOnly(pinType: string): undefined {
@@ -35,7 +35,7 @@ function qualityOfLifeMapPinData(): QolPinData[] | undefined {
 }
 
 export function mapCallbackQolPins(pinType: string): undefined {
-  if (LibMapData.isWorld === true) {
+  if (MAP_DATA_STATE.isWorld === true) {
     return
   }
   const mapData = qualityOfLifeMapPinData()

@@ -1,3 +1,4 @@
+import { MAP_DATA_STATE } from "akasha/temper/addon/pages/world/map-data/modules/map-data-public-api/map-data-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
@@ -35,7 +36,6 @@ import {
 import { getSavedVariables } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-data/lib-map-data.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -48,7 +48,7 @@ function asMapPin(value: unknown): MapPin {
 }
 
 export function shalidorCompassCallback(this: void): undefined {
-  if (LibMapData.isMacroMap === true) {
+  if (MAP_DATA_STATE.isMacroMap === true) {
     return
   }
 
@@ -73,7 +73,7 @@ export function shalidorCompassCallback(this: void): undefined {
 }
 
 export function bookshelfCompassCallback(this: void): undefined {
-  if (LibMapData.isMacroMap === true) {
+  if (MAP_DATA_STATE.isMacroMap === true) {
     return
   }
 
@@ -88,7 +88,7 @@ export function bookshelfCompassCallback(this: void): undefined {
 }
 
 export function eideticMemoryCompassCallback(this: void): undefined {
-  if (LibMapData.isMacroMap === true) {
+  if (MAP_DATA_STATE.isMacroMap === true) {
     return
   }
 
@@ -103,10 +103,10 @@ export function eideticMemoryCompassCallback(this: void): undefined {
       )
       const libgpsCoordinates = pinData.px !== undefined && pinData.py !== undefined
       const normalizedCoordinates = pinData.pnx !== undefined && pinData.pny !== undefined
-      const usePrimaryLibgpsCoordinates = LibMapData.mapId === pinData.pm && libgpsCoordinates
+      const usePrimaryLibgpsCoordinates = MAP_DATA_STATE.mapId === pinData.pm && libgpsCoordinates
       const usePrimaryNormalizedCoordinates =
-        LibMapData.mapId === pinData.pm && normalizedCoordinates
-      const fakePinInfo = pinData.fp === true && LibMapData.mapId !== pinData.pm
+        MAP_DATA_STATE.mapId === pinData.pm && normalizedCoordinates
+      const fakePinInfo = pinData.fp === true && MAP_DATA_STATE.mapId !== pinData.pm
 
       let xLoc: number | undefined
       let yLoc: number | undefined
@@ -139,12 +139,12 @@ export function eideticMemoryCompassCallback(this: void): undefined {
 }
 
 export function mapCallbackCreateShalidorPins(this: void, pinType: string): undefined {
-  if (LibMapData.isMacroMap === true) {
+  if (MAP_DATA_STATE.isMacroMap === true) {
     return
   }
 
-  const mapId = LibMapData.mapId ?? 0
-  const zoneMapId = LibMapData.GetParentMapIdFromZoneId(LibMapData.zoneId)
+  const mapId = MAP_DATA_STATE.mapId ?? 0
+  const zoneMapId = MAP_DATA_STATE.GetParentMapIdFromZoneId(MAP_DATA_STATE.zoneId ?? 0)
   updateShalidorLorebooksData(mapId, zoneMapId)
   const shouldDisplay = shouldDisplayLoreBooks()
 
@@ -180,12 +180,12 @@ export function mapCallbackCreateShalidorPins(this: void, pinType: string): unde
 }
 
 export function mapCallbackCreateBookshelfPins(this: void, pinType: string): undefined {
-  if (LibMapData.isMacroMap === true) {
+  if (MAP_DATA_STATE.isMacroMap === true) {
     return
   }
 
-  const mapId = LibMapData.mapId ?? 0
-  const zoneMapId = LibMapData.GetParentMapIdFromZoneId(LibMapData.zoneId)
+  const mapId = MAP_DATA_STATE.mapId ?? 0
+  const zoneMapId = MAP_DATA_STATE.GetParentMapIdFromZoneId(MAP_DATA_STATE.zoneId ?? 0)
   updateBookshelfLorebooksData(mapId, zoneMapId)
 
   if (pinType === PINS_BOOKSHELF && LibMapPins.IsEnabled(PINS_BOOKSHELF)) {
@@ -201,13 +201,13 @@ export function mapCallbackCreateBookshelfPins(this: void, pinType: string): und
 }
 
 export function mapCallbackCreateEideticPins(this: void, pinType: string): undefined {
-  if (LibMapData.isMacroMap === true) {
+  if (MAP_DATA_STATE.isMacroMap === true) {
     return
   }
 
-  const zoneMapId = LibMapData.GetParentMapIdFromZoneId(LibMapData.zoneId)
-  updateEideticLorebooksData(LibMapData.mapId ?? 0, zoneMapId)
-  const isDungeon = LibMapData.isDungeon === true
+  const zoneMapId = MAP_DATA_STATE.GetParentMapIdFromZoneId(MAP_DATA_STATE.zoneId ?? 0)
+  updateEideticLorebooksData(MAP_DATA_STATE.mapId ?? 0, zoneMapId)
+  const isDungeon = MAP_DATA_STATE.isDungeon === true
   const shouldDisplay = shouldDisplayLoreBooks()
 
   const eideticBooks = asEideticRuntimeEntries(STATE.eideticBooks)
@@ -241,37 +241,37 @@ export function mapCallbackCreateEideticPins(this: void, pinType: string): undef
         }
       }
       const hasZoneMapId = pinData.zm !== undefined
-      const usePrimaryMapId = LibMapData.mapId === pinData.pm
-      const useZoneMapId = LibMapData.mapId === zoneMapId && pinData.zm === zoneMapId
+      const usePrimaryMapId = MAP_DATA_STATE.mapId === pinData.pm
+      const useZoneMapId = MAP_DATA_STATE.mapId === zoneMapId && pinData.zm === zoneMapId
       const dualMapIds =
         zoneMapId === pinData.zm &&
-        LibMapData.mapId !== pinData.pm &&
+        MAP_DATA_STATE.mapId !== pinData.pm &&
         !libgpsZoneCoordinates &&
         !normalizedZoneCoordinates
       const usePrimaryLibgpsCoordinates =
-        LibMapData.mapId === pinData.pm &&
+        MAP_DATA_STATE.mapId === pinData.pm &&
         hasZoneMapId &&
         zoneMapId !== pinData.zm &&
         libgpsCoordinates
       const usePrimaryNormalizedCoordinates =
-        LibMapData.mapId === pinData.pm &&
+        MAP_DATA_STATE.mapId === pinData.pm &&
         hasZoneMapId &&
         zoneMapId !== pinData.zm &&
         normalizedCoordinates
 
       const useZoneLibgpsCoordinates =
         hasZoneMapId &&
-        LibMapData.mapId === pinData.zm &&
-        LibMapData.mapId !== pinData.pm &&
+        MAP_DATA_STATE.mapId === pinData.zm &&
+        MAP_DATA_STATE.mapId !== pinData.pm &&
         libgpsZoneCoordinates
       const useZoneNormalizedCoordinates =
         hasZoneMapId &&
-        LibMapData.mapId === pinData.zm &&
-        LibMapData.mapId !== pinData.pm &&
+        MAP_DATA_STATE.mapId === pinData.zm &&
+        MAP_DATA_STATE.mapId !== pinData.pm &&
         normalizedZoneCoordinates
 
       const usePrimaryNormalizedSingleMapId =
-        LibMapData.mapId === pinData.pm && normalizedCoordinates
+        MAP_DATA_STATE.mapId === pinData.pm && normalizedCoordinates
 
       const dualMapIdsDungeonPin =
         pinData.pm !== undefined &&
@@ -279,7 +279,7 @@ export function mapCallbackCreateEideticPins(this: void, pinType: string): undef
         !isDungeon &&
         pinData.d === true &&
         hasZoneMapId &&
-        LibMapData.mapId === pinData.zm
+        MAP_DATA_STATE.mapId === pinData.zm
 
       pinData.xLoc = undefined
       pinData.yLoc = undefined

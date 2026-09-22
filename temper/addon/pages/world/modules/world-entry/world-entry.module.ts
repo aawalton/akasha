@@ -17,6 +17,10 @@ export const worldEntry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Map data starts before the features reading where the player is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Navigation starts before the features that pin the map through it.",
     },
   ],

@@ -1,4 +1,8 @@
 import {
+  MAP_DATA_INTERNAL,
+  MAP_DATA_STATE,
+} from "akasha/temper/addon/pages/world/map-data/modules/map-data-public-api/map-data-public-api.module.code.ts"
+import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
@@ -14,7 +18,6 @@ import {
 import { STATE } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import { insertChatText } from "akasha/temper/modules/chat-entry-text/chat-entry-text.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-map-data/lib-map-data.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -30,26 +33,26 @@ function asObject(value: unknown): object {
 export function createEideticLorebookLocation(): undefined {
   SetMapToPlayerLocation()
   CALLBACK_MANAGER.FireCallbacks("OnWorldMapChanged")
-  LibMapData_Internal.UpdateMapInfo()
+  MAP_DATA_INTERNAL.UpdateMapInfo()
   const [zone] = LibMapPins.GetZoneAndSubzone(true, false, true)
   let outText = GetString(LBOOKS_LBPOS_ERROR)
-  const zoneId = LibMapData.zoneId
-  const worldX = LibMapData.worldX
-  const worldY = LibMapData.worldY
-  const worldZ = LibMapData.worldZ
-  const x = LibMapData.normalizedX
-  const y = LibMapData.normalizedY
-  const xpos = LibMapData.libGPSX
-  const ypos = LibMapData.libGPSY
-  const mapId = LibMapData.mapId
-  const parentZoneMapId = LibMapData.parentZoneMapId
-  const isDungeon = LibMapData.isDungeon
+  const zoneId = MAP_DATA_STATE.zoneId
+  const worldX = MAP_DATA_STATE.worldX
+  const worldY = MAP_DATA_STATE.worldY
+  const worldZ = MAP_DATA_STATE.worldZ
+  const x = MAP_DATA_STATE.normalizedX
+  const y = MAP_DATA_STATE.normalizedY
+  const xpos = MAP_DATA_STATE.globalX
+  const ypos = MAP_DATA_STATE.globalY
+  const mapId = MAP_DATA_STATE.mapId
+  const parentZoneMapId = MAP_DATA_STATE.parentZoneMapId
+  const isDungeon = MAP_DATA_STATE.isDungeon
   let bookName = ""
   let categoryIndex = 0
   let collectionIndex: number | string = ""
   let bookIndex: number | string = ""
 
-  const reticleName = LibMapData.reticleInteractionName
+  const reticleName = MAP_DATA_STATE.reticleInteractionName
   let isBookshelf = false
   if (reticleName != null && !isBookshelf) {
     isBookshelf = reticleName === BOOK_SHELF_LOCALIZATION[STATE.currentBookshelfLocale]
@@ -184,13 +187,13 @@ export function createEideticLorebookLocation(): undefined {
 }
 
 export function createFakeEideticLorebookLocation(): undefined {
-  LibMapData_Internal.UpdateMapInfo()
+  MAP_DATA_INTERNAL.UpdateMapInfo()
   const [zone] = LibMapPins.GetZoneAndSubzone(true, false, true)
-  const x = LibMapData.normalizedX
-  const y = LibMapData.normalizedY
-  const xpos = LibMapData.libGPSX
-  const ypos = LibMapData.libGPSY
-  const mapId = LibMapData.mapId
+  const x = MAP_DATA_STATE.normalizedX
+  const y = MAP_DATA_STATE.normalizedY
+  const xpos = MAP_DATA_STATE.globalX
+  const ypos = MAP_DATA_STATE.globalY
+  const mapId = MAP_DATA_STATE.mapId
 
   const ef = '"e"'
   const mdf = '"pm"'
@@ -226,11 +229,11 @@ export function createFakeEideticLorebookLocation(): undefined {
 }
 
 export function createFakeLorebookPin(): undefined {
-  LibMapData_Internal.UpdateMapInfo()
+  MAP_DATA_INTERNAL.UpdateMapInfo()
   const [zone] = LibMapPins.GetZoneAndSubzone(true, false, true)
-  const x = LibMapData.normalizedX
-  const y = LibMapData.normalizedY
-  const mapId = LibMapData.mapId
+  const x = MAP_DATA_STATE.normalizedX
+  const y = MAP_DATA_STATE.normalizedY
+  const mapId = MAP_DATA_STATE.mapId
 
   const bookName = "fake Shalidor's Library location"
   const outText = string.format(

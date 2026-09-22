@@ -23,11 +23,11 @@
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-map-adapter/gps-map-adapter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-map-stack/gps-map-stack.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-tamriel-o-meter/gps-tamriel-o-meter.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-update/map-data-update.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/lib-map-ping/modules/map-ping-handler/map-ping-handler.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-helpers/map-pins-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-update/map-data-update.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-compass-achievement-pins/destinations-compass-achievement-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-13.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-compass-collectible-fish-pins/destinations-compass-collectible-fish-pins.module.code.ts"}
