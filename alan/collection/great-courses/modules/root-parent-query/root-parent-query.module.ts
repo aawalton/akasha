@@ -5,7 +5,7 @@ export const rootParentQuery = {
   type: "page-type/module",
   slug: "root-parent-query",
   definition:
-    "the date the Great Courses collection root last synced, read as a gate and written back",
+    "the date the Great Courses collection root last synced, taken as a gate and written back",
   code: "ts",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const catalogue = {
   type: "page-type/module",
   slug: "catalogue",
   definition:
-    "the Great Courses programme listing fetched and read into courses and subject shelves",
+    "the Great Courses programme listing fetched and turned into courses and subject shelves",
   code: "ts",
   decisions: [
     {

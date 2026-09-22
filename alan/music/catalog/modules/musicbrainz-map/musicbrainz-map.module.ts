@@ -4,7 +4,7 @@ export const musicbrainzMap = {
   id: "01a06262-ff4c-7002-9c61-e7ce9273581d",
   type: "page-type/module",
   slug: "musicbrainz-map",
-  definition: "a MusicBrainz answer read as the fields a song or an artist carries",
+  definition: "a MusicBrainz answer taken as the fields a song or an artist carries",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

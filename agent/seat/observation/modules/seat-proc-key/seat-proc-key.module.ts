@@ -5,7 +5,7 @@ export const seatProcKey = {
   type: "page-type/module",
   slug: "seat-proc-key",
   definition:
-    "a pid held together with the tick its process started at, so a reused pid reads as gone",
+    "a pid held together with the tick its process started at, so a reused pid shows as gone",
   code: "ts",
   decisions: [
     {

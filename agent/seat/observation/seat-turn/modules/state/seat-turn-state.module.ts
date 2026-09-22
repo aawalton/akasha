@@ -5,7 +5,7 @@ export const seatTurnState = {
   type: "page-type/module",
   slug: "seat-turn-state",
   definition:
-    "a seat read as working, idle, waiting or stopped, from the records kept and the process named",
+    "a seat taken as working, idle, waiting or stopped, from the records kept and the process named",
   code: "ts",
   test: "ts",
   decisions: [

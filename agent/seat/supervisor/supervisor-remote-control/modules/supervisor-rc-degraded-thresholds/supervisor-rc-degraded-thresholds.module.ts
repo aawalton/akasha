@@ -5,7 +5,7 @@ export const supervisorRcDegradedThresholds = {
   type: "page-type/module",
   slug: "supervisor-rc-degraded-thresholds",
   definition:
-    "the edge count, streaks and windows a seat's remote control is read as degraded against",
+    "the edge count, streaks and windows a seat's remote control is judged degraded against",
   code: "ts",
   testFixtures: "ts",
   decisions: [

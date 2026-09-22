@@ -4,7 +4,7 @@ export const emailInbound = {
   id: "01a05bcd-25e2-7b0c-aff6-314192c66a72",
   type: "page-type/domain",
   slug: "email-inbound",
-  definition: "what an arriving email is read into before anything acts on it",
+  definition: "what an arriving email is turned into before anything acts on it",
   parts: [
     "module/agent-channel",
     "module/inbound-decision",

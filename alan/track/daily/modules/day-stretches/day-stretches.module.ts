@@ -4,7 +4,7 @@ export const dayStretches = {
   id: "01a072fc-7da3-70be-b104-0ae0ad022e37",
   type: "page-type/module",
   slug: "day-stretches",
-  definition: "the stretches of Alan's day, read as rows beside the day each is part of",
+  definition: "the stretches of Alan's day, taken as rows beside the day each is part of",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const monarchEvalScore = {
   id: "01a06868-1eff-7772-8b1a-2c5a4d3dd331",
   type: "page-type/module",
   slug: "monarch-eval-score",
-  definition: "a run file read as how far an agent's categories agree with the household's own",
+  definition: "a run file taken as how far an agent's categories agree with the household's own",
   code: "ts",
   decisions: [
     {

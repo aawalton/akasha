@@ -4,7 +4,7 @@ export const gmailInboundAdapter = {
   id: "01a05c0e-3731-700e-afc0-458bb381fe6a",
   type: "page-type/module",
   slug: "gmail-inbound-adapter",
-  definition: "a Gmail message read into the shape an arriving email is judged in",
+  definition: "a Gmail message turned into the shape an arriving email is judged in",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const sendUpdatesNarrowing = {
   id: "01a0657c-604c-7000-884b-de941ede99ce",
   type: "page-type/module",
   slug: "send-updates-narrowing",
-  definition: "the three values a send-updates choice takes, and a raw value read as one",
+  definition: "the three values a send-updates choice takes, and a raw value narrowed to one",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const trackCandidate = {
   id: "01a06281-4d9d-7003-a5cb-de0f475a7e60",
   type: "page-type/module",
   slug: "track-candidate",
-  definition: "a Spotify search hit read as a track that could be played",
+  definition: "a Spotify search hit taken as a track that could be played",
   code: "ts",
   test: "ts",
   decisions: [
