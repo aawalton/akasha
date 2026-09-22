@@ -201,12 +201,12 @@
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-keybind/inventory-rules-keybind.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-lock-icon/inventory-tooltip-lock-icon.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/addon-keybinds-menu-entry/addon-keybinds-menu-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-casts/keybinder-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-menu-entry/addon-keybinds-menu-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-casts/addon-menu-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-panel-options/addon-menu-panel-options.module.code.ts"}

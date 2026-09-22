@@ -8,5 +8,5 @@
   "apiVersion": ["101050", "101051"],
   "savedVariables": ["TemperKeybinder_SavedVariables"],
   "dependsOn": [],
-  "optionalDependsOn": ["libAddonKeybinds>=6"]
+  "optionalDependsOn": []
 }

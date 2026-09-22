@@ -67,12 +67,12 @@
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-refine/inventory-rules-dispatch-refine.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/addon-keybinds-load/addon-keybinds-load.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-filter/keybinder-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-keybind-events/keybinder-keybind-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-share/keybinder-share.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-load/addon-keybinds-load.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-state/addon-menu-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/lib-async/modules/async-state/async-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-init-chardata/knowledge-init-chardata.module.code.ts"}

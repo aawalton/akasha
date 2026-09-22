@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/alchemy-station-types/alchemy-station-types.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/alchemy-station/alchemy-station.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-context-menu/housing-context-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-casts/addon-menu-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}

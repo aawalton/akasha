@@ -1,3 +1,0 @@
-import { installLibAddonKeybinds } from "akasha/temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.code.ts"
-
-installLibAddonKeybinds()

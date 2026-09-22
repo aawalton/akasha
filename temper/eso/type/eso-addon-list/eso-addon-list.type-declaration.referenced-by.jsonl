@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-share/keybinder-share.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-adapter-gap-rows/histoire-adapter-gap-rows.module.code.ts"}

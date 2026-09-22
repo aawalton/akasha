@@ -1,3 +1,4 @@
+import "akasha/temper/addon/pages/keybinder/modules/addon-keybinds-entry/addon-keybinds-entry.module.code.ts"
 import "akasha/temper/addon/pages/keybinder/modules/keybinder-public-api/keybinder-public-api.module.code.ts"
 
 import { bindingFunctionsAvailable } from "akasha/temper/addon/pages/keybinder/modules/keybinder-binding-fns/keybinder-binding-fns.module.code.ts"

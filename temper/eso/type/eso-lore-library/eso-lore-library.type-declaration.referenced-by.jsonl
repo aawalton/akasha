@@ -14,8 +14,8 @@
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-ui/fco-ui.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-guild-invites/quiet-guild-invites.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown/addon-menu-widget-dropdown.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-lib/custom-menu-lib.module.code.ts"}

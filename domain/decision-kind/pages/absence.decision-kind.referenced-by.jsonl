@@ -1793,8 +1793,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.ts","id":"01a0cc42-6b1f-7a05-9d38-4e7b21c6f9a0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-keybinds/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts","id":"01a06259-bfbc-7d5e-8b4b-5bbe42c3459a"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-casts/addon-keybinds-casts.module.ts","id":"01a0605a-051b-7355-a78a-16ba2dc843c5"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/keybinder/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts","id":"01a06259-bfbc-7d5e-8b4b-5bbe42c3459a"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/keybinder/modules/addon-keybinds-casts/addon-keybinds-casts.module.ts","id":"01a0605a-051b-7355-a78a-16ba2dc843c5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/addon-menu-eso-combobox/addon-menu-eso-combobox.type-declaration.ts","id":"01a06100-0000-7000-8000-000000000030"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/addon-menu-eso-controls/addon-menu-eso-controls.type-declaration.ts","id":"01a06100-0000-7000-8000-000000000029"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.ts","id":"01a06100-0000-7000-8000-000000000031"}

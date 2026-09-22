@@ -1,0 +1,6 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The bundle entry imports this module for the patch alone."},{"decisionKind":"decision-kind/departure","statement":"Nothing waits on the caller to ask for the split."}]}
+{"definition":"the call patching the keybindings menu once the bundle loads"}
+{"id":"01a0605a-051c-7251-adf5-3039dae90ad3"}
+{"slug":"addon-keybinds-entry"}
+{"type":"page-type/module"}
