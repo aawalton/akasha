@@ -15,4 +15,10 @@ export const theTower088 = {
     { name: "focus", now: 104, most: 120, change: -6 },
     { name: "stamina", now: 48, most: 76, change: -5 },
   ],
+  derived: [
+    { name: "Vitae (HP)", number: 124 },
+    { name: "Focus", number: 120 },
+    { name: "Stamina", number: 76 },
+    { name: "Initiative", number: 26 },
+  ],
 } as const satisfies GameTurn
