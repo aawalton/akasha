@@ -45,6 +45,21 @@ export function reasonsIn(stands: Stands): (given: Body) => readonly string[] {
   return overEachText((path, text) => found(path, text, stands))
 }
 
+export function refusalsIn(
+  paths: readonly string[],
+  read: (path: string) => string | null,
+  stands: Stands
+): readonly Judged[] {
+  const said: Judged[] = []
+  for (const path of paths) {
+    if (!textNamed(path)) continue
+    const text = read(path)
+    if (text === null) continue
+    for (const reason of found(path, text, stands)) said.push({ path, reason })
+  }
+  return said
+}
+
 export function refusalsOver(change: Change): readonly Judged[] {
   const stands: Stands = (at) => change.after(at) !== null
   return overEachFile(change, textNamed, reasonsIn(stands))
