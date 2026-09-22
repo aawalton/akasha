@@ -480,7 +480,7 @@
 {"propertySlug":"decision-kind","path":"alan/book/pages/all-about-alan/question/properties/question-topic.relation-property.ts","id":"01a077d9-0c68-7b67-bedd-fe9a66246acf"}
 {"propertySlug":"decision-kind","path":"alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.ts","id":"01a01acb-287b-7001-a5dd-b90e367fe4f8"}
 {"propertySlug":"decision-kind","path":"alan/book/pages/all-about-alan/topic/properties/topic-parents.multi-relation-property.ts","id":"01a0655a-b2b5-76ec-9521-af5a75eb52c5"}
-{"propertySlug":"decision-kind","path":"alan/book/pages/all-about-alan/topic/properties/topic-related.relation-property.ts","id":"01a0655a-b2b5-710b-b693-bb9c1a6e2950"}
+{"propertySlug":"decision-kind","path":"alan/book/pages/all-about-alan/topic/properties/topic-related.multi-relation-property.ts","id":"01a0655a-b2b5-710b-b693-bb9c1a6e2950"}
 {"propertySlug":"decision-kind","path":"alan/book/pages/all-about-alan/topic/properties/topic-settled.text-property.ts","id":"01a0655a-b2b5-7a06-9305-be9592eba1ec"}
 {"propertySlug":"decision-kind","path":"alan/book/pages/learn-everything/learn-everything.alan-book.ts","id":"01a0659d-311d-7001-b736-ae7c499c3bf3"}
 {"propertySlug":"decision-kind","path":"alan/book/pages/learn-everything/mastery-level/mastery-level.page-type.ts","id":"01a0784a-cdb9-75af-be55-75cc37d93123"}

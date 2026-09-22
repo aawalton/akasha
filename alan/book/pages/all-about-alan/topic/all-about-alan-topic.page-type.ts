@@ -8,7 +8,7 @@ export const allAboutAlanTopic = {
   extends: ["page-type/page"],
   parts: [
     "multi-relation-property/topic-parents",
-    "relation-property/topic-related",
+    "multi-relation-property/topic-related",
     "text-property/topic-settled",
   ],
   properties: [
@@ -21,7 +21,7 @@ export const allAboutAlanTopic = {
       maxCount: null,
     },
     {
-      pageProperty: "relation-property/topic-related",
+      pageProperty: "multi-relation-property/topic-related",
       required: false,
       many: true,
       maxCount: null,

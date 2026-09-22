@@ -1,8 +1,8 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const topicRelated = {
   id: "01a0655a-b2b5-710b-b693-bb9c1a6e2950",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "topic-related",
   propertySlug: "related",
   definition: "the topics a topic reaches across to",
@@ -18,4 +18,4 @@ export const topicRelated = {
     },
   ],
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

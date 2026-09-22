@@ -34,4 +34,5 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"identity-statement","unique":null,"uniquePropertySlug":null,"slug":"sub-statements","propertySlug":"sub-statements","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"all-about-alan-topic","unique":null,"uniquePropertySlug":null,"slug":"topic-parents","propertySlug":"parents","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"learn-everything-topic","unique":null,"uniquePropertySlug":null,"slug":"topic-part-of","propertySlug":"part-of","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"all-about-alan-topic","unique":null,"uniquePropertySlug":null,"slug":"topic-related","propertySlug":"related","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"wallpaper-images","propertySlug":"wallpapers","fileName":null,"folderName":null}
