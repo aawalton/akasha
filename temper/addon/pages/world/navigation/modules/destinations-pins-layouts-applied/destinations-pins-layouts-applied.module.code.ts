@@ -57,7 +57,6 @@ import {
   mapCallbackFakeKnown,
   mapCallbackUnknown,
 } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"
-import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 
 export function setPinLayouts(): undefined {
   const layouts = buildPinLayouts()
