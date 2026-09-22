@@ -1413,6 +1413,7 @@
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.ts","id":"01a063aa-63c2-7558-845f-9e351ae7ba3f"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-task-capture/watcher-task-capture.module.ts","id":"01a076f7-553a-76cf-a7a6-6c6dd69f52a9"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-task-landing/watcher-task-landing.module.ts","id":"01a06381-35cf-7c4d-b5f1-4ad42ef2b4cc"}
+{"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-task-rolling/watcher-task-rolling.module.ts","id":"01a076f1-163b-7fda-ab45-6cd8d0a5e4a1"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.ts","id":"01a0640f-8510-7490-bf5f-876df0d09100"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-token/watcher-token.module.ts","id":"01a06377-d8cc-7fd4-a2aa-a8b1cc6f5c4e"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-updating/watcher-updating.module.ts","id":"01a063c7-b025-7d65-8dfd-3914b90eaf4e"}

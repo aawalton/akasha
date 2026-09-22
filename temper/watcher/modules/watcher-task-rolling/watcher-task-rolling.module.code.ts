@@ -55,13 +55,13 @@ export function rollVerdicts(inputs: RollInputs): readonly RollVerdict[] {
         })
         continue
       }
-      const rolls = done.has(next) || moved.has(next)
+      const rolls = moved.has(next)
       verdicts.push({
         taskId: task.taskId,
         rolls,
         why: rolls
-          ? `the character it falls to answered it`
-          : `the character it falls to has neither completed nor progressed`,
+          ? `the character it falls to made progress at it`
+          : `the character it falls to has made no progress at it`,
       })
       continue
     }
