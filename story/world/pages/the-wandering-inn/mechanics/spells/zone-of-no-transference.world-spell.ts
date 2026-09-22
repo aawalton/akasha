@@ -6,5 +6,6 @@ export const zoneOfNoTransference = {
   slug: "zone-of-no-transference",
   title: "Zone of No Transference",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

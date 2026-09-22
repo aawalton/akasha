@@ -6,5 +6,6 @@ export const whiteoutBlizzard = {
   slug: "whiteout-blizzard",
   title: "Whiteout Blizzard",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

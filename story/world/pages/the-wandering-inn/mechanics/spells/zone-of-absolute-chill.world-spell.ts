@@ -6,5 +6,6 @@ export const zoneOfAbsoluteChill = {
   slug: "zone-of-absolute-chill",
   title: "Zone of Absolute Chill",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

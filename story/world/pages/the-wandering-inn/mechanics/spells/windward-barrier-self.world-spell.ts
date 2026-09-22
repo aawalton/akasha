@@ -6,5 +6,6 @@ export const windwardBarrierSelf = {
   slug: "windward-barrier-self",
   title: "Windward Barrier: Self",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const wordOfDeath = {
   slug: "word-of-death",
   title: "Word of Death",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSpell

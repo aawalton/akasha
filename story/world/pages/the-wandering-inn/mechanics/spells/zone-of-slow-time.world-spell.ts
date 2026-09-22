@@ -6,5 +6,6 @@ export const zoneOfSlowTime = {
   slug: "zone-of-slow-time",
   title: "Zone of Slow Time",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell
