@@ -119,16 +119,21 @@ function countingOf(ran: Ran): string {
   return failed === 0 ? `${outside}, and no test failed` : `${said}, and ${outside}`
 }
 
-function outputOf(ran: Ran, failing: readonly string[]): string {
-  const held = new Set(failing)
+function outputOf(ran: Ran, failing: readonly string[], only: string | null): string {
+  const held = new Set(only === null ? failing : [only])
   const blamed = ran.spent.filter(
-    (one) => held.has(one.path) || one.code !== 0 || one.signal !== null
+    (one) => held.has(one.path) || (only === null && (one.code !== 0 || one.signal !== null))
   )
   return blamed.length === 0 ? ran.output : blamed.map((one) => one.out).join("")
 }
 
-function failinglyOf(ran: Ran, over: string, failing: readonly string[]): string {
-  const said = `${countingOf(ran)}, over ${over}:\n${saidOf(outputOf(ran, failing))}`
+function failinglyOf(
+  ran: Ran,
+  over: string,
+  failing: readonly string[],
+  only: string | null
+): string {
+  const said = `${countingOf(ran)}, over ${over}:\n${saidOf(outputOf(ran, failing, only))}`
   if (failing.length === 0) return `${UNNAMED}\n\n${said}`
   const blamed = ran.summary.failed === 0 ? "errored" : "failed"
   return `${counted(failing.length)} ${blamed}:\n${failing.join("\n")}\n\n${said}`
@@ -143,21 +148,26 @@ function measuredOf(ran: Ran): string {
   return `Measured between ${first} and ${last}. `
 }
 
-export function reasonOf(ran: Ran, named: readonly string[], failing: readonly string[]): string {
+export function reasonOf(
+  ran: Ran,
+  named: readonly string[],
+  failing: readonly string[],
+  only: string | null = null
+): string {
   const over = `${counted(named.length)} standing beside what this change carries`
   const when = measuredOf(ran)
   if (ran.verdict === "slow") return `${when}${slowlyOf(ran)}`
-  if (ran.verdict === "fail") return `${when}${failinglyOf(ran, over, failing)}`
+  if (ran.verdict === "fail") return `${when}${failinglyOf(ran, over, failing, only)}`
   if (ran.verdict === "short") {
     return (
       `${when}${ran.summary.files} of the ${named.length} test files named ran, so the ones ` +
-      `that did pass say nothing about the rest:\n${saidOf(outputOf(ran, failing))}`
+      `that did pass say nothing about the rest:\n${saidOf(outputOf(ran, failing, only))}`
     )
   }
   const ended = endingOf(ran.code, ran.signal)
   return (
     `${when}the run printed no summary, so nothing says the tests ran at all — it ${ended}. ` +
-    `This is the runner failing, not a test:\n${saidOf(outputOf(ran, failing))}`
+    `This is the runner failing, not a test:\n${saidOf(outputOf(ran, failing, only))}`
   )
 }
 
@@ -175,11 +185,15 @@ function bodiesOf(change: Change, shadow: Shadow): Bodies {
 
 export function refusedOf(ran: Ran, named: readonly string[], first: string): readonly Judged[] {
   const failing = failedIn(ran.output, named)
-  const reason = reasonOf(ran, named, failing)
   const slow = ran.verdict === "slow"
   const blamed = slow && ran.slow.length > 0 ? ran.slow.map((one) => one.path) : failing
   const each = blamed.length === 0 ? [first] : blamed
-  return each.map((path) => ({ path, reason, ...(slow ? { slow: true } : {}) }))
+  const narrowed = blamed.length > 0
+  return each.map((path) => ({
+    path,
+    reason: reasonOf(ran, named, failing, narrowed ? path : null),
+    ...(slow ? { slow: true } : {}),
+  }))
 }
 
 const PHASE = "test"

@@ -353,5 +353,19 @@ test("a file that throws as it loads and a file that fails are each refused by n
   ])
   expect(said[0]?.reason).toContain("Measured between 20")
   expect(said[0]?.reason).toContain("1 error was raised outside any test")
-  expect(said[1]?.reason).toBe(said[0]?.reason)
+  expect(said[1]?.reason).not.toBe(said[0]?.reason)
+})
+
+test("each refusal carries the output of its own file rather than every file's", () => {
+  const named = [SORTED_AT, COUNTED_AT]
+  const ran = ranOverEach("fail", { files: 2, failed: 2, passed: 3 }, [
+    { path: SORTED_AT, out: `${SORTED_AT}:\n(fail) the sorted one [0.10ms]\n`, code: 1 },
+    { path: COUNTED_AT, out: `${COUNTED_AT}:\n(fail) the counted one [0.10ms]\n`, code: 1 },
+  ])
+  const said = refusedOf(ran, named, SORTED_AT)
+  expect(said.map((one) => one.path)).toEqual(named)
+  expect(said[0]?.reason).toContain("the sorted one")
+  expect(said[0]?.reason).not.toContain("the counted one")
+  expect(said[1]?.reason).toContain("the counted one")
+  expect(said[1]?.reason).not.toContain("the sorted one")
 })
