@@ -4,6 +4,6 @@ export const writSmithParser = {
   id: "01a061c7-e8b1-7b4f-9259-e4a4f32910b1",
   type: "page-type/module",
   slug: "writ-smith-parser",
-  definition: "reads a smithing writ and says what it asks for",
+  definition: "reads a smithing writ and says what it wants",
   code: "ts",
 } as const satisfies Module

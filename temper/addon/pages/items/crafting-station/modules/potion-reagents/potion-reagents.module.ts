@@ -4,6 +4,6 @@ export const potionReagents = {
   id: "01a061c7-e885-79e9-93d5-3b3b9841d3cc",
   type: "page-type/module",
   slug: "potion-reagents",
-  definition: "the reagents the search is allowed to draw on",
+  definition: "the reagents the search is allowed to use",
   code: "ts",
 } as const satisfies Module

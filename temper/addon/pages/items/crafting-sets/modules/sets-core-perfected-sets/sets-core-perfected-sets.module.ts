@@ -4,7 +4,7 @@ export const setsCorePerfectedSets = {
   id: "01a061fc-ceeb-71fc-bced-c9b4d1f3537a",
   type: "page-type/module",
   slug: "sets-core-perfected-sets",
-  definition: "which set is the perfected twin of which, and the zone each of the pair drops in",
+  definition: "which set is the perfected twin of which, and the drop zone of each of the pair",
   code: "ts",
   decisions: [
     {

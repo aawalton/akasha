@@ -4,6 +4,6 @@ export const craftingHelpers = {
   id: "01a061c7-e878-7f6f-9acf-22a044cfa382",
   type: "page-type/module",
   slug: "crafting-helpers",
-  definition: "the small text and table turns the crafting windows all reach for",
+  definition: "the small text and table turns all the crafting windows use",
   code: "ts",
 } as const satisfies Module

@@ -4,7 +4,7 @@ export const setsTipHelpers = {
   id: "01a06231-8f1e-736e-ac26-89f86f494749",
   type: "page-type/module",
   slug: "sets-tip-helpers",
-  definition: "the small text builders the set info line is assembled out of",
+  definition: "the set info line's small text builders",
   code: "ts",
   decisions: [
     {
