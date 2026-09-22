@@ -4,7 +4,7 @@ import {
   asMiniMapPinManager,
   asNumber,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-casts/minimap-casts.module.code.ts"
-import type { VotansMiniMap } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
+import type { TemperMiniMap } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import {
   createAsyncTask,
   getScene,
@@ -32,7 +32,7 @@ import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
 export function installRefreshAllPOIs(this: void): undefined {
-  const task = createAsyncTask("VOTAN_RefreshAllPOIs")
+  const task = createAsyncTask("TEMPER_RefreshAllPOIs")
 
   let zoneIndex = 0
   let createTag: (this: void, ...args: unknown[]) => unknown
@@ -113,10 +113,10 @@ export function installRefreshAllPOIs(this: void): undefined {
 
 export function installRefreshWayshrines(
   this: void,
-  self: VotansMiniMap,
+  self: TemperMiniMap,
   cell: WayshrineCell
 ): undefined {
-  const task = createAsyncTask("VOTAN_RefreshWayshrines")
+  const task = createAsyncTask("TEMPER_RefreshWayshrines")
 
   function isShowingCosmicMap(this: void): boolean {
     return GetMapType() === MAPTYPE_COSMIC
@@ -299,7 +299,7 @@ export function installRefreshWayshrines(
 
 export function installRefreshLocations(this: void): undefined {
   if (ZO_MapLocationPins_Manager !== undefined) {
-    const task = createAsyncTask("VOTAN_RefreshLocations")
+    const task = createAsyncTask("TEMPER_RefreshLocations")
 
     let locations: LooseTable
     function drawPin(this: void, i: number): undefined {

@@ -1,7 +1,7 @@
 import { asMiniMapScene } from "akasha/temper/addon/pages/world/navigation/modules/minimap-casts/minimap-casts.module.code.ts"
 import {
   holder,
-  type VotansMiniMap,
+  type TemperMiniMap,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import { MINIMAP_MAP_MODE } from "akasha/temper/addon/pages/world/navigation/modules/minimap-names/minimap-names.module.code.ts"
 import { getScene } from "akasha/temper/addon/pages/world/navigation/modules/minimap-shared/minimap-shared.module.code.ts"
@@ -10,11 +10,11 @@ import { STATE } from "akasha/temper/addon/pages/world/navigation/modules/minima
 export function installVisibility(this: void): undefined {
   const self = holder
 
-  holder.StartFollowPlayer = function (this: VotansMiniMap): undefined {
+  holder.StartFollowPlayer = function (this: TemperMiniMap): undefined {
     STATE.moveToPlayer = ZO_WorldMap_JumpToPlayer
   }
 
-  holder.StopFollowPlayer = function (this: VotansMiniMap): undefined {}
+  holder.StopFollowPlayer = function (this: TemperMiniMap): undefined {}
 
   let isDirty = false
   function refreshVisibility(this: void): boolean {
@@ -52,7 +52,7 @@ export function installVisibility(this: void): undefined {
   }
   asMiniMapScene(WORLD_MAP_FRAGMENT).SetConditional(refreshVisibility)
 
-  holder.UpdateVisibility = function (this: VotansMiniMap): undefined {
+  holder.UpdateVisibility = function (this: TemperMiniMap): undefined {
     if (!isDirty) {
       isDirty = true
       asMiniMapScene(WORLD_MAP_FRAGMENT).Refresh()

@@ -38,7 +38,7 @@ export function installDeferRefreshes(this: void): undefined {
     identifier: string,
     delay: number
   ): undefined {
-    const task = createAsyncTask("VOTAN_" + identifier)
+    const task = createAsyncTask("TEMPER_" + identifier)
     const glob = asAnyTable(globalThis)
     const orgMethod = glob[methodName]
     function runRefresh(this: void, asyncTask: AnyAsyncTask): undefined {
@@ -67,7 +67,7 @@ export function installDeferRefreshes(this: void): undefined {
 
 export function installRefreshCustomPins(this: void, cell: WayshrineCell): undefined {
   const async = TemperAsync
-  const task = createAsyncTask("VOTANS_MAP_CUSTOM_PIN_UPDATE")
+  const task = createAsyncTask("TEMPER_MAP_CUSTOM_PIN_UPDATE")
   function onError(this: void, err: unknown): undefined {
     d("Error in custom pin addon", err)
   }
@@ -145,7 +145,7 @@ export function installRefreshCustomPins(this: void, cell: WayshrineCell): undef
 }
 
 export function installUpdatePinsForMapSizeChange(this: void): undefined {
-  const task = createAsyncTask("VOTANS_MAP_UPDATE_MAP_SIZE_CHANGE")
+  const task = createAsyncTask("TEMPER_MAP_UPDATE_MAP_SIZE_CHANGE")
   const orgUpdatePinsForMapSizeChange =
     asAnyTable(ZO_WorldMapPins_Manager).UpdatePinsForMapSizeChange
   let lastW = -1

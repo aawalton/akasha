@@ -1,7 +1,7 @@
 import { asMiniMapControl } from "akasha/temper/addon/pages/world/navigation/modules/minimap-casts/minimap-casts.module.code.ts"
 import {
   holder,
-  type VotansMiniMap,
+  type TemperMiniMap,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import { applyModeStyle } from "akasha/temper/addon/pages/world/navigation/modules/minimap-mode/minimap-mode.module.code.ts"
 import {
@@ -14,7 +14,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
-holder.UpdateBorder = function (this: VotansMiniMap): undefined {
+holder.UpdateBorder = function (this: TemperMiniMap): undefined {
   const control = asMiniMapControl(this.background)
   const inMiniMap = !getScene().IsShowing()
   if (inMiniMap) {
@@ -104,7 +104,7 @@ holder.UpdateBorder = function (this: VotansMiniMap): undefined {
   ZO_WorldMapTitle.SetHidden(true)
 }
 
-holder.UpdateCompass = function (this: VotansMiniMap): undefined {
+holder.UpdateCompass = function (this: TemperMiniMap): undefined {
   if (this.account.enableCompass !== this.compassMode.Untouched) {
     const hidden = this.account.showHUD && this.account.enableCompass !== this.compassMode.Shown
 
@@ -116,7 +116,7 @@ holder.UpdateCompass = function (this: VotansMiniMap): undefined {
   }
 }
 
-holder.UpdateDrawLevel = function (this: VotansMiniMap): undefined {
+holder.UpdateDrawLevel = function (this: TemperMiniMap): undefined {
   ZO_WorldMap.SetDrawLayer(this.account.showOnTop ? DL_CONTROLS : DL_BACKGROUND)
   ZO_WorldMap.SetDrawLevel(this.account.showOnTop ? 1000 : 0)
 }

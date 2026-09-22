@@ -8,7 +8,7 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-casts/minimap-casts.module.code.ts"
 import {
   holder,
-  type VotansMiniMap,
+  type TemperMiniMap,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import {
   panZoom,
@@ -27,15 +27,15 @@ import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
-holder.GetCurrentZoom = function (this: VotansMiniMap): number {
+holder.GetCurrentZoom = function (this: TemperMiniMap): number {
   return asNumber(asMiniMapPanAndZoom(panZoom()).GetCurrentNormalizedZoom())
 }
 
-holder.SetCurrentZoom = function (this: VotansMiniMap, zoom: number): undefined {
+holder.SetCurrentZoom = function (this: TemperMiniMap, zoom: number): undefined {
   asMiniMapPanAndZoom(panZoom()).SetCurrentNormalizedZoom(zoom)
 }
 
-holder.InitRequiredModifications = function (this: VotansMiniMap): undefined {
+holder.InitRequiredModifications = function (this: TemperMiniMap): undefined {
   const orgUpdatePinsForMapSizeChange =
     asAnyTable(ZO_WorldMapPins_Manager).UpdatePinsForMapSizeChange
   let lastW = -1
@@ -58,7 +58,7 @@ holder.InitRequiredModifications = function (this: VotansMiniMap): undefined {
   })
 }
 
-holder.InitCameraAngle = function (this: VotansMiniMap): undefined {
+holder.InitCameraAngle = function (this: TemperMiniMap): undefined {
   const self = this
   if (self.cameraAngleLeft != null) {
     return

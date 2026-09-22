@@ -8,7 +8,7 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-casts/minimap-casts.module.code.ts"
 import {
   holder,
-  type VotansMiniMap,
+  type TemperMiniMap,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import { createAsyncTask } from "akasha/temper/addon/pages/world/navigation/modules/minimap-shared/minimap-shared.module.code.ts"
 import type {
@@ -36,7 +36,7 @@ let pinSizes: Record<string, number> = {}
 const PERCENT_TO_SCALE = 0.01
 const OTHERS_SCALE_REF = { value: 1 }
 
-holder.InitPinSizes = function (this: VotansMiniMap): undefined {
+holder.InitPinSizes = function (this: TemperMiniMap): undefined {
   const self = this
 
   self.account.pinSizes = self.account.pinSizes ?? {}
@@ -47,7 +47,7 @@ holder.InitPinSizes = function (this: VotansMiniMap): undefined {
   OTHERS_SCALE_REF.value = 1
 
   const orgCalculateScale = asAnyTableMember(self.CalculateScale)
-  holder.CalculateScale = function (this: VotansMiniMap, pinType: number): number {
+  holder.CalculateScale = function (this: TemperMiniMap, pinType: number): number {
     return asNumber(orgCalculateScale(self)) * (pinScales[pinType] ?? OTHERS_SCALE_REF.value)
   }
 
@@ -85,7 +85,7 @@ holder.InitPinSizes = function (this: VotansMiniMap): undefined {
       return
     }
 
-    const task = createAsyncTask("VotanPinSize" + caption)
+    const task = createAsyncTask("TemperPinSize" + caption)
     function updatePinSize(this: void): undefined {
       updateDrawLevel(pinType)
     }
@@ -117,7 +117,7 @@ holder.InitPinSizes = function (this: VotansMiniMap): undefined {
       return
     }
     const pins: LooseTable = pinsArg
-    const task = createAsyncTask("VotanPinSize" + caption)
+    const task = createAsyncTask("TemperPinSize" + caption)
     function updatePinSize(this: void): undefined {
       updateDrawLevels(pins)
     }
@@ -168,15 +168,15 @@ holder.InitPinSizes = function (this: VotansMiniMap): undefined {
   addPins(
     asAnyTable(zoMapPinAny.FAST_TRAVEL_KEEP_PIN_TYPES),
     "Keep Fast Travel",
-    SI_VOTANSMINIMAP_PINSIZE_KEEP_FAST_TRAVEL
+    SI_TEMPERMINIMAP_PINSIZE_KEEP_FAST_TRAVEL
   )
 
   addPins(asAnyTable(zoMapPinAny.OBJECTIVE_PIN_TYPES), "AvA Objectives", SI_MAPFILTER2)
-  addPins(asAnyTable(zoMapPinAny.KEEP_PIN_TYPES), "Keeps", SI_VOTANSMINIMAP_PINSIZE_KEEPS)
+  addPins(asAnyTable(zoMapPinAny.KEEP_PIN_TYPES), "Keeps", SI_TEMPERMINIMAP_PINSIZE_KEEPS)
   addPins(
     asAnyTable(zoMapPinAny.DISTRICT_PIN_TYPES),
     "Districts",
-    SI_VOTANSMINIMAP_PINSIZE_DISTRICTS
+    SI_TEMPERMINIMAP_PINSIZE_DISTRICTS
   )
   addPins(asAnyTable(zoMapPinAny.KILL_LOCATION_PIN_TYPES), "Kill Locations", SI_MAPFILTER3)
   addPins(asAnyTable(zoMapPinAny.FORWARD_CAMP_PIN_TYPES), "Forward Camps", SI_TOOLTIP_FORWARD_CAMP)
@@ -264,7 +264,7 @@ holder.InitPinSizes = function (this: VotansMiniMap): undefined {
 
   addCustomPin(asNumber(G.VotansFishermanPinType), "Votan's Fisherman Pins")
 
-  const task = createAsyncTask("VotanPinSizeOthers")
+  const task = createAsyncTask("TemperPinSizeOthers")
   function updatePin(this: void, _key: unknown, pin: LooseTable): undefined {
     const pinType = asNumber(asMiniMapPin(pin).GetPinType())
     if (pinScales[pinType] == null) {
@@ -295,24 +295,19 @@ holder.InitPinSizes = function (this: VotansMiniMap): undefined {
 
   const panelData: LamPanelData = {
     type: "panel",
-    name: "Votan's Mini Map Pin Sizes",
-    displayName: "Votan's Mini Map Pin Sizes",
-    author: "votan",
+    name: "Temper Mini Map Pin Sizes",
+    displayName: "Temper Mini Map Pin Sizes",
+    author: "AlanGaming",
     registerForRefresh: true,
     registerForDefaults: true,
   }
-  registerPanel(
-    TemperAddonMenu,
-    "TemperVotansMiniMapPinSizes_OptionsPanel",
-    panelData,
-    optionsTable
-  )
+  registerPanel(TemperAddonMenu, "TemperMiniMapPinSizes_OptionsPanel", panelData, optionsTable)
 }
 
 function playerActivated(this: void): undefined {
-  em.UnregisterForEvent("VOTAN_MINI_MAP_PINSIZES", EVENT_PLAYER_ACTIVATED)
+  em.UnregisterForEvent("TEMPER_MINI_MAP_PINSIZES", EVENT_PLAYER_ACTIVATED)
   if (holder.account.enableMap) {
     holder.InitPinSizes()
   }
 }
-em.RegisterForEvent("VOTAN_MINI_MAP_PINSIZES", EVENT_PLAYER_ACTIVATED, playerActivated)
+em.RegisterForEvent("TEMPER_MINI_MAP_PINSIZES", EVENT_PLAYER_ACTIVATED, playerActivated)

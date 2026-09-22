@@ -2,7 +2,7 @@ import {
   type FontSizeItem,
   type FrameStyleItem,
   holder,
-  type VotansMiniMap,
+  type TemperMiniMap,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/world/navigation/navigation-declarations/navigation-declarations.type-declaration.d.ts"
@@ -33,18 +33,18 @@ export const LOOKUP: Lookup = {
 }
 
 holder.GetFontSizeBySizeName = function (
-  this: VotansMiniMap,
+  this: TemperMiniMap,
   sizeName: string | number
 ): FontSizeItem | undefined {
   return LOOKUP.nameToFontSize[sizeName]
 }
 
-holder.GetStyleByName = function (this: VotansMiniMap, name: string): FrameStyleItem | undefined {
+holder.GetStyleByName = function (this: TemperMiniMap, name: string): FrameStyleItem | undefined {
   return LOOKUP.frameToFile[name]
 }
 
 holder.AddBorderStyle = function (
-  this: VotansMiniMap,
+  this: TemperMiniMap,
   name: string,
   displayText: string,
   setupFunction: (this: void, ...args: unknown[]) => unknown,
@@ -56,7 +56,7 @@ holder.AddBorderStyle = function (
   })
 }
 
-holder.AddFont = function (this: VotansMiniMap, font: string, displayText: string): undefined {
+holder.AddFont = function (this: TemperMiniMap, font: string, displayText: string): undefined {
   if (zo_plainstrfind(font, "/")) {
     this.fontFaces[font] = font
   } else {
@@ -68,7 +68,7 @@ holder.AddFont = function (this: VotansMiniMap, font: string, displayText: strin
 }
 
 holder.AddFontSize = function (
-  this: VotansMiniMap,
+  this: TemperMiniMap,
   fontSize: number,
   displayText: string,
   offsetY: number
@@ -79,7 +79,7 @@ holder.AddFontSize = function (
   })
 }
 
-holder.InitMapSettings = function (this: VotansMiniMap): undefined {
+holder.InitMapSettings = function (this: TemperMiniMap): undefined {
   LOOKUP.frameToFile = {}
   for (const item of LOOKUP.frameStyles) {
     LOOKUP.frameToFile[item.data.value] = item
@@ -102,10 +102,10 @@ holder.InitMapSettings = function (this: VotansMiniMap): undefined {
   }
   if (type(this.account.titleFontSize) === "string") {
     const font = CreateFont(
-      "VOTAN_MINIMAP_FONT",
+      "TEMPER_MINIMAP_FONT",
       "$(MEDIUM_FONT)|" + tostring(this.account.titleFontSize)
     )
-    VOTAN_MINIMAP_FONT = font
+    TEMPER_MINIMAP_FONT = font
     const [, fontSize] = font.GetFontInfo()
     this.account.titleFontSize = fontSize
   }

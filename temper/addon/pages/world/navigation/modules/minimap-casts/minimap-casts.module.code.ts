@@ -1,4 +1,4 @@
-import type { VotansMiniMap } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
+import type { TemperMiniMap } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import type {
   AnyAsyncTask,
   ColorDef,
@@ -17,8 +17,8 @@ import "akasha/temper/addon/pages/temper-core/temper-addon-menu/addon-menu-eso-w
 import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export function asVotansMiniMap(value: unknown): VotansMiniMap {
-  return value as VotansMiniMap
+export function asTemperMiniMap(value: unknown): TemperMiniMap {
+  return value as TemperMiniMap
 }
 
 export function asAnyTable(value: unknown): LooseTable {

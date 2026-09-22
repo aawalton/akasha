@@ -1,4 +1,4 @@
-import { asVotansMiniMap } from "akasha/temper/addon/pages/world/navigation/modules/minimap-casts/minimap-casts.module.code.ts"
+import { asTemperMiniMap } from "akasha/temper/addon/pages/world/navigation/modules/minimap-casts/minimap-casts.module.code.ts"
 import type {
   AccountSettings,
   PlayerSettings,
@@ -55,7 +55,7 @@ export interface FontSizeItem {
   data: FontSizeData
 }
 
-export interface VotansMiniMap {
+export interface TemperMiniMap {
   name: string
   zoneAlertMode: typeof ZONE_ALERT_MODE
   compassMode: typeof COMPASS_MODE
@@ -89,54 +89,54 @@ export interface VotansMiniMap {
   settingsScene?: LooseTable
   pinScales?: Record<string, number>
 
-  GetCurrentZoom: (this: VotansMiniMap) => number
-  SetCurrentZoom: (this: VotansMiniMap, zoom: number) => void
-  InitTweaks: (this: VotansMiniMap) => void
-  InitRequiredModifications: (this: VotansMiniMap) => void
-  InitCameraAngle: (this: VotansMiniMap) => void
-  InitMiniMap: (this: VotansMiniMap) => void
-  CalculateScale: (this: VotansMiniMap, pinType: number) => number
+  GetCurrentZoom: (this: TemperMiniMap) => number
+  SetCurrentZoom: (this: TemperMiniMap, zoom: number) => void
+  InitTweaks: (this: TemperMiniMap) => void
+  InitRequiredModifications: (this: TemperMiniMap) => void
+  InitCameraAngle: (this: TemperMiniMap) => void
+  InitMiniMap: (this: TemperMiniMap) => void
+  CalculateScale: (this: TemperMiniMap, pinType: number) => number
   ShowClock: (this: void) => void
-  RestorePosition: (this: VotansMiniMap) => void
-  StartFollowPlayer: (this: VotansMiniMap) => void
-  StopFollowPlayer: (this: VotansMiniMap) => void
-  UpdateVisibility: (this: VotansMiniMap) => void
-  SetMapHeader: (this: VotansMiniMap) => void
-  GoMiniMapMode: (this: VotansMiniMap, skipWorldMapUpdate?: boolean) => void
-  GoWorldMapMode: (this: VotansMiniMap, skipPanToPlayer?: boolean) => void
-  UpdateBorder: (this: VotansMiniMap) => void
-  UpdateCompass: (this: VotansMiniMap) => void
-  UpdateDrawLevel: (this: VotansMiniMap) => void
-  Initialize: (this: VotansMiniMap) => void
-  ToggleShowMap: (this: VotansMiniMap) => void
-  ToggleShowHUD: (this: VotansMiniMap) => void
-  ToggleShowCombat: (this: VotansMiniMap) => void
-  ToggleShowSiege: (this: VotansMiniMap) => void
-  ToggleShowInHousing: (this: VotansMiniMap) => void
-  ToogleZoom: (this: VotansMiniMap, enabled: boolean, zoom?: number) => void
-  StepZoom: (this: VotansMiniMap, add: boolean) => void
-  ToggleFixedOffset: (this: VotansMiniMap) => void
+  RestorePosition: (this: TemperMiniMap) => void
+  StartFollowPlayer: (this: TemperMiniMap) => void
+  StopFollowPlayer: (this: TemperMiniMap) => void
+  UpdateVisibility: (this: TemperMiniMap) => void
+  SetMapHeader: (this: TemperMiniMap) => void
+  GoMiniMapMode: (this: TemperMiniMap, skipWorldMapUpdate?: boolean) => void
+  GoWorldMapMode: (this: TemperMiniMap, skipPanToPlayer?: boolean) => void
+  UpdateBorder: (this: TemperMiniMap) => void
+  UpdateCompass: (this: TemperMiniMap) => void
+  UpdateDrawLevel: (this: TemperMiniMap) => void
+  Initialize: (this: TemperMiniMap) => void
+  ToggleShowMap: (this: TemperMiniMap) => void
+  ToggleShowHUD: (this: TemperMiniMap) => void
+  ToggleShowCombat: (this: TemperMiniMap) => void
+  ToggleShowSiege: (this: TemperMiniMap) => void
+  ToggleShowInHousing: (this: TemperMiniMap) => void
+  ToogleZoom: (this: TemperMiniMap, enabled: boolean, zoom?: number) => void
+  StepZoom: (this: TemperMiniMap, add: boolean) => void
+  ToggleFixedOffset: (this: TemperMiniMap) => void
 
   GetFontSizeBySizeName: (
-    this: VotansMiniMap,
+    this: TemperMiniMap,
     sizeName: string | number
   ) => FontSizeItem | undefined
-  GetStyleByName: (this: VotansMiniMap, name: string) => FrameStyleItem | undefined
+  GetStyleByName: (this: TemperMiniMap, name: string) => FrameStyleItem | undefined
   AddBorderStyle: (
-    this: VotansMiniMap,
+    this: TemperMiniMap,
     name: string,
     displayText: string,
     setupFunction: (this: void, ...args: unknown[]) => unknown,
     resetFunction: ((this: void, ...args: unknown[]) => unknown) | undefined
   ) => void
-  AddFont: (this: VotansMiniMap, font: string, displayText: string) => void
-  AddFontSize: (this: VotansMiniMap, fontSize: number, displayText: string, offsetY: number) => void
-  InitMapSettings: (this: VotansMiniMap) => void
-  InitSettings: (this: VotansMiniMap) => void
-  InitPinSizes: (this: VotansMiniMap) => void
+  AddFont: (this: TemperMiniMap, font: string, displayText: string) => void
+  AddFontSize: (this: TemperMiniMap, fontSize: number, displayText: string, offsetY: number) => void
+  InitMapSettings: (this: TemperMiniMap) => void
+  InitSettings: (this: TemperMiniMap) => void
+  InitPinSizes: (this: TemperMiniMap) => void
 }
 
-export const holder: VotansMiniMap = asVotansMiniMap({
+export const holder: TemperMiniMap = asTemperMiniMap({
   name: "TemperWorldMiniMap",
   zoneAlertMode: ZONE_ALERT_MODE,
   compassMode: COMPASS_MODE,

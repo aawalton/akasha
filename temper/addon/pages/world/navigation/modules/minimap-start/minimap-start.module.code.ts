@@ -7,7 +7,7 @@ import { holder } from "akasha/temper/addon/pages/world/navigation/modules/minim
 
 registerStrings()
 
-export function initVotansMiniMap(this: void): undefined {
+export function initTemperMiniMap(this: void): undefined {
   holder.Initialize()
   holder.InitSettings()
   return undefined

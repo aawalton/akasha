@@ -141,7 +141,7 @@ export function installCallbackPump(this: void): undefined {
   const self = holder
   const panZoom = asMiniMapPanAndZoom(self.panZoom)
   const glob = asAnyTable(globalThis)
-  const asyncCallbacks = createAsyncTask("VOTANS_MAP_DO_CALLBACKS")
+  const asyncCallbacks = createAsyncTask("TEMPER_MAP_DO_CALLBACKS")
   STATE.asyncCallbacks = asyncCallbacks
 
   function stopCallbacks(this: void): undefined {
@@ -328,7 +328,7 @@ export function installUpdateHandler(this: void): undefined {
   const orgUpdateMaybe = ZO_WorldMap.GetHandler("OnUpdate")
   const orgUpdate = orgUpdateMaybe != null ? orgUpdateMaybe : noOpExport
   let orgSetMapToPlayerLocation = SetMapToPlayerLocation
-  const updateTask = createAsyncTask("VotansMiniMapUpdateMap")
+  const updateTask = createAsyncTask("TemperMiniMapUpdateMap")
   let running = false
 
   function asyncUpdate1(this: void): undefined {

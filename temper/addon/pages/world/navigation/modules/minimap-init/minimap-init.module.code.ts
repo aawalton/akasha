@@ -9,7 +9,7 @@ import {
 import { installHandlers } from "akasha/temper/addon/pages/world/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"
 import {
   holder,
-  type VotansMiniMap,
+  type TemperMiniMap,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import { MINIMAP_MAP_MODE } from "akasha/temper/addon/pages/world/navigation/modules/minimap-names/minimap-names.module.code.ts"
 import {
@@ -45,7 +45,7 @@ import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-de
 
 const em = EVENT_MANAGER
 
-holder.InitMiniMap = function (this: VotansMiniMap): undefined {
+holder.InitMiniMap = function (this: TemperMiniMap): undefined {
   const self = this
 
   {
@@ -103,7 +103,7 @@ holder.InitMiniMap = function (this: VotansMiniMap): undefined {
   )
 
   const wm = GetWindowManager()
-  let control = asMiniMapControl(wm.CreateControl("VotanMiniMapBg", ZO_WorldMap, CT_BACKDROP))
+  let control = asMiniMapControl(wm.CreateControl("TemperMiniMapBg", ZO_WorldMap, CT_BACKDROP))
   control.SetAnchor(TOPLEFT, undefined, TOPLEFT, -8, -4)
   control.SetAnchor(BOTTOMRIGHT, ZO_WorldMapButtons, BOTTOMRIGHT, 8, 4)
   control.SetExcludeFromResizeToFitExtents(true)
@@ -150,7 +150,7 @@ holder.InitMiniMap = function (this: VotansMiniMap): undefined {
   em.RegisterForEvent(self.name, EVENT_PLAYER_ACTIVATED, playerActivated)
   em.RegisterForEvent(self.name, EVENT_PLAYER_DEACTIVATED, playerDeactivated)
 
-  holder.RestorePosition = function (this: VotansMiniMap): undefined {
+  holder.RestorePosition = function (this: TemperMiniMap): undefined {
     const orgZoWorldMapUpdateMap = ZO_WorldMap_UpdateMap
     ZO_WorldMap_UpdateMap = noOp
 

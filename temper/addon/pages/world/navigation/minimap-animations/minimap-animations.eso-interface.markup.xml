@@ -1,6 +1,6 @@
 <GuiXml>
 	<Animations>
-		<AnimationTimeline name="VotansMiniMapResizeAnimation">
+		<AnimationTimeline name="TemperMiniMapResizeAnimation">
 			<Animations>
 				<SizeAnimation duration="350">
 					<EasingFunction>

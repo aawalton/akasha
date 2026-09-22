@@ -4,7 +4,7 @@ import {
   asMiniMapPanAndZoom,
   asNumber,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-casts/minimap-casts.module.code.ts"
-import type { VotansMiniMap } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
+import type { TemperMiniMap } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import { MINIMAP_MAP_MODE } from "akasha/temper/addon/pages/world/navigation/modules/minimap-names/minimap-names.module.code.ts"
 import type { LooseTable } from "akasha/temper/addon/pages/world/navigation/modules/minimap-view-types/minimap-view-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -14,7 +14,7 @@ import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declar
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
-export function installFocusZoom(this: void, self: VotansMiniMap): undefined {
+export function installFocusZoom(this: void, self: TemperMiniMap): undefined {
   const zoMapPanAndZoom = asAnyTable(asAnyTable(getmetatable(ZO_WorldMap_GetPanAndZoom())).__index)
   function isNormalizedPointInsideMapBounds(this: void, x: number, y: number): boolean {
     return x > 0 && x < 1 && y > 0 && y < 1

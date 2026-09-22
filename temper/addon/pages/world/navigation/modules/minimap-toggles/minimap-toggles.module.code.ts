@@ -8,7 +8,7 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-casts/minimap-casts.module.code.ts"
 import {
   holder,
-  type VotansMiniMap,
+  type TemperMiniMap,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import { MINIMAP_MAP_MODE } from "akasha/temper/addon/pages/world/navigation/modules/minimap-names/minimap-names.module.code.ts"
 import type {
@@ -40,7 +40,7 @@ import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-de
 
 const async = TemperAsync
 
-holder.Initialize = function (this: VotansMiniMap): undefined {
+holder.Initialize = function (this: TemperMiniMap): undefined {
   const [titleColorR, titleColorG, titleColorB, titleColorA] = GetInterfaceColor(
     INTERFACE_COLOR_TYPE_TEXT_COLORS,
     INTERFACE_TEXT_COLOR_NORMAL
@@ -147,9 +147,9 @@ CALLBACK_MANAGER.RegisterCallback(
 )
 
 {
-  holder.ToggleShowMap = function (this: VotansMiniMap): undefined {
+  holder.ToggleShowMap = function (this: TemperMiniMap): undefined {
     this.player.showMap = !this.player.showMap
-    const label = GetString(SI_VOTANSMINIMAP_SHOW_MAP)
+    const label = GetString(SI_TEMPERMINIMAP_SHOW_MAP)
     const stateText = GetString(this.player.showMap ? SI_CHECK_BUTTON_ON : SI_CHECK_BUTTON_OFF)
     asAnyTable(CENTER_SCREEN_ANNOUNCE).AddMessage(
       EVENT_BROADCAST,
@@ -160,7 +160,7 @@ CALLBACK_MANAGER.RegisterCallback(
     this.UpdateVisibility()
   }
 
-  holder.ToggleShowHUD = function (this: VotansMiniMap): undefined {
+  holder.ToggleShowHUD = function (this: TemperMiniMap): undefined {
     if (this.isMounted) {
       this.account.showMounted = !this.account.showMounted
     } else if (GetCurrentZoneHouseId() !== 0) {
@@ -172,29 +172,29 @@ CALLBACK_MANAGER.RegisterCallback(
     this.UpdateCompass()
   }
 
-  holder.ToggleShowCombat = function (this: VotansMiniMap): undefined {
+  holder.ToggleShowCombat = function (this: TemperMiniMap): undefined {
     this.account.showCombat = !this.account.showCombat
     this.UpdateVisibility()
   }
 
-  holder.ToggleShowSiege = function (this: VotansMiniMap): undefined {
+  holder.ToggleShowSiege = function (this: TemperMiniMap): undefined {
     this.account.showSiege = !this.account.showSiege
     this.UpdateVisibility()
   }
 
-  holder.ToggleShowInHousing = function (this: VotansMiniMap): undefined {
+  holder.ToggleShowInHousing = function (this: TemperMiniMap): undefined {
     this.account.showInHousing = !this.account.showInHousing
     this.UpdateVisibility()
   }
 
-  holder.ToogleZoom = function (this: VotansMiniMap, enabled: boolean, zoom?: number): undefined {
+  holder.ToogleZoom = function (this: TemperMiniMap, enabled: boolean, zoom?: number): undefined {
     this.isSpecialZoom = enabled
     if (enabled) {
       this.specialZoom = zoom ?? 1
     }
   }
 
-  holder.StepZoom = function (this: VotansMiniMap, add: boolean): undefined {
+  holder.StepZoom = function (this: TemperMiniMap, add: boolean): undefined {
     const mode: unknown = WORLD_MAP_MANAGER.GetMode()
     if (
       mode !== MINIMAP_MAP_MODE ||
@@ -243,7 +243,7 @@ CALLBACK_MANAGER.RegisterCallback(
     return dx * dx + dy * dy
   }
 
-  holder.ToggleFixedOffset = function (this: VotansMiniMap): undefined {
+  holder.ToggleFixedOffset = function (this: TemperMiniMap): undefined {
     const mapId = GetMapTileTexture()
     const fixedMaps = this.account.fixedMaps
     const isNotFixed = fixedMaps[mapId] == null

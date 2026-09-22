@@ -6,7 +6,7 @@ import {
   asScene,
   asSceneFragment,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-casts/minimap-casts.module.code.ts"
-import type { VotansMiniMap } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
+import type { TemperMiniMap } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import type { LooseTable } from "akasha/temper/addon/pages/world/navigation/modules/minimap-view-types/minimap-view-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
@@ -16,7 +16,7 @@ import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
-export function buildLocationSettings(self: VotansMiniMap): LamControlData[] {
+export function buildLocationSettings(self: TemperMiniMap): LamControlData[] {
   let scene: LooseTable = asAnyTable(undefined)
   function addMap(this: void): undefined {
     if (self.wasMapAdded) {
@@ -50,7 +50,7 @@ export function buildLocationSettings(self: VotansMiniMap): LamControlData[] {
   return [
     {
       type: "checkbox",
-      name: GetString(SI_VOTANSMINIMAP_SHOW_IN_SETTINGS),
+      name: GetString(SI_TEMPERMINIMAP_SHOW_IN_SETTINGS),
       default: false,
       getFunc: () => self.wasMapAdded ?? false,
       setFunc: (value) => {
@@ -63,8 +63,8 @@ export function buildLocationSettings(self: VotansMiniMap): LamControlData[] {
     },
     {
       type: "slider",
-      name: GetString(SI_VOTANSMINIMAP_GRID_X),
-      tooltip: GetString(SI_VOTANSMINIMAP_GRID_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_GRID_X),
+      tooltip: GetString(SI_TEMPERMINIMAP_GRID_TOOLTIP),
       min: -w2,
       max: w2,
       step: 1,
@@ -78,8 +78,8 @@ export function buildLocationSettings(self: VotansMiniMap): LamControlData[] {
     },
     {
       type: "slider",
-      name: GetString(SI_VOTANSMINIMAP_GRID_Y),
-      tooltip: GetString(SI_VOTANSMINIMAP_GRID_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_GRID_Y),
+      tooltip: GetString(SI_TEMPERMINIMAP_GRID_TOOLTIP),
       min: -h2,
       max: h2,
       step: 1,
@@ -93,8 +93,8 @@ export function buildLocationSettings(self: VotansMiniMap): LamControlData[] {
     },
     {
       type: "slider",
-      name: GetString(SI_VOTANSMINIMAP_GRID_W),
-      tooltip: GetString(SI_VOTANSMINIMAP_GRID_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_GRID_W),
+      tooltip: GetString(SI_TEMPERMINIMAP_GRID_TOOLTIP),
       min: 14,
       max: w,
       step: 1,
@@ -115,8 +115,8 @@ export function buildLocationSettings(self: VotansMiniMap): LamControlData[] {
     },
     {
       type: "slider",
-      name: GetString(SI_VOTANSMINIMAP_GRID_H),
-      tooltip: GetString(SI_VOTANSMINIMAP_GRID_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_GRID_H),
+      tooltip: GetString(SI_TEMPERMINIMAP_GRID_TOOLTIP),
       min: 14,
       max: h,
       step: 1,

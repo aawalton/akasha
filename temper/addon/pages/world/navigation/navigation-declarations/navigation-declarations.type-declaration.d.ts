@@ -19,4 +19,4 @@ declare var TemperWorldMiniMap: TemperWorldMiniMapGlobal
 
 declare var TemperVotansMiniMap_SavedVariables: unknown
 
-declare let VOTAN_MINIMAP_FONT: FontObject | undefined
+declare let TEMPER_MINIMAP_FONT: FontObject | undefined

@@ -5,7 +5,7 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-casts/minimap-casts.module.code.ts"
 import {
   holder,
-  type VotansMiniMap,
+  type TemperMiniMap,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import { buildAppearanceSettings } from "akasha/temper/addon/pages/world/navigation/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"
 import { buildLocationSettings } from "akasha/temper/addon/pages/world/navigation/modules/minimap-settings-location/minimap-settings-location.module.code.ts"
@@ -18,14 +18,13 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const LAM = TemperAddonMenu
 
-holder.InitSettings = function (this: VotansMiniMap): undefined {
+holder.InitSettings = function (this: TemperMiniMap): undefined {
   const panelData: LamPanelData = {
     type: "panel",
-    name: "Votan's Mini Map",
-    displayName: "Votan's Mini Map",
-    author: "votan",
-    version: "2.2.0",
-    website: "http://www.esoui.com/downloads/info1399-VotansMiniMap.html",
+    name: "Temper Mini Map",
+    displayName: "Temper Mini Map",
+    author: "AlanGaming",
+    version: "1.0.0",
     registerForRefresh: true,
     registerForDefaults: true,
   }
@@ -34,8 +33,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
 
   optionsTable.push({
     type: "checkbox",
-    name: GetString(SI_VOTANSMINIMAP_WORLD_MAP_TWEAKS),
-    tooltip: GetString(SI_VOTANSMINIMAP_WORLD_MAP_TWEAKS_TOOLTIP),
+    name: GetString(SI_TEMPERMINIMAP_WORLD_MAP_TWEAKS),
+    tooltip: GetString(SI_TEMPERMINIMAP_WORLD_MAP_TWEAKS_TOOLTIP),
     default: this.accountDefaults.enableTweaks,
     getFunc: () => this.account.enableTweaks,
     setFunc: (value) => {
@@ -44,8 +43,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
   })
   optionsTable.push({
     type: "checkbox",
-    name: GetString(SI_KEYBINDINGS_CATEGORY_VOTANS_MINIMAP),
-    tooltip: GetString(SI_VOTANSMINIMAP_MINI_MAP_TOOLTIP),
+    name: GetString(SI_KEYBINDINGS_CATEGORY_TEMPER_MINIMAP),
+    tooltip: GetString(SI_TEMPERMINIMAP_MINI_MAP_TOOLTIP),
     default: this.accountDefaults.enableMap,
     getFunc: () => this.account.enableMap,
     setFunc: (value) => {
@@ -55,7 +54,7 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
   optionsTable.push({ type: "description", text: "" })
   optionsTable.push({
     type: "button",
-    name: GetString(SI_VOTANSMINIMAP_APPLY_BUTTON),
+    name: GetString(SI_TEMPERMINIMAP_APPLY_BUTTON),
     func: () => {
       const reloadui = asAnyTable(SLASH_COMMANDS)["/reloadui"]
       if (reloadui != null) {
@@ -67,12 +66,12 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
   if (this.account.enableMap) {
     optionsTable.push({
       type: "description",
-      text: GetString(SI_KEYBINDINGS_CATEGORY_VOTANS_MINIMAP),
+      text: GetString(SI_KEYBINDINGS_CATEGORY_TEMPER_MINIMAP),
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_VOTANSMINIMAP_ZOOM),
-      tooltip: GetString(SI_VOTANSMINIMAP_ZOOM_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_ZOOM),
+      tooltip: GetString(SI_TEMPERMINIMAP_ZOOM_TOOLTIP),
       min: 0.0,
       max: 2,
       step: 0.05,
@@ -85,8 +84,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_VOTANSMINIMAP_SUB_ZONE_ZOOM),
-      tooltip: GetString(SI_VOTANSMINIMAP_SUB_ZONE_ZOOM_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_SUB_ZONE_ZOOM),
+      tooltip: GetString(SI_TEMPERMINIMAP_SUB_ZONE_ZOOM_TOOLTIP),
       min: 0.0,
       max: 2,
       step: 0.05,
@@ -99,8 +98,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_VOTANSMINIMAP_DUNGEON_ZOOM),
-      tooltip: GetString(SI_VOTANSMINIMAP_DUNGEON_ZOOM_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_DUNGEON_ZOOM),
+      tooltip: GetString(SI_TEMPERMINIMAP_DUNGEON_ZOOM_TOOLTIP),
       min: 0.0,
       max: 2,
       step: 0.05,
@@ -113,8 +112,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_VOTANSMINIMAP_MOUNTED_ZOOM),
-      tooltip: GetString(SI_VOTANSMINIMAP_MOUNTED_ZOOM_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_MOUNTED_ZOOM),
+      tooltip: GetString(SI_TEMPERMINIMAP_MOUNTED_ZOOM_TOOLTIP),
       min: 0.0,
       max: 2,
       step: 0.05,
@@ -127,8 +126,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_VOTANSMINIMAP_BG_ZOOM),
-      tooltip: GetString(SI_VOTANSMINIMAP_BG_ZOOM_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_BG_ZOOM),
+      tooltip: GetString(SI_TEMPERMINIMAP_BG_ZOOM_TOOLTIP),
       min: 0.0,
       max: 2,
       step: 0.05,
@@ -141,8 +140,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_VOTANSMINIMAP_UNIT_PINS_MINIMUM_SIZE),
-      tooltip: GetString(SI_VOTANSMINIMAP_UNIT_PINS_MINIMUM_SIZE_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_UNIT_PINS_MINIMUM_SIZE),
+      tooltip: GetString(SI_TEMPERMINIMAP_UNIT_PINS_MINIMUM_SIZE_TOOLTIP),
       min: 0.65,
       max: 1,
       step: 0.01,
@@ -155,8 +154,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: GetString(SI_VOTANSMINIMAP_SHOW_MAP),
-      tooltip: GetString(SI_VOTANSMINIMAP_SHOW_MAP_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_SHOW_MAP),
+      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_MAP_TOOLTIP),
       default: this.defaults.showMap,
       getFunc: () => this.player.showMap,
       setFunc: (value) => {
@@ -166,8 +165,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: " |u12:0::|u" + GetString(SI_VOTANSMINIMAP_SHOW_HUD),
-      tooltip: GetString(SI_VOTANSMINIMAP_SHOW_HUD_TOOLTIP),
+      name: " |u12:0::|u" + GetString(SI_TEMPERMINIMAP_SHOW_HUD),
+      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_HUD_TOOLTIP),
       default: this.accountDefaults.showHUD,
       getFunc: () => this.account.showHUD,
       setFunc: (value) => {
@@ -177,8 +176,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: " |u12:0::|u" + GetString(SI_VOTANSMINIMAP_SHOW_LOOTING),
-      tooltip: GetString(SI_VOTANSMINIMAP_SHOW_LOOTING_TOOLTIP),
+      name: " |u12:0::|u" + GetString(SI_TEMPERMINIMAP_SHOW_LOOTING),
+      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_LOOTING_TOOLTIP),
       default: this.accountDefaults.showLoot,
       getFunc: () => this.account.showLoot,
       setFunc: (value) => {
@@ -188,8 +187,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: " |u12:0::|u" + GetString(SI_VOTANSMINIMAP_SHOW_MOUNTED),
-      tooltip: GetString(SI_VOTANSMINIMAP_SHOW_MOUNTED_TOOLTIP),
+      name: " |u12:0::|u" + GetString(SI_TEMPERMINIMAP_SHOW_MOUNTED),
+      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_MOUNTED_TOOLTIP),
       default: this.accountDefaults.showMounted,
       getFunc: () => this.account.showMounted,
       setFunc: (value) => {
@@ -199,8 +198,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: " |u12:0::|u" + GetString(SI_VOTANSMINIMAP_SHOW_COMBAT),
-      tooltip: GetString(SI_VOTANSMINIMAP_SHOW_COMBAT_TOOLTIP),
+      name: " |u12:0::|u" + GetString(SI_TEMPERMINIMAP_SHOW_COMBAT),
+      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_COMBAT_TOOLTIP),
       default: this.accountDefaults.showCombat,
       getFunc: () => this.account.showCombat,
       setFunc: (value) => {
@@ -210,8 +209,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: " |u12:0::|u" + GetString(SI_VOTANSMINIMAP_SHOW_SIEGE),
-      tooltip: GetString(SI_VOTANSMINIMAP_SHOW_SIEGE_TOOLTIP),
+      name: " |u12:0::|u" + GetString(SI_TEMPERMINIMAP_SHOW_SIEGE),
+      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_SIEGE_TOOLTIP),
       default: this.accountDefaults.showSiege,
       getFunc: () => this.account.showSiege,
       setFunc: (value) => {
@@ -221,8 +220,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: " |u12:0::|u" + GetString(SI_VOTANSMINIMAP_SHOW_IN_HOUSING),
-      tooltip: GetString(SI_VOTANSMINIMAP_SHOW_IN_HOUSING_TOOLTIP),
+      name: " |u12:0::|u" + GetString(SI_TEMPERMINIMAP_SHOW_IN_HOUSING),
+      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_IN_HOUSING_TOOLTIP),
       default: this.accountDefaults.showInHousing,
       getFunc: () => this.account.showInHousing,
       setFunc: (value) => {
@@ -232,19 +231,19 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: GetString(SI_VOTANSMINIMAP_ASYNC_UPDATE),
-      tooltip: GetString(SI_VOTANSMINIMAP_ASYNC_UPDATE_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_ASYNC_UPDATE),
+      tooltip: GetString(SI_TEMPERMINIMAP_ASYNC_UPDATE_TOOLTIP),
       default: this.accountDefaults.asyncUpdate,
       getFunc: () => this.account.asyncUpdate,
       setFunc: (value) => {
         this.account.asyncUpdate = asBoolean(value)
       },
     })
-    optionsTable.push(header(GetString(SI_VOTANSMINIMAP_KEYBINDINGS_ZOOM)))
+    optionsTable.push(header(GetString(SI_TEMPERMINIMAP_KEYBINDINGS_ZOOM)))
     optionsTable.push({
       type: "checkbox",
-      name: GetString(SI_VOTANSMINIMAP_ZOOM_TO_PLAYER),
-      tooltip: GetString(SI_VOTANSMINIMAP_ZOOM_TO_PLAYER_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_ZOOM_TO_PLAYER),
+      tooltip: GetString(SI_TEMPERMINIMAP_ZOOM_TO_PLAYER_TOOLTIP),
       default: this.accountDefaults.zoomToPlayer,
       getFunc: () => this.account.zoomToPlayer,
       setFunc: (value) => {
@@ -253,8 +252,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_VOTANSMINIMAP_ZOOM_OUT),
-      tooltip: GetString(SI_VOTANSMINIMAP_ZOOM_OUT_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_ZOOM_OUT),
+      tooltip: GetString(SI_TEMPERMINIMAP_ZOOM_OUT_TOOLTIP),
       min: 0.0,
       max: 1,
       step: 0.05,
@@ -267,8 +266,8 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_VOTANSMINIMAP_ZOOM_IN),
-      tooltip: GetString(SI_VOTANSMINIMAP_ZOOM_IN_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_ZOOM_IN),
+      tooltip: GetString(SI_TEMPERMINIMAP_ZOOM_IN_TOOLTIP),
       min: 1,
       max: 2,
       step: 0.05,
@@ -279,11 +278,11 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
         this.account.zoomIn = asNumber(value)
       },
     })
-    optionsTable.push(header(GetString(SI_VOTANSMINIMAP_APPEARANCE)))
+    optionsTable.push(header(GetString(SI_TEMPERMINIMAP_APPEARANCE)))
     optionsTable.push({
       type: "checkbox",
-      name: GetString(SI_VOTANSMINIMAP_LOCK_POSITION),
-      tooltip: GetString(SI_VOTANSMINIMAP_LOCK_POSITION_TOOLTIP),
+      name: GetString(SI_TEMPERMINIMAP_LOCK_POSITION),
+      tooltip: GetString(SI_TEMPERMINIMAP_LOCK_POSITION_TOOLTIP),
       default: this.accountDefaults.lockWindow,
       getFunc: () => this.account.lockWindow,
       setFunc: (value) => {
@@ -300,5 +299,5 @@ holder.InitSettings = function (this: VotansMiniMap): undefined {
     }
   }
 
-  registerPanel(LAM, "TemperVotansMiniMap_OptionsPanel", panelData, optionsTable)
+  registerPanel(LAM, "TemperMiniMap_OptionsPanel", panelData, optionsTable)
 }

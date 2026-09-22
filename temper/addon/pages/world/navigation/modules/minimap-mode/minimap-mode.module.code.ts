@@ -7,7 +7,7 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-casts/minimap-casts.module.code.ts"
 import {
   holder,
-  type VotansMiniMap,
+  type TemperMiniMap,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import { MINIMAP_MAP_MODE } from "akasha/temper/addon/pages/world/navigation/modules/minimap-names/minimap-names.module.code.ts"
 import {
@@ -24,7 +24,7 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
-holder.GoWorldMapMode = function (this: VotansMiniMap, skipPanToPlayer?: boolean): undefined {
+holder.GoWorldMapMode = function (this: TemperMiniMap, skipPanToPlayer?: boolean): undefined {
   const glob = asAnyTable(globalThis)
   this.StopFollowPlayer()
   if (WORLD_MAP_MANAGER.IsInMode(MINIMAP_MAP_MODE)) {

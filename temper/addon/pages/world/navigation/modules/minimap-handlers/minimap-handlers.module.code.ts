@@ -10,7 +10,7 @@ import {
 import { installFocusZoom } from "akasha/temper/addon/pages/world/navigation/modules/minimap-focus-zoom/minimap-focus-zoom.module.code.ts"
 import {
   holder,
-  type VotansMiniMap,
+  type TemperMiniMap,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-holder/minimap-holder.module.code.ts"
 import { MINIMAP_MAP_MODE } from "akasha/temper/addon/pages/world/navigation/modules/minimap-names/minimap-names.module.code.ts"
 import { noOp } from "akasha/temper/addon/pages/world/navigation/modules/minimap-shared/minimap-shared.module.code.ts"
@@ -45,7 +45,7 @@ import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-de
 const em = EVENT_MANAGER
 const async = TemperAsync
 
-export function installHandlers(this: void, self: VotansMiniMap): undefined {
+export function installHandlers(this: void, self: TemperMiniMap): undefined {
   function zoneChanged(
     this: void,
     _event: unknown,
@@ -74,7 +74,7 @@ export function installHandlers(this: void, self: VotansMiniMap): undefined {
       owner: self.name,
       showProgressBar: false,
     })
-    holder.SetMapHeader = function (this: VotansMiniMap): undefined {
+    holder.SetMapHeader = function (this: TemperMiniMap): undefined {
       if (WORLD_MAP_MANAGER.IsInMode(MINIMAP_MAP_MODE)) {
         WORLD_MAP_MANAGER.SetMapHeader(headerInfo)
       }
@@ -127,7 +127,7 @@ export function installHandlers(this: void, self: VotansMiniMap): undefined {
       STATE.lastZoom = -1
       self.SetMapHeader()
     }
-    holder.GoMiniMapMode = function (this: VotansMiniMap, skipWorldMapUpdate?: boolean): undefined {
+    holder.GoMiniMapMode = function (this: TemperMiniMap, skipWorldMapUpdate?: boolean): undefined {
       const orgZoWorldMapUpdateMap = ZO_WorldMap_UpdateMap
 
       const mode = asNumber(WORLD_MAP_MANAGER.GetMode())
@@ -227,12 +227,12 @@ export function installHandlers(this: void, self: VotansMiniMap): undefined {
     ): undefined {
       if (newState === SCENE_FRAGMENT_SHOWING) {
         if (self.account.showClock) {
-          em.RegisterForUpdate("VOTAN_MAP_CLOCK", 5000, holder.ShowClock)
+          em.RegisterForUpdate("TEMPER_MAP_CLOCK", 5000, holder.ShowClock)
           holder.ShowClock()
         }
         self.SetMapHeader()
       } else if (newState === SCENE_FRAGMENT_HIDING) {
-        em.UnregisterForUpdate("VOTAN_MAP_CLOCK")
+        em.UnregisterForUpdate("TEMPER_MAP_CLOCK")
       }
       const hidden = !self.account.showClock
       asMiniMapControl(self.clockRealTime).SetHidden(hidden)
