@@ -34,7 +34,7 @@ export const fileArguing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path `--remove` names that no commit and no working tree holds is refused.",
+      statement: "A path `--remove` names that no commit and no checkout holds is refused.",
     },
     {
       decisionKind: "decision-kind/departure",

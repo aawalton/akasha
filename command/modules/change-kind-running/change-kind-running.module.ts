@@ -20,7 +20,7 @@ export const changeKindRunning = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here writes into the worktree.",
+      statement: "Nothing here writes into the checkout.",
     },
     {
       decisionKind: "decision-kind/absence",

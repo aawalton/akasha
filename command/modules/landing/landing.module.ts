@@ -45,7 +45,7 @@ export const landing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A body the change does not touch is read from the base commit rather than from the working tree.",
+        "A body the change does not touch is read from the base commit rather than from the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -28,11 +28,11 @@ export const draftKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A draft takes no hold over the worktree.",
+      statement: "A draft takes no hold over the checkout.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A draft writes no body the change carries into the worktree.",
+      statement: "A draft writes no body the change carries into the checkout.",
     },
     {
       decisionKind: "decision-kind/absence",
