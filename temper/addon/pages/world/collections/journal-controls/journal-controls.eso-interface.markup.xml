@@ -21,7 +21,7 @@
 						<EditBox name="$(parent)Box" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText" />
 					</Controls>
 				</Backdrop>
-				<Label name="$(parent)Label" text="SI_EXTENDED_JOURNAL_SEARCH" inherits="TemperWorldJournalHeaderLabel">
+				<Label name="$(parent)Label" text="SI_TEMPER_JOURNAL_SEARCH" inherits="TemperWorldJournalHeaderLabel">
 					<Anchor point="RIGHT" relativePoint="LEFT" relativeTo="$(parent)Field" offsetX="-8" />
 				</Label>
 			</Controls>
@@ -43,7 +43,7 @@
 				<Label name="$(parent)SelectedItemText" inherits="TemperWorldJournalFooterLabel">
 					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Caption" offsetX="4" />
 				</Label>
-				<Label name="$(parent)Change" text="SI_EXTENDED_JOURNAL_CHANGE" inherits="TemperWorldJournalFooterLabel">
+				<Label name="$(parent)Change" text="SI_TEMPER_JOURNAL_CHANGE" inherits="TemperWorldJournalFooterLabel">
 					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)SelectedItemText" offsetX="4" />
 				</Label>
 				<Button name="$(parent)OpenDropdown" inherits="ZO_DropdownButton" hidden="true" />

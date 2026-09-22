@@ -17,8 +17,8 @@ declare const SI_ANTIQUITY_FRAGMENTS: number
 declare const SI_COLLECTIBLE_ACTION_ADD_FAVORITE: number
 declare const SI_COLLECTIBLE_ACTION_REMOVE_FAVORITE: number
 
-declare const SI_EXTENDED_JOURNAL_ACCOUNT: number
-declare const SI_EXTENDED_JOURNAL_SERVER: number
+declare const SI_TEMPER_JOURNAL_ACCOUNT: number
+declare const SI_TEMPER_JOURNAL_SERVER: number
 
 declare const SI_ITEMBROWSER_TITLE: number
 declare const SI_ITEMBROWSER_TYPE_CRAFTED: number

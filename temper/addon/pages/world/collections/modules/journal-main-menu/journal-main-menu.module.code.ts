@@ -15,7 +15,7 @@ const Controls = Internal.controls
 
 const JOURNAL_EVENT_NAMESPACE = Internal.name + "Journal"
 
-ZO_CreateStringId("SI_KEYBINDINGS_CATEGORY_EXTENDED_JOURNAL", GetString(SI_EXTENDED_JOURNAL_NAME))
+ZO_CreateStringId("SI_KEYBINDINGS_CATEGORY_EXTENDED_JOURNAL", GetString(SI_TEMPER_JOURNAL_NAME))
 
 EVENT_MANAGER.RegisterForEvent(
   JOURNAL_EVENT_NAMESPACE,
@@ -33,7 +33,7 @@ EVENT_MANAGER.RegisterForEvent(
       return
     }
 
-    SI_BINDING_NAME_EXTENDED_JOURNAL = SI_EXTENDED_JOURNAL_NAME
+    SI_BINDING_NAME_EXTENDED_JOURNAL = SI_TEMPER_JOURNAL_NAME
 
     if (
       MAIN_MENU_KEYBOARD.categoryBar !== undefined &&
@@ -50,7 +50,7 @@ EVENT_MANAGER.RegisterForEvent(
 
       ZO_MenuBar_AddButton(categoryBar, {
         descriptor: Internal.name,
-        categoryName: SI_EXTENDED_JOURNAL_NAME,
+        categoryName: SI_TEMPER_JOURNAL_NAME,
         binding: "EXTENDED_JOURNAL",
         normal: iconPrefix + "up.dds",
         pressed: iconPrefix + "down.dds",

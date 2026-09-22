@@ -145,7 +145,7 @@ ItemBrowserList.Setup = function (this: ItemBrowserListInstance): undefined {
     if (servers.length > 1 || (servers[0] !== undefined && servers[0].accounts.length > 1)) {
       const accountControl = requireChild(this.frame, "AccountDrop")
       requireChild<LabelControl>(accountControl, "Caption").SetText(
-        GetString(SI_EXTENDED_JOURNAL_ACCOUNT)
+        GetString(SI_TEMPER_JOURNAL_ACCOUNT)
       )
       accountControl.SetHidden(false)
       this.accountDrop = ZO_ComboBox_ObjectFromContainer(accountControl)
@@ -153,7 +153,7 @@ ItemBrowserList.Setup = function (this: ItemBrowserListInstance): undefined {
       if (servers.length > 1) {
         const serverControl = requireChild(this.frame, "ServerDrop")
         requireChild<LabelControl>(serverControl, "Caption").SetText(
-          GetString(SI_EXTENDED_JOURNAL_SERVER)
+          GetString(SI_TEMPER_JOURNAL_SERVER)
         )
         serverControl.SetHidden(false)
         this.serverDrop = ZO_ComboBox_ObjectFromContainer(serverControl)
