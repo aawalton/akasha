@@ -13,7 +13,7 @@ export const PROMETHEUS_IMAGE = "prom/prometheus:v2.54.1"
 export const KUBE_STATE_METRICS_IMAGE =
   "registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0"
 export const NODE_EXPORTER_IMAGE = "prom/node-exporter:v1.8.2"
-export const DCGM_EXPORTER_IMAGE = "nvcr.io/nvidia/k8s/dcgm-exporter:3.3.8-3.6.0-ubuntu22.04"
+export const DCGM_EXPORTER_IMAGE = "nvcr.io/nvidia/k8s/dcgm-exporter:4.2.3-4.1.3-ubuntu22.04"
 export const BUSYBOX_IMAGE = "busybox:1.36"
 
 export const NAMESPACE_LABELS = kubernetesLabels({
