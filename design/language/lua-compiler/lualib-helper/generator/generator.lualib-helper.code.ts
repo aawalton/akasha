@@ -1,7 +1,6 @@
 import { __TS__CountVarargs } from "akasha/design/language/lua-compiler/lualib-helper/count-varargs/count-varargs.lualib-helper.code.ts"
 import { __TS__Unpack } from "akasha/design/language/lua-compiler/lualib-helper/unpack/unpack.lualib-helper.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
 
 export interface GeneratorIterator {
   ____coroutine: LuaThread
