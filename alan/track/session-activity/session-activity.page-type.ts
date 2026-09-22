@@ -4,7 +4,7 @@ export const sessionActivity = {
   id: "01a06589-d117-759e-b934-fd346ffba4fd",
   type: "page-type/page-type",
   slug: "session-activity",
-  definition: "a kind of thing Alan spends his time on",
+  definition: "a kind of thing Alan spends his time doing",
   extends: ["page-type/page"],
   parts: ["number-property/default-difficulty"],
   properties: [

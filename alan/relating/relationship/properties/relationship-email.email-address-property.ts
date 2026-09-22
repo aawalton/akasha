@@ -5,6 +5,6 @@ export const relationshipEmail = {
   type: "page-type/email-address-property",
   slug: "relationship-email",
   propertySlug: "email",
-  definition: "the address Alan writes to this person at",
+  definition: "this person's email address",
   types: "ts",
 } as const satisfies EmailAddressProperty

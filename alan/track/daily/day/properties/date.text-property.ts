@@ -5,7 +5,7 @@ export const date = {
   type: "page-type/text-property",
   slug: "date",
   propertySlug: "date",
-  definition: "the day a record is of",
+  definition: "a record's day",
   maxLength: 10,
   nameFormat: null,
   decisions: [

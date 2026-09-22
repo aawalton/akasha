@@ -4,7 +4,7 @@ export const requestsApiRequests = {
   id: "01a0c54b-6eaf-7e6f-9ed5-6b1d7145650a",
   type: "page-type/route",
   slug: "requests-api-requests",
-  definition: "the post a contributor opens a feature request with, or boosts one with",
+  definition: "a contributor's post opening or boosting a feature request",
   code: "ts",
   urlPath: "api/requests",
   decisions: [

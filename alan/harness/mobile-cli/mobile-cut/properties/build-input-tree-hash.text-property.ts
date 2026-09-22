@@ -5,7 +5,7 @@ export const buildInputTreeHash = {
   type: "page-type/text-property",
   slug: "build-input-tree-hash",
   propertySlug: "build-input-tree-hash",
-  definition: "the hash of everything a build reads, which a cut is judged owed against",
+  definition: "the hash of everything a build reads, which says whether a cut is owed",
   maxLength: 64,
   nameFormat: null,
   decisions: [

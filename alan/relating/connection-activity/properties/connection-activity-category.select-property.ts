@@ -5,7 +5,7 @@ export const connectionActivityCategory = {
   type: "page-type/select-property",
   slug: "connection-activity-category",
   propertySlug: "connection-activity-category",
-  definition: "the company it puts him in",
+  definition: "an activity's kind of company",
   values: ["in-person", "group", "spouse", "online-real", "parasocial", "ai", "solo"],
   types: "ts",
 } as const satisfies SelectProperty

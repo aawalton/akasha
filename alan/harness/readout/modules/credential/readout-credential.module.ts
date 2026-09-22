@@ -4,7 +4,7 @@ export const readoutCredential = {
   id: "01a054d9-d41f-796f-a2ff-b2c0fa9863a0",
   type: "page-type/module",
   slug: "readout-credential",
-  definition: "what a readout route admits a caller on",
+  definition: "the secret that admits a caller to a readout route",
   code: "ts",
   decisions: [
     {

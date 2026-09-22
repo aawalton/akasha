@@ -5,7 +5,7 @@ export const heardSource = {
   type: "page-type/text-property",
   slug: "heard-source",
   propertySlug: "heard-source",
-  definition: "where a heard track was learned from",
+  definition: "where a heard track was learned",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

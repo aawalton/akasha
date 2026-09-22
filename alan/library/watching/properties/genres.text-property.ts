@@ -5,7 +5,7 @@ export const genres = {
   type: "page-type/text-property",
   slug: "genres",
   propertySlug: "genres",
-  definition: "a kind the provider files a collection under",
+  definition: "a kind the provider gives a collection",
   maxLength: 100,
   nameFormat: null,
   decisions: [

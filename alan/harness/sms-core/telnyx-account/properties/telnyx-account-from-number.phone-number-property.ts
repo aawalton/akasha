@@ -5,6 +5,6 @@ export const telnyxAccountFromNumber = {
   type: "page-type/phone-number-property",
   slug: "telnyx-account-from-number",
   propertySlug: "from-number",
-  definition: "the number a text is sent from",
+  definition: "the number that sends a text",
   types: "ts",
 } as const satisfies PhoneNumberProperty
