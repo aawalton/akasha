@@ -4,7 +4,7 @@ export const inventoryItemFacts = {
   id: "01a068e2-226e-7e6c-9675-79e0e369017b",
   type: "page-type/module",
   slug: "inventory-item-facts",
-  definition: "the facts a rule walk reads off one item held in a place",
+  definition: "the facts a rule walk reads off an item held in a place",
   code: "ts",
   decisions: [
     {

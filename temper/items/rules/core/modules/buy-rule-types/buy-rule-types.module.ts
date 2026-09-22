@@ -4,7 +4,7 @@ export const buyRuleTypes = {
   id: "01a060d9-44c9-749c-9acb-57edbe6a08a9",
   type: "page-type/module",
   slug: "buy-rule-types",
-  definition: "the shape of a rule saying how many of one item to keep bought",
+  definition: "the shape of a rule saying how many of an item to keep bought",
   code: "ts",
   decisions: [
     {

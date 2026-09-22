@@ -4,7 +4,7 @@ export const inventoryRuleCompiler = {
   id: "01a06100-3bed-7b56-8709-2a82c720204e",
   type: "page-type/module",
   slug: "inventory-rule-compiler",
-  definition: "one item rule turned into the compiled form the game addon and the web matcher read",
+  definition: "an item rule turned into the compiled form the game addon and the web matcher read",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const temperCatalogDomain = {
   id: "01a05fc4-7a8e-7cdd-859d-6e17f19d2d93",
   type: "page-type/page-type",
   slug: "temper-catalog-domain",
-  definition: "one area of the game a capture mirrors",
+  definition: "an area of the game a capture mirrors",
   extends: ["page-type/temper-catalog-thing"],
   parts: [
     "boolean-property/dormant",

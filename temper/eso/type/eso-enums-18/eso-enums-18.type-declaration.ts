@@ -4,7 +4,7 @@ export const esoEnums18 = {
   id: "01a0608f-b082-79e5-8830-dd97d6f15fc0",
   type: "page-type/type-declaration",
   slug: "eso-enums-18",
-  definition: "one part of the numbers the game names its kinds by",
+  definition: "a part of the numbers the game names its kinds by",
   d: "ts",
   generated: { writtenBy: "akasha temper eso generate declaration", sourceVersion: 101050 },
 } as const satisfies TypeDeclaration
