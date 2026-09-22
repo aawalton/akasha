@@ -18,7 +18,7 @@ import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawin
 const TAKES = [outArgument, pictureSubject] as const
 
 function saidOfNoWindow(root: string, asked: string): string {
-  const here = namesDrawn(uiWindowSlugs().map((one) => `\`${one}\``))
+  const here = namesDrawn(uiWindowSlugs())
   const declared = windowsDeclaredIn(root).find((one) => one.toLowerCase() === asked.toLowerCase())
   if (declared !== undefined) {
     return (
