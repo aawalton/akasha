@@ -6,12 +6,20 @@ export const deviceTokenToken = {
   slug: "device-token-token",
   propertySlug: "token",
   definition: "the value Apple delivers a push to",
-  maxLength: 64,
+  maxLength: 160,
   nameFormat: null,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "Apple writes a token in upper hexadecimal and the token is kept as given.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A token for a live activity runs longer than a token for a device.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The length here admits the longer of the two rather than one length for each.",
     },
   ],
   types: "ts",
