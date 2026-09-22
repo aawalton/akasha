@@ -32,5 +32,9 @@ export const rynStandardAgentEnglish = {
     "A construction enters the grammar only where Alan has admitted that construction against examples.",
     "One word, construction, part of speech or phrase kind is put to Alan at a time, with up to five definitions that addition brings closer to admittance.",
     "A word a domain states on its own page enters the lexicon, and any other word enters only where Alan has admitted that word.",
+    '"A word a taboo term or a banned term names does not enter the lexicon."',
+    '"A word enters the lexicon only where no plainer word says the same thing everywhere akasha writes that word."',
+    '"A word the domain around it gives a sense to is declared by that domain rather than entering the lexicon."',
+    '"A word enters the lexicon only where that word is one part of speech everywhere akasha writes that word."',
   ],
 } as const satisfies Initiative

@@ -11,11 +11,6 @@ export const commonLanguageTerm = {
       decisionKind: "decision-kind/departure",
       statement: "A word akasha writes in its ordinary sense states no definition of its own.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A word the domain around it gives a sense to is declared by that domain rather than written here.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
