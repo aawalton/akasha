@@ -174,6 +174,10 @@ export const check = {
       statement:
         "A run is held to the ceiling stated for the code that ran, and a run at deploy to the audit group's.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An audit runs in a pod holding a checkout of the commit that audit judges.",
+    },
   ],
   directives: [
     {
