@@ -4,6 +4,7 @@ import {
   blockFor,
   bodyWith,
   isEntry,
+  reachOf,
   rolledTo,
   spelledFrom,
 } from "akasha/code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"
@@ -21,18 +22,28 @@ const BODIES: Record<string, string> = {
   "design/look/look.module.code.tsx": 'import { deep } from "./deep/deep.tsx"\n',
   "design/look/deep/deep.tsx": 'import { gone } from "../../../nowhere/gone.tsx"\n',
   "quiet/quiet.ts": "",
+  "one/app/panel.tsx": 'import { drawn } from "../../far/kept/drawings.module.code.ts"\n',
+  "far/kept/drawings.module.code.ts":
+    'const found = import.meta.glob("../../**/*.drawn-component.code.tsx")\n',
+  "wide/screen/screen.drawn-component.code.tsx":
+    'import { rail } from "../rail/rail.module.code.tsx"\n',
+  "wide/rail/rail.module.code.tsx": "",
+  "one/app/lone.tsx": 'import { away } from "../../far/away/away.module.code.ts"\n',
+  "far/away/away.module.code.ts": 'const found = import.meta.glob("../../**/*.nowhere.code.tsx")\n',
 }
 
 const KNOWN = new Set(Object.keys(BODIES))
+
+const CODED = [...KNOWN]
 
 const INDEX = shadowAt(codeRoot()).index
 
 const bodyAt = (path: string): string | null => BODIES[path] ?? null
 
+const ASKED = { index: INDEX, bodyAt, through: (one: string) => KNOWN.has(one) }
+
 function reachedFrom(seeds: readonly string[]): ReadonlySet<string> {
-  return new Set(
-    closureOf(imports, seeds, { index: INDEX, bodyAt, through: (one) => KNOWN.has(one) })
-  )
+  return new Set(closureOf(imports, seeds, ASKED))
 }
 
 test("a stylesheet whose rules import Tailwind is an entry and one that does not is not", () => {
@@ -71,6 +82,40 @@ test("a name landing on no file in the repository is reached by nothing", () => 
 test("a glob names where a reached tsx sits, and the app's own tree names none", () => {
   const found = reachedFrom(["one/app/root.tsx"])
   expect(blockFor(ENTRY, "one/app", found)).toBe('@source "../../../design/look/**/*.{ts,tsx}";')
+})
+
+test("a file a bundler's own glob names is reached, and so is what that file imports", () => {
+  const found = reachOf(["one/app/panel.tsx"], CODED, ASKED)
+  expect([...found].sort()).toEqual([
+    "far/kept/drawings.module.code.ts",
+    "one/app/panel.tsx",
+    "wide/rail/rail.module.code.tsx",
+    "wide/screen/screen.drawn-component.code.tsx",
+  ])
+})
+
+test("a tree only a glob reaches is named by a glob of its own", () => {
+  const found = reachOf(["one/app/panel.tsx"], CODED, ASKED)
+  expect(blockFor(ENTRY, "one/app", found)).toBe(
+    [
+      '@source "../../../wide/rail/**/*.{ts,tsx}";',
+      '@source "../../../wide/screen/**/*.{ts,tsx}";',
+    ].join("\n")
+  )
+})
+
+test("what a static import reaches is reached whether or not a glob is met", () => {
+  const found = reachOf(["one/app/root.tsx"], CODED, ASKED)
+  expect([...found].sort()).toEqual([
+    "design/look/deep/deep.tsx",
+    "design/look/look.module.code.tsx",
+    "one/app/root.tsx",
+  ])
+})
+
+test("a pattern landing on no file in the repository reaches nothing more", () => {
+  const found = reachOf(["one/app/lone.tsx"], CODED, ASKED)
+  expect([...found].sort()).toEqual(["far/away/away.module.code.ts", "one/app/lone.tsx"])
 })
 
 test("a glob is spelled against the folder the stylesheet sits in", () => {

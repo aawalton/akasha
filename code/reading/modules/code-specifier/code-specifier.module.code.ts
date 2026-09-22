@@ -12,6 +12,10 @@ const CLIMBS = /^\.\.(\/|$)/
 
 const STAR = "*"
 
+const GLOB = "glob"
+
+const META = "meta"
+
 const PARTED_BY = "/"
 
 const ROOT = "akasha/"
@@ -79,6 +83,23 @@ export function placedIn(path: string, text: string): readonly Specified[] {
     if (ts.isImportTypeNode(node) && ts.isLiteralTypeNode(node.argument))
       took(node.argument.literal, true)
   })
+}
+
+function globbing(said: ts.Expression): boolean {
+  if (!ts.isPropertyAccessExpression(said) || !said.name.text.startsWith(GLOB)) return false
+  return ts.isMetaProperty(said.expression) && said.expression.name.text === META
+}
+
+function patternsOf(node: ts.Expression | undefined): readonly ts.Expression[] {
+  if (node === undefined) return []
+  return ts.isArrayLiteralExpression(node) ? [...node.elements] : [node]
+}
+
+export function globbedIn(path: string, text: string): readonly string[] {
+  return reading(path, text, (node, took) => {
+    if (!ts.isCallExpression(node) || !globbing(node.expression)) return
+    for (const one of patternsOf(node.arguments[0])) took(one)
+  }).map((one) => one.text)
 }
 
 export function spelledIn(path: string, text: string): readonly Placed[] {

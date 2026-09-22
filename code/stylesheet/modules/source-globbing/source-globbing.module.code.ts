@@ -3,10 +3,16 @@ import type { FileChange } from "akasha/change/modules/answer/change-answer.modu
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
-import { placedIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
+import {
+  globbedIn,
+  placedIn,
+} from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import {
+  type Asked,
+  closureOf,
+} from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import {
   everyOfType,
@@ -20,6 +26,7 @@ import {
   uncommittedBesideAt,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import picomatch from "picomatch"
 
 const MANIFEST = "package.json"
 
@@ -57,6 +64,60 @@ const HELD_TS = "ts"
 
 const HELD_CSS = "css"
 
+const GLOBBING = "import.meta.glob"
+
+function anything(): boolean {
+  return true
+}
+
+function nothingThere(): null {
+  return null
+}
+
+function namedBy(key: string, coded: readonly string[]): readonly string[] {
+  const matches = picomatch(key)
+  return coded.filter((one) => matches(one))
+}
+
+function globbedFrom(
+  found: readonly string[],
+  coded: readonly string[],
+  bodyAt: (path: string) => string | null,
+  named: Map<string, readonly string[]>
+): readonly string[] {
+  const held: string[] = []
+  for (const at of found) {
+    const body = typeScripted(at) ? bodyAt(at) : null
+    if (body === null || !body.includes(GLOBBING)) continue
+    for (const pattern of globbedIn(at, body)) {
+      const key = join(folderOf(at), pattern)
+      const there = named.get(key) ?? namedBy(key, coded)
+      named.set(key, there)
+      held.push(...there)
+    }
+  }
+  return held
+}
+
+export function reachOf(
+  seeds: readonly string[],
+  coded: readonly string[],
+  asked: Asked,
+  named: Map<string, readonly string[]> = new Map()
+): ReadonlySet<string> {
+  const bodyAt = asked.bodyAt ?? nothingThere
+  const through = asked.through ?? anything
+  const found = new Set<string>()
+  const asking = { ...asked, through: (one: string) => through(one) && !found.has(one) }
+  let taking = seeds
+  while (taking.length > 0) {
+    const fresh = closureOf(imports, taking, asking)
+    for (const one of fresh) found.add(one)
+    taking = [...new Set(globbedFrom(fresh, coded, bodyAt, named))].filter((one) => !found.has(one))
+  }
+  return found
+}
+
 function reachedAt(at: string): string | null {
   const said = partedIn(at)
   if (said === null) return null
@@ -78,6 +139,8 @@ function rowsFor(root: string, at: string, reached: ReadonlySet<string>): FileCh
 }
 
 const NOTHING_GLOBBED: Globbed = { edits: [], said: [] }
+
+const NOTHING_REACHED: ReadonlySet<string> = new Set()
 
 function everyIn(change: Change): readonly string[] {
   const held = new Set(gitIn(change.root, ["ls-files", "-z"]).split("\0"))
@@ -176,18 +239,16 @@ function globbedOver(change: Change): Globbed {
     every.filter((one) => one.endsWith(VITE_ENDING)).map((one) => folderOf(one))
   )
   const index = shadowAt(change.root).index
+  const coded = every.filter((one) => typeScripted(one))
+  const named = new Map<string, readonly string[]>()
   const edits: FileChange[] = []
   const said: string[] = []
   for (const at of every.filter((one) => styledName(one)).sort()) {
     const css = textOf(change.after(at))
     const app = css === null || !isEntry(css) ? null : appFor(at, roots)
-    const seeds =
-      app === null ? [] : every.filter((one) => one.startsWith(`${app}/`) && typeScripted(one))
-    const reached = new Set(
-      app === null
-        ? []
-        : closureOf(imports, seeds, { index, bodyAt, through: (one) => known.has(one) })
-    )
+    const seeds = app === null ? [] : coded.filter((one) => one.startsWith(`${app}/`))
+    const asked = { index, bodyAt, through: (one: string) => known.has(one) }
+    const reached = app === null ? NOTHING_REACHED : reachOf(seeds, coded, asked, named)
     const rows = rowsFor(change.root, at, reached)
     if (rows !== null) edits.push(rows)
     if (app === null || css === null) continue
@@ -233,6 +294,9 @@ function couldTurn(change: Change): boolean {
   }
   const changed = new Set(change.changed.filter((one) => typeScripted(one)))
   if (changed.size === 0) return false
+  for (const one of changed) {
+    if (change.before(one) === null || change.after(one) === null) return true
+  }
   for (const page of styledIn(change)) {
     const rows = uncommittedBesideAt(page, REACHED, HELD_JSONL)
     const body = rows === null ? null : textThere(join(change.root, rows))

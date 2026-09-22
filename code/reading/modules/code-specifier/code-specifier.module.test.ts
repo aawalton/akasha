@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  globbedIn,
   landingOf,
   placedIn,
   specifierFor,
@@ -232,6 +233,32 @@ test("a module named in type position is no call, so that naming is not deferred
   const body = 'export type One = import("./one.ts").One\n'
 
   expect(placedIn(AT, body).map((one) => one.deferred)).toEqual([false])
+})
+
+test("a pattern a bundler's own glob names is read out of the body", () => {
+  const body = 'const found = import.meta.glob("../../**/*.page-component.code.tsx")\n'
+  expect(globbedIn(AT, body)).toEqual(["../../**/*.page-component.code.tsx"])
+})
+
+test("a glob carrying a type argument and options is read the same way", () => {
+  const body = 'const found = import.meta.glob<Drawn>("./**/*.code.tsx", { eager: true })\n'
+  expect(globbedIn(AT, body)).toEqual(["./**/*.code.tsx"])
+})
+
+test("a glob handed a list of patterns names every pattern in that list", () => {
+  const body = 'const found = import.meta.glob(["./one/**/*.ts", "./two/**/*.ts"])\n'
+  expect(globbedIn(AT, body)).toEqual(["./one/**/*.ts", "./two/**/*.ts"])
+})
+
+test("a pattern is answered apart from the specifiers naming one module each", () => {
+  const body = 'import { one } from "./one.ts"\nconst found = import.meta.glob("./**/*.tsx")\n'
+  expect(specifiersIn(AT, body)).toEqual(["./one.ts"])
+  expect(globbedIn(AT, body)).toEqual(["./**/*.tsx"])
+})
+
+test("a call on another property access names no pattern", () => {
+  const body = 'held.glob("./**/*.ts")\nimport.meta.env("./**/*.ts")\nglob("./**/*.ts")\n'
+  expect(globbedIn(AT, body)).toEqual([])
 })
 
 test("every string a body spells is read as naming no type", () => {

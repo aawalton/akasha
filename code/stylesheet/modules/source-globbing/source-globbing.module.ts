@@ -32,6 +32,22 @@ export const sourceGlobbing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A file a bundler's own glob names is reached as a file an import names is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a file reached that way imports is reached on from there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pattern is read against the folder the file spelling that pattern sits in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pattern names code files and no file of another kind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A glob names where a file the app reaches that a browser draws from sits.",
     },
     {
@@ -87,6 +103,15 @@ export const sourceGlobbing = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A file the app reaches that the change adds or takes away moves the globs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A code file the change adds or takes away moves the globs, reached or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file a pattern names is reached with no import naming it, so nothing else marks a new one.",
     },
     {
       decisionKind: "decision-kind/departure",

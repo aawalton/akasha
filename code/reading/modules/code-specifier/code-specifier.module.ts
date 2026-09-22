@@ -19,6 +19,22 @@ export const codeSpecifier = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A pattern a bundler's own glob names is read out of a body as well.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a pattern names a tree of modules rather than one module.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pattern is answered apart from the specifiers naming one module each.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A glob handed a list of patterns is read as naming every pattern in that list.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every string a body has is answered too.",
     },
     {
