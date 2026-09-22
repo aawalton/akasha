@@ -10,4 +10,5 @@
 {"propertySlug":"target-page-type","path":"story/chapter/properties/chapter-story.relation-property.ts","id":"01a0c990-40b9-7554-9f99-58add65cd7d4"}
 {"propertySlug":"target-page-type","path":"story/character/properties/character-story.relation-property.ts","id":"01a0c9f1-197c-735b-a3bb-c0c588585617"}
 {"propertySlug":"target-page-type","path":"story/item/properties/item-story.relation-property.ts","id":"01a0ca51-ab29-7dac-baca-b90af4d97847"}
+{"propertySlug":"target-page-type","path":"story/mechanic/trait/properties/trait-story.relation-property.ts","id":"01a0ca5d-386f-769b-ae6d-140a51fa8fe8"}
 {"propertySlug":"target-page-type","path":"story/turn/properties/turn-story.relation-property.ts","id":"01a0c9fc-754e-79e2-a291-f3579e7c167c"}

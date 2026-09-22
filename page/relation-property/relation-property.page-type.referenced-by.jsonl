@@ -150,6 +150,8 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/item/properties/item-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/mechanic/metric/character/properties/metric-of-character.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/mechanic/metric/item/properties/metric-of-item.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/mechanic/trait/character-trait/properties/trait-character.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/mechanic/trait/properties/trait-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/turn/properties/turn-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/characters/properties/alias-of.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/characters/properties/merged-into.relation-property.ts"}

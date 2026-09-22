@@ -1,5 +1,7 @@
 {"propertySlug":"extends-type","path":"story/mechanic/derived/metric-character-derived.page-type.ts","id":"01a0ca2c-3188-73cb-9621-2122beb52818"}
 {"propertySlug":"extends-type","path":"story/mechanic/metric/metric.page-type.ts","id":"01a0ca08-5607-7cf7-8091-650c47a04416"}
+{"propertySlug":"extends-type","path":"story/mechanic/trait/trait.page-type.ts","id":"01a0ca5d-0f58-748c-a396-b0062affcee6"}
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/derived/metric-character-derived.page-type.types.ts"}
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/metric/metric.page-type.types.ts"}
+{"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/trait/trait.page-type.types.ts"}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}

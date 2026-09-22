@@ -165,6 +165,8 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"target-page-type","propertySlug":"target-page-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"to-do-value","propertySlug":"to-do-value","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"mastery-level","unique":null,"uniquePropertySlug":null,"slug":"topic-mastery-level","propertySlug":"mastery-level","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"character","unique":null,"uniquePropertySlug":null,"slug":"trait-character","propertySlug":"character","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"story","unique":null,"uniquePropertySlug":null,"slug":"trait-story","propertySlug":"story","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"monarch-category","unique":null,"uniquePropertySlug":null,"slug":"transaction-category","propertySlug":"category","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"monarch-tag","unique":null,"uniquePropertySlug":null,"slug":"transaction-tags","propertySlug":"tags","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"color","unique":null,"uniquePropertySlug":null,"slug":"turn-state-color","propertySlug":"color","fileName":null,"folderName":null}

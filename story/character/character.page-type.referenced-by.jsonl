@@ -5,3 +5,4 @@
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"target-page-type","path":"story/item/properties/item-character.relation-property.ts","id":"01a0ca42-28bb-7be1-bce7-8ad4a3e0e4ef"}
 {"propertySlug":"target-page-type","path":"story/mechanic/metric/character/properties/metric-of-character.relation-property.ts","id":"01a0ca08-086e-72a3-99d9-49b538d216cd"}
+{"propertySlug":"target-page-type","path":"story/mechanic/trait/character-trait/properties/trait-character.relation-property.ts","id":"01a0ca5d-b332-7057-9c07-e79aaa1dd975"}
