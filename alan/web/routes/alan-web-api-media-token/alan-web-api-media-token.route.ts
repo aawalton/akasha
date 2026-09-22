@@ -4,7 +4,7 @@ export const alanWebApiMediaToken = {
   id: "01a0882f-3b1a-70b3-a4fd-b2024b64f672",
   type: "page-type/route",
   slug: "alan-web-api-media-token",
-  definition: "the token a reader's browser fetches a medium with",
+  definition: "the token a reader's browser carries to fetch a medium",
   code: "ts",
   urlPath: "api/media/token",
   decisions: [

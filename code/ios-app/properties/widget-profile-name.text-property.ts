@@ -5,7 +5,7 @@ export const widgetProfileName = {
   type: "page-type/text-property",
   slug: "widget-profile-name",
   propertySlug: "widget-profile-name",
-  definition: "the App Store profile an app's widgets are signed with",
+  definition: "the App Store profile for signing an app's widgets",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

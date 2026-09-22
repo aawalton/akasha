@@ -4,7 +4,7 @@ export const capacitorCors = {
   id: "01a063c9-03ff-733a-9c12-48399577ca75",
   type: "page-type/module",
   slug: "capacitor-cors",
-  definition: "the cross-origin headers a request from the native shell is answered with",
+  definition: "the cross-origin headers on an answer to a request from the native shell",
   code: "ts",
   test: "ts",
   decisions: [

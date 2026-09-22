@@ -4,7 +4,7 @@ export const treeFilter = {
   id: "01a064d3-f9f9-789e-ad63-cd6848c691b2",
   type: "page-type/module",
   slug: "tree-filter",
-  definition: "the part of a tree a match keeps and the test a node's fields are matched by",
+  definition: "the part of a tree a match keeps and the test matching a node's fields",
   code: "ts",
   decisions: [
     {

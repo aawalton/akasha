@@ -4,7 +4,7 @@ export const atlas = {
   id: "01a0655d-9450-7928-8cb9-55f5db90da07",
   type: "page-type/ios-app",
   slug: "atlas",
-  definition: "the app Alan reads his places in and the shell it runs in",
+  definition: "Alan's app for reading his places and the shell holding it",
   appProfileName: "Atlas App Store",
   bundleId: "com.alanwalton.atlas",
   capacitorConfig: "json",

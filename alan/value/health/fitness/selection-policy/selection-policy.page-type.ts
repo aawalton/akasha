@@ -4,7 +4,7 @@ export const selectionPolicy = {
   id: "01a06838-7a9d-7d0a-8e41-674ebea29caf",
   type: "page-type/page-type",
   slug: "selection-policy",
-  definition: "the numbers the coach picks and bounds a session by",
+  definition: "the coach's numbers for picking and bounding a session",
   extends: ["page-type/page"],
   parts: [
     "number-property/bouts-without-progress",

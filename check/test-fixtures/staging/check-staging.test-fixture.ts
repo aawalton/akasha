@@ -4,7 +4,7 @@ export const checkStaging = {
   id: "01a08e16-827d-7f4d-bb26-5724ed027608",
   type: "page-type/test-fixture",
   slug: "check-staging",
-  definition: "the scratch checkout a check's test runs over",
+  definition: "the scratch checkout for a check's test",
   code: "ts",
   test: "ts",
   decisions: [
