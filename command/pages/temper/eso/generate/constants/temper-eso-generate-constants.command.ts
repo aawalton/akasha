@@ -25,6 +25,14 @@ export const temperEsoGenerateConstants = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run that should have landed and landed nothing refuses rather than answering.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The table's file answers to the page beside it, so a plain write moves nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A capture holding no constants refuses rather than emptying the table.",
     },
     {

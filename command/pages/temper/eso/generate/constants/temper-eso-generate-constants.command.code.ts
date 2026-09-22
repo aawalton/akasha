@@ -1,8 +1,8 @@
 import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
-import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
-import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import {
   type Asking,
   runMechanicalChange,
@@ -30,7 +30,7 @@ import {
 
 const NAMED = [codeRootArgument, savedVariablesFileArgument] as const
 
-const PUT = `${changeMechanicalFile.slug}/${addFile.slug}` as const
+const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 const AT = "temper/eso/constant/modules/engine-constants/engine-constants.data-table.data.json"
 
@@ -86,6 +86,12 @@ async function written(taken: Taken, given: Given): Promise<Answer> {
   const landed = await runMechanicalChange(root, asked, MESSAGE, { writer: given.calledAs })
   if ("refusals" in landed) {
     return refused(`the constants were not landed — ${landed.refusals.join("; ")}`, OPERATIONAL)
+  }
+  if (landed.landed.length === 0) {
+    return refused(
+      `\`${AT}\` differs from the capture and nothing landed — ${landed.said.join("; ")}`,
+      OPERATIONAL
+    )
   }
 
   return told([
