@@ -4,7 +4,7 @@ import type {
   HistoryInternal,
   Logger,
 } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-types/sales-history-types.module.code.ts"
-import "akasha/temper/addon/type/lib-async/lib-async.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-async-global/temper-async-global.type-declaration.d.ts"
 
 export function asHistoryInternal(value: unknown): HistoryInternal {
   return value as HistoryInternal
@@ -23,7 +23,7 @@ export function asLogger(value: unknown): Logger {
 }
 
 export interface GlobalTable {
-  LibAsync?: LibAsyncLib
+  TemperAsync?: TemperAsyncLib
   LibHistoire_Settings?: Record<string, unknown>
   LibHistoire_GuildHistoryCache?: Record<string, unknown>
   [key: string]: unknown

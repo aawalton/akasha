@@ -14,7 +14,7 @@ import type {
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-view-types/minimap-view-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-async/lib-async.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-async-global/temper-async-global.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
@@ -66,7 +66,7 @@ function pinTaskOnError(this: void, err: unknown): undefined {
 }
 
 export function createAsyncTask(this: void, name: string): AnyAsyncTask {
-  const task = asAnyAsyncTask(LibAsync.Create(name))
+  const task = asAnyAsyncTask(TemperAsync.Create(name))
   task.OnError(pinTaskOnError)
   return task
 }

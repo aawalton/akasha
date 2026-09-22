@@ -34,8 +34,7 @@
     "LibMapPins-1.0>=10047",
     "LibAddonMenu-2.0>=41",
     "LibGPS>=73",
-    "LibDebugLogger>=274",
-    "LibAsync>=30001"
+    "LibDebugLogger>=274"
   ],
   "optionalDependsOn": [
     "DebugLogViewer",

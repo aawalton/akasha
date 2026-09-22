@@ -14,14 +14,14 @@ import {
 } from "akasha/temper/addon/shared/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import { header } from "akasha/temper/addon/shared/settings-panel/modules/header/header.module.code.ts"
 import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-async/lib-async.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-async-global/temper-async-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/world/navigation/minimap-string-ids/minimap-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
-const async = LibAsync
+const async = TemperAsync
 
 export function buildAppearanceSettings(self: VotansMiniMap): LamControlData[] {
   const controls: LamControlData[] = []

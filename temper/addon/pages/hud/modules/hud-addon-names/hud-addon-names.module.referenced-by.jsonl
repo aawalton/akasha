@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"hud-addon-names.module.code.ts","path":"temper/addon/pages/hud/modules/hud-addon-entry/hud-addon-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"hud-addon-names.module.code.ts","path":"temper/addon/pages/hud/temper-async/modules/async-scheduler-manager/async-scheduler-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"hud-addon-names.module.code.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
 {"propertySlug":"import","fileName":"hud-addon-names.module.code.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-addon-manager/selector-addon-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"hud-addon-names.module.code.ts","path":"temper/addon/pages/hud/temper-selector/modules/selector-constants/selector-constants.module.code.ts"}

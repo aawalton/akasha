@@ -499,4 +499,13 @@ export const CONSOLIDATION_MIGRATIONS = [
       targetFileBase: "TemperHud",
     },
   },
+  {
+    mode: "append",
+    runFor: "TemperHud",
+    spec: {
+      absorbedFileBase: "LibAsync",
+      absorbedGlobal: "AsyncSavedVars",
+      targetFileBase: "TemperHud",
+    },
+  },
 ] as const satisfies readonly ConsolidationMigration[]

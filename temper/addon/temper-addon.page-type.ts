@@ -30,7 +30,6 @@ export const temperAddon = {
     "temper-addon/temper-addon-world",
     "boolean-property/addon-library",
     "temper-addon/temper-lib-addon-menu",
-    "temper-addon/temper-lib-async",
     "temper-addon/temper-lib-custom-menu",
     "temper-addon/temper-lib-debug-logger",
     "temper-addon/temper-lib-gps",

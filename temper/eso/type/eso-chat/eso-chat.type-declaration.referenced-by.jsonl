@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-overview-rapport/companions-overview-rapport.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-core-events/combat-core-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-report/combat-ui-chat-report.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-async/modules/async-api/async-api.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-api/chat-message-api.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/hud/temper-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
@@ -20,7 +21,6 @@
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-autocompletion/zone-autocompletion.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-startup/sales-history-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-messages/addon-menu-messages.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/lib-async/modules/async-api/async-api.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-settings/debug-logger-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}

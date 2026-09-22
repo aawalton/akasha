@@ -21,7 +21,7 @@ import type {
   LooseTable,
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-view-types/minimap-view-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-async/lib-async.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-async-global/temper-async-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-18/eso-enums-18.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
@@ -66,7 +66,7 @@ export function installDeferRefreshes(this: void): undefined {
 }
 
 export function installRefreshCustomPins(this: void, cell: WayshrineCell): undefined {
-  const async = LibAsync
+  const async = TemperAsync
   const task = createAsyncTask("VOTANS_MAP_CUSTOM_PIN_UPDATE")
   function onError(this: void, err: unknown): undefined {
     d("Error in custom pin addon", err)

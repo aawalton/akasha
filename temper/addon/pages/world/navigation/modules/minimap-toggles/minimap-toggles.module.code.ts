@@ -21,7 +21,7 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/minimap-saved-variables/minimap-saved-variables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-async/lib-async.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-async-global/temper-async-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/world/navigation/minimap-string-ids/minimap-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -38,7 +38,7 @@ import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
-const async = LibAsync
+const async = TemperAsync
 
 holder.Initialize = function (this: VotansMiniMap): undefined {
   const [titleColorR, titleColorG, titleColorB, titleColorA] = GetInterfaceColor(

@@ -12,7 +12,7 @@ import type {
   ServerRequestRef,
 } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-category-types/sales-history-category-types.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-async/lib-async.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-async-global/temper-async-global.type-declaration.d.ts"
 
 export interface GuildHistoryCacheCategoryInstance {
   adapter: HistoryAdapterRef

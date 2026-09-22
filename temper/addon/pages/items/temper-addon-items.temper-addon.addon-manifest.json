@@ -30,7 +30,6 @@
     "TemperCharacters",
     "TemperHud",
     "LibDebugLogger",
-    "LibAsync>=20100",
     "LibAddonMenu-2.0>=43",
     "LibCustomMenu>=692",
     "LibMainMenu-2.0>=432"
