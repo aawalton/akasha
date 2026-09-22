@@ -5,8 +5,8 @@ export const learnEverythingTopic07ReproductionAndSex = {
   type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-07-reproduction-and-sex",
   node: "Life on Earth › The Structures and Functions of Organisms › Reproduction and Sex",
-  masteryLevel: "mastery-level/novice",
-  scoredOn: "2026-06-19",
+  masteryLevel: "mastery-level/scholar",
+  scoredOn: "2026-09-22",
   status: "live",
   partOf: [
     "learn-everything-topic/learn-everything-topic-03-the-structures-and-functions-of-organisms",
