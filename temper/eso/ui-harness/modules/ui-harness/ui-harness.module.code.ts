@@ -14,24 +14,27 @@ const LUA_MODULE = "lua-module"
 
 const LUA = "lua"
 
-const MODEL_SLUG = "ui-control-model"
+const MODEL_SLUGS: readonly string[] = ["ui-control-model", "ui-event-model"]
 
-let cachedModel: string | null = null
+const NAMED = /^[A-Za-z_][A-Za-z0-9_]*$/
 
-function modelPathIn(root: string): string {
-  const page = listedAt(root, LUA_MODULE, MODEL_SLUG)[0]
+let cachedModels: readonly string[] | null = null
+
+function modelPathIn(root: string, slug: string): string {
+  const page = listedAt(root, LUA_MODULE, slug)[0]
   const at = page === undefined ? null : besideAt(page.path, LUA, LUA)
   if (at === null) {
-    throw new Error(
-      `no \`${LUA_MODULE}\` is slugged \`${MODEL_SLUG}\`, so no control would be made`
-    )
+    throw new Error(`no \`${LUA_MODULE}\` is slugged \`${slug}\`, so no harness would come up`)
   }
   return join(root, at)
 }
 
-function modelText(): string {
-  if (cachedModel === null) cachedModel = readFileSync(modelPathIn(akashaRoot()), "utf8")
-  return cachedModel
+function modelTexts(): readonly string[] {
+  if (cachedModels === null) {
+    const root = akashaRoot()
+    cachedModels = MODEL_SLUGS.map((slug) => readFileSync(modelPathIn(root, slug), "utf8"))
+  }
+  return cachedModels
 }
 
 function asList(value: unknown): unknown {
@@ -88,6 +91,9 @@ export type UiHarness = {
   readonly names: () => Promise<readonly string[]>
   readonly unmodelled: () => Promise<Readonly<Record<string, number>>>
   readonly fire: (name: string, event: string, ...args: readonly unknown[]) => Promise<boolean>
+  readonly raise: (event: string, ...args: readonly unknown[]) => Promise<number>
+  readonly settle: (rounds?: number) => Promise<number>
+  readonly waiting: () => Promise<number>
   readonly close: () => Promise<void>
 }
 
@@ -98,7 +104,7 @@ export type OpenUiHarnessOptions = {
 export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise<UiHarness> {
   const vm = await makeSandboxedLuaVm({
     bannedGlobals: options.bannedGlobals ?? ESO_BANNED_GLOBALS,
-    loadedFirst: [modelText()],
+    loadedFirst: modelTexts(),
   })
   return {
     seed(name, value): undefined {
@@ -128,6 +134,23 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
         `return __ui_fire(${marshalLuaValue(name)}, ${marshalLuaValue(event)}${tail})`
       )
       return answered === true
+    },
+    async raise(event, ...args): Promise<number> {
+      if (NAMED.exec(event) === null) {
+        throw new Error(`\`${event}\` is no name an event could be held under`)
+      }
+      const passed = args.map((arg) => marshalLuaValue(arg)).join(", ")
+      const tail = passed === "" ? "" : `, ${passed}`
+      const answered = await vm.doString(`return __ui_raise(${event}${tail})`)
+      return z.number().parse(answered)
+    },
+    async settle(rounds): Promise<number> {
+      const answered = await vm.doString(`return __ui_settle(${marshalLuaValue(rounds)})`)
+      return z.number().parse(answered)
+    },
+    async waiting(): Promise<number> {
+      const answered = await vm.doString("return __ui_waiting()")
+      return z.number().parse(answered)
     },
     async close(): Promise<void> {
       await vm.close()
