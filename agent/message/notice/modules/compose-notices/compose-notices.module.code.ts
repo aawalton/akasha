@@ -1,4 +1,5 @@
 import { writeFileSync } from "node:fs"
+import { agentMessageNotice } from "akasha/agent/message/notice/agent-message-notice.page-type.ts"
 import { fail } from "akasha/command/modules/failing/command-failing.module.code.ts"
 import {
   listedAt,
@@ -13,7 +14,7 @@ import {
 import { bodyAt } from "akasha/page/modules/file-body/page-file-body.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
-const PAGE_TYPE = "notice"
+const PAGE_TYPE = agentMessageNotice.slug
 
 const TEXT = "text"
 

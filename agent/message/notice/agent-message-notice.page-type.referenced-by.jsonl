@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"agent-message-notice.page-type.ts","path":"agent/message/notice/modules/compose-notices/compose-notices.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-notice.page-type.types.ts","path":"agent/message/notice/pages/editor-revive/editor-revive.agent-message-notice.ts"}
 {"propertySlug":"import","fileName":"agent-message-notice.page-type.types.ts","path":"agent/message/notice/pages/limit-resume-nudge/limit-resume-nudge.agent-message-notice.ts"}
 {"propertySlug":"import","fileName":"agent-message-notice.page-type.types.ts","path":"agent/message/notice/pages/restart-deferred/restart-deferred.agent-message-notice.ts"}
