@@ -2,9 +2,11 @@ import { decideRemoteControlBatch } from "akasha/agent/claude-code/remote-contro
 import { decideRcDegradedBatch } from "akasha/agent/claude-code/remote-control/modules/degraded-decide/claude-code-remote-control-degraded-decide.module.code.ts"
 import { decideClaimedRedelivery } from "akasha/agent/message/modules/supervisor-claimed-redelivery-decide/agent-message-supervisor-claimed-redelivery-decide.module.code.ts"
 import { notices } from "akasha/agent/message/notice/modules/compose-notices/compose-notices.module.code.ts"
+import { limitResumeNudge } from "akasha/agent/message/notice/pages/limit-resume-nudge/limit-resume-nudge.agent-message-notice.ts"
 import { restartDeferred } from "akasha/agent/message/notice/pages/restart-deferred/restart-deferred.agent-message-notice.ts"
 import { restartImmediate } from "akasha/agent/message/notice/pages/restart-immediate/restart-immediate.agent-message-notice.ts"
 import { restartRecoveryClause } from "akasha/agent/message/notice/pages/restart-recovery-clause/restart-recovery-clause.agent-message-notice.ts"
+import { waitResumeNudge } from "akasha/agent/message/notice/pages/wait-resume-nudge/wait-resume-nudge.agent-message-notice.ts"
 import {
   parseClaimedRedelivery,
   parseLimitResume,
@@ -36,8 +38,8 @@ import {
   rejectUnknownFlags,
 } from "akasha/command/modules/payload/payload.module.code.ts"
 
-const NUDGE_NOTICE = "limit-resume-nudge"
-const WAIT_NUDGE_NOTICE = "wait-resume-nudge"
+const NUDGE_NOTICE = limitResumeNudge.slug
+const WAIT_NUDGE_NOTICE = waitResumeNudge.slug
 const NOTICE_OWNER = "compose-notices"
 
 function requireNotice(all: Readonly<Record<string, string>>, key: string): string {
