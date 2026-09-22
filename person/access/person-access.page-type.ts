@@ -9,7 +9,7 @@ export const personAccess = {
   parts: [
     "relation-property/person-access-kind",
     "relation-property/person-access-person",
-    "text-property/person-access-serves",
+    "relation-property/person-access-serves",
     "text-property/person-access-target",
     "relation-property/person-access-deed",
     "text-property/access-narrow-key",
@@ -24,7 +24,7 @@ export const personAccess = {
     },
     { pageProperty: "relation-property/person-access-kind", required: true, many: false },
     { pageProperty: "text-property/person-access-target", required: true, many: false },
-    { pageProperty: "text-property/person-access-serves", required: false, many: false },
+    { pageProperty: "relation-property/person-access-serves", required: false, many: false },
     {
       pageProperty: "relation-property/person-access-deed",
       required: true,

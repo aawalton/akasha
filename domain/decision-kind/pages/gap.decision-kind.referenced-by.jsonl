@@ -373,7 +373,6 @@
 {"propertySlug":"decision-kind","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.ts","id":"01a06158-0a79-7000-a2b2-4fa802b18c2d"}
 {"propertySlug":"decision-kind","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.ts","id":"01a06205-4f3b-7001-926c-c56c490d0fc4"}
 {"propertySlug":"decision-kind","path":"page/view/view.page-type.ts","id":"01a0680d-4d00-7016-9f27-3b8a5d6c4117"}
-{"propertySlug":"decision-kind","path":"person/access/properties/person-access-serves.text-property.ts","id":"01a05430-c0ef-7fbe-8836-045d9e351ad7"}
 {"propertySlug":"decision-kind","path":"person/device-secret/device-secret.page-type.ts","id":"01a05b39-f50b-77c0-826c-a526838d12ac"}
 {"propertySlug":"decision-kind","path":"person/email/gmail-mailbox/gmail-mailbox.page-type.ts","id":"01a06828-59d3-7295-868d-d695a5d5efd8"}
 {"propertySlug":"decision-kind","path":"person/email/message/email-message.page-type.ts","id":"01a06828-59d3-79b5-a23b-24604d220bf0"}

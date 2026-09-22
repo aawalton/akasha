@@ -3237,7 +3237,7 @@
 {"propertySlug":"decision-kind","path":"person/access/properties/access-narrow-key.text-property.ts","id":"01a0c521-66bd-7307-a70c-179ad63c3b98"}
 {"propertySlug":"decision-kind","path":"person/access/properties/person-access-deed.relation-property.ts","id":"01a0c4e8-9759-74ba-a799-01d34c3eaea9"}
 {"propertySlug":"decision-kind","path":"person/access/properties/person-access-narrow.record-property.ts","id":"01a0c521-ea3a-7a55-a8ef-a8e26ef96cf6"}
-{"propertySlug":"decision-kind","path":"person/access/properties/person-access-serves.text-property.ts","id":"01a05430-c0ef-7fbe-8836-045d9e351ad7"}
+{"propertySlug":"decision-kind","path":"person/access/properties/person-access-serves.relation-property.ts","id":"01a05430-c0ef-7fbe-8836-045d9e351ad7"}
 {"propertySlug":"decision-kind","path":"person/access/properties/person-access-target.text-property.ts","id":"01a05430-c0ee-7f62-a8b7-74d97d845e28"}
 {"propertySlug":"decision-kind","path":"person/authority/properties/person-authority-target.text-property.ts","id":"01a05430-c0f0-78db-bb0e-ea07c84713f0"}
 {"propertySlug":"decision-kind","path":"person/device-secret/device-secret.page-type.ts","id":"01a05b39-f50b-77c0-826c-a526838d12ac"}

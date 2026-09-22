@@ -8,5 +8,5 @@ export const kiPageTypeKiBookSeries = {
   accessKind: "access-kind/page-type",
   target: "ki-book-series",
   deed: ["access-deed/read", "access-deed/write"],
-  serves: "book-series",
+  serves: "page-type/book-series",
 } as const satisfies PersonAccess

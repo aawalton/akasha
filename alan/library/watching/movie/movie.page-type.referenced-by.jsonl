@@ -152,3 +152,4 @@
 {"propertySlug":"import","fileName":"movie.page-type.types.ts","path":"alan/library/watching/movie/pages/wonder-woman-1984.movie.ts"}
 {"propertySlug":"import","fileName":"movie.page-type.types.ts","path":"alan/library/watching/movie/pages/wonder-woman.movie.ts"}
 {"propertySlug":"parts","path":"alan/library/watching/watching.domain.ts","id":"01a06599-ee09-7000-a394-4351ebf86462"}
+{"propertySlug":"person-access-serves","path":"person/access/pages/ki-page-type-ki-movie.person-access.ts","id":"01a05433-f104-769b-a1be-2612f5f674a0"}

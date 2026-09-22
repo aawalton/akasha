@@ -44,7 +44,6 @@
 {"propertySlug":"name-format","path":"page/type/properties/load-scroll.text-property.ts","id":"01a0683a-620a-720b-9442-1f4e5f29ea33"}
 {"propertySlug":"name-format","path":"page/type/properties/plural-slug.text-property.ts","id":"01a0a5ae-a36e-7000-b147-642bd48aac2a"}
 {"propertySlug":"name-format","path":"page/type/properties/sequence-direction.text-property.ts","id":"01a062de-2001-7003-a875-d6a5b29e480d"}
-{"propertySlug":"name-format","path":"person/access/properties/person-access-serves.text-property.ts","id":"01a05430-c0ef-7fbe-8836-045d9e351ad7"}
 {"propertySlug":"name-format","path":"person/access/properties/person-access-target.text-property.ts","id":"01a05430-c0ee-7f62-a8b7-74d97d845e28"}
 {"propertySlug":"name-format","path":"person/email/gmail-mailbox/properties/processed-messages/properties/gmail-decision.text-property.ts","id":"01a06862-a0bc-7f55-8d40-b7436ef558a4"}
 {"propertySlug":"name-format","path":"story/game/design-entry/properties/design-kind.text-property.ts","id":"01a0c93e-3762-7d37-9693-cbfcca51433c"}

@@ -568,3 +568,4 @@
 {"propertySlug":"target-page-type","path":"page/type/properties/child-type.relation-property.ts","id":"01a0683a-620a-753d-8ea2-a84aa847d5f4"}
 {"propertySlug":"target-page-type","path":"page/type/properties/extends-type.relation-property.ts","id":"01a049b9-856c-78f3-ac14-e3f86c75d104"}
 {"propertySlug":"target-page-type","path":"page/view/properties/view-page-type.relation-property.ts","id":"01a078d1-cb91-71c2-895b-d2fc87b9e79e"}
+{"propertySlug":"target-page-type","path":"person/access/properties/person-access-serves.relation-property.ts","id":"01a05430-c0ef-7fbe-8836-045d9e351ad7"}
