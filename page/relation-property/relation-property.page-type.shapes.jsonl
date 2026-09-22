@@ -108,6 +108,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"model-family","unique":null,"uniquePropertySlug":null,"slug":"model-family","propertySlug":"model-family","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"name-format","unique":null,"uniquePropertySlug":null,"slug":"name-format","propertySlug":"name-format","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"nav","unique":null,"uniquePropertySlug":null,"slug":"nav","propertySlug":"nav","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"web-app","unique":null,"uniquePropertySlug":null,"slug":"nav-app","propertySlug":"app","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"nav","unique":null,"uniquePropertySlug":null,"slug":"nav-parent","propertySlug":"nav-parent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"argument","unique":null,"uniquePropertySlug":null,"slug":"not-with","propertySlug":"not-with","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"notification-persona","propertySlug":"persona","fileName":null,"folderName":null}

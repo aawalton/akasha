@@ -1,4 +1,7 @@
 import { expect, test } from "bun:test"
+import { alanwaltonWeb } from "akasha/infrastructure/service/web-app/pages/alanwalton-web.web-app.ts"
+import { webApp } from "akasha/infrastructure/service/web-app/web-app.page-type.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { readAnswerRows } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 
 const ONE = {
@@ -6,7 +9,7 @@ const ONE = {
   page_type_id: "01a0680e-5e00-7007-a253-4c7d9b1a5108",
   title: "Home",
   icon: "home",
-  attributes: { navPlace: 0, appSlug: "alanwalton" },
+  attributes: { navPlace: 0, app: namedAs(webApp.slug, alanwaltonWeb.slug, null) },
   page_type_slug: "nav",
   unique_key: null,
   status: null,

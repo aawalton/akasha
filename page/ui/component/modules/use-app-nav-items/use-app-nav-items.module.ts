@@ -9,7 +9,7 @@ export const useAppNavItems = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A nav item names the app it belongs to by slug rather than by id.",
+      statement: "A nav item names the app it belongs to by page address rather than by id.",
     },
     {
       decisionKind: "decision-kind/departure",

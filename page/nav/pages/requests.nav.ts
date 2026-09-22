@@ -7,5 +7,5 @@ export const requests = {
   title: "Requests",
   icon: "Lightbulb",
   navPlace: 14,
-  appSlug: "requests",
+  app: "web-app/alanwalton-requests-web",
 } as const satisfies Nav

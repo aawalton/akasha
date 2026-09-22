@@ -1,5 +1,5 @@
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
-import { REQUESTS_APP_SLUG } from "akasha/alan/requests-web/modules/requests-app-id/requests-app-id.module.code.ts"
+import { REQUESTS_APP } from "akasha/alan/requests-web/modules/requests-app-id/requests-app-id.module.code.ts"
 import { AppShell } from "akasha/alan/requests-web/modules/requests-app-shell/requests-app-shell.module.code.tsx"
 import { AuthProvider } from "akasha/alan/requests-web/modules/requests-auth-provider/requests-auth-provider.module.code.tsx"
 import { REQUESTS_SITE } from "akasha/alan/requests-web/modules/requests-handover-site/requests-handover-site.module.code.ts"
@@ -43,7 +43,7 @@ export async function loader({ request }: Route.LoaderArgs) {
   try {
     const result = await getPages({
       pageTypeSlug: "nav",
-      where: [{ key: "appSlug", eq: REQUESTS_APP_SLUG }],
+      where: [{ key: "app", eq: REQUESTS_APP }],
       limit: 200,
     })
     navItems = result.rows

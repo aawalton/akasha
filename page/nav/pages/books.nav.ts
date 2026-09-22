@@ -7,5 +7,5 @@ export const books = {
   title: "Books",
   icon: "book-open",
   navPlace: 0,
-  appSlug: "archive-of-worlds",
+  app: "web-app/archive-of-worlds-web",
 } as const satisfies Nav

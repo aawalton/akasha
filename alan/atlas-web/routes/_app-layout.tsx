@@ -1,4 +1,4 @@
-import { ATLAS_APP_SLUG } from "akasha/alan/atlas-web/modules/atlas-app-id/atlas-app-id.module.code.ts"
+import { ATLAS_APP } from "akasha/alan/atlas-web/modules/atlas-app-id/atlas-app-id.module.code.ts"
 import { AppShell } from "akasha/alan/atlas-web/modules/atlas-app-shell/atlas-app-shell.module.code.tsx"
 import { ATLAS_SITE } from "akasha/alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.code.ts"
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
@@ -21,7 +21,7 @@ export async function loader({ request }: Route.LoaderArgs) {
     try {
       const result = await getPages({
         pageTypeSlug: "nav",
-        where: [{ key: "appSlug", eq: ATLAS_APP_SLUG }],
+        where: [{ key: "app", eq: ATLAS_APP }],
         limit: 200,
       })
       navItems = result.rows

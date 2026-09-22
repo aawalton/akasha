@@ -9,7 +9,8 @@ export const requestsAppShell = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sidebar carries the nav pages whose app slug is `requests` and nothing else.",
+      statement:
+        "The sidebar carries the nav pages naming `web-app/alanwalton-requests-web` and nothing else.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -15,8 +15,8 @@ import {
   SETTINGS_NAV_ITEM,
 } from "akasha/temper/web/modules/nav-items/nav-items.module.code.ts"
 import {
+  TEMPER_APP,
   TEMPER_APP_ID,
-  TEMPER_APP_SLUG,
 } from "akasha/temper/web/modules/temper-app-id/temper-app-id.module.code.ts"
 import { LogOut } from "lucide-react"
 import { useMemo } from "react"
@@ -66,7 +66,7 @@ function AppShellInner({ children, ssrNavItems }: AppShellProps) {
     childrenByParentId,
   } = useAppNavItems({
     appId: TEMPER_APP_ID,
-    appSlug: TEMPER_APP_SLUG,
+    app: TEMPER_APP,
     primaryItems: PRIMARY_NAV_ITEMS,
     initialRows: ssrNavItems ?? undefined,
   })

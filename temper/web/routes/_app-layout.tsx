@@ -3,7 +3,7 @@ import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { AuthProviderWrapper } from "akasha/temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.code.tsx"
 import { usePathTracking } from "akasha/temper/web/modules/path-tracker/path-tracker.module.code.ts"
-import { TEMPER_APP_SLUG } from "akasha/temper/web/modules/temper-app-id/temper-app-id.module.code.ts"
+import { TEMPER_APP } from "akasha/temper/web/modules/temper-app-id/temper-app-id.module.code.ts"
 import { AppShell } from "akasha/temper/web/modules/temper-app-shell/temper-app-shell.module.code.tsx"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import { data, Outlet } from "react-router"
@@ -19,7 +19,7 @@ export async function loader({ request }: Route.LoaderArgs) {
     try {
       const result = await getPages({
         pageTypeSlug: "nav",
-        where: [{ key: "appSlug", eq: TEMPER_APP_SLUG }],
+        where: [{ key: "app", eq: TEMPER_APP }],
         limit: 200,
       })
       navItems = result.rows

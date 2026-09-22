@@ -1,7 +1,7 @@
 import type { BackHref } from "akasha/page/nav/properties/back-href.text-property.types.ts"
 import type { DrawCost } from "akasha/page/nav/properties/draw-cost.number-property.types.ts"
 import type { MobilePinOrder } from "akasha/page/nav/properties/mobile-pin-order.number-property.types.ts"
-import type { NavAppSlug } from "akasha/page/nav/properties/nav-app-slug.text-property.types.ts"
+import type { NavApp } from "akasha/page/nav/properties/nav-app.relation-property.types.ts"
 import type { NavParent } from "akasha/page/nav/properties/nav-parent.relation-property.types.ts"
 import type { NavPlace } from "akasha/page/nav/properties/nav-place.number-property.types.ts"
 import type { ShowCountBadge } from "akasha/page/nav/properties/show-count-badge.boolean-property.types.ts"
@@ -13,7 +13,7 @@ export type Nav = Page & {
   title: Title
   icon: Icon
   navPlace: NavPlace
-  appSlug?: NavAppSlug
+  app?: NavApp
   navParent?: NavParent
   mobilePinOrder?: MobilePinOrder
   backHref?: BackHref

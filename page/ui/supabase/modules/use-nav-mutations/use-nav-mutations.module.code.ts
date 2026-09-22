@@ -49,7 +49,7 @@ async function navSlugOfId(pageId: string | null): Promise<string | null> {
   return typeof slug === "string" && slug !== "" ? slug : null
 }
 
-export function useNavMutations(appSlug: string) {
+export function useNavMutations(app: string) {
   const accountId = useUserId()
 
   const runCreate = useOptimisticCreatePage((args) => createPage(args))
@@ -119,7 +119,7 @@ export function useNavMutations(appSlug: string) {
 
       const { rows: existing } = await getPages({
         pageTypeSlug: NAV_SLUG,
-        where: [{ key: "appSlug", eq: appSlug }],
+        where: [{ key: "app", eq: app }],
         select: ["id"],
         limit: 200,
       })
@@ -132,7 +132,7 @@ export function useNavMutations(appSlug: string) {
           slug: navSlug,
           icon: DEFAULT_ICON_NAME,
           navPlace: existing.length,
-          appSlug,
+          app,
         },
         select: ["id"],
       })
@@ -163,7 +163,7 @@ export function useNavMutations(appSlug: string) {
 
       return { pageId } satisfies { pageId: string }
     },
-    [accountId, runCreate, appSlug]
+    [accountId, runCreate, app]
   )
 
   return {

@@ -1,6 +1,6 @@
 import {
+  ALANWALTON_APP,
   ALANWALTON_APP_ID,
-  ALANWALTON_APP_SLUG,
 } from "akasha/alan/web/modules/alan-app-id/alan-app-id.module.code.ts"
 import {
   getNavItemProducts,
@@ -106,7 +106,7 @@ function AppShellInner({ children, signedIn, accountId, ssrNavItems }: AppShellP
     navReady,
   } = useAppNavItems({
     appId: ALANWALTON_APP_ID,
-    appSlug: ALANWALTON_APP_SLUG,
+    app: ALANWALTON_APP,
     primaryItems: PRIMARY_NAV_ITEMS,
     initialRows: ssrNavItems ?? undefined,
   })

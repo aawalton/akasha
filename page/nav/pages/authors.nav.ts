@@ -7,5 +7,5 @@ export const authors = {
   title: "Authors",
   icon: "users",
   navPlace: 1,
-  appSlug: "archive-of-worlds",
+  app: "web-app/archive-of-worlds-web",
 } as const satisfies Nav

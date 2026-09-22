@@ -3,7 +3,7 @@ import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { AuthProvider } from "akasha/page/ui/component/modules/auth-provider/auth-provider.module.code.tsx"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
-import { ARCHIVE_OF_WORLDS_APP_SLUG } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
+import { ARCHIVE_OF_WORLDS_APP } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
 import { AppShell } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-app-shell/archive-of-worlds-app-shell.module.code.tsx"
 import { ARCHIVE_OF_WORLDS_SITE } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-handover-site/archive-of-worlds-handover-site.module.code.ts"
 import { data, Outlet } from "react-router"
@@ -20,7 +20,7 @@ export async function loader({ request }: Route.LoaderArgs) {
     try {
       const result = await getPages({
         pageTypeSlug: "nav",
-        where: [{ key: "appSlug", eq: ARCHIVE_OF_WORLDS_APP_SLUG }],
+        where: [{ key: "app", eq: ARCHIVE_OF_WORLDS_APP }],
         limit: 200,
       })
       navItems = result.rows

@@ -7,6 +7,6 @@ export const temperTasks = {
   title: "Temper Tasks",
   icon: "CalendarCheck",
   navPlace: 13,
-  appSlug: "alanwalton",
+  app: "web-app/alanwalton-web",
   mobilePinOrder: 2,
 } as const satisfies Nav

@@ -38,20 +38,20 @@ interface PrimaryNavItemsResult {
 
 interface UseAppNavItemsArgs {
   appId: string
-  appSlug?: string
+  app?: string
   primaryItems: readonly AppNavItem[]
   initialRows?: ReadonlyArray<Record<string, unknown>>
 }
 
 export function useAppNavItems({
   appId,
-  appSlug,
+  app,
   primaryItems,
   initialRows,
 }: UseAppNavItemsArgs): PrimaryNavItemsResult {
   const navWhere = useMemo<PageWhere>(
-    () => [{ key: "appSlug", eq: appSlug != null && appSlug !== "" ? appSlug : "" }],
-    [appId, appSlug]
+    () => [{ key: "app", eq: app != null && app !== "" ? app : "" }],
+    [appId, app]
   )
   const { rows: liveRows, isLoading } = usePages({
     pageTypeSlug: NAV_SLUG,
@@ -67,7 +67,7 @@ export function useAppNavItems({
 
   const editing = useAppEditing()
 
-  const { createNav, reorderNavs, setNavIcon, setNavParent } = useNavMutations(appSlug ?? appId)
+  const { createNav, reorderNavs, setNavIcon, setNavParent } = useNavMutations(app ?? appId)
 
   const handleAddPage = useCallback(() => {
     createNav(NEW_PAGE_TITLE).catch(console.error)

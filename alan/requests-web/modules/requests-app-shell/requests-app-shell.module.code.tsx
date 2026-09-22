@@ -1,6 +1,6 @@
 import {
+  REQUESTS_APP,
   REQUESTS_APP_ID,
-  REQUESTS_APP_SLUG,
 } from "akasha/alan/requests-web/modules/requests-app-id/requests-app-id.module.code.ts"
 import { PRIMARY_NAV_ITEMS } from "akasha/alan/requests-web/modules/requests-nav-items/requests-nav-items.module.code.ts"
 import { AuthFooter } from "akasha/code/router-app/modules/auth-footer/auth-footer.module.code.tsx"
@@ -31,7 +31,7 @@ function AppShellInner({ children, signedIn, ssrNavItems }: AppShellProps) {
     childrenByParentId,
   } = useAppNavItems({
     appId: REQUESTS_APP_ID,
-    appSlug: REQUESTS_APP_SLUG,
+    app: REQUESTS_APP,
     primaryItems: PRIMARY_NAV_ITEMS,
     initialRows: ssrNavItems ?? undefined,
   })

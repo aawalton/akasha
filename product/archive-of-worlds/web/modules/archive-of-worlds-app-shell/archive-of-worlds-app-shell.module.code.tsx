@@ -8,8 +8,8 @@ import type { AppNavConfig } from "akasha/design/interface/layout/modules/nav-ty
 import { SortableNavs } from "akasha/page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx"
 import { useAppNavItems } from "akasha/page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"
 import {
+  ARCHIVE_OF_WORLDS_APP,
   ARCHIVE_OF_WORLDS_APP_ID,
-  ARCHIVE_OF_WORLDS_APP_SLUG,
 } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
 import { PRIMARY_NAV_ITEMS } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-nav-items/archive-of-worlds-nav-items.module.code.ts"
 import { useMemo } from "react"
@@ -31,7 +31,7 @@ function AppShellInner({ children, signedIn, ssrNavItems }: AppShellProps) {
     childrenByParentId,
   } = useAppNavItems({
     appId: ARCHIVE_OF_WORLDS_APP_ID,
-    appSlug: ARCHIVE_OF_WORLDS_APP_SLUG,
+    app: ARCHIVE_OF_WORLDS_APP,
     primaryItems: PRIMARY_NAV_ITEMS,
     initialRows: ssrNavItems ?? undefined,
   })

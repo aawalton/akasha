@@ -7,5 +7,5 @@ export const animeAndShows = {
   title: "Anime & Shows",
   icon: "tv",
   navPlace: 3,
-  appSlug: "archive-of-worlds",
+  app: "web-app/archive-of-worlds-web",
 } as const satisfies Nav

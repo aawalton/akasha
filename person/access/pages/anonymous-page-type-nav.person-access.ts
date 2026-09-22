@@ -8,5 +8,5 @@ export const anonymousPageTypeNav = {
   accessKind: "access-kind/page-type",
   target: "nav",
   deed: ["access-deed/read-some"],
-  narrow: { key: "appSlug", is: "requests" },
+  narrow: { key: "app", is: "web-app/alanwalton-requests-web" },
 } as const satisfies PersonAccess

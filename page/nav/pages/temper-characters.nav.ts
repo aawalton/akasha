@@ -7,5 +7,5 @@ export const temperCharacters = {
   title: "Characters",
   icon: "swords",
   navPlace: 1,
-  appSlug: "temper",
+  app: "web-app/temper-web",
 } as const satisfies Nav

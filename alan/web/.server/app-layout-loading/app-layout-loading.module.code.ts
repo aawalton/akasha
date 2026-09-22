@@ -2,7 +2,7 @@ import {
   alanAccountId,
   alanContributor,
 } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
-import { ALANWALTON_APP_SLUG } from "akasha/alan/web/modules/alan-app-id/alan-app-id.module.code.ts"
+import { ALANWALTON_APP } from "akasha/alan/web/modules/alan-app-id/alan-app-id.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { data, type LoaderFunctionArgs } from "react-router"
 
@@ -13,7 +13,7 @@ async function navItemsFor(): Promise<ReadonlyArray<Record<string, unknown>> | n
   try {
     const { rows } = await getPages({
       pageTypeSlug: NAV_PAGE_TYPE_SLUG,
-      where: [{ key: "appSlug", eq: ALANWALTON_APP_SLUG }],
+      where: [{ key: "app", eq: ALANWALTON_APP }],
       limit: NAV_ITEM_LIMIT,
     })
     return rows
