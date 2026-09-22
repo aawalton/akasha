@@ -6,6 +6,7 @@ export const tekshiaShivertail = {
   slug: "tekshia-shivertail",
   title: "Tekshia Shivertail",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   firstChapter: 235,
   lastChapter: 823,
   characterClaims: "jsonl",

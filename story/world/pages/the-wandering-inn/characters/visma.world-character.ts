@@ -6,6 +6,7 @@ export const visma = {
   slug: "visma",
   title: "Visma",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 405,
   lastChapter: 751,
   characterClaims: "jsonl",

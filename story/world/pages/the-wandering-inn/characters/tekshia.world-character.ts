@@ -6,6 +6,7 @@ export const tekshia = {
   slug: "tekshia",
   title: "Tekshia Silverfang",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 65,
   lastChapter: 386,
   characterClaims: "jsonl",

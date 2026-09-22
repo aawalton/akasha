@@ -6,6 +6,7 @@ export const temile = {
   slug: "temile",
   title: "Temile",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 458,
   lastChapter: 458,
   characterClaims: "jsonl",

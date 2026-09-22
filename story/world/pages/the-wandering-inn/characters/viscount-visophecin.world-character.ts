@@ -6,6 +6,7 @@ export const viscountVisophecin = {
   slug: "viscount-visophecin",
   title: "Visophecin",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 551,
   lastChapter: 682,
   characterClaims: "jsonl",

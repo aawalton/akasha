@@ -6,6 +6,7 @@ export const terresHangclaw = {
   slug: "terres-hangclaw",
   title: "Terres Hangclaw",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 103,
   lastChapter: 103,
   characterClaims: "jsonl",

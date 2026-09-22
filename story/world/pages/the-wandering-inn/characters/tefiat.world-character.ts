@@ -6,6 +6,7 @@ export const tefiat = {
   slug: "tefiat",
   title: "Tefiat",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 199,
   lastChapter: 199,
   characterClaims: "jsonl",

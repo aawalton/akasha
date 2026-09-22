@@ -6,6 +6,7 @@ export const tyrion = {
   slug: "tyrion",
   title: "Tyrion Veltras",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   maxLevel: 34,
   eventCount: 11,
   firstChapter: 183,

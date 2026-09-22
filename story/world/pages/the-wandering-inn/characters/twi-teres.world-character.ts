@@ -6,6 +6,7 @@ export const twiTeres = {
   slug: "twi-teres",
   title: "Teres",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 180,
   lastChapter: 180,
   characterClaims: "jsonl",

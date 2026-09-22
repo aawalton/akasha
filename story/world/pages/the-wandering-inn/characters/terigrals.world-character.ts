@@ -6,6 +6,7 @@ export const terigrals = {
   slug: "terigrals",
   title: "Terigrals",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 510,
   lastChapter: 510,
   characterClaims: "jsonl",

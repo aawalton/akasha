@@ -6,6 +6,7 @@ export const tessaShriekblade = {
   slug: "tessa-shriekblade",
   title: "Tessa",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 690,
   lastChapter: 690,
   characterClaims: "jsonl",

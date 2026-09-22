@@ -6,6 +6,7 @@ export const viceria = {
   slug: "viceria",
   title: "Viceria",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 194,
   lastChapter: 408,
   characterClaims: "jsonl",

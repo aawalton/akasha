@@ -6,6 +6,7 @@ export const takhatres = {
   slug: "takhatres",
   title: "Takhatres",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 92,
   lastChapter: 790,
   characterClaims: "jsonl",

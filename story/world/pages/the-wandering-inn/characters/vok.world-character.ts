@@ -6,6 +6,7 @@ export const vok = {
   slug: "vok",
   title: "Vokkhar",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 510,
   lastChapter: 525,
   characterClaims: "jsonl",

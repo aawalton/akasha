@@ -6,6 +6,7 @@ export const typhenousPlagueMage = {
   slug: "typhenous-plague-mage",
   title: "Typhenous",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 715,
   lastChapter: 715,
   characterClaims: "jsonl",

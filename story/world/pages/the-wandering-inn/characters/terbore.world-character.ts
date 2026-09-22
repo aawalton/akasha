@@ -6,6 +6,7 @@ export const terbore = {
   slug: "terbore",
   title: "Terbore",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 23,
   lastChapter: 23,
   characterClaims: "jsonl",

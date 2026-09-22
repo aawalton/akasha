@@ -6,6 +6,7 @@ export const thomastVeniral = {
   slug: "thomast-veniral",
   title: "Thomast Veniral",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 337,
   lastChapter: 337,
   characterClaims: "jsonl",

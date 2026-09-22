@@ -6,6 +6,7 @@ export const unnamedPaladin = {
   slug: "unnamed-paladin",
   title: "the Dullahan Paladin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 506,
   lastChapter: 506,
   characterClaims: "jsonl",

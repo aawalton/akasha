@@ -6,6 +6,7 @@ export const venazHammerad = {
   slug: "venaz-hammerad",
   title: "Venaz",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 418,
   lastChapter: 418,
   characterClaims: "jsonl",

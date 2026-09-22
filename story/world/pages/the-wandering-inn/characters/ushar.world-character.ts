@@ -6,6 +6,7 @@ export const ushar = {
   slug: "ushar",
   title: "Ushar",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 707,
   lastChapter: 707,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const viecel = {
   slug: "viecel",
   title: "Viecel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 620,
   lastChapter: 620,
   characterClaims: "jsonl",

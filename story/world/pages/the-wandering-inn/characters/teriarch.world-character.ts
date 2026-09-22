@@ -6,6 +6,7 @@ export const teriarch = {
   slug: "teriarch",
   title: "Teriarch",
   world: "world/the-wandering-inn",
+  appearanceCount: 56,
   firstChapter: 46,
   lastChapter: 824,
   characterClaims: "jsonl",

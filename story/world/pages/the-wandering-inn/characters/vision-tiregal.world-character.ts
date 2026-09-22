@@ -6,6 +6,7 @@ export const visionTiregal = {
   slug: "vision-tiregal",
   title: "Vision Tiregal",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 782,
   lastChapter: 782,
   characterClaims: "jsonl",

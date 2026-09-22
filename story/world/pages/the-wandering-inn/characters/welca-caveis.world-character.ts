@@ -6,6 +6,7 @@ export const welcaCaveis = {
   slug: "welca-caveis",
   title: "Welca Caveis",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 260,
   lastChapter: 337,
   characterClaims: "jsonl",

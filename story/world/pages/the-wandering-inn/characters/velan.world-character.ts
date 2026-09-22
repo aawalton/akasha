@@ -6,6 +6,7 @@ export const velan = {
   slug: "velan",
   title: "the Goblin King",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 157,
   lastChapter: 729,
   characterClaims: "jsonl",

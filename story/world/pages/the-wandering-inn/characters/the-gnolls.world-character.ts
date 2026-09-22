@@ -6,6 +6,7 @@ export const theGnolls = {
   slug: "the-gnolls",
   title: "Gnolls",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 683,
   lastChapter: 683,
   characterClaims: "jsonl",

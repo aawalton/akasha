@@ -6,6 +6,7 @@ export const thePyromancer = {
   slug: "the-pyromancer",
   title: "The Pyromancer",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 355,
   lastChapter: 355,
   characterClaims: "jsonl",

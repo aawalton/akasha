@@ -6,6 +6,7 @@ export const velden = {
   slug: "velden",
   title: "Velden",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 562,
   lastChapter: 562,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const theHalfling = {
   slug: "the-halfling",
   title: "the man on the moon",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 739,
   lastChapter: 739,
   characterClaims: "jsonl",

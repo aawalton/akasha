@@ -6,6 +6,7 @@ export const toren = {
   slug: "toren",
   title: "Toren",
   world: "world/the-wandering-inn",
+  appearanceCount: 56,
   maxLevel: 47,
   eventCount: 56,
   firstChapter: 49,

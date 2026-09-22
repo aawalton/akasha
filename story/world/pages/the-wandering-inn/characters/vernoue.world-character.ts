@@ -6,6 +6,7 @@ export const vernoue = {
   slug: "vernoue",
   title: "Vernoue",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 608,
   lastChapter: 773,
   characterClaims: "jsonl",

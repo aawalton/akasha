@@ -6,6 +6,7 @@ export const theophilus = {
   slug: "theophilus",
   title: "Theophilus",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   maxLevel: 20,
   eventCount: 9,
   firstChapter: 562,

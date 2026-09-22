@@ -6,6 +6,7 @@ export const therriumSailwinds = {
   slug: "therrium-sailwinds",
   title: "Captain Therrium",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 418,
   lastChapter: 786,
   characterClaims: "jsonl",

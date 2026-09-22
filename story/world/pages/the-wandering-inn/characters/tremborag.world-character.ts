@@ -6,6 +6,7 @@ export const tremborag = {
   slug: "tremborag",
   title: "Tremborag",
   world: "world/the-wandering-inn",
+  appearanceCount: 12,
   firstChapter: 152,
   lastChapter: 295,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const vernoueDuMarquin = {
   slug: "vernoue-du-marquin",
   title: "Princess Vernoue du Marquin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   maxLevel: 28,
   eventCount: 4,
   firstChapter: 774,

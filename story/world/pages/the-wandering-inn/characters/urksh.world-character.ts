@@ -6,6 +6,7 @@ export const urksh = {
   slug: "urksh",
   title: "Urksh",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 100,
   lastChapter: 115,
   characterClaims: "jsonl",

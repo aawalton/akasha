@@ -6,6 +6,7 @@ export const trueshot = {
   slug: "trueshot",
   title: "Trueshot",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 721,
   lastChapter: 721,
   characterClaims: "jsonl",

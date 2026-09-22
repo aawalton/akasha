@@ -6,6 +6,7 @@ export const todi = {
   slug: "todi",
   title: "Todi",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 413,
   lastChapter: 413,
   characterClaims: "jsonl",

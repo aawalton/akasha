@@ -6,6 +6,7 @@ export const vitte = {
   slug: "vitte",
   title: "Vitte",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 797,
   lastChapter: 797,
   characterClaims: "jsonl",

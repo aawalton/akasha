@@ -6,6 +6,7 @@ export const torishiWeatherfur = {
   slug: "torishi-weatherfur",
   title: "Torishi Weatherfur",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 586,
   lastChapter: 586,
   characterClaims: "jsonl",

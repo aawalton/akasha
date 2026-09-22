@@ -6,6 +6,7 @@ export const tolveilouka = {
   slug: "tolveilouka",
   title: "Tolveilouka Ve'delina Mer",
   world: "world/the-wandering-inn",
+  appearanceCount: 9,
   firstChapter: 531,
   lastChapter: 764,
   characterClaims: "jsonl",

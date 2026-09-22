@@ -6,6 +6,7 @@ export const tengrip = {
   slug: "tengrip",
   title: "Tengrip",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 182,
   lastChapter: 182,
   characterClaims: "jsonl",

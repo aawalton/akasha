@@ -6,6 +6,7 @@ export const uxel = {
   slug: "uxel",
   title: "Commander Uxel",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 438,
   lastChapter: 439,
   characterClaims: "jsonl",

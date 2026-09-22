@@ -6,6 +6,7 @@ export const toumaTheGreat = {
   slug: "touma-the-great",
   title: "Touma the Great",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 532,
   lastChapter: 532,
   characterClaims: "jsonl",

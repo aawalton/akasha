@@ -6,6 +6,7 @@ export const tissl = {
   slug: "tissl",
   title: "Tissl Venleather",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 786,
   lastChapter: 810,
   characterClaims: "jsonl",

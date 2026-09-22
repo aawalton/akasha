@@ -6,6 +6,7 @@ export const takhatresLordSkies = {
   slug: "takhatres-lord-skies",
   title: "Takhatres",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 704,
   lastChapter: 704,
   characterClaims: "jsonl",

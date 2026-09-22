@@ -6,6 +6,7 @@ export const verdanBlackwood = {
   slug: "verdan-blackwood",
   title: "Verdan Blackwood",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 686,
   lastChapter: 686,
   characterClaims: "jsonl",

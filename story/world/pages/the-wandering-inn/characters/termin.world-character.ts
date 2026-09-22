@@ -6,6 +6,7 @@ export const termin = {
   slug: "termin",
   title: "Termin",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 156,
   lastChapter: 665,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const timborParithad = {
   slug: "timbor-parithad",
   title: "Timbor Parithad",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 200,
   lastChapter: 200,
   characterClaims: "jsonl",

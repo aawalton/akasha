@@ -6,6 +6,7 @@ export const voita = {
   slug: "voita",
   title: "Voita",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 563,
   lastChapter: 610,
   characterClaims: "jsonl",

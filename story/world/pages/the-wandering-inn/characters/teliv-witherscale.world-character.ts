@@ -6,6 +6,7 @@ export const telivWitherscale = {
   slug: "teliv-witherscale",
   title: "Teliv",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 366,
   lastChapter: 366,
   characterClaims: "jsonl",

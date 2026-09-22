@@ -6,6 +6,7 @@ export const uzine = {
   slug: "uzine",
   title: "Uzine",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 551,
   lastChapter: 582,
   characterClaims: "jsonl",

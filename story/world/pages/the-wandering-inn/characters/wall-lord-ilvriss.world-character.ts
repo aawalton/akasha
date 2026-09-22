@@ -6,6 +6,7 @@ export const wallLordIlvriss = {
   slug: "wall-lord-ilvriss",
   title: "Wall Lord Ilvriss",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 208,
   lastChapter: 508,
   characterClaims: "jsonl",

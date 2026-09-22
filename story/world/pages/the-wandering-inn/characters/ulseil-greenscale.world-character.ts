@@ -6,6 +6,7 @@ export const ulseilGreenscale = {
   slug: "ulseil-greenscale",
   title: "Ulseil Greenscale",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 339,
   lastChapter: 339,
   characterClaims: "jsonl",

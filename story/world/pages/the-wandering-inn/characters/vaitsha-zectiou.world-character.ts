@@ -6,6 +6,7 @@ export const vaitshaZectiou = {
   slug: "vaitsha-zectiou",
   title: "Vaitsha Zectiou",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 323,
   lastChapter: 399,
   characterClaims: "jsonl",

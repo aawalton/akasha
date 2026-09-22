@@ -6,6 +6,7 @@ export const thelican = {
   slug: "thelican",
   title: "Thelican",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 370,
   lastChapter: 671,
   characterClaims: "jsonl",

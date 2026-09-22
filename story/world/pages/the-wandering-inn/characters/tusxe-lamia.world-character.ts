@@ -6,6 +6,7 @@ export const tusxeLamia = {
   slug: "tusxe-lamia",
   title: "Tusxe",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 519,
   lastChapter: 519,
   characterClaims: "jsonl",

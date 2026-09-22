@@ -6,6 +6,7 @@ export const tritel = {
   slug: "tritel",
   title: "Tritel",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 416,
   lastChapter: 474,
   characterClaims: "jsonl",

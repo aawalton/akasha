@@ -6,6 +6,7 @@ export const ush = {
   slug: "ush",
   title: "Ush",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 500,
   lastChapter: 500,
   characterClaims: "jsonl",

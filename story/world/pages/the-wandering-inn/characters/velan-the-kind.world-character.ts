@@ -6,6 +6,7 @@ export const velanTheKind = {
   slug: "velan-the-kind",
   title: "Velan the Kind",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 152,
   lastChapter: 236,
   characterClaims: "jsonl",

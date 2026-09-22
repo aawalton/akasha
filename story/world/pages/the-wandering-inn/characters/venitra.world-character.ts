@@ -6,6 +6,7 @@ export const venitra = {
   slug: "venitra",
   title: "Venitra",
   world: "world/the-wandering-inn",
+  appearanceCount: 12,
   firstChapter: 102,
   lastChapter: 615,
   characterClaims: "jsonl",

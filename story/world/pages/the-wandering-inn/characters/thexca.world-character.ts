@@ -6,6 +6,7 @@ export const thexca = {
   slug: "thexca",
   title: "Thexca",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 797,
   lastChapter: 797,
   characterClaims: "jsonl",

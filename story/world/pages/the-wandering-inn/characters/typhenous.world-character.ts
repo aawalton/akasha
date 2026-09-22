@@ -6,6 +6,7 @@ export const typhenous = {
   slug: "typhenous",
   title: "Typhenous",
   world: "world/the-wandering-inn",
+  appearanceCount: 17,
   maxLevel: 28,
   eventCount: 2,
   firstChapter: 94,

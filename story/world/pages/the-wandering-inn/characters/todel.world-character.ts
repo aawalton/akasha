@@ -6,6 +6,7 @@ export const todel = {
   slug: "todel",
   title: "Todel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 336,
   lastChapter: 336,
   characterClaims: "jsonl",

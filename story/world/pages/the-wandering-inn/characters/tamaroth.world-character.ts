@@ -6,6 +6,7 @@ export const tamaroth = {
   slug: "tamaroth",
   title: "Tamaroth",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 176,
   lastChapter: 758,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const thunderfur = {
   slug: "thunderfur",
   title: "Thunderfur",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 409,
   lastChapter: 752,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const venithCrusland = {
   slug: "venith-crusland",
   title: "Venith Crusland",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 179,
   lastChapter: 559,
   characterClaims: "jsonl",

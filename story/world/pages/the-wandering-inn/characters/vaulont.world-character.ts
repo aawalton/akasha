@@ -6,6 +6,7 @@ export const vaulont = {
   slug: "vaulont",
   title: "Vaulont the Ash",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 498,
   lastChapter: 780,
   characterClaims: "jsonl",

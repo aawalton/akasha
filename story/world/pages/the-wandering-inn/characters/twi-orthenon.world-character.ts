@@ -6,6 +6,7 @@ export const twiOrthenon = {
   slug: "twi-orthenon",
   title: "Orthenon",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 180,
   lastChapter: 180,
   characterClaims: "jsonl",

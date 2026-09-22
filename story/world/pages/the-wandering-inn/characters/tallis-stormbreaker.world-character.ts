@@ -6,6 +6,7 @@ export const tallisStormbreaker = {
   slug: "tallis-stormbreaker",
   title: "Tallis Stormbreaker",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 235,
   lastChapter: 235,
   characterClaims: "jsonl",

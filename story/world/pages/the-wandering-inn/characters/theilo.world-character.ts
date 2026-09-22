@@ -6,6 +6,7 @@ export const theilo = {
   slug: "theilo",
   title: "Theilo",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 618,
   lastChapter: 618,
   characterClaims: "jsonl",

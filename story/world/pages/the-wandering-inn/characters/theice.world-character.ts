@@ -6,6 +6,7 @@ export const theice = {
   slug: "theice",
   title: "Theice",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 631,
   lastChapter: 631,
   characterClaims: "jsonl",

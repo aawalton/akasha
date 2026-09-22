@@ -6,6 +6,7 @@ export const voiceIkeiret = {
   slug: "voice-ikeiret",
   title: "Voice Ikeiret",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 691,
   lastChapter: 691,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const thePrincess = {
   slug: "the-princess",
   title: "the creature in the night",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 90,
   lastChapter: 90,
   characterClaims: "jsonl",

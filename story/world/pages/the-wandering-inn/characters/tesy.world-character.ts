@@ -6,6 +6,7 @@ export const tesy = {
   slug: "tesy",
   title: "Tesy",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   firstChapter: 510,
   lastChapter: 678,
   characterClaims: "jsonl",

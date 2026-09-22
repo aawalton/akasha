@@ -6,6 +6,7 @@ export const teres = {
   slug: "teres",
   title: "Teres",
   world: "world/the-wandering-inn",
+  appearanceCount: 12,
   eventCount: 4,
   firstChapter: 177,
   lastChapter: 454,

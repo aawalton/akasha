@@ -6,6 +6,7 @@ export const summerChampionGreysten = {
   slug: "summer-champion-greysten",
   title: "Summer's Champion",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 490,
   lastChapter: 490,
   characterClaims: "jsonl",

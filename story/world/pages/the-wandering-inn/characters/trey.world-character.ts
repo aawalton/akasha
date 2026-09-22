@@ -6,6 +6,7 @@ export const trey = {
   slug: "trey",
   title: "Trey",
   world: "world/the-wandering-inn",
+  appearanceCount: 14,
   firstChapter: 92,
   lastChapter: 735,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const warsh = {
   slug: "warsh",
   title: "Warsh",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 328,
   lastChapter: 328,
   characterClaims: "jsonl",

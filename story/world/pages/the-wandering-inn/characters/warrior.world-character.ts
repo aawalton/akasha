@@ -6,6 +6,7 @@ export const warrior = {
   slug: "warrior",
   title: "the creature in the crevasse",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 749,
   lastChapter: 749,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const twinGirl = {
   slug: "twin-girl",
   title: "a girl of sixteen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 27,
   lastChapter: 27,
   characterClaims: "jsonl",

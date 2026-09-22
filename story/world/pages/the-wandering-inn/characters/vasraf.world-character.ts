@@ -6,6 +6,7 @@ export const vasraf = {
   slug: "vasraf",
   title: "Vasraf",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 368,
   lastChapter: 541,
   characterClaims: "jsonl",

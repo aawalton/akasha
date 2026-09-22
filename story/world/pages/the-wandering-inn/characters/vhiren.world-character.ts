@@ -6,6 +6,7 @@ export const vhiren = {
   slug: "vhiren",
   title: "Vhiren",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 783,
   lastChapter: 783,
   characterClaims: "jsonl",

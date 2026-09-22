@@ -6,6 +6,7 @@ export const watchertree = {
   slug: "watchertree",
   title: "the Watchertree",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 373,
   lastChapter: 373,
   characterClaims: "jsonl",

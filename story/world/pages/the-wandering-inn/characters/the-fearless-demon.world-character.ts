@@ -6,6 +6,7 @@ export const theFearlessDemon = {
   slug: "the-fearless-demon",
   title: "the captive Fearless",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 215,
   lastChapter: 215,
   characterClaims: "jsonl",

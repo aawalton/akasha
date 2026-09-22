@@ -6,6 +6,7 @@ export const thrissiamBlackwing = {
   slug: "thrissiam-blackwing",
   title: "Thrissiam Blackwing",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 193,
   lastChapter: 232,
   characterClaims: "jsonl",

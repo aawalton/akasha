@@ -6,6 +6,7 @@ export const umina = {
   slug: "umina",
   title: "Umina",
   world: "world/the-wandering-inn",
+  appearanceCount: 11,
   firstChapter: 111,
   lastChapter: 575,
   characterClaims: "jsonl",

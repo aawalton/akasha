@@ -6,6 +6,7 @@ export const uliaOvena = {
   slug: "ulia-ovena",
   title: "Ulia Ovena",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 200,
   lastChapter: 200,
   characterClaims: "jsonl",

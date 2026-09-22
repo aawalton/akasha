@@ -6,6 +6,7 @@ export const telim = {
   slug: "telim",
   title: "Telim",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 557,
   lastChapter: 771,
   characterClaims: "jsonl",

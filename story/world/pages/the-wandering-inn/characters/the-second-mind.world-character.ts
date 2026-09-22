@@ -6,6 +6,7 @@ export const theSecondMind = {
   slug: "the-second-mind",
   title: "the Second Mind",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 546,
   lastChapter: 546,
   characterClaims: "jsonl",

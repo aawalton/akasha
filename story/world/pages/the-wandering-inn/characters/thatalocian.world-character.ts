@@ -6,6 +6,7 @@ export const thatalocian = {
   slug: "thatalocian",
   title: "Thatalocian",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 676,
   lastChapter: 799,
   characterClaims: "jsonl",

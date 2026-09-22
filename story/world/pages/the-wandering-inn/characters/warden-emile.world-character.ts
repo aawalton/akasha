@@ -6,6 +6,7 @@ export const wardenEmile = {
   slug: "warden-emile",
   title: "River Warden Emile",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 440,
   lastChapter: 440,
   characterClaims: "jsonl",

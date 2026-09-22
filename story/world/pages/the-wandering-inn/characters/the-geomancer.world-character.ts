@@ -6,6 +6,7 @@ export const theGeomancer = {
   slug: "the-geomancer",
   title: "the mage in yellow robes",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 182,
   lastChapter: 182,
   characterClaims: "jsonl",

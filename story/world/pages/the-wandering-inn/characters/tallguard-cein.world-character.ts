@@ -6,6 +6,7 @@ export const tallguardCein = {
   slug: "tallguard-cein",
   title: "Cein",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 643,
   lastChapter: 643,
   characterClaims: "jsonl",

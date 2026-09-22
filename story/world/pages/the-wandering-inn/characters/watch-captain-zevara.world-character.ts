@@ -6,6 +6,7 @@ export const watchCaptainZevara = {
   slug: "watch-captain-zevara",
   title: "Watch Captain Zevara",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 328,
   lastChapter: 669,
   characterClaims: "jsonl",

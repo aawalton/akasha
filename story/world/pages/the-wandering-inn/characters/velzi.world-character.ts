@@ -6,6 +6,7 @@ export const velzi = {
   slug: "velzi",
   title: "Velzi",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 509,
   lastChapter: 509,
   characterClaims: "jsonl",

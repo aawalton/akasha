@@ -6,6 +6,7 @@ export const venaz = {
   slug: "venaz",
   title: "Venaz",
   world: "world/the-wandering-inn",
+  appearanceCount: 20,
   eventCount: 1,
   firstChapter: 111,
   lastChapter: 802,

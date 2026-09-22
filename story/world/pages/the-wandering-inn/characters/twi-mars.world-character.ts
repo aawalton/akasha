@@ -6,6 +6,7 @@ export const twiMars = {
   slug: "twi-mars",
   title: "Mars",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 180,
   lastChapter: 180,
   characterClaims: "jsonl",

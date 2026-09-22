@@ -6,6 +6,7 @@ export const veine = {
   slug: "veine",
   title: "Strategist Veine",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 731,
   lastChapter: 731,
   characterClaims: "jsonl",

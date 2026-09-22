@@ -6,6 +6,7 @@ export const tersk = {
   slug: "tersk",
   title: "Tersk",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 190,
   lastChapter: 392,
   characterClaims: "jsonl",

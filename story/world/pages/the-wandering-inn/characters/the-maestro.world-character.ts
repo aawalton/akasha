@@ -6,6 +6,7 @@ export const theMaestro = {
   slug: "the-maestro",
   title: "the Maestro",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 629,
   lastChapter: 630,
   characterClaims: "jsonl",

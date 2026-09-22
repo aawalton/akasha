@@ -6,6 +6,7 @@ export const tyrionVeltras = {
   slug: "tyrion-veltras",
   title: "Tyrion Veltras",
   world: "world/the-wandering-inn",
+  appearanceCount: 43,
   firstChapter: 236,
   lastChapter: 752,
   characterClaims: "jsonl",

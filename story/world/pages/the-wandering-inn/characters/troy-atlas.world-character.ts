@@ -6,6 +6,7 @@ export const troyAtlas = {
   slug: "troy-atlas",
   title: "Troy Atlas",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 545,
   lastChapter: 556,
   characterClaims: "jsonl",

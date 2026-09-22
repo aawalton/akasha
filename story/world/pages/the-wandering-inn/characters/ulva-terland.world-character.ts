@@ -6,6 +6,7 @@ export const ulvaTerland = {
   slug: "ulva-terland",
   title: "Ulva Terland",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 474,
   lastChapter: 820,
   characterClaims: "jsonl",

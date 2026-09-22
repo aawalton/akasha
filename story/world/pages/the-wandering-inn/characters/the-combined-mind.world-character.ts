@@ -6,6 +6,7 @@ export const theCombinedMind = {
   slug: "the-combined-mind",
   title: "the Combined Mind",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 618,
   lastChapter: 618,
   characterClaims: "jsonl",

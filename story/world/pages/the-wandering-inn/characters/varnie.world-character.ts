@@ -6,6 +6,7 @@ export const varnie = {
   slug: "varnie",
   title: "Varnie",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 821,
   lastChapter: 821,
   characterClaims: "jsonl",

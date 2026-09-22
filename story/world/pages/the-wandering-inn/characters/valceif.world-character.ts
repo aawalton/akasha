@@ -6,6 +6,7 @@ export const valceif = {
   slug: "valceif",
   title: "Valceif Godfrey",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 170,
   lastChapter: 750,
   characterClaims: "jsonl",

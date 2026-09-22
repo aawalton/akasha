@@ -6,6 +6,7 @@ export const viri = {
   slug: "viri",
   title: "Viri",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 520,
   lastChapter: 560,
   characterClaims: "jsonl",

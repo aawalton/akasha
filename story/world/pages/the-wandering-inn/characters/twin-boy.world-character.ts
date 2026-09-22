@@ -6,6 +6,7 @@ export const twinBoy = {
   slug: "twin-boy",
   title: "a boy of sixteen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 27,
   lastChapter: 27,
   characterClaims: "jsonl",

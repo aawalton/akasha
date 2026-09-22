@@ -6,6 +6,7 @@ export const vexx = {
   slug: "vexx",
   title: "Vexx",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 643,
   lastChapter: 643,
   characterClaims: "jsonl",

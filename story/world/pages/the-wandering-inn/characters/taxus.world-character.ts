@@ -6,6 +6,7 @@ export const taxus = {
   slug: "taxus",
   title: "Taxus",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 655,
   lastChapter: 655,
   characterClaims: "jsonl",

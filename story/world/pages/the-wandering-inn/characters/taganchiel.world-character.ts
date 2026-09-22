@@ -6,6 +6,7 @@ export const taganchiel = {
   slug: "taganchiel",
   title: "Taganchiel",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 716,
   lastChapter: 729,
   characterClaims: "jsonl",

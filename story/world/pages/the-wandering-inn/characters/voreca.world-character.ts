@@ -6,6 +6,7 @@ export const voreca = {
   slug: "voreca",
   title: "Voreca",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 709,
   lastChapter: 709,
   characterClaims: "jsonl",

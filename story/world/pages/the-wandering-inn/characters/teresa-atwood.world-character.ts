@@ -6,6 +6,7 @@ export const teresaAtwood = {
   slug: "teresa-atwood",
   title: "Teresa Atwood",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 453,
   lastChapter: 556,
   characterClaims: "jsonl",

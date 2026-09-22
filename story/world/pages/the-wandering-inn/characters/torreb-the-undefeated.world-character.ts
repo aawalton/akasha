@@ -6,6 +6,7 @@ export const torrebTheUndefeated = {
   slug: "torreb-the-undefeated",
   title: "Torreb",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 638,
   lastChapter: 638,
   characterClaims: "jsonl",

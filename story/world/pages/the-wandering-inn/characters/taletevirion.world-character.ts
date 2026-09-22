@@ -6,6 +6,7 @@ export const taletevirion = {
   slug: "taletevirion",
   title: "the Unicorn",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   firstChapter: 627,
   lastChapter: 753,
   characterClaims: "jsonl",

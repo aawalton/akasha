@@ -6,6 +6,7 @@ export const theGrandQueen = {
   slug: "the-grand-queen",
   title: "the first Grand Queen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 116,
   lastChapter: 116,
   characterClaims: "jsonl",

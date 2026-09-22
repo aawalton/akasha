@@ -6,6 +6,7 @@ export const venim = {
   slug: "venim",
   title: "Watch Captain Venim",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   firstChapter: 242,
   lastChapter: 779,
   characterClaims: "jsonl",

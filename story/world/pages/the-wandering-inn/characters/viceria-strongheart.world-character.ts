@@ -6,6 +6,7 @@ export const viceriaStrongheart = {
   slug: "viceria-strongheart",
   title: "Viceria Strongheart",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 401,
   lastChapter: 401,
   characterClaims: "jsonl",

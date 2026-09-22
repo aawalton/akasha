@@ -6,6 +6,7 @@ export const tkrn = {
   slug: "tkrn",
   title: "Tkrn",
   world: "world/the-wandering-inn",
+  appearanceCount: 11,
   maxLevel: 21,
   eventCount: 6,
   firstChapter: 49,

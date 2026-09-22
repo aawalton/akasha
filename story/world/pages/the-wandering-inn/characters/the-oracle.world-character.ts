@@ -6,6 +6,7 @@ export const theOracle = {
   slug: "the-oracle",
   title: "The Oracle",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 457,
   lastChapter: 457,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const twinStripes = {
   slug: "twin-stripes",
   title: "Twin Stripes",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 226,
   lastChapter: 228,
   characterClaims: "jsonl",

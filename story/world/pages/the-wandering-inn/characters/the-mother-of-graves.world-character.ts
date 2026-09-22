@@ -6,6 +6,7 @@ export const theMotherOfGraves = {
   slug: "the-mother-of-graves",
   title: "the Mother of Graves",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 284,
   lastChapter: 284,
   characterClaims: "jsonl",

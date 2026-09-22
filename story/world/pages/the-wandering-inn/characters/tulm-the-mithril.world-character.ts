@@ -6,6 +6,7 @@ export const tulmTheMithril = {
   slug: "tulm-the-mithril",
   title: "Tulm",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 333,
   lastChapter: 576,
   characterClaims: "jsonl",

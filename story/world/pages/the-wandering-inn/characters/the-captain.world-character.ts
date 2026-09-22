@@ -6,6 +6,7 @@ export const theCaptain = {
   slug: "the-captain",
   title: "the Captain of the Errant Traveller",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 158,
   lastChapter: 158,
   characterClaims: "jsonl",

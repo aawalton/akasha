@@ -6,6 +6,7 @@ export const trapmasterAssassin = {
   slug: "trapmaster-assassin",
   title: "The Trapmaster",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 443,
   lastChapter: 443,
   characterClaims: "jsonl",

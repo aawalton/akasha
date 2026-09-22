@@ -6,6 +6,7 @@ export const ulbeTanouse = {
   slug: "ulbe-tanouse",
   title: "Ulbe Tanouse",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 824,
   lastChapter: 824,
   characterClaims: "jsonl",

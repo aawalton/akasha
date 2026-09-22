@@ -6,6 +6,7 @@ export const trollWithSword = {
   slug: "troll-with-sword",
   title: "the Troll with the sword",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 723,
   lastChapter: 723,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const vorsFissival = {
   slug: "vors-fissival",
   title: "Vors",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 519,
   lastChapter: 519,
   characterClaims: "jsonl",

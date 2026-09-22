@@ -6,6 +6,7 @@ export const warmageThresk = {
   slug: "warmage-thresk",
   title: "Warmage Thresk",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 133,
   lastChapter: 133,
   characterClaims: "jsonl",

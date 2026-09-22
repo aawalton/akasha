@@ -6,6 +6,7 @@ export const theOldbloodDrake = {
   slug: "the-oldblood-drake",
   title: "the Infiltrator",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 362,
   lastChapter: 362,
   characterClaims: "jsonl",

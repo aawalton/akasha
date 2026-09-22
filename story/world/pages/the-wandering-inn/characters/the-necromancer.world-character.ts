@@ -6,6 +6,7 @@ export const theNecromancer = {
   slug: "the-necromancer",
   title: "the Necromancer",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 193,
   lastChapter: 193,
   characterClaims: "jsonl",

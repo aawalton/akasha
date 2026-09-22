@@ -6,6 +6,7 @@ export const timorDuHavrington = {
   slug: "timor-du-havrington",
   title: "Timor du Havrington",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 158,
   lastChapter: 161,
   characterClaims: "jsonl",

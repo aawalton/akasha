@@ -6,6 +6,7 @@ export const theOldMan = {
   slug: "the-old-man",
   title: "the elderly figure",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 43,
   lastChapter: 43,
   characterClaims: "jsonl",

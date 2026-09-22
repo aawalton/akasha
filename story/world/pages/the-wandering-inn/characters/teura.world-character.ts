@@ -6,6 +6,7 @@ export const teura = {
   slug: "teura",
   title: "Teura",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 275,
   lastChapter: 771,
   characterClaims: "jsonl",

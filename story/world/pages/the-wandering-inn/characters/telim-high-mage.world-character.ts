@@ -6,6 +6,7 @@ export const telimHighMage = {
   slug: "telim-high-mage",
   title: "High Mage Telim",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 431,
   lastChapter: 431,
   characterClaims: "jsonl",

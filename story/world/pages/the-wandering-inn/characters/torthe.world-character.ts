@@ -6,6 +6,7 @@ export const torthe = {
   slug: "torthe",
   title: "Torthe Suorloks",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 647,
   lastChapter: 661,
   characterClaims: "jsonl",

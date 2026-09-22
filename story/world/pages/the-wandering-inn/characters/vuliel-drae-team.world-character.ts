@@ -6,6 +6,7 @@ export const vulielDraeTeam = {
   slug: "vuliel-drae-team",
   title: "Vuliel Drae",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 255,
   lastChapter: 255,
   characterClaims: "jsonl",

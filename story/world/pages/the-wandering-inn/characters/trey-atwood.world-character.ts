@@ -6,6 +6,7 @@ export const treyAtwood = {
   slug: "trey-atwood",
   title: "Trey Atwood",
   world: "world/the-wandering-inn",
+  appearanceCount: 13,
   maxLevel: 20,
   eventCount: 15,
   firstChapter: 323,

@@ -6,6 +6,7 @@ export const theRats = {
   slug: "the-rats",
   title: "two rats",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 356,
   lastChapter: 356,
   characterClaims: "jsonl",
