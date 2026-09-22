@@ -133,7 +133,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/view/properties/narrows.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/view/properties/view-sorts.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/view/properties/visible-properties.text-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"person/access/properties/person-access-deed.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"person/access/properties/person-access-deed.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"persona/craft-day/properties/personas-crafted.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"persona/properties/cover-images.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"persona/properties/wallpaper-images.multi-relation-property.types.ts"}

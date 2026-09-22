@@ -1,8 +1,8 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const personAccessDeed = {
   id: "01a0c4e8-9759-74ba-a799-01d34c3eaea9",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "person-access-deed",
   propertySlug: "deed",
   definition: "what the access lets its holder do",
@@ -18,4 +18,4 @@ export const personAccessDeed = {
     },
   ],
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

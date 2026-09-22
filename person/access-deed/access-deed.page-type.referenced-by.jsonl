@@ -2,4 +2,4 @@
 {"propertySlug":"import","fileName":"access-deed.page-type.types.ts","path":"person/access-deed/pages/read.access-deed.ts"}
 {"propertySlug":"import","fileName":"access-deed.page-type.types.ts","path":"person/access-deed/pages/write.access-deed.ts"}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
-{"propertySlug":"target-page-type","path":"person/access/properties/person-access-deed.relation-property.ts","id":"01a0c4e8-9759-74ba-a799-01d34c3eaea9"}
+{"propertySlug":"target-page-type","path":"person/access/properties/person-access-deed.multi-relation-property.ts","id":"01a0c4e8-9759-74ba-a799-01d34c3eaea9"}

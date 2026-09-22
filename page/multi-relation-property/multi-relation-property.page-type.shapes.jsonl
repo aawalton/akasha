@@ -6,5 +6,6 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"members","propertySlug":"members","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"model-test","unique":null,"uniquePropertySlug":null,"slug":"model-tests","propertySlug":"model-tests","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"parts","propertySlug":"parts","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"access-deed","unique":null,"uniquePropertySlug":null,"slug":"person-access-deed","propertySlug":"deed","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"personas-crafted","propertySlug":"personas-crafted","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"wallpaper-images","propertySlug":"wallpapers","fileName":null,"folderName":null}

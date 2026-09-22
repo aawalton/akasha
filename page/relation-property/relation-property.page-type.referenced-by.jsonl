@@ -121,7 +121,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/properties/page-property.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/view/properties/nav.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/view/properties/view-page-type.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/access/properties/person-access-deed.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/access/properties/person-access-kind.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/access/properties/person-access-person.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/access/properties/person-access-serves.relation-property.ts"}
