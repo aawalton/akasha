@@ -1,1 +1,3 @@
 - Why recombination spends no variation: what a shuffle does to allele frequencies, and what drift and fixation do that a shuffle does not. Parked in session rather than pressed, and it is the one loose plank under an otherwise built account.
+- Linkage disequilibrium as a quantity rather than a name: what correlation between loci means, what recombination does to it each generation, and why the modern theory of sex is written in it. He has the name and the idea it stands for, and nothing he can compute with.
+- Rebuild the ratchet's escape from the sexual side: how two parents each carrying deleterious mutations can produce a child carrying none, and why that is the same move as assembling a double beneficial mutant.
