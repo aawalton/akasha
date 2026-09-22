@@ -123,9 +123,7 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.decision.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-tmp/no-tmp.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-tmp/no-tmp.check-code.check.test.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-tmp/no-tmp.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-tmp/no-tmp.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.audit.code.ts"}

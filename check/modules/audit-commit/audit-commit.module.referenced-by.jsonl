@@ -24,6 +24,8 @@
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-tmp/no-tmp.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-tmp/no-tmp.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/page-named-as-stated/page-named-as-stated.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.audit.code.ts"}

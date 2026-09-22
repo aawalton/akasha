@@ -1,11 +1,11 @@
 import { dirname, join } from "node:path"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   lineOf,
   literalIn,
   parsedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { pageOf, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
 
@@ -89,19 +89,19 @@ function reasonsFor(at: string, text: string): readonly string[] {
   return [...taken.said, ...said]
 }
 
-export function allowedIn(path: string, shadow: Shadow): boolean {
+export function allowedIn(path: string, paged: Paged): boolean {
   const said = partedIn(path)
   if (said === null) return false
-  const page = shadow.pageOf(join(dirname(path), `${pageOf(said)}${TS}`))
+  const page = paged.pageOf(join(dirname(path), `${pageOf(said)}${TS}`))
   if (page === null) return false
   if (page[ALLOWS] === true) return true
   const slug = slugAt(page, TYPE) ?? slugAt(page, WAS_TYPE_SLUG)
   if (slug === null) return false
-  return shadow.index.pageAt(PAGE_TYPE, slug)?.[ALLOWS] === true
+  return paged.index.pageAt(PAGE_TYPE, slug)?.[ALLOWS] === true
 }
 
-export function judgedIn(path: string, text: string, shadow: Shadow): readonly string[] {
+export function judgedIn(path: string, text: string, paged: Paged): readonly string[] {
   const said = reasonsFor(path, text)
-  if (said.length === 0 || allowedIn(path, shadow)) return []
+  if (said.length === 0 || allowedIn(path, paged)) return []
   return said
 }
