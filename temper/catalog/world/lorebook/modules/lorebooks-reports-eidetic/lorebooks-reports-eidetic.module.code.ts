@@ -29,11 +29,20 @@ function allowEideticReport(): boolean {
 }
 
 export function buildEideticReportPerMap(lastObject: number): undefined {
-  const eideticHeaderText = GetControl<LabelControl>(LoreBooksReport, "EideticHeaderText")
+  const eideticHeaderText = GetControl<LabelControl>(
+    TemperWorldLoreBooksReport,
+    "EideticHeaderText"
+  )
   if (eideticHeaderText === undefined) return
   eideticHeaderText.ClearAnchors()
 
-  eideticHeaderText.SetAnchor(TOPLEFT, LoreBooksReportContainerScrollChild, TOPLEFT, 4, lastObject)
+  eideticHeaderText.SetAnchor(
+    TOPLEFT,
+    TemperWorldLoreBooksReportContainerScrollChild,
+    TOPLEFT,
+    4,
+    lastObject
+  )
 
   if (allowEideticReport()) {
     eideticHeaderText.SetText(GetString(LBOOKS_RE_FEW_BOOKS_MISSING))
@@ -64,35 +73,35 @@ export function buildEideticReportPerMap(lastObject: number): undefined {
         }
 
         let eideticBooksInMap = GetControl<LabelControl>(
-          LoreBooksReportContainerScrollChild,
+          TemperWorldLoreBooksReportContainerScrollChild,
           `EideticBooksInMap${mapIndex}`
         )
         let eideticMapName = GetControl<LabelControl>(
-          LoreBooksReportContainerScrollChild,
+          TemperWorldLoreBooksReportContainerScrollChild,
           `EideticMapName${mapIndex}`
         )
         let eideticReportForMap = GetControl<LabelControl>(
-          LoreBooksReportContainerScrollChild,
+          TemperWorldLoreBooksReportContainerScrollChild,
           `EideticReportForMap${mapIndex}`
         )
 
         if (eideticMapName === undefined) {
           eideticBooksInMap = CreateControlFromVirtual<LabelControl>(
             "$(parent)EideticBooksInMap",
-            LoreBooksReportContainerScrollChild,
-            "Lorebook_EideticBooksInMap_Template",
+            TemperWorldLoreBooksReportContainerScrollChild,
+            "TemperWorldLoreBooks_EideticBooksInMap_Template",
             mapIndex
           )
           eideticMapName = CreateControlFromVirtual<LabelControl>(
             "$(parent)EideticMapName",
-            LoreBooksReportContainerScrollChild,
-            "Lorebook_EideticMapName_Template",
+            TemperWorldLoreBooksReportContainerScrollChild,
+            "TemperWorldLoreBooks_EideticMapName_Template",
             mapIndex
           )
           eideticReportForMap = CreateControlFromVirtual<LabelControl>(
             "$(parent)EideticReportForMap",
-            LoreBooksReportContainerScrollChild,
-            "Lorebook_EideticReportForMap_Template",
+            TemperWorldLoreBooksReportContainerScrollChild,
+            "TemperWorldLoreBooks_EideticReportForMap_Template",
             mapIndex
           )
         } else {
@@ -109,21 +118,21 @@ export function buildEideticReportPerMap(lastObject: number): undefined {
         ) {
           eideticBooksInMap.SetAnchor(
             TOPLEFT,
-            LoreBooksReportContainerScrollChild,
+            TemperWorldLoreBooksReportContainerScrollChild,
             TOPLEFT,
             0,
             yCollectionIndex
           )
           eideticMapName.SetAnchor(
             TOPLEFT,
-            LoreBooksReportContainerScrollChild,
+            TemperWorldLoreBooksReportContainerScrollChild,
             TOPLEFT,
             25,
             yCollectionIndex
           )
           eideticReportForMap.SetAnchor(
             TOPLEFT,
-            LoreBooksReportContainerScrollChild,
+            TemperWorldLoreBooksReportContainerScrollChild,
             TOPLEFT,
             50,
             yCollectionIndex + 24
@@ -169,11 +178,20 @@ export function buildEideticReportPerMap(lastObject: number): undefined {
 }
 
 export function buildEideticReportPerCollection(lastObject: number): undefined {
-  const eideticHeaderText = GetControl<LabelControl>(LoreBooksReport, "EideticHeaderText")
+  const eideticHeaderText = GetControl<LabelControl>(
+    TemperWorldLoreBooksReport,
+    "EideticHeaderText"
+  )
   if (eideticHeaderText === undefined) return
   eideticHeaderText.ClearAnchors()
 
-  eideticHeaderText.SetAnchor(TOPLEFT, LoreBooksReportContainerScrollChild, TOPLEFT, 4, lastObject)
+  eideticHeaderText.SetAnchor(
+    TOPLEFT,
+    TemperWorldLoreBooksReportContainerScrollChild,
+    TOPLEFT,
+    4,
+    lastObject
+  )
 
   if (allowEideticReport()) {
     eideticHeaderText.SetText(GetString(LBOOKS_RE_FEW_BOOKS_MISSING))
@@ -208,35 +226,35 @@ export function buildEideticReportPerCollection(lastObject: number): undefined {
           let eideticReport = ""
 
           let eideticBooksInCollection = GetControl<LabelControl>(
-            LoreBooksReportContainerScrollChild,
+            TemperWorldLoreBooksReportContainerScrollChild,
             `EideticBooksInCollection${collectionIndex}`
           )
           let eideticCollectionName = GetControl<LabelControl>(
-            LoreBooksReportContainerScrollChild,
+            TemperWorldLoreBooksReportContainerScrollChild,
             `EideticCollectionName${collectionIndex}`
           )
           let eideticReportForCollection = GetControl<LabelControl>(
-            LoreBooksReportContainerScrollChild,
+            TemperWorldLoreBooksReportContainerScrollChild,
             `EideticReportForCollection${collectionIndex}`
           )
 
           if (eideticCollectionName === undefined) {
             eideticBooksInCollection = CreateControlFromVirtual<LabelControl>(
               "$(parent)EideticBooksInCollection",
-              LoreBooksReportContainerScrollChild,
-              "Lorebook_EideticBooksInCollection_Template",
+              TemperWorldLoreBooksReportContainerScrollChild,
+              "TemperWorldLoreBooks_EideticBooksInCollection_Template",
               collectionIndex
             )
             eideticCollectionName = CreateControlFromVirtual<LabelControl>(
               "$(parent)EideticCollectionName",
-              LoreBooksReportContainerScrollChild,
-              "Lorebook_EideticCollectionName_Template",
+              TemperWorldLoreBooksReportContainerScrollChild,
+              "TemperWorldLoreBooks_EideticCollectionName_Template",
               collectionIndex
             )
             eideticReportForCollection = CreateControlFromVirtual<LabelControl>(
               "$(parent)EideticReportForCollection",
-              LoreBooksReportContainerScrollChild,
-              "Lorebook_EideticReportForCollection_Template",
+              TemperWorldLoreBooksReportContainerScrollChild,
+              "TemperWorldLoreBooks_EideticReportForCollection_Template",
               collectionIndex
             )
           } else {
@@ -249,21 +267,21 @@ export function buildEideticReportPerCollection(lastObject: number): undefined {
           } else {
             eideticBooksInCollection.SetAnchor(
               TOPLEFT,
-              LoreBooksReportContainerScrollChild,
+              TemperWorldLoreBooksReportContainerScrollChild,
               TOPLEFT,
               0,
               yCollectionIndex
             )
             eideticCollectionName.SetAnchor(
               TOPLEFT,
-              LoreBooksReportContainerScrollChild,
+              TemperWorldLoreBooksReportContainerScrollChild,
               TOPLEFT,
               25,
               yCollectionIndex
             )
             eideticReportForCollection.SetAnchor(
               TOPLEFT,
-              LoreBooksReportContainerScrollChild,
+              TemperWorldLoreBooksReportContainerScrollChild,
               TOPLEFT,
               50,
               yCollectionIndex + 24

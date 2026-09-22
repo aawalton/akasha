@@ -293,9 +293,9 @@ export function rebuildLoreLibrary(): undefined {
   LORE_LIBRARY_SCENE.RegisterCallback("StateChange", onStateChanged)
 
   const lorebookResearch = WINDOW_MANAGER.CreateControlFromVirtual(
-    "Lorebook_Research",
+    "TemperWorldLoreBooks_Research",
     ZO_LoreLibrary,
-    "Lorebook_Research_Template"
+    "TemperWorldLoreBooks_Research_Template"
   )
   const searchBox = GetControl<EditControl>(lorebookResearch, "Box")
   searchBox?.SetHandler("OnTextChanged", asUnknownArgsVoidFn(onSearchTextChanged))

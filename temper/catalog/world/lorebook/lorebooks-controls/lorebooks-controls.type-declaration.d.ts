@@ -1,5 +1,5 @@
-declare const LoreBooksReport: Control
+declare const TemperWorldLoreBooksReport: Control
 
-declare const LoreBooksCopyReport: Control
+declare const TemperWorldLoreBooksCopyReport: Control
 
-declare const LoreBooksReportContainerScrollChild: Control
+declare const TemperWorldLoreBooksReportContainerScrollChild: Control

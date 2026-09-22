@@ -20,17 +20,17 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export function showLoreLibraryReport(forceHide?: boolean): undefined {
-  LoreBooksCopyReport.SetHidden(true)
+  TemperWorldLoreBooksCopyReport.SetHidden(true)
   if (forceHide === true) {
     REPORT_STATE.reportShown = false
-    LoreBooksReport.SetHidden(forceHide)
+    TemperWorldLoreBooksReport.SetHidden(forceHide)
   } else {
     if (ZO_LoreLibrary.IsHidden()) {
-      LoreBooksReport.SetHidden(true)
+      TemperWorldLoreBooksReport.SetHidden(true)
       ZO_LoreLibrary.SetHidden(false)
       REPORT_STATE.reportShown = false
     } else {
-      LoreBooksReport.SetHidden(false)
+      TemperWorldLoreBooksReport.SetHidden(false)
       ZO_LoreLibrary.SetHidden(true)
       REPORT_STATE.reportShown = true
     }
@@ -42,16 +42,17 @@ export function showLoreLibraryReport(forceHide?: boolean): undefined {
 }
 
 export function showLoreLibraryCopyReport(): undefined {
-  LoreBooksReport.SetHidden(true)
+  TemperWorldLoreBooksReport.SetHidden(true)
 
-  const edit = LoreBooksCopyReport.GetNamedChild("Content")?.GetNamedChild<EditControl>("Edit")
+  const edit =
+    TemperWorldLoreBooksCopyReport.GetNamedChild("Content")?.GetNamedChild<EditControl>("Edit")
   if (edit !== undefined) {
     edit.SelectAll()
     edit.TakeFocus()
     edit.SetTopLineIndex(1)
   }
 
-  LoreBooksCopyReport.SetHidden(false)
+  TemperWorldLoreBooksCopyReport.SetHidden(false)
 }
 
 export function isReportShown(this: void): boolean {
@@ -81,11 +82,11 @@ function displayCollectionsReport(
     if (data === undefined) continue
 
     let shalidorCollectionName = GetControl<LabelControl>(
-      LoreBooksReportContainerScrollChild,
+      TemperWorldLoreBooksReportContainerScrollChild,
       `CollectionName${collectionIndex}`
     )
     let shalidorCollectionValue = GetControl<LabelControl>(
-      LoreBooksReportContainerScrollChild,
+      TemperWorldLoreBooksReportContainerScrollChild,
       `CollectionValue${collectionIndex}`
     )
 
@@ -93,14 +94,14 @@ function displayCollectionsReport(
       if (shalidorCollectionName === undefined) {
         shalidorCollectionName = CreateControlFromVirtual<LabelControl>(
           "$(parent)CollectionName",
-          LoreBooksReportContainerScrollChild,
-          "Lorebook_ShaliCollectionName_Template",
+          TemperWorldLoreBooksReportContainerScrollChild,
+          "TemperWorldLoreBooks_ShaliCollectionName_Template",
           collectionIndex
         )
         shalidorCollectionValue = CreateControlFromVirtual<LabelControl>(
           "$(parent)CollectionValue",
-          LoreBooksReportContainerScrollChild,
-          "Lorebook_ShaliCollectionValue_Template",
+          TemperWorldLoreBooksReportContainerScrollChild,
+          "TemperWorldLoreBooks_ShaliCollectionValue_Template",
           collectionIndex
         )
       }
@@ -108,14 +109,14 @@ function displayCollectionsReport(
       if (shalidorCollectionName !== undefined && shalidorCollectionValue !== undefined) {
         shalidorCollectionValue.SetAnchor(
           TOPLEFT,
-          LoreBooksReportContainerScrollChild,
+          TemperWorldLoreBooksReportContainerScrollChild,
           TOPLEFT,
           20,
           yCollectionIndex
         )
         shalidorCollectionName.SetAnchor(
           TOPLEFT,
-          LoreBooksReportContainerScrollChild,
+          TemperWorldLoreBooksReportContainerScrollChild,
           TOPLEFT,
           70,
           yCollectionIndex
@@ -173,7 +174,10 @@ function buildShalidorReport(): number {
     }
   }
 
-  const shalidorHeaderText = GetControl<LabelControl>(LoreBooksReport, "ShalidorHeaderText")
+  const shalidorHeaderText = GetControl<LabelControl>(
+    TemperWorldLoreBooksReport,
+    "ShalidorHeaderText"
+  )
   let lastObject = 52
 
   if (points < pointsForRankMax) {
@@ -201,12 +205,18 @@ function buildEideticReport(lastObject: number): undefined {
 }
 
 function hidePreviousReport(): undefined {
-  for (const childIndex of $range(1, LoreBooksReportContainerScrollChild.GetNumChildren())) {
-    const childObject = LoreBooksReportContainerScrollChild.GetChild(childIndex)
+  for (const childIndex of $range(
+    1,
+    TemperWorldLoreBooksReportContainerScrollChild.GetNumChildren()
+  )) {
+    const childObject = TemperWorldLoreBooksReportContainerScrollChild.GetChild(childIndex)
     if (childObject !== undefined) {
       const childName = childObject.GetName()
       const [foundEidetic] = string.find(childName, "Eidetic")
-      if (childName !== "LoreBooksReportEideticHeaderText" && foundEidetic !== undefined) {
+      if (
+        childName !== "TemperWorldLoreBooksReportEideticHeaderText" &&
+        foundEidetic !== undefined
+      ) {
         childObject.SetHidden(true)
       }
     }
@@ -220,7 +230,8 @@ function buildLoreBookSummary(): undefined {
 
   buildEideticReport(lastObject)
 
-  const edit = LoreBooksCopyReport.GetNamedChild("Content")?.GetNamedChild<EditControl>("Edit")
+  const edit =
+    TemperWorldLoreBooksCopyReport.GetNamedChild("Content")?.GetNamedChild<EditControl>("Edit")
   edit?.SetText(REPORT_STATE.copyReport)
 }
 

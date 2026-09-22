@@ -1,7 +1,7 @@
 <GuiXml>
 	<Controls>
 	
-		<Backdrop name="Lorebook_Research_Template" inherits="ZO_EditBackdrop" tier="HIGH" virtual="true">
+		<Backdrop name="TemperWorldLoreBooks_Research_Template" inherits="ZO_EditBackdrop" tier="HIGH" virtual="true">
 			<Anchor point="TOPRIGHT" relativePoint="TOPRIGHT" offsetX="-38" offsetY="28"/>
 			<Dimensions x="270"/>
 			<Controls>
@@ -13,43 +13,43 @@
 			</Controls>
 		</Backdrop>
 		
-		<Label name="Lorebook_ShaliCollectionName_Template" font="ZoFontGameLargeBold" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" virtual="true">
+		<Label name="TemperWorldLoreBooks_ShaliCollectionName_Template" font="ZoFontGameLargeBold" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" virtual="true">
 			<Dimensions y="24" />
 		</Label>
 		
-		<Label name="Lorebook_ShaliCollectionValue_Template" font="ZoFontGameLargeBold" virtual="true">
+		<Label name="TemperWorldLoreBooks_ShaliCollectionValue_Template" font="ZoFontGameLargeBold" virtual="true">
 			<Dimensions y="24" />
 		</Label>
 		
-		<Label name="Lorebook_ShaliCollectionReport_Template" font="ZoFontGameLargeBold" virtual="true">
+		<Label name="TemperWorldLoreBooks_ShaliCollectionReport_Template" font="ZoFontGameLargeBold" virtual="true">
 			<Dimensions y="24" />
 		</Label>
 		
-		<Label name="Lorebook_EideticBooksInMap_Template" font="ZoFontGameLargeBold" virtual="true">
-			<Dimensions y="24" />
-		</Label>
-
-		<Label name="Lorebook_EideticMapName_Template" font="ZoFontGameLargeBold" virtual="true">
-			<Dimensions y="24" />
-		</Label>
-		
-		<Label name="Lorebook_EideticReportForMap_Template" font="ZoFontGameLargeBold" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" virtual="true">
-			<Dimensions x="775" />
-		</Label>
-		
-		<Label name="Lorebook_EideticBooksInCollection_Template" font="ZoFontGameLargeBold" virtual="true">
+		<Label name="TemperWorldLoreBooks_EideticBooksInMap_Template" font="ZoFontGameLargeBold" virtual="true">
 			<Dimensions y="24" />
 		</Label>
 
-		<Label name="Lorebook_EideticCollectionName_Template" font="ZoFontGameLargeBold" virtual="true">
+		<Label name="TemperWorldLoreBooks_EideticMapName_Template" font="ZoFontGameLargeBold" virtual="true">
 			<Dimensions y="24" />
 		</Label>
 		
-		<Label name="Lorebook_EideticReportForCollection_Template" font="ZoFontGameLargeBold" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" virtual="true">
+		<Label name="TemperWorldLoreBooks_EideticReportForMap_Template" font="ZoFontGameLargeBold" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" virtual="true">
 			<Dimensions x="775" />
 		</Label>
 		
-		<TopLevelControl name="LoreBooksReport" inherits="ZO_RightPanelFootPrint" hidden="true">
+		<Label name="TemperWorldLoreBooks_EideticBooksInCollection_Template" font="ZoFontGameLargeBold" virtual="true">
+			<Dimensions y="24" />
+		</Label>
+
+		<Label name="TemperWorldLoreBooks_EideticCollectionName_Template" font="ZoFontGameLargeBold" virtual="true">
+			<Dimensions y="24" />
+		</Label>
+		
+		<Label name="TemperWorldLoreBooks_EideticReportForCollection_Template" font="ZoFontGameLargeBold" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" virtual="true">
+			<Dimensions x="775" />
+		</Label>
+		
+		<TopLevelControl name="TemperWorldLoreBooksReport" inherits="ZO_RightPanelFootPrint" hidden="true">
 			<Controls>
 				
 				<Control name="$(parent)Container" inherits="ZO_ScrollContainer">
@@ -64,23 +64,23 @@
 				<Label name="$(parent)ShalidorHeaderText" font="ZoFontHeader2" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL">
 					<Dimensions x="830" />
 					<OnInitialized>
-						self:SetParent(GetControl("LoreBooksReportContainerScrollChild"))
-						self:SetAnchor(TOPLEFT, LoreBooksReportContainerScrollChild, TOPLEFT, 4, 4)
+						self:SetParent(GetControl("TemperWorldLoreBooksReportContainerScrollChild"))
+						self:SetAnchor(TOPLEFT, TemperWorldLoreBooksReportContainerScrollChild, TOPLEFT, 4, 4)
 					</OnInitialized>
 				</Label>
 				
 				<Label name="$(parent)EideticHeaderText" font="ZoFontHeader2" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL">
 					<Dimensions x="830" />
 					<OnInitialized>
-						self:SetParent(GetControl("LoreBooksReportContainerScrollChild"))
-						self:SetAnchor(TOPLEFT, LoreBooksReportContainerScrollChild, TOPLEFT, 4, 4)
+						self:SetParent(GetControl("TemperWorldLoreBooksReportContainerScrollChild"))
+						self:SetAnchor(TOPLEFT, TemperWorldLoreBooksReportContainerScrollChild, TOPLEFT, 4, 4)
 					</OnInitialized>
 				</Label>
 				
 			</Controls>
 		</TopLevelControl>
 		
-		<TopLevelControl name="LoreBooksCopyReport" inherits="ZO_RightPanelFootPrint" hidden="true">
+		<TopLevelControl name="TemperWorldLoreBooksCopyReport" inherits="ZO_RightPanelFootPrint" hidden="true">
 			<Controls>
 				
 				<Backdrop name="$(parent)Content" inherits="ZO_MultiLineEditBackdrop_Keyboard">
