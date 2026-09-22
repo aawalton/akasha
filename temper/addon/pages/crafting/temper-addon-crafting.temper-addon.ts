@@ -324,6 +324,9 @@ export const temperAddonCrafting = {
     "module/knowledge-types",
     "type-declaration/knowledge-string-ids",
     "domain/crafting-sets",
+    "eso-interface/lib-sets-copy-text-dialog",
+    "eso-interface/lib-sets-search-ui-keyboard-xml",
+    "eso-interface/lib-sets-search-ui-shared-xml",
   ],
   interfaces: [
     "eso-interface/craft-store-blueprint-layout",

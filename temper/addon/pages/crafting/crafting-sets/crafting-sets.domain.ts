@@ -6,9 +6,6 @@ export const craftingSets = {
   slug: "crafting-sets",
   definition: "every gear set in the game and where each one drops",
   parts: [
-    "eso-interface/lib-sets-copy-text-dialog",
-    "eso-interface/lib-sets-search-ui-keyboard-xml",
-    "eso-interface/lib-sets-search-ui-shared-xml",
     "type-declaration/lib-sets-constant-shapes",
     "type-declaration/lib-sets-copy-dialog-shapes",
     "type-declaration/lib-sets-drop-mechanic-ids",
