@@ -39,7 +39,6 @@ export async function infrastructureServiceBundle(
         ["at", made.built.at],
         ["bytes", made.built.bytes],
         ["seconds", made.built.seconds.toFixed(PLACES)],
-        ["bytes with an inline source map", made.built.mappedBytes],
       ])
     )
   })

@@ -42,7 +42,7 @@ export const infrastructureServiceBundle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The answer names what the same bundle would weigh with an inline source map.",
+      statement: "The size the answer names is the bundle's with its inline source map in it.",
     },
     {
       decisionKind: "decision-kind/absence",

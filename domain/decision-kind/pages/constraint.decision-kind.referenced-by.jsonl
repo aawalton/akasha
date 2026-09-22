@@ -333,6 +333,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/secret/modules/saying/secret-saying.module.ts","id":"01a07667-e09b-7f6e-bc84-5a76ea3566f4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/secret/secret.page-type.ts","id":"01a0684a-7d55-7000-bf3d-deee6d805174"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/binary-running/binary-running.module.ts","id":"01a091ac-021e-7000-9f2e-0d8a8f5ea712"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-bundling/service-bundling.module.ts","id":"01a0c9a2-b39b-7892-83e5-95e2a282b2b9"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/container-registry/container-registry.domain.ts","id":"01a0658b-0f02-7e11-9293-61be7a832920"}
 {"propertySlug":"decision-kind","path":"page/code-file-property/properties/fixed-export.text-property.ts","id":"01a0b8b8-c95b-78fc-acaf-f63af9984f5e"}
 {"propertySlug":"decision-kind","path":"page/file-property/properties/file-name.text-property.ts","id":"01a0585d-233d-7e12-8214-d5f3f602412f"}

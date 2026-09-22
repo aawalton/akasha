@@ -19,10 +19,16 @@ const STUBS = "/var/tmp/akasha-service-bundling"
 
 const NANOS = 1000000000
 
+const LEFT_FOR_RUNTIME: Readonly<Record<string, string>> = {
+  "chromium-bidi":
+    "`playwright-core` requires it inside the closure that sets up the BiDi transport, which a service driving a browser over CDP never enters",
+}
+
+const EXTERNAL = Object.keys(LEFT_FOR_RUNTIME)
+
 export type Built = {
   readonly at: string
   readonly bytes: number
-  readonly mappedBytes: number
   readonly seconds: number
 }
 
@@ -74,9 +80,15 @@ function whyOf(thrown: unknown): string {
 
 type Text = { readonly text: string } | { readonly refused: string }
 
-async function textOf(stub: string, sourcemap: "none" | "inline"): Promise<Text> {
+async function textOf(stub: string): Promise<Text> {
   try {
-    const built = await Bun.build({ entrypoints: [stub], target: "bun", minify: false, sourcemap })
+    const built = await Bun.build({
+      entrypoints: [stub],
+      target: "bun",
+      minify: false,
+      sourcemap: "inline",
+      external: EXTERNAL,
+    })
     if (!built.success) return { refused: whyIn(built.logs) }
     const first = built.outputs[0]
     if (first === undefined) return { refused: "the bundler wrote no file" }
@@ -92,18 +104,10 @@ export async function bundledFor(root: string, slug: string, home: string): Prom
   const stub = stubAt(slug)
   await Bun.write(stub, stubFor(reached.running))
   const began = Bun.nanoseconds()
-  const plain = await textOf(stub, "none")
+  const made = await textOf(stub)
   const seconds = (Bun.nanoseconds() - began) / NANOS
-  if ("refused" in plain) return { refused: `\`${slug}\` would not bundle — ${plain.refused}` }
-  const mapped = await textOf(stub, "inline")
+  if ("refused" in made) return { refused: `\`${slug}\` would not bundle — ${made.refused}` }
   const at = bundleAt(home, slug, headOf(root))
-  await Bun.write(at, plain.text)
-  return {
-    built: {
-      at,
-      bytes: Buffer.byteLength(plain.text),
-      mappedBytes: "refused" in mapped ? 0 : Buffer.byteLength(mapped.text),
-      seconds,
-    },
-  }
+  await Bun.write(at, made.text)
+  return { built: { at, bytes: Buffer.byteLength(made.text), seconds } }
 }

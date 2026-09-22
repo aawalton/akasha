@@ -39,11 +39,33 @@ export const serviceBundling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The bundle is measured again with an inline source map, and that size is told.",
+      statement:
+        "The bundle carries an inline source map, because a trace naming its source is worth the size.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A frame's path is the repository-relative source under the bundle's directory.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "No file sits at the path a frame names.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The bundle written carries no source map.",
+      statement: "A specifier only a dead branch requires is left for the runtime to resolve.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The reason a specifier is left that way is held beside that specifier.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "`playwright-core` requires `chromium-bidi` only inside its BiDi transport setup.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A service driving a browser over CDP never enters that setup, so `chromium-bidi` is left.",
     },
     {
       decisionKind: "decision-kind/departure",
