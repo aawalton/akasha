@@ -12,5 +12,5 @@ export const theThresholdUnderAScar = {
     "all-about-alan-topic/what-extinction-actually-clears",
   ],
   settled:
-    "The level a scarred domain switches on at is not fixed. I think the coding threshold came down over time.\n\nLevel two seems to be coding's intrinsic difficulty, under whatever the scar was adding on top.\n\nDrawing alone, with nobody watching and nothing at stake, is probably at least a five and maybe a six.",
+    "The level a scarred domain switches on at is not fixed. I think the coding threshold came down over time.\n\nLevel two seems to be coding's intrinsic difficulty, under whatever the scar was adding on top.\n\nDrawing alone, with nobody watching and nothing at stake, is probably at least a five and maybe a six. What makes it cost that much is the traumatic stress response conditioned into it rather than the drawing.",
 } as const satisfies AllAboutAlanTopic
