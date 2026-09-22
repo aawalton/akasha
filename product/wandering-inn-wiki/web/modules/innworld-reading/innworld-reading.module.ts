@@ -25,7 +25,7 @@ export const innworldReading = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Akasha's own record of page types is left out here.",
+      statement: "Akasha's own records of page types and of views are left out here.",
     },
     {
       decisionKind: "decision-kind/absence",

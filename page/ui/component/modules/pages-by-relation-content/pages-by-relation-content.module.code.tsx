@@ -185,6 +185,7 @@ export function PagesFilteredContent({
           }
         >
           <PageSystemTabContent
+            key={shownView}
             items={pageRows}
             label={pageTypeName}
             properties={properties}

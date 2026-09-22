@@ -25,5 +25,10 @@ export const pagesByRelationContent = {
       statement:
         "The view shown is named in the address, and the first view is shown where none is.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A listing drawn for another view is drawn afresh, so it keeps no sort of the last.",
+    },
   ],
 } as const satisfies Module

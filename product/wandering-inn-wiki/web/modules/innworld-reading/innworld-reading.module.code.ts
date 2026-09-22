@@ -4,9 +4,11 @@ import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.co
 
 const PAGE_TYPE = "page-type"
 
+const VIEW = "view"
+
 const TYPES_AT_ONCE = 500
 
-const UNNAMED: readonly string[] = [PAGE_TYPE]
+const UNNAMED: readonly string[] = [PAGE_TYPE, VIEW]
 
 export type ShownType = {
   readonly slug: string
