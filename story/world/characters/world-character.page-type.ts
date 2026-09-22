@@ -10,6 +10,7 @@ export const worldCharacter = {
   runsTabooCheck: false,
   parts: [
     "module/character-filing",
+    "number-property/appearance-count",
     "number-property/event-count",
     "number-property/first-chapter",
     "number-property/last-chapter",
@@ -26,6 +27,7 @@ export const worldCharacter = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
+    { pageProperty: "number-property/appearance-count", required: false, many: false },
     { pageProperty: "number-property/max-level", required: false, many: false },
     { pageProperty: "number-property/event-count", required: false, many: false },
     { pageProperty: "number-property/first-chapter", required: false, many: false },

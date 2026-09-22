@@ -56,5 +56,10 @@ export const characterFiling = {
       decisionKind: "decision-kind/departure",
       statement: "A file already holding the body this filing would write is passed over.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character's appearances are how many chapters that character's claims come from.",
+    },
   ],
 } as const satisfies Module

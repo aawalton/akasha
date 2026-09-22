@@ -29,6 +29,7 @@ const WORLD_ADDRESS = `${world.slug}/${wanderingInnWorld.slug}` as const
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 const CHARACTER = "character"
 const CLAIMS = "characterClaims"
+const APPEARANCES = "appearanceCount"
 const JSON_ENDING = ".json"
 const NUMBERED = /^\d+\.json$/
 const PARTED_BY = "	"
@@ -37,7 +38,7 @@ export class FilingRefused extends Error {}
 
 export type Chapter = { readonly slug: string; readonly position: number }
 
-export function chaptersByTitle(root: string): ReadonlyMap<string, Chapter> {
+function chaptersByTitle(root: string): ReadonlyMap<string, Chapter> {
   const asked = asking(root, {
     pageTypeSlug: CHAPTER_PAGE_TYPE,
     where: { story: { is: STORY_ADDRESS } },
@@ -78,7 +79,7 @@ export type Claim = {
   readonly sourceChapter: string | null
 }
 
-export function textOf(held: unknown): string | null {
+function textOf(held: unknown): string | null {
   if (typeof held === "string") return held === "" ? null : held
   if (typeof held === "number" && Number.isFinite(held)) return String(held)
   return null
@@ -91,7 +92,7 @@ function saidAt(held: unknown): Said | null {
   return held as Said
 }
 
-export function claimOf(
+function claimOf(
   chapterSlug: string,
   claimField: string,
   value: unknown,
@@ -126,7 +127,7 @@ function fromList(
   }
 }
 
-export function claimsIn(sheet: Said, chapterSlug: string): readonly Claim[] {
+function claimsIn(sheet: Said, chapterSlug: string): readonly Claim[] {
   const found: Claim[] = []
   const prov = saidAt(sheet["prov"])
   const species = saidAt(sheet["identity"])
@@ -143,7 +144,7 @@ export function claimsIn(sheet: Said, chapterSlug: string): readonly Claim[] {
   return found
 }
 
-export function keyOf(claim: Claim): string {
+function keyOf(claim: Claim): string {
   return [
     claim.claimField,
     claim.claimValue,
@@ -172,7 +173,7 @@ function reachedBy(held: Gathered, position: number): undefined {
   if (held.last === null || position > held.last) held.last = position
 }
 
-export function readingsUnder(dir: string, chapters: ReadonlyMap<string, Chapter>): Reading {
+function readingsUnder(dir: string, chapters: ReadonlyMap<string, Chapter>): Reading {
   const characters = new Map<string, Gathered>()
   let filesRead = 0
   let filesPassed = 0
@@ -229,13 +230,21 @@ function entryOf(claim: Claim): Value {
   return held
 }
 
-export function namingOf(held: Gathered): Naming {
+function appearancesIn(claims: ReadonlyMap<string, Claim>): number {
+  const chapters = new Set<string>()
+  for (const claim of claims.values()) chapters.add(claim.chapterSlug)
+  return chapters.size
+}
+
+function namingOf(held: Gathered): Naming {
   const values: Value = {
     type: namedAs(PAGE_TYPE, CHARACTER_PAGE_TYPE, null),
     slug: held.slug,
     title: held.title,
     world: WORLD_ADDRESS,
   }
+  const appearances = appearancesIn(held.claims)
+  if (appearances > 0) values[APPEARANCES] = appearances
   if (held.first !== null) values["firstChapter"] = held.first
   if (held.last !== null) values["lastChapter"] = held.last
   if (held.claims.size > 0) values[CLAIMS] = [...held.claims.values()].map(entryOf)
@@ -251,13 +260,13 @@ export type Landed = {
   readonly filesPassed: number
 }
 
-export function alreadyHolds(root: string, put: Put): boolean {
+function alreadyHolds(root: string, put: Put): boolean {
   const at = join(root, put.path)
   if (!existsSync(at)) return false
   return readFileSync(at, "utf8") === put.content
 }
 
-export async function landBatch(
+async function landBatch(
   root: string,
   named: readonly Naming[],
   message: string,
