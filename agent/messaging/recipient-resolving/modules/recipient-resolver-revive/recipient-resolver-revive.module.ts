@@ -23,5 +23,9 @@ export const recipientResolverRevive = {
       decisionKind: "decision-kind/departure",
       statement: "A revive that did not verify is a seat that was not revived.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here names a type the TypeScript compiler declares.",
+    },
   ],
 } as const satisfies Module

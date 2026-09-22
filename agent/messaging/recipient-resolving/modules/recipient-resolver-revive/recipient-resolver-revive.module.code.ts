@@ -3,7 +3,6 @@ import { resumeSeat } from "akasha/agent/seat/reviving/modules/seat-resume/seat-
 import type { ReviveVerifySignal } from "akasha/agent/seat/reviving/modules/seat-revive-verify-signal/seat-revive-verify-signal.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
-import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const REVIVE_OUTRAN = Symbol("revive-outran-the-timeout")
