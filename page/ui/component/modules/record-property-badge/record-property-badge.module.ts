@@ -21,6 +21,10 @@ export const recordPropertyBadge = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A field holding a list its own badge does not draw is drawn one badge per item.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A property holding a list of records draws each record under the one heading.",
     },
     {

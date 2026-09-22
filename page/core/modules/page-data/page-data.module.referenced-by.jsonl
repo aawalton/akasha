@@ -59,6 +59,7 @@
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/property-badge/property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/property-row/property-row.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/quick-add-form/quick-add-form.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/record-property-badge/record-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/select-property-badge/select-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/use-board-view-wiring/use-board-view-wiring.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"}
