@@ -4,7 +4,7 @@ export const measureRound = {
   id: "01a0bb27-36f8-7e61-bb63-33e3d2ab2ba2",
   type: "page-type/command",
   slug: "measure-round",
-  definition: "the command saying what one round of the audit cost on the machine that ran it",
+  definition: "the command saying what a round of the audit cost on the machine that ran it",
   code: "ts",
   test: "ts",
   decisions: [

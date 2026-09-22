@@ -4,7 +4,7 @@ export const sessionActing = {
   id: "01a07979-7dc5-790d-be68-e06fd961532b",
   type: "page-type/module",
   slug: "session-acting",
-  definition: "one act on a day's stretches, read off the checkout and landed as a commit",
+  definition: "an act on a day's stretches, read off the checkout and landed as a commit",
   code: "ts",
   decisions: [
     {

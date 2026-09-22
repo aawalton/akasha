@@ -4,7 +4,7 @@ export const infrastructureServiceRun = {
   id: "01a09409-a29d-7ec7-b7aa-eebfad2ce2ad",
   type: "page-type/command",
   slug: "infrastructure-service-run",
-  definition: "the command running one service's own code in this process",
+  definition: "the command running a service's own code in this process",
   code: "ts",
   test: "ts",
   name: "run",

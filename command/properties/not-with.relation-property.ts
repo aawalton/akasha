@@ -5,7 +5,7 @@ export const notWith = {
   type: "page-type/relation-property",
   slug: "not-with",
   propertySlug: "not-with",
-  definition: "an argument one call never says beside this one",
+  definition: "an argument a call never says beside this one",
   targetPageType: "page-type/argument",
   decisions: [
     {

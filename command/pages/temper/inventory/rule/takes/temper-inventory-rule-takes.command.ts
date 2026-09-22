@@ -4,7 +4,7 @@ export const temperInventoryRuleTakes = {
   id: "01a0959d-e8ec-72b0-95be-efffc8405b8a",
   type: "page-type/command",
   slug: "temper-inventory-rule-takes",
-  definition: "the command naming the items one category rule takes and what takes the rest",
+  definition: "the command naming the items a category rule takes and what takes the rest",
   code: "ts",
   test: "ts",
   decisions: [

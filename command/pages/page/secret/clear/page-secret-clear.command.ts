@@ -4,7 +4,7 @@ export const pageSecretClear = {
   id: "01a06812-3ce8-7a0e-b33a-5f0e6991b07d",
   type: "page-type/command",
   slug: "page-secret-clear",
-  definition: "the command dropping one secret from the sops file beside a page",
+  definition: "the command dropping a secret from the sops file beside a page",
   code: "ts",
   test: "ts",
   decisions: [

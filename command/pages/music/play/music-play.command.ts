@@ -4,7 +4,7 @@ export const musicPlay = {
   id: "01a062f9-5ca9-7fc5-acba-8d513404a6f9",
   type: "page-type/command",
   slug: "music-play",
-  definition: "the command playing one track or one context, named by a query or by a uri",
+  definition: "the command playing a track or a context, named by a query or by a uri",
   code: "ts",
   test: "ts",
   decisions: [

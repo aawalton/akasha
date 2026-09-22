@@ -4,6 +4,6 @@ export const filterButton = {
   id: "01a05c69-c061-75af-a7c1-4fa64f360ba0",
   type: "page-type/module",
   slug: "filter-button",
-  definition: "the button opening one filter's choices",
+  definition: "the button opening a filter's choices",
   code: "tsx",
 } as const satisfies Module

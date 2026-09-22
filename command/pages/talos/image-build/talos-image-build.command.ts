@@ -4,7 +4,7 @@ export const talosImageBuild = {
   id: "01a06810-1f0b-710a-93fa-714723dbf5f9",
   type: "page-type/command",
   slug: "talos-image-build",
-  definition: "the command registering one node's schematic with the Talos Image Factory",
+  definition: "the command registering a node's schematic with the Talos Image Factory",
   code: "ts",
   test: "ts",
   decisions: [

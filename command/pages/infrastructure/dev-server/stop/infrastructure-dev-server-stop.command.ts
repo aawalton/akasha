@@ -4,7 +4,7 @@ export const infrastructureDevServerStop = {
   id: "01a09403-77db-71fe-ae2b-f3271d914449",
   type: "page-type/command",
   slug: "infrastructure-dev-server-stop",
-  definition: "the command ending one app's dev server and taking the state file it held",
+  definition: "the command ending an app's dev server and taking the state file it held",
   code: "ts",
   test: "ts",
   name: "stop",

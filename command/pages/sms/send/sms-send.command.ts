@@ -4,7 +4,7 @@ export const smsSend = {
   id: "01a0685f-c8ed-7008-b892-0bc284782555",
   type: "page-type/command",
   slug: "sms-send",
-  definition: "the command putting one text message out over the toll-free number",
+  definition: "the command putting a text message out over the toll-free number",
   code: "ts",
   test: "ts",
   decisions: [
