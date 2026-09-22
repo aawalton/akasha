@@ -50,8 +50,12 @@ const NAMED_AT_MOST = 12
 export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set([
   "attributes-relay-service",
   "capacity-relay-service",
+  "cluster-deploying",
+  "container-recipe-deploying",
   "cost-relay-service",
   "inbox-relay-service",
+  "inference-deploying",
+  "ios-app-deploying",
   "inbox-tracking-poll",
   "monarch-poll",
   "monarch-reading-service",
@@ -63,6 +67,8 @@ export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set([
   "sleep-relay-service",
   "surplus-relay-service",
   "sweep-stray-processes",
+  "temper-addon-deploying",
+  "web-app-deploying",
 ])
 
 const LEFT_FOR_RUNTIME: Readonly<Record<string, string>> = {
