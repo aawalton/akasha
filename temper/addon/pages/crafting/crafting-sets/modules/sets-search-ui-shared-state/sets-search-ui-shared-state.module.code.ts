@@ -1,8 +1,8 @@
 import { asPresent } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
-  asLibSetsSearchUIDescriptorExt,
   asSearchUIComboBox,
   asSearchUIComboBoxOpt,
+  asSetsSearchUIDescriptorExt,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-casts/sets-search-ui-casts.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/sets-search-ui-shapes/sets-search-ui-shapes.type-declaration.d.ts"
@@ -45,7 +45,7 @@ export const showLibSetsSettingsStr = getLocalizedText("showLibSetsSettingsMenu"
 const POSSIBLE_SET_SEARCH_FAVORITE_CATEGORIES_UNSORTED =
   lib.possibleSetSearchFavoriteCategoriesUnsorted
 
-export const searchUI = asLibSetsSearchUIDescriptorExt(lib.SearchUI)
+export const searchUI = asSetsSearchUIDescriptorExt(lib.SearchUI)
 export const searchUIName = searchUI.name
 
 function favTexture(this: void, category: string): string {

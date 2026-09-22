@@ -5,7 +5,7 @@ import {
   asTyped,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
-import { asLibSetsSearchRowDataOpt } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-casts/sets-search-ui-casts.module.code.ts"
+import { asSetsSearchRowDataOpt } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-casts/sets-search-ui-casts.module.code.ts"
 
 const CM = CALLBACK_MANAGER
 const tos = tostring
@@ -132,7 +132,7 @@ sharedClass.ShowItemLinkTooltip = function (
   this.HideItemLinkTooltip()
 
   const ttControl = this.tooltipControl
-  const data = dataIn ?? asLibSetsSearchRowDataOpt(ttControl.data)
+  const data = dataIn ?? asSetsSearchRowDataOpt(ttControl.data)
   if (data === undefined || data.itemLink === undefined) {
     return undefined
   }

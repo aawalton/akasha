@@ -2,7 +2,7 @@ import {
   asGlobalTable,
   asPresent,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
-import { asLibSetsDlcEntryArray } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-casts/sets-const-casts.module.code.ts"
+import { asSetsDlcEntryArray } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-const-casts/sets-const-casts.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -285,9 +285,7 @@ DLCandCHAPTERLookupdata[DLC_TYPE_BASE_GAME] = {
 DLCAndCHAPTERDataOrdered[1] = DLC_BASE_GAME
 
 const DLC_STR_FORMAT_PATTERN = "<<C:1>>"
-for (const [dlcId, dlcAndChapterData] of ipairs(
-  asLibSetsDlcEntryArray(dlcAndChapterCollectibleIds)
-)) {
+for (const [dlcId, dlcAndChapterData] of ipairs(asSetsDlcEntryArray(dlcAndChapterCollectibleIds))) {
   const collectibleId = dlcAndChapterData.collectibleId
   const achievementCategoryId = dlcAndChapterData.achievementCategoryId
   const dlcType = dlcAndChapterData.type

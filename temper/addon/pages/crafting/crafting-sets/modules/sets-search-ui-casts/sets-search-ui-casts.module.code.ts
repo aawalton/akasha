@@ -26,27 +26,25 @@ export function asSearchUIComboBoxOpt(value: unknown): SearchUIComboBoxOpt {
   return value as SearchUIComboBoxOpt
 }
 
-export function asLibSetsSearchRowData(value: unknown): SetsSearchRowData {
+export function asSetsSearchRowData(value: unknown): SetsSearchRowData {
   return value as SetsSearchRowData
 }
 
-export type LibSetsSearchRowDataOpt = SetsSearchRowData | undefined
-export function asLibSetsSearchRowDataOpt(value: unknown): LibSetsSearchRowDataOpt {
-  return value as LibSetsSearchRowDataOpt
+export type SetsSearchRowDataOpt = SetsSearchRowData | undefined
+export function asSetsSearchRowDataOpt(value: unknown): SetsSearchRowDataOpt {
+  return value as SetsSearchRowDataOpt
 }
 
-export type LibSetsSearchUIKeyboardObjectOpt = SetsSearchUIKeyboardObject | undefined
-export function asLibSetsSearchUIKeyboardObjectOpt(
-  value: unknown
-): LibSetsSearchUIKeyboardObjectOpt {
-  return value as LibSetsSearchUIKeyboardObjectOpt
+export type SetsSearchUIKeyboardObjectOpt = SetsSearchUIKeyboardObject | undefined
+export function asSetsSearchUIKeyboardObjectOpt(value: unknown): SetsSearchUIKeyboardObjectOpt {
+  return value as SetsSearchUIKeyboardObjectOpt
 }
 
-export function asLibSetsSearchUIDescriptorExt(value: unknown): SetsSearchUIDescriptorExt {
+export function asSetsSearchUIDescriptorExt(value: unknown): SetsSearchUIDescriptorExt {
   return value as SetsSearchUIDescriptorExt
 }
 
-export function asLibSetsCopyDialogData(value: unknown): SetsCopyDialogData {
+export function asSetsCopyDialogData(value: unknown): SetsCopyDialogData {
   return value as SetsCopyDialogData
 }
 

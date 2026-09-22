@@ -1,9 +1,9 @@
 const CM = CALLBACK_MANAGER
 
 import {
-  asLibSetsSearchRowData,
   asNumberOrString,
   asSearchUIComboBox,
+  asSetsSearchRowData,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-casts/sets-search-ui-casts.module.code.ts"
 import { getSharedSearchUIClass } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
 import { updateSetsInfoWithDataAndNames } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-shared-helpers/sets-search-ui-shared-helpers.module.code.ts"
@@ -39,7 +39,7 @@ sharedClass.Initialize = function (this: SetsSearchUISharedObject, control: Sear
   this.stringSearch.AddProcessor(
     searchUI.searchTypeDefault,
     (stringSearch, data, searchTerm, cache) =>
-      this.ProcessItemEntry(stringSearch, asLibSetsSearchRowData(data), searchTerm, cache)
+      this.ProcessItemEntry(stringSearch, asSetsSearchRowData(data), searchTerm, cache)
   )
 }
 

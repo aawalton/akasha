@@ -9,9 +9,9 @@ import { sortFilterComboBox } from "akasha/temper/addon/pages/crafting/crafting-
 import {
   asComboBoxSortKey,
   asComboBoxSortKeyOpt,
-  asLibSetsSearchRowDataOpt,
   asNumberOrString,
   asSearchUIComboBox,
+  asSetsSearchRowDataOpt,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-casts/sets-search-ui-casts.module.code.ts"
 import {
   getKeyboardSearchUIClass,
@@ -320,7 +320,7 @@ keyboardClass.OnRowMouseEnter = function (
   rowControl: SearchUIControl
 ): undefined {
   this.resultsList.Row_OnMouseEnter(rowControl)
-  const data = asLibSetsSearchRowDataOpt(rowControl.data)
+  const data = asSetsSearchRowDataOpt(rowControl.data)
   this.tooltipControl.data = data
   const shownLeftOfControl = this.ShowItemLinkTooltip(rowControl, data)
 
@@ -350,7 +350,7 @@ keyboardClass.OnRowMouseUp = function (
   if (upInside) {
     if (mouseButton === MOUSE_BUTTON_INDEX_LEFT) {
       const defaultLeftClickAction = asStringOpt(lib.svData?.setSearchUIRowLeftClickDefaultAction)
-      const data = asLibSetsSearchRowDataOpt(rowControl.data)
+      const data = asSetsSearchRowDataOpt(rowControl.data)
       if (defaultLeftClickAction === "linkToChat") {
         this.ItemLinkToChat(data)
       } else if (defaultLeftClickAction === "popupTooltip") {

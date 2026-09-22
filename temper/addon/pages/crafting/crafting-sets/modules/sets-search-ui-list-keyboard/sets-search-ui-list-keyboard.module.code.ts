@@ -9,9 +9,9 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 import {
-  asLibSetsSearchRowData,
-  asLibSetsSearchRowDataOpt,
   asSearchUIControl,
+  asSetsSearchRowData,
+  asSetsSearchRowDataOpt,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-casts/sets-search-ui-casts.module.code.ts"
 
 import { getSearchUIListClass } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-list-class/sets-search-ui-list-class.module.code.ts"
@@ -50,7 +50,7 @@ function updateFavoriteColumn(
   if (rowControl === undefined || isFavorite === undefined || favoriteCategory === undefined) {
     return
   }
-  let data = asLibSetsSearchRowDataOpt(rowControl.data)
+  let data = asSetsSearchRowDataOpt(rowControl.data)
   if (data === undefined) {
     return
   }
@@ -65,7 +65,7 @@ function updateFavoriteColumn(
     }
     data.isFavorite = undefined
   }
-  data = asLibSetsSearchRowData(rowControl.data)
+  data = asSetsSearchRowData(rowControl.data)
 
   const favoriteColumn = rowControl.GetNamedChild("Favorite")
   if (favoriteColumn === undefined) {
@@ -107,7 +107,7 @@ listClass.Setup = function (this: SetsSearchUIList) {
     "LibSetsSearchUIRow",
     30,
     (control, data) => {
-      this.SetupItemRow(asSearchControl(control), asLibSetsSearchRowData(data))
+      this.SetupItemRow(asSearchControl(control), asSetsSearchRowData(data))
     }
   )
   ZO_ScrollList_EnableHighlight(this.list, "ZO_ThinListHighlight")

@@ -6,9 +6,9 @@ import {
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 import {
   asIdNumRecordOpt,
-  asLibSetsCopyDialogData,
-  asLibSetsSearchRowDataOpt,
   asParamStringMap,
+  asSetsCopyDialogData,
+  asSetsSearchRowDataOpt,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-casts/sets-search-ui-casts.module.code.ts"
 
 const tos = tostring
@@ -65,7 +65,7 @@ sharedClass.ShowRowContextMenu = function (
     return
   }
 
-  const data = asLibSetsSearchRowDataOpt(rowControl.data)
+  const data = asSetsSearchRowDataOpt(rowControl.data)
   if (data === undefined) {
     return
   }
@@ -263,7 +263,7 @@ sharedClass.ShowRowContextMenu = function (
         }
         const textParams = asParamStringMap({ 1: setNameForDialog })
         copyDialog.Show(
-          asLibSetsCopyDialogData({
+          asSetsCopyDialogData({
             text: withTextures ? data.setDataText : data.setDataTextClean,
             setData: data,
           }),

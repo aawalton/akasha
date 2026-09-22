@@ -1,5 +1,5 @@
 import { asGlobalTable } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
-import { asLibSetsSearchUIKeyboardObjectOpt } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-casts/sets-search-ui-casts.module.code.ts"
+import { asSetsSearchUIKeyboardObjectOpt } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-casts/sets-search-ui-casts.module.code.ts"
 import { getKeyboardSearchUIClass } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-keyboard-class/sets-search-ui-keyboard-class.module.code.ts"
 import {
   getKeyboardSearchUI,
@@ -24,7 +24,7 @@ export function libSetsSearchUIKeyboardTopLevelOnResize(
 ): undefined {
   ZO_Tooltips_HideTextTooltip()
   libSetsSearchUISharedBringWindowToTop()
-  const libSetsSearchUIKeyboardObject = asLibSetsSearchUIKeyboardObjectOpt(selfControl._object)
+  const libSetsSearchUIKeyboardObject = asSetsSearchUIKeyboardObjectOpt(selfControl._object)
   if (libSetsSearchUIKeyboardObject === undefined) {
     return
   }
@@ -59,7 +59,7 @@ function libSetsSearchUIKeyboardTopLevelOnMove(
 ): undefined {
   ZO_Tooltips_HideTextTooltip()
   libSetsSearchUISharedBringWindowToTop()
-  const libSetsSearchUIKeyboardObject = asLibSetsSearchUIKeyboardObjectOpt(selfControl._object)
+  const libSetsSearchUIKeyboardObject = asSetsSearchUIKeyboardObjectOpt(selfControl._object)
   if (!moveStart && libSetsSearchUIKeyboardObject !== undefined) {
     libSetsSearchUIKeyboardObject.SaveSearchUIPositionAndSize(selfControl)
   }
