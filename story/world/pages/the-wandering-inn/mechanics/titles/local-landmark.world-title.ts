@@ -6,5 +6,6 @@ export const localLandmark = {
   slug: "local-landmark",
   title: "Local Landmark",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldTitle
