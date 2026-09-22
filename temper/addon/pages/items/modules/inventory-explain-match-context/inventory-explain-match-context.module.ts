@@ -5,6 +5,6 @@ export const inventoryExplainMatchContext = {
   type: "page-type/module",
   slug: "inventory-explain-match-context",
   definition:
-    "the facts about one item that a rule's conditions are worded against when it is explained",
+    "the facts about an item that a rule's conditions are worded against when it is explained",
   code: "ts",
 } as const satisfies Module

@@ -4,7 +4,7 @@ export const scrollableMenuApiEntries = {
   id: "01a06275-c443-709d-8562-0ff2fc429904",
   type: "page-type/module",
   slug: "scrollable-menu-api-entries",
-  definition: "the typed global wrappers that add one entry of a fixed entry type",
+  definition: "the typed global wrappers that add an entry of a fixed entry type",
   code: "ts",
   decisions: [
     {

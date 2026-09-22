@@ -4,7 +4,7 @@ export const scrollableMenuDropdownClassShowFilter = {
   id: "01a06275-c448-7c9d-9bb0-5a9cce0d8e94",
   type: "page-type/module",
   slug: "scrollable-menu-dropdown-class-show-filter",
-  definition: "the text search that decides whether one entry survives the current filter",
+  definition: "the text search that decides whether an entry survives the current filter",
   code: "ts",
   decisions: [
     {

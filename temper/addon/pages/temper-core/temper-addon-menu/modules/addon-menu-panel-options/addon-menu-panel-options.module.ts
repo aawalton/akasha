@@ -5,7 +5,7 @@ export const addonMenuPanelOptions = {
   type: "page-type/module",
   slug: "addon-menu-panel-options",
   definition:
-    "the lifecycle of one addon's options panel from widget creation through open and close",
+    "the lifecycle of an addon's options panel from widget creation through open and close",
   code: "ts",
   decisions: [
     {

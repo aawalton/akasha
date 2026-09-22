@@ -4,7 +4,7 @@ export const worldEntry = {
   id: "01a0c6cf-3083-7f5c-a624-ea21df497012",
   type: "page-type/module",
   slug: "world-entry",
-  definition: "where the transpiler starts this add-on's one Lua file",
+  definition: "where the transpiler starts this add-on's Lua file",
   code: "ts",
   decisions: [
     {

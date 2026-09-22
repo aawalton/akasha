@@ -4,7 +4,7 @@ export const setsTipPreview = {
   id: "01a0623c-2df6-704f-aa3c-658495bc2518",
   type: "page-type/module",
   slug: "sets-tip-preview",
-  definition: "one item chosen for a set and shown in a tooltip on demand",
+  definition: "an item chosen for a set and shown in a tooltip on demand",
   code: "ts",
   decisions: [
     {

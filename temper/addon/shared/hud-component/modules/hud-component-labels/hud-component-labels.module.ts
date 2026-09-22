@@ -4,7 +4,7 @@ export const hudComponentLabels = {
   id: "01a060a4-fa3a-7e69-ab6f-7e0aaefa14c1",
   type: "page-type/module",
   slug: "hud-component-labels",
-  definition: "the name and category a person reads for one part of the HUD",
+  definition: "the name and category a person reads for a part of the HUD",
   code: "ts",
   test: "ts",
   decisions: [
