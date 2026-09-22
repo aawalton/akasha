@@ -12,5 +12,5 @@ export const whatARecurringPainIsWorthToMe = {
     "all-about-alan-topic/why-nothing-goes-stale-on-me",
   ],
   settled:
-    "Not much has to be true before a pain is worth inventing against.\n\nI do not habituate to pain, so any source of recurring pain continues to cost.\n\nSo I put a high value on preventing sources of recurring pain, which means I am willing to do things in those efforts that other people would never consider.",
+    "Not much has to be true before a pain is worth inventing against.\n\nI do not habituate to pain, so any source of recurring pain continues to cost.\n\nSo I put a high value on preventing sources of recurring pain, which means I am willing to do things in those efforts that other people would never consider.\n\nI spend eighty hours a week building AI tooling and products to solve pain points in my own life.",
 } as const satisfies AllAboutAlanTopic
