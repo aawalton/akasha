@@ -6,5 +6,5 @@ export const esoEnums01 = {
   slug: "eso-enums-01",
   definition: "a part of the game's numbers for its kinds",
   d: "ts",
-  generated: { writtenBy: "akasha temper eso generate declaration", sourceVersion: 101050 },
+  generated: { writtenBy: "akasha temper eso generate declaration", sourceVersion: 101049 },
 } as const satisfies TypeDeclaration
