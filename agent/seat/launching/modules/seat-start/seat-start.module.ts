@@ -39,6 +39,15 @@ export const seatStart = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A start naming no persona and no role takes the default of each.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A default is taken after the persona a start named is judged against its principal.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A headless start answers the pid that start launched and an interactive start answers no pid.",
     },

@@ -3,7 +3,7 @@ import {
   principalIsPerson,
   refuseAnswering,
 } from "akasha/agent/seat/declaration/modules/seat-answering/seat-answering.module.code.ts"
-import { defaultFor } from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
+import { defaulted } from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
 import { resolveStatedIdentity } from "akasha/agent/seat/declaration/modules/seat-stated-identity/seat-stated-identity.module.code.ts"
 import { stateSpawnedSeat } from "akasha/agent/seat/declaration/modules/state-spawned-seat/state-spawned-seat.module.code.ts"
 import { seatByName } from "akasha/agent/seat/fleet/modules/seat-by-name/seat-by-name.module.code.ts"
@@ -129,14 +129,10 @@ export async function startSeat(input: StartSeatInput, done: string[] = []): Pro
     }
   }
 
-  let roleIsDefault = false
-  if (stated.role === undefined) {
-    const fallback = defaultFor("role", root)
-    if (fallback !== null) {
-      stated.role = fallback
-      roleIsDefault = true
-    }
-  }
+  const slots = defaulted({ persona: stated.persona, role: stated.role }, root)
+  if (slots.persona !== undefined) stated.persona = slots.persona
+  if (slots.role !== undefined) stated.role = slots.role
+  const roleIsDefault = slots.roleIsDefault
 
   const flex = readFlexValue(input.flex)
 

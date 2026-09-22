@@ -6,6 +6,7 @@ export const seatResolve = {
   slug: "seat-resolve",
   definition: "finding the page behind each slug a seat is given, or refusing with what is there",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -22,6 +23,14 @@ export const seatResolve = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The default a slot takes is read from the seat page type in akasha.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A default is read under the slug the property declaring it carries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot nobody stated takes its default, and a slot with no default stays unsaid.",
     },
     {
       decisionKind: "decision-kind/departure",

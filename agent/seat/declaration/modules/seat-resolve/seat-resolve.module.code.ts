@@ -28,7 +28,7 @@ export function scan(root: string): Found {
 }
 
 const SLOT_OF: Readonly<Record<string, AttributeKey>> = {
-  "persona-slug": "persona",
+  "seat-persona": "persona",
   "assignment-slug": "domain",
   role: "role",
 }
@@ -59,6 +59,22 @@ export function defaultFor(slot: Declaration, root: string): string | null {
 
 export function personaIsDefault(root: string, persona: string): boolean {
   return defaultFor("persona", root) === persona
+}
+
+export interface Defaulted {
+  readonly persona: string | undefined
+  readonly role: string | undefined
+  readonly roleIsDefault: boolean
+}
+
+export function defaulted(
+  stated: { readonly persona?: string; readonly role?: string },
+  root: string
+): Defaulted {
+  const persona = stated.persona ?? defaultFor("persona", root) ?? undefined
+  if (stated.role !== undefined) return { persona, role: stated.role, roleIsDefault: false }
+  const role = defaultFor("role", root)
+  return { persona, role: role ?? undefined, roleIsDefault: role !== null }
 }
 
 function resolveSlot(

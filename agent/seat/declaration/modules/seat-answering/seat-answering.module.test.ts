@@ -1,8 +1,11 @@
 import { expect, test } from "bun:test"
 import {
   type Answerable,
+  personaIsHers,
   refusedAnswering,
 } from "akasha/agent/seat/declaration/modules/seat-answering/seat-answering.module.code.ts"
+import { defaultFor } from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 
 const AMONG: Answerable = {
   personIsPrincipal: (principal) => principal === "alan",
@@ -47,4 +50,14 @@ test("a person's seat stating no persona is refused", () => {
 
 test("an empty persona answers for nobody rather than for somebody named empty", () => {
   expect(refusedAnswering({ persona: "", principal: "agent" }, AMONG)).toEqual([])
+})
+
+const ROOT = rootOf(import.meta.dir)
+
+test("the persona the pages leave a seat at answers for nobody", () => {
+  expect(personaIsHers(ROOT, defaultFor("persona", ROOT))).toBe(false)
+})
+
+test("a persona the pages name answers for somebody", () => {
+  expect(personaIsHers(ROOT, "abby")).toBe(true)
 })
