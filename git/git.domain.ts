@@ -28,7 +28,7 @@ export const git = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The folder a checkout's worktrees share is asked of git rather than spelled.",
+      statement: "The folder git keeps a checkout in is asked of git rather than spelled.",
     },
     {
       decisionKind: "decision-kind/departure",
