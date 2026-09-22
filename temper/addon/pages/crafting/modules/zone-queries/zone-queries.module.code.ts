@@ -208,7 +208,7 @@ export function initZoneQueries(this: void): undefined {
     )[0]
     assert(
       returnLanguage !== undefined && type(returnLanguage) === "string",
-      `[LibZone:GetZoneNameByLocalizedSearchString]Error: Missing or wrong parameter "returnLanguage"!`
+      `['${LIB_NAME}':GetZoneNameByLocalizedSearchString]Error: Missing or wrong parameter "returnLanguage"!`
     )[0]
     assert(
       lib.checkIfLanguageIsSupported(returnLanguage),

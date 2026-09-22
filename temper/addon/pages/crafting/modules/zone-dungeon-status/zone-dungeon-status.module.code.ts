@@ -134,7 +134,7 @@ export function initDungeonStatus(this: void): undefined {
       }
     }
     INTERNAL_STATE.mapNamesWereBuild = true
-    if (INTERNAL_STATE.isAddonDevOfLibZone) {
+    if (INTERNAL_STATE.isZoneDataAuthor) {
       const localizedZoneData = lib.localizedZoneData
       const mapNames = asMapNamesTable(localizedZoneData.mapNames ?? {})
       localizedZoneData.mapNames = mapNames

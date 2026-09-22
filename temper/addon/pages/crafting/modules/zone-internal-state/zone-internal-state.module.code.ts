@@ -3,12 +3,12 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 export type PoiNameDebugTable = Record<string, Record<number, number>>
 
 export const INTERNAL_STATE: {
-  isAddonDevOfLibZone: boolean
+  isZoneDataAuthor: boolean
   mapNamesWereBuild: boolean
   poiNameDebugTable: PoiNameDebugTable | undefined
   poiDataTable: unknown
 } = {
-  isAddonDevOfLibZone: GetDisplayName() === "@Baertram",
+  isZoneDataAuthor: GetDisplayName() === "@Baertram",
   mapNamesWereBuild: false,
   poiNameDebugTable: undefined,
   poiDataTable: undefined,
