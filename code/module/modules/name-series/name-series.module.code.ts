@@ -334,10 +334,12 @@ export function stageSeries(
   const changed: string[] = []
 
   for (const page of pages) {
-    const candidates: readonly (readonly [string, string])[] = [
-      [page.codeRel, page.code],
-      [page.pageRel, page.page],
-    ]
+    const candidates: (readonly [string, string])[] = [[page.codeRel, page.code]]
+    if (page.slug === spec.stem && existsSync(resolve(root, page.pageRel))) {
+      files.push({ rel: page.pageRel, at: null, alreadyThere: true })
+    } else {
+      candidates.push([page.pageRel, page.page])
+    }
     for (const [rel, body] of candidates) {
       const was = resolve(root, rel)
       const there = existsSync(was)

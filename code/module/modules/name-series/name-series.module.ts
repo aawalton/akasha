@@ -82,5 +82,10 @@ export const nameSeries = {
       decisionKind: "decision-kind/departure",
       statement: "The runs already there are asked of the index rather than read off the folder.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The aggregate's page is written once and never staged again, so a hand's work on it stays.",
+    },
   ],
 } as const satisfies Module
