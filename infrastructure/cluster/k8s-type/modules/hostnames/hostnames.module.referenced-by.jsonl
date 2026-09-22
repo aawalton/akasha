@@ -14,9 +14,6 @@
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/network/auth-proxy/manifests/auth-proxy-manifests.manifest.code.ts"}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/network/cloudflared/cloudflared.manifest.code.ts"}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/network/headscale/headscale.manifest.code.ts"}
-{"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/seaweedfs/master/seaweedfs-master.manifest.code.ts"}
-{"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/seaweedfs/modules/deployments/seaweedfs-deployments.module.code.ts"}
-{"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/seaweedfs/modules/maintenance-manifests/seaweedfs-maintenance-manifests.module.code.ts"}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/storage/container-registry/registry-gc/registry-gc.manifest.code.ts"}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/storage/container-registry/registry/registry.manifest.code.ts"}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/telemetry/grafana/grafana.manifest.code.ts"}

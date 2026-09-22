@@ -167,27 +167,6 @@ scrape_configs:
       - targets:
           - cert-manager.cert-manager.svc.cluster.local:9402
 
-  # SeaweedFS master/volume/filer — native weed Prometheus metrics on :9327
-  # (the -metricsPort flag, enabled in infrastructure/seaweedfs/seaweedfs-deployments/seaweedfs-deployments.module.code.ts;
-  # off by default). SeaweedFS is the backup substrate, so
-  # its liveness deserves a direct scrape witness rather than the 26h-delayed
-  # backup-staleness inference downstream (#14277). One static target per
-  # component with a component label, so a dedicated per-component liveness rule
-  # (SeaweedfsVolumeServerDown) can select on component=volume; no tier label, so
-  # TargetDown covers master/filer process death for free. The s3-gateway is
-  # omitted — the weed s3 subcommand exposes no Prometheus registry.
-  - job_name: seaweedfs
-    static_configs:
-      - targets: ["master.seaweedfs.svc.cluster.local:9327"]
-        labels:
-          component: master
-      - targets: ["volume.seaweedfs.svc.cluster.local:9327"]
-        labels:
-          component: volume
-      - targets: ["filer.seaweedfs.svc.cluster.local:9327"]
-        labels:
-          component: filer
-
   # Personal hosts (workstation + macbook) — host metrics over the tailnet.
   # Prometheus runs in-cluster and cannot route to tailnet CGNAT (100.64.0.0/10)
   # directly, so it scrapes through the tailnet-egress HTTP forward proxy

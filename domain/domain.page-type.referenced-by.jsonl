@@ -456,7 +456,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/node/node.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/resource-utilization/alan-attention/alan-attention.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/resource-utilization/resource-utilization.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/seaweedfs/seaweedfs.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/service/service.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/container-registry/container-registry.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/disk-store/disk-store.domain.ts"}

@@ -30,7 +30,15 @@ export const cluster = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No copy of the cluster's object store is kept.",
+      statement: "The cluster runs no object store.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A workload keeping bytes keeps them on a volume of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Bytes a page holds are read from the page service rather than from a store.",
     },
     {
       decisionKind: "decision-kind/departure",

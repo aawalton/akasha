@@ -1849,10 +1849,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/headscale/modules/configmaps/headscale-configmaps.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/headscale/modules/network-policies/headscale-network-policies.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/modules/headscale-constants/headscale-constants.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/constants/seaweedfs-constants.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/deployments/seaweedfs-deployments.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/maintenance-manifests/seaweedfs-maintenance-manifests.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/namespace/seaweedfs-namespace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/cluster/modules/cluster-api-reaching/cluster-api-reaching.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/cluster/modules/log-bound-saying/log-bound-saying.module.ts"}

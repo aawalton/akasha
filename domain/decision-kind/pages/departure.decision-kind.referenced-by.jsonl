@@ -2756,7 +2756,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/node/node.domain.ts","id":"01a0675b-16f6-70fc-b7f0-5a700f512e86"}
 {"propertySlug":"decision-kind","path":"infrastructure/resource-utilization/alan-attention/alan-attention.domain.ts","id":"01a0675b-16d4-7fec-97b7-58f61da0a03e"}
 {"propertySlug":"decision-kind","path":"infrastructure/resource-utilization/resource-utilization.domain.ts","id":"01a0675b-16f9-7b95-9d7f-cd041a034eab"}
-{"propertySlug":"decision-kind","path":"infrastructure/seaweedfs/modules/deployments/seaweedfs-deployments.module.ts","id":"01a06816-68b0-7032-92cb-02e742a97bc7"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster-foundation/cluster-foundation.page-type.ts","id":"01a0a5e8-68bd-7b38-afbc-5ac778577610"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.ts","id":"01a0a5fe-f019-72ee-a92a-9aa03e2494df"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/modules/cluster-api-reaching/cluster-api-reaching.module.ts","id":"01a06583-0030-7000-94b8-9fa8780482f5"}

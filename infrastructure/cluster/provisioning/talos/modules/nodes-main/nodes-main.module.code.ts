@@ -58,15 +58,7 @@ export const MAIN_NODES: Readonly<Record<string, NodeIntent>> = {
       ...gpuHardwareLabels({ vramUsableMib: 5746, computeCapability: "7.5" }),
     },
     extraMounts: [],
-    userVolumes: [
-      {
-        name: "seaweedfs",
-        diskSelector: "!system_disk && disk.size > 100u * GiB",
-        minSize: "500GB",
-        grow: true,
-        filesystem: "xfs",
-      },
-    ],
+    userVolumes: [],
   },
   "node-06": {
     id: "node-06",

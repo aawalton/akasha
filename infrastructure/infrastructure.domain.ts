@@ -25,7 +25,6 @@ export const infrastructure = {
     "domain/network",
     "domain/node",
     "domain/resource-utilization",
-    "domain/seaweedfs",
     "domain/storage",
     "domain/telemetry",
     "module/infrastructure-calls",

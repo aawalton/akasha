@@ -25,11 +25,6 @@
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/promtail/promtail.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/registry-gc/registry-gc.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/registry/registry.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-filer/seaweedfs-filer.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-maintenance/seaweedfs-maintenance.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-master/seaweedfs-master.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-s3-gateway/seaweedfs-s3-gateway.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-volume/seaweedfs-volume.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/smilingjenny-web/smilingjenny-web.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/tailnet-egress/tailnet-egress.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/talos-subnet-router/talos-subnet-router.service-cluster.ts"}

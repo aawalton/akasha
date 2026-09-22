@@ -22,11 +22,6 @@
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/network/talos-subnet-router/talos-subnet-router.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/filer/seaweedfs-filer.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/maintenance/seaweedfs-maintenance.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/master/seaweedfs-master.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/volume/seaweedfs-volume.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/storage/container-registry/registry-gc/registry-gc.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/storage/container-registry/registry/registry.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.ts"}

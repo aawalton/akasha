@@ -28,13 +28,6 @@
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/network/talos-subnet-router/talos-subnet-router.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/seaweedfs/filer/seaweedfs-filer.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/seaweedfs/master/seaweedfs-master.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/seaweedfs/modules/deployments/seaweedfs-deployments.module.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/seaweedfs/modules/maintenance-manifests/seaweedfs-maintenance-manifests.module.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/seaweedfs/modules/namespace/seaweedfs-namespace.module.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/seaweedfs/volume/seaweedfs-volume.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/storage/container-registry/registry-gc/registry-gc.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/storage/container-registry/registry/registry.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.code.ts"}
