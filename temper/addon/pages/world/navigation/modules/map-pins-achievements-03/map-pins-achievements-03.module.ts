@@ -4,7 +4,7 @@ export const mapPinsAchievements03 = {
   id: "01a06269-2a41-7c4a-b999-5080597bc1ce",
   type: "page-type/module",
   slug: "map-pins-achievements-03",
-  definition: "a run of the achievement pin places by zone",
+  definition: "a set of the achievement pin places by zone",
   code: "ts",
   decisions: [
     {

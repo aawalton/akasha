@@ -4,7 +4,7 @@ export const mapPinsLorebooks02 = {
   id: "01a06269-2ad9-7efa-a7b1-f6ec6acf7fe7",
   type: "page-type/module",
   slug: "map-pins-lorebooks-02",
-  definition: "a run of the lore book pin places by zone",
+  definition: "a set of the lore book pin places by zone",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const mapPinsSkyShards00 = {
   id: "01a06269-2af5-70e7-82e3-26daaa80a68d",
   type: "page-type/module",
   slug: "map-pins-sky-shards-00",
-  definition: "a run of the skyshard places by zone",
+  definition: "a set of the skyshard places by zone",
   code: "ts",
   decisions: [
     {
