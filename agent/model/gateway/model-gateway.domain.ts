@@ -5,6 +5,12 @@ export const modelGateway = {
   type: "page-type/domain",
   slug: "model-gateway",
   definition: "how an agent session calls a model",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "model gateway" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "model gateways" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "gateway", scope: "domain/model-gateway" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "gateways", scope: "domain/model-gateway" },
+  ],
   parts: [
     "module/account-picker",
     "module/account-walk",
