@@ -8,7 +8,7 @@ export const signatureScripts = {
   definition: "the signature scripts a grimoire takes, one to a line",
   properties: [
     { pageProperty: "relation-property/script-id", required: true, many: false },
-    { pageProperty: "text-property/class-id", required: false, many: false },
+    { pageProperty: "relation-property/class-id", required: false, many: false },
     { pageProperty: "text-property/description", required: true, many: false },
   ],
   types: "ts",

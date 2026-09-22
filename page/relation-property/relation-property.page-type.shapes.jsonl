@@ -25,6 +25,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-account-character","unique":null,"uniquePropertySlug":null,"slug":"character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"chess-game","unique":null,"uniquePropertySlug":null,"slug":"chess-game","propertySlug":"chess-game","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"child-type","propertySlug":"child-type","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-class","unique":null,"uniquePropertySlug":null,"slug":"class-id","propertySlug":"class-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"location-collection","unique":null,"uniquePropertySlug":null,"slug":"collection","propertySlug":"collection","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"collection-type","unique":null,"uniquePropertySlug":null,"slug":"collection-type","propertySlug":"collection-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"unit","unique":null,"uniquePropertySlug":null,"slug":"collection-unit","propertySlug":"unit","fileName":null,"folderName":null}

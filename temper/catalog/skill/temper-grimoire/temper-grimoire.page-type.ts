@@ -10,7 +10,7 @@ export const temperGrimoire = {
     "page-property-entry/affix-scripts",
     "page-property-entry/signature-scripts",
     "text-property/ability-icon",
-    "text-property/class-id",
+    "relation-property/class-id",
     "text-property/focus-scripts",
     "relation-property/script-id",
   ],
