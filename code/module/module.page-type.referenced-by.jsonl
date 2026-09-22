@@ -2045,6 +2045,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/schema/modules/nav-config/nav-config.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/schema/modules/pages/pages.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/schema/modules/property-carried/property-carried.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/schema/modules/property-config-schemas/property-config-schemas.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/schema/modules/quick-add/quick-add.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/schema/modules/resolve-select-options/resolve-select-options.module.ts"}

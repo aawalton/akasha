@@ -1560,6 +1560,7 @@
 {"propertySlug":"decision-kind","path":"page/core/page-core.domain.ts","id":"01a05b92-a9c7-7180-bdd4-8e13e47841e5"}
 {"propertySlug":"decision-kind","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.ts","id":"01a0c4f9-83fa-7dde-aee6-9ce457c3ea99"}
 {"propertySlug":"decision-kind","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.ts","id":"01a05b92-a9c7-744a-849e-167e2845f2b7"}
+{"propertySlug":"decision-kind","path":"page/core/schema/modules/property-carried/property-carried.module.ts","id":"01a0cad6-b438-739a-a8a6-4fb44c76dd99"}
 {"propertySlug":"decision-kind","path":"page/core/schema/modules/property-config-schemas/property-config-schemas.module.ts","id":"01a05b92-a9c7-7af9-b3b1-08c7b46c9a92"}
 {"propertySlug":"decision-kind","path":"page/core/schema/modules/select-option-create/select-option-create.module.ts","id":"01a05b92-a9c7-7db1-a085-4bc1d77ce702"}
 {"propertySlug":"decision-kind","path":"page/file-property/file-property.page-type.ts","id":"01a04dff-9d7d-7487-9a08-2485e897542f"}
@@ -1681,6 +1682,7 @@
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/badge-keying/badge-keying.module.ts","id":"01a0ca57-6b79-7ed9-8595-bf983f190063"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/page-detail-properties/page-detail-properties.module.ts","id":"01a06257-46ed-7cf6-b31e-9adb50ca83bc"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/record-property-badge/record-property-badge.module.ts","id":"01a0c9b0-274e-730c-9885-7bdd5df18204"}
+{"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-record-page-view/use-record-page-view.module.ts","id":"01a05cb4-fefb-7e34-b75b-0f9b37eda5e4"}
 {"propertySlug":"decision-kind","path":"page/view/modules/key-naming/key-naming.module.ts","id":"01a0c56b-6f8d-7a73-a14d-5963b94c9672"}
 {"propertySlug":"decision-kind","path":"person/device-secret/device-secret.page-type.ts","id":"01a05b39-f50b-77c0-826c-a526838d12ac"}
 {"propertySlug":"decision-kind","path":"person/device-secret/properties/device-secret-hash.text-property.ts","id":"01a05b39-f50c-7eb2-a48c-d4679699f045"}

@@ -17,6 +17,7 @@ export const pageCoreSchema = {
     "module/nav-config",
     "module/page-type-inheritance",
     "module/pages",
+    "module/property-carried",
     "module/property-config-schemas",
     "module/quick-add",
     "module/resolve-select-options",

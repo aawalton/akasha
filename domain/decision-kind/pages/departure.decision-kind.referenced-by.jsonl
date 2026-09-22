@@ -2966,6 +2966,7 @@
 {"propertySlug":"decision-kind","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.ts","id":"01a0c4f9-83fa-7dde-aee6-9ce457c3ea99"}
 {"propertySlug":"decision-kind","path":"page/core/property-type/modules/select/select.module.ts","id":"01a05b92-a9c7-7a3b-8ead-0439cf3ee357"}
 {"propertySlug":"decision-kind","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.ts","id":"01a05b92-a9c7-744a-849e-167e2845f2b7"}
+{"propertySlug":"decision-kind","path":"page/core/schema/modules/property-carried/property-carried.module.ts","id":"01a0cad6-b438-739a-a8a6-4fb44c76dd99"}
 {"propertySlug":"decision-kind","path":"page/core/schema/modules/property-config-schemas/property-config-schemas.module.ts","id":"01a05b92-a9c7-7af9-b3b1-08c7b46c9a92"}
 {"propertySlug":"decision-kind","path":"page/core/schema/modules/select-option-create/select-option-create.module.ts","id":"01a05b92-a9c7-7db1-a085-4bc1d77ce702"}
 {"propertySlug":"decision-kind","path":"page/core/view-state/modules/reducers/reducers.module.ts","id":"01a05b92-a9c7-78e7-86ac-75649bdb58ed"}
@@ -3253,6 +3254,7 @@
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/hooks/hooks.module.ts","id":"01a06205-4f3b-7004-be48-0732dc16b0d9"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/page-with-properties/page-with-properties.module.ts","id":"01a05cac-2a4f-74fa-a0c3-9ea5542cdf79"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-complete-page-optimistic/use-complete-page-optimistic.module.ts","id":"01a07973-368c-72b7-ae79-826c332e348c"}
+{"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-record-page-view/use-record-page-view.module.ts","id":"01a05cb4-fefb-7e34-b75b-0f9b37eda5e4"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.ts","id":"01a05cce-25ec-7756-a742-f0d31cf07f6e"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/mutation/modules/build-patch-plan/build-patch-plan.module.ts","id":"01a05cb4-fefa-7607-bad3-97aa6193d933"}
 {"propertySlug":"decision-kind","path":"page/unique-kind/pages/page-property.unique-kind.ts","id":"01a0814f-68bb-7000-878e-605b3d7dec8b"}

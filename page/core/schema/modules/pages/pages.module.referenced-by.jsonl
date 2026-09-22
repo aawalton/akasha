@@ -39,4 +39,5 @@
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/quick-add/modules/compute-quick-add-payload/compute-quick-add-payload.module.code.ts"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"}
+{"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/supabase/modules/use-record-page-view/use-record-page-view.module.code.ts"}
 {"propertySlug":"parts","path":"page/core/schema/page-core-schema.domain.ts","id":"01a071cb-3d85-7fcd-8315-90eca5831d35"}

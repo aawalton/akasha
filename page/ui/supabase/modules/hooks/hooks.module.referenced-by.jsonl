@@ -14,5 +14,6 @@
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/component/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"}
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"}
+{"propertySlug":"import","fileName":"hooks.module.code.ts","path":"page/ui/supabase/modules/use-record-page-view/use-record-page-view.module.code.ts"}
 {"propertySlug":"import","fileName":"hooks.module.code.ts","path":"temper/web/modules/temper-pages-resolver/temper-pages-resolver.module.code.ts"}
 {"propertySlug":"parts","path":"page/ui/supabase/page-ui-supabase.domain.ts","id":"01a071d1-ee27-7b2f-8b21-963e117f2e00"}

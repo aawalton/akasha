@@ -19,7 +19,7 @@ import {
   type PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 
-const LAST_VIEWED_AT_KEY = "lastViewedAt"
+export const LAST_VIEWED_AT_KEY = "lastViewedAt"
 
 export type PatchPageArgs<T extends Record<string, unknown> = Record<string, Json>> = {
   pageTypeSlug: string

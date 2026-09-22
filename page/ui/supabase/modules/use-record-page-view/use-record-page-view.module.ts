@@ -6,4 +6,18 @@ export const useRecordPageView = {
   slug: "use-record-page-view",
   definition: "recording a reader opening a page no more often than staleness allows",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type carrying no mark for the last view has no view recorded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a page type carries is read from the properties that page type declares.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No page type is named here by its slug.",
+    },
+  ],
 } as const satisfies Module
