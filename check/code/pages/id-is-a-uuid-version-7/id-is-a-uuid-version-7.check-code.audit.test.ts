@@ -22,6 +22,7 @@ function rootWith(bodies: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor("akasha-id-audit-")
   for (const [at, body] of Object.entries(bodies)) writing(root, at, body)
   git(root, ["init", "-q"])
+  git(root, ["add", "-A"])
   return root
 }
 
