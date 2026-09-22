@@ -6,4 +6,5 @@ export const theTowerSoul = {
   slug: "the-tower-soul",
   title: "Soul",
   cap: 1000,
+  bias: 4,
 } as const satisfies TowerAttunementRank

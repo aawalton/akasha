@@ -7,4 +7,5 @@ export const theTowerSpirit = {
   title: "Spirit",
   description: "The element is animated at will.",
   cap: 250,
+  bias: 3,
 } as const satisfies TowerAttunementRank

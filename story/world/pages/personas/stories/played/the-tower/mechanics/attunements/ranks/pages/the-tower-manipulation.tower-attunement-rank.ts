@@ -7,4 +7,5 @@ export const theTowerManipulation = {
   title: "Manipulation",
   description: "The element is moved and formed deliberately.",
   cap: 50,
+  bias: 2,
 } as const satisfies TowerAttunementRank

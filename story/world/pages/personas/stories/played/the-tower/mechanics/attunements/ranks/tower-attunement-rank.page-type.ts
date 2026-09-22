@@ -9,4 +9,8 @@ export const towerAttunementRank = {
   extends: ["page-type/attunement-rank"],
   types: "ts",
   schema: "jsonl",
+  properties: [
+    { pageProperty: "number-property/tower-attunement-bias", required: true, many: false },
+  ],
+  parts: ["number-property/tower-attunement-bias"],
 } as const satisfies PageType

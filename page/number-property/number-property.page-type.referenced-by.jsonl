@@ -308,6 +308,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/named-events/properties/event-first-chapter.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/named-events/properties/event-last-chapter.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/named-events/properties/evidence-beat.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/attunements/ranks/properties/tower-attunement-bias.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/properties/appearance-count.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/anchor-beat.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/anchor-volume.number-property.ts"}

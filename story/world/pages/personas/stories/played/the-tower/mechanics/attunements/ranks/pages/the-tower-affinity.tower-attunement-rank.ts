@@ -7,4 +7,5 @@ export const theTowerAffinity = {
   title: "Affinity",
   description: "The element is sensed deliberately, and no more than sensed.",
   cap: 10,
+  bias: 1,
 } as const satisfies TowerAttunementRank
