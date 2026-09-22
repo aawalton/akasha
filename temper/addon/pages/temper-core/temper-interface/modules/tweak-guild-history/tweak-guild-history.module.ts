@@ -4,7 +4,7 @@ export const tweakGuildHistory = {
   id: "01a06115-1ac9-7fb0-8f2d-ffc398b892a8",
   type: "page-type/module",
   slug: "tweak-guild-history",
-  definition: "the guild history window the interface tweaks page",
+  definition: "the guild history window paged by the interface tweaks",
   code: "ts",
   decisions: [
     {
