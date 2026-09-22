@@ -58,4 +58,10 @@
 {"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/companions-companion-rapport.temper-completion-category.ts"}
 {"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/companions-companion-skill-lines.temper-completion-category.ts"}
 {"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/companions.temper-completion-category.ts"}
+{"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/tasks-active-quests.temper-completion-category.ts"}
+{"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/tasks-dungeon-sets.temper-completion-category.ts"}
+{"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/tasks-guild-sales.temper-completion-category.ts"}
+{"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/tasks-hireling-mails.temper-completion-category.ts"}
+{"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/tasks-inventory-management.temper-completion-category.ts"}
+{"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/tasks.temper-completion-category.ts"}
 {"propertySlug":"parts","path":"temper/player/progress/temper-progress.domain.ts","id":"01a05fac-7582-726f-ac10-d5261c7e1f65"}
