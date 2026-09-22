@@ -130,6 +130,21 @@ function stretched(root: string): undefined {
   )
 }
 
+const SESSIONS_KIND = "sessions-kind"
+
+function deepened(root: string): undefined {
+  worlded(root)
+  kinded(root, "page-property-entry")
+  typed(root, SESSIONS_KIND, ["page-property-entry"], [])
+  filed(root, SESSIONS_KIND, SESSIONS, { propertySlug: SESSIONS })
+  typed(
+    root,
+    "deepened",
+    ["held"],
+    [{ pagePropertySlug: `${SESSIONS_KIND}/${SESSIONS}`, required: false }]
+  )
+}
+
 function sessioned(
   root: string,
   slug: string,
@@ -320,6 +335,28 @@ test("a test on a key a page's own body carries opens the files beside that page
   expect(opened(held)).toBe(1)
   expect(slugsIn(held)).toEqual(["one"])
   expect(held[0]?.row.value[SESSIONS]).toEqual([{ stretch: "morning" }])
+})
+
+test("a property whose page type is under an entry shape is read from beside the page", () => {
+  const root = scratch.rootFor("akasha-kinds-")
+  deepened(root)
+  const at = filed(root, "deepened", "one", { count: 1, [SESSIONS]: "jsonl" })
+  const beside = join(root, at.replace(/\.ts$/, `.${SESSIONS}.jsonl`))
+  mkdirSync(dirname(beside), { recursive: true })
+  writeFileSync(beside, `${SESSION_ROWS.join("\n")}\n`)
+
+  expect(gathered(root, null)[0]?.row.value[SESSIONS]).toEqual([{ stretch: "morning" }])
+})
+
+test("a test on a key under an entry shape is passed over rather than run before the read", () => {
+  const root = scratch.rootFor("akasha-kinds-")
+  deepened(root)
+  const at = filed(root, "deepened", "one", { count: 1, [SESSIONS]: "jsonl" })
+  const beside = join(root, at.replace(/\.ts$/, `.${SESSIONS}.jsonl`))
+  mkdirSync(dirname(beside), { recursive: true })
+  writeFileSync(beside, `${SESSION_ROWS.join("\n")}\n`)
+
+  expect(slugsIn(gathered(root, narrowing(SESSIONS, "no stretch is this")))).toEqual(["one"])
 })
 
 test("a page a test leaves out has the file beside that page left unopened", () => {

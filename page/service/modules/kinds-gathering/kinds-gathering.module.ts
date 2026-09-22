@@ -32,6 +32,11 @@ export const kindsGathering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A property whose page type is under `page-property-entry` is read from beside the page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page type with no such file beside it has what it carries worked out here.",
     },
     {

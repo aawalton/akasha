@@ -23,7 +23,10 @@ import {
   type Source as Reaching,
   type Subject,
 } from "akasha/page/modules/computing/page-computing.module.code.ts"
-import { entriedValue } from "akasha/page/modules/entries/page-entries.module.code.ts"
+import {
+  type Entrying,
+  entriedValue,
+} from "akasha/page/modules/entries/page-entries.module.code.ts"
 import { filedValue } from "akasha/page/modules/file-body/page-file-body.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
@@ -54,7 +57,7 @@ const CODE = ".code.ts"
 
 const SLASH = "/"
 
-const BESIDE_THE_PAGE: ReadonlySet<string> = new Set([COMPUTED, ENTRY_PROPERTY, FILE_PROPERTY])
+const BESIDE_THE_PAGE: ReadonlySet<string> = new Set([COMPUTED, FILE_PROPERTY])
 
 export type Testing = (value: Value) => boolean
 
@@ -271,11 +274,14 @@ export function computedInto(root: string, counting: readonly Counting[]): Count
 
 function bodyTests(
   tests: ReadonlyMap<string, Testing> | null,
-  carried: readonly Carried[]
+  carried: readonly Carried[],
+  entrying: Entrying
 ): readonly Testing[] {
   if (tests === null) return []
   const beside = new Set<string>()
-  for (const one of carried) if (BESIDE_THE_PAGE.has(one.pageTypeSlug)) beside.add(one.key)
+  for (const one of carried) {
+    if (BESIDE_THE_PAGE.has(one.pageTypeSlug) || entrying(one.pageTypeSlug)) beside.add(one.key)
+  }
   const found: Testing[] = []
   for (const [key, test] of tests) if (!beside.has(key)) found.push(test)
   return found
@@ -287,13 +293,14 @@ function valuedFor(
   carried: readonly Carried[],
   files: readonly string[],
   entries: ReadonlySet<string> | null,
-  testing: readonly Testing[]
+  testing: readonly Testing[],
+  entrying: Entrying
 ): readonly Valued[] {
   const found: Valued[] = []
   for (const one of read) {
     const beside = wholeValue(root, one.path, one.value)
     if (!testing.every((test) => test(beside))) continue
-    const entried = entriedValue(root, one.path, beside, carried, entries)
+    const entried = entriedValue(root, one.path, beside, carried, entries, entrying)
     const whole = filedValue(root, one.path, entried, carried, files)
     found.push(whole === one.value ? one : { path: one.path, value: whole })
   }
@@ -310,13 +317,15 @@ export function gatheredFor(
   tests: ReadonlyMap<string, Testing> | null = null
 ): readonly Counting[] {
   const counting: Counting[] = []
+  const under = kindsUnder(ENTRY_PROPERTY, reading)
+  const entrying: Entrying = (slug) => under.has(slug)
   for (const kind of kindsFor(reading, pageTypeSlug)) {
     const read = valuesOfType(reading, kind)
     if (read.length === 0) continue
     const own = kind === pageTypeSlug ? carried : carriedFor(reading, kind)
     const computed = computedFor(root, own)
-    const testing = bodyTests(tests, own)
-    for (const row of valuedFor(root, read, own, files, entries, testing)) {
+    const testing = bodyTests(tests, own, entrying)
+    for (const row of valuedFor(root, read, own, files, entries, testing, entrying)) {
       counting.push({ row, computed })
     }
   }
