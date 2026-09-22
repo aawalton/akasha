@@ -8,5 +8,5 @@ export const cyrodiilTownDailies = {
   displayOrder: 1,
   scriptType: "signature",
   tierAchievements: "jsonl",
-  zoneSlugs: ["cyrodiil"],
+  zoneSlugs: ["temper-zone/cyrodiil"],
 } as const satisfies TemperScribingSource

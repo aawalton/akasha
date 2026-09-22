@@ -8,5 +8,5 @@ export const undauntedDelveDailies = {
   displayOrder: 0,
   scriptType: "affix",
   tierAchievements: "jsonl",
-  zoneSlugs: ["stormhaven", "deshaan", "grahtwood"],
+  zoneSlugs: ["temper-zone/stormhaven", "temper-zone/deshaan", "temper-zone/grahtwood"],
 } as const satisfies TemperScribingSource

@@ -8,5 +8,5 @@ export const imperialCityDailies = {
   displayOrder: 1,
   scriptType: "affix",
   tierAchievements: "jsonl",
-  zoneSlugs: ["imperial-city"],
+  zoneSlugs: ["temper-zone/imperial-city"],
 } as const satisfies TemperScribingSource

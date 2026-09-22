@@ -8,5 +8,5 @@ export const magesGuildDaily = {
   displayOrder: 0,
   scriptType: "focus",
   tierAchievements: "jsonl",
-  zoneSlugs: ["stormhaven", "deshaan", "grahtwood"],
+  zoneSlugs: ["temper-zone/stormhaven", "temper-zone/deshaan", "temper-zone/grahtwood"],
 } as const satisfies TemperScribingSource
