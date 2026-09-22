@@ -18,7 +18,7 @@ export const characterBuild = {
     { pageProperty: "text-property/build-correlation-id", required: false, many: false },
     { pageProperty: "number-property/build-target-count", required: false, many: false },
     {
-      pageProperty: "relation-property/character-roles",
+      pageProperty: "multi-relation-property/character-roles",
       required: false,
       many: true,
       maxCount: null,

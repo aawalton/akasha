@@ -7,7 +7,7 @@ export const temperAccountCharacter = {
   definition: "a character on an account",
   extends: ["page-type/temper-character-thing"],
   parts: [
-    "relation-property/character-roles",
+    "multi-relation-property/character-roles",
     "text-property/first-name",
     "text-property/live-build-id",
   ],
@@ -17,7 +17,7 @@ export const temperAccountCharacter = {
     { pageProperty: "text-property/first-name", required: false, many: false },
     { pageProperty: "text-property/live-build-id", required: false, many: false },
     {
-      pageProperty: "relation-property/character-roles",
+      pageProperty: "multi-relation-property/character-roles",
       required: false,
       many: true,
       maxCount: null,
