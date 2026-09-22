@@ -54,5 +54,9 @@ export const pageListening = {
       decisionKind: "decision-kind/absence",
       statement: "Importing this module's file starts nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The slug is read off the service's own page rather than spelled here.",
+    },
   ],
 } as const satisfies Module
