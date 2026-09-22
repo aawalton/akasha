@@ -18,8 +18,9 @@ export const temperAddonWorld = {
     "type-declaration/world-declarations",
     "domain/temper-addon-world-navigation",
     "domain/temper-addon-world-quests",
+    "domain/temper-addon-world-antiquities",
   ],
-  interfaces: ["eso-interface/minimap-animations"],
+  interfaces: ["eso-interface/minimap-animations", "eso-interface/leads-layout"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

@@ -1,5 +1,3 @@
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-unit-colors/leads-unit-colors.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-cache-status-bar/sales-history-cache-status-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-selection-widget/sales-history-status-selection-widget.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-window-shared/sales-history-status-window-shared.module.code.ts"}
@@ -47,6 +45,8 @@
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-icons/scrollable-menu-combobox-base-icons.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-header-refresh/scrollable-menu-dropdown-header-refresh.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-colors/leads-unit-colors.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-colors/destinations-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-defaults/destinations-defaults.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"}

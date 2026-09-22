@@ -1,5 +1,3 @@
-{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-alerts/leads-alerts.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/catalog-api-test/catalog-api-test.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"}
@@ -21,6 +19,8 @@
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-ui/fco-ui.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-alerts/leads-alerts.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-data-runtime/destinations-data-runtime.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-callbacks-loot/map-pins-callbacks-loot.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-callbacks/map-pins-callbacks.module.code.ts"}

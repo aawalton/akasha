@@ -1,5 +1,3 @@
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-cache-status-bar/sales-history-cache-status-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-selection-widget/sales-history-status-selection-widget.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-status-tooltip/sales-history-status-tooltip.module.code.ts"}
@@ -208,6 +206,8 @@
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-hooks/destinations-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"}

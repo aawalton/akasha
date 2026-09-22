@@ -28,6 +28,11 @@
 				<Down>TemperVotansMiniMap:ToggleFixedOffset()</Down>
 			</Action>
 		</Category>
+		<Category name="Temper Leads">
+			<Action name="TOGGLE_TEMPER_LEADS">
+				<Down>TemperWorld.toggleRDL()</Down>
+			</Action>
+		</Category>
 	</Layer>
 	<Layer name="SI_KEYBINDINGS_LAYER_SIEGE" allowFallthrough="false">
 		<Category name="SI_KEYBINDINGS_CATEGORY_TemperVotansMiniMap">

@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-constants/leads-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-scribing/characters-scribing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-slots/combat-action-slots.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts"}
@@ -14,6 +13,7 @@
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-collectibles/fco-collectibles.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-constants/leads-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-base-ability/character-capture-base-ability.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}

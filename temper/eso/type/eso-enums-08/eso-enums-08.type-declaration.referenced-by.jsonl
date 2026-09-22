@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-item-sets/characters-item-sets.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-display-names/companions-display-names.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"}
@@ -28,6 +27,7 @@
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-types/inventory-rules-types.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/companion-equipment-catalog-capture/companion-equipment-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-filter-type-constants/item-filter-type-constants.module.code.ts"}

@@ -397,12 +397,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
 {"propertySlug":"decision-kind","path":"temper/addon/community/modules/esoui-catalog/esoui-catalog.module.ts","id":"01a06069-b78e-7d2b-92aa-b3faa2d1f562"}
 {"propertySlug":"decision-kind","path":"temper/addon/community/temper-addon-community.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/leads-global-declarations/leads-global-declarations.type-declaration.ts","id":"01a06274-b08b-7d77-84f1-e4cc639b4458"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/leads-window-declarations/leads-window-declarations.type-declaration.ts","id":"01a06274-b08b-7ce4-9c42-df97b97f5da8"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/modules/leads-global/leads-global.module.ts","id":"01a06274-b08a-7c2e-bec4-949ada692ff8"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/modules/leads-init/leads-init.module.ts","id":"01a06274-b08a-713c-8263-d0c81956cd55"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/modules/leads-unit-list/leads-unit-list.module.ts","id":"01a06274-b08a-7e24-bb52-b2b7aeb6d21d"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/temper-addon-antiquities.temper-addon.ts","id":"01a06275-5d2d-7594-903b-3f31fdbba41e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/temper-addon-catalog.temper-addon.ts","id":"01a063ba-94e5-7c5d-b338-174ed9b6a224"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-achievements/characters-achievements.module.ts","id":"01a062e9-b6ff-701b-ad38-42cae450de18"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.ts","id":"01a062e9-b6ff-701c-9ee8-9608dc0eea33"}
@@ -664,6 +658,12 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-visible/scrollable-menu-util-visible.module.ts","id":"01a06275-c44a-7e89-9fe5-5c2fe3ca230b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/temper-lib-scrollable-menu.temper-addon.ts","id":"01a06275-c44a-71b2-a8e1-108e1c1dfd4b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/trading/modules/trading-prune/trading-prune.module.ts","id":"01a06160-2a5b-7de7-92b4-c3276f6bde81"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/leads-global-declarations/leads-global-declarations.type-declaration.ts","id":"01a06274-b08b-7d77-84f1-e4cc639b4458"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/leads-window-declarations/leads-window-declarations.type-declaration.ts","id":"01a06274-b08b-7ce4-9c42-df97b97f5da8"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-global/leads-global.module.ts","id":"01a06274-b08a-7c2e-bec4-949ada692ff8"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.ts","id":"01a06274-b08a-713c-8263-d0c81956cd55"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.ts","id":"01a06274-b08a-7e24-bb52-b2b7aeb6d21d"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/temper-addon-world-antiquities.domain.ts","id":"01a0c6f4-6af6-74a8-8e13-9f3e2328ee42"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-champions-data-00/destinations-champions-data-00.module.ts","id":"01a06269-29b1-7b29-b8ee-a46bec573c41"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-champions-data-01/destinations-champions-data-01.module.ts","id":"01a06269-29b2-77c6-8646-fad9d5832e09"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-champions-data-02/destinations-champions-data-02.module.ts","id":"01a06269-29b4-73b2-8c68-bb08b7637bba"}

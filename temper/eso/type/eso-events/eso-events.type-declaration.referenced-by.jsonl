@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-init/leads-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-cache/sales-history-cache.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-startup/sales-history-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/catalog-entry/catalog-entry.module.code.ts"}
@@ -103,6 +102,7 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-skip-kiosk-dialog/trading-skip-kiosk-dialog.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-initialize/destinations-pins-initialize.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-language/destinations-pins-language.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-compass-pins/map-pins-compass-pins.module.code.ts"}

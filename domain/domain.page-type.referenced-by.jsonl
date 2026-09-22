@@ -551,6 +551,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/build/temper-addon-build.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/community/temper-addon-community.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/crafting/crafting-sets/crafting-sets.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/world/antiquities/temper-addon-world-antiquities.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/world/navigation/temper-addon-world-navigation.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/world/quests/temper-addon-world-quests.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-component.domain.ts"}

@@ -154,12 +154,6 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"story/ui/modules/story-so-far/story-so-far.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"story/world/stories/read/modules/chapter-channel/chapter-channel.module.code.tsx"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-alerts/leads-alerts.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-reporting/leads-reporting.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-adapter/sales-history-adapter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-cache-guild/sales-history-cache-guild.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-category-class/sales-history-category-class.module.code.ts"}
@@ -756,6 +750,12 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-tooltip/scrollable-menu-util-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-visible/scrollable-menu-util-visible.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-browse-window/trading-browse-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-alerts/leads-alerts.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-reporting/leads-reporting.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-constants/compass-pins-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}

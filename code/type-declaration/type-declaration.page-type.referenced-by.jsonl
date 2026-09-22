@@ -8,10 +8,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/sparse-array/sparse-array.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"product/smilingjenny/web/jenny-capacitor-globals/jenny-capacitor-globals.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/antiquities/antiquities-addon-declarations/antiquities-addon-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/antiquities/leads-global-declarations/leads-global-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/antiquities/leads-undaunted-declarations/leads-undaunted-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/antiquities/leads-window-declarations/leads-window-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/capture-sales/sales-history-controls/sales-history-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/catalog/catalog-config-global/catalog-config-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/characters/characters-config-declarations/characters-config-declarations.type-declaration.ts"}
@@ -90,6 +86,10 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/scrollable-menu-submenu-shapes/scrollable-menu-submenu-shapes.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/scrollable-menu-util-shapes/scrollable-menu-util-shapes.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/trading/trading-globals-declarations/trading-globals-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/antiquities/antiquities-addon-declarations/antiquities-addon-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/antiquities/leads-global-declarations/leads-global-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/antiquities/leads-undaunted-declarations/leads-undaunted-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/antiquities/leads-window-declarations/leads-window-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/navigation/destinations-preview-controls/destinations-preview-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/navigation/minimap-string-ids/minimap-string-ids.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/world/navigation/navigation-declarations/navigation-declarations.type-declaration.ts"}

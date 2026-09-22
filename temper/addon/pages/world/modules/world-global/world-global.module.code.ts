@@ -1,3 +1,4 @@
+import { toggleLeadsWindow } from "akasha/temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"
 import {
   ADDON_NAME,
   ADDON_VERSION,
@@ -7,4 +8,5 @@ import "akasha/temper/addon/pages/world/world-declarations/world-declarations.ty
 globalThis.TemperWorld = {
   ADDON_NAME,
   ADDON_VERSION,
+  toggleRDL: toggleLeadsWindow,
 }
