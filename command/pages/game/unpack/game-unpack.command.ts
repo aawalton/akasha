@@ -26,6 +26,10 @@ export const gameUnpack = {
       statement: "A run leaves the rows where they are, and a later change takes them away.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Rows are named the plural the pages made of them are gathered under.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No run decides anything a second run would decide differently.",
     },

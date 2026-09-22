@@ -11,7 +11,6 @@ import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts
 import { gameDesignEntry } from "akasha/story/game/design-entry/game-design-entry.page-type.ts"
 import { game } from "akasha/story/game/game.page-type.ts"
 import { theTower } from "akasha/story/game/pages/the-tower/the-tower.game.ts"
-import { designEntries } from "akasha/story/game/properties/design-entries.file-property.ts"
 
 const CALLED = "akasha game unpack"
 
@@ -87,14 +86,14 @@ test("a blank line between rows is no row", () => {
 })
 
 test("the commit says which rows of which game were made into pages", () => {
-  expect(messageFor(designEntries.propertySlug, theTower.slug)).toBe(
-    `make a page of each ${designEntries.propertySlug} row of ${theTower.slug}`
+  expect(messageFor(gameDesignEntry.pluralSlug, theTower.slug)).toBe(
+    `make a page of each ${gameDesignEntry.pluralSlug} row of ${theTower.slug}`
   )
 })
 
 test("a call names the game and the rows beside it", () => {
-  const read = taken(["--game", SAID, "--ledger", designEntries.propertySlug], CALLED)
-  expect(read).toEqual({ game: SAID, ledger: designEntries.propertySlug })
+  const read = taken(["--game", SAID, "--ledger", gameDesignEntry.pluralSlug], CALLED)
+  expect(read).toEqual({ game: SAID, ledger: gameDesignEntry.pluralSlug })
 })
 
 test("rows this command does not know are refused", () => {

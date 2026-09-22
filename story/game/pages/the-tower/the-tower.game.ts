@@ -59,7 +59,6 @@ export const theTower = {
     "game-panel/story-so-far",
     "game-panel/prose-channel",
   ],
-  designEntries: "jsonl",
   mechanicRuns: "jsonl",
   player: "game-entity/the-tower-alan",
 } as const satisfies Game

@@ -30,7 +30,6 @@ import {
 import { putting } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
 import { gameDesignEntry } from "akasha/story/game/design-entry/game-design-entry.page-type.ts"
 import { game } from "akasha/story/game/game.page-type.ts"
-import { designEntries } from "akasha/story/game/properties/design-entries.file-property.ts"
 
 const NAMED = [gameArgument, ledgerArgument] as const
 
@@ -153,7 +152,7 @@ export function designRowed(gameSlug: string, folder: string, row: Record<string
 }
 
 const LEDGERS: ReadonlyMap<string, Ledger> = new Map([
-  [designEntries.propertySlug, { under: gameDesignEntry.pluralSlug, rowed: designRowed } as Ledger],
+  [gameDesignEntry.pluralSlug, { under: gameDesignEntry.pluralSlug, rowed: designRowed } as Ledger],
 ])
 
 export function taken(argv: readonly string[], calledAs: string): Read {

@@ -12,7 +12,6 @@ export const game = {
   extends: ["page-type/collection"],
   parts: [
     "file-property/config",
-    "file-property/design-entries",
     "file-property/display-config",
     "file-property/gm-context",
     "file-property/lore-entries",
@@ -74,7 +73,6 @@ export const game = {
     { pageProperty: "file-property/resolution-mechanism", required: false, many: false },
     { pageProperty: "file-property/rolls", required: false, many: false },
     { pageProperty: "file-property/lore-entries", required: false, many: false },
-    { pageProperty: "file-property/design-entries", required: false, many: false },
     {
       pageProperty: "relation-property/game-mechanics",
       required: false,
@@ -153,10 +151,7 @@ export const game = {
       statement:
         "An entry superseding an earlier one names the entry superseded rather than replacing that entry.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A design entry is settled before the play using that entry.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The facts the play discloses beat the facts the design intended.",
