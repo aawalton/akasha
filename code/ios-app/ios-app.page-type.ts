@@ -9,7 +9,6 @@ export const iosApp = {
     "build-folder-property/web-directory",
     "file-property/app-icon",
     "file-property/capacitor-config",
-    "file-property/git-ignore",
     "file-property/icon-drawing",
     "file-property/web-entry",
     "ios-app/alanwalton",

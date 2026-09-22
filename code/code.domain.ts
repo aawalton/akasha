@@ -51,6 +51,7 @@ export const code = {
     "page-type/stylesheet",
     "page-type/type-declaration",
     "page-type/workspace",
+    "file-property/git-ignore",
   ],
   decisions: [
     {

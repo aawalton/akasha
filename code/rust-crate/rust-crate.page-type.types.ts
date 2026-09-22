@@ -1,4 +1,4 @@
-import type { GitIgnore } from "akasha/code/ios-app/properties/git-ignore.file-property.types.ts"
+import type { GitIgnore } from "akasha/code/properties/git-ignore.file-property.types.ts"
 import type { CargoBuildScript } from "akasha/code/rust-crate/properties/cargo-build-script.code-file-property.types.ts"
 import type { CargoManifest } from "akasha/code/rust-crate/properties/cargo-manifest.file-property.types.ts"
 import type { CrateIcon } from "akasha/code/rust-crate/properties/crate-icon.file-property.types.ts"

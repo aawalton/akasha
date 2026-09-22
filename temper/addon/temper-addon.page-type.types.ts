@@ -1,4 +1,4 @@
-import type { GitIgnore } from "akasha/code/ios-app/properties/git-ignore.file-property.types.ts"
+import type { GitIgnore } from "akasha/code/properties/git-ignore.file-property.types.ts"
 import type { Service } from "akasha/infrastructure/service/service.page-type.types.ts"
 import type { AddonArtFolder } from "akasha/temper/addon/properties/addon-art-folder.named-folder-property.types.ts"
 import type { AddonBinFolder } from "akasha/temper/addon/properties/addon-bin-folder.named-folder-property.types.ts"

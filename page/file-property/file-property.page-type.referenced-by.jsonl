@@ -58,7 +58,6 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/eso-interface/properties/markup.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/ios-app/properties/app-icon.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/ios-app/properties/capacitor-config.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/ios-app/properties/git-ignore.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/ios-app/properties/icon-drawing.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/ios-app/properties/web-entry.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/ios-program/properties/entitlements.file-property.ts"}
@@ -66,6 +65,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/lua-runtime-library/properties/lua50-config.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/lua-runtime-library/properties/universal-config.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/module-property-group/properties/logs.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/properties/git-ignore.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/router-app/properties/compile-config.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/router-app/properties/placeholder-image.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/router-app/properties/router-app-git-ignore.file-property.ts"}
