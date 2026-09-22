@@ -90,7 +90,8 @@ export function appendAddonSavedVars(spec: AppendSpec, io: SavedVarsIo): AppendM
   const done = appendGlobalToTarget(
     readFileSync(absorbedFile, "utf-8"),
     spec.absorbedGlobal,
-    readFileSync(targetFile, "utf-8")
+    readFileSync(targetFile, "utf-8"),
+    spec.renamedTo
   )
   switch (done.kind) {
     case "already-appended":
