@@ -1,3 +1,4 @@
+import { SURFACE_1 } from "akasha/design/interface/token/modules/surface-color/surface-color.module.code.ts"
 import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { quantityInView } from "akasha/temper/addon/pages/items/modules/inventory-browser-locations/inventory-browser-locations.module.code.ts"
 import type {
@@ -37,6 +38,7 @@ const PADDING = 8
 const TITLE_HEIGHT = 30
 const TOOLBAR_HEIGHT = 90
 const SEARCHBAR_HEIGHT = 30
+const PANEL_OPACITY = 0.85
 
 const DOCK_OFFSET_X = -20
 const DOCK_OFFSET_TOP = 16
@@ -129,7 +131,7 @@ export function createBrowserWindow(): BrowserWindowHandle {
 
   const bg = WINDOW_MANAGER.CreateControl("$(parent)BG", frame, CT_BACKDROP)
   bg.SetAnchorFill()
-  bg.SetCenterColor(0, 0, 0, 0.85)
+  bg.SetCenterColor(SURFACE_1[0], SURFACE_1[1], SURFACE_1[2], PANEL_OPACITY)
   bg.SetEdgeColor(0, 0, 0, 0)
   bg.SetEdgeTexture(undefined, 1, 1, 1)
 
