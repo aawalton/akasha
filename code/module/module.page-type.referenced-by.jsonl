@@ -1415,7 +1415,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/item-row/item-row.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/item/item.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/kbd/kbd.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/log-viewer/log-viewer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/lucide-icon/lucide-icon.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/path/path.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.ts"}

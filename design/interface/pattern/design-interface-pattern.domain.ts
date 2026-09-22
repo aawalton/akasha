@@ -25,7 +25,6 @@ export const designInterfacePattern = {
     "module/item-card",
     "module/item-row",
     "module/kbd",
-    "module/log-viewer",
     "module/lucide-icon",
     "module/path",
     "module/query-error-boundary",
