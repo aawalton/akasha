@@ -6,4 +6,14 @@ export const treasurePinsData = {
   slug: "treasure-pins-data",
   definition: "every map's pins joined from their parts",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row is one treasure-map pin the collections add-on draws.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The rows are kept in numbered parts rather than in one file.",
+    },
+  ],
 } as const satisfies Module

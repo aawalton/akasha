@@ -3633,6 +3633,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/collections/modules/journal-window/journal-window.module.ts","id":"01a0617d-5454-7cab-9709-1e96bec082bc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/collections/modules/treasure-data/treasure-data.module.ts","id":"01a061d5-d0bf-79cd-abd1-43da311ed93f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/collections/modules/treasure-icons/treasure-icons.module.ts","id":"01a061d5-d0b4-719c-ba34-e58d5ca2aa19"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/collections/modules/treasure-pins-data/treasure-pins-data.module.ts","id":"01a061d5-d0bd-7727-b9ce-b4477741a289"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/collections/modules/treasure-types/treasure-types.module.ts","id":"01a061d5-d0b2-764d-ac02-736a57d1eacd"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/collections/temper-addon-collections.temper-addon.ts","id":"01a0624c-a660-70e0-bf26-d959d1027e91"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-charset/data-encode-charset.module.ts","id":"01a06061-969f-7a3f-8f90-cd7a3e2551ba"}
