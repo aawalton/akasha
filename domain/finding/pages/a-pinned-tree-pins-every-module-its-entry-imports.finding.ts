@@ -1,9 +1,9 @@
 import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
-export const aPinnedWorktreePinsEveryModuleItsEntryImports = {
+export const aPinnedTreePinsEveryModuleItsEntryImports = {
   id: "01a0a07f-5211-7be4-be0b-56b02fdc9259",
   type: "page-type/finding",
-  slug: "a-pinned-worktree-pins-every-module-its-entry-imports",
+  slug: "a-pinned-tree-pins-every-module-its-entry-imports",
   domain: "domain/infrastructure",
   claim:
     "Every workstation unit execs one module inside `.git/trees/service-workstation`, and the pin reaches every `akasha/...` module that entry imports rather than that file alone. The worktree holds no `node_modules` of its own, but it does hold the repository's own `package.json`, whose `name` is `akasha` and whose `exports` is `./*`, so bun resolves a specifier naming the package it is already inside by self-reference, and tries that before walking up to the checkout's `node_modules/akasha` symlink. Command code alone still loads from the live checkout, because `calling.module` loads that by absolute checkout path. A run launched from the worktree therefore holds two copies of every module above that boundary, and module-scope state splits between them.",

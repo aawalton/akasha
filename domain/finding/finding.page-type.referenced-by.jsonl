@@ -41,7 +41,7 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-reaches-the-running-machine-before-the-code-that-reads-it-does.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-removal-is-refused-by-the-folder-shape-check-over-a-folder-it-empties.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-type-slug-borrowed-as-a-test-fixture-outlives-the-page-type.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-pinned-worktree-pins-every-module-its-entry-imports.finding.ts"}
+{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-pinned-tree-pins-every-module-its-entry-imports.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-plan-whose-every-address-resolves-today-is-the-broken-plan.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-property-carried-only-in-an-entries-sidecar-is-invisible-to-a-page-survey.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-record-field-holding-a-boolean-is-restated-by-no-change.finding.ts"}
