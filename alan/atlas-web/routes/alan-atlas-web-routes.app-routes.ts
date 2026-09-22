@@ -17,7 +17,7 @@ export const alanAtlasWebRoutes = {
     "route/atlas-api-pages",
     "route/atlas-api-places-add",
     "route/atlas-api-places-search",
-    "route/atlas-basemap-na-eu",
+
     "route/atlas-handover",
     "route/atlas-home",
     "route/atlas-map",

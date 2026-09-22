@@ -16,12 +16,10 @@ import {
   BUN_RUNTIME_IMAGE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import { alanwaltonAtlas } from "akasha/infrastructure/service/cluster/pages/alanwalton-atlas/alanwalton-atlas.service-cluster.ts"
 
 const NAMESPACE = alanwaltonAtlas.namespace
 const SECRET_NAME = "alanwalton-secrets"
-const S3_CREDS_SECRET_NAME = "alanwalton-s3-creds"
 const PACKAGE_PATH = "alan/atlas-web"
 
 const APP_NAME = alanwaltonAtlas.resourceName
@@ -62,15 +60,7 @@ function deploymentYaml(): string {
       },
       selector: { matchLabels: selectorLabels() },
       template: {
-        metadata: {
-          annotations: {
-            "checksum/s3-creds": secretChecksum(NAMESPACE, S3_CREDS_SECRET_NAME, [
-              "access_key",
-              "secret_key",
-            ]),
-          },
-          labels,
-        },
+        metadata: { labels },
         spec: {
           nodeSelector: workloadClassMemberSelector("serve"),
           initContainers: [
@@ -97,28 +87,6 @@ function deploymentYaml(): string {
                 { name: "HOST", value: "0.0.0.0" },
                 { name: "PORT", value: `${alanwaltonAtlas.containerPort}` },
                 { name: "PAGE_WRITER", value: "atlas-web" },
-
-                {
-                  name: "SEAWEEDFS_S3_ENDPOINT",
-                  value: "http://s3-gateway.seaweedfs.svc.cluster.local:8333",
-                },
-                { name: "SEAWEEDFS_BUCKET", value: "atlas-basemap" },
-                {
-                  name: "SEAWEEDFS_ACCESS_KEY",
-                  valueFrom: { secretKeyRef: { name: S3_CREDS_SECRET_NAME, key: "access_key" } },
-                },
-                {
-                  name: "SEAWEEDFS_SECRET_KEY",
-                  valueFrom: { secretKeyRef: { name: S3_CREDS_SECRET_NAME, key: "secret_key" } },
-                },
-                {
-                  name: "NEXT_PUBLIC_PROTOMAPS_PMTILES_URL",
-                  value: "https://atlas.alanwalton.com/basemap/na-eu.pmtiles",
-                },
-                {
-                  name: "PROTOMAPS_PMTILES_URL",
-                  value: "https://atlas.alanwalton.com/basemap/na-eu.pmtiles",
-                },
               ],
               volumeMounts: orchestratorCacheVolumeMounts(),
               resources: {

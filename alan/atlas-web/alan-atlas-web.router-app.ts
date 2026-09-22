@@ -32,7 +32,7 @@ export const alanAtlasWeb = {
     "module/atlas-handover-site",
     "module/atlas-nav-command",
     "module/atlas-nav-items",
-    "module/basemap-range",
+
     "module/geoapify-search",
     "module/location-batch",
     "module/location-capture",

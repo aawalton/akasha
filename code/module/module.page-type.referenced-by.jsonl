@@ -426,7 +426,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/atlas-nav-command/atlas-nav-command.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/atlas-nav-items/atlas-nav-items.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/basemap-range/basemap-range.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/location-batch/location-batch.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/location-capture-client/location-capture-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/location-capture/location-capture.module.ts"}

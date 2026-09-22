@@ -8,7 +8,6 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-api-pages/atlas-api-pages.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-api-places-add/atlas-api-places-add.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-api-places-search/atlas-api-places-search.route.ts"}
-{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-basemap-na-eu/atlas-basemap-na-eu.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-handover/atlas-handover.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-home/atlas-home.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-map/atlas-map.route.ts"}

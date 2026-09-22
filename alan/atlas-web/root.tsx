@@ -30,7 +30,7 @@ import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
 const GUARD: HandoverGuardConfig = {
   signInPaths: ["/sign-in", "/sign-up"],
-  openPaths: [/^\/api\/health/, /^\/api\/errors/, /^\/basemap\/na-eu\.pmtiles/, /^\/handover$/],
+  openPaths: [/^\/api\/health/, /^\/api\/errors/, /^\/handover$/],
   externalReturnPattern: /^https:\/\/[a-z0-9-]+\.alanwalton\.com(\/|$)/,
 }
 

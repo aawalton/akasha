@@ -25,7 +25,5 @@ export const alanwaltonAtlas = {
     "secret/collections-secrets-scraperapi-api-key",
     "secret/collections-secrets-trakt-client-id",
     "secret/git-transport-secrets-git-access-token",
-    "secret/alanwalton-s3-creds-access-key",
-    "secret/alanwalton-s3-creds-secret-key",
   ],
 } as const satisfies ServiceCluster

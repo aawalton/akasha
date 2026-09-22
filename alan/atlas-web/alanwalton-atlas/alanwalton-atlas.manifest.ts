@@ -9,13 +9,8 @@ export const alanwaltonAtlas = {
   generatedDirectory: true,
   decisions: [
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The pod template carries the hash of the alanwalton-s3-creds secret.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The keys hashed from the alanwalton-s3-creds secret are access_key and secret_key.",
+      decisionKind: "decision-kind/absence",
+      statement: "The map reaches no object store, and draws its pins on no basemap of its own.",
     },
   ],
 } as const satisfies Manifest
