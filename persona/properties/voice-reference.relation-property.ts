@@ -5,7 +5,7 @@ export const voiceReference = {
   type: "page-type/relation-property",
   slug: "voice-reference",
   propertySlug: "voice-reference",
-  definition: "the recording a persona's voice was cloned from",
+  definition: "the recording from which a persona's voice was cloned",
   targetPageType: "page-type/audio",
   decisions: [
     {

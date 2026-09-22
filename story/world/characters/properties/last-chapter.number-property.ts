@@ -5,7 +5,7 @@ export const lastChapter = {
   type: "page-type/number-property",
   slug: "last-chapter",
   propertySlug: "last-chapter",
-  definition: "the number of the latest chapter a page draws on",
+  definition: "the number of a page's latest chapter",
   max: null,
   decisions: [
     {

@@ -5,7 +5,7 @@ export const drawnIn = {
   type: "page-type/relation-property",
   slug: "drawn-in",
   propertySlug: "place",
-  definition: "the place in a played story's layout a panel is drawn in",
+  definition: "a panel's place in a played story's layout",
   targetPageType: "page-type/panel-place",
   decisions: [
     {

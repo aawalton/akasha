@@ -5,7 +5,7 @@ export const readingSlug = {
   type: "page-type/text-property",
   slug: "reading-slug",
   propertySlug: "reading-slug",
-  definition: "the name a reading is looked up by",
+  definition: "the name by which a reading is looked up",
   maxLength: 100,
   nameFormat: null,
   decisions: [

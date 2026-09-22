@@ -4,7 +4,7 @@ export const addonRoster = {
   id: "01a06060-ec3e-72ca-8583-d3120bbc8269",
   type: "page-type/module",
   slug: "addon-roster",
-  definition: "every addon the repository has, each with the folder that addon sits in",
+  definition: "every addon the repository has, each with its own folder",
   code: "ts",
   decisions: [
     {

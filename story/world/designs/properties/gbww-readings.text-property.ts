@@ -5,7 +5,7 @@ export const gbwwReadings = {
   type: "page-type/text-property",
   slug: "gbww-readings",
   propertySlug: "gbww-readings",
-  definition: "the Great Books readings a story is set against",
+  definition: "a story's Great Books readings",
   maxLength: 500,
   nameFormat: null,
   types: "ts",

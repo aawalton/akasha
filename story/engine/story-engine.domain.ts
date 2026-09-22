@@ -4,7 +4,7 @@ export const storyEngine = {
   id: "01a06280-e122-7ba3-844e-c8a0f133106d",
   type: "page-type/domain",
   slug: "story-engine",
-  definition: "the code a story is played through",
+  definition: "the code that plays a story",
   parts: [
     "domain/narrative-story-turn-promotion",
     "domain/story-engine-core",

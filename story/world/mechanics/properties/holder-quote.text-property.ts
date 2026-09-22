@@ -5,7 +5,7 @@ export const holderQuote = {
   type: "page-type/text-property",
   slug: "holder-quote",
   propertySlug: "holder-quote",
-  definition: "the sentence a holder is read out of",
+  definition: "a holder's sentence",
   maxLength: 1000,
   nameFormat: null,
   types: "ts",

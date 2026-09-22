@@ -5,7 +5,7 @@ export const deviceTokenLastSeenAt = {
   type: "page-type/instant-property",
   slug: "device-token-last-seen-at",
   propertySlug: "last-seen-at",
-  definition: "when a device last registered the token it is reached at",
+  definition: "when a device last registered its token",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

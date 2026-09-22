@@ -5,7 +5,7 @@ export const listedSource = {
   type: "page-type/text-property",
   slug: "listed-source",
   propertySlug: "source",
-  definition: "where one of the things in a page's list came from",
+  definition: "the source of one of the things in a page's list",
   maxLength: 300,
   nameFormat: null,
   types: "ts",

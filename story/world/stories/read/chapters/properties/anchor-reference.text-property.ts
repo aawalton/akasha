@@ -5,7 +5,7 @@ export const anchorReference = {
   type: "page-type/text-property",
   slug: "anchor-reference",
   propertySlug: "reference",
-  definition: "what an anchor is read against",
+  definition: "the point against which an anchor is read",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

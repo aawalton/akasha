@@ -5,7 +5,7 @@ export const questObjective = {
   type: "page-type/text-property",
   slug: "quest-objective",
   propertySlug: "objective",
-  definition: "what doing a quest takes, in the words the game set it in",
+  definition: "what doing a quest takes, in the game's own words",
   maxLength: 500,
   nameFormat: null,
   types: "ts",
