@@ -184,7 +184,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/properties/player-entity.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/item/properties/item-character.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/item/properties/item-slot.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/mechanic/metric/properties/metric-character.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/mechanic/metric/properties/metric-of-character.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/turn/properties/turn-story.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/characters/properties/alias-of.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/characters/properties/merged-into.relation-property.types.ts"}
