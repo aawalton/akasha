@@ -1,11 +1,33 @@
 import {
   exported,
   literalOf,
+  parsedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import ts from "typescript"
 
 const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+
+const READING = "value.ts"
+
+export function valueSpelled(value: string): boolean {
+  const source = parsedAs(READING, `const held = ${value}`)
+  const said = source.statements[0]
+  if (said === undefined || !ts.isVariableStatement(said)) return false
+  const held = said.declarationList.declarations[0]?.initializer
+  if (held === undefined || held.getEnd() !== source.text.length) return false
+  let spells = true
+  const walk = (node: ts.Node): undefined => {
+    if (ts.isPropertyAssignment(node)) {
+      walk(node.initializer)
+      return
+    }
+    if (ts.isIdentifier(node) || ts.isCallExpression(node)) spells = false
+    ts.forEachChild(node, walk)
+  }
+  walk(held)
+  return spells
+}
 
 export function spelledBare(text: string): boolean {
   return BARE.test(text)

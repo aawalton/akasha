@@ -10,5 +10,6 @@ export const changeMechanicalFileContentAdd = {
     "change-mechanical-file-content/add-property-record",
     "change-mechanical-file-content/add-property-value",
     "change-mechanical-file-content/add-type-member",
+    "change-mechanical-file-content/add-property-to-pages",
   ],
 } as const satisfies Domain

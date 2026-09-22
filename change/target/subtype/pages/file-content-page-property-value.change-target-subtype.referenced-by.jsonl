@@ -1,4 +1,5 @@
 {"propertySlug":"change-target-subtype","path":"change/agent/file-content/add-property-record/add-property-record.change-agent.ts","id":"01a081e6-5170-7f4a-b5df-d0846398305f"}
+{"propertySlug":"change-target-subtype","path":"change/agent/file-content/add-property-to-pages/add-property-to-pages.change-agent.ts","id":"01a0c66d-7159-7964-a282-f5ca4da85933"}
 {"propertySlug":"change-target-subtype","path":"change/agent/file-content/add-property-value/add-property-value.change-agent.ts","id":"01a07944-9edf-70c7-8101-db279ee5ea45"}
 {"propertySlug":"change-target-subtype","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.ts","id":"01a08881-c01c-75fd-94e8-42afd3afb064"}
 {"propertySlug":"change-target-subtype","path":"change/agent/file-content/change-domain-parent/change-domain-parent.change-agent.ts","id":"01a0795e-9c4f-7299-9238-117baca6b57e"}
@@ -8,6 +9,7 @@
 {"propertySlug":"change-target-subtype","path":"change/agent/file-content/remove-property-value/remove-property-value.change-agent.ts","id":"01a07944-9ee0-7f93-a8d0-b0e845bdd929"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.ts","id":"01a08174-b09a-7bbd-acf1-6892ecfb3575"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.ts","id":"01a081d9-419a-72bf-ae0b-5318df5fce07"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/file-content/add/add-property-to-pages/add-property-to-pages.change-mechanical-file-content.ts","id":"01a0c66c-5c3f-7947-95c5-50580ca3f4ba"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts","id":"01a07932-2568-72a6-8b8e-314ac44c417b"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.ts","id":"01a08244-bf2d-7a34-9f71-759e3754a1ed"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.ts","id":"01a07932-2568-72d1-a8c7-94da97d53b1e"}

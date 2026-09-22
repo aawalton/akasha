@@ -4,41 +4,21 @@ import {
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { afterIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
-import { keyFaultIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
+import {
+  keyFaultIn,
+  valueSpelled,
+} from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import {
   editsOver,
   type Page,
 } from "akasha/change/modules/page-property-splicing/page-property-splicing.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
-import ts from "typescript"
-
-const READING = "value.ts"
 
 export type Asked = {
   readonly pageType: string
   readonly key: string
   readonly value: string
   readonly after?: string
-}
-
-export function valueSpelled(value: string): boolean {
-  const source = parsedAs(READING, `const held = ${value}`)
-  const said = source.statements[0]
-  if (said === undefined || !ts.isVariableStatement(said)) return false
-  const held = said.declarationList.declarations[0]?.initializer
-  if (held === undefined || held.getEnd() !== source.text.length) return false
-  let spells = true
-  const walk = (node: ts.Node): undefined => {
-    if (ts.isPropertyAssignment(node)) {
-      walk(node.initializer)
-      return
-    }
-    if (ts.isIdentifier(node) || ts.isCallExpression(node)) spells = false
-    ts.forEachChild(node, walk)
-  }
-  walk(held)
-  return spells
 }
 
 export function pagesIn(world: World, given: Asked): readonly Page[] | string {

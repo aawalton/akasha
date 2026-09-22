@@ -29,6 +29,9 @@ export type Changes = {
   "change-agent/add-property-to-page-type": Parameters<
     typeof import("akasha/change/agent/page-type/add-property-to-page-type/add-property-to-page-type.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/add-property-to-pages": Parameters<
+    typeof import("akasha/change/agent/file-content/add-property-to-pages/add-property-to-pages.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/add-property-value": Parameters<
     typeof import("akasha/change/agent/file-content/add-property-value/add-property-value.change-agent.code.ts")["runChange"]
   >[1]

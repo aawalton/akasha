@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/add-property-record/add-property-record.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/add-property-to-pages/add-property-to-pages.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/change-domain-parent/change-domain-parent.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.test.ts"}
@@ -33,6 +34,7 @@
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.test.ts"}
+{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/file-content/add/add-property-to-pages/add-property-to-pages.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.test.ts"}

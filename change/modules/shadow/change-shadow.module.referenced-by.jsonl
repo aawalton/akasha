@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/add-property-record/add-property-record.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/add-property-record/add-property-record.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/add-property-to-pages/add-property-to-pages.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/add-property-value/add-property-value.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/add-property-value/add-property-value.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.code.ts"}
@@ -107,6 +108,7 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.code.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/add/add-property-to-pages/add-property-to-pages.change-mechanical-file-content.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.code.ts"}

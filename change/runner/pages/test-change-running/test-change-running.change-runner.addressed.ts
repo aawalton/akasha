@@ -29,6 +29,9 @@ export type Changes = {
   "change-agent/add-property-to-page-type": Parameters<
     typeof import("akasha/change/agent/page-type/add-property-to-page-type/add-property-to-page-type.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/add-property-to-pages": Parameters<
+    typeof import("akasha/change/agent/file-content/add-property-to-pages/add-property-to-pages.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/add-property-value": Parameters<
     typeof import("akasha/change/agent/file-content/add-property-value/add-property-value.change-agent.code.ts")["runChange"]
   >[1]
@@ -172,6 +175,9 @@ export type Changes = {
   >[1]
   "change-mechanical-file-content/add-property-record": Parameters<
     typeof import("akasha/change/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.code.ts")["runChange"]
+  >[1]
+  "change-mechanical-file-content/add-property-to-pages": Parameters<
+    typeof import("akasha/change/mechanical/file-content/add/add-property-to-pages/add-property-to-pages.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
   "change-mechanical-file-content/add-property-value": Parameters<
     typeof import("akasha/change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts")["runChange"]

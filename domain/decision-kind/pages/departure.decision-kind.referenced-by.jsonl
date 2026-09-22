@@ -1265,6 +1265,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/wallpaper/wallpaper.route.ts","id":"01a07855-477e-7aa1-8183-3cb381287569"}
 {"propertySlug":"decision-kind","path":"change/agent/change-agent.page-type.ts","id":"01a07e9a-630c-75a2-b4ec-5106861a8009"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/add-property-record/add-property-record.change-agent.ts","id":"01a081e6-5170-7f4a-b5df-d0846398305f"}
+{"propertySlug":"decision-kind","path":"change/agent/file-content/add-property-to-pages/add-property-to-pages.change-agent.ts","id":"01a0c66d-7159-7964-a282-f5ca4da85933"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/add-property-value/add-property-value.change-agent.ts","id":"01a07944-9edf-70c7-8101-db279ee5ea45"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.ts","id":"01a08881-c01c-75fd-94e8-42afd3afb064"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/append-lines-from/append-lines-from.change-agent.ts","id":"01a09312-fac0-7cab-bb6c-b8e6116903b3"}
@@ -1330,6 +1331,7 @@
 {"propertySlug":"decision-kind","path":"change/mechanical/change-mechanical.page-type.ts","id":"01a078e8-e0c0-7001-9d36-808d02d6c285"}
 {"propertySlug":"decision-kind","path":"change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.ts","id":"01a08174-b09a-7bbd-acf1-6892ecfb3575"}
 {"propertySlug":"decision-kind","path":"change/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.ts","id":"01a081d9-419a-72bf-ae0b-5318df5fce07"}
+{"propertySlug":"decision-kind","path":"change/mechanical/file-content/add/add-property-to-pages/add-property-to-pages.change-mechanical-file-content.ts","id":"01a0c66c-5c3f-7947-95c5-50580ca3f4ba"}
 {"propertySlug":"decision-kind","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.ts","id":"01a07932-2568-72a6-8b8e-314ac44c417b"}
 {"propertySlug":"decision-kind","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.ts","id":"01a081dc-0cef-7d5a-9c4e-daf2ba343c98"}
 {"propertySlug":"decision-kind","path":"change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts","id":"01a08c36-f87f-791e-99a3-e195153103fb"}

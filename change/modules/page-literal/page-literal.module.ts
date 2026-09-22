@@ -95,5 +95,9 @@ export const pageLiteral = {
       decisionKind: "decision-kind/departure",
       statement: "A record is matched by the text a named field of that record states.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether text spells one value naming nothing the body would run is read here.",
+    },
   ],
 } as const satisfies Module

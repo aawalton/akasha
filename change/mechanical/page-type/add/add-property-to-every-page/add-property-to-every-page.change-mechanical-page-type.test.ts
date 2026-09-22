@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import {
   addPropertyToEveryPage,
   runChange,
-  valueSpelled,
 } from "akasha/change/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.code.ts"
 import {
   BODIES,
@@ -18,6 +17,7 @@ import {
   TYPE,
   VALUES,
 } from "akasha/change/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.test-fixtures.ts"
+import { valueSpelled } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import { bodiesIn, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
