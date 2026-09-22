@@ -127,9 +127,35 @@ async function spelling(
   return gathered([spelled.said])
 }
 
+function ambientIn(world: World, at: string): boolean {
+  if (!at.endsWith(DECLARED)) return false
+  const text = world.textOf(at)
+  if (text === null) return false
+  return !ts.isExternalModule(ts.createSourceFile(at, text, ts.ScriptTarget.Latest, true))
+}
+
+function unreachedIn(world: World, given: RenameCodeTokenAsked, said: Answer): readonly string[] {
+  const reached = new Set(pathsIn(said))
+  const bounded = new RegExp(`(?<![A-Za-z0-9_$])${given.of}(?![A-Za-z0-9_$])`)
+  const found: string[] = []
+  for (const path of world.under("")) {
+    if (!typed(path) || reached.has(path)) continue
+    const text = world.textOf(path)
+    if (text !== null && bounded.test(text)) found.push(path)
+  }
+  return found
+}
+
 async function exported(world: World, given: RenameCodeTokenAsked): Promise<Answer> {
   const importers = importingOf(world.index, new Map([[given.at, given.at]]))
-  return await spelling(world, given, [given.at, ...importers])
+  const said = await spelling(world, given, [given.at, ...importers])
+  if (said.refused !== null || !ambientIn(world, given.at)) return said
+  const left = unreachedIn(world, given, said)
+  if (left.length === 0) return said
+  return refusing(
+    `\`${given.of}\` is a global, and it is still named by ${left.join(", ")}, ` +
+      `which this rename does not reach`
+  )
 }
 
 export async function renameCodeToken(world: World, given: RenameCodeTokenAsked): Promise<Answer> {

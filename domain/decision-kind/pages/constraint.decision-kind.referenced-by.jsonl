@@ -186,6 +186,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/no-such-route/no-such-route.route.ts","id":"01a072dd-d488-7e97-b669-7076f6de9c20"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/pages-ready/pages-ready.route.ts","id":"01a072b4-378d-70ab-8d75-5361b4ca7293"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.ts","id":"01a0c4da-fa68-7796-ad07-59a919549f57"}
+{"propertySlug":"decision-kind","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.ts","id":"01a07718-c9b6-7d80-aebd-b1155f08ab77"}
 {"propertySlug":"decision-kind","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts","id":"01a0824b-a376-7b9f-a01a-c3a1e81c3286"}
 {"propertySlug":"decision-kind","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.ts","id":"01a081dc-0cef-7d5a-9c4e-daf2ba343c98"}
 {"propertySlug":"decision-kind","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.ts","id":"01a09c8d-ef19-7434-8f64-db9ac5dcf0e2"}
@@ -261,6 +262,7 @@
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/timeline-checks/timeline-checks.ios-component.ts","id":"01a08c75-6675-73c2-b0e1-37744996eaaf"}
 {"propertySlug":"decision-kind","path":"code/ios-harness/pages/render-harness-cases-cost/render-harness-cases-cost.ios-harness.ts","id":"01a08c83-ffd7-7522-a7f2-606479a6ddb9"}
 {"propertySlug":"decision-kind","path":"code/ios-program/ios-program.page-type.ts","id":"01a05901-26b3-7d1b-aec6-3b467f5f5b8d"}
+{"propertySlug":"decision-kind","path":"code/reading/modules/code-naming/code-naming.module.ts","id":"01a08cc7-f1c9-7e9b-9ff6-01abb5cea0cc"}
 {"propertySlug":"decision-kind","path":"code/router-app/router-app.page-type.ts","id":"01a063f3-c2ab-765b-9c87-954f96167da7"}
 {"propertySlug":"decision-kind","path":"code/running/modules/code-format/code-format.module.ts","id":"01a04edc-5281-769c-8ba8-522d8f569095"}
 {"propertySlug":"decision-kind","path":"code/running/modules/code-lint/code-lint.module.ts","id":"01a04edb-5f2c-7000-b8b5-430c5419cbda"}

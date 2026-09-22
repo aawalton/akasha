@@ -216,6 +216,63 @@ test("a binding a shorthand represented is stated rather than the key being rena
 
   expect(boundAs(plain, "was", "now")).toBe("now")
   expect(boundAs({ ...plain, shorthand: true }, "was", "now")).toBe("was: now")
+  expect(boundAs({ ...plain, quoted: true }, "was", "now")).toBe('"now"')
+})
+
+const GLOBALS = "akasha/globals.type-declaration.d.ts"
+
+const WRITER = "akasha/writer.module.code.ts"
+
+const OUTSIDE = "akasha/outside.module.code.ts"
+
+const GLOBALS_BODY =
+  "declare const TemperConst: number\n" +
+  "declare var TemperVar: number\n" +
+  "declare const _G: typeof globalThis & Record<string, unknown>\n"
+
+const WRITER_BODY =
+  'import "./globals.type-declaration.d.ts"\n' +
+  "\n" +
+  "export function setUp(): undefined {\n" +
+  "  _G.TemperConst = 1\n" +
+  '  _G["TemperConst"] = 1\n' +
+  "  _G.TemperVar = 1\n" +
+  '  _G["TemperVar"] = 1\n' +
+  "  globalThis.TemperVar = 1\n" +
+  "}\n"
+
+const OUTSIDE_BODY =
+  "export function heldOf(one: Record<string, unknown>): unknown {\n" +
+  "  return one.TemperConst\n" +
+  "}\n"
+
+test("a global assigned on the global table is found by a name and by a string alike", () => {
+  const { root, typing } = typed({ [GLOBALS]: GLOBALS_BODY, [WRITER]: WRITER_BODY })
+  const found = referencesOf(typing, root, new Set(declaredNamed(typing, GLOBALS, "TemperConst")))
+  const held = found.filter((one) => one.path === WRITER)
+
+  expect(held).toHaveLength(2)
+  expect(held.filter((one) => one.quoted)).toHaveLength(1)
+})
+
+test("a global the checker resolves on globalThis is found once at each of its spellings", () => {
+  const { root, typing } = typed({ [GLOBALS]: GLOBALS_BODY, [WRITER]: WRITER_BODY })
+  const found = referencesOf(typing, root, new Set(declaredNamed(typing, GLOBALS, "TemperVar")))
+  const held = found.filter((one) => one.path === WRITER)
+
+  expect(held).toHaveLength(3)
+  expect(held.filter((one) => one.quoted)).toHaveLength(1)
+})
+
+test("a key of that spelling on a table that is not the global table is left as it is", () => {
+  const { root, typing } = typed({
+    [GLOBALS]: GLOBALS_BODY,
+    [WRITER]: WRITER_BODY,
+    [OUTSIDE]: OUTSIDE_BODY,
+  })
+  const found = referencesOf(typing, root, new Set(declaredNamed(typing, GLOBALS, "TemperConst")))
+
+  expect(found.filter((one) => one.path === OUTSIDE)).toEqual([])
 })
 
 test("where a declaration's name starts is answered as a line counted from one", () => {

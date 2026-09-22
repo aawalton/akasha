@@ -82,6 +82,22 @@ export const codeNaming = {
       statement: "A name declared in a declaration file is found there as a name in any body is.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A table is the global table where one part of its type is globalThis.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key on the global table spelled as a global is that global.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A key a checker resolves through an index signature is named by no symbol.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key on the global table is found whether it is reached by a name or a string.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here judges the answers this module finds.",
     },

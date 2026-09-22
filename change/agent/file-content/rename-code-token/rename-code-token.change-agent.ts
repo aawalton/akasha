@@ -10,6 +10,7 @@ export const renameCodeToken = {
   definition: "a name a code file declares renamed wherever it reaches, exported or not",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   changeKind: "change-kind/change-checked",
   decisions: [
     {
@@ -23,6 +24,22 @@ export const renameCodeToken = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A name a declaration file declares is renamed over the bodies that import it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A global is renamed where it is assigned on the global table as well.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A body naming a global without importing its declaration is reached by nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A global rename leaving such a body refuses rather than spelling half of them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal names every body it does not reach.",
     },
   ],
   maxCpuSeconds: 30,

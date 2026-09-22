@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file/move-file/move-file.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file/move-page/move-page.change-agent.test.ts"}

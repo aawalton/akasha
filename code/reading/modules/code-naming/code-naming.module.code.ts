@@ -5,6 +5,8 @@ import {
 } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import ts from "typescript"
 
+const GLOBAL_TABLE = "globalThis"
+
 export type Naming = {
   readonly path: string
   readonly start: number
@@ -188,30 +190,67 @@ function symbolOf(typing: Typing, node: ts.Identifier): ts.Symbol | undefined {
   return typing.checker.getSymbolAtLocation(node)
 }
 
+function partsOf(type: ts.Type): readonly ts.Type[] {
+  return type.isUnion() || type.isIntersection() ? type.types : [type]
+}
+
+function globalTable(typing: Typing, node: ts.Expression): boolean {
+  for (const one of partsOf(typing.checker.getTypeAtLocation(node))) {
+    if (one.getSymbol()?.getName() === GLOBAL_TABLE) return true
+  }
+  return false
+}
+
+export function namesOf(declared: ReadonlySet<ts.Node>): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const one of declared) {
+    const named = declaredAs(one)
+    if (named !== null && ts.isIdentifier(named)) found.add(named.text)
+  }
+  return found
+}
+
+function keyedOn(node: ts.Node): ts.Node | null {
+  if (ts.isPropertyAccessExpression(node)) return node.name
+  if (!ts.isElementAccessExpression(node)) return null
+  return ts.isStringLiteral(node.argumentExpression) ? node.argumentExpression : null
+}
+
+function globalKeyIn(typing: Typing, node: ts.Node, names: ReadonlySet<string>): ts.Node | null {
+  const name = keyedOn(node)
+  if (name === null) return null
+  const key = keyOf(name)
+  if (key === null || !names.has(key)) return null
+  const held = node as ts.PropertyAccessExpression | ts.ElementAccessExpression
+  return globalTable(typing, held.expression) ? name : null
+}
+
 export function referencesOf(
   typing: Typing,
   root: string,
   declared: ReadonlySet<ts.Node>
 ): readonly Naming[] {
   const found: Naming[] = []
+  const names = namesOf(declared)
   for (const source of typing.program.getSourceFiles()) {
     const path = insideOf(root, resolve(source.fileName))
     if (path === null) continue
+    const seen = new Set<number>()
+    const take = (at: ts.Node, quoted: boolean, shorthand: boolean): undefined => {
+      const start = at.getStart(source)
+      if (seen.has(start)) return
+      seen.add(start)
+      found.push({ path, start, end: at.getEnd(), quoted, shorthand })
+    }
     const walk = (node: ts.Node): undefined => {
       if (ts.isIdentifier(node)) {
         const own = symbolOf(typing, node)
         const reached = own === undefined ? undefined : aliasedIn(typing, own)
         const named = declaring(own, declared) || declaring(reached, declared)
-        if (named && renamable(own)) {
-          found.push({
-            path,
-            start: node.getStart(source),
-            end: node.getEnd(),
-            quoted: false,
-            shorthand: shorthandFor(node),
-          })
-        }
+        if (named && renamable(own)) take(node, false, shorthandFor(node))
       }
+      const key = globalKeyIn(typing, node, names)
+      if (key !== null) take(key, ts.isStringLiteral(key), false)
       ts.forEachChild(node, walk)
     }
     ts.forEachChild(source, walk)
@@ -220,5 +259,6 @@ export function referencesOf(
 }
 
 export function boundAs(one: Naming, was: string, now: string): string {
+  if (one.quoted) return JSON.stringify(now)
   return one.shorthand ? `${was}: ${now}` : now
 }

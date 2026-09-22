@@ -1,5 +1,21 @@
 import { afterAll, expect, test } from "bun:test"
 import { renameCodeToken } from "akasha/change/agent/file-content/rename-code-token/rename-code-token.change-agent.code.ts"
+import {
+  AMBIENT_KEPT,
+  AMBIENT_REACHED,
+  AMBIENT_STRAYED,
+  AMBIENT_TABLED,
+  AMBIENT_VARIED,
+  declaringRepo,
+  GLOBE_CODE,
+  KEPT_DECLARATION,
+  ONE_CODE,
+  REACHED_DECLARATION,
+  STRAY_CODE,
+  TABLE_DECLARATION,
+  TWO_CODE,
+  WRITER_CODE,
+} from "akasha/change/agent/file-content/rename-code-token/rename-code-token.change-agent.test-fixtures.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { renameLocalVariable } from "akasha/change/mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
@@ -9,18 +25,14 @@ import {
   worldAt,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
-import { domain } from "akasha/domain/domain.page-type.ts"
 import {
-  bodyOf,
   HELD_CODE,
   HELD_EXPORT,
   indexedRepo,
   NAMER_CODE,
-  pageOf,
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
-import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -192,91 +204,6 @@ test("a local name is handed to the change reached at the local address", async 
   expect(reached).toEqual([`${changeMechanicalFileContent.slug}/${renameLocalVariable.slug}`])
 })
 
-const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
-
-const DECLARING_TYPE = "akasha/type-declaration.page-type.ts"
-
-const AMBIENT_PROPERTY = "akasha/ambient-types.file-property.ts"
-
-const KEPT_PAGE = "akasha/ambient/kept.type-declaration.ts"
-
-const KEPT_DECLARATION = "akasha/ambient/kept.type-declaration.d.ts"
-
-const REACHED_PAGE = "akasha/ambient/reached.type-declaration.ts"
-
-const REACHED_DECLARATION = "akasha/ambient/reached.type-declaration.d.ts"
-
-const ONE_CODE = "akasha/reader-one/reader-one.module.code.ts"
-
-const TWO_CODE = "akasha/reader-two/reader-two.module.code.ts"
-
-const GLOBE_CODE = "akasha/reader-globe/reader-globe.module.code.ts"
-
-const AMBIENT_KEPT = "TemperKept"
-
-const AMBIENT_REACHED = "TemperReached"
-
-const KEPT_AT = "../ambient/kept.type-declaration.d.ts"
-
-const REACHED_AT = "../ambient/reached.type-declaration.d.ts"
-
-function readerBody(at: string, named: string, reached: string): string {
-  return `import "${at}"\n\nexport const ${named} = ${reached} + 1\n`
-}
-
-function declaringRepo(): string {
-  return indexedRepo({
-    [DECLARING_TYPE]: bodyOf({
-      id: "01a04a4a-0007-7000-8000-000000000001",
-      pageTypeSlug: "page-type",
-      slug: "type-declaration",
-      extends: [DOMAIN_AT],
-      properties: [{ pagePropertySlug: "ambient-types", required: true, many: false }],
-    }),
-    [AMBIENT_PROPERTY]: bodyOf({
-      id: "01a04a4a-0007-7000-8000-000000000002",
-      pageTypeSlug: "file-property",
-      slug: "ambient-types",
-      propertySlug: "d",
-    }),
-    [KEPT_PAGE]: pageOf({
-      id: "01a04a4a-0007-7000-8000-000000000003",
-      pageTypeSlug: "type-declaration",
-      slug: "kept",
-      d: "ts",
-    }),
-    [KEPT_DECLARATION]: `declare const ${AMBIENT_KEPT}: number\n`,
-    [REACHED_PAGE]: pageOf({
-      id: "01a04a4a-0007-7000-8000-000000000004",
-      pageTypeSlug: "type-declaration",
-      slug: "reached",
-      d: "ts",
-    }),
-    [REACHED_DECLARATION]: `export {}\n\ndeclare global {\n  const ${AMBIENT_REACHED}: number\n}\n`,
-    "akasha/reader-one/reader-one.module.ts": pageOf({
-      id: "01a04a4a-0007-7000-8000-000000000005",
-      pageTypeSlug: "module",
-      slug: "reader-one",
-      code: "ts",
-    }),
-    [ONE_CODE]: readerBody(KEPT_AT, "one", AMBIENT_KEPT),
-    "akasha/reader-two/reader-two.module.ts": pageOf({
-      id: "01a04a4a-0007-7000-8000-000000000006",
-      pageTypeSlug: "module",
-      slug: "reader-two",
-      code: "ts",
-    }),
-    [TWO_CODE]: readerBody(KEPT_AT, "two", AMBIENT_KEPT),
-    "akasha/reader-globe/reader-globe.module.ts": pageOf({
-      id: "01a04a4a-0007-7000-8000-000000000007",
-      pageTypeSlug: "module",
-      slug: "reader-globe",
-      code: "ts",
-    }),
-    [GLOBE_CODE]: readerBody(REACHED_AT, "globe", AMBIENT_REACHED),
-  })
-}
-
 test("a name a declaration file declares is renamed there and in every body importing it", async () => {
   const root = declaringRepo()
   const world = worldIn(root, textIn(root))
@@ -308,6 +235,53 @@ test("a name declared inside a global block is renamed there and where it is rea
   expect([...new Set(pathsIn(said))].sort()).toEqual([REACHED_DECLARATION, GLOBE_CODE])
   expect(bodies.get(REACHED_DECLARATION) ?? "").toContain("const TemperGained: number")
   expect(bodies.get(GLOBE_CODE) ?? "").toContain("TemperGained + 1")
+})
+
+test("a global assigned on the global table is renamed by a name and by a string alike", async () => {
+  const root = declaringRepo()
+  const world = worldIn(root, textIn(root))
+  const said = await renameCodeToken(world, {
+    at: TABLE_DECLARATION,
+    of: AMBIENT_TABLED,
+    to: "TemperTold",
+  })
+  const bodies = bodiesIn(said, world.base)
+
+  expect(said.refused).toBe(null)
+  expect([...new Set(pathsIn(said))].sort()).toEqual([TABLE_DECLARATION, WRITER_CODE])
+  expect(bodies.get(WRITER_CODE) ?? "").toContain("_G.TemperTold = 1")
+  expect(bodies.get(WRITER_CODE) ?? "").toContain('_G["TemperTold"] = 1')
+  expect(bodies.get(TABLE_DECLARATION) ?? "").toContain("declare const TemperTold: number")
+})
+
+test("a global assigned on globalThis is renamed where it is assigned", async () => {
+  const root = declaringRepo()
+  const world = worldIn(root, textIn(root))
+  const said = await renameCodeToken(world, {
+    at: TABLE_DECLARATION,
+    of: AMBIENT_VARIED,
+    to: "TemperShifted",
+  })
+  const bodies = bodiesIn(said, world.base)
+
+  expect(said.refused).toBe(null)
+  expect(bodies.get(WRITER_CODE) ?? "").toContain("globalThis.TemperShifted = 1")
+})
+
+test("a global a body names without importing its declaration refuses, naming that body", async () => {
+  const root = declaringRepo()
+  const world = worldIn(root, textIn(root))
+  const said = await renameCodeToken(world, {
+    at: TABLE_DECLARATION,
+    of: AMBIENT_STRAYED,
+    to: "TemperFound",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    `\`${AMBIENT_STRAYED}\` is a global, and it is still named by ${STRAY_CODE}, ` +
+      "which this rename does not reach"
+  )
 })
 
 test("a declaration file declaring no such name is refused", async () => {
