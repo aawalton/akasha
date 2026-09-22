@@ -113,7 +113,7 @@ test("a file written and not yet committed refuses nothing", () => {
   expect(said.map((one) => one.path)).toEqual(["checks/gone.ts"])
 })
 
-test("the working tree is read before the reconcile and again after it", () => {
+test("the files on disk are read before the reconcile and again after it", () => {
   const seen: string[] = []
   const said = indexIsLevelWithThePages(ROOT, {
     at: () => "abc",

@@ -207,7 +207,7 @@ export function noBodyReadBesideAnIndex(given: Given): readonly Refusal[] {
       line: lineOf(source, said.call),
       reason:
         `\`${said.called}\` reads a page body from \`${said.root}\` where the index is asked ` +
-        `through a parameter of the same function, so half the answer comes off the working tree ` +
+        `through a parameter of the same function, so half the answer comes off the checkout ` +
         `the change is not in — ${INSTEAD}`,
     })
     return undefined

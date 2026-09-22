@@ -273,7 +273,7 @@ export const noUnusedExports = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The day is measured back from a file's last commit rather than from the working tree.",
+        "The day is measured back from a file's last commit rather than from the file on disk.",
     },
     {
       decisionKind: "decision-kind/departure",

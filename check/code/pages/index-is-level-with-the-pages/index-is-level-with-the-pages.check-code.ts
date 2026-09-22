@@ -55,7 +55,7 @@ export const indexIsLevelWithThePages = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The working tree is read before the reconcile runs and again after it.",
+      statement: "The files on disk are read before the reconcile runs and again after it.",
     },
     {
       decisionKind: "decision-kind/departure",

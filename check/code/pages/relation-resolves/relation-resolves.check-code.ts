@@ -58,7 +58,7 @@ export const relationResolves = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An entry row is read through the change rather than off the working tree.",
+      statement: "An entry row is read through the change rather than off the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
