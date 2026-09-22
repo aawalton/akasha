@@ -1,0 +1,1 @@
+- Where the variation in a sexual mother's daughters comes from is unbuilt. His whole case for sex rests on her daughters differing from one another, and he has never said what makes them differ; mutation and recombination sit undistinguished in that gap. Until they are parted, nothing in his account says why the parasite argument needs sex rather than a high mutation rate.
