@@ -89,6 +89,7 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/pageless/subagent-pageless.module.ts","id":"01a0951d-933c-768f-a4e9-51a54ceda87a"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/presence/subagent-presence.module.ts","id":"01a0598f-18dd-77f7-94be-779f0df14af9"}
 {"propertySlug":"decision-kind","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
+{"propertySlug":"decision-kind","path":"agent/tool/agent-tool.domain.ts","id":"01a0c9c6-00a0-70ba-b6e7-287a93b83d07"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-api-places-add/atlas-api-places-add.route.ts","id":"01a0883b-b4dd-7183-8f6a-4afc210a6fc8"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/create-course/create-course.module.ts","id":"01a06579-f3d9-7005-80a2-939e9bfae257"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/root-parent-query/root-parent-query.module.ts","id":"01a06579-f3d9-7006-8368-78fe6c117de7"}

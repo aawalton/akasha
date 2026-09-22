@@ -11,6 +11,7 @@
 {"propertySlug":"part-of-speech","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"part-of-speech","path":"agent/session/agent-session.domain.ts","id":"01a0c9ae-c6f4-7f63-9f96-c0cd1f7d3b0d"}
 {"propertySlug":"part-of-speech","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
+{"propertySlug":"part-of-speech","path":"agent/tool/agent-tool.domain.ts","id":"01a0c9c6-00a0-70ba-b6e7-287a93b83d07"}
 {"propertySlug":"part-of-speech","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
 {"propertySlug":"part-of-speech","path":"alan/anime/anime.domain.ts","id":"01a0673a-bc3a-7001-b382-d105cf5b01d6"}
 {"propertySlug":"part-of-speech","path":"alan/attribute/attribute.page-type.ts","id":"01a06841-a0fd-7d6d-83ba-fed205a8f26a"}

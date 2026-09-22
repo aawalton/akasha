@@ -44,6 +44,7 @@ export const agent = {
     "service-workstation/sweep-stray-processes",
     "service-workstation/sweep-subagent-pages",
     "domain/agent-session",
+    "domain/agent-tool",
   ],
   properties: [
     {
