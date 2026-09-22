@@ -4,9 +4,9 @@
 {"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-legacy-event-listener/sales-history-legacy-event-listener.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-history-processing-request/sales-history-processing-request.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-libraries/craft-libraries.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-handlers/minimap-handlers.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-shared/minimap-shared.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-toggles/minimap-toggles.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/world/modules/minimap-tweaks-pin-managers/minimap-tweaks-pin-managers.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-shared/minimap-shared.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-toggles/minimap-toggles.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-async.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-tweaks-pin-managers/minimap-tweaks-pin-managers.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/type/temper-addon-type.domain.ts","id":"01a06090-f5ac-7f47-be1b-dc303670f2ad"}

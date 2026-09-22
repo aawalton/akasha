@@ -24,6 +24,6 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/interface/shifter-box-template/shifter-box-template.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/items/inventory-browser-layout/inventory-browser-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/scrollable-menu-controls/scrollable-menu-controls.eso-interface.ts"}
-{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/world/minimap-animations/minimap-animations.eso-interface.ts"}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/world/navigation/minimap-animations/minimap-animations.eso-interface.ts"}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
 {"propertySlug":"target-page-type","path":"temper/addon/properties/eso-interfaces.relation-property.ts","id":"01a06036-9b78-7e16-a4d4-1b73c48a5c05"}
