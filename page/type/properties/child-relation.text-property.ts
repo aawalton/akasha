@@ -5,7 +5,7 @@ export const childRelation = {
   type: "page-type/text-property",
   slug: "child-relation",
   propertySlug: "child-relation",
-  definition: "the key by which a gathered page names the page gathering it",
+  definition: "the key by which a child page names the page holding it",
   maxLength: 64,
   nameFormat: "name-format/lower-camel-case",
   decisions: [

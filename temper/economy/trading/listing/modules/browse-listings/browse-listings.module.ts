@@ -4,7 +4,7 @@ export const browseListings = {
   id: "01a060a7-02f2-748c-b8d5-e1c65820155b",
   type: "page-type/module",
   slug: "browse-listings",
-  definition: "how listings gathered from a guild store are merged and ordered by price",
+  definition: "how listings taken from a guild store are merged and ordered by price",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const locationCollection = {
   id: "01a06589-d12e-7daf-abd1-8fb5c89e9127",
   type: "page-type/page-type",
   slug: "location-collection",
-  definition: "places gathered under a name",
+  definition: "places filed under a name",
   extends: ["page-type/page"],
   parts: ["file-property/location-collection-description"],
   properties: [

@@ -5,6 +5,6 @@ export const agentNameBind = {
   type: "page-type/module",
   slug: "agent-name-bind",
   definition:
-    "a name request gathered from what the workstation sees, prior holder and ancestry included",
+    "a name request taken from what the workstation sees, prior holder and ancestry included",
   code: "ts",
 } as const satisfies Module

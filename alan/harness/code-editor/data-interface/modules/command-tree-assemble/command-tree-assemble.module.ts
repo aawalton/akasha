@@ -4,7 +4,7 @@ export const commandTreeAssemble = {
   id: "01a07c93-3aad-7d0a-87f2-3f002f5aad39",
   type: "page-type/module",
   slug: "command-tree-assemble",
-  definition: "the namespaces and commands under the command page type, gathered into a tree",
+  definition: "the namespaces and commands under the command page type, put into a tree",
   code: "ts",
   decisions: [
     {

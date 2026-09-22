@@ -4,7 +4,7 @@ export const measureGathering = {
   id: "01a09ba7-053e-780b-83b0-83bbba287ce9",
   type: "page-type/module",
   slug: "measure-gathering",
-  definition: "the runs an entries file holds, gathered under what ran and weighed over a window",
+  definition: "the runs an entries file holds, filed under what ran and weighed over a window",
   code: "ts",
   test: "ts",
   decisions: [

@@ -5,7 +5,7 @@ export const recipientResolverRegistry = {
   type: "page-type/module",
   slug: "recipient-resolver-registry",
   definition:
-    "the armed specs a tick walks, gathered from the declared, the seated, the personas and the people",
+    "the armed specs a tick walks, taken from the declared, the seated, the personas and the people",
   code: "ts",
   decisions: [
     {

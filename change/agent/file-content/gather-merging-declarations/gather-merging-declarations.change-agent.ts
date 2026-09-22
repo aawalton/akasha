@@ -7,7 +7,7 @@ export const gatherMergingDeclarations = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "the declarations of a merging name gathered into the file that declares it",
+  definition: "the declarations of a merging name put into the file that declares it",
   code: "ts",
   test: "ts",
   changeKind: "change-kind/change-checked",

@@ -4,7 +4,7 @@ export const modelRunning = {
   id: "01a05a43-f8db-7c07-80be-5c8b8867ea70",
   type: "page-type/module",
   slug: "model-running",
-  definition: "the model checks the index names, gathered so a runner can run them",
+  definition: "the model checks the index names, put in a list a runner can run",
   code: "ts",
   decisions: [
     {

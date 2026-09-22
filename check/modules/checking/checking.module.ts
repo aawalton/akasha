@@ -4,7 +4,7 @@ export const checking = {
   id: "01a04bc4-7e86-7df4-a322-36cc3b789fce",
   type: "page-type/module",
   slug: "checking",
-  definition: "every check gathered and run over a change, answering what refuses it",
+  definition: "every check found and run over a change, answering what refuses it",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

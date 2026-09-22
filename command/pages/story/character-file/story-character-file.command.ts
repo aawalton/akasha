@@ -4,8 +4,7 @@ export const storyCharacterFile = {
   id: "01a0b700-39f3-76fc-b703-ad293459d8ed",
   type: "page-type/command",
   slug: "story-character-file",
-  definition:
-    "the command filing a world's characters from what a reading of its chapters gathered",
+  definition: "the command filing a world's characters from what a reading of its chapters found",
   code: "ts",
   parts: [],
   decisions: [
