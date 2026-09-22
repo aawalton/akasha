@@ -181,18 +181,14 @@ export function placeSecrets(akasha: string, plan: Plan): Placing {
   const wanted = new Map<string, Set<string>>()
   const unplaced: Demand[] = []
   for (const demand of demands) {
+    const every = pages.flatMap((one) =>
+      one.placements.filter((two) => two.resourceName === demand.name)
+    )
+    const found =
+      demand.key === EVERY_KEY ? every.length > 0 : at.has(keyFor(demand.name, demand.key))
+    if (!found) unplaced.push(demand)
     const keys = wanted.get(demand.name) ?? new Set<string>()
-    if (demand.key === EVERY_KEY) {
-      const every = pages.flatMap((one) =>
-        one.placements.filter((two) => two.resourceName === demand.name)
-      )
-      if (every.length === 0) unplaced.push(demand)
-      for (const placement of every) keys.add(placement.resourceKey)
-    } else if (at.has(keyFor(demand.name, demand.key))) {
-      keys.add(demand.key)
-    } else {
-      unplaced.push(demand)
-    }
+    for (const placement of every) keys.add(placement.resourceKey)
     wanted.set(demand.name, keys)
   }
 

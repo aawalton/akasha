@@ -54,5 +54,10 @@ export const secretPlacing = {
       statement:
         "A value is applied already encoded, so the cluster drops the keys no page places.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A resource name a manifest demands is placed whole rather than at the demanded keys alone.",
+    },
   ],
 } as const satisfies Module
