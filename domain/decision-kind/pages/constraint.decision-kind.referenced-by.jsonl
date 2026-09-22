@@ -322,6 +322,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/zimage/modules/explore-worker/zimage-explore-worker.module.ts","id":"01a06815-9efd-702c-97c4-1d8fa5c36f48"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-inference.domain.ts","id":"01a06815-9efd-701e-a4d4-a26f49e97554"}
 {"propertySlug":"decision-kind","path":"infrastructure/infrastructure.domain.ts","id":"01a0658b-0f02-735b-af6a-28559398ee59"}
+{"propertySlug":"decision-kind","path":"infrastructure/job/modules/cluster-running/cluster-running.module.ts","id":"01a0aabf-f39f-7e07-9230-1008e8f32320"}
 {"propertySlug":"decision-kind","path":"infrastructure/kernel/infrastructure-kernel.domain.ts","id":"01a05c67-00ac-7c6f-a5c8-9391ef1427fe"}
 {"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/inode-guard/inode-guard.module.ts","id":"01a05c67-00ad-7fd7-8303-5ff4a8e492b2"}
 {"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.ts","id":"01a0a0af-184c-7bcb-bcd1-77847f24260e"}

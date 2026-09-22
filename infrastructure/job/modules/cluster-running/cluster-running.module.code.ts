@@ -121,8 +121,10 @@ const VENDORED = "node_modules"
 
 const HELD_ALONE = 9
 
+const KEPT_HEAD = "refs/kept/head"
+
 function fetchingWhole(ref: string): string {
-  return `git fetch -q --no-tags origin ${ref}`
+  return `git fetch -q --no-tags origin +${ref}:${KEPT_HEAD}`
 }
 
 function fetchedWholeAgain(ref: string): string {
@@ -142,7 +144,7 @@ export function keptCheckout(commit: string): readonly string[] {
     `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
     `${named} 2>/dev/null || git remote add origin ${ORIGIN}`,
     fetchedWholeAgain(commit),
-    "git switch -q --force --detach FETCH_HEAD",
+    `git switch -q --force --detach ${KEPT_HEAD}`,
     `git clean -qfdx -e ${VENDORED}`,
     "bun install --frozen-lockfile",
   ]

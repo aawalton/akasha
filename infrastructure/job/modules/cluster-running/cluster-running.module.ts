@@ -256,5 +256,14 @@ export const clusterRunning = {
       statement:
         "A run reads a tree holding what the commit holds, whether or not a run came before.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A held checkout names the commit it fetched, so the fetch after it asks for the rest.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A tree naming no commit of its own asks for every commit, however much it holds.",
+    },
   ],
 } as const satisfies Module
