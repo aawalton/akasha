@@ -10,6 +10,7 @@
   "classIcon": "/esoui/art/icons/class/class_dragonknight.dds",
   "companionRapport": {
     "6": 5500,
+    "9": 5500,
     "13": 5314
   },
   "quests": [
@@ -26415,7 +26416,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-21"
+    "date": "2026-09-22"
   },
   "dailyWritStates": {
     "completed": {
@@ -26436,7 +26437,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-21"
+    "date": "2026-09-22"
   },
   "motifKnowledge": {
     "1": {
