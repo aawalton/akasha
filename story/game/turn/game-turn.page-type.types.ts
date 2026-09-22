@@ -4,6 +4,7 @@ import type { SystemWindow } from "akasha/story/game/turn/properties/system-wind
 import type { TurnDerived } from "akasha/story/game/turn/properties/turn-derived.record-property.types.ts"
 import type { TurnNumber } from "akasha/story/game/turn/properties/turn-number.number-property.types.ts"
 import type { TurnPools } from "akasha/story/game/turn/properties/turn-pools.record-property.types.ts"
+import type { TurnRungs } from "akasha/story/game/turn/properties/turn-rungs.record-property.types.ts"
 
 export type GameTurn = Page & {
   game: HoldingGame
@@ -11,4 +12,5 @@ export type GameTurn = Page & {
   windows?: SystemWindow
   pools?: TurnPools
   derived?: TurnDerived
+  rungs?: TurnRungs
 }

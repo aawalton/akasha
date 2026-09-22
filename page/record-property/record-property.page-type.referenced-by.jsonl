@@ -59,6 +59,7 @@
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/game/turn/properties/system-window.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/game/turn/properties/turn-derived.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/game/turn/properties/turn-pools.record-property.ts"}
+{"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/game/turn/properties/turn-rungs.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/effect-buff.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/effect-conditions.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/effect-debuff.record-property.ts"}

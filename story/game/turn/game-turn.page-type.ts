@@ -14,6 +14,7 @@ export const gameTurn = {
     { pageProperty: "record-property/system-window", required: false, many: true, maxCount: null },
     { pageProperty: "record-property/turn-pools", required: false, many: true, maxCount: null },
     { pageProperty: "record-property/turn-derived", required: false, many: true, maxCount: null },
+    { pageProperty: "record-property/turn-rungs", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
@@ -47,5 +48,6 @@ export const gameTurn = {
     "number-property/pool-most",
     "number-property/derived-number",
     "record-property/turn-derived",
+    "record-property/turn-rungs",
   ],
 } as const satisfies PageType
