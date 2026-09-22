@@ -27,6 +27,7 @@ const MARK = ": "
 const NOT_FOUND = -1
 const COMPLETE = "complete"
 const ACTIVE = "active"
+const POINTS = "attrPoints"
 
 export type Numbers = Record<string, number>
 
@@ -185,9 +186,14 @@ export function beatsIn(turns: readonly Page[]): Named[] {
 
 export function hudOf(player: Page | null, turn: Page): Hud {
   const level = player === null ? undefined : countIn(player.level)
+  const points = player === null ? undefined : countIn(player.unspentAttributePoints)
   return {
     ...(level === undefined ? {} : { level }),
-    pools: { ...keyedIn(turn.pools, "now"), ...keyedIn(turn.pools, "most", MAX) },
+    pools: {
+      ...keyedIn(turn.pools, "now"),
+      ...keyedIn(turn.pools, "most", MAX),
+      ...(points === undefined ? {} : { [POINTS]: points }),
+    },
     delta: keyedIn(turn.pools, "change"),
   }
 }

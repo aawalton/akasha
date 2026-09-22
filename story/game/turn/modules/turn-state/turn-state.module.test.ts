@@ -27,6 +27,7 @@ const PLAYER = asPage({
   uniqueKey: null,
   kind: "player",
   level: 7,
+  unspentAttributePoints: 3,
   attributes: [{ attribute: LUCK, score: 11 }],
   skills: [{ name: "Smithing", progress: 1, effect: "metalwork" }],
   affinities: [{ name: "Ember", type: "Ember / Heat", tier: "manipulation", counter: 7 }],
@@ -75,7 +76,7 @@ const QUEST = asPage({
 test("the pools a turn left are keyed by name, and the most each held by name and Max", () => {
   expect(hudOf(PLAYER, TURN)).toEqual({
     level: 7,
-    pools: { hp: 121, focus: 104, hpMax: 124, focusMax: 120 },
+    pools: { hp: 121, focus: 104, hpMax: 124, focusMax: 120, attrPoints: 3 },
     delta: { focus: -6 },
   })
 })

@@ -37,5 +37,10 @@ export const turnState = {
       decisionKind: "decision-kind/departure",
       statement: "A quest page is one quest of the state, keyed by that page's slug.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The points a player has left to spend ride with the pools, as the interface reads them.",
+    },
   ],
 } as const satisfies Module
