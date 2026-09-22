@@ -11,6 +11,7 @@ export const resource = {
     "number-property/resource-min-value",
     "number-property/resource-value",
     "page-type/health",
+    "page-type/mana",
   ],
   properties: [
     { pageProperty: "number-property/resource-value", required: true, many: false },
