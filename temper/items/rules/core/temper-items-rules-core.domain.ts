@@ -4,8 +4,7 @@ export const temperItemsRulesCore = {
   id: "01a060d9-44cd-7bbd-88e3-944b7a932e9a",
   type: "page-type/domain",
   slug: "temper-items-rules-core",
-  definition:
-    "the rules saying what becomes of an item and the conditions those rules are written in",
+  definition: "the rules saying what becomes of an item and those rules' conditions",
   parts: [
     "module/action-storage-capability",
     "module/affected-items-tree-builder",

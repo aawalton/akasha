@@ -5,7 +5,7 @@ export const itemStyle = {
   type: "page-type/number-property",
   slug: "item-style",
   propertySlug: "style",
-  definition: "the cultural style an item is made in",
+  definition: "an item's cultural style",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

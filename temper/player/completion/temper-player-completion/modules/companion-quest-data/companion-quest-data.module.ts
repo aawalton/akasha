@@ -5,7 +5,7 @@ export const companionQuestData = {
   type: "page-type/module",
   slug: "companion-quest-data",
   definition:
-    "every companion quest, in the order a player takes it, with the rapport each one asks for",
+    "every companion quest, in the order a player takes it, with the rapport each one needs",
   code: "ts",
   decisions: [
     {

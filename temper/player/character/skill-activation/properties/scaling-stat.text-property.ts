@@ -5,7 +5,7 @@ export const scalingStat = {
   type: "page-type/text-property",
   slug: "scaling-stat",
   propertySlug: "scaling-stat",
-  definition: "the character number an effect is worked out from",
+  definition: "the character number from which an effect is worked out",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

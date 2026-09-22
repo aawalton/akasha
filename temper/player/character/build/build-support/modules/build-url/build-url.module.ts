@@ -4,7 +4,7 @@ export const buildUrl = {
   id: "01a0609f-53f9-74de-9c4c-1475434e5482",
   type: "page-type/module",
   slug: "build-url",
-  definition: "the link a character build or companion build is reached at",
+  definition: "the link of a character build or companion build",
   code: "ts",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const server = {
   type: "page-type/select-property",
   slug: "server",
   propertySlug: "server",
-  definition: "the megaserver a player's account trades on",
+  definition: "the megaserver of a player's account",
   values: ["NA", "EU"],
   decisions: [
     {

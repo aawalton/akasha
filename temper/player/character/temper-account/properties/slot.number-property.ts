@@ -5,7 +5,7 @@ export const slot = {
   type: "page-type/number-property",
   slug: "slot",
   propertySlug: "slot",
-  definition: "the place in a bag a stack sits at",
+  definition: "a stack's place in a bag",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

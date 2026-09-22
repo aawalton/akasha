@@ -5,7 +5,7 @@ export const esoDisplayName = {
   type: "page-type/text-property",
   slug: "eso-display-name",
   propertySlug: "display-name",
-  definition: "the name The Elder Scrolls Online shows a thing under",
+  definition: "the name The Elder Scrolls Online gives a thing",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

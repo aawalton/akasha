@@ -5,7 +5,7 @@ export const goal = {
   type: "page-type/relation-property",
   slug: "goal",
   propertySlug: "goal",
-  definition: "what a player is keeping the item for",
+  definition: "a player's reason for keeping the item",
   targetPageType: "page-type/temper-rule-goal",
   types: "ts",
 } as const satisfies RelationProperty

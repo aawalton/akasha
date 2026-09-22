@@ -4,7 +4,7 @@ export const comparisonOpData = {
   id: "01a060d9-44ca-7f34-b2bb-07aab8837d17",
   type: "page-type/module",
   slug: "comparison-op-data",
-  definition: "the six numeric comparisons a rule condition may be written with",
+  definition: "the six numeric comparisons a rule condition may use",
   code: "ts",
   decisions: [
     {

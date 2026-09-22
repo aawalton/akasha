@@ -4,7 +4,7 @@ export const temperCompletionCategory = {
   id: "01a05fcb-d657-7209-8fac-d33d57fe464e",
   type: "page-type/page-type",
   slug: "temper-completion-category",
-  definition: "a node of the tree completion is counted in",
+  definition: "a node of the completion tree",
   extends: ["page-type/temper-progress-thing"],
   parts: ["text-property/tab"],
   properties: [
