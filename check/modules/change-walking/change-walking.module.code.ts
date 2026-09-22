@@ -25,7 +25,6 @@ import {
   pageNamed,
   pageOf,
   partedIn,
-  uncommittedHeld,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { type Loaded, loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
@@ -335,8 +334,6 @@ export function overEveryTextNaming(
   return overEveryIn({ root, changed, before: both, after: both }, textNamed, judge)
 }
 
-const VENDORED = "node_modules"
-
 function walked(root: string, asked: readonly string[]): readonly string[] {
   const done = ran(["git", "-C", root, "ls-files", "-z", "--exclude-standard", ...asked])
   if (done.code !== 0) {
@@ -345,31 +342,16 @@ function walked(root: string, asked: readonly string[]): readonly string[] {
   return done.out.split("\0").filter((one) => one !== "")
 }
 
-function heldThough(path: string): boolean {
-  return uncommittedHeld(path) && !path.split("/").includes(VENDORED)
-}
-
 const PATHS_FROM = "--"
 
 const EXCEPT = ":(exclude)"
 
 const EXCEPT_INDEX = `${EXCEPT}${INDEX_AT}`
 
-const EXCEPT_VENDORED = `${EXCEPT}${VENDORED}`
-
-const EXCEPT_VENDORED_UNDER = `${EXCEPT}*/${VENDORED}`
-
 function everyFileInside(root: string): readonly string[] {
-  const kept = walked(root, ["--cached", "--others", PATHS_FROM, EXCEPT_INDEX])
-  const ignored = walked(root, [
-    "--others",
-    "--ignored",
-    PATHS_FROM,
-    EXCEPT_VENDORED,
-    EXCEPT_VENDORED_UNDER,
-  ])
-  const held = ignored.filter(heldThough)
-  return sortedOnce([...kept, ...held]).filter((one) => !underIndex(one))
+  return sortedOnce(walked(root, ["--cached", PATHS_FROM, EXCEPT_INDEX])).filter(
+    (one) => !underIndex(one)
+  )
 }
 
 export function everythingIn(root: string): Change {

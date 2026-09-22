@@ -36,6 +36,8 @@ export const KEPT_AT =
 
 export const BUILT_AT = "akasha/checks-system/change-walking/held/held.module.code.d.ts"
 
+export const STYLE_AT = "akasha/checks-system/change-walking/held/held.module.styles.css"
+
 export const VENDORED_AT = "node_modules/held/held.module.uncommitted.ts"
 
 const IGNORING = "*.uncommitted.*\n*.d.ts\nnode_modules/\n"
@@ -105,6 +107,7 @@ function worldOf(paths: readonly string[]): string {
 export function treeWorld(): string {
   const root = worldOf([PAGE_AT, CODE_AT])
   bodyAt(root, ".gitignore", IGNORING)
+  bodyAt(root, STYLE_AT, ".held {\n  color: red;\n}\n")
   for (const path of [STRAY_AT, KEPT_AT, BUILT_AT, VENDORED_AT]) bodyAt(root, path, "held\n")
   said(["git", "-C", root, "init", "-q"])
   said(["git", "-C", root, "add", "-A"])
