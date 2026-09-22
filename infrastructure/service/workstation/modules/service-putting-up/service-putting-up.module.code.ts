@@ -65,9 +65,9 @@ export async function bundlesBuilt(root: string, home: string, commit: string): 
   const bundles = new Map<string, string>()
   const said: string[] = []
   if (LAUNCHED_FROM_BUNDLE.size === 0) return { bundles, said }
+  const moved = movedFrom(root, commit)
+  if ("refused" in moved) return { refused: saidOfUnmoved(commit, moved.refused) }
   for (const slug of LAUNCHED_FROM_BUNDLE) {
-    const moved = movedFrom(root, commit)
-    if ("refused" in moved) return { refused: saidOfUnmoved(commit, moved.refused) }
     const made = await bundledFor(root, slug, home, commit, moved.moved)
     if (!("built" in made)) {
       return { refused: saidOfUnbuilt(slug, "unnamed" in made ? made.unnamed : made.refused) }
