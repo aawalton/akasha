@@ -49,7 +49,7 @@
     ],
     "afterBundle": [
       "Leads.xml",
-      "LoreBooks.xml",
+      "TemperWorldLoreBooks.xml",
       "LostTreasure.xml",
       "Browser.xml"
     ]

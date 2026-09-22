@@ -6,7 +6,7 @@ export const lorebooksReportLayout = {
   slug: "lorebooks-report-layout",
   definition: "the lore library search box and the two report windows the lorebook tracker fills",
   markup: "xml",
-  loadedAs: "LoreBooks.xml",
+  loadedAs: "TemperWorldLoreBooks.xml",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
