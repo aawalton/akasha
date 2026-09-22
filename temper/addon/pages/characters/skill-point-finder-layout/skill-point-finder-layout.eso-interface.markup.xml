@@ -137,7 +137,7 @@
 					<Controls>
 						<Button name="$(parent)_Hide">
 							<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="-3" offsetY="3" />
-							<OnMouseUp>USPF:ToggleWindow()</OnMouseUp>
+							<OnMouseUp>TemperCharactersSkillPointFinder:ToggleWindow()</OnMouseUp>
 							<Dimensions x="25" y="25" />
 							<Textures normal="/esoui/art/buttons/decline_up.dds" pressed="/esoui/art/buttons/decline_down.dds" mouseOver="/esoui/art/buttons/decline_over.dds" />
 						</Button>

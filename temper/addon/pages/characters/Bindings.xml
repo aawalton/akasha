@@ -7,7 +7,7 @@
     </Category>
     <Category name="Temper Completion — Skill Points">
       <Action name="USPF_TOGGLE">
-        <Up>USPF:ToggleWindow()</Up>
+        <Up>TemperCharactersSkillPointFinder:ToggleWindow()</Up>
       </Action>
     </Category>
   </Layer>

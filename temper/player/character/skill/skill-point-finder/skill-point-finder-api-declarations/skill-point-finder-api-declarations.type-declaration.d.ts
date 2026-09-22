@@ -1,5 +1,5 @@
-interface UspfApi {
+interface TemperCharactersSkillPointFinderApi {
   ToggleWindow: (this: void) => undefined
 }
 
-declare var USPF: UspfApi | undefined
+declare var TemperCharactersSkillPointFinder: TemperCharactersSkillPointFinderApi | undefined
