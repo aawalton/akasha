@@ -4,7 +4,7 @@ export const lostTreasureMapLayout = {
   id: "01a0624c-a660-7e1e-90ff-1cb6ff118829",
   type: "page-type/eso-interface",
   slug: "lost-treasure-map-layout",
-  definition: "the movable treasure map window and the icon a settings row is marked with",
+  definition: "the movable treasure map window and the icon marking a settings row",
   markup: "xml",
   loadedAs: "LostTreasure.xml",
   decisions: [

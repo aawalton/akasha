@@ -4,6 +4,6 @@ export const minimapSettings = {
   id: "01a06269-299b-7a5e-9715-87ce8d260d61",
   type: "page-type/module",
   slug: "minimap-settings",
-  definition: "the order the minimap settings modules load in",
+  definition: "the load order of the minimap settings modules",
   code: "ts",
 } as const satisfies Module

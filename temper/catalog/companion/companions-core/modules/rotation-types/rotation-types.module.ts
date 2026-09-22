@@ -4,7 +4,7 @@ export const rotationTypes = {
   id: "01a06152-c2da-7a46-9d70-0b6d3eec75de",
   type: "page-type/module",
   slug: "rotation-types",
-  definition: "the vocabulary a companion rotation simulation is written in",
+  definition: "the vocabulary of a companion rotation simulation",
   code: "ts",
   decisions: [
     {
