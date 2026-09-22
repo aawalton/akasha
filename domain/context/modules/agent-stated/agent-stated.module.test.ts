@@ -90,9 +90,9 @@ test("a seat that is nowhere states nothing", () => {
   expect(slugStated(root, "akasha/seat-system/seat/seat/gone.seat.ts", "persona")).toBe(null)
 })
 
-test("a seat whose exported value is not named for its slug states nothing", () => {
+test("a seat states what its body declares whatever the export is named", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
   const path = "akasha/seat-system/seat/seat/one.seat.ts"
   writing(root, path, `export const other = { persona: "akasha" }\n`)
-  expect(slugStated(root, path, "persona")).toBe(null)
+  expect(slugStated(root, path, "persona")).toBe("akasha")
 })

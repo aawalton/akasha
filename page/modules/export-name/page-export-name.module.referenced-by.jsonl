@@ -55,7 +55,6 @@
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/modules/calling/calling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/modules/calling/calling.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
-{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"domain/context/modules/agent-stated/agent-stated.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"domain/context/modules/warranting/warranting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"domain/context/modules/warranting/warranting.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"domain/context/warrant/file-property/file-property.context-warrant.code.ts"}

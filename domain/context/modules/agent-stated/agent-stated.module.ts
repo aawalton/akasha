@@ -23,6 +23,10 @@ export const agentStated = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The value a page's body declares is read whatever that body names the export.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page whose body cannot be loaded states nothing.",
     },
     {

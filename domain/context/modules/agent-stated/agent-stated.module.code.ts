@@ -1,27 +1,14 @@
-import { createRequire } from "node:module"
-import { join } from "node:path"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
-import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { textUnder } from "akasha/page/modules/value/page-value.module.code.ts"
 
 const AGENT: ReadonlySet<string> = new Set(["seat", "subagent"])
-
-const loadFrom = createRequire(import.meta.url)
 
 function statedIn(root: string, path: string, key: string): string | null {
   const said = partedIn(path)
   if (said === null || said.sections.length > 0 || !AGENT.has(said.pageType)) return null
-  let mod: Record<string, unknown>
-  try {
-    mod = loadFrom(join(root, path)) as Record<string, unknown>
-  } catch {
-    return null
-  }
-  const held = mod[exportedAs(said.slug)]
-  if (held === null || typeof held !== "object") return null
-  const stated = (held as Record<string, unknown>)[key]
-  if (typeof stated !== "string" || stated === "") return null
-  return stated
+  const stated = textUnder(root, path, key)
+  return stated === "" ? null : stated
 }
 
 export function slugStated(root: string, path: string, key: string): string | null {
