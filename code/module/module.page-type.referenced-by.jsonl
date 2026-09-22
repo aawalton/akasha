@@ -5198,6 +5198,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/ui-layout/ui-layout.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/backpack-settings-types/backpack-settings-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/capture-instant/capture-instant.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.ts"}
