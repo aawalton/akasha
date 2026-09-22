@@ -17,5 +17,4 @@ export const platingsExpertise = {
   rank: 3,
   skillLineId: "craft-jewelry-crafting",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "craft-jewelry-crafting",
 } as const satisfies TemperSkill

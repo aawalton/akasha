@@ -18,5 +18,4 @@ export const emeraldMoss85876 = {
   rank: 22,
   skillLineId: "warden-green-balance",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "warden-green-balance",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const funnelHealth = {
   rank: 8,
   skillLineId: "nightblade-siphoning",
   skillType: "temper-skill-type/active",
-  subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill

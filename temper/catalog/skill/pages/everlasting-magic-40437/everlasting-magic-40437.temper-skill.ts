@@ -17,5 +17,4 @@ export const everlastingMagic40437 = {
   rank: 5,
   skillLineId: "guild-mages-guild",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "guild-mages-guild",
 } as const satisfies TemperSkill

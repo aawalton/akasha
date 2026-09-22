@@ -18,7 +18,6 @@ export const scribedVaultImmobilize = {
   rank: 1,
   skillLineId: "weapon-bow",
   skillType: "temper-skill-type/active",
-  subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/immobilize",
   grimoireId: "temper-grimoire/vault",
 } as const satisfies TemperScribedSkill

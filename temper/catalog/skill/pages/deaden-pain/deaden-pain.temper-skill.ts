@@ -18,6 +18,5 @@ export const deadenPain = {
   rank: 8,
   skillLineId: "necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
-  subcategoryId: "necromancer-bone-tyrant",
   effects: "jsonl",
 } as const satisfies TemperSkill

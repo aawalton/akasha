@@ -18,5 +18,4 @@ export const circumventedFate184930 = {
   rank: 22,
   skillLineId: "arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "arcanist-soldier-of-apocrypha",
 } as const satisfies TemperSkill

@@ -18,7 +18,6 @@ export const scribedVaultTaunt = {
   rank: 1,
   skillLineId: "weapon-bow",
   skillType: "temper-skill-type/active",
-  subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/taunt",
   grimoireId: "temper-grimoire/vault",
 } as const satisfies TemperScribedSkill

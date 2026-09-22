@@ -18,5 +18,4 @@ export const bitingJabs = {
   rank: 8,
   skillLineId: "templar-aedric-spear",
   skillType: "temper-skill-type/active",
-  subcategoryId: "templar-aedric-spear",
 } as const satisfies TemperSkill

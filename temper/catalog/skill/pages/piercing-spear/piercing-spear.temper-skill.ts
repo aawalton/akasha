@@ -18,7 +18,6 @@ export const piercingSpear = {
   rank: 2,
   skillLineId: "templar-aedric-spear",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "templar-aedric-spear",
   status: "unsupported",
   effects: "jsonl",
 } as const satisfies TemperSkill

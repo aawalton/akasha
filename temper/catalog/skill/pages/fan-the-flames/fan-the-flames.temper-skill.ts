@@ -18,5 +18,4 @@ export const fanTheFlames = {
   rank: 22,
   skillLineId: "dragonknight-ardent-flame",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "dragonknight-ardent-flame",
 } as const satisfies TemperSkill

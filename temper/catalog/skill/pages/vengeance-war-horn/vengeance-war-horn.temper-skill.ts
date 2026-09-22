@@ -18,5 +18,4 @@ export const vengeanceWarHorn = {
   rank: 1,
   skillLineId: "vengeance-alliance-war-assault",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "vengeance-alliance-war-assault",
 } as const satisfies TemperSkill

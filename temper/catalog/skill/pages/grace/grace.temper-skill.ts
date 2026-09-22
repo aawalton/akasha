@@ -18,7 +18,6 @@ export const grace = {
   rank: 3,
   skillLineId: "armor-light-armor",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "armor-light-armor",
   status: "partially-supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

@@ -17,7 +17,6 @@ export const balancedWarrior = {
   rank: 2,
   skillLineId: "templar-aedric-spear",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "templar-aedric-spear",
   status: "supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

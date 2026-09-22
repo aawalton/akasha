@@ -18,5 +18,4 @@ export const expunge = {
   rank: 4,
   skillLineId: "necromancer-living-death",
   skillType: "temper-skill-type/active",
-  subcategoryId: "necromancer-living-death",
 } as const satisfies TemperSkill

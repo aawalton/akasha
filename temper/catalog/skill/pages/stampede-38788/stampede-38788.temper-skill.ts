@@ -18,5 +18,4 @@ export const stampede38788 = {
   rank: 4,
   skillLineId: "weapon-two-handed",
   skillType: "temper-skill-type/active",
-  subcategoryId: "weapon-two-handed",
 } as const satisfies TemperSkill

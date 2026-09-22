@@ -18,5 +18,4 @@ export const vengeanceBolsteringDarkness = {
   rank: 1,
   skillLineId: "vengeance-nightblade-shadow",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "vengeance-nightblade-shadow",
 } as const satisfies TemperSkill

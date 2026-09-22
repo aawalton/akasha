@@ -18,5 +18,4 @@ export const elderDragon29460 = {
   rank: 22,
   skillLineId: "dragonknight-draconic-power",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "dragonknight-draconic-power",
 } as const satisfies TemperSkill

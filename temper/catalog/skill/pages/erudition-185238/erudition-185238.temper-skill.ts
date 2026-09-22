@@ -18,5 +18,4 @@ export const erudition185238 = {
   rank: 22,
   skillLineId: "arcanist-curative-runeforms",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "arcanist-curative-runeforms",
 } as const satisfies TemperSkill

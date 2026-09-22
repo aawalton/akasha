@@ -18,6 +18,5 @@ export const cutpurse = {
   rank: 1,
   skillLineId: "racial-khajiit-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-khajiit-skills",
   status: "unsupported",
 } as const satisfies TemperSkill

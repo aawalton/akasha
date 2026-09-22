@@ -17,5 +17,4 @@ export const locksmith63813 = {
   rank: 5,
   skillLineId: "world-legerdemain",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "world-legerdemain",
 } as const satisfies TemperSkill

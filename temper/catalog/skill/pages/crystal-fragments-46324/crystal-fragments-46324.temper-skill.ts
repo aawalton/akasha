@@ -18,5 +18,4 @@ export const crystalFragments46324 = {
   rank: 1,
   skillLineId: "sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
-  subcategoryId: "sorcerer-dark-magic",
 } as const satisfies TemperSkill

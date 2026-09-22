@@ -17,5 +17,4 @@ export const energized31421 = {
   rank: 14,
   skillLineId: "sorcerer-storm-calling",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "sorcerer-storm-calling",
 } as const satisfies TemperSkill

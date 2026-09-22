@@ -18,5 +18,4 @@ export const vengeanceSurge = {
   rank: 1,
   skillLineId: "vengeance-sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-sorcerer-storm-calling",
 } as const satisfies TemperSkill

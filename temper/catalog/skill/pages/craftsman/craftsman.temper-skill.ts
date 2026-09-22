@@ -18,6 +18,5 @@ export const craftsman = {
   rank: 1,
   skillLineId: "racial-orc-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-orc-skills",
   status: "unsupported",
 } as const satisfies TemperSkill

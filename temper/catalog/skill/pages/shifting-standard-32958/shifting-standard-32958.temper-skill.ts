@@ -18,5 +18,4 @@ export const shiftingStandard32958 = {
   rank: 12,
   skillLineId: "dragonknight-ardent-flame",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "dragonknight-ardent-flame",
 } as const satisfies TemperSkill

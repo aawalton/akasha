@@ -18,5 +18,4 @@ export const searingClaw = {
   rank: 4,
   skillLineId: "dragonknight-ardent-flame",
   skillType: "temper-skill-type/active",
-  subcategoryId: "dragonknight-ardent-flame",
 } as const satisfies TemperSkill

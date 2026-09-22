@@ -18,5 +18,4 @@ export const hurricane23231 = {
   rank: 4,
   skillLineId: "sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
-  subcategoryId: "sorcerer-storm-calling",
 } as const satisfies TemperSkill

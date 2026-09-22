@@ -18,5 +18,4 @@ export const magmaShell17874 = {
   rank: 12,
   skillLineId: "dragonknight-earthen-heart",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "dragonknight-earthen-heart",
 } as const satisfies TemperSkill

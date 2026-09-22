@@ -18,5 +18,4 @@ export const slaughter18929 = {
   rank: 5,
   skillLineId: "weapon-dual-wield",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "weapon-dual-wield",
 } as const satisfies TemperSkill

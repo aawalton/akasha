@@ -17,7 +17,6 @@ export const scribedTrampleDiseaseDamage = {
   rank: 1,
   skillLineId: "alliance-war-assault",
   skillType: "temper-skill-type/active",
-  subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/disease-damage",
   grimoireId: "temper-grimoire/trample",
 } as const satisfies TemperScribedSkill

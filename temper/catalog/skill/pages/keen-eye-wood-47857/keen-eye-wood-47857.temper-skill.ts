@@ -18,5 +18,4 @@ export const keenEyeWood47857 = {
   rank: 2,
   skillLineId: "craft-woodworking",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "craft-woodworking",
 } as const satisfies TemperSkill

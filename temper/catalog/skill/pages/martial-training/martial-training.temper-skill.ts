@@ -18,7 +18,6 @@ export const martialTraining = {
   rank: 3,
   skillLineId: "racial-redguard-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-redguard-skills",
   status: "partially-supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

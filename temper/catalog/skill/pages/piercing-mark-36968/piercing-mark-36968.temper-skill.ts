@@ -18,5 +18,4 @@ export const piercingMark36968 = {
   rank: 30,
   skillLineId: "nightblade-assassination",
   skillType: "temper-skill-type/active",
-  subcategoryId: "nightblade-assassination",
 } as const satisfies TemperSkill

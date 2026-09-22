@@ -18,5 +18,4 @@ export const destructiveClench38984 = {
   rank: 14,
   skillLineId: "weapon-destruction-staff",
   skillType: "temper-skill-type/active",
-  subcategoryId: "weapon-destruction-staff",
 } as const satisfies TemperSkill

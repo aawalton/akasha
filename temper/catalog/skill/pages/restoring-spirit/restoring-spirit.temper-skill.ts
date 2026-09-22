@@ -18,7 +18,6 @@ export const restoringSpirit = {
   rank: 2,
   skillLineId: "templar-dawns-wrath",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "templar-dawns-wrath",
   status: "supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

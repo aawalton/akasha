@@ -18,5 +18,4 @@ export const expertMage31425 = {
   rank: 39,
   skillLineId: "sorcerer-storm-calling",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "sorcerer-storm-calling",
 } as const satisfies TemperSkill

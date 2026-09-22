@@ -18,5 +18,4 @@ export const crystallizedShield = {
   rank: 30,
   skillLineId: "warden-winters-embrace",
   skillType: "temper-skill-type/active",
-  subcategoryId: "warden-winters-embrace",
 } as const satisfies TemperSkill

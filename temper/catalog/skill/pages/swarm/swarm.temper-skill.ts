@@ -18,5 +18,4 @@ export const swarm = {
   rank: 20,
   skillLineId: "warden-animal-companions",
   skillType: "temper-skill-type/active",
-  subcategoryId: "warden-animal-companions",
 } as const satisfies TemperSkill

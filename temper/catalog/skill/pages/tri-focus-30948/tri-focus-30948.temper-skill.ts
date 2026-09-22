@@ -18,5 +18,4 @@ export const triFocus30948 = {
   rank: 5,
   skillLineId: "weapon-destruction-staff",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "weapon-destruction-staff",
 } as const satisfies TemperSkill

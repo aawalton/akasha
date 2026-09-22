@@ -18,5 +18,4 @@ export const ricochetSkull117637 = {
   rank: 1,
   skillLineId: "necromancer-grave-lord",
   skillType: "temper-skill-type/active",
-  subcategoryId: "necromancer-grave-lord",
 } as const satisfies TemperSkill

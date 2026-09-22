@@ -18,7 +18,6 @@ export const undeadConfederate = {
   rank: 2,
   skillLineId: "necromancer-living-death",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "necromancer-living-death",
   status: "unsupported",
   effects: "jsonl",
 } as const satisfies TemperSkill

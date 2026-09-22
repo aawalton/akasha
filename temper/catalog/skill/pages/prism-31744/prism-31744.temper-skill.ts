@@ -18,5 +18,4 @@ export const prism31744 = {
   rank: 14,
   skillLineId: "templar-dawns-wrath",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "templar-dawns-wrath",
 } as const satisfies TemperSkill

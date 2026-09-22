@@ -18,5 +18,4 @@ export const vengeanceHealingSeed = {
   rank: 1,
   skillLineId: "vengeance-warden-green-balance",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-warden-green-balance",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const hircineSBounty = {
   rank: 4,
   skillLineId: "world-werewolf",
   skillType: "temper-skill-type/active",
-  subcategoryId: "world-werewolf",
 } as const satisfies TemperSkill

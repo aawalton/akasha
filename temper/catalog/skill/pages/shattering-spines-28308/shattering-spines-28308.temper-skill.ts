@@ -18,5 +18,4 @@ export const shatteringSpines28308 = {
   rank: 4,
   skillLineId: "sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
-  subcategoryId: "sorcerer-dark-magic",
 } as const satisfies TemperSkill

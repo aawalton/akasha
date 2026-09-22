@@ -18,5 +18,4 @@ export const scalesOfPitilessJustice77394 = {
   rank: 2,
   skillLineId: "guild-dark-brotherhood",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "guild-dark-brotherhood",
 } as const satisfies TemperSkill

@@ -17,5 +17,4 @@ export const keenEyeRuneStones = {
   rank: 3,
   skillLineId: "craft-enchanting",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "craft-enchanting",
 } as const satisfies TemperSkill

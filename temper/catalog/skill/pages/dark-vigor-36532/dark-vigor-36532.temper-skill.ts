@@ -18,5 +18,4 @@ export const darkVigor36532 = {
   rank: 22,
   skillLineId: "nightblade-shadow",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "nightblade-shadow",
 } as const satisfies TemperSkill

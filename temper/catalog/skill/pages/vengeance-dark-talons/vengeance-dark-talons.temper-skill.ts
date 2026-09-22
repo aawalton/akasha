@@ -18,5 +18,4 @@ export const vengeanceDarkTalons = {
   rank: 1,
   skillLineId: "vengeance-dragonknight-draconic-power",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-dragonknight-draconic-power",
 } as const satisfies TemperSkill

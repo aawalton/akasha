@@ -18,5 +18,4 @@ export const pulsar39161 = {
   rank: 38,
   skillLineId: "weapon-destruction-staff",
   skillType: "temper-skill-type/active",
-  subcategoryId: "weapon-destruction-staff",
 } as const satisfies TemperSkill

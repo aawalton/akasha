@@ -18,6 +18,5 @@ export const wayfarer = {
   rank: 1,
   skillLineId: "racial-redguard-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-redguard-skills",
   status: "unsupported",
 } as const satisfies TemperSkill

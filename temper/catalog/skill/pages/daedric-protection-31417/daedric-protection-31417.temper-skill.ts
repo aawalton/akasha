@@ -18,5 +18,4 @@ export const daedricProtection31417 = {
   rank: 22,
   skillLineId: "sorcerer-daedric-summoning",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "sorcerer-daedric-summoning",
 } as const satisfies TemperSkill

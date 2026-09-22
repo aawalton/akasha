@@ -18,5 +18,4 @@ export const powerSurge23674 = {
   rank: 30,
   skillLineId: "sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
-  subcategoryId: "sorcerer-storm-calling",
 } as const satisfies TemperSkill

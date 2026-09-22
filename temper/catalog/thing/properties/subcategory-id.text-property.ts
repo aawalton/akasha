@@ -19,7 +19,11 @@ export const subcategoryId = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Four of the groups named here are no pages: none, scribed, crown and class.",
+      statement: "Three of the groups named here are no pages: scribed, crown and class.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill states its line once, so a skill states no group of its own.",
     },
   ],
   types: "ts",

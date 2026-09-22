@@ -17,7 +17,6 @@ export const restorationMaster = {
   rank: 2,
   skillLineId: "weapon-restoration-staff",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "weapon-restoration-staff",
   status: "supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

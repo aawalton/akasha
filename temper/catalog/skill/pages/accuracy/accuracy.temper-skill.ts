@@ -17,7 +17,6 @@ export const accuracy = {
   rank: 2,
   skillLineId: "weapon-bow",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "weapon-bow",
   status: "supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

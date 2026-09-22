@@ -18,5 +18,4 @@ export const audaciousRunemend = {
   rank: 12,
   skillLineId: "arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
-  subcategoryId: "arcanist-curative-runeforms",
 } as const satisfies TemperSkill

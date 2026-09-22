@@ -18,5 +18,4 @@ export const bloodScion = {
   rank: 5,
   skillLineId: "world-vampire",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "world-vampire",
 } as const satisfies TemperSkill

@@ -17,5 +17,4 @@ export const catalyst36560 = {
   rank: 8,
   skillLineId: "nightblade-siphoning",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill

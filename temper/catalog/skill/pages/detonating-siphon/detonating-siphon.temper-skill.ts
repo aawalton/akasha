@@ -18,6 +18,5 @@ export const detonatingSiphon = {
   rank: 8,
   skillLineId: "necromancer-grave-lord",
   skillType: "temper-skill-type/active",
-  subcategoryId: "necromancer-grave-lord",
   effects: "jsonl",
 } as const satisfies TemperSkill

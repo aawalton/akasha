@@ -17,7 +17,6 @@ export const haggling = {
   rank: 4,
   skillLineId: "guild-thieves-guild",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "guild-thieves-guild",
   status: "unsupported",
   effects: "jsonl",
 } as const satisfies TemperSkill

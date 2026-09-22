@@ -18,5 +18,4 @@ export const soulSiphoner36603 = {
   rank: 22,
   skillLineId: "nightblade-siphoning",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill

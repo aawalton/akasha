@@ -18,7 +18,6 @@ export const scribedWieldSoulBleedDamage = {
   rank: 1,
   skillLineId: "world-soul-magic",
   skillType: "temper-skill-type/active",
-  subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/bleed-damage",
   grimoireId: "temper-grimoire/wield-soul",
 } as const satisfies TemperScribedSkill

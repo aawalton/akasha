@@ -18,5 +18,4 @@ export const liquidLightning = {
   rank: 8,
   skillLineId: "sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
-  subcategoryId: "sorcerer-storm-calling",
 } as const satisfies TemperSkill

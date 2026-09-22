@@ -18,7 +18,6 @@ export const huntersEye = {
   rank: 3,
   skillLineId: "racial-wood-elf-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-wood-elf-skills",
   status: "partially-supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

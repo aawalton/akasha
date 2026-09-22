@@ -18,5 +18,4 @@ export const vengeanceMomentum = {
   rank: 1,
   skillLineId: "vengeance-weapon-two-handed",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-weapon-two-handed",
 } as const satisfies TemperSkill

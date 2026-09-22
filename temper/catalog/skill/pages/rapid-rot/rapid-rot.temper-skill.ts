@@ -17,7 +17,6 @@ export const rapidRot = {
   rank: 2,
   skillLineId: "necromancer-grave-lord",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "necromancer-grave-lord",
   status: "supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

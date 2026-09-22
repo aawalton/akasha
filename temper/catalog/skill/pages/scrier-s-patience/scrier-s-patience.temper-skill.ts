@@ -17,5 +17,4 @@ export const scrierSPatience = {
   rank: 2,
   skillLineId: "world-scrying",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "world-scrying",
 } as const satisfies TemperSkill

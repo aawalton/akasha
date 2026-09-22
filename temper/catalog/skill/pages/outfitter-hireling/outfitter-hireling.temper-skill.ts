@@ -18,5 +18,4 @@ export const outfitterHireling = {
   rank: 3,
   skillLineId: "craft-clothing",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "craft-clothing",
 } as const satisfies TemperSkill

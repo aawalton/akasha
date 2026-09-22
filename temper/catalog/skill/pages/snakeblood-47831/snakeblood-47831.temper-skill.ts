@@ -17,5 +17,4 @@ export const snakeblood47831 = {
   rank: 23,
   skillLineId: "craft-alchemy",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "craft-alchemy",
 } as const satisfies TemperSkill

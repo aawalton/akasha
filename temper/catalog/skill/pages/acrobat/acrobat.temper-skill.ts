@@ -18,6 +18,5 @@ export const acrobat = {
   rank: 1,
   skillLineId: "racial-wood-elf-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-wood-elf-skills",
   status: "unsupported",
 } as const satisfies TemperSkill

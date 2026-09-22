@@ -18,5 +18,4 @@ export const werewolfBerserker39076 = {
   rank: 1,
   skillLineId: "world-werewolf",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "world-werewolf",
 } as const satisfies TemperSkill

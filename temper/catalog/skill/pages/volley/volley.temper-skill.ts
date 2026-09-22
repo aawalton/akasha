@@ -18,5 +18,4 @@ export const volley = {
   rank: 4,
   skillLineId: "weapon-bow",
   skillType: "temper-skill-type/active",
-  subcategoryId: "weapon-bow",
 } as const satisfies TemperSkill

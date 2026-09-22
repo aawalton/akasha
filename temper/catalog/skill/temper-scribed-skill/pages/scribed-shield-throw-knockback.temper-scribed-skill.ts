@@ -17,7 +17,6 @@ export const scribedShieldThrowKnockback = {
   rank: 1,
   skillLineId: "weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
-  subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/knockback",
   grimoireId: "temper-grimoire/shield-throw",
 } as const satisfies TemperScribedSkill

@@ -17,5 +17,4 @@ export const tough50903 = {
   rank: 5,
   skillLineId: "racial-imperial-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-imperial-skills",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const vengeanceSnipe = {
   rank: 1,
   skillLineId: "vengeance-weapon-bow",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-weapon-bow",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const traumaticBurns = {
   rank: 14,
   skillLineId: "dragonknight-ardent-flame",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "dragonknight-ardent-flame",
 } as const satisfies TemperSkill

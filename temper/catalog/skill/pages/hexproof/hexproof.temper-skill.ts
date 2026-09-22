@@ -18,6 +18,5 @@ export const hexproof = {
   rank: 12,
   skillLineId: "necromancer-living-death",
   skillType: "temper-skill-type/active",
-  subcategoryId: "necromancer-living-death",
   effects: "jsonl",
 } as const satisfies TemperSkill

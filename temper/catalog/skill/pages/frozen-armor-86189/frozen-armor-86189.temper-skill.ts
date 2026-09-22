@@ -18,5 +18,4 @@ export const frozenArmor86189 = {
   rank: 14,
   skillLineId: "warden-winters-embrace",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "warden-winters-embrace",
 } as const satisfies TemperSkill

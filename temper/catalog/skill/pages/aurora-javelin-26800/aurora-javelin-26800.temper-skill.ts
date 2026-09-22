@@ -18,5 +18,4 @@ export const auroraJavelin26800 = {
   rank: 4,
   skillLineId: "templar-aedric-spear",
   skillType: "temper-skill-type/active",
-  subcategoryId: "templar-aedric-spear",
 } as const satisfies TemperSkill

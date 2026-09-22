@@ -18,5 +18,4 @@ export const raceAgainstTime103710 = {
   rank: 5,
   skillLineId: "guild-psijic-order",
   skillType: "temper-skill-type/active",
-  subcategoryId: "guild-psijic-order",
 } as const satisfies TemperSkill

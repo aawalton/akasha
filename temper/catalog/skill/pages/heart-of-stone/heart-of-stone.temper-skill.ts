@@ -18,5 +18,4 @@ export const heartOfStone = {
   rank: 8,
   skillLineId: "dragonknight-earthen-heart",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "dragonknight-earthen-heart",
 } as const satisfies TemperSkill

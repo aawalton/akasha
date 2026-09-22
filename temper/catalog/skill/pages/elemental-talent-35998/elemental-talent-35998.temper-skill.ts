@@ -17,5 +17,4 @@ export const elementalTalent35998 = {
   rank: 25,
   skillLineId: "racial-high-elf-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-high-elf-skills",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const daedricRefuge24834 = {
   rank: 42,
   skillLineId: "sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
-  subcategoryId: "sorcerer-dark-magic",
 } as const satisfies TemperSkill

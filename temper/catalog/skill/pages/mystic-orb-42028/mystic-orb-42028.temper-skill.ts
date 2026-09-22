@@ -18,5 +18,4 @@ export const mysticOrb42028 = {
   rank: 5,
   skillLineId: "guild-undaunted",
   skillType: "temper-skill-type/active",
-  subcategoryId: "guild-undaunted",
 } as const satisfies TemperSkill

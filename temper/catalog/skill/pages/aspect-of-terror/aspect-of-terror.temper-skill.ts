@@ -18,5 +18,4 @@ export const aspectOfTerror = {
   rank: 30,
   skillLineId: "nightblade-shadow",
   skillType: "temper-skill-type/active",
-  subcategoryId: "nightblade-shadow",
 } as const satisfies TemperSkill

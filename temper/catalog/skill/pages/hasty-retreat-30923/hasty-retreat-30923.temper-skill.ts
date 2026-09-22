@@ -18,5 +18,4 @@ export const hastyRetreat30923 = {
   rank: 41,
   skillLineId: "weapon-bow",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "weapon-bow",
 } as const satisfies TemperSkill

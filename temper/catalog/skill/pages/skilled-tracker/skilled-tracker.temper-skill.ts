@@ -18,7 +18,6 @@ export const skilledTracker = {
   rank: 1,
   skillLineId: "guild-fighters-guild",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "guild-fighters-guild",
   status: "unsupported",
   effects: "jsonl",
 } as const satisfies TemperSkill

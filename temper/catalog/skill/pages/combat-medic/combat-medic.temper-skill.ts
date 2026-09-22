@@ -17,7 +17,6 @@ export const combatMedic = {
   rank: 2,
   skillLineId: "alliance-war-support",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "alliance-war-support",
   status: "unsupported",
   effects: "jsonl",
 } as const satisfies TemperSkill

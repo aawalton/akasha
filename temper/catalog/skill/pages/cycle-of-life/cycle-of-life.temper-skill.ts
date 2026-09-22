@@ -17,7 +17,6 @@ export const cycleOfLife = {
   rank: 2,
   skillLineId: "weapon-restoration-staff",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "weapon-restoration-staff",
   status: "unsupported",
   effects: "jsonl",
 } as const satisfies TemperSkill

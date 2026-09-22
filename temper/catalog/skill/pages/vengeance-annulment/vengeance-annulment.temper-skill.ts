@@ -18,5 +18,4 @@ export const vengeanceAnnulment = {
   rank: 1,
   skillLineId: "vengeance-armor",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-armor",
 } as const satisfies TemperSkill

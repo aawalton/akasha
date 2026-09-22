@@ -18,5 +18,4 @@ export const elementalRing = {
   rank: 8,
   skillLineId: "weapon-destruction-staff",
   skillType: "temper-skill-type/active",
-  subcategoryId: "weapon-destruction-staff",
 } as const satisfies TemperSkill

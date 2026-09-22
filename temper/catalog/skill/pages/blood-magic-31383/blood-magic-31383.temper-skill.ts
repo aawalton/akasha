@@ -18,5 +18,4 @@ export const bloodMagic31383 = {
   rank: 14,
   skillLineId: "sorcerer-dark-magic",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "sorcerer-dark-magic",
 } as const satisfies TemperSkill

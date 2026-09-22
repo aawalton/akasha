@@ -18,5 +18,4 @@ export const venomArrow38645 = {
   rank: 38,
   skillLineId: "weapon-bow",
   skillType: "temper-skill-type/active",
-  subcategoryId: "weapon-bow",
 } as const satisfies TemperSkill

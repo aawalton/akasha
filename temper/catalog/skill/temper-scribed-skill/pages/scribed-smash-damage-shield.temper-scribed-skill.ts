@@ -18,7 +18,6 @@ export const scribedSmashDamageShield = {
   rank: 1,
   skillLineId: "weapon-two-handed",
   skillType: "temper-skill-type/active",
-  subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/damage-shield",
   grimoireId: "temper-grimoire/smash",
 } as const satisfies TemperScribedSkill

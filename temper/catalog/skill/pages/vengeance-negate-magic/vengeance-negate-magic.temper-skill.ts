@@ -18,5 +18,4 @@ export const vengeanceNegateMagic = {
   rank: 1,
   skillLineId: "vengeance-sorcerer-dark-magic",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "vengeance-sorcerer-dark-magic",
 } as const satisfies TemperSkill

@@ -17,5 +17,4 @@ export const capacitor31419 = {
   rank: 8,
   skillLineId: "sorcerer-storm-calling",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "sorcerer-storm-calling",
 } as const satisfies TemperSkill

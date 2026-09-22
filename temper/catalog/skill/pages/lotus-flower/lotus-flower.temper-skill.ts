@@ -18,5 +18,4 @@ export const lotusFlower = {
   rank: 30,
   skillLineId: "warden-green-balance",
   skillType: "temper-skill-type/active",
-  subcategoryId: "warden-green-balance",
 } as const satisfies TemperSkill

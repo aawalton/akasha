@@ -17,7 +17,6 @@ export const improvedHiding = {
   rank: 4,
   skillLineId: "world-legerdemain",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "world-legerdemain",
   status: "supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

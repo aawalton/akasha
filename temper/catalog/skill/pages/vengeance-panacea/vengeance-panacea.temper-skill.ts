@@ -18,5 +18,4 @@ export const vengeancePanacea = {
   rank: 1,
   skillLineId: "vengeance-weapon-restoration-staff",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "vengeance-weapon-restoration-staff",
 } as const satisfies TemperSkill

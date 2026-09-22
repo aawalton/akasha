@@ -17,5 +17,4 @@ export const ranger30942 = {
   rank: 17,
   skillLineId: "weapon-bow",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "weapon-bow",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const simmeringFrenzy = {
   rank: 8,
   skillLineId: "world-vampire",
   skillType: "temper-skill-type/active",
-  subcategoryId: "world-vampire",
 } as const satisfies TemperSkill

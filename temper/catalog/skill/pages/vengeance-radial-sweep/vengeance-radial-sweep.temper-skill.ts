@@ -18,5 +18,4 @@ export const vengeanceRadialSweep = {
   rank: 1,
   skillLineId: "vengeance-templar-aedric-spear",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "vengeance-templar-aedric-spear",
 } as const satisfies TemperSkill

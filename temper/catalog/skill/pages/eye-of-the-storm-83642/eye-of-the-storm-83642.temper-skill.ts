@@ -18,5 +18,4 @@ export const eyeOfTheStorm83642 = {
   rank: 50,
   skillLineId: "weapon-destruction-staff",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "weapon-destruction-staff",
 } as const satisfies TemperSkill

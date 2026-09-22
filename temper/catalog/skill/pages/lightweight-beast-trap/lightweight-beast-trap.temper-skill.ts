@@ -18,5 +18,4 @@ export const lightweightBeastTrap = {
   rank: 12,
   skillLineId: "guild-fighters-guild",
   skillType: "temper-skill-type/active",
-  subcategoryId: "guild-fighters-guild",
 } as const satisfies TemperSkill

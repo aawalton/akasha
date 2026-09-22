@@ -18,5 +18,4 @@ export const sacredGround31757 = {
   rank: 14,
   skillLineId: "templar-restoring-light",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "templar-restoring-light",
 } as const satisfies TemperSkill

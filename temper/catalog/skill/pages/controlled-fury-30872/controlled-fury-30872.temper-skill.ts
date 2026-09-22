@@ -17,5 +17,4 @@ export const controlledFury30872 = {
   rank: 25,
   skillLineId: "weapon-dual-wield",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "weapon-dual-wield",
 } as const satisfies TemperSkill

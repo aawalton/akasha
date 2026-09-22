@@ -18,5 +18,4 @@ export const swordAndBoard29397 = {
   rank: 10,
   skillLineId: "weapon-one-hand-and-shield",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "weapon-one-hand-and-shield",
 } as const satisfies TemperSkill

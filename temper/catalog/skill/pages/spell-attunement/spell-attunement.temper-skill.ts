@@ -18,7 +18,6 @@ export const spellAttunement = {
   rank: 3,
   skillLineId: "racial-breton-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-breton-skills",
   status: "partially-supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

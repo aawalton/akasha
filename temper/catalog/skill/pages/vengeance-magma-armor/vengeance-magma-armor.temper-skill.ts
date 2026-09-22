@@ -18,5 +18,4 @@ export const vengeanceMagmaArmor = {
   rank: 1,
   skillLineId: "vengeance-dragonknight-earthen-heart",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "vengeance-dragonknight-earthen-heart",
 } as const satisfies TemperSkill

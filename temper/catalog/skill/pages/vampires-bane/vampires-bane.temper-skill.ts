@@ -18,5 +18,4 @@ export const vampiresBane = {
   rank: 8,
   skillLineId: "templar-dawns-wrath",
   skillType: "temper-skill-type/active",
-  subcategoryId: "templar-dawns-wrath",
 } as const satisfies TemperSkill

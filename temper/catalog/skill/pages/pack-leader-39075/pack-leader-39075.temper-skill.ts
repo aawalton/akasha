@@ -18,5 +18,4 @@ export const packLeader39075 = {
   rank: 1,
   skillLineId: "world-werewolf",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "world-werewolf",
 } as const satisfies TemperSkill

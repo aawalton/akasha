@@ -17,5 +17,4 @@ export const giftOfMagnus35995 = {
   rank: 5,
   skillLineId: "racial-breton-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-breton-skills",
 } as const satisfies TemperSkill

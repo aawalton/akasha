@@ -18,5 +18,4 @@ export const continuousAttack39248 = {
   rank: 3,
   skillLineId: "alliance-war-assault",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const vengeanceTrapBeast = {
   rank: 1,
   skillLineId: "vengeance-guild-fighters-guild",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-guild-fighters-guild",
 } as const satisfies TemperSkill

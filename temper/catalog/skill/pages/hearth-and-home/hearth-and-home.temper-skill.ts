@@ -18,5 +18,4 @@ export const hearthAndHome = {
   rank: 30,
   skillLineId: "dragonknight-ardent-flame",
   skillType: "temper-skill-type/active",
-  subcategoryId: "dragonknight-ardent-flame",
 } as const satisfies TemperSkill

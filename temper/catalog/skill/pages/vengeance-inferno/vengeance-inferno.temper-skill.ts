@@ -18,5 +18,4 @@ export const vengeanceInferno = {
   rank: 1,
   skillLineId: "vengeance-dragonknight-ardent-flame",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-dragonknight-ardent-flame",
 } as const satisfies TemperSkill

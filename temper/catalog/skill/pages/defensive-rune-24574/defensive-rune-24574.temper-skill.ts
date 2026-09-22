@@ -18,5 +18,4 @@ export const defensiveRune24574 = {
   rank: 20,
   skillLineId: "sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
-  subcategoryId: "sorcerer-dark-magic",
 } as const satisfies TemperSkill

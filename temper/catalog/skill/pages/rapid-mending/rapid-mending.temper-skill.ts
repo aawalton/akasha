@@ -18,7 +18,6 @@ export const rapidMending = {
   rank: 2,
   skillLineId: "armor-heavy-armor",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "armor-heavy-armor",
   status: "supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

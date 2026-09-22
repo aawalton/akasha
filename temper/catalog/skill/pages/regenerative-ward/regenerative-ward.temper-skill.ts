@@ -18,5 +18,4 @@ export const regenerativeWard = {
   rank: 12,
   skillLineId: "sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
-  subcategoryId: "sorcerer-daedric-summoning",
 } as const satisfies TemperSkill

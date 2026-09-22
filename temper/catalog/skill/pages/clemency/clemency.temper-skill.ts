@@ -18,7 +18,6 @@ export const clemency = {
   rank: 1,
   skillLineId: "guild-thieves-guild",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "guild-thieves-guild",
   status: "unsupported",
   effects: "jsonl",
 } as const satisfies TemperSkill

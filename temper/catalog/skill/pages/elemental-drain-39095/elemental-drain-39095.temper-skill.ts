@@ -18,5 +18,4 @@ export const elementalDrain39095 = {
   rank: 20,
   skillLineId: "weapon-destruction-staff",
   skillType: "temper-skill-type/active",
-  subcategoryId: "weapon-destruction-staff",
 } as const satisfies TemperSkill

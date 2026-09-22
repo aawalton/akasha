@@ -18,5 +18,4 @@ export const spellWall = {
   rank: 8,
   skillLineId: "weapon-one-hand-and-shield",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "weapon-one-hand-and-shield",
 } as const satisfies TemperSkill

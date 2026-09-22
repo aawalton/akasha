@@ -18,7 +18,6 @@ export const scribedSmashBleedDamage = {
   rank: 1,
   skillLineId: "weapon-two-handed",
   skillType: "temper-skill-type/active",
-  subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/bleed-damage",
   grimoireId: "temper-grimoire/smash",
 } as const satisfies TemperScribedSkill

@@ -18,7 +18,6 @@ export const expertSummoner = {
   rank: 2,
   skillLineId: "sorcerer-daedric-summoning",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "sorcerer-daedric-summoning",
   status: "partially-supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const callOfThePack32641 = {
   rank: 7,
   skillLineId: "world-werewolf",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "world-werewolf",
 } as const satisfies TemperSkill

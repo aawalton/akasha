@@ -18,5 +18,4 @@ export const defensiveStance38312 = {
   rank: 14,
   skillLineId: "weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
-  subcategoryId: "weapon-one-hand-and-shield",
 } as const satisfies TemperSkill

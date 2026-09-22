@@ -18,5 +18,4 @@ export const runemend = {
   rank: 1,
   skillLineId: "arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
-  subcategoryId: "arcanist-curative-runeforms",
 } as const satisfies TemperSkill

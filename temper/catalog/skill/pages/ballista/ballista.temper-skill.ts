@@ -18,5 +18,4 @@ export const ballista = {
   rank: 12,
   skillLineId: "weapon-bow",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "weapon-bow",
 } as const satisfies TemperSkill

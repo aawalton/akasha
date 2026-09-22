@@ -18,5 +18,4 @@ export const hunterSEye = {
   rank: 5,
   skillLineId: "racial-wood-elf-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-wood-elf-skills",
 } as const satisfies TemperSkill

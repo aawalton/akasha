@@ -18,5 +18,4 @@ export const impalingShards = {
   rank: 4,
   skillLineId: "warden-winters-embrace",
   skillType: "temper-skill-type/active",
-  subcategoryId: "warden-winters-embrace",
 } as const satisfies TemperSkill

@@ -18,7 +18,6 @@ export const domination = {
   rank: 1,
   skillLineId: "alliance-war-emperor",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "alliance-war-emperor",
   status: "unsupported",
   effects: "jsonl",
 } as const satisfies TemperSkill

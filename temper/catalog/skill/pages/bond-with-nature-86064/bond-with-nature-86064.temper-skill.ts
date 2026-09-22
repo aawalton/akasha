@@ -18,5 +18,4 @@ export const bondWithNature86064 = {
   rank: 8,
   skillLineId: "warden-animal-companions",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "warden-animal-companions",
 } as const satisfies TemperSkill

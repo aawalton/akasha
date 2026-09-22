@@ -18,5 +18,4 @@ export const flameLash20816 = {
   rank: 1,
   skillLineId: "dragonknight-ardent-flame",
   skillType: "temper-skill-type/active",
-  subcategoryId: "dragonknight-ardent-flame",
 } as const satisfies TemperSkill

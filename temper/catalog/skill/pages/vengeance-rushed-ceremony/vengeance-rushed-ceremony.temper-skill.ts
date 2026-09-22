@@ -17,5 +17,4 @@ export const vengeanceRushedCeremony = {
   rank: 1,
   skillLineId: "vengeance-templar-restoring-light",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-templar-restoring-light",
 } as const satisfies TemperSkill

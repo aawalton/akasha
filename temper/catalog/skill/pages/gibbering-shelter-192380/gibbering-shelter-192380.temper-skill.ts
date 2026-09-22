@@ -18,5 +18,4 @@ export const gibberingShelter192380 = {
   rank: 12,
   skillLineId: "arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "arcanist-soldier-of-apocrypha",
 } as const satisfies TemperSkill

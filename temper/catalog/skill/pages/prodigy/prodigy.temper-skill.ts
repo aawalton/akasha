@@ -18,7 +18,6 @@ export const prodigy = {
   rank: 2,
   skillLineId: "armor-light-armor",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "armor-light-armor",
   status: "supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const lightningSplash = {
   rank: 20,
   skillLineId: "sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
-  subcategoryId: "sorcerer-storm-calling",
 } as const satisfies TemperSkill

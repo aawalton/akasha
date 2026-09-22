@@ -18,5 +18,4 @@ export const persistence31378 = {
   rank: 22,
   skillLineId: "sorcerer-dark-magic",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "sorcerer-dark-magic",
 } as const satisfies TemperSkill

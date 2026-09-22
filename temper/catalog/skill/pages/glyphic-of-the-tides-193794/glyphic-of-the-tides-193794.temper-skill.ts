@@ -18,5 +18,4 @@ export const glyphicOfTheTides193794 = {
   rank: 12,
   skillLineId: "arcanist-curative-runeforms",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "arcanist-curative-runeforms",
 } as const satisfies TemperSkill

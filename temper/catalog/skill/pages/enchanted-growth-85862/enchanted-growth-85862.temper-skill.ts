@@ -18,5 +18,4 @@ export const enchantedGrowth85862 = {
   rank: 1,
   skillLineId: "warden-green-balance",
   skillType: "temper-skill-type/active",
-  subcategoryId: "warden-green-balance",
 } as const satisfies TemperSkill

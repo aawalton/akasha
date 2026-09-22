@@ -18,5 +18,4 @@ export const ancientKnowledge30959 = {
   rank: 28,
   skillLineId: "weapon-destruction-staff",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "weapon-destruction-staff",
 } as const satisfies TemperSkill

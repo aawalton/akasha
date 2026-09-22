@@ -18,5 +18,4 @@ export const soothingSpores85863 = {
   rank: 1,
   skillLineId: "warden-green-balance",
   skillType: "temper-skill-type/active",
-  subcategoryId: "warden-green-balance",
 } as const satisfies TemperSkill

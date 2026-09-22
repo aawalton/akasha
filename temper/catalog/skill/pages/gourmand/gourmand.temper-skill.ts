@@ -17,5 +17,4 @@ export const gourmand = {
   rank: 3,
   skillLineId: "craft-provisioning",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "craft-provisioning",
 } as const satisfies TemperSkill

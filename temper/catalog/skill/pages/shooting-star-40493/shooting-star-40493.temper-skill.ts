@@ -18,5 +18,4 @@ export const shootingStar40493 = {
   rank: 10,
   skillLineId: "guild-mages-guild",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "guild-mages-guild",
 } as const satisfies TemperSkill

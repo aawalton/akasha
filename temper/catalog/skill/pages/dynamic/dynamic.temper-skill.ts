@@ -17,7 +17,6 @@ export const dynamic = {
   rank: 3,
   skillLineId: "racial-dark-elf-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-dark-elf-skills",
   status: "supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

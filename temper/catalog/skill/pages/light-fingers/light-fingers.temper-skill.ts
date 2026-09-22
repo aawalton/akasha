@@ -17,5 +17,4 @@ export const lightFingers = {
   rank: 4,
   skillLineId: "world-legerdemain",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "world-legerdemain",
 } as const satisfies TemperSkill

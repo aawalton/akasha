@@ -18,7 +18,6 @@ export const unflinchingRage = {
   rank: 3,
   skillLineId: "racial-orc-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-orc-skills",
   status: "partially-supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

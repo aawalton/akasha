@@ -17,5 +17,4 @@ export const laboratoryUse = {
   rank: 1,
   skillLineId: "craft-alchemy",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "craft-alchemy",
 } as const satisfies TemperSkill

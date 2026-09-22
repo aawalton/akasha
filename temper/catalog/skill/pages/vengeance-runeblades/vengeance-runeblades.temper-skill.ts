@@ -18,5 +18,4 @@ export const vengeanceRuneblades = {
   rank: 1,
   skillLineId: "vengeance-arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-arcanist-herald-of-the-tome",
 } as const satisfies TemperSkill

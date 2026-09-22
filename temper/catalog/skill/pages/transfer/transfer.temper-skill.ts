@@ -18,6 +18,5 @@ export const transfer = {
   rank: 2,
   skillLineId: "nightblade-siphoning",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "nightblade-siphoning",
   status: "unsupported",
 } as const satisfies TemperSkill

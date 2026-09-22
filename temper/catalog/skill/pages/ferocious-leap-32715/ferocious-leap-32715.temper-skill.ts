@@ -18,5 +18,4 @@ export const ferociousLeap32715 = {
   rank: 12,
   skillLineId: "dragonknight-draconic-power",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "dragonknight-draconic-power",
 } as const satisfies TemperSkill

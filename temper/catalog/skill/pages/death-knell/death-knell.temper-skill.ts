@@ -17,7 +17,6 @@ export const deathKnell = {
   rank: 2,
   skillLineId: "necromancer-grave-lord",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "necromancer-grave-lord",
   status: "unsupported",
   effects: "jsonl",
 } as const satisfies TemperSkill

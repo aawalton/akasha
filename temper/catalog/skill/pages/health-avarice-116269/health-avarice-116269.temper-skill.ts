@@ -18,5 +18,4 @@ export const healthAvarice116269 = {
   rank: 22,
   skillLineId: "necromancer-bone-tyrant",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "necromancer-bone-tyrant",
 } as const satisfies TemperSkill

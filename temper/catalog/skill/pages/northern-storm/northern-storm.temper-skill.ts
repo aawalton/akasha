@@ -18,5 +18,4 @@ export const northernStorm = {
   rank: 8,
   skillLineId: "warden-winters-embrace",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "warden-winters-embrace",
 } as const satisfies TemperSkill

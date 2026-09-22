@@ -17,7 +17,6 @@ export const yffresEndurance = {
   rank: 3,
   skillLineId: "racial-wood-elf-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-wood-elf-skills",
   status: "supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

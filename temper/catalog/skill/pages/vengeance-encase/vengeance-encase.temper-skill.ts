@@ -18,5 +18,4 @@ export const vengeanceEncase = {
   rank: 1,
   skillLineId: "vengeance-sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-sorcerer-dark-magic",
 } as const satisfies TemperSkill

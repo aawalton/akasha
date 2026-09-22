@@ -18,5 +18,4 @@ export const vengeanceShieldWall = {
   rank: 1,
   skillLineId: "vengeance-weapon-one-hand-and-shield",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "vengeance-weapon-one-hand-and-shield",
 } as const satisfies TemperSkill

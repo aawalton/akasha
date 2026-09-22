@@ -18,5 +18,4 @@ export const vengeanceMagelight = {
   rank: 1,
   skillLineId: "vengeance-guild-mages-guild",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-guild-mages-guild",
 } as const satisfies TemperSkill

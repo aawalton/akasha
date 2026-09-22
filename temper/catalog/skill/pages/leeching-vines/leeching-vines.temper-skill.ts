@@ -18,5 +18,4 @@ export const leechingVines = {
   rank: 8,
   skillLineId: "warden-green-balance",
   skillType: "temper-skill-type/active",
-  subcategoryId: "warden-green-balance",
 } as const satisfies TemperSkill

@@ -18,7 +18,6 @@ export const hemorrhage = {
   rank: 2,
   skillLineId: "nightblade-assassination",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "nightblade-assassination",
   status: "partially-supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

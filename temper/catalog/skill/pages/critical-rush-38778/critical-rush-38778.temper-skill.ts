@@ -18,5 +18,4 @@ export const criticalRush38778 = {
   rank: 4,
   skillLineId: "weapon-two-handed",
   skillType: "temper-skill-type/active",
-  subcategoryId: "weapon-two-handed",
 } as const satisfies TemperSkill

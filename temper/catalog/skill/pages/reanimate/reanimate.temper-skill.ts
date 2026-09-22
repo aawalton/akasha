@@ -18,5 +18,4 @@ export const reanimate = {
   rank: 12,
   skillLineId: "necromancer-living-death",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "necromancer-living-death",
 } as const satisfies TemperSkill

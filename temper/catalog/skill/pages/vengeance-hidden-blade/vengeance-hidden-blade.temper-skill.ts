@@ -18,5 +18,4 @@ export const vengeanceHiddenBlade = {
   rank: 1,
   skillLineId: "vengeance-weapon-dual-wield",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-weapon-dual-wield",
 } as const satisfies TemperSkill

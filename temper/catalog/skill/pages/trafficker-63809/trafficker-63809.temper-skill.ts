@@ -18,5 +18,4 @@ export const trafficker63809 = {
   rank: 3,
   skillLineId: "world-legerdemain",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "world-legerdemain",
 } as const satisfies TemperSkill

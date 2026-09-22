@@ -18,5 +18,4 @@ export const beckoningArmor118237 = {
   rank: 4,
   skillLineId: "necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
-  subcategoryId: "necromancer-bone-tyrant",
 } as const satisfies TemperSkill

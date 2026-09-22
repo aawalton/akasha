@@ -18,7 +18,6 @@ export const athletics = {
   rank: 2,
   skillLineId: "armor-medium-armor",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "armor-medium-armor",
   status: "supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

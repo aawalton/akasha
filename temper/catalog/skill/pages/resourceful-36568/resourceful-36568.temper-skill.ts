@@ -18,5 +18,4 @@ export const resourceful36568 = {
   rank: 25,
   skillLineId: "racial-argonian-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-argonian-skills",
 } as const satisfies TemperSkill

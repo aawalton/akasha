@@ -18,7 +18,6 @@ export const scribedTrampleDispel = {
   rank: 1,
   skillLineId: "alliance-war-assault",
   skillType: "temper-skill-type/active",
-  subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/dispel",
   grimoireId: "temper-grimoire/trample",
 } as const satisfies TemperScribedSkill

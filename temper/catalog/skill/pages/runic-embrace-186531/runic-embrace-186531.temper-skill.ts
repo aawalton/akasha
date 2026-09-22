@@ -18,5 +18,4 @@ export const runicEmbrace186531 = {
   rank: 1,
   skillLineId: "arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
-  subcategoryId: "arcanist-soldier-of-apocrypha",
 } as const satisfies TemperSkill

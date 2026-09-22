@@ -18,5 +18,4 @@ export const deathGleaning116230 = {
   rank: 8,
   skillLineId: "necromancer-bone-tyrant",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "necromancer-bone-tyrant",
 } as const satisfies TemperSkill

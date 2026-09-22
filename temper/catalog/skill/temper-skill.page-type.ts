@@ -41,7 +41,6 @@ export const temperSkill = {
     { pageProperty: "number-property/skill-rank", required: true, many: false },
     { pageProperty: "text-property/skill-line-id", required: true, many: false },
     { pageProperty: "relation-property/skill-type", required: true, many: false },
-    { pageProperty: "text-property/subcategory-id", required: true, many: false },
     { pageProperty: "text-property/skill-status", required: false, many: false },
   ],
   types: "ts",

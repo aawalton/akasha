@@ -18,5 +18,4 @@ export const vengeanceBitterHarvest = {
   rank: 1,
   skillLineId: "vengeance-necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-necromancer-bone-tyrant",
 } as const satisfies TemperSkill

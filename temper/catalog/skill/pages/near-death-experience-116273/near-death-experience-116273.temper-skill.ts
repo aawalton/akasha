@@ -18,5 +18,4 @@ export const nearDeathExperience116273 = {
   rank: 14,
   skillLineId: "necromancer-living-death",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "necromancer-living-death",
 } as const satisfies TemperSkill

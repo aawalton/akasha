@@ -18,5 +18,4 @@ export const iceComet = {
   rank: 8,
   skillLineId: "guild-mages-guild",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "guild-mages-guild",
 } as const satisfies TemperSkill

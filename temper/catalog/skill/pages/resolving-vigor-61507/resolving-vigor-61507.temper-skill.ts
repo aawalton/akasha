@@ -18,5 +18,4 @@ export const resolvingVigor61507 = {
   rank: 2,
   skillLineId: "alliance-war-assault",
   skillType: "temper-skill-type/active",
-  subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

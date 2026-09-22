@@ -18,5 +18,4 @@ export const grandHealing = {
   rank: 2,
   skillLineId: "weapon-restoration-staff",
   skillType: "temper-skill-type/active",
-  subcategoryId: "weapon-restoration-staff",
 } as const satisfies TemperSkill

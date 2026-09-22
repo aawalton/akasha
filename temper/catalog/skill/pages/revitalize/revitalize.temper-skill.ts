@@ -18,6 +18,5 @@ export const revitalize = {
   rank: 2,
   skillLineId: "armor-heavy-armor",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "armor-heavy-armor",
   status: "unsupported",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const shatterSoul40414 = {
   rank: 6,
   skillLineId: "world-soul-magic",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "world-soul-magic",
 } as const satisfies TemperSkill

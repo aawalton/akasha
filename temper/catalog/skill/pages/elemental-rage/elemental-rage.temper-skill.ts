@@ -18,5 +18,4 @@ export const elementalRage = {
   rank: 8,
   skillLineId: "weapon-destruction-staff",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "weapon-destruction-staff",
 } as const satisfies TemperSkill

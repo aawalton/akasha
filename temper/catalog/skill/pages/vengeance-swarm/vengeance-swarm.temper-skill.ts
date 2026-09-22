@@ -18,5 +18,4 @@ export const vengeanceSwarm = {
   rank: 1,
   skillLineId: "vengeance-warden-animal-companions",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-warden-animal-companions",
 } as const satisfies TemperSkill

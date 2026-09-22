@@ -18,6 +18,5 @@ export const masterAssassin = {
   rank: 2,
   skillLineId: "nightblade-assassination",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "nightblade-assassination",
   effects: "jsonl",
 } as const satisfies TemperSkill

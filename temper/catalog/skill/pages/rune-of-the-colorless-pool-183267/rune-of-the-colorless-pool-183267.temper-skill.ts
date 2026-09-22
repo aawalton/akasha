@@ -18,5 +18,4 @@ export const runeOfTheColorlessPool183267 = {
   rank: 42,
   skillLineId: "arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
-  subcategoryId: "arcanist-soldier-of-apocrypha",
 } as const satisfies TemperSkill

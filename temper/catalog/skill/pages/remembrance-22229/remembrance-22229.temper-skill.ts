@@ -18,5 +18,4 @@ export const remembrance22229 = {
   rank: 12,
   skillLineId: "templar-restoring-light",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "templar-restoring-light",
 } as const satisfies TemperSkill

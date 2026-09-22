@@ -18,5 +18,4 @@ export const magickaDetonation = {
   rank: 7,
   skillLineId: "alliance-war-assault",
   skillType: "temper-skill-type/active",
-  subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

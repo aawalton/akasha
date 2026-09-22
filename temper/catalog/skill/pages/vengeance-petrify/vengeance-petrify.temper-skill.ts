@@ -18,5 +18,4 @@ export const vengeancePetrify = {
   rank: 1,
   skillLineId: "vengeance-dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-dragonknight-earthen-heart",
 } as const satisfies TemperSkill

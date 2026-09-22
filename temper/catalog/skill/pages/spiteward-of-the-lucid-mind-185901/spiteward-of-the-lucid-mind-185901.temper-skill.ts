@@ -18,5 +18,4 @@ export const spitewardOfTheLucidMind185901 = {
   rank: 4,
   skillLineId: "arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
-  subcategoryId: "arcanist-soldier-of-apocrypha",
 } as const satisfies TemperSkill

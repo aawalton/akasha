@@ -17,7 +17,6 @@ export const scribedElementalExplosionMagicDamage = {
   rank: 1,
   skillLineId: "weapon-destruction-staff",
   skillType: "temper-skill-type/active",
-  subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/magic-damage",
   grimoireId: "temper-grimoire/elemental-explosion",
 } as const satisfies TemperScribedSkill

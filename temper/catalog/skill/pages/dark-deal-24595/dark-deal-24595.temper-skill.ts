@@ -18,5 +18,4 @@ export const darkDeal24595 = {
   rank: 30,
   skillLineId: "sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
-  subcategoryId: "sorcerer-dark-magic",
 } as const satisfies TemperSkill

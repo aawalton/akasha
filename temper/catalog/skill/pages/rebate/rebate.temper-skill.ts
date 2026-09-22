@@ -18,6 +18,5 @@ export const rebate = {
   rank: 2,
   skillLineId: "sorcerer-daedric-summoning",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "sorcerer-daedric-summoning",
   status: "unsupported",
 } as const satisfies TemperSkill

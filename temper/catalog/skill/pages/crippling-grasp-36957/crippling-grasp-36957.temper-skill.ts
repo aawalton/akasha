@@ -18,5 +18,4 @@ export const cripplingGrasp36957 = {
   rank: 20,
   skillLineId: "nightblade-siphoning",
   skillType: "temper-skill-type/active",
-  subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill

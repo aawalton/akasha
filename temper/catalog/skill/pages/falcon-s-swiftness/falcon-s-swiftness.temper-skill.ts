@@ -18,5 +18,4 @@ export const falconSSwiftness = {
   rank: 42,
   skillLineId: "warden-animal-companions",
   skillType: "temper-skill-type/active",
-  subcategoryId: "warden-animal-companions",
 } as const satisfies TemperSkill

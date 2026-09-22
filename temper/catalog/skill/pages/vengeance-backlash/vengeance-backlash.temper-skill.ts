@@ -18,5 +18,4 @@ export const vengeanceBacklash = {
   rank: 1,
   skillLineId: "vengeance-templar-dawns-wrath",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-templar-dawns-wrath",
 } as const satisfies TemperSkill

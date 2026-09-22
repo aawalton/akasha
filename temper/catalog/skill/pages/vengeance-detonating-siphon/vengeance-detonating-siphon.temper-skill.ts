@@ -18,5 +18,4 @@ export const vengeanceDetonatingSiphon = {
   rank: 1,
   skillLineId: "vengeance-necromancer-grave-lord",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-necromancer-grave-lord",
 } as const satisfies TemperSkill

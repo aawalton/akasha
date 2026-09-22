@@ -18,5 +18,4 @@ export const vengeanceBlur = {
   rank: 1,
   skillLineId: "vengeance-nightblade-shadow",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-nightblade-shadow",
 } as const satisfies TemperSkill

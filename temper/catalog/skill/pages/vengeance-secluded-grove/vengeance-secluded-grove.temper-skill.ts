@@ -18,5 +18,4 @@ export const vengeanceSecludedGrove = {
   rank: 1,
   skillLineId: "vengeance-warden-green-balance",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "vengeance-warden-green-balance",
 } as const satisfies TemperSkill

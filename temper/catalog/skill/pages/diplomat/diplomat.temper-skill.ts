@@ -18,7 +18,6 @@ export const diplomat = {
   rank: 1,
   skillLineId: "racial-imperial-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-imperial-skills",
   status: "supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

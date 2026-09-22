@@ -18,5 +18,4 @@ export const impale = {
   rank: 12,
   skillLineId: "nightblade-assassination",
   skillType: "temper-skill-type/active",
-  subcategoryId: "nightblade-assassination",
 } as const satisfies TemperSkill

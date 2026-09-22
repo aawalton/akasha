@@ -17,7 +17,6 @@ export const magickaMastery = {
   rank: 3,
   skillLineId: "racial-breton-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-breton-skills",
   status: "supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

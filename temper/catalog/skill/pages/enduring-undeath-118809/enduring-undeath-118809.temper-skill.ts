@@ -18,5 +18,4 @@ export const enduringUndeath118809 = {
   rank: 20,
   skillLineId: "necromancer-living-death",
   skillType: "temper-skill-type/active",
-  subcategoryId: "necromancer-living-death",
 } as const satisfies TemperSkill

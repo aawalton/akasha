@@ -18,5 +18,4 @@ export const vengeanceSoulShred = {
   rank: 1,
   skillLineId: "vengeance-nightblade-siphoning",
   skillType: "temper-skill-type/ultimate",
-  subcategoryId: "vengeance-nightblade-siphoning",
 } as const satisfies TemperSkill

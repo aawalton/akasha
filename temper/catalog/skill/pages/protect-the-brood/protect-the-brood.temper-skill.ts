@@ -18,5 +18,4 @@ export const protectTheBrood = {
   rank: 12,
   skillLineId: "dragonknight-draconic-power",
   skillType: "temper-skill-type/active",
-  subcategoryId: "dragonknight-draconic-power",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const crushingShock46348 = {
   rank: 2,
   skillLineId: "weapon-destruction-staff",
   skillType: "temper-skill-type/active",
-  subcategoryId: "weapon-destruction-staff",
 } as const satisfies TemperSkill

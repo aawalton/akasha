@@ -18,5 +18,4 @@ export const boneShield = {
   rank: 4,
   skillLineId: "guild-undaunted",
   skillType: "temper-skill-type/active",
-  subcategoryId: "guild-undaunted",
 } as const satisfies TemperSkill

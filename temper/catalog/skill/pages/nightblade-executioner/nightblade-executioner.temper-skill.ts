@@ -18,5 +18,4 @@ export const nightbladeExecutioner = {
   rank: 2,
   skillLineId: "nightblade-assassination",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "nightblade-assassination",
 } as const satisfies TemperSkill

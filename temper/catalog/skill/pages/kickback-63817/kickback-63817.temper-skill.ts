@@ -17,5 +17,4 @@ export const kickback63817 = {
   rank: 6,
   skillLineId: "world-legerdemain",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "world-legerdemain",
 } as const satisfies TemperSkill

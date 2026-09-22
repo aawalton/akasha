@@ -17,5 +17,4 @@ export const vengeanceShieldCharge = {
   rank: 1,
   skillLineId: "vengeance-weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-weapon-one-hand-and-shield",
 } as const satisfies TemperSkill

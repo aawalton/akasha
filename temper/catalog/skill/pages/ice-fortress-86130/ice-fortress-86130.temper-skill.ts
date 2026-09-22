@@ -18,5 +18,4 @@ export const iceFortress86130 = {
   rank: 1,
   skillLineId: "warden-winters-embrace",
   skillType: "temper-skill-type/active",
-  subcategoryId: "warden-winters-embrace",
 } as const satisfies TemperSkill

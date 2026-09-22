@@ -18,5 +18,4 @@ export const inevitableDetonation61491 = {
   rank: 7,
   skillLineId: "alliance-war-assault",
   skillType: "temper-skill-type/active",
-  subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

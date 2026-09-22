@@ -18,6 +18,5 @@ export const shadowyDisguise = {
   rank: 8,
   skillLineId: "nightblade-shadow",
   skillType: "temper-skill-type/active",
-  subcategoryId: "nightblade-shadow",
   effects: "jsonl",
 } as const satisfies TemperSkill

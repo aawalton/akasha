@@ -18,7 +18,6 @@ export const undauntedCommand = {
   rank: 2,
   skillLineId: "guild-undaunted",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "guild-undaunted",
   status: "unsupported",
   effects: "jsonl",
 } as const satisfies TemperSkill

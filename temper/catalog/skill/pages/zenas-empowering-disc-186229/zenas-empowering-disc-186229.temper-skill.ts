@@ -18,5 +18,4 @@ export const zenasEmpoweringDisc186229 = {
   rank: 30,
   skillLineId: "arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
-  subcategoryId: "arcanist-curative-runeforms",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const spiritGuardian118912 = {
   rank: 30,
   skillLineId: "necromancer-living-death",
   skillType: "temper-skill-type/active",
-  subcategoryId: "necromancer-living-death",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const battleResurrection39261 = {
   rank: 8,
   skillLineId: "alliance-war-support",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "alliance-war-support",
 } as const satisfies TemperSkill

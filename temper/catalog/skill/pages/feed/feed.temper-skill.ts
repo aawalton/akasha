@@ -18,7 +18,6 @@ export const feed = {
   rank: 1,
   skillLineId: "world-vampire",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "world-vampire",
   status: "unsupported",
   effects: "jsonl",
 } as const satisfies TemperSkill

@@ -17,7 +17,6 @@ export const soulSummons = {
   rank: 2,
   skillLineId: "world-soul-magic",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "world-soul-magic",
   status: "unsupported",
   effects: "jsonl",
 } as const satisfies TemperSkill

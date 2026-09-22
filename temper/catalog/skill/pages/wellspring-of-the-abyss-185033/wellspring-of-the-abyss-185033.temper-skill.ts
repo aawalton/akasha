@@ -18,5 +18,4 @@ export const wellspringOfTheAbyss185033 = {
   rank: 14,
   skillLineId: "arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "arcanist-soldier-of-apocrypha",
 } as const satisfies TemperSkill

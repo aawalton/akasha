@@ -18,5 +18,4 @@ export const wingBuffet = {
   rank: 30,
   skillLineId: "dragonknight-draconic-power",
   skillType: "temper-skill-type/active",
-  subcategoryId: "dragonknight-draconic-power",
 } as const satisfies TemperSkill

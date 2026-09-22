@@ -18,5 +18,4 @@ export const silverLeash40336 = {
   rank: 2,
   skillLineId: "guild-fighters-guild",
   skillType: "temper-skill-type/active",
-  subcategoryId: "guild-fighters-guild",
 } as const satisfies TemperSkill

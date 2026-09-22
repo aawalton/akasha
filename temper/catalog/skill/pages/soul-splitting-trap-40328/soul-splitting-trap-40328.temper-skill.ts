@@ -18,5 +18,4 @@ export const soulSplittingTrap40328 = {
   rank: 1,
   skillLineId: "world-soul-magic",
   skillType: "temper-skill-type/active",
-  subcategoryId: "world-soul-magic",
 } as const satisfies TemperSkill

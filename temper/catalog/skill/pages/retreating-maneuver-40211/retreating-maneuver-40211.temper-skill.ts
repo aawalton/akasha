@@ -18,5 +18,4 @@ export const retreatingManeuver40211 = {
   rank: 5,
   skillLineId: "alliance-war-assault",
   skillType: "temper-skill-type/active",
-  subcategoryId: "alliance-war-assault",
 } as const satisfies TemperSkill

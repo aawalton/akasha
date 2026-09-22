@@ -18,5 +18,4 @@ export const reverseSlice38823 = {
   rank: 20,
   skillLineId: "weapon-two-handed",
   skillType: "temper-skill-type/active",
-  subcategoryId: "weapon-two-handed",
 } as const satisfies TemperSkill

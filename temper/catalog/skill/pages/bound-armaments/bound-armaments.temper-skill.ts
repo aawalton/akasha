@@ -18,6 +18,5 @@ export const boundArmaments = {
   rank: 8,
   skillLineId: "sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
-  subcategoryId: "sorcerer-daedric-summoning",
   effects: "jsonl",
 } as const satisfies TemperSkill

@@ -18,7 +18,6 @@ export const scribedTorchbearerBleedDamage = {
   rank: 1,
   skillLineId: "guild-fighters-guild",
   skillType: "temper-skill-type/active",
-  subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/bleed-damage",
   grimoireId: "temper-grimoire/torchbearer",
 } as const satisfies TemperScribedSkill

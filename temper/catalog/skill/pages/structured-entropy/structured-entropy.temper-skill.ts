@@ -18,5 +18,4 @@ export const structuredEntropy = {
   rank: 12,
   skillLineId: "guild-mages-guild",
   skillType: "temper-skill-type/active",
-  subcategoryId: "guild-mages-guild",
 } as const satisfies TemperSkill

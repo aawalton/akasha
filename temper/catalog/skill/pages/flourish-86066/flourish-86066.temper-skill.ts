@@ -17,5 +17,4 @@ export const flourish86066 = {
   rank: 22,
   skillLineId: "warden-animal-companions",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "warden-animal-companions",
 } as const satisfies TemperSkill

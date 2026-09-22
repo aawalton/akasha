@@ -18,5 +18,4 @@ export const vengeanceFocusedCharge = {
   rank: 1,
   skillLineId: "vengeance-templar-aedric-spear",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-templar-aedric-spear",
 } as const satisfies TemperSkill

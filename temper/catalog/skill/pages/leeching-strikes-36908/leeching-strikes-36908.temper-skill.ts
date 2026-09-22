@@ -18,5 +18,4 @@ export const leechingStrikes36908 = {
   rank: 30,
   skillLineId: "nightblade-siphoning",
   skillType: "temper-skill-type/active",
-  subcategoryId: "nightblade-siphoning",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const twinBladeAndBlunt30893 = {
   rank: 41,
   skillLineId: "weapon-dual-wield",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "weapon-dual-wield",
 } as const satisfies TemperSkill

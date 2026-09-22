@@ -18,5 +18,4 @@ export const augur = {
   rank: 2,
   skillLineId: "world-excavation",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "world-excavation",
 } as const satisfies TemperSkill

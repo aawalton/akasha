@@ -18,5 +18,4 @@ export const vengeanceExpunge = {
   rank: 1,
   skillLineId: "vengeance-necromancer-living-death",
   skillType: "temper-skill-type/active",
-  subcategoryId: "vengeance-necromancer-living-death",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const immovable = {
   rank: 12,
   skillLineId: "armor-heavy-armor",
   skillType: "temper-skill-type/active",
-  subcategoryId: "armor-heavy-armor",
 } as const satisfies TemperSkill

@@ -18,7 +18,6 @@ export const felineAmbush = {
   rank: 3,
   skillLineId: "racial-khajiit-skills",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "racial-khajiit-skills",
   status: "partially-supported",
   effects: "jsonl",
 } as const satisfies TemperSkill

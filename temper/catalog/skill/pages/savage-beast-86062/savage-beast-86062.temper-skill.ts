@@ -18,5 +18,4 @@ export const savageBeast86062 = {
   rank: 14,
   skillLineId: "warden-animal-companions",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "warden-animal-companions",
 } as const satisfies TemperSkill

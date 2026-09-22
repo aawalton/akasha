@@ -18,5 +18,4 @@ export const piercingCold86195 = {
   rank: 39,
   skillLineId: "warden-winters-embrace",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "warden-winters-embrace",
 } as const satisfies TemperSkill

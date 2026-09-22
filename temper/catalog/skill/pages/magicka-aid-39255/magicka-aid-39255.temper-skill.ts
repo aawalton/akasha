@@ -18,5 +18,4 @@ export const magickaAid39255 = {
   rank: 3,
   skillLineId: "alliance-war-support",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "alliance-war-support",
 } as const satisfies TemperSkill

@@ -18,5 +18,4 @@ export const slayer35803 = {
   rank: 3,
   skillLineId: "guild-fighters-guild",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "guild-fighters-guild",
 } as const satisfies TemperSkill

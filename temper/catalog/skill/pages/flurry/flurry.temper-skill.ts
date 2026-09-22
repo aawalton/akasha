@@ -18,5 +18,4 @@ export const flurry = {
   rank: 2,
   skillLineId: "weapon-dual-wield",
   skillType: "temper-skill-type/active",
-  subcategoryId: "weapon-dual-wield",
 } as const satisfies TemperSkill

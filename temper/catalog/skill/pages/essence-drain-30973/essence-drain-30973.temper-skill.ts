@@ -18,5 +18,4 @@ export const essenceDrain30973 = {
   rank: 5,
   skillLineId: "weapon-restoration-staff",
   skillType: "temper-skill-type/passive",
-  subcategoryId: "weapon-restoration-staff",
 } as const satisfies TemperSkill
