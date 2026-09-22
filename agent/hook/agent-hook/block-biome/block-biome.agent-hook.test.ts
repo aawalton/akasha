@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { join } from "node:path"
 import {
   biomeIn,
+  judgedFor,
   refusalIn,
   SCOPE,
 } from "akasha/agent/hook/agent-hook/block-biome/block-biome.agent-hook.code.ts"
@@ -16,6 +17,19 @@ const SCRIPT = join(import.meta.dir, "block-biome.agent-hook.code.ts")
 const ROOT = rootOf(import.meta.path)
 
 const judged = judging(refusalIn, ROOT)
+
+test("the judgement this hook exports refuses what its rule refuses", () => {
+  const said = judgedFor({ tool_input: { command: "biome check ." }, cwd: ROOT })
+
+  expect(parseRefusal(said.out).reason).toContain("block-biome refused this call.")
+})
+
+test("the judgement this hook exports leaves a call its rule lets through alone", () => {
+  const said = judgedFor({ tool_input: { command: "npm run lint" }, cwd: ROOT })
+
+  expect(said.out).toBe("")
+  expect(said.err).toBe("")
+})
 
 test("a call kept out of the command word is read as no biome call, which is the gap", () => {
   expect(judged("H=$(biome check .)")).toBeNull()
