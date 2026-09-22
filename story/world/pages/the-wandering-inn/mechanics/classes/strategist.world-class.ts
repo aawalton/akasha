@@ -6,6 +6,7 @@ export const strategist = {
   slug: "strategist",
   title: "Strategist",
   world: "world/the-wandering-inn",
+  appearanceCount: 306,
   aliases: ["strategists"],
   evolvesToSlugs: ["eleleu-strategos"],
   references: "jsonl",

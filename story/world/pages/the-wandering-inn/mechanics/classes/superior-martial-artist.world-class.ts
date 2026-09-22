@@ -6,6 +6,7 @@ export const superiorMartialArtist = {
   slug: "superior-martial-artist",
   title: "Superior Martial Artist",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   evolvesFromSlugs: ["strongest-martial-artist-of-pomle"],
   evolvesToSlugs: ["fist-of-the-living-world"],
   references: "jsonl",

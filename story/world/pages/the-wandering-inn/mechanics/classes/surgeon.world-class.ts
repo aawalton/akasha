@@ -6,6 +6,7 @@ export const surgeon = {
   slug: "surgeon",
   title: "Surgeon",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   aliases: ["surgeons"],
   evolvesToSlugs: ["psychic-surgeon"],
   references: "jsonl",

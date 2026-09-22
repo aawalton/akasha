@@ -6,6 +6,7 @@ export const tactician = {
   slug: "tactician",
   title: "Tactician",
   world: "world/the-wandering-inn",
+  appearanceCount: 130,
   aliases: ["tacticians"],
   evolvesToSlugs: ["strategist-of-sympathy"],
   references: "jsonl",

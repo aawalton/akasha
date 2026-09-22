@@ -6,5 +6,6 @@ export const supremeMatriarch = {
   slug: "supreme-matriarch",
   title: "Supreme Matriarch",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

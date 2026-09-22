@@ -6,5 +6,6 @@ export const steelforgedWhirlwindLevel38 = {
   slug: "steelforged-whirlwind-level-38",
   title: "Steelforged Whirlwind Level 38.",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

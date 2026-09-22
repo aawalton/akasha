@@ -6,6 +6,7 @@ export const strategistChieftainOfReclamation = {
   slug: "strategist-chieftain-of-reclamation",
   title: "Strategist Chieftain of Reclamation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesFromSlugs: ["strategist-chieftain"],
   references: "jsonl",
 } as const satisfies WorldClass

@@ -6,5 +6,6 @@ export const supplyChainMaster = {
   slug: "supply-chain-master",
   title: "Supply Chain Master",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

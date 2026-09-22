@@ -6,6 +6,7 @@ export const spyOfTheCapturedMoment = {
   slug: "spy-of-the-captured-moment",
   title: "Spy of the Captured Moment",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   evolvesFromSlugs: ["clandestine-spy"],
   references: "jsonl",
 } as const satisfies WorldClass
