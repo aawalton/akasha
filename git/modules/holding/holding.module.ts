@@ -78,7 +78,7 @@ export const holding = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "Two landings over one worktree never overlap.",
+      statement: "Two landings over one checkout never overlap.",
     },
   ],
   directives: [
