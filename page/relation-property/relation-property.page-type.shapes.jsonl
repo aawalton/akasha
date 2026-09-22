@@ -3,6 +3,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-item-action","unique":null,"uniquePropertySlug":null,"slug":"action","propertySlug":"action","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat","unique":null,"uniquePropertySlug":null,"slug":"agent-message-to","propertySlug":"to","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"alias-of","propertySlug":"alias-of","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-alliance","unique":null,"uniquePropertySlug":null,"slug":"alliance","propertySlug":"alliance","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"anchor-image","propertySlug":"anchor","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"answered-by","propertySlug":"answered-by","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"ios-app","unique":null,"uniquePropertySlug":null,"slug":"app","propertySlug":"app","fileName":null,"folderName":null}

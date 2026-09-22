@@ -87,7 +87,6 @@
 {"propertySlug":"name-format","path":"temper/catalog/companion/skill/properties/valid-roles.text-property.ts","id":"01a05fcf-90fe-7faf-8ab5-b05131821f7e"}
 {"propertySlug":"name-format","path":"temper/catalog/companion/temper-eso-companion-equipment-constant/properties/constant-kind.text-property.ts","id":"01a05fcf-246a-7dcf-b177-c235a40a5808"}
 {"propertySlug":"name-format","path":"temper/catalog/companion/temper-eso-companion-equipment-constant/properties/value-text.text-property.ts","id":"01a05fcf-246b-7280-9bef-d656202e06a7"}
-{"propertySlug":"name-format","path":"temper/catalog/companion/temper-eso-companion/properties/alliance.text-property.ts","id":"01a05fcf-2468-7229-a1a7-015a775866de"}
 {"propertySlug":"name-format","path":"temper/catalog/companion/temper-eso-companion/properties/class-passive-id.text-property.ts","id":"01a05fcf-2468-7692-a8d7-4ab20e4f20c6"}
 {"propertySlug":"name-format","path":"temper/catalog/companion/trait/properties/metric-id.text-property.ts","id":"01a05fb0-3ced-7636-a899-431b497b3f1f"}
 {"propertySlug":"name-format","path":"temper/catalog/companion/trait/properties/trait-effect-type.text-property.ts","id":"01a08786-5eff-74dc-8463-bba942e61344"}

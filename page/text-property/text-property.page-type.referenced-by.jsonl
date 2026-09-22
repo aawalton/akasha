@@ -520,7 +520,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion-equipment-constant/properties/constant-kind.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion-equipment-constant/properties/key-text.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion-equipment-constant/properties/value-text.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/alliance.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/class-passive-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/subtitle.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/trait/properties/metric-id.text-property.ts"}

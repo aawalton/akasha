@@ -8,7 +8,7 @@ export const ember = {
   title: "Ember",
   icon: "/esoui/art/icons/comp_ember.dds",
   subtitle: "The Sorcerer",
-  alliance: "aldmeri-dominion",
+  alliance: "temper-alliance/aldmeri-dominion",
   esoCompanionId: 5,
   classPassiveId: "ember-cunning",
   passiveEffects: "jsonl",

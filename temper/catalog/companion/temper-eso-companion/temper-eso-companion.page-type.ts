@@ -9,14 +9,14 @@ export const temperEsoCompanion = {
   parts: [
     "number-property/eso-companion-id",
     "page-property-entry/passive-effects",
-    "text-property/alliance",
+    "relation-property/alliance",
     "text-property/class-passive-id",
     "text-property/subtitle",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/subtitle", required: false, many: false },
-    { pageProperty: "text-property/alliance", required: true, many: false },
+    { pageProperty: "relation-property/alliance", required: true, many: false },
     { pageProperty: "number-property/eso-companion-id", required: true, many: false },
     { pageProperty: "text-property/class-passive-id", required: false, many: false },
     { pageProperty: "page-property-entry/passive-effects", required: false, many: false },

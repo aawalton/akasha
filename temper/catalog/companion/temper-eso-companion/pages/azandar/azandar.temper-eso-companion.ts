@@ -8,7 +8,7 @@ export const azandar = {
   title: "Azandar",
   icon: "/esoui/art/icons/companion_azander.dds",
   subtitle: "The Arcanist",
-  alliance: "daggerfall-covenant",
+  alliance: "temper-alliance/daggerfall-covenant",
   esoCompanionId: 9,
   classPassiveId: "azandar-son-of-kozanset",
   passiveEffects: "jsonl",

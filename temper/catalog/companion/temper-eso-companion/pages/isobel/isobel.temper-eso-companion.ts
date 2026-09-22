@@ -8,7 +8,7 @@ export const isobel = {
   title: "Isobel Veloise",
   icon: "/esoui/art/icons/comp_isobel.dds",
   subtitle: "The Templar",
-  alliance: "daggerfall-covenant",
+  alliance: "temper-alliance/daggerfall-covenant",
   esoCompanionId: 6,
   classPassiveId: "isobel-enchanted",
   passiveEffects: "jsonl",

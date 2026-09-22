@@ -8,7 +8,7 @@ export const bastian = {
   title: "Bastian Hallix",
   icon: "/esoui/art/icons/comp_bastian.dds",
   subtitle: "The Dragonknight",
-  alliance: "daggerfall-covenant",
+  alliance: "temper-alliance/daggerfall-covenant",
   esoCompanionId: 1,
   classPassiveId: "bastian-tough",
   passiveEffects: "jsonl",

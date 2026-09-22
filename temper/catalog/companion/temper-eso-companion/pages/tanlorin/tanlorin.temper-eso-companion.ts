@@ -8,7 +8,7 @@ export const tanlorin = {
   title: "Tanlorin",
   icon: "/esoui/art/icons/u44_companion_tanlorin.dds",
   subtitle: "The Soulweaver",
-  alliance: "aldmeri-dominion",
+  alliance: "temper-alliance/aldmeri-dominion",
   esoCompanionId: 12,
   classPassiveId: "tanlorin-spirited",
   passiveEffects: "jsonl",

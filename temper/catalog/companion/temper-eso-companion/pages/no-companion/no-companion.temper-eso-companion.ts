@@ -6,6 +6,6 @@ export const noCompanion = {
   slug: "no-companion",
   key: "no-companion",
   title: "No Companion",
-  alliance: "none",
+  alliance: "temper-alliance/no-alliance",
   esoCompanionId: 0,
 } as const satisfies TemperEsoCompanion

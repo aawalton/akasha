@@ -8,7 +8,7 @@ export const zerithVar = {
   title: "Zerith-var",
   icon: "/esoui/art/icons/u44_companion_zerith.dds",
   subtitle: "The Necromancer",
-  alliance: "aldmeri-dominion",
+  alliance: "temper-alliance/aldmeri-dominion",
   esoCompanionId: 13,
   classPassiveId: "zerith-var-third-moons-chosen",
   passiveEffects: "jsonl",

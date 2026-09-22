@@ -1,4 +1,4 @@
-import type { Alliance } from "akasha/temper/catalog/companion/temper-eso-companion/properties/alliance.text-property.types.ts"
+import type { Alliance } from "akasha/temper/catalog/companion/temper-eso-companion/properties/alliance.relation-property.types.ts"
 import type { ClassPassiveId } from "akasha/temper/catalog/companion/temper-eso-companion/properties/class-passive-id.text-property.types.ts"
 import type { EsoCompanionId } from "akasha/temper/catalog/companion/temper-eso-companion/properties/eso-companion-id.number-property.types.ts"
 import type { PassiveEffects } from "akasha/temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.types.ts"

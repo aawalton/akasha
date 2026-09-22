@@ -4632,6 +4632,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/companion-skill-line.relation-property.ts","id":"01a0cad6-787b-7695-9873-1e5fd26d5b56"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/nested-effect.record-property.ts","id":"01a06196-037c-704b-a0d5-349064c3a709"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/temper-eso-companion/properties/alliance.relation-property.ts","id":"01a0cb4e-2ed1-7e8e-a8c9-ff9076977804"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/thing/temper-companion-thing.page-type.ts","id":"01a05fcc-694c-762c-bcd1-1691361636e2"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/apply-invalidations/apply-invalidations.module.ts","id":"01a06071-0c76-73c9-ae39-c266d45d6492"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/batch-config/batch-config.module.ts","id":"01a06071-0c77-7e96-8044-2bad3e05b280"}

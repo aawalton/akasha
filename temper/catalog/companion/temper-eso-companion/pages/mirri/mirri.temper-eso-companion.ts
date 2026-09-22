@@ -8,7 +8,7 @@ export const mirri = {
   title: "Mirri Elendis",
   icon: "/esoui/art/icons/comp_mirri.dds",
   subtitle: "The Nightblade",
-  alliance: "ebonheart-pact",
+  alliance: "temper-alliance/ebonheart-pact",
   esoCompanionId: 2,
   classPassiveId: "mirri-dynamic",
   passiveEffects: "jsonl",

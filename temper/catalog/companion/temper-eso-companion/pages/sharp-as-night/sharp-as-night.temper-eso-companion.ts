@@ -8,7 +8,7 @@ export const sharpAsNight = {
   title: "Sharp-as-Night",
   icon: "/esoui/art/icons/companion_sharp.dds",
   subtitle: "The Warden",
-  alliance: "ebonheart-pact",
+  alliance: "temper-alliance/ebonheart-pact",
   esoCompanionId: 8,
   classPassiveId: "sharp-survivalist",
   passiveEffects: "jsonl",
