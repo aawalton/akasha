@@ -5,7 +5,7 @@ export const aliases = {
   type: "page-type/text-property",
   slug: "aliases",
   propertySlug: "aliases",
-  definition: "another name the text writes a thing under",
+  definition: "another name the text gives a thing",
   maxLength: 200,
   nameFormat: null,
   decisions: [

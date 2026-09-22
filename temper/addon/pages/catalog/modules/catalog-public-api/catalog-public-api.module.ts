@@ -4,7 +4,7 @@ export const catalogPublicApi = {
   id: "01a063ba-94e5-75b2-87c7-9dffc0a06b28",
   type: "page-type/module",
   slug: "catalog-public-api",
-  definition: "the global another add-on reaches the collected catalog table through",
+  definition: "the global opening the collected catalog table to another add-on",
   code: "ts",
   decisions: [
     {

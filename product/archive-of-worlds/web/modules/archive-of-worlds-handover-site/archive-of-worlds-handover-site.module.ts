@@ -4,8 +4,7 @@ export const archiveOfWorldsHandoverSite = {
   id: "01a0bb92-4d60-7a2d-a44a-b6ab161a858c",
   type: "page-type/module",
   slug: "archive-of-worlds-handover-site",
-  definition:
-    "what the archive is called in a handover, where it answers, and the key it signs with",
+  definition: "what the archive is called in a handover, where it answers, and its signing key",
   code: "ts",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const arcStructure = {
   type: "page-type/file-property",
   slug: "arc-structure",
   propertySlug: "arc-structure",
-  definition: "the arcs a story is planned to run through",
+  definition: "the arcs a story is planned to run",
   extensions: ["md"],
   decisions: [
     {

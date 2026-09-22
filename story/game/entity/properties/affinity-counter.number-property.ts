@@ -5,7 +5,7 @@ export const affinityCounter = {
   type: "page-type/number-property",
   slug: "affinity-counter",
   propertySlug: "counter",
-  definition: "how far an affinity has come within the tier it sits in",
+  definition: "how far an affinity has come within its own tier",
   nullable: false,
   max: null,
   types: "ts",

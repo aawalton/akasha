@@ -5,6 +5,6 @@ export const smsConsentPhone = {
   type: "page-type/phone-number-property",
   slug: "sms-consent-phone",
   propertySlug: "phone",
-  definition: "the number the person agreed to be reached on",
+  definition: "the person's agreed number",
   types: "ts",
 } as const satisfies PhoneNumberProperty

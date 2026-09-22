@@ -4,7 +4,7 @@ export const companionQolConstants = {
   id: "01a0611d-84c6-7e76-97f3-a24fa6b91e9a",
   type: "page-type/module",
   slug: "companion-qol-constants",
-  definition: "the settings the quality-of-life code starts out with",
+  definition: "the quality-of-life code's starting settings",
   code: "ts",
   decisions: [
     {

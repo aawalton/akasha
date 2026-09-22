@@ -5,7 +5,7 @@ export const chapterNumber = {
   type: "page-type/number-property",
   slug: "chapter-number",
   propertySlug: "chapter-number",
-  definition: "the chapter of a story something is read as of",
+  definition: "the chapter of a story marking how current something is",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

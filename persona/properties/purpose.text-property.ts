@@ -5,7 +5,7 @@ export const purpose = {
   type: "page-type/text-property",
   slug: "purpose",
   propertySlug: "purpose",
-  definition: "what a persona is for",
+  definition: "a persona's purpose",
   maxLength: 500,
   nameFormat: null,
   types: "ts",

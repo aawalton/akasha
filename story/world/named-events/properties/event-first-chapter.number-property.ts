@@ -5,7 +5,7 @@ export const eventFirstChapter = {
   type: "page-type/number-property",
   slug: "event-first-chapter",
   propertySlug: "first-chapter",
-  definition: "the earliest chapter it can have happened in",
+  definition: "the earliest chapter holding the event",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

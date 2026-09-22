@@ -4,7 +4,7 @@ export const gameLocation = {
   id: "01a0c642-a40f-7f5e-8d0d-b1f9226535ca",
   type: "page-type/page-type",
   slug: "game-location",
-  definition: "a place a game is played through",
+  definition: "a place a game is played",
   pluralSlug: "locations",
   extends: ["page-type/page"],
   runsTabooCheck: false,

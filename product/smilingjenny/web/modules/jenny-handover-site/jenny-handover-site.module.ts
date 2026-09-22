@@ -4,8 +4,7 @@ export const jennyHandoverSite = {
   id: "01a0c1e4-5f22-7a90-b8d1-3c7e9a4b2f08",
   type: "page-type/module",
   slug: "jenny-handover-site",
-  definition:
-    "what Jenny's site is called in a handover, where it answers, and the key it signs with",
+  definition: "what Jenny's site is called in a handover, where it answers, and its signing key",
   code: "ts",
   decisions: [
     {

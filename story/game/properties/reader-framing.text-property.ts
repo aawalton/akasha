@@ -5,7 +5,7 @@ export const readerFraming = {
   type: "page-type/text-property",
   slug: "reader-framing",
   propertySlug: "reader-framing",
-  definition: "the person and tense a game is told in",
+  definition: "the person and tense of a game's telling",
   maxLength: 300,
   nameFormat: null,
   types: "ts",
