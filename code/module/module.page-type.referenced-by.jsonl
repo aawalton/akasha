@@ -6011,6 +6011,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-progress/completion-cadwell-progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-sort/completion-cadwell-sort.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-tally/completion-cadwell-tally.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-id/completion-card-id.module.ts"}

@@ -5339,6 +5339,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.ts","id":"01a06358-4f7c-7d6d-8881-1e898924e3ff"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-progress/completion-cadwell-progress.module.ts","id":"01a06358-4f7c-7c27-bdbb-10ed9f4e7578"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-sort/completion-cadwell-sort.module.ts","id":"01a06108-2feb-7a2d-9ef6-57df269ec508"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-tally/completion-cadwell-tally.module.ts","id":"01a0c960-6cb4-73ec-b22b-1d3488ca94e8"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.ts","id":"01a0640c-1e9a-73f9-8755-c19243c58c9d"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-id/completion-card-id.module.ts","id":"01a06103-061b-7c11-a311-6a30a8548331"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.ts","id":"01a0c68c-bdb9-7f89-8784-301fd414ad08"}

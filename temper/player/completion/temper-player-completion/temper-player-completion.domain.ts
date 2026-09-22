@@ -22,6 +22,7 @@ export const temperPlayerCompletion = {
     "module/completion-cadwell-lookup",
     "module/completion-cadwell-progress",
     "module/completion-cadwell-sort",
+    "module/completion-cadwell-tally",
     "module/completion-card-checker-types",
     "module/completion-card-checkers",
     "module/completion-card-id",

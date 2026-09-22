@@ -1,6 +1,7 @@
 import { getEsoDateString } from "akasha/temper/player/character/formula-framework/modules/eso-date/eso-date.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { countCadwell } from "akasha/temper/player/completion/temper-player-completion/modules/completion-cadwell-tally/completion-cadwell-tally.module.code.ts"
 import type { CompletionCardChecker } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { isLoreLibraryItemComplete } from "akasha/temper/player/completion/temper-player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
@@ -272,6 +273,16 @@ export const COMPLETION_CARD_CHECKERS: Partial<Record<CharacterCardId, Completio
         return { current: 0, total: DAILY_WRIT_TOTAL }
       }
       return { current: dailyWrits.completed, total: DAILY_WRIT_TOTAL }
+    },
+  },
+
+  "cadwells-almanac": {
+    isCardComplete(completion) {
+      const counted = countCadwell(completion?.cadwell)
+      return counted !== undefined && counted.total > 0 && counted.current >= counted.total
+    },
+    getItemProgress(completion, itemPath) {
+      return countCadwell(completion?.cadwell, itemPath)
     },
   },
 

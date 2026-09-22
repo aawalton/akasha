@@ -24,6 +24,8 @@
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.test.ts"}
+{"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-tally/completion-cadwell-tally.module.code.ts"}
+{"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-tally/completion-cadwell-tally.module.test.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"}
