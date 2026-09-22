@@ -1,15 +1,24 @@
+import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { initializeTabs } from "akasha/temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
 import { createMovableWindow } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
+import {
+  drawSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-02/eso-objects-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
+const PANEL_OPACITY = 0.8
+const PANEL_LEVEL: SurfaceLevel = 1
+const BORDER_OPACITY = 0.1
+
 let window: TopLevelWindow | undefined
 let windowFragment: SceneFragment | undefined
 
-export function showWindow(): undefined {
+function showWindow(): undefined {
   if (!window) {
     initializeWindow()
   }
@@ -75,11 +84,8 @@ function initializeWindow(): undefined {
   hudScene.RegisterCallback("StateChange", onStateChange)
   hudUIScene.RegisterCallback("StateChange", onStateChange)
 
-  const bg = WINDOW_MANAGER.CreateControl("$(parent)BG", tlw, CT_BACKDROP)
-  bg.SetAnchorFill()
-  bg.SetCenterColor(0, 0, 0, 0.8)
-  bg.SetEdgeColor(0.7, 0.7, 0.7, 1)
-  bg.SetEdgeTexture(undefined, 1, 1, 1)
+  const bg = drawSurface(tlw, PANEL_LEVEL, PANEL_OPACITY)
+  bg.SetEdgeColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], BORDER_OPACITY)
 
   const title = WINDOW_MANAGER.CreateControl("$(parent)Title", tlw, CT_LABEL)
   title.SetAnchor(TOPLEFT, tlw, TOPLEFT, 20, 20)

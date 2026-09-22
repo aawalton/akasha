@@ -55,6 +55,10 @@ import type {
   FilterId,
   FilterValue,
 } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
+import {
+  drawSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const WINDOW_NAME = "TemperItemsListingsBrowse"
@@ -63,6 +67,8 @@ const GROUP_GAP = 12
 const FILTER_ROW_HEIGHT = CONTROL_HEIGHT + PADDING_Y * 2
 const MAX_VISIBLE_ROWS = 50
 const WINDOW_PAD = 12
+const PANEL_OPACITY = 0.7
+const PANEL_LEVEL: SurfaceLevel = 1
 
 const GROUP_LABELS: Record<FilterGroup, string> = {
   quality: "Quality",
@@ -91,11 +97,7 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
   tlw.SetClampedToScreen(true)
   tlw.SetMovable(true)
 
-  const bg = WINDOW_MANAGER.CreateControl("$(parent)BG", tlw, CT_BACKDROP)
-  bg.SetAnchorFill()
-  bg.SetCenterColor(0, 0, 0, 0.7)
-  bg.SetEdgeColor(0, 0, 0, 0)
-  bg.SetEdgeTexture(undefined, 1, 1, 1)
+  drawSurface(tlw, PANEL_LEVEL, PANEL_OPACITY)
 
   const active = new Map<FilterId, FilterValue>()
 

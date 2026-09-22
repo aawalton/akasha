@@ -1,4 +1,3 @@
-import { SURFACE_1 } from "akasha/design/interface/token/modules/surface-color/surface-color.module.code.ts"
 import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { quantityInView } from "akasha/temper/addon/pages/items/modules/inventory-browser-locations/inventory-browser-locations.module.code.ts"
 import type {
@@ -11,6 +10,10 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { createMovableWindow } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
+import {
+  drawSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
@@ -39,6 +42,7 @@ const TITLE_HEIGHT = 30
 const TOOLBAR_HEIGHT = 90
 const SEARCHBAR_HEIGHT = 30
 const PANEL_OPACITY = 0.85
+const PANEL_LEVEL: SurfaceLevel = 1
 
 const DOCK_OFFSET_X = -20
 const DOCK_OFFSET_TOP = 16
@@ -129,11 +133,7 @@ export function createBrowserWindow(): BrowserWindowHandle {
   frame.SetDimensions(DEFAULT_WIDTH, DEFAULT_HEIGHT)
   frame.SetClampedToScreen(true)
 
-  const bg = WINDOW_MANAGER.CreateControl("$(parent)BG", frame, CT_BACKDROP)
-  bg.SetAnchorFill()
-  bg.SetCenterColor(SURFACE_1[0], SURFACE_1[1], SURFACE_1[2], PANEL_OPACITY)
-  bg.SetEdgeColor(0, 0, 0, 0)
-  bg.SetEdgeTexture(undefined, 1, 1, 1)
+  drawSurface(frame, PANEL_LEVEL, PANEL_OPACITY)
 
   const title = WINDOW_MANAGER.CreateControl("$(parent)Title", frame, CT_LABEL)
   title.SetAnchor(TOPLEFT, frame, TOPLEFT, PADDING, PADDING)
