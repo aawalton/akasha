@@ -1,4 +1,4 @@
-import { ADDON_NAME } from "akasha/temper/addon/pages/world/quests/modules/quests-constants/quests-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
 import type { ChatterOptionKind } from "akasha/temper/addon/pages/world/quests/modules/quests-decide/quests-decide.module.code.ts"
 import { luaStringContains } from "akasha/temper/addon/shared/narrow/modules/lua-string-contains/lua-string-contains.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"

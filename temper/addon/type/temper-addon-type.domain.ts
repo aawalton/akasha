@@ -40,7 +40,6 @@ export const temperAddonType = {
     "type-declaration/temper-hud-global",
     "type-declaration/temper-inventory-global",
     "type-declaration/temper-keybinder-global",
-    "type-declaration/temper-quests-global",
     "type-declaration/temper-saved-variables-global",
   ],
 } as const satisfies Domain

@@ -253,6 +253,15 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
+    runFor: "TemperWorld",
+    spec: {
+      absorbedFileBase: "TemperQuests",
+      absorbedGlobal: "TemperQuests_SavedVariables",
+      targetFileBase: "TemperWorld",
+    },
+  },
+  {
+    mode: "append",
     runFor: "TemperInterface",
     spec: {
       absorbedFileBase: "TemperNoThankYou",

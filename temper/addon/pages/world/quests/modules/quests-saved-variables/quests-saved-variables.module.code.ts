@@ -59,7 +59,7 @@ export function computeCarriedToggles(old: unknown): {
 
 export function getSavedVariables(): SavedVariablesData {
   if (savedVarsInstance === undefined) {
-    throw new Error("TemperQuests SavedVariables not initialized")
+    throw new Error("quests saved variables not initialized")
   }
   return savedVarsInstance
 }

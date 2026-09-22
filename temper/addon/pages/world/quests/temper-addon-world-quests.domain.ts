@@ -14,7 +14,6 @@ export const temperAddonWorldQuests = {
     "module/quests-constants",
     "module/quests-decide",
     "module/quests-entry",
-    "module/quests-public-api",
     "module/quests-saved-variables",
     "module/quests-slash-command",
     "module/quests-trace",

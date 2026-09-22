@@ -11,7 +11,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperAutoQuestTrace as page } from "akasha/command/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.ts"
-import { TEMPER_QUESTS_SAVED_VARIABLES } from "akasha/temper/addon/pages/world/quests/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
+import { AUTO_QUEST_SAVED_VARIABLES } from "akasha/temper/addon/pages/world/quests/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
@@ -20,7 +20,7 @@ const NAMED = [json, questTracePath]
 
 const SAVED_VARIABLES_NAME = "TemperQuests_SavedVariables"
 
-const CAPTURE_FILE = "TemperQuests.lua"
+const CAPTURE_FILE = "TemperWorld.lua"
 
 const NOTHING_CAPTURED =
   "holds no captured trace, so nothing here is an empty run rather than an unread one"
@@ -110,7 +110,7 @@ export function temperAutoQuestTrace(argv: readonly string[], given: Given): Ans
   let entries: readonly TraceEntry[]
   try {
     const raw = parseLuaSavedVariablesFile(content, SAVED_VARIABLES_NAME)
-    entries = entriesIn(TEMPER_QUESTS_SAVED_VARIABLES.parse(raw) as CaptureRoot)
+    entries = entriesIn(AUTO_QUEST_SAVED_VARIABLES.parse(raw) as CaptureRoot)
   } catch (thrown) {
     return refused(`${tracePath} holds no trace this reads: ${saidShort(thrown)}`, DATA)
   }

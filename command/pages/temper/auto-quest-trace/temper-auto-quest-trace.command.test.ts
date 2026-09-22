@@ -19,10 +19,10 @@ test("a flag this takes no argument for is refused before a capture is read", ()
 })
 
 test("a word this takes no argument for is refused before a capture is read", () => {
-  const said = temperAutoQuestTrace(["TemperQuests.lua"], GIVEN)
+  const said = temperAutoQuestTrace(["TemperWorld.lua"], GIVEN)
 
   expect(said.code).toBe(INPUT)
-  expect(said.refusals.join("\n")).toContain("`TemperQuests.lua` is no argument")
+  expect(said.refusals.join("\n")).toContain("`TemperWorld.lua` is no argument")
 })
 
 test("the path said twice is refused rather than read as the first saying", () => {
@@ -33,8 +33,8 @@ test("the path said twice is refused rather than read as the first saying", () =
 })
 
 test("a path carrying no capture is refused rather than reported empty", () => {
-  const said = temperAutoQuestTrace(["--file-path", "/nowhere/TemperQuests.lua"], GIVEN)
+  const said = temperAutoQuestTrace(["--file-path", "/nowhere/TemperWorld.lua"], GIVEN)
 
   expect(said.code).toBe(DATA)
-  expect(said.refusals.join("\n")).toContain("no capture is at /nowhere/TemperQuests.lua")
+  expect(said.refusals.join("\n")).toContain("no capture is at /nowhere/TemperWorld.lua")
 })

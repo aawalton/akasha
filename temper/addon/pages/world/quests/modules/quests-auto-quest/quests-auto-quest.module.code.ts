@@ -1,9 +1,9 @@
+import { ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
 import {
   applyFoliumBranch,
   classifyOptionType,
   type RawOption,
 } from "akasha/temper/addon/pages/world/quests/modules/quests-classify/quests-classify.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/addon/pages/world/quests/modules/quests-constants/quests-constants.module.code.ts"
 import {
   type AutoQuestMemory,
   type AutoQuestSnapshot,

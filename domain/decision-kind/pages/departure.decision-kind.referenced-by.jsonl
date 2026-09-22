@@ -4399,7 +4399,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/quests-constants/quests-constants.module.ts","id":"01a0635f-391c-775e-86c4-3735dadf76f5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/quests-decide/quests-decide.module.ts","id":"01a0635f-391c-78a5-84e9-0cc44f22b3f1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/quests-entry/quests-entry.module.ts","id":"01a0635f-391c-75b0-b95a-d199d158f50a"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/quests-public-api/quests-public-api.module.ts","id":"01a0635f-391c-7877-ac21-ad273512b197"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/quests-saved-variables/quests-saved-variables.module.ts","id":"01a0635f-391c-721c-be7d-e4fb741328a6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/quests-slash-command/quests-slash-command.module.ts","id":"01a0635f-391c-7ae6-a1ab-5e89ac12419c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/quests/modules/quests-trace-buffer/quests-trace-buffer.module.ts","id":"01a0635f-391c-740a-af70-4aa092d380b2"}

@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import {
+  AUTO_QUEST_SAVED_VARIABLES,
   AUTO_QUEST_TRACE_ENTRY,
-  TEMPER_QUESTS_SAVED_VARIABLES,
 } from "akasha/temper/addon/pages/world/quests/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 
 describe("auto-quest-trace", () => {
@@ -42,14 +42,14 @@ describe("auto-quest-trace", () => {
   })
 
   test("a trace the addon never wrote reads back as no entries", () => {
-    const parsed = TEMPER_QUESTS_SAVED_VARIABLES.parse({
+    const parsed = AUTO_QUEST_SAVED_VARIABLES.parse({
       Default: { "@someone": { $AccountWide: {} } },
     })
     expect(parsed.Default?.["@someone"]?.$AccountWide?.autoQuestDebugTrace).toBeUndefined()
   })
 
   test("a saved-variables table keeps a field beyond the trace", () => {
-    const parsed = TEMPER_QUESTS_SAVED_VARIABLES.parse({
+    const parsed = AUTO_QUEST_SAVED_VARIABLES.parse({
       Default: { "@someone": { $AccountWide: { autoQuestDebugTrace: [], somethingElse: 4 } } },
       Version: 1,
     })

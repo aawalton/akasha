@@ -4,13 +4,9 @@ export const questsConstants = {
   id: "01a0635f-391c-775e-86c4-3735dadf76f5",
   type: "page-type/module",
   slug: "quests-constants",
-  definition: "the name the addon loads under and the name its saved variables are kept under",
+  definition: "the name the quests saved variables are kept under and the version of their layout",
   code: "ts",
   decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The saved-variables name is built from the addon name.",
-    },
     {
       decisionKind: "decision-kind/departure",
       statement: "The saved-variables layout has the version the layout was written under.",

@@ -1,5 +1,6 @@
 import "akasha/temper/addon/type/temper-hud-global/temper-hud-global.type-declaration.d.ts"
 
+import { ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
 import {
   toggleAutoQuest,
   toggleAutoQuestDebug,
@@ -13,11 +14,11 @@ export function registerSlashCommands(): undefined {
   globalThis.TemperHud?.registerCommand({
     name: "/temperautoquest",
     description: "Toggle auto-quest on/off",
-    addon: "TemperQuests",
+    addon: ADDON_NAME,
   })
   globalThis.TemperHud?.registerCommand({
     name: "/temperautoquestdebug",
     description: "Toggle auto-quest debug logging",
-    addon: "TemperQuests",
+    addon: ADDON_NAME,
   })
 }

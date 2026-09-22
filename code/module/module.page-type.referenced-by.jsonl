@@ -4642,7 +4642,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quests/modules/quests-constants/quests-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quests/modules/quests-decide/quests-decide.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quests/modules/quests-entry/quests-entry.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quests/modules/quests-public-api/quests-public-api.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quests/modules/quests-saved-variables/quests-saved-variables.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quests/modules/quests-slash-command/quests-slash-command.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/quests/modules/quests-trace-buffer/quests-trace-buffer.module.ts"}

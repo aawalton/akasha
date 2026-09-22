@@ -56,7 +56,7 @@ const ACCOUNT_WIDE = z
   })
   .passthrough()
 
-export const TEMPER_QUESTS_SAVED_VARIABLES = savedVariablesRootSchema(ACCOUNT_WIDE)
+export const AUTO_QUEST_SAVED_VARIABLES = savedVariablesRootSchema(ACCOUNT_WIDE)
 
 export type AutoQuestTraceEntry = z.infer<typeof AUTO_QUEST_TRACE_ENTRY>
-export type TemperQuestsSavedVariables = z.infer<typeof TEMPER_QUESTS_SAVED_VARIABLES>
+export type AutoQuestSavedVariables = z.infer<typeof AUTO_QUEST_SAVED_VARIABLES>

@@ -4,10 +4,12 @@ import "akasha/temper/addon/pages/world/navigation/modules/navigation-entry/navi
 
 import { ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
 import { onAddOnLoaded as initNavigation } from "akasha/temper/addon/pages/world/navigation/modules/navigation-loaded/navigation-loaded.module.code.ts"
+import { initQuests } from "akasha/temper/addon/pages/world/quests/modules/quests-entry/quests-entry.module.code.ts"
 import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
 
 function onAddOnLoaded(this: void): undefined {
   initNavigation()
+  initQuests()
   return undefined
 }
 
