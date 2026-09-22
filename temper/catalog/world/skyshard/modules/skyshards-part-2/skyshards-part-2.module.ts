@@ -4,8 +4,7 @@ export const skyshardsPart2 = {
   id: "01a061a8-9c68-7dbc-9cfd-2233e1f9d277",
   type: "page-type/module",
   slug: "skyshards-part-2",
-  definition:
-    "one run of the skyshard placement table, in the order the whole table names its maps",
+  definition: "a run of the skyshard placement table, in the order the whole table names its maps",
   code: "ts",
   decisions: [
     {
