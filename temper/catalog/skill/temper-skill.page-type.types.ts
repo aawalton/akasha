@@ -8,7 +8,7 @@ import type { MorphIndex } from "akasha/temper/catalog/skill/properties/morph-in
 import type { SkillRank } from "akasha/temper/catalog/skill/properties/skill-rank.number-property.types.ts"
 import type { SkillStatus } from "akasha/temper/catalog/skill/properties/skill-status.text-property.types.ts"
 import type { SkillLineId } from "akasha/temper/catalog/thing/properties/skill-line-id.text-property.types.ts"
-import type { SkillType } from "akasha/temper/catalog/thing/properties/skill-type.text-property.types.ts"
+import type { SkillType } from "akasha/temper/catalog/thing/properties/skill-type.relation-property.types.ts"
 import type { SubcategoryId } from "akasha/temper/catalog/thing/properties/subcategory-id.text-property.types.ts"
 import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"

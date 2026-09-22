@@ -7,7 +7,7 @@ import type { Tags } from "akasha/temper/catalog/companion/skill/properties/tags
 import type { ValidRoles } from "akasha/temper/catalog/companion/skill/properties/valid-roles.text-property.types.ts"
 import type { TemperCompanionThing } from "akasha/temper/catalog/companion/thing/temper-companion-thing.page-type.types.ts"
 import type { SkillLineId } from "akasha/temper/catalog/thing/properties/skill-line-id.text-property.types.ts"
-import type { SkillType } from "akasha/temper/catalog/thing/properties/skill-type.text-property.types.ts"
+import type { SkillType } from "akasha/temper/catalog/thing/properties/skill-type.relation-property.types.ts"
 import type { CompanionId } from "akasha/temper/thing/properties/companion-id.text-property.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
 

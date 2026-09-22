@@ -72,7 +72,7 @@ export const temperCompanionSkill = {
     { pageProperty: "text-property/companion-id", required: true, many: false },
     { pageProperty: "number-property/ability-id", required: true, many: false },
     { pageProperty: "text-property/skill-line-id", required: true, many: false },
-    { pageProperty: "text-property/skill-type", required: true, many: false },
+    { pageProperty: "relation-property/skill-type", required: true, many: false },
     { pageProperty: "text-property/description", required: true, many: false },
     { pageProperty: "text-property/valid-roles", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/tags", required: false, many: true, maxCount: null },

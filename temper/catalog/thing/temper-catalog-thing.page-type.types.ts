@@ -7,7 +7,7 @@ import type { ItemId } from "akasha/temper/catalog/thing/properties/item-id.numb
 import type { Material } from "akasha/temper/catalog/thing/properties/material.text-property.types.ts"
 import type { QualityValues } from "akasha/temper/catalog/thing/properties/quality-values.page-property-entry.types.ts"
 import type { SkillLineId } from "akasha/temper/catalog/thing/properties/skill-line-id.text-property.types.ts"
-import type { SkillType } from "akasha/temper/catalog/thing/properties/skill-type.text-property.types.ts"
+import type { SkillType } from "akasha/temper/catalog/thing/properties/skill-type.relation-property.types.ts"
 import type { SubcategoryId } from "akasha/temper/catalog/thing/properties/subcategory-id.text-property.types.ts"
 import type { TemperThing } from "akasha/temper/thing/temper-thing.page-type.types.ts"
 

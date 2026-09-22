@@ -122,7 +122,6 @@
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/effect-weapon-types.text-property.ts","id":"01a05fe0-8428-7862-8b91-5d946d0ec754"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/quality.text-property.ts","id":"01a05fb0-3ced-77db-9e30-4e6234c93115"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/skill-line-id.text-property.ts","id":"01a05fba-ce3b-7214-b302-f798be22e99e"}
-{"propertySlug":"name-format","path":"temper/catalog/thing/properties/skill-type.text-property.ts","id":"01a05fba-ce3b-7869-b428-d3dd2f8703d7"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/slotted-behavior.text-property.ts","id":"01a05fe0-8426-7594-8834-eb02a3965edd"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/subcategory-id.text-property.ts","id":"01a05fba-ce3b-7c4b-adf4-7b752fef3058"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/value-type.text-property.ts","id":"01a05fe0-8427-7a16-b94d-45c0b105ce0a"}
