@@ -11,71 +11,72 @@ export function registerUiStrings(this: void): undefined {
   const companionKeybindBaseStr = `Show/hide ${companionStr}`
 
   const stringsEN: Record<string, string> = {
-    COMPANION_QOL_NO_COMPANION_UNLOCKED_YET: `[Temper] You did not unlock any ${GetString(
+    SI_TEMPER_COMPANION_NO_COMPANION_UNLOCKED_YET: `[Temper] You did not unlock any ${GetString(
       SI_UNIT_FRAME_NAME_COMPANION
     )} yet. Please finish and turn in any of the unlock quests first and reload the UI afterwards!`,
-    COMPANION_QOL_TOGGLE_COMPANION: `${companionKeybindBaseStr} (last)`,
+    SI_TEMPER_COMPANION_TOGGLE_COMPANION: `${companionKeybindBaseStr} (last)`,
 
-    COMPANION_QOL_LAM_SV_MODE: "Settings save mode",
-    COMPANION_QOL_LAM_SV_MODE_TT:
+    SI_TEMPER_COMPANION_LAM_SV_MODE: "Settings save mode",
+    SI_TEMPER_COMPANION_LAM_SV_MODE_TT:
       "Use account wide settings (the same for all your characters) or save them individually for each character?",
-    COMPANION_QOL_LAM_SV_EACH_CHARACTER: "Each character",
-    COMPANION_QOL_LAM_SV_ACCOUNT_WIDE: "Account wide",
+    SI_TEMPER_COMPANION_LAM_SV_EACH_CHARACTER: "Each character",
+    SI_TEMPER_COMPANION_LAM_SV_ACCOUNT_WIDE: "Account wide",
 
-    COMPANION_QOL_LAM_SETTING_HEADER_CRAFTING: GetString(SI_SKILLTYPE8),
-    COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CRAFTING_TABLE: "Dismiss at crafting table",
-    COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CRAFTING_TABLE_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_HEADER_CRAFTING: GetString(SI_SKILLTYPE8),
+    SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_CRAFTING_TABLE: "Dismiss at crafting table",
+    SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_CRAFTING_TABLE_TT:
       "Hide your active companion if you interact with a crafting table",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CRAFTING_TABLE: "Re-summon after crafting table",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CRAFTING_TABLE_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_CRAFTING_TABLE: "Re-summon after crafting table",
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_CRAFTING_TABLE_TT:
       "Summon your last active companion again after leaving the crafting table",
 
-    COMPANION_QOL_LAM_SETTING_HEADER_BANKS: GetString(SI_CURRENCYLOCATION1),
-    COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_BANK: "Dismiss at bank",
-    COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_BANK_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_HEADER_BANKS: GetString(SI_CURRENCYLOCATION1),
+    SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_BANK: "Dismiss at bank",
+    SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_BANK_TT:
       "Hide your active companion if you interact with a bank",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_BANK: "Re-summon after bank",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_BANK_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_BANK: "Re-summon after bank",
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_BANK_TT:
       "Summon your last active companion again after leaving the bank",
 
-    COMPANION_QOL_LAM_SETTING_HEADER_VENDORS: GetString(SI_MAPDISPLAYFILTER2),
-    COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_VENDOR: "Dismiss at vendor/fence",
-    COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_VENDOR_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_HEADER_VENDORS: GetString(SI_MAPDISPLAYFILTER2),
+    SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_VENDOR: "Dismiss at vendor/fence",
+    SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_VENDOR_TT:
       "Hide your active companion if you interact with a vendor/fence",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_VENDOR: "Re-summon after vendor/fence",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_VENDOR_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_VENDOR: "Re-summon after vendor/fence",
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_VENDOR_TT:
       "Summon your last active companion again after leaving the vendor/fence",
 
-    COMPANION_QOL_LAM_SETTING_HEADER_FISHING: GetString(SI_GUILDACTIVITYATTRIBUTEVALUE9),
-    COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_FISHING: "Dismiss at Fish hole",
-    COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_FISHING_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_HEADER_FISHING: GetString(SI_GUILDACTIVITYATTRIBUTEVALUE9),
+    SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_FISHING: "Dismiss at Fish hole",
+    SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_FISHING_TT:
       "Hide your active companion if you interact with a fish hole",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_FISHING: "Re-summon after fishing",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_FISHING_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_FISHING: "Re-summon after fishing",
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_FISHING_TT:
       "Summon your last active companion again after leaving the fish hole.\n'Leaving the fish hole' means at the end of a fishing attempt, after the delay of milliseconds you setup below. If a new fishing attempt is started before the delay was met, the re-summon will be aborted.",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_FISHING_DELAY: "Re-summon delay after fishing",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_FISHING_DELAY_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_FISHING_DELAY: "Re-summon delay after fishing",
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_FISHING_DELAY_TT:
       "Delay the re-summoning after ending the fishing hole interaction with this milliseconds value (1000 = 1 second)",
 
-    COMPANION_QOL_LAM_SETTING_HEADER_CROUCH: GetString(SI_BINDING_NAME_SPECIAL_MOVE_CROUCH),
-    COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CROUCHING: "Dismiss at crouching",
-    COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CROUCHING_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_HEADER_CROUCH: GetString(SI_BINDING_NAME_SPECIAL_MOVE_CROUCH),
+    SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_CROUCHING: "Dismiss at crouching",
+    SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_CROUCHING_TT:
       "Hide your active companion if you start to crouch",
-    COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CROUCHING_NO_COMBAT: "Not in combat",
-    COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CROUCHING_NO_COMBAT_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_CROUCHING_NO_COMBAT: "Not in combat",
+    SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_CROUCHING_NO_COMBAT_TT:
       "Only hide the companion if you are not in combat, as you start to crouch",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CROUCHING: "Re-summon after crouching",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CROUCHING_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_CROUCHING: "Re-summon after crouching",
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_CROUCHING_TT:
       "Summon your last active companion again after leaving the crouched state.\n'Leaving the crouched state' means as you get unhidden or stop to crouch the delay of milliseconds you setup below will be waited until the re-summon takes place. If you start to crouch again before the delay was met, the re-summon will be aborted.",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CROUCHING_DELAY: "Re-summon delay after crouching",
-    COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CROUCHING_DELAY_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_CROUCHING_DELAY:
+      "Re-summon delay after crouching",
+    SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_CROUCHING_DELAY_TT:
       "Delay the re-summoning after end of crouching with this milliseconds value (1000 = 1 second)",
 
-    COMPANION_QOL_LAM_SETTING_HEADER_COMPASS: GetString(
+    SI_TEMPER_COMPANION_LAM_SETTING_HEADER_COMPASS: GetString(
       SI_CUSTOMERSERVICESUBMITFEEDBACKSUBCATEGORIES1304
     ),
-    COMPANION_QOL_LAM_SETTING_DISABLE_PIN_AT_COMPASS: "Disable pin at compass",
-    COMPANION_QOL_LAM_SETTING_DISABLE_PIN_AT_COMPASS_TT:
+    SI_TEMPER_COMPANION_LAM_SETTING_DISABLE_PIN_AT_COMPASS: "Disable pin at compass",
+    SI_TEMPER_COMPANION_LAM_SETTING_DISABLE_PIN_AT_COMPASS_TT:
       "Disable the companion's pin at the compass",
   }
 
@@ -85,7 +86,7 @@ export function registerUiStrings(this: void): undefined {
     if (companionCollectibleId !== undefined) {
       const companionName = GetCollectibleName(companionCollectibleId)
       const companionNameClean = ZO_CachedStrFormat(SI_UNIT_NAME, companionName)
-      stringsEN[`COMPANION_QOL_TOGGLE_COMPANION_${tostring(companionDefId)}`] =
+      stringsEN[`SI_TEMPER_COMPANION_TOGGLE_COMPANION_${tostring(companionDefId)}`] =
         `${companionKeybindBaseStr}: '${companionNameClean}'`
     }
   }

@@ -19,7 +19,7 @@ export function registerBindingStringIds(this: void): undefined {
 
   ZO_CreateStringId(
     "SI_BINDING_NAME_FCOCO_TOGGLE_COMPANION",
-    GetString(COMPANION_QOL_TOGGLE_COMPANION)
+    GetString(SI_TEMPER_COMPANION_TOGGLE_COMPANION)
   )
 
   const companionInfo = COMPANION_QOL.companionInfo
@@ -27,7 +27,7 @@ export function registerBindingStringIds(this: void): undefined {
     if (companionInfo[companionDefId] !== undefined) {
       const idSuffix = tostring(companionDefId)
       const dynamicStringId = asNumber(
-        asRecord(globalThis)[`COMPANION_QOL_TOGGLE_COMPANION_${idSuffix}`]
+        asRecord(globalThis)[`SI_TEMPER_COMPANION_TOGGLE_COMPANION_${idSuffix}`]
       )
       ZO_CreateStringId(
         `SI_BINDING_NAME_FCOCO_TOGGLE_COMPANION_${idSuffix}`,

@@ -30,16 +30,16 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
   }
 
   const savedVariablesOptions: readonly string[] = [
-    GetString(COMPANION_QOL_LAM_SV_EACH_CHARACTER),
-    GetString(COMPANION_QOL_LAM_SV_ACCOUNT_WIDE),
+    GetString(SI_TEMPER_COMPANION_LAM_SV_EACH_CHARACTER),
+    GetString(SI_TEMPER_COMPANION_LAM_SV_ACCOUNT_WIDE),
   ]
   const savedVariablesOptionsValues: readonly number[] = [1, 2]
 
   const optionsTable: LamControlData[] = [
     {
       type: "dropdown",
-      name: GetString(COMPANION_QOL_LAM_SV_MODE),
-      tooltip: GetString(COMPANION_QOL_LAM_SV_MODE_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SV_MODE),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SV_MODE_TT),
       choices: savedVariablesOptions,
       choicesValues: savedVariablesOptionsValues,
       getFunc: function (this: void): string | number {
@@ -54,12 +54,12 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
 
     {
       type: "header",
-      name: GetString(COMPANION_QOL_LAM_SETTING_HEADER_CRAFTING),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_HEADER_CRAFTING),
     },
     {
       type: "checkbox",
-      name: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CRAFTING_TABLE),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CRAFTING_TABLE_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_CRAFTING_TABLE),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_CRAFTING_TABLE_TT),
       getFunc: function (this: void): boolean {
         return settings.unSummonAtCraftingTables
       },
@@ -72,8 +72,8 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "checkbox",
-      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CRAFTING_TABLE),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CRAFTING_TABLE_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_CRAFTING_TABLE),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_CRAFTING_TABLE_TT),
       getFunc: function (this: void): boolean {
         return settings.reSummonAfterCraftingTables
       },
@@ -89,12 +89,12 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "header",
-      name: GetString(COMPANION_QOL_LAM_SETTING_HEADER_BANKS),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_HEADER_BANKS),
     },
     {
       type: "checkbox",
-      name: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_BANK),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_BANK_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_BANK),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_BANK_TT),
       getFunc: function (this: void): boolean {
         return settings.unSummonAtBanks
       },
@@ -107,8 +107,8 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "checkbox",
-      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_BANK),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_BANK_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_BANK),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_BANK_TT),
       getFunc: function (this: void): boolean {
         return settings.reSummonAfterBanks
       },
@@ -124,12 +124,12 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "header",
-      name: GetString(COMPANION_QOL_LAM_SETTING_HEADER_VENDORS),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_HEADER_VENDORS),
     },
     {
       type: "checkbox",
-      name: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_VENDOR),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_VENDOR_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_VENDOR),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_VENDOR_TT),
       getFunc: function (this: void): boolean {
         return settings.unSummonAtVendors
       },
@@ -142,8 +142,8 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "checkbox",
-      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_VENDOR),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_VENDOR_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_VENDOR),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_VENDOR_TT),
       getFunc: function (this: void): boolean {
         return settings.reSummonAfterVendors
       },
@@ -159,12 +159,12 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "header",
-      name: GetString(COMPANION_QOL_LAM_SETTING_HEADER_FISHING),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_HEADER_FISHING),
     },
     {
       type: "checkbox",
-      name: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_FISHING),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_FISHING_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_FISHING),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_FISHING_TT),
       getFunc: function (this: void): boolean {
         return settings.unSummonAtFishing
       },
@@ -177,8 +177,8 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "checkbox",
-      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_FISHING),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_FISHING_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_FISHING),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_FISHING_TT),
       getFunc: function (this: void): boolean {
         return settings.reSummonAfterFishing
       },
@@ -194,8 +194,8 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "slider",
-      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_FISHING_DELAY),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_FISHING_DELAY_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_FISHING_DELAY),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_FISHING_DELAY_TT),
       getFunc: function (this: void): number {
         return settings.reSummonAfterFishingDelay
       },
@@ -214,12 +214,12 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "header",
-      name: GetString(COMPANION_QOL_LAM_SETTING_HEADER_CROUCH),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_HEADER_CROUCH),
     },
     {
       type: "checkbox",
-      name: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CROUCHING),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CROUCHING_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_CROUCHING),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_CROUCHING_TT),
       getFunc: function (this: void): boolean {
         return settings.unSummonAtCrouching
       },
@@ -232,8 +232,8 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "checkbox",
-      name: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CROUCHING_NO_COMBAT),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_UNSUMMON_AT_CROUCHING_NO_COMBAT_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_CROUCHING_NO_COMBAT),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_UNSUMMON_AT_CROUCHING_NO_COMBAT_TT),
       getFunc: function (this: void): boolean {
         return settings.unSummonAtCrouchingNoCombat
       },
@@ -249,8 +249,8 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "checkbox",
-      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CROUCHING),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CROUCHING_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_CROUCHING),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_CROUCHING_TT),
       getFunc: function (this: void): boolean {
         return settings.reSummonAfterCrouching
       },
@@ -266,8 +266,8 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "slider",
-      name: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CROUCHING_DELAY),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_RESUMMON_AFTER_CROUCHING_DELAY_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_CROUCHING_DELAY),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_RESUMMON_AFTER_CROUCHING_DELAY_TT),
       getFunc: function (this: void): number {
         return settings.reSummonAfterCrouchingDelay
       },
@@ -286,12 +286,12 @@ COMPANION_QOL.buildAddonMenu = function (this: void): boolean | undefined {
     },
     {
       type: "header",
-      name: GetString(COMPANION_QOL_LAM_SETTING_HEADER_COMPASS),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_HEADER_COMPASS),
     },
     {
       type: "checkbox",
-      name: GetString(COMPANION_QOL_LAM_SETTING_DISABLE_PIN_AT_COMPASS),
-      tooltip: GetString(COMPANION_QOL_LAM_SETTING_DISABLE_PIN_AT_COMPASS_TT),
+      name: GetString(SI_TEMPER_COMPANION_LAM_SETTING_DISABLE_PIN_AT_COMPASS),
+      tooltip: GetString(SI_TEMPER_COMPANION_LAM_SETTING_DISABLE_PIN_AT_COMPASS_TT),
       getFunc: function (this: void): boolean {
         return settings.disableCompanionAtCompass
       },
