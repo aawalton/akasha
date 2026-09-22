@@ -257,20 +257,20 @@ export function rebuildLoreLibrary(): undefined {
   REPORT_STATE.loreLibraryReportKeybind = [
     {
       alignment: KEYBIND_STRIP_ALIGN_LEFT,
-      name: GetString(LBOOKS_REPORT_KEYBIND_RPRT),
+      name: GetString(SI_TEMPER_LOREBOOKS_REPORT_KEYBIND_RPRT),
       keybind: "UI_SHORTCUT_SECONDARY",
       callback: showLoreLibraryReport,
     },
     {
       alignment: KEYBIND_STRIP_ALIGN_LEFT,
-      name: GetString(LBOOKS_REPORT_KEYBIND_SWITCH),
+      name: GetString(SI_TEMPER_LOREBOOKS_REPORT_KEYBIND_SWITCH),
       keybind: "UI_SHORTCUT_QUATERNARY",
       callback: switchLoreLibraryReportMode,
       visible: isReportShown,
     },
     {
       alignment: KEYBIND_STRIP_ALIGN_LEFT,
-      name: GetString(LBOOKS_REPORT_KEYBIND_COPY),
+      name: GetString(SI_TEMPER_LOREBOOKS_REPORT_KEYBIND_COPY),
       keybind: "UI_SHORTCUT_TERTIARY",
       callback: showLoreLibraryCopyReport,
       visible: isReportShown,
@@ -325,7 +325,10 @@ export function rebuildLoreLibrary(): undefined {
 
   includeMotifsCheckbox.SetAnchor(LEFT, LORE_LIBRARY.totalCollectedLabel, RIGHT, 85, 0)
 
-  ZO_CheckButton_SetLabelText(includeMotifsCheckbox, GetString(LBOOKS_INCLUDE_MOTIFS_CHECKBOX))
+  ZO_CheckButton_SetLabelText(
+    includeMotifsCheckbox,
+    GetString(SI_TEMPER_LOREBOOKS_INCLUDE_MOTIFS_CHECKBOX)
+  )
   ZO_CheckButton_SetToggleFunction(includeMotifsCheckbox, () => {
     LORE_LIBRARY.RefreshCollectedInfo()
   })

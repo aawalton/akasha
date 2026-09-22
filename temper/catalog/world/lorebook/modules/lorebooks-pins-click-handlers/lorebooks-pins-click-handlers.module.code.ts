@@ -46,7 +46,7 @@ function eideticWaypointName(this: void, pin: MapPin): string {
     p.m_PinTag.c ?? 0,
     p.m_PinTag.b ?? 0
   )
-  return zo_strformat(LBOOKS_SET_WAYPOINT, title)
+  return zo_strformat(SI_TEMPER_LOREBOOKS_SET_WAYPOINT, title)
 }
 
 function eideticKnown(this: void, pin: MapPin): boolean {
@@ -75,7 +75,7 @@ export function installClickHandlers(this: void): undefined {
           p.m_PinTag[SHALIDOR_COLLECTIONINDEX],
           p.m_PinTag[SHALIDOR_BOOKINDEX]
         )
-        return zo_strformat(LBOOKS_SET_WAYPOINT, title)
+        return zo_strformat(SI_TEMPER_LOREBOOKS_SET_WAYPOINT, title)
       },
       show: function (this: void, pin: MapPin): boolean {
         const p = asShalidorClickPin(pin)

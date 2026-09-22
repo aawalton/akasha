@@ -19,8 +19,8 @@ const LAM = TemperAddonMenu
 export function createLamPanel(): undefined {
   const panelData: LamPanelData = {
     type: "panel",
-    name: GetString(LBOOKS_TITLE),
-    displayName: ZO_HIGHLIGHT_TEXT.Colorize(GetString(LBOOKS_TITLE)),
+    name: GetString(SI_TEMPER_LOREBOOKS_TITLE),
+    displayName: ZO_HIGHLIGHT_TEXT.Colorize(GetString(SI_TEMPER_LOREBOOKS_TITLE)),
     version: ADDON_VERSION,
     slashCommand: "/lorebooks",
     registerForRefresh: true,

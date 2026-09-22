@@ -181,15 +181,15 @@ function buildShalidorReport(): number {
   let lastObject = 52
 
   if (points < pointsForRankMax) {
-    REPORT_STATE.copyReport = GetString(LBOOKS_RS_FEW_BOOKS_MISSING)
+    REPORT_STATE.copyReport = GetString(SI_TEMPER_LOREBOOKS_RS_FEW_BOOKS_MISSING)
     shalidorHeaderText?.SetText(REPORT_STATE.copyReport)
     lastObject = displayCollectionsReport(collectionsData)
   } else if (totalKnown < booksInShalidor) {
-    REPORT_STATE.copyReport = GetString(LBOOKS_RS_MDONE_BOOKS_MISSING)
+    REPORT_STATE.copyReport = GetString(SI_TEMPER_LOREBOOKS_RS_MDONE_BOOKS_MISSING)
     shalidorHeaderText?.SetText(REPORT_STATE.copyReport)
     lastObject = displayCollectionsReport(collectionsData)
   } else {
-    REPORT_STATE.copyReport = GetString(LBOOKS_RS_GOT_ALL_BOOKS)
+    REPORT_STATE.copyReport = GetString(SI_TEMPER_LOREBOOKS_RS_GOT_ALL_BOOKS)
     shalidorHeaderText?.SetText(REPORT_STATE.copyReport)
   }
 

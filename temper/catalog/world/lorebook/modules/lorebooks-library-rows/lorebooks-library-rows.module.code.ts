@@ -257,9 +257,17 @@ export function onMouseEnter(
         const questDetails = getQuestLocation(bookData.q)
         let questInfo: string
         if (questDetails !== "") {
-          questInfo = string.format(GetString(LBOOKS_QUEST_BOOK_ZONENAME), questDetails, questName)
+          questInfo = string.format(
+            GetString(SI_TEMPER_LOREBOOKS_QUEST_BOOK_ZONENAME),
+            questDetails,
+            questName
+          )
         } else {
-          questInfo = string.format(GetString(LBOOKS_QUEST_BOOK), questDetails, questName)
+          questInfo = string.format(
+            GetString(SI_TEMPER_LOREBOOKS_QUEST_BOOK),
+            questDetails,
+            questName
+          )
         }
         if (questName !== undefined) {
           const [hr, hg, hb] = ZO_HIGHLIGHT_TEXT.UnpackRGB()
@@ -272,7 +280,7 @@ export function onMouseEnter(
       ) {
         {
           const [hr, hg, hb] = ZO_HIGHLIGHT_TEXT.UnpackRGB()
-          InformationTooltip.AddLine(GetString(LBOOKS_RANDOM_POSITION), "", hr, hg, hb)
+          InformationTooltip.AddLine(GetString(SI_TEMPER_LOREBOOKS_RANDOM_POSITION), "", hr, hg, hb)
         }
         ZO_Tooltip_AddDivider(InformationTooltip)
 
@@ -353,7 +361,13 @@ export function onMouseEnter(
 
               if (hasZoneTag) {
                 const [hr, hg, hb] = ZO_HIGHLIGHT_TEXT.UnpackRGB()
-                InformationTooltip.AddLine(GetString(LBOOKS_PIN_UPDATE), "", hr, hg, hb)
+                InformationTooltip.AddLine(
+                  GetString(SI_TEMPER_LOREBOOKS_PIN_UPDATE),
+                  "",
+                  hr,
+                  hg,
+                  hb
+                )
               }
             }
           }

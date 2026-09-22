@@ -207,7 +207,7 @@ holder.InitPinSizes = function (this: TemperMiniMap): undefined {
       "LBooksMapPin_eideticCollected",
       "pinType_Lore_books",
     ]
-    addAddonPins(mapPins, "Lore Books", asNumber(G.LBOOKS_TITLE))
+    addAddonPins(mapPins, "Lore Books", asNumber(G.SI_TEMPER_LOREBOOKS_TITLE))
   }
 
   if (G.LostTreasureMapTreasurePin != null) {

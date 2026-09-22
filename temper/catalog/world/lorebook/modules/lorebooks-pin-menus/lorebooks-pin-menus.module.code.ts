@@ -9,8 +9,8 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 export function addPinMenuOptions(this: void, optionsTable: unknown[]): undefined {
   optionsTable[optionsTable.length] = {
     type: "checkbox",
-    name: GetString(LBOOKS_DUNGEON_TAG_MENU),
-    tooltip: GetString(LBOOKS_DUNGEON_TAG_MENU_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_DUNGEON_TAG_MENU),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_DUNGEON_TAG_MENU_DESC),
     getFunc: (): boolean => getSavedVariables().showDungeonTag,
     setFunc: (shown: boolean): undefined => {
       getSavedVariables().showDungeonTag = shown
@@ -19,8 +19,8 @@ export function addPinMenuOptions(this: void, optionsTable: unknown[]): undefine
   } satisfies LamCheckboxData
   optionsTable[optionsTable.length] = {
     type: "checkbox",
-    name: GetString(LBOOKS_QUESTINFO_MENU),
-    tooltip: GetString(LBOOKS_QUESTINFO_MENU_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_QUESTINFO_MENU),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_QUESTINFO_MENU_DESC),
     getFunc: (): boolean => getSavedVariables().showQuestName,
     setFunc: (shown: boolean): undefined => {
       getSavedVariables().showQuestName = shown
@@ -29,8 +29,8 @@ export function addPinMenuOptions(this: void, optionsTable: unknown[]): undefine
   } satisfies LamCheckboxData
   optionsTable[optionsTable.length] = {
     type: "checkbox",
-    name: GetString(LBOOKS_PIN_CLICK_MENU),
-    tooltip: GetString(LBOOKS_PIN_CLICK_MENU_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_PIN_CLICK_MENU),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_PIN_CLICK_MENU_DESC),
     getFunc: (): boolean => getSavedVariables().showClickMenu,
     setFunc: (shown: boolean): undefined => {
       getSavedVariables().showClickMenu = shown

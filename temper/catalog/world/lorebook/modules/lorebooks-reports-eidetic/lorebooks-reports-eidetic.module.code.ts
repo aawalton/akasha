@@ -45,8 +45,8 @@ export function buildEideticReportPerMap(lastObject: number): undefined {
   )
 
   if (allowEideticReport()) {
-    eideticHeaderText.SetText(GetString(LBOOKS_RE_FEW_BOOKS_MISSING))
-    REPORT_STATE.copyReport = `${REPORT_STATE.copyReport}\n\n${GetString(LBOOKS_RE_FEW_BOOKS_MISSING)}`
+    eideticHeaderText.SetText(GetString(SI_TEMPER_LOREBOOKS_RE_FEW_BOOKS_MISSING))
+    REPORT_STATE.copyReport = `${REPORT_STATE.copyReport}\n\n${GetString(SI_TEMPER_LOREBOOKS_RE_FEW_BOOKS_MISSING)}`
 
     const eideticData: Record<number, EideticBookZoneEntry[]> = {}
     const eideticSeen: Record<string, boolean> = {}
@@ -172,8 +172,8 @@ export function buildEideticReportPerMap(lastObject: number): undefined {
       }
     }
   } else {
-    eideticHeaderText.SetText(GetString(LBOOKS_RE_THREESHOLD_ERROR))
-    REPORT_STATE.copyReport = `${REPORT_STATE.copyReport}\n\n${GetString(LBOOKS_RE_THREESHOLD_ERROR)}`
+    eideticHeaderText.SetText(GetString(SI_TEMPER_LOREBOOKS_RE_THREESHOLD_ERROR))
+    REPORT_STATE.copyReport = `${REPORT_STATE.copyReport}\n\n${GetString(SI_TEMPER_LOREBOOKS_RE_THREESHOLD_ERROR)}`
   }
 }
 
@@ -194,8 +194,8 @@ export function buildEideticReportPerCollection(lastObject: number): undefined {
   )
 
   if (allowEideticReport()) {
-    eideticHeaderText.SetText(GetString(LBOOKS_RE_FEW_BOOKS_MISSING))
-    REPORT_STATE.copyReport = `${REPORT_STATE.copyReport}\n\n${GetString(LBOOKS_RE_FEW_BOOKS_MISSING)}`
+    eideticHeaderText.SetText(GetString(SI_TEMPER_LOREBOOKS_RE_FEW_BOOKS_MISSING))
+    REPORT_STATE.copyReport = `${REPORT_STATE.copyReport}\n\n${GetString(SI_TEMPER_LOREBOOKS_RE_FEW_BOOKS_MISSING)}`
 
     let totalBooks = 0
     const eideticData: Record<number, Record<number, string>> = {}
@@ -338,7 +338,7 @@ export function buildEideticReportPerCollection(lastObject: number): undefined {
       }
     }
   } else {
-    eideticHeaderText.SetText(GetString(LBOOKS_RE_THREESHOLD_ERROR))
-    REPORT_STATE.copyReport = `${REPORT_STATE.copyReport}\n\n${GetString(LBOOKS_RE_THREESHOLD_ERROR)}`
+    eideticHeaderText.SetText(GetString(SI_TEMPER_LOREBOOKS_RE_THREESHOLD_ERROR))
+    REPORT_STATE.copyReport = `${REPORT_STATE.copyReport}\n\n${GetString(SI_TEMPER_LOREBOOKS_RE_THREESHOLD_ERROR)}`
   }
 }

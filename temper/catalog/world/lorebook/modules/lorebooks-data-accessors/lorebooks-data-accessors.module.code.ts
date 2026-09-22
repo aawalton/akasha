@@ -1,10 +1,6 @@
 import { BOOK_DATA } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-book-data/lorebooks-book-data.module.code.ts"
 import { BOOKSHELF_DATA } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-bookshelf-data/lorebooks-bookshelf-data.module.code.ts"
 import {
-  LBOOKS_IMMERSIVE_EXPLORATION,
-  LBOOKS_IMMERSIVE_WAYSHRINES,
-  LBOOKS_IMMERSIVE_ZONEMAINQUEST,
-  LBOOKS_IMMERSIVE_ZONEQUESTS,
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
   MISSING_TITLE,
@@ -13,6 +9,10 @@ import {
   SHALIDOR_COLLECTIONINDEX,
   SHALIDOR_LOCATION_X,
   SHALIDOR_LOCATION_Y,
+  SI_TEMPER_LOREBOOKS_IMMERSIVE_EXPLORATION,
+  SI_TEMPER_LOREBOOKS_IMMERSIVE_WAYSHRINES,
+  SI_TEMPER_LOREBOOKS_IMMERSIVE_ZONEMAINQUEST,
+  SI_TEMPER_LOREBOOKS_IMMERSIVE_ZONEQUESTS,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
 import { LIBRARY_DATA } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-library-data/lorebooks-library-data.module.code.ts"
 import { STATE } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
@@ -306,13 +306,13 @@ export function loreBooksGetImmersiveModeCondition(
   mode: number,
   mapIndex: number
 ): number | readonly number[] | boolean | undefined {
-  if (mode === LBOOKS_IMMERSIVE_ZONEMAINQUEST) {
+  if (mode === SI_TEMPER_LOREBOOKS_IMMERSIVE_ZONEMAINQUEST) {
     return MAIN_QUEST_ACHIEVEMENT_IDS[mapIndex]
-  } else if (mode === LBOOKS_IMMERSIVE_WAYSHRINES) {
+  } else if (mode === SI_TEMPER_LOREBOOKS_IMMERSIVE_WAYSHRINES) {
     return areAllWayshrinesUnlocked()
-  } else if (mode === LBOOKS_IMMERSIVE_EXPLORATION) {
+  } else if (mode === SI_TEMPER_LOREBOOKS_IMMERSIVE_EXPLORATION) {
     return EXPLORATION_ACHIEVEMENT_IDS[mapIndex]
-  } else if (mode === LBOOKS_IMMERSIVE_ZONEQUESTS) {
+  } else if (mode === SI_TEMPER_LOREBOOKS_IMMERSIVE_ZONEQUESTS) {
     return ZONE_QUEST_ACHIEVEMENT_IDS[mapIndex]
   }
   return undefined

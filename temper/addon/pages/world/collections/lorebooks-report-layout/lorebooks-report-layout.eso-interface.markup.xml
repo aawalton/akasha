@@ -5,9 +5,9 @@
 			<Anchor point="TOPRIGHT" relativePoint="TOPRIGHT" offsetX="-38" offsetY="28"/>
 			<Dimensions x="270"/>
 			<Controls>
-				<EditBox name="$(parent)Box" inherits="ZO_DefaultEditForBackdrop" defaultText="LBOOKS_SEARCH_PLACEHOLDER">
+				<EditBox name="$(parent)Box" inherits="ZO_DefaultEditForBackdrop" defaultText="SI_TEMPER_LOREBOOKS_SEARCH_PLACEHOLDER">
 				</EditBox>
-				<Label name="$(parent)SearchLabel" text="LBOOKS_SEARCH_LABEL" font="ZoFontGameLargeBold" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL">
+				<Label name="$(parent)SearchLabel" text="SI_TEMPER_LOREBOOKS_SEARCH_LABEL" font="ZoFontGameLargeBold" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL">
 					<Anchor point="BOTTOMLEFT" relativePoint="TOPLEFT" relativeTo="$(parent)" offsetY="-2"/>
 				</Label>
 			</Controls>

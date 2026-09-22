@@ -24,8 +24,8 @@ export function compassLayout(this: void, key: string): CompassPinLayout {
 export function addCompassPinOptions(this: void, optionsTable: unknown[]): undefined {
   optionsTable[optionsTable.length] = {
     type: "checkbox",
-    name: GetString(LBOOKS_COMPASS_UNKNOWN),
-    tooltip: GetString(LBOOKS_COMPASS_UNKNOWN_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_COMPASS_UNKNOWN),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_COMPASS_UNKNOWN_DESC),
     getFunc: (): boolean => filterValue(PINS_COMPASS),
     setFunc: (shown: boolean): undefined => {
       getSavedVariables().filters[PINS_COMPASS] = shown
@@ -35,8 +35,8 @@ export function addCompassPinOptions(this: void, optionsTable: unknown[]): undef
   } satisfies LamCheckboxData
   optionsTable[optionsTable.length] = {
     type: "checkbox",
-    name: GetString(LBOOKS_COMPASS_EIDETIC),
-    tooltip: GetString(LBOOKS_COMPASS_EIDETIC_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_COMPASS_EIDETIC),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_COMPASS_EIDETIC_DESC),
     getFunc: (): boolean => filterValue(PINS_COMPASS_EIDETIC),
     setFunc: (shown: boolean): undefined => {
       getSavedVariables().filters[PINS_COMPASS_EIDETIC] = shown
@@ -46,8 +46,8 @@ export function addCompassPinOptions(this: void, optionsTable: unknown[]): undef
   } satisfies LamCheckboxData
   optionsTable[optionsTable.length] = {
     type: "checkbox",
-    name: GetString(LBOOKS_COMPASS_BOOKSHELF_NAME),
-    tooltip: GetString(LBOOKS_COMPASS_BOOKSHELF_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_COMPASS_BOOKSHELF_NAME),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_COMPASS_BOOKSHELF_DESC),
     getFunc: (): boolean => filterValue(PINS_COMPASS_BOOKSHELF),
     setFunc: (shown: boolean): undefined => {
       getSavedVariables().filters[PINS_COMPASS_BOOKSHELF] = shown
@@ -57,8 +57,8 @@ export function addCompassPinOptions(this: void, optionsTable: unknown[]): undef
   } satisfies LamCheckboxData
   optionsTable[optionsTable.length] = {
     type: "slider",
-    name: GetString(LBOOKS_COMPASS_DIST),
-    tooltip: GetString(LBOOKS_COMPASS_DIST_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_COMPASS_DIST),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_COMPASS_DIST_DESC),
     min: 1,
     max: 100,
     step: 1,

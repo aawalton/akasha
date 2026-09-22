@@ -146,7 +146,7 @@ export const PIN_TOOLTIP_CREATOR_BOOKSHELF: MapPinTooltipCreator = {
     }
 
     const pinTag = asBookshelfPinTag(mapPinObject.m_PinTag)
-    const title = pinTag.pinName ?? GetString(LBOOKS_BOOKSHELF)
+    const title = pinTag.pinName ?? GetString(SI_TEMPER_LOREBOOKS_BOOKSHELF)
     const icon = getPinTextureBookshelf(mapPinObject)
     const moreinfo: string[] = []
 
@@ -216,9 +216,17 @@ export const PIN_TOOLTIP_CREATOR_EIDETIC: MapPinTooltipCreator = {
         const questDetails = getQuestLocation(pinTag.q)
         let questInfo: string
         if (questDetails !== "") {
-          questInfo = string.format(GetString(LBOOKS_QUEST_BOOK_ZONENAME), questDetails, questName)
+          questInfo = string.format(
+            GetString(SI_TEMPER_LOREBOOKS_QUEST_BOOK_ZONENAME),
+            questDetails,
+            questName
+          )
         } else {
-          questInfo = string.format(GetString(LBOOKS_QUEST_BOOK), questDetails, questName)
+          questInfo = string.format(
+            GetString(SI_TEMPER_LOREBOOKS_QUEST_BOOK),
+            questDetails,
+            questName
+          )
         }
         if (questName !== undefined) {
           gp.LayoutIconStringLine(gp.tooltip, undefined, questInfo, gamepadColor2Style())
@@ -256,9 +264,17 @@ export const PIN_TOOLTIP_CREATOR_EIDETIC: MapPinTooltipCreator = {
         const questDetails = getQuestLocation(pinTag.q)
         let questInfo: string
         if (questDetails !== "") {
-          questInfo = string.format(GetString(LBOOKS_QUEST_BOOK_ZONENAME), questDetails, questName)
+          questInfo = string.format(
+            GetString(SI_TEMPER_LOREBOOKS_QUEST_BOOK_ZONENAME),
+            questDetails,
+            questName
+          )
         } else {
-          questInfo = string.format(GetString(LBOOKS_QUEST_BOOK), questDetails, questName)
+          questInfo = string.format(
+            GetString(SI_TEMPER_LOREBOOKS_QUEST_BOOK),
+            questDetails,
+            questName
+          )
         }
         if (questName !== undefined) {
           kb.AddLine(questInfo, "", sr, sg, sb)

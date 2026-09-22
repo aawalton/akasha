@@ -192,7 +192,7 @@ export function mapCallbackCreateBookshelfPins(this: void, pinType: string): und
     if (bookshelves !== undefined) {
       for (const [, pinData] of ipairs(bookshelves)) {
         pinData.texture = getPinTextureBookshelf(asMapPin(pinData))
-        pinData.pinName = GetString(LBOOKS_BOOKSHELF)
+        pinData.pinName = GetString(SI_TEMPER_LOREBOOKS_BOOKSHELF)
         MAP_PINS.CreatePin(PINS_BOOKSHELF, pinData, pinData.x, pinData.y)
       }
     }

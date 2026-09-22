@@ -261,18 +261,21 @@ export function initializePins(this: void): undefined {
   )
 
   const [eideticCategoryName] = GetLoreCategoryInfo(LORE_LIBRARY_EIDETIC)
-  const eideticPinCollected = zo_strformat(LBOOKS_FILTER_COLLECTED_FORMATTER, eideticCategoryName)
+  const eideticPinCollected = zo_strformat(
+    SI_TEMPER_LOREBOOKS_FILTER_COLLECTED_FORMATTER,
+    eideticCategoryName
+  )
 
   MAP_PINS.AddPinFilter(
     PINS_UNKNOWN,
-    GetString(LBOOKS_FILTER_UNKNOWN),
+    GetString(SI_TEMPER_LOREBOOKS_FILTER_UNKNOWN),
     true,
     db.filters,
     PINS_UNKNOWN
   )
   MAP_PINS.AddPinFilter(
     PINS_COLLECTED,
-    GetString(LBOOKS_FILTER_COLLECTED),
+    GetString(SI_TEMPER_LOREBOOKS_FILTER_COLLECTED),
     true,
     db.filters,
     PINS_COLLECTED
@@ -287,7 +290,7 @@ export function initializePins(this: void): undefined {
   )
   MAP_PINS.AddPinFilter(
     PINS_BOOKSHELF,
-    GetString(LBOOKS_FILTER_BOOKSHELF),
+    GetString(SI_TEMPER_LOREBOOKS_FILTER_BOOKSHELF),
     true,
     db.filters,
     PINS_BOOKSHELF

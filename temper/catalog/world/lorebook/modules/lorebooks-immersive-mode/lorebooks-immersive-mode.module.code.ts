@@ -8,16 +8,16 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 
 export function addImmersiveModeOptions(this: void, optionsTable: unknown[]): undefined {
   const immersiveChoices: readonly string[] = [
-    GetString(LBOOKS_IMMERSIVE_CHOICE1),
-    GetString(LBOOKS_IMMERSIVE_CHOICE2),
-    GetString(LBOOKS_IMMERSIVE_CHOICE3),
-    GetString(LBOOKS_IMMERSIVE_CHOICE4),
-    GetString(LBOOKS_IMMERSIVE_CHOICE5),
+    GetString(SI_TEMPER_LOREBOOKS_IMMERSIVE_CHOICE1),
+    GetString(SI_TEMPER_LOREBOOKS_IMMERSIVE_CHOICE2),
+    GetString(SI_TEMPER_LOREBOOKS_IMMERSIVE_CHOICE3),
+    GetString(SI_TEMPER_LOREBOOKS_IMMERSIVE_CHOICE4),
+    GetString(SI_TEMPER_LOREBOOKS_IMMERSIVE_CHOICE5),
   ]
 
   optionsTable[optionsTable.length] = dropdown({
-    name: GetString(LBOOKS_IMMERSIVE),
-    tooltip: GetString(LBOOKS_IMMERSIVE_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_IMMERSIVE),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_IMMERSIVE_DESC),
     choices: immersiveChoices,
     get: (): number => getSavedVariables().immersiveMode - 1,
     set: (index: number): undefined => {

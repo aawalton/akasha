@@ -35,7 +35,7 @@ export function createEideticLorebookLocation(): undefined {
   CALLBACK_MANAGER.FireCallbacks("OnWorldMapChanged")
   MAP_DATA_INTERNAL.UpdateMapInfo()
   const [zone] = MAP_PINS.GetZoneAndSubzone(true, false, true)
-  let outText = GetString(LBOOKS_LBPOS_ERROR)
+  let outText = GetString(SI_TEMPER_LOREBOOKS_LBPOS_ERROR)
   const zoneId = MAP_DATA_STATE.zoneId
   const worldX = MAP_DATA_STATE.worldX
   const worldY = MAP_DATA_STATE.worldY
@@ -69,7 +69,7 @@ export function createEideticLorebookLocation(): undefined {
   }
 
   if (STATE.shownBookId == null) {
-    d(GetString(LBOOKS_LBPOS_OPEN_BOOK))
+    d(GetString(SI_TEMPER_LOREBOOKS_LBPOS_OPEN_BOOK))
     return
   }
 

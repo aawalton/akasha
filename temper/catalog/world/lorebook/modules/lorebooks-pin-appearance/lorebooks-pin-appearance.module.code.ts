@@ -49,10 +49,10 @@ export function addPinAppearanceOptions(
     PIN_ICON_ESOHEAD,
   ]
   const pinTexturesList: readonly string[] = [
-    GetString(LBOOKS_PIN_TEXTURE1),
-    GetString(LBOOKS_PIN_TEXTURE2),
-    GetString(LBOOKS_PIN_TEXTURE3),
-    GetString(LBOOKS_PIN_TEXTURE4),
+    GetString(SI_TEMPER_LOREBOOKS_PIN_TEXTURE1),
+    GetString(SI_TEMPER_LOREBOOKS_PIN_TEXTURE2),
+    GetString(SI_TEMPER_LOREBOOKS_PIN_TEXTURE3),
+    GetString(SI_TEMPER_LOREBOOKS_PIN_TEXTURE4),
   ]
   const pinTextures = PIN_TEXTURES
   const textureRow = (type: number): readonly [string, string] => pinTextures[type] ?? ["", ""]
@@ -110,8 +110,8 @@ export function addPinAppearanceOptions(
   }
 
   optionsTable[optionsTable.length] = valueDropdown<number>({
-    name: GetString(LBOOKS_PIN_TEXTURE),
-    tooltip: GetString(LBOOKS_PIN_TEXTURE_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_PIN_TEXTURE),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_PIN_TEXTURE_DESC),
     choices: pinTexturesList,
     values: pinTexturesValues,
     get: (): number => getSavedVariables().pinTexture.type,
@@ -129,8 +129,8 @@ export function addPinAppearanceOptions(
   })
   optionsTable[optionsTable.length] = {
     type: "checkbox",
-    name: GetString(LBOOKS_PIN_GRAYSCALE),
-    tooltip: GetString(LBOOKS_PIN_GRAYSCALE_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_PIN_GRAYSCALE),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_PIN_GRAYSCALE_DESC),
     getFunc: (): boolean => getSavedVariables().pinGrayscale,
     setFunc: (value: boolean): undefined => {
       getSavedVariables().pinGrayscale = value
@@ -140,8 +140,8 @@ export function addPinAppearanceOptions(
   } satisfies LamCheckboxData
   const [eideticCategoryName] = GetLoreCategoryInfo(LORE_LIBRARY_EIDETIC)
   optionsTable[optionsTable.length] = valueDropdown<number>({
-    name: zo_strformat(LBOOKS_PIN_TEXTURE_EIDETIC, eideticCategoryName),
-    tooltip: GetString(LBOOKS_PIN_TEXTURE_DESC),
+    name: zo_strformat(SI_TEMPER_LOREBOOKS_PIN_TEXTURE_EIDETIC, eideticCategoryName),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_PIN_TEXTURE_DESC),
     choices: pinTexturesList,
     values: pinTexturesValues,
     get: (): number => getSavedVariables().pinTextureEidetic,
@@ -159,8 +159,8 @@ export function addPinAppearanceOptions(
   })
   optionsTable[optionsTable.length] = {
     type: "checkbox",
-    name: GetString(LBOOKS_PIN_GRAYSCALE),
-    tooltip: GetString(LBOOKS_PIN_GRAYSCALE_EIDETIC_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_PIN_GRAYSCALE),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_PIN_GRAYSCALE_EIDETIC_DESC),
     getFunc: (): boolean => getSavedVariables().pinGrayscaleEidetic,
     setFunc: (value: boolean): undefined => {
       getSavedVariables().pinGrayscaleEidetic = value
@@ -170,8 +170,8 @@ export function addPinAppearanceOptions(
   } satisfies LamCheckboxData
   optionsTable[optionsTable.length] = {
     type: "slider",
-    name: GetString(LBOOKS_PIN_SIZE),
-    tooltip: GetString(LBOOKS_PIN_SIZE_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_PIN_SIZE),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_PIN_SIZE_DESC),
     min: 10,
     max: 70,
     step: 1,
@@ -201,8 +201,8 @@ export function addPinAppearanceOptions(
   } satisfies LamSliderData
   optionsTable[optionsTable.length] = {
     type: "slider",
-    name: GetString(LBOOKS_PIN_LAYER),
-    tooltip: GetString(LBOOKS_PIN_LAYER_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_PIN_LAYER),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_PIN_LAYER_DESC),
     min: 10,
     max: 200,
     step: 5,

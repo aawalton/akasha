@@ -18,8 +18,8 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 export function addMapPinFilterOptions(this: void, optionsTable: unknown[]): undefined {
   optionsTable[optionsTable.length] = {
     type: "checkbox",
-    name: GetString(LBOOKS_UNKNOWN),
-    tooltip: GetString(LBOOKS_UNKNOWN_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_UNKNOWN),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_UNKNOWN_DESC),
     getFunc: (): boolean => filterValue(PINS_UNKNOWN),
     setFunc: (shown: boolean): undefined => {
       getSavedVariables().filters[PINS_UNKNOWN] = shown
@@ -29,8 +29,8 @@ export function addMapPinFilterOptions(this: void, optionsTable: unknown[]): und
   } satisfies LamCheckboxData
   optionsTable[optionsTable.length] = {
     type: "checkbox",
-    name: GetString(LBOOKS_COLLECTED),
-    tooltip: GetString(LBOOKS_COLLECTED_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_COLLECTED),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_COLLECTED_DESC),
     getFunc: (): boolean => filterValue(PINS_COLLECTED),
     setFunc: (shown: boolean): undefined => {
       getSavedVariables().filters[PINS_COLLECTED] = shown
@@ -40,8 +40,8 @@ export function addMapPinFilterOptions(this: void, optionsTable: unknown[]): und
   } satisfies LamCheckboxData
   optionsTable[optionsTable.length] = {
     type: "checkbox",
-    name: GetString(LBOOKS_EIDETIC),
-    tooltip: GetString(LBOOKS_EIDETIC_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_EIDETIC),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_EIDETIC_DESC),
     getFunc: (): boolean => filterValue(PINS_EIDETIC),
     setFunc: (shown: boolean): undefined => {
       getSavedVariables().filters[PINS_EIDETIC] = shown
@@ -51,8 +51,8 @@ export function addMapPinFilterOptions(this: void, optionsTable: unknown[]): und
   } satisfies LamCheckboxData
   optionsTable[optionsTable.length] = {
     type: "checkbox",
-    name: GetString(LBOOKS_EIDETIC_COLLECTED),
-    tooltip: GetString(LBOOKS_EIDETIC_COLLECTED_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_EIDETIC_COLLECTED),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_EIDETIC_COLLECTED_DESC),
     getFunc: (): boolean => filterValue(PINS_EIDETIC_COLLECTED),
     setFunc: (shown: boolean): undefined => {
       getSavedVariables().filters[PINS_EIDETIC_COLLECTED] = shown
@@ -62,8 +62,8 @@ export function addMapPinFilterOptions(this: void, optionsTable: unknown[]): und
   } satisfies LamCheckboxData
   optionsTable[optionsTable.length] = {
     type: "checkbox",
-    name: GetString(LBOOKS_BOOKSHELF_NAME),
-    tooltip: GetString(LBOOKS_BOOKSHELF_DESC),
+    name: GetString(SI_TEMPER_LOREBOOKS_BOOKSHELF_NAME),
+    tooltip: GetString(SI_TEMPER_LOREBOOKS_BOOKSHELF_DESC),
     getFunc: (): boolean => filterValue(PINS_BOOKSHELF),
     setFunc: (shown: boolean): undefined => {
       getSavedVariables().filters[PINS_BOOKSHELF] = shown

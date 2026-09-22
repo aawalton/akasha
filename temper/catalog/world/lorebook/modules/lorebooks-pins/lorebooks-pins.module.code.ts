@@ -3,11 +3,6 @@ import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules
 import { isTable } from "akasha/temper/addon/shared/narrow/modules/is-table/is-table.module.code.ts"
 import {
   ICON_LIST_ZONEID,
-  LBOOKS_IMMERSIVE_DISABLED,
-  LBOOKS_IMMERSIVE_EXPLORATION,
-  LBOOKS_IMMERSIVE_WAYSHRINES,
-  LBOOKS_IMMERSIVE_ZONEMAINQUEST,
-  LBOOKS_IMMERSIVE_ZONEQUESTS,
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
   MISSING_TEXTURE,
@@ -22,6 +17,11 @@ import {
   SHALIDOR_LOCATION_X,
   SHALIDOR_LOCATION_Y,
   SHALIDOR_ZONEID,
+  SI_TEMPER_LOREBOOKS_IMMERSIVE_DISABLED,
+  SI_TEMPER_LOREBOOKS_IMMERSIVE_EXPLORATION,
+  SI_TEMPER_LOREBOOKS_IMMERSIVE_WAYSHRINES,
+  SI_TEMPER_LOREBOOKS_IMMERSIVE_ZONEMAINQUEST,
+  SI_TEMPER_LOREBOOKS_IMMERSIVE_ZONEQUESTS,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
 import {
   loreBooksGetBookshelfDataFromMapId,
@@ -173,14 +173,14 @@ function allAchievementsCompleted(conditionData: readonly number[]): boolean {
 export function shouldDisplayLoreBooks(this: void): boolean {
   const db = getSavedVariables()
 
-  if (db.immersiveMode === LBOOKS_IMMERSIVE_DISABLED) {
+  if (db.immersiveMode === SI_TEMPER_LOREBOOKS_IMMERSIVE_DISABLED) {
     return true
   }
 
   const mapIndex = MAP_DATA_STATE.mapIndex
 
   if (mapIndex !== undefined) {
-    if (db.immersiveMode === LBOOKS_IMMERSIVE_ZONEMAINQUEST) {
+    if (db.immersiveMode === SI_TEMPER_LOREBOOKS_IMMERSIVE_ZONEMAINQUEST) {
       const conditionData = loreBooksGetImmersiveModeCondition(db.immersiveMode, mapIndex)
       if (type(conditionData) === "table") {
         return allAchievementsCompleted(asReadonlyNumberArray(conditionData))
@@ -188,12 +188,12 @@ export function shouldDisplayLoreBooks(this: void): boolean {
         const [, , , , completed] = GetAchievementInfo(asNumber(conditionData))
         return completed
       }
-    } else if (db.immersiveMode === LBOOKS_IMMERSIVE_WAYSHRINES) {
+    } else if (db.immersiveMode === SI_TEMPER_LOREBOOKS_IMMERSIVE_WAYSHRINES) {
       if (mapIndex !== GetCyrodiilMapIndex()) {
         const conditionData = loreBooksGetImmersiveModeCondition(db.immersiveMode, mapIndex)
         return asBoolean(conditionData)
       }
-    } else if (db.immersiveMode === LBOOKS_IMMERSIVE_EXPLORATION) {
+    } else if (db.immersiveMode === SI_TEMPER_LOREBOOKS_IMMERSIVE_EXPLORATION) {
       const conditionData = loreBooksGetImmersiveModeCondition(db.immersiveMode, mapIndex)
       if (type(conditionData) === "table") {
         return allAchievementsCompleted(asReadonlyNumberArray(conditionData))
@@ -201,7 +201,7 @@ export function shouldDisplayLoreBooks(this: void): boolean {
         const [, , , , completed] = GetAchievementInfo(asNumber(conditionData))
         return completed
       }
-    } else if (db.immersiveMode === LBOOKS_IMMERSIVE_ZONEQUESTS) {
+    } else if (db.immersiveMode === SI_TEMPER_LOREBOOKS_IMMERSIVE_ZONEQUESTS) {
       const conditionData = loreBooksGetImmersiveModeCondition(db.immersiveMode, mapIndex)
       if (type(conditionData) === "table") {
         return allAchievementsCompleted(asReadonlyNumberArray(conditionData))
