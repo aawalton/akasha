@@ -4,7 +4,7 @@ export const promiseRace = {
   id: "01a08c59-57c2-7527-b475-90166b8a3bda",
   type: "page-type/lualib-helper",
   slug: "promise-race",
-  definition: "one promise answering with whichever of many settles first",
+  definition: "a promise answering with whichever of many settles first",
   code: "ts",
   luaExport: "__TS__PromiseRace",
 } as const satisfies LualibHelper

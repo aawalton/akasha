@@ -4,7 +4,7 @@ export const nounRunAlone = {
   id: "01a0c620-6a9c-787c-8e9b-8cbfd5e20a22",
   type: "page-type/construction",
   slug: "noun-run-alone",
-  definition: "a noun group written from one noun run and nothing else",
+  definition: "a noun group written from a noun run and nothing else",
   phraseKind: "phrase-kind/noun-group",
   writtenFrom: ["phrase-kind/noun-run"],
   admits: ["page property", "code"],

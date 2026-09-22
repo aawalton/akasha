@@ -4,7 +4,7 @@ export const cpuKind = {
   id: "01a09185-edee-760c-88ee-bd4e0bbbcef7",
   type: "page-type/page-type",
   slug: "cpu-kind",
-  definition: "one measure a reading of a processor is taken in",
+  definition: "a measure a reading of a processor is taken in",
   extends: ["page-type/domain"],
   parts: [
     "cpu-kind/burned",

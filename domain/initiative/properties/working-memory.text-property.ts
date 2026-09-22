@@ -5,7 +5,7 @@ export const workingMemory = {
   type: "page-type/text-property",
   slug: "working-memory",
   propertySlug: "working-memory",
-  definition: "the state of the work on one intent",
+  definition: "the state of the work on an intent",
   maxLength: 500,
   nameFormat: null,
   types: "ts",
