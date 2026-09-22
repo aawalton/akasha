@@ -86,28 +86,6 @@ export const theTowerAlan = {
         "Affinity tier (SENSE): now senses the foreign stored-force deliberately (the t79 incidental torque-tell becomes a real sense -- no longer slides off). Cannot yet draw-and-keep or wield it: housing into ember flesh fails (wrong vessel); needs an EXTERNAL ember-housed vessel. Counter 1/10 toward Force Manipulation. Bias +1 per the ember-parallel ladder, LATENT until he has a vessel to act through.",
     },
   ],
-  traits: [
-    {
-      name: "Wild Variance",
-      effect:
-        "Action rolls use 1d20 (flat, fat-tailed), not 2d10. Natural 20 = CRIT (x1.5, floored margin). Natural 1 = FUMBLE (misfire regardless of gap). Far more crits AND catastrophes than anyone else at the table.",
-    },
-    {
-      name: "State-Gated Presence",
-      effect:
-        "Full PRESENCE when regulated/up; PRESENCE-based actions sag when depleted (Safety-low). High ceiling, conditional access.",
-    },
-    {
-      name: "Sensitivity, not Observance",
-      effect:
-        "Passive notice/spot checks are weak (misses ambush, detail). Reading a weakness by REASONING runs off INTELLECT (peak), not Perception. His edge is analysis, never noticing.",
-    },
-    {
-      name: "Hiker's Legs",
-      effect:
-        "Leg-driven actions (kicks, leaps, climbs, sustained movement) earn intent bonuses. Overhead/grip/heavy-press actions are capped low. MIGHT 11 is a tested FLOOR, not a ceiling (home equipment can't load his true max).",
-    },
-  ],
   equipment: [
     {
       name: "Stalker hide cloak",
