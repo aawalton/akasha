@@ -56,6 +56,7 @@ export const game = {
     "module/page-filing",
     "module/world-filing",
     "relation-property/player-entity",
+    "page-type/game-turn",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
