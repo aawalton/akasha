@@ -4765,6 +4765,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-bulk-update-equipment/companion-bulk-update-equipment.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-description-utils/companion-description-utils.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-effect-category/companion-effect-category.module.ts"}

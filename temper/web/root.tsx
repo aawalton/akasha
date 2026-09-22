@@ -30,8 +30,8 @@ import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostic
 import {
   catalogOf,
   holdCompanionCatalog,
-  loadCompanionCatalog,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect } from "react"

@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-optimizer/companion-optimizer.module.code.ts"}
@@ -9,6 +10,7 @@
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-rotation-state/companion-rotation-state.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-executor/companion-skill-executor.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-line-queries/companion-skill-line-queries.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-line-reading/companion-skill-line-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-queries/companion-skill-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-suggestion-generator/companion-suggestion-generator.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-baseline/companion-support-baseline.module.code.ts"}
@@ -18,7 +20,6 @@
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/web/modules/companion-passive-skills-panel-card/companion-passive-skills-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/web/modules/companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/web/modules/companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts"}

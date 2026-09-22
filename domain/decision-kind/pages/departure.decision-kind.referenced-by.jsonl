@@ -4568,6 +4568,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.ts","id":"01a06108-0763-7147-bd41-21baa914acb5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.ts","id":"01a06108-0764-711e-b931-1a61746c79b0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-bulk-update-equipment/companion-bulk-update-equipment.module.ts","id":"01a06152-c2c5-7e0c-8688-41d1ac8871ea"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.ts","id":"01a0cb08-a225-7b9e-8f96-42a64367f53a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.ts","id":"01a0cac0-8ed4-775f-b90e-131cec257453"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.ts","id":"01a06152-c2c7-7dff-b7bf-68a31c3744ce"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.ts","id":"01a06152-c2c7-72a3-af73-86de77280931"}

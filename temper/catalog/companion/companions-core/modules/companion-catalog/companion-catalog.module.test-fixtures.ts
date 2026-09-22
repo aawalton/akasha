@@ -3,11 +3,11 @@ import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.mod
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
   type CompanionCatalog,
+  type CompanionSkillLineTemplate,
   catalogOf,
   holdCompanionCatalog,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
-import type { CompanionSkillLineTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-line-reading/companion-skill-line-reading.module.code.ts"
 import {
   conditionsIn,
   effectsIn,

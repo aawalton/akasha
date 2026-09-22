@@ -1,13 +1,17 @@
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
-import {
-  type CompanionSkillLineTemplate,
-  readCompanionSkillLines,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-line-reading/companion-skill-line-reading.module.code.ts"
-import { readCompanionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-reading/companion-skill-reading.module.code.ts"
 
 export type CompanionSkillId = string
 
 export type CompanionSkillLineId = string
+
+export type CompanionSkillLineCategory = "class" | "weapon" | "guild" | "armor"
+
+export interface CompanionSkillLineTemplate {
+  readonly id: string
+  readonly name: string
+  readonly companionId: string | null
+  readonly category: CompanionSkillLineCategory
+}
 
 export interface CompanionCatalog {
   readonly skills: readonly CompanionSkillTemplate[]
@@ -44,6 +48,10 @@ export function holdCompanionCatalog(catalog: CompanionCatalog): CompanionCatalo
   return catalog
 }
 
+export function heldCompanionCatalog(): CompanionCatalog | null {
+  return held
+}
+
 export function companionCatalog(): CompanionCatalog {
   if (held === null) throw new Error(UNREAD)
   return held
@@ -76,12 +84,4 @@ export function companionSkillLineAt(id: string): CompanionSkillLineTemplate {
   const line = companionCatalog().skillLinesById[id]
   if (line === undefined) throw new Error(`no companion skill line page answers to \`${id}\``)
   return line
-}
-
-export async function loadCompanionCatalog(): Promise<CompanionCatalog> {
-  if (held !== null) return held
-  const [skills, skillLines] = await Promise.all([readCompanionSkills(), readCompanionSkillLines()])
-  const catalog = catalogOf(skills, skillLines)
-  held = catalog
-  return catalog
 }

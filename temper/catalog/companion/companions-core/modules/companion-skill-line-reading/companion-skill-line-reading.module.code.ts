@@ -1,16 +1,11 @@
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type {
+  CompanionSkillLineCategory,
+  CompanionSkillLineTemplate,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import { textIn } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-reading/companion-skill-reading.module.code.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
-
-export type CompanionSkillLineCategory = "class" | "weapon" | "guild" | "armor"
-
-export interface CompanionSkillLineTemplate {
-  readonly id: string
-  readonly name: string
-  readonly companionId: string | null
-  readonly category: CompanionSkillLineCategory
-}
 
 const CATEGORIES: readonly CompanionSkillLineCategory[] = ["class", "weapon", "guild", "armor"]
 
