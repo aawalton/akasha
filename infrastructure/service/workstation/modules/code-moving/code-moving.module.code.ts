@@ -90,9 +90,9 @@ export function saidOfNoCommit(at: string): string {
 
 export function saidOfMoved(moved: Moved): string {
   return (
-    `the tree this code came out of moved from ${moved.from} to ${moved.to}, so this run ends on ` +
+    `the code this run is running moved from ${moved.from} to ${moved.to}, so this run ends on ` +
     `${RESTART_EXIT} here, where the unit of work before it has landed, for systemd to start it ` +
-    "again on the code that tree holds now"
+    "again on the code that commit holds"
   )
 }
 
