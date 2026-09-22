@@ -13,7 +13,7 @@ export const mapPinsFishingNodes02 = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The run is the add-on's own source rather than a derivation.",
+      statement: "The set is the add-on's own source rather than a derivation.",
     },
   ],
 } as const satisfies Module
