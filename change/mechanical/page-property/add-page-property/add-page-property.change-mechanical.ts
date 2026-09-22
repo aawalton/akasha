@@ -8,7 +8,7 @@ export const addPageProperty = {
   changeTargetType: "change-target-type/page-property",
   changeTargetSubtype: "change-target-subtype/page-property",
   definition:
-    "one page property made, with its page, its part, every declaration of it and every page's key",
+    "a page property made, with its page, its part, every declaration of it and every page's key",
   code: "ts",
   test: "ts",
   decisions: [

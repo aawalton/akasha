@@ -7,7 +7,7 @@ export const renameLocalVariable = {
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "the change spelling a local binding and its references anew in one file",
+  definition: "the change spelling a local binding and its references anew in a file",
   code: "ts",
   test: "ts",
   decisions: [

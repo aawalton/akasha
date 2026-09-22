@@ -7,7 +7,7 @@ export const removeFilePageType = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page-type",
-  definition: "one page type taken away with every file that page type keeps beside it",
+  definition: "a page type taken away with every file that page type keeps beside it",
   code: "ts",
   test: "ts",
   decisions: [

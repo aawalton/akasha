@@ -7,7 +7,7 @@ export const changeFileContent = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content",
-  definition: "one passage of one body replaced by another, with nothing else judged",
+  definition: "a passage of a body replaced by another, with nothing else judged",
   code: "ts",
   test: "ts",
   decisions: [

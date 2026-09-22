@@ -7,7 +7,7 @@ export const addFileCode = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-code",
-  definition: "one code body written at one path, with the imports that body names judged",
+  definition: "a code body written at a path, with the imports that body names judged",
   code: "ts",
   test: "ts",
   decisions: [

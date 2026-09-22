@@ -7,7 +7,7 @@ export const moveFilePageProperty = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page-property",
-  definition: "one page property's own file moved to another path with the files beside it",
+  definition: "a page property's own file moved to another path with the files beside it",
   code: "ts",
   test: "ts",
   decisions: [
