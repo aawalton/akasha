@@ -36,6 +36,15 @@ export const uiControlModel = {
       statement: "A snapshot carries the controls under one control as a tree.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A name read off a control starting with a capital is read as a method.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A method the model lacks is counted and answers with the control, so one load finds them all.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No control here has a place on screen.",
     },

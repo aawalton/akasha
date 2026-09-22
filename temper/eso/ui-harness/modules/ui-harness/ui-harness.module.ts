@@ -30,6 +30,10 @@ export const uiHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller reads how often each method the model lacks was called.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller names the control and the event to run a handler.",
     },
     {

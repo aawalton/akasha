@@ -44,9 +44,17 @@ local CONTROL_TYPES = {
 
 local named = {}
 local everyControl = {}
+local unmodelled = {}
 
 local Control = {}
-Control.__index = Control
+
+Control.__index = function(self, key)
+  local found = rawget(Control, key)
+  if found ~= nil then return found end
+  if type(key) ~= "string" or string.match(key, "^%u") == nil then return nil end
+  unmodelled[key] = (unmodelled[key] or 0) + 1
+  return function() return self end
+end
 
 local function claim(name, control)
   if name == nil or name == "" then return nil end
@@ -267,6 +275,12 @@ function _G.__ui_snapshot(name)
   local control = name == nil and _G.GuiRoot or named[name]
   if control == nil then return nil end
   return snapshotOf(control)
+end
+
+function _G.__ui_unmodelled()
+  local found = {}
+  for name, count in pairs(unmodelled) do found[name] = count end
+  return found
 end
 
 function _G.__ui_names()

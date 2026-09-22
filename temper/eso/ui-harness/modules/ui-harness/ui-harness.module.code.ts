@@ -86,6 +86,7 @@ export type UiHarness = {
   readonly load: (source: string) => Promise<unknown>
   readonly snapshot: (name?: string) => Promise<UiControl | null>
   readonly names: () => Promise<readonly string[]>
+  readonly unmodelled: () => Promise<Readonly<Record<string, number>>>
   readonly fire: (name: string, event: string, ...args: readonly unknown[]) => Promise<boolean>
   readonly close: () => Promise<void>
 }
@@ -114,6 +115,11 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
     async names(): Promise<readonly string[]> {
       const answered = await vm.doString("return __ui_names()")
       return z.array(z.string()).parse(asList(answered))
+    },
+    async unmodelled(): Promise<Readonly<Record<string, number>>> {
+      const answered = await vm.doString("return __ui_unmodelled()")
+      if (Array.isArray(answered)) return {}
+      return z.record(z.string(), z.number()).parse(answered)
     },
     async fire(name, event, ...args): Promise<boolean> {
       const passed = args.map((arg) => marshalLuaValue(arg)).join(", ")
