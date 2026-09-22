@@ -139,5 +139,5 @@ export const theTowerAlan = {
   ],
   dice: "game-mechanic/one-d-twenty",
   unspentAttributePoints: 3,
-  note: "Glass cannon of a MIND. Fragile body (VIT 6), peak analysis (INT 18), swingy fate (1d20), roaring-when-regulated charisma (PRES 15). D&D scale: 10 = average adult, 18 = human peak. Calibrated with Alan + Aelwyn 2026-06-24. — No class yet. None is the ordinary base state (not an error); a class is shaped by what you do. Display shows 'None', flat, no warning framing.",
+  note: "Glass cannon of a MIND. Fragile body, peak analysis, swingy fate (1d20), roaring-when-regulated charisma. D&D scale: 10 = average adult, 18 = human peak. — No class yet. None is the ordinary base state (not an error); a class is shaped by what you do. Display shows 'None', flat, no warning framing.",
 } as const satisfies GameEntity
