@@ -4,6 +4,7 @@ export const jamesTaylorJamesTaylorAtChristmasInTheBleakMidwinter = {
   id: "01a0abeb-2d82-7ca8-9d6c-b5de282790d0",
   type: "page-type/track",
   slug: "james-taylor-james-taylor-at-christmas-in-the-bleak-midwinter",
+  grade: "A",
   ownLength: 4.176666666666667,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
