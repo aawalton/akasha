@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/claude-code/modules/session-watch/session-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/hook/agent-hook/name-session/name-session.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/messaging/modules/messages-agent-tools/messages-agent-tools.module.code.ts"}

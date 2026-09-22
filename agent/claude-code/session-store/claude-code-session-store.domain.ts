@@ -71,5 +71,13 @@ export const claudeCodeSessionStore = {
       decisionKind: "decision-kind/gap",
       statement: "Nothing here works out where a session's file is from a working directory.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Moving a live session's file makes the writer open a new file at the old path.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That new file has only the lines written after the move.",
+    },
   ],
 } as const satisfies Domain

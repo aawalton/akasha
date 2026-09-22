@@ -1,6 +1,6 @@
 import { closeSync, openSync, readdirSync, readSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { readTranscriptSessionId } from "akasha/agent/claude-code/session/modules/session-jsonl/session-jsonl.module.code.ts"
+import { readTranscriptSessionId } from "akasha/agent/claude-code/modules/session-jsonl/session-jsonl.module.code.ts"
 import { akashaSeatsThatExist } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaObservedOf } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 import {

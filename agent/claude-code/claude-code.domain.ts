@@ -5,5 +5,36 @@ export const claudeCode = {
   type: "page-type/domain",
   slug: "claude-code",
   definition: "an akasha agent's program",
-  parts: ["domain/claude-code-session", "domain/claude-code-tool", "module/claude-launch-args"],
+  parts: [
+    "domain/claude-code-session-store",
+    "domain/claude-code-tool",
+    "module/claude-launch-args",
+    "module/session-jsonl",
+    "module/session-jsonl-schema",
+    "module/session-watch",
+    "module/transcript-materialize",
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A session is one agent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A session's id changes when the agent changes and never otherwise.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A session is found by its id rather than by where its file is kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each line of a session records the working directory that line was written under.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A session records no working directory of its own.",
+    },
+  ],
 } as const satisfies Domain
