@@ -19,6 +19,7 @@ const LOG = "log"
 const TURN = "turn"
 const WINDOW = "window"
 const RANK = "rank"
+const RUNG = "rung"
 const LEVEL = "level"
 const DESCRIBED = "descriptors"
 const INSIDE = ["award", "quest", "assessment", "activation", "choice"] as const
@@ -33,7 +34,7 @@ const MARK = ": "
 export type Raised = {
   readonly kind: string
   readonly name?: string
-  readonly rank?: string
+  readonly rung?: string
   readonly level?: number
   readonly note?: string
 }
@@ -66,7 +67,7 @@ export function raisedIn(held: unknown): Raised | undefined {
   return {
     kind: kind.toLowerCase(),
     name: joinedOf(inside, NAMES),
-    rank: saidIn(held[RANK]) ?? saidIn(inside[RANK]),
+    rung: saidIn(held[RANK]) ?? saidIn(inside[RANK]) ?? saidIn(inside[RUNG]),
     level: countIn(held[LEVEL]) ?? countIn(inside[LEVEL]),
     note: detailedIn(inside[DESCRIBED]) ?? joinedOf(inside, NOTES),
   }

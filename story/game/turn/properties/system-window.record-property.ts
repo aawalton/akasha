@@ -9,7 +9,7 @@ export const systemWindow = {
   properties: [
     { pageProperty: "text-property/window-kind", required: true, many: false },
     { pageProperty: "text-property/listed-name", required: false, many: false },
-    { pageProperty: "text-property/window-rank", required: false, many: false },
+    { pageProperty: "text-property/listed-rung", required: false, many: false },
     { pageProperty: "number-property/entity-level", required: false, many: false },
     { pageProperty: "text-property/listed-note", required: false, many: false },
   ],

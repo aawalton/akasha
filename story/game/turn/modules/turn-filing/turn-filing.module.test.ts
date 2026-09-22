@@ -57,14 +57,14 @@ test("what a window says about one thing comes off as a kind, a name and a line"
   expect(raisedIn({ type: "level-up", level: 5 })).toEqual({
     kind: "level-up",
     name: undefined,
-    rank: undefined,
+    rung: undefined,
     level: 5,
     note: undefined,
   })
   expect(raisedIn({ rank: "Apprentice", type: "skill", skill: "Smithing" })).toEqual({
     kind: "skill",
     name: "Smithing",
-    rank: "Apprentice",
+    rung: "Apprentice",
     level: undefined,
     note: undefined,
   })

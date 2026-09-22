@@ -57,6 +57,7 @@ export const game = {
     "module/world-filing",
     "relation-property/player-entity",
     "page-type/game-turn",
+    "text-property/listed-rung",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
