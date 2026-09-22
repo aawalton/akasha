@@ -43,6 +43,7 @@ export const agent = {
     "relation-property/principal-seat-name",
     "service-workstation/sweep-stray-processes",
     "service-workstation/sweep-subagent-pages",
+    "domain/agent-session",
   ],
   properties: [
     {

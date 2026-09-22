@@ -4,7 +4,7 @@ export const claudeCodeSession = {
   id: "01a0c9aa-9160-7910-b58e-7182271d836f",
   type: "page-type/domain",
   slug: "claude-code-session",
-  definition: "a conversation Claude Code can pick up again",
+  definition: "an agent session in Claude Code",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "session" },
     { partOfSpeech: "part-of-speech/noun", spelling: "sessions" },

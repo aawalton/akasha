@@ -170,6 +170,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-ticking/supervisor-ticking.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-tooling/supervisor-tooling.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/turn-state/seat-turn-state.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/session/agent-session.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/settings/agent-settings.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/subagent/kind/subagent-kind.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"akasha.domain.ts"}
