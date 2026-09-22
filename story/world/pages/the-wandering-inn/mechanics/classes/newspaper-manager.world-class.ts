@@ -6,5 +6,6 @@ export const newspaperManager = {
   slug: "newspaper-manager",
   title: "Newspaper Manager",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

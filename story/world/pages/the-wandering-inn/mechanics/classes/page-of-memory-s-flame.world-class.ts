@@ -6,5 +6,6 @@ export const pageOfMemorySFlame = {
   slug: "page-of-memory-s-flame",
   title: "Page of Memory’s Flame",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

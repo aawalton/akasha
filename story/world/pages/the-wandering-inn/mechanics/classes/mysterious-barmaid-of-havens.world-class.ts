@@ -6,6 +6,7 @@ export const mysteriousBarmaidOfHavens = {
   slug: "mysterious-barmaid-of-havens",
   title: "Mysterious Barmaid of Havens",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesFromSlugs: ["boxhead-barmaid"],
   references: "jsonl",
 } as const satisfies WorldClass

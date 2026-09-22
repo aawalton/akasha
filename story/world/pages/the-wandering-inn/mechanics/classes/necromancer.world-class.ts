@@ -6,6 +6,7 @@ export const necromancer = {
   slug: "necromancer",
   title: "Necromancer",
   world: "world/the-wandering-inn",
+  appearanceCount: 338,
   aliases: ["necromancers"],
   evolvesToSlugs: ["ossific-necromancer"],
   references: "jsonl",

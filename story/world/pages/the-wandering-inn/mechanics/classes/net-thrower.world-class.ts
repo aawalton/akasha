@@ -6,5 +6,6 @@ export const netThrower = {
   slug: "net-thrower",
   title: "Net Thrower",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass
