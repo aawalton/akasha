@@ -1,6 +1,7 @@
 {"propertySlug":"decision-kind","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/modules/claude-launch-args/claude-launch-args.module.ts","id":"01a0695a-d2ea-7745-a7c8-079b5840aab1"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/session/claude-code-session.domain.ts","id":"01a0c9aa-9160-7910-b58e-7182271d836f"}
+{"propertySlug":"decision-kind","path":"agent/claude-code/session/event/claude-code-session-event.domain.ts","id":"01a0c9d8-4cc0-7474-8d6d-18890c44e6a5"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/session/modules/session-watch/session-watch.module.ts","id":"01a06983-278f-7765-a092-a4267cf79118"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/session/store/claude-code-session-store.domain.ts","id":"01a065b0-2103-7e19-a5cb-8f425124086c"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/agent-hook.page-type.ts","id":"01a04e0a-f8fa-7fb8-a730-0e27c83701be"}

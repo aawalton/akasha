@@ -15,6 +15,7 @@ export const claudeCodeSession = {
     "module/session-jsonl-schema",
     "module/session-watch",
     "module/transcript-materialize",
+    "domain/claude-code-session-event",
   ],
   decisions: [
     {
