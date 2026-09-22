@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"world.relation-property.types.ts","path":"story/world/designs/story-design.page-type.types.ts"}
 {"propertySlug":"import","fileName":"world.relation-property.types.ts","path":"story/world/mechanics/world-mechanic.page-type.types.ts"}
 {"propertySlug":"import","fileName":"world.relation-property.types.ts","path":"story/world/named-events/named-event.page-type.types.ts"}
-{"propertySlug":"import","fileName":"world.relation-property.types.ts","path":"story/world/stories/played/story-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"world.relation-property.types.ts","path":"story/world/stories/read/story-read.page-type.types.ts"}
 {"propertySlug":"import","fileName":"world.relation-property.types.ts","path":"story/world/wiki-entries/story-wiki-entry.page-type.types.ts"}
 {"propertySlug":"page-property","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
@@ -17,7 +16,6 @@
 {"propertySlug":"page-property","path":"story/world/designs/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}
 {"propertySlug":"page-property","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"page-property","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
-{"propertySlug":"page-property","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"page-property","path":"story/world/stories/read/story-read.page-type.ts","id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
 {"propertySlug":"page-property","path":"story/world/wiki-entries/story-wiki-entry.page-type.ts","id":"01a06578-d638-7c48-8225-eb46a4fbf9c6"}
 {"propertySlug":"parts","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}

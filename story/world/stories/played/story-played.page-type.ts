@@ -6,7 +6,7 @@ export const storyPlayed = {
   slug: "story-played",
   definition: "a story nobody wrote",
   pluralSlug: "stories",
-  extends: ["page-type/collection"],
+  extends: ["page-type/story"],
   runsTabooCheck: false,
   detailConfig: {
     header: {
@@ -26,11 +26,6 @@ export const storyPlayed = {
     "page-type/story-element-played",
     "page-type/story-turn-played",
     "relation-property/world",
-  ],
-  properties: [
-    { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "relation-property/world", required: false, many: false },
-    { pageProperty: "file-property/prose", required: false, many: false },
   ],
   decisions: [
     {

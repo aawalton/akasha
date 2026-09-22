@@ -19,7 +19,6 @@
 {"propertySlug":"extends-type","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"extends-type","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"extends-type","path":"story/world/stories/played/chapters/story-chapter-played.page-type.ts","id":"01a064b4-46c9-7489-9817-d9dae65e7936"}
-{"propertySlug":"extends-type","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"extends-type","path":"story/world/stories/played/turns/story-turn-played.page-type.ts","id":"01a064bc-8477-7bac-98ec-152da07077ce"}
 {"propertySlug":"extends-type","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/book/alan-book.page-type.types.ts"}
@@ -57,7 +56,6 @@
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/game/game.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/story.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"}
-{"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/world/stories/played/story-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/world/stories/played/turns/story-turn-played.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"}
 {"propertySlug":"parts","path":"alan/alan.domain.ts","id":"01a05dfc-d883-7000-81e2-065c3cad4cec"}
