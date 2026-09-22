@@ -6,4 +6,10 @@ export const navActive = {
   slug: "nav-active",
   definition: "whether a nav item matches the path being shown",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A nav item matches a path at a boundary between segments and nowhere else.",
+    },
+  ],
 } as const satisfies Module

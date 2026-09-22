@@ -2385,6 +2385,7 @@
 {"propertySlug":"decision-kind","path":"design/interface/color/color.page-type.ts","id":"01a06575-c2a9-766f-8f09-da30cc969637"}
 {"propertySlug":"decision-kind","path":"design/interface/design-interface.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
 {"propertySlug":"decision-kind","path":"design/interface/layout/modules/app-shell-sidebar/app-shell-sidebar.module.ts","id":"01a05b82-8b98-7341-a3de-18953237e37f"}
+{"propertySlug":"decision-kind","path":"design/interface/layout/modules/nav-active/nav-active.module.ts","id":"01a05b82-8b9a-745f-97df-0cda03922d9c"}
 {"propertySlug":"decision-kind","path":"design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.ts","id":"01a05b82-8b99-71ea-8418-c319e661ecd8"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/drag-hold/drag-hold.module.ts","id":"01a09093-a35f-7798-8306-75a6528275cb"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/filter-changing/filter-changing.module.ts","id":"01a090ec-d6a6-7001-9492-6e84f3f7dfe4"}
