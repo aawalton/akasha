@@ -20,34 +20,31 @@ export const UNREAD = "internalError/io"
 
 const WENT = "the linter could not read"
 
-export function readsIn(said: Uint8Array | null): readonly string[] | null {
-  if (said === null) return null
-  const found: string[] = []
+export type Configured = string | Uint8Array | null
+
+function includesIn(said: Configured): readonly string[] {
+  if (said === null) return []
+  const body = typeof said === "string" ? said : new TextDecoder().decode(said)
   try {
-    const held = JSON.parse(new TextDecoder().decode(said)) as {
-      files?: { includes?: readonly string[] }
-    }
-    for (const one of held.files?.includes ?? []) {
-      if (one.startsWith(NAMES)) found.push(one.slice(NAMES.length - 1))
-    }
+    const held = JSON.parse(body) as { files?: { includes?: readonly string[] } }
+    return held.files?.includes ?? []
   } catch {
-    return null
+    return []
+  }
+}
+
+export function readsIn(said: Configured): readonly string[] | null {
+  const found: string[] = []
+  for (const one of includesIn(said)) {
+    if (one.startsWith(NAMES)) found.push(one.slice(NAMES.length - 1))
   }
   return found.length === 0 ? null : found
 }
 
-export function skippedIn(said: Uint8Array | null): readonly string[] {
-  if (said === null) return []
-  try {
-    const held = JSON.parse(new TextDecoder().decode(said)) as {
-      files?: { includes?: readonly string[] }
-    }
-    return (held.files?.includes ?? [])
-      .filter((one) => one.startsWith(SKIPPED))
-      .map((one) => one.slice(SKIPPED.length))
-  } catch {
-    return []
-  }
+export function skippedIn(said: Configured): readonly string[] {
+  return includesIn(said)
+    .filter((one) => one.startsWith(SKIPPED))
+    .map((one) => one.slice(SKIPPED.length))
 }
 
 function skipping(path: string, glob: string): boolean {

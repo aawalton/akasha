@@ -6,7 +6,7 @@ import {
   readsIn,
   skippedIn,
 } from "akasha/check/code/pages/lint-clean/lint-clean.check-code.decision.code.ts"
-import { everythingIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { commitIn } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { lintedOver } from "akasha/code/running/modules/code-lint/code-lint.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -34,10 +34,10 @@ export const mortalling: Mortalling = (root) => {
 }
 
 export function lintClean(root: string, given: Reading = {}): readonly Judged[] {
-  const change = everythingIn(root)
-  const said = change.after(CONFIG)
+  const commit = commitIn(root)
+  const said = commit.read(CONFIG)
   const skips = [...skippedIn(said), ...(given.mortal ?? mortalling)(root)]
-  const first = namedIn(change.changed, readsIn(said), skips)[0]
+  const first = namedIn(commit.paths, readsIn(said), skips)[0]
   if (first === undefined) return []
-  return judgedOf(lintedOver(root, HERE), first, root, TREE, skips)
+  return judgedOf(lintedOver(commit.root, HERE), first, commit.root, TREE, skips)
 }
