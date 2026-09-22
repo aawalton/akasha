@@ -393,7 +393,7 @@ export const HUD_FRAGMENT_GROUP = [
     source: { file: HUD_SCENE_SOURCE, line: 113 },
     conditional: false,
     wrapsMultiple: false,
-    grainNotes: "FCOChangeStuff hides the tracker today through a path of its own.",
+    grainNotes: "TemperInterface hides the tracker today through a path of its own.",
   },
   {
     id: "spectator-camera-action-layer-fragment",

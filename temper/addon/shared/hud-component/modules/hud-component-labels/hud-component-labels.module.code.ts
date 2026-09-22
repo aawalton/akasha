@@ -83,7 +83,7 @@ export const COMPONENT_LABELS: Readonly<Record<string, ComponentLabel>> = {
   PROMOTIONAL_EVENT_TRACKER_FRAGMENT: {
     name: "Promotional event tracker",
     category: "tracker",
-    grainNotes: "FCOChangeStuff hides the tracker today through a path of its own.",
+    grainNotes: "TemperInterface hides the tracker today through a path of its own.",
   },
   SPECTATOR_CAMERA_ACTION_LAYER_FRAGMENT: {
     name: "Spectator camera action layer",

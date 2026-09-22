@@ -203,7 +203,7 @@ declare const KEYBIND_STRIP_ALIGN_CENTER: number
 
 interface KeyboardSkillsWindow {
   control: Control
-  skillLinesTree?: { rootNode?: { children?: FcocsSkillLinesTreeNode[] } }
+  skillLinesTree?: { rootNode?: { children?: TweakSkillLinesTreeNode[] } }
 }
 
 interface ZO_DialogInfo {
