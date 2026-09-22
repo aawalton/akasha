@@ -13,11 +13,6 @@ export const dallaResourceManagement = {
         "`everythingIn` sets `changed` to every file in the tree and `before` and `after` to one `onDisk` reader, so an audit claims the whole repository moved and that nothing differs. Each audit builds that for itself; the runner builds `nothingIn` and drops it, and an audit takes only a root. `commit-reading` already answers bodies from one `git cat-file --batch` and holds a commit's trees across readers, so the listing is there unexposed. Sixty-four audits, five spawning an outside tool.",
     },
     {
-      statement: "An audit reads the one commit it opened at, from its first file to its last.",
-      workingMemory:
-        "An audit reads a read-only checkout at that commit, kept between rounds and brought forward by writing only what changed. The two `ls-files` passes each audit runs cost 0.87s, 56s over 64 audits; `ls-tree -r` answers 368,138 paths in 0.20s. The 164,434 files an audit lists are 858 MB: 2.86s through one `cat-file --batch`, 1.42s off a warm tree, and a batch reader is per-process while a checkout is shared. A full fill is 8.82s; 75 commits of drift is 342 files and 0.97s. Archive never unlinks.\n",
-    },
-    {
       statement: "Every audit collects the files that audit judges rather than listing the tree.",
       workingMemory:
         "A body comes only from the commit, and a file no commit holds is a name an audit sees and no body it reads. `everyFileInside` adds back 16,467 gitignored `.uncommitted.` entry and log files totalling 16.8 GB, against the 858 MB the commit holds. Seven audits reach for them, wanting existence rather than contents: `page-property-has-its-file`, `folder-matches-a-shape`, `no-unused-exports`, `no-unused-modules`, `restatement-narrows-something`, `no-page-address-spelled`.\n",
