@@ -66,7 +66,13 @@ local function claim(name, control)
   return name
 end
 
-local function birth(name, parent, controlType, virtual)
+local function resolved(name, parent)
+  if name == nil or parent == nil then return name end
+  return (string.gsub(name, "%$%(parent%)", parent.uiName or ""))
+end
+
+local function birth(named, parent, controlType, virtual)
+  local name = resolved(named, parent)
   local control = setmetatable({
     uiName = nil,
     uiType = controlType or CONTROL_TYPES.CT_CONTROL,
@@ -178,6 +184,13 @@ function Control:GetText() return self.uiText or "" end
 function Control:SetFont(font) self.uiFont = font end
 function Control:SetColor(r, g, b, a) self.uiColor = { r, g, b, a or 1 } end
 function Control:SetTexture(texture) self.uiTexture = texture end
+function Control:SetCenterTexture(texture) self.uiCenterTexture = texture end
+function Control:SetEdgeTexture(texture) self.uiEdgeTexture = texture end
+function Control:SetCenterColor(r, g, b, a) self.uiCenterColor = { r, g, b, a or 1 } end
+function Control:SetEdgeColor(r, g, b, a) self.uiEdgeColor = { r, g, b, a or 1 } end
+function Control:SetInsets(left, top, right, bottom)
+  self.uiInsets = { left, top, right, bottom }
+end
 function Control:SetEnabled(enabled) self.uiEnabled = enabled and true or false end
 function Control:SetState(state) self.uiState = state end
 function Control:GetState() return self.uiState end
