@@ -20,7 +20,25 @@ const ITEMS_REF =
 const ITEMS_BROWSER =
   "temper.addon.pages.items.modules.inventory-browser.inventory-browser.module.code"
 
+const CHARACTERS_SAVED =
+  "temper.player.completion.temper-player-completion.state.modules.completion-saved-variables.completion-saved-variables.module.code"
+
+const CHARACTERS_WINDOW =
+  "temper.addon.pages.characters.modules.characters-window.characters-window.module.code"
+
 const WINDOWS: readonly UiWindow[] = [
+  {
+    slug: "characters-window",
+    addon: "TemperCharacters",
+    savedVariables: ["TemperCharacters"],
+    control: "TemperWindow",
+    opens: `
+      local saved = __bundle_require("${CHARACTERS_SAVED}")
+      saved.initializeSavedVariables()
+      local window = __bundle_require("${CHARACTERS_WINDOW}")
+      window.toggleWindow()
+    `,
+  },
   {
     slug: "inventory-browser",
     addon: "TemperItems",

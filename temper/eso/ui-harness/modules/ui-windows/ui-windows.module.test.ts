@@ -16,6 +16,7 @@ const MARKUP = `<GuiXml><Controls>
 describe("uiWindowSlugs", () => {
   test("names every window a run has brought up", () => {
     expect(uiWindowSlugs()).toContain("inventory-browser")
+    expect(uiWindowSlugs()).toContain("characters-window")
   })
 })
 

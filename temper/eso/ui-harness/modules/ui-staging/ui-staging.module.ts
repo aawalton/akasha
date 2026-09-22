@@ -37,7 +37,22 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The account a saved variable is read under is the first account that file holds.",
+      statement:
+        "The game's own saved variables library is loaded rather than modelled again here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The account a saved variable is read under is the first by name the seeded files hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Who the player is answers from the seeded files rather than from a character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The character the addon reads is the harness rather than a character the player has.",
     },
     {
       decisionKind: "decision-kind/departure",

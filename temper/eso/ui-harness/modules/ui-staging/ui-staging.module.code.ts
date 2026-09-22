@@ -35,19 +35,51 @@ const LOADED_FIRST: readonly string[] = [
   "libraries/utility/baseobject.lua",
   "libraries/utility/zo_objectpool.lua",
   "libraries/utility/zo_callbackobject.lua",
+  "libraries/utility/zo_savedvars.lua",
   "libraries/zo_templates/objectpooltemplates.lua",
   "libraries/zo_templates/scrolltemplates.lua",
 ]
 
 const ACCOUNT_WIDE = `
+function __ui_accounts()
+  local found = {}
+  for _, held in pairs(_G) do
+    if type(held) == "table" then
+      local ok, default = pcall(rawget, held, "Default")
+      if ok and type(default) == "table" then
+        for key in pairs(default) do
+          if type(key) == "string" and string.sub(key, 1, 1) == "@" then
+            found[#found + 1] = key
+          end
+        end
+      end
+    end
+  end
+  table.sort(found)
+  return found
+end
+
 function __ui_account_wide(saved)
   local held = saved ~= nil and saved.Default or nil
   if held == nil then return nil end
-  for _, byAccount in pairs(held) do
-    local wide = byAccount["$AccountWide"]
+  local named = {}
+  for key in pairs(held) do named[#named + 1] = key end
+  table.sort(named)
+  for _, key in ipairs(named) do
+    local wide = held[key]["$AccountWide"]
     if wide ~= nil then return wide end
   end
   return nil
+end
+
+function __ui_play_as()
+  local found = __ui_accounts()
+  local named = found[1] or "@harness"
+  GetDisplayName = function() return named end
+  GetUnitName = function() return "Harness" end
+  GetCurrentCharacterId = function() return "0" end
+  GetWorldName = function() return "Harness" end
+  return named
 end
 `
 
@@ -140,6 +172,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     await harness.load(ACCOUNT_WIDE)
     await harness.loadBundle(readFileSync(bundleAt, "utf8"))
     for (const source of seeded) await harness.load(source)
+    await harness.load("return __ui_play_as()")
     return { harness, builtAt: builtAtCommit(asked.root), templates }
   } catch (thrown) {
     await harness.close()
