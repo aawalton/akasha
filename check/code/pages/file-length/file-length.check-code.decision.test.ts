@@ -1,12 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  CEILING,
   exemptIn,
   heldOff,
-  MARKUP_CEILING,
-  PROSE_CEILING,
   reasonsIn,
-  WHOLE_PROSE_CEILING,
 } from "akasha/check/code/pages/file-length/file-length.check-code.decision.code.ts"
 import {
   ELSEWHERE,
@@ -16,6 +12,12 @@ import {
   scratch,
   seeded,
 } from "akasha/check/code/pages/file-length/file-length.check-code.decision.test-fixtures.ts"
+import {
+  CEILING,
+  MARKUP_CEILING,
+  PROSE_CEILING,
+  WHOLE_PROSE_CEILING,
+} from "akasha/check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.code.ts"
 import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 

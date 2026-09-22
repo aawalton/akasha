@@ -1,6 +1,6 @@
 import { messageNamed } from "akasha/agent/messaging/modules/message-naming/message-naming.module.code.ts"
 import { akashaSeatIdForName } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { CEILING } from "akasha/check/code/pages/file-length/file-length.check-code.decision.code.ts"
+import { CEILING } from "akasha/check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.code.ts"
 import { pagesOriginIn } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"

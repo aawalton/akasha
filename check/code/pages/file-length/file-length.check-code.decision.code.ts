@@ -1,3 +1,9 @@
+import {
+  CEILING,
+  MARKUP_CEILING,
+  PROSE_CEILING,
+  WHOLE_PROSE_CEILING,
+} from "akasha/check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.code.ts"
 import { textNamed } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import {
   extensionsFor,
@@ -16,14 +22,6 @@ import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.m
 import { partedIn, sectionedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-
-export const CEILING = 15000
-
-export const MARKUP_CEILING = 128 * 1024
-
-export const PROSE_CEILING = 128 * 1024
-
-export const WHOLE_PROSE_CEILING = 512 * 1024
 
 const TEST = "test"
 
