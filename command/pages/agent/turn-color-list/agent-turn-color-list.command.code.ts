@@ -11,7 +11,6 @@ import { faulted, told } from "akasha/command/modules/answering/command-answerin
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { agentTurnColorList as page } from "akasha/command/pages/agent/turn-color-list/agent-turn-color-list.command.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const NAMED = [agentArgument, turnState]
 

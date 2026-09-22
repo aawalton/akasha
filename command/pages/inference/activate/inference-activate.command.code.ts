@@ -11,7 +11,6 @@ import {
   copActivate,
   findCop,
 } from "akasha/infrastructure/inference/pool/modules/cop-admin/cop-admin.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export type Residing = (done: string[], name: string) => Promise<Answer>
 

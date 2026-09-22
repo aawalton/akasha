@@ -18,7 +18,6 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 
 import { mobileSimLongPressDrag as page } from "akasha/command/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const TAKES = [x, y, toX, toY, holdMs, dragSteps, stepMs]
 

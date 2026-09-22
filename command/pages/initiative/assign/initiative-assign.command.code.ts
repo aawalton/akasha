@@ -19,7 +19,6 @@ import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.
 import { initiativeAssign as page } from "akasha/command/pages/initiative/assign/initiative-assign.command.ts"
 import { initiativesDrawn } from "akasha/domain/modules/work-initiatives/work-initiatives.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const CARRIES =
   `${changeMechanicalFileContent.slug}/${changePagePagePropertyRelation.slug}` as const

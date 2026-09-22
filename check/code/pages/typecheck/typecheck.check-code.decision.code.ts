@@ -32,7 +32,6 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { namedUnder } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { API } from "typescript-7/unstable/async"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
 
