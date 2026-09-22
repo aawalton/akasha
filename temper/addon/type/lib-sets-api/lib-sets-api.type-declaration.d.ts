@@ -594,7 +594,7 @@ interface LibSetsApi {
 }
 
 interface LibSetsApi {
-  CopyDialog: LibSetsCopyDialog
+  CopyDialog: SetsCopyDialog
 }
 
 interface LibSetsApi {

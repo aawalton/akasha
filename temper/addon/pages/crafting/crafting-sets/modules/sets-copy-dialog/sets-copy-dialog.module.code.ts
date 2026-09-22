@@ -31,10 +31,10 @@ const globalTable = asGlobalTable(globalThis)
 
 function dialogChild(
   this: void,
-  parent: LibSetsCopyDialogControl,
+  parent: SetsCopyDialogControl,
   suffix: string
-): LibSetsCopyDialogChild {
-  return asTyped<LibSetsCopyDialogChild>(asPresent(GetControl(asTyped<Control>(parent), suffix)))
+): SetsCopyDialogChild {
+  return asTyped<SetsCopyDialogChild>(asPresent(GetControl(asTyped<Control>(parent), suffix)))
 }
 
 const showDialogWithTextParams =
@@ -42,16 +42,16 @@ const showDialogWithTextParams =
     (
       this: void,
       name: string,
-      data?: LibSetsCopyDialogData,
+      data?: SetsCopyDialogData,
       textParams?: { [param: string]: string }
     ) => void
   >(ZO_Dialogs_ShowDialog)
 
-lib.CopyDialog = asTyped<LibSetsCopyDialog>({})
+lib.CopyDialog = asTyped<SetsCopyDialog>({})
 
 function changeCopyDialogPage(
   this: void,
-  copyDialogRef: LibSetsCopyDialog | undefined,
+  copyDialogRef: SetsCopyDialog | undefined,
   newIndex: number | undefined
 ): undefined {
   if (copyDialogRef === undefined) {
@@ -100,10 +100,10 @@ function changeCopyDialogPage(
 
 function setupDialog(
   this: void,
-  self: LibSetsCopyDialog,
-  control: LibSetsCopyDialogControl,
+  self: SetsCopyDialog,
+  control: SetsCopyDialogControl,
   dialog: unknown,
-  data: LibSetsCopyDialogData | undefined
+  data: SetsCopyDialogData | undefined
 ): undefined {
   const controlWidth = control.GetWidth() - 10
   self.title.SetDimensionConstraints(controlWidth, 75, controlWidth, 75)
@@ -129,7 +129,7 @@ function setupDialog(
   }
 }
 
-function updateEditAndButtons(this: void, self: LibSetsCopyDialog): undefined {
+function updateEditAndButtons(this: void, self: SetsCopyDialog): undefined {
   const textContent = self.textContent
   if (textContent === undefined) {
     return
@@ -170,8 +170,8 @@ function updateEditAndButtons(this: void, self: LibSetsCopyDialog): undefined {
   }
 }
 
-function createCopyTextDialog(this: void, control: LibSetsCopyDialogControl): LibSetsCopyDialog {
-  const self = asTyped<LibSetsCopyDialog>({})
+function createCopyTextDialog(this: void, control: SetsCopyDialogControl): SetsCopyDialog {
+  const self = asTyped<SetsCopyDialog>({})
   self.control = control
   control._object = self
 
@@ -191,12 +191,12 @@ function createCopyTextDialog(this: void, control: LibSetsCopyDialogControl): Li
   self.UpdateEditAndButtons = updateEditAndButtonsMethod
   self.SetupDialog = setupDialogMethod
 
-  const dialogInfo: LibSetsCopyDialogInfo = {
+  const dialogInfo: SetsCopyDialogInfo = {
     customControl: control,
     title: {
       text: `${libPrefix}Copy set '<<C:1>>'`,
     },
-    setup: (dialog: unknown, data: LibSetsCopyDialogData | undefined): undefined => {
+    setup: (dialog: unknown, data: SetsCopyDialogData | undefined): undefined => {
       setupDialog(self, control, dialog, data)
     },
     buttons: [
@@ -212,17 +212,17 @@ function createCopyTextDialog(this: void, control: LibSetsCopyDialogControl): Li
   return self
 }
 
-function isShown(this: LibSetsCopyDialog): boolean {
+function isShown(this: SetsCopyDialog): boolean {
   return !this.control.IsHidden()
 }
 
-function onShow(this: LibSetsCopyDialog): undefined {
+function onShow(this: SetsCopyDialog): undefined {
   updateEditAndButtons(this)
 }
 
 function show(
-  this: LibSetsCopyDialog,
-  dialogData?: LibSetsCopyDialogData,
+  this: SetsCopyDialog,
+  dialogData?: SetsCopyDialogData,
   textParams?: { [param: string]: string }
 ): undefined {
   if (this.IsShown()) {
@@ -232,14 +232,14 @@ function show(
   this.OnShow()
 }
 
-function onHide(this: LibSetsCopyDialog): undefined {
+function onHide(this: SetsCopyDialog): undefined {
   this.title.SetText("")
   this.text.SetText("")
   this.textContent = undefined
   ZO_Dialogs_ReleaseDialog(this.dialogName)
 }
 
-function hide(this: LibSetsCopyDialog): undefined {
+function hide(this: SetsCopyDialog): undefined {
   if (!this.IsShown()) {
     return
   }
@@ -247,28 +247,28 @@ function hide(this: LibSetsCopyDialog): undefined {
   this.OnHide()
 }
 
-function previousPage(this: LibSetsCopyDialog): undefined {
+function previousPage(this: SetsCopyDialog): undefined {
   changeCopyDialogPage(this, -1)
 }
 
-function nextPage(this: LibSetsCopyDialog): undefined {
+function nextPage(this: SetsCopyDialog): undefined {
   changeCopyDialogPage(this, 1)
 }
 
-function updateEditAndButtonsMethod(this: LibSetsCopyDialog): undefined {
+function updateEditAndButtonsMethod(this: SetsCopyDialog): undefined {
   updateEditAndButtons(this)
 }
 
 function setupDialogMethod(
-  this: LibSetsCopyDialog,
-  control: LibSetsCopyDialogControl,
+  this: SetsCopyDialog,
+  control: SetsCopyDialogControl,
   dialog: unknown,
-  data: LibSetsCopyDialogData | undefined
+  data: SetsCopyDialogData | undefined
 ): undefined {
   setupDialog(this, control, dialog, data)
 }
 
-function onDialogInitialized(this: void, dialogControl: LibSetsCopyDialogControl): undefined {
+function onDialogInitialized(this: void, dialogControl: SetsCopyDialogControl): undefined {
   if (isConsole) {
     return
   }

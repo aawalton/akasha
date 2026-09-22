@@ -1,39 +1,39 @@
-interface LibSetsCopyDialogControl {
+interface SetsCopyDialogControl {
   _object?: unknown
-  GetNamedChild: (this: LibSetsCopyDialogControl, name: string) => LibSetsCopyDialogChild
-  GetWidth: (this: LibSetsCopyDialogControl) => number
-  IsHidden: (this: LibSetsCopyDialogControl) => boolean
-  SetHidden: (this: LibSetsCopyDialogControl, hidden: boolean) => void
+  GetNamedChild: (this: SetsCopyDialogControl, name: string) => SetsCopyDialogChild
+  GetWidth: (this: SetsCopyDialogControl) => number
+  IsHidden: (this: SetsCopyDialogControl) => boolean
+  SetHidden: (this: SetsCopyDialogControl, hidden: boolean) => void
 }
 
-interface LibSetsCopyDialogChild {
-  SetText: (this: LibSetsCopyDialogChild, text: string) => void
-  SetHidden: (this: LibSetsCopyDialogChild, hidden: boolean) => void
-  SetEditEnabled: (this: LibSetsCopyDialogChild, enabled: boolean) => void
-  SelectAll: (this: LibSetsCopyDialogChild) => void
-  TakeFocus: (this: LibSetsCopyDialogChild) => void
+interface SetsCopyDialogChild {
+  SetText: (this: SetsCopyDialogChild, text: string) => void
+  SetHidden: (this: SetsCopyDialogChild, hidden: boolean) => void
+  SetEditEnabled: (this: SetsCopyDialogChild, enabled: boolean) => void
+  SelectAll: (this: SetsCopyDialogChild) => void
+  TakeFocus: (this: SetsCopyDialogChild) => void
   SetDimensionConstraints: (
-    this: LibSetsCopyDialogChild,
+    this: SetsCopyDialogChild,
     minX: number,
     minY: number,
     maxX: number,
     maxY: number
   ) => void
-  SetDimensions: (this: LibSetsCopyDialogChild, width: number, height: number) => void
+  SetDimensions: (this: SetsCopyDialogChild, width: number, height: number) => void
 }
 
-interface LibSetsCopyDialogInfo {
-  customControl: LibSetsCopyDialogControl
+interface SetsCopyDialogInfo {
+  customControl: SetsCopyDialogControl
   title: { text: string }
-  setup: (this: void, dialog: unknown, data: LibSetsCopyDialogData | undefined) => void
+  setup: (this: void, dialog: unknown, data: SetsCopyDialogData | undefined) => void
   buttons: ReadonlyArray<{
-    control: LibSetsCopyDialogChild
+    control: SetsCopyDialogChild
     text: number
     keybind: string
   }>
 }
 
-interface LibSetsCopyDialogData {
+interface SetsCopyDialogData {
   text?: string
   setData?: {
     nameClean?: string
@@ -42,33 +42,33 @@ interface LibSetsCopyDialogData {
   }
 }
 
-interface LibSetsCopyDialog {
-  control: LibSetsCopyDialogControl
+interface SetsCopyDialog {
+  control: SetsCopyDialogControl
   dialogName: string
-  title: LibSetsCopyDialogChild
-  text: LibSetsCopyDialogChild
-  prevButton: LibSetsCopyDialogChild
-  nextButton: LibSetsCopyDialogChild
+  title: SetsCopyDialogChild
+  text: SetsCopyDialogChild
+  prevButton: SetsCopyDialogChild
+  nextButton: SetsCopyDialogChild
   textContent?: string
   messageTable?: string[]
   messageTableId?: number
 
-  IsShown: (this: LibSetsCopyDialog) => boolean
-  OnShow: (this: LibSetsCopyDialog) => void
+  IsShown: (this: SetsCopyDialog) => boolean
+  OnShow: (this: SetsCopyDialog) => void
   Show: (
-    this: LibSetsCopyDialog,
-    dialogData?: LibSetsCopyDialogData,
+    this: SetsCopyDialog,
+    dialogData?: SetsCopyDialogData,
     textParams?: { [param: string]: string }
   ) => void
-  OnHide: (this: LibSetsCopyDialog) => void
-  Hide: (this: LibSetsCopyDialog) => void
-  PreviousPage: (this: LibSetsCopyDialog) => void
-  NextPage: (this: LibSetsCopyDialog) => void
-  UpdateEditAndButtons: (this: LibSetsCopyDialog) => void
+  OnHide: (this: SetsCopyDialog) => void
+  Hide: (this: SetsCopyDialog) => void
+  PreviousPage: (this: SetsCopyDialog) => void
+  NextPage: (this: SetsCopyDialog) => void
+  UpdateEditAndButtons: (this: SetsCopyDialog) => void
   SetupDialog: (
-    this: LibSetsCopyDialog,
-    control: LibSetsCopyDialogControl,
+    this: SetsCopyDialog,
+    control: SetsCopyDialogControl,
     dialog: unknown,
-    data: LibSetsCopyDialogData | undefined
+    data: SetsCopyDialogData | undefined
   ) => void
 }

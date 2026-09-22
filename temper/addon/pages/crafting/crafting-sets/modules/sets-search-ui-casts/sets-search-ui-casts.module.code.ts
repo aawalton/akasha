@@ -46,8 +46,8 @@ export function asLibSetsSearchUIDescriptorExt(value: unknown): LibSetsSearchUID
   return value as LibSetsSearchUIDescriptorExt
 }
 
-export function asLibSetsCopyDialogData(value: unknown): LibSetsCopyDialogData {
-  return value as LibSetsCopyDialogData
+export function asLibSetsCopyDialogData(value: unknown): SetsCopyDialogData {
+  return value as SetsCopyDialogData
 }
 
 export type VoidThunk = (this: void) => void
