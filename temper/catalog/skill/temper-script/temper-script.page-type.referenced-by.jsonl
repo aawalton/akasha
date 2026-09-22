@@ -5,3 +5,4 @@
 {"propertySlug":"import","fileName":"temper-script.page-type.types.ts","path":"temper/catalog/skill/temper-focus-script/temper-focus-script.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-script.page-type.types.ts","path":"temper/catalog/skill/temper-signature-script/temper-signature-script.page-type.types.ts"}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
+{"propertySlug":"target-page-type","path":"temper/catalog/skill/temper-grimoire/properties/script-id.relation-property.ts","id":"01a05fca-cb86-726d-9036-faa9f19d229d"}

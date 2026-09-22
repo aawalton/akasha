@@ -12,7 +12,7 @@ export const temperGrimoire = {
     "text-property/ability-icon",
     "text-property/class-id",
     "text-property/focus-scripts",
-    "text-property/script-id",
+    "relation-property/script-id",
   ],
   properties: [
     { pageProperty: "text-property/icon", required: true, many: false },
