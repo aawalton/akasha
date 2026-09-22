@@ -15,6 +15,7 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
 const CHECK_MODEL_TYPE = "01a05911-aa15-776e-9726-ed4131cd6b51"
 
@@ -49,13 +50,6 @@ export type Judgement = {
   readonly run: Running
 }
 
-function valueAt(at: string, slug: string): Record<string, unknown> | null {
-  const mod = loadFrom(at) as Record<string, unknown>
-  const named = mod[exportedAs(slug)]
-  if (named === null || typeof named !== "object") return null
-  return named as Record<string, unknown>
-}
-
 function countIn(stated: Record<string, unknown>, named: string): number {
   const said = stated[named]
   return typeof said === "number" && Number.isInteger(said) && said >= 0 ? said : -1
@@ -80,12 +74,12 @@ function pathOfSlug(root: string, slug: string): string {
 function testHeld(root: string, slug: string): Held {
   const page = pathOfSlug(root, slug)
   const own = partedIn(page)?.slug ?? ""
-  const stated = valueAt(join(root, page), own)
-  if (stated === null) throw new Error(`${page} answers to no \`${exportedAs(own)}\``)
+  const stated = valueAt(page, root)
+  if (stated === null) throw new Error(`${page} answers to no value`)
   const family = stated["modelFamily"]
   if (typeof family !== "string") throw new Error(`${page} names no model family`)
   const at = pathOfSlug(root, family)
-  const named = valueAt(join(root, at), partedIn(at)?.slug ?? "")
+  const named = valueAt(at, root)
   const model = named === null ? undefined : named["name"]
   if (typeof model !== "string") throw new Error(`${at} names no model a call can reach`)
   const beside = besideAt(page, CODE, TS)
@@ -216,7 +210,7 @@ export function checkModelsIn(root: string): readonly Judgement[] {
   for (const path of [...pages].sort()) {
     const slug = partedIn(path)?.slug
     if (slug === undefined) continue
-    const stated = valueAt(join(root, path), slug)
+    const stated = valueAt(path, root)
     if (stated === null) throw new Error(`${path} is a model check, and answers to no value`)
     const named = slugsIn(stated, "modelTests")
     if (named === null) throw new Error(`${path} is a model check, and names no test`)
