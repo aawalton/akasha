@@ -2777,7 +2777,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/properties/secrets.relation-property.ts","id":"01a081fd-c5ac-72ac-acff-a780301c30e4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/properties/service-cluster-config.file-property.ts","id":"01a07c92-3daf-72f1-8010-749415723ba4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/properties/service-cluster-schedule.text-property.ts","id":"01a06587-c73c-74e9-8542-4de33139539f"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/cluster/properties/service-manifest.relation-property.ts","id":"01a07317-ae51-7f69-a24e-d94859315637"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/cluster/properties/service-manifest.multi-relation-property.ts","id":"01a07317-ae51-7f69-a24e-d94859315637"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/inference/modules/inference-reading/inference-reading.module.ts","id":"01a090a6-f40b-7abe-a439-ebc9274ece2a"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/inference/properties/internal-port.number-property.ts","id":"01a09095-0971-7e89-b75c-e674e97797c4"}

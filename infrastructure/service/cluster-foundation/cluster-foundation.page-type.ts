@@ -39,7 +39,7 @@ export const clusterFoundation = {
   schema: "jsonl",
   properties: [
     {
-      pageProperty: "relation-property/service-manifest",
+      pageProperty: "multi-relation-property/service-manifest",
       required: true,
       many: true,
       maxCount: null,

@@ -102,7 +102,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"graph/predicate/properties/follows.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env.one-of-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/cluster/properties/secrets.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/cluster/properties/service-manifest.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/cluster/properties/service-manifest.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/inference/properties/runs.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/properties/deploys-after.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/secret/properties/placements.record-property.types.ts"}

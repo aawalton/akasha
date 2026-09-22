@@ -7,7 +7,7 @@ import type { ResourceName } from "akasha/infrastructure/service/cluster/propert
 import type { Secrets } from "akasha/infrastructure/service/cluster/properties/secrets.relation-property.types.ts"
 import type { ServiceClusterConfig } from "akasha/infrastructure/service/cluster/properties/service-cluster-config.file-property.types.ts"
 import type { ServiceClusterSchedule } from "akasha/infrastructure/service/cluster/properties/service-cluster-schedule.text-property.types.ts"
-import type { ServiceManifest } from "akasha/infrastructure/service/cluster/properties/service-manifest.relation-property.types.ts"
+import type { ServiceManifest } from "akasha/infrastructure/service/cluster/properties/service-manifest.multi-relation-property.types.ts"
 import type { Service } from "akasha/infrastructure/service/service.page-type.types.ts"
 
 export type ServiceCluster = Service & {

@@ -41,4 +41,4 @@
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"product/wandering-inn-wiki/web/manifests/wandering-inn-wiki-web-manifests.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"temper/web/manifests/temper-web-manifests.manifest.ts"}
 {"propertySlug":"parts","path":"infrastructure/cluster/k8s-type/k8s-type.domain.ts","id":"01a06735-dd9c-700c-89ca-ed7f38cab9b1"}
-{"propertySlug":"target-page-type","path":"infrastructure/service/cluster/properties/service-manifest.relation-property.ts","id":"01a07317-ae51-7f69-a24e-d94859315637"}
+{"propertySlug":"target-page-type","path":"infrastructure/service/cluster/properties/service-manifest.multi-relation-property.ts","id":"01a07317-ae51-7f69-a24e-d94859315637"}

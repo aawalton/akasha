@@ -1,8 +1,8 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const serviceManifest = {
   id: "01a07317-ae51-7f69-a24e-d94859315637",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "service-manifest",
   propertySlug: "manifest",
   definition: "a manifest a service is applied as",
@@ -22,4 +22,4 @@ export const serviceManifest = {
     },
   ],
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty
