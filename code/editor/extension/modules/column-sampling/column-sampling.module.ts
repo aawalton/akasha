@@ -4,7 +4,7 @@ export const columnSampling = {
   id: "01a0686b-bfe9-7eea-9240-9c8c57aeb34f",
   type: "page-type/module",
   slug: "column-sampling",
-  definition: "one sweep of this window's terminals, recorded as an observation and remembered",
+  definition: "a sweep of this window's terminals, recorded as an observation and remembered",
   code: "ts",
   decisions: [
     {

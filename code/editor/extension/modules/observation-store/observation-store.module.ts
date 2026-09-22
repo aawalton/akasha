@@ -5,7 +5,7 @@ export const observationStore = {
   type: "page-type/module",
   slug: "observation-store",
   definition:
-    "each feature's last observation held for one window, and the settled write that lands it",
+    "each feature's last observation held for a window, and the settled write that lands it",
   code: "ts",
   decisions: [
     {

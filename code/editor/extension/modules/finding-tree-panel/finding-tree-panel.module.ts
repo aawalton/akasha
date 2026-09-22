@@ -4,7 +4,7 @@ export const findingTreePanel = {
   id: "01a0b733-1337-7151-b08a-42f1495a23a5",
   type: "page-type/module",
   slug: "finding-tree-panel",
-  definition: "the Findings panel brought up, and the findings drawn into it from one file",
+  definition: "the Findings panel brought up, and the findings drawn into it from a file",
   code: "ts",
   decisions: [
     {

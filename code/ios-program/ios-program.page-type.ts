@@ -4,7 +4,7 @@ export const iosProgram = {
   id: "01a05901-26b3-7d1b-aec6-3b467f5f5b8d",
   type: "page-type/page-type",
   slug: "ios-program",
-  definition: "one thing an iOS package builds",
+  definition: "a thing an iOS package builds",
   parts: [
     "code-file-property/main",
     "file-property/entitlements",

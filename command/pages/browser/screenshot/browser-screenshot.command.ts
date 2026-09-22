@@ -4,7 +4,7 @@ export const browserScreenshot = {
   id: "01a0c4c8-b6e7-7a74-b62b-1a048dd6963a",
   type: "page-type/command",
   slug: "browser-screenshot",
-  definition: "the command writing a PNG of one page on a deployed site",
+  definition: "the command writing a PNG of a page on a deployed site",
   code: "ts",
   test: "ts",
   decisions: [

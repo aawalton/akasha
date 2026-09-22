@@ -4,7 +4,7 @@ export const rustCrate = {
   id: "01a0602d-6ad2-7a2e-8686-1b1cf565107a",
   type: "page-type/page-type",
   slug: "rust-crate",
-  definition: "one thing Cargo builds",
+  definition: "a thing Cargo builds",
   parts: [
     "code-file-property/cargo-build-script",
     "file-property/cargo-manifest",

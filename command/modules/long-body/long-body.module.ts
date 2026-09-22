@@ -4,7 +4,7 @@ export const longBody = {
   id: "01a0614f-24db-74bb-83ae-6e7c5477cf42",
   type: "page-type/module",
   slug: "long-body",
-  definition: "a body longer than one answer handed back a run of whole numbered lines at a time",
+  definition: "a body longer than an answer handed back a run of whole numbered lines at a time",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

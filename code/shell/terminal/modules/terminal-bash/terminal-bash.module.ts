@@ -4,7 +4,7 @@ export const terminalBash = {
   id: "01a0680a-fa30-73ea-803a-5ff0bd947f73",
   type: "page-type/module",
   slug: "terminal-bash",
-  definition: "the whole of the bash a terminal sources, composed as one text",
+  definition: "the whole of the bash a terminal sources, composed as a text",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

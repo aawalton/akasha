@@ -4,7 +4,7 @@ export const onePageOnly = {
   id: "01a09d18-8d7c-7838-a182-93dea1d06ca2",
   type: "page-type/module",
   slug: "one-page-only",
-  definition: "what the shapes of a folder headed by one page all say alike",
+  definition: "what the shapes of a folder headed by a page all say alike",
   code: "ts",
   test: "ts",
   decisions: [

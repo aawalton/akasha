@@ -4,7 +4,7 @@ export const serviceTreePanel = {
   id: "01a09c1f-c969-70a4-a5e8-5a77d1afbb11",
   type: "page-type/module",
   slug: "service-tree-panel",
-  definition: "the Services panel brought up, and the services put into it from one file",
+  definition: "the Services panel brought up, and the services put into it from a file",
   code: "ts",
   decisions: [
     {

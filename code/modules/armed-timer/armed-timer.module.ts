@@ -4,7 +4,7 @@ export const armedTimer = {
   id: "01a090ab-acc0-7541-a3a9-a1241d1ee505",
   type: "page-type/module",
   slug: "armed-timer",
-  definition: "the one timeout a caller has pending, armed again or stopped",
+  definition: "the timeout a caller has pending, armed again or stopped",
   code: "ts",
   test: "ts",
   decisions: [

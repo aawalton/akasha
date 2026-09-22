@@ -4,7 +4,7 @@ export const walking = {
   id: "01a04ef8-da76-76ad-9345-28b37bd75cdd",
   type: "page-type/test-fixture",
   slug: "walking",
-  definition: "everything under a folder, read back as one sorted list a test can compare",
+  definition: "everything under a folder, read back as a sorted list a test can compare",
   code: "ts",
   decisions: [
     {
