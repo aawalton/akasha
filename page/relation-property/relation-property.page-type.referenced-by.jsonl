@@ -77,7 +77,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"change/runner/properties/reached.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"change/target/subtype/properties/change-target-subtype-parent.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/ios-app/properties/build-script.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/ios-app/properties/programs.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/ios-app/properties/sync-script.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/ios-program/properties/components.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/rust-crate/properties/rust-modules.relation-property.ts"}

@@ -116,7 +116,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"story-played","unique":null,"uniquePropertySlug":null,"slug":"played-story","propertySlug":"played-story","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-entity","unique":null,"uniquePropertySlug":null,"slug":"player-entity","propertySlug":"player","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat","unique":null,"uniquePropertySlug":null,"slug":"principal-seat-name","propertySlug":"principal-seat-name","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"ios-program","unique":null,"uniquePropertySlug":null,"slug":"programs","propertySlug":"programs","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"prose-frame","unique":null,"uniquePropertySlug":null,"slug":"prose-frame","propertySlug":"frame","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"proposition","unique":null,"uniquePropertySlug":null,"slug":"proves","propertySlug":"proves","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"model-provider","unique":null,"uniquePropertySlug":null,"slug":"provider","propertySlug":"provider","fileName":null,"folderName":null}

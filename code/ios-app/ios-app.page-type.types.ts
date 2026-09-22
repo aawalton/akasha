@@ -12,7 +12,7 @@ import type { MacBuildLockDir } from "akasha/code/ios-app/properties/mac-build-l
 import type { MacBuildNumberFile } from "akasha/code/ios-app/properties/mac-build-number-file.text-property.types.ts"
 import type { MarketingVersion } from "akasha/code/ios-app/properties/marketing-version.text-property.types.ts"
 import type { NativeShellRepoPath } from "akasha/code/ios-app/properties/native-shell-repo-path.text-property.types.ts"
-import type { Programs } from "akasha/code/ios-app/properties/programs.relation-property.types.ts"
+import type { Programs } from "akasha/code/ios-app/properties/programs.multi-relation-property.types.ts"
 import type { SyncScript } from "akasha/code/ios-app/properties/sync-script.relation-property.types.ts"
 import type { WebDirectory } from "akasha/code/ios-app/properties/web-directory.build-folder-property.types.ts"
 import type { WebEntry } from "akasha/code/ios-app/properties/web-entry.file-property.types.ts"

@@ -18,7 +18,7 @@ export const iosApp = {
     "module/decode-harness-script",
     "module/shared-build-files",
     "relation-property/build-script",
-    "relation-property/programs",
+    "multi-relation-property/programs",
     "relation-property/sync-script",
     "shell-script/build-sim",
     "shell-script/build-stamp",
@@ -63,7 +63,7 @@ export const iosApp = {
     { pageProperty: "text-property/marketing-version", required: true, many: false },
     { pageProperty: "text-property/native-shell-repo-path", required: false, many: false },
     {
-      pageProperty: "relation-property/programs",
+      pageProperty: "multi-relation-property/programs",
       required: false,
       many: true,
       maxCount: null,
