@@ -1,7 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { handWrittenGlobalIsNoMethod } from "akasha/check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.audit.code.ts"
 import { DECLARATION } from "akasha/check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.decision.code.ts"
-import { filing } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import {
+  filing,
+  treed,
+} from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
@@ -27,7 +30,7 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function treed(own: string): string {
+function rooted(own: string): string {
   const root = scratch.rootFor("akasha-hand-written-global-audit-")
   filing(root, DECLARATION, "game", GAME_ID)
   filing(root, DECLARATION, "own", OWN_ID)
@@ -45,18 +48,18 @@ function treed(own: string): string {
   ])
   writing(root, GAME_D, GAME)
   writing(root, OWN_D, own)
-  return root
+  return treed(root)
 }
 
 test("an audit reads each declaration file from the disk and refuses a global naming a method", () => {
-  const root = treed("declare function Reload(this: void): void\n")
+  const root = rooted("declare function Reload(this: void): void\n")
   const said = handWrittenGlobalIsNoMethod(root)
   expect(said.map((one) => one.path)).toEqual([OWN_D])
   expect(said[0]?.reason).toContain("Reload")
 })
 
 test("an audit lets through a hand-written global the generated declarations name nowhere", () => {
-  expect(handWrittenGlobalIsNoMethod(treed("declare function Apart(this: void): void\n"))).toEqual(
+  expect(handWrittenGlobalIsNoMethod(rooted("declare function Apart(this: void): void\n"))).toEqual(
     []
   )
 })

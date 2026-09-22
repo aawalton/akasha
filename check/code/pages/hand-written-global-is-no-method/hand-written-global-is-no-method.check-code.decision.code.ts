@@ -1,10 +1,10 @@
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   lineOf,
   parsedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
 
@@ -130,15 +130,15 @@ export function surfaceIn(held: readonly Read[]): Surface {
 }
 
 export function refusalsOver(
-  shadow: Shadow,
+  paged: Paged,
   textAt: (path: string) => string | null
 ): readonly Judged[] {
   const generated: Read[] = []
   const byHand: Read[] = []
-  for (const one of shadow.index.everyOfType(DECLARATION)) {
+  for (const one of paged.index.everyOfType(DECLARATION)) {
     const at = besideOf(one.path)
     const text = textAt(at)
-    if (!isGenerated(shadow.index.pageByPath(one.path))) {
+    if (!isGenerated(paged.index.pageByPath(one.path))) {
       if (text !== null) byHand.push({ path: at, text })
       continue
     }
