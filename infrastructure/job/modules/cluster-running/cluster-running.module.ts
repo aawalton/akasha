@@ -119,6 +119,22 @@ export const clusterRunning = {
       statement: "An earlier commit origin no longer carries leaves the rest of the job running.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A fetch of the commit the transport dropped is made again after a pause.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each pause is longer than the one before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fetch made again past the tries named here fails the job.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An earlier commit is fetched once.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A job builds no index, git carrying every index a page is read through.",
     },

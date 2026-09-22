@@ -68,6 +68,20 @@ test("an earlier commit origin no longer carries leaves the rest of the job runn
   expect(scriptOf(COMMIT, WAS)).toContain(`origin ${WAS} || true`)
 })
 
+test("a fetch of the commit the transport dropped is made again after a pause", () => {
+  const said = scriptOf(COMMIT, null)
+  expect(said).toContain(`until git fetch -q --depth 1 origin ${COMMIT}; do`)
+  expect(said).toContain("sleep $((tried * 5))")
+})
+
+test("a fetch made again past the tries named fails the job", () => {
+  expect(scriptOf(COMMIT, null)).toContain('[ "$tried" -lt 6 ] || exit 1')
+})
+
+test("an earlier commit is fetched once", () => {
+  expect(scriptOf(COMMIT, WAS)).not.toContain(`until git fetch -q --depth 1 origin ${WAS}`)
+})
+
 test("a job builds no index, git carrying every index a page is read through", () => {
   expect(scriptOf(COMMIT, null)).not.toContain("index-building")
   expect(scriptOf(COMMIT, null)).not.toContain("index refresh")

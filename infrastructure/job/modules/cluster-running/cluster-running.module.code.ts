@@ -83,10 +83,24 @@ const UNCONFINED = "Unconfined"
 
 const ON_NODE = "spec.nodeName"
 
+const FETCH_TRIES = 6
+
+const FETCH_PAUSE_SECONDS = 5
+
+function fetching(ref: string): string {
+  return `git fetch -q --depth 1 origin ${ref}`
+}
+
+function fetchedAgain(ref: string): string {
+  const stop = `[ "$tried" -lt ${FETCH_TRIES} ] || exit 1`
+  const pause = `sleep $((tried * ${FETCH_PAUSE_SECONDS}))`
+  return `tried=0; until ${fetching(ref)}; do tried=$((tried + 1)); ${stop}; ${pause}; done`
+}
+
 function fetchedFor(commit: string, was: string | null): readonly string[] {
-  const at = `git fetch -q --depth 1 origin ${commit}`
+  const at = fetchedAgain(commit)
   if (was === null || was === commit) return [at]
-  return [`git fetch -q --depth 1 origin ${was} || true`, at]
+  return [`${fetching(was)} || true`, at]
 }
 
 export function checkedOut(commit: string, was: string | null): readonly string[] {
