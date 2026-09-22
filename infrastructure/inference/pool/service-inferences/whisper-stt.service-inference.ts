@@ -13,5 +13,5 @@ export const whisperStt = {
   enabled: true,
   port: 8085,
   internalPort: 18085,
-  lifecycle: "pool",
+  lifecycle: "service-lifecycle/pool",
 } as const satisfies ServiceInference

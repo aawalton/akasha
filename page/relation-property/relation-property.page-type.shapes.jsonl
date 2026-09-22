@@ -86,6 +86,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-jewelry-type","unique":null,"uniquePropertySlug":null,"slug":"jewelry-type","propertySlug":"jewelry-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"life-theme","unique":null,"uniquePropertySlug":null,"slug":"life-theme-parent","propertySlug":"life-theme-parent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"life-theme-value","propertySlug":"life-theme-value","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"service-lifecycle","unique":null,"uniquePropertySlug":null,"slug":"lifecycle","propertySlug":"lifecycle","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"loaded-by","propertySlug":"loaded-by","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"log-source","unique":null,"uniquePropertySlug":null,"slug":"log-source","propertySlug":"source","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-buff-major","unique":null,"uniquePropertySlug":null,"slug":"major-buff","propertySlug":"major-buff","fileName":null,"folderName":null}

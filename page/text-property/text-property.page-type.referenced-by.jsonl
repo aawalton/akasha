@@ -304,7 +304,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/cluster/properties/resource-kind.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/cluster/properties/resource-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/cluster/properties/service-cluster-schedule.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/inference/properties/lifecycle.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/inference/properties/python-version.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/inference/properties/runs.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/inference/properties/workdir.text-property.ts"}

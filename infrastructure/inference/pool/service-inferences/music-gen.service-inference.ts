@@ -15,5 +15,5 @@ export const musicGen = {
   enabled: true,
   port: 8097,
   internalPort: 18097,
-  lifecycle: "pool",
+  lifecycle: "service-lifecycle/pool",
 } as const satisfies ServiceInference

@@ -15,6 +15,6 @@ export const imageGen = {
   enabled: true,
   port: 8086,
   internalPort: 18086,
-  lifecycle: "pool",
+  lifecycle: "service-lifecycle/pool",
   warm: true,
 } as const satisfies ServiceInference

@@ -60,7 +60,8 @@ export function inferenceIn(root: string, value: Value): Inference | string {
   ) {
     return "states no slug, host, python, working folder, provision and command line"
   }
-  const { port, lifecycle, enabled, internalPort } = value
+  const { port, enabled, internalPort } = value
+  const lifecycle = slugAt(value, "lifecycle")
   if (typeof port !== "number") return "states no port"
   if (lifecycle !== "pool" && lifecycle !== "always-on") {
     return `states \`${String(lifecycle)}\` as its lifecycle, which is neither \`pool\` nor \`always-on\``

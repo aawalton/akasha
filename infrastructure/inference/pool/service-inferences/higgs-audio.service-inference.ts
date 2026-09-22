@@ -13,5 +13,5 @@ export const higgsAudio = {
   enabled: true,
   port: 8094,
   internalPort: 18094,
-  lifecycle: "pool",
+  lifecycle: "service-lifecycle/pool",
 } as const satisfies ServiceInference

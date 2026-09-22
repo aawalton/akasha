@@ -14,7 +14,7 @@ export const serviceInference = {
     "page-type/service-lifecycle",
     "relation-property/provision",
     "relation-property/inference-host",
-    "text-property/lifecycle",
+    "relation-property/lifecycle",
     "text-property/python-version",
     "text-property/runs",
     "text-property/workdir",
@@ -28,7 +28,7 @@ export const serviceInference = {
     { pageProperty: "boolean-property/enabled", required: true, many: false },
     { pageProperty: "number-property/port", required: true, many: false },
     { pageProperty: "number-property/internal-port", required: false, many: false },
-    { pageProperty: "text-property/lifecycle", required: true, many: false },
+    { pageProperty: "relation-property/lifecycle", required: true, many: false },
     { pageProperty: "boolean-property/warm", required: false, many: false },
   ],
   decisions: [

@@ -13,5 +13,5 @@ export const segmentRembg = {
   enabled: true,
   port: 8101,
   internalPort: 18101,
-  lifecycle: "pool",
+  lifecycle: "service-lifecycle/pool",
 } as const satisfies ServiceInference

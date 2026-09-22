@@ -13,5 +13,5 @@ export const kokoro = {
   enabled: true,
   port: 8083,
   internalPort: 18083,
-  lifecycle: "pool",
+  lifecycle: "service-lifecycle/pool",
 } as const satisfies ServiceInference

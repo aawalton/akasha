@@ -1,6 +1,6 @@
 import type { InferenceHost } from "akasha/infrastructure/service/inference/properties/inference-host.relation-property.types.ts"
 import type { InternalPort } from "akasha/infrastructure/service/inference/properties/internal-port.number-property.types.ts"
-import type { Lifecycle } from "akasha/infrastructure/service/inference/properties/lifecycle.text-property.types.ts"
+import type { Lifecycle } from "akasha/infrastructure/service/inference/properties/lifecycle.relation-property.types.ts"
 import type { Provision } from "akasha/infrastructure/service/inference/properties/provision.relation-property.types.ts"
 import type { PythonVersion } from "akasha/infrastructure/service/inference/properties/python-version.text-property.types.ts"
 import type { Runs } from "akasha/infrastructure/service/inference/properties/runs.text-property.types.ts"

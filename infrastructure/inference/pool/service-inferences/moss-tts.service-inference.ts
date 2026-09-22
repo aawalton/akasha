@@ -13,6 +13,6 @@ export const mossTts = {
   enabled: true,
   port: 8093,
   internalPort: 18093,
-  lifecycle: "pool",
+  lifecycle: "service-lifecycle/pool",
   warm: true,
 } as const satisfies ServiceInference

@@ -13,5 +13,5 @@ export const voxcpm2 = {
   enabled: true,
   port: 8095,
   internalPort: 18095,
-  lifecycle: "pool",
+  lifecycle: "service-lifecycle/pool",
 } as const satisfies ServiceInference

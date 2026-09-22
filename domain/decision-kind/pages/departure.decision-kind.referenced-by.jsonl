@@ -2816,7 +2816,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/inference/modules/inference-reading/inference-reading.module.ts","id":"01a090a6-f40b-7abe-a439-ebc9274ece2a"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/inference/properties/internal-port.number-property.ts","id":"01a09095-0971-7e89-b75c-e674e97797c4"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/inference/properties/lifecycle.text-property.ts","id":"01a09095-243b-7ce0-9a35-68fd9e450733"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/inference/properties/lifecycle.relation-property.ts","id":"01a09095-243b-7ce0-9a35-68fd9e450733"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/inference/properties/provision.relation-property.ts","id":"01a0909f-9ea9-7dba-b8c0-27d20e677a97"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/inference/properties/runs.text-property.ts","id":"01a05a3f-b42b-7564-ba54-a63a51342f27"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/inference/properties/warm.boolean-property.ts","id":"01a09098-2cd1-75ad-a4bc-9be7316e752e"}

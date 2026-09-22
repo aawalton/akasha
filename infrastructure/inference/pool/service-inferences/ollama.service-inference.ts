@@ -15,5 +15,5 @@ export const ollama = {
   enabled: true,
   port: 11434,
   internalPort: 21434,
-  lifecycle: "pool",
+  lifecycle: "service-lifecycle/pool",
 } as const satisfies ServiceInference

@@ -13,5 +13,5 @@ export const csm = {
   enabled: true,
   port: 8084,
   internalPort: 18084,
-  lifecycle: "pool",
+  lifecycle: "service-lifecycle/pool",
 } as const satisfies ServiceInference

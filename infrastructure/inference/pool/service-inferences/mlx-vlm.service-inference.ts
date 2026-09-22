@@ -15,5 +15,5 @@ export const mlxVlm = {
   enabled: true,
   port: 8096,
   internalPort: 18096,
-  lifecycle: "pool",
+  lifecycle: "service-lifecycle/pool",
 } as const satisfies ServiceInference

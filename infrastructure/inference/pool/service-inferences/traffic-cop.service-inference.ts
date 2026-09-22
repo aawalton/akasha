@@ -12,5 +12,5 @@ export const trafficCop = {
   runs: ["bun run src/server.ts"],
   enabled: true,
   port: 8099,
-  lifecycle: "always-on",
+  lifecycle: "service-lifecycle/always-on",
 } as const satisfies ServiceInference
