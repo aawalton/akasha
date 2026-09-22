@@ -7,7 +7,7 @@ export const selene = {
   title: "Selene",
   key: "selene",
   esoSetId: 279,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

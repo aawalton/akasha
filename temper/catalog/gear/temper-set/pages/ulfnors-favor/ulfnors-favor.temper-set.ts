@@ -7,7 +7,7 @@ export const ulfnorsFavor = {
   title: "Ulfnor's Favor",
   key: "ulfnors-favor",
   esoSetId: 345,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

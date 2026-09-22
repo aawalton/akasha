@@ -7,7 +7,7 @@ export const eternalVigor = {
   title: "Eternal Vigor",
   key: "eternal-vigor",
   esoSetId: 489,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

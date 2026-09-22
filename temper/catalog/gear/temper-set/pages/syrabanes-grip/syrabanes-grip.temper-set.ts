@@ -7,7 +7,7 @@ export const syrabanesGrip = {
   title: "Syrabane's Grip",
   key: "syrabanes-grip",
   esoSetId: 57,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

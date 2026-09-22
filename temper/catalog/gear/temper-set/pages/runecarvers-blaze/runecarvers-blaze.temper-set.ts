@@ -7,7 +7,7 @@ export const runecarversBlaze = {
   title: "Runecarver's Blaze",
   key: "runecarvers-blaze",
   esoSetId: 684,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

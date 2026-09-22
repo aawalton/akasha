@@ -7,7 +7,7 @@ export const armorOfTruth = {
   title: "Armor of Truth",
   key: "armor-of-truth",
   esoSetId: 96,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

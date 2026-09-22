@@ -7,7 +7,7 @@ export const nightflame = {
   title: "Nightflame",
   key: "nightflame",
   esoSetId: 167,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

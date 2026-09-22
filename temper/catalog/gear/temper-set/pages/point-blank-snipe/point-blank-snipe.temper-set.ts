@@ -7,7 +7,7 @@ export const pointBlankSnipe = {
   title: "Point-Blank Snipe",
   key: "point-blank-snipe",
   esoSetId: 560,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["bow"],
   bonuses: "jsonl",
   icons: "jsonl",

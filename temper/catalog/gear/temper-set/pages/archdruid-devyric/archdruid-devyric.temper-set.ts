@@ -7,7 +7,7 @@ export const archdruidDevyric = {
   title: "Archdruid Devyric",
   key: "archdruid-devyric",
   esoSetId: 666,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

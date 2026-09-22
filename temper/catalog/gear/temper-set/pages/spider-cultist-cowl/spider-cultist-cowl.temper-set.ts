@@ -7,7 +7,7 @@ export const spiderCultistCowl = {
   title: "Spider Cultist Cowl",
   key: "spider-cultist-cowl",
   esoSetId: 297,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

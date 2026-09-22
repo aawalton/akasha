@@ -7,7 +7,7 @@ export const ritemastersBond = {
   title: "Ritemaster's Bond",
   key: "ritemasters-bond",
   esoSetId: 680,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const lekisFocus = {
   title: "Leki's Focus",
   key: "lekis-focus",
   esoSetId: 237,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const vanguardsChallenge = {
   title: "Vanguard's Challenge",
   key: "vanguards-challenge",
   esoSetId: 326,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

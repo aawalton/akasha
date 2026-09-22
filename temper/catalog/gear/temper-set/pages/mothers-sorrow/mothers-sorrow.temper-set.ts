@@ -7,7 +7,7 @@ export const mothersSorrow = {
   title: "Mother's Sorrow",
   key: "mothers-sorrow",
   esoSetId: 292,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

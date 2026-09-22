@@ -7,7 +7,7 @@ export const perfectedConcentratedForce = {
   title: "Perfected Concentrated Force",
   key: "perfected-concentrated-force",
   esoSetId: 361,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["inferno-staff", "ice-staff", "lightning-staff"],
   bonuses: "jsonl",
   icons: "jsonl",

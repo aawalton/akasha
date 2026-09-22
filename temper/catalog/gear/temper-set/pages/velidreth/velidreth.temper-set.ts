@@ -7,7 +7,7 @@ export const velidreth = {
   title: "Velidreth",
   key: "velidreth",
   esoSetId: 257,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

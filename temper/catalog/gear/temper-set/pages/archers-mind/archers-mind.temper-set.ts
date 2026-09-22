@@ -7,7 +7,7 @@ export const archersMind = {
   title: "Archer's Mind",
   key: "archers-mind",
   esoSetId: 23,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

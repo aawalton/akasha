@@ -7,7 +7,7 @@ export const perfectedGrandRejuvenation = {
   title: "Perfected Grand Rejuvenation",
   key: "perfected-grand-rejuvenation",
   esoSetId: 533,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["restoration-staff"],
   bonuses: "jsonl",
   icons: "jsonl",

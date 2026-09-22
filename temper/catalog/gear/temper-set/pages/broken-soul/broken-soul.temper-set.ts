@@ -7,7 +7,7 @@ export const brokenSoul = {
   title: "Broken Soul",
   key: "broken-soul",
   esoSetId: 381,
-  subcategoryId: "other",
+  category: "temper-set-category/other",
   valid: ["ring"],
   bonuses: "jsonl",
   icons: "jsonl",

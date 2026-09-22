@@ -7,7 +7,7 @@ export const vampireLord = {
   title: "Vampire Lord",
   key: "vampire-lord",
   esoSetId: 285,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

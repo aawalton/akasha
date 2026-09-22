@@ -7,7 +7,7 @@ export const cleverAlchemist = {
   title: "Clever Alchemist",
   key: "clever-alchemist",
   esoSetId: 225,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

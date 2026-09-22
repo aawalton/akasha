@@ -7,7 +7,7 @@ export const defendingWarrior = {
   title: "Defending Warrior",
   key: "defending-warrior",
   esoSetId: 138,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

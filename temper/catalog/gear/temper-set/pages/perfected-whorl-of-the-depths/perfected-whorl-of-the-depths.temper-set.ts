@@ -7,7 +7,7 @@ export const perfectedWhorlOfTheDepths = {
   title: "Perfected Whorl of the Depths",
   key: "perfected-whorl-of-the-depths",
   esoSetId: 653,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

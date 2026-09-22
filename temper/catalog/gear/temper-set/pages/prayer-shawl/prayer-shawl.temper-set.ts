@@ -7,7 +7,7 @@ export const prayerShawl = {
   title: "Prayer Shawl",
   key: "prayer-shawl",
   esoSetId: 55,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

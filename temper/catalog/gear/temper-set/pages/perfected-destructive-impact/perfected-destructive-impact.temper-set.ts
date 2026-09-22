@@ -7,7 +7,7 @@ export const perfectedDestructiveImpact = {
   title: "Perfected Destructive Impact",
   key: "perfected-destructive-impact",
   esoSetId: 532,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["inferno-staff", "ice-staff", "lightning-staff"],
   bonuses: "jsonl",
   icons: "jsonl",

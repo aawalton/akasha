@@ -7,7 +7,7 @@ export const graveStakeCollector = {
   title: "Grave-Stake Collector",
   key: "grave-stake-collector",
   esoSetId: 408,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const ilambris = {
   title: "Ilambris",
   key: "ilambris",
   esoSetId: 273,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

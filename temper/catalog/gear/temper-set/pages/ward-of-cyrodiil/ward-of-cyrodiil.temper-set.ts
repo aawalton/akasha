@@ -7,7 +7,7 @@ export const wardOfCyrodiil = {
   title: "Ward of Cyrodiil",
   key: "ward-of-cyrodiil",
   esoSetId: 111,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const sithisTouch = {
   title: "Sithis' Touch",
   key: "sithis-touch",
   esoSetId: 245,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

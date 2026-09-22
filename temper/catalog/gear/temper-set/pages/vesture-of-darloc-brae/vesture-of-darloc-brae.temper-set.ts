@@ -7,7 +7,7 @@ export const vestureOfDarlocBrae = {
   title: "Vesture of Darloc Brae",
   key: "vesture-of-darloc-brae",
   esoSetId: 441,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

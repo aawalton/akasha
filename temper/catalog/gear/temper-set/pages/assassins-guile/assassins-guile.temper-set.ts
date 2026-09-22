@@ -7,7 +7,7 @@ export const assassinsGuile = {
   title: "Assassin's Guile",
   key: "assassins-guile",
   esoSetId: 323,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

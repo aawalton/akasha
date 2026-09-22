@@ -7,7 +7,7 @@ export const mightOfTheLostLegion = {
   title: "Might of the Lost Legion",
   key: "might-of-the-lost-legion",
   esoSetId: 410,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

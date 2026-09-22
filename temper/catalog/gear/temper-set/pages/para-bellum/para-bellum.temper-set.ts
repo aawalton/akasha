@@ -7,7 +7,7 @@ export const paraBellum = {
   title: "Para Bellum",
   key: "para-bellum",
   esoSetId: 214,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

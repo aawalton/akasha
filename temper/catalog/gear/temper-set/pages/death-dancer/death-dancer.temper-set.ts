@@ -7,7 +7,7 @@ export const deathDancer = {
   title: "Death-Dancer",
   key: "death-dancer",
   esoSetId: 806,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

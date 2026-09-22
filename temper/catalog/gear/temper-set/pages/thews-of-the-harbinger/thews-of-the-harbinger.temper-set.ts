@@ -7,7 +7,7 @@ export const thewsOfTheHarbinger = {
   title: "Thews of the Harbinger",
   key: "thews-of-the-harbinger",
   esoSetId: 248,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const priorThierric = {
   title: "Prior Thierric",
   key: "prior-thierric",
   esoSetId: 608,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

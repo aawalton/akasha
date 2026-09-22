@@ -7,7 +7,7 @@ export const reawakenedHierophant = {
   title: "Reawakened Hierophant",
   key: "reawakened-hierophant",
   esoSetId: 722,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/arcanist",
   bonuses: "jsonl",

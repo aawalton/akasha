@@ -7,7 +7,7 @@ export const toothOfLokkestiiz = {
   title: "Tooth of Lokkestiiz",
   key: "tooth-of-lokkestiiz",
   esoSetId: 445,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

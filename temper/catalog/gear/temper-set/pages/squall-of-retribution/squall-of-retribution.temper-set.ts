@@ -7,7 +7,7 @@ export const squallOfRetribution = {
   title: "Squall of Retribution",
   key: "squall-of-retribution",
   esoSetId: 797,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

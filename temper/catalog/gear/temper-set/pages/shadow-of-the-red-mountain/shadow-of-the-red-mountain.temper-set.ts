@@ -7,7 +7,7 @@ export const shadowOfTheRedMountain = {
   title: "Shadow of the Red Mountain",
   key: "shadow-of-the-red-mountain",
   esoSetId: 49,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

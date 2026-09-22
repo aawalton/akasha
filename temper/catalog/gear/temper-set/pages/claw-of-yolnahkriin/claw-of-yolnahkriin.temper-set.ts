@@ -7,7 +7,7 @@ export const clawOfYolnahkriin = {
   title: "Claw of Yolnahkriin",
   key: "claw-of-yolnahkriin",
   esoSetId: 446,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

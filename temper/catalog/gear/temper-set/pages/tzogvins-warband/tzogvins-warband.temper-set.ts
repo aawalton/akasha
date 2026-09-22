@@ -7,7 +7,7 @@ export const tzogvinsWarband = {
   title: "Tzogvin's Warband",
   key: "tzogvins-warband",
   esoSetId: 430,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

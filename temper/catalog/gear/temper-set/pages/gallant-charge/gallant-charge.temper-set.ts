@@ -7,7 +7,7 @@ export const gallantCharge = {
   title: "Gallant Charge",
   key: "gallant-charge",
   esoSetId: 411,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger", "shield"],
   bonuses: "jsonl",
   icons: "jsonl",

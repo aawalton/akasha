@@ -7,7 +7,7 @@ export const soulshine = {
   title: "Soulshine",
   key: "soulshine",
   esoSetId: 114,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

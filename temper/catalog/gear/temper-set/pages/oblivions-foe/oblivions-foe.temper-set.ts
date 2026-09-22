@@ -7,7 +7,7 @@ export const oblivionsFoe = {
   title: "Oblivion's Foe",
   key: "oblivions-foe",
   esoSetId: 73,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

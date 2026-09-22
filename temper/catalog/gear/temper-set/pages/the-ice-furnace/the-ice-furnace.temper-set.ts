@@ -7,7 +7,7 @@ export const theIceFurnace = {
   title: "The Ice Furnace",
   key: "the-ice-furnace",
   esoSetId: 53,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

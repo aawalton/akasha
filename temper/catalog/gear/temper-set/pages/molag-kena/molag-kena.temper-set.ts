@@ -7,7 +7,7 @@ export const molagKena = {
   title: "Molag Kena",
   key: "molag-kena",
   esoSetId: 183,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

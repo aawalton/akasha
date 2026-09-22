@@ -7,7 +7,7 @@ export const caluurionsLegacy = {
   title: "Caluurion's Legacy",
   key: "caluurions-legacy",
   esoSetId: 343,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

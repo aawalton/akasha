@@ -7,7 +7,7 @@ export const eyeOfTheGrasp = {
   title: "Eye of the Grasp",
   key: "eye-of-the-grasp",
   esoSetId: 613,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

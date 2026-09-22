@@ -7,7 +7,7 @@ export const frozenWatcher = {
   title: "Frozen Watcher",
   key: "frozen-watcher",
   esoSetId: 433,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

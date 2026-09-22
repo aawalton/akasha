@@ -7,7 +7,7 @@ export const stonekeeper = {
   title: "Stonekeeper",
   key: "stonekeeper",
   esoSetId: 432,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

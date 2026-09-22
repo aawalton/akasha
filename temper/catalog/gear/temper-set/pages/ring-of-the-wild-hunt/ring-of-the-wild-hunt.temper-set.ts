@@ -7,7 +7,7 @@ export const ringOfTheWildHunt = {
   title: "Ring of the Wild Hunt",
   key: "ring-of-the-wild-hunt",
   esoSetId: 503,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["ring"],
   bonuses: "jsonl",
   icons: "jsonl",

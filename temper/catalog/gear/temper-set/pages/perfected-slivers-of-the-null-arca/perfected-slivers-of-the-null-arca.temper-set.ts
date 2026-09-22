@@ -7,7 +7,7 @@ export const perfectedSliversOfTheNullArca = {
   title: "Perfected Slivers of the Null Arca",
   key: "perfected-slivers-of-the-null-arca",
   esoSetId: 772,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

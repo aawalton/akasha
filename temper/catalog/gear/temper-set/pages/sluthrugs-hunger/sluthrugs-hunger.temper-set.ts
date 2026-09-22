@@ -7,7 +7,7 @@ export const sluthrugsHunger = {
   title: "Sluthrug's Hunger",
   key: "sluthrugs-hunger",
   esoSetId: 731,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

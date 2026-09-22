@@ -7,7 +7,7 @@ export const eagleEye = {
   title: "Eagle Eye",
   key: "eagle-eye",
   esoSetId: 130,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["jewelry:*", "bow", "inferno-staff", "ice-staff", "lightning-staff", "restoration-staff"],
   bonuses: "jsonl",
   icons: "jsonl",

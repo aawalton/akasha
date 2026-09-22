@@ -7,7 +7,7 @@ export const jailersTenacity = {
   title: "Jailer's Tenacity",
   key: "jailers-tenacity",
   esoSetId: 404,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

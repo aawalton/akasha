@@ -7,7 +7,7 @@ export const perfectedPreciseRegeneration = {
   title: "Perfected Precise Regeneration",
   key: "perfected-precise-regeneration",
   esoSetId: 527,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["restoration-staff"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const fasallasGuile = {
   title: "Fasalla's Guile",
   key: "fasallas-guile",
   esoSetId: 238,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

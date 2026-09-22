@@ -7,7 +7,7 @@ export const aspectOfMazzatun = {
   title: "Aspect of Mazzatun",
   key: "aspect-of-mazzatun",
   esoSetId: 260,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

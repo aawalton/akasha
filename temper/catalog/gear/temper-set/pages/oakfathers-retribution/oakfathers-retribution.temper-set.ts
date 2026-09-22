@@ -7,7 +7,7 @@ export const oakfathersRetribution = {
   title: "Oakfather's Retribution",
   key: "oakfathers-retribution",
   esoSetId: 754,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const shellSplitter = {
   title: "Shell Splitter",
   key: "shell-splitter",
   esoSetId: 689,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

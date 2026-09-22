@@ -7,7 +7,7 @@ export const powerfulAssault = {
   title: "Powerful Assault",
   key: "powerful-assault",
   esoSetId: 180,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

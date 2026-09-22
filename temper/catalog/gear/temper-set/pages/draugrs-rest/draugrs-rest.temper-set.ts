@@ -7,7 +7,7 @@ export const draugrsRest = {
   title: "Draugr's Rest",
   key: "draugrs-rest",
   esoSetId: 335,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

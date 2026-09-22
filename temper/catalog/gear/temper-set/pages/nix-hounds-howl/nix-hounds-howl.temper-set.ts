@@ -7,7 +7,7 @@ export const nixHoundsHowl = {
   title: "Nix-Hound's Howl",
   key: "nix-hounds-howl",
   esoSetId: 681,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

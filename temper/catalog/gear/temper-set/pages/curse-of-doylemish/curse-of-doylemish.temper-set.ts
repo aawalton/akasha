@@ -7,7 +7,7 @@ export const curseOfDoylemish = {
   title: "Curse of Doylemish",
   key: "curse-of-doylemish",
   esoSetId: 348,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

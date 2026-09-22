@@ -7,7 +7,7 @@ export const highlandSentinel = {
   title: "Highland Sentinel",
   key: "highland-sentinel",
   esoSetId: 764,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

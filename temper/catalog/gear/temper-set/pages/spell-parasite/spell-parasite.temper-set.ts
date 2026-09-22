@@ -7,7 +7,7 @@ export const spellParasite = {
   title: "Spell Parasite",
   key: "spell-parasite",
   esoSetId: 506,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

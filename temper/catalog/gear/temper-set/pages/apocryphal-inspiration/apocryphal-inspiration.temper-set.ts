@@ -7,7 +7,7 @@ export const apocryphalInspiration = {
   title: "Apocryphal Inspiration",
   key: "apocryphal-inspiration",
   esoSetId: 685,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

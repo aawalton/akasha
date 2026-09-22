@@ -7,7 +7,7 @@ export const kvatchGladiator = {
   title: "Kvatch Gladiator",
   key: "kvatch-gladiator",
   esoSetId: 240,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

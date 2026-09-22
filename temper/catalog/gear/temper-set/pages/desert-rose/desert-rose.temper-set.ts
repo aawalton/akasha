@@ -7,7 +7,7 @@ export const desertRose = {
   title: "Desert Rose",
   key: "desert-rose",
   esoSetId: 25,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

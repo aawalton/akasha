@@ -7,7 +7,7 @@ export const perfectedClawOfYolnahkriin = {
   title: "Perfected Claw of Yolnahkriin",
   key: "perfected-claw-of-yolnahkriin",
   esoSetId: 451,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

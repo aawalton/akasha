@@ -7,7 +7,7 @@ export const aegisCaller = {
   title: "Aegis Caller",
   key: "aegis-caller",
   esoSetId: 475,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

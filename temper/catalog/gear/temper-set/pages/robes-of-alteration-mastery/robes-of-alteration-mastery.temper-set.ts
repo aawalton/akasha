@@ -7,7 +7,7 @@ export const robesOfAlterationMastery = {
   title: "Robes of Alteration Mastery",
   key: "robes-of-alteration-mastery",
   esoSetId: 76,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const symmetryOfTheWeald = {
   title: "Symmetry of the Weald",
   key: "symmetry-of-the-weald",
   esoSetId: 757,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

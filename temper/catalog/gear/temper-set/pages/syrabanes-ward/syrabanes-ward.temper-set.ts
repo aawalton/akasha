@@ -7,7 +7,7 @@ export const syrabanesWard = {
   title: "Syrabane's Ward",
   key: "syrabanes-ward",
   esoSetId: 676,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["waist:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

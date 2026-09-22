@@ -7,7 +7,7 @@ export const steadfastsMettle = {
   title: "Steadfast's Mettle",
   key: "steadfasts-mettle",
   esoSetId: 644,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

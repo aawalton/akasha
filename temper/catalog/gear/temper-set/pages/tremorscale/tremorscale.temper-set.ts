@@ -7,7 +7,7 @@ export const tremorscale = {
   title: "Tremorscale",
   key: "tremorscale",
   esoSetId: 276,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

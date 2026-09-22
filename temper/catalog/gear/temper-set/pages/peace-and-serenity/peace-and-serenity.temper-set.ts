@@ -7,7 +7,7 @@ export const peaceAndSerenity = {
   title: "Peace and Serenity",
   key: "peace-and-serenity",
   esoSetId: 701,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

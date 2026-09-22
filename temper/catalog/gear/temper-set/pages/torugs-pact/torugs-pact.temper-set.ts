@@ -7,7 +7,7 @@ export const torugsPact = {
   title: "Torug's Pact",
   key: "torugs-pact",
   esoSetId: 75,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

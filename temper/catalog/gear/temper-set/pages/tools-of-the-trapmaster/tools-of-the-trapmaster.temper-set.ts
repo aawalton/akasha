@@ -7,7 +7,7 @@ export const toolsOfTheTrapmaster = {
   title: "Tools of the Trapmaster",
   key: "tools-of-the-trapmaster",
   esoSetId: 826,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

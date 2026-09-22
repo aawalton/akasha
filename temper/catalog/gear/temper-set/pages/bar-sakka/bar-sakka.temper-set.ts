@@ -7,7 +7,7 @@ export const barSakka = {
   title: "Bar-Sakka",
   key: "bar-sakka",
   esoSetId: 829,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

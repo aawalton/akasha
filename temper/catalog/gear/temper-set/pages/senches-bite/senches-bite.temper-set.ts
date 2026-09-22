@@ -7,7 +7,7 @@ export const senchesBite = {
   title: "Senche's Bite",
   key: "senches-bite",
   esoSetId: 90,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

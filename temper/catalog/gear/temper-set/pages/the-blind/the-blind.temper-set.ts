@@ -7,7 +7,7 @@ export const theBlind = {
   title: "The Blind",
   key: "the-blind",
   esoSetId: 738,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

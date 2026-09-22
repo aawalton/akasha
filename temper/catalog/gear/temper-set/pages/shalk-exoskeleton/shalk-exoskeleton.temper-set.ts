@@ -7,7 +7,7 @@ export const shalkExoskeleton = {
   title: "Shalk Exoskeleton",
   key: "shalk-exoskeleton",
   esoSetId: 291,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

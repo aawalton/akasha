@@ -7,7 +7,7 @@ export const xanmeerGenesis = {
   title: "Xanmeer Genesis",
   key: "xanmeer-genesis",
   esoSetId: 846,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

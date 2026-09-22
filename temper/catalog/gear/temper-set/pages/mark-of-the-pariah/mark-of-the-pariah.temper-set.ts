@@ -7,7 +7,7 @@ export const markOfThePariah = {
   title: "Mark of the Pariah",
   key: "mark-of-the-pariah",
   esoSetId: 210,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

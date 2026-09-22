@@ -7,7 +7,7 @@ export const handOfMephala = {
   title: "Hand of Mephala",
   key: "hand-of-mephala",
   esoSetId: 263,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

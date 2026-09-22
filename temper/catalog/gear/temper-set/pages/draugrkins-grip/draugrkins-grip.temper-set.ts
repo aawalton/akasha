@@ -7,7 +7,7 @@ export const draugrkinsGrip = {
   title: "Draugrkin's Grip",
   key: "draugrkins-grip",
   esoSetId: 474,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

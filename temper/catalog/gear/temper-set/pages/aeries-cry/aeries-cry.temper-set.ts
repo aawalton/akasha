@@ -7,7 +7,7 @@ export const aeriesCry = {
   title: "Aerie's Cry",
   key: "aeries-cry",
   esoSetId: 781,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/warden",
   bonuses: "jsonl",

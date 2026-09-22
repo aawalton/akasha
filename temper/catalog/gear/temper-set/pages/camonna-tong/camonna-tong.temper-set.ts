@@ -7,7 +7,7 @@ export const camonnaTong = {
   title: "Camonna Tong",
   key: "camonna-tong",
   esoSetId: 699,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

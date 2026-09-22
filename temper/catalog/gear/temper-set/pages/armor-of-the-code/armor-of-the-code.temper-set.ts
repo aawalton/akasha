@@ -7,7 +7,7 @@ export const armorOfTheCode = {
   title: "Armor of the Code",
   key: "armor-of-the-code",
   esoSetId: 209,
-  subcategoryId: "other",
+  category: "temper-set-category/other",
   valid: ["jewelry:*"],
   bonuses: "jsonl",
   icons: "jsonl",

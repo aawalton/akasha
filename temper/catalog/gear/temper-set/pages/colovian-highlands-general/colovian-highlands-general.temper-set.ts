@@ -7,7 +7,7 @@ export const colovianHighlandsGeneral = {
   title: "Colovian Highlands General",
   key: "colovian-highlands-general",
   esoSetId: 711,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

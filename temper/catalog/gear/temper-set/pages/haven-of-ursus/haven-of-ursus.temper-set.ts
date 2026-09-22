@@ -7,7 +7,7 @@ export const havenOfUrsus = {
   title: "Haven of Ursus",
   key: "haven-of-ursus",
   esoSetId: 401,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

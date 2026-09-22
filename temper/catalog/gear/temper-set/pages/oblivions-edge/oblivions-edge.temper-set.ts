@@ -7,7 +7,7 @@ export const oblivionsEdge = {
   title: "Oblivion's Edge",
   key: "oblivions-edge",
   esoSetId: 91,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const robesOfDestructionMastery = {
   title: "Robes of Destruction Mastery",
   key: "robes-of-destruction-mastery",
   esoSetId: 88,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

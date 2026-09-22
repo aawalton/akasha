@@ -7,7 +7,7 @@ export const lamiasSong = {
   title: "Lamia's Song",
   key: "lamias-song",
   esoSetId: 303,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

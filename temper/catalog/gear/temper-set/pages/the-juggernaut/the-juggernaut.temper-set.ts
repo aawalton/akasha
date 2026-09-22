@@ -7,7 +7,7 @@ export const theJuggernaut = {
   title: "The Juggernaut",
   key: "the-juggernaut",
   esoSetId: 63,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

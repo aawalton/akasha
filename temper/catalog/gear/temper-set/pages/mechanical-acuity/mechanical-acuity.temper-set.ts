@@ -7,7 +7,7 @@ export const mechanicalAcuity = {
   title: "Mechanical Acuity",
   key: "mechanical-acuity",
   esoSetId: 353,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

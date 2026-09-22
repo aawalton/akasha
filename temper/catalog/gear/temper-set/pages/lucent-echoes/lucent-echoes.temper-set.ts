@@ -7,7 +7,7 @@ export const lucentEchoes = {
   title: "Lucent Echoes",
   key: "lucent-echoes",
   esoSetId: 768,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

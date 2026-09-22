@@ -7,7 +7,7 @@ export const defiler = {
   title: "Defiler",
   key: "defiler",
   esoSetId: 321,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

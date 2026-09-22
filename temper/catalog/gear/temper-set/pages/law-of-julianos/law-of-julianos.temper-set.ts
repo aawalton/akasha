@@ -7,7 +7,7 @@ export const lawOfJulianos = {
   title: "Law of Julianos",
   key: "law-of-julianos",
   esoSetId: 207,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

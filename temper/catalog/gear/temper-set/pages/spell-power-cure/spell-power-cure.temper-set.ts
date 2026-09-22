@@ -7,7 +7,7 @@ export const spellPowerCure = {
   title: "Spell Power Cure",
   key: "spell-power-cure",
   esoSetId: 185,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

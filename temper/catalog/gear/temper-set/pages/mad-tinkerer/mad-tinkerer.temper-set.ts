@@ -7,7 +7,7 @@ export const madTinkerer = {
   title: "Mad Tinkerer",
   key: "mad-tinkerer",
   esoSetId: 354,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

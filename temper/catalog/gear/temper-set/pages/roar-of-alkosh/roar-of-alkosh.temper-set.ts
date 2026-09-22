@@ -7,7 +7,7 @@ export const roarOfAlkosh = {
   title: "Roar of Alkosh",
   key: "roar-of-alkosh",
   esoSetId: 232,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

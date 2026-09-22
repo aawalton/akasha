@@ -7,7 +7,7 @@ export const trialByFire = {
   title: "Trial by Fire",
   key: "trial-by-fire",
   esoSetId: 208,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

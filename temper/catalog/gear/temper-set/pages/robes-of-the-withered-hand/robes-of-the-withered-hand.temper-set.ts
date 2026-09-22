@@ -7,7 +7,7 @@ export const robesOfTheWitheredHand = {
   title: "Robes of the Withered Hand",
   key: "robes-of-the-withered-hand",
   esoSetId: 47,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

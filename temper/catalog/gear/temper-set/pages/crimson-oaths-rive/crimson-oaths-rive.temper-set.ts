@@ -7,7 +7,7 @@ export const crimsonOathsRive = {
   title: "Crimson Oath's Rive",
   key: "crimson-oaths-rive",
   esoSetId: 602,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

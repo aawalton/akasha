@@ -7,7 +7,7 @@ export const theSaintAndTheSeducer = {
   title: "The Saint and the Seducer",
   key: "the-saint-and-the-seducer",
   esoSetId: 762,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["necklace"],
   bonuses: "jsonl",
   icons: "jsonl",

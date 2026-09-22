@@ -7,7 +7,7 @@ export const phoenix = {
   title: "Phoenix",
   key: "phoenix",
   esoSetId: 200,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

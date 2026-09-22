@@ -7,7 +7,7 @@ export const alessianOrder = {
   title: "Alessian Order",
   key: "alessian-order",
   esoSetId: 39,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

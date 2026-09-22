@@ -7,7 +7,7 @@ export const arkaysCharity = {
   title: "Arkay's Charity",
   key: "arkays-charity",
   esoSetId: 802,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

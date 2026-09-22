@@ -7,7 +7,7 @@ export const almalexiasMercy = {
   title: "Almalexia's Mercy",
   key: "almalexias-mercy",
   esoSetId: 85,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const deadlandsAssassin = {
   title: "Deadlands Assassin",
   key: "deadlands-assassin",
   esoSetId: 580,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

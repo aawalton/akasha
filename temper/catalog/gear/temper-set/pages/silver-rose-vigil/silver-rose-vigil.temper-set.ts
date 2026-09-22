@@ -7,7 +7,7 @@ export const silverRoseVigil = {
   title: "Silver Rose Vigil",
   key: "silver-rose-vigil",
   esoSetId: 605,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

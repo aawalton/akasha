@@ -7,7 +7,7 @@ export const willpower = {
   title: "Willpower",
   key: "willpower",
   esoSetId: 205,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["weapon:*", "jewelry:*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const harpoonersWadingKilt = {
   title: "Harpooner's Wading Kilt",
   key: "harpooners-wading-kilt",
   esoSetId: 594,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["legs:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

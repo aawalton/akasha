@@ -7,7 +7,7 @@ export const rushOfAgony = {
   title: "Rush of Agony",
   key: "rush-of-agony",
   esoSetId: 604,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

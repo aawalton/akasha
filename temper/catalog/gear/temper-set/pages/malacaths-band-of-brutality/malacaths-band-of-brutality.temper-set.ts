@@ -7,7 +7,7 @@ export const malacathsBandOfBrutality = {
   title: "Malacath's Band of Brutality",
   key: "malacaths-band-of-brutality",
   esoSetId: 520,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["ring"],
   bonuses: "jsonl",
   icons: "jsonl",

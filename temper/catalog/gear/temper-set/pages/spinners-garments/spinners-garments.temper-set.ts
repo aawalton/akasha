@@ -7,7 +7,7 @@ export const spinnersGarments = {
   title: "Spinner's Garments",
   key: "spinners-garments",
   esoSetId: 289,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

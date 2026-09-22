@@ -7,7 +7,7 @@ export const crimsonTwilight = {
   title: "Crimson Twilight",
   key: "crimson-twilight",
   esoSetId: 515,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

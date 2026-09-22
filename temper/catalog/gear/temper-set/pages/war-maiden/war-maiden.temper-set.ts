@@ -7,7 +7,7 @@ export const warMaiden = {
   title: "War Maiden",
   key: "war-maiden",
   esoSetId: 320,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

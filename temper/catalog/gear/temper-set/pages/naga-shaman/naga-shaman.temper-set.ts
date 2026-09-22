@@ -7,7 +7,7 @@ export const nagaShaman = {
   title: "Naga Shaman",
   key: "naga-shaman",
   esoSetId: 409,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const threadsOfWar = {
   title: "Threads of War",
   key: "threads-of-war",
   esoSetId: 765,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

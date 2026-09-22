@@ -7,7 +7,7 @@ export const threeQueensWellspring = {
   title: "Three Queens Wellspring",
   key: "three-queens-wellspring",
   esoSetId: 805,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

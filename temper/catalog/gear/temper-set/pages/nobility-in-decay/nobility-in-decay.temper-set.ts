@@ -7,7 +7,7 @@ export const nobilityInDecay = {
   title: "Nobility in Decay",
   key: "nobility-in-decay",
   esoSetId: 724,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/necromancer",
   bonuses: "jsonl",

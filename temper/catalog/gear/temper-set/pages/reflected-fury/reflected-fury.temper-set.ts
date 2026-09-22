@@ -7,7 +7,7 @@ export const reflectedFury = {
   title: "Reflected Fury",
   key: "reflected-fury",
   esoSetId: 737,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

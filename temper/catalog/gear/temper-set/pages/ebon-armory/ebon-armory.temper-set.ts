@@ -7,7 +7,7 @@ export const ebonArmory = {
   title: "Ebon Armory",
   key: "ebon-armory",
   esoSetId: 122,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

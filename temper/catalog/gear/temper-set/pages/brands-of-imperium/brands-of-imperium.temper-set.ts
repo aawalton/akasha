@@ -7,7 +7,7 @@ export const brandsOfImperium = {
   title: "Brands of Imperium",
   key: "brands-of-imperium",
   esoSetId: 184,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

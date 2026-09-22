@@ -7,7 +7,7 @@ export const hexSiphon = {
   title: "Hex Siphon",
   key: "hex-siphon",
   esoSetId: 542,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

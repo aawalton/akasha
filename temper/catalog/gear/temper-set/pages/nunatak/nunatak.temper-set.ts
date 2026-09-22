@@ -7,7 +7,7 @@ export const nunatak = {
   title: "Nunatak",
   key: "nunatak",
   esoSetId: 634,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const immortalWarrior = {
   title: "Immortal Warrior",
   key: "immortal-warrior",
   esoSetId: 136,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

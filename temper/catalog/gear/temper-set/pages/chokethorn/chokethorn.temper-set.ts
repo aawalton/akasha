@@ -7,7 +7,7 @@ export const chokethorn = {
   title: "Chokethorn",
   key: "chokethorn",
   esoSetId: 269,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

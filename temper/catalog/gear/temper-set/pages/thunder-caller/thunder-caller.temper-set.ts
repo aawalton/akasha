@@ -7,7 +7,7 @@ export const thunderCaller = {
   title: "Thunder Caller",
   key: "thunder-caller",
   esoSetId: 606,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

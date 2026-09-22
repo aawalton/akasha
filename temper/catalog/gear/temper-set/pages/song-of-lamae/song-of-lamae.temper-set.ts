@@ -7,7 +7,7 @@ export const songOfLamae = {
   title: "Song of Lamae",
   key: "song-of-lamae",
   esoSetId: 81,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

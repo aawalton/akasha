@@ -7,7 +7,7 @@ export const spellshredder = {
   title: "Spellshredder",
   key: "spellshredder",
   esoSetId: 830,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

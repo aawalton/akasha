@@ -7,7 +7,7 @@ export const baronZaudrus = {
   title: "Baron Zaudrus",
   key: "baron-zaudrus",
   esoSetId: 578,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

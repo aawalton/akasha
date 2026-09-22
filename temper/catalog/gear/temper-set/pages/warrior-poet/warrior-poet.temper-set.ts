@@ -7,7 +7,7 @@ export const warriorPoet = {
   title: "Warrior-Poet",
   key: "warrior-poet",
   esoSetId: 322,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

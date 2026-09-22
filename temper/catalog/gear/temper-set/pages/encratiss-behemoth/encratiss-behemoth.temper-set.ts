@@ -7,7 +7,7 @@ export const encratissBehemoth = {
   title: "Encratis's Behemoth",
   key: "encratiss-behemoth",
   esoSetId: 577,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

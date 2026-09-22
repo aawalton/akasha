@@ -7,7 +7,7 @@ export const orderOfDiagna = {
   title: "Order of Diagna",
   key: "order-of-diagna",
   esoSetId: 284,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

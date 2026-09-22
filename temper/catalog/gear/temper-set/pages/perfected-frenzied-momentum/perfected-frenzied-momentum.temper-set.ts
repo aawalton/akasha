@@ -7,7 +7,7 @@ export const perfectedFrenziedMomentum = {
   title: "Perfected Frenzied Momentum",
   key: "perfected-frenzied-momentum",
   esoSetId: 565,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["greatsword", "battleaxe", "maul"],
   bonuses: "jsonl",
   icons: "jsonl",

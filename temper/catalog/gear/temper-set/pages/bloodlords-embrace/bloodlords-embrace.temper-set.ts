@@ -7,7 +7,7 @@ export const bloodlordsEmbrace = {
   title: "Bloodlord's Embrace",
   key: "bloodlords-embrace",
   esoSetId: 521,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["chest:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

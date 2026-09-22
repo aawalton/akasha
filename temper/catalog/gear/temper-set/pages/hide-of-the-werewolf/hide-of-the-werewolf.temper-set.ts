@@ -7,7 +7,7 @@ export const hideOfTheWerewolf = {
   title: "Hide of the Werewolf",
   key: "hide-of-the-werewolf",
   esoSetId: 58,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

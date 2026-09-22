@@ -7,7 +7,7 @@ export const elfBane = {
   title: "Elf Bane",
   key: "elf-bane",
   esoSetId: 83,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

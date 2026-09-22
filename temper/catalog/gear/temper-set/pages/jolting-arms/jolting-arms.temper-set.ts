@@ -7,7 +7,7 @@ export const joltingArms = {
   title: "Jolting Arms",
   key: "jolting-arms",
   esoSetId: 186,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

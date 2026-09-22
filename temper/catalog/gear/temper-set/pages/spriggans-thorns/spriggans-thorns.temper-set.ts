@@ -7,7 +7,7 @@ export const spriggansThorns = {
   title: "Spriggan's Thorns",
   key: "spriggans-thorns",
   esoSetId: 286,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

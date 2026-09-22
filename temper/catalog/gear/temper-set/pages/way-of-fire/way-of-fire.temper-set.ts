@@ -7,7 +7,7 @@ export const wayOfFire = {
   title: "Way of Fire",
   key: "way-of-fire",
   esoSetId: 145,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

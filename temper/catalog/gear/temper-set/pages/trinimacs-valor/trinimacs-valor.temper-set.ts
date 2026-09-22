@@ -7,7 +7,7 @@ export const trinimacsValor = {
   title: "Trinimac's Valor",
   key: "trinimacs-valor",
   esoSetId: 218,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

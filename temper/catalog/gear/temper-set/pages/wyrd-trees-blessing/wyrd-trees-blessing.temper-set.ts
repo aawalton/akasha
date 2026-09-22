@@ -7,7 +7,7 @@ export const wyrdTreesBlessing = {
   title: "Wyrd Tree's Blessing",
   key: "wyrd-trees-blessing",
   esoSetId: 107,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

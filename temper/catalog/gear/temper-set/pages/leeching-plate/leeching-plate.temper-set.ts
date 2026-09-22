@@ -7,7 +7,7 @@ export const leechingPlate = {
   title: "Leeching Plate",
   key: "leeching-plate",
   esoSetId: 196,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

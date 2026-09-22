@@ -7,7 +7,7 @@ export const coralRiptide = {
   title: "Coral Riptide",
   key: "coral-riptide",
   esoSetId: 647,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

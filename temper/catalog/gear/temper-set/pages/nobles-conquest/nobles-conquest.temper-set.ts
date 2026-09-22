@@ -7,7 +7,7 @@ export const noblesConquest = {
   title: "Noble's Conquest",
   key: "nobles-conquest",
   esoSetId: 176,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const sergeantsMail = {
   title: "Sergeant's Mail",
   key: "sergeants-mail",
   esoSetId: 29,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

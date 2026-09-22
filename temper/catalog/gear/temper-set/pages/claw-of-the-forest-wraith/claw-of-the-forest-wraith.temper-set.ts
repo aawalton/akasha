@@ -7,7 +7,7 @@ export const clawOfTheForestWraith = {
   title: "Claw of the Forest Wraith",
   key: "claw-of-the-forest-wraith",
   esoSetId: 679,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

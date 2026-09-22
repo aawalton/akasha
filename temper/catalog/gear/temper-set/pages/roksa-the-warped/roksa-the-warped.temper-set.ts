@@ -7,7 +7,7 @@ export const roksaTheWarped = {
   title: "Roksa the Warped",
   key: "roksa-the-warped",
   esoSetId: 683,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

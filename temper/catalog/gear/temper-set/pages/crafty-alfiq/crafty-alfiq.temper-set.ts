@@ -7,7 +7,7 @@ export const craftyAlfiq = {
   title: "Crafty Alfiq",
   key: "crafty-alfiq",
   esoSetId: 440,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const wrathOfTheImperium = {
   title: "Wrath of the Imperium",
   key: "wrath-of-the-imperium",
   esoSetId: 125,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["weapon:*", "jewelry:*"],
   bonuses: "jsonl",
   icons: "jsonl",

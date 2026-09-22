@@ -7,7 +7,7 @@ export const netchsTouch = {
   title: "Netch's Touch",
   key: "netchs-touch",
   esoSetId: 300,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

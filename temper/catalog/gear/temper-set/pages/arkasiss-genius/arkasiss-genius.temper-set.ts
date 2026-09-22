@@ -7,7 +7,7 @@ export const arkasissGenius = {
   title: "Arkasis's Genius",
   key: "arkasiss-genius",
   esoSetId: 518,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

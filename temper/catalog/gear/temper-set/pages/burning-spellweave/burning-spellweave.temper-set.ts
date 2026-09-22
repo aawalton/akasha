@@ -7,7 +7,7 @@ export const burningSpellweave = {
   title: "Burning Spellweave",
   key: "burning-spellweave",
   esoSetId: 160,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

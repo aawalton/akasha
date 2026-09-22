@@ -7,7 +7,7 @@ export const glorgolochTheDestroyer = {
   title: "Glorgoloch the Destroyer",
   key: "glorgoloch-the-destroyer",
   esoSetId: 600,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

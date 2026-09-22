@@ -7,7 +7,7 @@ export const gloriousDefender = {
   title: "Glorious Defender",
   key: "glorious-defender",
   esoSetId: 213,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

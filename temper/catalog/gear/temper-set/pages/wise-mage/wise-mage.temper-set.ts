@@ -7,7 +7,7 @@ export const wiseMage = {
   title: "Wise Mage",
   key: "wise-mage",
   esoSetId: 139,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const nightMothersGaze = {
   title: "Night Mother's Gaze",
   key: "night-mothers-gaze",
   esoSetId: 51,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

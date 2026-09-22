@@ -7,7 +7,7 @@ export const perfectedPiercingSpray = {
   title: "Perfected Piercing Spray",
   key: "perfected-piercing-spray",
   esoSetId: 360,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["bow"],
   bonuses: "jsonl",
   icons: "jsonl",

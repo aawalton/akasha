@@ -7,7 +7,7 @@ export const blackfeatherFlight = {
   title: "Blackfeather Flight",
   key: "blackfeather-flight",
   esoSetId: 804,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const maraudersHaste = {
   title: "Marauder's Haste",
   key: "marauders-haste",
   esoSetId: 466,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

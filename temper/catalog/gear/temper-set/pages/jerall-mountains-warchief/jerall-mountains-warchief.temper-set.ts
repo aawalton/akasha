@@ -7,7 +7,7 @@ export const jerallMountainsWarchief = {
   title: "Jerall Mountains Warchief",
   key: "jerall-mountains-warchief",
   esoSetId: 712,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

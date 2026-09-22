@@ -7,7 +7,7 @@ export const stoneTalkersOath = {
   title: "Stone-Talker's Oath",
   key: "stone-talkers-oath",
   esoSetId: 588,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

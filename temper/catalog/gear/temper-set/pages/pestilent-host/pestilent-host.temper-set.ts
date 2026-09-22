@@ -7,7 +7,7 @@ export const pestilentHost = {
   title: "Pestilent Host",
   key: "pestilent-host",
   esoSetId: 543,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

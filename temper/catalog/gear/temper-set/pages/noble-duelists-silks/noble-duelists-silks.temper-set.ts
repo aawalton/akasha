@@ -7,7 +7,7 @@ export const nobleDuelistsSilks = {
   title: "Noble Duelist's Silks",
   key: "noble-duelists-silks",
   esoSetId: 46,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

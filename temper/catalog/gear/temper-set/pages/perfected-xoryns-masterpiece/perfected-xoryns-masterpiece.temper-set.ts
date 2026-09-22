@@ -7,7 +7,7 @@ export const perfectedXorynsMasterpiece = {
   title: "Perfected Xoryn's Masterpiece",
   key: "perfected-xoryns-masterpiece",
   esoSetId: 770,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

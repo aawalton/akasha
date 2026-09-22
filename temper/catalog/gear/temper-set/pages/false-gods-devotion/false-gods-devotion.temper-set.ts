@@ -7,7 +7,7 @@ export const falseGodsDevotion = {
   title: "False God's Devotion",
   key: "false-gods-devotion",
   esoSetId: 444,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

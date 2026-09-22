@@ -7,7 +7,7 @@ export const stoneHusk = {
   title: "Stone Husk",
   key: "stone-husk",
   esoSetId: 534,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

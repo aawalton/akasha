@@ -7,7 +7,7 @@ export const moondancer = {
   title: "Moondancer",
   key: "moondancer",
   esoSetId: 230,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

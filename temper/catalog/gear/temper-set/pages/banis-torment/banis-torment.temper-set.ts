@@ -7,7 +7,7 @@ export const banisTorment = {
   title: "Bani's Torment",
   key: "banis-torment",
   esoSetId: 473,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

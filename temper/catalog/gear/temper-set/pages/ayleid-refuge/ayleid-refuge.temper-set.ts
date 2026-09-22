@@ -7,7 +7,7 @@ export const ayleidRefuge = {
   title: "Ayleid Refuge",
   key: "ayleid-refuge",
   esoSetId: 759,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

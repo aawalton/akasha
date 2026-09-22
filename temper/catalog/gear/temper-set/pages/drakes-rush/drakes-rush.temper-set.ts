@@ -7,7 +7,7 @@ export const drakesRush = {
   title: "Drake's Rush",
   key: "drakes-rush",
   esoSetId: 571,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

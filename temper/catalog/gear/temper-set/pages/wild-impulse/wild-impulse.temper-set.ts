@@ -7,7 +7,7 @@ export const wildImpulse = {
   title: "Wild Impulse",
   key: "wild-impulse",
   esoSetId: 415,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["inferno-staff", "ice-staff", "lightning-staff"],
   bonuses: "jsonl",
   icons: "jsonl",

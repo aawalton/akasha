@@ -7,7 +7,7 @@ export const spaulderOfRuin = {
   title: "Spaulder of Ruin",
   key: "spaulder-of-ruin",
   esoSetId: 627,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["shoulders:light"],
   bonuses: "jsonl",
   icons: "jsonl",

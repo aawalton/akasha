@@ -7,7 +7,7 @@ export const soldierOfAnguish = {
   title: "Soldier of Anguish",
   key: "soldier-of-anguish",
   esoSetId: 420,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

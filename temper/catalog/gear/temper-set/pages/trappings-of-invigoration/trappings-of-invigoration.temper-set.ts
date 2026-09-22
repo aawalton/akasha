@@ -7,7 +7,7 @@ export const trappingsOfInvigoration = {
   title: "Trappings of Invigoration",
   key: "trappings-of-invigoration",
   esoSetId: 344,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

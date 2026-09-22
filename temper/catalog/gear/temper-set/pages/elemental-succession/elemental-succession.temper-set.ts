@@ -7,7 +7,7 @@ export const elementalSuccession = {
   title: "Elemental Succession",
   key: "elemental-succession",
   esoSetId: 215,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

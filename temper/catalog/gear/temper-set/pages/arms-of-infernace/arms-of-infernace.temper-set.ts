@@ -7,7 +7,7 @@ export const armsOfInfernace = {
   title: "Arms of Infernace",
   key: "arms-of-infernace",
   esoSetId: 120,
-  subcategoryId: "other",
+  category: "temper-set-category/other",
   valid: ["sword", "necklace"],
   bonuses: "jsonl",
   icons: "jsonl",

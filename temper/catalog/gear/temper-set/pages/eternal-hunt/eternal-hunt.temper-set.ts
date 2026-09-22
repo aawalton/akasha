@@ -7,7 +7,7 @@ export const eternalHunt = {
   title: "Eternal Hunt",
   key: "eternal-hunt",
   esoSetId: 226,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

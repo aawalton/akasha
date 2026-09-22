@@ -7,7 +7,7 @@ export const cryptcanonVestments = {
   title: "Cryptcanon Vestments",
   key: "cryptcanon-vestments",
   esoSetId: 691,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["chest:light"],
   bonuses: "jsonl",
   icons: "jsonl",

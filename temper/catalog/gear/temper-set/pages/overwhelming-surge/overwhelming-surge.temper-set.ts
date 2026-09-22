@@ -7,7 +7,7 @@ export const overwhelmingSurge = {
   title: "Overwhelming Surge",
   key: "overwhelming-surge",
   esoSetId: 193,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const queensElegance = {
   title: "Queen's Elegance",
   key: "queens-elegance",
   esoSetId: 86,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

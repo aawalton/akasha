@@ -7,7 +7,7 @@ export const gardenerOfSeasons = {
   title: "Gardener of Seasons",
   key: "gardener-of-seasons",
   esoSetId: 729,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/warden",
   bonuses: "jsonl",

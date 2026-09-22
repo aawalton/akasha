@@ -7,7 +7,7 @@ export const daringCorsair = {
   title: "Daring Corsair",
   key: "daring-corsair",
   esoSetId: 468,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

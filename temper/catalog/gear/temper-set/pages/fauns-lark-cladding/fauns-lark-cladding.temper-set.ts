@@ -7,7 +7,7 @@ export const faunsLarkCladding = {
   title: "Faun's Lark Cladding",
   key: "fauns-lark-cladding",
   esoSetId: 674,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["chest:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

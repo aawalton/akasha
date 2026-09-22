@@ -7,7 +7,7 @@ export const armorOfTheVeiledHeritance = {
   title: "Armor of the Veiled Heritance",
   key: "armor-of-the-veiled-heritance",
   esoSetId: 36,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

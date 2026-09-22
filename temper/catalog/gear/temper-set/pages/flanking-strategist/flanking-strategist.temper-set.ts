@@ -7,7 +7,7 @@ export const flankingStrategist = {
   title: "Flanking Strategist",
   key: "flanking-strategist",
   esoSetId: 244,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

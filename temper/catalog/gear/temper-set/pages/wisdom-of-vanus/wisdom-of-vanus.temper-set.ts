@@ -7,7 +7,7 @@ export const wisdomOfVanus = {
   title: "Wisdom of Vanus",
   key: "wisdom-of-vanus",
   esoSetId: 384,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

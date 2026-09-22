@@ -7,7 +7,7 @@ export const timelessBlessing = {
   title: "Timeless Blessing",
   key: "timeless-blessing",
   esoSetId: 368,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["restoration-staff"],
   bonuses: "jsonl",
   icons: "jsonl",

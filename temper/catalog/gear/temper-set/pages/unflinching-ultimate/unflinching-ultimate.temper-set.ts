@@ -7,7 +7,7 @@ export const unflinchingUltimate = {
   title: "Unflinching Ultimate",
   key: "unflinching-ultimate",
   esoSetId: 832,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

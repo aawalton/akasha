@@ -7,7 +7,7 @@ export const roaringOpportunist = {
   title: "Roaring Opportunist",
   key: "roaring-opportunist",
   esoSetId: 496,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

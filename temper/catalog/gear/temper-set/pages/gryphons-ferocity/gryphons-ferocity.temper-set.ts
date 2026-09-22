@@ -7,7 +7,7 @@ export const gryphonsFerocity = {
   title: "Gryphon's Ferocity",
   key: "gryphons-ferocity",
   esoSetId: 383,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

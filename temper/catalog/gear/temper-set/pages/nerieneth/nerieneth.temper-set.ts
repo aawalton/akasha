@@ -7,7 +7,7 @@ export const nerieneth = {
   title: "Nerien'eth",
   key: "nerieneth",
   esoSetId: 168,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

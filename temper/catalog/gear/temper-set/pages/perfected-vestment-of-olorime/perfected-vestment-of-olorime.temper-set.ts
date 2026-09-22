@@ -7,7 +7,7 @@ export const perfectedVestmentOfOlorime = {
   title: "Perfected Vestment of Olorime",
   key: "perfected-vestment-of-olorime",
   esoSetId: 395,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

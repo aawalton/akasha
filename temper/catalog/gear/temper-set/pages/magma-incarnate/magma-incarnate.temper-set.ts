@@ -7,7 +7,7 @@ export const magmaIncarnate = {
   title: "Magma Incarnate",
   key: "magma-incarnate",
   esoSetId: 609,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

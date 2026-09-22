@@ -7,7 +7,7 @@ export const endurance = {
   title: "Endurance",
   key: "endurance",
   esoSetId: 204,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["weapon:*", "jewelry:*"],
   bonuses: "jsonl",
   icons: "jsonl",

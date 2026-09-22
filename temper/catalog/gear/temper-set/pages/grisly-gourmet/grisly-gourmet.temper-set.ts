@@ -7,7 +7,7 @@ export const grislyGourmet = {
   title: "Grisly Gourmet",
   key: "grisly-gourmet",
   esoSetId: 607,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

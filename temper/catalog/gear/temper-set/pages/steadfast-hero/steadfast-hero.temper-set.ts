@@ -7,7 +7,7 @@ export const steadfastHero = {
   title: "Steadfast Hero",
   key: "steadfast-hero",
   esoSetId: 421,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

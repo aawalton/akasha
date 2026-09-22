@@ -7,7 +7,7 @@ export const perfectedToothOfLokkestiiz = {
   title: "Perfected Tooth of Lokkestiiz",
   key: "perfected-tooth-of-lokkestiiz",
   esoSetId: 450,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

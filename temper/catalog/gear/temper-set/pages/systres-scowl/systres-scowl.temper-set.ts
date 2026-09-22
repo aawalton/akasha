@@ -7,7 +7,7 @@ export const systresScowl = {
   title: "Systres' Scowl",
   key: "systres-scowl",
   esoSetId: 645,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

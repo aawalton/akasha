@@ -7,7 +7,7 @@ export const torcOfTonalConstancy = {
   title: "Torc of Tonal Constancy",
   key: "torc-of-tonal-constancy",
   esoSetId: 505,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["necklace"],
   bonuses: "jsonl",
   icons: "jsonl",

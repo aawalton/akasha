@@ -7,7 +7,7 @@ export const perfectedPearlescentWard = {
   title: "Perfected Pearlescent Ward",
   key: "perfected-pearlescent-ward",
   esoSetId: 651,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

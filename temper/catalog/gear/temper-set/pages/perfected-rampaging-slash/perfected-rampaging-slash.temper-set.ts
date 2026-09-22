@@ -7,7 +7,7 @@ export const perfectedRampagingSlash = {
   title: "Perfected Rampaging Slash",
   key: "perfected-rampaging-slash",
   esoSetId: 523,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger", "shield"],
   bonuses: "jsonl",
   icons: "jsonl",

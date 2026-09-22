@@ -7,7 +7,7 @@ export const harmonyInChaos = {
   title: "Harmony in Chaos",
   key: "harmony-in-chaos",
   esoSetId: 814,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const plagueDoctor = {
   title: "Plague Doctor",
   key: "plague-doctor",
   esoSetId: 293,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

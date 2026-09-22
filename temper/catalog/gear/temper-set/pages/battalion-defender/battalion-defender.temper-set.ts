@@ -7,7 +7,7 @@ export const battalionDefender = {
   title: "Battalion Defender",
   key: "battalion-defender",
   esoSetId: 422,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

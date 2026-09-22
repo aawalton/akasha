@@ -11,3 +11,4 @@
 {"propertySlug":"import","fileName":"temper-set-category.page-type.types.ts","path":"temper/catalog/gear/temper-set-category/pages/pvp.temper-set-category.ts"}
 {"propertySlug":"import","fileName":"temper-set-category.page-type.types.ts","path":"temper/catalog/gear/temper-set-category/pages/trial.temper-set-category.ts"}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}
+{"propertySlug":"target-page-type","path":"temper/catalog/gear/temper-set/properties/set-category.relation-property.ts","id":"01a0cb11-8d37-714d-b19f-47ba19eec706"}

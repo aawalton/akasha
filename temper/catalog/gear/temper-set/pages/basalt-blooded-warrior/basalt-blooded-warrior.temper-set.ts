@@ -7,7 +7,7 @@ export const basaltBloodedWarrior = {
   title: "Basalt-Blooded Warrior",
   key: "basalt-blooded-warrior",
   esoSetId: 723,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/dragonknight",
   bonuses: "jsonl",

@@ -7,7 +7,7 @@ export const giantSpider = {
   title: "Giant Spider",
   key: "giant-spider",
   esoSetId: 264,
-  subcategoryId: "other",
+  category: "temper-set-category/other",
   valid: ["head:*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const frostbite = {
   title: "Frostbite",
   key: "frostbite",
   esoSetId: 579,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

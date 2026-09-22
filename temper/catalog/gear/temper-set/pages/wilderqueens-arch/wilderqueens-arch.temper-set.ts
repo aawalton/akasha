@@ -7,7 +7,7 @@ export const wilderqueensArch = {
   title: "Wilderqueen's Arch",
   key: "wilderqueens-arch",
   esoSetId: 106,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

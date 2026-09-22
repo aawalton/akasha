@@ -7,7 +7,7 @@ export const lightSpeaker = {
   title: "Light Speaker",
   key: "light-speaker",
   esoSetId: 298,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

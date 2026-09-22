@@ -7,7 +7,7 @@ export const tavasFavor = {
   title: "Tava's Favor",
   key: "tavas-favor",
   esoSetId: 224,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

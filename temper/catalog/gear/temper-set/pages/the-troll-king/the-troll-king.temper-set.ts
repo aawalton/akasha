@@ -7,7 +7,7 @@ export const theTrollKing = {
   title: "The Troll King",
   key: "the-troll-king",
   esoSetId: 278,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

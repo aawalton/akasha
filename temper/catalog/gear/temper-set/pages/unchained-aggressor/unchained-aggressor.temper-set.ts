@@ -7,7 +7,7 @@ export const unchainedAggressor = {
   title: "Unchained Aggressor",
   key: "unchained-aggressor",
   esoSetId: 481,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

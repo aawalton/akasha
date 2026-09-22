@@ -7,7 +7,7 @@ export const duroksBane = {
   title: "Durok's Bane",
   key: "duroks-bane",
   esoSetId: 71,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

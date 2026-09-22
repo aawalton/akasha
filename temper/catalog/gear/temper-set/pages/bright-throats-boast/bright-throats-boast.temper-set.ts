@@ -7,7 +7,7 @@ export const brightThroatsBoast = {
   title: "Bright-Throat's Boast",
   key: "bright-throats-boast",
   esoSetId: 405,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

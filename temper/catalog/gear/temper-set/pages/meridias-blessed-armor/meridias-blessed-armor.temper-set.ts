@@ -7,7 +7,7 @@ export const meridiasBlessedArmor = {
   title: "Meridia's Blessed Armor",
   key: "meridias-blessed-armor",
   esoSetId: 94,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

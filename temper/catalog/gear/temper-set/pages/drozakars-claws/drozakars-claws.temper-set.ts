@@ -7,7 +7,7 @@ export const drozakarsClaws = {
   title: "Dro'Zakar's Claws",
   key: "drozakars-claws",
   esoSetId: 453,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

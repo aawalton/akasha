@@ -7,7 +7,7 @@ export const aegisOfGalenwe = {
   title: "Aegis of Galenwe",
   key: "aegis-of-galenwe",
   esoSetId: 388,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const infallibleMage = {
   title: "Infallible Mage",
   key: "infallible-mage",
   esoSetId: 172,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

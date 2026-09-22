@@ -7,7 +7,7 @@ export const adeptRider = {
   title: "Adept Rider",
   key: "adept-rider",
   esoSetId: 385,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const stormfist = {
   title: "Stormfist",
   key: "stormfist",
   esoSetId: 275,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

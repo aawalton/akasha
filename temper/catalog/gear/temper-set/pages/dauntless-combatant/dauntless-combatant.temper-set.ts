@@ -7,7 +7,7 @@ export const dauntlessCombatant = {
   title: "Dauntless Combatant",
   key: "dauntless-combatant",
   esoSetId: 482,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

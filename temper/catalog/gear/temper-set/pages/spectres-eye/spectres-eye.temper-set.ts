@@ -7,7 +7,7 @@ export const spectresEye = {
   title: "Spectre's Eye",
   key: "spectres-eye",
   esoSetId: 74,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const meritoriousService = {
   title: "Meritorious Service",
   key: "meritorious-service",
   esoSetId: 181,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

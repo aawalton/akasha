@@ -7,7 +7,7 @@ export const aetherialAscension = {
   title: "Aetherial Ascension",
   key: "aetherial-ascension",
   esoSetId: 541,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

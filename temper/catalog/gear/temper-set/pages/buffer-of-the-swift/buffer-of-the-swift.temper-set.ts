@@ -7,7 +7,7 @@ export const bufferOfTheSwift = {
   title: "Buffer of the Swift",
   key: "buffer-of-the-swift",
   esoSetId: 133,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

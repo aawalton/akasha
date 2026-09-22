@@ -7,7 +7,7 @@ export const wayOfAir = {
   title: "Way of Air",
   key: "way-of-air",
   esoSetId: 146,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

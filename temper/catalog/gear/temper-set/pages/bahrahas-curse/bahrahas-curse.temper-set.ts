@@ -7,7 +7,7 @@ export const bahrahasCurse = {
   title: "Bahraha's Curse",
   key: "bahrahas-curse",
   esoSetId: 227,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

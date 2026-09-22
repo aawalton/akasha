@@ -7,7 +7,7 @@ export const fledglingsNest = {
   title: "Fledgling's Nest",
   key: "fledglings-nest",
   esoSetId: 799,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const vipersSting = {
   title: "Viper's Sting",
   key: "vipers-sting",
   esoSetId: 33,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

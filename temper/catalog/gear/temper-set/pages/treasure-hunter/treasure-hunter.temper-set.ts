@@ -7,7 +7,7 @@ export const treasureHunter = {
   title: "Treasure Hunter",
   key: "treasure-hunter",
   esoSetId: 305,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

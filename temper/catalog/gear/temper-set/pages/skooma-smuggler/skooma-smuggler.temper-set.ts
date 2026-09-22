@@ -7,7 +7,7 @@ export const skoomaSmuggler = {
   title: "Skooma Smuggler",
   key: "skooma-smuggler",
   esoSetId: 290,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

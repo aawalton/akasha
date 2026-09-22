@@ -7,7 +7,7 @@ export const phoenixMothTheurge = {
   title: "Phoenix Moth Theurge",
   key: "phoenix-moth-theurge",
   esoSetId: 672,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const heartlandConqueror = {
   title: "Heartland Conqueror",
   key: "heartland-conqueror",
   esoSetId: 583,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const macabreVintage = {
   title: "Macabre Vintage",
   key: "macabre-vintage",
   esoSetId: 758,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

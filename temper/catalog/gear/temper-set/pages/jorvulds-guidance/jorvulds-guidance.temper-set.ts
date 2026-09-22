@@ -7,7 +7,7 @@ export const jorvuldsGuidance = {
   title: "Jorvuld's Guidance",
   key: "jorvulds-guidance",
   esoSetId: 346,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

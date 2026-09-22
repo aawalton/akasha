@@ -7,7 +7,7 @@ export const innateAxiom = {
   title: "Innate Axiom",
   key: "innate-axiom",
   esoSetId: 351,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

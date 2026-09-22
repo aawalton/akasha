@@ -7,7 +7,7 @@ export const viciousDeath = {
   title: "Vicious Death",
   key: "vicious-death",
   esoSetId: 236,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

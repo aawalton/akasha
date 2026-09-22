@@ -7,7 +7,7 @@ export const spelunker = {
   title: "Spelunker",
   key: "spelunker",
   esoSetId: 296,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

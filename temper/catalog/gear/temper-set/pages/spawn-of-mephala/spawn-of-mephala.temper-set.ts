@@ -7,7 +7,7 @@ export const spawnOfMephala = {
   title: "Spawn of Mephala",
   key: "spawn-of-mephala",
   esoSetId: 162,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

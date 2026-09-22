@@ -7,7 +7,7 @@ export const radialUppercut = {
   title: "Radial Uppercut",
   key: "radial-uppercut",
   esoSetId: 412,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["greatsword", "battleaxe", "maul"],
   bonuses: "jsonl",
   icons: "jsonl",

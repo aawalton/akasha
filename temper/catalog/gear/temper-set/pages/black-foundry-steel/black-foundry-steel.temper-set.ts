@@ -7,7 +7,7 @@ export const blackFoundrySteel = {
   title: "Black Foundry Steel",
   key: "black-foundry-steel",
   esoSetId: 824,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

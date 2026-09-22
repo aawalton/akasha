@@ -7,7 +7,7 @@ export const healingMage = {
   title: "Healing Mage",
   key: "healing-mage",
   esoSetId: 141,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

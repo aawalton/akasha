@@ -7,7 +7,7 @@ export const moonHunter = {
   title: "Moon Hunter",
   key: "moon-hunter",
   esoSetId: 402,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

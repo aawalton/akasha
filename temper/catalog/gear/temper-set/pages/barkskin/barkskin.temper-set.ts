@@ -7,7 +7,7 @@ export const barkskin = {
   title: "Barkskin",
   key: "barkskin",
   esoSetId: 28,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const stendarrsEmbrace = {
   title: "Stendarr's Embrace",
   key: "stendarrs-embrace",
   esoSetId: 56,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

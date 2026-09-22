@@ -7,7 +7,7 @@ export const pirateSkeleton = {
   title: "Pirate Skeleton",
   key: "pirate-skeleton",
   esoSetId: 277,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

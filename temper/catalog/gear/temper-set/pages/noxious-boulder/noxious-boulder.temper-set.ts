@@ -7,7 +7,7 @@ export const noxiousBoulder = {
   title: "Noxious Boulder",
   key: "noxious-boulder",
   esoSetId: 800,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

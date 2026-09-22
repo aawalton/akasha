@@ -7,7 +7,7 @@ export const judgmentOfAkatosh = {
   title: "Judgment of Akatosh",
   key: "judgment-of-akatosh",
   esoSetId: 690,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

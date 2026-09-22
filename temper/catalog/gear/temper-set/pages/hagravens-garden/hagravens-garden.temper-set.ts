@@ -7,7 +7,7 @@ export const hagravensGarden = {
   title: "Hagraven's Garden",
   key: "hagravens-garden",
   esoSetId: 340,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

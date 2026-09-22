@@ -7,7 +7,7 @@ export const healersHabit = {
   title: "Healer's Habit",
   key: "healers-habit",
   esoSetId: 32,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

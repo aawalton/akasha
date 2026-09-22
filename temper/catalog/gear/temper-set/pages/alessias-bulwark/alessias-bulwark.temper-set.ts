@@ -7,7 +7,7 @@ export const alessiasBulwark = {
   title: "Alessia's Bulwark",
   key: "alessias-bulwark",
   esoSetId: 82,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

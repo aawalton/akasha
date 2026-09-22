@@ -7,7 +7,7 @@ export const swarmMother = {
   title: "Swarm Mother",
   key: "swarm-mother",
   esoSetId: 267,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

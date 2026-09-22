@@ -7,7 +7,7 @@ export const corpseburster = {
   title: "Corpseburster",
   key: "corpseburster",
   esoSetId: 777,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/necromancer",
   bonuses: "jsonl",

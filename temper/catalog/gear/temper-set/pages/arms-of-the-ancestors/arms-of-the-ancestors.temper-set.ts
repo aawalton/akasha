@@ -7,7 +7,7 @@ export const armsOfTheAncestors = {
   title: "Arms of the Ancestors",
   key: "arms-of-the-ancestors",
   esoSetId: 121,
-  subcategoryId: "other",
+  category: "temper-set-category/other",
   valid: ["bow", "ring"],
   bonuses: "jsonl",
   icons: "jsonl",

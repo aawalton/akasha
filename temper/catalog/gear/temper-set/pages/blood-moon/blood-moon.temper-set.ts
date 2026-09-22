@@ -7,7 +7,7 @@ export const bloodMoon = {
   title: "Blood Moon",
   key: "blood-moon",
   esoSetId: 400,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

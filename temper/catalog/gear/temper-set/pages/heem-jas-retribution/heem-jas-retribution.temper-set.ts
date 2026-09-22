@@ -7,7 +7,7 @@ export const heemJasRetribution = {
   title: "Heem-Jas' Retribution",
   key: "heem-jas-retribution",
   esoSetId: 259,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

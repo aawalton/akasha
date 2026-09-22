@@ -7,7 +7,7 @@ export const aethericLancer = {
   title: "Aetheric Lancer",
   key: "aetheric-lancer",
   esoSetId: 780,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/templar",
   bonuses: "jsonl",

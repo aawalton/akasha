@@ -7,7 +7,7 @@ export const glacialGuardian = {
   title: "Glacial Guardian",
   key: "glacial-guardian",
   esoSetId: 621,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

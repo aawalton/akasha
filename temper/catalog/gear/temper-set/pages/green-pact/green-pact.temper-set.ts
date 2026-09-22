@@ -7,7 +7,7 @@ export const greenPact = {
   title: "Green Pact",
   key: "green-pact",
   esoSetId: 287,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

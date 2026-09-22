@@ -7,7 +7,7 @@ export const languorOfPeryite = {
   title: "Languor of Peryite",
   key: "languor-of-peryite",
   esoSetId: 668,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const pyrebrand = {
   title: "Pyrebrand",
   key: "pyrebrand",
   esoSetId: 776,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/dragonknight",
   bonuses: "jsonl",

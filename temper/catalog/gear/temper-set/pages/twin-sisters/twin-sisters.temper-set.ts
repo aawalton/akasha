@@ -7,7 +7,7 @@ export const twinSisters = {
   title: "Twin Sisters",
   key: "twin-sisters",
   esoSetId: 105,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

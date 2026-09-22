@@ -7,7 +7,7 @@ export const jailbreaker = {
   title: "Jailbreaker",
   key: "jailbreaker",
   esoSetId: 295,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const ladyMalygda = {
   title: "Lady Malygda",
   key: "lady-malygda",
   esoSetId: 635,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

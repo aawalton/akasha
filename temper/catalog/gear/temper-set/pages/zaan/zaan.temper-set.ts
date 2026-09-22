@@ -7,7 +7,7 @@ export const zaan = {
   title: "Zaan",
   key: "zaan",
   esoSetId: 350,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

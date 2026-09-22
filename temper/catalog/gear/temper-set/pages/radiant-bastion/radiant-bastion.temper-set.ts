@@ -7,7 +7,7 @@ export const radiantBastion = {
   title: "Radiant Bastion",
   key: "radiant-bastion",
   esoSetId: 536,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

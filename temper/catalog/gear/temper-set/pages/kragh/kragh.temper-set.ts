@@ -7,7 +7,7 @@ export const kragh = {
   title: "Kra'gh",
   key: "kragh",
   esoSetId: 266,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

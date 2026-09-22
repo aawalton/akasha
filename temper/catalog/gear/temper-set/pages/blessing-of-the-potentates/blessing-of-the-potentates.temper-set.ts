@@ -7,7 +7,7 @@ export const blessingOfThePotentates = {
   title: "Blessing of the Potentates",
   key: "blessing-of-the-potentates",
   esoSetId: 128,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["weapon:*", "jewelry:*"],
   bonuses: "jsonl",
   icons: "jsonl",

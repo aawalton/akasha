@@ -7,7 +7,7 @@ export const strengthOfTheAutomaton = {
   title: "Strength of the Automaton",
   key: "strength-of-the-automaton",
   esoSetId: 301,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

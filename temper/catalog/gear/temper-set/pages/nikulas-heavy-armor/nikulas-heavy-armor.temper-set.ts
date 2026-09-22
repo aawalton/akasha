@@ -7,7 +7,7 @@ export const nikulasHeavyArmor = {
   title: "Nikulas' Heavy Armor",
   key: "nikulas-heavy-armor",
   esoSetId: 72,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

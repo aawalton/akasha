@@ -7,7 +7,7 @@ export const telvanniEfficiency = {
   title: "Telvanni Efficiency",
   key: "telvanni-efficiency",
   esoSetId: 696,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

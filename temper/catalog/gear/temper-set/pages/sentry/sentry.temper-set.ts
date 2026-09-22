@@ -7,7 +7,7 @@ export const sentry = {
   title: "Sentry",
   key: "sentry",
   esoSetId: 89,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

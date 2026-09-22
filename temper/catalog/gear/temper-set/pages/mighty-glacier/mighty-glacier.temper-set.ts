@@ -7,7 +7,7 @@ export const mightyGlacier = {
   title: "Mighty Glacier",
   key: "mighty-glacier",
   esoSetId: 429,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

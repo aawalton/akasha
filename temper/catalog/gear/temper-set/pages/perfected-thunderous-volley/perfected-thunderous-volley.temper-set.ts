@@ -7,7 +7,7 @@ export const perfectedThunderousVolley = {
   title: "Perfected Thunderous Volley",
   key: "perfected-thunderous-volley",
   esoSetId: 525,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["bow"],
   bonuses: "jsonl",
   icons: "jsonl",

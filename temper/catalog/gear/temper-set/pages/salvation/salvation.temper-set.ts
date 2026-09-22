@@ -7,7 +7,7 @@ export const salvation = {
   title: "Salvation",
   key: "salvation",
   esoSetId: 99,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

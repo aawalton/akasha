@@ -7,7 +7,7 @@ export const tharrikersStrike = {
   title: "Tharriker's Strike",
   key: "tharrikers-strike",
   esoSetId: 763,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

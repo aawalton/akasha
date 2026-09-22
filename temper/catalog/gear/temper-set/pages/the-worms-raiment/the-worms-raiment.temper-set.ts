@@ -7,7 +7,7 @@ export const theWormsRaiment = {
   title: "The Worm's Raiment",
   key: "the-worms-raiment",
   esoSetId: 124,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const gryphonsReprisal = {
   title: "Gryphon's Reprisal",
   key: "gryphons-reprisal",
   esoSetId: 620,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

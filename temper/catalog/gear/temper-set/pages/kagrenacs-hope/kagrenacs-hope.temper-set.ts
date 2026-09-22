@@ -7,7 +7,7 @@ export const kagrenacsHope = {
   title: "Kagrenac's Hope",
   key: "kagrenacs-hope",
   esoSetId: 92,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

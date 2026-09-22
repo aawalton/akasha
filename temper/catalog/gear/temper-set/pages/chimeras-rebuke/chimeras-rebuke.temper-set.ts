@@ -7,7 +7,7 @@ export const chimerasRebuke = {
   title: "Chimera's Rebuke",
   key: "chimeras-rebuke",
   esoSetId: 677,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

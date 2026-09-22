@@ -7,7 +7,7 @@ export const orgnumsScales = {
   title: "Orgnum's Scales",
   key: "orgnums-scales",
   esoSetId: 84,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

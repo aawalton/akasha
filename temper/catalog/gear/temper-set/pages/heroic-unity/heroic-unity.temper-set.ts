@@ -7,7 +7,7 @@ export const heroicUnity = {
   title: "Heroic Unity",
   key: "heroic-unity",
   esoSetId: 798,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const knightSlayer = {
   title: "Knight Slayer",
   key: "knight-slayer",
   esoSetId: 328,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const lightOfCyrodiil = {
   title: "Light of Cyrodiil",
   key: "light-of-cyrodiil",
   esoSetId: 109,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

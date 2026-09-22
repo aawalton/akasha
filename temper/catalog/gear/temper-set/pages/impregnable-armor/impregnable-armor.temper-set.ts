@@ -7,7 +7,7 @@ export const impregnableArmor = {
   title: "Impregnable Armor",
   key: "impregnable-armor",
   esoSetId: 334,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

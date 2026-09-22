@@ -7,7 +7,7 @@ export const blackRose = {
   title: "Black Rose",
   key: "black-rose",
   esoSetId: 179,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

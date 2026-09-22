@@ -7,7 +7,7 @@ export const newMoonAcolyte = {
   title: "New Moon Acolyte",
   key: "new-moon-acolyte",
   esoSetId: 470,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

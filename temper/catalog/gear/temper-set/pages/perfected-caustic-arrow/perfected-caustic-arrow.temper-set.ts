@@ -7,7 +7,7 @@ export const perfectedCausticArrow = {
   title: "Perfected Caustic Arrow",
   key: "perfected-caustic-arrow",
   esoSetId: 531,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["bow"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const quickSerpent = {
   title: "Quick Serpent",
   key: "quick-serpent",
   esoSetId: 142,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

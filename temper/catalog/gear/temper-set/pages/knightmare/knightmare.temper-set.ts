@@ -7,7 +7,7 @@ export const knightmare = {
   title: "Knightmare",
   key: "knightmare",
   esoSetId: 35,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const draugrHulk = {
   title: "Draugr Hulk",
   key: "draugr-hulk",
   esoSetId: 307,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

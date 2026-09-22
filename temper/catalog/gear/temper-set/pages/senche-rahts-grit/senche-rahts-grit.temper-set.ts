@@ -7,7 +7,7 @@ export const sencheRahtsGrit = {
   title: "Senche-raht's Grit",
   key: "senche-rahts-grit",
   esoSetId: 438,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

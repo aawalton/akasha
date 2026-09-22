@@ -7,7 +7,7 @@ export const nightsSilence = {
   title: "Night's Silence",
   key: "nights-silence",
   esoSetId: 40,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

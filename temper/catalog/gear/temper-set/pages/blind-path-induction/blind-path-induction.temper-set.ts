@@ -7,7 +7,7 @@ export const blindPathInduction = {
   title: "Blind Path Induction",
   key: "blind-path-induction",
   esoSetId: 735,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

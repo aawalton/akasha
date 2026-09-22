@@ -7,7 +7,7 @@ export const coupDeGrCe = {
   title: "Coup De GrÃ¢ce",
   key: "coup-de-gr-ce",
   esoSetId: 831,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const grundwulf = {
   title: "Grundwulf",
   key: "grundwulf",
   esoSetId: 458,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

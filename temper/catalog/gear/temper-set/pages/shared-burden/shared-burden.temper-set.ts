@@ -7,7 +7,7 @@ export const sharedBurden = {
   title: "Shared Burden",
   key: "shared-burden",
   esoSetId: 808,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

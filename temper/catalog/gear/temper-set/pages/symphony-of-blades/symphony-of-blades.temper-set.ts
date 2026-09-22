@@ -7,7 +7,7 @@ export const symphonyOfBlades = {
   title: "Symphony of Blades",
   key: "symphony-of-blades",
   esoSetId: 436,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

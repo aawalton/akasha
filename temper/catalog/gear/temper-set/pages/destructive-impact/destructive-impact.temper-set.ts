@@ -7,7 +7,7 @@ export const destructiveImpact = {
   title: "Destructive Impact",
   key: "destructive-impact",
   esoSetId: 317,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["inferno-staff", "ice-staff", "lightning-staff"],
   bonuses: "jsonl",
   icons: "jsonl",

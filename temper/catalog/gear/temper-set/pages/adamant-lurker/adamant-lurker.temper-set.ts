@@ -7,7 +7,7 @@ export const adamantLurker = {
   title: "Adamant Lurker",
   key: "adamant-lurker",
   esoSetId: 700,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const sellistrix = {
   title: "Sellistrix",
   key: "sellistrix",
   esoSetId: 271,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

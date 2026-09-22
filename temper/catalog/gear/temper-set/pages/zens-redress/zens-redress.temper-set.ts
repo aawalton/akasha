@@ -7,7 +7,7 @@ export const zensRedress = {
   title: "Z'en's Redress",
   key: "zens-redress",
   esoSetId: 455,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

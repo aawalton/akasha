@@ -7,7 +7,7 @@ export const twilightsEmbrace = {
   title: "Twilight's Embrace",
   key: "twilights-embrace",
   esoSetId: 38,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

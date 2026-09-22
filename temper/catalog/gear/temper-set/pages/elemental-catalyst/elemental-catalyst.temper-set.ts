@@ -7,7 +7,7 @@ export const elementalCatalyst = {
   title: "Elemental Catalyst",
   key: "elemental-catalyst",
   esoSetId: 516,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

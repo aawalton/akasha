@@ -7,7 +7,7 @@ export const scavengingDemise = {
   title: "Scavenging Demise",
   key: "scavenging-demise",
   esoSetId: 434,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

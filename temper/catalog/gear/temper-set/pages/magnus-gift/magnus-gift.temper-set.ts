@@ -7,7 +7,7 @@ export const magnusGift = {
   title: "Magnus' Gift",
   key: "magnus-gift",
   esoSetId: 48,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

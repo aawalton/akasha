@@ -7,7 +7,7 @@ export const thrassianStranglers = {
   title: "Thrassian Stranglers",
   key: "thrassian-stranglers",
   esoSetId: 501,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["hands:light"],
   bonuses: "jsonl",
   icons: "jsonl",

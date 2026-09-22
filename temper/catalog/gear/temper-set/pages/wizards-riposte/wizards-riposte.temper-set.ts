@@ -7,7 +7,7 @@ export const wizardsRiposte = {
   title: "Wizard's Riposte",
   key: "wizards-riposte",
   esoSetId: 329,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

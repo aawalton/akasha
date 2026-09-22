@@ -7,7 +7,7 @@ export const engineGuardian = {
   title: "Engine Guardian",
   key: "engine-guardian",
   esoSetId: 166,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

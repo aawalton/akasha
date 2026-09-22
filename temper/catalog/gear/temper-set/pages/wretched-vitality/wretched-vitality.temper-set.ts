@@ -7,7 +7,7 @@ export const wretchedVitality = {
   title: "Wretched Vitality",
   key: "wretched-vitality",
   esoSetId: 610,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

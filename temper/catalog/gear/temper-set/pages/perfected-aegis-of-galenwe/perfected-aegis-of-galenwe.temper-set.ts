@@ -7,7 +7,7 @@ export const perfectedAegisOfGalenwe = {
   title: "Perfected Aegis of Galenwe",
   key: "perfected-aegis-of-galenwe",
   esoSetId: 392,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

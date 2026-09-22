@@ -7,7 +7,7 @@ export const kargaeda = {
   title: "Kargaeda",
   key: "kargaeda",
   esoSetId: 632,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

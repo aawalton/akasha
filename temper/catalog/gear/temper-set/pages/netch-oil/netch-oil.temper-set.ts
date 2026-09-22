@@ -7,7 +7,7 @@ export const netchOil = {
   title: "Netch Oil",
   key: "netch-oil",
   esoSetId: 793,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

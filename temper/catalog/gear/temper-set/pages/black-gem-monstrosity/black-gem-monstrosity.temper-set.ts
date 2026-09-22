@@ -7,7 +7,7 @@ export const blackGemMonstrosity = {
   title: "Black Gem Monstrosity",
   key: "black-gem-monstrosity",
   esoSetId: 828,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

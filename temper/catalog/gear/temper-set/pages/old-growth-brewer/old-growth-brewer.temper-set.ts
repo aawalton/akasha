@@ -7,7 +7,7 @@ export const oldGrowthBrewer = {
   title: "Old Growth Brewer",
   key: "old-growth-brewer",
   esoSetId: 678,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

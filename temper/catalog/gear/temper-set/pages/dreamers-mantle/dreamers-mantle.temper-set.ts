@@ -7,7 +7,7 @@ export const dreamersMantle = {
   title: "Dreamer's Mantle",
   key: "dreamers-mantle",
   esoSetId: 22,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

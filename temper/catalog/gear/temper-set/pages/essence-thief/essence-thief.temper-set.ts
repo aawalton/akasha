@@ -7,7 +7,7 @@ export const essenceThief = {
   title: "Essence Thief",
   key: "essence-thief",
   esoSetId: 198,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

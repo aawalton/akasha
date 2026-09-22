@@ -7,7 +7,7 @@ export const dragonguardElite = {
   title: "Dragonguard Elite",
   key: "dragonguard-elite",
   esoSetId: 467,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const sliversOfTheNullArca = {
   title: "Slivers of the Null Arca",
   key: "slivers-of-the-null-arca",
   esoSetId: 767,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

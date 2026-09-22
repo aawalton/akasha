@@ -7,7 +7,7 @@ export const dagonsDominion = {
   title: "Dagon's Dominion",
   key: "dagons-dominion",
   esoSetId: 573,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

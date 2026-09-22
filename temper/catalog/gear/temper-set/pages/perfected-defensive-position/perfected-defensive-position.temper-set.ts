@@ -7,7 +7,7 @@ export const perfectedDefensivePosition = {
   title: "Perfected Defensive Position",
   key: "perfected-defensive-position",
   esoSetId: 358,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["sword", "axe", "mace", "dagger", "shield"],
   bonuses: "jsonl",
   icons: "jsonl",

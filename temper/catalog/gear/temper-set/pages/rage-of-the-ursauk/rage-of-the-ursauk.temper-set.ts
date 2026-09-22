@@ -7,7 +7,7 @@ export const rageOfTheUrsauk = {
   title: "Rage of the Ursauk",
   key: "rage-of-the-ursauk",
   esoSetId: 662,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

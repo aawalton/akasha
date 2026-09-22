@@ -7,7 +7,7 @@ export const wrathsun = {
   title: "Wrathsun",
   key: "wrathsun",
   esoSetId: 728,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/templar",
   bonuses: "jsonl",

@@ -7,7 +7,7 @@ export const ansuulsTorment = {
   title: "Ansuul's Torment",
   key: "ansuuls-torment",
   esoSetId: 702,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

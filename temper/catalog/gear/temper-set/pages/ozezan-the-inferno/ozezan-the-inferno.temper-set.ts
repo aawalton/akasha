@@ -7,7 +7,7 @@ export const ozezanTheInferno = {
   title: "Ozezan the Inferno",
   key: "ozezan-the-inferno",
   esoSetId: 687,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

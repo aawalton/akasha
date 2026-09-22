@@ -7,7 +7,7 @@ export const soulcleaver = {
   title: "Soulcleaver",
   key: "soulcleaver",
   esoSetId: 726,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/nightblade",
   bonuses: "jsonl",

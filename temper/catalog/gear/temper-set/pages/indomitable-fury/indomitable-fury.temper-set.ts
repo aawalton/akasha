@@ -7,7 +7,7 @@ export const indomitableFury = {
   title: "Indomitable Fury",
   key: "indomitable-fury",
   esoSetId: 417,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

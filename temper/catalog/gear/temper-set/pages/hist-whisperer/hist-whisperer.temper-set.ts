@@ -7,7 +7,7 @@ export const histWhisperer = {
   title: "Hist Whisperer",
   key: "hist-whisperer",
   esoSetId: 582,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

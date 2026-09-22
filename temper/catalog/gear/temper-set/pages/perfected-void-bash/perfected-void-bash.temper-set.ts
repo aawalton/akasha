@@ -7,7 +7,7 @@ export const perfectedVoidBash = {
   title: "Perfected Void Bash",
   key: "perfected-void-bash",
   esoSetId: 564,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger", "shield"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const serpentsDisdain = {
   title: "Serpent's Disdain",
   key: "serpents-disdain",
   esoSetId: 641,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

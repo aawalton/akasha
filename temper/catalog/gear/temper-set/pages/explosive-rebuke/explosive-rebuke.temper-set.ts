@@ -7,7 +7,7 @@ export const explosiveRebuke = {
   title: "Explosive Rebuke",
   key: "explosive-rebuke",
   esoSetId: 544,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

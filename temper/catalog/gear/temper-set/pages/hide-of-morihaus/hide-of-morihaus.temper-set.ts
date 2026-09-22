@@ -7,7 +7,7 @@ export const hideOfMorihaus = {
   title: "Hide of Morihaus",
   key: "hide-of-morihaus",
   esoSetId: 243,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const huntLeader = {
   title: "Hunt Leader",
   key: "hunt-leader",
   esoSetId: 216,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

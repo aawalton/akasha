@@ -7,7 +7,7 @@ export const amberPlasm = {
   title: "Amber Plasm",
   key: "amber-plasm",
   esoSetId: 258,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

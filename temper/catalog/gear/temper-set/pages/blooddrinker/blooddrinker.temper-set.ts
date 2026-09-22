@@ -7,7 +7,7 @@ export const blooddrinker = {
   title: "Blooddrinker",
   key: "blooddrinker",
   esoSetId: 339,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

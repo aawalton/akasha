@@ -7,7 +7,7 @@ export const maligaligsMaelstrom = {
   title: "Maligalig's Maelstrom",
   key: "maligaligs-maelstrom",
   esoSetId: 619,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

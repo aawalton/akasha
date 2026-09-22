@@ -7,7 +7,7 @@ export const crusader = {
   title: "Crusader",
   key: "crusader",
   esoSetId: 77,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

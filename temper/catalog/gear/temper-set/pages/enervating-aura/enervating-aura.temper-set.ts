@@ -7,7 +7,7 @@ export const enervatingAura = {
   title: "Enervating Aura",
   key: "enervating-aura",
   esoSetId: 631,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

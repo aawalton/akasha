@@ -7,7 +7,7 @@ export const flameBlossom = {
   title: "Flame Blossom",
   key: "flame-blossom",
   esoSetId: 338,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

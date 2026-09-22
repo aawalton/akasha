@@ -7,7 +7,7 @@ export const graveGuardian = {
   title: "Grave Guardian",
   key: "grave-guardian",
   esoSetId: 476,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

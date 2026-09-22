@@ -7,7 +7,7 @@ export const masterArchitect = {
   title: "Master Architect",
   key: "master-architect",
   esoSetId: 332,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

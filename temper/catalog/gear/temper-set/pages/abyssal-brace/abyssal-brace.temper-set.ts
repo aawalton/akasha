@@ -7,7 +7,7 @@ export const abyssalBrace = {
   title: "Abyssal Brace",
   key: "abyssal-brace",
   esoSetId: 686,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

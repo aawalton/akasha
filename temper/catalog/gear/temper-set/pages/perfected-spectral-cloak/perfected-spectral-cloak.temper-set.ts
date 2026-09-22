@@ -7,7 +7,7 @@ export const perfectedSpectralCloak = {
   title: "Perfected Spectral Cloak",
   key: "perfected-spectral-cloak",
   esoSetId: 425,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger"],
   bonuses: "jsonl",
   icons: "jsonl",

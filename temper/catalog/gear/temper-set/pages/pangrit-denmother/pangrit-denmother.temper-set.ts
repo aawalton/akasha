@@ -7,7 +7,7 @@ export const pangritDenmother = {
   title: "Pangrit Denmother",
   key: "pangrit-denmother",
   esoSetId: 663,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

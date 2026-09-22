@@ -7,7 +7,7 @@ export const swampRaider = {
   title: "Swamp Raider",
   key: "swamp-raider",
   esoSetId: 187,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

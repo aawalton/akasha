@@ -7,7 +7,7 @@ export const viciousSerpent = {
   title: "Vicious Serpent",
   key: "vicious-serpent",
   esoSetId: 173,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

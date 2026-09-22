@@ -7,7 +7,7 @@ export const shapeshiftersChain = {
   title: "Shapeshifter's Chain",
   key: "shapeshifters-chain",
   esoSetId: 597,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["necklace"],
   bonuses: "jsonl",
   icons: "jsonl",

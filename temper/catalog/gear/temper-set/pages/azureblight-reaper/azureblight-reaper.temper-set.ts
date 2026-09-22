@@ -7,7 +7,7 @@ export const azureblightReaper = {
   title: "Azureblight Reaper",
   key: "azureblight-reaper",
   esoSetId: 456,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

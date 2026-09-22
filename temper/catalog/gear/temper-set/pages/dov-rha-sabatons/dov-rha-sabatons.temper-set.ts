@@ -7,7 +7,7 @@ export const dovRhaSabatons = {
   title: "Dov-rha Sabatons",
   key: "dov-rha-sabatons",
   esoSetId: 655,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["feet:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

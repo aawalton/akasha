@@ -7,7 +7,7 @@ export const perfectedCoralRiptide = {
   title: "Perfected Coral Riptide",
   key: "perfected-coral-riptide",
   esoSetId: 652,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

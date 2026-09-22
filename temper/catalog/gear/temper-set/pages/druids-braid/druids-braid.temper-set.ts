@@ -7,7 +7,7 @@ export const druidsBraid = {
   title: "Druid's Braid",
   key: "druids-braid",
   esoSetId: 642,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

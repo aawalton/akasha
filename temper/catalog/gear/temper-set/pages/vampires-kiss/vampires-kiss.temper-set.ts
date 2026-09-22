@@ -7,7 +7,7 @@ export const vampiresKiss = {
   title: "Vampire's Kiss",
   key: "vampires-kiss",
   esoSetId: 44,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

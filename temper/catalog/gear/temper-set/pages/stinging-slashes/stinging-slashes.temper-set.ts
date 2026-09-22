@@ -7,7 +7,7 @@ export const stingingSlashes = {
   title: "Stinging Slashes",
   key: "stinging-slashes",
   esoSetId: 315,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger"],
   bonuses: "jsonl",
   icons: "jsonl",

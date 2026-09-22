@@ -7,7 +7,7 @@ export const shieldOfTheValiant = {
   title: "Shield of the Valiant",
   key: "shield-of-the-valiant",
   esoSetId: 132,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

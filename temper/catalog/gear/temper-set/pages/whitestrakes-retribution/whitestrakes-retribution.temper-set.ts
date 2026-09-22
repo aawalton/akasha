@@ -7,7 +7,7 @@ export const whitestrakesRetribution = {
   title: "Whitestrake's Retribution",
   key: "whitestrakes-retribution",
   esoSetId: 41,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

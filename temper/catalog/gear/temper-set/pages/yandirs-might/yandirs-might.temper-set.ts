@@ -7,7 +7,7 @@ export const yandirsMight = {
   title: "Yandir's Might",
   key: "yandirs-might",
   esoSetId: 498,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

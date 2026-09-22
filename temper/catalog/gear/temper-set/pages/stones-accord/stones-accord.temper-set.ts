@@ -7,7 +7,7 @@ export const stonesAccord = {
   title: "Stone's Accord",
   key: "stones-accord",
   esoSetId: 661,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

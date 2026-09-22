@@ -7,7 +7,7 @@ export const seventhLegionBrute = {
   title: "Seventh Legion Brute",
   key: "seventh-legion-brute",
   esoSetId: 70,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

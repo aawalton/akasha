@@ -7,7 +7,7 @@ export const blackGloveGrounding = {
   title: "Black-Glove Grounding",
   key: "black-glove-grounding",
   esoSetId: 732,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

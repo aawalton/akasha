@@ -7,7 +7,7 @@ export const pillagersProfit = {
   title: "Pillager's Profit",
   key: "pillagers-profit",
   esoSetId: 649,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

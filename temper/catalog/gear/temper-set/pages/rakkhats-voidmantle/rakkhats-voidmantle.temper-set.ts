@@ -7,7 +7,7 @@ export const rakkhatsVoidmantle = {
   title: "Rakkhat's Voidmantle",
   key: "rakkhats-voidmantle",
   esoSetId: 812,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["shoulders:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

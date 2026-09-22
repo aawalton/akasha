@@ -7,7 +7,7 @@ export const ravager = {
   title: "Ravager",
   key: "ravager",
   esoSetId: 108,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

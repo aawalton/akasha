@@ -7,7 +7,7 @@ export const stonehulkDomination = {
   title: "Stonehulk Domination",
   key: "stonehulk-domination",
   esoSetId: 827,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

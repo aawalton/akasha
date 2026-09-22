@@ -7,7 +7,7 @@ export const scathingMage = {
   title: "Scathing Mage",
   key: "scathing-mage",
   esoSetId: 190,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

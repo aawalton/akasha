@@ -7,7 +7,7 @@ export const hawksEye = {
   title: "Hawk's Eye",
   key: "hawks-eye",
   esoSetId: 100,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

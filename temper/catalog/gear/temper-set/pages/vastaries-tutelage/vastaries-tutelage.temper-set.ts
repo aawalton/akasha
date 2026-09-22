@@ -7,7 +7,7 @@ export const vastariesTutelage = {
   title: "Vastarie's Tutelage",
   key: "vastaries-tutelage",
   esoSetId: 439,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

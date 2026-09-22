@@ -7,7 +7,7 @@ export const bastionOfTheHeartland = {
   title: "Bastion of the Heartland",
   key: "bastion-of-the-heartland",
   esoSetId: 131,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

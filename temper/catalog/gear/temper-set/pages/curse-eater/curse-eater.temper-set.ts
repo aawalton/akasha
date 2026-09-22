@@ -7,7 +7,7 @@ export const curseEater = {
   title: "Curse Eater",
   key: "curse-eater",
   esoSetId: 104,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

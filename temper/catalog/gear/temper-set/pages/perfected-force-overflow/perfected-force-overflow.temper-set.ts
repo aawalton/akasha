@@ -7,7 +7,7 @@ export const perfectedForceOverflow = {
   title: "Perfected Force Overflow",
   key: "perfected-force-overflow",
   esoSetId: 568,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["restoration-staff"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const mercilessCharge = {
   title: "Merciless Charge",
   key: "merciless-charge",
   esoSetId: 369,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["greatsword", "battleaxe", "maul"],
   bonuses: "jsonl",
   icons: "jsonl",

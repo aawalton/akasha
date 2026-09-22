@@ -7,7 +7,7 @@ export const warMachine = {
   title: "War Machine",
   key: "war-machine",
   esoSetId: 331,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const armorOfTheTrainee = {
   title: "Armor of the Trainee",
   key: "armor-of-the-trainee",
   esoSetId: 281,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

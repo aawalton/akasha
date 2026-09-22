@@ -7,7 +7,7 @@ export const forceOverflow = {
   title: "Force Overflow",
   key: "force-overflow",
   esoSetId: 562,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["restoration-staff"],
   bonuses: "jsonl",
   icons: "jsonl",

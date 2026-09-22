@@ -7,7 +7,7 @@ export const anthelmirsConstruct = {
   title: "Anthelmir's Construct",
   key: "anthelmirs-construct",
   esoSetId: 734,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

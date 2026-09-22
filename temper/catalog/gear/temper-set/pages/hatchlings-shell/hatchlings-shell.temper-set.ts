@@ -7,7 +7,7 @@ export const hatchlingsShell = {
   title: "Hatchling's Shell",
   key: "hatchlings-shell",
   esoSetId: 62,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

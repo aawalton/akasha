@@ -7,7 +7,7 @@ export const hewAndSunder = {
   title: "Hew and Sunder",
   key: "hew-and-sunder",
   esoSetId: 630,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

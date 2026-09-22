@@ -7,7 +7,7 @@ export const prophets = {
   title: "Prophet's",
   key: "prophets",
   esoSetId: 380,
-  subcategoryId: "other",
+  category: "temper-set-category/other",
   valid: [
     "axe",
     "dagger",

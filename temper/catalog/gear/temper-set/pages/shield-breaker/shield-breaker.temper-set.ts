@@ -7,7 +7,7 @@ export const shieldBreaker = {
   title: "Shield Breaker",
   key: "shield-breaker",
   esoSetId: 199,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

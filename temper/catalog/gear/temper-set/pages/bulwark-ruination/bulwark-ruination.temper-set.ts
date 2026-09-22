@@ -7,7 +7,7 @@ export const bulwarkRuination = {
   title: "Bulwark Ruination",
   key: "bulwark-ruination",
   esoSetId: 791,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

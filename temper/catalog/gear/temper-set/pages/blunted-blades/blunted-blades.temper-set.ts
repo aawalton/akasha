@@ -7,7 +7,7 @@ export const bluntedBlades = {
   title: "Blunted Blades",
   key: "blunted-blades",
   esoSetId: 755,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const robesOfTheHist = {
   title: "Robes of the Hist",
   key: "robes-of-the-hist",
   esoSetId: 66,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

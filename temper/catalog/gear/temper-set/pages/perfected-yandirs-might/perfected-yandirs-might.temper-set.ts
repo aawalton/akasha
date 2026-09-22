@@ -7,7 +7,7 @@ export const perfectedYandirsMight = {
   title: "Perfected Yandir's Might",
   key: "perfected-yandirs-might",
   esoSetId: 499,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const armsOfRelequen = {
   title: "Arms of Relequen",
   key: "arms-of-relequen",
   esoSetId: 389,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

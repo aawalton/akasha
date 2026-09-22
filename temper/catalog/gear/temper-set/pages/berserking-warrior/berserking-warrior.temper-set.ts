@@ -7,7 +7,7 @@ export const berserkingWarrior = {
   title: "Berserking Warrior",
   key: "berserking-warrior",
   esoSetId: 137,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const histBark = {
   title: "Hist Bark",
   key: "hist-bark",
   esoSetId: 78,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

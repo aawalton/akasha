@@ -7,7 +7,7 @@ export const deeprootZeal = {
   title: "Deeproot Zeal",
   key: "deeproot-zeal",
   esoSetId: 660,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

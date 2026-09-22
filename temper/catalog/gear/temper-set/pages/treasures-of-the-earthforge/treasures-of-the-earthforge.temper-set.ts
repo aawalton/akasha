@@ -7,7 +7,7 @@ export const treasuresOfTheEarthforge = {
   title: "Treasures of the Earthforge",
   key: "treasures-of-the-earthforge",
   esoSetId: 118,
-  subcategoryId: "other",
+  category: "temper-set-category/other",
   valid: ["maul", "ring"],
   bonuses: "jsonl",
   icons: "jsonl",

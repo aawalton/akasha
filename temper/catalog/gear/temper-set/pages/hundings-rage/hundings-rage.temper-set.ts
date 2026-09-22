@@ -7,7 +7,7 @@ export const hundingsRage = {
   title: "Hunding's Rage",
   key: "hundings-rage",
   esoSetId: 80,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

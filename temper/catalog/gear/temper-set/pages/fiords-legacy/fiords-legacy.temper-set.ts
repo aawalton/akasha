@@ -7,7 +7,7 @@ export const fiordsLegacy = {
   title: "Fiord's Legacy",
   key: "fiords-legacy",
   esoSetId: 27,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const bastionOfTheDraoife = {
   title: "Bastion of the Draoife",
   key: "bastion-of-the-draoife",
   esoSetId: 673,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

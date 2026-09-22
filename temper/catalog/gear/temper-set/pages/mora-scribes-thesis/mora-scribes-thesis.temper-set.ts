@@ -7,7 +7,7 @@ export const moraScribesThesis = {
   title: "Mora Scribe's Thesis",
   key: "mora-scribes-thesis",
   esoSetId: 766,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

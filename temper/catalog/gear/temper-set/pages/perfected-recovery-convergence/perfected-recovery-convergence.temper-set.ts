@@ -7,7 +7,7 @@ export const perfectedRecoveryConvergence = {
   title: "Perfected Recovery Convergence",
   key: "perfected-recovery-convergence",
   esoSetId: 818,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

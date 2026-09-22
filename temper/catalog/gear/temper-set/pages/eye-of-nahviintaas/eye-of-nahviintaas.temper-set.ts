@@ -7,7 +7,7 @@ export const eyeOfNahviintaas = {
   title: "Eye of Nahviintaas",
   key: "eye-of-nahviintaas",
   esoSetId: 443,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

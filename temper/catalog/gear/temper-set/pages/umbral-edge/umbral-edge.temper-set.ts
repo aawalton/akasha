@@ -7,7 +7,7 @@ export const umbralEdge = {
   title: "Umbral Edge",
   key: "umbral-edge",
   esoSetId: 778,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/nightblade",
   bonuses: "jsonl",

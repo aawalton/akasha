@@ -7,7 +7,7 @@ export const telvanniEnforcer = {
   title: "Telvanni Enforcer",
   key: "telvanni-enforcer",
   esoSetId: 682,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

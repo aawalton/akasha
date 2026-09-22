@@ -7,7 +7,7 @@ export const medusa = {
   title: "Medusa",
   key: "medusa",
   esoSetId: 304,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

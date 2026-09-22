@@ -7,7 +7,7 @@ export const beekeepersGear = {
   title: "Beekeeper's Gear",
   key: "beekeepers-gear",
   esoSetId: 288,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

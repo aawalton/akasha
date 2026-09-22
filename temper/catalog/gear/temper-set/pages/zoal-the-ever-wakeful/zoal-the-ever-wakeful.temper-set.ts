@@ -7,7 +7,7 @@ export const zoalTheEverWakeful = {
   title: "Zoal the Ever-Wakeful",
   key: "zoal-the-ever-wakeful",
   esoSetId: 598,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

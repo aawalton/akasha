@@ -7,7 +7,7 @@ export const shadowWalker = {
   title: "Shadow Walker",
   key: "shadow-walker",
   esoSetId: 67,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

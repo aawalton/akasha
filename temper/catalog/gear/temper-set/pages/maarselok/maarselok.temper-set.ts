@@ -7,7 +7,7 @@ export const maarselok = {
   title: "Maarselok",
   key: "maarselok",
   esoSetId: 459,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

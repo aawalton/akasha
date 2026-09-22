@@ -7,7 +7,7 @@ export const nightMothersEmbrace = {
   title: "Night Mother's Embrace",
   key: "night-mothers-embrace",
   esoSetId: 34,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

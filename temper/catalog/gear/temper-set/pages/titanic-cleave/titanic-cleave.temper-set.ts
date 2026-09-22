@@ -7,7 +7,7 @@ export const titanicCleave = {
   title: "Titanic Cleave",
   key: "titanic-cleave",
   esoSetId: 313,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["greatsword", "battleaxe", "maul"],
   bonuses: "jsonl",
   icons: "jsonl",

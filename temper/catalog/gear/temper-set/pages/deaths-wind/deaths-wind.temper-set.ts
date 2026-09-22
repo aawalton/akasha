@@ -7,7 +7,7 @@ export const deathsWind = {
   title: "Death's Wind",
   key: "deaths-wind",
   esoSetId: 37,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

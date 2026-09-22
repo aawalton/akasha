@@ -7,7 +7,7 @@ export const snowTreaders = {
   title: "Snow Treaders",
   key: "snow-treaders",
   esoSetId: 519,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["feet:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

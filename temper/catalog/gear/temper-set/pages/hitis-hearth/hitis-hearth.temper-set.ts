@@ -7,7 +7,7 @@ export const hitisHearth = {
   title: "Hiti's Hearth",
   key: "hitis-hearth",
   esoSetId: 471,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

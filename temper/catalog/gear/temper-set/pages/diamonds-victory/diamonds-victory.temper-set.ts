@@ -7,7 +7,7 @@ export const diamondsVictory = {
   title: "Diamond's Victory",
   key: "diamonds-victory",
   esoSetId: 584,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

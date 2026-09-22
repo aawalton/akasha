@@ -7,7 +7,7 @@ export const bonePiratesTatters = {
   title: "Bone Pirate's Tatters",
   key: "bone-pirates-tatters",
   esoSetId: 308,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const marksmansCrest = {
   title: "Marksman's Crest",
   key: "marksmans-crest",
   esoSetId: 234,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

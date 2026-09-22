@@ -7,7 +7,7 @@ export const monolithOfStorms = {
   title: "Monolith of Storms",
   key: "monolith-of-storms",
   esoSetId: 727,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/sorcerer",
   bonuses: "jsonl",

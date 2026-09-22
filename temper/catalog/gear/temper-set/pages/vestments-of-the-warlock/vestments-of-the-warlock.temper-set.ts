@@ -7,7 +7,7 @@ export const vestmentsOfTheWarlock = {
   title: "Vestments of the Warlock",
   key: "vestments-of-the-warlock",
   esoSetId: 19,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

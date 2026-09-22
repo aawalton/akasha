@@ -7,7 +7,7 @@ export const eyesOfMara = {
   title: "Eyes of Mara",
   key: "eyes-of-mara",
   esoSetId: 87,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

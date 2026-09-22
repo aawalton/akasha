@@ -7,7 +7,7 @@ export const perfectedDisciplinedSlash = {
   title: "Perfected Disciplined Slash",
   key: "perfected-disciplined-slash",
   esoSetId: 357,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["greatsword", "battleaxe", "maul"],
   bonuses: "jsonl",
   icons: "jsonl",

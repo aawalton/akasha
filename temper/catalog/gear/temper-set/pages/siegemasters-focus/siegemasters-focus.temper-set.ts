@@ -7,7 +7,7 @@ export const siegemastersFocus = {
   title: "Siegemaster's Focus",
   key: "siegemasters-focus",
   esoSetId: 784,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

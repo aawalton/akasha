@@ -7,7 +7,7 @@ export const hollowfangThirst = {
   title: "Hollowfang Thirst",
   key: "hollowfang-thirst",
   esoSetId: 452,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

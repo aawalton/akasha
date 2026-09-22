@@ -7,7 +7,7 @@ export const beckoningSteel = {
   title: "Beckoning Steel",
   key: "beckoning-steel",
   esoSetId: 52,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

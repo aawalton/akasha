@@ -7,7 +7,7 @@ export const silksOfTheSun = {
   title: "Silks of the Sun",
   key: "silks-of-the-sun",
   esoSetId: 31,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

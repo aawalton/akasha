@@ -7,7 +7,7 @@ export const hrothgarsChill = {
   title: "Hrothgar's Chill",
   key: "hrothgars-chill",
   esoSetId: 618,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

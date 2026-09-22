@@ -7,7 +7,7 @@ export const imperialPhysique = {
   title: "Imperial Physique",
   key: "imperial-physique",
   esoSetId: 253,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

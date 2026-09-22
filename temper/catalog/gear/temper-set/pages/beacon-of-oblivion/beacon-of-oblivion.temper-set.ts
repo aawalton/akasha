@@ -7,7 +7,7 @@ export const beaconOfOblivion = {
   title: "Beacon of Oblivion",
   key: "beacon-of-oblivion",
   esoSetId: 779,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/sorcerer",
   bonuses: "jsonl",

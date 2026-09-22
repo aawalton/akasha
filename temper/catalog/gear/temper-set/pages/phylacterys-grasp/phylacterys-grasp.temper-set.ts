@@ -7,7 +7,7 @@ export const phylacterysGrasp = {
   title: "Phylactery's Grasp",
   key: "phylacterys-grasp",
   esoSetId: 665,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

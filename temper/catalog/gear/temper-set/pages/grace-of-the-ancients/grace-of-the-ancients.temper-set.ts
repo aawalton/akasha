@@ -7,7 +7,7 @@ export const graceOfTheAncients = {
   title: "Grace of the Ancients",
   key: "grace-of-the-ancients",
   esoSetId: 126,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["weapon:*", "jewelry:*"],
   bonuses: "jsonl",
   icons: "jsonl",

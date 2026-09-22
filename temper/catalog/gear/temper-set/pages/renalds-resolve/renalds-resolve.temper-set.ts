@@ -7,7 +7,7 @@ export const renaldsResolve = {
   title: "Renald's Resolve",
   key: "renalds-resolve",
   esoSetId: 454,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

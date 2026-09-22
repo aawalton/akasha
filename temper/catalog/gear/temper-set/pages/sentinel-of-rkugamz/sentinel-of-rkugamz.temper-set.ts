@@ -7,7 +7,7 @@ export const sentinelOfRkugamz = {
   title: "Sentinel of Rkugamz",
   key: "sentinel-of-rkugamz",
   esoSetId: 268,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

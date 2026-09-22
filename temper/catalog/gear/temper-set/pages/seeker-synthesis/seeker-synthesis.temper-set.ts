@@ -7,7 +7,7 @@ export const seekerSynthesis = {
   title: "Seeker Synthesis",
   key: "seeker-synthesis",
   esoSetId: 697,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

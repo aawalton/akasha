@@ -7,7 +7,7 @@ export const wayOfMartialKnowledge = {
   title: "Way of Martial Knowledge",
   key: "way-of-martial-knowledge",
   esoSetId: 147,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

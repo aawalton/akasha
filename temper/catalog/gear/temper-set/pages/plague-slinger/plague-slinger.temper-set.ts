@@ -7,7 +7,7 @@ export const plagueSlinger = {
   title: "Plague Slinger",
   key: "plague-slinger",
   esoSetId: 347,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

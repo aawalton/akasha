@@ -7,7 +7,7 @@ export const agility = {
   title: "Agility",
   key: "agility",
   esoSetId: 206,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["weapon:*", "jewelry:*"],
   bonuses: "jsonl",
   icons: "jsonl",

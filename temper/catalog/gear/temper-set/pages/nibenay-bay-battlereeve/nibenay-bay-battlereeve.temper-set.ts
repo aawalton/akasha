@@ -7,7 +7,7 @@ export const nibenayBayBattlereeve = {
   title: "Nibenay Bay Battlereeve",
   key: "nibenay-bay-battlereeve",
   esoSetId: 713,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

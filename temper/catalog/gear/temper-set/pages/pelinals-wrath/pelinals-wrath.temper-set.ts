@@ -7,7 +7,7 @@ export const pelinalsWrath = {
   title: "Pelinal's Wrath",
   key: "pelinals-wrath",
   esoSetId: 242,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

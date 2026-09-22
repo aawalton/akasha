@@ -7,7 +7,7 @@ export const perfectedPuncturingRemedy = {
   title: "Perfected Puncturing Remedy",
   key: "perfected-puncturing-remedy",
   esoSetId: 529,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger", "shield"],
   bonuses: "jsonl",
   icons: "jsonl",

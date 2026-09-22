@@ -7,7 +7,7 @@ export const shatteredFate = {
   title: "Shattered Fate",
   key: "shattered-fate",
   esoSetId: 695,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const wintersRespite = {
   title: "Winter's Respite",
   key: "winters-respite",
   esoSetId: 487,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

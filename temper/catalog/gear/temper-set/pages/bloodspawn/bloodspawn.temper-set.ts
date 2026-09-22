@@ -7,7 +7,7 @@ export const bloodspawn = {
   title: "Bloodspawn",
   key: "bloodspawn",
   esoSetId: 163,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

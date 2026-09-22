@@ -7,7 +7,7 @@ export const whorlOfTheDepths = {
   title: "Whorl of the Depths",
   key: "whorl-of-the-depths",
   esoSetId: 646,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

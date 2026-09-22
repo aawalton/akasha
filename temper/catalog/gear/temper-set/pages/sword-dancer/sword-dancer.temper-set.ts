@@ -7,7 +7,7 @@ export const swordDancer = {
   title: "Sword Dancer",
   key: "sword-dancer",
   esoSetId: 310,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const shacklebreaker = {
   title: "Shacklebreaker",
   key: "shacklebreaker",
   esoSetId: 325,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const motherCiannait = {
   title: "Mother Ciannait",
   key: "mother-ciannait",
   esoSetId: 478,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

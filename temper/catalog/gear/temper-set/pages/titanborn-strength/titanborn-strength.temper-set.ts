@@ -7,7 +7,7 @@ export const titanbornStrength = {
   title: "Titanborn Strength",
   key: "titanborn-strength",
   esoSetId: 472,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

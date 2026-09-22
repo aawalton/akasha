@@ -7,7 +7,7 @@ export const bogRaider = {
   title: "Bog Raider",
   key: "bog-raider",
   esoSetId: 581,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

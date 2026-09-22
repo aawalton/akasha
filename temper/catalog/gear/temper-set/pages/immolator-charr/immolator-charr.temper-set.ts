@@ -7,7 +7,7 @@ export const immolatorCharr = {
   title: "Immolator Charr",
   key: "immolator-charr",
   esoSetId: 599,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

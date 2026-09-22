@@ -7,7 +7,7 @@ export const championOfTheHist = {
   title: "Champion of the Hist",
   key: "champion-of-the-hist",
   esoSetId: 407,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

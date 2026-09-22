@@ -7,7 +7,7 @@ export const unleashedTerror = {
   title: "Unleashed Terror",
   key: "unleashed-terror",
   esoSetId: 514,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

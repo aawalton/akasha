@@ -7,7 +7,7 @@ export const jerensisBladestorm = {
   title: "Jerensi's Bladestorm",
   key: "jerensis-bladestorm",
   esoSetId: 795,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

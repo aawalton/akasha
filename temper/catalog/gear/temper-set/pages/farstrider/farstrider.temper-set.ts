@@ -7,7 +7,7 @@ export const farstrider = {
   title: "Farstrider",
   key: "farstrider",
   esoSetId: 792,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

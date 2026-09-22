@@ -7,7 +7,7 @@ export const ladyThorn = {
   title: "Lady Thorn",
   key: "lady-thorn",
   esoSetId: 535,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

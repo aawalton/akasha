@@ -7,7 +7,7 @@ export const undauntedUnweaver = {
   title: "Undaunted Unweaver",
   key: "undaunted-unweaver",
   esoSetId: 157,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const dragonsAppetite = {
   title: "Dragon's Appetite",
   key: "dragons-appetite",
   esoSetId: 491,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const sanctuary = {
   title: "Sanctuary",
   key: "sanctuary",
   esoSetId: 110,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

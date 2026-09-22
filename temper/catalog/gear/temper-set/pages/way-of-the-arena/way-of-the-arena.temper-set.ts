@@ -7,7 +7,7 @@ export const wayOfTheArena = {
   title: "Way of the Arena",
   key: "way-of-the-arena",
   esoSetId: 148,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

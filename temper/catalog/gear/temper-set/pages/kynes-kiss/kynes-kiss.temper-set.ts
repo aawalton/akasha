@@ -7,7 +7,7 @@ export const kynesKiss = {
   title: "Kyne's Kiss",
   key: "kynes-kiss",
   esoSetId: 59,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

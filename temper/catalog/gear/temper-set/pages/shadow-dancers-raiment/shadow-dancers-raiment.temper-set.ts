@@ -7,7 +7,7 @@ export const shadowDancersRaiment = {
   title: "Shadow Dancer's Raiment",
   key: "shadow-dancers-raiment",
   esoSetId: 64,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

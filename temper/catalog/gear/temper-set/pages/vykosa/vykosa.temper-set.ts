@@ -7,7 +7,7 @@ export const vykosa = {
   title: "Vykosa",
   key: "vykosa",
   esoSetId: 398,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

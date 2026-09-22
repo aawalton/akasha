@@ -7,7 +7,7 @@ export const vykandsSoulfury = {
   title: "Vykand's Soulfury",
   key: "vykands-soulfury",
   esoSetId: 823,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

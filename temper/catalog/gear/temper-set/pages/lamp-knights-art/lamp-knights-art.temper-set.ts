@@ -7,7 +7,7 @@ export const lampKnightsArt = {
   title: "Lamp Knight's Art",
   key: "lamp-knights-art",
   esoSetId: 803,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

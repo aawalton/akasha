@@ -7,7 +7,7 @@ export const morasWhispers = {
   title: "Mora's Whispers",
   key: "moras-whispers",
   esoSetId: 654,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["shoulders:light"],
   bonuses: "jsonl",
   icons: "jsonl",

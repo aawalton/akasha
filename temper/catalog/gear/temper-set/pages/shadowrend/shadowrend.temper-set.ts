@@ -7,7 +7,7 @@ export const shadowrend = {
   title: "Shadowrend",
   key: "shadowrend",
   esoSetId: 265,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const darkstride = {
   title: "Darkstride",
   key: "darkstride",
   esoSetId: 60,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

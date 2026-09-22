@@ -7,7 +7,7 @@ export const morkuldin = {
   title: "Morkuldin",
   key: "morkuldin",
   esoSetId: 219,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

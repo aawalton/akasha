@@ -7,7 +7,7 @@ export const vicecanonOfVenom = {
   title: "Vicecanon of Venom",
   key: "vicecanon-of-venom",
   esoSetId: 247,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

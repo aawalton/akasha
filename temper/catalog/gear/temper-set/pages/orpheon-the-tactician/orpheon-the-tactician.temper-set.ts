@@ -7,7 +7,7 @@ export const orpheonTheTactician = {
   title: "Orpheon the Tactician",
   key: "orpheon-the-tactician",
   esoSetId: 801,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

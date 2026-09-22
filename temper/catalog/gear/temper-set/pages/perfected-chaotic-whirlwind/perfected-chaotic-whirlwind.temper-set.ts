@@ -7,7 +7,7 @@ export const perfectedChaoticWhirlwind = {
   title: "Perfected Chaotic Whirlwind",
   key: "perfected-chaotic-whirlwind",
   esoSetId: 359,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["sword", "axe", "mace", "dagger"],
   bonuses: "jsonl",
   icons: "jsonl",

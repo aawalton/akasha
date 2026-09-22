@@ -7,7 +7,7 @@ export const markynRingOfMajesty = {
   title: "Markyn Ring of Majesty",
   key: "markyn-ring-of-majesty",
   esoSetId: 625,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["ring"],
   bonuses: "jsonl",
   icons: "jsonl",

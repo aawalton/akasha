@@ -7,7 +7,7 @@ export const sloadsSemblance = {
   title: "Sload's Semblance",
   key: "sloads-semblance",
   esoSetId: 386,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

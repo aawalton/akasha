@@ -7,7 +7,7 @@ export const sunderflame = {
   title: "Sunderflame",
   key: "sunderflame",
   esoSetId: 159,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

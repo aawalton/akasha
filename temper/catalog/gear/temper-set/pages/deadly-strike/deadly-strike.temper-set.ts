@@ -7,7 +7,7 @@ export const deadlyStrike = {
   title: "Deadly Strike",
   key: "deadly-strike",
   esoSetId: 127,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

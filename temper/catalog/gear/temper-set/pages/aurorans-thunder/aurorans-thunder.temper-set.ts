@@ -7,7 +7,7 @@ export const auroransThunder = {
   title: "Auroran's Thunder",
   key: "aurorans-thunder",
   esoSetId: 435,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

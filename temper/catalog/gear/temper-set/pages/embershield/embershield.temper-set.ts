@@ -7,7 +7,7 @@ export const embershield = {
   title: "Embershield",
   key: "embershield",
   esoSetId: 158,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

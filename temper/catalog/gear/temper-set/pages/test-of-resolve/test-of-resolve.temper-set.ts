@@ -7,7 +7,7 @@ export const testOfResolve = {
   title: "Test of Resolve",
   key: "test-of-resolve",
   esoSetId: 703,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const stormMaster = {
   title: "Storm Master",
   key: "storm-master",
   esoSetId: 188,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

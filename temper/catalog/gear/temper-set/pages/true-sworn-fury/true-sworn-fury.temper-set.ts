@@ -7,7 +7,7 @@ export const trueSwornFury = {
   title: "True-Sworn Fury",
   key: "true-sworn-fury",
   esoSetId: 569,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

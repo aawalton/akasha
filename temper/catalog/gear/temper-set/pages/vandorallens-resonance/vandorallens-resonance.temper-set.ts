@@ -7,7 +7,7 @@ export const vandorallensResonance = {
   title: "Vandorallen's Resonance",
   key: "vandorallens-resonance",
   esoSetId: 794,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const executionersBlade = {
   title: "Executioner's Blade",
   key: "executioners-blade",
   esoSetId: 557,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger"],
   bonuses: "jsonl",
   icons: "jsonl",

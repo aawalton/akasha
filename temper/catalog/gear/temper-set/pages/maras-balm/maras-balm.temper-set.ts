@@ -7,7 +7,7 @@ export const marasBalm = {
   title: "Mara's Balm",
   key: "maras-balm",
   esoSetId: 670,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

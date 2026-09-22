@@ -7,7 +7,7 @@ export const perfectedDolorousArena = {
   title: "Perfected Dolorous Arena",
   key: "perfected-dolorous-arena",
   esoSetId: 819,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

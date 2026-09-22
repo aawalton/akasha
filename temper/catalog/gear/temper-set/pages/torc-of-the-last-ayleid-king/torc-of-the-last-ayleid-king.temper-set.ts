@@ -7,7 +7,7 @@ export const torcOfTheLastAyleidKing = {
   title: "Torc of the Last Ayleid King",
   key: "torc-of-the-last-ayleid-king",
   esoSetId: 693,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["necklace"],
   bonuses: "jsonl",
   icons: "jsonl",

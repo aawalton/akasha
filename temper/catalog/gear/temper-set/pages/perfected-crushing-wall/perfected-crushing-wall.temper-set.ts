@@ -7,7 +7,7 @@ export const perfectedCrushingWall = {
   title: "Perfected Crushing Wall",
   key: "perfected-crushing-wall",
   esoSetId: 526,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["inferno-staff", "ice-staff", "lightning-staff"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const nocturnalsFavor = {
   title: "Nocturnal's Favor",
   key: "nocturnals-favor",
   esoSetId: 387,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const robesOfTransmutation = {
   title: "Robes of Transmutation",
   key: "robes-of-transmutation",
   esoSetId: 235,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

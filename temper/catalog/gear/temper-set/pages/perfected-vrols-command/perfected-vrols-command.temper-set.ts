@@ -7,7 +7,7 @@ export const perfectedVrolsCommand = {
   title: "Perfected Vrol's Command",
   key: "perfected-vrols-command",
   esoSetId: 495,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

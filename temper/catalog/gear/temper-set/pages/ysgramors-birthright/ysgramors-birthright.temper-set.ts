@@ -7,7 +7,7 @@ export const ysgramorsBirthright = {
   title: "Ysgramor's Birthright",
   key: "ysgramors-birthright",
   esoSetId: 294,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

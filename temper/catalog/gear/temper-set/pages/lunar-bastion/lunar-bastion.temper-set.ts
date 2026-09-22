@@ -7,7 +7,7 @@ export const lunarBastion = {
   title: "Lunar Bastion",
   key: "lunar-bastion",
   esoSetId: 231,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

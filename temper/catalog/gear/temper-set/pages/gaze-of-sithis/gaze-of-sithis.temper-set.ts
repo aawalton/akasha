@@ -7,7 +7,7 @@ export const gazeOfSithis = {
   title: "Gaze of Sithis",
   key: "gaze-of-sithis",
   esoSetId: 593,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["head:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

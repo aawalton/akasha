@@ -7,7 +7,7 @@ export const kraglensHowl = {
   title: "Kraglen's Howl",
   key: "kraglens-howl",
   esoSetId: 517,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

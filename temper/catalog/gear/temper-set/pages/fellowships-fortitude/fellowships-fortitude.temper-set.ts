@@ -7,7 +7,7 @@ export const fellowshipsFortitude = {
   title: "Fellowship's Fortitude",
   key: "fellowships-fortitude",
   esoSetId: 810,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

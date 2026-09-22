@@ -7,7 +7,7 @@ export const voidBash = {
   title: "Void Bash",
   key: "void-bash",
   esoSetId: 558,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger", "shield"],
   bonuses: "jsonl",
   icons: "jsonl",

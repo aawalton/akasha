@@ -7,7 +7,7 @@ export const sulXansTorment = {
   title: "Sul-Xan's Torment",
   key: "sul-xans-torment",
   esoSetId: 586,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

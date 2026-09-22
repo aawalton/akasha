@@ -7,7 +7,7 @@ export const foolkillersWard = {
   title: "Foolkiller's Ward",
   key: "foolkillers-ward",
   esoSetId: 574,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

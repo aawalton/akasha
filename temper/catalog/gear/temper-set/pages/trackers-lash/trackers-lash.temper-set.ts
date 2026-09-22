@@ -7,7 +7,7 @@ export const trackersLash = {
   title: "Tracker's Lash",
   key: "trackers-lash",
   esoSetId: 782,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const tormentor = {
   title: "Tormentor",
   key: "tormentor",
   esoSetId: 197,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

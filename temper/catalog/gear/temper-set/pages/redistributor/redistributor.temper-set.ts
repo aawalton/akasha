@@ -7,7 +7,7 @@ export const redistributor = {
   title: "Redistributor",
   key: "redistributor",
   esoSetId: 177,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

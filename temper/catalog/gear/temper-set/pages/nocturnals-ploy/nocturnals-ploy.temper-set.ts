@@ -7,7 +7,7 @@ export const nocturnalsPloy = {
   title: "Nocturnal's Ploy",
   key: "nocturnals-ploy",
   esoSetId: 669,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

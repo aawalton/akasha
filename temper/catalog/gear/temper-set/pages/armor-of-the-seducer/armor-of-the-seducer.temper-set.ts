@@ -7,7 +7,7 @@ export const armorOfTheSeducer = {
   title: "Armor of the Seducer",
   key: "armor-of-the-seducer",
   esoSetId: 43,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

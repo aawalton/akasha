@@ -7,7 +7,7 @@ export const stormCursedsRevenge = {
   title: "Storm-Cursed's Revenge",
   key: "storm-curseds-revenge",
   esoSetId: 623,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

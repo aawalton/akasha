@@ -7,7 +7,7 @@ export const callOfTheUndertaker = {
   title: "Call of the Undertaker",
   key: "call-of-the-undertaker",
   esoSetId: 442,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

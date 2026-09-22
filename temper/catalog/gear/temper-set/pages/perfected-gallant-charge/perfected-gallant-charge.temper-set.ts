@@ -7,7 +7,7 @@ export const perfectedGallantCharge = {
   title: "Perfected Gallant Charge",
   key: "perfected-gallant-charge",
   esoSetId: 423,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger", "shield"],
   bonuses: "jsonl",
   icons: "jsonl",

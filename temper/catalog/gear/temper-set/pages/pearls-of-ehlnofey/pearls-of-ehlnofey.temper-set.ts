@@ -7,7 +7,7 @@ export const pearlsOfEhlnofey = {
   title: "Pearls of Ehlnofey",
   key: "pearls-of-ehlnofey",
   esoSetId: 576,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["necklace"],
   bonuses: "jsonl",
   icons: "jsonl",

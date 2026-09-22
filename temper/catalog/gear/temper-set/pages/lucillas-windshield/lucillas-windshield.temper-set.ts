@@ -7,7 +7,7 @@ export const lucillasWindshield = {
   title: "Lucilla's Windshield",
   key: "lucillas-windshield",
   esoSetId: 796,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

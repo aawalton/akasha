@@ -7,7 +7,7 @@ export const rallyingCry = {
   title: "Rallying Cry",
   key: "rallying-cry",
   esoSetId: 629,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

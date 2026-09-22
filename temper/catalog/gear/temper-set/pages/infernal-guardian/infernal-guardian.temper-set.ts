@@ -7,7 +7,7 @@ export const infernalGuardian = {
   title: "Infernal Guardian",
   key: "infernal-guardian",
   esoSetId: 272,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

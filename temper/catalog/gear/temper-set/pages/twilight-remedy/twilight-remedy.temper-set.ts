@@ -7,7 +7,7 @@ export const twilightRemedy = {
   title: "Twilight Remedy",
   key: "twilight-remedy",
   esoSetId: 229,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

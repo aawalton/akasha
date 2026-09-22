@@ -7,7 +7,7 @@ export const perfectedTransformativeHope = {
   title: "Perfected Transformative Hope",
   key: "perfected-transformative-hope",
   esoSetId: 705,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

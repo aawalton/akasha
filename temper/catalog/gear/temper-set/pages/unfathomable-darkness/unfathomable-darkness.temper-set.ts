@@ -7,7 +7,7 @@ export const unfathomableDarkness = {
   title: "Unfathomable Darkness",
   key: "unfathomable-darkness",
   esoSetId: 355,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

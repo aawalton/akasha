@@ -7,7 +7,7 @@ export const deathDealersFete = {
   title: "Death Dealer's Fete",
   key: "death-dealers-fete",
   esoSetId: 596,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["ring"],
   bonuses: "jsonl",
   icons: "jsonl",

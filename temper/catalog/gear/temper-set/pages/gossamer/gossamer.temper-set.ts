@@ -7,7 +7,7 @@ export const gossamer = {
   title: "Gossamer",
   key: "gossamer",
   esoSetId: 261,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const hircinesVeneer = {
   title: "Hircine's Veneer",
   key: "hircines-veneer",
   esoSetId: 123,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

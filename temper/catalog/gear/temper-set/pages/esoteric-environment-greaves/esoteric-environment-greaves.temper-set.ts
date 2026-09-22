@@ -7,7 +7,7 @@ export const esotericEnvironmentGreaves = {
   title: "Esoteric Environment Greaves",
   key: "esoteric-environment-greaves",
   esoSetId: 692,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["legs:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

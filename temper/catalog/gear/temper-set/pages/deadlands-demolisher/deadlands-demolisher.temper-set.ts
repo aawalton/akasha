@@ -7,7 +7,7 @@ export const deadlandsDemolisher = {
   title: "Deadlands Demolisher",
   key: "deadlands-demolisher",
   esoSetId: 611,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

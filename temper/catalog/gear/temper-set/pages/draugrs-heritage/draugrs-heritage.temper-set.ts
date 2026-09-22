@@ -7,7 +7,7 @@ export const draugrsHeritage = {
   title: "Draugr's Heritage",
   key: "draugrs-heritage",
   esoSetId: 135,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

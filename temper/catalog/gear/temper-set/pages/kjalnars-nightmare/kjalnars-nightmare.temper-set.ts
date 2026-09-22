@@ -7,7 +7,7 @@ export const kjalnarsNightmare = {
   title: "Kjalnar's Nightmare",
   key: "kjalnars-nightmare",
   esoSetId: 479,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

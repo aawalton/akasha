@@ -7,7 +7,7 @@ export const kinrassWrath = {
   title: "Kinras's Wrath",
   key: "kinrass-wrath",
   esoSetId: 570,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

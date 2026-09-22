@@ -7,7 +7,7 @@ export const twiceFangedSerpent = {
   title: "Twice-Fanged Serpent",
   key: "twice-fanged-serpent",
   esoSetId: 144,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

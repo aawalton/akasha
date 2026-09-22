@@ -7,7 +7,7 @@ export const venomousSmite = {
   title: "Venomous Smite",
   key: "venomous-smite",
   esoSetId: 488,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

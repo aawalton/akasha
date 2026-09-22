@@ -7,7 +7,7 @@ export const theArchMage = {
   title: "The Arch-Mage",
   key: "the-arch-mage",
   esoSetId: 97,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

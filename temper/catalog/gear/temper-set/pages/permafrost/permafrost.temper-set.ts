@@ -7,7 +7,7 @@ export const permafrost = {
   title: "Permafrost",
   key: "permafrost",
   esoSetId: 211,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

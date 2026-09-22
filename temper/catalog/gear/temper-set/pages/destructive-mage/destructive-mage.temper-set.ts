@@ -7,7 +7,7 @@ export const destructiveMage = {
   title: "Destructive Mage",
   key: "destructive-mage",
   esoSetId: 140,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

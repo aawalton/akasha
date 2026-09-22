@@ -7,7 +7,7 @@ export const nazaray = {
   title: "Nazaray",
   key: "nazaray",
   esoSetId: 633,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

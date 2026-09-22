@@ -7,7 +7,7 @@ export const twiceBornStar = {
   title: "Twice-Born Star",
   key: "twice-born-star",
   esoSetId: 161,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

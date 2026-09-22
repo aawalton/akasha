@@ -7,7 +7,7 @@ export const shroudOfTheLich = {
   title: "Shroud of the Lich",
   key: "shroud-of-the-lich",
   esoSetId: 134,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

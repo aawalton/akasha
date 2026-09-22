@@ -7,7 +7,7 @@ export const backAlleyGourmand = {
   title: "Back-Alley Gourmand",
   key: "back-alley-gourmand",
   esoSetId: 671,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

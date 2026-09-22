@@ -7,7 +7,7 @@ export const briarheart = {
   title: "Briarheart",
   key: "briarheart",
   esoSetId: 212,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

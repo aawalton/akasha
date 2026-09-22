@@ -7,7 +7,7 @@ export const snakeInTheStars = {
   title: "Snake in the Stars",
   key: "snake-in-the-stars",
   esoSetId: 688,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

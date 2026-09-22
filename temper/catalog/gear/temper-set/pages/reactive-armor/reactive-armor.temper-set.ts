@@ -7,7 +7,7 @@ export const reactiveArmor = {
   title: "Reactive Armor",
   key: "reactive-armor",
   esoSetId: 201,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

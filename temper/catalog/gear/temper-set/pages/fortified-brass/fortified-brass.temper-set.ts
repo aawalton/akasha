@@ -7,7 +7,7 @@ export const fortifiedBrass = {
   title: "Fortified Brass",
   key: "fortified-brass",
   esoSetId: 352,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

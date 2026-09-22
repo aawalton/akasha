@@ -7,7 +7,7 @@ export const rourkenSteamguards = {
   title: "Rourken Steamguards",
   key: "rourken-steamguards",
   esoSetId: 760,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["hands:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

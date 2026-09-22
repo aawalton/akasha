@@ -7,7 +7,7 @@ export const witchKnightsDefiance = {
   title: "Witch-Knight's Defiance",
   key: "witch-knights-defiance",
   esoSetId: 538,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

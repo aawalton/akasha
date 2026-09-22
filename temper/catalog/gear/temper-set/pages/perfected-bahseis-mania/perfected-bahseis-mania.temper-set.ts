@@ -7,7 +7,7 @@ export const perfectedBahseisMania = {
   title: "Perfected Bahsei's Mania",
   key: "perfected-bahseis-mania",
   esoSetId: 591,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

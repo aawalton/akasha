@@ -7,7 +7,7 @@ export const dunerippersScales = {
   title: "Duneripper's Scales",
   key: "dunerippers-scales",
   esoSetId: 102,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

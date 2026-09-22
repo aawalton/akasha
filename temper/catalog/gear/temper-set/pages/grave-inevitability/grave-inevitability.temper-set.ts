@@ -7,7 +7,7 @@ export const graveInevitability = {
   title: "Grave Inevitability",
   key: "grave-inevitability",
   esoSetId: 664,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

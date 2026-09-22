@@ -7,7 +7,7 @@ export const dreughKingSlayer = {
   title: "Dreugh King Slayer",
   key: "dreugh-king-slayer",
   esoSetId: 61,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

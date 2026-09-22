@@ -7,7 +7,7 @@ export const shalidorsCurse = {
   title: "Shalidor's Curse",
   key: "shalidors-curse",
   esoSetId: 95,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

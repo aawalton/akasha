@@ -7,7 +7,7 @@ export const huntsmansWarmask = {
   title: "Huntsman's Warmask",
   key: "huntsmans-warmask",
   esoSetId: 845,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["head:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

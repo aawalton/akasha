@@ -7,7 +7,7 @@ export const inventorsGuard = {
   title: "Inventor's Guard",
   key: "inventors-guard",
   esoSetId: 333,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

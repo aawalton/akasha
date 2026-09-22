@@ -7,7 +7,7 @@ export const turningTide = {
   title: "Turning Tide",
   key: "turning-tide",
   esoSetId: 622,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

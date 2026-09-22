@@ -7,7 +7,7 @@ export const stormweaversCavort = {
   title: "Stormweaver's Cavort",
   key: "stormweavers-cavort",
   esoSetId: 675,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["legs:light"],
   bonuses: "jsonl",
   icons: "jsonl",

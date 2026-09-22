@@ -7,7 +7,7 @@ export const madGodsDancingShoes = {
   title: "Mad God's Dancing Shoes",
   key: "mad-gods-dancing-shoes",
   esoSetId: 811,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["feet:light"],
   bonuses: "jsonl",
   icons: "jsonl",

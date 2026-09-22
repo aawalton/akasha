@@ -7,7 +7,7 @@ export const talfygsTreachery = {
   title: "Talfyg's Treachery",
   key: "talfygs-treachery",
   esoSetId: 513,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

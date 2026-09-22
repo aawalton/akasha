@@ -7,7 +7,7 @@ export const vengeanceLeech = {
   title: "Vengeance Leech",
   key: "vengeance-leech",
   esoSetId: 129,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["weapon:*", "jewelry:*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const theDestructionSuite = {
   title: "The Destruction Suite",
   key: "the-destruction-suite",
   esoSetId: 116,
-  subcategoryId: "other",
+  category: "temper-set-category/other",
   valid: ["inferno-staff", "ice-staff", "lightning-staff", "ring"],
   bonuses: "jsonl",
   icons: "jsonl",

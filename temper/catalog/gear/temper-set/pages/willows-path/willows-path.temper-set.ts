@@ -7,7 +7,7 @@ export const willowsPath = {
   title: "Willow's Path",
   key: "willows-path",
   esoSetId: 79,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

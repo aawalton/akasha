@@ -7,7 +7,7 @@ export const warriorsFury = {
   title: "Warrior's Fury",
   key: "warriors-fury",
   esoSetId: 239,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const nightTerror = {
   title: "Night Terror",
   key: "night-terror",
   esoSetId: 112,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

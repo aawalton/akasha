@@ -7,7 +7,7 @@ export const perfectedMoraScribesThesis = {
   title: "Perfected Mora Scribe's Thesis",
   key: "perfected-mora-scribes-thesis",
   esoSetId: 773,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

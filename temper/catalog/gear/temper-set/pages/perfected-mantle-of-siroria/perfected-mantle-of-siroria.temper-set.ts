@@ -7,7 +7,7 @@ export const perfectedMantleOfSiroria = {
   title: "Perfected Mantle of Siroria",
   key: "perfected-mantle-of-siroria",
   esoSetId: 394,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

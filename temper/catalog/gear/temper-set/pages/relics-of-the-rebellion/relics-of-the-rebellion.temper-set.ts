@@ -7,7 +7,7 @@ export const relicsOfTheRebellion = {
   title: "Relics of the Rebellion",
   key: "relics-of-the-rebellion",
   esoSetId: 119,
-  subcategoryId: "other",
+  category: "temper-set-category/other",
   valid: ["mace", "shield", "necklace"],
   bonuses: "jsonl",
   icons: "jsonl",

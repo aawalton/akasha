@@ -7,7 +7,7 @@ export const leviathan = {
   title: "Leviathan",
   key: "leviathan",
   esoSetId: 302,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const undauntedBastion = {
   title: "Undaunted Bastion",
   key: "undaunted-bastion",
   esoSetId: 155,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const ironblood = {
   title: "Ironblood",
   key: "ironblood",
   esoSetId: 337,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

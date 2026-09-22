@@ -7,7 +7,7 @@ export const fullBellyBarricade = {
   title: "Full Belly Barricade",
   key: "full-belly-barricade",
   esoSetId: 807,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

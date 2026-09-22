@@ -7,7 +7,7 @@ export const witchmanArmor = {
   title: "Witchman Armor",
   key: "witchman-armor",
   esoSetId: 20,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

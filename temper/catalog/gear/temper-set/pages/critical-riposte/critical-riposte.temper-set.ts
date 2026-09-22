@@ -7,7 +7,7 @@ export const criticalRiposte = {
   title: "Critical Riposte",
   key: "critical-riposte",
   esoSetId: 480,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

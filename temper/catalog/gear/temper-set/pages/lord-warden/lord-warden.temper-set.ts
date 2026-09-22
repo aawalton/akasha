@@ -7,7 +7,7 @@ export const lordWarden = {
   title: "Lord Warden",
   key: "lord-warden",
   esoSetId: 164,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

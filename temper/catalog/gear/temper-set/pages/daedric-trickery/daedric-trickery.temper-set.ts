@@ -7,7 +7,7 @@ export const daedricTrickery = {
   title: "Daedric Trickery",
   key: "daedric-trickery",
   esoSetId: 324,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

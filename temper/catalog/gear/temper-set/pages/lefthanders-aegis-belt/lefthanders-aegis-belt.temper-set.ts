@@ -7,7 +7,7 @@ export const lefthandersAegisBelt = {
   title: "Lefthander's Aegis Belt",
   key: "lefthanders-aegis-belt",
   esoSetId: 656,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["waist:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

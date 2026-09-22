@@ -7,7 +7,7 @@ export const armorMaster = {
   title: "Armor Master",
   key: "armor-master",
   esoSetId: 178,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const vestmentOfOlorime = {
   title: "Vestment of Olorime",
   key: "vestment-of-olorime",
   esoSetId: 391,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

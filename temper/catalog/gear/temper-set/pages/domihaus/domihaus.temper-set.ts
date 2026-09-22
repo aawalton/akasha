@@ -7,7 +7,7 @@ export const domihaus = {
   title: "Domihaus",
   key: "domihaus",
   esoSetId: 342,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

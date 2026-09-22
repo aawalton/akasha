@@ -7,7 +7,7 @@ export const ancientDragonguard = {
   title: "Ancient Dragonguard",
   key: "ancient-dragonguard",
   esoSetId: 469,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

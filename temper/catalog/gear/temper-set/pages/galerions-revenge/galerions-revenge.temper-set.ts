@@ -7,7 +7,7 @@ export const galerionsRevenge = {
   title: "Galerion's Revenge",
   key: "galerions-revenge",
   esoSetId: 246,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

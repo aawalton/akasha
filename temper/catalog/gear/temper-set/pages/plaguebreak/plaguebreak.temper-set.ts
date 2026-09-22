@@ -7,7 +7,7 @@ export const plaguebreak = {
   title: "Plaguebreak",
   key: "plaguebreak",
   esoSetId: 617,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const grothdarr = {
   title: "Grothdarr",
   key: "grothdarr",
   esoSetId: 280,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

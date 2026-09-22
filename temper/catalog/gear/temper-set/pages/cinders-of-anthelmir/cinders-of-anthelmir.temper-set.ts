@@ -7,7 +7,7 @@ export const cindersOfAnthelmir = {
   title: "Cinders of Anthelmir",
   key: "cinders-of-anthelmir",
   esoSetId: 730,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const crestOfCyrodiil = {
   title: "Crest of Cyrodiil",
   key: "crest-of-cyrodiil",
   esoSetId: 113,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

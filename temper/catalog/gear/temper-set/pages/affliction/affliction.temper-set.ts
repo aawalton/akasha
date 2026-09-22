@@ -7,7 +7,7 @@ export const affliction = {
   title: "Affliction",
   key: "affliction",
   esoSetId: 101,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

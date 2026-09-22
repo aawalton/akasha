@@ -7,7 +7,7 @@ export const xanmeerSpellweaver = {
   title: "Xanmeer Spellweaver",
   key: "xanmeer-spellweaver",
   esoSetId: 825,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

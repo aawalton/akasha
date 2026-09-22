@@ -7,7 +7,7 @@ export const sharedPain = {
   title: "Shared Pain",
   key: "shared-pain",
   esoSetId: 783,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

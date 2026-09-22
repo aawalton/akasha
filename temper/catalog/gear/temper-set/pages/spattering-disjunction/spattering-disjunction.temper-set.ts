@@ -7,7 +7,7 @@ export const spatteringDisjunction = {
   title: "Spattering Disjunction",
   key: "spattering-disjunction",
   esoSetId: 775,
-  subcategoryId: "class",
+  category: "temper-set-category/class-set",
   valid: ["*"],
   classId: "temper-class/arcanist",
   bonuses: "jsonl",

@@ -7,7 +7,7 @@ export const ringOfThePaleOrder = {
   title: "Ring of the Pale Order",
   key: "ring-of-the-pale-order",
   esoSetId: 575,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["ring"],
   bonuses: "jsonl",
   icons: "jsonl",

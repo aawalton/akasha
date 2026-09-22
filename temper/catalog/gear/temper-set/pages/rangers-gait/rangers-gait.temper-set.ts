@@ -7,7 +7,7 @@ export const rangersGait = {
   title: "Ranger's Gait",
   key: "rangers-gait",
   esoSetId: 69,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

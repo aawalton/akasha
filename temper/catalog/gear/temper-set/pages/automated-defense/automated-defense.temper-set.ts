@@ -7,7 +7,7 @@ export const automatedDefense = {
   title: "Automated Defense",
   key: "automated-defense",
   esoSetId: 330,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

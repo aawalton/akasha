@@ -7,7 +7,7 @@ export const tideBornWildstalker = {
   title: "Tide-Born Wildstalker",
   key: "tide-born-wildstalker",
   esoSetId: 809,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

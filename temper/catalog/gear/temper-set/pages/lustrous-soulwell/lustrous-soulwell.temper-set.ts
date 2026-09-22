@@ -7,7 +7,7 @@ export const lustrousSoulwell = {
   title: "Lustrous Soulwell",
   key: "lustrous-soulwell",
   esoSetId: 822,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

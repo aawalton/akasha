@@ -7,7 +7,7 @@ export const widowmaker = {
   title: "Widowmaker",
   key: "widowmaker",
   esoSetId: 262,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

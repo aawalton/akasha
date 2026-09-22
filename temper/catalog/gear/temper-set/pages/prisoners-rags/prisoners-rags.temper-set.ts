@@ -7,7 +7,7 @@ export const prisonersRags = {
   title: "Prisoner's Rags",
   key: "prisoners-rags",
   esoSetId: 26,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

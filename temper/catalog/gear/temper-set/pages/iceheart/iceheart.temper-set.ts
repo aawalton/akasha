@@ -7,7 +7,7 @@ export const iceheart = {
   title: "Iceheart",
   key: "iceheart",
   esoSetId: 274,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

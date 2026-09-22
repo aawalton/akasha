@@ -7,7 +7,7 @@ export const hexosWard = {
   title: "Hexos' Ward",
   key: "hexos-ward",
   esoSetId: 614,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

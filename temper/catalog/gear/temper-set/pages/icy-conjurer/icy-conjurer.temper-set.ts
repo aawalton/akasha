@@ -7,7 +7,7 @@ export const icyConjurer = {
   title: "Icy Conjurer",
   key: "icy-conjurer",
   esoSetId: 431,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const spellStrategist = {
   title: "Spell Strategist",
   key: "spell-strategist",
   esoSetId: 418,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

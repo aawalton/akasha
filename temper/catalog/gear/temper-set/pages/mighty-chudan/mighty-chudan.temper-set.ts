@@ -7,7 +7,7 @@ export const mightyChudan = {
   title: "Mighty Chudan",
   key: "mighty-chudan",
   esoSetId: 256,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

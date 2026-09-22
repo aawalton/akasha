@@ -7,7 +7,7 @@ export const perfectedVirulentShot = {
   title: "Perfected Virulent Shot",
   key: "perfected-virulent-shot",
   esoSetId: 426,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["bow"],
   bonuses: "jsonl",
   icons: "jsonl",

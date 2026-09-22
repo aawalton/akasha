@@ -7,7 +7,7 @@ export const unleashedRitualist = {
   title: "Unleashed Ritualist",
   key: "unleashed-ritualist",
   esoSetId: 572,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

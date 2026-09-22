@@ -7,7 +7,7 @@ export const battlefieldAcrobat = {
   title: "Battlefield Acrobat",
   key: "battlefield-acrobat",
   esoSetId: 419,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const spriggansVigor = {
   title: "Spriggan's Vigor",
   key: "spriggans-vigor",
   esoSetId: 624,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

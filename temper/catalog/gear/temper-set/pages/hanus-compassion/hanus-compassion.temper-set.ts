@@ -7,7 +7,7 @@ export const hanusCompassion = {
   title: "Hanu's Compassion",
   key: "hanus-compassion",
   esoSetId: 399,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

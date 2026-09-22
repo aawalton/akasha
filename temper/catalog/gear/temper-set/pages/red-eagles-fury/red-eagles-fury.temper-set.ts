@@ -7,7 +7,7 @@ export const redEaglesFury = {
   title: "Red Eagle's Fury",
   key: "red-eagles-fury",
   esoSetId: 539,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

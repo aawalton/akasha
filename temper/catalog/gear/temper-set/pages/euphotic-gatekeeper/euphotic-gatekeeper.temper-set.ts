@@ -7,7 +7,7 @@ export const euphoticGatekeeper = {
   title: "Euphotic Gatekeeper",
   key: "euphotic-gatekeeper",
   esoSetId: 667,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const baanDarsBlessing = {
   title: "Baan Dar's Blessing",
   key: "baan-dars-blessing",
   esoSetId: 756,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

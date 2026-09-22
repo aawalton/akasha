@@ -7,7 +7,7 @@ export const perfectedKynesWind = {
   title: "Perfected Kyne's Wind",
   key: "perfected-kynes-wind",
   esoSetId: 493,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

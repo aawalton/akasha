@@ -7,7 +7,7 @@ export const necropotence = {
   title: "Necropotence",
   key: "necropotence",
   esoSetId: 98,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

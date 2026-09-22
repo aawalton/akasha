@@ -7,7 +7,7 @@ export const stygian = {
   title: "Stygian",
   key: "stygian",
   esoSetId: 68,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

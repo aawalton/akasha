@@ -7,7 +7,7 @@ export const voidcaller = {
   title: "Voidcaller",
   key: "voidcaller",
   esoSetId: 537,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

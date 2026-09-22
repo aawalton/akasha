@@ -7,7 +7,7 @@ export const darkConvergence = {
   title: "Dark Convergence",
   key: "dark-convergence",
   esoSetId: 616,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

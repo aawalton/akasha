@@ -7,7 +7,7 @@ export const perfectedSaxhleelChampion = {
   title: "Perfected Saxhleel Champion",
   key: "perfected-saxhleel-champion",
   esoSetId: 589,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

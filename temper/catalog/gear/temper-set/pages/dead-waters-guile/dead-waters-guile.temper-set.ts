@@ -7,7 +7,7 @@ export const deadWatersGuile = {
   title: "Dead-Water's Guile",
   key: "dead-waters-guile",
   esoSetId: 406,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

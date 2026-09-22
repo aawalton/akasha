@@ -7,7 +7,7 @@ export const perfectedCruelFlurry = {
   title: "Perfected Cruel Flurry",
   key: "perfected-cruel-flurry",
   esoSetId: 524,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger"],
   bonuses: "jsonl",
   icons: "jsonl",

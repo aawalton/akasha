@@ -7,7 +7,7 @@ export const vivecsDuality = {
   title: "Vivec's Duality",
   key: "vivecs-duality",
   esoSetId: 698,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

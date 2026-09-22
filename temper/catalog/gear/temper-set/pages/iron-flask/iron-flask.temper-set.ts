@@ -7,7 +7,7 @@ export const ironFlask = {
   title: "Iron Flask",
   key: "iron-flask",
   esoSetId: 612,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const perfectedTestOfResolve = {
   title: "Perfected Test of Resolve",
   key: "perfected-test-of-resolve",
   esoSetId: 706,
-  subcategoryId: "trial",
+  category: "temper-set-category/trial",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

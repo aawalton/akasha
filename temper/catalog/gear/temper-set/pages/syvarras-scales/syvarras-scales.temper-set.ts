@@ -7,7 +7,7 @@ export const syvarrasScales = {
   title: "Syvarra's Scales",
   key: "syvarras-scales",
   esoSetId: 228,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

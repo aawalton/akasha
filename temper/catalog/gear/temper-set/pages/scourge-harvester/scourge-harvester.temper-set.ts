@@ -7,7 +7,7 @@ export const scourgeHarvester = {
   title: "Scourge Harvester",
   key: "scourge-harvester",
   esoSetId: 165,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

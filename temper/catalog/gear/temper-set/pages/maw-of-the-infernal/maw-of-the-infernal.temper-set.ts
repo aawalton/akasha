@@ -7,7 +7,7 @@ export const mawOfTheInfernal = {
   title: "Maw of the Infernal",
   key: "maw-of-the-infernal",
   esoSetId: 170,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

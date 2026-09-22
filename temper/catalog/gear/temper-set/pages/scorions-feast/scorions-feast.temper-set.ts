@@ -7,7 +7,7 @@ export const scorionsFeast = {
   title: "Scorion's Feast",
   key: "scorions-feast",
   esoSetId: 603,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const winterborn = {
   title: "Winterborn",
   key: "winterborn",
   esoSetId: 217,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

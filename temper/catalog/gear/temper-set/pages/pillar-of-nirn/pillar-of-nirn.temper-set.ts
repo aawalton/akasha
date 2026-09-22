@@ -7,7 +7,7 @@ export const pillarOfNirn = {
   title: "Pillar of Nirn",
   key: "pillar-of-nirn",
   esoSetId: 336,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const undauntedInfiltrator = {
   title: "Undaunted Infiltrator",
   key: "undaunted-infiltrator",
   esoSetId: 156,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

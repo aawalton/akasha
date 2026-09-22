@@ -7,7 +7,7 @@ export const varensLegacy = {
   title: "Varen's Legacy",
   key: "varens-legacy",
   esoSetId: 241,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

@@ -7,7 +7,7 @@ export const theMoragTong = {
   title: "The Morag Tong",
   key: "the-morag-tong",
   esoSetId: 50,
-  subcategoryId: "pvp",
+  category: "temper-set-category/pvp",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

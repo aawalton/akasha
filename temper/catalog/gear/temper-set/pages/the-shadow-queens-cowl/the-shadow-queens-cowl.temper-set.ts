@@ -7,7 +7,7 @@ export const theShadowQueensCowl = {
   title: "The Shadow Queen's Cowl",
   key: "the-shadow-queens-cowl",
   esoSetId: 761,
-  subcategoryId: "mythic",
+  category: "temper-set-category/mythic",
   valid: ["head:light"],
   bonuses: "jsonl",
   icons: "jsonl",

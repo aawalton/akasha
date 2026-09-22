@@ -7,7 +7,7 @@ export const coldharboursFavorite = {
   title: "Coldharbour's Favorite",
   key: "coldharbours-favorite",
   esoSetId: 437,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

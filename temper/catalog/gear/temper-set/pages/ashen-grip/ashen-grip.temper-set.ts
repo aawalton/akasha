@@ -7,7 +7,7 @@ export const ashenGrip = {
   title: "Ashen Grip",
   key: "ashen-grip",
   esoSetId: 54,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

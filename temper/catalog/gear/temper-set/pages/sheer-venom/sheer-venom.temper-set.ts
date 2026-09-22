@@ -7,7 +7,7 @@ export const sheerVenom = {
   title: "Sheer Venom",
   key: "sheer-venom",
   esoSetId: 195,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

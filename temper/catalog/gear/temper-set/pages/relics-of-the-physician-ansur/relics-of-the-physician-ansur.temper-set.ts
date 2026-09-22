@@ -7,7 +7,7 @@ export const relicsOfThePhysicianAnsur = {
   title: "Relics of the Physician, Ansur",
   key: "relics-of-the-physician-ansur",
   esoSetId: 117,
-  subcategoryId: "other",
+  category: "temper-set-category/other",
   valid: ["restoration-staff", "ring"],
   bonuses: "jsonl",
   icons: "jsonl",

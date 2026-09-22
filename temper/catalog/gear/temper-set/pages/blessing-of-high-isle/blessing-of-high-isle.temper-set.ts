@@ -7,7 +7,7 @@ export const blessingOfHighIsle = {
   title: "Blessing of High Isle",
   key: "blessing-of-high-isle",
   esoSetId: 643,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

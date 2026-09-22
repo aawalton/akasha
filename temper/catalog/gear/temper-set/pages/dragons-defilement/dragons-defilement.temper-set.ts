@@ -7,7 +7,7 @@ export const dragonsDefilement = {
   title: "Dragon's Defilement",
   key: "dragons-defilement",
   esoSetId: 457,
-  subcategoryId: "dungeon",
+  category: "temper-set-category/dungeon",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

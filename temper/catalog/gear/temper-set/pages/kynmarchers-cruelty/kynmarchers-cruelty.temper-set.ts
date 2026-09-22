@@ -7,7 +7,7 @@ export const kynmarchersCruelty = {
   title: "Kynmarcher's Cruelty",
   key: "kynmarchers-cruelty",
   esoSetId: 615,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",

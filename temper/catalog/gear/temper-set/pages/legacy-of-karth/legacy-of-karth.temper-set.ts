@@ -7,7 +7,7 @@ export const legacyOfKarth = {
   title: "Legacy of Karth",
   key: "legacy-of-karth",
   esoSetId: 540,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

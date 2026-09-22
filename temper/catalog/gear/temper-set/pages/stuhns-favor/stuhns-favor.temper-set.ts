@@ -7,7 +7,7 @@ export const stuhnsFavor = {
   title: "Stuhn's Favor",
   key: "stuhns-favor",
   esoSetId: 490,
-  subcategoryId: "crafted",
+  category: "temper-set-category/crafted",
   valid: ["*"],
   bonuses: "jsonl",
   icons: "jsonl",

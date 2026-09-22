@@ -7,7 +7,7 @@ export const slimecraw = {
   title: "Slimecraw",
   key: "slimecraw",
   esoSetId: 270,
-  subcategoryId: "monster",
+  category: "temper-set-category/monster",
   valid: ["monster"],
   bonuses: "jsonl",
   icons: "jsonl",

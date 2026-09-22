@@ -7,7 +7,7 @@ export const bloodthornsTouch = {
   title: "Bloodthorn's Touch",
   key: "bloodthorns-touch",
   esoSetId: 65,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:light"],
   bonuses: "jsonl",
   icons: "jsonl",

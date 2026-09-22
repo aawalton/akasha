@@ -7,7 +7,7 @@ export const swordSinger = {
   title: "Sword-Singer",
   key: "sword-singer",
   esoSetId: 283,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

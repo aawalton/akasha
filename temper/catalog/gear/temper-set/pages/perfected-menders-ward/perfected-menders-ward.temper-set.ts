@@ -7,7 +7,7 @@ export const perfectedMendersWard = {
   title: "Perfected Mender's Ward",
   key: "perfected-menders-ward",
   esoSetId: 428,
-  subcategoryId: "arena",
+  category: "temper-set-category/arena",
   valid: ["restoration-staff"],
   bonuses: "jsonl",
   icons: "jsonl",

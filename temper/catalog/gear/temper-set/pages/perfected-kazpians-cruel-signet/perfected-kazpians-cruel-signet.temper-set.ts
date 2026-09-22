@@ -7,7 +7,7 @@ export const perfectedKazpiansCruelSignet = {
   title: "Perfected Kazpian's Cruel Signet",
   key: "perfected-kazpians-cruel-signet",
   esoSetId: 820,
-  subcategoryId: "no-type",
+  category: "temper-set-category/no-type",
   valid: ["*:medium"],
   bonuses: "jsonl",
   icons: "jsonl",

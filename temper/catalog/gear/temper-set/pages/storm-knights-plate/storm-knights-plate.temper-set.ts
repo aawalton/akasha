@@ -7,7 +7,7 @@ export const stormKnightsPlate = {
   title: "Storm Knight's Plate",
   key: "storm-knights-plate",
   esoSetId: 93,
-  subcategoryId: "overland",
+  category: "temper-set-category/overland",
   valid: ["*:heavy"],
   bonuses: "jsonl",
   icons: "jsonl",
