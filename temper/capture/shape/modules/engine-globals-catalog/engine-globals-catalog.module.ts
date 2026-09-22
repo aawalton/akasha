@@ -20,5 +20,9 @@ export const engineGlobalsCatalog = {
       decisionKind: "decision-kind/departure",
       statement: "The API version the game answers with is kept beside the constants it gave.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The name of the function the constants were listed with is kept beside them.",
+    },
   ],
 } as const satisfies Module

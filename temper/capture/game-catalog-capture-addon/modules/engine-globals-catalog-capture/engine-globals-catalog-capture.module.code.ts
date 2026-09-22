@@ -7,45 +7,54 @@ const IN_CAPITALS = "^[A-Z][A-Z0-9_]*$"
 
 const NOTHING = 0
 
+interface Found {
+  readonly numbers: Record<string, number>
+  readonly named: string[]
+  readonly unwritable: string[]
+}
+
 function writableNumber(held: number): boolean {
   return held * NOTHING === NOTHING
 }
 
-function walkGlobals(
-  this: void,
-  numbers: Record<string, number>,
-  named: string[],
-  unwritable: string[]
-): undefined {
-  for (const name in _G) {
-    const [shaped] = string.match(name, IN_CAPITALS)
-    if (shaped === undefined) continue
-    const held = _G[name]
-    if (typeof held === "number") {
-      if (writableNumber(held)) {
-        numbers[name] = held
-      } else {
-        unwritable[unwritable.length] = name
-      }
-    } else if (typeof held === "string") {
-      named[named.length] = name
+function keepGlobal(this: void, found: Found, name: string): undefined {
+  const [shaped] = string.match(name, IN_CAPITALS)
+  if (shaped === undefined) return
+  const held = _G[name]
+  if (typeof held === "number") {
+    if (writableNumber(held)) {
+      found.numbers[name] = held
+    } else {
+      found.unwritable[found.unwritable.length] = name
     }
+  } else if (typeof held === "string") {
+    found.named[found.named.length] = name
   }
 }
 
+function listGlobals(this: void, found: Found): string {
+  const given = InsecureNext
+  const step = given ?? next
+  let [key] = step(_G, undefined)
+  while (key !== undefined) {
+    if (typeof key === "string") {
+      keepGlobal(found, key)
+    }
+    const [onward] = step(_G, key)
+    key = onward
+  }
+  return given === undefined ? "next" : "InsecureNext"
+}
+
 function collectEngineGlobalsCatalog(this: void, onComplete: (this: void) => void): undefined {
-  const numbers: Record<string, number> = {}
-  const named: string[] = []
-  const unwritable: string[] = []
-  const [walked] = pcall(function (this: void): undefined {
-    walkGlobals(numbers, named, unwritable)
-  })
+  const found: Found = { numbers: {}, named: [], unwritable: [] }
+  const listedBy = listGlobals(found)
   getSavedVariables().engineGlobalsCatalog = {
     apiVersion: GetAPIVersion(),
-    walked,
-    numbers,
-    named,
-    unwritable,
+    listedBy,
+    numbers: found.numbers,
+    named: found.named,
+    unwritable: found.unwritable,
   }
   onComplete()
 }

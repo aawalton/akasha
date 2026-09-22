@@ -14,15 +14,23 @@ export const engineGlobalsCatalogCapture = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The game lets an addon read a global by name and may refuse to list them all.",
+      statement: "The game gives an add-on a function of its own for stepping through a table.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A listing the game refuses answers with what was read rather than raising.",
+      statement: "The globals are stepped through with that function where the game gives it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Whether the globals could be listed is saved beside what the listing found.",
+      statement: "Lua's own stepping function is used where the game gives no function of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which of the two listed the globals is saved beside what the listing found.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A listing the game refuses is a skip with a reason rather than an empty catalog.",
     },
     {
       decisionKind: "decision-kind/constraint",

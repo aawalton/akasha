@@ -1,6 +1,6 @@
 export interface EngineGlobalsCatalogData {
   readonly apiVersion: number
-  readonly walked: boolean
+  readonly listedBy: string
   readonly numbers: Record<string, number>
   readonly named: readonly string[]
   readonly unwritable: readonly string[]
