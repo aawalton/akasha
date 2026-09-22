@@ -10,9 +10,10 @@ import {
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { answering } from "akasha/page/service/modules/page-serving/page-serving.module.code.ts"
 import { writerFor } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
+import { pageService } from "akasha/page/service/page-service.service-workstation.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
-export const SERVICE_SLUG = "page-service"
+export const SERVICE_SLUG = pageService.slug
 export const UNBOUND = "unbound"
 export const TRIED_AGAIN_MS = 30_000
 
