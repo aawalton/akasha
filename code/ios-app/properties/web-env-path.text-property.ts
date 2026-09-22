@@ -15,7 +15,7 @@ export const webEnvPath = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A worktree missing the file is given a copy of the file at the same path.",
+      statement: "A checkout missing the file is given a copy of the file at the same path.",
     },
     {
       decisionKind: "decision-kind/departure",
