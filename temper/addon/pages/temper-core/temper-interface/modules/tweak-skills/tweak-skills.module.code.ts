@@ -18,7 +18,7 @@ function isSkillTypeStateMap(this: void, value: unknown): value is SkillTypeStat
 
 function changeSkillLineTypeEntry(
   this: void,
-  ctrl: FcocsSkillLineEntryControl | undefined,
+  ctrl: TweakSkillLineEntryControl | undefined,
   newStatus: boolean | undefined,
   isContextMenu: boolean
 ): boolean | undefined {
@@ -106,7 +106,7 @@ function changeSkillLineTypeEntry(
 
 function setSkillLineTypeStatus(
   this: void,
-  ctrl: FcocsSkillLineEntryControl | undefined,
+  ctrl: TweakSkillLineEntryControl | undefined,
   status: boolean | undefined
 ): boolean | undefined {
   if (ctrl === undefined || status === undefined) {
@@ -127,7 +127,7 @@ function setSkillLineTypeStatus(
 
 function addSkillTypeContextMenuEntry(
   this: void,
-  ctrl: FcocsSkillLineEntryControl | undefined
+  ctrl: TweakSkillLineEntryControl | undefined
 ): boolean | undefined {
   const settings = STATE.settingsVars.settings
   if (settings.enableSkillLineContextMenu !== true) {
@@ -146,7 +146,7 @@ function addSkillTypeContextMenuEntry(
   return undefined
 }
 
-const preHookedSkillTypeEntryCtrls = new LuaMap<FcocsSkillLineEntryControl, boolean>()
+const preHookedSkillTypeEntryCtrls = new LuaMap<TweakSkillLineEntryControl, boolean>()
 
 function preHookSkillLinesOnMouseDown(this: void): undefined {
   const skillLinesTree = skillsWindow.skillLinesTree
@@ -174,7 +174,7 @@ function preHookSkillLinesOnMouseDown(this: void): undefined {
                   "OnMouseUp",
                   function (
                     this: void,
-                    ctrl: FcocsSkillLineEntryControl,
+                    ctrl: TweakSkillLineEntryControl,
                     button: number,
                     upInside: boolean
                   ): undefined {

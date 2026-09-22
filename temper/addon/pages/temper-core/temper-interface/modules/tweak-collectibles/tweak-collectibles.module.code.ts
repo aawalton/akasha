@@ -304,7 +304,7 @@ function buildExcludedMountIdsShifterBox(this: void, parentCtrl: Control | undef
 
   const excludedMountIdsShifterBox = SHIFTER_BOX(
     addonName,
-    "FCOCHANGESTUFF_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT_LSB",
+    "TEMPERTWEAKS_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT_LSB",
     parentCtrl,
     EXCLUDED_MOUNT_IDS_SHIFTER_BOX_SETTINGS
   )

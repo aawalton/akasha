@@ -148,7 +148,7 @@ interface MundusCtrlData {
 }
 
 interface MundusControl extends Control {
-  fcocsOrigHeight?: number
+  tweakOrigHeight?: number
 }
 
 function changeStatsPanelMundusRow(
@@ -163,12 +163,12 @@ function changeStatsPanelMundusRow(
       type(ctrl.SetHidden) === "function" &&
       type(ctrl.SetHeight) === "function"
     ) {
-      if (doHide && ctrl.fcocsOrigHeight === undefined) {
-        ctrl.fcocsOrigHeight = ctrl.GetHeight()
+      if (doHide && ctrl.tweakOrigHeight === undefined) {
+        ctrl.tweakOrigHeight = ctrl.GetHeight()
       }
       if (ctrlData.process) {
         ctrl.SetHidden(doHide)
-        ctrl.SetHeight(doHide ? 0 : (ctrl.fcocsOrigHeight ?? 0))
+        ctrl.SetHeight(doHide ? 0 : (ctrl.tweakOrigHeight ?? 0))
         if (doHide && ctrl.GetHeight() > 0) {
           ctrl.SetHeight(1)
         }

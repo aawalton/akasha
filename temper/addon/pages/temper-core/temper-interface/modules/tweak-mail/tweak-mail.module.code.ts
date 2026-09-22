@@ -37,7 +37,7 @@ function resolveZoDialog1(this: void): ZoDialog1Control {
   if (isZoDialog1Control(ZO_Dialog1)) {
     return ZO_Dialog1
   }
-  error("FCOCS mail: ZO_Dialog1 control missing")
+  error("Tweaks mail: ZO_Dialog1 control missing")
 }
 
 const zoDialog1 = resolveZoDialog1()
@@ -47,7 +47,7 @@ function onDialogShownHook(this: void): undefined {
     if (!ZO_Dialogs_IsShowingDialog()) {
       return
     }
-    if (zoDialog1.name !== "FCOCS_ADD_MAIL_PROFILE_DIALOG") {
+    if (zoDialog1.name !== "TEMPERTWEAKS_ADD_MAIL_PROFILE_DIALOG") {
       return
     }
     const data = zoDialog1.data

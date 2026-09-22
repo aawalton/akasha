@@ -10,7 +10,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const WM = WINDOW_MANAGER
 
-interface FcoFnButtonControl extends ButtonControl {
+interface TweakFnButtonControl extends ButtonControl {
   upTexture?: string
   downTexture?: string
   clickedTexture?: string
@@ -74,7 +74,7 @@ function addFnButton(
   }
   const mouseUpButton = onMouseUpCallbackFunctionMouseButton ?? 1
 
-  const button: FcoFnButtonControl = createOrGet(name, parent, CT_BUTTON)
+  const button: TweakFnButtonControl = createOrGet(name, parent, CT_BUTTON)
   const btn = button
 
   btn.SetDimensions(width, height)

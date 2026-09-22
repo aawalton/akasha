@@ -63,7 +63,7 @@ const favoritesExcludedListStatusIconText = zo_iconTextFormatNoSpace(
 
 const QUALITY_CHOICES: { current: Record<number, string> } = { current: {} }
 
-let fcoSettingsPanel: Control | undefined
+let tweakSettingsPanel: Control | undefined
 
 const PREVENT_ENDLESS_LOOP_HOLDER: PreventEndlessLoopHolder = { current: false }
 
@@ -92,10 +92,7 @@ export function buildAddonMenu(this: void): undefined {
     version: tostring(addonVars.addonVersion),
     registerForRefresh: true,
     registerForDefaults: true,
-    slashCommand: "/fcocss",
-    website: addonVars.addonWebsite,
-    feedback: addonVars.addonFeedback,
-    donation: addonVars.addonDonation,
+    slashCommand: "/temperinterface",
   }
 
   const saveTypeEachCharacter = "Each character"
@@ -149,7 +146,7 @@ export function buildAddonMenu(this: void): undefined {
     },
     {
       type: "dropdown",
-      reference: "FCOCS_LAM_SETTINGS_SV_SAVETYPE_COMBOBOX",
+      reference: "TEMPERTWEAKS_LAM_SETTINGS_SV_SAVETYPE_COMBOBOX",
       name: "Settings save type",
       tooltip:
         "Use account wide settings for all your characters, or save them seperatley for each character?",
@@ -202,16 +199,16 @@ export function buildAddonMenu(this: void): undefined {
   }
 
   function lamPanelOpenedCallbackFunc(this: void, pPanel: unknown): undefined {
-    if (pPanel !== fcoSettingsPanel) {
+    if (pPanel !== tweakSettingsPanel) {
       return
     }
     if (IS_FIRST_OPEN) {
       IS_FIRST_OPEN = false
       return
     }
-    refreshExcludedMountIdsShifterBox(FCOCHANGESTUFF_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT)
+    refreshExcludedMountIdsShifterBox(TEMPERTWEAKS_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT)
   }
   CALLBACK_MANAGER.RegisterCallback("TemperAddonMenu-PanelOpened", lamPanelOpenedCallbackFunc)
 
-  fcoSettingsPanel = registerPanel(lam, addonName + "_LAM", panelData, optionsTable)
+  tweakSettingsPanel = registerPanel(lam, addonName + "_LAM", panelData, optionsTable)
 }

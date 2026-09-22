@@ -238,7 +238,7 @@ export function smithingCreateAddArmorTypeSwitchButton(this: void): undefined {
     const ctrlVars = STATE.ctrlVars
 
     const baseButton = createOrGet(
-      "FCOCS_ChangeArmorTypeButton",
+      "TweakChangeArmorTypeButton",
       ZO_SmithingTopLevelCreationPanel,
       CT_BUTTON
     )

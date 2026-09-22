@@ -200,7 +200,7 @@ export function buildFavoriteMountsContextMenu(this: void): undefined {
       collectibleData.IsUnlocked()
     ) {
       AddCustomMenuItem(
-        "[FCOChangeStuff] Mount favorites",
+        "[TemperInterface] Mount favorites",
         (): undefined => {},
         MENU_ADD_OPTION_HEADER
       )

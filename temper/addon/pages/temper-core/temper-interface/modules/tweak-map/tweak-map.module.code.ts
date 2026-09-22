@@ -27,7 +27,7 @@ function isScene(this: void, value: unknown): value is Scene {
   return type(value) === "table"
 }
 function asScene(this: void, value: unknown): Scene {
-  return isScene(value) ? value : error("FCOChangeStuff: expected a ZO_Scene object")
+  return isScene(value) ? value : error("TemperInterface: expected a ZO_Scene object")
 }
 const mapSceneKeyboard = asScene(WORLD_MAP_SCENE)
 const mapSceneGamepad = asScene(GAMEPAD_WORLD_MAP_SCENE)
@@ -160,7 +160,7 @@ function worldMapFilterButtons(this: void): undefined {
         STATE.settingsVars.settings.showEnDisableAllFilterButtons === true
       if (showWorldMapFilterAllButtons) {
         if (STATE.wolrdMapFilterEnableAllButton === undefined) {
-          name = "FCOChangeStuff_WoldMapFilter_ButtonEnableAll"
+          name = "TemperTweaks_WoldMapFilter_ButtonEnableAll"
           tooltipText = "Enable all filter"
           callbackFunction = () => {
             setAllWorldMapFilters(1)
@@ -190,7 +190,7 @@ function worldMapFilterButtons(this: void): undefined {
           STATE.wolrdMapFilterEnableAllButton = btnWMFenableAll
         }
         if (STATE.wolrdMapFilterDisableAllButton === undefined) {
-          name = "FCOChangeStuff_WoldMapFilter_ButtonDisableAll"
+          name = "TemperTweaks_WoldMapFilter_ButtonDisableAll"
           tooltipText = "Disable all filter"
           callbackFunction = () => {
             setAllWorldMapFilters(0)

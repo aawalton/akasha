@@ -119,7 +119,7 @@ export function addMassHandlingNotificationsButton(this: void): undefined {
   }
 
   const buttonDataAllNotificationsReadetings = {
-    buttonName: "FCOCS_NotificationsMarkAllAsReadButton",
+    buttonName: "TweakNotificationsMarkAllAsReadButton",
     parentControl: notificationsUI,
     tooltip: `${STATE.addonVars.addonNameMenuDisplay} Mass-change notifications`,
     callback: function (this: void) {
@@ -149,7 +149,7 @@ export function addNotificationsButtons(this: void): undefined {
   addMassHandlingNotificationsButton()
 }
 
-let FCOC_SMAIN_MENU_BUTTON_WAS_ADDED = false
+let TWEAK_MAIN_MENU_BUTTON_WAS_ADDED = false
 
 function hideCrownStoreButtonInMainMenu(this: void, value?: boolean): undefined {
   const hidden = value ?? false
@@ -228,7 +228,7 @@ function addAddonSettingsMainMenuButton(this: void): boolean | undefined {
   }
   STATE.mainMenu = MAIN_MENU_API
 
-  if (FCOC_SMAIN_MENU_BUTTON_WAS_ADDED !== true) {
+  if (TWEAK_MAIN_MENU_BUTTON_WAS_ADDED !== true) {
     MAIN_MENU_API.Init()
     const descriptor = STATE.addonVars.addonName
     const categoryLayoutInfo: LmmCategoryLayoutInfo = {
@@ -247,7 +247,7 @@ function addAddonSettingsMainMenuButton(this: void): boolean | undefined {
       disabled: "esoui/art/charactercreate/rotate_right_disabled.dds",
     }
     MAIN_MENU_API.AddMenuItem(descriptor, categoryLayoutInfo)
-    FCOC_SMAIN_MENU_BUTTON_WAS_ADDED = true
+    TWEAK_MAIN_MENU_BUTTON_WAS_ADDED = true
   }
 }
 

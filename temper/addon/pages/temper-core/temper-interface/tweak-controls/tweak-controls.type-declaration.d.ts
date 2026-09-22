@@ -1,36 +1,36 @@
-declare const FCOCHANGESTUFF_repositionActionSlotTimersOffsetX_EditBox: LamEditboxControl
+declare const TEMPERTWEAKS_repositionActionSlotTimersOffsetX_EditBox: LamEditboxControl
 
-declare const FCOCHANGESTUFF_repositionActionSlotTimersOffsetY_EditBox: LamEditboxControl
+declare const TEMPERTWEAKS_repositionActionSlotTimersOffsetY_EditBox: LamEditboxControl
 
-declare const FCOCHANGESTUFF_LAM_CUSTOM_SOUNDS_DISABLE_PARENT: Control
+declare const TEMPERTWEAKS_LAM_CUSTOM_SOUNDS_DISABLE_PARENT: Control
 
-declare const FCOCHANGESTUFF_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT: Control
+declare const TEMPERTWEAKS_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT: Control
 
-interface FcocsSkillStatusIcon {
-  HasIcon: (this: FcocsSkillStatusIcon) => boolean
-  ClearIcons: (this: FcocsSkillStatusIcon) => undefined
-  AddIcon: (this: FcocsSkillStatusIcon, texture: string) => undefined
-  SetColor: (this: FcocsSkillStatusIcon, r: number, g: number, b: number, a: number) => undefined
-  Hide: (this: FcocsSkillStatusIcon) => undefined
-  Show: (this: FcocsSkillStatusIcon) => undefined
+interface TweakSkillStatusIcon {
+  HasIcon: (this: TweakSkillStatusIcon) => boolean
+  ClearIcons: (this: TweakSkillStatusIcon) => undefined
+  AddIcon: (this: TweakSkillStatusIcon, texture: string) => undefined
+  SetColor: (this: TweakSkillStatusIcon, r: number, g: number, b: number, a: number) => undefined
+  Hide: (this: TweakSkillStatusIcon) => undefined
+  Show: (this: TweakSkillStatusIcon) => undefined
 }
 
-interface FcocsSkillLineNodeData {
+interface TweakSkillLineNodeData {
   isSubclassingNode?: boolean
   skillLineIndex?: number
   skillTypeData?: { skillType?: number }
 }
 
-interface FcocsSkillLineEntryControl extends Control {
-  node?: { data?: FcocsSkillLineNodeData }
-  data?: FcocsSkillLineNodeData
+interface TweakSkillLineEntryControl extends Control {
+  node?: { data?: TweakSkillLineNodeData }
+  data?: TweakSkillLineNodeData
   enabled?: boolean
-  statusIcon?: FcocsSkillStatusIcon
-  SetEnabled: (this: FcocsSkillLineEntryControl, enabled: boolean) => undefined
+  statusIcon?: TweakSkillStatusIcon
+  SetEnabled: (this: TweakSkillLineEntryControl, enabled: boolean) => undefined
 }
 
-interface FcocsSkillLinesTreeNode {
-  control?: FcocsSkillLineEntryControl
+interface TweakSkillLinesTreeNode {
+  control?: TweakSkillLineEntryControl
   enabled?: boolean
-  children?: FcocsSkillLinesTreeNode[]
+  children?: TweakSkillLinesTreeNode[]
 }

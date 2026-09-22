@@ -189,7 +189,7 @@ function onPlayerActivated(this: void): undefined {
   STATE.playerActivatedDone = true
 }
 
-export function initFcoChangeStuff(this: void): undefined {
+export function initTweaks(this: void): undefined {
   if (PerfectPixel !== undefined) {
     STATE.otherAddons.PerfectPixel = true
   }

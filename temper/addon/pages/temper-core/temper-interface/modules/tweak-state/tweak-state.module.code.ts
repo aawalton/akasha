@@ -1,14 +1,11 @@
 import {
   ADDON_AUTHOR,
-  ADDON_DONATION,
-  ADDON_FEEDBACK,
   ADDON_NAME,
   ADDON_NAME_MENU,
   ADDON_NAME_MENU_DISPLAY,
   ADDON_NAME_SHORT_COLORED,
   ADDON_SETTINGS_NAME,
   ADDON_VERSION_NUMBER,
-  ADDON_WEBSITE,
   SAVED_VARIABLES_NAME,
   SAVED_VARS_VERSION,
   SPIN_FRAGMENTS,
@@ -25,7 +22,7 @@ import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/po
 import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export interface FcocsState {
+export interface TweakState {
   addonVars: AddonVars
   settingsVars: SettingsVars
   preventerVars: PreventerVars
@@ -50,7 +47,7 @@ export interface FcocsState {
 const smithingCreatePanel = ZO_SmithingTopLevelCreationPanel
 const smithingPatternList = smithingCreatePanel.GetNamedChild("PatternList")
 
-export const STATE: FcocsState = {
+export const STATE: TweakState = {
   addonVars: {
     addonVersion: ADDON_VERSION_NUMBER,
     addonSavedVarsVersion: SAVED_VARS_VERSION,
@@ -61,9 +58,6 @@ export const STATE: FcocsState = {
     addonSavedVariablesName: SAVED_VARIABLES_NAME,
     settingsName: ADDON_SETTINGS_NAME,
     addonAuthor: ADDON_AUTHOR,
-    addonWebsite: ADDON_WEBSITE,
-    addonFeedback: ADDON_FEEDBACK,
-    addonDonation: ADDON_DONATION,
   },
   settingsVars: {
     settings: buildEmptySettings(),

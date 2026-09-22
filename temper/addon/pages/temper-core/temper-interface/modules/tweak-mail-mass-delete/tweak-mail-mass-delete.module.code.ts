@@ -35,7 +35,7 @@ function deleteMailNow(this: void, mailEntryData: MailInboxEntry): undefined {
   const senderSuffix =
     mailEntryData.senderCharacterName !== undefined ? `/${mailEntryData.senderCharacterName}` : ""
   d(
-    `[FCOCS]Deleting mail from: ${tostring(mailEntryData.senderDisplayName)}${senderSuffix}, subject: ${tostring(
+    `[Tweaks]Deleting mail from: ${tostring(mailEntryData.senderDisplayName)}${senderSuffix}, subject: ${tostring(
       mailEntryData.formattedSubject
     )}`
   )
@@ -87,7 +87,7 @@ function checkDeleteMailWithCriteria(
 
   if (DO_DEBUG) {
     d(
-      `[FCOCS]Checking mail ID: ${tostring(
+      `[Tweaks]Checking mail ID: ${tostring(
         mailEntryData.mailId !== undefined ? zo_getSafeId64Key(mailEntryData.mailId) : undefined
       )}`
     )

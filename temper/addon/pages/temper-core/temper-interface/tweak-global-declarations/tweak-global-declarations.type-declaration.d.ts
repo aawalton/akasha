@@ -1,4 +1,4 @@
-interface TemperFCOChangeStuffGlobal extends Record<string, unknown> {
+interface TemperTweaksGlobal extends Record<string, unknown> {
   openLAMAddonSettings: (this: void) => undefined
   playerPinPingPong: (this: void, fromKeybind?: boolean) => undefined
   keybinds: (this: void, keybindType: string) => undefined
@@ -9,4 +9,4 @@ interface TemperFCOChangeStuffGlobal extends Record<string, unknown> {
   ScrollScrollList: (this: void, scrollBarButton: Control | undefined, top: boolean) => undefined
 }
 
-declare var TemperFCOChangeStuff: TemperFCOChangeStuffGlobal
+declare var TemperTweaks: TemperTweaksGlobal

@@ -30,28 +30,28 @@
         </Category>
         <Category name="|c00FF00FCO |cFFFF00Change Stuff|r">
             <Action name="FCOCS_ADDON_SETTINGS_MENU">
-                <Down>TemperFCOChangeStuff.openLAMAddonSettings(self)</Down>
+                <Down>TemperTweaks.openLAMAddonSettings(self)</Down>
             </Action>
             <Action name="FCOCS_MAP_PLAYER_PIN_PING_PONG">
-                <Down>TemperFCOChangeStuff.playerPinPingPong(true)</Down>
+                <Down>TemperTweaks.playerPinPingPong(true)</Down>
             </Action>
             <Action name="FCOCS_TOGGLE_SETTINGS_COMPASS_QUEST_GIVERS">
-                <Down>TemperFCOChangeStuff.keybinds("FCOCS_TOGGLE_SETTINGS_COMPASS_QUEST_GIVERS")</Down>
+                <Down>TemperTweaks.keybinds("FCOCS_TOGGLE_SETTINGS_COMPASS_QUEST_GIVERS")</Down>
             </Action>
             <Action name="FCOCS_TOGGLE_AUDIO_MUTE_SFX">
-                <Down>TemperFCOChangeStuff.muteSFXSound()</Down>
+                <Down>TemperTweaks.muteSFXSound()</Down>
             </Action>
             <Action name="FCOCS_TOGGLE_GROUP_ELECTION_AUTO_DECLINE">
-                <Down>TemperFCOChangeStuff.toggleGroupElectionAutoDecline()</Down>
+                <Down>TemperTweaks.toggleGroupElectionAutoDecline()</Down>
             </Action>
             <Action name="FCOCS_SWITCH_BANK_PANEL">
-                <Down>TemperFCOChangeStuff.switchBankMenuBarDescriptor()</Down>
+                <Down>TemperTweaks.switchBankMenuBarDescriptor()</Down>
             </Action>
             <Action name="FCOCS_TOGGLE_SETTINGS_INNOCENT_ATTACK">
-                <Down>TemperFCOChangeStuff.keybinds("FCOCS_TOGGLE_SETTINGS_INNOCENT_ATTACK")</Down>
+                <Down>TemperTweaks.keybinds("FCOCS_TOGGLE_SETTINGS_INNOCENT_ATTACK")</Down>
             </Action>
             <Action name="FCOCS_TOGGLE_TOGGLE_PROM_EVENT_TRACKER">
-                <Down>TemperFCOChangeStuff.TogglePromotionalEventTrackerUI()</Down>
+                <Down>TemperTweaks.TogglePromotionalEventTrackerUI()</Down>
             </Action>
             <Action name="FCOCS_TOGGLE_SYSTEM" rebindable="true" hideAction="false" allowOnInputModeChange="true">
                 <Down>ZO_SceneManager_ToggleGameMenuBinding()</Down>

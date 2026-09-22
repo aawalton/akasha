@@ -68,7 +68,7 @@ export function buildActionBarsControls(
         const screenXOffsetMax = screenWidth + screenXOffsetMin
         if (valueInt === undefined || valueInt < screenXOffsetMin || valueInt > screenXOffsetMax) {
           preventEndlessLoop.current = true
-          FCOCHANGESTUFF_repositionActionSlotTimersOffsetX_EditBox.UpdateValue("0")
+          TEMPERTWEAKS_repositionActionSlotTimersOffsetX_EditBox.UpdateValue("0")
         } else {
           offset.x = tonumber(value) ?? 0
         }
@@ -77,7 +77,7 @@ export function buildActionBarsControls(
       textType: TEXT_TYPE_NUMERIC,
       default: tostring(offsetDefaults.x),
       disabled: () => settings.repositionActionSlotTimers !== true,
-      reference: "FCOCHANGESTUFF_repositionActionSlotTimersOffsetX_EditBox",
+      reference: "TEMPERTWEAKS_repositionActionSlotTimersOffsetX_EditBox",
     },
     {
       type: "editbox",
@@ -97,7 +97,7 @@ export function buildActionBarsControls(
         const screenYOffsetMax = screenHeight + screenYOffsetMin
         if (valueInt === undefined || valueInt < screenYOffsetMin || valueInt > screenYOffsetMax) {
           preventEndlessLoop.current = true
-          FCOCHANGESTUFF_repositionActionSlotTimersOffsetY_EditBox.UpdateValue("0")
+          TEMPERTWEAKS_repositionActionSlotTimersOffsetY_EditBox.UpdateValue("0")
         } else {
           offset.y = tonumber(value) ?? 0
         }
@@ -106,7 +106,7 @@ export function buildActionBarsControls(
       textType: TEXT_TYPE_NUMERIC,
       default: tostring(offsetDefaults.y),
       disabled: () => settings.repositionActionSlotTimers !== true,
-      reference: "FCOCHANGESTUFF_repositionActionSlotTimersOffsetY_EditBox",
+      reference: "TEMPERTWEAKS_repositionActionSlotTimersOffsetY_EditBox",
     },
   ]
 }

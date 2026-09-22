@@ -29,7 +29,7 @@ const KEYBOARD_CONSTANTS = {
   backRowUltimateSlotOffsetY: -20,
 }
 
-const FILL_BAR_UPDATE_HANDLER_ON_UPDATE_NAME = "FCOCS_FillBarUpdate"
+const FILL_BAR_UPDATE_HANDLER_ON_UPDATE_NAME = "TemperTweaks_FillBarUpdate"
 
 interface ActionBarSlotControl extends Control {
   SetHandler: (
@@ -279,7 +279,7 @@ export function installActionBarTimerHooks(this: void): undefined {
   )
 
   const registerForUpdateClearStackLabelEventPrefix =
-    "FCOCS_ActionButton_SetStackCount_ClearStackLabel_Slot"
+    "TemperTweaks_ActionButton_SetStackCount_ClearStackLabel_Slot"
   SecurePostHook(
     ActionButton,
     "SetStackCount",

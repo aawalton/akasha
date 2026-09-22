@@ -21,7 +21,7 @@ export interface AddButtonData {
   visible?: boolean | ((this: void) => boolean)
 }
 
-interface FcoButtonControl extends ButtonControl {
+interface TweakButtonControl extends ButtonControl {
   upTexture?: string
   mouseOver?: string
   clickedTexture?: string
@@ -30,7 +30,7 @@ interface FcoButtonControl extends ButtonControl {
 }
 
 interface HookableParent extends Control {
-  fcocsEffectivelyShownHooked?: boolean
+  tweakEffectivelyShownHooked?: boolean
 }
 
 export function createOrGet(
@@ -67,7 +67,7 @@ export function addButton(
   offsetX: number,
   offsetY: number,
   buttonData: AddButtonData
-): FcoButtonControl | undefined {
+): TweakButtonControl | undefined {
   if (
     buttonData.parentControl === undefined ||
     buttonData.buttonName === undefined ||
@@ -79,7 +79,7 @@ export function addButton(
   const parent: HookableParent = buttonData.parentControl
   const btnName = `${parent.GetName()}_${ADDON_NAME}_${buttonData.buttonName}`
 
-  const button: FcoButtonControl = createOrGet(btnName, parent, CT_BUTTON)
+  const button: TweakButtonControl = createOrGet(btnName, parent, CT_BUTTON)
 
   button.SetDimensions(buttonData.width ?? 32, buttonData.height ?? 32)
   button.SetAnchor(myAnchorPoint, relativeTo, relativePoint, offsetX, offsetY)
@@ -119,11 +119,11 @@ export function addButton(
   const visible = buttonData.visible
   if (typeof visible === "function") {
     isHidden = !visible()
-    if (parent.fcocsEffectivelyShownHooked !== true) {
+    if (parent.tweakEffectivelyShownHooked !== true) {
       ZO_PostHookHandler(parent, "OnEffectivelyShown", () => {
         btn.SetHidden(!visible())
       })
-      parent.fcocsEffectivelyShownHooked = true
+      parent.tweakEffectivelyShownHooked = true
     }
   } else if (typeof visible === "boolean") {
     isHidden = visible

@@ -10,9 +10,6 @@ export interface AddonVars {
   addonSavedVariablesName: string
   settingsName: string
   addonAuthor: string
-  addonWebsite: string
-  addonFeedback: string
-  addonDonation: string
 }
 
 export interface XYCoord {

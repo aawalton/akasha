@@ -59,7 +59,7 @@ function addMailContextmenuButtons(this: void): undefined {
   const mailSendBody = mailSend.GetNamedChild("Body")
 
   const massBtn: MailMenuButton | undefined = addButton(TOPLEFT, mailInbox, TOPLEFT, -35, -10, {
-    buttonName: "FCOCS_MailRecivedMassChangeContextMenu",
+    buttonName: "TweakMailRecivedMassChangeContextMenu",
     parentControl: mailInbox,
     tooltip: `${addonVars.addonNameMenuDisplay} Mail received mass-change`,
     callback: () => {
@@ -75,7 +75,7 @@ function addMailContextmenuButtons(this: void): undefined {
   }
 
   const settingsBtn: MailMenuButton | undefined = addButton(TOPLEFT, mailSend, TOPLEFT, -35, -10, {
-    buttonName: "FCOCS_MailSendSettingsContextMenu",
+    buttonName: "TweakMailSendSettingsContextMenu",
     parentControl: mailSend,
     tooltip: `${addonVars.addonNameMenuDisplay} Mail settings`,
     callback: () => {
@@ -98,7 +98,7 @@ function addMailContextmenuButtons(this: void): undefined {
     LEFT,
     -10,
     0,
-    "FCOCS_MailRecipientsContextMenu",
+    "TweakMailRecipientsContextMenu",
     "Mail recipients"
   )
   addFieldTriangleButton(
@@ -109,7 +109,7 @@ function addMailContextmenuButtons(this: void): undefined {
     LEFT,
     -10,
     0,
-    "FCOCS_MailSubjectsContextMenu",
+    "TweakMailSubjectsContextMenu",
     "Mail subjects"
   )
   addFieldTriangleButton(
@@ -120,7 +120,7 @@ function addMailContextmenuButtons(this: void): undefined {
     TOPLEFT,
     -10,
     0,
-    "FCOCS_MailTextsContextMenu",
+    "TweakMailTextsContextMenu",
     "Mail texts"
   )
 

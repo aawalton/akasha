@@ -8,7 +8,7 @@ import { muteSFXSound } from "akasha/temper/addon/pages/temper-core/temper-inter
 import { togglePromotionalEventTrackerUi } from "akasha/temper/addon/pages/temper-core/temper-interface/modules/tweak-ui/tweak-ui.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-interface/tweak-global-declarations/tweak-global-declarations.type-declaration.d.ts"
 
-globalThis.TemperFCOChangeStuff = {
+globalThis.TemperTweaks = {
   openLAMAddonSettings,
   playerPinPingPong,
   keybinds,

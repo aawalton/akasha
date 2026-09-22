@@ -26,14 +26,14 @@
   "dependsOn": [],
   "optionalDependsOn": [
     "LibGroupBroadcast",
-    "FCOChatTabBrain",
+    "TweakChatTabBrain",
     "pChat",
     "PerfectPixel",
     "MasterMerchant"
   ],
   "xmlFiles": {
     "beforeBundle": ["XML/TemperScrollableMenu.xml", "ShifterBox/ShifterBoxTemplate.xml"],
-    "afterBundle": ["NextBoss.xml", "XML/FCOCS_virtuals.xml"]
+    "afterBundle": ["NextBoss.xml", "XML/TweakVirtuals.xml"]
   },
   "assets": [
     "bin/textures/double_large_leftarrow_up.dds",

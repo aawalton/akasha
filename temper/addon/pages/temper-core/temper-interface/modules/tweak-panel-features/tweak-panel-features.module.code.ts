@@ -243,7 +243,7 @@ export function buildSoundsControls(
       setFunc: (value) => {
         settings.disableSoundsLibShifterBox = value
         updateDisabledSoundsShifterBoxState(
-          FCOCHANGESTUFF_LAM_CUSTOM_SOUNDS_DISABLE_PARENT,
+          TEMPERTWEAKS_LAM_CUSTOM_SOUNDS_DISABLE_PARENT,
           DISABLE_SOUNDS_SHIFTER_BOX_CONTROL.current
         )
         updateDisableSoundsShifterBoxEntries(DISABLE_SOUNDS_SHIFTER_BOX_CONTROL.current)
@@ -253,7 +253,7 @@ export function buildSoundsControls(
     },
     {
       type: "custom",
-      reference: "FCOCHANGESTUFF_LAM_CUSTOM_SOUNDS_DISABLE_PARENT",
+      reference: "TEMPERTWEAKS_LAM_CUSTOM_SOUNDS_DISABLE_PARENT",
       createFunc: (customControl) => {
         refreshSoundsShifterBox(customControl)
       },
@@ -281,7 +281,7 @@ export function buildMountsControls(
         settings.favoriteMountsContextMenu = value
         buildFavoriteMountsContextMenu()
         updateExcludedMountIdsShifterBoxState(
-          FCOCHANGESTUFF_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT,
+          TEMPERTWEAKS_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT,
           excludedMountIdsShifterBoxControl
         )
         updateExcludedMountIdsShifterBoxEntries(excludedMountIdsShifterBoxControl)
@@ -299,7 +299,7 @@ export function buildMountsControls(
     },
     {
       type: "custom",
-      reference: "FCOCHANGESTUFF_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT",
+      reference: "TEMPERTWEAKS_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT",
       createFunc: (customControl) => {
         refreshExcludedMountIdsShifterBox(customControl)
       },

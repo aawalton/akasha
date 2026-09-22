@@ -89,7 +89,7 @@ export function deleteProfileString(this: void, value: string): string {
 
 export const MAX_LAST_SAVED_ENTRIES = 25
 
-export const UNIQUE_SAVE_MAIL_VALUES_UPDATER_NAME = "FCOCS_saveMailUpdater"
+export const UNIQUE_SAVE_MAIL_VALUES_UPDATER_NAME = "TemperTweaks_saveMailUpdater"
 
 export const MAIL_FAVORITES_SAVED_LOWER: Record<string, Record<string, boolean | undefined>> = {}
 export const MAIL_TEXTS_SAVED_LOWER: Record<string, Record<string, boolean | undefined>> = {}
@@ -133,7 +133,7 @@ export function getMailSettings(this: void): MailSettings {
   if (isMailSettings(settings)) {
     return settings
   }
-  error("FCOCS mail: settings table missing")
+  error("Tweaks mail: settings table missing")
 }
 
 export function mailTextShortener(this: void, entryData: string): string {

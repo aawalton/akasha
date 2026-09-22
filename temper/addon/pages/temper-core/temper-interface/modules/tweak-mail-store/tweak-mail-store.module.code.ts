@@ -382,7 +382,7 @@ export function addToFavorites(
   return saveAsFavorit(fieldType, favoriteValue)
 }
 
-const ADD_MAIL_PROFILE_DIALOG = "FCOCS_ADD_MAIL_PROFILE_DIALOG"
+const ADD_MAIL_PROFILE_DIALOG = "TEMPERTWEAKS_ADD_MAIL_PROFILE_DIALOG"
 
 export function addToProfile(
   this: void,

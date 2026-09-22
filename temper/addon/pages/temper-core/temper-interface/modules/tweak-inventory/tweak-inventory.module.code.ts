@@ -33,7 +33,7 @@ function isBrandNewSlotData(this: void, value: unknown): value is BrandNewSlotDa
 }
 
 let NO_NEW_ITEM_ICON_HOOKED = false
-function fcocsNoNewItemIcon(this: void): undefined {
+function tweakNoNewItemIcon(this: void): undefined {
   if (!NO_NEW_ITEM_ICON_HOOKED) {
     ZO_PreHook(playerInv, "OnInventoryItemAdded", (...args: unknown[]): unknown => {
       if (STATE.settingsVars.settings.removeNewItemIcon !== true) {
@@ -67,7 +67,7 @@ function fcocsNoNewItemIcon(this: void): undefined {
 }
 
 let NO_SELLABLE_ITEM_HOOK_DONE = false
-function fcocsNoNotSellableItemIcon(this: void): undefined {
+function tweakNoNotSellableItemIcon(this: void): undefined {
   if (!NO_SELLABLE_ITEM_HOOK_DONE) {
     ZO_PreHook("ZO_UpdateSellInformationControlIcon", (): unknown => {
       const settingsRemoveSellIconEnabled = STATE.settingsVars.settings.removeSellItemIcon
@@ -78,7 +78,7 @@ function fcocsNoNotSellableItemIcon(this: void): undefined {
 }
 
 let NO_NEW_ITEMS_LIST_HOOK_DONE = false
-function fcocsNoNewItemItemsList(this: void): undefined {
+function tweakNoNewItemItemsList(this: void): undefined {
   const stateChangeRegistry = INVENTORY_FRAGMENT.callbackRegistry?.StateChange
   if (
     !NO_NEW_ITEMS_LIST_HOOK_DONE &&
@@ -126,7 +126,7 @@ function isLearnableSlotData(this: void, value: unknown): value is LearnableSlot
 }
 
 let NO_LEARNABLE_ITEM_ICON_HOOKED = false
-function fcocsLearnableItemIconChanges(this: void): undefined {
+function tweakLearnableItemIconChanges(this: void): undefined {
   if (!NO_LEARNABLE_ITEM_ICON_HOOKED) {
     const canLearnIconTexture = "EsoUI/Art/Inventory/inventory_can_learn_icon.dds"
 
@@ -301,16 +301,16 @@ function fcocsLearnableItemIconChanges(this: void): undefined {
 }
 
 function noNewItemIcon(this: void): undefined {
-  fcocsNoNewItemIcon()
-  fcocsNoNewItemItemsList()
+  tweakNoNewItemIcon()
+  tweakNoNewItemItemsList()
 }
 
 function learnableItemIconChanges(this: void): undefined {
-  fcocsLearnableItemIconChanges()
+  tweakLearnableItemIconChanges()
 }
 
 function noNotSellableItemIcon(this: void): undefined {
-  fcocsNoNotSellableItemIcon()
+  tweakNoNotSellableItemIcon()
 }
 
 let PRE_HOOK_NEW_MENU_CATEGORY_FLASH_WAS_DONE = false

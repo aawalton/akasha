@@ -229,7 +229,7 @@ function buildSoundsShifterBox(this: void, parentCtrl: Control | undefined): und
   STATE.LSB = SHIFTER_BOX
   const disableSoundsShifterBox = SHIFTER_BOX(
     addonName,
-    "FCOCHANGESTUFF_LAM_CUSTOM_SOUNDS_DISABLE_PARENT_LSB",
+    "TEMPERTWEAKS_LAM_CUSTOM_SOUNDS_DISABLE_PARENT_LSB",
     parentCtrl,
     DISABLE_SOUNDS_SHIFTER_BOX_CUSTOM_SETTINGS
   )

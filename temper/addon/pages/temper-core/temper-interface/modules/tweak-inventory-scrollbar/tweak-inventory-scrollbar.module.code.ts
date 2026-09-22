@@ -74,7 +74,7 @@ function createOrUpdateScrollBarButton(
     return undefined
   }
   const scrollbarTypeStr = isVertical === true ? "vertical" : "horizontal"
-  const buttonsCache = scrollbar.FCOChangeStuffScrollbarButtons
+  const buttonsCache = scrollbar.TemperTweaksScrollbarButtons
   if (buttonsCache === undefined || buttonsCache[scrollbarTypeStr] === undefined) {
     return undefined
   }
@@ -87,15 +87,15 @@ function createOrUpdateScrollBarButton(
     if (isVertical === true) {
       if (topOrBottom === true) {
         scrollButtonCtrl = CreateControlFromVirtual(
-          scrollbar.GetName() + "_FCOCS_ScrollToTopButton",
+          scrollbar.GetName() + "_TweakScrollToTopButton",
           scrollbar,
-          "FCOCS_VerticalScroll_ToTop_Template"
+          "TweakVerticalScroll_ToTop_Template"
         )
       } else {
         scrollButtonCtrl = CreateControlFromVirtual(
-          scrollbar.GetName() + "_FCOCS_ScrollToBottomButton",
+          scrollbar.GetName() + "_TweakScrollToBottomButton",
           scrollbar,
-          "FCOCS_VerticalScroll_ToBottom_Template"
+          "TweakVerticalScroll_ToBottom_Template"
         )
       }
       if (scrollButtonCtrl !== undefined && directionCache !== undefined) {
@@ -130,8 +130,8 @@ function addScrollbarButton(
   if (scrollbar === undefined || isVertical === undefined || topOrBottom === undefined) {
     return
   }
-  const cache: ScrollbarButtonsCache = scrollbar.FCOChangeStuffScrollbarButtons ?? {}
-  scrollbar.FCOChangeStuffScrollbarButtons = cache
+  const cache: ScrollbarButtonsCache = scrollbar.TemperTweaksScrollbarButtons ?? {}
+  scrollbar.TemperTweaksScrollbarButtons = cache
   const scrollbarTypeStr = isVertical === true ? "vertical" : "horizontal"
   cache[scrollbarTypeStr] = cache[scrollbarTypeStr] ?? {}
 
@@ -152,8 +152,8 @@ export function verticalScrollbarHacks(this: void): undefined {
       const scrollbarCtrl = scrollbarParentCtrl.scrollbar
       if (scrollbarCtrl !== undefined) {
         if (
-          scrollbarCtrl.FCOChangeStuffScrollbarButtons === undefined ||
-          scrollbarCtrl.FCOChangeStuffScrollbarButtons.vertical === undefined
+          scrollbarCtrl.TemperTweaksScrollbarButtons === undefined ||
+          scrollbarCtrl.TemperTweaksScrollbarButtons.vertical === undefined
         ) {
           if (showScrollUpDownButtonsAtVerticalScrollbar === true) {
             addScrollbarButton(scrollbarCtrl, true, true)

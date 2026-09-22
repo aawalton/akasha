@@ -203,7 +203,7 @@ function createGuildHistoryFirstAndLastNavigationButtons(this: void): undefined 
     return
   }
   const firstPageButton = CreateControl(
-    "FCOChangeStuff_GuildHistory_Nav_FirstPageButton",
+    "TemperTweaks_GuildHistory_Nav_FirstPageButton",
     footerCtrl,
     CT_BUTTON
   )
@@ -234,7 +234,7 @@ function createGuildHistoryFirstAndLastNavigationButtons(this: void): undefined 
     firstBtn.SetAnchor(RIGHT, prevButton, LEFT, -10, 0)
   }
   const lastPageButton = CreateControl(
-    "FCOChangeStuff_GuildHistory_Nav_LastPageButton",
+    "TemperTweaks_GuildHistory_Nav_LastPageButton",
     footerCtrl,
     CT_BUTTON
   )
@@ -326,7 +326,7 @@ export function guildHistoryNavigationHelper(this: void): undefined {
     }
 
     if (!SECURE_POSTHOOK_OF_GUILD_HISTORY_KEYBOARD_GET_MORE_KEYBIND_WAS_DONE) {
-      const updateHandlerName = "FCOCS_GuildHistory_TryAdvanceToLastPage"
+      const updateHandlerName = "TemperTweaks_GuildHistory_TryAdvanceToLastPage"
       let triesExecuted = 0
 
       function tryAdvanceToLastPage(

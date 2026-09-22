@@ -76,7 +76,7 @@ function parseChatMatch(this: void, captured: string | undefined): string | unde
   return captured
 }
 
-function fcocsChatMessageChannel(
+function tweakChatMessageChannel(
   this: void,
   messageType: number,
   fromNameFormatted: string,
@@ -126,7 +126,7 @@ function fcocsChatMessageChannel(
       const postingTime = ZO_FormatTime(SECONDS_SINCE_MIDNIGHT, lTIMEFormat, lCLOCKFormat)
       d(
         zo_strformat(
-          '<<1>>: [FCOCS]Blacklisted "<<2>>" in message "<<3>>", posted by "<<4>>" in channel "<<5>>"',
+          '<<1>>: [Tweaks]Blacklisted "<<2>>" in message "<<3>>", posted by "<<4>>" in channel "<<5>>"',
           postingTime,
           keyWordFound,
           msgText,
@@ -140,7 +140,7 @@ function fcocsChatMessageChannel(
   return false
 }
 
-function fcocsFilterChatMessage(
+function tweakFilterChatMessage(
   this: void,
   messageType: number,
   fromName: string,
@@ -177,10 +177,10 @@ function fcocsFilterChatMessage(
   ) {
     return false
   }
-  return fcocsChatMessageChannel(messageType, postingPerson, chatText)
+  return tweakChatMessageChannel(messageType, postingPerson, chatText)
 }
 
-function fcocsOnChatMessageChannel(
+function tweakOnChatMessageChannel(
   this: void,
   messageType: number,
   fromName: string,
@@ -200,7 +200,7 @@ function fcocsOnChatMessageChannel(
     if (settings.blacklistedTextToChat === true) {
       SECONDS_SINCE_MIDNIGHT = GetSecondsSinceMidnight()
     }
-    const chatMessageWasBlacklisted = fcocsFilterChatMessage(messageType, fromName, text)
+    const chatMessageWasBlacklisted = tweakFilterChatMessage(messageType, fromName, text)
     if (chatMessageWasBlacklisted) {
       return true
     }
@@ -225,7 +225,7 @@ export function chatBlacklist(this: void): undefined {
         const messageType = asNumber(rest[0])
         const fromName = asString(rest[1])
         const text = asString(rest[2])
-        return fcocsOnChatMessageChannel(messageType, fromName, text)
+        return tweakOnChatMessageChannel(messageType, fromName, text)
       }
     )
     CHAT_BLACKLIST_HOOK_DONE = true
