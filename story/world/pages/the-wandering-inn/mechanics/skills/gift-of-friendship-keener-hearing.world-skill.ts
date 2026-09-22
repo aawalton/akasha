@@ -6,5 +6,6 @@ export const giftOfFriendshipKeenerHearing = {
   slug: "gift-of-friendship-keener-hearing",
   title: "Gift of Friendship: Keener Hearing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

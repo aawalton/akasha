@@ -6,5 +6,6 @@ export const guildSpidergripMobility = {
   slug: "guild-spidergrip-mobility",
   title: "Guild: Spidergrip Mobility",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

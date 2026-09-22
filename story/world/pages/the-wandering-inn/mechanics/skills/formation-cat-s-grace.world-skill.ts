@@ -6,5 +6,6 @@ export const formationCatSGrace = {
   slug: "formation-cat-s-grace",
   title: "Formation: Cat’s Grace",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

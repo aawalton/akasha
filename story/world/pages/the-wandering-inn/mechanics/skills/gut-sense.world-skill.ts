@@ -6,5 +6,6 @@ export const gutSense = {
   slug: "gut-sense",
   title: "Gut Sense",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

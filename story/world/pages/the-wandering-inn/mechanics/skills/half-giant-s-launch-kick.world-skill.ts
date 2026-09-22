@@ -6,5 +6,6 @@ export const halfGiantSLaunchKick = {
   slug: "half-giant-s-launch-kick",
   title: "Half-Giant’s Launch Kick",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

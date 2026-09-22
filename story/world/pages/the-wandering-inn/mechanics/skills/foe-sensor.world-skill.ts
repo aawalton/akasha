@@ -6,5 +6,6 @@ export const foeSensor = {
   slug: "foe-sensor",
   title: "Foe Sensor",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

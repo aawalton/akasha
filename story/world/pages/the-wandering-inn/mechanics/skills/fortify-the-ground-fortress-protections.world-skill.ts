@@ -6,5 +6,6 @@ export const fortifyTheGroundFortressProtections = {
   slug: "fortify-the-ground-fortress-protections",
   title: "Fortify the Ground: Fortress Protections",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const goblinbaneUnitSupremeWeaponProficiencySwords = {
   slug: "goblinbane-unit-supreme-weapon-proficiency-swords",
   title: "Goblinbane Unit — Supreme Weapon Proficiency: Swords",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

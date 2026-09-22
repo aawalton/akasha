@@ -6,5 +6,6 @@ export const greaterIllusionDoor = {
   slug: "greater-illusion-door",
   title: "Greater Illusion (Door)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

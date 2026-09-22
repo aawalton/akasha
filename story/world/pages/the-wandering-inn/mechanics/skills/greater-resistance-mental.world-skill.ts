@@ -6,5 +6,6 @@ export const greaterResistanceMental = {
   slug: "greater-resistance-mental",
   title: "Greater Resistance: Mental",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const freeSwapEquipment = {
   slug: "free-swap-equipment",
   title: "Free Swap: Equipment",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

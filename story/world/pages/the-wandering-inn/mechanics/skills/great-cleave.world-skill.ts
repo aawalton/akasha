@@ -6,5 +6,6 @@ export const greatCleave = {
   slug: "great-cleave",
   title: "Great Cleave",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

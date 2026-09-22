@@ -6,5 +6,6 @@ export const greaterMiracleGiveMeSomethingToBelieveIn = {
   slug: "greater-miracle-give-me-something-to-believe-in",
   title: "Greater Miracle: Give Me Something to Believe In",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

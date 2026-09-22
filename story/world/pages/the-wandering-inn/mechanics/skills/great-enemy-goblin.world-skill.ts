@@ -6,5 +6,6 @@ export const greatEnemyGoblin = {
   slug: "great-enemy-goblin",
   title: "Great Enemy: Goblin",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

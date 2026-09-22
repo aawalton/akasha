@@ -6,5 +6,6 @@ export const frenzyAnAgonizingRevelation = {
   slug: "frenzy-an-agonizing-revelation",
   title: "Frenzy: An Agonizing Revelation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

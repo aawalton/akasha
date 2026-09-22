@@ -6,5 +6,6 @@ export const frozenFloor = {
   slug: "frozen-floor",
   title: "Frozen Floor",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

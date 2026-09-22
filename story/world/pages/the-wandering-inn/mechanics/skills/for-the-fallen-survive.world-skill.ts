@@ -6,5 +6,6 @@ export const forTheFallenSurvive = {
   slug: "for-the-fallen-survive",
   title: "For the Fallen, Survive",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

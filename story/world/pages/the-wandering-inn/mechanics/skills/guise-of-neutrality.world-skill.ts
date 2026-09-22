@@ -6,5 +6,6 @@ export const guiseOfNeutrality = {
   slug: "guise-of-neutrality",
   title: "Guise of Neutrality",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

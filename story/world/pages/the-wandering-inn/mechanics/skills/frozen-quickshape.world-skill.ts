@@ -6,5 +6,6 @@ export const frozenQuickshape = {
   slug: "frozen-quickshape",
   title: "Frozen Quickshape",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

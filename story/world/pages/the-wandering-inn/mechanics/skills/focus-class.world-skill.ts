@@ -6,5 +6,6 @@ export const focusClass = {
   slug: "focus-class",
   title: "Focus, Class",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

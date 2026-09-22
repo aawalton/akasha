@@ -6,5 +6,6 @@ export const groundedAdvance = {
   slug: "grounded-advance",
   title: "Grounded Advance",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

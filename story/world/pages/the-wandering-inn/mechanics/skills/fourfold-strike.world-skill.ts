@@ -6,5 +6,6 @@ export const fourfoldStrike = {
   slug: "fourfold-strike",
   title: "Fourfold Strike",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

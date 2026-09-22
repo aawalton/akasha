@@ -6,5 +6,6 @@ export const goldenYieldMasterHelm = {
   slug: "golden-yield-master-helm",
   title: "Golden Yield: Master Helm",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

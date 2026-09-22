@@ -6,5 +6,6 @@ export const greaterPainTolerance = {
   slug: "greater-pain-tolerance",
   title: "Greater Pain Tolerance",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

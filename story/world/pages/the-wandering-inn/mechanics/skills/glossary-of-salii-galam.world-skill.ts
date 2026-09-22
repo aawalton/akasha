@@ -6,5 +6,6 @@ export const glossaryOfSaliiGalam = {
   slug: "glossary-of-salii-galam",
   title: "Glossary of Salii: Galam",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

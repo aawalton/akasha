@@ -6,5 +6,6 @@ export const formSquadMyCompanionsAreWithMe = {
   slug: "form-squad-my-companions-are-with-me",
   title: "Form Squad: My Companions Are With Me",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

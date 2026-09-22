@@ -6,6 +6,7 @@ export const fullBodyThrow = {
   slug: "full-body-throw",
   title: "Full Body Throw",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   aliases: ["Full-Body Throw"],
   references: "jsonl",
 } as const satisfies WorldSkill

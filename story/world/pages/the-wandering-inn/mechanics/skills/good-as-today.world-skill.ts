@@ -6,5 +6,6 @@ export const goodAsToday = {
   slug: "good-as-today",
   title: "Good as Today",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const focusFire = {
   slug: "focus-fire",
   title: "Focus Fire",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

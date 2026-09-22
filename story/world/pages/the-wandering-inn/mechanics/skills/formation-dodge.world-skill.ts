@@ -6,5 +6,6 @@ export const formationDodge = {
   slug: "formation-dodge",
   title: "Formation: Dodge",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

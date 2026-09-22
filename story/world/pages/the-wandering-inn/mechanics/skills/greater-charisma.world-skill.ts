@@ -6,6 +6,7 @@ export const greaterCharisma = {
   slug: "greater-charisma",
   title: "Greater Charisma",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesFromSlugs: ["lesser-charisma"],
   references: "jsonl",
 } as const satisfies WorldSkill

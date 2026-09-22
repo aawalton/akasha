@@ -6,6 +6,7 @@ export const getOffMyShip = {
   slug: "get-off-my-ship",
   title: "Get Off My Ship",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   aliases: ["Get off My Ship"],
   references: "jsonl",
 } as const satisfies WorldSkill

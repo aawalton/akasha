@@ -6,5 +6,6 @@ export const gravitasOfTheMonuments = {
   slug: "gravitas-of-the-monuments",
   title: "Gravitas of the Monuments",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

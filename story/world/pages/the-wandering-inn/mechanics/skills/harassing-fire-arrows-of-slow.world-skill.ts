@@ -6,5 +6,6 @@ export const harassingFireArrowsOfSlow = {
   slug: "harassing-fire-arrows-of-slow",
   title: "Harassing Fire: Arrows of Slow",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

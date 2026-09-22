@@ -6,5 +6,6 @@ export const fromMindAccurateSketch = {
   slug: "from-mind-accurate-sketch",
   title: "From Mind, Accurate Sketch",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

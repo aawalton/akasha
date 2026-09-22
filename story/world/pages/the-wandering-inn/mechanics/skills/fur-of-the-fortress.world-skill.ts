@@ -6,5 +6,6 @@ export const furOfTheFortress = {
   slug: "fur-of-the-fortress",
   title: "Fur of the Fortress",
   world: "world/the-wandering-inn",
+  appearanceCount: 9,
   references: "jsonl",
 } as const satisfies WorldSkill

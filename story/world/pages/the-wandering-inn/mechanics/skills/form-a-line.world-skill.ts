@@ -6,5 +6,6 @@ export const formALine = {
   slug: "form-a-line",
   title: "Form a Line",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   references: "jsonl",
 } as const satisfies WorldSkill

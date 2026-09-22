@@ -6,5 +6,6 @@ export const friendsPrimalAwakening = {
   slug: "friends-primal-awakening",
   title: "Friends: Primal Awakening",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

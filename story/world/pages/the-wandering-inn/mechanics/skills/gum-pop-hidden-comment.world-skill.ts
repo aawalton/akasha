@@ -6,5 +6,6 @@ export const gumPopHiddenComment = {
   slug: "gum-pop-hidden-comment",
   title: "Gum Pop: Hidden Comment",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

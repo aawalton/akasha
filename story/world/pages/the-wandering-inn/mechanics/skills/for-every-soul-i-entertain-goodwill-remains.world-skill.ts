@@ -6,5 +6,6 @@ export const forEverySoulIEntertainGoodwillRemains = {
   slug: "for-every-soul-i-entertain-goodwill-remains",
   title: "For Every Soul I Entertain, Goodwill Remains",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
