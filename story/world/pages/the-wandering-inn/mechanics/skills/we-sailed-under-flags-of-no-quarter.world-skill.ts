@@ -6,5 +6,6 @@ export const weSailedUnderFlagsOfNoQuarter = {
   slug: "we-sailed-under-flags-of-no-quarter",
   title: "We Sailed Under Flags of No Quarter",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

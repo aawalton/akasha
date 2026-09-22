@@ -6,5 +6,6 @@ export const weakLuckyDraw = {
   slug: "weak-lucky-draw",
   title: "Weak Lucky Draw",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

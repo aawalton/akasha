@@ -6,5 +6,6 @@ export const weakFrostResistance = {
   slug: "weak-frost-resistance",
   title: "Weak Frost Resistance",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

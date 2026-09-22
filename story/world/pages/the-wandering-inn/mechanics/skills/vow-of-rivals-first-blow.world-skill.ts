@@ -6,5 +6,6 @@ export const vowOfRivalsFirstBlow = {
   slug: "vow-of-rivals-first-blow",
   title: "Vow of Rivals: First Blow",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

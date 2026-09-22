@@ -6,5 +6,6 @@ export const vowOfTheBladelessSmithDeclared = {
   slug: "vow-of-the-bladeless-smith-declared",
   title: "Vow of the Bladeless Smith declared.",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

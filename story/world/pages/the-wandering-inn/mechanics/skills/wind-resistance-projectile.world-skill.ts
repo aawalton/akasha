@@ -6,5 +6,6 @@ export const windResistanceProjectile = {
   slug: "wind-resistance-projectile",
   title: "Wind Resistance: Projectile",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

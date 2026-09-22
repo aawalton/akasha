@@ -6,5 +6,6 @@ export const warCryEleleu = {
   slug: "war-cry-eleleu",
   title: "War Cry: Eleleu",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

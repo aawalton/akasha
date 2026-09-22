@@ -6,5 +6,6 @@ export const whirlwindCleave = {
   slug: "whirlwind-cleave",
   title: "Whirlwind Cleave",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   references: "jsonl",
 } as const satisfies WorldSkill

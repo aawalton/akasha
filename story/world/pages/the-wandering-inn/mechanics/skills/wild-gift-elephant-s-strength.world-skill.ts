@@ -6,5 +6,6 @@ export const wildGiftElephantSStrength = {
   slug: "wild-gift-elephant-s-strength",
   title: "Wild Gift: Elephant’s Strength",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

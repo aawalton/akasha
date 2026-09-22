@@ -6,6 +6,7 @@ export const whereIMNeededIAm6Locations = {
   slug: "where-i-m-needed-i-am-6-locations",
   title: "Where I’m Needed, I Am (6 Locations)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   evolvesFromSlugs: ["never-late-to-work-bound-location"],
   references: "jsonl",
 } as const satisfies WorldSkill

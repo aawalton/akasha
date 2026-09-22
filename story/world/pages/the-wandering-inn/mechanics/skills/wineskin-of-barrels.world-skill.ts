@@ -6,5 +6,6 @@ export const wineskinOfBarrels = {
   slug: "wineskin-of-barrels",
   title: "Wineskin of Barrels",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

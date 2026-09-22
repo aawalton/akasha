@@ -6,5 +6,6 @@ export const weaponMomentOfTheHalfGiant = {
   slug: "weapon-moment-of-the-half-giant",
   title: "Weapon: Moment of the Half Giant",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

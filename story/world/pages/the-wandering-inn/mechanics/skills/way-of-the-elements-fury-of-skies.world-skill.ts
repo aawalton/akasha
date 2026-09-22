@@ -6,5 +6,6 @@ export const wayOfTheElementsFuryOfSkies = {
   slug: "way-of-the-elements-fury-of-skies",
   title: "Way of the Elements: Fury of Skies",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

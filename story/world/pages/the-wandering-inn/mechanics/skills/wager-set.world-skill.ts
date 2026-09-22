@@ -6,5 +6,6 @@ export const wagerSet = {
   slug: "wager-set",
   title: "Wager Set",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

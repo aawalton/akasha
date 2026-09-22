@@ -6,6 +6,7 @@ export const worldOfYouAndMe = {
   slug: "world-of-you-and-me",
   title: "World of You and Me",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   aliases: ["World of You And Me"],
   references: "jsonl",
 } as const satisfies WorldSkill

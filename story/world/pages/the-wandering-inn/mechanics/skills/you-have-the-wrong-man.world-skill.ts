@@ -6,5 +6,6 @@ export const youHaveTheWrongMan = {
   slug: "you-have-the-wrong-man",
   title: "You Have the Wrong Man",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

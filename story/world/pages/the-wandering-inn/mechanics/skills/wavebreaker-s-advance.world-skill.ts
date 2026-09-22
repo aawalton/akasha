@@ -6,5 +6,6 @@ export const wavebreakerSAdvance = {
   slug: "wavebreaker-s-advance",
   title: "Wavebreaker’s Advance",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

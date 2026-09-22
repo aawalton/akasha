@@ -6,5 +6,6 @@ export const youAreHumanitySFinest = {
   slug: "you-are-humanity-s-finest",
   title: "You Are Humanity’s Finest",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const weaponExtendedRange5Feet = {
   slug: "weapon-extended-range-5-feet",
   title: "Weapon: Extended Range (5 Feet)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

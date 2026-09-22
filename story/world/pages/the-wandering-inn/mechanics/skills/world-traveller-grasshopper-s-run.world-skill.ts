@@ -6,5 +6,6 @@ export const worldTravellerGrasshopperSRun = {
   slug: "world-traveller-grasshopper-s-run",
   title: "World Traveller: Grasshopper’s Run",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

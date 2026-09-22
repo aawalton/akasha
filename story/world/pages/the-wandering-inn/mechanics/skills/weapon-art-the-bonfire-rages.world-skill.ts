@@ -6,5 +6,6 @@ export const weaponArtTheBonfireRages = {
   slug: "weapon-art-the-bonfire-rages",
   title: "Weapon Art: The Bonfire Rages",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

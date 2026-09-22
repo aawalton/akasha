@@ -6,5 +6,6 @@ export const visionOfCompletionProjectionOfFactors = {
   slug: "vision-of-completion-projection-of-factors",
   title: "Vision of Completion: Projection of Factors",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

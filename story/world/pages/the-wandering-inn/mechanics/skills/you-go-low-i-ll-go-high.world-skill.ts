@@ -6,5 +6,6 @@ export const youGoLowILlGoHigh = {
   slug: "you-go-low-i-ll-go-high",
   title: "You Go Low, I’ll Go High",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

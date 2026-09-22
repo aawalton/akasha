@@ -6,5 +6,6 @@ export const whoCanSmile = {
   slug: "who-can-smile",
   title: "Who Can Smile",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

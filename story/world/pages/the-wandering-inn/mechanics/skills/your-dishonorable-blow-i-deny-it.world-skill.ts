@@ -6,5 +6,6 @@ export const yourDishonorableBlowIDenyIt = {
   slug: "your-dishonorable-blow-i-deny-it",
   title: "Your Dishonorable Blow, I Deny It",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

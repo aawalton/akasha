@@ -6,5 +6,6 @@ export const webworkRiposte = {
   slug: "webwork-riposte",
   title: "Webwork Riposte",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

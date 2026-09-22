@@ -6,5 +6,6 @@ export const visualizeOutcomes = {
   slug: "visualize-outcomes",
   title: "Visualize Outcomes",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

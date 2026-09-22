@@ -6,6 +6,7 @@ export const yawningBite = {
   slug: "yawning-bite",
   title: "Yawning Bite",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   evolvesFromSlugs: ["huge-chomp"],
   references: "jsonl",
 } as const satisfies WorldSkill

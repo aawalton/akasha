@@ -6,5 +6,6 @@ export const visualizeDataSet = {
   slug: "visualize-data-set",
   title: "Visualize Data Set",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

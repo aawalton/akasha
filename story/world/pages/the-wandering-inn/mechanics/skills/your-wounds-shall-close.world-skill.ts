@@ -6,5 +6,6 @@ export const yourWoundsShallClose = {
   slug: "your-wounds-shall-close",
   title: "Your Wounds Shall Close",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

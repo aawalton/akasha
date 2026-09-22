@@ -6,5 +6,6 @@ export const volatileMix = {
   slug: "volatile-mix",
   title: "Volatile Mix",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
