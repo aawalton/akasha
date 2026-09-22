@@ -6,7 +6,7 @@ export const restoreMagicka = {
   slug: "restore-magicka",
   title: "Restore Magicka",
   key: "restore-magicka",
-  oppositeId: "ravage-magicka",
+  opposite: "ravage-magicka",
   cooldown: 10,
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

@@ -8,6 +8,6 @@ export const breach = {
   key: "breach",
   icon: "resources/crafting_alchemy_trait_lowerspellresist.png",
   isPositive: false,
-  oppositeId: "increase-spell-resist",
+  opposite: "increase-spell-resist",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

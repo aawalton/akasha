@@ -8,6 +8,6 @@ export const increaseWeaponPower = {
   key: "increase-weapon-power",
   icon: "resources/crafting_alchemy_trait_increaseweaponpower.png",
   isPositive: true,
-  oppositeId: "maim",
+  opposite: "maim",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

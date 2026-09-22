@@ -8,6 +8,6 @@ export const lingeringHealth = {
   key: "lingering-health",
   icon: "resources/crafting_poison_trait_hot.png",
   isPositive: true,
-  oppositeId: "gradual-ravage-health",
+  opposite: "gradual-ravage-health",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

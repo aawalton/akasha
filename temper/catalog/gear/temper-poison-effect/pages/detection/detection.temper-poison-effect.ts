@@ -8,6 +8,6 @@ export const detection = {
   key: "detection",
   icon: "resources/crafting_alchemy_trait_detection.png",
   isPositive: true,
-  oppositeId: "invisible",
+  opposite: "invisible",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

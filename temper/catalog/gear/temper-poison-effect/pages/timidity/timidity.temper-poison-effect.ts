@@ -8,6 +8,6 @@ export const timidity = {
   key: "timidity",
   icon: "resources/crafting_alchemy_trait_timidity.png",
   isPositive: false,
-  oppositeId: "heroism",
+  opposite: "heroism",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

@@ -4,7 +4,7 @@ export const oppositeId = {
   id: "01a05fd1-d43d-7ade-8dad-6cb14825b926",
   type: "page-type/text-property",
   slug: "opposite-id",
-  propertySlug: "opposite-id",
+  propertySlug: "opposite",
   definition: "the alchemy effect undoing what this one does",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",

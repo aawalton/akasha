@@ -8,6 +8,6 @@ export const fracture = {
   key: "fracture",
   icon: "resources/crafting_alchemy_trait_lowerarmor.png",
   isPositive: false,
-  oppositeId: "increase-armor",
+  opposite: "increase-armor",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

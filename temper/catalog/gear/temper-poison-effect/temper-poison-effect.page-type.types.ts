@@ -6,7 +6,7 @@ import type { Key } from "akasha/temper/thing/properties/key.text-property.types
 
 export type TemperPoisonEffect = TemperGearThing & {
   key: Key
-  oppositeId: OppositeId
+  opposite: OppositeId
   isPositive?: IsPositive
   cooldown?: Cooldown
 }

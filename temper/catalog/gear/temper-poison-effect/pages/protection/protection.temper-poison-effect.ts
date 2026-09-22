@@ -8,6 +8,6 @@ export const protection = {
   key: "protection",
   icon: "resources/crafting_poison_trait_protection.png",
   isPositive: true,
-  oppositeId: "vulnerability",
+  opposite: "vulnerability",
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect

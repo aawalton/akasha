@@ -6,7 +6,7 @@ export const increaseSpellResist = {
   slug: "increase-spell-resist",
   title: "Increase Spell Resistance",
   key: "increase-spell-resist",
-  oppositeId: "breach",
+  opposite: "breach",
   cooldown: 10,
   effects: "jsonl",
 } as const satisfies TemperPoisonEffect
