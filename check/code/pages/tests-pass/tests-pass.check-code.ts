@@ -213,7 +213,7 @@ export const testsPass = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run that failed is reported against the first file its output blames.",
+      statement: "A run that failed is reported once against each file its output blames.",
     },
     {
       decisionKind: "decision-kind/departure",

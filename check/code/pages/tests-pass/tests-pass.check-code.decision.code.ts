@@ -173,13 +173,13 @@ function bodiesOf(change: Change, shadow: Shadow): Bodies {
   return held
 }
 
-export function refusedOf(ran: Ran, named: readonly string[], first: string): Judged {
+export function refusedOf(ran: Ran, named: readonly string[], first: string): readonly Judged[] {
   const failing = failedIn(ran.output, named)
-  return {
-    path: ran.slow[0]?.path ?? failing[0] ?? first,
-    reason: reasonOf(ran, named, failing),
-    ...(ran.verdict === "slow" ? { slow: true } : {}),
-  }
+  const reason = reasonOf(ran, named, failing)
+  const slow = ran.verdict === "slow"
+  const blamed = slow && ran.slow.length > 0 ? ran.slow.map((one) => one.path) : failing
+  const each = blamed.length === 0 ? [first] : blamed
+  return each.map((path) => ({ path, reason, ...(slow ? { slow: true } : {}) }))
 }
 
 const PHASE = "test"
@@ -236,6 +236,7 @@ export async function refusalsOver(given: Change, shadow: Shadow): Promise<reado
   const judged = refusedOf(said, named, first)
   const absent = absentFrom(change.root, named, bodies)
   const blamed = absent[0]
-  if (blamed === undefined) return [judged]
-  return [{ path: blamed.path, reason: `${absentlyOf(absent)}${judged.reason}` }]
+  if (blamed === undefined) return judged
+  const reason = judged[0]?.reason ?? ""
+  return [{ path: blamed.path, reason: `${absentlyOf(absent)}${reason}` }, ...judged]
 }

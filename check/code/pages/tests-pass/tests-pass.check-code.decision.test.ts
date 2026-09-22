@@ -60,7 +60,7 @@ test("a run over the ceiling is refused by naming each file over it, and says it
   expect(said).toContain(at)
   expect(said).toContain("a test file is given 5 processor seconds")
   expect(said).toContain("The tests themselves are green")
-  expect(refusedOf(ran, [at], at).slow).toBe(true)
+  expect(refusedOf(ran, [at], at)).toEqual([{ path: at, reason: said, slow: true }])
 })
 
 test("a measuring run names each file beside the seconds that file spent", () => {
@@ -219,27 +219,30 @@ test("a run under a change that moves a page type resolves that page type where 
   expect(said).toEqual([])
 })
 
-test("a failing run is reported against the file whose tests failed", () => {
+test("a failing run is reported against the file whose tests failed, and that file alone", () => {
   const named = [COUNTED_AT, SORTED_AT].sort()
   expect(named[0]).toBe(SORTED_AT)
   const ran = ranAs("fail", { files: 2, failed: 1, passed: 7 }, AUTHORED_ONE_FAILED)
-  expect(refusedOf(ran, named, SORTED_AT).path).toBe(COUNTED_AT)
-  expect(refusedOf(ran, named, SORTED_AT).slow).toBeUndefined()
+  const said = refusedOf(ran, named, SORTED_AT)
+  expect(said.map((one) => one.path)).toEqual([COUNTED_AT])
+  expect(said[0]?.slow).toBeUndefined()
 })
 
-test("that refusal names each file the output blames", () => {
+test("a run with two red files is refused once for each, and each refusal carries the run", () => {
   const named = [SORTED_AT, COUNTED_AT]
   const ran = ranAs("fail", { files: 2, failed: 3, passed: 3 }, AUTHORED_TWO_FAILED)
   const said = refusedOf(ran, named, SORTED_AT)
-  expect(said.path).toBe(SORTED_AT)
-  expect(said.reason).toContain("2 test files failed")
-  expect(said.reason).toContain(SORTED_AT)
-  expect(said.reason).toContain(COUNTED_AT)
+  expect(said.map((one) => one.path)).toEqual([SORTED_AT, COUNTED_AT])
+  for (const one of said) {
+    expect(one.reason).toContain("2 test files failed")
+    expect(one.reason).toContain(SORTED_AT)
+    expect(one.reason).toContain(COUNTED_AT)
+  }
 })
 
-test("a run whose output blames no file is reported against the first test file named", () => {
+test("a run whose output blames no file is reported once, against the first test file named", () => {
   const ran = ranAs("crash", { files: null, failed: null, passed: null })
-  expect(refusedOf(ran, ["one"], "one").path).toBe("one")
+  expect(refusedOf(ran, ["one"], "one").map((one) => one.path)).toEqual(["one"])
 })
 
 test("a file the output names that the run did not name is blamed by nothing", () => {
@@ -265,15 +268,15 @@ test("a failure under a file the run did not name blames no file", () => {
 test("a run that only errored is not said to have failed a count of tests", () => {
   const ran = ranAs("fail", { files: 1, failed: 0, passed: 5 }, AUTHORED_ERRORED)
   const said = refusedOf(ran, [SORTED_AT], SORTED_AT)
-  expect(said.path).toBe(SORTED_AT)
-  expect(said.reason).toContain("1 test file errored")
-  expect(said.reason).toContain("1 error was raised outside any test, and no test failed")
-  expect(said.reason).not.toContain("0 of 5 tests failed")
+  expect(said.map((one) => one.path)).toEqual([SORTED_AT])
+  expect(said[0]?.reason).toContain("1 test file errored")
+  expect(said[0]?.reason).toContain("1 error was raised outside any test, and no test failed")
+  expect(said[0]?.reason).not.toContain("0 of 5 tests failed")
 })
 
 test("a run that failed and errored counts both", () => {
   const ran = ranAs("fail", { files: 2, failed: 3, passed: 3 }, AUTHORED_TWO_FAILED)
-  expect(refusedOf(ran, [SORTED_AT, COUNTED_AT], SORTED_AT).reason).toContain(
+  expect(refusedOf(ran, [SORTED_AT, COUNTED_AT], SORTED_AT)[0]?.reason).toContain(
     "3 of 6 tests failed, and 1 error was raised outside any test"
   )
 })
@@ -324,22 +327,31 @@ test("the reason names a file where it stands in the change, not in the world it
   expect(said[0]?.reason).toContain("akasha/one.module.test.ts")
 })
 
-test("a file that throws as it loads is the file the refusal names", async () => {
+test("a file that throws as it loads and a file that fails are each refused by naming that file", async () => {
   const root = repo({
     "akasha/one.module.code.ts": "",
     "akasha/one.module.test.ts": PASSES,
     "akasha/two.module.code.ts": "",
     "akasha/two.module.test.ts": THROWS,
+    "akasha/three.module.code.ts": "",
+    "akasha/three.module.test.ts": FAILS,
   })
   const said = await withoutGuard(
     async () =>
       await refusalsOver(
-        change(root, ["akasha/one.module.code.ts", "akasha/two.module.code.ts"]),
+        change(root, [
+          "akasha/one.module.code.ts",
+          "akasha/two.module.code.ts",
+          "akasha/three.module.code.ts",
+        ]),
         shadowAt(root)
       )
   )
-  expect(said.length).toBe(1)
-  expect(said[0]?.path).toBe("akasha/two.module.test.ts")
+  expect(said.map((one) => one.path).sort()).toEqual([
+    "akasha/three.module.test.ts",
+    "akasha/two.module.test.ts",
+  ])
   expect(said[0]?.reason).toContain("Measured between 20")
   expect(said[0]?.reason).toContain("1 error was raised outside any test")
+  expect(said[1]?.reason).toBe(said[0]?.reason)
 })
