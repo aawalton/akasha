@@ -296,8 +296,6 @@ export const heldAt: string = indexedRepo({
 
 export const ADDRESSED_PAGE = "akasha/twelve/addressed-one.module.ts"
 
-export const ADDRESSED_CARRIED = "akasha/twelve/addressed-one.module.carried.jsonl"
-
 export const addressedAt: string = indexedRepo({
   [ADDRESSED_PAGE]: pageOf({
     id: idOf("b"),

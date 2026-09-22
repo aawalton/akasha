@@ -3,7 +3,6 @@ import { alanBook } from "akasha/alan/book/alan-book.page-type.ts"
 import { myMath } from "akasha/alan/book/pages/my-math/my-math.alan-book.ts"
 import { runChange } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
 import {
-  ADDRESSED_CARRIED,
   ADDRESSED_PAGE,
   addressedAt,
   HOLDER_CHILD,
@@ -85,10 +84,6 @@ const HELD_REFS = "akasha/one/held.module.referenced-by.jsonl"
 
 const CARRIED_REFS = "akasha/carried/carried.module.referenced-by.jsonl"
 
-const HELD_CARRIED = "akasha/one/held.module.carried.jsonl"
-
-const CARRIED_CARRIED = "akasha/carried/carried.module.carried.jsonl"
-
 const MY_MATH = `${alanBook.slug}/${myMath.slug}` as const
 
 const heldWas = textIn(heldAt)
@@ -165,7 +160,6 @@ test("a page's slug is renamed in its data, and its files are carried with it", 
   expect(movesOf(said)).toEqual([
     [HELD_PAGE, CARRIED_PAGE],
     [HELD_CODE, CARRIED_CODE],
-    [HELD_CARRIED, CARRIED_CARRIED],
     [HELD_REFS, CARRIED_REFS],
   ])
   expect(bodies.get(CARRIED_PAGE)).toBe(
@@ -202,7 +196,6 @@ test("a caller having restated every address already has no address restated her
   expect(movesOf(said)).toEqual([
     [HELD_PAGE, CARRIED_PAGE],
     [HELD_CODE, CARRIED_CODE],
-    [HELD_CARRIED, CARRIED_CARRIED],
     [HELD_REFS, CARRIED_REFS],
   ])
   expect(bodies.get(CARRIED_PAGE) ?? "").toContain(`"slug": "${CARRIED}"`)
@@ -224,7 +217,6 @@ test("a beside file is carried whichever kind of property holds that file", asyn
     [WIDE_CODE, CARRIED_CODE],
     [WIDE_SESSIONS, "akasha/carried/carried.module.sessions.jsonl"],
     [WIDE_FIXTURES, "akasha/carried/carried.module.test-fixtures.ts"],
-    ["akasha/four/wide.module.carried.jsonl", CARRIED_CARRIED],
   ])
 })
 
@@ -246,10 +238,6 @@ test("a page carries the uncommitted file its type declares though the page stat
   expect(movesOf(said)).toEqual([
     [KEPT_PAGE, KEPT_LANDS],
     [KEPT_ENTRIES, KEPT_LANDS_ENTRIES],
-    [
-      "akasha/kepts/first/first.kept.carried.jsonl",
-      "akasha/kepts/carried/carried.kept.carried.jsonl",
-    ],
   ])
 })
 
@@ -276,7 +264,6 @@ test("a page owning its folder carries what sits under that folder, each file on
   expect(movesOf(said)).toEqual([
     [OWNED_PAGE, CARRIED_PAGE],
     [OWNED_CODE, CARRIED_CODE],
-    ["akasha/owned/owned.module.carried.jsonl", CARRIED_CARRIED],
     [OWNED_UNDER, OWNED_LANDS],
   ])
 })
@@ -285,10 +272,7 @@ test("a page alone in its folder with no file beside it carries that folder too"
   const root = otherAt
   const said = await runChange(worldIn(root, textIn(root)), { at: LONE_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
-  expect(movesOf(said)).toEqual([
-    [LONE_PAGE, CARRIED_PAGE],
-    ["akasha/eleven/lone-one.module.carried.jsonl", CARRIED_CARRIED],
-  ])
+  expect(movesOf(said)).toEqual([[LONE_PAGE, CARRIED_PAGE]])
 })
 
 test("a folder under the one renamed is named again by what the new slug says", async () => {
@@ -297,16 +281,7 @@ test("a folder under the one renamed is named again by what the new slug says", 
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [HOLDER_PAGE, "akasha/holder/holder.module.ts"],
-    ["akasha/holders/holders.module.carried.jsonl", "akasha/holder/holder.module.carried.jsonl"],
-    [
-      "akasha/holders/modules/holder-one/holder-one.module.carried.jsonl",
-      "akasha/holder/modules/one/holder-one.module.carried.jsonl",
-    ],
     [HOLDER_CHILD, "akasha/holder/modules/one/holder-one.module.ts"],
-    [
-      "akasha/holders/pages/only-one.module.carried.jsonl",
-      "akasha/holder/pages/only-one.module.carried.jsonl",
-    ],
     [HOLDER_KEPT, "akasha/holder/pages/only-one.module.ts"],
   ])
 })
@@ -318,10 +293,6 @@ test("a page carrying the slug asked for is carried into the folder that slug na
   expect(movesOf(said)).toEqual([
     [OTHER_PAGE, `akasha/${OTHER_SLUG}/${OTHER_SLUG}.module.ts`],
     [OTHER_CODE, `akasha/${OTHER_SLUG}/${OTHER_SLUG}.module.code.ts`],
-    [
-      "akasha/three/other-one.module.carried.jsonl",
-      `akasha/${OTHER_SLUG}/${OTHER_SLUG}.module.carried.jsonl`,
-    ],
   ])
 })
 
@@ -354,7 +325,6 @@ test("a page renamed over a ledger is carried once rather than a second time", a
   expect(movesOf(said)).toEqual([
     [HELD_PAGE, CARRIED_PAGE],
     [HELD_CODE, CARRIED_CODE],
-    [HELD_CARRIED, CARRIED_CARRIED],
     [HELD_REFS, CARRIED_REFS],
   ])
   expect(bodiesIn(said, was).get(CARRIED_PAGE) ?? "").toContain(`"slug": "${CARRIED}"`)
@@ -409,8 +379,5 @@ test("a page stating its page type as an address is named by the slug that addre
   const root = addressedAt
   const said = await runChange(worldIn(root, textIn(root)), { at: ADDRESSED_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
-  expect(movesOf(said)).toEqual([
-    [ADDRESSED_PAGE, CARRIED_PAGE],
-    [ADDRESSED_CARRIED, CARRIED_CARRIED],
-  ])
+  expect(movesOf(said)).toEqual([[ADDRESSED_PAGE, CARRIED_PAGE]])
 })
