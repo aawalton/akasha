@@ -4,7 +4,7 @@ export const oauthProxyConsoleAstra20260915 = {
   id: "01a0a2b2-77bb-7025-993e-396545436c1c",
   type: "page-type/seat-log-day",
   slug: "oauth-proxy-console-astra-2026-09-15",
-  source: "log-source/oauth-proxy-console",
+  source: "log-source/gateway-console",
   seatName: "astra",
   date: "2026-09-15",
 } as const satisfies SeatLogDay

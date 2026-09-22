@@ -5,11 +5,11 @@ import type { Mode } from "akasha/agent/seat/properties/mode.text-property.types
 import type { Model } from "akasha/agent/seat/properties/model.text-property.types.ts"
 import type { OnCall } from "akasha/agent/seat/properties/on-call.boolean-property.types.ts"
 import type { Person } from "akasha/agent/seat/properties/person.relation-property.types.ts"
-import type { Proxy as SeatProxy } from "akasha/agent/seat/properties/proxy.record-property.types.ts"
 import type { ReExecAsk } from "akasha/agent/seat/properties/re-exec-ask.text-property.types.ts"
 import type { RegistrationAccount } from "akasha/agent/seat/properties/registration-account.text-property.types.ts"
 import type { Request } from "akasha/agent/seat/properties/request.record-property.types.ts"
 import type { Role } from "akasha/agent/seat/properties/role.relation-property.types.ts"
+import type { SeatGateway } from "akasha/agent/seat/properties/seat-gateway.record-property.types.ts"
 import type { SeatPersona } from "akasha/agent/seat/properties/seat-persona.relation-property.types.ts"
 import type { StartMode } from "akasha/agent/seat/properties/start-mode.text-property.types.ts"
 import type { SubagentEdits } from "akasha/agent/seat/properties/subagent-edits.file-property.types.ts"
@@ -30,7 +30,7 @@ export type Seat = Agent & {
   transcriptPath?: TranscriptPath
   claudeCodeSessionUuid?: ClaudeCodeSessionUuid
   supervisorProcess?: SupervisorProcess
-  proxy?: SeatProxy
+  seatGateway?: SeatGateway
   mode?: Mode
   model?: Model
   contextTokens?: ContextTokens

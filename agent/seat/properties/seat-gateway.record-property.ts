@@ -1,15 +1,15 @@
 import type { RecordProperty } from "akasha/page/record-property/record-property.page-type.types.ts"
 
-export const proxy = {
+export const seatGateway = {
   id: "01a0540c-dbbf-7215-9747-624c4ef37e06",
   type: "page-type/record-property",
-  slug: "proxy",
-  propertySlug: "proxy",
+  slug: "seat-gateway",
+  propertySlug: "seat-gateway",
   definition: "the proxy between a seat and its model",
   properties: [
-    { pageProperty: "process-property/proxy-process", required: true, many: false },
-    { pageProperty: "number-property/proxy-port", required: true, many: false },
-    { pageProperty: "text-property/proxy-version", required: true, many: false },
+    { pageProperty: "process-property/gateway-process", required: true, many: false },
+    { pageProperty: "number-property/gateway-port", required: true, many: false },
+    { pageProperty: "text-property/gateway-version", required: true, many: false },
   ],
   decisions: [
     {
