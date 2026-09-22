@@ -6,6 +6,7 @@ export const temperBuffMinor = {
   slug: "temper-buff-minor",
   definition: "a helpful effect the game names Minor",
   extends: ["page-type/temper-catalog-thing"],
+  parts: ["relation-property/minor-buff"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/description", required: true, many: false },

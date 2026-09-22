@@ -19,3 +19,4 @@
 {"propertySlug":"import","fileName":"temper-buff-major.page-type.types.ts","path":"temper/catalog/effect/temper-buff-major/pages/major-sorcery/major-sorcery.temper-buff-major.ts"}
 {"propertySlug":"import","fileName":"temper-buff-major.page-type.types.ts","path":"temper/catalog/effect/temper-buff-major/pages/major-vitality/major-vitality.temper-buff-major.ts"}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-effect.domain.ts","id":"01a05fba-ce3c-73cc-87ea-23462f201563"}
+{"propertySlug":"target-page-type","path":"temper/catalog/effect/temper-buff-major/properties/major-buff.relation-property.ts","id":"01a0c9ff-54ce-7c74-a920-591d45f0644d"}

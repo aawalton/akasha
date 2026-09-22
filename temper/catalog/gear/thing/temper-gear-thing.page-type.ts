@@ -8,7 +8,7 @@ export const temperGearThing = {
   extends: ["page-type/temper-catalog-thing"],
   parts: [
     "number-property/potion-seconds",
-    "text-property/buff-id",
+    "one-of-property/buff-id",
     "relation-property/debuff-id",
     "text-property/eso-enchant-constant-name",
     "text-property/essence-rune",

@@ -20,3 +20,4 @@
 {"propertySlug":"import","fileName":"temper-buff-minor.page-type.types.ts","path":"temper/catalog/effect/temper-buff-minor/pages/minor-toughness/minor-toughness.temper-buff-minor.ts"}
 {"propertySlug":"import","fileName":"temper-buff-minor.page-type.types.ts","path":"temper/catalog/effect/temper-buff-minor/pages/minor-vitality/minor-vitality.temper-buff-minor.ts"}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-effect.domain.ts","id":"01a05fba-ce3c-73cc-87ea-23462f201563"}
+{"propertySlug":"target-page-type","path":"temper/catalog/effect/temper-buff-minor/properties/minor-buff.relation-property.ts","id":"01a0c9ff-636a-7a2b-8b12-544cb32ee41f"}

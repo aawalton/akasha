@@ -83,9 +83,11 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"life-theme-value","propertySlug":"life-theme-value","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"loaded-by","propertySlug":"loaded-by","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"log-source","unique":null,"uniquePropertySlug":null,"slug":"log-source","propertySlug":"source","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-buff-major","unique":null,"uniquePropertySlug":null,"slug":"major-buff","propertySlug":"major-buff","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"merged-into","propertySlug":"merged-into","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat","unique":null,"uniquePropertySlug":null,"slug":"message-to","propertySlug":"to","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"messaged-persona","propertySlug":"persona","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-buff-minor","unique":null,"uniquePropertySlug":null,"slug":"minor-buff","propertySlug":"minor-buff","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"mobile-wallpaper","propertySlug":"mobile-wallpaper","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"model-family","unique":null,"uniquePropertySlug":null,"slug":"model-family","propertySlug":"model-family","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"name-format","unique":null,"uniquePropertySlug":null,"slug":"name-format","propertySlug":"name-format","fileName":null,"folderName":null}
@@ -96,6 +98,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"argument","unique":null,"uniquePropertySlug":null,"slug":"one-of","propertySlug":"one-of","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-poison-effect","unique":null,"uniquePropertySlug":null,"slug":"opposite","propertySlug":"opposite","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"origin-kind","unique":null,"uniquePropertySlug":null,"slug":"origin","propertySlug":"origin","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-buff-other","unique":null,"uniquePropertySlug":null,"slug":"other-buff","propertySlug":"other-buff","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"owner","propertySlug":"owner","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"page-domain","propertySlug":"domain","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"page-page-type","propertySlug":"type","fileName":null,"folderName":null}

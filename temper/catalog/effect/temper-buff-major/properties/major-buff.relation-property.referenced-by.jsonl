@@ -1,0 +1,3 @@
+{"propertySlug":"import","fileName":"major-buff.relation-property.types.ts","path":"temper/catalog/gear/thing/properties/buff-id.one-of-property.types.ts"}
+{"propertySlug":"members","path":"temper/catalog/gear/thing/properties/buff-id.one-of-property.ts","id":"01a05fcc-41f1-7e7a-abd6-c8c6650999ad"}
+{"propertySlug":"parts","path":"temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts","id":"01a05fc5-94ce-7166-8475-467d3eb17bf9"}

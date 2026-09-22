@@ -10,7 +10,7 @@ export const bonusEffects = {
     { pageProperty: "text-property/metric-id", required: false, many: false },
     { pageProperty: "text-property/effect-type", required: false, many: false },
     { pageProperty: "number-property/effect-value", required: false, many: false },
-    { pageProperty: "text-property/buff-id", required: false, many: false },
+    { pageProperty: "one-of-property/buff-id", required: false, many: false },
   ],
   decisions: [
     {

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"buff-id.text-property.types.ts","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.types.ts"}
+{"propertySlug":"import","fileName":"buff-id.one-of-property.types.ts","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.types.ts"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.ts","id":"01a05fd1-d436-73c6-b34e-3d504facf23f"}
 {"propertySlug":"page-property","path":"temper/catalog/thing/properties/effects.page-property-entry.ts","id":"01a05fb0-3ceb-742c-998f-6122c9954a30"}
 {"propertySlug":"parts","path":"temper/catalog/gear/thing/temper-gear-thing.page-type.ts","id":"01a05fcc-41ef-7386-84ed-43fb6534121e"}

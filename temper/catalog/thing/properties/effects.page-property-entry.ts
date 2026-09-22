@@ -11,7 +11,7 @@ export const effects = {
     { pageProperty: "text-property/effect-type", required: false, many: false },
     { pageProperty: "number-property/effect-value", required: false, many: false },
     { pageProperty: "number-property/effect-seconds", required: false, many: false },
-    { pageProperty: "text-property/buff-id", required: false, many: false },
+    { pageProperty: "one-of-property/buff-id", required: false, many: false },
     { pageProperty: "relation-property/debuff-id", required: false, many: false },
     { pageProperty: "text-property/slotted-behavior", required: false, many: false },
     { pageProperty: "text-property/value-type", required: false, many: false },

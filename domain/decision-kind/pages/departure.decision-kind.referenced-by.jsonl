@@ -4638,6 +4638,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-status.text-property.ts","id":"01a05fd1-d437-73eb-b682-b54edb64a96b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/icon-slot.text-property.ts","id":"01a05fd1-d43b-783e-b447-1fb92ded8285"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/valid-pieces.text-property.ts","id":"01a05fd1-d43f-7be1-a074-25f62cd6a7ee"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/buff-id.one-of-property.ts","id":"01a05fcc-41f1-7e7a-abd6-c8c6650999ad"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/item-level.text-property.ts","id":"01a05fcc-41f3-75f3-b81e-993d8b24e369"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/valid-slots.one-of-property.ts","id":"01a05fcc-41f4-739e-a73e-ae1c6505faab"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/temper-gear-thing.page-type.ts","id":"01a05fcc-41ef-7386-84ed-43fb6534121e"}
