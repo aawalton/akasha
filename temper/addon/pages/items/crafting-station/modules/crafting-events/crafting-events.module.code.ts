@@ -289,7 +289,7 @@ export function onAddOnLoaded(this: void): undefined {
 }
 
 function registerDebugCommands(this: void): undefined {
-  _CS = STATE
+  TemperItemsCraftingDebugState = STATE
   SLASH_COMMANDS["//"] =
     SLASH_COMMANDS["/reloadui"] ?? error("TemperItemsCrafting: missing /reloadui")
   SLASH_COMMANDS["/langfr"] = () => {

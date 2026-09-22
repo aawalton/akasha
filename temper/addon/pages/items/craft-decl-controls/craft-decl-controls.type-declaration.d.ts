@@ -101,7 +101,7 @@ declare const TemperItemsCrafting_DolgubonsWritsEndpoint: LabelControl | undefin
 
 declare const TemperItemsCrafting_CookSpaceButtonName: LabelControl
 
-declare var _CS: unknown
+declare var TemperItemsCraftingDebugState: unknown
 
 declare const TemperItemsCrafting_Rune: TopLevelWindow
 
