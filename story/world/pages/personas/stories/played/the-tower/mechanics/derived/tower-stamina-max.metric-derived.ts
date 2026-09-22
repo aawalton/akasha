@@ -4,6 +4,6 @@ export const towerStaminaMax = {
   id: "01a0ca36-ec2c-7d9c-b807-01528dfacc3b",
   type: "page-type/metric-derived",
   slug: "tower-stamina-max",
-  title: "Most Stamina",
+  title: "Max Stamina",
   formula: {},
 } as const satisfies MetricDerived
