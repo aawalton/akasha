@@ -13,5 +13,5 @@ export const whatJenCostsMe = {
     "all-about-alan-topic/giving-her-the-benefit-of-the-doubt",
   ],
   settled:
-    "Jen has been as high as a five and as low as a two.\n\nWhat moves it is the health of our relationship changing, as well as Jen's interpersonal style.\n\nJen at a two gives me the benefit of the doubt and is low conflict.",
+    "Jen has been as high as a five and as low as a two.\n\nWhat moves it is the health of our relationship changing, as well as Jen's interpersonal style.\n\nJen at a two gives me the benefit of the doubt and is low conflict.\n\nThat may be the largest discount a person can give me, because it reduces criticism, which is one of my biggest costs.",
 } as const satisfies AllAboutAlanTopic
