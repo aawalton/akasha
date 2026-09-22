@@ -1,4 +1,3 @@
-import { join } from "node:path"
 import type { Filed } from "akasha/page/index/modules/identifying/index-identifying.module.code.ts"
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 
@@ -19,7 +18,7 @@ export function isInPageProperty(one: object): one is InPageProperty {
 export function filedInPageProperty(address: InPageProperty): Filed {
   return {
     uniqueKind: PAGE_PROPERTY,
-    scope: join(address.pageTypeSlug, address.scopePropertySlug, address.scopeValue),
+    scope: `${address.pageTypeSlug}/${address.scopePropertySlug}/${address.scopeValue}`,
     propertySlug: address.propertySlug,
     said: address.value,
   }
