@@ -5,7 +5,7 @@ export const featureRequestBoost = {
   type: "page-type/action-button-property",
   slug: "feature-request-boost",
   propertySlug: "boost",
-  definition: "the button a contributor commits contribution points to a request with",
+  definition: "the button committing a contributor's contribution points to a request",
   verbId: "feature-request-boost",
   decisions: [
     {

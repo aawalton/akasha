@@ -4,7 +4,7 @@ export const gmailMailbox = {
   id: "01a06828-59d3-7295-868d-d695a5d5efd8",
   type: "page-type/page-type",
   slug: "gmail-mailbox",
-  definition: "a Gmail account the system reads mail from",
+  definition: "a Gmail account whose mail the system reads",
   extends: ["page-type/page"],
   parts: ["page-property-entry/processed-messages"],
   properties: [

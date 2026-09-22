@@ -5,6 +5,6 @@ export const phone = {
   type: "page-type/phone-number-property",
   slug: "phone",
   propertySlug: "phone",
-  definition: "the number a person or a persona is reached at",
+  definition: "a person's or a persona's number",
   types: "ts",
 } as const satisfies PhoneNumberProperty

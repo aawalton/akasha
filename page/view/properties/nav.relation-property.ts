@@ -5,7 +5,7 @@ export const nav = {
   type: "page-type/relation-property",
   slug: "nav",
   propertySlug: "nav",
-  definition: "the nav item a view sits under",
+  definition: "a view's nav item",
   targetPageType: "page-type/nav",
   decisions: [
     {
