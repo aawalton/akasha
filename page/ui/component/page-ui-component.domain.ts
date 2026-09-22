@@ -10,6 +10,7 @@ export const pageUiComponent = {
     "domain/page-ui-component-quick-add",
     "domain/page-ui-component-view-engine",
     "module/auth-provider",
+    "module/badge-keying",
     "module/bare-listing-card",
     "module/base-conditions",
     "module/build-server-grouped-sections",

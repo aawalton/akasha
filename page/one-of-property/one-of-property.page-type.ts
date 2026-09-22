@@ -40,6 +40,18 @@ export const oneOfProperty = {
       decisionKind: "decision-kind/departure",
       statement: "A property with a member that admits every value refuses nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value is shown as the member holding that value shows it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A list of values is shown one badge to an item.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A member holding a list of its own is handed the whole list instead.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
