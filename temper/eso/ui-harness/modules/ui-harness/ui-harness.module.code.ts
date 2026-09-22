@@ -14,7 +14,12 @@ const LUA_MODULE = "lua-module"
 
 const LUA = "lua"
 
-const MODEL_SLUGS: readonly string[] = ["ui-place-model", "ui-control-model", "ui-event-model"]
+const MODEL_SLUGS: readonly string[] = [
+  "ui-place-model",
+  "ui-control-model",
+  "ui-event-model",
+  "ui-text-model",
+]
 
 const NAMED = /^[A-Za-z_][A-Za-z0-9_]*$/
 
