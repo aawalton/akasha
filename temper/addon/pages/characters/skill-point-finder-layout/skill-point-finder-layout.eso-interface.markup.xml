@@ -141,7 +141,7 @@
 							<Dimensions x="25" y="25" />
 							<Textures normal="/esoui/art/buttons/decline_up.dds" pressed="/esoui/art/buttons/decline_down.dds" mouseOver="/esoui/art/buttons/decline_over.dds" />
 						</Button>
-						<Label name="$(parent)_Title" font="$(ANTIQUE_FONT)|30" text="USPF_GUI_TITLE" horizontalAlignment="CENTER" verticalAlignment="CENTER">
+						<Label name="$(parent)_Title" font="$(ANTIQUE_FONT)|30" text="SI_TEMPER_SKILLPOINTFINDER_GUI_TITLE" horizontalAlignment="CENTER" verticalAlignment="CENTER">
 							<Dimensions y="30" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
 							<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
@@ -158,7 +158,7 @@
 					<Anchor point="TOPRIGHT" relativeTo="$(parent)_Header" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="12" />
 
 					<Controls>
-						<Label name="$(parent)_GSP" font="$(ANTIQUE_FONT)|16" text="USPF_GUI_GSP" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
+						<Label name="$(parent)_GSP" font="$(ANTIQUE_FONT)|16" text="SI_TEMPER_SKILLPOINTFINDER_GUI_GSP" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
 							<Dimensions x="400" y="24" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="3" />
 						</Label>
@@ -176,7 +176,7 @@
 							<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)_GSP_T" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="6" />
 						</Backdrop>
 
-						<Label name="$(parent)_SQS" font="$(ANTIQUE_FONT)|16" text="USPF_GUI_SQS" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
+						<Label name="$(parent)_SQS" font="$(ANTIQUE_FONT)|16" text="SI_TEMPER_SKILLPOINTFINDER_GUI_SQS" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
 							<Dimensions x="300" y="24" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)_GSP" relativePoint="TOPRIGHT" offsetX="12" offsetY="0" />
 						</Label>
@@ -185,7 +185,7 @@
 							<Anchor point="TOPRIGHT" relativeTo="$(parent)_SQS" relativePoint="BOTTOMRIGHT" offsetX="16" offsetY="0" />
 						</Control>
 
-						<Label name="$(parent)_SQS_Z_T" font="$(ANTIQUE_FONT)|14" text="USPF_GUI_TOTAL" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
+						<Label name="$(parent)_SQS_Z_T" font="$(ANTIQUE_FONT)|14" text="SI_TEMPER_SKILLPOINTFINDER_GUI_TOTAL" horizontalAlignment="CENTER" verticalAlignment="CENTER" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 							<Dimensions x="150" y="18" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)_SQS_ListHolder" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
 						</Label>
@@ -203,7 +203,7 @@
 						</Backdrop>
 
 
-						<Label name="$(parent)_GDQ" font="$(ANTIQUE_FONT)|16" text="USPF_GUI_GDQ" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
+						<Label name="$(parent)_GDQ" font="$(ANTIQUE_FONT)|16" text="SI_TEMPER_SKILLPOINTFINDER_GUI_GDQ" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
 							<Dimensions x="676" y="24" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)_SQS" relativePoint="TOPRIGHT" offsetX="12" offsetY="0" />
 						</Label>
@@ -227,7 +227,7 @@
 						</Backdrop>
 
 
-						<Label name="$(parent)_PDGBE" font="$(ANTIQUE_FONT)|16" text="USPF_GUI_PDB" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
+						<Label name="$(parent)_PDGBE" font="$(ANTIQUE_FONT)|16" text="SI_TEMPER_SKILLPOINTFINDER_GUI_PDB" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
 							<Dimensions x="400" y="24" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)_GSP_T" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="18" />
 						</Label>

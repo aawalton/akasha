@@ -28,7 +28,7 @@ function progressVsTotal(this: void, points: number | string, total: number): st
 
 function getQuestTooltipText(this: void, questIds: number[]): string {
   if (questIds.length === 0) {
-    return GetString(USPF_QUEST_NONE)
+    return GetString(SI_TEMPER_SKILLPOINTFINDER_QUEST_NONE)
   }
   const quests: string[] = []
   const isCurrentCharacter = GetCurrentCharacterId() === STATE.selectedChar

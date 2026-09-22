@@ -64,7 +64,7 @@ export function setupMenu(this: void, charId: string): undefined {
   const lam = TemperAddonMenu
   const sv = requireSVar()
   const options = requireOptions()
-  const addonName = GetString(USPF_GUI_TITLE)
+  const addonName = GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_TITLE)
 
   const charSettings = (): Settings => {
     const s = sv.settings[charId]
@@ -90,7 +90,7 @@ export function setupMenu(this: void, charId: string): undefined {
     },
     tooltip: GetString(tooltip),
     width,
-    warning: GetString(USPF_SETTINGS_RELOAD_WARNING),
+    warning: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_RELOAD_WARNING),
   })
 
   const colorControl = (
@@ -129,11 +129,11 @@ export function setupMenu(this: void, charId: string): undefined {
   const optionsTable: LamControlData[] = [
     {
       type: "submenu",
-      name: `|cFF0000${GetString(USPF_SETTINGS_FONT_TITLE)}|r`,
+      name: `|cFF0000${GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_TITLE)}|r`,
       controls: [
         fontDropdown(
-          USPF_SETTINGS_FONT_TITLE_HEADER,
-          USPF_SETTINGS_FONT_TITLE_DESC,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_TITLE_HEADER,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_TITLE_DESC,
           "full",
           () => charSettings().title.font,
           (font) => {
@@ -142,8 +142,8 @@ export function setupMenu(this: void, charId: string): undefined {
           }
         ),
         fontDropdown(
-          USPF_SETTINGS_FONT_GSP_TITLE,
-          USPF_SETTINGS_FONT_GSP_ROWS,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GSP_TITLE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GSP_ROWS,
           "half",
           () => charSettings().GSP.font,
           (font) => {
@@ -152,8 +152,8 @@ export function setupMenu(this: void, charId: string): undefined {
           }
         ),
         fontDropdown(
-          USPF_SETTINGS_FONT_SQS_TITLE,
-          USPF_SETTINGS_FONT_SQS_ROWS,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_SQS_TITLE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_SQS_ROWS,
           "half",
           () => charSettings().SQS.font,
           (font) => {
@@ -162,8 +162,8 @@ export function setupMenu(this: void, charId: string): undefined {
           }
         ),
         fontDropdown(
-          USPF_SETTINGS_FONT_GDQ_TITLE,
-          USPF_SETTINGS_FONT_GDQ_ROWS,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GDQ_TITLE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GDQ_ROWS,
           "half",
           () => charSettings().GDQ.font,
           (font) => {
@@ -172,8 +172,8 @@ export function setupMenu(this: void, charId: string): undefined {
           }
         ),
         fontDropdown(
-          USPF_SETTINGS_FONT_PDB_TITLE,
-          USPF_SETTINGS_FONT_PDB_ROWS,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_PDB_TITLE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_PDB_ROWS,
           "half",
           () => charSettings().PDB.font,
           (font) => {
@@ -185,11 +185,11 @@ export function setupMenu(this: void, charId: string): undefined {
     },
     {
       type: "submenu",
-      name: `|cFF0000${GetString(USPF_SETTINGS_COLOR_TITLE)}|r`,
+      name: `|cFF0000${GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_TITLE)}|r`,
       controls: [
         colorControl(
-          USPF_SETTINGS_COLOR_GSP_DONE,
-          USPF_SETTINGS_COLOR_DESC_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_GSP_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_DESC_DONE,
           () => charSettings().GSP.doneColor,
           (rgb) => {
             charSettings().GSP.doneColor = rgb
@@ -197,8 +197,8 @@ export function setupMenu(this: void, charId: string): undefined {
           }
         ),
         colorControl(
-          USPF_SETTINGS_COLOR_GSP_NOT_DONE,
-          USPF_SETTINGS_COLOR_DESC_NOT_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_GSP_NOT_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_DESC_NOT_DONE,
           () => charSettings().GSP.needColor,
           (rgb) => {
             charSettings().GSP.needColor = rgb
@@ -206,8 +206,8 @@ export function setupMenu(this: void, charId: string): undefined {
           }
         ),
         colorControl(
-          USPF_SETTINGS_COLOR_GSP_PROG,
-          USPF_SETTINGS_COLOR_DESC_PROG,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_GSP_PROG,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_DESC_PROG,
           () => charSettings().GSP.progColor,
           (rgb) => {
             charSettings().GSP.progColor = rgb
@@ -216,8 +216,8 @@ export function setupMenu(this: void, charId: string): undefined {
         ),
         DIVIDER,
         colorControl(
-          USPF_SETTINGS_COLOR_ZQ_DONE,
-          USPF_SETTINGS_COLOR_DESC_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_ZQ_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_DESC_DONE,
           () => charSettings().SQS.doneColorZQ,
           (rgb) => {
             charSettings().SQS.doneColorZQ = rgb
@@ -225,8 +225,8 @@ export function setupMenu(this: void, charId: string): undefined {
           }
         ),
         colorControl(
-          USPF_SETTINGS_COLOR_ZQ_NOT_DONE,
-          USPF_SETTINGS_COLOR_DESC_NOT_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_ZQ_NOT_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_DESC_NOT_DONE,
           () => charSettings().SQS.needColorZQ,
           (rgb) => {
             charSettings().SQS.needColorZQ = rgb
@@ -234,8 +234,8 @@ export function setupMenu(this: void, charId: string): undefined {
           }
         ),
         colorControl(
-          USPF_SETTINGS_COLOR_ZQ_PROG,
-          USPF_SETTINGS_COLOR_DESC_PROG,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_ZQ_PROG,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_DESC_PROG,
           () => charSettings().SQS.progColorZQ,
           (rgb) => {
             charSettings().SQS.progColorZQ = rgb
@@ -244,8 +244,8 @@ export function setupMenu(this: void, charId: string): undefined {
         ),
         DIVIDER,
         colorControl(
-          USPF_SETTINGS_COLOR_SS_DONE,
-          USPF_SETTINGS_COLOR_DESC_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_SS_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_DESC_DONE,
           () => charSettings().SQS.doneColorSS,
           (rgb) => {
             charSettings().SQS.doneColorSS = rgb
@@ -253,8 +253,8 @@ export function setupMenu(this: void, charId: string): undefined {
           }
         ),
         colorControl(
-          USPF_SETTINGS_COLOR_SS_NOT_DONE,
-          USPF_SETTINGS_COLOR_DESC_NOT_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_SS_NOT_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_DESC_NOT_DONE,
           () => charSettings().SQS.needColorSS,
           (rgb) => {
             charSettings().SQS.needColorSS = rgb
@@ -262,8 +262,8 @@ export function setupMenu(this: void, charId: string): undefined {
           }
         ),
         colorControl(
-          USPF_SETTINGS_COLOR_SS_PROG,
-          USPF_SETTINGS_COLOR_DESC_PROG,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_SS_PROG,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_DESC_PROG,
           () => charSettings().SQS.progColorSS,
           (rgb) => {
             charSettings().SQS.progColorSS = rgb
@@ -272,8 +272,8 @@ export function setupMenu(this: void, charId: string): undefined {
         ),
         DIVIDER,
         colorControl(
-          USPF_SETTINGS_COLOR_GDQ_DONE,
-          USPF_SETTINGS_COLOR_DESC_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_GDQ_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_DESC_DONE,
           () => charSettings().GDQ.doneColor,
           (rgb) => {
             charSettings().GDQ.doneColor = rgb
@@ -281,8 +281,8 @@ export function setupMenu(this: void, charId: string): undefined {
           }
         ),
         colorControl(
-          USPF_SETTINGS_COLOR_GDQ_NOT_DONE,
-          USPF_SETTINGS_COLOR_DESC_NOT_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_GDQ_NOT_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_DESC_NOT_DONE,
           () => charSettings().GDQ.needColor,
           (rgb) => {
             charSettings().GDQ.needColor = rgb
@@ -291,8 +291,8 @@ export function setupMenu(this: void, charId: string): undefined {
         ),
         DIVIDER,
         colorControl(
-          USPF_SETTINGS_COLOR_PDB_DONE,
-          USPF_SETTINGS_COLOR_DESC_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_PDB_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_DESC_DONE,
           () => charSettings().PDB.doneColor,
           (rgb) => {
             charSettings().PDB.doneColor = rgb
@@ -300,8 +300,8 @@ export function setupMenu(this: void, charId: string): undefined {
           }
         ),
         colorControl(
-          USPF_SETTINGS_COLOR_PDB_NOT_DONE,
-          USPF_SETTINGS_COLOR_DESC_NOT_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_PDB_NOT_DONE,
+          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_DESC_NOT_DONE,
           () => charSettings().PDB.needColor,
           (rgb) => {
             charSettings().PDB.needColor = rgb
@@ -312,10 +312,10 @@ export function setupMenu(this: void, charId: string): undefined {
     },
     {
       type: "submenu",
-      name: `|cFF0000${GetString(USPF_SETTINGS_SORT_TITLE)}|r`,
+      name: `|cFF0000${GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_SORT_TITLE)}|r`,
       controls: [
         valueDropdown<number>({
-          name: GetString(USPF_SETTINGS_SORT_SQS),
+          name: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_SORT_SQS),
           choices: options.Sort.Names_SQS,
           values: options.Sort.Names_SQS.map((name) => options.Sort.SQS[name] ?? 1),
           get: () => charSettings().SQS.sortCol,
@@ -323,11 +323,11 @@ export function setupMenu(this: void, charId: string): undefined {
             charSettings().SQS.sortCol = col
             STATE.settings.SQS.sortCol = col
           },
-          tooltip: GetString(USPF_SETTINGS_SORT_SQS_DESC),
+          tooltip: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_SORT_SQS_DESC),
           width: "half",
         }),
         valueDropdown<number>({
-          name: GetString(USPF_SETTINGS_SORT_GDQ),
+          name: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_SORT_GDQ),
           choices: options.Sort.Names_D,
           values: options.Sort.Names_D.map((name) => options.Sort.D[name] ?? 1),
           get: () => charSettings().GDQ.sortCol,
@@ -335,11 +335,11 @@ export function setupMenu(this: void, charId: string): undefined {
             charSettings().GDQ.sortCol = col
             STATE.settings.GDQ.sortCol = col
           },
-          tooltip: GetString(USPF_SETTINGS_SORT_GDQ_DESC),
+          tooltip: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_SORT_GDQ_DESC),
           width: "half",
         }),
         valueDropdown<number>({
-          name: GetString(USPF_SETTINGS_SORT_PDB),
+          name: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_SORT_PDB),
           choices: options.Sort.Names_D,
           values: options.Sort.Names_D.map((name) => options.Sort.D[name] ?? 1),
           get: () => charSettings().PDB.sortCol,
@@ -347,50 +347,50 @@ export function setupMenu(this: void, charId: string): undefined {
             charSettings().PDB.sortCol = col
             STATE.settings.PDB.sortCol = col
           },
-          tooltip: GetString(USPF_SETTINGS_SORT_PDB_DESC),
+          tooltip: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_SORT_PDB_DESC),
           width: "half",
         }),
       ],
     },
     {
       type: "submenu",
-      name: `|cFF0000${GetString(USPF_SETTINGS_OVERRIDE_TITLE)}|r`,
+      name: `|cFF0000${GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_OVERRIDE_TITLE)}|r`,
       controls: [
         {
           type: "checkbox",
-          name: GetString(USPF_SETTINGS_OVERRIDE_FOLIUM),
+          name: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_OVERRIDE_FOLIUM),
           getFunc: () => charSettings().FD.override,
           setFunc: (value) => {
             charSettings().FD.override = value
             STATE.settings.FD.override = value
           },
-          tooltip: GetString(USPF_SETTINGS_OVERRIDE_FOLIUM_DESC),
+          tooltip: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_OVERRIDE_FOLIUM_DESC),
           width: "full",
-          warning: GetString(USPF_SETTINGS_OVERRIDE_WARN),
+          warning: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_OVERRIDE_WARN),
         },
         {
           type: "checkbox",
-          name: GetString(USPF_SETTINGS_OVERRIDE_FOLIUM_SET),
-          tooltip: GetString(USPF_SETTINGS_OVERRIDE_FOLIUM_SET_DESC),
+          name: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_OVERRIDE_FOLIUM_SET),
+          tooltip: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_OVERRIDE_FOLIUM_SET_DESC),
           getFunc: () => charSettings().FD.charHasFD,
           setFunc: (value) => {
             charSettings().FD.charHasFD = value
             STATE.settings.FD.charHasFD = value
           },
           width: "full",
-          warning: GetString(USPF_SETTINGS_OVERRIDE_WARN),
+          warning: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_OVERRIDE_WARN),
         },
         {
           type: "checkbox",
-          name: GetString(USPF_SETTINGS_OVERRIDE_TUT_SET),
-          tooltip: GetString(USPF_SETTINGS_OVERRIDE_TUT_SET_DESC),
+          name: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_OVERRIDE_TUT_SET),
+          tooltip: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_OVERRIDE_TUT_SET_DESC),
           getFunc: () => charSettings().TUT,
           setFunc: (value) => {
             charSettings().TUT = value
             STATE.settings.TUT = value
           },
           width: "full",
-          warning: GetString(USPF_SETTINGS_OVERRIDE_WARN),
+          warning: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_OVERRIDE_WARN),
         },
       ],
     },

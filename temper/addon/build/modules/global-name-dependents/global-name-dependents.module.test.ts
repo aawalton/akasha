@@ -44,8 +44,8 @@ test("a control an anchor is placed against is a dependent of that name", () => 
 
 test("a string id a label takes its text from is a dependent of that id", () => {
   const report = enumerateGlobalDependents({
-    global: "USPF_GUI_TITLE",
-    files: markup('<Label name="TemperCharactersSkillPointFinder_GUI_Header_Title" text="USPF_GUI_TITLE" />'),
+    global: "SI_TEMPER_SKILLPOINTFINDER_GUI_TITLE",
+    files: markup('<Label name="TemperCharactersSkillPointFinder_GUI_Header_Title" text="SI_TEMPER_SKILLPOINTFINDER_GUI_TITLE" />'),
   })
 
   expect(report.verdict).toBe("keep-name-required")

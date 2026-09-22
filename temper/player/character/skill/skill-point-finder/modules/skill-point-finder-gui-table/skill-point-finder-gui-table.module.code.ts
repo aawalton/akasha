@@ -28,43 +28,43 @@ import "akasha/temper/player/character/skill/skill-point-finder/skill-point-find
 
 export function updateGuiTable(this: void, sVarPtsData: PointsData): undefined {
   const tots = requirePtsTots()
-  const total = GetString(USPF_GUI_TOTAL)
+  const total = GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_TOTAL)
 
   const unassigned = sVarPtsData.Unassigned !== undefined ? tostring(sVarPtsData.Unassigned) : "?"
 
   const gsp: GeneralRow[] = [
     [
       1,
-      GetString(USPF_GUI_CHAR_LEVEL),
+      GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_CHAR_LEVEL),
       getSV(sVarPtsData.Level),
       tots.Level,
-      GetString(USPF_QUEST_NA),
+      GetString(SI_TEMPER_SKILLPOINTFINDER_QUEST_NA),
     ],
     [
       2,
-      GetString(USPF_GUI_MAIN_QUEST),
+      GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_MAIN_QUEST),
       getSV(sVarPtsData.MainQ),
       tots.MainQ,
       getMainQuestTooltip(),
     ],
     [
       3,
-      GetString(USPF_GUI_FOLIUM),
+      GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_FOLIUM),
       getSV(sVarPtsData.FolDis),
       tots.FolDis,
-      GetString(USPF_QUEST_NA),
+      GetString(SI_TEMPER_SKILLPOINTFINDER_QUEST_NA),
     ],
-    [4, GetString(USPF_GUI_TUTORIAL), getSV(sVarPtsData.tutorial), 1, ""],
+    [4, GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_TUTORIAL), getSV(sVarPtsData.tutorial), 1, ""],
     [
       5,
-      GetString(USPF_GUI_AVA_RANK),
+      GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_AVA_RANK),
       getSV(sVarPtsData.PvPRank),
       tots.PvPRank,
       getTooltipPvPRank(),
     ],
     [
       6,
-      GetString(USPF_GUI_MAEL_ARENA),
+      GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_MAEL_ARENA),
       getSV(sVarPtsData.MaelAr),
       tots.MaelAr,
       getTooltipMaelstrom(),
@@ -129,6 +129,6 @@ export function updateGuiTable(this: void, sVarPtsData: PointsData): undefined {
     GDQ_T: `${total}: ${sVarPtsData.GDTot}/${tots.GDTot}`,
     PDGBE: pdgbe,
     PDGBE_T: `${total}: ${sVarPtsData.PDTot}/${tots.PDTot}`,
-    CharacterTot: `${GetString(USPF_GUI_CHAR_TOTAL)}: ${sVarPtsData.Tot}/${tots.Tot} (${unassigned} ${GetString(USPF_GUI_UNASSIGNED)})`,
+    CharacterTot: `${GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_CHAR_TOTAL)}: ${sVarPtsData.Tot}/${tots.Tot} (${unassigned} ${GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_UNASSIGNED)})`,
   }
 }

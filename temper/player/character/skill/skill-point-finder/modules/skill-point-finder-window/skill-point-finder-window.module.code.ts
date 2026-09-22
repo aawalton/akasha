@@ -148,17 +148,19 @@ export function setupValues(this: void): undefined {
 }
 
 function commandStatusLine(this: void): string {
-  const actionWord = STATE.active ? GetString(USPF_MSG_DEACTVATE) : GetString(USPF_MSG_ACTIVATE)
-  return string.format(GetString(USPF_MSG_CMD_OPTION), actionWord)
+  const actionWord = STATE.active
+    ? GetString(SI_TEMPER_SKILLPOINTFINDER_MSG_DEACTVATE)
+    : GetString(SI_TEMPER_SKILLPOINTFINDER_MSG_ACTIVATE)
+  return string.format(GetString(SI_TEMPER_SKILLPOINTFINDER_MSG_CMD_OPTION), actionWord)
 }
 
 export function helpSlash(this: void): undefined {
-  d(GetString(USPF_MSG_CMD_TITLE))
+  d(GetString(SI_TEMPER_SKILLPOINTFINDER_MSG_CMD_TITLE))
   d(commandStatusLine())
 }
 
 export function badSlash(this: void): undefined {
-  d(GetString(USPF_MSG_BAD_SLASH))
-  d(GetString(USPF_MSG_CMD_TITLE))
+  d(GetString(SI_TEMPER_SKILLPOINTFINDER_MSG_BAD_SLASH))
+  d(GetString(SI_TEMPER_SKILLPOINTFINDER_MSG_CMD_TITLE))
   d(commandStatusLine())
 }

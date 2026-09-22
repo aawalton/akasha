@@ -114,7 +114,11 @@ export function updateDataLines(this: void): undefined {
   const gui = requireGui()
 
   const dataLinesGSP: ListLine[] = [
-    { header: true, source: GetString(USPF_GUI_SOURCE), progress: GetString(USPF_GUI_PROGRESS) },
+    {
+      header: true,
+      source: GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_SOURCE),
+      progress: GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_PROGRESS),
+    },
   ]
   for (const row of gui.GSP) {
     dataLinesGSP.push({
@@ -127,9 +131,9 @@ export function updateDataLines(this: void): undefined {
   const dataLinesSQS: ListLine[] = [
     {
       header: true,
-      zone: GetString(USPF_GUI_ZONE),
-      quests: GetString(USPF_GUI_STORYLINE),
-      skyshards: GetString(USPF_GUI_SKYSHARDS),
+      zone: GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_ZONE),
+      quests: GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_STORYLINE),
+      skyshards: GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_SKYSHARDS),
     },
   ]
   const sqsSorted = sortTable(gui.SQS, STATE.settings.SQS.sortCol)
@@ -144,9 +148,9 @@ export function updateDataLines(this: void): undefined {
 
   const gdqHeader: ListLine = {
     header: true,
-    zone: GetString(USPF_GUI_ZONE),
-    dungeon: GetString(USPF_GUI_GROUP_DUNGEON),
-    progress: GetString(USPF_GUI_PROGRESS),
+    zone: GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_ZONE),
+    dungeon: GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_GROUP_DUNGEON),
+    progress: GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_PROGRESS),
   }
   const gdqSorted = sortTable(gui.GDQ, STATE.settings.GDQ.sortCol)
   const splitIndex = gdqSorted.length / 2
@@ -181,9 +185,9 @@ export function updateDataLines(this: void): undefined {
   const dataLinesPDGBE: ListLine[] = [
     {
       header: true,
-      zone: GetString(USPF_GUI_ZONE),
-      dungeon: GetString(USPF_GUI_PUBLIC_DUNGEON),
-      progress: GetString(USPF_GUI_PROGRESS),
+      zone: GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_ZONE),
+      dungeon: GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_PUBLIC_DUNGEON),
+      progress: GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_PROGRESS),
     },
   ]
   for (const row of pdSorted) {
