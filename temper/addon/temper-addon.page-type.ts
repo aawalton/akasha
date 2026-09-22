@@ -179,8 +179,11 @@ export const temperAddon = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement:
-        "A global the game has written to a saved file keeps the spelling that file holds.",
+      statement: "Every global an addon declares is spelled with the addon declaring that global.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A saved variable global renamed carries the player's data over to the new name.",
     },
     {
       decisionKind: "decision-kind/constraint",
