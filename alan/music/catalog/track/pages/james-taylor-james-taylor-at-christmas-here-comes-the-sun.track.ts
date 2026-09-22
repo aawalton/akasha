@@ -4,6 +4,7 @@ export const jamesTaylorJamesTaylorAtChristmasHereComesTheSun = {
   id: "01a0abeb-2dba-7f9c-b8c3-1a0e4f32b884",
   type: "page-type/track",
   slug: "james-taylor-james-taylor-at-christmas-here-comes-the-sun",
+  grade: "A",
   ownLength: 2.8451,
   ownProgress: 0,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
