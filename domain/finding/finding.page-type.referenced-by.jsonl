@@ -109,7 +109,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/is-object-record-and-is-record-differ-only-on-arrays.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/landing-concurrency-needs-a-read-set.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/landing-one-inference-row-rewrites-a-whole-part-so-a-run-costs-a-megabyte-of-objects.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/mortal-sparing-never-reaches-a-referenced-by-file-so-audit-rounds-refuse-them.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/most-mentions-of-page-type-slug-are-not-the-page-key.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/most-of-what-tests-pass-refuses-is-a-race-rather-than-a-broken-test.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/move-code-export-carries-the-imports-a-declaration-names-and-not-the-siblings-it-names.finding.ts"}
