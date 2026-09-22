@@ -12,6 +12,7 @@ export const world = {
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [
+    "number-property/appearance-count",
     "page-property-entry/character-readings",
     "page-property-entry/mechanic-readings",
     "page-type/named-event",

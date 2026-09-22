@@ -297,7 +297,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/metric/properties/metric-min-value.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/metric/properties/metric-value.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/builds/properties/build-level.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/characters/properties/appearance-count.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/characters/properties/event-count.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/characters/properties/first-chapter.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/characters/properties/last-chapter.number-property.ts"}
@@ -307,6 +306,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/named-events/properties/event-first-chapter.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/named-events/properties/event-last-chapter.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/named-events/properties/evidence-beat.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/properties/appearance-count.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/anchor-beat.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/anchor-volume.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/wiki-entries/properties/chapter-number.number-property.ts"}

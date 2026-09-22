@@ -9,6 +9,7 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"graph-edge","unique":null,"uniquePropertySlug":null,"slug":"edges","propertySlug":"edges","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"game-entity","unique":null,"uniquePropertySlug":null,"slug":"encounter-entities","propertySlug":"entities","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"eso-interface","unique":null,"uniquePropertySlug":null,"slug":"eso-interfaces","propertySlug":"interfaces","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"world-mechanic","unique":null,"uniquePropertySlug":null,"slug":"evolves-from-slugs","propertySlug":"evolves-from-slugs","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"extends-type","propertySlug":"extends","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"strength-exercise-implement","unique":null,"uniquePropertySlug":null,"slug":"fitness-equipment-covers","propertySlug":"covers","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-focus-script","unique":null,"uniquePropertySlug":null,"slug":"focus-scripts","propertySlug":"focus-scripts","fileName":null,"folderName":null}

@@ -10,7 +10,6 @@ export const worldCharacter = {
   runsTabooCheck: false,
   parts: [
     "module/character-filing",
-    "number-property/appearance-count",
     "number-property/event-count",
     "number-property/first-chapter",
     "number-property/last-chapter",

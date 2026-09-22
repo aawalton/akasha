@@ -5,7 +5,7 @@ export const appearanceCount = {
   type: "page-type/number-property",
   slug: "appearance-count",
   propertySlug: "appearance-count",
-  definition: "how many chapters of the story say something about a character",
+  definition: "how many chapters of the story say something about this",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
