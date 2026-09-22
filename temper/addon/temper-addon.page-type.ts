@@ -171,6 +171,10 @@ export const temperAddon = {
     },
     {
       decisionKind: "decision-kind/constraint",
+      statement: "A control more than one addon extends keeps the name those addons look it up by.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
       statement: "A patch over a game function is spelled as the game spells that function.",
     },
     {
