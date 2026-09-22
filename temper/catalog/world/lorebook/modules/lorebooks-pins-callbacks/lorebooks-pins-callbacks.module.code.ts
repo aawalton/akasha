@@ -109,10 +109,7 @@ export function eideticMemoryCompassCallback(this: void): undefined {
       let xLoc: number | undefined
       let yLoc: number | undefined
       if (usePrimaryGlobalCoordinates && !usePrimaryNormalizedCoordinates) {
-        const local = GPS.GlobalToLocal(pinData.px ?? 0, pinData.py ?? 0)
-        if (local !== undefined) {
-          ;[xLoc, yLoc] = local
-        }
+        ;[xLoc, yLoc] = GPS.GlobalToLocal(pinData.px ?? 0, pinData.py ?? 0)
       } else if (!usePrimaryGlobalCoordinates && usePrimaryNormalizedCoordinates) {
         xLoc = pinData.pnx
         yLoc = pinData.pny
@@ -289,10 +286,7 @@ export function mapCallbackCreateEideticPins(this: void, pinType: string): undef
           pinData.xLoc = modifiedGlobalCoordinateX
           pinData.yLoc = modifiedGlobalCoordinateY
         } else {
-          const local = GPS.GlobalToLocal(pinData.px ?? 0, pinData.py ?? 0)
-          if (local !== undefined) {
-            ;[pinData.xLoc, pinData.yLoc] = local
-          }
+          ;[pinData.xLoc, pinData.yLoc] = GPS.GlobalToLocal(pinData.px ?? 0, pinData.py ?? 0)
         }
       } else if (
         (usePrimaryMapId ||
@@ -308,10 +302,7 @@ export function mapCallbackCreateEideticPins(this: void, pinType: string): undef
           pinData.xLoc = modifiedGlobalCoordinateX
           pinData.yLoc = modifiedGlobalCoordinateY
         } else {
-          const local = GPS.GlobalToLocal(pinData.zx ?? 0, pinData.zy ?? 0)
-          if (local !== undefined) {
-            ;[pinData.xLoc, pinData.yLoc] = local
-          }
+          ;[pinData.xLoc, pinData.yLoc] = GPS.GlobalToLocal(pinData.zx ?? 0, pinData.zy ?? 0)
         }
       } else if ((useZoneMapId || useZoneNormalizedCoordinates) && normalizedZoneCoordinates) {
         pinData.xLoc = pinData.znx

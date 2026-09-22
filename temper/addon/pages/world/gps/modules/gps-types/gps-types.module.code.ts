@@ -260,8 +260,16 @@ export interface Lib {
     this: Lib,
     returnToInitialMap?: boolean
   ) => LuaMultiReturn<[boolean, number]>
-  LocalToGlobal: (this: Lib, x: number, y: number) => LuaMultiReturn<[number, number]> | undefined
-  GlobalToLocal: (this: Lib, x: number, y: number) => LuaMultiReturn<[number, number]> | undefined
+  LocalToGlobal: (
+    this: Lib,
+    x: number,
+    y: number
+  ) => LuaMultiReturn<[number | undefined, number | undefined]>
+  GlobalToLocal: (
+    this: Lib,
+    x: number,
+    y: number
+  ) => LuaMultiReturn<[number | undefined, number | undefined]>
   LocalToWorld: (
     this: Lib,
     x: number,

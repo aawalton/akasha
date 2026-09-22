@@ -108,12 +108,9 @@ export function initMapUpdate(this: void): undefined {
     LIB.normalizedX = normalizedX
     LIB.normalizedY = normalizedY
 
-    const global = GPS.LocalToGlobal(normalizedX, normalizedY)
-    if (global !== undefined) {
-      const [globalX, globalY] = global
-      LIB.globalX = globalX
-      LIB.globalY = globalY
-    }
+    const [globalX, globalY] = GPS.LocalToGlobal(normalizedX, normalizedY)
+    LIB.globalX = globalX
+    LIB.globalY = globalY
 
     LIB.parentZoneMapId = LIB.GetParentMapIdFromZoneId(zoneId)
     LIB.mapType = mapType

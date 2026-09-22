@@ -93,24 +93,24 @@ export function initApi(this: void): undefined {
     this: Lib,
     x: number,
     y: number
-  ): LuaMultiReturn<[number, number]> | undefined {
+  ): LuaMultiReturn<[number | undefined, number | undefined]> {
     const measurement = requireMeter().GetCurrentMapMeasurement()
     if (measurement !== undefined) {
       return measurement.ToGlobal(x, y)
     }
-    return undefined
+    return $multi(undefined, undefined)
   }
 
   lib.GlobalToLocal = function (
     this: Lib,
     x: number,
     y: number
-  ): LuaMultiReturn<[number, number]> | undefined {
+  ): LuaMultiReturn<[number | undefined, number | undefined]> {
     const measurement = requireMeter().GetCurrentMapMeasurement()
     if (measurement !== undefined) {
       return measurement.ToLocal(x, y)
     }
-    return undefined
+    return $multi(undefined, undefined)
   }
 
   lib.LocalToWorld = function (
