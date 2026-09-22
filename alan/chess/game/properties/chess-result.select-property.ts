@@ -5,7 +5,7 @@ export const chessResult = {
   type: "page-type/select-property",
   slug: "chess-result",
   propertySlug: "result",
-  definition: "the score a game finished on",
+  definition: "a game's final score",
   values: ["1-0", "0-1", "1/2-1/2", "*"],
   types: "ts",
 } as const satisfies SelectProperty

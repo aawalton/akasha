@@ -5,7 +5,7 @@ export const openingTags = {
   type: "page-type/text-property",
   slug: "opening-tags",
   propertySlug: "opening-tags",
-  definition: "an opening a puzzle came out of",
+  definition: "a puzzle's opening",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

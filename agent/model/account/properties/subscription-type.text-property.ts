@@ -5,7 +5,7 @@ export const subscriptionType = {
   type: "page-type/text-property",
   slug: "subscription-type",
   propertySlug: "subscription-type",
-  definition: "the plan the account is subscribed on",
+  definition: "the account's plan",
   maxLength: 50,
   nameFormat: null,
   decisions: [

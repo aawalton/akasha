@@ -4,7 +4,7 @@ export const refusalsKeeping = {
   id: "01a08165-a236-719a-95cf-da4ade5acc9f",
   type: "page-type/module",
   slug: "refusals-keeping",
-  definition: "the refusals an agent's last landing or last audit answered with",
+  definition: "the refusals of an agent's last landing or last audit",
   code: "ts",
   test: "ts",
   decisions: [

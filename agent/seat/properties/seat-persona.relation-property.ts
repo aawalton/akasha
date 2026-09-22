@@ -5,7 +5,7 @@ export const seatPersona = {
   type: "page-type/relation-property",
   slug: "seat-persona",
   propertySlug: "persona",
-  definition: "the persona a seat is held by",
+  definition: "a seat's persona",
   targetPageType: "page-type/persona",
   types: "ts",
 } as const satisfies RelationProperty

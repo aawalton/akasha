@@ -4,7 +4,7 @@ export const modelAccountOauth = {
   id: "01a0632e-cb60-74d1-a6d9-2f68882c142c",
   type: "page-type/module",
   slug: "model-account-oauth",
-  definition: "the OAuth exchange an account's credentials and usage arrive over",
+  definition: "the OAuth exchange bringing an account's credentials and usage",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

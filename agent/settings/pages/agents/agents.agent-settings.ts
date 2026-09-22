@@ -4,7 +4,7 @@ export const agents = {
   id: "01a0657b-ad40-75af-a0a6-bb09331fb95c",
   type: "page-type/agent-settings",
   slug: "agents",
-  definition: "what every agent on this workstation is spawned with",
+  definition: "what spawns every agent on this workstation",
   harnessSettings: "json",
   decisions: [
     {

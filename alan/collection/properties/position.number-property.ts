@@ -5,7 +5,7 @@ export const position = {
   type: "page-type/number-property",
   slug: "position",
   propertySlug: "position",
-  definition: "where a collection sits among the collections it is part of",
+  definition: "where a collection sits within its parent collection",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

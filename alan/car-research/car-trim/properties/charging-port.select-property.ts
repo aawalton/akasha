@@ -5,7 +5,7 @@ export const chargingPort = {
   type: "page-type/select-property",
   slug: "charging-port",
   propertySlug: "charging-port",
-  definition: "the plug a trim takes charge through",
+  definition: "a trim's charging plug",
   values: ["NACS", "CCS1", "J1772", "CHAdeMO", "none"],
   decisions: [
     {

@@ -5,7 +5,7 @@ export const topicPartOf = {
   type: "page-type/relation-property",
   slug: "topic-part-of",
   propertySlug: "part-of",
-  definition: "the topics a topic sits under",
+  definition: "a topic's parent topics",
   targetPageType: "page-type/learn-everything-topic",
   decisions: [
     {

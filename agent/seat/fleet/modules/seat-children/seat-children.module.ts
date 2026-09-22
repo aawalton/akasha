@@ -4,7 +4,7 @@ export const seatChildren = {
   id: "01a06867-7fc9-7003-a718-93571d4377aa",
   type: "page-type/module",
   slug: "seat-children",
-  definition: "the seats standing under a seat, and how many of them somebody is present in",
+  definition: "the seats standing under a seat, and how many of them hold somebody",
   code: "ts",
   test: "ts",
   decisions: [

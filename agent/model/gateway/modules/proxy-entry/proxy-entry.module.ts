@@ -4,7 +4,7 @@ export const proxyEntry = {
   id: "01a06976-2384-7000-b7a0-ed0cadf58dad",
   type: "page-type/module",
   slug: "proxy-entry",
-  definition: "the answers to every seam a gateway process asks for",
+  definition: "the answers to every seam a gateway process needs",
   code: "ts",
   test: "ts",
   decisions: [

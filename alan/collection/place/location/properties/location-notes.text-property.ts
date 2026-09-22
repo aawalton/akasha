@@ -5,7 +5,7 @@ export const locationNotes = {
   type: "page-type/text-property",
   slug: "location-notes",
   propertySlug: "notes",
-  definition: "what the person kept the place for",
+  definition: "the person's reason for keeping the place",
   maxLength: 500,
   nameFormat: null,
   types: "ts",
