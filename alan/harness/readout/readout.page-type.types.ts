@@ -1,6 +1,5 @@
 import type { Attribute } from "akasha/alan/harness/readout/properties/attribute.relation-property.types.ts"
 import type { ColorFrom } from "akasha/alan/harness/readout/properties/color-from.relation-property.types.ts"
-import type { ColorSlug } from "akasha/alan/harness/readout/properties/color-slug.text-property.types.ts"
 import type { DrawnAs } from "akasha/alan/harness/readout/properties/drawn-as.select-property.types.ts"
 import type { Groups } from "akasha/alan/harness/readout/properties/groups.multi-relation-property.types.ts"
 import type { Label } from "akasha/alan/harness/readout/properties/label.text-property.types.ts"
@@ -12,6 +11,7 @@ import type { NoneLeftWords } from "akasha/alan/harness/readout/properties/none-
 import type { Place } from "akasha/alan/harness/readout/properties/place.number-property.types.ts"
 import type { ReadLiveFrom } from "akasha/alan/harness/readout/properties/read-live-from.relation-property.types.ts"
 import type { Reading } from "akasha/alan/harness/readout/properties/reading.module-property-group.ts"
+import type { ReadoutColor } from "akasha/alan/harness/readout/properties/readout-color.relation-property.types.ts"
 import type { ReadoutEnabled } from "akasha/alan/harness/readout/properties/readout-enabled.boolean-property.types.ts"
 import type { Scale } from "akasha/alan/harness/readout/properties/scale.relation-property.types.ts"
 import type { Unit } from "akasha/alan/harness/readout/properties/unit.text-property.types.ts"
@@ -25,7 +25,6 @@ export type Readout = Domain & {
   place: Place
   drawnAs?: DrawnAs
   scale?: Scale
-  colorSlug?: ColorSlug
   colorFrom?: ColorFrom
   attribute?: Attribute
   groups?: Groups
@@ -37,4 +36,5 @@ export type Readout = Domain & {
   lastValue?: LastValue
   lastValueAt?: LastValueAt
   lastValueFallsPerHour?: LastValueFallsPerHour
+  color?: ReadoutColor
 }

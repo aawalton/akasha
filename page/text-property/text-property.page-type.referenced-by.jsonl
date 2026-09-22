@@ -161,7 +161,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-kind.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-link.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-source.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/color-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/label.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/none-left-emoji.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/none-left-words.text-property.ts"}

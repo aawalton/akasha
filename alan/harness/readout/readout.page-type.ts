@@ -43,12 +43,12 @@ export const readout = {
     "relation-property/read-live-from",
     "relation-property/scale",
     "select-property/drawn-as",
-    "text-property/color-slug",
     "text-property/label",
     "text-property/none-left-emoji",
     "text-property/none-left-words",
     "text-property/unit",
     "text-property/wire-key",
+    "relation-property/readout-color",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -63,7 +63,6 @@ export const readout = {
       default: "stoplight",
     },
     { pageProperty: "relation-property/scale", required: false, many: false },
-    { pageProperty: "text-property/color-slug", required: false, many: false },
     { pageProperty: "relation-property/color-from", required: false, many: false },
     { pageProperty: "relation-property/attribute", required: false, many: false },
     {
@@ -100,6 +99,7 @@ export const readout = {
       many: false,
       uncommitted: true,
     },
+    { pageProperty: "relation-property/readout-color", required: false, many: false },
   ],
   decisions: [
     {

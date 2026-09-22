@@ -9,7 +9,7 @@ export const weeklyBack = {
   unit: "hours",
   place: 3,
   drawnAs: "number",
-  colorSlug: "text",
+  color: "color/text",
   groups: ["readout-group/claude-usage"],
   wireKey: "weekly-back",
   decisions: [

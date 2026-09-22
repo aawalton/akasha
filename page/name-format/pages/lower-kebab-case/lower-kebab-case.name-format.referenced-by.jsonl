@@ -14,7 +14,6 @@
 {"propertySlug":"name-format","path":"alan/harness/errors-core/runtime-error/properties/error-app.text-property.ts","id":"01a05f3f-e3e0-7cda-81e5-e5f7cddf3e43"}
 {"propertySlug":"name-format","path":"alan/harness/errors-core/runtime-error/properties/error-kind.text-property.ts","id":"01a05f3f-e3e0-70ed-a9ac-229acd8e154c"}
 {"propertySlug":"name-format","path":"alan/harness/notification-feed/properties/notification-kind.text-property.ts","id":"01a06861-e7cd-7e83-8908-2e79da801f95"}
-{"propertySlug":"name-format","path":"alan/harness/readout/properties/color-slug.text-property.ts","id":"01a063bd-a526-78ae-ab87-fd2bf86d9fad"}
 {"propertySlug":"name-format","path":"alan/harness/readout/widget/properties/families.text-property.ts","id":"01a05480-1c89-7261-a8c7-0538e7ae019b"}
 {"propertySlug":"name-format","path":"alan/track/daily/day/properties/to-do-slug.text-property.ts","id":"01a05fd8-c30f-7596-9f3a-87a4dbea614a"}
 {"propertySlug":"name-format","path":"alan/value/health/fitness/strength/log/properties/session-slug.text-property.ts","id":"01a06580-66fd-7412-a20a-d678614e0121"}

@@ -9,7 +9,7 @@ export const fiveHourBack = {
   unit: "hours",
   place: 2,
   drawnAs: "number",
-  colorSlug: "text",
+  color: "color/text",
   groups: ["readout-group/claude-usage"],
   wireKey: "five-hour-back",
   decisions: [

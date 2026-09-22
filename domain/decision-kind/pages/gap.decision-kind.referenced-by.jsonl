@@ -127,7 +127,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/notification-feed/notification-feed.page-type.ts","id":"01a06861-e7cd-7f8b-a674-034ea5efe956"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/modules/body/readout-body.module.ts","id":"01a05e63-1c18-7baa-a113-890ebfb04463"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.ts","id":"01a078a8-b96f-765d-99ff-5703d9b2edd3"}
-{"propertySlug":"decision-kind","path":"alan/harness/readout/properties/color-slug.text-property.ts","id":"01a063bd-a526-78ae-ab87-fd2bf86d9fad"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/widget/readout-widget.page-type.ts","id":"01a05480-1c86-7e95-b799-63b1c0152f62"}
 {"propertySlug":"decision-kind","path":"alan/harness/rules-engine/field/rules-engine-field.domain.ts","id":"01a06600-0000-7000-8000-000000000002"}
