@@ -6,5 +6,6 @@ export const conditionBattlefieldOfTheSilentChanged = {
   slug: "condition-battlefield-of-the-silent-changed",
   title: "Condition – Battlefield of the Silent Changed.",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldCondition

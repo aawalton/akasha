@@ -6,5 +6,6 @@ export const bodySlashingResistance = {
   slug: "body-slashing-resistance",
   title: "Body: Slashing Resistance",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldCondition

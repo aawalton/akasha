@@ -6,5 +6,6 @@ export const classLockFemaleTorenRequired = {
   slug: "class-lock-female-toren-required",
   title: "Class Lock: Female Toren required.",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldCondition

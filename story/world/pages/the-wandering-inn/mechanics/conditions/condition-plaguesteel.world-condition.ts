@@ -6,5 +6,6 @@ export const conditionPlaguesteel = {
   slug: "condition-plaguesteel",
   title: "Condition – Plaguesteel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldCondition

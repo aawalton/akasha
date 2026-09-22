@@ -6,5 +6,6 @@ export const constitutionOfTheChampion = {
   slug: "constitution-of-the-champion",
   title: "Constitution of the Champion",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldCondition

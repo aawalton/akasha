@@ -6,5 +6,6 @@ export const horrificLaughter = {
   slug: "horrific-laughter",
   title: "Horrific Laughter",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldCondition

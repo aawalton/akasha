@@ -6,5 +6,6 @@ export const championOfTheBlightedLands = {
   slug: "champion-of-the-blighted-lands",
   title: "Champion of the Blighted Lands",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldCondition

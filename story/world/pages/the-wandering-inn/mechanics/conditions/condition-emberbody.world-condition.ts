@@ -6,5 +6,6 @@ export const conditionEmberbody = {
   slug: "condition-emberbody",
   title: "Condition: Emberbody",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldCondition

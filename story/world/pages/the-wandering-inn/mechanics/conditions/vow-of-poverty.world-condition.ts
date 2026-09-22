@@ -6,5 +6,6 @@ export const vowOfPoverty = {
   slug: "vow-of-poverty",
   title: "Vow of Poverty",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldCondition
