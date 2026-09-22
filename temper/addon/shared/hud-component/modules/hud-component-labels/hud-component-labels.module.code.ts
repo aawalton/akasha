@@ -52,7 +52,7 @@ export const COMPONENT_LABELS: Readonly<Record<string, ComponentLabel>> = {
   PERFORMANCE_METER_FRAGMENT: {
     name: "Performance / FPS meter",
     category: "meter",
-    grainNotes: "Already suppressed by TemperHud through SetHiddenForReason.",
+    grainNotes: "Already suppressed by Temper through SetHiddenForReason.",
   },
   PLAYER_PROGRESS_BAR_GAMEPAD_HIDE_NAME_LOCATION_FRAGMENT: {
     name: "Gamepad progress bar (hide name/location)",

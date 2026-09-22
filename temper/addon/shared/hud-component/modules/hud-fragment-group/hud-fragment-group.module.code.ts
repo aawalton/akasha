@@ -235,7 +235,7 @@ export const HUD_FRAGMENT_GROUP = [
     source: { file: HUD_SCENE_SOURCE, line: 100 },
     conditional: false,
     wrapsMultiple: false,
-    grainNotes: "Already suppressed by TemperHud through SetHiddenForReason.",
+    grainNotes: "Already suppressed by Temper through SetHiddenForReason.",
   },
   {
     id: "player-progress-bar-gamepad-hide-name-location-fragment",

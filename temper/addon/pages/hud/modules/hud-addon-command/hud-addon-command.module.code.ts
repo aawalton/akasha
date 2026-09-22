@@ -52,13 +52,13 @@ export function initializeTemperCommands(this: void): undefined {
   registerTemperCommand({
     name: "help",
     description: "List every Temper slash command",
-    addon: "TemperHud",
+    addon: "Temper",
     handler: renderTemperHelp,
   })
   registerTemperCommand({
     name: "/temperhud",
     description: "Open HUD settings",
-    addon: "TemperHud",
+    addon: "Temper",
   })
   SLASH_COMMANDS["/temper"] = dispatchTemperCommand
 }
