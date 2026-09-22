@@ -3570,9 +3570,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/community/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
 {"propertySlug":"decision-kind","path":"temper/addon/community/modules/installed-addons/installed-addons.module.ts","id":"01a06069-b78f-7051-8fb2-ebe10b403037"}
 {"propertySlug":"decision-kind","path":"temper/addon/community/temper-addon-community.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/capture-sales/modules/sales-addon-entry/sales-addon-entry.module.ts","id":"01a060e2-3180-7c1e-a6c8-0d7019081afa"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/capture-sales/modules/sales-capture/sales-capture.module.ts","id":"01a060e2-3181-7087-9742-dc3d075f9c3c"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/capture-sales/temper-addon-capture-sales.temper-addon.ts","id":"01a060e2-3181-7c02-be71-c63b5b648d5b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/catalog-config-file/catalog-config-file.lua-module.ts","id":"01a063ba-94e5-7985-98c9-01225f7eeb33"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/catalog-config-global/catalog-config-global.type-declaration.ts","id":"01a063c1-6c82-7533-9e59-d07cde6f2943"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/catalog-api-test/catalog-api-test.module.ts","id":"01a063ba-94e5-7e5c-ad37-4144ed456b26"}
@@ -3883,6 +3880,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/shifter-box-cursor-label/shifter-box-cursor-label.module.ts","id":"01a08e6e-ae39-7b0d-a20f-739be0c4cda5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/shifter-box-template/shifter-box-template.eso-interface.ts","id":"01a06187-364c-7851-b7ad-0cc5cdf2a05e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/temper-addon-interface.temper-addon.ts","id":"01a060e7-1bea-7ec8-9343-b0e442437b98"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/guild-history/guild-history.domain.ts","id":"01a0c707-6e29-746b-b07d-01dff2a8933a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/inventory-config-file/inventory-config-file.lua-module.ts","id":"01a06258-b536-7417-855d-e9bd5aa14816"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.ts","id":"01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.ts","id":"01a06258-b527-758b-b9d3-f61c61aec470"}
@@ -3907,6 +3905,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.ts","id":"01a06258-b534-70ec-b172-fd006cbff261"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.ts","id":"01a0cc42-6b1f-7a05-9d38-4e7b21c6f9a0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.ts","id":"01a06258-b536-712e-9550-52d00f78c679"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/sales-addon-entry/sales-addon-entry.module.ts","id":"01a060e2-3180-7c1e-a6c8-0d7019081afa"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/sales-capture/sales-capture.module.ts","id":"01a060e2-3181-7087-9742-dc3d075f9c3c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/trading-browse-engine/trading-browse-engine.module.ts","id":"01a06160-2a59-7c89-b1b4-4a07fc4e70d1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/trading-browse-window-rows/trading-browse-window-rows.module.ts","id":"01a06160-2a59-7146-848b-f736c7465e2d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/trading-browse-window/trading-browse-window.module.ts","id":"01a06160-2a59-7df3-a77c-588f057cc94c"}

@@ -6,12 +6,35 @@
   "version": "1.0.0",
   "addonVersion": 100,
   "apiVersion": ["101041", "101042", "101049"],
-  "savedVariables": ["TemperInventory_SavedVariables", "TemperListings_SavedVariables"],
+  "savedVariables": [
+    "TemperInventory_SavedVariables",
+    "TemperListings_SavedVariables",
+    "TemperSales_SavedVariables",
+    "LibHistoire_Settings",
+    "LibHistoire_GuildHistoryCache"
+  ],
   "additionalLuaFiles": ["TemperItemsConfig.lua"],
-  "dependsOn": ["TemperCharacters", "TemperHud"],
-  "optionalDependsOn": ["TamrielTradeCentre"],
+  "dependsOn": [
+    "TemperCharacters",
+    "TemperHud",
+    "LibDebugLogger",
+    "LibAsync",
+    "LibAddonMenu-2.0"
+  ],
+  "optionalDependsOn": ["TamrielTradeCentre", "LibCustomMenu"],
   "xmlFiles": {
-    "afterBundle": ["TemperItemsBrowser.xml"]
+    "afterBundle": ["TemperItemsBrowser.xml", "guildHistoryCache/controls.xml"]
   },
-  "assets": ["TemperItemsBrowser.xml"]
+  "assets": [
+    "TemperItemsBrowser.xml",
+    "image/status_window_toggle_down.dds",
+    "image/status_window_toggle_over.dds",
+    "image/status_window_toggle_up.dds",
+    "image/linked_down.dds",
+    "image/linked_over.dds",
+    "image/linked_up.dds",
+    "image/unlinked_down.dds",
+    "image/unlinked_over.dds",
+    "image/unlinked_up.dds"
+  ]
 }

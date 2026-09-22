@@ -202,10 +202,10 @@ test("every kind of file the watcher knows is watched under its own name", async
 })
 
 test("a file that is not there is warned about and left unwatched", async () => {
-  const { said, start } = await startWith({ isThere: (p) => p !== CONFIG.temperSalesPath })
+  const { said, start } = await startWith({ isThere: (p) => p !== CONFIG.temperErrorsPath })
   expect(start.kind === "watching" && start.watching).toHaveLength(6)
   expect(said.info).toContain(
-    `Warning: TemperSales.lua not found at ${CONFIG.temperSalesPath}, skipping`
+    `Warning: TemperHud.lua not found at ${CONFIG.temperErrorsPath}, skipping`
   )
 })
 

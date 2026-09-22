@@ -202,7 +202,7 @@ test("no two operations any kind expects share a name", () => {
 })
 
 test("a file that cannot be looked at has no modification time", () => {
-  expect(statMtimeMs("/nowhere/at/all/TemperSales.lua")).toBeNull()
+  expect(statMtimeMs("/nowhere/at/all/TemperItems.lua")).toBeNull()
 })
 
 test("a side file is judged by whether its folder is there rather than the file", async () => {

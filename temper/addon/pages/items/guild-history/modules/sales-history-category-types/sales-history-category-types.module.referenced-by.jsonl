@@ -1,0 +1,10 @@
+{"propertySlug":"import","fileName":"sales-history-category-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache-guild/sales-history-cache-guild.module.code.ts"}
+{"propertySlug":"import","fileName":"sales-history-category-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache/sales-history-cache.module.code.ts"}
+{"propertySlug":"import","fileName":"sales-history-category-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-category-class-shape/sales-history-category-class-shape.module.code.ts"}
+{"propertySlug":"import","fileName":"sales-history-category-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-category-class/sales-history-category-class.module.code.ts"}
+{"propertySlug":"import","fileName":"sales-history-category-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-category-processing/sales-history-category-processing.module.code.ts"}
+{"propertySlug":"import","fileName":"sales-history-category-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-category-ranges/sales-history-category-ranges.module.code.ts"}
+{"propertySlug":"import","fileName":"sales-history-category-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-category-requests/sales-history-category-requests.module.code.ts"}
+{"propertySlug":"import","fileName":"sales-history-category-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-category-search/sales-history-category-search.module.code.ts"}
+{"propertySlug":"import","fileName":"sales-history-category-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-public-api/sales-history-public-api.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/pages/items/guild-history/guild-history.domain.ts","id":"01a0c707-6e29-746b-b07d-01dff2a8933a"}

@@ -30,12 +30,12 @@ function feed(snapshots: readonly (StatSnapshot | null)[], content = "{ }") {
 }
 
 test("a file the game finished writing closes with a brace", () => {
-  expect(looksStructurallyComplete('TemperSales = { ["a"] = 1 }')).toBe(true)
-  expect(looksStructurallyComplete("TemperSales = { \n}\n\n")).toBe(true)
+  expect(looksStructurallyComplete('TemperItems = { ["a"] = 1 }')).toBe(true)
+  expect(looksStructurallyComplete("TemperItems = { \n}\n\n")).toBe(true)
 })
 
 test("a file broken off partway does not close with a brace", () => {
-  expect(looksStructurallyComplete('TemperSales = { ["a"] = ')).toBe(false)
+  expect(looksStructurallyComplete('TemperItems = { ["a"] = ')).toBe(false)
   expect(looksStructurallyComplete("")).toBe(false)
 })
 
@@ -83,12 +83,12 @@ test("a settled file is read and answered with its snapshot", async () => {
 test("a file unchanged since it was looked at matches the look", () => {
   const dir = mkdtempSync(join(SCRATCH_AT, "akasha-watcher-stable-read-"))
   try {
-    const path = join(dir, "TemperSales.lua")
-    writeFileSync(path, "TemperSales = { }")
+    const path = join(dir, "TemperItems.lua")
+    writeFileSync(path, "TemperItems = { }")
     const stat = statSync(path)
     const snapshot: StatSnapshot = { size: stat.size, mtimeMs: stat.mtimeMs }
     expect(matchesSnapshot(path, snapshot)).toBe(true)
-    writeFileSync(path, "TemperSales = { [1] = 1 }")
+    writeFileSync(path, "TemperItems = { [1] = 1 }")
     expect(matchesSnapshot(path, snapshot)).toBe(false)
   } finally {
     rmSync(dir, { recursive: true, force: true })
@@ -96,7 +96,7 @@ test("a file unchanged since it was looked at matches the look", () => {
 })
 
 test("a file that is not there matches no look", () => {
-  expect(matchesSnapshot("/nowhere/at/all/TemperSales.lua", { size: 1, mtimeMs: 1 })).toBe(false)
+  expect(matchesSnapshot("/nowhere/at/all/TemperItems.lua", { size: 1, mtimeMs: 1 })).toBe(false)
 })
 
 test("a file that changed between the settled look and the read is looked at afresh", async () => {

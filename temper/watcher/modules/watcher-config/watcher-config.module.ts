@@ -46,5 +46,10 @@ export const watcherConfig = {
       statement:
         "The characters kind and the companions kind are read from the one file the characters add-on writes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The inventory kind and the sales kind are read from the one file the items add-on writes.",
+    },
   ],
 } as const satisfies Module

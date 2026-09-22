@@ -32,7 +32,7 @@ export const CAPTURED_BASENAMES = [
   "TemperCatalog.lua",
   "TemperHud.lua",
   "TemperItems.lua",
-  "TemperSales.lua",
+  "TemperItems.lua",
 ] as const
 
 export const LEGACY_LABELS = [
@@ -42,7 +42,7 @@ export const LEGACY_LABELS = [
   "Catalog",
   "Hud",
   "Items",
-  "Sales",
+  "Items",
 ] as const
 
 export const SOURCE_KEY_FOR_TEST = {
@@ -52,7 +52,7 @@ export const SOURCE_KEY_FOR_TEST = {
   "data-mining": "dataMiningPath",
   errors: "temperErrorsPath",
   inventory: "inventoryPath",
-  sales: "temperSalesPath",
+  sales: "salesPath",
 } as const satisfies Record<FileType, keyof WatcherConfig>
 
 export const CONFIG = buildConfig({

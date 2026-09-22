@@ -8,11 +8,20 @@ export const temperAddonItems = {
     "the add-on for every character's items: what they are, where they go, and what they sell for",
 
   addonManifest: "json",
+  addonImageFolder: true,
   bindings: "xml",
   bundleEntry: "module/inventory-entry",
-  interfaces: ["eso-interface/inventory-browser-layout"],
+  interfaces: [
+    "eso-interface/inventory-browser-layout",
+    "eso-interface/sales-history-cache-controls",
+  ],
   luaModules: ["lua-module/inventory-config-file"],
   parts: [
+    "domain/guild-history",
+    "eso-interface/sales-history-cache-controls",
+    "module/sales-addon-entry",
+    "module/sales-addon-name",
+    "module/sales-capture",
     "eso-interface/inventory-browser-layout",
     "lua-module/inventory-config-file",
     "module/inventory-action-panel",
@@ -265,6 +274,23 @@ export const temperAddonItems = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here buys or lists without the player saying so.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The capture is written to the saved variables the addon manifest names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The guild history cache is carried in this add-on rather than loaded as a library.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The shape a sale capture takes is stated in `temper-capture-sales`.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here reads a sale by another seller.",
     },
   ],
 } as const satisfies TemperAddon

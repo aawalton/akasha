@@ -4,7 +4,7 @@ import type { CaptureDescriptor } from "akasha/temper/modules/descriptor/descrip
 const DEFAULTS: SalesPayload = { version: 1, sales: {} }
 
 export const SALES_CAPTURE_DESCRIPTOR: CaptureDescriptor<SalesPayload> = {
-  addonName: "TemperSales",
+  addonName: "TemperItems",
   savedVariablesName: "TemperSales_SavedVariables",
   version: 1,
   defaults: DEFAULTS,

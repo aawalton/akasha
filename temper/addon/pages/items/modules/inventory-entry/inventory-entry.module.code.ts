@@ -1,4 +1,5 @@
 import "akasha/temper/addon/pages/items/modules/inventory-public-api/inventory-public-api.module.code.ts"
+import "akasha/temper/addon/pages/items/modules/sales-addon-entry/sales-addon-entry.module.code.ts"
 import "akasha/temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"
 
 import { initializeInventoryActionPanel } from "akasha/temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts"

@@ -22,7 +22,6 @@ export const temperAddon = {
     "domain/temper-addon-type",
     "domain/temper-addon-build",
     "domain/temper-addon-community",
-    "temper-addon/temper-addon-capture-sales",
     "temper-addon/temper-addon-catalog",
     "temper-addon/temper-addon-characters",
     "temper-addon/temper-addon-combat",

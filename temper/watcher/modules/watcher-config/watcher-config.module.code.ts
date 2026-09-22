@@ -18,7 +18,7 @@ export interface WatcherConfig {
   charactersConfigPath: string
   companionsConfigPath: string
   temperErrorsPath: string
-  temperSalesPath: string
+  salesPath: string
 }
 
 export interface ConfigDirs {
@@ -33,7 +33,7 @@ const SOURCE_KEY = {
   "data-mining": "dataMiningPath",
   errors: "temperErrorsPath",
   inventory: "inventoryPath",
-  sales: "temperSalesPath",
+  sales: "salesPath",
 } as const satisfies Record<FileType, keyof WatcherConfig>
 
 function addonConfig(addonsDir: string, addon: string): string {
@@ -61,7 +61,7 @@ export function buildConfig(dirs: ConfigDirs = {}): WatcherConfig {
       "TemperCharactersCompanionsConfig.lua"
     ),
     temperErrorsPath: join(savedVarsDir, "TemperHud.lua"),
-    temperSalesPath: join(savedVarsDir, "TemperSales.lua"),
+    salesPath: join(savedVarsDir, "TemperItems.lua"),
   }
 }
 

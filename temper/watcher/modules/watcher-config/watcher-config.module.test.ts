@@ -22,7 +22,7 @@ test("a saved-variables file sits in the saved-variables directory", () => {
     CONFIG.dataMiningPath,
     CONFIG.inventoryPath,
     CONFIG.temperErrorsPath,
-    CONFIG.temperSalesPath,
+    CONFIG.salesPath,
   ]) {
     expect(path).toStartWith("/game/SavedVariables/")
     expect(path).toEndWith(".lua")
@@ -50,14 +50,18 @@ test("every kind of file the watcher knows names the file that kind is read from
 
 test("the catalog kind and the data-mining kind are read from the one file the catalog add-on writes", () => {
   expect(sourcePathFor("data-mining", CONFIG)).toBe(sourcePathFor("catalog", CONFIG))
-  const others = FILE_TYPES.filter((kind) => kind !== "data-mining" && kind !== "companions").map(
-    (kind) => sourcePathFor(kind, CONFIG)
-  )
+  const others = FILE_TYPES.filter(
+    (kind) => kind !== "data-mining" && kind !== "companions" && kind !== "sales"
+  ).map((kind) => sourcePathFor(kind, CONFIG))
   expect(new Set(others).size).toBe(others.length)
 })
 
 test("the characters kind and the companions kind are read from the one file the characters add-on writes", () => {
   expect(sourcePathFor("companions", CONFIG)).toBe(sourcePathFor("characters", CONFIG))
+})
+
+test("the inventory kind and the sales kind are read from the one file the items add-on writes", () => {
+  expect(sourcePathFor("sales", CONFIG)).toBe(sourcePathFor("inventory", CONFIG))
 })
 
 test("each kind is read from the file its name says", () => {
@@ -67,7 +71,7 @@ test("each kind is read from the file its name says", () => {
   expect(sourcePathFor("data-mining", CONFIG)).toBe(CONFIG.dataMiningPath)
   expect(sourcePathFor("errors", CONFIG)).toBe(CONFIG.temperErrorsPath)
   expect(sourcePathFor("inventory", CONFIG)).toBe(CONFIG.inventoryPath)
-  expect(sourcePathFor("sales", CONFIG)).toBe(CONFIG.temperSalesPath)
+  expect(sourcePathFor("sales", CONFIG)).toBe(CONFIG.salesPath)
 })
 
 test("a saved-variables file is named for the addon that writes it", () => {
@@ -77,7 +81,7 @@ test("a saved-variables file is named for the addon that writes it", () => {
   expect(CONFIG.dataMiningPath).toBe("/game/SavedVariables/TemperCatalog.lua")
   expect(CONFIG.inventoryPath).toBe("/game/SavedVariables/TemperItems.lua")
   expect(CONFIG.temperErrorsPath).toBe("/game/SavedVariables/TemperHud.lua")
-  expect(CONFIG.temperSalesPath).toBe("/game/SavedVariables/TemperSales.lua")
+  expect(CONFIG.salesPath).toBe("/game/SavedVariables/TemperItems.lua")
 })
 
 test("a config built for one game folder names nothing in another", () => {

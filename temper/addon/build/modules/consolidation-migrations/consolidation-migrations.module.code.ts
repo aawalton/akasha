@@ -235,20 +235,47 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
-    runFor: "TemperSales",
+    runFor: "TemperItems",
     spec: {
       absorbedFileBase: "LibHistoire",
       absorbedGlobal: "LibHistoire_Settings",
-      targetFileBase: "TemperSales",
+      targetFileBase: "TemperItems",
     },
   },
   {
     mode: "append",
-    runFor: "TemperSales",
+    runFor: "TemperItems",
     spec: {
       absorbedFileBase: "LibHistoire",
       absorbedGlobal: "LibHistoire_GuildHistoryCache",
-      targetFileBase: "TemperSales",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperSales",
+      absorbedGlobal: "TemperSales_SavedVariables",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperSales",
+      absorbedGlobal: "LibHistoire_Settings",
+      targetFileBase: "TemperItems",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperItems",
+    spec: {
+      absorbedFileBase: "TemperSales",
+      absorbedGlobal: "LibHistoire_GuildHistoryCache",
+      targetFileBase: "TemperItems",
     },
   },
   {
