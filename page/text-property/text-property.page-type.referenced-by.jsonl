@@ -203,7 +203,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-role.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/self/identity-statement/properties/identity-statement-tags.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/self/identity-statement/properties/notion-id.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/date.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/health-samples/properties/source-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/listens/properties/play-key.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/location-traces/properties/device-id.text-property.ts"}

@@ -3,7 +3,7 @@ import type { BreathingPoints } from "akasha/alan/track/daily/day/properties/bre
 import type { CardioPoints } from "akasha/alan/track/daily/day/properties/cardio-points.number-property.types.ts"
 import type { CompletedTasks } from "akasha/alan/track/daily/day/properties/completed-tasks.page-property-entry.types.ts"
 import type { CompletionSnapshot } from "akasha/alan/track/daily/day/properties/completion-snapshot.number-property.types.ts"
-import type { Date as DayDate } from "akasha/alan/track/daily/day/properties/date.text-property.types.ts"
+import type { Date as DayDate } from "akasha/alan/track/daily/day/properties/date.calendar-date-property.types.ts"
 import type { FaithLevel } from "akasha/alan/track/daily/day/properties/faith-level.computed-property.types.ts"
 import type { FaithPoints } from "akasha/alan/track/daily/day/properties/faith-points.number-property.types.ts"
 import type { FaithStoplight } from "akasha/alan/track/daily/day/properties/faith-stoplight.computed-property.types.ts"

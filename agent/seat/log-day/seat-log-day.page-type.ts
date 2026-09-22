@@ -17,7 +17,7 @@ export const seatLogDay = {
   properties: [
     { pageProperty: "relation-property/log-source", required: true, many: false },
     { pageProperty: "text-property/seat-name", required: true, many: false },
-    { pageProperty: "text-property/date", required: true, many: false },
+    { pageProperty: "calendar-date-property/date", required: true, many: false },
     {
       pageProperty: "file-property/lines",
       required: false,

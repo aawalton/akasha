@@ -1,4 +1,4 @@
-import type { Date as PersonaCraftDayDate } from "akasha/alan/track/daily/day/properties/date.text-property.types.ts"
+import type { Date as PersonaCraftDayDate } from "akasha/alan/track/daily/day/properties/date.calendar-date-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { AdvanceCount } from "akasha/persona/craft-day/properties/advance-count.number-property.types.ts"

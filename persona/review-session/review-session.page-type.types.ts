@@ -1,4 +1,4 @@
-import type { Date as ReviewSessionDate } from "akasha/alan/track/daily/day/properties/date.text-property.types.ts"
+import type { Date as ReviewSessionDate } from "akasha/alan/track/daily/day/properties/date.calendar-date-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { ReviewSessionNotes } from "akasha/persona/review-session/properties/review-session-notes.file-property.types.ts"

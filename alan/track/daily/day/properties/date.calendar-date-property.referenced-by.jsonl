@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"date.text-property.types.ts","path":"agent/seat/log-day/seat-log-day.page-type.types.ts"}
-{"propertySlug":"import","fileName":"date.text-property.types.ts","path":"alan/track/daily/day/day.page-type.types.ts"}
-{"propertySlug":"import","fileName":"date.text-property.types.ts","path":"persona/craft-day/persona-craft-day.page-type.types.ts"}
-{"propertySlug":"import","fileName":"date.text-property.types.ts","path":"persona/review-session/review-session.page-type.types.ts"}
+{"propertySlug":"import","fileName":"date.calendar-date-property.types.ts","path":"agent/seat/log-day/seat-log-day.page-type.types.ts"}
+{"propertySlug":"import","fileName":"date.calendar-date-property.types.ts","path":"alan/track/daily/day/day.page-type.types.ts"}
+{"propertySlug":"import","fileName":"date.calendar-date-property.types.ts","path":"persona/craft-day/persona-craft-day.page-type.types.ts"}
+{"propertySlug":"import","fileName":"date.calendar-date-property.types.ts","path":"persona/review-session/review-session.page-type.types.ts"}
 {"propertySlug":"page-property","path":"agent/seat/log-day/seat-log-day.page-type.ts","id":"01a0657c-cb14-7b5b-a206-18059a84a88a"}
 {"propertySlug":"page-property","path":"alan/track/daily/day/day.page-type.ts","id":"01a05fd8-c30f-72ee-80d9-eb1c179b8359"}
 {"propertySlug":"page-property","path":"persona/craft-day/persona-craft-day.page-type.ts","id":"01a0655b-4a9b-700e-86cf-9bc6a7104f89"}

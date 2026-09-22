@@ -18,6 +18,7 @@ export const day = {
   extends: ["page-type/page"],
   parts: [
     "boolean-property/anchored-from-completion",
+    "calendar-date-property/date",
     "boolean-property/inbox-calendar-cleared-today",
     "boolean-property/inbox-tasks-cleared-today",
     "boolean-property/inbox-temper-tasks-cleared-today",
@@ -77,7 +78,6 @@ export const day = {
     "page-property-entry/sessions",
     "record-property/persona-messages",
     "relation-property/messaged-persona",
-    "text-property/date",
     "text-property/meals",
     "text-property/recurrence",
     "text-property/safety-level",
@@ -86,7 +86,7 @@ export const day = {
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "text-property/date", required: true, many: false },
+    { pageProperty: "calendar-date-property/date", required: true, many: false },
     { pageProperty: "text-property/version", required: false, many: false },
     { pageProperty: "instant-property/last-viewed-at", required: false, many: false },
     { pageProperty: "text-property/safety-level", required: false, many: false },
