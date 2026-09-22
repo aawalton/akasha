@@ -12,6 +12,7 @@ import {
 import {
   declaring,
   pathFor,
+  tracked,
   typed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 
@@ -26,7 +27,7 @@ test("an audit judges every page type the index has, no change naming one of the
   declaring(root, "held", { pageTypeSlug: NUMBER })
   typed(root, "over", null, ["text-property/held", "number-property/held"])
 
-  const said = keyNamesOneProperty(root)
+  const said = keyNamesOneProperty(tracked(root))
 
   expect(said.map((one) => one.path)).toEqual([OVER_AT])
   expect(said[0]?.reason).toContain("`text-property/held`")
@@ -41,7 +42,7 @@ test("an audit judges the fields a record property the index has carries", () =>
     { pagePropertySlug: "number-property/held", required: false, many: false },
   ])
 
-  const said = keyNamesOneProperty(root)
+  const said = keyNamesOneProperty(tracked(root))
 
   expect(said.map((one) => one.path)).toEqual([pathFor(RECORD, "taking")])
   expect(said[0]?.reason).toContain("`taking`")
@@ -52,5 +53,5 @@ test("an audit lets through a tree where each key names one property", () => {
   declaring(root, "over", { pageTypeSlug: TEXT })
   typed(root, "one", null, ["held", "over"])
 
-  expect(keyNamesOneProperty(root)).toEqual([])
+  expect(keyNamesOneProperty(tracked(root))).toEqual([])
 })

@@ -55,7 +55,6 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/introduced-property-is-a-part/introduced-property-is-a-part.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/introduced-property-is-a-part/introduced-property-is-a-part.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/introduced-property-is-a-part/introduced-property-is-a-part.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.decision.code.ts"}

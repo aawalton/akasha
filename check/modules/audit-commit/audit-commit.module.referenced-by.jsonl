@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.audit.code.ts"}

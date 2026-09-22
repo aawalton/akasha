@@ -195,15 +195,15 @@ function whyRefused(key: string, nearer: Declared, further: Declared): string | 
   return how === null ? null : looseningAt(key, nearer, further, how)
 }
 
-function declaringIn(one: Held, shadow: Shadow): readonly Declared[] {
-  if (one.descends) return shadow.index.declarationsOf(one.slug)
-  const value = shadow.pageOf(one.path)
-  return value === null ? [] : shadow.index.carriedIn(value, one.slug)
+function declaringIn(one: Held, paged: Paged): readonly Declared[] {
+  if (one.descends) return paged.index.declarationsOf(one.slug)
+  const value = paged.pageOf(one.path)
+  return value === null ? [] : paged.index.carriedIn(value, one.slug)
 }
 
-function collisionsIn(one: Held, shadow: Shadow): readonly Judged[] {
+function collisionsIn(one: Held, paged: Paged): readonly Judged[] {
   const said: Judged[] = []
-  for (const [key, held] of Map.groupBy(declaringIn(one, shadow), (each) => each.key)) {
+  for (const [key, held] of Map.groupBy(declaringIn(one, paged), (each) => each.key)) {
     for (const [at, nearer] of held.entries()) {
       for (const further of held.slice(at + 1)) {
         const why = whyRefused(key, nearer, further)
@@ -214,8 +214,8 @@ function collisionsIn(one: Held, shadow: Shadow): readonly Judged[] {
   return said
 }
 
-export function refusalsOver(held: readonly Held[], shadow: Shadow): readonly Judged[] {
+export function refusalsOver(held: readonly Held[], paged: Paged): readonly Judged[] {
   const said: Judged[] = []
-  for (const one of held) said.push(...collisionsIn(one, shadow))
+  for (const one of held) said.push(...collisionsIn(one, paged))
   return said
 }
