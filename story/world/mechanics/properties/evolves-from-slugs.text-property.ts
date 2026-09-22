@@ -5,7 +5,7 @@ export const evolvesFromSlugs = {
   type: "page-type/text-property",
   slug: "evolves-from-slugs",
   propertySlug: "evolves-from-slugs",
-  definition: "every mechanic this one is reached from",
+  definition: "every mechanic evolving into this one",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

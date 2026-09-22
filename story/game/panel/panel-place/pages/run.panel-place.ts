@@ -4,5 +4,5 @@ export const run = {
   id: "01a0c4cc-c8ff-75a7-9ff9-4ba305ece208",
   type: "page-type/panel-place",
   slug: "run",
-  definition: "in the column the run itself is drawn in",
+  definition: "in the run's own column",
 } as const satisfies PanelPlace

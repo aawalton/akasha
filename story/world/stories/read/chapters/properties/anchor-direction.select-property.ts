@@ -5,7 +5,7 @@ export const anchorDirection = {
   type: "page-type/select-property",
   slug: "anchor-direction",
   propertySlug: "direction",
-  definition: "which way an anchor runs from what it is read against",
+  definition: "which way an anchor runs from its reference",
   values: ["before", "after", "simultaneous"],
   types: "ts",
 } as const satisfies SelectProperty

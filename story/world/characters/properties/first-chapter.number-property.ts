@@ -5,7 +5,7 @@ export const firstChapter = {
   type: "page-type/number-property",
   slug: "first-chapter",
   propertySlug: "first-chapter",
-  definition: "the number of the earliest chapter a page draws on",
+  definition: "the number of a page's earliest chapter",
   max: null,
   decisions: [
     {

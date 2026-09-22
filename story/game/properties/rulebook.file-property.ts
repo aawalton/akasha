@@ -5,7 +5,7 @@ export const rulebook = {
   type: "page-type/file-property",
   slug: "rulebook",
   propertySlug: "rulebook",
-  definition: "the rules a game is played by",
+  definition: "a game's rules",
   extensions: ["json"],
   decisions: [
     {

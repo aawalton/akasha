@@ -4,7 +4,7 @@ export const addonJson = {
   id: "01a06060-ec3d-70b4-aba1-0e67a09d8d91",
   type: "page-type/module",
   slug: "addon-json",
-  definition: "the shape of the `addon.json` an addon in this repository states itself in",
+  definition: "the shape of the `addon.json` an addon in this repository holds",
   code: "ts",
   decisions: [
     {

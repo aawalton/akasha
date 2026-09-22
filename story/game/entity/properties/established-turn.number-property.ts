@@ -5,7 +5,7 @@ export const establishedTurn = {
   type: "page-type/number-property",
   slug: "established-turn",
   propertySlug: "established-turn",
-  definition: "the turn a bond was struck on",
+  definition: "a bond's turn",
   nullable: false,
   max: null,
   decisions: [

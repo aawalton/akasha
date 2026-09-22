@@ -4,7 +4,7 @@ export const originKind = {
   id: "01a05361-6286-7dcd-a5b1-16a97d9c1932",
   type: "page-type/page-type",
   slug: "origin-kind",
-  definition: "where a persona's name comes from",
+  definition: "the origin of a persona's name",
   parts: [
     "origin-kind/canon",
     "origin-kind/celtic",

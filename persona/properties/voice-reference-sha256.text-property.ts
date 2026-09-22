@@ -5,7 +5,7 @@ export const voiceReferenceSha256 = {
   type: "page-type/text-property",
   slug: "voice-reference-sha256",
   propertySlug: "voice-reference-sha256",
-  definition: "the checksum of the recording a persona's voice is copied from",
+  definition: "the checksum of a persona's voice recording",
   maxLength: 64,
   nameFormat: null,
   types: "ts",

@@ -5,7 +5,7 @@ export const designSystem = {
   type: "page-type/text-property",
   slug: "design-system",
   propertySlug: "system",
-  definition: "the rules a story's world runs on",
+  definition: "the rules of a story's world",
   maxLength: 6000,
   nameFormat: null,
   types: "ts",

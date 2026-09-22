@@ -4,7 +4,7 @@ export const pageUiComponent = {
   id: "01a0613d-bbb1-7000-a299-964eee1c712c",
   type: "page-type/domain",
   slug: "page-ui-component",
-  definition: "the parts a page and its listings are drawn from",
+  definition: "the parts drawing a page and its listings",
 
   parts: [
     "domain/page-ui-component-quick-add",

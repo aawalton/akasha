@@ -5,7 +5,7 @@ export const deviceSecretUserId = {
   type: "page-type/text-property",
   slug: "device-secret-user-id",
   propertySlug: "user-id",
-  definition: "the account a device secret was minted for",
+  definition: "a device secret's account",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
   decisions: [

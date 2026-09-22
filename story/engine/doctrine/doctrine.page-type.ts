@@ -4,7 +4,7 @@ export const doctrine = {
   id: "01a0826f-8d12-7268-918c-0b3a3574d5f6",
   type: "page-type/page-type",
   slug: "doctrine",
-  definition: "the rulings a game master runs every game by",
+  definition: "a game master's rulings for every game",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "doctrine" }],
   extends: ["page-type/page"],
   runsTabooCheck: false,

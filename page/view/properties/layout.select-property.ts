@@ -5,7 +5,7 @@ export const layout = {
   type: "page-type/select-property",
   slug: "layout",
   propertySlug: "layout",
-  definition: "the arrangement a view draws its pages in",
+  definition: "a view's arrangement of its pages",
   values: ["cards", "gallery", "list", "notes", "table"],
   decisions: [
     {

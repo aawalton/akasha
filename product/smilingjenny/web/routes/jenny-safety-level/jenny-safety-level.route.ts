@@ -4,7 +4,7 @@ export const jennySafetyLevel = {
   id: "01a0824d-0956-7e7c-8f1c-271aa57e00a8",
   type: "page-type/route",
   slug: "jenny-safety-level",
-  definition: "Alan's safety level as the stoplight Jenny's tile draws that level in",
+  definition: "Alan's safety level as the stoplight Jenny's tile draws",
   code: "ts",
   test: "ts",
   urlPath: "api/safety-level",
