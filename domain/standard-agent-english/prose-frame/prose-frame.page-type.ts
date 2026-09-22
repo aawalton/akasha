@@ -4,7 +4,7 @@ export const proseFrame = {
   id: "01a08241-f81d-7e21-8584-c7cc1ab6cf98",
   type: "page-type/page-type",
   slug: "prose-frame",
-  definition: "which construction a word is written in",
+  definition: "a word's construction",
   parts: [
     "prose-frame/fronted",
     "prose-frame/object",

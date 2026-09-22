@@ -4,7 +4,7 @@ export const musicConsent = {
   id: "01a0c4f7-9456-771c-9794-93ac8bf2418b",
   type: "page-type/command",
   slug: "music-consent",
-  definition: "the command asking Alan for the consent this client reaches Spotify under",
+  definition: "the command asking Alan for this client's consent to reach Spotify",
   code: "ts",
   test: "ts",
   maxWallSeconds: 600,

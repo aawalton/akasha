@@ -5,7 +5,7 @@ export const parts = {
   type: "page-type/relation-property",
   slug: "parts",
   propertySlug: "parts",
-  definition: "the domains this one is made of",
+  definition: "the domains making up this one",
   targetPageType: "page-type/domain",
   decisions: [
     {

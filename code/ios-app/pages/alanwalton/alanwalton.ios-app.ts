@@ -4,7 +4,7 @@ export const alanwalton = {
   id: "01a05821-5723-7172-b3f3-b3708871f3fc",
   type: "page-type/ios-app",
   slug: "alanwalton",
-  definition: "the app on Alan's phone and the shell it runs in",
+  definition: "the app on Alan's phone and its shell",
   appProfileName: "alanwalton app App Store",
   ascCapabilities: ["PUSH_NOTIFICATIONS", "HEALTHKIT"],
   buildScript: "shell-script/build-sim",

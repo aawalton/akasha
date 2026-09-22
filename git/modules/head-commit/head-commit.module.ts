@@ -4,7 +4,7 @@ export const headCommit = {
   id: "01a0943c-95cf-7202-81cd-88b1efc7c605",
   type: "page-type/module",
   slug: "head-commit",
-  definition: "the commit a checkout's HEAD is at",
+  definition: "a checkout's HEAD commit",
   code: "ts",
   test: "ts",
   decisions: [

@@ -4,7 +4,7 @@ export const commitAuthor = {
   id: "01a068b1-4f80-7000-adc7-64276300358f",
   type: "page-type/module",
   slug: "commit-author",
-  definition: "who a commit is authored as, read from the persona the writing seat acts under",
+  definition: "who a commit is authored as, read from the writing seat's persona",
   code: "ts",
   test: "ts",
   decisions: [

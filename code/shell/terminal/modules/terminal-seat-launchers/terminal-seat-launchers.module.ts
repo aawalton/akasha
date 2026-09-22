@@ -4,7 +4,8 @@ export const terminalSeatLaunchers = {
   id: "01a0680a-fa30-755d-8c2b-8b46724afdcd",
   type: "page-type/module",
   slug: "terminal-seat-launchers",
-  definition: "the shell starting a fresh seat or resuming one, attached in the terminal typed in",
+  definition:
+    "the shell starting a fresh seat or resuming one, attached in the terminal that typed it",
   code: "ts",
   test: "ts",
   decisions: [

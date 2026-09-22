@@ -4,7 +4,7 @@ export const initiativeAssign = {
   id: "01a0a57f-05fc-7d7e-ba15-9645284ba946",
   type: "page-type/command",
   slug: "initiative-assign",
-  definition: "the command handing an initiative to the seat that initiative's name opens with",
+  definition: "the command handing an initiative to the seat opening that initiative's name",
   code: "ts",
   test: "ts",
   decisions: [

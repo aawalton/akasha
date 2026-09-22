@@ -5,7 +5,7 @@ export const iconDrawing = {
   type: "page-type/file-property",
   slug: "icon-drawing",
   propertySlug: "icon-drawing",
-  definition: "the drawing an app's icon is made from",
+  definition: "the drawing making an app's icon",
   extensions: ["svg"],
   types: "ts",
 } as const satisfies FileProperty

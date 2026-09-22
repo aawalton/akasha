@@ -4,7 +4,7 @@ export const pathRuns = {
   id: "01a08dc8-f79a-7000-992b-06d5107912ec",
   type: "page-type/module",
   slug: "path-runs",
-  definition: "the runs of path characters a body holds, each with the line that run sits on",
+  definition: "the runs of path characters a body holds, each with its own line",
   code: "ts",
   test: "ts",
   decisions: [

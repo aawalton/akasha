@@ -4,7 +4,7 @@ export const designInterfaceBadge = {
   id: "01a05b55-a539-766c-98d3-a4d3e2fc6c4b",
   type: "page-type/domain",
   slug: "design-interface-badge",
-  definition: "the badges a browser draws a short value in",
+  definition: "the badges drawing a short value in a browser",
   parts: [
     "module/badge",
     "module/badge-layout-context",

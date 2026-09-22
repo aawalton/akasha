@@ -4,7 +4,7 @@ export const deployCommitNaming = {
   id: "01a09183-6693-7551-9148-59aca04e1bcd",
   type: "page-type/module",
   slug: "deploy-commit-naming",
-  definition: "the commit a deploy is made at",
+  definition: "a deploy's commit",
   code: "ts",
   test: "ts",
   decisions: [

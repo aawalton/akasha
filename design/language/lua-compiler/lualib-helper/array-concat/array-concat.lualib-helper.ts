@@ -4,7 +4,7 @@ export const arrayConcat = {
   id: "01a081de-4bc1-7a16-9d86-9ac50836fbc3",
   type: "page-type/lualib-helper",
   slug: "array-concat",
-  definition: "the array an array and further items are joined into",
+  definition: "the array joining an array and further items",
   code: "ts",
   luaExport: "__TS__ArrayConcat",
 } as const satisfies LualibHelper
