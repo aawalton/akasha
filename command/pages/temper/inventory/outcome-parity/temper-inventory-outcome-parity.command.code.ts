@@ -24,7 +24,7 @@ import type { WalkOutcome } from "akasha/temper/items/rules/eval/modules/eval-re
 
 const NAMED = [inventoryPathArgument, charactersPathArgument]
 
-const INVENTORY_LUA = "TemperInventory.lua"
+const INVENTORY_LUA = "TemperItems.lua"
 
 const CHARACTERS_LUA = "TemperCharacters.lua"
 
@@ -142,7 +142,7 @@ export async function temperInventoryOutcomeParity(
   try {
     const caps = await explainCapabilities()
     const db = caps.parseInventoryContent(content)
-    const config = await caps.loadTemperInventoryConfigFromPath(inventoryPath)
+    const config = await caps.loadTemperItemsConfigFromPath(inventoryPath)
     const characters = await caps.loadTemperCharactersFromPath(charactersPath)
     const charactersById = new Map<string, CharacterKnowledge>(
       characters.map((one) => [one.id, one])

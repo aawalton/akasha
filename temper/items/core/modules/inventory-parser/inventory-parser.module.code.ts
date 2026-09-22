@@ -276,14 +276,13 @@ export function parseInventoryContent(content: string): InventoryDatabase {
   const root = parseLuaSavedVariablesFile(content, "TemperInventory_SavedVariables")
 
   const defaultTable = asRecord(root.Default)
-  if (!defaultTable) throw new Error("Missing Default table in TemperInventory saved variables")
+  if (!defaultTable) throw new Error("Missing Default table in TemperItems saved variables")
 
   const accountWide = readFirstAccountWide(defaultTable)
-  if (!accountWide)
-    throw new Error("Could not find $AccountWide in TemperInventory saved variables")
+  if (!accountWide) throw new Error("Could not find $AccountWide in TemperItems saved variables")
 
   const db = asRecord(accountWide.db)
-  if (!db) throw new Error("Missing db field in TemperInventory saved variables")
+  if (!db) throw new Error("Missing db field in TemperItems saved variables")
 
   const rawMeta = asRecord(db.meta)
   const meta: InventoryDatabase["meta"] = {

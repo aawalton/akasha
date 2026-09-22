@@ -59,13 +59,13 @@ import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-02/eso-objects-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-import "akasha/temper/addon/type/temper-inventory-global/temper-inventory-global.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-items-global/temper-items-global.type-declaration.d.ts"
 
 function backpackBufferSlots(): number {
-  if (globalThis.TemperInventory?.isSavedVariablesReady() !== true) {
+  if (globalThis.TemperItems?.isSavedVariablesReady() !== true) {
     return FALLBACK_BACKPACK_BUFFER_SLOTS
   }
-  const saved: unknown = globalThis.TemperInventory?.getSavedVariables()
+  const saved: unknown = globalThis.TemperItems?.getSavedVariables()
   if (!isObjectRecord(saved)) return FALLBACK_BACKPACK_BUFFER_SLOTS
   const backpack = saved["backpack"]
   if (!isObjectRecord(backpack)) return FALLBACK_BACKPACK_BUFFER_SLOTS
@@ -198,8 +198,8 @@ export function refreshTaskHud(): undefined {
     return 0
   })
 
-  const inventorySummary = globalThis.TemperInventory?.getInventoryActionSummary()
-  const backpackFreeSlots = globalThis.TemperInventory?.getBackpackFreeSlots()
+  const inventorySummary = globalThis.TemperItems?.getInventoryActionSummary()
+  const backpackFreeSlots = globalThis.TemperItems?.getBackpackFreeSlots()
   const showInventoryRow =
     backpackFreeSlots !== undefined && backpackFreeSlots <= backpackBufferSlots()
 

@@ -17,7 +17,7 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-currency/inventory-currency.module.code.ts"
 import { registerEquipmentLockOverlay } from "akasha/temper/addon/pages/items/modules/inventory-equipment-lock-overlay/inventory-equipment-lock-overlay.module.code.ts"
 import { registerInventoryEvents } from "akasha/temper/addon/pages/items/modules/inventory-events/inventory-events.module.code.ts"
-import { onTemperInventorySubcommand } from "akasha/temper/addon/pages/items/modules/inventory-explain-slash-command/inventory-explain-slash-command.module.code.ts"
+import { onTemperItemsSubcommand } from "akasha/temper/addon/pages/items/modules/inventory-explain-slash-command/inventory-explain-slash-command.module.code.ts"
 import { initializeFilterBar } from "akasha/temper/addon/pages/items/modules/inventory-filter-bar-init/inventory-filter-bar-init.module.code.ts"
 import { registerHudFields } from "akasha/temper/addon/pages/items/modules/inventory-hud-fields/inventory-hud-fields.module.code.ts"
 import { pruneConfirmedVerdicts } from "akasha/temper/addon/pages/items/modules/inventory-item-rule-verdict-store/inventory-item-rule-verdict-store.module.code.ts"
@@ -124,8 +124,8 @@ function initialize(): undefined {
   globalThis.TemperHud?.registerCommand({
     name: "inventory",
     description: "Inventory rule diagnostics (explain / explain-buy)",
-    addon: "TemperInventory",
-    handler: onTemperInventorySubcommand,
+    addon: "TemperItems",
+    handler: onTemperItemsSubcommand,
   })
 
   SLASH_COMMANDS["/tempermwprobe"] = function (this: void): undefined {
@@ -144,7 +144,7 @@ function initialize(): undefined {
     globalThis.TemperHud?.registerCommand({
       name: entry.name,
       description: entry.description,
-      addon: "TemperInventory",
+      addon: "TemperItems",
     })
   }
 

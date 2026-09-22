@@ -73,7 +73,7 @@ export function WatcherPageContent({
                   <strong className="text-primary">The Temper ESO add-ons.</strong> The Watcher does
                   not read the game directly. It reads the SavedVariables files that the Temper
                   add-ons — <strong className="text-primary">TemperCharacters</strong> and{" "}
-                  <strong className="text-primary">TemperInventory</strong> — write while you play.
+                  <strong className="text-primary">TemperItems</strong> — write while you play.
                   Without those add-ons installed in ESO there are no files to read, and nothing
                   will sync no matter how the rest of the setup goes. You download them from Temper,
                   below.

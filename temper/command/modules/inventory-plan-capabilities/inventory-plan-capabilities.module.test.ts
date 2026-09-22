@@ -14,7 +14,7 @@ import {
 describe("planInputs", () => {
   test("hands over the two default saved variables paths and the two loaders", async () => {
     const held = await planInputs()
-    expect(held.DEFAULT_INVENTORY_PATH).toContain("TemperInventory.lua")
+    expect(held.DEFAULT_INVENTORY_PATH).toContain("TemperItems.lua")
     expect(held.DEFAULT_CHARACTERS_PATH).toContain("TemperCharacters.lua")
     expect(typeof held.loadInventoryPlanInputs).toBe("function")
     expect(typeof held.buildMatcherContext).toBe("function")
@@ -39,7 +39,7 @@ describe("the parts a plan run takes one at a time", () => {
 
   test("a config is parsed from content or read from a path", async () => {
     const held = await parseConfig()
-    expect(typeof held.parseTemperInventoryConfig).toBe("function")
-    expect(typeof held.loadTemperInventoryConfigFromPath).toBe("function")
+    expect(typeof held.parseTemperItemsConfig).toBe("function")
+    expect(typeof held.loadTemperItemsConfigFromPath).toBe("function")
   })
 })

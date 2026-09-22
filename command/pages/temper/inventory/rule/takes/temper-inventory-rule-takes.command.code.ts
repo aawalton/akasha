@@ -24,7 +24,7 @@ const TAKES = [categoryRuleId, json, inventoryPathArgument, charactersPathArgume
 
 const SPACES = 2
 
-const HEADER = "[TemperInventory] Rule takes:"
+const HEADER = "[TemperItems] Rule takes:"
 
 export interface TakenStack {
   readonly itemId: number

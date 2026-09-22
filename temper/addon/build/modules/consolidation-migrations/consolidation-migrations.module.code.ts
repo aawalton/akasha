@@ -316,6 +316,13 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "rename",
+    runFor: "TemperItems",
+    oldFileBase: "TemperInventory",
+    newFileBase: "TemperItems",
+    renames: [],
+  },
+  {
+    mode: "rename",
     runFor: "TemperKeybinder",
     oldFileBase: "TemperVotansKeybinder",
     newFileBase: "TemperKeybinder",

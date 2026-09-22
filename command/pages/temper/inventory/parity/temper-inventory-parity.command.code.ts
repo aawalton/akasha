@@ -39,7 +39,7 @@ import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-fact
 
 const NAMED = [inventoryPathArgument, charactersPathArgument, charArgument, tracedItemIdArgument]
 
-const INVENTORY_LUA = "TemperInventory.lua"
+const INVENTORY_LUA = "TemperItems.lua"
 
 const CHARACTERS_LUA = "TemperCharacters.lua"
 
@@ -273,7 +273,7 @@ export async function temperInventoryParity(
   let facts: ItemFacts
   try {
     const { item, location } = resolved
-    const config = await caps.loadTemperInventoryConfigFromPath(inventoryPath)
+    const config = await caps.loadTemperItemsConfigFromPath(inventoryPath)
     const characters = await caps.loadTemperCharactersFromPath(charactersPath)
     const charactersById = new Map<string, CharacterKnowledge>(
       characters.map((one) => [one.id, one])

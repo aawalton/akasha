@@ -142,9 +142,9 @@ function GuildBankListPlaceholder({ state }: { state: Exclude<GuildBankListState
             </EmptyMedia>
             <EmptyTitle>No guild banks in your inventory data</EmptyTitle>
             <EmptyDescription>
-              Your inventory data reached Temper and contains no guild banks. TemperInventory can
-              only record a guild bank once you have opened it in game, so a bank you have not
-              opened since installing the add-on will not be here yet.
+              Your inventory data reached Temper and contains no guild banks. TemperItems can only
+              record a guild bank once you have opened it in game, so a bank you have not opened
+              since installing the add-on will not be here yet.
             </EmptyDescription>
           </EmptyHeader>
         </Empty>

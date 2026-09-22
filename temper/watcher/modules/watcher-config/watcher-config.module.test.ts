@@ -30,7 +30,7 @@ test("a saved-variables file sits in the saved-variables directory", () => {
 })
 
 test("a config file written back sits in its own addon's directory", () => {
-  expect(CONFIG.inventoryConfigPath).toBe("/game/AddOns/TemperInventory/TemperInventoryConfig.lua")
+  expect(CONFIG.inventoryConfigPath).toBe("/game/AddOns/TemperItems/TemperItemsConfig.lua")
   expect(CONFIG.catalogConfigPath).toBe("/game/AddOns/TemperCatalog/TemperCatalogConfig.lua")
   expect(CONFIG.charactersConfigPath).toBe(
     "/game/AddOns/TemperCharacters/TemperCharactersConfig.lua"
@@ -75,7 +75,7 @@ test("a saved-variables file is named for the addon that writes it", () => {
   expect(CONFIG.companionsPath).toBe("/game/SavedVariables/TemperCharacters.lua")
   expect(CONFIG.temperCatalogPath).toBe("/game/SavedVariables/TemperCatalog.lua")
   expect(CONFIG.dataMiningPath).toBe("/game/SavedVariables/TemperCatalog.lua")
-  expect(CONFIG.inventoryPath).toBe("/game/SavedVariables/TemperInventory.lua")
+  expect(CONFIG.inventoryPath).toBe("/game/SavedVariables/TemperItems.lua")
   expect(CONFIG.temperErrorsPath).toBe("/game/SavedVariables/TemperHud.lua")
   expect(CONFIG.temperSalesPath).toBe("/game/SavedVariables/TemperSales.lua")
 })

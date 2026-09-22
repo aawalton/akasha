@@ -3,7 +3,7 @@ import { savedVariablesRootSchema } from "akasha/temper/eso/saved-variable/modul
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import type { z } from "zod"
 
-const FILE_NAME = "TemperInventory.lua"
+const FILE_NAME = "TemperItems.lua"
 
 const VARIABLES_NAME = "TemperInventory_SavedVariables"
 

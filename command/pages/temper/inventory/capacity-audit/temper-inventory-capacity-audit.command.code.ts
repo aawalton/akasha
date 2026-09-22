@@ -23,7 +23,7 @@ const TAKES = [json, inventoryPathArgument, charactersPathArgument]
 
 const SPACES = 2
 
-const AUDIT_HEADER = "[TemperInventory] Capacity audit:"
+const AUDIT_HEADER = "[TemperItems] Capacity audit:"
 
 function auditSaid(audit: CapacityAudit): readonly string[] {
   if (audit.entries.length === 0) {

@@ -20,7 +20,7 @@ const TAKES = [json]
 
 const SPACES = 2
 
-const HEADER = "[TemperInventory] Categories:"
+const HEADER = "[TemperItems] Categories:"
 
 const INDENT = "  "
 

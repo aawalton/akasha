@@ -6,7 +6,7 @@ export const inventoryConfigFile = {
   slug: "inventory-config-file",
   definition: "the one name the inventory add-on's config is read back into",
   lua: "lua",
-  loadedAs: "TemperInventoryConfig.lua",
+  loadedAs: "TemperItemsConfig.lua",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

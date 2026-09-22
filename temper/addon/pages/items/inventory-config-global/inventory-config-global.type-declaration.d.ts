@@ -1,1 +1,1 @@
-declare var TemperInventoryConfig: unknown
+declare var TemperItemsConfig: unknown

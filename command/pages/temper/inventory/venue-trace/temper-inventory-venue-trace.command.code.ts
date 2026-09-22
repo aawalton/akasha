@@ -23,7 +23,7 @@ import {
 } from "akasha/temper/command/modules/venue-trace-saying/venue-trace-saying.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
-const INVENTORY_LUA = "TemperInventory.lua"
+const INVENTORY_LUA = "TemperItems.lua"
 
 const NAMED = [visitArgument, json, inventoryPath]
 

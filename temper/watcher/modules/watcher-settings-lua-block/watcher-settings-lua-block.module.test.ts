@@ -5,7 +5,7 @@ import {
 } from "akasha/temper/watcher/modules/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
 
 const FILE = [
-  "TemperInventory =",
+  "TemperItems =",
   "{",
   '    ["Default"] =',
   "    {",
@@ -21,7 +21,7 @@ const FILE = [
 test("a key already there is replaced where it is", () => {
   const out = replaceOrInsertLuaBlock(FILE, "alpha", ['        ["alpha"] = "new",'], [])
   expect(out).toEqual([
-    "TemperInventory =",
+    "TemperItems =",
     "{",
     '    ["Default"] =',
     "    {",
@@ -64,7 +64,7 @@ test("content no anchor is found in is handed back unchanged", () => {
 
 test("a block opening and closing on one line is replaced whole", () => {
   const oneLine = [
-    "TemperInventory =",
+    "TemperItems =",
     "{",
     '    ["Default"] = { ["sell"] = { 1, 2, 3, }, ["db"] = {}, },',
     "}",
@@ -76,7 +76,7 @@ test("a block opening and closing on one line is replaced whole", () => {
     ["db"]
   )
   expect(out).toEqual([
-    "TemperInventory =",
+    "TemperItems =",
     "{",
     '    ["Default"] = { ["sell"] = { 9, }, ["db"] = {}, },',
     "}",

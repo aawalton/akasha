@@ -27,36 +27,36 @@ let repackRunning = false
 
 export function repackGuildBank(): undefined {
   if (!IsGuildBankOpen()) {
-    d("[TemperInventory] Guild bank must be open to repack")
+    d("[TemperItems] Guild bank must be open to repack")
     return
   }
 
   if (repackRunning) {
-    d("[TemperInventory] Repack already in progress")
+    d("[TemperItems] Repack already in progress")
     return
   }
 
   if (GetNumBagFreeSlots(BAG_BACKPACK) < 1) {
-    d("[TemperInventory] Need at least 1 free backpack slot to repack")
+    d("[TemperItems] Need at least 1 free backpack slot to repack")
     return
   }
 
   const guildId = GetSelectedGuildBankId()
   if (guildId === undefined) {
-    d("[TemperInventory] Guild bank must be open to repack")
+    d("[TemperItems] Guild bank must be open to repack")
     return
   }
 
   if (!DoesPlayerHaveGuildPermission(guildId, GUILD_PERMISSION_BANK_WITHDRAW)) {
-    d("[TemperInventory] You do not have permission to withdraw from this guild bank")
+    d("[TemperItems] You do not have permission to withdraw from this guild bank")
     return
   }
   if (!DoesPlayerHaveGuildPermission(guildId, GUILD_PERMISSION_BANK_DEPOSIT)) {
-    d("[TemperInventory] You do not have permission to deposit to this guild bank")
+    d("[TemperItems] You do not have permission to deposit to this guild bank")
     return
   }
   if (!DoesGuildHavePrivilege(guildId, GUILD_PRIVILEGE_BANK_DEPOSIT)) {
-    d("[TemperInventory] This guild does not have bank deposit privileges")
+    d("[TemperItems] This guild does not have bank deposit privileges")
     return
   }
 

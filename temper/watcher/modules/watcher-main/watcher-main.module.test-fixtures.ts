@@ -31,7 +31,7 @@ export const CAPTURED_BASENAMES = [
   "TemperCharacters.lua",
   "TemperCatalog.lua",
   "TemperHud.lua",
-  "TemperInventory.lua",
+  "TemperItems.lua",
   "TemperSales.lua",
 ] as const
 
@@ -41,7 +41,7 @@ export const LEGACY_LABELS = [
   "Characters",
   "Catalog",
   "Hud",
-  "Inventory",
+  "Items",
   "Sales",
 ] as const
 

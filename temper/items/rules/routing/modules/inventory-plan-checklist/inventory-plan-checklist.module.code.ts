@@ -3,7 +3,7 @@ import type {
   VenueStop,
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
-const HEADER = "[TemperInventory] Checklist"
+const HEADER = "[TemperItems] Checklist"
 
 import { counted as plural } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 

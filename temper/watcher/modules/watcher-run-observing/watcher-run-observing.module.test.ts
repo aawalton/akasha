@@ -210,7 +210,7 @@ test("a side file is judged by whether its folder is there rather than the file"
   try {
     const { operation } = await observeSideFileExport(
       "inventoryConfig",
-      join(dir, "TemperInventoryConfig.lua"),
+      join(dir, "TemperItemsConfig.lua"),
       async () => "ok"
     )
     expect(operation?.state).toBe("synced")
@@ -222,7 +222,7 @@ test("a side file is judged by whether its folder is there rather than the file"
 test("a side file under a folder that is not there is judged absent without being told", async () => {
   const { operation } = await observeSideFileExport(
     "inventoryConfig",
-    "/nowhere/at/all/TemperInventory/TemperInventoryConfig.lua",
+    "/nowhere/at/all/TemperItems/TemperItemsConfig.lua",
     async () => "ok"
   )
   expect(operation?.state).toBe("skipped")

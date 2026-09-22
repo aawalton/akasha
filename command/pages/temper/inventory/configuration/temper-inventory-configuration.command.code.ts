@@ -18,14 +18,14 @@ import {
   compiledFromRecords,
   divergenceBetween,
 } from "akasha/temper/command/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"
-import { loadTemperInventoryConfigFromPath } from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
+import { loadTemperItemsConfigFromPath } from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const TAKES = [json, inventoryPathArgument, sectionArgument]
 
-const INVENTORY_LUA = "TemperInventory.lua"
+const INVENTORY_LUA = "TemperItems.lua"
 
 const SECTIONS = ["rules", "item-rules", "consumables", "priority", "divergence", "all"] as const
 
@@ -234,7 +234,7 @@ export async function temperInventoryConfiguration(
       ? savedVarsFile(INVENTORY_LUA)
       : resolve(root, taken.inventoryPath)
   try {
-    const config = (await loadTemperInventoryConfigFromPath(at)) as CompiledInventoryConfig
+    const config = (await loadTemperItemsConfigFromPath(at)) as CompiledInventoryConfig
     const weighing = held === "divergence" || held === "all" ? await weighed(config) : null
     if (taken.json) return asJson(jsonShape(config, held, weighing))
     return told([...textOf(config, held, weighing)])

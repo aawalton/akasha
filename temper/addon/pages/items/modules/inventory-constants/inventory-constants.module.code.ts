@@ -1,7 +1,7 @@
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-ZO_CreateStringId("SI_KEYBINDINGS_CATEGORY_TEMPERINVENTORY", "Temper Inventory")
+ZO_CreateStringId("SI_KEYBINDINGS_CATEGORY_TEMPERITEMS", "Temper Items")
 ZO_CreateStringId("SI_BINDING_NAME_TEMPERINVENTORY_TOGGLE_SELL", "Toggle Sell to Merchant")
 ZO_CreateStringId(
   "SI_BINDING_NAME_TEMPERINVENTORY_TOGGLE_LOCK",
@@ -12,7 +12,7 @@ ZO_CreateStringId(
   "Toggle Cross-Character Browser"
 )
 
-export const ADDON_NAME = "TemperInventory"
+export const ADDON_NAME = "TemperItems"
 export const SAVED_VARIABLES_NAME = "TemperInventory_SavedVariables"
 
 export const PERSONAL_BAGS = [BAG_BACKPACK, BAG_WORN]

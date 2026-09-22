@@ -35,9 +35,9 @@ export default function LandingRoute() {
             </p>
             <ul className="space-y-2 text-secondary text-sm">
               <li>
-                <strong>The Temper ESO add-ons</strong> — TemperCharacters and TemperInventory —
-                write the files Temper reads. You download them from Temper, extract them into your
-                ESO add-ons folder, and enable them in game.
+                <strong>The Temper ESO add-ons</strong> — TemperCharacters and TemperItems — write
+                the files Temper reads. You download them from Temper, extract them into your ESO
+                add-ons folder, and enable them in game.
               </li>
               <li>
                 <strong>Tamriel Trade Centre</strong>, a separate community add-on that is not ours,

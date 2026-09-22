@@ -51,8 +51,8 @@ export function buildConfig(dirs: ConfigDirs = {}): WatcherConfig {
     companionsPath: join(savedVarsDir, "TemperCharacters.lua"),
     temperCatalogPath: join(savedVarsDir, "TemperCatalog.lua"),
     dataMiningPath: join(savedVarsDir, "TemperCatalog.lua"),
-    inventoryPath: join(savedVarsDir, "TemperInventory.lua"),
-    inventoryConfigPath: addonConfig(addonsDir, "TemperInventory"),
+    inventoryPath: join(savedVarsDir, "TemperItems.lua"),
+    inventoryConfigPath: addonConfig(addonsDir, "TemperItems"),
     catalogConfigPath: addonConfig(addonsDir, "TemperCatalog"),
     charactersConfigPath: addonConfig(addonsDir, "TemperCharacters"),
     companionsConfigPath: join(

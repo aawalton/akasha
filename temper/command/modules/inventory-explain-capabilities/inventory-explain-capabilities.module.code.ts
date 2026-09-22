@@ -1,5 +1,5 @@
 import { loadTemperCharactersFromPath } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
-import { loadTemperInventoryConfigFromPath } from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
+import { loadTemperItemsConfigFromPath } from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
 import { buildCliEvalEnv } from "akasha/temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts"
 import { cliItemFactsFromInventoryItem } from "akasha/temper/command/modules/inventory-item-facts/inventory-item-facts.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
@@ -37,7 +37,7 @@ export interface ExplainCapabilities {
   readonly walkRules: typeof walkRules
   readonly matchRules: typeof matchRules
   readonly loadTemperCharactersFromPath: typeof loadTemperCharactersFromPath
-  readonly loadTemperInventoryConfigFromPath: typeof loadTemperInventoryConfigFromPath
+  readonly loadTemperItemsConfigFromPath: typeof loadTemperItemsConfigFromPath
 }
 
 export async function explainCapabilities(): Promise<ExplainCapabilities> {
@@ -52,7 +52,7 @@ export async function explainCapabilities(): Promise<ExplainCapabilities> {
     walkRules,
     matchRules,
     loadTemperCharactersFromPath,
-    loadTemperInventoryConfigFromPath,
+    loadTemperItemsConfigFromPath,
   }
 }
 

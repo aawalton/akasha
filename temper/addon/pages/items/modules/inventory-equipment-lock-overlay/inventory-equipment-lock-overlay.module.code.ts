@@ -10,7 +10,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 const LOCK_TEXTURE = "EsoUI/Art/Miscellaneous/locked_up.dds"
 const ICON_SIZE = 24
 const ICON_CHILD_SUFFIX = "TemperLock"
-const EVENT_NAMESPACE = "TemperInventoryEquipLock"
+const EVENT_NAMESPACE = "TemperItemsEquipLock"
 
 const CHARACTER_PREFIX = "ZO_CharacterEquipmentSlots"
 const COMPANION_PREFIX = "ZO_CompanionCharacterWindow_Keyboard_TopLevelEquipmentSlots"

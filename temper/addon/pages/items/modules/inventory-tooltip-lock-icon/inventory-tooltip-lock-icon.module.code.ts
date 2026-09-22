@@ -8,7 +8,7 @@ const LOCK_TEXTURE = "EsoUI/Art/Miscellaneous/locked_up.dds"
 
 export function registerTooltipLockIcon(): undefined {
   const lockIcon = WINDOW_MANAGER.CreateControl(
-    "TemperInventoryTooltipLockIcon",
+    "TemperItemsTooltipLockIcon",
     ItemTooltip,
     CT_TEXTURE
   )

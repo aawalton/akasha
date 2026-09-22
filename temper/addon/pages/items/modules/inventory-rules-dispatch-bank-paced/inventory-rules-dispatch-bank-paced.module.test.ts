@@ -123,7 +123,7 @@ describe("inventory-rules-dispatch-bank-paced", () => {
     expect(stats.planned).toBe(150)
     expect(stats.issued).toBe(100)
     expect(stats.confirmed).toBe(100)
-    expect(sim.said).toContain("[TemperInventory] Bank closed — 50 moves not sent")
+    expect(sim.said).toContain("[TemperItems] Bank closed — 50 moves not sent")
     expect(sim.issued.length).toBe(100)
     expect(settled).toBe(true)
     expect(isPacedBankRunning()).toBe(false)

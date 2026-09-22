@@ -22,7 +22,7 @@ import {
 
 const TAKES = [inventoryPathArgument, itemlink]
 
-const INVENTORY_LUA = "TemperInventory.lua"
+const INVENTORY_LUA = "TemperItems.lua"
 
 const NO_KEY = "none"
 

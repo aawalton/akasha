@@ -239,7 +239,7 @@ export function InventoryTypeDataContent({
             <EmptyTitle>No inventory data</EmptyTitle>
             <EmptyDescription>
               No inventory has reached this page for your account. Inventory comes from the file the
-              TemperInventory add-on writes while you play, and the Watcher syncs that file for you.
+              TemperItems add-on writes while you play, and the Watcher syncs that file for you.
             </EmptyDescription>
           </EmptyHeader>
           <EmptyContent>

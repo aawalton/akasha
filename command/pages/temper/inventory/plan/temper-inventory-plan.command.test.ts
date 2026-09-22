@@ -44,10 +44,10 @@ test("a flag this takes no argument for is refused", async () => {
 })
 
 test("a bare word is refused, this command taking none", async () => {
-  const said = await temperInventoryPlan(["TemperInventory.lua"], GIVEN)
+  const said = await temperInventoryPlan(["TemperItems.lua"], GIVEN)
 
   expect(said.code).toBe(INPUT)
-  expect(said.refusals.join("\n")).toContain("`TemperInventory.lua` is no argument")
+  expect(said.refusals.join("\n")).toContain("`TemperItems.lua` is no argument")
 })
 
 test("a flag taking a value with nothing after it is refused", async () => {
@@ -74,12 +74,12 @@ test("a plan with no venue stop says so rather than saying nothing", () => {
     totalSlots: 0,
   }
 
-  expect(planSaid(empty)).toEqual(["[TemperInventory] Plan:", "  (no actions pending)"])
+  expect(planSaid(empty)).toEqual(["[TemperItems] Plan:", "  (no actions pending)"])
 })
 
 test("holdings every rule reaches are said as such rather than as an empty list", () => {
   expect(unmappedSaid({ unreached: [], undecided: [] })).toEqual([
-    "[TemperInventory] Unmapped:",
+    "[TemperItems] Unmapped:",
     "  every item the holdings hold is reached by a rule.",
     "  no item a rule reaches is left undecided.",
   ])
@@ -95,7 +95,7 @@ test("the items no rule reaches are counted by unit and by kind", () => {
       undecided: [],
     })
   ).toEqual([
-    "[TemperInventory] Unmapped:",
+    "[TemperItems] Unmapped:",
     "  no rule reaches 23 item(s) of 2 kind(s):",
     "    Dwarven Oil ×14",
     "    Grand Repair Kit ×9",
@@ -163,7 +163,7 @@ test("the report tells an item no rule reaches from an item a rule could not dec
       ],
     })
   ).toEqual([
-    "[TemperInventory] Unmapped:",
+    "[TemperItems] Unmapped:",
     "  no rule reaches 14 item(s) of 1 kind(s):",
     "    Dwarven Oil ×14",
     "  a rule could not decide 84 item(s) of 1 kind(s):",

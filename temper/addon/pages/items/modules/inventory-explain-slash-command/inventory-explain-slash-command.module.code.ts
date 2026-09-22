@@ -1,5 +1,5 @@
 import { asObjectRecord } from "akasha/code/type/narrowing/modules/as-object-record/as-object-record.module.code.ts"
-import { onTemperInventoryExplainBuyCommand } from "akasha/temper/addon/pages/items/modules/inventory-buy-explain-slash-command/inventory-buy-explain-slash-command.module.code.ts"
+import { onTemperItemsExplainBuyCommand } from "akasha/temper/addon/pages/items/modules/inventory-buy-explain-slash-command/inventory-buy-explain-slash-command.module.code.ts"
 import { buildSkillGateEval } from "akasha/temper/addon/pages/items/modules/inventory-explain-skill-gate-eval/inventory-explain-skill-gate-eval.module.code.ts"
 import { buildExplainTrace } from "akasha/temper/addon/pages/items/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"
 import { captureOrNull } from "akasha/temper/addon/pages/items/modules/inventory-match-capture/inventory-match-capture.module.code.ts"
@@ -145,7 +145,7 @@ function printGateEvalSummary(
   }
 }
 
-function onTemperInventoryExplainCommand(this: void, args: string): undefined {
+function onTemperItemsExplainCommand(this: void, args: string): undefined {
   const [captured] = string.match(args, "(|H.-|h.-|h)")
   const matched = captureOrNull(captured)
   if (matched === null) {
@@ -181,12 +181,12 @@ function onTemperInventoryExplainCommand(this: void, args: string): undefined {
   printExplainSummary(trace, gateEval)
 }
 
-export function onTemperInventorySubcommand(this: void, args: string): undefined {
+export function onTemperItemsSubcommand(this: void, args: string): undefined {
   const rest = args !== undefined ? args : ""
   const [capturedExplainBuy] = string.match(rest, "^%s*explain%-buy%s*(.*)$")
   const restAfterExplainBuy = captureOrNull(capturedExplainBuy)
   if (restAfterExplainBuy !== null) {
-    onTemperInventoryExplainBuyCommand(restAfterExplainBuy)
+    onTemperItemsExplainBuyCommand(restAfterExplainBuy)
     return
   }
   const [capturedExplain] = string.match(rest, "^%s*explain%s+(.*)$")
@@ -195,5 +195,5 @@ export function onTemperInventorySubcommand(this: void, args: string): undefined
     d(`${PREFIX} ${TEMPER_USAGE}`)
     return
   }
-  onTemperInventoryExplainCommand(restAfterExplain)
+  onTemperItemsExplainCommand(restAfterExplain)
 }

@@ -20,7 +20,7 @@ import { luaArrayOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-ar
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import { z } from "zod"
 
-const INVENTORY_LUA = "TemperInventory.lua"
+const INVENTORY_LUA = "TemperItems.lua"
 
 const SAVED_VARIABLES = "TemperInventory_SavedVariables"
 

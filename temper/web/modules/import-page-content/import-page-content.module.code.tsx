@@ -84,10 +84,10 @@ export function ImportPageContent() {
                 <strong className="text-primary">Tamriel Trade Centre</strong> is a separate
                 community add-on, not one of ours, and its terms do not allow anyone else to
                 redistribute it — so it is not in that download, and you install it yourself from
-                Minion or esoui.com. It is where Temper gets guild-store prices. TemperInventory
-                records whatever prices it finds at scan time, so an inventory captured without it
-                syncs fine and then values your items at vendor prices only — a small fraction of
-                what they are worth.
+                Minion or esoui.com. It is where Temper gets guild-store prices. TemperItems records
+                whatever prices it finds at scan time, so an inventory captured without it syncs
+                fine and then values your items at vendor prices only — a small fraction of what
+                they are worth.
               </p>
               <p className="text-tertiary">
                 Manual upload and the add-ons themselves work on any operating system. The{" "}

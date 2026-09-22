@@ -107,7 +107,7 @@ test("an outcome is read down to its kind, action and destination", () => {
 })
 
 const SPLIT: EnvParityJson = {
-  inventoryPath: "/held/TemperInventory.lua",
+  inventoryPath: "/held/TemperItems.lua",
   rules: 90,
   items: 412,
   stacks: 1979,

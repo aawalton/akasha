@@ -6,7 +6,7 @@ import {
 } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   type CompiledInventoryConfig,
-  parseTemperInventoryConfig,
+  parseTemperItemsConfig,
 } from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { luaStringsOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-array/lua-array.module.code.ts"
@@ -19,7 +19,7 @@ import type { ItemRule } from "akasha/temper/items/rules/core/modules/inventory-
 import type { RuleMatcherContext } from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 
-export const DEFAULT_INVENTORY_PATH = savedVarsFile("TemperInventory.lua")
+export const DEFAULT_INVENTORY_PATH = savedVarsFile("TemperItems.lua")
 export const DEFAULT_CHARACTERS_PATH = savedVarsFile("TemperCharacters.lua")
 
 const BANK = "Bank"
@@ -40,7 +40,7 @@ export async function loadInventoryPlanInputs(
 ): Promise<InventoryPlanInputs> {
   const inventoryContent = await readInventoryContent(inventoryPath)
   const db = parseInventoryContent(inventoryContent)
-  const config = parseTemperInventoryConfig(inventoryContent)
+  const config = parseTemperItemsConfig(inventoryContent)
 
   const characters = await loadTemperCharactersFromPath(charactersPath)
   const charactersById = new Map<string, CharacterKnowledge>(characters.map((one) => [one.id, one]))
@@ -218,6 +218,6 @@ async function readInventoryContent(path: string): Promise<string> {
     return await readFile(path, "utf8")
   } catch (err) {
     const reason = err instanceof Error ? err.message : String(err)
-    throw new DataError(`could not read TemperInventory.lua at ${path}: ${reason}`)
+    throw new DataError(`could not read TemperItems.lua at ${path}: ${reason}`)
   }
 }

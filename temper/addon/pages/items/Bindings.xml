@@ -1,14 +1,14 @@
 <Bindings>
   <Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
-    <Category name="SI_KEYBINDINGS_CATEGORY_TEMPERINVENTORY">
+    <Category name="SI_KEYBINDINGS_CATEGORY_TEMPERITEMS">
       <Action name="TEMPERINVENTORY_TOGGLE_SELL">
-        <Down>TemperInventory.ToggleHoveredItemSell()</Down>
+        <Down>TemperItems.ToggleHoveredItemSell()</Down>
       </Action>
       <Action name="TEMPERINVENTORY_TOGGLE_LOCK">
-        <Down>TemperInventory.ToggleHoveredItemLock()</Down>
+        <Down>TemperItems.ToggleHoveredItemLock()</Down>
       </Action>
       <Action name="TEMPERINVENTORY_TOGGLE_BROWSER">
-        <Down>TemperInventory.ToggleInventoryBrowser()</Down>
+        <Down>TemperItems.ToggleInventoryBrowser()</Down>
       </Action>
     </Category>
   </Layer>

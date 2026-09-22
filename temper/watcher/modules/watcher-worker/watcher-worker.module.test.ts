@@ -132,9 +132,9 @@ test("the dispatch handed to the start carries every path the ask names", async 
       content: "lua",
       token: "wt_unit",
       serverUrl: "https://example.test",
-      sourcePath: "/var/tmp/TemperInventory.lua",
+      sourcePath: "/var/tmp/TemperItems.lua",
       sourceMtimeMs: 1_700_000_000_000,
-      inventoryConfigPath: "/var/tmp/TemperInventoryConfig.lua",
+      inventoryConfigPath: "/var/tmp/TemperItemsConfig.lua",
     })
   ).rejects.toThrow(SESSION_NOT_OPEN)
 })

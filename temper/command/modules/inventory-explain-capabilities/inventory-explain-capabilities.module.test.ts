@@ -67,7 +67,7 @@ describe("explainCapabilities", () => {
       "cliItemFactsFromInventoryItem",
       "computeStockGroups",
       "loadTemperCharactersFromPath",
-      "loadTemperInventoryConfigFromPath",
+      "loadTemperItemsConfigFromPath",
       "locationConditionFromKeyAndBag",
       "matchRules",
       "parseInventoryContent",

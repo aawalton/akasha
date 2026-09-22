@@ -41,7 +41,7 @@ function itemRuleIdFor(itemId: number): string {
   return `${ITEM_RULE_ID_PREFIX}${String(itemId)}`
 }
 
-const FILE_NAME = "TemperInventory.lua"
+const FILE_NAME = "TemperItems.lua"
 
 const VARIABLES_NAME = "TemperInventory_SavedVariables"
 
@@ -241,7 +241,7 @@ function ruleIdFor(rule: { categoryId?: string }, index: number): string {
   return `${rule.categoryId ?? "rule"}#${index}`
 }
 
-export function parseTemperInventoryConfig(content: string): CompiledInventoryConfig {
+export function parseTemperItemsConfig(content: string): CompiledInventoryConfig {
   const rawRoot = parseLuaSavedVariablesFile(content, VARIABLES_NAME)
   const root = ROOT_SCHEMA.parse(rawRoot)
 
@@ -313,7 +313,7 @@ function itemRulesFrom(
   return out.sort((one, two) => one.itemId - two.itemId)
 }
 
-export async function loadTemperInventoryConfigFromPath(
+export async function loadTemperItemsConfigFromPath(
   path: string
 ): Promise<CompiledInventoryConfig> {
   const file = Bun.file(path)
@@ -327,5 +327,5 @@ export async function loadTemperInventoryConfigFromPath(
     const reason = err instanceof Error ? err.message : String(err)
     throw new DataError(`${FILE_NAME}: failed to read ${path} — ${reason}`)
   }
-  return parseTemperInventoryConfig(content)
+  return parseTemperItemsConfig(content)
 }

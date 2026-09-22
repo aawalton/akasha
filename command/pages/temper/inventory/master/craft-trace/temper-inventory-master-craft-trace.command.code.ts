@@ -16,7 +16,7 @@ import { temperInventoryMasterCraftTrace as page } from "akasha/command/pages/te
 import { readMasterCraftTraces } from "akasha/temper/command/modules/master-craft-trace-reading/master-craft-trace-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
-const INVENTORY_LUA = "TemperInventory.lua"
+const INVENTORY_LUA = "TemperItems.lua"
 
 const NAMED = [json, inventoryPath]
 

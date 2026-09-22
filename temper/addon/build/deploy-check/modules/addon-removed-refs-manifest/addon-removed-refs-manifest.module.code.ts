@@ -24,7 +24,7 @@ export const REMOVED_EXTERNAL_ADDON_GLOBALS: readonly RemovedAddonGlobal[] = [
     global: "IIFA_DATABASE",
     addon: "IIfA",
     remedy:
-      "retired (#14988); its cross-character inventory UI lives in TemperInventory, and the /temperiifa importer that read this global is gone",
+      "retired (#14988); its cross-character inventory UI lives in TemperItems, and the /temperiifa importer that read this global is gone",
   },
   {
     global: "LibHarvensAddonSettings",

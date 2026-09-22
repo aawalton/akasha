@@ -38,7 +38,7 @@ export const temperAddonType = {
     "type-declaration/temper-addons-global",
     "type-declaration/temper-catalog-global",
     "type-declaration/temper-hud-global",
-    "type-declaration/temper-inventory-global",
+    "type-declaration/temper-items-global",
     "type-declaration/temper-keybinder-global",
     "type-declaration/temper-saved-variables-global",
   ],

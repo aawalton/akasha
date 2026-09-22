@@ -1,4 +1,4 @@
-import "akasha/temper/addon/type/temper-inventory-global/temper-inventory-global.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-items-global/temper-items-global.type-declaration.d.ts"
 
 import { toggleInventoryBrowser } from "akasha/temper/addon/pages/items/modules/inventory-browser/inventory-browser.module.code.ts"
 import { getInventoryActionSummary } from "akasha/temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts"
@@ -17,7 +17,7 @@ function getBackpackFreeSlots(): number {
   return GetNumBagFreeSlots(BAG_BACKPACK)
 }
 
-globalThis.TemperInventory = {
+globalThis.TemperItems = {
   ToggleHoveredItemSell: toggleHoveredItemSell,
   ToggleHoveredItemLock: toggleHoveredItemLock,
   ToggleInventoryBrowser: toggleInventoryBrowser,

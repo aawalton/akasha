@@ -68,7 +68,7 @@ test("each addon is named beside the folder it was found in", () => {
 test("the roster is read from the checkout named rather than from this one", () => {
   const root = fixtureFor()
   const said = temperAddonList(["--code-root", root], GIVEN)
-  expect(said.report.join("\n")).not.toContain("TemperInventory")
+  expect(said.report.join("\n")).not.toContain("TemperItems")
   expect(said.report.join("\n")).toContain("2 addon(s)")
 })
 

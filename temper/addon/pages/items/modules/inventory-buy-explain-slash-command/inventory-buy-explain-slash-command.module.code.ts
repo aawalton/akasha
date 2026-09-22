@@ -36,7 +36,7 @@ function printRule(r: BuyExplainRule): undefined {
   }
 }
 
-export function onTemperInventoryExplainBuyCommand(this: void, args: string): undefined {
+export function onTemperItemsExplainBuyCommand(this: void, args: string): undefined {
   const argsStr = args !== undefined ? args : ""
   const [captured] = string.match(argsStr, "(|H.-|h.-|h)")
   const matched = captureOrNull(captured)

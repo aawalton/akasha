@@ -38,7 +38,7 @@ import { getTargetBuildHash } from "akasha/temper/addon/pages/characters/modules
 import { ADDON_NAME } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/characters/companions-declarations/companions-declarations.type-declaration.d.ts"
-import "akasha/temper/addon/type/temper-inventory-global/temper-inventory-global.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-items-global/temper-items-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 export function registerCompanionEvents(): undefined {
   EVENT_MANAGER.RegisterForEvent(
@@ -50,7 +50,7 @@ export function registerCompanionEvents(): undefined {
       const companionId = GetActiveCompanionDefId()
       setSelectedCompanionId(companionId)
 
-      const automation = TemperInventory?.getSavedVariables()?.automation
+      const automation = TemperItems?.getSavedVariables()?.automation
       const companionToggles = automation?.companions?.[tostring(companionId)]
       if (companionToggles?.skills) {
         const hash = getTargetBuildHash(companionId)

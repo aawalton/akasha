@@ -56,7 +56,7 @@ const NAMED = [
 
 const CHAR = charArgument.said
 
-const INVENTORY_LUA = "TemperInventory.lua"
+const INVENTORY_LUA = "TemperItems.lua"
 
 const CHARACTERS_LUA = "TemperCharacters.lua"
 
@@ -207,7 +207,7 @@ async function walkedFor(
   db: ReturnType<ExplainCapabilities["parseInventoryContent"]>,
   paths: { readonly inventoryPath: string; readonly charactersPath: string }
 ): Promise<JsonOutput> {
-  const config = await caps.loadTemperInventoryConfigFromPath(paths.inventoryPath)
+  const config = await caps.loadTemperItemsConfigFromPath(paths.inventoryPath)
   const characters = await caps.loadTemperCharactersFromPath(paths.charactersPath)
   const charactersById = new Map<string, CharacterKnowledge>(characters.map((one) => [one.id, one]))
   const env = caps.buildCliEvalEnv({

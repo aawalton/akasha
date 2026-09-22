@@ -16,7 +16,7 @@ import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.
 import "akasha/temper/eso/type/eso-objects-02/eso-objects-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-const PANEL_NAME = "TemperInventoryActionPanel"
+const PANEL_NAME = "TemperItemsActionPanel"
 const ANCHOR_TARGET_NAME = "ZO_PlayerInventory"
 const DEFAULT_ANCHOR_OFFSET_X = 40
 const PADDING_X = 12

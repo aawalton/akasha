@@ -25,9 +25,9 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-const WINDOW_NAME = "TemperInventoryBrowser"
-const LIST_NAME = "TemperInventoryBrowserList"
-const ROW_TEMPLATE = "TemperInventoryBrowserRow"
+const WINDOW_NAME = "TemperItemsBrowser"
+const LIST_NAME = "TemperItemsBrowserList"
+const ROW_TEMPLATE = "TemperItemsBrowserRow"
 const DATA_TYPE = 1
 const ROW_HEIGHT = 52
 

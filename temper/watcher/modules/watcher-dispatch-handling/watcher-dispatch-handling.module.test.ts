@@ -24,13 +24,13 @@ import type {
 } from "akasha/temper/watcher/modules/watcher-stable-read/watcher-stable-read.module.code.ts"
 import { initialFileState } from "akasha/temper/watcher/modules/watcher-state/watcher-state.module.code.ts"
 
-const PATH = "/game/TemperInventory.lua"
-const CONTENT = "TemperInventoryData = {}"
+const PATH = "/game/TemperItems.lua"
+const CONTENT = "TemperItemsData = {}"
 const SNAPSHOT: StatSnapshot = { size: 24, mtimeMs: 1_700_000_000_000 }
 const STABLE: StableRead = { content: CONTENT, snapshot: SNAPSHOT }
 
 const CONFIG_PATHS = {
-  inventoryConfigPath: "/addons/TemperInventory/TemperInventoryConfig.lua",
+  inventoryConfigPath: "/addons/TemperItems/TemperItemsConfig.lua",
   charactersConfigPath: "/addons/TemperCharacters/TemperCharactersConfig.lua",
   companionsConfigPath: "/addons/TemperCharacters/TemperCharactersCompanionsConfig.lua",
 }
@@ -209,7 +209,7 @@ test("content the watcher wrote back itself is dropped with no report", async ()
 })
 
 test("content with no closing brace is reported as a parse failure", async () => {
-  const r = rig({ stable: { content: "TemperInventoryData = {", snapshot: SNAPSHOT } })
+  const r = rig({ stable: { content: "TemperItemsData = {", snapshot: SNAPSHOT } })
   r.handler()
   await r.drain()
   expect(r.notes).toEqual([`Inventory skipped — ${LOOKS_TRUNCATED}`])

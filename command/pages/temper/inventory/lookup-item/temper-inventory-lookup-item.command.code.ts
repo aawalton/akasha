@@ -30,7 +30,7 @@ import { getScriptItemIdByName } from "akasha/temper/items/core/modules/script-k
 
 const NAMED = [jsonArgument, inventoryPathArgument, itemArgument]
 
-const INVENTORY_LUA = "TemperInventory.lua"
+const INVENTORY_LUA = "TemperItems.lua"
 
 const MASTER = "master"
 

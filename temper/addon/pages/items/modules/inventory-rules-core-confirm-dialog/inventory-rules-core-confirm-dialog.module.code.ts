@@ -4,7 +4,7 @@ import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-const CONFIRM_DIALOG_NAME = "TEMPERINVENTORY_CONFIRM_DESTRUCTIVE"
+const CONFIRM_DIALOG_NAME = "TEMPERITEMS_CONFIRM_DESTRUCTIVE"
 
 export function shouldConfirmAction(action: string): boolean {
   const confirmActions = getInventoryConfig().safety?.confirmActions

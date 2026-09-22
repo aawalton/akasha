@@ -1,17 +1,17 @@
 {
-  "name": "TemperInventory",
-  "title": "Temper Inventory",
-  "description": "Inventory tracking for Temper",
+  "name": "TemperItems",
+  "title": "Temper Items",
+  "description": "Every character's items tracked, and moved, sold, used and crafted by rule",
   "author": "AlanGaming",
   "version": "1.0.0",
   "addonVersion": 100,
   "apiVersion": ["101041", "101042", "101049"],
   "savedVariables": ["TemperInventory_SavedVariables"],
-  "additionalLuaFiles": ["TemperInventoryConfig.lua"],
+  "additionalLuaFiles": ["TemperItemsConfig.lua"],
   "dependsOn": ["TemperCharacters", "TemperHud"],
   "optionalDependsOn": ["TamrielTradeCentre"],
   "xmlFiles": {
-    "afterBundle": ["TemperInventoryBrowser.xml"]
+    "afterBundle": ["TemperItemsBrowser.xml"]
   },
-  "assets": ["TemperInventoryBrowser.xml"]
+  "assets": ["TemperItemsBrowser.xml"]
 }

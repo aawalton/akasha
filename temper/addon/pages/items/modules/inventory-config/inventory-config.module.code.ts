@@ -23,7 +23,7 @@ function isActiveInventoryConfig(value: unknown): value is InventoryConfigGlobal
 }
 
 function getActiveConfig(): InventoryConfigGlobal | undefined {
-  const candidate: unknown = globalThis.TemperInventoryConfig
+  const candidate: unknown = globalThis.TemperItemsConfig
   return isActiveInventoryConfig(candidate) ? candidate : undefined
 }
 

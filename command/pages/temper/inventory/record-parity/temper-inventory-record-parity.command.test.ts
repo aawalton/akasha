@@ -34,7 +34,7 @@ const COUNTED: Coverage = {
 
 const DISAGREEING: RecordParityJson = {
   ...COUNTED,
-  inventoryPath: "/held/TemperInventory.lua",
+  inventoryPath: "/held/TemperItems.lua",
   rules: 90,
   agreed: 299,
   disagreed: 1,

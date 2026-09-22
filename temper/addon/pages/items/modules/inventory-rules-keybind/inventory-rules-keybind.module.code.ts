@@ -74,12 +74,12 @@ export function toggleHoveredItemLock(): undefined {
   if (slot === undefined) {
     const moc = WINDOW_MANAGER.GetMouseOverControl()
     const mocName = moc !== undefined ? moc.GetName() : "nil"
-    d(`[TemperInventory] Temper Lock: no item under the cursor (moc=${mocName}).`)
+    d(`[TemperItems] Temper Lock: no item under the cursor (moc=${mocName}).`)
     return
   }
   const nowLocked = toggleTemperLock(slot.bagId, slot.slotIndex)
   const itemLink = GetItemLink(slot.bagId, slot.slotIndex, LINK_STYLE_BRACKETS)
-  d(`[TemperInventory] ${nowLocked ? "Locked" : "Unlocked"} ${itemLink}`)
+  d(`[TemperItems] ${nowLocked ? "Locked" : "Unlocked"} ${itemLink}`)
   refreshLockOverlays()
   refreshEquipmentLockOverlays()
 }

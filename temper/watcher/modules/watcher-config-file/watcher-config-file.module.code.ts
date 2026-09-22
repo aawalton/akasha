@@ -59,7 +59,7 @@ export interface InventoryConfigFileInputs {
 }
 
 export function serializeInventoryConfigFile(inputs: InventoryConfigFileInputs): string {
-  return configFile("TemperInventoryConfig", [
+  return configFile("TemperItemsConfig", [
     blockWhenGiven("sell", inputs.sell),
     blockWhenGiven("sellTimestamps", inputs.sellTimestamps),
     blockWhenGiven("sellCompiled", inputs.sellCompiled),

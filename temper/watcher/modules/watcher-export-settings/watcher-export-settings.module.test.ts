@@ -19,7 +19,7 @@ const NO_CLIENT: Client = {
 }
 
 const BEFORE = [
-  "TemperInventory =",
+  "TemperItems =",
   "{",
   '    ["Default"] =',
   "    {",
@@ -38,7 +38,7 @@ const BEFORE = [
 ].join("\n")
 
 const AFTER = [
-  "TemperInventory =",
+  "TemperItems =",
   "{",
   '    ["Default"] =',
   "    {",

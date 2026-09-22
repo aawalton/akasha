@@ -27,7 +27,7 @@ export function initializeFilterBar(): undefined {
   })
 
   EVENT_MANAGER.RegisterForEvent(
-    "TemperInventoryFilterBarGuildBank",
+    "TemperItemsFilterBarGuildBank",
     EVENT_GUILD_BANK_ITEMS_READY,
     function (this: void): undefined {
       controller.reinstallSurface(INVENTORY_GUILD_BANK)

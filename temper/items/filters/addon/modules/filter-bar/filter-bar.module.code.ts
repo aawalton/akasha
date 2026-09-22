@@ -32,8 +32,8 @@ import {
 } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
-const PANEL_NAME = "TemperInventoryFilterPanel"
-const PLAN_PANEL_NAME = "TemperInventoryActionPanel"
+const PANEL_NAME = "TemperItemsFilterPanel"
+const PLAN_PANEL_NAME = "TemperItemsActionPanel"
 const INVENTORY_TARGET_NAME = "ZO_PlayerInventory"
 const DEFAULT_ANCHOR_OFFSET_X = 40
 const DEFAULT_ANCHOR_GAP_Y = 8

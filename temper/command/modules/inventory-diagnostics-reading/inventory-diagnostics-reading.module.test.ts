@@ -23,7 +23,7 @@ const WIDE = z
 const pick = (wide: z.infer<typeof WIDE>) => wide.diagnostics?.lastThing
 
 async function fileHolding(said: string): Promise<string> {
-  const path = join(SCRATCH.rootFor("temper-inventory-diagnostics-"), "TemperInventory.lua")
+  const path = join(SCRATCH.rootFor("temper-inventory-diagnostics-"), "TemperItems.lua")
   await Bun.write(path, said)
   return path
 }
@@ -61,7 +61,7 @@ test("an account carrying nothing is walked past to one that does", async () => 
 })
 
 test("a file that is not there is refused rather than read as empty", async () => {
-  const gone = join(SCRATCH.rootFor("temper-inventory-diagnostics-"), "TemperInventory.lua")
+  const gone = join(SCRATCH.rootFor("temper-inventory-diagnostics-"), "TemperItems.lua")
   await expect(readInventoryDiagnostic(gone, WIDE, pick, "no thing")).rejects.toThrow(
     /file not found/
   )

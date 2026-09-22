@@ -1,1 +1,1 @@
-TemperInventoryConfig = nil
+TemperItemsConfig = nil

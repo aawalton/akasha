@@ -65,13 +65,13 @@ const NAMED = [
   unmappedArgument,
 ]
 
-const INVENTORY_LUA = "TemperInventory.lua"
+const INVENTORY_LUA = "TemperItems.lua"
 
 const SPACES = 2
 
-const PLAN_HEADER = "[TemperInventory] Plan:"
+const PLAN_HEADER = "[TemperItems] Plan:"
 
-const UNMAPPED_HEADER = "[TemperInventory] Unmapped:"
+const UNMAPPED_HEADER = "[TemperItems] Unmapped:"
 
 function verbOf(action: string, destination: string | undefined): string {
   switch (action) {
@@ -306,7 +306,7 @@ export async function temperInventoryPlan(argv: readonly string[], given: Given)
       classifyItem(),
     ])
     const db = parser.parseInventoryContent(content)
-    const config = configModule.parseTemperInventoryConfig(content)
+    const config = configModule.parseTemperItemsConfig(content)
     const characters = await charactersModule.loadTemperCharactersFromPath(charactersPath)
     const charactersById = new Map<string, CharacterKnowledge>(
       characters.map((one) => [one.id, one])
