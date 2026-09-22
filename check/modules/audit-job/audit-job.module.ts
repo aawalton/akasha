@@ -34,7 +34,7 @@ export const auditJob = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A round fetches the commit it answers for and no commit before it.",
+      statement: "A round fetches what the checkout it keeps does not already hold.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -80,6 +80,15 @@ export const auditJob = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here composes the pod a job starts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A round holds its checkout on the disk an audit keeps rather than on one made for the run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two rounds sharing that checkout take it one at a time.",
     },
   ],
 } as const satisfies Module

@@ -115,7 +115,42 @@ export function checkedOut(commit: string, was: string | null): readonly string[
   ]
 }
 
-function jobFor(name: string, script: string): ApiObjectManifest {
+const KEPT_LOCK = `${ORCHESTRATOR_CACHE_MOUNT_PATH}/kept-checkout.lock`
+
+const HELD_ALONE = 9
+
+function fetchingWhole(ref: string): string {
+  return `git fetch -q --no-tags origin ${ref}`
+}
+
+function fetchedWholeAgain(ref: string): string {
+  const stop = `[ "$tried" -lt ${FETCH_TRIES} ] || exit 1`
+  const pause = `sleep $((tried * ${FETCH_PAUSE_SECONDS}))`
+  return `tried=0; until ${fetchingWhole(ref)}; do tried=$((tried + 1)); ${stop}; ${pause}; done`
+}
+
+export function keptCheckout(commit: string): readonly string[] {
+  const named = `git remote set-url origin ${ORIGIN}`
+  return [
+    "set -eu",
+    `mkdir -p ${ORCHESTRATOR_CACHE_MOUNT_PATH}`,
+    `exec ${HELD_ALONE}>${KEPT_LOCK}`,
+    `flock ${HELD_ALONE}`,
+    `[ -d ${ORCHESTRATOR_CACHE_REPO_PATH}/.git ] || git init -q ${ORCHESTRATOR_CACHE_REPO_PATH}`,
+    `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
+    `${named} 2>/dev/null || git remote add origin ${ORIGIN}`,
+    fetchedWholeAgain(commit),
+    "git switch -q --force --detach FETCH_HEAD",
+    "bun install --frozen-lockfile",
+  ]
+}
+
+function workingOn(keptAt: string | null): object {
+  if (keptAt === null) return { name: WORK, emptyDir: {} }
+  return { name: WORK, persistentVolumeClaim: { claimName: keptAt } }
+}
+
+function jobFor(name: string, script: string, keptAt: string | null): ApiObjectManifest {
   return {
     apiVersion: "batch/v1",
     kind: JOB,
@@ -142,10 +177,7 @@ function jobFor(name: string, script: string): ApiObjectManifest {
           restartPolicy: "Never",
           serviceAccountName: deployAccount.slug,
           securityContext: { seccompProfile: { type: UNCONFINED } },
-          volumes: [
-            { name: WORK, emptyDir: {} },
-            { name: HELD, emptyDir: {} },
-          ],
+          volumes: [workingOn(keptAt), { name: HELD, emptyDir: {} }],
           containers: [
             {
               name: JOB.toLowerCase(),
@@ -182,8 +214,8 @@ function jobFor(name: string, script: string): ApiObjectManifest {
   }
 }
 
-export function jobYamlFor(name: string, script: string): string {
-  return synthOne(JOB_NAMESPACE, name, jobFor(name, script))
+export function jobYamlFor(name: string, script: string, keptAt: string | null = null): string {
+  return synthOne(JOB_NAMESPACE, name, jobFor(name, script, keptAt))
 }
 
 export type Running = (argv: readonly string[], text: string | null) => Promise<Ran>

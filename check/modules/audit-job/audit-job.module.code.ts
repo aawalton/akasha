@@ -7,12 +7,13 @@ import { opening } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import { sortedOnce } from "akasha/code/type/narrowing/modules/sorted-once/sorted-once.module.code.ts"
 import { check } from "akasha/command/argument/pages/check.argument.ts"
 import { audit } from "akasha/command/pages/audit/audit.command.ts"
+import { auditCache } from "akasha/infrastructure/job/audit-cache/audit-cache.manifest.ts"
 import {
   type Carrying,
-  checkedOut,
   type Ended,
   jobRan,
   jobYamlFor,
+  keptCheckout,
   NAMED,
   type Pushing,
   type Running,
@@ -43,7 +44,7 @@ export function scriptFor(
 ): string {
   const named = sortedOnce(checks).map((one) => `${check.said} ${one}`)
   return [
-    ...checkedOut(commit, null),
+    ...keptCheckout(commit),
     `bun ${dispatcherIn(given)} ${audit.name} ${named.join(" ")} || true`,
   ].join("\n")
 }
@@ -84,7 +85,7 @@ async function roundInCluster(
     root,
     commit,
     jobNameFor(commit, checks),
-    jobYamlFor(jobNameFor(commit, checks), scriptFor(given, checks, commit)),
+    jobYamlFor(jobNameFor(commit, checks), scriptFor(given, checks, commit), auditCache.slug),
     WAITED_ROUNDS,
     running,
     carrying,

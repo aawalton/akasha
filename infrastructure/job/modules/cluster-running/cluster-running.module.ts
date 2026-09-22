@@ -84,7 +84,8 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every job is composed here from the name and the script it is handed.",
+      statement:
+        "Every job is composed here from the name, the script and where that job's checkout is held.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -232,6 +233,18 @@ export const clusterRunning = {
       decisionKind: "decision-kind/departure",
       statement:
         "An image that would not build refuses the run rather than leaving the job to fail its pull.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job naming no held checkout is given one made for that run and gone after it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job whose checkout is held fetches what that checkout does not already hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job whose checkout is held takes that checkout one job at a time.",
     },
   ],
 } as const satisfies Module

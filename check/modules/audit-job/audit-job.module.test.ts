@@ -7,6 +7,7 @@ import {
   WAITED_ROUNDS,
 } from "akasha/check/modules/audit-job/audit-job.module.code.ts"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
+import { auditCache } from "akasha/infrastructure/job/audit-cache/audit-cache.manifest.ts"
 import { jobYamlFor } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
 import { COMMIT } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.test-fixtures.ts"
 
@@ -48,10 +49,22 @@ test("a round that found refusals ends the job well, a refusal being no failure"
   expect(said).toContain("set -eu")
 })
 
-test("a round fetches the commit it answers for and no commit before it", () => {
+test("a round fetches what the checkout it keeps does not already hold", () => {
   const said = scriptFor(ROOT, CHECKS, COMMIT)
-  expect(said).toContain(`--depth 1 origin ${COMMIT}`)
+  expect(said).toContain(`origin ${COMMIT}`)
+  expect(said).not.toContain("--depth 1")
   expect(said.split("git fetch").length - 1).toBe(1)
+})
+
+test("a round holds its checkout on the disk an audit keeps rather than on one made for the run", () => {
+  const named = jobNameFor(COMMIT, CHECKS)
+  const said = jobYamlFor(named, scriptFor(ROOT, CHECKS, COMMIT), auditCache.slug)
+  expect(said).toContain(`claimName: ${auditCache.slug}`)
+  expect(jobYamlFor(named, scriptFor(ROOT, CHECKS, COMMIT))).not.toContain("claimName")
+})
+
+test("two rounds sharing that checkout take it one at a time", () => {
+  expect(scriptFor(ROOT, CHECKS, COMMIT)).toContain("flock")
 })
 
 test("a round is waited on for as long as the pod running it is given", () => {
