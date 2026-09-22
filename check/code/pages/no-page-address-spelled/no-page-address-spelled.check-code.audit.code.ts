@@ -2,7 +2,10 @@ import {
   found,
   type Judging,
 } from "akasha/check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.decision.code.ts"
-import { overEveryText } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import {
+  commitIn,
+  overEachText,
+} from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { pageTypesIn } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
@@ -22,5 +25,5 @@ function judgingOn(root: string): Judging {
 
 export function noPageAddressSpelled(root: string): readonly Judged[] {
   const judging = judgingOn(root)
-  return overEveryText(root, (path, text) => found(judging, path, text))
+  return overEachText(commitIn(root), (path, text) => found(judging, path, text))
 }
