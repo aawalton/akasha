@@ -4,7 +4,7 @@ export const franchise = {
   id: "01a06599-ee09-7001-9283-02195311fb0e",
   type: "page-type/page-type",
   slug: "franchise",
-  definition: "the shows and films that share one world",
+  definition: "the shows and films that share a world",
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   decisions: [

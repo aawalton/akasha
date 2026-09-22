@@ -4,7 +4,7 @@ export const episode = {
   id: "01a06599-ee09-7004-a115-2ffdedceb64a",
   type: "page-type/page-type",
   slug: "episode",
-  definition: "one instalment of a season",
+  definition: "an instalment of a season",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "episode" },
     { partOfSpeech: "part-of-speech/noun", spelling: "episodes" },

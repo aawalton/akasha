@@ -4,7 +4,7 @@ export const relationshipDeposit = {
   id: "01a0658d-16bc-7759-82e4-2d059f33ac84",
   type: "page-type/page-type",
   slug: "relationship-deposit",
-  definition: "one thing Alan did that put something into a relationship",
+  definition: "a thing Alan did that put something into a relationship",
   extends: ["page-type/page"],
   parts: [
     "calendar-date-property/relationship-deposit-date",

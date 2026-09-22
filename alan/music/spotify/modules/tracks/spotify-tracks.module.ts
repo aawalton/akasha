@@ -4,7 +4,7 @@ export const spotifyTracks = {
   id: "01a06261-dc1d-700a-bfca-ad92b08a3e74",
   type: "page-type/module",
   slug: "spotify-tracks",
-  definition: "one track read by its Spotify id",
+  definition: "a track read by its Spotify id",
   code: "ts",
   test: "ts",
   decisions: [

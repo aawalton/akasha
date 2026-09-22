@@ -4,7 +4,7 @@ export const connectionActivity = {
   id: "01a0658e-c30d-7f83-bcba-db0766dbd484",
   type: "page-type/page-type",
   slug: "connection-activity",
-  definition: "one way Alan spends time with someone, and what an hour of it is worth to him",
+  definition: "a way Alan spends time with someone, and what an hour of it is worth to him",
   extends: ["page-type/page"],
   parts: [
     "boolean-property/connection-activity-repeatable",

@@ -4,7 +4,7 @@ export const book = {
   id: "01a06598-222b-7002-9769-8ec160210422",
   type: "page-type/page-type",
   slug: "book",
-  definition: "one book Alan reads",
+  definition: "a book Alan reads",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "book" },
     { partOfSpeech: "part-of-speech/noun", spelling: "books" },

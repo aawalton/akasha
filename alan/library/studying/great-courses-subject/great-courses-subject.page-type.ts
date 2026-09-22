@@ -4,7 +4,7 @@ export const greatCoursesSubject = {
   id: "01a06574-0291-7003-8e30-de8222ab3a07",
   type: "page-type/page-type",
   slug: "great-courses-subject",
-  definition: "one shelf the courses are sorted onto by what they teach",
+  definition: "a shelf the courses are sorted onto by what they teach",
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   decisions: [

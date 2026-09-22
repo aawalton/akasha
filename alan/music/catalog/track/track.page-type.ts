@@ -4,7 +4,7 @@ export const track = {
   id: "01a0a57b-23fe-7c3a-92e1-06b28a781b17",
   type: "page-type/page-type",
   slug: "track",
-  definition: "one recording and every release carrying it",
+  definition: "a recording and every release carrying it",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "track" },
     { partOfSpeech: "part-of-speech/noun", spelling: "tracks" },

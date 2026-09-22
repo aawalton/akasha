@@ -4,7 +4,7 @@ export const spotifyBudget = {
   id: "01a0b6e3-22de-7cc3-9e86-b827104ed1b3",
   type: "page-type/module",
   slug: "spotify-budget",
-  definition: "the calls one window holds, counted against the account every process shares",
+  definition: "the calls a window holds, counted against the account every process shares",
   code: "ts",
   test: "ts",
   decisions: [

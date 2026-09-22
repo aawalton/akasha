@@ -4,7 +4,7 @@ export const bookSection = {
   id: "01a0658d-fe50-7001-976d-fd0d35660d1d",
   type: "page-type/page-type",
   slug: "book-section",
-  definition: "one instalment of a book",
+  definition: "an instalment of a book",
   pluralSlug: "sections",
   extends: ["page-type/collection"],
   parts: ["file-property/chapter-text", "relation-property/section-of"],

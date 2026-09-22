@@ -4,7 +4,7 @@ export const bookSeries = {
   id: "01a06598-222b-7003-beee-2001c8924b27",
   type: "page-type/page-type",
   slug: "book-series",
-  definition: "a shelf with the books of one work",
+  definition: "a shelf with the books of a work",
   extends: ["page-type/collection-external"],
   parts: ["select-property/maturity-rating"],
   properties: [

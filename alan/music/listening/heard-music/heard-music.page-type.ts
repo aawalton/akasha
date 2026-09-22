@@ -4,7 +4,7 @@ export const heardMusic = {
   id: "01a06240-340f-700a-be22-823bb6c905f7",
   type: "page-type/page-type",
   slug: "heard-music",
-  definition: "every track one person has heard",
+  definition: "every track a person has heard",
   extends: ["page-type/page"],
   parts: ["page-property-entry/tracks"],
   properties: [

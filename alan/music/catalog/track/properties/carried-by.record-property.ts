@@ -5,7 +5,7 @@ export const carriedBy = {
   type: "page-type/record-property",
   slug: "carried-by",
   propertySlug: "carried-by",
-  definition: "one release carrying a track, and where on that release the track sits",
+  definition: "a release carrying a track, and where on that release the track sits",
   properties: [
     { pageProperty: "relation-property/release", required: true, many: false },
     { pageProperty: "number-property/disc-number", required: false, many: false },

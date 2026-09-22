@@ -4,7 +4,7 @@ export const relationshipTopic = {
   id: "01a0658a-170f-73cd-a458-8f98d995452e",
   type: "page-type/page-type",
   slug: "relationship-topic",
-  definition: "one subject Alan and another person have to work through together",
+  definition: "a subject Alan and another person have to work through together",
   extends: ["page-type/page"],
   parts: [
     "relation-property/relationship-topic-parent",

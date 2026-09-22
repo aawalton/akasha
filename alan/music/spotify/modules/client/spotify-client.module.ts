@@ -4,7 +4,7 @@ export const spotifyClient = {
   id: "01a06261-dc1d-7007-8f9c-f19cb6de7402",
   type: "page-type/module",
   slug: "spotify-client",
-  definition: "one paced queue every Spotify Web API call goes through",
+  definition: "a paced queue every Spotify Web API call goes through",
   code: "ts",
   test: "ts",
   decisions: [

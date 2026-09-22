@@ -4,7 +4,7 @@ export const movie = {
   id: "01a06599-ee09-7005-82e2-c1f83dc51c09",
   type: "page-type/page-type",
   slug: "movie",
-  definition: "a story told in one sitting",
+  definition: "a story told in a sitting",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "movies" }],
   extends: ["page-type/collection-external"],
   parts: [],

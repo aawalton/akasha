@@ -4,7 +4,7 @@ export const season = {
   id: "01a06599-ee09-7003-a52a-e6a01a72f7da",
   type: "page-type/page-type",
   slug: "season",
-  definition: "one run of a show's episodes",
+  definition: "a run of a show's episodes",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "season" },
     { partOfSpeech: "part-of-speech/noun", spelling: "seasons" },

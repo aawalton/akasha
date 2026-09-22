@@ -4,7 +4,7 @@ export const scripturePassage = {
   id: "01a0658d-fe50-7005-97df-2bbcb319b080",
   type: "page-type/page-type",
   slug: "scripture-passage",
-  definition: "one chapter of scripture Alan reads",
+  definition: "a chapter of scripture Alan reads",
   extends: ["page-type/collection"],
   parts: [
     "file-property/passage-text",
