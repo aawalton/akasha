@@ -6,5 +6,6 @@ export const iceMagicAffinity = {
   slug: "ice-magic-affinity",
   title: "Ice Magic Affinity",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

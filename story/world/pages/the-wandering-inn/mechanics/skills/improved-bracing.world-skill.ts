@@ -6,5 +6,6 @@ export const improvedBracing = {
   slug: "improved-bracing",
   title: "Improved Bracing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

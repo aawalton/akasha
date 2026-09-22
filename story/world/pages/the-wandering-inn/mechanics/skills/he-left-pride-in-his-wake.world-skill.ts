@@ -6,6 +6,7 @@ export const heLeftPrideInHisWake = {
   slug: "he-left-pride-in-his-wake",
   title: "He Left Pride in His Wake",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   aliases: ["He Left Pride in his Wake"],
   references: "jsonl",
 } as const satisfies WorldSkill

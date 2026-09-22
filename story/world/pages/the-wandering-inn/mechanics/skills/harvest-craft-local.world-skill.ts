@@ -6,5 +6,6 @@ export const harvestCraftLocal = {
   slug: "harvest-craft-local",
   title: "Harvest Craft (Local)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

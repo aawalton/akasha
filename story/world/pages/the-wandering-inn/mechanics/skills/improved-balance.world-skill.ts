@@ -6,5 +6,6 @@ export const improvedBalance = {
   slug: "improved-balance",
   title: "Improved Balance",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

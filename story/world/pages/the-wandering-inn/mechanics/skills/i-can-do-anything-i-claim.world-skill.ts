@@ -6,5 +6,6 @@ export const iCanDoAnythingIClaim = {
   slug: "i-can-do-anything-i-claim",
   title: "I Can Do Anything I Claim",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

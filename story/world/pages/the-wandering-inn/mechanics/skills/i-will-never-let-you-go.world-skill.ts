@@ -6,5 +6,6 @@ export const iWillNeverLetYouGo = {
   slug: "i-will-never-let-you-go",
   title: "I Will Never Let You Go",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

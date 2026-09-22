@@ -6,5 +6,6 @@ export const hemostaticPause = {
   slug: "hemostatic-pause",
   title: "Hemostatic Pause",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   references: "jsonl",
 } as const satisfies WorldSkill

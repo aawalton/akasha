@@ -6,5 +6,6 @@ export const increasedCarryWeight = {
   slug: "increased-carry-weight",
   title: "Increased Carry Weight",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

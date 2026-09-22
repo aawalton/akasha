@@ -6,5 +6,6 @@ export const ignoreAmbientSound = {
   slug: "ignore-ambient-sound",
   title: "Ignore Ambient Sound",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

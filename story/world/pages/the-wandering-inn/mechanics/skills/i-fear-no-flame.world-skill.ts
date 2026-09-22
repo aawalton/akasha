@@ -6,5 +6,6 @@ export const iFearNoFlame = {
   slug: "i-fear-no-flame",
   title: "I Fear No Flame",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

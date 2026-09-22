@@ -6,5 +6,6 @@ export const impactfulBlows = {
   slug: "impactful-blows",
   title: "Impactful Blows",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

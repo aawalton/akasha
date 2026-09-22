@@ -6,5 +6,6 @@ export const immortalMoment = {
   slug: "immortal-moment",
   title: "Immortal Moment",
   world: "world/the-wandering-inn",
+  appearanceCount: 70,
   references: "jsonl",
 } as const satisfies WorldSkill

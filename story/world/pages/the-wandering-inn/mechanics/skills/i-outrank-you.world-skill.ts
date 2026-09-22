@@ -6,5 +6,6 @@ export const iOutrankYou = {
   slug: "i-outrank-you",
   title: "I Outrank You",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

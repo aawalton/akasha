@@ -6,5 +6,6 @@ export const headquartersTheWeaponmasterSArmory = {
   slug: "headquarters-the-weaponmaster-s-armory",
   title: "Headquarters: The Weaponmaster’s Armory",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

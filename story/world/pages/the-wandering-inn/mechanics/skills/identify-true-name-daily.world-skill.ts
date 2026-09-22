@@ -6,5 +6,6 @@ export const identifyTrueNameDaily = {
   slug: "identify-true-name-daily",
   title: "Identify True Name (Daily)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const immersiveDescriptions = {
   slug: "immersive-descriptions",
   title: "Immersive Descriptions",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

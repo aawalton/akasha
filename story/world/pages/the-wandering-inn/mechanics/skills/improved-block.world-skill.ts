@@ -6,5 +6,6 @@ export const improvedBlock = {
   slug: "improved-block",
   title: "Improved Block",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

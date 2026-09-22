@@ -6,5 +6,6 @@ export const holdlessThrow = {
   slug: "holdless-throw",
   title: "Holdless Throw",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

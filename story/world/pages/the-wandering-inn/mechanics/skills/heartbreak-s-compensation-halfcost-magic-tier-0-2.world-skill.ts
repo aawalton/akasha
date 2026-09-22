@@ -6,5 +6,6 @@ export const heartbreakSCompensationHalfcostMagicTier02 = {
   slug: "heartbreak-s-compensation-halfcost-magic-tier-0-2",
   title: "Heartbreak’s Compensation: Halfcost Magic (Tier 0-2)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

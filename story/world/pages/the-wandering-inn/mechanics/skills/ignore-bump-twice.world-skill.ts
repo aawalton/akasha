@@ -6,5 +6,6 @@ export const ignoreBumpTwice = {
   slug: "ignore-bump-twice",
   title: "Ignore Bump (Twice)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

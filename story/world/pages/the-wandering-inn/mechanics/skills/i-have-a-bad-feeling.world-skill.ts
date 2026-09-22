@@ -6,5 +6,6 @@ export const iHaveABadFeeling = {
   slug: "i-have-a-bad-feeling",
   title: "I Have a Bad Feeling",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const heWalkedAndShadowsSplit = {
   slug: "he-walked-and-shadows-split",
   title: "He Walked and Shadows Split",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

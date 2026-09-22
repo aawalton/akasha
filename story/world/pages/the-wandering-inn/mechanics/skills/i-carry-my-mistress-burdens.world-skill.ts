@@ -6,5 +6,6 @@ export const iCarryMyMistressBurdens = {
   slug: "i-carry-my-mistress-burdens",
   title: "I Carry My Mistress’ Burdens",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

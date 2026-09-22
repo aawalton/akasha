@@ -6,5 +6,6 @@ export const iMatchYourStrengthForStrength = {
   slug: "i-match-your-strength-for-strength",
   title: "I Match Your Strength for Strength",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

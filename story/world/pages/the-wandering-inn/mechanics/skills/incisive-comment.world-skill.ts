@@ -6,5 +6,6 @@ export const incisiveComment = {
   slug: "incisive-comment",
   title: "Incisive Comment",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

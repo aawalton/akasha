@@ -6,5 +6,6 @@ export const imitationOfMightJaganismet = {
   slug: "imitation-of-might-jaganismet",
   title: "Imitation of Might: Jaganismet",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

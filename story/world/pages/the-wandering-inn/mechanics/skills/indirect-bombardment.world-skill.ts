@@ -6,5 +6,6 @@ export const indirectBombardment = {
   slug: "indirect-bombardment",
   title: "Indirect Bombardment",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

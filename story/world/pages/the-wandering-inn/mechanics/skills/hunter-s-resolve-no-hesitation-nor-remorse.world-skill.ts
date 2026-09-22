@@ -6,5 +6,6 @@ export const hunterSResolveNoHesitationNorRemorse = {
   slug: "hunter-s-resolve-no-hesitation-nor-remorse",
   title: "Hunter’s Resolve: No Hesitation, Nor Remorse",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

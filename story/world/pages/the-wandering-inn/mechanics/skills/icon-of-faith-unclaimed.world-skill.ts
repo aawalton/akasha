@@ -6,5 +6,6 @@ export const iconOfFaithUnclaimed = {
   slug: "icon-of-faith-unclaimed",
   title: "Icon of Faith: Unclaimed",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

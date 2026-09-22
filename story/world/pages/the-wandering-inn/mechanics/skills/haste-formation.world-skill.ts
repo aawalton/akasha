@@ -6,5 +6,6 @@ export const hasteFormation = {
   slug: "haste-formation",
   title: "Haste Formation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

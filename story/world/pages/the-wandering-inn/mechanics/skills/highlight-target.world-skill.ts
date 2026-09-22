@@ -6,5 +6,6 @@ export const highlightTarget = {
   slug: "highlight-target",
   title: "Highlight Target",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

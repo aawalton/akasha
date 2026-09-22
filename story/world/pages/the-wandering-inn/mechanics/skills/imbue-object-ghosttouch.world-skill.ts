@@ -6,5 +6,6 @@ export const imbueObjectGhosttouch = {
   slug: "imbue-object-ghosttouch",
   title: "Imbue Object: Ghosttouch",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const herdOfHorrorsTheyGrewTeeth = {
   slug: "herd-of-horrors-they-grew-teeth",
   title: "Herd of Horrors: They Grew Teeth",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const imitationOfMightIertTheNagaSHound = {
   slug: "imitation-of-might-iert-the-naga-s-hound",
   title: "Imitation of Might: Iert, The Naga’s Hound",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

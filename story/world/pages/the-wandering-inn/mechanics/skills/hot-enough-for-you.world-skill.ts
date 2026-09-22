@@ -6,5 +6,6 @@ export const hotEnoughForYou = {
   slug: "hot-enough-for-you",
   title: "Hot Enough For You",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

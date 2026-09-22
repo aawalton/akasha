@@ -6,5 +6,6 @@ export const heightenedReflexes = {
   slug: "heightened-reflexes",
   title: "Heightened Reflexes",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

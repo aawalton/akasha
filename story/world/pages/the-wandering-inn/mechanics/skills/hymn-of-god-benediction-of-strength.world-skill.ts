@@ -6,5 +6,6 @@ export const hymnOfGodBenedictionOfStrength = {
   slug: "hymn-of-god-benediction-of-strength",
   title: "Hymn of God: Benediction of Strength",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

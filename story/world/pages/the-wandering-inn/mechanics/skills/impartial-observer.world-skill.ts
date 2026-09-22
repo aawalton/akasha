@@ -6,5 +6,6 @@ export const impartialObserver = {
   slug: "impartial-observer",
   title: "Impartial Observer",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const healMundaneWounds = {
   slug: "heal-mundane-wounds",
   title: "Heal Mundane Wounds",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const heAttackedHeAttackedHeAttackedHeAttacked = {
   slug: "he-attacked-he-attacked-he-attacked-he-attacked",
   title: "He Attacked, He Attacked, He Attacked, He Attacked",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

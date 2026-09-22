@@ -6,5 +6,6 @@ export const hydraSStrikes = {
   slug: "hydra-s-strikes",
   title: "Hydra’s Strikes",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

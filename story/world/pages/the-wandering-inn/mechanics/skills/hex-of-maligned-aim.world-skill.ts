@@ -6,5 +6,6 @@ export const hexOfMalignedAim = {
   slug: "hex-of-maligned-aim",
   title: "Hex of Maligned Aim",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

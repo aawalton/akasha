@@ -6,5 +6,6 @@ export const immunityFate = {
   slug: "immunity-fate",
   title: "Immunity: Fate",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

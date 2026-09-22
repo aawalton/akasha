@@ -6,5 +6,6 @@ export const iMProbablyAllowedInHere = {
   slug: "i-m-probably-allowed-in-here",
   title: "I’m (Probably) Allowed in Here",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

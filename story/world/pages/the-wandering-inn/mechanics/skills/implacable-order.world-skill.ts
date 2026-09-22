@@ -6,5 +6,6 @@ export const implacableOrder = {
   slug: "implacable-order",
   title: "Implacable Order",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
