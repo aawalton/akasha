@@ -4,9 +4,11 @@ import {
   brokenIn,
   healthFor,
   healthIn,
+  runningNow,
   SETTLE_MS,
   settling,
   stampIn,
+  stateFor,
   statesIn,
   type Watched,
   watchedIn,
@@ -101,6 +103,33 @@ test("a moment systemd said nothing of is carried as none rather than as an inst
 test("text stating nothing carries the state of no unit", () => {
   expect(statesIn("").size).toBe(0)
   expect(statesIn("\n\n").size).toBe(0)
+})
+
+test("a unit active, activating or reloading is running, and every other state is not", () => {
+  expect(runningNow({ ...UP, activeState: "active" })).toBe(true)
+  expect(runningNow({ ...UP, activeState: "activating" })).toBe(true)
+  expect(runningNow({ ...UP, activeState: "reloading" })).toBe(true)
+  expect(runningNow({ ...UP, activeState: "inactive" })).toBe(false)
+  expect(runningNow({ ...UP, activeState: "deactivating" })).toBe(false)
+  expect(runningNow({ ...UP, activeState: "failed" })).toBe(false)
+})
+
+test("a unit systemd said nothing of is not running", () => {
+  expect(runningNow(undefined)).toBe(false)
+})
+
+test("the state of one unit is read off what systemd was asked about that unit alone", () => {
+  let asked: readonly string[] = []
+  const state = stateFor("held-service.service", (units) => {
+    asked = units
+    return "Id=held-service.service\nActiveState=active\nResult=success"
+  })
+  expect(asked).toEqual(["held-service.service"])
+  expect(state?.activeState).toBe("active")
+})
+
+test("a unit systemd answers nothing for has no state to read", () => {
+  expect(stateFor("held-service.service", () => "")).toBe(undefined)
 })
 
 test("a unit that failed is broken, and the reason names what systemd said", () => {

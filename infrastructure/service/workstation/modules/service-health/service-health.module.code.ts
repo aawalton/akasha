@@ -18,7 +18,7 @@ const RESULT = "Result"
 const STATE_CHANGE = "StateChangeTimestamp"
 const UNIX_STAMP = "--timestamp=unix"
 const A_SECOND = 1000
-const WELL = new Set(["active", "activating", "reloading"])
+const RUNNING = new Set(["active", "activating", "reloading"])
 const SUCCESS = "success"
 export const SETTLE_MS = 120_000
 const UNBOUND = "unbound"
@@ -101,6 +101,10 @@ export function statesIn(text: string): ReadonlyMap<string, UnitState> {
   return held
 }
 
+export function runningNow(state: UnitState | undefined): boolean {
+  return state !== undefined && RUNNING.has(state.activeState)
+}
+
 function unbeatenIn(one: Watched, now: Date): string | null {
   const withinMs = one.worksWithinMs
   if (withinMs === null) return null
@@ -146,7 +150,7 @@ export function brokenIn(
   const unbeaten = unbeatenIn(one, now)
   if (unbeaten !== null) return unbeaten
   if (one.scheduled) return null
-  if (WELL.has(state.activeState)) return null
+  if (runningNow(state)) return null
   if (settling(state.changedAt, now)) return null
   const since = state.changedAt === null ? "" : `, and has been since ${state.changedAt}`
   return `${one.unit} is \`${state.activeState}\` rather than running${since}`
@@ -170,6 +174,13 @@ function showing(units: readonly string[]): string {
   if (units.length === 0) return ""
   const asked = [ID, ACTIVE_STATE, RESULT, STATE_CHANGE].join(",")
   return ran(["systemctl", "--user", UNIX_STAMP, "show", ...units, "-p", asked]).out
+}
+
+export function stateFor(
+  unit: string,
+  show: (units: readonly string[]) => string = showing
+): UnitState | undefined {
+  return statesIn(show([unit])).get(unit)
 }
 
 export function healthFor(

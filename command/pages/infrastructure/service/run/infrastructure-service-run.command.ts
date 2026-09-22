@@ -38,8 +38,29 @@ export const infrastructureServiceRun = {
       statement: "This is let through the wall clock ceiling once the service's code is reached.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A service whose unit is already running is refused rather than run beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A unit `active`, `activating` or `reloading` is already running; nothing else is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The unit asked after is the service unit, so a scheduled one at rest still runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a unit runs is read through the one reader of what systemd says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal names the unit, and says to stop it or to watch its journal.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "Systemd is asked nothing.",
+      statement: "No flag runs a service beside its own running unit.",
     },
     {
       decisionKind: "decision-kind/departure",

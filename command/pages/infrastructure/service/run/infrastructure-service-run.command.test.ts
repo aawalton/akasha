@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
+  alreadyUp,
   calledBy,
   infrastructureServiceRun,
 } from "akasha/command/pages/infrastructure/service/run/infrastructure-service-run.command.code.ts"
@@ -13,6 +14,10 @@ const HERE: Given = {
   writer: null,
   agentId: null,
 }
+
+const UP = { activeState: "active", result: "success", changedAt: null } as const
+
+const DOWN = { activeState: "inactive", result: "success", changedAt: null } as const
 
 test("a call naming no service is refused as the caller's fault", async () => {
   const answer = await infrastructureServiceRun([], HERE)
@@ -45,6 +50,39 @@ test("a slug another page type carries is no workstation service to run", async 
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("service-installing")
   expect(answer.report).toEqual([])
+})
+
+test("a service whose unit is already running is refused rather than run beside it", async () => {
+  const answer = await infrastructureServiceRun(["dcgm-exporter"], HERE, () => UP)
+  expect(answer.code).toBe(OPERATIONAL)
+  expect(answer.refusals[0]).toContain("dcgm-exporter.service is already running")
+  expect(answer.report).toEqual([])
+})
+
+test("the refusal says to stop that unit or to watch what its journal holds", () => {
+  const answer = alreadyUp("held-service", () => UP)
+  expect(answer?.refusals[0]).toContain("akasha infrastructure service stop held-service")
+  expect(answer?.refusals[0]).toContain("journalctl --user -u held-service.service -f")
+})
+
+test("a unit coming up or reloading is already running as much as an active one", () => {
+  expect(alreadyUp("held-service", () => ({ ...UP, activeState: "activating" }))).not.toBe(null)
+  expect(alreadyUp("held-service", () => ({ ...UP, activeState: "reloading" }))).not.toBe(null)
+})
+
+test("a unit resting, failed or unknown to systemd is no reason to refuse a run", () => {
+  expect(alreadyUp("held-service", () => DOWN)).toBe(null)
+  expect(alreadyUp("held-service", () => ({ ...DOWN, activeState: "failed" }))).toBe(null)
+  expect(alreadyUp("held-service", () => undefined)).toBe(null)
+})
+
+test("the unit asked after is the service unit rather than the timer beside it", () => {
+  let asked = ""
+  alreadyUp("held-service", (unit) => {
+    asked = unit
+    return DOWN
+  })
+  expect(asked).toBe("held-service.service")
 })
 
 test("a service that threw part way names in the refusal what that service had done", async () => {

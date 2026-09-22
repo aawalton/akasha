@@ -122,7 +122,11 @@ export const serviceHealth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "systemd is asked about every unit at once rather than about a single unit at a time.",
+        "A sweep asks systemd about every unit at once rather than about a single unit at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether one named unit is running is answered here, so one reader asks systemd.",
     },
     {
       decisionKind: "decision-kind/departure",
