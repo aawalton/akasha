@@ -105,7 +105,6 @@
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/armor-weight.text-property.ts","id":"01a05fe0-8428-703e-953c-0bf31d04039f"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/effect-type.text-property.ts","id":"01a05fb0-3cec-7336-a2af-ef2657a47e86"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/effect-weapon-types.text-property.ts","id":"01a05fe0-8428-7862-8b91-5d946d0ec754"}
-{"propertySlug":"name-format","path":"temper/catalog/thing/properties/skill-line-id.text-property.ts","id":"01a05fba-ce3b-7214-b302-f798be22e99e"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/slotted-behavior.text-property.ts","id":"01a05fe0-8426-7594-8834-eb02a3965edd"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/value-type.text-property.ts","id":"01a05fe0-8427-7a16-b94d-45c0b105ce0a"}
 {"propertySlug":"name-format","path":"temper/catalog/world/temper-dungeon/properties/solo-difficulty.text-property.ts","id":"01a05fc4-7a94-7c7a-a850-0f1b6fb1427d"}

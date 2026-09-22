@@ -490,7 +490,6 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sign-in-provider","propertySlug":"provider","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type","uniquePropertySlug":null,"slug":"sign-in-subject-hash","propertySlug":"subject-hash","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"skill-effect-type","propertySlug":"type","fileName":null,"folderName":null}
-{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"skill-line-id","propertySlug":"skill-line-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"skill-status","propertySlug":"status","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"slot-category","propertySlug":"slot-category","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"slot-type","propertySlug":"slot-type","fileName":null,"folderName":null}

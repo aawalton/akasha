@@ -18,7 +18,7 @@ export const effects = {
     { pageProperty: "text-property/armor-weight", required: false, many: false },
     { pageProperty: "number-property/value-per-piece", required: false, many: false },
     { pageProperty: "number-property/value-per-ability", required: false, many: false },
-    { pageProperty: "text-property/skill-line-id", required: false, many: false },
+    { pageProperty: "relation-property/skill-line", required: false, many: false },
     {
       pageProperty: "text-property/effect-weapon-types",
       required: false,
