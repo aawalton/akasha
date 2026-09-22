@@ -12,7 +12,7 @@ export const identityStatement = {
     "relation-property/parent-statement",
     "relation-property/replaced-by-statements",
     "relation-property/replaces-statements",
-    "relation-property/sub-statements",
+    "multi-relation-property/sub-statements",
     "select-property/about",
     "select-property/identity-statement-rank",
     "select-property/identity-statement-status",
@@ -40,7 +40,7 @@ export const identityStatement = {
     },
     { pageProperty: "select-property/identity-statement-status", required: true, many: false },
     {
-      pageProperty: "relation-property/sub-statements",
+      pageProperty: "multi-relation-property/sub-statements",
       required: false,
       many: true,
       maxCount: null,

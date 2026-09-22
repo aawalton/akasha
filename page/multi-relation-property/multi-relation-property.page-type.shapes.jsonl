@@ -22,4 +22,5 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"secret","unique":null,"uniquePropertySlug":null,"slug":"secrets","propertySlug":"secrets","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"service-cluster","unique":null,"uniquePropertySlug":null,"slug":"service-clusters","propertySlug":"service-clusters","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"manifest","unique":null,"uniquePropertySlug":null,"slug":"service-manifest","propertySlug":"manifest","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"identity-statement","unique":null,"uniquePropertySlug":null,"slug":"sub-statements","propertySlug":"sub-statements","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"wallpaper-images","propertySlug":"wallpapers","fileName":null,"folderName":null}

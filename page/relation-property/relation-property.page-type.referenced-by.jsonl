@@ -55,7 +55,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/self/identity-statement/properties/parent-statement.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/self/identity-statement/properties/replaced-by-statements.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/self/identity-statement/properties/replaces-statements.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/self/identity-statement/properties/sub-statements.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/self/life-theme/properties/life-theme-parent.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/self/life-theme/properties/life-theme-value.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/style/appearance-experiment/properties/experiment-persona.relation-property.ts"}

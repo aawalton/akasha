@@ -54,7 +54,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/self/identity-statement/properties/identity-statement-tags.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/self/identity-statement/properties/replaced-by-statements.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/self/identity-statement/properties/replaces-statements.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/self/identity-statement/properties/sub-statements.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/self/identity-statement/properties/sub-statements.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/track/daily/day/properties/meals.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/track/daily/day/properties/persona-messages.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/value/health/fitness/coaching/note/properties/focus-tags.select-property.types.ts"}
