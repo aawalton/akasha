@@ -239,6 +239,48 @@
             <Action name="PERSONNALASSISTANT_9744">
                 <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_FACTOTUM_COMMERCE_DELEGATE)</Down>
             </Action>
+            <Action name="PERSONNALASSISTANT_10184">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_GILADIL)</Down>
+            </Action>
+            <Action name="PERSONNALASSISTANT_10617">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_ADERENE)</Down>
+            </Action>
+            <Action name="PERSONNALASSISTANT_10618">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_ZUQOTH)</Down>
+            </Action>
+            <Action name="PERSONNALASSISTANT_11059">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_HOARFROST)</Down>
+            </Action>
+            <Action name="PERSONNALASSISTANT_11097">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_PYROCLAST)</Down>
+            </Action>
+            <Action name="PERSONNALASSISTANT_11876">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_DRINWETH)</Down>
+            </Action>
+            <Action name="PERSONNALASSISTANT_11877">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_TZOZABRAR)</Down>
+            </Action>
+            <Action name="PERSONNALASSISTANT_12413">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_ERI)</Down>
+            </Action>
+            <Action name="PERSONNALASSISTANT_12414">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_XYN)</Down>
+            </Action>
+            <Action name="PERSONNALASSISTANT_13063">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_SILURUZ)</Down>
+            </Action>
+            <Action name="PERSONNALASSISTANT_13066">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_TERILORNE)</Down>
+            </Action>
+            <Action name="PERSONNALASSISTANT_13517">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_CELIA_TYDE)</Down>
+            </Action>
+            <Action name="PERSONNALASSISTANT_13518">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_VOKO)</Down>
+            </Action>
+            <Action name="PERSONNALASSISTANT_14018">
+                <Down>UseCollectible(TemperAssistants.PERSONNAL_ASSISTANT_PONTIUS_REMUS)</Down>
+            </Action>
         </Category>
     </Layer>
     <Layer name="KeybindWindow">
