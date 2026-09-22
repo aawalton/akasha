@@ -10,7 +10,7 @@ export const fortitudeProphecyVanishHealthRestore = {
   icon: "/esoui/art/icons/consumable_potion_013_type_005.dds",
   level: "CP150",
   seconds: 47,
-  reagents: [
+  recipes: [
     {
       names: ["Blue Entoloma", "Crimson Nirnroot", "Namira's Rot"],
     },

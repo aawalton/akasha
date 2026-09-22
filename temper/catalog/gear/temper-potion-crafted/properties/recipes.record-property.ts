@@ -4,7 +4,7 @@ export const recipes = {
   id: "01a05fd1-d43d-7c95-8ac4-1739e09c409e",
   type: "page-type/record-property",
   slug: "recipes",
-  propertySlug: "reagents",
+  propertySlug: "recipes",
   definition: "the reagent sets a drink is brewed from, one set to an entry",
   properties: [
     { pageProperty: "text-property/reagent-names", required: true, many: true, maxCount: null },

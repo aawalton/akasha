@@ -10,7 +10,7 @@ export const enduranceExpeditionHealthRestoreStaminaRestore = {
   icon: "/esoui/art/icons/consumable_potion_003_type_005.dds",
   level: "CP150",
   seconds: 47,
-  reagents: [
+  recipes: [
     {
       names: ["Blessed Thistle", "Dragon's Blood", "Powdered Mother of Pearl"],
     },

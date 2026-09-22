@@ -10,7 +10,7 @@ export const expeditionHeroismVanish = {
   icon: "/esoui/art/icons/consumable_potion_010_type_005.dds",
   level: "CP150",
   seconds: 47,
-  reagents: [
+  recipes: [
     {
       names: ["Dragon's Bile", "Dragon Rheum", "Namira's Rot"],
     },

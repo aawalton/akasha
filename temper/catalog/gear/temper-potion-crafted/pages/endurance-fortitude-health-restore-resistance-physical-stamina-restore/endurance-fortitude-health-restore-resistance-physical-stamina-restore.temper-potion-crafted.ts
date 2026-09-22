@@ -10,7 +10,7 @@ export const enduranceFortitudeHealthRestoreResistancePhysicalStaminaRestore = {
   icon: "/esoui/art/icons/consumable_potion_001_type_005.dds",
   level: "CP150",
   seconds: 47,
-  reagents: [
+  recipes: [
     {
       names: ["Beetle Scuttle", "Columbine", "Mountain Flower"],
     },

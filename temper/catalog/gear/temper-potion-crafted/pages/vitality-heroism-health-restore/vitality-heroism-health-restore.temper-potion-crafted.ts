@@ -10,7 +10,7 @@ export const vitalityHeroismHealthRestore = {
   icon: "/esoui/art/icons/consumable_potion_001_type_005.dds",
   level: "CP150",
   seconds: 47,
-  reagents: [
+  recipes: [
     {
       names: ["Butterfly Wing", "Dragon's Bile", "Dragon's Blood"],
     },

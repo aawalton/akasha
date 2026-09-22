@@ -10,7 +10,7 @@ export const enduranceIntellectMagickaRestoreStaminaRestoreStealthDetection = {
   icon: "/esoui/art/icons/consumable_potion_002_type_005.dds",
   level: "CP150",
   seconds: 47,
-  reagents: [
+  recipes: [
     {
       names: ["Chaurus Egg", "Columbine", "Corn Flower"],
     },

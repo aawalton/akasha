@@ -10,7 +10,7 @@ export const vitalityStealthDetection = {
   icon: "/esoui/art/icons/consumable_potion_009_type_005.dds",
   level: "CP150",
   seconds: 47,
-  reagents: [
+  recipes: [
     {
       names: ["Beetle Scuttle", "Chaurus Egg", "Torchbug Thorax"],
     },

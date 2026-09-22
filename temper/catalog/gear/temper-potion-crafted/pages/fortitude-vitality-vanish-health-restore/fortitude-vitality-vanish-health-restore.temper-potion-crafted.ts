@@ -10,7 +10,7 @@ export const fortitudeVitalityVanishHealthRestore = {
   icon: "/esoui/art/icons/consumable_potion_001_type_005.dds",
   level: "CP150",
   seconds: 47,
-  reagents: [
+  recipes: [
     {
       names: ["Blue Entoloma", "Butterfly Wing", "Dragon's Bile"],
     },

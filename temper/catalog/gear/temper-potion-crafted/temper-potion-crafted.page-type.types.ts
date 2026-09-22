@@ -12,5 +12,5 @@ export type TemperPotionCrafted = TemperGearThing & {
   icon: Icon
   level: ItemLevel
   seconds: PotionSeconds
-  reagents: Recipes
+  recipes: Recipes
 }

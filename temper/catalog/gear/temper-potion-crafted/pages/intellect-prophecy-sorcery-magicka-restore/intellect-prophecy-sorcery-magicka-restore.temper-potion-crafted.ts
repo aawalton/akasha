@@ -10,7 +10,7 @@ export const intellectProphecySorceryMagickaRestore = {
   icon: "/esoui/art/icons/consumable_potion_006_type_005.dds",
   level: "CP150",
   seconds: 47,
-  reagents: [
+  recipes: [
     {
       names: ["Corn Flower", "Crimson Nirnroot", "Lady's Smock"],
     },

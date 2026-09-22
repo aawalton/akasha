@@ -10,7 +10,7 @@ export const brutalityEnduranceExpeditionStaminaRestore = {
   icon: "/esoui/art/icons/consumable_potion_005_type_005.dds",
   level: "CP150",
   seconds: 47,
-  reagents: [
+  recipes: [
     {
       names: ["Blessed Thistle", "Dragon Rheum", "Dragonthorn"],
     },
