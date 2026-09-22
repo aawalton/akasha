@@ -37,7 +37,6 @@
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/introduced-property-is-a-part/introduced-property-is-a-part.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.check.code.ts"}
-{"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.decision.code.ts"}

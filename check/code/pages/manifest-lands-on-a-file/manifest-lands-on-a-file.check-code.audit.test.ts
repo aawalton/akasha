@@ -12,14 +12,15 @@ import {
   rooted,
   scratch,
 } from "akasha/check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.decision.test-fixtures.ts"
-import { wrote } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { commitIn } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
+import { treed, wrote } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 
 const UNDER = "akasha-manifest-audit-"
 
 afterAll(scratch.sweep)
 
 test("an audit judges every manifest the index names, no change naming one of them", () => {
-  const root = wrote(rooted(UNDER), { [MANIFEST_AT]: manifest({ exports: EXPORTS }) })
+  const root = treed(wrote(rooted(UNDER), { [MANIFEST_AT]: manifest({ exports: EXPORTS }) }))
 
   const said = manifestLandsOnAFile(root)
 
@@ -28,18 +29,20 @@ test("an audit judges every manifest the index names, no change naming one of th
 })
 
 test("an audit lets through a tree where every way in lands on a file", () => {
-  const root = wrote(rooted(UNDER), {
-    [MANIFEST_AT]: manifest({ exports: EXPORTS }),
-    [AT]: HELD,
-  })
+  const root = treed(
+    wrote(rooted(UNDER), {
+      [MANIFEST_AT]: manifest({ exports: EXPORTS }),
+      [AT]: HELD,
+    })
+  )
 
   expect(manifestLandsOnAFile(root)).toEqual([])
 })
 
-test("what the audit asks reads a body from the disk, there being no change", () => {
-  const root = wrote(rooted(UNDER), { [AT]: HELD })
+test("what the audit asks reads a body from the commit, there being no change", () => {
+  const asking = askingAt(commitIn(treed(wrote(rooted(UNDER), { [AT]: HELD }))))
 
-  expect(askingAt(root).textAt(AT)).toBe(HELD)
-  expect(askingAt(root).there(AT)).toBe(true)
-  expect(askingAt(root).textAt(MANIFEST_AT)).toBe(null)
+  expect(asking.textAt(AT)).toBe(HELD)
+  expect(asking.there(AT)).toBe(true)
+  expect(asking.textAt(MANIFEST_AT)).toBe(null)
 })
