@@ -123,13 +123,21 @@ export function underASubagent(payload: Record<string, unknown>): boolean {
   return typeof held === "string" && held.trim() !== ""
 }
 
+export function judgedFor(payload: Record<string, unknown>): Answer {
+  try {
+    if (!underASubagent(payload)) return LET_THROUGH
+    const runs = inputIn(payload)?.[RUNS]
+    if (typeof runs !== "string" || runs === "") return LET_THROUGH
+    return narrowedBy(runs) ? refusing(REFUSAL) : LET_THROUGH
+  } catch {
+    return LET_THROUGH
+  }
+}
+
 export function answerFor(raw: string): Answer {
   const payload = payloadIn(raw)
   if (payload === null) return unreadable(HOOK, "the hook payload would not read")
-  if (!underASubagent(payload)) return LET_THROUGH
-  const runs = inputIn(payload)?.[RUNS]
-  if (typeof runs !== "string" || runs === "") return LET_THROUGH
-  return narrowedBy(runs) ? refusing(REFUSAL) : LET_THROUGH
+  return judgedFor(payload)
 }
 
 async function ranAsJudging(): Promise<number> {

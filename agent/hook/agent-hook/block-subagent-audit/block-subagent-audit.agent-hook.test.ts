@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   answerFor,
+  judgedFor,
   narrowedBy,
   narrowedIn,
   SCOPE,
@@ -38,6 +39,16 @@ function asSeat(command: string): number {
 const BY_PATH = "akasha audit --file-path checks"
 
 const BY_CHECK = "akasha audit --check typecheck"
+
+function parsed(command: string, own: string | null): Record<string, unknown> {
+  return JSON.parse(payload(command, own)) as Record<string, unknown>
+}
+
+test("the judgement this hook exports judges the payload the dispatch hands it", () => {
+  expect(judgedFor(parsed(BY_PATH, OWN)).code).toBe(REFUSED)
+  expect(judgedFor(parsed(BY_CHECK, OWN)).code).toBe(ASIDE)
+  expect(judgedFor(parsed(BY_PATH, null)).code).toBe(ASIDE)
+})
 
 test("a bare audit a subagent calls asks the service, so it is refused by nothing", () => {
   expect(asSubagent("akasha audit")).toBe(ASIDE)
