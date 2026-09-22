@@ -5,7 +5,7 @@ export const selectOptionColor = {
   type: "page-type/relation-property",
   slug: "select-option-color",
   propertySlug: "color",
-  definition: "the color a select property's value is drawn in",
+  definition: "a select property value's color",
   targetPageType: "page-type/color",
   types: "ts",
 } as const satisfies RelationProperty

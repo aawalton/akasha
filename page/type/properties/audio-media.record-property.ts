@@ -5,7 +5,7 @@ export const audioMedia = {
   type: "page-type/record-property",
   slug: "audio-media",
   propertySlug: "audio",
-  definition: "the audio a page type's pages are rendered as, and what it is rendered from",
+  definition: "the audio a page type's pages are rendered as, and its source",
   properties: [
     { pageProperty: "text-property/media-source-property-id", required: true, many: false },
     { pageProperty: "text-property/media-renderer", required: true, many: false },
