@@ -10,7 +10,6 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/hook/agent-hook/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/hook/agent-hook/name-session/name-session.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/hook/agent-hook/name-subagent/name-subagent.agent-hook.test.ts"}
-{"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/hook/agent-hook/weigh-bash-call/weigh-bash-call.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/model/test/modules/running/model-test-running.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/name/modules/seat-session-rename/seat-session-rename.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"}

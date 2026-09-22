@@ -26,7 +26,6 @@
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/name-subagent/name-subagent.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/state-compacting/state-compacting.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.code.ts"}
-{"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/weigh-bash-call/weigh-bash-call.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/modules/answer/hook-answer.module.test.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.test.ts"}

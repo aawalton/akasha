@@ -18,7 +18,6 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/properties/clearings.file-property.ts","id":"01a09c42-2954-7ac4-b9bf-76a533d55823"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/properties/over-tools.text-property.ts","id":"01a04e0a-f8fd-794e-bc2d-4463964ebf9f"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/state-compacting/state-compacting.agent-hook.ts","id":"01a06cc2-9c03-7cc6-8572-ca2c4935d05a"}
-{"propertySlug":"decision-kind","path":"agent/hook/agent-hook/weigh-bash-call/weigh-bash-call.agent-hook.ts","id":"01a0925f-7a0c-7b9c-9414-3402ab8afe91"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/answer/hook-answer.module.ts","id":"01a04e16-d380-7001-96b2-4990b06a9094"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/bun-calls/bun-calls.module.ts","id":"01a04eab-d4ef-7000-bdff-3446eef0bf24"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/chain-refusal/chain-refusal.module.ts","id":"01a04f71-0570-763b-ac55-da9d9fca21da"}

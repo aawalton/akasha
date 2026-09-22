@@ -24,7 +24,6 @@ export const agentHook = {
     "agent-hook/name-subagent",
     "agent-hook/state-compacting",
     "agent-hook/state-subagent",
-    "agent-hook/weigh-bash-call",
     "file-property/clearings",
     "page-type/inference-hook",
     "select-property/runs-at",

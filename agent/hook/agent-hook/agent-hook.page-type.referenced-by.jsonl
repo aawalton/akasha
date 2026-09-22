@@ -17,5 +17,4 @@
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/name-subagent/name-subagent.agent-hook.ts"}
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/state-compacting/state-compacting.agent-hook.ts"}
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.ts"}
-{"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/weigh-bash-call/weigh-bash-call.agent-hook.ts"}
 {"propertySlug":"parts","path":"agent/hook/hook.domain.ts","id":"01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f"}

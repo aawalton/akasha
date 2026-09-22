@@ -27,7 +27,6 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/properties/runs-at.select-property.ts","id":"01a04e0a-f8fb-7beb-b0b8-ac268528b27e"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/state-compacting/state-compacting.agent-hook.ts","id":"01a06cc2-9c03-7cc6-8572-ca2c4935d05a"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.ts","id":"01a0598f-18de-7467-a5af-de60b85fefd7"}
-{"propertySlug":"decision-kind","path":"agent/hook/agent-hook/weigh-bash-call/weigh-bash-call.agent-hook.ts","id":"01a0925f-7a0c-7b9c-9414-3402ab8afe91"}
 {"propertySlug":"decision-kind","path":"agent/hook/hook.domain.ts","id":"01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/answer/hook-answer.module.ts","id":"01a04e16-d380-7001-96b2-4990b06a9094"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/bun-calls/bun-calls.module.ts","id":"01a04eab-d4ef-7000-bdff-3446eef0bf24"}
