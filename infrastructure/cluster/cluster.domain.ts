@@ -29,6 +29,10 @@ export const cluster = {
       statement: "No copy of the cluster's own key store is kept.",
     },
     {
+      decisionKind: "decision-kind/absence",
+      statement: "No copy of the cluster's object store is kept.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "Every folder under `cluster` matches a folder shape.",
     },

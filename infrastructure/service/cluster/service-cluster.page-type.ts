@@ -45,8 +45,6 @@ export const serviceCluster = {
     "service-cluster/promtail",
     "service-cluster/registry",
     "service-cluster/registry-gc",
-    "service-cluster/seaweedfs-backup-assets",
-    "service-cluster/seaweedfs-backup-bulk",
     "service-cluster/seaweedfs-filer",
     "service-cluster/seaweedfs-maintenance",
     "service-cluster/seaweedfs-master",

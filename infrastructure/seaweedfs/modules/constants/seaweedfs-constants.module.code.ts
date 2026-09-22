@@ -13,10 +13,6 @@ const MANAGED_BY = "bootstrap"
 export const IMAGE = "chrislusf/seaweedfs:3.73"
 export const HOST = "node-04"
 
-export const ASSETS_BUCKET = "agent-sessions"
-
-export const NON_EXPIRING_PREFIXES = ["media-renders"] as const
-
 const COMPONENT_OBJECT_STORE = "object-store"
 export const COMPONENT_MASTER = "master"
 export const COMPONENT_VOLUME = "volume"

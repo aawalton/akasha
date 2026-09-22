@@ -2,10 +2,6 @@ import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-s
 import { HOSTNAME_KEY } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import {
-  backupPvcYaml,
-  backupPvYaml,
-} from "akasha/infrastructure/seaweedfs/modules/backup-manifests/seaweedfs-backup-manifests.module.code.ts"
-import {
   COMPONENT_MASTER,
   componentLabels,
   HOST,
@@ -18,8 +14,6 @@ import {
   selectorLabels,
 } from "akasha/infrastructure/seaweedfs/modules/constants/seaweedfs-constants.module.code.ts"
 import { masterDeploymentYaml } from "akasha/infrastructure/seaweedfs/modules/deployments/seaweedfs-deployments.module.code.ts"
-
-const SHARED_BACKUP = "seaweedfs-backup"
 
 function pvYaml(): string {
   return synthOne(NAMESPACE, "pv", {
@@ -92,7 +86,5 @@ export default function synth(): readonly { readonly name: string; readonly yaml
     { name: "pvc", yaml: pvcYaml() },
     { name: "service", yaml: serviceYaml() },
     { name: "master", yaml: masterDeploymentYaml() },
-    { name: "backup-pv", yaml: backupPvYaml(NAMESPACE, SHARED_BACKUP) },
-    { name: "backup-pvc", yaml: backupPvcYaml(NAMESPACE, SHARED_BACKUP) },
   ]
 }

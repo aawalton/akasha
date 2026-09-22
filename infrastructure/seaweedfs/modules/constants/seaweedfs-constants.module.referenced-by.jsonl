@@ -1,11 +1,8 @@
 {"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/filer/seaweedfs-filer.manifest.code.ts"}
 {"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/master/seaweedfs-master.manifest.code.ts"}
-{"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/modules/backup-manifests/seaweedfs-backup-manifests.module.code.ts"}
 {"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/modules/deployments/seaweedfs-deployments.module.code.ts"}
-{"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/modules/longtail-assets/seaweedfs-longtail-assets.module.code.ts"}
 {"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/modules/maintenance-manifests/seaweedfs-maintenance-manifests.module.code.ts"}
 {"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/modules/namespace/seaweedfs-namespace.module.code.ts"}
-{"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/modules/rclone-env/seaweedfs-rclone-env.module.code.ts"}
 {"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.code.ts"}
 {"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/volume/seaweedfs-volume.manifest.code.ts"}
 {"propertySlug":"parts","path":"infrastructure/seaweedfs/seaweedfs.domain.ts","id":"01a06816-68b1-73dc-970e-be70fec533a1"}
