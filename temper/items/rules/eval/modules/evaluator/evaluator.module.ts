@@ -4,7 +4,7 @@ export const evaluator = {
   id: "01a06137-f96c-78f9-8a21-1e325a4be527",
   type: "page-type/module",
   slug: "evaluator",
-  definition: "the first-match run of an ordered compiled rule list against one item's facts",
+  definition: "the first-match run of an ordered compiled rule list against an item's facts",
   code: "ts",
   test: "ts",
   decisions: [
