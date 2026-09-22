@@ -35,7 +35,7 @@ export const game = {
     "text-property/card-vocabulary",
     "relation-property/game-default-dice",
     "page-type/game-panel",
-    "relation-property/game-panels",
+    "multi-relation-property/game-panels",
     "page-type/game-entity",
     "page-type/game-location",
     "relation-property/holding-game",
@@ -85,7 +85,12 @@ export const game = {
     },
     { pageProperty: "text-property/card-vocabulary", required: false, many: true, maxCount: null },
     { pageProperty: "relation-property/game-default-dice", required: false, many: false },
-    { pageProperty: "relation-property/game-panels", required: false, many: true, maxCount: null },
+    {
+      pageProperty: "multi-relation-property/game-panels",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
     { pageProperty: "relation-property/player-entity", required: false, many: false },
   ],
   decisions: [

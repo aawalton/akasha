@@ -1,8 +1,8 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const gamePanels = {
   id: "01a0c49e-d544-7d82-b738-6f3b187194a0",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "game-panels",
   propertySlug: "panels",
   definition: "the panels a game's interface is made of, in the order they are drawn",
@@ -18,4 +18,4 @@ export const gamePanels = {
     },
   ],
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

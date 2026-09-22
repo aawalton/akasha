@@ -7,4 +7,4 @@
 {"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/game/panel/pages/story-so-far/story-so-far.game-panel.ts"}
 {"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/game/panel/pages/tower-hud/tower-hud.game-panel.ts"}
 {"propertySlug":"parts","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
-{"propertySlug":"target-page-type","path":"story/game/properties/game-panels.relation-property.ts","id":"01a0c49e-d544-7d82-b738-6f3b187194a0"}
+{"propertySlug":"target-page-type","path":"story/game/properties/game-panels.multi-relation-property.ts","id":"01a0c49e-d544-7d82-b738-6f3b187194a0"}

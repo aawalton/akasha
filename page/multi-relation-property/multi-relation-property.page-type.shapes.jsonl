@@ -11,6 +11,7 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"strength-exercise-implement","unique":null,"uniquePropertySlug":null,"slug":"fitness-equipment-covers","propertySlug":"covers","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"game-attributes","propertySlug":"attributes","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"game-mechanic","unique":null,"uniquePropertySlug":null,"slug":"game-mechanics","propertySlug":"mechanics","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"game-panel","unique":null,"uniquePropertySlug":null,"slug":"game-panels","propertySlug":"panels","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"readout-group","unique":null,"uniquePropertySlug":null,"slug":"groups","propertySlug":"groups","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"location","unique":null,"uniquePropertySlug":null,"slug":"locations","propertySlug":"locations","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"lua-module","unique":null,"uniquePropertySlug":null,"slug":"lua-modules","propertySlug":"lua-modules","fileName":null,"folderName":null}

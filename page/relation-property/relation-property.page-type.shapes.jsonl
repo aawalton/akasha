@@ -58,7 +58,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"graph-attribute","unique":null,"uniquePropertySlug":null,"slug":"followed-attribute","propertySlug":"attribute","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-rule-template","unique":null,"uniquePropertySlug":null,"slug":"from-template","propertySlug":"from-template","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-mechanic","unique":null,"uniquePropertySlug":null,"slug":"game-default-dice","propertySlug":"default-dice","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-panel","unique":null,"uniquePropertySlug":null,"slug":"game-panels","propertySlug":"panels","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"book","unique":null,"uniquePropertySlug":null,"slug":"gbww-story","propertySlug":"story","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"generator-kind","unique":null,"uniquePropertySlug":null,"slug":"generator","propertySlug":"generator","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-rule-goal","unique":null,"uniquePropertySlug":null,"slug":"goal","propertySlug":"goal","fileName":null,"folderName":null}
