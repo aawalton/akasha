@@ -6,5 +6,6 @@ export const networkTeleport = {
   slug: "network-teleport",
   title: "Network Teleport",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -6,5 +6,6 @@ export const paintSpray = {
   slug: "paint-spray",
   title: "Paint Spray",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

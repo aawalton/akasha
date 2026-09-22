@@ -6,5 +6,6 @@ export const netOfNired = {
   slug: "net-of-nired",
   title: "Net of Nired",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

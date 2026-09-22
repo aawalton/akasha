@@ -6,5 +6,6 @@ export const physiqueOfTheSupremeSpellblade = {
   slug: "physique-of-the-supreme-spellblade",
   title: "Physique of the Supreme Spellblade",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

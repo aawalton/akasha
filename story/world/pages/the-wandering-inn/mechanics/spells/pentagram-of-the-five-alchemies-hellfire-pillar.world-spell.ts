@@ -6,5 +6,6 @@ export const pentagramOfTheFiveAlchemiesHellfirePillar = {
   slug: "pentagram-of-the-five-alchemies-hellfire-pillar",
   title: "Pentagram of the Five Alchemies: Hellfire Pillar",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

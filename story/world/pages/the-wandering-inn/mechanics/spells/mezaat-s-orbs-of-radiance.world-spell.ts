@@ -6,5 +6,6 @@ export const mezaatSOrbsOfRadiance = {
   slug: "mezaat-s-orbs-of-radiance",
   title: "Mezaat’s Orbs of Radiance",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

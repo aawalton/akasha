@@ -6,5 +6,6 @@ export const manaBrick = {
   slug: "mana-brick",
   title: "Mana Brick",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

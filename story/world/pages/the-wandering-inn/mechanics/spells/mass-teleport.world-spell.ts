@@ -6,5 +6,6 @@ export const massTeleport = {
   slug: "mass-teleport",
   title: "Mass Teleport",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

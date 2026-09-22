@@ -6,5 +6,6 @@ export const maximusForceorb = {
   slug: "maximus-forceorb",
   title: "Maximus Forceorb",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

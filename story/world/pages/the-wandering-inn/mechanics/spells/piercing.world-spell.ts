@@ -6,5 +6,6 @@ export const piercing = {
   slug: "piercing",
   title: "Piercing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

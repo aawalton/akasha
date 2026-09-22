@@ -6,5 +6,6 @@ export const pinpointSpellNeedleSFocus = {
   slug: "pinpoint-spell-needle-s-focus",
   title: "Pinpoint Spell: Needle’s Focus",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

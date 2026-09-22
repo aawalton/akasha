@@ -6,5 +6,6 @@ export const rainFallLikeMyTears = {
   slug: "rain-fall-like-my-tears",
   title: "Rain, Fall Like My Tears",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

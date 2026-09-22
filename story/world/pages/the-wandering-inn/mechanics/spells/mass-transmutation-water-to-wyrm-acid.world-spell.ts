@@ -6,5 +6,6 @@ export const massTransmutationWaterToWyrmAcid = {
   slug: "mass-transmutation-water-to-wyrm-acid",
   title: "Mass Transmutation: Water to Wyrm Acid",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

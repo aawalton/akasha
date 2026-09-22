@@ -6,5 +6,6 @@ export const mysticArcaneLock = {
   slug: "mystic-arcane-lock",
   title: "Mystic Arcane Lock",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

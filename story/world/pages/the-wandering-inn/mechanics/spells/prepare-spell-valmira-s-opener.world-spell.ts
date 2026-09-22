@@ -6,5 +6,6 @@ export const prepareSpellValmiraSOpener = {
   slug: "prepare-spell-valmira-s-opener",
   title: "Prepare Spell: Valmira’s Opener",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

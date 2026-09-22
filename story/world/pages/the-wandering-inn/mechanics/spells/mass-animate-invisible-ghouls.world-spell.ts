@@ -6,5 +6,6 @@ export const massAnimateInvisibleGhouls = {
   slug: "mass-animate-invisible-ghouls",
   title: "Mass Animate Invisible Ghouls",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

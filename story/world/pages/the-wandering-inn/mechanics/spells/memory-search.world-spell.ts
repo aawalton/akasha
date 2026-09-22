@@ -6,5 +6,6 @@ export const memorySearch = {
   slug: "memory-search",
   title: "Memory Search",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

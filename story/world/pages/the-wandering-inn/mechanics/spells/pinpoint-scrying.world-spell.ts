@@ -6,5 +6,6 @@ export const pinpointScrying = {
   slug: "pinpoint-scrying",
   title: "Pinpoint Scrying",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

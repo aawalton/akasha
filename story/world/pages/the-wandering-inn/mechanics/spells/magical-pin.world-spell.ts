@@ -6,5 +6,6 @@ export const magicalPin = {
   slug: "magical-pin",
   title: "Magical Pin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

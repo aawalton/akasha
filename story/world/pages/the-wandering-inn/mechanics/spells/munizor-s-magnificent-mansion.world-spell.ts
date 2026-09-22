@@ -6,5 +6,6 @@ export const munizorSMagnificentMansion = {
   slug: "munizor-s-magnificent-mansion",
   title: "Munizor’s Magnificent Mansion",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

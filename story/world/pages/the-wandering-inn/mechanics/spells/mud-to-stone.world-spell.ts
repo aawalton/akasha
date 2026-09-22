@@ -6,5 +6,6 @@ export const mudToStone = {
   slug: "mud-to-stone",
   title: "Mud to Stone",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

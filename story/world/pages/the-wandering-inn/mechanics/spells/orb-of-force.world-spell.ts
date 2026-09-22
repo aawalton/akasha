@@ -6,5 +6,6 @@ export const orbOfForce = {
   slug: "orb-of-force",
   title: "Orb of Force",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

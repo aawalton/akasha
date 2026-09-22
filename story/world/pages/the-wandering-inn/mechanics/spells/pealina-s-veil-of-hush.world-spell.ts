@@ -6,5 +6,6 @@ export const pealinaSVeilOfHush = {
   slug: "pealina-s-veil-of-hush",
   title: "Pealina’s Veil of Hush",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

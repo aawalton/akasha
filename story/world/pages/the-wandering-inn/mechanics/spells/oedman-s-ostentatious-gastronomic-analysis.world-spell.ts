@@ -6,5 +6,6 @@ export const oedmanSOstentatiousGastronomicAnalysis = {
   slug: "oedman-s-ostentatious-gastronomic-analysis",
   title: "Oedman’s Ostentatious Gastronomic Analysis",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

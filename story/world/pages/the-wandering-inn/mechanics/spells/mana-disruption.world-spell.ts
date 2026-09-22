@@ -6,5 +6,6 @@ export const manaDisruption = {
   slug: "mana-disruption",
   title: "Mana Disruption",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

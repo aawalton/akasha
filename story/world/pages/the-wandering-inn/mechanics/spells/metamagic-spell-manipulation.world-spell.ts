@@ -6,5 +6,6 @@ export const metamagicSpellManipulation = {
   slug: "metamagic-spell-manipulation",
   title: "Metamagic: Spell Manipulation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

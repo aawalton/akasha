@@ -6,5 +6,6 @@ export const polymorphDog = {
   slug: "polymorph-dog",
   title: "Polymorph: Dog",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

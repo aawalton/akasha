@@ -6,5 +6,6 @@ export const pillarOfFlameUnbounded = {
   slug: "pillar-of-flame-unbounded",
   title: "Pillar of Flame, Unbounded",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

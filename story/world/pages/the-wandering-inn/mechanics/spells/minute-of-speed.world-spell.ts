@@ -6,5 +6,6 @@ export const minuteOfSpeed = {
   slug: "minute-of-speed",
   title: "Minute of Speed",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

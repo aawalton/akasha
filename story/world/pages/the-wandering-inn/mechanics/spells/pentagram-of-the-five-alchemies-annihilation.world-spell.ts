@@ -6,5 +6,6 @@ export const pentagramOfTheFiveAlchemiesAnnihilation = {
   slug: "pentagram-of-the-five-alchemies-annihilation",
   title: "Pentagram of the Five Alchemies: Annihilation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

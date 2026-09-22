@@ -6,6 +6,7 @@ export const playfulRadiantFishies = {
   slug: "playful-radiant-fishies",
   title: "Playful Radiant Fishies",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   aliases: ["Playful Radiant…Fishies"],
   references: "jsonl",
 } as const satisfies WorldSpell

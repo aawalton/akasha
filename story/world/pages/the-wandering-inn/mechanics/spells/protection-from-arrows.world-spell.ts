@@ -6,5 +6,6 @@ export const protectionFromArrows = {
   slug: "protection-from-arrows",
   title: "Protection from Arrows",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell
