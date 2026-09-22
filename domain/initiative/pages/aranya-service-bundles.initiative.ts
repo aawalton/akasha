@@ -20,9 +20,6 @@ export const aranyaServiceBundles = {
     "No workstation service runs from a second checkout of the repository, git-linked or exported.",
     "A bundle proves the commit it is named for rather than taking the commit `HEAD` named while the bundle was built.",
     "At most two bundles are kept for a service at a time.",
-    "A service whose bundle will not build refuses the whole deploy rather than being put up from the tree.",
-    "A service moves onto a bundle in a batch, and a batch is verified before the next batch moves.",
-    "A service every other service writes through moves last and alone.",
-    "The pinned tree remains until the whole fleet is proven on bundles.",
+    "A service whose bundle will not build refuses the whole deploy rather than leaving a unit naming it.",
   ],
 } as const satisfies Initiative
