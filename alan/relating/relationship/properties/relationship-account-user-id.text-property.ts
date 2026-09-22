@@ -5,7 +5,7 @@ export const relationshipAccountUserId = {
   type: "page-type/text-property",
   slug: "relationship-account-user-id",
   propertySlug: "relationship-account-user-id",
-  definition: "the account this person signs in with",
+  definition: "this person's sign-in account",
   maxLength: 50,
   nameFormat: null,
   types: "ts",

@@ -4,7 +4,7 @@ export const traceInsert = {
   id: "01a05bc7-9129-700d-9b3a-ba23544a6e88",
   type: "page-type/module",
   slug: "trace-insert",
-  definition: "a batch of recorded places landed as rows beside the day each was captured in",
+  definition: "a batch of recorded places landed as rows beside each place's capture day",
   code: "ts",
   test: "ts",
   decisions: [

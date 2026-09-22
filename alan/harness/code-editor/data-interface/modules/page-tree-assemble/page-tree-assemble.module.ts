@@ -4,7 +4,7 @@ export const pageTreeAssemble = {
   id: "01a064f6-a793-7d40-b075-7d7a7f1f133a",
   type: "page-type/module",
   slug: "page-tree-assemble",
-  definition: "the tree of page types a page query answer is turned into",
+  definition: "the tree of page types made from a page query answer",
   code: "ts",
   test: "ts",
   decisions: [

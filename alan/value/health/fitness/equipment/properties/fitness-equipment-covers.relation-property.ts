@@ -5,7 +5,7 @@ export const fitnessEquipmentCovers = {
   type: "page-type/relation-property",
   slug: "fitness-equipment-covers",
   propertySlug: "covers",
-  definition: "the kit a movement names that this piece answers for",
+  definition: "the kit a movement names and this piece replaces",
   targetPageType: "page-type/strength-exercise-implement",
   decisions: [
     {

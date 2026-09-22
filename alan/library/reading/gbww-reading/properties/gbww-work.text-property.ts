@@ -5,7 +5,7 @@ export const gbwwWork = {
   type: "page-type/text-property",
   slug: "gbww-work",
   propertySlug: "work",
-  definition: "the work a reading is taken from",
+  definition: "a reading's work",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

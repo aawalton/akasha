@@ -4,7 +4,7 @@ export const studying = {
   id: "01a06574-0291-7001-9087-db957190cd32",
   type: "page-type/domain",
   slug: "studying",
-  definition: "the courses Alan is taught by",
+  definition: "the courses teaching Alan",
   parts: [
     "page-type/great-course",
     "page-type/great-courses-collection",

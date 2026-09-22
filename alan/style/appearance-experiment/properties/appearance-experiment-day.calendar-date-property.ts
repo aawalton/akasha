@@ -5,6 +5,6 @@ export const appearanceExperimentDay = {
   type: "page-type/calendar-date-property",
   slug: "appearance-experiment-day",
   propertySlug: "date",
-  definition: "the day Alan put the thing on",
+  definition: "the day Alan wore the thing",
   types: "ts",
 } as const satisfies CalendarDateProperty

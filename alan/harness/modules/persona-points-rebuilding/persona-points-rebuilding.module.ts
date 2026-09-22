@@ -4,7 +4,7 @@ export const personaPointsRebuilding = {
   id: "01a082eb-4f25-7bd5-b488-a5c24903072e",
   type: "page-type/module",
   slug: "persona-points-rebuilding",
-  definition: "each persona's points, worked out again from the days her messages were counted on",
+  definition: "each persona's points, worked out again from the days counting her messages",
   code: "ts",
   test: "ts",
   decisions: [

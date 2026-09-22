@@ -5,7 +5,7 @@ export const song = {
   type: "page-type/relation-property",
   slug: "song",
   propertySlug: "song",
-  definition: "the song a track is a recording of",
+  definition: "the song a track records",
   targetPageType: "page-type/song",
   types: "ts",
 } as const satisfies RelationProperty

@@ -4,7 +4,7 @@ export const spotifyCredentials = {
   id: "01a06261-dc1d-7001-9784-4341766fba01",
   type: "page-type/module",
   slug: "spotify-credentials",
-  definition: "the three secrets a Spotify call is made under",
+  definition: "the three secrets behind a Spotify call",
   code: "ts",
   test: "ts",
   decisions: [

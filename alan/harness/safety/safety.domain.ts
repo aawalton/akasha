@@ -4,7 +4,7 @@ export const safety = {
   id: "01a05f42-92f5-7005-9a61-d2ed59cb2fac",
   type: "page-type/domain",
   slug: "safety",
-  definition: "the safety level Alan logs against the block Alan is in",
+  definition: "the safety level Alan logs against his own block",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "safety" }],
   parts: [
     "module/safety-reading",
