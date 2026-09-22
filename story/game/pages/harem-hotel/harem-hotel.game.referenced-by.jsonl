@@ -1,6 +1,12 @@
 {"propertySlug":"holding-game","path":"story/game/pages/harem-hotel/entities/harem-hotel-alan.game-entity.ts","id":"01a0c662-f92c-763d-a838-e4bf42f057b7"}
 {"propertySlug":"holding-game","path":"story/game/pages/harem-hotel/entities/harem-hotel-aria.game-entity.ts","id":"01a0c662-f994-76e1-95eb-4d4e16c0a470"}
 {"propertySlug":"holding-game","path":"story/game/pages/harem-hotel/entities/harem-hotel-doorward.game-entity.ts","id":"01a0c662-f977-77e4-9c6a-4a7b0cc397c1"}
+{"propertySlug":"holding-game","path":"story/game/pages/harem-hotel/quests/harem-hotel-closeness.game-quest.ts","id":"01a0c6ad-7b01-75bb-a10d-dfc930b89d97"}
+{"propertySlug":"holding-game","path":"story/game/pages/harem-hotel/quests/harem-hotel-floor-1-door.game-quest.ts","id":"01a0c6ad-7b8d-7913-95b7-122a26da4604"}
+{"propertySlug":"holding-game","path":"story/game/pages/harem-hotel/quests/harem-hotel-floor-2-door.game-quest.ts","id":"01a0c6ad-7ba2-7649-a1fd-dd41e5423b31"}
+{"propertySlug":"holding-game","path":"story/game/pages/harem-hotel/quests/harem-hotel-full.game-quest.ts","id":"01a0c6ad-7b76-72d0-adba-54feb0e6f85c"}
+{"propertySlug":"holding-game","path":"story/game/pages/harem-hotel/quests/harem-hotel-kiss.game-quest.ts","id":"01a0c6ad-7b46-7af5-ac98-247e8b238074"}
+{"propertySlug":"holding-game","path":"story/game/pages/harem-hotel/quests/harem-hotel-night.game-quest.ts","id":"01a0c6ad-7b60-7fc5-8359-e80a4e4de720"}
 {"propertySlug":"holding-game","path":"story/game/pages/harem-hotel/turns/harem-hotel-001.game-turn.ts","id":"01a0c686-8d8c-7923-80be-76afbecb4203"}
 {"propertySlug":"holding-game","path":"story/game/pages/harem-hotel/turns/harem-hotel-005.game-turn.ts","id":"01a0c686-8dd0-750f-b5d9-4fd239805033"}
 {"propertySlug":"holding-game","path":"story/game/pages/harem-hotel/turns/harem-hotel-010.game-turn.ts","id":"01a0c686-8de9-7b07-8007-019071c138a2"}
