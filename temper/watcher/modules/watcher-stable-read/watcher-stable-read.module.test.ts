@@ -39,6 +39,15 @@ test("a file broken off partway does not close with a brace", () => {
   expect(looksStructurallyComplete("")).toBe(false)
 })
 
+test("a file whose head was lost opens with no assignment", () => {
+  expect(looksStructurallyComplete('["sell"] = { ["trash"] = "lock" }')).toBe(false)
+  expect(looksStructurallyComplete('    { ["a"] = 1 }')).toBe(false)
+})
+
+test("a comment before the assignment is passed over", () => {
+  expect(looksStructurallyComplete("-- written by the game\nTemperItems = { }")).toBe(true)
+})
+
 test("fewer looks than are required is never enough", () => {
   expect(isStableRun([SETTLED, SETTLED], 3)).toBe(false)
   expect(isStableRun([], 1)).toBe(false)

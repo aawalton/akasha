@@ -31,8 +31,10 @@ export interface StableReadDeps {
   readonly now?: () => number
 }
 
+const OPENS_WITH_ASSIGNMENT = /^\s*(?:--[^\n]*\n\s*)*[A-Za-z_][A-Za-z0-9_]*\s*=/
+
 export function looksStructurallyComplete(content: string): boolean {
-  return content.trimEnd().endsWith("}")
+  return OPENS_WITH_ASSIGNMENT.test(content) && content.trimEnd().endsWith("}")
 }
 
 export function isStableRun(observations: readonly StatSnapshot[], required: number): boolean {

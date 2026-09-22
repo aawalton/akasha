@@ -37,8 +37,16 @@ export const watcherStableRead = {
       statement: "A saved-variables file the game finished writing closes with a brace.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A saved-variables file opens with the assignment of a named variable.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file failing either test is whole at neither end and is held to be broken.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here parses the file's contents.",
+      statement: "Nothing here reads the file's contents beyond its two ends.",
     },
   ],
 } as const satisfies Module
