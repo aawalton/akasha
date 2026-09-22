@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"errors-descriptor.module.code.ts","path":"temper/addon/pages/errors/modules/errors-addon-entry/errors-addon-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"errors-descriptor.module.code.ts","path":"temper/addon/pages/errors/modules/errors-addon-limits/errors-addon-limits.module.code.ts"}
+{"propertySlug":"import","fileName":"errors-descriptor.module.code.ts","path":"temper/addon/pages/hud/modules/errors-addon-entry/errors-addon-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"errors-descriptor.module.code.ts","path":"temper/addon/pages/hud/modules/errors-addon-limits/errors-addon-limits.module.code.ts"}
 {"propertySlug":"import","fileName":"errors-descriptor.module.code.ts","path":"temper/capture/errors-triage/modules/errors-collect/errors-collect.module.code.ts"}
 {"propertySlug":"parts","path":"temper/capture/error/temper-capture-error.domain.ts","id":"01a0608a-15b2-7b81-afe8-cbf9d7803e3f"}

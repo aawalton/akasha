@@ -38,7 +38,7 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/mod
 
 const NAMED = [json, errorsPathArgument, includeStaleArgument, staleAfterHoursArgument]
 
-const CAPTURE_FILE = "TemperErrors.lua"
+const CAPTURE_FILE = "TemperHud.lua"
 
 const MESSAGE_PREVIEW_MAX = 120
 

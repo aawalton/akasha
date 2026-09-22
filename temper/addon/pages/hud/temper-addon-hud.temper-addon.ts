@@ -4,12 +4,17 @@ export const temperAddonHud = {
   id: "01a061c5-18dd-7011-a8e7-8f6d488e9b03",
   type: "page-type/temper-addon",
   slug: "temper-addon-hud",
-  definition:
-    "the add-on holding the status bar and the slash command every Temper add-on adds a subcommand to",
+  definition: "the add-on Temper ships into the game",
 
   addonManifest: "json",
   bundleEntry: "module/hud-addon-entry",
   parts: [
+    "module/errors-addon-build-ids",
+    "module/errors-addon-entry",
+    "module/errors-addon-hooks",
+    "module/errors-addon-limits",
+    "module/errors-addon-record",
+    "module/errors-addon-traceback",
     "module/hud-addon-bar",
     "module/hud-addon-builtins",
     "module/hud-addon-command-registry",
@@ -45,6 +50,22 @@ export const temperAddonHud = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here knows the meaning of any other add-on's field.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An error raised before the add-on loads is recorded once loading finishes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two errors sharing one callstack are kept as one entry under a count.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An error is blamed on the add-on folder its callstack names.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here reads the recorded errors back.",
     },
   ],
 } as const satisfies TemperAddon

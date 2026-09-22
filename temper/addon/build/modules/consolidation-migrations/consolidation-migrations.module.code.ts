@@ -297,6 +297,15 @@ export const CONSOLIDATION_MIGRATIONS = [
     },
   },
   {
+    mode: "append",
+    runFor: "TemperHud",
+    spec: {
+      absorbedFileBase: "TemperErrors",
+      absorbedGlobal: "TemperErrors_SavedVariables",
+      targetFileBase: "TemperHud",
+    },
+  },
+  {
     mode: "rename",
     runFor: "TemperKeybinder",
     oldFileBase: "TemperVotansKeybinder",

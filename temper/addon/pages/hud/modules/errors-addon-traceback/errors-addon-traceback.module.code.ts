@@ -1,6 +1,6 @@
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
-import { CALLSTACK_MAX_LEN } from "akasha/temper/addon/pages/errors/modules/errors-addon-limits/errors-addon-limits.module.code.ts"
+import { CALLSTACK_MAX_LEN } from "akasha/temper/addon/pages/hud/modules/errors-addon-limits/errors-addon-limits.module.code.ts"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 

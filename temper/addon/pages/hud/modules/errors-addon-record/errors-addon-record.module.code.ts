@@ -5,9 +5,9 @@ import {
   attributedAddonFolder,
   attributedBuildId,
   snapshotBuildIds,
-} from "akasha/temper/addon/pages/errors/modules/errors-addon-build-ids/errors-addon-build-ids.module.code.ts"
-import { MAX_ENTRIES } from "akasha/temper/addon/pages/errors/modules/errors-addon-limits/errors-addon-limits.module.code.ts"
-import { classifyError } from "akasha/temper/addon/pages/errors/modules/errors-addon-traceback/errors-addon-traceback.module.code.ts"
+} from "akasha/temper/addon/pages/hud/modules/errors-addon-build-ids/errors-addon-build-ids.module.code.ts"
+import { MAX_ENTRIES } from "akasha/temper/addon/pages/hud/modules/errors-addon-limits/errors-addon-limits.module.code.ts"
+import { classifyError } from "akasha/temper/addon/pages/hud/modules/errors-addon-traceback/errors-addon-traceback.module.code.ts"
 import type {
   ErrorEntry,
   ErrorsPayload,

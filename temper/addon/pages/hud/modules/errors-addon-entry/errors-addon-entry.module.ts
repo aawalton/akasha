@@ -4,7 +4,7 @@ export const errorsAddonEntry = {
   id: "01a060d8-091a-7ce1-8550-de2e11a20429",
   type: "page-type/module",
   slug: "errors-addon-entry",
-  definition: "what the error add-on does as the game loads it",
+  definition: "what error capture does as the game loads the add-on",
   code: "ts",
   decisions: [
     {

@@ -1,5 +1,6 @@
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/addon/pages/hud/modules/errors-addon-entry/errors-addon-entry.module.code.ts"
 import "akasha/temper/addon/pages/hud/modules/hud-addon-public-api/hud-addon-public-api.module.code.ts"
 
 import { initializeHudBar } from "akasha/temper/addon/pages/hud/modules/hud-addon-bar/hud-addon-bar.module.code.ts"

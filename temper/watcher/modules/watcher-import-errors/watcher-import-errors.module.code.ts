@@ -78,19 +78,19 @@ export function errorLogLines(decision: ErrorDecision): readonly string[] {
 
   if (decision.suppressed > 0) {
     const held = counted(decision.suppressed, "stale-residue entry", "stale-residue entries")
-    lines.push(`TemperErrors: suppressed ${held}`)
+    lines.push(`TemperHud: suppressed ${held}`)
   }
 
   if (decision.envelopes.length === 0) {
-    lines.push("TemperErrors: no new or recurred errors")
+    lines.push("TemperHud: no new or recurred errors")
     return lines
   }
 
   for (const envelope of decision.envelopes) {
-    lines.push(`TemperErrors: ${JSON.stringify(envelope)}`)
+    lines.push(`TemperHud: ${JSON.stringify(envelope)}`)
   }
   const recorded = counted(decision.envelopes.length, "error envelope", "error envelopes")
-  lines.push(`TemperErrors: recorded ${recorded}`)
+  lines.push(`TemperHud: recorded ${recorded}`)
   return lines
 }
 

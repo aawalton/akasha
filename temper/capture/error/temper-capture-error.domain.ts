@@ -9,7 +9,7 @@ export const temperCaptureError = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The error add-on and every reader of the add-on's capture agree here.",
+      statement: "The add-on and every reader of the error capture agree here.",
     },
     {
       decisionKind: "decision-kind/absence",
