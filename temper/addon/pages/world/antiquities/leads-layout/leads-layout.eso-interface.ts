@@ -6,7 +6,7 @@ export const leadsLayout = {
   slug: "leads-layout",
   definition: "the whole antiquity lead window, from its title row to its list rows",
   markup: "xml",
-  loadedAs: "TemperAntiquities.xml",
+  loadedAs: "Leads.xml",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

@@ -8,9 +8,7 @@ export const temperAddonWorldAntiquities = {
   parts: [
     "eso-interface/leads-layout",
     "module/antiquities-entry",
-    "module/antiquities-addon-global",
     "module/antiquities-loaded",
-    "module/antiquities-addon-names",
     "module/leads-active-leads",
     "module/leads-activity-map",
     "module/leads-alerts",
@@ -47,7 +45,6 @@ export const temperAddonWorldAntiquities = {
     "module/leads-unit-state",
     "module/leads-zone-name",
     "module/leads-zones",
-    "type-declaration/antiquities-addon-declarations",
     "type-declaration/leads-global-declarations",
     "type-declaration/leads-undaunted-declarations",
     "type-declaration/leads-window-declarations",

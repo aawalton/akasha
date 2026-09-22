@@ -10,6 +10,7 @@ import { initializeSavedVariables } from "akasha/temper/addon/pages/world/antiqu
 import { toggleLeadsWindow } from "akasha/temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"
 import { STRINGS } from "akasha/temper/addon/pages/world/antiquities/modules/leads-ui-strings/leads-ui-strings.module.code.ts"
 import { createUnitList } from "akasha/temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"
+import { ADDON_NAME as WORLD_ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
 import "akasha/temper/addon/pages/world/antiquities/leads-window-declarations/leads-window-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
@@ -39,5 +40,5 @@ ZO_CreateStringId("SI_BINDING_NAME_TOGGLE_TEMPER_LEADS", STRINGS.KEYBINDINGTEXT)
 globalThis.TemperHud?.registerCommand({
   name: "/temperleads",
   description: "Toggle antiquity leads window",
-  addon: "TemperAntiquities",
+  addon: WORLD_ADDON_NAME,
 })

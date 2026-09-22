@@ -6,6 +6,8 @@
   "version": "1.0.0",
   "addonVersion": 100,
   "apiVersion": [
+    "101041",
+    "101042",
     "101049",
     "101050",
     "101051"
@@ -17,7 +19,8 @@
     "TemperMapPins_ThievesTrove",
     "TemperDestinations_SavedVariables",
     "TemperVotansMiniMap_SavedVariables",
-    "TemperQuests_SavedVariables"
+    "TemperQuests_SavedVariables",
+    "TemperLeads_SavedVariables"
   ],
   "dependsOn": [
     "TemperHud",
@@ -32,13 +35,16 @@
   "optionalDependsOn": [
     "DebugLogViewer",
     "TweakIt",
-    "TrueExploration"
+    "TrueExploration",
+    "UndauntedDaily"
   ],
   "xmlFiles": {
     "beforeBundle": [
       "TemperWorld_Controls.xml"
     ],
-    "afterBundle": []
+    "afterBundle": [
+      "Leads.xml"
+    ]
   },
   "assets": [
     "Chest_1.dds",

@@ -5,7 +5,7 @@ export const temperAddonWorld = {
   type: "page-type/temper-addon",
   slug: "temper-addon-world",
   definition:
-    "the add-on pinning the world map and compass, keeping a minimap, and answering quest dialogue",
+    "the add-on pinning map and compass, keeping a minimap, answering quest dialogue and browsing leads",
 
   addonManifest: "json",
   addonDdsFile: true,

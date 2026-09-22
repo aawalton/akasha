@@ -4184,7 +4184,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/scrollable-menu-controls/scrollable-menu-controls.eso-interface.ts","id":"01a06275-c447-7a91-b3a6-e3e6daef8679"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/temper-lib-scrollable-menu.temper-addon.ts","id":"01a06275-c44a-71b2-a8e1-108e1c1dfd4b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/leads-layout/leads-layout.eso-interface.ts","id":"01a06274-b08b-7c8c-bbc7-d352dfe6b43f"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/antiquities-addon-global/antiquities-addon-global.module.ts","id":"01a06274-b08a-7cab-9448-75cbe305e5e4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/antiquities-entry/antiquities-entry.module.ts","id":"01a06274-b089-7140-959d-d67b4777dffa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-global/leads-global.module.ts","id":"01a06274-b08a-7c2e-bec4-949ada692ff8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.ts","id":"01a06274-b08a-713c-8263-d0c81956cd55"}
