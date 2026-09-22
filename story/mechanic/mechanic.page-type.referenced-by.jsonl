@@ -1,7 +1,11 @@
+{"propertySlug":"extends-type","path":"story/mechanic/attunement/attunement.page-type.ts","id":"01a0ca70-87e3-7f2e-a7a8-97be013a98f5"}
+{"propertySlug":"extends-type","path":"story/mechanic/attunement/rank/attunement-rank.page-type.ts","id":"01a0ca71-1736-7505-9546-ec713abf469a"}
 {"propertySlug":"extends-type","path":"story/mechanic/derived/metric-character-derived.page-type.ts","id":"01a0ca2c-3188-73cb-9621-2122beb52818"}
 {"propertySlug":"extends-type","path":"story/mechanic/element/element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
 {"propertySlug":"extends-type","path":"story/mechanic/metric/metric.page-type.ts","id":"01a0ca08-5607-7cf7-8091-650c47a04416"}
 {"propertySlug":"extends-type","path":"story/mechanic/trait/trait.page-type.ts","id":"01a0ca5d-0f58-748c-a396-b0062affcee6"}
+{"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/attunement/attunement.page-type.types.ts"}
+{"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/attunement/rank/attunement-rank.page-type.types.ts"}
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/derived/metric-character-derived.page-type.types.ts"}
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/element/element.page-type.types.ts"}
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/metric/metric.page-type.types.ts"}

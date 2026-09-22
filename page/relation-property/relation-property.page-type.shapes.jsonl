@@ -10,6 +10,8 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-armor-trait","unique":null,"uniquePropertySlug":null,"slug":"armor-trait","propertySlug":"armor-trait","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"artist","unique":null,"uniquePropertySlug":null,"slug":"artist","propertySlug":"artist","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"attribute","unique":null,"uniquePropertySlug":null,"slug":"attribute","propertySlug":"attribute","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"character","unique":null,"uniquePropertySlug":null,"slug":"attunement-character","propertySlug":"character","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"element","unique":null,"uniquePropertySlug":null,"slug":"attunement-element","propertySlug":"element","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"bond-attribute","propertySlug":"attribute","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"bound-attribute","propertySlug":"bound-attribute","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-entity","unique":null,"uniquePropertySlug":null,"slug":"bound-entity","propertySlug":"entity","fileName":null,"folderName":null}
@@ -128,6 +130,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-quality","unique":null,"uniquePropertySlug":null,"slug":"quality","propertySlug":"quality","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-quest-giver","unique":null,"uniquePropertySlug":null,"slug":"quest-giver","propertySlug":"quest-giver","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"all-about-alan-topic","unique":null,"uniquePropertySlug":null,"slug":"question-topic","propertySlug":"topic","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"attunement-rank","unique":null,"uniquePropertySlug":null,"slug":"rank-of-attunement","propertySlug":"rank","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"reached","propertySlug":"reached","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"read-live-from","propertySlug":"read-live-from","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"alan-book","unique":null,"uniquePropertySlug":null,"slug":"record-book","propertySlug":"book","fileName":null,"folderName":null}

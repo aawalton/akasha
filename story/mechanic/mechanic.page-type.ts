@@ -12,6 +12,7 @@ export const mechanic = {
     "page-type/metric-character-derived",
     "page-type/trait",
     "page-type/element",
+    "page-type/attunement",
   ],
   types: "ts",
   schema: "jsonl",
