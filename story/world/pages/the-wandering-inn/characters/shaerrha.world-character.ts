@@ -6,6 +6,7 @@ export const shaerrha = {
   slug: "shaerrha",
   title: "Shaerrha Brasswing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 447,
   lastChapter: 447,
   characterClaims: "jsonl",

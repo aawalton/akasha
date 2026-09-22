@@ -6,6 +6,7 @@ export const skeletonWarriorUnnamed = {
   slug: "skeleton-warrior-unnamed",
   title: "the animated skeleton",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 44,
   lastChapter: 44,
   characterClaims: "jsonl",

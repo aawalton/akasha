@@ -6,6 +6,7 @@ export const serLorell = {
   slug: "ser-lorell",
   title: "Ser Lorell",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 378,
   lastChapter: 378,
   characterClaims: "jsonl",

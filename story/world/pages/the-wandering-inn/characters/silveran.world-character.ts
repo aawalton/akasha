@@ -6,6 +6,7 @@ export const silveran = {
   slug: "silveran",
   title: "Silveran",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 483,
   lastChapter: 817,
   characterClaims: "jsonl",

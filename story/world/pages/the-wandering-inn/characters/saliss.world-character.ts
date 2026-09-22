@@ -6,6 +6,7 @@ export const saliss = {
   slug: "saliss",
   title: "Saliss",
   world: "world/the-wandering-inn",
+  appearanceCount: 21,
   maxLevel: 56,
   eventCount: 2,
   firstChapter: 396,

@@ -6,6 +6,7 @@ export const stoneSpearsTribe = {
   slug: "stone-spears-tribe",
   title: "Stone Spears tribe",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 111,
   lastChapter: 111,
   characterClaims: "jsonl",

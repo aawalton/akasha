@@ -6,6 +6,7 @@ export const soot = {
   slug: "soot",
   title: "Mister Soot",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 397,
   lastChapter: 778,
   characterClaims: "jsonl",

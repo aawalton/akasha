@@ -6,6 +6,7 @@ export const regrikaBlackpaw = {
   slug: "regrika-blackpaw",
   title: "Regrika Blackpaw",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 208,
   lastChapter: 322,
   characterClaims: "jsonl",

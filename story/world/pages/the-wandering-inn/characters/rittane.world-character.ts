@@ -6,6 +6,7 @@ export const rittane = {
   slug: "rittane",
   title: "Rittane",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 649,
   lastChapter: 650,
   characterClaims: "jsonl",

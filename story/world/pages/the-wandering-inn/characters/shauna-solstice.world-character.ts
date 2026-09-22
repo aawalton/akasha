@@ -6,6 +6,7 @@ export const shaunaSolstice = {
   slug: "shauna-solstice",
   title: "Shauna Solstice",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 495,
   lastChapter: 495,
   characterClaims: "jsonl",

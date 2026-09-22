@@ -6,6 +6,7 @@ export const quietstab = {
   slug: "quietstab",
   title: "Quietstab",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 263,
   lastChapter: 295,
   characterClaims: "jsonl",

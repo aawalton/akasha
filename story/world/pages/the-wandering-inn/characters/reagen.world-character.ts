@@ -6,6 +6,7 @@ export const reagen = {
   slug: "reagen",
   title: "Reagen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 627,
   lastChapter: 627,
   characterClaims: "jsonl",

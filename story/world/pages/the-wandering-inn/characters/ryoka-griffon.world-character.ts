@@ -6,6 +6,7 @@ export const ryokaGriffon = {
   slug: "ryoka-griffon",
   title: "Ryoka Griffon",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 112,
   lastChapter: 112,
   characterClaims: "jsonl",

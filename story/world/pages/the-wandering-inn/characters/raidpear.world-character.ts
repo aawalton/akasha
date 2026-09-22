@@ -6,6 +6,7 @@ export const raidpear = {
   slug: "raidpear",
   title: "Raidpear",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 395,
   lastChapter: 395,
   characterClaims: "jsonl",

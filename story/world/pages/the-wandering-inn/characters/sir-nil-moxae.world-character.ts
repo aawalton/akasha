@@ -6,6 +6,7 @@ export const sirNilMoxae = {
   slug: "sir-nil-moxae",
   title: "Sir Nil Moxae",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 263,
   lastChapter: 263,
   characterClaims: "jsonl",

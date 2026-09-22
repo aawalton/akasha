@@ -6,6 +6,7 @@ export const rabbitears = {
   slug: "rabbitears",
   title: "Rabbitears",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 266,
   lastChapter: 266,
   characterClaims: "jsonl",

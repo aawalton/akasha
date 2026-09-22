@@ -6,6 +6,7 @@ export const serNormen = {
   slug: "ser-normen",
   title: "Ser Normen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 769,
   lastChapter: 769,
   characterClaims: "jsonl",

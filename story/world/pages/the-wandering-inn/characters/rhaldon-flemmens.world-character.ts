@@ -6,6 +6,7 @@ export const rhaldonFlemmens = {
   slug: "rhaldon-flemmens",
   title: "Rhaldon Flemmens",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 707,
   lastChapter: 788,
   characterClaims: "jsonl",

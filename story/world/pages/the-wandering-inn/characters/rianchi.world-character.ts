@@ -6,6 +6,7 @@ export const rianchi = {
   slug: "rianchi",
   title: "Rianchi",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 716,
   lastChapter: 747,
   characterClaims: "jsonl",

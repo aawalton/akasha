@@ -6,6 +6,7 @@ export const solvetAvel = {
   slug: "solvet-avel",
   title: "Lord Solvet",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 519,
   lastChapter: 519,
   characterClaims: "jsonl",

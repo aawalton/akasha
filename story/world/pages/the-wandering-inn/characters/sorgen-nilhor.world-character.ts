@@ -6,6 +6,7 @@ export const sorgenNilhor = {
   slug: "sorgen-nilhor",
   title: "Sorgen Nilhor",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 764,
   lastChapter: 764,
   characterClaims: "jsonl",

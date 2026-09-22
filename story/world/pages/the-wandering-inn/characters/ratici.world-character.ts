@@ -6,6 +6,7 @@ export const ratici = {
   slug: "ratici",
   title: "Ratici",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   firstChapter: 450,
   lastChapter: 628,
   characterClaims: "jsonl",

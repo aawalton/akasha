@@ -6,6 +6,7 @@ export const rievan = {
   slug: "rievan",
   title: "Rievan Forstrom",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 159,
   lastChapter: 161,
   characterClaims: "jsonl",

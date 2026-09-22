@@ -6,6 +6,7 @@ export const sacra = {
   slug: "sacra",
   title: "the spy",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 205,
   lastChapter: 262,
   characterClaims: "jsonl",

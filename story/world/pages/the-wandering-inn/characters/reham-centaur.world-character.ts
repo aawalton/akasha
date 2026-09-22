@@ -6,6 +6,7 @@ export const rehamCentaur = {
   slug: "reham-centaur",
   title: "Reham",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 496,
   lastChapter: 496,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const saLa = {
   slug: "sa-la",
   title: "Sa'la",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 556,
   lastChapter: 556,
   characterClaims: "jsonl",

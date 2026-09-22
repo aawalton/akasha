@@ -6,6 +6,7 @@ export const serDalimont = {
   slug: "ser-dalimont",
   title: "Ser Dalimont",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 512,
   lastChapter: 707,
   characterClaims: "jsonl",

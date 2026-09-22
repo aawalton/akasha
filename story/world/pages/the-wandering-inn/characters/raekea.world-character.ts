@@ -6,6 +6,7 @@ export const raekea = {
   slug: "raekea",
   title: "Raekea",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 300,
   lastChapter: 655,
   characterClaims: "jsonl",

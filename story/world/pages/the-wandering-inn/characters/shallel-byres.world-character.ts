@@ -6,6 +6,7 @@ export const shallelByres = {
   slug: "shallel-byres",
   title: "Shallel Byres",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 452,
   lastChapter: 452,
   characterClaims: "jsonl",

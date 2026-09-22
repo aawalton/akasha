@@ -6,6 +6,7 @@ export const sableCatBeastkin = {
   slug: "sable-cat-beastkin",
   title: "Sable",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 715,
   lastChapter: 715,
   characterClaims: "jsonl",

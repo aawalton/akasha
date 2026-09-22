@@ -6,6 +6,7 @@ export const seerOfSteel = {
   slug: "seer-of-steel",
   title: "Seer of Steel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 335,
   lastChapter: 335,
   characterClaims: "jsonl",

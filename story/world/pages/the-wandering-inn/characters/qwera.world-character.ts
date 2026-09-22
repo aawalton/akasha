@@ -6,6 +6,7 @@ export const qwera = {
   slug: "qwera",
   title: "Qwera",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 535,
   lastChapter: 814,
   characterClaims: "jsonl",

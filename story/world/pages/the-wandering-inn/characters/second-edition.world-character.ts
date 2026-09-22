@@ -6,6 +6,7 @@ export const secondEdition = {
   slug: "second-edition",
   title: "the Grand Design (Second Edition)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 750,
   lastChapter: 750,
   characterClaims: "jsonl",

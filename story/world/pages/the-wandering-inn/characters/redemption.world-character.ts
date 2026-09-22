@@ -6,6 +6,7 @@ export const redemption = {
   slug: "redemption",
   title: "Redemption",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 618,
   lastChapter: 618,
   characterClaims: "jsonl",

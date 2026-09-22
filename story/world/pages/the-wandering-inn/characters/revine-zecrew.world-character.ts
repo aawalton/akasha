@@ -6,6 +6,7 @@ export const revineZecrew = {
   slug: "revine-zecrew",
   title: "Revine Zecrew",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 548,
   lastChapter: 554,
   characterClaims: "jsonl",

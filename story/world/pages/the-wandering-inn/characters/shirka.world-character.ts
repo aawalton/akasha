@@ -6,6 +6,7 @@ export const shirka = {
   slug: "shirka",
   title: "Shirka",
   world: "world/the-wandering-inn",
+  appearanceCount: 9,
   firstChapter: 464,
   lastChapter: 793,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const rellmel = {
   slug: "rellmel",
   title: "Rellmel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 494,
   lastChapter: 494,
   characterClaims: "jsonl",

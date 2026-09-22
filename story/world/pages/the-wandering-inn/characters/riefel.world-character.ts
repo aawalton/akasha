@@ -6,6 +6,7 @@ export const riefel = {
   slug: "riefel",
   title: "Emir Riefel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 242,
   lastChapter: 242,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const sserysOfLiscor = {
   slug: "sserys-of-liscor",
   title: "Sserys",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 113,
   lastChapter: 113,
   characterClaims: "jsonl",

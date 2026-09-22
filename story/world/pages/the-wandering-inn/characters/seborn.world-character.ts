@@ -6,6 +6,7 @@ export const seborn = {
   slug: "seborn",
   title: "Seborn",
   world: "world/the-wandering-inn",
+  appearanceCount: 30,
   firstChapter: 96,
   lastChapter: 810,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const sammialVeltras = {
   slug: "sammial-veltras",
   title: "Sammial Veltras",
   world: "world/the-wandering-inn",
+  appearanceCount: 11,
   firstChapter: 425,
   lastChapter: 690,
   characterClaims: "jsonl",

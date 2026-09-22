@@ -6,6 +6,7 @@ export const relc = {
   slug: "relc",
   title: "large drake-person with scales and tail",
   world: "world/the-wandering-inn",
+  appearanceCount: 89,
   maxLevel: 40,
   eventCount: 9,
   firstChapter: 7,

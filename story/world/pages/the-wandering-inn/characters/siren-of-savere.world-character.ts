@@ -6,6 +6,7 @@ export const sirenOfSavere = {
   slug: "siren-of-savere",
   title: "the Siren of Savere",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 527,
   lastChapter: 636,
   characterClaims: "jsonl",

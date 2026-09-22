@@ -6,6 +6,7 @@ export const siri = {
   slug: "siri",
   title: "Siri",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 316,
   lastChapter: 695,
   characterClaims: "jsonl",

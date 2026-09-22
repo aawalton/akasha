@@ -6,6 +6,7 @@ export const shellc = {
   slug: "shellc",
   title: "Major Shellc",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 822,
   lastChapter: 822,
   characterClaims: "jsonl",

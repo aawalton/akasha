@@ -6,6 +6,7 @@ export const springWarden = {
   slug: "spring-warden",
   title: "Spring's Warden",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 490,
   lastChapter: 490,
   characterClaims: "jsonl",

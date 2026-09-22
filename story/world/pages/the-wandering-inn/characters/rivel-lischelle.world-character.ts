@@ -6,6 +6,7 @@ export const rivelLischelle = {
   slug: "rivel-lischelle",
   title: "Rivel Lischelle",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 664,
   lastChapter: 664,
   characterClaims: "jsonl",

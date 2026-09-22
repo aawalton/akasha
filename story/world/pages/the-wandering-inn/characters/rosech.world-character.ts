@@ -6,6 +6,7 @@ export const rosech = {
   slug: "rosech",
   title: "Rosech",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 677,
   lastChapter: 685,
   characterClaims: "jsonl",

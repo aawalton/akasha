@@ -6,6 +6,7 @@ export const seql = {
   slug: "seql",
   title: "Seql",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 456,
   lastChapter: 456,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const relcGrasstongue = {
   slug: "relc-grasstongue",
   title: "Relc Grasstongue",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 241,
   lastChapter: 752,
   characterClaims: "jsonl",

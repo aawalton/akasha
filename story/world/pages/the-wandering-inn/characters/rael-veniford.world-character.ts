@@ -6,6 +6,7 @@ export const raelVeniford = {
   slug: "rael-veniford",
   title: "Rael Veniford",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 252,
   lastChapter: 252,
   characterClaims: "jsonl",

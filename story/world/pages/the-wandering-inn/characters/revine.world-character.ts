@@ -6,6 +6,7 @@ export const revine = {
   slug: "revine",
   title: "Revine",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 326,
   lastChapter: 370,
   characterClaims: "jsonl",

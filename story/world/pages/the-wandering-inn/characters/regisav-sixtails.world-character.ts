@@ -6,6 +6,7 @@ export const regisavSixtails = {
   slug: "regisav-sixtails",
   title: "Regisav Sixtails",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 339,
   lastChapter: 339,
   characterClaims: "jsonl",

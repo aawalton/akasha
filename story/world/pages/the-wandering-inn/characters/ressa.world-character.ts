@@ -6,6 +6,7 @@ export const ressa = {
   slug: "ressa",
   title: "Ressa",
   world: "world/the-wandering-inn",
+  appearanceCount: 22,
   firstChapter: 21,
   lastChapter: 812,
   characterClaims: "jsonl",

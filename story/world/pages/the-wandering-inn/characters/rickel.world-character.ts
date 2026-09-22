@@ -6,6 +6,7 @@ export const rickel = {
   slug: "rickel",
   title: "Rickel",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 538,
   lastChapter: 625,
   characterClaims: "jsonl",

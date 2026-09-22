@@ -6,6 +6,7 @@ export const sirKerrigLouis = {
   slug: "sir-kerrig-louis",
   title: "Sir Kerrig Louis",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 260,
   lastChapter: 261,
   characterClaims: "jsonl",

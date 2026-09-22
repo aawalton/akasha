@@ -6,6 +6,7 @@ export const ridleyWallis = {
   slug: "ridley-wallis",
   title: "Ridley Wallis",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 67,
   lastChapter: 67,
   characterClaims: "jsonl",

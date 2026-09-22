@@ -6,6 +6,7 @@ export const rois = {
   slug: "rois",
   title: "Rois",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 50,
   lastChapter: 50,
   characterClaims: "jsonl",

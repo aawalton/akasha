@@ -6,6 +6,7 @@ export const rose = {
   slug: "rose",
   title: "Rose",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   maxLevel: 4,
   eventCount: 4,
   firstChapter: 67,

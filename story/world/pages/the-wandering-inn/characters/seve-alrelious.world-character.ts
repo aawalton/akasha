@@ -6,6 +6,7 @@ export const seveAlrelious = {
   slug: "seve-alrelious",
   title: "Seve-Alrelious",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   maxLevel: 46,
   eventCount: 3,
   firstChapter: 456,

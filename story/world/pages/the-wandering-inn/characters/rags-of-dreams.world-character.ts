@@ -6,6 +6,7 @@ export const ragsOfDreams = {
   slug: "rags-of-dreams",
   title: "Rags of Dreams",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 760,
   lastChapter: 760,
   characterClaims: "jsonl",

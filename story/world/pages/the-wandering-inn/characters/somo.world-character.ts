@@ -6,6 +6,7 @@ export const somo = {
   slug: "somo",
   title: "Somo",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 723,
   lastChapter: 729,
   characterClaims: "jsonl",

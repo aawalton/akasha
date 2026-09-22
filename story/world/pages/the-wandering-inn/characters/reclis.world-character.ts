@@ -6,6 +6,7 @@ export const reclis = {
   slug: "reclis",
   title: "Reclis du Marquin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 609,
   lastChapter: 609,
   characterClaims: "jsonl",

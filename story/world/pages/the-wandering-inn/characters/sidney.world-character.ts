@@ -6,6 +6,7 @@ export const sidney = {
   slug: "sidney",
   title: "Sidney",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 431,
   lastChapter: 431,
   characterClaims: "jsonl",

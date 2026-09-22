@@ -6,6 +6,7 @@ export const rasktooth = {
   slug: "rasktooth",
   title: "Rasktooth",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   firstChapter: 621,
   lastChapter: 815,
   characterClaims: "jsonl",

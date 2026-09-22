@@ -6,6 +6,7 @@ export const rosencrantz = {
   slug: "rosencrantz",
   title: "Rosencrantz",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 707,
   lastChapter: 751,
   characterClaims: "jsonl",

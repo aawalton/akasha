@@ -6,6 +6,7 @@ export const rie = {
   slug: "rie",
   title: "Rie",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 346,
   lastChapter: 351,
   characterClaims: "jsonl",

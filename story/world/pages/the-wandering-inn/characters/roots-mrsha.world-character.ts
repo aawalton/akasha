@@ -6,6 +6,7 @@ export const rootsMrsha = {
   slug: "roots-mrsha",
   title: "Roots Mrsha",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 753,
   lastChapter: 757,
   characterClaims: "jsonl",

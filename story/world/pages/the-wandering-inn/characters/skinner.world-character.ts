@@ -6,6 +6,7 @@ export const skinner = {
   slug: "skinner",
   title: "the creature",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 63,
   lastChapter: 329,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const reikhle = {
   slug: "reikhle",
   title: "Reikhle",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 383,
   lastChapter: 383,
   characterClaims: "jsonl",

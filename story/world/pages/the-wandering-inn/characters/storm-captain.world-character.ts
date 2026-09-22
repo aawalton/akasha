@@ -6,6 +6,7 @@ export const stormCaptain = {
   slug: "storm-captain",
   title: "the pirate captain",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 162,
   lastChapter: 162,
   characterClaims: "jsonl",

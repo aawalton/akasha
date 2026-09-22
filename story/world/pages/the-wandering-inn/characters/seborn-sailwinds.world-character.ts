@@ -6,6 +6,7 @@ export const sebornSailwinds = {
   slug: "seborn-sailwinds",
   title: "Seborn Sailwinds",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   eventCount: 1,
   firstChapter: 401,
   lastChapter: 791,

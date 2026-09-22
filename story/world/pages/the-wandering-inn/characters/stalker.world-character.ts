@@ -6,6 +6,7 @@ export const stalker = {
   slug: "stalker",
   title: "Stalker",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 284,
   lastChapter: 284,
   characterClaims: "jsonl",

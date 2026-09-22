@@ -6,6 +6,7 @@ export const queenYisame = {
   slug: "queen-yisame",
   title: "Queen Yisame",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 453,
   lastChapter: 797,
   characterClaims: "jsonl",

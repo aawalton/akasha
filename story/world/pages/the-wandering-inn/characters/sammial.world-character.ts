@@ -6,6 +6,7 @@ export const sammial = {
   slug: "sammial",
   title: "Sammial",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 527,
   lastChapter: 656,
   characterClaims: "jsonl",

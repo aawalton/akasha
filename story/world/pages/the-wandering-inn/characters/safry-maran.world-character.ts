@@ -6,6 +6,7 @@ export const safryMaran = {
   slug: "safry-maran",
   title: "Safry and Maran",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 122,
   lastChapter: 122,
   characterClaims: "jsonl",

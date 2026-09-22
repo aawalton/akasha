@@ -6,6 +6,7 @@ export const ricuvTerland = {
   slug: "ricuv-terland",
   title: "Ricuv Terland",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 568,
   lastChapter: 568,
   characterClaims: "jsonl",

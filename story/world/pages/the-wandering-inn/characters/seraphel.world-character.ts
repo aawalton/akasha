@@ -6,6 +6,7 @@ export const seraphel = {
   slug: "seraphel",
   title: "Seraphel",
   world: "world/the-wandering-inn",
+  appearanceCount: 9,
   maxLevel: 35,
   eventCount: 3,
   firstChapter: 512,

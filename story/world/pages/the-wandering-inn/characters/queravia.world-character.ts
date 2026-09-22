@@ -6,6 +6,7 @@ export const queravia = {
   slug: "queravia",
   title: "Queravia",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 181,
   lastChapter: 372,
   characterClaims: "jsonl",

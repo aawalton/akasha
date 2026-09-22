@@ -6,6 +6,7 @@ export const seelawYa = {
   slug: "seelaw-ya",
   title: "the leader",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 541,
   lastChapter: 541,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const secondEditionGrandDesign = {
   slug: "second-edition-grand-design",
   title: "Second Edition",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 762,
   lastChapter: 762,
   characterClaims: "jsonl",

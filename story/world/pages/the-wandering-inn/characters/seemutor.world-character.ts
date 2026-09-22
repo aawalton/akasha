@@ -6,6 +6,7 @@ export const seemutor = {
   slug: "seemutor",
   title: "Seemutor",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 514,
   lastChapter: 671,
   characterClaims: "jsonl",

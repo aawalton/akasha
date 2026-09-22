@@ -6,6 +6,7 @@ export const regisReinhart = {
   slug: "regis-reinhart",
   title: "Regis Reinhart",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 208,
   lastChapter: 664,
   characterClaims: "jsonl",

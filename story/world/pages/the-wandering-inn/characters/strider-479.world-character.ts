@@ -6,6 +6,7 @@ export const strider479 = {
   slug: "strider-479",
   title: "strider_479",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 111,
   lastChapter: 111,
   characterClaims: "jsonl",

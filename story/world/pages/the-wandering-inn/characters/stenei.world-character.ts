@@ -6,6 +6,7 @@ export const stenei = {
   slug: "stenei",
   title: "Stenei",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 42,
   lastChapter: 42,
   characterClaims: "jsonl",

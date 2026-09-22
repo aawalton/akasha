@@ -6,6 +6,7 @@ export const reynoldButler = {
   slug: "reynold-butler",
   title: "Reynold",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 110,
   lastChapter: 110,
   characterClaims: "jsonl",

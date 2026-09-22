@@ -6,6 +6,7 @@ export const shamanUlcre = {
   slug: "shaman-ulcre",
   title: "Shaman Ulcreziek",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 521,
   lastChapter: 521,
   characterClaims: "jsonl",

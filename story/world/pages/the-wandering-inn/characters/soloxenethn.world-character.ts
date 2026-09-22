@@ -6,6 +6,7 @@ export const soloxenethn = {
   slug: "soloxenethn",
   title: "Soloxenethn",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 637,
   lastChapter: 671,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const rastandius = {
   slug: "rastandius",
   title: "Rastandius",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 601,
   lastChapter: 601,
   characterClaims: "jsonl",

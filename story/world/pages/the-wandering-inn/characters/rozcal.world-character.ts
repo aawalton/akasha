@@ -6,6 +6,7 @@ export const rozcal = {
   slug: "rozcal",
   title: "Rozcal",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 634,
   lastChapter: 634,
   characterClaims: "jsonl",

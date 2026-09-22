@@ -6,6 +6,7 @@ export const sapkiMekhita = {
   slug: "sapki-mekhita",
   title: "Sapki Mekhita",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 399,
   lastChapter: 399,
   characterClaims: "jsonl",

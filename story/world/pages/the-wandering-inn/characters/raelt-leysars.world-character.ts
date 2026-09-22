@@ -6,6 +6,7 @@ export const raeltLeysars = {
   slug: "raelt-leysars",
   title: "Raelt Leysars",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   maxLevel: 35,
   eventCount: 10,
   firstChapter: 410,

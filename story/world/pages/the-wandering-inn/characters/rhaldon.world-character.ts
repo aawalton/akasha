@@ -6,6 +6,7 @@ export const rhaldon = {
   slug: "rhaldon",
   title: "Rhaldon",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   maxLevel: 15,
   eventCount: 20,
   firstChapter: 590,

@@ -6,6 +6,7 @@ export const serinpotva = {
   slug: "serinpotva",
   title: "Serinpotva",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 634,
   lastChapter: 710,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const rital = {
   slug: "rital",
   title: "Rital",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 316,
   lastChapter: 317,
   characterClaims: "jsonl",

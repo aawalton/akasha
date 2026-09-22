@@ -6,6 +6,7 @@ export const satarSilverfang = {
   slug: "satar-silverfang",
   title: "Satar Silverfang",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 578,
   lastChapter: 578,
   characterClaims: "jsonl",

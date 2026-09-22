@@ -6,6 +6,7 @@ export const sprigaena = {
   slug: "sprigaena",
   title: "Sprigaena",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 578,
   lastChapter: 581,
   characterClaims: "jsonl",

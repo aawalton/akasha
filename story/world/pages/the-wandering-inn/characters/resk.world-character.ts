@@ -6,6 +6,7 @@ export const resk = {
   slug: "resk",
   title: "Resk",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 575,
   lastChapter: 695,
   characterClaims: "jsonl",

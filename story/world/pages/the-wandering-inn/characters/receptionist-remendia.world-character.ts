@@ -6,6 +6,7 @@ export const receptionistRemendia = {
   slug: "receptionist-remendia",
   title: "Guild Receptionist",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 22,
   lastChapter: 22,
   characterClaims: "jsonl",

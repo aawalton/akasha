@@ -6,6 +6,7 @@ export const rotellen = {
   slug: "rotellen",
   title: "Rotellen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 784,
   lastChapter: 784,
   characterClaims: "jsonl",

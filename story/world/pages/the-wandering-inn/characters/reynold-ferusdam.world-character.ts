@@ -6,6 +6,7 @@ export const reynoldFerusdam = {
   slug: "reynold-ferusdam",
   title: "Reynold Ferusdam",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 449,
   lastChapter: 449,
   characterClaims: "jsonl",

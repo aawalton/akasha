@@ -6,6 +6,7 @@ export const rinu = {
   slug: "rinu",
   title: "Rinu",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 657,
   lastChapter: 657,
   characterClaims: "jsonl",

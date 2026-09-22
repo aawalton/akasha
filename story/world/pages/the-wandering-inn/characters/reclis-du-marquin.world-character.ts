@@ -6,6 +6,7 @@ export const reclisDuMarquin = {
   slug: "reclis-du-marquin",
   title: "King Reclis du Marquin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 774,
   lastChapter: 774,
   characterClaims: "jsonl",

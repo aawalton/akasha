@@ -6,6 +6,7 @@ export const rags = {
   slug: "rags",
   title: "Rags",
   world: "world/the-wandering-inn",
+  appearanceCount: 87,
   maxLevel: 35,
   eventCount: 27,
   firstChapter: 28,

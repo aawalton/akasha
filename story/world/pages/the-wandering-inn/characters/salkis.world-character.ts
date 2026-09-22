@@ -6,6 +6,7 @@ export const salkis = {
   slug: "salkis",
   title: "Salkis",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 458,
   lastChapter: 745,
   characterClaims: "jsonl",

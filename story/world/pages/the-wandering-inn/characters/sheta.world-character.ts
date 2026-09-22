@@ -6,6 +6,7 @@ export const sheta = {
   slug: "sheta",
   title: "Empress Sheta",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 598,
   lastChapter: 760,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const salvia = {
   slug: "salvia",
   title: "Salvia",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 233,
   lastChapter: 688,
   characterClaims: "jsonl",

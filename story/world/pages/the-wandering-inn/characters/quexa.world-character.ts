@@ -6,6 +6,7 @@ export const quexa = {
   slug: "quexa",
   title: "Quexa",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 196,
   lastChapter: 317,
   characterClaims: "jsonl",

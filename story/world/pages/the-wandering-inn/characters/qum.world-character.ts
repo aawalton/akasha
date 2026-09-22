@@ -6,6 +6,7 @@ export const qum = {
   slug: "qum",
   title: "Qum",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 163,
   lastChapter: 163,
   characterClaims: "jsonl",

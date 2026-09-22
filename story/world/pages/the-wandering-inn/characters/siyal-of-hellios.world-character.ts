@@ -6,6 +6,7 @@ export const siyalOfHellios = {
   slug: "siyal-of-hellios",
   title: "Siyal",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 181,
   lastChapter: 181,
   characterClaims: "jsonl",

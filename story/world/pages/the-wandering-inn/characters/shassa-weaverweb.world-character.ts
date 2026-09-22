@@ -6,6 +6,7 @@ export const shassaWeaverweb = {
   slug: "shassa-weaverweb",
   title: "Shassa",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 434,
   lastChapter: 623,
   characterClaims: "jsonl",

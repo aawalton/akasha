@@ -6,6 +6,7 @@ export const richardDavenport = {
   slug: "richard-davenport",
   title: "Richard Davenport",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 215,
   lastChapter: 215,
   characterClaims: "jsonl",

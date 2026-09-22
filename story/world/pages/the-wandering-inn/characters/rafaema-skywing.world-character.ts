@@ -6,6 +6,7 @@ export const rafaemaSkywing = {
   slug: "rafaema-skywing",
   title: "Rafaema Skywing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 508,
   lastChapter: 508,
   characterClaims: "jsonl",

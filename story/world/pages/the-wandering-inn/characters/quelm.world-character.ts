@@ -6,6 +6,7 @@ export const quelm = {
   slug: "quelm",
   title: "Quelm",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 313,
   lastChapter: 313,
   characterClaims: "jsonl",

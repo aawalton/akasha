@@ -6,6 +6,7 @@ export const rockgaw = {
   slug: "rockgaw",
   title: "Rockgaw",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 89,
   lastChapter: 89,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const shineshield = {
   slug: "shineshield",
   title: "Shineshield",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 409,
   lastChapter: 729,
   characterClaims: "jsonl",

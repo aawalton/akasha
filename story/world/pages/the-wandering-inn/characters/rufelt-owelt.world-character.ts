@@ -6,6 +6,7 @@ export const rufeltOwelt = {
   slug: "rufelt-owelt",
   title: "Rufelt Owelt",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 516,
   lastChapter: 516,
   characterClaims: "jsonl",

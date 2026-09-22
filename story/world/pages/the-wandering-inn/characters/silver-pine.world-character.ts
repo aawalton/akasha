@@ -6,6 +6,7 @@ export const silverPine = {
   slug: "silver-pine",
   title: "Silver Pine",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 475,
   lastChapter: 475,
   characterClaims: "jsonl",

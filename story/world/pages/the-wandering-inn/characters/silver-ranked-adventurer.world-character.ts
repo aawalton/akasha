@@ -6,6 +6,7 @@ export const silverRankedAdventurer = {
   slug: "silver-ranked-adventurer",
   title: "the Silver-ranked adventurer",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 214,
   lastChapter: 214,
   characterClaims: "jsonl",

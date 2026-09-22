@@ -6,6 +6,7 @@ export const sikeri = {
   slug: "sikeri",
   title: "Sikeri'val-Toreshio-Maresssui",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 533,
   lastChapter: 533,
   characterClaims: "jsonl",

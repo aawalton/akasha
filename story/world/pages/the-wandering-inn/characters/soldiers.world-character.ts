@@ -6,6 +6,7 @@ export const soldiers = {
   slug: "soldiers",
   title: "Soldiers",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 147,
   lastChapter: 148,
   characterClaims: "jsonl",

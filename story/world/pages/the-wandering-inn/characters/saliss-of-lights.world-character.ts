@@ -6,6 +6,7 @@ export const salissOfLights = {
   slug: "saliss-of-lights",
   title: "Saliss",
   world: "world/the-wandering-inn",
+  appearanceCount: 13,
   firstChapter: 415,
   lastChapter: 737,
   characterClaims: "jsonl",

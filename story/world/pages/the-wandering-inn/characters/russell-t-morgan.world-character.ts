@@ -6,6 +6,7 @@ export const russellTMorgan = {
   slug: "russell-t-morgan",
   title: "Russell T. Morgan",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   maxLevel: 16,
   eventCount: 3,
   firstChapter: 816,

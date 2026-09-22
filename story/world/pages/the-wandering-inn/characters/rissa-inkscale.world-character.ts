@@ -6,6 +6,7 @@ export const rissaInkscale = {
   slug: "rissa-inkscale",
   title: "Rissa Inkscale",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 322,
   lastChapter: 322,
   characterClaims: "jsonl",

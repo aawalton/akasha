@@ -6,6 +6,7 @@ export const remiCanada = {
   slug: "remi-canada",
   title: "Rémi Canada",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 368,
   lastChapter: 688,
   characterClaims: "jsonl",
