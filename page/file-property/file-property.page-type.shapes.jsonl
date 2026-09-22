@@ -56,7 +56,6 @@
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"location-collection-description","propertySlug":"location-collection-description","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"lockfile","propertySlug":"lockfile","fileName":"bun.lock","folderName":null,"generated":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"logs","propertySlug":"logs","fileName":null,"folderName":null,"generated":true}
-{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"lore-entries","propertySlug":"lore-entries","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"lua50-config","propertySlug":"lua50-config","fileName":"tsconfig.lua50.json","folderName":null,"toolResolvesPaths":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"lyrics","propertySlug":"lyrics","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"markup","propertySlug":"markup","fileName":null,"folderName":null}

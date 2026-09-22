@@ -62,7 +62,6 @@ export const haremHotel = {
     "game-panel/story-so-far",
     "game-panel/prose-channel",
   ],
-  loreEntries: "jsonl",
   mechanicRuns: "jsonl",
   player: "game-entity/harem-hotel-alan",
 } as const satisfies Game

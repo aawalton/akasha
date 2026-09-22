@@ -14,7 +14,6 @@ import type { GameMechanics } from "akasha/story/game/properties/game-mechanics.
 import type { GamePanels } from "akasha/story/game/properties/game-panels.relation-property.types.ts"
 import type { Genre } from "akasha/story/game/properties/genre.text-property.types.ts"
 import type { GmContext } from "akasha/story/game/properties/gm-context.file-property.types.ts"
-import type { LoreEntries } from "akasha/story/game/properties/lore-entries.file-property.types.ts"
 import type { MechanicRuns } from "akasha/story/game/properties/mechanic-runs.file-property.types.ts"
 import type { MechanicsWeight } from "akasha/story/game/properties/mechanics-weight.select-property.types.ts"
 import type { NarrativeContinuity } from "akasha/story/game/properties/narrative-continuity.file-property.types.ts"
@@ -49,7 +48,6 @@ export type Game = Collection & {
   rulebook?: Rulebook
   resolutionMechanism?: ResolutionMechanism
   rolls?: Rolls
-  loreEntries?: LoreEntries
   mechanics?: GameMechanics
   attributes?: GameAttributes
   cardVocabulary?: CardVocabulary

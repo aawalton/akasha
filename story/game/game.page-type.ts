@@ -14,7 +14,6 @@ export const game = {
     "file-property/config",
     "file-property/display-config",
     "file-property/gm-context",
-    "file-property/lore-entries",
     "file-property/narrative-continuity",
     "file-property/resolution-mechanism",
     "file-property/rolls",
@@ -73,7 +72,6 @@ export const game = {
     { pageProperty: "file-property/rulebook", required: false, many: false },
     { pageProperty: "file-property/resolution-mechanism", required: false, many: false },
     { pageProperty: "file-property/rolls", required: false, many: false },
-    { pageProperty: "file-property/lore-entries", required: false, many: false },
     {
       pageProperty: "relation-property/game-mechanics",
       required: false,
@@ -143,10 +141,7 @@ export const game = {
       decisionKind: "decision-kind/departure",
       statement: "A seed is settled before its roll is asked for.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A lore entry cites the turn the entry was drawn from.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
