@@ -51,6 +51,7 @@ export const game = {
     "module/row-reading",
     "module/page-filing",
     "module/world-filing",
+    "relation-property/player-entity",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -97,6 +98,7 @@ export const game = {
     { pageProperty: "relation-property/game-default-dice", required: false, many: false },
     { pageProperty: "relation-property/game-panels", required: false, many: true, maxCount: null },
     { pageProperty: "file-property/mechanic-runs", required: false, many: false },
+    { pageProperty: "relation-property/player-entity", required: false, many: false },
   ],
   decisions: [
     {

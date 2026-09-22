@@ -21,6 +21,7 @@ import type { LoreEntries } from "akasha/story/game/properties/lore-entries.file
 import type { MechanicRuns } from "akasha/story/game/properties/mechanic-runs.file-property.types.ts"
 import type { MechanicsWeight } from "akasha/story/game/properties/mechanics-weight.select-property.types.ts"
 import type { NarrativeContinuity } from "akasha/story/game/properties/narrative-continuity.file-property.types.ts"
+import type { PlayerEntity } from "akasha/story/game/properties/player-entity.relation-property.types.ts"
 import type { Premise } from "akasha/story/game/properties/premise.text-property.types.ts"
 import type { ReaderFraming } from "akasha/story/game/properties/reader-framing.text-property.types.ts"
 import type { Resolution } from "akasha/story/game/properties/resolution.select-property.types.ts"
@@ -69,4 +70,5 @@ export type Game = Collection & {
   defaultDice?: GameDefaultDice
   panels?: GamePanels
   mechanicRuns?: MechanicRuns
+  player?: PlayerEntity
 }

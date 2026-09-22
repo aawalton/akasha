@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A game names the one the player runs rather than leaving it read off a kind."},{"decisionKind":"decision-kind/gap","statement":"A game the player runs more than one of names each of them."}]}
+{"definition":"the one in a game's world the player runs"}
+{"id":"01a0c672-20f9-7a90-bb66-260cb787c093"}
+{"propertySlug":"player"}
+{"slug":"player-entity"}
+{"targetPageType":"page-type/game-entity"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

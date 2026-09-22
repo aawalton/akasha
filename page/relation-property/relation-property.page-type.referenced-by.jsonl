@@ -165,6 +165,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/properties/game-mechanics.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/properties/game-panels.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/properties/holding-game.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/properties/player-entity.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/characters/properties/alias-of.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/characters/properties/merged-into.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/played/chapters/properties/played-chapter-story.relation-property.ts"}

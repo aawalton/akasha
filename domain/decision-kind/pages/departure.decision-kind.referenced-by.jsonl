@@ -3454,6 +3454,7 @@
 {"propertySlug":"decision-kind","path":"story/game/properties/game-panels.relation-property.ts","id":"01a0c49e-d544-7d82-b738-6f3b187194a0"}
 {"propertySlug":"decision-kind","path":"story/game/properties/holding-game.relation-property.ts","id":"01a0c632-2e35-7453-98a5-6717ddf25829"}
 {"propertySlug":"decision-kind","path":"story/game/properties/mechanic-runs.file-property.ts","id":"01a0c4b7-02d8-76e0-a14b-978b3d05eb61"}
+{"propertySlug":"decision-kind","path":"story/game/properties/player-entity.relation-property.ts","id":"01a0c672-20f9-7a90-bb66-260cb787c093"}
 {"propertySlug":"decision-kind","path":"story/game/properties/resolution-mechanism.file-property.ts","id":"01a0673c-8e0e-7013-ae6f-047f588f0390"}
 {"propertySlug":"decision-kind","path":"story/game/properties/tower-floors.file-property.ts","id":"01a0673e-1000-7003-a544-be7203cd1844"}
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}
