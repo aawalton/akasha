@@ -1,0 +1,27 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const nickelCreek2WhyShouldTheFireDieScotchChocolate = {
+  id: "01a0caa8-b53c-792d-b591-36bb2236584b",
+  type: "page-type/track",
+  slug: "nickel-creek-2-why-should-the-fire-die-scotch-chocolate",
+  ownLength: 3.1317666666666666,
+  ownProgress: 0,
+  partOfCollections: ["release/nickel-creek-2-why-should-the-fire-die"],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Scotch & Chocolate",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackKey: "scotchchocolate|3bcLBxvaI7GsBzGp3WHnwQ|187906",
+  song: "song/nickel-creek-scotch-chocolate",
+  carriedBy: [
+    {
+      release: "release/nickel-creek-2-why-should-the-fire-die",
+      discNumber: 1,
+      position: 4,
+      externalId: "6yIpsFkAVTkeJI0sKnlFdH",
+      externalLink: "https://open.spotify.com/track/6yIpsFkAVTkeJI0sKnlFdH",
+    },
+  ],
+} as const satisfies Track
