@@ -14,7 +14,25 @@ export const orchestratorCache = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The commit deployed is read from the checkout this code is composed in.",
+      statement: "The commit deployed is read from the tree this code is composed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tree written out at a commit states that commit, and the pod is given it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Reading the head of the folder this code sits in would name a commit a landing moved past.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pod fetches from origin, so a commit only a deploy holds would leave it stuck.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Code composed outside such a tree falls back to the head of the folder it sits in.",
     },
     {
       decisionKind: "decision-kind/departure",

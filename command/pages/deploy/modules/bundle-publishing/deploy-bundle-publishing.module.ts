@@ -49,12 +49,16 @@ export const deployBundlePublishing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "That commit is pushed to origin, because a pod reads its code from origin.",
+      statement: "That commit is pushed, so what the tag names is kept outside this run as well.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A push that fails here refuses rather than pinning a pod at a commit origin lacks.",
+        "A deploy runs on a head that is on no branch, and such a push is said and let be.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No pod is pinned at this commit, so a push that fails leaves every pod servable.",
     },
     {
       decisionKind: "decision-kind/departure",

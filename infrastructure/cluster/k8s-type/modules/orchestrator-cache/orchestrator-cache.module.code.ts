@@ -10,6 +10,7 @@ import {
   ORCHESTRATOR_CACHE_MOUNT_PATH,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { commitOver } from "akasha/infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"
 
 interface GitAccessTokenRef {
   secretName: string
@@ -26,6 +27,8 @@ function resolveMemorySpec(memory: string | { request: string; limit: string }):
 const SHA = /^[0-9a-f]{40}$/
 
 function commitHere(): string {
+  const pinned = commitOver(import.meta.dir)
+  if (pinned !== null && SHA.test(pinned)) return pinned
   const done = ran(["git", "-C", import.meta.dir, "rev-parse", "HEAD"])
   const sha = done.out.trim()
   if (done.code !== 0 || !SHA.test(sha)) {

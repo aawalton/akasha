@@ -179,15 +179,7 @@ async function publishedFrom(
   report.push(`landed ${tagFile} after the push, so what the tag names is already in the registry`)
   const pushed = pushBranch(root)
   report.push(pushed.line)
-  if (pushed.failed) {
-    return {
-      lines: report,
-      refusals: [
-        `${tagFile} is landed and origin does not carry the commit that landed it, and a pod reads its code from origin, so the pod would be pinned at a commit it cannot fetch — ${pushed.reason ?? pushed.line}`,
-      ],
-    }
-  }
-  up.push(`the commit landing ${tagFile}, pushed to origin`)
+  if (!pushed.failed) up.push(`the commit landing ${tagFile}, pushed to origin`)
   return { lines: report, refusals: [] }
 }
 

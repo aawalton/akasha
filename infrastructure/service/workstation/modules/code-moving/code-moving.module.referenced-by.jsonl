@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"code-moving.module.code.ts","path":"agent/seat/service-workstations/sweep-absent-seats/sweep-absent-seats.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"code-moving.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.code.ts"}
 {"propertySlug":"import","fileName":"code-moving.module.code.ts","path":"alan/harness/inbox/modules/count-watch/inbox-count-watch.module.code.ts"}
+{"propertySlug":"import","fileName":"code-moving.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"}
 {"propertySlug":"import","fileName":"code-moving.module.code.ts","path":"infrastructure/service/workstation/modules/code-moving/code-moving.module.test.ts"}
 {"propertySlug":"import","fileName":"code-moving.module.code.ts","path":"infrastructure/service/workstation/modules/service-beating/service-beating.module.code.ts"}
 {"propertySlug":"import","fileName":"code-moving.module.code.ts","path":"infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"}
