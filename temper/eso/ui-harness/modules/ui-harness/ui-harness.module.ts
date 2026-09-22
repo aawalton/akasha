@@ -38,6 +38,14 @@ export const uiHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A bundle is loaded so that one module of that bundle is reached afterwards.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A source ending in no bundle entry is refused rather than loaded that way.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller names the control and the event to run a handler.",
     },
     {

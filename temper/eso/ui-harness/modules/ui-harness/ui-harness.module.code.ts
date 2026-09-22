@@ -43,6 +43,18 @@ function modelTexts(): readonly string[] {
   return cachedModels
 }
 
+const BUNDLE_TAIL = "\nreturn ____entry"
+
+const BUNDLE_REACH = "\n_G.__bundle_require = require\nreturn ____entry"
+
+function reachableBundle(source: string): string {
+  const at = source.lastIndexOf(BUNDLE_TAIL)
+  if (at === -1) {
+    throw new Error("this source ends in no bundle entry, so no module of it would be reachable")
+  }
+  return source.slice(0, at) + BUNDLE_REACH + source.slice(at + BUNDLE_TAIL.length)
+}
+
 function asList(value: unknown): unknown {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return value
   return Object.keys(value).length === 0 ? [] : value
@@ -58,6 +70,10 @@ const anchorShape = z.object({
 
 export type UiAnchor = z.infer<typeof anchorShape>
 
+const colorShape = z.preprocess(asList, z.array(z.number()))
+
+export type UiColor = readonly number[]
+
 export type UiControl = {
   readonly name?: string
   readonly controlType: number
@@ -65,9 +81,14 @@ export type UiControl = {
   readonly hidden: boolean
   readonly width: number
   readonly height: number
+  readonly alpha: number
   readonly text?: string
   readonly font?: string
   readonly texture?: string
+  readonly color?: UiColor
+  readonly centerColor?: UiColor
+  readonly edgeColor?: UiColor
+  readonly insets?: UiColor
   readonly anchors: readonly UiAnchor[]
   readonly handlers: readonly string[]
   readonly children: readonly UiControl[]
@@ -81,9 +102,14 @@ const controlShape: z.ZodType<UiControl> = z.lazy(() =>
     hidden: z.boolean(),
     width: z.number(),
     height: z.number(),
+    alpha: z.number(),
     text: z.string().optional(),
     font: z.string().optional(),
     texture: z.string().optional(),
+    color: colorShape.optional(),
+    centerColor: colorShape.optional(),
+    edgeColor: colorShape.optional(),
+    insets: colorShape.optional(),
     anchors: z.preprocess(asList, z.array(anchorShape)),
     handlers: z.preprocess(asList, z.array(z.string())),
     children: z.preprocess(asList, z.array(controlShape)),
@@ -93,6 +119,7 @@ const controlShape: z.ZodType<UiControl> = z.lazy(() =>
 export type UiHarness = {
   readonly seed: (name: string, value: unknown) => undefined
   readonly load: (source: string) => Promise<unknown>
+  readonly loadBundle: (source: string) => Promise<unknown>
   readonly snapshot: (name?: string) => Promise<UiControl | null>
   readonly names: () => Promise<readonly string[]>
   readonly unmodelled: () => Promise<Readonly<Record<string, number>>>
@@ -118,6 +145,9 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
     },
     async load(source): Promise<unknown> {
       return vm.doString(source)
+    },
+    async loadBundle(source): Promise<unknown> {
+      return vm.doString(reachableBundle(source))
     },
     async snapshot(name): Promise<UiControl | null> {
       const answered = await vm.doString(`return __ui_snapshot(${marshalLuaValue(name)})`)

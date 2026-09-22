@@ -49,6 +49,10 @@ export const uiControlModel = {
         "A method the model lacks is counted and answers with the control, so one load finds them all.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A snapshot carries the colours and the insets a control was given.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No control here has a place on screen.",
     },
