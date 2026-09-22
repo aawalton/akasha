@@ -88,10 +88,6 @@
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-settings-panel/lorebooks-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-ui-strings/lost-treasure-ui-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-utilities/lost-treasure-utilities.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-load/skyshards-console-load.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-pins/skyshards-console-pins.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-state/skyshards-console-state.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-tooltip/skyshards-console-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-constants/skyshards-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-events/skyshards-pc-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-pins/skyshards-pc-pins.module.code.ts"}

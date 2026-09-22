@@ -5087,14 +5087,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-types/lost-treasure-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-ui-strings/lost-treasure-ui-strings.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-utilities/lost-treasure-utilities.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-compass/skyshards-console-compass.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-load/skyshards-console-load.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-pins/skyshards-console-pins.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-should-display/skyshards-console-should-display.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-skill-panel/skyshards-console-skill-panel.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-slash/skyshards-console-slash.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-state/skyshards-console-state.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-tooltip/skyshards-console-tooltip.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-constants/skyshards-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-data-1/skyshards-data-1.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-data-2/skyshards-data-2.module.ts"}

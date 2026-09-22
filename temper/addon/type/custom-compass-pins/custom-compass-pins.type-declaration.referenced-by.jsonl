@@ -22,9 +22,6 @@
 {"propertySlug":"import","fileName":"custom-compass-pins.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-tags/lorebooks-pins-tags.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-compass-pins.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins/lorebooks-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-compass-pins.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-pins/lost-treasure-pins.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-compass-pins.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-compass/skyshards-console-compass.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-compass-pins.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-load/skyshards-console-load.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-compass-pins.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-should-display/skyshards-console-should-display.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-compass-pins.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-compass/skyshards-pc-compass.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-compass-pins.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-events/skyshards-pc-events.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-compass-pins.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-pin-data/skyshards-pc-pin-data.module.code.ts"}

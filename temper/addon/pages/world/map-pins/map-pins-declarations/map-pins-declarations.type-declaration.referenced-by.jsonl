@@ -15,9 +15,6 @@
 {"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-tooltips/lorebooks-pins-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins/lorebooks-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-pins/lost-treasure-pins.module.code.ts"}
-{"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-load/skyshards-console-load.module.code.ts"}
-{"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-pins/skyshards-console-pins.module.code.ts"}
-{"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-console-tooltip/skyshards-console-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-pins/skyshards-pc-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-tooltip/skyshards-pc-tooltip.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/pages/world/map-pins/temper-addon-world-map-pins.domain.ts","id":"01a0c768-8aa3-7d26-8f82-0b04f321f4f5"}

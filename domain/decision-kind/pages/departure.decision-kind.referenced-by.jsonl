@@ -4856,7 +4856,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-logger/lost-treasure-logger.module.ts","id":"01a06141-800b-7606-b3fe-3a8d91998976"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-mining/lost-treasure-mining.module.ts","id":"01a06141-8008-74f7-85b8-26c2c27317b9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/temper-lost-treasure.domain.ts","id":"01a06141-8003-755d-8ec8-3764b298f7ef"}
-{"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-console-slash/skyshards-console-slash.module.ts","id":"01a061a8-9c62-78e5-91ec-72c7e0cd50ec"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-part-1/skyshards-part-1.module.ts","id":"01a061a8-9c65-72a7-8ddf-4e03ebb533bd"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-part-10/skyshards-part-10.module.ts","id":"01a061a8-9c66-7a2d-9844-ff76ec6418ee"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-part-11/skyshards-part-11.module.ts","id":"01a061a8-9c66-7fdf-ba48-9a5a411a9d58"}
@@ -4874,6 +4873,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-part-7/skyshards-part-7.module.ts","id":"01a061a8-9c69-75a2-b7b3-9f86f9d709aa"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-part-8/skyshards-part-8.module.ts","id":"01a061a8-9c69-769d-b065-e5762fce5d41"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-part-9/skyshards-part-9.module.ts","id":"01a061a8-9c6a-7345-8144-0e0b6adb0bc0"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-pc-slash/skyshards-pc-slash.module.ts","id":"01a061a8-9c6b-7884-af1c-4c6c3e02243e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/skyshards-string-ids/skyshards-string-ids.type-declaration.ts","id":"01a061a8-9c6c-77af-ab8d-fc301a1713ff"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-skyshard.domain.ts","id":"01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/zone/properties/pois.page-property-entry.ts","id":"01a06167-3f9b-700b-ab48-cb7aa724cc9c"}
