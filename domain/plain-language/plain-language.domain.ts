@@ -10,7 +10,6 @@ export const plainLanguage = {
     "module/onnx-parsing",
     "module/parse-cache",
     "module/shape-predicate",
-    "module/shape-reading",
     "module/word-tokenizing",
     "page-type/parser-model",
   ],

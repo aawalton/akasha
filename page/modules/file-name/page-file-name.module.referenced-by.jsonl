@@ -197,7 +197,6 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/modules/rows/domain-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/modules/work-initiatives/work-initiatives.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/plain-language/modules/onnx-parsing/onnx-parsing.module.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/plain-language/modules/shape-reading/shape-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"git/modules/commit-reading/commit-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"git/modules/holding/holding.module.test.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.code.ts"}
