@@ -6,5 +6,6 @@ export const evenFooting = {
   slug: "even-footing",
   title: "Even Footing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

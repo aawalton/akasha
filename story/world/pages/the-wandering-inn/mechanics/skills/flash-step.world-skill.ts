@@ -6,6 +6,7 @@ export const flashStep = {
   slug: "flash-step",
   title: "Flash Step",
   world: "world/the-wandering-inn",
+  appearanceCount: 46,
   aliases: ["flash-steps"],
   evolvesFromSlugs: ["quick-step"],
   references: "jsonl",

@@ -6,5 +6,6 @@ export const fightOrDie = {
   slug: "fight-or-die",
   title: "Fight or Die",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

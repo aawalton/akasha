@@ -6,5 +6,6 @@ export const eyesGuidingLight = {
   slug: "eyes-guiding-light",
   title: "Eyes: Guiding Light",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

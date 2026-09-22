@@ -6,5 +6,6 @@ export const flashMemorizationLiterature = {
   slug: "flash-memorization-literature",
   title: "Flash Memorization: Literature",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

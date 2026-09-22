@@ -6,5 +6,6 @@ export const flashLunge = {
   slug: "flash-lunge",
   title: "Flash Lunge",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

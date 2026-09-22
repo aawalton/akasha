@@ -6,5 +6,6 @@ export const flurryScrub = {
   slug: "flurry-scrub",
   title: "Flurry Scrub",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

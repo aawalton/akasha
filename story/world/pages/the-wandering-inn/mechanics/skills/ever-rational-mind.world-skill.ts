@@ -6,5 +6,6 @@ export const everRationalMind = {
   slug: "ever-rational-mind",
   title: "Ever-Rational Mind",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

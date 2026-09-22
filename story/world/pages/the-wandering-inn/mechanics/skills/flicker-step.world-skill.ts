@@ -6,5 +6,6 @@ export const flickerStep = {
   slug: "flicker-step",
   title: "Flicker Step",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   references: "jsonl",
 } as const satisfies WorldSkill

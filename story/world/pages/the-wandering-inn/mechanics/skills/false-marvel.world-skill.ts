@@ -6,5 +6,6 @@ export const falseMarvel = {
   slug: "false-marvel",
   title: "False Marvel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

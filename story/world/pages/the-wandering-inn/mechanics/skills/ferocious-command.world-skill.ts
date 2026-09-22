@@ -6,5 +6,6 @@ export const ferociousCommand = {
   slug: "ferocious-command",
   title: "Ferocious Command",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

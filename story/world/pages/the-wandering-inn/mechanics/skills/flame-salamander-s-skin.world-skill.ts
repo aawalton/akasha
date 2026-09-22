@@ -6,5 +6,6 @@ export const flameSalamanderSSkin = {
   slug: "flame-salamander-s-skin",
   title: "Flame Salamander’s Skin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

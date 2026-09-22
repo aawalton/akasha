@@ -6,5 +6,6 @@ export const extraActionPoints = {
   slug: "extra-action-points",
   title: "Extra Action Points",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

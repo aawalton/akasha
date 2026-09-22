@@ -6,5 +6,6 @@ export const findRoadsLessTravelled = {
   slug: "find-roads-less-travelled",
   title: "Find Roads Less Travelled",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

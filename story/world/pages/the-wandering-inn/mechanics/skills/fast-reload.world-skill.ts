@@ -6,5 +6,6 @@ export const fastReload = {
   slug: "fast-reload",
   title: "Fast Reload",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

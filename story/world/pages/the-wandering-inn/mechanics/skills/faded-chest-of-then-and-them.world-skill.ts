@@ -6,5 +6,6 @@ export const fadedChestOfThenAndThem = {
   slug: "faded-chest-of-then-and-them",
   title: "Faded Chest of Then and Them",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

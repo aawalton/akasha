@@ -6,5 +6,6 @@ export const flutterStep = {
   slug: "flutter-step",
   title: "Flutter Step",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

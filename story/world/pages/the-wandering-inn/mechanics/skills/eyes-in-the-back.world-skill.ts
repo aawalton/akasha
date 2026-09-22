@@ -6,6 +6,7 @@ export const eyesInTheBack = {
   slug: "eyes-in-the-back",
   title: "Eyes In The Back",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   aliases: ["Eyes in the Back"],
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const extraNutritionMeat = {
   slug: "extra-nutrition-meat",
   title: "Extra Nutrition: Meat",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

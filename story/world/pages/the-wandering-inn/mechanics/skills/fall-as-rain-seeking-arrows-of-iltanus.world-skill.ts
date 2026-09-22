@@ -6,5 +6,6 @@ export const fallAsRainSeekingArrowsOfIltanus = {
   slug: "fall-as-rain-seeking-arrows-of-iltanus",
   title: "Fall As Rain, Seeking Arrows of Iltanus",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

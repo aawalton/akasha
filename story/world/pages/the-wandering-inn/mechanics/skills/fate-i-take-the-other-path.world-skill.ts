@@ -6,5 +6,6 @@ export const fateITakeTheOtherPath = {
   slug: "fate-i-take-the-other-path",
   title: "Fate, I Take the Other Path",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const flamboyantDiveRoll = {
   slug: "flamboyant-dive-roll",
   title: "Flamboyant Dive-roll",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

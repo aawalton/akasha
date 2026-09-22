@@ -6,5 +6,6 @@ export const fightUntilTheLast = {
   slug: "fight-until-the-last",
   title: "Fight Until the Last",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

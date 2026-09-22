@@ -6,5 +6,6 @@ export const fireSupportTheCityOfWarManus = {
   slug: "fire-support-the-city-of-war-manus",
   title: "Fire Support: The City of War, Manus",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const fastTravelLocations2 = {
   slug: "fast-travel-locations-2",
   title: "Fast Travel Locations (2)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

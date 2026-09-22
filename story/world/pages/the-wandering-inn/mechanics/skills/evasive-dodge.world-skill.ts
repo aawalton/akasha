@@ -6,5 +6,6 @@ export const evasiveDodge = {
   slug: "evasive-dodge",
   title: "Evasive Dodge",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   references: "jsonl",
 } as const satisfies WorldSkill

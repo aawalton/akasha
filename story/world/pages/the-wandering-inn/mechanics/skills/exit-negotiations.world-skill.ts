@@ -6,5 +6,6 @@ export const exitNegotiations = {
   slug: "exit-negotiations",
   title: "Exit Negotiations",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

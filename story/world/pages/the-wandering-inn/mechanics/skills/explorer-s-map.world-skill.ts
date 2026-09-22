@@ -6,5 +6,6 @@ export const explorerSMap = {
   slug: "explorer-s-map",
   title: "Explorer’s Map",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

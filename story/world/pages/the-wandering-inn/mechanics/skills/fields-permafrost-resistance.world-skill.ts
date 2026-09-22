@@ -6,5 +6,6 @@ export const fieldsPermafrostResistance = {
   slug: "fields-permafrost-resistance",
   title: "Fields: Permafrost Resistance",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

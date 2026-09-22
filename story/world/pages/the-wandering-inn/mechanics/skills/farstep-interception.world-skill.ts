@@ -6,5 +6,6 @@ export const farstepInterception = {
   slug: "farstep-interception",
   title: "Farstep Interception",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
