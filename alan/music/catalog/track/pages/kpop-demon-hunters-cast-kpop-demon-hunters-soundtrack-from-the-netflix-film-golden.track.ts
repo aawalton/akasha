@@ -5,7 +5,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmGol
   type: "page-type/track",
   slug: "kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-golden",
   ownLength: 3.24345,
-  ownProgress: 0,
+  ownProgress: 3.24345,
   partOfCollections: [
     "release/kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film",
     "release/kpop-demon-hunters-cast-golden-from-the-netflix-film-kpop-demon-hunters",
@@ -15,7 +15,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmGol
     "release/kpop-demon-hunters-cast-golden-from-the-netflix-film-kpop-demon-hunters-2",
     "release/kpop-demon-hunters-cast-golden-from-the-netflix-film-kpop-demon-hunters-5",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Golden",
   trackType: "studio",

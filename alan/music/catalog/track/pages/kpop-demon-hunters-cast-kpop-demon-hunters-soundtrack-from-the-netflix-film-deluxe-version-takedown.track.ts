@@ -6,11 +6,11 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
     type: "page-type/track",
     slug: "kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version-takedown",
     ownLength: 3.0336,
-    ownProgress: 0,
+    ownProgress: 3.0336,
     partOfCollections: [
       "release/kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Takedown - Sing-Along",
     trackType: "studio",

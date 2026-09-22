@@ -5,11 +5,11 @@ export const lilithMaxCallingOnTheWindTavernTalkOriginalGameSoundtrackCallingOnT
   type: "page-type/track",
   slug: "lilith-max-calling-on-the-wind-tavern-talk-original-game-soundtrack-calling-on-the-wind-tavern-talk",
   ownLength: 3.2920666666666665,
-  ownProgress: 0,
+  ownProgress: 3.2920666666666665,
   partOfCollections: [
     "release/lilith-max-calling-on-the-wind-tavern-talk-original-game-soundtrack",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Calling on the Wind (Tavern Talk Original Game Soundtrack)",
   trackType: "studio",

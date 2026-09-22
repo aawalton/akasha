@@ -6,11 +6,11 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
     type: "page-type/track",
     slug: "kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version-prologue",
     ownLength: 1.6028833333333334,
-    ownProgress: 0,
+    ownProgress: 1.6028833333333334,
     partOfCollections: [
       "release/kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Prologue (Hunter’s Mantra)",
     trackType: "studio",

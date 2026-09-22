@@ -5,11 +5,11 @@ export const kpopDemonHuntersCastGoldenFromTheNetflixFilmKpopDemonHunters2Golden
   type: "page-type/track",
   slug: "kpop-demon-hunters-cast-golden-from-the-netflix-film-kpop-demon-hunters-2-golden-tagalog-version",
   ownLength: 3.2162333333333333,
-  ownProgress: 0,
+  ownProgress: 3.2162333333333333,
   partOfCollections: [
     "release/kpop-demon-hunters-cast-golden-from-the-netflix-film-kpop-demon-hunters-2",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Golden - Tagalog Version",
   trackType: "version",

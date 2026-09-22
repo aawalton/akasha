@@ -5,11 +5,11 @@ export const kpopDemonHuntersCastYourIdolFromTheNetflixFilmKpopDemonHuntersYourI
   type: "page-type/track",
   slug: "kpop-demon-hunters-cast-your-idol-from-the-netflix-film-kpop-demon-hunters-your-idol-instrumental",
   ownLength: 3.1891833333333333,
-  ownProgress: 0,
+  ownProgress: 3.1891833333333333,
   partOfCollections: [
     "release/kpop-demon-hunters-cast-your-idol-from-the-netflix-film-kpop-demon-hunters",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Your Idol - Instrumental",
   trackType: "instrumental",

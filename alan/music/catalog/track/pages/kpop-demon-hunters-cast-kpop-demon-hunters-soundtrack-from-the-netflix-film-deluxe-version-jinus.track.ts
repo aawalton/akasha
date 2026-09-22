@@ -5,11 +5,11 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
   type: "page-type/track",
   slug: "kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version-jinus",
   ownLength: 0.7832166666666667,
-  ownProgress: 0,
+  ownProgress: 0.7832166666666667,
   partOfCollections: [
     "release/kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Jinu’s Lament",
   trackType: "studio",

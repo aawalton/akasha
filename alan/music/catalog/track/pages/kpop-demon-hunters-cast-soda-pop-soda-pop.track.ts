@@ -5,7 +5,7 @@ export const kpopDemonHuntersCastSodaPopSodaPop = {
   type: "page-type/track",
   slug: "kpop-demon-hunters-cast-soda-pop-soda-pop",
   ownLength: 2.511433333333333,
-  ownProgress: 0,
+  ownProgress: 2.511433333333333,
   partOfCollections: [
     "release/kpop-demon-hunters-cast-soda-pop",
     "release/kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film",
@@ -13,7 +13,7 @@ export const kpopDemonHuntersCastSodaPopSodaPop = {
     "release/kpop-demon-hunters-cast-soda-pop-from-the-netflix-film-kpop-demon-hunters",
     "release/kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Soda Pop",
   trackType: "studio",

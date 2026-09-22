@@ -5,11 +5,11 @@ export const kpopDemonHuntersCastWhatItSoundsLikeFromTheNetflixFilmKpopDemonHunt
   type: "page-type/track",
   slug: "kpop-demon-hunters-cast-what-it-sounds-like-from-the-netflix-film-kpop-demon-hunters-what-it-sounds",
   ownLength: 4.171133333333334,
-  ownProgress: 0,
+  ownProgress: 4.171133333333334,
   partOfCollections: [
     "release/kpop-demon-hunters-cast-what-it-sounds-like-from-the-netflix-film-kpop-demon-hunters",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "What It Sounds Like - from the Netflix film KPop Demon Hunters",
   trackType: "studio",

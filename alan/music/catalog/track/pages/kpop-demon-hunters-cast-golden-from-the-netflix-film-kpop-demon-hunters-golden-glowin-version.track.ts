@@ -5,11 +5,11 @@ export const kpopDemonHuntersCastGoldenFromTheNetflixFilmKpopDemonHuntersGoldenG
   type: "page-type/track",
   slug: "kpop-demon-hunters-cast-golden-from-the-netflix-film-kpop-demon-hunters-golden-glowin-version",
   ownLength: 3.1752833333333332,
-  ownProgress: 0,
+  ownProgress: 3.1752833333333332,
   partOfCollections: [
     "release/kpop-demon-hunters-cast-golden-from-the-netflix-film-kpop-demon-hunters",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Golden - Glowin' Version",
   trackType: "version",

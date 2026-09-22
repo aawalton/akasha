@@ -6,11 +6,11 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
     type: "page-type/track",
     slug: "kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version-how-its-3",
     ownLength: 2.8825333333333334,
-    ownProgress: 0,
+    ownProgress: 2.8825333333333334,
     partOfCollections: [
       "release/kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "How It’s Done - Acapella",
     trackType: "a-cappella",

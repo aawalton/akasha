@@ -6,11 +6,11 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
     type: "page-type/track",
     slug: "kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version-what-it-3",
     ownLength: 4.033216666666666,
-    ownProgress: 0,
+    ownProgress: 4.033216666666666,
     partOfCollections: [
       "release/kpop-demon-hunters-cast-kpop-demon-hunters-soundtrack-from-the-netflix-film-deluxe-version",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "What It Sounds Like - Acapella",
     trackType: "a-cappella",

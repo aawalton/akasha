@@ -5,11 +5,11 @@ export const kpopDemonHuntersCastSodaPopFromTheNetflixFilmKpopDemonHunters2SodaP
   type: "page-type/track",
   slug: "kpop-demon-hunters-cast-soda-pop-from-the-netflix-film-kpop-demon-hunters-2-soda-pop-instrumental",
   ownLength: 2.494483333333333,
-  ownProgress: 0,
+  ownProgress: 2.494483333333333,
   partOfCollections: [
     "release/kpop-demon-hunters-cast-soda-pop-from-the-netflix-film-kpop-demon-hunters-2",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Soda Pop - Instrumental",
   trackType: "instrumental",

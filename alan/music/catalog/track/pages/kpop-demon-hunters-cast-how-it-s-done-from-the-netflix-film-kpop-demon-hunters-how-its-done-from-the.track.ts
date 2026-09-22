@@ -5,11 +5,11 @@ export const kpopDemonHuntersCastHowItSDoneFromTheNetflixFilmKpopDemonHuntersHow
   type: "page-type/track",
   slug: "kpop-demon-hunters-cast-how-it-s-done-from-the-netflix-film-kpop-demon-hunters-how-its-done-from-the",
   ownLength: 2.9343166666666667,
-  ownProgress: 0,
+  ownProgress: 2.9343166666666667,
   partOfCollections: [
     "release/kpop-demon-hunters-cast-how-it-s-done-from-the-netflix-film-kpop-demon-hunters",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "How It’s Done - from the Netflix film KPop Demon Hunters",
   trackType: "studio",
