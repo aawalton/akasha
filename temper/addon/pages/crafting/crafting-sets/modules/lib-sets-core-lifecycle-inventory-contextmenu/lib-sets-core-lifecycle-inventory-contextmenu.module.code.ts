@@ -10,7 +10,7 @@ import {
 import { resetCachedNonActiveSetIds } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-set-checking/lib-sets-core-set-checking.module.code.ts"
 import "akasha/temper/addon/type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-set-type-ids/lib-sets-set-type-ids.type-declaration.d.ts"
+import { LIBSETS_SETTYPE_CRAFTED } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-settype-ids/lib-sets-const-settype-ids.module.code.ts"
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"

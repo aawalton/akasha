@@ -1,4 +1,5 @@
 import { asPresent } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { LIBSETS_SETTYPE_CRAFTED } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-settype-ids/lib-sets-const-settype-ids.module.code.ts"
 import type { SetTextFields } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-set-text-set-text-fields/lib-sets-set-text-set-text-fields.module.code.ts"
 import {
   dropLocationZonesStr,
@@ -9,7 +10,6 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
 import { buildTextLinesFromTable } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-set-type-ids/lib-sets-set-type-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 export function applyDefaultLayout(this: void, fields: SetTextFields): undefined {

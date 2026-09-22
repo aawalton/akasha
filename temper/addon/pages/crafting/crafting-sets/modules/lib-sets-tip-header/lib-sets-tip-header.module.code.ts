@@ -11,8 +11,11 @@ import { asChestNameTable } from "akasha/temper/addon/pages/crafting/crafting-se
 import { STATE } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-set-type-ids/lib-sets-set-type-ids.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-settype-ids/lib-sets-const-settype-ids.module.code.ts"
+import {
+  LIBSETS_SETTYPE_CYRODIIL_MONSTER,
+  LIBSETS_SETTYPE_IMPERIALCITY_MONSTER,
+  LIBSETS_SETTYPE_MONSTER,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-settype-ids/lib-sets-const-settype-ids.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-03/eso-enums-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"

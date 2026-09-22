@@ -1,11 +1,25 @@
 import {
-  SET_TYPE_ITERATION_BEGIN,
-  SET_TYPE_ITERATION_END,
+  LIBSETS_SETTYPE_ARENA,
+  LIBSETS_SETTYPE_BATTLEGROUND,
+  LIBSETS_SETTYPE_CLASS,
+  LIBSETS_SETTYPE_CRAFTED,
+  LIBSETS_SETTYPE_CYRODIIL,
+  LIBSETS_SETTYPE_CYRODIIL_MONSTER,
+  LIBSETS_SETTYPE_DAILYRANDOMDUNGEONANDICREWARD,
+  LIBSETS_SETTYPE_DUNGEON,
+  LIBSETS_SETTYPE_IMPERIALCITY,
+  LIBSETS_SETTYPE_IMPERIALCITY_MONSTER,
+  LIBSETS_SETTYPE_ITERATION_BEGIN,
+  LIBSETS_SETTYPE_ITERATION_END,
+  LIBSETS_SETTYPE_MONSTER,
+  LIBSETS_SETTYPE_MYTHIC,
+  LIBSETS_SETTYPE_OVERLAND,
+  LIBSETS_SETTYPE_SPECIAL,
+  LIBSETS_SETTYPE_TRIAL,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-settype-ids/lib-sets-const-settype-ids.module.code.ts"
 import { SET_TYPES_TO_NAME } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-settype-names/lib-sets-const-settype-names.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-set-type-ids/lib-sets-set-type-ids.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -21,7 +35,7 @@ if (checkIfPTSAPIVersionIsLive()) {
 }
 
 lib.allowedSetTypes = {}
-for (let i = SET_TYPE_ITERATION_BEGIN; i <= SET_TYPE_ITERATION_END; i++) {
+for (let i = LIBSETS_SETTYPE_ITERATION_BEGIN; i <= LIBSETS_SETTYPE_ITERATION_END; i++) {
   lib.allowedSetTypes[i] = true
 }
 

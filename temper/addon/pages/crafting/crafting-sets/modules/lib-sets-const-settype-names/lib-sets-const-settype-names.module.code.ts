@@ -1,5 +1,20 @@
-import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-set-type-ids/lib-sets-set-type-ids.type-declaration.d.ts"
-import "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-settype-ids/lib-sets-const-settype-ids.module.code.ts"
+import {
+  LIBSETS_SETTYPE_ARENA,
+  LIBSETS_SETTYPE_BATTLEGROUND,
+  LIBSETS_SETTYPE_CLASS,
+  LIBSETS_SETTYPE_CRAFTED,
+  LIBSETS_SETTYPE_CYRODIIL,
+  LIBSETS_SETTYPE_CYRODIIL_MONSTER,
+  LIBSETS_SETTYPE_DAILYRANDOMDUNGEONANDICREWARD,
+  LIBSETS_SETTYPE_DUNGEON,
+  LIBSETS_SETTYPE_IMPERIALCITY,
+  LIBSETS_SETTYPE_IMPERIALCITY_MONSTER,
+  LIBSETS_SETTYPE_MONSTER,
+  LIBSETS_SETTYPE_MYTHIC,
+  LIBSETS_SETTYPE_OVERLAND,
+  LIBSETS_SETTYPE_SPECIAL,
+  LIBSETS_SETTYPE_TRIAL,
+} from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-const-settype-ids/lib-sets-const-settype-ids.module.code.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export const LANG_DE = "de"
