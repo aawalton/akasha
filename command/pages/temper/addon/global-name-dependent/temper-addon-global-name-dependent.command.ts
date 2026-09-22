@@ -21,6 +21,10 @@ export const temperAddonGlobalNameDependent = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Which files an addon ships is asked of the module answering that.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A global a call names is reported whether or not that global has dependents.",
     },
     {

@@ -1,5 +1,5 @@
-import { readdirSync, readFileSync, statSync } from "node:fs"
-import { join, relative, resolve } from "node:path"
+import { readFileSync } from "node:fs"
+import { relative, resolve } from "node:path"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
 import { global as globalArgument } from "akasha/command/argument/pages/global.argument.ts"
@@ -15,6 +15,10 @@ import { temperAddonGlobalNameDependent as page } from "akasha/command/pages/tem
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { collectGlobalWritesFromSource } from "akasha/temper/addon/build/deploy-check/modules/addon-global-ownership/addon-global-ownership.module.code.ts"
 import {
+  addonMarkupFiles,
+  addonSourceFiles,
+} from "akasha/temper/addon/build/deploy-check/modules/addon-source-files/addon-source-files.module.code.ts"
+import {
   type DependentSourceFile,
   enumerateGlobalDependents,
   type GlobalDependentReport,
@@ -25,44 +29,9 @@ import { listAllAddons } from "akasha/temper/addon/build/resolve/modules/addon-r
 
 const NAMED = [codeRootArgument, globalArgument, json]
 
-const PASSED_OVER = ["node_modules", "dist", "generated"]
-
 const BOUND = "lam-topology-binding"
 
 const SAVED_VARIABLES_SCHEMA = addonManifestSchema.pick({ savedVariables: true }).passthrough()
-
-function filesUnder(dir: string, keep: (path: string) => boolean): readonly string[] {
-  const found: string[] = []
-  let entries: readonly string[]
-  try {
-    entries = readdirSync(dir)
-  } catch {
-    return found
-  }
-  for (const entry of entries) {
-    if (PASSED_OVER.includes(entry)) continue
-    const path = join(dir, entry)
-    let isDir = false
-    try {
-      isDir = statSync(path).isDirectory()
-    } catch {
-      continue
-    }
-    if (isDir) {
-      found.push(...filesUnder(path, keep))
-      continue
-    }
-    if (keep(path)) found.push(path)
-  }
-  return found
-}
-
-function isSource(path: string): boolean {
-  if (!path.endsWith(".ts") && !path.endsWith(".tsx")) return false
-  if (path.endsWith(".d.ts")) return false
-  if (path.endsWith(".generated.ts") || path.endsWith(".generated.tsx")) return false
-  return !/\.test\.tsx?$/.test(path)
-}
 
 function savedVariablesOf(root: string, addonDir: string): readonly string[] {
   const path = addonManifestPathIn(root, addonDir)
@@ -80,10 +49,10 @@ function sourcesFor(
 ): readonly DependentSourceFile[] {
   const found: DependentSourceFile[] = []
   for (const addon of addons) {
-    for (const path of filesUnder(join(addon.dir, "src"), isSource)) {
+    for (const path of addonSourceFiles(addon.dir).code) {
       found.push({ path: relative(root, path), source: readFileSync(path, "utf8"), lang: "ts" })
     }
-    for (const path of filesUnder(join(addon.dir, "metadata"), (one) => one.endsWith(".xml"))) {
+    for (const path of addonMarkupFiles(addon.dir).own) {
       found.push({ path: relative(root, path), source: readFileSync(path, "utf8"), lang: "xml" })
     }
   }
@@ -96,7 +65,7 @@ function ownedGlobals(
 ): readonly string[] {
   const owned = new Set<string>()
   for (const addon of addons) {
-    for (const path of filesUnder(join(addon.dir, "src"), isSource)) {
+    for (const path of addonSourceFiles(addon.dir).code) {
       for (const name of collectGlobalWritesFromSource(
         readFileSync(path, "utf8"),
         relative(root, path)
