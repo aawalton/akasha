@@ -5,7 +5,7 @@ export const galleryCoverSource = {
   type: "page-type/text-property",
   slug: "gallery-cover-source",
   propertySlug: "gallery-cover-source",
-  definition: "the property a gallery takes its picture from",
+  definition: "the property holding a gallery's picture",
   namesAPropertyKey: true,
   maxLength: 100,
   nameFormat: null,

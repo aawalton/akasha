@@ -5,7 +5,7 @@ export const affinityType = {
   type: "page-type/text-property",
   slug: "affinity-type",
   propertySlug: "type",
-  definition: "what an affinity is an affinity for",
+  definition: "an affinity's element",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

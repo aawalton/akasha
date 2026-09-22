@@ -5,7 +5,7 @@ export const resolutionMechanism = {
   type: "page-type/file-property",
   slug: "resolution-mechanism",
   propertySlug: "resolution-mechanism",
-  definition: "the machinery a game settles an action with",
+  definition: "the machinery settling a game's actions",
   extensions: ["json"],
   decisions: [
     {

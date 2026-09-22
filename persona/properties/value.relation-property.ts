@@ -5,7 +5,7 @@ export const value = {
   type: "page-type/relation-property",
   slug: "value",
   propertySlug: "value",
-  definition: "the value a page is of",
+  definition: "a page's value",
   targetPageType: "page-type/value",
   types: "ts",
 } as const satisfies RelationProperty

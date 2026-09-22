@@ -4,7 +4,7 @@ export const gameLoreEntry = {
   id: "01a0c949-5c56-7f25-8eb3-0c04a8c40172",
   type: "page-type/page-type",
   slug: "game-lore-entry",
-  definition: "one thing a game has settled as true in its world, and the turn it came from",
+  definition: "one thing a game has settled as true in its world, and the turn that disclosed it",
   pluralSlug: "lore-entries",
   extends: ["page-type/page"],
   runsTabooCheck: false,

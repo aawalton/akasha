@@ -5,7 +5,7 @@ export const selectOptionColors = {
   type: "page-type/record-property",
   slug: "select-option-colors",
   propertySlug: "option-colors",
-  definition: "which color each of a select property's values is drawn in",
+  definition: "the color in which each of a select property's values is drawn",
   properties: [
     { pageProperty: "text-property/select-option-value", required: true, many: false },
     { pageProperty: "relation-property/select-option-color", required: true, many: false },

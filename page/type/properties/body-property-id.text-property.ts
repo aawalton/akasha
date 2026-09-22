@@ -5,7 +5,7 @@ export const bodyPropertyId = {
   type: "page-type/text-property",
   slug: "body-property-id",
   propertySlug: "body-property-id",
-  definition: "the key of the property a page's body is read from",
+  definition: "the key of the property holding a page's body",
   maxLength: 64,
   nameFormat: "name-format/lower-camel-case",
   decisions: [

@@ -5,7 +5,7 @@ export const extensionName = {
   type: "page-type/text-property",
   slug: "extension-name",
   propertySlug: "extension-name",
-  definition: "the extension the files a property speaks for close with",
+  definition: "the extension of a property's files",
   maxLength: 100,
   nameFormat: null,
   decisions: [

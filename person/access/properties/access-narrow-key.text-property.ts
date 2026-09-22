@@ -5,7 +5,7 @@ export const accessNarrowKey = {
   type: "page-type/text-property",
   slug: "access-narrow-key",
   propertySlug: "key",
-  definition: "the key an access weighs a page by",
+  definition: "the key by which an access weighs a page",
   maxLength: 100,
   nameFormat: "name-format/lower-camel-case",
   decisions: [

@@ -4,7 +4,7 @@ export const innworldVisitor = {
   id: "01a0c66a-55f9-793b-99d9-b3d8617e6db8",
   type: "page-type/module",
   slug: "innworld-visitor",
-  definition: "the name the reader of this site is known by",
+  definition: "the name of this site's reader",
   code: "ts",
   decisions: [
     {
