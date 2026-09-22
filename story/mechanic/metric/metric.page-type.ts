@@ -15,6 +15,7 @@ export const metric = {
     "relation-property/metric-character",
     "page-type/character-attribute",
     "page-type/resource",
+    "page-type/metric-derived",
   ],
   properties: [
     { pageProperty: "relation-property/metric-character", required: true, many: false },
