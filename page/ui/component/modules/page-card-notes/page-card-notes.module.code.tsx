@@ -14,7 +14,7 @@ interface PageCardNotesProps {
   pageTypeSlug: PageTypeSlug
   property: PropertyDefinition
   lightValue: unknown
-  onNotesChange: (propertyId: string, value: unknown) => void
+  onNotesChange?: (propertyId: string, value: unknown) => void
 }
 
 export function PageCardNotes({
@@ -48,7 +48,7 @@ export function PageCardNotes({
           property={property}
           value={String(value ?? "")}
           context="detail"
-          editable
+          editable={onNotesChange !== undefined}
           fill
           onPropertyChange={onNotesChange}
         />

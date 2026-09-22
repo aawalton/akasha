@@ -11,5 +11,9 @@ export const pagesByRelationContent = {
       decisionKind: "decision-kind/departure",
       statement: "A listing whose filter went unasked says so in place of the pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A listing inside an app that is not editing offers no way to change a page.",
+    },
   ],
 } as const satisfies Module

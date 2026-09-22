@@ -20,10 +20,10 @@ export interface BareListingCardContext {
   readonly buildRowHref: (row: PageRow) => string
   readonly pageHrefById: (id: string, opts?: { targetPageTypeId?: string }) => string
   readonly makeRelationHref: (rowId: string, rowHref: string) => (propertyId: string) => string
-  readonly onIconChange: (pageId: string, icon: IconName) => void
-  readonly onPropertyChange: (pageId: string, propId: string, value: unknown) => void
+  readonly onIconChange?: (pageId: string, icon: IconName) => void
+  readonly onPropertyChange?: (pageId: string, propId: string, value: unknown) => void
   readonly onComplete?: (page: PageRow, atMs: number | null) => void
-  readonly onDelete: (pageId: string) => void
+  readonly onDelete?: (pageId: string) => void
   readonly onToggleFavorite?: (pageId: string, value: number | null) => void
 }
 
@@ -32,6 +32,7 @@ export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext
   const rowHref = ctx.buildRowHref(page)
   const { _id: id, ...rest } = page
   const pageData = pageRowToPageDataJSON(rest)
+  const changeProperty = ctx.onPropertyChange
   const notesSlot =
     ctx.notesProperty != null ? (
       <PageCardNotes
@@ -39,7 +40,11 @@ export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext
         pageTypeSlug={ctx.pageTypeSlug}
         property={ctx.notesProperty}
         lightValue={page[ctx.notesProperty.id]}
-        onNotesChange={(propId, value) => ctx.onPropertyChange(id, propId, value)}
+        onNotesChange={
+          changeProperty === undefined
+            ? undefined
+            : (propId, value) => changeProperty(id, propId, value)
+        }
       />
     ) : undefined
   return (
@@ -52,14 +57,20 @@ export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext
       alwaysShowPropertyIds={ctx.alwaysShowPropertyIds}
       notesSlot={notesSlot}
       href={rowHref}
-      onIconChange={(icon) => ctx.onIconChange(id, icon)}
+      onIconChange={
+        ctx.onIconChange === undefined ? undefined : (icon) => ctx.onIconChange?.(id, icon)
+      }
       defaultIconName={ctx.pageTypeIconName}
-      onPropertyChange={(propId, value) => ctx.onPropertyChange(id, propId, value)}
+      onPropertyChange={
+        changeProperty === undefined
+          ? undefined
+          : (propId, value) => changeProperty(id, propId, value)
+      }
       pageHref={ctx.pageHrefById}
       relationHref={ctx.makeRelationHref(id, rowHref)}
       completion={completion}
       onComplete={ctx.onComplete != null ? (value) => ctx.onComplete?.(page, value) : undefined}
-      onDelete={() => ctx.onDelete(id)}
+      onDelete={ctx.onDelete === undefined ? undefined : () => ctx.onDelete?.(id)}
       onToggleFavorite={
         ctx.onToggleFavorite != null ? (value) => ctx.onToggleFavorite?.(id, value) : undefined
       }

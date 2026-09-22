@@ -2,6 +2,7 @@
 
 import { completionShapeOf } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import type { ViewConfig } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
+import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { RenderBareListingCard } from "akasha/page/ui/component/modules/bare-listing-card/bare-listing-card.module.code.tsx"
 import { PageSystemShell } from "akasha/page/ui/component/modules/page-system-shell/page-system-shell.module.code.tsx"
 import { PageSystemTabContent } from "akasha/page/ui/component/modules/page-system-view/page-system-view.module.code.tsx"
@@ -35,6 +36,7 @@ export function PagesFilteredContent({
 }: PagesFilteredContentProps) {
   const router = usePagesUIRouter()
   const userId = useUserId()
+  const editing = useAppEditing()
 
   const {
     pageTypes,
@@ -163,7 +165,7 @@ export function PagesFilteredContent({
             serverGrouped={serverGrouped}
             isLoading={isLoading}
             onCreatePage={
-              pageTypeSlug.length > 0 && targetPageTypeId.length > 0 && userId != null
+              editing && pageTypeSlug.length > 0 && targetPageTypeId.length > 0 && userId != null
                 ? handleCreatePage
                 : undefined
             }
@@ -178,11 +180,11 @@ export function PagesFilteredContent({
                 buildRowHref,
                 pageHrefById,
                 makeRelationHref,
-                onIconChange: handleIconChange,
-                onPropertyChange: handlePropertyChange,
-                onComplete: handleComplete,
-                onDelete: handleDeletePage,
-                onToggleFavorite: handleToggleFavorite,
+                onIconChange: editing ? handleIconChange : undefined,
+                onPropertyChange: editing ? handlePropertyChange : undefined,
+                onComplete: editing ? handleComplete : undefined,
+                onDelete: editing ? handleDeletePage : undefined,
+                onToggleFavorite: editing ? handleToggleFavorite : undefined,
               })
             }
           />
