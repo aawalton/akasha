@@ -19,4 +19,5 @@ export const companionQuests = {
   progress: "jsonl",
   progressTotal: 600,
   progressCurrent: 218,
+  effectiveCharacter: "temper-account-character/maviola-el",
 } as const satisfies TemperTask
