@@ -1342,7 +1342,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/date-badge/date-badge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/empty-badge/empty-badge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/input-badge/input-badge.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/json-badge/json-badge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/link-badge/link-badge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/number-badge/number-badge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/badge/modules/time-badge/time-badge.module.ts"}

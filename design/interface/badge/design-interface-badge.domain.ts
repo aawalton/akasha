@@ -15,7 +15,6 @@ export const designInterfaceBadge = {
     "module/date-badge",
     "module/empty-badge",
     "module/input-badge",
-    "module/json-badge",
     "module/link-badge",
     "module/number-badge",
     "module/time-badge",
