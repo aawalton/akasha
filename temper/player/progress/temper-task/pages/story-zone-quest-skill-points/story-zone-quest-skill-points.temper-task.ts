@@ -8,7 +8,7 @@ export const storyZoneQuestSkillPoints = {
   icon: "file-text",
   completionCardId: "skill-points",
   completionItemPath: ["storyZoneQuests"],
-  dueDate: "2026-09-21",
+  dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
