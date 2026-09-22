@@ -6,6 +6,7 @@ export const xeu = {
   slug: "xeu",
   title: "Xeu",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 521,
   lastChapter: 521,
   characterClaims: "jsonl",

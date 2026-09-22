@@ -6,6 +6,7 @@ export const wrymvrDeathless = {
   slug: "wrymvr-deathless",
   title: "Wrymvr the Deathless",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 464,
   lastChapter: 464,
   characterClaims: "jsonl",

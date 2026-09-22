@@ -6,6 +6,7 @@ export const zelir = {
   slug: "zelir",
   title: "Master Zelir",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 489,
   lastChapter: 489,
   characterClaims: "jsonl",

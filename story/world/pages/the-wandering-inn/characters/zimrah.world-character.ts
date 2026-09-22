@@ -6,6 +6,7 @@ export const zimrah = {
   slug: "zimrah",
   title: "Zimrah",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 562,
   lastChapter: 605,
   characterClaims: "jsonl",

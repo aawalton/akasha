@@ -6,6 +6,7 @@ export const zeladonaIschen = {
   slug: "zeladona-ischen",
   title: "Zeladona Ischen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 752,
   lastChapter: 752,
   characterClaims: "jsonl",

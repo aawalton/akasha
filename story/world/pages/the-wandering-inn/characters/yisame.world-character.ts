@@ -6,6 +6,7 @@ export const yisame = {
   slug: "yisame",
   title: "Yisame",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   firstChapter: 326,
   lastChapter: 807,
   characterClaims: "jsonl",

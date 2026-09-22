@@ -6,6 +6,7 @@ export const xherw = {
   slug: "xherw",
   title: "Xherw",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   firstChapter: 520,
   lastChapter: 586,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const xeppal = {
   slug: "xeppal",
   title: "Xeppal",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 411,
   lastChapter: 411,
   characterClaims: "jsonl",

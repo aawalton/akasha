@@ -6,6 +6,7 @@ export const wyvernLord = {
   slug: "wyvern-lord",
   title: "the Wyvern Lord",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 409,
   lastChapter: 763,
   characterClaims: "jsonl",

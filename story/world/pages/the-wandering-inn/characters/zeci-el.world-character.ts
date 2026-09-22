@@ -6,6 +6,7 @@ export const zeciEl = {
   slug: "zeci-el",
   title: "Zeci",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 416,
   lastChapter: 416,
   characterClaims: "jsonl",

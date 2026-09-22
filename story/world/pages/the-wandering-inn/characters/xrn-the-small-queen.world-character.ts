@@ -6,6 +6,7 @@ export const xrnTheSmallQueen = {
   slug: "xrn-the-small-queen",
   title: "Xrn",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 153,
   lastChapter: 153,
   characterClaims: "jsonl",

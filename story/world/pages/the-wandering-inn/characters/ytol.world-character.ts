@@ -6,6 +6,7 @@ export const ytol = {
   slug: "ytol",
   title: "Ytol",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 454,
   lastChapter: 454,
   characterClaims: "jsonl",

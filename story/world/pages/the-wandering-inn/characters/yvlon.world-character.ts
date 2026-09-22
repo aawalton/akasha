@@ -6,6 +6,7 @@ export const yvlon = {
   slug: "yvlon",
   title: "Yvlon",
   world: "world/the-wandering-inn",
+  appearanceCount: 65,
   maxLevel: 45,
   eventCount: 15,
   firstChapter: 53,

@@ -6,6 +6,7 @@ export const zelkyr = {
   slug: "zelkyr",
   title: "Zelkyr Amerwing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 502,
   lastChapter: 502,
   characterClaims: "jsonl",

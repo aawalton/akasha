@@ -6,6 +6,7 @@ export const wikir = {
   slug: "wikir",
   title: "Wikir",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 341,
   lastChapter: 341,
   characterClaims: "jsonl",

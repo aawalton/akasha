@@ -6,6 +6,7 @@ export const xif = {
   slug: "xif",
   title: "Xif",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 352,
   lastChapter: 793,
   characterClaims: "jsonl",

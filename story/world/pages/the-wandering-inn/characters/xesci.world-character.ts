@@ -6,6 +6,7 @@ export const xesci = {
   slug: "xesci",
   title: "Xesci",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 489,
   lastChapter: 822,
   characterClaims: "jsonl",

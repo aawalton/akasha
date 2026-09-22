@@ -6,6 +6,7 @@ export const yittonByres = {
   slug: "yitton-byres",
   title: "Yitton Byres",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 256,
   lastChapter: 715,
   characterClaims: "jsonl",

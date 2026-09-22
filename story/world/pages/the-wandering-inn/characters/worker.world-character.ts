@@ -6,6 +6,7 @@ export const worker = {
   slug: "worker",
   title: "Worker",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 28,
   lastChapter: 352,
   characterClaims: "jsonl",

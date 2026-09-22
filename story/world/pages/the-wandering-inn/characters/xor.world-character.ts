@@ -6,6 +6,7 @@ export const xor = {
   slug: "xor",
   title: "Xor",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 195,
   lastChapter: 195,
   characterClaims: "jsonl",

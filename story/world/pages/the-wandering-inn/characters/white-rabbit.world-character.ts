@@ -6,6 +6,7 @@ export const whiteRabbit = {
   slug: "white-rabbit",
   title: "the White Rabbit",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 477,
   lastChapter: 477,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const xalandrass = {
   slug: "xalandrass",
   title: "Xalandrass",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 198,
   lastChapter: 318,
   characterClaims: "jsonl",

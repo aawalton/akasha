@@ -6,6 +6,7 @@ export const wilKallinad = {
   slug: "wil-kallinad",
   title: "Wil",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 333,
   lastChapter: 520,
   characterClaims: "jsonl",

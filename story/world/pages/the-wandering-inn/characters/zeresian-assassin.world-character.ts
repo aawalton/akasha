@@ -6,6 +6,7 @@ export const zeresianAssassin = {
   slug: "zeresian-assassin",
   title: "Unknown Drake",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 508,
   lastChapter: 508,
   characterClaims: "jsonl",

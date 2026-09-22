@@ -6,6 +6,7 @@ export const yirene = {
   slug: "yirene",
   title: "Yirene",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 809,
   lastChapter: 809,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const ysara = {
   slug: "ysara",
   title: "Ysara",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 58,
   lastChapter: 642,
   characterClaims: "jsonl",

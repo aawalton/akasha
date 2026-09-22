@@ -6,6 +6,7 @@ export const wrymvr = {
   slug: "wrymvr",
   title: "Wrymvr",
   world: "world/the-wandering-inn",
+  appearanceCount: 9,
   firstChapter: 175,
   lastChapter: 811,
   characterClaims: "jsonl",

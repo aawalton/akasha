@@ -6,6 +6,7 @@ export const yellowSplatters = {
   slug: "yellow-splatters",
   title: "Yellow Splatters",
   world: "world/the-wandering-inn",
+  appearanceCount: 18,
   firstChapter: 226,
   lastChapter: 809,
   characterClaims: "jsonl",

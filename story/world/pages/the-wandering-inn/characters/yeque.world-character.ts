@@ -6,6 +6,7 @@ export const yeque = {
   slug: "yeque",
   title: "Yeque",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 546,
   lastChapter: 546,
   characterClaims: "jsonl",

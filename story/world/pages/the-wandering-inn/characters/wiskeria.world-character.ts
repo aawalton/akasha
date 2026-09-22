@@ -6,6 +6,7 @@ export const wiskeria = {
   slug: "wiskeria",
   title: "Wiskeria",
   world: "world/the-wandering-inn",
+  appearanceCount: 26,
   firstChapter: 202,
   lastChapter: 611,
   characterClaims: "jsonl",

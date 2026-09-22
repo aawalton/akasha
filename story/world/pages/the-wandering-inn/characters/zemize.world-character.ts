@@ -6,6 +6,7 @@ export const zemize = {
   slug: "zemize",
   title: "Zemize",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 644,
   lastChapter: 789,
   characterClaims: "jsonl",

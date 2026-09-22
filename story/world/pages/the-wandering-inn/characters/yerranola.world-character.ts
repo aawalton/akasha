@@ -6,6 +6,7 @@ export const yerranola = {
   slug: "yerranola",
   title: "Yerranola",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   firstChapter: 207,
   lastChapter: 543,
   characterClaims: "jsonl",

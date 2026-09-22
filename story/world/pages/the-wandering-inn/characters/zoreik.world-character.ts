@@ -6,6 +6,7 @@ export const zoreik = {
   slug: "zoreik",
   title: "Zoreik",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 668,
   lastChapter: 668,
   characterClaims: "jsonl",

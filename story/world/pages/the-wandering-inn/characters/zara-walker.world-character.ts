@@ -6,6 +6,7 @@ export const zaraWalker = {
   slug: "zara-walker",
   title: "Zara Walker",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 67,
   lastChapter: 67,
   characterClaims: "jsonl",

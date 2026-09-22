@@ -6,6 +6,7 @@ export const xol = {
   slug: "xol",
   title: "Xol",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 334,
   lastChapter: 335,
   characterClaims: "jsonl",

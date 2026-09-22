@@ -6,6 +6,7 @@ export const zinni = {
   slug: "zinni",
   title: "Zinni",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 767,
   lastChapter: 767,
   characterClaims: "jsonl",

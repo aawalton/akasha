@@ -6,6 +6,7 @@ export const witchThallisa = {
   slug: "witch-thallisa",
   title: "Thallisa",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 714,
   lastChapter: 714,
   characterClaims: "jsonl",

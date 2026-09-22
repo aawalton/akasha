@@ -6,6 +6,7 @@ export const zevara = {
   slug: "zevara",
   title: "Zevara",
   world: "world/the-wandering-inn",
+  appearanceCount: 56,
   maxLevel: 38,
   eventCount: 12,
   firstChapter: 31,

@@ -6,6 +6,7 @@ export const zineryr = {
   slug: "zineryr",
   title: "Zineryr",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 578,
   lastChapter: 679,
   characterClaims: "jsonl",

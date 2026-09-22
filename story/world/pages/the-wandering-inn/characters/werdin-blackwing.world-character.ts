@@ -6,6 +6,7 @@ export const werdinBlackwing = {
   slug: "werdin-blackwing",
   title: "Werdin Blackwing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 792,
   lastChapter: 792,
   characterClaims: "jsonl",

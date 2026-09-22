@@ -6,6 +6,7 @@ export const wesleSalkis = {
   slug: "wesle-salkis",
   title: "Wesle",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 244,
   lastChapter: 382,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const xitegen = {
   slug: "xitegen",
   title: "Xitegen",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   eventCount: 1,
   firstChapter: 656,
   lastChapter: 821,

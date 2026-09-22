@@ -6,6 +6,7 @@ export const ylawesByres = {
   slug: "ylawes-byres",
   title: "Ylawes Byres",
   world: "world/the-wandering-inn",
+  appearanceCount: 15,
   maxLevel: 38,
   eventCount: 2,
   firstChapter: 150,

@@ -6,6 +6,7 @@ export const zel = {
   slug: "zel",
   title: "Zel",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 191,
   lastChapter: 257,
   characterClaims: "jsonl",

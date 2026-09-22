@@ -6,6 +6,7 @@ export const zavarial = {
   slug: "zavarial",
   title: "Bastion-General Zavarial",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 438,
   lastChapter: 438,
   characterClaims: "jsonl",
