@@ -90,10 +90,6 @@ export const auditRound = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A round that ended is taken out, and the rounds beside it are left underway.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A round that ended is held no longer, so the round after it starts afresh.",
     },
     {
