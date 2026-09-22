@@ -18,7 +18,7 @@ export const watcherRunStatus = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A state this build does not know reads as no state rather than as a guess.",
+      statement: "A state this build does not know is taken as no state rather than as a guess.",
     },
     {
       decisionKind: "decision-kind/departure",

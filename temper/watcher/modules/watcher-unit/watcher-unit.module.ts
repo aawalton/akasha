@@ -13,7 +13,7 @@ export const watcherUnit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A systemctl that answers anything other than zero reads as inactive.",
+      statement: "A systemctl that answers anything other than zero is taken as inactive.",
     },
     {
       decisionKind: "decision-kind/departure",

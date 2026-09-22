@@ -26,7 +26,7 @@ export const watcherSettingsEquipment = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A build hash that is no text reads as no build hash.",
+      statement: "A build hash that is no text is taken as no build hash.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -26,7 +26,7 @@ export const inventorySettingsAccess = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A slice that is not there reads as an empty slice rather than refusing.",
+      statement: "A slice that is not there is taken as an empty slice rather than refusing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -62,7 +62,7 @@ export const inventorySettingsAccess = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A slice that is there and is no object is refused rather than read as unset.",
+      statement: "A slice that is there and is no object is refused rather than taken as unset.",
     },
     {
       decisionKind: "decision-kind/departure",

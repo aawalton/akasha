@@ -48,11 +48,12 @@ export const inventoryEvalEnv = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cooldown group the capture records no expiry for reads as expired.",
+      statement: "A cooldown group the capture records no expiry for is taken as expired.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A skill line the capture never names reads as absent rather than as rank zero.",
+      statement:
+        "A skill line the capture never names is taken as absent rather than as rank zero.",
     },
     {
       decisionKind: "decision-kind/gap",

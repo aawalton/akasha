@@ -9,7 +9,7 @@ export const servedWatcherVersion = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stamp file that is absent or empty reads as no version served.",
+      statement: "A stamp file that is absent or empty is taken as no version served.",
     },
   ],
 } as const satisfies Module
