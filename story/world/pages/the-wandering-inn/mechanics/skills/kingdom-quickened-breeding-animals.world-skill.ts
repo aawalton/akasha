@@ -6,5 +6,6 @@ export const kingdomQuickenedBreedingAnimals = {
   slug: "kingdom-quickened-breeding-animals",
   title: "Kingdom: Quickened Breeding (Animals)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

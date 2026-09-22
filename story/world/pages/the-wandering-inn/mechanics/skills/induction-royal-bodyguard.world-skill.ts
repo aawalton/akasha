@@ -6,5 +6,6 @@ export const inductionRoyalBodyguard = {
   slug: "induction-royal-bodyguard",
   title: "Induction: Royal Bodyguard",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

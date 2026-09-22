@@ -6,5 +6,6 @@ export const leapingAttack = {
   slug: "leaping-attack",
   title: "Leaping Attack",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,6 +6,7 @@ export const infuseColor = {
   slug: "infuse-color",
   title: "Infuse Color",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   aliases: ["infuse-colors"],
   references: "jsonl",
 } as const satisfies WorldSkill

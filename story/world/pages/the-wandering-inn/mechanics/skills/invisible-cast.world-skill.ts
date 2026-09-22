@@ -6,5 +6,6 @@ export const invisibleCast = {
   slug: "invisible-cast",
   title: "Invisible Cast",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

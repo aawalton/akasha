@@ -6,5 +6,6 @@ export const interactViewership = {
   slug: "interact-viewership",
   title: "Interact: Viewership",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

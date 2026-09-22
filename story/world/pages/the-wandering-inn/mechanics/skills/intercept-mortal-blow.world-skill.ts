@@ -6,5 +6,6 @@ export const interceptMortalBlow = {
   slug: "intercept-mortal-blow",
   title: "Intercept Mortal Blow",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

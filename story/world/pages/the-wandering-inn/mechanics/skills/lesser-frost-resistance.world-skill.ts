@@ -6,6 +6,7 @@ export const lesserFrostResistance = {
   slug: "lesser-frost-resistance",
   title: "Lesser Frost Resistance",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   evolvesToSlugs: ["greater-frost-resistance"],
   references: "jsonl",
 } as const satisfies WorldSkill

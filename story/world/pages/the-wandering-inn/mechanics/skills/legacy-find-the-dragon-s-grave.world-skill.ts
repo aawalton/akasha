@@ -6,5 +6,6 @@ export const legacyFindTheDragonSGrave = {
   slug: "legacy-find-the-dragon-s-grave",
   title: "Legacy: Find the Dragon’s Grave",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

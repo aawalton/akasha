@@ -6,5 +6,6 @@ export const kitchenPreventSpills = {
   slug: "kitchen-prevent-spills",
   title: "Kitchen: Prevent Spills",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

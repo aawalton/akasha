@@ -6,5 +6,6 @@ export const lightsoakedArmaments = {
   slug: "lightsoaked-armaments",
   title: "Lightsoaked Armaments",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   references: "jsonl",
 } as const satisfies WorldSkill

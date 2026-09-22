@@ -6,5 +6,6 @@ export const lesserDragonbreathArrow = {
   slug: "lesser-dragonbreath-arrow",
   title: "Lesser Dragonbreath Arrow",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   references: "jsonl",
 } as const satisfies WorldSkill

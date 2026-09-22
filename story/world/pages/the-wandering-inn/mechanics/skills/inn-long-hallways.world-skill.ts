@@ -6,5 +6,6 @@ export const innLongHallways = {
   slug: "inn-long-hallways",
   title: "Inn: Long Hallways",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

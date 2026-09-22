@@ -6,5 +6,6 @@ export const inertStirringRod = {
   slug: "inert-stirring-rod",
   title: "Inert Stirring Rod",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

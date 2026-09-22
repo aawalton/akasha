@@ -6,5 +6,6 @@ export const infidelityUnchecked = {
   slug: "infidelity-unchecked",
   title: "Infidelity Unchecked",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

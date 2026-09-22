@@ -6,5 +6,6 @@ export const lifeshardRound = {
   slug: "lifeshard-round",
   title: "Lifeshard Round",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

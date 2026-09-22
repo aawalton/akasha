@@ -6,5 +6,6 @@ export const ingredientsSenseMinor = {
   slug: "ingredients-sense-minor",
   title: "Ingredients Sense (Minor)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

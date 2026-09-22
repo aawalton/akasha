@@ -6,5 +6,6 @@ export const innExpandedBoundaries = {
   slug: "inn-expanded-boundaries",
   title: "Inn: Expanded Boundaries",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

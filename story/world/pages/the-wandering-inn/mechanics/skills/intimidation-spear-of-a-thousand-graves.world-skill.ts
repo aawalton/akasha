@@ -6,5 +6,6 @@ export const intimidationSpearOfAThousandGraves = {
   slug: "intimidation-spear-of-a-thousand-graves",
   title: "Intimidation: Spear of a Thousand Graves",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const legacyWhispersHeartflameSet = {
   slug: "legacy-whispers-heartflame-set",
   title: "Legacy Whispers: Heartflame Set",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

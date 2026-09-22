@@ -6,5 +6,6 @@ export const lesserForcewall = {
   slug: "lesser-forcewall",
   title: "Lesser Forcewall",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   references: "jsonl",
 } as const satisfies WorldSkill

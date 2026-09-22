@@ -6,5 +6,6 @@ export const invisibleGuard = {
   slug: "invisible-guard",
   title: "Invisible Guard",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

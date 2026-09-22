@@ -6,5 +6,6 @@ export const innUnlimitedManaPool = {
   slug: "inn-unlimited-mana-pool",
   title: "Inn: Unlimited Mana Pool",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

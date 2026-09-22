@@ -6,5 +6,6 @@ export const kithAndKinOfGoblins = {
   slug: "kith-and-kin-of-goblins",
   title: "Kith and Kin of Goblins",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const instantDrying = {
   slug: "instant-drying",
   title: "Instant Drying",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

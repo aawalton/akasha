@@ -6,5 +6,6 @@ export const lesserResistanceBludgeoning = {
   slug: "lesser-resistance-bludgeoning",
   title: "Lesser Resistance: Bludgeoning",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

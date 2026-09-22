@@ -6,5 +6,6 @@ export const launchKick = {
   slug: "launch-kick",
   title: "Launch Kick",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

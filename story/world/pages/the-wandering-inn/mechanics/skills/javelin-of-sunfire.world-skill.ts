@@ -6,5 +6,6 @@ export const javelinOfSunfire = {
   slug: "javelin-of-sunfire",
   title: "Javelin of Sunfire",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

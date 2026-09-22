@@ -6,5 +6,6 @@ export const kingdomVerdantGrowthOfTheFields = {
   slug: "kingdom-verdant-growth-of-the-fields",
   title: "Kingdom: Verdant Growth of the Fields",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const invisibleAppearingRock = {
   slug: "invisible-appearing-rock",
   title: "Invisible Appearing Rock",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

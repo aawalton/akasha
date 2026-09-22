@@ -6,5 +6,6 @@ export const lawOfTheLucifenHellbound = {
   slug: "law-of-the-lucifen-hellbound",
   title: "Law of the Lucifen: Hellbound",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

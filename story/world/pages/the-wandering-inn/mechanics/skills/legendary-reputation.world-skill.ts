@@ -6,5 +6,6 @@ export const legendaryReputation = {
   slug: "legendary-reputation",
   title: "Legendary Reputation",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

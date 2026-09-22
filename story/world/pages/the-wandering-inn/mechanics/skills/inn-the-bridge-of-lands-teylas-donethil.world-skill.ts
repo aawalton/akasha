@@ -6,5 +6,6 @@ export const innTheBridgeOfLandsTeylasDonethil = {
   slug: "inn-the-bridge-of-lands-teylas-donethil",
   title: "Inn: The Bridge Of Lands, Teylas Donethil",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const levyTheSatrapyBirds = {
   slug: "levy-the-satrapy-birds",
   title: "Levy the Satrapy (Birds)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

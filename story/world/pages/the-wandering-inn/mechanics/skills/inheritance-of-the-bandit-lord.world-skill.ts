@@ -6,5 +6,6 @@ export const inheritanceOfTheBanditLord = {
   slug: "inheritance-of-the-bandit-lord",
   title: "Inheritance of the Bandit Lord",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

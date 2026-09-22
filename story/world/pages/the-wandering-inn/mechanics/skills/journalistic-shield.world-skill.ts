@@ -6,5 +6,6 @@ export const journalisticShield = {
   slug: "journalistic-shield",
   title: "Journalistic Shield",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

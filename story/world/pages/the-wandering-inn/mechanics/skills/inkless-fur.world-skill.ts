@@ -6,5 +6,6 @@ export const inklessFur = {
   slug: "inkless-fur",
   title: "Inkless Fur",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

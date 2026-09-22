@@ -6,5 +6,6 @@ export const keepThoseCamerasRolling = {
   slug: "keep-those-cameras-rolling",
   title: "Keep Those Cameras Rolling",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const innPartialReconstruction = {
   slug: "inn-partial-reconstruction",
   title: "Inn: Partial Reconstruction",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

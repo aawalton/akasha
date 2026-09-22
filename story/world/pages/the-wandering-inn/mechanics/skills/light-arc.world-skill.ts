@@ -6,5 +6,6 @@ export const lightArc = {
   slug: "light-arc",
   title: "Light Arc",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

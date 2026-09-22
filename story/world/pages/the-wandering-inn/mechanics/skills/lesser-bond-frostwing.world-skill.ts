@@ -6,5 +6,6 @@ export const lesserBondFrostwing = {
   slug: "lesser-bond-frostwing",
   title: "Lesser Bond: Frostwing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const inspectionGoldCollected = {
   slug: "inspection-gold-collected",
   title: "Inspection: Gold Collected",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

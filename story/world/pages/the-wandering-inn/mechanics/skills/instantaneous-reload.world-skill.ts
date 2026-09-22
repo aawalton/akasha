@@ -6,5 +6,6 @@ export const instantaneousReload = {
   slug: "instantaneous-reload",
   title: "Instantaneous Reload",
   world: "world/the-wandering-inn",
+  appearanceCount: 14,
   references: "jsonl",
 } as const satisfies WorldSkill

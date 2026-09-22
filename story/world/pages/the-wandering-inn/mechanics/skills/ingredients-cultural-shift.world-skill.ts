@@ -6,6 +6,7 @@ export const ingredientsCulturalShift = {
   slug: "ingredients-cultural-shift",
   title: "Ingredients: Cultural Shift",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   aliases: ["Ingredients: Cultural Shift!"],
   references: "jsonl",
 } as const satisfies WorldSkill
