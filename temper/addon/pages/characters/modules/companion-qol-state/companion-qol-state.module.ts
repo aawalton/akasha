@@ -4,7 +4,7 @@ export const companionQolState = {
   id: "01a0611d-84cd-766a-94cc-4f86cd3cfe46",
   type: "page-type/module",
   slug: "companion-qol-state",
-  definition: "the holder the companion quality-of-life code keeps its settings in",
+  definition: "the holder of the companion quality-of-life code's settings",
   code: "ts",
   decisions: [
     {

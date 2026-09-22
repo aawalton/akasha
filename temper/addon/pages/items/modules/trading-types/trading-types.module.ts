@@ -4,7 +4,7 @@ export const tradingTypes = {
   id: "01a06160-2a5e-7579-bb70-416bf4fbc1c8",
   type: "page-type/module",
   slug: "trading-types",
-  definition: "the shapes a guild snapshot and a last-sold record are held in",
+  definition: "the shapes of a guild snapshot and a last-sold record",
   code: "ts",
   decisions: [
     {

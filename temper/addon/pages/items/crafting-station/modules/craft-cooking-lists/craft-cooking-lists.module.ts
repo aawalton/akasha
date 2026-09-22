@@ -4,7 +4,7 @@ export const craftCookingLists = {
   id: "01a08e69-e336-7e71-b562-58e9c8e75d47",
   type: "page-type/module",
   slug: "craft-cooking-lists",
-  definition: "the recipe rows a cooking category or a search fills the food panel with",
+  definition: "the recipe rows a cooking category or a search puts in the food panel",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const setsKbfFavoritesFilter = {
   id: "01a0623e-53a1-7630-820e-af044a097b87",
   type: "page-type/module",
   slug: "sets-kbf-favorites-filter",
-  definition: "the dropdown of favourite categories a set can be marked with",
+  definition: "the dropdown of a set's favourite categories",
   code: "ts",
   decisions: [
     {

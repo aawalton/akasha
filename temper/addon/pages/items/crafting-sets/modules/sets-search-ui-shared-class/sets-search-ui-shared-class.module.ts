@@ -4,7 +4,7 @@ export const setsSearchUiSharedClass = {
   id: "01a0623c-2df8-793e-9947-dbed82a8c7c5",
   type: "page-type/module",
   slug: "sets-search-ui-shared-class",
-  definition: "the class both search windows take their shared behaviour from",
+  definition: "the class giving both search windows their shared behaviour",
   code: "ts",
   decisions: [
     {

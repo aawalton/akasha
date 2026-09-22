@@ -4,7 +4,7 @@ export const setsCoreItemidDecompress = {
   id: "01a061fc-ceea-731b-8df7-55b760383102",
   type: "page-type/module",
   slug: "sets-core-itemid-decompress",
-  definition: "the item ids of a set expanded from the compressed form they are stored in",
+  definition: "the item ids of a set expanded from their compressed form",
   code: "ts",
   decisions: [
     {
