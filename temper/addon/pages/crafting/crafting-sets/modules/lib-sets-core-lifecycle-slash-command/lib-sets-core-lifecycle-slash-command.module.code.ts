@@ -165,7 +165,7 @@ function slashHelp(this: void): undefined {
     )
   }
   d(
-    "|-> '/lsp' <optional search term>'        Start a set search in the chat editbox and show found sets directly (only if LibSlashCommander is activated!). You can search by name or setId. Selecting a found set will show a preview of a set's item, and (if enabled in your LibSets settings menu) provide the itemlink in the chat editbox too."
+    "|-> '/lsp' <optional search term>'        Start a set search in the chat editbox and show found sets directly (only if LibSlashCommander is activated!). You can search by name or setId. Selecting a found set will show a preview of a set's item, and (if enabled in the set settings menu) provide the itemlink in the chat editbox too."
   )
   d(
     "|-> '/libsets debug' <optional debug option>       Write debugging information to the chat. If <optional debug option> was provided, this function will be called (if valid)."

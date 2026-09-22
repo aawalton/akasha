@@ -145,7 +145,7 @@ export function validateValueAgainstCheckTable(
   const anyInCheck = isAnyInCheckTable ?? false
   const localDebug = doLocalDebug ?? false
   if (localDebug === true) {
-    d("[LibSets]validateValueAgainstCheckTable-isAnyInCheckTable: " + tostring(anyInCheck))
+    d(lib.prefix + "validateValueAgainstCheckTable-isAnyInCheckTable: " + tostring(anyInCheck))
   }
   if (checkTable === undefined) {
     return false

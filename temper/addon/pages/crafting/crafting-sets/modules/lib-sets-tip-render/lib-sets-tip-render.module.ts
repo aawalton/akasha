@@ -9,7 +9,7 @@ export const libSetsTipRender = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A gamepad tooltip gets its own section with a LibSets heading.",
+      statement: "A gamepad tooltip gets its own section headed Sets.",
     },
     {
       decisionKind: "decision-kind/constraint",

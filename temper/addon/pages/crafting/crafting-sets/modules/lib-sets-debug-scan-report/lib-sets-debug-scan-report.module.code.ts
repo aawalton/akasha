@@ -13,12 +13,12 @@ import {
   DEBUG_OUTPUT_START_LINE,
   fallbackLang,
   libPrefix,
-  MAJOR,
   SCAN_STATE,
   UNKNOWN_NAME,
   worldName,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/addon/pages/crafting/modules/crafting-constants/crafting-constants.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -67,7 +67,7 @@ export function showSetCountsScanned(
       ">>> " +
         libPrefix +
         " Scanning of sets has finished! SavedVariables file '" +
-        MAJOR +
+        ADDON_NAME +
         ".lua' table '" +
         LIBSETS_TABLEKEY_SETITEMIDS +
         "' was" +
@@ -96,7 +96,7 @@ export function showSetCountsScanned(
           } else {
             newSetName =
               UNKNOWN_NAME +
-              " - Name unknown in LibSets.setDataPreloaded['" +
+              " - Name unknown in setDataPreloaded['" +
               LIBSETS_TABLEKEY_SETNAMES +
               "']"
           }
@@ -124,7 +124,7 @@ export function showSetCountsScanned(
         const newSetIdsSVForWorld = asPresent(newSetIdsSV[worldName])
         newSetIdsSVForWorld[tostring(apiVersion)] = SCAN_STATE.newSetIdsFound
         newSetIdsSVForWorld[apiVersionUpdatedStr] = {
-          UpdateType: "LibSets.DebugScanAllSetData()",
+          UpdateType: "DebugScanAllSetData()",
           DateTime: os.date("%c"),
         }
       }
@@ -140,7 +140,7 @@ export function showSetCountsScanned(
         sv[LIBSETS_TABLEKEY_SETITEMIDS] = undefined
         d(
           ">>> SavedVariables file '" +
-            MAJOR +
+            ADDON_NAME +
             ".lua's table '" +
             LIBSETS_TABLEKEY_SETITEMIDS +
             "' was deleted again to free space and speed-up the loading screens! <<<"

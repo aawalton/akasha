@@ -3,9 +3,9 @@ import { asDungeonFinderKeyboard } from "akasha/temper/addon/pages/crafting/craf
 import {
   clientLang,
   libPrefix,
-  MAJOR,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/addon/pages/crafting/modules/crafting-constants/crafting-constants.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -98,7 +98,7 @@ export function debugGetDungeonFinderData(
       "->Stored " +
         tostring(dungeonsAdded) +
         " entries in SaveVariables file '" +
-        MAJOR +
+        ADDON_NAME +
         ".lua', in the table '" +
         LIBSETS_TABLEKEY_DUNGEONFINDER_DATA +
         "', language: '" +

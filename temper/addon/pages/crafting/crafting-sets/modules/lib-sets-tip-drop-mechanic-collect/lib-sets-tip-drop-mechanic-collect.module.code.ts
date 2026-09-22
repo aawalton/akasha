@@ -128,7 +128,9 @@ export function getSetDropMechanicInfo(
   if (dropZoneIds === undefined) {
     const setId = asNumber(setData["setId"])
     if (!BLACKLISTED_SET_IDS_FOR_ZONE_TOOLTIPS[setId]) {
-      d("[LibSets]ERROR getSetDropMechanicInfo - dropZoneIds MISSING! setId: " + tostring(setId))
+      d(
+        lib.prefix + "ERROR getSetDropMechanicInfo - dropZoneIds MISSING! setId: " + tostring(setId)
+      )
     } else {
       if (dropMechanicNamesOfSet !== undefined) {
         for (const [idx] of ipairs(asUnknownRecordArray(dropMechanicNamesOfSet))) {

@@ -55,6 +55,7 @@
 {"propertySlug":"import","fileName":"lib-sets-lib.module.code.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-kbf-filter-panel/lib-sets-kbf-filter-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-lib.module.code.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-kbf-gear-filters/lib-sets-kbf-gear-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-lib.module.code.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-kbf-set-bonus-filters/lib-sets-kbf-set-bonus-filters.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-sets-lib.module.code.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-kbf-sorting/lib-sets-kbf-sorting.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-lib.module.code.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-loc-game-strings/lib-sets-loc-game-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-lib.module.code.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-loc-install-localization/lib-sets-loc-install-localization.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-lib.module.code.ts","path":"temper/addon/pages/crafting/crafting-sets/modules/lib-sets-loc-rest-game-strings/lib-sets-loc-rest-game-strings.module.code.ts"}

@@ -2,6 +2,7 @@ import {
   asString,
   asStringOpt,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
+import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 import { asComboBoxSortKeyFunc } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-casts/lib-sets-search-ui-casts.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
@@ -37,7 +38,7 @@ export function sortFilterComboBox(
     const containerName =
       comboBox.m_container !== undefined ? comboBox.m_container.GetName() : tos(comboBox)
     d(
-      `[LibSets]Errors: Sortkeys not found for Set Search UI Keyboard - comboBox: ${tos(containerName)}, sortKey: ${tos(sortKey)}, sortKeyData: ${tos(sortKeyData)}`
+      `${lib.prefix}Errors: Sortkeys not found for Set Search UI Keyboard - comboBox: ${tos(containerName)}, sortKey: ${tos(sortKey)}, sortKeyData: ${tos(sortKeyData)}`
     )
     return
   }

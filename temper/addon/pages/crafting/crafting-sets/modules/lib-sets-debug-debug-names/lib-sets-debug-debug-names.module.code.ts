@@ -272,9 +272,9 @@ function debugShowNewSetIds(this: void, noChatOutput?: boolean): undefined {
     if (!noChat) {
       return
     }
-    d("<No new setIds were found!\nDid you run function 'LibSets.DebugScanAllSetData()' already?")
+    d("<No new setIds were found!\nDid you run function 'DebugScanAllSetData()' already?")
     d(
-      "Please read the function's description text in file 'LibSets_Debug.lua' to be able to update the internal needed tables 'LibSets.setDataPreloaded['setItemIds'] properly, before you try to search for new setIds!"
+      "Please read the description of DebugScanAllSetData to be able to update the internal tables 'setDataPreloaded['setItemIds'] properly, before you try to search for new setIds!"
     )
   } else {
     if (!newSetsLoadedFromSV) {
@@ -292,7 +292,7 @@ function debugShowNewSetIds(this: void, noChatOutput?: boolean): undefined {
     const newSetIdsSVForWorld = asPresent(newSetIdsSV[worldName])
     newSetIdsSVForWorld[tostring(apiVersion)] = SCAN_STATE.newSetIdsFound
     newSetIdsSVForWorld[apiVersionUpdatedStr] = {
-      UpdateType: "LibSets.DebugShowNewSetIds()",
+      UpdateType: "DebugShowNewSetIds()",
       DateTime: os.date("%c"),
     }
     if (tempSetNamesOfClientLang !== undefined) {

@@ -27,7 +27,7 @@ export function buildSetDataText(
     )
   }
   if (setData["setId"] === undefined) {
-    d("[ERROR - LibSets]buildSetDataText - setId missing: " + tostring(itemLink))
+    d(lib.prefix + "ERROR buildSetDataText - setId missing: " + tostring(itemLink))
     return $multi(
       asPresent<string>(undefined),
       asPresent<{ [part: string]: LibSetsSetInfoPart }>(undefined),

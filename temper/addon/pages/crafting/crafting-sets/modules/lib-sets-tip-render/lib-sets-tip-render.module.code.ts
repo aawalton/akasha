@@ -48,7 +48,7 @@ export function addTooltipLine(
       )
       libSetsSection.AddLine.call(
         libSetsSection,
-        "LibSets",
+        "Sets",
         getStyle.call(tooltipControl, "bodyHeader")
       )
       libSetsSection.AddLine.call(

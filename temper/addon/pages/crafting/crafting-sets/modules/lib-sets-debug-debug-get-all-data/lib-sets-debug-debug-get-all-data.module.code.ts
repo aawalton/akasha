@@ -196,7 +196,7 @@ const OTHER_LANG_SET_NAMES: {
 function debugBuildMixedSetNames(this: void): undefined {
   d(
     libPrefix +
-      "Start to combine entries from table 'otherLangSetNames' in file 'LibSets_Debug.lua' into table 'LibSets.setDataPreloaded[" +
+      "Start to combine entries from table 'otherLangSetNames' into table 'setDataPreloaded[" +
       LIBSETS_TABLEKEY_SETNAMES +
       "]'"
   )

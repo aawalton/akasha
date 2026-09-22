@@ -42,7 +42,7 @@ function showGamepadTooltipWithItemLink(
   const tooltipContainer = GAMEPAD_TOOLTIPS.GetTooltipInfo.call(GAMEPAD_TOOLTIPS, resolvedType)
     .control.container
   if (!tooltipContainer) {
-    d("[LibSets]tooltip container for " + tostring(resolvedType) + " is missing!")
+    d(lib.prefix + "tooltip container for " + tostring(resolvedType) + " is missing!")
   }
   GAMEPAD_TOOLTIPS.LayoutItem.call(GAMEPAD_TOOLTIPS, resolvedType, itemLink, false, undefined, true)
 }
