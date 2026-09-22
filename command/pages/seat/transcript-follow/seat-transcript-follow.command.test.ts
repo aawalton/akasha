@@ -240,6 +240,20 @@ test("a reply the person's next turn cut short is answered as far as that reply 
   ])
 })
 
+test("two turns back to back are both answered, the first with nothing replied", () => {
+  const text = linesOf([
+    asked("u1", "hello"),
+    asked("u2", "and another thing"),
+    answeredWith("hi"),
+    asked("u3", "next"),
+  ])
+
+  expect(exchangesIn(text, null)).toEqual([
+    { uuid: "u1", said: "hello", replied: "" },
+    { uuid: "u2", said: "and another thing", replied: "hi" },
+  ])
+})
+
 test("a last turn with nothing written back yet is answered nowhere", () => {
   const text = linesOf([asked("u1", "hello"), answeredWith("hi"), asked("u2", "again"), THINKING])
 

@@ -141,7 +141,7 @@ export function exchangesIn(text: string, cursor: string | null): readonly Excha
     const replied = replies.join("\n")
     asked = null
     replies = []
-    if (turn === null || replied === "") return
+    if (turn === null) return
     every.push({ uuid: turn.uuid, said: turn.said, replied })
   }
   for (const line of text.split("\n")) {

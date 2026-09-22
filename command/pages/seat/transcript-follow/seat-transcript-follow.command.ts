@@ -54,7 +54,7 @@ export const seatTranscriptFollow = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An exchange the agent wrote nothing in is answered nowhere.",
+      statement: "A turn the agent did not reply to is answered with nothing replied.",
     },
     {
       decisionKind: "decision-kind/departure",
