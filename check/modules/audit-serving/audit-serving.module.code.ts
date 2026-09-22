@@ -16,7 +16,6 @@ import {
   verdictLogged,
   verdictOver,
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
-import { everythingIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import {
   checksAt,
   checksIn,
@@ -47,7 +46,6 @@ import {
 } from "akasha/infrastructure/service/workstation/modules/service-alerting/service-alerting.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
@@ -113,7 +111,6 @@ const WHOLE =
 const underway = new Map<string, Promise<Ran>>()
 
 export type Over = {
-  readonly change: Change
   readonly commit: string
 }
 
@@ -123,7 +120,7 @@ export type Ran = {
   readonly ran: boolean
 }
 
-export type Running = (one: Gathered, change: Change) => Promise<readonly Judged[]>
+export type Running = (one: Gathered) => Promise<readonly Judged[]>
 
 export type Sent = (to: string, body: string) => Promise<string | null>
 
@@ -195,9 +192,9 @@ export const spawning: Running = async (one) => {
   }
 }
 
-const gated: Running = async (one, change) => {
+const gated: Running = async (one) => {
   await waitedForRoom(AUDIT)
-  return await spawning(one, change)
+  return await spawning(one)
 }
 
 export const sending: Sent = async (to, body) => {
@@ -225,7 +222,7 @@ export async function commitOf(root: string): Promise<string> {
 
 async function overNow(root: string): Promise<Over> {
   const commit = await commitOf(root)
-  return { change: everythingIn(root), commit }
+  return { commit }
 }
 
 export function verdictOf(found: readonly Judged[], over: Over, now: string): Verdict {
@@ -273,7 +270,7 @@ async function ranFor(given: Asking): Promise<Ran> {
     async (): Promise<Ran> => {
       const taken = await answered()
       if (taken !== null) return { check: slug, verdict: taken, ran: false }
-      const found = await run(given.check, given.over.change)
+      const found = await run(given.check)
       const verdict = verdictOf(found, given.over, new Date().toISOString())
       if (verdictFor(given)?.commit !== verdict.commit) await verdictPut(given, verdict)
       return { check: slug, verdict, ran: true }

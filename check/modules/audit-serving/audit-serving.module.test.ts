@@ -24,7 +24,6 @@ import {
   gathered,
   into,
   LOGS,
-  NOTHING,
   NOW,
   repoOf,
   scratch,
@@ -48,7 +47,7 @@ test("a verdict carries the refusals whole and says whether the check ran", () =
     { path: "one.ts", reason: "one refused" },
     { path: "two.ts", reason: "two threw", threw: true },
   ]
-  expect(verdictOf(found, { change: NOTHING, commit: "abc" }, NOW)).toEqual({
+  expect(verdictOf(found, { commit: "abc" }, NOW)).toEqual({
     commit: "abc",
     ranAt: NOW,
     refusals: ["one.ts — one refused", "two.ts — two threw"],
@@ -57,7 +56,7 @@ test("a verdict carries the refusals whole and says whether the check ran", () =
 })
 
 test("a run that refused nothing leaves a clean verdict", () => {
-  expect(verdictOf([], { change: NOTHING, commit: "abc" }, NOW)).toEqual({
+  expect(verdictOf([], { commit: "abc" }, NOW)).toEqual({
     commit: "abc",
     ranAt: NOW,
     refusals: [],
@@ -151,7 +150,7 @@ test("a verdict the child wrote is read back whole", () => {
 
 test("a check whose process could not be started could not run", async () => {
   const root = scratch.rootFor("akasha-audit-apart-")
-  const found = await spawning(gathered("typecheck", root), NOTHING)
+  const found = await spawning(gathered("typecheck", root))
   expect(found.length).toBe(1)
   expect(found[0]?.threw).toBe(true)
   expect(found[0]?.reason).toContain("typecheck")
@@ -162,8 +161,8 @@ test("a turn is a path of its own for each check", () => {
 })
 
 test("two askers join one run only where check, home and commit all agree", () => {
-  const over: Over = { change: NOTHING, commit: "abc" }
-  const later: Over = { change: NOTHING, commit: "def" }
+  const over: Over = { commit: "abc" }
+  const later: Over = { commit: "def" }
   const one = { root: "/r", home: "/h", check: gathered("typecheck", "/r"), over, asked: "abc" }
   expect(keyFor(one)).toBe(keyFor({ ...one, asked: "zzz" }))
   expect(keyFor(one)).not.toBe(keyFor({ ...one, over: later }))
@@ -245,7 +244,7 @@ test("a message is held to the words a message page carries", () => {
 test("a check with no verdict yet is run, and the verdict is kept", async () => {
   const { root, made } = await repoOf(1)
   const one = checked("typecheck", root)
-  const over: Over = { change: NOTHING, commit: made[0] ?? "" }
+  const over: Over = { commit: made[0] ?? "" }
   const ran = await auditOne({
     root,
     home: scratch.rootFor("akasha-audit-serving-home-"),
@@ -269,7 +268,7 @@ test("an asker whose check is clean at the asker's commit starts no run", async 
     root,
     home: scratch.rootFor("akasha-audit-serving-home-"),
     check: one,
-    over: { change: NOTHING, commit: made[1] ?? "" },
+    over: { commit: made[1] ?? "" },
     asked: made[0] ?? "",
     run: async () => {
       throw new Error("this check was run for an asker a verdict already answered")
@@ -286,7 +285,7 @@ test("an asker at a commit after the verdict is run again", async () => {
     root,
     home: scratch.rootFor("akasha-audit-serving-home-"),
     check: one,
-    over: { change: NOTHING, commit: made[1] ?? "" },
+    over: { commit: made[1] ?? "" },
     asked: made[1] ?? "",
     record: into(root),
     run: async () => [{ path: "one.ts", reason: "one refused" }],
@@ -305,7 +304,7 @@ test("a check whose commit moved is run again however narrow its input", async (
     root,
     home: scratch.rootFor("akasha-audit-serving-home-"),
     check: one,
-    over: { change: NOTHING, commit: made[1] ?? "" },
+    over: { commit: made[1] ?? "" },
     asked: made[1] ?? "",
     record: into(root),
     run: async (): Promise<readonly Judged[]> => {
@@ -325,7 +324,7 @@ test("many askers at one commit are answered by one run", async () => {
     root,
     home: scratch.rootFor("akasha-audit-serving-home-"),
     check: checked("typecheck", root),
-    over: { change: NOTHING, commit: made[0] ?? "" },
+    over: { commit: made[0] ?? "" },
     asked: made[0] ?? "",
     record: into(root),
     run: async (): Promise<readonly Judged[]> => {
@@ -351,7 +350,7 @@ test("a verdict that refused at an older commit is measured again rather than re
     root,
     home: scratch.rootFor("akasha-audit-serving-home-"),
     check: one,
-    over: { change: NOTHING, commit: made[1] ?? "" },
+    over: { commit: made[1] ?? "" },
     asked: made[1] ?? "",
     record: into(root),
     run: async () => [{ path: "one.sh", reason: "no" }],
