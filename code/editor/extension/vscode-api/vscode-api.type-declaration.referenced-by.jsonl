@@ -43,16 +43,8 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/reader-prose-body/reader-prose-body.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/use-chrome-toggle/use-chrome-toggle.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/use-page-calendar-state/use-page-calendar-state.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/use-read-end-on-scroll/use-read-end-on-scroll.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/use-reader-progress-writer/use-reader-progress-writer.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/view-tabs/view-tabs.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/frame/modules/use-follow-anchor/use-follow-anchor.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/modules/page-card-perf/page-card-perf.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/modules/view-callbacks/view-callbacks.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/archive-of-worlds/web/root.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/audhdalan/web/modules/deck-page-content/deck-page-content.module.code.tsx"}

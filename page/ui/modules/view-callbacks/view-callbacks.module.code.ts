@@ -1,5 +1,4 @@
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export interface ViewCallbacks {
   onCreateView: (name: string, data: ViewDataJSON) => void

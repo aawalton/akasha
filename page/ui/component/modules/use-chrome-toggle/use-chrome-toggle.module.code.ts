@@ -2,7 +2,6 @@
 
 import { shouldToggleChrome } from "akasha/page/ui/component/modules/chrome-toggle-decider/chrome-toggle-decider.module.code.ts"
 import { type MouseEvent as ReactMouseEvent, useEffect, useState } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export function useChromeToggle(): {
   chromeHidden: boolean

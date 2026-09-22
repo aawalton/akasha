@@ -6,7 +6,6 @@ import {
   computePinned,
 } from "akasha/page/ui/frame/modules/viewport-thresholds/viewport-thresholds.module.code.ts"
 import { type RefObject, useCallback, useEffect, useRef, useState } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const PIN_THRESHOLD_PX = 120
 

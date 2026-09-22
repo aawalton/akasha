@@ -6,7 +6,6 @@ import {
   fractionToScrollTop,
 } from "akasha/page/ui/component/modules/position-fraction/position-fraction.module.code.ts"
 import { type RefObject, useEffect, useRef, useState } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/performance-global/performance-global.type-declaration.d.ts"
 
 const LAYOUT_MAX_FRAMES = 30

@@ -15,7 +15,6 @@ import {
 } from "akasha/page/ui/component/modules/page-calendar-dnd-helpers/page-calendar-dnd-helpers.module.code.ts"
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export function usePageCalendarState({
   items,

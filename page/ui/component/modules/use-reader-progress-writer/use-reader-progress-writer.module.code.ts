@@ -6,7 +6,6 @@ import { computeReadProgress } from "akasha/page/ui/component/modules/read-progr
 import type { ReaderPositionAnchor } from "akasha/page/ui/component/modules/reader-prose-body/reader-prose-body.module.code.tsx"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { type RefObject, useEffect, useRef } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export interface ReaderProgressWriterArgs {
