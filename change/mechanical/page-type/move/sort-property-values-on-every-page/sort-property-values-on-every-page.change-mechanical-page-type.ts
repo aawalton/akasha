@@ -8,7 +8,7 @@ export const sortPropertyValuesOnEveryPage = {
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition:
-    "the values one key holds put into the order they sort in, on every page of one page type",
+    "the values a key holds put into the order they sort in, on every page of a page type",
   takesAtMost: true,
   code: "ts",
   test: "ts",

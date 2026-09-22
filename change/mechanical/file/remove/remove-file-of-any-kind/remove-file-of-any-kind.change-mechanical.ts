@@ -7,7 +7,7 @@ export const removeFileOfAnyKind = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "one file taken away, through the change taking that kind of path away",
+  definition: "a file taken away, through the change taking that kind of path away",
   code: "ts",
   test: "ts",
   decisions: [

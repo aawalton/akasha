@@ -5,7 +5,7 @@ export const aPageTypeWithItsParts = {
   type: "page-type/folder-shape",
   slug: "a-page-type-with-its-parts",
   definition:
-    "the shape of a folder with one page type, its parts and the pages and properties it declares",
+    "the shape of a folder with a page type, its parts and the pages and properties it declares",
   code: "ts",
   test: "ts",
   enabled: true,

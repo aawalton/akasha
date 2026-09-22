@@ -7,7 +7,7 @@ export const addPropertyToPageType = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "one page property declared on one page type and named among that page type's parts",
+  definition: "a page property declared on a page type and named among that page type's parts",
   code: "ts",
   test: "ts",
   decisions: [

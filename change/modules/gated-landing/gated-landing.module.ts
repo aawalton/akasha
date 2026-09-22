@@ -5,7 +5,7 @@ export const gatedLanding = {
   type: "page-type/module",
   slug: "gated-landing",
   definition:
-    "bodies written and paths taken away in one mechanical landing, answering the sha it made",
+    "bodies written and paths taken away in a mechanical landing, answering the sha it made",
   code: "ts",
   decisions: [
     {

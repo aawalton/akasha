@@ -4,7 +4,7 @@ export const addressRestating = {
   id: "01a09c32-ce10-789c-bc0c-792c98ca95e4",
   type: "page-type/module",
   slug: "address-restating",
-  definition: "the edits restating many pages' addresses over one reading of the bodies",
+  definition: "the edits restating many pages' addresses over a reading of the bodies",
   code: "ts",
   test: "ts",
   decisions: [

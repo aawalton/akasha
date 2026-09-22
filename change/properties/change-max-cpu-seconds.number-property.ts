@@ -5,7 +5,7 @@ export const changeMaxCpuSeconds = {
   type: "page-type/number-property",
   slug: "change-max-cpu-seconds",
   propertySlug: "max-cpu-seconds",
-  definition: "the most processor time one run of a change may spend, in seconds",
+  definition: "the most processor time a run of a change may spend, in seconds",
   max: null,
   decisions: [
     {
