@@ -9,4 +9,5 @@ export const btw5 = {
   python: "py",
   bytecodeDirectory: true,
   installPath: "~/.local/bin/btw5",
+  onlyOn: "linux",
 } as const satisfies PythonModule
