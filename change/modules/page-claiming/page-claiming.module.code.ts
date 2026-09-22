@@ -1,4 +1,4 @@
-import { dirname } from "node:path"
+import { dirname, join } from "node:path"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { endingOf } from "akasha/page/index/modules/extension-carrying/extension-carrying.module.code.ts"
 import { claimsOf } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
@@ -27,6 +27,21 @@ function endedBeside(world: World, at: string, value: Value): readonly string[] 
   return world
     .under(folder)
     .filter((one) => dirname(one) === folder && endings.has(endingOf(one) ?? ""))
+}
+
+export function foldersClaimedIn(world: World, at: string, value: Value): readonly string[] {
+  const carried = world.index.folderPropertiesAt().get(typeIn(value) ?? "")
+  if (carried === undefined) return []
+  const folder = dirname(at)
+  const found: string[] = []
+  for (const [key, held] of Object.entries(value)) {
+    if (held !== true) continue
+    const folderName = carried.get(dashEachCapital(key))
+    if (folderName === undefined) continue
+    const path = join(folder, folderName)
+    if (world.under(path).length > 0) found.push(path)
+  }
+  return [...new Set(found)].sort()
 }
 
 export function claimedIn(world: World, at: string, value: Value): readonly string[] {
