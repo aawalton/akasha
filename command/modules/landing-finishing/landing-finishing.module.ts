@@ -14,8 +14,8 @@ export const landingFinishing = {
       statement: "What the landing cleared is handed in rather than cleared here.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The units are kept after the links are placed.",
+      decisionKind: "decision-kind/absence",
+      statement: "No unit is written here, a unit naming a bundle only a deploy builds.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -37,10 +37,7 @@ export const landingFinishing = {
       decisionKind: "decision-kind/departure",
       statement: "A link that could not be placed is answered rather than refusing the landing.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A unit that could not be kept is answered rather than refusing the landing.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A landing that committed nothing is finished the same way.",

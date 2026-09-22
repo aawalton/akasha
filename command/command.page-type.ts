@@ -75,7 +75,6 @@ export const command = {
     "module/rooting",
     "module/said-pathing",
     "module/seat-act-calling",
-    "module/unit-landing",
     "module/value-minting",
     "module/warrant-owing",
     "module/yaml-lines",

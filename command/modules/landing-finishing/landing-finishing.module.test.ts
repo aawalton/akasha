@@ -9,9 +9,8 @@ test("a page that moved has the folder it sits in linked where that page says", 
   expect(await linkMoved()).toEqual([])
 })
 
-test("a landing with nothing to finish clears nothing, links nothing and keeps nothing", () => {
+test("a landing with nothing to finish clears nothing and links nothing", () => {
   expect(NOTHING_FINISHED.cleared).toEqual([])
   expect(NOTHING_FINISHED.linked.said).toEqual([])
   expect(NOTHING_FINISHED.placed.wrong).toEqual([])
-  expect(NOTHING_FINISHED.units.wrong).toEqual([])
 })
