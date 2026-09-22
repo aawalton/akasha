@@ -8,6 +8,11 @@ export const dallaResourceManagement = {
   persona: "persona/dalla",
   intentStack: [
     {
+      statement: "An audit is handed the commit that audit judges rather than a change.",
+      workingMemory:
+        "`everythingIn` sets `changed` to every file in the tree and `before` and `after` to one `onDisk` reader, so an audit claims the whole repository moved and that nothing differs. Each audit builds that for itself; the runner builds `nothingIn` and drops it, and an audit takes only a root. `commit-reading` already answers bodies from one `git cat-file --batch` and holds a commit's trees across readers, so the listing is there unexposed. Sixty-four audits, five spawning an outside tool.",
+    },
+    {
       statement: "An audit reads the one commit it opened at, from its first file to its last.",
       workingMemory:
         "The commit `commitOf` reads at the start is only the label written onto the verdict. `everythingIn` lists with `git ls-files --cached --others`, the index plus untracked working-tree files, and `onDisk` reads bodies with readFileSync, so an audit judges what the working tree holds when each file is opened. A landing part way through a round moves what a later check sees. Ripgrep cannot read a commit; `git grep <rev>` and `git ls-tree -r <rev>` can.",
@@ -154,11 +159,6 @@ export const dallaResourceManagement = {
       statement: "A surge of memory the host cannot absorb ends a tree rather than the host.",
       workingMemory:
         "Absorbing means reclaim, throttling and swap. Where those are spent something ends, and the choice is one tree or the whole workstation. Today nothing ends until MemAvailable and SwapFree are both under 4 GiB, and with 80 GiB of swap that moment arrives long after the machine is unusable, which is why Alan killed the 16 GiB python by hand. Ending is the last resort rather than the first, and takes as little as gives the host its headroom back.\n",
-    },
-    {
-      statement: "An audit is handed the commit that audit judges rather than a change.",
-      workingMemory:
-        "`everythingIn` sets `changed` to every file in the tree and `before` and `after` to one `onDisk` reader, so an audit claims the whole repository moved and that nothing differs. Each audit builds that for itself; the runner builds `nothingIn` and drops it, and an audit takes only a root. `commit-reading` already answers bodies from one `git cat-file --batch` and holds a commit's trees across readers, so the listing is there unexposed. Sixty-four audits, five spawning an outside tool.",
     },
   ],
   constraints: [
