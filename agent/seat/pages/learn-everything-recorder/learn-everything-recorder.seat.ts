@@ -11,4 +11,5 @@ export const learnEverythingRecorder = {
   startMode: "headless",
   onCall: false,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "9927d348-af6b-403d-a0f7-60ae7524d4e2",
 } as const satisfies Seat
