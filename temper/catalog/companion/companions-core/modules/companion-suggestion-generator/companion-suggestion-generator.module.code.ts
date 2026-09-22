@@ -1,5 +1,6 @@
 import { companionArmorSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import { getValidTraitIdsForBaseRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import { companionSkillAt } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,
@@ -13,7 +14,6 @@ import {
   type CompanionSkillSlotId,
   companionSkillSlots,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
-import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import { companionTraits } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { getValidSkillIds } from "akasha/temper/catalog/companion/companions-core/modules/companion-valid-skills/companion-valid-skills.module.code.ts"
@@ -226,7 +226,7 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "skill",
-          label: `${slotName}: ${companionSkills.data[currentSkillId].name} \u2192 ${companionSkills.data[skillId].name}`,
+          label: `${slotName}: ${companionSkillAt(currentSkillId).name} \u2192 ${companionSkillAt(skillId).name}`,
           improvement: score - baseScore,
           mutation: { kind: "skills", updates: newSkills },
         })

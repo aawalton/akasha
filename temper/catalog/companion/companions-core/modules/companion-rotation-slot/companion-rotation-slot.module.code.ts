@@ -1,3 +1,7 @@
+import {
+  type CompanionSkillId,
+  companionSkills,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionMetricValue } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
@@ -7,10 +11,6 @@ import {
   type CompanionSkillSlotId,
   companionSkillSlots,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
-import {
-  type CompanionSkillId,
-  companionSkills,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import type { SkillUsageSummary } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 
 export interface SkillSlotData {
@@ -65,7 +65,7 @@ export function buildSlotData(
 
   return companionSkillSlots.ids.map((slotId) => {
     const skillId = skillBar[slotId]
-    const skill = skillId !== "no-skill" ? companionSkills.data[skillId] : undefined
+    const skill = skillId !== "no-skill" ? companionSkills().data[skillId] : undefined
     const summary = skill ? summaryMap.get(skillId) : undefined
 
     const damage = summary?.totalDamage ?? 0

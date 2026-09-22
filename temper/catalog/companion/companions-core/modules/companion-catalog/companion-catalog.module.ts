@@ -7,6 +7,7 @@ export const companionCatalog = {
   definition:
     "the companion skills and skill lines the pages hold, kept for a reader that cannot wait",
   code: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

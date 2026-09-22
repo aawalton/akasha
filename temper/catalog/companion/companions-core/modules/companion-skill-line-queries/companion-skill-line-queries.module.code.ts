@@ -1,14 +1,14 @@
 import { companionArmorSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import {
+  type CompanionSkillLineId,
+  companionSkillLineAt,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
   type CompanionWeaponTypeId,
   ONE_HANDED_MELEE_WEAPONS,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
-import {
-  type CompanionSkillLineId,
-  companionSkillLines,
-} from "akasha/temper/catalog/companion/companions-core/modules/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
 
 const WEAPON_SKILL_LINE: Partial<Record<CompanionWeaponTypeId, CompanionSkillLineId>> = {
   greatsword: "weapon-two-handed",
@@ -79,7 +79,7 @@ export function isCompanionSkillAvailable(
   skill: { skillLineId: CompanionSkillLineId },
   equipment: CompanionState["equipment"]
 ): boolean {
-  const skillLine = companionSkillLines.data[skill.skillLineId]
+  const skillLine = companionSkillLineAt(skill.skillLineId)
   const category = skillLine.category
 
   if (category === "class" || category === "guild") {

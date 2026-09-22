@@ -2,19 +2,17 @@
 
 import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
 import { CommandItem } from "akasha/design/interface/primitive/modules/command/command.module.code.tsx"
-import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
-import { isCompanionSkillAvailable } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-line-queries/companion-skill-line-queries.module.code.ts"
-import type { CompanionSkillSlotId } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
 import {
   type CompanionSkillId,
-  companionSkills,
-  getAllSkillsForCompanion,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
-import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import {
   type CompanionSkillLineId,
-  companionSkillLines,
-} from "akasha/temper/catalog/companion/companions-core/modules/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
+  companionSkillAt,
+  companionSkillLineAt,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { isCompanionSkillAvailable } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-line-queries/companion-skill-line-queries.module.code.ts"
+import { getAllSkillsForCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-queries/companion-skill-queries.module.code.ts"
+import type { CompanionSkillSlotId } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
+import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { CompanionSkillCard } from "akasha/temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"
 import {
   FilterableSelectDialog,
@@ -111,7 +109,7 @@ export function CompanionSkillSelectDialog({
     const categoryMap = new Map<string, Map<CompanionSkillLineId, CompanionSkillItem[]>>()
 
     for (const item of items) {
-      const skillLine = companionSkillLines.data[item.skillLineId]
+      const skillLine = companionSkillLineAt(item.skillLineId)
       const category = getCategoryDisplayName(skillLine.category)
 
       if (!categoryMap.has(category)) {
@@ -131,13 +129,13 @@ export function CompanionSkillSelectDialog({
       if (!skillLineMap || skillLineMap.size === 0) continue
 
       const sortedSkillLines = Array.from(skillLineMap.entries()).sort(([a], [b]) => {
-        const nameA = companionSkillLines.data[a].name
-        const nameB = companionSkillLines.data[b].name
+        const nameA = companionSkillLineAt(a).name
+        const nameB = companionSkillLineAt(b).name
         return nameA.localeCompare(nameB)
       })
 
       for (const [skillLineId, skillLineItems] of sortedSkillLines) {
-        const skillLineData = companionSkillLines.data[skillLineId]
+        const skillLineData = companionSkillLineAt(skillLineId)
         resultCategories.push({
           id: skillLineId,
           label: skillLineData.name,
@@ -159,7 +157,7 @@ export function CompanionSkillSelectDialog({
       showEffectFilter: false,
       filterItem: (item, searchTerm) => {
         const lower = searchTerm.toLowerCase()
-        const fullSkill = companionSkills.data[item.id]
+        const fullSkill = companionSkillAt(item.id)
         return (
           item.name.toLowerCase().includes(lower) ||
           fullSkill.description.toLowerCase().includes(lower) ||
@@ -167,7 +165,7 @@ export function CompanionSkillSelectDialog({
         )
       },
       renderItem: ({ item, onSelect: select }) => {
-        const fullSkill = companionSkills.data[item.id]
+        const fullSkill = companionSkillAt(item.id)
 
         return (
           <CommandItem key={item.id} value={item.id} onSelect={select} className="p-0">

@@ -1,4 +1,8 @@
 import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
+import {
+  type CompanionSkillId,
+  companionSkills,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import { activateLightAttack } from "akasha/temper/catalog/companion/companions-core/modules/companion-light-attack/companion-light-attack.module.code.ts"
 import {
   type CompanionMetricValue,
@@ -13,10 +17,6 @@ import {
   activateSkill,
   selectNextSkill,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-executor/companion-skill-executor.module.code.ts"
-import {
-  type CompanionSkillId,
-  companionSkills,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import type {
   HealthSamples,
   RotationConfig,
@@ -34,11 +34,10 @@ export function simulateCompanionRotation(
   metrics: readonly CompanionMetricValue[],
   config: RotationConfig = DEFAULT_ROTATION_CONFIG
 ): RotationResult {
+  const skills = companionSkills()
   const validSkillIds = skillIds.filter(
     (id) =>
-      id !== "no-skill" &&
-      companionSkills.has(id) &&
-      companionSkills.data[id].skillType !== "passive"
+      id !== "no-skill" && skills.data[id] !== undefined && skills.data[id]?.skillType !== "passive"
   )
 
   if (validSkillIds.length === 0) {

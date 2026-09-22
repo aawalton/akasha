@@ -1,13 +1,13 @@
+import {
+  type CompanionSkillId,
+  companionSkills,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import { extractFormulaComponents } from "akasha/temper/catalog/companion/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.code.ts"
 import {
   getSkillCastTime,
   getSkillCooldown,
   getSkillUltimateCost,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
-import {
-  type CompanionSkillId,
-  companionSkills,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import type {
   RotationCategory,
   RotationState,
@@ -16,7 +16,7 @@ import type {
 import type { TargetType } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 
 function classifySkill(skillId: CompanionSkillId): RotationCategory {
-  const skill = companionSkills.data[skillId]
+  const skill = companionSkills().data[skillId]
   if (skill?.skillType === "ultimate") {
     return "ultimate"
   }
@@ -34,7 +34,7 @@ const UPTIME_EFFECT_TYPES = new Set([
 ])
 
 function getSkillEffectDuration(skillId: CompanionSkillId, buffDurationMod = 0): number {
-  const skill = companionSkills.data[skillId]
+  const skill = companionSkills().data[skillId]
   if (!skill) return 0
 
   let maxDuration = 0
@@ -64,7 +64,7 @@ function getSkillHealType(skillId: CompanionSkillId): SkillHealType {
   let healType = skillHealTypeCache.get(skillId)
   if (healType !== undefined) return healType
 
-  const skill = companionSkills.data[skillId]
+  const skill = companionSkills().data[skillId]
   if (!skill) {
     skillHealTypeCache.set(skillId, "no-heal")
     return "no-heal"
@@ -107,7 +107,7 @@ export function initializeState(skillIds: readonly CompanionSkillId[]): Rotation
   const skillStates = new Map<CompanionSkillId, SkillState>()
 
   for (const skillId of skillIds) {
-    const skill = companionSkills.data[skillId]
+    const skill = companionSkills().data[skillId]
     const category = classifySkill(skillId)
     const castConditions = skill && "castConditions" in skill ? (skill.castConditions ?? []) : []
     let ultimateCost = 0

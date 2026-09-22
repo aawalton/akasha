@@ -1,11 +1,11 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
   type CompanionMetricValue,
   companionMetrics,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
-import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import type { CompanionValueFormula } from "akasha/temper/catalog/companion/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
 import type { RotationResult } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
@@ -64,7 +64,7 @@ export function computeDpsMetrics(
     if (summary.uptime <= 0) continue
     if (summary.skillId === "light-attack") continue
 
-    const skill = companionSkills.data[summary.skillId]
+    const skill = companionSkills().data[summary.skillId]
     if (!skill) continue
 
     const effects: readonly CompanionEffect[] = skill.effects
@@ -233,7 +233,7 @@ export function computeTpsMetrics(
     if (summary.uptime <= 0) continue
     if (summary.skillId === "light-attack") continue
 
-    const skill = companionSkills.data[summary.skillId]
+    const skill = companionSkills().data[summary.skillId]
     if (!skill) continue
 
     const effects: readonly CompanionEffect[] = skill.effects

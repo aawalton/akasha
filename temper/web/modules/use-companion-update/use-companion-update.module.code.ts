@@ -5,7 +5,7 @@ import {
 import {
   getDefaultUltimateForCompanion,
   isSkillValidForCompanion,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-queries/companion-skill-queries.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { useCallback } from "react"

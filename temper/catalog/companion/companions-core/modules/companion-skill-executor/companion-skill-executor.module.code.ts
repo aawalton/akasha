@@ -1,4 +1,4 @@
-import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
+import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import { evaluateCondition } from "akasha/temper/catalog/companion/companions-core/modules/condition-evaluator/condition-evaluator.module.code.ts"
 import type {
   HealthSamples,
@@ -9,6 +9,8 @@ import {
   COMPANION_GCD_DURATION,
   ULTIMATE_GENERATION_WINDOW_DURATION,
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
+
+const SELF_HEAL_TARGETS: ReadonlySet<string> = new Set(["self", "self-and-ally", "self-or-ally"])
 
 function isSkillAvailable(state: RotationState, skillState: SkillState): boolean {
   if (state.currentTime < state.castEndsAt) {
@@ -38,7 +40,7 @@ export function activateSkill(
   weaponPower: number
 ): undefined {
   const skillId = ss.skillId
-  const skill = companionSkills.data[skillId]
+  const skill = companionSkills().data[skillId]
   const { castTime } = ss
 
   const effectiveCooldown = ss.baseCooldown * (1 + abilityCooldownMod)
@@ -76,9 +78,7 @@ export function activateSkill(
     for (const effect of skill.effects) {
       if (effect.type === "light-attack-heal") {
         const effectStartTime = castTime > 0 ? state.castEndsAt : state.currentTime
-        const healsSelf = (["self", "self-and-ally", "self-or-ally"] as const).includes(
-          effect.target.type
-        )
+        const healsSelf = SELF_HEAL_TARGETS.has(effect.target.type)
         const effectiveDuration = effect.duration * (1 + buffDurationMod)
         const healPerHit =
           effect.formula.type === "metric-scaling" ? effect.formula.coefficient * weaponPower : 0

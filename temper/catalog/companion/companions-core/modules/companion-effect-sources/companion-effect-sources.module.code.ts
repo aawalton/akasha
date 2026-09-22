@@ -1,12 +1,12 @@
 import { getCompanionArmorBaseValue } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
+import {
+  type CompanionSkillId,
+  companionSkillAt,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import type { CompanionMetricEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-effect/companion-metric-effect.module.code.ts"
 import { getCompanionPassiveEffects } from "akasha/temper/catalog/companion/companions-core/modules/companion-passive-effects/companion-passive-effects.module.code.ts"
-import {
-  type CompanionSkillId,
-  companionSkills,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import { getCompanionTraitMetricEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
@@ -173,7 +173,7 @@ export function extractSkillSources(build: CompanionState): readonly CompanionEf
     if (count === 0) continue
 
     const passiveId = ARMOR_WEIGHT_PASSIVE_MAP[weight]
-    const skill = companionSkills.data[passiveId]
+    const skill = companionSkillAt(passiveId)
     const effects: CompanionMetricEffect[] = []
 
     for (const effect of skill.effects) {

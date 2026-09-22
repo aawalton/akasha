@@ -151,6 +151,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"persona/modules/targets/persona-targets.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/addon/build/modules/lua-build-command/lua-build-command.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/declaration/modules/eso-opt-in/eso-opt-in.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"}

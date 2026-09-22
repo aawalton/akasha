@@ -1,13 +1,13 @@
 import type { CompanionBaseRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import {
+  type CompanionSkillId,
+  companionSkillAt,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
   type CompanionSkillSlotId,
   companionSkillSlots,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
-import {
-  type CompanionSkillId,
-  companionSkills,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import { calculateCompanionStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-stats-calculator/companion-stats-calculator.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 
@@ -34,7 +34,7 @@ function sanitizeSkillBar(state: CompanionState): CompanionState {
   for (const slotId of companionSkillSlots.ids) {
     const skillId = skillBar[slotId]
     if (skillId !== NO_SKILL) {
-      const { validRoles } = companionSkills.data[skillId]
+      const { validRoles } = companionSkillAt(skillId)
       if (validRoles.length > 0 && !validRoles.some((r) => roles.includes(r))) {
         sanitized[slotId] = NO_SKILL
         changed = true

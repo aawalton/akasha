@@ -1,14 +1,14 @@
-import type { CompanionMetricEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-effect/companion-metric-effect.module.code.ts"
-import { isCompanionPassiveStatEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import {
   type CompanionSkillId,
   companionSkills,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+import type { CompanionMetricEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-effect/companion-metric-effect.module.code.ts"
+import { isCompanionPassiveStatEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 
 export function getCompanionPassiveEffects(
   skillId: CompanionSkillId
 ): readonly CompanionMetricEffect[] {
-  const skill = companionSkills.data[skillId]
+  const skill = companionSkills().data[skillId]
   if (!skill || skill.skillType !== "passive") {
     return []
   }

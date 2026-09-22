@@ -1,6 +1,6 @@
+import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import { companionMetrics } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
-import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import type { CompanionStatsResult } from "akasha/temper/catalog/companion/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts"
 import { accumulateDamageBuffDelta } from "akasha/temper/catalog/companion/companions-core/modules/companion-support-buff-math/companion-support-buff-math.module.code.ts"
 import {
@@ -21,7 +21,7 @@ export function extractAllyVisibleBuffUptimes(
   for (const summary of rotation.skillSummaries) {
     if (summary.uptime <= 0 || summary.skillId === "light-attack") continue
 
-    const skill = companionSkills.data[summary.skillId]
+    const skill = companionSkills().data[summary.skillId]
     if (!skill) continue
 
     const effects: readonly CompanionEffect[] = skill.effects

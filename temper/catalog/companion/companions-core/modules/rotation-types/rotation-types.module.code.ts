@@ -1,4 +1,4 @@
-import type { CompanionSkillId } from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
+import type { CompanionSkillId } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type {
   DamageType,
   EffectCondition,

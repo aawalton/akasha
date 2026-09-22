@@ -1,7 +1,7 @@
+import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import { extractFormulaComponents } from "akasha/temper/catalog/companion/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.code.ts"
 import { calculateLightAttackDamage } from "akasha/temper/catalog/companion/companions-core/modules/companion-light-attack/companion-light-attack.module.code.ts"
 import { classifyHealingTarget } from "akasha/temper/catalog/companion/companions-core/modules/companion-rotation-state/companion-rotation-state.module.code.ts"
-import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
 import { calculateEffectiveMultiplier } from "akasha/temper/catalog/companion/companions-core/modules/condition-evaluator/condition-evaluator.module.code.ts"
 import type {
   DamageBreakdown,
@@ -68,7 +68,7 @@ export function calculateResults(
   let totalAoeDamage = 0
 
   for (const [skillId, skillState] of state.skillStates) {
-    const skill = companionSkills.data[skillId]
+    const skill = companionSkills().data[skillId]
     const components = skill
       ? extractFormulaComponents(skill, {
           damageTakenFrequency: config.damageTakenFrequency,

@@ -1,13 +1,13 @@
 "use client"
 
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
-import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
-import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
-import { companionSkillSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
 import {
   type CompanionSkillId,
   companionSkills,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { companionSkillSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
 import { CompanionSkillSlotCard } from "akasha/temper/web/modules/companion-skill-slot-card/companion-skill-slot-card.module.code.tsx"
 import { CompanionUltimateSlotCard } from "akasha/temper/web/modules/companion-ultimate-slot-card/companion-ultimate-slot-card.module.code.tsx"
 
@@ -44,7 +44,7 @@ export function CompanionSkillBarPanelCard({
 }: CompanionSkillBarPanelCardProps) {
   const findSkill = (skillId: CompanionSkillId): CompanionSkillTemplate | undefined => {
     if (skillId === "no-skill") return undefined
-    return companionSkills.data[skillId]
+    return companionSkills().data[skillId]
   }
 
   return (

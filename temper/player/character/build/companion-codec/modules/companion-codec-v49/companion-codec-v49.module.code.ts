@@ -21,9 +21,9 @@ import {
   COMPANION_ARMOR_WEIGHT_BITS,
   COMPANION_BITS,
   COMPANION_QUALITY_BITS,
-  COMPANION_SKILL_BITS,
   COMPANION_TRAIT_BITS,
   COMPANION_WEAPON_TYPE_BITS,
+  companionSkillBits,
   getCompanionArmorWeightId,
   getCompanionArmorWeightIndex,
   getCompanionId,
@@ -147,7 +147,7 @@ function encodeWeaponSlot(writer: BitWriterState, slot: CompanionWeaponSlotItem)
 function encodeSkills(writer: BitWriterState, build: CompanionState): undefined {
   for (const slotId of companionSkillSlots.ids) {
     const skillId = build.skills["skill-bar"][slotId]
-    writeBits(writer, getCompanionSkillIndex(skillId), COMPANION_SKILL_BITS)
+    writeBits(writer, getCompanionSkillIndex(skillId), companionSkillBits())
   }
 }
 
@@ -304,7 +304,7 @@ function decodeWeaponSlot(
 
 function decodeSkills(reader: BitReaderState): CompanionState["skills"] {
   const skillBar = recordFromKeys(companionSkillSlots.ids, () =>
-    getCompanionSkillId(readBits(reader, COMPANION_SKILL_BITS))
+    getCompanionSkillId(readBits(reader, companionSkillBits()))
   )
 
   return { "skill-bar": skillBar }

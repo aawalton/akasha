@@ -2,11 +2,11 @@
 
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { companionArmorSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
-import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import {
   type CompanionSkillId,
   companionSkills,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { CompanionSkillCard } from "akasha/temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"
@@ -44,11 +44,9 @@ export function CompanionPassiveSkillsPanelCard({
   equipment,
   stats,
 }: CompanionPassiveSkillsPanelCardProps) {
+  const skills = companionSkills()
   const classPassiveId = companions.data[companionId].classPassiveId
-  const classPassive =
-    classPassiveId != null && companionSkills.has(classPassiveId)
-      ? companionSkills.data[classPassiveId]
-      : null
+  const classPassive = classPassiveId != null ? (skills.data[classPassiveId] ?? null) : null
 
   const armorCounts = countArmorByWeight(equipment)
 
@@ -56,7 +54,7 @@ export function CompanionPassiveSkillsPanelCard({
     .filter((weight) => armorCounts[weight] > 0)
     .map((weight) => ({
       weight,
-      skill: companionSkills.data[ARMOR_PASSIVES[weight]],
+      skill: skills.data[ARMOR_PASSIVES[weight]],
     }))
     .flatMap((item) => (item.skill ? [{ weight: item.weight, skill: item.skill }] : []))
 

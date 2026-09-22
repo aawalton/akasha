@@ -1,5 +1,5 @@
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
-import type { CompanionSkillLineId } from "akasha/temper/catalog/companion/companions-core/modules/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
+
 import type { EffectCondition as EffectConditionType } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 
 export interface ExtractedSkillTiming {
@@ -48,8 +48,8 @@ export interface CompanionSkillTemplate {
   id: string
   abilityId: number
   name: string
-  companionId: string
-  skillLineId: CompanionSkillLineId
+  companionId: string | null
+  skillLineId: string
   skillType: "active" | "passive" | "ultimate"
   description: string
   icon: string | null

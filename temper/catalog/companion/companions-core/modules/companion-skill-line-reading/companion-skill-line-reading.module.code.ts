@@ -1,12 +1,13 @@
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { textIn } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-reading/companion-skill-reading.module.code.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
 
 export type CompanionSkillLineCategory = "class" | "weapon" | "guild" | "armor"
 
-export interface CompanionSkillLine {
+export interface CompanionSkillLineTemplate {
   readonly id: string
-  readonly title: string
+  readonly name: string
   readonly companionId: string | null
   readonly category: CompanionSkillLineCategory
 }
@@ -20,23 +21,18 @@ function categoryIn(said: unknown, at: string): CompanionSkillLineCategory {
   throw new Error(`${at} states \`${String(said)}\`, and a skill line is ${CATEGORIES.join(", ")}`)
 }
 
-function titleIn(said: unknown, at: string): string {
-  if (typeof said === "string" && said !== "") return said
-  throw new Error(`${at} states no title`)
-}
-
-export async function readCompanionSkillLines(): Promise<readonly CompanionSkillLine[]> {
+export async function readCompanionSkillLines(): Promise<readonly CompanionSkillLineTemplate[]> {
   const { rows } = await getPages({
     pageTypeSlug: temperCompanionSkillLine.slug,
-    select: ["slug", "title", "category", "companionId", "displayOrder"],
+    select: ["slug", "key", "title", "category", "companionId", "displayOrder"],
     order: [{ by: "displayOrder", dir: "asc" }],
     limit: 500,
   })
   return rows.map((row) => {
     const at = row.slug ?? row.id
     return {
-      id: at,
-      title: titleIn(row.title, at),
+      id: textIn(row.key, "key", at),
+      name: textIn(row.title, "title", at),
       companionId: slugAt(row, "companionId"),
       category: categoryIn(row.category, at),
     }

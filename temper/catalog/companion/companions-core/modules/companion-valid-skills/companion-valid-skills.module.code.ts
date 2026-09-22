@@ -2,12 +2,12 @@ import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/ass
 import { getArmorWeightForBaseRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type CompanionSkillId,
+  companionSkillLineAt,
   companionSkills,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { getWeaponRole } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
 import { companionWeaponRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
-import { companionSkillLines } from "akasha/temper/catalog/companion/companions-core/modules/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
 
 const NO_SKILL: CompanionSkillId = "no-skill"
 
@@ -19,13 +19,13 @@ export function getValidSkillIds(state: CompanionState): readonly CompanionSkill
 
   const slottedSkills = new Set(Object.values(state.skills["skill-bar"]))
 
-  return companionSkills.list
-    .filter((skill) => {
+  return companionSkills()
+    .list.filter((skill) => {
       if (skill.id === NO_SKILL) return false
       if (skill.skillType !== "active") return false
       if (slottedSkills.has(skill.id)) return false
 
-      const line = companionSkillLines.data[skill.skillLineId]
+      const line = companionSkillLineAt(skill.skillLineId)
 
       switch (line.category) {
         case "class":
@@ -37,7 +37,7 @@ export function getValidSkillIds(state: CompanionState): readonly CompanionSkill
         case "guild":
           return true
         default:
-          assertNever(line)
+          assertNever(line.category)
       }
     })
     .map((skill) => skill.id)
