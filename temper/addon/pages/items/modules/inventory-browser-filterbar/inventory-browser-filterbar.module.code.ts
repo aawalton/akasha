@@ -1,7 +1,4 @@
-import {
-  TEXT_PRIMARY,
-  TEXT_SECONDARY,
-} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
+import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { BROWSER_CATEGORIES } from "akasha/temper/addon/pages/items/modules/inventory-browser-category-defs/inventory-browser-category-defs.module.code.ts"
 import type {
   BrowserFilterState,
@@ -13,8 +10,10 @@ import type {
 import { BROWSER_QUALITY_ANY } from "akasha/temper/addon/pages/items/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
 import {
   type BarButton,
+  CONTROL_LEVEL,
   setButtonActive,
 } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
+import { paintSurface } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
@@ -68,9 +67,7 @@ function makeButton(
   const backdrop = WINDOW_MANAGER.CreateControl(`${name}BG`, parent, CT_BACKDROP)
   backdrop.SetAnchor(TOPLEFT, parent, TOPLEFT, x, y)
   backdrop.SetDimensions(w, h)
-  backdrop.SetCenterColor(0, 0, 0, 0.6)
-  backdrop.SetEdgeColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 0.6)
-  backdrop.SetEdgeTexture(undefined, 1, 1, 1)
+  paintSurface(backdrop, CONTROL_LEVEL)
 
   const label = WINDOW_MANAGER.CreateControl(`${name}Label`, backdrop, CT_LABEL)
   label.SetAnchorFill()
@@ -101,9 +98,7 @@ function makeEditBox(
   const bg = WINDOW_MANAGER.CreateControl(`${name}BG`, parent, CT_BACKDROP)
   bg.SetAnchor(TOPLEFT, parent, TOPLEFT, x, y)
   bg.SetDimensions(w, h)
-  bg.SetCenterColor(0, 0, 0, 0.6)
-  bg.SetEdgeColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 0.6)
-  bg.SetEdgeTexture(undefined, 1, 1, 1)
+  paintSurface(bg, CONTROL_LEVEL)
 
   const edit = WINDOW_MANAGER.CreateControl(name, parent, CT_EDITBOX)
   edit.SetAnchor(TOPLEFT, bg, TOPLEFT, 4, 0)

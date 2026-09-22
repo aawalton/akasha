@@ -30,6 +30,14 @@ export const filterBarControls = {
         "A control name is built from the filter id with every non-word character replaced.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A filter holding a value is shown by raising its control two surface levels.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No control here is edged, because the game edges nothing without a texture.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here places a row within the panel.",
     },

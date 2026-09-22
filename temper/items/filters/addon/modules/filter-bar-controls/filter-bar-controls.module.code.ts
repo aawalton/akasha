@@ -18,11 +18,17 @@ import type {
   FilterEditorOption,
   FilterRangeValue,
 } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
+import {
+  paintSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
-const COLOR_ACTIVE = [0.55, 0.78, 0.4] as const
+export const CONTROL_LEVEL: SurfaceLevel = 2
+
+const ACTIVE_LEVEL: SurfaceLevel = 4
 
 export const PADDING_X = 10
 export const PADDING_Y = 6
@@ -68,9 +74,6 @@ export function createBarButton(
   const backdrop = WINDOW_MANAGER.CreateControl(`${name}BG`, parent, CT_BACKDROP)
   backdrop.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PADDING_Y)
   backdrop.SetDimensions(width, CONTROL_HEIGHT)
-  backdrop.SetCenterColor(0, 0, 0, 0.6)
-  backdrop.SetEdgeColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 0.6)
-  backdrop.SetEdgeTexture(undefined, 1, 1, 1)
 
   const caption = WINDOW_MANAGER.CreateControl(`${name}Label`, backdrop, CT_LABEL)
   caption.SetAnchorFill()
@@ -101,9 +104,7 @@ export function createEditBox(
   const boxBg = WINDOW_MANAGER.CreateControl(`${name}BG`, parent, CT_BACKDROP)
   boxBg.SetAnchor(TOPLEFT, parent, TOPLEFT, xOffset, PADDING_Y)
   boxBg.SetDimensions(width, CONTROL_HEIGHT)
-  boxBg.SetCenterColor(0, 0, 0, 0.6)
-  boxBg.SetEdgeColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 0.6)
-  boxBg.SetEdgeTexture(undefined, 1, 1, 1)
+  paintSurface(boxBg, CONTROL_LEVEL)
 
   const edit = WINDOW_MANAGER.CreateControl(name, parent, CT_EDITBOX)
   edit.SetAnchor(TOPLEFT, boxBg, TOPLEFT, 4, 0)
@@ -120,11 +121,7 @@ export function createEditBox(
 }
 
 export function setButtonActive(bar: BarButton, active: boolean): undefined {
-  if (active) {
-    bar.backdrop.SetEdgeColor(COLOR_ACTIVE[0], COLOR_ACTIVE[1], COLOR_ACTIVE[2], 1)
-  } else {
-    bar.backdrop.SetEdgeColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 0.6)
-  }
+  paintSurface(bar.backdrop, active ? ACTIVE_LEVEL : CONTROL_LEVEL)
 }
 
 export function buildTextEditor(
