@@ -9,7 +9,7 @@ import {
   textNamed,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { textIn, textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
+import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { lua50Config } from "akasha/code/lua-runtime-library/properties/lua50-config.file-property.ts"
 import { universalConfig } from "akasha/code/lua-runtime-library/properties/universal-config.file-property.ts"
 import { specifiersIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
@@ -73,23 +73,36 @@ export function builtFrom(path: string): boolean {
   return textNamed(path) || manifested(path)
 }
 
-function landingsIn(change: Change): readonly string[] {
+type Reader = (path: string) => string | null
+
+function landingsOver(paths: readonly string[], reads: readonly Reader[]): readonly string[] {
   const found = new Set<string>()
-  for (const at of change.changed) {
+  for (const at of paths) {
     if (!manifested(at)) continue
     const folder = dirname(at)
-    for (const bytes of [change.before(at), change.after(at)]) {
-      if (bytes === null) continue
-      for (const [, path] of reachesIn(folder, textIn(bytes))) found.add(path)
+    for (const read of reads) {
+      const text = read(at)
+      if (text === null) continue
+      for (const [, path] of reachesIn(folder, text)) found.add(path)
     }
   }
-  const held = [...found].filter((one) => change.before(one) !== null || change.after(one) !== null)
+  const held = [...found].filter((one) => reads.some((read) => read(one) !== null))
   return held.sort()
 }
 
+function reachingOver(
+  paths: readonly string[],
+  reads: readonly Reader[],
+  index: Answering
+): Set<string> {
+  const seeds = [...paths, ...landingsOver(paths, reads)]
+  return new Set(closureOf(importers, seeds, { index, through: compiled }))
+}
+
 export function reachedBy(change: Change, shadow: Shadow): readonly string[] {
-  const seeds = [...change.changed, ...landingsIn(change)]
-  const found = new Set(closureOf(importers, seeds, { index: shadow.index, through: compiled }))
+  const was: Reader = (one) => textOf(change.before(one))
+  const now: Reader = (one) => textOf(change.after(one))
+  const found = reachingOver(change.changed, [was, now], shadow.index)
   const gone = change.changed.filter((one) => compiled(one) && change.after(one) === null)
   if (gone.length === 0) return [...found].sort()
   for (const one of closureOf(importers, gone, { index: shadow.before(), through: compiled })) {
@@ -106,33 +119,29 @@ function generatedRoutes(path: string): boolean {
   return path.includes(GENERATED_AT)
 }
 
-export function rootsOf(change: Change, shadow: Shadow): readonly string[] {
+function rootsIn(reached: readonly string[], read: Reader): readonly string[] {
   const found: string[] = []
-  for (const one of reachedBy(change, shadow)) {
-    const bytes = change.after(one)
-    if (bytes === null) continue
+  for (const one of reached) {
+    const text = read(one)
+    if (text === null) continue
     if (generatedRoutes(one)) continue
-    if (reachesTypegen(one, textIn(bytes))) continue
+    if (reachesTypegen(one, text)) continue
     found.push(one)
   }
   return found
 }
 
-function bodiesOf(
-  change: Change,
-  minting: Minting,
+export function rootsOf(change: Change, shadow: Shadow): readonly string[] {
+  return rootsIn(reachedBy(change, shadow), (one) => textOf(change.after(one)))
+}
+
+function bodiesOver(
+  root: string,
+  read: Reader,
   placed: Placing
 ): (at: string) => string | undefined {
-  const root = resolve(change.root)
   const held = new Map<string, string | undefined>()
-  const base = readingOf(
-    root,
-    (rel) => {
-      const bytes = change.after(rel)
-      return bytes === null ? null : minting(rel, textIn(bytes))
-    },
-    placed
-  )
+  const base = readingOf(root, read, placed)
   return (path) => {
     const at = linkedOf(root, resolve(path), placed)
     if (held.has(at)) return held.get(at)
@@ -220,39 +229,46 @@ export function matching(one: string): RegExp {
   return new RegExp(`^${said}$`)
 }
 
-function librariesIn(change: Change, index: Answering): readonly string[] {
+function librariesOver(
+  paths: readonly string[],
+  read: Reader,
+  index: Answering
+): readonly string[] {
   const held = new Set(index.everyOfType(LIBRARY).map((one) => one.path))
   const under = new Set([LIBRARY])
-  for (const one of change.changed) if (namedUnder(one, under) !== null) held.add(one)
-  return [...held].filter((one) => change.after(one) !== null)
+  for (const one of paths) if (namedUnder(one, under) !== null) held.add(one)
+  return [...held].filter((one) => read(one) !== null)
 }
 
-export function claimedIn(change: Change, index: Answering): (path: string) => boolean {
+function claimingOver(
+  paths: readonly string[],
+  read: Reader,
+  index: Answering
+): (path: string) => boolean {
   const held: RegExp[] = []
-  for (const listed of librariesIn(change, index)) {
+  for (const listed of librariesOver(paths, read, index)) {
     const folder = dirname(listed)
     for (const name of CONFIGS) {
-      const bytes = change.after(join(folder, name))
-      if (bytes === null) continue
-      const said = JSON.parse(textIn(bytes)) as Configured
+      const text = read(join(folder, name))
+      if (text === null) continue
+      const said = JSON.parse(text) as Configured
       for (const each of said.include ?? []) held.push(matching(join(folder, each)))
     }
   }
   return (path) => held.some((one) => one.test(path))
 }
 
-async function foundIn(given: Change, shadow: Shadow, whole: boolean): Promise<readonly Found[]> {
-  const change = holdingOver(given)
-  const reached = rootsOf(change, shadow)
-  if (reached.length === 0) return []
-  const claimed = claimedIn(change, shadow.index)
-  const named = reached.filter((one) => !claimed(one))
-  if (named.length === 0) return []
-  const root = resolve(change.root)
-  const beside = shadow.index.manifestsBeside(shadow.index.fileKeysAt())
-  const manifests = [...new Set([...beside, ...change.changed])]
-  const placed = placingOver(manifests, (one) => textOf(change.after(one)))
-  const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index), placed)
+export function claimedIn(change: Change, index: Answering): (path: string) => boolean {
+  return claimingOver(change.changed, (one) => textOf(change.after(one)), index)
+}
+
+async function foundOver(
+  root: string,
+  named: readonly string[],
+  read: (name: string) => string | undefined,
+  placed: Placing,
+  whole: boolean
+): Promise<readonly Found[]> {
   const at = join(root, CONFIG_NAME)
   const config = configOf(root, named, whole)
   const readFile = servingOf(root, at, config, read, placed)
@@ -282,21 +298,70 @@ async function foundIn(given: Change, shadow: Shadow, whole: boolean): Promise<r
   }
 }
 
+async function foundIn(given: Change, shadow: Shadow, whole: boolean): Promise<readonly Found[]> {
+  const change = holdingOver(given)
+  const reached = rootsOf(change, shadow)
+  if (reached.length === 0) return []
+  const claimed = claimedIn(change, shadow.index)
+  const named = reached.filter((one) => !claimed(one))
+  if (named.length === 0) return []
+  const root = resolve(change.root)
+  const beside = shadow.index.manifestsBeside(shadow.index.fileKeysAt())
+  const manifests = [...new Set([...beside, ...change.changed])]
+  const now: Reader = (one) => textOf(change.after(one))
+  const placed = placingOver(manifests, now)
+  const minting: Minting = mintingIn(change, [...waitingKeys(shadow)], shadow.index)
+  const minted: Reader = (rel) => {
+    const text = now(rel)
+    return text === null ? null : minting(rel, text)
+  }
+  return await foundOver(root, named, bodiesOver(root, minted, placed), placed, whole)
+}
+
+async function foundFor(
+  root: string,
+  paths: readonly string[],
+  read: Reader,
+  index: Answering
+): Promise<readonly Found[]> {
+  const reached = rootsIn([...reachingOver(paths, [read], index)].sort(), read)
+  if (reached.length === 0) return []
+  const claimed = claimingOver(paths, read, index)
+  const named = reached.filter((one) => !claimed(one))
+  if (named.length === 0) return []
+  const at = resolve(root)
+  const manifests = [...new Set([...index.manifestsBeside(index.fileKeysAt()), ...paths])]
+  const placed = placingOver(manifests, read)
+  return await foundOver(at, named, bodiesOver(at, read, placed), placed, true)
+}
+
+function judgedOver(found: readonly Found[], held: ReadonlySet<string>): readonly Judged[] {
+  const seen = new Set<string>()
+  const said: Judged[] = []
+  for (const one of found) {
+    if (generatedRoutes(one.path)) continue
+    const key = `${one.path}\n${one.reason}`
+    if (seen.has(key)) continue
+    seen.add(key)
+    const reason = held.has(one.path) ? one.reason : `${one.reason} — ${ELSEWHERE}`
+    said.push({ path: one.path, reason })
+  }
+  return said
+}
+
 export async function refusalsOver(
   change: Change,
   shadow: Shadow,
   whole = false
 ): Promise<readonly Judged[]> {
-  const changed = new Set(change.changed)
-  const seen = new Set<string>()
-  const said: Judged[] = []
-  for (const one of await foundIn(change, shadow, whole)) {
-    if (generatedRoutes(one.path)) continue
-    const key = `${one.path}\n${one.reason}`
-    if (seen.has(key)) continue
-    seen.add(key)
-    const reason = changed.has(one.path) ? one.reason : `${one.reason} — ${ELSEWHERE}`
-    said.push({ path: one.path, reason })
-  }
-  return said
+  return judgedOver(await foundIn(change, shadow, whole), new Set(change.changed))
+}
+
+export async function refusalsFor(
+  root: string,
+  paths: readonly string[],
+  read: (path: string) => string | null,
+  index: Answering
+): Promise<readonly Judged[]> {
+  return judgedOver(await foundFor(root, paths, read, index), new Set(paths))
 }
