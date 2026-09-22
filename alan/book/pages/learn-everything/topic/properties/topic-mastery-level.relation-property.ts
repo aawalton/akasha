@@ -5,7 +5,7 @@ export const topicMasteryLevel = {
   type: "page-type/relation-property",
   slug: "topic-mastery-level",
   propertySlug: "mastery-level",
-  definition: "the rung a topic is scored at",
+  definition: "the rung at which a topic is scored",
   targetPageType: "page-type/mastery-level",
   decisions: [
     {

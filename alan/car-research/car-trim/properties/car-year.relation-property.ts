@@ -5,7 +5,7 @@ export const carYear = {
   type: "page-type/relation-property",
   slug: "car-year",
   propertySlug: "car-year",
-  definition: "the model year this trim is sold in",
+  definition: "this trim's model year",
   targetPageType: "page-type/car-year",
   types: "ts",
 } as const satisfies RelationProperty

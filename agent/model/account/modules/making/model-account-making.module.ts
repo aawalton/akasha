@@ -4,7 +4,7 @@ export const modelAccountMaking = {
   id: "01a0686c-6c89-7001-b558-43fec5b9b833",
   type: "page-type/module",
   slug: "model-account-making",
-  definition: "making the page a new model-account is reached by",
+  definition: "making a new model-account's page",
   code: "ts",
   test: "ts",
   decisions: [

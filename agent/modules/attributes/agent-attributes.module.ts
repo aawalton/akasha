@@ -4,8 +4,7 @@ export const agentAttributes = {
   id: "01a06949-b281-754d-abc3-b81859567424",
   type: "page-type/module",
   slug: "agent-attributes",
-  definition:
-    "the persona, domain and role declared of an agent, with the mode its session started in",
+  definition: "the persona, domain and role declared of an agent, with its session's start mode",
   code: "ts",
   decisions: [
     {

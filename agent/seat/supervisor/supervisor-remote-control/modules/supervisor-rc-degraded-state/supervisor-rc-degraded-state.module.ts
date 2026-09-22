@@ -5,7 +5,7 @@ export const supervisorRcDegradedState = {
   type: "page-type/module",
   slug: "supervisor-rc-degraded-state",
   definition:
-    "the streak and the alert latch a seat's remote control reading is carried between ticks in",
+    "the streak and the alert latch in which a seat's remote control reading is carried between ticks",
   code: "ts",
   decisions: [
     {

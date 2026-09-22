@@ -4,7 +4,7 @@ export const providerUpstream = {
   id: "01a0a545-fe20-78a2-8aab-bd467841ffcd",
   type: "page-type/module",
   slug: "provider-upstream",
-  definition: "the base, key and model a gateway sends a provider a request with",
+  definition: "the base, key and model with which a gateway sends a provider a request",
   code: "ts",
   test: "ts",
   decisions: [

@@ -5,7 +5,7 @@ export const source = {
   type: "page-type/select-property",
   slug: "source",
   propertySlug: "source",
-  definition: "where a collection was imported from",
+  definition: "the provider from which a collection was imported",
   values: [
     "kindle",
     "musicbrainz",

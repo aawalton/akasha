@@ -5,7 +5,7 @@ export const gameUrl = {
   type: "page-type/url-property",
   slug: "game-url",
   propertySlug: "game-url",
-  definition: "the game a puzzle was taken from",
+  definition: "the game from which a puzzle was taken",
   maxLength: 200,
   types: "ts",
 } as const satisfies UrlProperty

@@ -5,7 +5,7 @@ export const rescuedExpiresAtMs = {
   type: "page-type/number-property",
   slug: "rescued-expires-at-ms",
   propertySlug: "expires-at-ms",
-  definition: "the milliseconds since the epoch a rescued access token expires at",
+  definition: "the milliseconds since the epoch at which a rescued access token expires",
   max: null,
   decisions: [
     {

@@ -5,7 +5,7 @@ export const sources = {
   type: "page-type/text-property",
   slug: "sources",
   propertySlug: "sources",
-  definition: "where what is written here was read from",
+  definition: "the sources of what is written here",
   maxLength: 20000,
   nameFormat: null,
   types: "ts",

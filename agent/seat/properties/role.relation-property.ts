@@ -5,7 +5,7 @@ export const role = {
   type: "page-type/relation-property",
   slug: "role",
   propertySlug: "role",
-  definition: "the role a persona works in, or a seat is answerable for",
+  definition: "the role in which a persona works, or for which a seat is answerable",
   targetPageType: "page-type/role",
   types: "ts",
 } as const satisfies RelationProperty
