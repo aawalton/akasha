@@ -22,7 +22,7 @@ export const deployIosShipping = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads the worktree.",
+      statement: "Nothing here reads the files on disk.",
     },
     {
       decisionKind: "decision-kind/departure",

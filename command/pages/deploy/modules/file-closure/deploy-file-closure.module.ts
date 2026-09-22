@@ -55,7 +55,7 @@ export const deployFileClosure = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The files are read out of the commit being put up rather than off the worktree.",
+      statement: "The files are read out of the commit being put up rather than off the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",

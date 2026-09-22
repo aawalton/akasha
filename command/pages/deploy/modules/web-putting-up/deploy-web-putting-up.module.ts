@@ -31,7 +31,7 @@ export const deployWebPuttingUp = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An install is proved against the manifests the commit tracks rather than against the worktree.",
+        "An install is proved against the manifests the commit tracks rather than against the files on disk.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -110,7 +110,7 @@ export const deployWebPuttingUp = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A change standing only in the worktree is not built.",
+      statement: "A change only the files on disk carry is not built.",
     },
     {
       decisionKind: "decision-kind/absence",

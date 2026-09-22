@@ -42,7 +42,7 @@ export const deployCheckJudging = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body is read out of the commit it belongs to rather than off the worktree.",
+      statement: "A body is read out of the commit it belongs to rather than off the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
