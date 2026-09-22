@@ -2,6 +2,9 @@ import { decideRemoteControlBatch } from "akasha/agent/claude-code/remote-contro
 import { decideRcDegradedBatch } from "akasha/agent/claude-code/remote-control/modules/degraded-decide/claude-code-remote-control-degraded-decide.module.code.ts"
 import { decideClaimedRedelivery } from "akasha/agent/message/modules/supervisor-claimed-redelivery-decide/agent-message-supervisor-claimed-redelivery-decide.module.code.ts"
 import { notices } from "akasha/agent/message/notice/modules/compose-notices/compose-notices.module.code.ts"
+import { restartDeferred } from "akasha/agent/message/notice/pages/restart-deferred/restart-deferred.agent-message-notice.ts"
+import { restartImmediate } from "akasha/agent/message/notice/pages/restart-immediate/restart-immediate.agent-message-notice.ts"
+import { restartRecoveryClause } from "akasha/agent/message/notice/pages/restart-recovery-clause/restart-recovery-clause.agent-message-notice.ts"
 import {
   parseClaimedRedelivery,
   parseLimitResume,
@@ -51,9 +54,9 @@ function requireNotice(all: Readonly<Record<string, string>>, key: string): stri
 function resumeNotices(): ResumeNotices {
   const all = notices()
   return {
-    "restart-immediate": requireNotice(all, "restart-immediate"),
-    "restart-deferred": requireNotice(all, "restart-deferred"),
-    "restart-recovery-clause": requireNotice(all, "restart-recovery-clause"),
+    [restartImmediate.slug]: requireNotice(all, restartImmediate.slug),
+    [restartDeferred.slug]: requireNotice(all, restartDeferred.slug),
+    [restartRecoveryClause.slug]: requireNotice(all, restartRecoveryClause.slug),
   }
 }
 
