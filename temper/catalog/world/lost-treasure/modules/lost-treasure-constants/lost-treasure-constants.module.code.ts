@@ -1,3 +1,4 @@
+import { ADDON_NAME as WORLD_ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
 import { registerUiStrings } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-ui-strings/lost-treasure-ui-strings.module.code.ts"
 import "akasha/temper/catalog/world/lost-treasure/lost-treasure-string-ids/lost-treasure-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-manager/eso-addon-manager.type-declaration.d.ts"
@@ -78,7 +79,7 @@ function getAddOnInfo(this: void): AddOnInfo {
   const numAddOns = addOnManager.GetNumAddOns()
   for (let i = 1; i <= numAddOns; i += 1) {
     const [name, , author] = addOnManager.GetAddOnInfo(i)
-    if (name === ADDON_NAME) {
+    if (name === WORLD_ADDON_NAME) {
       return { author, version: addOnManager.GetAddOnVersion(i) }
     }
   }
