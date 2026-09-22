@@ -20,7 +20,7 @@ export const dallaResourceManagement = {
     {
       statement: "Every audit collects the files that audit judges rather than listing the tree.",
       workingMemory:
-        "Fifty-five of the sixty-six audit code files call `everythingIn` or an `overEvery` runner themselves, so the tree is walked once for the round and again for each check, about 1.5s each. For `phone-number-is-e164` the case set is 726 paths, which `rg --files` globbed to the five carrying page types answers in 0.135s against 285,471 paths in 0.482s. Ripgrep skips ignored files, and `everyFileInside` adds back the ignored-but-held ones `heldThough` keeps.",
+        "A body comes only from the commit, and a file no commit holds is a name an audit sees and no body it reads. `everyFileInside` adds back 16,467 gitignored `.uncommitted.` entry and log files totalling 16.8 GB, against the 858 MB the commit holds. Seven audits reach for them, wanting existence rather than contents: `page-property-has-its-file`, `folder-matches-a-shape`, `no-unused-exports`, `no-unused-modules`, `restatement-narrows-something`, `no-page-address-spelled`.\n",
     },
     {
       statement: "Every check an agent runs has a memory ceiling of its own.",
