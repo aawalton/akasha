@@ -12,6 +12,7 @@ export const temperEsoDeclaration = {
     "module/eso-opt-in",
     "module/eso-token-scope",
     "page-type/eso-opt-in-list",
+    "module/eso-declaration-chunking",
   ],
   decisions: [
     {
