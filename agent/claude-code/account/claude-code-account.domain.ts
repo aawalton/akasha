@@ -4,7 +4,7 @@ export const claudeCodeAccount = {
   id: "01a0ca81-1571-7e92-8c72-1283dae8a068",
   type: "page-type/domain",
   slug: "claude-code-account",
-  definition: "the Claude Code account a seat is part of in Claude Code Remote Control",
+  definition: "a seat's Claude Code account in Claude Code Remote Control",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "Claude Code account" },
     { partOfSpeech: "part-of-speech/noun", spelling: "Claude Code accounts" },
