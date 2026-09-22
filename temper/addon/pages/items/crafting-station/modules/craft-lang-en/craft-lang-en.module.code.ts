@@ -19,11 +19,9 @@ export const EN: LangTable = {
     usequestTooltip:
       "Displays the current active crafting writ quest when opening a crafting bench",
     usecook: "Use Cook",
-    usecookTooltip:
-      "Replaces the default user interface of cooking stations with the Craftstore UI",
+    usecookTooltip: "Replaces the default user interface of cooking stations with the Temper UI",
     userune: "Use Rune",
-    useruneTooltip:
-      "Replaces the default user interface of enchanting tables with the Craftstore UI",
+    useruneTooltip: "Replaces the default user interface of enchanting tables with the Temper UI",
     displaystyles: "Display itemstyle in tooltips",
     markitems: "Mark needed items",
     showsymbols: `Show ${intricate}/${ornate}-symbols`,
@@ -47,13 +45,13 @@ export const EN: LangTable = {
     overviewstyle: "Character overview style",
     userunecreation: "Use Rune Creation",
     userunecreationTooltip:
-      "Replaces the default user interface for rune crafting with the Craftstore UI",
+      "Replaces the default user interface for rune crafting with the Temper UI",
     useruneextraction: "Use Rune Extraction",
     useruneextractionTooltip:
-      "Replaces the default user interface for rune extraction with the Craftstore UI",
+      "Replaces the default user interface for rune extraction with the Temper UI",
     userunerecipe: "Use Rune Furniture",
     userunerecipeTooltip:
-      "Replaces the default user interface for furniture blueprint crafting at enchanting tables with the Craftstore UI",
+      "Replaces the default user interface for furniture blueprint crafting at enchanting tables with the Temper UI",
     displayunknown: "Display unknown in tooltips",
     displayknown: "Display known in tooltips",
     displaycount: "Display known/unknown counts in tooltips",

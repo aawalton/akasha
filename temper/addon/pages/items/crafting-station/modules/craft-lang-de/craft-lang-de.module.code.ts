@@ -18,10 +18,10 @@ export const DE: LangTable = {
     usequest: "Quest anzeigen",
     usequestTooltip: "Zeigt an Werkbänken die jeweils aktive Handwerksquest an",
     usecook: "Cook benutzen",
-    usecookTooltip: "Ersetzt die normale Benutzeroberfläche an Kochstellen durch das Craftstore UI",
+    usecookTooltip: "Ersetzt die normale Benutzeroberfläche an Kochstellen durch das Temper UI",
     userune: "Rune benutzen",
     useruneTooltip:
-      "Ersetzt die normale Benutzeroberfläche an Verzauberungstischen durch das Craftstore UI",
+      "Ersetzt die normale Benutzeroberfläche an Verzauberungstischen durch das Temper UI",
     displaystyles: "Itemstil im Tooltip anzeigen",
     markitems: "Bedarf-Markierungen anzeigen",
     showsymbols: `${intricate}/${ornate}-Symbole anzeigen`,
@@ -45,13 +45,13 @@ export const DE: LangTable = {
     overviewstyle: "Zeichenübersicht Stil",
     userunecreation: "Rune Schöpfung benutzen",
     userunecreationTooltip:
-      "Ersetzt die normale Benutzeroberfläche für das Herstellen von Glyphen durch das Craftstore UI",
+      "Ersetzt die normale Benutzeroberfläche für das Herstellen von Glyphen durch das Temper UI",
     useruneextraction: "Rune Extraktion benutzen",
     useruneextractionTooltip:
-      "Ersetzt die normale Benutzeroberfläche für das Zerlegen von Glyphen durch das Craftstore UI",
+      "Ersetzt die normale Benutzeroberfläche für das Zerlegen von Glyphen durch das Temper UI",
     userunerecipe: "Rune Möbel benutzen",
     userunerecipeTooltip:
-      "Ersetzt die normale Benutzeroberfläche für das Herstellen von Einrichtungsgegenständen an Verzauberungstischen durch das Craftstore UI",
+      "Ersetzt die normale Benutzeroberfläche für das Herstellen von Einrichtungsgegenständen an Verzauberungstischen durch das Temper UI",
     displayunknown: "Anzeigen unbekannt in Tooltips",
     displayknown: "Anzeigen bekannt in Tooltips",
     displaycount: "Anzeigen bekannt/unbekannt anzahl in Tooltips",

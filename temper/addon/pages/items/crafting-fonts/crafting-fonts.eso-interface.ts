@@ -1,10 +1,10 @@
 import type { EsoInterface } from "akasha/code/eso-interface/eso-interface.page-type.types.ts"
 
-export const craftStoreFonts = {
+export const craftingFonts = {
   id: "01a061c7-e8c0-7c94-9c43-2face07e8a6c",
   type: "page-type/eso-interface",
-  slug: "craft-store-fonts",
+  slug: "crafting-fonts",
   definition: "the fonts the crafting windows are written in",
   markup: "xml",
-  loadedAs: "XML/UI/CraftStore_Font.xml",
+  loadedAs: "XML/UI/CraftingFonts.xml",
 } as const satisfies EsoInterface
