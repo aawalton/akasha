@@ -1,11 +1,11 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const companionRoles = {
   id: "01a076c3-0a1f-7a37-9498-511bec8c2675",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "companion-roles",
   propertySlug: "roles",
   definition: "a duty a companion is planned to cover",
   targetPageType: "page-type/temper-companion-role",
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

@@ -189,7 +189,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/thing/properties/effect-weapon-types.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/companion-build/properties/base-roles.select-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-account-character/properties/character-roles.multi-relation-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-companion-progress/properties/companion-roles.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-companion-progress/properties/companion-roles.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-mine/properties/set-bonuses.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/holdings/temper-item-category-tree/properties/armor-types.number-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/holdings/temper-item-category-tree/properties/equip-types.number-property.types.ts"}
