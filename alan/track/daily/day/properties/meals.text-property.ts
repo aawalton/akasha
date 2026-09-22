@@ -15,7 +15,7 @@ export const meals = {
     },
     {
       decisionKind: "decision-kind/stopgap",
-      statement: "Eleven of the thirteen pictures named here are ids no image page answers to.",
+      statement: "Most of the pictures named here are ids no image page answers to.",
     },
     {
       decisionKind: "decision-kind/gap",

@@ -7,5 +7,11 @@ export const skillLine = {
   propertySlug: "skill-line-id",
   definition: "the line a thing is learned from",
   targetPageType: "page-type/temper-skill-line",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A one-handed weapon names no line, since the game gives that kind no line.",
+    },
+  ],
   types: "ts",
 } as const satisfies RelationProperty
