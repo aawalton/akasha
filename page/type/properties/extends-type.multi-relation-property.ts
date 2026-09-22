@@ -1,8 +1,8 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const extendsType = {
   id: "01a049b9-856c-78f3-ac14-e3f86c75d104",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "extends-type",
   propertySlug: "extends",
   definition: "a type that gives a type its properties",
@@ -30,4 +30,4 @@ export const extendsType = {
     },
   ],
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

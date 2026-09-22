@@ -122,7 +122,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/select-property/properties/select-option-colors.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/select-property/properties/select-values.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/type/properties/extends-type.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/type/properties/extends-type.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/type/properties/header-fields.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/type/properties/loaded-export.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/type/properties/properties.one-of-property.types.ts"}

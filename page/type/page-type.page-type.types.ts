@@ -4,7 +4,7 @@ import type { SelectValues } from "akasha/page/select-property/properties/select
 import type { AllowsTmpPaths } from "akasha/page/type/properties/allows-tmp-paths.boolean-property.types.ts"
 import type { DetailConfig } from "akasha/page/type/properties/detail-config.record-property.types.ts"
 import type { DrawnOffline } from "akasha/page/type/properties/drawn-offline.boolean-property.types.ts"
-import type { ExtendsType } from "akasha/page/type/properties/extends-type.relation-property.types.ts"
+import type { ExtendsType } from "akasha/page/type/properties/extends-type.multi-relation-property.types.ts"
 import type { LoadedBy } from "akasha/page/type/properties/loaded-by.relation-property.types.ts"
 import type { LoadedExport } from "akasha/page/type/properties/loaded-export.text-property.types.ts"
 import type { MediaConfig } from "akasha/page/type/properties/media-config.record-property.types.ts"

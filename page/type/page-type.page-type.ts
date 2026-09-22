@@ -50,7 +50,7 @@ export const pageType = {
     "record-property/sequence",
     "record-property/single-declaration",
     "relation-property/child-type",
-    "relation-property/extends-type",
+    "multi-relation-property/extends-type",
     "relation-property/loaded-by",
     "relation-property/owner",
     "relation-property/page-property",
@@ -76,7 +76,7 @@ export const pageType = {
   extends: ["page-type/domain"],
   properties: [
     {
-      pageProperty: "relation-property/extends-type",
+      pageProperty: "multi-relation-property/extends-type",
       required: true,
       many: true,
       maxCount: null,

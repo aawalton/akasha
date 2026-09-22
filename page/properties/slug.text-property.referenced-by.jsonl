@@ -126,7 +126,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/type/page-property/properties/unique-property.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/type/page-property/properties/unique.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/type/properties/child-type.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/type/properties/extends-type.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/type/properties/extends-type.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/type/properties/loaded-by.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/type/properties/owner.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/type/properties/page-property.relation-property.types.ts"}
