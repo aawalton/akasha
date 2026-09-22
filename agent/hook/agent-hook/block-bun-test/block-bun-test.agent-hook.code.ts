@@ -1,6 +1,7 @@
 import {
   guarding,
-  ranAsCommandHook,
+  judgingCommandHook,
+  ranAsJudged,
   SCOPE_FLAG,
   toldOf,
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
@@ -83,8 +84,10 @@ export function refusalIn(command: string, from: string, root: string): string |
   return refusalOver(bunCallsIn(command), refusalFor)
 }
 
+export const judgedFor = judgingCommandHook(HOOK, import.meta.path, refusalIn)
+
 async function ran(): Promise<number> {
-  return await ranAsCommandHook(HOOK, SCOPE, import.meta.path, refusalIn)
+  return await ranAsJudged(HOOK, SCOPE, judgedFor)
 }
 
 if (import.meta.main) process.exit(await ran())

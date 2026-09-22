@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
 import {
+  judgedFor,
   refusalIn,
   SCOPE,
 } from "akasha/agent/hook/agent-hook/block-bun-test/block-bun-test.agent-hook.code.ts"
@@ -15,6 +16,19 @@ const SCRIPT = join(import.meta.dir, "block-bun-test.agent-hook.code.ts")
 const ROOT = rootOf(import.meta.path)
 
 const judged = judging(refusalIn, ROOT)
+
+test("the judgement this hook exports refuses what its rule refuses", () => {
+  const said = judgedFor({ tool_input: { command: "bun test" }, cwd: ROOT })
+
+  expect(parseRefusal(said.out).reason).toContain("block-bun-test refused this call.")
+})
+
+test("the judgement this hook exports leaves a call its rule lets through alone", () => {
+  const said = judgedFor({ tool_input: { command: "bun run build" }, cwd: ROOT })
+
+  expect(said.out).toBe("")
+  expect(said.err).toBe("")
+})
 
 test("a run naming no path is refused, and names where the tests run", () => {
   const said = judged("bun test") ?? ""
