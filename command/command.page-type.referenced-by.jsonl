@@ -91,6 +91,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/infrastructure/dev-server/status/infrastructure-dev-server-status.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/infrastructure/dev-server/stop/infrastructure-dev-server-stop.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/infrastructure/loki/infrastructure-loki.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/infrastructure/service/run/infrastructure-service-run.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/infrastructure/service/start/infrastructure-service-start.command.ts"}

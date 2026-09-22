@@ -169,6 +169,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/infrastructure/dev-server/status/infrastructure-dev-server-status.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/infrastructure/dev-server/stop/infrastructure-dev-server-stop.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/infrastructure/loki/infrastructure-loki.command.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/infrastructure/service/modules/service-unit-asking/service-unit-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/infrastructure/service/run/infrastructure-service-run.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/infrastructure/service/run/infrastructure-service-run.command.test.ts"}

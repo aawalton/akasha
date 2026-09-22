@@ -60,7 +60,7 @@ export function machineNow(platform: string = process.platform): string {
   return platform === DARWIN ? MACOS : LINUX
 }
 
-function forMachine(said: string | null, on: string): boolean {
+export function forMachine(said: string | null, on: string): boolean {
   return said === null || said === ANY_MACHINE || said === on
 }
 

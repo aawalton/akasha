@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"code/shell-script/pages/statusline/statusline.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"command/modules/install-linking/install-linking.module.code.ts"}
+{"propertySlug":"import","fileName":"property-file.module.code.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-config/tunnel-config.module.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/cluster/operation/bootstrap-namespace/bootstrap-namespace.shell-script.scripting.code.ts"}

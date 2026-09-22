@@ -76,6 +76,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/git/push/git-push.command.test.ts"}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/read/modules/differing/differing.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/read/modules/differing/differing.module.test.ts"}

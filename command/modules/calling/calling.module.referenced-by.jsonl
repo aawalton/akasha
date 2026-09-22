@@ -208,6 +208,8 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/infrastructure/dev-server/stop/infrastructure-dev-server-stop.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/infrastructure/loki/infrastructure-loki.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/infrastructure/loki/infrastructure-loki.command.test.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.code.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/infrastructure/service/modules/service-unit-asking/service-unit-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.test.ts"}
