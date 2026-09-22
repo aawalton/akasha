@@ -7,7 +7,6 @@ export const pageUiMedia = {
   definition: "the sound and picture a page carries",
   parts: [
     "module/is-webkit",
-    "module/media-renditions",
     "module/media-src",
     "module/media-token",
     "module/native-tts-adapter",
@@ -19,7 +18,7 @@ export const pageUiMedia = {
     "module/playing-session-storage",
     "module/resolve-active-sentence",
     "module/sentence-narration-context",
-    "module/serve-media",
+
     "module/transport-selection",
     "module/use-audio-auto-advance",
     "module/use-audio-seek-and-play",

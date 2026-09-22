@@ -8,15 +8,10 @@
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"alan/web/.server/app-layout-loading/app-layout-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"alan/web/modules/kokoro-render/kokoro-render.module.code.ts"}
-{"propertySlug":"import","fileName":"get.module.code.ts","path":"alan/web/modules/media-page/media-page.module.code.ts"}
-{"propertySlug":"import","fileName":"get.module.code.ts","path":"alan/web/modules/media-variants/media-variants.module.code.ts"}
-{"propertySlug":"import","fileName":"get.module.code.ts","path":"alan/web/modules/read-aloud-marks/read-aloud-marks.module.code.ts"}
-{"propertySlug":"import","fileName":"get.module.code.ts","path":"alan/web/routes/alan-web-api-media-stream/alan-web-api-media-stream.route.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"alan/web/routes/alan-web-api-nav-icon/alan-web-api-nav-icon.route.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"alan/web/routes/pages-ready/pages-ready.route.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/access/modules/iterate/iterate.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/access/modules/page-type/page-type.module.code.ts"}
-{"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/media/modules/serve-media/serve-media.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/supabase/modules/use-nav-mutations/use-nav-mutations.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/supabase/modules/use-page/use-page.module.code.ts"}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"page/ui/supabase/modules/use-referrers/use-referrers.module.code.ts"}

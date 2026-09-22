@@ -15,14 +15,6 @@ export const alanWebRoutes = {
     "route/alan-web-api-health",
     "route/alan-web-api-image",
     "route/alan-web-api-live-version",
-    "route/alan-web-api-media",
-    "route/alan-web-api-media-ensure",
-    "route/alan-web-api-media-hls-playlist",
-    "route/alan-web-api-media-hls-segment",
-    "route/alan-web-api-media-marks",
-    "route/alan-web-api-media-stream",
-    "route/alan-web-api-media-token",
-    "route/alan-web-api-media-variants",
     "route/alan-web-api-nav-icon",
     "route/alan-web-api-page-types",
     "route/alan-web-api-page-write",
@@ -73,20 +65,8 @@ export const alanWebRoutes = {
   ],
   decisions: [
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The download is offered wherever a page has an audio variant.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The shell itself withholds the download in a browser.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A media address handed to the native shell is absolute.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A browser is handed the relative address that browser resolves itself.",
+      decisionKind: "decision-kind/absence",
+      statement: "No route here serves audio, and no page is read aloud.",
     },
     {
       decisionKind: "decision-kind/departure",

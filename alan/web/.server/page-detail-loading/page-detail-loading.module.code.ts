@@ -1,9 +1,4 @@
-import {
-  type SentenceMark,
-  sentenceMarkSchema,
-} from "akasha/alan/harness/voice-core/modules/mark-schema/mark-schema.module.code.ts"
 import { resolveReaderNeighbors } from "akasha/alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"
-import { resolveMediaVariants } from "akasha/alan/web/modules/media-variants/media-variants.module.code.ts"
 import { resolveNextUnreadHref } from "akasha/alan/web/modules/next-unread/next-unread.module.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import {
@@ -13,22 +8,16 @@ import {
   getPages,
 } from "akasha/page/access/modules/get/get.module.code.ts"
 import { getDescendantPageTypeSlugs } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
-import {
-  getMediaConfig,
-  getSequenceConfig,
-} from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
+import { getSequenceConfig } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
 import type { ReaderNeighborLink } from "akasha/page/ui/component/modules/reader-chrome/reader-chrome.module.code.tsx"
-import type { MediaVariant } from "akasha/page/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
 import {
   buildPageHref,
   parsePageHrefParam,
 } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { data, type LoaderFunctionArgs } from "react-router"
-import { z } from "zod"
 
 const NAV_SLUG = "nav"
-const audioSentenceMarksSchema = z.array(sentenceMarkSchema)
 const READING_STORY_SLUG = "reading-story"
 
 export async function loader({ params }: LoaderFunctionArgs) {
@@ -91,10 +80,6 @@ export async function loader({ params }: LoaderFunctionArgs) {
     throw new Response("Not Found", { status: 404 })
   }
 
-  let audioVariants: readonly MediaVariant[] | null = null
-  let audioNextHref: string | null = null
-  let audioDefaultVariant: string | null = null
-  let audioSentenceMarks: readonly SentenceMark[] = []
   let readerPrev: ReaderNeighborLink | null = null
   let readerNext: ReaderNeighborLink | null = null
   let chapterTitle: string | null = null
@@ -107,9 +92,8 @@ export async function loader({ params }: LoaderFunctionArgs) {
   }
 
   const resolvedBrandedSlug = toPageTypeSlug(resolvedSlug)
-  const mediaConfig = await getMediaConfig({ pageTypeSlug: resolvedBrandedSlug })
   const sequenceConfig = await getSequenceConfig({ pageTypeSlug: resolvedBrandedSlug })
-  if (mediaConfig?.audio != null || sequenceConfig != null) {
+  if (sequenceConfig != null) {
     const fullPage = (
       await getPages({
         pageTypeSlug: resolvedSlug,
@@ -165,20 +149,6 @@ export async function loader({ params }: LoaderFunctionArgs) {
           )
         }
       }
-      if (mediaConfig?.audio != null) {
-        try {
-          const resolved = await resolveMediaVariants({ page: fullPage })
-          audioVariants = resolved.variants
-          audioNextHref = readerNext?.href ?? null
-          audioDefaultVariant = resolved.defaultVariant
-          audioSentenceMarks = audioSentenceMarksSchema.parse(resolved.sentenceMarks)
-        } catch (err) {
-          console.error(
-            `page-detail loader: audio variant resolution failed for ${resolvedSlug}/${id}; serving without audio`,
-            err
-          )
-        }
-      }
     }
   }
 
@@ -188,10 +158,6 @@ export async function loader({ params }: LoaderFunctionArgs) {
     id,
     faviconIdSuffix: null,
     title,
-    audioVariants,
-    audioNextHref,
-    audioDefaultVariant,
-    audioSentenceMarks,
     readerPrev,
     readerNext,
     storyHref,

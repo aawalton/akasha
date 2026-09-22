@@ -1,5 +1,4 @@
 import { loader as pageDetailLoader } from "akasha/alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts"
-import { audioActionsFor } from "akasha/alan/web/modules/audio-download-offer/audio-download-offer.module.code.tsx"
 import { PageDetailErrorBoundary } from "akasha/alan/web/modules/page-detail-error-boundary/page-detail-error-boundary.module.code.tsx"
 import { ReaderNarrationDetail } from "akasha/alan/web/modules/reader-narration-detail/reader-narration-detail.module.code.tsx"
 import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
@@ -86,11 +85,6 @@ export default function PageDetailRoute({ loaderData }: { loaderData: PageDetail
       pageTypeSlug={brandedSlug}
       id={loaderData.id}
       title={loaderData.title ?? ""}
-      audioVariants={loaderData.audioVariants ?? undefined}
-      audioNextHref={loaderData.audioNextHref ?? undefined}
-      audioDefaultVariant={loaderData.audioDefaultVariant ?? undefined}
-      sentenceMarks={loaderData.audioSentenceMarks ?? undefined}
-      audioActions={audioActionsFor(loaderData)}
       readerPrev={loaderData.readerPrev ?? undefined}
       readerNext={loaderData.readerNext ?? undefined}
       storyHref={loaderData.storyHref ?? undefined}

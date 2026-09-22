@@ -6,12 +6,5 @@
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-device-secret-mint/alan-web-api-device-secret-mint.route.code.ts"}
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-device-secret-revoke/alan-web-api-device-secret-revoke.route.code.ts"}
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-image/alan-web-api-image.route.code.ts"}
-{"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-media-ensure/alan-web-api-media-ensure.route.code.ts"}
-{"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-media-hls-playlist/alan-web-api-media-hls-playlist.route.code.ts"}
-{"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-media-hls-segment/alan-web-api-media-hls-segment.route.code.ts"}
-{"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-media-marks/alan-web-api-media-marks.route.code.ts"}
-{"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-media-stream/alan-web-api-media-stream.route.code.ts"}
-{"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-media-token/alan-web-api-media-token.route.code.ts"}
-{"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-media/alan-web-api-media.route.code.ts"}
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.code.ts"}
 {"propertySlug":"parts","path":"alan/web/alan-web.router-app.ts","id":"01a05bb1-0c04-751f-8f51-baadbd134cf6"}

@@ -79,36 +79,6 @@ export default [
   route("api/image/:imageId", "routes/alan-web-api-image/alan-web-api-image.route.code.ts"),
   route("api/wallpaper", "routes/wallpaper/wallpaper.route.code.ts"),
   route(
-    "api/media/token",
-    "routes/alan-web-api-media-token/alan-web-api-media-token.route.code.ts"
-  ),
-  route(
-    "api/media/:pageId/variants",
-    "routes/alan-web-api-media-variants/alan-web-api-media-variants.route.code.ts"
-  ),
-  route(
-    "api/media/:pageId/:medium/stream",
-    "routes/alan-web-api-media-stream/alan-web-api-media-stream.route.code.ts"
-  ),
-  route(
-    "api/media/:pageId/:medium/ensure",
-    "routes/alan-web-api-media-ensure/alan-web-api-media-ensure.route.code.ts"
-  ),
-  route(
-    "api/media/:pageId/:medium/marks",
-    "routes/alan-web-api-media-marks/alan-web-api-media-marks.route.code.ts"
-  ),
-  route(
-    "api/media/:pageId/:medium/hls.m3u8",
-    "routes/alan-web-api-media-hls-playlist/alan-web-api-media-hls-playlist.route.code.ts"
-  ),
-  route(
-    "api/media/:pageId/:medium/hls/:segment",
-    "routes/alan-web-api-media-hls-segment/alan-web-api-media-hls-segment.route.code.ts"
-  ),
-  route("api/media/:pageId/:medium", "routes/alan-web-api-media/alan-web-api-media.route.code.ts"),
-
-  route(
     "api/chess/analyze",
     "routes/alan-web-api-chess-analyze/alan-web-api-chess-analyze.route.code.ts"
   ),

@@ -67,7 +67,6 @@ const AUTH_CONFIG: RouteAccessConfig = {
     /^\/api\/categorization/,
     /^\/api\/readout-relay/,
     /^\/api\/wallpaper/,
-    /^\/api\/media\//,
     /^\/api\/persona\/message$/,
     /^\/api\/push\/register$/,
     /^\/api\/track\//,
