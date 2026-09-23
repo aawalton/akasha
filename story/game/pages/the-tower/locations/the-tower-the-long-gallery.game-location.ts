@@ -21,7 +21,7 @@ export const theTowerTheLongGallery = {
   things: [
     {
       name: "the two Welcomers (one fronting with aid, one circling behind)",
-      use: "a COORDINATED PAIR (multi-threat — see encounter the-welcomers-pair-01). One holds his attention with the offer; the other flanks for the intimate kill. TIER-3 TELL: the Ember heat-shadow tell now FAILS too — the gallery fakes heat (you feel the hearth; the figures feel warm). The honest tell becomes the MIRRORS: a real body throws a reflection; the woven figures do NOT. He must read the silvered glass, not his senses.",
+      use: "a COORDINATED PAIR (multi-threat — see encounter the-welcomers-pair-01). One holds his attention with the offer; the other flanks for the intimate kill. The honest tell becomes the MIRRORS: a real body throws a reflection; the woven figures do NOT.",
       note: "the ladder's second escalation (heat defeated → reflection) AND the threat ramp: two predators that sandwich him is meaningfully harder than floor 4's lone Stalker. A reader keeps his back to a mirror or a wall and refuses to be flanked.",
     },
     {
@@ -31,7 +31,7 @@ export const theTowerTheLongGallery = {
     },
     {
       name: "a cold draft seam (low on one mirrored wall)",
-      use: "a real, faint cold draft from BEHIND the illusion — the only honestly cold thing on a floor of fake warmth. Following it (INT to trust the cold over the fake heat) leads truer-inward than the looping 'onward door' — a navigation tell that the real structure is colder and barer than the gold haven pretends.",
+      use: "a real, faint cold draft from BEHIND the illusion — the only honestly cold thing on a floor of fake warmth.",
       note: "the honest cold = the real den bleeding through. Rewards trusting a tell over comfort; threads toward the deep den / boss.",
     },
   ],
