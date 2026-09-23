@@ -26,7 +26,7 @@ export const theTowerHavenThreshold = {
   things: [
     {
       name: "the hooded host-figure by the hearth (rising to greet)",
-      use: "an echo / projection of the floor's warden. Open empty hands, warm voice, no weapon. TIER-1 TELL: casts no honest shadow, gesture repeats, warmth is sourceless. Striking the IMAGE does almost nothing (the real Host is deep in the haven; this is a projection). Reasoning about it (INT) or holding real flame to it (Ember) reveals it as image.",
+      use: "an echo / projection of the floor's warden. Open empty hands, warm voice, no weapon. TIER-1 TELL: casts no honest shadow, gesture repeats, warmth is sourceless. Reasoning about it (INT) or holding real flame to it (Ember) reveals it as image.",
       note: "the scout centerpiece. A reader reads WHY the figure is wrong; he does not swing at a projection from the door.",
     },
     {
@@ -41,7 +41,7 @@ export const theTowerHavenThreshold = {
     },
     {
       name: "the threshold floor — dust, and what casts a shadow",
-      use: "the honest read-surface. Real things displace dust and throw a shadow in the gold light; woven images do neither. A reader who watches the FLOOR and the SHADOWS rather than the inviting figures sees which presences are real — the general key to every illusion here (until the floor learns to fake it deeper in).",
+      use: "the honest read-surface. Real things displace dust and throw a shadow in the gold light; woven images do neither.",
       note: "rewards INT/method over PER/noticing. NOTE for the coordinator: this tell WORKS at the threshold and the hall, then the haven learns to fake shadows — see the verification ladder in designerNotes.",
     },
     {
