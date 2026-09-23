@@ -28,7 +28,7 @@ export const theTowerShaftHeadworks = {
     },
     {
       name: "the winding-drum / chain-pawl at the Colossus's core (its 'waist')",
-      use: "THE weakness — the chain is wound around its core drum under enormous tension, held by a single iron pawl (a release-catch). A precise strike to the PAWL (INT to read the mechanism, FIN to place the hit — explicitly NOT a MIGHT contest) releases the drum: the stored tension of the whole counterweight system unwinds through the Colossus at once, tearing it apart and dropping the slabs still. See readableTrait gate.",
+      use: "THE weakness — the chain is wound around its core drum under enormous tension, held by a single iron pawl (a release-catch). See readableTrait gate.",
       note: "the entire boss fight is 'read the mechanism, hit the pawl' — Alan's INT+FIN, not his weak MIGHT. The note in the pinch names it ('drop the weight and the stair falls still').",
     },
     {
