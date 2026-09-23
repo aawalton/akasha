@@ -31,12 +31,12 @@ export const theTowerShaftBaseFlights = {
     },
     {
       name: "rising/sinking counterweight slabs (through the shaft)",
-      use: "moving platforms on a SLOW REGULAR BEAT (predictable — an INT read learns the rhythm in a few cycles). Ride them up; mistime a leap and you fall. They are also the floor's mechanism: the slabs are counterweighted against a central chain (see the Colossus / the counterweight). Standing on a sinking slab while fighting = fighting on a clock.",
+      use: "moving platforms on a SLOW REGULAR BEAT (predictable — an INT read learns the rhythm in a few cycles). Ride them up; mistime a leap and you fall. Standing on a sinking slab while fighting = fighting on a clock.",
       note: "the timing axis. The beat is regular and READABLE — reward a player who watches before he leaps (INT, not the spot-check PER he's weak at).",
     },
     {
-      name: "a guttered lantern-bracket + a sealed oil flask (wedged in the wall at the first landing)",
-      use: "THE light source. The flask holds enough lamp-oil for one sustained burning light (a lit brand, a thrown fire-pot, or a refilled lantern) for the duration of the floor. Lighting it is an action (INT/FIN, a spark from the floor-2 flint-bracket habit or striking the iron bar on stone). Light is the Stalker's bane — see its readableTrait. THE pre-decided answer to 'is there a light source?' — YES, exactly one, here, and it must be claimed and lit deliberately.",
+      name: "a sealed oil flask (wedged in the wall at the first landing)",
+      use: "THE light source. The flask holds enough lamp-oil for one sustained burning light (a lit brand, a thrown fire-pot, or a refilled lantern) for the duration of the floor. Lighting it is an action (INT/FIN, a spark from the floor-2 flint-bracket habit or striking the iron bar on stone).",
       note: "key item. Without light, the Stalker ambushes from the dark with a lethal first strike. With light, the floor becomes winnable. A reader who grabs and lights this FIRST has read the whole floor.",
       status: "INTACT",
     },
@@ -52,8 +52,12 @@ export const theTowerShaftBaseFlights = {
     },
     {
       name: "the cold updraft from below",
-      use: "none mechanically — but it carries sound and scent UP, which is how the Stalker tracks warmth and how Alan first hears it. A clever player can use a thrown lit brand to send light AND scent the wrong way (decoy). Falling debris dropped down the shaft never lands in earshot — confirming the fall is lethal-deep.",
+      use: "none mechanically — but it carries sound and scent UP, which is how the Stalker tracks warmth and how Alan first hears it. A clever player can use a thrown lit brand to send light AND scent the wrong way (decoy).",
       note: "decided: the drop is bottomless-in-practice. A fall is a kill, not an injury. Do not narrate a survivable landing.",
+    },
+    {
+      name: "a guttered lantern-bracket (wedged in the wall at the first landing)",
+      use: "Light is the Stalker's bane — see its readableTrait. THE pre-decided answer to 'is there a light source?' — YES, exactly one, here, and it must be claimed and lit deliberately.",
     },
   ],
 } as const satisfies GameLocation
