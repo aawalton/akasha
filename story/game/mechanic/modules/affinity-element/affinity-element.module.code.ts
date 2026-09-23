@@ -9,7 +9,7 @@ export type Element = {
   readonly lingers: string | null
 }
 
-export const AFFINITY_ELEMENTS: readonly Element[] = [
+const AFFINITY_ELEMENTS: readonly Element[] = [
   {
     element: "ember",
     sense: "warmth, a live ember, and heat-stress in a material",
@@ -59,8 +59,6 @@ export const AFFINITY_ELEMENTS: readonly Element[] = [
     lingers: "a recoil stagger, and footing lost or the next act halved",
   },
 ]
-
-export const AFFINITY_ELEMENT_NAMES: readonly string[] = AFFINITY_ELEMENTS.map((one) => one.element)
 
 export function elementAt(element: string): Element | undefined {
   return AFFINITY_ELEMENTS.find((one) => one.element === element)
