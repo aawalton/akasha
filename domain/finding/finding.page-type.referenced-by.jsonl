@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-citations-line-number-goes-stale-within-hours-and-a-repoint-does-nothing-for-it.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-command-stopped-at-its-ceiling-is-killed-before-its-cleanup-runs.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-crash-looping-watch-service-reads-as-well-because-it-can-never-reach-failed.finding.ts"}
+{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-day-page-has-two-writers-and-one-of-them-hands-in-nothing-it-read.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-declaration-file-beside-a-page-is-held-to-no-length-and-no-parse.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-draft-claims-no-text-so-a-change-over-many-files-lands-only-by-being-fast.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-fence-that-keeps-its-newline-refuses-as-though-the-body-had-moved.finding.ts"}
