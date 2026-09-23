@@ -1,6 +1,7 @@
 import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
+import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
@@ -226,5 +227,6 @@ export async function compileWantedCompanionEquipment(
     targetBuildId: row.targetBuildId,
   }))
 
+  await loadCompanionCatalog()
   return compileCompanionSignatures(companions, buildById, automationSettings)
 }

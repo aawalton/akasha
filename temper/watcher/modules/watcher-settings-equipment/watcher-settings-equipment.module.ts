@@ -45,6 +45,11 @@ export const watcherSettingsEquipment = {
       statement: "No build hash is decoded here.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The companion catalogue is read here, because decoding a companion build needs it.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },

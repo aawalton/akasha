@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import type {
   PageAsk,
   PageReader,
@@ -13,6 +14,8 @@ import {
   compileWantedEquipment,
   readCharactersWithTargetBuilds,
 } from "akasha/temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
+
+holdCompanionCatalogFromCheckout()
 
 const CHARACTER_BUILD_HASH =
   "ATQHIoAAAAAAQAFH4QABRgOAAKOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"

@@ -30,4 +30,5 @@
 {"propertySlug":"import","fileName":"companion-catalog.module.test-fixtures.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.test.ts"}
 {"propertySlug":"import","fileName":"companion-catalog.module.test-fixtures.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.test.ts"}
 {"propertySlug":"import","fileName":"companion-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.test.ts"}
+{"propertySlug":"import","fileName":"companion-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.test.ts"}
 {"propertySlug":"parts","path":"temper/catalog/companion/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}
