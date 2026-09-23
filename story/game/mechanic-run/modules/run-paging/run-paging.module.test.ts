@@ -46,7 +46,12 @@ test("a run is named for its game and how many runs that game has", () => {
 test("a long line is shortened for a page's name", () => {
   expect(shortOf("a short one", SHOWN)).toBe("a short one")
   expect(shortOf("a\nbroken   line", SHOWN)).toBe("a broken line")
-  expect(shortOf("abcdefghij", 4)).toBe("abcd…")
+  expect(shortOf("abcdefghij", 4)).toBe("abc…")
+})
+
+test("a shortened line is within the length it was given", () => {
+  expect(shortOf("abcdefghij", 4).length).toBe(4)
+  expect(shortOf("a".repeat(2001), 2000).length).toBe(2000)
 })
 
 test("a run's page carries what a reader looks that run up by", () => {

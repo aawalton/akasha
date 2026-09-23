@@ -14,6 +14,7 @@ const JSON_HELD = "json"
 const PADDED = 3
 const SHOWN = 80
 const SAID_HOLDS = 2000
+const MARK = "…"
 
 const A_RUN_OF_SPACE = /\s+/g
 
@@ -26,7 +27,8 @@ export type Paging = {
 
 export function shortOf(said: string, holds: number): string {
   const flat = said.replace(A_RUN_OF_SPACE, " ").trim()
-  return flat.length <= holds ? flat : `${flat.slice(0, holds).trimEnd()}…`
+  if (flat.length <= holds) return flat
+  return `${flat.slice(0, holds - MARK.length).trimEnd()}${MARK}`
 }
 
 export function countedAt(at: number): string {
