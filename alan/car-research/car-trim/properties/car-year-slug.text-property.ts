@@ -4,7 +4,7 @@ export const carYearSlug = {
   id: "01a0c543-8c25-7484-9da3-144fd1373381",
   type: "page-type/text-property",
   slug: "car-year-slug",
-  propertySlug: "car-year-slug",
+  propertySlug: "car-year",
   definition: "a trim's model year",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",

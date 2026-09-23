@@ -66,7 +66,7 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"buyer-name","propertySlug":"buyer-name","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"caption","propertySlug":"caption","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"capture-source","propertySlug":"capture-source","fileName":null,"folderName":null}
-{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"car-year-slug","propertySlug":"car-year-slug","fileName":null,"folderName":null}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"car-year-slug","propertySlug":"car-year","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"card-vocabulary","propertySlug":"card-vocabulary","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"case-against","propertySlug":"against","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"case-asked","propertySlug":"asked","fileName":null,"folderName":null}
