@@ -88,7 +88,7 @@ export const sessions = {
     {
       decisionKind: "decision-kind/constraint",
       statement:
-        "A passage a file holds twice is refused, so a key here is not rewritten by hand either.",
+        "The commands opening and reading a stretch spell these keys, so a rename reaches them.",
     },
   ],
   types: "ts",
