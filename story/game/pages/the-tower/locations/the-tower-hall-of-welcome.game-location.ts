@@ -21,7 +21,7 @@ export const theTowerHallOfWelcome = {
   things: [
     {
       name: "The Welcomer (offering aid/rest)",
-      use: "the lesser warden — bait wearing kindness. Its 'aid' (letting it tend you, taking its flask, sitting) is the kill: at full-dropped guard it strikes intimate and lethal. Presents harmless, READS harmless to PER. TIER-2 TELL (the ladder's first escalation): the threshold's shadow-tell FAILS here — the haven has learned to fake shadows — so the honest tell is now the EMBER HEAT-SHADOW: under his real flame, only a real body throws a heat-warped shadow; the glamour throws a cold one. Striking the PRESENTED figure ×0.25; the REVEALED true form ×1.8.",
+      use: "the lesser warden (see encounter the-welcomer-01) — bait wearing kindness. Its 'aid' (letting it tend you, taking its flask, sitting) is the kill: at full-dropped guard it strikes intimate and lethal. Presents harmless, READS harmless to PER.",
       note: "the floor's 'front-loaded lethality' beat (Stalker-equivalent) — through TRUST, and now also the first proof that the verification ladder ESCALATES (shadow defeated → Ember heat-shadow). A reader who relied on plain shadows must climb a rung.",
     },
     {
@@ -31,9 +31,15 @@ export const theTowerHallOfWelcome = {
       status: "INTACT — untriggered",
     },
     {
-      name: "a previous climber's remains (behind the couches) + a scrawled note",
-      use: "weak-PER COMPENSATION (the floor-3 wall-note / floor-4 corpse-note pattern). The note, scratched into the floorboard: 'DON'T EAT. DON'T SLEEP. DON'T LET THE KIND ONES TOUCH YOU. THEY LEARN YOUR TRICKS — IT FAKES THE SHADOWS NOW, IT'LL FAKE MORE. ONLY YOUR OWN FIRE STAYS HONEST. THE REAL ONE IS DEEP IN, AT THE HEAD OF THE TABLE. KILL IT TWICE.' Hands a reader the verification-ladder logic, the lures, where the Host is, AND the staged-boss warning ('kill it twice') — fair pay for weak PER.",
-      note: "the lore-gate; names the compounding deception and the two-phase boss plainly. Reaching it requires having come inside past the Welcomer's offer.",
+      name: "a previous climber's remains (behind the couches)",
+      use: "weak-PER COMPENSATION (the floor-3 wall-note / floor-4 corpse-note pattern). Hands a reader the verification-ladder logic, the lures, where the Host is, AND the staged-boss warning ('kill it twice') — fair pay for weak PER.",
+      note: "Reaching it requires having come inside past the Welcomer's offer.",
+      status: "INTACT",
+    },
+    {
+      name: "a scrawled note",
+      use: "The note, scratched into the floorboard: 'DON'T EAT. DON'T SLEEP. DON'T LET THE KIND ONES TOUCH YOU. THEY LEARN YOUR TRICKS — IT FAKES THE SHADOWS NOW, IT'LL FAKE MORE. ONLY YOUR OWN FIRE STAYS HONEST. THE REAL ONE IS DEEP IN, AT THE HEAD OF THE TABLE. KILL IT TWICE.'",
+      note: "the lore-gate; names the compounding deception and the two-phase boss plainly.",
       status: "INTACT",
     },
   ],
