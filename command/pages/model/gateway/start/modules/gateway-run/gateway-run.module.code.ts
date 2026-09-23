@@ -8,7 +8,7 @@ import {
   supervisorSocketPath,
 } from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 
-export const STDERR_LOG = "oauth-proxy.stderr.log"
+export const STDERR_LOG = "model-gateway.stderr.log"
 
 export const AGENT_PREFIX = "model-gateway-start-"
 

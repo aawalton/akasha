@@ -31,7 +31,7 @@ const POLL_INTERVAL_MS = 100
 
 const HEALTHZ_TIMEOUT_MS = 10_000
 
-const STDERR_LOG = "oauth-proxy.stderr.log"
+const STDERR_LOG = "model-gateway.stderr.log"
 
 export async function fetchHealthzOk(port: number): Promise<boolean> {
   try {
@@ -145,7 +145,7 @@ function openStderrLog(logDir: string): number | null {
     mkdirSync(logDir, { recursive: true })
     return openSync(join(logDir, STDERR_LOG), "a")
   } catch (err) {
-    console.error(`[supervisor] could not open the oauth-proxy stderr log under ${logDir}:`, err)
+    console.error(`[supervisor] could not open the gateway stderr log under ${logDir}:`, err)
     return null
   }
 }
