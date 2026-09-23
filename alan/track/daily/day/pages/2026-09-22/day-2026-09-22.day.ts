@@ -10,7 +10,7 @@ export const day20260922 = {
   activeCalories: 123.05600000000005,
   wisdomWords: 7056,
   intelligenceTopics: 1,
-  inboxTasks: 3,
+  inboxTasks: 1,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 0,
   inboxTemperTasksClearedToday: true,
