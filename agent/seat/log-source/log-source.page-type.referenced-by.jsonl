@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"log-source.page-type.types.ts","path":"agent/seat/log-source/pages/gateway-console.log-source.ts"}
+{"propertySlug":"import","fileName":"log-source.page-type.types.ts","path":"agent/seat/log-source/pages/oauth-proxy-console.log-source.ts"}
 {"propertySlug":"import","fileName":"log-source.page-type.types.ts","path":"agent/seat/log-source/pages/supervisor-console.log-source.ts"}
 {"propertySlug":"import","fileName":"log-source.page-type.types.ts","path":"agent/seat/log-source/pages/supervisor-transport.log-source.ts"}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
