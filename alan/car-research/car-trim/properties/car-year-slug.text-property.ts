@@ -18,8 +18,13 @@ export const carYearSlug = {
       statement: "This property is `relation-property/car-year`.",
     },
     {
+      decisionKind: "decision-kind/gap",
+      statement: "No change renames a field of an entry.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
-      statement: "No change renames a field of an entry, so the rows here are rewritten by hand.",
+      statement:
+        "A passage a file holds twice is refused, so a row's field is not rewritten by hand either.",
     },
   ],
   types: "ts",

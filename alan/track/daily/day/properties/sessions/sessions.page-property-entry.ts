@@ -87,7 +87,8 @@ export const sessions = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "No change renames a field of a row, so a key here is rewritten by hand.",
+      statement:
+        "A passage a file holds twice is refused, so a key here is not rewritten by hand either.",
     },
   ],
   types: "ts",
