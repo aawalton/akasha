@@ -5,6 +5,8 @@ local _setmetatable = setmetatable
 local _rawset = rawset
 local _rawget = rawget
 local _pairs = pairs
+local _sethook = debug and debug.sethook
+local _clock = os and os.clock
 
 __eso_stubbed = {}
 
@@ -117,9 +119,28 @@ function __eso_constants(given)
   return count
 end
 
+__eso_seconds = 20
+
+local function finished(...)
+  _sethook()
+  return ...
+end
+
+local function stopAfter(seconds)
+  local deadline = _clock() + seconds
+  _sethook(function()
+    if _clock() > deadline then
+      _sethook()
+      _error("this ran " .. seconds .. " seconds without finishing, so it was stopped", 0)
+    end
+  end, "", 200000)
+end
+
 function __eso_run(src, name)
   local chunk, err = _loadstring(src, name)
   if not chunk then _error(err, 0) end
   _setfenv(chunk, __eso_env)
-  return chunk()
+  if _sethook == nil or _clock == nil then return chunk() end
+  stopAfter(__eso_seconds)
+  return finished(chunk())
 end

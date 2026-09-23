@@ -70,6 +70,23 @@ export const esoSandboxPrelude = {
       statement: "Loaded Lua runs with this environment in place of the real globals.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A name answered with a stub is never nothing, so a loop ending on nothing never ends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Lua that runs past a deadline is stopped and refused rather than left running.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The deadline is processor time, so a loaded machine is given the same room.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller wanting longer than the deadline says so by naming a larger one.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "Loaded Lua naming the global table is handed this environment rather than the real one.",
