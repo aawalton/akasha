@@ -1,3 +1,5 @@
+{"propertySlug":"holding-game","path":"story/game/pages/the-tower/design-entries/the-tower-floor-design-04.game-design-entry.ts","id":"01a0ccb0-d1c9-7d01-b066-1d90bf944be7"}
+{"propertySlug":"holding-game","path":"story/game/pages/the-tower/design-entries/the-tower-floor-design-05.game-design-entry.ts","id":"01a0ccb1-271b-7ab1-a540-ef12abb3e84f"}
 {"propertySlug":"holding-game","path":"story/game/pages/the-tower/design-entries/the-tower-mechanic-design-essence-crafting.game-design-entry.ts","id":"01a0c946-1787-7461-9499-9e8eac015404"}
 {"propertySlug":"holding-game","path":"story/game/pages/the-tower/design-entries/the-tower-mechanic-design-essence-seeds.game-design-entry.ts","id":"01a0c946-1761-7c2f-812e-2994855c40c7"}
 {"propertySlug":"holding-game","path":"story/game/pages/the-tower/design-entries/the-tower-skill-design-emergent-skills.game-design-entry.ts","id":"01a0c946-17ad-7634-92f6-1c87ccd68f74"}
@@ -51,6 +53,8 @@
 {"propertySlug":"holding-game","path":"story/game/pages/the-tower/locations/the-tower-the-hosts-seat.game-location.ts","id":"01a0c661-244a-7931-bf83-a63f18712026"}
 {"propertySlug":"holding-game","path":"story/game/pages/the-tower/locations/the-tower-the-long-gallery.game-location.ts","id":"01a0c661-241d-7e9b-b80e-87e895e98092"}
 {"propertySlug":"holding-game","path":"story/game/pages/the-tower/locations/the-tower-threshold-landing.game-location.ts","id":"01a0c661-2369-7ffb-b3f0-6cc4c15ff2d7"}
+{"propertySlug":"holding-game","path":"story/game/pages/the-tower/lore-entries/the-tower-ent-eye-lens-illusion-sight.game-lore-entry.ts","id":"01a0ccb0-9ca3-79f5-a2af-2a62beca2493"}
+{"propertySlug":"holding-game","path":"story/game/pages/the-tower/lore-entries/the-tower-ent-false-haven-tether-salvage.game-lore-entry.ts","id":"01a0ccb0-c1b7-7f81-95a4-9884fe9107a1"}
 {"propertySlug":"holding-game","path":"story/game/pages/the-tower/mechanic-runs/the-tower-roll-001.game-mechanic-run.ts","id":"01a0c957-ebc5-79db-a496-d219d0562ff4"}
 {"propertySlug":"holding-game","path":"story/game/pages/the-tower/mechanic-runs/the-tower-roll-002.game-mechanic-run.ts","id":"01a0c957-ec1c-7066-a074-53946eae70b5"}
 {"propertySlug":"holding-game","path":"story/game/pages/the-tower/mechanic-runs/the-tower-roll-003.game-mechanic-run.ts","id":"01a0c957-ec48-7804-8ca3-52a3fce8c4bd"}
