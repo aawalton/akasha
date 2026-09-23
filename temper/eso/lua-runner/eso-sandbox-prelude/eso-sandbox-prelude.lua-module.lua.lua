@@ -7,6 +7,7 @@ local _rawget = rawget
 local _pairs = pairs
 local _sethook = debug and debug.sethook
 local _clock = os and os.clock
+local _compiling = jit and jit.off
 
 __eso_stubbed = {}
 
@@ -127,6 +128,7 @@ local function finished(...)
 end
 
 local function stopAfter(seconds)
+  if _compiling ~= nil then _compiling() end
   local deadline = _clock() + seconds
   _sethook(function()
     if _clock() > deadline then
