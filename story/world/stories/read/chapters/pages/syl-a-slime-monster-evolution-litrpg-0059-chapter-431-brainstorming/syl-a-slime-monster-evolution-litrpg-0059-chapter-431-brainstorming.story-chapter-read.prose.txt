@@ -1,0 +1,131 @@
+The sound of combat echoed throughout the castle as multiple skirmishes took place simultaneously. In an interesting twist, we were the ones taking the mass approach, as while there were plenty of hostile monsters roaming the halls, the majority had eaten one of their own and mutated, thinning their numbers.
+
+From the looks of things, none of the mutated wendigos had tried to eat another already mutated one, so my earlier concern had yet to manifest into reality. I wasn't sure if this was by design or luck, but the monsters seemed to avoid the other mutations. What further emphasized this was that we did see plenty of mutations eating the regular wendigo, yet it failed to trigger a second reaction.
+
+Although it took us very little time to engage with the monsters, they were still just as sturdy, and it wasn't until some time had passed that the fountain of experience began to trickle through to us. It came in waves, and each time I could sense a flood of excitement from Vee, who was receiving the lion's share. Conquering the labyrinth aside, I really hoped that she would reach the threshold before we left.
+
+A major benefit of this new approach was that we now had multiple heads contributing to battle tactics against these annoying foes, and any new discoveries were quickly shared with the group, with me as the central point of our slime network, acting as a sort of relay.
+
+Sylbera quickly discovered that the creatures seemed to have an extreme aversion to fire, but it wasn't actually a weakness. If two attacks were coming at it, it would always prioritize dodging the fire, even if the other attack was far superior. This strategy was quickly adopted by the rest of the team, and since all of us had [Elemental Praxis], it was painless to add some fire to the mix.
+
+Yes, even Sylvester, with his neutered offensive magic after becoming a golemancer, could take advantage of this, as the monsters would try to avoid even a simple [Firebolt]. Likewise, since I'd given Vee a [Sub-Core] to be her helper, she just had to ask it to cast a few simple fire spells as a distraction, which it dutifully carried out.
+
+The oddities didn't stop there; despite having their own cursed freezing ability, the wendigos themselves weren't immune to ice, as Sylvain discovered. He'd also tried using some [Steam Magic] after the fire discovery, but despite having a lot more burn potential in something like [Scald], they still feared a simple [Firebolt] more. This led Sylvain to eventually settle on using Frostfire, as it let him more reliably use his already existing ice spells with added fiery effects.
+
+Sylvester also quickly realized that his golems were actually quite effective in this scenario, as they appeared almost immune to the cursed energy. This meant that for him, dismemberment was a far better option, as his golems could safely tank the frenzied attacks from the ghostly appendages.
+
+It wasn't all sunshine and rainbows, though, as Sylthaeryn was having a bit of a hard time on the magic front. [Nature Magic] as a whole was effectively negated, as not only was this chilling environment a detriment to the plants, but even a simple attack from the cursed frost was enough to kill them outright. Fortunately, she still had her archery to fall back on, and using more slime was always an option.
+
+As for Vee, she had been struggling a little at first because she didn't have minions to keep the monster tied up. Once she received the tip about fire, though, she had her designated [Sub-Core] provide backup. It took her a bit to find a solution, but she settled on keeping the monster under a constant attack from [Disintegration Ray] by keeping it boxed in with fire.
+
+Seeing how effective this strategy was, the thought of caging them in fire came up; however, that didn't exactly go as planned... When the monsters were cornered or trapped with nowhere to go, they would violently lash out and charge through the flames in a frenzied manner. If that's all that happened, it would've been too bad, but it actually took them quite some time to calm down and return to their previous behavior, as if something had broken inside them.
+
+As a result, we gave up on the idea of keeping them helplessly trapped and ensured there was always at least one escape route for the monster. By controlling the escape routes, we could force them around to our advantage and even cause them to retreat when they attacked.
+
+As for myself, since the elements were covered by my personas and Vee was handling corrosion, I tried to see what else I could come up with. Since [Drain Touch] and its variants had been relatively effective, I tried exploring what else [Death Magic] had to offer.
+
+At the very first test, I learned that my damaging necrotic spells were as effective as wet paper, with even concentrated fire under [Necrotic Ray] barely causing an inconvenience. With that, I quickly swapped tactics to see how else I could utilize the draining effect. Beams, balls, and other projectiles were not worthwhile since they required a link or touch to transfer.
+
+The only thing I hadn't tried was a domain or aura, although even before I attempted anything, I knew the former wouldn't work. But an aura… That had potential, as I'd already seen it dance over the line between support and hostility, and always use the caster as its origin point.
+
+If that's not a link, I'll eat my hat.
+
+I felt a small tremble on my head, but brushed it aside as I began weaving and shaping with [Mana Dominion]. With minions keeping up the fight, I had plenty of time to tinker around with magic on the sidelines, and the drawn-out fights of whittling them down only emphasized this point.
+
+Yet despite thinking I'd need more time, soon I found myself with a rudimentary aura already assembled. I was so shocked I had to do a double-take, not really believing that I'd managed to piece together something so soon.
+
+Am I a genius? Or is [Death Magic] just super compatible with auras?
+
+I cast my makeshift spell and studied its effects. As expected, there was indeed a link between me and the spell, and from it I could successfully siphon away resources from my opponents trapped in the aura.
+
+<Spell [Draining Aura] discovered.>
+
+<Proficiency gained. [Death Magic LV 2] improved to [Death Magic LV 3].>
+
+<[Death Magic LV 3] spell [Raise] learned.>
+
+Well, obviously someone had the same idea as me and beat me to the registration, although it looks like it's not an official spell, so no early discovery bonus. Nice of it to push me to the next level at least.
+
+The new spell I got was one I was expecting, and the hallmark of the Necromancer class that went hand in hand with [Death Magic]: the ability to raise the dead. Even though I didn't really plan on creating an undead legion, I was naturally curious, so I took a peek at what this spell had to offer.
+
+Out of the tin, this version could only create skeletons or zombies, which I found a little barebones. I imagined they probably had their own nuances, but beyond skeletons being a bit faster from my own experience fighting them, I wasn't sure. Anyway, the magic itself wasn't actually bringing them to life, or unlife in this case. I summed it up as merely animating their corpse and puppeteering it around.
+
+Maybe you need the class to do more with it; there are probably support skills and stuff it needs.
+
+I actually had the Necromancer class available to me now; I discovered it shortly after receiving [Death Magic] while inspecting our class crystal, but I wasn't interested in moving away from Riftmancer. Not only that, but I was admittedly concerned about having my profile marked with such an infamous class, even if I could hide it with [Identity Fabrication].
+
+Of course, I tried raising an undead of my own, which required sourcing a corpse, which was harder than you might imagine. I had no reason to keep corpses, and I usually instantly turned everything into slime mass. [Dissection] would occasionally keep bones and such, but unless I wanted to try my hand at assembling a skeleton before animating it, that wouldn't work out.
+
+If I remember correctly, Simon said that he would build his own undead. If it's a zombie, I guess he stitches them together, but what does he do for the skeletons? Does he glue their bones together?
+
+Thankfully, someone eventually found a normal wendigo and killed it without eating its corpse, and from there, I raised my very first zombie. Compared to the original monster, it was slow and sluggish, and if my understanding was correct, it even appeared to have dropped a monster tier as a result.
+
+I already didn't have the best impression of Necromancy, but seeing it turn a high-tier monster into a lower-tier one soured my opinion of it even further. When I sent my zombie wendigo into a fight, only to watch it get ruthlessly torn apart and eaten, I filed it under useless and moved on.
+
+On the other hand, my [Draining Aura] was very effective, and even better, I could supplement its siphoning by also casting [Draining Ray]. Against these foes, it provided an additional steady drain on their cursed energy, allowing me to further reduce the time on my encounters.
+
+When it comes to [Death Magic], I think I'll just stick to the non-necromancy spells. At least those are useful to me.
+
+I recalled Simon being quite boastful of his undead hydra, and with a snort, I had several blobs of slime merge together with a [Slime Core] and take the shape of my own hydra. I sent my creation rampaging towards the nearest wendigo and watched it battle with infinitely regenerating heads of all sorts of weird monsters I'd collected profiles of.
+
+Bah! Who needs an undead hydra when you can have a slime one?
+
+After that and a bit more tinkering and inspection of [Draining Aura], I moved on to other methods in the hope of discovering something new. I tried using both [Heal Slime] and some [Healing Magic] on the creatures, but it had no effect whatsoever. I had been hopeful that they might be harmed as something akin to undead, but them also not being healed was a confusing surprise.
+
+Next up on the chopping block was [Light Magic], or as Vee liked to put it, "Wiggles' wasted sacrifice." I still rolled my eyes at that, as it wasn't my fault that [Luminous Slime] was such a disappointment, and while [Light Magic] was far better, I had plenty of other, more convenient options.
+
+Ignoring the fact that the cowardly octopus was weak to it, of course…
+
+I started things off simple, not having much hope that this would suddenly become a crippling weakness for these foes; if it did, it would be Holy rather than Light. I cast several [Light Beams] at my target and watched as they inflicted some modicum of damage. I sighed and was about to write it off until I noticed, strangely, that I was always hitting it with the spell.
+
+I immediately paid closer attention and noticed that, while the damage wasn't significant, the sudden, extremely bright light was actually causing the monster to flinch. Because of this, even my laziest of attacks were hitting it thanks to this momentary freeze and the speed at which the spells traveled.
+
+I debuffed the monster with [Illuminated], and while the damage was a little better, there wasn't much progress in its flinching, so I moved on to see if going even brighter would change anything. I cast a [Lightbomb] spell and threw it directly into the creature's face, detonating it and brightening the castle halls more than they'd ever experienced before.
+
+The creature not only froze up but fell into a fetal position as it clutched its head and whimpered. For whatever reason, it was afraid of extremely bright light. Needless to say, such a discovery was very beneficial, as it left it vulnerable and open to pretty much any form of attack.
+
+Although hitting it was never the problem… It's their durability.
+
+It would have probably been too much to expect its fear of light to diminish its cursed energy reserves, so I wasn't sure what I was hoping for exactly. I was about to write off [Light Magic] again for the umpteenth time when I received another pleasant surprise.
+
+<Proficiency gained. [Light Magic LV 3] improved to [Light Magic LV 4].>
+
+<[Light Magic LV 4] spell [Bladelight] learned.>
+
+Oh! I know this spell!
+
+This was what that annoying alicorn prince had used against me, acting like it was some kind of holy knight when it was just a horny pompous ass. I didn't need time to study it; I cast it quickly, forming several blades of light that I rotated around me.
+
+Rather than a projectile, they seemed to behave like controllable objects, and with a flourish, I sent them flying at the monster to do battle with it, as it had picked itself up from the floor. The flashes of light made it flinch, but the weapons themselves seemed extremely insubstantial, causing little impact or damage. In fact, if I had them strike too hard, their entire form would shatter into a shower of sparkly dust.
+
+I need them to be more real, as Trixie put it…
+
+I sighed and reluctantly borrowed the [Enchanted Horn] trait before casting the spells again, and this time the difference was like night and day. The swords of light were not only more durable than ever, but this time they could actually inflict some decent wounds, which wasn't bad considering that the spell was rather effortless to maintain.
+
+Like a conductor waving their baton, I continued casting the spell and adding more and more swords of light to my squadron, while having them clash against the stunlocked monster. Admittedly, there were probably better methods, like copying Vee's use of [Disintegration Ray], but this was stupidly fun to pull off.
+
+Actually, why stop at swords? Can't I theoretically make anything?
+
+Usually, changing the fundamental shape of a spell took a bit of work, and that was assuming you were copying from something else. However, thanks to a certain spider who had given me lessons in [Mana Shaping], this seemed like the perfect opportunity to test it out.
+
+Since [Bladelight] was a relatively low-level spell and still in an entirely default state, it was actually more malleable than I realized. Like a sculptor with more than enough clay, I began shaping the swords of light into pretty much any solid object that I could think of.
+
+Yes, even with [Mana Dominion] probably upgrading [Mana Shaping], despite my inexperience with it, that seemed to be a hard rule for this spell. I could make all sorts of swords, shields, spears, and even a damn tree or rock, but nothing could move; it had to remain solid.
+
+With the discovery of this limitation, I was pretty much just throwing every random thing that popped into my mind at the monster. At one point, I literally threw a kitchen sink of light at it, which I couldn't help but snicker at the hilarity of the situation. I must have been enjoying myself too well, as I received an unexpected visit from Vee to see what I was so amused by.
+
+"Huh… Since when could you make holograms?" Vee asked.
+
+"More things from your world?" I asked, before smacking the monster across the head with a frying pan of light.
+
+"Something like that…"
+
+"I know it looks like I'm messing around, but I actually discovered that these monsters are afraid of light," I said defensively.
+
+"Oh. That sounds useful. I'm just happy that Wiggles is finally getting his chance to shine."
+
+I groaned and pretty much stopped my fun right there in response. The monster was already on the verge of collapse with only dregs of cursed energy remaining, and I finished it off with an empowered [Disintegration Ray] straight to the chest.
+
+While she wasn't saying it or laughing out loud, I could feel the amusement from her. I wanted to throw my own taunt or something straight back at her, but Vee beat me to it.
+
+"Oh? I think I just reached level fifty!"
