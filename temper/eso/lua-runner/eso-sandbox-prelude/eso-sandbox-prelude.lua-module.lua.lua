@@ -122,6 +122,12 @@ end
 
 __eso_seconds = 20
 
+function __eso_deadline(seconds)
+  local was = __eso_seconds
+  __eso_seconds = seconds
+  return was
+end
+
 local function finished(...)
   _sethook()
   return ...
