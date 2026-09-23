@@ -1,5 +1,4 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-forked-session-keeps-the-whole-read-record.finding.ts","id":"01a094fc-832a-796b-a2ce-07af3cfb4e68"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-hook-test-spawning-the-hook-reads-the-body-on-disk-rather-than-the-change.finding.ts","id":"01a081c6-fcd3-7912-a592-7d178669dfbc"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-scratch-script-carries-every-guarded-call-past-every-hook.finding.ts","id":"01a076dd-7f97-774a-991d-50a92cd4d22b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-cli-routes-index-refresh-without-the-index-and-the-guard-over-it-does-not.finding.ts","id":"01a09b41-d132-74fb-8dff-0541d5071b02"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-git-hooks-guard-outside-the-repository-and-the-others-do-not.finding.ts","id":"01a05f45-b27b-74eb-a431-0d00b7b9fb8a"}
