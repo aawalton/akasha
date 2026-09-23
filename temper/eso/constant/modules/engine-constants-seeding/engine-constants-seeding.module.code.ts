@@ -6,7 +6,7 @@ import {
   marshalLuaValue,
 } from "akasha/temper/eso/lua-runner/modules/lua-marshal/lua-marshal.module.code.ts"
 
-export const CONSTANTS_AT =
+const CONSTANTS_AT =
   "temper/eso/constant/modules/engine-constants/engine-constants.data-table.data.json"
 
 const PER_CHUNK = 2000
