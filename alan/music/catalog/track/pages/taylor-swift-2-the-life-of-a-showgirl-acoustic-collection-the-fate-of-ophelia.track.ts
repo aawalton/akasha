@@ -5,7 +5,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionTheFateOfOphelia = 
   type: "page-type/track",
   slug: "taylor-swift-2-the-life-of-a-showgirl-acoustic-collection-the-fate-of-ophelia",
   ownLength: 3.7678833333333333,
-  ownProgress: 0,
+  ownProgress: 3.7678833333333333,
   partOfCollections: [
     "release/taylor-swift-2-the-life-of-a-showgirl-acoustic-collection",
     "release/taylor-swift-2-the-life-of-a-showgirl",
@@ -14,7 +14,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionTheFateOfOphelia = 
     "release/taylor-swift-2-the-fate-of-ophelia-loud-luxury-remix",
     "release/taylor-swift-2-the-fate-of-ophelia-alone-in-my-tower-acoustic-version",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Fate of Ophelia",
   trackType: "studio",

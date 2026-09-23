@@ -5,11 +5,11 @@ export const taylorSwift2BettyLiveFromThe2020AcademyOfCountryMusicAwardsBettyLiv
   type: "page-type/track",
   slug: "taylor-swift-2-betty-live-from-the-2020-academy-of-country-music-awards-betty-live-from-the-2020",
   ownLength: 5.2023,
-  ownProgress: 0,
+  ownProgress: 5.2023,
   partOfCollections: [
     "release/taylor-swift-2-betty-live-from-the-2020-academy-of-country-music-awards",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "betty - Live from the 2020 Academy of Country Music Awards",
   trackType: "live",

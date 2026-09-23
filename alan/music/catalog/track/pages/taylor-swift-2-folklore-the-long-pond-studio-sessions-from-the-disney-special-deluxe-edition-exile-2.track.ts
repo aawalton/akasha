@@ -6,11 +6,11 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
     type: "page-type/track",
     slug: "taylor-swift-2-folklore-the-long-pond-studio-sessions-from-the-disney-special-deluxe-edition-exile-2",
     ownLength: 4.664883333333333,
-    ownProgress: 0,
+    ownProgress: 4.664883333333333,
     partOfCollections: [
       "release/taylor-swift-2-folklore-the-long-pond-studio-sessions-from-the-disney-special-deluxe-edition",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "exile (feat. Bon Iver) - the long pond studio sessions",
     trackType: "live",

@@ -5,7 +5,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionAntiHero = {
   type: "page-type/track",
   slug: "taylor-swift-2-midnights-the-til-dawn-edition-anti-hero",
   ownLength: 3.3448333333333333,
-  ownProgress: 0,
+  ownProgress: 3.3448333333333333,
   partOfCollections: [
     "release/taylor-swift-2-midnights-the-til-dawn-edition",
     "release/taylor-swift-2-midnights-3am-edition",
@@ -13,7 +13,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionAntiHero = {
     "release/taylor-swift-2-anti-hero-remixes",
     "release/taylor-swift-2-anti-hero-feat-bleachers",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Anti-Hero",
   trackType: "studio",

@@ -5,11 +5,11 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   type: "page-type/track",
   slug: "taylor-swift-2-folklore-the-long-pond-studio-sessions-from-the-disney-special-deluxe-edition-the-3",
   ownLength: 3.8724333333333334,
-  ownProgress: 0,
+  ownProgress: 3.8724333333333334,
   partOfCollections: [
     "release/taylor-swift-2-folklore-the-long-pond-studio-sessions-from-the-disney-special-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "the last great american dynasty - the long pond studio sessions",
   trackType: "live",

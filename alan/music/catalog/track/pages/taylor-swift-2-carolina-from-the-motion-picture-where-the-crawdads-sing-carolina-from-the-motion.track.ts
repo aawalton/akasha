@@ -5,11 +5,11 @@ export const taylorSwift2CarolinaFromTheMotionPictureWhereTheCrawdadsSingCarolin
   type: "page-type/track",
   slug: "taylor-swift-2-carolina-from-the-motion-picture-where-the-crawdads-sing-carolina-from-the-motion",
   ownLength: 4.4073,
-  ownProgress: 0,
+  ownProgress: 4.4073,
   partOfCollections: [
     "release/taylor-swift-2-carolina-from-the-motion-picture-where-the-crawdads-sing",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Carolina - From The Motion Picture “Where The Crawdads Sing”",
   trackType: "studio",

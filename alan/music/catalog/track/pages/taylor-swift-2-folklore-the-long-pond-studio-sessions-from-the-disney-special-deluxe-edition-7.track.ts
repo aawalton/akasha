@@ -5,11 +5,11 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   type: "page-type/track",
   slug: "taylor-swift-2-folklore-the-long-pond-studio-sessions-from-the-disney-special-deluxe-edition-7",
   ownLength: 4.333333333333333,
-  ownProgress: 0,
+  ownProgress: 4.333333333333333,
   partOfCollections: [
     "release/taylor-swift-2-folklore-the-long-pond-studio-sessions-from-the-disney-special-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "august - the long pond studio sessions",
   trackType: "live",

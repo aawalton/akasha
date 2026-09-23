@@ -5,11 +5,11 @@ export const taylorSwift2MessageInABottleFatMaxGRemixTaylorSVersionMessageInABot
   type: "page-type/track",
   slug: "taylor-swift-2-message-in-a-bottle-fat-max-g-remix-taylor-s-version-message-in-a-bottle-fat-max-g",
   ownLength: 3.74415,
-  ownProgress: 0,
+  ownProgress: 3.74415,
   partOfCollections: [
     "release/taylor-swift-2-message-in-a-bottle-fat-max-g-remix-taylor-s-version",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Message In A Bottle (Fat Max G Remix) (Taylor’s Version)",
   trackType: "remix",

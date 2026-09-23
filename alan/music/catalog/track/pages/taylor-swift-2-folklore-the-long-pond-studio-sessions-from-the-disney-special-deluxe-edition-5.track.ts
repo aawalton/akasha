@@ -5,11 +5,11 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   type: "page-type/track",
   slug: "taylor-swift-2-folklore-the-long-pond-studio-sessions-from-the-disney-special-deluxe-edition-5",
   ownLength: 3.8446666666666665,
-  ownProgress: 0,
+  ownProgress: 3.8446666666666665,
   partOfCollections: [
     "release/taylor-swift-2-folklore-the-long-pond-studio-sessions-from-the-disney-special-deluxe-edition",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "cardigan - the long pond studio sessions",
   trackType: "live",
