@@ -4,14 +4,13 @@ export const yaelokreToDouseAScaldedTongue = {
   id: "01a0676a-d72f-7004-9e6a-404efef60eff",
   type: "page-type/release",
   slug: "yaelokre-to-douse-a-scalded-tongue",
-  title: "To douse a scalded tongue",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/yaelokre"],
   position: 0,
-  ownLength: 2.725233,
-  ownProgress: 2.725233,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-08-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const yaelokreToDouseAScaldedTongue = {
       externalLink: "https://open.spotify.com/album/59ZPkdnpcav6a9vFG0OVOR",
     },
   ],
+  title: "To douse a scalded tongue",
 } as const satisfies Release

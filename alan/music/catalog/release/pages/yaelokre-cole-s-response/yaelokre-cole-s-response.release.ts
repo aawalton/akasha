@@ -4,14 +4,13 @@ export const yaelokreColeSResponse = {
   id: "01a0676a-d71b-700e-b71d-04c9fddaeeb5",
   type: "page-type/release",
   slug: "yaelokre-cole-s-response",
-  title: "Cole's Response",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/yaelokre"],
   position: 0,
-  ownLength: 2.14975,
-  ownProgress: 2.14975,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-05-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const yaelokreColeSResponse = {
       externalLink: "https://open.spotify.com/album/3c9v4CNoqLy1h3x8nlM5vP",
     },
   ],
+  title: "Cole's Response",
 } as const satisfies Release

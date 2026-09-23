@@ -4,14 +4,13 @@ export const taylorSwift2WillowDancingWitchVersionElviraRemix = {
   id: "01a0676a-d731-7021-a82f-d8e0f8862c67",
   type: "page-type/release",
   slug: "taylor-swift-2-willow-dancing-witch-version-elvira-remix",
-  title: "willow [dancing witch version (Elvira remix)]",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.080317,
-  ownProgress: 3.080317,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-12-13",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2WillowDancingWitchVersionElviraRemix = {
       externalLink: "https://open.spotify.com/album/23u5rTisTUAWuQxaDft11P",
     },
   ],
+  title: "willow [dancing witch version (Elvira remix)]",
 } as const satisfies Release

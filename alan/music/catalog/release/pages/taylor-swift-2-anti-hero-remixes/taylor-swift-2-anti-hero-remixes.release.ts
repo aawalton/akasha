@@ -4,14 +4,13 @@ export const taylorSwift2AntiHeroRemixes = {
   id: "01a0676a-d717-7029-9f0d-2df30fd050e2",
   type: "page-type/release",
   slug: "taylor-swift-2-anti-hero-remixes",
-  title: "Anti-Hero (Remixes)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 18.976633,
-  ownProgress: 18.976633,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-11-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2AntiHeroRemixes = {
       externalLink: "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt",
     },
   ],
+  title: "Anti-Hero (Remixes)",
 } as const satisfies Release

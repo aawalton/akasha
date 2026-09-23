@@ -4,14 +4,13 @@ export const taylorSwift2TaylorSwift = {
   id: "01a0676a-d72c-7004-aa96-67c96605d39d",
   type: "page-type/release",
   slug: "taylor-swift-2-taylor-swift",
-  title: "Taylor Swift",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 53.492783,
-  ownProgress: 53.492783,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2006-10-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2TaylorSwift = {
       externalLink: "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3",
     },
   ],
+  title: "Taylor Swift",
 } as const satisfies Release

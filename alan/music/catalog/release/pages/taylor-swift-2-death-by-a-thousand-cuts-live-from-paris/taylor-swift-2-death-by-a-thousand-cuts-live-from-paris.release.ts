@@ -4,14 +4,13 @@ export const taylorSwift2DeathByAThousandCutsLiveFromParis = {
   id: "01a0676a-d71b-7071-a635-8693081bd08a",
   type: "page-type/release",
   slug: "taylor-swift-2-death-by-a-thousand-cuts-live-from-paris",
-  title: "Death By A Thousand Cuts (Live From Paris)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.317767,
-  ownProgress: 3.317767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-05-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2DeathByAThousandCutsLiveFromParis = {
       externalLink: "https://open.spotify.com/album/5nDpkszadFMGW6ZSYM9Q1V",
     },
   ],
+  title: "Death By A Thousand Cuts (Live From Paris)",
 } as const satisfies Release

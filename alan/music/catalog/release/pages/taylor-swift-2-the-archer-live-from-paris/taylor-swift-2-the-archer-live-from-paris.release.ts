@@ -4,14 +4,13 @@ export const taylorSwift2TheArcherLiveFromParis = {
   id: "01a0676a-d72c-7025-b6d8-8ad4d0913b2b",
   type: "page-type/release",
   slug: "taylor-swift-2-the-archer-live-from-paris",
-  title: "The Archer (Live From Paris)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.516,
-  ownProgress: 3.516,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-05-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2TheArcherLiveFromParis = {
       externalLink: "https://open.spotify.com/album/2A1msASmUbUdaZyeOxpbAD",
     },
   ],
+  title: "The Archer (Live From Paris)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const taylorSwift2Evermore = {
   id: "01a0676a-d71d-7030-8b70-a23295004b6f",
   type: "page-type/release",
   slug: "taylor-swift-2-evermore",
-  title: "evermore",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 60.7535,
-  ownProgress: 60.7535,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-12-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2Evermore = {
       externalLink: "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq",
     },
   ],
+  title: "evermore",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const taylorSwift2LoveStoryPopMix = {
   id: "01a0676a-d724-7001-921c-6207b45be06c",
   type: "page-type/release",
   slug: "taylor-swift-2-love-story-pop-mix",
-  title: "Love Story (Pop Mix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.894217,
-  ownProgress: 3.894217,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-02-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2LoveStoryPopMix = {
       externalLink: "https://open.spotify.com/album/1iab5rfjNpGhoPlFzPyp4k",
     },
   ],
+  title: "Love Story (Pop Mix)",
 } as const satisfies Release

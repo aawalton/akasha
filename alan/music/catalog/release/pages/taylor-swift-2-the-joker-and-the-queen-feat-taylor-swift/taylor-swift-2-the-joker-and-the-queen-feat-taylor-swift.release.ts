@@ -4,14 +4,13 @@ export const taylorSwift2TheJokerAndTheQueenFeatTaylorSwift = {
   id: "01a0676a-d72d-702b-86f1-65ee735fcd88",
   type: "page-type/release",
   slug: "taylor-swift-2-the-joker-and-the-queen-feat-taylor-swift",
-  title: "The Joker And The Queen (feat. Taylor Swift)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.090367,
-  ownProgress: 3.090367,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-02-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2TheJokerAndTheQueenFeatTaylorSwift = {
       externalLink: "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0",
     },
   ],
+  title: "The Joker And The Queen (feat. Taylor Swift)",
 } as const satisfies Release

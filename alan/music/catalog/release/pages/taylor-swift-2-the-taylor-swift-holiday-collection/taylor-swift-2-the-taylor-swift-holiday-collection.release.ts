@@ -4,14 +4,13 @@ export const taylorSwift2TheTaylorSwiftHolidayCollection = {
   id: "01a0676a-d72e-7014-91cc-d30a842b7b3b",
   type: "page-type/release",
   slug: "taylor-swift-2-the-taylor-swift-holiday-collection",
-  title: "The Taylor Swift Holiday Collection",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 19.119083,
-  ownProgress: 19.119083,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2008-12-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2TheTaylorSwiftHolidayCollection = {
       externalLink: "https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF",
     },
   ],
+  title: "The Taylor Swift Holiday Collection",
 } as const satisfies Release

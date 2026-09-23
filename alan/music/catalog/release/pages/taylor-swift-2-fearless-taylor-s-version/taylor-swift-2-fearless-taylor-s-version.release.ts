@@ -4,14 +4,13 @@ export const taylorSwift2FearlessTaylorSVersion = {
   id: "01a0676a-d71d-706c-b5f2-5cdc19d23870",
   type: "page-type/release",
   slug: "taylor-swift-2-fearless-taylor-s-version",
-  title: "Fearless (Taylor's Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 106.5415,
-  ownProgress: 106.5415,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-04-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2FearlessTaylorSVersion = {
       externalLink: "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH",
     },
   ],
+  title: "Fearless (Taylor's Version)",
 } as const satisfies Release

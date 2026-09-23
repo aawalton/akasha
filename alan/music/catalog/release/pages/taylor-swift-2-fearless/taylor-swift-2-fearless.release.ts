@@ -4,14 +4,13 @@ export const taylorSwift2Fearless = {
   id: "01a0676a-d71d-706a-a752-105022e06278",
   type: "page-type/release",
   slug: "taylor-swift-2-fearless",
-  title: "Fearless",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 53.5479,
-  ownProgress: 53.5479,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2008-11-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2Fearless = {
       externalLink: "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x",
     },
   ],
+  title: "Fearless",
 } as const satisfies Release

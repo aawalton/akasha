@@ -4,14 +4,13 @@ export const yaelokreComposingColentine = {
   id: "01a0676a-d71b-701f-9ad2-227cef220466",
   type: "page-type/release",
   slug: "yaelokre-composing-colentine",
-  title: "Composing Colentine",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/yaelokre"],
   position: 0,
-  ownLength: 18.879817,
-  ownProgress: 0,
-  unit: "unit/minutes",
-  status: "not-started",
   publishedAt: "2026-02-12",
+  status: "not-started",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const yaelokreComposingColentine = {
       lastSyncedAt: "2026-03-02",
     },
   ],
+  title: "Composing Colentine",
 } as const satisfies Release

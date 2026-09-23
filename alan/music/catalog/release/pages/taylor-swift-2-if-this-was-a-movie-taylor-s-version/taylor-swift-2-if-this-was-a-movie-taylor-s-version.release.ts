@@ -4,14 +4,13 @@ export const taylorSwift2IfThisWasAMovieTaylorSVersion = {
   id: "01a0676a-d721-7055-8ba2-98339885e7df",
   type: "page-type/release",
   slug: "taylor-swift-2-if-this-was-a-movie-taylor-s-version",
-  title: "If This Was A Movie (Taylor’s Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.950367,
-  ownProgress: 3.950367,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-04-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2IfThisWasAMovieTaylorSVersion = {
       externalLink: "https://open.spotify.com/album/6IZm7NfvWyXp952VF36Z5F",
     },
   ],
+  title: "If This Was A Movie (Taylor’s Version)",
 } as const satisfies Release

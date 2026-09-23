@@ -4,14 +4,13 @@ export const taylorSwift2YouNeedToCalmDownLiveFromParis = {
   id: "01a0676a-d732-7011-bdab-05648dc72c88",
   type: "page-type/release",
   slug: "taylor-swift-2-you-need-to-calm-down-live-from-paris",
-  title: "You Need To Calm Down (Live From Paris)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.399333,
-  ownProgress: 3.399333,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-05-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2YouNeedToCalmDownLiveFromParis = {
       externalLink: "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra",
     },
   ],
+  title: "You Need To Calm Down (Live From Paris)",
 } as const satisfies Release

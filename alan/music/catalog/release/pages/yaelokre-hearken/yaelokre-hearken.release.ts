@@ -4,14 +4,13 @@ export const yaelokreHearken = {
   id: "01a0676a-d720-700c-9b93-7e5eae958628",
   type: "page-type/release",
   slug: "yaelokre-hearken",
-  title: "Hearken",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/yaelokre"],
   position: 0,
-  ownLength: 6.194517,
-  ownProgress: 0,
-  unit: "unit/minutes",
-  status: "not-started",
   publishedAt: "2026-02-11",
+  status: "not-started",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const yaelokreHearken = {
       lastSyncedAt: "2026-03-02",
     },
   ],
+  title: "Hearken",
 } as const satisfies Release

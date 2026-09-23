@@ -4,7 +4,7 @@ export const yaelokreForeword = {
   id: "01a0ce87-1026-7aa1-ac05-f3f118db8b46",
   type: "page-type/release",
   slug: "yaelokre-foreword",
-  ownLength: 38.45901666666666,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/yaelokre"],
   position: 0,

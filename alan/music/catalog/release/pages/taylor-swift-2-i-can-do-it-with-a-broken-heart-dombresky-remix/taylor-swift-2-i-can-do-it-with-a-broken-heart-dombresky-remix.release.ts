@@ -4,14 +4,13 @@ export const taylorSwift2ICanDoItWithABrokenHeartDombreskyRemix = {
   id: "01a0676a-d721-7005-a26a-e402c35b37ed",
   type: "page-type/release",
   slug: "taylor-swift-2-i-can-do-it-with-a-broken-heart-dombresky-remix",
-  title: "I Can Do It With a Broken Heart (Dombresky Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 10.423317,
-  ownProgress: 10.423317,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-09-13",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2ICanDoItWithABrokenHeartDombreskyRemix = {
       externalLink: "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7",
     },
   ],
+  title: "I Can Do It With a Broken Heart (Dombresky Remix)",
 } as const satisfies Release

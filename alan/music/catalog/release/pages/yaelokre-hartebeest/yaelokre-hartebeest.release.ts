@@ -4,14 +4,13 @@ export const yaelokreHartebeest = {
   id: "01a0676a-d71f-7057-a778-73bbac487470",
   type: "page-type/release",
   slug: "yaelokre-hartebeest",
-  title: "Hartebeest",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/yaelokre"],
   position: 0,
-  ownLength: 4.243467,
-  ownProgress: 4.243467,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-01-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const yaelokreHartebeest = {
       externalLink: "https://open.spotify.com/album/2eQDx2xXE53YdCxv4aDcnn",
     },
   ],
+  title: "Hartebeest",
 } as const satisfies Release

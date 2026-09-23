@@ -4,14 +4,13 @@ export const taylorSwift2ReadyForItBloodpopRemix = {
   id: "01a0676a-d727-704f-9f9c-1f95636bc95f",
   type: "page-type/release",
   slug: "taylor-swift-2-ready-for-it-bloodpop-remix",
-  title: "...Ready For It? (BloodPop® Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.158467,
-  ownProgress: 3.158467,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-12-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2ReadyForItBloodpopRemix = {
       externalLink: "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM",
     },
   ],
+  title: "...Ready For It? (BloodPop® Remix)",
 } as const satisfies Release

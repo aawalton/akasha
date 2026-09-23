@@ -4,14 +4,13 @@ export const taylorSwift2Midnights3amEdition = {
   id: "01a0676a-d724-7066-be0a-293787a75197",
   type: "page-type/release",
   slug: "taylor-swift-2-midnights-3am-edition",
-  title: "Midnights (3am Edition)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 69.487733,
-  ownProgress: 69.487733,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-10-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2Midnights3amEdition = {
       externalLink: "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq",
     },
   ],
+  title: "Midnights (3am Edition)",
 } as const satisfies Release

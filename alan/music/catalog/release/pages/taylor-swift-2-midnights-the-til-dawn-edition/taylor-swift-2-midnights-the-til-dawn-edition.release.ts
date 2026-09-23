@@ -4,14 +4,13 @@ export const taylorSwift2MidnightsTheTilDawnEdition = {
   id: "01a0676a-d724-7067-a84b-9876c6c50e05",
   type: "page-type/release",
   slug: "taylor-swift-2-midnights-the-til-dawn-edition",
-  title: "Midnights (The Til Dawn Edition)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 80.586083,
-  ownProgress: 80.586083,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-05-26",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2MidnightsTheTilDawnEdition = {
       externalLink: "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A",
     },
   ],
+  title: "Midnights (The Til Dawn Edition)",
 } as const satisfies Release

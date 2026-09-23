@@ -4,14 +4,13 @@ export const taylorSwift2SpeakNow = {
   id: "01a0676a-d729-7073-83d5-9c7fc4af984b",
   type: "page-type/release",
   slug: "taylor-swift-2-speak-now",
-  title: "Speak Now",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 67.0328,
-  ownProgress: 67.0328,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2010-10-25",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2SpeakNow = {
       externalLink: "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy",
     },
   ],
+  title: "Speak Now",
 } as const satisfies Release

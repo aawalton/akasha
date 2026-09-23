@@ -4,15 +4,14 @@ export const taylorSwift2TheLifeOfAShowgirl = {
   id: "01a0676a-d72d-7032-9078-8964fa96c4ad",
   type: "page-type/release",
   slug: "taylor-swift-2-the-life-of-a-showgirl",
-  title: "The Life of a Showgirl",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 41.762983,
-  ownProgress: 41.762983,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2025-10-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const taylorSwift2TheLifeOfAShowgirl = {
       lastSyncedAt: "2025-10-04",
     },
   ],
+  title: "The Life of a Showgirl",
 } as const satisfies Release

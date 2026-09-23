@@ -4,14 +4,13 @@ export const taylorSwift2LiveFromClearChannelStripped2008 = {
   id: "01a0676a-d723-704b-98a8-4bc9d2410c82",
   type: "page-type/release",
   slug: "taylor-swift-2-live-from-clear-channel-stripped-2008",
-  title: "Live From Clear Channel Stripped 2008",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 27.92925,
-  ownProgress: 27.92925,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2008-06-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2LiveFromClearChannelStripped2008 = {
       externalLink: "https://open.spotify.com/album/1ycoesYxIFymXWebfmz828",
     },
   ],
+  title: "Live From Clear Channel Stripped 2008",
 } as const satisfies Release

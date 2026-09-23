@@ -4,15 +4,14 @@ export const yaelokreKamahalan = {
   id: "01a0676a-d722-7035-b4e1-2aa7fe102c9a",
   type: "page-type/release",
   slug: "yaelokre-kamahalan",
-  title: "Kamahalan",
+  grade: "C",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/yaelokre"],
   position: 0,
-  ownLength: 2.470633,
-  ownProgress: 2.470633,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "C",
   publishedAt: "2025-10-23",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const yaelokreKamahalan = {
       lastSyncedAt: "2025-10-30",
     },
   ],
+  title: "Kamahalan",
 } as const satisfies Release

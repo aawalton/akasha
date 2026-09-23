@@ -4,14 +4,13 @@ export const taylorSwift2EyesOpenTaylorSVersion = {
   id: "01a0676a-d71d-705a-ae46-bbf012843cb2",
   type: "page-type/release",
   slug: "taylor-swift-2-eyes-open-taylor-s-version",
-  title: "Eyes Open (Taylor's Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 4.0544,
-  ownProgress: 4.0544,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-11-12",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2EyesOpenTaylorSVersion = {
       externalLink: "https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3",
     },
   ],
+  title: "Eyes Open (Taylor's Version)",
 } as const satisfies Release

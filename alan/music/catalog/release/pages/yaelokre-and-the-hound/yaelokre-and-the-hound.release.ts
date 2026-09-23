@@ -4,14 +4,13 @@ export const yaelokreAndTheHound = {
   id: "01a0676a-d717-7019-b3d3-4b32db3a8dfc",
   type: "page-type/release",
   slug: "yaelokre-and-the-hound",
-  title: "And the Hound",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/yaelokre"],
   position: 0,
-  ownLength: 3.38925,
-  ownProgress: 3.38925,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-01-06",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const yaelokreAndTheHound = {
       externalLink: "https://open.spotify.com/album/0QeFtPEdGdDtTuHp9tCScd",
     },
   ],
+  title: "And the Hound",
 } as const satisfies Release

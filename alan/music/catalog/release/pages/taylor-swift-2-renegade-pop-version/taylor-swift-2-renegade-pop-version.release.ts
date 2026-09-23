@@ -4,14 +4,13 @@ export const taylorSwift2RenegadePopVersion = {
   id: "01a0676a-d727-7068-b00a-0a813f0e99b2",
   type: "page-type/release",
   slug: "taylor-swift-2-renegade-pop-version",
-  title: "Renegade (Pop Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.858767,
-  ownProgress: 3.858767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-08-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2RenegadePopVersion = {
       externalLink: "https://open.spotify.com/album/49yiYOnz2UyaNl72xvDERt",
     },
   ],
+  title: "Renegade (Pop Version)",
 } as const satisfies Release

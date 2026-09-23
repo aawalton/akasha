@@ -4,14 +4,13 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   id: "01a0676a-d71e-701d-9d87-6976a1a11a46",
   type: "page-type/release",
   slug: "taylor-swift-2-folklore-the-long-pond-studio-sessions-from-the-disney-special-deluxe-edition",
-  title: "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 134.704517,
-  ownProgress: 134.704517,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-11-25",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
       externalLink: "https://open.spotify.com/album/0PZ7lAru5FDFHuirTkWe9Z",
     },
   ],
+  title: "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
 } as const satisfies Release

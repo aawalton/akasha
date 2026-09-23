@@ -4,14 +4,13 @@ export const taylorSwift2BadBlood = {
   id: "01a0676a-d718-7004-bdae-65f5596e4804",
   type: "page-type/release",
   slug: "taylor-swift-2-bad-blood",
-  title: "Bad Blood",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.3351,
-  ownProgress: 3.3351,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-05-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2BadBlood = {
       externalLink: "https://open.spotify.com/album/1Tv3rrFNdXGtTeP1plX2xE",
     },
   ],
+  title: "Bad Blood",
 } as const satisfies Release

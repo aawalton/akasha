@@ -4,14 +4,13 @@ export const taylorSwift2ThisLoveTaylorSVersion = {
   id: "01a0676a-d72e-7032-8255-ad6121ffe4bc",
   type: "page-type/release",
   slug: "taylor-swift-2-this-love-taylor-s-version",
-  title: "This Love (Taylor’s Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 7.842217,
-  ownProgress: 7.842217,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-05-06",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2ThisLoveTaylorSVersion = {
       externalLink: "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y",
     },
   ],
+  title: "This Love (Taylor’s Version)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const taylorSwift2SpeakNowWorldTourLive = {
   id: "01a0676a-d729-7076-8a5a-7d01ead609d2",
   type: "page-type/release",
   slug: "taylor-swift-2-speak-now-world-tour-live",
-  title: "Speak Now World Tour Live",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 79.232317,
-  ownProgress: 79.232317,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2010-10-25",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2SpeakNowWorldTourLive = {
       externalLink: "https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh",
     },
   ],
+  title: "Speak Now World Tour Live",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const taylorSwift2FearlessPlatinumEdition = {
   id: "01a0676a-d71d-706b-9c8d-454758d7070b",
   type: "page-type/release",
   slug: "taylor-swift-2-fearless-platinum-edition",
-  title: "Fearless Platinum Edition",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 79.443683,
-  ownProgress: 79.443683,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2008-11-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2FearlessPlatinumEdition = {
       externalLink: "https://open.spotify.com/album/43OpbkiiIxJO8ktIB777Nn",
     },
   ],
+  title: "Fearless Platinum Edition",
 } as const satisfies Release

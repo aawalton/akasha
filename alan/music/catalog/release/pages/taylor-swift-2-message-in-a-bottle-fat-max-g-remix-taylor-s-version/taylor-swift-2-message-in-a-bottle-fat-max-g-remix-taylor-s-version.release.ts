@@ -4,14 +4,13 @@ export const taylorSwift2MessageInABottleFatMaxGRemixTaylorSVersion = {
   id: "01a0676a-d724-7051-bfec-f462f3bd82b5",
   type: "page-type/release",
   slug: "taylor-swift-2-message-in-a-bottle-fat-max-g-remix-taylor-s-version",
-  title: "Message In A Bottle (Fat Max G Remix) (Taylor’s Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 7.5102,
-  ownProgress: 7.5102,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-01-21",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2MessageInABottleFatMaxGRemixTaylorSVersion = {
       externalLink: "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm",
     },
   ],
+  title: "Message In A Bottle (Fat Max G Remix) (Taylor’s Version)",
 } as const satisfies Release

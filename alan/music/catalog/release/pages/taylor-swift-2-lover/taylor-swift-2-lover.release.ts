@@ -4,14 +4,13 @@ export const taylorSwift2Lover = {
   id: "01a0676a-d724-7009-8407-b0b45d1317f6",
   type: "page-type/release",
   slug: "taylor-swift-2-lover",
-  title: "Lover",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 61.85635,
-  ownProgress: 61.85635,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-08-23",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2Lover = {
       externalLink: "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq",
     },
   ],
+  title: "Lover",
 } as const satisfies Release

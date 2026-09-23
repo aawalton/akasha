@@ -4,14 +4,13 @@ export const taylorSwift2ChristmasTreeFarm = {
   id: "01a0676a-d71a-7044-9b3c-e111be33f877",
   type: "page-type/release",
   slug: "taylor-swift-2-christmas-tree-farm",
-  title: "Christmas Tree Farm",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 11.908417,
-  ownProgress: 11.908417,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-11-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2ChristmasTreeFarm = {
       externalLink: "https://open.spotify.com/album/2jEFKhESvCLGpFP8KwpV2T",
     },
   ],
+  title: "Christmas Tree Farm",
 } as const satisfies Release

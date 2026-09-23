@@ -4,14 +4,13 @@ export const taylorSwift2Folklore = {
   id: "01a0676a-d71e-701b-b7a7-47adc86bd4f1",
   type: "page-type/release",
   slug: "taylor-swift-2-folklore",
-  title: "folklore",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 63.609783,
-  ownProgress: 63.609783,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-07-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2Folklore = {
       externalLink: "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr",
     },
   ],
+  title: "folklore",
 } as const satisfies Release

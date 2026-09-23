@@ -4,15 +4,14 @@ export const yaelokreOrigins = {
   id: "01a0676a-d726-7048-b529-6edf564bf2e5",
   type: "page-type/release",
   slug: "yaelokre-origins",
-  title: "Origins",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/yaelokre"],
   position: 0,
-  ownLength: 10.5081,
-  ownProgress: 10.5081,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2025-10-23",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const yaelokreOrigins = {
       lastSyncedAt: "2025-10-30",
     },
   ],
+  title: "Origins",
 } as const satisfies Release

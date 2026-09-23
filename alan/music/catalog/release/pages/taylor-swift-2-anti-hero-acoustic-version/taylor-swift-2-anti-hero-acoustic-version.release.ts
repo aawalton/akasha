@@ -4,14 +4,13 @@ export const taylorSwift2AntiHeroAcousticVersion = {
   id: "01a0676a-d717-7026-a77b-b2c09061b8f3",
   type: "page-type/release",
   slug: "taylor-swift-2-anti-hero-acoustic-version",
-  title: "Anti-Hero (Acoustic Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.27455,
-  ownProgress: 3.27455,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-11-25",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2AntiHeroAcousticVersion = {
       externalLink: "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv",
     },
   ],
+  title: "Anti-Hero (Acoustic Version)",
 } as const satisfies Release

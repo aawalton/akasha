@@ -4,14 +4,13 @@ export const taylorSwift2Red = {
   id: "01a0676a-d727-705c-bc19-dd32d0923bbf",
   type: "page-type/release",
   slug: "taylor-swift-2-red",
-  title: "Red",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 64.923233,
-  ownProgress: 64.923233,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2012-10-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2Red = {
       externalLink: "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5",
     },
   ],
+  title: "Red",
 } as const satisfies Release

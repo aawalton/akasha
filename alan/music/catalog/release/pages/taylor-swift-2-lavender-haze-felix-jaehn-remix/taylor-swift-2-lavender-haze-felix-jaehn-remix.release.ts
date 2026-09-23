@@ -4,14 +4,13 @@ export const taylorSwift2LavenderHazeFelixJaehnRemix = {
   id: "01a0676a-d722-7063-909e-6a3bdaf22549",
   type: "page-type/release",
   slug: "taylor-swift-2-lavender-haze-felix-jaehn-remix",
-  title: "Lavender Haze (Felix Jaehn Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 2.859367,
-  ownProgress: 2.859367,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-02-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2LavenderHazeFelixJaehnRemix = {
       externalLink: "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV",
     },
   ],
+  title: "Lavender Haze (Felix Jaehn Remix)",
 } as const satisfies Release

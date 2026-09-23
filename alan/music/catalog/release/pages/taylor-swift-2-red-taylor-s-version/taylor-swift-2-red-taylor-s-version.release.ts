@@ -4,14 +4,13 @@ export const taylorSwift2RedTaylorSVersion = {
   id: "01a0676a-d727-705f-9a63-c90c8ea35350",
   type: "page-type/release",
   slug: "taylor-swift-2-red-taylor-s-version",
-  title: "Red (Taylor's Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 130.663833,
-  ownProgress: 130.663833,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-11-12",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2RedTaylorSVersion = {
       externalLink: "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9",
     },
   ],
+  title: "Red (Taylor's Version)",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersion = {
   id: "01a0676a-d72d-7034-9ed8-51a530fecfe0",
   type: "page-type/release",
   slug: "taylor-swift-2-the-life-of-a-showgirl-track-by-track-version",
-  title: "The Life of a Showgirl (Track by Track Version)",
+  grade: "A",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 50.7555,
-  ownProgress: 50.7555,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "A",
   publishedAt: "2025-10-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersion = {
       lastSyncedAt: "2025-10-28",
     },
   ],
+  title: "The Life of a Showgirl (Track by Track Version)",
 } as const satisfies Release

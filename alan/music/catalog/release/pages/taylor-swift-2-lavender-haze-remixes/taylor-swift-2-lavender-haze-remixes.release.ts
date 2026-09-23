@@ -4,14 +4,13 @@ export const taylorSwift2LavenderHazeRemixes = {
   id: "01a0676a-d722-7064-a6f1-d0b854a5d6cc",
   type: "page-type/release",
   slug: "taylor-swift-2-lavender-haze-remixes",
-  title: "Lavender Haze (Remixes)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 16.87275,
-  ownProgress: 16.87275,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-03-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2LavenderHazeRemixes = {
       externalLink: "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr",
     },
   ],
+  title: "Lavender Haze (Remixes)",
 } as const satisfies Release

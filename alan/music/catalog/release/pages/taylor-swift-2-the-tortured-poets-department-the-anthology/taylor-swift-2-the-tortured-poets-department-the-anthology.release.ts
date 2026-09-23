@@ -4,14 +4,13 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthology = {
   id: "01a0676a-d72e-7017-9f98-efa42800be43",
   type: "page-type/release",
   slug: "taylor-swift-2-the-tortured-poets-department-the-anthology",
-  title: "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 122.645733,
-  ownProgress: 122.645733,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-04-19",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthology = {
       externalLink: "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb",
     },
   ],
+  title: "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
 } as const satisfies Release

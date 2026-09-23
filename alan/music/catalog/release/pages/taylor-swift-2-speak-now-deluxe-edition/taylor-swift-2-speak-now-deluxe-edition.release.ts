@@ -4,14 +4,13 @@ export const taylorSwift2SpeakNowDeluxeEdition = {
   id: "01a0676a-d729-7074-883d-cb06193024b5",
   type: "page-type/release",
   slug: "taylor-swift-2-speak-now-deluxe-edition",
-  title: "Speak Now (Deluxe Edition)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 91.840117,
-  ownProgress: 91.840117,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2010-10-25",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2SpeakNowDeluxeEdition = {
       externalLink: "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym",
     },
   ],
+  title: "Speak Now (Deluxe Edition)",
 } as const satisfies Release

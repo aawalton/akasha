@@ -4,14 +4,13 @@ export const taylorSwift2LoveStoryTaylorSVersion = {
   id: "01a0676a-d724-7002-85ab-c9a017545411",
   type: "page-type/release",
   slug: "taylor-swift-2-love-story-taylor-s-version",
-  title: "Love Story (Taylor’s Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.929433,
-  ownProgress: 3.929433,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-02-12",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2LoveStoryTaylorSVersion = {
       externalLink: "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn",
     },
   ],
+  title: "Love Story (Taylor’s Version)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const taylorSwift2WillowMoonlitWitchVersion = {
   id: "01a0676a-d731-7023-b1f0-f25109439c41",
   type: "page-type/release",
   slug: "taylor-swift-2-willow-moonlit-witch-version",
-  title: "willow (moonlit witch version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.4811,
-  ownProgress: 3.4811,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-12-16",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2WillowMoonlitWitchVersion = {
       externalLink: "https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0",
     },
   ],
+  title: "willow (moonlit witch version)",
 } as const satisfies Release

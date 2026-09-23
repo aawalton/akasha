@@ -4,14 +4,13 @@ export const taylorSwift2LoverLiveFromParis = {
   id: "01a0676a-d724-700b-a96e-7f7f9571e978",
   type: "page-type/release",
   slug: "taylor-swift-2-lover-live-from-paris",
-  title: "Lover (Live From Paris)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/taylor-swift"],
   position: 0,
-  ownLength: 3.828883,
-  ownProgress: 3.828883,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-05-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const taylorSwift2LoverLiveFromParis = {
       externalLink: "https://open.spotify.com/album/7hvsmGyWH2kJS5X4E4t039",
     },
   ],
+  title: "Lover (Live From Paris)",
 } as const satisfies Release
