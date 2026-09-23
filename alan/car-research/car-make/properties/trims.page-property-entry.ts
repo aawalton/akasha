@@ -24,7 +24,7 @@ export const trims = {
     { pageProperty: "boolean-property/carplay-wireless", required: false, many: false },
     { pageProperty: "boolean-property/android-auto-wireless", required: false, many: false },
     { pageProperty: "boolean-property/federal-tax-credit-eligible", required: false, many: false },
-    { pageProperty: "text-property/car-year-slug", required: true, many: false },
+    { pageProperty: "relation-property/car-year", required: true, many: false },
     { pageProperty: "text-property/adas-standard", required: true, many: false },
     { pageProperty: "text-property/adas-optional", required: false, many: false },
     { pageProperty: "text-property/driver-assist-brand", required: false, many: false },

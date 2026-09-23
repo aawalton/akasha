@@ -11,7 +11,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.ts","id":"01a05ecf-9a12-7710-b385-fd3a09307d1d"}
 {"propertySlug":"decision-kind","path":"agent/subagent/kind/properties/dispatched-as.text-property.ts","id":"01a05978-f2e3-737b-8b65-7a65013f5626"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.ts","id":"01a095ed-9005-70e5-8d03-654f10141de7"}
-{"propertySlug":"decision-kind","path":"alan/car-research/car-trim/properties/car-year-slug.text-property.ts","id":"01a0c543-8c25-7484-9da3-144fd1373381"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/create-course/create-course.module.ts","id":"01a06579-f3d9-7005-80a2-939e9bfae257"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/root-parent-query/root-parent-query.module.ts","id":"01a06579-f3d9-7006-8368-78fe6c117de7"}
 {"propertySlug":"decision-kind","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.ts","id":"01a08c11-e71f-7f8f-b343-d87bac283b1c"}

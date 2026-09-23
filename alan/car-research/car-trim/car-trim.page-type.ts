@@ -21,7 +21,6 @@ export const carTrim = {
     "select-property/powertrain-type",
     "text-property/adas-optional",
     "text-property/adas-standard",
-    "text-property/car-year-slug",
     "text-property/driver-assist-brand",
     "text-property/drm-notes",
     "text-property/infotainment",

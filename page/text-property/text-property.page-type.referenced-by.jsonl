@@ -71,7 +71,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/car-research/car-model/properties/segment.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/adas-optional.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/adas-standard.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/car-year-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/driver-assist-brand.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/drm-notes.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/infotainment.text-property.ts"}
