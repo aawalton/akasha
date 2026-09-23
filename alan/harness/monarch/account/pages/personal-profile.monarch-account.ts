@@ -8,7 +8,7 @@ export const personalProfile = {
   definition: "money the family has, sitting in a checking account",
   monarchId: "148836305531181242",
   accountDisplayName: "Personal Profile",
-  currentBalance: 4.15,
+  currentBalance: 34.15,
   accountType: "depository",
   asset: true,
   accountActive: true,
