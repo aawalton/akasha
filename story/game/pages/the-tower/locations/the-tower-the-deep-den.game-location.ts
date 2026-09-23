@@ -24,19 +24,24 @@ export const theTowerTheDeepDen = {
   things: [
     {
       name: "the figures here (shadowed, reflected, warm — every tell faked)",
-      use: "TIER-4: NO single tell works anymore. The den fakes shadow, heat, AND reflection. The honest read is now CROSS-REFERENCE + BEHAVIOR: woven figures loop (repeat micro-gestures on a cycle), they don't displace the dust/grit underfoot, and they cannot answer a CHANGE he introduces (step unexpectedly and the real one tracks late; the projections are on rails). A reader stops trusting any one sense and triangulates — 2-of-3 disagreeing tells (a looping gesture + undisturbed dust + a beat-late reaction) marks a projection. This is a DEDUCTION, not a spot-check.",
+      use: "TIER-4: NO single tell works anymore. The den fakes shadow, heat, AND reflection. This is a DEDUCTION, not a spot-check.",
       note: "the ladder's top rung before the boss: the floor has defeated each individual tell, so the complexity becomes triangulation. This is the new-axis payoff — reading is now genuinely hard, not a one-line weakness.",
     },
     {
       name: "the midden of prior climbers (under the fraying gold)",
-      use: "the stakes, and a real-supply cache. Among the eaten: usable scavenge — a flask of REAL water (the only honest water on the floor, here, hidden under the lie — one drink), a spare iron spike (atk 3 offhand), and a half-burned journal whose last legible line: 'IT WEARS THE ROOM. WHEN YOU KILL THE HOST THE WHOLE PLACE DIES AT ONCE — AND THE FLOOR GOES WITH IT. BE NEAR THE STAIR WHEN IT DOES.' Foreshadows phase-3 (the collapse) and hands him the real water as fair reward for reaching the bleak-through.",
+      use: "the stakes, and a real-supply cache. Among the eaten: usable scavenge — a flask of REAL water (the only honest water on the floor, here, hidden under the lie — one drink), a spare iron spike (atk 3 offhand), and a half-burned journal.",
       note: "the honest cache under the illusion: a reader who pushed through the comfort to the cold truth is rewarded (one real drink + the phase-3 warning). Counterpart to the lures of the warm rooms — truth is colder and barer but real.",
       status: "INTACT",
     },
     {
       name: "the bare wet stone beneath the gold (the real den)",
-      use: "the floor's truth bleeding through — the den is a cold stone predation-chamber the haven is painted over. The real geometry is tighter and barer than the gold pretends, and it slopes toward the Host's seat. Reading the real stone (where the dust lies undisturbed, where the cold comes from) navigates truer than the warm illusion. It also shows the floor is structurally REAL stone — phase-3's collapse is the ILLUSION dying, not the stone, but the illusion was hiding the room's edges (a real drop at the chamber's lip — a floor-4 falling callback, compounded).",
+      use: "the floor's truth bleeding through — the den is a cold stone predation-chamber the haven is painted over. Reading the real stone (where the dust lies undisturbed, where the cold comes from) navigates truer than the warm illusion.",
       note: "the real layer. Decided: the stone is real; the gold is the lie; phase-3 strips the gold and the hidden edges/drop become live hazards.",
+    },
+    {
+      name: "a half-burned journal",
+      use: "a half-burned journal whose last legible line: 'IT WEARS THE ROOM. WHEN YOU KILL THE HOST THE WHOLE PLACE DIES AT ONCE — AND THE FLOOR GOES WITH IT. BE NEAR THE STAIR WHEN IT DOES.' Foreshadows phase-3 (the collapse) and hands him the real water as fair reward for reaching the bleak-through.",
+      status: "INTACT",
     },
   ],
 } as const satisfies GameLocation
