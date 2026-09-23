@@ -16,5 +16,18 @@ export const useCompletion = {
       decisionKind: "decision-kind/departure",
       statement: "A completion that is not an object reads here as no completion.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row shape here says what the query answers rather than what the domain holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The character row and the companion row are declared together, as one query answers both.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The domain's own character row is a different shape, so neither row is shared.",
+    },
   ],
 } as const satisfies Module
