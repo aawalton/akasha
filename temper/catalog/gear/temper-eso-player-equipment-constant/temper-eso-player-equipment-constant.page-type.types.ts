@@ -1,4 +1,4 @@
-import type { ConstantFamily } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/properties/constant-family.text-property.types.ts"
+import type { ConstantFamily } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/properties/constant-family.select-property.types.ts"
 import type { ConstantId } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/properties/constant-id.text-property.types.ts"
 import type { EsoNum } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/properties/eso-num.number-property.types.ts"
 import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"

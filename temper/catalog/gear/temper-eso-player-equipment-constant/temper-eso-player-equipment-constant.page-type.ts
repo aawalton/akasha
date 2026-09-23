@@ -6,11 +6,15 @@ export const temperEsoPlayerEquipmentConstant = {
   slug: "temper-eso-player-equipment-constant",
   definition: "the number the game has for a gear value",
   extends: ["page-type/temper-catalog-thing"],
-  parts: ["number-property/eso-num", "text-property/constant-family", "text-property/constant-id"],
+  parts: [
+    "number-property/eso-num",
+    "select-property/constant-family",
+    "text-property/constant-id",
+  ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
-    { pageProperty: "text-property/constant-family", required: true, many: false },
+    { pageProperty: "select-property/constant-family", required: true, many: false },
     { pageProperty: "text-property/constant-id", required: true, many: false },
     { pageProperty: "number-property/eso-num", required: true, many: false },
   ],
