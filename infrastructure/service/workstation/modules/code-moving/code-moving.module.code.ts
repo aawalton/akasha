@@ -11,17 +11,6 @@ export type Moving =
   | { readonly moving: "still" }
   | { readonly moving: "unknown"; readonly why: string }
 
-export function commitAt(at: string): string | null {
-  let held: string
-  try {
-    held = readFileSync(at, "utf8")
-  } catch {
-    return null
-  }
-  const one = held.trim()
-  return one === "" ? null : one
-}
-
 const BUNDLE = /\/([0-9a-f]{40})\.js/
 
 const UNIT = ".service"

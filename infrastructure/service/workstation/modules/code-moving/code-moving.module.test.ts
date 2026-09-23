@@ -5,7 +5,6 @@ import {
   bundleCommitIn,
   bundleNamedBy,
   codeMoving,
-  commitAt,
   movingUnder,
   saidOfMoved,
   saidOfNoBundle,
@@ -33,11 +32,6 @@ function folder(...parts: readonly string[]): string {
   mkdirSync(at, { recursive: true })
   return at
 }
-
-test("a commit no file gives back is no commit", () => {
-  expect(commitAt(join(SCRATCH, "not-there"))).toBe(null)
-  expect(commitAt(laidDown(join(SCRATCH, "blank"), "  \n"))).toBe(null)
-})
 
 test("a run under no unit cannot tell, which is not the answer that nothing moved", () => {
   const at = folder("under-no-unit", "deep")
