@@ -21,18 +21,23 @@ export const theTowerShaftMidSlabs = {
   things: [
     {
       name: "the sequence of moving slabs",
-      use: "the path up. Timed leaps along the beat (INT to read the rhythm, leg-drive to make the jumps — Hiker's Legs intent bonus). A lit light makes the timing readable; in the dark the leaps are near-blind and dangerous (coordinator: caps intent low, real fall risk). Fighting the Stalker here is the WRONG fight — moving footing + dark = its advantage; a reader retreats to a stable flight or lights up first.",
+      use: "the path up. Timed leaps along the beat (INT to read the rhythm, leg-drive to make the jumps — Hiker's Legs intent bonus). A lit light makes the timing readable; in the dark the leaps are near-blind and dangerous (coordinator: caps intent low, real fall risk).",
       note: "the trap geography: the Stalker WANTS you out here in the dark. The read is to deny it that — light first, fight from stable ground, then cross.",
     },
     {
       name: "the central counterweight chain (shaft's heart)",
-      use: "a single taut iron chain under enormous tension, running the height of the shaft — it is what raises and lowers every slab. It is the Colossus's tether and the floor's master mechanism. An INT read: the whole slab-system hangs off this one chain's balance. It cannot be cut by hand (far too thick), but its TENSION can be turned against the Colossus (see the boss readableTrait).",
+      use: "a single taut iron chain under enormous tension, running the height of the shaft — it is what raises and lowers every slab. It cannot be cut by hand (far too thick), but its TENSION can be turned against the Colossus (see the boss readableTrait).",
       note: "the central interactable — foreshadowed by the slack chain below. The Colossus IS the counterweight; the chain is how you beat it.",
     },
     {
       name: "a snagged corpse (wedged where two slabs pinch, mid-shaft)",
-      use: "a previous climber, crushed at a pinch-point. Carries a HOODED LANTERN (a shielded, directional light — aim it without blinding yourself; better than an open brand for hunting the Stalker) and a scrawled note. The note: 'IT IS BLIND IN THE LIGHT — IT HUNTS THE DARK. AND THE GIANT IS THE WEIGHT — DROP THE WEIGHT AND THE STAIR FALLS STILL.' Free lore-gate: both weaknesses, stated, if he reaches and searches the pinch.",
+      use: "a previous climber, crushed at a pinch-point. Carries a HOODED LANTERN (a shielded, directional light — aim it without blinding yourself; better than an open brand for hunting the Stalker) and a scrawled note.",
       note: "rewards crossing carefully (reaching the pinch is itself a timing test). The hooded lantern upgrades the light play; the note hands a reader both solutions plainly — fair compensation for his weak PER, same pattern as floor-3's wall-note. Reaching it WITHOUT light is a near-suicidal blind cross — gate it behind having lit up first.",
+      status: "INTACT",
+    },
+    {
+      name: "a scrawled note",
+      use: "The note: 'IT IS BLIND IN THE LIGHT — IT HUNTS THE DARK. AND THE GIANT IS THE WEIGHT — DROP THE WEIGHT AND THE STAIR FALLS STILL.' Free lore-gate: both weaknesses, stated, if he reaches and searches the pinch.",
       status: "INTACT",
     },
   ],
