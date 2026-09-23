@@ -28,7 +28,15 @@ export const iosAppDeploying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each ios app states the hour it waits before a tick hands Apple another build.",
+      statement: "Each ios app states the hours it waits before a tick hands Apple another build.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Apple takes so many builds of one app in a day and refuses the rest.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That wait asks Apple for fewer builds a day than the count Apple refuses at.",
     },
     {
       decisionKind: "decision-kind/departure",

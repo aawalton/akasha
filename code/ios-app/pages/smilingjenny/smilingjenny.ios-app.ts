@@ -10,7 +10,7 @@ export const smilingjenny = {
   bundleId: "me.smilingjenny.app",
   buildScript: "shell-script/build-sim",
   capacitorConfig: "json",
-  cooldownSeconds: 3600,
+  cooldownSeconds: 10800,
   developmentTeam: "M6AN6NM6FL",
   displayName: "Smiling Jenny",
   gitIgnore: "gitignore",

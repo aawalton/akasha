@@ -10,7 +10,7 @@ export const alanwalton = {
   buildScript: "shell-script/build-sim",
   bundleId: "com.alanwalton.app",
   capacitorConfig: "json",
-  cooldownSeconds: 3600,
+  cooldownSeconds: 10800,
   defaultDeviceUdid: "00008130-000434AA22FA001C",
   developmentTeam: "M6AN6NM6FL",
   displayName: "alanwalton",
