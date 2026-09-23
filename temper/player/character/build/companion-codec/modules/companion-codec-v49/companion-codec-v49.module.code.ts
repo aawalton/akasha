@@ -4,6 +4,7 @@ import {
   type CompanionBaseRoleId,
   companionBaseRoles,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import { CompanionCatalogUnread } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionJewelrySlotId } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import { companionSkillSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
@@ -181,7 +182,8 @@ export function decodeV49(data: Uint8Array): CompanionState | null {
       skills,
       target,
     }
-  } catch {
+  } catch (raised) {
+    if (raised instanceof CompanionCatalogUnread) throw raised
     return null
   }
 }

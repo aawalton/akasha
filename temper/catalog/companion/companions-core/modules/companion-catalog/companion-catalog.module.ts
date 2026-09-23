@@ -22,5 +22,10 @@ export const companionCatalog = {
       statement:
         "Asking for the catalogue before it is read is refused rather than answered empty.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That refusal is a raise of its own, so a reader catching bad data does not swallow it.",
+    },
   ],
 } as const satisfies Module

@@ -24,6 +24,13 @@ export interface CompanionCatalog {
 const UNREAD =
   "the companion catalogue is read from pages, and nothing has read it yet — await `loadCompanionCatalog()` where the work starts, or hand the browser what the server read"
 
+export class CompanionCatalogUnread extends Error {
+  constructor() {
+    super(UNREAD)
+    this.name = "CompanionCatalogUnread"
+  }
+}
+
 let held: CompanionCatalog | null = null
 
 export function catalogOf(
@@ -53,7 +60,7 @@ export function heldCompanionCatalog(): CompanionCatalog | null {
 }
 
 export function companionCatalog(): CompanionCatalog {
-  if (held === null) throw new Error(UNREAD)
+  if (held === null) throw new CompanionCatalogUnread()
   return held
 }
 
