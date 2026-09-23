@@ -8,7 +8,7 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 
-const AT = "agent/subagent/pages/akasha-a38f63805f9b94edf.subagent.ts"
+const AT = "agent/subagent/pages/held-a38f63805f9b94edf.subagent.ts"
 
 const AGENT = "01a05844-6e60-7000-b54c-4b14559df70b--a38f63805f9b94edf"
 
@@ -18,11 +18,11 @@ function bodyOf(id: string, kind: string, agentId: string): string {
   return [
     'import type { Subagent } from "../subagent.page-type.types.ts"',
     "",
-    "export const akashaA38f63805f9b94edf = {",
+    "export const heldA38f63805f9b94edf = {",
     `  id: ${JSON.stringify(id)},`,
     '  pageTypeSlug: "subagent",',
-    '  slug: "akasha-a38f63805f9b94edf",',
-    '  principalSeatName: "seat/akasha",',
+    '  slug: "held-a38f63805f9b94edf",',
+    '  principalSeatName: "seat/held",',
     '  assignmentSlug: "domain/akasha-system",',
     `  dispatchedAs: ${JSON.stringify(kind)},`,
     `  agentId: ${JSON.stringify(agentId)},`,
@@ -59,8 +59,8 @@ test("a page taken away is read back out of the commit that wrote it", () => {
     )
     expect(pageInHistory(root, AT)?.values).toMatchObject({
       id: HELD,
-      slug: "akasha-a38f63805f9b94edf",
-      principalSeatName: "seat/akasha",
+      slug: "held-a38f63805f9b94edf",
+      principalSeatName: "seat/held",
       assignmentSlug: "domain/akasha-system",
       dispatchedAs: "Explore",
       agentId: AGENT,
@@ -77,7 +77,7 @@ test("a path git holds no commit writing is answered as nothing", () => {
       repoIn(world.rootFor("subagent-page-history-")),
       bodyOf(HELD, "Explore", AGENT)
     )
-    expect(pageInHistory(root, "agent/subagent/pages/akasha-nowhere.subagent.ts")).toBe(null)
+    expect(pageInHistory(root, "agent/subagent/pages/held-nowhere.subagent.ts")).toBe(null)
   } finally {
     world.sweep()
   }
