@@ -5647,6 +5647,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.ts","id":"01a082aa-3e30-76e3-bcc6-cec49c69facc"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-pricing-extract/api-watcher-upsert-pricing-extract.route.ts","id":"01a082fe-11cd-7a65-b8ed-c1dfdf1595f5"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-pricing-snapshot/api-watcher-upsert-pricing-snapshot.route.ts","id":"01a082fe-7dee-72e6-89a1-b20f7230159b"}
+{"propertySlug":"decision-kind","path":"temper/web/routes/page-detail/page-detail.route.ts","id":"01a08297-9668-70a3-8a39-06a85b120863"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/sign-in/sign-in.route.ts","id":"01a08306-c2ad-71ec-bdd7-449e1708d6ea"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/sign-out/sign-out.route.ts","id":"01a0bba7-965d-7000-b05b-7b3e938f4144"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/sign-up/sign-up.route.ts","id":"01a08307-1eb0-71af-b03b-9e4a212055e7"}

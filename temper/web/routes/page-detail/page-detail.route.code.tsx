@@ -5,6 +5,7 @@ import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-cont
 import { parsePageHrefParam } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
+import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { createEmptyCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
 import {
   decodeBuild,
@@ -201,6 +202,7 @@ async function loadCharacterDetail(page: Record<string, unknown>, request: Reque
 }
 
 async function loadCompanionDetail(page: Record<string, unknown>, request: Request) {
+  await loadCompanionCatalog()
   const r = asCompanionPageRow(page)
   const buildId = r.id
   const accountId = await readerAccount(request)
