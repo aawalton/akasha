@@ -1,0 +1,61 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const taylorSwift2MidnightsTheTilDawnEditionAntiHero = {
+  id: "01a0ce86-9de1-72ec-afaa-fe8e1c97cf1c",
+  type: "page-type/track",
+  slug: "taylor-swift-2-midnights-the-til-dawn-edition-anti-hero",
+  ownLength: 3.3448333333333333,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/taylor-swift-2-midnights-the-til-dawn-edition",
+    "release/taylor-swift-2-midnights-3am-edition",
+    "release/taylor-swift-2-midnights",
+    "release/taylor-swift-2-anti-hero-remixes",
+    "release/taylor-swift-2-anti-hero-feat-bleachers",
+  ],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "Anti-Hero",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackKey: "antihero|06HL4z0CvFAxyc27GXpf02|200690",
+  song: "song/taylor-swift-anti-hero",
+  carriedBy: [
+    {
+      release: "release/taylor-swift-2-anti-hero-feat-bleachers",
+      discNumber: 1,
+      position: 2,
+      externalId: "70c3ObJaZ6tbc8CfDYAQjb",
+      externalLink: "https://open.spotify.com/track/70c3ObJaZ6tbc8CfDYAQjb",
+    },
+    {
+      release: "release/taylor-swift-2-anti-hero-remixes",
+      discNumber: 1,
+      position: 5,
+      externalId: "2wMKBH2p5kIDFkRWjS9IOW",
+      externalLink: "https://open.spotify.com/track/2wMKBH2p5kIDFkRWjS9IOW",
+    },
+    {
+      release: "release/taylor-swift-2-midnights",
+      discNumber: 1,
+      position: 3,
+      externalId: "0V3wPSX9ygBnCm8psDIegu",
+      externalLink: "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu",
+    },
+    {
+      release: "release/taylor-swift-2-midnights-3am-edition",
+      discNumber: 1,
+      position: 3,
+      externalId: "02Zkkf2zMkwRGQjZ7T4p8f",
+      externalLink: "https://open.spotify.com/track/02Zkkf2zMkwRGQjZ7T4p8f",
+    },
+    {
+      release: "release/taylor-swift-2-midnights-the-til-dawn-edition",
+      discNumber: 1,
+      position: 3,
+      externalId: "5qIHFdkW6phMsTZlN2g8Lc",
+      externalLink: "https://open.spotify.com/track/5qIHFdkW6phMsTZlN2g8Lc",
+    },
+  ],
+} as const satisfies Track

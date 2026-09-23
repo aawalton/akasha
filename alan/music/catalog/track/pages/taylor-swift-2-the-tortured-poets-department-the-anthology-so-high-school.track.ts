@@ -1,0 +1,27 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologySoHighSchool = {
+  id: "01a0ce86-3b1e-7336-9e47-a3b31edaa736",
+  type: "page-type/track",
+  slug: "taylor-swift-2-the-tortured-poets-department-the-anthology-so-high-school",
+  ownLength: 3.8133333333333335,
+  ownProgress: 0,
+  partOfCollections: ["release/taylor-swift-2-the-tortured-poets-department-the-anthology"],
+  status: "not-started",
+  unit: "unit/minutes",
+  title: "So High School",
+  trackType: "studio",
+  explicit: false,
+  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackKey: "sohighschool|06HL4z0CvFAxyc27GXpf02|228800",
+  song: "song/taylor-swift-so-high-school",
+  carriedBy: [
+    {
+      release: "release/taylor-swift-2-the-tortured-poets-department-the-anthology",
+      discNumber: 1,
+      position: 22,
+      externalId: "7Mts0OfPorF4iwOomvfqn1",
+      externalLink: "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1",
+    },
+  ],
+} as const satisfies Track
