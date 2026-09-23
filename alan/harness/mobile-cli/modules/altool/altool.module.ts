@@ -23,6 +23,14 @@ export const altool = {
     },
     {
       decisionKind: "decision-kind/constraint",
+      statement: "Apple error 90382 is a refusal to take another build of that app that day",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "a build Apple would not take is unjudged rather than rejected",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
       statement:
         "Apple keys the HealthKit purpose string on the entitlement rather than on the APIs the code calls",
     },

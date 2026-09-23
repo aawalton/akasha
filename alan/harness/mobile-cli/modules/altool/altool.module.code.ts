@@ -21,8 +21,11 @@ export const EXIT_VALIDATION_INCOMPLETE = 4
 
 const MISSING_PURPOSE_STRING_CODE = 90683
 
+const UPLOAD_LIMIT_CODE = 90382
+
 export type AltoolFailureClass =
   | "MISSING_PURPOSE_STRING"
+  | "APP_STORE_UPLOAD_LIMIT_REACHED"
   | "APP_STORE_VALIDATION_REJECTED"
   | "VALIDATION_UNREACHABLE"
 
@@ -48,6 +51,13 @@ const MISSING_PURPOSE_STRING_REMEDIATION =
   "NSHealthUpdateUsageDescription (the `healthkit-read-only` check pins this), then re-cut. " +
   "To ship without HealthKit entirely, set NATIVE_SHELL_HEALTHKIT=0, which removes the " +
   "entitlement and both usage strings together."
+
+const UPLOAD_LIMIT_REMEDIATION =
+  "Apple would take no more builds of this app today and asked for a day's wait. The build " +
+  "itself was never judged, so this says nothing about whether the build is sound. Apple " +
+  "states no number for the limit; this app reached it after about a dozen uploads inside a " +
+  "day. Raise the `cooldownSeconds` the app's page states, so fewer builds a day are handed " +
+  "over, rather than cutting this one again."
 
 const VALIDATION_UNREACHABLE_REMEDIATION =
   "App Store validation did NOT complete — altool exited non-zero without returning a verdict " +
@@ -87,6 +97,13 @@ export function classifyAltoolFailure(output: string): AltoolFailure {
       return {
         failureClass: "MISSING_PURPOSE_STRING",
         remediation: MISSING_PURPOSE_STRING_REMEDIATION,
+        exitCode: 3,
+      }
+    }
+    if (verdict.code === UPLOAD_LIMIT_CODE) {
+      return {
+        failureClass: "APP_STORE_UPLOAD_LIMIT_REACHED",
+        remediation: UPLOAD_LIMIT_REMEDIATION,
         exitCode: 3,
       }
     }

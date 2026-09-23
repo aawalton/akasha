@@ -75,6 +75,16 @@ describe("classifyAltoolFailure", () => {
     expect(failure.exitCode).toBe(3)
   })
 
+  test("real 90382 output → APP_STORE_UPLOAD_LIMIT_REACHED, and the build is left unjudged", () => {
+    const failure = classifyAltoolFailure(
+      `${ALTOOL_MARKERS.uploadBegin}\nUPLOAD FAILED with 1 error\n    code = 90382;\n    description = "Upload limit reached. The upload limit for your application has been reached. Please wait 1 day and try again.";\n   iris-code : 90382`
+    )
+    expect(failure.failureClass).toBe("APP_STORE_UPLOAD_LIMIT_REACHED")
+    expect(failure.remediation).toContain("never judged")
+    expect(failure.remediation).toContain("cooldownSeconds")
+    expect(failure.exitCode).toBe(3)
+  })
+
   test("VERIFY FAILED with no parseable code is still reported as a rejection", () => {
     const failure = classifyAltoolFailure("VERIFY FAILED with 1 error\nsomething unparseable")
     expect(failure.failureClass).toBe("APP_STORE_VALIDATION_REJECTED")
