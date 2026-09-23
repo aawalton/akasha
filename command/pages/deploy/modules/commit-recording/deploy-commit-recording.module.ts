@@ -32,6 +32,15 @@ export const deployCommitRecording = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Such a cut keeps the opening and the close, the close being where a deploy says why it refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Three of every four characters kept are the close.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page already keeping that commit is written to by nothing.",
     },
     {

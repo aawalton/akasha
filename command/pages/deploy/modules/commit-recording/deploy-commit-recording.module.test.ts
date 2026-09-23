@@ -214,6 +214,20 @@ test("a refusal longer than the length kept is cut, and the cut says how long th
   expect(said).toContain("cut here")
 })
 
+test("a refusal cut keeps its close, where the deploy says what it refused for", () => {
+  const said = refusalKept([`one began\n${"x".repeat(134939)}\nApple would take no more`])
+  expect(said.startsWith("one began")).toBe(true)
+  expect(said.endsWith("Apple would take no more")).toBe(true)
+})
+
+test("three of every four characters a cut keeps are the close", () => {
+  const said = refusalKept([`${"a".repeat(80000)}${"z".repeat(80000)}`])
+  const opening = said.length - said.replace(/^a+/, "").length
+  const closing = said.length - said.replace(/z+$/, "").length
+  expect(closing).toBeGreaterThanOrEqual(opening * 3)
+  expect(closing - opening * 3).toBeLessThan(4)
+})
+
 test("every other kind's refusal is written to the pages under its own key", async () => {
   const held = answering({ commit: null, wrote: [AT], took: [] })
 

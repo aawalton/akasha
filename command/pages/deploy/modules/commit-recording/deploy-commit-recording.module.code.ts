@@ -160,8 +160,11 @@ export async function recordedCommit(
 export function refusalKept(why: readonly string[]): string {
   const said = why.join("\n")
   if (said.length <= MOST_REFUSAL) return said
-  const cut = ` … cut here, of ${said.length} characters in all`
-  return `${said.slice(0, MOST_REFUSAL - cut.length)}${cut}`
+  const cut = ` … cut here, of ${said.length} characters in all … `
+  const room = MOST_REFUSAL - cut.length
+  const opening = Math.floor(room / 4)
+  const closing = room - opening
+  return `${said.slice(0, opening)}${cut}${said.slice(said.length - closing)}`
 }
 
 export async function recordedRefusal(
