@@ -65,3 +65,7 @@ CLEARING: the declared precise strike at the true seam UNMAKES the Doorward (dec
 ## Challenge Owner
 
 player
+
+## Supersession
+
+Supersedes floor-1-v2 (which framed the solution but did not systematically DEAL its pieces). Keeps: same door + Doorward, reading-beats-brute spine, Letter-Knife as clear reward, enters UNARMED (drop-the-bar ruling, equipment.weapon null), clear -> floor rises + Alan +1.

@@ -49,3 +49,7 @@ v30 / v29 / FAIR-PLAY: the seam-read knowledge element carries elimination textu
 ## Challenge Owner
 
 character
+
+## Supersession
+
+Supersedes floor-1-v3 (the player-owned epistemic-gate puzzle version, t13-17 retired). Keeps: same door + Doorward, Letter-Knife as the clear reward, Alan enters UNARMED (equipment.weapon null), clear -> floor rises + Alan +1. Re-founds the floor as a FIGHT under challenge-door-v3.

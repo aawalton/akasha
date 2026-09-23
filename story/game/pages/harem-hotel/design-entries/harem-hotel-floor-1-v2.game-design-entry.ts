@@ -8,7 +8,7 @@ export const haremHotelFloor1V2 = {
   game: "game/harem-hotel",
   kind: "floor-design",
   source:
-    "PUBLISHED CANON WINS: published turn-1 (Alan wakes at the bottom of the hotel EMPTY-HANDED; game-entity alan sheet equipment.weapon = null) + Alan ruling 2026-07-13 (the starting iron bar never landed in canon; DROP it rather than establish it — he faces floor 1 unarmed, the floor's reward is his FIRST weapon not a replacement). Supersedes floor-1; the designed yields to the disclosed.",
+    "PUBLISHED CANON WINS: published turn-1 (Alan wakes at the bottom of the hotel EMPTY-HANDED; game-entity alan sheet equipment.weapon = null) + Alan ruling 2026-07-13 (the starting iron bar never landed in canon; DROP it rather than establish it — he faces floor 1 unarmed, the floor's reward is his FIRST weapon not a replacement).",
   supersedes: "game-design-entry/harem-hotel-floor-1",
   note: "md",
 } as const satisfies GameDesignEntry
