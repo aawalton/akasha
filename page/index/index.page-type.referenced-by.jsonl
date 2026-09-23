@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"index.page-type.types.ts","path":"page/index/page-type/index-page-type.index.ts"}
 {"propertySlug":"import","fileName":"index.page-type.types.ts","path":"page/index/page/index-page.index.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-check-fastened-to-a-commit-still-reads-six-index-no-commit-holds.finding.ts","id":"01a09d18-7c52-7bfe-bed0-ce5ee72ac503"}
+{"propertySlug":"page-domain","path":"domain/finding/pages/a-landing-files-no-index-entry-for-a-page-it-only-made-referenced.finding.ts","id":"01a0cebb-b96a-78b7-bc53-36f5d6881ec9"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-relation-target-read-by-bare-slug-answers-for-the-other-property-of-that-name.finding.ts","id":"01a0693b-1f13-7065-ace9-f21ed3eb3d48"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/what-the-index-writes-is-decided-from-disk-and-never-from-what-git-holds.finding.ts","id":"01a0c4f1-ec73-78d0-9294-ae754d19fade"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
