@@ -4,7 +4,7 @@ export const smsSend = {
   id: "01a0685f-c8ed-7008-b892-0bc284782555",
   type: "page-type/command",
   slug: "sms-send",
-  definition: "the command putting a text message out over the toll-free number",
+  definition: "the command putting a text message out over the number the environment names",
   code: "ts",
   test: "ts",
   decisions: [
@@ -43,7 +43,12 @@ export const smsSend = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The number sent from is the toll-free number unless another number is said.",
+      statement:
+        "The number sent from is the one the environment names unless another number is said.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The number the environment names is a long code registered to a 10DLC campaign.",
     },
     {
       decisionKind: "decision-kind/departure",
