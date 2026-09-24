@@ -213,6 +213,40 @@ describe("pictureHtml", () => {
     expect(html).toContain('src="icon.png"')
   })
 
+  test("draws text the markup colors in that color, back to the label's own after", () => {
+    const html = pictureHtml(
+      control({ controlType: CT_LABEL, width: 10, height: 10, text: "a |cFF8000gold|r b" })
+    )
+    expect(html).toContain('a <span style="color:#FF8000">gold</span> b')
+  })
+
+  test("closes a color the markup never closes", () => {
+    const html = pictureHtml(
+      control({ controlType: CT_LABEL, width: 10, height: 10, text: "|c00FF00on" })
+    )
+    expect(html).toContain('<span style="color:#00FF00">on</span>')
+  })
+
+  test("leaves out an icon with no file behind it", () => {
+    const html = pictureHtml(
+      control({ controlType: CT_LABEL, width: 10, height: 10, text: "x|t32:32:EsoUI/Art/a.dds|ty" })
+    )
+    expect(html).toContain(">xy</div>")
+  })
+
+  test("draws an icon the markup names where a caller says which file is behind it", () => {
+    const html = pictureHtml(
+      control({
+        controlType: CT_LABEL,
+        width: 10,
+        height: 10,
+        text: "|t100%:100%:EsoUI/Art/a.dds|t",
+      }),
+      { textureAt: () => "a.png" }
+    )
+    expect(html).toContain('<img style="width:1em;height:1em;vertical-align:middle" src="a.png">')
+  })
+
   test("escapes text the game would show", () => {
     const html = pictureHtml(
       control({ name: "FrameText", controlType: CT_LABEL, width: 10, height: 10, text: "<b>&</b>" })

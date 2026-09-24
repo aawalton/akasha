@@ -80,12 +80,19 @@ export const uiPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The game's markup inside text is drawn as the words it wraps, and its codes are dropped.",
+      statement: "A link or an underline the markup wraps is drawn as the words it wraps.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "An icon or a color the markup asks for is left out rather than drawn.",
+      decisionKind: "decision-kind/departure",
+      statement: "Text the markup colors is drawn in that color until the markup ends it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An icon the markup names is drawn where a caller says which file is behind it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An icon with no file behind it is left out of the text.",
     },
     {
       decisionKind: "decision-kind/constraint",

@@ -123,13 +123,48 @@ function escaped(text: string): string {
 const MARKUP: readonly (readonly [RegExp, string])[] = [
   [/\|u[^:|]*:[^:|]*:[^:|]*:([^|]*)\|u/g, "$1"],
   [/\|H[^|]*\|h([^|]*)\|h/g, "$1"],
-  [/\|t[^|]*\|t/g, ""],
-  [/\|c[0-9a-fA-F]{6}/g, ""],
-  [/\|r/g, ""],
 ]
 
-function shownText(text: string): string {
-  return MARKUP.reduce((held, [shape, kept]) => held.replace(shape, kept), text)
+const CODES = /\|c([0-9a-fA-F]{6})|\|r|\|t([^|]*)\|t/g
+
+const PERCENT = 100
+
+function iconSize(said: string | undefined): string {
+  const text = (said ?? "").trim()
+  if (text.endsWith("%")) return `${Number(text.slice(0, -1)) / PERCENT}em`
+  const number = Number(text)
+  return Number.isFinite(number) && number > 0 ? `${number}px` : "1em"
+}
+
+function iconHtml(said: string, options: UiPictureOptions): string {
+  const [width, height, ...rest] = said.split(":")
+  const at = options.textureAt?.(rest.join(":")) ?? null
+  if (at === null) return ""
+  const size = `width:${iconSize(width)};height:${iconSize(height)};`
+  return `<img style="${size}vertical-align:middle" src="${escaped(at)}">`
+}
+
+function markedHtml(text: string, options: UiPictureOptions): string {
+  const plain = MARKUP.reduce((held, [shape, kept]) => held.replace(shape, kept), text)
+  const written: string[] = []
+  let open = 0
+  let from = 0
+  for (const matched of plain.matchAll(CODES)) {
+    written.push(escaped(plain.slice(from, matched.index)))
+    from = matched.index + matched[0].length
+    const [code, color, icon] = matched
+    if (color !== undefined) {
+      written.push(`<span style="color:#${color}">`)
+      open += 1
+    } else if (icon !== undefined) {
+      written.push(iconHtml(icon, options))
+    } else if (code === "|r" && open > 0) {
+      written.push("</span>")
+      open -= 1
+    }
+  }
+  written.push(escaped(plain.slice(from)), "</span>".repeat(open))
+  return written.join("")
 }
 
 function asCss(color: UiColor): string {
@@ -201,7 +236,7 @@ function boxHtml(one: UiControl, options: UiPictureOptions): string {
     const down = ALIGN_DOWN[one.alignV ?? downBy ?? 0] ?? START
     const laid = `display:flex;justify-content:${across};align-items:${down};`
     const type = `font-family:${face.family};font-weight:${face.weight};font-size:${face.size}px;line-height:${face.size + LINE_OVER_SIZE}px;`
-    return `<div class="c"${told} style="${place}${fade}color:${ink};${type}${shadow}${laid}${framed}">${escaped(shownText(one.text ?? ""))}</div>`
+    return `<div class="c"${told} style="${place}${fade}color:${ink};${type}${shadow}${laid}${framed}">${markedHtml(one.text ?? "", options)}</div>`
   }
   if (one.controlType === CT_TEXTURE) {
     const named = one.texture
