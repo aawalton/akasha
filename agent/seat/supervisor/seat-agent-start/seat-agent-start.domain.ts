@@ -4,7 +4,7 @@ export const seatAgentStart = {
   id: "01a09c69-a97e-7071-b7a2-2f3b506ded07",
   type: "page-type/domain",
   slug: "seat-agent-start",
-  definition: "a Claude child launched into a seat",
+  definition: "a seat's agent started",
   parts: [
     "module/agent-hook-registration",
     "module/supervisor-adopt",
