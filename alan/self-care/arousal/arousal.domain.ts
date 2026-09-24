@@ -15,10 +15,6 @@ export const arousal = {
       decisionKind: "decision-kind/departure",
       statement: "Prose delivered whole is the main way arousal reaches Alan.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every landed scene has the test the scene made and the read that came back.",
-    },
   ],
   directives: [
     {
