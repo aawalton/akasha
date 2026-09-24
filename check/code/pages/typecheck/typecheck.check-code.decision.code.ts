@@ -10,6 +10,10 @@ import {
   mintingIn,
 } from "akasha/check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts"
 import {
+  declarationOver,
+  everyStylesheetOut,
+} from "akasha/check/code/pages/typecheck/modules/stylesheet-declaring/stylesheet-declaring.module.code.ts"
+import {
   holdingOver,
   textNamed,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
@@ -65,12 +69,6 @@ const SETTINGS = {
   allowArbitraryExtensions: true,
 } as const
 
-const DECLARED_STYLESHEET = ".d.css.ts"
-
-const STYLESHEET = ".css"
-
-const NO_EXPORTS = "export {}\n"
-
 const BROWSER_LIBRARY = "lib.dom.d.ts"
 
 const BRINGS_THE_BROWSER = /<reference\s+lib=["']dom["']/
@@ -86,16 +84,22 @@ type World = {
   readonly judges: (split: Split) => (path: string) => boolean
 }
 
+const DECLARATION = ".d.ts"
+
+function declaring(path: string): boolean {
+  return path.endsWith(DECLARATION)
+}
+
 const PLAIN: World = {
   lib: ["esnext"],
   bare: true,
-  judges: (split) => (one) => !split.apart.has(one),
+  judges: (split) => (one) => declaring(one) || !split.apart.has(one),
 }
 
 const BROWSER: World = {
   lib: ["dom", "dom.iterable", "esnext"],
   bare: false,
-  judges: (split) => (one) => split.browser.has(one),
+  judges: (split) => (one) => !declaring(one) && split.browser.has(one),
 }
 
 export type Found = {
@@ -212,26 +216,6 @@ function nowhere(): boolean {
   return false
 }
 
-function stylesheetDeclared(name: string): string | null {
-  if (!name.endsWith(DECLARED_STYLESHEET)) return null
-  return `${name.slice(0, -DECLARED_STYLESHEET.length)}${STYLESHEET}`
-}
-
-export function declarationOver(
-  root: string,
-  holds: (rel: string) => boolean,
-  placed: Placing
-): (name: string) => string | null | undefined {
-  return (name) => {
-    const sheet = stylesheetDeclared(name)
-    if (sheet === null) return undefined
-    const real = linkedOf(root, resolve(sheet), placed)
-    const inside = real.startsWith(`${root}/`) && !real.includes(`/${PACKAGES_AT}/`)
-    const there = inside ? holds(real.slice(root.length + 1)) : existsSync(real)
-    return there ? NO_EXPORTS : null
-  }
-}
-
 export function servingOf(
   root: string,
   at: string,
@@ -241,11 +225,16 @@ export function servingOf(
   holds: (rel: string) => boolean = nowhere
 ): (name: string) => string | null | undefined {
   const declared = declarationOver(root, holds, placed)
+  const outside = new Map<string, string | undefined>()
   return (name) => {
     if (name === at) return config
     const sheet = declared(name)
     if (sheet !== undefined) return sheet
-    if (servedOf(root, resolve(name), placed) === null) return undefined
+    const full = resolve(name)
+    if (servedOf(root, full, placed) === null) {
+      if (!outside.has(full)) outside.set(full, everyStylesheetOut(full))
+      return outside.get(full)
+    }
     const body = read(name)
     return body === undefined ? null : body
   }

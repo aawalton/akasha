@@ -929,6 +929,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/typecheck/modules/browser-reach/browser-reach.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/typecheck/modules/stylesheet-declaring/stylesheet-declaring.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-asking/audit-asking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-calling/audit-calling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-child/audit-child.module.ts","typed":true,"deferred":false}

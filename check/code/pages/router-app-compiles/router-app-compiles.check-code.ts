@@ -129,20 +129,15 @@ export const routerAppCompiles = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A declaration file is judged by `typecheck` rather than by that program.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An import naming a file for its effect alone is refused where no such file is.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stylesheet that is there is served an empty declaration beside it.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "The bundler's client types declare every stylesheet a module.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A declaration outside the tree is served without the line answering every stylesheet.",
+      statement: "The declarations served for stylesheets are those `stylesheet-declaring` serves.",
     },
   ],
   check: { maxCpuSeconds: 120 },

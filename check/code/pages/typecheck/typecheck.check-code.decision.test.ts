@@ -87,6 +87,14 @@ test("the config is answered at the path the compiler was told to open", () => {
   expect(serving("/etc/hostname")).toBeUndefined()
 })
 
+test("a declaration outside the tree answering every stylesheet is served without that line", () => {
+  const at = `${HERE}/tsconfig.typecheck.json`
+  const serving = servingOf(HERE, at, "{}", () => undefined, NOWHERE)
+  const client = serving(`${HERE}/node_modules/vite/client.d.ts`)
+  expect(client).toContain("declare module '*.scss' {}")
+  expect(client).not.toContain("declare module '*.css' {}")
+})
+
 test("a page the change takes away leaves what its page type says loads it uncompiled", async () => {
   const root = declaring()
   const gone = change(root, { [LOADED_AT]: null })

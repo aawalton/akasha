@@ -5,7 +5,7 @@ export const typecheck = {
   type: "page-type/check-code",
   slug: "typecheck",
   definition: "the check refusing TypeScript that does not compile",
-  parts: ["module/page-narrowing", "module/browser-reach"],
+  parts: ["module/page-narrowing", "module/browser-reach", "module/stylesheet-declaring"],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -82,11 +82,11 @@ export const typecheck = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stylesheet that is there is served an empty declaration beside it.",
+      statement: "The declarations served for stylesheets are those `stylesheet-declaring` serves.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No declaration answers every stylesheet, so one not there resolves to nothing.",
+      statement: "A declaration file runs nowhere, so it is judged here whatever reaches it.",
     },
     {
       decisionKind: "decision-kind/departure",

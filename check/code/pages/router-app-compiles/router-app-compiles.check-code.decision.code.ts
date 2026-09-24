@@ -6,7 +6,10 @@ import {
   typegenOf,
   typesUnder,
 } from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.code.ts"
-import { declarationOver } from "akasha/check/code/pages/typecheck/typecheck.check-code.decision.code.ts"
+import {
+  declarationOver,
+  everyStylesheetOut,
+} from "akasha/check/code/pages/typecheck/modules/stylesheet-declaring/stylesheet-declaring.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   insideOf,
@@ -37,10 +40,6 @@ const SETTINGS = {
   noUncheckedSideEffectImports: true,
   allowArbitraryExtensions: true,
 }
-
-const DECLARATION = ".d.ts"
-
-const EVERY_STYLESHEET = /^declare module ['"]\*\.css['"] \{\}\n?/gm
 
 const UNCOMPILED = "does not compile as this change leaves it"
 
@@ -196,13 +195,6 @@ function madeAt(one: Placed, full: string): string {
 
 function under(full: string, folder: string): boolean {
   return full === folder || full.startsWith(`${folder}/`)
-}
-
-function everyStylesheetOut(full: string): string | undefined {
-  if (!full.endsWith(DECLARATION) || !existsSync(full)) return undefined
-  const text = readFileSync(full, "utf8")
-  const kept = text.replace(EVERY_STYLESHEET, "")
-  return kept === text ? undefined : kept
 }
 
 function readingFor(every: readonly Placed[], lay: Laying, relOf: Naming): Fs["readFile"] {
