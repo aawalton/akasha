@@ -16,7 +16,7 @@ export const companionSupportEvaluator = {
       statement: "The support score weighs toughness at one tenth of damage.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A stats result without a rotation yields no support metrics.",
     },
   ],
