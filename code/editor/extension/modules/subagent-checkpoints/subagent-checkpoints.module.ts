@@ -33,7 +33,7 @@ export const subagentCheckpoints = {
       statement: "Nothing here folds a transcript.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Several extension hosts share one book.",
     },
   ],
