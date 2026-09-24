@@ -9,6 +9,7 @@ import {
 import { classifyExtension } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { z } from "zod"
 
 const SWIFT = "swift"
 
@@ -21,6 +22,14 @@ const CLEAN = 0
 const FAULTED = 1
 
 const ERROR_RE = /^(.+):(\d+):(\d+): error: (.*)$/
+
+const ERROR_SAID = z.tuple([
+  z.string(),
+  z.string(),
+  z.coerce.number().int(),
+  z.coerce.number().int(),
+  z.string(),
+])
 
 const UNLOOKED = "A parser that could not look has verified nothing, so this change is not judged."
 
@@ -40,14 +49,14 @@ export function swiftNamed(path: string): boolean {
 export function foundIn(err: string, root: string): readonly Found[] {
   const found: Found[] = []
   for (const text of err.split("\n")) {
-    const one = ERROR_RE.exec(text)
-    if (one === null) continue
-    const at = one[1] ?? ""
+    const one = ERROR_SAID.safeParse(ERROR_RE.exec(text))
+    if (!one.success) continue
+    const [, at, line, column, said] = one.data
     found.push({
       path: at.startsWith(`${root}/`) ? at.slice(root.length + 1) : at,
-      line: Number(one[2]),
-      column: Number(one[3]),
-      said: one[4] ?? "",
+      line,
+      column,
+      said,
     })
   }
   return found
