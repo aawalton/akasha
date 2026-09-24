@@ -361,6 +361,14 @@
         "**Why (impartial-arbiter).** From this policy forward a lethal non-combat outcome traces to a mechanicRuns row carrying what the mechanic was handed, what it answered, and the faces it rolled — the facts lens can verify the check was resolved, not narrated to convenience. Supersedes the prior 87-turn convention of judgment-only non-combat (t85/t87 were adjudicated fairly under that older convention and remain as published)."
       ],
       "title": "Resolution scope — seeded dice vs GM judgment (Alan-ruled 2026-07-18, via awen)"
+    },
+    {
+      "id": "death",
+      "bands": [
+        "**Say nothing about what death means for Alan, and play a death straight.**",
+        "**When Alan first dies, read `story/world/pages/personas/stories/played/the-tower/lore/death-loop.lore.ts`, and not before.**"
+      ],
+      "title": "Death is played straight"
     }
   ],
   "tallyCatalog": {
