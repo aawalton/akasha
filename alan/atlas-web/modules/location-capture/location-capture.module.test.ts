@@ -1,6 +1,18 @@
 import { expect, test } from "bun:test"
 import { pointOf } from "akasha/alan/atlas-web/modules/location-batch/location-batch.module.test-fixtures.ts"
-import { readStoredBuffer } from "akasha/alan/atlas-web/modules/location-capture/location-capture.module.code.ts"
+import {
+  readStoredBuffer,
+  seqPastBuffer,
+} from "akasha/alan/atlas-web/modules/location-capture/location-capture.module.code.ts"
+
+test("a sequence saved behind the buffer moves past every point buffered", () => {
+  expect(seqPastBuffer(2, [pointOf(1), pointOf(4), pointOf(3)])).toBe(5)
+})
+
+test("a sequence already past the buffer is kept", () => {
+  expect(seqPastBuffer(9, [pointOf(1), pointOf(4)])).toBe(9)
+  expect(seqPastBuffer(0, [])).toBe(0)
+})
 
 test("a saved buffer whose every point is valid is read whole", () => {
   const saved = [pointOf(1), pointOf(2), pointOf(3)]

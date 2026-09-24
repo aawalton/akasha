@@ -35,6 +35,10 @@ export function nextSeq(current: number): number {
   return current + 1
 }
 
+export function seqPastBuffer(seq: number, buffer: readonly LocationPoint[]): number {
+  return buffer.reduce((next, point) => Math.max(next, nextSeq(point.clientSeq)), seq)
+}
+
 export function mapPluginLocation(
   loc: PluginLocation,
   ctx: { deviceId: string; clientSeq: number; nowMs: number }

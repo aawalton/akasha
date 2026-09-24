@@ -20,5 +20,9 @@ export const locationCapture = {
       decisionKind: "decision-kind/departure",
       statement: "A saved buffer that is not a list of points in JSON is read as unreadable.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sequence starts past every point already buffered.",
+    },
   ],
 } as const satisfies Module

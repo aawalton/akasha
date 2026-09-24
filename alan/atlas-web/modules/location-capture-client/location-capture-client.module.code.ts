@@ -12,6 +12,7 @@ import {
   type PluginLocation,
   readStoredBuffer,
   removePoints,
+  seqPastBuffer,
 } from "akasha/alan/atlas-web/modules/location-capture/location-capture.module.code.ts"
 
 const DEVICE_ID_KEY = "atlas.capture.deviceId"
@@ -89,7 +90,7 @@ async function loadState(): Promise<CaptureState> {
     }
   }
 
-  return { deviceId, seq, buffer }
+  return { deviceId, seq: seqPastBuffer(seq, buffer), buffer }
 }
 
 async function handleLocation(loc: PluginLocation): Promise<void> {
