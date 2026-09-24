@@ -12,4 +12,8 @@ The pin shears.
 
 For half a breath, nothing. Then the drum lets go. The chain rips off it in a long scream of iron, all the stored tension of the whole counterweight unwinding through the colossus at once — and the figure comes apart from the waist outward, stone and iron flung wide, the freed chain whipping away into the black. The vast mass that was the counterweight drops out from under it and falls, and falls, and never once makes a sound. And below you, down the whole length of the shaft, the slabs sink one final time and stop.
 
+:::level-up
+level: 6
+:::
+
 The dark goes still. The beat that has tried to throw you into the deep since you entered is simply gone. You stand on a gantry that does not move, in a silence you have not heard since the arch closed behind you, the grey light of the exit open just past your shoulder. The warden lies in pieces across the stone — and among the wreck, where the chain tore loose, the heavy wound drum at its core has come to rest, and a long arm's-reach of the great chain with it.
