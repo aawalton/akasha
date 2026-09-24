@@ -183,7 +183,8 @@ export const persona = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No persona sits in two seats that are not a handler's.",
+      statement:
+        "A persona sits in one seat besides a handler's, or in a game's game master and world builder seats.",
     },
     {
       decisionKind: "decision-kind/departure",
