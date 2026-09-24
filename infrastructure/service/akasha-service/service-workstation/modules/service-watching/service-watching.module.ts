@@ -64,7 +64,7 @@ export const serviceWatching = {
       statement: "A run that cannot tell still leaves a verdict.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Something tells Alan when this run is the run that is broken.",
     },
     {
