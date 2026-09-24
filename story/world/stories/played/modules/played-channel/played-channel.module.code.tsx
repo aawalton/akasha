@@ -70,6 +70,7 @@ export function PlayedChannel({
       {beats === undefined ? null : (
         <NarrativeLog
           beats={beats}
+          marksNewest={false}
           gameExternalId={gameExternalId}
           submitPlayerAction={refusePlayerAction}
           signedOutNotice={null}

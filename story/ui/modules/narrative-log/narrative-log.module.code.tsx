@@ -85,12 +85,14 @@ export function NarrativeLog({
   beats,
   gameExternalId,
   newestRef,
+  marksNewest = true,
   submitPlayerAction,
   signedOutNotice,
 }: {
   beats: readonly ClientBeat[] | null
   gameExternalId?: string
   newestRef?: RefObject<HTMLDivElement | null>
+  marksNewest?: boolean
   submitPlayerAction: SubmitPlayerAction
   signedOutNotice: ReactNode
 }) {
@@ -114,7 +116,7 @@ export function NarrativeLog({
             ref={showMark ? newestRef : undefined}
             className="flex scroll-mt-[calc(var(--safe-area-top)+3.5rem)] flex-col gap-3"
           >
-            {showMark ? <NewestDivider /> : null}
+            {showMark && marksNewest ? <NewestDivider /> : null}
             <BeatView
               beat={beat}
               latest={bright}

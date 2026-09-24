@@ -17,6 +17,11 @@ export const playedChannel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "That ruled line is drawn once, so the beats under the run draw no line of their own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn undrawn for want of room is counted above the run.",
     },
     {
