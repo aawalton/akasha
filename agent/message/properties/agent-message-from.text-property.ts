@@ -11,7 +11,11 @@ export const agentMessageFrom = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A sender is a seat or a persona or a service that has no seat.",
+      statement: "A sender is a seat or a persona or a person or a service that has no seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A person sends under the slug of that person's page.",
     },
     {
       decisionKind: "decision-kind/gap",
