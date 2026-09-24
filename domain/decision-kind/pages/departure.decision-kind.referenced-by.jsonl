@@ -1728,6 +1728,7 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-calls/seat-calls.module.ts","id":"01a095c4-7d31-7000-a5b2-4e1f90c3ab77"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-mode/seat-mode.module.ts","id":"01a064c8-9a9c-7a5f-8924-880a9eff5f02"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-observations/seat-observations.module.ts","id":"01a0680d-8b1a-7000-abf8-16f7ab595a99"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-page-opening/seat-page-opening.module.ts","id":"01a0d49e-b48f-7c61-8d21-ecef84f0479c"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-plan-running/seat-plan-running.module.ts","id":"01a0686b-bfe9-72a1-aae1-064e9d606367"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-showing/seat-showing.module.ts","id":"01a0686b-bfe9-7ca6-919b-b3b0a47d62d8"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-tab-context/seat-tab-context.module.ts","id":"01a0686b-bfe9-74a9-988e-2d1c89ebe36f"}

@@ -1024,6 +1024,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/seat-calls/seat-calls.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/seat-mode/seat-mode.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/seat-observations/seat-observations.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/seat-page-opening/seat-page-opening.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/seat-plan-running/seat-plan-running.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/seat-showing/seat-showing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/seat-tab-context/seat-tab-context.module.ts"}

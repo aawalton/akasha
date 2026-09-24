@@ -110,6 +110,7 @@ export const extension = {
     "module/work-tree-view",
     "type-declaration/vscode-api",
     "module/ending-anchor",
+    "module/seat-page-opening",
   ],
   decisions: [
     {

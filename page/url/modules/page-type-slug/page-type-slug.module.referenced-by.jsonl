@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"alan/web/routes/alan-web-api-nav-icon/alan-web-api-nav-icon.route.code.ts"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"alan/web/routes/alan-web-page-detail/alan-web-page-detail.route.code.tsx"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"alan/web/routes/alan-web-page-listing/alan-web-page-listing.route.code.tsx"}
+{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"code/editor/extension/modules/seat-page-opening/seat-page-opening.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/access/modules/get/get.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/access/modules/page-type/page-type.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/core/modules/page-types/page-types.module.code.ts"}

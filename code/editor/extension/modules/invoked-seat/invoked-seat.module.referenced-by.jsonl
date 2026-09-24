@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"invoked-seat.module.code.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"invoked-seat.module.code.ts","path":"code/editor/extension/modules/seat-acts/seat-acts.module.code.ts"}
+{"propertySlug":"import","fileName":"invoked-seat.module.code.ts","path":"code/editor/extension/modules/seat-page-opening/seat-page-opening.module.code.ts"}
 {"propertySlug":"import","fileName":"invoked-seat.module.code.ts","path":"code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts"}
 {"propertySlug":"import","fileName":"invoked-seat.module.code.ts","path":"code/editor/extension/modules/seat-showing/seat-showing.module.code.ts"}
 {"propertySlug":"parts","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}
