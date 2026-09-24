@@ -14,8 +14,6 @@ import { Fragment, useMemo } from "react"
 
 const PLAY_IS_OVER = "This play is over, so nothing sent here reaches the game."
 
-const ASIDE_LINE = "font-mono text-tertiary text-xs"
-
 const TURN_LINK =
   "font-mono text-tertiary text-xs underline-offset-2 hover:text-accent hover:underline"
 
@@ -26,7 +24,6 @@ export function PlayedChannel({
   turns,
   beats,
   hrefById,
-  earlier,
   titles,
   pastTurns,
   gameExternalId,
@@ -41,9 +38,6 @@ export function PlayedChannel({
 
   return (
     <div className="flex min-w-0 flex-col gap-6">
-      {earlier === 0 ? null : (
-        <p className={ASIDE_LINE}>{earlier} earlier turns are not drawn here</p>
-      )}
       {rows.map((row) => {
         const href = hrefById.get(row.turn.id)
         return (
