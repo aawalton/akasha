@@ -49,6 +49,10 @@ export const uiWindows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A window's addon is started by its own load, never again by what opens it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A window seeds its own addon's saved variables unless it says otherwise.",
     },
     {
