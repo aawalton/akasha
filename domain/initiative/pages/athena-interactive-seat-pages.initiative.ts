@@ -9,10 +9,6 @@ export const athenaInteractiveSeatPages = {
   intentStack: [
     {
       statement:
-        "A computed property holds a relation to a page, as well as a boolean, date, instant, number or text.",
-    },
-    {
-      statement:
         "A page type names a property whose color draws its pages' titles in rows, cards and headers.",
     },
     {
