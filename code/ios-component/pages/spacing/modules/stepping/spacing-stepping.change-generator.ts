@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { ChangeGenerator } from "akasha/change/generator/change-generator.page-type.types.ts"
 
 export const spacingStepping = {
   id: "01a08277-ba81-7b7f-97c0-84c028b4447a",
-  type: "page-type/module",
+  type: "page-type/change-generator",
   slug: "spacing-stepping",
   definition: "the spacing steps a stylesheet states, written again as Swift",
   code: "ts",
@@ -77,4 +77,4 @@ export const spacingStepping = {
       statement: "Nothing here commits.",
     },
   ],
-} as const satisfies Module
+} as const satisfies ChangeGenerator

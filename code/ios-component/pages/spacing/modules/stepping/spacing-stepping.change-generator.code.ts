@@ -101,7 +101,7 @@ function couldTurn(change: Change): boolean {
   return false
 }
 
-export function steppedFor(change: Change): Stepped {
+export function generateChange(change: Change): Stepped {
   try {
     if (!couldTurn(change)) return NOTHING_STEPPED
     const cast = shadowFor(change)

@@ -8,7 +8,7 @@ import {
   type Replacing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textIn } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
-import { steppedFor } from "akasha/code/ios-component/pages/spacing/modules/stepping/spacing-stepping.module.code.ts"
+
 import { bodiesFor } from "akasha/code/module-property-group/modules/group-writing/group-writing.module.code.ts"
 import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import { globbedFor } from "akasha/code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"
@@ -149,13 +149,13 @@ export function preparing(
   if (unexportable.length > 0) return { refusals: unexportable, code: DATA }
   const locking = lockingFor(root, base, rows)
   const change = changeOf(root, base, rows)
-  const stepped = steppedFor(change)
+
   const globbed = globbedFor(change)
   const typed = typesFor(change)
   const written = bodiesFor(change)
   const early = [
     ...locking.edits,
-    ...stepped.edits,
+
     ...globbed.edits,
     ...typed.edits,
     ...written.edits,
@@ -178,7 +178,7 @@ export function preparing(
     settled: "refused" in cast || cast.settled === null ? null : { base, settling: cast.settled },
     said: [
       ...locking.said,
-      ...stepped.said,
+
       ...globbed.said,
       ...typed.said,
       ...written.said,

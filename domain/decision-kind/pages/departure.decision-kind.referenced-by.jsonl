@@ -1848,7 +1848,7 @@
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/smilingjenny-cost-widget/smilingjenny-cost-widget.ios-component.ts","id":"01a08bb4-8f4f-7297-9c23-8360a4bbe920"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/smilingjenny-upkeep-stoplights-widget/smilingjenny-upkeep-stoplights-widget.ios-component.ts","id":"01a08bf1-5b1b-7c9a-acac-0bce6dc7c0f0"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/smilingjenny-widget-feed/smilingjenny-widget-feed.ios-component.ts","id":"01a05835-69dc-778f-bb4b-dd897c3cb3e7"}
-{"propertySlug":"decision-kind","path":"code/ios-component/pages/spacing/modules/stepping/spacing-stepping.module.ts","id":"01a08277-ba81-7b7f-97c0-84c028b4447a"}
+{"propertySlug":"decision-kind","path":"code/ios-component/pages/spacing/modules/stepping/spacing-stepping.change-generator.ts","id":"01a08277-ba81-7b7f-97c0-84c028b4447a"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/spacing/spacing.ios-component.ts","id":"01a05821-5723-78b9-b75a-3fe58bb53935"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/surplus-ring/surplus-ring.ios-component.ts","id":"01a05482-22de-75cc-8874-6771b33a0f8a"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/tier/tier.ios-component.ts","id":"01a05482-22df-7a91-9e4d-ba72f93c5851"}

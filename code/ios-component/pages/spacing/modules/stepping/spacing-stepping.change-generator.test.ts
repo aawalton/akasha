@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   bodyFor,
   stepsIn,
-} from "akasha/code/ios-component/pages/spacing/modules/stepping/spacing-stepping.module.code.ts"
+} from "akasha/code/ios-component/pages/spacing/modules/stepping/spacing-stepping.change-generator.code.ts"
 
 const STATED = [
   ":root {",

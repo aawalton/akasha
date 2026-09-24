@@ -194,7 +194,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/ios-app/modules/decode-harness-script/decode-harness-script.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/ios-app/modules/shared-build-files/shared-build-files.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/ios-app/pages/alanwalton/scripts/ios-seam/alanwalton-ios-seam.shell-script.scripting.code.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/ios-component/pages/spacing/modules/stepping/spacing-stepping.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/ios-component/pages/spacing/modules/stepping/spacing-stepping.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/ios-harness/scripts/render-harness-run/render-harness-run.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/modules/applying/applying.module.code.ts"}

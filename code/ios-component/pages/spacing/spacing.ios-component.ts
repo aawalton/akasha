@@ -25,5 +25,5 @@ export const spacing = {
       statement: "A widget extension takes its scale from this one copy.",
     },
   ],
-  parts: ["module/spacing-stepping"],
+  parts: ["change-generator/spacing-stepping"],
 } as const satisfies IosComponent
