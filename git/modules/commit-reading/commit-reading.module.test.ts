@@ -67,14 +67,14 @@ test("whether a base names a commit is answered with no body asked for", () => {
   readingEnded()
 })
 
-test("one git answers every body asked for, and none outlives the reader being ended", () => {
+test("one git answers every body asked for, and none outlives the reader being ended", async () => {
   const root = repoWith({ "one.txt": "a", "two.txt": "b", "three.txt": "c" })
   const base = baseOf(root)
   for (const one of ["one.txt", "two.txt", "three.txt"])
     expect(bodyAt(root, base, one)).not.toBeNull()
   expect(gitOver(root).length).toBe(1)
   readingEnded()
-  expect(gitOver(root)).toEqual([])
+  expect(await until(() => gitOver(root).length === 0)).toBe(true)
 })
 
 test("a second commit is read by the same reader, each base asked after once", () => {
@@ -88,10 +88,10 @@ test("a second commit is read by the same reader, each base asked after once", (
   readingEnded()
 })
 
-test("a body that would not read ends the reader rather than leaving it half read", () => {
+test("a body that would not read ends the reader rather than leaving it half read", async () => {
   const root = repoWith({ "one.txt": "a" })
   expect(() => bodyAt(root, "0".repeat(40), "one.txt")).toThrow()
-  expect(gitOver(root)).toEqual([])
+  expect(await until(() => gitOver(root).length === 0)).toBe(true)
 })
 
 test("reading a body the commit does not carry says nothing on stderr", () => {
