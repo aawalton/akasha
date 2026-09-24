@@ -81,9 +81,14 @@
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/prismatic-recovery/grades/jewelry-enchant-prismatic-recovery-fine-magicka-recovery.temper-gear-grade.ts","id":"01a0d3eb-7185-79f0-8ce4-16c60a1b5b6e"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/prismatic-recovery/grades/jewelry-enchant-prismatic-recovery-fine-stamina-recovery.temper-gear-grade.ts","id":"01a0d3eb-7c40-77ec-94f1-b488a896ca77"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/prismatic-recovery/prismatic-recovery.temper-jewelry-enchant.ts","id":"019e5c85-d94b-7840-9864-0746ea707834"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/reduce-feat-cost/grades/jewelry-enchant-reduce-feat-cost-fine.temper-gear-grade.ts","id":"01a0d3ec-1844-7a25-a5f0-3bd5b6760ea7"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/reduce-feat-cost/reduce-feat-cost.temper-jewelry-enchant.ts","id":"019e5c85-d94f-717a-b384-c3148481347b"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/reduce-skill-cost/grades/jewelry-enchant-reduce-skill-cost-fine-magicka-ability-cost.temper-gear-grade.ts","id":"01a0d3ec-5e3c-70d9-82be-f78c2ab9ee38"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/reduce-skill-cost/grades/jewelry-enchant-reduce-skill-cost-fine-stamina-ability-cost.temper-gear-grade.ts","id":"01a0d3ec-672b-78fc-b916-535418dd4456"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/reduce-skill-cost/reduce-skill-cost.temper-jewelry-enchant.ts","id":"019e5c85-d950-7c44-917e-caefd8e9f59a"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/reduce-spell-cost/grades/jewelry-enchant-reduce-spell-cost-fine.temper-gear-grade.ts","id":"01a0d3ec-c1f4-7815-8978-c011e2d4226a"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/reduce-spell-cost/reduce-spell-cost.temper-jewelry-enchant.ts","id":"019e5c85-d94d-77bd-b10c-f85cf52b46e4"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/shock-resist/grades/jewelry-enchant-shock-resist-fine.temper-gear-grade.ts","id":"01a0d3ec-f83e-75f1-b21e-6ee9cbe168e1"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/shock-resist/shock-resist.temper-jewelry-enchant.ts","id":"019e5c85-d955-74d8-9a9a-3e66c22bcecb"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/stamina-recovery/stamina-recovery.temper-jewelry-enchant.ts","id":"019e5c85-d946-7a55-8269-7417f599aa31"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/arcane/arcane.temper-jewelry-trait.ts","id":"019e5b97-6d83-7436-af5e-2eba1e7e972e"}
