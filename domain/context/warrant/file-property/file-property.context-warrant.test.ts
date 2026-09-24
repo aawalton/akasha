@@ -74,13 +74,11 @@ function propertyPage(
 function statingWorld(root: string): readonly string[] {
   pageType(root, "module", [
     { pageTypeSlug: "text-property", slug: "id" },
-    { pageTypeSlug: "relation-property", slug: "page-type-slug" },
     { pageTypeSlug: "relation-property", slug: pagePageType.slug },
     { pageTypeSlug: "text-property", slug: "slug" },
     { pageTypeSlug: "text-property", slug: "definition" },
   ])
   const id = propertyPage(root, "id", "text-property")
-  propertyPage(root, "page-type-slug", "relation-property")
   const type = propertyPage(root, pagePageType.slug, "relation-property", pagePageType.propertySlug)
   const slug = propertyPage(root, "slug", "text-property")
   const definition = propertyPage(root, "definition", "text-property")
