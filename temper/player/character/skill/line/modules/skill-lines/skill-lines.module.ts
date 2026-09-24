@@ -11,10 +11,6 @@ export const skillLines = {
       decisionKind: "decision-kind/constraint",
       statement: "A skill line's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A skill line moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["SKILL_LINES_DATA"],
 } as const satisfies Module
