@@ -5,6 +5,12 @@ export const locationDeal = {
   type: "page-type/page-type",
   slug: "location-deal",
   definition: "an offer redeemable at places on the map",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "location deal" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "location deals" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "deal", scope: "domain/place" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "deals", scope: "domain/place" },
+  ],
   extends: ["page-type/page"],
   parts: [
     "boolean-property/struck-out",

@@ -27,6 +27,7 @@
 {"propertySlug":"part-of-speech","path":"alan/car-research/car/car.page-type.ts","id":"01a065a0-0000-7000-8000-000000000401"}
 {"propertySlug":"part-of-speech","path":"alan/chess/chess.domain.ts","id":"01a05be1-cb07-74d3-b8ca-8a6e71097f9b"}
 {"propertySlug":"part-of-speech","path":"alan/collection/collection.page-type.ts","id":"01a063de-2c60-7006-8395-50a12e499f8e"}
+{"propertySlug":"part-of-speech","path":"alan/collection/place/location-deal/location-deal.page-type.ts","id":"01a06585-5fc5-715e-850c-9b88e5597728"}
 {"propertySlug":"part-of-speech","path":"alan/collection/place/location/location.page-type.ts","id":"01a06583-acfb-78cd-80a3-4b5b464dc8ff"}
 {"propertySlug":"part-of-speech","path":"alan/collection/place/place.domain.ts","id":"01a06590-0000-7000-8000-000000000201"}
 {"propertySlug":"part-of-speech","path":"alan/collection/place/restaurant/restaurant.page-type.ts","id":"01a06807-be66-700b-be52-bd042c86fc17"}
