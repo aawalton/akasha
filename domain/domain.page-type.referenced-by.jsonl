@@ -235,6 +235,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/mobile-cli/mobile-cli.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/monarch/monarch.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/money/money.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/notification/notification.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/plant/plant.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/readout/color/readout-color.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/readout/figure/readout-figure.domain.ts"}

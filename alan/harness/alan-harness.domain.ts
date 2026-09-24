@@ -29,6 +29,7 @@ export const alanHarness = {
     "domain/location-trace-access",
     "domain/mobile-cli",
     "domain/monarch",
+    "domain/notification",
     "domain/money",
     "domain/plant",
     "domain/recurrence",
