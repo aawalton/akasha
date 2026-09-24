@@ -4,7 +4,7 @@ export const rulesEngine = {
   id: "01a0657b-9adc-7003-a1af-d02c5457d479",
   type: "page-type/domain",
   slug: "rules-engine",
-  definition: "every rule set's input",
+  definition: "how a rule matches a page",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "rules engine rule" },
     { partOfSpeech: "part-of-speech/noun", spelling: "rules engine rules" },
