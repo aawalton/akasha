@@ -25,7 +25,13 @@ export function preservingRestartBusyReason(
   return parts.length === 0 ? "idle" : parts.join(", ")
 }
 
-const MCP_CHILD_CMDLINE_MARKERS = ["mcp.ts", "playwright-mcp", "@playwright/mcp", "npm exec @"]
+const MCP_CHILD_CMDLINE_MARKERS = [
+  "mcp.ts",
+  "-mcp.module.code.ts",
+  "playwright-mcp",
+  "@playwright/mcp",
+  "npm exec @",
+]
 
 export function isIgnoredMcpChildCmdline(cmdline: string): boolean {
   return MCP_CHILD_CMDLINE_MARKERS.some((marker) => cmdline.includes(marker))

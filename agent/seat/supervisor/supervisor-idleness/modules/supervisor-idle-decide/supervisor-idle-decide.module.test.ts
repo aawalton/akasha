@@ -55,5 +55,10 @@ test("the busy reason may be asked to pass over busy children", () => {
 test("a child running MCP is passed over and any other child is not", () => {
   expect(isIgnoredMcpChildCmdline("bun run /home/a/mcp.ts")).toBe(true)
   expect(isIgnoredMcpChildCmdline("npm exec @playwright/mcp")).toBe(true)
+  expect(
+    isIgnoredMcpChildCmdline(
+      "bun run /var/home/walton/repos/akasha/agent/message/modules/mcp/agent-message-mcp.module.code.ts"
+    )
+  ).toBe(true)
   expect(isIgnoredMcpChildCmdline("bun run build.ts")).toBe(false)
 })
