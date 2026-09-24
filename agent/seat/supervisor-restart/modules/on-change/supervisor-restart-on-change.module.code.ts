@@ -4,6 +4,10 @@ import {
   REPO_ROOT,
 } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
+  computeReExecJitterMs,
+  resolveMaxReExecJitterMs,
+} from "akasha/agent/seat/supervisor-restart/modules/jitter-decide/supervisor-restart-jitter-decide.module.code.ts"
+import {
   ORIGINAL_ARGV,
   SUPERVISOR_RESTART_STATE,
 } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
@@ -79,9 +83,11 @@ export async function handleVersionUpdate(
       maxDeferMs: windows.maxDeferMs,
       onIdle: async () => {
         SUPERVISOR_RESTART_STATE.deferredReExecGate = null
-        const { value: delayMs } = await SUPERVISOR_RESTART_STATE.jitterRule(
+        const delayMs = computeReExecJitterMs(
           SUPERVISOR_RESTART_STATE.randomFloat(),
-          SHAPE.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_JITTER_MS)
+          resolveMaxReExecJitterMs(
+            SHAPE.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_JITTER_MS)
+          )
         )
         console.log(
           `${LOG} Self-heal: agent idle; scheduling re-exec SIGTERM in ${delayMs}ms (jitter)`

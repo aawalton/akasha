@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-port-line/supervisor-gateway-port-line.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/modules/window-duration/window-duration.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts"}
-{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor-restart/modules/jitter-rule/supervisor-restart-jitter-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor-restart/modules/on-change/supervisor-restart-on-change.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"}

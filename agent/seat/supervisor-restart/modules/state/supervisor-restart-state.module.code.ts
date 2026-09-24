@@ -8,7 +8,6 @@ import {
   defaultRunInstall,
   type RestartRunInstall,
 } from "akasha/agent/seat/supervisor-restart/modules/install/supervisor-restart-install.module.code.ts"
-import type { RestartJitterRuleSource } from "akasha/agent/seat/supervisor-restart/modules/jitter-rule/supervisor-restart-jitter-rule.module.code.ts"
 import {
   reExecAsked,
   takeReExecAsk,
@@ -70,7 +69,6 @@ export const SUPERVISOR_RESTART_STATE: {
   getClaudePid: () => number | null
   getGatewayPort: () => number | null
   deferredReExecGate: { cancel: () => void } | null
-  jitterRule: RestartJitterRuleSource
   deferredRestartRule: DeferredRestartRuleSource
   armReExecGate: ArmReExecGate
   killSelf: (signal: NodeJS.Signals) => boolean
@@ -88,7 +86,6 @@ export const SUPERVISOR_RESTART_STATE: {
   getClaudePid: inheritedClaudePid,
   getGatewayPort: () => null,
   deferredReExecGate: null,
-  jitterRule: () => refuseUnwiredRestartRule("restart jitter rule"),
   deferredRestartRule: UNWIRED_DEFERRED_RESTART_RULE,
   armReExecGate: defaultArmReExecGate,
   killSelf: (sig) => process.kill(process.pid, sig),
@@ -131,11 +128,9 @@ export function getGatewayOwnerAgentIdForRestart(): string | null {
 export function setRestartIdleProbe(opts: {
   getClaudePid: () => number | null
   getProxyPort: () => number | null
-  jitterRule: RestartJitterRuleSource
   deferredRestartRule: DeferredRestartRuleSource
 }): undefined {
   SUPERVISOR_RESTART_STATE.getClaudePid = opts.getClaudePid
   SUPERVISOR_RESTART_STATE.getGatewayPort = opts.getProxyPort
-  SUPERVISOR_RESTART_STATE.jitterRule = opts.jitterRule
   SUPERVISOR_RESTART_STATE.deferredRestartRule = opts.deferredRestartRule
 }

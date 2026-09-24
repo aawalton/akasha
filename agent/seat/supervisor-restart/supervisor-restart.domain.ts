@@ -13,7 +13,6 @@ export const supervisorRestart = {
     "module/supervisor-restart-on-change",
     "module/supervisor-restart-install",
     "module/supervisor-restart-jitter-decide",
-    "module/supervisor-restart-jitter-rule",
     "module/supervisor-restart-state",
   ],
 } as const satisfies Domain

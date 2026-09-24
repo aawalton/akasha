@@ -27,7 +27,6 @@ import type { CarriedAgentName } from "akasha/agent/seat/supervisor/supervisor-r
 import { recordTermiosState } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
 import { bootInteractiveSession } from "akasha/agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"
 import type { InteractiveOpts } from "akasha/agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
-import { askReExecJitterMs } from "akasha/agent/seat/supervisor-restart/modules/jitter-rule/supervisor-restart-jitter-rule.module.code.ts"
 import { setRestartIdleProbe } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 
 export async function runInteractive(
@@ -65,7 +64,6 @@ export async function runInteractive(
   setRestartIdleProbe({
     getClaudePid: () => agentProc?.proc?.pid ?? null,
     getProxyPort: () => proxy.port,
-    jitterRule: askReExecJitterMs,
     deferredRestartRule: LIVE_DEFERRED_RESTART_RULE,
   })
 
