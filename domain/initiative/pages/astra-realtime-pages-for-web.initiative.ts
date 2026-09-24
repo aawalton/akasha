@@ -21,8 +21,12 @@ export const astraRealtimePagesForWeb = {
         "A change to a page's file property or computed property is pushed as a change to that page.",
     },
     {
-      statement: "A page keeps, uncommitted, what each of its computed properties last read.",
+      statement: "A computed property keeps, uncommitted, the pages, files and folders it reads.",
     },
+    {
+      statement: "A computed property reading many files in one folder keeps that folder instead.",
+    },
+    { statement: "A calculation reads a folder through its reach as it reads a file." },
     { statement: "A browser is pushed each change to a page or list it shows, and to no other." },
     {
       statement:
