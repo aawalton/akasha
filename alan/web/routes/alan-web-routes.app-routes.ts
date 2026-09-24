@@ -62,6 +62,7 @@ export const alanWebRoutes = {
     "route/alan-web-handover-app",
     "route/alan-web-api-handover-exchange",
     "route/alan-web-api-ask",
+    "route/action-bar",
   ],
   decisions: [
     {

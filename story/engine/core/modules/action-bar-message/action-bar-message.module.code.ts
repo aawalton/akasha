@@ -1,3 +1,5 @@
+export const ACTION_BAR_SENDER = "alan-action-bar"
+
 export const ACTION_BAR_MESSAGE_KINDS = ["action", "feedback"] as const
 export type ActionBarMessageKind = (typeof ACTION_BAR_MESSAGE_KINDS)[number]
 

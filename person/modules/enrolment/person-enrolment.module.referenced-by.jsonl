@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/atlas-web/routes/atlas-api-places-add/atlas-api-places-add.route.code.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/harness/web-page-answer/modules/reader-access/reader-access.module.code.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/requests-web/routes/_app-layout.tsx"}
+{"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/web/.server/device-secret-context/device-secret-context.module.code.ts"}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"alan/web/.server/device-secret-context/device-secret-context.module.test.ts"}

@@ -1201,6 +1201,7 @@
 {"propertySlug":"decision-kind","path":"alan/value/learn/mathematics/proposition/proposition.page-type.ts","id":"01a06575-c2ab-7655-98f1-b3163771f0dc"}
 {"propertySlug":"decision-kind","path":"alan/value/properties/value-color.relation-property.ts","id":"01a06d7a-e9f7-7f1b-b0c4-15f3742e8352"}
 {"propertySlug":"decision-kind","path":"alan/value/value.page-type.ts","id":"01a06553-f65f-71f6-898f-df18f6561396"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.ts","id":"01a0d487-4384-79e4-9941-54854ae13d0b"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/alan-answer-ask/alan-answer-ask.module.ts","id":"01a0c6b7-6ab7-7d01-bf95-32d6769afbe8"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/alan-route-guard/alan-route-guard.module.ts","id":"01a0c129-30bb-7f20-8811-37cb885fa99e"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/alan-session-reader/alan-session-reader.module.ts","id":"01a0c119-72b0-74f5-b872-e3b9944a812a"}
