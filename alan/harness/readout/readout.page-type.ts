@@ -226,11 +226,7 @@ export const readout = {
       decisionKind: "decision-kind/departure",
       statement: "A reader recalls nothing to read a readout.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A readout's reader is never the instrument that catches that readout being wrong.",
-    },
+
     {
       decisionKind: "decision-kind/gap",
       statement: "Every key a feed sends is decoded by the tile reading that feed.",
