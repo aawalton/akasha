@@ -181,7 +181,7 @@ export const BESIDE_UNCOMMITTED: readonly Declared[] = [declaringEntry(true)]
 export function sectionAt(slug: string, one: string, held: readonly string[]): string {
   const values = held.map((each) => JSON.stringify(each)).join(", ")
   return `export const ${slug} = {
-  pageTypeSlug: "book-section",
+  type: "page-type/book-section",
   slug: "${slug}",
   ${ONE_KEY}: ${JSON.stringify(one)},
   ${LIST_KEY}: [${values}],
@@ -212,7 +212,7 @@ export const VALUES = valued({
 export function holdingAt(slug: string, held: readonly string[]): string {
   const entries = held.map((each) => `    { ${FIELD_KEY}: ${JSON.stringify(each)} },`).join("\n")
   return `export const ${slug} = {
-  pageTypeSlug: "book-section",
+  type: "page-type/book-section",
   slug: "${slug}",
   ${RECORD_KEY}: [
 ${entries}
@@ -265,7 +265,7 @@ export const NOTHING_BARE =
 
 function entriedAt(slug: string): string {
   return `export const ${slug} = {
-  pageTypeSlug: "book-section",
+  type: "page-type/book-section",
   slug: "${slug}",
   ${ENTRY_KEY}: "jsonl",
 } as const satisfies BookSection

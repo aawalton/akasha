@@ -50,7 +50,7 @@ function typeBody(record: string): string {
 
 function pageBody(slug: string, held: string): string {
   return `export const ${slug} = {
-  pageTypeSlug: "${TYPE}",
+  type: "page-type/${TYPE}",
   slug: "${slug}",
 ${held}} as const satisfies KeptThing
 `
@@ -74,7 +74,7 @@ function declared(required: boolean, many: boolean): Declared {
 }
 
 function valuedAt(slug: string, held: Value): Value {
-  return { pageTypeSlug: TYPE, slug, ...held }
+  return { type: "page-type/kept-thing", slug, ...held }
 }
 
 function flagDeclared(): Declared {

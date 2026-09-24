@@ -51,7 +51,7 @@ const TYPE_BODY = `export type Kept = { readonly id: string }
 
 ${pageOf({
   id: idOf("d"),
-  pageTypeSlug: "page-type",
+  type: `${pageType.slug}/${pageType.slug}`,
   slug: "kept",
   pluralSlug: "kepts",
   extends: [PAGE_AT],
@@ -62,7 +62,7 @@ const ONE_BODY = `import type { Kept } from "../kept.page-type.ts"
 
 export const one = {
   id: "${idOf("e")}",
-  pageTypeSlug: "kept",
+  type: "page-type/kept",
   slug: "one",
   code: "ts",
 } as const satisfies Kept
@@ -77,7 +77,7 @@ const BARE_BODY = `export type Bare = { readonly id: string }
 
 ${pageOf({
   id: idOf("c"),
-  pageTypeSlug: "page-type",
+  type: `${pageType.slug}/${pageType.slug}`,
   slug: "bare",
   pluralSlug: "bares",
   extends: [PAGE_AT],
@@ -91,7 +91,7 @@ function repoIn(): string {
     [ONE_CODE]: ONE_CODE_BODY,
     [SPELLER_PAGE]: pageOf({
       id: idOf("f"),
-      pageTypeSlug: "module",
+      type: `${pageType.slug}/module`,
       slug: "speller",
       code: "ts",
     }),
@@ -136,7 +136,7 @@ test("the page type a page states is restated at the path that page landed at", 
   const body = keptBodies().get(ONE_LANDS) ?? ""
 
   expect(keptSaid().refused).toBe(null)
-  expect(body).toContain(`pageTypeSlug: "${CARRIED}"`)
+  expect(body).toContain(`type: "page-type/${CARRIED}"`)
   expect(body).toContain("satisfies Carried")
 })
 
@@ -181,7 +181,7 @@ const OWNED_TYPE_BODY = `export type LongDay = { readonly id: string }
 
 ${pageOf({
   id: idOf("a"),
-  pageTypeSlug: "page-type",
+  type: `${pageType.slug}/${pageType.slug}`,
   slug: "long-day",
   pluralSlug: "long-days",
   extends: [PAGE_AT],
@@ -192,7 +192,7 @@ const OWNED_PAGE_BODY = `import type { LongDay } from "../../long-day.page-type.
 
 export const longDayOne = {
   id: "${idOf("b")}",
-  pageTypeSlug: "long-day",
+  type: "page-type/long-day",
   slug: "long-day-one",
 } as const satisfies LongDay
 `
@@ -208,7 +208,7 @@ const TYPES_AT = "akasha/page-type.page-type.ts"
 
 const TYPES_BODY = bodyOf({
   id: idOf("2"),
-  pageTypeSlug: "page-type",
+  type: `${pageType.slug}/${pageType.slug}`,
   slug: "page-type",
   extends: [DOMAIN_AT],
   properties: [{ pagePropertySlug: "file-property/worked", required: false, many: false }],
@@ -219,7 +219,7 @@ function ownedRepo(): string {
     [TYPES_AT]: TYPES_BODY,
     [WORKED_PROPERTY]: pageOf({
       id: idOf("9"),
-      pageTypeSlug: "file-property",
+      type: `${pageType.slug}/file-property`,
       slug: "worked",
       propertySlug: "worked",
     }),
@@ -228,7 +228,7 @@ function ownedRepo(): string {
     [OWNED_PAGE]: OWNED_PAGE_BODY,
     [OWNED_READER_PAGE]: pageOf({
       id: idOf("h"),
-      pageTypeSlug: "module",
+      type: `${pageType.slug}/module`,
       slug: "reader",
       code: "ts",
     }),

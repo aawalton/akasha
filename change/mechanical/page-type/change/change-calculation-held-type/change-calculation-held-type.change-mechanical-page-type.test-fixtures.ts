@@ -2,6 +2,7 @@ import type { Reaching, World } from "akasha/change/modules/shadow/change-shadow
 import { worldOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const KIND = "computed-property"
 
@@ -66,7 +67,7 @@ export function worldFor(given: Given, reaching: Reaching): World {
       kindsUnder: () => new Set(given.kinds ?? [KIND]),
       everyOfType: () => (given.paths ?? [AT]).map((path) => ({ path })),
       pageByPath: () => ({
-        pageTypeSlug: KIND,
+        type: `${pageType.slug}/${KIND}`,
         slug: given.slug ?? SLUG,
         code: "ts",
         types: "ts",

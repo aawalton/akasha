@@ -58,19 +58,19 @@ const SPRIGS: Readonly<Record<string, string>> = {
   [TWIG_TYPE]: bodyOf(aType("01a04a4a-0003-7000-8000-000000000002", "twig", [DOMAIN_AT])[1]),
   [ONE_AT]: pageOf({
     id: "01a04a4a-0003-7000-8000-000000000003",
-    pageTypeSlug: "sprig",
+    type: "page-type/sprig",
     slug: "one",
     code: "ts",
   }),
   [ONE_CODE]: "export const one = 1\n",
   [TWO_AT]: pageOf({
     id: "01a04a4a-0003-7000-8000-000000000004",
-    pageTypeSlug: "sprig",
+    type: "page-type/sprig",
     slug: "two",
   }),
   [GROVE_AT]: pageOf({
     id: "01a04a4a-0003-7000-8000-000000000005",
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "grove",
     definition: "a page naming both sprigs in parts",
     parts: ["sprig/one", "sprig/two"],

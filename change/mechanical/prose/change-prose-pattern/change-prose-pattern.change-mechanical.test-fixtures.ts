@@ -62,7 +62,7 @@ const PAGES: ReadonlyMap<string, Value> = new Map([
 
 const ONE_BODY = `export const one = {
   id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
-  pageTypeSlug: "widget",
+  type: "page-type/widget",
   slug: "one",
   saying: "a page holds a value",
   notes: [
@@ -75,7 +75,7 @@ const ONE_BODY = `export const one = {
 
 const TWO_BODY = `export const two = {
   id: "01a072c8-f35d-7ffc-afc3-75b72460b05a",
-  pageTypeSlug: "widget",
+  type: "page-type/widget",
   slug: "two",
   saying: "a page holds a value",
 } as const
@@ -87,14 +87,14 @@ export const BODIES: Readonly<Record<string, string>> = {
 }
 
 export const ONE: Value = {
-  pageTypeSlug: WIDGET,
+  type: "page-type/widget",
   slug: "one",
   saying: "a page holds a value",
   notes: [{ statement: "a page holds one" }],
 }
 
 export const TWO: Value = {
-  pageTypeSlug: WIDGET,
+  type: "page-type/widget",
   slug: "two",
   saying: "a page holds a value",
 }

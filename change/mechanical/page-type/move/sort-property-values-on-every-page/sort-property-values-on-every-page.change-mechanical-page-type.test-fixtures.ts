@@ -19,7 +19,7 @@ export const TYPE = "book-section"
 export function sectionAt(slug: string, held: readonly string[]): string {
   const values = held.map((one) => JSON.stringify(one)).join(", ")
   return `export const ${slug} = {
-  pageTypeSlug: "book-section",
+  type: "page-type/book-section",
   slug: "${slug}",
   ${KEY}: [${values}],
 } as const satisfies BookSection
@@ -27,7 +27,7 @@ export function sectionAt(slug: string, held: readonly string[]): string {
 }
 
 export const SPELLED = `export const one = {
-  pageTypeSlug: "book-section",
+  type: "page-type/book-section",
   slug: "one",
   ${KEY}: ["beta", "al\\u0070ha"],
 } as const satisfies BookSection
