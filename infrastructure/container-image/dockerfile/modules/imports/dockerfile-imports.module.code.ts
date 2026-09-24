@@ -5,12 +5,8 @@ import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code
 import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
-import {
-  type Body,
-  bodiesAt,
-} from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
+import type { Body } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const SOURCE_EXTENSIONS = [".ts", ".tsx", ".mts", ".js", ".jsx", ".mjs"] as const
 
@@ -28,14 +24,6 @@ function listedUnder(root: string, folder: string): readonly string[] {
   const at = join(root, folder)
   if (!existsSync(at)) return []
   return pathsListed(at).map((one) => `${folder}/${one}`)
-}
-
-export function seenAt(root: string): Seen {
-  return {
-    index: shadowAt(root).index,
-    bodyAt: bodiesAt(root),
-    under: (folder) => listedUnder(root, folder),
-  }
 }
 
 export function seenIn(change: Change, index: Answering): Seen {

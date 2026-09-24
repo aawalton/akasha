@@ -30,7 +30,7 @@ const COPIES_KEPT = {
   slug: "copies-kept",
   repository: "cluster/copies-kept",
   context: "",
-  recipe: null,
+  recipe: "Dockerfile",
   dockerfile: ["FROM alpine:3.21", `COPY --link ${KEPT} ./`, ""].join("\n"),
 }
 
@@ -98,7 +98,7 @@ const COPIES_NOTHING = {
   slug: "copies-nothing",
   repository: "cluster/copies-nothing",
   context: "",
-  recipe: null,
+  recipe: "Dockerfile",
   dockerfile: ["FROM alpine:3.21", "RUN apk add --no-cache jq", ""].join("\n"),
 }
 

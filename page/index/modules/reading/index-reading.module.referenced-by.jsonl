@@ -242,7 +242,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/cluster/operation/rotate-cf-token/rotate-cf-token.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/cluster/operation/rotate-ssh-key/rotate-ssh-key.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/registry-ca/registry-ca.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/container-image/modules/image-build/image-build.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts"}

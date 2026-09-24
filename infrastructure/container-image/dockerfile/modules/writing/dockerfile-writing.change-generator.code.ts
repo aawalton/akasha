@@ -10,14 +10,9 @@ import {
 } from "akasha/infrastructure/container-image/dockerfile/modules/extensions/dockerfile-extensions.module.code.ts"
 import {
   type Seen,
-  seenAt,
   seenIn,
 } from "akasha/infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts"
 import { generateNextjsDockerfile } from "akasha/infrastructure/container-image/dockerfile/modules/nextjs/dockerfile-nextjs.module.code.ts"
-import {
-  ROOT,
-  SERVICES,
-} from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 import { generateToolImageDockerfile } from "akasha/infrastructure/container-image/dockerfile/modules/tool-image/dockerfile-tool-image.module.code.ts"
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -73,14 +68,6 @@ function dockerfileOf(slug: string, config: ServiceConfig, seen: Seen): string {
     default:
       return assertNever(config.type)
   }
-}
-
-export function dockerfileFor(slug: string): string {
-  const config = SERVICES[slug]
-  if (config === undefined) {
-    throw new Error(`${slug} is no built image, so no Dockerfile is written for it`)
-  }
-  return dockerfileOf(slug, config, seenAt(ROOT))
 }
 
 function kindOf(said: string | null): ServiceConfig["type"] | null {

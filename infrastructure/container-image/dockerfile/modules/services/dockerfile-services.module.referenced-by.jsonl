@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"dockerfile-services.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/nextjs/dockerfile-nextjs.module.code.ts"}
 {"propertySlug":"import","fileName":"dockerfile-services.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.test.ts"}
 {"propertySlug":"import","fileName":"dockerfile-services.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/tool-image/dockerfile-tool-image.module.code.ts"}
-{"propertySlug":"import","fileName":"dockerfile-services.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"dockerfile-services.module.code.ts","path":"infrastructure/container-image/modules/image-build/image-build.module.code.ts"}
 {"propertySlug":"import","fileName":"dockerfile-services.module.code.ts","path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.code.ts"}
 {"propertySlug":"import","fileName":"dockerfile-services.module.code.ts","path":"infrastructure/container-image/modules/image-publishing/image-publishing.module.code.ts"}

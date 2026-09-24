@@ -215,7 +215,6 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/cluster/operation/create-tunnel/create-tunnel.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.test.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts"}

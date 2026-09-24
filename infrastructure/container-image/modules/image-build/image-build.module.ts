@@ -14,7 +14,7 @@ export const imageBuild = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A built image's recipe is written from what that image imports.",
+      statement: "A built image's recipe is the Dockerfile committed beside that image's page.",
     },
     {
       decisionKind: "decision-kind/departure",

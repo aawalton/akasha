@@ -3,5 +3,4 @@
 {"propertySlug":"import","fileName":"built-image.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/bun-git/bun-git.built-image.ts"}
 {"propertySlug":"import","fileName":"built-image.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/ci/ci.built-image.ts"}
 {"propertySlug":"import","fileName":"built-image.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/kubectl/kubectl.built-image.ts"}
-{"propertySlug":"import","fileName":"built-image.page-type.types.ts","path":"infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"}
 {"propertySlug":"parts","path":"infrastructure/container-image/dockerfile/dockerfile.domain.ts","id":"01a06865-abff-7000-a441-7a4caa49c9d9"}

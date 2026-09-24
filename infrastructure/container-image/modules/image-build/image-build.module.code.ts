@@ -1,15 +1,13 @@
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import {
-  IMAGES,
-  ROOT,
-} from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
-import { dockerfileFor } from "akasha/infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.code.ts"
+import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const RECIPE = "container-recipe"
 const WRITTEN = "Containerfile"
+const BUILT_IMAGE = "built-image"
+const DOCKERFILE = "Dockerfile"
 const REPOSITORY = "repository"
 const SLUG = "slug"
 const HANDED_THE_ROOT = ""
@@ -18,7 +16,7 @@ export interface ImageNamed {
   readonly slug: string
   readonly repository: string
   readonly context: string
-  readonly recipe: string | null
+  readonly recipe: string
 }
 
 export interface ImageBuild extends ImageNamed {
@@ -39,13 +37,15 @@ function recipesNamed(): readonly ImageNamed[] {
 
 function imagesNamed(): readonly ImageNamed[] {
   const found: ImageNamed[] = []
-  for (const one of IMAGES) {
-    if (one.repository === undefined) continue
+  for (const one of valuesOfType(ROOT, BUILT_IMAGE)) {
+    const repository = textAt(one.value, REPOSITORY)
+    const slug = textAt(one.value, SLUG)
+    if (repository === null || slug === null) continue
     found.push({
-      slug: one.slug,
-      repository: one.repository,
+      slug,
+      repository,
       context: HANDED_THE_ROOT,
-      recipe: null,
+      recipe: join(dirname(one.path), DOCKERFILE),
     })
   }
   return found
@@ -64,7 +64,6 @@ export function namedOf(slug: string): ImageNamed {
 }
 
 function dockerfileOf(named: ImageNamed, codeAt: string = ROOT): string {
-  if (named.recipe === null) return dockerfileFor(named.slug)
   return readFileSync(join(codeAt, named.recipe), "utf8")
 }
 

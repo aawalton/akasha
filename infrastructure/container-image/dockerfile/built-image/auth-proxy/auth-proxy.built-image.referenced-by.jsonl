@@ -1,5 +1,4 @@
 {"propertySlug":"import","fileName":"auth-proxy.built-image.extending.code.ts","path":"infrastructure/container-image/dockerfile/built-image/auth-proxy/auth-proxy.built-image.extending.test.ts"}
-{"propertySlug":"import","fileName":"auth-proxy.built-image.ts","path":"infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"}
 {"propertySlug":"import","fileName":"auth-proxy.built-image.ts","path":"infrastructure/container-image/modules/image-ref/image-ref.module.test.ts"}
 {"propertySlug":"import","fileName":"auth-proxy.built-image.ts","path":"infrastructure/network/auth-proxy/manifests/auth-proxy-manifests.manifest.code.ts"}
 {"propertySlug":"parts","path":"infrastructure/container-image/dockerfile/built-image/built-image.page-type.ts","id":"01a08193-c20c-7525-aced-8d801a2e9cd6"}

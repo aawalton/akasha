@@ -20,6 +20,10 @@ export const dockerfileWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An image's extensions are read from the file beside that image's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A Dockerfile the same as the one already written is no file change.",
     },
     {

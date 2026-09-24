@@ -12,113 +12,41 @@ COPY --link package.json ./
 RUN bun install --backend=copyfile --production --frozen-lockfile
 
 # Copy source for workspace members
-COPY --link agent/modules/read-record ./agent/modules/read-record
-COPY --link agent/properties ./agent/properties
-COPY --link alan/book ./alan/book
 COPY --link alan/harness/handover-rr/modules/handover-arrival ./alan/harness/handover-rr/modules/handover-arrival
 COPY --link alan/harness/handover-rr/modules/handover-code ./alan/harness/handover-rr/modules/handover-code
 COPY --link alan/harness/handover-rr/modules/handover-session ./alan/harness/handover-rr/modules/handover-session
 COPY --link alan/harness/handover-rr/modules/handover-site ./alan/harness/handover-rr/modules/handover-site
-COPY --link alan/library/reading/book-section ./alan/library/reading/book-section
-COPY --link change ./change
-COPY --link check/code/pages/browser-code-reads-the-environment-by-a-name ./check/code/pages/browser-code-reads-the-environment-by-a-name
-COPY --link check/code/pages/domain-is-named-by-a-parent ./check/code/pages/domain-is-named-by-a-parent
-COPY --link check/code/pages/no-unused-exports ./check/code/pages/no-unused-exports
-COPY --link check/modules/audit-commit ./check/modules/audit-commit
-COPY --link check/modules/change-walking ./check/modules/change-walking
-COPY --link check/modules/cost ./check/modules/cost
-COPY --link check/modules/judging ./check/modules/judging
-COPY --link check/modules/router-app-code ./check/modules/router-app-code
-COPY --link code/body/modules/body-loading ./code/body/modules/body-loading
-COPY --link code/body/modules/body-text ./code/body/modules/body-text
-COPY --link code/body/modules/carried-file ./code/body/modules/carried-file
-COPY --link code/body/modules/file-kind ./code/body/modules/file-kind
-COPY --link code/body/modules/sha256-hex ./code/body/modules/sha256-hex
 COPY --link code/component-property-group ./code/component-property-group
 COPY --link code/module ./code/module
 COPY --link code/module-property-group ./code/module-property-group
-COPY --link code/modules/thread-pause ./code/modules/thread-pause
-COPY --link code/path/modules/between ./code/path/modules/between
-COPY --link code/path/modules/code-runtime-path ./code/path/modules/code-runtime-path
-COPY --link code/path/modules/folder-spelling ./code/path/modules/folder-spelling
 COPY --link code/path/modules/module-directory ./code/path/modules/module-directory
-COPY --link code/path/modules/path-runs ./code/path/modules/path-runs
 COPY --link code/process/modules/pid-signal ./code/process/modules/pid-signal
-COPY --link code/reading/modules/ast-hash ./code/reading/modules/ast-hash
-COPY --link code/reading/modules/code-binding ./code/reading/modules/code-binding
-COPY --link code/reading/modules/code-importing ./code/reading/modules/code-importing
-COPY --link code/reading/modules/code-naming ./code/reading/modules/code-naming
-COPY --link code/reading/modules/code-rule ./code/reading/modules/code-rule
-COPY --link code/reading/modules/code-source ./code/reading/modules/code-source
-COPY --link code/reading/modules/code-specifier ./code/reading/modules/code-specifier
-COPY --link code/reading/modules/code-typing ./code/reading/modules/code-typing
-COPY --link code/reading/modules/typing-keeping ./code/reading/modules/typing-keeping
-COPY --link code/reading/modules/value-inserting ./code/reading/modules/value-inserting
-COPY --link code/running/modules/code-format ./code/running/modules/code-format
-COPY --link code/running/modules/code-lint ./code/running/modules/code-lint
-COPY --link code/running/modules/test-overlay ./code/running/modules/test-overlay
 COPY --link code/spawning/modules/running ./code/spawning/modules/running
-COPY --link code/type/narrowing/modules/as-boolean ./code/type/narrowing/modules/as-boolean
-COPY --link code/type/narrowing/modules/assert-never ./code/type/narrowing/modules/assert-never
 COPY --link code/type/narrowing/modules/base64-url ./code/type/narrowing/modules/base64-url
 COPY --link code/type/narrowing/modules/collapse ./code/type/narrowing/modules/collapse
-COPY --link code/type/narrowing/modules/first-capture ./code/type/narrowing/modules/first-capture
-COPY --link code/type/narrowing/modules/is-object-record ./code/type/narrowing/modules/is-object-record
 COPY --link code/type/narrowing/modules/narrow-error ./code/type/narrowing/modules/narrow-error
-COPY --link code/type/narrowing/modules/parse-number ./code/type/narrowing/modules/parse-number
 COPY --link code/type/narrowing/modules/parse-said-text ./code/type/narrowing/modules/parse-said-text
 COPY --link code/type/narrowing/modules/require-env ./code/type/narrowing/modules/require-env
-COPY --link code/type/narrowing/modules/said-by ./code/type/narrowing/modules/said-by
-COPY --link code/type/narrowing/modules/sorted-once ./code/type/narrowing/modules/sorted-once
-COPY --link code/type/narrowing/modules/string-in ./code/type/narrowing/modules/string-in
 COPY --link code/type/narrowing/modules/text-in ./code/type/narrowing/modules/text-in
-COPY --link code/workspace/modules/package-manifest ./code/workspace/modules/package-manifest
-COPY --link command/modules/change-freshness ./command/modules/change-freshness
-COPY --link command/modules/value-minting ./command/modules/value-minting
 COPY --link command/pages/deploy/modules/tree-pinning ./command/pages/deploy/modules/tree-pinning
 COPY --link domain ./domain
-COPY --link file/disk/modules/atomic-write ./file/disk/modules/atomic-write
-COPY --link file/disk/modules/file-size ./file/disk/modules/file-size
-COPY --link file/disk/modules/missing ./file/disk/modules/missing
-COPY --link file/disk/modules/scratching ./file/disk/modules/scratching
-COPY --link file/disk/modules/text-on-disk ./file/disk/modules/text-on-disk
 COPY --link file/disk/modules/text-there ./file/disk/modules/text-there
-COPY --link file/modules/exclusive ./file/modules/exclusive
 COPY --link file/modules/git-place ./file/modules/git-place
-COPY --link file/modules/lock-holder ./file/modules/lock-holder
 COPY --link git/modules/capping ./git/modules/capping
-COPY --link git/modules/commit-reading ./git/modules/commit-reading
 COPY --link git/modules/dir ./git/modules/dir
-COPY --link git/modules/pathspec ./git/modules/pathspec
-COPY --link git/modules/running ./git/modules/running
-COPY --link graph/attribute ./graph/attribute
-COPY --link graph/modules/asking ./graph/modules/asking
-COPY --link graph/predicate ./graph/predicate
 COPY --link infrastructure/cluster/k8s-type/manifest ./infrastructure/cluster/k8s-type/manifest
 COPY --link infrastructure/cluster/k8s-type/modules/cdk8s-synth ./infrastructure/cluster/k8s-type/modules/cdk8s-synth
 COPY --link infrastructure/cluster/k8s-type/modules/hostnames ./infrastructure/cluster/k8s-type/modules/hostnames
 COPY --link infrastructure/cluster/k8s-type/modules/k8s-namespace ./infrastructure/cluster/k8s-type/modules/k8s-namespace
 COPY --link infrastructure/cluster/k8s-type/modules/manifest-composing ./infrastructure/cluster/k8s-type/modules/manifest-composing
 COPY --link infrastructure/container-image/dockerfile/built-image ./infrastructure/container-image/dockerfile/built-image
-COPY --link infrastructure/container-image/dockerfile/modules/builder ./infrastructure/container-image/dockerfile/modules/builder
-COPY --link infrastructure/container-image/dockerfile/modules/bun-service ./infrastructure/container-image/dockerfile/modules/bun-service
-COPY --link infrastructure/container-image/dockerfile/modules/extensions ./infrastructure/container-image/dockerfile/modules/extensions
-COPY --link infrastructure/container-image/dockerfile/modules/imports ./infrastructure/container-image/dockerfile/modules/imports
-COPY --link infrastructure/container-image/dockerfile/modules/nextjs ./infrastructure/container-image/dockerfile/modules/nextjs
 COPY --link infrastructure/container-image/dockerfile/modules/services ./infrastructure/container-image/dockerfile/modules/services
-COPY --link infrastructure/container-image/dockerfile/modules/tool-image ./infrastructure/container-image/dockerfile/modules/tool-image
-COPY --link infrastructure/container-image/dockerfile/modules/writing ./infrastructure/container-image/dockerfile/modules/writing
 COPY --link infrastructure/container-image/modules/image-build ./infrastructure/container-image/modules/image-build
 COPY --link infrastructure/container-image/modules/image-inputs ./infrastructure/container-image/modules/image-inputs
 COPY --link infrastructure/container-image/modules/image-ref ./infrastructure/container-image/modules/image-ref
-COPY --link infrastructure/job/modules/run-in-cluster ./infrastructure/job/modules/run-in-cluster
 COPY --link infrastructure/service/akasha-service ./infrastructure/service/akasha-service
 COPY --link page ./page
-COPY --link story/game ./story/game
-COPY --link text/modules/one-line ./text/modules/one-line
-COPY --link text/writing/modules/counted ./text/writing/modules/counted
 COPY --link text/writing/modules/name-drawing ./text/writing/modules/name-drawing
-COPY --link text/writing/modules/suggest-closest ./text/writing/modules/suggest-closest
 COPY --link infrastructure/network/auth-proxy ./infrastructure/network/auth-proxy
 
 FROM oven/bun:1.3.14-alpine
@@ -134,113 +62,41 @@ COPY --link --from=build /workspace/tsconfig.base.json ./tsconfig.base.json
 COPY --link --from=build /workspace/package.json ./package.json
 
 # Copy all package sources at correct paths
-COPY --link --from=build /workspace/agent/modules/read-record ./agent/modules/read-record
-COPY --link --from=build /workspace/agent/properties ./agent/properties
-COPY --link --from=build /workspace/alan/book ./alan/book
 COPY --link --from=build /workspace/alan/harness/handover-rr/modules/handover-arrival ./alan/harness/handover-rr/modules/handover-arrival
 COPY --link --from=build /workspace/alan/harness/handover-rr/modules/handover-code ./alan/harness/handover-rr/modules/handover-code
 COPY --link --from=build /workspace/alan/harness/handover-rr/modules/handover-session ./alan/harness/handover-rr/modules/handover-session
 COPY --link --from=build /workspace/alan/harness/handover-rr/modules/handover-site ./alan/harness/handover-rr/modules/handover-site
-COPY --link --from=build /workspace/alan/library/reading/book-section ./alan/library/reading/book-section
-COPY --link --from=build /workspace/change ./change
-COPY --link --from=build /workspace/check/code/pages/browser-code-reads-the-environment-by-a-name ./check/code/pages/browser-code-reads-the-environment-by-a-name
-COPY --link --from=build /workspace/check/code/pages/domain-is-named-by-a-parent ./check/code/pages/domain-is-named-by-a-parent
-COPY --link --from=build /workspace/check/code/pages/no-unused-exports ./check/code/pages/no-unused-exports
-COPY --link --from=build /workspace/check/modules/audit-commit ./check/modules/audit-commit
-COPY --link --from=build /workspace/check/modules/change-walking ./check/modules/change-walking
-COPY --link --from=build /workspace/check/modules/cost ./check/modules/cost
-COPY --link --from=build /workspace/check/modules/judging ./check/modules/judging
-COPY --link --from=build /workspace/check/modules/router-app-code ./check/modules/router-app-code
-COPY --link --from=build /workspace/code/body/modules/body-loading ./code/body/modules/body-loading
-COPY --link --from=build /workspace/code/body/modules/body-text ./code/body/modules/body-text
-COPY --link --from=build /workspace/code/body/modules/carried-file ./code/body/modules/carried-file
-COPY --link --from=build /workspace/code/body/modules/file-kind ./code/body/modules/file-kind
-COPY --link --from=build /workspace/code/body/modules/sha256-hex ./code/body/modules/sha256-hex
 COPY --link --from=build /workspace/code/component-property-group ./code/component-property-group
 COPY --link --from=build /workspace/code/module ./code/module
 COPY --link --from=build /workspace/code/module-property-group ./code/module-property-group
-COPY --link --from=build /workspace/code/modules/thread-pause ./code/modules/thread-pause
-COPY --link --from=build /workspace/code/path/modules/between ./code/path/modules/between
-COPY --link --from=build /workspace/code/path/modules/code-runtime-path ./code/path/modules/code-runtime-path
-COPY --link --from=build /workspace/code/path/modules/folder-spelling ./code/path/modules/folder-spelling
 COPY --link --from=build /workspace/code/path/modules/module-directory ./code/path/modules/module-directory
-COPY --link --from=build /workspace/code/path/modules/path-runs ./code/path/modules/path-runs
 COPY --link --from=build /workspace/code/process/modules/pid-signal ./code/process/modules/pid-signal
-COPY --link --from=build /workspace/code/reading/modules/ast-hash ./code/reading/modules/ast-hash
-COPY --link --from=build /workspace/code/reading/modules/code-binding ./code/reading/modules/code-binding
-COPY --link --from=build /workspace/code/reading/modules/code-importing ./code/reading/modules/code-importing
-COPY --link --from=build /workspace/code/reading/modules/code-naming ./code/reading/modules/code-naming
-COPY --link --from=build /workspace/code/reading/modules/code-rule ./code/reading/modules/code-rule
-COPY --link --from=build /workspace/code/reading/modules/code-source ./code/reading/modules/code-source
-COPY --link --from=build /workspace/code/reading/modules/code-specifier ./code/reading/modules/code-specifier
-COPY --link --from=build /workspace/code/reading/modules/code-typing ./code/reading/modules/code-typing
-COPY --link --from=build /workspace/code/reading/modules/typing-keeping ./code/reading/modules/typing-keeping
-COPY --link --from=build /workspace/code/reading/modules/value-inserting ./code/reading/modules/value-inserting
-COPY --link --from=build /workspace/code/running/modules/code-format ./code/running/modules/code-format
-COPY --link --from=build /workspace/code/running/modules/code-lint ./code/running/modules/code-lint
-COPY --link --from=build /workspace/code/running/modules/test-overlay ./code/running/modules/test-overlay
 COPY --link --from=build /workspace/code/spawning/modules/running ./code/spawning/modules/running
-COPY --link --from=build /workspace/code/type/narrowing/modules/as-boolean ./code/type/narrowing/modules/as-boolean
-COPY --link --from=build /workspace/code/type/narrowing/modules/assert-never ./code/type/narrowing/modules/assert-never
 COPY --link --from=build /workspace/code/type/narrowing/modules/base64-url ./code/type/narrowing/modules/base64-url
 COPY --link --from=build /workspace/code/type/narrowing/modules/collapse ./code/type/narrowing/modules/collapse
-COPY --link --from=build /workspace/code/type/narrowing/modules/first-capture ./code/type/narrowing/modules/first-capture
-COPY --link --from=build /workspace/code/type/narrowing/modules/is-object-record ./code/type/narrowing/modules/is-object-record
 COPY --link --from=build /workspace/code/type/narrowing/modules/narrow-error ./code/type/narrowing/modules/narrow-error
-COPY --link --from=build /workspace/code/type/narrowing/modules/parse-number ./code/type/narrowing/modules/parse-number
 COPY --link --from=build /workspace/code/type/narrowing/modules/parse-said-text ./code/type/narrowing/modules/parse-said-text
 COPY --link --from=build /workspace/code/type/narrowing/modules/require-env ./code/type/narrowing/modules/require-env
-COPY --link --from=build /workspace/code/type/narrowing/modules/said-by ./code/type/narrowing/modules/said-by
-COPY --link --from=build /workspace/code/type/narrowing/modules/sorted-once ./code/type/narrowing/modules/sorted-once
-COPY --link --from=build /workspace/code/type/narrowing/modules/string-in ./code/type/narrowing/modules/string-in
 COPY --link --from=build /workspace/code/type/narrowing/modules/text-in ./code/type/narrowing/modules/text-in
-COPY --link --from=build /workspace/code/workspace/modules/package-manifest ./code/workspace/modules/package-manifest
-COPY --link --from=build /workspace/command/modules/change-freshness ./command/modules/change-freshness
-COPY --link --from=build /workspace/command/modules/value-minting ./command/modules/value-minting
 COPY --link --from=build /workspace/command/pages/deploy/modules/tree-pinning ./command/pages/deploy/modules/tree-pinning
 COPY --link --from=build /workspace/domain ./domain
-COPY --link --from=build /workspace/file/disk/modules/atomic-write ./file/disk/modules/atomic-write
-COPY --link --from=build /workspace/file/disk/modules/file-size ./file/disk/modules/file-size
-COPY --link --from=build /workspace/file/disk/modules/missing ./file/disk/modules/missing
-COPY --link --from=build /workspace/file/disk/modules/scratching ./file/disk/modules/scratching
-COPY --link --from=build /workspace/file/disk/modules/text-on-disk ./file/disk/modules/text-on-disk
 COPY --link --from=build /workspace/file/disk/modules/text-there ./file/disk/modules/text-there
-COPY --link --from=build /workspace/file/modules/exclusive ./file/modules/exclusive
 COPY --link --from=build /workspace/file/modules/git-place ./file/modules/git-place
-COPY --link --from=build /workspace/file/modules/lock-holder ./file/modules/lock-holder
 COPY --link --from=build /workspace/git/modules/capping ./git/modules/capping
-COPY --link --from=build /workspace/git/modules/commit-reading ./git/modules/commit-reading
 COPY --link --from=build /workspace/git/modules/dir ./git/modules/dir
-COPY --link --from=build /workspace/git/modules/pathspec ./git/modules/pathspec
-COPY --link --from=build /workspace/git/modules/running ./git/modules/running
-COPY --link --from=build /workspace/graph/attribute ./graph/attribute
-COPY --link --from=build /workspace/graph/modules/asking ./graph/modules/asking
-COPY --link --from=build /workspace/graph/predicate ./graph/predicate
 COPY --link --from=build /workspace/infrastructure/cluster/k8s-type/manifest ./infrastructure/cluster/k8s-type/manifest
 COPY --link --from=build /workspace/infrastructure/cluster/k8s-type/modules/cdk8s-synth ./infrastructure/cluster/k8s-type/modules/cdk8s-synth
 COPY --link --from=build /workspace/infrastructure/cluster/k8s-type/modules/hostnames ./infrastructure/cluster/k8s-type/modules/hostnames
 COPY --link --from=build /workspace/infrastructure/cluster/k8s-type/modules/k8s-namespace ./infrastructure/cluster/k8s-type/modules/k8s-namespace
 COPY --link --from=build /workspace/infrastructure/cluster/k8s-type/modules/manifest-composing ./infrastructure/cluster/k8s-type/modules/manifest-composing
 COPY --link --from=build /workspace/infrastructure/container-image/dockerfile/built-image ./infrastructure/container-image/dockerfile/built-image
-COPY --link --from=build /workspace/infrastructure/container-image/dockerfile/modules/builder ./infrastructure/container-image/dockerfile/modules/builder
-COPY --link --from=build /workspace/infrastructure/container-image/dockerfile/modules/bun-service ./infrastructure/container-image/dockerfile/modules/bun-service
-COPY --link --from=build /workspace/infrastructure/container-image/dockerfile/modules/extensions ./infrastructure/container-image/dockerfile/modules/extensions
-COPY --link --from=build /workspace/infrastructure/container-image/dockerfile/modules/imports ./infrastructure/container-image/dockerfile/modules/imports
-COPY --link --from=build /workspace/infrastructure/container-image/dockerfile/modules/nextjs ./infrastructure/container-image/dockerfile/modules/nextjs
 COPY --link --from=build /workspace/infrastructure/container-image/dockerfile/modules/services ./infrastructure/container-image/dockerfile/modules/services
-COPY --link --from=build /workspace/infrastructure/container-image/dockerfile/modules/tool-image ./infrastructure/container-image/dockerfile/modules/tool-image
-COPY --link --from=build /workspace/infrastructure/container-image/dockerfile/modules/writing ./infrastructure/container-image/dockerfile/modules/writing
 COPY --link --from=build /workspace/infrastructure/container-image/modules/image-build ./infrastructure/container-image/modules/image-build
 COPY --link --from=build /workspace/infrastructure/container-image/modules/image-inputs ./infrastructure/container-image/modules/image-inputs
 COPY --link --from=build /workspace/infrastructure/container-image/modules/image-ref ./infrastructure/container-image/modules/image-ref
-COPY --link --from=build /workspace/infrastructure/job/modules/run-in-cluster ./infrastructure/job/modules/run-in-cluster
 COPY --link --from=build /workspace/infrastructure/service/akasha-service ./infrastructure/service/akasha-service
 COPY --link --from=build /workspace/page ./page
-COPY --link --from=build /workspace/story/game ./story/game
-COPY --link --from=build /workspace/text/modules/one-line ./text/modules/one-line
-COPY --link --from=build /workspace/text/writing/modules/counted ./text/writing/modules/counted
 COPY --link --from=build /workspace/text/writing/modules/name-drawing ./text/writing/modules/name-drawing
-COPY --link --from=build /workspace/text/writing/modules/suggest-closest ./text/writing/modules/suggest-closest
 COPY --link --from=build /workspace/infrastructure/network/auth-proxy ./infrastructure/network/auth-proxy
 
 WORKDIR /workspace

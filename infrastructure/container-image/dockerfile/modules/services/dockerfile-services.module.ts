@@ -4,13 +4,7 @@ export const dockerfileServices = {
   id: "01a06865-abff-7001-8a02-c6bde79c5252",
   type: "page-type/module",
   slug: "dockerfile-services",
-  definition: "which services get a Dockerfile, where each one lives and what type it builds as",
+  definition: "the checkout a Dockerfile is built from and the line every Dockerfile opens with",
   code: "ts",
   test: "ts",
-  decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An image's extensions file is named from the root rather than from its folder.",
-    },
-  ],
 } as const satisfies Module

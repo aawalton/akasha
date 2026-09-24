@@ -12,8 +12,14 @@ test("a built image is handed the repository root", () => {
   expect(namedOf(PROXY).context).toBe("")
 })
 
-test("a built image's recipe is written rather than read", () => {
-  expect(namedOf(PROXY).recipe).toBeNull()
+test("a built image's recipe is the Dockerfile beside its page", () => {
+  expect(namedOf(PROXY).recipe).toBe(
+    "infrastructure/container-image/dockerfile/built-image/auth-proxy/Dockerfile"
+  )
+})
+
+test("a built image's own Dockerfile is what that image is built from", () => {
+  expect(buildOf(PROXY).dockerfile).toContain("EXPOSE 3080")
 })
 
 test("a container recipe is handed the package above the folder its page sits in", () => {
