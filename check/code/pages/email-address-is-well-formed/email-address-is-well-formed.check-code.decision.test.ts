@@ -132,11 +132,6 @@ test("a page naming no page type of its own is passed over", () => {
   expect(reasonsIn(AT, { emailAddress: `Ada${DOMAIN}` }, keying)).toEqual([])
 })
 
-test("a page stating the older page type key is judged too", () => {
-  const said = reasonsIn(AT, { pageTypeSlug: HELD, emailAddress: `Ada${DOMAIN}` }, keying)
-  expect(said).toHaveLength(1)
-})
-
 test("a value stated as a list is judged address by address", () => {
   const stated = [`ada${DOMAIN}`, `Ada${DOMAIN}`, "ada.example.com"]
   expect(reasonsIn(AT, { type: HELD, emailAddress: stated }, keying)).toHaveLength(2)

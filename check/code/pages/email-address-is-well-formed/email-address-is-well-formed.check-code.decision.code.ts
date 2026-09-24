@@ -10,8 +10,6 @@ export const ADDRESS = "email-address-property"
 
 const KIND = "type"
 
-const WAS_KIND = "pageTypeSlug"
-
 const AT = "@"
 
 const LONGEST = 254
@@ -69,7 +67,7 @@ export function keyingIn(under: ReadonlySet<string>, paged: Paged): Keying {
 }
 
 export function reasonsIn(path: string, value: Value, keying: Keying): readonly Judged[] {
-  const kind = slugAt(value, KIND) ?? slugAt(value, WAS_KIND)
+  const kind = slugAt(value, KIND)
   if (kind === null) return []
   const said: Judged[] = []
   for (const one of keying(kind)) {
