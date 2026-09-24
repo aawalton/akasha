@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { noneOfTypeFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { addonManifestPathIn } from "akasha/temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 
 const SCRATCH = scratchWorld()
@@ -34,7 +35,7 @@ function folderHolding(slugs: readonly string[], names: readonly string[] = []):
     TEMPER_ADDON,
     slugs.map((slug, at) => ({
       path: `${UNDER}/${slug}.${TEMPER_ADDON}.ts`,
-      value: { id: idOf(at), pageTypeSlug: TEMPER_ADDON, slug, addonManifest: "json" },
+      value: { id: idOf(at), type: `${pageType.slug}/${TEMPER_ADDON}`, slug, addonManifest: "json" },
     }))
   )
   return { root, dir }

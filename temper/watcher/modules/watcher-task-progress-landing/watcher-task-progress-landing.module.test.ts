@@ -27,7 +27,7 @@ const PAGE = `import type { TemperTask } from "../../temper-task.page-type.types
 
 export const craftingWrits = {
   id: "019db533-f381-761a-affb-ba493b613e2e",
-  pageTypeSlug: "temper-task",
+  type: "page-type/temper-task",
   slug: "crafting-writs",
   progressTotal: 1,
   progressCurrent: 0,

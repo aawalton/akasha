@@ -1,6 +1,7 @@
 import { describe, expect, mock, test } from "bun:test"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const HANDED: unknown[] = []
 
@@ -21,7 +22,7 @@ const serving = await import(
 )
 
 function requestPage(id: string, boosts: unknown): Page {
-  return asPage({ id, slug: id, pageTypeSlug: "feature-request", boosts })
+  return asPage({ id, slug: id, type: `${pageType.slug}/feature-request`, boosts })
 }
 
 function boostedWith(...points: readonly number[]): unknown {

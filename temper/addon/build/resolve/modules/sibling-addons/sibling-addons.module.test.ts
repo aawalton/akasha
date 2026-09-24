@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { noneOfTypeFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import {
   assertSafeSiblingName,
   readSiblingAddonNames,
@@ -40,7 +41,7 @@ function addonDir(slug: string | null): Held {
             path: `${UNDER}/${slug}.${TEMPER_ADDON}.ts`,
             value: {
               id: "01a06060-0000-7000-8000-000000000001",
-              pageTypeSlug: TEMPER_ADDON,
+              type: `${pageType.slug}/${TEMPER_ADDON}`,
               slug,
               siblingManifest: "json",
             },

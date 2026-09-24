@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { GameStateSchema } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
 import { gameAttribute } from "akasha/story/game/attribute/game-attribute.page-type.ts"
 import { luck } from "akasha/story/game/attribute/pages/luck.game-attribute.ts"
@@ -19,7 +20,7 @@ const PLAYER = asPage({
   icon: null,
   slug: "the-tower-alan",
   pageTypeId: "",
-  pageTypeSlug: "game-entity",
+  type: `${pageType.slug}/game-entity`,
   uniqueKey: null,
   kind: "player",
   level: 7,
@@ -40,7 +41,7 @@ const TURN = asPage({
   icon: null,
   slug: "the-tower-088",
   pageTypeId: "",
-  pageTypeSlug: "game-turn",
+  type: `${pageType.slug}/game-turn`,
   uniqueKey: null,
   number: 88,
   pools: [
@@ -57,7 +58,7 @@ const QUEST = asPage({
   icon: null,
   slug: "harem-hotel-kiss",
   pageTypeId: "",
-  pageTypeSlug: "game-quest",
+  type: `${pageType.slug}/game-quest`,
   uniqueKey: null,
   objective: "kiss her",
   reward: "WILL +1",
