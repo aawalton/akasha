@@ -54,8 +54,6 @@ const CLASS = "ci"
 
 export const FASTEST = "node-06"
 
-const MOST = 100
-
 const JOB_SECRET = "workers-secrets"
 
 const GIT_TOKEN = "GIT_ACCESS_TOKEN"
@@ -172,14 +170,13 @@ function jobFor(name: string, script: string, keptAt: string | null): ApiObjectM
           nodeSelector: workloadClassMemberSelector(CLASS),
           affinity: {
             nodeAffinity: {
-              preferredDuringSchedulingIgnoredDuringExecution: [
-                {
-                  weight: MOST,
-                  preference: {
+              requiredDuringSchedulingIgnoredDuringExecution: {
+                nodeSelectorTerms: [
+                  {
                     matchExpressions: [{ key: HOSTNAME_KEY, operator: "In", values: [FASTEST] }],
                   },
-                },
-              ],
+                ],
+              },
             },
           },
           restartPolicy: "Never",

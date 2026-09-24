@@ -161,11 +161,11 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A job runs on the fastest node of that class where that node will have it.",
+      statement: "A job runs on the fastest node of that class and on no other.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A job the fastest node will not have runs on another node of that class.",
+      statement: "A job the fastest node will not have yet waits for that node.",
     },
     {
       decisionKind: "decision-kind/departure",
