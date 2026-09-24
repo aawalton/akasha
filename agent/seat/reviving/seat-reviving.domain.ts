@@ -4,7 +4,7 @@ export const seatReviving = {
   id: "01a09c38-82db-7a28-8f18-09c4621a8dce",
   type: "page-type/domain",
   slug: "seat-reviving",
-  definition: "a seat put back to work after that seat stopped",
+  definition: "a seat started after a stop",
   parts: [
     "module/resume-seat",
     "module/resume-verify",
