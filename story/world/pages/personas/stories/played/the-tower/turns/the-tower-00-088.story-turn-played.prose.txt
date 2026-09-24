@@ -2,7 +2,17 @@ Coming up off the stone is as ugly as going down on it was — one hand flat to 
 
 The seat is kindling. The high chair the Host wore his welcome in is so much splinter now, and what spilled from it lies in the muck where the gold let go. You crouch and lift the first thing free: a lens the size of your palm, clear glass gone the grey-white of a blind eye — clouded, the way the lenses you cut from the stalker's eyes were clouded — and colder than the wet rock under it, still working somehow to stay that way. You reach at it with your ember-sense to take its measure; your sense slides off and comes back told nothing. You wrap it and stow it anyway.
 
+:::item-award
+name: Clouded lens
+note: Recovered from: the Host's seat
+:::
+
 The second is the folded light: the mantle the haven's welcomes were cut from, slack and grey now and shed in one piece. It weighs nothing. It spills through your fingers as you gather it, and where the lantern grazes it a little of the old warmth wakes and guts out, like breath blown on a coal with no coal left under it. You fold it down small and pocket it. A smith keeps the stock even when the blade it makes is years off.
+
+:::item-award
+name: Woven-light mantle
+note: Recovered from: the Host's seat
+:::
 
 The grey thing you leave where it fell. It has gone to husk — cooling weight the forge has no use for. Nothing else in the wreck holds your eye.
 
