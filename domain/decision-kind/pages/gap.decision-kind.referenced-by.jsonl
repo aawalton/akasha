@@ -172,7 +172,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.ts","id":"01a05b27-a75c-7fab-a630-6d98b13144e1"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/headscale/headscale.service-cluster.ts","id":"01a06812-2380-7204-bb6c-c05c012bbf72"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-stating/dev-server-stating.module.ts","id":"01a06583-0030-7004-8711-a9cd6a8dbe3b"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
 {"propertySlug":"decision-kind","path":"page/access/modules/capture-error/capture-error.module.ts","id":"01a05bd6-c529-7e1b-b455-c42e0f069da5"}
 {"propertySlug":"decision-kind","path":"page/access/modules/file-shape/file-shape.module.ts","id":"01a05bd6-c531-7062-bc98-1b9ed3fd2560"}

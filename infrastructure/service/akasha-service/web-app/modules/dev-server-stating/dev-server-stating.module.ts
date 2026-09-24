@@ -52,11 +52,7 @@ export const devServerStating = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here starts a dev server.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A refusal naming the app flag is enriched from the index, so a bad flag reads as a missing index.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "No dev server starts where the hundred ports from the base port are all taken.",
