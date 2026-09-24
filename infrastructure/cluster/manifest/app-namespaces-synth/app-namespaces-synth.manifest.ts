@@ -31,10 +31,5 @@ export const appNamespacesSynth = {
       decisionKind: "decision-kind/absence",
       statement: "No workload reads the `collections-secrets` Secret.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A page placing a value into `collections-secrets` places it where nothing reads it.",
-    },
   ],
 } as const satisfies Manifest
