@@ -23,21 +23,38 @@ function textAt(held: Record<string, unknown>, key: string, at: string): string 
   return said
 }
 
-export function carriedIn(text: string, at: string): Carried {
-  let held: unknown
-  try {
-    held = JSON.parse(text)
-  } catch (thrown) {
-    throw new Error(`${at} is no json, so nothing is carried in it — ${String(thrown)}`)
-  }
+type CarriedSaid = {
+  readonly name: string
+  readonly digest: string
+  readonly body: string
+  readonly length: unknown
+}
+
+function parseCarriedSaid(held: unknown, at: string): CarriedSaid {
   if (held === null || typeof held !== "object" || Array.isArray(held)) {
     throw new Error(`${at} carries no json object`)
   }
   const said = held as Record<string, unknown>
-  const name = textAt(said, NAME, at)
-  const digest = textAt(said, DIGEST, at)
-  const bytes = new Uint8Array(Buffer.from(textAt(said, BODY, at), "base64"))
-  const length = said[LENGTH]
+  return {
+    name: textAt(said, NAME, at),
+    digest: textAt(said, DIGEST, at),
+    body: textAt(said, BODY, at),
+    length: said[LENGTH],
+  }
+}
+
+function carriedSaidIn(text: string, at: string): CarriedSaid {
+  try {
+    return parseCarriedSaid(JSON.parse(text), at)
+  } catch (thrown) {
+    if (!(thrown instanceof SyntaxError)) throw thrown
+    throw new Error(`${at} is no json, so nothing is carried in it — ${String(thrown)}`)
+  }
+}
+
+export function carriedIn(text: string, at: string): Carried {
+  const { name, digest, body, length } = carriedSaidIn(text, at)
+  const bytes = new Uint8Array(Buffer.from(body, "base64"))
   if (length !== bytes.byteLength) {
     throw new Error(`${at} says ${String(length)} bytes and carries ${bytes.byteLength}`)
   }

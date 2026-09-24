@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/web/routes/alan-web-api-stripe-webhook/alan-web-api-stripe-webhook.route.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/web/routes/readout-relay/readout-relay.route.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/process/modules/proc-reading/proc-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.test.ts"}

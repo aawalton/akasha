@@ -21,6 +21,7 @@ import {
   CHROMIUM_LAUNCH_ENV,
 } from "akasha/code/browser/test-harness/modules/harness-launch/harness-launch.module.code.ts"
 import { base64Url } from "akasha/code/type/narrowing/modules/base64-url/base64-url.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { rootIn } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
@@ -88,7 +89,7 @@ async function codeMinted(root: string, asked: Minting): Promise<string> {
       `${SIGNING_KEY_PAGE} holds no \`${VALUE_KEY}\`, so no handover code can be signed`
     )
   }
-  const before = process.env[SIGNING_KEY_ENV]
+  const before = optionalEnv(SIGNING_KEY_ENV)
   process.env[SIGNING_KEY_ENV] = key
   try {
     return await handoverCodeFor(asked)
