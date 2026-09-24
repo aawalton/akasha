@@ -20,6 +20,7 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"readout-group","unique":null,"uniquePropertySlug":null,"slug":"groups","propertySlug":"groups","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"location","unique":null,"uniquePropertySlug":null,"slug":"locations","propertySlug":"locations","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"lua-module","unique":null,"uniquePropertySlug":null,"slug":"lua-modules","propertySlug":"lua-modules","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"meal-pictures","propertySlug":"meals","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"members","propertySlug":"members","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"model-test","unique":null,"uniquePropertySlug":null,"slug":"model-tests","propertySlug":"model-tests","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"collection","unique":null,"uniquePropertySlug":null,"slug":"part-of-collections","propertySlug":"part-of-collections","fileName":null,"folderName":null}

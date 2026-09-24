@@ -207,7 +207,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/location-traces/properties/device-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/location-traces/properties/trace-activity-type.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/location-traces/properties/trace-source.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/meals.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/recurrence.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/safety-level.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/sessions/properties/difficulty-level.text-property.ts"}

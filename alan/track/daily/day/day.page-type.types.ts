@@ -33,7 +33,7 @@ import type { LoveLevel } from "akasha/alan/track/daily/day/properties/love-leve
 import type { LovePoints } from "akasha/alan/track/daily/day/properties/love-points.number-property.types.ts"
 import type { LoveStoplight } from "akasha/alan/track/daily/day/properties/love-stoplight.computed-property.types.ts"
 import type { LowestEmailInboxCount } from "akasha/alan/track/daily/day/properties/lowest-email-inbox-count.number-property.types.ts"
-import type { Meals } from "akasha/alan/track/daily/day/properties/meals.text-property.types.ts"
+import type { MealPictures } from "akasha/alan/track/daily/day/properties/meal-pictures.multi-relation-property.types.ts"
 import type { NutritionPoints } from "akasha/alan/track/daily/day/properties/nutrition-points.number-property.types.ts"
 import type { PersonaMessages } from "akasha/alan/track/daily/day/properties/persona-messages.record-property.types.ts"
 import type { ProjectHours } from "akasha/alan/track/daily/day/properties/project-hours.computed-property.types.ts"
@@ -66,7 +66,7 @@ export type Day = Page & {
   version?: Version
   lastViewedAt?: LastViewedAt
   safetyLevel?: SafetyLevel
-  meals?: Meals
+  meals?: MealPictures
   healthPoints?: HealthPoints
   taskPoints?: TaskPoints
   wealthPoints?: WealthPoints

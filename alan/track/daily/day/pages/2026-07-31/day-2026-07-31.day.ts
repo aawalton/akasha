@@ -7,7 +7,6 @@ export const day20260731 = {
   title: "@date:2026-07-31",
   date: "2026-07-31",
   version: "3.0",
-  meals: ["019fb8e7-0d84-7d27-a0b2-c09898c408b5"],
   healthPoints: 3.7292,
   taskPoints: 25,
   wealthPoints: 0,
