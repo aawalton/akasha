@@ -38,7 +38,7 @@ const following = createChangeFollowing({
 })
 
 function followedOnce(pageTypeSlug: string): undefined {
-  if (followed.has(pageTypeSlug)) return undefined
+  if (typeof document !== "undefined" || followed.has(pageTypeSlug)) return undefined
   followed.add(pageTypeSlug)
   following.start()
   return following.follow(`${KEYED}${pageTypeSlug}`, {

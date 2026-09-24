@@ -35,6 +35,14 @@ export const filePropertyDefs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Only a server follows the page types whose shapes it holds.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "A browser drops a shape it holds when a change to that page type is pushed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A shape refused is asked for again.",
     },
     {
