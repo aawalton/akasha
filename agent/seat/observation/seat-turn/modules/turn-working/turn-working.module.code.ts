@@ -201,7 +201,7 @@ export function scanRecords(text: string, was: TurnWorking): TurnScan {
   return { answer, openShells: [...shells] }
 }
 
-export function bytesOf(path: string, from: number, upTo: number): Buffer | null {
+function bytesOf(path: string, from: number, upTo: number): Buffer | null {
   const length = upTo - from
   if (length <= 0) return Buffer.alloc(0)
   let held: number | null = null

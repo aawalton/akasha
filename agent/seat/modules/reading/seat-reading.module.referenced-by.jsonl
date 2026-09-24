@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/modules/beside/seat-beside.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/observation/modules/conversation-keeping/conversation-keeping.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.test.ts"}

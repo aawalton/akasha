@@ -163,13 +163,12 @@
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.ts","id":"01a0a5b3-3d06-776e-aea8-407ef8b05e0a"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/seat-spawn-name-decide/seat-spawn-name-decide.module.ts","id":"01a0686d-9d5e-7011-9662-a35bf698b8f6"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/seat-stated-name-refusal/seat-stated-name-refusal.module.ts","id":"01a0686d-9d5e-7012-94c3-843ea0bdf815"}
-{"propertySlug":"decision-kind","path":"agent/seat/observation/modules/conversation-keeping/conversation-keeping.module.ts","id":"01a0d432-be0b-7446-ad3d-cccc0bb9ae68"}
-{"propertySlug":"decision-kind","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.module.ts","id":"01a0d430-41e2-7f5f-8d4b-4cbbcd9ae52c"}
+{"propertySlug":"decision-kind","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.computed-property-module.ts","id":"01a0d430-41e2-7f5f-8d4b-4cbbcd9ae52c"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.ts","id":"01a06964-d998-7c3e-8f55-91ff918f96ac"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.ts","id":"01a0687b-3c85-7000-b60f-9d7b8c037697"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.ts","id":"01a0691b-4f65-762a-b97c-48d97a317e76"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.ts","id":"01a0686a-7a57-7e87-825d-ae7e67bf9301"}
-{"propertySlug":"decision-kind","path":"agent/seat/properties/conversation.file-property.ts","id":"01a0d431-f57d-78ea-9552-bed3c2712e6a"}
+{"propertySlug":"decision-kind","path":"agent/seat/properties/conversation.computed-property.ts","id":"01a0d44c-37ba-7558-91d4-4633e3c24b5f"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/subagent-edits.file-property.ts","id":"01a08d62-417b-781b-9088-442ac476d7ae"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/subagent-reads.file-property.ts","id":"01a09cff-814a-7077-9e1f-fcf98a8e0100"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/subagent-refusals.file-property.ts","id":"01a08d62-5be7-74d0-8fa3-63a8fc24f035"}

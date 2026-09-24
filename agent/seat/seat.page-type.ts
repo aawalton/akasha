@@ -28,7 +28,6 @@ export const seat = {
 
     "domain/seat-observation",
     "domain/seat-reviving",
-    "file-property/conversation",
     "domain/seat-supervisor",
     "domain/supervisor-restart",
     "file-property/subagent-edits",
@@ -68,7 +67,6 @@ export const seat = {
     "relation-property/requested-action",
     "relation-property/role",
     "relation-property/seat-persona",
-    "service-workstation/keep-seat-conversations",
     "service-workstation/maintain-seat-pending",
     "service-workstation/recipient-resolver",
     "service-workstation/sweep-absent-seats",
@@ -86,6 +84,12 @@ export const seat = {
     "text-property/transcript-path",
     "module/tmux-session",
     "computed-property/working-color",
+    "computed-property/conversation",
+    "instant-property/conversation-at",
+    "number-property/conversation-images",
+    "select-property/conversation-entry-kind",
+    "text-property/conversation-line",
+    "text-property/conversation-text",
   ],
   properties: [
     {
@@ -177,13 +181,7 @@ export const seat = {
       default: "txt",
     },
     { pageProperty: "computed-property/working-color", required: false, many: false },
-    {
-      pageProperty: "file-property/conversation",
-      required: false,
-      many: false,
-      uncommitted: true,
-      default: "jsonl",
-    },
+    { pageProperty: "computed-property/conversation", required: false, many: false },
   ],
   titleColoredBy: "computed-property/working-color",
   loadedBy: "module/agent-stated",

@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"agent/hook/agent-hook/properties/runs-at.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"agent/message/properties/agent-message-warrant.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"agent/model/test/properties/case-answer.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"agent/seat/properties/conversation-entry-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-status.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/battery-chemistry.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/charging-port.select-property.ts"}

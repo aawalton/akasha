@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"agent/model/account/properties/terminal-alerted-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"agent/model/account/properties/terminal-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"agent/model/account/properties/usage-read-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"agent/seat/properties/conversation-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"agent/seat/properties/restart-armed-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/book/pages/learn-everything/topic/properties/capture-through-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/chess/game/properties/played-at.instant-property.ts"}

@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/seat/conditions/properties/subagent-spawn-depth.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/seat/conditions/properties/tool-timeout.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/seat/properties/context-tokens.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/seat/properties/conversation-images.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/seat/properties/gateway-port.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/seat/properties/scanned-to.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/subagent/properties/subagent-started.number-property.ts"}

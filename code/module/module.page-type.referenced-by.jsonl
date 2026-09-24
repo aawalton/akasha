@@ -265,8 +265,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/seat-stated-name-refusal/seat-stated-name-refusal.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/spawn-guard/spawn-guard.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/stands/seat-name-stands.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/modules/conversation-keeping/conversation-keeping.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.ts"}

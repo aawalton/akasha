@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"agent/hook/agent-hook/properties/over-tools.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"agent/hook/agent-hook/properties/runs-at.select-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"agent/model/account/properties/scopes.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"agent/seat/properties/conversation.computed-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"agent/seat/properties/open-shells.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/book/pages/all-about-alan/topic/properties/topic-parents.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/book/pages/all-about-alan/topic/properties/topic-related.multi-relation-property.types.ts"}
