@@ -107,6 +107,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/properties/loaded-by.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/properties/owner.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/properties/page-property.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/properties/title-colored-by.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/view/properties/nav.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/view/properties/view-page-type.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/access/properties/person-access-kind.relation-property.ts"}

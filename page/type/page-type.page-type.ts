@@ -72,6 +72,7 @@ export const pageType = {
     "true-property/many-valued",
     "text-property/loaded-export",
     "boolean-property/list-repeats",
+    "relation-property/title-colored-by",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -118,6 +119,7 @@ export const pageType = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "relation-property/title-colored-by", required: false, many: false },
   ],
   typeGenerator: "ts",
   decisions: [
@@ -214,6 +216,19 @@ export const pageType = {
       decisionKind: "decision-kind/departure",
       statement:
         "A screen finds a page type's component by walking the types that page type extends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type says here the property whose color draws its pages' titles.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page whose property names no color has its title drawn as a page of a type naming none.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No page type draws a colored title with code of its own.",
     },
   ],
   types: "ts",

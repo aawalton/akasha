@@ -193,6 +193,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-lore-entry","unique":null,"uniquePropertySlug":null,"slug":"superseded-lore","propertySlug":"supersedes","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"shell-script","unique":null,"uniquePropertySlug":null,"slug":"sync-script","propertySlug":"sync-script","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"target-page-type","propertySlug":"target-page-type","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"title-colored-by","propertySlug":"title-colored-by","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"to-do-value","propertySlug":"to-do-value","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"mastery-level","unique":null,"uniquePropertySlug":null,"slug":"topic-mastery-level","propertySlug":"mastery-level","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"character","unique":null,"uniquePropertySlug":null,"slug":"trait-character","propertySlug":"character","fileName":null,"folderName":null}
