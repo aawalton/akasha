@@ -62,6 +62,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"check/code/properties/runs-on-change.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"check/code/properties/runs-on-deploy.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"code/module/properties/answers-a-checkout-root.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"code/module/properties/runs-in-a-browser.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"code/shell-script/properties/sourced.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"command/properties/repeats.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"domain/context/warrant/properties/runs-on-read.boolean-property.ts","typed":true,"deferred":false}

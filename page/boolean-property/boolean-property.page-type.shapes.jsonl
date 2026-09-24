@@ -113,6 +113,7 @@
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"rule-locked","propertySlug":"locked","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"runs-checks","propertySlug":"runs-checks","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"runs-file-length","propertySlug":"runs-file-length","fileName":null,"folderName":null}
+{"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"runs-in-a-browser","propertySlug":"runs-in-a-browser","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"runs-offline","propertySlug":"runs-offline","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"runs-on-audit","propertySlug":"runs-on-audit","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"runs-on-change","propertySlug":"runs-on-change","fileName":null,"folderName":null}

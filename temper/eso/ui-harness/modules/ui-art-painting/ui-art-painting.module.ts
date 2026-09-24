@@ -6,6 +6,7 @@ export const uiArtPainting = {
   slug: "ui-art-painting",
   definition: "the game's art painted onto the canvases a picture's page holds",
   code: "ts",
+  runsInABrowser: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",

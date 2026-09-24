@@ -18,6 +18,7 @@ export const module = {
     "module/name-series",
     "text-property/page-body-readers",
     "text-property/reached-by-path",
+    "boolean-property/runs-in-a-browser",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -33,6 +34,7 @@ export const module = {
       maxCount: null,
     },
     { pageProperty: "text-property/reached-by-path", required: false, many: true, maxCount: null },
+    { pageProperty: "boolean-property/runs-in-a-browser", required: false, many: false },
   ],
   decisions: [
     {
