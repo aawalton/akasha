@@ -13,7 +13,7 @@ export const temperAccountCharacter = {
   ],
   properties: [
     { pageProperty: "text-property/eso-character-id", required: true, many: false },
-    { pageProperty: "text-property/account-page", required: true, many: false },
+    { pageProperty: "relation-property/account-page", required: true, many: false },
     { pageProperty: "text-property/first-name", required: false, many: false },
     { pageProperty: "text-property/live-build-id", required: false, many: false },
     {

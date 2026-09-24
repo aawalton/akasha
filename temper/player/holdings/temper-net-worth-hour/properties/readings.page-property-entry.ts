@@ -7,7 +7,7 @@ export const readings = {
   propertySlug: "readings",
   definition: "what an account was worth, one reading to a line",
   properties: [
-    { pageProperty: "text-property/account-page", required: true, many: false },
+    { pageProperty: "relation-property/account-page", required: true, many: false },
     { pageProperty: "instant-property/captured-at", required: true, many: false },
     { pageProperty: "number-property/total-value", required: true, many: false },
     { pageProperty: "number-property/gold-amount", required: false, many: false },

@@ -9,7 +9,7 @@ export const ruleB2aa4438 = {
     "Moves blue (Superior) and higher non-stolen potions to the Potions and Poisons housing storage container, keeping bulky quality potions out of the backpack. Sits above the crafted-consumables protection so crafted quality potions are relocated rather than left loose.",
   conditions: "jsonl",
   destination: "house-storage:4674",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/potions",
   displayOrder: 21,
   action: "temper-item-action/move-to",

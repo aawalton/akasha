@@ -9,7 +9,7 @@ export const ruleTreasureMapsBank = {
     "Stashes treasure maps in the bank for later use. Treasure maps lead to chests with set gear.",
   goal: "temper-rule-goal/task",
   destination: "bank",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/treasure-maps",
   displayOrder: 51,
   action: "temper-item-action/move-to",

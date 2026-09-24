@@ -1431,7 +1431,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/node-id.text-property.ts","id":"01a05fc6-81fc-7831-9ded-1ba2e1d47ca1"}
-{"propertySlug":"decision-kind","path":"temper/thing/properties/account-page.text-property.ts","id":"01a05fba-ce37-7ab7-ac79-b568699606b3"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.ts","id":"01a06381-35cf-79d7-a1eb-ab708052aacb"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.ts","id":"01a06381-35cf-7af7-aa60-01ed66da5e3b"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.ts","id":"01a06381-35cf-7a07-8865-e71df4fc233b"}

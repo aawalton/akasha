@@ -9,7 +9,7 @@ export const ruleB5b7365e = {
     "Moves blue (Superior) and higher non-stolen food to the Food and Drink housing storage container, keeping bulky quality food out of the backpack. Sits above the crafted-consumables protection so crafted quality food is relocated rather than left loose.",
   conditions: "jsonl",
   destination: "house-storage:4675",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/food",
   displayOrder: 15,
   action: "temper-item-action/move-to",

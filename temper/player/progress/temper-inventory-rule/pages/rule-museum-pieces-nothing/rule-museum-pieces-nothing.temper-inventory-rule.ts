@@ -8,7 +8,7 @@ export const ruleMuseumPiecesNothing = {
   description:
     "Prevents museum pieces from being affected by lower-priority rules. These are turn-in items for collections or achievements.",
   goal: "temper-rule-goal/task",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/museum-pieces",
   displayOrder: 53,
   action: "temper-item-action/nothing",

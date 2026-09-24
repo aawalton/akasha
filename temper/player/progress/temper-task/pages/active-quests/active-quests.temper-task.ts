@@ -7,7 +7,7 @@ export const activeQuests = {
   title: "Active Quests",
   icon: "file-text",
   completionCard: "temper-completion-category/tasks-active-quests",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   scope: "all_characters",
   priority: "p3",
 } as const satisfies TemperTask

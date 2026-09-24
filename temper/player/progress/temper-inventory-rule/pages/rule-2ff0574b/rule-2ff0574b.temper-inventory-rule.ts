@@ -5,7 +5,7 @@ export const rule2ff0574b = {
   type: "page-type/temper-inventory-rule",
   slug: "rule-2ff0574b",
   destination: "character:8796093022338107",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/treasure-maps",
   displayOrder: 50,
   action: "temper-item-action/move-to",

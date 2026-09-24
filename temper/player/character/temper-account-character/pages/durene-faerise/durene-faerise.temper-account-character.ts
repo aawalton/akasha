@@ -8,6 +8,6 @@ export const dureneFaerise = {
   displayOrder: 10,
   completion: "json",
   esoCharacterId: "8796093025086465",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   firstName: "Durene",
 } as const satisfies TemperAccountCharacter

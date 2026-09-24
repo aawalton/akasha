@@ -9,7 +9,7 @@ export const rule778017a4 = {
     "Vendor-sells furnishings with guild-store value < 5000g (excluding legendary). Raised from 1000 to match the uniform 5000g line; furnishings >= 5000g still route to furniture-vault via furnishings-house-storage.",
   goal: "temper-rule-goal/sell",
   conditions: "jsonl",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/furnishings",
   displayOrder: 37,
   action: "temper-item-action/sell",

@@ -8,6 +8,6 @@ export const kheltaTheEternal = {
   displayOrder: 17,
   completion: "json",
   esoCharacterId: "8796093063486855",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   firstName: "Khelta",
 } as const satisfies TemperAccountCharacter

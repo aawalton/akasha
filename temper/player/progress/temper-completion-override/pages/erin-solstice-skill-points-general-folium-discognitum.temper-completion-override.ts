@@ -5,7 +5,7 @@ export const erinSolsticeSkillPointsGeneralFoliumDiscognitum = {
   type: "page-type/temper-completion-override",
   slug: "erin-solstice-skill-points-general-folium-discognitum",
   title: "Skill Points general/foliumDiscognitum for Erin Solstice",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   character: "temper-account-character/erin-solstice",
   completionCard: "temper-completion-category/characters-skill-points",
   completionItemPath: ["general", "foliumDiscognitum"],

@@ -6,7 +6,7 @@ import type { Action } from "akasha/temper/player/progress/temper-rule/propertie
 import type { Active } from "akasha/temper/player/progress/temper-rule/properties/active.boolean-property.types.ts"
 import type { ItemCategory } from "akasha/temper/player/progress/temper-rule/properties/item-category.relation-property.types.ts"
 import type { TemperRule } from "akasha/temper/player/progress/temper-rule/temper-rule.page-type.types.ts"
-import type { AccountPage } from "akasha/temper/thing/properties/account-page.text-property.types.ts"
+import type { AccountPage } from "akasha/temper/thing/properties/account-page.relation-property.types.ts"
 import type { DisplayOrder } from "akasha/temper/thing/properties/display-order.number-property.types.ts"
 
 export type TemperInventoryRule = TemperRule & {

@@ -5,7 +5,7 @@ export const theDeathOfChainsSkillPointsGeneralFoliumDiscognitum = {
   type: "page-type/temper-completion-override",
   slug: "the-death-of-chains-skill-points-general-folium-discognitum",
   title: "Skill Points general/foliumDiscognitum for The Death of Chains",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   character: "temper-account-character/the-death-of-chains",
   completionCard: "temper-completion-category/characters-skill-points",
   completionItemPath: ["general", "foliumDiscognitum"],

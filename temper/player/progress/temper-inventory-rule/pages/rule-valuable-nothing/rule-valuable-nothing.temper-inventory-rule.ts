@@ -10,7 +10,7 @@ export const ruleValuableNothing = {
   goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
   destination: "character:8796093022338107",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/all",
   displayOrder: 41,
   action: "temper-item-action/list",

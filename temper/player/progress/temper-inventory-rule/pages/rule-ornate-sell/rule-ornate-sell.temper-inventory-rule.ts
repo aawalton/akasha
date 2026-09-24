@@ -9,7 +9,7 @@ export const ruleOrnateSell = {
     "Sells equipment with the Ornate trait. Ornate items sell for more gold at merchants and have no crafting use.",
   goal: "temper-rule-goal/sell",
   conditions: "jsonl",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/equipment",
   displayOrder: 43,
   action: "temper-item-action/sell",

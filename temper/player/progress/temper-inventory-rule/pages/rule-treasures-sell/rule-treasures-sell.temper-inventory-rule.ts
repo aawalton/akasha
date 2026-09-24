@@ -9,7 +9,7 @@ export const ruleTreasuresSell = {
     "Sells treasures up to superior (blue) quality at a merchant. Higher-quality treasures are preserved for banking or guild store listing.",
   goal: "temper-rule-goal/sell",
   conditions: "jsonl",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/treasures",
   displayOrder: 71,
   action: "temper-item-action/sell",

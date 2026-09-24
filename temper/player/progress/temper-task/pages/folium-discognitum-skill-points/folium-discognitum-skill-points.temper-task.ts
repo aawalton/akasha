@@ -12,7 +12,7 @@ export const foliumDiscognitumSkillPoints = {
   dueDate: "2026-09-20",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   scope: "all_characters",
   priority: "p3",
   lastCompletedAt: "2026-09-21T15:56:56.160Z",

@@ -10,7 +10,7 @@ export const craftingWrits = {
   dueDate: "2026-09-23",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   scope: "all_characters",
   priority: "p2",
   lastCompletedAt: "2026-09-22T16:27:07.000Z",

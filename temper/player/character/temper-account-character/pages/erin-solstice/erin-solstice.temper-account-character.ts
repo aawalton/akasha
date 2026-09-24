@@ -8,6 +8,6 @@ export const erinSolstice = {
   displayOrder: 1,
   completion: "json",
   esoCharacterId: "8796093022338107",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   firstName: "Erin",
 } as const satisfies TemperAccountCharacter

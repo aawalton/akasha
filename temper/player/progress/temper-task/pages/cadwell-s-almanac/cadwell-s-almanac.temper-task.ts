@@ -11,7 +11,7 @@ export const cadwellSAlmanac = {
   dueDate: "2026-09-23",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   scope: "next_character",
   priority: "p3",
   lastCompletedAt: "2026-09-22T14:07:22.477Z",

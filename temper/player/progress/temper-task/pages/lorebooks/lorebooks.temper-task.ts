@@ -12,7 +12,7 @@ export const lorebooks = {
   dueDate: "2026-09-25",
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   scope: "character",
   priority: "p4",
   effectiveCharacter: "temper-account-character/erin-solstice",

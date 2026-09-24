@@ -9,7 +9,7 @@ export const ruleMasterWritsBank = {
     "Stashes master writs in the bank. Master writs reward writ vouchers for high-end crafting station furnishings.",
   goal: "temper-rule-goal/task",
   destination: "bank",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/master-writs",
   displayOrder: 48,
   action: "temper-item-action/move-to",

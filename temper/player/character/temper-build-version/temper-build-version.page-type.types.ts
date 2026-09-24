@@ -8,7 +8,7 @@ import type { CheckpointName } from "akasha/temper/player/character/temper-build
 import type { IsCheckpoint } from "akasha/temper/player/character/temper-build-version/properties/is-checkpoint.boolean-property.types.ts"
 import type { VersionNumber } from "akasha/temper/player/character/temper-build-version/properties/version-number.number-property.types.ts"
 import type { TemperCharacterThing } from "akasha/temper/player/character/thing/temper-character-thing.page-type.types.ts"
-import type { AccountPage } from "akasha/temper/thing/properties/account-page.text-property.types.ts"
+import type { AccountPage } from "akasha/temper/thing/properties/account-page.relation-property.types.ts"
 
 export type TemperBuildVersion = TemperCharacterThing & {
   accountPage: AccountPage

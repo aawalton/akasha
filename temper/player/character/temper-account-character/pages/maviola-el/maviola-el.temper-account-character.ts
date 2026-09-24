@@ -8,6 +8,6 @@ export const maviolaEl = {
   displayOrder: 2,
   completion: "json",
   esoCharacterId: "8796093024330045",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   firstName: "Maviola",
 } as const satisfies TemperAccountCharacter

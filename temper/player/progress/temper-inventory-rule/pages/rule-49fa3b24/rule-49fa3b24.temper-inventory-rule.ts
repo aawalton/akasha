@@ -5,7 +5,7 @@ export const rule49fa3b24 = {
   type: "page-type/temper-inventory-rule",
   slug: "rule-49fa3b24",
   title: "Toys → destroy",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/trophy-toys",
   displayOrder: 63,
   action: "temper-item-action/destroy",

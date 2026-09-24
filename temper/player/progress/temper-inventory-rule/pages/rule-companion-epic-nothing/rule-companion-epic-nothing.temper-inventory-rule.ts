@@ -10,7 +10,7 @@ export const ruleCompanionEpicNothing = {
   goal: "temper-rule-goal/equip",
   conditions: "jsonl",
   destination: "bank",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/companion",
   displayOrder: 12,
   action: "temper-item-action/move-to",

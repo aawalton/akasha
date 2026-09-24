@@ -15,7 +15,7 @@ export const temperWatcherEnrolment = {
     "text-property/token-name",
   ],
   properties: [
-    { pageProperty: "text-property/account-page", required: true, many: false },
+    { pageProperty: "relation-property/account-page", required: true, many: false },
     { pageProperty: "text-property/token-hash", required: true, many: false },
     { pageProperty: "text-property/token-name", required: true, many: false },
     { pageProperty: "instant-property/token-created-at", required: true, many: false },

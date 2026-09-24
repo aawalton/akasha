@@ -6,5 +6,5 @@ export const mirri = {
   slug: "mirri",
   title: "Mirri Elendis",
   companionId: "temper-eso-companion/mirri",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
 } as const satisfies TemperCompanionProgress

@@ -7,7 +7,7 @@ export const rule90d1aa3b = {
   title: "Sell known scripts",
   description: "Dispose of scribing scripts once every character knows them",
   conditions: "jsonl",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/scripts",
   displayOrder: 78,
   action: "temper-item-action/sell",

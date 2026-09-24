@@ -9,7 +9,7 @@ export const ruleOtherCurrencyBank = {
     "Deposits alliance points, tel var stones, and writ vouchers into the bank when visiting.",
   goal: "temper-rule-goal/hoard",
   destination: "bank",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/currency",
   displayOrder: 6,
   action: "temper-item-action/move-to",

@@ -5,7 +5,7 @@ import type { TokenHash } from "akasha/temper/player/progress/temper-watcher-enr
 import type { TokenLastUsedAt } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/token-last-used-at.instant-property.types.ts"
 import type { TokenName } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/token-name.text-property.types.ts"
 import type { TemperProgressThing } from "akasha/temper/player/progress/thing/temper-progress-thing.page-type.types.ts"
-import type { AccountPage } from "akasha/temper/thing/properties/account-page.text-property.types.ts"
+import type { AccountPage } from "akasha/temper/thing/properties/account-page.relation-property.types.ts"
 
 export type TemperWatcherEnrolment = TemperProgressThing & {
   accountPage: AccountPage

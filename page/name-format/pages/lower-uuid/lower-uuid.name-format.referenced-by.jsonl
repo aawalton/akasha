@@ -19,5 +19,4 @@
 {"propertySlug":"name-format","path":"temper/player/character/character-build/properties/build-correlation-id.text-property.ts","id":"01a06862-c4ee-7eb3-a4f2-21c62306945a"}
 {"propertySlug":"name-format","path":"temper/player/character/temper-account-character/properties/live-build-id.text-property.ts","id":"01a05fcd-f545-7d48-9dcc-6dc427e56e01"}
 {"propertySlug":"name-format","path":"temper/player/character/thing/properties/target-build-id.text-property.ts","id":"01a05fcd-f546-7645-8222-b9d3112c35d8"}
-{"propertySlug":"name-format","path":"temper/thing/properties/account-page.text-property.ts","id":"01a05fba-ce37-7ab7-ac79-b568699606b3"}
 {"propertySlug":"parts","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}

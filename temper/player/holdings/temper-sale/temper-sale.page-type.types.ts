@@ -8,7 +8,7 @@ import type { SalePrice } from "akasha/temper/player/holdings/temper-sale/proper
 import type { SaleQuantity } from "akasha/temper/player/holdings/temper-sale/properties/sale-quantity.number-property.types.ts"
 import type { SoldAt } from "akasha/temper/player/holdings/temper-sale/properties/sold-at.instant-property.types.ts"
 import type { Tax } from "akasha/temper/player/holdings/temper-sale/properties/tax.number-property.types.ts"
-import type { AccountPage } from "akasha/temper/thing/properties/account-page.text-property.types.ts"
+import type { AccountPage } from "akasha/temper/thing/properties/account-page.relation-property.types.ts"
 import type { TemperThing } from "akasha/temper/thing/temper-thing.page-type.types.ts"
 
 export type TemperSale = TemperThing & {

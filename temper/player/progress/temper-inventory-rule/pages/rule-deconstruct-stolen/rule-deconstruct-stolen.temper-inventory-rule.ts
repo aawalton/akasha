@@ -9,7 +9,7 @@ export const ruleDeconstructStolen = {
     "Launders stolen equipment that no higher-priority rule claimed, so it can be deconstructed. Place directly before equipment-deconstruct.",
   goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/equipment",
   displayOrder: 54,
   action: "temper-item-action/fence-launder",

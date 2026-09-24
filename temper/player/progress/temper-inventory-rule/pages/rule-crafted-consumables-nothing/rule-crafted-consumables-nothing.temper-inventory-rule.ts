@@ -9,7 +9,7 @@ export const ruleCraftedConsumablesNothing = {
     "Prevents crafted food, drink, potions, poisons, and glyphs from being affected by lower-priority rules. Crafted consumables take ingredients and time to make — this keeps them safe from accidental sell or destroy rules.",
   goal: "temper-rule-goal/use",
   conditions: "jsonl",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/consumables",
   displayOrder: 23,
   action: "temper-item-action/nothing",

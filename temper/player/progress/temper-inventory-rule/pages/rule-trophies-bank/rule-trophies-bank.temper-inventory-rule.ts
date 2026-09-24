@@ -9,7 +9,7 @@ export const ruleTrophiesBank = {
     "Deposits miscellaneous trophies (keys, key fragments, toys, dungeon buff ingredients, material upgraders) in the bank for safekeeping.",
   goal: "temper-rule-goal/hoard",
   destination: "bank",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/trophies",
   displayOrder: 64,
   action: "temper-item-action/move-to",

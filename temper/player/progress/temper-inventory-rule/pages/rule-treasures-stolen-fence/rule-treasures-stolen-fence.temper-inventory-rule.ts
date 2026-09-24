@@ -9,7 +9,7 @@ export const ruleTreasuresStolenFence = {
     "Sells stolen treasures at a fence. Stolen treasures can't be sold to normal merchants.",
   goal: "temper-rule-goal/sell",
   conditions: "jsonl",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/treasures",
   displayOrder: 69,
   action: "temper-item-action/fence-sell",

@@ -10,7 +10,7 @@ export const ruleUnlockByPriority = {
   goal: "temper-rule-goal/unlock",
   conditions: "jsonl",
   destination: "character:by-priority",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/knowledge",
   displayOrder: 31,
   action: "temper-item-action/use",

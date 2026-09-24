@@ -18,7 +18,7 @@ export const temperSale = {
     "text-property/sale-id",
   ],
   properties: [
-    { pageProperty: "text-property/account-page", required: true, many: false },
+    { pageProperty: "relation-property/account-page", required: true, many: false },
     { pageProperty: "text-property/sale-id", required: true, many: false },
     { pageProperty: "number-property/sale-price", required: true, many: false },
     { pageProperty: "number-property/tax", required: true, many: false },

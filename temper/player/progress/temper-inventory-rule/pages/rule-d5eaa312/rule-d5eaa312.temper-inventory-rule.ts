@@ -8,7 +8,7 @@ export const ruleD5eaa312 = {
   description:
     "Spine step 6: below-superior drink with no merchant value (event drinks) cannot fall to the sell rules - destroy. Companion to the raised drink sell floor (A5).",
   conditions: "jsonl",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/drink",
   displayOrder: 82,
   action: "temper-item-action/destroy",

@@ -12,7 +12,7 @@ export const antiquityLeadsLegendary = {
   dueDate: "2026-09-27",
   rruleRule: "FREQ=WEEKLY",
   rruleAnchorFromCompletion: false,
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   scope: "character",
   priority: "p2",
   effectiveCharacter: "temper-account-character/erin-solstice",

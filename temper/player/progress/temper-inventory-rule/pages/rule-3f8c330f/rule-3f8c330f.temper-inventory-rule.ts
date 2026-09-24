@@ -9,7 +9,7 @@ export const rule3f8c330f = {
     "Full 200-stacks route to the Walton Mountain guild bank; the lower-priority Erin rule keeps the partial remainder (first-match-wins).",
   conditions: "jsonl",
   destination: "guild-bank:Walton Mountain",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/container-stackable",
   displayOrder: 7,
   action: "temper-item-action/move-to",

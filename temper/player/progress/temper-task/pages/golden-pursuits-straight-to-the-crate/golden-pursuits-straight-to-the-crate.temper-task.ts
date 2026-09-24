@@ -10,7 +10,7 @@ export const goldenPursuitsStraightToTheCrate = {
   icon: "file-text",
   character: "temper-account-character/erin-solstice",
   dueDate: "2026-09-06",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   scope: "account",
   priority: "p1",
   lastCompletedAt: "2026-09-07T02:16:06.577Z",

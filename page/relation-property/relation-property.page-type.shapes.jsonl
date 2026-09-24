@@ -1,4 +1,5 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"monarch-account","unique":null,"uniquePropertySlug":null,"slug":"account","propertySlug":"account","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-account","unique":null,"uniquePropertySlug":null,"slug":"account-page","propertySlug":"account-page","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-achievement-category","unique":null,"uniquePropertySlug":null,"slug":"achievement-category-parent","propertySlug":"parent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-item-action","unique":null,"uniquePropertySlug":null,"slug":"action","propertySlug":"action","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat","unique":null,"uniquePropertySlug":null,"slug":"agent-message-to","propertySlug":"to","fileName":null,"folderName":null}

@@ -19,7 +19,7 @@ export const temperTask = {
     "text-property/character-name",
   ],
   properties: [
-    { pageProperty: "text-property/account-page", required: true, many: false },
+    { pageProperty: "relation-property/account-page", required: true, many: false },
     { pageProperty: "select-property/scope", required: true, many: false },
     { pageProperty: "select-property/priority", required: true, many: false },
     { pageProperty: "calendar-time-property/due-time", required: false, many: false },

@@ -15,7 +15,7 @@ export const temperInventoryRule = {
     "text-property/char-eligibility",
   ],
   properties: [
-    { pageProperty: "text-property/account-page", required: true, many: false },
+    { pageProperty: "relation-property/account-page", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "relation-property/action", required: true, many: false },
     { pageProperty: "boolean-property/active", required: true, many: false },

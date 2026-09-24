@@ -9,7 +9,7 @@ export const ruleToolsBank = {
   goal: "temper-rule-goal/hoard",
   destination: "bank",
   stockScope: "any-character",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/tools",
   displayOrder: 61,
   action: "temper-item-action/stock",

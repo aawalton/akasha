@@ -7,7 +7,7 @@ export const rule8d1e1c96 = {
   title: "Sell known motif chapters",
   description: "Disposal spine step 5. Closes gap A4.",
   conditions: "jsonl",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/motif-chapters",
   displayOrder: 81,
   action: "temper-item-action/sell",

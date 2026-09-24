@@ -6,7 +6,7 @@ export const rule440d6e66 = {
   slug: "rule-440d6e66",
   title: "Counterfeit Pardon Edict → stock 10/char (justice WIP)",
   conditions: "jsonl",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/scrolls",
   displayOrder: 33,
   action: "temper-item-action/stock",

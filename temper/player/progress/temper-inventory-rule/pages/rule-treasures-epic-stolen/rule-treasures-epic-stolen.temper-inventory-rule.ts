@@ -9,7 +9,7 @@ export const ruleTreasuresEpicStolen = {
     "Launders stolen treasures of epic quality or higher. These are worth keeping — sell them legitimately or bank for later.",
   goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/treasures",
   displayOrder: 60,
   action: "temper-item-action/fence-launder",

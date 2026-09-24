@@ -14,7 +14,7 @@ export const temperBuildVersion = {
     "text-property/checkpoint-name",
   ],
   properties: [
-    { pageProperty: "text-property/account-page", required: true, many: false },
+    { pageProperty: "relation-property/account-page", required: true, many: false },
     { pageProperty: "text-property/build", required: true, many: false },
     { pageProperty: "number-property/version-number", required: true, many: false },
     { pageProperty: "text-property/build-hash", required: true, many: false },

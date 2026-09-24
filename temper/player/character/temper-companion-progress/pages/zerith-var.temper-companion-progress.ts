@@ -6,5 +6,5 @@ export const zerithVar = {
   slug: "zerith-var",
   title: "Zerith-var",
   companionId: "temper-eso-companion/zerith-var",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
 } as const satisfies TemperCompanionProgress

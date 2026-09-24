@@ -8,6 +8,6 @@ export const shaestrel = {
   displayOrder: 15,
   completion: "json",
   esoCharacterId: "8796093049297261",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   firstName: "Shaestrel",
 } as const satisfies TemperAccountCharacter

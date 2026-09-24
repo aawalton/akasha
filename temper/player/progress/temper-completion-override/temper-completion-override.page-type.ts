@@ -9,7 +9,7 @@ export const temperCompletionOverride = {
   extends: ["page-type/temper-progress-thing"],
   parts: ["number-property/floor", "text-property/override-reason"],
   properties: [
-    { pageProperty: "text-property/account-page", required: true, many: false },
+    { pageProperty: "relation-property/account-page", required: true, many: false },
     { pageProperty: "relation-property/character", required: true, many: false },
     { pageProperty: "relation-property/completion-card", required: true, many: false },
     {

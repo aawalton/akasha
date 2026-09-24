@@ -9,7 +9,7 @@ export const ruleUnlockStolen = {
     "Launders stolen items that can teach something (motifs, recipes, etc.) so they can be used. Place before other unlock rules.",
   goal: "temper-rule-goal/unlock",
   conditions: "jsonl",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/knowledge",
   displayOrder: 26,
   action: "temper-item-action/fence-launder",

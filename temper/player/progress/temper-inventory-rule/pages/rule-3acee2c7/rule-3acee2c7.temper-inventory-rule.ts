@@ -8,7 +8,7 @@ export const rule3acee2c7 = {
   description:
     "Disposal spine step 5: known-by-all recipes to merchant; valuable ones list first via fc1c9638. Closes gap A1.",
   conditions: "jsonl",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/recipes",
   displayOrder: 79,
   action: "temper-item-action/sell",

@@ -9,7 +9,7 @@ export const ruleFurnishingsHouseStorage = {
     "Moves furnishings to the furniture vault (house storage) when visiting the bank. Keeps your backpack clear of bulky furniture items.",
   goal: "temper-rule-goal/hoard",
   destination: "furniture-vault",
-  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/furnishings",
   displayOrder: 38,
   action: "temper-item-action/move-to",

@@ -10,7 +10,7 @@ import type { ProgressCurrent } from "akasha/temper/player/progress/temper-task/
 import type { ProgressTotal } from "akasha/temper/player/progress/temper-task/properties/progress-total.number-property.types.ts"
 import type { Scope } from "akasha/temper/player/progress/thing/properties/scope.select-property.types.ts"
 import type { TemperProgressThing } from "akasha/temper/player/progress/thing/temper-progress-thing.page-type.types.ts"
-import type { AccountPage } from "akasha/temper/thing/properties/account-page.text-property.types.ts"
+import type { AccountPage } from "akasha/temper/thing/properties/account-page.relation-property.types.ts"
 
 export type TemperTask = TemperProgressThing & {
   accountPage: AccountPage
