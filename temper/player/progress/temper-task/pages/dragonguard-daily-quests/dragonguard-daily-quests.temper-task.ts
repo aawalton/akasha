@@ -19,5 +19,5 @@ export const dragonguardDailyQuests = {
   lastCompletedAt: "2026-09-22T16:23:31.000Z",
   progress: "jsonl",
   progressTotal: 600,
-  progressCurrent: 585,
+  progressCurrent: 586,
 } as const satisfies TemperTask
