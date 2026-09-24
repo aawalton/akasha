@@ -156,6 +156,16 @@ export const uiControlModel = {
         "A child that control already holds under the template's name is dressed again, not made twice.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The game's documents override a control an inherited template made deeper down, by its name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A control held under that name at any depth below is dressed again, not made twice.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A control the game makes that an addon extends is made here under the screen.",
     },

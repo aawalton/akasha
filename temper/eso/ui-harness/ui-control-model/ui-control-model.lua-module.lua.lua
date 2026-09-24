@@ -86,7 +86,11 @@ end
 
 local function childHeld(name, parent)
   local held = named[resolved(name, parent)]
-  if held ~= nil and held.uiParent == parent then return held end
+  local above = held ~= nil and held.uiParent or nil
+  while above ~= nil do
+    if above == parent then return held end
+    above = above.uiParent
+  end
   return nil
 end
 
