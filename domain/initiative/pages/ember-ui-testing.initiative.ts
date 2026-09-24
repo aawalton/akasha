@@ -39,5 +39,8 @@ export const emberUiTesting = {
     {
       statement: "A button, a field and a tab look and respond the same in every Temper window.",
     },
+    {
+      statement: "A tooltip Temper writes looks the same wherever it is, by keyboard or gamepad.",
+    },
   ],
 } as const satisfies Initiative
