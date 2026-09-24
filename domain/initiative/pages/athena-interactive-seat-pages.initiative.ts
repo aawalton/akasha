@@ -13,6 +13,10 @@ export const athenaInteractiveSeatPages = {
     },
     {
       statement:
+        "A page type names a property whose color draws its pages' titles in rows, cards and headers.",
+    },
+    {
+      statement:
         "The Seats view on alanwalton.com names every seat in the working color the editor shows it in.",
     },
     { statement: "A seat's page shows the seat's conversation since its last compaction." },
@@ -30,9 +34,5 @@ export const athenaInteractiveSeatPages = {
         "A seat's page shows each new message and change of working color live, with no refresh.",
     },
     { statement: "A seat's page is laid out for a phone first and works as well on a desktop." },
-    {
-      statement:
-        "A page type names a property whose color draws its pages' titles in rows, cards and headers.",
-    },
   ],
 } as const satisfies Initiative
