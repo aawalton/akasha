@@ -90,8 +90,52 @@ test("every album an artist put out is read, however many pages that takes", asy
 })
 
 test("one album is read by its own id, because the bulk read is forbidden this app", async () => {
-  await getAlbum("an-album-id", answeringWith([{ ...ALBUM, tracks: { items: [] } }]))
+  await getAlbum("an-album-id", answeringWith([{ ...ALBUM, tracks: pageOf([], null) }]))
   expect(calls[0]).toBe("https://api.spotify.com/v1/albums/an-album-id")
+})
+
+function tracksFrom(first: number, count: number): readonly unknown[] {
+  return Array.from({ length: count }, (_, nth) => ({
+    id: `t${first + nth}`,
+    name: `T${first + nth}`,
+    duration_ms: 60_000,
+    track_number: first + nth + 1,
+    disc_number: 1,
+    explicit: false,
+    artists: [{ id: "sp-a", name: "An Artist" }],
+    external_urls: { spotify: `https://open.spotify.com/track/t${first + nth}` },
+  }))
+}
+
+test("an album of more than fifty tracks is read to its last track, however many pages that takes", async () => {
+  const album = await getAlbum(
+    "an-album-id",
+    answeringWith([
+      {
+        ...ALBUM,
+        total_tracks: 120,
+        tracks: pageOf(
+          tracksFrom(0, 50),
+          "https://api.spotify.com/v1/albums/an-album-id/tracks?offset=50&limit=50"
+        ),
+      },
+      pageOf(
+        tracksFrom(50, 50),
+        "https://api.spotify.com/v1/albums/an-album-id/tracks?offset=100&limit=50"
+      ),
+      pageOf(tracksFrom(100, 20), null),
+    ])
+  )
+  expect(album.tracks.items).toHaveLength(120)
+  expect(album.tracks.items.map((one) => one.id)).toEqual(
+    Array.from({ length: 120 }, (_, nth) => `t${nth}`)
+  )
+  expect(albumMinutes(album)).toBe(120)
+  expect(calls).toEqual([
+    "https://api.spotify.com/v1/albums/an-album-id",
+    "https://api.spotify.com/v1/albums/an-album-id/tracks?offset=50&limit=50",
+    "https://api.spotify.com/v1/albums/an-album-id/tracks?offset=100&limit=50",
+  ])
 })
 
 test("an album's length is added up from the tracks that album holds", () => {

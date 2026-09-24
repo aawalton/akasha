@@ -22,6 +22,10 @@ export const spotifyReleases = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An album is read to its last track, however many pages of tracks that takes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An album an artist only appears on is left out.",
     },
     {

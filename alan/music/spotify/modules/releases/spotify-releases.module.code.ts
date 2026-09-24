@@ -1,4 +1,5 @@
 import {
+  offsetPageSchema,
   paginateOffset,
   spotifyGet,
   withQuery,
@@ -51,6 +52,8 @@ export const albumWithTracksSchema = albumSchema.extend({
 
 export type AlbumWithTracks = z.infer<typeof albumWithTracksSchema>
 
+const albumAnswerSchema = albumSchema.extend({ tracks: offsetPageSchema(albumTrackSchema) })
+
 export function artistAlbumsPath(artistId: string): string {
   return withQuery(`/artists/${artistId}/albums`, {
     include_groups: GROUPS,
@@ -62,8 +65,13 @@ export function getArtistAlbums(artistId: string, over?: Fetching): Promise<Albu
   return paginateOffset(artistAlbumsPath(artistId), albumSchema, undefined, over)
 }
 
-export function getAlbum(albumId: string, over?: Fetching): Promise<AlbumWithTracks> {
-  return spotifyGet(`/albums/${albumId}`, albumWithTracksSchema, over)
+export async function getAlbum(albumId: string, over?: Fetching): Promise<AlbumWithTracks> {
+  const answer = await spotifyGet(`/albums/${albumId}`, albumAnswerSchema, over)
+  const rest =
+    answer.tracks.next === null
+      ? []
+      : await paginateOffset(answer.tracks.next, albumTrackSchema, undefined, over)
+  return { ...answer, tracks: { items: [...answer.tracks.items, ...rest] } }
 }
 
 export function albumMinutes(album: AlbumWithTracks): number {
