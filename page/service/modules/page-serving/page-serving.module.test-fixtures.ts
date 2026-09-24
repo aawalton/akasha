@@ -26,6 +26,7 @@ export const GIVEN = {
       TOLD.push(asked)
       return Promise.resolve(NOTHING_LANDS)
     },
+    alone: <T>(act: () => Promise<T>): Promise<T> => act(),
   },
 }
 

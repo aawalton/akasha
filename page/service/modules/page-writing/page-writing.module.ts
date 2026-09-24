@@ -116,5 +116,14 @@ export const pageWriting = {
       decisionKind: "decision-kind/departure",
       statement: "The page a value is kept for is judged for its path as a body would be.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An act handed to the writer alone runs between batches, and no batch lands while it runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Acts handed in alone run one at a time, in the order they arrived.",
+    },
   ],
 } as const satisfies Module

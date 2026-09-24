@@ -45,6 +45,7 @@ export type Writing = {
 
 export type Writer = {
   readonly writing: (asked: Asked) => Promise<Wrote>
+  readonly alone: <T>(act: () => Promise<T>) => Promise<T>
 }
 
 const ABOVE = ".."
@@ -199,9 +200,15 @@ export function batchIn<T extends Held>(
 
 export function writerFor(given: Writing): Writer {
   let waiting: Waiting[] = []
+  const acts: (() => Promise<unknown>)[] = []
   let running = false
   const settling = async (): Promise<undefined> => {
-    while (waiting.length > 0) {
+    while (acts.length > 0 || waiting.length > 0) {
+      const act = acts.shift()
+      if (act !== undefined) {
+        await act()
+        continue
+      }
       const taken = batchIn(waiting)
       waiting = [...taken.rest]
       const wrote = await landedIn(
@@ -213,16 +220,24 @@ export function writerFor(given: Writing): Writer {
     running = false
     return undefined
   }
+  const started = (): undefined => {
+    if (running) return
+    running = true
+    setTimeout(settling, 0)
+  }
   return {
     writing: (asked) => {
       const refused = refusalIn(asked)
       if (refused !== null) return Promise.resolve({ refused })
       return new Promise<Wrote>((settle) => {
         waiting.push({ asked, settle })
-        if (running) return
-        running = true
-        setTimeout(settling, 0)
+        started()
       })
     },
+    alone: (act) =>
+      new Promise((settle, fail) => {
+        acts.push(() => Promise.resolve().then(act).then(settle, fail))
+        started()
+      }),
   }
 }

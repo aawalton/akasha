@@ -237,6 +237,32 @@ test("a write that throws is refused naming what the write carried", async () =>
   rmSync(root, { recursive: true, force: true })
 })
 
+test("acts handed in together run one at a time, each finishing before the next starts", async () => {
+  const writer = writerFor({ root: "/var/tmp/no-such-root-is-here" })
+  let inside = 0
+  let most = 0
+  const acting = async (one: number): Promise<number> => {
+    inside += 1
+    most = Math.max(most, inside)
+    await new Promise((settle) => setTimeout(settle, 2))
+    inside -= 1
+    return one
+  }
+  const said = await Promise.all([1, 2, 3, 4, 5].map((one) => writer.alone(() => acting(one))))
+  expect(said).toEqual([1, 2, 3, 4, 5])
+  expect(most).toBe(1)
+})
+
+test("an act that throws fails its own caller and leaves the next act running", async () => {
+  const writer = writerFor({ root: "/var/tmp/no-such-root-is-here" })
+  const failing = writer.alone(() => {
+    throw new Error("the act broke")
+  })
+  const next = writer.alone(() => Promise.resolve("ran"))
+  await expect(failing).rejects.toThrow("the act broke")
+  expect(await next).toBe("ran")
+})
+
 test("a value kept again merges onto what the page already keeps", async () => {
   const root = mkdtempSync(join(SCRATCH_AT, "page-writing-"))
   const at = "akasha/a.thing.ts"
