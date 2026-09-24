@@ -208,6 +208,11 @@
 {"propertySlug":"import","fileName":"temper-gear-grade.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/pages/shock-resist/grades/jewelry-enchant-shock-resist-legendary.temper-gear-grade.ts"}
 {"propertySlug":"import","fileName":"temper-gear-grade.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/pages/shock-resist/grades/jewelry-enchant-shock-resist-normal.temper-gear-grade.ts"}
 {"propertySlug":"import","fileName":"temper-gear-grade.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/pages/shock-resist/grades/jewelry-enchant-shock-resist-superior.temper-gear-grade.ts"}
+{"propertySlug":"import","fileName":"temper-gear-grade.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/pages/stamina-recovery/grades/jewelry-enchant-stamina-recovery-epic.temper-gear-grade.ts"}
+{"propertySlug":"import","fileName":"temper-gear-grade.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/pages/stamina-recovery/grades/jewelry-enchant-stamina-recovery-fine.temper-gear-grade.ts"}
+{"propertySlug":"import","fileName":"temper-gear-grade.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/pages/stamina-recovery/grades/jewelry-enchant-stamina-recovery-legendary.temper-gear-grade.ts"}
+{"propertySlug":"import","fileName":"temper-gear-grade.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/pages/stamina-recovery/grades/jewelry-enchant-stamina-recovery-normal.temper-gear-grade.ts"}
+{"propertySlug":"import","fileName":"temper-gear-grade.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/pages/stamina-recovery/grades/jewelry-enchant-stamina-recovery-superior.temper-gear-grade.ts"}
 {"propertySlug":"import","fileName":"temper-gear-grade.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-trait/pages/arcane/grades/jewelry-trait-arcane-epic.temper-gear-grade.ts"}
 {"propertySlug":"import","fileName":"temper-gear-grade.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-trait/pages/arcane/grades/jewelry-trait-arcane-fine.temper-gear-grade.ts"}
 {"propertySlug":"import","fileName":"temper-gear-grade.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-trait/pages/arcane/grades/jewelry-trait-arcane-legendary.temper-gear-grade.ts"}
