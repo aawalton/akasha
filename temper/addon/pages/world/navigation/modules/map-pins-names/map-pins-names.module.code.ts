@@ -1,5 +1,4 @@
 export const ADDON_NAME = "TemperMapPins"
-export const ADDON_VERSION = "1.99.4"
 
 export const TEXTURE_ROOT = "TemperWorld"
 
