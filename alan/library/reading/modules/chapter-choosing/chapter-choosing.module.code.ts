@@ -49,10 +49,7 @@ function resumeFloor(
   })
 }
 
-export function selectUnreadChapters(
-  catalog: LitrpgCatalog,
-  storyId: string
-): readonly LitrpgChapter[] {
+function selectUnreadChapters(catalog: LitrpgCatalog, storyId: string): readonly LitrpgChapter[] {
   const chaptersByStory = buildChaptersByStory(catalog)
   const story = catalog.stories.find((s) => s.id === storyId)
   const floor = story !== undefined ? resumeFloor(story, chaptersByStory) : 1
@@ -69,15 +66,4 @@ export function selectUnreadChapters(
 
 export function selectNextChapter(catalog: LitrpgCatalog, storyId: string): LitrpgChapter | null {
   return selectUnreadChapters(catalog, storyId)[0] ?? null
-}
-
-export function selectReadAheadChapterIds(
-  catalog: LitrpgCatalog,
-  storyId: string,
-  k: number
-): readonly string[] {
-  if (k <= 0) return []
-  return selectUnreadChapters(catalog, storyId)
-    .slice(0, k)
-    .map((c) => c.id)
 }
