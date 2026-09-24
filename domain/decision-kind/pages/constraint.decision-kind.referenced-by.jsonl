@@ -135,8 +135,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/sim-session/sim-session.module.ts","id":"01a05cee-e560-7fa8-b30a-1b0defa5f6c3"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/testflight-poll/testflight-poll.module.ts","id":"01a05cee-e560-7b4d-8df2-e5be4918211f"}
 {"propertySlug":"decision-kind","path":"alan/harness/modules/reading-in-flight/reading-in-flight.module.ts","id":"01a0c54e-ace3-73fc-853c-2f33dfe5c8f7"}
-{"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/modules/score/monarch-eval-score.module.ts","id":"01a06868-1eff-7772-8b1a-2c5a4d3dd331"}
-{"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/monarch-eval.domain.ts","id":"01a07740-d031-7503-a291-ce61a5f353a4"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/credential/monarch-credential.module.ts","id":"01a0685f-4ed9-74ca-87d5-38f3cedf684a"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/reading/monarch-reading.module.ts","id":"01a057fa-c464-7f2b-9f87-031b5dbedaa9"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.ts","id":"01a06866-06f1-762e-b1c3-4910e1884927"}

@@ -6,7 +6,6 @@ export const monarch = {
   slug: "monarch",
   definition: "the outside service that gathers every account Alan has into a picture of his money",
   parts: [
-    "domain/monarch-eval",
     "module/monarch-agree",
     "module/monarch-agreement",
     "module/monarch-amazon-lines",

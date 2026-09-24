@@ -372,12 +372,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/modules/album-pulling/album-pulling.module.ts","id":"01a06585-5f39-70a6-bafc-9a2c3771bb19"}
 {"propertySlug":"decision-kind","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.ts","id":"01a0795a-2cb4-7d47-b7d6-2b120f641fd4"}
 {"propertySlug":"decision-kind","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.ts","id":"01a082eb-4f25-7bd5-b488-a5c24903072e"}
-{"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/modules/agent/monarch-eval-agent.module.ts","id":"01a06867-fdff-757f-b949-c56622460db1"}
-{"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/modules/population/monarch-eval-population.module.ts","id":"01a06867-e5ed-70fd-8fee-bffe0cd3c068"}
-{"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/modules/run/monarch-eval-run.module.ts","id":"01a06868-1535-7f9d-812e-7f071e571d5b"}
-{"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/modules/score/monarch-eval-score.module.ts","id":"01a06868-1eff-7772-8b1a-2c5a4d3dd331"}
-{"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/modules/snapshot/monarch-eval-snapshot.module.ts","id":"01a06863-264d-7e8e-895d-7274b1dbf33c"}
-{"propertySlug":"decision-kind","path":"alan/harness/monarch/eval/monarch-eval.domain.ts","id":"01a07740-d031-7503-a291-ce61a5f353a4"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/agree/monarch-agree.module.ts","id":"01a06867-e5ed-703d-b129-e891c8fed291"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/agreement/monarch-agreement.module.ts","id":"01a06863-ac0b-7070-8802-ece61d5b73b6"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/amazon-lines/monarch-amazon-lines.module.ts","id":"01a06867-e5ed-7136-848d-0f062a3b65e9"}

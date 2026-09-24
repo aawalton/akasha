@@ -642,11 +642,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/reading-in-flight/reading-in-flight.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/router-app-serving/router-app-serving.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/security-headers/security-headers.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/eval/modules/agent/monarch-eval-agent.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/eval/modules/population/monarch-eval-population.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/eval/modules/run/monarch-eval-run.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/eval/modules/score/monarch-eval-score.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/eval/modules/snapshot/monarch-eval-snapshot.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/agree/monarch-agree.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/agreement/monarch-agreement.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/amazon-lines/monarch-amazon-lines.module.ts"}
