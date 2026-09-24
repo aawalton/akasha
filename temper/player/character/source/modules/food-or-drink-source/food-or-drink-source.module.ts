@@ -11,10 +11,6 @@ export const foodOrDrinkSource = {
       decisionKind: "decision-kind/constraint",
       statement: "A food or drink's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A food or drink moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["FOOD_OR_DRINK"],
 } as const satisfies Module

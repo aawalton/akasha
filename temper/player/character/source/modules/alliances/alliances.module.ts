@@ -15,10 +15,6 @@ export const alliances = {
       decisionKind: "decision-kind/constraint",
       statement: "A alliance's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A alliance moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["ALLIANCE_DATA"],
 } as const satisfies Module

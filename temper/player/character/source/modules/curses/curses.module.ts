@@ -15,10 +15,6 @@ export const curses = {
       decisionKind: "decision-kind/constraint",
       statement: "A curse's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A curse moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["CURSE_DATA"],
 } as const satisfies Module

@@ -11,10 +11,6 @@ export const esoPlusSource = {
       decisionKind: "decision-kind/constraint",
       statement: "A ESO Plus row's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A ESO Plus row moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["ESO_PLUS_DATA"],
 } as const satisfies Module

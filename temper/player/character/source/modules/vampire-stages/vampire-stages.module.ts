@@ -15,10 +15,6 @@ export const vampireStages = {
       decisionKind: "decision-kind/constraint",
       statement: "A vampire stage's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A vampire stage moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["VAMPIRE_STAGE_DATA"],
 } as const satisfies Module

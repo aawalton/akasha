@@ -520,12 +520,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribing-grimoires-02/scribing-grimoires-02.module.ts","id":"01a0617c-86c0-70e5-8460-db175c793bbd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribing-grimoires-03/scribing-grimoires-03.module.ts","id":"01a0617c-86c0-7b93-b2bb-ff577dbfd3a0"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.ts","id":"01a0617c-86c1-7ff1-9fbb-5185c2f3eb4d"}
-{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/alliances/alliances.module.ts","id":"01a060ea-ac5c-7ddc-8beb-424cc85a9621"}
-{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/curses/curses.module.ts","id":"01a060ea-ac61-790f-9c2c-5f742647198c"}
-{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/eso-plus-source/eso-plus-source.module.ts","id":"01a060ea-ac63-7845-9a82-f9f16acf19da"}
-{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.ts","id":"01a060ea-ac63-7f87-bbe2-20c3ae760481"}
-{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/mundus-source/mundus-source.module.ts","id":"01a061a7-9bb1-778e-b38f-f397e2f754ea"}
-{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/vampire-stages/vampire-stages.module.ts","id":"01a060ea-ac65-780c-876f-8ff34a264cc4"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-tree-data/metric-tree-data.module.ts","id":"01a06133-5f08-7ca8-bc0d-02aa20d2f63c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metrics/metrics.module.ts","id":"01a06131-abb7-7c5f-81a0-69154a33d704"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-build-version/properties/build.text-property.ts","id":"01a0685d-89aa-749c-b7bc-b0f638217233"}

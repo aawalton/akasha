@@ -11,10 +11,6 @@ export const mundusSource = {
       decisionKind: "decision-kind/constraint",
       statement: "A mundus stone's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A mundus stone moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["MUNDUS_DATA"],
 } as const satisfies Module
