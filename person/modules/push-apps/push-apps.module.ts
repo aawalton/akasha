@@ -12,6 +12,10 @@ export const pushApps = {
       statement: "Every app that may register for push is named here.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "An app's bundle is imported from the app's page, so a web bundle carries it.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here registers anything.",
     },
