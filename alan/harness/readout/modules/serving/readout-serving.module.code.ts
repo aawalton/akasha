@@ -1,3 +1,4 @@
+import type { ReadoutWords } from "akasha/alan/harness/readout/modules/body/readout-body.module.code.ts"
 import {
   READOUT_CACHE_CONTROL,
   RING_CREDENTIAL_HEADER,
@@ -46,6 +47,15 @@ export function readingHeldOn(values: Readonly<Record<string, unknown>>): HeldRe
   return heldOf(readingOn(values))
 }
 
+export function wordsOn(values: Readonly<Record<string, unknown>>): ReadoutWords {
+  const label = stated(values.label)
+  const unit = stated(values.unit)
+  return {
+    ...(label === undefined ? {} : { label }),
+    ...(unit === undefined ? {} : { unit }),
+  }
+}
+
 export function noReading(): Response {
   return Response.json(NO_READING, {
     status: 503,
@@ -84,6 +94,7 @@ export async function answerReadoutAdmittedBy(
   return Response.json(
     {
       [wireKey]: value,
+      ...wordsOn(row),
       ...(scale === undefined ? {} : { scale }),
       ...(noneLeft.words === undefined ? {} : { noneLeftWords: noneLeft.words }),
       ...(noneLeft.emoji === undefined ? {} : { noneLeftEmoji: noneLeft.emoji }),

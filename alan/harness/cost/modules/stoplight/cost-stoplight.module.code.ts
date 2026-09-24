@@ -8,6 +8,7 @@ import {
   type Stoplighted,
   stilled,
   stoplightOf,
+  unitAnswered,
   type Values,
   wireKeyed,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
@@ -74,6 +75,7 @@ function costStoplightWith(
     return {
       ...wireKeyed(HABIT, wireKey),
       label,
+      ...unitAnswered(row),
       tier: BELOW_EVERY_RUNG,
       reading: NO_FIGURE,
       readingHeld: reading.held,
@@ -83,6 +85,7 @@ function costStoplightWith(
   return {
     ...wireKeyed(HABIT, wireKey),
     label,
+    ...unitAnswered(row),
     tier: costColorAt(reading.value, surplus?.hours ?? null),
     reading: readingSaid(reading.value),
     ...countingDown(reading.value, surplus?.stoplight ?? null),

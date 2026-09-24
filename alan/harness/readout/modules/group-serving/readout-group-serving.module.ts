@@ -27,7 +27,11 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The label answered is the label the readout's own page has.",
+      statement: "The label and the unit answered are the ones the readout's own page has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A readout whose page states no unit is answered with no unit.",
     },
     {
       decisionKind: "decision-kind/departure",

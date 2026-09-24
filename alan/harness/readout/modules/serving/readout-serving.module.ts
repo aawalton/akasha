@@ -47,6 +47,14 @@ export const readoutServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The label and the unit answered are the ones the readout's own page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A unit the readout's page leaves out is left out of the answer too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The scale read is the scale the readout's page names rather than a scale named here.",
     },

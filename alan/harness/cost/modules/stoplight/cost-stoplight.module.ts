@@ -52,7 +52,8 @@ export const costStoplight = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The label and the wire key answered are the ones the readout's page carries.",
+      statement:
+        "The label, the unit and the wire key answered are the ones the readout's page carries.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -149,6 +149,15 @@ test("the label and the key answered are the ones the readout's own page carries
   expect(one?.habit).toBe("safety")
 })
 
+test("the unit answered is the one the readout's own page carries, where it carries one", async () => {
+  relayedFor(READOUT, 3)
+  relayedFor(OTHER, 3)
+  ANSWERED.readouts = [READOUT_ROW, OTHER_ROW]
+  const [stated, unstated] = await stoplights()
+  expect(stated?.unit).toBe("levels")
+  expect(unstated !== undefined && "unit" in unstated).toBe(false)
+})
+
 test("the wire key is answered under the key the caller names", async () => {
   relayedFor(READOUT, 3)
   const keys = await keysAnswered(WIRE_KEY_NAME)

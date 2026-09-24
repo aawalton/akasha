@@ -5,6 +5,7 @@ import {
   noReading,
   type RingAdmission,
   readingHeldOn,
+  wordsOn,
 } from "akasha/alan/harness/readout/modules/serving/readout-serving.module.code.ts"
 import {
   BELOW_EVERY_RUNG,
@@ -36,6 +37,7 @@ export type ReadingUnheld = "none"
 
 export type Stoplight = {
   readonly label: string
+  readonly unit?: string
   readonly tier: TierColor
   readonly reading: string
   readonly readingHeld?: ReadingUnheld
@@ -65,6 +67,11 @@ function scaleSlugIn(row: Values): string | undefined {
 
 export function wireKeyed(wireKeyName: string, wireKey: string): Readonly<Record<string, string>> {
   return { [wireKeyName]: wireKey }
+}
+
+export function unitAnswered(row: Values): Pick<Stoplight, "unit"> {
+  const { unit } = wordsOn(row)
+  return unit === undefined ? {} : { unit }
 }
 
 function fallingWith(
@@ -111,6 +118,7 @@ export function stoplightWith(
     return {
       ...wireKeyed(wireKeyName, wireKey),
       label,
+      ...unitAnswered(row),
       tier: BELOW_EVERY_RUNG,
       reading: NO_FIGURE,
       readingHeld: reading.held,
@@ -123,6 +131,7 @@ export function stoplightWith(
   return {
     ...wireKeyed(wireKeyName, wireKey),
     label,
+    ...unitAnswered(row),
     tier: reached.tier,
     reading: readingSaid(reading.value),
     ...(reached.nextTier === null ? {} : { nextTier: reached.nextTier }),

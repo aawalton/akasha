@@ -115,6 +115,22 @@ test("the rungs and the none-left words are read from the store rather than carr
   expect(body.noneLeftEmoji).toBe("🎉")
 })
 
+test("the label and the unit answered are the ones the readout's page states", async () => {
+  relayedFor(READOUT, 41)
+  ANSWERED.rows = [{ ...READOUT_ROW, label: "Unreviewed", unit: "transactions" }]
+  const body = (await (await ring(CREDENTIAL)).json()) as Record<string, unknown>
+  expect(body.label).toBe("Unreviewed")
+  expect(body.unit).toBe("transactions")
+})
+
+test("a readout stating no unit is answered without one rather than an empty one", async () => {
+  relayedFor(READOUT, 41)
+  ANSWERED.rows = [{ ...READOUT_ROW, label: "Cost", unit: "  " }]
+  const body = (await (await ring(CREDENTIAL)).json()) as Record<string, unknown>
+  expect(body.label).toBe("Cost")
+  expect("unit" in body).toBe(false)
+})
+
 test("a readout naming no scale is answered without rungs", async () => {
   relayedFor(READOUT, 41)
   ANSWERED.rows = [{ slug: READOUT, wireKey: WIRE_KEY }]
