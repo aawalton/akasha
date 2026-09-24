@@ -29,8 +29,6 @@ import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawin
 
 const PAGE_TYPE = "type"
 
-const PAGE_TYPE_SLUG = "pageTypeSlug"
-
 const INPUT_AT = "/dev/stdin"
 
 export type Saying = {
@@ -60,7 +58,7 @@ function targetIn(root: string, path: string): Target | { readonly refused: stri
   if (value === null) {
     return { refused: `${path} declares no page here, and a secret belongs to a page that stands` }
   }
-  const pageTypeSlug = slugAt(value, PAGE_TYPE) ?? slugAt(value, PAGE_TYPE_SLUG)
+  const pageTypeSlug = slugAt(value, PAGE_TYPE)
   if (pageTypeSlug === null) {
     return { refused: `${path} names no page type, so nothing says which of its values are secret` }
   }
