@@ -6,10 +6,5 @@ export const olwenDesignSystem = {
   slug: "olwen-design-system",
   domain: "domain/design-interface-system",
   persona: "persona/olwen",
-  intentStack: [
-    {
-      statement:
-        "Every property badge reads as the value's own name rather than as the text akasha files it under.",
-    },
-  ],
+  intentStack: [],
 } as const satisfies Initiative
