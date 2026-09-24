@@ -13,19 +13,6 @@ export function synthNamespaceDeploymentService(
   ]
 }
 
-export function synthNamespaceServiceDeployment(
-  namespace: string,
-  labels: Readonly<Record<string, string>>,
-  service: () => string,
-  deployment: () => string
-): readonly { readonly name: string; readonly yaml: string }[] {
-  return [
-    { name: "namespace", yaml: namespaceYaml(namespace, labels) },
-    { name: "service", yaml: service() },
-    { name: "deployment", yaml: deployment() },
-  ]
-}
-
 export function synthNamespaceConfigmapDeploymentService(
   namespace: string,
   labels: Readonly<Record<string, string>>,
@@ -49,12 +36,6 @@ export function synthWebDeploymentService(
     { name: "web-deployment", yaml: deployment() },
     { name: "web-service", yaml: service() },
   ]
-}
-
-export function synthCronjob(
-  cronjob: () => string
-): readonly { readonly name: string; readonly yaml: string }[] {
-  return [{ name: "cronjob", yaml: cronjob() }]
 }
 
 export function synthNamespaceCronjob(
