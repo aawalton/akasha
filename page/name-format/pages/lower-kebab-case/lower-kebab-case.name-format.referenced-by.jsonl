@@ -51,7 +51,6 @@
 {"propertySlug":"name-format","path":"story/game/properties/game-engine.text-property.ts","id":"01a0673c-8e0e-7000-9766-2ad03b196843"}
 {"propertySlug":"name-format","path":"story/game/properties/genre.text-property.ts","id":"01a0673c-8e0e-7005-9075-7892b4954917"}
 {"propertySlug":"name-format","path":"story/game/quest/properties/quest-status.text-property.ts","id":"01a0c6ac-515c-7566-9f2a-b14bd92f3a34"}
-{"propertySlug":"name-format","path":"story/game/turn/properties/window-kind.text-property.ts","id":"01a0c67f-cf68-709d-b1aa-f17278bd8ecd"}
 {"propertySlug":"name-format","path":"story/world/characters/properties/epistemic.text-property.ts","id":"01a0b6f7-33d9-7623-9db7-4338dfc0d927"}
 {"propertySlug":"name-format","path":"story/world/mechanics/properties/claimed-by-slug.text-property.ts","id":"01a06558-a991-7488-9ae2-ee17116e4221"}
 {"propertySlug":"name-format","path":"story/world/mechanics/properties/from-slug.text-property.ts","id":"01a06558-a991-7b11-b2a3-95ca0eb97a62"}

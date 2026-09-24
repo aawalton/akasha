@@ -4,14 +4,13 @@ export const gameTurn = {
   id: "01a0c67d-107c-7e63-8791-38c9b6c7128d",
   type: "page-type/page-type",
   slug: "game-turn",
-  definition: "a turn of a game's play, and what the system said in it",
+  definition: "a turn of a game's play, and the numbers that turn settled",
   pluralSlug: "turns",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   properties: [
     { pageProperty: "relation-property/holding-game", required: true, many: false },
     { pageProperty: "number-property/turn-number", required: true, many: false },
-    { pageProperty: "record-property/system-window", required: false, many: true, maxCount: null },
     { pageProperty: "record-property/turn-pools", required: false, many: true, maxCount: null },
     { pageProperty: "record-property/turn-derived", required: false, many: true, maxCount: null },
     { pageProperty: "record-property/turn-rungs", required: false, many: true, maxCount: null },
@@ -23,7 +22,8 @@ export const gameTurn = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What the system said in a turn is written on that turn.",
+      statement:
+        "What the system said in a turn is written in that turn's prose rather than on the turn.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -39,8 +39,6 @@ export const gameTurn = {
   schema: "jsonl",
   parts: [
     "number-property/turn-number",
-    "text-property/window-kind",
-    "record-property/system-window",
     "number-property/pool-change",
     "record-property/turn-pools",
     "number-property/pool-now",

@@ -160,7 +160,6 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/properties/game-mechanics.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/properties/game-panels.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/properties/genre.text-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/turn/properties/system-window.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/turn/properties/turn-derived.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/turn/properties/turn-pools.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/turn/properties/turn-rungs.record-property.types.ts"}

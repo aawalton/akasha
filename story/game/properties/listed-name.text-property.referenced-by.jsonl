@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"listed-name.text-property.types.ts","path":"story/game/entity/properties/entity-traits.record-property.types.ts"}
 {"propertySlug":"import","fileName":"listed-name.text-property.types.ts","path":"story/game/location/properties/location-conditions.record-property.types.ts"}
 {"propertySlug":"import","fileName":"listed-name.text-property.types.ts","path":"story/game/location/properties/location-things.record-property.types.ts"}
-{"propertySlug":"import","fileName":"listed-name.text-property.types.ts","path":"story/game/turn/properties/system-window.record-property.types.ts"}
 {"propertySlug":"import","fileName":"listed-name.text-property.types.ts","path":"story/game/turn/properties/turn-derived.record-property.types.ts"}
 {"propertySlug":"import","fileName":"listed-name.text-property.types.ts","path":"story/game/turn/properties/turn-pools.record-property.types.ts"}
 {"propertySlug":"import","fileName":"listed-name.text-property.types.ts","path":"story/game/turn/properties/turn-rungs.record-property.types.ts"}
@@ -20,7 +19,6 @@
 {"propertySlug":"page-property","path":"story/game/entity/properties/entity-traits.record-property.ts","id":"01a0c637-533c-7d20-91d2-bcd683e32b4e"}
 {"propertySlug":"page-property","path":"story/game/location/properties/location-conditions.record-property.ts","id":"01a0c645-074c-72ea-9eb7-28ffdb438ce9"}
 {"propertySlug":"page-property","path":"story/game/location/properties/location-things.record-property.ts","id":"01a0c646-0dc8-7dee-9127-0870839eb9fd"}
-{"propertySlug":"page-property","path":"story/game/turn/properties/system-window.record-property.ts","id":"01a0c680-3679-76c4-9c9a-ac85779d4f39"}
 {"propertySlug":"page-property","path":"story/game/turn/properties/turn-derived.record-property.ts","id":"01a0c69f-b3f2-755e-a4ad-bdd88364044c"}
 {"propertySlug":"page-property","path":"story/game/turn/properties/turn-pools.record-property.ts","id":"01a0c69c-5e8f-723a-a541-33dd17912c80"}
 {"propertySlug":"page-property","path":"story/game/turn/properties/turn-rungs.record-property.ts","id":"01a0c6a3-8727-7638-9ad4-400f03486439"}

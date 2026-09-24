@@ -3554,7 +3554,6 @@
 {"propertySlug":"decision-kind","path":"story/game/turn/properties/pool-change.number-property.ts","id":"01a0c692-2e25-72d0-adc5-dd1ff6c6b65a"}
 {"propertySlug":"decision-kind","path":"story/game/turn/properties/pool-most.number-property.ts","id":"01a0c69c-2590-7532-882d-56a9cdbaf2fc"}
 {"propertySlug":"decision-kind","path":"story/game/turn/properties/pool-now.number-property.ts","id":"01a0c671-1075-74fd-9fb2-e5796664d4b3"}
-{"propertySlug":"decision-kind","path":"story/game/turn/properties/system-window.record-property.ts","id":"01a0c680-3679-76c4-9c9a-ac85779d4f39"}
 {"propertySlug":"decision-kind","path":"story/game/turn/properties/turn-derived.record-property.ts","id":"01a0c69f-b3f2-755e-a4ad-bdd88364044c"}
 {"propertySlug":"decision-kind","path":"story/game/turn/properties/turn-number.number-property.ts","id":"01a0c67e-d63a-7fab-b15d-5700bade864e"}
 {"propertySlug":"decision-kind","path":"story/game/turn/properties/turn-pools.record-property.ts","id":"01a0c69c-5e8f-723a-a541-33dd17912c80"}

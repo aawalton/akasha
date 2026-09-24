@@ -1,5 +1,3 @@
-{"propertySlug":"import","fileName":"listed-rung.text-property.types.ts","path":"story/game/turn/properties/system-window.record-property.types.ts"}
 {"propertySlug":"import","fileName":"listed-rung.text-property.types.ts","path":"story/game/turn/properties/turn-rungs.record-property.types.ts"}
-{"propertySlug":"page-property","path":"story/game/turn/properties/system-window.record-property.ts","id":"01a0c680-3679-76c4-9c9a-ac85779d4f39"}
 {"propertySlug":"page-property","path":"story/game/turn/properties/turn-rungs.record-property.ts","id":"01a0c6a3-8727-7638-9ad4-400f03486439"}
 {"propertySlug":"parts","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
