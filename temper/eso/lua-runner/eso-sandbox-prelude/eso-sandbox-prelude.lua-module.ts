@@ -55,6 +55,11 @@ export const esoSandboxPrelude = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A name of a shape the caller leaves unstubbed answers with nothing until something defines it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A banned name is taken off the real globals as well.",
     },
     {

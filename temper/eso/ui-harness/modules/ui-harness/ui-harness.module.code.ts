@@ -41,6 +41,8 @@ const MODEL_SLUGS: readonly string[] = [
 
 const NAMED = /^[A-Za-z_][A-Za-z0-9_]*$/
 
+const GAME_NAMES_UNSTUBBED = '__eso_leave_unstubbed("^ZO_")'
+
 const KEPT_FOR_THE_GAME: readonly string[] = ["debug"]
 
 const HARNESS_BANNED_GLOBALS: readonly string[] = ESO_BANNED_GLOBALS.filter(
@@ -197,7 +199,13 @@ export type OpenUiHarnessOptions = {
 export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise<UiHarness> {
   const vm = await makeSandboxedLuaVm({
     bannedGlobals: options.bannedGlobals ?? HARNESS_BANNED_GLOBALS,
-    loadedFirst: [...constantTexts(), ...modelTexts(), colorText(), ...returnTexts()],
+    loadedFirst: [
+      GAME_NAMES_UNSTUBBED,
+      ...constantTexts(),
+      ...modelTexts(),
+      colorText(),
+      ...returnTexts(),
+    ],
   })
   return {
     seed(name, value): undefined {

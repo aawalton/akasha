@@ -75,6 +75,20 @@ local numeric_constants = {
 
 local stubs = {}
 
+local unstubbed = {}
+
+function __eso_leave_unstubbed(shape)
+  unstubbed[#unstubbed + 1] = shape
+end
+
+local function left_unstubbed(key)
+  if type(key) ~= "string" then return false end
+  for _, shape in _pairs(unstubbed) do
+    if key:match(shape) then return true end
+  end
+  return false
+end
+
 local function make_env()
   return _setmetatable({}, {
     __index = function(t, key)
@@ -87,6 +101,7 @@ local function make_env()
       if multi_apis[key] then return multi_apis[key] end
       if numeric_constants[key] ~= nil then return numeric_constants[key] end
       if type(key) == "string" and key:match(STEPPING) then return ended_fn end
+      if left_unstubbed(key) then return nil end
       local held = stubs[key]
       if held ~= nil then return held end
       __eso_stubbed[key] = (__eso_stubbed[key] or 0) + 1
