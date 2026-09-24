@@ -83,6 +83,7 @@ export const role = {
         "A commit you remember is not a commit you read.",
         "A number you worked out is not a number you measured.",
         "A correction is a claim.",
+        "A deployed page is seen signed in through `akasha browser screenshot --signed-in`.",
       ],
     },
     {
