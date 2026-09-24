@@ -4,5 +4,5 @@
 {"propertySlug":"import","fileName":"agent-message-file.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-inbound/recipient-resolver-inbound.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-file.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-file.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
-{"propertySlug":"import","fileName":"agent-message-file.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"}
+{"propertySlug":"import","fileName":"agent-message-file.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"}
 {"propertySlug":"parts","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}

@@ -3,7 +3,7 @@ import { waitResumeNudge } from "akasha/agent/message/notice/pages/wait-resume-n
 import {
   decideWaitResume,
   type WaitResumeInput,
-} from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 
 export type WaitResumeVerdict =
   | {

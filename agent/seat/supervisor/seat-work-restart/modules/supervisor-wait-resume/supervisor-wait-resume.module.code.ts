@@ -5,19 +5,19 @@ import {
   hasRecentInboundMessage,
   SYSTEM_SOURCE,
   sendMessage,
-} from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import {
   type WaitResumeVerdict,
   waitResumeVerdict,
-} from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts"
 import {
   WAIT_MAX_MS,
   waitMs,
-} from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 import {
   CONNECTION_STATUS,
   classifyTurnEndErrorDeath,
-} from "akasha/agent/seat/supervisor/supervisor-resuming/modules/turn-end-error-death/turn-end-error-death.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-work-restart/modules/turn-end-error-death/turn-end-error-death.module.code.ts"
 import { tickSaying } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"

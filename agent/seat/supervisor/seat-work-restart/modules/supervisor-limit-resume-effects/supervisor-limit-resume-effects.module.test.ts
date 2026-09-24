@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { classifyRateLimitDeath } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
+import { classifyRateLimitDeath } from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 
 const LIMITED = JSON.stringify({
   type: "assistant",

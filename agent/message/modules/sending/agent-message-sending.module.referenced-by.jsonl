@@ -4,7 +4,7 @@
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.test.ts"}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"agent/message/recipient-resolving/modules/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts"}
-{"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"}
+{"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"alan/harness/reminder-system/modules/due-reminder-sending/due-reminder-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-sweeping/orphan-sweeping.module.code.ts"}

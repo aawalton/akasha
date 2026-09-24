@@ -4,5 +4,5 @@
 {"propertySlug":"import","fileName":"model-account-selection.module.code.ts","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.test.ts"}
 {"propertySlug":"import","fileName":"model-account-selection.module.code.ts","path":"agent/model/gateway/modules/rate-limit-refusal/rate-limit-refusal.module.code.ts"}
 {"propertySlug":"import","fileName":"model-account-selection.module.code.ts","path":"agent/model/gateway/modules/rate-limit-refusal/rate-limit-refusal.module.test.ts"}
-{"propertySlug":"import","fileName":"model-account-selection.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}
+{"propertySlug":"import","fileName":"model-account-selection.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}
 {"propertySlug":"parts","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}

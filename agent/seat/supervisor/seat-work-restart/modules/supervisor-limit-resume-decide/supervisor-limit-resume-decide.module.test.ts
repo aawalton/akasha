@@ -3,7 +3,7 @@ import {
   decideLimitResume,
   ELIGIBILITY_HOLD_MS,
   type LimitResumeInput,
-} from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
 
 const NOW = 5_000_000
 

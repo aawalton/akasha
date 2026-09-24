@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const supervisorResuming = {
+export const seatWorkRestart = {
   id: "01a09c76-b2be-7707-bd70-5331e793850e",
   type: "page-type/domain",
-  slug: "supervisor-resuming",
+  slug: "seat-work-restart",
   definition: "a seat nudged back into its work after a limit or a wait",
   parts: [
     "module/supervisor-limit-resume",

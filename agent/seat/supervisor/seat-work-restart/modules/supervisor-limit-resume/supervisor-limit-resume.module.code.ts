@@ -5,14 +5,14 @@ import { readOwnTranscriptTail } from "akasha/agent/modules/io-probe/io-probe.mo
 import {
   type LimitResumeVerdict,
   limitResumeVerdict,
-} from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-answer/supervisor-limit-resume-answer.module.code.ts"
-import { classifyRateLimitDeath } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-answer/supervisor-limit-resume-answer.module.code.ts"
+import { classifyRateLimitDeath } from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import {
   ANNOUNCE,
   hasRecentInboundMessage,
   SYSTEM_SOURCE,
   sendMessage,
-} from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import { tickSaying } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 import {

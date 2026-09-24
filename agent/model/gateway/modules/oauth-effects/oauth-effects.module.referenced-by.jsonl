@@ -12,7 +12,7 @@
 {"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.test.ts"}
 {"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts"}
-{"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}
+{"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-effects.module.test-fixtures.ts","path":"agent/model/gateway/modules/account-picker/account-picker.module.test.ts"}
 {"propertySlug":"import","fileName":"oauth-effects.module.test-fixtures.ts","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.test.ts"}
 {"propertySlug":"import","fileName":"oauth-effects.module.test-fixtures.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.test.ts"}

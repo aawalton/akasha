@@ -4,7 +4,7 @@ import {
   decideLimitResume,
   LIMIT_RESUME_FLOOR_MS,
   type LimitResumeInput,
-} from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
 
 export type LimitResumeVerdict =
   | {
