@@ -49,7 +49,7 @@ export const secret = {
       statement: "Two pages putting a value in one resource under one key are refused.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Something inside akasha places these secrets on the cluster.",
     },
     {

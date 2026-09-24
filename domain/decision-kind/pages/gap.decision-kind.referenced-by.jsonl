@@ -173,7 +173,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/logind-idle-action/logind-idle-action.provisioned-file.ts","id":"01a0d38a-686f-79ff-b78a-6378171c4ed4"}
 {"propertySlug":"decision-kind","path":"infrastructure/memory/limit/memory-limit.domain.ts","id":"01a09115-8c65-76a6-bdc1-cfddcc4acd88"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/modules/deploy-choosing/deploy-choosing.module.ts","id":"01a09574-737c-78fd-b3ed-fc94c505577b"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/secret/secret.page-type.ts","id":"01a0684a-7d55-7000-bf3d-deee6d805174"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.ts","id":"01a05b27-a75c-7fab-a630-6d98b13144e1"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/headscale/headscale.service-cluster.ts","id":"01a06812-2380-7204-bb6c-c05c012bbf72"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
