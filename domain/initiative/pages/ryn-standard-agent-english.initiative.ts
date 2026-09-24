@@ -35,7 +35,7 @@ export const rynStandardAgentEnglish = {
     "A word a taboo term or a banned term names does not enter the lexicon.",
     "A word enters the lexicon only where no plainer word says the same thing everywhere akasha writes that word.",
     "A word the domain around it gives a sense to is declared by that domain rather than entering the lexicon.",
-    "A word enters the lexicon only where that word is one part of speech everywhere akasha writes that word.",
+    "A word may be more than one part of speech, and a phrase that word makes ambiguous is refused.",
     "Which word or construction is put to Alan next is chosen here rather than asked of Alan.",
     "The wording put to Alan is the simplest, plainest and clearest, whatever words or constructions that wording needs.",
     "A wording is never chosen for needing fewer new words or constructions.",

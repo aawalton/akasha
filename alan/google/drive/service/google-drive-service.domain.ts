@@ -4,6 +4,6 @@ export const googleDriveService = {
   id: "01a0d570-a766-7e57-8085-4ae29f6412c6",
   type: "page-type/domain",
   slug: "google-drive-service",
-  definition: "an external service where people keep files",
+  definition: "an external service where people store files",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Google Drive" }],
 } as const satisfies Domain
