@@ -51,7 +51,7 @@ export const sessions = {
       statement: "A stretch with no end is the stretch running now.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A stretch is a row here rather than a page a query may ask of.",
     },
     {

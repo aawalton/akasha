@@ -32,7 +32,7 @@ export const music = {
       statement: "No music is kept in markdown.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every play Alan finishes is filed onto the day of that play.",
     },
     {
