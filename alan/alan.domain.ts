@@ -4,7 +4,7 @@ export const alan = {
   id: "01a05dfc-d883-7000-81e2-065c3cad4cec",
   type: "page-type/domain",
   slug: "alan",
-  definition: "what belongs to Alan himself",
+  definition: "Alan's life",
   parts: [
     "domain/alan-harness",
     "domain/anime",
