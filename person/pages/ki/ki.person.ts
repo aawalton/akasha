@@ -6,8 +6,8 @@ export const ki = {
   slug: "ki",
   definition: "Ki Goff, Alan's sister-in-law",
   spellings: [
-    { partOfSpeech: "part-of-speech/noun", spelling: "Ki" },
-    { partOfSpeech: "part-of-speech/noun", spelling: "Goff" },
+    { partOfSpeech: "part-of-speech/proper-noun", spelling: "Ki" },
+    { partOfSpeech: "part-of-speech/proper-noun", spelling: "Goff" },
   ],
   answeredBy: "persona/amy",
   phone: "+18015028196",

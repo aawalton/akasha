@@ -6,8 +6,8 @@ export const alan = {
   slug: "alan",
   definition: "the person akasha answers to",
   spellings: [
-    { partOfSpeech: "part-of-speech/noun", spelling: "Alan" },
-    { partOfSpeech: "part-of-speech/noun", spelling: "Walton" },
+    { partOfSpeech: "part-of-speech/proper-noun", spelling: "Alan" },
+    { partOfSpeech: "part-of-speech/proper-noun", spelling: "Walton" },
   ],
   directives: [
     {

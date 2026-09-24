@@ -1,3 +1,13 @@
+{"propertySlug":"part-of-speech","path":"agent/claude-code/claude-code.domain.ts","id":"01a065b0-2100-7a41-9c02-3e5197d4b91f"}
+{"propertySlug":"part-of-speech","path":"agent/claude-code/remote-control/claude-code-remote-control.domain.ts","id":"01a09c78-e5b9-709e-bc75-2a6425da7d7b"}
+{"propertySlug":"part-of-speech","path":"agent/model/provider/pages/anthropic/anthropic.model-provider.ts","id":"01a0a217-368a-7225-a40c-e59231bfb52b"}
+{"propertySlug":"part-of-speech","path":"person/pages/alan/alan.person.ts","id":"01a053fe-00ef-7d9b-9231-0340262cf86e"}
+{"propertySlug":"part-of-speech","path":"person/pages/david/david.person.ts","id":"01a053fe-00f0-7112-a569-989bfe576b71"}
+{"propertySlug":"part-of-speech","path":"person/pages/jenny/jenny.person.ts","id":"01a053fe-00f0-7efb-8843-89602ea5d18b"}
+{"propertySlug":"part-of-speech","path":"person/pages/joseph/joseph.person.ts","id":"01a053fe-00f1-710c-a23f-1afa9aeaa01f"}
+{"propertySlug":"part-of-speech","path":"person/pages/katara/katara.person.ts","id":"01a053fe-00f1-74b6-a49f-9f577dba1047"}
+{"propertySlug":"part-of-speech","path":"person/pages/ki/ki.person.ts","id":"01a053fe-00f2-7278-a312-a9d344de7526"}
+{"propertySlug":"part-of-speech","path":"person/pages/lizzy/lizzy.person.ts","id":"01a053fe-00f2-7cf3-92bc-694ea856500c"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-proper-noun-clause.construction.ts","id":"01a0d484-35d6-7cef-acb4-ad2d3941c10c"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/possessive-proper-noun.construction.ts","id":"01a0d484-15a4-77a3-860d-faf2687ae60a"}

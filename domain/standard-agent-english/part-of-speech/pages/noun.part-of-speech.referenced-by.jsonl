@@ -2,8 +2,6 @@
 {"propertySlug":"import","fileName":"noun.part-of-speech.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts"}
 {"propertySlug":"part-of-speech","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/app/claude-code-app.domain.ts","id":"01a0ca92-e69a-7119-b0d8-cbe2aad57593"}
-{"propertySlug":"part-of-speech","path":"agent/claude-code/claude-code.domain.ts","id":"01a065b0-2100-7a41-9c02-3e5197d4b91f"}
-{"propertySlug":"part-of-speech","path":"agent/claude-code/remote-control/claude-code-remote-control.domain.ts","id":"01a09c78-e5b9-709e-bc75-2a6425da7d7b"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/remote-control/registration-account/claude-code-remote-control-registration-account.domain.ts","id":"01a0ca81-1571-7e92-8c72-1283dae8a068"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/session/claude-code-session.domain.ts","id":"01a0c9aa-9160-7910-b58e-7182271d836f"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/session/event/claude-code-session-event.domain.ts","id":"01a0c9d8-4cc0-7474-8d6d-18890c44e6a5"}
@@ -16,7 +14,6 @@
 {"propertySlug":"part-of-speech","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}
 {"propertySlug":"part-of-speech","path":"agent/model/gateway/model-gateway.domain.ts","id":"01a06227-7bc1-72a3-8056-41b5ba88f99d"}
 {"propertySlug":"part-of-speech","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}
-{"propertySlug":"part-of-speech","path":"agent/model/provider/pages/anthropic/anthropic.model-provider.ts","id":"01a0a217-368a-7225-a40c-e59231bfb52b"}
 {"propertySlug":"part-of-speech","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"part-of-speech","path":"agent/seat/pty/pty.domain.ts","id":"01a0932f-f8ee-7c96-8069-edc7cda2dc6d"}
 {"propertySlug":"part-of-speech","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
@@ -172,13 +169,6 @@
 {"propertySlug":"part-of-speech","path":"page/type/page-property/page-property.page-type.ts","id":"01a04dff-9d7d-7459-a8c0-e038dc7714c3"}
 {"propertySlug":"part-of-speech","path":"page/view/view.page-type.ts","id":"01a0680d-4d00-7016-9f27-3b8a5d6c4117"}
 {"propertySlug":"part-of-speech","path":"person/email/email.domain.ts","id":"01a0675b-16e0-7215-9513-396b136194b4"}
-{"propertySlug":"part-of-speech","path":"person/pages/alan/alan.person.ts","id":"01a053fe-00ef-7d9b-9231-0340262cf86e"}
-{"propertySlug":"part-of-speech","path":"person/pages/david/david.person.ts","id":"01a053fe-00f0-7112-a569-989bfe576b71"}
-{"propertySlug":"part-of-speech","path":"person/pages/jenny/jenny.person.ts","id":"01a053fe-00f0-7efb-8843-89602ea5d18b"}
-{"propertySlug":"part-of-speech","path":"person/pages/joseph/joseph.person.ts","id":"01a053fe-00f1-710c-a23f-1afa9aeaa01f"}
-{"propertySlug":"part-of-speech","path":"person/pages/katara/katara.person.ts","id":"01a053fe-00f1-74b6-a49f-9f577dba1047"}
-{"propertySlug":"part-of-speech","path":"person/pages/ki/ki.person.ts","id":"01a053fe-00f2-7278-a312-a9d344de7526"}
-{"propertySlug":"part-of-speech","path":"person/pages/lizzy/lizzy.person.ts","id":"01a053fe-00f2-7cf3-92bc-694ea856500c"}
 {"propertySlug":"part-of-speech","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"part-of-speech","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"part-of-speech","path":"product/kofi/contributor/contributor.page-type.ts","id":"01a0ba90-5086-7a55-b63d-5bf48f551250"}
