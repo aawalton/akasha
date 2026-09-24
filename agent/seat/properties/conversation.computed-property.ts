@@ -13,6 +13,7 @@ export const conversation = {
     { pageProperty: "text-property/conversation-text", required: false, many: false },
     { pageProperty: "number-property/conversation-images", required: false, many: false },
     { pageProperty: "text-property/conversation-line", required: false, many: false },
+    { pageProperty: "text-property/conversation-sender", required: false, many: false },
     { pageProperty: "instant-property/conversation-at", required: false, many: false },
   ],
   code: "ts",

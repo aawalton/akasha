@@ -35,6 +35,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/log-day/properties/seat-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/claude-code-session-uuid.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/conversation-line.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/conversation-sender.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/conversation-text.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/gateway-version.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/interrupt-message.text-property.ts"}

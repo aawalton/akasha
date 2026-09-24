@@ -79,3 +79,30 @@ test("a tool with no subject is named alone", () => {
   expect(toolLine("TaskStop", "")).toBe("TaskStop")
   expect(toolLine("Grep", "listedKeys")).toBe("Grep(listedKeys)")
 })
+
+function channeled(sender: string): string {
+  return `<channel source="messages" sender="${sender}" source_type="user" message_id="m">\n\nhello\nthere\n\n</channel>`
+}
+
+test("a message Alan sent a seat is the person's, with no wrapper", () => {
+  const line = JSON.stringify({
+    type: "user",
+    isMeta: true,
+    timestamp: "t",
+    message: { role: "user", content: channeled("alan") },
+  })
+  expect(shapedLine(line)).toEqual({
+    entries: [{ kind: "person", text: "hello\nthere", images: 0, at: "t" }],
+  })
+})
+
+test("a message queued from anyone else names its sender", () => {
+  const line = JSON.stringify({
+    type: "attachment",
+    timestamp: "t",
+    attachment: { type: "queued_command", commandMode: "prompt", prompt: channeled("thea") },
+  })
+  expect(shapedLine(line)).toEqual({
+    entries: [{ kind: "message", sender: "thea", text: "hello\nthere", at: "t" }],
+  })
+})

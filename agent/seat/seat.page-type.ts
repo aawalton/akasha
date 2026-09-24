@@ -89,6 +89,7 @@ export const seat = {
     "number-property/conversation-images",
     "select-property/conversation-entry-kind",
     "text-property/conversation-line",
+    "text-property/conversation-sender",
     "text-property/conversation-text",
   ],
   properties: [

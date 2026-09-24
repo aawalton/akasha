@@ -26,7 +26,14 @@ export type TurnEnded = {
   readonly at?: string
 }
 
-export type ConversationEntry = PersonSaid | AgentSaid | ToolCalled | TurnEnded
+export type MessageSent = {
+  readonly kind: "message"
+  readonly sender: string
+  readonly text: string
+  readonly at?: string
+}
+
+export type ConversationEntry = PersonSaid | AgentSaid | ToolCalled | TurnEnded | MessageSent
 
 export type Shaped =
   | { readonly compacted: true }
@@ -64,6 +71,14 @@ const HARNESS_WROTE = [
   "<command-name>",
   "<task-notification>",
 ]
+
+const CHANNEL = /^\s*<channel\b([^>]*)>([\s\S]*?)<\/channel>\s*$/
+
+const SENDER = /\bsender="([^"]*)"/
+
+const UNNAMED_SENDER = "system"
+
+const PERSON_SENDER = "alan"
 
 const SECOND_MS = 1_000
 
@@ -131,8 +146,17 @@ export function toolLine(name: string, subject: string): string {
   return subject === "" ? name : `${name}(${subject})`
 }
 
+function channelSaid(text: string, at: { readonly at?: string }): ConversationEntry | null {
+  const channel = CHANNEL.exec(text)
+  if (channel === null) return null
+  const sender = SENDER.exec(channel[1] ?? "")?.[1] ?? UNNAMED_SENDER
+  const said = (channel[2] ?? "").trim()
+  if (sender === PERSON_SENDER) return { kind: "person", text: said, images: 0, ...at }
+  return { kind: "message", sender, text: said, ...at }
+}
+
 function personIn(record: Said): Shaped {
-  if (record.isMeta === true || record.isCompactSummary === true) return NOTHING
+  if (record.isCompactSummary === true) return NOTHING
   const blocks = blocksOf(record)
   const texts: string[] = []
   for (const block of blocks) {
@@ -142,7 +166,9 @@ function personIn(record: Said): Shaped {
   const images = blocks.filter((block) => block.type === IMAGE).length
   if (texts.length === 0 && images === 0) return NOTHING
   const text = texts.join(PARTED)
-  if (harnessWrote(text)) return NOTHING
+  const channel = channelSaid(text, timeOf(record))
+  if (channel !== null) return { entries: [channel] }
+  if (record.isMeta === true || harnessWrote(text)) return NOTHING
   return { entries: [{ kind: "person", text, images, ...timeOf(record) }] }
 }
 
@@ -172,6 +198,8 @@ function queuedIn(record: Said): Shaped {
   }
   const prompt = attached.prompt
   if (typeof prompt !== "string" || prompt.trim() === "") return NOTHING
+  const channel = channelSaid(prompt, timeOf(record))
+  if (channel !== null) return { entries: [channel] }
   return { entries: [{ kind: "person", text: prompt, images: 0, ...timeOf(record) }] }
 }
 

@@ -36,6 +36,14 @@ export const conversationShaping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A message Alan sent a seat is an entry of the person's, carrying only its words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message anyone else sent a seat is an entry naming its sender.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A tool call is one line naming the tool and the tool's subject.",
     },
     {

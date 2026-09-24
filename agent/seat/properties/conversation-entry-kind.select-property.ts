@@ -6,6 +6,6 @@ export const conversationEntryKind = {
   slug: "conversation-entry-kind",
   propertySlug: "kind",
   definition: "what one entry of a seat's conversation is",
-  values: ["person", "agent", "tool", "turn-end"],
+  values: ["person", "agent", "tool", "turn-end", "message"],
   types: "ts",
 } as const satisfies SelectProperty
