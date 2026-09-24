@@ -26,5 +26,10 @@ export const temperBuildHash = {
       decisionKind: "decision-kind/departure",
       statement: "Text that is no valid encoding is read as nothing rather than as bytes.",
     },
+    {
+  decisionKind: "decision-kind/departure",
+  statement:
+    "An entry of a table a build hash indexes is never moved or removed, and a new one goes at the end.",
+},
   ],
 } as const satisfies Domain
