@@ -5119,7 +5119,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/bank-trace-reading/bank-trace-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/eso-base-game-globals/eso-base-game-globals.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/eso-chatter-names/eso-chatter-names.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/eso-colon-methods/eso-colon-methods.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/explain-replay-reading/explain-replay-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/flag-fault-stage/flag-fault-stage.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/format-output/format-output.module.ts"}

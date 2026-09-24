@@ -11,7 +11,6 @@ export const temperCommand = {
     "module/bank-trace-reading",
     "module/eso-base-game-globals",
     "module/eso-chatter-names",
-    "module/eso-colon-methods",
     "module/explain-replay-reading",
     "module/flag-fault-stage",
     "module/format-output",
