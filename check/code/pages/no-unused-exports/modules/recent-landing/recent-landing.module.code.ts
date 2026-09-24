@@ -5,6 +5,8 @@ const A_DAY = 86_400_000
 
 const A_SECOND = 1000
 
+export const LATELY_SECONDS = A_DAY / A_SECOND
+
 const APART = "\0"
 
 const NOTHING = ""

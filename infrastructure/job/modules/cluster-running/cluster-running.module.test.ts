@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { LATELY_SECONDS } from "akasha/check/code/pages/no-unused-exports/modules/recent-landing/recent-landing.module.code.ts"
 import { ci } from "akasha/infrastructure/container-image/dockerfile/built-image/ci/ci.built-image.ts"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
@@ -53,9 +54,19 @@ test("a job fetches the commit it is made at rather than the whole history", () 
   expect(scriptOf(COMMIT, null)).toContain("git checkout -q FETCH_HEAD")
 })
 
-test("a job handed no earlier commit fetches one commit", () => {
-  expect(scriptOf(COMMIT, null).split("git fetch").length - 1).toBe(1)
-  expect(scriptOf(COMMIT, COMMIT).split("git fetch").length - 1).toBe(1)
+test("a job handed no earlier commit fetches that commit and the history behind it", () => {
+  const since = `--shallow-since=@$(( $(date +%s) - ${LATELY_SECONDS} ))`
+  expect(scriptOf(COMMIT, null)).toContain(`${since} origin ${COMMIT}`)
+  expect(scriptOf(COMMIT, null).split(COMMIT).length - 1).toBe(2)
+  expect(scriptOf(COMMIT, COMMIT).split(COMMIT).length - 1).toBe(2)
+})
+
+test("how far back that history reaches is read from the check reading it", () => {
+  expect(scriptOf(COMMIT, null)).toContain(`- ${LATELY_SECONDS} ))`)
+})
+
+test("a commit older than that history is fetched on its own rather than failing", () => {
+  expect(scriptOf(COMMIT, null)).toContain(`|| git fetch -q --depth 1 origin ${COMMIT}`)
 })
 
 test("a job fetches an earlier commit it is handed beside the commit it is made at", () => {
@@ -70,7 +81,8 @@ test("an earlier commit origin no longer carries leaves the rest of the job runn
 
 test("a fetch of the commit the transport dropped is made again after a pause", () => {
   const said = scriptOf(COMMIT, null)
-  expect(said).toContain(`until git fetch -q --depth 1 origin ${COMMIT}; do`)
+  expect(said).toContain("until git fetch -q --shallow-since=")
+  expect(said).toContain(`|| git fetch -q --depth 1 origin ${COMMIT}; do`)
   expect(said).toContain("sleep $((tried * 5))")
 })
 

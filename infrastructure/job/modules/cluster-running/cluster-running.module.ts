@@ -109,11 +109,23 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A job fetches an earlier commit it is handed beside the commit it is made at.",
+      statement: "A job fetches the history a check reads back over beside that commit.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A job handed no earlier commit fetches one commit.",
+      statement: "How far back that history reaches is read from the check reading it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A check asking what landed lately answers in a job as it answers at a landing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A commit older than that history is fetched on its own rather than failing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job fetches an earlier commit it is handed beside the commit it is made at.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -1,3 +1,4 @@
+import { LATELY_SECONDS } from "akasha/check/code/pages/no-unused-exports/modules/recent-landing/recent-landing.module.code.ts"
 import { HOLD } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
 import { type PushOutcome, pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import {
@@ -87,8 +88,10 @@ const FETCH_TRIES = 6
 
 const FETCH_PAUSE_SECONDS = 5
 
+const SINCE = `--shallow-since=@$(( $(date +%s) - ${LATELY_SECONDS} ))`
+
 function fetching(ref: string): string {
-  return `git fetch -q --depth 1 origin ${ref}`
+  return `git fetch -q ${SINCE} origin ${ref} || git fetch -q --depth 1 origin ${ref}`
 }
 
 function fetchedAgain(ref: string): string {
