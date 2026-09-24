@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-buy-explain-trace-builder/inventory-buy-explain-trace-builder.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-character-priority/inventory-character-priority.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall/inventory-craft-shortfall.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rules-core.module.code.ts","path":"temper/addon/pages/items/modules/inventory-events/inventory-events.module.code.ts"}

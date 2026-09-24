@@ -69,16 +69,18 @@ function computeUseAllocation(
   }
 }
 
-function currentCharPassesEligibility(conditions: CharEligibilityConditions | undefined): boolean {
-  if (conditions === undefined) return true
-  const hasGate =
+function hasEligibilityGate(conditions: CharEligibilityConditions | undefined): boolean {
+  if (conditions === undefined) return false
+  return (
     (conditions.requiredSkillLines !== undefined &&
       conditions.requiredSkillLines.skillLineIds.length > 0) ||
     conditions.requiredCurseState !== undefined ||
     conditions.canLevelMorphs !== undefined
-  if (!hasGate) return true
+  )
+}
 
-  const resolvers: EligibilityResolvers = {
+function eligibilityResolversFor(conditions: CharEligibilityConditions): EligibilityResolvers {
+  return {
     getCharacterSkillLineRanks:
       conditions.requiredSkillLines !== undefined
         ? buildGetCharacterSkillLineRanks()
@@ -87,8 +89,27 @@ function currentCharPassesEligibility(conditions: CharEligibilityConditions | un
       conditions.requiredCurseState !== undefined ? buildGetCharacterCurseState() : () => undefined,
     getCharacterCanLevelMorphs: canCharacterLevelMorphs,
   }
+}
+
+function currentCharPassesEligibility(conditions: CharEligibilityConditions | undefined): boolean {
+  if (conditions === undefined || !hasEligibilityGate(conditions)) return true
   const currentChar = characterId(tostring(GetCurrentCharacterId()))
-  return composeCharEligibilityPredicate(conditions, resolvers)(currentChar)
+  return composeCharEligibilityPredicate(
+    conditions,
+    eligibilityResolversFor(conditions)
+  )(currentChar)
+}
+
+export function countEligibleCharacters(conditions: CharEligibilityConditions | undefined): number {
+  const currentChar = characterId(tostring(GetCurrentCharacterId()))
+  const priority = buildCompiledCharacterPriority(currentChar)
+  if (conditions === undefined || !hasEligibilityGate(conditions)) return priority.length
+  const passes = composeCharEligibilityPredicate(conditions, eligibilityResolversFor(conditions))
+  let count = 0
+  for (const one of priority) {
+    if (passes(one)) count++
+  }
+  return count
 }
 
 function resolveStockChainForCurrentChar(

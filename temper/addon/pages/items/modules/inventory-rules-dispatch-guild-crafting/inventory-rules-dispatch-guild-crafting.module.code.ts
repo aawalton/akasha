@@ -1,5 +1,6 @@
 import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
+import { dispatchCraftShortfall } from "akasha/temper/addon/pages/items/modules/inventory-craft-shortfall/inventory-craft-shortfall.module.code.ts"
 import { getGuildBankLocationKey } from "akasha/temper/addon/pages/items/modules/inventory-location-keys/inventory-location-keys.module.code.ts"
 import {
   clearPendingAction,
@@ -225,7 +226,9 @@ function collectBankDeconTargets(
 }
 
 export function onOpenCraftingStation(): undefined {
-  if (dispatchWritCrafting()) return
+  const writCrafting = dispatchWritCrafting()
+  const shortfallCrafting = dispatchCraftShortfall(GetCraftingInteractionType()) > 0
+  if (writCrafting || shortfallCrafting) return
 
   const currentCharId = tostring(GetCurrentCharacterId())
   const characterPrefix = "character:"

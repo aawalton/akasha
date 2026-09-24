@@ -7,4 +7,14 @@ export const inventoryRulesDispatchGuildCrafting = {
   definition:
     "what happens at a guild bank or a crafting station: research and deconstruction targets",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A station crafts its writs first and the stocking rules' shortfalls after them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A station crafting anything deconstructs and researches nothing on that visit.",
+    },
+  ],
 } as const satisfies Module

@@ -1,3 +1,4 @@
+import type { RequiredSkill } from "akasha/temper/addon/pages/items/crafting-station/modules/writ-required-skill/writ-required-skill.module.code.ts"
 import { computeCraftIterations } from "akasha/temper/addon/pages/items/modules/inventory-writ-crafting-iterations/inventory-writ-crafting-iterations.module.code.ts"
 import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import { computeBuyShortfall } from "akasha/temper/items/rules/core/modules/buy-rule-eval/buy-rule-eval.module.code.ts"
@@ -60,6 +61,11 @@ export function craftsToFill(
   maxCrafts: number
 ): number {
   return computeCraftIterations(computeBuyShortfall(target, held), yieldPerCraft, maxCrafts)
+}
+
+export function yieldPassive(this: void, skill: RequiredSkill): PassiveNeed {
+  skill.IsMaxxed()
+  return { passive: skill.Name(), have: skill._have ?? 0, need: skill._max ?? 0 }
 }
 
 export function firstUnmetPassive(needs: readonly PassiveNeed[]): PassiveNeed | undefined {

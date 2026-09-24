@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"inventory-rule-compiler-types.module.code.ts","path":"command/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rule-compiler-types.module.code.ts","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rule-compiler-types.module.code.ts","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.test.ts"}
+{"propertySlug":"import","fileName":"inventory-rule-compiler-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall/inventory-craft-shortfall.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rule-compiler-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rule-compiler-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-item-rule-verdict-store/inventory-item-rule-verdict-store.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rule-compiler-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-conditions-render/inventory-rules-conditions-render.module.code.ts"}

@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-buy-explain-slash-command/inventory-buy-explain-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-config/inventory-config.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall/inventory-craft-shortfall.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-currency/inventory-currency.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-saved-variables-ref.module.code.ts","path":"temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"}
