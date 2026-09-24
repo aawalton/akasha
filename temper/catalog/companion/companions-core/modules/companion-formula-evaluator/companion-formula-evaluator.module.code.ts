@@ -8,9 +8,20 @@ import { evaluateArithmeticNode } from "akasha/temper/player/character/formula-f
 import { convertRatingToChance } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 
 interface CompanionFormulaContext {
+  computing: CompanionMetricId
   metricValues: Map<CompanionMetricId, number>
   sources: readonly CompanionEffectSource[]
   roles: readonly CompanionBaseRoleId[]
+}
+
+function readMetricValue(context: CompanionFormulaContext, metricId: CompanionMetricId): number {
+  const value = context.metricValues.get(metricId)
+  if (value === undefined) {
+    throw new Error(
+      `Companion formula for ${context.computing} names ${metricId}, which has no value`
+    )
+  }
+  return value
 }
 
 export function sumEffects(
@@ -41,7 +52,7 @@ function evaluateCompanionLeaf(
 ): number {
   switch (node.type) {
     case "metric-ref": {
-      const value = context.metricValues.get(node.metricId) ?? 0
+      const value = readMetricValue(context, node.metricId)
 
       if (node.convertRatingToChance) {
         const metric = companionMetrics.data[node.metricId]
@@ -66,7 +77,7 @@ function evaluateCompanionLeaf(
       let total = 0
       for (const operand of node.operands) {
         if (context.roles.includes(operand.role)) {
-          let value = context.metricValues.get(operand.metricRef) ?? 0
+          let value = readMetricValue(context, operand.metricRef)
           if (operand.scale !== undefined) value *= operand.scale
           total += value
         }
@@ -105,12 +116,13 @@ function evaluateCompanionLeaf(
 }
 
 export function evaluateFormula(
+  computing: CompanionMetricId,
   formula: CompanionFormulaNode,
   metricValues: Map<CompanionMetricId, number>,
   sources: readonly CompanionEffectSource[],
   roles: readonly CompanionBaseRoleId[] = []
 ): number {
-  const context: CompanionFormulaContext = { metricValues, sources, roles }
+  const context: CompanionFormulaContext = { computing, metricValues, sources, roles }
   return evaluateArithmeticNode(formula, context, evaluateCompanionLeaf)
 }
 

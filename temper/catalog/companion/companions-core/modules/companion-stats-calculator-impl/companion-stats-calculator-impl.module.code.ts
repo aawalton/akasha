@@ -93,7 +93,7 @@ export function calculateCompanionStatsWithBaseline(
 
   for (const metric of sortedFormulaMetrics) {
     if (rotationMetricIds.has(metric.id)) continue
-    const value = evaluateFormula(metric.formula, metricValues, sources)
+    const value = evaluateFormula(metric.id, metric.formula, metricValues, sources)
     metricValues.set(metric.id, value)
   }
 
@@ -167,6 +167,7 @@ export function calculateCompanionStatsWithBaseline(
   const scoreMetric = companionMetrics.data["companion-score"]
   if (scoreMetric.formula) {
     const scoreValue = evaluateFormula(
+      "companion-score",
       scoreMetric.formula,
       metricValues,
       sources,

@@ -6,6 +6,7 @@ export const companionFormulaEvaluator = {
   slug: "companion-formula-evaluator",
   definition: "the number a companion metric's formula tree works out to",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -16,8 +17,9 @@ export const companionFormulaEvaluator = {
       statement: "An arithmetic node reaching the leaf evaluator throws.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A metric reference missing from the value map reads as zero.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A metric reference missing from the value map is refused, naming both the formula and that metric.",
     },
   ],
 } as const satisfies Module
