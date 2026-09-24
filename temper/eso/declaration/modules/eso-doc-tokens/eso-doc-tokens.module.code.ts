@@ -204,6 +204,8 @@ export function parseEnums(content: string): ParsedEnum[] {
 
 const FUNCTION_LINE = /^\*\s+(\w+)(?:\s+\*([a-z-]+)\*)?\s*\((.*)\)$/
 
+const FunctionLineSchema = z.tuple([z.string(), z.string(), z.string().optional(), z.string()])
+
 const OBJECT_API = "h2. Object API"
 
 const EVENTS = "h2. Events"
@@ -253,14 +255,14 @@ export function parseFunctions(content: string): ParsedFunction[] {
   let hasVariableReturns = false
 
   for (const line of sectionLines) {
-    const funcMatch = FUNCTION_LINE.exec(line)
-    if (funcMatch) {
+    const funcMatch = FunctionLineSchema.safeParse(FUNCTION_LINE.exec(line))
+    if (funcMatch.success) {
       if (currentFunc) {
         currentFunc.hasVariableReturns = hasVariableReturns
         functions.push(currentFunc)
       }
 
-      const [, funcName = "", access, paramsStr = ""] = funcMatch
+      const [, funcName, access, paramsStr] = funcMatch.data
 
       currentFunc = {
         name: funcName,
