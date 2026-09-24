@@ -8,9 +8,5 @@ export const theFalseHaven = {
   world: "world/personas",
   about: "place/the-tower-floor-05",
   loreDisclosure: "lore-disclosure/game-master",
-  facts: [
-    "The False Haven re-weaves to pristine whenever Alan leaves it.",
-    "A true form killed in the False Haven stays dead.",
-    "A wounded enemy in the False Haven is whole again when Alan returns.",
-  ],
+  facts: ["Nothing weaves the False Haven now, so it and its wounded remain as they are left."],
 } as const satisfies Lore
