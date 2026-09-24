@@ -292,7 +292,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lorebook/temper-lorebook.domain.ts","id":"01a06176-9c44-7c00-8a3b-7cf902e62430"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-skyshard.domain.ts","id":"01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.ts","id":"01a068e2-226d-7781-8c70-c328fa164cff"}
-{"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.ts","id":"01a060cf-b0b2-743e-9d82-ea94a110b9cb"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/companion-gear-ids/companion-gear-ids.module.ts","id":"01a060bf-747d-7dee-bf58-1559bc114b90"}
 {"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-doc-tokens/eso-doc-tokens.module.ts","id":"01a0673e-3ddf-7001-acad-9b0751ef4567"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-control-methods/ui-control-methods.lua-module.ts","id":"01a0d40c-1f7a-7728-a4c9-f977dcaff8a8"}

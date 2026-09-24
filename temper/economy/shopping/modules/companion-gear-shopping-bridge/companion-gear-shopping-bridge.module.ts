@@ -11,10 +11,7 @@ export const companionGearShoppingBridge = {
       decisionKind: "decision-kind/departure",
       statement: "The gear a build wants is stated here as the fields this module reads.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Where a gear need is worked out is a package akasha has yet to hold.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Four fields of a need together make the key one recommendation comes back under.",
