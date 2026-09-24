@@ -79,7 +79,6 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/context-frames.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/context.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/control-plane-ips.argument.ts"}
-{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/counts.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/cursor.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/cut-at.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/cutout-out.argument.ts"}
