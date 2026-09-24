@@ -22,19 +22,21 @@ import type {
 import { parseWatcherLine } from "akasha/temper/watcher/modules/watcher-log-line/watcher-log-line.module.code.ts"
 import { mergeNewestFirst } from "akasha/temper/watcher/modules/watcher-log-merging/watcher-log-merging.module.code.ts"
 import { watcherLogDir } from "akasha/temper/watcher/modules/watcher-paths/watcher-paths.module.code.ts"
+import { z } from "zod"
 
 const NAMED = [limitArgument, sinceArgument, logDirArgument, jsonInOneObject]
 
-const UNITS: Readonly<Record<string, number>> = { s: 1000, m: 60000, h: 3600000, d: 86400000 }
+const UNITS = { s: 1000, m: 60000, h: 3600000, d: 86400000 } as const
 
 const DURATION = /^(\d+)([smhd])$/
 
+const DURATION_SAID = z.tuple([z.string(), z.coerce.number().int(), z.enum(["s", "m", "h", "d"])])
+
 function millisOf(said: string): number | null {
-  const found = DURATION.exec(said)
-  if (found === null) return null
-  const count = Number.parseInt(found[1] as string, 10)
-  const unit = UNITS[found[2] as string]
-  return unit === undefined ? null : count * unit
+  const found = DURATION_SAID.safeParse(DURATION.exec(said)).data
+  if (found === undefined) return null
+  const [, count, unit] = found
+  return count * UNITS[unit]
 }
 
 function linesIn(path: string, source: LogSource): readonly WatcherLogLine[] | null {
