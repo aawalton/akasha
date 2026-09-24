@@ -79,14 +79,10 @@ Several render paths hide unearned information *by design*. A successor who "com
 
 - Serves this dir with `Cache-Control: no-store` so `state.json` is always fresh. Never reads/writes
   `state.json`; owns `actions.json` exclusively (serialized read-modify-write via `withActionsLock`).
-- **POST /action** → `routeAction()` → `bun ops agent send iris --agent-id <ACTION_BOX_AGENT_ID> --content <text>`,
-  then persists an echo to `actions.json` so it survives a browser reload. The echo shows while its
-  `baselineBeatId` equals the live last-narrative-beat id, and clears when the responding beat lands.
-- **`ACTION_BOX_AGENT_ID` (`019ef9ea-83e2-707e-b1f3-3b70875a8e88`) is pinned config, NOT ambient
-  `AGENT_ID`.** It is the identity iris trusts as *Alan's input*. An explicit `--agent-id` overrides env
-  `AGENT_ID`, so a keepalive/OOM restart under some *other* agent's creds can't silently misattribute
-  every action. Override via `TOWER_ACTION_BOX_AGENT_ID` if the trusted identity changes.
-  ⚠️ **This hardcodes the recipient `iris` and iris's id — see "Reseat gotcha" below.**
+- Alan's actions do not pass through `serve.ts`. The action bar on the played story page
+  (`/story-played/the-tower-fa95fb44`) posts to `/api/action-bar`, which writes an agent message from
+  `alan-action-bar` to the seat the game page names as its coordinator agent,
+  `iris-game-master-the-tower`. Moving the game to another seat is a change to that game page.
 
 ## Launch & self-heal — USE `run.sh`, not a bare `serve.ts`
 
@@ -132,15 +128,6 @@ write-side projection shape, so if you change the contract you likely change thi
   Affinity tier is currently fused into the name, so affinity *promotion* can't fire until entries get a
   separate `tier` field (forward-compatible; next promotion is far off).
 
-## Reseat gotcha — READ if the GM seat is moving (⚠️ live during the #15155 cascade)
-
-`serve.ts` routes every player action to **`iris`** with iris's pinned agent-id. When the Tower is
-reseated from `iris` onto a new GM seat (`awen-gm--the-tower`, #15155), the action box will keep
-delivering Alan's typed actions to the OLD seat until `ACTION_BOX_AGENT_ID` (and the `send iris`
-recipient) are repointed at the new seat. This is a display-code change (mine), but WHO the new seat is
-and WHEN to cut over is a story/ops decision — escalate to iris-manager before editing serve.ts.
-The env override `TOWER_ACTION_BOX_AGENT_ID` exists precisely so the id can be repointed without a code
-edit; the recipient string `iris` in `routeAction()` would still need updating (or aliasing).
 
 ## Candidate-revision resolution (#15155 retire sub-gate) — DISCARDED 2026-07
 
