@@ -27,6 +27,7 @@ struct ActivityStoplight: Codable, Hashable, Identifiable {
     let reading: String?
     let nextTier: String?
     let progress: Double?
+    var readingHeld: String? = nil
 
     var id: String { key }
 }
