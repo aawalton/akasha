@@ -5,6 +5,7 @@ import { changeMechanical } from "akasha/change/mechanical/change-mechanical.pag
 import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import {
   buildctlAt,
@@ -82,8 +83,7 @@ const HASH_HELD = /ADDON_BUNDLE_CONTENT_HASH\s*=\s*"([0-9a-f]{64})"/
 
 function hashHeldIn(held: string | null): string | null {
   if (held === null) return null
-  const found = HASH_HELD.exec(held)
-  return found === null ? null : (found[1] ?? null)
+  return firstCapture(HASH_HELD.exec(held))
 }
 
 function tagBody(contentHash: string): string {

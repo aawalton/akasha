@@ -24,6 +24,18 @@ import {
   type Fetcher,
   type Sleeper,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { z } from "zod"
+
+const ASKED_SAID = z.looseObject({
+  pageTypeSlug: z.string(),
+  where: z.looseObject({ slug: z.looseObject({ is: z.string() }) }),
+})
+
+const SENT_SAID = z.looseObject({
+  kept: z.array(z.strictObject({ path: z.string(), values: z.record(z.string(), z.unknown()) })),
+  writer: z.string().optional(),
+  message: z.string().optional(),
+})
 
 const SCRATCH = "/var/tmp"
 
@@ -94,7 +106,7 @@ test("a page the pages answer no row for is read as no commit", async () => {
 test("the commit is asked of the pages under the page type and slug the path names", async () => {
   const held = answering(null, 200, [{ slug: "one", [DEPLOYED_COMMIT]: COMMIT }])
   expect(await commitKeptIn(AT, DEPLOYED_COMMIT, pages(held))).toBe(COMMIT)
-  const asked = JSON.parse(held.asked())
+  const asked = ASKED_SAID.parse(JSON.parse(held.asked()))
   expect(asked.pageTypeSlug).toBe("service-cluster")
   expect(asked.where.slug.is).toBe("one")
 })
@@ -172,7 +184,7 @@ test("another kind's commit is kept by a write handed to the pages rather than b
   const held = answering({ commit: null, wrote: [AT], took: [] })
   const wrong = await recordedCommit("one", AT, COMMIT, pages(held))
   expect(wrong).toEqual([])
-  const body = JSON.parse(held.sent())
+  const body = SENT_SAID.parse(JSON.parse(held.sent()))
   expect(body.kept).toEqual([{ path: AT, values: { [DEPLOYED_COMMIT]: COMMIT } }])
   expect(body.writer).toMatch(AUTHORED)
   expect(body.message).toContain(DEPLOYED_COMMIT)
@@ -233,6 +245,6 @@ test("every other kind's refusal is written to the pages under its own key", asy
 
   expect(await recordedRefusal("one", AT, COMMIT, [WHY], pages(held))).toEqual([])
 
-  const body = JSON.parse(held.sent())
+  const body = SENT_SAID.parse(JSON.parse(held.sent()))
   expect(body.kept).toEqual([{ path: AT, values: { [DEPLOY_REFUSAL]: WHY } }])
 })
