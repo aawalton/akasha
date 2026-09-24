@@ -8,6 +8,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import {
   type ArmorSlotId,
   armorSlots,
@@ -19,7 +20,6 @@ import {
   armorTraitsBuildList,
 } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import {
@@ -50,7 +50,7 @@ import {
 import { useMemo, useState } from "react"
 
 export interface ArmorUpdateParams {
-  set?: SetsAllId
+  set?: Slug
   weight?: StandardArmorWeightId
   trait?: ArmorTraitId
   enchantment?: ArmorEnchantId
@@ -113,7 +113,7 @@ export function ArmorCard({
     )
   }, [selectedSet, slot])
 
-  const handleSetSelect = (setId: SetsAllId) => {
+  const handleSetSelect = (setId: Slug) => {
     const newSet = getSetById(setId, availableSets)
     let updatedWeight: StandardArmorWeightId | undefined = armorWeightId ?? "no-weight"
     const quality: EquipmentQualityOptionId | undefined =

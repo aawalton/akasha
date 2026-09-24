@@ -1,6 +1,7 @@
 "use client"
 
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import {
   type ArmorSlotId,
   armorSlots,
@@ -12,7 +13,6 @@ import {
   armorTraits as armorTraitsData,
 } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import { groupByCount } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import {
   type ArmorEnchantId,
@@ -183,7 +183,7 @@ export function ArmorPanelCard({
     onUpdate(bulkUpdateArmorQuality(equipment, oldValue, newValue))
   }
 
-  const handleBulkUpdateArmorSet = (oldValue: SetsAllId, newValue: SetsAllId) => {
+  const handleBulkUpdateArmorSet = (oldValue: Slug, newValue: Slug) => {
     onUpdate(bulkUpdateArmorSet(equipment, oldValue, newValue, availableSets))
   }
 

@@ -1,6 +1,6 @@
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import { weaponBars } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts"
 import { weaponSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
-import type { SetId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import type {
   Loadout,
@@ -52,7 +52,7 @@ export function getEquippedMythicSetId(
 }
 
 export function getMythicSlots<T extends { id: string }>(
-  items: Record<string, { itemType?: string; data?: { set?: SetId } | null; set?: SetId }>,
+  items: Record<string, { itemType?: string; data?: { set?: Slug } | null; set?: Slug }>,
   availableSets: readonly SetTemplate[],
   slots: readonly T[]
 ): Record<string, string> {

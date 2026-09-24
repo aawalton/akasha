@@ -9,6 +9,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { WeaponBar } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts"
 import {
@@ -20,7 +21,6 @@ import {
   armorTraits,
   armorTraitsBuildList,
 } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import {
   type WeaponTraitId,
@@ -135,7 +135,7 @@ export function WeaponCard({
     return weaponTypes.list.filter((t) => t.id === "no-type" || validTypeIds.includes(t.id))
   }, [selectedSet, slotId])
 
-  const handleSetSelect = (setId: SetsAllId) => {
+  const handleSetSelect = (setId: Slug) => {
     const newSet = getSetById(setId, availableSets)
     let updatedType: WeaponTypeId | undefined =
       item.itemType === "weapon" ? item.data.type : undefined

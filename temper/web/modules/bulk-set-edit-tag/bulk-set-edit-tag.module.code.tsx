@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import { canClassEquipSet } from "akasha/temper/player/character/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.code.ts"
 import {
@@ -20,9 +20,9 @@ import { FilterableSelectDialog } from "akasha/temper/web/modules/filterable-sel
 import { useMemo, useState } from "react"
 
 interface BulkSetEditTagProps {
-  currentValue: SetsAllId
+  currentValue: Slug
   availableSets: readonly SetsAll[]
-  onSelect: (oldValue: SetsAllId, newValue: SetsAllId) => void
+  onSelect: (oldValue: Slug, newValue: Slug) => void
   count: number
   slotType: "armor" | "jewelry" | "weapon"
   mythicSlot?: string | null
@@ -78,7 +78,7 @@ export function BulkSetEditTag({
     return isSetSourceId(candidate) ? candidate : NO_SET_SOURCE.id
   }, [currentValue, selectedSet])
 
-  const extractSetId = (setSourceId: SetSourceId): SetsAllId => {
+  const extractSetId = (setSourceId: SetSourceId): Slug => {
     const stripped = setSourceId.replace(/^set-/, "").replace(/-\d+$/, "")
     return isSetsAllId(stripped) ? stripped : currentValue
   }

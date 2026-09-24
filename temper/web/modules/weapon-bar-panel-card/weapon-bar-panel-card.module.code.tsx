@@ -1,9 +1,9 @@
 "use client"
 
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { weaponSlots as weaponSlotsData } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import {
   type WeaponTraitId,
   weaponTraitsBuildList,
@@ -161,7 +161,7 @@ export function WeaponBarPanelCard({
     onUpdate(bulkUpdateWeaponQuality(equipment, oldValue, newValue))
   }
 
-  const handleBulkUpdateWeaponSet = (oldValue: SetsAllId, newValue: SetsAllId) => {
+  const handleBulkUpdateWeaponSet = (oldValue: Slug, newValue: Slug) => {
     onUpdate(bulkUpdateWeaponSet(equipment, oldValue, newValue, availableSets))
   }
 

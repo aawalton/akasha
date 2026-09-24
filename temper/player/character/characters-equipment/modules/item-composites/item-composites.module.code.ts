@@ -1,3 +1,4 @@
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { StandardArmorType } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
 import type {
   EquipmentQualityId,
@@ -7,7 +8,6 @@ import type { JewelryTypeId } from "akasha/temper/catalog/gear/equipment/kind/mo
 import type { ArmorTraitId } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { JewelryTraitId } from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
-import type { SetId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { WeaponTraitId } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import type { ArmorEnchantId } from "akasha/temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
@@ -39,7 +39,7 @@ export interface StandardArmorItem {
   weight: StandardArmorWeightId
   trait: ArmorTraitId
   enchantment: ArmorEnchantId
-  set: SetId
+  set: Slug
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
   level?: ItemLevel
@@ -50,7 +50,7 @@ export interface ShieldItem {
   weight: "shield"
   trait: ArmorTraitId
   enchantment: ArmorEnchantId
-  set: SetId
+  set: Slug
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
   level?: ItemLevel
@@ -62,7 +62,7 @@ export interface JewelryItem {
   type: JewelryTypeId
   trait: JewelryTraitId
   enchantment: JewelryEnchantId
-  set: SetId
+  set: Slug
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
   level?: ItemLevel
@@ -73,7 +73,7 @@ export interface WeaponItem {
   trait: WeaponTraitId
   enchantment: WeaponEnchantmentId
   poison: PoisonId
-  set: SetId
+  set: Slug
   quality?: EquipmentQualityOptionId
   enchantmentQuality?: EquipmentQualityId
   level?: ItemLevel

@@ -1,6 +1,6 @@
 import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { EquipmentQualityId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import type { SetId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import { setsAll } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import { isMetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
@@ -90,7 +90,7 @@ function scaleSetBonusEffect(effect: Effect, multiplier: number): Effect {
 }
 
 export function createSetSource(
-  setId: SetId,
+  setId: Slug,
   pieceCount: number,
   pieceQualities?: readonly EquipmentQualityId[]
 ): SetSource | null {

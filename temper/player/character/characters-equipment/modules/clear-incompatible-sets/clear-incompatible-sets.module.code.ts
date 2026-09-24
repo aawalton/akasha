@@ -1,4 +1,4 @@
-import type { SetId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type {
   Loadout,
   WeaponSlot,
@@ -8,7 +8,7 @@ import { keysOf } from "akasha/temper/player/character/formula-framework/modules
 
 export function clearIncompatibleSets(
   loadout: Loadout,
-  incompatibleSetIds: readonly SetId[]
+  incompatibleSetIds: readonly Slug[]
 ): Loadout {
   const incompatibleIds = new Set(incompatibleSetIds)
 

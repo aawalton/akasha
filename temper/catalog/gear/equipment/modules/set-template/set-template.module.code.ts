@@ -1,5 +1,5 @@
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { SetCategoryId } from "akasha/temper/catalog/gear/equipment/modules/set-category-ids/set-category-ids.module.code.ts"
-import type { SetId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { EquipmentPattern } from "akasha/temper/catalog/gear/equipment/modules/set-patterns/set-patterns.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
@@ -14,7 +14,7 @@ export interface SetBonus {
 }
 
 export interface SetTemplate {
-  id: SetId
+  id: Slug
   name: string
   subcategoryId: SetCategoryId
   valid: readonly EquipmentPattern[]

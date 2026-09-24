@@ -1,11 +1,11 @@
 "use client"
 
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import { armorSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import { weaponBars } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts"
 import { weaponSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import { groupByCount } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
@@ -48,7 +48,7 @@ export function GlobalSetBulkEditTags({
   playerClass,
 }: GlobalSetBulkEditTagsProps) {
   const allSetIds = useMemo(() => {
-    const setIds: SetsAllId[] = []
+    const setIds: Slug[] = []
 
     for (const slot of armorSlots.list) {
       const item = equipment.armor[slot.id]
@@ -144,7 +144,7 @@ export function GlobalSetBulkEditTags({
     return { ...armorMythicSlots, ...jewelryMythicSlots, ...weaponMythicSlots }
   }, [equipment, availableSets])
 
-  const handleBulkUpdateSet = (oldValue: SetsAllId, newValue: SetsAllId) => {
+  const handleBulkUpdateSet = (oldValue: Slug, newValue: Slug) => {
     onUpdate(bulkUpdateAllSets(equipment, oldValue, newValue, availableSets))
   }
 

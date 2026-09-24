@@ -1,6 +1,7 @@
 "use client"
 
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   type JewelrySlotId,
@@ -11,7 +12,6 @@ import {
   jewelryTraits,
   jewelryTraitsBuildList,
 } from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import { groupByCount } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import {
   bulkUpdateJewelryEnchant,
@@ -140,7 +140,7 @@ export function JewelryPanelCard({
     onUpdate(bulkUpdateJewelryQuality(equipment, oldValue, newValue))
   }
 
-  const handleBulkUpdateJewelrySet = (oldValue: SetsAllId, newValue: SetsAllId) => {
+  const handleBulkUpdateJewelrySet = (oldValue: Slug, newValue: Slug) => {
     onUpdate(bulkUpdateJewelrySet(equipment, oldValue, newValue, availableSets))
   }
 

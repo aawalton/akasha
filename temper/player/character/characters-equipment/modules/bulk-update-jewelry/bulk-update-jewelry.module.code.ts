@@ -1,7 +1,7 @@
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import type { JewelryTraitId } from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
-import type { SetId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import type { JewelryEnchantId } from "akasha/temper/player/character/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"
 import type { Loadout } from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
@@ -51,8 +51,8 @@ export function bulkUpdateJewelryEnchant(
 
 export function bulkUpdateJewelrySet(
   equipment: Loadout,
-  oldValue: SetId,
-  newValue: SetId,
+  oldValue: Slug,
+  newValue: Slug,
   availableSets: readonly SetTemplate[]
 ): Partial<Loadout> {
   const newJewelry = { ...equipment.jewelry }

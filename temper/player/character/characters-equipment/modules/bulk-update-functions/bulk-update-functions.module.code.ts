@@ -1,5 +1,5 @@
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import type { SetId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import {
   bulkUpdateArmorQuality,
@@ -17,8 +17,8 @@ import type { Loadout } from "akasha/temper/player/character/characters-equipmen
 
 export function bulkUpdateAllSets(
   equipment: Loadout,
-  oldValue: SetId,
-  newValue: SetId,
+  oldValue: Slug,
+  newValue: Slug,
   availableSets: readonly SetTemplate[]
 ): Partial<Loadout> {
   return {

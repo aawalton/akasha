@@ -1,6 +1,6 @@
 "use client"
 
-import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import { convertIconPathToUrl } from "akasha/temper/player/character/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
 import { canClassEquipSet } from "akasha/temper/player/character/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.code.ts"
@@ -25,14 +25,14 @@ import { useMemo } from "react"
 interface SetSelectDialogProps {
   open: boolean
   onOpenChange: (open: boolean) => void
-  selectedSetId: SetsAllId
-  onSelect: (setId: SetsAllId) => void
+  selectedSetId: Slug
+  onSelect: (setId: Slug) => void
   availableSets: readonly SetsAll[]
   playerClass?: ClassId | null
   equippedMythicSetId?: string | null
 }
 
-export function getSetById(id: SetsAllId, sets: readonly SetsAll[]): SetsAll | undefined {
+export function getSetById(id: Slug, sets: readonly SetsAll[]): SetsAll | undefined {
   if (id === "no-set") return undefined
   return sets.find((s) => s.id === id)
 }
@@ -72,7 +72,7 @@ export function SetSelectDialog({
     return isSetSourceId(candidate) ? candidate : NO_SET_SOURCE.id
   }, [selectedSetId, availableSets])
 
-  const extractSetId = (setSourceId: SetSourceId): SetsAllId => {
+  const extractSetId = (setSourceId: SetSourceId): Slug => {
     const stripped = setSourceId.replace(/^set-/, "").replace(/-\d+$/, "")
     return isSetsAllId(stripped) ? stripped : selectedSetId
   }

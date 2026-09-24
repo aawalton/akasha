@@ -1,8 +1,8 @@
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,
 } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type {
   ArmorSlotItem,
   JewelrySlotItem,
@@ -17,7 +17,7 @@ import type { PipelineStage } from "akasha/temper/player/character/stat/modules/
 
 function getSetInfo(
   item: ArmorSlotItem | JewelrySlotItem | WeaponSlotItem
-): { setId: SetsAllId; quality: EquipmentQualityId } | null {
+): { setId: Slug; quality: EquipmentQualityId } | null {
   if (item.itemType === "empty" || item.data.set === "no-set") {
     return null
   }
@@ -51,7 +51,7 @@ export const extractSets: PipelineStage = (build, context) => {
     }
   }
 
-  const setData = new Map<SetsAllId, EquipmentQualityId[]>()
+  const setData = new Map<Slug, EquipmentQualityId[]>()
 
   for (const item of items) {
     const info = getSetInfo(item)

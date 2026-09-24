@@ -9,6 +9,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   type JewelrySlotId,
@@ -19,7 +20,6 @@ import {
   jewelryTraits,
   jewelryTraitsBuildList,
 } from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import {
@@ -91,7 +91,7 @@ export function JewelryCard({
     return getValidSetsForSlot(availableSets, slot, jewelryType, null)
   }, [availableSets, slot, jewelryType])
 
-  const handleSetSelect = (setId: SetsAllId) => {
+  const handleSetSelect = (setId: Slug) => {
     const newSet = getSetById(setId, availableSets)
     const quality: EquipmentQualityOptionId | undefined =
       newSet?.subcategoryId === "mythic" ? "mythic" : undefined
