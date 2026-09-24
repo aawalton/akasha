@@ -76,14 +76,7 @@ export const lualibPages = {
       decisionKind: "decision-kind/departure",
       statement: "A page whose code file is not there is passed over.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A page whose slug is no export name reads as nothing.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The code file of a page whose slug is no export name is named.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A page naming a feature the scan found nowhere is added after the scanned files.",
