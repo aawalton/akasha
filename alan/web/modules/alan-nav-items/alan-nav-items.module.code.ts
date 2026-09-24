@@ -4,7 +4,6 @@ import {
   Compass,
   ExternalLink,
   FileText,
-  Gamepad2,
   Hammer,
   Package,
   SwatchBook,
@@ -13,15 +12,7 @@ import { z } from "zod"
 
 const NODE_ENV_SCHEMA = z.string().optional()
 
-export const PRIMARY_NAV_ITEMS: AppNavItem[] = [
-  {
-    id: "games",
-    label: "Games",
-    shortLabel: "Games",
-    href: "/story-played",
-    icon: Gamepad2,
-  },
-]
+export const PRIMARY_NAV_ITEMS: AppNavItem[] = []
 
 export const NAV_ITEM_CONTENT: AppNavItem = {
   id: "content",

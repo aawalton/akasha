@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/curses-most-seen.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/enchantments-alphabetical.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/enchantments-most-seen.view.ts"}
+{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/games-all.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/items-alphabetical.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/items-most-seen.view.ts"}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/legacies-alphabetical.view.ts"}
