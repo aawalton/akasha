@@ -47,7 +47,9 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-image/alan-web-api-image.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-live-version/alan-web-api-live-version.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-nav-icon/alan-web-api-nav-icon.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-page-events/alan-web-api-page-events.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-page-file/alan-web-api-page-file.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-page-follow/alan-web-api-page-follow.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-page-types/alan-web-api-page-types.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-page-write/alan-web-api-page-write.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-pages/alan-web-api-pages.route.ts"}

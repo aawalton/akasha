@@ -145,5 +145,14 @@ export const pageCalling = {
       decisionKind: "decision-kind/departure",
       statement: "A placing answering no path is refused rather than read as landed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stream of changes and what it follows are passed through as the service answers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stream of changes is opened once, and a caller opens it again as it sees fit.",
+    },
   ],
 } as const satisfies Module

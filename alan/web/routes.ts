@@ -77,6 +77,14 @@ export default [
   route("api/seat/image", "routes/alan-web-api-seat-image/alan-web-api-seat-image.route.code.ts"),
   route("api/page-types", "routes/alan-web-api-page-types/alan-web-api-page-types.route.code.ts"),
   route("api/pages/:pageTypeSlug", "routes/alan-web-api-pages/alan-web-api-pages.route.code.ts"),
+  route(
+    "api/page-events",
+    "routes/alan-web-api-page-events/alan-web-api-page-events.route.code.ts"
+  ),
+  route(
+    "api/page-follow",
+    "routes/alan-web-api-page-follow/alan-web-api-page-follow.route.code.ts"
+  ),
   route("api/page-write", "routes/alan-web-api-page-write/alan-web-api-page-write.route.code.ts"),
   route(
     "api/nav-icon/:idSuffix",

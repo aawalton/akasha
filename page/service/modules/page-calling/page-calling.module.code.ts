@@ -34,6 +34,10 @@ export const APPEND_AT = "/append"
 
 const PLACE_AT = "/place"
 
+const EVENTS_AT = "/events"
+
+const FOLLOW_AT = "/follow"
+
 export const ORIGIN_ENV = "PAGES_SERVICE_ORIGIN"
 
 const ORIGIN_NAMES: readonly string[] = [ORIGIN_ENV, "PAGE_STORE_ORIGIN"]
@@ -316,6 +320,29 @@ export async function placingFor(
     return { refused: "the pages answered a placing naming no path" }
   }
   return { placed: said.placed }
+}
+
+export async function eventsOpened(
+  signal: AbortSignal,
+  fetcher: Fetcher = fetchThrough
+): Promise<Response> {
+  return await fetcher(`${originOf()}${EVENTS_AT}`, {
+    method: "GET",
+    headers: { accept: "text/event-stream" },
+    signal,
+  })
+}
+
+export async function followSent(
+  body: unknown,
+  fetcher: Fetcher = fetchThrough
+): Promise<Response> {
+  return await fetcher(`${originOf()}${FOLLOW_AT}`, {
+    method: "POST",
+    headers: { "content-type": "application/json", accept: "application/json" },
+    body: JSON.stringify(body),
+    signal: AbortSignal.timeout(ASK_CEILING_MS),
+  })
 }
 
 export async function writingFor(
