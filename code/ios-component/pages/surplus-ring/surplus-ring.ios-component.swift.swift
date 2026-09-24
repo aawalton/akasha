@@ -121,6 +121,8 @@ struct SurplusRing: View {
 
     var countdown: RingCountdown = .relative
 
+    var noSignal: Bool = false
+
     private var arc: (tier: Tier, progress: Double)? {
         guard let nextTier, let progress, progress > 0 else { return nil }
         return (nextTier, progress)
@@ -146,12 +148,17 @@ struct SurplusRing: View {
                 radius: tier == .blue ? 6 : 0
             )
         ) { metrics in
-            Text(reading ?? "—")
-                .font(.system(size: 44, weight: .bold, design: .rounded))
-                .foregroundStyle(Color(.label))
-                .minimumScaleFactor(0.4)
-                .lineLimit(1)
-                .padding(.horizontal, metrics.strokeWidth + SPACING_1)
+            if noSignal {
+                NoSignalMark(glyphSize: 30, wordsSize: 12)
+                    .padding(.horizontal, metrics.strokeWidth + SPACING_1)
+            } else {
+                Text(reading ?? "—")
+                    .font(.system(size: 44, weight: .bold, design: .rounded))
+                    .foregroundStyle(Color(.label))
+                    .minimumScaleFactor(0.4)
+                    .lineLimit(1)
+                    .padding(.horizontal, metrics.strokeWidth + SPACING_1)
+            }
         }
     }
 }
