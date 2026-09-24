@@ -34,7 +34,7 @@ import { useReaderProgressWriter } from "akasha/page/ui/component/modules/use-re
 import { useRestoreReadPosition } from "akasha/page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts"
 import { DisplayFrame } from "akasha/page/ui/frame/modules/display-frame/display-frame.module.code.tsx"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { useCallback } from "react"
+import { type ReactNode, useCallback } from "react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const READER_VIRTUALIZE_THRESHOLD = 24_000
@@ -52,6 +52,7 @@ interface PageReaderContentProps {
   readerNext?: ReaderNeighborLink | null
   storyHref?: string | null
   onReadToEnd?: () => void
+  drawProse?: (body: string) => ReactNode
 }
 
 export function PageReaderContent({
@@ -61,6 +62,7 @@ export function PageReaderContent({
   readerNext,
   storyHref,
   onReadToEnd,
+  drawProse,
 }: PageReaderContentProps) {
   const source = useReaderPageSource()
   const { pageTypeData } = source.useReaderPageType(pageTypeSlug)
@@ -133,7 +135,7 @@ export function PageReaderContent({
     return fractionToScrollTop(fraction, doc.scrollHeight - doc.clientHeight)
   }, [])
 
-  const isVirtualizedBody = body.length > READER_VIRTUALIZE_THRESHOLD
+  const isVirtualizedBody = drawProse === undefined && body.length > READER_VIRTUALIZE_THRESHOLD
 
   const restoreMayFire = !localPosition.loaded || decideReadRestore(resumeFraction) !== undefined
   const holdEligibleForRestore = isVirtualizedBody && restoreMayFire
@@ -184,6 +186,8 @@ export function PageReaderContent({
                 )}
                 {body.trim() === "" ? (
                   <p className="text-secondary italic">This page has no text yet.</p>
+                ) : drawProse !== undefined ? (
+                  drawProse(body)
                 ) : isVirtualizedBody ? (
                   <ReaderProseBody
                     content={body}

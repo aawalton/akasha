@@ -4,6 +4,7 @@ import { GameStateSchema } from "akasha/story/engine/core/modules/state-schema/s
 import {
   assertEnvelopeMatchesModules,
   composeSessionEnvelope,
+  proseSegmentsOf,
   type StoryLedger,
 } from "akasha/story/ui/modules/session-envelope/session-envelope.module.code.ts"
 
@@ -39,6 +40,34 @@ describe("assertEnvelopeMatchesModules", () => {
     expect(() => assertEnvelopeMatchesModules({}, { title: "T", hud: null })).toThrow(
       /module "hud" is undeclared but its section is present/
     )
+  })
+})
+
+describe("proseSegmentsOf", () => {
+  test("gives nothing for prose with no window written in it", () => {
+    expect(proseSegmentsOf("White grit.\n\nThe gate opens.")).toBeUndefined()
+  })
+
+  test("draws a window written in a chapter's prose as its card, with no line of its block as prose", () => {
+    const text =
+      "The lens was warm.\n\n:::item-award\nname: Clouded lens\nnote: Recovered from: the Host's seat\n:::\n\nHe pocketed it."
+    const segments = proseSegmentsOf(text)
+    expect(segments).toEqual([
+      { kind: "prose", text: "The lens was warm." },
+      {
+        kind: "system",
+        window: {
+          type: "item-award",
+          award: {
+            item: "Clouded lens",
+            descriptors: [{ label: "Recovered from", value: "the Host's seat" }],
+          },
+        },
+      },
+      { kind: "prose", text: "He pocketed it." },
+    ])
+    const prose = (segments ?? []).flatMap((one) => (one.kind === "prose" ? [one.text] : []))
+    expect(prose.some((line) => line.includes(":::"))).toBe(false)
   })
 })
 

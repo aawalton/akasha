@@ -75,13 +75,17 @@ function windowSegment(written: WrittenWindow): ClientProseSegment {
   }
 }
 
-function withWindows(turn: ClientStoryTurn): ClientStoryTurn {
-  const cut = proseWindowSegmentsIn(turn.text)
-  if (cut.every((one) => one.kind === "prose")) return turn
-  const segments = cut.map(
+export function proseSegmentsOf(text: string): ClientProseSegment[] | undefined {
+  const found = proseWindowSegmentsIn(text)
+  if (found.every((one) => one.kind === "prose")) return undefined
+  return found.map(
     (one): ClientProseSegment => (one.kind === "prose" ? one : windowSegment(one.window))
   )
-  return { ...turn, segments }
+}
+
+function withWindows(turn: ClientStoryTurn): ClientStoryTurn {
+  const segments = proseSegmentsOf(turn.text)
+  return segments === undefined ? turn : { ...turn, segments }
 }
 
 export function composeSessionEnvelope(

@@ -8,10 +8,23 @@ export const storyChapterPlayed = {
   pluralSlug: "chapters",
   extends: ["page-type/chapter"],
   runsTabooCheck: false,
+  detailConfig: {
+    bodyPropertyId: "prose",
+  },
+  sequence: {
+    groupBy: "story",
+    orderBy: "position",
+    direction: "asc",
+  },
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "A chapter has the prose play made rather than prose anybody wrote.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A window block in a chapter's prose is drawn as its window card, as it is in a turn's prose.",
     },
   ],
   types: "ts",
