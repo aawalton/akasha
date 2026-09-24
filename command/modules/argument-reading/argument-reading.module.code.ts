@@ -1,6 +1,17 @@
+import { z } from "zod"
+
 const SCALAR = /^([a-z][a-z0-9-]*): ?(.*)$/
 
+const SCALAR_FOUND = z.tuple([z.string(), z.string(), z.string()])
+
 const OPENS = /^([a-z][a-z0-9-]*) (\S+)( no-newline)?$/
+
+const OPENED_FOUND = z.tuple([
+  z.string(),
+  z.string(),
+  z.string(),
+  z.literal(" no-newline").optional(),
+])
 
 export type Given = Readonly<Record<string, string>>
 
@@ -54,18 +65,17 @@ export function readingIn(text: string): Read {
     at += 1
     if (line === undefined) break
     if (line.trim() === "") continue
-    const scalar = SCALAR.exec(line)
-    if (scalar !== null) {
-      const key = scalar[1] as string
+    const scalar = SCALAR_FOUND.safeParse(SCALAR.exec(line))
+    if (scalar.success) {
+      const [, key, value] = scalar.data
       if (key in given) return { refused: twice(key) }
-      given[key] = scalar[2] as string
+      given[key] = value
       continue
     }
-    const opened = OPENS.exec(line)
-    if (opened === null) return { refused: neither(at, line) }
-    const key = opened[1] as string
-    const fence = opened[2] as string
-    const lined = opened[3] === undefined
+    const opened = OPENED_FOUND.safeParse(OPENS.exec(line))
+    if (!opened.success) return { refused: neither(at, line) }
+    const [, key, fence, unlined] = opened.data
+    const lined = unlined === undefined
     if (key in given) return { refused: twice(key) }
     const held: string[] = []
     let closed = false
