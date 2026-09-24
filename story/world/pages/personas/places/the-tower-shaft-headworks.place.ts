@@ -10,7 +10,7 @@ export const theTowerShaftHeadworks = {
   within: "place/the-tower-floor-04",
   depth: 4,
   description:
-    "The top of the shaft, where the slabs dock against a stone gantry and the grey-lit exit-stair finally appears, just beyond. The central chain terminates here, wound around an immense seated figure of fused stone and iron — the Counterweight Colossus, the warden that IS the floor's counterweight. It does not move until something tries to pass onto the exit-stair; its mass is the tension that holds every slab below in balance. Drop it, and the whole moving system goes still.",
+    "The top of the shaft, where the slabs dock against a stone gantry and the grey-lit exit-stair finally appears, just beyond. The Counterweight Colossus lies in pieces across the stone, its winding-drum torn out, and the central chain hangs slack off the gantry; with it down, every slab below has gone still. The gantry is bare, cold stone with nothing alive on it.",
   exits: [
     { to: "place/the-tower-haven-threshold", way: "the grey-lit exit-stair ahead" },
     {
