@@ -7,5 +7,8 @@ export const pageForwarder = {
   definition:
     "the socat forwarder workload, its namespace, the way in to it and the network policies around it",
   code: "ts",
+  minCpuMillicores: 10,
+  minMemoryMb: 32,
+  killMemoryMb: 64,
   generatedDirectory: true,
 } as const satisfies Manifest

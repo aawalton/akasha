@@ -1,2 +1,3 @@
+{"propertySlug":"import","fileName":"git-transport-manifests.manifest.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/git-transport/git-transport.domain.ts","id":"01a06816-2f11-7be3-9bd7-706fac3996ff"}
 {"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/git-transport/git-transport.service-cluster.ts","id":"01a06816-2f11-7fe0-b5a2-6c9518d6f0c3"}

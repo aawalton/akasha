@@ -2,12 +2,14 @@ import {
   synthMulti,
   synthOne,
 } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import {
   kubernetesLabels,
   selectorOf,
 } from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
 import { synthNamespaceNetworkPolicyDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
 import { pageForwarder } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/page-forwarder/page-forwarder.service-cluster.ts"
+import { pageForwarder as page } from "akasha/page/service/page-forwarder/page-forwarder.manifest.ts"
 
 const NAMESPACE = pageForwarder.namespace
 const APP_NAME = pageForwarder.resourceName
@@ -90,10 +92,7 @@ function deploymentYaml(): string {
                 timeoutSeconds: READINESS_SECONDS + 2,
                 failureThreshold: 5,
               },
-              resources: {
-                requests: { cpu: "10m", memory: "32Mi" },
-                limits: { memory: "64Mi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 65532,

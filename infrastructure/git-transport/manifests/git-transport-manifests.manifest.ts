@@ -6,5 +6,9 @@ export const gitTransportManifests = {
   slug: "git-transport-manifests",
   definition: "the namespace, the disk the repositories sit on and the deployment serving them",
   code: "ts",
+  minCpuMillicores: 1000,
+  maxCpuMillicores: 16000,
+  minMemoryMb: 8192,
+  killMemoryMb: 8192,
   generatedDirectory: true,
 } as const satisfies Manifest

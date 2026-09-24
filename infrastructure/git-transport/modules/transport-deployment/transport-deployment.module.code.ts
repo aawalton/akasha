@@ -1,4 +1,5 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import {
   orchestratorCacheInitContainer,
@@ -14,6 +15,7 @@ import {
   GIT_TRANSPORT_CACHE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { gitTransportManifests } from "akasha/infrastructure/git-transport/manifests/git-transport-manifests.manifest.ts"
 import { INIT_BARE_REPO_SCRIPT } from "akasha/infrastructure/git-transport/modules/bare-repo-init/bare-repo-init.module.code.ts"
 import {
   APP_NAME,
@@ -136,10 +138,7 @@ export function deploymentYaml(): string {
               ],
               envFrom: [{ secretRef: { name: "git-transport-secrets" } }],
               volumeMounts: [...sourceCacheMounts, ssdMount],
-              resources: {
-                requests: { cpu: "1", memory: "8Gi" },
-                limits: { cpu: "16", memory: "8Gi" },
-              },
+              resources: resourcesOf(gitTransportManifests),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 1000,
