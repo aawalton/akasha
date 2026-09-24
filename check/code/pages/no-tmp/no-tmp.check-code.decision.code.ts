@@ -19,8 +19,6 @@ const PAGE_TYPE = "page-type"
 
 const TYPE = "type"
 
-const WAS_TYPE_SLUG = "pageTypeSlug"
-
 const ALLOWS = "allowsTmpPaths"
 
 const TS = ".ts"
@@ -95,7 +93,7 @@ export function allowedIn(path: string, paged: Paged): boolean {
   const page = paged.pageOf(join(dirname(path), `${pageOf(said)}${TS}`))
   if (page === null) return false
   if (page[ALLOWS] === true) return true
-  const slug = slugAt(page, TYPE) ?? slugAt(page, WAS_TYPE_SLUG)
+  const slug = slugAt(page, TYPE)
   if (slug === null) return false
   return paged.index.pageAt(PAGE_TYPE, slug)?.[ALLOWS] === true
 }
