@@ -9,6 +9,6 @@ export const irisGameMasterTheTower = {
   role: "role/game-master",
   person: "person/alan",
   startMode: "interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "aawalton",
 } as const satisfies Seat
