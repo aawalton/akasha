@@ -4,8 +4,9 @@ import type {
   FileChange,
   Replacing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
+import { textIn, textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { insertedInto } from "akasha/code/reading/modules/value-inserting/value-inserting.module.code.ts"
+import { formattedBodies } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import {
   baseOf,
   changeOf,
@@ -22,6 +23,8 @@ import {
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
+
+const BYTES = new TextEncoder()
 
 const UUID_V7 = "uuid-v7"
 
@@ -193,9 +196,21 @@ function saidOf(one: Filled): string {
   return `\`${one.path}\` was given ${one.keys.map((key) => `\`${key}\``).join(", ")} — ${one.why}`
 }
 
+function formattedIn(root: string, edits: readonly Replacing[]): readonly Replacing[] {
+  if (edits.length === 0) return edits
+  const done = formattedBodies(
+    root,
+    new Map(edits.map((one) => [one.path, BYTES.encode(one.contentTo)]))
+  )
+  return edits.map((one) => {
+    const made = done.get(one.path)
+    return made === undefined ? one : { ...one, contentTo: textIn(made.body) }
+  })
+}
+
 export function generateChange(change: Change): Answered {
   const minted = mintedOver(change, rowsIn(change))
-  return { edits: minted.edits, said: minted.filled.map(saidOf) }
+  return { edits: formattedIn(change.root, minted.edits), said: minted.filled.map(saidOf) }
 }
 
 function mintedOver(change: Change, changes: readonly FileChange[]): Minted {
