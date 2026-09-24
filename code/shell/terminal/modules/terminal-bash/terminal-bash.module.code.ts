@@ -26,9 +26,11 @@ import {
   tmuxLaunchFnLines,
 } from "akasha/code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"
 import {
+  SEAT_UNMARK_FN,
   seatAttachFnLines,
   seatMarkFnLines,
   seatReviveMarkLines,
+  seatUnmarkFnLines,
 } from "akasha/code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 
 export type AliasEntry = {
@@ -98,6 +100,9 @@ function functions(accounts: readonly AliasEntry[]): string {
     "# attaching to a seat, leaving that seat beside the terminal's own page while attached",
     seatAttachFnLines().join("\n"),
     "",
+    "# clearing, as the shell ends, the mark a revived terminal wrote",
+    seatUnmarkFnLines().join("\n"),
+    "",
     "# the shared tmux launch step every seat comes up under",
     tmuxLaunchFnLines().join("\n"),
     "",
@@ -113,7 +118,7 @@ function functions(accounts: readonly AliasEntry[]): string {
     "# how an editor terminal's shell ended, left beside that terminal's own page",
     terminalEndedFnLines(ROOT_LOCAL).join("\n"),
     "",
-    terminalEndedTrapLines().join("\n")
+    terminalEndedTrapLines([SEAT_UNMARK_FN]).join("\n")
   )
 
   blocks.push(

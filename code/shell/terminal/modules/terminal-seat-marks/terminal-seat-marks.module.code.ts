@@ -6,7 +6,13 @@ export const SEAT_ATTACH_FN = "__editor_terminal_seat_attach"
 
 export const SEAT_MARK_FN = "__editor_terminal_seat_mark"
 
+export const SEAT_UNMARK_FN = "__editor_terminal_seat_unmark"
+
 export const REATTACH_VAR = "VSCODE_TMUX_REATTACH"
+
+export const REVIVED_SEAT_VAR = "__editor_terminal_seat_revived"
+
+export const REVIVED_AT_VAR = "__editor_terminal_seat_revived_at"
 
 export const MARK_TAIL = ".code-editor-terminal.seat.uncommitted.attachment.json"
 
@@ -46,6 +52,7 @@ export function seatAttachFnLines(): readonly string[] {
     '  tmux attach-session -t "=$_seat"',
     "  local _rc=$?",
     '  [ -n "$_at" ] && rm -f "$_at" 2>/dev/null',
+    `  [ -n "\${${REVIVED_AT_VAR}:-}" ] && ${SEAT_MARK_FN} "\${${REVIVED_SEAT_VAR}}" >/dev/null`,
     "  return $_rc",
     "}",
   ]
@@ -54,8 +61,20 @@ export function seatAttachFnLines(): readonly string[] {
 export function seatReviveMarkLines(): readonly string[] {
   return [
     `if [ -n "\${${REATTACH_VAR}:-}" ] && [ -z "\${TMUX:-}" ]; then`,
-    `  ${SEAT_MARK_FN} "\${${REATTACH_VAR}}" >/dev/null`,
+    `  if ${REVIVED_AT_VAR}=$(${SEAT_MARK_FN} "\${${REATTACH_VAR}}"); then`,
+    `    ${REVIVED_SEAT_VAR}="\${${REATTACH_VAR}}"`,
+    "  fi",
     "fi",
+  ]
+}
+
+export function seatUnmarkFnLines(): readonly string[] {
+  return [
+    `${SEAT_UNMARK_FN}() {`,
+    `  [ -n "\${${REVIVED_AT_VAR}:-}" ] && rm -f "\${${REVIVED_AT_VAR}}" 2>/dev/null`,
+    `  ${REVIVED_AT_VAR}=""`,
+    "  return 0",
+    "}",
   ]
 }
 

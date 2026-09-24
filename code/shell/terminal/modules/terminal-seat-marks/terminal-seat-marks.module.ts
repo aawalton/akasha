@@ -79,8 +79,17 @@ export const terminalSeatMarks = {
       statement: "The shell writing a mark and the shell attaching are told apart.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A mark a revived terminal wrote goes when that terminal's shell ends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That mark is cleared from the one exit trap the shell has rather than a second.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An attach in a revived terminal puts that terminal's own mark back as the attach returns.",
     },
   ],
 } as const satisfies Module

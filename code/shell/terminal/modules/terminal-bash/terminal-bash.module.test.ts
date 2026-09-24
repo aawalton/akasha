@@ -67,6 +67,15 @@ describe("the set", () => {
     expect(said).toContain("__editor_terminal_ended() {")
   })
 
+  test("clears a revived terminal's mark from the one exit trap the shell has", () => {
+    expect(said.match(/^\s*trap .* EXIT$/gm)).toEqual([
+      "  trap '__editor_terminal_ended; __editor_terminal_seat_unmark' EXIT",
+    ])
+    expect(said.indexOf("__editor_terminal_seat_unmark() {")).toBeLessThan(
+      said.indexOf("__editor_terminal_seat_unmark' EXIT")
+    )
+  })
+
   test("says above each block what the block is for", () => {
     for (const one of [
       "# the bounded reload every launcher runs before dispatching",

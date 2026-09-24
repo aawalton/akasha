@@ -44,6 +44,10 @@ export const terminalEnded = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What else runs as the shell ends is handed in and runs after the record.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A shell that could not leave a record ends as that shell would have ended anyway.",
     },

@@ -4,13 +4,17 @@ import {
   MARK_TAIL,
   markIn,
   REATTACH_VAR,
+  REVIVED_AT_VAR,
+  REVIVED_SEAT_VAR,
   SEAT_ATTACH_FN,
   SEAT_MARK_FN,
+  SEAT_UNMARK_FN,
   type SeatMark,
   seatAttachFnLines,
   seatByShellPid,
   seatMarkFnLines,
   seatReviveMarkLines,
+  seatUnmarkFnLines,
 } from "akasha/code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 
 const SEATS = new Set(["amy", "aranya"])
@@ -100,6 +104,14 @@ describe("the shell that attaches", () => {
     expect(said.indexOf("tmux attach-session")).toBeLessThan(said.indexOf('rm -f "$_at"'))
   })
 
+  it("puts back the mark a revived terminal wrote once its own attach returns", () => {
+    const said = seatAttachFnLines().join("\n")
+    const back = `[ -n "\${${REVIVED_AT_VAR}:-}" ] && ${SEAT_MARK_FN} "\${${REVIVED_SEAT_VAR}}"`
+    expect(said).toContain(back)
+    expect(said.indexOf('rm -f "$_at"')).toBeLessThan(said.indexOf(back))
+    expect(said.indexOf(back)).toBeLessThan(said.indexOf("return $_rc"))
+  })
+
   it("hands back what the attach handed it", () => {
     const said = seatAttachFnLines().join("\n")
     expect(said).toContain("local _rc=$?")
@@ -119,6 +131,20 @@ describe("the terminal the editor revived", () => {
     expect(said).toContain(`${SEAT_MARK_FN} "\${${REATTACH_VAR}}"`)
   })
 
+  it("keeps where it wrote the mark and the seat the mark names", () => {
+    const said = seatReviveMarkLines().join("\n")
+    expect(said).toContain(`if ${REVIVED_AT_VAR}=$(${SEAT_MARK_FN} "\${${REATTACH_VAR}}"); then`)
+    expect(said).toContain(`${REVIVED_SEAT_VAR}="\${${REATTACH_VAR}}"`)
+  })
+
+  it("clears that mark as the shell ends, and clears it once", () => {
+    const said = seatUnmarkFnLines().join("\n")
+    expect(said).toContain(`${SEAT_UNMARK_FN}() {`)
+    expect(said).toContain(`rm -f "\${${REVIVED_AT_VAR}}"`)
+    expect(said).toContain(`  ${REVIVED_AT_VAR}=""`)
+    expect(said.trimEnd().endsWith("return 0\n}")).toBe(true)
+  })
+
   it("states nothing from inside tmux", () => {
     expect(seatReviveMarkLines().join("\n")).toContain('[ -z "${TMUX:-}" ]')
   })
@@ -128,7 +154,12 @@ describe("the terminal the editor revived", () => {
   })
 
   it("parses", async () => {
-    const said = [...seatMarkFnLines(ROOT_LOCAL), ...seatReviveMarkLines()].join("\n")
+    const said = [
+      ...seatMarkFnLines(ROOT_LOCAL),
+      ...seatAttachFnLines(),
+      ...seatUnmarkFnLines(),
+      ...seatReviveMarkLines(),
+    ].join("\n")
     expect(await parses(said)).toBe(0)
   })
 })

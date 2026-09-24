@@ -23,12 +23,13 @@ export function terminalEndedFnLines(rootLocal: string): readonly string[] {
   ]
 }
 
-export function terminalEndedTrapLines(): readonly string[] {
+export function terminalEndedTrapLines(alsoAtEnd: readonly string[]): readonly string[] {
+  const after = alsoAtEnd.map((one) => `; ${one}`).join("")
   return [
     "# only the editor's own terminals, which are the ones losing their attachments",
     'if [ -n "${VSCODE_SHELL_INTEGRATION:-}" ]; then',
-    `  trap '${ENDED_FN} 129; trap - HUP; kill -HUP $$' HUP`,
-    `  trap '${ENDED_FN}' EXIT`,
+    `  trap '${ENDED_FN} 129${after}; trap - HUP; kill -HUP $$' HUP`,
+    `  trap '${ENDED_FN}${after}' EXIT`,
     "fi",
   ]
 }

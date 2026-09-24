@@ -11,7 +11,9 @@ const ROOT_LOCAL = 'local _root="/repos/akasha"'
 
 const said = terminalEndedFnLines(ROOT_LOCAL).join("\n")
 
-const trapped = terminalEndedTrapLines().join("\n")
+const trapped = terminalEndedTrapLines([]).join("\n")
+
+const trappedWith = terminalEndedTrapLines(["__also_one", "__also_two"]).join("\n")
 
 describe("what is left", () => {
   test("names when the shell ended, what it ended with and where it was", () => {
@@ -54,7 +56,16 @@ describe("the trap", () => {
     expect(trapped).toContain(`trap '${ENDED_FN} 129; trap - HUP; kill -HUP $$' HUP`)
   })
 
+  test("runs what else is to run at the end after the record, in the one trap each", () => {
+    expect(trappedWith).toContain(
+      `trap '${ENDED_FN} 129; __also_one; __also_two; trap - HUP; kill -HUP $$' HUP`
+    )
+    expect(trappedWith).toContain(`trap '${ENDED_FN}; __also_one; __also_two' EXIT`)
+    expect(trappedWith.match(/ EXIT$/gm)?.length).toBe(1)
+  })
+
   test("parses", async () => {
     expect(await parses(`${said}\n${trapped}`)).toBe(0)
+    expect(await parses(`${said}\n${trappedWith}`)).toBe(0)
   })
 })
