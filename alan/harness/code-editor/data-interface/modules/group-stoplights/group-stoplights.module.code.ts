@@ -15,6 +15,11 @@ export function glyphsOf(stoplights: readonly Stoplight[]): string {
   return stoplights.map((one) => GLYPH[one.tier]).join("")
 }
 
+function legendEntryOf(one: Stoplight): string {
+  if (one.reading === "") return one.label
+  return [one.label, one.reading, one.unit].filter((word) => word !== undefined).join(" ")
+}
+
 export function legendOf(stoplights: readonly Stoplight[]): string {
-  return stoplights.map((one) => one.label).join(LEGEND_SEPARATOR)
+  return stoplights.map(legendEntryOf).join(LEGEND_SEPARATOR)
 }
