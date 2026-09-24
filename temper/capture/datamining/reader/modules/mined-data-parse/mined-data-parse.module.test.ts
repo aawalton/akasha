@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import {
   extractMinedItemRows,
   extractMinedQuestRows,
@@ -21,8 +22,8 @@ test("the fixture writes the file the game writes: CRLF lines and bare integer k
 test("the set-bonus members are written as a numeric-keyed table in hash order", () => {
   const memberKey = /^ {28}\[(\d+)\] = \r$/
   const order = ONE.split("\n")
-    .map((line) => memberKey.exec(line)?.[1])
-    .filter((key) => key !== undefined)
+    .map((line) => firstCapture(memberKey.exec(line)))
+    .filter((key) => key !== null)
   expect(order).toEqual(["4", "1", "2", "3"])
 })
 
