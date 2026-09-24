@@ -117,6 +117,8 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-sign-up/archive-of-worlds-sign-up.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/audhdalan/web/routes/audhdalan-api-errors/audhdalan-api-errors.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/audhdalan/web/routes/audhdalan-api-health/audhdalan-api-health.route.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/audhdalan/web/routes/audhdalan-api-page-events/audhdalan-api-page-events.route.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/audhdalan/web/routes/audhdalan-api-page-follow/audhdalan-api-page-follow.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/audhdalan/web/routes/audhdalan-api-subscribe/audhdalan-api-subscribe.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/audhdalan/web/routes/audhdalan-autcon-2026/audhdalan-autcon-2026.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/audhdalan/web/routes/audhdalan-home/audhdalan-home.route.ts","typed":true,"deferred":false}

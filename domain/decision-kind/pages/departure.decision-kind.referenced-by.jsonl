@@ -3462,6 +3462,7 @@
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/routes/archive-of-worlds-sign-in/archive-of-worlds-sign-in.route.ts","id":"01a08281-abd1-7cef-b003-c8e010071b28"}
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/routes/archive-of-worlds-sign-up/archive-of-worlds-sign-up.route.ts","id":"01a08281-dc96-74ca-a53d-84b7e97dde4a"}
 {"propertySlug":"decision-kind","path":"product/audhdalan/subscriber/audhdalan-subscriber.page-type.ts","id":"019e2701-19cb-71d9-a820-bddf28cec176"}
+{"propertySlug":"decision-kind","path":"product/audhdalan/web/routes/audhdalan-api-page-follow/audhdalan-api-page-follow.route.ts","id":"01a0d5bb-243d-7b0b-ab35-0f61ef3bbe5a"}
 {"propertySlug":"decision-kind","path":"product/audhdalan/web/routes/audhdalan-api-subscribe/audhdalan-api-subscribe.route.ts","id":"01a08289-7b12-7814-8155-5442b3a1236b"}
 {"propertySlug":"decision-kind","path":"product/game/clear-the-world/clear-the-world.domain.ts","id":"01a06579-e4f7-7351-8560-e330582149a8"}
 {"propertySlug":"decision-kind","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.ts","id":"01a06579-e4f7-7cac-8aa3-87b59725c97d"}

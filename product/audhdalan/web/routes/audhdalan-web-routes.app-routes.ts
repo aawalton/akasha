@@ -8,6 +8,8 @@ export const audhdalanWebRoutes = {
   parts: [
     "route/audhdalan-api-errors",
     "route/audhdalan-api-health",
+    "route/audhdalan-api-page-events",
+    "route/audhdalan-api-page-follow",
     "route/audhdalan-api-subscribe",
     "route/audhdalan-autcon-2026",
     "route/audhdalan-home",

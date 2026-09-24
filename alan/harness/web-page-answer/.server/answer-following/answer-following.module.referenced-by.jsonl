@@ -7,6 +7,8 @@
 {"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"alan/web/routes/alan-web-api-page-follow/alan-web-api-page-follow.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-page-events/archive-of-worlds-api-page-events.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-page-follow/archive-of-worlds-api-page-follow.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-api-page-events/audhdalan-api-page-events.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-api-page-follow/audhdalan-api-page-follow.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"product/smilingjenny/web/routes/jenny-api-page-events/jenny-api-page-events.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"product/smilingjenny/web/routes/jenny-api-page-follow/jenny-api-page-follow.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-page-events/innworld-api-page-events.route.code.ts","typed":false,"deferred":false}
