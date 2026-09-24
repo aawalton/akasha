@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { ComputedPropertyModule } from "akasha/page/computed-property-module/computed-property-module.page-type.types.ts"
 
 export const agentMessageAttachedImages = {
   id: "01a0d4a1-3f26-7853-9819-ff4b38e9cfec",
-  type: "page-type/module",
+  type: "page-type/computed-property-module",
   slug: "agent-message-attached-images",
   definition: "the lines a message body carries naming the images attached to it",
   code: "ts",
@@ -30,4 +30,4 @@ export const agentMessageAttachedImages = {
       statement: "A conversation shows those lines as a count of images rather than as words.",
     },
   ],
-} as const satisfies Module
+} as const satisfies ComputedPropertyModule

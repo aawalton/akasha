@@ -40,6 +40,10 @@ export const conversationShaping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An image Alan attached to a message he sent a seat is counted as the message's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A message anyone else sent a seat is an entry naming its sender.",
     },
     {

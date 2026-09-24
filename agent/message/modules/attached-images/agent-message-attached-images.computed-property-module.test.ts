@@ -4,7 +4,7 @@ import {
   imagesOut,
   isImageSlug,
   withImages,
-} from "akasha/agent/message/modules/attached-images/agent-message-attached-images.module.code.ts"
+} from "akasha/agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.code.ts"
 
 const ONE = "image-0123456789abcdef"
 

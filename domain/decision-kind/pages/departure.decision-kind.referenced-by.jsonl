@@ -54,7 +54,7 @@
 {"propertySlug":"decision-kind","path":"agent/hook/test-fixtures/payload/hook-payload.test-fixture.ts","id":"01a04f4d-f0ea-791d-8bb4-ce41b59e46b1"}
 {"propertySlug":"decision-kind","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
 {"propertySlug":"decision-kind","path":"agent/message/modules/agent-id/agent-message-agent-id.module.ts","id":"01a0686c-f06b-700f-b509-474c22d7c815"}
-{"propertySlug":"decision-kind","path":"agent/message/modules/attached-images/agent-message-attached-images.module.ts","id":"01a0d4a1-3f26-7853-9819-ff4b38e9cfec"}
+{"propertySlug":"decision-kind","path":"agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.ts","id":"01a0d4a1-3f26-7853-9819-ff4b38e9cfec"}
 {"propertySlug":"decision-kind","path":"agent/message/modules/channel-delivery/agent-message-channel-delivery.module.ts","id":"01a0657e-795c-7001-943b-4973f01721fa"}
 {"propertySlug":"decision-kind","path":"agent/message/modules/console-stdout-guard/agent-message-console-stdout-guard.module.ts","id":"01a0686c-f06b-7010-8514-3620ed64900f"}
 {"propertySlug":"decision-kind","path":"agent/message/modules/delivery-witness/agent-message-delivery-witness.module.ts","id":"01a0686c-f06b-7011-b06e-16258f8aa85f"}

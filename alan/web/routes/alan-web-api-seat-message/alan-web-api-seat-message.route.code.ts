@@ -1,7 +1,7 @@
 import {
   isImageSlug,
   withImages,
-} from "akasha/agent/message/modules/attached-images/agent-message-attached-images.module.code.ts"
+} from "akasha/agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.code.ts"
 import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-naming.module.code.ts"
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"

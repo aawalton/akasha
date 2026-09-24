@@ -1,4 +1,5 @@
 import { toolSubject } from "akasha/agent/claude-code/tool/modules/tool-subject/tool-subject.computed-property-module.code.ts"
+import { imagesOut } from "akasha/agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.code.ts"
 import type { Filed } from "akasha/page/computed-property/computed-property.page-type.ts"
 
 export type PersonSaid = {
@@ -151,7 +152,7 @@ function channelSaid(text: string, at: { readonly at?: string }): ConversationEn
   if (channel === null) return null
   const sender = SENDER.exec(channel[1] ?? "")?.[1] ?? UNNAMED_SENDER
   const said = (channel[2] ?? "").trim()
-  if (sender === PERSON_SENDER) return { kind: "person", text: said, images: 0, ...at }
+  if (sender === PERSON_SENDER) return { kind: "person", ...imagesOut(said), ...at }
   return { kind: "message", sender, text: said, ...at }
 }
 

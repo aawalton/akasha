@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { withImages } from "akasha/agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.code.ts"
 import {
   conversationFrom,
   conversationOf,
@@ -93,6 +94,15 @@ test("a message Alan sent a seat is the person's, with no wrapper", () => {
   })
   expect(shapedLine(line)).toEqual({
     entries: [{ kind: "person", text: "hello\nthere", images: 0, at: "t" }],
+  })
+})
+
+test("the images Alan attached to a message are counted rather than shown as words", () => {
+  const image = "image-0123456789abcdef"
+  const said = `<channel source="messages" sender="alan" message_id="m">\n${withImages("look", [image])}\n</channel>`
+  const line = JSON.stringify({ type: "user", timestamp: "t", message: { content: said } })
+  expect(shapedLine(line)).toEqual({
+    entries: [{ kind: "person", text: "look", images: 1, at: "t" }],
   })
 })
 

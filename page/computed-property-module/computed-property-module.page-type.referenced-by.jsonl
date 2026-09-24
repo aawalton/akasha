@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"agent/claude-code/tool/modules/tool-subject/tool-subject.computed-property-module.ts"}
+{"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.ts"}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"agent/model/account/modules/five-hour-reset/five-hour-reset.computed-property-module.ts"}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.computed-property-module.ts"}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.ts"}

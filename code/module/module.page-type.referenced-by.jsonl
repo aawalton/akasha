@@ -68,7 +68,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/shell-calls/shell-calls.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/message/modules/agent-id/agent-message-agent-id.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/message/modules/agent-tools/agent-message-agent-tools.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/message/modules/attached-images/agent-message-attached-images.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/message/modules/channel-delivery/agent-message-channel-delivery.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/message/modules/console-stdout-guard/agent-message-console-stdout-guard.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/message/modules/delivery-witness/agent-message-delivery-witness.module.ts"}
