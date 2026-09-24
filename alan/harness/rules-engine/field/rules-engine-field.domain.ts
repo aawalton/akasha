@@ -115,10 +115,7 @@ export const rulesEngineField = {
       decisionKind: "decision-kind/departure",
       statement: "A text field takes `is` and `starts with` and `ends with` and `contains`.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "No text field takes `contains`.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A normalizer turns a run of raw text into one value out of a bounded set.",
