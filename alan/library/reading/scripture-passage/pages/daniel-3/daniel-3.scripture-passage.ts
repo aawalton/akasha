@@ -5,6 +5,7 @@ export const daniel3 = {
   type: "page-type/scripture-passage",
   slug: "daniel-3",
   title: "Daniel 3",
+  partOfCollections: ["scripture-collection/daniel"],
   book: "Daniel",
   position: 3,
   ownLength: 0,

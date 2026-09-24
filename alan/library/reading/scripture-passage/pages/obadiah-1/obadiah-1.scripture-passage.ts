@@ -5,6 +5,7 @@ export const obadiah1 = {
   type: "page-type/scripture-passage",
   slug: "obadiah-1",
   title: "Obadiah 1",
+  partOfCollections: ["scripture-collection/obadiah"],
   book: "Obadiah",
   position: 1,
   ownLength: 0,

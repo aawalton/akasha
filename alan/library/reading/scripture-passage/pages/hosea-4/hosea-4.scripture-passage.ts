@@ -5,6 +5,7 @@ export const hosea4 = {
   type: "page-type/scripture-passage",
   slug: "hosea-4",
   title: "Hosea 4",
+  partOfCollections: ["scripture-collection/hosea"],
   book: "Hosea",
   position: 4,
   ownLength: 0,

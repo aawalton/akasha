@@ -5,6 +5,7 @@ export const songOfSolomon2 = {
   type: "page-type/scripture-passage",
   slug: "song-of-solomon-2",
   title: "Song of Solomon 2",
+  partOfCollections: ["scripture-collection/song-of-solomon"],
   book: "Song of Solomon",
   position: 2,
   ownLength: 0,

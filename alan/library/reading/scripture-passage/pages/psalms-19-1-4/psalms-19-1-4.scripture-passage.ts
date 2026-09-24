@@ -5,6 +5,7 @@ export const psalms1914 = {
   type: "page-type/scripture-passage",
   slug: "psalms-19-1-4",
   title: "Psalms 19:1-4",
+  partOfCollections: ["scripture-collection/psalms"],
   book: "Psalms",
   translation: "web",
   position: 5,

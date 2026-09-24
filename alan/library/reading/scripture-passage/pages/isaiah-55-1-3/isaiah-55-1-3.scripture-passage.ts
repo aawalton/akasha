@@ -5,6 +5,7 @@ export const isaiah5513 = {
   type: "page-type/scripture-passage",
   slug: "isaiah-55-1-3",
   title: "Isaiah 55:1-3",
+  partOfCollections: ["scripture-collection/isaiah"],
   book: "Isaiah",
   translation: "web",
   position: 12,

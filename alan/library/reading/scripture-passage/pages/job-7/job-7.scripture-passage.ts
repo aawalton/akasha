@@ -5,6 +5,7 @@ export const job7 = {
   type: "page-type/scripture-passage",
   slug: "job-7",
   title: "Job 7",
+  partOfCollections: ["scripture-collection/job"],
   book: "Job",
   position: 7,
   ownLength: 0,

@@ -5,6 +5,7 @@ export const lamentations1 = {
   type: "page-type/scripture-passage",
   slug: "lamentations-1",
   title: "Lamentations 1",
+  partOfCollections: ["scripture-collection/lamentations"],
   book: "Lamentations",
   position: 1,
   ownLength: 0,

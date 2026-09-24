@@ -5,6 +5,7 @@ export const nahum3 = {
   type: "page-type/scripture-passage",
   slug: "nahum-3",
   title: "Nahum 3",
+  partOfCollections: ["scripture-collection/nahum"],
   book: "Nahum",
   position: 3,
   ownLength: 0,

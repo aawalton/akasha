@@ -5,6 +5,7 @@ export const ezekiel25 = {
   type: "page-type/scripture-passage",
   slug: "ezekiel-25",
   title: "Ezekiel 25",
+  partOfCollections: ["scripture-collection/ezekiel"],
   book: "Ezekiel",
   position: 25,
   ownLength: 0,

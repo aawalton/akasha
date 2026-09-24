@@ -5,6 +5,7 @@ export const haggai2 = {
   type: "page-type/scripture-passage",
   slug: "haggai-2",
   title: "Haggai 2",
+  partOfCollections: ["scripture-collection/haggai"],
   book: "Haggai",
   position: 2,
   ownLength: 0,

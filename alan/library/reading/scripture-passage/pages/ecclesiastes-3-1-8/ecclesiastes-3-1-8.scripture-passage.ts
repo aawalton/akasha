@@ -5,6 +5,7 @@ export const ecclesiastes318 = {
   type: "page-type/scripture-passage",
   slug: "ecclesiastes-3-1-8",
   title: "Ecclesiastes 3:1-8",
+  partOfCollections: ["scripture-collection/ecclesiastes"],
   book: "Ecclesiastes",
   translation: "web",
   position: 10,

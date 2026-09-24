@@ -5,6 +5,7 @@ export const amos3 = {
   type: "page-type/scripture-passage",
   slug: "amos-3",
   title: "Amos 3",
+  partOfCollections: ["scripture-collection/amos"],
   book: "Amos",
   position: 3,
   ownLength: 0,

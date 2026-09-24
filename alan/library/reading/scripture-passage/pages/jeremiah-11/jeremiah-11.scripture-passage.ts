@@ -5,6 +5,7 @@ export const jeremiah11 = {
   type: "page-type/scripture-passage",
   slug: "jeremiah-11",
   title: "Jeremiah 11",
+  partOfCollections: ["scripture-collection/jeremiah"],
   book: "Jeremiah",
   position: 11,
   ownLength: 0,

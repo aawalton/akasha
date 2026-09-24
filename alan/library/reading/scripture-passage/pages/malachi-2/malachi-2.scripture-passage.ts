@@ -5,6 +5,7 @@ export const malachi2 = {
   type: "page-type/scripture-passage",
   slug: "malachi-2",
   title: "Malachi 2",
+  partOfCollections: ["scripture-collection/malachi"],
   book: "Malachi",
   position: 2,
   ownLength: 0,

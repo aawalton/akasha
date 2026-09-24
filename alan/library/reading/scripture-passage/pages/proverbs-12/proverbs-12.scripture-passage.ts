@@ -5,6 +5,7 @@ export const proverbs12 = {
   type: "page-type/scripture-passage",
   slug: "proverbs-12",
   title: "Proverbs 12",
+  partOfCollections: ["scripture-collection/proverbs"],
   book: "Proverbs",
   position: 12,
   ownLength: 0,

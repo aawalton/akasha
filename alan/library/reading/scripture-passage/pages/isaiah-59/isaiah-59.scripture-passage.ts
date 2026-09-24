@@ -5,6 +5,7 @@ export const isaiah59 = {
   type: "page-type/scripture-passage",
   slug: "isaiah-59",
   title: "Isaiah 59",
+  partOfCollections: ["scripture-collection/isaiah"],
   book: "Isaiah",
   position: 59,
   ownLength: 0,

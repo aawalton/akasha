@@ -5,6 +5,7 @@ export const micah2 = {
   type: "page-type/scripture-passage",
   slug: "micah-2",
   title: "Micah 2",
+  partOfCollections: ["scripture-collection/micah"],
   book: "Micah",
   position: 2,
   ownLength: 0,

@@ -5,6 +5,7 @@ export const jonah3 = {
   type: "page-type/scripture-passage",
   slug: "jonah-3",
   title: "Jonah 3",
+  partOfCollections: ["scripture-collection/jonah"],
   book: "Jonah",
   position: 3,
   ownLength: 0,

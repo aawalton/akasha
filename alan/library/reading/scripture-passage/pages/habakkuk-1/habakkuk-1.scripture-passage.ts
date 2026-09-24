@@ -5,6 +5,7 @@ export const habakkuk1 = {
   type: "page-type/scripture-passage",
   slug: "habakkuk-1",
   title: "Habakkuk 1",
+  partOfCollections: ["scripture-collection/habakkuk"],
   book: "Habakkuk",
   position: 1,
   ownLength: 0,

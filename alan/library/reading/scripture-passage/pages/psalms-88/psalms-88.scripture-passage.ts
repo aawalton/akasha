@@ -5,6 +5,7 @@ export const psalms88 = {
   type: "page-type/scripture-passage",
   slug: "psalms-88",
   title: "Psalms 88",
+  partOfCollections: ["scripture-collection/psalms"],
   book: "Psalms",
   position: 88,
   ownLength: 0,

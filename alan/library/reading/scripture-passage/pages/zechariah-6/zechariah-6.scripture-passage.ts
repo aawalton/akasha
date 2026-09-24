@@ -5,6 +5,7 @@ export const zechariah6 = {
   type: "page-type/scripture-passage",
   slug: "zechariah-6",
   title: "Zechariah 6",
+  partOfCollections: ["scripture-collection/zechariah"],
   book: "Zechariah",
   position: 6,
   ownLength: 0,

@@ -5,6 +5,7 @@ export const ecclesiastes9 = {
   type: "page-type/scripture-passage",
   slug: "ecclesiastes-9",
   title: "Ecclesiastes 9",
+  partOfCollections: ["scripture-collection/ecclesiastes"],
   book: "Ecclesiastes",
   position: 9,
   ownLength: 0,

@@ -5,6 +5,7 @@ export const joel3 = {
   type: "page-type/scripture-passage",
   slug: "joel-3",
   title: "Joel 3",
+  partOfCollections: ["scripture-collection/joel"],
   book: "Joel",
   position: 3,
   ownLength: 0,
