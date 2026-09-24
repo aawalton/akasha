@@ -5,6 +5,7 @@ export const playerAskings = {
   type: "page-type/data-table",
   slug: "player-askings",
   definition: "the functions a capture of the character asks, by the shape of the values asked",
+  code: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
