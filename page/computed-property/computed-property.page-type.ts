@@ -1,8 +1,14 @@
 import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
+export type Filed = {
+  readonly size: number
+  readonly read: (from: number, upTo: number) => Uint8Array
+}
+
 export type Reach = {
   target: <Held>(slug: string) => Held | null
   naming: <Held>(propertySlug: string) => readonly Held[]
+  file: (path: string) => Filed | null
 }
 
 export type Work<Page, Held> = (page: Page, reach: Reach) => Held | null
@@ -56,11 +62,24 @@ export const computedProperty = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A calculation reaches another page only through the reach that calculation is handed.",
+        "A calculation reaches another page or a file only through the reach that calculation is handed.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No calculation reads or writes anything by itself.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A reach names one page or every page naming the page being worked out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reach names a file by its path and answers that file's size and any run of its bytes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file that is not there is answered as nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

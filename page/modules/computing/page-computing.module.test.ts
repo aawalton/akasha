@@ -195,6 +195,32 @@ describe("the values a page type's calculations work out", () => {
   })
 })
 
+describe("a file a reach names", () => {
+  const bytes = new TextEncoder().encode("one\ntwo\n")
+
+  const lengthOf = held("tail", "text", (_own, reach) => {
+    const filed = reach.file("/notes.txt")
+    if (filed === null) return "none"
+    return new TextDecoder().decode(filed.read(4, filed.size))
+  })
+
+  test("a calculation reads a run of a file's bytes through its reach", () => {
+    const source: Source = {
+      ...sourceOf({ day: page("1", {}, [lengthOf]) }),
+      fileAt: (path) =>
+        path === "/notes.txt"
+          ? { size: bytes.length, read: (from, upTo) => bytes.slice(from, upTo) }
+          : null,
+    }
+    expect(computingOver(source).workedAt("day")?.value["tail"]).toBe("two\n")
+  })
+
+  test("a source stating no way to read a file answers nothing", () => {
+    const source = sourceOf({ day: page("1", {}, [lengthOf]) })
+    expect(computingOver(source).workedAt("day")?.value["tail"]).toBe("none")
+  })
+})
+
 const TINT: Reaches = { slug: "tint", kinds: new Set(["tint", "deep-tint"]) }
 
 function reaching(slug: string, work: Computed["work"]): Computed {

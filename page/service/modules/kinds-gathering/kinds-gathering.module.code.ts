@@ -1,5 +1,6 @@
-import { readFileSync } from "node:fs"
+import { closeSync, openSync, readFileSync, readSync, statSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
+import type { Filed } from "akasha/page/computed-property/computed-property.page-type.ts"
 import {
   ENTRY_PROPERTY,
   FILE_PROPERTY,
@@ -236,7 +237,28 @@ function reachingIn(
     return found
   }
 
-  return { subjectAt, namingAt }
+  return { subjectAt, namingAt, fileAt: fileOver(root) }
+}
+
+function runOf(at: string, from: number, upTo: number): Uint8Array {
+  const length = Math.max(0, upTo - from)
+  const into = new Uint8Array(length)
+  if (length === 0) return into
+  const held = openSync(at, "r")
+  try {
+    return into.subarray(0, readSync(held, into, 0, length, from))
+  } finally {
+    closeSync(held)
+  }
+}
+
+function fileOver(root: string): (path: string) => Filed | null {
+  return (path) => {
+    const at = isAbsolute(path) ? path : join(root, path)
+    const found = statSync(at, { throwIfNoEntry: false })
+    if (found === undefined || !found.isFile()) return null
+    return { size: found.size, read: (from, upTo) => runOf(at, from, upTo) }
+  }
 }
 
 export function computedOver(

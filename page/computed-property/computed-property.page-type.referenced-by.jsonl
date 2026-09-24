@@ -44,6 +44,7 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"page/modules/calculation-loading/calculation-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"page/modules/calculation-loading/calculation-loading.module.test.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"page/modules/computing/page-computing.module.code.ts"}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"persona/properties/persona-relationship-level.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"persona/properties/persona-relationship-level.computed-property.test.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"agent/model/account/properties/effective-five-hour-resets-at.computed-property.ts"}

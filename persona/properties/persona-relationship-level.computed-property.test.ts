@@ -16,6 +16,7 @@ const REACH = {
     return rung === undefined ? null : { pointsToHere: rung }
   },
   naming: () => [],
+  file: () => null,
 } as Reach
 
 test("a persona short of the first rung is level 0", () => {

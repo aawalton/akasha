@@ -1,5 +1,9 @@
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
-import type { Reach, Work } from "akasha/page/computed-property/computed-property.page-type.ts"
+import type {
+  Filed,
+  Reach,
+  Work,
+} from "akasha/page/computed-property/computed-property.page-type.ts"
 
 export type Held = Record<string, unknown>
 
@@ -30,6 +34,7 @@ export type Named = {
 export type Source = {
   readonly subjectAt: (slug: string) => Subject | null
   readonly namingAt?: (id: string, propertySlug: string) => readonly Named[]
+  readonly fileAt?: (path: string) => Filed | null
 }
 
 export type Working = {
@@ -177,6 +182,7 @@ export function computingOver(source: Source): Computing {
       if (namingAt === undefined) return []
       return namingAt(here.id, propertySlug).map((one) => viewOf(one.subject) as Found)
     },
+    file: (path: string): Filed | null => source.fileAt?.(path) ?? null,
   }
 
   const workedAt = (slug: string): Working | null => {

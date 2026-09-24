@@ -4,7 +4,7 @@ import { workIn } from "akasha/page/modules/calculation-loading/calculation-load
 import { AT } from "akasha/page/modules/calculation-loading/calculation-loading.module.test-fixtures.ts"
 import type { Held } from "akasha/page/modules/computing/page-computing.module.code.ts"
 
-const REACH: Reach = { target: () => null, naming: () => [] }
+const REACH: Reach = { target: () => null, naming: () => [], file: () => null }
 
 const CALCULATION = [
   'import type { Work } from "@akasha/pages/computed-property"',

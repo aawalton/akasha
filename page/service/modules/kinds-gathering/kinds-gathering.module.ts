@@ -134,6 +134,15 @@ export const kindsGathering = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A file a calculation reaches is read off the disk, at a path from the root or whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the run of bytes a calculation asks for is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A relation a calculation holds reaches its stated page type and every page type under it.",
     },
   ],

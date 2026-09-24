@@ -98,6 +98,11 @@ export const pageComputing = {
       statement: "Nothing here opens a file or reaches a store.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file a reach names is read by the source, and a source stating no way reads none.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No answer is kept past the working the answer was worked in.",
     },
