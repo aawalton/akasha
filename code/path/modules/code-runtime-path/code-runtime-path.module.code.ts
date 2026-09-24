@@ -3,12 +3,11 @@ import {
   relativeBetween,
 } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import {
-  argumentsOf,
-  type Span,
-  type Tokens,
-  tokensOf,
-} from "akasha/code/reading/modules/code-tokens/code-tokens.module.code.ts"
+  lineAt,
+  parsedAs,
+} from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { normalizeAbsolute } from "akasha/page/modules/repo-path/repo-path.module.code.ts"
+import ts from "typescript"
 
 const OWN_DIR = ["import.meta.dir", "import.meta.dirname", "__dirname"] as const
 
@@ -16,18 +15,14 @@ const OWN_URL = "import.meta.url"
 
 const MODULE_ENDINGS = [".ts", ".tsx", ".mts", ".cts", ".js", ".jsx", ".mjs", ".cjs"] as const
 
-const NEW_URL = /\bnew\s+URL\s*\(/g
-
-const CALL = /([A-Za-z_$][\w$.]*)\s*\(/g
-
-const JOINS = /(?:^|\.)(?:join|resolve)$/
-
-const ALIAS =
-  /\b(?:const|let|var)\s+([A-Za-z_$][\w$]*)\s*(?::[^=;\n]*)?=\s*(import\.meta\.dir(?:name)?|__dirname)\b/g
+const JOINS: ReadonlySet<string> = new Set(["join", "resolve"])
 
 const PATH_TEXT = /[A-Za-z0-9_./~-]/
 
-const SPACE = /\s/
+interface Span {
+  readonly start: number
+  readonly end: number
+}
 
 export interface Patch {
   readonly start: number
@@ -59,38 +54,31 @@ interface Literal {
   readonly quote: string
 }
 
-function trimmedSpan(body: string, span: Span): Span {
-  let start = span.start
-  let end = span.end
-  while (start < end && SPACE.test(body[start] ?? "")) start += 1
-  while (end > start && SPACE.test(body[end - 1] ?? "")) end -= 1
-  return { start, end }
+function spanOf(source: ts.SourceFile, node: ts.Node): Span {
+  return { start: node.getStart(source), end: node.end }
 }
 
-function literalIn(body: string, tokens: Tokens, span: Span): Literal | null {
-  const at = trimmedSpan(body, span)
-  const quoted = tokens.strings.get(at.start)
-  if (quoted !== undefined && quoted.end === at.end && quoted.value !== null) {
-    return {
-      value: quoted.value,
-      span: { start: at.start + 1, end: at.end - 1 },
-      quote: body[at.start] ?? '"',
-    }
+function literalIn(source: ts.SourceFile, node: ts.Node): Literal | null {
+  if (!ts.isStringLiteral(node) && !ts.isNoSubstitutionTemplateLiteral(node)) return null
+  const start = node.getStart(source) + 1
+  const end = node.end - 1
+  const value = source.text.slice(start, end)
+  if (value.includes("\\")) return null
+  return { value, span: { start, end }, quote: source.text[start - 1] ?? '"' }
+}
+
+function headOf(source: ts.SourceFile, node: ts.Node | undefined): string {
+  if (node === undefined) return ""
+  if (ts.isNoSubstitutionTemplateLiteral(node)) {
+    return source.text.slice(node.getStart(source) + 1, node.end - 1)
   }
-  const template = tokens.templates.get(at.start)
-  if (template === undefined || template.end !== at.end || template.exprs.length > 0) return null
-  const only = template.quasis[0]
-  if (only === undefined) return null
-  const text = body.slice(only.start, only.end)
-  return text.includes("\\") ? null : { value: text, span: only, quote: "`" }
+  if (!ts.isTemplateExpression(node)) return ""
+  return source.text.slice(node.head.getStart(source) + 1, node.head.end - 2)
 }
 
-function headOf(body: string, tokens: Tokens, span: Span): string {
-  const at = trimmedSpan(body, span)
-  const template = tokens.templates.get(at.start)
-  if (template === undefined || template.end !== at.end) return ""
-  const first = template.quasis[0]
-  return first === undefined ? "" : body.slice(first.start, first.end)
+function pieceAfter(source: ts.SourceFile, span: ts.TemplateSpan): Span {
+  const closing = ts.isTemplateTail(span.literal) ? 1 : 2
+  return { start: span.literal.getStart(source) + 1, end: span.literal.end - closing }
 }
 
 function prefixOf(dir: string, head: string): string {
@@ -104,6 +92,37 @@ function walked(dir: string, segments: readonly string[]): string {
   return normalizeAbsolute(at)
 }
 
+function joining(node: ts.CallExpression): boolean {
+  const callee = node.expression
+  if (ts.isIdentifier(callee)) return JOINS.has(callee.text)
+  return ts.isPropertyAccessExpression(callee) && JOINS.has(callee.name.text)
+}
+
+function urlBuiltOff(source: ts.SourceFile, node: ts.NewExpression): ts.Expression | null {
+  if (!ts.isIdentifier(node.expression) || node.expression.text !== "URL") return null
+  const [first, second] = node.arguments ?? []
+  if (node.arguments?.length !== 2 || first === undefined || second === undefined) return null
+  return second.getText(source) === OWN_URL ? first : null
+}
+
+function basesIn(source: ts.SourceFile): ReadonlySet<string> {
+  const own: ReadonlySet<string> = new Set(OWN_DIR)
+  const bases = new Set<string>(OWN_DIR)
+  const visit = (node: ts.Node): undefined => {
+    if (ts.isVariableDeclaration(node) && ts.isIdentifier(node.name)) {
+      const bound = node.initializer?.getText(source)
+      if (bound !== undefined && own.has(bound)) bases.add(node.name.text)
+    }
+    ts.forEachChild(node, visit)
+  }
+  visit(source)
+  return bases
+}
+
+function redotted(was: string, next: string): string {
+  return was.startsWith("./") && !next.startsWith(".") ? `./${next}` : next
+}
+
 export function runtimePatches(
   body: string,
   hostBefore: string,
@@ -112,19 +131,14 @@ export function runtimePatches(
   held: Held
 ): RuntimePaths {
   if (!body.includes(OWN_URL) && !OWN_DIR.some((one) => body.includes(one))) return NO_RUNTIME_PATHS
-  const tokens = tokensOf(body)
-  const bases = new Set<string>(OWN_DIR)
-  for (const match of tokens.masked.matchAll(ALIAS)) {
-    const name = match[1]
-    if (name !== undefined) bases.add(name)
-  }
+  const source = parsedAs(hostBefore, body)
+  const bases = basesIn(source)
+  const based = (node: ts.Node): boolean => bases.has(node.getText(source))
   const beneath = folderOf(hostBefore)
   const lands = folderOf(hostAfter)
   const patches: Patch[] = []
   const dark: { readonly span: Span; readonly prefix: string }[] = []
   let read = 0
-
-  const lineOf = (index: number): number => body.slice(0, index).split("\n").length
 
   const cannot = (span: Span, prefix: string): undefined => {
     dark.push({ span, prefix })
@@ -143,111 +157,99 @@ export function runtimePatches(
     patches.push({ start: span.start, end: span.end, text, was })
   }
 
-  for (const match of tokens.masked.matchAll(NEW_URL)) {
-    const open = (match.index ?? 0) + match[0].length - 1
-    const args = argumentsOf(tokens.masked, open)
-    const first = args?.[0]
-    const second = args?.[1]
-    if (args === null || args.length !== 2 || first === undefined || second === undefined) continue
-    if (tokens.masked.slice(second.start, second.end).trim() !== OWN_URL) continue
-    const literal = literalIn(body, tokens, first)
+  const readUrl = (node: ts.NewExpression): undefined => {
+    const first = urlBuiltOff(source, node)
+    if (first === null) return
+    const literal = literalIn(source, first)
     if (literal === null) {
-      const span = { start: match.index ?? 0, end: second.end + 1 }
-      cannot(span, prefixOf(beneath, headOf(body, tokens, first)))
-      continue
+      cannot(spanOf(source, node), prefixOf(beneath, headOf(source, first)))
+      return
     }
     const next = retarget([literal.value])
-    if (next === null) continue
-    patch(
-      literal.span,
-      literal.value,
-      literal.value.startsWith("./") && !next.startsWith(".") ? `./${next}` : next
-    )
+    if (next !== null) patch(literal.span, literal.value, redotted(literal.value, next))
   }
 
-  for (const match of tokens.masked.matchAll(CALL)) {
-    const callee = match[1] ?? ""
-    if (!JOINS.test(callee)) continue
-    const open = (match.index ?? 0) + match[0].length - 1
-    const args = argumentsOf(tokens.masked, open)
-    const first = args?.[0]
-    if (args === null || first === undefined) continue
-    if (!bases.has(tokens.masked.slice(first.start, first.end).trim())) continue
-    const rest = args.slice(1)
+  const readCall = (node: ts.CallExpression): undefined => {
+    const [first, ...rest] = node.arguments
+    if (!joining(node) || first === undefined || !based(first)) return
     if (rest.length === 0) {
       read += 1
-      continue
+      return
     }
-    const literals = rest.map((one) => literalIn(body, tokens, one))
     const written: Literal[] = []
-    for (const one of literals) {
-      if (one === null) break
-      written.push(one)
+    for (const one of rest) {
+      const literal = literalIn(source, one)
+      if (literal === null) break
+      written.push(literal)
     }
-    if (written.length !== literals.length) {
-      const span = { start: match.index ?? 0, end: (rest.at(-1)?.end ?? open) + 1 }
+    if (written.length !== rest.length) {
       const upTo = walked(
         beneath,
         written.map((one) => one.value)
       )
-      const next = rest[written.length]
-      cannot(span, prefixOf(upTo, next === undefined ? "" : headOf(body, tokens, next)))
-      continue
+      cannot(spanOf(source, node), prefixOf(upTo, headOf(source, rest[written.length])))
+      return
     }
     const next = retarget(written.map((one) => one.value))
-    if (next === null) continue
     const head = written[0]
     const tail = written.at(-1)
-    if (head === undefined || tail === undefined) continue
+    if (next === null || head === undefined || tail === undefined) return
     if (written.length === 1) {
-      patch(
-        head.span,
-        head.value,
-        head.value.startsWith("./") && !next.startsWith(".") ? `./${next}` : next
-      )
-      continue
+      patch(head.span, head.value, redotted(head.value, next))
+      return
     }
     const span = { start: head.span.start - 1, end: tail.span.end + 1 }
     patch(span, body.slice(span.start, span.end), `${head.quote}${next}${head.quote}`)
   }
 
-  for (const template of tokens.templates.values()) {
-    for (const [index, expr] of template.exprs.entries()) {
-      if (!bases.has(tokens.masked.slice(expr.start, expr.end).trim())) continue
-      const quasi = template.quasis[index + 1]
-      if (quasi === undefined) continue
-      const text = body.slice(quasi.start, quasi.end)
+  const readTemplate = (node: ts.TemplateExpression): undefined => {
+    const whole = spanOf(source, node)
+    const spans = node.templateSpans
+    for (const [index, span] of spans.entries()) {
+      if (!based(span.expression)) continue
+      const piece = pieceAfter(source, span)
+      const text = body.slice(piece.start, piece.end)
+      const last = index + 1 === spans.length
       let cut = 0
       while (cut < text.length && PATH_TEXT.test(text[cut] ?? "")) cut += 1
       if (cut === 0) {
-        if (text === "" && index + 1 === template.exprs.length) read += 1
-        else cannot(template, prefixOf(beneath, text.slice(0, cut)))
+        if (text === "" && last) read += 1
+        else cannot(whole, prefixOf(beneath, ""))
         continue
       }
-      if (cut === text.length && index + 1 < template.exprs.length) {
-        cannot(template, prefixOf(beneath, text))
+      if (cut === text.length && !last) {
+        cannot(whole, prefixOf(beneath, text))
         continue
       }
       if (text[0] !== "/") {
-        cannot(template, prefixOf(beneath, text.slice(0, cut)))
+        cannot(whole, prefixOf(beneath, text.slice(0, cut)))
         continue
       }
       const next = retarget([text.slice(1, cut)])
-      if (next === null) continue
-      patch({ start: quasi.start + 1, end: quasi.start + cut }, text.slice(1, cut), next)
+      if (next !== null) {
+        patch({ start: piece.start + 1, end: piece.start + cut }, text.slice(1, cut), next)
+      }
     }
   }
 
+  const visit = (node: ts.Node): undefined => {
+    if (ts.isNewExpression(node)) readUrl(node)
+    else if (ts.isCallExpression(node)) readCall(node)
+    else if (ts.isTemplateExpression(node)) readTemplate(node)
+    ts.forEachChild(node, visit)
+  }
+  visit(source)
+
   const bites = (prefix: string): boolean => beneath !== lands || moved(prefix) !== null
   return {
-    patches,
+    patches: patches.sort((one, other) => one.start - other.start),
     read,
     unread: dark.length,
     unreadable: dark
       .filter((one) => bites(one.prefix))
       .map((one) => {
         const text = body.slice(one.span.start, one.span.end).replace(/\s+/g, " ").trim()
-        return `${lineOf(one.span.start)}: \`${text}\``
+        return `${lineAt(source, one.span.start)}: \`${text}\``
       }),
   }
 }

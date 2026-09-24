@@ -193,6 +193,58 @@ test("a base that cannot be read is named only where the move carries the body o
   expect(said.unreadable).toEqual([])
 })
 
+const HOST = "a/b/host/host.module.code.ts"
+
+const NESTED = "a/b/modules/host/host.module.code.ts"
+
+test("a template inside a template's expression is read as a template of its own", () => {
+  expect(
+    rewrote(
+      "const at = `${root}:${`${import.meta.dir}/../lualib`}`\n",
+      HOST,
+      NESTED,
+      holding("/a/b/lualib")
+    )
+  ).toBe("const at = `${root}:${`${import.meta.dir}/../../lualib`}`\n")
+})
+
+test("a literal holding an escape is named rather than rewritten", () => {
+  const said = runtimePatches(
+    'const at = join(import.meta.dir, "..\\u002flualib")\n',
+    HOST,
+    NESTED,
+    carrying(HOST, NESTED),
+    holding("/a/b/lualib")
+  )
+
+  expect(said.patches).toEqual([])
+  expect(said.unreadable).toEqual(['1: `join(import.meta.dir, "..\\u002flualib")`'])
+})
+
+test("a path spelled in a comment or inside a string is no path the body builds", () => {
+  const said = runtimePatches(
+    '// join(import.meta.dir, "..", "lualib")\nconst said = "join(import.meta.dir, \\"..\\")"\n',
+    HOST,
+    NESTED,
+    carrying(HOST, NESTED),
+    holding("/a/b/lualib")
+  )
+
+  expect(said).toEqual({ patches: [], read: 0, unread: 0, unreadable: [] })
+})
+
+test("a path that cannot be read is named at the line its call opens on", () => {
+  const said = runtimePatches(
+    "const a = 1\n\nconst at = join(\n  import.meta.dir,\n  name,\n)\n",
+    HOST,
+    NESTED,
+    carrying(HOST, NESTED),
+    holding()
+  )
+
+  expect(said.unreadable).toEqual(["3: `join( import.meta.dir, name, )`"])
+})
+
 test("a body is read for runtime paths by the ending its name carries", () => {
   expect(readsRuntimePaths("one.module.code.ts")).toBe(true)
   expect(readsRuntimePaths("one.route.tsx")).toBe(true)

@@ -108,6 +108,7 @@
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/modules/router-app-code/router-app-code.module.code.ts"}
+{"propertySlug":"import","fileName":"code-source.module.code.ts","path":"code/path/modules/code-runtime-path/code-runtime-path.module.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"code/reading/modules/code-binding/code-binding.module.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"code/reading/modules/code-binding/code-binding.module.test.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"code/reading/modules/code-rule/code-rule.module.code.ts"}

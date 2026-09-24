@@ -43,6 +43,14 @@ export const codeRuntimePath = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A template inside a template expression is read as a template of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path spelled in a comment or inside a string is no path the body builds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A leading dot-slash a body wrote is kept where the replacement climbs no directory.",
     },
@@ -50,6 +58,10 @@ export const codeRuntimePath = {
       decisionKind: "decision-kind/absence",
       statement:
         "A path built from something other than a written literal is named rather than rewritten.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A literal holding an escape is named rather than rewritten.",
     },
     {
       decisionKind: "decision-kind/departure",
