@@ -32,20 +32,6 @@ export const SPAM_LABEL = "SPAM"
 
 export const SENT_LABEL = "SENT"
 
-export async function listMessageIdsByLabel(
-  client: GmailClient,
-  labelId: string,
-  max: number
-): Promise<readonly string[]> {
-  const res = await client.raw.users.messages.list({
-    userId: "me",
-    labelIds: [labelId],
-    maxResults: max,
-  })
-  const parsed = gmailMessageListSchema.parse(res.data)
-  return (parsed.messages ?? []).map((ref) => ref.id)
-}
-
 export async function listMessages(
   client: GmailClient,
   query: ListMessagesQuery
