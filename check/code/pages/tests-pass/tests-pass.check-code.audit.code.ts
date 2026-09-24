@@ -22,7 +22,7 @@ function thereIn(commit: Commit): (path: string) => boolean {
 
 export async function testsPass(root: string): Promise<readonly Judged[]> {
   const commit = commitIn(root)
-  const named = namedOver(commit.paths, thereIn(commit))
+  const named = namedOver(commit.paths, thereIn(commit), (path) => commit.index.importersOf(path))
   const bodies = Object.fromEntries(linksOver(commit.paths, commit.read))
   return await refusingOver(commit.root, named, bodies)
 }

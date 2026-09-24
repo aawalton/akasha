@@ -258,7 +258,7 @@ export async function refusingOver(
 
 export async function refusalsOver(given: Change, shadow: Shadow): Promise<readonly Judged[]> {
   const change = holdingOver(given)
-  const named = namedIn(change)
+  const named = namedIn(change, shadow)
   if (named.length === 0) return []
   return await refusingOver(change.root, named, bodiesOf(change, shadow))
 }

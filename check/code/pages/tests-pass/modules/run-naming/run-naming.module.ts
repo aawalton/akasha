@@ -18,6 +18,28 @@ export const runNaming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A changed test fixture names the tests beside each file importing that fixture as well.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A test fixture is a file a `test-fixtures` property holds, or the code of a test-fixture page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The importers of a test fixture are read from the index the change leaves.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No importer of an importer is asked for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A changed file that is no test fixture names only the tests beside that file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name is answered once however many changed files name it.",
     },
     {

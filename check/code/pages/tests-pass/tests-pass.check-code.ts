@@ -13,15 +13,16 @@ export const testsPass = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The tests a change is judged by are the ones standing beside the files the change has.",
+        "A change is judged by the tests beside its files and beside each importer of a test fixture it has.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A test beside no changed file is left red rather than made input.",
+      statement: "Any other test is left red rather than made input.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A test another file's change breaks is a test in the wrong file.",
+      statement:
+        "A test another file's change breaks is in the wrong file, unless that file is a test fixture.",
     },
 
     {
