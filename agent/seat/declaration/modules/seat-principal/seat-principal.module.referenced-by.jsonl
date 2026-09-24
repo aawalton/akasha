@@ -5,5 +5,5 @@
 {"propertySlug":"import","fileName":"seat-principal.module.code.ts","path":"agent/seat/modules/page-akasha/seat-page-akasha.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-principal.module.code.ts","path":"agent/seat/name/modules/seat-nameable/seat-nameable.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-principal.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-principal.module.code.ts","path":"agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-principal.module.code.ts","path":"agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/declaration/seat-declaration.domain.ts","id":"01a0658d-c92f-7bc5-aac8-847d02086752"}

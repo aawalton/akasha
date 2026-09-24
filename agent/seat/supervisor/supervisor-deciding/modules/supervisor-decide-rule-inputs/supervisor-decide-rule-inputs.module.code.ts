@@ -2,6 +2,7 @@ import {
   INITIAL_PROXY_LIVENESS_STATE,
   type ProxyLivenessState,
 } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-liveness-decide/supervisor-gateway-liveness-decide.module.code.ts"
+import type { IdleObservation } from "akasha/agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   type DeferredRestartConfig,
   type DeferredRestartObservation,
@@ -14,7 +15,6 @@ import type {
   ChildExitStatus,
 } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import { STOP_REASON } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import type { IdleObservation } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   bool,
   maybe,

@@ -5,7 +5,7 @@ import {
   isIdleForPreservingRestartPastCliff,
   isIgnoredMcpChildCmdline,
   preservingRestartBusyReason,
-} from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 
 const QUIET: IdleObservation = {
   inFlight: 0,

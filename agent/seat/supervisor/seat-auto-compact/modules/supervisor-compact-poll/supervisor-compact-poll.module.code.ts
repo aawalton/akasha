@@ -3,15 +3,15 @@ import { readSeatConditions } from "akasha/agent/seat/launching/modules/seat-con
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { pendingOf } from "akasha/agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"
 import {
+  type IdleObservation,
+  preservingRestartVerdict,
+} from "akasha/agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
+import { observeIdle } from "akasha/agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"
+import {
   shouldCompact,
   stillAsked,
   worthProbing,
 } from "akasha/agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-decide/supervisor-compact-decide.module.code.ts"
-import {
-  type IdleObservation,
-  preservingRestartVerdict,
-} from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
-import { observeIdle } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"
 import type { HeartbeatPoll } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { contextTokensOf } from "akasha/agent/seat/usage/seat-usage.module.code.ts"
 

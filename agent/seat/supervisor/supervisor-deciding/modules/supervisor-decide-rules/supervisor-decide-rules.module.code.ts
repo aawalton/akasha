@@ -4,6 +4,12 @@ import {
 } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-adoption-decide/supervisor-gateway-adoption-decide.module.code.ts"
 import { decideProxyLiveness } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-liveness-decide/supervisor-gateway-liveness-decide.module.code.ts"
 import {
+  isIdleForPreservingRestart,
+  isIdleForPreservingRestartPastCliff,
+  isIgnoredMcpChildCmdline,
+  preservingRestartBusyReason,
+} from "akasha/agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
+import {
   decideDeferredRestart,
   EDGE_CONNECTION_CLIFF_OVERRIDE_MS,
   EDGE_CONNECTION_CLIFF_PREEMPT_MS,
@@ -34,12 +40,6 @@ import {
   proxyLivenessState,
   rawEnv,
 } from "akasha/agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.code.ts"
-import {
-  isIdleForPreservingRestart,
-  isIdleForPreservingRestartPastCliff,
-  isIgnoredMcpChildCmdline,
-  preservingRestartBusyReason,
-} from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   computeReExecJitterMs,
   resolveMaxReExecJitterMs,
