@@ -13,6 +13,7 @@ import {
   telnyxWebhookSchema,
 } from "akasha/alan/harness/sms-core/modules/telnyx-inbound/telnyx-inbound.module.code.ts"
 import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/modules/verify-signature/verify-signature.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -121,8 +122,8 @@ export async function action({ request }: { request: Request }): Promise<Respons
 
   const rawBody = await request.text()
 
-  const publicKey = process.env.TELNYX_PUBLIC_KEY
-  if (publicKey === undefined || publicKey === "") {
+  const publicKey = optionalEnv("TELNYX_PUBLIC_KEY")
+  if (publicKey === undefined) {
     return Response.json({ error: "no-telnyx-public-key" }, { status: 503 })
   }
 
