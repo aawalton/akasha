@@ -1,7 +1,7 @@
 import { triggerProxySwap } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"
 import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { startPreCliffRestartMonitor } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
-import { askPreCliffRestart } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"
+
 import { LIVE_CHILD_EXIT_RULE } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { buildAgentActionSubsystem } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"
 import {
@@ -71,7 +71,6 @@ export async function wireIteration(args: {
           isDeferredArmed: () => deferredRestart.cancel !== null,
           armPreCliff: () => actionSubsystem.armPreCliffRestart(),
           thresholdMs: cliffConstants.EDGE_CONNECTION_CLIFF_PREEMPT_MS,
-          preCliffRestartRule: askPreCliffRestart,
           log: (line) => console.log(`${LOG} ${line}`),
         })
 

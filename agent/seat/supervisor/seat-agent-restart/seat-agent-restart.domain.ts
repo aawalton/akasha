@@ -13,7 +13,6 @@ export const seatAgentRestart = {
     "module/supervisor-deferred-restart-rule",
     "module/supervisor-precliff-restart",
     "module/supervisor-precliff-restart-decide",
-    "module/supervisor-precliff-restart-rule",
     "module/agent-restart-notice-decide",
     "module/supervisor-resume-asks",
   ],

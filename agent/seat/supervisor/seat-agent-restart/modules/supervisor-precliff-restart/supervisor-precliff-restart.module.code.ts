@@ -1,8 +1,8 @@
 import { statSync } from "node:fs"
-import type {
-  PreCliffObservation,
-  PreCliffRestartRuleSource,
-} from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"
+import {
+  decidePreCliffRestart,
+  type PreCliffObservation,
+} from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts"
 import { requestedActionOf } from "akasha/agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
@@ -23,7 +23,6 @@ export function startPreCliffRestartMonitor(opts: {
   isDeferredArmed: () => boolean
   armPreCliff: () => Promise<boolean>
   thresholdMs: number
-  preCliffRestartRule: PreCliffRestartRuleSource
   log: (line: string) => void
   tickMs?: number
   now?: () => number
@@ -61,8 +60,7 @@ export function startPreCliffRestartMonitor(opts: {
       alreadyArmed: false,
       deferredOrActionPending,
     }
-    const { value: verdict } = await opts.preCliffRestartRule(obs, opts.thresholdMs)
-    if (verdict !== "arm") return
+    if (decidePreCliffRestart(obs, opts.thresholdMs) !== "arm") return
 
     if (await opts.armPreCliff()) {
       armedForPid = pid
