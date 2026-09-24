@@ -127,5 +127,10 @@ export const servicePuttingUp = {
       statement:
         "A service whose unit already names a commit is put up at that commit no second time.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A service whose new bundle holds the bytes of the bundle its unit names is restarted by nothing.",
+    },
   ],
 } as const satisfies Module

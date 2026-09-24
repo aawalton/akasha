@@ -1,3 +1,4 @@
+import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { module } from "akasha/code/module/module.page-type.ts"
 import {
@@ -15,6 +16,7 @@ import {
   runOf,
 } from "akasha/infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts"
 import {
+  bundleAt,
   bundledFor,
   bundledTeller,
   launchedCommitIn,
@@ -77,6 +79,32 @@ export function notPutUpAt(
   const found = new Set<string>()
   for (const slug of restarting) {
     if (launchedCommitIn(home, slug) !== commit) found.add(slug)
+  }
+  return found
+}
+
+function sameBytes(one: string, other: string): boolean {
+  try {
+    return readFileSync(one).equals(readFileSync(other))
+  } catch {
+    return false
+  }
+}
+
+function runsAlready(home: string, slug: string, fresh: string | undefined): boolean {
+  const commit = launchedCommitIn(home, slug)
+  if (fresh === undefined || commit === null) return false
+  return sameBytes(fresh, bundleAt(home, slug, commit))
+}
+
+export function changedAmong(
+  restarting: ReadonlySet<string>,
+  bundles: ReadonlyMap<string, string>,
+  home: string
+): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const slug of restarting) {
+    if (!runsAlready(home, slug, bundles.get(slug))) found.add(slug)
   }
   return found
 }
@@ -156,7 +184,8 @@ export async function putUpEvery(
   const built = await bundlesBuilt(root, home, commit, leftAlone)
   if ("refused" in built) return refusedBy([built.refused], OPERATIONAL)
 
-  const planned = plannedEvery(root, restarting, codeAt, built.bundles, leftAlone)
+  const changed = changedAmong(restarting, built.bundles, home)
+  const planned = plannedEvery(root, changed, codeAt, built.bundles, leftAlone)
   if (!("plan" in planned)) return planned
 
   const done = installing(planned.home, planned.plan, systemctl, up)

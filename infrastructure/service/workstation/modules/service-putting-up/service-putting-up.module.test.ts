@@ -7,6 +7,7 @@ import {
   unitAt,
 } from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
 import {
+  changedAmong,
   notPutUpAt,
   plannedEvery,
   sharedUnitsIn,
@@ -47,6 +48,35 @@ test("a service whose unit names no bundle is one to put up", () => {
 
 test("a home nothing states leaves every service to be put up", () => {
   expect([...notPutUpAt(new Set(["behind"]), NOW, null)]).toEqual(["behind"])
+})
+
+function bundleHolding(slug: string, commit: string, text: string): string {
+  const at = `${STAGED}/.local/state/workstation-services/${slug}/${commit}.js`
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, text)
+  return at
+}
+
+test("a service whose new bundle holds the bytes it runs now is restarted by nothing", () => {
+  unitNaming("same", WAS)
+  bundleHolding("same", WAS, "one\n")
+  const fresh = bundleHolding("same", NOW, "one\n")
+  expect([...changedAmong(new Set(["same"]), new Map([["same", fresh]]), STAGED)]).toEqual([])
+})
+
+test("a service whose new bundle holds other bytes is restarted", () => {
+  unitNaming("moved", WAS)
+  bundleHolding("moved", WAS, "one\n")
+  const fresh = bundleHolding("moved", NOW, "two\n")
+  expect([...changedAmong(new Set(["moved"]), new Map([["moved", fresh]]), STAGED)]).toEqual([
+    "moved",
+  ])
+})
+
+test("a service whose running bundle cannot be read is restarted", () => {
+  unitNaming("lost", WAS)
+  const fresh = bundleHolding("lost", NOW, "one\n")
+  expect([...changedAmong(new Set(["lost"]), new Map([["lost", fresh]]), STAGED)]).toEqual(["lost"])
 })
 
 test("the teller every unit names on failing is among the units written", () => {
