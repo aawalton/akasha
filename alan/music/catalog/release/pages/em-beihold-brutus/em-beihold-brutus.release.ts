@@ -4,15 +4,14 @@ export const emBeiholdBrutus = {
   id: "01a0676a-d719-703f-9f3c-56382bf0982a",
   type: "page-type/release",
   slug: "em-beihold-brutus",
-  title: "Brutus",
+  grade: "A",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/em-beihold"],
   position: 0,
-  ownLength: 2.467517,
-  ownProgress: 2.467517,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "A",
   publishedAt: "2025-07-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emBeiholdBrutus = {
       externalLink: "https://open.spotify.com/album/0alrjw1UQpZ2Ct5XWfnEjS",
     },
   ],
+  title: "Brutus",
 } as const satisfies Release

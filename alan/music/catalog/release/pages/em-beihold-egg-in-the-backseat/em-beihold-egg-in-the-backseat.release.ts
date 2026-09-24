@@ -4,15 +4,14 @@ export const emBeiholdEggInTheBackseat = {
   id: "01a0676a-d71c-7060-8732-bfbaad3e437b",
   type: "page-type/release",
   slug: "em-beihold-egg-in-the-backseat",
-  title: "Egg in the Backseat",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/em-beihold"],
   position: 0,
-  ownLength: 19.249033,
-  ownProgress: 19.249033,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2022-07-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emBeiholdEggInTheBackseat = {
       externalLink: "https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W",
     },
   ],
+  title: "Egg in the Backseat",
 } as const satisfies Release

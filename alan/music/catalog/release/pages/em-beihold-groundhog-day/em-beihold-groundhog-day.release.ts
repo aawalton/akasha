@@ -4,15 +4,14 @@ export const emBeiholdGroundhogDay = {
   id: "01a0676a-d71f-7032-baa4-38f5c28d555f",
   type: "page-type/release",
   slug: "em-beihold-groundhog-day",
-  title: "Groundhog Day",
+  grade: "A",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/em-beihold"],
   position: 0,
-  ownLength: 2.89365,
-  ownProgress: 2.89365,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "A",
   publishedAt: "2021-05-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emBeiholdGroundhogDay = {
       externalLink: "https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O",
     },
   ],
+  title: "Groundhog Day",
 } as const satisfies Release

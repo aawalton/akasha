@@ -4,15 +4,14 @@ export const ejaeInAnotherWorld = {
   id: "01a0676a-d721-7066-bb9a-61fc54a1fdbe",
   type: "page-type/release",
   slug: "ejae-in-another-world",
-  title: "In Another World",
+  grade: "A",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ejae"],
   position: 0,
-  ownLength: 2.925517,
-  ownProgress: 2.925517,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "A",
   publishedAt: "2025-10-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const ejaeInAnotherWorld = {
       lastSyncedAt: "2025-10-28",
     },
   ],
+  title: "In Another World",
 } as const satisfies Release

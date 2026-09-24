@@ -4,7 +4,7 @@ export const ejaeWomanOf99BillionOriginalTelevisionSoundtrackPt3 = {
   id: "01a0d3ab-2282-7cd8-b8f6-afb41c69b24b",
   type: "page-type/release",
   slug: "ejae-woman-of-99-billion-original-television-soundtrack-pt-3",
-  ownLength: 7.549166666666666,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/ejae"],
   position: 0,

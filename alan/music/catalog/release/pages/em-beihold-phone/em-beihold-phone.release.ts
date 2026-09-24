@@ -4,15 +4,14 @@ export const emBeiholdPhone = {
   id: "01a0676a-d726-7075-81ed-791914d0ba26",
   type: "page-type/release",
   slug: "em-beihold-phone",
-  title: "Phone",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/em-beihold"],
   position: 0,
-  ownLength: 2.5846,
-  ownProgress: 2.5846,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2023-07-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emBeiholdPhone = {
       externalLink: "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo",
     },
   ],
+  title: "Phone",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const emBeiholdHouseOnAHillFeatEmBeihold = {
   id: "01a0676a-d720-7067-a259-3a4e8eb41aaa",
   type: "page-type/release",
   slug: "em-beihold-house-on-a-hill-feat-em-beihold",
-  title: "House on a Hill (feat. Em Beihold)",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/em-beihold"],
   position: 0,
-  ownLength: 6.63265,
-  ownProgress: 6.63265,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2023-07-21",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emBeiholdHouseOnAHillFeatEmBeihold = {
       externalLink: "https://open.spotify.com/album/7uitFkWZtfoUki1y2C9o8Q",
     },
   ],
+  title: "House on a Hill (feat. Em Beihold)",
 } as const satisfies Release

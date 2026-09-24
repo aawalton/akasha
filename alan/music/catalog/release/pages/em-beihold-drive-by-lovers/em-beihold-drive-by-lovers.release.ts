@@ -4,15 +4,14 @@ export const emBeiholdDriveByLovers = {
   id: "01a0676a-d71c-703a-9082-33ecb610152b",
   type: "page-type/release",
   slug: "em-beihold-drive-by-lovers",
-  title: "Drive by Lovers",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/em-beihold"],
   position: 0,
-  ownLength: 3.518333,
-  ownProgress: 3.518333,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2021-01-29",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emBeiholdDriveByLovers = {
       externalLink: "https://open.spotify.com/album/6QPKDiPisHERDdzj3Pj0tR",
     },
   ],
+  title: "Drive by Lovers",
 } as const satisfies Release

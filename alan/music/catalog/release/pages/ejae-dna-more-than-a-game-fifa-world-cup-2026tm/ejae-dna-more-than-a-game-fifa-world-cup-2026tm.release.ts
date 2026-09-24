@@ -4,7 +4,7 @@ export const ejaeDnaMoreThanAGameFifaWorldCup2026tm = {
   id: "01a0d3ab-2214-79e2-8ccb-c2c9c5b3b76b",
   type: "page-type/release",
   slug: "ejae-dna-more-than-a-game-fifa-world-cup-2026tm",
-  ownLength: 2.947583333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/ejae"],
   position: 0,

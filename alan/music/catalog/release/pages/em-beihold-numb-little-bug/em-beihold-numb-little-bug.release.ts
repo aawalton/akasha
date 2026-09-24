@@ -4,15 +4,14 @@ export const emBeiholdNumbLittleBug = {
   id: "01a0676a-d726-7006-8b99-4b39de57f92a",
   type: "page-type/release",
   slug: "em-beihold-numb-little-bug",
-  title: "Numb Little Bug",
+  grade: "A",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/em-beihold"],
   position: 0,
-  ownLength: 2.820617,
-  ownProgress: 2.820617,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "A",
   publishedAt: "2022-01-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emBeiholdNumbLittleBug = {
       externalLink: "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM",
     },
   ],
+  title: "Numb Little Bug",
 } as const satisfies Release

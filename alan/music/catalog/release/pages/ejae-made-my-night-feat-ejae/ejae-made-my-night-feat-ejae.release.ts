@@ -4,7 +4,7 @@ export const ejaeMadeMyNightFeatEjae = {
   id: "01a0d3ab-2171-766e-aefb-df3b2f725454",
   type: "page-type/release",
   slug: "ejae-made-my-night-feat-ejae",
-  ownLength: 4.227766666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/ejae"],
   position: 0,

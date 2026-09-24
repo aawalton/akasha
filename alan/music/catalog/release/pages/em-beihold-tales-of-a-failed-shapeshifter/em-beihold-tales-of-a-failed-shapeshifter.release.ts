@@ -4,14 +4,13 @@ export const emBeiholdTalesOfAFailedShapeshifter = {
   id: "01a0676a-d72b-701c-afba-a2005f8fc8cb",
   type: "page-type/release",
   slug: "em-beihold-tales-of-a-failed-shapeshifter",
-  title: "Tales of a Failed Shapeshifter",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/em-beihold"],
   position: 0,
-  ownLength: 29.040967,
-  ownProgress: 0,
-  unit: "unit/minutes",
-  status: "not-started",
   publishedAt: "2026-02-27",
+  status: "not-started",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emBeiholdTalesOfAFailedShapeshifter = {
       lastSyncedAt: "2026-03-09",
     },
   ],
+  title: "Tales of a Failed Shapeshifter",
 } as const satisfies Release

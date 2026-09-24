@@ -4,15 +4,14 @@ export const emBeiholdScaredOfTheDark = {
   id: "01a0676a-d728-7053-be58-9a1dc2977884",
   type: "page-type/release",
   slug: "em-beihold-scared-of-the-dark",
-  title: "Scared of the Dark",
+  grade: "A",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/em-beihold"],
   position: 0,
-  ownLength: 8.066767,
-  ownProgress: 8.066767,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "A",
   publishedAt: "2025-10-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const emBeiholdScaredOfTheDark = {
       lastSyncedAt: "2025-10-30",
     },
   ],
+  title: "Scared of the Dark",
 } as const satisfies Release

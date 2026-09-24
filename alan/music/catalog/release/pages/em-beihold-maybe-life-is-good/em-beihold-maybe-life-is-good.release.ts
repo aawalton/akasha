@@ -4,15 +4,14 @@ export const emBeiholdMaybeLifeIsGood = {
   id: "01a0676a-d724-703e-82e8-e5e7e58289b2",
   type: "page-type/release",
   slug: "em-beihold-maybe-life-is-good",
-  title: "Maybe Life Is Good",
+  grade: "A",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/em-beihold"],
   position: 0,
-  ownLength: 3.180883,
-  ownProgress: 3.180883,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "A",
   publishedAt: "2024-02-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emBeiholdMaybeLifeIsGood = {
       externalLink: "https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO",
     },
   ],
+  title: "Maybe Life Is Good",
 } as const satisfies Release

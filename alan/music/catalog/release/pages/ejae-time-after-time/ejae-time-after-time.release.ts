@@ -4,14 +4,13 @@ export const ejaeTimeAfterTime = {
   id: "01a0676a-d72e-7043-95ef-062096156c2e",
   type: "page-type/release",
   slug: "ejae-time-after-time",
-  title: "Time After Time",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ejae"],
   position: 0,
-  ownLength: 2.804967,
-  ownProgress: 0,
-  unit: "unit/minutes",
-  status: "not-started",
   publishedAt: "2026-02-06",
+  status: "not-started",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const ejaeTimeAfterTime = {
       lastSyncedAt: "2026-03-09",
     },
   ],
+  title: "Time After Time",
 } as const satisfies Release
