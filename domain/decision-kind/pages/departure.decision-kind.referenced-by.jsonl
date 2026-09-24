@@ -809,8 +809,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/account/properties/account-display-name.text-property.ts","id":"01a0680a-1a00-7002-9c37-8a1d4e6f1103"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/account/properties/account-type.select-property.ts","id":"01a0680a-1a00-7004-8e19-5b2c7d4e1105"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/account/properties/current-balance.number-property.ts","id":"01a0680a-1a00-7003-ab52-6d3f8c9a1104"}
-{"propertySlug":"decision-kind","path":"alan/harness/monarch/category-rule/agent/category-rule-agent.page-type.ts","id":"01a0680c-3c00-7009-b845-2f7c9a1e310a"}
-{"propertySlug":"decision-kind","path":"alan/harness/monarch/category-rule/agent/properties/judgement.text-property.ts","id":"01a0680c-3c00-7006-b482-7d1f5a8c3107"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/category-rule/category-rule.page-type.ts","id":"01a0680c-3c00-7007-a659-3e8d1c4f3108"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/category-rule/code/category-rule-code.page-type.ts","id":"01a0680c-3c00-7008-9c73-6a2e5d8b3109"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/category-rule/properties/counterpart-within-days.number-property.ts","id":"01a0680c-3c00-7004-9a36-5b8e2c7f3105"}

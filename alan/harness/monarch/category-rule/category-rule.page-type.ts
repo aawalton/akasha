@@ -8,7 +8,6 @@ export const categoryRule = {
   extends: ["page-type/page"],
   parts: [
     "number-property/counterpart-within-days",
-    "page-type/category-rule-agent",
     "page-type/category-rule-code",
     "record-property/matches",
     "relation-property/transaction-category",

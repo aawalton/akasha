@@ -142,7 +142,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/mobile-cli/mobile-cut/properties/main-sha.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/mobile-cli/mobile-cut/properties/shell-sha.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/monarch/account/properties/account-display-name.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/monarch/category-rule/agent/properties/judgement.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/monarch/category-rule/properties/match-values.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/monarch/category-rule/properties/rule-note.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/monarch/category/properties/category-group.text-property.ts"}
