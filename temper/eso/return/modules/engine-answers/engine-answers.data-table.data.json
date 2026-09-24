@@ -179,5 +179,33 @@
       true
     ]
   },
-  "answersGiven": {}
+  "answersGiven": {
+    "GetGroupFinderUserTypeGroupSizeIterationBegin": {
+      "0": [
+        1
+      ],
+      "1": [
+        4
+      ],
+      "2": [
+        4
+      ]
+    },
+    "GetGroupFinderUserTypeGroupSizeIterationEnd": {
+      "0": [
+        2
+      ],
+      "1": [
+        4
+      ],
+      "2": [
+        4
+      ]
+    },
+    "GetSetting": {
+      "5,70": [
+        "0"
+      ]
+    }
+  }
 }
