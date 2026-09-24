@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"addon-json.module.code.ts","path":"command/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.code.ts"}
 {"propertySlug":"import","fileName":"addon-json.module.code.ts","path":"temper/addon/build/deploy-check/modules/check-addon-dependency-floor/check-addon-dependency-floor.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-json.module.code.ts","path":"temper/addon/build/modules/addon-bundling/addon-bundling.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-json.module.code.ts","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-json.module.code.ts","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-json.module.code.ts","path":"temper/addon/build/modules/addon-metadata-copy/addon-metadata-copy.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-json.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.code.ts"}

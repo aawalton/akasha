@@ -13,8 +13,20 @@ import {
   declaringDirs,
   reachedAddonDirs,
 } from "akasha/temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
+import { z } from "zod"
 
 const SCRATCH = scratchWorld()
+
+const WRITTEN_SETTINGS = z.looseObject({
+  compilerOptions: z.looseObject({ rootDir: z.string(), outDir: z.string(), noEmit: z.boolean() }),
+  luaCompiler: z.looseObject({
+    luaBundle: z.string(),
+    luaBundleEntry: z.string(),
+    luaTarget: z.string(),
+    noEmitLua: z.boolean(),
+  }),
+  include: z.array(z.string()),
+})
 
 afterAll(SCRATCH.sweep)
 
@@ -61,15 +73,17 @@ test("a bundle entry slug becomes the path the index answers for that module's c
 })
 
 test("the written settings name the entry, the bundle and the repository root", () => {
-  const body: unknown = JSON.parse(
-    compilerConfigBody({
-      repoRoot: "/repo",
-      addonDir: "/repo/temper/addon/pages/lib-table-functions",
-      canonicalName: "TemperTableFunctions",
-      entryPath: "/repo/temper/addon/pages/lib-table-functions/e/e.module.code.ts",
-      reachedDirs: [],
-      declaringDirs: ["/repo/temper/eso/type", "/repo/temper/addon/type"],
-    })
+  const body = WRITTEN_SETTINGS.parse(
+    JSON.parse(
+      compilerConfigBody({
+        repoRoot: "/repo",
+        addonDir: "/repo/temper/addon/pages/lib-table-functions",
+        canonicalName: "TemperTableFunctions",
+        entryPath: "/repo/temper/addon/pages/lib-table-functions/e/e.module.code.ts",
+        reachedDirs: [],
+        declaringDirs: ["/repo/temper/eso/type", "/repo/temper/addon/type"],
+      })
+    )
   )
   expect(body).toMatchObject({
     compilerOptions: {
@@ -166,15 +180,17 @@ test("a dependency no addon in the checkout carries is left out of the compile",
 })
 
 test("the written settings reach every declaration an addon this addon depends on holds", () => {
-  const body: unknown = JSON.parse(
-    compilerConfigBody({
-      repoRoot: "/repo",
-      addonDir: "/repo/temper/addon/pages/collections",
-      canonicalName: "TemperWorld",
-      entryPath: "/repo/temper/addon/pages/collections/e/e.module.code.ts",
-      reachedDirs: ["/repo/temper/addon/library/lib-lorebooks"],
-      declaringDirs: ["/repo/temper/eso/type"],
-    })
+  const body = WRITTEN_SETTINGS.parse(
+    JSON.parse(
+      compilerConfigBody({
+        repoRoot: "/repo",
+        addonDir: "/repo/temper/addon/pages/collections",
+        canonicalName: "TemperWorld",
+        entryPath: "/repo/temper/addon/pages/collections/e/e.module.code.ts",
+        reachedDirs: ["/repo/temper/addon/library/lib-lorebooks"],
+        declaringDirs: ["/repo/temper/eso/type"],
+      })
+    )
   )
   expect(body).toMatchObject({
     include: [

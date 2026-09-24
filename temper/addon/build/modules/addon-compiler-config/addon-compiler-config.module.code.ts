@@ -5,7 +5,9 @@ import {
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { addonManifestSchema } from "akasha/temper/addon/build/resolve/modules/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
+import type { z } from "zod"
 
 export const TSCONFIG_NAME = "tsconfig.json"
 
@@ -33,17 +35,18 @@ const DECLARATIONS_UNDER = "**/*.type-declaration.d.ts"
 
 const VERSION_MARK = /[<>=!]/
 
-type AddonManifest = {
-  readonly name?: string
-  readonly dependsOn?: readonly string[]
-  readonly optionalDependsOn?: readonly string[]
-}
+const MANIFEST_NAMING = addonManifestSchema
+  .pick({ name: true, dependsOn: true, optionalDependsOn: true })
+  .partial()
+
+type AddonManifest = z.infer<typeof MANIFEST_NAMING>
 
 function addonManifestIn(root: string, dir: string): AddonManifest | null {
   const path = addonManifestPathIn(root, dir)
   if (path === null) return null
   try {
-    return JSON.parse(readFileSync(path, "utf-8")) as AddonManifest
+    const parsed = MANIFEST_NAMING.safeParse(JSON.parse(readFileSync(path, "utf-8")))
+    return parsed.success ? parsed.data : null
   } catch {
     return null
   }
