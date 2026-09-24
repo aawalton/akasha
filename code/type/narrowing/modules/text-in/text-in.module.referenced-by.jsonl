@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/track/daily/modules/day-messages-mining/day-messages-mining.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/routes/alan-web-api-handover-exchange/alan-web-api-handover-exchange.route.code.ts"}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"code/editor/extension/modules/subagent-core/subagent-core.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"code/type/narrowing/modules/text-at/text-at.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"code/type/narrowing/modules/text-in/text-in.module.test.ts"}

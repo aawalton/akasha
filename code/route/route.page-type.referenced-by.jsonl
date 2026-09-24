@@ -52,6 +52,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-pages/alan-web-api-pages.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-picture/alan-web-api-picture.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.ts"}

@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/requests-web/modules/requests-app-id/requests-app-id.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/requests-web/routes/requests-api-requests/requests-api-requests.route.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/web/modules/alan-app-id/alan-app-id.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.test.ts"}

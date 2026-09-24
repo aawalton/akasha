@@ -23,6 +23,7 @@ export const alanWebRoutes = {
     "route/alan-web-api-push-register",
     "route/alan-web-api-sms-opt-in",
     "route/alan-web-api-sms-verification-status",
+    "route/alan-web-api-seat-message",
     "route/alan-web-api-sms-webhook",
     "route/alan-web-api-spotify-callback",
     "route/alan-web-api-tracking-health-samples",

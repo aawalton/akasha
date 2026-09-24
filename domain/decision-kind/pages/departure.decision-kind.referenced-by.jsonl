@@ -1239,6 +1239,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-page-write/alan-web-api-page-write.route.ts","id":"01a0882c-bfbe-7b18-9cbf-ce33bfbb3bce"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-picture/alan-web-api-picture.route.ts","id":"01a09c62-851a-71cc-950c-0d3fe7144579"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.ts","id":"01a08834-9fa8-7538-bb21-73af9a36b58d"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.ts","id":"01a0d493-a7df-70bc-8964-34c002acd32e"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.ts","id":"01a08836-b1d8-7284-9c85-85d40203b334"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.ts","id":"01a090d4-4959-7068-b799-d973b6d7993e"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.ts","id":"01a08830-10e1-711f-916e-888aba8c6066"}

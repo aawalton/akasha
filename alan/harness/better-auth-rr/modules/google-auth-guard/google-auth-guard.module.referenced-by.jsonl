@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/routes/alan-web-api-device-secret-mint/alan-web-api-device-secret-mint.route.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/routes/alan-web-api-device-secret-revoke/alan-web-api-device-secret-revoke.route.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.code.ts"}
+{"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/routes/alan-web-handover-app/alan-web-handover-app.route.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/routes/alan-web-handover-mint/alan-web-handover-mint.route.code.ts"}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/routes/alan-web-home/alan-web-home.route.code.tsx"}
