@@ -95,7 +95,7 @@ export const identifierMatchesItsPlace = {
       statement: "A return inside a function nested in the body is no answer of the outer one.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A component in a file not named `.tsx` is judged as a function.",
     },
     {
@@ -107,7 +107,7 @@ export const identifierMatchesItsPlace = {
       statement: "A function opening lower is judged a function however that function draws.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A component opened as a tag only under the name another file imports it as is judged a function.",
     },
@@ -125,7 +125,7 @@ export const identifierMatchesItsPlace = {
       statement: "A name the file can bind again has a thing the file acts on rather than data.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A name bound with `let` at the top of a file sits in a place no page names.",
     },
     {
@@ -180,7 +180,7 @@ export const identifierMatchesItsPlace = {
         "A parameter opening with an underscore is passed over where the body does not read the parameter.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A name another writer fixed outside akasha is passed over.",
     },
     {
