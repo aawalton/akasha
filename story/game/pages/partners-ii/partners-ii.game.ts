@@ -8,7 +8,6 @@ export const partnersIi = {
   unit: "unit/words",
   externalId: "partners-ii",
   gameEngine: "awen",
-  coordinatorAgent: "awen-gm--partners-ii",
   controlledEntityKind: "single",
   mechanicsWeight: "medium",
   resolution: "hybrid",
