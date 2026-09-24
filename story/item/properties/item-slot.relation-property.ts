@@ -5,12 +5,12 @@ export const itemSlot = {
   type: "page-type/relation-property",
   slug: "item-slot",
   propertySlug: "slot",
-  definition: "the place on a character an item is worn",
+  definition: "the place on a character an item is equipped in",
   targetPageType: "page-type/item-slot",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An item naming no slot is carried rather than worn.",
+      statement: "An item naming no slot is carried rather than equipped.",
     },
   ],
   types: "ts",
