@@ -7,7 +7,3 @@ export function seatId(): string | null {
     parseIdentifier(process.env.AGENT_ID) ?? parseIdentifier(process.env.CLAUDE_CODE_SESSION_ID)
   )
 }
-
-export function hookAgentId(payload: Record<string, unknown>): string | null {
-  return seatId() ?? parseIdentifier(payload.session_id)
-}
