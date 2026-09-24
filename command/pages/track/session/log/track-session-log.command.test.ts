@@ -11,6 +11,9 @@ import {
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.test-fixtures.ts"
 import { trackSessionLog } from "akasha/command/pages/track/session/log/track-session-log.command.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
+import { z } from "zod"
+
+const TITLED = z.looseObject({ title: z.string() })
 
 afterAll(scratch.sweep)
 
@@ -28,7 +31,7 @@ function titlesIn(root: string): readonly string[] {
   return readFileSync(join(root, ROWS_AT), "utf8")
     .trim()
     .split("\n")
-    .map((one) => (JSON.parse(one) as { title: string }).title)
+    .map((one) => TITLED.parse(JSON.parse(one)).title)
 }
 
 test("a stretch logged lands the day's rows under no agent id and no reading", async () => {

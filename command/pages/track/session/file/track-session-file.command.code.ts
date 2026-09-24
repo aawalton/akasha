@@ -28,8 +28,17 @@ import {
   taggedFor,
   taggingOf,
 } from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
+import { z } from "zod"
 
 const LINE = /^(\S+)\s+(.+?)(?:\s+s(-?[\d.]+)d([\d.]+))?$/
+
+const LINE_SAID = z.tuple([
+  z.string(),
+  z.string(),
+  z.string(),
+  z.string().optional(),
+  z.string().optional(),
+])
 
 const NAMED = [day, fromFile, relationship]
 
@@ -55,17 +64,18 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
   const refusals: string[] = []
   for (const [at, line] of lines.entries()) {
     const named = `line ${String(at + 1)}`
-    const found = LINE.exec(line.trim())
-    if (found === null) {
+    const found = LINE_SAID.safeParse(LINE.exec(line.trim())).data
+    if (found === undefined) {
       refusals.push(`${named} opens with no wall time and a title`)
       continue
     }
-    const reading = readMountainWallTime(anchoredIn(taken, found[1] ?? ""), now)
+    const [, wall, titleSaid, safety, difficulty] = found
+    const reading = readMountainWallTime(anchoredIn(taken, wall), now)
     if (reading.read === "refused") {
       refusals.push(`${named}: ${reading.saying}`)
       continue
     }
-    const title = (found[2] ?? "").trim()
+    const title = titleSaid.trim()
     const one: Row = {
       id: mintedAt(now),
       title,
@@ -73,7 +83,6 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
       dailyTracking: standing.held.page,
       ...taggingOf(taggedFor(tagging.stated, title, [], tagging.known)),
     }
-    const safety = found[3]
     if (safety === undefined) {
       const before = made[made.length - 1]
       const carried = before?.safetyLevel
@@ -83,7 +92,6 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
       if (level.read === "refused") refusals.push(`${named}: ${level.saying}`)
       else one.safetyLevel = level.level
     }
-    const difficulty = found[4]
     if (difficulty === undefined) {
       const inferred = difficultyForTitle(title, standing.activities)
       if (inferred !== null) one.difficultyLevel = inferred
