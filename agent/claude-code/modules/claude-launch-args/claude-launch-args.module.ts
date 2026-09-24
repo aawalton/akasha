@@ -24,5 +24,9 @@ export const claudeLaunchArgs = {
       decisionKind: "decision-kind/departure",
       statement: "A remote control session left unnamed is named for the machine and two words.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A child is started with no model to fall back to.",
+    },
   ],
 } as const satisfies Module

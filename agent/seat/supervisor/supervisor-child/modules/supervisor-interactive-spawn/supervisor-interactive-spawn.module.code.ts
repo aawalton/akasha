@@ -4,7 +4,6 @@ import { isPendingReExec } from "akasha/agent/seat/self-healing/modules/supervis
 import {
   resolveAgentEffortLevel,
   resolveAutoCompactWindow,
-  resolveFallbackModel,
   resolveResumeThresholds,
   resolveSubagentModel,
   resolveSubagentSpawnDepth,
@@ -94,7 +93,6 @@ export async function buildIterationSpawnOpts(args: {
   const autoCompactWindowAsked = stage("auto-compact-window", resolveAutoCompactWindow())
   const effortLevelAsked = stage("agent-effort-level", resolveAgentEffortLevel())
   const subagentModelAsked = stage("subagent-model", resolveSubagentModel())
-  const fallbackModelAsked = stage("fallback-model", resolveFallbackModel())
   const spawnDepthAsked = stage("subagent-spawn-depth", resolveSubagentSpawnDepth())
   const toolTimeoutAsked = stage("tool-timeout", resolveToolTimeout())
   const resumeThresholdsAsked = stage("resume-thresholds", resolveResumeThresholds())
@@ -115,7 +113,6 @@ export async function buildIterationSpawnOpts(args: {
     autoCompactWindow,
     effortLevel,
     subagentModel,
-    fallbackModel,
     subagentSpawnDepth,
     toolTimeout,
     resumeThresholds,
@@ -125,7 +122,6 @@ export async function buildIterationSpawnOpts(args: {
     autoCompactWindowAsked,
     effortLevelAsked,
     subagentModelAsked,
-    fallbackModelAsked,
     spawnDepthAsked,
     toolTimeoutAsked,
     resumeThresholdsAsked,
@@ -143,7 +139,6 @@ export async function buildIterationSpawnOpts(args: {
     remoteControlName: remoteControlOn ? seatNameForAgent(agentId) : null,
     systemPromptFile,
     model,
-    fallbackModel,
     settingsPath,
     agentsJson,
   })

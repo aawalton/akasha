@@ -104,35 +104,6 @@ export async function resolveSubagentModel(
   }
 }
 
-export type FallbackModelDeps = {
-  getFallbackModel: () => Promise<string | null>
-  getExtendedContextAvailable: () => Promise<boolean>
-}
-
-const DEFAULT_FALLBACK_MODEL_DEPS: FallbackModelDeps = {
-  getFallbackModel: async () => readSeatConditions().fallbackModel,
-  getExtendedContextAvailable,
-}
-
-export async function resolveFallbackModel(
-  deps: FallbackModelDeps = DEFAULT_FALLBACK_MODEL_DEPS
-): Promise<string | null> {
-  try {
-    const raw = await deps.getFallbackModel()
-    if (!isUsableModel(raw)) return null
-    const spec = parseModel(raw)
-    if (spec === null) {
-      console.warn(`${LOG} resolveFallbackModel: ${raw} names no model, leaving unset`)
-      return null
-    }
-    const extendedAvailable = await deps.getExtendedContextAvailable()
-    return toCliAlias(spec, { extendedAvailable })
-  } catch (err) {
-    console.warn(`${LOG} resolveFallbackModel: seat conditions unreadable, leaving unset:`, err)
-    return null
-  }
-}
-
 export type SubagentSpawnDepthDeps = {
   getSubagentSpawnDepth: () => Promise<string | null>
 }

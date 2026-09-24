@@ -25,7 +25,6 @@ export type InteractiveCLIArgsOpts = {
   remoteControlName: string | null
   systemPromptFile: string | null
   model: string
-  fallbackModel: string | null
   settingsPath: string
   agentsJson: string | null
 }
@@ -45,10 +44,6 @@ export function buildInteractiveCLIArgs(opts: InteractiveCLIArgsOpts): readonly 
   }
 
   cliArgs.push("--model", opts.model)
-
-  if (opts.fallbackModel !== null) {
-    cliArgs.push("--fallback-model", opts.fallbackModel)
-  }
 
   cliArgs.push("--settings", opts.settingsPath)
 

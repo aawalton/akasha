@@ -1,4 +1,5 @@
 {"propertySlug":"decision-kind","path":"agent/claude-code/app/claude-code-app.domain.ts","id":"01a0ca92-e69a-7119-b0d8-cbe2aad57593"}
+{"propertySlug":"decision-kind","path":"agent/claude-code/modules/claude-launch-args/claude-launch-args.module.ts","id":"01a0695a-d2ea-7745-a7c8-079b5840aab1"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/registration-credential/modules/oauth-health-lines/oauth-health-lines.module.ts","id":"01a069c1-1f42-7000-8bec-ad0f2db95abc"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/session/claude-code-session.domain.ts","id":"01a0c9aa-9160-7910-b58e-7182271d836f"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/session/state/claude-code-session-state.domain.ts","id":"01a0ca0f-33c7-78f8-89c7-c79ecf784fac"}
