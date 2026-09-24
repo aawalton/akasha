@@ -15,6 +15,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const AT = "akasha/f/lower-kebab-case.name-format.code.ts"
 
@@ -55,13 +56,13 @@ export function rooted(body: string, prefix: string = "akasha-name-format-shape-
     root,
     MATCHING_PAGE,
     `export const nameMatching = { id: "${MATCHING_ID}", slug: "name-matching",` +
-      ' pageTypeSlug: "module", code: "ts" }\n'
+      ' type: "page-type/module", code: "ts" }\n'
   )
   writing(
     root,
     PAGE_AT,
     `export const lowerKebabCase = { id: "${ID}", slug: "lower-kebab-case",` +
-      ' pageTypeSlug: "name-format", code: "ts" }\n'
+      ' type: "page-type/name-format", code: "ts" }\n'
   )
   writing(root, AT, body)
   const matching = [{ path: MATCHING_PAGE, id: MATCHING_ID }]
@@ -71,7 +72,7 @@ export function rooted(body: string, prefix: string = "akasha-name-format-shape-
   idFiled(root, ID, held)
   listedFiled(root, "name-format", SLUG, held)
   valueAlsoFiled(root, "name-format", [
-    { path: PAGE_AT, value: { id: ID, pageTypeSlug: "name-format", slug: SLUG } },
+    { path: PAGE_AT, value: { id: ID, type: `${pageType.slug}/name-format`, slug: SLUG } },
   ])
   return root
 }

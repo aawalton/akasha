@@ -20,6 +20,7 @@ import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-fil
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const PAGE_TYPE = "page-type"
 
@@ -90,7 +91,7 @@ export function recording(
     root,
     pathFor(RECORD, slug),
     bytesOf(
-      `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(RECORD)}, ` +
+      `export const held = { id: ${JSON.stringify(id)}, type: ${JSON.stringify(`page-type/${RECORD}`)}, ` +
         `slug: ${JSON.stringify(slug)}, propertySlug: ${JSON.stringify(slug)}, ` +
         `properties: ${JSON.stringify(declared)} }\n`
     )
@@ -107,7 +108,13 @@ export function recorded(
   valueAlsoFiled(root, RECORD, [
     {
       path: pathFor(RECORD, slug),
-      value: { id, pageTypeSlug: RECORD, slug, propertySlug: slug, properties: declared },
+      value: {
+        id,
+        type: `${pageType.slug}/${RECORD}`,
+        slug,
+        propertySlug: slug,
+        properties: declared,
+      },
     },
   ])
 }
@@ -118,7 +125,7 @@ export function propertied(root: string, kind: string, slug: string, id: string)
     root,
     pathFor(kind, slug),
     bytesOf(
-      `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(kind)}, ` +
+      `export const held = { id: ${JSON.stringify(id)}, type: ${JSON.stringify(`page-type/${kind}`)}, ` +
         `slug: ${JSON.stringify(slug)}, propertySlug: ${JSON.stringify(slug)} }\n`
     )
   )

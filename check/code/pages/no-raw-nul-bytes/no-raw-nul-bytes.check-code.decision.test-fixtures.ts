@@ -55,14 +55,19 @@ const SLUG = "authority-certificate"
 const STEM = "01a087f0-0000-7000-8000-0000000000"
 
 const CARRIED: readonly Value[] = [
-  { pageTypeSlug: FILE_PROPERTY, slug: "wallpaper", propertySlug: "wallpaper", holdsBytes: true },
-  { pageTypeSlug: FILE_PROPERTY, slug: "notes", propertySlug: "notes" },
+  {
+    type: `${pageType.slug}/${FILE_PROPERTY}`,
+    slug: "wallpaper",
+    propertySlug: "wallpaper",
+    holdsBytes: true,
+  },
+  { type: `${pageType.slug}/${FILE_PROPERTY}`, slug: "notes", propertySlug: "notes" },
 ]
 
 function alsoSeeded(root: string): undefined {
   const filing = pageFilingFrom(root, STEM)
   filing(PAGE_TYPE, FILE_PROPERTY, `akasha/${FILE_PROPERTY}.page-type.ts`, {
-    pageTypeSlug: PAGE_TYPE,
+    type: `${pageType.slug}/${PAGE_TYPE}`,
     slug: FILE_PROPERTY,
     extends: [`${pageType.slug}/${pageProperty.slug}`],
   })
@@ -100,17 +105,20 @@ export function seeded(value: Value): string {
   valueAlsoFiled(root, FILE_PROPERTY, [
     {
       path: PROPERTY_AT,
-      value: { id: PROPERTY_ID, pageTypeSlug: FILE_PROPERTY, slug: SLUG, ...value },
+      value: { id: PROPERTY_ID, type: `${pageType.slug}/${FILE_PROPERTY}`, slug: SLUG, ...value },
     },
   ])
   listedFiled(root, PAGE_TYPE, AUTHORITY, [{ path: TYPE_AT, id: TYPE_ID }])
   valueAlsoFiled(root, PAGE_TYPE, [
-    { path: TYPE_AT, value: { id: TYPE_ID, pageTypeSlug: PAGE_TYPE, slug: AUTHORITY } },
+    {
+      path: TYPE_AT,
+      value: { id: TYPE_ID, type: `${pageType.slug}/${PAGE_TYPE}`, slug: AUTHORITY },
+    },
   ])
   idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   listedFiled(root, AUTHORITY, "one", [{ path: OWNER_AT, id: OWNER_ID }])
   valueAlsoFiled(root, AUTHORITY, [
-    { path: OWNER_AT, value: { id: OWNER_ID, pageTypeSlug: AUTHORITY, slug: "one" } },
+    { path: OWNER_AT, value: { id: OWNER_ID, type: `${pageType.slug}/${AUTHORITY}`, slug: "one" } },
   ])
   alsoSeeded(root)
   return root

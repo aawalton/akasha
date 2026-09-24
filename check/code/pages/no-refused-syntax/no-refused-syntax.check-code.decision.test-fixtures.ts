@@ -24,6 +24,8 @@ import {
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const PROBE_AT = "akasha/one/probe.module.code.ts"
 
@@ -92,7 +94,10 @@ export function carrying(root: string, before: string | null, after: string | nu
 export function ruleFiled(root: string): undefined {
   listedFiled(root, RULE, PROBE_SLUG, [{ path: PROBE_RULE_AT, id: PROBE_ID }])
   valueAlsoFiled(root, RULE, [
-    { path: PROBE_RULE_AT, value: { id: PROBE_ID, pageTypeSlug: RULE, slug: PROBE_SLUG } },
+    {
+      path: PROBE_RULE_AT,
+      value: { id: PROBE_ID, type: `${pageType.slug}/${RULE}`, slug: PROBE_SLUG },
+    },
   ])
   return undefined
 }
@@ -118,7 +123,7 @@ const MODULE_PAGES: readonly (readonly [string, Held])[] = [
     "akasha/page/modules/value/page-value.module.ts",
     {
       id: "01a0596b-0000-7000-8000-000000000002",
-      pageTypeSlug: MODULE,
+      type: `${pageType.slug}/${MODULE}`,
       slug: "page-value",
       pageBodyReaders: ["valueAt"],
     },
@@ -127,7 +132,7 @@ const MODULE_PAGES: readonly (readonly [string, Held])[] = [
     "akasha/agent/model/account/modules/reading/model-account-reading.module.ts",
     {
       id: "01a0596b-0000-7000-8000-000000000003",
-      pageTypeSlug: MODULE,
+      type: `${pageType.slug}/${MODULE}`,
       slug: "model-account-reading",
       pageBodyReaders: ["accountValuesIn"],
     },
@@ -136,7 +141,7 @@ const MODULE_PAGES: readonly (readonly [string, Held])[] = [
     "akasha/one/quiet.module.ts",
     {
       id: "01a0596b-0000-7000-8000-000000000004",
-      pageTypeSlug: MODULE,
+      type: `${pageType.slug}/${MODULE}`,
       slug: "quiet",
     },
   ],
@@ -155,7 +160,7 @@ const LEVEL_PAGES: readonly (readonly [string, Held])[] = [
     "akasha/command/pages/change/change.namespace.ts",
     {
       id: "01a0596b-0000-7000-8000-000000000005",
-      pageTypeSlug: NAMESPACE,
+      type: `${pageType.slug}/${NAMESPACE}`,
       slug: "change",
       name: "change",
     },
@@ -164,7 +169,7 @@ const LEVEL_PAGES: readonly (readonly [string, Held])[] = [
     "akasha/command/pages/change/drop/change-drop.command.ts",
     {
       id: "01a0596b-0000-7000-8000-000000000006",
-      pageTypeSlug: COMMAND,
+      type: `${pageType.slug}/${COMMAND}`,
       slug: "change-drop",
       name: "drop",
     },
@@ -174,7 +179,7 @@ const LEVEL_PAGES: readonly (readonly [string, Held])[] = [
 export function levelsFiled(root: string): undefined {
   for (const [path, value] of LEVEL_PAGES) {
     writing(root, path, bodyOf(value))
-    listedFiled(root, String(value.pageTypeSlug), String(value.slug), [
+    listedFiled(root, slugOf(String(value.type)), String(value.slug), [
       { path, id: String(value.id) },
     ])
   }

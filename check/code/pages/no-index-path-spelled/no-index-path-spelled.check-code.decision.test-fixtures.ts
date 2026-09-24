@@ -43,7 +43,7 @@ export function rooted(
   writing(
     root,
     TYPED_AT,
-    `export const held = { id: "${TYPED_ID}", pageTypeSlug: "page-type", slug: "index" }\n`
+    `export const held = { id: "${TYPED_ID}", type: "page-type/page-type", slug: "index" }\n`
   )
   for (const [path, body] of Object.entries(files)) writing(root, path, body)
   return root

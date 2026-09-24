@@ -8,6 +8,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const WORKSPACE = "workspace"
 
@@ -44,7 +45,7 @@ export function rooted(prefix: string = "akasha-manifest-"): string {
   declaring(root, MANIFEST_KEY, { pageTypeSlug: FILE_PROPERTY, fileName: "package.json" })
   listedFiled(root, WORKSPACE, "held", [{ path: PAGE_AT, id: ID }])
   valueAlsoFiled(root, WORKSPACE, [
-    { path: PAGE_AT, value: { id: ID, pageTypeSlug: WORKSPACE, slug: "held" } },
+    { path: PAGE_AT, value: { id: ID, type: `${pageType.slug}/${WORKSPACE}`, slug: "held" } },
   ])
   return root
 }

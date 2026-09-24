@@ -10,6 +10,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const KIND = "lua-runtime-library"
 
@@ -40,11 +41,14 @@ export function rooted(
   writing(
     root,
     LIBRARY_PAGE,
-    `export const held = { id: "${LIBRARY_ID}", pageTypeSlug: "${KIND}", slug: "held" }\n`
+    `export const held = { id: "${LIBRARY_ID}", type: "page-type/${KIND}", slug: "held" }\n`
   )
   listedFiled(root, KIND, "held", [{ path: LIBRARY_PAGE, id: LIBRARY_ID }])
   valueAlsoFiled(root, KIND, [
-    { path: LIBRARY_PAGE, value: { id: LIBRARY_ID, pageTypeSlug: KIND, slug: "held" } },
+    {
+      path: LIBRARY_PAGE,
+      value: { id: LIBRARY_ID, type: `${pageType.slug}/${KIND}`, slug: "held" },
+    },
   ])
   for (const [path, body] of Object.entries(files)) writing(root, path, body)
   return root
