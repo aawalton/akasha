@@ -42,6 +42,7 @@ import {
   slugFoldersOf,
   typeSlugOf,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { pagesAtFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 import "akasha/alan/harness/code-editor/data-interface/pages/terminal-tabs/terminal-tabs.code-editor-data-interface.d.ts"
@@ -54,9 +55,12 @@ const SERVICE = "service"
 const SIDECAR = ".uncommitted.ts"
 const SETTLE_MS = 25
 
+const REACH = 1
+
 type Picture = {
   readonly cooldownMs: number
   readonly folders: readonly string[]
+  readonly reaches: readonly string[]
   readonly holds: (at: string) => boolean
   readonly identities: readonly string[]
   readonly line: () => string | null
@@ -70,6 +74,22 @@ function within(folder: string, ...endings: readonly string[]): (at: string) => 
 
 function pagesOfType(root: string, pageTypeSlug: string): readonly string[] {
   return everyOfType(root, pageTypeSlug).map((one) => join(root, one.path))
+}
+
+function pagesFolderOf(root: string, pageTypeSlug: string): string {
+  return join(root, pagesAtFor(root, pageTypeSlug))
+}
+
+function reached(folder: string, ...endings: readonly string[]): (at: string) => boolean {
+  return (at) => {
+    const dir = dirname(at)
+    const near = dir === folder || dirname(dir) === folder
+    return near && endings.some((ending) => at.endsWith(ending))
+  }
+}
+
+function pageEnding(pageTypeSlug: string): string {
+  return `.${pageTypeSlug}.ts`
 }
 
 function serviceTypes(root: string): readonly string[] {
@@ -131,15 +151,14 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
   const subagentType = typeSlugOf(root, SUBAGENT_TYPE)
   const initiativeType = typeSlugOf(root, INITIATIVE_TYPE)
   const serviceKinds = serviceTypes(root)
-  const seatPages = pagesOfType(root, seatType)
-  const seatFolders = foldersOf(seatPages)
-  const seatFiles = either(oneOf(seatPages), endingWithin(seatFolders, SIDECAR))
+  const seatPages = pagesFolderOf(root, seatType)
+  const seatFiles = reached(seatPages, pageEnding(seatType), SIDECAR)
   const turnStatePages = pagesOfType(root, turnStateType)
   const turnStateFolders = foldersOf(turnStatePages)
-  const subagentPages = pagesOfType(root, subagentType)
-  const subagentFolders = foldersOf(subagentPages)
-  const initiativePages = pagesOfType(root, initiativeType)
-  const initiativeFolders = foldersOf(initiativePages)
+  const subagentPages = pagesFolderOf(root, subagentType)
+  const subagentFiles = reached(subagentPages, pageEnding(subagentType))
+  const initiativePages = pagesFolderOf(root, initiativeType)
+  const initiativeFiles = reached(initiativePages, pageEnding(initiativeType))
   const serviceFolders = foldersOf(pagesOfTypes(root, serviceKinds))
   const terminals = seatMarksAt(root)
   const readings = watchedFoldersIn(root)
@@ -148,8 +167,9 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "agent-tree",
       {
         cooldownMs: 1_000,
-        folders: [...seatFolders, ...turnStateFolders, ...subagentFolders],
-        holds: either(seatFiles, oneOf(turnStatePages), oneOf(subagentPages)),
+        folders: turnStateFolders,
+        reaches: [seatPages, subagentPages],
+        holds: either(seatFiles, oneOf(turnStatePages), subagentFiles),
         identities: identitiesOf(root, [seatType, turnStateType, subagentType]),
         line: () => agentTreeLine(root),
         held: NOTHING_WRITTEN,
@@ -161,6 +181,7 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       {
         cooldownMs: 1_000,
         folders: readings,
+        reaches: [],
         holds: endingWithin(readings, SIDECAR),
         identities: [],
         line: () => statusBarLine(root),
@@ -172,8 +193,9 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "work-tree",
       {
         cooldownMs: 1_000,
-        folders: [...seatFolders, ...turnStateFolders, ...initiativeFolders],
-        holds: either(seatFiles, oneOf(turnStatePages), oneOf(initiativePages)),
+        folders: turnStateFolders,
+        reaches: [seatPages, initiativePages],
+        holds: either(seatFiles, oneOf(turnStatePages), initiativeFiles),
         identities: identitiesOf(root, [seatType, turnStateType, initiativeType]),
         line: () => workTreeLine(root),
         held: NOTHING_WRITTEN,
@@ -185,6 +207,7 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       {
         cooldownMs: 1_000,
         folders: serviceFolders,
+        reaches: [],
         holds: endingWithin(serviceFolders, SIDECAR),
         identities: identitiesOf(root, serviceKinds),
         line: () => serviceTreeLine(root),
@@ -196,7 +219,8 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "terminal-tabs",
       {
         cooldownMs: 1_000,
-        folders: [...seatFolders, ...turnStateFolders, terminals],
+        folders: [...turnStateFolders, terminals],
+        reaches: [seatPages],
         holds: either(seatFiles, oneOf(turnStatePages), within(terminals, MARK_TAIL)),
         identities: [],
         line: () => terminalTabsLine(root),
@@ -241,20 +265,21 @@ export function watchEditorData(): () => undefined {
   mkdirSync(seatMarksAt(root), { recursive: true })
   const pictures = picturesOf(root)
   const folders = new Set<string>()
-  for (const picture of pictures.values()) for (const at of picture.folders) folders.add(at)
+  const reaches = new Set<string>()
+  for (const picture of pictures.values()) {
+    for (const at of picture.folders) folders.add(at)
+    for (const at of picture.reaches) reaches.add(at)
+  }
   const holds = either(...[...pictures.values()].map((picture) => picture.holds))
   for (const [slug, picture] of pictures) keep(root, slug, picture)
+  const moved = (what: readonly string[]): undefined => {
+    for (const [slug, picture] of pictures) {
+      if (what.some(picture.holds)) keep(root, slug, picture)
+    }
+  }
   const following: Following[] = [
-    followWithin(
-      folders,
-      holds,
-      (what) => {
-        for (const [slug, picture] of pictures) {
-          if (what.some(picture.holds)) keep(root, slug, picture)
-        }
-      },
-      SETTLE_MS
-    ),
+    followWithin(folders, holds, moved, SETTLE_MS),
+    followWithin(reaches, holds, moved, SETTLE_MS, undefined, REACH),
   ]
   for (const [slug, picture] of pictures) {
     if (picture.identities.length === 0) continue
