@@ -12,4 +12,8 @@ export const gitTransport = {
   replicas: 1,
   containerPort: 3000,
   manifest: ["manifest/git-transport-manifests"],
+  secrets: [
+    "secret/git-transport-secrets-git-access-token",
+    "secret/git-transport-secrets-github-access-token",
+  ],
 } as const satisfies ServiceCluster
