@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/awen/awen.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/ember/ember.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-game-master-the-tower/iris-game-master-the-tower.seat.ts"}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris-world-builder-the-tower/iris-world-builder-the-tower.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/olwen/olwen.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/ryn/ryn.seat.ts"}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/athena-interactive-seat-pages.initiative.ts","id":"01a0d3df-f4af-7a95-9f4c-1225394968c2"}
