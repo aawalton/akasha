@@ -153,8 +153,8 @@ function sortActiveQuests(this: void, quests: readonly ActiveQuest[]): readonly 
 
 export function getActiveQuests(this: void): readonly ActiveQuest[] {
   const quests: ActiveQuest[] = []
-  const numQuests = GetNumJournalQuests()
-  for (let i = 1; i <= numQuests; i += 1) {
+  for (let i = 1; i <= MAX_JOURNAL_QUESTS; i += 1) {
+    if (!IsValidQuestIndex(i)) continue
     if (isDailyCraftingWritQuest(i)) continue
     const isComplete = GetJournalQuestIsComplete(i)
     const [questName, , activeStepText, , activeStepTrackerOverrideText] = GetJournalQuestInfo(i)
