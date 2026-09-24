@@ -51,6 +51,10 @@ export const pageListening = {
       statement: "Running this module's file starts the service.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The service reads a seat's turn again each time the seat's transcript grows.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Importing this module's file starts nothing.",
     },

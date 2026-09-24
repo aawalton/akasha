@@ -271,6 +271,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/turn-refreshing/turn-refreshing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/wake-armed-specs/wake-armed-specs.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.ts"}

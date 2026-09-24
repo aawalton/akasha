@@ -28,6 +28,7 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-port-line/supervisor-gateway-port-line.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/model-gateway/modules/supervisor-spawn-gateway/supervisor-spawn-gateway.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/modules/tmux-session/tmux-session.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/observation/seat-turn/modules/turn-refreshing/turn-refreshing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/pty/modules/proxy/pty-proxy.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/reviving/modules/resume-verify/resume-verify.module.code.ts"}

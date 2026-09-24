@@ -35,6 +35,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/modules/reading/seat-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/observation/seat-turn/modules/turn-refreshing/turn-refreshing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/seat-agent-mcp/modules/mcp-registry/mcp-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/agent-hook-registration/agent-hook-registration.module.code.ts"}

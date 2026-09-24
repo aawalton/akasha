@@ -1,3 +1,5 @@
+import { refreshingTurns } from "akasha/agent/seat/observation/seat-turn/modules/turn-refreshing/turn-refreshing.module.code.ts"
+import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import {
   bindsFor,
   pagePathFor,
@@ -95,12 +97,9 @@ export function runPageListening(root: string): undefined {
       `no page is slugged ${SERVICE_SLUG} under ${SERVICE_PAGE_TYPE}, or it states no port`
     )
   }
-  const stated: Listening = {
-    root,
-    port,
-    binds: bindsFor(root, SERVICE_SLUG),
-    following: followingFor(root),
-  }
+  const following = followingFor(root)
+  const stated: Listening = { root, port, binds: bindsFor(root, SERVICE_SLUG), following }
+  refreshingTurns(root, (sat) => following.changed({ pageTypeSlug: seat.slug, slug: sat.slug }))
   let bound = serversFor(stated)
   saying(root, page, unboundIn(bound))
   for (const one of bound.refused) {

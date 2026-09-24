@@ -11,6 +11,7 @@ export const seatTurn = {
     "module/seat-turn-color",
     "module/seat-turn-pending",
     "module/seat-turn-state",
+    "module/turn-refreshing",
     "module/turn-working",
     "module/wake-armed-specs",
   ],
