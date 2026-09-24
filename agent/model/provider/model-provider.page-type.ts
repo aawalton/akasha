@@ -4,7 +4,7 @@ export const modelProvider = {
   id: "01a0a20a-0678-73be-983a-777f3d76d8bb",
   type: "page-type/page-type",
   slug: "model-provider",
-  definition: "an outside system that serves models",
+  definition: "an external service that serves models",
   extends: ["page-type/domain"],
   parts: [
     "model-provider/anthropic",
@@ -16,7 +16,7 @@ export const modelProvider = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A provider is a domain whose subject is one outside system.",
+      statement: "A provider is a domain whose subject is one external service.",
     },
     {
       decisionKind: "decision-kind/constraint",

@@ -101,6 +101,7 @@
 {"propertySlug":"part-of-speech","path":"design/game/achievement/achievement.page-type.ts","id":"01a06807-be66-7009-aef9-4834eb342f4f"}
 {"propertySlug":"part-of-speech","path":"design/game/drive/drive.page-type.ts","id":"01a06746-de46-7a10-980b-3134872d9f6b"}
 {"propertySlug":"part-of-speech","path":"design/interface/color/color.page-type.ts","id":"01a06575-c2a9-766f-8f09-da30cc969637"}
+{"propertySlug":"part-of-speech","path":"design/technology/external-service/external-service.domain.ts","id":"01a0d49d-d0ee-715a-a8ef-3047892f6f67"}
 {"propertySlug":"part-of-speech","path":"design/technology/mcp/mcp.domain.ts","id":"01a065a0-1408-780c-8dcb-6f6ea9f7d7fd"}
 {"propertySlug":"part-of-speech","path":"design/technology/mcp/server/mcp-server.domain.ts","id":"01a0d46d-1c69-7e88-b265-f0d743ac677a"}
 {"propertySlug":"part-of-speech","path":"domain/context/context.domain.ts","id":"01a04f50-2a7e-7000-a43d-22ce4657c379"}

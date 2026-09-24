@@ -2451,6 +2451,7 @@
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/performance-global/performance-global.type-declaration.ts","id":"01a06c82-21b6-70be-aed0-9bc2e1d7da47"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.ts","id":"01a0691f-4de6-73ec-ad84-6ee006f2e3f7"}
 {"propertySlug":"decision-kind","path":"design/play/design-play.domain.ts","id":"01a0c5e7-5da4-75d2-b817-cfeb27a8d865"}
+{"propertySlug":"decision-kind","path":"design/technology/external-service/external-service.domain.ts","id":"01a0d49d-d0ee-715a-a8ef-3047892f6f67"}
 {"propertySlug":"decision-kind","path":"domain/champion/domain-champion.domain.ts","id":"01a0675b-16de-790e-8eea-52afc2046700"}
 {"propertySlug":"decision-kind","path":"domain/context/context.domain.ts","id":"01a04f50-2a7e-7000-a43d-22ce4657c379"}
 {"propertySlug":"decision-kind","path":"domain/context/modules/agent-stated/agent-stated.module.ts","id":"01a0582a-d9ef-72d5-a4df-56bca58d3005"}
