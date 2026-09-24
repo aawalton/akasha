@@ -7,6 +7,7 @@ export const pageIncrementing = {
   definition: "a number a page holds, added to in one step",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

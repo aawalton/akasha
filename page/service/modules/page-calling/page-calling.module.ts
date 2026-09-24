@@ -147,6 +147,18 @@ export const pageCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An increment is sent through this module.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An increment is sent once, since an increment sent again could be counted twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An increment answering no count is refused rather than read as landed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A stream of changes and what it follows are passed through as the service answers.",
     },

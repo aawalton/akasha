@@ -38,6 +38,7 @@ export const pageAccess = {
     "module/types",
     "module/upsert",
     "module/read-gate",
+    "module/increment-property",
   ],
   decisions: [
     {

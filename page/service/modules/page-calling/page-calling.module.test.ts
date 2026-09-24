@@ -10,6 +10,8 @@ import {
   type Fetcher,
   FILE_AT as FILES,
   filingFor,
+  INCREMENT_AT as INCREMENTS,
+  incrementingFor,
   originOf,
   READ_AT as READS,
   refusedIn,
@@ -21,6 +23,7 @@ import {
   APPEND_AT,
   ASK_AT,
   FILE_AT,
+  INCREMENT_AT,
   READ_AT,
   WRITE_AT,
 } from "akasha/page/service/modules/page-serving/page-serving.module.code.ts"
@@ -269,4 +272,40 @@ test("a file answered badly on the way is asked for again", async () => {
 
 test("the path a file is called at is the path the service answers a file at", () => {
   expect(FILES).toBe(FILE_AT)
+})
+
+const AN_INCREMENT = {
+  writer: "Amy <amy@alanwalton.com>",
+  message: "a tap",
+  pageTypeSlug: "readout-widget",
+  slug: "one",
+  key: "taps",
+  by: 1,
+  set: {},
+}
+
+test("the path an increment is called at is the path the service answers an increment at", () => {
+  expect(INCREMENTS).toBe(INCREMENT_AT)
+})
+
+test("an increment carries back the count the service answered", async () => {
+  expect(await incrementingFor(AN_INCREMENT, answering(200, { value: 7 }))).toEqual({ value: 7 })
+})
+
+test("an increment reaching no page carries back no count", async () => {
+  expect(await incrementingFor(AN_INCREMENT, answering(200, { value: null }))).toEqual({
+    value: null,
+  })
+})
+
+test("an increment answered with no count is refused rather than read as landed", async () => {
+  const said = await incrementingFor(AN_INCREMENT, answering(200, { held: 1 }))
+  expect("refused" in said && said.refused).toContain("naming no count")
+})
+
+test("an increment that answers nothing is sent once rather than tried again", async () => {
+  const held = counting(() => Promise.reject(new Error("nothing came back")))
+  const said = await incrementingFor(AN_INCREMENT, held.fetcher)
+  expect(held.spent()).toBe(1)
+  expect("refused" in said && said.refused).toContain("counted twice")
 })

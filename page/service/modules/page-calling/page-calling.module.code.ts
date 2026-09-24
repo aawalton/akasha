@@ -9,6 +9,10 @@ import type {
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import type {
+  Incremented,
+  Incrementing,
+} from "akasha/page/service/modules/page-incrementing/page-incrementing.module.code.ts"
+import type {
   Read,
   Asked as Sought,
 } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
@@ -33,6 +37,8 @@ export const FILE_AT = "/file"
 export const APPEND_AT = "/append"
 
 const PLACE_AT = "/place"
+
+export const INCREMENT_AT = "/increment"
 
 const EVENTS_AT = "/events"
 
@@ -320,6 +326,34 @@ export async function placingFor(
     return { refused: "the pages answered a placing naming no path" }
   }
   return { placed: said.placed }
+}
+
+export async function incrementingFor(
+  asked: Incrementing,
+  fetcher: Fetcher = fetchThrough
+): Promise<Incremented> {
+  const at = `${originOf()}${INCREMENT_AT}`
+  const once = `${at} was reached once, since an increment sent again could be counted twice`
+  try {
+    const answered = await fetcher(at, {
+      method: "POST",
+      headers: { "content-type": "application/json", accept: "application/json" },
+      body: JSON.stringify(asked),
+      signal: AbortSignal.timeout(WRITE_CEILING_MS),
+    })
+    const got = await takenFrom(answered)
+    if ("unreadable" in got) return { refused: `${got.unreadable} — ${once}` }
+    const refused = refusedIn(got.held)
+    if (refused !== null) return { refused }
+    const value = objectIn(got.held)?.value
+    if (!answered.ok || (value !== null && typeof value !== "number")) {
+      return { refused: `the pages answered an increment ${answered.status} naming no count` }
+    }
+    return { value }
+  } catch (thrown) {
+    const why = thrown instanceof Error ? thrown.message : String(thrown)
+    return { refused: `${why} — ${once}` }
+  }
 }
 
 export async function eventsOpened(
