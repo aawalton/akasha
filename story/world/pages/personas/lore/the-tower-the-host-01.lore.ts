@@ -9,15 +9,7 @@ export const theTowerTheHost01 = {
   about: "character-other/the-tower-the-host-01",
   loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "The Host is the loom that weaves the False Haven.",
-    "The Host's weaving presses on a climber to relax, trust and do nothing.",
-    "A strong will knows the Host's pull for something foreign and can refuse it.",
-    "Threatened, the Host splits into identical decoys ringing its table.",
-    "The Host's decoys fake every cheap tell at once: shadow, heat and reflection.",
-    "Real fire salted through the Host's room shows every projection for a moment.",
-    "The true Host loops least, stirs real dust, and sits at the table's head where the floor slopes.",
-    "A blow at one of the Host's decoys draws the true Host's counter and a reshuffle.",
-    "A true strike on the Host cracks the haven and raises its true form rather than killing it.",
-    "The Host fights when a weapon is raised to it or its false exit is forced.",
+    "The Host, the loom that wove the False Haven, is dead.",
+    "The Host's shed mantle of woven light is slack and grey, with no warmth left to weave.",
   ],
 } as const satisfies Lore
