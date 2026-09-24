@@ -1,7 +1,0 @@
-## Rule
-
-Every drop flagged an essence seed carries latent essence of one element, settled before play from the floor files. Floor one: the Ashling's cooling cinder is ember. Floor two: the Drowned Sentry's fire-purged iron rivet is ember again in its forge cast, and the Glut's swarm-ichor sac is alchemy. Floor three: the Hollow Cantor's tuning-shard of folded sound is sound, and the cracked focus-crystal in the gallery alcove is mind. Floor four: the Gloomward Stalker's eye-lens is dark, and the Counterweight Colossus's winding-drum core is force. Not every drop is a seed. The floor-three keystone, the Warden's stone gauntlet, the Colossus's chain-length, the Sentry's pauldron and the Stalker's hide carry no essence at all and feed crafting only. The drum core is both a force seed and the heaviest crafting core yet.
-
-## Implications
-
-Ember has two seeds across the first four floors by design, because a second seed of an element already held is the cheapest way to climb it: the absorption mechanic trains an absorber six for holding the element against three for holding anything else. The other five elements appear once each, and their second seeds wait on floors from the fifth up. A dual-use drop is a real choice between feeding an affinity and feeding the forge, and the game master presents it as one rather than settling it. A seed is consumed by the absorption whatever the band, so no seed grants twice.
