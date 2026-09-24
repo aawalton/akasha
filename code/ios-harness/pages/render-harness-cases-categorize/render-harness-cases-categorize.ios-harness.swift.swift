@@ -2,27 +2,31 @@ import CoreGraphics
 import Foundation
 import WidgetKit
 
+// THE LABEL AND THE UNIT ARE THE ONES THE UNREVIEWED READOUT'S PAGE STATES.
+let CATEGORIZE_WORDS = #""label":"Unreviewed","unit":"transactions","#
+
 func categorizeBody(unreviewed: Int) -> String {
-    #"{"unreviewed":\#(unreviewed)}"#
+    #"{\#(CATEGORIZE_WORDS)"unreviewed":\#(unreviewed)}"#
 }
 
 let CATEGORIZATION_FIXTURE = categorizeBody(unreviewed: 19)
 
 func categorizeCases() -> [RenderCase] {
     func categorizeWorded(unreviewed: Int, words: String) -> String {
-        #"{"unreviewed":\#(unreviewed),"noneLeftWords":"\#(words)"}"#
+        #"{\#(CATEGORIZE_WORDS)"unreviewed":\#(unreviewed),"noneLeftWords":"\#(words)"}"#
     }
     func categorizeCelebrated(
         unreviewed: Int, emoji: String, words: String? = nil
     ) -> String {
         let worded = words.map { #","noneLeftWords":"\#($0)""# } ?? ""
-        return #"{"unreviewed":\#(unreviewed),"noneLeftEmoji":"\#(emoji)"\#(worded)}"#
+        return #"{\#(CATEGORIZE_WORDS)"unreviewed":\#(unreviewed),"#
+            + #""noneLeftEmoji":"\#(emoji)"\#(worded)}"#
     }
     func categorizeScaled(
         unreviewed: Int, yellowAt: Int? = 1, orangeAt: Int, redAt: Int, blackAt: Int
     ) -> String {
         let yellowed = yellowAt.map { #""yellowAt":\#($0),"# } ?? ""
-        return #"{"unreviewed":\#(unreviewed),"#
+        return #"{\#(CATEGORIZE_WORDS)"unreviewed":\#(unreviewed),"#
             + #""scale":{\#(yellowed)"orangeAt":\#(orangeAt),"redAt":\#(redAt),"#
             + #""blackAt":\#(blackAt)}}"#
     }
@@ -64,6 +68,12 @@ func categorizeCases() -> [RenderCase] {
         RenderCase(
             name: "categorize-small-nine-hundred", widget: "CategorizeWidget",
             familySource: "systemSmall", body: categorizeBody(unreviewed: 900)))
+
+    // A BODY SENT BEFORE THE FEED CARRIED THE READOUT'S WORDS, AS A TILE MAY STILL HOLD ONE.
+    all.append(
+        RenderCase(
+            name: "categorize-small-no-caption", widget: "CategorizeWidget",
+            familySource: "systemSmall", body: #"{"unreviewed":19}"#))
 
     for band in [
         (name: "zero", unreviewed: 0),

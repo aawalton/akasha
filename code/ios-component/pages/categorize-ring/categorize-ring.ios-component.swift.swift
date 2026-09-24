@@ -20,29 +20,39 @@ extension BacklogScale {
 
 struct Categorization {
     let unreviewed: Int
+    let label: String?
+    let unit: String?
     let scale: BacklogScale?
     let noneLeftWords: String?
     let noneLeftEmoji: String?
 
     init(
-        unreviewed: Int, scale: BacklogScale? = nil,
+        unreviewed: Int, label: String? = nil, unit: String? = nil, scale: BacklogScale? = nil,
         noneLeftWords: String? = nil, noneLeftEmoji: String? = nil
     ) {
         self.unreviewed = unreviewed
+        self.label = label
+        self.unit = unit
         self.scale = scale
         self.noneLeftWords = noneLeftWords
         self.noneLeftEmoji = noneLeftEmoji
     }
 }
 
+// THE CAPTION IS THE LABEL THE READOUT'S PAGE STATES, SENT BESIDE THE COUNT.
+//
+// A body sent before the feed carried a label decodes with none, and the ring is drawn
+// with no caption rather than with a word this file would have to hold.
 extension Categorization: Decodable {
     private enum CodingKeys: String, CodingKey {
-        case unreviewed, scale, noneLeftWords, noneLeftEmoji
+        case unreviewed, label, unit, scale, noneLeftWords, noneLeftEmoji
     }
 
     init(from decoder: Decoder) throws {
         let container = try decoder.container(keyedBy: CodingKeys.self)
         unreviewed = try container.decode(Int.self, forKey: .unreviewed)
+        label = try container.decodeIfPresent(String.self, forKey: .label)
+        unit = try container.decodeIfPresent(String.self, forKey: .unit)
         scale = try container.decodeIfPresent(BacklogScale.self, forKey: .scale)
         noneLeftWords = try container.decodeIfPresent(String.self, forKey: .noneLeftWords)
         noneLeftEmoji = try container.decodeIfPresent(String.self, forKey: .noneLeftEmoji)
@@ -50,12 +60,15 @@ extension Categorization: Decodable {
 }
 
 typealias CategorizeReading = (
-    left: Int, scale: BacklogScale?, noneLeftWords: String?, noneLeftEmoji: String?
+    left: Int, label: String?, scale: BacklogScale?, noneLeftWords: String?,
+    noneLeftEmoji: String?
 )
 
 func categorizeReading(_ state: FeedState<Categorization>) -> CategorizeReading? {
     guard case .loaded(let counts) = state else { return nil }
-    return (counts.unreviewed, counts.scale, counts.noneLeftWords, counts.noneLeftEmoji)
+    return (
+        counts.unreviewed, counts.label, counts.scale, counts.noneLeftWords, counts.noneLeftEmoji
+    )
 }
 
 struct CategorizeTile: View {
@@ -83,7 +96,7 @@ struct CategorizeTile: View {
             lineCap: .round,
             caption: RingCaption(
                 spacing: SPACING_2,
-                text: "Unreviewed",
+                text: reading?.label,
                 font: .system(size: 13, weight: .medium),
                 style: AnyShapeStyle(Color(.secondaryLabel))
             ),

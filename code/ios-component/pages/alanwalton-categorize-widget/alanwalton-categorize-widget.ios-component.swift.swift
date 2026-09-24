@@ -4,7 +4,8 @@ import WidgetKit
 enum CategorizationFeed: WidgetFeed {
     static let endpoint = URL(string: "https://alanwalton.com/api/categorization")!
 
-    static let previewPayload = Categorization(unreviewed: 19)
+    static let previewPayload = Categorization(
+        unreviewed: 19, label: "Unreviewed", unit: "transactions")
 }
 
 struct CategorizeHomeView: View {

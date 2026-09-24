@@ -27,5 +27,13 @@ export const categorizeRing = {
       decisionKind: "decision-kind/departure",
       statement: "A reading of nothing is drawn as the words or the emoji sent for that reading.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The caption is the label the feed sends beside the count.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading sent with no label is drawn with no caption.",
+    },
   ],
 } as const satisfies IosComponent
