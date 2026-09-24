@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"graph-asking.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"graph-asking.module.code.ts","path":"check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"graph-asking.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"graph-asking.module.code.ts","path":"graph/modules/asking/graph-asking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"graph-asking.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"graph-asking.module.test-fixtures.ts","path":"graph/modules/asking/graph-asking.module.test.ts","typed":false,"deferred":false}

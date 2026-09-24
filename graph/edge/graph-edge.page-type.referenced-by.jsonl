@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"graph-edge.page-type.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"graph-edge.page-type.ts","path":"page/service/modules/page-shaping/page-shaping.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"graph-edge.page-type.types.ts","path":"graph/edge/pages/import-edge.graph-edge.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"graph-edge.page-type.types.ts","path":"graph/edge/pages/relation.graph-edge.ts","typed":true,"deferred":false}

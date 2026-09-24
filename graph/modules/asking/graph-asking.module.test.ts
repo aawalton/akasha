@@ -9,6 +9,8 @@ import {
   BY_DECLARATION,
   BY_REFERENCE,
   bodiesIn,
+  CODE_COMING_IN,
+  CODE_DEFERRED,
   callingBody,
   DEFERRED,
   EDGE_AT,
@@ -50,15 +52,20 @@ import {
   TARGET_AT,
   THIRD_AT,
   TYPE_AT,
+  TYPE_AT_LOAD,
   typingBody,
+  waysOf,
 } from "akasha/graph/modules/asking/graph-asking.module.test-fixtures.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import { bodiesAt } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { readingLaidOver } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
 
 const NAMED = relative(REPO_AT, import.meta.path).replace(".module.test.ts", ".module.ts")
+
+const CODE_NAMED = NAMED.replace(".module.ts", ".module.code.ts")
 
 const PREDICATE = "graph-predicate"
 
@@ -98,8 +105,62 @@ test("a file is answered with every file importing it, and each says a reference
   const root = importWorld()
 
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
-    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: { [KNOWN]: BY_REFERENCE } },
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: CODE_COMING_IN },
   ])
+})
+
+test("an edge coming in says whether that edge names a type or names code", () => {
+  const root = importWorld()
+  importsFiled(root, SECOND_AT, [FIRST_AT], [TYPE_AT_LOAD])
+
+  expect(edgesInto(SECOND_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
+    {
+      kind: IMPORT_EDGE,
+      from: FIRST_AT,
+      to: SECOND_AT,
+      attrs: { [KNOWN]: BY_REFERENCE, [NAMES]: NAMES_TYPE, [LOADING]: AT_LOAD },
+    },
+  ])
+})
+
+test("an edge coming in says whether that edge is followed as the file loads or later", () => {
+  const root = importWorld()
+  importsFiled(root, SECOND_AT, [FIRST_AT], [CODE_DEFERRED])
+
+  expect(edgesInto(SECOND_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
+    {
+      kind: IMPORT_EDGE,
+      from: FIRST_AT,
+      to: SECOND_AT,
+      attrs: { [KNOWN]: BY_REFERENCE, [NAMES]: NAMES_CODE, [LOADING]: DEFERRED },
+    },
+  ])
+})
+
+test("a file imported two ways has an edge coming in for each way, as going out", () => {
+  const root = importWorld()
+  importsFiled(root, SECOND_AT, [FIRST_AT], [TYPE_AT_LOAD, CODE_DEFERRED])
+  const bodies = filesOf({
+    [FIRST_AT]: `${typingBody("./second.page.ts")}${callingBody("./second.page.ts")}`,
+  })
+  const out = edgesOutOver([IMPORT_EDGE], indexOf(root), bodies)(FIRST_AT)
+  const into = edgesInto(SECOND_AT, [IMPORT_EDGE], indexOf(root))
+
+  expect(into).toHaveLength(2)
+  expect(waysOf(into)).toEqual(waysOf(out))
+})
+
+test("an import going out is the import the file it reaches reads coming in", () => {
+  const index = indexOf(REPO_AT)
+  const found = edgesOutOver([IMPORT_EDGE], index, bodiesAt(REPO_AT))(CODE_NAMED)
+
+  expect(found.length).toBeGreaterThan(0)
+  for (const one of found) {
+    expect(edgesInto(one.to, [IMPORT_EDGE], index)).toContainEqual({
+      ...one,
+      attrs: { ...one.attrs, [KNOWN]: BY_REFERENCE },
+    })
+  }
 })
 
 test("a relation coming in is answered though the body of the page reached will not read", () => {
@@ -156,7 +217,7 @@ test("a page is answered with what imports it and never with the code that loads
   const root = loadingWorld(`${MODULE}/${HELD_LOADER}`)
 
   expect(edgesInto(LOADED_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
-    { kind: IMPORT_EDGE, from: SOURCE_AT, to: LOADED_AT, attrs: { [KNOWN]: BY_REFERENCE } },
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: LOADED_AT, attrs: CODE_COMING_IN },
   ])
 })
 
@@ -180,7 +241,7 @@ test("an import edge existing only in the index given is answered, and none with
   const over = readingLaidOver(root, {}, importsBeside(root, FIRST_AT, [SECOND_AT]))
 
   expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([
-    { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: BY_REFERENCE } },
+    { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: CODE_COMING_IN },
   ])
   expect(edgesInto(FIRST_AT, [IMPORT_EDGE], indexOf(root))).toEqual([])
 })
@@ -192,7 +253,7 @@ test("an import edge the index given empties is not answered, and exists without
 
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOver(over, bodiesIn(root)))).toEqual([])
   expect(edgesInto(TARGET_AT, [IMPORT_EDGE], indexOf(root))).toEqual([
-    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: { [KNOWN]: BY_REFERENCE } },
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: CODE_COMING_IN },
   ])
 })
 

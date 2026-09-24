@@ -1,5 +1,6 @@
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import type { Edge } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import {
   type Answering,
   answeringOver,
@@ -66,6 +67,12 @@ export const LOADING = "loading"
 export const AT_LOAD = "at-load"
 
 export const DEFERRED = "deferred"
+
+export const CODE_COMING_IN = { [KNOWN]: BY_REFERENCE, [NAMES]: NAMES_CODE, [LOADING]: AT_LOAD }
+
+export function waysOf(edges: readonly Edge[]): readonly string[] {
+  return edges.map((one) => `${one.attrs[NAMES]} ${one.attrs[LOADING]}`).sort()
+}
 
 export const PART = "part-slugs"
 
@@ -137,13 +144,34 @@ function filed(root: string, at: string, said: Record<string, string>): undefine
   filedAll(root, at, [said])
 }
 
-function importReferences(into: string, from: readonly string[]): readonly Reference[] {
-  return from.map((one) => ({
-    propertySlug: IMPORT,
-    fileName: fileNameOf(into),
-    path: one,
-    id: null,
-  }))
+export type Way = {
+  readonly typed: boolean
+  readonly deferred: boolean
+}
+
+export const CODE_AT_LOAD: Way = { typed: false, deferred: false }
+
+export const TYPE_AT_LOAD: Way = { typed: true, deferred: false }
+
+export const CODE_DEFERRED: Way = { typed: false, deferred: true }
+
+const AT_LOAD_ALONE = [CODE_AT_LOAD] as const
+
+function importReferences(
+  into: string,
+  from: readonly string[],
+  ways: readonly Way[]
+): readonly Reference[] {
+  return from.flatMap((one) =>
+    ways.map((way) => ({
+      propertySlug: IMPORT,
+      fileName: fileNameOf(into),
+      path: one,
+      id: null,
+      typed: way.typed,
+      deferred: way.deferred,
+    }))
+  )
 }
 
 function bodyBeside(page: string, references: readonly Reference[]): Record<string, string> {
@@ -151,10 +179,15 @@ function bodyBeside(page: string, references: readonly Reference[]): Record<stri
   return at === null ? {} : { [at]: bodyOf(references) }
 }
 
-export function importsFiled(root: string, into: string, from: readonly string[]): undefined {
+export function importsFiled(
+  root: string,
+  into: string,
+  from: readonly string[],
+  ways: readonly Way[] = AT_LOAD_ALONE
+): undefined {
   const owner = claimantIn(root, into)
   if (owner === null) return
-  besideAdded(root, owner, importReferences(into, from))
+  besideAdded(root, owner, importReferences(into, from, ways))
 }
 
 export function importsBeside(
@@ -163,7 +196,7 @@ export function importsBeside(
   from: readonly string[]
 ): Record<string, string> {
   const owner = claimantIn(root, into)
-  return owner === null ? {} : bodyBeside(owner, importReferences(into, from))
+  return owner === null ? {} : bodyBeside(owner, importReferences(into, from, AT_LOAD_ALONE))
 }
 
 export function namedBeside(

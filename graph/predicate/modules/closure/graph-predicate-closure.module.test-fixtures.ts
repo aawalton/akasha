@@ -1,11 +1,14 @@
 import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import { graphAttribute } from "akasha/graph/attribute/graph-attribute.page-type.ts"
 import { names } from "akasha/graph/attribute/pages/names.graph-attribute.ts"
+import { graphEdge } from "akasha/graph/edge/graph-edge.page-type.ts"
+import { relation } from "akasha/graph/edge/pages/relation.graph-edge.ts"
 import {
   APART_AT,
   AT_LOAD,
   BY_DECLARATION,
   FIRST_AT,
+  importsFiled,
   importWorld,
   indexOf,
   KNOWN,
@@ -15,8 +18,10 @@ import {
   NAMES_TYPE,
   namingBody,
   reachingWorld,
+  relationWorld,
   SECOND_AT,
   THIRD_AT,
+  TYPE_AT_LOAD,
 } from "akasha/graph/modules/asking/graph-asking.module.test-fixtures.ts"
 import {
   closureOf,
@@ -27,6 +32,7 @@ import {
 import { codeImports } from "akasha/graph/predicate/pages/code-imports/code-imports.graph-predicate.ts"
 import { importers } from "akasha/graph/predicate/pages/importers/importers.graph-predicate.ts"
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
+import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 const NAMES_AT = `${graphAttribute.slug}/${names.slug}`
@@ -89,11 +95,26 @@ export const SIDEWAYS = { ...imports, direction: "sideways" }
 
 export const DECLARED = { [KNOWN]: BY_DECLARATION, [NAMES]: NAMES_CODE, [LOADING]: AT_LOAD }
 
-export const CODE_IMPORTERS = { ...importers, follows: codeImports.follows }
+const CODE_IMPORTERS = { ...importers, follows: codeImports.follows }
 
 export const EITHER_IMPORTS = { ...imports, follows: EITHER_NAME }
 
-export const EITHER_IMPORTERS = { ...importers, follows: EITHER_NAME }
+const RELATIONS = [`${graphEdge.slug}/${relation.slug}`]
+
+export const CODE_RELATIONS = { ...importers, edges: RELATIONS, follows: codeImports.follows }
+
+export const EITHER_RELATIONS = { ...importers, edges: RELATIONS, follows: EITHER_NAME }
+
+export function relating(): { readonly index: Answering } {
+  return { index: indexOf(relationWorld(1)) }
+}
+
+export function codeImportersOf(): readonly string[] {
+  const root = importWorld()
+  importsFiled(root, FIRST_AT, [SECOND_AT], [TYPE_AT_LOAD])
+  importsFiled(root, FIRST_AT, [THIRD_AT])
+  return closureOf(CODE_IMPORTERS, [FIRST_AT], { index: indexOf(root) })
+}
 
 export function changeAdding(root: string, at: string, body: string): Change {
   return {

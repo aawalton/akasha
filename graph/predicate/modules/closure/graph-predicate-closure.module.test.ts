@@ -4,8 +4,8 @@ import {
   APART_AT,
   AT_LOAD,
   BY_DECLARATION,
-  BY_REFERENCE,
   bodiesIn,
+  CODE_COMING_IN,
   callingBody,
   FIRST_AT,
   IMPORT_EDGE,
@@ -21,6 +21,7 @@ import {
   reachingWorld,
   SECOND_AT,
   scratch,
+  TARGET_AT,
   THIRD_AT,
   typingBody,
 } from "akasha/graph/modules/asking/graph-asking.module.test-fixtures.ts"
@@ -32,15 +33,17 @@ import {
   wayFrom,
 } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import {
-  CODE_IMPORTERS,
+  CODE_RELATIONS,
   chainOut,
   changeAdding,
   closedIn,
+  codeImportersOf,
   DECLARED,
-  EITHER_IMPORTERS,
   EITHER_IMPORTS,
+  EITHER_RELATIONS,
   loopsOver,
   RINGS,
+  relating,
   ringOut,
   SIDEWAYS,
   through,
@@ -84,11 +87,11 @@ test("a predicate following one attribute value takes in only the edges carrying
 })
 
 test("an edge carrying none of an attribute a predicate follows is refused", () => {
-  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
+  expect(() => closureOf(CODE_RELATIONS, [TARGET_AT], relating())).toThrow(/carries no `names`/)
+})
 
-  expect(() => closureOf(CODE_IMPORTERS, [FIRST_AT], { index: indexOf(root) })).toThrow(
-    /carries no `names`/
-  )
+test("an attribute followed in takes in only the edges coming in carrying it", () => {
+  expect(codeImportersOf()).toEqual([FIRST_AT, THIRD_AT])
 })
 
 test("a predicate following two values of one attribute takes in an edge carrying either", () => {
@@ -122,11 +125,7 @@ test("a predicate following two attributes takes in only an edge carrying both",
 })
 
 test("an edge carrying none of an attribute two values are followed for is refused", () => {
-  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
-
-  expect(() => closureOf(EITHER_IMPORTERS, [FIRST_AT], { index: indexOf(root) })).toThrow(
-    /carries no `names`/
-  )
+  expect(() => closureOf(EITHER_RELATIONS, [TARGET_AT], relating())).toThrow(/carries no `names`/)
 })
 
 test("a predicate followed in answers what reaches the seeds, and reads no body", () => {
@@ -288,7 +287,7 @@ test("an edge coming in is answered from the file naming the seed to the seed", 
 
   expect(taken.nodes).toEqual([FIRST_AT, SECOND_AT])
   expect(taken.edges).toEqual([
-    { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: BY_REFERENCE } },
+    { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: CODE_COMING_IN },
   ])
 })
 

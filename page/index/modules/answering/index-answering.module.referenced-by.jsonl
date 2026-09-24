@@ -34,6 +34,7 @@
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"graph/modules/asking/graph-asking.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"page/index/modules/path-naming/path-naming.module.code.ts","typed":true,"deferred":false}

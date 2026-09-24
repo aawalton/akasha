@@ -123,18 +123,45 @@ function attributeNamed(asking: Asking, wanted: string, asked: string): string {
   return wanted
 }
 
+type Way = {
+  readonly typed: boolean
+  readonly deferred: boolean
+}
+
+type Keys = {
+  readonly known: string
+  readonly names: string
+  readonly loading: string
+}
+
+function importKeys(asking: Asking, asked: string): Keys {
+  return {
+    known: attributeNamed(asking, KNOWN, asked),
+    names: attributeNamed(asking, NAMES, asked),
+    loading: attributeNamed(asking, LOADING, asked),
+  }
+}
+
+function importAttrs(keys: Keys, known: Known, one: Way): Readonly<Record<string, string>> {
+  return {
+    [keys.known]: known,
+    [keys.names]: one.typed ? NAMES_TYPE : NAMES_CODE,
+    [keys.loading]: one.deferred ? DEFERRED : AT_LOAD,
+  }
+}
+
 function importsInto(
   index: Answering,
   path: string,
   asking: Asking,
   asked: string
 ): readonly Edge[] {
-  const attribute = attributeNamed(asking, KNOWN, asked)
-  return index.importersOf(path).map((from) => ({
+  const keys = importKeys(asking, asked)
+  return index.importsReaching(path).map((one) => ({
     kind: asking.kind,
-    from,
+    from: one.path,
     to: path,
-    attrs: { [attribute]: BY_REFERENCE },
+    attrs: importAttrs(keys, BY_REFERENCE, one),
   }))
 }
 
@@ -149,9 +176,7 @@ function importsOutOf(
   bodyAt: Body,
   naming: Naming
 ): readonly Edge[] {
-  const known = attributeNamed(asking, KNOWN, asked)
-  const names = attributeNamed(asking, NAMES, asked)
-  const loading = attributeNamed(asking, LOADING, asked)
+  const keys = importKeys(asking, asked)
   if (!typeScripted(path)) return []
   const body = bodyAt(path)
   if (body === null) return []
@@ -159,11 +184,7 @@ function importsOutOf(
     kind: asking.kind,
     from: path,
     to: one.at,
-    attrs: {
-      [known]: BY_DECLARATION,
-      [names]: one.typed ? NAMES_TYPE : NAMES_CODE,
-      [loading]: one.deferred ? DEFERRED : AT_LOAD,
-    },
+    attrs: importAttrs(keys, BY_DECLARATION, one),
   }))
 }
 
