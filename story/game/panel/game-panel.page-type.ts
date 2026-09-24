@@ -23,6 +23,7 @@ export const gamePanel = {
     "relation-property/drawn-in",
     "page-type/panel-place",
     "game-panel/prose-channel",
+    "change-generator/game-panel-drawing",
   ],
   decisions: [
     {
@@ -49,5 +50,4 @@ export const gamePanel = {
     { pageProperty: "file-property/drawn", required: false, many: false },
     { pageProperty: "relation-property/drawn-in", required: true, many: false },
   ],
-  typeGenerator: "ts",
 } as const satisfies PageType

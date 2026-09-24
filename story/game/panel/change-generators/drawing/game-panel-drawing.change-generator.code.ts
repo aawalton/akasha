@@ -3,6 +3,10 @@ import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import {
+  type Typed,
+  typedWith,
+} from "akasha/page/type/modules/type-generating/type-generating.module.code.ts"
 import { turnedInto } from "akasha/story/game/panel/modules/panel-turning/panel-turning.module.code.ts"
 
 const PANEL = "game-panel"
@@ -23,7 +27,11 @@ export function couldTurn(change: Change): boolean {
   return false
 }
 
-export function generateTypes(_root: string, shadow: Shadow, change: Change): readonly Adding[] {
+export function generateChange(change: Change): Typed {
+  return typedWith(change, "game-panel-drawing", generateTypes)
+}
+
+function generateTypes(_root: string, shadow: Shadow, change: Change): readonly Adding[] {
   const written: Adding[] = []
   for (const listed of shadow.index.everyOfType(PANEL)) {
     const code = besideAt(listed.path, CODE, TSX)
