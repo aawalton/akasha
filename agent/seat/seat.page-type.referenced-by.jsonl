@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/nimue/nimue.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/olwen/olwen.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/ryn/ryn.seat.ts"}
-{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/thea/thea.seat.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-scratch-world-landing-leaves-no-id-while-every-live-subagent-page-carries-one.finding.ts","id":"01a08225-fa5f-7802-b93f-82b97af23dcb"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-seat-whose-initiative-is-deleted-goes-quiet-rather-than-refusing.finding.ts","id":"01a08c6c-ead9-7266-8931-ceab2c80da8a"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/fork-is-dispatched-with-no-kind-page.finding.ts","id":"01a06dc2-4b27-7b44-bdd9-6e1d005492ab"}
