@@ -1,9 +1,6 @@
 import { basename } from "node:path"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import {
-  textAt,
-  type Value,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { z } from "zod"
 
 const SECTION = "referenced-by"
 
@@ -32,19 +29,28 @@ export function fileNameOf(path: string): string {
   return basename(path)
 }
 
+const REFERENCE_LINE = z.object({
+  propertySlug: z.string(),
+  fileName: z.string().optional().catch(undefined),
+  path: z.string(),
+  id: z.string().optional().catch(undefined),
+})
+
 export function referenceIn(line: string): Reference | null {
-  let said: unknown
+  let said: ReturnType<typeof REFERENCE_LINE.safeParse>
   try {
-    said = JSON.parse(line)
+    said = REFERENCE_LINE.safeParse(JSON.parse(line))
   } catch {
     return null
   }
-  if (said === null || typeof said !== "object" || Array.isArray(said)) return null
-  const held = said as Value
-  const propertySlug = textAt(held, "propertySlug")
-  const path = textAt(held, "path")
-  if (propertySlug === null || path === null) return null
-  return { propertySlug, fileName: textAt(held, "fileName"), path, id: textAt(held, "id") }
+  if (!said.success) return null
+  const held = said.data
+  return {
+    propertySlug: held.propertySlug,
+    fileName: held.fileName ?? null,
+    path: held.path,
+    id: held.id ?? null,
+  }
 }
 
 export function referencesEach(lines: Iterable<string>): readonly Reference[] {

@@ -11,8 +11,11 @@ import {
   uncommittedPartsOf,
 } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { z } from "zod"
 
 const UNKNOWN = "so what the page carries there is unknown rather than nothing"
+
+const ROW = z.record(z.string(), z.unknown())
 
 export type Entried = {
   readonly key: string
@@ -44,16 +47,16 @@ export function entriesIn(at: string, text: string): Rows {
   for (let index = 0; index < lines.length; index += 1) {
     const said = (lines[index] ?? "").trim()
     if (said === "") continue
-    let held: unknown
+    let held: ReturnType<typeof ROW.safeParse>
     try {
-      held = JSON.parse(said)
+      held = ROW.safeParse(JSON.parse(said))
     } catch {
       return { refused: `'${at}' holds no JSON on line ${index + 1}, ${UNKNOWN}` }
     }
-    if (held === null || typeof held !== "object" || Array.isArray(held)) {
+    if (!held.success) {
       return { refused: `'${at}' holds no JSON object on line ${index + 1}, ${UNKNOWN}` }
     }
-    found.push(held as Value)
+    found.push(held.data)
   }
   return { entries: found }
 }

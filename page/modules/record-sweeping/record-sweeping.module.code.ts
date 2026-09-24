@@ -27,6 +27,7 @@ import {
   textsAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { z } from "zod"
 
 const FILE_PROPERTY = "file-property"
 
@@ -59,6 +60,8 @@ const TOLD_TO_STOP = "SIGTERM"
 const STOPPED_EXIT = 1
 
 const PARTS_PROBED = 2
+
+const RAN_AT_LINE = z.object({ ranAt: z.string() })
 
 export function windowsIn(given: string | Reading): ReadonlyMap<string, number> {
   const found = new Map<string, number>()
@@ -229,14 +232,14 @@ export function keptFrom(text: string, cutoff: number): Kept {
   let dropped = 0
   for (const line of text.split("\n")) {
     if (line === "") continue
-    let said: unknown
+    let said: ReturnType<typeof RAN_AT_LINE.safeParse>
     try {
-      said = (JSON.parse(line) as { readonly ranAt?: unknown }).ranAt
+      said = RAN_AT_LINE.safeParse(JSON.parse(line))
     } catch {
       held.push(line)
       continue
     }
-    const when = typeof said === "string" ? Date.parse(said) : Number.NaN
+    const when = said.success ? Date.parse(said.data.ranAt) : Number.NaN
     if (Number.isNaN(when) || when >= cutoff) held.push(line)
     else dropped += 1
   }

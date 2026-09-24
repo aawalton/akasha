@@ -6,6 +6,7 @@ import {
   type Said,
 } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { secretAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { z } from "zod"
 
 export type Secrets = ReadonlyMap<string, string>
 
@@ -117,26 +118,25 @@ export function cipherFor(root: string, page: string, values: Secrets): Composed
   return said
 }
 
+const SECRETS_SAID = z.record(z.string(), z.string())
+
 function valuesFrom(said: string, sidecar: string): Secrets {
-  let held: unknown
+  let held: ReturnType<typeof SECRETS_SAID.safeParse>
   try {
-    held = JSON.parse(said)
+    held = SECRETS_SAID.safeParse(JSON.parse(said))
   } catch (thrown) {
     throw new Error(
       `'${sidecar}' decrypted to no json, so what it holds is unknown: ${String(thrown)}`
     )
   }
-  if (held === null || typeof held !== "object" || Array.isArray(held)) {
-    throw new Error(`'${sidecar}' decrypted to no set of keys, so what it holds is unknown`)
-  }
-  const found = new Map<string, string>()
-  for (const [key, value] of Object.entries(held as Record<string, unknown>)) {
-    if (typeof value !== "string") {
+  if (!held.success) {
+    const key = held.error.issues[0]?.path[0]
+    if (typeof key === "string") {
       throw new Error(`'${sidecar}' holds \`${key}\` as something other than text`)
     }
-    found.set(key, value)
+    throw new Error(`'${sidecar}' decrypted to no set of keys, so what it holds is unknown`)
   }
-  return found
+  return new Map(Object.entries(held.data))
 }
 
 export function secretsIn(root: string, page: string): Secrets | null {
