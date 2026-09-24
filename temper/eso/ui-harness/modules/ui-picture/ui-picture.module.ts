@@ -63,6 +63,14 @@ export const uiPicture = {
       statement: "A texture with no file behind it is a box carrying that texture's name.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A button showing no text is drawn as nothing.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A button is framed by a line where it shows text, rather than by its textures.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The game grows a label given no size to fit the text inside it.",
     },

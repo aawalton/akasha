@@ -191,7 +191,9 @@ function boxHtml(one: UiControl, options: UiPictureOptions): string {
     const ink = asCss(one.color ?? INK)
     const shadow = face.shadow === "" ? "" : `text-shadow:${face.shadow};`
     const framed =
-      one.controlType === CT_BUTTON ? `box-shadow:inset 0 0 0 1px ${asCss(FRAME)};` : ""
+      one.controlType === CT_BUTTON && (one.text ?? "") !== ""
+        ? `box-shadow:inset 0 0 0 1px ${asCss(FRAME)};`
+        : ""
     const centred = one.controlType === CT_BUTTON
     const acrossBy = centred ? DRAWN.TEXT_ALIGN_CENTER : DRAWN.TEXT_ALIGN_LEFT
     const downBy = centred ? DRAWN.TEXT_ALIGN_CENTER : DRAWN.TEXT_ALIGN_TOP
