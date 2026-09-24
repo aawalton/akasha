@@ -6,6 +6,6 @@ export const encounterLocation = {
   slug: "encounter-location",
   propertySlug: "location",
   definition: "an encounter's place",
-  targetPageType: "page-type/game-location",
+  targetPageType: "page-type/place",
   types: "ts",
 } as const satisfies RelationProperty
