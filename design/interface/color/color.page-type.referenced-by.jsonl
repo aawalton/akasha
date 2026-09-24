@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"color.page-type.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.code.ts"}
 {"propertySlug":"import","fileName":"color.page-type.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}
 {"propertySlug":"import","fileName":"color.page-type.ts","path":"design/interface/system/modules/property-badge-panels/property-badge-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"color.page-type.ts","path":"design/interface/system/modules/property-row-panels/property-row-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"color.page-type.ts","path":"page/ui/component/modules/title-color/title-color.module.test.ts"}
 {"propertySlug":"import","fileName":"color.page-type.types.ts","path":"design/interface/color/pages/ash.color.ts"}
 {"propertySlug":"import","fileName":"color.page-type.types.ts","path":"design/interface/color/pages/black.color.ts"}

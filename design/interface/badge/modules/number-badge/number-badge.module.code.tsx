@@ -152,7 +152,7 @@ function NumberBadgeEditable({
               }
             }}
             onBlur={handleCommit}
-            className="w-0 min-w-0 bg-transparent text-center font-medium text-current text-xs tabular-nums outline-none selection:bg-accent/15 selection:text-current"
+            className="w-0 min-w-0 bg-transparent text-center text-current tabular-nums outline-none [font-size:inherit] [font-weight:inherit] selection:bg-accent/15 selection:text-current"
             style={{ width: `${Math.max(draft.length, 1)}ch` }}
           />
         </>

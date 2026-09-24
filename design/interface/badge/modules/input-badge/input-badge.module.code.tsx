@@ -52,7 +52,7 @@ function InputBadge({
       {}
       <span
         ref={sizerRef}
-        className="pointer-events-none invisible absolute whitespace-pre font-medium text-xs"
+        className="pointer-events-none invisible absolute whitespace-pre [font-size:inherit] [font-weight:inherit]"
       >
         {displayText}
       </span>
@@ -76,7 +76,7 @@ function InputBadge({
           }
         }}
         placeholder={placeholder}
-        className="min-w-[1ch] bg-transparent font-medium text-current text-xs outline-none placeholder:text-current/40"
+        className="min-w-[1ch] bg-transparent text-current outline-none [font-size:inherit] [font-weight:inherit] placeholder:text-current/40"
         style={inputWidth != null ? { width: `${inputWidth}px` } : undefined}
       />
     </Badge>

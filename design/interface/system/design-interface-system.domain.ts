@@ -37,6 +37,7 @@ export const designInterfaceSystem = {
     "module/personality-tone",
     "module/properties-tab",
     "module/property-badge-panels",
+    "module/property-row-panels",
     "module/spacing-radius",
     "module/state-layers",
     "module/strategic-prism",

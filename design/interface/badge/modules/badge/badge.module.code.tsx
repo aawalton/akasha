@@ -67,6 +67,15 @@ function assertKnownVariant(variant: BadgeVariant): undefined {
   console.error(message)
 }
 
+const UNCOLORED: ReadonlySet<string> = new Set(["elevation", "elevation-muted", "surface"])
+
+function drawnBare(variant: BadgeVariant): boolean {
+  return variant == null || UNCOLORED.has(variant)
+}
+
+const BARE =
+  "inline-flex min-w-0 items-center gap-1.5 rounded-sm text-sm font-normal text-primary whitespace-normal [overflow-wrap:anywhere] select-text cursor-default [&>svg]:size-3.5 [&>svg]:shrink-0 [&>svg]:pointer-events-none focus-visible:[outline:1.5px_solid_var(--color-accent)] focus-visible:[outline-offset:1px] [button&]:cursor-pointer [a&]:cursor-pointer [a&]:underline-offset-2 [a&]:hover:underline [button&]:hover:underline"
+
 function resolveSurfaceBg(variant: BadgeVariant, surface: SurfaceLevel): string {
   if (variant === "elevation" || variant === "elevation-muted") return surfaceClass(surface + 1)
   if (variant === "surface") return surfaceClass(Math.max(surface, 1))
@@ -195,15 +204,19 @@ function Badge({
     />
   ) : null
 
+  const bare = !inline && layout.bare === true && drawnBare(variant)
+
   const outerClassName = inline
     ? cn("inline-flex items-center select-text", className)
-    : cn(
-        badgeVariants({ variant, size }),
-        surfaceBg,
-        segmented && "gap-0 p-0",
-        resolvedTruncate === "fixed" && "max-w-32 justify-start",
-        className
-      )
+    : bare
+      ? cn(BARE, className)
+      : cn(
+          badgeVariants({ variant, size }),
+          surfaceBg,
+          segmented && "gap-0 p-0",
+          resolvedTruncate === "fixed" && "max-w-32 justify-start",
+          className
+        )
 
   if (asChild) {
     const only = React.Children.only(children)

@@ -7,6 +7,7 @@ export interface BadgeLayoutContextValue {
   popoverAlign?: "start" | "end"
   display?: "badge" | "inline"
   icon?: React.ReactNode
+  bare?: boolean
 }
 
 const BadgeLayoutContext = React.createContext<BadgeLayoutContextValue | null>(null)
@@ -28,11 +29,12 @@ export function BadgeLayoutProvider({
   popoverAlign,
   display,
   icon,
+  bare,
   children,
 }: BadgeLayoutProviderProps) {
   const value = React.useMemo<BadgeLayoutContextValue>(
-    () => ({ truncate, popoverAlign, display, icon }),
-    [truncate, popoverAlign, display, icon]
+    () => ({ truncate, popoverAlign, display, icon, bare }),
+    [truncate, popoverAlign, display, icon, bare]
   )
   return <BadgeLayoutContext.Provider value={value}>{children}</BadgeLayoutContext.Provider>
 }

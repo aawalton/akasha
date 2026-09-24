@@ -18,7 +18,7 @@ import type { ComponentType } from "react"
 
 const FALLS_BACK_TO = "page-property"
 
-export type PropertyBadgeContext = "card" | "detail" | "title"
+export type PropertyBadgeContext = "card" | "detail" | "row" | "title"
 
 export interface PropertyBadgeProps {
   property: PropertyDefinition
@@ -65,10 +65,12 @@ function drawingFor(
 function layoutForContext(context: PropertyBadgeContext): {
   truncate: "fixed" | "fluid"
   popoverAlign: "start" | "end"
+  bare: boolean
 } {
-  if (context === "card") return { truncate: "fixed", popoverAlign: "start" }
-  if (context === "title") return { truncate: "fixed", popoverAlign: "end" }
-  return { truncate: "fluid", popoverAlign: "end" }
+  if (context === "card") return { truncate: "fixed", popoverAlign: "start", bare: false }
+  if (context === "title") return { truncate: "fixed", popoverAlign: "end", bare: false }
+  if (context === "row") return { truncate: "fluid", popoverAlign: "start", bare: true }
+  return { truncate: "fluid", popoverAlign: "end", bare: false }
 }
 
 export function PropertyBadge(props: PropertyBadgeProps) {
@@ -95,6 +97,7 @@ export function PropertyBadge(props: PropertyBadgeProps) {
       popoverAlign={layout.popoverAlign}
       display={property.display}
       icon={icon}
+      bare={layout.bare}
     >
       <Component {...props} />
     </BadgeLayoutProvider>

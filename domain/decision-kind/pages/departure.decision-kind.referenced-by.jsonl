@@ -2425,6 +2425,7 @@
 {"propertySlug":"decision-kind","path":"command/properties/repeats.boolean-property.ts","id":"01a093fd-5112-7f98-883b-01d434b2b228"}
 {"propertySlug":"decision-kind","path":"command/properties/said-as.select-property.ts","id":"01a09483-5529-7998-ad2c-461a3f347977"}
 {"propertySlug":"decision-kind","path":"design/design.domain.ts","id":"01a05b55-a539-7a1c-9bdc-5a459722f028"}
+{"propertySlug":"decision-kind","path":"design/interface/badge/modules/badge-layout-context/badge-layout-context.module.ts","id":"01a05b55-a539-7f95-a30c-8b90c271e72d"}
 {"propertySlug":"decision-kind","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.ts","id":"01a0c501-134c-7c7e-ab5f-bcd62d76c5ee"}
 {"propertySlug":"decision-kind","path":"design/interface/badge/modules/date-badge/date-badge.module.ts","id":"01a05b55-a539-773f-8b28-749123c7df39"}
 {"propertySlug":"decision-kind","path":"design/interface/badge/modules/url-badge/url-badge.module.ts","id":"01a05b55-a539-7bc7-91a9-d5b91de4f605"}

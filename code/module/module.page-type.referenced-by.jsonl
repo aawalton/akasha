@@ -1494,6 +1494,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/personality-tone/personality-tone.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/properties-tab/properties-tab.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/property-badge-panels/property-badge-panels.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/property-row-panels/property-row-panels.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/spacing-radius/spacing-radius.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/state-layers/state-layers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/strategic-prism/strategic-prism.module.ts"}

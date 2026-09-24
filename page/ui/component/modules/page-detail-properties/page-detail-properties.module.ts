@@ -23,5 +23,13 @@ export const pageDetailProperties = {
       decisionKind: "decision-kind/departure",
       statement: "A row nobody may edit is left out where its value is empty.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every row's value starts at one edge, just past a label column of one width.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row's label is led by the icon of its property's page type.",
+    },
   ],
 } as const satisfies Module

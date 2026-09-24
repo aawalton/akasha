@@ -12,6 +12,7 @@ import {
   SelectionPropertyBadgesPanel,
   TextPropertyBadgesPanel,
 } from "akasha/design/interface/system/modules/property-badge-panels/property-badge-panels.module.code.tsx"
+import { PropertyRowsPanel } from "akasha/design/interface/system/modules/property-row-panels/property-row-panels.module.code.tsx"
 
 export function PropertiesTabContent() {
   return (
@@ -19,6 +20,7 @@ export function PropertiesTabContent() {
       <div className="flex flex-col gap-6">
         <PageTabHeader title="Properties" />
         <ResponsiveColumns>
+          <PropertyRowsPanel />
           <TextPropertyBadgesPanel />
           <NumberPropertyBadgesPanel />
           <SelectionPropertyBadgesPanel />

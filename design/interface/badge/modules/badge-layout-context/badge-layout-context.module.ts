@@ -6,4 +6,14 @@ export const badgeLayoutContext = {
   slug: "badge-layout-context",
   definition: "the layout a badge takes from the badges it sits among",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A layout asking for bare badges has every uncolored badge drawn as plain text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A badge whose color names a category keeps its pill in a bare layout.",
+    },
+  ],
 } as const satisfies Module

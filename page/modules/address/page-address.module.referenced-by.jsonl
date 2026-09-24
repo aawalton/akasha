@@ -66,6 +66,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"design/interface/system/modules/property-badge-panels/property-badge-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"design/interface/system/modules/property-row-panels/property-row-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/modules/agent-stated/agent-stated.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/warrant/assignment-itself/assignment-itself.context-warrant.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/warrant/domain-ancestors/domain-ancestors.context-warrant.code.ts"}

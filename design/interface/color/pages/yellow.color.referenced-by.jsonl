@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"yellow.color.ts","path":"alan/harness/web-page-answer/modules/nav-icon-svg/nav-icon-svg.module.code.ts"}
 {"propertySlug":"import","fileName":"yellow.color.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.code.ts"}
 {"propertySlug":"import","fileName":"yellow.color.ts","path":"design/interface/system/modules/property-badge-panels/property-badge-panels.module.code.tsx"}
+{"propertySlug":"import","fileName":"yellow.color.ts","path":"design/interface/system/modules/property-row-panels/property-row-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"yellow.color.ts","path":"design/interface/token/modules/semantic-color/semantic-color.module.code.ts"}
 {"propertySlug":"select-option-color","path":"page/grade-property/grade-property.page-type.ts","id":"01a063de-2c60-7004-81e6-21e2564b7832"}
 {"propertySlug":"select-option-color","path":"page/properties/priority.select-property.ts","id":"01a0c537-0fde-7c44-baa5-1aa0541d3b1a"}

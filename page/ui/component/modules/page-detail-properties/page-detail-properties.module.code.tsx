@@ -45,7 +45,7 @@ export function PageDetailProperties({
     : undefined
 
   return (
-    <div className="@container flex flex-col gap-2">
+    <div className="@container flex flex-col gap-1">
       {data &&
         bodyDefs.map((def) => (
           <PropertyRow

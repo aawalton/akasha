@@ -11,5 +11,10 @@ export const propertyBadge = {
       decisionKind: "decision-kind/departure",
       statement: "A property no page type above it draws takes the badge beside page-property.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A badge in a row of a property list is drawn bare unless its color names something.",
+    },
   ],
 } as const satisfies Module
