@@ -280,7 +280,6 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/world.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"temper/thing/temper-thing.page-type.types.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-malformed-read-and-a-refused-one-are-told-apart-only-by-their-words.finding.ts","id":"01a05bd2-dd42-769e-a5b9-31df5dcfe3ee"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-property-carried-only-in-an-entries-sidecar-is-invisible-to-a-page-survey.finding.ts","id":"01a087ca-ea92-70a8-82f1-a04614cc6379"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-rolling-writer-appends-into-a-part-name-already-taken-rather-than-refusing.finding.ts","id":"01a0973e-0f8c-7c21-b88c-e75fc91a3b58"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/akasha-page-tree-answers-property-rows-no-caller-draws.finding.ts","id":"01a08dd6-5274-72a5-ab0d-41eff4603f45"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/an-entry-shapes-row-type-is-written-by-hand-while-its-own-type-is-generated.finding.ts","id":"01a090cd-8841-7519-9fdc-0e95d1d9dcfe"}
