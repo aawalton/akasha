@@ -1,7 +1,9 @@
 import {
   type LocationPoint,
+  locationPointSchema,
   MAX_BATCH_POINTS,
 } from "akasha/alan/atlas-web/modules/location-batch/location-batch.module.code.ts"
+import { z } from "zod"
 
 export interface PluginLocation {
   latitude: number
@@ -90,6 +92,42 @@ export function removePoints(
   if (acked.length === 0) return buffer
   const ackedKeys = new Set(acked.map(pointKey))
   return buffer.filter((p) => !ackedKeys.has(pointKey(p)))
+}
+
+export interface StoredBuffer {
+  readonly points: readonly LocationPoint[]
+  readonly refused: number
+  readonly why: string | null
+  readonly unreadable: boolean
+}
+
+const storedListSchema = z.array(z.unknown())
+
+export function readStoredBuffer(stored: string): StoredBuffer {
+  let held: unknown
+  try {
+    held = JSON.parse(stored)
+  } catch (err) {
+    return { points: [], refused: 0, why: `not JSON: ${String(err)}`, unreadable: true }
+  }
+  const list = storedListSchema.safeParse(held)
+  if (!list.success) {
+    return { points: [], refused: 0, why: "not a list of points", unreadable: true }
+  }
+  const points: LocationPoint[] = []
+  let why: string | null = null
+  for (const [at, one] of list.data.entries()) {
+    const parsed = locationPointSchema.safeParse(one)
+    if (parsed.success) {
+      points.push(parsed.data)
+      continue
+    }
+    const issue = parsed.error.issues[0]
+    if (why !== null || issue === undefined) continue
+    const where = issue.path.length === 0 ? "" : ` at ${issue.path.join(".")}`
+    why = `point ${String(at)}${where}: ${issue.message}`
+  }
+  return { points, refused: list.data.length - points.length, why, unreadable: false }
 }
 
 export function nextBatch(

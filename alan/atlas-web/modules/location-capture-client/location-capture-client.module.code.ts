@@ -2,7 +2,6 @@ import { Capacitor } from "@capacitor/core"
 import {
   ingestResponseSchema,
   type LocationPoint,
-  locationPointSchema,
   MAX_BATCH_POINTS,
 } from "akasha/alan/atlas-web/modules/location-batch/location-batch.module.code.ts"
 import {
@@ -11,13 +10,14 @@ import {
   nextBatch,
   nextSeq,
   type PluginLocation,
+  readStoredBuffer,
   removePoints,
 } from "akasha/alan/atlas-web/modules/location-capture/location-capture.module.code.ts"
-import { z } from "zod"
 
 const DEVICE_ID_KEY = "atlas.capture.deviceId"
 const SEQ_KEY = "atlas.capture.clientSeq"
 const BUFFER_KEY = "atlas.capture.buffer"
+const REFUSED_BUFFER_KEY_PREFIX = "atlas.capture.buffer.refused."
 
 const DISTANCE_FILTER_M = 10
 
@@ -41,8 +41,6 @@ function withLock<T>(fn: () => Promise<T>): Promise<T> {
   )
   return run
 }
-
-const storedBufferSchema = z.array(locationPointSchema)
 
 type PreferencesApi = typeof import("@capacitor/preferences")["Preferences"]
 let prefsApi: PreferencesApi | null = null
@@ -80,11 +78,14 @@ async function loadState(): Promise<CaptureState> {
 
   let buffer: readonly LocationPoint[] = []
   if (bufferRow.value !== null) {
-    try {
-      const parsed = storedBufferSchema.safeParse(JSON.parse(bufferRow.value))
-      if (parsed.success) buffer = parsed.data
-    } catch {
-      buffer = []
+    const read = readStoredBuffer(bufferRow.value)
+    buffer = read.points
+    if (read.unreadable || read.refused > 0) {
+      const keptAt = `${REFUSED_BUFFER_KEY_PREFIX}${String(Date.now())}`
+      await p.set({ key: keptAt, value: bufferRow.value })
+      console.warn(
+        `[atlas/web/location-capture] saved buffer ${read.unreadable ? "unreadable" : `refused ${String(read.refused)} point(s)`}, kept ${String(buffer.length)}, copied whole to ${keptAt}: ${read.why ?? ""}`
+      )
     }
   }
 
