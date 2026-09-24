@@ -53,7 +53,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/resolving-a-media-page-by-id-rereads-every-chapter-file.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/spotify-asks-the-kernel-for-realtime-rather-than-asking-rtkit.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/spotify-speaks-pipewire-directly-so-no-pulse-rule-reaches-it.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/taking-a-file-property-value-off-a-page-leaves-its-file-behind.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-audit-prefers-the-fast-node-rather-than-requiring-it-so-a-round-lands-on-the-slow-one.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-audit-ran-no-round-for-twenty-hours-and-nothing-said-so.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-byte-ceiling-forces-the-division-that-corrupts-a-generated-table.finding.ts"}

@@ -10,6 +10,5 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-page-type-slug-borrowed-as-a-test-fixture-outlives-the-page-type.finding.ts","id":"01a0c4e7-139b-79a7-ab5e-b08e8234f35e"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-renamed-page-keeps-the-old-name-inside-its-uncommitted-sidecar.finding.ts","id":"01a0c53d-ec32-707c-a66c-50f494795fbe"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-repeat-run-ends-the-same-way-whether-the-change-had-nothing-left-or-a-batch-was-refused.finding.ts","id":"01a0961e-eeca-73e8-a979-d0db0198aa76"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/taking-a-file-property-value-off-a-page-leaves-its-file-behind.finding.ts","id":"01a08775-2220-76c0-a026-1efb9b2e4895"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
 {"propertySlug":"runner-reached","path":"change/runner/pages/test-change-running/test-change-running.change-runner.ts","id":"01a09ba5-d4ae-7f8d-a772-923fd8403538"}
