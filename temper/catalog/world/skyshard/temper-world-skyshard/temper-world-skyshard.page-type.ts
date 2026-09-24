@@ -5,6 +5,7 @@ export const temperWorldSkyshard = {
   type: "page-type/page-type",
   slug: "temper-world-skyshard",
   definition: "a skyshard in the game world and the maps it is shown on",
+  pluralSlug: "skyshards",
   extends: ["page-type/temper-catalog-thing"],
   parts: [
     "number-property/eso-achievement-id",
