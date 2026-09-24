@@ -6,16 +6,4 @@ export const haremHotel012 = {
   slug: "harem-hotel-012",
   game: "game/harem-hotel",
   number: 12,
-  windows: [
-    {
-      kind: "talent-activation",
-      name: "THE LINK",
-      note: "bound — Presence (hers) bound to you. Will (yours) bound to her. A bound trait rises as its source rises.",
-    },
-    {
-      kind: "quest-offer",
-      name: "The Shut Door",
-      note: "open the door at the dark end of the hall",
-    },
-  ],
 } as const satisfies GameTurn
