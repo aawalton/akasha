@@ -42,6 +42,8 @@ const SAVED_UNDER = "SavedVariables"
 
 const GAME_ADDON = "ZO_Ingame"
 
+const TEMPER_NAMES_UNSTUBBED = '__eso_leave_unstubbed("^Temper")'
+
 const PER_CHUNK = 40
 
 const UNPINNED = "no commit"
@@ -173,19 +175,41 @@ async function declareDocument(
   }
 }
 
+const DEPENDS = /^## DependsOn:(.*)$/m
+
+const AT_LEAST = />=.*$/
+
+function dependenciesIn(manifest: string): readonly string[] {
+  const listed = DEPENDS.exec(manifest)?.[1] ?? ""
+  return listed
+    .trim()
+    .split(/\s+/)
+    .map((one) => one.replace(AT_LEAST, ""))
+    .filter((one) => one !== "")
+}
+
 async function loadAddon(
   harness: UiHarness,
-  bundleAt: string,
+  built: string,
   addon: string,
-  virtuals: Virtuals
+  virtuals: Virtuals,
+  loaded: Set<string>
 ): Promise<void> {
-  const built = dirname(bundleAt)
-  for (const one of manifestEntries(readFileSync(join(built, `${addon}.txt`), "utf8"))) {
+  if (loaded.has(addon)) return
+  loaded.add(addon)
+  const manifest = readFileSync(join(built, `${addon}.txt`), "utf8")
+  for (const dependency of dependenciesIn(manifest)) {
+    const beside = join(dirname(built), dependency)
+    if (existsSync(join(beside, `${dependency}.txt`))) {
+      await loadAddon(harness, beside, dependency, virtuals, loaded)
+    }
+  }
+  for (const one of manifestEntries(manifest)) {
     const at = join(built, one.rel)
     if (!existsSync(at)) continue
     const text = readFileSync(at, "utf8")
     if (one.kind === "xml") await declareDocument(harness, text, virtuals)
-    else if (at === bundleAt) await harness.loadBundle(text)
+    else if (one.rel === `${addon}.lua`) await harness.loadBundle(text)
     else await harness.load(text, one.rel)
   }
 }
@@ -249,7 +273,8 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     }
     await settled(harness)
     await harness.load(ACCOUNT_WIDE)
-    await loadAddon(harness, bundleAt, asked.addon, virtuals)
+    await harness.load(TEMPER_NAMES_UNSTUBBED)
+    await loadAddon(harness, dirname(bundleAt), asked.addon, virtuals, new Set())
     for (const source of seeded) await harness.load(source)
     await harness.load("return __ui_play_as()")
     await settled(harness)

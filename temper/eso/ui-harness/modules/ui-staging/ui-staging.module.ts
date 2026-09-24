@@ -73,6 +73,19 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every addon an addon's manifest depends on is loaded before it, once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A dependency with no build beside the addon is passed over, as one not installed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A Temper name nothing defines answers nothing, as it would in the game.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A document of the addon's builds its windows where it falls in that order.",
     },
     {
