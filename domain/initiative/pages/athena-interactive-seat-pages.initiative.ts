@@ -6,7 +6,5 @@ export const athenaInteractiveSeatPages = {
   slug: "athena-interactive-seat-pages",
   domain: "page-type/seat",
   persona: "persona/athena",
-  intentStack: [
-    { statement: "A seat's page is laid out for a phone first and works as well on a desktop." },
-  ],
+  intentStack: [],
 } as const satisfies Initiative
