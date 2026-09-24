@@ -36,27 +36,7 @@ export const safetyReading = {
       decisionKind: "decision-kind/departure",
       statement: "A `session-tracking` row is read out of a sidecar beside a day page.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The `daily-tracking` file list names the markdown half and the akasha half.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A query for an empty end-time reaches the markdown half and the akasha half.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A session opened before its day moved and closed after is answered by two rows.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "Newest-first over `start-time` does not choose between a pre-move row and a post-move row.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Choosing between a pre-move row and a post-move row belongs to `openSession`.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "`levelIn` is akasha's own guard.",

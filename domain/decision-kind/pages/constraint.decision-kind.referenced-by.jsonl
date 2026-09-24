@@ -149,7 +149,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/scale/readout-scale.page-type.ts","id":"01a05446-e75f-756a-b8d9-4288a350957f"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/widget/readout-widget.page-type.ts","id":"01a05480-1c86-7e95-b799-63b1c0152f62"}
-{"propertySlug":"decision-kind","path":"alan/harness/safety/modules/reading/safety-reading.module.ts","id":"01a069bc-9375-7eee-b662-6f844c8880b6"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.ts","id":"01a0697e-ded3-7147-92a2-3c8650eaf635"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.ts","id":"01a0697e-ded3-7adb-9d6e-f852cfc9ffd7"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/.server/answer-page-types/answer-page-types.module.ts","id":"01a0640f-8510-78d4-a12e-20e2f4f3927a"}
