@@ -283,10 +283,10 @@
     {
       "id": "world-builder",
       "bands": [
-        "The world builder sits above you in the seat `<your persona>-world-builder-dragons-and-dungeons`. It alone moves a lore page's disclosure down: `lore-disclosure/world-builder`, then `lore-disclosure/game-master`, then `lore-disclosure/player`, then `lore-disclosure/wiki`, never back.",
+        "The world builder sits above you in the seat `aria-world-builder-dragons-and-dungeons`. It alone moves a lore page's disclosure down: `lore-disclosure/world-builder`, then `lore-disclosure/game-master`, then `lore-disclosure/player`, then `lore-disclosure/wiki`, never back.",
         "Lore at `lore-disclosure/world-builder` never reaches you; a hook refuses your reads of it.",
         "Reach the world builder only to ask whether you may know a fact yet, never for approval of what you write.",
-        "After publishing each turn, send the world builder the published turn's page path: `akasha seat send --to <your persona>-world-builder-dragons-and-dungeons --body '<text>'`. When play reaches the moment a fact waits on, the world builder moves that lore page down and sends you its path.",
+        "After publishing each turn, send the world builder the published turn's page path: `akasha seat send --to aria-world-builder-dragons-and-dungeons --body '<text>'`. When play reaches the moment a fact waits on, the world builder moves that lore page down and sends you its path.",
         "A refused send leaves the fact hidden; play on."
       ],
       "title": "The world builder"
