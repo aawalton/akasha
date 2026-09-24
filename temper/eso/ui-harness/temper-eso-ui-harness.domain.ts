@@ -35,6 +35,11 @@ export const temperEsoUiHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The game's own published interface runs in the sandbox, all of it a computer's game runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control the addon creates is a table kept here rather than a stub.",
     },
     {
