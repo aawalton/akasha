@@ -188,13 +188,14 @@ test("a count handed in holds how many pages one run writes", () => {
   expect([...new Set(pathsIn(said))]).toEqual([ONE_ROWS_AT])
 })
 
-test("a page type no row of which names a page by a bare name is refused", () => {
+test("a page type no row of which names a page by a bare name is answered as no edit", () => {
   const world = worldFor({ [ONE_ROWS_AT]: rowsOf([{ collection: SONGS }]) })
 
   const said = qualifyRelationByKeyOnEveryPage(world, ASKED)
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("no `book-section` names a page by a bare name under `collection`")
+  expect(said.refused).toBeNull()
+  expect(said.told).toEqual(["no `book-section` names a page by a bare name under `collection`"])
 })
 
 test("a key keeping no entries beside the page is refused", () => {

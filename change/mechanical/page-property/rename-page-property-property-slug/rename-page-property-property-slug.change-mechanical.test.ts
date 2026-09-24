@@ -1,9 +1,13 @@
 import { expect, test } from "bun:test"
 import { renamePagePropertyPropertySlug } from "akasha/change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.code.ts"
 import {
+  ENTRY_BODY,
+  MONTH_BODY,
+  MONTH_TYPES_AT,
   NOTE_BODY,
   ONE_BODY,
   OTHER_AT,
+  ROWS_TO,
   TWO_BODY,
   TYPES_BODY,
   VIEW_AT,
@@ -225,6 +229,15 @@ test("a view listing another page type is left as it is", () => {
   expect(pathsIn(said)).not.toContain(OTHER_AT)
 })
 
+test("a run spelling the key anew on no page is answered as no edit, saying so", () => {
+  const world = worldIn(BODIES, VALUES, () => BY_A_TYPE, {})
+
+  const said = renamePagePropertyPropertySlug(world, { at: WOLD_AT, to: "wold-file", atMost: 1 })
+
+  expect(said.refused).toBeNull()
+  expect(said.told?.[0] ?? "").toContain("nothing was spelled anew")
+})
+
 test("a run handed a count spells no slug anew in a view", () => {
   const said = renamePagePropertyPropertySlug(typedWorld(), {
     at: WOLD_AT,
@@ -427,26 +440,6 @@ test("a run handed a count spells no key anew in a file of entries", () => {
 
   expect(pathsIn(said)).not.toContain(ROWS_AT)
 })
-
-const MONTH_TYPES_AT = "akasha/month.page-type.types.ts"
-
-const ROWS_TO = "akasha/months/one.month.tallies-held.jsonl"
-
-const ENTRY_BODY = `export const tallies = {
-  id: "tallies-id",
-  type: "page-property-entry",
-  slug: "tallies",
-  propertySlug: "tallies",
-} as const
-`
-
-const MONTH_BODY = `export const one = {
-  id: "month-one",
-  pageTypeSlug: "month",
-  slug: "one",
-  tallies: "jsonl",
-} as const
-`
 
 const SHAPE_VALUES: Readonly<Record<string, Value>> = {
   ...ENTRY_VALUES,

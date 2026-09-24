@@ -6,6 +6,7 @@ import {
   type Splice,
   splicedIn,
   stating,
+  telling,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { objectOf } from "akasha/change/modules/json-entries/json-entries.module.code.ts"
 import { entriesBeside } from "akasha/change/modules/page-property-carrying/page-property-carrying.module.code.ts"
@@ -179,7 +180,9 @@ export function qualifyRelationByKeyOnEveryPage(world: World, given: Asked): Sai
     }
   }
   if (edits.length === 0) {
-    return refusing(`no \`${given.pageType}\` names a page by a bare name under \`${given.field}\``)
+    return telling(stating([]), [
+      `no \`${given.pageType}\` names a page by a bare name under \`${given.field}\``,
+    ])
   }
   return stating(edits)
 }

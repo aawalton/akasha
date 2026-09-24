@@ -150,7 +150,7 @@ export const renamePagePropertyPropertySlug = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run spelling the key anew on no page is refused rather than answered as done.",
+      statement: "A run spelling the key anew on no page is answered as no edit, saying so.",
     },
     {
       decisionKind: "decision-kind/departure",

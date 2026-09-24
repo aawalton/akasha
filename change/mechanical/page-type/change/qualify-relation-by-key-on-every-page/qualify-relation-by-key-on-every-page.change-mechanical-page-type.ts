@@ -63,7 +63,7 @@ export const qualifyRelationByKeyOnEveryPage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page type no row of which names a page by a bare name is refused.",
+      statement: "A page type no row of which names a page by a bare name is answered as no edit.",
     },
     {
       decisionKind: "decision-kind/absence",

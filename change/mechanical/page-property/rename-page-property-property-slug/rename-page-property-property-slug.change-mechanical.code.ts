@@ -308,7 +308,8 @@ export function renamePagePropertyPropertySlug(world: World, given: Asked): Answ
     if (typeof carried === "string") return refusing(carried)
     edits.push(...carried)
   }
-  if (!whole && edits.length === 0) return refusing(spelledNothing(given.at, key, now))
+  if (!whole && edits.length === 0)
+    return telling(stating([]), [spelledNothing(given.at, key, now)])
   const said = stating(edits)
   const over = bodiedOver(world, edits)
   if (typeof over === "string") return said

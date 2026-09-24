@@ -35,6 +35,26 @@ export const TWO_BODY = `export const two = {
 
 export const TYPES_BODY = "export type Quoin = { wold: string; note: string }\n"
 
+export const MONTH_TYPES_AT = "akasha/month.page-type.types.ts"
+
+export const ROWS_TO = "akasha/months/one.month.tallies-held.jsonl"
+
+export const ENTRY_BODY = `export const tallies = {
+  id: "tallies-id",
+  type: "page-property-entry",
+  slug: "tallies",
+  propertySlug: "tallies",
+} as const
+`
+
+export const MONTH_BODY = `export const one = {
+  id: "month-one",
+  pageTypeSlug: "month",
+  slug: "one",
+  tallies: "jsonl",
+} as const
+`
+
 export const VIEW_AT = "akasha/looking/looking.view.ts"
 
 export const OTHER_AT = "akasha/other/other.view.ts"
