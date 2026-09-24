@@ -6,6 +6,7 @@ import {
   manifestCodePaths,
 } from "akasha/infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const MANIFEST = "manifest"
 
@@ -33,9 +34,9 @@ beforeAll(() => {
   valueAlsoFiled(root, MANIFEST, [
     ...MANIFESTS.map(([path, slug]) => ({
       path,
-      value: { pageTypeSlug: MANIFEST, slug, code: "ts" },
+      value: { type: `${pageType.slug}/${MANIFEST}`, slug, code: "ts" },
     })),
-    { path: CODELESS, value: { pageTypeSlug: MANIFEST, slug: "quiet" } },
+    { path: CODELESS, value: { type: `${pageType.slug}/${MANIFEST}`, slug: "quiet" } },
   ])
 })
 

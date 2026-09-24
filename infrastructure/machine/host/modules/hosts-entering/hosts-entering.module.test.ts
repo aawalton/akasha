@@ -62,7 +62,13 @@ function worldStating(rest: Held): string {
   const held: Record<string, string> = Object.fromEntries(
     VOCABULARY.map(([at, value]) => [`${TREE}/${at}`, bodyOf(value)])
   )
-  const stated = { id: idOf("5"), pageTypeSlug: A_HOST, slug: HELD, definition: "a thing", ...rest }
+  const stated = {
+    id: idOf("5"),
+    type: `${pageType.slug}/${A_HOST}`,
+    slug: HELD,
+    definition: "a thing",
+    ...rest,
+  }
   held[`${TREE}/${HELD}/${HELD}.${A_HOST}.ts`] = pageOf(stated)
   return indexedRepo(held)
 }

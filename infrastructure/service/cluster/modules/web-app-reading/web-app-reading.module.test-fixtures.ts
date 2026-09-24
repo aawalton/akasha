@@ -7,6 +7,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const HOLD = "/var/tmp"
 const PREFIX = "akasha-web-app-"
@@ -70,7 +71,7 @@ type Held = Record<string, unknown>
 function webApp(slug: string, at: number, slugs: readonly string[], whole = true): Held {
   const held: Held = {
     id: idOf(0, at),
-    pageTypeSlug: "web-app",
+    type: `${pageType.slug}/web-app`,
     slug,
     definition: `the ${slug} site`,
   }
@@ -85,7 +86,7 @@ function webApp(slug: string, at: number, slugs: readonly string[], whole = true
 function clusterService(slug: string, at: number, name: string, appliedAs: string): Held {
   return {
     id: idOf(1, at),
-    pageTypeSlug: "service-cluster",
+    type: `${pageType.slug}/service-cluster`,
     slug,
     definition: `what runs ${slug}`,
     resourceKind: "Deployment",
@@ -101,7 +102,7 @@ function clusterService(slug: string, at: number, name: string, appliedAs: strin
 function manifest(slug: string, at: number): Held {
   return {
     id: idOf(2, at),
-    pageTypeSlug: "manifest",
+    type: `${pageType.slug}/manifest`,
     slug,
     definition: `the resources ${slug} is applied as`,
     code: "ts",
@@ -144,7 +145,7 @@ export function seededWorld(): World {
     const slug = held.slug as string
     filed(`${GRAPH_EDGES_AT}/${slug}.${GRAPH_EDGE}.ts`, GRAPH_EDGE, {
       ...held,
-      pageTypeSlug: GRAPH_EDGE,
+      type: `${pageType.slug}/${GRAPH_EDGE}`,
     })
   }
   edgeFiled(importEdge)

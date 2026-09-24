@@ -106,7 +106,10 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/access/modules/file-rows/file-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}

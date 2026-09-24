@@ -12,6 +12,7 @@ import {
 } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
 import { serviceReading } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ROOT = process.cwd()
 
@@ -25,7 +26,7 @@ const RUNNING = "service-running"
 
 const WHOLE = {
   id: "01a05a51-0000-7000-8000-00000000000c",
-  pageTypeSlug: "service-workstation",
+  type: `${pageType.slug}/service-workstation`,
   slug: "a-service",
   definition: "a service representing a test",
   enabled: true,

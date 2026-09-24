@@ -14,7 +14,7 @@ import {
 const ROOT = process.cwd()
 
 const WHOLE = {
-  pageTypeSlug: "inference-service",
+  type: "page-type/inference-service",
   slug: "a-service",
   host: `${host.slug}/${macbook.slug}`,
   provision: "mlx-audio-provision",
