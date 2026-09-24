@@ -21,6 +21,28 @@ export const uiPlaceModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A label stating no width or no height takes that measure from its text.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "Text is measured as half its font's size a character, and a line as a quarter over that size.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "Text is measured by the widths the game's own font gives each character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Markup in a label's text is measured as the words it shows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A control growing to fit what it holds is at least as wide and tall as its shown children span.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A control with two anchors takes the width and the height those anchors leave it.",
     },
