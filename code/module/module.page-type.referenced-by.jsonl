@@ -724,7 +724,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/surplus/modules/reading/surplus-reading.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/voice-core/modules/speech/speech.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-build-version/modules/build-sha-define/build-sha-define.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-build-version/modules/build-sha/build-sha.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-build-version/modules/live-version/live-version.module.ts","typed":true,"deferred":false}
@@ -2332,7 +2331,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/reader-prose-block/reader-prose-block.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/reader-prose-body/reader-prose-body.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/reader-prose/reader-prose.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/reader-sentence-layout/reader-sentence-layout.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/reader-typography/reader-typography.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/reading-progress-bar/reading-progress-bar.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/record-property-badge/record-property-badge.module.ts","typed":true,"deferred":false}

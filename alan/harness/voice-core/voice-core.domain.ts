@@ -5,7 +5,7 @@ export const voiceCore = {
   type: "page-type/domain",
   slug: "voice-core",
   definition: "how written text is cut into what a voice can speak, and when each sentence is said",
-  parts: ["module/speech"],
+  parts: [],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

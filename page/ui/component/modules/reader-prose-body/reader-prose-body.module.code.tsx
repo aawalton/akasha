@@ -18,7 +18,6 @@ import {
   proseBlockSource,
 } from "akasha/page/ui/component/modules/reader-prose/reader-prose.module.code.ts"
 import { ProseBlockView } from "akasha/page/ui/component/modules/reader-prose-block/reader-prose-block.module.code.tsx"
-import type { BlockSentenceLayout } from "akasha/page/ui/component/modules/reader-sentence-layout/reader-sentence-layout.module.code.ts"
 import { memo, type RefObject, useImperativeHandle, useMemo, useRef } from "react"
 
 export interface ReaderPositionAnchor {
@@ -31,14 +30,8 @@ const SENTENCE_SCROLL_VIEWPORT_BIAS = 0.35
 
 const DEFAULT_PARAGRAPH_GAP_PX = 20
 
-const MemoProseBlock = memo(function ProseBlockRow({
-  block,
-  sentenceLayout,
-}: {
-  block: ProseBlock
-  sentenceLayout?: BlockSentenceLayout
-}) {
-  return <ProseBlockView block={block} sentenceLayout={sentenceLayout} />
+const MemoProseBlock = memo(function ProseBlockRow({ block }: { block: ProseBlock }) {
+  return <ProseBlockView block={block} />
 })
 
 export function ReaderProseBody({
@@ -46,13 +39,11 @@ export function ReaderProseBody({
   className,
   paragraphGapPx = DEFAULT_PARAGRAPH_GAP_PX,
   anchorRef,
-  sentenceBlocks,
 }: {
   content: string
   className?: string
   paragraphGapPx?: number
   anchorRef?: RefObject<ReaderPositionAnchor | null>
-  sentenceBlocks?: readonly BlockSentenceLayout[]
 }) {
   const containerRef = useRef<HTMLDivElement>(null)
   const blocks = useMemo(() => parseProseBlocks(content), [content])
@@ -127,7 +118,7 @@ export function ReaderProseBody({
             className="absolute top-0 left-0 w-full"
             style={{ transform: `translateY(${vItem.start - scrollMargin}px)` }}
           >
-            <MemoProseBlock block={block} sentenceLayout={sentenceBlocks?.[vItem.index]} />
+            <MemoProseBlock block={block} />
           </div>
         )
       })}
@@ -140,13 +131,11 @@ export function ReaderProseStatic({
   className,
   paragraphGapPx = DEFAULT_PARAGRAPH_GAP_PX,
   anchorRef,
-  sentenceBlocks,
 }: {
   content: string
   className?: string
   paragraphGapPx?: number
   anchorRef?: RefObject<ReaderPositionAnchor | null>
-  sentenceBlocks?: readonly BlockSentenceLayout[]
 }) {
   const containerRef = useRef<HTMLDivElement>(null)
   const blocks = useMemo(() => parseProseBlocks(content), [content])
@@ -180,7 +169,7 @@ export function ReaderProseStatic({
     >
       {blocks.map((block, index) => (
         <div key={`block-${index}`} data-block-index={index}>
-          <ProseBlockView block={block} sentenceLayout={sentenceBlocks?.[index]} />
+          <ProseBlockView block={block} />
         </div>
       ))}
     </div>
