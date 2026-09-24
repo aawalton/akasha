@@ -25,7 +25,7 @@ export const lualibBuilder = {
       statement: "A reference to an export is printed under the name the page states.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A code file exporting more than one name keeps the names its own code exports.",
     },
     {
