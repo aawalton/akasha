@@ -148,9 +148,5 @@ export const dayReadoutWatching = {
       decisionKind: "decision-kind/absence",
       statement: "No reading here is shown or withheld for how old that reading is.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The plant grams count food entries and move with every food entry's page.",
-    },
   ],
 } as const satisfies Module

@@ -18,10 +18,6 @@ import {
 } from "akasha/alan/harness/cost/modules/reading/cost-reading.module.code.ts"
 import { getEsoDayWindow } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import { takeReadings as takeInboxes } from "akasha/alan/harness/inbox/modules/reading/inbox-reading.module.code.ts"
-import {
-  READOUT_SLUG as PLANTS_SLUG,
-  takeReading as takePlants,
-} from "akasha/alan/harness/plant/modules/plants-reading/plants-reading.module.code.ts"
 import { readoutPage } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import {
   SETTLE_MS,
@@ -210,13 +206,6 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       holds: everyDayAndStretches,
       to: BOTH_SITES,
       take: (now) => takeCapacity(root, now),
-    },
-    {
-      page: pageAt(PLANTS_SLUG),
-      folders: foodFolders,
-      holds: everyFood,
-      to: BOTH_SITES,
-      take: (now) => takePlants(root, now),
     },
     {
       page: tasks,
