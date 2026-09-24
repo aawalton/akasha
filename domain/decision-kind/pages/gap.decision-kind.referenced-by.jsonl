@@ -134,7 +134,6 @@
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.ts","id":"01a0785c-fa03-739c-823f-27b2ea6fc501"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/properties/styles.file-property.ts","id":"01a05b01-48b2-7b95-9b72-f48b799f4e5c"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/stylesheet.page-type.ts","id":"01a05b01-48b1-72b3-961d-f31190becdc7"}
-{"propertySlug":"decision-kind","path":"code/type/type.domain.ts","id":"01a049e9-651c-7006-896c-2bffa71e2d0a"}
 {"propertySlug":"decision-kind","path":"code/workspace/modules/manifest-locking/manifest-locking.module.ts","id":"01a0628d-2f09-7f63-8d3a-27494e9ec287"}
 {"propertySlug":"decision-kind","path":"command/argument/argument.page-type.ts","id":"01a093fd-9102-76e8-958e-03d34cd41e25"}
 {"propertySlug":"decision-kind","path":"command/argument/modules/taking/argument-taking.module.ts","id":"01a09419-fb82-7d05-a756-3f0e001dff28"}

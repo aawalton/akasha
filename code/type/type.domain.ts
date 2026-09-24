@@ -25,11 +25,11 @@ export const type = {
       statement: "A page type's TypeScript type is declared in the page type file.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A page of the wrong shape does not compile.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A limit no type can have is enforced by a check.",
     },
   ],
