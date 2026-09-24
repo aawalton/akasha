@@ -16,6 +16,7 @@ import { asking } from "akasha/page/service/modules/page-asking/page-asking.modu
 const EMAIL_MAX = 100
 const TO_DO_PAGE_TYPE_SLUG = "to-do"
 const TEMPER_TASK_PAGE_TYPE_SLUG = "temper-task"
+const FINDING_PAGE_TYPE_SLUG = "finding"
 
 const TO_DO_DUE_DATE = "toDoDueDate"
 const TO_DO_COMPLETED_AT = "toDoCompletedAt"
@@ -59,14 +60,23 @@ async function pollTemperTasksDue(dayStr: string): Promise<number> {
   })
 }
 
+async function pollFindings(): Promise<number> {
+  return howMany(FINDING_PAGE_TYPE_SLUG, {})
+}
+
 export type TaskCounts = {
   readonly tasks: number
   readonly temperTasks: number
+  readonly findings: number
 }
 
 export async function pollTaskCounts(dayStr: string): Promise<TaskCounts> {
-  const [tasks, temperTasks] = await Promise.all([pollToDosDue(dayStr), pollTemperTasksDue(dayStr)])
-  return { tasks, temperTasks }
+  const [tasks, temperTasks, findings] = await Promise.all([
+    pollToDosDue(dayStr),
+    pollTemperTasksDue(dayStr),
+    pollFindings(),
+  ])
+  return { tasks, temperTasks, findings }
 }
 
 export async function pollInboxCounts(
@@ -77,6 +87,7 @@ export async function pollInboxCounts(
     ["email", () => pollEmail()],
     ["tasks", () => pollToDosDue(dayStr)],
     ["temperTasks", () => pollTemperTasksDue(dayStr)],
+    ["findings", () => pollFindings()],
   ]
 
   const polled = await Promise.all(

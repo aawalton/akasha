@@ -37,7 +37,11 @@ export const inboxCountPolling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The two counts read from the checkout are taken together on their own.",
+      statement: "Every finding page is counted, whatever it is about or when it was written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The three counts read from the checkout are taken together on their own.",
     },
     {
       decisionKind: "decision-kind/constraint",

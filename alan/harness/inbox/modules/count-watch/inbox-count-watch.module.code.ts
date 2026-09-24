@@ -6,6 +6,7 @@ import {
 } from "akasha/alan/harness/inbox/modules/count-polling/inbox-count-polling.module.code.ts"
 import { persistInboxCounts } from "akasha/alan/harness/inbox/modules/count-writing/inbox-count-writing.module.code.ts"
 import {
+  findingsPage,
   tasksPage,
   temperTasksPage,
 } from "akasha/alan/harness/inbox/modules/reading/inbox-reading.module.code.ts"
@@ -37,11 +38,21 @@ const TO_DO_PAGE_TYPE_SLUG = "to-do"
 
 const TEMPER_TASK_PAGE_TYPE_SLUG = "temper-task"
 
-const COUNTED_TYPES: readonly string[] = [TO_DO_PAGE_TYPE_SLUG, TEMPER_TASK_PAGE_TYPE_SLUG]
+const FINDING_PAGE_TYPE_SLUG = "finding"
+
+const COUNTED_TYPES: readonly string[] = [
+  TO_DO_PAGE_TYPE_SLUG,
+  TEMPER_TASK_PAGE_TYPE_SLUG,
+  FINDING_PAGE_TYPE_SLUG,
+]
 
 const TO_DOS_AT = "alan/track/to-do/pages"
 
 const TEMPER_TASKS_AT = "temper/player/progress/temper-task/pages"
+
+const FINDINGS_AT = "domain/finding/pages"
+
+const FINDING_TYPE_AT = "domain/finding"
 
 export const NO_SITE_NAMED =
   "no site was named, so a count taken here would be carried nowhere. Name the origin of the " +
@@ -50,11 +61,13 @@ export const NO_SITE_NAMED =
 export type WatchLogger = (level: "INFO" | "ERROR", message: string) => void
 
 export function countsSaid(day: string, counts: TaskCounts): string {
-  return `day=${day} tasks=${counts.tasks} temperTasks=${counts.temperTasks}`
+  return `day=${day} tasks=${counts.tasks} temperTasks=${counts.temperTasks} findings=${counts.findings}`
 }
 
 export function foldersFollowedIn(root: string): ReadonlySet<string> {
-  const folders = new Set<string>([join(root, TO_DOS_AT), join(root, TEMPER_TASKS_AT)])
+  const folders = new Set<string>(
+    [TO_DOS_AT, TEMPER_TASKS_AT, FINDINGS_AT, FINDING_TYPE_AT].map((at) => join(root, at))
+  )
   for (const slug of COUNTED_TYPES) {
     const pages = everyOfType(root, slug).map((one) => join(root, one.path))
     for (const one of dirsOf(pages)) folders.add(one)
@@ -70,10 +83,15 @@ export async function carryCounts(
   now: Date,
   counts: TaskCounts
 ): Promise<undefined> {
-  await persistInboxCounts({ tasks: counts.tasks, temperTasks: counts.temperTasks }, day, now)
+  await persistInboxCounts(
+    { tasks: counts.tasks, temperTasks: counts.temperTasks, findings: counts.findings },
+    day,
+    now
+  )
   const took: readonly (readonly [string, number])[] = [
     [tasksPage(root), counts.tasks],
     [temperTasksPage(root), counts.temperTasks],
+    [findingsPage(root), counts.findings],
   ]
   for (const [page, value] of took) keepReading(root, page, value, now)
   if (secret === null) return undefined

@@ -3,6 +3,7 @@ import {
   lowestIn,
   mailOn,
 } from "akasha/alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.reading.code.ts"
+import { findingsIn } from "akasha/alan/harness/inbox/readouts/inboxes-findings/inboxes-findings.readout.reading.code.ts"
 import { tasksIn } from "akasha/alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.reading.code.ts"
 import { keepReading } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
@@ -36,6 +37,10 @@ export function tasksPage(root: string): string {
 
 export function temperTasksPage(root: string): string {
   return pageOf(root, "inboxes-temper-tasks")
+}
+
+export function findingsPage(root: string): string {
+  return pageOf(root, "inboxes-findings")
 }
 
 const NOTHING_TO_TAKE =
@@ -75,6 +80,7 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
   const emailAt = emailPage(root)
   const tasksAt = tasksPage(root)
   const temperTasksAt = temperTasksPage(root)
+  const findingsAt = findingsPage(root)
   const kept: Record<string, number> = {}
   const unread: string[] = []
   const wanting = (pages: readonly string[], why: string): undefined => {
@@ -97,9 +103,9 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
   ])
 
   if (day.status === "rejected") {
-    wanting([tasksAt, temperTasksAt], saidBy(day.reason))
+    wanting([tasksAt, temperTasksAt, findingsAt], saidBy(day.reason))
   } else if (day.value === null) {
-    wanting([tasksAt, temperTasksAt], `no tracking day is written down for ${esoDay}`)
+    wanting([tasksAt, temperTasksAt, findingsAt], `no tracking day is written down for ${esoDay}`)
   } else {
     const values = day.value
     keep(tasksAt, tasksIn(values), `the tracking day for ${esoDay} states no task count`)
@@ -108,6 +114,7 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
       temperTasksIn(values),
       `the tracking day for ${esoDay} states no game task count`
     )
+    keep(findingsAt, findingsIn(values), `the tracking day for ${esoDay} states no finding count`)
   }
 
   if (mail.status === "rejected") {
