@@ -23,6 +23,7 @@ import {
   type Asking,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { shortenedToWords } from "akasha/code/type/narrowing/modules/shortened-to-words/shortened-to-words.module.code.ts"
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
@@ -159,7 +160,7 @@ export function chapterIdIn(row: Row): string | null {
   const held = idFrom(row[IDENTITY], SOURCE)
   if (held !== null) return held
   const link = linkFrom(row[IDENTITY], SOURCE)
-  return link === null ? null : (CHAPTER_AT.exec(link)?.[1] ?? null)
+  return link === null ? null : firstCapture(CHAPTER_AT.exec(link))
 }
 
 export function heldChapters(): Held {

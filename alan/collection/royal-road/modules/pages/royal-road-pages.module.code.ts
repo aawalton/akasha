@@ -1,4 +1,6 @@
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { chapterWords as countChapterWords } from "akasha/story/engine/core/modules/chapter-words/chapter-words.module.code.ts"
+import { z } from "zod"
 
 const ROYAL_ROAD_ORIGIN = "https://www.royalroad.com"
 
@@ -66,22 +68,25 @@ function htmlToText(html: string): string {
 const CHAPTERS_WITH_VOLUMES = /window\.chapters\s*=\s*(\[[\s\S]*?\]);\s*window\.volumes/
 const CHAPTERS_PLAIN = /window\.chapters\s*=\s*(\[[\s\S]*?\]);/
 
-interface ChapterJson {
-  readonly id: number
-  readonly title: string
-  readonly url: string
-  readonly order: number
-  readonly date: string
-  readonly isUnlocked?: boolean
-  readonly visible?: number | boolean
-}
+const CHAPTER_LIST = z.array(
+  z.object({
+    id: z.union([z.number(), z.string()]),
+    title: z.string().nullish(),
+    url: z.string(),
+    order: z.number(),
+    date: z.string(),
+    isUnlocked: z.boolean().nullish(),
+    visible: z.union([z.number(), z.boolean()]).nullish(),
+  })
+)
 
 function parseChapterList(html: string): readonly RawChapter[] {
-  const raw = CHAPTERS_WITH_VOLUMES.exec(html)?.[1] ?? CHAPTERS_PLAIN.exec(html)?.[1]
-  if (raw === undefined) return []
-  let list: readonly ChapterJson[]
+  const raw =
+    firstCapture(CHAPTERS_WITH_VOLUMES.exec(html)) ?? firstCapture(CHAPTERS_PLAIN.exec(html))
+  if (raw === null) return []
+  let list: z.infer<typeof CHAPTER_LIST>
   try {
-    list = JSON.parse(raw) as readonly ChapterJson[]
+    list = CHAPTER_LIST.parse(JSON.parse(raw))
   } catch {
     return []
   }
@@ -123,12 +128,18 @@ function parseTags(html: string): readonly string[] {
   return [...new Set(tags)]
 }
 
-interface BookLd {
-  readonly "@type"?: string | readonly string[]
-  readonly name?: string
-  readonly description?: string
-  readonly author?: { readonly name?: string } | readonly { readonly name?: string }[]
-}
+const NAMED = z.looseObject({ name: z.string().optional() })
+
+const BOOK_LD = z.looseObject({
+  "@type": z.union([z.string(), z.array(z.string())]).optional(),
+  name: z.string().optional(),
+  description: z.string().optional(),
+  author: z.union([NAMED, z.array(NAMED)]).optional(),
+})
+
+type BookLd = z.infer<typeof BOOK_LD>
+
+const LD_BLOCK = z.union([z.array(z.unknown()), z.unknown().transform((one) => [one])])
 
 function parseBookLd(html: string): BookLd | null {
   for (const m of html.matchAll(
@@ -136,14 +147,15 @@ function parseBookLd(html: string): BookLd | null {
   )) {
     const body = m[1]
     if (body === undefined) continue
-    let parsed: unknown
+    let candidates: readonly unknown[]
     try {
-      parsed = JSON.parse(body)
+      candidates = LD_BLOCK.parse(JSON.parse(body))
     } catch {
       continue
     }
-    for (const candidate of Array.isArray(parsed) ? parsed : [parsed]) {
-      const one = candidate as BookLd
+    for (const candidate of candidates) {
+      const one = BOOK_LD.safeParse(candidate).data
+      if (one === undefined) continue
       const type = one["@type"]
       const isBook = Array.isArray(type) ? type.includes("Book") : type === "Book"
       if (isBook) return one
@@ -152,19 +164,17 @@ function parseBookLd(html: string): BookLd | null {
   return null
 }
 
-type Named = { readonly name?: string }
-
 function firstAuthorName(field: BookLd["author"]): string | null {
   if (field === undefined) return null
-  if (Array.isArray(field)) return (field as readonly Named[])[0]?.name ?? null
-  return (field as Named).name ?? null
+  if (Array.isArray(field)) return field[0]?.name ?? null
+  return field.name ?? null
 }
 
 export function parseFictionPage(html: string): ParsedFiction {
   const ld = parseBookLd(html)
   const author = firstAuthorName(ld?.author)
-  const h1 = /<h1[^>]*>([\s\S]*?)<\/h1>/i.exec(html)?.[1]
-  const fallbackTitle = h1 === undefined ? null : decodeEntities(h1.replace(/<[^>]*>/g, "")).trim()
+  const h1 = firstCapture(/<h1[^>]*>([\s\S]*?)<\/h1>/i.exec(html))
+  const fallbackTitle = h1 === null ? null : decodeEntities(h1.replace(/<[^>]*>/g, "")).trim()
   return {
     meta: {
       title: ld?.name ?? fallbackTitle,
@@ -177,18 +187,19 @@ export function parseFictionPage(html: string): ParsedFiction {
   }
 }
 
+const OPEN_TAG = z.tuple([z.string()])
+
 function innerHtmlOfDiv(html: string, openPattern: RegExp): string | null {
-  const opened = openPattern.exec(html)
-  if (opened?.index === undefined) return null
-  const from = opened.index + opened[0].length
-  const tags = /<(\/?)div\b[^>]*>/gi
-  tags.lastIndex = from
+  const opened = OPEN_TAG.safeParse(openPattern.exec(html)).data?.[0]
+  if (opened === undefined) return null
+  const from = html.indexOf(opened) + opened.length
+  const inside = html.slice(from)
   let depth = 1
-  for (let m = tags.exec(html); m !== null; m = tags.exec(html)) {
+  for (const m of inside.matchAll(/<(\/?)div\b[^>]*>/gi)) {
     depth += m[1] === "/" ? -1 : 1
-    if (depth === 0) return html.slice(from, m.index)
+    if (depth === 0) return inside.slice(0, m.index)
   }
-  return html.slice(from)
+  return inside
 }
 
 export type ProseRead =
