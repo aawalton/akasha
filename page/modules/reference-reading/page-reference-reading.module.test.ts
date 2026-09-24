@@ -8,6 +8,7 @@ import {
   namersAt,
   namersOf,
 } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const NAMED_AT = "akasha/b.domain.ts"
 
@@ -31,7 +32,7 @@ const ROUTING_AT = "akasha/web/routes/one.route.test.ts"
 
 const TYPED = `export const routerApp = ${JSON.stringify({
   id: APP_TYPE_ID,
-  pageTypeSlug: "page-type",
+  type: `${pageType.slug}/${pageType.slug}`,
   slug: "router-app",
   properties: [{ pageProperty: `${codeFileProperty.slug}/${routeTable.slug}` }],
 })}\n`

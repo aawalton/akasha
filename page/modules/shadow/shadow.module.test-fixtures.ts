@@ -32,11 +32,11 @@ type Written = {
 
 const PAGES: readonly Named[] = [
   ...VOCABULARY,
-  ["b.domain.ts", { id: idOf("b"), pageTypeSlug: "domain", slug: "b" }],
-  ["g.domain.ts", { id: idOf("g"), pageTypeSlug: "domain", slug: "g" }],
-  ["deep/d.module.ts", { id: idOf("d"), pageTypeSlug: "module", slug: "d", code: "ts" }],
-  ["one/same.domain.ts", { id: idOf("e"), pageTypeSlug: "domain", slug: "same" }],
-  ["two/same.domain.ts", { id: idOf("f"), pageTypeSlug: "domain", slug: "same" }],
+  ["b.domain.ts", { id: idOf("b"), type: `${pageType.slug}/domain`, slug: "b" }],
+  ["g.domain.ts", { id: idOf("g"), type: `${pageType.slug}/domain`, slug: "g" }],
+  ["deep/d.module.ts", { id: idOf("d"), type: `${pageType.slug}/module`, slug: "d", code: "ts" }],
+  ["one/same.domain.ts", { id: idOf("e"), type: `${pageType.slug}/domain`, slug: "same" }],
+  ["two/same.domain.ts", { id: idOf("f"), type: `${pageType.slug}/domain`, slug: "same" }],
 ]
 
 const IMPORTS_X = 'import { x } from "./x.ts"\n'
@@ -67,7 +67,7 @@ export function aChange(at: string, value: Held | null): Written {
 
 const NOTE: Held = {
   id: idOf("n"),
-  pageTypeSlug: "relation-property",
+  type: `${pageType.slug}/relation-property`,
   slug: "note",
   propertySlug: "note",
   targetPageType: "domain",
@@ -81,14 +81,19 @@ export const CHANGES: readonly Written[] = [
   { path: inside("s.ts"), body: IMPORTS_X },
   { path: inside("r.ts"), body: 'import { p } from "./p.ts"\n' },
   aChange("note.relation-property.ts", NOTE),
-  aChange("b.domain.ts", { id: idOf("b"), pageTypeSlug: "domain", slug: "b", note: "domain/g" }),
+  aChange("b.domain.ts", {
+    id: idOf("b"),
+    type: `${pageType.slug}/domain`,
+    slug: "b",
+    note: "domain/g",
+  }),
   aChange("tag.page-type.ts", {
     id: idOf("t"),
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "tag",
     extends: [`${pageType.slug}/${domain.slug}`],
   }),
-  aChange("h.tag.ts", { id: idOf("h"), pageTypeSlug: "tag", slug: "h", note: "domain/b" }),
+  aChange("h.tag.ts", { id: idOf("h"), type: "page-type/tag", slug: "h", note: "domain/b" }),
 ]
 
 export function onDisk(root: string): (path: string) => Uint8Array | null {
@@ -145,12 +150,12 @@ export const NAME_AT = "name.text-property.ts"
 
 export const SHARED_AT = "k.domain.ts"
 
-const SHARED: Held = { id: idOf("k"), pageTypeSlug: "domain", slug: "k", name: "shared" }
+const SHARED: Held = { id: idOf("k"), type: `${pageType.slug}/domain`, slug: "k", name: "shared" }
 
 export function naming(unique: string | null): Held {
   const held: Held = {
     id: idOf("m"),
-    pageTypeSlug: "text-property",
+    type: `${pageType.slug}/text-property`,
     slug: "name",
     propertySlug: "name",
   }
@@ -251,7 +256,7 @@ function changeOnto(
 export const UNFILED_AT = inside("u.domain.ts")
 
 export function unfiled(slug: string): Held {
-  return { id: idOf("u"), pageTypeSlug: "domain", slug }
+  return { id: idOf("u"), type: `${pageType.slug}/domain`, slug }
 }
 
 export function shadowOnto(repo: string, base: (path: string) => Uint8Array | null): Cast {

@@ -27,14 +27,14 @@ function repoIn(): string {
   return indexedRepo({
     [KIND_TYPE]: bodyOf({
       id: idOf("e"),
-      pageTypeSlug: "page-type",
+      type: `${pageType.slug}/${pageType.slug}`,
       slug: "held-kind",
       pluralSlug: "held-kinds",
       extends: [PAGE_TYPE_AT],
     }),
     [ONE_KIND]: bodyOf({
       id: idOf("f"),
-      pageTypeSlug: "held-kind",
+      type: "page-type/held-kind",
       slug: "one",
       pluralSlug: "ones",
       extends: [MODULE_AT],
@@ -58,13 +58,13 @@ test("the pages of a type that was gathered are read as page types", () => {
 })
 
 test("a value stands as a page type where the type it is was named", () => {
-  const value = { id: "a", pageTypeSlug: "held-kind", slug: "one" }
+  const value = { id: "a", type: "page-type/held-kind", slug: "one" }
 
   expect([...typesAmong([value], new Set(["held-kind"])).keys()]).toEqual(["one"])
 })
 
 test("a caller naming no types reads `page-type` alone", () => {
-  const value = { id: "a", pageTypeSlug: "held-kind", slug: "one" }
+  const value = { id: "a", type: "page-type/held-kind", slug: "one" }
 
   expect([...typesAmong([value]).keys()]).toEqual([])
 })

@@ -65,7 +65,7 @@ const PARTS_BROKEN =
 function aRelation(one: string, slug: string, target: string): string {
   return bodyOf({
     id: idOf(one),
-    pageTypeSlug: "relation-property",
+    type: `${pageType.slug}/relation-property`,
     slug,
     propertySlug: slug,
     targetPageType: target,
@@ -203,7 +203,7 @@ test("a page the change does not carry is read from the tree the change would la
     changed: [at],
     after: (path) =>
       path === at
-        ? TEXT.encode(bodyOf({ id: idOf("b"), pageTypeSlug: "domain", slug: "b" }))
+        ? TEXT.encode(bodyOf({ id: idOf("b"), type: `${pageType.slug}/domain`, slug: "b" }))
         : null,
     before: onDisk(repo),
   })

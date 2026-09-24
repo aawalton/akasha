@@ -18,6 +18,7 @@ import {
   TURNS_NOTHING_AT,
   WRITES,
 } from "akasha/page/type/modules/type-turning/type-turning.module.test-fixtures.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -80,7 +81,9 @@ function filedAt(
   more: Record<string, unknown> = {}
 ): undefined {
   listedFiled(root, kind, slug, [{ path, id }])
-  valueAlsoFiled(root, kind, [{ path, value: { id, pageTypeSlug: kind, slug, ...more } }])
+  valueAlsoFiled(root, kind, [
+    { path, value: { id, type: `${pageType.slug}/${kind}`, slug, ...more } },
+  ])
   idFiled(root, id, [{ path, id }])
 }
 
@@ -89,7 +92,7 @@ function rootWhereTypesAreGenerated(importer: string): string {
   filedAt(root, "page-type", "thing", THING_TYPE_AT, THING)
   listedFiled(root, "thing", "one", [{ path: A_THING_AT, id: A_THING }])
   valueAlsoFiled(root, "thing", [
-    { path: A_THING_AT, value: { id: A_THING, pageTypeSlug: "thing", slug: "one" } },
+    { path: A_THING_AT, value: { id: A_THING, type: "page-type/thing", slug: "one" } },
   ])
   shapeAdded(root, "file-property", "types", [
     {

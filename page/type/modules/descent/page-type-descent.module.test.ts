@@ -8,6 +8,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -27,7 +28,7 @@ function typed(root: string, slug: string, above: readonly string[] | null): und
   listedFiled(root, "page-type", slug, [{ path, id }])
   idFiled(root, id, [{ path, id }])
   valueAlsoFiled(root, "page-type", [
-    { path, value: { id, pageTypeSlug: "page-type", slug, extends: above ?? [] } },
+    { path, value: { id, type: `${pageType.slug}/${pageType.slug}`, slug, extends: above ?? [] } },
   ])
   for (const one of above ?? []) relationFiled(root, idOf(one), "extends-type", id, [{ path }])
 }

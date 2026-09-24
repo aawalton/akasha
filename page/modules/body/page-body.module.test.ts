@@ -6,6 +6,7 @@ import {
   unnamedIn,
 } from "akasha/page/modules/body/page-body.module.code.ts"
 import { TYPE_AT } from "akasha/page/modules/body/page-body.module.test-fixtures.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 test("a page names its type from the root rather than by a relative path", () => {
   expect(importedFrom(TYPE_AT)).toBe(`akasha/${TYPE_AT}`)
@@ -20,8 +21,8 @@ test("a body names the type its page answers to and satisfies it", () => {
     pageTypeSlug: "device-token",
     slug: "one",
     importFrom: "../device-token.page-type.ts",
-    keys: ["id", "pageTypeSlug", "slug"],
-    values: { id: "an-id", pageTypeSlug: "device-token", slug: "one" },
+    keys: ["id", "type", "slug"],
+    values: { id: "an-id", type: `${pageType.slug}/device-token`, slug: "one" },
   })
   expect(said).toContain('import type { DeviceToken } from "../device-token.page-type.ts"')
   expect(said).toContain("as const satisfies DeviceToken")

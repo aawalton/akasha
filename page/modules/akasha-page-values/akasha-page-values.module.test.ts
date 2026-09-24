@@ -3,6 +3,7 @@ import {
   kebabisedRow,
   valuesOfDeclared,
 } from "akasha/page/modules/akasha-page-values/akasha-page-values.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 describe("the values an akasha page declares", () => {
   test("camel keys become kebab and every value is carried as text", () => {
@@ -25,7 +26,7 @@ describe("the values an akasha page declares", () => {
   test("a body stating them keeps what it states", () => {
     const values = valuesOfDeclared("x/day-2026-03-05.day.ts", {
       slug: "day-2026-03-05",
-      pageTypeSlug: "day",
+      type: `${pageType.slug}/day`,
     })
     expect(values["slug"]).toBe("day-2026-03-05")
     expect(values["page-type-slug"]).toBe("day")
