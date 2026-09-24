@@ -196,8 +196,10 @@ function recordingInto(read: string[]): BunPlugin {
   }
 }
 
-async function textOf(stub: string): Promise<Text> {
+async function textOf(stub: string, root: string): Promise<Text> {
   const read: string[] = []
+  const was = process.cwd()
+  process.chdir(root)
   try {
     const built = await Bun.build({
       entrypoints: [stub],
@@ -213,6 +215,8 @@ async function textOf(stub: string): Promise<Text> {
     return { text: await first.text(), read }
   } catch (thrown) {
     return { refused: whyOf(thrown) }
+  } finally {
+    process.chdir(was)
   }
 }
 
@@ -337,7 +341,7 @@ async function bundledFrom(
   const stub = stubAt(slug)
   await Bun.write(stub, stubFor(running, runs, takes))
   const began = Bun.nanoseconds()
-  const made = await textOf(stub)
+  const made = await textOf(stub, root)
   const seconds = (Bun.nanoseconds() - began) / NANOS
   if ("refused" in made) return { refused: `\`${slug}\` would not bundle — ${made.refused}` }
   if (!made.read.includes(running)) {

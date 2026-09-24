@@ -74,6 +74,11 @@ export const serviceBundling = {
       statement: "A frame's path is the repository-relative source under the bundle's directory.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A bundle is built from the repository root, so one commit bundles to the same bytes from any caller.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "No file sits at the path a frame names.",
     },
