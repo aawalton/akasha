@@ -29,6 +29,7 @@
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/cost/readouts/multiplier/cost-multiplier.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/inbox/readouts/inboxes-findings/inboxes-findings.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.ts"}
