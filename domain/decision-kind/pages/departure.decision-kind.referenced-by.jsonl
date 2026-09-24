@@ -346,10 +346,10 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.ts","id":"01a0683e-3dbe-701e-b307-1df87a9c3fff"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.ts","id":"01a0683e-3dbe-701a-a109-8a13a6084415"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.ts","id":"01a06838-5a84-7003-a0ce-e7e92276f897"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-account-config/supervisor-account-config.module.ts","id":"01a0683e-3dbe-7000-8023-4fb6336e3734"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.ts","id":"01a0683e-3dbe-7003-8c74-a74611900fdd"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.ts","id":"01a0683e-3dbe-7012-8f94-55170087009a"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-supervisor.domain.ts","id":"01a08859-4c01-7bf5-9ebc-b39e6b3406fa"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-account/modules/config/supervisor-account-config.module.ts","id":"01a0683e-3dbe-7000-8023-4fb6336e3734"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-agent/supervisor-agent.module.ts","id":"01a0683e-3dbe-7003-8c74-a74611900fdd"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-claude-config/supervisor-claude-config.module.ts","id":"01a0683e-3dbe-7012-8f94-55170087009a"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/seat-action/seat-action.module.ts","id":"01a069bd-bdc4-7370-ba29-d4c25882427e"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-arm/supervisor-agent-action-arm.module.ts","id":"01a0683e-3dbe-7005-8bd3-faecca604871"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.ts","id":"01a0683e-3dbe-7006-8802-c5cdbe0a8d6d"}

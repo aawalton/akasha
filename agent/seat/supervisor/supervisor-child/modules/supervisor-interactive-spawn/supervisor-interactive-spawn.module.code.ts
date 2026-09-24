@@ -8,7 +8,7 @@ import {
   resolveSubagentSpawnDepth,
   resolveToolTimeout,
   resolveWorkerModel,
-} from "akasha/agent/seat/supervisor/supervisor-account/modules/config/supervisor-account-config.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-account-config/supervisor-account-config.module.code.ts"
 import { materializeBootPrompt } from "akasha/agent/seat/supervisor/supervisor-boot/modules/prompt/supervisor-boot-prompt.module.code.ts"
 import { stage } from "akasha/agent/seat/supervisor/supervisor-boot/modules/stage/supervisor-boot-stage.module.code.ts"
 import type {

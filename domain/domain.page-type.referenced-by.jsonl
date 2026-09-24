@@ -158,8 +158,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/reviving/seat-reviving.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor-restart/supervisor-restart.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-restart/seat-agent-restart.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/seat-claude-code-setup/seat-claude-code-setup.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/seat-supervisor.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-account/supervisor-account.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-boot/supervisor-boot.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-child/supervisor-child.domain.ts"}

@@ -4,7 +4,7 @@ import {
   expandHome,
   readClaudeConfigDeclaration,
   reconcileClaudeConfig,
-} from "akasha/agent/seat/supervisor/supervisor-account/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 
 test("a leading home token is expanded and one elsewhere is not", () => {

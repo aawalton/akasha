@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import type { McpServerConfig } from "akasha/agent/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
-import { expandHome } from "akasha/agent/seat/supervisor/supervisor-account/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
+import { expandHome } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
 import { HOME_DIR } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"

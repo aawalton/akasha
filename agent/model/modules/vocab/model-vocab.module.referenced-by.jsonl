@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"model-vocab.module.code.ts","path":"agent/model/gateway/modules/account-walk/account-walk.module.test.ts"}
 {"propertySlug":"import","fileName":"model-vocab.module.code.ts","path":"agent/model/gateway/modules/model-retarget/model-retarget.module.code.ts"}
 {"propertySlug":"import","fileName":"model-vocab.module.code.ts","path":"agent/model/gateway/modules/model-retarget/model-retarget.module.test.ts"}
-{"propertySlug":"import","fileName":"model-vocab.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/config/supervisor-account-config.module.code.ts"}
+{"propertySlug":"import","fileName":"model-vocab.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-account-config/supervisor-account-config.module.code.ts"}
 {"propertySlug":"import","fileName":"model-vocab.module.code.ts","path":"command/modules/commit-attribution/commit-attribution.module.code.ts"}
 {"propertySlug":"parts","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}

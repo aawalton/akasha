@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"supervisor-claude-config.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-claude-config/supervisor-claude-config.module.test.ts"}
+{"propertySlug":"import","fileName":"supervisor-claude-config.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.test.ts"}
 {"propertySlug":"import","fileName":"supervisor-claude-config.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-adopt/supervisor-adopt.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-claude-config.module.code.ts","path":"agent/seat/supervisor/supervisor-tooling/modules/mcp-registry/mcp-registry.module.code.ts"}
-{"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-account/supervisor-account.domain.ts","id":"01a09c6e-0972-7d7e-a85f-aaec209ffd5b"}
+{"propertySlug":"parts","path":"agent/seat/supervisor/seat-claude-code-setup/seat-claude-code-setup.domain.ts","id":"01a09c6e-0972-7d7e-a85f-aaec209ffd5b"}

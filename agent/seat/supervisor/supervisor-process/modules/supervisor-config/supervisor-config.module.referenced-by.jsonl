@@ -11,9 +11,9 @@
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-reexec/supervisor-reexec.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/config/supervisor-account-config.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-agent/supervisor-agent.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-account-config/supervisor-account-config.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"}

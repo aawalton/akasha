@@ -51,9 +51,9 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/session/seat-session.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.test.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-agent/supervisor-agent.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.test.ts"}

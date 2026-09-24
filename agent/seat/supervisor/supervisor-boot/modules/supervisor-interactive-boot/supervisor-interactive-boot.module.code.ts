@@ -2,7 +2,7 @@ import { buildCredentialSubsystem } from "akasha/agent/claude-code/remote-contro
 import { computeModelGatewayTreeVersion } from "akasha/agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import { toolRestrictions } from "akasha/agent/modules/tool-access/tool-access.module.code.ts"
 import { installProxyVersionSubsystem } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"
-import { selectAccountAndWriteCredential } from "akasha/agent/seat/supervisor/supervisor-account/modules/supervisor-agent/supervisor-agent.module.code.ts"
+import { selectAccountAndWriteCredential } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts"
 import { claimSeatSupervision } from "akasha/agent/seat/supervisor/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import type {
   InteractiveBootArgs,

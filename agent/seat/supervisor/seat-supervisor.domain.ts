@@ -10,7 +10,7 @@ export const seatSupervisor = {
     { partOfSpeech: "part-of-speech/noun", spelling: "supervisors" },
   ],
   parts: [
-    "domain/supervisor-account",
+    "domain/seat-claude-code-setup",
     "domain/supervisor-boot",
     "domain/supervisor-child",
     "domain/supervisor-deciding",

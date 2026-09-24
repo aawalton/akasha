@@ -22,7 +22,7 @@ import {
   type SupervisorOAuthProxyHandle,
   spawnOrAdoptOAuthProxy,
 } from "akasha/agent/seat/model-gateway/modules/supervisor-spawn-gateway/supervisor-spawn-gateway.module.code.ts"
-import { writePacingSnapshot } from "akasha/agent/seat/supervisor/supervisor-account/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
+import { writePacingSnapshot } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 import {
   configDirForAccount,
   LOG,
