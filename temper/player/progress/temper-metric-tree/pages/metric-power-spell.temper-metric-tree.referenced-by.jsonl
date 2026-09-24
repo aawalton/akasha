@@ -1,3 +1,9 @@
+{"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-major/pages/major-sorcery/major-sorcery.temper-buff-major.ts","id":"01a05fc5-f6bc-7edc-a10c-5353f828d187"}
+{"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-minor/pages/minor-sorcery/minor-sorcery.temper-buff-minor.ts","id":"01a05fc5-f6c1-7428-8099-1d50e48f24d1"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-magical-harm/increase-magical-harm.temper-jewelry-enchant.ts","id":"019e5c85-d942-701a-886b-f0e90fb4751f"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-physical-harm/increase-physical-harm.temper-jewelry-enchant.ts","id":"019e5c85-d93e-7184-bf02-d3098e13d12b"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-weapon-enchant/pages/weapon-damage/weapon-damage.temper-weapon-enchant.ts","id":"019e5c0d-dce7-7d85-8573-0a1869cbe34c"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/balanced-warrior/balanced-warrior.temper-skill.ts","id":"019e6245-a5f1-7d6c-8b13-22bb9774ebb9"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-magical-harm/grades/jewelry-enchant-increase-magical-harm-epic-power-spell.temper-gear-grade.ts","id":"01a0d3e9-4f46-7379-a862-e3600ddbbdd6"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-magical-harm/grades/jewelry-enchant-increase-magical-harm-fine-power-spell.temper-gear-grade.ts","id":"01a0d3e9-6c42-710e-90ce-3f3e0934117b"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-magical-harm/grades/jewelry-enchant-increase-magical-harm-legendary-power-spell.temper-gear-grade.ts","id":"01a0d3e9-b104-7716-8c2e-cacc0345e564"}

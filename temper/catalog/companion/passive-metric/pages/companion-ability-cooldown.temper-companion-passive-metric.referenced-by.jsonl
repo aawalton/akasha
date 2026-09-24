@@ -3,3 +3,10 @@
 {"propertySlug":"companion-grade-metric","path":"temper/catalog/companion/trait/pages/quickened/grades/companion-trait-quickened-legendary.temper-companion-trait-grade.ts","id":"01a0d3e8-54c3-7da0-a930-4cb65a71ef3d"}
 {"propertySlug":"companion-grade-metric","path":"temper/catalog/companion/trait/pages/quickened/grades/companion-trait-quickened-normal.temper-companion-trait-grade.ts","id":"01a0d3e8-431a-7360-afc5-5c87a9d79e4b"}
 {"propertySlug":"companion-grade-metric","path":"temper/catalog/companion/trait/pages/quickened/grades/companion-trait-quickened-superior.temper-companion-trait-grade.ts","id":"01a0d3e8-4b7f-7dd8-90a6-ba5fbd3c7f46"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/skill/pages/azandar-azandar-son-of-kozanset/azandar-azandar-son-of-kozanset.temper-companion-skill.ts","id":"019e6484-383e-7b59-9075-b41bb85d9916"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/skill/pages/isobel-isobel-enchanted/isobel-isobel-enchanted.temper-companion-skill.ts","id":"019e6484-386f-7567-8aaf-ef9cc2e1dc6c"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/skill/pages/zerith-var-zerith-var-third-moons-chosen/zerith-var-zerith-var-third-moons-chosen.temper-companion-skill.ts","id":"019e6484-38b7-7438-8c87-ea6e71b14459"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/temper-eso-companion/pages/azandar/azandar.temper-eso-companion.ts","id":"01a05fcf-591d-727b-bcd4-81688875cb62"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/temper-eso-companion/pages/isobel/isobel.temper-eso-companion.ts","id":"01a05fcf-591f-7d0a-906f-b8555838244f"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/temper-eso-companion/pages/zerith-var/zerith-var.temper-eso-companion.ts","id":"01a05fcf-5921-7f8a-abd6-ebccbdc3b4f3"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/trait/pages/quickened/quickened.temper-companion-trait.ts","id":"01a05fce-c4b0-72a1-9c7b-e63389b0f298"}

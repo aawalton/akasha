@@ -1,3 +1,10 @@
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-armor-trait/pages/sturdy/sturdy.temper-armor-trait.ts","id":"01a05fb2-1bd1-7a1a-a411-c520da348cc8"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/bracing/bracing.temper-jewelry-enchant.ts","id":"019e5c85-d960-73f9-8cea-07b3219c1425"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/ancient-knowledge/ancient-knowledge.temper-skill.ts","id":"019e6226-00d0-7a62-9c9b-0e03c068d57b"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/defensive-stance/defensive-stance.temper-skill.ts","id":"019e6226-00e2-762b-9660-dd17e10ec6b7"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/fortress/fortress.temper-skill.ts","id":"019e6226-00f5-735a-a4e2-5efcff7c22ed"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/light-armor-penalties/light-armor-penalties.temper-skill.ts","id":"019e6238-c2e1-7ff1-9716-563fd61ff198"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/medium-armor-bonuses/medium-armor-bonuses.temper-skill.ts","id":"019e6238-c2e8-7837-b25e-6c992c67b226"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/bracing/grades/jewelry-enchant-bracing-epic.temper-gear-grade.ts","id":"01a0d3e7-4de9-70f4-91d8-6b1ac53fe846"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/bracing/grades/jewelry-enchant-bracing-fine.temper-gear-grade.ts","id":"01a0d3e7-5fc1-75f7-9e5b-655bb5901f0e"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/bracing/grades/jewelry-enchant-bracing-legendary.temper-gear-grade.ts","id":"01a0d3e7-784e-795a-b7f8-66aa82ab4b13"}

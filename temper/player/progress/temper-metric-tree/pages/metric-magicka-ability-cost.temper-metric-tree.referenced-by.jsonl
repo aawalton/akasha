@@ -1,3 +1,12 @@
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/reduce-skill-cost/reduce-skill-cost.temper-jewelry-enchant.ts","id":"019e5c85-d950-7c44-917e-caefd8e9f59a"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/reduce-spell-cost/reduce-spell-cost.temper-jewelry-enchant.ts","id":"019e5c85-d94d-77bd-b10c-f85cf52b46e4"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/evocation/evocation.temper-skill.ts","id":"019e6238-c2bc-7a9d-8edd-900ef696b9ce"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/expunge-and-modify/expunge-and-modify.temper-skill.ts","id":"019e6245-a67e-70bd-aa95-aece4e56b9b3"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/hexproof/hexproof.temper-skill.ts","id":"019e6245-a6a4-7fbc-b1ab-59825e996907"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/magicka-mastery/magicka-mastery.temper-skill.ts","id":"019e624a-12d0-7d58-b607-cf19ac5be88c"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/red-diamond/red-diamond.temper-skill.ts","id":"019e624a-12d4-7463-a1df-3afa621c617a"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/restoring-spirit/restoring-spirit.temper-skill.ts","id":"019e6245-a710-7fa3-bfbe-400e38ff895b"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/unholy-knowledge/unholy-knowledge.temper-skill.ts","id":"019e6245-a759-7e89-97d7-3d7b2add03ab"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/reduce-skill-cost/grades/jewelry-enchant-reduce-skill-cost-epic-magicka-ability-cost.temper-gear-grade.ts","id":"01a0d3ec-3d6a-71d3-a703-64bf51007890"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/reduce-skill-cost/grades/jewelry-enchant-reduce-skill-cost-fine-magicka-ability-cost.temper-gear-grade.ts","id":"01a0d3ec-5e3c-70d9-82be-f78c2ab9ee38"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/reduce-skill-cost/grades/jewelry-enchant-reduce-skill-cost-legendary-magicka-ability-cost.temper-gear-grade.ts","id":"01a0d3ec-a5cb-7e92-8ab7-387b638d17da"}

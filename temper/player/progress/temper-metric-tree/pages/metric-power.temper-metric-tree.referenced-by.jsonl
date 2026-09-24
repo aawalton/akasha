@@ -1,2 +1,12 @@
+{"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-major/pages/major-courage/major-courage.temper-buff-major.ts","id":"01a05fc5-f6b7-7291-83b4-ba4d122d59f4"}
+{"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-minor/pages/minor-courage/minor-courage.temper-buff-minor.ts","id":"01a05fc5-f6bd-76d0-a5c0-8497265ab981"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/agility/agility.temper-skill.ts","id":"019e6238-c28d-7382-b246-b7cafaa2982c"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/elemental-talent/elemental-talent.temper-skill.ts","id":"019e624a-12c7-7fc6-9ac0-181e6f05fbc3"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/heavy-weapons/heavy-weapons.temper-skill.ts","id":"019e6226-00fa-71c2-b576-93bed9fe5ad1"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/ruination/ruination.temper-skill.ts","id":"019e624a-12dc-7ff1-938c-4bea7e83dc1d"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/slayer/slayer.temper-skill.ts","id":"019e6238-c311-75cf-8f02-2c7e2ee8d816"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/swift-warrior/swift-warrior.temper-skill.ts","id":"019e624a-12e2-7737-b6fb-7cadd38342a0"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/sword-and-board/sword-and-board.temper-skill.ts","id":"019e6226-0118-7cbc-9a8b-f9fed24efb10"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/twin-blade-and-blunt/twin-blade-and-blunt.temper-skill.ts","id":"019e6226-011c-743f-8e01-6480b0d2e5fa"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-power-spell.temper-metric-tree.ts","id":"019e2fcd-5964-77ae-b365-a40ef16578b7"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-power-weapon.temper-metric-tree.ts","id":"019e2fcd-5966-7853-bec8-fb9e5d908451"}

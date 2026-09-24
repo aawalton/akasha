@@ -3,3 +3,10 @@
 {"propertySlug":"companion-grade-metric","path":"temper/catalog/companion/trait/pages/vigorous/grades/companion-trait-vigorous-legendary.temper-companion-trait-grade.ts","id":"01a0d3e9-0fae-7d4f-8f48-de007af75d9d"}
 {"propertySlug":"companion-grade-metric","path":"temper/catalog/companion/trait/pages/vigorous/grades/companion-trait-vigorous-normal.temper-companion-trait-grade.ts","id":"01a0d3e8-f194-7083-8cbb-6da7d47363a1"}
 {"propertySlug":"companion-grade-metric","path":"temper/catalog/companion/trait/pages/vigorous/grades/companion-trait-vigorous-superior.temper-companion-trait-grade.ts","id":"01a0d3e9-06ea-74fd-bab2-6a0355f5992c"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/skill/pages/azandar-azandar-son-of-kozanset/azandar-azandar-son-of-kozanset.temper-companion-skill.ts","id":"019e6484-383e-7b59-9075-b41bb85d9916"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/skill/pages/bastian-bastian-tough/bastian-bastian-tough.temper-companion-skill.ts","id":"019e6484-3854-7de8-b88a-9a80cc6ffa59"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/skill/pages/zerith-var-zerith-var-third-moons-chosen/zerith-var-zerith-var-third-moons-chosen.temper-companion-skill.ts","id":"019e6484-38b7-7438-8c87-ea6e71b14459"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/temper-eso-companion/pages/azandar/azandar.temper-eso-companion.ts","id":"01a05fcf-591d-727b-bcd4-81688875cb62"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/temper-eso-companion/pages/bastian/bastian.temper-eso-companion.ts","id":"01a05fcf-591e-7bc4-8cbd-17a4ac12d3bf"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/temper-eso-companion/pages/zerith-var/zerith-var.temper-eso-companion.ts","id":"01a05fcf-5921-7f8a-abd6-ebccbdc3b4f3"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/trait/pages/vigorous/vigorous.temper-companion-trait.ts","id":"01a05fce-c4b1-7ee6-a23d-dede085d0557"}

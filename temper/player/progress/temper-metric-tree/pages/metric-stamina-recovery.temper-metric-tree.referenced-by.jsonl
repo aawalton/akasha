@@ -1,3 +1,13 @@
+{"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-major/pages/major-endurance/major-endurance.temper-buff-major.ts","id":"01a05fc5-f6b8-756e-9abd-f9500dbacd07"}
+{"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-minor/pages/minor-endurance/minor-endurance.temper-buff-minor.ts","id":"01a05fc5-f6be-7847-8a03-7ba959b5b8d3"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-armor-trait/pages/invigorating/invigorating.temper-armor-trait.ts","id":"01a05fb2-1bcf-73a5-a7c0-c033d122331e"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/prismatic-recovery/prismatic-recovery.temper-jewelry-enchant.ts","id":"019e5c85-d94b-7840-9864-0746ea707834"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/stamina-recovery/stamina-recovery.temper-jewelry-enchant.ts","id":"019e5c85-d946-7a55-8269-7417f599aa31"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/erudition/erudition.temper-skill.ts","id":"019e6245-a670-76bf-81a8-e6d45cfa391a"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/robustness/robustness.temper-skill.ts","id":"019e624a-12db-7ea4-a62e-b0ccb2882414"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/wellspring-of-the-abyss/wellspring-of-the-abyss.temper-skill.ts","id":"019e6245-a769-7a21-a053-8299fd9c6c2b"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/wind-walker/wind-walker.temper-skill.ts","id":"019e6238-c32e-7b85-88bd-15ec37e502ae"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/yffres-endurance/yffres-endurance.temper-skill.ts","id":"019e624a-12e7-7d8b-8051-62f62f514e0a"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-armor-trait/pages/invigorating/grades/armor-trait-invigorating-epic-stamina-recovery.temper-gear-grade.ts","id":"01a0d3e9-0e6f-79e2-9698-4d267f8b966e"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-armor-trait/pages/invigorating/grades/armor-trait-invigorating-fine-stamina-recovery.temper-gear-grade.ts","id":"01a0d3e9-28d6-776b-9ed3-bcd61d403b06"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-armor-trait/pages/invigorating/grades/armor-trait-invigorating-legendary-stamina-recovery.temper-gear-grade.ts","id":"01a0d3e9-81d7-7c9e-acf5-c1159b6841ad"}

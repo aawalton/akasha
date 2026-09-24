@@ -1,3 +1,12 @@
+{"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-major/pages/major-mending/major-mending.temper-buff-major.ts","id":"01a05fc5-f6ba-7eab-aa2e-27f726d0edfd"}
+{"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-minor/pages/minor-mending/minor-mending.temper-buff-minor.ts","id":"01a05fc5-f6c0-73d4-b281-ba7fd03e4f81"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-weapon-trait/pages/powered/powered.temper-weapon-trait.ts","id":"019e5b8b-e549-7d10-841e-e3e8cfe05a8d"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/braided-tether/braided-tether.temper-skill.ts","id":"019e6245-a605-7df1-9f8d-5535b4a2a704"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/emerald-moss/emerald-moss.temper-skill.ts","id":"019e6245-a661-7d7b-905a-6f129f72797e"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/life-mender/life-mender.temper-skill.ts","id":"019e624a-12ce-7aea-8f0f-eaa93ab70109"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/mortal-coil/mortal-coil.temper-skill.ts","id":"019e6245-a6d3-7b9e-ae16-1a5fac6d5651"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/restoration-master/restoration-master.temper-skill.ts","id":"019e6226-010e-7c46-a00f-203ffd58ccca"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/soul-siphoner/soul-siphoner.temper-skill.ts","id":"019e6245-a73c-70b5-aea6-883e3d35eae5"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-weapon-trait/pages/powered/grades/weapon-trait-powered-epic.temper-gear-grade.ts","id":"01a0d3e9-67f9-7f7c-bff7-a70d877153b9"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-weapon-trait/pages/powered/grades/weapon-trait-powered-fine.temper-gear-grade.ts","id":"01a0d3e9-6f00-7fbf-931d-30c53950ce41"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-weapon-trait/pages/powered/grades/weapon-trait-powered-legendary.temper-gear-grade.ts","id":"01a0d3e9-905b-78ad-81fb-4cd30198d788"}

@@ -1,2 +1,9 @@
+{"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-major/pages/major-force/major-force.temper-buff-major.ts","id":"01a05fc5-f6b9-7f4b-8028-9e85561d13c5"}
+{"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-minor/pages/minor-force/minor-force.temper-buff-minor.ts","id":"01a05fc5-f6be-70f8-aec6-a8330fe4c092"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/advanced-species/advanced-species.temper-skill.ts","id":"019e6245-a5e5-7e39-aa0f-613701e21698"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/dexterity/dexterity.temper-skill.ts","id":"019e6238-c2b3-7c77-ab59-f2c0250d072b"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/feline-ambush/feline-ambush.temper-skill.ts","id":"019e624a-12c9-71d9-a52b-db5a22548c13"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/heavy-weapons/heavy-weapons.temper-skill.ts","id":"019e6226-00fa-71c2-b576-93bed9fe5ad1"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/twin-blade-and-blunt/twin-blade-and-blunt.temper-skill.ts","id":"019e6226-011c-743f-8e01-6480b0d2e5fa"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-critical-damage-spell.temper-metric-tree.ts","id":"019e2fcd-597a-70c8-9fbb-f4969e37d3ee"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-critical-damage-weapon.temper-metric-tree.ts","id":"019e2fcd-597b-703c-aea1-b4dfff3b9318"}

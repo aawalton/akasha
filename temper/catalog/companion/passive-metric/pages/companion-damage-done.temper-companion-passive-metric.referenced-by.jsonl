@@ -3,3 +3,13 @@
 {"propertySlug":"companion-grade-metric","path":"temper/catalog/companion/trait/pages/aggressive/grades/companion-trait-aggressive-legendary.temper-companion-trait-grade.ts","id":"01a0d3e7-5b3a-79b8-8945-b5f3bb052b1b"}
 {"propertySlug":"companion-grade-metric","path":"temper/catalog/companion/trait/pages/aggressive/grades/companion-trait-aggressive-normal.temper-companion-trait-grade.ts","id":"01a0d3e7-4bd1-7153-90b1-5118d5e9c3be"}
 {"propertySlug":"companion-grade-metric","path":"temper/catalog/companion/trait/pages/aggressive/grades/companion-trait-aggressive-superior.temper-companion-trait-grade.ts","id":"01a0d3e7-5265-7561-a5ce-8b6b9225d02a"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/skill/pages/all-shared-flexibility/all-shared-flexibility.temper-companion-skill.ts","id":"019e6484-3835-78f0-aac4-b3f011617cbb"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/skill/pages/bastian-bastian-tough/bastian-bastian-tough.temper-companion-skill.ts","id":"019e6484-3854-7de8-b88a-9a80cc6ffa59"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/skill/pages/ember-ember-cunning/ember-ember-cunning.temper-companion-skill.ts","id":"019e6484-3859-79c2-8c47-1308c07b5fcd"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/skill/pages/mirri-mirri-dynamic/mirri-mirri-dynamic.temper-companion-skill.ts","id":"019e6484-387d-7e76-835a-f1e88c408de4"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/skill/pages/tanlorin-tanlorin-spirited/tanlorin-tanlorin-spirited.temper-companion-skill.ts","id":"019e6484-38a9-7fb5-9cff-d790373b306c"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/temper-eso-companion/pages/bastian/bastian.temper-eso-companion.ts","id":"01a05fcf-591e-7bc4-8cbd-17a4ac12d3bf"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/temper-eso-companion/pages/ember/ember.temper-eso-companion.ts","id":"01a05fcf-591f-76e5-bd82-41943a9f2a7a"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/temper-eso-companion/pages/mirri/mirri.temper-eso-companion.ts","id":"01a05fcf-591f-7e8b-a141-57ddd4ae8373"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/temper-eso-companion/pages/tanlorin/tanlorin.temper-eso-companion.ts","id":"01a05fcf-5920-7f59-aa2c-473354605a90"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/trait/pages/aggressive/aggressive.temper-companion-trait.ts","id":"01a05fce-c4ae-76d4-b0f2-55ebd7f2e20e"}

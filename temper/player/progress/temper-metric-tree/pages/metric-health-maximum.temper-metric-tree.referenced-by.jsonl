@@ -1,3 +1,16 @@
+{"propertySlug":"effect-metric","path":"temper/catalog/effect/temper-buff-minor/pages/minor-toughness/minor-toughness.temper-buff-minor.ts","id":"01a05fc5-f6c2-7285-b4a6-155081e13cdc"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-armor-enchant/pages/health/health.temper-armor-enchant.ts","id":"01a05fd4-d96a-7f26-be77-be4206893578"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-armor-enchant/pages/prismatic-defense/prismatic-defense.temper-armor-enchant.ts","id":"01a05fd4-d96c-761c-984c-cf81a1aac8c6"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-jewelry-trait/pages/healthy/healthy.temper-jewelry-trait.ts","id":"019e5b97-6d8c-7e89-9ce9-e8824281f2c5"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-jewelry-trait/pages/triune/triune.temper-jewelry-trait.ts","id":"019e5b97-6d96-7db5-902b-64e6d928282a"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/argonian-resistance/argonian-resistance.temper-skill.ts","id":"019e624a-12be-716e-bbbd-b87a0f0f6e92"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/dark-vigor/dark-vigor.temper-skill.ts","id":"019e6245-a640-7984-a547-a860a1b1f4b9"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/juggernaut/juggernaut.temper-skill.ts","id":"019e6238-c2d2-7ed3-9fc3-02945e21f2b6"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/last-gasp/last-gasp.temper-skill.ts","id":"019e6245-a6b8-7b47-8801-947c2f97b365"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/lunar-blessings/lunar-blessings.temper-skill.ts","id":"019e624a-12cf-7c22-adaf-3ba578576319"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/resist-frost/resist-frost.temper-skill.ts","id":"019e624a-12d8-78ad-9e7e-eb5c4ae251c2"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/tough/tough.temper-skill.ts","id":"019e624a-12e4-79ec-8385-beae0a3eb1f4"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/unflinching-rage/unflinching-rage.temper-skill.ts","id":"019e624a-12e5-7b32-ae3a-936b53bb3044"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-armor-enchant/pages/health/grades/armor-enchant-health-epic.temper-gear-grade.ts","id":"01a0d3e7-15b0-7315-9e35-2d67467cf8f0"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-armor-enchant/pages/health/grades/armor-enchant-health-fine.temper-gear-grade.ts","id":"01a0d3e7-26a0-7b2c-971c-3bcfc8f0f355"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-armor-enchant/pages/health/grades/armor-enchant-health-legendary.temper-gear-grade.ts","id":"01a0d3e7-48f3-7777-8230-05f9d6237374"}

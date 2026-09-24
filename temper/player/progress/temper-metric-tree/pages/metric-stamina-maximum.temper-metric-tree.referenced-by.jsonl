@@ -1,3 +1,16 @@
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-armor-enchant/pages/prismatic-defense/prismatic-defense.temper-armor-enchant.ts","id":"01a05fd4-d96c-761c-984c-cf81a1aac8c6"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-armor-enchant/pages/stamina/stamina.temper-armor-enchant.ts","id":"01a05fd4-d96c-7e66-8940-ca31af8c2c46"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-jewelry-trait/pages/robust/robust.temper-jewelry-trait.ts","id":"019e5b97-6d93-7d2a-a0f9-b218db3d4370"}
+{"propertySlug":"effect-metric","path":"temper/catalog/gear/temper-jewelry-trait/pages/triune/triune.temper-jewelry-trait.ts","id":"019e5b97-6d96-7db5-902b-64e6d928282a"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/brawny/brawny.temper-skill.ts","id":"019e624a-12c1-726c-8677-2e48f66258b5"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/conditioning/conditioning.temper-skill.ts","id":"019e624a-12c2-747f-afa8-a8edb36eb1b9"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/dynamic/dynamic.temper-skill.ts","id":"019e624a-12c6-7e45-b811-15e2bd1600cd"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/expert-summoner/expert-summoner.temper-skill.ts","id":"019e6245-a67b-7033-a487-17f458c8f6f0"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/imperial-mettle/imperial-mettle.temper-skill.ts","id":"019e624a-12cd-79af-8e9a-a879c4c9ea14"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/lunar-blessings/lunar-blessings.temper-skill.ts","id":"019e624a-12cf-7c22-adaf-3ba578576319"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/resist-affliction/resist-affliction.temper-skill.ts","id":"019e624a-12d5-7ebe-824d-421a9d606825"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/resourceful/resourceful.temper-skill.ts","id":"019e624a-12d9-79f1-9c01-3fe8bf8d527a"}
+{"propertySlug":"effect-metric","path":"temper/catalog/skill/pages/stalwart/stalwart.temper-skill.ts","id":"019e624a-12e1-74c4-a94d-9622e6599c5c"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-armor-enchant/pages/prismatic-defense/grades/armor-enchant-prismatic-defense-epic-stamina-maximum.temper-gear-grade.ts","id":"01a0d3e7-c4d3-7045-b28c-b8959ba363dc"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-armor-enchant/pages/prismatic-defense/grades/armor-enchant-prismatic-defense-fine-stamina-maximum.temper-gear-grade.ts","id":"01a0d3e7-d665-7f6f-8cab-77524b8a706c"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-armor-enchant/pages/prismatic-defense/grades/armor-enchant-prismatic-defense-legendary-stamina-maximum.temper-gear-grade.ts","id":"01a0d3e8-187f-7318-8447-dbbd88108194"}

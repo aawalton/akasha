@@ -3,3 +3,6 @@
 {"propertySlug":"companion-grade-metric","path":"temper/catalog/companion/trait/pages/focused/grades/companion-trait-focused-legendary.temper-companion-trait-grade.ts","id":"01a0d3e7-f53d-77ed-8343-cf3abc2ca25f"}
 {"propertySlug":"companion-grade-metric","path":"temper/catalog/companion/trait/pages/focused/grades/companion-trait-focused-normal.temper-companion-trait-grade.ts","id":"01a0d3e7-dd66-7bb7-b82f-2ecfa608d90a"}
 {"propertySlug":"companion-grade-metric","path":"temper/catalog/companion/trait/pages/focused/grades/companion-trait-focused-superior.temper-companion-trait-grade.ts","id":"01a0d3e7-e524-7ee9-a365-87b2d0947126"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/skill/pages/ember-ember-cunning/ember-ember-cunning.temper-companion-skill.ts","id":"019e6484-3859-79c2-8c47-1308c07b5fcd"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/temper-eso-companion/pages/ember/ember.temper-eso-companion.ts","id":"01a05fcf-591f-76e5-bd82-41943a9f2a7a"}
+{"propertySlug":"companion-metric","path":"temper/catalog/companion/trait/pages/focused/focused.temper-companion-trait.ts","id":"01a05fce-c4af-7d13-ad7c-a7e9b1934c38"}
