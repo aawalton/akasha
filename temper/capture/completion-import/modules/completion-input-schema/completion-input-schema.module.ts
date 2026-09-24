@@ -20,9 +20,5 @@ export const completionInputSchema = {
       decisionKind: "decision-kind/departure",
       statement: "A key the reading does not name is kept.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The reading names fields without saying any field's meaning.",
-    },
   ],
 } as const satisfies Module
