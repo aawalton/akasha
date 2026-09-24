@@ -68,6 +68,11 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A size, an alpha, a scale or an offset given as anything but a number is not taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Text, a font and a texture are kept only where the game handed over words.",
     },
     {

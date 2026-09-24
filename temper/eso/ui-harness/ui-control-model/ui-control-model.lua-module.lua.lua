@@ -154,19 +154,24 @@ function Control:IsControlHidden()
   return false
 end
 
-function Control:SetAlpha(alpha) self.uiAlpha = alpha end
+local function asNumber(value, fallback)
+  if type(value) == "number" then return value end
+  return fallback
+end
+
+function Control:SetAlpha(alpha) self.uiAlpha = asNumber(alpha, 1) end
 function Control:GetAlpha() return self.uiAlpha end
-function Control:SetScale(scale) self.uiScale = scale end
+function Control:SetScale(scale) self.uiScale = asNumber(scale, 1) end
 function Control:SetMouseEnabled(enabled) self.uiMouseEnabled = enabled and true or false end
 function Control:SetResizeToFitDescendents(resize) self.uiResizeToFit = resize and true or false end
 function Control:GetResizeToFitDescendents() return self.uiResizeToFit end
 
 function Control:SetDimensions(width, height)
-  self.uiWidth = width or 0
-  self.uiHeight = height or 0
+  self.uiWidth = asNumber(width, 0)
+  self.uiHeight = asNumber(height, 0)
 end
-function Control:SetWidth(width) self.uiWidth = width or 0 end
-function Control:SetHeight(height) self.uiHeight = height or 0 end
+function Control:SetWidth(width) self.uiWidth = asNumber(width, 0) end
+function Control:SetHeight(height) self.uiHeight = asNumber(height, 0) end
 function Control:GetWidth()
   local _, _, width = place(self)
   return width
@@ -205,11 +210,11 @@ end
 
 function Control:SetAnchor(point, relativeTo, relativePoint, offsetX, offsetY, constrains)
   insert(self.uiAnchors, {
-    point = point,
+    point = asNumber(point, ANCHOR_POINTS.TOPLEFT),
     relativeTo = relativeTo or self.uiParent,
-    relativePoint = relativePoint or point,
-    offsetX = offsetX or 0,
-    offsetY = offsetY or 0,
+    relativePoint = asNumber(relativePoint, asNumber(point, ANCHOR_POINTS.TOPLEFT)),
+    offsetX = asNumber(offsetX, 0),
+    offsetY = asNumber(offsetY, 0),
     constrains = constrains,
   })
 end
