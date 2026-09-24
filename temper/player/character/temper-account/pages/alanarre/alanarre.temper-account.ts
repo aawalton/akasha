@@ -1,9 +1,9 @@
 import type { TemperAccount } from "akasha/temper/player/character/temper-account/temper-account.page-type.types.ts"
 
-export const account9ba554f7Cb1848bbA709Ec935a895ca7 = {
+export const alanarre = {
   id: "01a05fda-9350-7c6f-bb15-3a6991969ce1",
   type: "page-type/temper-account",
-  slug: "account-9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  slug: "alanarre",
   title: "@Alanarre",
   key: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   displayName: "@Alanarre",
