@@ -7,7 +7,7 @@ export const rockapellaHowBoutNow = {
   title: "How Bout Now?",
   partOfCollections: ["artist/rockapella"],
   position: 0,
-  ownLength: 3.505433,
+  ownLength: 3.5054333333333334,
   ownProgress: 3.505433,
   unit: "unit/minutes",
   status: "completed",

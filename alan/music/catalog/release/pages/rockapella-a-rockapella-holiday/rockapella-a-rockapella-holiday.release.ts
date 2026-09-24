@@ -7,7 +7,7 @@ export const rockapellaARockapellaHoliday = {
   title: "A Rockapella Holiday",
   partOfCollections: ["artist/rockapella"],
   position: 0,
-  ownLength: 40.670717,
+  ownLength: 40.670716666666664,
   ownProgress: 40.670717,
   unit: "unit/minutes",
   status: "completed",

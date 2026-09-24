@@ -17,7 +17,7 @@ export const rockapella = {
       source: "spotify",
       externalId: "1AFSUleuDTapVhm5zUf4ix",
       externalLink: "https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix",
-      lastSyncedAt: "2026-03-09",
+      lastSyncedAt: "2026-09-24",
     },
   ],
   tags: ["Classic Rock"],

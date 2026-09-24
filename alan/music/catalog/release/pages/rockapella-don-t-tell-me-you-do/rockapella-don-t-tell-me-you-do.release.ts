@@ -7,7 +7,7 @@ export const rockapellaDonTTellMeYouDo = {
   title: "Don't Tell Me You Do",
   partOfCollections: ["artist/rockapella"],
   position: 0,
-  ownLength: 49.074883,
+  ownLength: 49.07488333333333,
   ownProgress: 49.074883,
   unit: "unit/minutes",
   status: "completed",

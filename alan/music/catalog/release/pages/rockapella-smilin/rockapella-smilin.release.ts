@@ -7,7 +7,7 @@ export const rockapellaSmilin = {
   title: "Smilin'",
   partOfCollections: ["artist/rockapella"],
   position: 0,
-  ownLength: 39.921217,
+  ownLength: 39.921216666666666,
   ownProgress: 39.921217,
   unit: "unit/minutes",
   status: "completed",

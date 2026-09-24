@@ -7,7 +7,7 @@ export const rockapellaCandyMan = {
   title: "Candy Man",
   partOfCollections: ["artist/rockapella"],
   position: 0,
-  ownLength: 2.594783,
+  ownLength: 2.5947833333333334,
   ownProgress: 2.594783,
   unit: "unit/minutes",
   status: "completed",

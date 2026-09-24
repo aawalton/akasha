@@ -7,7 +7,7 @@ export const rockapellaWorkinMyWayToYou = {
   title: "Workin My Way to You",
   partOfCollections: ["artist/rockapella"],
   position: 0,
-  ownLength: 3.012067,
+  ownLength: 3.0120666666666667,
   ownProgress: 3.012067,
   unit: "unit/minutes",
   status: "completed",

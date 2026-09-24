@@ -7,7 +7,7 @@ export const rockapellaBetter2gether = {
   title: "Better 2gether",
   partOfCollections: ["artist/rockapella"],
   position: 0,
-  ownLength: 2.859917,
+  ownLength: 2.859916666666667,
   ownProgress: 2.859917,
   unit: "unit/minutes",
   status: "completed",

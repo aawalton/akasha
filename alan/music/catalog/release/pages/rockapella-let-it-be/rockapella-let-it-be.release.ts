@@ -7,7 +7,7 @@ export const rockapellaLetItBe = {
   title: "Let It Be",
   partOfCollections: ["artist/rockapella"],
   position: 0,
-  ownLength: 3.451867,
+  ownLength: 3.4518666666666666,
   ownProgress: 3.451867,
   unit: "unit/minutes",
   status: "completed",

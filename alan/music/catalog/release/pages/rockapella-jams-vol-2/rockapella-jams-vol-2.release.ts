@@ -7,7 +7,7 @@ export const rockapellaJamsVol2 = {
   title: "Jams, Vol. 2",
   partOfCollections: ["artist/rockapella"],
   position: 0,
-  ownLength: 37.985917,
+  ownLength: 37.98591666666667,
   ownProgress: 37.985917,
   unit: "unit/minutes",
   status: "completed",

@@ -7,7 +7,7 @@ export const rockapellaBang = {
   title: "Bang",
   partOfCollections: ["artist/rockapella"],
   position: 0,
-  ownLength: 46.951083,
+  ownLength: 46.95108333333334,
   ownProgress: 46.951083,
   unit: "unit/minutes",
   status: "completed",

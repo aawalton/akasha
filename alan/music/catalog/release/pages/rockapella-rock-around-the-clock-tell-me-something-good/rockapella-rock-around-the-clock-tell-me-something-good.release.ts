@@ -7,7 +7,7 @@ export const rockapellaRockAroundTheClockTellMeSomethingGood = {
   title: "Rock Around the Clock / Tell Me Something Good",
   partOfCollections: ["artist/rockapella"],
   position: 0,
-  ownLength: 2.964583,
+  ownLength: 2.964583333333333,
   ownProgress: 2.964583,
   unit: "unit/minutes",
   status: "completed",

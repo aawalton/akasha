@@ -7,7 +7,7 @@ export const rockapellaMotownMore = {
   title: "Motown & More",
   partOfCollections: ["artist/rockapella"],
   position: 0,
-  ownLength: 35.805967,
+  ownLength: 35.80596666666667,
   ownProgress: 35.805967,
   unit: "unit/minutes",
   status: "completed",
