@@ -1,4 +1,5 @@
 import type { callHarness } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
+import type * as vscode from "vscode"
 
 export type Calling = typeof callHarness
 
@@ -12,4 +13,8 @@ export type Editor = {
       confirm: string
     ) => PromiseLike<string | undefined>
   }
+}
+
+export type DraggingEditor = Editor & {
+  readonly DataTransferItem: new (value: unknown) => vscode.DataTransferItem
 }

@@ -22,6 +22,10 @@ export const panelActing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A dragging act is handed that part and what makes the thing a drag carries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The harness call is typed as the harness's own call rather than spelled again.",
     },
     {
