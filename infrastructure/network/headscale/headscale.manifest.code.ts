@@ -6,6 +6,10 @@ import {
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import { mintedSecretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import {
+  type CertificateRolled,
+  certificateRollingYaml,
+} from "akasha/infrastructure/network/headscale/modules/certificate-rolling/certificate-rolling.module.code.ts"
+import {
   configmapYaml,
   policyConfigmapYaml,
 } from "akasha/infrastructure/network/headscale/modules/configmaps/headscale-configmaps.module.code.ts"
@@ -25,6 +29,15 @@ import {
 import { ApiObject, App, Chart } from "cdk8s"
 
 const TLS_SECRET_NAME = "headscale-tls"
+
+const TLS_ROLLED: CertificateRolled = {
+  namespace: NAMESPACE,
+  kind: "StatefulSet",
+  name: "headscale",
+  secret: TLS_SECRET_NAME,
+  keys: ["tls.crt", "tls.key"],
+  annotation: "checksum/tls",
+}
 
 const DATA_CLAIM = "headscale-data"
 
@@ -88,10 +101,11 @@ function statefulsetYaml(): string {
         metadata: {
           labels: CONTROL_PLANE_LABELS,
           annotations: {
-            "checksum/tls": mintedSecretChecksum(NAMESPACE, TLS_SECRET_NAME, [
-              "tls.crt",
-              "tls.key",
-            ]),
+            [TLS_ROLLED.annotation]: mintedSecretChecksum(
+              NAMESPACE,
+              TLS_SECRET_NAME,
+              TLS_ROLLED.keys
+            ),
           },
         },
         spec: {
@@ -259,6 +273,7 @@ export default function synth(): readonly { readonly name: string; readonly yaml
     { name: "data-pv", yaml: dataPvYaml() },
     { name: "data-pvc", yaml: dataPvcYaml() },
     { name: "service", yaml: serviceYaml() },
+    { name: "certificate-rolling", yaml: certificateRollingYaml(TLS_ROLLED) },
     { name: "statefulset", yaml: statefulsetYaml() },
   ]
 }
