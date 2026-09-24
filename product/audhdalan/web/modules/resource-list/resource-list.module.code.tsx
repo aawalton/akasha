@@ -1,88 +1,60 @@
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
-import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
-import { ExternalLink, FileSpreadsheet, Gauge, NotebookPen, Presentation } from "lucide-react"
+import { MarkdownRenderer } from "akasha/page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
+import {
+  ExternalLink,
+  FileSpreadsheet,
+  Gauge,
+  Link2,
+  NotebookPen,
+  Presentation,
+} from "lucide-react"
+import type { ReactNode } from "react"
+import type { Components } from "react-markdown"
 import { Link } from "react-router"
 
-type ResourceLink = {
-  href: string
-  label: string
-  description: string
-  external: boolean
-  icon: typeof Presentation
-}
+const LEAVING = /^[a-z][a-z0-9+.-]*:\/\//i
 
-const RESOURCES: readonly ResourceLink[] = [
-  {
-    href: "/autcon-2026",
-    label: "AutCon 2026 — Making Every Spoon Count",
-    description: "Three mental models for tracking autistic energy, simple to instrumented.",
-    external: false,
-    icon: Presentation,
-  },
-  {
-    href: "/safety-levels",
-    label: "Safety Levels",
-    description: "The 8-row anchor table for Alan's Safety scale.",
-    external: false,
-    icon: Gauge,
-  },
-  {
-    href: "https://docs.google.com/spreadsheets/d/1KR1xMg8LbwwHiSfS8-2eSrb0t4xKVgn0kgnfuvz4zuY/",
-    label: "Google Sheets template",
-    description:
-      "Starter scaffolds at all three levels — Spoon Counting, Stoplight, Resource Bars.",
-    external: true,
-    icon: FileSpreadsheet,
-  },
-  {
-    href: "https://cool-crocus-712.notion.site/Making-Every-Spoon-Count-Templates-3605cf0bf24a808a9ae6fb09aa0af644",
-    label: "Notion template",
-    description:
-      "Starter scaffolds at all three levels — Spoon Counting, Stoplight, Resource Bars.",
-    external: true,
-    icon: NotebookPen,
-  },
+const ICONS: readonly (readonly [RegExp, typeof Presentation])[] = [
+  [/^\/autcon-/, Presentation],
+  [/^\/safety-levels/, Gauge],
+  [/docs\.google\.com\/spreadsheets/, FileSpreadsheet],
+  [/notion\.site/, NotebookPen],
 ]
 
-export function ResourceList(): React.JSX.Element {
+function iconFor(href: string): typeof Presentation {
+  return ICONS.find(([pattern]) => pattern.test(href))?.[1] ?? Link2
+}
+
+function Resource({ href = "", children }: { href?: string; children?: ReactNode }) {
+  const Icon = iconFor(href)
+  const leaving = LEAVING.test(href)
+  const linkProps = leaving
+    ? { to: href, target: "_blank", rel: "noopener noreferrer", reloadDocument: true }
+    : { to: href }
   return (
-    <ul className="space-y-6">
-      {RESOURCES.map((resource) => {
-        const Icon = resource.icon
-        const linkProps = resource.external
-          ? {
-              to: resource.href,
-              target: "_blank",
-              rel: "noopener noreferrer",
-              reloadDocument: true,
-            }
-          : { to: resource.href }
-        return (
-          <li key={resource.label}>
-            <Link
-              {...linkProps}
-              className="flex cursor-pointer items-center gap-4 [&_h3]:cursor-pointer [&_p]:cursor-pointer"
-            >
-              <Icon className="size-6 shrink-0 text-accent" aria-hidden />
-              <div className="flex flex-col gap-1">
-                <Heading
-                  variant="subsection-accent"
-                  as="h3"
-                  className="flex items-center gap-2 text-xl"
-                >
-                  {resource.label}
-                  {resource.external ? (
-                    <ExternalLink className="size-4 text-accent" aria-hidden />
-                  ) : null}
-                </Heading>
-                <Text variant="prose" className="text-base">
-                  {resource.description}
-                </Text>
-              </div>
-            </Link>
-          </li>
-        )
-      })}
-    </ul>
+    <Link
+      {...linkProps}
+      className="-ml-10 flex cursor-pointer items-center gap-4 [&_h3]:cursor-pointer"
+    >
+      <Icon className="size-6 shrink-0 text-accent" aria-hidden />
+      <Heading variant="subsection-accent" as="h3" className="flex items-center gap-2 text-xl">
+        {children}
+        {leaving ? <ExternalLink className="size-4 text-accent" aria-hidden /> : null}
+      </Heading>
+    </Link>
   )
+}
+
+const LISTED: Components = {
+  ul: ({ children }) => <ul className="space-y-6">{children}</ul>,
+  li: ({ children }) => (
+    <li className="flex flex-col gap-1 pl-10 text-base text-secondary leading-relaxed [&>br]:hidden">
+      {children}
+    </li>
+  ),
+  a: Resource,
+}
+
+export function ResourceList({ text }: { text: string }): React.JSX.Element {
+  return <MarkdownRenderer content={text} components={LISTED} />
 }

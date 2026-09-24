@@ -1,9 +1,7 @@
 {"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"design/interface/system/modules/components-text-display-panels/components-text-display-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"product/audhdalan/web/modules/deck-page-content/deck-page-content.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"product/audhdalan/web/modules/resource-list/resource-list.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"product/audhdalan/web/modules/subscribe-form/subscribe-form.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"product/audhdalan/web/routes/audhdalan-home/audhdalan-home.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"product/audhdalan/web/routes/audhdalan-safety-levels/audhdalan-safety-levels.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"temper/web/modules/automation-panel-card/automation-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"temper/web/modules/character-list-panel-card/character-list-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"temper/web/modules/companion-automation-panel-card/companion-automation-panel-card.module.code.tsx","typed":false,"deferred":false}
