@@ -66,6 +66,28 @@ test("a follow is refused where it names no stream or names pages some other way
   })
 })
 
+test("a follow narrows only by a where a question could ask", () => {
+  const follows = [{ key: "k", pageTypeSlug: "nav", where: { app: { is: "web-app/requests" } } }]
+  expect(askedIn({ stream: "s", follows })).toEqual({ stream: "s", follows })
+  expect(
+    "refused" in
+      askedIn({ stream: "s", follows: [{ key: "k", pageTypeSlug: "nav", where: "app" }] })
+  ).toBe(true)
+})
+
+test("a follow held to a narrow answers a change to a page inside it before or after", () => {
+  const narrowed = { where: { app: { is: "web-app/requests" } }, met: new Set(["home"]) }
+  const helds: readonly Held[] = [{ ...held("navs", ["nav"], null), narrowed }]
+  const inside = () => ({ app: "web-app/requests" })
+  const outside = () => ({ app: "web-app/other" })
+  expect(keysFor(helds, { pageTypeSlug: "nav", slug: "other" }, outside)).toEqual([])
+  expect(keysFor(helds, { pageTypeSlug: "nav", slug: "home" }, outside)).toEqual(["navs"])
+  expect(keysFor(helds, { pageTypeSlug: "nav", slug: "home" }, outside)).toEqual([])
+  expect(keysFor(helds, { pageTypeSlug: "nav", slug: "other" }, inside)).toEqual(["navs"])
+  expect(keysFor(helds, { pageTypeSlug: "nav", slug: "gone" }, () => null)).toEqual([])
+  expect(keysFor(helds, { pageTypeSlug: "nav" })).toEqual(["navs"])
+})
+
 test("a file a computed property keeps is heard by name in its folder, and a folder whole", () => {
   const slugs = new Set(["athena"])
   expect(

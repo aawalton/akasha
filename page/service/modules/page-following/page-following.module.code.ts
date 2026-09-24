@@ -14,6 +14,15 @@ import {
   uncommittedAt,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  type Narrowed,
+  narrowedOver,
+  valuedOnce,
+  type Where,
+  whereIn,
+  within,
+} from "akasha/page/service/modules/follow-narrowing/follow-narrowing.module.code.ts"
 import {
   COMPUTED,
   carriedBeside,
@@ -42,6 +51,7 @@ export type Follow = {
   readonly pageTypeSlug: string
   readonly by?: "id" | "slug"
   readonly values?: readonly string[]
+  readonly where?: Where
 }
 
 export type Changed = {
@@ -53,6 +63,7 @@ export type Held = {
   readonly key: string
   readonly kinds: ReadonlySet<string>
   readonly slugs: ReadonlySet<string> | null
+  readonly narrowed?: Narrowed
 }
 
 type Stream = {
@@ -88,7 +99,10 @@ function followIn(held: unknown): Follow | null {
   const one = held as Readonly<Record<string, unknown>>
   if (typeof one.key !== "string" || one.key === "") return null
   if (typeof one.pageTypeSlug !== "string" || one.pageTypeSlug === "") return null
-  if (one.by === undefined) return { key: one.key, pageTypeSlug: one.pageTypeSlug }
+  const where = whereIn(one.where)
+  if (where === null) return null
+  const narrowing = where === undefined ? {} : { where }
+  if (one.by === undefined) return { key: one.key, pageTypeSlug: one.pageTypeSlug, ...narrowing }
   if (typeof one.by !== "string" || !BY.has(one.by)) return null
   const values = textsIn(one.values)
   if (values === null) return null
@@ -97,6 +111,7 @@ function followIn(held: unknown): Follow | null {
     pageTypeSlug: one.pageTypeSlug,
     by: one.by as "id" | "slug",
     values,
+    ...narrowing,
   }
 }
 
@@ -121,7 +136,7 @@ export function askedIn(given: unknown): Asked {
     if (follow === null) {
       return {
         refused:
-          "each follow names a `key` and a `pageTypeSlug`, and names pages only `by` `id` or `slug` with their `values`",
+          "each follow names a `key` and a `pageTypeSlug`, names pages only `by` `id` or `slug` with their `values`, and narrows only by a `where` a question could ask",
       }
     }
     follows.push(follow)
@@ -146,28 +161,42 @@ function slugById(root: string, id: string): string | null {
   }
 }
 
-export function heldFor(root: string, follow: Follow): Held {
-  const kinds = kindsOf(root, follow.pageTypeSlug)
-  if (follow.by === undefined) return { key: follow.key, kinds, slugs: null }
+function slugsFor(root: string, follow: Follow): ReadonlySet<string> | null {
+  if (follow.by === undefined) return null
   const values = follow.values ?? []
-  if (follow.by === "slug") return { key: follow.key, kinds, slugs: new Set(values) }
+  if (follow.by === "slug") return new Set(values)
   const slugs = new Set<string>()
   for (const id of values) {
     const slug = slugById(root, id)
     if (slug !== null) slugs.add(slug)
   }
-  return { key: follow.key, kinds, slugs }
+  return slugs
 }
 
-export function keysFor(helds: readonly Held[], one: Changed): readonly string[] {
+export function heldFor(root: string, follow: Follow): Held {
+  const kinds = kindsOf(root, follow.pageTypeSlug)
+  const slugs = slugsFor(root, follow)
+  const held = { key: follow.key, kinds, slugs }
+  if (follow.where === undefined) return held
+  const reading = readingIn(root)
+  const pages = [...kinds].flatMap((kind) => pagesOf(reading, kind, slugs))
+  return { ...held, narrowed: narrowedOver(reading, pages, follow.where) }
+}
+
+export function keysFor(
+  helds: readonly Held[],
+  one: Changed,
+  valued: () => Value | null = () => null
+): readonly string[] {
   const keys: string[] = []
   for (const held of helds) {
     if (!held.kinds.has(one.pageTypeSlug)) continue
-    if (held.slugs === null) {
-      keys.push(held.key)
+    const slug = one.slug
+    if (held.slugs !== null && (slug === undefined || !held.slugs.has(slug))) continue
+    if (held.narrowed !== undefined && slug !== undefined && !within(held.narrowed, slug, valued)) {
       continue
     }
-    if (one.slug !== undefined && held.slugs.has(one.slug)) keys.push(held.key)
+    keys.push(held.key)
   }
   return keys
 }
@@ -195,9 +224,13 @@ export type Planned = {
   readonly keeping: ReadonlyMap<string, ReadonlySet<string>>
 }
 
-function pagesOf(root: string, kind: string, slugs: ReadonlySet<string> | null): readonly Listed[] {
-  if (slugs === null) return everyOfType(root, kind)
-  return [...slugs].flatMap((slug) => listedAt(root, kind, slug))
+function pagesOf(
+  given: string | Reading,
+  kind: string,
+  slugs: ReadonlySet<string> | null
+): readonly Listed[] {
+  if (slugs === null) return everyOfType(given, kind)
+  return [...slugs].flatMap((slug) => listedAt(given, kind, slug))
 }
 
 function fullAt(root: string, at: string): string {
@@ -282,8 +315,9 @@ export function followingFor(root: string): Following {
 
   const send = (one: Changed): undefined => {
     const id = idOf(root, one)
+    const valued = valuedOnce(root, one.pageTypeSlug, one.slug)
     for (const stream of streams.values()) {
-      const keys = keysFor(stream.helds, one)
+      const keys = keysFor(stream.helds, one, valued)
       if (keys.length === 0) continue
       stream.send(eventSaid("page", { ...one, ...(id === undefined ? {} : { id }), keys }))
     }

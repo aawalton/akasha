@@ -257,6 +257,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/modules/uncommitted/page-uncommitted.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/name-format/modules/format-reaching/format-reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/naming/modules/folder-named/folder-named.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/service/modules/follow-narrowing/follow-narrowing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/service/modules/page-following/page-following.module.code.ts"}

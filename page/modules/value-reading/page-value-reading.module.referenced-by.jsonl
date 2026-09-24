@@ -339,10 +339,12 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/value/page-value.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/value/page-value.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/file-answering/file-answering.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/follow-narrowing/follow-narrowing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-asking/page-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-following/page-following.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-incrementing/page-incrementing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.test.ts"}

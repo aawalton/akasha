@@ -2144,6 +2144,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/call-reading/call-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/events-reading/events-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/file-answering/file-answering.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/follow-narrowing/follow-narrowing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/page-appending/page-appending.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/page-asking/page-asking.module.ts"}

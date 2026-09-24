@@ -35,6 +35,11 @@ export const pageFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A follow may be narrowed by a where, as a question is.",
+    },
+
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A change pushed names the page and says to read it again rather than carrying it.",
     },

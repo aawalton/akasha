@@ -104,6 +104,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/modules/reference-reading/page-reference-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/modules/shadow/shadow.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/service/modules/follow-narrowing/follow-narrowing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/service/modules/page-following/page-following.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.code.ts"}
