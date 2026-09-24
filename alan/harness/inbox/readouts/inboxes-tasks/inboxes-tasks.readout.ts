@@ -5,7 +5,6 @@ export const inboxesTasks = {
   type: "page-type/readout",
   slug: "inboxes-tasks",
   definition: "how many of Alan's tasks are waiting",
-  reading: {},
   label: "Tasks",
   unit: "tasks",
   place: 2,
