@@ -30,6 +30,7 @@ import "akasha/temper/capture/game-catalog-capture-addon/modules/skill-catalog-c
 import "akasha/temper/capture/game-catalog-capture-addon/modules/engine-globals-catalog-capture/engine-globals-catalog-capture.module.code.ts"
 import "akasha/temper/capture/game-catalog-capture-addon/modules/interface-color-catalog-capture/interface-color-catalog-capture.module.code.ts"
 import "akasha/temper/capture/game-catalog-capture-addon/modules/interface-string-catalog-capture/interface-string-catalog-capture.module.code.ts"
+import "akasha/temper/capture/game-catalog-capture-addon/modules/engine-answer-catalog-capture/engine-answer-catalog-capture.module.code.ts"
 
 import { registerApiTestCommand } from "akasha/temper/addon/pages/catalog/modules/catalog-api-test/catalog-api-test.module.code.ts"
 import { autoCollect } from "akasha/temper/addon/pages/catalog/modules/catalog-auto-collect/catalog-auto-collect.module.code.ts"

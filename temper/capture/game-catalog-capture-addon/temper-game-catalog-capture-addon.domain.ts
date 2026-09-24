@@ -37,6 +37,7 @@ export const temperGameCatalogCaptureAddon = {
     "module/tribute-catalog-capture",
     "module/weapon-type-constants",
     "module/zone-completion-catalog-capture",
+    "module/engine-answer-catalog-capture",
   ],
   decisions: [
     {

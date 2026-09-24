@@ -4688,6 +4688,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/companion-skill-catalog-capture/companion-skill-catalog-capture.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/currency-catalog-capture/currency-catalog-capture.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/display-category-constants/display-category-constants.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/engine-answer-catalog-capture/engine-answer-catalog-capture.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/engine-globals-catalog-capture/engine-globals-catalog-capture.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/enum-value-labels/enum-value-labels.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/equip-type-constants/equip-type-constants.module.ts"}
@@ -4728,6 +4729,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/companion-equipment-catalog/companion-equipment-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/companion-skill-catalog/companion-skill-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/currency-catalog/currency-catalog.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/engine-answer-catalog/engine-answer-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/engine-globals-catalog/engine-globals-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/furniture-catalog/furniture-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/interface-color-catalog/interface-color-catalog.module.ts"}
