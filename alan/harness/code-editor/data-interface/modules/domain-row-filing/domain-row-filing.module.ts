@@ -37,9 +37,5 @@ export const domainRowFiling = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a file.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The page picture is drawn from rows kept beside it the same way.",
-    },
   ],
 } as const satisfies Module
