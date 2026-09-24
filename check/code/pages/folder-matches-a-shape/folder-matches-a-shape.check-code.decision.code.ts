@@ -12,8 +12,6 @@ import {
 import {
   type Holding,
   type Holds,
-  heldFolder,
-  namingFolderOf,
   namingOver,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.code.ts"
 import { pluralsIn } from "akasha/check/code/pages/folder-matches-a-shape/modules/plural-gathering/plural-gathering.module.code.ts"
@@ -53,7 +51,6 @@ import {
   partedIn,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { textsAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { openingWith } from "akasha/page/naming/modules/folder-named/folder-named.module.code.ts"
 
 const TS = "ts"
 
@@ -400,17 +397,6 @@ export function judgingOver(given: Reading): Judging {
     for (const folder of [...folders].sort()) {
       if (holdsNothing(grouped, folder)) continue
       if (segmenting(folder)) continue
-      const named = basename(folder)
-      const opening = heldFolder(folder, holds, heldNames)
-        ? null
-        : openingWith(named, holds(namingFolderOf(folder, holds, heldNames)).names)
-      if (opening !== null) {
-        found.push({
-          path: folder,
-          reason: `this folder opens with \`${opening}\`, what the page above it is named`,
-        })
-        continue
-      }
       const here = grouped.at(folder)
       const held = here.map((one) =>
         claimedIn(heldIn(one, pageTypes, fileProperties), paging, index, filing, pageTypes)

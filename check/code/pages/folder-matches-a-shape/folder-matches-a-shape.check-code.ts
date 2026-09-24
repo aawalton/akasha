@@ -26,20 +26,8 @@ export const folderMatchesAShape = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A folder's name never opens with the slug of the page above that folder.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
-        "A folder opening with that name is refused whatever shape the folder would match.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That refusal is answered before any shape is asked.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The name a folder is asked for is its page's own with that opening taken off.",
+        "The name a folder is asked for is its page's own with the slug of the page above taken off.",
     },
     {
       decisionKind: "decision-kind/departure",
