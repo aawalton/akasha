@@ -106,6 +106,27 @@ export const deployWebPuttingUp = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A web app running its own image is put up with that image built where the registry lacks it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image is built before any manifest naming that image is applied.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image that will not build refuses the call and applies nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build that failed leaves the version running serving.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Manifests naming an image of another commit than the deploy's are refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A kubectl that refuses makes the call refuse.",
     },
     {

@@ -1,5 +1,5 @@
 import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import { quoted } from "akasha/code/shell/modules/quoting/quoting.module.code.ts"
 import { ran as running } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
@@ -27,9 +27,8 @@ const BUN = "bun"
 const TAR = "tar"
 const SCRATCH_AT = "/var/tmp"
 const GATE_AT = "akasha-install-gate-"
-const ARCHIVE = "tracked.tar"
 const TREE = "tree"
-const TRACKED = [":(glob)**/package.json", "package.json", "bun.lock"]
+export const TRACKED = [":(glob)**/package.json", "package.json", "bun.lock"]
 const INSTALL = ["install", "--frozen-lockfile", "--dry-run"]
 const UNFOUND = /Workspace not found "([^"]*)"/
 const SYNC_CONTAINER = "code-sync"
@@ -61,23 +60,29 @@ export interface BuildTarget {
   readonly packagePath: string
 }
 
+export function packageIn(yaml: string): string | null {
+  for (const found of yaml.matchAll(WORKING_DIR_AT)) {
+    const at = found[1]
+    if (at === undefined || !at.startsWith(`${REPO_PATH}/`)) continue
+    return at.slice(REPO_PATH.length + 1)
+  }
+  return null
+}
+
 export function buildTargetOf(plan: Plan): BuildTarget | null {
   const workload = plan.workload
   if (workload === null) return null
   const carrying = plan.manifests.find((one) => carries(one, workload))
   if (carrying === undefined) return null
   if (!SYNCS_CODE.test(carrying.yaml)) return null
-  for (const found of carrying.yaml.matchAll(WORKING_DIR_AT)) {
-    const at = found[1]
-    if (at === undefined || !at.startsWith(`${REPO_PATH}/`)) continue
-    return {
-      kind: workload.kind,
-      namespace: workload.namespace,
-      workload: workload.name,
-      packagePath: at.slice(REPO_PATH.length + 1),
-    }
+  const packagePath = packageIn(carrying.yaml)
+  if (packagePath === null) return null
+  return {
+    kind: workload.kind,
+    namespace: workload.namespace,
+    workload: workload.name,
+    packagePath,
   }
-  return null
 }
 
 function runGit(root: string, argv: readonly string[]): Ran {
@@ -122,20 +127,28 @@ export function whyUninstallable(sha: string, ran: Ran): string | null {
 
 export type Installable = { readonly installs: true } | { readonly why: string }
 
+export function readOut(
+  root: string,
+  sha: string,
+  into: string,
+  paths: readonly string[]
+): string | null {
+  const archive = `${into}.tar`
+  const took = runGit(root, ["archive", "--format=tar", "-o", archive, sha, "--", ...paths])
+  if (took.code !== 0) return `could not be read out: ${saidBy(took)}`
+  mkdirSync(into, { recursive: true })
+  const spread = ranOf([TAR, "-xf", archive, "-C", into], dirname(into))
+  rmSync(archive, { force: true })
+  if (spread.code !== 0) return `could not be laid out: ${saidBy(spread)}`
+  return null
+}
+
 export function installableAt(root: string, sha: string): Installable {
   const held = mkdtempSync(join(SCRATCH_AT, GATE_AT))
   try {
-    const archive = join(held, ARCHIVE)
     const tree = join(held, TREE)
-    mkdirSync(tree)
-    const took = runGit(root, ["archive", "--format=tar", "-o", archive, sha, "--", ...TRACKED])
-    if (took.code !== 0) {
-      return { why: `the manifests tracked at ${sha} could not be read out: ${saidBy(took)}` }
-    }
-    const spread = ranOf([TAR, "-xf", archive, "-C", tree], held)
-    if (spread.code !== 0) {
-      return { why: `the manifests tracked at ${sha} could not be laid out: ${saidBy(spread)}` }
-    }
+    const unread = readOut(root, sha, tree, TRACKED)
+    if (unread !== null) return { why: `the manifests tracked at ${sha} ${unread}` }
     const why = whyUninstallable(sha, ranOf([BUN, ...INSTALL], tree))
     return why === null ? { installs: true } : { why }
   } finally {

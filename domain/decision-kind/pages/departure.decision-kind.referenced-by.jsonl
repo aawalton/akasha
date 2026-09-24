@@ -2889,6 +2889,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/log-bound-saying/log-bound-saying.module.ts","id":"01a06583-0030-7002-a537-54289a8c69bf"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/loki-log-fetching/loki-log-fetching.module.ts","id":"01a06583-0030-7001-9589-276fd2944160"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.ts","id":"01a05b27-a75c-7fab-a630-6d98b13144e1"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.ts","id":"01a0d5b4-6d29-7338-92c6-5f8802888961"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.ts","id":"01a05af7-5996-7000-9cf8-b27923a0672b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.ts","id":"01a08ce6-65f4-7bdd-adf3-0187b1b35936"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.ts","id":"01a05af7-5996-7001-8793-177eb8ddfa66"}

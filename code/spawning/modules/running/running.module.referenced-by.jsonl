@@ -106,6 +106,8 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-looping/deploy-looping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-asking/service-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-health/service-health.module.code.ts","typed":false,"deferred":false}

@@ -147,6 +147,7 @@ export const webAppBuilding = {
       decisionKind: "decision-kind/departure",
       statement: "A pod already going away has no build.",
     },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "No page but the manifest's own is read here.",

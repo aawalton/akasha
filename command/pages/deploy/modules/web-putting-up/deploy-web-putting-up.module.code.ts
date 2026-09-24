@@ -7,6 +7,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
+import { heldInRegistry } from "akasha/infrastructure/container-image/modules/image-publishing/image-publishing.module.code.ts"
 import { DeployRefused } from "akasha/infrastructure/service/akasha-service/secret/modules/placing/secret-placing.module.code.ts"
 import {
   alreadyBuilt,
@@ -20,10 +21,21 @@ import {
   type Resolved,
   resolveBuildEnv,
 } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts"
-import { deployableNamed } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts"
+import {
+  type ImageTarget,
+  imageBuilt,
+  imageRefOf,
+  imageTagOf,
+  imageTargetOf,
+} from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
+import {
+  type Deployable,
+  deployableNamed,
+} from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 import { placingBetween } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.code.ts"
 import {
   appliedOf,
+  type Plan,
   planFor,
   putUp,
   unfilledOf,
@@ -32,6 +44,117 @@ import {
 } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts"
 
 const SAID = 4
+
+type Putting = {
+  readonly deployable: Deployable
+  readonly plan: Plan
+  readonly sha: string
+  readonly root: string
+  readonly codeAt: string
+  readonly alreadyUp: boolean
+  readonly report: string[]
+  readonly up: string[]
+}
+
+function applied(putting: Putting): readonly string[] {
+  const { plan, root, alreadyUp, report, up } = putting
+  const workload = putting.deployable.workload
+  for (const one of writeManifests(root, plan)) report.push(`wrote\t${one}`)
+  const refusals: string[] = []
+  for (const one of putUp(plan, alreadyUp ? () => [] : placingBetween(root, report))) {
+    report.push(`kubectl\t${one.argv.join(" ")}\t${one.stdout.trim().split("\n").join("; ")}`)
+    if (one.code !== 0) {
+      refusals.push(`kubectl ${one.argv.join(" ")} exited ${one.code}: ${one.stderr.trim()}`)
+    }
+  }
+  if (refusals.length === 0) {
+    up.push(`${workload.kind} ${workload.namespace}/${workload.name}, applied to the cluster`)
+  }
+  return refusals
+}
+
+type Differing = { readonly differs: boolean } | { readonly why: string }
+
+function differing(plan: Plan, report: string[]): Differing {
+  let differs = false
+  for (const manifest of plan.manifests) {
+    const matched = appliedOf(plan, manifest)
+    if ("why" in matched) return matched
+    report.push(`manifest\t${manifest.path}\t${matched.stands ? "stands" : "differs"}`)
+    if (!matched.stands) differs = true
+  }
+  return { differs }
+}
+
+function nothingSaid(putting: Putting): string {
+  return `nothing\tthe cluster already stands as ${putting.deployable.slug}'s page describes, at ${putting.sha}`
+}
+
+function upSaid(putting: Putting): string {
+  const workload = putting.deployable.workload
+  return `up\t${workload.kind} ${workload.namespace}/${workload.name} stands as its page describes`
+}
+
+type Readied = { readonly resolved: Resolved } | { readonly refused: Answer }
+
+function readied(putting: Putting, namespace: string): Readied {
+  const { sha, report } = putting
+  const installs = installableAt(putting.root, sha)
+  if ("why" in installs) return { refused: answeredWith(report, [installs.why], DATA) }
+  report.push(`installs\t${sha}\tthe manifests it tracks`)
+  const declared = declaredBuildEnv(putting.codeAt, putting.deployable.manifestPath)
+  const resolved = resolveBuildEnv(namespace, declared, sha)
+  report.push(`build-env\t${resolved.env.map((one) => one.name).join(" ")}`)
+  if (resolved.missing.length === 0) return { resolved }
+  const why = resolved.missing.map(
+    (one) => `${one}, so the build would inline nothing where a value belongs`
+  )
+  return { refused: answeredWith(report, why, DATA) }
+}
+
+async function imageMade(image: ImageTarget, putting: Putting): Promise<Answer | null> {
+  const { sha, report, up } = putting
+  const ref = imageRefOf(image)
+  const held = await heldInRegistry(image.repository, image.tag)
+  report.push(`image\t${ref}\t${held ? "in the registry" : "not in the registry"}`)
+  if (held) return null
+  const ready = readied(putting, image.namespace)
+  if ("refused" in ready) return ready.refused
+  const built = imageBuilt(putting.root, image, sha, ready.resolved)
+  for (const one of built.ran) {
+    report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
+  }
+  if (built.why !== null) return answeredWith(report, [built.why], OPERATIONAL)
+  up.push(`${ref}, built from ${sha} and pushed to the registry`)
+  return null
+}
+
+async function imagePutUp(image: ImageTarget, putting: Putting): Promise<Answer> {
+  const { sha, report } = putting
+  const ref = imageRefOf(image)
+  if (image.tag !== imageTagOf(sha)) {
+    return answeredWith(
+      report,
+      [
+        `the manifests name ${ref}, which is not the tag of ${sha}, so the pod would run a build of another commit`,
+      ],
+      DATA
+    )
+  }
+  const unmade = await imageMade(image, putting)
+  if (unmade !== null) return unmade
+  const matched = differing(putting.plan, report)
+  if ("why" in matched) return answeredWith(report, [matched.why], OPERATIONAL)
+  if (!matched.differs && putting.alreadyUp) {
+    report.push(nothingSaid(putting))
+    return told(report)
+  }
+  const refusals = applied(putting)
+  if (refusals.length > 0) return answeredWith(report, refusals, OPERATIONAL)
+  report.push(`serving\t${image.packagePath}\tfrom ${ref}`)
+  report.push(upSaid(putting))
+  return told(report)
+}
 
 export async function putUpWebApp(
   slug: string,
@@ -117,6 +240,19 @@ export async function putUpWebApp(
     }
   }
 
+  const putting: Putting = {
+    deployable,
+    plan,
+    sha,
+    root: given.root,
+    codeAt,
+    alreadyUp,
+    report,
+    up,
+  }
+  const image = imageTargetOf(plan)
+  if (image !== null) return await imagePutUp(image, putting)
+
   const target = buildTargetOf(plan)
   const pod = target === null ? null : livePod(target)
   const held = target === null || pod === null ? null : inPod(target, pod)
@@ -132,50 +268,17 @@ export async function putUpWebApp(
 
   let resolved: Resolved = { env: [], hidden: [], missing: [] }
   if (target !== null && !isBuilt) {
-    const installs = installableAt(given.root, sha)
-    if ("why" in installs) return answeredWith(report, [installs.why], DATA)
-    report.push(`installs\t${sha}\tthe manifests it tracks`)
-    const declared = declaredBuildEnv(codeAt, deployable.manifestPath)
-    resolved = resolveBuildEnv(target.namespace, declared, sha)
-    report.push(`build-env\t${resolved.env.map((one) => one.name).join(" ")}`)
-    if (resolved.missing.length > 0) {
-      return answeredWith(
-        report,
-        resolved.missing.map(
-          (one) => `${one}, so the build would inline nothing where a value belongs`
-        ),
-        DATA
-      )
-    }
+    const ready = readied(putting, target.namespace)
+    if ("refused" in ready) return ready.refused
+    resolved = ready.resolved
   }
 
-  let differs = false
-  for (const manifest of plan.manifests) {
-    const applied = appliedOf(plan, manifest)
-    if ("why" in applied) return answeredWith(report, [applied.why], OPERATIONAL)
-    report.push(`manifest\t${manifest.path}\t${applied.stands ? "stands" : "differs"}`)
-    if (!applied.stands) differs = true
-  }
+  const matched = differing(plan, report)
+  if ("why" in matched) return answeredWith(report, [matched.why], OPERATIONAL)
+  const differs = matched.differs
   if (!differs && alreadyUp && isBuilt) {
-    report.push(
-      `nothing\tthe cluster already stands as ${deployable.slug}'s page describes, at ${sha}`
-    )
+    report.push(nothingSaid(putting))
     return told(report)
-  }
-
-  const applying = (): readonly string[] => {
-    for (const one of writeManifests(given.root, plan)) report.push(`wrote\t${one}`)
-    const refusals: string[] = []
-    for (const one of putUp(plan, alreadyUp ? () => [] : placingBetween(given.root, report))) {
-      report.push(`kubectl\t${one.argv.join(" ")}\t${one.stdout.trim().split("\n").join("; ")}`)
-      if (one.code !== 0) {
-        refusals.push(`kubectl ${one.argv.join(" ")} exited ${one.code}: ${one.stderr.trim()}`)
-      }
-    }
-    if (refusals.length === 0) {
-      up.push(`${workload.kind} ${workload.namespace}/${workload.name}, applied to the cluster`)
-    }
-    return refusals
   }
 
   let builtNow = false
@@ -189,7 +292,7 @@ export async function putUpWebApp(
         report.push(
           "applying\tthe pod would not take the build, so the manifests a pod starts on are applied before this stops"
         )
-        applying()
+        applied(putting)
       }
       return answeredWith(report, [built.why], OPERATIONAL)
     }
@@ -198,7 +301,7 @@ export async function putUpWebApp(
   }
 
   if (differs || !alreadyUp) {
-    const refusals = applying()
+    const refusals = applied(putting)
     if (refusals.length > 0) return answeredWith(report, refusals, OPERATIONAL)
   }
 
@@ -211,8 +314,6 @@ export async function putUpWebApp(
     )
   }
 
-  report.push(
-    `up\t${workload.kind} ${workload.namespace}/${workload.name} stands as its page describes`
-  )
+  report.push(upSaid(putting))
   return told(report)
 }

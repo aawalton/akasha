@@ -61,6 +61,7 @@ export const serviceCluster = {
     "text-property/service-cluster-schedule",
     "service-cluster/alanwalton-requests",
     "service-cluster/innworld-web",
+    "module/web-app-imaging",
   ],
   properties: [
     { pageProperty: "text-property/resource-kind", required: true, many: false },

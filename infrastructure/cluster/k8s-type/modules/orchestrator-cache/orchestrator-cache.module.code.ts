@@ -26,7 +26,7 @@ function resolveMemorySpec(memory: string | { request: string; limit: string }):
 
 const SHA = /^[0-9a-f]{40}$/
 
-function commitHere(): string {
+export function commitHere(): string {
   const pinned = commitOver(import.meta.dir)
   if (pinned !== null && SHA.test(pinned)) return pinned
   const done = ran(["git", "-C", import.meta.dir, "rev-parse", "HEAD"])
@@ -43,7 +43,7 @@ const CACHE_LOCK = `${ORCHESTRATOR_CACHE_MOUNT_PATH}/.init-lock`
 const LOCK_WAIT_SECONDS = 900
 const NEXT_BUILD_AT = "build.next"
 const PRIOR_BUILD_AT = "build.old"
-const BUILDER_AT = "node_modules/.bin/react-router"
+export const BUILDER_AT = "node_modules/.bin/react-router"
 
 export const BUILD_STAMP = ".built-from"
 export const SERVED_BUILD_AT = "build"

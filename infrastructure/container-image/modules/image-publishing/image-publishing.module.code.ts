@@ -24,7 +24,7 @@ import {
 const BUILDER = "tcp://buildkit.buildkit.svc.cluster.local:1234"
 const BUILDKIT_VERSION = "v0.28.0"
 const DOCKERFILE = "Dockerfile"
-const INSECURE = "registry.insecure=true"
+export const INSECURE = "registry.insecure=true"
 const HELD_KINDS = [
   "application/vnd.oci.image.index.v1+json",
   "application/vnd.oci.image.manifest.v1+json",
@@ -74,7 +74,7 @@ export function buildctlAt(done: string[] = []): string {
   return BUILDCTL
 }
 
-async function heldInRegistry(repository: string, tag: string): Promise<boolean> {
+export async function heldInRegistry(repository: string, tag: string): Promise<boolean> {
   const asked = await fetch(`http://${REGISTRY}/v2/${repository}/manifests/${tag}`, {
     method: "HEAD",
     headers: { Accept: HELD_KINDS },

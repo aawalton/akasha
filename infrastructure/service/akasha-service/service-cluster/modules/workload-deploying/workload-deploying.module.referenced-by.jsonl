@@ -7,6 +7,8 @@
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-watching/cluster-watching.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
