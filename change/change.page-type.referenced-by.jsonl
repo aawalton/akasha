@@ -3,7 +3,6 @@
 {"propertySlug":"extends-type","path":"change/mechanical/change-mechanical.page-type.ts","id":"01a078e8-e0c0-7001-9d36-808d02d6c285"}
 {"propertySlug":"import","fileName":"change.page-type.types.ts","path":"change/agent/change-agent.page-type.types.ts"}
 {"propertySlug":"import","fileName":"change.page-type.types.ts","path":"change/mechanical/change-mechanical.page-type.types.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-change-runs-only-the-tests-beside-the-files-it-carries-so-a-shared-fixture-goes-stale-unseen.finding.ts","id":"01a0963a-2ac2-7547-b518-2352c5be9c90"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-change-to-a-generator-cannot-land-beside-the-file-that-generator-writes.finding.ts","id":"01a08dfd-2a4d-798e-a026-98515dd78249"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-citations-line-number-goes-stale-within-hours-and-a-repoint-does-nothing-for-it.finding.ts","id":"01a09666-1ee6-710c-aa9b-78efed47ae79"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-draft-claims-no-text-so-a-change-over-many-files-lands-only-by-being-fast.finding.ts","id":"01a08cd0-659e-7a7e-a8ce-218b40e16d38"}
