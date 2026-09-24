@@ -2,22 +2,13 @@ import { alanwaltonAtlas as page } from "akasha/alan/atlas-web/alanwalton-atlas/
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
+import { orchestratorCacheEntrypointPath } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
 import {
-  orchestratorCacheChownInitContainer,
-  orchestratorCacheInitContainer,
-  orchestratorCacheSyncSidecar,
-  webBuildInitContainer,
-} from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
-import {
-  orchestratorCacheEntrypointPath,
-  orchestratorCacheVolumeMounts,
-  orchestratorCacheVolumes,
-} from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
-import {
-  ATLAS_WEB_CACHE,
-  BUN_RUNTIME_IMAGE,
+  CONTAINER_TMP_PATH,
+  CONTAINER_TMP_VOLUME,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { webAppImage } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
 import { alanwaltonAtlas } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/alanwalton-atlas/alanwalton-atlas.service-cluster.ts"
 
 const NAMESPACE = alanwaltonAtlas.namespace
@@ -25,11 +16,6 @@ const SECRET_NAME = "alanwalton-secrets"
 const PACKAGE_PATH = "alan/atlas-web"
 
 const APP_NAME = alanwaltonAtlas.resourceName
-
-const GIT_ACCESS_TOKEN_REF = {
-  secretName: SECRET_NAME,
-  secretKey: "GIT_ACCESS_TOKEN",
-} as const
 
 function resourceLabels() {
   return {
@@ -65,19 +51,10 @@ function deploymentYaml(): string {
         metadata: { labels },
         spec: {
           nodeSelector: workloadClassMemberSelector("serve"),
-          initContainers: [
-            orchestratorCacheChownInitContainer(),
-            orchestratorCacheInitContainer({
-              gitAccessTokenRef: GIT_ACCESS_TOKEN_REF,
-              location: ATLAS_WEB_CACHE,
-              memory: { request: "256Mi", limit: "2Gi" },
-            }),
-            webBuildInitContainer({ packagePath: PACKAGE_PATH, secretName: SECRET_NAME }),
-          ],
           containers: [
             {
               name: APP_NAME,
-              image: BUN_RUNTIME_IMAGE,
+              image: webAppImage(`${NAMESPACE}-${APP_NAME}`),
               imagePullPolicy: "IfNotPresent",
               workingDir: orchestratorCacheEntrypointPath(PACKAGE_PATH),
               command: ["bun", "run", "server.ts"],
@@ -90,7 +67,7 @@ function deploymentYaml(): string {
                 { name: "PORT", value: `${alanwaltonAtlas.containerPort}` },
                 { name: "PAGE_WRITER", value: "atlas-web" },
               ],
-              volumeMounts: orchestratorCacheVolumeMounts(),
+              volumeMounts: [{ name: CONTAINER_TMP_VOLUME, mountPath: CONTAINER_TMP_PATH }],
               resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
@@ -115,12 +92,8 @@ function deploymentYaml(): string {
               },
               lifecycle: { preStop: { exec: { command: ["sleep", "5"] } } },
             },
-            orchestratorCacheSyncSidecar({
-              gitAccessTokenRef: GIT_ACCESS_TOKEN_REF,
-              memory: { request: "256Mi", limit: "2Gi" },
-            }),
           ],
-          volumes: [...orchestratorCacheVolumes(ATLAS_WEB_CACHE)],
+          volumes: [{ name: CONTAINER_TMP_VOLUME, emptyDir: { sizeLimit: "1Gi" } }],
         },
       },
     },
