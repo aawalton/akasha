@@ -1,6 +1,14 @@
+{"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"alan/atlas-web/routes/atlas-api-page-events/atlas-api-page-events.route.code.ts"}
+{"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"alan/atlas-web/routes/atlas-api-page-follow/atlas-api-page-follow.route.code.ts"}
 {"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-following/answer-following.module.test.ts"}
 {"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"alan/requests-web/routes/requests-api-page-events/requests-api-page-events.route.code.ts"}
 {"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"alan/requests-web/routes/requests-api-page-follow/requests-api-page-follow.route.code.ts"}
 {"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"alan/web/routes/alan-web-api-page-events/alan-web-api-page-events.route.code.ts"}
 {"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"alan/web/routes/alan-web-api-page-follow/alan-web-api-page-follow.route.code.ts"}
+{"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-page-events/archive-of-worlds-api-page-events.route.code.ts"}
+{"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-page-follow/archive-of-worlds-api-page-follow.route.code.ts"}
+{"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-page-events/innworld-api-page-events.route.code.ts"}
+{"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-page-follow/innworld-api-page-follow.route.code.ts"}
+{"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"temper/web/routes/temper-api-page-events/temper-api-page-events.route.code.ts"}
+{"propertySlug":"import","fileName":"answer-following.module.code.ts","path":"temper/web/routes/temper-api-page-follow/temper-api-page-follow.route.code.ts"}
 {"propertySlug":"parts","path":"alan/harness/web-page-answer/web-page-answer.domain.ts","id":"01a0655a-b2a8-78a3-9dec-43e67b15bf10"}

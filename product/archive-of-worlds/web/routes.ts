@@ -41,6 +41,14 @@ export default [
     "routes/archive-of-worlds-api-page-write/archive-of-worlds-api-page-write.route.code.ts"
   ),
   route(
+    "api/page-events",
+    "routes/archive-of-worlds-api-page-events/archive-of-worlds-api-page-events.route.code.ts"
+  ),
+  route(
+    "api/page-follow",
+    "routes/archive-of-worlds-api-page-follow/archive-of-worlds-api-page-follow.route.code.ts"
+  ),
+  route(
     "api/nav-icon/:idSuffix",
     "routes/archive-of-worlds-api-nav-icon/archive-of-worlds-api-nav-icon.route.code.ts"
   ),

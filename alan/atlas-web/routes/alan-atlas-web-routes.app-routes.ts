@@ -12,6 +12,8 @@ export const alanAtlasWebRoutes = {
     "route/atlas-api-live-version",
     "route/atlas-api-locations-ingest",
     "route/atlas-api-nav-icon",
+    "route/atlas-api-page-events",
+    "route/atlas-api-page-follow",
     "route/atlas-api-page-types",
     "route/atlas-api-page-write",
     "route/atlas-api-pages",

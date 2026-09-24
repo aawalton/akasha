@@ -9,6 +9,8 @@ export const wanderingInnWikiWebRoutes = {
   parts: [
     "route/innworld-api-health",
     "route/innworld-api-live-version",
+    "route/innworld-api-page-events",
+    "route/innworld-api-page-follow",
     "route/innworld-api-page-types",
     "route/innworld-api-pages",
     "route/innworld-home",

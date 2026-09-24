@@ -43,6 +43,8 @@ export const temperWebRoutes = {
     "route/sign-out",
     "route/sign-up",
     "route/temper-api-nav-icon",
+    "route/temper-api-page-events",
+    "route/temper-api-page-follow",
     "route/temper-api-pages",
     "route/temper-character-build-hash",
     "route/temper-companion-build-hash",

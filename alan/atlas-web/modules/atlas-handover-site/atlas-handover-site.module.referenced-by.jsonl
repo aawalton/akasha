@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"atlas-handover-site.module.code.ts","path":"alan/atlas-web/.server/location-ingest-context/location-ingest-context.module.code.ts"}
 {"propertySlug":"import","fileName":"atlas-handover-site.module.code.ts","path":"alan/atlas-web/root.tsx"}
 {"propertySlug":"import","fileName":"atlas-handover-site.module.code.ts","path":"alan/atlas-web/routes/_app-layout.tsx"}
+{"propertySlug":"import","fileName":"atlas-handover-site.module.code.ts","path":"alan/atlas-web/routes/atlas-api-page-follow/atlas-api-page-follow.route.code.ts"}
 {"propertySlug":"import","fileName":"atlas-handover-site.module.code.ts","path":"alan/atlas-web/routes/atlas-api-page-types/atlas-api-page-types.route.code.ts"}
 {"propertySlug":"import","fileName":"atlas-handover-site.module.code.ts","path":"alan/atlas-web/routes/atlas-api-page-write/atlas-api-page-write.route.code.ts"}
 {"propertySlug":"import","fileName":"atlas-handover-site.module.code.ts","path":"alan/atlas-web/routes/atlas-api-pages/atlas-api-pages.route.code.ts"}

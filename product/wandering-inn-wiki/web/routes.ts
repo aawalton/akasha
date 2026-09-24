@@ -16,4 +16,12 @@ export default [
   ),
   route("api/page-types", "routes/innworld-api-page-types/innworld-api-page-types.route.code.ts"),
   route("api/pages/:pageTypeSlug", "routes/innworld-api-pages/innworld-api-pages.route.code.ts"),
+  route(
+    "api/page-events",
+    "routes/innworld-api-page-events/innworld-api-page-events.route.code.ts"
+  ),
+  route(
+    "api/page-follow",
+    "routes/innworld-api-page-follow/innworld-api-page-follow.route.code.ts"
+  ),
 ] satisfies RouteConfig

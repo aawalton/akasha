@@ -4,6 +4,8 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-api-live-version/atlas-api-live-version.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-api-locations-ingest/atlas-api-locations-ingest.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-api-nav-icon/atlas-api-nav-icon.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-api-page-events/atlas-api-page-events.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-api-page-follow/atlas-api-page-follow.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-api-page-types/atlas-api-page-types.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-api-page-write/atlas-api-page-write.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/atlas-web/routes/atlas-api-pages/atlas-api-pages.route.ts"}
@@ -101,6 +103,8 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-health/archive-of-worlds-api-health.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-live-version/archive-of-worlds-api-live-version.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-nav-icon/archive-of-worlds-api-nav-icon.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-page-events/archive-of-worlds-api-page-events.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-page-follow/archive-of-worlds-api-page-follow.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-page-types/archive-of-worlds-api-page-types.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-page-write/archive-of-worlds-api-page-write.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-pages/archive-of-worlds-api-pages.route.ts"}
@@ -134,6 +138,8 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-health/innworld-api-health.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-live-version/innworld-api-live-version.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-page-events/innworld-api-page-events.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-page-follow/innworld-api-page-follow.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-page-types/innworld-api-page-types.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-pages/innworld-api-pages.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-home/innworld-home.route.ts"}
@@ -175,6 +181,8 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/sign-out/sign-out.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/sign-up/sign-up.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-api-nav-icon/temper-api-nav-icon.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-api-page-events/temper-api-page-events.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-api-page-follow/temper-api-page-follow.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-api-pages/temper-api-pages.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-character-build-hash/temper-character-build-hash.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/temper-companion-build-hash/temper-companion-build-hash.route.ts"}

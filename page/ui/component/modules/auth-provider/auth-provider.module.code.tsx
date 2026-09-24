@@ -17,6 +17,8 @@ const AUTOMATION_SLUG = toPageTypeSlug("automation")
 
 const HYDRATE_OVERRUN_WARN_MS = 30_000
 
+const FOLLOWING_AT = { events: "/api/page-events", follow: "/api/page-follow" }
+
 interface AuthProviderProps {
   reader: string | null
   accountId: string | null
@@ -32,6 +34,7 @@ export function AuthProvider({ reader, accountId, children }: AuthProviderProps)
         await configurePagesStoreAuth({ jwt: null, owner: reader })
         if (reader === null) return
         const store = await getPagesStore()
+        store.followPages(FOLLOWING_AT)
         store.acquireSlug(PAGE_TYPE_SLUG)
         store.acquireSlug(PROPERTY_DEFINITION_SLUG)
         store.acquireSlug(AUTOMATION_SLUG)

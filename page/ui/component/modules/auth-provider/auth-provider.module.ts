@@ -19,5 +19,9 @@ export const authProvider = {
       decisionKind: "decision-kind/departure",
       statement: "The account a tree below this is drawn for is passed in beside the reader.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The store follows each page it holds through the site's own two push routes.",
+    },
   ],
 } as const satisfies Module

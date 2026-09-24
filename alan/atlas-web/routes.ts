@@ -22,6 +22,8 @@ export default [
   route("api/page-types", "routes/atlas-api-page-types/atlas-api-page-types.route.code.ts"),
   route("api/pages/:pageTypeSlug", "routes/atlas-api-pages/atlas-api-pages.route.code.ts"),
   route("api/page-write", "routes/atlas-api-page-write/atlas-api-page-write.route.code.ts"),
+  route("api/page-events", "routes/atlas-api-page-events/atlas-api-page-events.route.code.ts"),
+  route("api/page-follow", "routes/atlas-api-page-follow/atlas-api-page-follow.route.code.ts"),
   route("api/nav-icon/:idSuffix", "routes/atlas-api-nav-icon/atlas-api-nav-icon.route.code.ts"),
 
   route(

@@ -11,6 +11,8 @@ export const archiveOfWorldsWebRoutes = {
     "route/archive-of-worlds-api-health",
     "route/archive-of-worlds-api-live-version",
     "route/archive-of-worlds-api-nav-icon",
+    "route/archive-of-worlds-api-page-events",
+    "route/archive-of-worlds-api-page-follow",
     "route/archive-of-worlds-api-page-types",
     "route/archive-of-worlds-api-page-write",
     "route/archive-of-worlds-api-pages",
