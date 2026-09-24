@@ -258,7 +258,7 @@ check(
     const many = 3
     for (let at = 0; at < many; at += 1) held[`one-${at}.test.ts`] = PASSES
     const done = await ranOver(repo(held), ["akasha"], many)
-    expect(plain(done.output).match(/Ran \d+ tests? across \d+ files?/g)?.length).toBe(many)
+    expect([...plain(done.output).matchAll(/Ran \d+ tests? across \d+ files?/g)].length).toBe(many)
     expect(done.summary.files).toBe(many)
     expect(done.summary.passed).toBe(many)
     expect(done.verdict).toBe("pass")

@@ -1,6 +1,7 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { z } from "zod"
 
 export const BINARY = "node_modules/.bin/biome"
 
@@ -64,11 +65,16 @@ export type Linted = {
   readonly failed: string | null
 }
 
-function objectIn(line: string): Record<string, unknown> | null {
+const REPORT_SAID = z.object({
+  [DIAGNOSTICS]: z.array(z.unknown()),
+  [SUMMARY]: z.unknown().optional(),
+})
+
+type Report = z.infer<typeof REPORT_SAID>
+
+function reportIn(line: string): Report | null {
   try {
-    const held = JSON.parse(line) as unknown
-    if (typeof held !== "object" || held === null || Array.isArray(held)) return null
-    return held as Record<string, unknown>
+    return REPORT_SAID.safeParse(JSON.parse(line)).data ?? null
   } catch {
     return null
   }
@@ -104,12 +110,10 @@ function foundOf(held: unknown): Found | null {
 
 export function foundIn(output: string): Read | null {
   for (const line of output.split("\n")) {
-    const held = objectIn(line)
+    const held = reportIn(line)
     if (held === null) continue
-    const said = held[DIAGNOSTICS]
-    if (!Array.isArray(said)) continue
     const found: Found[] = []
-    for (const one of said) {
+    for (const one of held[DIAGNOSTICS]) {
       const each = foundOf(one)
       if (each !== null) found.push(each)
     }

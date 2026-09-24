@@ -8,6 +8,7 @@ import {
 } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { z } from "zod"
 
 const REPO_AT = rootOf(import.meta.dir)
 
@@ -15,11 +16,27 @@ const MODULES = "node_modules"
 
 const CONFIG = "biome.json"
 
-const HELD = JSON.stringify({
+const CONFIG_SAID = z.strictObject({
+  formatter: z.strictObject({
+    indentStyle: z.string(),
+    indentWidth: z.number(),
+    lineWidth: z.number(),
+  }),
+  assist: z.strictObject({
+    actions: z.strictObject({ source: z.strictObject({ organizeImports: z.string() }) }),
+  }),
+  javascript: z.strictObject({
+    formatter: z.strictObject({ quoteStyle: z.string(), semicolons: z.string() }),
+  }),
+})
+
+const HELD_CONFIG: z.infer<typeof CONFIG_SAID> = {
   formatter: { indentStyle: "space", indentWidth: 2, lineWidth: 100 },
   assist: { actions: { source: { organizeImports: "on" } } },
   javascript: { formatter: { quoteStyle: "double", semicolons: "asNeeded" } },
-})
+}
+
+const HELD = JSON.stringify(HELD_CONFIG)
 
 const LOOSE =
   'import {b} from "./b.ts"\nimport {a} from "./a.ts"\nconst   x   =   1\nexport {a,b,x}\n'
@@ -180,5 +197,5 @@ check("the formatter's own config comes back formatted, though its kind is not o
   const body = bodyOf(said, CONFIG)
   expect(said.get(CONFIG)?.changed).toBe(true)
   expect(body.startsWith("{\n")).toBe(true)
-  expect(JSON.parse(body)).toEqual(JSON.parse(HELD))
+  expect(CONFIG_SAID.parse(JSON.parse(body))).toEqual(HELD_CONFIG)
 })

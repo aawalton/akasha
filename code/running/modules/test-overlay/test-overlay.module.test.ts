@@ -11,6 +11,7 @@ import {
 } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
 import type { Said } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 
 const ROOTS: string[] = []
 
@@ -123,7 +124,7 @@ test("a run under a mount has a home of its own, and the sweep takes that home a
       env: { ...process.env, ...lane.env },
     })
     expect(said.out).toBe(homed)
-    expect(homed).not.toBe(process.env.HOME)
+    expect(homed).not.toBe(optionalEnv("HOME"))
   } finally {
     over.sweep()
   }
@@ -172,7 +173,7 @@ test("a body carried reaches a lane that was never the lane carrying it", () => 
 })
 
 test("a run under a mount is told where the age key sits, since its own home holds none", () => {
-  const held = process.env["SOPS_AGE_KEY_FILE"]
+  const held = optionalEnv("SOPS_AGE_KEY_FILE")
   process.env["SOPS_AGE_KEY_FILE"] = "/nowhere/keys.txt"
   const over = mountedOver(checkout(), {})
   try {
