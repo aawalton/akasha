@@ -10,7 +10,7 @@ export const theTowerHavenThreshold = {
   within: "place/the-tower-floor-05",
   depth: 5,
   description:
-    "The mouth of the haven, where the exit-stair from the dark shaft gives onto warm gold light. From here — without stepping in — you can see the near length of the long room: the laid table, the banked hearth across it, soft furniture along the warm wall, the hooded figure rising by the fire. Beyond it the haven continues — a second warmer hall, and more past that, the gold light receding back further than seems possible for a single floor. It is everything floor four was not: warm, lit, safe, kind. That is exactly the problem, if you let yourself think it.",
+    "The mouth of the haven, where the exit-stair from the dark shaft gives onto a long, low stone room, cold and unlit. The hearth across it is a dead heap of grey ash, the long table bare boards set for no one, and old climbers' bones lie stacked where the chairs seemed to be. No hooded figure keeps it any longer. Beyond it the rooms run on, cold and bare.",
   exits: [
     {
       to: "place/the-tower-shaft-headworks",
