@@ -703,7 +703,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/quote/quote.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/text.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/writing/text-writing.domain.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/the-taboo-gate-reads-a-games-own-names-as-this-systems-prose.finding.ts","id":"01a06271-8a44-7002-a1f6-83d9e0b4c527"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-taboo-gate-reads-akashas-own-identifiers-as-akashas-prose.finding.ts","id":"01a0887f-6443-7c0b-86e7-4cb221a5f43e"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
 {"propertySlug":"target-page-type","path":"alan/harness/readout/properties/read-live-from.relation-property.ts","id":"01a06559-e74c-7e30-bbec-7604ae4f8dc5"}
