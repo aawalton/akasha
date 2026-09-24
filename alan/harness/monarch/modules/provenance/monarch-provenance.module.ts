@@ -19,7 +19,7 @@ export const monarchProvenance = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A source is programmatic or semantic or manual and is nothing else.",
+      statement: "A source is programmatic or manual and is nothing else.",
     },
     {
       decisionKind: "decision-kind/departure",

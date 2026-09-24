@@ -64,11 +64,7 @@ import type {
 } from "akasha/alan/harness/monarch/modules/provenance/monarch-provenance.module.code.ts"
 import { recordDecision } from "akasha/alan/harness/monarch/modules/provenance/monarch-provenance.module.code.ts"
 
-const SOURCES: readonly DecidedSource[] = [
-  "programmatic-categorization",
-  "semantic-categorization",
-  "manual-categorization",
-]
+const SOURCES: readonly DecidedSource[] = ["programmatic-categorization", "manual-categorization"]
 
 async function categorySlugByMonarchId(categoryMonarchId: string): Promise<string> {
   const found = (await categoryPages()).filter(

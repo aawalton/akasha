@@ -17,7 +17,7 @@ test("what is named is trimmed, so blank space names nothing", () => {
 })
 
 test("a decision naming nothing that decided is refused rather than written", () => {
-  expect(() => recordDecision({ source: "semantic-categorization", decidedBy: "   " })).toThrow(
+  expect(() => recordDecision({ source: "manual-categorization", decidedBy: "   " })).toThrow(
     "decision named nothing that decided it"
   )
 })

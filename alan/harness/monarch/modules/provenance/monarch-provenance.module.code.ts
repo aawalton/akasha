@@ -1,7 +1,4 @@
-export type DecidedSource =
-  | "programmatic-categorization"
-  | "semantic-categorization"
-  | "manual-categorization"
+export type DecidedSource = "programmatic-categorization" | "manual-categorization"
 
 export interface CategoryDecision {
   readonly source: DecidedSource
