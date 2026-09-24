@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   idFiled,
@@ -6,7 +7,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import {
   generatorAt,
   turnsFor,
@@ -18,6 +19,7 @@ import {
   OTHER,
   OWN,
 } from "akasha/page/type/modules/type-generating/type-generating.module.test-fixtures.ts"
+import { generateTypes } from "akasha/page/type/page-property/page-property.page-type.type-generator.ts"
 
 const scratch = scratchWorld()
 
@@ -238,4 +240,20 @@ test("what a change could turn is asked of the body the change leaves", () => {
     return { generating: () => [] }
   })
   expect(handed).toEqual([LEFT])
+})
+
+const EXTENDS_TYPE_AT = "page/type/properties/extends-type.multi-relation-property.types.ts"
+
+const EXTENDS_TYPE = [
+  'import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"',
+  'import type { List } from "akasha/page/type/page-property/page-property.page-type.ts"',
+  "",
+  "export type ExtendsType = List<Slug>",
+  "",
+].join("\n")
+
+test("a property of a kind extending the relation property has its type written", () => {
+  const root = rootOf(import.meta.dir)
+  const written = generateTypes(root, shadowAt(root)).find((one) => one.path === EXTENDS_TYPE_AT)
+  expect(written?.content).toBe(EXTENDS_TYPE)
 })

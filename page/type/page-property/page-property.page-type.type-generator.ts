@@ -190,7 +190,7 @@ function recordIn(shadow: Shadow, asked: Asked): Written | null {
 function writtenFor(shadow: Shadow, asked: Asked): Written | null {
   const held = HELD.get(asked.kind)
   if (held !== undefined) return { held, imports: [] }
-  if (asked.kind === RELATION) return memberIn(shadow, SLUG_AT)
+  if (shadow.index.kindsUnder(RELATION).has(asked.kind)) return memberIn(shadow, SLUG_AT)
   if (asked.kind === RECORD) return recordIn(shadow, asked)
   if (CHOSEN.has(asked.kind)) {
     if (Array.isArray(asked.value[VALUES])) return chosenIn(asked.path, asked.slug)
