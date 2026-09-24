@@ -8,10 +8,6 @@ export const emberUiTesting = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "An agent tests a change to Temper's interface without the game running.",
-    },
-
-    {
       statement: "A feature is seen against the game's own interface rather than against nothing.",
     },
   ],

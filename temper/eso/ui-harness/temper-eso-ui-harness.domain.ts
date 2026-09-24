@@ -40,6 +40,10 @@ export const temperEsoUiHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An agent tests a change to a window of Temper's without the game running.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control the addon creates is a table kept here rather than a stub.",
     },
     {
