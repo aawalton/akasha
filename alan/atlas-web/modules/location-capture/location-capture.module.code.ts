@@ -108,13 +108,12 @@ export interface StoredBuffer {
 const storedListSchema = z.array(z.unknown())
 
 export function readStoredBuffer(stored: string): StoredBuffer {
-  let held: unknown
+  let list: ReturnType<typeof storedListSchema.safeParse>
   try {
-    held = JSON.parse(stored)
+    list = storedListSchema.safeParse(JSON.parse(stored))
   } catch (err) {
     return { points: [], refused: 0, why: `not JSON: ${String(err)}`, unreadable: true }
   }
-  const list = storedListSchema.safeParse(held)
   if (!list.success) {
     return { points: [], refused: 0, why: "not a list of points", unreadable: true }
   }
