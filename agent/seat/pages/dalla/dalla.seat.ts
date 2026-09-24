@@ -8,7 +8,7 @@ export const dalla = {
   assignmentSlug: "module/change",
   role: "role/definer",
   person: "person/alan",
-  startMode: "interactive",
+  startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "e18703b3-bc85-4ff9-b674-23b9350a3d77",

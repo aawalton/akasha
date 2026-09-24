@@ -314,11 +314,11 @@
 {"propertySlug":"decision-kind","path":"agent/seat/properties/claude-code-session-uuid.text-property.ts","id":"01a053e4-cf4a-7e0c-a936-1a0a62a7b7e5"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/conversation.computed-property.ts","id":"01a0d44c-37ba-7558-91d4-4633e3c24b5f"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/gateway-version.text-property.ts","id":"01a0540c-dbc1-7fb4-9fa4-54d2c5594de8"}
-{"propertySlug":"decision-kind","path":"agent/seat/properties/mode.text-property.ts","id":"01a07661-4b8c-7ac8-ba3a-9cbd32e9ae55"}
+{"propertySlug":"decision-kind","path":"agent/seat/properties/mode.relation-property.ts","id":"01a07661-4b8c-7ac8-ba3a-9cbd32e9ae55"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/on-call.boolean-property.ts","id":"01a0539b-d9f2-7d0c-80d9-1eabbdc9ec3e"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/open-shells.text-property.ts","id":"01a06e54-0ecf-7959-818d-d60026e07e65"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/person.relation-property.ts","id":"01a05390-11db-7a03-ba9c-c7c30248aee3"}
-{"propertySlug":"decision-kind","path":"agent/seat/properties/re-exec-ask.text-property.ts","id":"01a05810-00ac-7843-9198-1c1fed82fd40"}
+{"propertySlug":"decision-kind","path":"agent/seat/properties/re-exec-ask.relation-property.ts","id":"01a05810-00ac-7843-9198-1c1fed82fd40"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/request.record-property.ts","id":"01a0542c-d18b-71bb-99a6-64c5edfe6321"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/seat-gateway.record-property.ts","id":"01a0540c-dbbf-7215-9747-624c4ef37e06"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/seat-model.relation-property.ts","id":"01a0d4ba-6551-7a59-bacb-8120838c058b"}

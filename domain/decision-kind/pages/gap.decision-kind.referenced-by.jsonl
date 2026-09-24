@@ -78,7 +78,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.ts","id":"01a0686a-7a57-7e87-825d-ae7e67bf9301"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/seat-turn.domain.ts","id":"01a0658d-c92f-7071-838b-e88aa8479137"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/registration-account.text-property.ts","id":"01a05397-7f9b-783b-b5ec-f0b163957fdf"}
-{"propertySlug":"decision-kind","path":"agent/seat/properties/start-mode.text-property.ts","id":"01a05395-58a5-760f-a464-178f4d4ebb97"}
+{"propertySlug":"decision-kind","path":"agent/seat/properties/start-mode.relation-property.ts","id":"01a05395-58a5-760f-a464-178f4d4ebb97"}
 {"propertySlug":"decision-kind","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"decision-kind","path":"agent/seat/service-workstations/recipient-resolver/recipient-resolver.service-workstation.ts","id":"01a06829-0194-7fa2-a0e7-92e073ef2d21"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-auto-compact/seat-auto-compact.domain.ts","id":"01a0c57d-e680-71fb-8cf9-90460d5d30a7"}

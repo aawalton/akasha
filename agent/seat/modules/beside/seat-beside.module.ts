@@ -39,6 +39,10 @@ export const seatBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A value naming a page is written as that page's address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A seat is named here.",
     },
     {

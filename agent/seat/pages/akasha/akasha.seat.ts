@@ -8,7 +8,7 @@ export const akasha = {
   assignmentSlug: "initiative/akasha-gaps-to-zero",
   role: "role/definer",
   person: "person/alan",
-  startMode: "interactive",
+  startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "c694cb2e-4ab9-4018-90a6-f94c4f144d39",

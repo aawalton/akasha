@@ -121,6 +121,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-metric-tree","unique":null,"uniquePropertySlug":null,"slug":"metric-tree-parent","propertySlug":"parent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-buff-minor","unique":null,"uniquePropertySlug":null,"slug":"minor-buff","propertySlug":"minor-buff","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"mobile-wallpaper","propertySlug":"mobile-wallpaper","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat-mode","unique":null,"uniquePropertySlug":null,"slug":"mode","propertySlug":"mode","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"model-family","unique":null,"uniquePropertySlug":null,"slug":"model-family","propertySlug":"model-family","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"name-format","unique":null,"uniquePropertySlug":null,"slug":"name-format","propertySlug":"name-format","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"nav","unique":null,"uniquePropertySlug":null,"slug":"nav","propertySlug":"nav","fileName":null,"folderName":null}
@@ -160,6 +161,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-quest-giver","unique":null,"uniquePropertySlug":null,"slug":"quest-giver","propertySlug":"quest-giver","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"all-about-alan-topic","unique":null,"uniquePropertySlug":null,"slug":"question-topic","propertySlug":"topic","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"attunement-rank","unique":null,"uniquePropertySlug":null,"slug":"rank-of-attunement","propertySlug":"rank","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"re-exec-ask-state","unique":null,"uniquePropertySlug":null,"slug":"re-exec-ask","propertySlug":"re-exec-ask","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"read-live-from","propertySlug":"read-live-from","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"reading-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-mechanic","unique":null,"uniquePropertySlug":null,"slug":"reading-mechanic","propertySlug":"mechanic","fileName":null,"folderName":null}
@@ -199,6 +201,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"song","unique":null,"uniquePropertySlug":null,"slug":"song","propertySlug":"song","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-special-effect-type","unique":null,"uniquePropertySlug":null,"slug":"special-effect","propertySlug":"special-effect","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"spelling-scope","propertySlug":"scope","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat-mode","unique":null,"uniquePropertySlug":null,"slug":"start-mode","propertySlug":"start-mode","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"phrase-kind","unique":null,"uniquePropertySlug":null,"slug":"start-symbol","propertySlug":"start-symbol","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"subagent-kind","unique":null,"uniquePropertySlug":null,"slug":"subagent-kind","propertySlug":"subagent-kind","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-design-entry","unique":null,"uniquePropertySlug":null,"slug":"superseded-entry","propertySlug":"supersedes","fileName":null,"folderName":null}

@@ -8,7 +8,7 @@ export const alan = {
   assignmentSlug: "domain/alan",
   role: "role/handler",
   person: "person/alan",
-  startMode: "interactive",
+  startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "6bbb024f-4bc6-4ff2-a178-713ca2ac0ee8",

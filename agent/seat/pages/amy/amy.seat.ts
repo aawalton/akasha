@@ -8,7 +8,7 @@ export const amy = {
   assignmentSlug: "domain/alan-harness",
   role: "role/definer",
   person: "person/alan",
-  startMode: "interactive",
+  startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "d2065bac-9aee-48fe-bc3a-c856eb050a63",

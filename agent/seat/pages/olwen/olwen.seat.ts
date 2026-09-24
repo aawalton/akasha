@@ -8,7 +8,7 @@ export const olwen = {
   assignmentSlug: "initiative/olwen-design-system",
   role: "role/definer",
   person: "person/alan",
-  startMode: "interactive",
+  startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "83a9287d-116f-47b8-9c91-db37bf4a3f95",

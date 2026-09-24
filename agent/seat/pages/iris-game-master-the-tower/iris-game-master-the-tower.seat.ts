@@ -8,7 +8,7 @@ export const irisGameMasterTheTower = {
   assignmentSlug: "game/the-tower",
   role: "role/game-master",
   person: "person/alan",
-  startMode: "interactive",
+  startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "27c433bc-d900-4029-9b5e-e0b94c46c00f",

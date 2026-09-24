@@ -30,7 +30,8 @@ export const seatStating = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A persona, a role, a person and a seat above are named by page type and slug.",
+      statement:
+        "A persona, a role, a person, a seat above and a start mode are named by page type and slug.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -8,7 +8,7 @@ export const ryn = {
   assignmentSlug: "initiative/ryn-standard-agent-english",
   role: "role/definer",
   person: "person/alan",
-  startMode: "interactive",
+  startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "736f6f9c-fd07-41a2-ad52-572238bd600f",

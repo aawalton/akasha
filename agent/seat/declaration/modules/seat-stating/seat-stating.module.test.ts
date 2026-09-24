@@ -49,6 +49,7 @@ test("a seat stating everything is written as a page naming its person", () => {
   expect(body).not.toContain("pageTypeSlug:")
   expect(body).toContain('person: "person/alan"')
   expect(body).toContain('role: "role/definer"')
+  expect(body).toContain('startMode: "seat-mode/interactive"')
   expect(body).toContain("onCall: true,")
   expect(body).toContain("} as const satisfies Seat")
   expect(body).not.toContain("principalSeatName")

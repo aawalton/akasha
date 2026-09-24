@@ -16,13 +16,14 @@ import {
   everyOfType,
   typeSlugOf,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 
 const ASK = "reExecAsk"
 
-const ASKED = "asked"
+const ASKED = namedAs("re-exec-ask-state", "asked", null)
 
 const SIGNAL = "SIGTERM"
 

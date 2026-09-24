@@ -1,13 +1,12 @@
-import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
 
 export const mode = {
   id: "01a07661-4b8c-7ac8-ba3a-9cbd32e9ae55",
-  type: "page-type/text-property",
+  type: "page-type/relation-property",
   slug: "mode",
   propertySlug: "mode",
   definition: "the mode of an agent running in a seat",
-  maxLength: 100,
-  nameFormat: "name-format/lower-kebab-case",
+  targetPageType: "page-type/seat-mode",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -23,9 +22,9 @@ export const mode = {
       statement: "A seat no supervisor has written a mode for has no mode.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The modes a seat can run in are no pages.",
+      decisionKind: "decision-kind/departure",
+      statement: "A mode no seat mode page names is not written.",
     },
   ],
   types: "ts",
-} as const satisfies TextProperty
+} as const satisfies RelationProperty

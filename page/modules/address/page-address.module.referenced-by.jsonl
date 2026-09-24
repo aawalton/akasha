@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/seat/declaration/modules/seat-initiative/seat-initiative.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/seat/modules/beside/seat-beside.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-action/seat-action.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/subagent/modules/body/subagent-body.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/atlas-web/modules/atlas-app-id/atlas-app-id.module.code.ts"}
@@ -60,6 +61,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.test.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}

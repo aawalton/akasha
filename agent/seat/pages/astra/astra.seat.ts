@@ -8,7 +8,7 @@ export const astra = {
   assignmentSlug: "initiative/astra-realtime-pages-for-web",
   role: "role/definer",
   person: "person/alan",
-  startMode: "interactive",
+  startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "bd870bae-bf6c-4197-9108-b9ed6dd03749",

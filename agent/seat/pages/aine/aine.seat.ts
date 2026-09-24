@@ -8,7 +8,7 @@ export const aine = {
   assignmentSlug: "namespace/finding",
   role: "role/definer",
   person: "person/alan",
-  startMode: "interactive",
+  startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "086f1447-846c-4be5-9336-243b8e8943ae",

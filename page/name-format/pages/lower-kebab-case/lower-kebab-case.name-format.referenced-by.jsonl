@@ -4,10 +4,7 @@
 {"propertySlug":"name-format","path":"agent/message/properties/agent-message-from.text-property.ts","id":"01a06818-107b-7001-9459-e63f4dbdd555"}
 {"propertySlug":"name-format","path":"agent/model/test/properties/case-page.text-property.ts","id":"01a05f8d-eaa0-7000-8c49-cf81f87d38a4"}
 {"propertySlug":"name-format","path":"agent/seat/log-day/properties/seat-name.text-property.ts","id":"01a0657c-cb14-7705-a95e-4fca37cc48c2"}
-{"propertySlug":"name-format","path":"agent/seat/properties/mode.text-property.ts","id":"01a07661-4b8c-7ac8-ba3a-9cbd32e9ae55"}
-{"propertySlug":"name-format","path":"agent/seat/properties/re-exec-ask.text-property.ts","id":"01a05810-00ac-7843-9198-1c1fed82fd40"}
 {"propertySlug":"name-format","path":"agent/seat/properties/registration-account.text-property.ts","id":"01a05397-7f9b-783b-b5ec-f0b163957fdf"}
-{"propertySlug":"name-format","path":"agent/seat/properties/start-mode.text-property.ts","id":"01a05395-58a5-760f-a464-178f4d4ebb97"}
 {"propertySlug":"name-format","path":"alan/chess/game/properties/chess-collection.text-property.ts","id":"01a06582-bd62-7684-a6cb-b0074eea56fd"}
 {"propertySlug":"name-format","path":"alan/chess/game/properties/chess-source.text-property.ts","id":"01a06582-bd62-7f26-81ac-a3d85df41e67"}
 {"propertySlug":"name-format","path":"alan/harness/errors-core/runtime-error/properties/error-app.text-property.ts","id":"01a05f3f-e3e0-7cda-81e5-e5f7cddf3e43"}

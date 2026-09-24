@@ -8,7 +8,7 @@ export const ember = {
   assignmentSlug: "initiative/ember-ui-testing",
   role: "role/definer",
   person: "person/alan",
-  startMode: "interactive",
+  startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "5fa591ec-4daa-4529-8f61-1092f6ee71b8",

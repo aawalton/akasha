@@ -9,6 +9,7 @@ import { importedFrom, saidAs } from "akasha/page/modules/body/page-body.module.
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 
 const PERSON = "person"
@@ -18,6 +19,8 @@ const PERSONA = "persona"
 const ROLE = "role"
 
 const SEAT = "seat"
+
+const SEAT_MODE = "seat-mode"
 
 const DOMAIN = "domain"
 
@@ -121,7 +124,7 @@ export function seatBody(
     person
       ? `  person: ${saidAs(namedAs(PERSON, principal, null))},`
       : `  principalSeatName: ${saidAs(namedAs(SEAT, above as string, null))},`,
-    `  startMode: ${saidAs(mode)},`,
+    `  startMode: ${saidAs(namedAs(SEAT_MODE, slugOf(mode), null))},`,
     `  onCall: ${stated.onCall ? "true" : "false"},`,
     `  registrationAccount: ${saidAs(registration)},`,
     ...(stated.session === null ? [] : [`  claudeCodeSessionUuid: ${saidAs(stated.session)},`]),

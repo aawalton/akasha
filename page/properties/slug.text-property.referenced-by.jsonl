@@ -11,11 +11,14 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/properties/assignment-game.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/properties/principal-seat-name.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/log-day/properties/log-source.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/mode.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/person.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/re-exec-ask.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/requested-action.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/role.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/seat-model.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/seat-persona.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/start-mode.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/working-color.computed-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/turn-state/properties/turn-state-color.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/subagent/properties/subagent-kind.relation-property.types.ts"}

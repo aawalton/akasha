@@ -8,7 +8,7 @@ export const irisWorldBuilderTheTower = {
   assignmentSlug: "game/the-tower",
   role: "role/world-builder",
   person: "person/alan",
-  startMode: "interactive",
+  startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "4ae98dba-d913-42b5-b3aa-88e9877da71d",

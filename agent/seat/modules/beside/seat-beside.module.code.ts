@@ -2,10 +2,12 @@ import { existsSync } from "node:fs"
 import {
   type Beside,
   CARRIED,
+  type Carried,
   type Kind,
   RECORDS,
 } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { seatPathForName } from "akasha/agent/seat/modules/reading/seat-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -17,6 +19,7 @@ import {
   pageStemOf,
 } from "akasha/page/modules/markdown-page-name/markdown-page-name.module.code.ts"
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export function bare(held: unknown): unknown {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return held
@@ -35,6 +38,11 @@ function asKind(held: unknown, kind: Kind): unknown {
   return kind === "number" ? said : new Date(said).toISOString()
 }
 
+function addressed(where: Carried, said: unknown): unknown {
+  if (where.reaches === undefined || typeof said !== "string") return said
+  return namedAs(where.reaches, slugOf(said), null)
+}
+
 function carriedFrom(values: Beside): Beside | null {
   const held: Beside = {}
   let any = false
@@ -47,7 +55,7 @@ function carriedFrom(values: Beside): Beside | null {
     }
     const where = CARRIED[key]
     if (where === undefined) continue
-    const said = asKind(bare(value), where.kind)
+    const said = addressed(where, asKind(bare(value), where.kind))
     const [one, two] = where.at
     if (one === undefined) continue
     if (two === undefined) held[one] = said

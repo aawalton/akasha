@@ -8,7 +8,7 @@ export const athena = {
   assignmentSlug: "initiative/athena-interactive-seat-pages",
   role: "role/definer",
   person: "person/alan",
-  startMode: "interactive",
+  startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "573171a3-7602-4fac-b8e2-d2e1522d978d",

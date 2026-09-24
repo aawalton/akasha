@@ -4,10 +4,7 @@
 {"propertySlug":"decision-kind","path":"agent/modules/read-record/read-record.module.ts","id":"01a04e96-c80a-79ef-819f-a455a96a0e54"}
 {"propertySlug":"decision-kind","path":"agent/properties/assignment-slug.one-of-property.ts","id":"01a053a2-d0e7-7948-a966-74efed3c62f0"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.ts","id":"01a06a06-5c03-75e8-ac45-a622024f1f89"}
-{"propertySlug":"decision-kind","path":"agent/seat/properties/mode.text-property.ts","id":"01a07661-4b8c-7ac8-ba3a-9cbd32e9ae55"}
-{"propertySlug":"decision-kind","path":"agent/seat/properties/re-exec-ask.text-property.ts","id":"01a05810-00ac-7843-9198-1c1fed82fd40"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/registration-account.text-property.ts","id":"01a05397-7f9b-783b-b5ec-f0b163957fdf"}
-{"propertySlug":"decision-kind","path":"agent/seat/properties/start-mode.text-property.ts","id":"01a05395-58a5-760f-a464-178f4d4ebb97"}
 {"propertySlug":"decision-kind","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.ts","id":"01a05ecf-9a12-7710-b385-fd3a09307d1d"}
 {"propertySlug":"decision-kind","path":"agent/subagent/kind/properties/dispatched-as.text-property.ts","id":"01a05978-f2e3-737b-8b65-7a65013f5626"}
