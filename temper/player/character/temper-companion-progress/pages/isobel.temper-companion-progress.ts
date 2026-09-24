@@ -5,6 +5,7 @@ export const isobel = {
   type: "page-type/temper-companion-progress",
   slug: "isobel",
   title: "Isobel Veloise",
+  completion: "json",
   companionId: "temper-eso-companion/isobel",
   accountPage: "temper-account/alanarre",
 } as const satisfies TemperCompanionProgress
