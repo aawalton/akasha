@@ -177,11 +177,7 @@ export const designPlay = {
       statement:
         "Coming willingly and having choices that matter are what make the play a game affords.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "Nothing here settles whether a frame that brings its choices back is what makes a game.",
-    },
+
     {
       decisionKind: "decision-kind/gap",
       statement: "Nothing here settles whether rules serve choices that matter or sit beside them.",
