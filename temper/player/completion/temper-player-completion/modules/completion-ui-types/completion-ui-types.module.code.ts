@@ -185,7 +185,7 @@ export interface CharacterLoreLibraryProgress {
 interface AntiquityLoreEntry {
   antiquityId: number
   name: string
-  setId: number
+  set: string | null
   loreEntriesAcquired: number
   totalLoreEntries: number
 }

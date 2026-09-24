@@ -20,6 +20,8 @@ const held = new Map<string, Promise<readonly Record<string, unknown>[]>>()
 
 const CEILING = 1000
 
+const NAMING: readonly string[] = ["parent", "set"]
+
 function rowsOf(pageType: string): Promise<readonly Record<string, unknown>[]> {
   const already = held.get(pageType)
   if (already !== undefined) return already
@@ -33,8 +35,10 @@ function rowsOf(pageType: string): Promise<readonly Record<string, unknown>[]> {
 function pick(row: Record<string, unknown>, keys: readonly string[]): Record<string, unknown> {
   const out: Record<string, unknown> = {}
   for (const key of keys) if (row[key] !== undefined) out[key] = row[key]
-  const above = out.parent
-  if (typeof above === "string") out.parent = slugOf(above)
+  for (const key of NAMING) {
+    const named = out[key]
+    if (typeof named === "string") out[key] = slugOf(named)
+  }
   return out
 }
 
@@ -108,7 +112,7 @@ async function askEveryCatalog(): Promise<CompletionCatalogs> {
     antiquityCategories: slim(antiquity, ["esoAntiquityCategoryId", "title"], "antiquities", [
       "esoAntiquityId",
       "antiquityName",
-      "esoAntiquitySetId",
+      "set",
       "totalLoreEntries",
     ]) as readonly AntiquityCatalogCategory[],
     cadwellLevels: slim(cadwell, ["title", "displayOrder"], "cadwellStops", [

@@ -11,7 +11,7 @@ import type {
 export interface AntiquityCatalogAntiquity {
   esoAntiquityId: number
   antiquityName: string
-  esoAntiquitySetId: number
+  set?: string
   totalLoreEntries: number
 }
 
@@ -68,7 +68,7 @@ export function transformAntiquityLoreProgress(
       return {
         antiquityId: antiquity.esoAntiquityId,
         name: antiquity.antiquityName,
-        setId: antiquity.esoAntiquitySetId,
+        set: antiquity.set ?? null,
         loreEntriesAcquired,
         totalLoreEntries: antiquity.totalLoreEntries,
       }
