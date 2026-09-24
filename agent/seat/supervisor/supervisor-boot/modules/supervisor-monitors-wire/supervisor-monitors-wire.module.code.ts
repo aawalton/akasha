@@ -61,12 +61,12 @@ export function startPerAgentMonitors(args: {
           }),
       },
       browserReapPoll({
-        getClaudePid: () => SUPERVISOR_RESTART_STATE.getClaudePidForSelfHeal(),
+        getClaudePid: () => SUPERVISOR_RESTART_STATE.getClaudePid(),
         log,
       }),
       autoCompactPoll({
         getAgentId: args.getAgentId,
-        getClaudePid: () => SUPERVISOR_RESTART_STATE.getClaudePidForSelfHeal(),
+        getClaudePid: () => SUPERVISOR_RESTART_STATE.getClaudePid(),
         getProxyPort: () => getOAuthProxyHandle()?.port ?? null,
         idleRule: LIVE_IDLE_RULE,
         log,

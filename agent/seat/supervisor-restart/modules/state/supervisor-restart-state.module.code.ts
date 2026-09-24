@@ -26,7 +26,7 @@ export const ORIGINAL_ARGV = process.argv.slice(2)
 
 function refuseUnwiredRestartRule(which: string): never {
   throw new Error(
-    `supervisor-restart-state: the ${which} was reached before \`setSelfHealIdleProbe\` wired one. ` +
+    `supervisor-restart-state: the ${which} was reached before \`setRestartIdleProbe\` wired one. ` +
       "Either this path should not be deciding, or the composition root has not run — a " +
       "supervisor that guessed a re-exec window here would act on the fleet with confidence " +
       "it had not earned."
@@ -45,14 +45,14 @@ export type ArmReExecGate = (opts: { onIdle: () => void; maxDeferMs: number }) =
 
 const defaultArmReExecGate: ArmReExecGate = (opts) =>
   armDeferredRestart({
-    getClaudePid: SUPERVISOR_RESTART_STATE.getClaudePidForSelfHeal,
-    getProxyPort: SUPERVISOR_RESTART_STATE.getProxyPortForSelfHeal,
-    getAgentId: () => SUPERVISOR_RESTART_STATE.currentAgentIdForSelfHeal,
+    getClaudePid: SUPERVISOR_RESTART_STATE.getClaudePid,
+    getProxyPort: SUPERVISOR_RESTART_STATE.getGatewayPort,
+    getAgentId: () => SUPERVISOR_RESTART_STATE.currentAgentId,
     onIdle: opts.onIdle,
     idleRule: LIVE_IDLE_RULE,
-    deferredRestartRule: SUPERVISOR_RESTART_STATE.deferredRestartRuleForSelfHeal,
+    deferredRestartRule: SUPERVISOR_RESTART_STATE.deferredRestartRule,
     maxDeferMs: opts.maxDeferMs,
-    log: (line) => console.log(`${LOG} Self-heal ${line}`),
+    log: (line) => console.log(`${LOG} Supervisor restart ${line}`),
   })
 
 const defaultScheduleReExec: (cb: () => void, delayMs: number) => void = (cb, delayMs) => {
@@ -64,14 +64,14 @@ export const SUPERVISOR_RESTART_STATE: {
   reExecScheduled: boolean
   installInFlight: boolean
   initialSupervisorVersion: string | null
-  currentAgentIdForSelfHeal: string | null
-  currentSessionIdForSelfHeal: string | null
-  proxyOwnerAgentIdForSelfHeal: string | null
-  getClaudePidForSelfHeal: () => number | null
-  getProxyPortForSelfHeal: () => number | null
+  currentAgentId: string | null
+  currentSessionId: string | null
+  gatewayOwnerAgentId: string | null
+  getClaudePid: () => number | null
+  getGatewayPort: () => number | null
   deferredReExecGate: { cancel: () => void } | null
-  selfHealJitterRuleForSelfHeal: RestartJitterRuleSource
-  deferredRestartRuleForSelfHeal: DeferredRestartRuleSource
+  jitterRule: RestartJitterRuleSource
+  deferredRestartRule: DeferredRestartRuleSource
   armReExecGate: ArmReExecGate
   killSelf: (signal: NodeJS.Signals) => boolean
   scheduleReExec: (cb: () => void, delayMs: number) => void
@@ -82,14 +82,14 @@ export const SUPERVISOR_RESTART_STATE: {
   reExecScheduled: false,
   installInFlight: false,
   initialSupervisorVersion: null,
-  currentAgentIdForSelfHeal: null,
-  currentSessionIdForSelfHeal: null,
-  proxyOwnerAgentIdForSelfHeal: null,
-  getClaudePidForSelfHeal: inheritedClaudePid,
-  getProxyPortForSelfHeal: () => null,
+  currentAgentId: null,
+  currentSessionId: null,
+  gatewayOwnerAgentId: null,
+  getClaudePid: inheritedClaudePid,
+  getGatewayPort: () => null,
   deferredReExecGate: null,
-  selfHealJitterRuleForSelfHeal: () => refuseUnwiredRestartRule("self-heal jitter rule"),
-  deferredRestartRuleForSelfHeal: UNWIRED_DEFERRED_RESTART_RULE,
+  jitterRule: () => refuseUnwiredRestartRule("restart jitter rule"),
+  deferredRestartRule: UNWIRED_DEFERRED_RESTART_RULE,
   armReExecGate: defaultArmReExecGate,
   killSelf: (sig) => process.kill(process.pid, sig),
   scheduleReExec: defaultScheduleReExec,
@@ -99,44 +99,43 @@ export const SUPERVISOR_RESTART_STATE: {
 
 export function isPendingReExec(): boolean {
   return (
-    SUPERVISOR_RESTART_STATE.pendingReExec ||
-    reExecAsked(SUPERVISOR_RESTART_STATE.currentAgentIdForSelfHeal)
+    SUPERVISOR_RESTART_STATE.pendingReExec || reExecAsked(SUPERVISOR_RESTART_STATE.currentAgentId)
   )
 }
 
 export function setCurrentAgentIdForRestart(agentId: string | null): undefined {
-  SUPERVISOR_RESTART_STATE.currentAgentIdForSelfHeal = agentId
+  SUPERVISOR_RESTART_STATE.currentAgentId = agentId
   takeReExecAsk(agentId)
 }
 
 export function getCurrentAgentIdForRestart(): string | null {
-  return SUPERVISOR_RESTART_STATE.currentAgentIdForSelfHeal
+  return SUPERVISOR_RESTART_STATE.currentAgentId
 }
 
 export function setCurrentSessionIdForRestart(sessionId: string | null): undefined {
-  SUPERVISOR_RESTART_STATE.currentSessionIdForSelfHeal = sessionId
+  SUPERVISOR_RESTART_STATE.currentSessionId = sessionId
 }
 
 export function getCurrentSessionIdForRestart(): string | null {
-  return SUPERVISOR_RESTART_STATE.currentSessionIdForSelfHeal
+  return SUPERVISOR_RESTART_STATE.currentSessionId
 }
 
 export function setGatewayOwnerAgentIdForRestart(agentId: string | null): undefined {
-  SUPERVISOR_RESTART_STATE.proxyOwnerAgentIdForSelfHeal = agentId
+  SUPERVISOR_RESTART_STATE.gatewayOwnerAgentId = agentId
 }
 
 export function getGatewayOwnerAgentIdForRestart(): string | null {
-  return SUPERVISOR_RESTART_STATE.proxyOwnerAgentIdForSelfHeal
+  return SUPERVISOR_RESTART_STATE.gatewayOwnerAgentId
 }
 
 export function setRestartIdleProbe(opts: {
   getClaudePid: () => number | null
   getProxyPort: () => number | null
-  selfHealJitterRule: RestartJitterRuleSource
+  jitterRule: RestartJitterRuleSource
   deferredRestartRule: DeferredRestartRuleSource
 }): undefined {
-  SUPERVISOR_RESTART_STATE.getClaudePidForSelfHeal = opts.getClaudePid
-  SUPERVISOR_RESTART_STATE.getProxyPortForSelfHeal = opts.getProxyPort
-  SUPERVISOR_RESTART_STATE.selfHealJitterRuleForSelfHeal = opts.selfHealJitterRule
-  SUPERVISOR_RESTART_STATE.deferredRestartRuleForSelfHeal = opts.deferredRestartRule
+  SUPERVISOR_RESTART_STATE.getClaudePid = opts.getClaudePid
+  SUPERVISOR_RESTART_STATE.getGatewayPort = opts.getProxyPort
+  SUPERVISOR_RESTART_STATE.jitterRule = opts.jitterRule
+  SUPERVISOR_RESTART_STATE.deferredRestartRule = opts.deferredRestartRule
 }

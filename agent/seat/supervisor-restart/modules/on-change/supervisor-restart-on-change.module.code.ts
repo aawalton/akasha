@@ -10,8 +10,8 @@ import {
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 export function resolveReExecArgv(): readonly string[] {
-  const agentId = SUPERVISOR_RESTART_STATE.currentAgentIdForSelfHeal
-  const sessionId = SUPERVISOR_RESTART_STATE.currentSessionIdForSelfHeal
+  const agentId = SUPERVISOR_RESTART_STATE.currentAgentId
+  const sessionId = SUPERVISOR_RESTART_STATE.currentSessionId
   if (agentId == null || sessionId == null) return ORIGINAL_ARGV
   return buildReExecArgv({ originalArgv: ORIGINAL_ARGV, agentId, sessionId })
 }
@@ -62,12 +62,11 @@ export async function handleVersionUpdate(
     console.log(
       `${LOG} Self-heal: bun install succeeded; deferring re-exec until agent idle (or max-defer ceiling)`
     )
-    const { value: windows, notice } =
-      await SUPERVISOR_RESTART_STATE.deferredRestartRuleForSelfHeal.windows({
-        maxDeferMs: SHAPE.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_DEFER_MS),
-        staleWedgeMs: undefined,
-        preCliffOverrideMs: undefined,
-      })
+    const { value: windows, notice } = await SUPERVISOR_RESTART_STATE.deferredRestartRule.windows({
+      maxDeferMs: SHAPE.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_DEFER_MS),
+      staleWedgeMs: undefined,
+      preCliffOverrideMs: undefined,
+    })
     if (windows === null) {
       SUPERVISOR_RESTART_STATE.reExecScheduled = false
       console.error(
@@ -80,7 +79,7 @@ export async function handleVersionUpdate(
       maxDeferMs: windows.maxDeferMs,
       onIdle: async () => {
         SUPERVISOR_RESTART_STATE.deferredReExecGate = null
-        const { value: delayMs } = await SUPERVISOR_RESTART_STATE.selfHealJitterRuleForSelfHeal(
+        const { value: delayMs } = await SUPERVISOR_RESTART_STATE.jitterRule(
           SUPERVISOR_RESTART_STATE.randomFloat(),
           SHAPE.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_JITTER_MS)
         )

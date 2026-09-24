@@ -65,7 +65,7 @@ export async function runInteractive(
   setRestartIdleProbe({
     getClaudePid: () => agentProc?.proc?.pid ?? null,
     getProxyPort: () => proxy.port,
-    selfHealJitterRule: askReExecJitterMs,
+    jitterRule: askReExecJitterMs,
     deferredRestartRule: LIVE_DEFERRED_RESTART_RULE,
   })
 
