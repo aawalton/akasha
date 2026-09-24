@@ -1,4 +1,5 @@
-import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
+import { makeGmailClient } from "akasha/alan/google/email/modules/gmail-client/gmail-client.module.code.ts"
+import { modifyMessageLabels } from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { addLabel } from "akasha/command/argument/pages/add-label.argument.ts"
 import { message } from "akasha/command/argument/pages/message.argument.ts"
@@ -17,10 +18,9 @@ export function emailMessageModifyLabel(argv: readonly string[], given: Given): 
   if ("refused" in read) return Promise.resolve(refusedBy(read.refused, INPUT))
   const taken = read.taken
   return answering(async (done) => {
-    const google = await emailGoogle()
-    const client = await google.makeGmailClient()
+    const client = await makeGmailClient()
     return asIndentedJson(
-      await google.modifyMessageLabels(
+      await modifyMessageLabels(
         client,
         taken.message,
         { addLabelIds: taken.addLabel, removeLabelIds: taken.removeLabel },
