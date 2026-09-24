@@ -94,7 +94,13 @@ export const releaseSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A release whose tracks are filed is not read again for them.",
+      statement:
+        "A release is read again for its tracks until as many as Spotify counts are filed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A release read again for its tracks and stating a length restates it from them all.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -107,7 +113,8 @@ export const releaseSyncing = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "A release Spotify answers with no track is read again on every later sweep.",
+      statement:
+        "A release filed under fewer tracks than Spotify counts is read again on every later sweep.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -11,13 +11,16 @@ import {
   type Filed,
   type Followed,
   publishedDayOf,
+  releaseLengthened,
   releaseValues,
   shareOf,
   sweepingIn,
   taken,
   titleKey,
+  tracksWhole,
   unfiledIn,
 } from "akasha/alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"
+import type { Tracked } from "akasha/alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"
 import type {
   Album,
   AlbumWithTracks,
@@ -117,6 +120,40 @@ test("a release nothing is filed under is asked for rather than backfilled", () 
   const found = unfiledIn(filedWith([]), "sylvia-daley", [album("a1", "Pixie")], null)
   expect(found.settled).toHaveLength(0)
   expect(found.asked).toHaveLength(1)
+})
+
+function tracksUnder(slug: string, count: number): Tracked {
+  return {
+    names: catalogueNamesFrom([]),
+    held: new Map<string, Value>(),
+    byRelease: new Map([[slug, count]]),
+    byKey: new Map<string, string>(),
+  }
+}
+
+test("a release filed with fewer tracks than Spotify says it carries is read again for them", () => {
+  const behind = { album: { ...album("a1", "Pixie"), total_tracks: 120 }, slug: "pixie", was: {} }
+  expect(tracksWhole(tracksUnder("pixie", 50), behind)).toBe(false)
+  expect(tracksWhole(tracksUnder("pixie", 120), behind)).toBe(true)
+  expect(tracksWhole(tracksUnder("another", 120), behind)).toBe(false)
+})
+
+test("a release read again for its tracks states the length every track adds up to", () => {
+  const behind = { album: album("a1", "Pixie"), slug: "pixie", was: { ownLength: 50 } }
+  const lengthened = releaseLengthened(
+    behind,
+    whole(
+      album("a1", "Pixie"),
+      Array.from({ length: 120 }, () => 60_000)
+    )
+  )
+  expect(lengthened?.["ownLength"]).toBe(120)
+  expect(lengthened?.["slug"]).toBe("pixie")
+})
+
+test("a release whose tracks carry its length is left stating no length of its own", () => {
+  const behind = { album: album("a1", "Pixie"), slug: "pixie", was: { ownLength: 0 } }
+  expect(releaseLengthened(behind, whole(album("a1", "Pixie"), [60_000]))).toBeNull()
 })
 
 test("a limit caps how many unfiled releases one artist gives up", () => {

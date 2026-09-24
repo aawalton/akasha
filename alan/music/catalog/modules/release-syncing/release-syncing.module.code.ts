@@ -35,6 +35,7 @@ import { refusalsIn } from "akasha/command/modules/applying/applying.module.code
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
+  numberAt,
   slugsIn,
   textIn,
   type Value,
@@ -56,6 +57,8 @@ const FOLLOWING = "following"
 const MINUTES = `${unit.slug}/${minutes.slug}` as const
 
 const NOT_STARTED = "not-started"
+
+const OWN_LENGTH = "ownLength"
 
 const DAY = "day"
 
@@ -241,6 +244,15 @@ export function releaseValues(args: {
   }
 }
 
+export function tracksWhole(tracks: Tracked, behind: Asked): boolean {
+  return (tracks.byRelease.get(behind.slug) ?? 0) >= behind.album.total_tracks
+}
+
+export function releaseLengthened(behind: Asked, whole: AlbumWithTracks): Value | null {
+  if ((numberAt(behind.was, OWN_LENGTH) ?? 0) === 0) return null
+  return { ...behind.was, [OWN_LENGTH]: albumMinutes(whole), type: RELEASE, slug: behind.slug }
+}
+
 export function artistValues(one: Followed, today: string): Value {
   return {
     ...one.was,
@@ -337,10 +349,13 @@ export async function syncReleases(
       }
       let filling = 0
       for (const behind of unfiled.settled) {
-        if (tracks.byRelease.has(behind.slug)) continue
+        if (tracksWhole(tracks, behind)) continue
         const left = held.limit === null ? null : held.limit - backfilled - filling
         if (left !== null && left <= 0) break
         const whole = await reach.getAlbum(behind.album.id)
+        const lengthened = releaseLengthened(behind, whole)
+        if (lengthened !== null)
+          changes.push(composedEdit(root, RELEASE, behind.slug, lengthened, source))
         const edits = trackEdits({
           releaseSlug: behind.slug,
           artistSlug: one.slug,
