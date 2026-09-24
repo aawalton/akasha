@@ -127,5 +127,15 @@ export const pageKnowing = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here says where among a key's values a new value falls.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A list field inside a record is read from the page of the record property the key reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A field that record property declares as holding one value is refused as no list field.",
+    },
   ],
 } as const satisfies Module

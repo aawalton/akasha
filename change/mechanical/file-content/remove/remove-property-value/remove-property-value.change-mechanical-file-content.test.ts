@@ -112,6 +112,54 @@ test("the body is answered under the path it was worked out from", () => {
   expect(pathsIn(said)).toEqual([PAGE])
 })
 
+const DIRECTIVES = `export const held = {
+  slug: "held",
+  directives: [
+    { name: "One", aids: ["first", "second"] },
+    { name: "Two", aids: ["first"] },
+  ],
+} as const
+`
+
+const IN_RECORD = { at: PAGE, key: "directives", where: "name", field: "aids" }
+
+function recordSaid(is: string, value: string): Answer {
+  return removePropertyValue(worldKnowing({ [PAGE]: DIRECTIVES }, DECLARED), {
+    ...IN_RECORD,
+    is,
+    value,
+  })
+}
+
+test("a value goes out of the list field of the record `where` and `is` reach", () => {
+  expect(bodyOf(recordSaid("One", "second"), filesOf({ [PAGE]: DIRECTIVES }))).toBe(
+    DIRECTIVES.replace(`["first", "second"]`, `["first"]`)
+  )
+})
+
+test("a value the record's list field does not hold is refused", () => {
+  const said = recordSaid("Two", "second")
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`aids` in that record holds no `second`")
+})
+
+test("a `where` and `is` no record matches is refused", () => {
+  const said = recordSaid("Three", "first")
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("no record under `directives` states that text under `name`")
+})
+
+test("a `field` stated without `where` and `is` is refused", () => {
+  const said = removePropertyValue(worldKnowing(FILES, DECLARED), {
+    at: PAGE,
+    key: "partSlugs",
+    value: "beta",
+    field: "aids",
+  })
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`where`, `is` and `field` are stated together or not at all")
+})
+
 test("the body is answered rather than written", () => {
   expect(saidOf("partSlugs", "beta", FILES).refused).toBe(null)
   expect(FILES[PAGE]).toBe(BODY)

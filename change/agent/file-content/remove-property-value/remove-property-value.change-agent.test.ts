@@ -74,6 +74,54 @@ test("a path the world names no page at is refused", async () => {
   expect(said.refused ?? "").toMatch(/names no page/)
 })
 
+const IN_RECORD = { at: AT, key: "directives", where: "name", is: "One", field: "aids" }
+
+function recordWorld(many: boolean, seen: { given: unknown }): World {
+  const known = knownOf({ slugOfKeyIn: () => "directives" })
+  return {
+    ...worldWith(PAGE),
+    index: {
+      knownIn: () => known,
+      pageByPath: () => PAGE,
+      pageAt: () => PAGE,
+      carriedIn: () => [{ key: "aids", many, pagePropertySlug: "aids", pageTypeSlug: "x" }],
+      kindsUnder: () => new Set<string>(),
+    } as never,
+    reaching: (_world, _at, given) => {
+      seen.given = given
+      return Promise.resolve(NOTHING_OVER)
+    },
+  }
+}
+
+test("a value in a record's list field is handed on naming the record and the field", async () => {
+  const seen = { given: null as unknown }
+
+  const said = await runChange(recordWorld(true, seen), { ...IN_RECORD, value: "second" })
+
+  expect(said.refused).toBeNull()
+  expect(seen.given).toEqual({ ...IN_RECORD, value: "second" })
+})
+
+test("a field the record property declares as no list is refused", async () => {
+  const seen = { given: null as unknown }
+
+  const said = await removePropertyValue(recordWorld(false, seen), { ...IN_RECORD, value: "x" })
+
+  expect(said.refused).toBe(
+    "`aids` is no list field `directives` declares, so no value is taken out"
+  )
+  expect(seen.given).toBeNull()
+})
+
+test("a value named with no record is handed on as it was handed in", async () => {
+  const seen = { given: null as unknown }
+
+  await runChange(recordWorld(true, seen), ASKED)
+
+  expect(seen.given).toEqual(ASKED)
+})
+
 test("an argument this change was handed no value for is refused by the key", async () => {
   const said = await runChange(worldWith(PAGE), { at: AT, key: "partSlugs" })
 

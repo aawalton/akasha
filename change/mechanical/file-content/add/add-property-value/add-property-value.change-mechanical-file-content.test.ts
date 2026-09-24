@@ -266,6 +266,72 @@ test("a value is judged before the body is read", () => {
   expect(said.refused).toBe("`yes` is no boolean, so nothing is put in")
 })
 
+const DIRECTIVES = `${OPENING}  directives: [
+    {
+      name: "One",
+      aids: ["first"],
+    },
+    {
+      name: "Two",
+      act: "go",
+    },
+  ],
+} as const satisfies PageType
+`
+
+const IN_RECORD = { at: AT, key: "directives", where: "name", field: "aids" }
+
+test("a value is put into the list field of the record `where` and `is` reach", () => {
+  const said = addPropertyValue(worldOf(DIRECTIVES), { ...IN_RECORD, is: "One", value: "second" })
+
+  expect(bodyOf(said, () => DIRECTIVES)).toBe(
+    DIRECTIVES.replace(`["first"]`, `["first", "second"]`)
+  )
+})
+
+test("a record stating no such list field gains that field holding the value", () => {
+  const said = addPropertyValue(worldOf(DIRECTIVES), { ...IN_RECORD, is: "Two", value: "first" })
+
+  expect(bodyOf(said, () => DIRECTIVES)).toBe(
+    DIRECTIVES.replace(`act: "go",`, `act: "go",\n      aids: ["first"],`)
+  )
+})
+
+test("a value the record's list field holds already is refused", () => {
+  const said = addPropertyValue(worldOf(DIRECTIVES), { ...IN_RECORD, is: "One", value: "first" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`aids` in that record holds `first` already")
+})
+
+test("a `where` and `is` no record matches is refused", () => {
+  const said = addPropertyValue(worldOf(DIRECTIVES), { ...IN_RECORD, is: "Three", value: "x" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("no record under `directives` states that text under `name`")
+})
+
+test("a `where` and `is` more than one record matches is refused", () => {
+  const twice = DIRECTIVES.replace(`name: "Two"`, `name: "One"`)
+  const said = addPropertyValue(worldOf(twice), { ...IN_RECORD, is: "One", value: "x" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toMatch(/^2 records under `directives` state that text under `name`/)
+})
+
+test("a `where` and `is` stated without a `field` is refused", () => {
+  const said = addPropertyValue(worldOf(DIRECTIVES), {
+    at: AT,
+    key: "directives",
+    where: "name",
+    is: "One",
+    value: "x",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`where`, `is` and `field` are stated together or not at all")
+})
+
 test("a key is judged before the body is read", () => {
   const said = addPropertyValue(worldOf(null), { at: AT, key: "part-slugs", value: "kept/three" })
 

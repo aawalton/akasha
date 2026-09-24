@@ -41,7 +41,16 @@ const BARE = "bare"
 export type Addressed = { readonly value: string } | { readonly refused: string }
 
 export function addressedIn(known: Shaped, value: Value, key: string, named: string): Addressed {
-  const targets = targetsIn(known, value, key)
+  return addressedUnder(known, known.slugOfKeyIn(value, key), key, named)
+}
+
+export function addressedUnder(
+  known: Shaped,
+  propertySlug: string | null,
+  key: string,
+  named: string
+): Addressed {
+  const targets = propertySlug === null ? [] : eachTarget(known.targetOf(propertySlug))
   if (targets.length === 0) return { value: named }
   const reached = reaches(named, targets, known)
   if ("refused" in reached) {
@@ -141,10 +150,37 @@ export function holdsIn(world: World, value: Value, key: string): string | null 
   const carried = world.index.propertiesIfNamed(stated)
   if (carried === null) return null
   const one = carried.find((each) => each.key === key)
-  if (one === undefined) return null
-  if (world.index.kindsUnder(BOOLEAN_PROPERTY).has(one.pageTypeSlug)) return BOOLEAN
-  if (world.index.kindsUnder(NUMBER_PROPERTY).has(one.pageTypeSlug)) return NUMBER
+  return one === undefined ? null : heldAs(world, one.pageTypeSlug)
+}
+
+function heldAs(world: World, pageTypeSlug: string): string | null {
+  if (world.index.kindsUnder(BOOLEAN_PROPERTY).has(pageTypeSlug)) return BOOLEAN
+  if (world.index.kindsUnder(NUMBER_PROPERTY).has(pageTypeSlug)) return NUMBER
   return null
+}
+
+const RECORD_PROPERTY = "record-property"
+
+export type ListField =
+  | { readonly propertySlug: string; readonly holds: string | null }
+  | { readonly refused: string }
+
+export function listFieldIn(
+  world: World,
+  known: Shaped,
+  value: Value,
+  key: string,
+  field: string
+): ListField {
+  const record = known.slugOfKeyIn(value, key)
+  if (record === null) return { refused: `\`${key}\` reaches no record property` }
+  const page = world.index.pageAt(RECORD_PROPERTY, record)
+  const fields = page === null ? [] : world.index.carriedIn(page, record)
+  const one = fields.find((each) => each.key === field)
+  if (one === undefined || !one.many) {
+    return { refused: `\`${field}\` is no list field \`${record}\` declares` }
+  }
+  return { propertySlug: one.pagePropertySlug, holds: heldAs(world, one.pageTypeSlug) }
 }
 
 export function singleIn(world: World, value: Value, key: string): boolean {

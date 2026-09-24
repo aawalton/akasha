@@ -138,3 +138,40 @@ export function matchingIn(
   })
   return found
 }
+
+export type Matched = { readonly record: ts.ObjectLiteralExpression } | { readonly refused: string }
+
+export function recordMatchedIn(
+  path: string,
+  source: ts.SourceFile,
+  key: string,
+  where: string,
+  is: string
+): Matched {
+  const list = listIn(source, key)
+  if (list === null || recordsIn(list).length === 0) {
+    return { refused: `\`${path}\` states no records under \`${key}\`` }
+  }
+  const found = matchingIn(list, where, is)
+  const at = found[0]
+  const one = at === undefined ? undefined : list.elements[at]
+  if (one === undefined || !ts.isObjectLiteralExpression(one)) {
+    return { refused: `no record under \`${key}\` states that text under \`${where}\`` }
+  }
+  if (found.length > 1) {
+    return {
+      refused: `${found.length} records under \`${key}\` state that text under \`${where}\`, and one change works one`,
+    }
+  }
+  return { record: one }
+}
+
+export function assignedIn(
+  held: ts.ObjectLiteralExpression,
+  key: string
+): ts.PropertyAssignment | null {
+  for (const one of held.properties) {
+    if (ts.isPropertyAssignment(one) && keyOf(one) === key) return one
+  }
+  return null
+}

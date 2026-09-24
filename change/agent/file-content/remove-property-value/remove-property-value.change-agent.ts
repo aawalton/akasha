@@ -39,6 +39,19 @@ export const removePropertyValue = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here works out a body of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "`where`, `is` and `field` reach a list field of the one record whose `where` field states `is`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`where`, `is` or `field` stated without the other two is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field the record property's page does not declare as a list is refused.",
+    },
   ],
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,

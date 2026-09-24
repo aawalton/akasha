@@ -7,9 +7,12 @@ import {
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   addressedIn,
+  addressedUnder,
   afterIn,
   declaresIn,
   holdsIn,
+  listFieldIn,
+  type Read,
   readFor,
   singleIn,
   spelledIn,
@@ -28,17 +31,59 @@ const VALUE = "value"
 
 const AFTER = "after"
 
+const WHERE = "where"
+
+const IS = "is"
+
+const FIELD = "field"
+
+const TOGETHER = "`where`, `is` and `field` are stated together or not at all, so nothing is put in"
+
+const PLACED = "`after` places a key rather than a value inside a record, so nothing is put in"
+
 export type AddPropertyValueAsked = {
   readonly at: string
   readonly key: string
   readonly value: string
   readonly after?: string
+  readonly where?: string
+  readonly is?: string
+  readonly field?: string
+}
+
+type InRecord = {
+  readonly at: string
+  readonly key: string
+  readonly value: string
+  readonly where: string
+  readonly is: string
+  readonly field: string
+}
+
+async function addedInRecord(
+  world: World,
+  read: Extract<Read, { readonly known: unknown }>,
+  given: InRecord
+): Promise<Answer> {
+  const field = listFieldIn(world, read.known, read.value, given.key, given.field)
+  if ("refused" in field) return refusing(`${field.refused}, so nothing is put in`)
+  const addressed = addressedUnder(read.known, field.propertySlug, given.field, given.value)
+  if ("refused" in addressed) return refusing(addressed.refused)
+  const valued = { ...given, value: addressed.value }
+  const asked = field.holds === null ? valued : { ...valued, holds: field.holds }
+  return (await reach(world, ADD_PROPERTY_VALUE, asked)).said
 }
 
 export async function addPropertyValue(
   world: World,
   given: AddPropertyValueAsked
 ): Promise<Answer> {
+  const { where, is, field } = given
+  const inRecord = where !== undefined && is !== undefined && field !== undefined
+  if (!inRecord && (where !== undefined || is !== undefined || field !== undefined)) {
+    return refusing(TOGETHER)
+  }
+  if (inRecord && given.after !== undefined) return refusing(PLACED)
   const read = readFor(world, given.at)
   if ("refused" in read) return refusing(`${read.refused}, so no value is put in`)
   const stated = typeIn(read.value)
@@ -52,8 +97,12 @@ export async function addPropertyValue(
     }
     return refusing(
       `\`${given.key}\` is no property \`${stated}\` declares, so nothing is put in. ` +
-        `A field inside a record is reached through the record rather than as a key of its own.`
+        `A list field inside a record is reached with \`where\`, \`is\` and \`field\` under the record's key.`
     )
+  }
+  if (inRecord) {
+    const { at, key, value } = given
+    return await addedInRecord(world, read, { at, key, value, where, is, field })
   }
   const addressed = addressedIn(read.known, read.value, given.key, given.value)
   if ("refused" in addressed) return refusing(addressed.refused)
@@ -69,7 +118,7 @@ export async function addPropertyValue(
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = [AT, KEY, VALUE, AFTER]
+export const takes: readonly string[] = [AT, KEY, VALUE, AFTER, WHERE, IS, FIELD]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const at = given[AT]
@@ -78,9 +127,10 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (key === undefined) return refusing(missing(KEY))
   const value = given[VALUE]
   if (value === undefined) return refusing(missing(VALUE))
-  const after = given[AFTER]
-  return await addPropertyValue(
-    world,
-    after === undefined ? { at, key, value } : { at, key, value, after }
-  )
+  const asked: Record<string, string> = { at, key, value }
+  for (const one of [AFTER, WHERE, IS, FIELD]) {
+    const said = given[one]
+    if (said !== undefined) asked[one] = said
+  }
+  return await addPropertyValue(world, asked as AddPropertyValueAsked)
 }

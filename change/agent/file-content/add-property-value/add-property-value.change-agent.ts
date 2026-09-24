@@ -89,6 +89,32 @@ export const addPropertyValue = {
       decisionKind: "decision-kind/departure",
       statement: "`after` is left out where the pages of this page's type write the key nowhere.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "`where` and `is` reach the one record under the key whose `where` field states the text `is`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`field` names the list field inside that record the value is put into.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`where`, `is` or `field` stated without the other two is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field the record property's page does not declare as a list is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A value put into a record's field is resolved and spelled by that field's own property.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`after` stated with a record is refused rather than dropped.",
+    },
   ],
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,

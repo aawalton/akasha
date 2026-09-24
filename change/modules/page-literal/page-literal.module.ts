@@ -99,5 +99,10 @@ export const pageLiteral = {
       decisionKind: "decision-kind/departure",
       statement: "Whether text spells one value naming nothing the body would run is read here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Where one record is wanted, no record matching and more than one matching are each worded here.",
+    },
   ],
 } as const satisfies Module

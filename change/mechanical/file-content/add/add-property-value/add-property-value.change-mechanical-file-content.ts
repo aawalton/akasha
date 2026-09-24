@@ -107,6 +107,19 @@ export const addPropertyValue = {
       decisionKind: "decision-kind/departure",
       statement: "A value that kind does not hold is refused before the body is read.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A value handed with `where`, `is` and `field` goes into that list field of the one record matching.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No record matching and more than one record matching are each refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A record stating no such field gains that field as a list holding the value.",
+    },
   ],
   changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

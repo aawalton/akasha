@@ -60,6 +60,15 @@ export const removePropertyValue = {
       decisionKind: "decision-kind/absence",
       statement: "No page is taken away here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A value handed with `where`, `is` and `field` leaves that list field of the one record matching.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No record matching and more than one record matching are each refused.",
+    },
   ],
   changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

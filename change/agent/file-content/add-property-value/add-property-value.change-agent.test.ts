@@ -395,6 +395,78 @@ test("a key the pages of this page's type write nowhere is handed on with no `af
   expect("after" in (handed as object)).toBe(false)
 })
 
+const IN_RECORD = { at: AT, key: "directives", where: "name", is: "One", field: "aids" }
+
+const AIDS = { key: "aids", many: true, pagePropertySlug: "aids", pageTypeSlug: "text-property" }
+
+function recordWorld(told: Told, fields: readonly object[], seen: { given: unknown }): World {
+  const world = worldTold({ ...told, carried: [{ key: "directives", many: true }] })
+  return {
+    ...world,
+    index: { ...world.index, pageAt: () => PAGE, carriedIn: () => fields } as never,
+    reaching: (_world, _at, given) => {
+      seen.given = given
+      return Promise.resolve(NOTHING_OVER)
+    },
+  }
+}
+
+test("a value for a record's list field is handed on naming the record and the field", async () => {
+  const seen = { given: null as unknown }
+  const world = recordWorld({ slug: "directives", target: null, found: [] }, [AIDS], seen)
+
+  const said = await runChange(world, { ...IN_RECORD, value: "third" })
+
+  expect(said.refused).toBeNull()
+  expect(seen.given).toEqual({ ...IN_RECORD, value: "third" })
+})
+
+test("a bare name under a record's relation field is handed on as an address", async () => {
+  const seen = { given: null as unknown }
+  const world = recordWorld({ slug: "directives", target: "command", found: REACHED }, [AIDS], seen)
+
+  await addPropertyValue(world, { ...IN_RECORD, value: "two" })
+
+  expect(seen.given).toEqual({ ...IN_RECORD, value: "command/two" })
+})
+
+test("a field the record property declares as no list is refused", async () => {
+  const seen = { given: null as unknown }
+  const one = { ...AIDS, key: "name", many: false }
+  const world = recordWorld({ slug: "directives", target: null, found: [] }, [one], seen)
+
+  const said = await addPropertyValue(world, { ...IN_RECORD, field: "name", value: "x" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`name` is no list field `directives` declares, so nothing is put in")
+  expect(seen.given).toBeNull()
+})
+
+test("a field the record property declares nowhere is refused", async () => {
+  const seen = { given: null as unknown }
+  const world = recordWorld({ slug: "directives", target: null, found: [] }, [AIDS], seen)
+
+  const said = await addPropertyValue(world, { ...IN_RECORD, field: "helps", value: "x" })
+
+  expect(said.refused).toBe("`helps` is no list field `directives` declares, so nothing is put in")
+})
+
+test("`where` and `is` stated without `field` are refused", async () => {
+  const world = worldTold({ slug: null, target: null, found: [] })
+
+  const said = await runChange(world, {
+    at: AT,
+    key: "directives",
+    where: "name",
+    is: "One",
+    value: "x",
+  })
+
+  expect(said.refused).toBe(
+    "`where`, `is` and `field` are stated together or not at all, so nothing is put in"
+  )
+})
+
 test("a page whose type cannot be read has no key refused", async () => {
   let reached = ""
   const world = worldTold({ slug: null, target: null, found: [], carried: null })
