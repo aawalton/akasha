@@ -31,6 +31,7 @@
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"infrastructure/inference/generation/zimage/modules/explore-worker/zimage-explore-worker.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/code-moving/code-moving.module.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"page/modules/export-name/modules/export-naming/export-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"page/modules/file-name/page-file-name.module.code.ts"}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

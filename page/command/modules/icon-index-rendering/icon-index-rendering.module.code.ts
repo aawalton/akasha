@@ -1,6 +1,7 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import {
   everyOfType,
   listedById,
@@ -9,6 +10,7 @@ import {
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { importedFrom } from "akasha/page/modules/body/page-body.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { z } from "zod"
 
 const MODULE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
 
@@ -57,26 +59,23 @@ export type Staged = {
   readonly pageAt: string
 }
 
-function stringsIn(value: unknown): readonly string[] {
-  if (!Array.isArray(value)) return []
-  const held: string[] = []
-  for (const one of value) {
-    if (typeof one === "string") held.push(one.toLowerCase())
-  }
-  return held
+const NO_META = { aliases: [], tags: [], categories: [] }
+
+const ICON_META = z
+  .object({
+    aliases: z.array(z.union([z.string(), z.object({ name: z.string() })])).catch([]),
+    tags: z.array(z.string()).catch([]),
+    categories: z.array(z.string()).catch([]),
+  })
+  .catch(NO_META)
+
+function lowered(words: readonly string[]): readonly string[] {
+  return words.map((one) => one.toLowerCase())
 }
 
-function aliasNamesIn(value: unknown): readonly string[] {
-  if (!Array.isArray(value)) return []
-  const held: string[] = []
-  for (const one of value) {
-    if (typeof one === "string") held.push(one.toLowerCase())
-    else if (one !== null && typeof one === "object" && "name" in one) {
-      const named = (one as { readonly name: unknown }).name
-      if (typeof named === "string") held.push(named.toLowerCase())
-    }
-  }
-  return [...new Set(held)].sort()
+function aliasNamesIn(aliases: readonly (string | { readonly name: string })[]): readonly string[] {
+  const held = aliases.map((one) => (typeof one === "string" ? one : one.name))
+  return [...new Set(lowered(held))].sort()
 }
 
 function kebabToPascal(name: string): string {
@@ -143,8 +142,8 @@ export function pageAtOf(slug: string): string {
 function idFor(root: string, slug: string): string {
   const at = resolve(root, pageAtOf(slug))
   if (existsSync(at)) {
-    const found = ID_LINE.exec(readFileSync(at, "utf8"))
-    if (found?.[1] !== undefined) return found[1]
+    const found = firstCapture(ID_LINE.exec(readFileSync(at, "utf8")))
+    if (found !== null) return found
   }
   return Bun.randomUUIDv7()
 }
@@ -258,14 +257,13 @@ export function entriesIn(iconsAt: string): readonly Entry[] {
   const entries: Entry[] = []
   for (const file of files) {
     const name = file.replace(/\.json$/, "")
-    const read: unknown = JSON.parse(readFileSync(join(iconsAt, file), "utf8"))
-    const meta = read !== null && typeof read === "object" ? (read as Record<string, unknown>) : {}
+    const meta = ICON_META.parse(JSON.parse(readFileSync(join(iconsAt, file), "utf8")))
     const aliases = aliasNamesIn(meta.aliases)
     const keywords = new Set<string>()
     for (const token of name.split("-")) keywords.add(token.toLowerCase())
-    for (const tag of stringsIn(meta.tags)) keywords.add(tag)
+    for (const tag of lowered(meta.tags)) keywords.add(tag)
     for (const alias of aliases) keywords.add(alias)
-    for (const category of stringsIn(meta.categories)) keywords.add(category)
+    for (const category of lowered(meta.categories)) keywords.add(category)
     entries.push({ name, aliases, keywords: [...keywords].sort() })
   }
   return entries

@@ -7,6 +7,7 @@ import {
   slugFor,
 } from "akasha/page/access/modules/capture-error/capture-error.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { z } from "zod"
 
 const AN_INSTANT = "2026-09-01T12:00:00.000Z"
 
@@ -20,12 +21,17 @@ const A_REPORT: ErrorCapturePayload = {
   userAgent: "a browser",
 }
 
-type Sent = { readonly at: string; readonly body: unknown }
+const SENT_BODY = z.object({
+  pages: z.array(z.object({ slug: z.string() })).optional(),
+  puts: z.unknown().optional(),
+})
+
+type Sent = { readonly at: string; readonly body: z.infer<typeof SENT_BODY> }
 
 function answering(said: readonly unknown[], sent: Sent[]): Fetcher {
   let taken = 0
   return (url, init) => {
-    sent.push({ at: url, body: JSON.parse(String(init.body)) })
+    sent.push({ at: url, body: SENT_BODY.parse(JSON.parse(String(init.body))) })
     const held = said[taken] ?? {}
     taken += 1
     return Promise.resolve(new Response(JSON.stringify(held), { status: 200 }))
@@ -100,9 +106,10 @@ test("a capture hands its page over as values rather than as a body", async () =
     ),
     noNap
   )
-  const written = sent[1]?.body as { pages?: readonly { slug?: string }[]; puts?: unknown }
-  expect(written.puts).toBeUndefined()
-  expect(written.pages?.[0]?.slug).toBe("alanwalton-00384d8d426f113f")
+  const written = sent[1]?.body
+  expect(written).toBeDefined()
+  expect(written?.puts).toBeUndefined()
+  expect(written?.pages?.[0]?.slug).toBe("alanwalton-00384d8d426f113f")
 })
 
 test("a question the pages refuse leaves nothing written", async () => {
