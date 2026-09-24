@@ -9,6 +9,6 @@ export const nimue = {
   role: "role/definer",
   person: "person/alan",
   startMode: "interactive",
-  onCall: true,
+  onCall: false,
   registrationAccount: "aawalton",
 } as const satisfies Seat
