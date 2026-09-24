@@ -101,7 +101,7 @@ export const agentMessage = {
       statement: "Nothing readable about a message is known when that message is named.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The messages waiting exist as pages under this type rather than as markdown.",
     },
   ],

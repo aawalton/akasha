@@ -51,7 +51,7 @@ export const agentMessageNotice = {
       statement: "A notice edited here reaches a seat the next time that seat is resumed.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The notices a seat is resumed with exist as pages under this type.",
     },
   ],
