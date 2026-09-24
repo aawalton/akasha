@@ -7,10 +7,7 @@ import type {
 import { textIn, textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { insertedInto } from "akasha/code/reading/modules/value-inserting/value-inserting.module.code.ts"
 import { formattedBodies } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
-import {
-  baseOf,
-  changeOf,
-} from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Generated } from "akasha/page/index/modules/generated-properties/generated-properties.module.code.ts"
@@ -177,10 +174,6 @@ function couldTurn(change: Change, changes: readonly FileChange[]): boolean {
     if (said.held === HELD_TS && change.before(body.path) === null) return true
   }
   return false
-}
-
-export function mintingOnto(root: string, changes: readonly FileChange[]): Minted {
-  return mintedOver(changeOf(root, baseOf(root), changes), changes)
 }
 
 function rowsIn(change: Change): readonly FileChange[] {

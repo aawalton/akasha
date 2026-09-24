@@ -1,7 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type {
+  Adding,
+  FileChange,
+  Replacing,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   baseOf,
@@ -12,7 +16,6 @@ import {
   identified,
   identifiedOver,
   mintedFor,
-  mintingOnto,
 } from "akasha/command/modules/value-minting/value-minting.change-generator.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
@@ -129,6 +132,17 @@ function carrying(body: string): Adding {
   return { kind: "add", path: AT, content: body }
 }
 
+function mintingOnto(
+  root: string,
+  rows: readonly FileChange[]
+): { readonly edits: readonly Replacing[]; readonly filled: readonly string[] } {
+  const said = generateChange(changeOf(root, baseOf(root), rows))
+  const edits = said.edits.filter((one): one is Replacing => one.kind === "replace")
+  return { edits, filled: said.said }
+}
+
+const CREATED = "a page being created states none of its own"
+
 function textOf(edits: readonly Replacing[], path: string = AT): string {
   return edits.find((one) => one.path === path)?.contentTo ?? ""
 }
@@ -151,9 +165,7 @@ test("a property worked out after the checks is not worked out here", () => {
 test("a page being created is given the value it does not carry", () => {
   const root = rooted("uuid-v7")
   const said = mintingOnto(root, [carrying(BODY)])
-  expect(said.filled).toEqual([
-    { path: AT, keys: ["id"], why: "a page being created states none of its own" },
-  ])
+  expect(said.filled).toEqual([`\`${AT}\` was given \`id\` — ${CREATED}`])
   expect(textOf(said.edits)).toMatch(/\{ id: "[0-9a-f-]{36}", type: "page-type\/thing"/)
 })
 
@@ -163,9 +175,7 @@ test("a page of a page type landing in the same change is given the value it doe
     { ...carrying(TYPE_BODY), path: TYPE_AT },
     { ...carrying(WIDGET_BODY), path: WIDGET_AT },
   ])
-  expect(said.filled).toEqual([
-    { path: WIDGET_AT, keys: ["id"], why: "a page being created states none of its own" },
-  ])
+  expect(said.filled).toEqual([`\`${WIDGET_AT}\` was given \`id\` — ${CREATED}`])
   expect(textOf(said.edits, WIDGET_AT)).toMatch(/\{ id: "[0-9a-f-]{36}", type: "page-type\/widget"/)
 })
 
