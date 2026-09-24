@@ -9,6 +9,7 @@ import {
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { MOUNTED } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -31,8 +32,8 @@ const OUTSIDE = ".."
 const HALF_WRITTEN = ".tmp-"
 
 export function linksAt(): string {
-  const home = process.env[HOME]
-  if (home === undefined || home === "") {
+  const home = optionalEnv(HOME)
+  if (home === undefined) {
     throw new Error(`\`${HOME}\` names no folder, so where a hook is registered through is unknown`)
   }
   return join(home, ...UNDER)
@@ -79,8 +80,8 @@ function servedAt(): string | null {
 }
 
 function mountedAt(): string | null {
-  const at = process.env[MOUNTED]
-  if (at === undefined || at === "") return null
+  const at = optionalEnv(MOUNTED)
+  if (at === undefined) return null
   return realOf(at)
 }
 

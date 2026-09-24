@@ -8,6 +8,7 @@ import {
   servedFrom,
 } from "akasha/agent/hook/modules/links/hook-links.module.code.ts"
 import { MOUNTED } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   AKASHA,
@@ -23,7 +24,7 @@ const SERVED = rootEnvName(AKASHA)
 const IN = import.meta.dir
 
 function withServed<T>(at: string, run: () => T): T {
-  const before = process.env[SERVED]
+  const before = optionalEnv(SERVED)
   process.env[SERVED] = at
   try {
     return run()
@@ -34,7 +35,7 @@ function withServed<T>(at: string, run: () => T): T {
 }
 
 function withMounted<T>(at: string, run: () => T): T {
-  const before = process.env[MOUNTED]
+  const before = optionalEnv(MOUNTED)
   process.env[MOUNTED] = at
   try {
     return run()
@@ -95,7 +96,7 @@ const GONE = "/made-up/nothing-is-here.ts"
 const HOME = "HOME"
 
 function withHome<T>(at: string, run: () => T): T {
-  const before = process.env[HOME]
+  const before = optionalEnv(HOME)
   process.env[HOME] = at
   try {
     return run()
