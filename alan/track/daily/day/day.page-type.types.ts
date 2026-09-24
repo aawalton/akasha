@@ -16,6 +16,8 @@ import type { HealthSamples } from "akasha/alan/track/daily/day/properties/healt
 import type { HealthStoplight } from "akasha/alan/track/daily/day/properties/health-stoplight.computed-property.types.ts"
 import type { InboxCalendar } from "akasha/alan/track/daily/day/properties/inbox-calendar.number-property.types.ts"
 import type { InboxCalendarClearedToday } from "akasha/alan/track/daily/day/properties/inbox-calendar-cleared-today.boolean-property.types.ts"
+import type { InboxFindings } from "akasha/alan/track/daily/day/properties/inbox-findings.number-property.types.ts"
+import type { InboxFindingsClearedToday } from "akasha/alan/track/daily/day/properties/inbox-findings-cleared-today.boolean-property.types.ts"
 import type { InboxTasks } from "akasha/alan/track/daily/day/properties/inbox-tasks.number-property.types.ts"
 import type { InboxTasksClearedToday } from "akasha/alan/track/daily/day/properties/inbox-tasks-cleared-today.boolean-property.types.ts"
 import type { InboxTemperTasks } from "akasha/alan/track/daily/day/properties/inbox-temper-tasks.number-property.types.ts"
@@ -121,4 +123,6 @@ export type Day = Page & {
   listens?: Listens
   lowestEmailInboxCount?: LowestEmailInboxCount
   locationTraces?: LocationTraces
+  inboxFindings?: InboxFindings
+  inboxFindingsClearedToday?: InboxFindingsClearedToday
 }

@@ -84,6 +84,8 @@ export const day = {
     "text-property/safety-level",
     "text-property/to-do-slug",
     "text-property/version",
+    "number-property/inbox-findings",
+    "boolean-property/inbox-findings-cleared-today",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -183,6 +185,8 @@ export const day = {
       many: false,
       default: "jsonl",
     },
+    { pageProperty: "number-property/inbox-findings", required: false, many: false },
+    { pageProperty: "boolean-property/inbox-findings-cleared-today", required: false, many: false },
   ],
   decisions: [
     {
