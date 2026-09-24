@@ -4867,9 +4867,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/set-category-ids/set-category-ids.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/set-ids-a-to-o/set-ids-a-to-o.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/set-ids-p-to-z/set-ids-p-to-z.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/set-ids/set-ids.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/set-patterns/set-patterns.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/set-template/set-template.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.ts","typed":true,"deferred":false}

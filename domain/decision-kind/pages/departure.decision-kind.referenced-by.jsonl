@@ -4794,7 +4794,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.ts","id":"01a060f0-3eac-71f4-ab24-ac7b5ad15139"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.ts","id":"01a0610f-45ba-79d3-b258-2e9d709283b7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.ts","id":"01a0610f-45bb-7e6d-9e65-09ec21c0cff3"}
-{"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/set-ids/set-ids.module.ts","id":"01a060d5-2f12-7886-bf98-e23a2afc639d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.ts","id":"01a0610f-45bb-7d20-aedf-7d954ebf2ec5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.ts","id":"01a060f0-3eae-7300-a19e-36158f3ca349"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}

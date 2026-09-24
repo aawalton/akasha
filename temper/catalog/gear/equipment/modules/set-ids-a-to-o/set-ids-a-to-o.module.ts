@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const setIdsAToO = {
-  id: "01a060d5-2f13-7b67-ac60-358958a4c07b",
-  type: "page-type/module",
-  slug: "set-ids-a-to-o",
-  definition: "the gear sets from the no-set sentinel through the ones keyed under the letter o",
-  code: "ts",
-} as const satisfies Module

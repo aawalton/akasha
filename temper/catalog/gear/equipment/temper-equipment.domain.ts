@@ -11,9 +11,6 @@ export const temperEquipment = {
     "module/eso-trait-map",
     "module/jewelry-traits",
     "module/set-category-ids",
-    "module/set-ids",
-    "module/set-ids-a-to-o",
-    "module/set-ids-p-to-z",
     "module/set-patterns",
     "module/set-template",
     "module/weapon-traits",
@@ -24,10 +21,6 @@ export const temperEquipment = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The generated table of gear sets is outside akasha.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every set id here is written out from the set pages rather than by hand.",
     },
     {
       decisionKind: "decision-kind/departure",
