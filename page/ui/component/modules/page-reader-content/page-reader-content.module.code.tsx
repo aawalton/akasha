@@ -13,10 +13,10 @@ import { bodyPropertyIsContentTier } from "akasha/page/core/schema/modules/conte
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import {
+  clampFraction,
   decideReadRestore,
   decideRestoreReady,
   fractionToScrollTop,
-  resolveResumeFraction,
 } from "akasha/page/ui/component/modules/position-fraction/position-fraction.module.code.ts"
 import {
   type ReaderNeighborLink,
@@ -119,19 +119,10 @@ export function PageReaderContent({
   const currentProgress = toFiniteNumber(
     progressPropertyId != null ? data[progressPropertyId] : undefined
   )
-  const rowResumeFraction =
+  const resumeFraction =
     wordCount != null && wordCount > 0 && currentProgress != null
-      ? currentProgress / wordCount
+      ? clampFraction(currentProgress / wordCount)
       : undefined
-  const localPosition = source.useReaderLocalPosition(id)
-  const localResumeFraction =
-    wordCount != null && wordCount > 0 && localPosition.value != null
-      ? localPosition.value / wordCount
-      : undefined
-  const resumeFraction = resolveResumeFraction({
-    localFraction: localResumeFraction,
-    rowFraction: rowResumeFraction,
-  })
   const userId = source.useReaderUserId()
   const setProperty = source.useReaderSetProperty()
   const ReaderHeaderMenu = source.ReaderHeaderMenu
@@ -173,14 +164,13 @@ export function PageReaderContent({
 
   const isVirtualizedBody = drawProse === undefined && body.length > READER_VIRTUALIZE_THRESHOLD
 
-  const restoreMayFire = !localPosition.loaded || decideReadRestore(resumeFraction) !== undefined
+  const restoreMayFire = decideReadRestore(resumeFraction) !== undefined
   const holdEligibleForRestore = isVirtualizedBody && restoreMayFire
 
   const { held: holdReaderBody } = useRestoreReadPosition({
     ready: decideRestoreReady({
       pagePresent: page != null,
       isLoading,
-      localLoaded: localPosition.loaded,
       bodyPresent: body.trim() !== "",
     }),
     fraction: resumeFraction,

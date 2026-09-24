@@ -8,7 +8,6 @@ import {
 } from "akasha/alan/web/.server/alan-route-guard/alan-route-guard.module.code.ts"
 import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { createNativeFsContentPersistence } from "akasha/alan/web/modules/content-pages-fs/content-pages-fs.module.code.ts"
-import { readLocalPosition } from "akasha/alan/web/modules/offline-text/offline-text.module.code.ts"
 import { createNativeFsPagesPersistence } from "akasha/alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts"
 import { useDocumentNonce } from "akasha/code/router-app/modules/document-nonce/document-nonce.module.code.tsx"
 import { fontPreloading } from "akasha/code/router-app/modules/font-preload/font-preload.module.code.ts"
@@ -16,7 +15,6 @@ import { PanelToggleProvider } from "akasha/design/interface/layout/modules/pane
 import { CommandPalette } from "akasha/design/interface/primitive/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
-import { configureLocalPositionReader } from "akasha/page/ui/component/modules/local-position-port/local-position-port.module.code.ts"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import {
   configureContentPersistence,
@@ -35,8 +33,6 @@ import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 configurePagesPersistence(isNativeShell() ? createNativeFsPagesPersistence() : null)
 
 configureContentPersistence(isNativeShell() ? createNativeFsContentPersistence() : null)
-
-configureLocalPositionReader(isNativeShell() ? readLocalPosition : null)
 
 const AUTH_CONFIG: RouteAccessConfig = {
   signInPath: "/sign-in",

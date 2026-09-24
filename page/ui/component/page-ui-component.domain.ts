@@ -28,7 +28,6 @@ export const pageUiComponent = {
     "module/gallery-options-picker",
     "module/group-by-picker",
     "module/json-property-badge",
-    "module/local-position-port",
     "module/markdown-property-badge",
     "module/multi-relation-property-badge",
     "module/nav-command-bindings",

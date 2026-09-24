@@ -2247,7 +2247,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/gallery-options-picker/gallery-options-picker.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/group-by-picker/group-by-picker.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/json-property-badge/json-property-badge.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/local-position-port/local-position-port.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/markdown-property-badge/markdown-property-badge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/multi-relation-property-badge/multi-relation-property-badge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/nav-command-bindings/nav-command-bindings.module.ts"}
