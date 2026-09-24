@@ -24,6 +24,7 @@ local function animationOn(control, kind)
   return setmetatable({ uiControl = control, uiKind = kind }, { __index = Animation })
 end
 
+function Animation:GetTimeline() return self.uiTimeline end
 function Animation:GetAnimatedControl() return self.uiControl end
 function Animation:SetAnimatedControl(control) self.uiControl = control end
 
@@ -40,6 +41,7 @@ end
 
 function Timeline:InsertAnimation(kind, control)
   local made = animationOn(control, kind)
+  made.uiTimeline = self
   insert(self.uiAnimations, made)
   return made
 end
