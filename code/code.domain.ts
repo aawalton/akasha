@@ -54,6 +54,7 @@ export const code = {
     "page-type/workspace",
     "file-property/git-ignore",
     "page-type/data-table",
+    "text-property/name-patterns",
   ],
   decisions: [
     {

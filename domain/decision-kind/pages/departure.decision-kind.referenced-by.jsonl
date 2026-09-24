@@ -1797,7 +1797,6 @@
 {"propertySlug":"decision-kind","path":"code/eso-interface/properties/loaded-as.text-property.ts","id":"01a061c5-760e-7c2b-8bed-7804c4b4226d"}
 {"propertySlug":"decision-kind","path":"code/file-kind-domain/file-kind-domain.page-type.ts","id":"01a06837-0535-70c2-9917-d332b4b6a505"}
 {"propertySlug":"decision-kind","path":"code/file-purpose/file-purpose.page-type.ts","id":"01a06837-0535-7469-ab8e-6bda76b453a7"}
-{"propertySlug":"decision-kind","path":"code/file-purpose/pages/test-ts.file-purpose.ts","id":"01a06860-a0ef-77a2-b7d4-1fd2a8169652"}
 {"propertySlug":"decision-kind","path":"code/file-purpose/pages/test-tsx.file-purpose.ts","id":"01a06860-a0ef-7699-bc5d-c45850b551d2"}
 {"propertySlug":"decision-kind","path":"code/flag/flag.page-type.ts","id":"01a06835-e289-76ca-8e3e-0ef012ffdf1a"}
 {"propertySlug":"decision-kind","path":"code/ios-app/ios-app.page-type.ts","id":"01a05821-5723-7e65-88e2-045d3e49cb23"}
@@ -1898,6 +1897,7 @@
 {"propertySlug":"decision-kind","path":"code/process/modules/proc-environ/proc-environ.module.ts","id":"01a0691b-4f63-79be-84d6-4d9546e6c1be"}
 {"propertySlug":"decision-kind","path":"code/process/modules/proc-reading/proc-reading.module.ts","id":"01a05d02-889b-74a3-996f-1c5943d09b84"}
 {"propertySlug":"decision-kind","path":"code/process/modules/process-ending/process-ending.module.ts","id":"01a05d02-889b-7af1-bb37-7f74754eefe1"}
+{"propertySlug":"decision-kind","path":"code/properties/name-patterns.text-property.ts","id":"01a0d588-4e54-7ef6-9f7e-c030c070bab3"}
 {"propertySlug":"decision-kind","path":"code/python-module/python-module.page-type.ts","id":"01a06815-9efd-7001-8696-539b1123a2c0"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/ast-hash/ast-hash.module.ts","id":"01a0c566-63e3-7998-abd7-27fab7127b0b"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/code-binding/code-binding.module.ts","id":"01a0c4b5-9eb1-7627-9166-8057c88ab5b1"}

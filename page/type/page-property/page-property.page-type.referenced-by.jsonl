@@ -79,6 +79,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/ios-program/properties/components.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/module/properties/page-body-readers.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/module/properties/reached-by-path.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/properties/name-patterns.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/rust-crate/properties/rust-modules.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/workspace/properties/tool-reached.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"command/modules/install-linking/install-linking.module.test.ts"}

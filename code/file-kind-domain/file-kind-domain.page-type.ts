@@ -6,7 +6,9 @@ export const fileKindDomain = {
   slug: "file-kind-domain",
   definition: "a kind of file, told by the name a file has",
   extends: ["page-type/domain"],
-  properties: [],
+  properties: [
+    { pageProperty: "text-property/name-patterns", required: true, many: true, maxCount: null },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

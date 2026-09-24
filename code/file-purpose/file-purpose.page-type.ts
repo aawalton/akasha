@@ -7,7 +7,9 @@ export const filePurpose = {
   definition: "what a file is for, told by its name ending rather than its format",
   parts: ["file-purpose/test-ts", "file-purpose/test-tsx"],
   extends: ["page-type/domain"],
-  properties: [],
+  properties: [
+    { pageProperty: "text-property/name-patterns", required: true, many: true, maxCount: null },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -23,8 +25,8 @@ export const filePurpose = {
       statement: "One file has a kind and a purpose at once.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The ending a purpose claims has no property here yet.",
+      decisionKind: "decision-kind/departure",
+      statement: "A purpose states the ending it claims as a name pattern.",
     },
   ],
   types: "ts",

@@ -234,6 +234,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/ios-program/properties/target-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/module/properties/page-body-readers.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/module/properties/reached-by-path.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/properties/name-patterns.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/route/properties/url-path.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/rust-module/properties/rust-module-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/type-declaration/properties/written-by.text-property.ts"}

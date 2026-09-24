@@ -5,14 +5,5 @@ export const testTs = {
   type: "page-type/file-purpose",
   slug: "test-ts",
   definition: "a file of TypeScript source holding tests",
-  decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A file whose name ends `test.ts` is of this purpose.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The ending sits here as prose until a purpose can state an ending as a property.",
-    },
-  ],
+  namePatterns: ["*.test.ts"],
 } as const satisfies FilePurpose
