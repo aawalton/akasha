@@ -36,6 +36,7 @@ export const checkCode = {
     "check-code/introduced-property-is-a-part",
     "check-code/key-names-one-property",
     "check-code/lint-clean",
+    "check-code/lua-runtime-library-compiles",
     "check-code/manifest-lands-on-a-file",
     "check-code/manifest-names-what-is-reached",
     "check-code/module-sits-under-a-modules-folder",

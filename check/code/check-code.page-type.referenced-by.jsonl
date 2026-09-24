@@ -26,6 +26,7 @@
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/introduced-property-is-a-part/introduced-property-is-a-part.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.ts"}
+{"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/lua-runtime-library-compiles/lua-runtime-library-compiles.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/module-sits-under-a-modules-folder/module-sits-under-a-modules-folder.check-code.ts"}

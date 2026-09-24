@@ -206,6 +206,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.ts","id":"01a0823c-3bff-7d55-9301-1297ad069ef4"}
 {"propertySlug":"decision-kind","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.ts","id":"01a0500d-f968-74e7-b9a7-8394faa7a890"}
 {"propertySlug":"decision-kind","path":"check/code/pages/lint-clean/lint-clean.check-code.ts","id":"01a04eec-d235-7000-9f19-d65076b0c634"}
+{"propertySlug":"decision-kind","path":"check/code/pages/lua-runtime-library-compiles/lua-runtime-library-compiles.check-code.ts","id":"01a0d459-d5bc-71c9-b017-1f958fd74948"}
 {"propertySlug":"decision-kind","path":"check/code/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.check-code.ts","id":"01a05946-775f-7000-9f76-45d9dcf376ed"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-class/no-class.check-code.ts","id":"01a04bc8-6c37-77b0-9ff6-5922a789c962"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-code-comments/no-code-comments.check-code.ts","id":"01a04bc8-6c45-741c-8dfd-0665538af7c4"}

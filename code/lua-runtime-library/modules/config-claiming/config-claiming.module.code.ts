@@ -6,7 +6,7 @@ import { namedUnder } from "akasha/page/modules/file-name/page-file-name.module.
 
 const LIBRARY = "lua-runtime-library"
 
-const CONFIGS: readonly string[] = [universalConfig.fileName, lua50Config.fileName]
+export const CONFIGS: readonly string[] = [universalConfig.fileName, lua50Config.fileName]
 
 type Reader = (path: string) => string | null
 
@@ -19,7 +19,7 @@ type Configured = {
   readonly claims: readonly RegExp[]
 }
 
-type Library = {
+export type Library = {
   readonly page: string
   readonly configs: readonly Configured[]
 }
@@ -43,7 +43,11 @@ function configuredAt(at: string, text: string): Configured {
   return { at, claims: (said.include ?? []).map((each) => matching(join(folder, each))) }
 }
 
-function librariesIn(paths: readonly string[], read: Reader, index: Answering): readonly Library[] {
+export function librariesIn(
+  paths: readonly string[],
+  read: Reader,
+  index: Answering
+): readonly Library[] {
   const found: Library[] = []
   for (const page of pagesOver(paths, read, index)) {
     const configs: Configured[] = []
@@ -57,7 +61,7 @@ function librariesIn(paths: readonly string[], read: Reader, index: Answering): 
   return found
 }
 
-function claims(library: Library, path: string): boolean {
+export function claims(library: Library, path: string): boolean {
   return library.configs.some((one) => one.claims.some((each) => each.test(path)))
 }
 

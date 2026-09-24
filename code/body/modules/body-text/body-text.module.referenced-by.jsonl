@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"change/runner/change-runner.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"check/code/pages/index-answers-are-level-with-the-change/index-answers-are-level-with-the-change.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"body-text.module.code.ts","path":"check/code/pages/lua-runtime-library-compiles/lua-runtime-library-compiles.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"check/code/pages/no-refused-syntax/no-refused-syntax.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"check/code/pages/no-refused-syntax/no-refused-syntax.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
