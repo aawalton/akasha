@@ -243,7 +243,7 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
       const one = held[0]
       if (one === undefined) return null
       if (held.length === 1) return one
-      const stated = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+      const stated = textAt(value, "type")
       if (stated === null) return null
       const said = carriedBy(slugOf(stated)).get(key)
       return said === undefined ? null : said
@@ -251,7 +251,7 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     fieldOfKey: (propertySlug, key) => keyedAmong(fields, propertySlug, key),
     rowFieldOfKey: (slug, key) => keyedAmong(rowFields, slug, key),
     entriedIn: (value) => {
-      const stated = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+      const stated = textAt(value, "type")
       return stated === null ? [] : entriedOf(slugOf(stated))
     },
   }

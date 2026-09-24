@@ -56,6 +56,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/generator-turning/generator-turning.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/indexing/indexing.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/reaching/reaching.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/page-property/index-page-property.index.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/modules/address/page-address.module.test.ts"}

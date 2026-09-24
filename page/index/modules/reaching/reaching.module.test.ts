@@ -25,6 +25,7 @@ import { readingAt } from "akasha/page/index/modules/surface/index-surface.modul
 import { lineFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { pagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -163,7 +164,7 @@ test("a name two members of a one of reach two pages by is refused rather than r
 test("a key one property carries reaches it, and a key no property carries reaches none", () => {
   const { root, repo } = grounded()
   const known = knownAt(root, repo)
-  const value = { pageTypeSlug: "domain" }
+  const value = { type: `${pageType.slug}/domain` }
 
   expect(known.slugOfKeyIn(value, "partSlugs")).toBe("part-slugs")
   expect(known.slugOfKeyIn(value, "domain")).toBe("page-domain")
@@ -289,9 +290,8 @@ test("an entry shape declaring a relation is answered, and one declaring none is
   const { root, repo } = entryShapes()
   const known = knownAt(root, repo)
 
-  expect(known.entriedIn({ pageTypeSlug: "cased" }).map((one) => one.pagePropertySlug)).toEqual([
-    "cases",
-  ])
+  const cased = { type: `${pageType.slug}/cased` }
+  expect(known.entriedIn(cased).map((one) => one.pagePropertySlug)).toEqual(["cases"])
 })
 
 function oneOfRecords(): { readonly root: string; readonly repo: string } {
