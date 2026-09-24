@@ -147,7 +147,6 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/view-names-a-declared-key/view-names-a-declared-key.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/modules/audit-asking/audit-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/modules/audit-commit/audit-commit.module.code.ts"}
@@ -166,6 +165,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/ios-app/modules/app-building/app-building.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/ios-component/pages/spacing/modules/stepping/spacing-stepping.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/lua-runtime-library/modules/config-claiming/config-claiming.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/module/modules/name-series/name-series.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts"}

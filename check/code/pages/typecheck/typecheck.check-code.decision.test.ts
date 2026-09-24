@@ -4,7 +4,6 @@ import { dirname, join } from "node:path"
 import {
   claimedIn,
   configOf,
-  matching,
   reachedBy,
   reachesTypegen,
   refusalsOver,
@@ -94,13 +93,6 @@ test("a page the change takes away leaves what its page type says loads it uncom
   if ("refused" in cast) throw new Error(cast.refused)
   expect(rootsOf(gone, cast.shadow)).toEqual([])
   expect(await refusalsOver(gone, cast.shadow)).toEqual([])
-})
-
-test("what a config's include names is read as a pattern rather than as plain text", () => {
-  expect(matching("a/src/*.ts").test("a/src/one.ts")).toBe(true)
-  expect(matching("a/src/*.ts").test("a/src/deep/one.ts")).toBe(false)
-  expect(matching("a/src/**/*.ts").test("a/src/deep/one.ts")).toBe(true)
-  expect(matching("a/one.d.ts").test("a/oneXd.ts")).toBe(false)
 })
 
 test("a file a lua runtime library's config names is compiled by that config rather than here", () => {

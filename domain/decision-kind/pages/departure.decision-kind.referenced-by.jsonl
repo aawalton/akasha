@@ -1860,6 +1860,7 @@
 {"propertySlug":"decision-kind","path":"code/javascript-module/properties/javascript.code-file-property.ts","id":"01a06954-f7dc-7da3-abd6-1b92e38df030"}
 {"propertySlug":"decision-kind","path":"code/lua-module/lua-module.page-type.ts","id":"01a06036-9b74-79ba-9f54-27289400cf14"}
 {"propertySlug":"decision-kind","path":"code/lua-runtime-library/lua-runtime-library.page-type.ts","id":"01a06759-2aa6-7000-9523-2fbcc69fd891"}
+{"propertySlug":"decision-kind","path":"code/lua-runtime-library/modules/config-claiming/config-claiming.module.ts","id":"01a0d458-1065-78f1-b58b-808967038536"}
 {"propertySlug":"decision-kind","path":"code/module-property-group/module-property-group.page-type.ts","id":"01a087b6-ed4d-74ed-b30f-7c9dd49d73c0"}
 {"propertySlug":"decision-kind","path":"code/module-property-group/modules/group-writing/group-writing.module.ts","id":"01a08dd3-479a-794b-bdd2-2b24e59840c6"}
 {"propertySlug":"decision-kind","path":"code/module-property-group/properties/logs.file-property.ts","id":"01a08bdc-91a1-7741-9e53-895095f3712f"}

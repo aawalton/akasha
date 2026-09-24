@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"lua50-config.file-property.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"lua50-config.file-property.ts","path":"code/lua-runtime-library/modules/config-claiming/config-claiming.module.code.ts"}
 {"propertySlug":"import","fileName":"lua50-config.file-property.types.ts","path":"code/lua-runtime-library/lua-runtime-library.page-type.types.ts"}
 {"propertySlug":"page-property","path":"code/lua-runtime-library/lua-runtime-library.page-type.ts","id":"01a06759-2aa6-7000-9523-2fbcc69fd891"}
 {"propertySlug":"parts","path":"code/lua-runtime-library/lua-runtime-library.page-type.ts","id":"01a06759-2aa6-7000-9523-2fbcc69fd891"}

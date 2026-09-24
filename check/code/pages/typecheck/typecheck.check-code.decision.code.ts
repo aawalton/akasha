@@ -10,8 +10,7 @@ import {
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
-import { lua50Config } from "akasha/code/lua-runtime-library/properties/lua50-config.file-property.ts"
-import { universalConfig } from "akasha/code/lua-runtime-library/properties/universal-config.file-property.ts"
+import { claimingOver } from "akasha/code/lua-runtime-library/modules/config-claiming/config-claiming.module.code.ts"
 import { specifiersIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import {
   compiled,
@@ -29,7 +28,6 @@ import { importers } from "akasha/graph/predicate/pages/importers/importers.grap
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { waitingKeys } from "akasha/page/index/modules/generated-properties/generated-properties.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { namedUnder } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { API } from "typescript-7/unstable/async"
 
@@ -38,10 +36,6 @@ const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
 const TYPEGEN = "+types"
 
 const GENERATED_AT = "/.react-router/"
-
-const LIBRARY = "lua-runtime-library"
-
-const CONFIGS = [universalConfig.fileName, lua50Config.fileName]
 
 const CONFIG_NAME = "tsconfig.typecheck.json"
 
@@ -217,45 +211,6 @@ function foundOf(root: string, said: Diagnosed, placed: Placing): Found {
     path: at ?? said.fileName ?? "",
     reason: `line ${line}: TS${said.code}: ${said.text}`,
   }
-}
-
-type Configured = {
-  readonly include?: readonly string[]
-}
-
-export function matching(one: string): RegExp {
-  const held = one.replace(/[.+^${}()|[\]\\]/g, "\\$&")
-  const said = held.replace(/\*\*\/|\*/g, (each) => (each === "*" ? "[^/]*" : "(?:.*/)?"))
-  return new RegExp(`^${said}$`)
-}
-
-function librariesOver(
-  paths: readonly string[],
-  read: Reader,
-  index: Answering
-): readonly string[] {
-  const held = new Set(index.everyOfType(LIBRARY).map((one) => one.path))
-  const under = new Set([LIBRARY])
-  for (const one of paths) if (namedUnder(one, under) !== null) held.add(one)
-  return [...held].filter((one) => read(one) !== null)
-}
-
-function claimingOver(
-  paths: readonly string[],
-  read: Reader,
-  index: Answering
-): (path: string) => boolean {
-  const held: RegExp[] = []
-  for (const listed of librariesOver(paths, read, index)) {
-    const folder = dirname(listed)
-    for (const name of CONFIGS) {
-      const text = read(join(folder, name))
-      if (text === null) continue
-      const said = JSON.parse(text) as Configured
-      for (const each of said.include ?? []) held.push(matching(join(folder, each)))
-    }
-  }
-  return (path) => held.some((one) => one.test(path))
 }
 
 export function claimedIn(change: Change, index: Answering): (path: string) => boolean {
