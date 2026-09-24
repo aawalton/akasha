@@ -38,6 +38,7 @@ export const provisionedFile = {
     "provisioned-file/kde-screen-locker",
     "provisioned-file/logind-idle-action",
     "provisioned-file/walton-realtime-priority",
+    "text-property/masked-units",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -47,6 +48,7 @@ export const provisionedFile = {
     { pageProperty: "text-property/install-path", required: false, many: false },
     { pageProperty: "text-property/reload-with", required: false, many: false },
     { pageProperty: "module-property-group/filling", required: false, many: false },
+    { pageProperty: "text-property/masked-units", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
